@@ -26,7 +26,7 @@ sohl:
 ## Ritual: Triyanga-sampradeya
 
 Rite
-: [The Triple Blessing]{.name data-type="lore/custom"}. The three Acharyas or their deputies speak the formulas of shaping, preserving and transforming in sequence. It is the sect's one civic instrument, performed at every groundbreaking and seasonal turn, at a coronation, at the sighting of the year at [[place-suryatempl|The Surva temple]], and over the mountain's gold at a Weighing when a court asks the orthodox hierarchy to set the date in the Ganoka-shalda's place
+: [The Triple Blessing]{.name data-type="lore/custom"}. The three Acharyas or their deputies speak the formulas of shaping, preserving and transforming in sequence. It is the sect's one civic instrument, performed at every groundbreaking and seasonal turn, at a coronation, at the sighting of the year at [[place-suryatempl|the Surva temple]], and over the mountain's gold at a Weighing when a court asks the orthodox hierarchy to set the date in the Ganoka-shalda's place
 
 Cost
 : Nothing from the petitioner beyond standing to witness. From the Acharyas, the work of bringing three offices together, [[affiliation-vyalendra|Vyalendra]]'s, [[affiliation-mahajaya|Mahajaya]]'s and [[affiliation-rasikara|Rasikara]]'s, none of whom the sect will let a civic occasion honor alone

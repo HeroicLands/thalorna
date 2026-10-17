@@ -20,7 +20,7 @@ data:
 
 Malagna is the land of the [[affiliation-kingdomlgn|Kingdom of Malagna]], between [[place-norgaad|Norgaad]] to the southwest and [[place-targud|Targud]] to the northeast; [[place-nordheim|Nordheim]] lies beyond Norgaad.
 
-Malagna occupies the northern part of the [[place-nrdlndsrgn|Nordlands Region]] between Norgaad's fjords and Targud's eastern frontier. Its own coast faces the northern ocean, while the [[place-velanthrgn|Velanthia Region]] lies beyond its southeastern border.
+Malagna occupies the northern part of the [[place-nrdlndsrgn|Nordlands Region]] between Norgaad's fjords and Targud's eastern frontier. Its own coast faces the northern ocean, while [[place-velanthrgn|Velanthia]] lies beyond its southeastern border.
 
 ## Character
 

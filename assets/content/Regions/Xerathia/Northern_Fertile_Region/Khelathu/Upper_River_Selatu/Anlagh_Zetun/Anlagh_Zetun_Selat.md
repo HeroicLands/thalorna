@@ -19,11 +19,11 @@ data:
 
 "Stand on the dike at the height of the flood and try to find a field," a survey scribe tells a clerk on his first spring in the basin. "You cannot. The water has taken every boundary stone in the selat, and when it falls you and I will walk every line again, cord in hand, and enter each one as if it had never been in doubt."
 
-Anlagh-Zetun Selat is the land of [[affiliation-selatnlghztn|The Selat of Anlagh-Zetun]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is the empire's great granary. The name means "the living storehouse," and it is a plain description rather than a boast: when anyone in the capital asks where the empire's bread comes from, the answer is this country. The river-valley broadens here into one of its widest flood-basins, the annual inundation lays silt across leagues of wheatland, and the deep granaries hold the surplus that feeds the capital, the army and the delta ports in years of failure elsewhere. Beyond the reach of the water the land is high desert and chaparral, and the line where the black soil stops is the selat's whole map.
+Anlagh-Zetun Selat is the land of [[affiliation-selatnlghztn|the Selat of Anlagh-Zetun]], one of [[affiliation-upperrivrslt|the Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is the empire's great granary. The name means "the living storehouse," and it is a plain description rather than a boast: when anyone in the capital asks where the empire's bread comes from, the answer is this country. The river-valley broadens here into one of its widest flood-basins, the annual inundation lays silt across leagues of wheatland, and the deep granaries hold the surplus that feeds the capital, the army and the delta ports in years of failure elsewhere. Beyond the reach of the water the land is high desert and chaparral, and the line where the black soil stops is the selat's whole map.
 
 ## Character
 
-The survey scribe's year has five verbs, and [[place-anlaghzetun|Anlagh-Zetun]] runs on them: the fields are drowned, re-measured, planted, harvested and rendered, season upon season and generation upon generation. Here more than anywhere the surveyor's cord and the scribe's tally rule the calendar. This is the heartland's heartland, broad, fertile, settled and stubbornly traditional. It is not an exciting selat, and it would take that as a compliment. The Halzi'a's house is [Anlaghet'Zaru]{.name data-type="affiliation/lineage"}, which raised the basin against the god-king's guard in 268 AF ([[lore-sealedgran|The Battle of the Sealed Granaries]]) and keeps the sealed dome of [[place-eleventhgran|The Eleventh Granary]] shut to this day.
+The survey scribe's year has five verbs, and [[place-anlaghzetun|Anlagh-Zetun]] runs on them: the fields are drowned, re-measured, planted, harvested and rendered, season upon season and generation upon generation. Here more than anywhere the surveyor's cord and the scribe's tally rule the calendar. This is the heartland's heartland, broad, fertile, settled and stubbornly traditional. It is not an exciting selat, and it would take that as a compliment. The Halzi'a's house is [Anlaghet'Zaru]{.name data-type="affiliation/lineage"}, which raised the basin against the god-king's guard in 268 AF ([[lore-sealedgran|the Battle of the Sealed Granaries]]) and keeps the sealed dome of [[place-eleventhgran|the Eleventh Granary]] shut to this day.
 
 ## Economy
 
@@ -34,7 +34,7 @@ Grain is the whole foundation: wheat above all, then barley and millet, grown on
 - The flood-basin wheatlands, the broadest and most productive in the empire
 - The deep imperial and temple granaries that store the empire's reserve against famine
 - The river-port of Amqelu-Legez, where the harvest is loaded for the capital
-- The temple of the [[affiliation-qearet|Faith of Qe'aret]] and the survey-and-assize courts that measure the land
+- The temple of [[affiliation-qearet|Qe'aret]] and the survey-and-assize courts that measure the land
 - The canal, dike and basin-irrigation works that govern the flood
 
 ## Settlements

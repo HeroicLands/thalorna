@@ -112,13 +112,13 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Say a discharged veteran, drinking in a Watch-house tavern in [[place-orzara|Orzara City]], explains the army to a nephew who leaves for the recruiting station in the morning. "There are two armies in every legion, lad, and they share a mess hall. One bought its rank and one earned it. You will serve in the one that earned it, and your first lesson is whom to listen to: the officer who outranks you, or the centurion who knows."
+Say a discharged veteran, drinking in a Watch-house tavern in [[place-orzara|Orzara]], explains the army to a nephew who leaves for the recruiting station in the morning. "There are two armies in every legion, lad, and they share a mess hall. One bought its rank and one earned it. You will serve in the one that earned it, and your first lesson is whom to listen to: the officer who outranks you, or the centurion who knows."
 
-That is The Vylarian Military in a sentence, and the rest of this note fills in the arrangement.
+That is the Vylarian military in a sentence, and the rest of this note fills in the arrangement.
 
 ## At a Glance
 
-The legions are the [[affiliation-vylarinmpr|Vylarian Empire]]’s standing army. They operate in [[affiliation-vylarinmpr|Vylaria]] proper, the territory under direct imperial governance, and not in [[place-helionis|Helionis]], whose cities keep their own forces. They do _not_ freely operate in the [[place-aureldirgn|Aureldia Region]] or the [[place-byzariargn|Bizaria Region]], which have their own armies, nor in the [[place-taruzelrgn|Taruzel Region]] since the secession, nor anywhere else outside imperial territory except by invitation or hire.
+The legions are the [[affiliation-vylarinmpr|Vylarian Empire]]’s standing army. They operate in [[affiliation-vylarinmpr|Vylaria]] proper, the territory under direct imperial governance, and not in [[place-helionis|Helionis]], whose cities keep their own forces. They do _not_ freely operate in the [[place-aureldirgn|Aureldia Region]] or the [[place-byzariargn|Bizaria Region]], which have their own armies, nor in [[place-taruzelrgn|Taruzel]] since the secession, nor anywhere else outside imperial territory except by invitation or hire.
 
 The reigning **Orzas** (the Vylarian emperor) is the supreme commander. Operational command belongs to the **Dukran** at Orzara, who presides over the war council of the **Sodari Orzas**.
 
@@ -217,7 +217,7 @@ The system's tactical effectiveness depends on one fact: young noble officers be
 | **Lusar Maldor** | 28–35 | Senior tribune, 2IC of a legion             | Operational deputy to the Vandraks. Often the legion's effective day-to-day commander when the Vandraks is a courtier appointment.                                                                                                                                            |
 | **Vandraks**     | 30+   | Legion commander                            | Frequently an ankren or ethlen appointment; political weight at least as important as tactical capacity. The legion's actual operational commander, but reliant on the Lusar Maldor and the Vallar for execution.                                                             |
 
-The critical relationship is between the **Lusel**, an 18-year-old aristocrat who technically outranks every commoner in the legion, and the **Hundar Maldor**, a 50-year-old senior centurion who has held the legion's combat doctrine in his head for thirty years. The Lusel's commission says he is the Hundar Maldor's superior. Every unwritten rule of the Vylarian army says he should treat the Hundar Maldor's counsel as binding unless he has an extraordinarily good reason not to. A Lusel who issues operational orders against his Hundar Maldor's advice and gets the unit cut up gets no defense from his family's connections. He is quietly cashiered and sent home, and his family is informed that further military careers in their line should perhaps be reconsidered.
+The critical relationship is between the **Lusel**, an 18-year-old aristocrat who technically outranks every commoner in the legion, and the **Hundar Maldor**, a 50-year-old senior centurion who has held the legion's combat doctrine in his head for thirty years. The Lusel's commission says he is the Hundar Maldor's superior. Every unwritten rule of the Vylarian army says he should treat the Hundar Maldor's counsel as binding unless he has an extraordinarily good reason not to. An Lusel who issues operational orders against his Hundar Maldor's advice and gets the unit cut up gets no defense from his family's connections. He is quietly cashiered and sent home, and his family is informed that further military careers in their line should perhaps be reconsidered.
 
 The same dynamic runs one rank lower. A **Kadel** is technically senior to every Hundar, every Masar and every legionary in the legion, and he is also fifteen years old and knows nothing. His informal subordination to the senior NCOs of his assigned area is total. The army treats a Kadel who behaves arrogantly toward a Hundar as having committed a serious breach of professional conduct, a breach not of _rank_ but of the unwritten code that holds the system together.
 
@@ -253,7 +253,7 @@ The "confirming officer's cut" that the Vandraks takes on noble commission confi
 
 ## The Four Estates of Vylarian Nobility
 
-The imperial registry kept by [[affiliation-imprlscrblgld|The Imperial Scribal Guild]] recognizes four formal estates of nobility. The registry is updated each year and published at the spring imperial address, and it is one of the most closely watched documents in the empire, because it records every elevation, demotion and adjustment of standing.
+The imperial registry kept by [[affiliation-imprlscrblgld|the Imperial Scribal Guild]] recognizes four formal estates of nobility. The registry is updated each year and published at the spring imperial address, and it is one of the most closely watched documents in the empire, because it records every elevation, demotion and adjustment of standing.
 
 | Estate                                | Houses | Livery / Mark                                            | Mode of Address       | Notes                                                                                                                                                                                        |
 | ------------------------------------- | ------ | -------------------------------------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -266,11 +266,11 @@ Movement between estates is rare but real. A _thurden_ (Bronze) house that produ
 
 ## Currency and the Commission System
 
-The Vylarian currency anchors at the **Solden** (gold coin) but circulates mainly in the **Ardin** and **Ogdel** (Bit). One Solden equals 160 Ardin equals 1,280 Bits. The Solden is barely a circulating coin: perhaps 200,000 exist empire-wide, mostly in noble vaults, the imperial treasury and [[affiliation-tarmex|The Tarmeks Orzan]]’s strongroom at Orzara. (The [[lore-vylrncrncy|Vylarian Currency]] note holds the full coinage system, sample prices and the wage scale.)
+The Vylarian currency anchors at the **Solden** (gold coin) but circulates mainly in the **Ardin** and **Ogdel** (Bit). One Solden equals 160 Ardin equals 1,280 Bits. The Solden is barely a circulating coin: perhaps 200,000 exist empire-wide, mostly in noble vaults, the imperial treasury and [[affiliation-tarmex|the Tarmeks Orzan]]’s strongroom at Orzara. (The [[lore-vylrncrncy|Vylarian Currency]] note holds the full coinage system, sample prices and the wage scale.)
 
-Large-value commerce moves in **paper script** issued by [[affiliation-danvar|The Danvar]], the moneylenders' guild, against the imperial treasury's reserves. (The Tarmeks Orzan note describes the three-tier note system of retail, traveler's and master notes.) Nearly every house settles nearly every commission in script, even at the largest scales. Physical Solden payment is reserved for the most prestigious transactions, where an _ethlen_ house wishes to make a public display of liquid wealth.
+Large-value commerce moves in **paper script** issued by [[affiliation-danvar|the Danvar]], the moneylenders' guild, against the imperial treasury's reserves. (The Tarmeks Orzan note describes the three-tier note system of retail, traveler's and master notes.) Nearly every house settles nearly every commission in script, even at the largest scales. Physical Solden payment is reserved for the most prestigious transactions, where an _ethlen_ house wishes to make a public display of liquid wealth.
 
-The commission price tables below are denominated in Soldeni as the unit of account, and in nearly every case sealed script of [[affiliation-tevran|The Tevran Maldor]] settles the payment.
+The commission price tables below are denominated in Soldeni as the unit of account, and in nearly every case sealed [[affiliation-tevran|Tevran script]] settles the payment.
 
 ### The Standing-Adjusted Commission Price Table
 
@@ -404,7 +404,7 @@ Each rank's mark depends on its track and tier.
 
 **Career NCOs and enlisted.** They wear no estate livery. Rank shows in transverse-crest helmet plumes (red horsehair for Hundar, white for Hundar Maldor, dyed red-and-white for Vallar) and in sleeve-stripes on the working tunic: one stripe for Kelor, two for Masar, three for Nokar, four for Sekor, five for Hundar, six for Hundar Kerval, seven for Hundar Maldor. The transverse crest is the most immediately legible rank indicator on a battlefield, and the sleeve stripes are the most legible in garrison.
 
-The **orkaima** of a legion, the eagle standard its _orkaimos_ bears, is the most sacred physical object in the imperial military. A legion that loses its _orkaima_ is disbanded, and the loss is formally recorded in the imperial archives. A legion that recovers an _orkaima_ lost in an earlier defeat is honored permanently with a gold band added to its name: the **[Karsan Soldan Korvan]{.name data-type="affiliation"}** recovered the Eagle of the **[Pelsan Hilvan]{.name data-type="affiliation"}** after **[[lore-blackmarshbtl|The Battle of the Black Marsh]]**, two centuries ago. The _orkaima_ is a brass-and-gilt sculpture on a polearm. Its materials are not precious in themselves, but its consecration is total.
+The **orkaima** of a legion, the eagle standard its _orkaimos_ bears, is the most sacred physical object in the imperial military. A legion that loses its _orkaima_ is disbanded, and the loss is formally recorded in the imperial archives. A legion that recovers an _orkaima_ lost in an earlier defeat is honored permanently with a gold band added to its name: the **[Karsan Soldan Korvan]{.name data-type="affiliation"}** recovered the Eagle of the **[Pelsan Hilvan]{.name data-type="affiliation"}** after **[[lore-blackmarshbtl|the Battle of the Black Marsh]]**, two centuries ago. The _orkaima_ is a brass-and-gilt sculpture on a polearm. Its materials are not precious in themselves, but its consecration is total.
 
 ## Plot Hooks
 

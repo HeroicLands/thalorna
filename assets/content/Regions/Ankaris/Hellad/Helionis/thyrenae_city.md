@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [helionis], population: 60000, governme
 
 ## Overview
 
-A scholar's first lesson in **Thirenae** is where the credential comes from: a Thirenean education is the most prestigious a scholar can claim. The city is the oldest of the three that lead the seven, home to 60,000 people and the birthplace of the [[affiliation-panepistmm|Epistémion]], the scholarly federation that gave rise to the [[affiliation-ordoarcanis|Thordimalon]]. Its academies remain the most respected centers of learning in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and students travel from across the [[place-midhalnrgn|Mídhalión Region]] to attend them. Its patron is [[lore-marendasdty|Marendas]], goddess of knowledge and wisdom.
+A scholar's first lesson in **Thirenae** is where the credential comes from: a Thirenean education is the most prestigious a scholar can claim. The city is the oldest of the three that lead the seven, home to 60,000 people and the birthplace of the [[affiliation-panepistmm|Epistémion]], the scholarly federation that gave rise to the [[affiliation-ordoarcanis|Thordimalon]]. Its academies remain the most respected centers of learning in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and students travel from across [[place-midhalnrgn|Mídhalión]] to attend them. Its patron is [[lore-marendasdty|Marendas]], goddess of knowledge and wisdom.
 
 ## Character
 
@@ -22,7 +22,7 @@ A philosophical council governs [[affiliation-thyrenae|Thirenae]], drawn from th
 
 ## The Commissioners' Gate
 
-A gate in the western wall is walled up and has never been reopened. It is the breach through which the [Vylarian Republic]{.name data-type="affiliation/polity"}'s commissioners entered in 312 BF ([[lore-heladthyrsiege|The Siege of Thirenae]]), and the colleges keep the day as a day of silence. Antiquarians visit it, and nobody else uses the street. A proposal to reopen the gate for traffic has been met with the colleges' refusal.
+A gate in the western wall is walled up and has never been reopened. It is the breach through which the [Vylarian Republic]{.name data-type="affiliation/polity"}'s commissioners entered in 312 BF ([[lore-heladthyrsiege|the Siege of Thirenae]]), and the colleges keep the day as a day of silence. Antiquarians visit it, and nobody else uses the street. A proposal to reopen the gate for traffic has been met with the colleges' refusal.
 
 ## The Arcane Order
 

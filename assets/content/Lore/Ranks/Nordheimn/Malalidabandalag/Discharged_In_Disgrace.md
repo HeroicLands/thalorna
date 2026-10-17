@@ -16,7 +16,7 @@ A captain is expelled by vote of the Council for breaking one of the Compact's s
 
 ## How the Law Treats a Person Here
 
-Expulsion is functionally a death sentence in the [[place-nrdlndsrgn|Nordlands Region]] trade: an expelled company finds its contracts dishonored, its members refused service at sworn hostels, and its rivals encouraged to settle old debts, none of which the Compact will intervene to prevent once its ring is surrendered.
+Expulsion is functionally a death sentence in the [[place-nrdlndsrgn|Nordlands]] trade: an expelled company finds its contracts dishonored, its members refused service at sworn hostels, and its rivals encouraged to settle old debts, none of which the Compact will intervene to prevent once its ring is surrendered.
 
 ## Privileges
 

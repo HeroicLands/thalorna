@@ -417,7 +417,7 @@ sohl:
 
 ![[arshzrktkls|Árshazur Gavios]]{float=top-left}
 
-Árshazur Gavios stands 6'0" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a sharp jawline, an expressive mouth, and strong brows. He has a tattoo of a rose vine on his leg.
+Árshazur stands 6'0" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a sharp jawline, an expressive mouth, and strong brows. He has a tattoo of a rose vine on his leg.
 
 # Dossier {#dossier}
 
@@ -425,7 +425,7 @@ sohl:
 
 ### The Farmer's Son Drafted
 
-Árshazur was born in a rural agricultural district of the [[affiliation-byzarianlg|Bizarian League]], third son of a moderately successful farmer. His childhood held the ordinary rhythms of rural life—planting seasons, harvest, seasonal festivals, and local religious observances dedicated to the [[affiliation-lizelas|Faith of Lizelas]]. This peaceful existence ended abruptly at eighteen when the levy officers came to his village seeking healthy young men for the League's expanding military campaigns. Unlike his two older brothers, who managed to negotiate exemptions through various means, Árshazur found himself conscripted without alternative.
+Árshazur was born in a rural agricultural district of the [[affiliation-byzarianlg|Bizarian League]], third son of a moderately successful farmer. His childhood held the ordinary rhythms of rural life—planting seasons, harvest, seasonal festivals, and local religious observances dedicated to [[affiliation-lizelas|Lizelas]]. This peaceful existence ended abruptly at eighteen when the levy officers came to his village seeking healthy young men for the League's expanding military campaigns. Unlike his two older brothers, who managed to negotiate exemptions through various means, Árshazur found himself conscripted without alternative.
 
 ### The Long War
 
@@ -433,7 +433,7 @@ What was meant to be two years of service became a life. Árshazur discovered th
 
 ### Present Circumstances
 
-Now a veteran soldier with a decade remaining until he can expect retirement, Árshazur maintains his position with exemplary discipline and bearing. He serves under **Lord Commander [[being-mazitosrekha|Mazitos Rekhazur]] of the [[place-eastrnmrch|Eastern March]]**, whom he respects greatly. He trains younger soldiers, many of whom remind him uncomfortably of his younger self. He participates in the endless cycle of training exercises, garrison duty, and occasional military campaigns. His service is respected but his personal life has become compressed into the margins—brief romantic encounters, strained relationships with his family who view military service as abandonment, friendships limited to other soldiers who understand the weight he carries.
+Now a veteran soldier with a decade remaining until he can expect retirement, Árshazur maintains his position with exemplary discipline and bearing. He serves under **Lord Commander [[being-mazitosrekha|Mazitos]] of the [[place-eastrnmrch|Eastern March]]**, whom he respects greatly. He trains younger soldiers, many of whom remind him uncomfortably of his younger self. He participates in the endless cycle of training exercises, garrison duty, and occasional military campaigns. His service is respected but his personal life has become compressed into the margins—brief romantic encounters, strained relationships with his family who view military service as abandonment, friendships limited to other soldiers who understand the weight he carries.
 
 ## Psyche
 

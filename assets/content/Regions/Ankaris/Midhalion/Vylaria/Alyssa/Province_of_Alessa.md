@@ -77,13 +77,13 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 ## Overview
 
-When a Vylarian says "the empire," he means the Province of Alessa first and everything else second. It is the heartland of the [[affiliation-vylarinmpr|Vylarian Empire]]: the province that contains the imperial capital, [[affiliation-seldan|Seldan]] (the Senate) and the oldest institutions of Vylarian civilization, and the most urbanized, politically sophisticated and culturally self-assured of the four. It holds the land of [[place-alyssa|Alessa]], seven million people governed from the provincial capital, [[place-alyssar|Alessar]], by a _therkos_ (governor) the emperor appoints.
+When a Vylarian says "the empire," he means Alessa first and everything else second. The Province of Alessa is the heartland of the [[affiliation-vylarinmpr|Vylarian Empire]]: the province that contains the imperial capital, [[affiliation-seldan|Seldan]] (the Senate) and the oldest institutions of Vylarian civilization, and the most urbanized, politically sophisticated and culturally self-assured of the four. It holds the land of [[place-alyssa|Alessa]], seven million people governed from the provincial capital, [[place-alyssar|Alessar]], by a _therkos_ (governor) the emperor appoints.
 
-A _kurthalos_ (council member) of a chartered town, seated on its council and liable in his own person for the taxes the town owes, gives his nephew the same advice on the day the young man takes his place: "Learn who writes to whom. The _therkos_ answers to the Orzas, the emperor, and to nobody else. The _karezos_ (imperial steward) collects the emperor's revenue and reports past the _therkos_, so he does not need to like him. The _felzos_ (legate) holds the soldiers. And every one of them has a cousin in [[place-orzara|Orzara City]]. Whatever you decide here, somebody in the capital will hear it before the week is out."
+A _kurthalos_ (council member) of a chartered town, seated on its council and liable in his own person for the taxes the town owes, gives his nephew the same advice on the day the young man takes his place: "Learn who writes to whom. The _therkos_ answers to the Orzas, the emperor, and to nobody else. The _karezos_ (imperial steward) collects the emperor's revenue and reports past the _therkos_, so he does not need to like him. The _felzos_ (legate) holds the soldiers. And every one of them has a cousin in [[place-orzara|Orzara]]. Whatever you decide here, somebody in the capital will hear it before the week is out."
 
 ## Character
 
-The oldest families, those who trace their lineage to the empire's founding, hold court here, and the politics of Alessa are the politics of the empire. Every major institution has its headquarters in the capital: the Senate, the Imperial Court, the high priesthoods of the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] and, most significant of all, [[affiliation-ordoarcanis|Thordimalon]].
+The oldest families, those who trace their lineage to the empire's founding, hold court here, and the politics of Alessa are the politics of the empire. Every major institution has its headquarters in the capital: the Senate, the Imperial Court, the high priesthoods of the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] and, most significant of all, the [[affiliation-ordoarcanis|Thordimalon]].
 
 Alessan society is intensely political. Every conversation carries subtext and every dinner party is a negotiation. The senatorial families compete for influence through patronage networks, strategic marriages and control of religious offices. The common people of the capital are more politically aware than their counterparts elsewhere in the empire, and public opinion, expressed through street demonstrations, pamphlets and the occasional riot, is a force that even _kurthoi_ (senators) must reckon with.
 
@@ -95,7 +95,7 @@ What is scarce is food, which arrives from the [[affiliation-provnchyln|Province
 
 ## Commerce and Currency
 
-Alessa uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden, Ardin and Ogdel) as its standard, with full access to the paper-script system through [[affiliation-danvar|The Danvar]], the moneylenders chartered under [[affiliation-tevran|The Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] administers imperial taxation, and the revenues flow to [[affiliation-tarmex|The Tarmeks Orzan]]. The full system is set out in [[lore-vylrncrncy|Vylarian Currency]].
+Alessa uses the [[lore-vylrncrncy|Vylarian currency]] (Solden, Ardin and Ogdel) as its standard, with full access to the paper-script system through [[affiliation-danvar|the Danvar]], the moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] administers imperial taxation, and the revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. The full system is set out in [[lore-vylrncrncy|Vylarian Currency]].
 
 ## See Also
 

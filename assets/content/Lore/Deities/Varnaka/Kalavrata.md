@@ -20,4 +20,4 @@ His black conch sounds at every threshold a Vedyari household keeps, at birth, a
 
 In this theology, [[lore-rasikaradty|Rasikara]]'s fire unmakes the body. Kalavrata takes what is left when the cremation-fires end, and his conch calls the soul on.
 
-[[place-kalashkhra|Kalashikhara]] is his mountain, the one great summit of [[place-estrnreach|The Eastern Reach]] that [[place-pssshrines|The Pass-Shrines]] have never built on. Its upper faces are bare, and snow will not hold on them. No shrine stands there, and none is thought needed. The older explanation, that the peak is already his and wants no house built on it, is younger than the silence it explains, and nobody has offered a better one.
+[[place-kalashkhra|Kalashikhara]] is his mountain, the one great summit of [[place-estrnreach|the Eastern Reach]] that [[place-pssshrines|the Pass-Shrines]] have never built on. Its upper faces are bare, and snow will not hold on them. No shrine stands there, and none is thought needed. The older explanation, that the peak is already his and wants no house built on it, is younger than the silence it explains, and nobody has offered a better one.

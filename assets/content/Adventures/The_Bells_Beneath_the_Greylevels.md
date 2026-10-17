@@ -16,11 +16,11 @@ data:
   packFolder: adventures
 ---
 
-The tide cuts the party off at [[place-threnhallow|Threnhallow]], an abandoned house of the [[affiliation-selmoros|Faith of Sélmoros]] on the seaward edge of [[place-greylevels|The Greylevels]]. A bell rings under the water before each disappearance. The dead of the house, the Levels' drowned, rise with the tide and come wherever the water comes, and the Threshold Keeper who taught them to rise commands them from the flooded crypt. Everything the party meets says the house must be broken. It must not, or not yet: the drowned have worked the house's sluice-gates at every ebb since the Keeper raised them, the lower grazing of the Levels is dry because of them, and every way the party has to break the house puts the sea back over the Levels at the next spring tide.
+The tide cuts the party off at [[place-threnhallow|Threnhallow]], an abandoned house of the [[affiliation-selmoros|Silent Judge]] on the seaward edge of [[place-greylevels|the Greylevels]]. A bell rings under the water before each disappearance. The dead of the house, the Levels' drowned, rise with the tide and come wherever the water comes, and the Threshold Keeper who taught them to rise commands them from the flooded crypt. Everything the party meets says the house must be broken. It must not, or not yet: the drowned have worked the house's sluice-gates at every ebb since the Keeper raised them, the lower grazing of the Levels is dry because of them, and every way the party has to break the house puts the sea back over the Levels at the next spring tide.
 
 ## Overview
 
-Threnhallow was built to give the Levels' drowned their rites. When the house could not pay for labor on its sluice-gates, Keeper [Leofwald]{.name data-type="being/creature"}, its Threshold Keeper, altered the rite of Sélmoros so that the drowned in his crypt rose to work them. [[lore-theshadow|The Shadow]] came through the opening he made. His novices raised him with his own rite when he died, and he is one of the [[being-tereb|Tereb]] now, a dead man who wears his former self: courteous, grave, very nearly the Keeper he was. His congregation is the house's drowned, [[being-damut|Damut]] who go where they are driven, and the bell is what drives them.
+Threnhallow was built to give the Levels' drowned their rites. When the house could not pay for labor on its sluice-gates, Keeper [Leofwald]{.name data-type="being/creature"}, its Threshold Keeper, altered the rite of Sélmoros so that the drowned in his crypt rose to work them. [[lore-theshadow|The Shadow]] came through the opening he made. His novices raised him with his own rite when he died, and he is one of the [[being-tereb|Tereb]] now, a dead man who wears his former self: courteous, grave, very nearly the Keeper he was. His congregation is the house's drowned, [[being-damut|damutu]] who go where they are driven, and the bell is what drives them.
 
 The rule of the house is the water. The drowned come only where the water comes, and a body dragged clear of it falls still. Leofwald rings the bell below before he sends them for someone, and the one they take is drowned in the crypt and brought back to keep the house. The drowned call through the drains in the voices of the brethren and of those taken before, and a living soul who answers is counted among the keepers.
 
@@ -290,4 +290,4 @@ The guest cells hold what the drowned's last travelers carried: a little money, 
 - [[place-threnhallow|Threnhallow]]—the house on the mound
 - [[place-greylevels|The Greylevels]] · [[place-greywater|Greywater]]
 - [[affiliation-selmoros|Faith of Sélmoros]]—the rite the Keeper changed
-- [[lore-undead|Undead]] · [[being-tereb|Tereb]] · [[being-damut|Damut]] · [[lore-theshadow|The Shadow]]
+- [[lore-undead|Undead]] · [[being-tereb|Tereb]] · [[being-damut|Damut]] · [[lore-theshadow|the Shadow]]

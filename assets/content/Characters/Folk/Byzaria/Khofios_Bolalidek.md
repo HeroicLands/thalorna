@@ -36,4 +36,4 @@ Kofios Bolalidek is a 46-year-old man who stands 6'3" tall with a medium build. 
 
 # Dossier {#dossier}
 
-Kofios Bolalidek is a swordmaster called the Undefeated. He serves the [[affiliation-vylarinmpr|Vylarian Empire]]'s rival power and harbors intense envy of the reputation of [[being-krmdnsbrkrtys|Koremdanis Barkratis]]. The two have not yet formally dueled, though both know it is inevitable.
+Kofios Bolalidek is a swordmaster called the Undefeated. He serves the [[affiliation-vylarinmpr|Empire]]'s rival power and harbors intense envy of the reputation of [[being-krmdnsbrkrtys|Koremdanis Barkratis]]. The two have not yet formally dueled, though both know it is inevitable.

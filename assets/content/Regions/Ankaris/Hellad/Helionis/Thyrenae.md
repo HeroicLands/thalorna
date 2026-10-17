@@ -82,7 +82,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview
 
-Thirenae is the city-state whose name on a credential settles the question of where a scholar was taught. It is the oldest of the seven and the most prestigious, one of the three that lead them, and the birthplace of the [[affiliation-panepistmm|Epistémion]], the scholarly federation from which the [[affiliation-ordoarcanis|Thordimalon]] grew. Its academies are the most respected centers of learning in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and students cross the [[place-midhalnrgn|Mídhalión Region]] to attend them. About 610,000 people live under its council, and 60,000 of them live in the city of [[place-thyrenae2|Thirenae]], its seat.
+Thirenae is the city-state whose name on a credential settles the question of where a scholar was taught. It is the oldest of the seven and the most prestigious, one of the three that lead them, and the birthplace of the [[affiliation-panepistmm|Epistémion]], the scholarly federation from which the [[affiliation-ordoarcanis|Thordimalon]] grew. Its academies are the most respected centers of learning in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and students cross [[place-midhalnrgn|Mídhalión]] to attend them. About 610,000 people live under its council, and 60,000 of them live in the city of [[place-thyrenae2|Thirenae]], its seat.
 
 Patron deity
 : [[lore-marendasdty|Marendas]], goddess of knowledge and wisdom
@@ -108,15 +108,15 @@ A clerk of an Arcane Order chapter in [[place-helionis|Helionis]] puts the Arcan
 
 ## The Last City
 
-Thirenae was the last city of Helionis to fall, in 312 BF, on terms its arsir [Sothanos Kosamides]{.name data-type="being/npc"} negotiated: the walls were breached at one gate only, the libraries and the colleges were left standing, and the commissioners of [[affiliation-seldan|Seldan]], the Senate, took the [[affiliation-ordoarcanis|College of Arcane Philosophy]] out of the Epistémion (the Academy of Knowledge) the same month ([[lore-heladthyrsiege|The Siege of Thirenae]]). Thirenaeans date their rivalry with [[affiliation-pelagora|Pelagora]] to [[lore-heladpelagtrty|The Pelagoran Treaty]] that put Pelagoran ships along their coast.
+Thirenae was the last city of Helionis to fall, in 312 BF, on terms its arsir [Sothanos Kosamides]{.name data-type="being/npc"} negotiated: the walls were breached at one gate only, the libraries and the colleges were left standing, and the commissioners of [[affiliation-seldan|Seldan]], the Senate, took the [[affiliation-ordoarcanis|College of Arcane Philosophy]] out of the Epistémion (the Academy of Knowledge) the same month ([[lore-heladthyrsiege|the Siege of Thirenae]]). Thirenaeans date their rivalry with [[affiliation-pelagora|Pelagora]] to [[lore-heladpelagtrty|the Treaty]] that put Pelagoran ships along their coast.
 
 ## Relations
 
-Thirenae is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]] and with the Epistémion. Among the cities, its closest bargain is with [[affiliation-pelagora|Pelagora]]: Thirenae needs Pelagora's fleet, and Pelagora needs the diplomatic connections Thirenae has built, so the two are rivals and partners together. Thirenaeans date the rivalry to the [[lore-heladpelagtrty|Pelagoran Treaty]] of 314 BF.
+Thirenae is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]] and with the Epistémion. Among the cities, its closest bargain is with [[affiliation-pelagora|Pelagora]]: Thirenae needs Pelagora's fleet, and Pelagora needs the diplomatic connections Thirenae has built, so the two are rivals and partners together. Thirenaeans date the rivalry to the [[lore-heladpelagtrty|Pelagoran Treaty]] of 314 BF.
 
 ## Commerce and Currency
 
-Thirenae uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]] moneylenders chartered under [[affiliation-tevran|The Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Thirenae uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

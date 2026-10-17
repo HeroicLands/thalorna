@@ -36,4 +36,4 @@ Anlagherhafu is a 45-year-old man who stands 6'2" tall with a heavy build. He ha
 
 # Dossier {#dossier}
 
-Anlagherhafu presides as high priest of the [[affiliation-qearet|Faith of Qe'aret]] at [[place-khelunu|Khelunu]], out of [[place-amqelulegez|Amqelu-Legez]]. His judgment carries into the courts beyond the temple's own business. Enemies who might otherwise move against him find him difficult to reach precisely because that judgment matters so widely.
+Anlagherhafu presides as high priest of [[affiliation-qearet|Qe'aret]] at [[place-khelunu|Khelunu]], out of [[place-amqelulegez|Amqelu-Legez]]. His judgment carries into the courts beyond the temple's own business. Enemies who might otherwise move against him find him difficult to reach precisely because that judgment matters so widely.

@@ -401,7 +401,7 @@ Dunith Chilton is a striking vision of carefully cultivated beauty that seems al
 
 # Dossier {#dossier}
 
-Dunith Chilton was born into the minor nobility of Aelwyth thirty years ago, a fourth-daughter in a family more concerned with accumulating wealth than molding heirs. Her beauty became apparent early—almost unsettlingly so—and from adolescence, she understood that it opened doors that birth alone could not. She chose the priesthood of the [[affiliation-olvenia|Faith of Ólvenia]] not from spiritual calling but from pragmatic recognition: within Ólvenia's temples, her gifts would be celebrated as divine rather than merely cosmetic, and she could operate with the authority and autonomy that marriage to some minor noble would have denied her.
+Dunith Chilton was born into the minor nobility of Aelwyth thirty years ago, a fourth-daughter in a family more concerned with accumulating wealth than molding heirs. Her beauty became apparent early—almost unsettlingly so—and from adolescence, she understood that it opened doors that birth alone could not. She chose the priesthood of [[affiliation-olvenia|Ólvenia]] not from spiritual calling but from pragmatic recognition: within Ólvenia's temples, her gifts would be celebrated as divine rather than merely cosmetic, and she could operate with the authority and autonomy that marriage to some minor noble would have denied her.
 
 Her rise within the temple hierarchy was meteoric. She studied the rituals of seduction and attraction—not as mere performance but as a priestess studies sacred mysteries. Her creativity and charm gave her an intuitive grasp of the elaborate workings of desire: how to read a room, how to make each patron feel uniquely chosen, how to weave flattery and compliment so skillfully that they become indistinguishable. She learned to cultivate an air of mystery, to retreat into inscrutability at precisely the moment a patron craves her most. At 30, she hosts the most salons in [[place-ashford|Ashford]], intimate gatherings where wealthy merchants, minor nobility, and ambitious magistrates come seeking guidance—and seeking her.
 
@@ -417,7 +417,7 @@ Her greatest strength is her supernatural ability to make others feel special, d
 
 ## Social
 
-Dunith is not merely affiliated with the [Temple of Ólvenia]{.name data-type="affiliation"} in Ashford—she essentially is the Temple's public face, at least among the wealthy elite who fund its operations. The high priestess, [[being-godrunwinley|Godrun Winley]], tolerates her because Dunith generates substantial coin through her salons and because her obvious piety (however self-interested) brings prestige to the order. Dunith's authority is considerable but brittle; it rests entirely on her continued beauty and charisma. Among the temple's minor priests and acolytes, she is viewed with a mixture of awe, resentment, and fear. She does not mentor; she competes.
+Dunith is not merely affiliated with the [Temple of Ólvenia]{.name data-type="affiliation"} in Ashford—she essentially is the Temple's public face, at least among the wealthy elite who fund its operations. The high priestess, [[being-godrunwinley|Godrun]], tolerates her because Dunith generates substantial coin through her salons and because her obvious piety (however self-interested) brings prestige to the order. Dunith's authority is considerable but brittle; it rests entirely on her continued beauty and charisma. Among the temple's minor priests and acolytes, she is viewed with a mixture of awe, resentment, and fear. She does not mentor; she competes.
 
 Within Ashford's upper circles, she moves with ease and recognition. Merchants' wives seek her blessing for fertility. Ambitious magistrates visit her salons to be seen among the elite. Younger noblewomen ask her for advice on matters of love and seduction, and she gives it with the smugness of someone who has never experienced romantic rejection. Yet there is a brittleness to her social standing. She has made enemies through her indifference and through her casual willingness to favor some patrons over others based on whim. Some of the families whose daughters she has humiliated, whose sons she has rejected, harbor quiet resentments that, given the right circumstance, could turn into danger.
 
@@ -430,7 +430,7 @@ Within Ashford's upper circles, she moves with ease and recognition. Merchants' 
 
 **Enemies:**
 
-- **Father [[being-edwalddunmor|Edwald Dunmore]]**, a priest of the Temple of Ólvenia, who views Dunith as a useful asset but no more than that. Their relationship is cordial but tense; Edwald's spiritual authority stands in implicit competition with Dunith's charismatic power.
+- **Father [[being-edwalddunmor|Edwald]]**, a priest of the Temple of Ólvenia, who views Dunith as a useful asset but no more than that. Their relationship is cordial but tense; Edwald's spiritual authority stands in implicit competition with Dunith's charismatic power.
 - **[Cynric Blackweir]{.name data-type="being/npc"}**, a merchant's son whom Dunith humiliated publicly at a salon five years ago by publicly preferring another patron. He smiles when their paths cross in Ashford society, but his smile does not reach his eyes.
 
 ## Plot Hooks

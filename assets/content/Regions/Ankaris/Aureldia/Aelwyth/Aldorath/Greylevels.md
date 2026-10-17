@@ -21,11 +21,11 @@ the head of navigation. Twenty-four thousand people live on them, most within si
 ## The Outlet
 
 The Levels are Aldorath's connection to everywhere else. Everything the kingdom sells—grain from the
-[[place-aldorvale|The Aldorvale]], wool off [[place-brynwold|Brynwold]], the wine of
+[[place-aldorvale|Aldorvale]], wool off [[place-brynwold|Brynwold]], the wine of
 [[place-sunnerslade|Sunnerslade]]—comes down the river and out through Greywater, and everything the
 kingdom buys comes back the same way.
 
-Which means, since the [[affiliation-dunavarsynod|Dúnavarre Synod]]'s requirement, that all of it calls at [[place-ravenmoor|Ravenmoor]] first.
+Which means, since the [[affiliation-dunavarsynod|Synod]]'s requirement, that all of it calls at [[place-ravenmoor|Ravenmoor]] first.
 The Levels' shipmasters have views about this that they express freely at home and never in writing.
 
 ## The Ground

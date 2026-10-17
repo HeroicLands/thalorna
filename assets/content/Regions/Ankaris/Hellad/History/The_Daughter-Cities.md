@@ -61,7 +61,7 @@ data:
         - whether any colony of these years lies behind the tradition at the Old Mole of Kalipsa
 ---
 
-A Pelagoran ship's master, asked where the [[place-bethuargn|Bethua Region]] lies, answers by pointing across the water and adding that the council of [[affiliation-pelagora|Pelagora]] governed it for twelve centuries. **The Daughter-Cities** are the colonies that Helionite cities planted over the sea in the two and a half centuries after [[lore-firstgames|The First Games]], when the valleys were full and younger sons had no land.
+A Pelagoran ship's master, asked where [[place-bethuargn|Bethua]] lies, answers by pointing across the water and adding that the council of [[affiliation-pelagora|Pelagora]] governed it for twelve centuries. **The Daughter-Cities** are the colonies that Helionite cities planted over the sea in the two and a half centuries after [[lore-firstgames|the First Games]], when the valleys were full and younger sons had no land.
 
 ## Bethua
 
@@ -69,7 +69,7 @@ A Pelagoran ship's master, asked where the [[place-bethuargn|Bethua Region]] lie
 
 ## The Eastern Straits
 
-Colonists and traders from several cities found the harbors of the eastern straits, among them the fortress isle of [[place-nesthiros2|Nesthiros]], and settle the coast on either side. From the harbors they climb the escarpments to the plateau, where [[lore-heladlandngs|The Landings]] had left a burial ground and little else. The east becomes Helonic at root: the [[lore-byzarianclt|Bizarian]] people are of Helonic stock and carry the tongue in a shape that the harbors clipped.
+Colonists and traders from several cities found the harbors of the eastern straits, among them the fortress isle of [[place-nesthiros2|Nesthiros]], and settle the coast on either side. From the harbors they climb the escarpments to the plateau, where [[lore-heladlandngs|the Landings]] had left a burial ground and little else. The east becomes Helonic at root: the [[lore-byzarianclt|Bizarian]] people are of Helonic stock and carry the tongue in a shape that the harbors clipped.
 
 [[affiliation-kostaros2|Kostaros]] sends a daughter-port that keeps its mother's name, and the two have been taken for one another since. A Bizarian port of that name, [[place-kostaros|Kostaros]], still stands on the coast, and a debt contracted at one is sometimes sued for at the other.
 

@@ -250,7 +250,7 @@ The black water is still, and the cypress knees stand out of it like the teeth o
 
 # Dossier {#dossier}
 
-The Margrush is the great ambush predator of the swamp forests of [[place-tzumanotunrgn|Ts'uma No'tun Region]]: a low, heavy, short-legged hunter seven to eight feet long and about three hundred pounds, with a leathery, wrinkled hide patched with coarse dark fur, a broad flat head and jaws that crush bone. It lies up in the cypress swamps and the black-water marshes and waits by the water for deer, pigs, waterfowl, alligators and men. Nearly all that the K'ich'chik know of it comes from the scouts and border garrisons who face the Ch'akun of [[affiliation-tzumanotun|Ts'uma No'tun]] across the swamps, and it is one of the reasons those garrisons count the swamps as impassable.
+The Margrush is the great ambush predator of the swamp forests of [[place-tzumanotunrgn|Ts'uma No'tun]]: a low, heavy, short-legged hunter seven to eight feet long and about three hundred pounds, with a leathery, wrinkled hide patched with coarse dark fur, a broad flat head and jaws that crush bone. It lies up in the cypress swamps and the black-water marshes and waits by the water for deer, pigs, waterfowl, alligators and men. Nearly all that the K'ich'chik know of it comes from the scouts and border garrisons who face the Ch'akun of [[affiliation-tzumanotun|Ts'uma No'tun]] across the swamps, and it is one of the reasons those garrisons count the swamps as impassable.
 
 ## Presentation
 
@@ -258,7 +258,7 @@ The margrush lies so low that its belly brushes the ground. Its legs are short a
 
 ## In the Land
 
-Margrushes live in the swamp country of southern and eastern Ts'uma No'tun, from the piedmont valleys where the first marshes appear down to the black-water expanses of **[Ne' P'uqan]{.name data-type="place/feature"}** and the cypress and tupelo forests along the sluggish rivers. They want water to lie in, mud to bask on, and thick cover on dry ground to sleep in, and the swamps give them all three for hundreds of miles. Each margrush holds a stretch of channel and bank a few miles long, patrols it on a regular round, and fights any other margrush that comes into it. They do not go up into the hardwood hills of the north, and the salt marshes of the coast are too open for them. In the shared hunting grounds on the western border, toward [[place-hanalxilanrgn|Ha'nal Shi'lan Region]], they are met at the edge of every swamp.
+Margrushes live in the swamp country of southern and eastern Ts'uma No'tun, from the piedmont valleys where the first marshes appear down to the black-water expanses of **[Ne' P'uqan]{.name data-type="place/feature"}** and the cypress and tupelo forests along the sluggish rivers. They want water to lie in, mud to bask on, and thick cover on dry ground to sleep in, and the swamps give them all three for hundreds of miles. Each margrush holds a stretch of channel and bank a few miles long, patrols it on a regular round, and fights any other margrush that comes into it. They do not go up into the hardwood hills of the north, and the salt marshes of the coast are too open for them. In the shared hunting grounds on the western border, toward [[place-hanalxilanrgn|Ha'nal Shi'lan]], they are met at the edge of every swamp.
 
 ## Key Behaviors
 

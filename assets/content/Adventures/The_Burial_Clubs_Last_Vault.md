@@ -20,7 +20,7 @@ data:
 
 In the dry margin west of the river lies a rock-cut common tomb that no temple roll mentions. Its dead were walled in unspoken, and a struck priest of the Houses of [[lore-khelunulekha|Khelunu Lekhau]] now raises them at dusk and sets them to hauling stone. The party goes in for loot, for a debt, for a refuge or for a widow's sake, and finds out why a place unwritten is a dangerous place. The adventure runs in five scenes, each of which can be met with force, stealth, guile or parley, and each of which states how play carries on if the party skips it.
 
-Read [[place-clublstvlt|The Burial Club's Last Vault]] first. The adventure assumes the [[lore-khelathiclt|Khelathi]] ledger-ethic: an open entry follows a person into the [[place-zulaten|Zulaten]], a person's real protection is whoever will stand for them, and the poor fear nothing so much as dying unspoken.
+Read [[place-clublstvlt|the Burial Club's Last Vault]] first. The adventure assumes the [[lore-khelathiclt|Khelathi]] ledger-ethic: an open entry follows a person into the [[place-zulaten|Zulaten]], a person's real protection is whoever will stand for them, and the poor fear nothing so much as dying unspoken.
 
 ### The Truth Behind the Vault
 
@@ -28,7 +28,7 @@ Read [[place-clublstvlt|The Burial Club's Last Vault]] first. The adventure assu
 
 **What Qeltzin believes.** Qeltzin came home to a hill of unspoken dead and could not speak the rite, because a struck man's words carry no House authority. He has convinced himself of a grievance: the club's last purse paid for his schooling, so the club's own accounts are not closed, and the dead owe the labor. He raises them at dusk and cuts a tomb for himself, because a man struck from the House's roll has no Name on any record and fears [The Weighing]{.name data-type="lore/theology"}. His working reads: _rise at dusk and work until the entry is closed._
 
-**What is true.** The roll in the sealed chamber shows that the schooling was a prepaid fee. Every account in the club is closed, the dead owe nothing, and the only open entry in the whole roll is Qeltzin's own promise to come home. His working is looser than he knows. Because the Names of the dead were never set, [[lore-theshadow|The Shadow]] fills the gaps where Names should be, and every season the [Unwrapped]{.name data-type="being/creature"} are less themselves. The vault is on its way to becoming a _zelalgit_, a thin blood-field, [Algit]{.name data-type="being/creature"} the Devourer's place.
+**What is true.** The roll in the sealed chamber shows that the schooling was a prepaid fee. Every account in the club is closed, the dead owe nothing, and the only open entry in the whole roll is Qeltzin's own promise to come home. His working is looser than he knows. Because the Names of the dead were never set, [[lore-theshadow|the Shadow]] fills the gaps where Names should be, and every season the [Unwrapped]{.name data-type="being/creature"} are less themselves. The vault is on its way to becoming a _zelalgit_, a thin blood-field, [Algit]{.name data-type="being/creature"} the Devourer's place.
 
 ### Hooks
 
@@ -146,7 +146,7 @@ Read [[place-clublstvlt|The Burial Club's Last Vault]] first. The adventure assu
 **Player choices.**
 
 - _Read the roll aloud._ The first column holds the members and the sum each paid. Every entry has a closing stroke. The last entry is not a member's. It records the sum paid for the education of a boy of the village _to be the club's lector_, with a closing stroke already made, and under it Wazlegir's note: _Paid in full. Open entry: the boy's coming home._ The working's condition is _until the entry is closed_, and a character who closes Qeltzin's entry by saying _he is home_ ends it. The Unwrapped lie down.
-- _Take the roll._ A temple of the [[affiliation-wethur|Faith of Weth'ur]] or a House that wants to prove a lector was schooled at a club's expense pays for it.
+- _Take the roll._ A temple of [[affiliation-wethur|Weth'ur]] or a House that wants to prove a lector was schooled at a club's expense pays for it.
 - _Take the chest._ A few silver qelu and a mass of copper tokens, a lector's contract, and the club's amulet-mold.
 - _Speak the rite._ A priest of [[lore-wethurdty|Weth'ur]] or a Lekhau of Gar-Ithnetáu who reads the Names and says the Westward words puts the dead to their rest. Without one, the Unwrapped lie still and the vault remains unspoken.
 

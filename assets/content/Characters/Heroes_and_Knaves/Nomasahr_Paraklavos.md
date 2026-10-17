@@ -413,7 +413,7 @@ sohl:
 
 ![[nmshrprklvs|Nomasáhr Paraklavos]]{float=top-left}
 
-Nomasáhr Paraklavos stands 5'7" tall with a medium build. He has light weathered skin, grey hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a pointed chin, well-defined lips, strong brows, and prominent cheeks.
+Nomasáhr stands 5'7" tall with a medium build. He has light weathered skin, grey hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a pointed chin, well-defined lips, strong brows, and prominent cheeks.
 
 # Dossier {#dossier}
 

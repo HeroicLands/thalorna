@@ -8,11 +8,11 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-When an inheritance, a contested oath or a tribute owed three winters ago is in dispute, the courts ask a Skald what was said, and they bind their rulings to the answer as they bind them to no unsworn witness.
+When an inheritance, a contested oath or a tribute owed three winters ago is in dispute, the courts ask a skald what was said, and they bind their rulings to the answer as they bind them to no unsworn witness.
 
 ## What This Standing Is
 
-A skald is sworn into [[affiliation-skaldscrcl|The Skalds' Circle]] by his own master once his first saga, the _geldra_, is accepted at the [[lore-skaldating|Skaldating]], and wears the silver arm-ring, the _skaldhringr_, forged at his swearing and bearing the marks of his master and his master's master. He is the trained, sworn keeper of his hall's record, his kingdom's history, and the impartial witness the Asguardian courts summon when a dispute turns on what was said or owed.
+A skald is sworn into [[affiliation-skaldscrcl|the Circle]] by his own master once his first saga, the _geldra_, is accepted at the [[lore-skaldating|Skaldating]], and wears the silver arm-ring, the _skaldhringr_, forged at his swearing and bearing the marks of his master and his master's master. He is the trained, sworn keeper of his hall's record, his kingdom's history, and the impartial witness the Asguardian courts summon when a dispute turns on what was said or owed.
 
 ## How the Law Treats a Person Here
 
@@ -20,7 +20,7 @@ His recitation is treated as documentary evidence, and a dispute over what was s
 
 ## Privileges
 
-He is entitled to food, shelter, and safe passage at any hall in the [[place-nrdlndsrgn|Nordlands Region]], and his recitation carries binding weight before the Asguardian courts.
+He is entitled to food, shelter, and safe passage at any hall in the [[place-nrdlndsrgn|Nordlands]], and his recitation carries binding weight before the Asguardian courts.
 
 ## Obligations
 

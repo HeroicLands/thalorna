@@ -19,7 +19,7 @@ data:
 
 The words are fixed and the names change. Each company says the roll of its own year: the living who marched, the dead who are answered for by the man who marched beside them, the names earned since the last feast and the boys who join. The roll below is the one the valleys teach a new captain, with the names of one company's year in it. A company that has struck a name from its roll, the _neharlo_, keeps the place where the name was and says nothing there, every year that anyone of the company who knew the name is still alive. The company in this roll had struck one.
 
-At the end the captain and the company say the contract over before the stone, and the priest says the god's name over it, and the year begins. A contract renewed at the stone is the one the company holds to; [[affiliation-ordrsldwrd|The Order of the Sealed Word]] hears a broken one, and the company's own roll is where a broken one is remembered.
+At the end the captain and the company say the contract over before the stone, and the priest says the god's name over it, and the year begins. A contract renewed at the stone is the one the company holds to; [[affiliation-ordrsldwrd|the Order of the Sealed Word]] hears a broken one, and the company's own roll is where a broken one is remembered.
 
 : The Roll at the Thresholds {#roll}
 

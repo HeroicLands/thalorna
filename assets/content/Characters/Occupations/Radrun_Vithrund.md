@@ -398,7 +398,7 @@ Radrún yra Vithrúnd wur Grimholt is an 18-year-old woman who stands 5'9" tall 
 
 Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Radrún is a prostitute.
 
-Radrún works in a [[place-grimholt|Grimholt]] brothel and secretly serves [[affiliation-graytide|The Gray Tide]]. While she entertains clients, she acts as a lookout and messenger for the organization. She is known for her ability to blend into the background and overhear what is worth knowing. For all her involvement with the Tide, she remains conflicted about her choices and the risks of her double life.
+Radrún works in a [[place-grimholt|Grimholt]] brothel and secretly serves [[affiliation-graytide|the Gray Tide]]. While she entertains clients, she acts as a lookout and messenger for the organization. She is known for her ability to blend into the background and overhear what is worth knowing. For all her involvement with the Tide, she remains conflicted about her choices and the risks of her double life.
 
 ## Psyche
 

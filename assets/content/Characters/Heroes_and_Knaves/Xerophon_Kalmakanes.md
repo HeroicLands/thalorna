@@ -415,7 +415,7 @@ sohl:
 
 ![[xrphnklmkns|Zerofon Kalmakanes]]{float=top-left}
 
-Zerofon Kalmakanes stands 5'11" tall with a medium build. He has tanned weathered skin, dark brown hair, and green eyes. His features include a narrow face, a hawkish nose, an angular jawline, a wide mouth, dark brows, and sculpted cheeks. He has a scar on his left ear.
+Zerofon stands 5'11" tall with a medium build. He has tanned weathered skin, dark brown hair, and green eyes. His features include a narrow face, a hawkish nose, an angular jawline, a wide mouth, dark brows, and sculpted cheeks. He has a scar on his left ear.
 
 # Dossier {#dossier}
 
@@ -481,7 +481,7 @@ Limited Vision Beyond Duty
 
 ### Patrons
 
-Commander [[being-tharozatalot|Tharoza Talothates]] of the City Watch
+Commander [[being-tharozatalot|Tharoza]] of the City Watch
 : The highest official in Moktur's law enforcement structure who values Zerofon's judgment and regularly defers to his recommendations regarding prison management.
 
 [The Imperial Council of Moktur]{.name data-type="affiliation/governmental"}
@@ -495,7 +495,7 @@ Magistrate [[being-revothakalme|Revotha Kalmethis]] the Strict
 [Ferun the Escaped]{.name data-type="being/npc"}
 : A cunning prisoner who orchestrated an attempted escape eight years ago that resulted in the death of three guards. Though captured and returned, the incident damaged Zerofon's reputation for complete control, and Ferun remains in the facility as a subtle ongoing insult to his authority.
 
-Warden [[being-tharkhosthar|Tharkos Tharozates]]
+Warden [[being-tharkhosthar|Tharkos]]
 : The political administrator appointed to manage the prison bureaucratically, a man who Zerofon views as incompetent and corrupt. They maintain an awkward relationship of mutual necessity while harboring deep disdain for one another.
 
 [The Brotherhood of the Freed]{.name data-type="affiliation/criminal"}

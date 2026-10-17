@@ -10,7 +10,7 @@ sohl:
   system: {weightBase: 0.3, valueBase: 0, qualityBase: 0, durabilityBase: 20}
 ---
 
-[[affiliation-lineagekuethori|The Lineage Kuethori]] keeps the Gap Stone as it keeps the sill: a living held stone (_kaan'sul_) of [[place-stillwatersill|The Still-Water Sill]], gray, giving, the size of a child's hand, and carried sealed in a small lacquered case.
+[[affiliation-lineagekuethori|The lineage Kuethori]] keeps the Gap Stone as it keeps the sill: a living held stone (_kaan'sul_) of [[place-stillwatersill|the Still-Water Sill]], gray, giving, the size of a child's hand, and carried sealed in a small lacquered case.
 
 ## What It Does
 

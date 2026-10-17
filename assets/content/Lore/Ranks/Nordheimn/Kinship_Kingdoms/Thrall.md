@@ -12,7 +12,7 @@ Hrug, or thrall, is a condition of ownership, not a sentence the ting hands down
 
 ## What This Standing Is
 
-A thrall is owned outright, bought or taken rather than born free. The [[lore-nordheimnclt|Nordheimn]] people buy people at [[place-kruldheim|Kruldheim]] and along the [[place-nalthmark|Nalthmark]] road, and what a thrall owes an owner is labor itself rather than a share of what the labor produces. In [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] the standing is the condition of some 120,000 native people of the [[lore-aelwythanclt|Aelwythan]] culture, whose plain the Nordmen took. A thrall who is freed becomes a [[lore-lidmadrrnk|Lidmadr]], still bound to the former owner.
+A thrall is owned outright, bought or taken rather than born free. The [[lore-nordheimnclt|Nordheimn]] people buy people at [[place-kruldheim|Kruldheim]] and along the [[place-nalthmark|Nalthmark]] road, and what a thrall owes an owner is labor itself rather than a share of what the labor produces. In [[affiliation-jrldmstrmvld|Stormveld]] the standing is the condition of some 120,000 native people of the [[lore-aelwythanclt|Aelwythan]] culture, whose plain the Nordmen took. A thrall who is freed becomes a [[lore-lidmadrrnk|lidmadr]], still bound to the former owner.
 
 ## How the Law Treats a Person Here
 
@@ -32,4 +32,4 @@ None.
 
 ## Where This Standing Is Held
 
-The five kingdoms—[[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—hold this standing under one Nordmal law, and the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] holds it under the same name.
+The five kingdoms—[[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Vithgard]]—hold this standing under one Nordmal law, and the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] holds it under the same name.

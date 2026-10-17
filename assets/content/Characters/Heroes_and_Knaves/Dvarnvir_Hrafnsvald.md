@@ -423,7 +423,7 @@ sohl:
 
 ![[dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]]{float=top-left}
 
-Dvarnvir Hrafnsvald stands 5'11" tall with a medium build. He has light fair skin, dark brown hair, and brown eyes. His features include an angular face, a prominent nose, a square jawline, a small mouth, dark brows. A distinguishing mark is a tattoo of a fire on the leg.
+Dvarnvir stands 5'11" tall with a medium build. He has light fair skin, dark brown hair, and brown eyes. His features include an angular face, a prominent nose, a square jawline, a small mouth, dark brows. A distinguishing mark is a tattoo of a fire on the leg.
 
 # Dossier {#dossier}
 
@@ -431,7 +431,7 @@ Dvarnvir Hrafnsvald stands 5'11" tall with a medium build. He has light fair ski
 
 ### From War to Craft
 
-Dvarnvir did not begin his life as a craftsman. At eighteen, he enlisted in the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]'s levy, serving as a soldier for fifteen years in the border conflicts that defined his youth. He left behind a young wife and an infant son, [[being-vrldmylhrfnsvld|Vrildmil Hrafnsvald]], on the family farm—a decision he told himself was necessary to provide for them, though the truth was more complicated. He earned his fire tattoo after the [Burning of Inthstead]{.name data-type="lore/history"} at [[place-inthstead|Inthstead]], where he carried burning canvas from his company's tent before it could trap his companions inside. The experience—watching good men trapped by failure of equipment—planted a seed that would eventually transform him entirely.
+Dvarnvir did not begin his life as a craftsman. At eighteen, he enlisted in the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]'s levy, serving as a soldier for fifteen years in the border conflicts that defined his youth. He left behind a young wife and an infant son, [[being-vrldmylhrfnsvld|Vrildmil]], on the family farm—a decision he told himself was necessary to provide for them, though the truth was more complicated. He earned his fire tattoo after the [Burning of Inthstead]{.name data-type="lore/history"} at [[place-inthstead|Inthstead]], where he carried burning canvas from his company's tent before it could trap his companions inside. The experience—watching good men trapped by failure of equipment—planted a seed that would eventually transform him entirely.
 
 ### The Homecoming
 

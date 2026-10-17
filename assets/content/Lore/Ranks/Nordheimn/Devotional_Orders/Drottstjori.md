@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-Each devotional order has a leader, and in every one the leader's standing is the last the order records. A Dróttstjori carries the order's purpose furthest and speaks or acts for it where a devotee cannot.
+Each devotional order has a leader, and in every one the leader's standing is the last the order records. A dróttstjori carries the order's purpose furthest and speaks or acts for it where a devotee cannot.
 
 ## What This Standing Is
 
@@ -32,4 +32,4 @@ None recorded.
 
 ## Where This Standing Is Held
 
-The devotional orders of the faiths of the [[affiliation-asguardian|Asguardian Pantheon]] that confer this standing. Each order gives it the obligations of its own devotion; it is standing within that order, rather than authority over the other orders.
+The devotional orders of the faiths of the [[affiliation-asguardian|Ten]] that confer this standing. Each order gives it the obligations of its own devotion; it is standing within that order, rather than authority over the other orders.

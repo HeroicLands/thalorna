@@ -54,13 +54,13 @@ Forty paces separate the two council halls at [[place-suryagarha|Suryagarha]], a
 
 ## The Charter
 
-About 60 AF the clans of the northern highlands had a pass worth holding and no one to hold it. [[place-suryadvara|Suryadvara]] is the greatest of the crossings of the wall, with drinkable water through the winter below the spring at [[place-chandrprbh|Chandraprabhava]], and every caravan that used it paid whoever stood at the throat. The clans and [[affiliation-passshrineushtakas|The Pass-Shrine Ushtakas]] chartered a king to stand there: **[Himavira]{.name data-type="being/npc"}**, a chieftain of one of the clans, given the road, the duty of building a citadel across its throat, and the customs of the traffic.
+About 60 AF the clans of the northern highlands had a pass worth holding and no one to hold it. [[place-suryadvara|Suryadvara]] is the greatest of the crossings of the wall, with drinkable water through the winter below the spring at [[place-chandrprbh|Chandraprabhava]], and every caravan that used it paid whoever stood at the throat. The clans and [[affiliation-passshrineushtakas|the line of the Pass-Shrines]] chartered a king to stand there: **[Himavira]{.name data-type="being/npc"}**, a chieftain of one of the clans, given the road, the duty of building a citadel across its throat, and the customs of the traffic.
 
 He built the citadel, and the hall of the **[Martial Council]{.name data-type="affiliation/governmental"}** of clan-chieftains was raised beside it. The kingdom was the clans' creature from the first day, and its succession still needs the Martial Council's acclamation.
 
 ## The Road and the Rock
 
-The smithing clans of [[place-slvrgorges|The Silver Gorges]] were working lapis and silver in the gorges before the charter, and they hold that their right to the ore is older than it. Their account is that the king was given the road on the understanding that the rock on either side was not part of the gift. The crown's account is that the ore is the crown's and the leases a courtesy. The charter's wording has never been tested, because a test would cost the loser more than the quarrel is worth, and the crown has collected on the road and not on the rock for four generations.
+The smithing clans of [[place-slvrgorges|the Silver Gorges]] were working lapis and silver in the gorges before the charter, and they hold that their right to the ore is older than it. Their account is that the king was given the road on the understanding that the rock on either side was not part of the gift. The crown's account is that the ore is the crown's and the leases a courtesy. The charter's wording has never been tested, because a test would cost the loser more than the quarrel is worth, and the crown has collected on the road and not on the rock for four generations.
 
 ## The Second Hall
 

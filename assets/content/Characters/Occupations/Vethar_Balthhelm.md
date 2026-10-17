@@ -395,9 +395,9 @@ Vethar yra Balthhelm wur Waldburg is a 56-year-old man who stands 5'8" tall and 
 
 # Dossier {#dossier}
 
-Born at [[place-waldburg|Waldburg]] to a [[lore-varokhiclt|Varokhi]] household of hosts, Vethar came into the world of the innkeeper through a combination of circumstance and aptitude.
+Born at [[place-waldburg|Waldburg]] to a [[lore-varokhiclt|Varokh]] household of hosts, Vethar came into the world of the innkeeper through a combination of circumstance and aptitude.
 
-Vethar has been the innkeeper of the [Old Stone Inn]{.name data-type="place/site"} for over thirty years. Known for his hearty laugh and welcoming nature, he has built a loyal clientele. Vethar is a skilled cook, often sharing recipes passed down through generations. While he enjoys the camaraderie of guests, he also values the peace and tranquility of the countryside.
+Vethar has been the innkeeper of the [Old Stone Inn]{.name data-type="place/structure"} for over thirty years. Known for his hearty laugh and welcoming nature, he has built a loyal clientele. Vethar is a skilled cook, often sharing recipes passed down through generations. While he enjoys the camaraderie of guests, he also values the peace and tranquility of the countryside.
 
 ## Psyche
 

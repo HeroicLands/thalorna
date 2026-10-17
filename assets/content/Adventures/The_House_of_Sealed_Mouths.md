@@ -85,7 +85,7 @@ Leaving no longer saves anyone. Walking out with the party's names on the releas
 
 ## Hooks
 
-A temple scribe of the [[affiliation-wethur|Faith of Weth'ur]], [Gezedafu]{.name data-type="being/npc"}, holds the older burial records of Zu'Lemetu and has received no new tablets from its estate in years. The house's heirs, a cousin line in a river town, mean to go to law over the estate, and the court wants the estate's own records. Gezedafu hires the party to go up the canal, collect the tablets and bring them back, and he pays a share of whatever salvage the heirs grant on the recovered estate. He gives them a reed skiff and a letter under the temple's seal that names each of them as the temple's agents for the records, and he warns them that the canal is failing.
+A temple scribe of [[affiliation-wethur|Weth'ur]], [Gezedafu]{.name data-type="being/npc"}, holds the older burial records of Zu'Lemetu and has received no new tablets from its estate in years. The house's heirs, a cousin line in a river town, mean to go to law over the estate, and the court wants the estate's own records. Gezedafu hires the party to go up the canal, collect the tablets and bring them back, and he pays a share of whatever salvage the heirs grant on the recovered estate. He gives them a reed skiff and a letter under the temple's seal that names each of them as the temple's agents for the records, and he warns them that the canal is failing.
 
 Other entries suit other heroes:
 

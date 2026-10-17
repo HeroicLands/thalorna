@@ -241,7 +241,7 @@ The heat-shimmer on the gravel reach has had shapes in it all morning, and for a
 
 # Dossier {#dossier}
 
-The Dune Strider is the great flightless bird of the hot deserts: eight to ten feet tall, two hundred pounds, a grazer of the sand seas and gravel reaches of the [[place-hskrrgn|Khoshiqor]] and the dunes of [[place-dunharargn|Dunhara Region]]. It goes in small herds of four to six, eats the thin desert plants, seeds and insects, and runs from everything, at a pace that nothing on the sands can match. It kills only when it cannot run, with a kick that breaks a man in half.
+The Dune Strider is the great flightless bird of the hot deserts: eight to ten feet tall, two hundred pounds, a grazer of the sand seas and gravel reaches of the [[place-hskrrgn|Khoshiqor]] and the dunes of [[place-dunharargn|Dunhara]]. It goes in small herds of four to six, eats the thin desert plants, seeds and insects, and runs from everything, at a pace that nothing on the sands can match. It kills only when it cannot run, with a kick that breaks a man in half.
 
 The tribes of both deserts eat it when they can catch it, which is seldom, and the few that have been raised from the egg and broken to ride are the fastest mounts on the desert and the least trustworthy.
 

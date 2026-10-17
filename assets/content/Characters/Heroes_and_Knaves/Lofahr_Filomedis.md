@@ -414,7 +414,7 @@ sohl:
 
 ![[lofrflmds|Lofáhr Vuzaghios]]{float=top-left}
 
-Lofáhr Vuzaghios stands 6'4" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a serpent on the back.
+Lofáhr stands 6'4" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a serpent on the back.
 
 # Dossier {#dossier}
 
@@ -482,7 +482,7 @@ Isolation
 
 ### Patrons
 
-Lord Commander [[being-mazitosrekha|Mazitos Rekhazur]] of the [[place-eastrnmrch|Eastern March]]
+Lord Commander [[being-mazitosrekha|Mazitos]] of the [[place-eastrnmrch|Eastern March]]
 : A powerful nobleman who contracts Lofáhr whenever border security becomes critical. They maintain a relationship of mutual respect spanning two decades.
 
 [Merchant Consortium of the Golden Coast]{.name data-type="affiliation/venture"}
@@ -507,7 +507,7 @@ The Bizarian League
 [The Independent Mercenary Council]{.name data-type="affiliation"}
 : A loose association of mercenary captains who keep common standards and negotiate pay. Lofáhr holds significant influence.
 
-The [[affiliation-ardavon|Faith of Árdavon]] (Order Aspect)
+The [[affiliation-ardavon|Order of Árdavon]] (Order Aspect)
 : A practicing worshipper who attends temples regularly, finding the god's emphasis on structure and discipline spiritually resonant with his own worldview.
 
 ## Plot Hooks

@@ -421,11 +421,11 @@ sohl:
 
 ![[hlrksbrnthr|Hálrikos Bránthira]]{float=top-left}
 
-Hálrikos Bránthira stands 5'4" tall with a medium build. He has pale sallow skin, greying black hair, and hazel eyes. His features include an oval face, a strong nose, a pointed chin, a wide mouth, thick dark brows.
+Hálrikos stands 5'4" tall with a medium build. He has pale sallow skin, greying black hair, and hazel eyes. His features include an oval face, a strong nose, a pointed chin, a wide mouth, thick dark brows.
 
 # Dossier {#dossier}
 
-Hálrikos was born into a merchant family of modest means in one of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]'s port cities, though his parents harbored ambitions beyond trade. Recognizing their son's preternatural gift for understanding written regulations and legal structure, they apprenticed him to the [Guild of Scribes]{.name data-type="affiliation/guild"} at age twelve. By his eighteenth year, Hálrikos had become the fastest, most accurate copyist in the city, capable of rendering even the most complex legal documents with flawless precision. He rose through the ranks of the city's bureaucratic apparatus, becoming a record-keeper, then a clerk of minor courts, and eventually ascending to his current position as Senior Archivist and Advisory Clerk to the [City Council]{.name data-type="affiliation/governmental"}.
+Hálrikos was born into a merchant family of modest means in one of [[affiliation-kingdmtrvn|Tarvénia]]'s port cities, though his parents harbored ambitions beyond trade. Recognizing their son's preternatural gift for understanding written regulations and legal structure, they apprenticed him to the [Guild of Scribes]{.name data-type="affiliation/guild"} at age twelve. By his eighteenth year, Hálrikos had become the fastest, most accurate copyist in the city, capable of rendering even the most complex legal documents with flawless precision. He rose through the ranks of the city's bureaucratic apparatus, becoming a record-keeper, then a clerk of minor courts, and eventually ascending to his current position as Senior Archivist and Advisory Clerk to the [City Council]{.name data-type="affiliation/governmental"}.
 
 For thirty-five years, Hálrikos has been the institutional memory of Tarvénia, the man who knows every law, every precedent, every regulation, and every hidden clause that governs the city's operations. He has served under six different city magistrates, each one depending on his institutional knowledge to keep the wheels of governance turning. His marriage to a practical woman named [Thessa]{.name data-type="being/npc"} has produced two children, both of whom have become bureaucrats themselves—a source of quiet pride for Hálrikos. His wife died seven years ago, and he has since devoted even more time to his work, finding in the orderly world of documents and regulations a comfort that human relationships cannot provide.
 
@@ -481,7 +481,7 @@ Contempt for Intuition
 
 ### Patrons
 
-Magistrate [[being-iltherahilth|Ilthera Hiltheris]]
+Magistrate [[being-iltherahilth|Ilthera]]
 : The current city magistrate relies heavily on Hálrikos's counsel and has protected him from several attempts to diminish his authority, knowing that his administration would collapse without Hálrikos's support.
 
 City Judge [Thelessa]{.name data-type="being/npc"}
@@ -501,7 +501,7 @@ The Reformist Coalition
 Inspector [Kelix]{.name data-type="being/npc"}
 : A younger city official who was denied promotion in part due to Hálrikos's testimony that she lacked proper understanding of procedural law; she blames him bitterly and works to discredit him.
 
-Lady Merchant [[being-durrekaikent|Dúrreka Ikentsis]]
+Lady Merchant [[being-durrekaikent|Dúrreka]]
 : An ambitious trader who views Hálrikos's strict interpretation of contract law as an impediment to her commercial ambitions and has attempted to have him removed from his position.
 
 [The Shadow Syndicate]{.name data-type="affiliation/criminal"}

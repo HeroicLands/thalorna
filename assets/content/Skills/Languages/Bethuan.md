@@ -293,15 +293,15 @@ sohl:
 # terran_analog: the fossilized article is Arabic al- frozen into Spanish loans such as alcazar and almacén.
 ---
 
-Bethuan Language is a tongue of the [Helonic Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Bethuan, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Bethuan is a tongue of the [Helonic Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Bethuan, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-The tongue of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], spoken by a people who preserved—and transformed—the ancient heritage of [[skill-helonclng|Helonic Language]] in isolation. Bethuan represents a distinct evolutionary path from the common Helonic ancestor, retaining older phonetic features lost elsewhere while developing a unique grammatical feature unknown among the Helonic sisters: a sophisticated system of **gender registers** that reflects and reinforces the matriarchal social order. Formal educated speech in Bethuan employs a distinctly elevated, feminized register; masculine speech carries a markedly different grammatical flavor.
+The tongue of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], spoken by a people who preserved—and transformed—the ancient [[skill-helonclng|Helonic heritage]] in isolation. Bethuan represents a distinct evolutionary path from the common Helonic ancestor, retaining older phonetic features lost elsewhere while developing a unique grammatical feature unknown among the Helonic sisters: a sophisticated system of **gender registers** that reflects and reinforces the matriarchal social order. Formal educated speech in Bethuan employs a distinctly elevated, feminized register; masculine speech carries a markedly different grammatical flavor.
 
-Two forces shaped the language, and the relationship between them mirrors Bethua's own history. Its bones are **Helonic**—Bethuan stands to mainland Helonic roughly as one sister tongue stands to another, the inheritance of the Helonic colonists who first planted the realm. But laid over that inheritance is a thick stratum of **loanwords from [[skill-khelathlng|Khelathi Language]]**, the prestige tongue of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] that midwifed Bethuan independence—a borrowed vocabulary concentrated in administration, water-engineering, commerce, the calendar, and luxury. The deep grammar, the register system, and the core vocabulary remain Helonic to the root; the machinery of the modern state speaks in Khelathi loanwords. (See [[skill-bethunlng#the-khelathi-superstrate|The Khelathi Superstrate]].)
+Two forces shaped the language, and the relationship between them mirrors Bethua's own history. Its bones are **Helonic**—Bethuan stands to mainland Helonic roughly as one sister tongue stands to another, the inheritance of the Helonic colonists who first planted the realm. But laid over that inheritance is a thick stratum of **loanwords from [[skill-khelathlng|Khelathi Language]]**, the prestige tongue of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] that midwifed Bethuan independence—a borrowed vocabulary concentrated in administration, water-engineering, commerce, the calendar, and luxury. The deep grammar, the register system, and the core vocabulary remain Helonic to the root; the machinery of the modern state speaks in Khelathi loanwords. (See [[skill-bethunlng#the-khelathi-superstrate|the Khelathi Superstrate]].)
 
 ## Overview
 
-Bethuan is immediately recognizable to Helonic speakers as a linguistic cousin—the core vocabulary and basic grammar are intelligible—yet the sound is subtly different. Vowels tend to be longer and more open; consonants soften (particularly velar and sibilant sounds); and the overall rhythm is more flowing, less percussive than either Helonic or [[skill-byzarnlng|Bizarian Language]]. The language rewards elongation and gliding transitions between phonemes.
+Bethuan is immediately recognizable to Helonic speakers as a linguistic cousin—the core vocabulary and basic grammar are intelligible—yet the sound is subtly different. Vowels tend to be longer and more open; consonants soften (particularly velar and sibilant sounds); and the overall rhythm is more flowing, less percussive than either Helonic or [[skill-byzarnlng|Bizarian]]. The language rewards elongation and gliding transitions between phonemes.
 
 The defining feature is its **gender-register system**: elevated formal speech employs the "feminine register" with specific grammatical markers, particle forms, and even some sound shifts that signal prestige, formality, and intellectual authority. Casual speech, military speech, and traditionally "masculine" domains often employ a distinct grammatical register. This is not mere social convention—the grammar itself bifurcates, with different paradigms for nominative and accusative marking, different auxiliary verbs, and different stress patterns depending on which register is active.
 
@@ -432,7 +432,7 @@ In modern Bethuan, educated speakers code-switch fluidly, employing the feminine
 
 ## Script and Literacy
 
-Bethuan is written in the [[skill-helnkscrpt|Helónika Script]]—the Helonic alphabet in a Bethuan recension, with some distinctive letterforms:
+Bethuan is written in the [[skill-helnkscrpt|Helónika]]—the Helonic alphabet in a Bethuan recension, with some distinctive letterforms:
 
 The basic inventory matches Helonic (24 letters), but Bethuan orthography includes:
 
@@ -448,9 +448,9 @@ Accent marks
 Gender register markers
 : Formal texts sometimes employ a distinctive punctuation mark (§) to indicate register shift; rare in modern usage
 
-**Literacy:** Bethuan literacy follows the same broad patterns as elsewhere on [[place-worldthlrn|The World of Thalorna]]—the vast majority of the population cannot read or write. The priesthood maintains ancient texts in the feminine register, and temple scribes handle most written communication. Among the Bethuan nobility (30-50% literate), reading is valued as a mark of refinement, particularly for women of the ruling class. Guildsmen and merchants possess functional literacy at best, relying on professional scribes for contracts and record-keeping. Most citizens encounter the written word only through temple recitations and public proclamations. Both registers are understood through oral tradition, even by those who cannot read either.
+**Literacy:** Bethuan literacy follows the same broad patterns as elsewhere on [[place-worldthlrn|Thalorna]]—the vast majority of the population cannot read or write. The priesthood maintains ancient texts in the feminine register, and temple scribes handle most written communication. Among the Bethuan nobility (30-50% literate), reading is valued as a mark of refinement, particularly for women of the ruling class. Guildsmen and merchants possess functional literacy at best, relying on professional scribes for contracts and record-keeping. Most citizens encounter the written word only through temple recitations and public proclamations. Both registers are understood through oral tradition, even by those who cannot read either.
 
-Outside the [[place-bethuargn|Bethua Region]], Bethuan texts are rare; knowledge of the language is primarily restricted to scholars and traders who have spent significant time in Bethuan territory.
+Outside [[place-bethuargn|Bethua]], Bethuan texts are rare; knowledge of the language is primarily restricted to scholars and traders who have spent significant time in Bethuan territory.
 
 ## Historical Development
 
@@ -572,7 +572,7 @@ Bizarian
 : The synthetic crossroads language; more distantly related through the shared Helonic base
 
 [[skill-khelathlng|Khelathi Language]]
-: Not a relative at all, but the great _lexical_ influence on Bethuan: an unrelated isolate from which Bethuan has borrowed a heavy stratum of administrative, technical, commercial, and luxury vocabulary (see [[skill-bethunlng#the-khelathi-superstrate|The Khelathi Superstrate]]). The grammar and core lexicon remain Helonic; the loanwords sit on top.
+: Not a relative at all, but the great _lexical_ influence on Bethuan: an unrelated isolate from which Bethuan has borrowed a heavy stratum of administrative, technical, commercial, and luxury vocabulary (see [[skill-bethunlng#the-khelathi-superstrate|the Khelathi Superstrate]]). The grammar and core lexicon remain Helonic; the loanwords sit on top.
 
 Educated speakers of Helonic can understand formal Bethuan relatively easily—the prestige register's purism works in their favor—but find practical Bethuan harder, between the masculine register's simplifications and the thicket of Khelathi loanwords that mean nothing to a Helonic ear. Bizarian speakers find Bethuan's flowing vowels and softer consonants somewhat difficult but can manage with exposure.
 

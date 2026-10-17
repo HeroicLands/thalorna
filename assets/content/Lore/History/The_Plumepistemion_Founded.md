@@ -64,4 +64,4 @@ forces and structured magical practice—but the arcane was one college among ma
 original form the Epistémion gave equal standing to the study of ethics, logic, law, the nature of
 mind and the workings of the natural world.
 
-Then came [[lore-helionscnq|The Conquest of Helionis]].
+Then came [[lore-helionscnq|the wars]].

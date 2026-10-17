@@ -948,9 +948,9 @@ sohl:
     initSkillMult: 0
 ---
 
-Tantsou Language is a tonal tongue of single-syllable words. Fluency measures the sophistication of expression in Tantsou, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Tantsou is a tonal tongue of single-syllable words. Fluency measures the sophistication of expression in Tantsou, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-The language is known natively as **Tantsou**, the name of the people (_tan_, celestial, and _tsou_, people) and of the country they hold. It is the common tongue of the [[affiliation-tantsouempr|Empire of Tantsou]]; [[skill-jurthatlng|Jurthati Language]] is its island daughter. This document gives the sounds, the grammar, the way names are built and the compound words of the court, the calendar and the [[lore-celestlrdr|Celestial Order]]. [[skill-tantsoulng#lexicon|The lexicon]] holds the full word-hoard.
+The language is known natively as **Tantsou**, the name of the people (_tan_, celestial, and _tsou_, people) and of the country they hold. It is the common tongue of the [[affiliation-tantsouempr|Tantsou empire]]; [[skill-jurthatlng|Jurthati]] is its island daughter. This document gives the sounds, the grammar, the way names are built and the compound words of the court, the calendar and the [[lore-celestlrdr|Celestial Order]]. [[skill-tantsoulng#lexicon|The lexicon]] holds the full word-hoard.
 
 ---
 
@@ -1207,7 +1207,7 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 
 Tantsou employs a **logographic writing system** in which each character represents a morpheme. Characters are organized by semantic radicals and may be combined into compound characters mirroring the language's compounding grammar. Because a character stands for a meaning, the same character serves several words that differ only in tone. The system is extraordinarily rich but demands years of intensive study.
 
-**Formal Script ([[skill-tengchouscript|Teng Chou Script]], "Celestial Record"):** The standard script used in imperial documents, religious texts, and classical literature. Characters are drawn with precise, angular strokes. Approximately 3,000-4,000 characters are required for general educated reading; scholars may master 6,000 or more.
+**Formal Script ([[skill-tengchouscript|Teng Chou]], "Celestial Record"):** The standard script used in imperial documents, religious texts, and classical literature. Characters are drawn with precise, angular strokes. Approximately 3,000-4,000 characters are required for general educated reading; scholars may master 6,000 or more.
 
 **Cursive Script ([[skill-tengchouscript|Dou Chou]], "Flowing Record"):** A more rapid, connected hand used for administrative and mercantile purposes. Simplified character forms reduce the stroke count while preserving legibility for trained scribes.
 
@@ -1227,7 +1227,7 @@ Tantsou is a language isolate with no widely-accepted external relatives. Older 
 
 **Imperial Dialect:** The prestige standard, spoken in the capital and taught in formal education. Keeps all four tones and every classical grammatical form.
 
-**Northern Tantsou:** The speech of the northern marches along the [[place-grkrhlmrgn|Grukarholm Region]] frontier, moderately divergent. Some vowel mergers and simplified compound forms. More borrowing from the neighboring steppe languages.
+**Northern Tantsou:** The speech of the northern marches along the [[place-grkrhlmrgn|Grukarholm]] frontier, moderately divergent. Some vowel mergers and simplified compound forms. More borrowing from the neighboring steppe languages.
 
 **Southern Tantsou:** Spoken in the agricultural and mercantile south. Tones lie closer together, speech rhythms run faster, and trade languages lend more words.
 

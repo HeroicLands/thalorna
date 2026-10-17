@@ -17,9 +17,9 @@ data:
 
 ## Overview
 
-Veshvaan is the oldest and largest of the sanctuaries of the [Ithakan]{.name data-type="affiliation/order"}, the custodians of the [[place-klhrcntnnt|Kalihara Continent]]. It stands on a shoulder of [[place-klhrmassif|The Massif]], the mount in the middle of [[place-klhrlake|The Bowl Lake]], below the summit where [[place-sulvaan|The Warm]] stands. Like every sanctuary it is seminary, archive, workshop and working site at once, and it holds the most extensive archives of inherited procedure on the island. Its deepest rooms hold the oldest of the first records: the carved slabs and inscribed plaques that the earliest Kaliharans cut to set down what they had been given. Only the silkan and the most senior kaan'thari see them.
+Veshvaan is the oldest and largest of the sanctuaries of the [Ithakan]{.name data-type="affiliation/order"}, the custodians of [[place-klhrcntnnt|Kalihara]]. It stands on a shoulder of [[place-klhrmassif|the Massif]], the mount in the middle of [[place-klhrlake|the Bowl Lake]], below the summit where [[place-sulvaan|the Warm]] stands. Like every sanctuary it is seminary, archive, workshop and working site at once, and it holds the most extensive archives of inherited procedure on the island. Its deepest rooms hold the oldest of the first records: the carved slabs and inscribed plaques that the earliest Kaliharans cut to set down what they had been given. Only the silkan and the most senior kaan'thari see them.
 
-Veshvaan also keeps the island's count of years. Each sanctuary counts in [Tenth-Year Walk]{.name data-type="lore/custom"}s, and the count since the departure of [[lore-theithari|The Ithari]] is kept here.
+Veshvaan also keeps the island's count of years. Each sanctuary counts in [Tenth-Year Walk]{.name data-type="lore/custom"}s, and the count since the departure of [[lore-theithari|the Ithari]] is kept here.
 
 ## The Holding
 
@@ -27,7 +27,7 @@ The Massif and its shores are held by the lineage [Marivoel]{.name data-type="af
 
 ## What Is Seen from It
 
-From the sanctuary's terraces the whole of [[place-klhrbowl|The Great Bowl]] lies round about: the lake on every side, [[place-klhrestrrc|The Eastern Terraces]] climbing the far shore to the east and south, [[place-klhrdpfrst|The Deep Forest]] dark to the west and north, and beyond them the crest of [[place-klhrring|The Ring]] closing the view all the way round, with the passes as notches in it.
+From the sanctuary's terraces the whole of [[place-klhrbowl|the Bowl]] lies round about: the lake on every side, [[place-klhrestrrc|the Eastern Terraces]] climbing the far shore to the east and south, [[place-klhrdpfrst|the Deep Forest]] dark to the west and north, and beyond them the crest of [[place-klhrring|the Ring]] closing the view all the way round, with the passes as notches in it.
 
 ## The Cost of Reaching It
 

@@ -18,9 +18,9 @@ data:
 
 ## Around the Bay
 
-Edrwald follows the bay-facing edge of [[place-vrystwald|Vristwald]]. [[place-calypsacity|Kalipsa]] lies on an island farther west. Across the water lie the northern lands of [[place-elavendre|Élavendre]].
+Edrwald follows the bay-facing edge of [[place-vrystwald|Vristwald]]. [[place-calypsacity|Kalipsa]] lies on an island farther west. Across the water lie the northern lands of [[place-elavendre|Elavendre]].
 
-The conflict here concerns sacred ground. [[affiliation-alndnwrdns|Áelendan Wardens]] seek to keep [[lore-varokhiclt|Varokh]] parties out of places they guard; a crossing that looks like passage to one side can look like trespass to the other. The Wardens have no separate record yet, and no village council in Edrwald can bind the rest of Vristwald to its answer. A party planning to follow the bay must ask at each landing whose claim a path crosses.
+The conflict here concerns sacred ground. [[affiliation-alndnwrdns|Aelendan Wardens]] seek to keep [[lore-varokhiclt|Varokh]] parties out of places they guard; a crossing that looks like passage to one side can look like trespass to the other. The Wardens have no separate record yet, and no village council in Edrwald can bind the rest of Vristwald to its answer. A party planning to follow the bay must ask at each landing whose claim a path crosses.
 
 ## See Also
 

@@ -131,11 +131,11 @@ The rest of the day is the caste's work, which is itself an observance: the farm
 
 The festivals are celebrations and filing days at once, and a district that misses one has failed to send heaven its paperwork.
 
-- [Festival of Harmonious Lei]{.name data-type="lore/gathering"} (Hou Lei Jui) falls on the first day of the year. The Emperor performs the annual audit of the empire's Lei, opening the celestial filing for the new year, and every household that takes part in the feasts and lantern-lighting is entered in the empire's reckoning.
-- [Festival of the Five Elements]{.name data-type="lore/gathering"} (Wuen Tsai Jui) fills five days, one for each element, and confirms that air still behaves as air, fire as fire and earth as earth.
+- [Festival of Harmonious Lei]{.name data-type="lore/gathering"} , falls on the first day of the year. The Emperor performs the annual audit of the empire's Lei, opening the celestial filing for the new year, and every household that takes part in the feasts and lantern-lighting is entered in the empire's reckoning.
+- [Festival of the Five Elements]{.name data-type="lore/gathering"} , fills five days, one for each element, and confirms that air still behaves as air, fire as fire and earth as earth.
 - [Hou Nié Jui]{.name data-type="lore/gathering"}, the Mid-Year Festival of Balance, is the half-year reconciliation, when ordinary people settle debts, end family quarrels and check their ledgers for hidden debits.
 - [Moon Festival]{.name data-type="lore/gathering"} (You Jui) falls in late autumn, when the boundary between the sorted and the unsorted is thinnest. Lanterns are lit as points of bright Lei to shore up the boundary, and offerings go to the Minister of the Moon.
-- [Festival of the Dead]{.name data-type="lore/gathering"} (Singléi Jui) falls at midwinter and is the costliest event of the year. Families provision their ancestors with spirit money and goods, review the ledgers and learn the dead's instructions for the coming year through the Leigen.
+- [Festival of the Dead]{.name data-type="lore/gathering"} , falls at midwinter and is the costliest event of the year. Families provision their ancestors with spirit money and goods, review the ledgers and learn the dead's instructions for the coming year through the Leigen.
 - [New Year Purification]{.name data-type="lore/custom"} (Shui Nié Wo) closes the year. Households, temples and offices are cleansed, expired filings burned, and the Hearth Monitors submit their final reports.
 
 ## Credit and Default
@@ -186,7 +186,7 @@ The practical effect is that a Tantsou's name is a piece of public documentation
 
 The Tantsou manner is formal, indirect and exact. Precedence is worked out before a conversation begins and governs everything in it, and a foreigner who cannot be placed in the eight castes is placed provisionally somewhere low and treated with a courtesy that is real and entirely without deference.
 
-Frankness is not valued. A direct refusal embarrasses both parties by forcing a classification into the open before it has been agreed, and a Tantsou goes to considerable lengths to decline without saying no. A visitor from western [[place-ankrscntnnt|Ankaris Continent]] reads this as evasiveness; it is closer to the opposite—an unwillingness to assert a thing until it has been properly established.
+Frankness is not valued. A direct refusal embarrasses both parties by forcing a classification into the open before it has been agreed, and a Tantsou goes to considerable lengths to decline without saying no. A visitor from western [[place-ankrscntnnt|Ankaris]] reads this as evasiveness; it is closer to the opposite—an unwillingness to assert a thing until it has been properly established.
 
 Omens are read professionally and taken seriously in practice. A Tanchéi's reading can postpone a campaign, and nobody involved regards this as superstition: the omen is a datum about the state of the classification, and acting against it is acting on bad information.
 

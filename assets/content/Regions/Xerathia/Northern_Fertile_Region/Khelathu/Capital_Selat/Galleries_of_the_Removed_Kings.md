@@ -20,7 +20,7 @@ data:
 
 ## How They Were Made
 
-About 2650 ST (540 AF), [Meqes VI]{.name data-type="being/npc"} ordered the houses that held the river-front carried outward so that his own house could raise its Way at the head of the death-road ([[lore-greatremovl|The Great Removal]]). The kings came out of their tombs with their grave-goods, were carried past the last Way, and were set down in long galleries cut for them in the rock, each king behind his own door, with his name above the lintel in the order the old Way had kept. The galleries are the work of one decade and look it: the same plain cut, the same low roof, the same door in a hundred rooms.
+About 2650 ST (540 AF), [Meqes VI]{.name data-type="being/npc"} ordered the houses that held the river-front carried outward so that his own house could raise its Way at the head of the death-road ([[lore-greatremovl|the Great Removal]]). The kings came out of their tombs with their grave-goods, were carried past the last Way, and were set down in long galleries cut for them in the rock, each king behind his own door, with his name above the lintel in the order the old Way had kept. The galleries are the work of one decade and look it: the same plain cut, the same low roof, the same door in a hundred rooms.
 
 ## What Is There Now
 

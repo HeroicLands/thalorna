@@ -54,7 +54,7 @@ sohl: {system: {commonSkills: []}}
 
 "You think the labor is the test," a Born of the Wound tells the candidate working beside him at a chapter hall. "The labor is how we learn who stays. The rite that follows asks the harder thing, which is whether you can carry what the world was cut from, and carry it as a vow." Many candidates leave before the rite, some of their own will and some at a brother's word.
 
-The Giant's Children, _Thursborn_, are an initiatic fighting order of the [[affiliation-hrimthur|Faith of Hrimthur]], which teaches that the world was cut from the body of [[lore-hrimthurspr|Hrimthur]], the Rime-Giant. They are the most severe of the Asguardian fighting orders in belief, and the other orders keep a careful distance from them. [[affiliation-eidhond|The Order of the Sworn Hand]] serves the law and [[affiliation-gronverdir|The Green Wardens]] defend the harvest; the Children cultivate in themselves the strength the world was made from. An outsider remembers the order for two things: its refusal of hire, and its permanent mark.
+The Giant's Children, _Thursborn_, are an initiatic fighting order of the [[affiliation-hrimthur|Faith of Hrimthur]], which teaches that the world was cut from the body of [[lore-hrimthurspr|Hrimthur]], the Rime-Giant. They are the most severe of the Asguardian fighting orders in belief, and the other orders keep a careful distance from them. [[affiliation-eidhond|The Order of the Sworn Hand]] serves the law and [[affiliation-gronverdir|the Green Wardens]] defend the harvest; the Children cultivate in themselves the strength the world was made from. An outsider remembers the order for two things: its refusal of hire, and its permanent mark.
 
 Type
 : initiatic fighting religious order
@@ -72,7 +72,7 @@ Seats
 
 The order teaches that creation was an act of violence done to the body of Hrimthur, and that the world's continued existence depends on renewing that founding violence from time to time. Its members take the teaching with absolute seriousness, and everyone else takes it warily.
 
-The doctrine does not make the members lawless. By most accounts they are very disciplined. The order's training is grueling, its initiations are worse, and the membership is small, perhaps four hundred sworn brothers across the [[place-nrdlndsrgn|Nordlands Region]], and selective. What the doctrine does make them is committed to combat as a sacred act and to personal strength as a religious vocation. A Child of Hrimthur does not fight for hire, for crown or jarl, or in personal quarrel. When the order calls him, he fights with the conviction that he is taking part in the world's foundational act.
+The doctrine does not make the members lawless. By most accounts they are very disciplined. The order's training is grueling, its initiations are worse, and the membership is small, perhaps four hundred sworn brothers across the [[place-nrdlndsrgn|Nordlands]], and selective. What the doctrine does make them is committed to combat as a sacred act and to personal strength as a religious vocation. A Child of Hrimthur does not fight for hire, for crown or jarl, or in personal quarrel. When the order calls him, he fights with the conviction that he is taking part in the world's foundational act.
 
 The order is exclusively male in present practice. The historical record includes some women among the founding generations, and their absence from the order today is a matter of internal debate that has never changed the policy.
 
@@ -108,7 +108,7 @@ The combat doctrine stresses individual prowess, heavy axe and hammer work, and 
 
 ## In the Field
 
-The order keeps no standing field force. When it calls its brothers to a cause, the Voice from the Wound issues the call through the chapter halls, and the brothers travel to the gathering point on their own arrangements. The Voice or his designated deputy commands the gathered force. Such gatherings are rare, perhaps three in the last fifty years. They have answered large Helspawn ([[lore-undead|undead]]) incursions, threats to the cosmological order that the order treats as its own concern, and once the open emergence of a faction of [[affiliation-blackflame|The Black Flame]] in the northern part of the [[place-aureldirgn|Aureldia Region]].
+The order keeps no standing field force. When it calls its brothers to a cause, the Voice from the Wound issues the call through the chapter halls, and the brothers travel to the gathering point on their own arrangements. The Voice or his designated deputy commands the gathered force. Such gatherings are rare, perhaps three in the last fifty years. They have answered large Helspawn ([[lore-undead|undead]]) incursions, threats to the cosmological order that the order treats as its own concern, and once the open emergence of a faction of [[affiliation-blackflame|the Black Flame]] in the northern part of the [[place-aureldirgn|Aureldia Region]].
 
 Day to day, the brothers serve as chapter staff, as an armed presence at remote settlements that have formally requested the order's protection, and as itinerant teachers of its combat doctrine to chosen younger warriors who are not members but whom sitting brothers judge serious enough. The protection arrangement is rare and carries theological as well as practical commitments on the settlement's part.
 

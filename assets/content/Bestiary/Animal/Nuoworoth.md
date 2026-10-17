@@ -253,7 +253,7 @@ Nuoworoths live in the stone uplands and badlands of the Khazryn: the mesas and 
 
 ## Key Behaviors
 
-The bird spends its day walking its range, nose to the wind. It smells carrion and blood a mile off and goes to it, and it drives off anything already at a carcass, from a [[being-mghyn|Mega Hyena]] clan to a man skinning his own dead camel. It kills what it finds within its range when the thing is small enough or alone enough: a goat, an ass, a sleeping man, a wounded one. It watches before it strikes. A bird that has seen a party will follow it unseen along the ravine rim for an hour, crouched behind boulders, until one of them falls behind or stops to drink, and then it leaps. It does not retreat from its own ground, and a wounded bird attacks harder.
+The bird spends its day walking its range, nose to the wind. It smells carrion and blood a mile off and goes to it, and it drives off anything already at a carcass, from a [[being-mghyn|mega hyena]] clan to a man skinning his own dead camel. It kills what it finds within its range when the thing is small enough or alone enough: a goat, an ass, a sleeping man, a wounded one. It watches before it strikes. A bird that has seen a party will follow it unseen along the ravine rim for an hour, crouched behind boulders, until one of them falls behind or stops to drink, and then it leaps. It does not retreat from its own ground, and a wounded bird attacks harder.
 
 ## What the Tribes Do
 

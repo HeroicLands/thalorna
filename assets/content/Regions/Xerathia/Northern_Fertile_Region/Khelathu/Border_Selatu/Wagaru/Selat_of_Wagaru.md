@@ -57,15 +57,15 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-**The Selat of Wagaru** holds the southern gold-road, with its mines, its caravan-stations and its tribute-collection. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the garrison, taxes and escorts the traffic of the road, dispenses the selat's justice, and answers to the [[lore-garauu|Gar-Auu]] at a distance that varies with the strength of the throne. His patron is [[lore-psaqarudty|Saq'aru]], god of creation and craft, and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-wagaruselat|Wagaru Selat]].
+**The Selat of Wagaru** holds the southern gold-road, with its mines, its caravan-stations and its tribute-collection. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the garrison, taxes and escorts the traffic of the road, dispenses the selat's justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. His patron is [[lore-psaqarudty|Saq'aru]], god of creation and craft, and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-wagaruselat|Wagaru Selat]].
 
 ## Character
 
-A caravan-master puts the Halzi'a's work to a driver on his first run north. "On the gold-road three things happen to your load in [[place-wagaru|Wagaru]]: it is counted, it is taxed, and it is escorted. Do not argue with the first, do not hide anything from the second, and be glad of the third." The garrison is both the collector and the guard, and the stations along the road are the places where each takes place. The Halzi'a's seat is Wagaru, where his court sits and the selat's chief temple of the [[affiliation-psaqaru|Faith of Saq'aru]] stands.
+A caravan-master puts the Halzi'a's work to a driver on his first run north. "On the gold-road three things happen to your load in [[place-wagaru|Wagaru]]: it is counted, it is taxed, and it is escorted. Do not argue with the first, do not hide anything from the second, and be glad of the third." The garrison is both the collector and the guard, and the stations along the road are the places where each takes place. The Halzi'a's seat is Wagaru, where his court sits and the selat's chief temple of [[affiliation-psaqaru|Saq'aru]] stands.
 
 ## Commerce and Currency
 
-Wagaru uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the gold-road is where the empire's weighed metal moves most. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts; its agents follow the garrisons and the caravans. See the currency note for the full system.
+Wagaru uses the [[lore-aukhlthcrncy|Au'Khelathu currency]], and the gold-road is where the empire's weighed metal moves most. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts; its agents follow the garrisons and the caravans. See the currency note for the full system.
 
 ## See Also
 

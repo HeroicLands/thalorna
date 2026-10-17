@@ -51,7 +51,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-"Here is what a mother in a village on the water wants to know," a priest of the Faith of Tjelsur says to a pilgrim in the temple at [[place-luttjelsuk|Lut-Tjelsur]]. "May we kill the beast that took her child? The temple keeps an office whose whole work is answering that."
+"Here is what a mother in a village on the water wants to know," a priest of Tjelsur says to a pilgrim in the temple at [[place-luttjelsuk|Lut-Tjelsur]]. "May we kill the beast that took her child? The temple keeps an office whose whole work is answering that."
 
 [[lore-tjelsukdty|Tjelsur]], the crocodile-god, is worshipped by the great crocodile cult, seated in the eastern marsh at Lut-Tjelsur among the river-beast hunters. The beast sacred to him is also the beast that takes farmers and children along the river, and it must sometimes be killed. That is the faith's central difficulty, and its offices exist to carry it.
 
@@ -59,7 +59,7 @@ sohl: {system: {commonSkills: []}}
 
 The **Priest of the River-Beast Cult** keeps the cult in the eastern marsh, where the crocodile is venerated and the river-beast hunters live off it in the same breath. The **Sanctioner of the Cull** performs the rite that permits the killing of a beast sacred to the god.
 
-A cull therefore takes two parties: the cullers of [[affiliation-garnuw|Gar'Nuw]], who answer when crocodiles threaten the villages along [[place-zumeleshrvr|The Zumelesh]], and the Sanctioner, whose rite is held to make the killing lawful before the god. Gar'Nuw's own doctrine holds that wantonness in the killing offends the gods as well as the imperial order, so the cull is a religious act before it is a commercial one.
+A cull therefore takes two parties: the cullers of [[affiliation-garnuw|Gar'Nuw]], who answer when crocodiles threaten the villages along [[place-zumeleshrvr|the Zumelesh]], and the Sanctioner, whose rite is held to make the killing lawful before the god. Gar'Nuw's own doctrine holds that wantonness in the killing offends the gods as well as the imperial order, so the cull is a religious act before it is a commercial one.
 
 ## Where Else He Is Worshipped
 

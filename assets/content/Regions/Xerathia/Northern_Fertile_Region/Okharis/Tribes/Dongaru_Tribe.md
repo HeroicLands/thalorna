@@ -59,7 +59,7 @@ sohl: {system: {commonSkills: [okharclng]}}
 
 The Dóngaru Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
 [[place-dongaruvlg|Dóngaru Village]], one of the settled villages of
-the [[place-okharisrgn|Okharis Region]].
+[[place-okharisrgn|Okharis]].
 
 They fell the forest's hardwoods and burn charcoal in earth-covered stacks, supplying the smithies and the building work of the temple-cities.
 

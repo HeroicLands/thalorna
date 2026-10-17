@@ -77,9 +77,9 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 
 ## Overview
 
-**Bhumipala** ("earth-protector") is a kingdom that exists for one road. It holds the [[place-vedyarargn|Vedyara Region]]'s northwestern march: the dry foothills where the [[place-graznmntns|Grazian]] wall comes apart into [[place-wstrndscnt|The Western Descent]], the road that goes round the range's end into the [[place-dunharargn|Dunhara Region]], and the arid shore of the [[place-sandhysmdr|Sandva-samedra]] south of them. The name is the ruling clan's before it is the kingdom's. Two million people live in it, nearly all of them within a day's walk of water. The Maharava keeps his court at [[place-sandhyapur|Sandyapur]] on the coast, and the kingdom holds the land of [[place-bhumipalaland|Bhumipala Land]]. The clan held the salt coast before the march was a kingdom of theirs; the kingdom before it was **[Marupala]{.name data-type="affiliation/polity"}**, which died with its last king under the steppe host in 315 ([[lore-marupalafl|The Fall of Marupala]]), and the clan took the empty march about 325 ([[lore-bhmplraise|The Raising of Bhumipala]]).
+**Bhumipala** ("earth-protector") is a kingdom that exists for one road. It holds the [[place-vedyarargn|Vedyara Region]]'s northwestern march: the dry foothills where the [[place-graznmntns|Grazian]] wall comes apart into [[place-wstrndscnt|the Western Descent]], the road that goes round the range's end into [[place-dunharargn|Dunhara]], and the arid shore of the [[place-sandhysmdr|Sandva-samedra]] south of them. The name is the ruling clan's before it is the kingdom's. Two million people live in it, nearly all of them within a day's walk of water. The Maharava keeps his court at [[place-sandhyapur|Sandyapur]] on the coast, and the kingdom holds the land of [[place-bhumipalaland|Bhumipala]]. The clan held the salt coast before the march was a kingdom of theirs; the kingdom before it was **[Marupala]{.name data-type="affiliation/polity"}**, which died with its last king under the steppe host in 315 ([[lore-marupalafl|the Fall of Marupala]]), and the clan took the empty march about 325 ([[lore-bhmplraise|the Raising of Bhumipala]]).
 
-[[place-marchroad|The March Road]] is the one frontier of the subcontinent a loaded camel crosses without climbing, and the one by which a steppe host has come down into Vedyara. The court, the companies, the customs and the treaty all stand on that.
+[[place-marchroad|The march road]] is the one frontier of the subcontinent a loaded camel crosses without climbing, and the one by which a steppe host has come down into Vedyara. The court, the companies, the customs and the treaty all stand on that.
 
 A captain of one of the march companies, taking on a caravan at Sandyapur, sets out the terms before the first wagon moves. "You can pay my company for the stage, or you can pay the same money at the next well to whoever is standing at it. Pay me and the well comes with it. And whatever your wrist says, out here I want to know what you can do with a horse."
 
@@ -110,9 +110,9 @@ A company that is paid keeps the road. A company that is not paid keeps the road
 
 The formal treaty with the [[affiliation-kngdmmrdd|Kingdom of Amradad]] is Bhumipala's, and it is renewed every generation. It governs the movement of pilgrim caravans and the treatment of merchants arrested for trade violations on either side of the frontier. The Vedyari copy is kept at Sandyapur, and each march-captain carries a copy of the clauses he is expected to enforce.
 
-The treaty binds the Kingdom. It does not bind the [[affiliation-dunhartrbs|Dunhara Tribes]], who signed nothing and who hold that the road crosses their grazing by their forbearance. The tribes raid in lean seasons and trade in fat ones. The crown's standing arrangement exists to make the first unprofitable, and every sheikh on the road understands it exactly as the crown does.
+The treaty binds the Kingdom. It does not bind the [[affiliation-dunhartrbs|Dunhara tribes]], who signed nothing and who hold that the road crosses their grazing by their forbearance. The tribes raid in lean seasons and trade in fat ones. The crown's standing arrangement exists to make the first unprofitable, and every sheikh on the road understands it exactly as the crown does.
 
-Four centuries ago a steppe host, [[lore-hndrdbnnrs|The Storm of the Hundred Banners]], came down the Western Descent and overran the whole of the march before it turned west across the desert. Every fort on the road was built after that, and with it in mind. Marupala's host lies unburned where the Descent opens onto the road, on [[place-lanthusthli|Lantustali]], a cursed field the road bends round and the companies chain off at dusk, and its burned capital, [[place-ludrapur|Ludrapur]], is where the companies winter.
+Four centuries ago a steppe host, [[lore-hndrdbnnrs|the Storm of the Hundred Banners]], came down the Western Descent and overran the whole of the march before it turned west across the desert. Every fort on the road was built after that, and with it in mind. Marupala's host lies unburned where the Descent opens onto the road, on [[place-lanthusthli|Lantustali]], a cursed field the road bends round and the companies chain off at dusk, and its burned capital, [[place-ludrapur|Ludrapur]], is where the companies winter.
 
 ## Economy
 
@@ -132,9 +132,9 @@ To the south and southeast lie the river janapadas and the coastal cities. Bhumi
 
 ## Commerce and Currency
 
-Bhumipala holds no seat in the [[affiliation-assmblycmpct|Assembly of the Compact]], and it uses [[lore-vdyrnbnkng|Vedyaran Banking]] all the same. [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] keeps its westernmost house at Sandyapur and a factor at Ashvapada, and between them they finance most of what moves on the road.
+Bhumipala holds no seat in the [[affiliation-assmblycmpct|Assembly of the Compact]], and it uses [[lore-vdyrnbnkng|the Vedyaran banking system]] all the same. [[affiliation-mrchntclctvvdyr|The Merchant Collective]] keeps its westernmost house at Sandyapur and a factor at Ashvapada, and between them they finance most of what moves on the road.
 
-The Dunhari side of the trade runs on barter and clan credit, and a caravan settles in goods, in animals and in silver taken by weight. A Dunhari who holds a Collective letter of credit is rare enough that the men at the exchange know his name. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+The Dunhari side of the trade runs on barter and clan credit, and a caravan settles in goods, in animals and in silver taken by weight. A Dunhari who holds a Collective letter of credit is rare enough that the men at the exchange know his name. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|the Merchant Collective of Vedyara]] for the institution.
 
 ## Outside the Ladder
 

@@ -14,7 +14,7 @@ data:
   government: rajaprjnpd
 ---
 
-**Rushaghatta** (620), the dust landing, is a river-town without a river. It stands on its old levee in the floodplain of [[place-mahanadi|The Mahanodi]], a half-day's walk inland from the water, and its broad stone ghat-steps gho down eleven courses to a field of millet. The river moved away from it in one of the three changes of course the record never dated, and the town stayed where it was.
+**Rushaghatta** (620), the dust landing, is a river-town without a river. It stands on its old levee in the floodplain of [[place-mahanadi|the Mahanodi]], a half-day's walk inland from the water, and its broad stone ghat-steps gho down eleven courses to a field of millet. The river moved away from it in one of the three changes of course the record never dated, and the town stayed where it was.
 
 ## The Stairs
 
@@ -37,7 +37,7 @@ The village is quiet, prosperous and welcoming, and it asks visitors the same qu
 ## Hooks
 
 - **The channel fills.** This year the dead channel has filled to the third step and is still rising, and the river has not done that in living memory. If the Mahanodi is moving back, Rushaghatta becomes a river-town again and the village downstream of it loses its water. The boat-shreni wants someone to gho upriver and find where the bank is failing before the sabhra hears of it from the downstream village.
-- **The ring that holds.** A cultivator plowing the old riverbed has turned up a mooring post with a bronze plate on it, cut with the seal of a king of [[lore-mhndkngdm|The Kingdom of Mahanodi]] and a date in the old count. [[place-rajavalilib|The Rajavali Library]]'s copyists want it, because it could date the move the record never dated.
+- **The ring that holds.** A cultivator plowing the old riverbed has turned up a mooring post with a bronze plate on it, cut with the seal of a [[lore-mhndkngdm|Mahanodi king]] and a date in the old count. [[place-rajavalilib|The Rajavali Library]]'s copyists want it, because it could date the move the record never dated.
 - **The shrena's boat.** The boat the shrena carries down the steps each year is older than the move and has never touched water since. A buyer from the coast has offered the shrena more than the village's harvest for it, and the shrena's eldest refuses to say why it will not sell.
 
 ## See Also

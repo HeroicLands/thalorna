@@ -19,7 +19,7 @@ The ice-fishers of both shores teach their children one sound before any other: 
 
 ## The Ice at Skalfvatn
 
-In 466, in the last weeks of winter, King [Gnirthorv]{.name data-type="being/npc"} of the [[affiliation-kingdomlgn|Kingdom of Malagna]] led his host across the frozen lake to take Nordheim's host from behind, against his own pilots' word that the ice was shuddering. King [Thrildorv]{.name data-type="being/npc"} of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] held the far shore, and the ice gave under the Malagnan center: about eleven hundred men and the king went through in the time it takes to tell it. Nordheim burned its own dead with full honors. The Malagnan drowned stayed under the ice, unburned and without grave-ale, and [[lore-nordkinwars|The Kin-Wars]] tells the battle and the peace that followed it.
+In 466, in the last weeks of winter, King [Gnirthorv]{.name data-type="being/npc"} of [[affiliation-kingdomlgn|Malagna]] led his host across the frozen lake to take Nordheim's host from behind, against his own pilots' word that the ice was shuddering. King [Thrildorv]{.name data-type="being/npc"} of [[affiliation-kngdmnrdhm|Nordheim]] held the far shore, and the ice gave under the Malagnan center: about eleven hundred men and the king went through in the time it takes to tell it. Nordheim burned its own dead with full honors. The Malagnan drowned stayed under the ice, unburned and without grave-ale, and [[lore-nordkinwars|the Kin-Wars]] tells the battle and the peace that followed it.
 
 ## The Vrellvoll
 

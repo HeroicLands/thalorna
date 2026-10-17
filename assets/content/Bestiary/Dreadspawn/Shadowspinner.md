@@ -190,7 +190,7 @@ Below the tower, under the sand, the buried street is a tunnel of brick, and the
 
 # Dossier {#dossier}
 
-The Shadowspinner is a dreadspawn in the shape of a colossal spider, ten to fourteen feet long in the body with a leg-span of twenty to thirty feet, which turns its territory into a fortress of webs built with geometric precision from a black silk that drinks light. It is intelligent and patient, it keeps what it catches alive in silk for weeks, and it learns from every victim that escapes. One holds the buried lower stories of the [[place-ruinsarkor|Ruins of Arkor]], the westernmost of [[lore-towercities|The Tower Cities]], under the sand of the [[place-hekardesert|Desert of Hek'ar]], where [[affiliation-blackflame|The Black Flame]]'s [Blazing Oath]{.name data-type="affiliation/order"} is searching for a relic. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Shadowspinner is a dreadspawn in the shape of a colossal spider, ten to fourteen feet long in the body with a leg-span of twenty to thirty feet, which turns its territory into a fortress of webs built with geometric precision from a black silk that drinks light. It is intelligent and patient, it keeps what it catches alive in silk for weeks, and it learns from every victim that escapes. One holds the buried lower stories of the [[place-ruinsarkor|Ruins of Arkor]], the westernmost of [[lore-towercities|the Tower Cities]], under the sand of the [[place-hekardesert|Desert of Hek'ar]], where [[affiliation-blackflame|the Black Flame]]'s [Blazing Oath]{.name data-type="affiliation/order"} is searching for a relic. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -206,7 +206,7 @@ The shadowspinner builds, all the time. It extends and repairs its web in elabor
 
 ## What People Do
 
-The tribes of [[place-wlqtrrgn|Volketor]] will not drive stock within a mile of Arkor's tower at night, and say the sand took the city in its sleep. The Black Flame's **Blazing Oath**, the faction of the [Servants of Vezhnurikos]{.name data-type="affiliation/order"} sent under [[being-drzhvzhnr|Drazha Vezhnur, Knight of the Black Flame]] to recover the [Eye of Velok]{.name data-type="miscgear"}, has dug down into the buried streets more than once, and lost men in the dark each time; the knights speak of ancient traps, and some of the traps are webs. The caravans that cross the Hek'ar by the old road buy silk from the margin tribes, a black rope strong enough to hang a camel from, and do not ask where it comes from. The tribes who sell it collect it from the dunes over the tower at dawn, in the one hour a day it is safe, and cut only what hangs loose.
+The tribes of the [[place-wlqtrrgn|Volketor]] will not drive stock within a mile of Arkor's tower at night, and say the sand took the city in its sleep. The Black Flame's **Blazing Oath**, the faction of the [Servants of Vezhnurikos]{.name data-type="affiliation/order"} sent under [[being-drzhvzhnr|Drazha Vezhnur]] to recover the [Eye of Velok]{.name data-type="miscgear"}, has dug down into the buried streets more than once, and lost men in the dark each time; the knights speak of ancient traps, and some of the traps are webs. The caravans that cross the Hek'ar by the old road buy silk from the margin tribes, a black rope strong enough to hang a camel from, and do not ask where it comes from. The tribes who sell it collect it from the dunes over the tower at dawn, in the one hour a day it is safe, and cut only what hangs loose.
 
 ## Signs
 

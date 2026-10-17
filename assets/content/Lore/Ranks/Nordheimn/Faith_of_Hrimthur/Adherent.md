@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-Nobody gives a Bandlid, an adherent of one of the scattered factions of the [[affiliation-hrimthur|Faith of Hrimthur]], his standing: he holds it for what he has made or understood, and his faction lets him keep it for as long as it agrees. There is nobody above a faction to say otherwise, because there is nobody above any of them.
+Nobody gives an adherent of one of the scattered factions of the [[affiliation-hrimthur|Faith of Hrimthur]], his standing: he holds it for what he has made or understood, and his faction lets him keep it for as long as it agrees. There is nobody above a faction to say otherwise, because there is nobody above any of them.
 
 ## What This Standing Is
 

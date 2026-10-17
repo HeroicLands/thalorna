@@ -57,23 +57,23 @@ data:
         - why the Empire turned east in the Age of Conquest, when its armies were committed to the west
 ---
 
-[[affiliation-tevran|The Tevran Maldor]]'s own account of how the [[place-byzariargn|Bizaria Region]] joined the system in The Eastern War is a single phrase, "by formal conquest", and it is accurate. The conquest took five years.
+[[affiliation-tevran|The Tevran Maldor]]'s own account of how [[place-byzariargn|Bizaria]] joined the system in The Eastern War is a single phrase, "by formal conquest", and it is accurate. The conquest took five years.
 
 ## The Legions
 
-The Orzas **[Karomfos]{.name data-type="being/npc"}** reigned over the [[affiliation-vylarinmpr|Vylarian Empire]] in [The Age of Conquest]{.name data-type="lore/calendar"}, from about 209, and in the first years of his reign the legions that were fighting in the west were not the only ones he sent out. A force came over the mountains from [[place-helionis|Helionis]], where the [Vylarian Republic]{.name data-type="affiliation/polity"}'s old province had given the Empire a road, and a fleet from the Vylarian coast took the harbors of the eastern straits in a single season. The five cities of the [[affiliation-byzarianlg|Bizarian League]] were cut from the sea and then from each other.
+The Orzas **[Karomfos]{.name data-type="being/npc"}** reigned over the [[affiliation-vylarinmpr|Vylarian Empire]] in [The Age of Conquest]{.name data-type="lore/calendar"}, from about 209, and in the first years of his reign the legions that were fighting in the west were not the only ones he sent out. A force came over the mountains from [[place-helionis|Helionis]], where the [Vylarian Republic]{.name data-type="affiliation/polity"}'s old province had given the Empire a road, and a fleet from the Vylarian coast took the harbors of the eastern straits in a single season. The five cities of the [[affiliation-byzarianlg|League]] were cut from the sea and then from each other.
 
 ## The Edict
 
-The Orzas annexed the League as a province by edict. The edict dissolved [[lore-heladcompact|The Compact of the Five]]. The cities kept their councils, as Helionis's cities had kept theirs after the conquest, and lost the passes, the tariffs and the muster to imperial officers. The League's council in the [Merchant Hall]{.name data-type="place/structure"} of [[place-khryshteikhos2|Krusteikhos]] ceased to meet.
+The Orzas annexed the League as a province by edict. The edict dissolved [[lore-heladcompact|the Compact]]. The cities kept their councils, as Helionis's cities had kept theirs after the conquest, and lost the passes, the tariffs and the muster to imperial officers. The League's council in the [Merchant Hall]{.name data-type="place/structure"} of [[place-khryshteikhos2|Krusteikhos]] ceased to meet.
 
-[[place-argyrteikhos2|Argirteikhos]], the Silver Citadel, held for two years behind its walls before it surrendered on terms, and [[lore-heladcitadel|The Siege of the Silver Citadel]] is the longest part of the war.
+[[place-argyrteikhos2|Argirteikhos]], the Silver Citadel, held for two years behind its walls before it surrendered on terms, and [[lore-heladcitadel|its siege]] is the longest part of the war.
 
 ## What the War Left
 
 - **The province of Bizaria**, which lasted three centuries.
 - **The imperial frontier forts** in the passes, which the League takes as its marches after the legions leave.
-- **The [[skill-semrnscrpt|Semaron Script]] ledgers and [[lore-commoncal|The Vylarian Calendar]]**, which the province keeps for the rest of its imperial age.
+- **The [[skill-semrnscrpt|Semaron]] ledgers and [[lore-commoncal|the Vylarian Calendar]]**, which the province keeps for the rest of its imperial age.
 - **The "formal conquest"** of the Tevran Maldor's account, which dates to this war and to no other.
 
 ## See Also

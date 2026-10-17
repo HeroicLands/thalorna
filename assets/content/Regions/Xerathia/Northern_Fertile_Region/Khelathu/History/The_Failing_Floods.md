@@ -62,7 +62,7 @@ The Failing Floods are the years in which a Gar-Au bent it.
 
 The river rose short. In the last reign of the struck house the inundation came low year upon year, and the harvests of the upper river fell with it. A Khelathi reads that sequence as a verdict, and the one on the throne read it as a threat to his claim. He had proclaimed himself [[lore-uqaadty|Uqa'a]] in the flesh, not in rite but in truth, and a god-king whose river fails is something less than that.
 
-So he hid it. His men seized the great temple on [[place-yathtelgu|Yath-Telgu]] and the granaries that belonged to it, and the priests who named the blasphemy were silenced. The Measure, the stone stair at the island's upstream point where the priests of the [[affiliation-uqaa|Faith of Uqa'a]] read the flood each day, was read by other hands. The reading went out to the city and the empire as a full flood, the festival was held, and the tax rolls were struck for a harvest the fields had not grown.
+So he hid it. His men seized the great temple on [[place-yathtelgu|Yath-Telgu]] and the granaries that belonged to it, and the priests who named the blasphemy were silenced. The Measure, the stone stair at the island's upstream point where the priests of [[affiliation-uqaa|Uqa'a]] read the flood each day, was read by other hands. The reading went out to the city and the empire as a full flood, the festival was held, and the tax rolls were struck for a harvest the fields had not grown.
 
 The temple grain went into the granaries and stayed there. At [[place-anlaghzetun|Anlagh-Zetun]] the domes of the great granaries stood full while the villages around them ate their seed-corn, and the guard at the gates had orders that the doors were the god-king's. In [[place-galezkara|Galezkara]] the dole that keeps a hungry city quiet stopped. The people of the low ground, in the warrens of [[place-garqethar|Gar-Qethar]], buried their dead in pits dug in the flood-prone earth, and nobody entered them in any roll, because to enter a death of hunger was to speak the word.
 
@@ -77,12 +77,12 @@ The valley paid in the two currencies it counts. The first was lives: the poor o
 - **The gravest crime a Khelathi can name.** Falsifying the Measure is among the gravest crimes a Khelathi can name, and the law treats it so.
 - **The famine pits.** They lie under the warrens of Gar-Qethar, built over by the poor who came after.
 - **The dole as statecraft.** A Gar-Au who holds the granaries holds the city's peace, and the houses since keep the dole running in a lean year.
-- **The rising.** The granaries were taken from the guard by force ([[lore-sealedgran|The Battle of the Sealed Granaries]]), and the judgment followed ([[lore-judgfalseuq|The Judgment of the False Uqa'a]]).
+- **The rising.** The granaries were taken from the guard by force ([[lore-sealedgran|the Battle of the Sealed Granaries]]), and the judgment followed ([[lore-judgfalseuq|the Judgment of the False Uqa'a]]).
 
 ## See Also
 
 - [[lore-akhstruckhs|The Struck House]]—the age it belongs to
-- [[lore-sealedgran|The Battle of the Sealed Granaries]] · [[lore-judgfalseuq|The Judgment of the False Uqa'a]]—what the famine ended in
+- [[lore-sealedgran|The Battle of the Sealed Granaries]] · [[lore-judgfalseuq|the Judgment of the False Uqa'a]]—what the famine ended in
 - [[place-yathtelgu|Yath-Telgu]]—the island, the Great Temple and the Measure
 - [[place-garqethar|Gar-Qethar]] · [[place-anlaghzetun|Anlagh-Zetun]]—where the famine's dead and its grain lay
 - [[being-falseuqaa|The False Uqa'a]] · [[affiliation-garzinelrelu|Gar-Zin'el'Relu]]

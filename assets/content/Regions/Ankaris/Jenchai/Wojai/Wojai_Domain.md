@@ -75,11 +75,11 @@ The [Woju]{.name data-type="affiliation/lineage"} keep the harbors and hold [Sho
 
 ## Hulls and Muster
 
-The muster is 1,300 men and 40 hulls. A Wojai hull is a merchant ship that carries a warship's crew when the lord calls, and the line between the two is thin. The hulls carry Jenchai's blades, lacquer, silk and salt out through the bay to the coast of the [[place-vedyarargn|Vedyara Region]], and the harbor takes in the jade, tea, bronze and silver the islands import. The trade to Vedyara crosses [[place-suryasamdra|Surva-samedra]], which is closed to shipping for four months of the year, and the Shuonong merchants of Yuwu finance the voyages.
+The muster is 1,300 men and 40 hulls. A Wojai hull is a merchant ship that carries a warship's crew when the lord calls, and the line between the two is thin. The hulls carry Jenchai's blades, lacquer, silk and salt out through the bay to the [[place-vedyarargn|Vedyaran coast]], and the harbor takes in the jade, tea, bronze and silver the islands import. The trade to Vedyara crosses [[place-suryasamdra|Surva-samedra]], which is closed to shipping for four months of the year, and the Shuonong merchants of Yuwu finance the voyages.
 
 ## Relations
 
-Wojai belongs to neither bloc, and Doja's choice decides the balance: Wojai joining either [The Strait]{.name data-type="affiliation"} bloc or the loyalists ends the equilibrium of the Nine. In 709 AF Wojai and the [[affiliation-shuiwojaidmn|Shuiwojai Domain]] pressed the court not to confer the office of Teng Ja on a regency, and the [War of the Empty Seat]{.name data-type="lore/history"} followed.
+Wojai belongs to neither bloc, and Doja's choice decides the balance: Wojai joining either [The Strait]{.name data-type="affiliation"} bloc or the loyalists ends the equilibrium of the Nine. In 709 AF Wojai and [[affiliation-shuiwojaidmn|Shuiwojai]] pressed the court not to confer the office of Teng Ja on a regency, and the [War of the Empty Seat]{.name data-type="lore/history"} followed.
 
 ## The Pawned Bell
 

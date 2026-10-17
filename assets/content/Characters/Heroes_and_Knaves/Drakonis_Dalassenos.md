@@ -416,7 +416,7 @@ sohl:
 
 ![[drknsdlsns|Mivios Zapemes]]{float=top-left}
 
-Mivios Zapemes stands 6'0" tall with a heavy build. He has tanned ruddy skin, greying brown hair, and green eyes. His features include a long face, a hawkish nose, a sharp jawline, well-defined lips, and greying brows.
+Mivios stands 6'0" tall with a heavy build. He has tanned ruddy skin, greying brown hair, and green eyes. His features include a long face, a hawkish nose, a sharp jawline, well-defined lips, and greying brows.
 
 # Dossier {#dossier}
 

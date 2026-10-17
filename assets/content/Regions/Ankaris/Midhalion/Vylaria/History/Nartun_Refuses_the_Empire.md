@@ -60,11 +60,11 @@ data:
       unresolved: [whether the legions were ordered to take the city or to withdraw]
 ---
 
-In Nartun Refuses the Empire, the secretary of a Nartunese priest-noble, briefing an envoy from [[place-orzara|Orzara City]] before an audience, gives the kingdom's version in one sentence: "Your throne was asked to choose between the fire that makes and the fire that takes, and he said that both were welcome in his capital." It is the whole of the quarrel, and neither side has found a way to add to it.
+The secretary of a Nartunese priest-noble, briefing an envoy from [[place-orzara|Orzara]] before an audience, gives the kingdom's version in one sentence: "Your throne was asked to choose between the fire that makes and the fire that takes, and he said that both were welcome in his capital." It is the whole of the quarrel, and neither side has found a way to add to it.
 
 ## The Request
 
-[[lore-ustaranschsm|The Ústaran Schism]] split the faith of [[lore-ustarondty|Ústaron]], the Forge-Lord, into [[affiliation-sacredforge|The Sacred Forge]] and [[affiliation-blackflame|The Black Flame]] about 220. The orthodox clergy of the [[affiliation-vylarinmpr|Vylarian Empire]] went to the Orzas **[Karomfos]{.name data-type="being/npc"}** and asked him to proscribe the new faith. He refused. The Black Flame had temples in his capital and officers in his legions, and the Empire's law permitted every faith that did not threaten the stability of the state.
+[[lore-ustaranschsm|The Ústaran Schism]] split the faith of [[lore-ustarondty|Ústaron]], the Forge-Lord, into [[affiliation-sacredforge|the Sacred Forge]] and [[affiliation-blackflame|the Black Flame]] about 220. The orthodox clergy of the [[affiliation-vylarinmpr|Empire]] went to the Orzas **[Karomfos]{.name data-type="being/npc"}** and asked him to proscribe the new faith. He refused. The Black Flame had temples in his capital and officers in his legions, and the Empire's law permitted every faith that did not threaten the stability of the state.
 
 ## The Withdrawal
 
@@ -74,10 +74,10 @@ The Orzas sent legions to bring the city back. They reached Nartun in the autumn
 
 ## What It Left
 
-- **The [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]].** An independent theocratic monarchy in the heartland of the Empire, whose king is anointed by the priesthood and has been deposed by it.
+- **The [[affiliation-hlykngdmnrtm|Holy Kingdom]].** An independent theocratic monarchy in the heartland of the Empire, whose king is anointed by the priesthood and has been deposed by it.
 - **Two verdicts.** Nartun calls the Empire a corrupted institution that has strayed, and the Empire calls Nartun a wayward province that will come back. Both are said politely, in the same language.
-- **An archaic dialect.** Nartun's people speak an older form of the [[skill-vylarilng|Vylari Language]] as a mark of the break, and Vylarian envoys learn it before they go.
-- **No Arcane Order.** [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) has no presence in the kingdom, where mages who work answer to the priesthood.
+- **An archaic dialect.** Nartun's people speak an older form of [[skill-vylarilng|Vylari]] as a mark of the break, and Vylarian envoys learn it before they go.
+- **No Arcane Order.** The [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) has no presence in the kingdom, where mages who work answer to the priesthood.
 - **The open temples of the Black Flame.** In Orzara and in the commercial cities of [[place-alyssa|Alessa]], where the [Night of Ashes]{.name data-type="lore/gathering"} is a public festival.
 
 ## See Also

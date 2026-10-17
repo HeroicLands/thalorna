@@ -418,7 +418,7 @@ sohl:
 
 ![[xadrosdmts|Zadros Damates]]{float=top-left}
 
-Zadros Damates stands 6'1" tall with a medium build. He has light tanned skin, dark brown hair, and brown eyes. His features include a long face, a snub nose, a strong jawline, dark brows, and rounded cheeks.
+Zadros stands 6'1" tall with a medium build. He has light tanned skin, dark brown hair, and brown eyes. His features include a long face, a snub nose, a strong jawline, dark brows, and rounded cheeks.
 
 # Dossier {#dossier}
 
@@ -488,7 +488,7 @@ Learned Fatalism
 Merchant [Peldan the Prosperous]{.name data-type="being/npc"}
 : A wealthy local trader who appreciates fine craftsmanship and has commissioned several pieces for his home, serving as Zadros' most reliable repeat customer.
 
-Village Elder [[being-pirkelarrevo|Pirkelar Revothandis]]
+Village Elder [[being-pirkelarrevo|Pirkelar]]
 : The village's governing elder who treasures Zadros' work and regularly recommends him to visiting dignitaries, serving as an informal advocate for the craftsman's talents.
 
 ### Enemies

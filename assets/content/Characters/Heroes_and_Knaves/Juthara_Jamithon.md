@@ -420,7 +420,7 @@ sohl:
 
 ![[juthrjmthn|Júthara Jamithon]]{float=top-left}
 
-Júthara Jamithon stands 5'11" tall with a medium build. She has warm amber skin, black hair, and brown eyes. Her features include a narrow face, a noble nose, a smooth jawline, elegantly curved brows. A distinguishing mark is a scar running across the stomach.
+Júthara stands 5'11" tall with a medium build. She has warm amber skin, black hair, and brown eyes. Her features include a narrow face, a noble nose, a smooth jawline, elegantly curved brows. A distinguishing mark is a scar running across the stomach.
 
 # Dossier {#dossier}
 
@@ -428,7 +428,7 @@ Born into the [Jamithon family]{.name data-type="affiliation/lineage"} during th
 
 Her career took a darker turn when she accepted a commission from [The Matriarch's Council]{.name data-type="affiliation/governmental"}, the ruling council, to investigate a plague spreading through the outer provinces. During fieldwork in a remote village, she was attacked by infected victims who had turned feral—the source of her abdominal scar. She survived, but the experience transformed her from a clinical scholar into one obsessed with understanding the boundary between disease and corruption of the soul. For five years she disappeared from public life, conducting controversial experiments that earned her considerable censure.
 
-Now at thirty-four years of age, Júthara has emerged as a controversial but respected voice in [[lore-bethuanclt|Bethuan]] scholarship. She maintains her own research laboratory in the capital and teaches select apprentices, blending traditional knowledge with radical new methodologies. Despite—or perhaps because of—her checkered past, she has become instrumental in advancing the Matriarchy's understanding of medicine and natural philosophy.
+Now at thirty-four years of age, Júthara has emerged as a controversial but respected voice in [[lore-bethuanclt|Bethuian]] scholarship. She maintains her own research laboratory in the capital and teaches select apprentices, blending traditional knowledge with radical new methodologies. Despite—or perhaps because of—her checkered past, she has become instrumental in advancing the Matriarchy's understanding of medicine and natural philosophy.
 
 ## Psyche
 
@@ -481,7 +481,7 @@ Emotional Reticence
 ### Patrons
 
 The Matriarch's Council
-: Officially, she serves the ruling body of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], conducting investigations and providing medical consultation on matters of state health.
+: Officially, she serves the ruling body of [[affiliation-mtrrchybth|Bethua]], conducting investigations and providing medical consultation on matters of state health.
 
 Tabira the Wise
 : Her elderly mentor and former primary teacher, though now retired, continues to provide guidance and occasionally supplies rare components for her experiments.

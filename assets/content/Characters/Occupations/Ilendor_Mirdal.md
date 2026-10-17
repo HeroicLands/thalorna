@@ -402,7 +402,7 @@ Ilendor Mirdal is a 58-year-old man who stands 5'4" tall and is of moderate buil
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia Region]] to a guilded family of [[lore-provenzianclt|Provenzian]] heritage, Ilendor Mirdal came into the world of the astrologer through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia region]] to a guilded family of [[lore-provenzianclt|Provenzian]] heritage, Ilendor Mirdal came into the world of the astrologer through a combination of circumstance and aptitude.
 
 Ilendor is a well known astrologer who serves the court of a powerful noble family. His predictions have shaped political decisions and royal marriages. Though his accuracy is respected, he is also known for being cryptic and difficult to approach. Ilendor’s interest in the stars began during his youth, where a solar eclipse inspired him to pursue astrology.
 

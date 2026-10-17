@@ -15,7 +15,7 @@ data:
 
 ## Overview
 
-North of the Vylarian passes [[lore-legionsroad|The Legions' Road]] drops off the [[place-vandstein|Vandstein]] highlands into a gorge, crosses its river on four stone piers the legions set, and climbs the far side into a stand of black pines. In the pines stands one of the forward posts the [[affiliation-vylarinmpr|Vylarian Empire]] gave up: a square of mortared stone around a yard, a gatehouse, a granary on vaulted cellars, and a squat tower whose roof the Varokh burned. The ground is **Dunkelholt**, the dark copse, _dunkel-_ with the ground-closing _-holt_, and the name is older than anything that happens there now.
+North of the Vylarian passes [[lore-legionsroad|the Legions' Road]] drops off the [[place-vandstein|Vandstein]] highlands into a gorge, crosses its river on four stone piers the legions set, and climbs the far side into a stand of black pines. In the pines stands one of the forward posts the [[affiliation-vylarinmpr|Empire]] gave up: a square of mortared stone around a yard, a gatehouse, a granary on vaulted cellars, and a squat tower whose roof the Varokh burned. The ground is **Dunkelholt**, the dark copse, _dunkel-_ with the ground-closing _-holt_, and the name is older than anything that happens there now.
 
 ## The Guesthouse
 

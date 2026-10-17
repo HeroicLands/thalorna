@@ -8,7 +8,7 @@ tags: [draft, nyaluba]
 data: {packFolder: lorespiritsnyaluba, culture: nyalubaclt}
 ---
 
-Crocodile Spirit is the totemic being venerated by the [Kolembozi]{.name data-type="affiliation/polity"} of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. For the cult, its
+Crocodile Spirit is the totemic being venerated by the [Kolembozi]{.name data-type="affiliation/lineage"} of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. For the cult, its
 offices and its observances, see [[affiliation-nyalbcroc|Crocodile Totem]]; for the kinds of guide
 and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].
 
@@ -19,7 +19,7 @@ dangerous. It takes what enters its reach because that is its nature, and the tr
 regard this as wrong.
 
 This is the root of the Kolembozi position that outsiders find hardest: a death by crocodile is a
-family matter, not a crime. The [[being-crcdl|Crocodile]] is named, its lineage is known, and the loss is entered in
+family matter, not a crime. The [[being-crcdl|crocodile]] is named, its lineage is known, and the loss is entered in
 the reckoning between the clan and the guide. It is not avenged, because one does not avenge
 oneself upon a kinsman for being what it is.
 

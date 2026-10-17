@@ -14,15 +14,15 @@ data:
   packFolder: elavendre
 ---
 
-Nelgan is the eastern pass of the Áelendan country, a notch in the high ridge above [[place-ethalosse|Ethalosse]] that is blocked by snow for much of the year. The [[lore-aelendnppl|Áelendan People]] call it the Snow-Gate. It is the way the people came into the country and the way the country has been entered from the east since.
+Nelgan is the eastern pass of the Áelendan country, a notch in the high ridge above [[place-ethalosse|Ethalosse]] that is blocked by snow for much of the year. The [[lore-aelendnppl|Áelendan]] call it the Snow-Gate. It is the way the people came into the country and the way the country has been entered from the east since.
 
 ## The Cairn
 
-Near the top of the pass, on the west side, stands a cairn of grey stones over the ones who sat down to rest in the snow during [[lore-nelgancross|The Crossing of Nelgan]] and did not stand again. The Áelendan say they sit there still.
+Near the top of the pass, on the west side, stands a cairn of grey stones over the ones who sat down to rest in the snow during [[lore-nelgancross|the Crossing]] and did not stand again. The Áelendan say they sit there still.
 
 ## The Watch-Post
 
-A watch-post of the [[affiliation-alndnwrdns|Áelendan Wardens]] stands below the ridge on the western slope, built of the pass's own stone and kept by Wardens in pairs through the season the pass is open. The Wardens charge a **passage-gift** from the caravans that come over from the east, in goods and not coin, and in return they keep the road marked. The pass has been the Wardens' charge since [[lore-firesnelgan|The Fires on Nelgan]].
+A [[affiliation-alndnwrdns|Wardens' watch-post]] stands below the ridge on the western slope, built of the pass's own stone and kept by Wardens in pairs through the season the pass is open. The Wardens charge a **passage-gift** from the caravans that come over from the east, in goods and not coin, and in return they keep the road marked. The pass has been the Wardens' charge since [[lore-firesnelgan|the Fires on Nelgan]].
 
 ## The Scorched Rock
 
@@ -43,4 +43,4 @@ Below the cairn, on a shelf of rock out of the wind, the stone is black and shat
 
 - [[lore-nelgancross|The Crossing of Nelgan]]—the people who came over it
 - [[lore-firesnelgan|The Fires on Nelgan]]—the raiders who came after
-- [[place-ethalosse|Ethalosse]] · [[place-alndntrblnds|Áelendan Tribal Lands]] · [[affiliation-alndnwrdns|The Áelendan Wardens]]
+- [[place-ethalosse|Ethalosse]] · [[place-alndntrblnds|Áelendan Tribal Lands]] · [[affiliation-alndnwrdns|the Áelendan Wardens]]

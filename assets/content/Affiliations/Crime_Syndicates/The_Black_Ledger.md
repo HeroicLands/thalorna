@@ -85,7 +85,7 @@ Founded
 
 ## Overview
 
-The Black Ledger is the shadow institution of [[affiliation-crtgrphrsgldbyzrnlg|The Cartographers' Guild of the Bizarian League]]. Almost all of its members are guild-trained—most hold guild credentials—and the Ledger could not exist without the technical apparatus the guild provides. What the Ledger does is take that apparatus into territory the guild's charter forbids: maps for smugglers and rival merchant lords, maps for foreign powers paying premium rates for the [[affiliation-byzarianlg|Bizarian League]]'s military dispositions, maps of forbidden territories that no licensed surveyor will sign his name to, maps that document what was never meant to be documented.
+The Black Ledger is the shadow institution of [[affiliation-crtgrphrsgldbyzrnlg|the Cartographers' Guild]]. Almost all of its members are guild-trained—most hold guild credentials—and the Ledger could not exist without the technical apparatus the guild provides. What the Ledger does is take that apparatus into territory the guild's charter forbids: maps for smugglers and rival merchant lords, maps for foreign powers paying premium rates for the [[affiliation-byzarianlg|Bizarian League]]'s military dispositions, maps of forbidden territories that no licensed surveyor will sign his name to, maps that document what was never meant to be documented.
 
 The Ledger is not, in any conventional sense, a syndicate. It has no captain, no membership rolls, no fees, no headquarters. It operates as a network of acquaintance: a Ledger member is someone whom other Ledger members agree to call when a certain kind of work needs doing. The agreements are informal, the introductions personal, the work conducted on a single-commission basis with no obligation to repeat. The Ledger does not protect its members, does not adjudicate disputes between them, and does not, in any visible way, exist.
 
@@ -119,10 +119,10 @@ The [[affiliation-crtgrphrsgldbyzrnlg|Cartographers' Guild]]
 : parasitic dependence. The Ledger could not exist without the guild's training apparatus; the guild cannot eliminate the Ledger without expelling a substantial fraction of its own membership. The two institutions maintain a kind of mutual non-recognition; senior figures on each side often know senior figures on the other and pretend, in public, not to.
 
 The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]
-: major clients. [[affiliation-velvethand|The Velvet Hand]] buys document specialists; [[affiliation-crimsnldgr|The Crimson Ledger]] (no relation despite the similar name) buys financial-route maps; [[affiliation-theashroad|The Ash Road]] buys desert and caravan charts; the [Theft Syndicate of the Eastern Docks]{.name data-type="affiliation/criminal"} buys city-interior surveys.
+: major clients. [[affiliation-velvethand|The Velvet Hand]] buys document specialists; [[affiliation-crimsnldgr|the Crimson Ledger]] (no relation despite the similar name) buys financial-route maps; [[affiliation-theashroad|the Ash Road]] buys desert and caravan charts; the [Theft Syndicate of the Eastern Docks]{.name data-type="affiliation/criminal"} buys city-interior surveys.
 
 Foreign powers
-: the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], an unidentified northern confederation, at least one Vylarian province, and irregularly the [[affiliation-khzrncnfdrtn|Tellumi Confederation]] all maintain standing arrangements with brokers for procurement of League maps.
+: [[affiliation-kingdmtrvn|Tarvénia]], an unidentified northern confederation, at least one Vylarian province, and irregularly the [[affiliation-khzrncnfdrtn|Tellumi Confederation]] all maintain standing arrangements with brokers for procurement of League maps.
 
 The League's City Guard
 : the Ledger's only true enemy. The Guard knows the Ledger exists, knows roughly who is involved, and has not assembled sufficient evidence to indict any senior member.

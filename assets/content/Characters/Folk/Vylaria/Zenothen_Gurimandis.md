@@ -36,4 +36,4 @@ Zenothen Gurimandis is a 69-year-old man who stands 5'9" tall with a medium buil
 
 # Dossier {#dossier}
 
-Zenothen Gurimandis is an aging priest of the [[affiliation-marendas|Faith of Marendas]] at the [Temple of Wisdom]{.name data-type="place/structure"} and the confessor of several scholars. [[being-azatodmzns|Azato Damzanis]] speaks with him monthly on theological matters, and he is one of the few people with whom Azato engages with something approaching candor. He harbors no illusions about Azato's capacity for warmth.
+Zenothen Gurimandis is an aging priest of [[affiliation-marendas|Marendas]] at the [Temple of Wisdom]{.name data-type="place/structure"} and the confessor of several scholars. [[being-azatodmzns|Azato Damzanis]] speaks with him monthly on theological matters, and he is one of the few people with whom Azato engages with something approaching candor. He harbors no illusions about Azato Damzanis's capacity for warmth.

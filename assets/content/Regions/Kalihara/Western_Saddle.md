@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The Western Saddle is the lowest crossing of [[place-klhrring|The Ring]] on the west of the [[place-klhrcntnnt|Kalihara Continent]], a broad dip in the crest between two higher peaks. Mist comes up off the western ocean most mornings and pours through it into [[place-klhrbowl|The Great Bowl]], and the Kaliharans call the saddle _theinuvael_ (silver mist); the lineage [Theinuvael]{.name data-type="affiliation/lineage"} that holds it is named for it. The road from the western coast climbs the steep outer slopes past the sanctuary of [[place-thalari|Thal'ari]], crosses the saddle, and comes down the inner face into [[place-klhrdpfrst|The Deep Forest]].
+The Western Saddle is the lowest crossing of [[place-klhrring|the Ring]] on the west of [[place-klhrcntnnt|Kalihara]], a broad dip in the crest between two higher peaks. Mist comes up off the western ocean most mornings and pours through it into [[place-klhrbowl|the Bowl]], and the Kaliharans call the saddle _theinuvael_ (silver mist); the lineage [Theinuvael]{.name data-type="affiliation/lineage"} that holds it is named for it. The road from the western coast climbs the steep outer slopes past the sanctuary of [[place-thalari|Thal'ari]], crosses the saddle, and comes down the inner face into [[place-klhrdpfrst|the Deep Forest]].
 
 ## The Lineage and the Road
 
@@ -24,7 +24,7 @@ The western coast is the harder coast of the island, steep and reef-bound, with 
 
 ## What Is Seen from It
 
-Westward the outer slopes drop to the coast and the open ocean beyond it, with the reefs showing as lines of broken water where the currents run against the swell; there is no land in that direction until the [[place-kchchkcntnnt|K'ich'chik Continent]]. Eastward the canopy of the Deep Forest covers the Bowl's floor, and on a clear afternoon [[place-klhrmassif|The Massif]] shows over it in the middle of the lake. From the sea the saddle is the one low notch in the western crest.
+Westward the outer slopes drop to the coast and the open ocean beyond it, with the reefs showing as lines of broken water where the currents run against the swell; there is no land in that direction until [[place-kchchkcntnnt|K'ich'chik]]. Eastward the canopy of the Deep Forest covers the Bowl's floor, and on a clear afternoon [[place-klhrmassif|the Massif]] shows over it in the middle of the lake. From the sea the saddle is the one low notch in the western crest.
 
 ## The Cost of Crossing
 

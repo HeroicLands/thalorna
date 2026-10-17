@@ -20,7 +20,7 @@ In a drought year, [[place-madhukupa|Madukupa]] is the only place in the foothil
 
 ## Hooks
 
-- **The thief.** A road-keeper of [[affiliation-adanasreni|The Adanashreni]] pays well for the Samonta's ledgers. The shrena has never been able to stop a wagon near the fort, and the Margapala who licenses that stretch wants to know why before his charter is renewed.
+- **The thief.** A road-keeper of [[affiliation-adanasreni|the Adanashreni]] pays well for the Samonta's ledgers. The shrena has never been able to stop a wagon near the fort, and the Margapala who licenses that stretch wants to know why before his charter is renewed.
 - **The mercenary or soldier.** A caravan-master is short two guards for the dry stretch past the fort, and says it quietly: _drink only from your own skins._
 - **The leader.** A woman of the herder village below the fort asks the chief of a company or a household to find her son, sold into the Samonta's household three dry seasons ago. She was told he left.
 - **The wanderer.** A Jvelita of the [[affiliation-agnipantha|Agmi-pantra]] arrives at the fort bearing the Samonta's own letter, asking for a purgation. The Jvelita has not been told what must be purged, and asks a traveler to stand beside him at the gate.
@@ -38,7 +38,7 @@ In a drought year, [[place-madhukupa|Madukupa]] is the only place in the foothil
 - _Drink._ A single swallow gives the dream a hold. A bowl gives it the night.
 - _Pour a libation._ Spilling the first of the cup to the ground, with a word to the pass-gods, is a courtesy as old as the road. Kavrapala accepts it, a little puzzled.
 - _Bring their own._ A guest with their own skin may drink from it. It is no insult, and the household remembers it.
-- _Claim a station._ A Retuja, an ascetic or a bearer of a letter from [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] may be taken in without the cup. The household bows.
+- _Claim a station._ A Retuja, an ascetic or a bearer of a letter from [[affiliation-mrchntclctvvdyr|the Merchant Collective of Vedyara]] may be taken in without the cup. The household bows.
 - _Climb the wall._ The curtain is plain stone. A stealthy party enters over the north angle, and sleeps in the horse-lines.
 
 **Clues and rewards.** Every servant wears a token stamped with a ring and a line, the well and its stair. None of them wears gray hair. Nili's cord is knotted, and the knot is a count of dry seasons.
@@ -97,7 +97,7 @@ In a drought year, [[place-madhukupa|Madukupa]] is the only place in the foothil
 
 **Situation.** The shaft descends past the water-line into a low cavern the grandfather found when he cut the well. The floor is a pool of black, still water, and around it, laid in rows on ledges of limestone, are the sleepers. They breathe. Some of them have been here since the grandfather's day. Their faces are smooth and young, or they were young once. At the pool's center, something stirs.
 
-**NPCs and threats.** The [Well-Mother]{.name data-type="being/creature"} is a woman made of water, tall and smiling, with long unbound hair that falls into the pool and does not end. She is not a god and not an animal. She is older than the stone, and she is a thing of [[lore-theshadow|The Shadow]] that has learned the shape of those she has taken, and wears a woman's. She speaks in the voices of the sleepers: their mothers, their children, their old friends. She is kind. She says she is lonely and means it, and she holds the water of the whole seam, which lies under the fort and the three nearest wells. She fights by dream, with sleep and with the stair, and when pressed she fights with the cold.
+**NPCs and threats.** The [Well-Mother]{.name data-type="being/creature"} is a woman made of water, tall and smiling, with long unbound hair that falls into the pool and does not end. She is not a god and not an animal. She is older than the stone, and she is a thing of [[lore-theshadow|the Shadow]] that has learned the shape of those she has taken, and wears a woman's. She speaks in the voices of the sleepers: their mothers, their children, their old friends. She is kind. She says she is lonely and means it, and she holds the water of the whole seam, which lies under the fort and the three nearest wells. She fights by dream, with sleep and with the stair, and when pressed she fights with the cold.
 
 **Player choices.**
 

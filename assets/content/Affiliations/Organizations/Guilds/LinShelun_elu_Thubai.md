@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-**Lin'Shelun elu Thuba'i** is the collective of performers and artists who work under the patronage of the [[affiliation-thubai|Faith of Thuba'i]]. The god's temple funds their work and takes a share of whatever acclaim it earns. Musicians, actors and visual artists enter by invitation, and membership is a mark of standing among the capital's players.
+**Lin'Shelun elu Thuba'i** is the collective of performers and artists who work under the patronage of [[affiliation-thubai|Thuba'i]]. The god's temple funds their work and takes a share of whatever acclaim it earns. Musicians, actors and visual artists enter by invitation, and membership is a mark of standing among the capital's players.
 
 ## Character
 

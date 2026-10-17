@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-"You hold your district because your men agree to it. I hold this province because the king gave it, and what he gave he can give to another," a Jarl says to the hersvaldar who answer to him. "The ting binds the two of us alike."
+"You hold your district because your men agree to it. I hold this province because the king gave it, and what he gave he can give to another," a jarl says to the hersvaldar who answer to him. "The ting binds the two of us alike."
 
 ## What This Standing Is
 
@@ -32,4 +32,4 @@ In the kingdoms, holding a named province is itself the office the rank confers;
 
 ## Where This Standing Is Held
 
-The five kingdoms—[[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—hold this standing under one Nordmal law. In the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]], a jarl instead rules a jarldom in his own right, owing the [[lore-highjarlrnk|High Jarl]] the confederation's nominal allegiance rather than holding a king's grant.
+The five kingdoms—[[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Vithgard]]—hold this standing under one Nordmal law. In the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]], a jarl instead rules a jarldom in his own right, owing the [[lore-highjarlrnk|High Jarl]] the confederation's nominal allegiance rather than holding a king's grant.

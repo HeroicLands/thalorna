@@ -183,7 +183,7 @@ The skerry off the point is crowded with dark, glistening bodies, humped on the 
 
 # Dossier {#dossier}
 
-The Seal is the common seal of the cold northern coasts, fjords and island chains of the [[place-nrdlndsrgn|Nordlands Region]] and [[place-vithgard|Vithgard]], a fish-eating swimmer of one hundred fifty to six hundred pounds. It is the everyday subsistence animal of the coast: meat, blubber for lamp oil and waterproofing, hides for clothing and boat-skins, and bone and sinew for a hundred uses. Where the reindeer defines the tundra, the seal defines the coast. Its breathing-holes in the sea ice are where the polar bear hunts it.
+The Seal is the common seal of the cold northern coasts, fjords and island chains of the [[place-nrdlndsrgn|Nordlands]] and [[place-vithgard|Vithgard]], a fish-eating swimmer of one hundred fifty to six hundred pounds. It is the everyday subsistence animal of the coast: meat, blubber for lamp oil and waterproofing, hides for clothing and boat-skins, and bone and sinew for a hundred uses. Where the reindeer defines the tundra, the seal defines the coast. Its breathing-holes in the sea ice are where the polar bear hunts it.
 
 ## Presentation
 

@@ -52,9 +52,9 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-On the first night of the **[Festival of Deep Sleep]{.name data-type="lore/gathering"}** a Lem'Nelgir of the Faith of Nehle'at lays a pilgrim on a reed mat in the temple's long dim hall and says, quietly so as not to wake the rows around you, "Whatever you see tonight, do not get up to write it down. Lie still and let it finish. In the morning tell me what you remember, and I will tell you whether it was a message or only your supper."
+On the first night of the **[Festival of Deep Sleep]{.name data-type="lore/gathering"}** a Lem'Nelgir of Nehle'at lays a pilgrim on a reed mat in the temple's long dim hall and says, quietly so as not to wake the rows around you, "Whatever you see tonight, do not get up to write it down. Lie still and let it finish. In the morning tell me what you remember, and I will tell you whether it was a message or only your supper."
 
-That is the whole of the god's work, as the faith understands it, in one exchange. [[lore-nehleatdty|Nehle'at]] is the [[lore-khelathiclt|Khelathi]] name for [[lore-goddreams|The God of Dreams]], a deity far older than any single civilization. The [[lore-flksinale|Sinale Folk]] have known him since time immemorial, the **Asguardian** peoples call him [[lore-bjartrdty|Bjart]], the **Aureldian** peoples know him as [[lore-zunelasdty|Zunelas]], and countless peoples across the lands of [[place-worldthlrn|The World of Thalorna]] worship him. What the Khelathi add is intimacy: for them he is no distant celestial force but a companion who walks the night beside each sleeper.
+That is the whole of the god's work, as the faith understands it, in one exchange. [[lore-nehleatdty|Nehle'at]] is the [[lore-khelathiclt|Khelathi]] name for [[lore-goddreams|the God of Dreams]], a deity far older than any single civilization. The [[lore-flksinale|Sinale]] have known him since time immemorial, the **Asguardian** peoples call him [[lore-bjartrdty|Bjart]], the **Aureldian** peoples know him as [[lore-zunelasdty|Zunelas]], and countless peoples across the lands of [[place-worldthlrn|Thalorna]] worship him. What the Khelathi add is intimacy: for them he is no distant celestial force but a companion who walks the night beside each sleeper.
 
 ## The Guardian of the Threshold
 

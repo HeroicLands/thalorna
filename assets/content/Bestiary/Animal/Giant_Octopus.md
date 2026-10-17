@@ -191,7 +191,7 @@ The water under the boat goes dark, as if a cloud had crossed the sun, and the s
 
 # Dossier {#dossier}
 
-The Giant Octopus is a deep-water octopus with arms that span twenty feet and a body of three hundred pounds, which lives in the cold fjords and off the rocky coasts of the [[place-nrdlndsrgn|Nordlands Region]], and is reported from the deeps of the [[place-vylarianse|Vylarian Sea]] by sailors who are not always believed. It holds a den and a hunting ground on the sea floor, eats fish, crab, seal and anything else it can hold, and it is clever beyond any other animal of the sea. The sealers and whalers of the fjords know it as a thing that takes a man from a boat and a boat from the water, and they know the dens.
+The Giant Octopus is a deep-water octopus with arms that span twenty feet and a body of three hundred pounds, which lives in the cold fjords and off the rocky coasts of the [[place-nrdlndsrgn|Nordlands]], and is reported from the deeps of the [[place-vylarianse|Vylarian Sea]] by sailors who are not always believed. It holds a den and a hunting ground on the sea floor, eats fish, crab, seal and anything else it can hold, and it is clever beyond any other animal of the sea. The sealers and whalers of the fjords know it as a thing that takes a man from a boat and a boat from the water, and they know the dens.
 
 ## Presentation
 

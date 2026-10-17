@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 No gudi can make an Eldúlfr. The [[lore-fireweeks|Fire-Weeks]] do.
 
-Eldúlfr, the Infernal Blades, are elite warriors of the [[affiliation-svartbrandr|Faith of Svartbrandr]], known through the forge-hovs for a ferocity in battle that the god's own ordeals are built to prove. A member earns standing by surviving the Fire-Weeks and the fights that follow, and no rite a hov's gudi alone can perform confers the same. Surviving them is what makes a Drottmadr, and the order's warriors answer to a Dróttstjori.
+Eldúlfr, the Infernal Blades, are elite warriors of [[affiliation-svartbrandr|Svartbrandr's faith]], known through the forge-hovs for a ferocity in battle that the god's own ordeals are built to prove. A member earns standing by surviving the Fire-Weeks and the fights that follow, and no rite a hov's gudi alone can perform confers the same. Surviving them is what makes a Drottmadr, and the order's warriors answer to a Dróttstjori.

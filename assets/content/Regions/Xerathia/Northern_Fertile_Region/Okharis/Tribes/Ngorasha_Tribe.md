@@ -59,7 +59,7 @@ sohl: {system: {commonSkills: [okharclng]}}
 
 The Ngorasha Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
 [[place-ngorashavlg|Ngorasha Village]], one of the settled villages of
-the [[place-okharisrgn|Okharis Region]].
+[[place-okharisrgn|Okharis]].
 
 They net the river shallows from reed boats and smoke their catch over slow fires, trading it inland and down to the temple-cities' markets.
 

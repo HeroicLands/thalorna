@@ -95,7 +95,7 @@ The Celestial Calendar is the deeper and older system, kept by the Tanchéi astr
 
 ## Zero Date and the Great Convergence
 
-The Celestial Calendar begins at [[lore-greatcnvrg|The Great Convergence]] (Dao Rong Hou), which the [[lore-celestlrdr|Celestial Order]] reckons at exactly **6,958 years ago**. It was the first perfect alignment of every celestial body, elemental force and spiritual energy after the [Great Sorting]{.name data-type="lore/cosmology"}: the moment, the Tantsou hold, when [[lore-tanzhodty|Tanzho]]'s classification first ran in full, every element sorted, every bureau staffed and every jurisdiction drawn, and the cosmic administration began its first cycle of business.
+The Celestial Calendar begins at [[lore-greatcnvrg|the Great Convergence]] (Dao Rong Hou), which the [[lore-celestlrdr|Celestial Order]] reckons at exactly **6,958 years ago**. It was the first perfect alignment of every celestial body, elemental force and spiritual energy after the [Great Sorting]{.name data-type="lore/cosmology"}: the moment, the Tantsou hold, when [[lore-tanzhodty|Tanzho]]'s classification first ran in full, every element sorted, every bureau staffed and every jurisdiction drawn, and the cosmic administration began its first cycle of business.
 
 The figure is exact because the zero of a calendar is exact, and inside the empire it is not offered as tradition or as a way of speaking. It is the date every bureau files against, the date a Tanchéi computes a Generation from, and the date a Nouwén household names when it burns the year's spirit money—stated as plain fact from the imperial court down to a village hearth-shrine, and no more open to argument than the number of elements.
 

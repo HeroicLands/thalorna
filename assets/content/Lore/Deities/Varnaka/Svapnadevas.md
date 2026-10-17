@@ -12,7 +12,7 @@ _The Dreaming Host—slender, silver-robed figures moving together in a gentle d
 
 The Svapnadevas are a celestial court, a host of spirits who weave dreams, carry omens and stand between the mortal mind and the divine order.
 
-The Varnuka hold them servants of [[lore-goddreams|The God of Dreams]], the elder deity known under many names elsewhere in the [[place-ankrscntnnt|Ankaris Continent]]. They do not name that greater deity directly and do not venerate it as the organized pantheons of the west venerate theirs. What is revered is the Host, the vessel through which the elder god's dream-power is believed to reach the world. Seers, mystics and healers of disturbed minds are its particular devotees.
+The Varnuka hold them servants of [[lore-goddreams|the God of Dreams]], the elder deity known under many names elsewhere in the [[place-ankrscntnnt|Ankaris Continent]]. They do not name that greater deity directly and do not venerate it as the organized pantheons of the west venerate theirs. What is revered is the Host, the vessel through which the elder god's dream-power is believed to reach the world. Seers, mystics and healers of disturbed minds are its particular devotees.
 
 The Host is honored at the edges of the day, at dusk and at dawn, and at no fixed hour. A dark moonstone, the dream-stone, is kept beneath the pillow of every sleeper in a devout household and replaced at each new moon with one freshly consecrated at a temple.
 

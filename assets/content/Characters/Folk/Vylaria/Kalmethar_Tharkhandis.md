@@ -36,4 +36,4 @@ Kalmethar Tharkis is a 79-year-old man who stands 5'6" tall with a light build. 
 
 # Dossier {#dossier}
 
-Kalmethar Tharkis is a baron, elderly and afraid of death, and the patron of [[being-dmrthsvshrds|Domrithas Vishardas]]. He supplies resources, protection from guild scrutiny and test subjects from the servile population of his estate. He sees the work of Domrithas as his best hope for extended life or immortality.
+Kalmethar Tharkis is a baron, elderly and afraid of death, and the patron of [[being-dmrthsvshrds|Dómrithas Vishardas]]. He supplies resources, protection from guild scrutiny and test subjects from the servile population of his estate. He sees the work of Dómrithas Vishardas as his best hope for extended life or immortality.

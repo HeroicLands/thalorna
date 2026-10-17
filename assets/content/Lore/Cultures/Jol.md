@@ -13,7 +13,7 @@ Jel is the twelve-night midwinter season around the solstice, when hovs keep the
 
 ## The Twelve Nights
 
-Every faith has a place in the season. The [[affiliation-odvar|Faith of Odvar]] is prominent. Priests of the [[affiliation-thrunvald|Faith of Thrunvald]] bless the hearth, priestesses of the [[affiliation-solrun|Faith of Solrún]] conduct the rites for the coming year's loves and marriages, and the skalds sing the cycle of hero-sagas from the first night to the last.
+Every faith has a place in the season. [[affiliation-odvar|Odvar]] is prominent. [[affiliation-thrunvald|Thrunvald's priests]] bless the hearth, [[affiliation-solrun|Solrún's priestesses]] conduct the rites for the coming year's loves and marriages, and the skalds sing the cycle of hero-sagas from the first night to the last.
 
 ## The Jel-Ride
 
@@ -23,7 +23,7 @@ The riders have a leader. The hidden clergy of the [[affiliation-nahild|Faith of
 
 What the Ride seeks is a hall that has left no lamp in its doorway and no sheaf on its roof-peak, and anyone caught out of doors. Someone the Ride takes is found frozen at dawn, or comes back years later with no memory of the time between. So the custom is plain: a lamp in the door, a sheaf on the roof, the names of the household's dead spoken aloud at the Jel table, and nobody travels alone in the riding nights. The classic mistake, the one every child is warned of, is answering a voice that calls your name from outside.
 
-Why the dead ride is disputed three ways. The hovs teach that the riders are the dead denied their _hrúmsminni_ (grave-ale), which is why the rite at the howe matters as much as it does; [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]] sets out that rite. Old women at the hearth say the riders are the giants' last servants, still looking for the gate to the void their masters were shut behind. The skalds say the Ride is [[lore-odvardty|Odvar]]'s host, out counting who will stand at [[lore-aldarlok|Aldarlok]].
+Why the dead ride is disputed three ways. The hovs teach that the riders are the dead denied their _hrúmsminni_ (grave-ale), which is why the rite at the howe matters as much as it does; [[lore-nrdlndsfnrl|the Pyre, the Ship and the Howe]] sets out that rite. Old women at the hearth say the riders are the giants' last servants, still looking for the gate to the void their masters were shut behind. The skalds say the Ride is [[lore-odvardty|Odvar]]'s host, out counting who will stand at [[lore-aldarlok|Aldarlok]].
 
 ## The Ninth Night
 

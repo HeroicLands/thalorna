@@ -236,7 +236,7 @@ A thin line of bright metal runs across the warm rock, copper in one angle of th
 
 # Dossier {#dossier}
 
-The Glass Lizard is a long, legless lizard of ten feet or more, found in the rocky scrub and mesa country of the [[place-dunhardsrtrgn|Dunhara Desert Region]], the dry chaparral of the [[place-sthmrchsrgn|South Marches]] and the stony ridges at the edge of the savanna. It basks on warm rock and cliff by day, hunts small mammals, birds and other reptiles at dawn and dusk, and keeps a small territory that it defends fiercely.
+The Glass Lizard is a long, legless lizard of ten feet or more, found in the rocky scrub and mesa country of the [[place-dunhardsrtrgn|Dunhara Desert]], the dry chaparral of the [[place-sthmrchsrgn|South Marches]] and the stony ridges at the edge of the savanna. It basks on warm rock and cliff by day, hunts small mammals, birds and other reptiles at dawn and dusk, and keeps a small territory that it defends fiercely.
 
 ## Presentation
 

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-**Sundhaven** (370 people) stands on the western shore of [[place-falkhaven|Falkhaven]] under the [[lore-whalettm|whale]], and its Shaman holds the leading seat. In the worst of [[lore-threewinters|The Three Winters]] a whale came ashore and fed the village until the thaw, and its ribs stand over the village gate.
+**Sundhaven** (370 people) stands on the western shore of [[place-falkhaven|Falkhaven]] under the [[lore-whalettm|whale]], and its Shaman holds the leading seat. In the worst of [[lore-threewinters|the Three Winters]] a whale came ashore and fed the village until the thaw, and its ribs stand over the village gate.
 
 Varokh villages name each winter for what happened in it, and Sundhaven's is the winter the whale came ashore ([[lore-wintertally|The Tally of Winters]]). [[lore-hungerraids|The Hunger Raids]] tell the same winter from the other side, as the lean years that sent war-bands over the passes.
 

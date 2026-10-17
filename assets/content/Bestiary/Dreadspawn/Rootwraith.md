@@ -431,7 +431,7 @@ The rootwraith's body is roots, vines and bark knotted so tightly together that 
 
 ## In the Land
 
-In [[lore-burningeast|The Burning of the East]], from 604 to 614 AF, a Grukar horde burned Targud's eastern districts, and the frontier drew back a day's walk down the river. The ground the horde took is the burned east: farmsteads, watchtowers and the old royal hall at [[place-nulthgard|Nulthgard]] abandoned, and the forest growing back over all of it. The rootwraith holds a stretch of that ground, a few miles of young forest and burned holdings round one of the old ford-roads. It does not leave it, and it goes into the soil and comes up again anywhere inside it. It is most active at dusk and dawn. The forest in its ground grows faster and thicker than the forest round it, and a burned farmstead there is gone under trees in a few years.
+In [[lore-burningeast|the Burning of the East]], from 604 to 614 AF, a Grukar horde burned Targud's eastern districts, and the frontier drew back a day's walk down the river. The ground the horde took is the burned east: farmsteads, watchtowers and the old royal hall at [[place-nulthgard|Nulthgard]] abandoned, and the forest growing back over all of it. The rootwraith holds a stretch of that ground, a few miles of young forest and burned holdings round one of the old ford-roads. It does not leave it, and it goes into the soil and comes up again anywhere inside it. It is most active at dusk and dawn. The forest in its ground grows faster and thicker than the forest round it, and a burned farmstead there is gone under trees in a few years.
 
 ## Key Behaviors
 

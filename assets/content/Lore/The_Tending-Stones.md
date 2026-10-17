@@ -8,11 +8,11 @@ tags: [lore, kalihara, ithari-work]
 data: {packFolder: settinglore, culture: kaliharanclt}
 ---
 
-Every lineage village of the [[place-klhrcntnnt|Kalihara Continent]] has a work of [[lore-theithari|The Ithari]] of its own, nearer to hand than the great works and smaller. The Tending-Stones are what the [[lore-kaliharanclt|Kaliharan]] people call _sari'sul_ (tending-stones). Each stands beside the one thing its village most depends on and keeps it: a clear-running spring, an unfailing fishing ground, a terrace draining in the rains, a fruiting grove. Each is [[lore-itharisul|Ithasul]] like every work—gray, without a joint, and giving under the hand.
+Every lineage village of [[place-klhrcntnnt|Kalihara]] has a work of [[lore-theithari|the Ithari]] of its own, nearer to hand than the great works and smaller. The Tending-Stones are what the [[lore-kaliharanclt|Kaliharan]] people call _sari'sul_ (tending-stones). Each stands beside the one thing its village most depends on and keeps it: a clear-running spring, an unfailing fishing ground, a terrace draining in the rains, a fruiting grove. Each is [[lore-itharisul|ithasul]] like every work—gray, without a joint, and giving under the hand.
 
 ## The Tending
 
-A tending-stone is the charge of the lineage that holds the village, tended under the eye of the village's kaan'vaar. The [Dawn Tending]{.name data-type="lore/custom"} is spoken over it every morning in every weather: the sequence in the archaic tongue and the hand laid on named places in a named order, learned by rote and performed the same way each time. The terrace villages of [[place-klhrestrrc|The Eastern Terraces]] also see the custodians of [[place-mirthaan|Mirthaan]], who come down with the Master of the Terraces' word.
+A tending-stone is the charge of the lineage that holds the village, tended under the eye of the village's kaan'vaar. The [Dawn Tending]{.name data-type="lore/custom"} is spoken over it every morning in every weather: the sequence in the archaic tongue and the hand laid on named places in a named order, learned by rote and performed the same way each time. The terrace villages of [[place-klhrestrrc|the Eastern Terraces]] also see the custodians of [[place-mirthaan|Mirthaan]], who come down with the Master of the Terraces' word.
 
 A village and its stone are one holding. The lineage's water, catch or harvest is the stone's charge, and the lineage's standing among its neighbors rests on both. A few lineages also keep a living held stone belonging to their village's work, handed down with the charge. It warms in the hand while the work is tended, and it goes cold when the work goes dark. When the work dies the stone is dead with it, and the lineage gives it up to a sanctuary.
 
@@ -28,7 +28,7 @@ The custodians perform the [Rite of Last Tending]{.name data-type="lore/custom"}
 
 The Rite of Last Tending has been performed more often in the last three generations than in the three centuries before them together, and nearly every Rite in that count was spoken over a tending-stone. A lineage knows its own stone and the stones within sight of it. The count of the whole island is not given out.
 
-The custodians of dark works keep it. They live at [[place-kuomethei|Kuomethei]], high on the southern crest of [[place-klhrring|The Ring]], under the Keeper of the Failing Works, an office of [[affiliation-kalihara|Kalihara]] the Council has never admitted to, with no work left to tend. The silkan carry the count and speak of it to nobody outside their rank, and the Bearer of the Crisis holds its full extent.
+The custodians of dark works keep it. They live at [[place-kuomethei|Kuomethei]], high on the southern crest of [[place-klhrring|the Ring]], under the Keeper of the Failing Works, an office of [[affiliation-kalihara|Kalihara]] the Council has never admitted to, with no work left to tend. The silkan carry the count and speak of it to nobody outside their rank, and the Bearer of the Crisis holds its full extent.
 
 Narivothei's Elder petitioned the Council in the second year after the village's stone went white, and the Council has sent no custodian to answer it.
 

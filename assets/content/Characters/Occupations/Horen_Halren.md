@@ -400,7 +400,7 @@ Horen Halren is a 36-year-old man who stands 6'0" tall and is broad and solidly 
 
 Horen Halren is a yeoman infantryman of [[place-liranel|Liranel]], the forest town of the [[place-lirve|Lirve]] coast of [[place-elavendre|Élavendre]], an [[lore-elavendriclt|Élavendri]] freeman who took the crown's coin in the coastal levy at eighteen and holds the crown's serjeanty at Liranel now.
 
-Horen was a haulier's son in a town that lives by timber, and he went to the Lirve levy because a levy man is paid and a haulier's second son is not. He served for most of two decades wherever the kingdom's fighting was: on the [[place-lisere|Lísere]] shore when the [[lore-varokhiclt|Varokhi]] and the [[lore-grukarfolk|Grukar Folk]] came over the bay, and in the [[place-auldalon|Áuldalon]] hills when the war-parties came overland. Four years ago the crown gave him the serjeanty at Liranel: he keeps the peace of the forest court and musters the town's yeomen when the Forester needs them. It is what he wanted, a post at home with a wife and a roof, and the peace of a forest town has turned out to be a different kind of fighting.
+Horen was a haulier's son in a town that lives by timber, and he went to the Lirve levy because a levy man is paid and a haulier's second son is not. He served for most of two decades wherever the kingdom's fighting was: on the [[place-lisere|Lísere]] shore when the [[lore-varokhiclt|Varokh]] and the [[lore-grukarfolk|Grukar]] came over the bay, and in the [[place-auldalon|Áuldalon]] hills when the war-parties came overland. Four years ago the crown gave him the serjeanty at Liranel: he keeps the peace of the forest court and musters the town's yeomen when the Forester needs them. It is what he wanted, a post at home with a wife and a roof, and the peace of a forest town has turned out to be a different kind of fighting.
 
 ## Psyche
 
@@ -428,7 +428,7 @@ Horen's patron is the crown's Forester at Liranel, who holds the forest court an
 
 ### Enemies
 
-The guides who take paying visitors past the edge the [[affiliation-alndnwrdns|Áelendan Wardens]] allow, and the timber-thieves who cut over their licenses; both know the serjeant by sight.
+The guides who take paying visitors past the edge the [[affiliation-alndnwrdns|Wardens]] allow, and the timber-thieves who cut over their licenses; both know the serjeant by sight.
 
 ## Plot Hooks
 

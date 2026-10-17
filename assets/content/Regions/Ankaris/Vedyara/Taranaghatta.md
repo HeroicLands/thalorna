@@ -14,7 +14,7 @@ data:
   government: dhnrktjnpd
 ---
 
-A loaded cart crosses [[place-sarvadarivr|The Sarveda]] above [[place-bowfort|The Bow-Fort]] at one place only, and the village that holds it is **Taranaghatta** (820). It stands where the river leaves the hills. The ford works from the end of the rains to the start of them, so plan a heavy cart for the dry months: through the wet season the village runs two flat ferries and a rope.
+A loaded cart crosses [[place-sarvadarivr|the Sarveda]] above [[place-bowfort|the bow-fort]] at one place only, and the village that holds it is **Taranaghatta** (820). It stands where the river leaves the hills. The ford works from the end of the rains to the start of them, so plan a heavy cart for the dry months: through the wet season the village runs two flat ferries and a rope.
 
 The janapoda takes a toll here on everything but pilgrims and academy aspirants. The toll is a fifth of what the sabhra spends in a year, and the sabhra's reckoner comes up twice a season to see it counted.
 

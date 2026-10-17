@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [byzariargn], population: 0, packFolder
 
 ## Overview
 
-Trianthion was a small village in the hinterland of the [[place-byzariargn|Bizaria Region]], and its name is now the name of a massacre. Twenty-six years ago the village refused to submit to a local lord: it turned away his tax collectors, refused his garrison, and sheltered a fugitive bandit chief who had robbed the lord's caravan. The lord hired [[affiliation-irnwlvscmpny|The Iron Wolves Company]] to take it.
+Trianthion was a small village in the hinterland of [[place-byzariargn|Bizaria]], and its name is now the name of a massacre. Twenty-six years ago the village refused to submit to a local lord: it turned away his tax collectors, refused his garrison, and sheltered a fugitive bandit chief who had robbed the lord's caravan. The lord hired [[affiliation-irnwlvscmpny|the Iron Wolves Company]] to take it.
 
 ## The Massacre at Trianthion
 

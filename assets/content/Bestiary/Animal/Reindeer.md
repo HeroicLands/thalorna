@@ -246,7 +246,7 @@ A low, clicking noise reaches you across the snow, a sound like thousands of dry
 
 # Dossier {#dossier}
 
-The Reindeer is the deer of the far north, three to four feet at the shoulder and three to five hundred pounds, the only deer in which both sexes grow antlers. Wild herds of thousands cross the tundra and pine forest of the [[place-nrdlndsrgn|Nordlands Region]] and the subarctic plateau of [[place-ixtemtzulrgn|Ishtem Tsul Region]] in seasonal migrations that have followed the same routes for millennia. The northern peoples and the highland clans use every part: transport, milk, leather, sinew, bone tools and meat.
+The Reindeer is the deer of the far north, three to four feet at the shoulder and three to five hundred pounds, the only deer in which both sexes grow antlers. Wild herds of thousands cross the tundra and pine forest of the [[place-nrdlndsrgn|Nordlands]] and the subarctic plateau of [[place-ixtemtzulrgn|Ishtem Tsul]] in seasonal migrations that have followed the same routes for millennia. The northern peoples and the highland clans use every part: transport, milk, leather, sinew, bone tools and meat.
 
 ## Presentation
 

@@ -12,11 +12,11 @@ data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: k
 
 The water at Vomek is the best on the whole road. It comes up cold through white sand into a pool the size of a threshing floor, and round it stand date palms thicker than a man's waist, their crowns so heavy with fruit that the trunks lean. The grass is knee-high in a country where grass means a good year. There is no skull-pole at the approach, no well-stone and no mark cut in a palm. No tent has stood beside it since anyone's grandmother.
 
-**Vomek**, "the dead" in the [[skill-sowideslng|Sovidur Language]], lies a short ride off [[lore-celestialroad|The Celestial Road]], and a caravan that comes within sight of it halts. The animals pull toward the water. The guide holds them back. Most of the string reaches the next well thirsty and a little ashamed, and does not ask about it.
+**Vomek**, "the dead" in [[skill-sowideslng|Sovidur]], lies a short ride off [[lore-celestialroad|the Celestial Road]], and a caravan that comes within sight of it halts. The animals pull toward the water. The guide holds them back. Most of the string reaches the next well thirsty and a little ashamed, and does not ask about it.
 
 ## How It Was Made
 
-About 312 AF the orkun who would lead [[lore-hndrdbnnrs|The Storm of the Hundred Banners]] came to the oasis at the head of the tribes already sworn to him, and the last tribe that refused to swear was camped at it. Some four thousand people were there, with their herds. The orkun put them to the sword over a morning and forbade anyone to lay them out. Their names were not spoken to the four winds. The tribe's dovaq was made to watch.
+About 312 AF the orkun who would lead [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] came to the oasis at the head of the tribes already sworn to him, and the last tribe that refused to swear was camped at it. Some four thousand people were there, with their herds. The orkun put them to the sword over a morning and forbade anyone to lay them out. Their names were not spoken to the four winds. The tribe's dovaq was made to watch.
 
 The water was sweet that year, as it was every year, and the dates fell on the bodies. The next spring the dead were gone to a skin of bone in grass already knee-high, and the grass has never been less.
 

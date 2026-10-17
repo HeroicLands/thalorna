@@ -36,4 +36,4 @@ Svulthann Knarvendik is a 52-year-old man who stands 6'1" tall with a light buil
 
 # Dossier {#dossier}
 
-Svulthann Knarvendik is the magistrate-commander and military quartermaster of the garrison of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], who places annual orders for campaign tents. He values [[being-brldthnvtrdmr|Braldthann Vetrdómr]]'s work so highly that he has never sought alternatives. Svulthann Knarvendik is named in Braldthann Vetrdómr.
+Svulthann Knarvendik is the magistrate-commander and military quartermaster of the [[affiliation-kngdmnrdhm|Nordheim garrison]], who places annual orders for campaign tents. He values [[being-brldthnvtrdmr|Braldthann Vetrdómr]]'s work so highly that he has never sought alternatives. Svulthann Knarvendik is named in Braldthann Vetrdómr.

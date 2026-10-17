@@ -399,9 +399,9 @@ Arkalordas Kalmakanes is a 33-year-old man who stands 6'4" tall and is broad and
 
 # Dossier {#dossier}
 
-Arkalordas Kalmakanes is a common seaman of [[place-aelissium|Elissara]], a trade city of the [[place-vylariargn|Vylaria Region]], a [[lore-vylarianclt|Vylarian]] freeman who has worked the merchant ships of the [[place-vylarianse|Vylarian Sea]] for twenty years and is the hand the captains ask for by name.
+Arkalordas Kalmakanes is a common seaman of [[place-aelissium|Elissara]], a trade city of [[place-vylariargn|Vylaria]], a [[lore-vylarianclt|Vylarian]] freeman who has worked the merchant ships of the [[place-vylarianse|Vylarian Sea]] for twenty years and is the hand the captains ask for by name.
 
-Arkalordas went to sea from Elissara at seventeen and has been aboard something ever since: grain ships to the capital, timber ships to [[place-salkhalon|Salkalon]], and the long runs east to [[place-helionis|Helionis]] and, before the war, to the [[place-taruzelrgn|Taruzel Region]]. He has been through the weather that sinks ships and has come home from it, which is the whole of a seaman's reputation. He is no officer and has never wanted to be one, but he has been the senior hand on every deck for ten years, the man the captain asks before he turns for a lee shore. He teaches the boys: how to reef, how to stow, what the sea looks like the hour before it kills a man. He has buried enough of them to teach hard.
+Arkalordas went to sea from Elissara at seventeen and has been aboard something ever since: grain ships to the capital, timber ships to [[place-salkhalon|Salkalon]], and the long runs east to [[place-helionis|Helionis]] and, before the war, to [[place-taruzelrgn|Taruzel]]. He has been through the weather that sinks ships and has come home from it, which is the whole of a seaman's reputation. He is no officer and has never wanted to be one, but he has been the senior hand on every deck for ten years, the man the captain asks before he turns for a lee shore. He teaches the boys: how to reef, how to stow, what the sea looks like the hour before it kills a man. He has buried enough of them to teach hard.
 
 ## Psyche
 
@@ -434,7 +434,7 @@ A young mate on the Helionis run who learned his trade in a Taruzelian yard and 
 ## Plot Hooks
 
 The Shoals
-: A captain has offered double wages to take a cargo through the [[place-tamzirshoals|Tamzir Shoals]] channels, which Taruzelian pilots know and Vylarian seamen do not, and the crew will not sign without Arkalordas.
+: A captain has offered double wages to take a cargo through the [[place-tamzirshoals|Tamzir]] channels, which Taruzelian pilots know and Vylarian seamen do not, and the crew will not sign without Arkalordas.
 
 The Letters of Marque
 : A Taruzelian ship carrying letters against Vylarian trade has been seen off the Helionis coast, and it is the privateer's. Arkalordas's ship is the next out.

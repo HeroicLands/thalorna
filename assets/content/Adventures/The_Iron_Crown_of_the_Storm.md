@@ -22,12 +22,12 @@ The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of t
 
 - **The thief.** A fence in [[place-qarvelakhend|Qarvelakhend]] pays well for the master's iron crown and asks no questions. A rival went south before him and did not come back.
 - **The mercenary or soldier.** The Amradi _ghedvader_ at Qarvelakhend posts the party to the [Kinless Watch]{.name data-type="place/structure"} on the edge of the Floor. The garrison is hired with coin, owes the party no water, and keeps a cistern nobody is allowed to see.
-- **The leader.** A chieftain, or a member of [[affiliation-wrrscrcldnhrtrbs|The Warrior's Circle of the Dunhara Tribes]], hears that something in the storm is calling Dunhari to the Floor. The [Old Promise]{.name data-type="lore/custom"} forbids raising a blade against a Dunhari while an outside enemy walks the land, and nobody can say whether the master is still a Dunhari.
+- **The leader.** A chieftain, or a member of [[affiliation-wrrscrcldnhrtrbs|the Warrior's Circle]], hears that something in the storm is calling Dunhari to the Floor. The [Old Promise]{.name data-type="lore/custom"} forbids raising a blade against a Dunhari while an outside enemy walks the land, and nobody can say whether the master is still a Dunhari.
 - **The wanderer.** A traveler is found on the salt with glass rooted in his hands. He mutters verses in a voice-bearer's cadence that no living voice-bearer teaches.
 
 ## Scene One: The Toll and the Glass
 
-**Purpose.** Establish the Pale Floor as hostile, the toll as law, and the tower as a thing [[affiliation-strmcltsbhrms|The Storm Cults of Báhramis]] will not discuss.
+**Purpose.** Establish the Pale Floor as hostile, the toll as law, and the tower as a thing [[affiliation-strmcltsbhrms|the storm cults]] will not discuss.
 
 **Situation.** The party reaches the northern tent at dusk. A caravan waits to cross and the toll-keepers have named a day three nights hence. The sky is clear, and out on the white flat the lightning has already begun to strike, a thin forked line a long ride away.
 
@@ -135,7 +135,7 @@ The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of t
 - **If the master is bound.** The Floor is safe to cross, the toll falls, and the Lightning-Marked lineage grows in standing. Mehrava's readings are taken more seriously by the Council.
 - **If the master is killed.** The storm leaves the tower and goes into the open desert. Caravans lose camels to lightning that does not strike.
 - **If the crown is taken to the Stone of Ranaz.** The Council argues for a season, and the Circle is asked whether the Old Promise binds against a Dunhari who is a door.
-- **If the Kinless Watch learns what was done.** They report to the [[affiliation-kngdmmrdd|Kingdom of Amradad]], and the Kingdom's interest in the Floor deepens.
+- **If the Kinless Watch learns what was done.** They report to [[affiliation-kngdmmrdd|Amradad]], and the Kingdom's interest in the Floor deepens.
 
 ## See Also
 

@@ -65,7 +65,7 @@ sohl: {system: {commonSkills: []}}
 # opposition: none
 ---
 
-**Kentra** is not a seventh _rhezin_ (current) of the [[affiliation-hexhodai|Zemor Hodhis]] but the _mastery_ of all six. Kentra mages stand at the center of the [[affiliation-hexhodai|Thizaron]], able to attune to and work magic across all six _rheza_ with equal facility. They are the rarest practitioners in the [[affiliation-ordoarcanis|Thordimalon]], and among the most powerful. Within Order cosmology, they represent the pinnacle of arcane achievement: the mage who has mastered every form magic can take.
+**Kentra** is not a seventh _rhezin_ (current) of the [[affiliation-hexhodai|Zemor Hodhis]] but the _mastery_ of all six. Kentra mages stand at the center of the [[affiliation-hexhodai|Thizaron]], able to attune to and work magic across all six _rheza_ with equal facility. They are the rarest practitioners in the [[affiliation-ordoarcanis|Order]], and among the most powerful. Within Order cosmology, they represent the pinnacle of arcane achievement: the mage who has mastered every form magic can take.
 
 ## The Nature of Kentra
 
@@ -110,7 +110,7 @@ The Order recognizes a tragic but well-documented affliction among the most adva
 
 The Order's understanding of _selthkelmeza_ is presented with great compassion and authority: the human mind was not made to hold all six _rheza_ simultaneously over the long term. The cognitive burden of sustained Kentra practice is simply too great for most practitioners. A few exceptional minds achieve true Kentra and remain stable; others, despite their gifts, are eventually broken by the weight of the work. This is framed as a tragic but understood occupational hazard—a reason for caution in pursuing Kentra at the most advanced levels, and a reason to defer to the Order's careful guidance about who is ready to attempt what.
 
-Mages diagnosed with _selthkelmeza_ are evaluated by a panel of senior _marendoi_ convened for the purpose, and—once the diagnosis is confirmed—are removed from active practice. They are placed in one of the Order's residential houses: comfortable, well-staffed institutions, often near older Helionite sanctuaries or in the gentler countryside of provinces like [[affiliation-provnchyln|Province of Hilen]]. The houses are not prisons. The doors are not locked. The afflicted mage may read, write, walk in the gardens, receive visitors. They are looked after by Order-trained healers of genuine kindness. They simply never leave. Their writings do not circulate. They are gently but firmly discouraged from speaking about magic at all.
+Mages diagnosed with _selthkelmeza_ are evaluated by a panel of senior _marendoi_ convened for the purpose, and—once the diagnosis is confirmed—are removed from active practice. They are placed in one of the Order's residential houses: comfortable, well-staffed institutions, often near older Helionite sanctuaries or in the gentler countryside of provinces like [[affiliation-provnchyln|Hilen]]. The houses are not prisons. The doors are not locked. The afflicted mage may read, write, walk in the gardens, receive visitors. They are looked after by Order-trained healers of genuine kindness. They simply never leave. Their writings do not circulate. They are gently but firmly discouraged from speaking about magic at all.
 
 The Order's care for its afflicted is sincere, in the only way the Order knows how to be sincere: institutionally, paternally, and absolutely.
 

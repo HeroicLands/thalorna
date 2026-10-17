@@ -400,7 +400,7 @@ Thornila yra Rikhild wur Thornhaven is a 31-year-old woman who stands 6'0" tall 
 
 # Dossier {#dossier}
 
-Born in [[place-thornhaven|Thornhaven]] to a [[lore-varokhiclt|Varokhi]] family with [Velanthian]{.name data-type="lore/culture"} kin, Thornila became a priestess of the [[affiliation-ardavon|Faith of Árdavon]] through the traders and mixed households of the frontier.
+Born in [[place-thornhaven|Thornhaven]] to a [[lore-varokhiclt|Varokh]] family with [Velanthian]{.name data-type="lore/culture"} kin, Thornila became a priestess of [[affiliation-ardavon|Árdavon]] through the traders and mixed households of the frontier.
 
 Thornila is devoted to the teachings of Árdavon and often organizes help for the vulnerable at Thornhaven’s landing. Her certainty in her own judgment can make that help feel like a debt rather than a gift. She urges those who can fight to defend the weak, yet she struggles to listen when the people she helps tell her what they need.
 

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The Massif stands in [[place-klhrlake|The Bowl Lake]] as a mount. The deep water of the lake lies around it.
+The Massif stands in [[place-klhrlake|the Bowl Lake]] as a mount. The deep water of the lake lies around it.
 
 ## See Also
 

@@ -36,4 +36,4 @@ Flirninda is a 49-year-old woman who stands 5'8" tall with a heavy build. She ha
 
 # Dossier {#dossier}
 
-Flirninda is an elderly healer and philosopher who claims to train broken warriors in methods of meditation and honor. She offers [[being-thrldrvvrnhm|Thraldorv Vornheim]] a path to spiritual redemption. Flirninda is named in Thraldorv Vornheim.
+Flirninda is an elderly healer and philosopher who claims to train broken warriors in methods of meditation and honor. She offers [[being-thrldrvvrnhm|Thraldorv]] a path to spiritual redemption. Flirninda is named in Thraldorv Vornheim.

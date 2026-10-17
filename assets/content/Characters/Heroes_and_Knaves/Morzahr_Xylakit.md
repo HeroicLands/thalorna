@@ -419,7 +419,7 @@ sohl:
 
 ![[morzhrxylkt|Morzáhr Zilakit]]{float=top-left}
 
-Morzáhr Zilakit stands 6'3" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a prominent nose, a pointed chin, an expressive mouth, dark brows.
+Morzáhr stands 6'3" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a prominent nose, a pointed chin, an expressive mouth, dark brows.
 
 # Dossier {#dossier}
 

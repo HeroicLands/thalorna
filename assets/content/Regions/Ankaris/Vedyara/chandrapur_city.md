@@ -16,7 +16,7 @@ data:
   government: chandrapur
 ---
 
-**Chendrapur** (90,000, market 6) is the capital and principal settlement of [[affiliation-chandrapur|Chendrapur]], and it stands at the head of the delta of [[place-chandrmahi|The Chandramahi]] where the river divides and the tide stops. It is built of a pale limestone that weathers whiter rather than grayer, which is where the **Moon City** comes from, and the temples and the shrena halls are kept washed so that the name stays true.
+**Chendrapur** (90,000, market 6) is the capital and principal settlement of [[affiliation-chandrapur|Chendrapur]], and it stands at the head of the [[place-chandrmahi|Chandramahi delta]] where the river divides and the tide stops. It is built of a pale limestone that weathers whiter rather than grayer, which is where the **Moon City** comes from, and the temples and the shrena halls are kept washed so that the name stays true.
 
 The city is the last place on the river a hull of any size can reach and the first place above it where a cargo is safe from the sea. That is the whole reason it is here. Everything else about it—the gemcraft, the court, the reckoners, the wealth—stands on that one fact of the ground.
 
@@ -28,7 +28,7 @@ The tenth district is the waterfront and the market ground, and it is the crown'
 
 ## The Gem Trade
 
-Rough stone comes to Chendrapur from every workable ground in the [[place-vedyarargn|Vedyara Region]] and from beyond it—the upper Chandramahi's river-workings, the mountain kingdoms, and whatever the caravans bring down from the passes. It is cut here. The finished work goes out by sea.
+Rough stone comes to Chendrapur from every workable ground in [[place-vedyarargn|Vedyara]] and from beyond it—the upper Chandramahi's river-workings, the mountain kingdoms, and whatever the caravans bring down from the passes. It is cut here. The finished work goes out by sea.
 
 The trade is organized as a sequence and not as a craft. A stone is assayed in one street, sawn in another, cut in a third, polished in a fourth and set in a fifth, and a house that holds one stage of the work has held it for generations and does no other. The valley villages behind the city hold the coarser stages, and the finest cutting is done within the walls and nowhere else. An apprentice serves years before he is trusted with a workshop of his own, and nobody in four centuries has managed to spoil the city's name for the work.
 
@@ -42,11 +42,11 @@ The temples bless a stone before it is cut, and a cutter who begins without the 
 
 [[place-ganakahall|The Ganoka-shalda]] is the hall of the reckoners' college, [[affiliation-ganakashala|Ganoka-shalda]], whose tables set the tides, the eclipses and the hour the year is declared in, and whose graduates keep the accounts of every court in Vedyara.
 
-Above all of them stand the temples of the [[affiliation-varakpnthn|Varnuka Pantheon]], which are older than the crown, confirm it, and have twice refused to. The first refusal is [[lore-moonsettle|The Moon House Settlement]], when the Nine Houses put a cousin on the throne in the refused son's place.
+Above all of them stand the temples of the [[affiliation-varakpnthn|Varnuka]], which are older than the crown, confirm it, and have twice refused to. The first refusal is [[lore-moonsettle|the Moon House Settlement]], when the Nine Houses put a cousin on the throne in the refused son's place.
 
 ## The River Stair
 
-A stone stair a quarter-mile long runs the whole of the city's river face, and the city's public life happens on it. The boats come up to it from [[place-chandrmukha|Chandramukha]] on the tide. Pilgrims wash on it. Accessions are proclaimed from the head of it. In the dry months the water drops far enough to expose the oldest courses, which are of a heavier and plainer stonework than anything above them and belong to a city the present one was built on top of. [[place-lowercourses|The Lower Courses of Chendrapur]] show under the cellars of the oldest quarters as well.
+A stone stair a quarter-mile long runs the whole of the city's river face, and the city's public life happens on it. The boats come up to it from [[place-chandrmukha|Chandramukha]] on the tide. Pilgrims wash on it. Accessions are proclaimed from the head of it. In the dry months the water drops far enough to expose the oldest courses, which are of a heavier and plainer stonework than anything above them and belong to a city the present one was built on top of. [[place-lowercourses|The lower courses]] show under the cellars of the oldest quarters as well.
 
 ## See Also
 

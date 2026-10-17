@@ -46,11 +46,11 @@ data:
 
 A steward of a titled house, instructing a commoner who has just married in, says it kindly: "You are welcome here. Do not mistake the house for the empire."
 
-**Zab elu Au'Khelathu** is the fellowship of titled families across [[place-aukhelathrgq|Au'Khelathu Region]], holding between them most of the empire's land, office and access to the court's ear. Membership is hereditary rather than earned, and the fellowship's influence runs through marriage alliances and inherited appointment as much as through any formal structure. The families close ranks against outsiders with unusual speed. A person who marries into one house is of that house and not of the nobility at large, and the other houses do not count the marriage as theirs, so an ambitious commoner who marries into one titled house quickly learns how little that single connection buys among the rest. The fellowship's Halzi'a sit in the council of the selats, [[affiliation-genzethalzia|Genzet'Halzi'a]].
+**Zab elu Au'Khelathu** is the fellowship of titled families across [[place-aukhelathrgq|Au'Khelathu]], holding between them most of the empire's land, office and access to the court's ear. Membership is hereditary rather than earned, and the fellowship's influence runs through marriage alliances and inherited appointment as much as through any formal structure. The families close ranks against outsiders with unusual speed. A person who marries into one house is of that house and not of the nobility at large, and the other houses do not count the marriage as theirs, so an ambitious commoner who marries into one titled house quickly learns how little that single connection buys among the rest. The fellowship's Halzi'a sit in the council of the selats, [[affiliation-genzethalzia|Genzet'Halzi'a]].
 
 ## The Ladder
 
-Titles come before the personal name in address: the steward says Halzi'a **[[being-lersaissaaqt|Lersais Sa'Akutu]]**, never Lersais Halzi'a.
+Titles come before the personal name in address: the steward says Halzi'a **[[being-lersaissaaqt|Lersais]]**, never Lersais Halzi'a.
 
 The ladder runs in two rungs above the roll. A Zabu is anyone born or married into a titled family. The Iru'palu is of the royal family or one of the handful of exalted houses, immediately below the throne. Two offices belong to a Zabu: a Legha'lutu or Zabet'lutu is master or mistress of an estate, holding a manor, its lands and its attached village, and a Halzi'a governs a selat, commanding its levies, collecting its taxes and dispensing its justice.
 

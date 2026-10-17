@@ -402,7 +402,7 @@ Ralva Salreth is a 32-year-old woman who stands 5'7" tall and is of moderate bui
 
 Born in the [[place-elavendre|Élavendre]] region to a noble family of [[lore-elavendriclt|Élavendri]] heritage, Ralva Salreth came into the world of the pilot through a combination of circumstance and aptitude.
 
-Captain Ralva is an experienced pilot known for her navigation skills and calm demeanor in the cockpit. She has piloted various types of airships and is respected in the aviation community for her expertise. Ralva is dedicated to safety and often mentors younger pilots, sharing her knowledge of flight techniques and navigation. She enjoys the thrill of flying and is always eager to explore new routes and destinations.
+Captain Elysia is an experienced pilot known for her navigation skills and calm demeanor in the cockpit. She has piloted various types of airships and is respected in the aviation community for her expertise. Elysia is dedicated to safety and often mentors younger pilots, sharing her knowledge of flight techniques and navigation. She enjoys the thrill of flying and is always eager to explore new routes and destinations.
 
 ## Psyche
 

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The Southern Stair is the road over the southern side of [[place-klhrring|The Ring]] of the [[place-klhrcntnnt|Kalihara Continent]]. It leaves a river valley of the southern coast and climbs a long ridge to the crest, terrace above terrace, with the steps of the road and the walls of the terraces built as one work of stone. The Kaliharans call the ridge _avothani_ (high ridge), and the lineage [Avothani]{.name data-type="affiliation/lineage"} that holds the ridge and the stair cut into it is named for it. From the crest the road goes down the inner face to the southern shore of [[place-klhrlake|The Bowl Lake]] in [[place-klhrbowl|The Great Bowl]].
+The Southern Stair is the road over the southern side of [[place-klhrring|the Ring]] of [[place-klhrcntnnt|Kalihara]]. It leaves a river valley of the southern coast and climbs a long ridge to the crest, terrace above terrace, with the steps of the road and the walls of the terraces built as one work of stone. The Kaliharans call the ridge _avothani_ (high ridge), and the lineage [Avothani]{.name data-type="affiliation/lineage"} that holds the ridge and the stair cut into it is named for it. From the crest the road goes down the inner face to the southern shore of [[place-klhrlake|the Bowl Lake]] in [[place-klhrbowl|the Great Bowl]].
 
 ## The Lineage and the Road
 

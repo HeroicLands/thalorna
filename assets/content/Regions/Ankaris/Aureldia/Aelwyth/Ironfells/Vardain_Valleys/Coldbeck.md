@@ -19,12 +19,12 @@ people, four mills—two grinding, one fulling, one driving a set of trip-hammer
 [[place-vellick|Vellik]] built and Koldbek maintains.
 
 The village mills for everybody and takes its multure in kind, which makes it modestly wealthy and
-universally grumbled about, exactly as millers are everywhere. The difference here is that [[lore-vardain|The Vardain]]
+universally grumbled about, exactly as millers are everywhere. The difference here is that [[lore-vardain|the Vardain]]
 grumble with precision: Koldbek's tolls are fixed, published, unaltered in eighty years, and complained
 about anyway.
 
 Its other trade is the valleys' cloth—coarse, dense, weatherproof stuff, fulled at Koldbek and worn
-by everyone in [[place-ironfells|The Ironfells]] including, it is said, those who do not need to worry about weather.
+by everyone in [[place-ironfells|the Ironfells]] including, it is said, those who do not need to worry about weather.
 
 ## See Also
 

@@ -7,7 +7,7 @@ description: "The Zhaolou of Tantsou—the laws that fix each of the eight caste
 data: {packFolder: tantsou, culture: tantsouclt}
 ---
 
-A district magistrate breaking in a new clerk gives him the law of the [[affiliation-tantsouempr|Empire of Tantsou]] in one sentence before he lets him touch a brush: everyone who comes through that door is one of eight things, and the first question you answer about any of them is which. The Caste Laws, or Zhaolou, are the foundation of Tantsou society. They fix the rights, duties and restrictions of each caste, so that the social order and the cosmic order stay in step, and they are enforced with punishments that are severe and often fatal, above all where magic is concerned. [[lore-tseising|Tseising]] describes the courts that enforce them and the penalties they hand down.
+A district magistrate breaking in a new clerk gives him the law of the [[affiliation-tantsouempr|Empire of Tantsou]] in one sentence before he lets him touch a brush: everyone who comes through that door is one of eight things, and the first question you answer about any of them is which. The Caste Laws, or Zhaolou, are the foundation of Tantsou society. They fix the rights, duties and restrictions of each caste, so that the social order and the cosmic order stay in step, and they are enforced with punishments that are severe and often fatal, above all where magic is concerned. [[lore-tseising|Law and Honor]] describes the courts that enforce them and the penalties they hand down.
 
 ## The Eight Castes
 
@@ -101,7 +101,7 @@ That place is not quite the human one. The Elder Races are classified functional
 
 **Wohou**, the warriors and the nobles. Khazárian warriors of proven valor and Sinalean officers who serve in the imperial military are classified as [[lore-wohou|Wohou]], and so are the leaders of enclaves and strongholds who must deal with the imperial administration, because that standing carries the authority such dealings need. In rare cases an Elder noble is classified [[lore-zhazho|Zhazho]].
 
-**Never Wánduo.** Magic is intrinsic to the Elder Races, woven into their nature in a way no human shares, and no Sinalo or Khazár is ever classified as [[lore-wanduo|Wánduo]]. The Wánduo classification exists for humans born with innate magic who must be controlled through the chattel system, and Elder magic does not work through the petition model at all; it is not channeled through mental forms built from aura as human magic is, whether [[affiliation-ordoarcanis|Thordimalon]] or Wánduo. The system can categorize the Elder Races and cannot explain their magic, a loose end the Tanchéi prefer not to examine.
+**Never Wánduo.** Magic is intrinsic to the Elder Races, woven into their nature in a way no human shares, and no Sinalo or Khazár is ever classified as [[lore-wanduo|Wánduo]]. The Wánduo classification exists for humans born with innate magic who must be controlled through the chattel system, and Elder magic does not work through the petition model at all; it is not channeled through mental forms built from aura as human magic is, whether [[affiliation-ordoarcanis|Arcane Order]] or Wánduo. The system can categorize the Elder Races and cannot explain their magic, a loose end the Tanchéi prefer not to examine.
 
 ### The Dual Existence
 

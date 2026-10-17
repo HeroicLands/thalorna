@@ -16,4 +16,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[lore-orclbonesspr|The Oracle of Bones]]—zohira of death and prophecy, met through [[affiliation-yenorzhrng|the Yenor Zohiring]].
+See [[lore-orclbonesspr|the Oracle of Bones]]—zohira of death and prophecy, met through [[affiliation-yenorzhrng|the Yenor Zohiring]].

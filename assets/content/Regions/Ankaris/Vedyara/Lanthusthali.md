@@ -8,11 +8,11 @@ tags: [frontier, hill, caravan]
 data: {demonym: null, lore: [], parents: [bhumipalaland], population: null, packFolder: vedyara}
 ---
 
-The march companies of [[affiliation-bhumipala|Bhumipala]] call it **Lantustali**, the banner ground, and they say the word in daylight. After dark they call it nothing. It is the fan of stony ground where the foothills of [[place-wstrndscnt|The Western Descent]] open onto [[place-marchroad|The March Road]], a day and a half west of [[place-ashvapada|Ashvapada]], and it is the thinnest _shorukshetra_ (blood-field) in the [[place-vedyarargn|Vedyara Region]]: a dread, and a _ghurakshetra_ (cursed field).
+The march companies of [[affiliation-bhumipala|Bhumipala]] call it **Lantustali**, the banner ground, and they say the word in daylight. After dark they call it nothing. It is the fan of stony ground where the foothills of [[place-wstrndscnt|the Western Descent]] open onto [[place-marchroad|the march road]], a day and a half west of [[place-ashvapada|Ashvapada]], and it is the thinnest _shorukshetra_ (blood-field) in [[place-vedyarargn|Vedyara]]: a dread, and a _ghurakshetra_ (cursed field).
 
 ## How It Was Made
 
-In the spring of 315 AF the march kingdom of **[Marupala]{.name data-type="affiliation/polity"}** met [[lore-hndrdbnnrs|The Storm of the Hundred Banners]] here and died with its last king ([[lore-marupalafl|The Fall of Marupala]]). Two sets of dead lie on the ground unburned, the march's and the steppe's, and neither was received by its own rite.
+In the spring of 315 AF the march kingdom of **[Marupala]{.name data-type="affiliation/polity"}** met [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] here and died with its last king ([[lore-marupalafl|the Fall of Marupala]]). Two sets of dead lie on the ground unburned, the march's and the steppe's, and neither was received by its own rite.
 
 ## The Dread
 
@@ -20,7 +20,7 @@ The overrun host's panic is still on the field. It comes on anyone who lingers, 
 
 ## The Curse
 
-Lantustali is thin enough that things come through it. On any night of the year, and worst in the dry season when the wind comes off the Descent, the hunters that gather where the dead were never received cross onto the field in a form half made of the place: shapes that are seen close to, that take hold of a man, and that leave him dead at the edge of the stones in the morning. The companies have lost riders to it in living memory. The [[affiliation-svapnasarisamaja|Svapnasari-sameja]] dream-readers at Ashvapada log the dreams of everyone who slept within sight of it, and some of those dreams are not Vedyari.
+Lantustali is thin enough that things come through it. On any night of the year, and worst in the dry season when the wind comes off the Descent, the hunters that gather where the dead were never received cross onto the field in a form half made of the place: shapes that are seen close to, that take hold of a man, and that leave him dead at the edge of the stones in the morning. The companies have lost riders to it in living memory. The [[affiliation-svapnasarisamaja|Svapnasari]] dream-readers at Ashvapada log the dreams of everyone who slept within sight of it, and some of those dreams are not Vedyari.
 
 The march lives by three rules for it:
 

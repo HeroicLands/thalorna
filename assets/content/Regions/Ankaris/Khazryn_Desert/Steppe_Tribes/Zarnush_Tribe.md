@@ -58,7 +58,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Zarnush** are a [[lore-sowidesclt|Sovidur]] tribe of perhaps three hundred families, living on two hundred square miles of mixed steppe in the middle of the [[place-khzryndsrtrgn|Khazryn Desert Region]]. They have three wells, and everything about them follows from that number. A tribe with three wells cannot lose one, and it cannot afford to quarrel with anyone who can reach one.
+The **Zarnush** are a [[lore-sowidesclt|Sovidur]] tribe of perhaps three hundred families, living on two hundred square miles of mixed steppe in the middle of the [[place-khzryndsrtrgn|Khazryn]]. They have three wells, and everything about them follows from that number. A tribe with three wells cannot lose one, and it cannot afford to quarrel with anyone who can reach one.
 
 ## The Wells
 
@@ -72,7 +72,7 @@ That arrangement is failing. A drought dried the seasonal water two years ago, t
 
 ## The Dovaq and the Warband
 
-The dovaq is [Timan Zarnush]{.name data-type="being/npc"}, an old man who has held the tribe together by patience and has little taste for a hard stroke. The warband, [[affiliation-tghsvrnzrnsh|Tigh'Savaran of the Zarnush]], is the other half of the tribe's strength, and its captain, [Bahrazad Darush]{.name data-type="being/npc"}, holds the dovaq's leave to act as he sees fit for one season. The tribe has two ways left to survive: to win the captives back by force, or to buy the Azardan's protection with its independence. The dovaq is leaning toward the second and the warband toward the first.
+The dovaq is [Timan Zarnush]{.name data-type="being/npc"}, an old man who has held the tribe together by patience and has little taste for a hard stroke. The warband, [[affiliation-tghsvrnzrnsh|the Tigh'Savaran]], is the other half of the tribe's strength, and its captain, [Bahrazad Darush]{.name data-type="being/npc"}, holds the dovaq's leave to act as he sees fit for one season. The tribe has two ways left to survive: to win the captives back by force, or to buy the Azardan's protection with its independence. The dovaq is leaning toward the second and the warband toward the first.
 
 ## Caravans
 

@@ -36,4 +36,4 @@ Thruldselda is a 37-year-old woman who stands 5'7" tall with a medium build. She
 
 # Dossier {#dossier}
 
-Thruldselda is a wealthy trading magnate who contracts sailors for her extensive merchant fleet. She commissions [[being-hvrnthnstrmrt|Hvarnthann Stormrót]] to investigate a creature threatening commerce in her waters. Thruldselda is named in Hvarnthann Stormrót.
+Thruldselda is a wealthy trading magnate who contracts sailors for her extensive merchant fleet. She commissions [[being-hvrnthnstrmrt|Hvarnthann]] to investigate a creature threatening commerce in her waters. Thruldselda is named in Hvarnthann Stormrót.

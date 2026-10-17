@@ -74,23 +74,23 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 
 ## Overview
 
-The Kingdom of Bharyastan is a small mountain kingdom of the highlands of [[place-bharavarivr|The Bharava]], in the upland country east of [[place-goldmountain|The Gold Mountain]] of [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]. It holds eight valleys and a hundred and twenty thousand people, and the Maharava keeps his court at [[place-bharyastan2|Bharyastan]], the one town of the eight.
+Bharyastan is a small mountain kingdom of the [[place-bharavarivr|Bharava highlands]], in the upland country east of [[place-goldmountain|the Gold Mountain]] of [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]. It holds eight valleys and a hundred and twenty thousand people, and the Maharava keeps his court at [[place-bharyastan2|Bharyastan]], the one town of the eight.
 
-It is one of the hundred small kingdoms of the [[place-vedyarargn|Vedyara Region]] in the exact sense the phrase carries: a single upland district, a fort above each valley, and a court of perhaps forty people. A traveler notices it for what it is paid.
+It is one of the hundred small kingdoms of [[place-vedyarargn|Vedyara]] in the exact sense the phrase carries: a single upland district, a fort above each valley, and a court of perhaps forty people. A traveler notices it for what it is paid.
 
 ## The Gold Treaty
 
-Bharyastan is bound by standing treaty to send military assistance to Suvarnageri in exchange for an annual gold tribute. The treaty is eight hundred years old, it has been invoked perhaps a dozen times, and it is renewed without argument at every succession on either side. Its first king, **[Dhursavira]{.name data-type="being/npc"}**, swore it after riding down the raiders of [[lore-lastgldrd|The Last Gold Raid]].
+Bharyastan is bound by standing treaty to send military assistance to Suvarnageri in exchange for an annual gold tribute. The treaty is eight hundred years old, it has been invoked perhaps a dozen times, and it is renewed without argument at every succession on either side. Its first king, **[Dhursavira]{.name data-type="being/npc"}**, swore it after riding down the raiders of [[lore-lastgldrd|the last gold raid]].
 
 The arrangement suits both. Suvarnageri keeps three hundred guards of its own and would rather not keep three thousand. Bharyastan keeps four hundred horse it could not otherwise afford, in a district that grows barley and walnuts and exports neither in quantity. The tribute is weighed at the janapoda's own station and carried up in one party each spring, under an escort both parties provide and neither commands.
 
-The gold reaches nobody else on the way. It leaves the **[Gold Constitution]{.name data-type="lore/law"}**'s reach as tribute and not as trade, and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]'s factors have no standing to weigh it at either end. The [[affiliation-assmblycmpct|Assembly of the Compact]] has been known to raise the point, and has never yet raised it twice in the same decade.
+The gold reaches nobody else on the way. It leaves the **[Gold Constitution]{.name data-type="lore/law"}**'s reach as tribute and not as trade, and [[affiliation-mrchntclctvvdyr|the Merchant Collective of Vedyara]]'s factors have no standing to weigh it at either end. The [[affiliation-assmblycmpct|Assembly of the Compact]] has been known to raise the point, and has never yet raised it twice in the same decade.
 
 ## Government
 
 The Maharava rules with a martial council of the eight valley **Samantas** and a small priestly court drawn from the temples of the upper valleys. The Samantas are the kingdom's real weight. Several of them hold estates down on the plain below the janapoda's wedge of upland, outside Suvarnageri's territory and outside its constitution. A Samonta with land in both countries is the man both courts send for when something needs settling quietly.
 
-Succession is hereditary and is confirmed by the council, as it is in the larger kingdoms. The kingdom has changed hands by acclamation twice in four hundred years and by inheritance every other time. One of the two followed [[lore-hghlndwar|The Highland War]], when the council passed over an heir who had not ridden to [[place-sharamukha|Sharamukha]].
+Succession is hereditary and is confirmed by the council, as it is in the larger kingdoms. The kingdom has changed hands by acclamation twice in four hundred years and by inheritance every other time. One of the two followed [[lore-hghlndwar|the Highland War]], when the council passed over an heir who had not ridden to [[place-sharamukha|Sharamukha]].
 
 ## Relations
 
@@ -98,7 +98,7 @@ Suvarnageri is the whole of the kingdom's foreign relations and rather more than
 
 ## Commerce and Currency
 
-Bharyastan uses [[lore-vdyrnbnkng|Vedyaran Banking]], administered through the Merchant Collective, and the Collective keeps no house here. The court settles in [[miscgear-candra|candra]] and pays its horse in [[miscgear-tamra|tomra]], and the tribute gold goes into the treasury under the palace and mostly stays there. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system.
+Bharyastan uses [[lore-vdyrnbnkng|the Vedyaran banking system]], administered through the Merchant Collective, and the Collective keeps no house here. The court settles in [[miscgear-candra|candra]] and pays its horse in [[miscgear-tamra|tomra]], and the tribute gold goes into the treasury under the palace and mostly stays there. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system.
 
 ## Outside the Ladder
 

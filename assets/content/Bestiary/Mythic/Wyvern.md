@@ -285,7 +285,7 @@ The cliff above the pass has a shelf of yellow-brown rock on it that you have be
 
 # Dossier {#dossier}
 
-The Wyvern is a two-legged winged lizard of six hundred pounds, with a body six to eight feet long, a wingspan of eighteen to twenty-four feet, and a barbed tail that carries a venom which kills a horse in minutes. It nests on the cliffs and in the high caves of [[place-estrnreach|The Eastern Reach]] of [[place-graznmntns|The Grazian Mountains]], where the two passes [[affiliation-hvarnguides|The Hvarn]] keep run under its ledges, and in the cliff-top [[place-grazruins|Ruins and Labyrinths of the Grazian Mountains]] of the high country, and it hunts from the thermals across a territory of many peaks and valleys. It takes eagles, goats, caribou and men, and it strikes a pack train on an open saddle as a hawk strikes a dovecote.
+The wyvern is a two-legged winged lizard of six hundred pounds, with a body six to eight feet long, a wingspan of eighteen to twenty-four feet, and a barbed tail that carries a venom which kills a horse in minutes. It nests on the cliffs and in the high caves of [[place-estrnreach|the Eastern Reach]] of [[place-graznmntns|the Grazian range]], where the two passes [[affiliation-hvarnguides|the Hvarn]] keep run under its ledges, and in the cliff-top [[place-grazruins|ruins and labyrinths]] of the high country, and it hunts from the thermals across a territory of many peaks and valleys. It takes eagles, goats, caribou and men, and it strikes a pack train on an open saddle as a hawk strikes a dovecote.
 
 It is no dragon. It breathes no fire, it has no speech and no hoard, and a mage's work beside it goes on as it would anywhere; it is a very large and very dangerous hunting animal with a poisoned tail, and the guides of the high passes name it among the four or five reasons a crossing is made in company.
 
@@ -295,7 +295,7 @@ A long, muscular, serpentine body scaled in amber-yellow, dull green or muddy br
 
 ## In the Land
 
-Wyverns roost on cliff faces, in high caves and among the cut stone of the ruins on the Eastern Reach and the eastern end of [[place-sthrnwall|The Southern Wall]], where the thermals off the sun-warmed rock carry them to a height without effort and the passes below give them prey. Each holds a territory of many peaks against every other wyvern and drives rivals off in fights in the air that are watched from the shrine-summits. They breed once in ten years or so, and a nesting pair holds its cliff against everything. They are not found below the foothills except when a hard winter in the heights sends one down after the flocks, which the march villages below the wall remember for a generation.
+Wyverns roost on cliff faces, in high caves and among the cut stone of the ruins on the Eastern Reach and the eastern end of [[place-sthrnwall|the Southern Wall]], where the thermals off the sun-warmed rock carry them to a height without effort and the passes below give them prey. Each holds a territory of many peaks against every other wyvern and drives rivals off in fights in the air that are watched from the shrine-summits. They breed once in ten years or so, and a nesting pair holds its cliff against everything. They are not found below the foothills except when a hard winter in the heights sends one down after the flocks, which the march villages below the wall remember for a generation.
 
 ## Key Behaviors
 

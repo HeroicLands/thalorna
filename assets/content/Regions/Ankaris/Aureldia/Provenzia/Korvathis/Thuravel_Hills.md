@@ -19,7 +19,7 @@ go far into them without a reason, and give reasons that do not survive much que
 
 ## The Older Faith
 
-The hills were a country of [[affiliation-theoldway|The Old Way]] before the
+The hills were a country of [[affiliation-theoldway|the Old Way]] before the
 [[affiliation-arldnpnthn|Aureldian Pantheon]] was worshipped here, and they were never really converted so much as
 left alone. Provenzian church records treat the district as settled and orthodox. Provenzian _songs_
 do not, and the ballads collected from the hill villages are full of observances no priest of the
@@ -47,4 +47,4 @@ is romantic invention by collectors. The people of the hills decline to help the
 
 ## See Also
 
-- [[place-provenzrgn|Provenzia Region]] · [[affiliation-firstgods|The First Gods]]
+- [[place-provenzrgn|Provenzia Region]] · [[affiliation-firstgods|the First Gods]]

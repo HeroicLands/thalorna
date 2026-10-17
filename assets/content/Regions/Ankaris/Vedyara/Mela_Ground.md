@@ -13,7 +13,7 @@ data:
   packFolder: vedyara
 ---
 
-**The Melra Ground** is the plain where [[place-mahanadi|The Mahanodi]] takes its greatest tributary, and it is where the [[affiliation-janpdsvdyr|Janapadas of Vedyara]] hold their twelve-yearly assembly. The ground is flat, broad and dry for eleven months of the year. Nobody lives on it. Between assemblies it carries one temple, [[place-sangama|Sangema]], a landing, and a great deal of grass.
+**The Melra Ground** is the plain where [[place-mahanadi|the Mahanodi]] takes its greatest tributary, and it is where the [[affiliation-janpdsvdyr|janapadas of Vedyara]] hold their twelve-yearly assembly. The ground is flat, broad and dry for eleven months of the year. Nobody lives on it. Between assemblies it carries one temple, [[place-sangama|Sangema]], a landing, and a great deal of grass.
 
 ## The Assembly
 

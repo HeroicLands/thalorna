@@ -397,7 +397,7 @@ Kareden Charnis is a 62-year-old man who stands 5'6" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia Region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Kareden Charnis came into the world of the shaman through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Kareden Charnis came into the world of the shaman through a combination of circumstance and aptitude.
 
 Kareden is a respected shaman who has guided his tribe for decades, serving as a healer, spiritual advisor, and keeper of ancient traditions. He communicates with the spirits of nature and the ancestors, often leading rituals to ensure the tribe’s prosperity. While age has diminished his physical strength, his wisdom is highly valued, and his influence remains strong.
 

@@ -59,7 +59,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 "Every piece in this valley meets a pan sooner or later," an assayer of the [[affiliation-garhalzi|Gar-Hálzi]] chapter at [[place-lutgethazalunome|Lut-Getha-Zalu]] tells a young smith who has brought his first bronze to be weighed. "Put it down. I don't care how it shines. I care what it weighs."
 
-The Selat of Lut-Getha-Zalu is one of the eighteen provinces of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and about 480,000 people live on its land, Lut-Getha-Zalu. It is the selat of the smith-towns and the craft-temples, working bronze and gold and the ceremonial arms of the nobility. The patron is [[lore-psaqarudty|Saq'aru]], the Shaper of the Eternal World, and the craft-temples and estates of the [[affiliation-psaqaru|Faith of Saq'aru]] give the smiths their standing.
+The Selat of Lut-Getha-Zalu is one of the eighteen provinces of [[affiliation-upperrivrslt|the Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and about 480,000 people live on its land, Lut-Getha-Zalu. It is the selat of the smith-towns and the craft-temples, working bronze and gold and the ceremonial arms of the nobility. The patron is [[lore-psaqarudty|Saq'aru]], the Shaper of the Eternal World, and the craft-temples and estates of the [[affiliation-psaqaru|Faith of Saq'aru]] give the smiths their standing.
 
 ## Character
 

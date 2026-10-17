@@ -24,7 +24,7 @@ which half of the god was real.
 The schism produced two bitterly opposed faiths, each holding the other heretical:
 
 [[affiliation-sacredforge|The Sacred Forge]]
-: the creative aspect: craftsmanship, transformation, illumination and protection. The mainstream Ústaran faith across most of the western part of the [[place-ankrscntnnt|Ankaris Continent]], and the one that kept the temples, the endowments and the name.
+: the creative aspect: craftsmanship, transformation, illumination and protection. The mainstream faith across most of the western part of the [[place-ankrscntnnt|Ankaris Continent]], and the one that kept the temples, the endowments and the name.
 
 [[affiliation-blackflame|The Black Flame]]
 : the destructive aspect: fire as purifier, as weapon and as instrument of domination. Suppressed in most kingdoms, and surviving through secretive orders and hidden shrines.
@@ -46,4 +46,4 @@ tolerates and which it burns.
 ## See Also
 
 - [[affiliation-arldnpnthn|Aureldian Pantheon]]—the Twelve, of whom Ústaron is one
-- [[affiliation-sacredforge|The Sacred Forge]] · [[affiliation-blackflame|The Black Flame]]
+- [[affiliation-sacredforge|The Sacred Forge]] · [[affiliation-blackflame|the Black Flame]]

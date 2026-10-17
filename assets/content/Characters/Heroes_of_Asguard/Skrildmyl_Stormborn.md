@@ -361,7 +361,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Skrilmil Stormborn stands 6'1" with a heavy, solid frame, weighing around 220 pounds. His fair skin is weathered from decades of northern campaigning, and his dark blonde hair is worn long and braided in the fashion of a northern chieftain. His blue eyes carry quiet authority, and a faint haze of static seems to cling to him, causing his hair to rise slightly in dry weather. His features are strong and commanding, with a broad forehead, a straight nose, a heavy jaw shadowed with stubble, and deep-set eyes framed by crow's feet. His bearing is that of a man accustomed to being obeyed—not through bluster, but through the steady confidence of proven leadership. He wears a fine mail hauberk beneath a heavy fur cloak pinned with a silver thunderbolt brooch, and carries a warhammer and a round shield bearing his clan's emblem.
+Skrilmil stands 6'1" with a heavy, solid frame, weighing around 220 pounds. His fair skin is weathered from decades of northern campaigning, and his dark blonde hair is worn long and braided in the fashion of a northern chieftain. His blue eyes carry quiet authority, and a faint haze of static seems to cling to him, causing his hair to rise slightly in dry weather. His features are strong and commanding, with a broad forehead, a straight nose, a heavy jaw shadowed with stubble, and deep-set eyes framed by crow's feet. His bearing is that of a man accustomed to being obeyed—not through bluster, but through the steady confidence of proven leadership. He wears a fine mail hauberk beneath a heavy fur cloak pinned with a silver thunderbolt brooch, and carries a warhammer and a round shield bearing his clan's emblem.
 
 # Dossier {#dossier}
 

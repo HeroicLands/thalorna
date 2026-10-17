@@ -420,7 +420,7 @@ sohl:
 
 ![[thamiyragezz|Thamiyra Geza'Uzu]]{float=top-left}
 
-Thamiyra Geza'Uzu stands 5'3" tall with a light build. She has warm bronze skin, jet black hair, and black eyes. Her features include a diamond-shaped face, a tapered chin, and fine brows. She has a faint scar on the left side of her neck.
+Thamiyra stands 5'3" tall with a light build. She has warm bronze skin, jet black hair, and black eyes. Her features include a diamond-shaped face, a tapered chin, and fine brows. She has a faint scar on the left side of her neck.
 
 # Dossier {#dossier}
 
@@ -487,7 +487,7 @@ Lady [[being-themeritshl2|Themerit Shaluku]]
 : An aging widow and powerful political matriarch who has taken Thamiyra under her wing as a protégée and potential heir to her network of influence. Lady Shaluku sees in Thamiyra the ambitious mind she once possessed.
 
 Merchant Prince [[being-veitharikuet|Veithari Kuethori]]
-: A wealthy foreign trader who visits the [[place-aukhelathrgq|Au'Khelathu Region]] regularly for business. He pays handsomely for her companionship and, more importantly, for intelligence about imperial politics and trade agreements. He believes she holds the key to expanding his influence.
+: A wealthy foreign trader who visits [[place-aukhelathrgq|Au'Khelathu]] regularly for business. He pays handsomely for her companionship and, more importantly, for intelligence about imperial politics and trade agreements. He believes she holds the key to expanding his influence.
 
 High Scribe [[being-zentikhlmgth|Zenti Khelemu'Gathau]]
 : A learned man of letters who employs her to transcribe rare texts and discuss philosophy. He is one of the few patrons with whom she shares a true meeting of minds rather than merely performing companionship.

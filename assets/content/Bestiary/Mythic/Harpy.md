@@ -312,7 +312,7 @@ The scream comes off the cliff above the beach and goes on too long for any gull
 
 # Dossier {#dossier}
 
-The Harpy is a flying hunter with the head, arms and torso of a gaunt woman set on the wings and clawed legs of something that is neither bird nor lizard, five and a half feet from crown to wing-root and fourteen feet across the wings. It nests in flocks on the sea-cliffs of the volcanic islands off the northwest coast of the [[place-nrdlndsrgn|Nordlands Region]] and on the fjord headlands, and on isolated peaks inland, and it hunts by stooping, by driving, and by dropping stones from a height. It eats seal pups, sea-birds, goats and people, and it treats all people alike. The fjord crews that take eggs on the island cliffs lose a man to the harpies most seasons and go on taking the eggs.
+The harpy is a flying hunter with the head, arms and torso of a gaunt woman set on the wings and clawed legs of something that is neither bird nor lizard, five and a half feet from crown to wing-root and fourteen feet across the wings. It nests in flocks on the sea-cliffs of the volcanic islands off the northwest coast of the [[place-nrdlndsrgn|Nordlands]] and on the fjord headlands, and on isolated peaks inland, and it hunts by stooping, by driving, and by dropping stones from a height. It eats seal pups, sea-birds, goats and people, and it treats all people alike. The fjord crews that take eggs on the island cliffs lose a man to the harpies most seasons and go on taking the eggs.
 
 It has the cunning to set an ambush and no speech, no tools and no interest in either. It is a very dangerous animal that looks like something else.
 

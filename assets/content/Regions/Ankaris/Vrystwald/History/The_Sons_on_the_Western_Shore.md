@@ -43,11 +43,11 @@ data:
         - whether the western villages' elders will lay their fragments together, and for whom
 ---
 
-In The Sons on the Western Shore, the cliff watch at [[place-arnholt|Arnholt]] on the western shore has warned of unfamiliar sails for as long as the village has stood. Since about 715 it has had something specific to warn of: hulls out of [[place-stormveld|Stormveld]] carrying [[affiliation-sonsmuspell|The Sons of Eldheim]], who come ashore on [[place-vrystwald|Vristwald]]'s western bay to burn villages and want the land they burn.
+In The Sons on the Western Shore, the cliff watch at [[place-arnholt|Arnholt]] on the western shore has warned of unfamiliar sails for as long as the village has stood. Since about 715 it has had something specific to warn of: hulls out of [[place-stormveld|Stormveld]] carrying [[affiliation-sonsmuspell|the Sons of Eldheim]], who come ashore on [[place-vrystwald|Vristwald]]'s western bay to burn villages and want the land they burn.
 
 ## The Burning of Arnwern
 
-The Sons are an order of [[affiliation-blackflame|The Black Flame]], and their campaign is for ground: a foothold on the mainland, taken from the Varokh villages, from which to reach into the [[place-nrdlndsrgn|Nordlands Region]]. [[place-arnwern|Arnwern]], the eagle lake, was a village of the [[place-falkhaven|Falkhaven]] shore behind a lake where the eagles fish, and it was the first. The Sons came up from the shore at night, killed or took its people, and burned its Shaman before the eagle stone at the lake's edge, which is the order's sworn practice and the thing its Blazewarden, [[being-sirethoskhol|Sirethos Kolsamis]], has promised to do to every Shaman in the forest. They have burned several villages since, and none as thoroughly.
+The Sons are an order of [[affiliation-blackflame|the Black Flame]], and their campaign is for ground: a foothold on the mainland, taken from the Varokh villages, from which to reach into the [[place-nrdlndsrgn|Nordlands]]. [[place-arnwern|Arnwern]], the eagle lake, was a village of the [[place-falkhaven|Falkhaven]] shore behind a lake where the eagles fish, and it was the first. The Sons came up from the shore at night, killed or took its people, and burned its Shaman before the eagle stone at the lake's edge, which is the order's sworn practice and the thing its Blazewarden, [[being-sirethoskhol|Sirethos]], has promised to do to every Shaman in the forest. They have burned several villages since, and none as thoroughly.
 
 ## No Muster Yet
 

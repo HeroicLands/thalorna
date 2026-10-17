@@ -425,7 +425,7 @@ sohl:
 
 ![[amqltzlmlglq|Amqelet-Zelemu Legulu’akun]]{float=top-left}
 
-Amqelet-Zelemu Legulu’akun stands 5'9\" tall with a medium build. He has dark skin, dark hair, and brown eyes. His features include a long nose, a pointed chin, generous lips, and elegantly curved brows.
+Amqelet-Zelemu stands 5'9\" tall with a medium build. He has dark skin, dark hair, and brown eyes. His features include a long nose, a pointed chin, generous lips, and elegantly curved brows.
 
 # Dossier {#dossier}
 

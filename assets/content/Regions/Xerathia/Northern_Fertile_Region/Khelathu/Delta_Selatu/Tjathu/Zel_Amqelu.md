@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [tjathuselat], population: null, packFo
 
 ## How It Was Made
 
-Zel-Amqelu was a trading port on one of the silt-islands where the river's mouths spread into the sea. In 1960 ST (151 BF) the raiders of [[lore-searaiders|The Sea-Raiders' Throne]] landed within sight of it and burned it the same day. The port was not rebuilt. Its channel shifted soon after, the island silted to the mainland side, and the trade that had used its quays went to the ports whose water stayed deep.
+Zel-Amqelu was a trading port on one of the silt-islands where the river's mouths spread into the sea. In 1960 ST (151 BF) the raiders of [[lore-searaiders|the Sea-Raiders' Throne]] landed within sight of it and burned it the same day. The port was not rebuilt. Its channel shifted soon after, the island silted to the mainland side, and the trade that had used its quays went to the ports whose water stayed deep.
 
 The place is not a blood-field. The town burned and its dead were burned with it, and the raiders buried their own. Its dead were received, and the town's rites were said for them.
 

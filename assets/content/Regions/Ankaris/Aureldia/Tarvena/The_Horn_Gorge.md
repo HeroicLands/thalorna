@@ -17,7 +17,7 @@ The Horn Gorge is a long cleft in the rock below [[place-lezkora|Lezkora]], too 
 
 ## The Field
 
-The gorge is a [[lore-bloodfield|blood-field]] made by [[lore-horngorgebtl|The Battle of the Horn Gorge]] in which the Astúrathi closed both ends on a Vylarian legion about 143 AF. Its kind is a **recurrence**, and it is moderately thin. On autumn nights the legion's horns sound the recall from the open end of the gorge, and the echo comes back from the closed end as though a wall of stone had been thrown up behind the sound. A traveler who sleeps in the gorge dreams that both ends are closing.
+The gorge is a [[lore-bloodfield|blood-field]] made by [[lore-horngorgebtl|the battle]] in which the Astúrathi closed both ends on a Vylarian legion about 143 AF. Its kind is a **recurrence**, and it is moderately thin. On autumn nights the legion's horns sound the recall from the open end of the gorge, and the echo comes back from the closed end as though a wall of stone had been thrown up behind the sound. A traveler who sleeps in the gorge dreams that both ends are closing.
 
 The harm is the dream, and the dreams stay with the sleeper for weeks. By day the gorge is a cold, stony cleft with nothing in it.
 
@@ -29,7 +29,7 @@ At the upper end the Astúrathi raised a cairn after the battle. They leave noth
 
 - **Astúrathi shepherds**, by day and never to stay.
 - **Vylarian antiquarians**, who want the legion's name and its standards.
-- **Pilgrims of [[affiliation-sacredforge|The Sacred Forge]]**, who climb to Lezkora by the path above the gorge.
+- **Pilgrims of [[affiliation-sacredforge|the Sacred Forge]]**, who climb to Lezkora by the path above the gorge.
 
 ## Hooks
 

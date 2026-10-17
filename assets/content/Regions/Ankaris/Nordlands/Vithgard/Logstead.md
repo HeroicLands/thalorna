@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [vithgard], government: kngdmvthgrd, pa
 
 ## Overview
 
-Swear nothing lightly at Logstead. An oath made here is made before the hov of [[lore-eidgardty|Eidgar]], and the north holds the breaking of such an oath the gravest offense its faith knows. That is why the two brothers who had fought seven summers for the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]'s crown were brought here in 701 to swear their truce ([[lore-vthgrdsccwrs|The Vithgard Succession Wars]]). The kingdom holds its own ting at this law-stead, and the hov of Eidgar swears its blet into the same oath the assembly swears over it. Ask anyone on the road in why the place matters and you get the same answer in fewer words: the offering and the law are bound together at one hearth here, and nowhere else in the north binds them so tightly.
+Swear nothing lightly at Logstead. An oath made here is made before the hov of [[lore-eidgardty|Eidgar]], and the north holds the breaking of such an oath the gravest offense its faith knows. That is why the two brothers who had fought seven summers for [[affiliation-kngdmvthgrd|Vithgard]]'s crown were brought here in 701 to swear their truce ([[lore-vthgrdsccwrs|The Vithgard Succession Wars]]). The kingdom holds its own ting at this law-stead, and the hov of Eidgar swears its blet into the same oath the assembly swears over it. Ask anyone on the road in why the place matters and you get the same answer in fewer words: the offering and the law are bound together at one hearth here, and nowhere else in the north binds them so tightly.
 
 The name says what the place is held from: _log-_, the law as it is recited, set before the generic for a farmstead.
 

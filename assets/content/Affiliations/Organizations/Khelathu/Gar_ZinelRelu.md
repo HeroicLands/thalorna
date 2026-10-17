@@ -38,7 +38,7 @@ data:
 
 ## Overview
 
-**Gar-Zin'el'Relu** stood barely a century, from 171 to 268 AF, and no wall in the [[place-aukhelathrgq|Au'Khelathu Region]] carries its name. Its last [[lore-garauu|Gar-Au]] was struck from every wall in the empire for blasphemy and a hidden famine ([[lore-failfloods|The Failing Floods]]) and sealed living into his tomb ([[lore-judgfalseuq|The Judgment of the False Uqa'a]]); the official records name him only the [[being-falseuqaa|False Uqa'a]], erasing the name he reigned under along with his image, though the oldest servants of the necropolis still whisper what he was called. A historian working from the public record alone cannot reconstruct the dynasty's end and has to look among the people the erasure never reached.
+**Gar-Zin'el'Relu** stood barely a century, from 171 to 268 AF, and no wall in [[place-aukhelathrgq|Au'Khelathu]] carries its name. Its last [[lore-garauu|Gar-Au]] was struck from every wall in the empire for blasphemy and a hidden famine ([[lore-failfloods|the Failing Floods]]) and sealed living into his tomb ([[lore-judgfalseuq|the Judgment of the False Uqa'a]]); the official records name him only the [[being-falseuqaa|False Uqa'a]], erasing the name he reigned under along with his image, though the oldest servants of the necropolis still whisper what he was called. A historian working from the public record alone cannot reconstruct the dynasty's end and has to look among the people the erasure never reached.
 
 ## Character
 

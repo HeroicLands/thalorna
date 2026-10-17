@@ -13,7 +13,7 @@ data: {demonym: null, lore: [], parents: [talothe], population: 1800, packFolder
 
 Its orchards are the reason for the name and the reason anyone outside the march has heard of it. Sour
 cherries grow well in cold upland ground where softer fruit will not, and Pirnebris cherries—dried,
-and preserved in spirit—go down to [[place-harivrencity|Hárivren City]] and across the kingdom. It is a
+and preserved in spirit—go down to [[place-harivrencity|Hárivren]] and across the kingdom. It is a
 smaller trade than the [[place-zuravlenrgn|Zuravlen Region]]'s and the two districts are not remotely comparable
 in wealth, a fact Pirnebris mentions more often than Zuravlen does.
 

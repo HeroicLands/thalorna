@@ -54,11 +54,11 @@ data:
       unresolved: [whether the first fire was set]
 ---
 
-In The Great Burning, a Watch sergeant, showing a new recruit round the lanes of the lower wards of [[place-antel|Antel]] (the Old Hill), stops at a blank stone wall that rises three storeys with no window in it. "Fire-wall," he says. "Every one in the city is a fire-wall for something that burned, and this one is for the six days. The district law was written by men who watched the [Warrens]{.name data-type="place/site"} go up."
+A Watch sergeant, showing a new recruit round the lanes of the lower wards of [[place-antel|Antel]] (the Old Hill), stops at a blank stone wall that rises three storeys with no window in it. "Fire-wall," he says. "Every one in the city is a fire-wall for something that burned, and this one is for the six days. The district law was written by men who watched the [Warrens]{.name data-type="place/site"} go up."
 
 ## The Failed Dole
 
-[[place-orzara|Orzara City]] is fed from [[place-hylen|Hilen]], and Hilen's harvests were lost to the war ([[lore-olcassabtl|The Battle of Olkassa]]). About 403 the dole did not come. A citizen's bread is the bargain at the heart of the [[affiliation-vylarinmpr|Vylarian Empire]] ([[lore-veteranslaw|The Veterans' Law]]), and the capital's poor had no other.
+[[place-orzara|Orzara]] is fed from [[place-hylen|Hilen]], and Hilen's harvests were lost to the war ([[lore-olcassabtl|The Battle of Olkassa]]). About 403 the dole did not come. A citizen's bread is the bargain at the heart of the [[affiliation-vylarinmpr|Empire]] ([[lore-veteranslaw|The Veterans' Law]]), and the capital's poor had no other.
 
 ## The Fire
 

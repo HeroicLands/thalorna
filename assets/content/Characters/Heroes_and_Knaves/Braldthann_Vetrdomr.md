@@ -418,7 +418,7 @@ sohl:
 
 ![[brldthnvtrdmr|Braldthann Vetrdómr]]{float=top-left}
 
-Braldthann Vetrdómr stands 6'0" tall with a medium build. He has light ruddy skin, grey hair, and grey eyes. His features include a long face, a straight nose, a square jawline, narrow lips, heavy brows, hollow cheeks. A distinguishing mark is a tattoo of a falcon on the right arm.
+Braldthann stands 6'0" tall with a medium build. He has light ruddy skin, grey hair, and grey eyes. His features include a long face, a straight nose, a square jawline, narrow lips, heavy brows, hollow cheeks. A distinguishing mark is a tattoo of a falcon on the right arm.
 
 # Dossier {#dossier}
 
@@ -457,7 +457,7 @@ Uncompromising Standards
 : Every piece that leaves his workshop meets exacting specifications. His reputation for reliability is absolute—military officers and merchants place standing orders with complete confidence.
 
 Fire Ritualist
-: His knowledge of fireproofing techniques and flame-resistant compounds is deep, and he combines practical chemistry with spiritual practice dedicated to the [[affiliation-svartbrandr|Faith of Svartbrandr]].
+: His knowledge of fireproofing techniques and flame-resistant compounds is deep, and he combines practical chemistry with spiritual practice dedicated to [[affiliation-svartbrandr|Svartbrandr]].
 
 Leadership and Authority
 : Though he commands respect more through competence than charisma, those in the craft world recognize his authority. Younger makers, despite their dismissal of his methods, often secretly consult his work.

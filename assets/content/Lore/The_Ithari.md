@@ -9,16 +9,16 @@ data: {packFolder: settinglore}
 ---
 
 **The Ithari** are the oldest thing in the world's record that can be called a people, and the record
-is one island's. They were on [[place-worldthlrn|The World of Thalorna]] before 10,000 BF and gone by 7,300 BF, and
+is one island's. They were on [[place-worldthlrn|Thalorna]] before 10,000 BF and gone by 7,300 BF, and
 every word anyone has of who they were, what they did here or what they wanted is Kaliharan testimony.
-Outside [[place-klhrcntnnt|Kalihara Continent]] there is no knowledge of them whatsoever—not a tradition,
+Outside [[place-klhrcntnnt|Kalihara]] there is no knowledge of them whatsoever—not a tradition,
 not a fragment of history, not the fact that there was anybody to know about. There are sites, and the
 sites say nothing.
 
 **The name itself is in the [[skill-kalihrlng|Kalihari Language]].** _Ithari_ means "Those Who Came Before," it is what the Kaliharans
 called them, and it is spoken nowhere else on the world, because nowhere else is there anything to
 attach it to. It is not their name for themselves—**no Ithari word exists**, and none ever has in
-anybody's keeping. [[affiliation-tharivaan|Thári'vaan]], [[lore-itharisul|Ithasul]], Ithakan: every term in this account is Kalihari, a
+anybody's keeping. [[affiliation-tharivaan|Thári'vaan]], [[lore-itharisul|ithasul]], Ithakan: every term in this account is Kalihari, a
 Kaliharan word for a Kaliharan thing. Nobody has ever heard an Ithari name for the people, for a
 place, for an instrument, or for one of themselves. Neither is it recorded what they looked like, how
 many of them there were, how long any one of them lived, or whether the word names a people, a
@@ -160,7 +160,7 @@ stops, and on Kalihara the custodians have been stopping there for eighty centur
 
 They are not machines: there is nothing inside them to turn, no linkage, no store, no fuel, no wear.
 They are not arcane apparatus either. They answer to no process known anywhere on Thalorna—not to the
-[[lore-flksinale|Sinale Folk]], not to the [[lore-flkkhazar|Khazár Folk]], not to any human tradition that has
+[[lore-flksinale|Sinale]], not to the [[lore-flkkhazar|Khazari]], not to any human tradition that has
 ever been near one—they draw on nothing an adept can detect, and they do not respond to the Aura
 being worked beside them. A structure that calms a monsoon calms it. A structure that makes a
 sea-approach unnavigable makes it unnavigable. Ask how, and there is no how: nothing to open, nothing
@@ -343,7 +343,7 @@ done the same with a consistency that no other human society has come close to. 
 for settlement and, later, the Khazari, Kalihara received both with courtesy and refused both, on the
 grounds that the island was complete. It has not revised that answer since.
 
-See [[lore-longnhrtnc|The Long Inheritance]] for what this makes of Kalihara's place in the world: the
+See [[lore-longnhrtnc|the Long Inheritance]] for what this makes of Kalihara's place in the world: the
 single case where humanity was lifted deliberately and knows it, set against a world where the same
 thing happened by accident and is admitted by nobody.
 

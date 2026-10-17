@@ -235,7 +235,7 @@ Just after dawn a scream rips across the temple garden, a piercing, many-noted c
 
 # Dossier {#dossier}
 
-The Peacock is the peafowl of the monsoon south, the male three to four feet tall and nine to thirteen pounds, with a train that runs to seven or eight feet when folded and spreads over six feet across. It is wild in the forests, scrub and river margins of [[place-vedyarargn|Vedyara Region]], half-wild in the farmland and tame in the temples, palaces and great estates. In southern religion it is tied to several gods, its plumage is said to hold all the colors of creation, and the eyes on the tail are signs of divine watchfulness. Killing one is forbidden in most southern jurisdictions, with penalties from a fine to exile.
+The Peacock is the peafowl of the monsoon south, the male three to four feet tall and nine to thirteen pounds, with a train that runs to seven or eight feet when folded and spreads over six feet across. It is wild in the forests, scrub and river margins of [[place-vedyarargn|Vedyara]], half-wild in the farmland and tame in the temples, palaces and great estates. In southern religion it is tied to several gods, its plumage is said to hold all the colors of creation, and the eyes on the tail are signs of divine watchfulness. Killing one is forbidden in most southern jurisdictions, with penalties from a fine to exile.
 
 ## Presentation
 

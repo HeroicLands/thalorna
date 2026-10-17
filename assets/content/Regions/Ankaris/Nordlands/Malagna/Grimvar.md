@@ -38,11 +38,11 @@ Ask a Grimvar who owes whom in [[place-malagna|Malagna]] and the answer starts t
 
 ## What the Grimvar Say
 
-A [[affiliation-hrafnvar|Hrafnvar]] shipwright killed the boy. The Hrafnvar offered wergild, and the Grimvar refused it and took a life; the Hrafnvar answered with two. A priest of the [[affiliation-frodvin|Faith of Frodvin]] walked between [[place-braldheim|Braldheim]] and [[place-malstead|Málstead]] to seek peace, and both jarls marked a split oath-stave. Then the Grimvar jarl's brother burned his clan's half before the priest. The Grimvar say that a burned half leaves no binding bargain, and that the dead are counted differently in their halls than in the Hrafnvar's.
+A [[affiliation-hrafnvar|Hrafnvar]] shipwright killed the boy. The Hrafnvar offered wergild, and the Grimvar refused it and took a life; the Hrafnvar answered with two. A priest of [[affiliation-frodvin|Frodvin]] walked between [[place-braldheim|Braldheim]] and [[place-malstead|Málstead]] to seek peace, and both jarls marked a split oath-stave. Then the Grimvar jarl's brother burned his clan's half before the priest. The Grimvar say that a burned half leaves no binding bargain, and that the dead are counted differently in their halls than in the Hrafnvar's.
 
 ## The Crown in the Howe
 
-The Grimvar keep [[miscgear-crwnwyrm|The Crown of the Wyrm]] in a howe at Braldheim. Their tellers say a _landormr_ lies beneath it and warms the chamber, and that one man who went down thought the Crown looked back at him. They read the guardian as a sign that the Crown is more than a king's ornament. The Hrafnvar read the same story the other way and say fear, not piety, keeps the Grimvar from wearing it.
+The Grimvar keep [[miscgear-crwnwyrm|the Crown of the Wyrm]] in a howe at Braldheim. Their tellers say a _landormr_ lies beneath it and warms the chamber, and that one man who went down thought the Crown looked back at him. They read the guardian as a sign that the Crown is more than a king's ornament. The Hrafnvar read the same story the other way and say fear, not piety, keeps the Grimvar from wearing it.
 
 ## At a Glance
 

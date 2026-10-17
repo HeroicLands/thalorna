@@ -10,7 +10,7 @@ data: {demonym: null, lore: [bloodfield], parents: [hylen], population: 0, packF
 
 ## Overview
 
-A grain factor of one of the great houses, riding the [[place-hylen|Hilen]] estates in the week before harvest, makes a point of reaching The Blood-field of Olkassa last. "It is cut by the time I get there," he says, "and the sheaves are heavier than anyone else's, and I have never asked the steward why. The wheat comes off the field of both eagles a fortnight before the neighbours' and sells for the dole at the top of the price. Do not ask the tenants. They know, and they will not tell you."
+A grain factor of one of the great houses, riding the [[place-hylen|Hilen]] estates in the week before harvest, makes a point of reaching Olkassa last. "It is cut by the time I get there," he says, "and the sheaves are heavier than anyone else's, and I have never asked the steward why. The wheat comes off the field of both eagles a fortnight before the neighbours' and sells for the dole at the top of the price. Do not ask the tenants. They know, and they will not tell you."
 
 The **Blood-field of Olkassa** is a [[lore-bloodfield|blood-field]] on the Olkassa estate, one of the great holdings of Hilen. It is where the army of [[affiliation-seldan|Seldan]] (the Senate) and the [[place-moktur|Moktur]] legions killed one another about 401 AF ([[lore-olcassabtl|The Battle of Olkassa]]), under the same eagle and with no quarter given. Its kind is a **quickening**, and it is among the best farmland in the province.
 
@@ -22,7 +22,7 @@ Nothing crosses that a reaper sees by day. On the anniversary of the battle the 
 
 ## How It Is Treated
 
-The estate farms the field, sells its grain into the state granaries, and does not discuss it. The tenants leave the last sheaf standing for the dead. The [Imperial Cult]{.name data-type="affiliation/faithtradition"} keeps a small shrine to both armies' Orzoi at the field's edge, the only shrine in the [[affiliation-vylarinmpr|Vylarian Empire]] to a defeated claimant.
+The estate farms the field, sells its grain into the state granaries, and does not discuss it. The tenants leave the last sheaf standing for the dead. The [Imperial Cult]{.name data-type="affiliation/faithtradition"} keeps a small shrine to both armies' Orzoi at the field's edge, the only shrine in the [[affiliation-vylarinmpr|Empire]] to a defeated claimant.
 
 The clergy of the [[affiliation-selmoros|Faith of Sélmoros]] and the [[affiliation-nahild|Faith of Nahild]] hold the Empire's dead between them, and it is Nahild's priests who go onto a field.
 
@@ -30,11 +30,11 @@ The clergy of the [[affiliation-selmoros|Faith of Sélmoros]] and the [[affiliat
 
 - **Grain factors**, who buy the heaviest wheat in Hilen and ask nothing about it.
 - **Priests of Nahild**, on the anniversary.
-- **[[affiliation-ordoarcanis|Thordimalon]] surveyors**, whom the estate turns away at the gate.
+- **[[affiliation-ordoarcanis|Arcane Order]] surveyors**, whom the estate turns away at the gate.
 
 ## Hooks
 
-- **The dole's flour.** A grain factor finds that the capital's dole is milled from Olkassa wheat, and a preacher of [[affiliation-blackflame|The Black Flame]] in the [Warrens]{.name data-type="place/site"} tells the poor why the city has been angry for a year.
+- **The dole's flour.** A grain factor finds that the capital's dole is milled from Olkassa wheat, and a preacher of [[affiliation-blackflame|the Black Flame]] in the [Warrens]{.name data-type="place/site"} tells the poor why the city has been angry for a year.
 - **The heir's wedding.** The estate's heir wants the field settled by Sélmoros's rite before his wedding. The rite works perhaps half the time, and nobody knows whether settling it would end the harvest.
 
 ## See Also

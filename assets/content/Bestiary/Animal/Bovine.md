@@ -231,7 +231,7 @@ A heavy-bodied animal on four thick, pillar-like legs, almost all muscle under a
 
 ## In the Land
 
-Cattle are kept in every farming country in the setting, from the river-prince estates of [[place-velanthrgn|Velanthia Region]] to the pasture-uplands of the [[place-southrnmrch|Southern March]] and the herding country of the Southern Savannahs. A farm's herd grazes the home meadow by day and is penned or tethered at night; a village's cattle are driven to the summer pasture under one herder. Bulls are kept apart from the cows in a separate pen, a stout paddock or a field with a deep ditch.
+Cattle are kept in every farming country in the setting, from the river-prince estates of [[place-velanthrgn|Velanthia]] to the pasture-uplands of the [[place-southrnmrch|Southern March]] and the herding country of the Southern Savannahs. A farm's herd grazes the home meadow by day and is penned or tethered at night; a village's cattle are driven to the summer pasture under one herder. Bulls are kept apart from the cows in a separate pen, a stout paddock or a field with a deep ditch.
 
 ## Key Behaviors
 

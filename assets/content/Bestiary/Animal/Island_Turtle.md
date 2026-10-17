@@ -247,7 +247,7 @@ At low tide on the eastern islet a boulder at the waterline lifts itself on four
 
 # Dossier {#dossier}
 
-The Island Turtle, _reikula_ in the [[skill-kalihrlng|Kalihari Language]], "the old one that goes round", is a sea turtle of seven to nine feet and half a ton, with a green-black shell crusted with growth. It circles the island on a route fishermen know and comes ashore on the same beaches each [Wet-Turn]{.name data-type="lore/calendar"}. It lives for a very long time and moves slowly. It is found in the sea round the island and on the shore beaches, mainly those of the eastern islets, where it shares the sand with the [[being-mngbhmth|Mangrove Behemoth]]. It does not hunt people and does not need to.
+The Island Turtle, _reikula_ in [[skill-kalihrlng|Kalihari]], "the old one that goes round", is a sea turtle of seven to nine feet and half a ton, with a green-black shell crusted with growth. It circles the island on a route fishermen know and comes ashore on the same beaches each [Wet-Turn]{.name data-type="lore/calendar"}. It lives for a very long time and moves slowly. It is found in the sea round the island and on the shore beaches, mainly those of the eastern islets, where it shares the sand with the [[being-mngbhmth|Mangrove Behemoth]]. It does not hunt people and does not need to.
 
 ## Presentation
 

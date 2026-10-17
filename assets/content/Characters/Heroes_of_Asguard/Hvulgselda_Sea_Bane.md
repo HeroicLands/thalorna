@@ -361,7 +361,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Hvulgselda Sea-Bane stands 5'8" with a strong, athletic frame, weighing about 155 pounds. Her light skin has a permanent weathered sheen from years of salt spray and sea wind, and her red hair is cut short and practical, often plastered to her face by rain or ocean mist. Her green eyes are restless and alert, always scanning the horizon. Her features are sharp and wind-chapped, with prominent cheekbones, a straight nose, a pointed chin, and thin lips often pressed together in concentration. Her hands are rough and calloused from years of working ropes and oars, and a sailor's knot tattoo marks her right wrist. Hvulgselda wears a salt-stained leather jerkin over a linen tunic, with her battleaxe slung across her back and a short knife at her belt. She moves with the easy balance of someone accustomed to rolling decks.
+Hvulgselda stands 5'8" with a strong, athletic frame, weighing about 155 pounds. Her light skin has a permanent weathered sheen from years of salt spray and sea wind, and her red hair is cut short and practical, often plastered to her face by rain or ocean mist. Her green eyes are restless and alert, always scanning the horizon. Her features are sharp and wind-chapped, with prominent cheekbones, a straight nose, a pointed chin, and thin lips often pressed together in concentration. Her hands are rough and calloused from years of working ropes and oars, and a sailor's knot tattoo marks her right wrist. Hvulgselda wears a salt-stained leather jerkin over a linen tunic, with her battleaxe slung across her back and a short knife at her belt. She moves with the easy balance of someone accustomed to rolling decks.
 
 # Dossier {#dossier}
 

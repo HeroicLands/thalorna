@@ -70,7 +70,7 @@ data:
         - when the First and Second Compacts were sworn
 ---
 
-A Standards clerk of [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] begins a new factor's history lesson with a date, which is rare in the [[place-vedyarargn|Vedyara Region]]: the [Mahva-Melra]{.name data-type="lore/gathering"} of 320 AF. That is where **The Third Compact** was sworn, and every weight, road-tax and letter of credit the factor will handle in his working life runs on it.
+A Standards clerk of [[affiliation-mrchntclctvvdyr|the Merchant Collective]] begins a new factor's history lesson with a date, which is rare in [[place-vedyarargn|Vedyara]]: the [Mahva-Melra]{.name data-type="lore/gathering"} of 320 AF. That is where **the Third Compact** was sworn, and every weight, road-tax and letter of credit the factor will handle in his working life runs on it.
 
 ## The Name
 
@@ -78,13 +78,13 @@ The formal name is the **Third Janapoda Compact**, and it comes from the Melra. 
 
 ## The Generation Before It
 
-The Compact was three generations in the writing. Its authors were Shreshthins working across polities that were then at war with one another, and they could not unify the subcontinent and did not try. In the third, [[lore-hndrdbnnrs|The Storm of the Hundred Banners]] came round the western end of the wall and overran the northwestern march, and in the east an adventurer came through the conch-door ([[lore-conchdoor|The Conch-Door Incursion]]) and took janapadas one by one until the [[affiliation-janpdsvdyr|Janapadas of Vedyara]] raised an army to put him out. The third of them counted from [[lore-fieldelephnt|The Field of Elephants]], about 270, a battle no kingdom won.
+The Compact was three generations in the writing. Its authors were Shreshthins working across polities that were then at war with one another, and they could not unify the subcontinent and did not try. In the third, [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] came round the western end of the wall and overran the northwestern march, and in the east an adventurer came through the conch-door ([[lore-conchdoor|The Conch-Door Incursion]]) and took janapadas one by one until the [[affiliation-janpdsvdyr|Mahva-Sangra]] raised an army to put him out. The third of them counted from [[lore-fieldelephnt|the Field of Elephants]], about 270, a battle no kingdom won.
 
 The Melra that next sat, in 320 AF on the twelve-yearly cycle that put a Melra in 716, heard the merchants' law, and the polities signed it. The Compact holds in common the roads, the caravanserai and the watch posts, along with the arbitration procedure, the weights and measures and the currency standards. The merchants' terms were simple: the rules of trade made the same on both sides of every border, and each polity free to sign or to watch its neighbors grow richer than it. Each signed.
 
 ## What It Made
 
-The signatures constituted the [[affiliation-assmblycmpct|Assembly of the Compact]], which sits twice a year—in the spring at [[place-chandrapur2|Chendrapur]], in the autumn at [[place-vyalendra3|Vyalendra]]—to renew and amend the law, and the same instrument made the Merchant Collective answerable to it. Five polities hold seats: [[affiliation-chandrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra City-State]], [[affiliation-vindhyalay|Shikharalaya]], [[affiliation-rajaprjnpd|Rajepur Janapoda]] and [[affiliation-dhnrktjnpd|Danurkota Janapoda]]. They have signed every renewal since, and they share [[lore-vdyrnbnkng|Vedyaran Banking]], the system that grew out of it. [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]] stands outside by its own constitution, because a seat would open its gold to the Collective's factors.
+The signatures constituted the [[affiliation-assmblycmpct|Assembly of the Compact]], which sits twice a year—in the spring at [[place-chandrapur2|Chendrapur]], in the autumn at [[place-vyalendra3|Vyalendra]]—to renew and amend the law, and the same instrument made the Merchant Collective answerable to it. Five polities hold seats: [[affiliation-chandrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra]], [[affiliation-vindhyalay|Shikharalaya]], [[affiliation-rajaprjnpd|Rajepur Janapoda]] and [[affiliation-dhnrktjnpd|Danurkota Janapoda]]. They have signed every renewal since, and they share [[lore-vdyrnbnkng|Vedyaran Banking]], the system that grew out of it. [[affiliation-suvrgrjnpd|Suvarnageri]] stands outside by its own constitution, because a seat would open its gold to the Collective's factors.
 
 Chendrapur's settlement between its crown and its **[Nine Houses]{.name data-type="affiliation"}** has held since the same generation, and the city has kept the gem trade its own for as long. The Collective has been the connective tissue of Vedyaran life for the four centuries since, and nothing moves without it.
 
@@ -102,5 +102,5 @@ Chendrapur's settlement between its crown and its **[Nine Houses]{.name data-typ
 [[place-melaground|The Melra Ground]]
 : where it was sworn
 
-[[lore-hndrdbnnrs|The Storm of the Hundred Banners]] · [[lore-conchdoor|The Conch-Door Incursion]]
+[[lore-hndrdbnnrs|The Storm of the Hundred Banners]] · [[lore-conchdoor|the Conch-Door Incursion]]
 : the crisis it answered

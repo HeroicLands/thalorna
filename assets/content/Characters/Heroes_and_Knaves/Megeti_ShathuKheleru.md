@@ -423,7 +423,7 @@ sohl:
 
 ![[megtshthkhlr|Megeti Shathu'Kheleru]]{float=top-left}
 
-Megeti Shathu'Kheleru stands 5'5" tall with a light build. She has ebony skin, deep black hair, and brown eyes. Her features include a long face, a slightly arched nose, a narrow chin, full lips, and elegantly curved brows.
+Megeti stands 5'5" tall with a light build. She has ebony skin, deep black hair, and brown eyes. Her features include a long face, a slightly arched nose, a narrow chin, full lips, and elegantly curved brows.
 
 # Dossier {#dossier}
 

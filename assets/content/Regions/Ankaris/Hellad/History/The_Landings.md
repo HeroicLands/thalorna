@@ -58,7 +58,7 @@ Ask a Thirenaean which ship brought the first families to the valley and he name
 
 ## The Coast
 
-The people of the ships spoke [Proto-Helonic]{.name data-type="skill/language"}, and they came down the western coast in the last generations of [[lore-pelwarmigr|The Pelwar Migration]], the Pelwar displacement, at its southern edge. The movement that pushed the [[lore-pelwarpepl|Pelwar People]] north and west ran out of land against the sea; the people of the Landings were the part of it that kept to the water and went south. They took the peninsulas first, because a peninsula is a harbor with one road, and the islands after, and from the harbors they climbed the valleys to the terraces where olives would grow.
+The people of the ships spoke [Proto-Helonic]{.name data-type="skill/language"}, and they came down the western coast in the last generations of [[lore-pelwarmigr|the Pelwar Migration]], the Pelwar displacement, at its southern edge. The movement that pushed the [[lore-pelwarpepl|Pelwar peoples]] north and west ran out of land against the sea; the people of the Landings were the part of it that kept to the water and went south. They took the peninsulas first, because a peninsula is a harbor with one road, and the islands after, and from the harbors they climbed the valleys to the terraces where olives would grow.
 
 ## The Founding Ships
 
@@ -73,9 +73,9 @@ The newcomers who climbed to the eastern plateau found stepped tombs and rock-cu
 - **The founding legends**, told city against city and kept alive by the contradiction.
 - **The oldest speech**, the interior highland dialect, and the Proto-Helonic that [Ancient Helonic]{.name data-type="skill/language"} grew from.
 - **The burial ground** on the plateau, which a Helonic people began to fill and has been filling for twenty centuries.
-- **The cousinship** of [[place-helionis|Helionis]], the Bizarian plateau and the [[place-bethuargn|Bethua Region]], whose speech and faiths share these roots.
+- **The cousinship** of [[place-helionis|Helionis]], the Bizarian plateau and [[place-bethuargn|Bethua]], whose speech and faiths share these roots.
 
-The cities filled their valleys and, a few centuries on, began sending their younger sons over the sea ([[lore-daughtercts|The Daughter-Cities]]).
+The cities filled their valleys and, a few centuries on, began sending their younger sons over the sea ([[lore-daughtercts|the Daughter-Cities]]).
 
 ## See Also
 

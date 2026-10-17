@@ -380,4 +380,4 @@ sohl:
 
 **Background.** Skilled in several languages and in international custom.
 
-**Intrigue.** A double agent for the [[affiliation-vylarinmpr|Vylarian Empire]], paid in coin and promises of advancement. Manipulates [[being-elowyrnimavren|Elowir Nimavren]] for information and regards him as a pawn. Knows [[being-marricharavrel|Marrik Háravrel]] is Spymaster, thinks him an amateur, and feeds him falsehoods.
+**Intrigue.** A double agent for [[affiliation-vylarinmpr|Vylaria]], paid in coin and promises of advancement. Manipulates [[being-elowyrnimavren|Elowir]] for information and regards him as a pawn. Knows [[being-marricharavrel|Marrik]] is Spymaster, thinks him an amateur, and feeds him falsehoods.

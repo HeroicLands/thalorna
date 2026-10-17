@@ -55,9 +55,9 @@ data:
         - how many died on the crossing to Aelwyth, which the traditions do not give and which nobody serious puts below two in three
 ---
 
-The [[lore-pelwarpepl|Pelwar People]] were not a nation or a polity but a loose cultural-linguistic
-grouping of related tribes, and The Pelwar Migration was not a wandering. It was a displacement, and it had a
-cause: the [Varkhad]{.name data-type="lore/folk"} took the homelands in [[lore-varkhadcnq|The Varkhad Conquest]], and generations of pressure pushed whole
+The [[lore-pelwarpepl|Pelwar]] were not a nation or a polity but a loose cultural-linguistic
+grouping of related tribes, and the Migration was not a wandering. It was a displacement, and it had a
+cause: the [Varkhad]{.name data-type="lore/folk"} took the homelands in [[lore-varkhadcnq|the Varkhad Conquest]], and generations of pressure pushed whole
 peoples ahead of them across half a continent.
 
 It stopped at the sea. That is why the Pelwar-descended peoples—the [[lore-elavendrnppl|Élavendren People]], the [[lore-aelendnppl|Áelendan People]], Vylari,
@@ -66,8 +66,8 @@ as they are, and why a few communities did the only thing left and went across t
 
 **[[place-aelwyth|Aelwyth]] lies something like two hundred and thirty sea-miles off the coast.** That is
 not a distance barbarian peoples cross—not in the craft they had, not with families and stock
-aboard, not without pilots or charts. The ancestors of [[lore-vardain|The Vardain]] had come to the island as passengers, carried in
-[[lore-flkkhazar|Khazár Folk]] bottoms by people who knew the water. The ones who came around 1200 BF came in whatever would
+aboard, not without pilots or charts. The ancestors of [[lore-vardain|the Vardain]] had come to the island as passengers, carried in
+[[lore-flkkhazar|Khazari]] bottoms by people who knew the water. The ones who came around 1200 BF came in whatever would
 float, and most of them died.
 
 Tens of thousands arrived, which means something on the order of a hundred thousand set out. They were

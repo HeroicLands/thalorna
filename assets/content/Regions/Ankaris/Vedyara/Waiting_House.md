@@ -12,7 +12,7 @@ The gem trade of [[place-chandrapur2|Chendrapur]] is organized as a sequence and
 
 It is a plain square-fronted building of the city's pale limestone, two stories and a yard, kept washed like everything else on the street. It holds sealed parcels for a fee, by the day, for any house that asks, and it has done since the charter that names its trade was granted. Strangers come to it at all hours carrying small things they do not open. That is the business.
 
-A line of [[affiliation-chayavrata|The Chaya-vreta]] has been taught in the upper rooms for most of the building's history.
+A line of [[affiliation-chayavrata|the Chaya-vreta]] has been taught in the upper rooms for most of the building's history.
 
 ## Why a House at All
 

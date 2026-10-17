@@ -7,7 +7,7 @@ tags: [deity, elder-races, sinale, khazari, dreams, light]
 data: {packFolder: pantheons}
 ---
 
-The God of Dreams—a deity of dreams, light, and the stewardship of the natural world—is the oldest continuously worshipped god in [[place-worldthlrn|The World of Thalorna]]. The [[lore-flksinale|Sinale Folk]] and [[lore-flkkhazar|Khazár Folk]] each venerated this god for millennia before the first human civilizations arose. Every human faith that touches this deity's domains is, knowingly or not, derivative of the elder races' original worship.
+The God of Dreams—a deity of dreams, light, and the stewardship of the natural world—is the oldest continuously worshipped god in [[place-worldthlrn|Thalorna]]. The [[lore-flksinale|Sinale Folk]] and [[lore-flkkhazar|Khazár Folk]] each venerated this god for millennia before the first human civilizations arose. Every human faith that touches this deity's domains is, knowingly or not, derivative of the elder races' original worship.
 
 The Sinale and Khazari do not acknowledge the human faiths as legitimate expressions of their god. They tolerate them.
 
@@ -42,7 +42,7 @@ When matters arise that affect the faith as a whole, the Ansorun gather in an [A
 
 ## The Khazari Tradition
 
-The Khazari recognize Luváth and ask little of the god. The Deep Folk share even less with outsiders than the Sinale do, but the fragments that exist—from artifacts predating [[lore-oldcompact|The Old Compact]] and the rare oblique reference a Khazár has let slip—agree on where their regard goes. They venerate [Puthakun]{.name data-type="being/npc"} (see [[lore-khazararrv|The Coming of the Khazari]]), Luváth's servant, who led the seven clans out of [Humadhan]{.name data-type="place/world"} and is remembered as the savior of their people; Luváth they hold to be his master. Their devotion centers on craft: shaping stone and metal with skill and patience is itself a form of prayer, work offered in Puthakun's memory and in accord with the mountain. Light, in the Khazari understanding, is not the open radiance of sun and star but the glow of the forge and the luminescence of deep crystal—light that endures in places the sun has never touched.
+The Khazari recognize Luváth and ask little of the god. The Deep Folk share even less with outsiders than the Sinale do, but the fragments that exist—from artifacts predating [[lore-oldcompact|the Old Compact]] and the rare oblique reference a Khazár has let slip—agree on where their regard goes. They venerate [Puthakun]{.name data-type="being/npc"} (see [[lore-khazararrv|the Coming of the Khazari]]), Luváth's servant, who led the seven clans out of [Humadhan]{.name data-type="place/world"} and is remembered as the savior of their people; Luváth they hold to be his master. Their devotion centers on craft: shaping stone and metal with skill and patience is itself a form of prayer, work offered in Puthakun's memory and in accord with the mountain. Light, in the Khazari understanding, is not the open radiance of sun and star but the glow of the forge and the luminescence of deep crystal—light that endures in places the sun has never touched.
 
 ## The Old Compact
 
@@ -58,4 +58,4 @@ The notable exception is the [[affiliation-ordoarcanis|Thordimalon]]. Practition
 
 Regardless of origin, the human faiths regard their prayers and dreams as genuine expressions of a real divine connection—they hold that the deity answers human prayers and sends dreams to human worshippers. The relationship is simply younger, shallower, and filtered through cultural assumptions that the elder races find alternately amusing and baffling.
 
-For details on the human traditions, see [[affiliation-bjartr|Faith of Bjart]] (Asguardian), [[affiliation-zunelas|Faith of Zunelas]] (Aureldian), [[affiliation-naliktzuqal|Faith of Nal'ik Ts'uqal]] (Itsani), [[affiliation-nehleat|Faith of Nehle'at]] (Khelathi), [[affiliation-meiwo|Meiwo]] (Tantsou), [[affiliation-zarvanya|Faith of Zárvanya]] (Ashaian), and the [[affiliation-svapnadevas|Svapnadevas]] (Varnuka—who revere the deity's servants rather than the deity itself).
+For details on the human traditions, see [[affiliation-bjartr|Faith of Bjart]] (Asguardian), [[affiliation-zunelas|Faith of Zunelas]] (Aureldian), [[affiliation-naliktzuqal|Nal'ik Ts'uqal]] (Itsani), [[affiliation-nehleat|Nehle'at]] (Khelathi), [[affiliation-meiwo|Mei Sei]] (Tantsou), [[affiliation-zarvanya|Zárvanya]] (Ashaian), and the [[affiliation-svapnadevas|Svapnadevas]] (Varnuka—who revere the deity's servants rather than the deity itself).

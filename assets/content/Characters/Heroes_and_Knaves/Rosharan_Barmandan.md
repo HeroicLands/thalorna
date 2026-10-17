@@ -433,7 +433,7 @@ sohl:
 
 ![[rshrnbrmndn|Rosharan Barmandan]]{float=top-left}
 
-Rosharan Barmandan stands 5'11" tall with a medium build. She has light olive skin, dark black hair, and dark brown eyes. Her features include a long face, a prominent nose, an angular jawline, full lips, and dark brows. She has a tattoo of a bear on her left arm.
+Rosharan stands 5'11" tall with a medium build. She has light olive skin, dark black hair, and dark brown eyes. Her features include a long face, a prominent nose, an angular jawline, full lips, and dark brows. She has a tattoo of a bear on her left arm.
 
 # Dossier {#dossier}
 
@@ -441,7 +441,7 @@ Rosharan Barmandan stands 5'11" tall with a medium build. She has light olive sk
 
 **Mastering the Art:** Kheldun was a strict but generous mentor who insisted that anything new came only after complete mastery of tradition. For fifteen years, Rosharan studied traditional design, worked with ancient timber types, and learned to predict how wood would move, swell, and age. However, by her late twenties, she began questioning established practices—suggesting changes in hull design that improved speed, modifications to rigging that gave better wind-catching capability, and radical ideas about incorporating materials from distant lands. Her suggestions initially met resistance from Kheldun himself, but gradually, he became her greatest advocate, eventually declaring her his successor and recommending her for membership in the [Coastal Shipwrights' Guild]{.name data-type="affiliation/guild"}.
 
-**Current Innovations:** Now at thirty-five, Rosharan operates a prestigious shipyard near the harbor of the [[place-amradadrgn|Amradad Region]], known throughout the Kingdom for vessels that balance traditional beauty with novel construction. Her designs have attracted adventurers, explorers, and merchants willing to pay dearly for ships that outperform their competitors. She has begun mentoring younger craftspeople, though she remains personally involved in every major project, unable to fully delegate her vision. Recent commissions include an experimental deep-water explorer for the [Royal Survey Corps]{.name data-type="affiliation"} and a merchant vessel of new design built to withstand the monsoon.
+**Current Innovations:** Now at thirty-five, Rosharan operates a prestigious shipyard near the [[place-amradadrgn|Amradad harbor]], known throughout the Kingdom for vessels that balance traditional beauty with novel construction. Her designs have attracted adventurers, explorers, and merchants willing to pay dearly for ships that outperform their competitors. She has begun mentoring younger craftspeople, though she remains personally involved in every major project, unable to fully delegate her vision. Recent commissions include an experimental deep-water explorer for the [Royal Survey Corps]{.name data-type="affiliation"} and a merchant vessel of new design built to withstand the monsoon.
 
 ## Psyche
 

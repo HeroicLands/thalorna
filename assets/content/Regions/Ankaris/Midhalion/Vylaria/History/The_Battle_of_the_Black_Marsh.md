@@ -63,19 +63,19 @@ data:
         - how many of the dead lie in the marsh and how many were carried out for the pyres
 ---
 
-In The Battle of the Black Marsh, a sergeant of the watch at [[place-dolvar|Dolvar]], teaching a recruit to count smoke from the wall at dusk, points down the valley to where the light goes grey and flat. "That is the marsh," he says. "We do not look at it. We look at the forest. Anything that comes out of the forest, we count. Anything that went into the marsh, we leave."
+A sergeant of the watch at [[place-dolvar|Dolvar]], teaching a recruit to count smoke from the wall at dusk, points down the valley to where the light goes grey and flat. "That is the marsh," he says. "We do not look at it. We look at the forest. Anything that comes out of the forest, we count. Anything that went into the marsh, we leave."
 
 ## The Eagle in the Forest
 
 In 518 a Varokh war-band burned the camp of the [Pelsan Hilvan]{.name data-type="affiliation"} in a Mokturan valley and carried the legion's eagle north over the passes ([[lore-hungerraids|The Hunger Raids]]). No legion had lost its _orkaima_ to barbarians before, and the army's manual disbands a legion that loses one. The chancery held the Fourth's name on the roll for two years, because the eagle was known to hang in the forest and the legion meant to have it back.
 
-In the spring of 520 the eagle came south again. The hunger that followed [[lore-threewinters|The Three Winters]] had gathered war-bands from a dozen villages into one host, the largest the passes had seen, and it carried the eagle at its head.
+In the spring of 520 the eagle came south again. The hunger that followed [[lore-threewinters|the Three Winters]] had gathered war-bands from a dozen villages into one host, the largest the passes had seen, and it carried the eagle at its head.
 
 ## The Valley and the Water
 
 The [Karsan Soldan Korvan]{.name data-type="affiliation"}, a legion of the northern march, met the host in the valleys below the passes. The legion did not give battle in the open. It closed the valley above the host and held the ridges, and when the host turned to break out, the only ground that fell away from the legion was the marsh at the valley's foot. A man in mail sinks to the waist there. The host could not stand together on it, and the legion did not have to go in.
 
-It died there to the last man. The Korvan took the eagle out of the reeds. The Orzas [Hárvanes]{.name data-type="being/npc"} of [[lore-restorehouse|House Helarkales]], who had ruled the [[affiliation-vylarinmpr|Vylarian Empire]] through the Three Winters and the raids that followed them, granted the legion a gold band on its name for the recovery. The Pelsan Hilvan's name was struck from the roll in the same year, as the manual requires, and its eagle went to the shrine at [[place-tyrellan|Tirellan]], the province's seat.
+It died there to the last man. The Korvan took the eagle out of the reeds. The Orzas [Hárvanes]{.name data-type="being/npc"} of [[lore-restorehouse|House Helarkales]], who had ruled the [[affiliation-vylarinmpr|Empire]] through the Three Winters and the raids that followed them, granted the legion a gold band on its name for the recovery. The Pelsan Hilvan's name was struck from the roll in the same year, as the manual requires, and its eagle went to the shrine at [[place-tyrellan|Tirellan]], the province's seat.
 
 ## What Moktur Made of It
 

@@ -13,7 +13,7 @@ data:
   packFolder: centralrainforests
 ---
 
-Far up one of the black-water rivers of the [[place-cntrlrnfrsts|Central Rainforests]], where the current slackens into a drowned plain of flooded trees, a stepped temple stands half sunk in the water. The river took its lowest terraces long ago, and the roots of strangler figs have climbed the rest. The forest peoples call it **The Drowned Ziggurat**, and the traders who have heard of it call it the Wheel Temple, because the sound that reaches boats on still nights is the creak of prayer-wheels turning.
+Far up one of the black-water rivers of the [[place-cntrlrnfrsts|Central Rainforests]], where the current slackens into a drowned plain of flooded trees, a stepped temple stands half sunk in the water. The river took its lowest terraces long ago, and the roots of strangler figs have climbed the rest. The forest peoples call it **the Drowned Ziggurat**, and the traders who have heard of it call it the Wheel Temple, because the sound that reaches boats on still nights is the creak of prayer-wheels turning.
 
 ## What It Is
 
@@ -27,13 +27,13 @@ The prayer-wheels are bronze drums on upright spindles, the length of a man's ar
 
 The hands belong to **Wheel-Keepers**, the helpers the keeper took, whose bodies sit in niches behind the wheels. They are [[being-damut|damutu]], the dead driven by a binding that holds the soul in pieces and gives the body one task. The Keepers have a single task. Nothing is known of them as persons, and the forest peoples do not give their names.
 
-The rite that bound them was the priesthood's attempt to keep the serpent-patron from dying. The wheels were meant to turn its worship forever, and a patron that is worshipped forever is a spirit that cannot fade. The attempt opened a door. What came through is [[lore-theshadow|The Shadow]], chaos from outside creation, and the Shadow keeps the wheels turning for its own purposes, not the cult's. A god or a great spirit that touches it goes mad, and the patron of the Ziggurat went first.
+The rite that bound them was the priesthood's attempt to keep the serpent-patron from dying. The wheels were meant to turn its worship forever, and a patron that is worshipped forever is a spirit that cannot fade. The attempt opened a door. What came through is [[lore-theshadow|the Shadow]], chaos from outside creation, and the Shadow keeps the wheels turning for its own purposes, not the cult's. A god or a great spirit that touches it goes mad, and the patron of the Ziggurat went first.
 
 ## Who Knows of It, and What They Say
 
 - **The river tribes** hold the river below the drowned plain as forbidden water and do not fish it. Their elders say the serpent-patron is asleep and must not be woken by oars, and give no other reason.
 - **The Kubindo** tell it as the story of the keeper who became a leader. **The deep-forest tribes** do not speak of it to outsiders. Asked the way, they name the wrong river.
-- **Sengala traders** of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] know the drowned plain as a place their route skirts. Their parties are bound by the observances of the [[affiliation-nyalbleop|Leopard Totem]] not to reveal the route by which they came, and none has revealed this one.
+- **Sengala traders** of the [[affiliation-nylbtrblntn|Nyáluba]] know the drowned plain as a place their route skirts. Their parties are bound by the observances of the [[affiliation-nyalbleop|Leopard Totem]] not to reveal the route by which they came, and none has revealed this one.
 - **Khelathi and Okhárian river-factors** trade rumor about it. The story told in the northern river-ports is of a temple roofed in green stone and furnished with bronze, and it draws a steady trickle of salvage crews who do not come back.
 
 The common account across the interior is that the wheels must not be stopped. The reason differs by teller: the patron will wake, or the river will turn, or the wheels hold up the roof. The accounts do not agree with each other, and none of them is the whole reason.

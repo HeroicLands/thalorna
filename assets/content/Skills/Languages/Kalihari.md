@@ -589,11 +589,11 @@ sohl:
   flags: {"thalorna": {lang_family: Kalihari (ancient isolate)}}
 ---
 
-Kalihari Language is a tongue of the Kalihari (ancient isolate) family. Fluency measures the sophistication of expression in Kalihari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Kalihari is a tongue of the Kalihari (ancient isolate) family. Fluency measures the sophistication of expression in Kalihari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
-Kalihari is among the oldest living languages on [[place-worldthlrn|The World of Thalorna]], predating all Ankarian human languages by millennia, and it is spoken today by the [[lore-kaliharanclt|Kaliharan]] peoples of [[place-klhrcntnnt|Kalihara Continent]]. The language stands in complete **linguistic isolation**—no known relatives exist anywhere on Thalorna, and no philologist off the island can account for it. The likeliest explanation is also the dullest: a single people on a single landmass, out of contact with every other, speaking for eight thousand years whatever their ancestors happened to speak. Isolation of that length does not need a stranger to explain it.
+Kalihari is among the oldest living languages on [[place-worldthlrn|Thalorna]], predating all Ankarian human languages by millennia, and it is spoken today by the [[lore-kaliharanclt|Kaliharan]] peoples of [[place-klhrcntnnt|Kalihara]]. The language stands in complete **linguistic isolation**—no known relatives exist anywhere on Thalorna, and no philologist off the island can account for it. The likeliest explanation is also the dullest: a single people on a single landmass, out of contact with every other, speaking for eight thousand years whatever their ancestors happened to speak. Isolation of that length does not need a stranger to explain it.
 
 To the untrained ear, Kalihari sounds exotic and flowing: vowel-heavy, with liquid consonants that cascade like water. The language rarely employs harsh stops or heavy consonant clusters. Instead, it privileges open syllables, gliding transitions, and a musical quality unlike anything heard on the Ankarian mainland. This flowing character reflects both the coastal geography of Kalihara and a philosophical worldview emphasizing harmony and interconnection.
 
@@ -603,7 +603,7 @@ Interior Kalihari
 : The pure, classical form spoken in the island's interior, known to outsiders only in fragments
 
 Port Kalihari
-: A hybrid variant used in cosmopolitan harbor cities, incorporating [[skill-valtarlng|Valtari Language]] loanwords and simplified grammar to facilitate trade
+: A hybrid variant used in cosmopolitan harbor cities, incorporating [[skill-valtarlng|Valtari]] loanwords and simplified grammar to facilitate trade
 
 Outsiders rarely encounter true Interior Kalihari; most know only the bastardized port variant.
 
@@ -650,7 +650,7 @@ Five distinct vowels, each pronounced with clarity and sometimes elongated for e
 
 ### Stress and Prosody
 
-Stress typically falls on the **penultimate (second-to-last) syllable**, creating a regular rhythmic pattern. The language employs **tonal variation** more subtly than [[skill-kicheklng|Ki'ichek Language]]: rising tones at phrase endings signal questions or openness; falling tones close statements. Poetic and ceremonial speech employ exaggerated tonal variation that approaches singing.
+Stress typically falls on the **penultimate (second-to-last) syllable**, creating a regular rhythmic pattern. The language employs **tonal variation** more subtly than [[skill-kicheklng|Ki'ichek]]: rising tones at phrase endings signal questions or openness; falling tones close statements. Poetic and ceremonial speech employ exaggerated tonal variation that approaches singing.
 
 Kalihari is often described as "musical" because pitch and rhythm are fundamental to comprehension, not mere inflection.
 
@@ -696,7 +696,7 @@ Adverbs precede the verbs they modify:
 
 ## Script and Literacy
 
-Kalihari employs the [[skill-luthrscrpt|Luaithari Script]], a **syllabic script**: each glyph represents a consonant-vowel pair (or vowel alone). The script is written left-to-right, top-to-bottom, flowing like water across the page. Glyphs are curved, interconnected, and visually beautiful—Kaliharan scribal tradition emphasizes aesthetics alongside function.
+Kalihari employs the [[skill-luthrscrpt|Luaithari]], a **syllabic script**: each glyph represents a consonant-vowel pair (or vowel alone). The script is written left-to-right, top-to-bottom, flowing like water across the page. Glyphs are curved, interconnected, and visually beautiful—Kaliharan scribal tradition emphasizes aesthetics alongside function.
 
 Key features:
 
@@ -716,7 +716,7 @@ Every Kaliharan writes the syllabary well enough to keep a manual, and the scrib
 
 ## Historical Development
 
-Kaliharans questioned at the ports trace their civilization to a people they call [[lore-theithari|The Ithari]], who they say came before them and departed long ago. They do not claim the tongue from them. By their own account those people left no word of any kind behind them and were never heard to speak—what was received was understanding, not language—so Kalihari is held to be the islanders' own, enlarged over eighty centuries by everything they were given to name. No scholar outside the island can test any part of that account, and none has been permitted to try. What the foreign evidence supports is the isolation itself and nothing further.
+Kaliharans questioned at the ports trace their civilization to a people they call [[lore-theithari|the Ithari]], who they say came before them and departed long ago. They do not claim the tongue from them. By their own account those people left no word of any kind behind them and were never heard to speak—what was received was understanding, not language—so Kalihari is held to be the islanders' own, enlarged over eighty centuries by everything they were given to name. No scholar outside the island can test any part of that account, and none has been permitted to try. What the foreign evidence supports is the isolation itself and nothing further.
 
 The language has **changed remarkably little in core structure** over recorded history—a testament to Kaliharan cultural conservatism and reverence for ancestral knowledge. However, **vocabulary has evolved** with geography and trade:
 

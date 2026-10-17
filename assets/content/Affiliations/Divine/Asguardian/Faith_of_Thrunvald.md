@@ -61,7 +61,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A member of [[affiliation-ordrstrmspkrs|The Order of the Storm-Speakers]] who watches from a ledge of [[place-thrumufjall|Thrumufjall]] while the hov of the Faith of Thrunvald there blesses a ship describes what she sees first, which is the stone. The hammer stone is lifted over the bow, the crew bows, and the ship goes out through the harbor mouth under what the faithful regard as the god's protection. "I read the weather and the hov does something I do not," she says. "It asks the god to stand at the bow. Neither of us is lying about what the sea can do."
+A member of [[affiliation-ordrstrmspkrs|the Order of the Storm-Speakers]] who watches from a ledge of [[place-thrumufjall|Thrumufjall]] while the hov there blesses a ship describes what she sees first, which is the stone. The hammer stone is lifted over the bow, the crew bows, and the ship goes out through the harbor mouth under what the faithful regard as the god's protection. "I read the weather and the hov does something I do not," she says. "It asks the god to stand at the bow. Neither of us is lying about what the sea can do."
 
 [[lore-thrunvalddty|Thrunvald]] is the thunderous god of war, reavers and the sea, a formidable protector and champion of both gods and humans. In its mythology, he is known for immense strength and unyielding courage, a force of nature who defends the worlds from the chaos of giants and other threats. His domain extends over the seas, which makes him the patron of sailors and reavers, who call on his name for safe passage and victory in their raids.
 

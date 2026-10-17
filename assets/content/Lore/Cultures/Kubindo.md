@@ -18,7 +18,7 @@ data:
 # terran_analog: "The sacred groves and shrine-keeping lineages of forest and savanna peoples in central Africa, set among foragers. Carries over: one place-bound spirit per community, an elder who keeps its rules, burial at the shrine, and healing sought there. Departs: no priesthood and no shrine-building, a leader chosen by a night spent at the spirit-place, and a rule that the keeper may never lead."
 ---
 
-The **Kubindo** are the court-keepers, one of the four traditions of the [[lore-bikoclt|Biko]]. Their name is _kubi_, a spirit-court, with the ending of one who keeps it. Each Kubindo tribe keeps one.
+The **Kubindo** are the court-keepers, one of the four traditions of the [[lore-bikoclt|forest peoples]]. Their name is _kubi_, a spirit-court, with the ending of one who keeps it. Each Kubindo tribe keeps one.
 
 ## Where They Live
 
@@ -42,7 +42,7 @@ A Kubindo child is a _tolu_ until it can keep the whole of the court's mbuyo thr
 
 The spirit makes the _kpaso_, through the _ngobe_, the night-sitting. When the tribe needs a leader, the elders name the members they think fit, and each sits one night alone at the court. In the morning each tells the kelendo what came in the night: a dream, a sound, a beast at the water, or nothing. The kelendo decides whom the spirit answered, and that person is the leader. When the spirit answers no one, the tribe waits for the next moon and tries again.
 
-The kelendo can never be kpaso, and can never be named for the ngobe. The Kubindo hold this rule hardest of all their rules, and tell why: there was a court on a black river whose keeper made himself its leader, and then took helpers to keep its manners for him, and then built a house of stone for its serpent. The serpent died of it, and the dead of that court still turn its wheels. The court is [[place-drwndzgrt|The Drowned Ziggurat]], and every Kubindo child knows the story before it knows its own court's manners.
+The kelendo can never be kpaso, and can never be named for the ngobe. The Kubindo hold this rule hardest of all their rules, and tell why: there was a court on a black river whose keeper made himself its leader, and then took helpers to keep its manners for him, and then built a house of stone for its serpent. The serpent died of it, and the dead of that court still turn its wheels. The court is [[place-drwndzgrt|the Drowned Ziggurat]], and every Kubindo child knows the story before it knows its own court's manners.
 
 ## Kin
 
@@ -66,7 +66,7 @@ The dead are buried at the court, beside the tree or the pool, and join the spir
 - **The [[lore-yesomaclt|Yesoma]]** are careless children who walk through every spirit's house without a greeting. When the hunting fails them, the Kubindo think they earned it.
 - **The [[lore-pewayeclt|Pewaye]]** have forgotten the manners. They guard a line between the forest and the outside, and a line has no spirit and asks nothing.
 
-The Kubindo say the sorcerer who leads [[place-lpdkngcrt|The Leopard King's Court]] has done what the drowned court did, and expect the same end for him.
+The Kubindo say the sorcerer who leads [[place-lpdkngcrt|the Leopard King's Court]] has done what the drowned court did, and expect the same end for him.
 
 [[place-slntclrng|The Silent Clearing]] belongs to no spirit. Kubindo elders who have been near it say it has no manners at all, and a place with no manners is a place nobody can bargain with.
 

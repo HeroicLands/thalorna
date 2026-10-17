@@ -13,9 +13,9 @@ data:
   packFolder: elavendre
 ---
 
-The Long Stair consists of seven falls in succession where a headwater of [[place-drenavrspn|The Drenavar Spine]] drops through a
-stepped gorge, each pool deeper and colder than the last. The [[lore-aelendnppl|Áelendan People]] do not treat
-the Stair as seven things. It is one water and one spirit—[[lore-salendaspr|Sálenda of the Long Stair]]—and the
+The Long Stair consists of seven falls in succession where a headwater of [[place-drenavrspn|the Drenavar Spine]] drops through a
+stepped gorge, each pool deeper and colder than the last. The [[lore-aelendnppl|Áelendan]] do not treat
+the Stair as seven things. It is one water and one spirit—[[lore-salendaspr|Sálenda]]—and the
 offerings are made at the lowest pool, because that is as far as anyone is permitted to go by daylight.
 
 ## The Gorge
@@ -71,12 +71,12 @@ Sálenda has never been asked directly. Asking would require climbing.
 ## Outsiders
 
 The Stair is deep in the [[place-alndntrblnds|Áelendan Tribal Lands]] and the
-[[affiliation-alndnwrdns|Áelendan Wardens]] watch the approach. Lowlanders have been brought here—the Stair is
+[[affiliation-alndnwrdns|Wardens]] watch the approach. Lowlanders have been brought here—the Stair is
 not secret, and the tribes are not ashamed of it—but always accompanied, always to the lowest pool,
 and always with the offering explained beforehand rather than afterward. Visitors who arrive with a
 gift they purchased are gently told to come back another year.
 
 ## See Also
 
-- [[lore-salendaspr|Sálenda of the Long Stair]] · [[lore-thekindred|The Kindred]]
+- [[lore-salendaspr|Sálenda of the Long Stair]] · [[lore-thekindred|the Kindred]]
 - [[place-drenavrspn|The Drenavar Spine]] · [[place-alndntrblnds|Áelendan Tribal Lands]]

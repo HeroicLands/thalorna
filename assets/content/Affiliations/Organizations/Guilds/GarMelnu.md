@@ -69,7 +69,7 @@ Tevran Maldor status
 
 ## Overview
 
-Every blade an imperial soldier carries, every scale on a temple guard's armor and every harpoon a [[affiliation-zeghetnelgu|Zeghet'Nelgu]] skiff throws at a crocodile in [[place-zumeleshrvr|The Zumelesh]] was made by a smith of **Gar'Melnu** or to its standards. The [[affiliation-empireakhlth|Empire of Au'Khelathu]] is not primarily a military power: its armies are smaller and less expensively equipped than the **[[affiliation-vylarinmpr|Vylarian Empire]]**'s, and its frontier defenses lean on diplomacy and terrain more than on weight of arms. The guild is how the Gar-Au's lands are armed all the same.
+Every blade an imperial soldier carries, every scale on a temple guard's armor and every harpoon a [[affiliation-zeghetnelgu|Zeghet'Nelgu]] skiff throws at a crocodile in [[place-zumeleshrvr|the Zumelesh]] was made by a smith of **Gar'Melnu** or to its standards. The [[affiliation-empireakhlth|Khelathi empire]] is not primarily a military power: its armies are smaller and less expensively equipped than the **[[affiliation-vylarinmpr|Vylarian Empire]]**'s, and its frontier defenses lean on diplomacy and terrain more than on weight of arms. The guild is how the Gar-Au's lands are armed all the same.
 
 Civilian metalwork is the larger business by volume: plowshares, cooking vessels, hinges, tools, and the bronze and copper goods of daily life. The guild's prestige and political weight come from its near-monopoly on weapons and armor.
 
@@ -102,7 +102,7 @@ A smith whose sealed work fails loses the master's seal; the rank table calls th
 
 The chair of the council is the **First Smith of the Gar-Au** (_Ilmy-Qelt Melnu_). The present First Smith is [[being-khelfrzbnmry|Khelafra Zebenmeryu]], a man in his sixties who has held the post for fourteen years. He coordinates the guild's central affairs and its bargaining with the Gar-Au's court, and he is widely respected and somewhat conservative. He is quietly maneuvering against the reformist faction that wants to liberalize the guild's apprenticeship requirements.
 
-That faction is [[affiliation-lethunu2|The Lethunu]], an informal group of younger Great Smiths and senior Masters who want a shorter apprenticeship, recruitment beyond the traditional smithing families, and modern accounting. Great Smith **[Userhat Pamenes]{.name data-type="being/npc"}** leads it in public.
+That faction is [[affiliation-lethunu2|the Lethunu]], an informal group of younger Great Smiths and senior Masters who want a shorter apprenticeship, recruitment beyond the traditional smithing families, and modern accounting. Great Smith **[Userhat Pamenes]{.name data-type="being/npc"}** leads it in public.
 
 The Master of the highest standing is [[being-shezurzingat|Shezur Zin'Gatau]], widely regarded as the finest active armorer in the empire. He keeps his guild registration and pays his dues, but he refuses leadership positions and works from a personal forge in his home city. His standing contract with the **[Imperial Military Quartermaster's Office]{.name data-type="affiliation/governmental"}** gives him priority access to the finest raw materials in imperial warehouses. Some Council members call that a quiet violation of guild equality; **Shezur** calls it earned.
 
@@ -130,7 +130,7 @@ A guild master's seal is a brass die carrying his personal mark and the cartouch
 - The Imperial Military Quartermaster's Office is the primary client. The quartermasters hold leverage through procurement but cannot easily replace the guild.
 - The temples of [[affiliation-psaqaru|Faith of Saq'aru]] and [[affiliation-gewaatis|Faith of Gewa'atis]] are the guild's religious foundation, and senior elevations are conducted in temple rite.
 - [[affiliation-garnuw|Gar'Nuw]], the hunters' guild, and the other Khelathi trade guilds are peers. Relations are cordial and governed by the inter-guild conventions agreed at the imperial guildhall.
-- Foreign traditions. The guild regards the Vylarian armory tradition with professional respect, the [[lore-khazrynclt|Khazryn]] smithing schools with cautious interest and the traditions of the [[place-nrdlndsrgn|Nordlands Region]] with curiosity. A foreign smith working in Au'Khelathu must obtain the guild's permission to seal work, and permission is rarely granted.
+- Foreign traditions. The guild regards the Vylarian armory tradition with professional respect, the [[lore-khazrynclt|Khazryn]] smithing schools with cautious interest and the [[place-nrdlndsrgn|Nordlands traditions]] with curiosity. A foreign smith working in Au'Khelathu must obtain the guild's permission to seal work, and permission is rarely granted.
 
 ## Plot Hooks
 

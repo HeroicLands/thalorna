@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Argirira the Jackal is a lean, weather-hardened woman in her early forties, built in the wiry, fast-moving mold the [[lore-bethuanclt|Bethuan]] war-art prizes rather than the bulk of a marcher raider. She stands 5'8", dark-skinned and burned darker by the southern sun, her black hair shot with gray and bound back hard for the saddle. A long pale scar runs from her left brow to her jaw—the mark of the hunt that cost her everything and set her on the road south. She still carries herself like the spear-sister she was, upright and balanced, and she still wears, beneath marcher leathers, the habits of a woman trained from girlhood to kill with empty hands. Her dark eyes are flat and measuring, and she has the unhurried confidence of someone who has had a long time to grow comfortable with violence.
+Argirira is a lean, weather-hardened woman in her early forties, built in the wiry, fast-moving mold the [[lore-bethuanclt|Bethuan]] war-art prizes rather than the bulk of a marcher raider. She stands 5'8", dark-skinned and burned darker by the southern sun, her black hair shot with gray and bound back hard for the saddle. A long pale scar runs from her left brow to her jaw—the mark of the hunt that cost her everything and set her on the road south. She still carries herself like the spear-sister she was, upright and balanced, and she still wears, beneath marcher leathers, the habits of a woman trained from girlhood to kill with empty hands. Her dark eyes are flat and measuring, and she has the unhurried confidence of someone who has had a long time to grow comfortable with violence.
 
 # Dossier {#dossier}
 
@@ -402,7 +402,7 @@ Argirira the Jackal is a lean, weather-hardened woman in her early forties, buil
 
 ### Origin: A Daughter of the Matriarchy
 
-Argirira was born to a minor clan of the southern cantons of the [[affiliation-mtrrchybth|Matriarchy of Bethua]]—lesser nobility, but nobility, with land enough to raise a daughter to expect standing. Like the realm's other promising women she was trained young in arms and in the [Charissa]{.name data-type="skill"}, the lethal Bethuan unarmed art, and she earned a place among the [Lonkhai]{.name data-type="affiliation"}, the Spear-Sisterhood, rising to command a frontier company that patrolled the very marches she now haunts. For most of her life she was exactly what Bethua raises its women to be: armed, proud, and certain of her place in an order built around her sex. The name she was born with she no longer speaks, and will kill anyone who uses it; she threw her House away the day it threw her away, and keeps only the given name her mother gave her and the byname the marches hung on her after.
+Argirira was born to a minor clan of the southern cantons of the [[affiliation-mtrrchybth|Matriarchy of Bethua]]—lesser nobility, but nobility, with land enough to raise a daughter to expect standing. Like the realm's other promising women she was trained young in arms and in the [Charissa]{.name data-type="skill/combat"}, the lethal Bethuan unarmed art, and she earned a place among the [Lonkhai]{.name data-type="affiliation"}, the Spear-Sisterhood, rising to command a frontier company that patrolled the very marches she now haunts. For most of her life she was exactly what Bethua raises its women to be: armed, proud, and certain of her place in an order built around her sex. The name she was born with she no longer speaks, and will kill anyone who uses it; she threw her House away the day it threw her away, and keeps only the given name her mother gave her and the byname the marches hung on her after.
 
 ### The Fall
 
@@ -412,7 +412,7 @@ Her ruin came through a hunt—the same hunt that scarred her face. Years ago a 
 
 She fled south, across the frontier where the matriarchal writ runs thin, into the drier borderlands of the **[[place-sthmrchsrgn|South Marches]]**—a country of pastoral nomad peoples who pay Bethua tribute but keep their own ways, are led by men, and are warily hostile to the rich matriarchy on their northern horizon. There Argirira became something the Marches had never seen and Bethua most fears: an armed, exiled woman gathering an army of the matriarchy's other castoffs. To her came other **dispossessed Bethuan women**—disgraced, widowed, fled, or sold, every one of them stripped of House and home as she had been—and, most dangerously, a hard cadre of **exiled Spadai**, the gelded eunuch-warriors who are the only men Bethua ever trusts with steel and who, gelded and Houseless by their very nature, had even less to lose than she did. These outcasts found in Argirira a leader who shared their exile and their training, and they became the disciplined Bethuan core of her band. Around that core she hires and spends the **men of the southern Marches**—herders' sons and marcher raiders—as light horse and expendable rank-and-file.
 
-It was in those years that the byname found her. Whether the marcher clans first spat it at her as an insult—a Houseless scavenger feeding on the edges of better people's herds—or her own followers took it up in grim pride, no one now remembers; but **Argirira the Jackal** is the only name she answers to, and the warband that formed around her, [[affiliation-jcklsthmrchs|The Jackals of the South Marches]], took its name from hers. It is the most feared free company of the southern border: a brotherhood and sisterhood of the Houseless, gathered under a queen who threw her own House away.
+It was in those years that the byname found her. Whether the marcher clans first spat it at her as an insult—a Houseless scavenger feeding on the edges of better people's herds—or her own followers took it up in grim pride, no one now remembers; but **Argirira the Jackal** is the only name she answers to, and the warband that formed around her, [[affiliation-jcklsthmrchs|the Jackals]], took its name from hers. It is the most feared free company of the southern border: a brotherhood and sisterhood of the Houseless, gathered under a queen who threw her own House away.
 
 ### Skills and Abilities
 
@@ -458,7 +458,7 @@ She is not, in her own telling, a traitor or a monster but a woman who was throw
 ### Patrons of Convenience
 
 [[being-casiaveric|Kassa Verris]]
-: The intelligence officer of the [[affiliation-vylarinmpr|Vylarian Empire]] whose cut-outs have hired the Jackals to bleed away the time [[being-rshrhssfrn|Rashira of House Safiron]] needs to cross the Marches toward the frontier of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. Argirira does not know—or care—whose coin it truly is; she knows only that someone has paid her to do the thing she already meant to do.
+: The intelligence officer of the [[affiliation-vylarinmpr|Vylarian Empire]] whose cut-outs have hired the Jackals to bleed away the time [[being-rshrhssfrn|Rashira]] needs to cross the Marches toward the [[affiliation-empireakhlth|Khelathi frontier]]. Argirira does not know—or care—whose coin it truly is; she knows only that someone has paid her to do the thing she already meant to do.
 
 ### The Band
 

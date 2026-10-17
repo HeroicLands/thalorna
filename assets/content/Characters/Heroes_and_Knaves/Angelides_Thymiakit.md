@@ -417,7 +417,7 @@ sohl:
 
 ![[angldsthymkt|Fodios Thimiakit]]{float=top-left}
 
-Fodios Thimiakit stands 6'3" tall with a heavy build. He has tanned weathered skin, black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, well-defined lips, and prominent brows. He has a scar on his neck.
+Fodios stands 6'3" tall with a heavy build. He has tanned weathered skin, black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, well-defined lips, and prominent brows. He has a scar on his neck.
 
 # Dossier {#dossier}
 

@@ -246,7 +246,7 @@ The string of camels comes down the pass through the first snow, each shaggy ani
 
 # Dossier {#dossier}
 
-The Khazryn Camel is the two-humped camel of the cold desert and steppe, seven to eleven feet at the shoulder and over a thousand pounds, bred for endurance on frozen passes, wind-scoured plateaus and bitter deserts. It carries merchants and soldiers across the [[place-khzryndsrtrgn|Khazryn Desert Region]] and through the passes of [[place-graznmntns|The Grazian Mountains]]. It is more docile than the one-humped dromedary, though a frightened one is as dangerous as any hoofed animal. Herds that have gone feral hold the abandoned reaches of old trade routes.
+The Khazryn Camel is the two-humped camel of the cold desert and steppe, seven to eleven feet at the shoulder and over a thousand pounds, bred for endurance on frozen passes, wind-scoured plateaus and bitter deserts. It carries merchants and soldiers across the [[place-khzryndsrtrgn|Khazryn]] and through the passes of [[place-graznmntns|the Grazian Mountains]]. It is more docile than the one-humped dromedary, though a frightened one is as dangerous as any hoofed animal. Herds that have gone feral hold the abandoned reaches of old trade routes.
 
 ## Presentation
 

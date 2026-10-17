@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [ixbaltzakurgn], population: 18000, pac
 
 ## Overview
 
-Ne’ P’ashel, the "Water House of the Quetzal," stands at the critical junction where the highland rivers flowing from the mountain passes meet the larger river systems descending into the jungle lowlands. The city is the beating heart of trade and communication for the southern territories of the [[place-kchchkcntnnt|K'ich'chik Continent]], a cosmopolitan hub where merchants from the highlands of the [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]], jungle dwellers, and traders from distant [[affiliation-ixilankul|Ish'ilankul]] meet and negotiate. The riverside setting gives Ne’ P’ashel a unique character—constantly alive with the sound of water, the cries of boatmen, and the bustle of commercial enterprise.
+Ne’ P’ashel, the "Water House of the Quetzal," stands at the critical junction where the highland rivers flowing from the mountain passes meet the larger river systems descending into the jungle lowlands. The city is the beating heart of trade and communication for the southern territories of [[place-kchchkcntnnt|K’ich’chik]], a cosmopolitan hub where merchants from the highlands of the [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]], jungle dwellers, and traders from distant [[affiliation-ixilankul|Ish'ilankul]] meet and negotiate. The riverside setting gives Ne’ P’ashel a unique character—constantly alive with the sound of water, the cries of boatmen, and the bustle of commercial enterprise.
 
 ## Location and Geography
 

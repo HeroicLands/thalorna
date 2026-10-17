@@ -78,7 +78,7 @@ The muster is 650 men and 25 ships. The ships lie at [Jawo]{.name data-type="pla
 
 ## Relations
 
-Rinjai is sworn to the [[affiliation-shuiwojaidmn|Shuiwojai Domain]] and allied with it, and the two houses together form the Strait bloc, which wants Shuiwojai Henzo named Teng Ja. The [[affiliation-hojujaidmn|Hojujai Domain]] is the rival of Shuiwojai.
+Rinjai is sworn to [[affiliation-shuiwojaidmn|Shuiwojai]] and allied with it, and the two houses together form the Strait bloc, which wants Shuiwojai Henzo named Teng Ja. [[affiliation-hojujaidmn|Hojujai]] is the rival of Shuiwojai.
 
 ## The Prefect
 

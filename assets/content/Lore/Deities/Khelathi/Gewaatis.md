@@ -11,7 +11,7 @@ data: {packFolder: regkhdeit, culture: khelathiclt}
 
 _The Guiding Falcon—a falcon in flight with a compass rose._
 
-A priest at a shrine-station tells every caravan the same thing before it leaves: "He gives you sight, not safety. Use it." **Gewa'atis** is the god of travelers, explorers and everyone who goes into the unknown, portrayed as a great falcon soaring over the lands of [[place-worldthlrn|The World of Thalorna]], with sight keen enough to see distant horizons and obstacles hidden from anyone on the ground. His worshippers hold that he watches over merchants guiding caravans, soldiers marching into foreign country, pilgrims bound for distant temples and anyone drawn into unmapped land by curiosity or need.
+A priest at a shrine-station tells every caravan the same thing before it leaves: "He gives you sight, not safety. Use it." **Gewa'atis** is the god of travelers, explorers and everyone who goes into the unknown, portrayed as a great falcon soaring over the lands of [[place-worldthlrn|Thalorna]], with sight keen enough to see distant horizons and obstacles hidden from anyone on the ground. His worshippers hold that he watches over merchants guiding caravans, soldiers marching into foreign country, pilgrims bound for distant temples and anyone drawn into unmapped land by curiosity or need.
 
 The symbol says it twice over. The falcon sees from great height, steers the wind with precision and strikes decisively when it must. The compass rose is the human need to orient, to know direction and purpose and to find the way home from a great distance. Together they name a god who perceives the larger patterns and roads that ground-bound mortals cannot.
 

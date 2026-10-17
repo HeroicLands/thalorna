@@ -205,7 +205,7 @@ The leaf litter ahead of you is moving. It takes a moment to see that the moveme
 
 # Dossier {#dossier}
 
-The Giant Ant is a soldier ant three to five feet long, bronze-shelled, one of a colony of dozens to hundreds that nests under the floor of the [[place-cntrlrnfrsts|Central Rainforests]] and in the hot forest and river valleys of [[place-okharisrgn|Okharis Region]], and it exists to feed and defend a queen it never sees. A single soldier is a dangerous animal. A column of them is the reason the forest peoples move a village when the ground over a nest begins to hum.
+The Giant Ant is a soldier ant three to five feet long, bronze-shelled, one of a colony of dozens to hundreds that nests under the floor of the [[place-cntrlrnfrsts|Central Rainforests]] and in the hot forest and river valleys of [[place-okharisrgn|Okharis]], and it exists to feed and defend a queen it never sees. A single soldier is a dangerous animal. A column of them is the reason the forest peoples move a village when the ground over a nest begins to hum.
 
 It is met on its foraging trails, in the old stone enclosures of the savanna margin where a colony has dug in under the paving, and underground wherever a cave or a ruin is warm and damp enough.
 

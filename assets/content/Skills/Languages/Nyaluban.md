@@ -515,7 +515,7 @@ sohl:
 # terran_analog: the speculative distant connections are to the languages of sub-equatorial Africa
 ---
 
-Nyáluban Language is a tongue of the Nyáluban (isolate) family. Fluency measures the sophistication of expression in Nyáluban, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Nyáluban is a tongue of the Nyáluban (isolate) family. Fluency measures the sophistication of expression in Nyáluban, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
@@ -976,9 +976,9 @@ _Note: These examples are creations derived from phonetic patterns observed in N
 
 ## Nyáluban Lexicon {#lexicon}
 
-The five clans of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] keep no books, and this page is the nearest thing to one: the word-hoard of Nyáluban and of its [[skill-nyalbdrm|Nyáluban Drum-Speech]], the stems the griots and the drum-speakers use, what each ending and prefix makes of them, the rules a new word is built by, and the register of every name the setting gives among the five clans.
+The five clans of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] keep no books, and this page is the nearest thing to one: the word-hoard of Nyáluban and of its [[skill-nyalbdrm|Drum-Speech]], the stems the griots and the drum-speakers use, what each ending and prefix makes of them, the rules a new word is built by, and the register of every name the setting gives among the five clans.
 
-A Nyáluban noun stands in a class its prefix marks, and an ending says what a word has become: _ruwo_ is the lion, and _[Ruwozi]{.name data-type="affiliation/polity"}_ is the clan of the lion, the people who are _of_ it. A name of rank is two words, the head first and the thing it stands for after: _Nyoli Ruwozi_ is the Daughter of the Lion, and _[[lore-shorinyadty|Shorinya Ndafo]]_ is the Great Brightness.
+A Nyáluban noun stands in a class its prefix marks, and an ending says what a word has become: _ruwo_ is the lion, and _[Ruwozi]{.name data-type="affiliation/lineage"}_ is the clan of the lion, the people who are _of_ it. A name of rank is two words, the head first and the thing it stands for after: _Nyoli Ruwozi_ is the Daughter of the Lion, and _[[lore-shorinyadty|Shorinya Ndafo]]_ is the Great Brightness.
 
 The sound of Nyáluban is open and sung. Every syllable is a consonant and a vowel or a vowel alone, every word closes on a vowel, and a nasal before a stop opens many words and stands inside many more: _mb_, _nd_, _nk_, _nj_. No word has a fricative and a stop together, so none opens on _sp_, _st_ or _sk_. Pitch carries meaning, which is what lets a drum speak it; the pages mark a high tone with the acute and a low one with the grave, and neither changes the letter beneath it.
 
@@ -1032,7 +1032,7 @@ ORDER BY position
 
 ### Clan and totem
 
-Four of the five clans the [Long Pact]{.name data-type="lore/law"} binds are named for their totems with _-zi_: the lion-clan are the _Ruwozi_, the crocodile-clan the _[Kolembozi]{.name data-type="affiliation/polity"}_, the eagle-clan the _[Ngonzi]{.name data-type="affiliation/polity"}_ and the baobab-clan the _[Lobwezi]{.name data-type="affiliation/polity"}_. The leopard-clan, the _[Sengala]{.name data-type="affiliation/polity"}_, carry a name that no ending on this page reaches.
+Four of the five clans the [Long Pact]{.name data-type="lore/law"} binds are named for their totems with _-zi_: the lion-clan are the _Ruwozi_, the crocodile-clan the _[Kolembozi]{.name data-type="affiliation/lineage"}_, the eagle-clan the _[Ngonzi]{.name data-type="affiliation/lineage"}_ and the baobab-clan the _[Lobwezi]{.name data-type="affiliation/lineage"}_. The leopard-clan, the _[Sengala]{.name data-type="affiliation/lineage"}_, carry a name that no ending on this page reaches.
 
 ```sql
 SELECT form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"

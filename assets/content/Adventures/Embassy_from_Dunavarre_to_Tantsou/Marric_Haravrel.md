@@ -378,4 +378,4 @@ sohl:
 
 **Background.** Known for leadership in military settings. The retinue knows him as Sergeant-at-Arms; only the Ambassador knows him as Spymaster.
 
-**Intrigue.** Unaware that [[being-loristaravel|Loris Taravel]] knows his secret role, and is being fed false intelligence by him. His information is vital and he underestimates the subtlety the work requires.
+**Intrigue.** Unaware that [[being-loristaravel|Loris]] knows his secret role, and is being fed false intelligence by him. His information is vital and he underestimates the subtlety the work requires.

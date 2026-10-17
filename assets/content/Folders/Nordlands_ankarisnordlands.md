@@ -5,4 +5,4 @@ type: folder
 data: {parent: heroesandknavesankaris, color: "#2F4F4F"}
 ---
 
-This folder gathers the heroes and knaves of the Nordlands, the people of the [[place-nrdlndsrgn|Nordlands Region]] within the [[place-ankrscntnnt|Ankaris Continent]]. Each entry is an individual, named with a given name and a clan.
+This folder gathers the heroes and knaves of the Nordlands, the people of the [[place-nrdlndsrgn|Nordlands]] within the [[place-ankrscntnnt|Ankaris region]]. Each entry is an individual, named with a given name and a clan.

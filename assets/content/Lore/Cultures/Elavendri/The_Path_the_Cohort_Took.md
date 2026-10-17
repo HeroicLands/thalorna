@@ -17,7 +17,7 @@ data:
 
 **The Path the Cohort Took** is told in the hills of [[place-auldalon|Áuldalon]] by the tellers who sit at the drove fairs in [[place-valdun|Valdun]], under the last of the imperial milestones, which stands at the town gate. It is the hills' account of the war of the tribute ([[lore-elvtribute|The Tribute of Élavendre]]) and of the cohort that followed a path into the woods and was not seen again, and it gives an answer to what the histories leave open: which path it was, and who showed the legion that there was one. The hills say it was [Derva]{.name data-type="being/npc"}, a pony-herd's daughter of a steading on the forest margin, and that she showed it for silver and for her brother [Sevrel]{.name data-type="being/npc"}, whom the legion had taken.
 
-The tale is told in prose, in the tellers' own hill speech, and the bargain at its center is in verse and said the same way by every teller, so that a child who has heard it twice says it with the teller. The one Derva bargains with at the wood's edge is never named, and the tellers are careful to say that it was not one of the [[lore-flksinale|Sinale Folk]] but one of the deeper places ([[lore-faecourts|The Fae Courts]]), and that it came to her and she did not go looking for it. The tellers hold with the [[lore-aelendnppl|Áelendan People]] that the war-bands drew the legion to the forest margin and gave it no battle, and they put Derva at the end of that walk. They end on a question they do not settle, and the drovers' children at Valdun are sent to bed on it.
+The tale is told in prose, in the tellers' own hill speech, and the bargain at its center is in verse and said the same way by every teller, so that a child who has heard it twice says it with the teller. The one Derva bargains with at the wood's edge is never named, and the tellers are careful to say that it was not one of the [[lore-flksinale|Sinale]] but one of the deeper places ([[lore-faecourts|The Fae Courts]]), and that it came to her and she did not go looking for it. The tellers hold with the [[lore-aelendnppl|Áelendan]] that the war-bands drew the legion to the forest margin and gave it no battle, and they put Derva at the end of that walk. They end on a question they do not settle, and the drovers' children at Valdun are sent to bed on it.
 
 : The Path the Cohort Took {#tale}
 
@@ -167,5 +167,5 @@ That's the path the cohort took. Don't go looking for it. And when you go in thr
 ## See Also
 
 - [[lore-elvtribute|The Tribute of Élavendre]] · [[place-auldalon|Áuldalon]] · [[place-valdun|Valdun]]
-- [[lore-faecourts|The Fae Courts]] · [[affiliation-vylrnmltry|The Vylarian Military]] · [[lore-aelendnppl|The Áelendan]]
+- [[lore-faecourts|The Fae Courts]] · [[affiliation-vylrnmltry|the Vylarian Military]] · [[lore-aelendnppl|the Áelendan]]
 - [[lore-elavendriclt|Élavendri]] · [[lore-treelinelay|The Lay of the Tree Line]]

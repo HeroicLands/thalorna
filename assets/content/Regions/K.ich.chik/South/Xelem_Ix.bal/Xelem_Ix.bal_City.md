@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: null}
 
 ## Overview
 
-No one rules Shelem Ish'bal. The [[place-xelemixbalrgn|Shelem Ish'bal Region]], the Land of the Dead Jaguar, is the forsaken realm at the southern edge of the continent: blasted rock, ash, fields of ice, geysers of superheated water, and ruins said to lie buried beneath ice and ash. The priesthood of the [[affiliation-itzanpnthn|Itsani Pantheon]] watches over it from its threshold, at [[place-xelemchalix|Shelem Ch’alish]], the last outpost. What passes through the wastes is not trade but transformation.
+No one rules Shelem Ish'bal. The [[place-xelemixbalrgn|Shelem Ish'bal Region]], the Land of the Dead Jaguar, is the forsaken realm at the southern edge of the continent: blasted rock, ash, fields of ice, geysers of superheated water, and ruins said to lie buried beneath ice and ash. The [[affiliation-itzanpnthn|Itsani priesthood]] watches over it from its threshold, at [[place-xelemchalix|Shelem Ch’alish]], the last outpost. What passes through the wastes is not trade but transformation.
 
 ## What a Traveler Is Told
 

@@ -14,7 +14,7 @@ The students of **Theradon** argue in marble colonnades that climb terraced hill
 
 ## Who Governs
 
-The constitution is oligarchic. An assembly of the wealthiest and most educated citizens governs [[affiliation-theradon|Theradon]], and they believe themselves uniquely qualified to guide the city toward justice and virtue. The arrangement produces real intellectual achievement and real arrogance. The city's disdain for the "barbarous" lands beyond [[place-helionis|Helionis]] is barely concealed, and it is delivered politely, by people who have read more than their listener. The markets are orderly and regulated, and the temples of the [[affiliation-arldnpnthn|Aureldian Pantheon]] keep high standards of ritual propriety, but the center of the city's spiritual life is its academy, where the pursuit of wisdom is treated as a sacred duty.
+The constitution is oligarchic. An assembly of the wealthiest and most educated citizens governs [[affiliation-theradon|]], and they believe themselves uniquely qualified to guide the city toward justice and virtue. The arrangement produces real intellectual achievement and real arrogance. The city's disdain for the "barbarous" lands beyond [[place-helionis|Helionis]] is barely concealed, and it is delivered politely, by people who have read more than their listener. The markets are orderly and regulated, and the temples of the [[affiliation-arldnpnthn|Aureldian pantheon]] keep high standards of ritual propriety, but the center of the city's spiritual life is its academy, where the pursuit of wisdom is treated as a sacred duty.
 
 ## Character
 

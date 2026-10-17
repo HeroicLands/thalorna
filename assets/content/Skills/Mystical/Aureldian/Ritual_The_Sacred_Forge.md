@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-sacredforge|The Sacred Forge]]
+See [[affiliation-sacredforge|the Sacred Forge]]

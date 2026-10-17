@@ -61,11 +61,11 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Character
 
-A Halzi'a in the valley governs through clerks and leaves his troops in their barracks. The Halzi'a of Belgen-Zalu has the clerks as well, a steward for the revenue, the granaries and the labor levy and a warden for the canals, but his authority rests on the soldiers he can put in the field, because nothing lies south of him except the tribal lands. Under a strong throne he reports to the capital, and under a weak one he decides. His seat is [[place-belgen|Belgen]], where his court sits and the selat's chief temple of the [[affiliation-qeztu|Faith of Qeztu]] stands.
+A Halzi'a in the valley governs through clerks and leaves his troops in their barracks. The Halzi'a of Belgen-Zalu has the clerks as well, a steward for the revenue, the granaries and the labor levy and a warden for the canals, but his authority rests on the soldiers he can put in the field, because nothing lies south of him except the tribal lands. Under a strong throne he reports to the capital, and under a weak one he decides. His seat is [[place-belgen|Belgen]], where his court sits and the selat's chief temple of [[affiliation-qeztu|Qeztu]] stands.
 
 ## Commerce and Currency
 
-Belgen-Zalu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts, which are the figures that tell the Halzi'a how long his forts can hold. See the currency note for the full system.
+Belgen-Zalu uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts, which are the figures that tell the Halzi'a how long his forts can hold. See the currency note for the full system.
 
 ## See Also
 

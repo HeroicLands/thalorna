@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The **Enclave of Serenthale** is the community of the [[lore-flksinale|Sinale Folk]] at [[place-serenthale|Serenthale]], in the old forest of [[place-lirve|Lirve]]. Sinale have kings, queens and lords, but these do not work as human ones do, and the enclave is governed by its lord. It keeps to itself even from the [[lore-aelendnppl|Áelendan People]]; the [[affiliation-alndnwrdns|Áelendan Wardens]] patrol the approaches and do not know where the enclave lies.
+The **Enclave of Serenthale** is the community of the [[lore-flksinale|Sinale Folk]] at [[place-serenthale|Serenthale]], in the old forest of [[place-lirve|Lirve]]. Sinale have kings, queens and lords, but these do not work as human ones do, and the enclave is governed by its lord. It keeps to itself even from the [[lore-aelendnppl|Áelendan]]; the [[affiliation-alndnwrdns|Áelendan Wardens]] patrol the approaches and do not know where the enclave lies.

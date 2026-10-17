@@ -14,7 +14,7 @@ data:
   packFolder: adventures
 ---
 
-[[place-tiravellake|Lake Tiravel]] is haunted by the spirits of ancient warriors and a fallen king. The party must investigate the ghosts at the [[place-bldfldtiravlen|Blood-field of Tiravlen]], where [[being-kingvelarikiii|King Vélarik III]] fell centuries before [[lore-thefounding|The Founding]], and uncover why the dead refuse to rest.
+[[place-tiravellake|Lake Tiravel]] is haunted by the spirits of ancient warriors and a fallen king. The party must investigate the ghosts at the [[place-bldfldtiravlen|Blood-field of Tiravlen]], where [[being-kingvelarikiii|King Vélarik III]] fell centuries before [[lore-thefounding|the Founding]], and uncover why the dead refuse to rest.
 
 ## Overview
 
@@ -87,7 +87,7 @@ The party must gather information about King Vélarik III, the ancient battle, a
 - Someone actively prevents investigation (protecting a secret or desecration)
 - A party member experiences profound visions or possession attempts
 - The ghosts become more aggressive as the party's investigation advances
-- [[affiliation-ordoarcanis|Thordimalon]] or another faction shows interest in the site
+- The [[affiliation-ordoarcanis|Thordimalon]] or another faction shows interest in the site
 
 ## Stage Three: Communing with the Ghosts
 
@@ -173,7 +173,7 @@ Prevent the Returning
 - If a descendant was restored, they may become an ally or complication
 - The party's reputation grows as defenders and restorers of history
 - Ancient knowledge about [[place-provenzrgn|Provenzia Region]]'s past is revealed, affecting regional politics or religion
-- Churches of the [[affiliation-arldnpnthn|Aureldian Pantheon]] may seek to reconsecrate the site or claim authority over it
+- [[affiliation-arldnpnthn|The Aureldian Church]] may seek to reconsecrate the site or claim authority over it
 
 **If the party fails or refuses the quest:**
 

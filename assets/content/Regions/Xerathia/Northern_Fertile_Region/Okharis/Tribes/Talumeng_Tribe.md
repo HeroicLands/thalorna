@@ -59,7 +59,7 @@ sohl: {system: {commonSkills: [okharclng]}}
 
 The Táluméng Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
 [[place-talumengvlg|Táluméng Village]], one of the settled villages of
-the [[place-okharisrgn|Okharis Region]].
+[[place-okharisrgn|Okharis]].
 
 Their wealth is cattle, grazed across the open grassland in the rains and brought close to the village when the heat is hardest.
 

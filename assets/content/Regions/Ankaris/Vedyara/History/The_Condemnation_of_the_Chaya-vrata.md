@@ -45,7 +45,7 @@ By the fifth century AF a line inside the Sameja had learned to work the waking 
 
 About 470 AF the Council of the Dream, the senior council of oneiromancers that adjudicates disputed readings and keeps the tradition's registers, condemned the line, and it did something the Council had never done before: it held the condemnation open. A condemnation that is closed has been answered and is over. One held open stands until the condemned line ends, and it has not ended.
 
-The monasteries closed to the line's students at once. No monastery will seat a [[affiliation-chayavrata|Chaya-vreta]] or name one. Nobody pursues them either. The Council's ruling was that the tradition would not keep the vow, and it left the rest of the [[place-vedyarargn|Vedyara Region]] to decide what to do about the people who kept it anyway.
+The monasteries closed to the line's students at once. No monastery will seat a [[affiliation-chayavrata|Chaya-vreta]] or name one. Nobody pursues them either. The Council's ruling was that the tradition would not keep the vow, and it left the rest of [[place-vedyarargn|Vedyara]] to decide what to do about the people who kept it anyway.
 
 ## What It Left
 

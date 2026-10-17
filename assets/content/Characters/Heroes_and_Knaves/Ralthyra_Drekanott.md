@@ -413,7 +413,7 @@ sohl:
 
 ![[rlthyrdrknt|Ralthira Drekanótt]]{float=top-left}
 
-Ralthira Drekanótt stands 5'3" tall with a light build. She has fair pale skin, dark brown hair, and green eyes. Her features include an oblong face, a prominent nose, a broad chin, a slightly downturned mouth, dark brows, hollow cheeks. A distinguishing mark is a tattoo of a crescent moon on the neck.
+Ralthira stands 5'3" tall with a light build. She has fair pale skin, dark brown hair, and green eyes. Her features include an oblong face, a prominent nose, a broad chin, a slightly downturned mouth, dark brows, hollow cheeks. A distinguishing mark is a tattoo of a crescent moon on the neck.
 
 # Dossier {#dossier}
 
@@ -421,7 +421,7 @@ Ralthira Drekanótt stands 5'3" tall with a light build. She has fair pale skin,
 
 ### Early Years
 
-Ralthira was born to a fisher's family in the coastal settlements of [[place-nordheim|Nordheim]], where the howling wind and crashing waves formed the soundtrack of her childhood. When she was but seven winters old, a devastating storm claimed both her parents at sea. She was taken in by a monastery dedicated to the [[affiliation-thrunvald|Faith of Thrunvald]], where the monks recognized in her a gift for song that seemed to go beyond mortal origin. For fifteen years, she learned to weave melodies into prayers, channeling her grief into sacred music that moved even the stoniest hearts to tears. The crescent moon was marked upon her neck at her coming-of-age, a blessing and a burden both.
+Ralthira was born to a fisher's family in the coastal settlements of [[place-nordheim|Nordheim]], where the howling wind and crashing waves formed the soundtrack of her childhood. When she was but seven winters old, a devastating storm claimed both her parents at sea. She was taken in by a monastery dedicated to [[affiliation-thrunvald|Thrunvald]], where the monks recognized in her a gift for song that seemed to go beyond mortal origin. For fifteen years, she learned to weave melodies into prayers, channeling her grief into sacred music that moved even the stoniest hearts to tears. The crescent moon was marked upon her neck at her coming-of-age, a blessing and a burden both.
 
 ### The Breaking
 

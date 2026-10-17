@@ -36,4 +36,4 @@ Tanavarna Shuravana is an 84-year-old man who stands 6'1" tall with a light buil
 
 # Dossier {#dossier}
 
-Tanavarna Shuravana, addressed as Maharaj, is a celebrated craftsman of near-mythical status in the woodcraft traditions of the [[lore-vedyariclt|Vedyari]]. [[being-tmrsrytjmhnnd|Tamura Suryatejamahananda]] apprenticed under him for thirteen years in his youth, learning technique and the philosophy that every wooden creation is a covenant with future generations.
+Tanavarna Shuravana, addressed as Maharaj, is a celebrated craftsman of near-mythical status in [[lore-vedyariclt|Vedyaran woodcraft traditions]]. [[being-tmrsrytjmhnnd|Tamura Suryatejamahananda]] apprenticed under him for thirteen years in his youth, learning technique and the philosophy that every wooden creation is a covenant with future generations.

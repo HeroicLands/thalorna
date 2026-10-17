@@ -6,7 +6,7 @@ subType: reference
 data: {banner: null}
 ---
 
-Pronouncing Thalorna sets out one transcription system. None of the peoples of [[place-worldthlrn|The World of Thalorna]] write in Roman letters. Every name and word on these pages is transcribed into them by one set of rules, the same for every language, so a reader learns it once and can say any word in the setting. Where a word's own dictionary entry has more to say, it is for the curious; this guide is enough to play.
+Pronouncing Thalorna sets out one transcription system. None of the peoples of [[place-worldthlrn|the World of Thalorna]] write in Roman letters. Every name and word on these pages is transcribed into them by one set of rules, the same for every language, so a reader learns it once and can say any word in the setting. Where a word's own dictionary entry has more to say, it is for the curious; this guide is enough to play.
 
 ## Vowels
 

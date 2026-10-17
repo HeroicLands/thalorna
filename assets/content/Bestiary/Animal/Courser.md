@@ -246,7 +246,7 @@ The rider is bent low over the neck of a slim bay horse, and the pair come down 
 
 # Dossier {#dossier}
 
-The Courser is the light, fast horse of the steppe and the post-roads, fourteen to fifteen hands high and eight hundred to a thousand pounds, bred for speed and stamina rather than weight. Scouts, messengers and light cavalry ride it. Herds are bred on the grass of the [[place-khzryndsrtrgn|Khazryn Desert Region]] steppe, the horse pasture of [[place-velanthrgn|Velanthia Region]] and the plateau of [[place-byzariargn|Bizaria Region]]. It outruns a draft or war horse but lacks the weight for a charge.
+The Courser is the light, fast horse of the steppe and the post-roads, fourteen to fifteen hands high and eight hundred to a thousand pounds, bred for speed and stamina rather than weight. Scouts, messengers and light cavalry ride it. Herds are bred on the grass of the [[place-khzryndsrtrgn|Khazryn]] steppe, the horse pasture of [[place-velanthrgn|Velanthia]] and the plateau of [[place-byzariargn|Bizaria]]. It outruns a draft or war horse but lacks the weight for a charge.
 
 ## Presentation
 

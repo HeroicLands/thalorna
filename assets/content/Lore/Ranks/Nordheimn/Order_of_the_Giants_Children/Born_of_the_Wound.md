@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-The ordeal exists because [[affiliation-thursborn|The Giant's Children]] hold that a fight properly fought shares in the violence that cut the world from [[lore-hrimthurspr|Hrimthur]]'s body, so its members fight at the order's call and nowhere else, never for pay, crown, jarl or grudge: sacred strength is not for sale.
+The ordeal exists because [[affiliation-thursborn|the Giant's Children]] hold that a fight properly fought shares in the violence that cut the world from [[lore-hrimthurspr|Hrimthur]]'s body, so its members fight at the order's call and nowhere else, never for pay, crown, jarl or grudge: sacred strength is not for sale.
 
 ## What This Standing Is
 

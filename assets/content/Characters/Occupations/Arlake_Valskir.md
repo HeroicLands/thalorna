@@ -399,9 +399,9 @@ Arlake Valskir is a 38-year-old man who stands 6'1" tall and is broad and solidl
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia Region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Arlake Valskir came into the world of the animal trainer through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Arlake Valskir came into the world of the animal trainer through a combination of circumstance and aptitude.
 
-A rugged animal trainer who works with hunting dogs. Arlake has a talent for taming wild beasts and often participates in local hunts.
+A rugged animal trainer who works with hunting dogs. Braden has a talent for taming wild beasts and often participates in local hunts.
 
 ## Psyche
 

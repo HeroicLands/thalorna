@@ -7,13 +7,13 @@ description: "Leiwo, the Way of Lei—the Tantsou theory of the energy that keep
 data: {packFolder: tantsou, culture: tantsouclt}
 ---
 
-A Tanchéi lecturer opens the first lesson of the year by setting a cup of water, a candle and a stone on the table, and asking her students why each of them is still what it is. The answer she wants is [Lei]{.name data-type="lore/cosmology"}. The Philosophy of Leiwo ("spirit-sacred," usually rendered "the Way of Lei") is the body of thought through which the [[affiliation-tantsouempr|Empire of Tantsou]] explains how the cosmos works, why it holds together and what happens when it fails. It is the language beneath the empire's religion, magic, medicine and government, and a scholar, a sorcerer and a healer all reason in it.
+A Tanchéi lecturer opens the first lesson of the year by setting a cup of water, a candle and a stone on the table, and asking her students why each of them is still what it is. The answer she wants is [Lei]{.name data-type="lore/cosmology"}. Leiwo ("spirit-sacred," usually rendered "the Way of Lei") is the body of thought through which the [[affiliation-tantsouempr|Empire of Tantsou]] explains how the cosmos works, why it holds together and what happens when it fails. It is the language beneath the empire's religion, magic, medicine and government, and a scholar, a sorcerer and a healer all reason in it.
 
 Leiwo teaches that the world is sustained by Lei, the cosmic energy that runs through everything classified. Lei keeps the [Great Sorting]{.name data-type="lore/cosmology"} in force. It keeps fire burning as fire, water running as water and stone standing as stone, and without it the sorted world would dissolve back into the [Henléi]{.name data-type="lore/cosmology"}, the primordial chaos of the Unclassified.
 
 ## One Energy, Many Models
 
-The Tantsou Lei is the same cosmic force every magical tradition draws on. The [[affiliation-ordoarcanis|Thordimalon]] pictures it in elemental geometries; the [[lore-flksinale|Sinale Folk]] feel it as a living current through the natural world; the [[lore-flkkhazar|Khazár Folk]] hear it as a resonance in stone and metal. Each people builds its own mental model of one reality.
+The Tantsou Lei is the same cosmic force every magical tradition draws on. The [[affiliation-ordoarcanis|Thordimalon]] pictures it in elemental geometries; the [[lore-flksinale|Sinale]] feel it as a living current through the natural world; the [[lore-flkkhazar|Khazari]] hear it as a resonance in stone and metal. Each people builds its own mental model of one reality.
 
 The Tantsou model is administrative. Lei is the energy that keeps sorted things in their categories. The model sees some things the others miss, and it is blind where they are not.
 

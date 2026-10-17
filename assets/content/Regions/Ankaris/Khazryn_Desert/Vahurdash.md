@@ -30,7 +30,7 @@ The town is built of the reclaimed stone of the old city, and the streets are na
 
 ## The House
 
-The [House of Vahurdash]{.name data-type="affiliation/lineage"} was revived with the settlement. Its head, [Khorsád-Vahur]{.name data-type="being/npc"}, holds the title by recent acclamation of the settlers, not by ancient right, and sits on the [Council of the Princes]{.name data-type="affiliation/governmental"} as a kind of seventh among equals. The house keeps a token guard and no more. Its strength is its claim: a city given back to the desert and taken back from it, the one Tellumi city ever recovered. The [[affiliation-tribestrzd|Tribes of Atarzád]] of the central belt tolerate the settlement because it costs them nothing, pays a quiet tribute in dates, and holds the poorest ground on the rim.
+The [House of Vahurdash]{.name data-type="affiliation/lineage"} was revived with the settlement. Its head, [Khorsád-Vahur]{.name data-type="being/npc"}, holds the title by recent acclamation of the settlers, not by ancient right, and sits on the [Council of the Princes]{.name data-type="affiliation/governmental"} as a kind of seventh among equals. The house keeps a token guard and no more. Its strength is its claim: a city given back to the desert and taken back from it, the one Tellumi city ever recovered. The [[affiliation-tribestrzd|Atarzád]] of the central belt tolerate the settlement because it costs them nothing, pays a quiet tribute in dates, and holds the poorest ground on the rim.
 
 ## Hooks and Dangers
 

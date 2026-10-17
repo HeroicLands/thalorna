@@ -54,7 +54,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-A junior of The Sorvan, put on the wall of [[place-thaurzurgalis|Thaurzurgalis]] (the Guard Camp) for his first night watch, is told the one thing the guard never says aloud: "Look at the palace. You are guarding it. Now look at us. Everyone in that palace knows which of those two things could end the other. Stand straight, and remember who feeds you."
+A junior of the Sorvan, put on the wall of [[place-thaurzurgalis|Thaurzurgalis]] (the Guard Camp) for his first night watch, is told the one thing the guard never says aloud: "Look at the palace. You are guarding it. Now look at us. Everyone in that palace knows which of those two things could end the other. Stand straight, and remember who feeds you."
 
 The **Sorvan** (_"the guard"_) is the imperial guard: the personal bodyguard of the Orzas, the emperor, and the keepers of order and justice within [[place-arvon|Arvon]] (the Inner City of [[place-orzara|Orzara City]]) itself. It stands apart from the [[affiliation-vylrnmltry|line legions]] in every way that matters. It recruits on its own authority, promotes through its own ranks, answers to no Dukran or Kamdor but to the throne directly, and is quartered not in a frontier camp but in the [[place-thaurzurgalis|Thaurzurgalis]] on the palace hill, the one fortress inside the **[Inner Wall]{.name data-type="place/structure"}**. It is elite, lavishly equipped and intensely political: the armed muscle of the court, and the instrument through which the Orzas makes his grip on his own capital physical.
 
@@ -105,7 +105,7 @@ The court factions
 
 A guardsman in full harness is unmistakable, and meant to be. The guard wears armor far richer than any line legion's, burnished and gilded and worked with the imperial _orkaima_, and it is meant to be seen on the walls and at the palace gates as a standing display of the throne's wealth and reach. Their standards and liveries set them visibly apart from the field army.
 
-The captaincy of the permanent palace detail is among the most trusted postings in the empire. Its holder shares with the Imperial _Tarkelos_ (treasury officer) and the _holrozimos_ (chief auditor) of [[affiliation-tarmex|The Tarmeks Orzan]] the securing of the imperial strongroom.
+The captaincy of the permanent palace detail is among the most trusted postings in the empire. Its holder shares with the Imperial _Tarkelos_ (treasury officer) and the _holrozimos_ (chief auditor) of [[affiliation-tarmex|the Tarmeks]] the securing of the imperial strongroom.
 
 ## Plot Hooks
 

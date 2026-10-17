@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-The [[affiliation-nahild|Faith of Nahild]] lives on silence: hers is the one worship the pantheon itself holds heretical, her clergy are suppressed in every kingdom and her hovs are kept hidden. Of everything a member can do, giving the cult away ends them fastest.
+The [[affiliation-nahild|cult of Nahild]] lives on silence: hers is the one worship the pantheon itself holds heretical, her clergy are suppressed in every kingdom and her hovs are kept hidden. Of everything a member can do, giving the cult away ends them fastest.
 
 ## What This Standing Is
 

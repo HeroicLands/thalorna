@@ -135,19 +135,19 @@ Government
 
 ## Overview
 
-The Kingdom of Asturath is the mountainous heartland of the [[place-tarvenirgn|Tarvénia Region]] and the spiritual core of Tarvenan independence. Its fortress-towns cling to steep mountain valleys and high plateaus in the interior ranges, and its lords have never been conquered—not by the [[affiliation-vylarinmpr|Vylarian Empire]], not by anyone. The High King of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] is traditionally (though not always) drawn from the Astúrathi nobility, and the kingdom considers itself the keeper of the true Tarvenan warrior tradition. The kingdom holds the land of [[place-asturath|Asturath]].
+Asturath is the mountainous heartland of the [[place-tarvenirgn|Tarvénia Region]] and the spiritual core of Tarvenan independence. Its fortress-towns cling to steep mountain valleys and high plateaus in the interior ranges, and its lords have never been conquered—not by the [[affiliation-vylarinmpr|Vylarian Empire]], not by anyone. The High King of [[affiliation-kingdmtrvn|Tarvénia]] is traditionally (though not always) drawn from the Astúrathi nobility, and the kingdom considers itself the keeper of the true Tarvenan warrior tradition. The kingdom holds the land of [[place-asturath|Asturath]].
 
 ## Character
 
 Asturath is the most martial and conservative of the Tarvenan regions. Its people are mountain folk—tough, proud, and deeply attached to the old ways. The kingdom's lords rule from fortified hilltop castles, and the social order is built on bonds of personal loyalty between lord and retainer rather than bureaucratic administration. Every free man is expected to bear arms, and the mountain clans maintain a warrior readiness that borders on paranoia.
 
-Invading armies that have ventured into Asturath's mountains have universally regretted it. The Vylarian legions, after several disastrous campaigns, the worst of them lost in [[lore-horngorgebtl|The Battle of the Horn Gorge]] about 143 AF, settled for holding the lowland approaches and leaving the mountains alone—a fact the Astúrathi have never tired of celebrating.
+Invading armies that have ventured into Asturath's mountains have universally regretted it. The Vylarian legions, after several disastrous campaigns, the worst of them lost in [[lore-horngorgebtl|the Horn Gorge]] about 143 AF, settled for holding the lowland approaches and leaving the mountains alone—a fact the Astúrathi have never tired of celebrating.
 
 The council of mountain lords meets here to elect a new High King when the throne falls vacant, a process that is equal parts solemn ceremony and bare-knuckle political brawl. The first election, of [Garvaneth]{.name data-type="being/npc"} of Asturath about 540 AF, drove the garrisons out ([[lore-tarvfallsawy|Tarvénia Falls Away]]).
 
 ## Commerce and Currency
 
-The Kingdom of Asturath uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under [[affiliation-tevran|The Tevran Maldor]]. The Kingdom of Asturath is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Kingdom of Asturath uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Asturath is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

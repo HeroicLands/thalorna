@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-A Drottmadr, a newly admitted devotee of a devotional order, is in: he does the order's work now, under its authority, and he does not speak for it yet.
+A newly admitted devotee of a devotional order, is in: he does the order's work now, under its authority, and he does not speak for it yet.
 
 ## What This Standing Is
 
@@ -32,4 +32,4 @@ None recorded.
 
 ## Where This Standing Is Held
 
-The devotional orders of the faiths of the [[affiliation-asguardian|Asguardian Pantheon]] that confer this standing. Each order gives it the obligations of its own devotion; it is standing within that order, rather than authority over the other orders.
+The devotional orders of the faiths of the [[affiliation-asguardian|Ten]] that confer this standing. Each order gives it the obligations of its own devotion; it is standing within that order, rather than authority over the other orders.

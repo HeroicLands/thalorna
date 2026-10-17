@@ -396,7 +396,7 @@ Mentra Keramyes is a 27-year-old woman who stands 5'10" tall and is slender. She
 
 # Dossier {#dossier}
 
-Mentra Keramyes is a glassworker of [[place-belekos|Belekos]], the city of the merchant houses in the [[place-alyssa|Alessa]] country of [[place-vylariargn|Vylaria Region]], a [[lore-vylarianclt|Vylarian]] freewoman who makes colored windows and colored glass for houses that buy art to be seen buying it.
+Mentra Keramyes is a glassworker of [[place-belekos|Belekos]], the city of the merchant houses in the [[place-alyssa|Alessa]] country of [[place-vylariargn|Vylaria]], a [[lore-vylarianclt|Vylarian]] freewoman who makes colored windows and colored glass for houses that buy art to be seen buying it.
 
 Mentra went into a glasshouse at fourteen because her family needed her wage, and stayed because she found she could see color in a way the masters could not. She served the guild's seven years and came out with her seal and a name for windows nobody had seen before: patterns of her own, and colors laid against each other in ways the trade holds to be wrong and the buyers hold to be beautiful. In Belekos that is a living. The great merchant houses collect art because patronage is how a house shows its weight, and a window no rival house has is worth more to such a house than a window the temples approve. Her mother and sisters eat on what the houses pay.
 

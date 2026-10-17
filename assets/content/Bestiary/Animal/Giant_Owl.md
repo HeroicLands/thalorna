@@ -250,7 +250,7 @@ The dog went quiet first, and now you understand why. There was no sound. There 
 
 # Dossier {#dossier}
 
-The Giant Owl is the great owl of the northern forests, with a wingspan of twenty-five feet and a flight that makes no sound at all, which hunts the old woods of [[place-vrystwald|Vristwald]] and the spruce forest behind the [[place-nrdlndsrgn|Nordlands Region]] fjords by night and sleeps in a hollow trunk or a cliff-cave by day. It takes hares, foxes, fawns, lynx, goats and dogs, and a man alone on a forest path after dark, and it is the one hunter of the north that a traveler does not hear coming. The [[lore-varokhiclt|Varokhi]] keep it as a wesk, and the shamans of the owl villages read its calls.
+The Giant Owl is the great owl of the northern forests, with a wingspan of twenty-five feet and a flight that makes no sound at all, which hunts the old woods of [[place-vrystwald|Vristwald]] and the spruce forest behind the [[place-nrdlndsrgn|Nordlands]] fjords by night and sleeps in a hollow trunk or a cliff-cave by day. It takes hares, foxes, fawns, lynx, goats and dogs, and a man alone on a forest path after dark, and it is the one hunter of the north that a traveler does not hear coming. The [[lore-varokhiclt|Varokh]] keep it as a wesk, and the shamans of the owl villages read its calls.
 
 ## Presentation
 

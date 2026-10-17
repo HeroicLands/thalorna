@@ -9,8 +9,8 @@ tags: [city, port, coastal]
 data: {demonym: null, lore: [], parents: [korvathis], population: 45000, packFolder: provenzia}
 ---
 
-**Válaren City** stands on the warm southern shore, on the [[place-vylarianse|Vylarian Sea]], and is the
-city outsiders mean when they say [[place-provenzrgn|Provenzia Region]]: some forty-five thousand people, white stone and shuttered
+**Válaren** stands on the warm southern shore, on the [[place-vylarianse|Vylarian Sea]], and is the
+city outsiders mean when they say [[place-provenzrgn|Provenzia]]: some forty-five thousand people, white stone and shuttered
 galleries, a harbor crowded with Vylarian shipping, and a manner so polished that other Provenzians
 find it exhausting.
 
@@ -26,7 +26,7 @@ manuscripts, and an appetite for the rare and perishable that supports whole tra
 **Zuravlen peaches** command absurd prices on Válaren tables, and always have; the fast boats out of
 [[place-volsather|Volsater]] exist because Válaren will pay.
 
-A Válaren merchant regards [[place-batarencity|Bataren City]] as a cold northern outpost of no consequence
+A Válaren merchant regards [[place-batarencity|Bataren]] as a cold northern outpost of no consequence
 and the western march as a place wool comes from. Both opinions are returned with interest.
 
 ## The Vulnerability

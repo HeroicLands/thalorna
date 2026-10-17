@@ -12,11 +12,11 @@ The Sun's Road is the age in which the capital was drawn. Everything a visitor t
 
 ## What Happened
 
-The age opens in 1006 ST (1105 BF), when the court leaves the Great Land of [[place-zugernome|Zu-Ger]] and crosses to the mound of [[place-yathtelgu|Yath-Telgu]] ([[lore-crossmound|The Crossing to the Mound]]). Its first Gar-Au, [Anlagh'el'Qar I]{.name data-type="being/npc"} of the house of [Zu'Amqeletu]{.name data-type="affiliation/lineage"}, lays the road out on the solstice line and proclaims the law that nothing may stand in the sightline between the temple and the horizon. The law has outlasted every house that has ruled since. [[place-zugezer|Zu-Gezer]] opens across the river as the necropolis of the houses that rule from the mound, and the first crossing-road is cut off the death-road.
+The age opens in 1006 ST (1105 BF), when the court leaves the Great Land of [[place-zugernome|Zu-Ger]] and crosses to the mound of [[place-yathtelgu|Yath-Telgu]] ([[lore-crossmound|the Crossing to the Mound]]). Its first Gar-Au, [Anlagh'el'Qar I]{.name data-type="being/npc"} of the house of [Zu'Amqeletu]{.name data-type="affiliation/lineage"}, lays the road out on the solstice line and proclaims the law that nothing may stand in the sightline between the temple and the horizon. The law has outlasted every house that has ruled since. [[place-zugezer|Zu-Gezer]] opens across the river as the necropolis of the houses that rule from the mound, and the first crossing-road is cut off the death-road.
 
 Nine houses rule from Galezkara in the age, in forty-one reigns. The list begins to read like a real succession: the lengths are ones a life can hold, and the reigns overlap as real ones do, because a new Gar-Au is crowned in the year the old one dies. The Keepers hold the copy they have and not the tablets it was made from, so a name or a length in this age is quoted as "the list gives."
 
-The city grows on the road. The oldest quarters pile up on [[place-zuleri|Zu-Leri]], the High City, and the first houses' kin-tombs go in among the streets that later become [[place-zelnut|The Zelnut]]. An arm of the river that ran through the High City silts up and dies in these centuries, and the channel it leaves is [[place-waligelu|Wal-Igelu]], the Drowned Way. The monuments of the age are kept gleaming by the restoration guilds, which is the age's character: nothing it built has been allowed to look old.
+The city grows on the road. The oldest quarters pile up on [[place-zuleri|Zu-Leri]], the High City, and the first houses' kin-tombs go in among the streets that later become [[place-zelnut|the Zelnut]]. An arm of the river that ran through the High City silts up and dies in these centuries, and the channel it leaves is [[place-waligelu|Wal-Igelu]], the Drowned Way. The monuments of the age are kept gleaming by the restoration guilds, which is the age's character: nothing it built has been allowed to look old.
 
 ## Rulers
 
@@ -25,11 +25,11 @@ The city grows on the road. The oldest quarters pile up on [[place-zuleri|Zu-Ler
 
 ## Its End
 
-The age closes without a catastrophe. Houses rise upriver, and in 1390 ST (721 BF) the list passes to the seven houses of [[lore-akhdivriver|The Divided River]], one of which will rule from [[place-lenennezut|Lenen-Nezut]]. The throne has begun to move.
+The age closes without a catastrophe. Houses rise upriver, and in 1390 ST (721 BF) the list passes to the seven houses of [[lore-akhdivriver|the Divided River]], one of which will rule from [[place-lenennezut|Lenen-Nezut]]. The throne has begun to move.
 
 ## See Also
 
-[[lore-akhfirsttab|The First Tablets]] · [[lore-akhdivriver|The Divided River]]
+[[lore-akhfirsttab|The First Tablets]] · [[lore-akhdivriver|the Divided River]]
 : the ages on either side
 
 [[lore-garauu|Gar-Auu]]

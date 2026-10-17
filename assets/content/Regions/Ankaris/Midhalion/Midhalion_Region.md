@@ -15,7 +15,7 @@ data:
 # terran_analog: "The Mediterranean basin—a cross-continental constellation of polities ringing the Vylarian Sea, with the Vylarian heartland centered on the Italian peninsula and Adriatic east, Taruzel on the Levantine coast (Israel and Lebanon), Hellad on the Aegean, and the southern shore in Zerathia."
 ---
 
-The Mídhalión Region is the world around one sea. It is no nation and no continuous territory but the lands that ring the [[place-vylarianse|Vylarian Sea]], bound together by maritime trade, by the legacy of the [[affiliation-vylarinmpr|Vylarian Empire]], and by three thousand years of trading, fighting and marrying across the water. It is the only region of [[place-worldthlrn|The World of Thalorna]] that spans two continents, joining the northern shore of the [[place-ankrscntnnt|Ankaris Continent]] to the northern shore of [[place-xerathia|Zerathia]] in a single economy whose ports are tied more tightly to one another than to the interiors of their own continents. An outsider remembers it for its ports: the densest trade in the world, and a market where every faith and coin of the known world changes hands.
+Mídhalión is the world around one sea. It is no nation and no continuous territory but the lands that ring the [[place-vylarianse|Vylarian Sea]], bound together by maritime trade, by the legacy of the [[affiliation-vylarinmpr|Vylarian Empire]], and by three thousand years of trading, fighting and marrying across the water. It is the only region of [[place-worldthlrn|Thalorna]] that spans two continents, joining the northern shore of [[place-ankrscntnnt|Ankaris]] to the northern shore of [[place-xerathia|Zerathia]] in a single economy whose ports are tied more tightly to one another than to the interiors of their own continents. An outsider remembers it for its ports: the densest trade in the world, and a market where every faith and coin of the known world changes hands.
 
 A supercargo who has ridden merchant hulls along both shores puts it to a newcomer this way: "Every people on this sea will tell you what Mídhalión is, and every one of them is answering a different question. A Vylarian means the core of his empire, where the fight over who inherits it is still going on. A Taruzeli means the market his people finally won the right to trade in as equals and not as subjects. A Khelathi priest means a market his temples have used for three thousand years and expect to use for a thousand more, whoever wins up north. A Helionite philosopher means a laboratory for every way people have found to govern and to worship. Learn all four answers before you sign a contract with any of them."
 
@@ -29,7 +29,7 @@ The region takes its shape from the Vylarian Sea and the coasts that enclose it.
 
 These polities share no sovereign, no law and no faith. What they share is the sea, and three millennia of commerce and quarrel across it are what make Mídhalión one place.
 
-Behind the ports lie the hinterlands that feed them: the farmland and vineyards of the Vylarian peninsula, the olive groves and terraces of [[place-helionis|Helionis]], the great river of the [[place-aukhelathrgq|Au'Khelathu Region]], the dryland farms of the Taruzelian islands, and the grain belts of the [[place-bethuargn|Bethua Region]]. The region lives on the harvests of its shores and on the long-distance trade that carries those harvests, with the manufactures and luxuries of a dozen civilizations, across the water.
+Behind the ports lie the hinterlands that feed them: the farmland and vineyards of the Vylarian peninsula, the olive groves and terraces of [[place-helionis|Helionis]], the great river of [[place-aukhelathrgq|Au'Khelathu]], the dryland farms of the Taruzelian islands, and the grain belts of [[place-bethuargn|Bethua]]. The region lives on the harvests of its shores and on the long-distance trade that carries those harvests, with the manufactures and luxuries of a dozen civilizations, across the water.
 
 ## Peoples and Culture
 
@@ -54,11 +54,11 @@ The region's politics are the long decline of the [[affiliation-vylarinmpr|Vylar
 - **[[affiliation-kingdmtrvn|Tarvénia]]** guards its sovereignty with particular ferocity.
 - **The southern powers**—[[affiliation-empireakhlth|Au'Khelathu]], [[affiliation-okharis|Okharis]] and [[affiliation-mtrrchybth|Bethua]]—watch the northern struggle with ancient patience or opportunism by turns. Each is older than Vylaria, and each reckons that whatever northern power comes out on top will need its trade.
 
-[[affiliation-ordoarcanis|Thordimalon]] is the one institution that crosses every northern border. It keeps chapters from Vylaria to Taruzel to Helionis and claims a continent-wide monopoly on sanctioned arcane practice. Its reach across the water is weak: Au'Khelathu and Okharis have mature magical traditions of their own and have never granted the Arcane Order a foothold. That asymmetry is a standing source of friction, and the southern shore's arcane self-sufficiency is part of why the Arcane Order's northern monopoly cannot grow past the sea.
+The [[affiliation-ordoarcanis|Thordimalon]] is the one institution that crosses every northern border. It keeps chapters from Vylaria to Taruzel to Helionis and claims a continent-wide monopoly on sanctioned arcane practice. Its reach across the water is weak: Au'Khelathu and Okharis have mature magical traditions of their own and have never granted the Arcane Order a foothold. That asymmetry is a standing source of friction, and the southern shore's arcane self-sufficiency is part of why the Arcane Order's northern monopoly cannot grow past the sea.
 
 ## Trade
 
-Mídhalión is the densest trading economy in Thalorna, and its commerce runs on several clocks at once: daily fishing and coastal hauling from port to port, seasonal shipments of grain and wine, and the annual long-distance exchange that brings silks and spices from the far east to Aureldian courts. The common trade language is the [[skill-valtarlng|Valtari Language]], a pidgin built on the [[skill-vylarilng|Vylari Language]], the [[skill-helonclng|Helonic Language]] and the [[skill-taruzelilng|Taruzeli Language]] and understood in every significant port.
+Mídhalión is the densest trading economy in Thalorna, and its commerce runs on several clocks at once: daily fishing and coastal hauling from port to port, seasonal shipments of grain and wine, and the annual long-distance exchange that brings silks and spices from the far east to Aureldian courts. The common trade language is [[skill-valtarlng|Valtari]], a pidgin built on the [[skill-vylarilng|Vylari Language]], the [[skill-helonclng|Helonic Language]] and the [[skill-taruzelilng|Taruzeli Language]] and understood in every significant port.
 
 Every major class of goods in Thalorna moves through the region:
 
@@ -75,11 +75,11 @@ All of it is taxed, transshipped and marked up on the way, and the port cities a
 
 ## Relations with Neighboring Regions
 
-Mídhalión touches every other major region of Ankaris. It fronts the [[place-aureldirgn|Aureldian]] heartlands to the northwest, the [[place-velanthrgn|Velanthia Region]] to the north beyond Hellád's uplands, the [[place-khzryndsrtrgn|Khazryn Desert Region]] to the northeast, and the [[place-dunharargn|Dunhara Region]], whose Kingdom of Amradad holds the eastern shore, and the [[place-vedyarargn|Vedyara Region]] to the east. Through the Bizarian League and the Khazryn it reaches the far-eastern [[affiliation-tantsouempr|Empire of Tantsou]]. Through the western strait it reaches [[affiliation-kalihara|Kalihara]] and, in principle, the [[place-kchchkcntnnt|K'ich'chik Continent]] and the southern continents.
+Mídhalión touches every other major region of Ankaris. It fronts the [[place-aureldirgn|Aureldian]] heartlands to the northwest, [[place-velanthrgn|Velanthia]] to the north beyond Hellád's uplands, the [[place-khzryndsrtrgn|Khazryn]] to the northeast, and [[place-dunharargn|Dunhara]], whose Kingdom of Amradad holds the eastern shore, and [[place-vedyarargn|Vedyara]] to the east. Through the Bizarian League and the Khazryn it reaches the far-eastern [[affiliation-tantsouempr|empire of Tantsou]]. Through the western strait it reaches [[affiliation-kalihara|Kalihara]] and, in principle, [[place-kchchkcntnnt|K'ich'chik]] and the southern continents.
 
 ## Reckoning
 
-Mídhalión dates by [[lore-commoncal|The Vylarian Calendar]]: years counted After the Founding (AF) and Before the Founding (BF) of the [[affiliation-vylarinmpr|Vylarian Empire]], kept across the empire's former and present sphere.
+Mídhalión dates by [[lore-commoncal|the Vylarian Calendar]]: years counted After the Founding (AF) and Before the Founding (BF) of the [[affiliation-vylarinmpr|Vylarian Empire]], kept across the empire's former and present sphere.
 
 ## See Also
 

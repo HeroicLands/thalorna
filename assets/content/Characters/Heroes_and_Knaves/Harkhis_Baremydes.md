@@ -423,7 +423,7 @@ sohl:
 
 ![[hrkhsbrmyds|Harkis Baremides]]{float=top-left}
 
-Harkis Baremides stands 5'8" tall with a medium build. He has light ruddy skin, grey hair, and green eyes. His features include an oblong face, an aquiline nose, a pointed chin, full lips, and heavy brows. He has a scar on his left calf.
+Harkis stands 5'8" tall with a medium build. He has light ruddy skin, grey hair, and green eyes. His features include an oblong face, an aquiline nose, a pointed chin, full lips, and heavy brows. He has a scar on his left calf.
 
 # Dossier {#dossier}
 
@@ -431,7 +431,7 @@ Harkis Baremides stands 5'8" tall with a medium build. He has light ruddy skin, 
 
 ### The Healer's Apprentice
 
-Harkis was born into moderate means at the center of the [[affiliation-vylarinmpr|Vylarian Empire]], to parents of the merchant class with interests in trade in exotic herbs and spices. His mother, a woman named [Amora]{.name data-type="being/npc"}, possessed real knowledge of herbal medicine and shared her interests with her intelligent youngest son. Where his siblings followed the ordinary merchant's path, Harkis became absorbed in the deeper mysteries of his mother's work—the understanding that the same substance that heals in small doses becomes poison in larger quantities, and that the boundary between remedy and toxin is a matter of precise measurement.
+Harkis was born into moderate means at the center of [[affiliation-vylarinmpr|Vylaria's empire]], to parents of the merchant class with interests in trade in exotic herbs and spices. His mother, a woman named [Amora]{.name data-type="being/npc"}, possessed real knowledge of herbal medicine and shared her interests with her intelligent youngest son. Where his siblings followed the ordinary merchant's path, Harkis became absorbed in the deeper mysteries of his mother's work—the understanding that the same substance that heals in small doses becomes poison in larger quantities, and that the boundary between remedy and toxin is a matter of precise measurement.
 
 At sixteen years old, he was apprenticed to Master [Kehdaan]{.name data-type="being/npc"}, one of the Empire's most respected apothecaries, working in an official shop located in Vylaria's primary administrative district. For twelve years, Harkis learned legitimate medicine, earning his guild standing and beginning to build a respectable reputation as a skilled practitioner of the herbal art. He married, had two children, lived a life that seemed destined for quiet prosperity.
 
@@ -504,7 +504,7 @@ Vulnerability to Manipulation
 [The Crimson Order]{.name data-type="affiliation/criminal"}
 : A well-organized criminal brotherhood operating throughout Vylaria; they maintain standing contract for Harkis' exclusive services and provide security in exchange for his availability
 
-Merchant Prince [[being-kiramostalot|Kiramos Talothates]]
+Merchant Prince [[being-kiramostalot|Kiramos]]
 : An ambiguous figure who may be legitimate or criminal (Harkis is uncertain); he contracts Harkis for exotic poisons and antidotes and seems to move easily between legitimate and shadow economies
 
 [The Master Healer's Guild]{.name data-type="affiliation/guild"} (Covertly)
@@ -512,7 +512,7 @@ Merchant Prince [[being-kiramostalot|Kiramos Talothates]]
 
 ### Enemies
 
-Commander [[being-kholsamelint|Kolsame Linthimis]] of the [City Watch]{.name data-type="affiliation"}
+Commander [[being-kholsamelint|Kolsame]] of the [City Watch]{.name data-type="affiliation"}
 : The official responsible for investigating underground apothecary operations; she views Harkis as a personal obsession and has dedicated significant resources to apprehending him
 
 [The Violet Syndicate]{.name data-type="affiliation/criminal"}

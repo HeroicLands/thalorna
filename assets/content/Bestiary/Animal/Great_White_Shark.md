@@ -198,7 +198,7 @@ The seal colony on the skerry has stopped barking. Every animal is crowded to th
 
 # Dossier {#dossier}
 
-The Great White Shark is the largest of the sharks, over twenty feet and several tons, a lone hunter of the cold and temperate seas. It follows the seal colonies and whale grounds off the fjord coast of the [[place-nrdlndsrgn|Nordlands Region]], the open [[place-vylarianse|Vylarian Sea]] and the western ocean, in shallow water and deep, and kills whatever enters its range. A single shark may be seen once in a lifetime in any given bay, and an encounter at sea or in the water is rarely survived.
+The Great White Shark is the largest of the sharks, over twenty feet and several tons, a lone hunter of the cold and temperate seas. It follows the seal colonies and whale grounds off the fjord coast of the [[place-nrdlndsrgn|Nordlands]], the open [[place-vylarianse|Vylarian Sea]] and the western ocean, in shallow water and deep, and kills whatever enters its range. A single shark may be seen once in a lifetime in any given bay, and an encounter at sea or in the water is rarely survived.
 
 ## Presentation
 

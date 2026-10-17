@@ -415,7 +415,7 @@ sohl:
 
 ![[raiaquuznera|Raiaku Uzner'Au]]{float=top-left}
 
-Raiaku Uzner'Au stands 6'0" tall with a heavy build. He has ebony skin, greying black hair, and brown eyes. His features include a diamond-shaped face, a slightly arched nose, a narrow chin, well-shaped lips, and arched brows.
+Raiaku stands 6'0" tall with a heavy build. He has ebony skin, greying black hair, and brown eyes. His features include a diamond-shaped face, a slightly arched nose, a narrow chin, well-shaped lips, and arched brows.
 
 # Dossier {#dossier}
 
@@ -455,7 +455,7 @@ Deep Knowledge
 : Beyond metalcraft, Raiaku possesses deep knowledge of geology, mineral composition, weapon design principles, and the historical techniques of ancient masters—knowledge accumulated across five decades of intensive study.
 
 Ritual Expertise
-: His devotion to the [[affiliation-uznera|Faith of Uzn'era]] has made him skilled in ceremonial craft and ritual metalworking; weapons blessed through his hands are said to carry divine favor.
+: His devotion to [[affiliation-uznera|Uzn'era]] has made him skilled in ceremonial craft and ritual metalworking; weapons blessed through his hands are said to carry divine favor.
 
 Leadership and Command
 : Despite his age, Raiaku commands immediate respect and loyalty from those in his sphere, acting as a moral anchor and arbiter in disputes among craftspeople.
@@ -481,7 +481,7 @@ Vulnerability to Manipulation
 
 ### Patrons
 
-Lord Commander [[being-gariazletqut|Gari Azlet'Kutu]]
+Lord Commander [[being-gariazletqut|Gari]]
 : The military's chief weapons officer who commissions custom arms for elite guard units and prestigious officer candidates. He trusts Raiaku implicitly and often vouches for the smith's uncompromising standards to impatient nobles.
 
 The [[affiliation-gargulthaket|Gar-Gul'Thakétu]]

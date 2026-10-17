@@ -94,7 +94,7 @@ The market peace takes its present form from that day. A killing at Waldburg's m
 
 - **The Frithmund's stone.** The ringed stone in the Waldburg market where the killer was answered and the peace is sworn. A killing at the stone during a muster would set the market's law against the muster's, and Waldburg's old people say it has never happened, which is not the same as saying it never will.
 - **Waldburg's size.** A village of eight hundred whose triad is strained by everything it is asked, and which the upriver villages suspect of becoming something more than a village.
-- **The rivers.** The forest's one road to the world, which carries furs, amber and people down the same water in the same boats. The irony that the Varokh, descended in part from the [Varkhad]{.name data-type="lore/folk"} who drove the [[lore-pelwarpepl|Pelwar People]] off the mainland, now sell displaced people down the same rivers is one the forest has never had a reason to notice.
+- **The rivers.** The forest's one road to the world, which carries furs, amber and people down the same water in the same boats. The irony that the Varokh, descended in part from the [Varkhad]{.name data-type="lore/folk"} who drove the [[lore-pelwarpepl|Pelwar]] off the mainland, now sell displaced people down the same rivers is one the forest has never had a reason to notice.
 
 ## See Also
 

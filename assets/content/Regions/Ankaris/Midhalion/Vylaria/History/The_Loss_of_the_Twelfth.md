@@ -70,17 +70,17 @@ data:
       unresolved: [who raised the Twelfth's dead, where the Twelfth's eagle lies]
 ---
 
-In The Loss of the Twelfth, a mule-train master at the first camp below a pass of the [Kervaron Spine]{.name data-type="place/feature"}, accepting the passage-gift from a factor's steward, checks the weight of the bag and does not count it. "The [Doran Hilvan]{.name data-type="affiliation"}, the Twelfth, is why," he says, if he is asked why the gift is never haggled. "Before it, [[affiliation-seldan|Seldan]], the Senate, sent men up to read the stones to us. After it, the Senate sent grain merchants, and we let them through."
+A mule-train master at the first camp below a pass of the [Kervaron Spine]{.name data-type="place/feature"}, accepting the passage-gift from a factor's steward, checks the weight of the bag and does not count it. "The [Doran Hilvan]{.name data-type="affiliation"}, the Twelfth, is why," he says, if he is asked why the gift is never haggled. "Before it, [[affiliation-seldan|Seldan]], the Senate, sent men up to read the stones to us. After it, the Senate sent grain merchants, and we let them through."
 
 ## A Council Tries the Range
 
-The chancery had said nothing to the clans of the Kervaron since [[lore-crownssettle|The Settlement of the Crowns]]. The boundary-stones the western expeditions had planted at the passes stood where the western expeditions had set them ([[lore-westernwars|The Western Wars]]), and the clans treated them as ritual objects of obscure meaning.
+The chancery had said nothing to the clans of the Kervaron since [[lore-crownssettle|the Settlement of the Crowns]]. The boundary-stones the western expeditions had planted at the passes stood where the western expeditions had set them ([[lore-westernwars|The Western Wars]]), and the clans treated them as ritual objects of obscure meaning.
 
-About 680, under a regency, the regent's council wanted a victory it could show the Senate. It chose the one boundary the [[affiliation-vylarinmpr|Vylarian Empire]] claimed and had never held, and it sent the Doran Hilvan to read the stones to the clans. The chancery was not asked. The legion marched in the thaw.
+About 680, under a regency, the regent's council wanted a victory it could show the Senate. It chose the one boundary the [[affiliation-vylarinmpr|Empire]] claimed and had never held, and it sent the Doran Hilvan to read the stones to the clans. The chancery was not asked. The legion marched in the thaw.
 
 ## The Mountain
 
-The [[lore-aelendnppl|Áelendan People]] had met such columns before. They let the Twelfth climb deep into the range, as they had let the columns of the western wars, and they closed the passes behind it. They did not give battle. The legion left its rear cohorts in a fort it built at the foot of the passes and took the rest up through the summer, and it ran out of road when the snow came.
+The [[lore-aelendnppl|Áelendan]] had met such columns before. They let the Twelfth climb deep into the range, as they had let the columns of the western wars, and they closed the passes behind it. They did not give battle. The legion left its rear cohorts in a fort it built at the foot of the passes and took the rest up through the summer, and it ran out of road when the snow came.
 
 The record the army keeps says the Twelfth was destroyed. The cohorts in the fort wintered there, and what became of them is not in any report ([[place-twelfthcamp|The Twelfth's Last Camp]]). The eagle never came back. The army struck the legion from the rolls, as the manual requires of a legion that loses its _orkaima_, and the families whose sons were cashiered in the disbanding have not forgotten it.
 
@@ -88,7 +88,7 @@ The record the army keeps says the Twelfth was destroyed. The cohorts in the for
 
 - **The passage-gift.** Merchants pay it at the first camp without question, and the chancery has not raised the range since.
 - **The Twelfth's Last Camp.** A ruin on the Vylarian side of the passes, recently cleared of the undead by a border patrol.
-- **The missing eagle.** The families of the disbanded Twelfth want it found, and the legions raised in its place want it left where it is ([[affiliation-vylrnmltry|The Vylarian Military]]).
+- **The missing eagle.** The families of the disbanded Twelfth want it found, and the legions raised in its place want it left where it is ([[affiliation-vylrnmltry|Vylarian Military]]).
 
 ## See Also
 

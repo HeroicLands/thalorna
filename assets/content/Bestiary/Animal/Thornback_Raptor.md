@@ -257,7 +257,7 @@ A pack hunts at twilight and through the night under the direction of its leadin
 
 ## What the Herders Do
 
-The savannah's hunter-herders know the ruins, and do not talk about them to outsiders; the intermediaries of the [[place-cntrlrnfrsts|Central Rainforests]] who trade with them have learned not to ask. What the intermediaries have pieced together is that the herders keep their cattle out of the highland belt at night, pen them inside thorn fences when they must graze near a ruin, and keep fires burning and drums going until dawn, because the raptors avoid loud noise and bright light. A herder alone at night who hears a familiar voice call his name from the grass does not answer it and does not go to look. Young men are said to prove themselves by taking a raptor's hind-claw, and the claws worn on cords by savannah traders at the forest margin are the only ones the north has ever seen.
+The savannah's hunter-herders know the ruins, and do not talk about them to outsiders; the [[place-cntrlrnfrsts|rainforest intermediaries]] who trade with them have learned not to ask. What the intermediaries have pieced together is that the herders keep their cattle out of the highland belt at night, pen them inside thorn fences when they must graze near a ruin, and keep fires burning and drums going until dawn, because the raptors avoid loud noise and bright light. A herder alone at night who hears a familiar voice call his name from the grass does not answer it and does not go to look. Young men are said to prove themselves by taking a raptor's hind-claw, and the claws worn on cords by savannah traders at the forest margin are the only ones the north has ever seen.
 
 ## Signs
 

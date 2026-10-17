@@ -7,7 +7,7 @@ description: "The third caste of Tantsou—the warrior nobility who command the 
 data: {packFolder: castes, culture: tantsouclt}
 ---
 
-The Wohou are the warrior nobility of the [[affiliation-tantsouempr|Empire of Tantsou]], the third of the eight castes, and the hands through which the provinces are held. A Warlord (_Wozhuo_) is [[lore-zhazho|Zhazho]], of the Dragon's blood; the commandant who leads his field army, the officer who holds a district's revenue, courts and corvée, and the swordmaster who drills his household are Wohou, serving under him. The caste alone may raise and command armed force, and its members are bound by a code of honor whose breach is answered with exile or a state-ordered death.
+The Wohou are the warrior nobility of [[affiliation-tantsouempr|Tantsou]], the third of the eight castes, and the hands through which the provinces are held. A Warlord (_Wozhuo_) is [[lore-zhazho|Zhazho]], of the Dragon's blood; the commandant who leads his field army, the officer who holds a district's revenue, courts and corvée, and the swordmaster who drills his household are Wohou, serving under him. The caste alone may raise and command armed force, and its members are bound by a code of honor whose breach is answered with exile or a state-ordered death.
 
 ## Authority and Responsibilities
 
@@ -19,7 +19,7 @@ The Wohou are the warrior nobility of the [[affiliation-tantsouempr|Empire of Ta
 
 ## The Code of Honor
 
-The caste lives under the [Wo Hou Lou]{.name data-type="lore/law"} (Warrior Balance Law), a strict code governing conduct in war, in office and at home. A breach can bring severe punishment, up to exile or [Ruising]{.name data-type="lore/custom"}, the state-ordered ritual suicide described under [[lore-tseising|Tseising]]. Personal honor is everything to a Wohou: an accusation of dishonor opens a provisional debit on his ledger that stands until it is resolved, and the consequences of a proven one run past the legal penalty into ostracism and the disgrace of his household.
+The caste lives under the [Wo Hou Lou]{.name data-type="lore/law"} (Warrior Balance Law), a strict code governing conduct in war, in office and at home. A breach can bring severe punishment, up to exile or [Ruising]{.name data-type="lore/custom"}, the state-ordered ritual suicide described under [[lore-tseising|Law and Honor]]. Personal honor is everything to a Wohou: an accusation of dishonor opens a provisional debit on his ledger that stands until it is resolved, and the consequences of a proven one run past the legal penalty into ostracism and the disgrace of his household.
 
 ## Rights and Duties
 
@@ -51,11 +51,11 @@ A personal name is granted only to a Wohou of exceptional service, usually for a
 
 ## Elder Races Among the Wohou
 
-[[lore-flkkhazar|Khazár Folk]] warriors of exceptional bravery and strategic gift are honored with the Wohou title. They serve the empire as defenders of its mountain borders, and the fortifications they lay out are the reason those borders hold. Members of the [[lore-flksinale|Sinale Folk]] are granted the standing now and then for military service, and they are valued as scouts and skirmishers for their speed and their silence in woodland; their reluctance to commit to a human war until they must is a standing source of friction between Sinalean officers and the commanders they serve under.
+[[lore-flkkhazar|Khazari]] warriors of exceptional bravery and strategic gift are honored with the Wohou title. They serve the empire as defenders of its mountain borders, and the fortifications they lay out are the reason those borders hold. [[lore-flksinale|Sinale]] are granted the standing now and then for military service, and they are valued as scouts and skirmishers for their speed and their silence in woodland; their reluctance to commit to a human war until they must is a standing source of friction between Sinalean officers and the commanders they serve under.
 
 ## Philosophy of Lei
 
-In the [[lore-phlsphyleiwo|Philosophy of Leiwo]] framework the Wohou are the enforcing Lei of the empire: the power that keeps classifications in place by force, exercised through disciplined martial practice and service to the realm.
+In the [[lore-phlsphyleiwo|Leiwo]] framework the Wohou are the enforcing Lei of the empire: the power that keeps classifications in place by force, exercised through disciplined martial practice and service to the realm.
 
 ## See Also
 

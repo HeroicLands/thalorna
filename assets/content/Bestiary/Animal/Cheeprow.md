@@ -256,7 +256,7 @@ Something is chirping in the grass by the fire: a soft, bright run of notes like
 
 # Dossier {#dossier}
 
-The Cheeprow is a ten-inch ball of fur with a beak, big eyes, four short legs and a pair of stubby wings, which lives in colonies of dozens or hundreds in burrows under the open grass of the steppe and scrub country: the [[place-wlqtrrgn|Volketor]] on the western edge of the [[place-khzryndsrtrgn|Khazryn Desert Region]], and the grass-belt of [[place-velanthrgn|Velanthia Region]] beyond it. One Cheeprow is a curiosity that follows a traveler for miles, chirping. Eight together are a pack that kills. It is the one animal of the grass that herders teach their children not to feed.
+The Cheeprow is a ten-inch ball of fur with a beak, big eyes, four short legs and a pair of stubby wings, which lives in colonies of dozens or hundreds in burrows under the open grass of the steppe and scrub country: the [[place-wlqtrrgn|Volketor]] on the western edge of the [[place-khzryndsrtrgn|Khazryn]], and the grass-belt of [[place-velanthrgn|Velanthia]] beyond it. One Cheeprow is a curiosity that follows a traveler for miles, chirping. Eight together are a pack that kills. It is the one animal of the grass that herders teach their children not to feed.
 
 A single Cheeprow weighs three pounds, eats insects, mice and roots, and comes to a camp for food and for anything that shines. What it finds, it chirps about, and the chirp carries. Within a short while the colony has come to the sound, and once six or eight are gathered the behavior of every one of them changes.
 

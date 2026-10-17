@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [klhrcntnnt], population: null, packFol
 
 ## Overview
 
-The Doldrum Sea is the band of dead air that lies across the long way home from the [[place-klhrcntnnt|Kalihara Continent]]. North of the island's passage, between the steady wind that blows from the continents toward the island and the westerly winds that blow back toward the coasts of the [[place-provenzrgn|Provenzia Region]], the air stops moving: the sea goes flat and oily, the heat presses down by day and hangs close at night, and a slow current carries whatever floats on it. It lies out in the open ocean west of the strait, far from any coast, and nothing marks its edges. A master knows he has entered it when the wind fails and knows he has left it when the wind comes back.
+The Doldrum Sea is the band of dead air that lies across the long way home from [[place-klhrcntnnt|Kalihara]]. North of the island's passage, between the steady wind that blows from the continents toward the island and the westerly winds that blow back toward the coasts of [[place-provenzrgn|Provenzia]], the air stops moving: the sea goes flat and oily, the heat presses down by day and hangs close at night, and a slow current carries whatever floats on it. It lies out in the open ocean west of the strait, far from any coast, and nothing marks its edges. A master knows he has entered it when the wind fails and knows he has left it when the wind comes back.
 
 No lineage holds the Doldrum Sea, and the island's pilots and wardens do not go out to it. It lies well beyond the approaches Kalihara watches, and the ships that cross it are foreign ships going home.
 
@@ -22,7 +22,7 @@ From the deck the horizon stands empty on every side, and the sky over it is whi
 
 A ship can lie motionless here for weeks, waiting for a wind that may be a month in coming. The water goes foul in the casks, the stores run short, and the crew sickens in the heat; masters put their people on short water the day the wind fails. A ship becalmed also drifts, and with no land in sight her master cannot tell how far she has gone until he raises a coast he knows.
 
-The reward is the westerly wind beyond. A master who crosses and finds it runs home before it and saves a week on the beat to windward. The masters who do not find it make up the one voyage in eight that the shipowners of the [[place-midhalnrgn|Mídhalión Region]] build into their insurance rates.
+The reward is the westerly wind beyond. A master who crosses and finds it runs home before it and saves a week on the beat to windward. The masters who do not find it make up the one voyage in eight that the shipowners of [[place-midhalnrgn|Mídhalión]] build into their insurance rates.
 
 ## See Also
 

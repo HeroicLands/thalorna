@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-In Chendrapur Land, gho up [[place-chandrmahi|The Chandramahi]] from the sea and the country changes three times before you reach the rapids: a shore of salt-pans and fishing beaches, a floodplain of rice and cotton, and above the city a valley of workshops. All three belong to the city-state of [[affiliation-chandrapur|Chendrapur]], which holds the lower river from the last of the rapids down to the sea, the delta the river builds there, and the roadstead outside the bar where deep-water hulls wait out the monsoon. The city stands at the head of the delta, and everything in the land is arranged with reference to it, from the gem-road that climbs the valley to the cutting-villages to the boat-timber the shore sends down to the yards.
+In Chendrapur Land, gho up [[place-chandrmahi|the Chandramahi]] from the sea and the country changes three times before you reach the rapids: a shore of salt-pans and fishing beaches, a floodplain of rice and cotton, and above the city a valley of workshops. All three belong to the city-state of [[affiliation-chandrapur|Chendrapur]], which holds the lower river from the last of the rapids down to the sea, the delta the river builds there, and the roadstead outside the bar where deep-water hulls wait out the monsoon. The city stands at the head of the delta, and everything in the land is arranged with reference to it, from the gem-road that climbs the valley to the cutting-villages to the boat-timber the shore sends down to the yards.
 
 ## How the land is held
 
@@ -61,7 +61,7 @@ The shore runs east and west from the river mouth: salt-pans behind the dunes, f
 
 ## Economy
 
-The gem trade organizes the whole land. Rough stone arrives at the city from mines across the [[place-vedyarargn|Vedyara Region]] and beyond; the cutting, polishing and setting are done in the city and in the valley villages that have specialized in one stage of the work for centuries; the finished pieces leave by sea. Around that runs an ordinary and very productive delta economy—two rice crops on the floodplain, cotton on the drier ground behind it, salt from the pans, and the fish and the boat-timber of the shore.
+The gem trade organizes the whole land. Rough stone arrives at the city from mines across [[place-vedyarargn|Vedyara]] and beyond; the cutting, polishing and setting are done in the city and in the valley villages that have specialized in one stage of the work for centuries; the finished pieces leave by sea. Around that runs an ordinary and very productive delta economy—two rice crops on the floodplain, cotton on the drier ground behind it, salt from the pans, and the fish and the boat-timber of the shore.
 
 The river mouth is the other half of it. The fleet lies at Chandramukha, and the sailing season governs the land's year as firmly as the monsoon governs its planting.
 

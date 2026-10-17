@@ -16,8 +16,8 @@ data:
 
 ## Overview
 
-Ngorasha Village is the seat of the [[affiliation-ngorashatrb|Ngorasha Tribe]], which owes fealty to
+Ngorasha Village is the seat of the [[affiliation-ngorashatrb|Ngorasha tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of
-the [[place-okharisrgn|Okharis Region]].
+[[place-okharisrgn|Okharis]].
 
 Its smoke-racks line the bank above the reed beds, and the village's dried fish travel inland to herding camps that see no river for months.

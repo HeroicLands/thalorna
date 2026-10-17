@@ -9,19 +9,19 @@ data: {packFolder: settinglore}
 
 ## Religion and Gods Are Not the Same Thing
 
-The most important conceptual distinction in The Truth of Religion is the one between **religion** and **gods**.
+The most important conceptual distinction in this document is the one between **religion** and **gods**.
 
 A _religion_ is a human institution—a body of belief, practice, ritual, scripture, community, leadership, and tradition. Religions exist as social and cultural realities. They have priests, temples, holy texts, festival calendars, moral teachings, and adherents. They produce communities. They influence political life. They preserve practical wisdom across generations. They are, in every sense that matters for the lived experience of their adherents, real.
 
-A _god_ is something else: an extraordinarily powerful soul, of the kind described in [[doc-soulspirts|The Truth of Souls]], whose Aura and capacity for channeling far exceeds anything mortal. Gods exist on a different plane of being, do not generally manifest physically, and operate by principles that mortals can only guess at.
+A _god_ is something else: an extraordinarily powerful soul, of the kind described in [[doc-soulspirts|Souls and Spirits]], whose Aura and capacity for channeling far exceeds anything mortal. Gods exist on a different plane of being, do not generally manifest physically, and operate by principles that mortals can only guess at.
 
-These two things are _related_—religions usually claim to worship one or more gods, and many do—but they are _not the same thing_, and the relationship between them is far looser than worshippers believe. A god can inspire multiple religions whose theologies contradict one another. A religion can persist for centuries worshipping a god who has died, withdrawn, or never existed. The functioning of a religion does not, in most respects, depend on the existence of its god. This is the central secret that no religion on [[place-worldthlrn|The World of Thalorna]] is institutionally equipped to face.
+These two things are _related_—religions usually claim to worship one or more gods, and many do—but they are _not the same thing_, and the relationship between them is far looser than worshippers believe. A god can inspire multiple religions whose theologies contradict one another. A religion can persist for centuries worshipping a god who has died, withdrawn, or never existed. The functioning of a religion does not, in most respects, depend on the existence of its god. This is the central secret that no religion on [[place-worldthlrn|Thalorna]] is institutionally equipped to face.
 
 This document develops the implications of that distinction.
 
 ## What Gods Are
 
-Within the cosmology established in [[doc-magictruth|The Truth of Magic]], gods are not metaphysically distinct from other beings. They are _souls_—the same kind of thing that mortals, spirits, elementals, and dragons are. What distinguishes them is the magnitude of what they have, and what they can do with it.
+Within the cosmology established in [[doc-magictruth|Magic Truth]], gods are not metaphysically distinct from other beings. They are _souls_—the same kind of thing that mortals, spirits, elementals, and dragons are. What distinguishes them is the magnitude of what they have, and what they can do with it.
 
 A god is a **supra-being**: a soul of vast Aura, whose connection to the formless arcane potential is correspondingly vast. Where a mortal _marendos_ (master) is, in cosmological terms, a soul that touches the potential deeply enough to support a sustained channel and a moderately complex Morfís, a god is a soul that touches the potential at a scale beyond mortal comparison. The same metaphysics that governs mortal magic governs divine action—Aura plus framework, channeling potential into actualization—but the parameters are so radically different that the _kind_ of magic a god can perform is unrecognisable to mortal practitioners.
 
@@ -59,7 +59,7 @@ A further wrinkle: a god worshipped under multiple names by multiple traditions 
 
 ## Pantheons as Human Constructs
 
-The previous sections have treated "the gods" as if they were a definite set of beings that mortal religions worship. This treatment is convenient for exposition but is, strictly, false. What mortals call pantheons—the [[affiliation-arldnpnthn|Aureldian Pantheon]], the [[affiliation-itzanpnthn|Itsani Pantheon]], the [[lore-flksinale|Sinale Folk]]'s beings of light and dark, the various [[lore-nordheimnclt|Nordheimn]] god-families—are _human organisational schemes_ projected onto the divine field. The schemes are real cultural facts. They are not descriptions of how the divine field actually carves itself.
+The previous sections have treated "the gods" as if they were a definite set of beings that mortal religions worship. This treatment is convenient for exposition but is, strictly, false. What mortals call pantheons—the [[affiliation-arldnpnthn|Aureldian Twelve]], the [[affiliation-itzanpnthn|Itsani Pantheon]], the [[lore-flksinale|Sinale Folk]]'s beings of light and dark, the various [[lore-nordheimnclt|Norden]] god-families—are _human organisational schemes_ projected onto the divine field. The schemes are real cultural facts. They are not descriptions of how the divine field actually carves itself.
 
 This is the same principle that operates throughout the cosmology of Thalorna. [[affiliation-ordoarcanis|Thordimalon]]'s six _rheza_ are real categories _as the Order's framework produces them_, but they are not the structure of magic; the formless potential admits any framework. Pantheons work the same way one level up: they are real categories _as their cultures produce them_, but they are not the structure of the divine. The actual divine field—whatever that phrase even means—admits any framework that mortal minds can build to engage with it.
 
@@ -160,7 +160,7 @@ Whatever the reason, the principle holds _universally_. This is significant give
 
 What matters for play is the consequence: from inside the world, divine action is always either ambiguous coincidence or apparent spellcasting. There is no clean evidence available to a mortal observer—even a devout one—that distinguishes a god's intervention from natural fortune or human magic. This ambiguity is not a deficiency of the world; it is its design.
 
-The mechanisms by which the non-intervention principle is enforced—and how the gods nevertheless engage with the world through agents and proxies—are developed in detail in [[doc-divineactn|The Truth of Divine Action]]. This document focuses on what religions are and how they function; the political and metaphysical apparatus by which gods act on the world (or refrain from acting) is the subject of that companion document.
+The mechanisms by which the non-intervention principle is enforced—and how the gods nevertheless engage with the world through agents and proxies—are developed in detail in [[doc-divineactn|Divine Action]]. This document focuses on what religions are and how they function; the political and metaphysical apparatus by which gods act on the world (or refrain from acting) is the subject of that companion document.
 
 ## Real Gods, Fictitious Gods, and the Indistinguishability Problem
 

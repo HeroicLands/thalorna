@@ -13,17 +13,17 @@ data:
   packFolder: provenzia
 ---
 
-East of [[place-belsaren|Belsaren]], the hills rise in long bare ridges grazed by nobody. [[place-ceravelvale|Keravel Vale]]'s shepherds drive their flocks the long way round them, and the road that skirts the foot of the slope is one [[affiliation-twinbldrdr|The Twinblade Order]] holds.
+East of [[place-belsaren|Belsaren]], the hills rise in long bare ridges grazed by nobody. [[place-ceravelvale|Keravel Vale]]'s shepherds drive their flocks the long way round them, and the road that skirts the foot of the slope is one [[affiliation-twinbldrdr|the Twinblade Order]] holds.
 
 ## The Field
 
-The **Blood Hills** are a [[lore-bloodfield|blood-field]] made by [[lore-bloodhillsbtl|The Battle of the Blood Hills]] in which the [Cohorts of Gashang]{.name data-type="affiliation"} of [[affiliation-blackflame|The Black Flame]] and the [Knights of the Sacred Forge]{.name data-type="affiliation/order"} destroyed each other about 248 AF. Its kind is a **dread**: the field returns what was felt on it, and what was felt on these slopes was the unease of a line that knew it was losing and could not leave.
+The **Blood Hills** are a [[lore-bloodfield|blood-field]] made by [[lore-bloodhillsbtl|the battle]] in which the [Cohorts of Gashang]{.name data-type="affiliation"} of [[affiliation-blackflame|the Black Flame]] and the [Knights of the Sacred Forge]{.name data-type="affiliation/order"} destroyed each other about 248 AF. Its kind is a **dread**: the field returns what was felt on it, and what was felt on these slopes was the unease of a line that knew it was losing and could not leave.
 
-The field is moderately thin. A traveler who lingers on the ridges feels ranks drawn up on the slope above him and does not see them, and by dusk the feeling has become a conviction that the line will break in his direction. On the slope the legend gives the [[scenario-maulgashng|Maul of Gashang]], ember-lights show after dark, flickering where nothing burns. Around the cave shrine, where the Flame still keeps the night of the battle, the field is thin enough that the lights have been followed.
+The field is moderately thin. A traveler who lingers on the ridges feels ranks drawn up on the slope above him and does not see them, and by dusk the feeling has become a conviction that the line will break in his direction. On the slope the legend gives the [[scenario-maulgashng|maul]], ember-lights show after dark, flickering where nothing burns. Around the cave shrine, where the Flame still keeps the night of the battle, the field is thin enough that the lights have been followed.
 
 ## How the Place Is Treated
 
-Keravel's shepherds do not graze it. The Knights of the Forge keep a vigil at the foot of the slope on the night of the battle, and the Twinblades hold the road beside it, as they hold a threshold at a few battlefields, to guard it and not to keep it. The Black Flame keeps the shrine. No rite of settlement has been performed here, because the priests of the [[affiliation-selmoros|Faith of Sélmoros]] will not go where the Black Flame keeps a shrine.
+Keravel's shepherds do not graze it. The Knights of the Forge keep a vigil at the foot of the slope on the night of the battle, and the Twinblades hold the road beside it, as they hold a threshold at a few battlefields, to guard it and not to keep it. The Black Flame keeps the shrine. No rite of settlement has been performed here, because the priests of [[affiliation-selmoros|Sélmoros]] will not go where the Black Flame keeps a shrine.
 
 ## Who Goes
 

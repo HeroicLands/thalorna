@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The Bowl Lake fills the middle of [[place-klhrbowl|The Great Bowl]]. Its water is deep around [[place-klhrmassif|The Massif]], which stands in it as a mount, and clearest in the dry season. Its margins are reed-beds, where the [[being-rdhrn|Reed Heron]] nests in colonies, and the kindreds that hold the stretches of shore tend them as they tend any part of the island that is theirs. In the dry season, when the water is clear, the [[being-dpwtrfsh|Deepwater Fish]] rises from the deep water round the Massif and hangs at the surface for days.
+The Bowl Lake fills the middle of [[place-klhrbowl|the Great Bowl]]. Its water is deep around [[place-klhrmassif|the Massif]], which stands in it as a mount, and clearest in the dry season. Its margins are reed-beds, where the [[being-rdhrn|Reed Heron]] nests in colonies, and the kindreds that hold the stretches of shore tend them as they tend any part of the island that is theirs. In the dry season, when the water is clear, the [[being-dpwtrfsh|Deepwater Fish]] rises from the deep water round the Massif and hangs at the surface for days.
 
 ## See Also
 

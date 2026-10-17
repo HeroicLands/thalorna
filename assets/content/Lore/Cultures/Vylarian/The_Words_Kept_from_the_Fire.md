@@ -36,7 +36,7 @@ _Gloss._ The rule is the first in every copy, and the schools teach it first. A 
 
 _Gloss._ One keeper, so that the roll cannot be written by two men who disagree. Every reader, so that the keeper cannot write what no one sees.
 
-_Another master._ The rule is the Republic's. Under the Orzoi the roll is kept by [[affiliation-imprlscrblgld|The Imperial Scribal Guild]] and read by the Guild, and the second half of the rule is kept in the schools.
+_Another master._ The rule is the Republic's. Under the Orzoi the roll is kept by [[affiliation-imprlscrblgld|the Guild]] and read by the Guild, and the second half of the rule is kept in the schools.
 
 **3. Strike nothing. Write the correction below, and date it.**
 
@@ -84,7 +84,7 @@ _Gloss._ The master of a household answers at law for everyone under his roof: w
 
 **13. A hand that cannot answer cannot hold.**
 
-_Gloss._ A guardian who wastes a ward's estate loses the ward. The [[affiliation-provnchyln|Province of Hilen]] keeps a case on this rule that the schools teach as its proof, in which a widow took her son's guardianship from his uncle by sitting at a patron's door until she was heard.
+_Gloss._ A guardian who wastes a ward's estate loses the ward. The [[affiliation-provnchyln|province of Hilen]] keeps a case on this rule that the schools teach as its proof, in which a widow took her son's guardianship from his uncle by sitting at a patron's door until she was heard.
 
 **14. The hand opens once.**
 
@@ -110,7 +110,7 @@ _Gloss._ Quoted in every speech the Senate has heard against the north since the
 
 **18. The living within the line, the dead without.**
 
-_Gloss._ The rule is older than the line around [[place-sixhillsvyl|The Six Hills]] and was applied to every city of the Republic. A tomb inside the boundary is a crime against the dead as much as against the living, because the dead inside the line are counted among the living, and the dead may not be counted among the living.
+_Gloss._ The rule is older than the line around [[place-sixhillsvyl|the six hills]] and was applied to every city of the Republic. A tomb inside the boundary is a crime against the dead as much as against the living, because the dead inside the line are counted among the living, and the dead may not be counted among the living.
 
 **19. A will speaks the day it is read and not the day it is written.**
 

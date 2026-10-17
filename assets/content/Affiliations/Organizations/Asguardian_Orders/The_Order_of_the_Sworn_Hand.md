@@ -50,7 +50,7 @@ sohl: {system: {commonSkills: []}}
 
 "The wand opens a ting," an Elder Hand tells the Hand-Squire riding at his stirrup, "and nothing else. It does not make a man right, and it does not make him safe. If you have not understood that by the time we reach the next hall, give it back." The squire carries the heavy white wand wrapped in dyed leather at his saddle, and in a hall where a jarl sits in judgment over his own quarrel, that wand is the only reason anyone will hear a ruling he did not choose.
 
-The Order of the Sworn Hand, _Eidhond_, the "Oath-Hand," is the fighting order of the [[affiliation-eidgar|Faith of Eidgar]]: a brotherhood and sisterhood of warrior-judges who ride to where a judgment is needed, hear the matter at the local ting, render or enforce the ruling and leave. An outsider remembers the order for one thing, that it will not soften a hard ruling to spare a powerful man.
+The Order of the Sworn Hand, _Eidhond_, the "Oath-Hand," is the fighting order of [[affiliation-eidgar|Eidgar's faith]]: a brotherhood and sisterhood of warrior-judges who ride to where a judgment is needed, hear the matter at the local ting, render or enforce the ruling and leave. An outsider remembers the order for one thing, that it will not soften a hard ruling to spare a powerful man.
 
 Type
 : fighting religious order
@@ -66,7 +66,7 @@ Seat
 
 ## Why the Order Rides
 
-The order claims no sovereign authority. It works inside the law of each kingdom of the [[place-nrdlndsrgn|Nordlands Region]] and submits to that law's structures. What it supplies is the trained, impartial, unbribed presence those structures often lack, and no knight of the order has been bought in living memory.
+The order claims no sovereign authority. It works inside the law of each [[place-nrdlndsrgn|Nordlands kingdom]] and submits to that law's structures. What it supplies is the trained, impartial, unbribed presence those structures often lack, and no knight of the order has been bought in living memory.
 
 It exists because local justice in the Nordlands can be corrupted. A ting convened in the hall of the jarl whose interests are at issue is not always able to rule against him. Over centuries the kings of the five kingdoms have found it useful to keep an institution to which contested matters can be referred, and from which their own subjects can demand referral when their faith in the local ting has run out. The order does not displace local justice. It stands behind it and steps forward when called.
 
@@ -106,7 +106,7 @@ A knight works in three forms:
 
 - **[[affiliation-eidgar|Eidgar's priesthood]]** stands over the order in religion and leaves it independent in operation. The priesthood does not direct the order's rulings, and the order does not preach. The Hofgudi of Logstead puts the division in a sentence: the knight enforces with his own sword, and the gudi binds the oath the ruling rests on.
 - **[[place-nrdlndsrgn|The five Nordland crowns]]** are served alike. The kings maintain the order's chapter halls and grant the wand of office passage through their territories, and tension arises when a knight's ruling runs against a crown's interest.
-- **[[affiliation-malldbndlg|Málalidabandalag]]** and the order have a standing agreement that any signed company member subject to the order's judgment is surrendered to its custody on demand. The agreement holds.
+- **The [[affiliation-malldbndlg|Málalidabandalag]]** and the order have a standing agreement that any signed company member subject to the order's judgment is surrendered to its custody on demand. The agreement holds.
 - **[[affiliation-ordrstrmspkrs|The Order of the Storm-Speakers]]** is a religious peer. The two orders sometimes cooperate when a matter needs both legal and ritual authority.
 - **Foreign powers and the [[affiliation-ordoarcanis|Thordimalon]]** get nothing from the order, which keeps no relations with foreign jurisdictions. An Arcane Order agent who tries to invoke the order's authority in a Nordlands matter is politely told that it serves only the kingdoms in which it is chartered.
 

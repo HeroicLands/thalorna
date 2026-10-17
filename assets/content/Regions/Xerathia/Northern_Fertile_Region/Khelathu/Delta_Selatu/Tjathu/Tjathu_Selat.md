@@ -17,15 +17,15 @@ data:
 
 ## Overview
 
-Tjathu Selat is the land of [[affiliation-selattjathu|The Selat of Tjathu]], one of [[affiliation-deltaselatu|The Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is the sea-margin of the delta: salt-pans, natron flats, and the curing of the lesser villages' catch.
+Tjathu Selat is the land of [[affiliation-selattjathu|the Selat of Tjathu]], one of [[affiliation-deltaselatu|the Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is the sea-margin of the delta: salt-pans, natron flats, and the curing of the lesser villages' catch.
 
 "Walk on the crust and it holds you, walk where it is wet and it eats your sandal," a salt-raker tells a boy new to the pans, dragging a wooden rake across a bed of white. "The sun does the work. We only get in its way."
 
 ## Character
 
-The selat is flat, bright and salt, a margin where the sea comes in and the pans fill with brine. The natron flats supply the embalmers of the whole empire. Inland the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of the [[affiliation-wethur|Faith of Weth'ur]] and its estates hold much of the shore.
+The selat is flat, bright and salt, a margin where the sea comes in and the pans fill with brine. The natron flats supply the embalmers of the whole empire. Inland the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-wethur|Weth'ur]] and its estates hold much of the shore.
 
-The selat's silt-islands are where the sea-raiders landed in 1960 ST (151 BF) ([[lore-searaiders|The Sea-Raiders' Throne]]). The port they burned, [[place-zelamqelu|Zel-Amqelu]], is a reed-grown mound in the flats.
+The selat's silt-islands are where the sea-raiders landed in 1960 ST (151 BF) ([[lore-searaiders|the Sea-Raiders' Throne]]). The port they burned, [[place-zelamqelu|Zel-Amqelu]], is a reed-grown mound in the flats.
 
 ## Settlements
 

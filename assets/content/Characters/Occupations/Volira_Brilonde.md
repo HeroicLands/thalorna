@@ -398,7 +398,7 @@ Volira Brilonde is a 30-year-old woman who stands 5'7" tall and is slender. She 
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia Region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Volira Brilonde came into the world of the thatcher through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Volira Brilonde came into the world of the thatcher through a combination of circumstance and aptitude.
 
 Volira learned the craft of thatching from her father, a well-known thatcher in their village. She was one of the few women in the area to take up the trade, earning respect for her skill and dedication. Her work is known for its neatness and durability, though some older villagers were initially skeptical about a woman working in such a physically demanding trade.
 

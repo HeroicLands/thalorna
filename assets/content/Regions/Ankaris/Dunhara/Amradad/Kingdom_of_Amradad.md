@@ -88,9 +88,9 @@ The Amradi say that their ancestors were the only Dunhari clever enough to stop 
 
 ## Character
 
-Amradad was founded generations ago, when a powerful tribal confederation settled for good around the richest oases in the desert and began to build in stone. The kingdom it made holds the most valuable crossroads of the overland trade: the point where the roads from the [[place-byzariargn|Bizaria Region]], the [[place-vedyarargn|Vedyara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]] meet on the coast facing the islands of the [[place-taruzelrgn|Taruzel Region]]. That crossroads has made the Shebarader enormously rich and far more important than his thinly peopled land would suggest.
+Amradad was founded generations ago, when a powerful tribal confederation settled for good around the richest oases in the desert and began to build in stone. The kingdom it made holds the most valuable crossroads of the overland trade: the point where the roads from the [[place-byzariargn|Bizaria Region]], the [[place-vedyarargn|Vedyara Region]] and the [[place-khzryndsrtrgn|Khazryn]] meet on the coast facing the islands of [[place-taruzelrgn|Taruzel]]. That crossroads has made the Shebarader enormously rich and far more important than his thinly peopled land would suggest.
 
-The court at [[place-shebarakhend|Shebarakhend]] is a seat of learning and patronage. Scholars of theology, astronomy, mathematics and medicine gather in its libraries and academies, and every great house keeps a court astrologer to time its marriages, journeys and quarrels. The [[affiliation-ashanpnthn|Ashaian Pantheon]] finds its grandest expression here. The fire-temples of Amradad are the wonders of the desert, and the debates of their priestly scholars set the standard of Ashaian orthodoxy for the tribes and the Taruzeli alike, whether or not either listens.
+The court at [[place-shebarakhend|Shebarakhend]] is a seat of learning and patronage. Scholars of theology, astronomy, mathematics and medicine gather in its libraries and academies, and every great house keeps a court astrologer to time its marriages, journeys and quarrels. The [[affiliation-ashanpnthn|Ashaian faith]] finds its grandest expression here. The fire-temples of Amradad are the wonders of the desert, and the debates of their priestly scholars set the standard of Ashaian orthodoxy for the tribes and the Taruzeli alike, whether or not either listens.
 
 ## Governance
 
@@ -106,7 +106,7 @@ Across the strait, relations with the [[affiliation-cnfdrtntrzlnstts|Confederati
 
 ## Commerce and Currency
 
-The Kingdom uses [[lore-vylrncrncy|Vylarian Currency]]—ethla, ankhra and bit—in its port cities and its administrative heart, where it is the main money of trade. The Vylarian paper script does not work here, since no chapter of [[affiliation-danvar|The Danvar]] operates in the Kingdom. Out along the desert roads, trade turns to [[lore-bartercnmy|The Barter Economy]] and [[lore-kinhalcrdt|Kin and Hall Credit]], as everywhere in the [[place-dunhardsrtrgn|Dunhara Desert Region]]. [[lore-trzlncrncy|Taruzelian Currency]] from the secession trade is accepted in the principal trading cities, through changers who deal with the Taruzelian treasury, the [Merazuni]{.name data-type="affiliation/governmental"}.
+The Kingdom uses [[lore-vylrncrncy|Vylarian coin]]—ethla, ankhra and bit—in its port cities and its administrative heart, where it is the main money of trade. The Vylarian paper script does not work here, since no chapter of [[affiliation-danvar|the Danvar]] operates in the Kingdom. Out along the desert roads, trade turns to [[lore-bartercnmy|the Barter Economy]] and [[lore-kinhalcrdt|Kin and Hall Credit]], as everywhere in the [[place-dunhardsrtrgn|Dunhara Desert]]. [[lore-trzlncrncy|Taruzelian coin]] from the secession trade is accepted in the principal trading cities, through changers who deal with the Taruzelian treasury, the [Merazuni]{.name data-type="affiliation/governmental"}.
 
 ## See Also
 

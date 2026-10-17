@@ -58,7 +58,7 @@ data:
 # terran_analog: "The Visigoths."
 ---
 
-The Varokh call [[place-vrystwald|Vristwald]] their primeval homeland. The country belonged to the [[lore-pelwarpepl|Pelwar People]] first, held by herders and cultivators before the [Varkhad]{.name data-type="lore/folk"} came from farther east and took it (see [[lore-varkhadcnq|The Varkhad Conquest]]). The invaders exterminated nobody; over generations the two peoples married until their descendants could no longer be told apart. The Varokh defend the forest as both its earlier inhabitants and its conquerors' children.
+The Varokh call [[place-vrystwald|Vristwald]] their primeval homeland. The country belonged to the [[lore-pelwarpepl|Pelwar People]] first, held by herders and cultivators before the [Varkhad]{.name data-type="lore/folk"} came from farther east and took it (see [[lore-varkhadcnq|the Varkhad Conquest]]). The invaders exterminated nobody; over generations the two peoples married until their descendants could no longer be told apart. The Varokh defend the forest as both its earlier inhabitants and its conquerors' children.
 
 ## Keeping Faith
 
@@ -82,7 +82,7 @@ That ethic has a boundary its victims know well. The Varkhad invasion took anoth
 
 [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]] embodies the admired male warrior: strong, enduring, skilled at tracking and stubborn in defense of his people. His loyalty and knowledge of the forest give his courage a purpose. His ambition also exposes the danger in the ideal: protecting the clan can become an excuse for advancing oneself.
 
-Thornak is of the [Mahnlin]{.name data-type="affiliation/lineage"} kindred and of the village of [[place-eichengrnd|Eichengrund]], whose wesk is [[lore-boarttm|Boar]]. His bond with that spirit gives a particular form to virtues other villages recognize through their own totems.
+Thornak is of the [Mahnlin]{.name data-type="affiliation/lineage"} kindred and of the village of [[place-eichengrnd|Eichengrund]], whose wesk is [[lore-boarttm|the boar]]. His bond with that spirit gives a particular form to virtues other villages recognize through their own totems.
 
 ## The Woman Admired
 
@@ -92,7 +92,7 @@ Women hold substantial property and trading authority. A woman may also win a Wa
 
 ## Memory Without Writing
 
-The [[skill-varokhlng|Varokhi Language]] is unwritten, carried on breath and memory from its Pelwar roots. Giant-slayers, spirit-walkers and heroes fill an oral tradition whose deeds listeners are expected to recognize. There is no written charter or registry to replace a witnessed promise. An oath before a war-band carries the security a written deed provides elsewhere.
+[[skill-varokhlng|Varokhi]] is unwritten, carried on breath and memory from its Pelwar roots. Giant-slayers, spirit-walkers and heroes fill an oral tradition whose deeds listeners are expected to recognize. There is no written charter or registry to replace a witnessed promise. An oath before a war-band carries the security a written deed provides elsewhere.
 
 Each clan's wesk, its sacred grove and its ancestral burial places hold its shared identity. Feud-cords and the Skathár's remembered reckoning preserve blood owed and paid. The oldest trees house powerful spirits. These places and memories make obligations visible without a common temple or a document governing all Varokh.
 

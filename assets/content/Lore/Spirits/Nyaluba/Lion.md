@@ -8,7 +8,7 @@ tags: [draft, nyaluba]
 data: {packFolder: lorespiritsnyaluba, culture: nyalubaclt}
 ---
 
-Lion Spirit is the totemic being venerated by the [Ruwozi]{.name data-type="affiliation/polity"} of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. For the cult, its
+Lion Spirit is the totemic being venerated by the [Ruwozi]{.name data-type="affiliation/lineage"} of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. For the cult, its
 offices and its observances, see [[affiliation-nyalblion|Lion Totem]]; for the kinds of guide
 and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].
 
@@ -26,6 +26,6 @@ Prohibitions it is understood to enforce upon the Ruwozi: not to hunt [[being-li
 flesh, not to take by ambush what could be taken by open challenge, and not to abandon a herd
 under threat.
 
-The Ruwozi and [Lobwezi]{.name data-type="affiliation/polity"} griots tell differently what the lion-guide witnessed at the [Pact-baobab]{.name data-type="place/feature"}, and each clan's telling makes its own ancestor the one the Lion favoured.
+The Ruwozi and [Lobwezi]{.name data-type="affiliation/lineage"} griots tell differently what the lion-guide witnessed at the [Pact-baobab]{.name data-type="place/feature"}, and each clan's telling makes its own ancestor the one the Lion favoured.
 
 In the Ruwozi telling the Lion looked first at the Ruwozi ancestor, who stood in the open and did not flinch, and the Pact was sworn under that look. In the Lobwezi telling the Lion turned to the Lobwezi ancestor, who spoke the oath before the others had finished gathering at the baobab, and it witnessed the Pact because his was the first voice raised.

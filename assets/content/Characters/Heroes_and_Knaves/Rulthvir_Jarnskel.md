@@ -416,7 +416,7 @@ sohl:
 
 ![[rlthvrjrnskl|Rulthvir Jarnskel]]{float=top-left}
 
-Rulthvir Jarnskel stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and grey eyes. His features include an oblong face, a straight nose, a heavy jawline, a small mouth, and low-set brows.
+Rulthvir stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and grey eyes. His features include an oblong face, a straight nose, a heavy jawline, a small mouth, and low-set brows.
 
 # Dossier {#dossier}
 

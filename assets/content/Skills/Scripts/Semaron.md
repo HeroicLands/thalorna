@@ -17,17 +17,17 @@ sohl:
   flags: {"thalorna": {script_family: Alphabetic}}
 ---
 
-The Semaron Script is the working alphabet of the [[affiliation-vylarinmpr|Vylarian Empire]]—twenty-four letters written left to right, each with a majuscule and a minuscule form, one sign to one sound. Its name is simply the [[skill-vylarilng|Vylari Language]] word for _the letters_, from _sema_, "mark"; a single character is a _sema_, and to a Vylarian clerk the word carries no more romance than "the alphabet" does. That flatness is a large part of why it traveled.
+The Semaron is the working alphabet of the [[affiliation-vylarinmpr|Vylarian Empire]]—twenty-four letters written left to right, each with a majuscule and a minuscule form, one sign to one sound. Its name is simply the [[skill-vylarilng|Vylari]] word for _the letters_, from _sema_, "mark"; a single character is a _sema_, and to a Vylarian clerk the word carries no more romance than "the alphabet" does. That flatness is a large part of why it traveled.
 
 As with any script, it is a writing system and not a tongue. A character needs **both** the Semaron and the relevant [[sohl-none-docskill-lang|Language]] to read anything set down in it, and the Semaron carries a good many languages that have nothing to do with each other—see [[sohl-none-docskill-script|Script]] for how the two skills combine.
 
 ## The letters
 
-The letterforms descend from the older carved runes of [[skill-thrvrknscrpt|Tharavarkon Script]], but centuries of reed and quill have rounded every angle out of them. Strokes are continuous and slightly forward-leaning; the pen is meant to leave the page as seldom as possible. Vowel length—the long _a ê î ô û_ that Vylari depends on—is carried by a bar above the letter, and the aspirates (_ph_, _kh_, _th_) by a small hook, which is why a hurried provincial hand is so often ambiguous about precisely which lord is meant.
+The letterforms descend from the older carved runes of [[skill-thrvrknscrpt|Tharavarkon]], but centuries of reed and quill have rounded every angle out of them. Strokes are continuous and slightly forward-leaning; the pen is meant to leave the page as seldom as possible. Vowel length—the long _a ê î ô û_ that Vylari depends on—is carried by a bar above the letter, and the aspirates (_ph_, _kh_, _th_) by a small hook, which is why a hurried provincial hand is so often ambiguous about precisely which lord is meant.
 
 ## Hands
 
-[[affiliation-imprlscrblgld|The Imperial Scribal Guild]] recognizes three, and a reader's fluency is not the same in all of them:
+[[affiliation-imprlscrblgld|The Guild]] recognizes three, and a reader's fluency is not the same in all of them:
 
 - **_Semaron Kuriale_**, the chancery hand—upright, wide-spaced, unligatured, and slow. Edicts, land registers, treaty texts, anything that must still be legible in two hundred years.
 - **_Semaron Kursiva_**, the running hand—the daily hand of clerks, factors and correspondents, heavily ligatured and abbreviated, three times faster to write and markedly harder to read. Most surviving Vylarian documents are in it.
@@ -39,7 +39,7 @@ Literacy in the Semaron is what the Imperial Scribal Guild sells, examines and d
 
 ## Beyond the Empire
 
-The Semaron is the nearest thing [[place-midhalnrgn|Mídhalión Region]] has to a common alphabet. [[skill-elvndrlng|Élavendri Language]] largely abandoned its own runes for it; [[skill-provnzlng|Provenzal Language]] is written in nothing else; the [[affiliation-byzarianlg|Bizarian League]] keeps its ledgers in it whatever tongue the entries are in; and speakers of [[skill-varokhlng|Varokhi Language]] who want anything written down borrow it, while insisting it is a foreign tool and not Varokhi writing. Foreigners generally call it "the Vylari letters," a name no Vylarian uses.
+The Semaron is the nearest thing [[place-midhalnrgn|Mídhalión]] has to a common alphabet. [[skill-elvndrlng|Élavendri]] largely abandoned its own runes for it; [[skill-provnzlng|Provenzal]] is written in nothing else; the [[affiliation-byzarianlg|Bizarian League]] keeps its ledgers in it whatever tongue the entries are in; and [[skill-varokhlng|Varokhi speakers]] who want anything written down borrow it, while insisting it is a foreign tool and not Varokhi writing. Foreigners generally call it "the Vylari letters," a name no Vylarian uses.
 
 ## In play
 

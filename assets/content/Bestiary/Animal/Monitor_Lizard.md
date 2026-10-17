@@ -236,7 +236,7 @@ A slab of the sun-heated rock moves. It is a lizard, yellow-brown and gray, with
 
 # Dossier {#dossier}
 
-The Monitor Lizard is the five- to seven-foot lizard of the dry margins, fifteen to thirty-five pounds, found at the desert edge of [[place-aukhelathrgq|Au'Khelathu Region]], in the river margins and hot forest of [[place-vedyarargn|Vedyara Region]] and in the scrub of the [[place-dunhardsrtrgn|Dunhara Desert Region]] near the wells. It hunts on the ground, climbs after birds' eggs and dives after fish, and eats carrion.
+The Monitor Lizard is the five- to seven-foot lizard of the dry margins, fifteen to thirty-five pounds, found at the desert edge of [[place-aukhelathrgq|Au'Khelathu]], in the river margins and hot forest of [[place-vedyarargn|Vedyara]] and in the scrub of the [[place-dunhardsrtrgn|Dunhara Desert]] near the wells. It hunts on the ground, climbs after birds' eggs and dives after fish, and eats carrion.
 
 ## Presentation
 

@@ -89,7 +89,7 @@ data:
 sohl: {system: {commonSkills: [helonclng]}}
 ---
 
-A foreign envoy who asks to be taken to the government of the City-States of Helionis has asked for something that does not exist. [[place-helionis|Helionis]] has never been united under one ruler, and its people are too proud, too argumentative and too sure of their own city's constitution to submit to another's. Seven sovereign city-states share the region and its three million people. What binds them is a common culture, the [[skill-helonclng|Helonic Language]], the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]], and a network of festivals, athletic games and religious observances that holds them together socially while leaving each of them free.
+A foreign envoy who asks to be taken to the government of Helionis has asked for something that does not exist. [[place-helionis|Helionis]] has never been united under one ruler, and its people are too proud, too argumentative and too sure of their own city's constitution to submit to another's. Seven sovereign city-states share the region and its three million people. What binds them is a common culture, the [[skill-helonclng|Helonic Language]], the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]], and a network of festivals, athletic games and religious observances that holds them together socially while leaving each of them free.
 
 ## Who Decides
 
@@ -97,7 +97,7 @@ Each city decides for itself. Three of them lead the region, and each is a power
 
 - [[affiliation-thyrenae|Thirenae]], the oldest and most prestigious, is the intellectual capital of Helionis and, by its own reckoning, of all the western part of the [[place-ankrscntnnt|Ankaris Continent]]. The great academies are centered there, including the original seat of the [[affiliation-panepistmm|Epistémion]]. A philosophical council drawn from the senior scholars of the academies and the heads of the oldest families governs it. Its patron is [[lore-marendasdty|Marendas]], goddess of knowledge and wisdom.
 - [[affiliation-pelagora|Pelagora]] is the naval power. It commands the most important harbors and controls the sea lanes of the eastern [[place-vylarianse|Vylarian Sea]]; its citizen-sailors are formidable fighters, and its fleet is the largest in the region. It is a democracy whose assembly of free citizens votes on war, trade and law, and its politics are loud, passionate and occasionally violent. Its patron is [[lore-ardavondty|Árdavon]], god of order and justice.
-- [[affiliation-kalydria|Kalidria]] is known across the [[place-midhalnrgn|Mídhalión Region]] for its artists, playwrights and musicians. The **[Academy of the Silver Veil]{.name data-type="affiliation"}** is based there, and its theater festivals draw audiences from across the Vylarian Sea. An oligarchy of wealthy patron families governs it, competing to fund the most lavish productions. Its patron is [[lore-zunelasdty|Zunelas]], goddess of dreams and visions.
+- [[affiliation-kalydria|Kalidria]] is known across [[place-midhalnrgn|Mídhalión]] for its artists, playwrights and musicians. The **[Academy of the Silver Veil]{.name data-type="affiliation"}** is based there, and its theater festivals draw audiences from across the Vylarian Sea. An oligarchy of wealthy patron families governs it, competing to fund the most lavish productions. Its patron is [[lore-zunelasdty|Zunelas]], goddess of dreams and visions.
 
 The other four are [[affiliation-theradon|Theradon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]] and [[affiliation-kostaros2|Kostaros]], the last a small coastal city-state that governs the district around it. Their constitutions run to oligarchy, government by the wealthy patron families or by the wealthiest and most educated citizens.
 
@@ -109,7 +109,7 @@ Standing runs in a short ladder. At the bottom is the _átimor_ (the dishonored)
 
 ## War Between Neighbors
 
-The cities compete constantly in trade, athletic games and artistic achievement, and sometimes in war. Helionite warfare is ritualized and restrained by the standards of western Ankaris under [[lore-heladtruce|The Truce of the Games]], which is cold comfort to the people caught in it, and it comes often enough to keep the citizen militias in fighting trim.
+The cities compete constantly in trade, athletic games and artistic achievement, and sometimes in war. Helionite warfare is ritualized and restrained by the standards of western Ankaris under [[lore-heladtruce|the Truce of the Games]], which is cold comfort to the people caught in it, and it comes often enough to keep the citizen militias in fighting trim.
 
 ## Character
 
@@ -121,11 +121,11 @@ The [[affiliation-ordoarcanis|Thordimalon]] is more deeply rooted in Helionis th
 
 ## Relations
 
-The cities stand together with the Aureldian Pantheon, the Epistémion and the [[affiliation-vylarinmpr|Vylarian Empire]], and they keep the Arcane Order at arm's length. The [[place-provenzrgn|Provenzia Region]] is a cultural rival and partner, and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] is their trading partner across the water to the south.
+The cities stand together with the Aureldian Pantheon, the Epistémion and the [[affiliation-vylarinmpr|Vylarian Empire]], and they keep the Arcane Order at arm's length. [[place-provenzrgn|Provenzia]] is a cultural rival and partner, and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] is their trading partner across the water to the south.
 
 ## Commerce and Currency
 
-The City-States of Helionis use the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) as their standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]] moneylenders chartered under [[affiliation-tevran|The Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+The City-States of Helionis use the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as their standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

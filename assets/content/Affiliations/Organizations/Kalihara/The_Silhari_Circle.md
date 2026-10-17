@@ -47,11 +47,11 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-The Sílhari Circle takes its name from the first observance of [[affiliation-tharivaan|Thári'vaan]], _sílhari_ (clear looking). Its members are Ithakan custodians, with a few Elders of the lineages among them, and they hold one position the rest of the custodianship does not: that kaan'vaar has failed. The procedures, kept exactly for eighty centuries, will not keep the works any longer, and the principles behind them must be sought, abroad if the island cannot supply them. What follows from that is the circle's whole business: read the slabs whose procedures have been lost, find the person who can read them, and, if it comes to that, let one outsider in.
+The Sílhari circle takes its name from the first observance of [[affiliation-tharivaan|Thári'vaan]], _sílhari_ (clear looking). Its members are Ithakan custodians, with a few Elders of the lineages among them, and they hold one position the rest of the custodianship does not: that kaan'vaar has failed. The procedures, kept exactly for eighty centuries, will not keep the works any longer, and the principles behind them must be sought, abroad if the island cannot supply them. What follows from that is the circle's whole business: read the slabs whose procedures have been lost, find the person who can read them, and, if it comes to that, let one outsider in.
 
 ## Character
 
-The circle meets in small company at the sanctuaries and in the houses of its Elders. It has no charter, no seat and no mark that tells a member from any other custodian. A custodian who belongs to it performs the same tending-acts as the rest, to the letter, because the circle holds that the procedures should be kept until something better is found. A member speaks in the councils of the custodians for what the circle has read in the first records, and an Elder among the members says the same to [[affiliation-councilisland|The Council of the Island]], where it is heard with courtesy and answered with silence.
+The circle meets in small company at the sanctuaries and in the houses of its Elders. It has no charter, no seat and no mark that tells a member from any other custodian. A custodian who belongs to it performs the same tending-acts as the rest, to the letter, because the circle holds that the procedures should be kept until something better is found. A member speaks in the councils of the custodians for what the circle has read in the first records, and an Elder among the members says the same to [[affiliation-councilisland|the Council of the Island]], where it is heard with courtesy and answered with silence.
 
 The rest of the Ithakan hold to the tending and to the procedures as they were handed down. Kaan'vaar forbids the thought that the order might be adjusted, and a member who is heard to say that it has failed finds that nobody argues.
 
@@ -59,7 +59,7 @@ The search goes outside the island. The circle has already sent one of its custo
 
 ## Relations
 
-The circle is a company inside the [[affiliation-tharivaan|Ithakan]] and a rival to its majority. [[affiliation-keepershouse|The Keeper's House]], whose custodians have no work left to tend, has the most reason of any body on the island to want the principles found. The circle is not allied with the Council, which hears its Elders and answers none of them. It has no standing with [[affiliation-wardensapproaches|The Wardens of the Approaches]], who guard the door a Seeker must leave by and a foreign reader must come in through.
+The circle is a company inside the [[affiliation-tharivaan|Ithakan]] and a rival to its majority. [[affiliation-keepershouse|The Keeper's House]], whose custodians have no work left to tend, has the most reason of any body on the island to want the principles found. The circle is not allied with the Council, which hears its Elders and answers none of them. It has no standing with [[affiliation-wardensapproaches|the Wardens of the Approaches]], who guard the door a Seeker must leave by and a foreign reader must come in through.
 
 ## See Also
 

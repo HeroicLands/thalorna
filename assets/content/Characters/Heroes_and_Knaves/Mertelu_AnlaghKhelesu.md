@@ -424,7 +424,7 @@ sohl:
 
 ![[mertlnlghkhl|Mertelu Anlagh'Khelesu]]{float=top-left}
 
-Mertelu Anlagh'Khelesu stands 6'0" tall with a medium build. She has dark weathered skin, grey hair, and brown eyes. Her features include a high-cheekboned face, a straight narrow nose, a gentle jawline, an expressive mouth, high-set brows. A distinguishing mark is a tattoo of a bird in flight on the left shoulder.
+Mertelu stands 6'0" tall with a medium build. She has dark weathered skin, grey hair, and brown eyes. Her features include a high-cheekboned face, a straight narrow nose, a gentle jawline, an expressive mouth, high-set brows. A distinguishing mark is a tattoo of a bird in flight on the left shoulder.
 
 # Dossier {#dossier}
 
@@ -444,7 +444,7 @@ She is neither warm nor cruel, but precisely calibrated. To those who serve well
 
 ### Motivation
 
-Mertelu serves because service is the structure that gives her life meaning. She takes satisfaction in creating and maintaining perfect order, in running a household where everything operates with the precision of gears in a watermill. She is driven by pride in her work and by a deep, unexamined belief that a well-ordered household is a reflection of cosmic harmony. She serves the [[affiliation-gewaatis|Faith of Gewa'atis]] not through flashy piety but through the daily practice of her labor—she believes the voyager god guides travelers across unknown seas, and she guides her household through the uncertain waters of daily life.
+Mertelu serves because service is the structure that gives her life meaning. She takes satisfaction in creating and maintaining perfect order, in running a household where everything operates with the precision of gears in a watermill. She is driven by pride in her work and by a deep, unexamined belief that a well-ordered household is a reflection of cosmic harmony. She serves [[affiliation-gewaatis|Gewa'atis]] not through flashy piety but through the daily practice of her labor—she believes the voyager god guides travelers across unknown seas, and she guides her household through the uncertain waters of daily life.
 
 She has no ambition to rise beyond her station, nor does she resent her position. She has built a domain of power within the household that is real and substantial; she needs nothing more.
 

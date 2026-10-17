@@ -419,7 +419,7 @@ sohl:
 
 ![[madhurvrdr|Madurava Sutrapala]]{float=top-left}
 
-Madurava Sutrapala stands 5'10" tall with a medium build. He has medium brown skin, greying dark brown hair, and honey brown eyes. His features include a diamond-shaped face, a narrow nose, a narrow chin, a wide mouth, medium brows, and soft cheeks. He has a scar on his left foot.
+Madurava stands 5'10" tall with a medium build. He has medium brown skin, greying dark brown hair, and honey brown eyes. His features include a diamond-shaped face, a narrow nose, a narrow chin, a wide mouth, medium brows, and soft cheeks. He has a scar on his left foot.
 
 # Dossier {#dossier}
 
@@ -493,7 +493,7 @@ Maharani [Savia]{.name data-type="being/npc"} of the [Central House]{.name data-
 
 ### Enemies
 
-Herald [[being-kalyanikakal|Kalyanika Kalira]] the Modernizer
+Herald [[being-kalyanikakal|Kalyanika]] the Modernizer
 : A younger herald of considerable talent who advocates for streamlined heraldic processes and argues that many of Madurava's "sacred traditions" are merely outdated bureaucratic theater, directly challenging his authority.
 
 [House Vakhara]{.name data-type="affiliation/lineage"}

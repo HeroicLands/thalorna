@@ -18,7 +18,7 @@ data:
 # terran_analog: "The Mbuti and BaAka foragers of the Congo basin. Carries over: small mobile bands, net-hunting, honey, leaf huts, the forest as a parent, strict sharing, a light and easily abandoned leadership, and the night song that wakes the forest. Departs: one tongue shared with every other forest tradition, no dependence on farming villages, and the dead left in an abandoned camp."
 ---
 
-The Yesoma are the canopy foragers, one of the four traditions of the [[lore-bikoclt|Biko]] forest peoples, and the largest. Their name is _yeso_, the forest, with the ending of a child: they are the forest's children, and they say so of themselves before anything else.
+The Yesoma are the canopy foragers, one of the four traditions of the [[lore-bikoclt|]] forest peoples, and the largest. Their name is _yeso_, the forest, with the ending of a child: they are the forest's children, and they say so of themselves before anything else.
 
 ## Where They Live
 

@@ -185,7 +185,7 @@ The light is a little way off the path, low among the trees: a cluster of soft g
 
 # Dossier {#dossier}
 
-The Glowvine is a dreadspawn made in the shape of a plant: a central knot of dark, woody growth from which thorned tendrils two to four feet long hang in every direction, studded with beads of living light that pulse to draw prey close. It catches what comes near, wraps it, crushes it, and digests it with acid. It is rooted, or nearly, and it does not hunt; it waits. It is met in [[place-forestnoroad|The Forest of No Road]], the unclaimed forest below [[place-estrnreach|The Eastern Reach]] of [[place-vedyarargn|Vedyara Region]], where the hostel-keepers of the pilgrim road tell of lights among the trees that do not move as a camp's fire moves. Some of those lights are glowvines. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Glowvine is a dreadspawn made in the shape of a plant: a central knot of dark, woody growth from which thorned tendrils two to four feet long hang in every direction, studded with beads of living light that pulse to draw prey close. It catches what comes near, wraps it, crushes it, and digests it with acid. It is rooted, or nearly, and it does not hunt; it waits. It is met in [[place-forestnoroad|the Forest of No Road]], the unclaimed forest below [[place-estrnreach|the Eastern Reach]] of [[place-vedyarargn|Vedyara]], where the hostel-keepers of the pilgrim road tell of lights among the trees that do not move as a camp's fire moves. Some of those lights are glowvines. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -193,7 +193,7 @@ The glowvine's central mass is a knot of dark, twisted wood and fiber the size o
 
 ## In the Land
 
-The Forest of No Road is the country at the headwaters of [[place-bharavarivr|The Bharava]] that no janapoda has ever sent an assembly into and no temple has ever claimed. There are ways through it but no road, and the glowvines grow along those ways, in the canopy over game trails, in the hollows under great roots, and in the mouths of the caves in the limestone gullies. They want dark and damp, and they need prey that moves at night and is drawn to light: monkeys, deer, wild pigs, owls and moths, and men. A glowvine that has found a good place stays in it for years and grows larger. They are not found in the endowed forest of the lower river, where the gatherers have cut them out.
+The Forest of No Road is the country at the headwaters of [[place-bharavarivr|the Bharava]] that no janapoda has ever sent an assembly into and no temple has ever claimed. There are ways through it but no road, and the glowvines grow along those ways, in the canopy over game trails, in the hollows under great roots, and in the mouths of the caves in the limestone gullies. They want dark and damp, and they need prey that moves at night and is drawn to light: monkeys, deer, wild pigs, owls and moths, and men. A glowvine that has found a good place stays in it for years and grows larger. They are not found in the endowed forest of the lower river, where the gatherers have cut them out.
 
 ## Key Behaviors
 
@@ -201,7 +201,7 @@ A glowvine hangs still and glows. Animals that see the lights come to look, and 
 
 ## What the Forest's People Do
 
-The gathering peoples who work the margins of the forest, and the renunciants who go into it for years, tell newcomers the same thing: a light in the forest at night that does not flicker like fire is not a fire, and nobody walks toward it. Gatherers who find a glowvine near their season's path burn it out with pitch torches in daylight, when its lights are dim and its spores weak, and they never go near one after dark. The hostel-keepers at the margin say that ascetics who came back from the deep forest have described lights that sang to them, and that the ones who did not come back may have walked toward them. The beads of a dead glowvine keep their glow for a month, and they are sold at the margin to pilgrims, who are told they are lights from the enclaves of the [[lore-flksinale|Sinale Folk]] rumored in the forest, and who believe it.
+The gathering peoples who work the margins of the forest, and the renunciants who go into it for years, tell newcomers the same thing: a light in the forest at night that does not flicker like fire is not a fire, and nobody walks toward it. Gatherers who find a glowvine near their season's path burn it out with pitch torches in daylight, when its lights are dim and its spores weak, and they never go near one after dark. The hostel-keepers at the margin say that ascetics who came back from the deep forest have described lights that sang to them, and that the ones who did not come back may have walked toward them. The beads of a dead glowvine keep their glow for a month, and they are sold at the margin to pilgrims, who are told they are lights from the [[lore-flksinale|Sinale enclaves]] rumored in the forest, and who believe it.
 
 ## Signs
 

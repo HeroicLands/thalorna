@@ -1370,9 +1370,9 @@ sohl:
 # terran_analog: Jurthati is an island daughter of the Tantsou stock, open-syllabled and mora-timed in the manner of Japanese beside a Chinese-shaped parent, and its inherited words lose the parent's -ng into long vowels as Japanese readings of Chinese do. The inherited words follow from Tantsou by the change table; the island words coined here are made to the rules and are not the Japanese or Chinese word for their meaning.
 ---
 
-Jurthati Language is a tongue of the [Tantsou Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Jurthati, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Jurthati is a tongue of the [Tantsou Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Jurthati, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Jurthati is the speech of the [[affiliation-jenchaiempr|Jenchai Empire]]—the great island and the lesser island of the [[place-jenchairgn|Jenchai Region]], east of the mainland, which their inhabitants call **Teyan Jenjai**, the Nine Mountains Above the Clouds of Heaven: the peaks stand above the clouds, and the people who live on them stand above every other people, the western mainland first among them. In speech the name shortens to **Jenjai**, the Nine Mountains, the native reading of the name the court writes _Jenchai_. It descends from the [[skill-tantsoulng|Tantsou Language]] brought across the strait a thousand years and more ago, and a thousand years of separation, mutual non-recognition and open war have made it a distinct language rather than a dialect. [[affiliation-tantsouempr|Empire of Tantsou]] does not concede this, and Tantsou grammarians still describe Jurthati as a provincial corruption; Jurthati scholars return the compliment by describing mainland speech as what happens to a language administered by clerks.
+Jurthati is the speech of the [[affiliation-jenchaiempr|Jenchai Empire]]—the great island and the lesser island of the [[place-jenchairgn|Jenchai Region]], east of the mainland, which their inhabitants call **Teyan Jenjai**, the Nine Mountains Above the Clouds of Heaven: the peaks stand above the clouds, and the people who live on them stand above every other people, the western mainland first among them. In speech the name shortens to **Jenjai**, the Nine Mountains, the native reading of the name the court writes _Jenchai_. It descends from the [[skill-tantsoulng|Tantsou]] brought across the strait a thousand years and more ago, and a thousand years of separation, mutual non-recognition and open war have made it a distinct language rather than a dialect. [[affiliation-tantsouempr|Tantsou]] does not concede this, and Tantsou grammarians still describe Jurthati as a provincial corruption; Jurthati scholars return the compliment by describing mainland speech as what happens to a language administered by clerks.
 
 The [[skill-jurthatlng#lexicon|Jurthati Lexicon]] gives the words in their native reading with the changes that make them from Tantsou, the endings of the honorific grid, and the rules a house or a granted name is built by.
 
@@ -1420,7 +1420,7 @@ Jurthati is open-syllabled and even: a consonant and a vowel, again and again.
 
 ## Script & Literacy
 
-Jurthati is written in [[skill-tengchouscript|Teng Chou Script]], the same logographic Celestial Record the mainland uses—the script is not tied to either language, and a Jurthati retainer and a Tantsou minister who cannot exchange three spoken sentences can negotiate in writing without difficulty. Neither court will concede a separate script to the other, so the islands write the mainland's characters and read them aloud in their own tongue.
+Jurthati is written in [[skill-tengchouscript|Teng Chou]], the same logographic Celestial Record the mainland uses—the script is not tied to either language, and a Jurthati retainer and a Tantsou minister who cannot exchange three spoken sentences can negotiate in writing without difficulty. Neither court will concede a separate script to the other, so the islands write the mainland's characters and read them aloud in their own tongue.
 
 Two island habits diverge. First, the reading of a character in Jurthati is frequently not its Tantsou reading, and educated Jurthati hold **two** readings for many characters—the native word and the borrowed mainland pronunciation—with the choice between them carrying its own register. The realm's name, its ranks and castes, its titles and its rites are spoken in the mainland pronunciation, tones and all, while the same characters read in the native way give _Jenjai_ for _Jenchai_ and _dozo_ for a great lord's _Daozhuo_. Second, calligraphy in the formal hand is a spiritual discipline in Jenchai rather than a bureaucratic qualification, studied by warrior-retainers alongside blade-work and tea-craft, so literacy runs higher among the island aristocracy than among the mainland rank they correspond to.
 
@@ -1428,11 +1428,11 @@ Two island habits diverge. First, the reading of a character in Jurthati is freq
 
 **Court Jurthati (Chai Kowen):** The prestige speech of the ceremonial Emperor's household and the great lords' courts. Slowest, most honorific-dense, and the standard for poetry.
 
-**Coastal dialects:** The speech of the harbor provinces, with a considerable [[skill-valtarlng|Valtari Language]] and Tantsou trade vocabulary and much of the honorific grid worn smooth by use.
+**Coastal dialects:** The speech of the harbor provinces, with a considerable [[skill-valtarlng|Valtari]] and Tantsou trade vocabulary and much of the honorific grid worn smooth by use.
 
 **Mountain dialects:** Conservative, keeping a closing _-ng_ the standard has lengthened away, and often unintelligible to a coastal speaker at speed.
 
-**Shrine register:** Archaic, used in [[affiliation-tengwouronglei|Téngwou Rong Lei]] rites, and preserving mainland forms whole, tones and all, centuries after ordinary speech abandoned them.
+**Shrine register:** Archaic, used in [[affiliation-tengwouronglei|Celestial Order]] rites, and preserving mainland forms whole, tones and all, centuries after ordinary speech abandoned them.
 
 ## Sample Phrases
 

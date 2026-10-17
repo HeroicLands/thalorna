@@ -19,7 +19,7 @@ data:
 
 "Count the barges on the grain quay and then count the mouths," a granary clerk tells a new tally-boy at the [[place-galezkara|Galezkara]] docks. "There are two and a half million of them in this selat, and the barges have to keep up."
 
-**Galezkara Selat** is the land of [[affiliation-capitalselat|The Capital Selat]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It holds the palace and the throne, the central bureaucracy, the greatest temples of the [[affiliation-khelathpnthn|Khelathi Pantheon]], the [[affiliation-genzetpalu|Genzet'Palu]] council, and, across the river on the western bank, the royal necropolis where the houses that have ruled from Galezkara since the Crossing lie buried ([[lore-crossmound|The Crossing to the Mound]], 1006 ST, 1105 BF). With some two and a half million people it is the most populous selat in the empire, and the densest concentration of power, wealth and people in [[place-xerathia|Zerathia]].
+**Galezkara Selat** is the land of [[affiliation-capitalselat|the Capital Selat]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It holds the palace and the throne, the central bureaucracy, the greatest temples of the [[affiliation-khelathpnthn|Khelathi Pantheon]], the [[affiliation-genzetpalu|Genzet'Palu]] council, and, across the river on the western bank, the royal necropolis where the houses that have ruled from Galezkara since the Crossing lie buried ([[lore-crossmound|the Crossing to the Mound]], 1006 ST, 1105 BF). With some two and a half million people it is the most populous selat in the empire, and the densest concentration of power, wealth and people in [[place-xerathia|Zerathia]].
 
 ## Character
 
@@ -27,14 +27,14 @@ The selat is a city and its hinterland on a vast scale. The metropolis of Galezk
 
 ## Economy
 
-The Capital Selat consumes more than it produces, and is proud of it. Grain barged down from [[affiliation-upperrivrslt|The Upper River Selatu]] and the produce of its own dense hinterland feed it. The tribute and taxes of the other provinces fill its treasuries. An immense population earns its keep in the work of governing, worshipping, building and burying.
+The Capital Selat consumes more than it produces, and is proud of it. Grain barged down from [[affiliation-upperrivrslt|the Upper River Selatu]] and the produce of its own dense hinterland feed it. The tribute and taxes of the other provinces fill its treasuries. An immense population earns its keep in the work of governing, worshipping, building and burying.
 
 The great temple-complexes are economic enterprises in their own right, owning farmland across the selat and employing thousands. The mortuary industry, which takes in the embalmers, tomb-builders, funerary artists, priests and the grave-goods trades that serve the royal necropolis, sustains whole districts. The monuments, built on through every flood season, make up the largest public works program in the known world.
 
 ## Notable Features
 
-- The imperial palace and the throne of the [[lore-garauu|Gar-Auu]], at the heart of Galezkara
-- The great temples—the [[affiliation-uqaa|Faith of Uqa'a]] that defines official doctrine chief among them
+- The imperial palace and the throne of the [[lore-garauu|Gar-Au]], at the heart of Galezkara
+- The great temples—the [[affiliation-uqaa|cult of Uqa'a]] that defines official doctrine chief among them
 - The royal necropolis on the western bank—pyramids and rock-cut tombs of eighteen centuries of dynasties, from the Crossing to the Mound onward
 
 ## Settlements

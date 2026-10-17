@@ -8,13 +8,13 @@ tags: [history, vedyara]
 data: {packFolder: vedyara, culture: vedyariclt}
 ---
 
-If **The Age of Copyists** has a sound, it is a stylus on a palm leaf. For four centuries after [[lore-fortydays|The Forty Days]], the [[place-vedyarargn|Vedyara Region]] wrote things down: [[place-rajavalilib|The Rajavali Library]] kept the dissolved kingdom's record whole, the copying country of [[place-sarvadarivr|The Sarveda]] began, endowments were written and land-tenure was recorded, and the jurists began to write their commentaries. [[place-madhavendra|Madustana]] emptied in the same centuries without any event to explain it, and the scholars who name the age do not try.
+If **the Age of Copyists** has a sound, it is a stylus on a palm leaf. For four centuries after [[lore-fortydays|the Forty Days]], [[place-vedyarargn|Vedyara]] wrote things down: [[place-rajavalilib|the Rajavali Library]] kept the dissolved kingdom's record whole, the copying country of [[place-sarvadarivr|the Sarveda]] began, endowments were written and land-tenure was recorded, and the jurists began to write their commentaries. [[place-madhavendra|Madustana]] emptied in the same centuries without any event to explain it, and the scholars who name the age do not try.
 
 ## What Happened
 
-The age was quiet and was not peaceful. About 125 BF a master of the indigo valleys took the cloth city and was crowned in it ([[lore-vylndrcrwn|The Raising of the Vyalendri Crown]]). About 80 BF raiders from a neighboring hill kingdom took a month's gold off [[place-suvarnagiri|Suvarnageri]]'s weighing-station, and the king of [[affiliation-bharyastan|The Kingdom of Bharyastan]] brought it back by weight ([[lore-lastgldrd|The Last Gold Raid]]), which is the last time the gold mountain has lost gold to anyone. About 200 BF [[affiliation-agnipantha|Agmi-pantra]] was put out of the city temples for the first time ([[lore-agnipartng|The Three Partings of the Agmi-pantra]]).
+The age was quiet and was not peaceful. About 125 BF a master of the indigo valleys took the cloth city and was crowned in it ([[lore-vylndrcrwn|the Raising of the Vyalendri Crown]]). About 80 BF raiders from a neighboring hill kingdom took a month's gold off [[place-suvarnagiri|Suvarnageri]]'s weighing-station, and the king of [[affiliation-bharyastan|Bharyastan]] brought it back by weight ([[lore-lastgldrd|the Last Gold Raid]]), which is the last time the gold mountain has lost gold to anyone. About 200 BF the [[affiliation-agnipantha|Agmi-pantra]] was put out of the city temples for the first time ([[lore-agnipartng|the Three Partings]]).
 
-About 60 AF the clans of the northern highlands chartered a king to hold the road through [[place-suryadvara|Suryadvara]] ([[lore-passcharter|The Charter of the Pass-Road]]). About 120 AF [[place-mahanadi|The Mahanodi]] moved and drowned a royal seat ([[lore-drwnngseat|The Drowning of the Royal Seat]]).
+About 60 AF the clans of the northern highlands chartered a king to hold the road through [[place-suryadvara|Suryadvara]] ([[lore-passcharter|the Charter of the Pass-Road]]). About 120 AF [[place-mahanadi|the Mahanodi]] moved and drowned a royal seat ([[lore-drwnngseat|The Drowning of the Royal Seat]]).
 
 ## Rulers
 
@@ -29,11 +29,11 @@ Bharyastan
 
 ## Its End
 
-About 150 AF the eleventh Vyalendri king's line ended, and the [Loom-Council]{.name data-type="affiliation/governmental"} sat down in his audience hall ([[lore-vylndrkngs|The End of the Vyalendri Kingship]]). [[lore-hundredcrwn|The Hundred Crowns]] follow.
+About 150 AF the eleventh Vyalendri king's line ended, and the [Loom-Council]{.name data-type="affiliation/governmental"} sat down in his audience hall ([[lore-vylndrkngs|the End of the Vyalendri Kingship]]). [[lore-hundredcrwn|The Hundred Crowns]] follow.
 
 ## See Also
 
-[[lore-agekingdoms|The Age of Kingdoms]] · [[lore-hundredcrwn|The Hundred Crowns]]
+[[lore-agekingdoms|The Age of Kingdoms]] · [[lore-hundredcrwn|the Hundred Crowns]]
 : the ages on either side
 
 [[place-raiderscairn|The Raiders' Cairn]]

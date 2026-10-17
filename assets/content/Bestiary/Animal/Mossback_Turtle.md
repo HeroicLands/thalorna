@@ -248,7 +248,7 @@ The canoe slides between flooded trunks, and the paddler steers round a hummock 
 
 # Dossier {#dossier}
 
-The Mossback Turtle is a huge, slow, long-lived turtle of the flooded forests of [[place-xelemrgn|Shelem Region]], eight to ten feet from beak to tail and about a ton, whose domed shell grows so thick with moss, lichen, fungus and seedlings that it looks like a mound of earth or a mossy rock. It grazes water plants, fallen fruit, fungus and leaves, and does not hunt. It is dangerous only when it is disturbed, cornered or stepped on, and then its beak takes off fingers and its weight breaks bones. The river peoples count it among the presences of the forest, and a very old mossback is something they treat with care.
+The Mossback Turtle is a huge, slow, long-lived turtle of the flooded forests of [[place-xelemrgn|Shelem]], eight to ten feet from beak to tail and about a ton, whose domed shell grows so thick with moss, lichen, fungus and seedlings that it looks like a mound of earth or a mossy rock. It grazes water plants, fallen fruit, fungus and leaves, and does not hunt. It is dangerous only when it is disturbed, cornered or stepped on, and then its beak takes off fingers and its weight breaks bones. The river peoples count it among the presences of the forest, and a very old mossback is something they treat with care.
 
 ## Presentation
 

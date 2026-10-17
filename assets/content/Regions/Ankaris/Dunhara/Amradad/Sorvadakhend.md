@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [amradadrgn], government: kngdmmrdd, pa
 
 ## Overview
 
-Sorvadakhend is a significant rural settlement of the [[place-amradadrgn|Amradad Region]], governed by the [Village Elders of Sorvadakhend]{.name data-type="affiliation/governmental"}, who decide its affairs collectively. A farming settlement lives by the seasons, and the elders do not decide when to plant, when to move water or when to store against a bad year without first hearing what the stars say.
+Sorvadakhend is a significant rural settlement of [[place-amradadrgn|Amradad]], governed by the [Village Elders of Sorvadakhend]{.name data-type="affiliation/governmental"}, who decide its affairs collectively. A farming settlement lives by the seasons, and the elders do not decide when to plant, when to move water or when to store against a bad year without first hearing what the stars say.
 
 ## The Astrologer on Retainer
 

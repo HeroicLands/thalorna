@@ -36,4 +36,4 @@ Sirethos Kolsamis is a 38-year-old man who stands 5'9" tall with a medium build.
 
 # Dossier {#dossier}
 
-Sirethos Kolsamis is the Blazewarden of [[affiliation-sonsmuspell|The Sons of Eldheim]], a military order of [[affiliation-blackflame|The Black Flame]], and leads its campaign against the [[lore-varokhiclt|Varokhi]]. He has sworn to burn the Varokhi forest and to sacrifice its Shamans to [[lore-ustarondty|Ústaron]], and has fought [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]]'s forces on several occasions.
+Sirethos Kolsamis is the Blazewarden of [[affiliation-sonsmuspell|the Sons of Eldheim]], a military order of [[affiliation-blackflame|the Black Flame]], and leads its campaign against the [[lore-varokhiclt|Varokh]]. He has sworn to burn the Varokhi forest and to sacrifice its Shamans to [[lore-ustarondty|Ústaron]], and has fought [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]]'s forces on several occasions.

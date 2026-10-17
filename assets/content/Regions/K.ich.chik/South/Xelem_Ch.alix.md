@@ -10,11 +10,11 @@ data: {demonym: null, lore: [], parents: [qapteltzaklrgn], population: 900, pack
 
 ## Overview
 
-Shelem Ch’alish, "The House of the Dead Bird," is the final outpost of civilization on the [[place-kchchkcntnnt|K'ich'chik Continent]] before the forsaken wastes of the [[place-xelemixbalrgn|Shelem Ish'bal Region]]. The settlement is a temple-fortress of forbidding aspect, built to endure and to serve as both blessing-place and final supply depot for those venturing into the abyss. Few permanently live here save the priesthood and their essential servants; most inhabitants are transient—warriors, priests, and desperate individuals gathering supplies and spiritual fortification before departing southward.
+Shelem Ch’alish, "The House of the Dead Bird," is the final outpost of civilization on the [[place-kchchkcntnnt|K'ich'chik Continent]] before the forsaken wastes of [[place-xelemixbalrgn|Shelem Ish’bal]]. The settlement is a temple-fortress of forbidding aspect, built to endure and to serve as both blessing-place and final supply depot for those venturing into the abyss. Few permanently live here save the priesthood and their essential servants; most inhabitants are transient—warriors, priests, and desperate individuals gathering supplies and spiritual fortification before departing southward.
 
 ## Location and Geography
 
-Shelem Ch’alish stands at the boundary between the [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]] and the true wastes, built on a high plateau with clear sight-lines in all directions toward the south. The architecture is entirely defensive and ritualistic—high walls, watchtowers, and a central pyramid-temple of imposing grandeur. The landscape around the city is already hostile; toxic mineral flats and geothermal vents mark the transition zone, and the priesthood uses these natural features as outer defenses.
+Shelem Ch’alish stands at the boundary between [[place-qapteltzaklrgn|Q’aptel Tsa’kul]] and the true wastes, built on a high plateau with clear sight-lines in all directions toward the south. The architecture is entirely defensive and ritualistic—high walls, watchtowers, and a central pyramid-temple of imposing grandeur. The landscape around the city is already hostile; toxic mineral flats and geothermal vents mark the transition zone, and the priesthood uses these natural features as outer defenses.
 
 ## Religious and Functional Role
 

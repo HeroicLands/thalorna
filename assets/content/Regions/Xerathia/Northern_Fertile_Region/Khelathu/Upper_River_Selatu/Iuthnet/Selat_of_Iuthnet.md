@@ -63,7 +63,7 @@ The Selat of Iuthnet is one of the upper-river selatu of the [[affiliation-empir
 
 ## Character
 
-The seat is Iuthnet, where the Halzi'a keeps his court and the chief temple of the [[affiliation-uznera|Faith of Uzn'era]] stands. Below the Halzi'a, estates are held by a Legha'lutu or a Zabet'lutu, master or mistress of the manor, its fields and its village, and a Zabet'lutu holds hers in her own right. That is Uzn'era's teaching at work: women in the empire own property, initiate divorce and hold priestly office, up to the highest, because the goddess's faith will not treat a wife as property.
+The seat is Iuthnet, where the Halzi'a keeps his court and the chief temple of [[affiliation-uznera|Uzn'era]] stands. Below the Halzi'a, estates are held by a Legha'lutu or a Zabet'lutu, master or mistress of the manor, its fields and its village, and a Zabet'lutu holds hers in her own right. That is Uzn'era's teaching at work: women in the empire own property, initiate divorce and hold priestly office, up to the highest, because the goddess's faith will not treat a wife as property.
 
 ## Commerce and Currency
 

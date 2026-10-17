@@ -80,7 +80,7 @@ The Compact is the one a visitor feels first. Its headquarters is the old Vylari
 
 ## Commerce and Currency
 
-Besikar's harbor counts its dues in the [[lore-trzlncrncy|Taruzelian Currency]], whose treasury, the **[Merazuni]{.name data-type="affiliation"}** of the [[affiliation-vezakuni|Vezakuni]], has its strongroom here. The coins carry the Vylarian denominations (Solden, Ardin and Bit) on Taruzelian reserves rather than on the Vylarian reserves of [[affiliation-tarmex|The Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. Merazuni-affiliated moneylenders carry the city's banking; they refuse Vylarian script, and no Vylarian house takes theirs.
+Besikar's harbor counts its dues in the [[lore-trzlncrncy|Taruzelian currency]], whose treasury, the **[Merazuni]{.name data-type="affiliation"}** of the [[affiliation-vezakuni|Vezakuni]], has its strongroom here. The coins carry the Vylarian denominations (Solden, Ardin and Bit) on Taruzelian reserves rather than on the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. Merazuni-affiliated moneylenders carry the city's banking; they refuse Vylarian script, and no Vylarian house takes theirs.
 
 ## See Also
 

@@ -16,21 +16,21 @@ data:
 
 ## Overview
 
-North of [[place-driskborg|Draskborg]], up the river and past the last of the burned farms, the ground drops to Dvilgvatn, a lake that does not thaw. The name is sleep taken standing, on watch, _dvilg-_, with the generic for a lake, and it describes what the lake keeps. [[affiliation-nalok|Nalok]] call it the Void-Water. The ice at its shore is the grey of any northern lake. Toward the middle it darkens to a black that takes the light and gives none back, and at the center, on a still night, the black has a depth in it that the eye cannot find the bottom of.
+North of [[place-driskborg|Draskborg]], up the river and past the last of the burned farms, the ground drops to a lake that does not thaw. The name is sleep taken standing, on watch, _dvilg-_, with the generic for a lake, and it describes what the lake keeps. [[affiliation-nalok|Nalok]] call it the Void-Water. The ice at its shore is the grey of any northern lake. Toward the middle it darkens to a black that takes the light and gives none back, and at the center, on a still night, the black has a depth in it that the eye cannot find the bottom of.
 
 Hunters of [[place-targud|Targud]] say the lake looks back. A person who crosses the black ice and glances down sees a face in it. It is the face of someone they have lost, and the face is looking up.
 
 ## The Leak
 
-The tradition holds that [[lore-nahilddty|Nahild]] wears [[lore-ginnauga|Ginnauga]], the Eye of the Void, at her neck, and that her need to gaze into it drives her further into madness. The Eye is a source of [[lore-theshadow|The Shadow]], and the Shadow corrupts whatever it touches. A caustic dread seeps from it into the mortal world, and the tradition does not say where. At Dvilgvatn the seep has found a place to come through. The ice over it will not melt and does not hold a footprint, and a body left on it does not rot. The black spreads outward from the center a hand's breadth in a hard winter.
+The tradition holds that [[lore-nahilddty|Nahild]] wears [[lore-ginnauga|Ginnauga]], the Eye of the Void, at her neck, and that her need to gaze into it drives her further into madness. The Eye is a source of [[lore-theshadow|the Shadow]], and the Shadow corrupts whatever it touches. A caustic dread seeps from it into the mortal world, and the tradition does not say where. At Dvilgvatn the seep has found a place to come through. The ice over it will not melt and does not hold a footprint, and a body left on it does not rot. The black spreads outward from the center a hand's breadth in a hard winter.
 
 The dead who freeze on the lake do not stay frozen. The Nordmen who know the lake name them **Ginnborn**, the children of the void: travelers, raiders and refugees who died on the black ice and stood up again with ice in their limbs. They are [[lore-undead|undead]] of the plainest kind, bodies driven by the Shadow with a last hunger left in them, and the cold they carry kills slowly.
 
 ## The Hov Beneath
 
-A hidden hov of the [[affiliation-nahild|Faith of Nahild]] stands under the ice at the lake's center. Its roof-ridge lies a man's height below the surface, its walls are ship-timber and black glass, and a stair cut through the ice leads down to a door. The hov is kept by Nalok, the Order of the Void, whose purpose is to widen the Eye's reach over whatever ground the members can reach. They cut the black ice into shards of glass and carry them out to places that can hold them: a howe whose grave-ale was never drunk, a field where the dead lie unreceived.
+A hidden hov of [[affiliation-nahild|Nahild]] stands under the ice at the lake's center. Its roof-ridge lies a man's height below the surface, its walls are ship-timber and black glass, and a stair cut through the ice leads down to a door. The hov is kept by Nalok, the Order of the Void, whose purpose is to widen the Eye's reach over whatever ground the members can reach. They cut the black ice into shards of glass and carry them out to places that can hold them: a howe whose grave-ale was never drunk, a field where the dead lie unreceived.
 
-The members are not all fanatics. The burned east produces a steady supply of the desperate. A bundi who lost his farm and his family to the [[lore-grukarfolk|Grukar Folk]], who found no room at the fortress and no kin in the town, can be taken in by the hov, and the hov asks nothing at first but labor and silence.
+The members are not all fanatics. The burned east produces a steady supply of the desperate. A bundi who lost his farm and his family to the [[lore-grukarfolk|Grukar]], who found no room at the fortress and no kin in the town, can be taken in by the hov, and the hov asks nothing at first but labor and silence.
 
 ## Who Knows of It
 

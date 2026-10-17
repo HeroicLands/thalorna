@@ -415,7 +415,7 @@ sohl:
 
 ![[gnldrthnslvrgr|Gnaldrthann Solvargr]]{float=top-left}
 
-Gnaldrthann Solvargr stands 6'3" tall with a heavy build. He has tanned weathered skin, grey hair, and blue eyes. His features include a broad face, a straight nose, a soft jawline, full lips, and gently curved brows. He has a tattoo of a lion's mane on his chest.
+Gnaldrthann stands 6'3" tall with a heavy build. He has tanned weathered skin, grey hair, and blue eyes. His features include a broad face, a straight nose, a soft jawline, full lips, and gently curved brows. He has a tattoo of a lion's mane on his chest.
 
 # Dossier {#dossier}
 

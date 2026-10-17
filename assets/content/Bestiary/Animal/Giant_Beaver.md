@@ -256,7 +256,7 @@ The river has gone wrong. Where the boatman says there should be a run of fast w
 
 # Dossier {#dossier}
 
-The Giant Beaver is a three-hundred-pound water rodent four feet high at the shoulder, which fells trees, dams rivers and builds lodges on a scale that changes the map, and it lives on the slow [[place-vrystwldrvrs|Vristwald Rivers]] and in the marsh country of [[place-grkrhlmrgn|Grukarholm Region]] to the east. A family's dams turn a mile of river into a chain of lakes, drown a stand of forest and close a boat-road, and the family defends the work against anything that touches it. The [[lore-varokhiclt|Varokhi]] who live by the rivers deal with it as they deal with a flood: by moving, by waiting, or, when they must, by breaking the dam at night with the whole village and running.
+The Giant Beaver is a three-hundred-pound water rodent four feet high at the shoulder, which fells trees, dams rivers and builds lodges on a scale that changes the map, and it lives on the slow [[place-vrystwldrvrs|rivers of Vristwald]] and in the marsh country of [[place-grkrhlmrgn|Grukarholm]] to the east. A family's dams turn a mile of river into a chain of lakes, drown a stand of forest and close a boat-road, and the family defends the work against anything that touches it. The [[lore-varokhiclt|Varokh]] who live by the rivers deal with it as they deal with a flood: by moving, by waiting, or, when they must, by breaking the dam at night with the whole village and running.
 
 ## Presentation
 

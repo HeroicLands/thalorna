@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The indigo announces **Vyalendra Land** well before the first village does: a stain on the air and the water that tells a traveler the dyers are working upstream. The land is the country [[affiliation-vyalendra2|Vyalendra City-State]] holds, the valleys of the [Nilachari]{.name data-type="place/feature"} in the southern [[place-vedyarargn|Vedyara Region]] where cotton fields run to the foot of the hills on both sides, together with the river road that carries the finished cloth down to the sea. The city sits in the middle of it, and the land is a single manufacture spread across a hundred villages—carders in one, spinners in the next, dyers wherever the water is right, and weavers everywhere.
+The indigo announces **Vyalendra Land** well before the first village does: a stain on the air and the water that tells a traveler the dyers are working upstream. The land is the country [[affiliation-vyalendra2|the city-state of Vyalendra]] holds, the valleys of the [Nilachari]{.name data-type="place/feature"} in the southern [[place-vedyarargn|Vedyara Region]] where cotton fields run to the foot of the hills on both sides, together with the river road that carries the finished cloth down to the sea. The city sits in the middle of it, and the land is a single manufacture spread across a hundred villages—carders in one, spinners in the next, dyers wherever the water is right, and weavers everywhere.
 
 ## How the land is held
 

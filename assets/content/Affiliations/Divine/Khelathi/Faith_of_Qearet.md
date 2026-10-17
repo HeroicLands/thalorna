@@ -58,7 +58,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A Wazu of the Faith of Qe'aret in a white linen kilt stops a petitioner at the door of the temple archive and looks at the scroll under his arm. "A contract with a man from the next town? Good; that is written, and the scribe will read it to you. But you came in asking whether she will forgive you for what you did to your brother. Nothing in this building can answer that. She keeps that account herself, and she is not kind."
+A Wazu of Qe'aret in a white linen kilt stops a petitioner at the door of the temple archive and looks at the scroll under his arm. "A contract with a man from the next town? Good; that is written, and the scribe will read it to you. But you came in asking whether she will forgive you for what you did to your brother. Nothing in this building can answer that. She keeps that account herself, and she is not kind."
 
 The faith teaches that [[lore-qearetdty|Qe'aret]] is the great balancing force of the cosmos, and she is a goddess of absolute truth and immutable law, not of compassion or mercy. Before creation chaos ruled; she imposed order on that primordial darkness and set the laws by which the universe runs and by which all creation must abide. To live in harmony with her is to live truthfully, honor your oaths, speak with clarity and balance every action with restraint and wisdom.
 
@@ -86,7 +86,7 @@ Each month the Wazu of her temples perform the **[Ritual of the Scales]{.name da
 
 ## Organization
 
-At the head stands the Thaz'Lekhau, the High Priest or High Priestess, among the most powerful positions in the [[affiliation-empireakhlth|Empire of Au'Khelathu]] because the holder is the final arbiter of divine law and justice. Below stand the Lem'Nelgir, the ordained priests who serve as judges, keepers of law and interpreters of Qe'aret's will. They are chosen for wisdom, impartiality and unwavering commitment to truth, and many train in law, rhetoric and theology for decades before ordination.
+At the head stands the Thaz'Lekhau, the High Priest or High Priestess, among the most powerful positions in [[affiliation-empireakhlth|Au'Khelathu]] because the holder is the final arbiter of divine law and justice. Below stand the Lem'Nelgir, the ordained priests who serve as judges, keepers of law and interpreters of Qe'aret's will. They are chosen for wisdom, impartiality and unwavering commitment to truth, and many train in law, rhetoric and theology for decades before ordination.
 
 The third tier is the Wazu, young men and women who serve the temples in preparation for possible ordination. They study the legal codes, learn to read and write the sacred scripts, and serve as scribes and administrators within the temple complex. A Wazu must show absolute fidelity to Qe'aret's principles before advancement is even considered.
 

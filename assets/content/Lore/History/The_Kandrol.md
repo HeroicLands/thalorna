@@ -64,7 +64,7 @@ data:
 ---
 
 The [[affiliation-seldan|Seldan]] (the Senate), having just lost control of its own generals, discovered it had also lost every man who
-could tell it whether [[lore-recensio|The Therona of Alessa]] would happen again. The survivors drafted their own
+could tell it whether [[lore-recensio|Alessa]] would happen again. The survivors drafted their own
 terms and the Senate took them.
 
 _The bargain is [[affiliation-ordoarcanis|Thordimalon]]'s politics for the nearly eight centuries since._ It accepts the duties—the
@@ -73,7 +73,7 @@ exchange holds its own property, elects its own head, tries its own members in i
 answers to the state as a body and never as men. It is a corporation chartered by the [Vylarian Republic]{.name data-type="affiliation/polity"}, which no longer exists, and every Orzas since has inherited a
 privilege he did not grant and cannot withdraw.
 
-_Why it is still a college of [[affiliation-panepistmm|Epistémion]]._ The Kandrol chartered the Order inside the
+_Why it is still a college of the [[affiliation-panepistmm|Epistémion]]._ The Kandrol chartered the Order inside the
 Epistémion (the Academy of Knowledge), not beside it: on paper the Thordimalon (the Arcane Order) is the College of Arcane Philosophy within the Epistémion (the Academy) to this
 day, and the sign over every chapter-house door is the Epistémion's because the legal right to the
 door is. What the Lex took out of the Epistémion's hands was the work. The philosophers would not

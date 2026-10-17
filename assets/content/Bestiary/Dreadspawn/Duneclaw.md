@@ -200,7 +200,7 @@ A vast scorpion, low and broad, its body a chain of plates each as big as a cart
 
 ## In the Land
 
-The Duneclaw of Evod holds the old shore dunes along the western edge of the basin, in the lee of the dunes where the salt meets the sand, and it lairs in a burrow under them that no one has found. Its ground is the strip a traveler must cross to get on or off the salt, and it knows every hardpan and every place a herd passes. The lake people's brick stairs and stepped mounds stand along that old shore, and the [[being-yolequd|Yolakud]] walks the salt beyond it, so a party that has come for what [[lore-basinbldrs|The Basin Builders]] left has the duneclaw behind it and the salt-spirit in front. The others of its kind live in the deep sands of the Khoshiqor, each alone on a stretch of dune many miles across.
+The Duneclaw of Evod holds the old shore dunes along the western edge of the basin, in the lee of the dunes where the salt meets the sand, and it lairs in a burrow under them that no one has found. Its ground is the strip a traveler must cross to get on or off the salt, and it knows every hardpan and every place a herd passes. The lake people's brick stairs and stepped mounds stand along that old shore, and the [[being-yolequd|Yolakud]] walks the salt beyond it, so a party that has come for what [[lore-basinbldrs|the Basin Builders]] left has the duneclaw behind it and the salt-spirit in front. The others of its kind live in the deep sands of the Khoshiqor, each alone on a stretch of dune many miles across.
 
 ## Key Behaviors
 

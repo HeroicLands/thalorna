@@ -50,7 +50,7 @@ sohl: {system: {commonSkills: []}}
 
 ## The Courts of Orzara
 
-Justice and civic government in the imperial capital run along three separate tracks that meet only at the throne. The **[[place-orzara|Orzara City]] beyond the [Inner Wall]{.name data-type="place/structure"}**—its administration, its courts, its Watch, and its daily supply—is governed by the **Verdan Orzara**, the Council of the City. **[[place-arvon|Arvon]] (the Inner City)** keeps its own order under [[affiliation-sorvan|The Sorvan]], the imperial guard. And the **imperial tribunals**—the throne's own courts—sit apart from both, within the **[Imperial Offices]{.name data-type="place/structure"}** compound, answerable to the Orzas, the emperor, alone.
+Justice and civic government in the imperial capital run along three separate tracks that meet only at the throne. The **[[place-orzara|city]] beyond the [Inner Wall]{.name data-type="place/structure"}**—its administration, its courts, its Watch, and its daily supply—is governed by the **Verdan Orzara**, the Council of the City. **[[place-arvon|Arvon]] (the Inner City)** keeps its own order under [[affiliation-sorvan|the Sorvan]], the imperial guard. And the **imperial tribunals**—the throne's own courts—sit apart from both, within the **[Imperial Offices]{.name data-type="place/structure"}** compound, answerable to the Orzas, the emperor, alone.
 
 ### The Verdan Orzara—the Council of the City
 

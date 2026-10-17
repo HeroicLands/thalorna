@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [taruzelrgn], population: 180000, gover
 
 ## Overview
 
-Every year Yamuzel holds its **[Fleet Review]{.name data-type="lore/gathering"}**, and the whole city turns out on the walls and quays to watch its own ships go by. The Review commemorates the [Battle of Tamzir Shoals]{.name data-type="lore/history"} ([[place-tamzirshoals|Tamzir Shoals]]) and draws visitors from across the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], because Yamuzel built the fleet that won that battle. It is the Confederation's naval stronghold, a heavily fortified city of about 180,000 on the narrows between the islands of the [[place-taruzelrgn|Taruzel Region]]. Where [[place-besikar2|Besikar]] runs on money, Yamuzel runs on pride.
+Every year Yamuzel holds its **[Fleet Review]{.name data-type="lore/gathering"}**, and the whole city turns out on the walls and quays to watch its own ships go by. The Review commemorates the [Battle of Tamzir Shoals]{.name data-type="lore/history"} ([[place-tamzirshoals|Tamzir Shoals]]) and draws visitors from across the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], because Yamuzel built the fleet that won that battle. It is the Confederation's naval stronghold, a heavily fortified city of about 180,000 on the narrows between the islands of [[place-taruzelrgn|Taruzel]]. Where [[place-besikar2|Besikar]] runs on money, Yamuzel runs on pride.
 
 ## The Fortress and the Yards
 
@@ -22,7 +22,7 @@ The **[Admiral's Council]{.name data-type="affiliation/governmental"}** governs 
 
 ## The Veterans' Quarter
 
-Yamuzel is home to a large community of sailors and marines from the war of independence who settled here afterward, and the **[Veterans' Quarter]{.name data-type="place/site"}** is where they live. They were promised land, status and guild membership, and none of it was honored. The [[affiliation-auricompct|Auric Compact]] and the other great guilds regard them as a nuisance; the veterans regard the guilds as traitors to a cause the guilds financed and never bled for. The quarter is politically potent and grows more frustrated every year. The [[affiliation-corsairleg|Corsair League]] has its strongest roots in the city, and the captain of [[affiliation-thetamzir|The Tamzir]] has more connections in Yamuzel than anywhere else, and more enemies.
+Yamuzel is home to a large community of sailors and marines from the war of independence who settled here afterward, and the **[Veterans' Quarter]{.name data-type="place/site"}** is where they live. They were promised land, status and guild membership, and none of it was honored. The [[affiliation-auricompct|Auric Compact]] and the other great guilds regard them as a nuisance; the veterans regard the guilds as traitors to a cause the guilds financed and never bled for. The quarter is politically potent and grows more frustrated every year. The [[affiliation-corsairleg|Corsair League]] has its strongest roots in the city, and the captain of [[affiliation-thetamzir|the Tamzir]] has more connections in Yamuzel than anywhere else, and more enemies.
 
 ## See Also
 

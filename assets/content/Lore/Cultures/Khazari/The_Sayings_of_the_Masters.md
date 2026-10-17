@@ -13,7 +13,7 @@ data:
   language: khazarlng
 ---
 
-**The Sayings of the Masters**, _Gatharirezith vazanez_, is the workshop wisdom of the [[lore-khazariclt|Khazari]] as one hold keeps it: the sayings (_vazan_) of twelve masters, each received from the one before and handed to the one after, so that the chain of names is recited before any saying is. A master says them to apprentices one at a time across the years of listening, usually at the face, with the stone a saying is about under the apprentice's hand, because a saying is a thing said over a matter and it waits for its matter. The whole chain is read aloud once, below, on the oath-day when an apprentice is admitted to strike, and the hammer is given after the last word. The copy transcribed here is [[place-vorgald|Vorgald]]'s, kept on lead sheets in the hold's archive; the chain is Vorgald's own, and the holds over the water keep chains of their own that share its older names and, but for [Dulkun of Khalvagunáv]{.name data-type="being/npc"}, none of its later ones. The valley the two masters quarrel over near the end is [[place-vardainvalleys|The Vardain Valleys]] beneath the hold, which the text calls only the valley and the gate. Two of the masters spoke in the coursed line of the deep songs, and their sayings are read in that line; the rest are said plainly, and nothing in the chain is sung.
+**The Sayings of the Masters**, _Gatharirezith vazanez_, is the workshop wisdom of the [[lore-khazariclt|Khazari]] as one hold keeps it: the sayings (_vazan_) of twelve masters, each received from the one before and handed to the one after, so that the chain of names is recited before any saying is. A master says them to apprentices one at a time across the years of listening, usually at the face, with the stone a saying is about under the apprentice's hand, because a saying is a thing said over a matter and it waits for its matter. The whole chain is read aloud once, below, on the oath-day when an apprentice is admitted to strike, and the hammer is given after the last word. The copy transcribed here is [[place-vorgald|Vorgald]]'s, kept on lead sheets in the hold's archive; the chain is Vorgald's own, and the holds over the water keep chains of their own that share its older names and, but for [Dulkun of Khalvagunáv]{.name data-type="being/npc"}, none of its later ones. The valley the two masters quarrel over near the end is [[place-vardainvalleys|the Vardain valleys]] beneath the hold, which the text calls only the valley and the gate. Two of the masters spoke in the coursed line of the deep songs, and their sayings are read in that line; the rest are said plainly, and nothing in the chain is sung.
 
 ## The Chain
 
@@ -187,7 +187,7 @@ If the hold calls this a fault, enter it against my name. I would rather it stoo
 
 ## Holbon of Lakamamulán
 
-Holbon of Lakamamulán, of the [Lummáv]{.name data-type="affiliation/lineage"} clan (see [[lore-khazararrv|The Coming of the Khazari]]), kept the archive, and received listening from Vutamu. He answered her, and the chain keeps the answer whole. It is read in the keeper's voice, from the lead.
+Holbon of Lakamamulán, of the [Lummáv]{.name data-type="affiliation/lineage"} clan (see [[lore-khazararrv|the Coming of the Khazari]]), kept the archive, and received listening from Vutamu. He answered her, and the chain keeps the answer whole. It is read in the keeper's voice, from the lead.
 
 Vutamu has said what the gate was not given. I will read what it was given, because it is written, and what is written is read.
 

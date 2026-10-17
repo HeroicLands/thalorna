@@ -15,7 +15,7 @@ data:
 
 ## Overview
 
-Southern K'ich'chik is where the ordered K'ich'chik world runs out. The realms of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]] and [[affiliation-kuxiixbal|K'ushi Ish'bal]] are fully part of K'ich'chik civilization, with cities, agricultural estates and the priesthood's _ish'lan ch'upul_ (white roads); beyond [[affiliation-qapteltzakl|Q'aptel Tsa'kul]], the road ends at the wastes of the [[place-xelemixbalrgn|Shelem Ish'bal Region]]. About 3,500,000 people live in the south.
+Southern K'ich'chik is where the ordered K'ich'chik world runs out. The realms of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]] and [[affiliation-kuxiixbal|K'ushi Ish'bal]] are fully part of K'ich'chik civilization, with cities, agricultural estates and the priesthood's _ish'lan ch'upul_ (white roads); beyond [[affiliation-qapteltzakl|Q'aptel Tsa'kul]], the road ends at the wastes of [[place-xelemixbalrgn|Shelem Ish'bal]]. About 3,500,000 people live in the south.
 
 ## Character
 

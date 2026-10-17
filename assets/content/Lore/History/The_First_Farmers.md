@@ -69,8 +69,8 @@ larder. They would have done the same for any creature that could be taught to h
 What those people subsequently became was everything. The knowledge did not stay in the hills: it ran
 downhill and outward over centuries, into the great river valleys where soil and water made it
 explode. No human record reaches within two thousand years of the event, and the surviving trace of
-the arrangement is [[lore-vardain|The Vardain]], who still farm for a hold and still cannot say why
+the arrangement is [[lore-vardain|the Vardain]], who still farm for a hold and still cannot say why
 they were taught to.
 
-See [[lore-longnhrtnc|The Long Inheritance]] for the rest of what passed the same way, and for the
+See [[lore-longnhrtnc|the Long Inheritance]] for the rest of what passed the same way, and for the
 argument about it that neither party will concede.

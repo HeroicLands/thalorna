@@ -414,7 +414,7 @@ sohl:
 
 ![[dvlgthyrskrldmkh|Dvilgthira Skraldumak]]{float=top-left}
 
-Dvilgthira Skraldumak stands 5'8" tall with a light build. She has pale fair skin, black hair, and hazel eyes. Her features include a broad face, a snub nose, a narrow chin, rosy lips, light brows, and soft cheeks.
+Dvilgthira stands 5'8" tall with a light build. She has pale fair skin, black hair, and hazel eyes. Her features include a broad face, a snub nose, a narrow chin, rosy lips, light brows, and soft cheeks.
 
 # Dossier {#dossier}
 

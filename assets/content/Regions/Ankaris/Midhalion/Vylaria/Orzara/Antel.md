@@ -27,7 +27,7 @@ The old Senate hall stands on the crown of the hill, empty. The Seldan's clerks 
 
 - **Antiquarians**, who come for the Republic's early monuments and are the hill's only steady custom.
 - **Squatters**, in the abandoned houses on the lower slopes.
-- **[[affiliation-imprlscrblgld|The Imperial Scribal Guild]]**, which has asked the Seldan more than once for leave to search the old hall's cellars.
+- **[[affiliation-imprlscrblgld|The Scribal Guild]]**, which has asked the Seldan more than once for leave to search the old hall's cellars.
 
 ## Hooks
 

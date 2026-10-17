@@ -8,7 +8,7 @@ tags: [sacred, temple, mountain, inland]
 data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
-**The Temple of Middle Suvarnageri** stands in the central valley below the principal panning grounds, and [[place-weighingstn|The Weighing-Station]] and the common treasury stand beside it. The sabhra meets here one year in three like anywhere else, but the gold comes here every month of every year.
+**The temple of Middle Suvarnageri** stands in the central valley below the principal panning grounds, and [[place-weighingstn|the weighing-station]] and the common treasury stand beside it. The sabhra meets here one year in three like anywhere else, but the gold comes here every month of every year.
 
 That gives the middle temple a weight the constitution never granted it. The priests of the other two say so at intervals, and the answer is that the treasury has to be somewhere.
 
@@ -24,6 +24,6 @@ Six centuries ago a wealthy family tried to buy an amendment to the panning roll
 
 ## See Also
 
-- [[place-weighingstn|The Weighing-Station]] · [[place-goldmountain|The Gold Mountain]]
-- [[place-uppersuvtmpl|The Temple of Upper Suvarnageri]] · [[place-lowersuvtmpl|The Temple of Lower Suvarnageri]]
+- [[place-weighingstn|The Weighing-Station]] · [[place-goldmountain|the Gold Mountain]]
+- [[place-uppersuvtmpl|The Temple of Upper Suvarnageri]] · [[place-lowersuvtmpl|the Temple of Lower Suvarnageri]]
 - [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]

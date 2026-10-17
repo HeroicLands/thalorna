@@ -19,7 +19,7 @@ data:
 
 "Watch the banks, not the water," a river pilot tells a passenger entering the gorge of [[place-yathlemet|Yath-Lemet]]. "The cliffs come in until you could throw a stone across. The farms are on that thin strip under them, and so are the beasts."
 
-Yath-Lemet Selat is the land of [[affiliation-selatyathlmt|The Selat of Yath-Lemet]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
+Yath-Lemet Selat is the land of [[affiliation-selatyathlmt|the Selat of Yath-Lemet]], one of [[affiliation-upperrivrslt|the Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 

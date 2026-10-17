@@ -16,7 +16,7 @@ data:
   packFolder: adventures
 ---
 
-The dunes of [[place-hskrrgn|Khoshiqor]] have scoured open again the street of [[place-wilud|Vulud]] that [Uruvolun]{.name data-type="being/npc"} sold twice four years ago, and at its end the counting-house tower of the league of [[lore-towercities|The Tower Cities]] whose door the [[lore-tantsouclt|Tantsou]] collector's men forced then, the first to enter it in two thousand years. A guide of the [[affiliation-rwlstrb|Uruvolur]] brings the party to it a day behind a rival crew. A sandstorm drives the party inside, where it finds the rival crew's work half done, one of them crushed flat with nothing on top of him, and a stone watchman at the foot of the stair that is never quite where the party left it. The watchman is not hunting the party. It keeps the house's goods, and it comes for whatever the party carries.
+The dunes of the [[place-hskrrgn|Khoshiqor]] have scoured open again the street of [[place-wilud|Vulud]] that [Uruvolun]{.name data-type="being/npc"} sold twice four years ago, and at its end the counting-house tower of the league of [[lore-towercities|the Tower Cities]] whose door the [[lore-tantsouclt|Tantsou]] collector's men forced then, the first to enter it in two thousand years. [[affiliation-rwlstrb|An Uruvol guide]] brings the party to it a day behind a rival crew. A sandstorm drives the party inside, where it finds the rival crew's work half done, one of them crushed flat with nothing on top of him, and a stone watchman at the foot of the stair that is never quite where the party left it. The watchman is not hunting the party. It keeps the house's goods, and it comes for whatever the party carries.
 
 ## Overview
 
@@ -215,7 +215,7 @@ When the last block goes home, the house is closed, and the watchman moves in pl
 > [!WARNING]
 > Taking Kesukenod's seal from him closes a route. A man with nothing in his hands and no seal in a closed house is stock, and the watchman files him again once the thieves are dealt with. A party that takes the seal and leaves him in the open has put him back in the niche.
 
-**Consequences.** The house is closed. From now on the watchman moves in plain sight, and it comes for whatever of the house's is carried without a whole seal over it. The front entrance is full of sand to the vault, and the only ways out are the service door past the weighing hall, the strongroom's goods-chute to the court, and the roof by the lamp-stair, which is in the storm and full of [[being-numek|Numaq]] at dusk.
+**Consequences.** The house is closed. From now on the watchman moves in plain sight, and it comes for whatever of the house's is carried without a whole seal over it. The front entrance is full of sand to the vault, and the only ways out are the service door past the weighing hall, the strongroom's goods-chute to the court, and the roof by the lamp-stair, which is in the storm and full of [[being-numek|numaq]] at dusk.
 
 **If bypassed, failed or cut short.** A party that never doubles back and never sees the watchman change its place meets it standing in a doorway behind them, between the party and the stair, facing whoever carries the most. A party that never finds the niche hears Kesukenod's breathing through the wall of the counting floor; if it still does not look, he is found in Scene Four, filed in a niche of the weighing hall, alive and unable to move. A party that hurries ahead to the service door before the blocks are set reaches it as the last block goes into place, with the watchman on the far side of it.
 

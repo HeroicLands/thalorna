@@ -54,11 +54,11 @@ data:
         - whether the rites were forbidden by the chief's order or by the ruin of the army's priests
 ---
 
-The Khelathi say that every field in the valley has seen fighting, and that only a few remember it. The first of the few is a stretch of west-bank floodplain below [[place-lenennezut|Lenen-Nezut]], and The Coming of the [Tha'Ulgau]{.name data-type="affiliation/lineage"} is how it was made.
+The Khelathi say that every field in the valley has seen fighting, and that only a few remember it. The first of the few is a stretch of west-bank floodplain below [[place-lenennezut|Lenen-Nezut]], and the Coming of the [Tha'Ulgau]{.name data-type="affiliation/lineage"} is how it was made.
 
 ## The Valley Before
 
-The war of the two thrones had ended eighty years before, with the upriver house closed and the granaries of the upper river left half burned ([[lore-twothrones|The War of the Two Thrones]]). A valley that burns its own harvest does not fill its armies again quickly. The throne at [[place-galezkara|Galezkara]] was held by the house of [Zu'Magetu]{.name data-type="affiliation/lineage"}, and its Gar-Au, [Amqel'Uzner I]{.name data-type="being/npc"}, crowned in 1599 ST (512 BF), had held it for thirteen years.
+The war of the two thrones had ended eighty years before, with the upriver house closed and the granaries of the upper river left half burned ([[lore-twothrones|the War of the Two Thrones]]). A valley that burns its own harvest does not fill its armies again quickly. The throne at [[place-galezkara|Galezkara]] was held by the house of [Zu'Magetu]{.name data-type="affiliation/lineage"}, and its Gar-Au, [Amqel'Uzner I]{.name data-type="being/npc"}, crowned in 1599 ST (512 BF), had held it for thirteen years.
 
 On the western margin lived the Tha'Ulgau, hill-nomads of the horse-country past the last canal, who came to trade and sometimes to raid. The border patrols rode the line between the pastures and the fields. In 1612 ST the Tha'Ulgau came down in numbers the patrols had not seen.
 
@@ -72,14 +72,14 @@ The victors forbade the rites for the dead. The valley's law is that the dead of
 
 ## The Crowning
 
-The priesthood crowned the nomad chief as [Kuz'Uqa]{.name data-type="being/npc"}, "strong of the sun-lord," because the throne cannot stand empty and the temples had always crowned whoever stood upon the mound. His house held it for four reigns and fifty-nine years, and the temple chronicle enters it by the usual formulas ([[lore-hillhouse|The Closing of the Hill House]]).
+The priesthood crowned the nomad chief as [Kuz'Uqa]{.name data-type="being/npc"}, "strong of the sun-lord," because the throne cannot stand empty and the temples had always crowned whoever stood upon the mound. His house held it for four reigns and fifty-nine years, and the temple chronicle enters it by the usual formulas ([[lore-hillhouse|the Closing of the Hill House]]).
 
 ## What It Left
 
 - **The field.** The ground is [[place-zelhalzi|Zel-Halzi]], the Unmeasured Field, the first _zelqezat_ (the place of a battle left unread) in Khelathi memory. No survey roll gives it a line.
 - **The Tha'Ulgau.** When the hill house closed, its kin were settled on the western pastures and became a Halzi'a house, and they have kept the offering the field is owed ever since.
-- **The fear of horsemen.** The western march still watches its edge, and the cult of the [[affiliation-qeztu|Faith of Qeztu]] is strong there.
-- **The horse barrows.** The first Tha'Ulgau to die were buried in the hill way, with their horses, in the grazing country of the west ([[place-horsebarrows|The Horse Barrows]]).
+- **The fear of horsemen.** The western march still watches its edge, and the cult of [[affiliation-qeztu|Qeztu]] is strong there.
+- **The horse barrows.** The first Tha'Ulgau to die were buried in the hill way, with their horses, in the grazing country of the west ([[place-horsebarrows|the Horse Barrows]]).
 
 ## See Also
 
@@ -92,5 +92,5 @@ The priesthood crowned the nomad chief as [Kuz'Uqa]{.name data-type="being/npc"}
 [[lore-hillhouse|The Closing of the Hill House]]
 : the end of their house
 
-[[place-zelhalzi|Zel-Halzi]] · [[place-horsebarrows|The Horse Barrows]]
+[[place-zelhalzi|Zel-Halzi]] · [[place-horsebarrows|the Horse Barrows]]
 : what the conquest left on the ground

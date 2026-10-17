@@ -416,7 +416,7 @@ sohl:
 
 ![[krmdnsbrkrtys|Koremdanis Barkratis]]{float=top-left}
 
-Koremdanis Barkratis stands 6'0" tall with a medium build. She has light olive skin, auburn hair, and amber eyes. Her features include an oblong face, a prominent nose, a narrow chin, slightly pursed lips, heavy brows, and angular cheeks. She has a tattoo of a dragonfly on her neck.
+Koremdanis stands 6'0" tall with a medium build. She has light olive skin, auburn hair, and amber eyes. Her features include an oblong face, a prominent nose, a narrow chin, slightly pursed lips, heavy brows, and angular cheeks. She has a tattoo of a dragonfly on her neck.
 
 # Dossier {#dossier}
 
@@ -424,11 +424,11 @@ Koremdanis Barkratis stands 6'0" tall with a medium build. She has light olive s
 
 ### Early Life
 
-Koremdanis was born into [House Barkratis]{.name data-type="affiliation/lineage"}, a noble family of the [[affiliation-vylarinmpr|Vylarian Empire]] whose historical prominence had faded by the time of her birth into obscurity and reduced means. Where her brothers were expected to pursue military or administrative service, Koremdanis showed from childhood an obsessive interest in the art of the blade. Her father, Lord [[being-thelvarosbar|Thelvaros Barkratis]], indulged her unusual passion as a whim, but when she persisted through adolescence with singular focus, he recognized it as a gift and sought out the finest instruction available. At age twelve, she was placed under the tutelage of Swordmaster [[being-pelerarsathe|Pelerar Satheris]], a celebrated figure in the dueling circles of [[place-salkhalon|Salkalon]], the capital city of the Empire.
+Koremdanis was born into [House Barkratis]{.name data-type="affiliation/lineage"}, a noble family of the [[affiliation-vylarinmpr|Empire of Vylaria]] whose historical prominence had faded by the time of her birth into obscurity and reduced means. Where her brothers were expected to pursue military or administrative service, Koremdanis showed from childhood an obsessive interest in the art of the blade. Her father, Lord [[being-thelvarosbar|Thelvaros Barkratis]], indulged her unusual passion as a whim, but when she persisted through adolescence with singular focus, he recognized it as a gift and sought out the finest instruction available. At age twelve, she was placed under the tutelage of Swordmaster [[being-pelerarsathe|Pelerar]], a celebrated figure in the dueling circles of [[place-salkhalon|Salkalon]], the capital city of the Empire.
 
 ### Training and Ascension
 
-Under Pelerar's exacting instruction, Koremdanis proved to be talented beyond the ordinary. Where most duelists took decades to master the fundamental forms, she grasped them within years and moved quickly to advanced technique. At eighteen, she achieved her first formal recognition as a master swordsperson, but she knew she had barely begun. Over the following years, she traveled throughout the Empire and beyond, seeking out the finest duelists and military trainers, fighting in official competitions, studying ancient texts on swordsmanship, and eventually achieving mastery of the sacred [Path of Breath]{.name data-type="lore/custom"}—a meditative martial discipline that unites physical technique with spiritual discipline. The dragonfly tattoo on her neck marks her as one of only three living masters of this path. Her mastery brought her philosophical insight into the nature of conflict, honor, and the responsibility that comes with the ability to kill.
+Under Pelerar's exacting instruction, Koremdanis proved to be talented beyond the ordinary. Where most duelists took decades to master the fundamental forms, she grasped them within years and moved quickly to advanced technique. At eighteen, she achieved her first formal recognition as a master swordsperson, but she knew she had barely begun. Over the following years, she traveled throughout the Empire and beyond, seeking out the finest duelists and military trainers, fighting in official competitions, studying ancient texts on swordsmanship, and eventually achieving mastery of the sacred [Path of Breath]{.name data-type="skill/combat"}—a meditative martial discipline that unites physical technique with spiritual discipline. The dragonfly tattoo on her neck marks her as one of only three living masters of this path. Her mastery brought her philosophical insight into the nature of conflict, honor, and the responsibility that comes with the ability to kill.
 
 ### Current Situation
 
@@ -507,7 +507,7 @@ Wealthy Merchant Families
 
 ### Enemies
 
-Swordmaster [[being-khofiosbolal|Kofios Bolalidek]] the Undefeated
+Swordmaster [[being-khofiosbolal|Kofios]] the Undefeated
 : Officially, no rival; practically, Kofios is in the service of the Empire's rival power and harbors intense envy of Koremdanis's reputation. They have not yet formally dueled, though both know it is inevitable.
 
 [The Iron Circle]{.name data-type="affiliation/criminal"}

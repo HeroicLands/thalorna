@@ -16,13 +16,13 @@ data:
 
 ## Overview
 
-The Cloud Pass carries the road from the eastern coast of the [[place-klhrcntnnt|Kalihara Continent]] over [[place-klhrring|The Ring]] and into [[place-klhrbowl|The Great Bowl]]. It climbs from the paths behind [[place-ilovanu|Ilovanu]] that a foreigner is not shown, crosses the crest in a high notch that stands in cloud for most of the year, and comes down the inner face to [[place-klhrestrrc|The Eastern Terraces]]. The Kaliharans call the pass _avoluthei_ (cloud pass), and [[affiliation-lineageavoluthei|The Lineage Avoluthei]] that holds it is named for it. It is the busiest of the three passes, with the principal port on one side of it and the terrace country on the other.
+The Cloud Pass carries the road from the eastern coast of [[place-klhrcntnnt|Kalihara]] over [[place-klhrring|the Ring]] and into [[place-klhrbowl|the Bowl]]. It climbs from the paths behind [[place-ilovanu|Ilovanu]] that a foreigner is not shown, crosses the crest in a high notch that stands in cloud for most of the year, and comes down the inner face to [[place-klhrestrrc|the Eastern Terraces]]. The Kaliharans call the pass _avoluthei_ (cloud pass), and [[affiliation-lineageavoluthei|the lineage Avoluthei]] that holds it is named for it. It is the busiest of the three passes, with the principal port on one side of it and the terrace country on the other.
 
 ## The Lineage and the Road
 
 The Avoluthei keep the road: its cut steps, its rope bridges over the ravines and its shelters below the crest. They walk every traveler over the top, and they turn back anyone who comes up from the coast without a lineage's word for him. A port Kaliharan seldom goes up the road, and a foreigner almost never does.
 
-A wind-stone stands at the crest, one of the works of [[lore-theithari|The Ithari]] along the top of the Ring: a smooth gray swelling out of the wet rock, without a seam or a mark on it. Storms that come in from the sea break on the crest above the pass and reach the Bowl as rain. Custodians out of [[place-mirthaan|Mirthaan]] tend the stone, and the Avoluthei walk it with them.
+A wind-stone stands at the crest, one of the works of [[lore-theithari|the Ithari]] along the top of the Ring: a smooth gray swelling out of the wet rock, without a seam or a mark on it. Storms that come in from the sea break on the crest above the pass and reach the Bowl as rain. Custodians out of [[place-mirthaan|Mirthaan]] tend the stone, and the Avoluthei walk it with them.
 
 ## The Blindfolded Walk
 
@@ -30,7 +30,7 @@ The Cloud Pass is the one way an outsider is ever brought inland. The custodians
 
 ## What Is Seen from It
 
-Most days the crest shows nothing but cloud. On a clear morning in the dry months, the ridges fall away eastward under unbroken canopy to the coast, the harbor of Ilovanu and the sea as far as the reefs off [[place-telvari|Telvari]]. Westward the whole Bowl opens below: the terraces stepping down to [[place-klhrlake|The Bowl Lake]], and [[place-klhrmassif|The Massif]] standing in the water. Herds of the [[being-cldgt|Cloud Goat]] keep to the cliffs on either side of the notch.
+Most days the crest shows nothing but cloud. On a clear morning in the dry months, the ridges fall away eastward under unbroken canopy to the coast, the harbor of Ilovanu and the sea as far as the reefs off [[place-telvari|Telvari]]. Westward the whole Bowl opens below: the terraces stepping down to [[place-klhrlake|the lake]], and [[place-klhrmassif|the Massif]] standing in the water. Herds of [[being-cldgt|Cloud Goats]] keep to the cliffs on either side of the notch.
 
 ## The Cost of Crossing
 

@@ -417,7 +417,7 @@ sohl:
 
 ![[kharnhkhfr|Kharanah Khafur]]{float=top-left}
 
-Kharanah Khafur stands 5'10" tall with a medium build. She has light olive skin, dark black hair, and green eyes. Her features include a narrow face, a strong nose, a strong jawline, full lips, strong brows, and high cheeks.
+Kharanah stands 5'10" tall with a medium build. She has light olive skin, dark black hair, and green eyes. Her features include a narrow face, a strong nose, a strong jawline, full lips, strong brows, and high cheeks.
 
 # Dossier {#dossier}
 
@@ -425,7 +425,7 @@ Kharanah Khafur stands 5'10" tall with a medium build. She has light olive skin,
 
 ### Early Life
 
-Kharanah was born into the merchant family of [Khafur]{.name data-type="affiliation/lineage"}, whose caravans once traced the major trade routes of the [[place-khzryndsrtrgn|Khazryn Desert Region]]. Her father, [Farukh Khafur]{.name data-type="being/npc"}, was a trader in spices and rare botanicals, while her mother, [Salira]{.name data-type="being/npc"}, possessed an innate gift for blending and distillation. From childhood, Kharanah spent her days in her mother's workshop, learning to identify hundreds of plant essences by scent alone—a skill that bordered on the mystical. When she came of age, her family expected her to marry into another merchant house to consolidate trade alliances, but Kharanah had other ambitions. She saw in her mother's craft something far greater than commerce: an art form worthy of mastery.
+Kharanah was born into the merchant family of [Khafur]{.name data-type="affiliation/lineage"}, whose caravans once traced the major trade routes of the [[place-khzryndsrtrgn|Khazryn Desert]]. Her father, [Farukh Khafur]{.name data-type="being/npc"}, was a trader in spices and rare botanicals, while her mother, [Salira]{.name data-type="being/npc"}, possessed an innate gift for blending and distillation. From childhood, Kharanah spent her days in her mother's workshop, learning to identify hundreds of plant essences by scent alone—a skill that bordered on the mystical. When she came of age, her family expected her to marry into another merchant house to consolidate trade alliances, but Kharanah had other ambitions. She saw in her mother's craft something far greater than commerce: an art form worthy of mastery.
 
 ### Training and Discovery
 
@@ -441,7 +441,7 @@ Now established as one of the finest perfumers in the Khazryn Desert, Kharanah o
 
 Kharanah has the assurance of a true artisan—a woman who knows the value of her work without needing to trumpet it. She is thoughtful and deliberate in speech, choosing words with the same precision she applies to blending essences. In conversation, she listens far more than she speaks, a habit instilled by years of learning to hear the unspoken wisdom in scents and silences alike. There is a dreamer's quality to her, a tendency to lose herself in contemplation of a single bloom or drop of oil, seeing infinite possibility within finite materials. Yet this dreaming nature coexists with fierce practicality—she keeps careful records, manages her garden with military precision, and negotiates fiercely for her suppliers' welfare.
 
-Her warmth extends to those around her, but never at the cost of principle. She will offer friendship freely to customers and competitors alike, but cannot abide cruelty to the natural world or deception in matters of craft. She serves the [[affiliation-ahurdaen|Faith of Ahurdaen]] not through rigid orthodoxy but through her dedication to creating order and harmony through her art, believing that a perfectly balanced fragrance speaks to something divine in the soul.
+Her warmth extends to those around her, but never at the cost of principle. She will offer friendship freely to customers and competitors alike, but cannot abide cruelty to the natural world or deception in matters of craft. She serves the [[affiliation-ahurdaen|deity Ahurdaen]] not through rigid orthodoxy but through her dedication to creating order and harmony through her art, believing that a perfectly balanced fragrance speaks to something divine in the soul.
 
 ### Motivation
 
@@ -525,7 +525,7 @@ Temple of Ahurdaen
 ## Plot Hooks
 
 The Lost Essence
-: A perfumer of the ancient age, **Saint [[being-vurinay|Vurinay]] the Ascendant**, is said to have created a fragrance so perfectly balanced that merely smelling it could induce states of spiritual clarity. Fragments of his formula have surfaced in a crumbling monastery high in the [Kuran Mountains]{.name data-type="place/feature"}, and Kharanah learns that an unscrupulous collector, **Duke [[being-revunaykishn|Revunay Kishneshun]]**, is assembling an expedition to find it. She can let the formula remain lost, or seek it first to see it properly used. The journey will take her far from her shop and into danger—mountains harbor both natural obstacles and those who would kill for such secrets.
+: A perfumer of the ancient age, **Saint [[being-vurinay|Vurinay]] the Ascendant**, is said to have created a fragrance so perfectly balanced that merely smelling it could induce states of spiritual clarity. Fragments of his formula have surfaced in a crumbling monastery high in the [Kuran Mountains]{.name data-type="place/feature"}, and Kharanah learns that an unscrupulous collector, **Duke [[being-revunaykishn|Revunay]]**, is assembling an expedition to find it. She can let the formula remain lost, or seek it first to see it properly used. The journey will take her far from her shop and into danger—mountains harbor both natural obstacles and those who would kill for such secrets.
 
 The Plague Blooms
 : A mysterious blight spreads through the Khazryn Desert, causing certain rare flowers—sources for three of Kharanah's most precious essences—to wither and die. The blight moves too methodically to be natural, and she suspects sabotage. Investigation leads her to discover that **Makuth** has hired desert nomads to poison her supplier's gardens, hoping to force her out of business. She must deal with tribal politics, prove the sabotage, and find a way to preserve the threatened species before they vanish forever.
@@ -537,4 +537,4 @@ The Monastery's Succession
 : When **Master Vasun's** distant cousin arrives from a remote monastery, claiming that ancient texts prove Kharanah's beloved master was duty-bound to pass on his knowledge to the priesthood rather than to her, it threatens her legitimacy. She must prove her right to his legacy and his formulas by submitting to a trial of craftsmanship overseen by the Temple, while contending with the politics of the **Priesthood of Ahurdaen**. The trial will push her to create her greatest work yet.
 
 The Merchant Fleet's Gambit
-: A major caravan enterprise headed by **Merchant Princess [[being-sunhemakarve|Sunhema Karvemun]]** proposes a bold venture: fund an expedition to a fabled land across the desert where unique plants are said to grow nowhere else in the world. The investment would transform Kharanah's business but carries significant risk. The choice is between the safety of her current success and a once-in-a-lifetime opportunity that could make her name—or destroy everything she has built.
+: A major caravan enterprise headed by **Merchant Princess [[being-sunhemakarve|Sunhema]]** proposes a bold venture: fund an expedition to a fabled land across the desert where unique plants are said to grow nowhere else in the world. The investment would transform Kharanah's business but carries significant risk. The choice is between the safety of her current success and a once-in-a-lifetime opportunity that could make her name—or destroy everything she has built.

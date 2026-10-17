@@ -19,7 +19,7 @@ data:
 
 You smell the smith-towns of Lut-Getha-Zalu before you see them: charcoal smoke lies along the bank for a mile, and on a still evening the hammering carries across the water.
 
-Lut-Getha-Zalu is the land of [[affiliation-selatltgthzl|The Selat of Lut-Getha-Zalu]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
+Lut-Getha-Zalu is the land of [[affiliation-selatltgthzl|the Selat of Lut-Getha-Zalu]], one of [[affiliation-upperrivrslt|the Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 

@@ -70,7 +70,7 @@ Tevran Maldor status
 
 ## Overview
 
-The [[place-provenzrgn|Provenzia Region]] takes its theater seriously. The Provenzian public expects of an evening's performance not merely entertainment but commentary—on the court, on the merchant houses, on the most recent diplomatic embarrassment, on the love affairs of the season. A Provenzian play that does not gently cut someone is regarded as a failed play. The Provenzia Theater Collective is the federation that produces most of these plays, and quietly arbitrates which cuts may be made and which targets are presently off limits.
+[[place-provenzrgn|Provenzia]] takes its theater seriously. The Provenzian public expects of an evening's performance not merely entertainment but commentary—on the court, on the merchant houses, on the most recent diplomatic embarrassment, on the love affairs of the season. A Provenzian play that does not gently cut someone is regarded as a failed play. The Theater Collective is the federation that produces most of these plays, and quietly arbitrates which cuts may be made and which targets are presently off limits.
 
 The Collective is not, in any formal sense, a guild. It does not license performers, does not own the theaters in which it stages, does not impose dues. It is an association of working theater companies, established performers, playwrights, scenic designers, and a select circle of patrons whose money makes the productions possible. What holds it together is a shared interest in maintaining the conditions under which Provenzian theater can continue to do what Provenzian theater does: comment freely, draw substantial audiences, attract the patronage of the powerful, and avoid being shut down by any of the powerful figures the commentary inevitably annoys.
 
@@ -122,7 +122,7 @@ The Convocation's deliberations on whether to endorse are conducted with theatri
 
 ## Relations
 
-The Crown of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+The [[affiliation-kngdmprvnz|Provenzian Crown]]
 : careful mutual tolerance. The crown patronizes the major companies and accepts the Collective's commentary up to a point; the Collective's prudence-of-the-season doctrine generally keeps performance well clear of that point.
 
 The merchant houses

@@ -420,7 +420,7 @@ sohl:
 
 ![[arevynlydr|Árevin Lidren]]{float=top-left}
 
-Árevin Lidren stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and grey eyes. His features include a broad face, a button nose, a narrow chin, light brows, rosy cheeks.
+Árevin stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and grey eyes. His features include a broad face, a button nose, a narrow chin, light brows, rosy cheeks.
 
 # Dossier {#dossier}
 
@@ -499,7 +499,7 @@ Master Jeweler [Selyndor the Exquisite]{.name data-type="being/npc"}
 
 ### Enemies
 
-Foreman [[being-salvurneauli|Sálvurne Áulirnde]] of the [Deepmine Consortium]{.name data-type="affiliation/venture"}
+Foreman [[being-salvurneauli|Sálvurne]] of the [Deepmine Consortium]{.name data-type="affiliation/venture"}
 : A ruthless operative who views Árevin's safety rules as expensive obstacles to profit. They have clashed repeatedly over his warnings about unstable shafts.
 
 [The Industrialists' Council]{.name data-type="affiliation"}
@@ -513,7 +513,7 @@ Foreman [[being-salvurneauli|Sálvurne Áulirnde]] of the [Deepmine Consortium]{
 [Craftspeople's Guild]{.name data-type="affiliation/guild"}
 : Membership in multiple specialized circles including Jewelcrafters and Metallurgists.
 
-The [[affiliation-ardavon|Faith of Árdavon]] (Order Aspect)
+The [[affiliation-ardavon|Order of Árdavon]] (Order Aspect)
 : A devout follower who attends ceremonies regularly, finding spiritual meaning in the order inherent in mineral formations.
 
 ## Plot Hooks

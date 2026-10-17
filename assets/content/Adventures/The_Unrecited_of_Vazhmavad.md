@@ -22,7 +22,7 @@ At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between riv
 
 - **The thief.** A sheikh's steward pays a thief to break into Vazhmavad and bring out one recitation, a single line of his lord's genealogy, before the common council sits.
 - **The mercenary or soldier.** A caravan-master hires the party as guards for the southern circuit. Three caravans have vanished on it, and the survivors of the fourth cannot say whom they were hired by.
-- **The leader.** [[being-trvshshrdr|Torvash Shiradar]] at [[place-oasistvrzvd|Oasis of Tevrazavad]] sends a trusted man to the party's chieftain. His poets have gone to Vazhmavad and have not returned, and the tribes' quarrels have nowhere to be heard.
+- **The leader.** [[being-trvshshrdr|Torvash Shiradar]] at [[place-oasistvrzvd|the oasis of Tevrazavad]] sends a trusted man to the party's chieftain. His poets have gone to Vazhmavad and have not returned, and the tribes' quarrels have nowhere to be heard.
 - **The wanderer.** A traveler is found at a wayside well reciting a stranger's pedigree. He does not know his own, and he is frightened.
 
 ## Scene One: The Southern Circuit
@@ -73,7 +73,7 @@ At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between riv
 
 **Situation.** Melkhur receives the party at a table in the shade of the largest palm, with salt and bread on a clean cloth. He greets them as guests, breaks the bread, presses the salt into the torn edge, and holds it out. The law of salt binds both ways. He offers his help.
 
-**NPCs and threats.** Melkhur is a thin, gentle-faced man in a poet's sash, courteous to the point of tenderness. He is a sorcerer of [[lore-theshadow|The Shadow]], and a worse thing, he is honest: he says exactly what he does. He lost something, and the hollow in the well returned it, and he has been paying since. His counters are conversation, hospitality and the party's own names.
+**NPCs and threats.** Melkhur is a thin, gentle-faced man in a poet's sash, courteous to the point of tenderness. He is a sorcerer of [[lore-theshadow|the Shadow]], and a worse thing, he is honest: he says exactly what he does. He lost something, and the hollow in the well returned it, and he has been paying since. His counters are conversation, hospitality and the party's own names.
 
 **Player choices.**
 
@@ -82,7 +82,7 @@ At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between riv
 - _Bargain._ He offers anything he has: a recited line, a lost debt, a genealogy for a sheikh. The price is a name.
 - _Challenge him to a recitation._ By the old custom, a dispute is judged by poets. The poets of the oasis cannot judge, which is his defense.
 
-**Clues and rewards.** If the party eats the salt, Melkhur tells them the story of Bazuran: a tribe in the south, swallowed by its neighbors when [[affiliation-wrrscrcldnhrtrbs|The Warrior's Circle of the Dunhara Tribes]] refused to act against them. Its poets came to Vazhmavad seeking a judgment, the weighing-place weighed in their favor, and nobody enforced it. When the tribe was gone, so were the recitations that proved it had ever been wronged. He keeps them. He is the last place the tribe exists.
+**Clues and rewards.** If the party eats the salt, Melkhur tells them the story of Bazuran: a tribe in the south, swallowed by its neighbors when [[affiliation-wrrscrcldnhrtrbs|the Warrior's Circle]] refused to act against them. Its poets came to Vazhmavad seeking a judgment, the weighing-place weighed in their favor, and nobody enforced it. When the tribe was gone, so were the recitations that proved it had ever been wronged. He keeps them. He is the last place the tribe exists.
 
 **Consequences.** The party now knows why Melkhur does what he does. They also know that the Circle, and every member of the [[lore-dunhariclt|Dunhari]] who keeps the [Old Promise]{.name data-type="lore/custom"}, is complicit.
 

@@ -15,7 +15,7 @@ data:
 # terran_analog: North Africa—Morocco + Algeria + Tunisia + Libya + Egypt + Sudan + Niger + Mali + Chad
 ---
 
-The Northern Fertile Region is the productive belt stretching along the southern shore of the [[place-vylarianse|Vylarian Sea]]—the face that [[place-xerathia|Zerathia]] shows to the [[place-ankrscntnnt|Ankaris Continent]]. Here lie three of the oldest and most sophisticated civilizations on [[place-worldthlrn|The World of Thalorna]]: the [[affiliation-mtrrchybth|Matriarchy of Bethua]] in the middle of the shore, the [[affiliation-empireakhlth|Empire of Au'Khelathu]] to its east, anchored along its great river, and [[affiliation-okharis|Okharis]] to its west, reaching south to where the irrigated country gives way to savanna.
+The Northern Fertile Region is the productive belt stretching along the southern shore of the [[place-vylarianse|Vylarian Sea]]—the face that [[place-xerathia|Zerathia]] shows to [[place-ankrscntnnt|Ankaris]]. Here lie three of the oldest and most sophisticated civilizations on [[place-worldthlrn|Thalorna]]: the [[affiliation-mtrrchybth|Matriarchy of Bethua]] in the middle of the shore, the [[affiliation-empireakhlth|Empire of Au'Khelathu]] to its east, anchored along its great river, and [[affiliation-okharis|Okharis]] to its west, reaching south to where the irrigated country gives way to savanna.
 
 "Fertile" is an outsider's label, and it requires qualification. Only the coastal strip and the Khelathi river valley are naturally productive; the rest of the region is semi-arid and depends on some combination of hydraulic engineering, pastoral adaptation, or both. What the three civilizations share is not effortless abundance but an extraordinary competence at extracting that abundance from terrain that would, without their labor, support only sparse populations. This shared civilizational project—different in technique in each of the three polities, but common in ambition—is what makes the region a coherent subject of study rather than three unrelated states.
 
@@ -60,7 +60,7 @@ The three traditions interact cautiously. Khelathi priests have long studied Nka
 
 ## Politics and Power
 
-Each of the three polities guards its independence carefully. There has never been a unified Northern Fertile Region; the closest thing to an imperial project was a short-lived Khelathi attempt, centuries ago, to bring the eastern temple-cities of Okharis into tributary relationship, which collapsed within a generation ([[lore-templetrib|The Tribute of the Temple-Cities]]). The region's interstate politics have been characterized instead by:
+Each of the three polities guards its independence carefully. There has never been a unified Northern Fertile Region; the closest thing to an imperial project was a short-lived Khelathi attempt, centuries ago, to bring the eastern temple-cities of Okharis into tributary relationship, which collapsed within a generation ([[lore-templetrib|the Tribute of the Temple-Cities]]). The region's interstate politics have been characterized instead by:
 
 - **Occasional border friction** between Bethua and Au'Khelathu over the poorly-defined eastern frontier.
 - **Pastoral-nomadic tribute relationships** along the western margins of Bethua (where Okharik frontier clans pay tribute to Bethuan authorities in exchange for grazing rights) and along the western fringes of Au'Khelathu (where hill-peoples maintain similar arrangements with Khelathi Halzi'a).
@@ -76,7 +76,7 @@ Within the region, the three polities operate an intricate overlapping network o
 
 ## Relations with Neighboring Regions
 
-To the **north**, across the Vylarian Sea, lies the trade zone of the [[place-midhalnrgn|Mídhalión Region]], which the region shares with Ankaris. The Khelathi and Bethuan ports are fully integrated into this trade system; Okharis participates indirectly through its northern neighbors.
+To the **north**, across the Vylarian Sea, lies the [[place-midhalnrgn|Mídhalión trade zone]], which the region shares with Ankaris. The Khelathi and Bethuan ports are fully integrated into this trade system; Okharis participates indirectly through its northern neighbors.
 
 To the **south** lies the Central Rainforests, whose tribes trade cautiously with the region through ritualized intermediaries. Khelathi merchants have maintained river-post relationships with the northernmost forest peoples for centuries; Okharik herders meet forest-edge peoples along their southern pastures during seasonal migrations; Bethua has the least interest in the forests and mostly ignores them.
 

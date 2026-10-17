@@ -396,7 +396,7 @@ Dekela Baremzates is a 28-year-old woman who stands 5'11" tall and is of moderat
 
 # Dossier {#dossier}
 
-Dekela Baremzates is a potter of [[place-aelissium|Elissara]], the trade city of [[place-vylariargn|Vylaria Region]], a [[lore-vylarianclt|Vylarian]] freewoman who was raised at her parents' wheel and now keeps their shop.
+Dekela Baremzates is a potter of [[place-aelissium|Elissara]], the trade city of [[place-vylariargn|Vylaria]], a [[lore-vylarianclt|Vylarian]] freewoman who was raised at her parents' wheel and now keeps their shop.
 
 Dekela learned to throw at the wheel of a shop off the market where her parents made plain crockery for the households of Elissara. By the time the shop came to her she had gone somewhere her parents never went: patterned ware, bowls and jars and lamps with designs worked into the slip, and glazes she has spent years arriving at—a green that holds its color through the kiln, a blue that came out of a season of failures. She is never satisfied with any of it. What she cannot do is sell. She takes a stall at the markets and fairs and stands behind it saying too little, and the merchants who might carry her ware to the capital have never been asked. Her work remains less widely known than it deserves.
 

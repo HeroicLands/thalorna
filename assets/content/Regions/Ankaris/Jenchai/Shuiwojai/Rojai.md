@@ -15,9 +15,9 @@ data:
   culture: jenchaiclt
 ---
 
-Rojai (Thunder Peak) is the westernmost of the Nine Mountains on the great island. It stands on the west coast, facing the strait, and the storms that cross the water break on it first. It is held by the [[affiliation-shuiwojaidmn|Shuiwojai Domain]], and the domain takes its name from the house.
+Rojai (Thunder Peak) is the westernmost of the Nine Mountains on the great island. It stands on the west coast, facing the strait, and the storms that cross the water break on it first. It is held by [[affiliation-shuiwojaidmn|House Shuiwojai]], and the domain takes its name from the house.
 
-The mountain rises straight from the sea. Rice grows on its terraced shoulders at [Rounu]{.name data-type="place/settlement"}, the court estate, and salt is boiled on the shore at [Beshenu]{.name data-type="place/settlement"}. The sheltered inlets at [Kowo]{.name data-type="place/settlement"} hold the shipyards, and the fleet anchors in the lee of the mountain. The summit is kept as a shrine of the storm aspect of [[affiliation-tengwouronglei|Téngwou Rong Lei]], and the Tanchéi who keep it hold the mountain record, in which every eruption, earthquake and spring is entered under the year and the lord in whose time it fell.
+The mountain rises straight from the sea. Rice grows on its terraced shoulders at [Rounu]{.name data-type="place/settlement"}, the court estate, and salt is boiled on the shore at [Beshenu]{.name data-type="place/settlement"}. The sheltered inlets at [Kowo]{.name data-type="place/settlement"} hold the shipyards, and the fleet anchors in the lee of the mountain. The summit is kept as a shrine of the storm aspect of [[affiliation-tengwouronglei|the Celestial Order]], and the Tanchéi who keep it hold the mountain record, in which every eruption, earthquake and spring is entered under the year and the lord in whose time it fell.
 
 At the [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jui_) the Tanchéi read Rojai's year as a year of storms, and [Shuiwojai Henzo]{.name data-type="being/npc"}'s claim to heaven's favor rests on that reading.
 

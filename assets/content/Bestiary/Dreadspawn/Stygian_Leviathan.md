@@ -212,7 +212,7 @@ The underground river opens into a lake, and the priest's torch cannot find its 
 
 # Dossier {#dossier}
 
-The Stygian Leviathan is a dreadspawn of the deep waters under the earth: forty to sixty feet long and as heavy as a whale, armed with grasping tentacles and jaws that bite a man in half, which lives in cold, lightless underground seas and lies dormant on the bottom for long stretches. Where it lives, everything else falls silent. One lives in the underground waters beneath [[place-kankulrgn|K'ankul Region]], the limestone country of [[place-cntrlkchchk|Central K'ich'chik]] whose ground is hollow with rivers, chambers and the sacred pools that open them to the sky, and whose priests teach that those waters are the mouths of [[place-chaltzumaq|Ch'al Ts'umaq]], the underworld. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Stygian Leviathan is a dreadspawn of the deep waters under the earth: forty to sixty feet long and as heavy as a whale, armed with grasping tentacles and jaws that bite a man in half, which lives in cold, lightless underground seas and lies dormant on the bottom for long stretches. Where it lives, everything else falls silent. One lives in the underground waters beneath [[place-kankulrgn|K'ankul]], the limestone country of [[place-cntrlkchchk|Central K'ich'chik]] whose ground is hollow with rivers, chambers and the sacred pools that open them to the sky, and whose priests teach that those waters are the mouths of [[place-chaltzumaq|Ch'al Ts'umaq]], the underworld. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 

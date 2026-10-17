@@ -418,7 +418,7 @@ sohl:
 
 ![[knlthrnhfrngr|Knalthrinna Hafringr]]{float=top-left}
 
-Knalthrinna Hafringr stands 5'11" tall with a medium build. She has pale fair skin, blonde hair, and green eyes. Her features include an oval face, a prominent nose, an angular jawline, a small mouth, heavy brows, and angular cheeks.
+Knalthrinna stands 5'11" tall with a medium build. She has pale fair skin, blonde hair, and green eyes. Her features include an oval face, a prominent nose, an angular jawline, a small mouth, heavy brows, and angular cheeks.
 
 # Dossier {#dossier}
 
@@ -525,7 +525,7 @@ The Blackwheel Rising
 : The Blackwheel Consortium, facing ruin from Knalthrinna's faster and cheaper service, makes a shocking move—they hire [Tobias Sallow]{.name data-type="being/npc"}'s merchant gang to actively sabotage her deliveries, hiring brigands to ambush her wagons and corrupt her clients through false allegations. With her reputation under systematic attack and her contracts threatened, Knalthrinna's choices are to respond with ruthless force, to trust her reputation to withstand the assault, or to seek an alliance with former rivals. Each path carries significant risk.
 
 The Lady's Secret
-: Lady Margery Ashford, her closest thing to a true friend, confides in Knalthrinna that she requires immediate, covert transport of a substantial shipment of weapons and provisions to a rebel force building an independent settlement in defiance of the King. Margery asks Knalthrinna to keep the knowledge secret and transport the materials. Accepting means betraying the [[affiliation-kingdmnrgd|Kingdom of Norgaad]] and the law; refusing means abandoning the woman who has shown her real kindness. The decision threatens to shatter Knalthrinna's carefully constructed moral framework.
+: Lady Margery Ashford, her closest thing to a true friend, confides in Knalthrinna that she requires immediate, covert transport of a substantial shipment of weapons and provisions to a rebel force building an independent settlement in defiance of the King. Margery asks Knalthrinna to keep the knowledge secret and transport the materials. Accepting means betraying the [[affiliation-kingdmnrgd|Kingdom]] and the law; refusing means abandoning the woman who has shown her real kindness. The decision threatens to shatter Knalthrinna's carefully constructed moral framework.
 
 The Inherited Claim
 : An elderly merchant from a distant city arrives bearing legal documents proving that Knalthrinna's distant relative—a side branch of the Hafringr line she has never heard of—left her a substantial fleet of wagons and trading rights to an entirely new region. The inheritance is real, the opportunity immense, but accepting it requires Knalthrinna to travel to this foreign city to take possession and establish operations there. It represents everything she has worked toward, yet leaving her established enterprise risks losing it to the Blackwheel Consortium or other competitors.

@@ -8,7 +8,7 @@ tags: [river, sacred, inland]
 data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
-**The Rasikara Stream** rises on the back slope of [[place-goldmountain|The Gold Mountain]] and yields no gold. Panning is forbidden in it by Suvarnageri tradition, which is a prohibition on a thing nobody has a reason to do, and that is the point of it.
+**The Rasikara stream** rises on the back slope of [[place-goldmountain|the Gold Mountain]] and yields no gold. Panning is forbidden in it by Suvarnageri tradition, which is a prohibition on a thing nobody has a reason to do, and that is the point of it.
 
 The shrine of [[affiliation-rasikara|Rasikara]] stands at its head. [[lore-rasikaradty|Rasikara]] is the god of fire and of the change fire compels, the burning that strips away corruption; the janapoda below is [[affiliation-mahajaya|Mahajaya]]'s through and through, and that tradition teaches that [[lore-mahajayadty|Mahajaya]] preserves. Not all of the mountain's water belongs to the preserver, and the stream is where that is admitted.
 
@@ -18,7 +18,7 @@ A Suvarnageri who is about to raze a condemned house, fell a diseased tree or cu
 
 The shrine keeps no other business. It has three priests, a hearth that is not allowed to gho out, and the standing of a place everybody in the janapoda needs eventually and nobody visits twice in a season.
 
-The stream's water is used for nothing else. It runs off the back slope into broken country and joins [[place-bharavarivr|The Bharava]] well below the janapoda, and the villages on that side take their water from wells.
+The stream's water is used for nothing else. It runs off the back slope into broken country and joins [[place-bharavarivr|the Bharava]] well below the janapoda, and the villages on that side take their water from wells.
 
 ## See Also
 

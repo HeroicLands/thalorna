@@ -12,7 +12,7 @@ Flora of Kalihara encompasses an extraordinary range of plants in the jungle of 
 
 ## The Stilt Tree
 
-**Manuluori**, in [[skill-kalihrlng|Kalihari Language]] "root canopy", is a tree whose canopy stands on its roots. It grows to some forty feet at the mangrove edge and in the wet forest behind the eastern shore. It sends down arching prop roots from its branches until the crown stands on a cage of roots a man can walk through. The roots grip the mud, hold the bank, and shelter small fish and crabs. The tree flowers at the start of the wet season.
+**Manuluori**, in [[skill-kalihrlng|Kalihari]] "root canopy", is a tree whose canopy stands on its roots. It grows to some forty feet at the mangrove edge and in the wet forest behind the eastern shore. It sends down arching prop roots from its branches until the crown stands on a cage of roots a man can walk through. The roots grip the mud, hold the bank, and shelter small fish and crabs. The tree flowers at the start of the wet season.
 
 The villages cut stakes from the dead prop roots for their fence walls, and the stakes do not rot, which is why the fences hold against the [[being-mngbhmth|Mangrove Behemoth]]. A tree is cut only for the roots it has let fall. A village that loses its stilt trees to a flood replants from the neighboring bank.
 

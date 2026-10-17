@@ -8,7 +8,7 @@ tags: [river, pilgrimage, inland]
 data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
 ---
 
-**The Mahanodi** is the great river of the [[place-vedyarargn|Vedyara Region]]: longest, widest, most populous along its banks, and the one a Vedyari means if he says "the river" and does not say which. It rises at [[place-mahaprbhva|Mahaprabhava]] and runs the length of the central plain to the eastern sea.
+**The Mahanodi** is the great river of [[place-vedyarargn|Vedyara]]: longest, widest, most populous along its banks, and the one a Vedyari means if he says "the river" and does not say which. It rises at [[place-mahaprbhva|Mahaprabhava]] and runs the length of the central plain to the eastern sea.
 
 More people live within a day's walk of this water than live in any kingdom on the continent.
 
@@ -25,4 +25,4 @@ Where the Mahanodi takes its greatest tributary the ground is flat, broad and dr
 ## See Also
 
 - [[place-mahaprbhva|Mahaprabhava]] · [[place-vedyarargn|Vedyara Region]] · [[affiliation-janpdsvdyr|Janapadas of Vedyara]]
-- [[place-chandrmahi|The Chandramahi]] · [[place-sarvadarivr|The Sarveda]] · [[place-bharavarivr|The Bharava]]
+- [[place-chandrmahi|The Chandramahi]] · [[place-sarvadarivr|the Sarveda]] · [[place-bharavarivr|the Bharava]]

@@ -124,13 +124,13 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 ## Overview
 
-A sacred king, held to be blessed by the gods, rules the Holy Kingdom of Nartun, an independent Vylari-speaking realm that shares its cultural and linguistic roots with the [[affiliation-vylarinmpr|Vylarian Empire]] and keeps its own sovereignty under a theocratic monarchy. Vylaria's power rests on legions and _kurthoi_ (senators). Nartun's rests on faith: the kingdom defines itself through its devotion to the [[affiliation-arldnpnthn|Aureldian Pantheon]]. The kingdom holds the land of [[place-nartumkngdm|Nartun Kingdom]] and is ruled from the holy city of [[place-nartum|Nartun]].
+A sacred king, held to be blessed by the gods, rules the Holy Kingdom of Nartun, an independent Vylari-speaking realm that shares its cultural and linguistic roots with the [[affiliation-vylarinmpr|Vylarian Empire]] and keeps its own sovereignty under a theocratic monarchy. Vylaria's power rests on legions and _kurthoi_ (senators). Nartun's rests on faith: the kingdom defines itself through its devotion to the [[affiliation-arldnpnthn|Aureldian pantheon]]. The kingdom holds the land of [[place-nartumkngdm|Nartun Kingdom]] and is ruled from the holy city of [[place-nartum|Nartun]].
 
 The secretary of a Nartunese priest-noble, briefing a visiting Vylarian envoy before an audience, begins with the point the envoy is least likely to expect: "You come from a state that has [[affiliation-seldan|Seldan]] (the Senate) and faith. We have faith, and a kingdom that takes its character from it. If you remember that when you speak, you will be heard. If you forget it, you will be received politely and not heard at all."
 
 ## Character
 
-Nartun sits somewhere between the Vylarian Empire and the independent western kingdoms. Its people speak an archaic dialect of the [[skill-vylarilng|Vylari Language]] and practice the Aureldian faiths with an intensity that makes even Vylarian priests uncomfortable. They regard their kingdom as the true spiritual heir of Vylarian civilization, purified of the empire's corruption and moral decay.
+Nartun sits somewhere between the Vylarian Empire and the independent western kingdoms. Its people speak an archaic dialect of [[skill-vylarilng|Vylari]] and practice the Aureldian faiths with an intensity that makes even Vylarian priests uncomfortable. They regard their kingdom as the true spiritual heir of Vylarian civilization, purified of the empire's corruption and moral decay.
 
 A priestly aristocracy governs the kingdom. Noble families derive their authority from religious office, and advancement in Nartunese society requires both lineage and demonstrated piety. The high priesthood anoints the king, who is expected to embody [[lore-ardavondty|Árdavon]] (justice) and [[lore-marendasdty|Marendas]] (wisdom). Kings who fail to meet those expectations have been deposed, because the priesthood's power is real and not ceremonial.
 
@@ -138,13 +138,13 @@ Nartun is not expansionist, and it is not weak. Its army is small but profession
 
 ## Relations
 
-Nartun keeps correct but cool relations with the Vylarian Empire. The break dates from about 224 AF, when the high priesthood refused obedience to an Orzas who would not proscribe [[affiliation-blackflame|The Black Flame]] and anointed a king of its own ([[lore-nartumrefuse|Nartun Refuses the Empire]]). The empire regards Nartun as a wayward province that should be reabsorbed, and Nartun regards the empire as a corrupted institution that has strayed from the true path.
+Nartun keeps correct but cool relations with the Vylarian Empire. The break dates from about 224 AF, when the high priesthood refused obedience to an Orzas who would not proscribe [[affiliation-blackflame|the Black Flame]] and anointed a king of its own ([[lore-nartumrefuse|Nartun Refuses the Empire]]). The empire regards Nartun as a wayward province that should be reabsorbed, and Nartun regards the empire as a corrupted institution that has strayed from the true path.
 
-[[affiliation-ordoarcanis|Thordimalon]] has no presence in Nartun. The kingdom holds the Arcane Order's secular power and political manipulation to be antithetical to proper spiritual life, and mages who work in Nartun answer to the priesthood, not to the Arcane Order.
+The [[affiliation-ordoarcanis|Thordimalon]] has no presence in Nartun. The kingdom holds the Arcane Order's secular power and political manipulation to be antithetical to proper spiritual life, and mages who work in Nartun answer to the priesthood, not to the Arcane Order.
 
 ## Commerce and Currency
 
-The Holy Kingdom of Nartun uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]] moneylenders chartered under [[affiliation-tevran|The Tevran Maldor]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+The Holy Kingdom of Nartun uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

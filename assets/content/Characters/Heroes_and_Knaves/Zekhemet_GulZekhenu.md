@@ -438,7 +438,7 @@ sohl:
 
 ![[zekhmtglzkhn|Zekhemet Gul'Zekhenu]]{float=top-left}
 
-Zekhemet Gul'Zekhenu stands 5'9" tall with a light build. She has dark brown skin, very dark brown hair, and dark amber eyes. Her features include a diamond-shaped face, a slightly arched nose, a smooth jawline, generous lips, dark brows. A distinguishing mark is a scar running down the right leg.
+Zekhemet stands 5'9" tall with a light build. She has dark brown skin, very dark brown hair, and dark amber eyes. Her features include a diamond-shaped face, a slightly arched nose, a smooth jawline, generous lips, dark brows. A distinguishing mark is a scar running down the right leg.
 
 # Dossier {#dossier}
 

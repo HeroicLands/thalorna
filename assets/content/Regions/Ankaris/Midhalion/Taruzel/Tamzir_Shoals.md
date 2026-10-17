@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [taruzelrgn], population: 0, packFolder
 
 ## Overview
 
-The Tamzir Shoals lie in the channels of the **Taruzelian archipelago**, the islands of the [[place-taruzelrgn|Taruzel Region]] that lie across a strait from the Amradi coast, and every pilot on the coast gives a newcomer the same first warning about them: do not take a deep-keeled ship into those waters without someone aboard who knows them. The Shoals are a maze of sandbars, submerged rocks and hard currents, and a ship that does not know the channels finds the sand.
+The Tamzir Shoals lie in the channels of the **Taruzelian archipelago**, the islands of [[place-taruzelrgn|Taruzel]] that lie across a strait from the Amradi coast, and every pilot on the coast gives a newcomer the same first warning about them: do not take a deep-keeled ship into those waters without someone aboard who knows them. The Shoals are a maze of sandbars, submerged rocks and hard currents, and a ship that does not know the channels finds the sand.
 
 ## The Battle of Tamzir Shoals
 
@@ -20,7 +20,7 @@ That warning won Taruzel its independence. During the war against the [[affiliat
 
 ## What the Shoals Mean Now
 
-The battle is the founding myth of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]. [[place-yamuzel2|Yamuzel]], whose yards built the fleet, holds an annual [Fleet Review]{.name data-type="lore/gathering"} in its memory, and [[place-besikar2|Besikar]] keeps a captured Vylarian warship in dry-dock as **the [Tamzir Monument]{.name data-type="place/site"}**. The [[affiliation-corsairleg|Corsair League]] grew out of the captains who fought there. The veterans remember the Shoals differently: the dock workers, fishermen and tribal warriors who sailed into the imperial fleet were promised land, guild membership and a voice in the new government, and received a discharge and a small purse of silver instead. Their children have inherited the grievance along with the story. One trading vessel on the [[place-vylarianse|Vylarian Sea]], [[affiliation-thetamzir|The Tamzir]], carries the battle's name.
+The battle is the founding myth of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]. [[place-yamuzel2|Yamuzel]], whose yards built the fleet, holds an annual [Fleet Review]{.name data-type="lore/gathering"} in its memory, and [[place-besikar2|Besikar]] keeps a captured Vylarian warship in dry-dock as **the [Tamzir Monument]{.name data-type="place/site"}**. The [[affiliation-corsairleg|Corsair League]] grew out of the captains who fought there. The veterans remember the Shoals differently: the dock workers, fishermen and tribal warriors who sailed into the imperial fleet were promised land, guild membership and a voice in the new government, and received a discharge and a small purse of silver instead. Their children have inherited the grievance along with the story. One trading vessel on the [[place-vylarianse|Vylarian Sea]], [[affiliation-thetamzir|the Tamzir]], carries the battle's name.
 
 ## See Also
 

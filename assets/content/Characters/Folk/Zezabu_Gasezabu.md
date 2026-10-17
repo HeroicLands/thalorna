@@ -36,4 +36,4 @@ Zezabu Gasezabu is a 41-year-old woman who stands 5'5" tall with a light build. 
 
 # Dossier {#dossier}
 
-Zezabu Gasezabu is a lady and scholar of [[place-galezkara|Galezkara]] who served the [[affiliation-empireakhlth|Empire of Au'Khelathu]] on diplomatic missions to neighbouring realms. She raised a daughter to carry on the same work. The family's diplomatic record now spans two generations rather than one.
+Zezabu Gasezabu is a lady and scholar of [[place-galezkara|Galezkara]] who served the [[affiliation-empireakhlth|empire]] on diplomatic missions to neighbouring realms. She raised a daughter to carry on the same work. The family's diplomatic record now spans two generations rather than one.

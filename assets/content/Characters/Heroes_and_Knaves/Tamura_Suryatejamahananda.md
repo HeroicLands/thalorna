@@ -420,13 +420,13 @@ sohl:
 
 ![[tmrsrytjmhnnd|Tamura Suryatejamahananda]]{float=top-left}
 
-Tamura Suryatejamahananda stands 6'0" tall with a medium build. He has golden brown skin, greying black hair, and honey brown eyes. His features include a soft-featured face, a straight nose, a gentle jawline, an expressive mouth, golden brows, and full cheeks. He has a tattoo of a butterfly on his neck.
+Tamura stands 6'0" tall with a medium build. He has golden brown skin, greying black hair, and honey brown eyes. His features include a soft-featured face, a straight nose, a gentle jawline, an expressive mouth, golden brows, and full cheeks. He has a tattoo of a butterfly on his neck.
 
 # Dossier {#dossier}
 
 Tamura was born into the Karmija station, in a kulra of woodcrafters, in the city-states of the [[place-vedyarargn|Vedyara Region]], the second son of a master carpenter who had built his reputation on the creation of lasting structures and functional beauty. From childhood, Tamura's relationship with wood was almost spiritual—he claimed he could hear what each piece wished to become, could sense the grain's direction before ever touching chisel to surface. Where his older brother pursued elaborate decorative work, Tamura found his calling in structures that would last centuries: barn frames, ship keels, the massive gate timbers that stood against storm and siege.
 
-In his youth, Tamura apprenticed under the celebrated craftsman Maharaj [[being-tanavarnashu|Tanavarna Shuravana]], a figure of near-mythical status in the woodcraft traditions of the [[lore-vedyariclt|Vedyari]]. For thirteen years, he learned technique and philosophy—the belief that every wooden creation was a covenant with future generations, a promise that it would bear its intended weight without failure. This philosophy shaped him entirely. While his contemporaries chased profitable commissions from wealthy merchants seeking ornate furniture, Tamura established himself as the craftsman one employed when one's survival depended on quality.
+In his youth, Tamura apprenticed under the celebrated craftsman Maharaj [[being-tanavarnashu|Tanavarna Shuravana]], a figure of near-mythical status in [[lore-vedyariclt|Vedyaran woodcraft traditions]]. For thirteen years, he learned technique and philosophy—the belief that every wooden creation was a covenant with future generations, a promise that it would bear its intended weight without failure. This philosophy shaped him entirely. While his contemporaries chased profitable commissions from wealthy merchants seeking ornate furniture, Tamura established himself as the craftsman one employed when one's survival depended on quality.
 
 At fifty-four, Tamura has achieved something far more valuable than wealth: he has become indispensable. His reputation extends across multiple city-states, and armies of agricultural workers have built their livelihoods around the tools and implements he crafts. More recently, he has taken on a role as mentor to younger craftsmen, though he admits he finds this frustrating—the younger generation seems more interested in quick profits than in the integrity of their work.
 

@@ -57,15 +57,15 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-[[place-tjathu|Tjathu]] is the delta's sea-margin, and the salt in it is the reason every embalmer in the empire knows the name. The Selat of Tjathu is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], a country of salt-pans, natron flats and the curing of the lesser villages' catch. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[lore-wethurdty|Weth'ur]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-tjathuselat|Tjathu Selat]].
+[[place-tjathu|Tjathu]] is the delta's sea-margin, and the salt in it is the reason every embalmer in the empire knows the name. The selat is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], a country of salt-pans, natron flats and the curing of the lesser villages' catch. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[lore-wethurdty|Weth'ur]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-tjathuselat|Tjathu Selat]].
 
 "Salt is the easiest thing in the empire to weigh and the hardest to weigh honestly," says the Halzi'a's steward of revenue, tapping a ledger. "Every pan swears its heap is lighter than my scales say, and every pan is wrong in the same direction."
 
 ## Character
 
-The seat is Tjathu, where the Halzi'a keeps court and the selat's chief temple of the [[affiliation-wethur|Faith of Weth'ur]] stands. Weth'ur is the god held to guide souls through the underworld and keep the tombs, and a selat whose natron dries the dead has a natural claim on him.
+The seat is Tjathu, where the Halzi'a keeps court and the selat's chief temple of [[affiliation-wethur|Weth'ur]] stands. Weth'ur is the god held to guide souls through the underworld and keep the tombs, and a selat whose natron dries the dead has a natural claim on him.
 
-The selat's coast is where the sea-raiders landed in 1960 ST (151 BF) and burned the port of [[place-zelamqelu|Zel-Amqelu]], which the selat never rebuilt ([[lore-searaiders|The Sea-Raiders' Throne]]).
+The selat's coast is where the sea-raiders landed in 1960 ST (151 BF) and burned the port of [[place-zelamqelu|Zel-Amqelu]], which the selat never rebuilt ([[lore-searaiders|the Sea-Raiders' Throne]]).
 
 ## Commerce and Currency
 

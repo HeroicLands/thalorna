@@ -238,7 +238,7 @@ In the soft earth below the ledge a line of round prints crosses the stream, fou
 
 # Dossier {#dossier}
 
-The Mountain Lion is the large lone cat of the mountains and scrub, six to eight feet long and eighty to two hundred twenty pounds. It hunts the forested mountains of [[place-ixbalkiahkrgn|Ish'bal Ki'ahk Region]], the piedmont and mesa country of the northern reaches, the scrub at the edge of [[place-chakultzklrgn|Ch'akul Tsa'kul Region]] and the highlands of [[place-ixilankulrgn|Ish'ilankul Region]], taking deer and wild goats. It avoids people and larger threats and prefers to hunt unseen.
+The Mountain Lion is the large lone cat of the mountains and scrub, six to eight feet long and eighty to two hundred twenty pounds. It hunts the forested mountains of [[place-ixbalkiahkrgn|Ish'bal Ki'ahk]], the piedmont and mesa country of the northern reaches, the scrub at the edge of [[place-chakultzklrgn|Ch'akul Tsa'kul]] and the highlands of [[place-ixilankulrgn|Ish'ilankul]], taking deer and wild goats. It avoids people and larger threats and prefers to hunt unseen.
 
 ## Presentation
 

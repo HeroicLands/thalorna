@@ -8,15 +8,15 @@ tags: [region, frontier, hill]
 data: {demonym: null, lore: [], parents: [aldorathrgn], population: 34000, packFolder: aelwyth}
 ---
 
-The **Wyndmarch** is the [[affiliation-kngdmldrth|Kingdom of Aldorath]]'s eastern frontier: the foothill country under
-[[place-ironfells|The Ironfells]], running from the approaches to the two passes in the north down toward
-[[place-hallowwood|The Hallowwood]] in the south. Thirty-four thousand people, and the kingdom's whole
+The **Wyndmarch** is [[affiliation-kngdmldrth|Aldorath]]'s eastern frontier: the foothill country under
+[[place-ironfells|the Ironfells]], running from the approaches to the two passes in the north down toward
+[[place-hallowwood|the Hallowwood]] in the south. Thirty-four thousand people, and the kingdom's whole
 military attention.
 
 ## The Passes
 
-Everything here is arranged around the two passes over [[place-sunderfells|The Sunderfells]] into
-the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]. [[place-caerwynd|Kaerwynd]] is the march's fortress and watches
+Everything here is arranged around the two passes over [[place-sunderfells|the Sunderfells]] into
+[[affiliation-jrldmstrmvld|Stormveld]]. [[place-caerwynd|Kaerwynd]] is the march's fortress and watches
 the southern pass-heads; the garrisons, the levies and the beacon chain all exist for the possibility
 that something comes down out of the north.
 
@@ -28,7 +28,7 @@ the mountains that everyone deplores and nobody stops.
 
 Much of the march is wooded, and it shades eastward and southward into country that no realm governs.
 Tribal communities live in the deeper folds of it—the warlike sort, quite unlike the northern herders
-of the [[place-pshtrwldrns|Peshtar Wilderness]]—and the boundary between Aldorathi manor and unclaimed forest is a
+of [[place-pshtrwldrns|Peshtar]]—and the boundary between Aldorathi manor and unclaimed forest is a
 matter of local knowledge rather than of any map.
 
 The royal forest above [[place-kingsholow|Kingshollow]] lies here, under forest law, hunted by kings
@@ -44,4 +44,4 @@ and the frontier is precisely where it was. Nobody at [[place-dunmere|Dunmere]] 
 
 ## See Also
 
-- [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-caerwynd|Kaerwynd]] · [[place-sunderfells|The Sunderfells]]
+- [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-caerwynd|Kaerwynd]] · [[place-sunderfells|the Sunderfells]]

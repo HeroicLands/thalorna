@@ -417,7 +417,7 @@ sohl:
 
 ![[kjrvngjrln|Chorvan Jarlen]]{float=top-left}
 
-Chorvan Jarlen stands 6'1" tall with a medium build. He has sun-tanned skin, dark brown hair, and brown eyes. His features include an oblong face, a straight nose, an angular jawline, full lips, dark brows, and sculpted cheeks.
+Chorvan stands 6'1" tall with a medium build. He has sun-tanned skin, dark brown hair, and brown eyes. His features include an oblong face, a straight nose, an angular jawline, full lips, dark brows, and sculpted cheeks.
 
 # Dossier {#dossier}
 
@@ -429,7 +429,7 @@ Chorvan was born in the borderlands between the [[affiliation-kngdmprvnz|Kingdom
 
 ### Training and Path
 
-At twelve years old, Chorvan apprenticed himself to Master [Aelfen]{.name data-type="being/npc"}, the head ostler of the well-known [Traveler's Rest Inn]{.name data-type="place/structure"} located at the great crossroads where roads from the [[place-provenzrgn|Provenzia Region]], the [Merchant Cities]{.name data-type="place"}, and the coastal provinces meet. For thirteen years, he studied the care of horses in all their complexity—feeding and grooming, but also understanding their temperaments, healing their ailments, training them gently but firmly, and reading the subtle signs of their health and mood. Master Aelfen was a stern but fair teacher who believed that a good ostler must possess the patience of stone and the heart of a priest. Chorvan proved an apt student, eventually becoming responsible for the care of the inn's entire complement of thirty to forty horses, with a rotating staff of junior ostlers beneath him.
+At twelve years old, Chorvan apprenticed himself to Master [Aelfen]{.name data-type="being/npc"}, the head ostler of the well-known [Traveler's Rest Inn]{.name data-type="place/structure"} located at the great crossroads where roads from [[place-provenzrgn|Provenzia]], the [Merchant Cities]{.name data-type="place"}, and the coastal provinces meet. For thirteen years, he studied the care of horses in all their complexity—feeding and grooming, but also understanding their temperaments, healing their ailments, training them gently but firmly, and reading the subtle signs of their health and mood. Master Aelfen was a stern but fair teacher who believed that a good ostler must possess the patience of stone and the heart of a priest. Chorvan proved an apt student, eventually becoming responsible for the care of the inn's entire complement of thirty to forty horses, with a rotating staff of junior ostlers beneath him.
 
 ### Current Situation
 
@@ -441,7 +441,7 @@ Now established as the chief ostler at the Traveler's Rest Inn, Chorvan has beco
 
 Chorvan is a man of few words but real warmth. He communicates with equal fluency through speech and through action, and many travelers report that conversing with him is peaceful—he listens without judgment, asks thoughtful questions, and never hurries a conversation. He possesses an almost meditative quality, as if he's learned patience and acceptance from years of working with creatures that operate outside human logic. There is a gentleness to him that might be mistaken for softness by those who don't know him, but those who do understand that it masks an underlying strength and resolve. He is capable of great tenderness with suffering animals and uncertain travelers, yet firm and clear with those who would mistreat animals under his care.
 
-Chorvan struggles with conflict and direct confrontation, preferring always to seek peaceful resolution or simply to withdraw rather than engage in argument. This can appear as passivity, but it stems from a deeper philosophy: he believes that most conflict arises from people operating at cross-purposes when patient conversation could bridge the gap. He follows the **[[affiliation-ardavon|Faith of Árdavon]]** not through ritual but through his daily practice of balance—maintaining equilibrium between the needs of animals and the needs of travelers, between old ways and new, between solitude and community.
+Chorvan struggles with conflict and direct confrontation, preferring always to seek peaceful resolution or simply to withdraw rather than engage in argument. This can appear as passivity, but it stems from a deeper philosophy: he believes that most conflict arises from people operating at cross-purposes when patient conversation could bridge the gap. He follows the **[[affiliation-ardavon|god Árdavon]]** not through ritual but through his daily practice of balance—maintaining equilibrium between the needs of animals and the needs of travelers, between old ways and new, between solitude and community.
 
 ### Motivation
 
@@ -506,7 +506,7 @@ The Slave Traders of the [Shadowmarch]{.name data-type="place"}
 : Criminal organizations that occasionally pass through the crossroads. Chorvan refuses them service, and they view him as an obstacle to their operations.
 
 The Road Bandits of [[place-thornwood|Thornwood]]
-: A band of brigands led by the cruel **Captain [[being-kalzothegain|Kalzote Gainessis]]** who have attempted to steal valuable horses from the inn. Chorvan has helped facilitate the recovery of stolen animals.
+: A band of brigands led by the cruel **Captain [[being-kalzothegain|Kalzote]]** who have attempted to steal valuable horses from the inn. Chorvan has helped facilitate the recovery of stolen animals.
 
 Rival Ostlers
 : A few ostlers from competing stables view Chorvan's reputation as a threat to their business and have occasionally attempted to poach his clients or sabotage his reputation.
@@ -528,7 +528,7 @@ The Refugee's Escape
 : A desperate family fleeing persecution arrives at the inn, their children riding exhausted horses and carrying nothing but the clothes on their backs. They ask Chorvan to hide them and provide fresh animals for the night before they continue to the border. Helping them could bring dangerous enemies to the inn and threaten his position, but refusing to help violates everything he believes in.
 
 The Champion's Return
-: An old traveler arrives at the inn riding a horse of extraordinary breeding and apparent extreme age—well beyond the normal lifespan of a horse. The traveler, a mysterious warrior named **Ser [[being-kotsudekanar|Kotsude Kanarris]]**, claims the horse is far older than it should be due to magical preservation, and he needs Chorvan to understand its needs. As Chorvan works with the unusual animal, he becomes entangled in Ser Kotsude's quest to recover a stolen artifact, learning that the knight believes the artifact contains knowledge that could change the balance of power in several kingdoms.
+: An old traveler arrives at the inn riding a horse of extraordinary breeding and apparent extreme age—well beyond the normal lifespan of a horse. The traveler, a mysterious warrior named **Ser [[being-kotsudekanar|Kotsude]]**, claims the horse is far older than it should be due to magical preservation, and he needs Chorvan to understand its needs. As Chorvan works with the unusual animal, he becomes entangled in Ser Kotsude's quest to recover a stolen artifact, learning that the knight believes the artifact contains knowledge that could change the balance of power in several kingdoms.
 
 The Great Breeding
 : A prestigious alliance of noble houses commissions Chorvan to assist in organizing a grand breeding program that would create a new strain of superior warhorses. This project would be his life's work, requiring him to journey to distant stables, negotiate with other masters, and establish himself as a leading figure in the art of horsemanship. However, he learns that the breeding program is secretly intended to create creatures capable of carrying armored warriors into morally questionable wars of conquest.

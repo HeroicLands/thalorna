@@ -396,7 +396,7 @@ Ilmara Ornethran is a 48-year-old woman who stands 5'10" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia Region]] to a guilded family of [[lore-tarvenanclt|Tarvenan]] heritage, Ilmara Ornethran came into the world of the innkeeper through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia region]] to a guilded family of [[lore-tarvenanclt|Tarvenan]] heritage, Ilmara Ornethran came into the world of the innkeeper through a combination of circumstance and aptitude.
 
 Ilmara took over the [Ornethran Inn]{.name data-type="place/structure"} after her husband passed away. She is known for her strength and resilience, managing the inn single-handedly while providing a warm and inviting atmosphere. Ilmara prides herself on her homemade dishes and has built a reputation for her signature stews. While she faces challenges as a single innkeeper, her determination keeps the inn thriving.
 

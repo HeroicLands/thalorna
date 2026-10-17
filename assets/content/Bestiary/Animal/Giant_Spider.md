@@ -170,7 +170,7 @@ The cords across the trail are as thick as your little finger and gray with dust
 
 # Dossier {#dossier}
 
-The Giant Spider is a web-building spider with a body four feet across and legs that span twenty, which strings a maze of silk through the forests and marsh-woods of [[place-grkrhlmrgn|Grukarholm Region]] and the eastern reaches of [[place-vrystwald|Vristwald]] toward it, and waits at the heart of the maze for something to touch a line. It takes deer, boar, members of the [[lore-grukarfolk|Grukar Folk]] and men, binds them, and drains them, and it is the one thing in those woods the Grukar themselves walk round. A web-ground is a stretch of forest with cords across every path and husks hanging in the branches, and the [[lore-varokhiclt|Varokhi]] of the frontier villages mark the edges of them with blazes and do not cross.
+The Giant Spider is a web-building spider with a body four feet across and legs that span twenty, which strings a maze of silk through the forests and marsh-woods of [[place-grkrhlmrgn|Grukarholm]] and the eastern reaches of [[place-vrystwald|Vristwald]] toward it, and waits at the heart of the maze for something to touch a line. It takes deer, boar, members of the [[lore-grukarfolk|Grukar Folk]] and men, binds them, and drains them, and it is the one thing in those woods the Grukar themselves walk round. A web-ground is a stretch of forest with cords across every path and husks hanging in the branches, and the [[lore-varokhiclt|Varokh]] of the frontier villages mark the edges of them with blazes and do not cross.
 
 ## Presentation
 

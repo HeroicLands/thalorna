@@ -47,7 +47,7 @@ Foreign Raids
 
 ### Act II: The Quest for the Relics
 
-Groa’s visions tell her of the three ancient relics—[[miscgear-sprsigrid|The Spear of Skraldthira]], [[miscgear-crwnwyrm|The Crown of the Wyrm]], and [[miscgear-hornnjordur|The Horn of Hafvald]]—needed to seal away Njorven. Each relic presents unique challenges, and retrieving them will require more than magical power; it will demand diplomacy, strategy, and careful decision-making.
+Groa’s visions tell her of the three ancient relics—[[miscgear-sprsigrid|The Spear of Skraldthira]], [[miscgear-crwnwyrm|the Crown of the Wyrm]], and [[miscgear-hornnjordur|the Horn of Hafvald]]—needed to seal away Njorven. Each relic presents unique challenges, and retrieving them will require more than magical power; it will demand diplomacy, strategy, and careful decision-making.
 
 The Spear of Skraldthira
 : This relic is hidden within an ancient shrine, guarded by a powerful **spirit guardian**. To gain the Spear, Groa must confront this guardian not through battle but by journeying into the spirit world. There, she will face trials that test her wisdom, wit, and resolve. The spirit world will reflect not only the physical realm but also the deep fears and desires of Groa and her companions. Solving these trials will unlock the Spear, but brute strength will lead to failure.
@@ -63,17 +63,17 @@ Negotiating with Factions
 : Groa will have to interact with the major factions in Malagna—perhaps brokering a fragile alliance between rival clans in order to muster a defense against Njorven’s influence. Some factions will oppose her outright, while others may try to manipulate the situation to their own advantage. Groa and her companions must tread carefully, knowing that any misstep could result in disaster.
 
 The Growing Influence of Njorven’s Cult
-: As Njorven’s power grows, some coastal clans begin to abandon their faith in Thrunvald, turning instead to the ancient sea spirit. Members of [[affiliation-njorvencult|Njorven's Cult]] actively work to undermine Groa’s efforts, spreading chaos along the coast. Groa’s group will need to expose and dismantle this cult while convincing the people to resist Njorven’s allure.
+: As Njorven’s power grows, some coastal clans begin to abandon their faith in Thrunvald, turning instead to the ancient sea spirit. [[affiliation-njorvencult|These cultists]] actively work to undermine Groa’s efforts, spreading chaos along the coast. Groa’s group will need to expose and dismantle this cult while convincing the people to resist Njorven’s allure.
 
 ### Act IV: The Final Showdown
 
 The final act sees the kingdom on the brink of collapse. Civil war looms, foreign invaders press in from the borders, and Njorven’s full power is about to be unleashed.
 
 The Ritual of Binding
-: With the three relics in hand, Groa must perform [[lore-njordurritlbinding|The Ritual of Binding]], an ancient rite, to seal Njorven away. The ritual must be performed at a specific location—perhaps a hidden coastal temple—but it will require both spiritual and material preparation. Groa will need to ensure that her companions can protect her during the ritual while also dealing with the external threats of rival factions, invaders, and Njorven’s minions.
+: With the three relics in hand, Groa must perform [[lore-njordurritlbinding|the ancient Ritual of Binding]], an ancient rite, to seal Njorven away. The ritual must be performed at a specific location—perhaps a hidden coastal temple—but it will require both spiritual and material preparation. Groa will need to ensure that her companions can protect her during the ritual while also dealing with the external threats of rival factions, invaders, and Njorven’s minions.
 
 A Non-Magical Solution
-: Though magic will play a role in the final battle, the ultimate solution to sealing Njorven away will rely on Groa’s knowledge, strategy, and diplomacy. Perhaps convincing a key faction to support her, or finding an ancient piece of lore hidden in the archives of the [[lore-flkkhazar|Khazár Folk]], will turn the tide of the battle.
+: Though magic will play a role in the final battle, the ultimate solution to sealing Njorven away will rely on Groa’s knowledge, strategy, and diplomacy. Perhaps convincing a key faction to support her, or finding an ancient piece of lore hidden in the archives of the [[lore-flkkhazar|Khazari]], will turn the tide of the battle.
 
 ## Key Themes and Non-Magical Elements
 

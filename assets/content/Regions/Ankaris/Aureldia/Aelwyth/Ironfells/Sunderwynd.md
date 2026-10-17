@@ -16,9 +16,9 @@ data:
 
 ## Overview
 
-The southern approach to the more easterly of the two passes of [[place-ironfells|The Ironfells]] climbs for a day through steep, sodden forest and then enters a gorge, a narrow cleft with a torrent at the bottom and a trail cut along one wall. At the gorge's upper end, on a crag that overhangs the trail, stands **Sunderwynd**: a square stone tower, a walled yard, a gatehouse and a barrack range with arrow-slits on the gorge side. The name is the gorge's, the split way between the hills. Every pack-pony that crosses the pass from the south goes under the post's walls, and the post collects the crown's toll on it.
+The southern approach to the more easterly of the two [[place-ironfells|Ironfells passes]] climbs for a day through steep, sodden forest and then enters a gorge, a narrow cleft with a torrent at the bottom and a trail cut along one wall. At the gorge's upper end, on a crag that overhangs the trail, stands **Sunderwynd**: a square stone tower, a walled yard, a gatehouse and a barrack range with arrow-slits on the gorge side. The name is the gorge's, the split way between the hills. Every pack-pony that crosses the pass from the south goes under the post's walls, and the post collects the crown's toll on it.
 
-Sunderwynd is an outpost of [[place-caerwynd|Kaerwynd]], which watches the southern ends of the passes. Its garrison is a captain and a score of men, relieved by a patrol up from Kaerwynd at intervals, and its life is weather, smugglers and the occasional skirmish with the jarl's men at the pass-head ([[place-sunderfells|The Sunderfells]]).
+Sunderwynd is an outpost of [[place-caerwynd|Kaerwynd]], which watches the southern ends of the passes. Its garrison is a captain and a score of men, relieved by a patrol up from Kaerwynd at intervals, and its life is weather, smugglers and the occasional skirmish with the jarl's men at the pass-head ([[place-sunderfells|the Sunderfells]]).
 
 ## The Post
 
@@ -73,7 +73,7 @@ The gorge trail is the only road to Sunderwynd. It is a day's climb from the las
 ## See Also
 
 - [[scenario-hangingdead|The Hanging Dead of the Ironfells]]—a scenario set here
-- [[place-ironfells|The Ironfells]] · [[place-caerwynd|Kaerwynd]] · [[place-sunderfells|The Sunderfells]]
+- [[place-ironfells|The Ironfells]] · [[place-caerwynd|Kaerwynd]] · [[place-sunderfells|the Sunderfells]]
 - [[lore-dreadspawncrtr|Dreadspawn]]—made things, of which the Hangman is one
 
 # The Truth of Sunderwynd {#truth .secret}

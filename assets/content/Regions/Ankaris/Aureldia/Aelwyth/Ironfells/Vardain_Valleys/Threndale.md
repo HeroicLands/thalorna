@@ -36,4 +36,4 @@ the late ones do not always bring back someone who can be spoken to.
 
 ## See Also
 
-- [[place-vardainvalleys|The Vardain Valleys]] · [[lore-vardain|The Vardain]]
+- [[place-vardainvalleys|The Vardain Valleys]] · [[lore-vardain|the Vardain]]

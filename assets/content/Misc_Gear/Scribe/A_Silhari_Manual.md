@@ -8,7 +8,7 @@ data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 0.2, valueBase: 2, qualityBase: 0, durabilityBase: 4}}
 ---
 
-A sílhari manual is the small leather-bound book every Kaliharan is given at six or seven, in [Dry-Turn]{.name data-type="lore/calendar"}, and fills for life. The keeper's full name heads the first page. The entries are dates and counts: the day a tree flowers, the birds that come home to a roost, the weather at dawn, all written in [[skill-luthrscrpt|Luaithari Script]].
+A sílhari manual is the small leather-bound book every Kaliharan is given at six or seven, in [Dry-Turn]{.name data-type="lore/calendar"}, and fills for life. The keeper's full name heads the first page. The entries are dates and counts: the day a tree flowers, the birds that come home to a roost, the weather at dawn, all written in [[skill-luthrscrpt|Luaithari]].
 
 ## What It Does
 

@@ -15,7 +15,7 @@ data:
 # terran_analog: "The dry south-eastern Anatolian plateau and its descent toward the Syrian steppe—Cilicia and the upper Euphrates marches."
 ---
 
-The Southern March is the frontier district of the [[affiliation-byzarianlg|Bizarian League]] on the south-eastern flank of the [[place-byzariargn|Bizaria Region]], where the plateau dries out toward the border of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] and the caravan road leaves [[place-karvashion2|Karvashion]] for the [[place-dunharargn|Dunhara Region]]. It is pastoral upland—sheep, goats and horses on thin grass, hunting in the scrub and the gorges—and it is held for the League by a landed lord rather than a soldier, because the trouble it faces is the kind a landed lord handles: tolls, grazing rights, poachers, feuds and the occasional raid.
+The Southern March is the frontier district of the [[affiliation-byzarianlg|Bizarian League]] on the south-eastern flank of [[place-byzariargn|Bizaria]], where the plateau dries out toward the border of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] and the caravan road leaves [[place-karvashion2|Karvashion]] for [[place-dunharargn|Dunhara]]. It is pastoral upland—sheep, goats and horses on thin grass, hunting in the scrub and the gorges—and it is held for the League by a landed lord rather than a soldier, because the trouble it faces is the kind a landed lord handles: tolls, grazing rights, poachers, feuds and the occasional raid.
 
 Like the League's other marches it is common territory outside any city's charter. Its lord holds a commission from the League council in [[place-khryshteikhos2|Krusteikhos]] and answers to it, and the district's garrison is a detachment of the joint army. The commission is at present held by **Lord [[being-vaskan|Vaskan]] of the Southern March**, whose house has hunted this country for generations and who governs it in the manner of a great landowner: from the saddle, by custom, and with a memory for every family in it.
 
@@ -29,7 +29,7 @@ The March's southern edge is Amradi border country—a line of hills and customs
 
 ## Hunting Country
 
-The upland is the finest hunting ground in the [[place-heladrgn|Hellád Region]], and its lords treat it as such. Wild boar root in the gorges, gazelle and wild sheep graze the high ridges, wolves follow the herds, and leopard are taken in the remotest country. The great hunts of the Southern March are its political season: the League's merchant-princes and foreign envoys are invited, the lord's hospitality is lavish, and more League business is settled around the hunting fires than in half the sessions of the council.
+The upland is the finest hunting ground in the [[place-heladrgn|Hellád]], and its lords treat it as such. Wild boar root in the gorges, gazelle and wild sheep graze the high ridges, wolves follow the herds, and leopard are taken in the remotest country. The great hunts of the Southern March are its political season: the League's merchant-princes and foreign envoys are invited, the lord's hospitality is lavish, and more League business is settled around the hunting fires than in half the sessions of the council.
 
 Vaskan hunts with trained beasts—hounds, hawks and coursing cats—and pays well for them. His animals come from the best trainers he can find, including [[being-akhrelrthllr|Akhrelu Reth'el'Leru]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] across the sea, who has supplied the lord's kennels and mews for decades and whom Vaskan values because he treats the animals with consideration. The lord's huntsmen double as the March's rangers, and the lord's kennels have furnished war-dogs and scouting beasts for the League's border campaigns more than once.
 
@@ -41,7 +41,7 @@ The relationship with [[affiliation-karvashion|Karvashion]] is close and unequal
 
 ## Peoples
 
-The March's people are herders and villagers of upland Bizarian stock, conservative, clan-minded and worshippers of the [[affiliation-arldnpnthn|Aureldian Pantheon]] in the eastern rite, with a scattering of Dunhari-descended families along the caravan road who keep shrines of the [[affiliation-ashanpnthn|Ashaian Pantheon]] and the honor code of the desert. Dunhari caravans pass through under the League's truce and camp at the caravanserais; Amradi drovers come up from the south to buy sheep. The upland speaks the [[skill-byzarnlng|Bizarian Language]] with its own accent and regards the coastal cities as rich, soft and far away.
+The March's people are herders and villagers of upland Bizarian stock, conservative, clan-minded and worshippers of the [[affiliation-arldnpnthn|Aureldian Pantheon]] in the eastern rite, with a scattering of Dunhari-descended families along the caravan road who keep [[affiliation-ashanpnthn|Ashaian shrines]] and the honor code of the desert. Dunhari caravans pass through under the League's truce and camp at the caravanserais; Amradi drovers come up from the south to buy sheep. The upland speaks [[skill-byzarnlng|Bizarian]] with its own accent and regards the coastal cities as rich, soft and far away.
 
 ## Economy
 

@@ -238,7 +238,7 @@ A salmon lies on the flat rock, the head and belly eaten and the rest thrown asi
 
 # Dossier {#dossier}
 
-The Brown Bear is the largest hunter of the northern mountains and forests, eight hundred to twenty-five hundred pounds, nine to thirteen feet tall when it rears. It holds the mountain valleys and salmon streams of the [[place-nrdlndsrgn|Nordlands Region]], the deep taiga of [[place-vrystwald|Vristwald]] and the high valleys of [[place-graznmntns|The Grazian Mountains]], alone, and defends its range and its kills against all comers. Unlike the black bear it seldom gives way to people and often attacks at the first meeting.
+The Brown Bear is the largest hunter of the northern mountains and forests, eight hundred to twenty-five hundred pounds, nine to thirteen feet tall when it rears. It holds the mountain valleys and salmon streams of the [[place-nrdlndsrgn|Nordlands]], the deep taiga of [[place-vrystwald|Vristwald]] and the high valleys of [[place-graznmntns|the Grazian Mountains]], alone, and defends its range and its kills against all comers. Unlike the black bear it seldom gives way to people and often attacks at the first meeting.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A dominant male holds fifteen to fifty square miles, driving out other males and
 
 ## What the Hunters Do
 
-The [[lore-varokhiclt|Varokhi]] hunt the brown bear last, and only after elk and boar fail, since a bear takes the lives of hunters. The bear wesk is kept by villages such as [Mahnwald]{.name data-type="place/settlement"} and [[place-weskstein|Weskstein]], whose rites bar the killing of a bear in the village's own woods. In the Nordlands a bear-hunt is a clan matter, with the clan's best spearmen and a rope-line of dogs, and the man who gives the killing thrust takes the claws. The Grazian guides carry noise-makers and keep their goats penned at night in bear country. The hide goes to the clan chief, and the fat to the sick.
+The [[lore-varokhiclt|Varokh]] hunt the brown bear last, and only after elk and boar fail, since a bear takes the lives of hunters. The bear wesk is kept by villages such as [Mahnwald]{.name data-type="place/settlement"} and [[place-weskstein|Weskstein]], whose rites bar the killing of a bear in the village's own woods. In the Nordlands a bear-hunt is a clan matter, with the clan's best spearmen and a rope-line of dogs, and the man who gives the killing thrust takes the claws. The Grazian guides carry noise-makers and keep their goats penned at night in bear country. The hide goes to the clan chief, and the fat to the sick.
 
 ## Signs
 

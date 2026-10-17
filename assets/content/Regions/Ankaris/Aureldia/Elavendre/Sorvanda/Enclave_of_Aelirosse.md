@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The **Enclave of Aelirosse** is the community of the [[lore-flksinale|Sinale Folk]] at [[place-aelirosse|Aelirosse]], in [[place-silvrfrsts|The Silver Forests]] of [[place-sorvanda|Sórvanda]]. Sinale have kings, queens and lords, but these do not work as human ones do, and the enclave is governed by its lord. It is neither the crown's nor the [[affiliation-alndnwrdns|Áelendan Wardens]]': its relationship with the surrounding [[lore-aelendnppl|Áelendan People]] is cordial, not an alliance. Sinale grow and craft their dwellings rather than build them in stone.
+The **Enclave of Aelirosse** is the community of the [[lore-flksinale|Sinale Folk]] at [[place-aelirosse|Aelirosse]], in [[place-silvrfrsts|the Silver Forests]] of [[place-sorvanda|Sórvanda]]. Sinale have kings, queens and lords, but these do not work as human ones do, and the enclave is governed by its lord. It is neither the crown's nor the [[affiliation-alndnwrdns|Wardens]]': its relationship with the surrounding [[lore-aelendnppl|Áelendan]] is cordial, not an alliance. Sinale grow and craft their dwellings rather than build them in stone.

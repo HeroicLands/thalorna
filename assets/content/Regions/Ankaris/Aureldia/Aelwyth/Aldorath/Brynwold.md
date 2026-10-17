@@ -14,7 +14,7 @@ data:
   packFolder: aelwyth
 ---
 
-**Brynwold** is the [[place-aldorathrgn|Aldorath Region]]'s upland country, rising west and north of [[place-aldorvale|The Aldorvale]]
+**Brynwold** is the [[place-aldorathrgn|Aldorath Region]]'s upland country, rising west and north of [[place-aldorvale|the Aldorvale]]
 into hills too high and thin-soiled for grain. Twenty-six thousand people, and a great many more sheep.
 
 ## The Wool

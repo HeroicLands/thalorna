@@ -25,7 +25,7 @@ data:
           agrees: full
 ---
 
-[[affiliation-adanasreni|The Adanashreni]] works under taboos, and the first of them is that nobody is killed during a taking. Two generations ago some of its craft-lines decided that taboo was a luxury. The shrena cut them off, and **The Cut Thread** is what the shrena calls that night.
+[[affiliation-adanasreni|The Adanashreni]] works under taboos, and the first of them is that nobody is killed during a taking. Two generations ago some of its craft-lines decided that taboo was a luxury. The shrena cut them off, and **the Cut Thread** is what the shrena calls that night.
 
 ## The Schism
 

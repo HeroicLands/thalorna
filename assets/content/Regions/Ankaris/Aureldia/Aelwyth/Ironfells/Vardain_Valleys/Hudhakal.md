@@ -20,12 +20,12 @@ Khazari name, Hudhakal, "the tally-house".
 
 Seven hundred and eighty people, and the **tallies**. Every delivery owed up the mountain and every
 consignment coming down is reckoned here before it reaches [[place-vargate|Vargate]], on tally-sticks
-and in ledgers kept by four families who have kept them for longer than the [[affiliation-kngdmldrth|Kingdom of Aldorath]] has had kings. The
-system is exact to a degree outsiders find unnerving, and the [[lore-flkkhazar|Khazár Folk]] have never once queried a figure.
+and in ledgers kept by four families who have kept them for longer than [[affiliation-kngdmldrth|Aldorath]] has had kings. The
+system is exact to a degree outsiders find unnerving, and the [[lore-flkkhazar|Khazari]] have never once queried a figure.
 
 Hudhakal is also where a Vardain goes when a matter must be put to the lords. The tally-keepers do not
 claim to speak for anyone; they simply know how to send a question up and are the only people who do.
 
 ## See Also
 
-- [[place-vardainvalleys|The Vardain Valleys]] · [[lore-vardain|The Vardain]]
+- [[place-vardainvalleys|The Vardain Valleys]] · [[lore-vardain|the Vardain]]

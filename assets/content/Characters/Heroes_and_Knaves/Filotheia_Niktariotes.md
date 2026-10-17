@@ -412,7 +412,7 @@ sohl:
 
 ![[flthnktrts|Fritia Manedes]]{float=top-left}
 
-Fritia Manedes stands 5'9" tall with a light build. She has sun-tanned skin, black hair, and brown eyes. Her features include a narrow face, an aquiline nose, a narrow chin, well-defined lips, thick dark brows, and hollow cheeks. She has a tattoo of a tree on her back.
+Fritia stands 5'9" tall with a light build. She has sun-tanned skin, black hair, and brown eyes. Her features include a narrow face, an aquiline nose, a narrow chin, well-defined lips, thick dark brows, and hollow cheeks. She has a tattoo of a tree on her back.
 
 # Dossier {#dossier}
 

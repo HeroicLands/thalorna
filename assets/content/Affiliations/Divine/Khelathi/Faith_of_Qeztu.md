@@ -55,7 +55,7 @@ sohl: {system: {commonSkills: []}}
 
 "Nobody asks for [[lore-qeztudty|Qeztu]] in the valley," a **Priest of the Frontier Garrisons** tells a conscript on his first night at a fort beyond the first cataract. "The valley likes gentler gods. Out here you will."
 
-The Faith of Qeztu is a frontier cult of the war-god, and deliberately so. He is patron of four of the ten border selatu and rare in the valley, and his worship is strongest where the empire's writ is thinnest. The four are [[affiliation-selatzuzllgl|The Selat of Zu-Zalu-Legulu]], [[affiliation-seltqltlnlgr|The Selat of Qelt-Len-Legir]], [[affiliation-selatgarqezt|The Selat of Gar-Qeztu]] and [[affiliation-selatbelgnzl|The Selat of Belgen-Zalu]]. The name of a selat is no guide: [[affiliation-selatzuqeztu|The Selat of Zu-Qeztu]] belongs to the [[affiliation-uqaa|Faith of Uqa'a]].
+The Faith of Qeztu is a frontier cult of the war-god, and deliberately so. He is patron of four of the ten border selatu and rare in the valley, and his worship is strongest where the empire's writ is thinnest. The four are [[affiliation-selatzuzllgl|the Selat of Zu-Zalu-Legulu]], [[affiliation-seltqltlnlgr|the Selat of Qelt-Len-Legir]], [[affiliation-selatgarqezt|the Selat of Gar-Qeztu]] and [[affiliation-selatbelgnzl|the Selat of Belgen-Zalu]]. The name of a selat is no guide: [[affiliation-selatzuqeztu|the Selat of Zu-Qeztu]] belongs to [[affiliation-uqaa|Uqa'a]].
 
 ## Where the Cult Serves
 

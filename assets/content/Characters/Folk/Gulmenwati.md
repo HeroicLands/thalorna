@@ -36,4 +36,4 @@ Gulmenwati is a 53-year-old man who stands 5'6" tall with a light build. He has 
 
 # Dossier {#dossier}
 
-Gulmenwati is a junior priest at the temple of the [[affiliation-qearet|Faith of Qe'aret]] in [[place-anlaghzetun|Anlagh-Zetun]]. He is young enough still to believe the order runs exactly as described to him. Those further up the hierarchy let him go on believing it, for now.
+Gulmenwati is a junior priest at the temple of [[affiliation-qearet|Qe'aret]] in [[place-anlaghzetun|Anlagh-Zetun]]. He is young enough still to believe the order runs exactly as described to him. Those further up the hierarchy let him go on believing it, for now.

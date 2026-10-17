@@ -16,11 +16,11 @@ data:
   packFolder: adventures
 ---
 
-An oath is knocking at a cedar door in the dark, and a town of four thousand has learned not to answer. The party must find out what the voice wants, what it was before it wanted it, and whether the cellars under [[place-velkunvartun|Veshkunvartun]] hold more than tablets.
+An oath is knocking at a cedar door in the dark, and a town of four thousand has learned not to answer. The party must find out what the voice wants, what it was before it wanted it, and whether the cellars under [[place-velkunvartun|the Barred Gate]] hold more than tablets.
 
 ## Overview
 
-The settlement of [[place-vahurdash|Vahurdash]] sits in the corner of the old city of [[place-velkunar|Veshkun]] and bars its gate each night against a knocking that speaks the words of the champion in [[lore-velkunsong|The Song of the Lost Town]]. The knocker is the [Gate-dead]{.name data-type="being/creature"}, a thing [[lore-theshadow|The Shadow]] made out of an unpaid oath and the unread dead of the record-house. It can be turned away, and it can be answered, and the only people who have answered it are gone.
+The settlement of [[place-vahurdash|Vahurdash]] sits in the corner of the old city of [[place-velkunar|Veshkun]] and bars its gate each night against a knocking that speaks the words of the champion in [[lore-velkunsong|the Song of the Lost Town]]. The knocker is the [Gate-dead]{.name data-type="being/creature"}, a thing [[lore-theshadow|the Shadow]] made out of an unpaid oath and the unread dead of the record-house. It can be turned away, and it can be answered, and the only people who have answered it are gone.
 
 The adventure runs over three days and two nights. Day one is the arrival and the first night at the gate. Day two is the cellars. The second night is the reckoning at the door. The scenes are arranged as five rooms, and each can be run in any order that the party's choices make natural, with the bypass notes below to carry play on.
 
@@ -53,7 +53,7 @@ The adventure runs over three days and two nights. Day one is the arrival and th
 
 **Situation.** [Murelul]{.name data-type="being/npc"}, the Shekhul of Vahurdash, keeps a shuttered house near the lower well and a room full of copied tablets, and he receives the party at an hour when he knows they will come. He knows the whole of the song, and he knows where it is wrong. He tells the party that the Gate-dead is the oath without the man, that it will answer only the oath, and that the oath can be taken back by the one who has the right to take it. He also tells them what he has told no one in the settlement: the keepers of the record-house were never named.
 
-**NPCs and threats.** Murelul is small, exact and weary, a man who has read the names of the dead of every household in the settlement and none of the household under it. He wants the keepers received. He cannot go into the cellars, because the warden has forbidden it and because he is afraid of what he will find. Khorsád-Vahur, head of the house, receives the party only in the presence of his steward and is courteous in the way of a man who has learned that anything he says is carried to the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. A rival house's agent, [Dulmenul]{.name data-type="being/npc"}, a plump Tellumi clerk who passes as a cloth-merchant and sleeps in the caravan yard, watches the party and offers them a gift for any tablet.
+**NPCs and threats.** Murelul is small, exact and weary, a man who has read the names of the dead of every household in the settlement and none of the household under it. He wants the keepers received. He cannot go into the cellars, because the warden has forbidden it and because he is afraid of what he will find. Khorsád-Vahur, head of the house, receives the party only in the presence of his steward and is courteous in the way of a man who has learned that anything he says is carried to [[affiliation-kngdmmrdd|Amradad]]. A rival house's agent, [Dulmenul]{.name data-type="being/npc"}, a plump Tellumi clerk who passes as a cloth-merchant and sleeps in the caravan yard, watches the party and offers them a gift for any tablet.
 
 **Player choices.** Force: threaten Murelul for the whole of what he knows; he gives it, and the settlement's goodwill turns. Stealth: read the copied tablets in his room while he sleeps; they carry the cellar plan. Guile: let Dulmenul believe the party is for sale and learn what the rival house wants. Parley: persuade Khorsád-Vahur that the party can end the knocking without opening the cellars to his rivals.
 
@@ -105,7 +105,7 @@ The adventure runs over three days and two nights. Day one is the arrival and th
 
 **Player choices.** Force: carry off what can be carried. Stealth: copy the genealogies and leave the tablets. Guile: sell the truth to Dulmenul's house, or to the House of Vahurdash, or both. Parley: bring the tablets to the [Council of the Princes]{.name data-type="affiliation/governmental"} openly and let the seven houses read them.
 
-**Clues and rewards.** A few tablets of debt, sound and legible, fetch a good price in the yards of Kethramír: a handful of silver by weight each. The shield of Revunay, with the name on its rim, is a relic the Tellumi will weep over. The word on the prince's tablet reads two ways. The Tellumi who have seen it read it as the prince's debt to the woman at his gate, settled by the boy's half-skin of water. The scholars of the [[affiliation-tribestrzd|Tribes of Atarzád]] who have heard of it read it as the city's debt to the prince, settled by the sand.
+**Clues and rewards.** A few tablets of debt, sound and legible, fetch a good price in the yards of Kethramír: a handful of silver by weight each. The shield of Revunay, with the name on its rim, is a relic the Tellumi will weep over. The word on the prince's tablet reads two ways. The Tellumi who have seen it read it as the prince's debt to the woman at his gate, settled by the boy's half-skin of water. The [[affiliation-tribestrzd|Atarzád scholars]] who have heard of it read it as the city's debt to the prince, settled by the sand.
 
 **Consequences.** The genealogies change the quarrel over the House's title. The party's choice decides whether the House keeps it by acclamation, loses it to rivals or is publicly made the descendant of an honorable champion.
 

@@ -14,7 +14,7 @@ data:
   packFolder: aelwyth
 ---
 
-The Vardain Valleys are a system of high valleys running down toward the sea cliffs beneath [[place-vorgald|Vorgald]], in the eastern heights of [[place-ironfells|The Ironfells]].
+The Vardain Valleys are a system of high valleys running down toward the sea cliffs beneath [[place-vorgald|Vorgald]], in the eastern heights of [[place-ironfells|the Ironfells]].
 They hold about **eight thousand five hundred [[lore-vardain|Vardain]]**—one town and eight villages—and they are not part of any Aelwythan
 kingdom.
 
@@ -24,7 +24,7 @@ concerned has found it easier not to raise the question.
 
 They are also all that is left free of [[place-vardanreach|Vardanreach]]—and the valleys were part of it. The Vardain
 nation held the whole of what is now [[place-stormveld|Stormveld]], something like a fifth of
-[[place-aelwyth|Aelwyth]]'s land, and these mountains with it. When the Nordmen came in 660 AF ([[lore-stormveldtkn|The Taking of Stormveld]]) they devastated the lowlands and
+[[place-aelwyth|Aelwyth]]'s land, and these mountains with it. When the Nordmen came in 660 AF ([[lore-stormveldtkn|the Taking of Stormveld]]) they devastated the lowlands and
 enslaved the people; a hundred and twenty thousand Vardain are thralls down there now, and what reached
 the high valleys was a remnant of a remnant.
 
@@ -65,7 +65,7 @@ moved, wintered and eaten, and hay, which is cut with an urgency outsiders find 
 seen a season fail.
 
 The basin is **shut by snow for months**. The road down to the lowlands closes, the passes over
-[[place-sunderfells|The Sunderfells]] close, and the valleys spend a third of the year entirely alone. The
+[[place-sunderfells|the Sunderfells]] close, and the valleys spend a third of the year entirely alone. The
 Vardain build, store and reckon accordingly, and their famous exactness with tallies is not a
 temperament—it is what you become when a miscount in autumn is discovered in February.
 
@@ -183,13 +183,13 @@ economic purpose of the district.
 
 ## Outside the Realms
 
-The Vardain pay no tax to the [[affiliation-kngdmldrth|Kingdom of Aldorath]], send no levy to anyone, and appear in no realm's population. The
-[[affiliation-dunavarsynod|Dúnavarre Synod]] at Ravenmoor knows exactly how many of them there are and has never published the figure.
+The Vardain pay no tax to [[affiliation-kngdmldrth|Aldorath]], send no levy to anyone, and appear in no realm's population. The
+[[affiliation-dunavarsynod|Synod]] at Ravenmoor knows exactly how many of them there are and has never published the figure.
 
 On rare occasions—a handful of times in a century—the Khazari deal directly with
-Aldorath or the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]. Every other transaction in
+Aldorath or [[affiliation-kingdmdnvr|Dúnavarre]]. Every other transaction in
 the history of the two realms with the Deep Folk has gone through Vardain hands.
 
 ## See Also
 
-- [[lore-vardain|The Vardain]] · [[place-vorgald|Vorgald]] · [[place-ironfells|The Ironfells]]
+- [[lore-vardain|The Vardain]] · [[place-vorgald|Vorgald]] · [[place-ironfells|the Ironfells]]

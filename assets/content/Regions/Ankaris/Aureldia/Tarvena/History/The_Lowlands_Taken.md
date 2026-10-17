@@ -63,7 +63,7 @@ The Lowlands Taken left the lords of the [[affiliation-kingdmlnrk|Kingdom of Lie
 
 ## The Coast and the Lowlands
 
-The legions came west about 140 AF, the first great wave of [[lore-westernwars|The Western Wars]], and took the southern coast of the Tarvénian peninsula first. The harbors there were the best on the western side of the [[place-vylarianse|Vylarian Sea]], and the [[affiliation-vylarinmpr|Vylarian Empire]] made one of them, [[place-valthari|Valthari]], an imperial port. The central lowlands followed, farm country the legions could march across and keep. The mountainous [[affiliation-kngdmstrth|Kingdom of Asturath]] was beyond them, and the legions did not go into it ([[lore-horngorgebtl|The Battle of the Horn Gorge]]).
+The legions came west about 140 AF, the first great wave of [[lore-westernwars|the Western Wars]], and took the southern coast of the Tarvénian peninsula first. The harbors there were the best on the western side of the [[place-vylarianse|Vylarian Sea]], and the [[affiliation-vylarinmpr|Empire]] made one of them, [[place-valthari|Valthari]], an imperial port. The central lowlands followed, farm country the legions could march across and keep. The mountainous [[affiliation-kngdmstrth|Kingdom of Asturath]] was beyond them, and the legions did not go into it ([[lore-horngorgebtl|the Horn Gorge]]).
 
 ## Lienrik
 

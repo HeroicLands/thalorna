@@ -422,7 +422,7 @@ sohl:
 
 ![[flndrsbldds|Sakozes Bulides]]{float=top-left}
 
-Sakozes Bulides stands 5'9" tall with a medium build. He has sun-tanned skin, greying brown hair, and hazel eyes. His features include an angular face, an aquiline nose, a pointed chin, an expressive mouth, greying brows, and sculpted cheeks. He has a tattoo of a lion on his thigh.
+Sakozes stands 5'9" tall with a medium build. He has sun-tanned skin, greying brown hair, and hazel eyes. His features include an angular face, an aquiline nose, a pointed chin, an expressive mouth, greying brows, and sculpted cheeks. He has a tattoo of a lion on his thigh.
 
 # Dossier {#dossier}
 
@@ -496,7 +496,7 @@ Governor [[being-belzurelachr|Belzurela Chrisakit]]
 [The Grand Council of the Bizarian League]{.name data-type="affiliation/governmental"}
 : The highest governing body, which has come to rely on Sakozes as an advisor regarding proper ceremonial acknowledgment of important events, treaties, and transitions.
 
-High Priestess [[being-dragorahreer|Dragorahre Eriakit]] of the Faith of Lizelas
+High Priestess [[being-dragorahreer|Dragorahre Eriakit]] of Lizelas
 : A priestess of the same order as his mother, who occasionally consults Sakozes regarding the intersection of religious ceremony and civic ritual.
 
 ### Enemies

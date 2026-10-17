@@ -14,7 +14,7 @@ data:
   packFolder: vedyara
 ---
 
-**Madukupa**, the sweet well, is a limestone rise in the broken foothills a day's ride north of [[place-marchroad|The March Road]], with a fort on its crown and a well inside the fort. Of all the wells under the end of [[place-graznmntns|The Grazian Mountains]], the Grazian wall, this one has never run low. The drought that emptied every well within forty miles left it brimming, and the caravan-masters who water at it say the water is faintly sweet, like a honey-rinse. The fort around it is the seat of a **Samonta** of [[affiliation-bhumipala|Bhumipala]], who holds the well and a hundred horse of the Maharava and charges nothing for water.
+**Madukupa**, the sweet well, is a limestone rise in the broken foothills a day's ride north of [[place-marchroad|the march road]], with a fort on its crown and a well inside the fort. Of all the wells under the end of [[place-graznmntns|the Grazian Mountains]], the Grazian wall, this one has never run low. The drought that emptied every well within forty miles left it brimming, and the caravan-masters who water at it say the water is faintly sweet, like a honey-rinse. The fort around it is the seat of a **Samonta** of [[affiliation-bhumipala|Bhumipala]], who holds the well and a hundred horse of the Maharava and charges nothing for water.
 
 ## What Is There
 
@@ -36,7 +36,7 @@ The caravans speak of Madukupa as the kind well, because the Samonta takes no to
 
 ## What It Is
 
-The Samonta's grandfather cut the well down through the limestone into a seam of cold air and found something at the bottom of it. It is old, made of water and sleep, and wants what the fort has. It is a thing of [[lore-theshadow|The Shadow]], come up through the stone from outside creation and wearing the well's water as a body. The grandfather swore an oath to it, a _korvu_, which the line has kept since. The well gives water, and in the dry season the fort sends down one who will not be missed.
+The Samonta's grandfather cut the well down through the limestone into a seam of cold air and found something at the bottom of it. It is old, made of water and sleep, and wants what the fort has. It is a thing of [[lore-theshadow|the Shadow]], come up through the stone from outside creation and wearing the well's water as a body. The grandfather swore an oath to it, a _korvu_, which the line has kept since. The well gives water, and in the dry season the fort sends down one who will not be missed.
 
 The household has taught itself that this is a kind of tithe, as a temple takes a portion of a harvest. The Samonta's father taught it to the servants as a rite. Jayavira does not believe it, and he cannot find the way to stop.
 

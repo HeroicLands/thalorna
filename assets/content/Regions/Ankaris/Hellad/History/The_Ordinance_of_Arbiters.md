@@ -63,7 +63,7 @@ About 584 two shipping houses of [[place-nesthiros2|Nesthiros]] fell out over a 
 
 ## The Ordinance
 
-The council of the [[affiliation-byzarianlg|Bizarian League]] met in the [Merchant Hall]{.name data-type="place/structure"} of [[place-khryshteikhos2|Krusteikhos]] to count the cost, and answered with an ordinance in three parts.
+The [[affiliation-byzarianlg|League council]] met in the [Merchant Hall]{.name data-type="place/structure"} of [[place-khryshteikhos2|Krusteikhos]] to count the cost, and answered with an ordinance in three parts.
 
 - **The arbiter.** A dispute between chartered men goes to an arbiter whom both sides name, and the ruling is made on the clause and not on the man.
 - **The guilds.** A ruling is enforced by the guilds and not by the city. A man who defies it is answerable to his guild's seal.

@@ -414,7 +414,7 @@ sohl:
 
 ![[gulrnhgzvn|Gulranah Gazvan]]{float=top-left}
 
-Gulranah Gazvan stands 6'1" tall with a light build. She has light olive skin, dark brown hair, and warm brown eyes. Her features include a long face, a hawkish nose, an angular jawline, full lips, dark brows, angular cheeks. A distinguishing mark is a scar on the right wrist.
+Gulranah stands 6'1" tall with a light build. She has light olive skin, dark brown hair, and warm brown eyes. Her features include a long face, a hawkish nose, an angular jawline, full lips, dark brows, angular cheeks. A distinguishing mark is a scar on the right wrist.
 
 # Dossier {#dossier}
 
@@ -486,7 +486,7 @@ Master Zalmor Ashenthorn
 : Her retired mentor, now a wealthy merchant. Though he no longer practices the craft himself, he champions her work and occasionally contracts for specialty batches
 
 [The Apothecary Collective of Amradad]{.name data-type="affiliation/guild"}
-: Guild of ritual herbalists who have made her the exclusive supplier of ceremonial charcoal for fertility rites of the [[affiliation-zurathra|Faith of Zúrathra]]
+: Guild of ritual herbalists who have made her the exclusive supplier of ceremonial charcoal for fertility rites of [[affiliation-zurathra|Zúrathra]]
 
 [House Ferringhold]{.name data-type="affiliation/lineage"}
 : A minor noble house of merchants who commission her finest work exclusively and pay handsomely to keep competitors deprived of her product
@@ -522,4 +522,4 @@ The Kiln-Master's Successor
 : As Zalmor's wealth grows and his age advances, he begins to court Gulranah with an unexpected proposition: partnership in a grand expansion of the Northern Kiln into a regional empire of production. He speaks of training other apprentices under her guidance, establishing subsidiary kilns across the kingdom, and securing her legacy far beyond her lifetime. It is everything she should want, yet it would require her to abandon the solitary, intimate relationship with her own single kiln that has defined her entire life. She must choose between growth and purity, ambition and authenticity.
 
 The Curse of Zúrathra's Gift
-: Strange visions begin plaguing Gulranah during her work—fleeting glimpses of other worlds, other kilns, other selves engaged in the same craft. A priestess of **Temple Ashenfire** eventually seeks her out, telling her that her gift with fire may mark her as touched by Zúrathra herself, and that the deity intends to draw her into service for a great working. According to the priestess, the visions are a call, and refusing will bring consequences. Accepting means surrendering the last remnants of her independence to something greater, and possibly terrible, than herself.
+: Strange visions begin plaguing Gulranah during her work—fleeting glimpses of other worlds, other kilns, other selves engaged in the same craft. A priestess of **Temple Ashenffire** eventually seeks her out, telling her that her gift with fire may mark her as touched by Zúrathra herself, and that the deity intends to draw her into service for a great working. According to the priestess, the visions are a call, and refusing will bring consequences. Accepting means surrendering the last remnants of her independence to something greater, and possibly terrible, than herself.

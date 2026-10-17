@@ -9,9 +9,9 @@ sohl: {system: {weightBase: 3, valueBase: 0, durabilityBase: 15}}
 ---
 
 The Crown of the Wyrm is one of the **three regalia** that [[being-grosdrnrgd|Groa the Seid of Norgaad]]'s visions name as necessary to seal away
-[[being-njorven|Njorven]], alongside [[miscgear-hornnjordur|The Horn of Hafvald]] and
-[[miscgear-sprsigrid|The Spear of Skraldthira]]. None of the three is sufficient alone, and
-[[lore-njordurritlbinding|The Ritual of Binding]] cannot be worked without all of them.
+[[being-njorven|Njorven]], alongside [[miscgear-hornnjordur|the Horn of Hafvald]] and
+[[miscgear-sprsigrid|the Spear of Skraldthira]]. None of the three is sufficient alone, and
+[[lore-njordurritlbinding|the Ritual of Binding]] cannot be worked without all of them.
 
 The Crown is a thing of the wyrm—old, heavy, and associated in the sagas with a sovereignty older
 and less comfortable than any the [[place-nrdlndsrgn|Nordlands Region]] presently acknowledges. The clans that remember it at all
@@ -20,7 +20,7 @@ remember it as something a ruler was answerable to rather than something a ruler
 ## Recovering It
 
 Like the other two regalia, the Crown is not simply lost. Recovering it is a challenge in its own
-right and should be run as one, in a kingdom already fracturing: the [[affiliation-kingdomlgn|Kingdom of Malagna]] is on the edge of civil war,
+right and should be run as one, in a kingdom already fracturing: [[affiliation-kingdomlgn|Malagna]] is on the edge of civil war,
 its clans more concerned with each other than with the sea, and any party seeking a crown—of any
 kind—will be assumed to be seeking it for someone.
 
@@ -30,5 +30,5 @@ whatever the carrier intends by it.
 
 ## See Also
 
-- [[scenario-groascmpgn|Groa's Campaign]] · [[lore-njordurritlbinding|The Ritual of Binding]]
-- [[miscgear-hornnjordur|The Horn of Hafvald]] · [[miscgear-sprsigrid|The Spear of Skraldthira]]
+- [[scenario-groascmpgn|Groa's Campaign]] · [[lore-njordurritlbinding|the Ritual of Binding]]
+- [[miscgear-hornnjordur|The Horn of Hafvald]] · [[miscgear-sprsigrid|the Spear of Skraldthira]]

@@ -46,9 +46,9 @@ data:
   packFolder: hellad
 ---
 
-An old Helionite family of [[place-thyrenae2|Thirenae]] dates its deed of sale twice: once in the year of [[lore-commoncal|The Vylarian Calendar]], which the clerk of the province requires, and once in the year of its own age, which the family's steward writes in the margin because his grandfather did. The first is the official count. The second is **The Hellád Calendar**, the reckoning of the Hellád cities from the days of [[lore-daughtercts|The Daughter-Cities]] onward, and it survives unofficially among the people who have no reason to let it go: the old families, who date their records in it; the keepers of the Games, whose truce-rolls run in it; the temples, whose High Judges and priests reckon their lines in it; and the farming country, where the months are the work of the year.
+An old Helionite family of [[place-thyrenae2|Thirenae]] dates its deed of sale twice: once in the year of [[lore-commoncal|the Vylarian Calendar]], which the clerk of the province requires, and once in the year of its own age, which the family's steward writes in the margin because his grandfather did. The first is the official count. The second is **the Hellád Calendar**, the reckoning of the Hellád cities from the days of [[lore-daughtercts|the Daughter-Cities]] onward, and it survives unofficially among the people who have no reason to let it go: the old families, who date their records in it; the keepers of the Games, whose truce-rolls run in it; the temples, whose High Judges and priests reckon their lines in it; and the farming country, where the months are the work of the year.
 
-The Hellád Calendar divides its years into **seven ages**. A date names the year of its age, the way a Vedyaran date does, and each age numbers its own years from 1. The first year of the Daughter-Cities is the first year of the count, 800 BF in the Vylarian Calendar, and [[lore-heladlandngs|The Landings]] are the years before it, outside the reckoning. The boundaries before [The Federation and the Fire]{.name data-type="lore/calendar"} are reckoned from the traditions of the cities, and the dates carry an "about".
+The Hellád Calendar divides its years into **seven ages**. A date names the year of its age, the way a Vedyaran date does, and each age numbers its own years from 1. The first year of the Daughter-Cities is the first year of the count, 800 BF in the Vylarian Calendar, and [[lore-heladlandngs|the Landings]] are the years before it, outside the reckoning. The boundaries before [The Federation and the Fire]{.name data-type="lore/calendar"} are reckoned from the traditions of the cities, and the dates carry an "about".
 
 ## The Year
 
@@ -108,19 +108,19 @@ A century of the Epistémion (the Academy of Knowledge) is followed by the [Vyla
 
 ### The Province and the Compact, 312 BF to about 209 AF
 
-Helionis is a province whose cities keep their councils and teach their conquerors; the [Academy of the Silver Veil]{.name data-type="affiliation"} is founded to win by influence what was lost by arms ([[lore-heladsilverveil|The Founding of the Silver Veil]]). In the east the five cities break a steppe host at the springs ([[lore-heladwells|The Battle of the Wells]]) and bind themselves ([[lore-heladcompact|The Compact of the Five]]). It ends when the legions come over the mountains into the [[place-byzariargn|Bizaria Region]] ([[lore-heladeastwar|The Eastern War]]).
+Helionis is a province whose cities keep their councils and teach their conquerors; the [Academy of the Silver Veil]{.name data-type="affiliation"} is founded to win by influence what was lost by arms ([[lore-heladsilverveil|The Founding of the Silver Veil]]). In the east the five cities break a steppe host at the springs ([[lore-heladwells|The Battle of the Wells]]) and bind themselves ([[lore-heladcompact|The Compact of the Five]]). It ends when the legions come over the mountains into [[place-byzariargn|Bizaria]] ([[lore-heladeastwar|The Eastern War]]).
 
 ### The Imperial Peace, 209 to 511
 
-Bizaria is annexed after a two-year siege of [[place-argyrteikhos2|Argirteikhos]], the Silver Citadel ([[lore-heladcitadel|The Siege of the Silver Citadel]]), and a cohort of [[affiliation-blackflame|The Black Flame]] is settled on the high passes ([[lore-heladvezhnur|The Vezhnur Settlement]]). [[lore-celestialroad|The Celestial Road]] fills the ports with every tongue, and the city weigher of [[place-khryshteikhos2|Krusteikhos]] proves the tax-farmers' standard false ([[lore-heladweighing|The Weighing at Krusteikhos]]). It ends when three winters run together in the north and the legions march away from the east.
+Bizaria is annexed after a two-year siege of [[place-argyrteikhos2|Argirteikhos]], the Silver Citadel ([[lore-heladcitadel|The Siege of the Silver Citadel]]), and a [[affiliation-blackflame|Black Flame cohort]] is settled on the high passes ([[lore-heladvezhnur|The Vezhnur Settlement]]). [[lore-celestialroad|The Celestial Road]] fills the ports with every tongue, and the city weigher of [[place-khryshteikhos2|Krusteikhos]] proves the tax-farmers' standard false ([[lore-heladweighing|The Weighing at Krusteikhos]]). It ends when three winters run together in the north and the legions march away from the east.
 
 ### The Drift, 512 to 619
 
-The cities defend themselves. Helionis fights its first war among its own cities in eight and a half centuries ([[lore-heladharbors|The War of the Harbors]]) and invents the rules that keep the next one small ([[lore-heladtruce|The Truce of the Games]]). The five re-swear the Compact ([[lore-heladreswear|The Re-swearing of the Compact]]) and ban private revenge ([[lore-heladordinance|The Ordinance of Arbiters]]). It ends when [[lore-crownssettle|The Settlement of the Crowns]] writes down what the cities have already taken.
+The cities defend themselves. Helionis fights its first war among its own cities in eight and a half centuries ([[lore-heladharbors|The War of the Harbors]]) and invents the rules that keep the next one small ([[lore-heladtruce|The Truce of the Games]]). The five re-swear the Compact ([[lore-heladreswear|The Re-swearing of the Compact]]) and ban private revenge ([[lore-heladordinance|The Ordinance of Arbiters]]). It ends when [[lore-crownssettle|the Settlement of the Crowns]] writes down what the cities have already taken.
 
 ### The Free Cities, 620 to the present
 
-The present: Helionis a province on paper with its own magistrates, the [[affiliation-byzarianlg|Bizarian League]] neutral and indispensable, unpaid forts in the interior, and the arrangement between the philosophers and the [[affiliation-ordoarcanis|Thordimalon]] that still holds ([[lore-heladconcordat|The Concordat of Theory]]).
+The present: Helionis a province on paper with its own magistrates, the [[affiliation-byzarianlg|League]] neutral and indispensable, unpaid forts in the interior, and the arrangement between the philosophers and the [[affiliation-ordoarcanis|Arcane Order]] that still holds ([[lore-heladconcordat|The Concordat of Theory]]).
 
 ## See Also
 

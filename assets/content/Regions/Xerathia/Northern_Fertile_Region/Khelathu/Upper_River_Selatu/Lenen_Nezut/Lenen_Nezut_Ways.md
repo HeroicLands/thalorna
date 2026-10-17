@@ -22,7 +22,7 @@ A single short road climbs from the cultivated edge to a shelf of pale rock abov
 
 ## How It Was Made
 
-The three tombs are those of the Gar-Auu who reigned from Lenen-Nezut for sixty-nine years and were buried at home, outside the row at the capital ([[lore-thronelnz|The Throne at Lenen-Nezut]]). The first was cut for [Zab'el'Psaqa I]{.name data-type="being/npc"}, crowned in 1462 ST (649 BF), and the last holds [Zab'el'Psaqa III]{.name data-type="being/npc"}, killed in the wheat at [[place-iqeru|Iqeru]] in 1531 ST (580 BF) ([[lore-twothrones|The War of the Two Thrones]]). The road was meant to be the first of a long row, and it is the whole of it, because the house that built it lost its throne before it could lay a fourth tomb.
+The three tombs are those of the Gar-Auu who reigned from Lenen-Nezut for sixty-nine years and were buried at home, outside the row at the capital ([[lore-thronelnz|the Throne at Lenen-Nezut]]). The first was cut for [Zab'el'Psaqa I]{.name data-type="being/npc"}, crowned in 1462 ST (649 BF), and the last holds [Zab'el'Psaqa III]{.name data-type="being/npc"}, killed in the wheat at [[place-iqeru|Iqeru]] in 1531 ST (580 BF) ([[lore-twothrones|the War of the Two Thrones]]). The road was meant to be the first of a long row, and it is the whole of it, because the house that built it lost its throne before it could lay a fourth tomb.
 
 ## What Is There Now
 
@@ -46,4 +46,4 @@ The crown keeps no endowment here. The mortuary priests of the capital's necropo
 - [[lore-thronelnz|The Throne at Lenen-Nezut]]—the dynasty that lies here
 - [[lore-twothrones|The War of the Two Thrones]]—how it ended
 - [[place-zugezer|Zu-Gezer]]—the necropolis these Ways imitate
-- [[place-lenennezut|Lenen-Nezut]] · [[affiliation-selatlennnzt|The Selat of Lenen-Nezut]]
+- [[place-lenennezut|Lenen-Nezut]] · [[affiliation-selatlennnzt|the Selat of Lenen-Nezut]]

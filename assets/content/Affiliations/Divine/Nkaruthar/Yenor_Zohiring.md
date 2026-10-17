@@ -68,7 +68,7 @@ sohl:
 ---
 
 The **Yenor Zohiring**—the Spirit Path—is the shamanic tradition of the Okharik tribes: the
-practice of standing in relationship with the [[lore-zohira|Zohira]], the intermediary spirits
+practice of standing in relationship with the [[lore-zohira|zohira]], the intermediary spirits
 that govern rivers, storms, the hunt, fertility and death.
 
 It is not a branch of [[affiliation-nkaruthar|Nkaru'thar]] and it is not a rival to it, and the
@@ -133,7 +133,7 @@ The two make plainly incompatible claims about the dead, the harvest and the bla
 [[lore-zohira|Zohira]]), and nobody on either side treats this as a problem requiring a solution.
 
 The **[[affiliation-shokumatrb|Shókuma Tribe]]** is the tribe most associated with the Hunt and with spirit communion; the
-**[[affiliation-magaratrb|Magara Tribe]]** with the Spirit Blades, weapons in which a zohira of the blade is seated. Both practice
+**[[affiliation-magaratrb|Magara]]** with the Spirit Blades, weapons in which a zohira of the blade is seated. Both practice
 the same tradition, and both regard the other's emphasis as slightly eccentric.
 
 ## See Also

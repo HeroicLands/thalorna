@@ -57,15 +57,15 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-**The Selat of Qelt-Len-Legir** holds the forward forts beyond the first cataract, the hardest postings in the empire. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the levies of those forts, collects the selat's taxes and dispenses its justice, and answers to the [[lore-garauu|Gar-Auu]] at a distance that varies with the strength of the throne. His patron is the war-god [[lore-qeztudty|Qeztu]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-qeltlenlegirnome|Qelt-Len-Legir]].
+**The Selat of Qelt-Len-Legir** holds the forward forts beyond the first cataract, the hardest postings in the empire. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the levies of those forts, collects the selat's taxes and dispenses its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. His patron is the war-god [[lore-qeztudty|Qeztu]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-qeltlenlegirnome|Qelt-Len-Legir]].
 
 ## Character
 
-"We say the god is stronger out here because the forts need him to be," a priest of the frontier garrisons tells a conscript who has just come up from the valley. The [[affiliation-qeztu|Faith of Qeztu]] is stronger on this frontier than anywhere else in the realm, and the Halzi'a is its first soldier. His seat is [[place-qeltlen|Qelt-Len]], where his court sits and the selat's chief temple of Qeztu stands.
+"We say the god is stronger out here because the forts need him to be," a priest of the frontier garrisons tells a conscript who has just come up from the valley. The [[affiliation-qeztu|cult of Qeztu]] is stronger on this frontier than anywhere else in the realm, and the Halzi'a is its first soldier. His seat is [[place-qeltlen|Qelt-Len]], where his court sits and the selat's chief temple of Qeztu stands.
 
 ## Commerce and Currency
 
-Qelt-Len-Legir uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.
+Qelt-Len-Legir uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.
 
 ## See Also
 

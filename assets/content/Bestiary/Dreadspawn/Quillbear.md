@@ -270,7 +270,7 @@ The shepherd's path climbs through scrub oak and stops at a bank of raw earth, a
 
 # Dossier {#dossier}
 
-The Quillbear is a dreadspawn in the shape of a huge bear covered in long, barbed, venomous quills: ten to fourteen feet long, seven to nine feet tall standing, and very heavy, though not as heavy as its size suggests. It digs deep, many-chambered burrows and lives in them alone, and it is reclusive and unaggressive until something comes near its burrow, and then it is murderous: it charges, rakes and shoots quills that paralyze. One lives in the [[place-thuravelhills|Túravel Hills]] of southern [[place-provenzrgn|Provenzia Region]], the low, wooded, poorly mapped hills that people who live near them do not go far into without a reason. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Quillbear is a dreadspawn in the shape of a huge bear covered in long, barbed, venomous quills: ten to fourteen feet long, seven to nine feet tall standing, and very heavy, though not as heavy as its size suggests. It digs deep, many-chambered burrows and lives in them alone, and it is reclusive and unaggressive until something comes near its burrow, and then it is murderous: it charges, rakes and shoots quills that paralyze. One lives in the [[place-thuravelhills|Túravel Hills]] of southern [[place-provenzrgn|Provenzia]], the low, wooded, poorly mapped hills that people who live near them do not go far into without a reason. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 

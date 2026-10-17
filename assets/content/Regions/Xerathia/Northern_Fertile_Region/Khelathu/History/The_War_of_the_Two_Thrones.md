@@ -70,7 +70,7 @@ The victor was crowned [Kuz'el'Qar I]{.name data-type="being/npc"} at Galezkara 
 
 ## Why the Dead Were Not Left
 
-Iqeru is a temple town, and the war was fought between two armies that kept the same rites. When the day ended, the priests of Iqeru sent for the embalmers; the Lenen-Nezut dead went home upriver to their tombs, the delta dead went home to Galezkara, and every man of either army who could be named was named and received. The dead who could not be named were read together at the temple of the [[affiliation-uqaa|Faith of Uqa'a]] by the priests of Iqeru, and the field was farmed the next flood. Nothing was left on the ground unread, so the field at Iqeru is no blood-field. Its ghosts, if it has any, are the ordinary ones every old battlefield keeps, and the farmers who plow it do not mention them.
+Iqeru is a temple town, and the war was fought between two armies that kept the same rites. When the day ended, the priests of Iqeru sent for the embalmers; the Lenen-Nezut dead went home upriver to their tombs, the delta dead went home to Galezkara, and every man of either army who could be named was named and received. The dead who could not be named were read together at the temple of [[affiliation-uqaa|Uqa'a]] by the priests of Iqeru, and the field was farmed the next flood. Nothing was left on the ground unread, so the field at Iqeru is no blood-field. Its ghosts, if it has any, are the ordinary ones every old battlefield keeps, and the farmers who plow it do not mention them.
 
 ## What It Left
 
@@ -78,11 +78,11 @@ Iqeru is a temple town, and the war was fought between two armies that kept the 
 - **A closed line.** The Lenen-Nezut house ceased to be Gar-Auu, was kept as Halzi'a, and has held the selat since.
 - **The feud.** Lenen-Nezut's pride has a grievance in it against the capital, and the capital's against the town.
 - **A precedent.** The upper river had crowned a Gar-Au and could do it again, and the priesthood and the court remember both.
-- **The weakened valley.** The granaries took years to refill, and eight decades later the hill-nomads who came down on the valley found it still thin ([[lore-thaulgau|The Coming of the Tha'Ulgau]]).
+- **The weakened valley.** The granaries took years to refill, and eight decades later the hill-nomads who came down on the valley found it still thin ([[lore-thaulgau|the Coming of the Tha'Ulgau]]).
 
 ## See Also
 
 - [[lore-thronelnz|The Throne at Lenen-Nezut]]—the line the war closed
-- [[place-iqeru|Iqeru]] · [[place-lnzways|The Lenen-Nezut Ways]]
+- [[place-iqeru|Iqeru]] · [[place-lnzways|the Lenen-Nezut Ways]]
 - [[lore-thaulgau|The Coming of the Tha'Ulgau]]—what the weakened valley met
 - [[lore-akhdivriver|The Divided River]]—the age this belongs to

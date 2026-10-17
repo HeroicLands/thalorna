@@ -418,11 +418,11 @@ sohl:
 
 ![[erythnslnds|Erithon Uselindas]]{float=top-left}
 
-Erithon Uselindas stands 6'1" tall with a medium build. He has light fair skin, brown hair, and green eyes. His features include a heart-shaped face, a narrow nose, a narrow chin, expressive brows, soft cheeks. A distinguishing mark is a tattoo of a serpent on the back.
+Erithon stands 6'1" tall with a medium build. He has light fair skin, brown hair, and green eyes. His features include a heart-shaped face, a narrow nose, a narrow chin, expressive brows, soft cheeks. A distinguishing mark is a tattoo of a serpent on the back.
 
 # Dossier {#dossier}
 
-Erithon was born in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], in the transitional lands where forest gives way to settled agriculture and the devotion to the [[affiliation-lizelas|Faith of Lizelas]] runs deep in the soil itself. His childhood was spent in a small yeoman's holding, where his father taught him to hunt to put food on the table and his mother instilled in him the spiritual disciplines of Lizelas's faith. At fifteen, he underwent the trials of the local militia, and his extraordinary natural gift for archery was immediately apparent. By his twenty-second year, he had risen to become the militia's foremost marksman and the personal archer-guard to **Lord [[being-dorandosmelv|Doros Melvarandis]]**, the aging noble who oversaw these lands.
+Erithon was born in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], in the transitional lands where forest gives way to settled agriculture and the devotion to [[affiliation-lizelas|Lizelas]] runs deep in the soil itself. His childhood was spent in a small yeoman's holding, where his father taught him to hunt to put food on the table and his mother instilled in him the spiritual disciplines of the Aureldian faith. At fifteen, he underwent the trials of the local militia, and his extraordinary natural gift for archery was immediately apparent. By his twenty-second year, he had risen to become the militia's foremost marksman and the personal archer-guard to **Lord [[being-dorandosmelv|Doros]]**, the aging noble who oversaw these lands.
 
 For a decade, Erithon has served in this capacity—maintaining peace, hunting threats, and honing his craft to near-perfection. The serpent tattoo on his back was earned five years ago when he undertook a sacred pilgrimage to the heart of the [Verdant Sanctum]{.name data-type="place/site"}, seeking wisdom and blessing from Lizelas for a failed hunt that cost a family their livelihood. The serpent, he was taught, represents regeneration and the cyclical nature of life—a reminder that even failure contains the seeds of renewal.
 
@@ -451,7 +451,7 @@ Survival Skills
 : His knowledge of woodcraft, hunting, tracking, and wilderness navigation is comprehensive and practical.
 
 Spiritual Discipline
-: His training in Lizelas's faith provides him with both mental fortitude and a philosophical framework for understanding his purpose.
+: His training in the Aureldian faith provides him with both mental fortitude and a philosophical framework for understanding his purpose.
 
 ### Weaknesses
 
@@ -477,7 +477,7 @@ Limited Social Grace
 Lord Doros
 : The aging nobleman who employs Erithon values him not merely as a skilled guard but as a trusted counselor; their relationship has deepened over the decade of service into something approaching friendship.
 
-High Priestess [[being-kaldremavent|Kaldrema Venthelis]] of the Verdant Sanctum
+High Priestess [[being-kaldremavent|Kaldrema]] of the Verdant Sanctum
 : The spiritual leader who marked Erithon with the serpent tattoo maintains contact with him, offering guidance and occasionally requesting that he undertake special missions.
 
 Master Fletcher [Aldunor]{.name data-type="being/npc"}

@@ -430,13 +430,13 @@ sohl:
 
 ![[lersaissaaqt|Lersais Sa'Akutu]]{float=top-left}
 
-Lersais Sa'Akutu stands 6'2" tall with a heavy build. He has olive weathered skin, black hair, and dark amber eyes. His features include a high-cheekboned face, a straight narrow nose, a pointed chin, well-shaped lips, elegantly curved brows, and angular cheeks.
+Lersais stands 6'2" tall with a heavy build. He has olive weathered skin, black hair, and dark amber eyes. His features include a high-cheekboned face, a straight narrow nose, a pointed chin, well-shaped lips, elegantly curved brows, and angular cheeks.
 
 # Dossier {#dossier}
 
 Lersais was born into [[affiliation-garsaaqutu|Gar-Sa'Akutu]], the Sa'Akutu family, as the eldest son of a tenant-in-chief of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], a position that carried with it both significant lands and significant responsibilities. From his earliest childhood, he was groomed for military leadership, trained in swordplay by masters of the craft and educated in the art of command necessary to lead warriors in actual combat. His father died when Lersais was eighteen, and he inherited both the family's lands and their obligation to provide soldiers for the Empire's armies.
 
-The young Lersais threw himself into military service, earning a reputation for tactical brilliance and unfailing devotion to the [[lore-garauu|Gar-Auu]]. He fought in three major campaigns against the Empire's neighbors, rising to the rank of general by his mid-thirties. His reputation became such that Gar-Auu sought his counsel on military matters, and he became one of the most influential voices in the Gar-Au's court regarding questions of defense and national security.
+The young Lersais threw himself into military service, earning a reputation for tactical brilliance and unfailing devotion to the [[lore-garauu|Gar-Au]]. He fought in three major campaigns against the Empire's neighbors, rising to the rank of general by his mid-thirties. His reputation became such that Gar-Auu sought his counsel on military matters, and he became one of the most influential voices in the Gar-Au's court regarding questions of defense and national security.
 
 At forty-five, Lersais retired from active military command but retained his position as a tenant-in-chief and maintained an unofficial advisory role regarding military matters. He married late, at age thirty-eight, to Zabet [[being-mesheget2|Mesheget]], a woman from a major merchant family whose union strengthened his political position significantly. The marriage has produced one son, now eight years old, whom Lersais is training with the same rigorous discipline with which he was trained. His wife is politically astute and has become an important advisor on her own account, though she remains secondary to Lersais's authority in all important matters.
 
@@ -471,7 +471,7 @@ Strategic Foresight
 : His reasoning and perception allow him to anticipate problems before they become obvious and to design preventive solutions that address threats long before they manifest.
 
 Ritual Mastery
-: As a devoted follower of the [[affiliation-uznera|Faith of Uzn'era]] and as a man of rank, Lersais has learned the rituals, observances, and ceremonial forms necessary to move through both military and religious settings with perfect precision.
+: As a devoted follower of [[affiliation-uznera|Uzn'era]] and as a man of rank, Lersais has learned the rituals, observances, and ceremonial forms necessary to move through both military and religious settings with perfect precision.
 
 ### Weaknesses
 

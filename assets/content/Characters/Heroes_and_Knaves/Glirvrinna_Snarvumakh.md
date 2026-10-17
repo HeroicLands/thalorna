@@ -419,7 +419,7 @@ sohl:
 
 ![[glrvrnstrmrt|Glirvrinna Snarvumak]]{float=top-left}
 
-Glirvrinna Snarvumak stands 5'7" tall with a light build. She has pale fair skin, blonde hair, and green eyes. Her features include an oval face, a narrow nose, a rounded chin, rosy lips, and light brows.
+Glirvrinna stands 5'7" tall with a light build. She has pale fair skin, blonde hair, and green eyes. Her features include an oval face, a narrow nose, a rounded chin, rosy lips, and light brows.
 
 # Dossier {#dossier}
 

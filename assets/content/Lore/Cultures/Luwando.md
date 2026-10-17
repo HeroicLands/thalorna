@@ -18,7 +18,7 @@ data:
 # terran_analog: "The riverine fishing peoples of the Congo basin, who traded fish and foreign goods with the foraging bands of the interior. Carries over: villages on the high bank, dugouts, weirs and traps, small plantain gardens, matrilineal reckoning and hereditary trade partners. Departs: no chiefs, no farming villages of any size, and the river itself treated as the host of every guest."
 ---
 
-The **Luwando** are the river-keepers, one of the four traditions of the [[lore-bikoclt|Biko]]. Their name is _luwa_, a river, with the ending of one who keeps it. They are the forest people outsiders meet most often, and the ones outsiders take for the whole.
+The **Luwando** are the river-keepers, one of the four traditions of the [[lore-bikoclt|forest peoples]]. Their name is _luwa_, a river, with the ending of one who keeps it. They are the forest people outsiders meet most often, and the ones outsiders take for the whole.
 
 ## Where They Live
 
@@ -26,7 +26,7 @@ Luwando tribes live along the great rivers of the [[place-cntrlrnfrsts|Central R
 
 ## How They Live
 
-The river feeds them first. They fish with weirs, basket-traps and spears, and they move up and down their stretch in dugouts cut from a single trunk. They gather along the banks and hunt the forest a day's walk back from the water. Each band keeps a small garden of plantain and root on cleared bank, fenced with thorn against the [[being-xrthnfrs|Zerathian Forest Elephant]] and watched from a platform against the [[being-chmpnz|Chimpanzee]], and the garden is the margin, not the meal.
+The river feeds them first. They fish with weirs, basket-traps and spears, and they move up and down their stretch in dugouts cut from a single trunk. They gather along the banks and hunt the forest a day's walk back from the water. Each band keeps a small garden of plantain and root on cleared bank, fenced with thorn against the [[being-xrthnfrs|forest elephant]] and watched from a platform against the [[being-chmpnz|chimpanzee]], and the garden is the margin, not the meal.
 
 A Luwando camp stays in one place for a few years and moves when the river moves, when the garden tires, or when someone dies there. The houses are pole and thatch, raised a little off the ground.
 
@@ -56,7 +56,7 @@ The trade-friendships pass the same way, from a gbenindo to the children of that
 
 The dead go downstream. A body is wrapped in bark cloth and laid in an _ewudi_, a bark boat made for one passenger, and the ewudi is pushed out into the current at night. The river carries the dead down to where the dead live, and the stretch of water below the camp is not fished until the next rains. The dead are spoken to at the water's edge, and they answer through the river.
 
-The Luwando hold some reaches of their rivers forbidden, and do not fish them or pass them by day. The drowned plain below [[place-drwndzgrt|The Drowned Ziggurat]] is one, and their elders give no reason beyond the warning.
+The Luwando hold some reaches of their rivers forbidden, and do not fish them or pass them by day. The drowned plain below [[place-drwndzgrt|the Drowned Ziggurat]] is one, and their elders give no reason beyond the warning.
 
 ## Their Own Words
 

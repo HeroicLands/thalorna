@@ -57,9 +57,9 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-"At harvest the whole selat comes in to thank the god, and nobody is shy about it," a priest of the [[affiliation-pelgun|Faith of Pelgun]] tells a newcomer to the temple at [[place-iqu|Iku]]. "[[lore-pelgundty|Pelgun]] keeps the fields and the desert roads, and his cult keeps the household too. Ask me about the rites before you ask the neighbors."
+"At harvest the whole selat comes in to thank the god, and nobody is shy about it," a priest of [[affiliation-pelgun|Pelgun]] tells a newcomer to the temple at [[place-iqu|Iku]]. "[[lore-pelgundty|Pelgun]] keeps the fields and the desert roads, and his cult keeps the household too. Ask me about the rites before you ask the neighbors."
 
-The Selat of Selat-Pelgun is one of the eighteen provinces of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and about 460,000 people live on its land, [[place-selatpelgunnome|Selat-Pelgun]]. It is the caravan-head for the eastern desert roads, with harvest-festivals and the virility cults of its god. The patron is Pelgun, and the cult's chief temple and estates anchor the selat's religious life.
+The Selat of Selat-Pelgun is one of the eighteen provinces of [[affiliation-upperrivrslt|the Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and about 460,000 people live on its land, [[place-selatpelgunnome|Selat-Pelgun]]. It is the caravan-head for the eastern desert roads, with harvest-festivals and the virility cults of its god. The patron is Pelgun, and the cult's chief temple and estates anchor the selat's religious life.
 
 ## Character
 

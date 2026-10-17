@@ -19,30 +19,30 @@ data:
 # terran_analog: "The Himalayas, Karakoram, Pamir, and Tian Shan complex—the great mountain wall between the Indian subcontinent and the Central Asian steppe. The southern face is the wall against Vedyara and the northern face the wall against the Khazryn; the eastern arc turns toward Tantsou, and the western end falls away into the Afghan-analog foothills of the Dunhari desert-margin."
 ---
 
-Nothing crosses The Grazian Mountains without a guide's leave, and no state in the [[place-vedyarargn|Vedyara Region]] or beyond it can grant that leave in the guide's place. The range closes the whole northern edge of the subcontinent, it is the highest in [[place-worldthlrn|The World of Thalorna]], and only six roads gho over it.
+Nothing crosses the Grazian wall without a guide's leave, and no state in [[place-vedyarargn|Vedyara]] or beyond it can grant that leave in the guide's place. The range closes the whole northern edge of the subcontinent, it is the highest in [[place-worldthlrn|the World of Thalorna]], and only six roads gho over it.
 
 A register-writer at the [[place-suryadvara|Suryadvara]] shrine, asked by a newcomer how busy the wall is, turns back a page of the crossing-book before he answers. "Three or four caravans a year on each of the six roads, all of them in the weeks when the ice lets gho. The guides keep roughly half of what a load is worth and the merchant house that organized the caravan keeps the rest. The owner of the cargo keeps the privilege of having moved goods across the highest mountains in the world."
 
 ## Overview
 
-The **Grazian Mountains** are the unaligned wall north of the Vedyari subcontinent and south of the [[place-khzryndsrtrgn|Khazryn Desert Region]]. The [[place-tantsouregin|Tantsou Region]] lies north of the range's eastern reach. In the west the range ends in the foothills of the [[place-dunharargn|Dunhara Region]], and the road between Dunhara and Vedyara goes around it. The ridges answer to no state; the passes are watched by local guides, by the shrines at their summits, and by the occasional lowland garrison at their approaches.
+The **Grazian Mountains** are the unaligned wall north of the Vedyari subcontinent and south of the [[place-khzryndsrtrgn|Khazryn Desert]]. [[place-tantsouregin|Tantsou]] lies north of the range's eastern reach. In the west the range ends in the foothills of the [[place-dunharargn|Dunhara]], and the road between Dunhara and Vedyara goes around it. The ridges answer to no state; the passes are watched by local guides, by the shrines at their summits, and by the occasional lowland garrison at their approaches.
 
-The summits stay under snow and glacier ice throughout the year, even when the lower passes briefly open in late summer, and the peaks catch the dawn an hour before the lowlands beneath them. The glaciers have held their valleys to the same shape since before the [[lore-flksinale|Sinale Folk]] arrived on the world, and their snowfields feed half the rivers of Vedyara and a meaningful share of the Khazryn's southwestern oases.
+The summits stay under snow and glacier ice throughout the year, even when the lower passes briefly open in late summer, and the peaks catch the dawn an hour before the lowlands beneath them. The glaciers have held their valleys to the same shape since before the [[lore-flksinale|Sinale]] arrived on the world, and their snowfields feed half the rivers of Vedyara and a meaningful share of the Khazryn's southwestern oases.
 
 Vedyari geographers write **the Grazian Range** in formal scholarship and **the Grazian Wall** in poetry. The foothill janapadas keep a dozen older names in their own dialect, each of them older than the classical Vedyari tongue and none of them translating cleanly.
 
-The range is impassable to organized travel for ten months of the year. Six crossings exist in its two thousand miles. Five are high passes, [[place-meghadvara|Meghadvara]], [[place-suryadvara|Suryadvara]], [[place-tamradvara|Tamradvara]], [[place-jnanadvara|Jnanadvara]] and [[place-sankhadvra|Shankhadvara]], each with a shrine at the summit that says its blessing over every caravan that attempts it. The sixth is [[place-gudesroad|The Guides' Road]], which no shrine blesses and no lowlander walks unled.
+The range is impassable to organized travel for ten months of the year. Six crossings exist in its two thousand miles. Five are high passes, [[place-meghadvara|Meghadvara]], [[place-suryadvara|Suryadvara]], [[place-tamradvara|Tamradvara]], [[place-jnanadvara|Jnanadvara]] and [[place-sankhadvra|Shankhadvara]], each with a shrine at the summit that says its blessing over every caravan that attempts it. The sixth is [[place-gudesroad|the Guides' Road]], which no shrine blesses and no lowlander walks unled.
 
 All six open briefly in late summer and are dangerous even then. A small population of mountain peoples, who live by guiding caravans across them, knows each road in detail. What crosses is silk and porcelain from Tantsou, gold and gems from Vedyara, and horses and silver from the Khazryn, in small, expensive shipments under the guides' protection. The volume is small, the value very high and the markup higher still.
 
 ## Geography
 
-The range forms a great curving arc. It begins in the high northern country east of Tantsou's western frontier, sweeps south and west across the whole northern margin of Vedyara, and loses height steadily until it dies away in broken hill country above the [[place-dunharargn|Dunhari]] desert-margin. Its northern face is the southern boundary of the Khazryn Desert, the country of the [[affiliation-khzrncnfdrtn|Khazryn]] and the [[affiliation-tribestrzd|Tribes of Atarzád]]. The arc runs some two thousand miles and is more than three hundred miles deep at its widest.
+The range forms a great curving arc. It begins in the high northern country east of Tantsou's western frontier, sweeps south and west across the whole northern margin of Vedyara, and loses height steadily until it dies away in broken hill country above the [[place-dunharargn|Dunhari]] desert-margin. Its northern face is the southern boundary of the Khazryn Desert, the country of the [[affiliation-khzrncnfdrtn|Khazryn]] and the [[affiliation-tribestrzd|Atarzád]]. The arc runs some two thousand miles and is more than three hundred miles deep at its widest.
 
 Scholars in Vedyara and in the Khazryn country name three sub-ranges:
 
 [[place-sthrnwall|The Southern Wall]]
-: the long, almost continuous escarpment that forms the northern border of Vedyara. Its peaks are the highest of the entire system, and the rivers draining south from them are the great river systems of the Vedyari subcontinent: [[place-chandrmahi|The Chandramahi]], [[place-sarvadarivr|The Sarveda]], [[place-mahanadi|The Mahanodi]], [[place-bharavarivr|The Bharava]] and others. Vedyari pilgrimage tradition makes particular Southern Wall peaks the dwelling-places of deities of the [[affiliation-varakpnthn|Varnuka Pantheon]], and certain glacier-springs the literal cosmic sources from which their rivers flowed at the beginning of time.
+: the long, almost continuous escarpment that forms the northern border of Vedyara. Its peaks are the highest of the entire system, and the rivers draining south from them are the great river systems of the Vedyari subcontinent: [[place-chandrmahi|the Chandramahi]], [[place-sarvadarivr|the Sarveda]], [[place-mahanadi|the Mahanodi]], [[place-bharavarivr|the Bharava]] and others. Vedyari pilgrimage tradition makes particular Southern Wall peaks the dwelling-places of [[affiliation-varakpnthn|Varnuka deities]], and certain glacier-springs the literal cosmic sources from which their rivers flowed at the beginning of time.
 
 [[place-estrnreach|The Eastern Reach]]
 : the sub-range that arcs eastward toward Tantsou's western frontier. It is less massive than the Southern Wall and still formidable, and it is the principal overland barrier between the Vedyari and Tantsou civilizations.
@@ -52,7 +52,7 @@ Scholars in Vedyara and in the Khazryn country name three sub-ranges:
 
 ## The Trans-Grazian Peoples
 
-A handful of mountain peoples live scattered across the range, in the few high valleys where sustained habitation is possible. They belong to none of the surrounding civilizations and recognize no outside authority. They are the trans-Grazian guides: [[affiliation-osketguides|The Osket]] of the western and central crossings and [[affiliation-hvarnguides|The Hvarn]] of the Eastern Reach. Without them there is no trans-Grazian trade, and with them it costs a thousand times what the goods are worth in the cities of origin.
+A handful of mountain peoples live scattered across the range, in the few high valleys where sustained habitation is possible. They belong to none of the surrounding civilizations and recognize no outside authority. They are the trans-Grazian guides: [[affiliation-osketguides|the Osket]] of the western and central crossings and [[affiliation-hvarnguides|the Hvarn]] of the Eastern Reach. Without them there is no trans-Grazian trade, and with them it costs a thousand times what the goods are worth in the cities of origin.
 
 They speak their own languages, [[skill-osketlng|Osket Language]] and [[skill-hvarnlng|Hvarn Language]], which are related to nothing in the lowland families and not to each other, and they keep their own austere religious traditions. Hereditary lines carry the detailed knowledge: the passes open in a given year, the loads a yak-route will take, and the weather signs that run ahead of the storms that close the high country in days.
 
@@ -78,7 +78,7 @@ On the Vedyari side the trade is governed as well as taxed. The kingdom of [[aff
 
 ## The Drenavar Confusion
 
-Vedyari and Tellumi folk-tradition sometimes confuses the Grazian Mountains with [[place-drenavrspn|The Drenavar Spine]] of [[place-elavendre|Élavendre]], a range half a continent away in the western Aureldian world. The two share no geology, no culture and no mythology. The Khazryn name for the Western Descent, [[place-wstrndscnt|Dranavár]], is close enough to the Áelendan name for the Drenavar that travelers mistake one for the other in stories, and the two ranges are entirely separate.
+Vedyari and Tellumi folk-tradition sometimes confuses the Grazian Mountains with [[place-drenavrspn|the Drenavar Spine]] of [[place-elavendre|Élavendre]], a range half a continent away in the western Aureldian world. The two share no geology, no culture and no mythology. The Khazryn name for the Western Descent, [[place-wstrndscnt|Dranavár]], is close enough to the Áelendan name for the Drenavar that travelers mistake one for the other in stories, and the two ranges are entirely separate.
 
 ## See Also
 
@@ -106,7 +106,7 @@ Vedyari and Tellumi folk-tradition sometimes confuses the Grazian Mountains with
 [[place-pssshrines|The Pass-Shrines]]
 : The temples at the summits of the crossing roads
 
-[[affiliation-osketguides|The Osket]] · [[affiliation-hvarnguides|The Hvarn]]
+[[affiliation-osketguides|The Osket]] · [[affiliation-hvarnguides|the Hvarn]]
 : The guide-peoples of the wall
 
 [[place-slvrgorges|The Silver Gorges]]

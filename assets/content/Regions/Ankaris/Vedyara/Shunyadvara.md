@@ -15,9 +15,9 @@ data:
   government: osketguides
 ---
 
-**Shunyadvara** stands on the col of [[place-gudesroad|The Guides' Road]]: a free-standing wall about two men high and four across, ribbed in long true curves, pierced by a single smooth oval whose edge runs into the wall with no jamb, no lintel and no threshold. Nothing is built around it. There is nothing on the far side of it but more col.
+**Shunyadvara** stands on the col of [[place-gudesroad|the Guides' Road]]: a free-standing wall about two men high and four across, ribbed in long true curves, pierced by a single smooth oval whose edge runs into the wall with no jamb, no lintel and no threshold. Nothing is built around it. There is nothing on the far side of it but more col.
 
-It is one piece, gray, without seam or crack, with no ornament and no straight edge. It is cold to look at and gives a little under a hand, and it cannot be marked, moved, entered, chipped or taken from: the smiths of [[place-slvrgorges|The Silver Gorges]] who came up to try—twice, a century apart, at the invitation of people who should have known better—went away with their tools blunted and nothing whatever to report.
+It is one piece, gray, without seam or crack, with no ornament and no straight edge. It is cold to look at and gives a little under a hand, and it cannot be marked, moved, entered, chipped or taken from: the [[place-slvrgorges|Gorges smiths]] who came up to try—twice, a century apart, at the invitation of people who should have known better—went away with their tools blunted and nothing whatever to report.
 
 Nothing is written on it. No script, no sigil, no mark of any kind, and nothing that could be a record. There is no rubbing to take and nothing to translate.
 
@@ -35,5 +35,5 @@ Every Osket crossing of the road walks through it. Not round it, though round is
 
 ## See Also
 
-- [[place-gudesroad|The Guides' Road]] · [[affiliation-osketguides|The Osket]] · [[place-pssshrines|The Pass-Shrines]]
+- [[place-gudesroad|The Guides' Road]] · [[affiliation-osketguides|the Osket]] · [[place-pssshrines|the Pass-Shrines]]
 - [[place-sthrnwall|The Southern Wall]]

@@ -219,7 +219,7 @@ The harbor water is flat and green, and a gray fin stands up out of it a hundred
 
 # Dossier {#dossier}
 
-The Common Shark is the shark of the warm and temperate seas, ten to fifteen feet long and three to five hundred pounds. It cruises the [[place-vylarianse|Vylarian Sea]], the island channels of [[place-taruzelrgn|Taruzel Region]], the waters off [[place-jenchairgn|Jenchai Region]] and the fjord coast of the [[place-nrdlndsrgn|Nordlands Region]], and comes into harbors and shallows for offal and blood. A shark finds blood in the water from miles away, and a swimmer is treated as food.
+The Common Shark is the shark of the warm and temperate seas, ten to fifteen feet long and three to five hundred pounds. It cruises the [[place-vylarianse|Vylarian Sea]], the island channels of [[place-taruzelrgn|Taruzel]], the waters off [[place-jenchairgn|Jenchai]] and the fjord coast of the [[place-nrdlndsrgn|Nordlands]], and comes into harbors and shallows for offal and blood. A shark finds blood in the water from miles away, and a swimmer is treated as food.
 
 ## Presentation
 

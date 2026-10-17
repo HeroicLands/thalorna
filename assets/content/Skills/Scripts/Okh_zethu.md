@@ -17,15 +17,15 @@ sohl:
   flags: {"thalorna": {script_family: Abjad}}
 ---
 
-Okhatha-zethu Script (Okh-zethu)—the name borrows the Khelathi word _zethu_, "writing," an old debt the Okhari acknowledge and resent—is the consonantal script of the three city-states: twenty-three characters, vowels supplied by diacritic where they are supplied at all. It carries [[skill-okharclng|Okharik Language]] and nothing else, which is unusual among the scripts of the west and is very much the point.
+Okh-zethu—the name borrows the Khelathi word _zethu_, "writing," an old debt the Okhari acknowledge and resent—is the consonantal script of the three city-states: twenty-three characters, vowels supplied by diacritic where they are supplied at all. It carries [[skill-okharclng|Okharik]] and nothing else, which is unusual among the scripts of the west and is very much the point.
 
-A character needs **both** Okh-zethu and [[skill-okharclng|Okharik Language]] to read it; see [[sohl-note-skill-script|Script]] for the general rules.
+A character needs **both** Okh-zethu and [[skill-okharclng|Okharik]] to read it; see [[sohl-note-skill-script|Script]] for the general rules.
 
 ## Two systems, one alphabet
 
 **Okh-zethu proper** is the ancient form, preserved for sacred texts and monumental inscription. Its ambiguity is not regarded as a fault. The liturgical register was fixed some fifteen centuries ago, and a scripture whose consonantal skeleton admits several readings is a scripture that requires a priest—the [[affiliation-nkaruthar|Nkaru'thar]] priesthood holds the oldest liturgical forms as recited knowledge, and the written text functions as an aide-mémoire for people who already know it by heart.
 
-**Okh-zethu-vowel** is the modern hybrid: the same twenty-three characters with explicit vowel signs written on the line rather than pointed above it. It removes the ambiguity, which is why the priesthood dislikes it and why it is now the standard for every charter, letter of credit and trade seal issued by [[affiliation-crwntrdskhrs|The Crown Trades of Okharis]]. The Crown renews its charters at each accession, and the renewals have been in the voweled script for four reigns.
+**Okh-zethu-vowel** is the modern hybrid: the same twenty-three characters with explicit vowel signs written on the line rather than pointed above it. It removes the ambiguity, which is why the priesthood dislikes it and why it is now the standard for every charter, letter of credit and trade seal issued by [[affiliation-crwntrdskhrs|the Crown Trades issue]]. The Crown renews its charters at each accession, and the renewals have been in the voweled script for four reigns.
 
 ## The letters themselves
 
@@ -33,7 +33,7 @@ Blocky and separated, sized to be cut as easily as painted—Okhari monumental p
 
 ## Who has it
 
-Priesthood, professional scribes, about one in six of the [[affiliation-okharis|Okharis]] nobility. Urban guildsmen recognize trade marks, numerals and standing abbreviations. Rural literacy is effectively nil.
+Priesthood, professional scribes, about one in six of the [[affiliation-okharis|Okhari]] nobility. Urban guildsmen recognize trade marks, numerals and standing abbreviations. Rural literacy is effectively nil.
 
 ## In play
 

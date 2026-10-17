@@ -417,7 +417,7 @@ Kléandir is a [[lore-helioniteclt|Helionite]] from the southern reaches of that
 
 ### The Missing Years
 
-What is not easily verified is anything about the thirty years between Kléandir's youth and his arrival aboard [[affiliation-thetamzir|The Tamzir]]. He speaks of theological study, of pilgrimages to holy sites, of years spent in contemplative communities. But the gaps in his story are conspicuous, and the details he provides are carefully curated. He is suspiciously well-traveled for a rural cleric. He speaks multiple languages with native fluency. He handles a blade and bow with a proficiency that no amount of "youthful military service" can adequately explain. And when violence erupts, Kléandir's first instinct is not to pray but to position himself for a clear field of fire.
+What is not easily verified is anything about the thirty years between Kléandir's youth and his arrival aboard [[affiliation-thetamzir|the Tamzir]]. He speaks of theological study, of pilgrimages to holy sites, of years spent in contemplative communities. But the gaps in his story are conspicuous, and the details he provides are carefully curated. He is suspiciously well-traveled for a rural cleric. He speaks multiple languages with native fluency. He handles a blade and bow with a proficiency that no amount of "youthful military service" can adequately explain. And when violence erupts, Kléandir's first instinct is not to pray but to position himself for a clear field of fire.
 
 ### A Man of Contradictions
 

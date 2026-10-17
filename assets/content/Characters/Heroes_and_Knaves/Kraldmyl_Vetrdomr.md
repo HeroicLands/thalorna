@@ -418,7 +418,7 @@ sohl:
 
 ![[krldmylvtrdmr|Kralmil Vetrdómr]]{float=top-left}
 
-Kralmil Vetrdómr stands 6'5" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an angular face, a slightly upturned nose, a broad chin, a small mouth, dark brows. A distinguishing mark is a scar along the jawline.
+Kralmil stands 6'5" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an angular face, a slightly upturned nose, a broad chin, a small mouth, dark brows. A distinguishing mark is a scar along the jawline.
 
 # Dossier {#dossier}
 
@@ -487,7 +487,7 @@ Master Carpenter [Gnuldrmil]{.name data-type="being/npc"}
 : An informal association of craftsmen engaged in major construction projects in Nordheim's cities depends on Kralmil for special timber that must meet exacting standards; they pay well and do not question his methods.
 
 High Priestess [[being-snarvthyra|Snarvthira]]
-: The priestess of the [[affiliation-thrunvald|Faith of Thrunvald]] in the nearest settlement views Kralmil as a worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in temple construction.
+: The priestess of [[affiliation-thrunvald|Thrunvald]] in the nearest settlement views Kralmil as a worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in temple construction.
 
 Alderman [[being-hluskmyl|Hlusmil]]
 : The local administrative leader respects Kralmil's integrity and supports him against occasional attempts to regulate or control the forests from which he harvests.

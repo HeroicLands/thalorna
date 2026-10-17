@@ -40,7 +40,7 @@ data:
 
 ## Overview
 
-Among the nobility of the [[place-aukhelathrgq|Au'Khelathu Region]], a smith's best reference is the name of **Gar-Gul'Thakétu** beside his own. The house commissions arms and armor from the empire's finest smiths rather than keeping armories of its own make, and it vouches for those smiths' standards to peers too impatient to test a new maker's work themselves, lending its own name as the guarantee. A smith who satisfies this house gains a reputation that opens doors across the nobility; one who disappoints it rarely gets a second commission from anyone the house has spoken to.
+Among the nobility of [[place-aukhelathrgq|Au'Khelathu]], a smith's best reference is the name of **Gar-Gul'Thakétu** beside his own. The house commissions arms and armor from the empire's finest smiths rather than keeping armories of its own make, and it vouches for those smiths' standards to peers too impatient to test a new maker's work themselves, lending its own name as the guarantee. A smith who satisfies this house gains a reputation that opens doors across the nobility; one who disappoints it rarely gets a second commission from anyone the house has spoken to.
 
 ## Character
 

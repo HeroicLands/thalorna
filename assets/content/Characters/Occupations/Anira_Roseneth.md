@@ -392,7 +392,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia Region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Ánira Órseneth came into the world of the musician (lute) through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Ánira Órseneth came into the world of the musician (lute) through a combination of circumstance and aptitude.
 
 Ánira grew up on the streets and found solace in music. She learned to play the lute from a traveling bard, and now performs in inns and taverns across the city. Her music is known for its warmth and beauty, and she has a talent for improvising melodies that suit the mood of the crowd. While popular among common folk, she aspires to perform for nobility.
 

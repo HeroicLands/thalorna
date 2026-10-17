@@ -8,11 +8,11 @@ tags: [hall, military, inland]
 data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: null, packFolder: vedyara}
 ---
 
-At **The Academy of the Patient Eye** you get one arrow. A student stands at a distance the master names, shoots once, and is passed or is not; a student who is not may stand the examination again in a year.
+At **the Patient Eye** you get one arrow. A student stands at a distance the master names, shoots once, and is passed or is not; a student who is not may stand the examination again in a year.
 
 The Academy of the Patient Eye teaches accuracy at extreme range. Its graduates serve as scouts, as hunters and as fortress sharpshooters, and a good many end as the personal bowmen of Vedyari nobility, which is the most comfortable place an archer of common birth can reach.
 
-Its hall is the smallest of the four and its range is the longest: a cleared lane of six hundred paces running downstream along the bank of [[place-sarvadarivr|The Sarveda]], with the marks set at every hundred and the far butt against a cut in the terrace.
+Its hall is the smallest of the four and its range is the longest: a cleared lane of six hundred paces running downstream along the [[place-sarvadarivr|Sarveda bank]], with the marks set at every hundred and the far butt against a cut in the terrace.
 
 ## The Teaching
 
@@ -25,4 +25,4 @@ A Patient Eye student spends more time still than drawing. The academy holds tha
 ## See Also
 
 - [[place-bowfort|The Bow-Fort]] · [[place-dhanurkota|Danurkota]]
-- [[place-highdraw|The Academy of the High Draw]] · [[place-swifthand|The Academy of the Swift Hand]] · [[place-hiddenstring|The Academy of the Hidden String]]
+- [[place-highdraw|The Academy of the High Draw]] · [[place-swifthand|the Academy of the Swift Hand]] · [[place-hiddenstring|the Academy of the Hidden String]]

@@ -420,7 +420,7 @@ sohl:
 
 ![[kayvondzrd|Kayvonad Zarid]]{float=top-left}
 
-Kayvonad Zarid stands 5'4" tall with a medium build. He has light olive skin, a shaved head, and dark amber eyes. His features include an oblong face, a long nose, a sharp jawline, a firm-set mouth, heavy brows, and high cheeks.
+Kayvonad stands 5'4" tall with a medium build. He has light olive skin, a shaved head, and dark amber eyes. His features include an oblong face, a long nose, a sharp jawline, a firm-set mouth, heavy brows, and high cheeks.
 
 # Dossier {#dossier}
 
@@ -428,7 +428,7 @@ Kayvonad Zarid stands 5'4" tall with a medium build. He has light olive skin, a 
 
 ### The Promising Scholar
 
-Born to a merchant family of moderate wealth in the [[place-khzryndsrtrgn|Khazryn Desert Region]], Kayvonad demonstrated early aptitude for mathematics and the theory of matter. He studied at the [University of Kaldar]{.name data-type="affiliation"} in [[place-caldar|Kaldar]] from age fifteen, where he rapidly became the favored student of the famous alchemist Master [Aldrin Kovoss]{.name data-type="being/npc"}. Under Kovoss's tutelage, he mastered the fundamental principles of mineral transmutation—the stable conversion of base metals and common stones into substances of greater rarity and value. His thesis on the principles of heat underlying successful copper-to-silver transmutation was hailed as groundbreaking, and he was invited to join the University's prestigious research faculty at an unusually young age.
+Born to a merchant family of moderate wealth in the [[place-khzryndsrtrgn|Khazryn Desert]], Kayvonad demonstrated early aptitude for mathematics and the theory of matter. He studied at the [University of Kaldar]{.name data-type="affiliation"} in [[place-caldar|Kaldar]] from age fifteen, where he rapidly became the favored student of the famous alchemist Master [Aldrin Kovoss]{.name data-type="being/npc"}. Under Kovoss's tutelage, he mastered the fundamental principles of mineral transmutation—the stable conversion of base metals and common stones into substances of greater rarity and value. His thesis on the principles of heat underlying successful copper-to-silver transmutation was hailed as groundbreaking, and he was invited to join the University's prestigious research faculty at an unusually young age.
 
 ### The Fall from Grace
 

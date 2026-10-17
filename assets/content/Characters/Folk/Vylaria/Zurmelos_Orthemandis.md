@@ -36,4 +36,4 @@ Zurmelos Orthemandis is a 39-year-old man who stands 5'11" tall with a heavy bui
 
 # Dossier {#dossier}
 
-Zurmelos Orthemandis is a captain and the new senior officer of the capital district guard station. He is politically ambitious and wants to reduce the district's reported crimes through more aggressive enforcement. [[being-xenoksbrds|Zenokos Bardas]] is supposed to support him, though his heavy-handed methods contradict the mentoring Zenokos respects.
+Zurmelos Orthemandis is a captain and the new senior officer of the capital district guard station. He is politically ambitious and wants to reduce the district's reported crimes through more aggressive enforcement. [[being-xenoksbrds|Zénokos Bardas]] is supposed to support him, though his heavy-handed methods contradict the mentoring Zénokos Bardas respects.

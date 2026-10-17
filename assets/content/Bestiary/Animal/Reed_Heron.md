@@ -237,7 +237,7 @@ The reeds at the lake's edge are still, and one of the stems is a bird. It stand
 
 # Dossier {#dossier}
 
-The Reed Heron, _lirunei_ in the [[skill-kalihrlng|Kalihari Language]], "the one marked by the reed", is a tall wading bird, pale grey with a rust stripe down the neck. It stands motionless in the reeds for an hour and strikes with the whole neck. It lives in the reed-beds that form the margins of [[place-klhrlake|The Bowl Lake]], and it nests in colonies there. The colony's chorus at first light carries across the water. It is no danger to anyone who does not put a hand into a nest.
+The Reed Heron, _lirunei_ in [[skill-kalihrlng|Kalihari]], "the one marked by the reed", is a tall wading bird, pale grey with a rust stripe down the neck. It stands motionless in the reeds for an hour and strikes with the whole neck. It lives in the reed-beds that form the margins of [[place-klhrlake|the Bowl Lake]], and it nests in colonies there. The colony's chorus at first light carries across the water. It is no danger to anyone who does not put a hand into a nest.
 
 ## Presentation
 
@@ -245,7 +245,7 @@ A tall, long-legged bird with a pale grey back, a rust stripe running down the f
 
 ## In the Land
 
-Reed Herons keep to the reed margins of the lake in [[place-klhrbowl|The Great Bowl]]. They nest in colonies in the reed-beds, and feed along the shallows between the reeds and the open water. They are not met on the deep water, on the terraces below [[place-klhrring|The Ring]], or on the shore.
+Reed Herons keep to the reed margins of the lake in [[place-klhrbowl|the Great Bowl]]. They nest in colonies in the reed-beds, and feed along the shallows between the reeds and the open water. They are not met on the deep water, on the terraces below [[place-klhrring|the Ring]], or on the shore.
 
 ## Key Behaviors
 

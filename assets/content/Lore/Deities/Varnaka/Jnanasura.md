@@ -18,7 +18,7 @@ His sun is the interior one, the steady light by which a page can be read at any
 
 A household that keeps him leaves the open book on its reading-stand from dawn to dusk. Scholars and teachers wear a sun-medallion, a small golden disc. Students touch it before an examination and warriors before a battle, because both are hours when clear thought outweighs strength.
 
-[[place-suryashkhr|Suryashikhara]] is the peak the dawn strikes first along the whole of [[place-sthrnwall|The Southern Wall]], and the older mountain reckoning gives it to him. The herders who keep that reckoning say the summit lit while the valley still stands in shadow is his shape written on the land.
+[[place-suryashkhr|Suryashikhara]] is the peak the dawn strikes first along the whole of [[place-sthrnwall|the Southern Wall]], and the older mountain reckoning gives it to him. The herders who keep that reckoning say the summit lit while the valley still stands in shadow is his shape written on the land.
 
 [[place-suryatempl|The Surva temple]] below it and [[place-himashila|Himashila]] beside its outflow are kept in practice by the [[affiliation-trimurtisampradaya|Triyanga-sampradeya]]. They sight the civil year there and call the slab a footstool without saying whose. The older attribution and the temple's silence have never been made to meet, and neither contradicts the other.
 

@@ -59,7 +59,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A harbor-reeve in one of [[place-malagna|Malagna]]'s ports will tell you he has never seen a hov of the Faith of Velgrímr, and in the same breath admit that he has walked past the same unmarked door every morning for years. "I collect tolls and I hear wharf quarrels," he says. "What goes on behind a shuttered chandler's is somebody else's reckoning. I will say this much for them: they have never given me cause to open that door."
+A harbor-reeve in one of [[place-malagna|Malagna]]'s ports will tell you he has never seen a hov of Velgrímr, and in the same breath admit that he has walked past the same unmarked door every morning for years. "I collect tolls and I hear wharf quarrels," he says. "What goes on behind a shuttered chandler's is somebody else's reckoning. I will say this much for them: they have never given me cause to open that door."
 
 [[lore-velgrimrdty|Velgrímr]] is the god of cunning, deception and thieves, the archetypal trickster, an unpredictable force of chaos and disruption. He is revered and feared in equal measure, a shape-shifting energy that defies the status quo and undermines conventional power. His followers are a mixed company of assassins, thieves and the downtrodden, those who live in society's shadows and know its underworld.
 

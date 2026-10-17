@@ -36,4 +36,4 @@ Tenral Salthar is a 50-year-old man who stands 6'2" tall with a light build. He 
 
 # Dossier {#dossier}
 
-Tenral Salthar is the captain-commander and supreme naval commander of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]]'s maritime forces. He employs [[being-tarelblthl|Tárella Pelthal]] for predictions.
+Tenral Salthar is the captain-commander and supreme naval commander of [[affiliation-kngdmlvndr|Élavendre]]'s maritime forces. He employs [[being-tarelblthl|Tárella Pelthal]] for predictions.

@@ -58,7 +58,7 @@ A sergeant of the [[place-eastrnmrch|Eastern March]], asked by a recruit why the
 
 ## The Host
 
-In the summer of 158 BF a host of the steppe came up out of the [[place-khzryndsrtrgn|Khazryn Desert Region]] and over the eastern passes. The eastern records call it a khanate and give it no more than that: no khan's name, no tribe, no count of riders. It chose its season well. The foothills below the passes have few springs, and in late summer they run lowest. A host that crossed the passes in that month could reach the plateau only by water it did not carry.
+In the summer of 158 BF a host of the steppe came up out of the [[place-khzryndsrtrgn|Khazryn]] and over the eastern passes. The eastern records call it a khanate and give it no more than that: no khan's name, no tribe, no count of riders. It chose its season well. The foothills below the passes have few springs, and in late summer they run lowest. A host that crossed the passes in that month could reach the plateau only by water it did not carry.
 
 ## The Walling of the Springs
 
@@ -71,7 +71,7 @@ The fighting went on for eleven days. The host attacked the spring-forts one aft
 - **[[place-thirstground|The Thirsting Ground]]**, the blood-field in the foothills, where the host's dead lay unburied between the forts.
 - **The spring-forts**, which are the Eastern March's forts, still built on springs.
 - **[[place-argyrteikhos2|Argirteikhos]]'s walls**, rebuilt thicker in the years after the host.
-- **The passes held in common.** The five cities kept the garrisons they had mustered, and [[lore-heladcompact|The Compact of the Five]] made the practice a law the next year.
+- **The passes held in common.** The five cities kept the garrisons they had mustered, and [[lore-heladcompact|the Compact]] made the practice a law the next year.
 - **The March's saying**, that an army from the east dies before it reaches the walls.
 
 ## See Also

@@ -14,7 +14,7 @@ Follow the [[place-nalthmark|Nalthmark]] road down past the last fenced farms of
 
 ## The Land-Taking
 
-The settlers made their claim in the way their faith teaches. They walked the bounds of the ground with fire and treated the rite as a claim their gods had witnessed; the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] remembers the whole affair as [[lore-nalthmrktkng|The Nalthmark Land-Taking]]. The Eichthúl answered by burning the first stockade. The settlers raised a second one on the same posts, and that is the Hrindstead a traveler sees today: new timber standing on old posts, inside a ring of oaks older than either people's claim to them.
+The settlers made their claim in the way their faith teaches. They walked the bounds of the ground with fire and treated the rite as a claim their gods had witnessed; [[affiliation-kngdmnrdhm|Nordheim]] remembers the whole affair as [[lore-nalthmrktkng|the Nalthmark Land-Taking]]. The Eichthúl answered by burning the first stockade. The settlers raised a second one on the same posts, and that is the Hrindstead a traveler sees today: new timber standing on old posts, inside a ring of oaks older than either people's claim to them.
 
 ## Two Claims to One Grove
 

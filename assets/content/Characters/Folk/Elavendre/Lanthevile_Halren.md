@@ -36,4 +36,4 @@ Lánthevile Halren is a 52-year-old woman who stands 5'8" tall with a heavy buil
 
 # Dossier {#dossier}
 
-Lánthevile Halren is a druid attached to a grove near several sites of [[affiliation-blackflame|The Black Flame]] activity. She investigates the burned shrines and scorched clearings in the forests around [[place-elanmere|Elanmere]] and maps where they fall. She brings her reports to [[being-dharnvldrn|Daran Véldarin]] and to council member [[being-glyencrdth|Lyenna Kardeth]], asking for a more thorough investigation.
+Lánthevile Halren is a druid attached to a grove near several sites of [[affiliation-blackflame|Black Flame]] activity. She investigates the burned shrines and scorched clearings in the forests around [[place-elanmere|Elanmere]] and maps where they fall. She brings her reports to [[being-dharnvldrn|Daran Véldarin]] and to council member [[being-glyencrdth|Lyenna Kardeth]], asking for a more thorough investigation.

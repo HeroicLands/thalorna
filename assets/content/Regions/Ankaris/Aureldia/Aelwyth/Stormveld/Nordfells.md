@@ -15,7 +15,7 @@ data:
 ---
 
 The **Nordfells** run along the whole northern edge of [[place-stormveld|Stormveld]], from the
-forests of the [[place-pshtrwldrns|Peshtar Wilderness]] in the west to the sea in the east. They are perhaps half the
+[[place-pshtrwldrns|Peshtar forests]] in the west to the sea in the east. They are perhaps half the
 [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]'s territory and hold about twenty-two thousand of its people—which is to say they are nearly
 empty.
 
@@ -24,7 +24,7 @@ places and is not used.
 
 ## The Country
 
-Cold, wet, and higher than [[place-ironfells|The Ironfells]] to the south. Snow lies on the tops well
+Cold, wet, and higher than [[place-ironfells|the Ironfells]] to the south. Snow lies on the tops well
 into what passes for summer on [[place-aelwyth|Aelwyth]], the valleys are narrow and boggy, and the whole range drops
 sharply to the northern coast in cliffs and inlets.
 

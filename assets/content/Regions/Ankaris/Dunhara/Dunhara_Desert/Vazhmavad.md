@@ -28,7 +28,7 @@ The oasis is held by [Melkhur]{.name data-type="being/npc"}, a poet by training 
 
 ## The Hollow in the Well
 
-The source of the sorcery is below the deepest well of the oasis. Melkhur found a hollow in the water, a place where the dark does not reflect, and the thing that lives in it takes what is given and returns nothing. It is [[lore-theshadow|The Shadow]], the chaos from outside creation, and it is attracted to what Dunhari hold most dear. The poet found that it will accept a recitation as payment. The more he gives it, the more it gives him: sight into a man's line, speech in a dead voice, a word that unmakes an oath. He pays with other people's names. He does not know, or has chosen not to learn, what the hollow keeps of its own.
+The source of the sorcery is below the deepest well of the oasis. Melkhur found a hollow in the water, a place where the dark does not reflect, and the thing that lives in it takes what is given and returns nothing. It is [[lore-theshadow|the Shadow]], the chaos from outside creation, and it is attracted to what Dunhari hold most dear. The poet found that it will accept a recitation as payment. The more he gives it, the more it gives him: sight into a man's line, speech in a dead voice, a word that unmakes an oath. He pays with other people's names. He does not know, or has chosen not to learn, what the hollow keeps of its own.
 
 ## What the Tribes Say
 
@@ -45,7 +45,7 @@ The oasis lies on the southern circuit, a few days beyond the long wells. Its lo
 
 - **A claim lost.** A sheikh is asked to prove his line before the common council at [[place-ghavulavad|Ghavulavad]] and cannot, because his poet came back from Vazhmavad empty.
 - **A debt unwritten.** A merchant finds the kin-credit that carried half his trade has vanished from every memory but his own.
-- **The Circle.** [[affiliation-wrrscrcldnhrtrbs|The Warrior's Circle of the Dunhara Tribes]] has no mandate: the [Old Promise]{.name data-type="lore/custom"} bars a blade against a Dunhari while an outside enemy walks the land, and the Unrecited are Dunhari with their names removed.
+- **The Circle.** [[affiliation-wrrscrcldnhrtrbs|The Circle]] has no mandate: the [Old Promise]{.name data-type="lore/custom"} bars a blade against a Dunhari while an outside enemy walks the land, and the Unrecited are Dunhari with their names removed.
 
 [[scenario-nrctdvzhmvd|The Riders Who Ask Your Name]] gives these as a five-scene adventure.
 

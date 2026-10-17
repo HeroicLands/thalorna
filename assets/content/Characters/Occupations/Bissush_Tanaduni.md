@@ -397,7 +397,7 @@ Bissush Tanaduni is a 34-year-old man who stands 5'10" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel Region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Bissush Tanaduni came into the world of the cook through a combination of circumstance and aptitude.
+Born in the [[place-taruzelrgn|Taruzel region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Bissush Tanaduni came into the world of the cook through a combination of circumstance and aptitude.
 
 Bissush grew up on a farm and learned to cook using simple, local ingredients. His specialty is rustic cuisine, and he works at a well-known tavern in the countryside, where travelers come to enjoy his hearty meals. Bissush is humble and hardworking, always willing to adapt and improve his recipes.
 

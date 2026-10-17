@@ -397,7 +397,7 @@ Rumukush Temadum is a 31-year-old man who stands 6'2" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel Region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Rumukush Temadum came into the world of the bodyguard through a combination of circumstance and aptitude.
+Born in the [[place-taruzelrgn|Taruzel region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Rumukush Temadum came into the world of the bodyguard through a combination of circumstance and aptitude.
 
 Rumukush is a seasoned bodyguard with years of experience in protecting merchants and their valuable goods. Known for his intimidating presence and combat expertise, he often acts as the first line of defense against threats. Rumukush is deeply loyal to those he protects and has a strong sense of justice. He believes in using force only when necessary and often tries to defuse situations peacefully before they escalate.
 

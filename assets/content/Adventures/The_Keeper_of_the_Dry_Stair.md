@@ -16,13 +16,13 @@ data:
   packFolder: adventures
 ---
 
-The wind has uncovered [[place-mezhvadez|Mezhvadez]], the Dry Stair. It is a vault the [[lore-dunhariclt|Dunhari]] do not claim, built by a people whose king's name is chiseled from every wall, and the woman who kept his household lies at its center. The party must reach her, learn what she keeps, and carry out what they can.
+The wind has uncovered [[place-mezhvadez|Mezhvadez]], the Dry Stair. Mezhvadez is a vault the [[lore-dunhariclt|Dunhari]] do not claim, built by a people whose king's name is chiseled from every wall, and the woman who kept his household lies at its center. The party must reach her, learn what she keeps, and carry out what they can.
 
 ## Hooks
 
 - **The thief.** A tagemader of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], a polished man named [Ghezrun]{.name data-type="being/npc"}, pays well for the king's signet and says he does not care how it is taken.
 - **The mercenary or soldier.** A merchant's caravan is short a guard. The caravan-master wants an escort to the dune that covers the stair, and his two foreign clients carry a map.
-- **The leader.** A bahar of [[affiliation-wrrscrcldnhrtrbs|The Warrior's Circle of the Dunhara Tribes]] hears that something has been walking from the Dry Stair toward the southern pastures. The Circle gathers against an enemy none of the tribes could face alone, and the leader must see whether this is one.
+- **The leader.** A bahar of [[affiliation-wrrscrcldnhrtrbs|the Warrior's Circle]] hears that something has been walking from the Dry Stair toward the southern pastures. The Circle gathers against an enemy none of the tribes could face alone, and the leader must see whether this is one.
 - **The wanderer.** A desert mystic returning from a vigil speaks of a voice beneath the sand, calling in the speech of her mother. He asks the party to make it stop.
 
 ## Scene One: The Sealed Gate
@@ -50,7 +50,7 @@ The wind has uncovered [[place-mezhvadez|Mezhvadez]], the Dry Stair. It is a vau
 
 **Purpose.** A puzzle and roleplay encounter in the vault's inner court.
 
-**Situation.** The stair opens into a long hall whose pillars carry a continuous band of figures. In the hall's center stands a basin of dry stone with three jars beside it: one of salt, one of ash, one of clean sand. The air hums faintly, as if a voice is speaking at the edge of hearing, and the whispers are in [[skill-dunharlng|Dunhari Language]].
+**Situation.** The stair opens into a long hall whose pillars carry a continuous band of figures. In the hall's center stands a basin of dry stone with three jars beside it: one of salt, one of ash, one of clean sand. The air hums faintly, as if a voice is speaking at the edge of hearing, and the whispers are in [[skill-dunharlng|Dunhari]].
 
 **NPCs and threats.** The hall is guarded by **whisper-moths**, large grey insects with pale, human-shaped markings on their wings. They settle on a visitor's shoulder and speak in the voice of the listener's own dead, answering questions and offering to help. They are honest in nothing. They lead travelers off the safe path with the voices of friends. A single bright flame makes them dissolve.
 
@@ -95,7 +95,7 @@ The wind has uncovered [[place-mezhvadez|Mezhvadez]], the Dry Stair. It is a vau
 
 **Situation.** The innermost chamber holds a dais, a stone bed, and a woman lying on it with her hands crossed on her chest. She is whole and brown and dry as a cut date. Behind her, set in the wall, is a door of black stone with no handle. It is cold to look at, and the air in front of it does not move.
 
-**NPCs and threats.** The **Keeper** wakes when the party arrives. She is tall, with a face of great composure, wrapped in the veils of her office and hung with keys of a dozen metals. She is bound to [[lore-theshadow|The Shadow]] as the dead of the vault are, and she was bound willingly, to hold a door that her king's bargain had opened and that nothing else could close. She is courteous and implacable. She wants nothing taken from the chamber and nothing let through. She fights with the door's cold: a touch that stills the hand, a word that sets the lungs to dust. She does not hunt. She is not wrong.
+**NPCs and threats.** The **Keeper** wakes when the party arrives. She is tall, with a face of great composure, wrapped in the veils of her office and hung with keys of a dozen metals. She is bound to [[lore-theshadow|the Shadow]] as the dead of the vault are, and she was bound willingly, to hold a door that her king's bargain had opened and that nothing else could close. She is courteous and implacable. She wants nothing taken from the chamber and nothing let through. She fights with the door's cold: a touch that stills the hand, a word that sets the lungs to dust. She does not hunt. She is not wrong.
 
 **Player choices.**
 

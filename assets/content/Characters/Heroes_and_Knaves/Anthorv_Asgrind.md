@@ -431,7 +431,7 @@ sohl:
 
 ![[anthrvasgrnd|Anthorv Asgrind]]{float=top-left}
 
-Anthorv Asgrind stands 6'0" tall with a medium build. He has light weathered skin, greying black hair, and brown eyes. His features include a rectangular face, a straight nose, an angular jawline, a firm-set mouth, and straight brows.
+Anthorv stands 6'0" tall with a medium build. He has light weathered skin, greying black hair, and brown eyes. His features include a rectangular face, a straight nose, an angular jawline, a firm-set mouth, and straight brows.
 
 # Dossier {#dossier}
 
@@ -498,7 +498,7 @@ Aging Jester Syndrome
 ### Patrons
 
 King Braldmil II
-: The current monarch of the [[affiliation-kingdmtrgd|Kingdom of Targud]], who values Anthorv's ability to speak uncomfortable truths while maintaining plausible deniability. Braldmil has publicly denied ever taking the jester's advice, but privately relies on his insights.
+: The current monarch of [[affiliation-kingdmtrgd|Targud]], who values Anthorv's ability to speak uncomfortable truths while maintaining plausible deniability. Braldmil has publicly denied ever taking the jester's advice, but privately relies on his insights.
 
 Lady [[being-tvirnrinnadv|Tvirnrinna Dvarnaruk]], Court Mistress
 : The wife of a powerful noble and one of the few people with whom Anthorv maintains something approaching true friendship; she values his honesty disguised as mockery.

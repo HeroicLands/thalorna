@@ -19,11 +19,11 @@ ninety, on the tops where nothing but grass will grow.
 
 The flocks and the hardy black cattle summer here and come down in autumn, and while they are up the
 women and older children make the **cheese**—hard, dark, keeping for years, and the single item the
-[[lore-flkkhazar|Khazár Folk]] ask for by name and in quantity. What the Deep Folk do with several tons of mountain cheese a
+[[lore-flkkhazar|Khazari]] ask for by name and in quantity. What the Deep Folk do with several tons of mountain cheese a
 year is not known and has never been asked.
 
 Highfold is also the loneliest place in the valleys and the one most exposed to the weather off
-[[place-nordfells|The Nordfells]], and its people have a reputation among other Vardain for being taciturn
+[[place-nordfells|the Nordfells]], and its people have a reputation among other Vardain for being taciturn
 even by Vardain standards, which is a remarkable claim.
 
 ## See Also

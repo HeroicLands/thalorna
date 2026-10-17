@@ -274,7 +274,7 @@ A cave goblin is driven by hunger, curiosity and its standing among its kind, an
 
 ## What the Frontier Does
 
-The [[lore-varokhiclt|Varokhi]] villages below the Vandstein's passes trade with the cave goblins, cautiously, for the fungi and cave-salts the goblins gather, and pay them not to raid the poultry; the arrangement works most years. Fur traders crossing the passes hire goblin guides now and then, because a goblin knows the caves that cut a day off the road, and they count their packs every night. The Vylarian miners in Moktur who break into goblin tunnels from below call it bad luck and wall the gallery up, because a goblin community that has had its tunnels broken into spends the next season stealing everything the mine owns. Everyone who deals with them learns the same rule: a cave goblin is honest when honesty pays it, and it is never honest by accident.
+The [[lore-varokhiclt|Varokh]] villages below the Vandstein's passes trade with the cave goblins, cautiously, for the fungi and cave-salts the goblins gather, and pay them not to raid the poultry; the arrangement works most years. Fur traders crossing the passes hire goblin guides now and then, because a goblin knows the caves that cut a day off the road, and they count their packs every night. The Vylarian miners in Moktur who break into goblin tunnels from below call it bad luck and wall the gallery up, because a goblin community that has had its tunnels broken into spends the next season stealing everything the mine owns. Everyone who deals with them learns the same rule: a cave goblin is honest when honesty pays it, and it is never honest by accident.
 
 ## Signs
 

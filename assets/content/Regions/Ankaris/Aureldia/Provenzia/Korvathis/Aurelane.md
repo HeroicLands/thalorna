@@ -8,11 +8,11 @@ tags: [city, inland]
 data: {demonym: null, lore: [], parents: [korvathis], population: 30000, packFolder: provenzia}
 ---
 
-**Aurelane** stands inland in the south, on the great road, and is the oldest city in the [[place-provenzrgn|Provenzia Region]]. It
+**Aurelane** stands inland in the south, on the great road, and is the oldest city in [[place-provenzrgn|Provenzia]]. It
 was founded under the [Vylarian Republic]{.name data-type="affiliation/polity"} as a [[affiliation-vylarinmpr|Vylarian]] colony ([[lore-aurelianefound|The Founding of Aurelane]]), laid out on the Vylarian grid, and after [[lore-tiravlenbattle|Tiravlen]] served
 for centuries as the provincial capital of everything the empire held west of the sea.
 
-It is not the capital now. When the [[affiliation-kngdmprvnz|Kingdom of Provenzia]] was established in its own right ([[lore-charterwar|The War of the Charter]]) the court settled at
+It is not the capital now. When the [[affiliation-kngdmprvnz|Kingdom of Provenzia]] was established in its own right ([[lore-charterwar|the War of the Charter]]) the court settled at
 [[place-jalnazdal|Jalnasdal]] on the coast, where the money was, and Aurelane has spent the
 intervening centuries being magnificent about it.
 

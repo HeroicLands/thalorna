@@ -35,15 +35,15 @@ data:
         - where the Varkhad came from, given only as the further east
 ---
 
-The [[lore-pelwarpepl|Pelwar People]] of the eastern grasslands were, by every account that survives, a comparatively peaceful
+The [[lore-pelwarpepl|Pelwar]] of the eastern grasslands were, by every account that survives, a comparatively peaceful
 people—herders and cultivators, tribal but not warlike, organized for grazing rather than for
 conquest. Into that country, out of the further east, came the [Varkhad]{.name data-type="lore/folk"}.
 
 In The Varkhad Conquest they did not exterminate anybody. Over generations they took the country and then merged into it,
 marrying into the tribes they had beaten and adopting a good deal of what they found, until the two
-stocks could no longer be told apart. What came out of that mixture are the [[lore-varokhiclt|Varokhi]] of
-[[place-vrystwald|Vristwald]] and the [[lore-nordheimnclt|Nordheimn]] of the [[place-nrdlndsrgn|Nordlands Region]], who share the
+stocks could no longer be told apart. What came out of that mixture are the [[lore-varokhiclt|Varokh]] of
+[[place-vrystwald|Vristwald]] and the [[lore-nordheimnclt|Nordmen]] of the [[place-nrdlndsrgn|Nordlands]], who share the
 double ancestry and, notably, the temperament that came with the eastern half of it.
 
 The Pelwar who did not stay to be conquered went west, south and east, and that is
-[[lore-pelwarmigr|The Pelwar Migration]]. The displacement begins here.
+[[lore-pelwarmigr|the Migration]]. The displacement begins here.

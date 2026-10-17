@@ -82,11 +82,11 @@ The council's forms are the ones every Taruzelian city shares—a First of the C
 
 Yamuzel's population includes a large community of war veterans: sailors and marines from the war of independence who settled here afterward. They fought for Taruzelian freedom and were promised land, status and guild membership, and none of it was honored. They are a politically potent group, and a more frustrated one every year. The [[affiliation-auricompct|Auric Compact]] and the other great guilds regard them as a nuisance, and the veterans regard the guilds as traitors to a cause the guilds financed and never bled for.
 
-That is why Yamuzel is the city where the captain of [[affiliation-thetamzir|The Tamzir]] has the most connections, and the most enemies.
+That is why Yamuzel is the city where the captain of [[affiliation-thetamzir|the Tamzir]] has the most connections, and the most enemies.
 
 ## Commerce and Currency
 
-The yards and the fleet are paid in the [[lore-trzlncrncy|Taruzelian Currency]], administered through the **[Merazuni]{.name data-type="affiliation"}** of the [[affiliation-vezakuni|Vezakuni]]. It keeps the Vylarian denominations (Solden, Ardin and Bit), backed by Taruzelian reserves rather than the Vylarian reserves of [[affiliation-tarmex|The Tarmeks Orzan]], with a Solden slightly underweight by the Vylarian standard. Merazuni-affiliated moneylenders handle the banking. Vylarian script is not honored in Yamuzel, and Taruzelian script is not honored in Vylarian territory.
+The yards and the fleet are paid in the [[lore-trzlncrncy|Taruzelian currency]], administered through the **[Merazuni]{.name data-type="affiliation"}** of the [[affiliation-vezakuni|Vezakuni]]. It keeps the Vylarian denominations (Solden, Ardin and Bit), backed by Taruzelian reserves rather than the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], with a Solden slightly underweight by the Vylarian standard. Merazuni-affiliated moneylenders handle the banking. Vylarian script is not honored in Yamuzel, and Taruzelian script is not honored in Vylarian territory.
 
 ## See Also
 

@@ -8,7 +8,7 @@ tags: [sacred, mining, mountain, inland]
 data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
-**The Weighing-Station** stands at [Middle Suvarnageri]{.name data-type="place/site"} beside the common treasury, and it is the one thing in the janapoda that does not rotate. Every ounce the twenty-eight panning families win comes here. At each new moon the previous moon's gold is weighed in the open, before whichever sabhra representatives have come down for it, and the weights are read out and entered.
+**The weighing-station** stands at [Middle Suvarnageri]{.name data-type="place/site"} beside the common treasury, and it is the one thing in the janapoda that does not rotate. Every ounce the twenty-eight panning families win comes here. At each new moon the previous moon's gold is weighed in the open, before whichever sabhra representatives have come down for it, and the weights are read out and entered.
 
 The building is a roofed shed with three sides open, a stone table, the scales, and a rail the width of the yard for the people who come to watch.
 
@@ -22,9 +22,9 @@ The whole mechanism rests on this. The gold is visible. Nobody accumulates quiet
 
 A family's wage is fixed and its yield is not, so the weighing is also where a bad month is established as a fact rather than an accusation. A panning family that comes up light three months running is asked about it in the open, at the rail, by whoever cares to ask.
 
-The scale itself is the temple's and is touched by [[affiliation-mahajaya|Mahajaya]]'s rite once a year. Suvarnageri holds that a weight sworn on that scale is not arguable, and the factors of [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]], who may not set foot in the yard, have never found a way to test the claim.
+The scale itself is the temple's and is touched by [[affiliation-mahajaya|Mahajaya]]'s rite once a year. Suvarnageri holds that a weight sworn on that scale is not arguable, and the factors of [[affiliation-mrchntclctvvdyr|the Merchant Collective of Vedyara]], who may not set foot in the yard, have never found a way to test the claim.
 
 ## See Also
 
-- [[place-middlesuvtmpl|The Temple of Middle Suvarnageri]] · [[place-goldmountain|The Gold Mountain]]
+- [[place-middlesuvtmpl|The Temple of Middle Suvarnageri]] · [[place-goldmountain|the Gold Mountain]]
 - [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the constitution the station serves

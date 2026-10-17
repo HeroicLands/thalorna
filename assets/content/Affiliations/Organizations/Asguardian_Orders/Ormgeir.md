@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-"You do not see them fight," a [[place-malagna|Malagna]] harbor guard says of Ormgeir, the Serpentfangs. "You see the other man slow down."
+"You do not see them fight," a [[place-malagna|Malagna]] harbor guard says of the Serpentfangs. "You see the other man slow down."
 
-Ormgeir fight for the [[affiliation-velgrimr|Faith of Velgrímr]] by poison as much as by blade, trained in the toxins that weaken a foe before the fight is joined. A member carries venom prepared at one of the hidden hovs in Malagna's ports and is relied on to finish what a blade alone would leave unsettled.
+Ormgeir fight for [[affiliation-velgrimr|Velgrímr]] by poison as much as by blade, trained in the toxins that weaken a foe before the fight is joined. A member carries venom prepared at one of the hidden hovs in Malagna's ports and is relied on to finish what a blade alone would leave unsettled.

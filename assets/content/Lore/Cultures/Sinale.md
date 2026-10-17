@@ -22,7 +22,7 @@ data:
     height: {female: {min: 5' 9", max: 6' 6"}, male: {min: 6' 0", max: 6' 9"}}
 ---
 
-The Sinale are the Firstborn, the eldest of the speaking peoples, and they carry themselves as a people who were old before there was anyone to be old beside. They came to [[place-worldthlrn|The World of Thalorna]] from a prior realm roughly eight thousand years ago, and of that realm they tell outsiders nothing. Fewer than one in ten thousand of the world's people is a Sinalo, so for nearly everyone the Sinale are a rumor: a grandmother's story of a figure at the edge of a forest at twilight. They are real, and they have no interest in being found.
+The Sinale are the Firstborn, the eldest of the speaking peoples, and they carry themselves as a people who were old before there was anyone to be old beside. They came to [[place-worldthlrn|Thalorna]] from a prior realm roughly eight thousand years ago, and of that realm they tell outsiders nothing. Fewer than one in ten thousand of the world's people is a Sinalo, so for nearly everyone the Sinale are a rumor: a grandmother's story of a figure at the edge of a forest at twilight. They are real, and they have no interest in being found.
 
 This note is about how the Sinale orient themselves toward the world and toward the younger peoples in it. Most of what is known comes from the few human peoples who live near them, and from what the Sinale have chosen to let stand as legend.
 
@@ -46,7 +46,7 @@ The Sinale build rarely, and rarely in stone, and never with the [[lore-flkkhaza
 
 The song is a Sinalean elegy for a city of light cut into a cliff, with its halls, its water and its birds, and for the night a horde came up the valley. It never names the city or the people who made it, and it breaks off at the word that would name the renegade. The Sinale have neither confirmed the bards' reading of it nor corrected it.
 
-The same habit shows in the language. Their words for the world are words for particular moments and places: the first thaw, the still hour, the long dusk, the split log, the lifted stone. The [[skill-sinalelng|Sinale Language]] and its [[skill-sinalelng#lexicon|lexicon]] hold the whole word-hoard.
+The same habit shows in the language. Their words for the world are words for particular moments and places: the first thaw, the still hour, the long dusk, the split log, the lifted stone. The [[skill-sinalelng|Sinale language]] and its [[skill-sinalelng#lexicon|lexicon]] hold the whole word-hoard.
 
 ## Where They Live
 
@@ -54,7 +54,7 @@ The Sinale live in enclaves: hidden communities in deep forests, mist-filled val
 
 Walls and armies do not protect an enclave. The land does. A path that leads to one uninvited leads somewhere else, and a traveler who approaches without welcome walks in circles, loses track of time, or is overcome by the conviction that turning back is right. None of this is hostile. The Sinale have no interest in harming lost travelers, and the protection is absolute all the same.
 
-Human scholars have confirmed perhaps a dozen enclaves, in the forests of [[place-elavendre|Élavendre]], in [[place-hallowwood|The Hallowwood]] of [[place-aelwyth|Aelwyth]], in the deep woods of [[place-vrystwald|Vristwald]] and in remote corners of other continents. There are certainly more. The ones humans know are probably the ones the Sinale consider least important.
+Human scholars have confirmed perhaps a dozen enclaves, in the forests of [[place-elavendre|Élavendre]], in [[place-hallowwood|the Hallowwood]] of [[place-aelwyth|Aelwyth]], in the deep woods of [[place-vrystwald|Vristwald]] and in remote corners of other continents. There are certainly more. The ones humans know are probably the ones the Sinale consider least important.
 
 Not every enclave endures. [[place-haulonna|Thalmdal]] (Haulonna), deep in the interior of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], was destroyed by a tereb necromancer in the service of [[lore-nahilddty|Nahild]], and the spirits of its people are held captive. The Sinale call this an open wound, and they have not forgotten it.
 
@@ -64,9 +64,9 @@ The Sinale are not hostile to humanity. They are profoundly uninterested in huma
 
 This disengagement is older than any human memory of it. When they came to Thalorna, humans were already here, and the Sinale chose then to let that younger people find its own way, neither shepherding its rise nor opposing it. Individual Sinale do occasionally meet individual humans: a traveler is given shelter, a scholar a cryptic answer, a lost child is guided home. These meetings are rare, unpredictable and always on the Sinale's terms, and the Sinale let the legends that follow them stand.
 
-Restraint did not keep humanity from learning. Humans watched the Sinale and took what they saw, and [[lore-longnhrtnc|The Long Inheritance]] is the name for that. Its Sinalean channel is the immaterial one: song and the forms of poetry, the practice of keeping lore rather than merely remembering it, healing, and the idea that magic can be studied and answers to discipline rather than only to accident and terror. Whether any Sinalo ever said so to a human is the point in dispute. The evidence is resemblance, a mode of thought and a shape of practice, and resemblance proves nothing. [[affiliation-bardicolgs|The Bardic Colleges]] concede the debt freely, and the people who believe it most readily are those who have met a Sinalo.
+Restraint did not keep humanity from learning. Humans watched the Sinale and took what they saw, and [[lore-longnhrtnc|the Long Inheritance]] is the name for that. Its Sinalean channel is the immaterial one: song and the forms of poetry, the practice of keeping lore rather than merely remembering it, healing, and the idea that magic can be studied and answers to discipline rather than only to accident and terror. Whether any Sinalo ever said so to a human is the point in dispute. The evidence is resemblance, a mode of thought and a shape of practice, and resemblance proves nothing. [[affiliation-bardicolgs|The Bardic Colleges]] concede the debt freely, and the people who believe it most readily are those who have met a Sinalo.
 
-Beyond the general policy, individual Sinale act as they see fit. A student who asked well has been taught, and the Long Inheritance records such transmissions as unauthorized and undocumented. Marriage, fosterage and long friendship occur at the edge where the Sinale and the [[lore-aelendnppl|Áelendan People]] meet, rarely and quietly.
+Beyond the general policy, individual Sinale act as they see fit. A student who asked well has been taught, and the Long Inheritance records such transmissions as unauthorized and undocumented. Marriage, fosterage and long friendship occur at the edge where the Sinale and the [[lore-aelendnppl|Áelendan]] meet, rarely and quietly.
 
 ## Those Who Carry
 
@@ -79,7 +79,7 @@ The result is that Élavendre's relationship with the Sinale has two layers. The
 Élavendre holds three enclaves, each at a different distance from the people who carry for them:
 
 - [[place-ethalosse|Ethalosse]], about seventy Sinale on the eastern edge of the Áelendan tribal lands, is placed for access. It is where the Sinale conduct business with the world, and the one enclave a human has a realistic hope of being invited to. It is spare: a court of worked stone older than the forest around it, one of the rare stone works of a people who prefer to grow what they build, a few dwellings, and a long open way down which visitors are watched for a considerable time before they arrive.
-- [[place-aelirosse|Aelirosse]], about a hundred and twenty Sinale in [[place-silvrfrsts|The Silver Forests]], is the closest to the Áelendan of any Sinalean community in the world. Its dwellings are worked into living silver birch, and its Áelendan neighbors come and go without ceremony.
+- [[place-aelirosse|Aelirosse]], about a hundred and twenty Sinale in [[place-silvrfrsts|the Silver Forests]], is the closest to the Áelendan of any Sinalean community in the world. Its dwellings are worked into living silver birch, and its Áelendan neighbors come and go without ceremony.
 - [[place-serenthale|Serenthale]], about ninety Sinale facing the western sea in [[place-lirve|Lirve]], is the oldest of the three and by far the most withdrawn. It keeps to itself even from the Áelendan. Contact is real, respectful and rare, and it happens at the enclave's initiative and nobody else's. No Áelendan guides anyone to it.
 
 The [[affiliation-alndnwrdns|Áelendan Wardens]] patrol the approaches and turn the Arcane Order back at the tree line. The Áelendan regard the Arcane Order as intruders who study what the tribes exist to keep.
@@ -88,11 +88,11 @@ The [[affiliation-alndnwrdns|Áelendan Wardens]] patrol the approaches and turn 
 
 Elsewhere the welcome is thinner, and each place is its own case.
 
-On Aelwyth the Sinale of the [[place-hallowwood|Hallowwood]] tolerate embassies from the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], welcome Élavendre and receive the Áelendan above all. After the break they held the whole island under a Sinale king, together with the Khazari, until he was killed at [[place-threesisters|The Three Sisters]]. The Khazari keep to the mountains. Enclaves are also known in Vristwald.
+On Aelwyth the Sinale of the [[place-hallowwood|Hallowwood]] tolerate embassies from [[affiliation-kingdmdnvr|Dúnavarre]], welcome Élavendre and receive the Áelendan above all. After the break they held the whole island under a Sinale king, together with the Khazari, until he was killed at [[place-threesisters|the Three Sisters]]. The Khazari keep to the mountains. Enclaves are also known in Vristwald.
 
 In the [[affiliation-tantsouempr|Empire of Tantsou]] the Sinale keep a formal contact with the imperial court that exists nowhere else, and it appears to rest on coercion or obligation rather than affinity. The Sinale of Tantsou are a case of their own. The empire files them in its caste order by function: scholars among them are Tanchéi advisers, and a very few are nobility. The Sinale accept the arrangement pragmatically, keep their own self-understanding inside their enclaves, and go on with their work. Nobody outside knows how it began, and the Sinale will not say.
 
-The Sinale also maintain some form of connection with the peoples of [[place-kchchkcntnnt|K'ich'chik Continent]], which western scholarship knows too little of, on either side, to describe.
+The Sinale also maintain some form of connection with the peoples of [[place-kchchkcntnnt|K'ich'chik]], which western scholarship knows too little of, on either side, to describe.
 
 ## Two Meetings
 
@@ -100,17 +100,17 @@ Two encounters sit at the edge of what the Sinale will say, and both are passed 
 
 On [[affiliation-kalihara|Kalihara]], Sinalean wayfarers found a human civilization already established on the teachings of an older people who were still in the world. The Kaliharans received them with courtesy and refused them settlement. The Sinale have never given a public account of it.
 
-Earlier and elsewhere, the Sinale came upon that older people themselves, [[lore-theithari|The Ithari]], and were received and politely declined. No exchange was proposed and no second meeting arranged. The Sinale came away having learned nothing: not who they had met, where those people came from, or that any connection ran between them and the works on Kalihara. They do not use the name Ithari, because they were never given it. By their own account, the impression they took away is that they were found quaint. Both peoples confirm that the meeting occurred, and that is all either gives. See [[lore-itharicntc|The Sinale Meet the Ithari]].
+Earlier and elsewhere, the Sinale came upon that older people themselves, [[lore-theithari|the Ithari]], and were received and politely declined. No exchange was proposed and no second meeting arranged. The Sinale came away having learned nothing: not who they had met, where those people came from, or that any connection ran between them and the works on Kalihara. They do not use the name Ithari, because they were never given it. By their own account, the impression they took away is that they were found quaint. Both peoples confirm that the meeting occurred, and that is all either gives. See [[lore-itharicntc|the Sinale Meet the Ithari]].
 
 ## The Second Elder Race
 
 After the Sinale came the Khazari, the Deep Folk, a people unlike them in form and temperament but kindred in spirit. The Sinale worked in forest and starlight and the Khazari in stone and flame, and for a time the two lived in concert, under a single accord, and made wonders neither could have made alone.
 
-Then the two separated, long before any human city. Apart from one attempt on Aelwyth, they do not speak, they do not trade, and they acknowledge each other only in the most oblique terms. What broke the accord was [[lore-khazarturn|The Fall of Khazartúrn]]. In 2427 BF a Sinale outlaw took up [[miscgear-secondvoice|The Second Voice]], a relic the Sinale knew of and had never thought worth mentioning, because a weapon that commands the [[lore-grukarfolk|Grukar Folk]] is a weapon against cities and the Sinale keep none. He used it to destroy the greatest city the Khazari ever raised, and thirty thousand died. The Sinale hunted him down themselves, took a long time over it, and afterward handed over nothing and explained nothing.
+Then the two separated, long before any human city. Apart from one attempt on Aelwyth, they do not speak, they do not trade, and they acknowledge each other only in the most oblique terms. What broke the accord was [[lore-khazarturn|Khazartúrn]]. In 2427 BF a Sinale outlaw took up [[miscgear-secondvoice|the Second Voice]], a relic the Sinale knew of and had never thought worth mentioning, because a weapon that commands [[lore-grukarfolk|Grukar]] is a weapon against cities and the Sinale keep none. He used it to destroy the greatest city the Khazari ever raised, and thirty thousand died. The Sinale hunted him down themselves, took a long time over it, and afterward handed over nothing and explained nothing.
 
 Each people guards the secret for its own reason. The Khazari guard it as their humiliation. The Sinale guard it because one of their own did it, and because of what they had failed to say beforehand.
 
-On Aelwyth the break was later attempted in earnest. A sub-group of the Sinale and a sub-group of the Khazari joined in a single kingdom governing the whole island, before the [[lore-pelwarpepl|Pelwar People]] arrived there. When the Sinale king was killed at the Three Sisters, the Sinale abandoned the field, and the Khazari took it very poorly. A scholar who presses the question meets a silence so absolute and so cold that the conversation is not attempted again.
+On Aelwyth the break was later attempted in earnest. A sub-group of the Sinale and a sub-group of the Khazari joined in a single kingdom governing the whole island, before the [[lore-pelwarpepl|Pelwar]] arrived there. When the Sinale king was killed at the Three Sisters, the Sinale abandoned the field, and the Khazari took it very poorly. A scholar who presses the question meets a silence so absolute and so cold that the conversation is not attempted again.
 
 ## What the Sinale Keep Closed
 
@@ -120,7 +120,7 @@ Several things are held entirely inside the Sinale and are not supplied here:
 - Their own reckoning of years.
 - The full history of the Sinale as a people, which only the Sinale know.
 - How they conduct a life, from birth through age and death, what they hold to be good or evil, and what they hold a person owes. The sources that exist describe what the Sinale do toward others, not how they live among themselves.
-- Their faith. The folk note's glossary records a Sinale word for the open convocation of the faith and a Sinale name for [[lore-goddreams|The God of Dreams]], and says nothing more.
+- Their faith. The folk note's glossary records a Sinale word for the open convocation of the faith and a Sinale name for [[lore-goddreams|the God of Dreams]], and says nothing more.
 
 ## What Passes Between Peoples
 
@@ -142,4 +142,4 @@ For a player, the one thing to understand first is that a character does not dea
 
 The full dictionary is in the [[skill-sinalelng#lexicon|Sinale Language note]].
 
-Tradition Keeper is a term from [[lore-elavendriclt#glossary|Élavendri]].
+Tradition Keeper is a term from [[lore-elavendriclt#glossary|Élavendre]].

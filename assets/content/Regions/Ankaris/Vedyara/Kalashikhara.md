@@ -14,9 +14,9 @@ data:
   packFolder: vedyara
 ---
 
-**Kalashikhara**—"the black summit"—is the last great peak of [[place-estrnreach|The Eastern Reach]] before the range turns down toward the [[place-tantsouregin|Tantsou Region]]. Its rock is dark and steep enough that snow does not hold on the upper faces, so that at the season when every other summit on the wall is white this one is not, and it can be picked out from three days' travel away in any direction.
+**Kalashikhara**—"the black summit"—is the last great peak of [[place-estrnreach|the Eastern Reach]] before the range turns down toward [[place-tantsouregin|Tantsou]]. Its rock is dark and steep enough that snow does not hold on the upper faces, so that at the season when every other summit on the wall is white this one is not, and it can be picked out from three days' travel away in any direction.
 
-[[place-sankhadvra|Shankhadvara]] crosses beneath it. The pass is treacherous, lightly traveled and, for four centuries now, garrisoned: [[place-sanghafort|The Sangra-fort]] sits on the col on the Vedyari side, the one standing garrison the temple-republics maintain anywhere.
+[[place-sankhadvra|Shankhadvara]] crosses beneath it. The pass is treacherous, lightly traveled and, for four centuries now, garrisoned: [[place-sanghafort|the Sangra-fort]] sits on the col on the Vedyari side, the one standing garrison the temple-republics maintain anywhere.
 
 ## Unbuilt
 
@@ -24,5 +24,5 @@ There is no shrine on Kalashikhara. [[place-pssshrines|The Pass-Shrines]] hold e
 
 ## See Also
 
-- [[place-estrnreach|The Eastern Reach]] · [[place-sankhadvra|Shankhadvara]] · [[place-sanghafort|The Sangra-fort]]
+- [[place-estrnreach|The Eastern Reach]] · [[place-sankhadvra|Shankhadvara]] · [[place-sanghafort|the Sangra-fort]]
 - [[affiliation-hvarnguides|The Hvarn]] · [[affiliation-kalavrata|Kalavrata]]

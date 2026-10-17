@@ -418,7 +418,7 @@ sohl:
 
 ![[agapevrzns|Agápeia Varzanes]]{float=top-left}
 
-Agápeia Varzanes stands 6'1" tall with a medium build. She has golden-toned skin, dark hair, and dark hazel eyes. Her features include an oblong face, a straight nose, a pointed chin, slightly pursed lips, arched brows, and high cheeks.
+Agápeia stands 6'1" tall with a medium build. She has golden-toned skin, dark hair, and dark hazel eyes. Her features include an oblong face, a straight nose, a pointed chin, slightly pursed lips, arched brows, and high cheeks.
 
 # Dossier {#dossier}
 
@@ -438,7 +438,7 @@ At twenty-two, Agápeia claimed her independence and began working as a self-emp
 
 ### Present Circumstances
 
-Agápeia currently operates between the larger mining settlements of the Bizarian League, often taking on difficult prospecting jobs that others consider too dangerous or speculative. She maintains good relationships with local mining companies and jewelers who prize her ability to source high-quality stones reliably. However, she has grown increasingly troubled by developments in her trade: the great mining houses are pushing out independent miners, the newer mining magnates show no reverence for the earth and instead pursue reckless extraction that causes collapses and environmental devastation, and she has begun to suspect that some of the major mining operations are engaged in dangerous practices to extract rare magical materials. Her moral convictions, rooted in the teachings of the [[affiliation-lizelas|Faith of Lizelas]], put her at odds with the present direction of Bizarian mining, and she is quietly considering what action—if any—she should take in response.
+Agápeia currently operates between the larger mining settlements of the Bizarian League, often taking on difficult prospecting jobs that others consider too dangerous or speculative. She maintains good relationships with local mining companies and jewelers who prize her ability to source high-quality stones reliably. However, she has grown increasingly troubled by developments in her trade: the great mining houses are pushing out independent miners, the newer mining magnates show no reverence for the earth and instead pursue reckless extraction that causes collapses and environmental devastation, and she has begun to suspect that some of the major mining operations are engaged in dangerous practices to extract rare magical materials. Her moral convictions, rooted in the teachings of [[affiliation-lizelas|Lizelas]], put her at odds with the present direction of Bizarian mining, and she is quietly considering what action—if any—she should take in response.
 
 ## Psyche
 

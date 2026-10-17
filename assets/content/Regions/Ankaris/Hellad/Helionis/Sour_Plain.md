@@ -8,7 +8,7 @@ tags: [blood-field, battlefield, hellad]
 data: {demonym: null, lore: [], parents: [helionis], population: null, packFolder: helionis}
 ---
 
-The road carters take into [[place-helionis|Helionis]] from the west bends a day's walk out of its way for a plain it passes at a distance, and the carters will tell a stranger why before he asks. The **Sour Plain** is a blood-field of the withering kind, the rarest of the five, and the worst in the region. A legion and the citizen levy of [[affiliation-korinthea|Korinthea]] died on it in one afternoon in 327 BF ([[lore-heladturnedwrk|The Turned Working]]), and no herald could cross the ground to take them home.
+The road carters take into [[place-helionis|Helionis]] from the west bends a day's walk out of its way for a plain it passes at a distance, and the carters will tell a stranger why before he asks. The **Sour Plain** is a blood-field of the withering kind, the rarest of the five, and the worst in the region. A legion and the citizen levy of [[affiliation-korinthea|Korinthea]] died on it in one afternoon in 327 BF ([[lore-heladturnedwrk|the Turned Working]]), and no herald could cross the ground to take them home.
 
 ## The Ground
 
@@ -20,13 +20,13 @@ The dead of both armies stand on the plain on the anniversary of the battle, wor
 
 ## The Stones and the Judge
 
-[[place-korinthea2|Korinthea]]'s temple of the [[affiliation-ardavon|Faith of Árdavon]] sends a judge each year to walk the ring and record where the stones stand. It is a custom and not an office. The settlement rite of the [[affiliation-selmoros|Faith of Sélmoros]] has never been tried on the plain, because in Helionis a temple is civic property and the rite needs an assembly's vote, and no Korinthean assembly has voted to say aloud what its city did here.
+[[place-korinthea2|Korinthea]]'s temple of the [[affiliation-ardavon|Faith of Árdavon]] sends a judge each year to walk the ring and record where the stones stand. It is a custom and not an office. The settlement rite of [[affiliation-selmoros|Sélmoros]] has never been tried on the plain, because in Helionis a temple is civic property and the rite needs an assembly's vote, and no Korinthean assembly has voted to say aloud what its city did here.
 
 ## Who Goes
 
 - **Carters**, who go round it by daylight and give the plain a wide berth.
 - **Scholars**, [[being-blnhdrks|Bulelon Hadrikes]] of [[place-theradon2|Theradon]] among them, who come for the ground.
-- **[[affiliation-ordoarcanis|Thordimalon]] surveyors**, whom Korinthea refuses at the ring.
+- **[[affiliation-ordoarcanis|Arcane Order]] surveyors**, whom Korinthea refuses at the ring.
 - **[[affiliation-blackflame|The Black Flame]]**, which works fields anywhere, and for which a withering that spreads is the work already half done.
 
 ## Hooks

@@ -1219,11 +1219,11 @@ sohl:
 # terran_analog: Taruzeli reads an Akkadian-and-Phoenician register of a Semitic maritime trade tongue. The roots coined here are made to the rules and are not the Akkadian, Phoenician, Arabic or Hebrew word for their meaning, and every name in the register is built from them.
 ---
 
-Taruzeli Language is a tongue of the [Taruzelik Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Taruzeli, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Taruzeli is a tongue of the [Taruzelik Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Taruzeli, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
-Taruzeli is the tongue of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], a maritime and mercantile language shaped by centuries of trade, commerce, and seafaring. Spoken across the islands of [[place-taruzelrgn|Taruzel Region]], in the harbors of the [[place-vylarianse|Vylarian Sea]] and in the port cities of [[place-klhrcntnnt|Kalihara Continent]], Taruzeli dominates the merchant guilds and shipping routes. The language carries extensive vocabulary for navigation, commerce, and maritime activities, reflecting its speakers' deep connection to the sea and to trade networks spanning the known world.
+Taruzeli is the tongue of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], a maritime and mercantile language shaped by centuries of trade, commerce, and seafaring. Spoken across the [[place-taruzelrgn|Taruzelian islands]], in the harbors of the [[place-vylarianse|Vylarian Sea]] and in the port cities of [[place-klhrcntnnt|Kalihara]], Taruzeli dominates the merchant guilds and shipping routes. The language carries extensive vocabulary for navigation, commerce, and maritime activities, reflecting its speakers' deep connection to the sea and to trade networks spanning the known world.
 
 Taruzeli is characterized by rhythmic, sonorous tones. Its long vowels give names and words a flowing, measured quality suited to contract negotiations and formal agreements.
 
@@ -1321,7 +1321,7 @@ These suffixes denote family affiliation and are fundamental to Taruzeli identit
 
 ## Script and Literacy
 
-Taruzeli employs the [[skill-merazanscrpt|Merazan Script]], a consonantal alphabet derived from ancient proto-Ankarian writing systems. The script consists of 24 letters representing consonantal phonemes; vowels are optionally marked through diacritical marks (circumflex, macron, acute accent). In formal mercantile documents, vowels are always marked to avoid ambiguity in contracts and agreements.
+Taruzeli employs the [[skill-merazanscrpt|Merazan script]], a consonantal alphabet derived from ancient proto-Ankarian writing systems. The script consists of 24 letters representing consonantal phonemes; vowels are optionally marked through diacritical marks (circumflex, macron, acute accent). In formal mercantile documents, vowels are always marked to avoid ambiguity in contracts and agreements.
 
 True Taruzeli literacy is confined to the nobility, the clergy, and the professional scribe class. Merchant guildsmen often possess functional literacy—enough to recognize trade marks, numerals, and common abbreviations—but rely on hired scribes for contracts, ledgers, and legal documents. The language is written left-to-right.
 

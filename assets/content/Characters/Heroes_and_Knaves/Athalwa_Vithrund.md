@@ -492,7 +492,7 @@ Dependence on Visions
 [The War Band of Eichengrund]{.name data-type="affiliation"}
 : Young warriors and ambitious raiders who benefit from Athalwa's expansionist policies and see in her a leader who can elevate them to power within the broader world.
 
-Merchant Prince [[being-druzesxylaki|Druzes Zilakit]] of the Bizarian League
+Merchant Prince [[being-druzesxylaki|Druzes]] of the Bizarian League
 : A canny trader who has secured access to Eichengrund’s furs and amber through village trade agreements and his relationship with Athalwa. They maintain a respectful commercial and diplomatic relationship.
 
 ### Enemies

@@ -17,9 +17,9 @@ data:
 
 ### Background and Creation
 
-The Maul of Gashang is a brutal spiked mace crafted by the priest-artificers of [[affiliation-blackflame|The Black Flame]], designed to embody what the faith sees as the cruel and destructive nature of [[lore-ustarondty|Ústaron]]. Forged from **blackened steel**, the head of the mace features eight blades, with jagged, cruel spikes meant to tear flesh and break bones. The weapon's sinister design reflects its purpose: to vanquish foes in the most gruesome and painful manner possible.
+The Maul of Gashang is a brutal spiked mace crafted by the priest-artificers of [[affiliation-blackflame|the Black Flame]], designed to embody what the faith sees as the cruel and destructive nature of [[lore-ustarondty|Ústaron]]. Forged from **blackened steel**, the head of the mace features eight blades, with jagged, cruel spikes meant to tear flesh and break bones. The weapon's sinister design reflects its purpose: to vanquish foes in the most gruesome and painful manner possible.
 
-The blades seem to glow with a faint ember-like intensity when soaked in blood. The handle is wrapped in red leather taken from flayed priests of [[affiliation-sacredforge|The Sacred Forge]], inscribed with prayers to the Black Flame, calling for violence, destruction, and torment.
+The blades seem to glow with a faint ember-like intensity when soaked in blood. The handle is wrapped in red leather taken from flayed [[affiliation-sacredforge|Sacred Forge priests]], inscribed with prayers to the Black Flame, calling for violence, destruction, and torment.
 
 Legends suggest that the maul was forged in the heart of a volcano by Black Flame priest-artificers, who channeled the pure essence of fire and pain from the demons, the Black Flame’s demonic legions of flame. Each of the eight blades of the maul is said to represent a key battle or sacrifice offered to the Black Flame. Legend holds that the spikes were cooled in the blood of enemies and then blessed in the flames of the Black Flame's altar.
 
@@ -27,7 +27,7 @@ Legends suggest that the maul was forged in the heart of a volcano by Black Flam
 
 ### **The Last Battle in the Blood Lands**
 
-The Maul of Gashang was last wielded in a brutal conflict known as [[lore-bloodhillsbtl|The Battle of the Blood Hills]] (the Battle of Keravel’s Blood Hills), fought about 248 AF in the highlands near [[place-ceravelvale|Keravel Vale]]. This battle was a climactic confrontation between the forces of the Black Flame, led by the [Cohorts of Gashang]{.name data-type="affiliation"}, and the [Knights of the Sacred Forge]{.name data-type="affiliation/order"}. The site became infamous for its sheer brutality, as the followers of the Black Flame reveled in slaughter and pain, while the Forge faithful sought to stem the tide of chaos.
+The Maul of Gashang was last wielded in a brutal conflict known as [[lore-bloodhillsbtl|the Battle of the Blood Hills]] (the Battle of Keravel’s Blood Hills), fought about 248 AF in the highlands near [[place-ceravelvale|Keravel]]. This battle was a climactic confrontation between the forces of the Black Flame, led by the [Cohorts of Gashang]{.name data-type="affiliation"}, and the [Knights of the Sacred Forge]{.name data-type="affiliation/order"}. The site became infamous for its sheer brutality, as the followers of the Black Flame reveled in slaughter and pain, while the Forge faithful sought to stem the tide of chaos.
 
 The Maul of Gashang was wielded by a Black Flame warlord named [Hazarak Bloodhand]{.name data-type="being/npc"}, known for his cruelty and mastery of war. Hazarak led the charge against the Sacred Forge forces, and it is said that he wielded the maul with such ferocity that even the most devout Sacred Forge knights faltered in his wake. The weapon’s unholy aura terrified even the most battle-hardened soldiers, while its flames set the battlefield alight, turning the hillside into a scene of unrelenting carnage.
 
@@ -37,7 +37,7 @@ As the battle raged on, Hazarak’s forces began to gain the upper hand, pushing
 
 After Hazarak’s fall, the battle did not end cleanly. Both sides were devastated, and the bloodied fields became the final resting place of countless warriors. The maul, now abandoned, was sought after by both Black Flame cultists and the Forge faithful, but a sudden violent storm—a phenomenon some claimed was caused by the Black Flame itself—forced both sides to retreat, leaving the battlefield strewn with bodies and the sacred relic lost.
 
-For years after the battle, the area became known as [[place-bloodhills|The Blood Hills]], and few dared to approach the cursed land. Legends grew about spirits wandering the battlefield, and those brave enough to venture into the hills reported seeing flickers of light—like embers in the dark—where the maul was thought to have been lost.
+For years after the battle, the area became known as [[place-bloodhills|the Blood Hills]], and few dared to approach the cursed land. Legends grew about spirits wandering the battlefield, and those brave enough to venture into the hills reported seeing flickers of light—like embers in the dark—where the maul was thought to have been lost.
 
 ### **The Cave and the Traps**
 
@@ -84,7 +84,7 @@ Mechanics
 : Enemies, in particular the Forge faithful, within 30 feet of the wielder suffer ABE 1.
 
 Holy Relic of the Black Flame
-: The weapon is obviously a weapon of the Black Flame. The Forge faithful will correctly fear using it.
+: The weapon is obviously a weapon of the Black Flame. the Forge faithful will correctly fear using it.
 
 Mechanics
 : Any follower of the Sacred Forge who uses the weapon and injures an opponent must make a test against Will. MF will result in loss of action in the next turn, while CF will result in the attacker suffering shock where Shock Index is 6 + Shock Roll.

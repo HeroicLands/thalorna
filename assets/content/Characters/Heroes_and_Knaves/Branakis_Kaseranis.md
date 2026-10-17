@@ -420,7 +420,7 @@ sohl:
 
 ![[brnksksrns|Branakis Kaseranis]]{float=top-left}
 
-Branakis Kaseranis stands 6'2" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include an oval face, a straight nose, a prominent chin, a small mouth, and dark brows. He has a tattoo of a tree on his forearm.
+Branakis stands 6'2" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include an oval face, a straight nose, a prominent chin, a small mouth, and dark brows. He has a tattoo of a tree on his forearm.
 
 Most striking is the tattoo adorning his left forearm: a great tree with roots spreading deep and branches reaching high, rendered in dark ink that has faded slightly with age.
 

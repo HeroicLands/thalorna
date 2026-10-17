@@ -43,7 +43,7 @@ The **great herds** are the organizing principle of savannah life in the center 
 
 **Language** across the region is a mosaic. There are several broad language families, each containing many mutually unintelligible tongues, and the savannah peoples maintain a rough pidgin—something like a trade-speech—for dealing with strangers from outside their immediate lineage. The rainforest intermediaries who trade with the northern civilizations use this pidgin as their working language in the south.
 
-The few **settled communities**—[[place-ekundavlg|Ékunda Village]] among them—function as trade-meeting points, ritual centers, or both. They are small by northern standards (a thousand people is large), typically located at perennial springs or river junctions, and often have populations that swell and shrink dramatically with the migration cycles.
+The few **settled communities**—[[place-ekundavlg|Ékunda]] among them—function as trade-meeting points, ritual centers, or both. They are small by northern standards (a thousand people is large), typically located at perennial springs or river junctions, and often have populations that swell and shrink dramatically with the migration cycles.
 
 ## Religion
 

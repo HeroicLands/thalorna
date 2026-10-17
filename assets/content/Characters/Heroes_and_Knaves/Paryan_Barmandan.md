@@ -417,7 +417,7 @@ sohl:
 
 ![[prynbrmndn|Paryan Barmandan]]{float=top-left}
 
-Paryan Barmandan stands 5'8" tall with a light build. She has light olive skin, black hair, and green eyes. Her features include an oval face, a hawkish nose, an angular jawline, well-defined lips, and prominent brows.
+Paryan stands 5'8" tall with a light build. She has light olive skin, black hair, and green eyes. Her features include an oval face, a hawkish nose, an angular jawline, well-defined lips, and prominent brows.
 
 # Dossier {#dossier}
 
@@ -503,7 +503,7 @@ Wealthy Collectors and Merchants
 
 ### Enemies
 
-Master [[being-harumazbarav|Harumaz Baravi]], Conservative Guild Master
+Master [[being-harumazbarav|Harumaz]], Conservative Guild Master
 : A senior figure in the Jewelers' Guild who represents the traditionalist faction, Harumaz views Paryan's experimental approaches as disrespectful to established conventions. He has subtly opposed her rise within the guild and spreads criticism that her work, while beautiful, lacks "true classical foundation." The two have never had direct conflict, but there is clear tension between them.
 
 ### Affiliations

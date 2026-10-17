@@ -12,7 +12,7 @@ The ring a king gives is a seat in his hall: the huscarl who holds one is heard 
 
 ## What This Standing Is
 
-A Hringberi is given a place and a ring by a hall: for service sworn in the hirv, for a marriage that puts a clan leader's household in a wife's hands, for the sight a velva carries, or for having outlived everyone else at the fire. The ring a lord gives is the culture's own mark of the standing, and four different doors lead to it.
+A hringberi is given a place and a ring by a hall: for service sworn in the hirv, for a marriage that puts a clan leader's household in a wife's hands, for the sight a velva carries, or for having outlived everyone else at the fire. The ring a lord gives is the culture's own mark of the standing, and four different doors lead to it.
 
 ## How the Law Treats a Person Here
 
@@ -32,4 +32,4 @@ The queen's keeping of a hall's keys and stores, and any office a kingdom seats 
 
 ## Where This Standing Is Held
 
-The five kingdoms—[[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—hold this standing under one Nordmal law, and the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] holds it under the same name.
+The five kingdoms—[[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Vithgard]]—hold this standing under one Nordmal law, and the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] holds it under the same name.

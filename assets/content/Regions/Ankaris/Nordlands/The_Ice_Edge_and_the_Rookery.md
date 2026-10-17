@@ -26,7 +26,7 @@ The rookery hunt is shorter and safer than the ice, and it is where a boy is fir
 
 Nothing on a seal is wasted. The meat is eaten fresh through the hungry end of winter, when the stored food is running out, and the ice-hunt comes exactly when a household needs it most. The _flom_ (blubber) is rendered into _glerv_ (oil), a lesser grade than whale-oil but enough to light a hall that has no whale. The skins make boots, coats and the waterproof covers of boats and sledges, and the hide is cut in a single long spiral into the tough thong rope a ship's rigging uses.
 
-Sealskins are also money. Along the northern coasts a bundle of good skins is a standard of value in [[lore-bartercnmy|barter]], alongside walrus ivory, and a household's sealskins carry its debts through a winter in [[lore-kinhalcrdt|hall credit]] the way coin carries them in the south. What is not needed at home goes south with the whale-oil to the [[place-midhalnrgn|Mídhalión Region]].
+Sealskins are also money. Along the northern coasts a bundle of good skins is a standard of value in [[lore-bartercnmy|barter]], alongside walrus ivory, and a household's sealskins carry its debts through a winter in [[lore-kinhalcrdt|hall credit]] the way coin carries them in the south. What is not needed at home goes south with the whale-oil to [[place-midhalnrgn|Mídhalión]].
 
 ## See Also
 

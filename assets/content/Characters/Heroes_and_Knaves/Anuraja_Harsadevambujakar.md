@@ -415,13 +415,13 @@ sohl:
 
 ![[anrjhrdvmbjkr|Anuraja Harshadevambujakar]]{float=top-left}
 
-Anuraja Harshadevambujakar stands 6'0" tall with a medium build. He has golden brown skin, dark brown hair, and deep brown eyes. His features include a diamond-shaped face, a straight nose, a soft jawline, full lips, golden brows, and rounded cheeks. He has a tattoo of a tiger on his forearm.
+Anuraja stands 6'0" tall with a medium build. He has golden brown skin, dark brown hair, and deep brown eyes. His features include a diamond-shaped face, a straight nose, a soft jawline, full lips, golden brows, and rounded cheeks. He has a tattoo of a tiger on his forearm.
 
-Most striking is the tiger tattoo on his right forearm, a creature rendered in fine detail that seems to move in candlelight. The tattoo marks his lineage: it indicates his training within the [[lore-vedyariclt|Vedyari]] tradition of shadow-work. His hands, with their precise fingers and evident dexterity, are as dangerous as any blade; despite their slender appearance, they possess devastating capability.
+Most striking is the tiger tattoo on his right forearm, a creature rendered in fine detail that seems to move in candlelight. The tattoo marks his lineage: it indicates his training within the [[lore-vedyariclt|Vedyaran]] tradition of shadow-work. His hands, with their precise fingers and evident dexterity, are as dangerous as any blade; despite their slender appearance, they possess devastating capability.
 
 # Dossier {#dossier}
 
-Anuraja was born into a city-state family of middling merchants in the [[place-vedyarargn|Vedyara Region]], the youngest child of a father whose business interests were built upon careful political positioning rather than trade itself. From earliest childhood, he displayed an unsettling affinity for violence—not the hot-blooded rage of a typical child, but a cold, analytical interest in how the most injury could be inflicted with the least effort.
+Anuraja was born into a city-state family of middling merchants in [[place-vedyarargn|Vedyara]], the youngest child of a father whose business interests were built upon careful political positioning rather than trade itself. From earliest childhood, he displayed an unsettling affinity for violence—not the hot-blooded rage of a typical child, but a cold, analytical interest in how the most injury could be inflicted with the least effort.
 
 At age eight, his father, recognizing something unusual in the boy, engaged instructors from the Vedyaran shadow-brotherhoods—organizations of trained assassins who maintain the balance of power through selective elimination of threats and inconvenient persons. For the next fifteen years, Anuraja underwent an intensive education unlike any formal schooling. He learned poisons from Master [Devan]{.name data-type="being/npc"}, studied the art of silent movement under the [Night-Walker]{.name data-type="being/npc"}, mastered the philosophy of clean assassination from the elderly Grandmother [Vex the Undying]{.name data-type="being/npc"}, and trained in weaponry under [Kesh the Scarred]{.name data-type="being/npc"}. By age twenty-three, he had completed his training and taken his first paid contracts.
 

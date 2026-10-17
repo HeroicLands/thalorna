@@ -45,7 +45,7 @@ A stranger at the gate of any Khelathi counting-house is asked the same question
 
 ## The Paperwork That Outgrew the Priesthood
 
-By the generation after the sea house the empire's records had outrun its scribes. The delta weighed and taxed every cargo, the [[affiliation-garhalzi|Gar-Hálzi]] chapters kept the temple accounts, and the king-list had begun to give months. All of it was written in the sacred hand: seven hundred signs, each cut with care, taught over years by the priests of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]], and fit for a tomb inscription and ruinous for a daybook.
+By the generation after the sea house the empire's records had outrun its scribes. The delta weighed and taxed every cargo, the [[affiliation-garhalzi|Gar-Hálzi]] chapters kept the temple accounts, and the king-list had begun to give months. All of it was written in the sacred hand: seven hundred signs, each cut with care, taught over years by the priests of [[affiliation-rethsaar|Reth'Sa'ar]], and fit for a tomb inscription and ruinous for a daybook.
 
 The bureaus of [[place-garmedjatozo|Gar-Medjatozo]] solved the problem in practice before anyone allowed it in law. Their clerks dropped the signs that a daybook never needed, joined the common sequences with ligatures, and wrote with a reed at the speed of a counting. The result was a hand that another clerk could read and a priest could not like.
 
@@ -57,7 +57,7 @@ The Reth'Sa'ar priesthood did not oppose it. The sacred hand was the god's, and 
 
 ## Two Hands
 
-After the decree a Khelathi scribe learned two things where his predecessors had learned one. The sacred hand was the prestige register: slow, exact, cut into stone, and kept for what lasts. The people's hand ([[skill-qalzscrscrpt|Qalezu Script]]) was the working register: quick, ligatured, abbreviated, and the hand in which most of the empire's business was written. Every educated Khelathi read the first or the second, and a stranger's schooling was measured by which.
+After the decree a Khelathi scribe learned two things where his predecessors had learned one. The sacred hand was the prestige register: slow, exact, cut into stone, and kept for what lasts. The people's hand ([[skill-qalzscrscrpt|Qalezu]]) was the working register: quick, ligatured, abbreviated, and the hand in which most of the empire's business was written. Every educated Khelathi read the first or the second, and a stranger's schooling was measured by which.
 
 ## What It Left
 

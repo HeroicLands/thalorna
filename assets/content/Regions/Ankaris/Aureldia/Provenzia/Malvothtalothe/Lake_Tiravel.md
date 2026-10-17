@@ -35,4 +35,4 @@ Which battle made it, the villages cannot say. The lake has been worth taking fo
 
 ## See Also
 
-- [[place-bldfldtiravlen|Blood-field of Tiravlen]] · [[lore-bloodfields|The Blood-fields of Provenzia]]
+- [[place-bldfldtiravlen|Blood-field of Tiravlen]] · [[lore-bloodfields|the Blood-fields of Provenzia]]

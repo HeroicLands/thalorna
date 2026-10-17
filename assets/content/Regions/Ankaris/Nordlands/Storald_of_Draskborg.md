@@ -13,7 +13,7 @@ data:
   subjects: [place-tvalgard, lore-sumarmal, lore-nrdlndsfnrl, lore-grukarfolk, lore-nordheimnclt]
 ---
 
-Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], Storald of Draskborg is the saga [[being-knlthnskrldmkh|Knilthann Skraldumak]] tells the [[lore-bondirnk|bundi]] standing their weeks on the wall at [[place-tvalgard|Tvalgard]], over the winter nights of the rotation, so that a new shift knows what the fort-duty asks of it. It is a _storald_ in the north's own sense: a history of two households told in plain prose, with stanzas quoted where the prose needs a witness. It belongs to the Tvalgard repertoire rather than to either household, and the two names it goes by mark who is listening—the hall calls it by the tower, and the bundi call it by the stone. Of its seven stanzas, two belong to the stone-mover, two to his neighbor's son, and three are the fort's own, made by the garrison skalds of the time and carried under the truth of the recital since. One line of the gate-stanza is gone; the [[lore-skaldating|Skaldating]] would not settle it between two readings, so the fort recites the stanza with the line left out. The saga does not name the district, as a fort-saga does not, and it does not say which winter.
+Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the saga [[being-knlthnskrldmkh|Knilthann Skraldumak]] tells the [[lore-bondirnk|bundi]] standing their weeks on the wall at [[place-tvalgard|Tvalgard]], over the winter nights of the rotation, so that a new shift knows what the fort-duty asks of it. It is a _storald_ in the north's own sense: a history of two households told in plain prose, with stanzas quoted where the prose needs a witness. It belongs to the Tvalgard repertoire rather than to either household, and the two names it goes by mark who is listening—the hall calls it by the tower, and the bundi call it by the stone. Of its seven stanzas, two belong to the stone-mover, two to his neighbor's son, and three are the fort's own, made by the garrison skalds of the time and carried under the truth of the recital since. One line of the gate-stanza is gone; the [[lore-skaldating|Skaldating]] would not settle it between two readings, so the fort recites the stanza with the line left out. The saga does not name the district, as a fort-saga does not, and it does not say which winter.
 
 ## The Gnurthendik and the Dvirnendik
 
@@ -56,7 +56,7 @@ The district talked about it through the summer. Most people thought the frost h
 
 ## The Rotation
 
-Every bundi in the [[affiliation-kingdmtrgd|Kingdom of Targud]] stands his weeks at the forts in his turn, and the turns go round the districts through the year, so that one district's turn falls in the sailing weeks and another's in the dark months. That year the district's turn fell at midwinter. The hersvald made the count at [[lore-vetrnaetr|Vetrnetr]]. Gnurthorv's name was in it and Dvurnthann's, and both were sent to [[place-driskborg|Draskborg]].
+Every bundi in [[affiliation-kingdmtrgd|Targud]] stands his weeks at the forts in his turn, and the turns go round the districts through the year, so that one district's turn falls in the sailing weeks and another's in the dark months. That year the district's turn fell at midwinter. The hersvald made the count at [[lore-vetrnaetr|Vetrnetr]]. Gnurthorv's name was in it and Dvurnthann's, and both were sent to [[place-driskborg|Draskborg]].
 
 Draskborg is a beacon-tower on a rise above the river, on the burned ground, a day and a half east of Tvalgard by the sledge road and two days back against the weather. It was raised to watch the river and not to hold it. There is a palisade around the rise, one gate on the Tvalgard side, the tower with the beacon laid on top of it, and a hall under the tower that sleeps two shifts. The whole of its duty is to see what comes up the river, to light the _dresk_ so that Tvalgard sees it, and to hold the gate until Tvalgard comes. It is cold.
 
@@ -74,7 +74,7 @@ In the third week of the duty [[lore-jol|Jel]] came in. The hall kept the lamp i
 
 ## The Lights on the Ice
 
-Before Jel was out the marsh froze hard, and after it the river. When the river freezes the [[lore-grukarfolk|Grukar Folk]] have a road, and the road comes up past Draskborg, which is why the turn in the dark months is the one no district wants.
+Before Jel was out the marsh froze hard, and after it the river. When the river freezes the [[lore-grukarfolk|Grukar]] have a road, and the road comes up past Draskborg, which is why the turn in the dark months is the one no district wants.
 
 On the tenth night of Jel the wind dropped. Dvurnthann had the river side. Some time after the middle of the night he called Gnurthorv over, and the two of them stood and looked down the river together, which they had not done before. There were lights on the ice, far down, where the river bends out of the marsh. There were a great many of them. They were moving, and they were coming up.
 
@@ -114,7 +114,7 @@ The Grukar came up out of the river-bend a little before dawn and sat down on th
 
 They came up the rise at the gate when the sun was on the tower, in a crowd, with the tall ones driving the small ones from behind, and they came again at midday, and again at dusk. Between the goings-up they sat on the ice, and the thin ones walked up and down behind them. The rank held the gate all three times. In the first going-up Gnurthorv took a spear under the rim of his shield, in the side above the hip, from one of the small ones that got down low. He killed the one that gave it to him. He did not go back from the gate, and he did not say he was hurt. At midday Dvurnthann saw the blood on the gatepost and said so. Gnurthorv said it was theirs. The bet in the hall was paid that night, to the man who had said it would be Dvurnthann, and that it would be about blood.
 
-That night he was given the bench nearest the fire and could not be made to lie on it. He sat up against the gatepost with his shield across his knees and spoke this, which is the verse [[affiliation-skaldscrcl|The Skalds' Circle]] holds for his last, though he lived two days after it:
+That night he was given the bench nearest the fire and could not be made to lie on it. He sat up against the gatepost with his shield across his knees and spoke this, which is the verse [[affiliation-skaldscrcl|the Circle]] holds for his last, though he lived two days after it:
 
 : Gnurthorv at the gatepost {#gatepost}
 

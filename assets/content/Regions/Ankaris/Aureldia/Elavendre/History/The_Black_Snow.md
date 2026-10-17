@@ -60,11 +60,11 @@ data:
         - why Mogha, who held the song for the thing that came through, was not asked
 ---
 
-In The Black Snow, the [[lore-aelendnppl|Áelendan People]] will cut an oak, an ash, a pine or an alder, and they do not cut a silver birch that is standing. The reason is a chief's mistake, and the people do not tell it as a story about him. They tell it as a story about the winter.
+[[lore-aelendnppl|The Áelendan]] will cut an oak, an ash, a pine or an alder, and they do not cut a silver birch that is standing. The reason is a chief's mistake, and the people do not tell it as a story about him. They tell it as a story about the winter.
 
 ## The Winter
 
-Snow came early that year and late, and it was deep. It killed the lambs inside the ewes and filled the cairns, and fire was the one thing that kept the people at [[place-eshalshldg|Ésalosa Lodge]]. The oak ran out, then the ash. The chief was **[Ghalmir]{.name data-type="being/npc"}**, [Tala]{.name data-type="being/npc"}'s grandson, who bore the face of the first [Dhargan]{.name data-type="being/npc"}, and he looked at the silver birch standing above the Lodge and said that it should be cut. The people let him. Nobody spoke against it.
+Snow came early that year and late, and it was deep. It killed the lambs inside the ewes and filled the cairns, and fire was the one thing that kept the people at [[place-eshalshldg|Ésalosa]]. The oak ran out, then the ash. The chief was **[Ghalmir]{.name data-type="being/npc"}**, [Tala]{.name data-type="being/npc"}'s grandson, who bore the face of the first [Dhargan]{.name data-type="being/npc"}, and he looked at the silver birch standing above the Lodge and said that it should be cut. The people let him. Nobody spoke against it.
 
 He also took the watch off the fog-hollow, for he needed hands to haul and split. The fog could sit unwatched for one spring, he said, and the people thought so too. The birch came down in a stand at dusk, and the hands that swung the axes went cold. After that night no starlight lit the bark of the trees that remained.
 
@@ -76,7 +76,7 @@ The right song was in the lore, and it was held whole by the chief's sister, **[
 
 ## Kinless
 
-The hall did not wait for the [[lore-flksinale|Sinale Folk]]. It met at the hearth of [[lore-tenaspr|Tena, the Hearth of Ésalosa]] and made Ghalmir Kinless: no hearth, no shade, no water, no name and no friend. He walked into the wood alone. The Sinale did not turn the paths against him; they turned of themselves. What he met in there he had earned, the Sinale say, and they keep what it was.
+The hall did not wait for the [[lore-flksinale|Sinale]]. It met at the hearth of [[lore-tenaspr|Tena]] and made Ghalmir Kinless: no hearth, no shade, no water, no name and no friend. He walked into the wood alone. The Sinale did not turn the paths against him; they turned of themselves. What he met in there he had earned, the Sinale say, and they keep what it was.
 
 ## The Return
 
@@ -88,9 +88,9 @@ The silver came back to the bark of the birch that were left, slowly, over four 
 
 ## What It Left
 
-- **The birch law.** No standing silver birch is felled in Áelendan country, ever, by anyone, for any reason, and the village of [[place-sourimael|Sóurimel]] inside [[place-silvrfrsts|The Silver Forests]] keeps it as strictly as the tribes do.
+- **The birch law.** No standing silver birch is felled in Áelendan country, ever, by anyone, for any reason, and the village of [[place-sourimael|Sóurimel]] inside [[place-silvrfrsts|the Silver Forests]] keeps it as strictly as the tribes do.
 - **The Kinless.** The sentence of Kinlessness is passed by a tribe's hall to this day. It is the worst the Áelendan have.
-- **[The Felled Stand]{.name data-type="place/site"}.** The stumps of the cut birch stand in a ring at the margin of the Silver Forests nearest the Lodge, and the young [[affiliation-alndnwrdns|Áelendan Wardens]] are brought to see it ([[place-silvrfrsts|The Silver Forests]]).
+- **[The Felled Stand]{.name data-type="place/site"}.** The stumps of the cut birch stand in a ring at the margin of the Silver Forests nearest the Lodge, and the young [[affiliation-alndnwrdns|Wardens]] are brought to see it ([[place-silvrfrsts|The Silver Forests]]).
 - **The pattern.** Failure, return and asking, and a yes that does not name its price, is the shape of every Áelendan telling after this one.
 
 ## See Also
@@ -98,4 +98,4 @@ The silver came back to the bark of the birch that were left, slowly, over four 
 - [[lore-theasking|The Asking]]—the lay that tells the Black Snow
 - [[lore-lowestpoolpct|The Pact at the Lowest Pool]]—the watch that was pulled
 - [[lore-firesnelgan|The Fires on Nelgan]]—the next time the people stood at the wood's edge
-- [[place-silvrfrsts|The Silver Forests]] · [[place-sourimael|Sóurimel]] · [[affiliation-alndnwrdns|The Áelendan Wardens]]
+- [[place-silvrfrsts|The Silver Forests]] · [[place-sourimael|Sóurimel]] · [[affiliation-alndnwrdns|the Áelendan Wardens]]

@@ -246,7 +246,7 @@ On the tundra the wind has scoured the snow back from a ridge, and a mound the s
 
 # Dossier {#dossier}
 
-The Woolly Rhino is the great grazer of the tundra and cold steppe, six to seven feet at the shoulder and up to thirteen or fourteen feet long. It lives alone on the northern plateaus of the [[place-nrdlndsrgn|Nordlands Region]] and the cold high steppe of [[place-idwkrrgn|Idvaqor]]. It is peaceful but fiercely territorial, and dangerous when defending its range or young.
+The Woolly Rhino is the great grazer of the tundra and cold steppe, six to seven feet at the shoulder and up to thirteen or fourteen feet long. It lives alone on the northern plateaus of the [[place-nrdlndsrgn|Nordlands]] and the cold high steppe of [[place-idwkrrgn|Idvaqor]]. It is peaceful but fiercely territorial, and dangerous when defending its range or young.
 
 ## Presentation
 

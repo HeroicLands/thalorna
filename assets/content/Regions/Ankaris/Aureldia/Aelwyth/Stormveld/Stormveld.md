@@ -21,7 +21,7 @@ data:
 
 "The [[place-nrdlndsrgn|Nordlands Region]] is where my grandfather's boat came from," a [[place-stormveil|Stormveil]] harbor pilot says, bringing a Nordheim hull in past the headland, "and the plain is where I was born, and I have never been asked which one is home." He grins, and then does not. "Mind the channel. It shifts."
 
-Stormveld is the land of the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]], the north-east of [[place-aelwyth|Aelwyth]]: [[place-stormplain|The Stormplain]] between [[place-nordfells|The Nordfells]] and [[place-sunderfells|The Sunderfells]]. It occupies something like a fifth of the island's land area, more than any other realm holds, and about 150,000 people live in it.
+Stormveld is the land of the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]], the north-east of [[place-aelwyth|Aelwyth]]: [[place-stormplain|the Stormplain]] between [[place-nordfells|the Nordfells]] and [[place-sunderfells|the Sunderfells]]. It occupies something like a fifth of the island's land area, more than any other realm holds, and about 150,000 people live in it.
 
 The northeastern coast of Aelwyth, with its fjord-like inlets and rocky headlands, was taken by Nordmen about sixty years ago, seafarers from the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], and they hold it still.
 
@@ -31,7 +31,7 @@ Fortified longhouses and harbors stand where the inlets give shelter, built to w
 
 ## The Conquest
 
-All of Stormveld was [[place-vardanreach|Vardanreach]] before the conquest: the plain, the Nordfells, the Sunderfells and the high valleys within them, held by [[lore-vardain|The Vardain]] for thousands of years. The Nordmen who took it call it Stormveld.
+All of Stormveld was [[place-vardanreach|Vardanreach]] before the conquest: the plain, the Nordfells, the Sunderfells and the high valleys within them, held by [[lore-vardain|the Vardain]] for thousands of years. The Nordmen who took it call it Stormveld.
 
 ## Facing North
 
@@ -48,5 +48,5 @@ Timber, thrall-worked produce and hides go north; iron, ships, men and quarrels 
 [[place-stormveil|Stormveil]]
 : the seat
 
-[[place-stormplain|The Stormplain]], [[place-nordfells|The Nordfells]], [[place-sunderfells|The Sunderfells]]
+[[place-stormplain|The Stormplain]], [[place-nordfells|the Nordfells]], [[place-sunderfells|the Sunderfells]]
 : its three countries

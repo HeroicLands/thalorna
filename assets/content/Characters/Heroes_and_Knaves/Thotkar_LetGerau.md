@@ -416,7 +416,7 @@ sohl:
 
 ![[thotkarletgr|Thotkar Let'Gerau]]{float=top-left}
 
-Thotkar Let'Gerau stands 5'10" tall with a heavy build. He has tawny skin, greying black hair, and green-brown eyes. His features include a diamond-shaped face, a prominent nose, a narrow chin, generous lips, high-set brows, and angular cheeks. He has a tattoo of a leaf on his wrist.
+Thotkar stands 5'10" tall with a heavy build. He has tawny skin, greying black hair, and green-brown eyes. His features include a diamond-shaped face, a prominent nose, a narrow chin, generous lips, high-set brows, and angular cheeks. He has a tattoo of a leaf on his wrist.
 
 # Dossier {#dossier}
 
@@ -424,7 +424,7 @@ Thotkar Let'Gerau stands 5'10" tall with a heavy build. He has tawny skin, greyi
 
 ### The Scholar's Path
 
-Born in 672 to a merchant family with modest social standing, Thotkar showed early genius with language and logic, prompting his family to arrange his apprenticeship with a respected litigant rather than training him in family commerce. Under the tutelage of Master Litigant [[being-aqenhophis|Aqenhofis]], a man of famed acumen and integrity, Thotkar studied the vast and involved legal codes that governed the [[affiliation-empireakhlth|Empire of Au'Khelathu]], learning the rules and the philosophical foundations underlying them. His aptitude was extraordinary; he mastered seven languages and became fluent in the legal traditions of multiple realms before reaching his twentieth year.
+Born in 672 to a merchant family with modest social standing, Thotkar showed early genius with language and logic, prompting his family to arrange his apprenticeship with a respected litigant rather than training him in family commerce. Under the tutelage of Master Litigant [[being-aqenhophis|Aqenhofis]], a man of famed acumen and integrity, Thotkar studied the vast and involved legal codes that governed [[affiliation-empireakhlth|Empire of Au'Khelathu's empire]], learning the rules and the philosophical foundations underlying them. His aptitude was extraordinary; he mastered seven languages and became fluent in the legal traditions of multiple realms before reaching his twentieth year.
 
 ### The Rise to Prominence
 
@@ -498,7 +498,7 @@ Priestess [[being-amqelitana2|Amqelitana]]
 The Widow [[being-zabuia2|Zabuia]]
 : A client whose case Thotkar defended without fee years ago, resulting in restoration of her family's property and dignity; she has become his patron and supporter, regularly bringing him additional cases and commending his work to others.
 
-Lord Magistrate [[being-khelamasamuq|Khelama Sa'Muku]]
+Lord Magistrate [[being-khelamasamuq|Khelama]]
 : The city's principal judicial authority who respects Thotkar deeply; though officially neutral, Khelama consistently favors Thotkar in scheduling and procedural matters, and regularly consults him on questions of legal interpretation.
 
 Master Scribe [[being-zeshelegezu2|Zeshelegezu]]

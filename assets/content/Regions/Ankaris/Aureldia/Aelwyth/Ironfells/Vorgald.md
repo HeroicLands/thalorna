@@ -14,8 +14,8 @@ data:
   packFolder: aelwyth
 ---
 
-**Vorgald** is a hold of the [[lore-flkkhazar|Khazár Folk]] in the eastern heights of
-[[place-ironfells|The Ironfells]], where the range meets the sea cliffs. It is the only Khazari presence
+**Vorgald** is a hold of the [[lore-flkkhazar|Khazari]] in the eastern heights of
+[[place-ironfells|the Ironfells]], where the range meets the sea cliffs. It is the only Khazari presence
 anyone on [[place-aelwyth|Aelwyth]] can name, and almost everything said about it is inference.
 
 ## What Is Known
@@ -34,7 +34,7 @@ You do not. The approaches are sheer, the weather closes them for much of the ye
 are where the mountain put them, in places humans do not go, and the Deep Folk have never made
 any secret of them.
 
-The [[affiliation-kngdmldrth|Kingdom of Aldorath]] has sent three expeditions in recorded history. Two turned back. The third returned having
+[[affiliation-kngdmldrth|Aldorath]] has sent three expeditions in recorded history. Two turned back. The third returned having
 found a doorway, in a cliff face, that would not open and could not be marked in any way that was still
 there the following season.
 
@@ -42,7 +42,7 @@ there the following season.
 
 There is a reason both elder races are on this island, and it is not coincidence.
 
-After [[lore-khazarturn|The Fall of Khazartúrn]] the [[lore-flksinale|Sinale Folk]] recovered [[miscgear-secondvoice|The Second Voice]], and the two peoples
+After [[lore-khazarturn|Khazartúrn]] the [[lore-flksinale|Sinale]] recovered [[miscgear-secondvoice|the Second Voice]], and the two peoples
 made the only agreement they have reached since: the relic would be **held in trust on Aelwyth, by both
 races together**—this being the one country in the world where Sinale and Khazari still shared ground,
 and therefore the only place neither would be trusted to keep it alone.
@@ -53,7 +53,7 @@ three thousand years overdue.
 
 What the Khazari of this island make of that is not discussed. It is worth noting only that they were
 promised something by the Sinale, did not receive it, were given no account of why—and that some
-centuries later the Sinale of [[place-hallowwood|The Hallowwood]] withdrew from a war and left them to
+centuries later the Sinale of [[place-hallowwood|the Hallowwood]] withdrew from a war and left them to
 finish it alone.
 
 ## The Old Kingdom
@@ -63,14 +63,14 @@ Aelwyth was once ruled by both elder races together, and it was not an ancient i
 
 Khazartúrn fell in 2427 BF and the two peoples stopped speaking everywhere in the
 world—except here. The Sinale and Khazari of Aelwyth in time united the island under a **single crown**, held
-by a Sinale king, and managed its affairs jointly for **six hundred years**. [[lore-jointcrown|The Joint Crown of Aelwyth]] began about 1585 BF. It is the only reconciliation
+by a Sinale king, and managed its affairs jointly for **six hundred years**. [[lore-jointcrown|The Joint Crown]] began about 1585 BF. It is the only reconciliation
 either race has ever attempted, and the works of that period are still in the ground: [[place-aelwyth|roads that run where
-no later road runs]], cut stone [[lore-vardain|The Vardain]] cannot match, foundations under three Aelwythan
+no later road runs]], cut stone [[lore-vardain|the Vardain]] cannot match, foundations under three Aelwythan
 towns that nobody has satisfactorily dated.
 
-It ended with people who had nowhere else to go. The **[[lore-pelwarpepl|Pelwar People]]** reached Aelwyth around **1200 BF**,
+It ended with people who had nowhere else to go. The **[[lore-pelwarpepl|Pelwar]]** reached Aelwyth around **1200 BF**,
 driven off the mainland by the [Varkhad]{.name data-type="lore/folk"} ([[lore-varkhadcnq|The Varkhad Conquest]]); two centuries of pressure became the **[Great
-War]{.name data-type="lore/history"}**; and in **984 BF** the king was killed by the Varkhad among them at [[place-threesisters|The Three Sisters]]. The surviving
+War]{.name data-type="lore/history"}**; and in **984 BF** the king was killed by the Varkhad among them at [[place-threesisters|the Three Sisters]]. The surviving
 Sinale withdrew into the forest that is now the Hallowwood and
 left the Khazari to finish the war alone.
 
@@ -89,7 +89,7 @@ of its kind in the world.
 
 The Nordmen conquest sixty years ago destroyed it. Most of the Vardain are thralls now. The Khazari did
 not intervene, for reasons they have not given, and their dealings with humanity have since contracted
-to the **eight and a half thousand free Vardain of [[place-vardainvalleys|The Vardain Valleys]]** immediately
+to the **eight and a half thousand free Vardain of [[place-vardainvalleys|the valleys]]** immediately
 below the hold—whom they admitted as refugees, protect, feed from, and use as their factors with
 everybody else.
 
@@ -101,7 +101,7 @@ that make a four-month season survive an eight-month year. Neither people could 
 without the other, and both know it.
 
 On rare occasions—a handful of times in a century—Vorgald deals directly with
-Aldorath or the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]. Every other transaction
+Aldorath or [[affiliation-kingdmdnvr|Dúnavarre]]. Every other transaction
 goes through Vardain hands.
 
 ## The Grukar
@@ -134,11 +134,11 @@ asked for more.
 
 No Aelwythan realm has a treaty, an understanding, an embassy or a correspondence with Vorgald. Nobody
 who was not born in the valleys has been invited in. The
-[[affiliation-dunavarsynod|Dúnavarre Synod]] has attempted contact repeatedly, by every method available to it, and
+[[affiliation-dunavarsynod|Synod]] has attempted contact repeatedly, by every method available to it, and
 records the results in a file it does not discuss.
 
 The Khazari have never been hostile. They have simply never answered.
 
 ## See Also
 
-- [[lore-flkkhazar|Khazari]] · [[place-ironfells|The Ironfells]]
+- [[lore-flkkhazar|Khazari]] · [[place-ironfells|the Ironfells]]

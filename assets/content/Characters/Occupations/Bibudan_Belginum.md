@@ -400,7 +400,7 @@ Bibudan Belginum is a 26-year-old man who stands 5'11" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel Region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Bibudan Belginum came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
+Born in the [[place-taruzelrgn|Taruzel region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Bibudan Belginum came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
 
 Bibudan has always been fascinated by the art of siege warfare and demolition. He trained as a sapper under a seasoned engineer and has become skilled in setting traps and demolishing structures. Bibudan is known for his planning and ability to work under pressure. He is dedicated to his craft and takes pride in ensuring that his work is both effective and safe.
 

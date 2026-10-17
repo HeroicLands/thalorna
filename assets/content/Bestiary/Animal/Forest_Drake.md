@@ -301,7 +301,7 @@ The oak over the path has a branch as thick as a horse, and the branch has been 
 
 The Forest Drake is the drake of the old forest of [[place-vrystwald|Vristwald]] and its deepwood, [[place-vethwald|Vethwald]]: eight feet from snout to tail-tip, scaled in greens that match the canopy, with four taloned limbs, a prehensile tail and a pair of leathery wings on which it glides from crown to crown and makes short, heavy flights. It lives in the trees, holds a hunting range of several square miles of old growth, and takes birds, squirrels, martens, fawns and whatever else comes under its branch. It is clever enough to learn a hunter's habits and to lie up where he passes.
 
-The [[lore-varokhiclt|Varokhi]] count it among the beasts of the forest and give it a wide berth.
+The [[lore-varokhiclt|Varokh]] count it among the beasts of the forest and give it a wide berth.
 
 ## Presentation
 

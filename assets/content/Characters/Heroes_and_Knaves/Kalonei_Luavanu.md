@@ -420,7 +420,7 @@ sohl:
 
 ![[klnlvn|Kalonei Luavanu]]{float=top-left}
 
-Kalonei Luavanu stands 6'1" tall with a medium build. He has deep ebony skin, black hair, and dark amber eyes. His features include an angular face, a straight nose, a refined jawline, full lips, fine brows, sculpted cheeks.
+Kalonei stands 6'1" tall with a medium build. He has deep ebony skin, black hair, and dark amber eyes. His features include an angular face, a straight nose, a refined jawline, full lips, fine brows, sculpted cheeks.
 
 # Dossier {#dossier}
 
@@ -436,7 +436,7 @@ In his early twenties he began to experiment beyond his father's ways, learning 
 
 ### The God of the Forge
 
-Like many port [[lore-kaliharanclt|Kaliharan]] islanders, Kalonei keeps the faith of the foreigners he grew up among. His devotion to [[lore-ustarondty|Ústaron]], the fire-god of [[affiliation-sacredforge|The Sacred Forge]] in the [[affiliation-arldnpnthn|Aureldian Pantheon]], is less a duty than a part of his work: in a well-tended kiln he sees a small, holy act of transformation, an echo of the god's own fire.
+Like many port [[lore-kaliharanclt|Kaliharan]] islanders, Kalonei keeps the faith of the foreigners he grew up among. His devotion to [[lore-ustarondty|Ústaron]], the fire-god of [[affiliation-sacredforge|the Sacred Forge]] in the [[affiliation-arldnpnthn|Aureldian Pantheon]], is less a duty than a part of his work: in a well-tended kiln he sees a small, holy act of transformation, an echo of the god's own fire.
 
 ## Psyche
 
@@ -494,7 +494,7 @@ Master Smith [Melovai]{.name data-type="being/npc"}
 : a famous Ilovanu smith whose forges burn nothing but Kalonei's charcoal, and whose public praise has sent other smiths looking for the same edge.
 
 [The Wardens' Armory]{.name data-type="place/structure"}
-: the armory of [[affiliation-wardensapproaches|The Wardens of the Approaches]], which forges the blades and boat-fittings of the pilots and the harbor watch and buys his charcoal for the purpose, steadily if not always promptly.
+: the armory of [[affiliation-wardensapproaches|the Wardens of the Approaches]], which forges the blades and boat-fittings of the pilots and the harbor watch and buys his charcoal for the purpose, steadily if not always promptly.
 
 Merchant-Artificer [Sornak]{.name data-type="being/npc"}
 : a dealer in fine tools and materials who holds the sole right to sell Kalonei's best charcoal in the three smaller ports.

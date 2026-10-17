@@ -422,7 +422,7 @@ sohl:
 
 ![[shezurzingat|Shezur Zin'Gatau]]{float=top-left}
 
-Shezur Zin'Gatau stands 6'3" tall with a heavy build. He has warm brown skin, very dark brown hair, and dark amber eyes. His features include a high-cheekboned face, a straight narrow nose, a tapered chin, generous lips, warm brows, and prominent cheeks. He has a tattoo of a serpent on his back.
+Shezur stands 6'3" tall with a heavy build. He has warm brown skin, very dark brown hair, and dark amber eyes. His features include a high-cheekboned face, a straight narrow nose, a tapered chin, generous lips, warm brows, and prominent cheeks. He has a tattoo of a serpent on his back.
 
 # Dossier {#dossier}
 
@@ -430,7 +430,7 @@ Shezur was born to the [Zin'Gatau clan]{.name data-type="affiliation/lineage"} d
 
 Upon his master's retirement, Shezur inherited the forge and established himself as the foremost supplier of functional weaponry to the Empire's military apparatus. His reputation spread quickly: soldiers entrusted their lives to Zin'Gatau blades and armor, knowing every piece had been tested and refined beyond simple adequacy. He married late at thirty-five, gaining two stepchildren from his union with [[being-megara|Megara]], a merchant's widow, though she passed seven years ago. Without heirs of his own blood, Shezur has begun mentoring promising apprentices, though he guards his knowledge jealously.
 
-Today, Shezur maintains his forge with obsessive dedication. Every dawn, before the city stirs, he stokes the fires that have burned continuously for nearly three decades. His workshop has become an institution—mercenary captains route themselves through the [[place-aukhelathrgq|Au'Khelathu Region]] specifically to commission pieces from his anvil.
+Today, Shezur maintains his forge with obsessive dedication. Every dawn, before the city stirs, he stokes the fires that have burned continuously for nearly three decades. His workshop has become an institution—mercenary captains route themselves through [[place-aukhelathrgq|Au'Khelathu]] specifically to commission pieces from his anvil.
 
 ## Psyche
 
@@ -438,7 +438,7 @@ Today, Shezur maintains his forge with obsessive dedication. Every dawn, before 
 
 Shezur is a man of few words but absolute conviction. He measures success not in gold or prestige, but in function—a weapon must cut, armor must protect, and anything beyond utility is mere decoration distracting from purpose. This philosophy makes him prized by warriors and infuriating to aesthetes. He respects dedication and honest labor above all else; a person who works hard and without pretense will find in him a loyal ally, while idleness or deception earns only his contempt.
 
-His gruff exterior covers a deep spirituality. He observes the rites of the [[affiliation-thubai|Faith of Thuba'i]] with great care, believing that the prosperity god guides his hands in the shaping of metal. He keeps a small altar in the forge's corner, making daily offerings of oil and bread. To Shezur, his craft is not separate from his faith—they are inseparable aspects of a sacred covenant with his deity.
+His gruff exterior covers a deep spirituality. He observes the rites of [[affiliation-thubai|Thuba'i]] with great care, believing that the prosperity god guides his hands in the shaping of metal. He keeps a small altar in the forge's corner, making daily offerings of oil and bread. To Shezur, his craft is not separate from his faith—they are inseparable aspects of a sacred covenant with his deity.
 
 ### Motivation
 

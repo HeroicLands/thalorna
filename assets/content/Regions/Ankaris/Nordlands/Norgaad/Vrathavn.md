@@ -22,13 +22,13 @@ Vrathavn is [[place-norgaad|Norgaad]]'s principal port on the northern coast, a 
 
 ## The Shield-Hall
 
-The heart of the town is [[place-shieldhall|The Shield-Hall]], where the town's most distinguished shield-maiden holds court and where the honor-bonds between crews are sealed. She is renowned for her victories in the shield-wall, she has trained generations of warriors, and her word is law in the settlement.
+The heart of the town is [[place-shieldhall|the Shield-Hall]], where the town's most distinguished shield-maiden holds court and where the honor-bonds between crews are sealed. She is renowned for her victories in the shield-wall, she has trained generations of warriors, and her word is law in the settlement.
 
 ## The Garrison and the Harbor
 
 Vrathavn is foremost a military settlement, though commerce follows strength. The town keeps a garrison of professional warriors, the closest thing Norgaad has to a standing army, and young fighters from across the kingdom come hoping to prove themselves worthy of a seat in a raider's crew. The harbor is never idle. Longships are repaired and provisioned, crews recruit for the summer raids, and tribute flows in from the outlying settlements. The smithies work day and night, the taverns are rowdy, and the whole town is perpetually preparing for war or for the wealth that war brings.
 
-A smith of Vrathavn is the center of one of the kingdom's grimmer tales, of a guard made from iron plates and human bones in the year of [[lore-stormveldtkn|The Taking of Stormveld]], while much of the fleet was away ([[lore-nrgadhstry|Histories and Legends of Norgaad]] has the account).
+A smith of Vrathavn is the center of one of the kingdom's grimmer tales, of a guard made from iron plates and human bones in the [[lore-stormveldtkn|Stormveld year]], while much of the fleet was away ([[lore-nrgadhstry|Histories and Legends of Norgaad]] has the account).
 
 ## See Also
 

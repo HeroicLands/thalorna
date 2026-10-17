@@ -22,7 +22,7 @@ data:
   language: khelathlng
 ---
 
-The priesthood of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] keeps the temple chronicle of the [[lore-khelathiclt|Khelathi]] in its precinct beside the [Great Temple of Uqa'a]{.name data-type="place/structure"} on [[place-yathtelgu|Yath-Telgu]], where the master copies of the king-lists are held, and the chronicle opens with [[lore-qettelgu|The Qet Telgu]]. The First Occasion is that opening as the temple tells it, in the terse voice of its scribes: entries, names and outcomes, each in its place. It gives the first Gar-Au by title alone and stops where the list of the [[lore-garauu|Gar-Auu]] begins, which is the Keeper of the King-Lists' charge. It dates nothing before the First Occasion and accounts for nothing older than it; the age of the world and the lineages that predate the valley's reckoning lie outside it, and the chronicle does not raise them.
+The priesthood of [[affiliation-rethsaar|Reth'Sa'ar]] keeps the temple chronicle of the [[lore-khelathiclt|Khelathi]] in its precinct beside the [Great Temple of Uqa'a]{.name data-type="place/structure"} on [[place-yathtelgu|Yath-Telgu]], where the master copies of the king-lists are held, and the chronicle opens with [[lore-qettelgu|the Qet Telgu]]. This is that opening as the temple tells it, in the terse voice of its scribes: entries, names and outcomes, each in its place. It gives the first Gar-Au by title alone and stops where the list of the [[lore-garauu|Gar-Auu]] begins, which is the Keeper of the King-Lists' charge. It dates nothing before the First Occasion and accounts for nothing older than it; the age of the world and the lineages that predate the valley's reckoning lie outside it, and the chronicle does not raise them.
 
 : The First Occasion {#chronicle}
 
@@ -37,7 +37,7 @@ Then the mound lifted from the waters. It is the mound in the middle of the rive
 
 The gods established the order of civilization upon that ground. Qe'aret gave it law. [[lore-psaqarudty|Saq'aru]] shaped it. [[lore-uzneradty|Uzn'era]] gave it the river that goes and comes again. [[lore-rethsaardty|Reth'Sa'ar]] set it down, so that it would be kept. This house keeps what he set down, and copies from it.
 
-In that year the first Gar-Au stood upon the mound. The valley was many, and he made it one. There was one crown and it was his. [[affiliation-empireakhlth|Empire of Au'Khelathu]] was founded on its river. The fire of Uqa'a was in him, and the god and the god-king stood together on the first ground, as they stand there now.
+In that year the first Gar-Au stood upon the mound. The valley was many, and he made it one. There was one crown and it was his. [[affiliation-empireakhlth|Au'Khelathu]] was founded on its river. The fire of Uqa'a was in him, and the god and the god-king stood together on the first ground, as they stand there now.
 
 From this year every year is numbered. The first year is this one, and every year after it is entered in its place. None is missing.
 

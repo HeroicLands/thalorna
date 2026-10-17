@@ -17,7 +17,7 @@ The working out of the tension is visible in [[affiliation-zeghetnelgu|Zeghet'Ne
 
 The crocodile is the god's creature and not the god. A cull is therefore a service commended to him under a rite, and the dispensation under which Zeghet'Nelgu hunts governs the manner of killing, not the killing itself.
 
-On one stretch of [[place-zumeleshrvr|The Zumelesh]] the same god is held under a noble family's charter and goes by the name [[lore-igelnarudty|Igelnaru]].
+On one stretch of [[place-zumeleshrvr|the Zumelesh]] the same god is held under a noble family's charter and goes by the name [[lore-igelnarudty|Igelnaru]].
 
 ## See Also
 

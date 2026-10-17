@@ -16,4 +16,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[lore-uronspr|The Uron Tekhi]]—place-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].
+See [[lore-uronspr|the Uron Tekhi]]—place-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].

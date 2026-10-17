@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-**Lin'Zemnu elu Au'Khelathu** is the chartered guild of the artisans of the [[place-aukhelathrgq|Au'Khelathu Region]], a broad membership that takes in every craft with no guild of its own. Its prestige rests on the reputations of its finest members, and it claims their credit while disapproving of most of the methods that earned it.
+**Lin'Zemnu elu Au'Khelathu** is the chartered guild of the artisans of [[place-aukhelathrgq|Au'Khelathu]], a broad membership that takes in every craft with no guild of its own. Its prestige rests on the reputations of its finest members, and it claims their credit while disapproving of most of the methods that earned it.
 
 ## Character
 

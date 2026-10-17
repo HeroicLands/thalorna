@@ -36,4 +36,4 @@ Hvarnthira is a 21-year-old woman who stands 5'5" tall with a medium build. She 
 
 # Dossier {#dossier}
 
-Hvarnthira is the princess of the [[affiliation-kingdomlgn|Kingdom of Malagna]], whose royal family has begun commissioning items from [[being-glrvrnstrmrt|Glirvrinna Snarvumak]]. She visits Glirvrinna's workshop in person to request the wedding trousseau and ceremonial garments for her betrothal to a foreign prince.
+Hvarnthira is the princess of [[affiliation-kingdomlgn|Malagna]], whose royal family has begun commissioning items from [[being-glrvrnstrmrt|Glirvrinna Stormrót]]. She visits Glirvrinna's workshop in person to request the wedding trousseau and ceremonial garments for her betrothal to a foreign prince.

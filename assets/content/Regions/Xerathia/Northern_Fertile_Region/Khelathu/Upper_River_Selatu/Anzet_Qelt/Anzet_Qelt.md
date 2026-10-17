@@ -19,7 +19,7 @@ data:
 
 "Walk the edge at dusk, when the heat goes out of the sand," a watch-priest tells the boy who carries his water. "That line of low walls is not a boundary. Every one of those walls marks a tomb, and every tomb belongs to somebody who is paying to have it watched."
 
-Anzet-Qelt is the land of [[affiliation-selatanztqlt|The Selat of Anzet-Qelt]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. About 320,000 people live on it, and it is the part of the upper river where the green stops and the tombs begin.
+Anzet-Qelt is the land of [[affiliation-selatanztqlt|the Selat of Anzet-Qelt]], one of [[affiliation-upperrivrslt|the Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. About 320,000 people live on it, and it is the part of the upper river where the green stops and the tombs begin.
 
 ## Character
 

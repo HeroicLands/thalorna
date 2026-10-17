@@ -8,7 +8,7 @@ tags: [draft, nyaluba]
 data: {packFolder: lorespiritsnyaluba, culture: nyalubaclt}
 ---
 
-Eagle Spirit is the totemic being venerated by the [Ngonzi]{.name data-type="affiliation/polity"} of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. For the cult, its
+Eagle Spirit is the totemic being venerated by the [Ngonzi]{.name data-type="affiliation/lineage"} of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. For the cult, its
 offices and its observances, see [[affiliation-nyalbeagl|Eagle Totem]]; for the kinds of guide
 and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].
 
@@ -27,4 +27,4 @@ spirits, are not party to the Long Pact, and are not certainly ancestors of anyo
 The eagle deals with them anyway. Whether it does so on the Ngonzi's behalf or on theirs is a
 question the clan does not answer to outsiders.
 
-The [Lobwezi]{.name data-type="affiliation/polity"} say the eagle-guide was in the highlands first and the Ngonzi came under it. The Ngonzi say it came with them, and they do not discuss the point with outsiders.
+The [Lobwezi]{.name data-type="affiliation/lineage"} say the eagle-guide was in the highlands first and the Ngonzi came under it. The Ngonzi say it came with them, and they do not discuss the point with outsiders.

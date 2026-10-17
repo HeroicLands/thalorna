@@ -801,11 +801,11 @@ sohl:
   flags: {"thalorna": {lang_family: Okharik (isolate)}}
 ---
 
-Okharik Language is a tongue of the Okharik (isolate) family. Fluency measures the sophistication of expression in Okharik, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Okharik is a tongue of the Okharik (isolate) family. Fluency measures the sophistication of expression in Okharik, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
-Okharik is the principal tongue of the kingdom of [[affiliation-okharis|Okharis]] and surrounding communities in the northern fertile regions of [[place-xerathia|Zerathia]]. Spoken by approximately 5-7 million people, Okharik occupies a unique position in the continent's linguistic landscape as the bridge language between the [[affiliation-empireakhlth|Empire of Au'Khelathu]] to the south and the distant civilizations of the east.
+Okharik is the principal tongue of the kingdom of [[affiliation-okharis|Okharis]] and surrounding communities in the northern fertile regions of [[place-xerathia|Zerathia]]. Spoken by approximately 5-7 million people, Okharik occupies a unique position in the continent's linguistic landscape as the bridge language between the [[affiliation-empireakhlth|Khelathi Empire]] to the south and the distant civilizations of the east.
 
 Unlike its neighbors, Okharik has developed a robust oral tradition alongside written literature. Religious texts in a sacred archaic form are preserved and recited by trained priests, while vernacular speech continues to evolve with marked vitality. The language reflects centuries of trade, cultural contact, and adaptation, making it a living repository of regional history.
 
@@ -821,7 +821,7 @@ Okharik is the tongue of the savanna clans and their temple-cities.
 
 **Endings.** Okharik words end in _-ing_, _-ari_, _-oro_, _-el_ or _-u_.
 
-**What Okharik leaves out.** It has no _th_ or _kh_, which belong to [[skill-khelathlng|Khelathi Language]], and no _kw_.
+**What Okharik leaves out.** It has no _th_ or _kh_, which belong to [[skill-khelathlng|Khelathi]], and no _kw_.
 
 ## Phonology
 
@@ -874,7 +874,7 @@ Okharik distinguishes five cardinal vowels, each occurring in short and long var
 Analysis of attested names reveals:
 
 Initial Clusters
-: Less common than in [[skill-vedyarlng|Vedyari Language]]; typically restricted to obstruent + liquid or fricative + stop combinations
+: Less common than in [[skill-vedyarlng|Vedyari]]; typically restricted to obstruent + liquid or fricative + stop combinations
 
 Syllable Structure
 : Predominantly CV; CVC structures appear frequently in medial positions
@@ -917,7 +917,7 @@ Okharik predominantly follows a **Subject-Verb-Object (SVO)** order in declarati
 
 ### Proto-Okhárik
 
-Okharik is an isolate language with uncertain external relationships. Some scholars propose ancient connections to languages of the far south (possibly related to [[skill-nyalbnlng|Nyáluban Language]] or other Central Zerathian languages), but evidence is sparse and speculative. Its isolate status has made it a focus of intense linguistic study, as it may represent a linguistic refuge population.
+Okharik is an isolate language with uncertain external relationships. Some scholars propose ancient connections to languages of the far south (possibly related to [[skill-nyalbnlng|Nyáluban]] or other Central Zerathian languages), but evidence is sparse and speculative. Its isolate status has made it a focus of intense linguistic study, as it may represent a linguistic refuge population.
 
 ### Classical Period (Age of Kingdoms)
 
@@ -1344,7 +1344,7 @@ Among the nobility and priesthood, extensive titulature is employed. These title
 
 ## Okharik Lexicon {#lexicon}
 
-The common greeting of Okharis, _Okharé, ne thalé_, hails a stranger as one of the people before it wishes him well. The two halves of [[lore-okharinclt|Okharin]] religious life, the [[lore-zohira|Zohira]] who are dealt with and [[lore-nkaruthardty|Nkaru'thar]], the Eternal Flame, who is worshipped, share one tongue, and this page is its word-hoard: the stems the clans and the cities use, what each ending makes of them, the rules a new word is built by, and the register of every name the setting gives in Okharis.
+The common greeting of Okharis, _Okharé, ne thalé_, hails a stranger as one of the people before it wishes him well. The two halves of [[lore-okharinclt|Okharin]] religious life, the [[lore-zohira|zohira]] who are dealt with and [[lore-nkaruthardty|Nkaru'thar]], the Eternal Flame, who is worshipped, share one tongue, and this page is its word-hoard: the stems the clans and the cities use, what each ending makes of them, the rules a new word is built by, and the register of every name the setting gives in Okharis.
 
 An Okharik stem names an act, and an ending says what part the act plays. _Korth-_ is to keep watch; _korthari_ is the guardian who keeps it, and _kortharira_ is a company of them. The same handful of endings is laid on every stem, and a title is two words: the office, then the thing it serves, set in the _-ing_ form that marks belonging. _Korthari Zohiring_ is the Guardian of the Spirits; _Korthari Nkaring_ is the Warden of the Flame.
 
@@ -1431,7 +1431,7 @@ ORDER BY position
 
 ## Making names {#making-names}
 
-**An Okharin person** carries a given name and a tribe: [[being-kirobashkm|Kiroba of the Shókuma]] is Kiroba, of the [[affiliation-shokumatrb|Shókuma Tribe]], and the tribe is named in the reader's tongue as _of the_. A man's given name commonly closes on _-o_ or _-u_, and a woman's on _-a_ or _-i_; the name lists above hold the names in use.
+**An Okharin person** carries a given name and a tribe: [[being-kirobashkm|Kiroba of the Shókuma]] is Kiroba, of the [[affiliation-shokumatrb|Shókuma tribe]], and the tribe is named in the reader's tongue as _of the_. A man's given name commonly closes on _-o_ or _-u_, and a woman's on _-a_ or _-i_; the name lists above hold the names in use.
 
 **A tribe** is named for its founder or its ground, with no ending of its own: _Shókuma_, _Magara_, _Táluméng_. **A city or a land** takes _-is_ when it is a seat: _Okharis_, _Zarhanis_.
 

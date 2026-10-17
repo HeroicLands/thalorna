@@ -378,6 +378,6 @@ sohl:
 
 **Role.** Captain of the [[affiliation-justbladeordr|Order of the Just Blade]], and gives military counsel.
 
-**Background.** A decorated warrior of several campaigns, including the genocidal crusade against the [[affiliation-saelvri|Saelvri]] ([[lore-saelvricrusade|The Saelvri Crusade]]).
+**Background.** A decorated warrior of several campaigns, including the genocidal crusade against the [[affiliation-saelvri|Saelvri]] ([[lore-saelvricrusade|the Saelvri Crusade]]).
 
-**Intrigue.** Secretly despises that crusade, holding it contrary to the true principles of the Order and of the [[affiliation-ardavon|Faith of Árdavon]]—and may act on her own conscience rather than the Order's official stance.
+**Intrigue.** Secretly despises that crusade, holding it contrary to the true principles of the Order and of [[affiliation-ardavon|Árdavon]]—and may act on her own conscience rather than the Order's official stance.

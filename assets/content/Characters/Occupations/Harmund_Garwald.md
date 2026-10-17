@@ -398,7 +398,7 @@ Harmund yra Garwald wur Falkenstein is a 55-year-old man who stands 6'0" tall an
 
 # Dossier {#dossier}
 
-Born in [[place-falkensten|Falkenstein]] to a [[lore-varokhiclt|Varokhi]] smithing family, Harmund is a weaponcrafter and armorer.
+Born in [[place-falkensten|Falkenstein]] to a [[lore-varokhiclt|Varokh]] smithing family, Harmund is a weaponcrafter and armorer.
 
 Harmund is a master blacksmith and weaponcrafter who has been forging weapons for over thirty years. His blades are known for their durability and sharpness, and he is held to be one of the finest weaponcrafters on the Nordmal frontier. He is strict with his apprentices, demanding precision and quality in every piece. He takes pride in his work, but age has begun to slow him, and he struggles to turn out as much as he did in his younger years.
 

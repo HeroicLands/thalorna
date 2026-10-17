@@ -394,7 +394,7 @@ Hildwyn Browning is a 20-year-old woman who stands 5'6" tall and is of moderate 
 
 Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Hildwyn Browning is a prostitute.
 
-Hildwyn works at a busy brothel but has strong ties to [[affiliation-graytide|The Gray Tide]]. While she keeps clients company, she secretly gathers information and helps the organization in various ways. Known for her charm and quick wit, she uses her position to move between the trade in pleasure and the trade in crime. She is determined to rise above her circumstances and dreams of one day leaving the life of a prostitute.
+Hildwyn works at a busy brothel but has strong ties to [[affiliation-graytide|the Gray Tide]]. While she keeps clients company, she secretly gathers information and helps the organization in various ways. Known for her charm and quick wit, she uses her position to move between the trade in pleasure and the trade in crime. She is determined to rise above her circumstances and dreams of one day leaving the life of a prostitute.
 
 ## Psyche
 

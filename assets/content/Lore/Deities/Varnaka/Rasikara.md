@@ -20,6 +20,6 @@ A fire-brand of consecrated wood is carried in every rite of purging. A fragment
 
 Rasikaran households keep an unbroken hearth-flame, carried from parent to child at each marriage. To let it gho out is a grave omen. An ember from it lights the pyre at a death in the family.
 
-His shrines stand at a city's edge and at its cremation grounds, and not at its center. Two are named where his fire has gone specifically to work: the cremation shrine outside [[affiliation-dhnrktjnpd|Danurkota Janapoda]], and the shrine at [[place-mukteshvara|Muktoshvara]], [[affiliation-rajaprjnpd|Rajepur Janapoda]]'s downstream village, which receives the dead of the janapoda.
+His shrines stand at a city's edge and at its cremation grounds, and not at its center. Two are named where his fire has gone specifically to work: the cremation shrine outside [[affiliation-dhnrktjnpd|Danurkota]], and the shrine at [[place-mukteshvara|Muktoshvara]], [[affiliation-rajaprjnpd|Rajepur Janapoda]]'s downstream village, which receives the dead of the janapoda.
 
-At [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]] a whole stream on the mountain's back slope is his and is never panned. Not every part of the mountain's wealth belongs to Mahajaya's order, and the stream says so.
+At [[affiliation-suvrgrjnpd|Suvarnageri]] a whole stream on the mountain's back slope is his and is never panned. Not every part of the mountain's wealth belongs to Mahajaya's order, and the stream says so.

@@ -14,7 +14,7 @@ data:
   banner: khelathubnr
 ---
 
-"Every layer beneath your feet was somebody's street," says a Wazu of the [[affiliation-psaqaru|Faith of Saq'aru]], leading a pilgrim up the ramp. "We are walking on the roofs of the city that came before."
+"Every layer beneath your feet was somebody's street," says a Wazu of [[affiliation-psaqaru|Saq'aru]], leading a pilgrim up the ramp. "We are walking on the roofs of the city that came before."
 
 **Zu-Leri** (the **High City**) is the oldest and highest tell of [[place-galezkara|Galezkara]], crowned by the [Temple of Saq'aru]{.name data-type="place/structure"}, dedicated to [[lore-psaqarudty|Saq'aru]], craft-god and patron of the capital, and ringed by the walled mansions of the priestly and noble houses. It stands above the rest of the city because the rest of the city was built on top of what came before it, layer upon layer, with Zu-Leri rising highest of all. The deepest excavation into its ground reaches further into the capital's past than any document in the archives of [[place-garmedjatozo|Gar-Medjatozo]]. [[place-waligelu|Wal-Igelu]], the **Drowned Way**, runs through it as a chain of gardens.
 

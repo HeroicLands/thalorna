@@ -12,11 +12,11 @@ A suitor at the [Court of Justice at Logthul]{.name data-type="affiliation/gover
 
 ## The Great Trial
 
-The town's most famous day is the trial in the saga of [[being-knlthnlwgvr|Knalthann Lawgiver]]. A powerful hersvald stood accused of treason against the king, the evidence was scarce and the witnesses divided, and Knalthann spent days hearing testimony and weighing the principles of the [[affiliation-eidgar|Faith of Eidgar]] before he gave judgment. On the day of the verdict he produced what everyone else had missed, an incriminating rune hidden among the accused's own belongings, and the hersvald was convicted.
+The town's most famous day is the trial in the saga of [[being-knlthnlwgvr|Knalthann Lawgiver]]. A powerful hersvald stood accused of treason against the king, the evidence was scarce and the witnesses divided, and Knalthann spent days hearing testimony and weighing the principles of [[affiliation-eidgar|Eidgar]] before he gave judgment. On the day of the verdict he produced what everyone else had missed, an incriminating rune hidden among the accused's own belongings, and the hersvald was convicted.
 
 ## The Court Today
 
-The Court grants standing to judges who ride far beyond the town, and it traces the custom to a song: [[doc-heroessgrd|Heroes of Asguard]] give [[being-vrldrvonhnd|Vraldorv One-Hand]] permanent standing there in [The Age of Halls]{.name data-type="lore/calendar"}, as an itinerant judge with authority across clan boundaries. A judge who holds that standing now rides on the same terms, and a ruling he gives in a hall many days away carries the court's weight with it.
+The Court grants standing to judges who ride far beyond the town, and it traces the custom to a song: the [[doc-heroessgrd|Heroes of Asguard]] give [[being-vrldrvonhnd|Vraldorv One-Hand]] permanent standing there in [The Age of Halls]{.name data-type="lore/calendar"}, as an itinerant judge with authority across clan boundaries. A judge who holds that standing now rides on the same terms, and a ruling he gives in a hall many days away carries the court's weight with it.
 
 ## The Name
 

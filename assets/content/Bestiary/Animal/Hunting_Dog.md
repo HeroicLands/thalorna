@@ -214,7 +214,7 @@ The kennel yard erupts into noise as the huntsman opens the gate, a dozen lean r
 
 # Dossier {#dossier}
 
-The Hunting Dog is the tracking and holding hound of the hunting companies, twenty-four to twenty-eight inches at the shoulder and forty-five to seventy pounds, bred over generations to follow a scent, pursue and bring down quarry. Packs are kept by the hunting companies of [[place-vrystwald|Vristwald]], the river-prince courts and estates of [[place-velanthrgn|Velanthia Region]], the hunt-lords of [[place-byzariargn|Bizaria Region]] and the noble houses of [[place-aureldirgn|Aureldia Region]]. They are far more intelligent than wild dogs.
+The Hunting Dog is the tracking and holding hound of the hunting companies, twenty-four to twenty-eight inches at the shoulder and forty-five to seventy pounds, bred over generations to follow a scent, pursue and bring down quarry. Packs are kept by the hunting companies of [[place-vrystwald|Vristwald]], the river-prince courts and estates of [[place-velanthrgn|Velanthia]], the hunt-lords of [[place-byzariargn|Bizaria]] and the noble houses of [[place-aureldirgn|Aureldia]]. They are far more intelligent than wild dogs.
 
 ## Presentation
 

@@ -395,7 +395,7 @@ Tharla Durgana is a 27-year-old woman who stands 5'8" tall and is slender. She h
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia Region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Tharla Durgana is a domestic servant.
+Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Tharla Durgana is a domestic servant.
 
 Tharla was captured during a raid on her village and sold into slavery in the city, where she works as a housemaid for a wealthy family. Although her tasks are not as grueling as a field laborer's, being treated as property wears on her. Her sharp mind and quick reflexes have helped her avoid punishment, but she longs for freedom.
 

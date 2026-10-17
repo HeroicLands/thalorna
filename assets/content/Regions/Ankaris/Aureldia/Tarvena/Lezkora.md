@@ -14,7 +14,7 @@ Lezkora is a fortress-city perched on a near-inaccessible plateau in the central
 
 ## The Seat of the High King
 
-The [[affiliation-kngdmstrth|Kingdom of Asturath]] is the heartland of Tarvenan independence, the mountain kingdom that the [[affiliation-vylarinmpr|Vylarian Empire]] never conquered, and Lezkora is the place where that pride sits enthroned. The High King's seat is traditionally here, and no invader has ever held the plateau; the legion that tried died in [[place-horngorge|The Horn Gorge]] below it ([[lore-horngorgebtl|The Battle of the Horn Gorge]]). The Astúrathi know every goat path in the ranges around it, and a hostile army that reaches the foot of the plateau has already paid for every mile.
+[[affiliation-kngdmstrth|Asturath]] is the heartland of Tarvenan independence, the mountain kingdom that [[affiliation-vylarinmpr|Vylaria]] never conquered, and Lezkora is the place where that pride sits enthroned. The High King's seat is traditionally here, and no invader has ever held the plateau; the legion that tried died in [[place-horngorge|the Horn Gorge]] below it ([[lore-horngorgebtl|The Battle of the Horn Gorge]]). The Astúrathi know every goat path in the ranges around it, and a hostile army that reaches the foot of the plateau has already paid for every mile.
 
 ## See Also
 

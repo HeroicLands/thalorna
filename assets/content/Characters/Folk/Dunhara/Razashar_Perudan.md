@@ -36,4 +36,4 @@ Razashar Perudan is a 32-year-old man who stands 5'8" tall with a light build. H
 
 # Dossier {#dossier}
 
-Razashar Perudan, styled Captain, is a younger officer who is secretly working with Tribal Elder [[being-zarvashkaver|Zarvash Kaveran]] to document the decisions of [[being-delnshfrdn|Delanash Ferudan]] for political criticism. He respects her military competence but has been convinced that her presence in command is corrupting Dunhari warrior traditions.
+Razashar Perudan, styled Captain, is a younger officer who is secretly working with Tribal Elder [[being-zarvashkaver|Zarvash]] to document the decisions of [[being-delnshfrdn|Delanash Ferudan]] for political criticism. He respects her military competence but has been convinced that her presence in command is corrupting Dunhari warrior traditions.

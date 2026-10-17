@@ -17,9 +17,9 @@ data:
 
 ## Overview
 
-Gar-Zanit is a town of looms. "Listen," says a master weaver, holding a hand up in the lane outside her workshop, "that is every house on this street at work. When it stops, somebody has died or a festival has started." The town is the capital of [[affiliation-selatgarzant|The Selat of Gar-Zanit]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], home to about 34,000 people.
+Gar-Zanit is a town of looms. "Listen," says a master weaver, holding a hand up in the lane outside her workshop, "that is every house on this street at work. When it stops, somebody has died or a festival has started." The town is the capital of [[affiliation-selatgarzant|the Selat of Gar-Zanit]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], home to about 34,000 people.
 
-It holds the selat's chief temple of the [[affiliation-psaqaru|Faith of Saq'aru]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its trade is the selat's: flax and the linen whose cloth clothes the empire.
+It holds the selat's chief temple of [[affiliation-psaqaru|Saq'aru]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its trade is the selat's: flax and the linen whose cloth clothes the empire.
 
 ## See Also
 

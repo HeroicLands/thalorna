@@ -32,4 +32,4 @@ None.
 
 ## Where This Standing Is Held
 
-The [[affiliation-vrystwldtrbs|Vristwald Tribes]] alone. Every member of [[affiliation-blckpnwlvs|The Blackpine Wolves]] also holds this standing, since full membership in that band is exclusion from the tribes around it.
+The [[affiliation-vrystwldtrbs|Vristwald Tribes]] alone. Every member of [[affiliation-blckpnwlvs|the Blackpine Wolves]] also holds this standing, since full membership in that band is exclusion from the tribes around it.

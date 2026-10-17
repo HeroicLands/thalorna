@@ -12,13 +12,13 @@ The Divided River is the age of two banks and two thrones. For most of two centu
 
 ## What Happened
 
-Seven houses rule in the age, some from [[place-galezkara|Galezkara]] and one from [[place-lenennezut|Lenen-Nezut]]. In 1462 ST (649 BF) the house of [Geze'el'Anlaghu]{.name data-type="affiliation/lineage"} is crowned in its own upriver city, and three of its Gar-Auu rule from there and are buried there ([[lore-thronelnz|The Throne at Lenen-Nezut]]). The list enters the line as the legitimate one for sixty-nine years and gives no reign to the Galezkara claimants who held the delta at the same time. It is the plainest case of the list choosing whom to count.
+Seven houses rule in the age, some from [[place-galezkara|Galezkara]] and one from [[place-lenennezut|Lenen-Nezut]]. In 1462 ST (649 BF) the house of [Geze'el'Anlaghu]{.name data-type="affiliation/lineage"} is crowned in its own upriver city, and three of its Gar-Auu rule from there and are buried there ([[lore-thronelnz|the Throne at Lenen-Nezut]]). The list enters the line as the legitimate one for sixty-nine years and gives no reign to the Galezkara claimants who held the delta at the same time. It is the plainest case of the list choosing whom to count.
 
-The claimants take the field. From 1525 to 1531 ST (586 to 580 BF) the house of [Zu'Magetu]{.name data-type="affiliation/lineage"} fights the upriver line along the river, and the war ends in the wheatland of [[place-iqeru|Iqeru]], where the Lenen-Nezut Gar-Au [Zab'el'Psaqa III]{.name data-type="being/npc"} is killed ([[lore-twothrones|The War of the Two Thrones]]). The victor is crowned [Kuz'el'Qar I]{.name data-type="being/npc"} at Galezkara in 1531 ST (580 BF), the upriver house is closed, and the granaries of the upper river are left half burned. A valley that cannot feed its army from its own fields is weak for the next eighty years.
+The claimants take the field. From 1525 to 1531 ST (586 to 580 BF) the house of [Zu'Magetu]{.name data-type="affiliation/lineage"} fights the upriver line along the river, and the war ends in the wheatland of [[place-iqeru|Iqeru]], where the Lenen-Nezut Gar-Au [Zab'el'Psaqa III]{.name data-type="being/npc"} is killed ([[lore-twothrones|the War of the Two Thrones]]). The victor is crowned [Kuz'el'Qar I]{.name data-type="being/npc"} at Galezkara in 1531 ST (580 BF), the upriver house is closed, and the granaries of the upper river are left half burned. A valley that cannot feed its army from its own fields is weak for the next eighty years.
 
-The weakness is used. In 1612 ST (499 BF), in [[lore-geletssn|Gelet]], the season of emergence, the hill-nomads of the western margins come down through the horse-country and destroy the last Galezkara army on the west-bank floodplain below Lenen-Nezut ([[lore-thaulgau|The Coming of the Tha'Ulgau]]). The Gar-Au [Amqel'Uzner I]{.name data-type="being/npc"} dies on the field, and the list enters him as having gone to the West in his fourteenth year and nothing more. The dead lie unwrapped, the flood covers them, and the ground is [[place-zelhalzi|Zel-Halzi]], the first blood-field in Khelathi memory. The priesthood crowns the nomad chief [Kuz'Uqa]{.name data-type="being/npc"}, "strong of the sun-lord."
+The weakness is used. In 1612 ST (499 BF), in [[lore-geletssn|Gelet]], the season of emergence, the hill-nomads of the western margins come down through the horse-country and destroy the last Galezkara army on the west-bank floodplain below Lenen-Nezut ([[lore-thaulgau|the Coming of the Tha'Ulgau]]). The Gar-Au [Amqel'Uzner I]{.name data-type="being/npc"} dies on the field, and the list enters him as having gone to the West in his fourteenth year and nothing more. The dead lie unwrapped, the flood covers them, and the ground is [[place-zelhalzi|Zel-Halzi]], the first blood-field in Khelathi memory. The priesthood crowns the nomad chief [Kuz'Uqa]{.name data-type="being/npc"}, "strong of the sun-lord."
 
-The [Tha'Ulgau]{.name data-type="affiliation/lineage"} hold the throne for four reigns and fifty-nine years. The fourth, crowned [Legir'Uzner I]{.name data-type="being/npc"}, "fair of the healer," in a name no nomad would have chosen, dies in 1671 ST (440 BF). The priesthood closes the house and raises another ([[lore-hillhouse|The Closing of the Hill House]]), and the conquerors' kin are given the western horse-pastures and become a Halzi'a house.
+The [Tha'Ulgau]{.name data-type="affiliation/lineage"} hold the throne for four reigns and fifty-nine years. The fourth, crowned [Legir'Uzner I]{.name data-type="being/npc"}, "fair of the healer," in a name no nomad would have chosen, dies in 1671 ST (440 BF). The priesthood closes the house and raises another ([[lore-hillhouse|the Closing of the Hill House]]), and the conquerors' kin are given the western horse-pastures and become a Halzi'a house.
 
 ## Rulers
 
@@ -28,11 +28,11 @@ The [Tha'Ulgau]{.name data-type="affiliation/lineage"} hold the throne for four 
 
 ## Its End
 
-The age closes in 1671 ST (440 BF) with the hill house, whose kin settle the western pastures, and the throne returns to Galezkara under [Azlet'Ralu]{.name data-type="affiliation/lineage"} ([[lore-akhrestcrown|The Restored Crown]]).
+The age closes in 1671 ST (440 BF) with the hill house, whose kin settle the western pastures, and the throne returns to Galezkara under [Azlet'Ralu]{.name data-type="affiliation/lineage"} ([[lore-akhrestcrown|the Restored Crown]]).
 
 ## See Also
 
-- [[lore-akhsunroad|The Sun's Road]] · [[lore-akhrestcrown|The Restored Crown]]—the ages on either side
+- [[lore-akhsunroad|The Sun's Road]] · [[lore-akhrestcrown|the Restored Crown]]—the ages on either side
 - [[lore-garauu|Gar-Auu]]—the king-list
-- [[place-zelhalzi|Zel-Halzi]] · [[place-horsebarrows|The Horse Barrows]] · [[place-lnzways|The Lenen-Nezut Ways]]—what the age left on the ground
+- [[place-zelhalzi|Zel-Halzi]] · [[place-horsebarrows|the Horse Barrows]] · [[place-lnzways|the Lenen-Nezut Ways]]—what the age left on the ground
 - [[lore-bloodfield|Blood-fields]]

@@ -49,7 +49,7 @@ sohl: {system: {commonSkills: []}}
 
 _Dunhari: Tigh'Baharan, "Circle of the Mighty"_
 
-A Dunhari boy learns to recognize the strip of deep-blue leather on a warrior's left arm before he learns his own genealogy, and he learns the rule that goes with it: a man who wears the strip has sworn never to draw on another Dunhari while an outside enemy is in the desert. **The Warrior's Circle of the Dunhara Tribes** is the body that keeps that oath, a gathering of the most respected warriors of every tribe that meets four times a year, at the season-turns, at the [[place-stoneofranaz|Stone of Ranaz]], and gathers the tribes against a threat none of them could meet alone.
+A Dunhari boy learns to recognize the strip of deep-blue leather on a warrior's left arm before he learns his own genealogy, and he learns the rule that goes with it: a man who wears the strip has sworn never to draw on another Dunhari while an outside enemy is in the desert. **The Warrior's Circle** is the body that keeps that oath, a gathering of the most respected warriors of every tribe that meets four times a year, at the season-turns, at the [[place-stoneofranaz|Stone of Ranaz]], and gathers the tribes against a threat none of them could meet alone.
 
 Type
 : a circle of warriors drawn from every tribe, with no captain over it
@@ -74,7 +74,7 @@ The Circle's full number is one hundred and eight warriors, the _baharan_, thoug
 
 The longest-serving members form an informal inner body, the **[Council of Scars]{.name data-type="affiliation/governmental"}** (_Tigh'Vast_), perhaps a dozen in any year. It does not vote separately, and when it is united the full Circle seldom goes against it.
 
-The Circle has no captain. The **Voice of the Quarter**, who opens the meeting, frames the questions and announces the rulings, is drawn by lot from those present and changes every meeting. The lot is drawn with marked stones, and between meetings [[affiliation-strmcltsbhrms|The Storm Cults of Báhramis]] keep the stones in trust, a small office of religious authority that has lasted centuries.
+The Circle has no captain. The **Voice of the Quarter**, who opens the meeting, frames the questions and announces the rulings, is drawn by lot from those present and changes every meeting. The lot is drawn with marked stones, and between meetings [[affiliation-strmcltsbhrms|the Storm Cults]] keep the stones in trust, a small office of religious authority that has lasted centuries.
 
 ## Notable Members
 
@@ -101,7 +101,7 @@ The [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]
 : the two are woven together. Many members are storm-cult initiates, the cults' practitioners open and close every meeting, and the cults' standing rests partly on the Circle's respect.
 
 The [[lore-sowidesclt|Sovidur]]
-: the herding tribes of the steppe of the [[place-khzryndsrtrgn|Khazryn Desert Region]] to the north, the Circle's oldest rivals. Most of its gatherings are against [[lore-sowidesclt|Sovidur]] raiders or over wells contested with one of their tribes, and it deals with each tribe separately, because no one speaks for them all.
+: the herding tribes of the [[place-khzryndsrtrgn|Khazryn steppe]] to the north, the Circle's oldest rivals. Most of its gatherings are against [[lore-sowidesclt|Sovidur]] raiders or over wells contested with one of their tribes, and it deals with each tribe separately, because no one speaks for them all.
 
 Foreign powers
 : the Circle does not treat with any power outside the desert. Foreign envoys who reach the Stone uninvited are received with formal courtesy and sent away with nothing.

@@ -14,7 +14,7 @@ data:
   packFolder: aelwyth
 ---
 
-The **Aldorvale** is the broad, lush, well-watered heart of the [[affiliation-kngdmldrth|Kingdom of Aldorath]], and the
+The **Aldorvale** is the broad, lush, well-watered heart of [[affiliation-kngdmldrth|Aldorath]], and the
 reason the kingdom is the largest on [[place-aelwyth|Aelwyth]]. Ninety-five thousand people live in it—half of
 Aldorath's total—on some of the best arable ground in the Aureldian west.
 
@@ -22,9 +22,9 @@ Aldorath's total—on some of the best arable ground in the Aureldian west.
 
 The vale grows grain, and grows it in quantity: wheat where the drainage allows, barley and oats
 everywhere else, on deep soil under the mild wet weather that suits them. It feeds Aldorath, and its
-surplus feeds a good deal of the rest of the island—the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] buys grain
-here every year, the [[affiliation-repblcndrth|Republic of Ondareth]] buys it in bad ones, and even
-the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] has bought it over the passes when the northern harvest failed,
+surplus feeds a good deal of the rest of the island—[[affiliation-kingdmdnvr|Dúnavarre]] buys grain
+here every year, [[affiliation-repblcndrth|Ondareth]] buys it in bad ones, and even
+[[affiliation-jrldmstrmvld|Stormveld]] has bought it over the passes when the northern harvest failed,
 through intermediaries, at prices nobody enjoyed.
 
 Being fed by Aldorath is a fact of Aelwythan politics that Aldorath's kings understand very well and

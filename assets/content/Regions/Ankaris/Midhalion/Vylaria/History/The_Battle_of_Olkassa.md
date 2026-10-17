@@ -63,7 +63,7 @@ data:
       unresolved: [how many of the dead on the field were never buried by anyone]
 ---
 
-In The Battle of Olkassa, a steward on the Olkassa estate ([[place-olcassafld|The Blood-field of Olkassa]]), walking a grain factor's mule along the headland on a May evening, stops where the track meets the wheat and does not step into it. "We cut round," he says. "Everyone cuts round. It is the best wheat in [[place-hylen|Hilen]], and I have never seen the factor's mule go into it."
+A steward on the Olkassa estate ([[place-olcassafld|The Blood-field of Olkassa]]), walking a grain factor's mule along the headland on a May evening, stops where the track meets the wheat and does not step into it. "We cut round," he says. "Everyone cuts round. It is the best wheat in [[place-hylen|Hilen]], and I have never seen the factor's mule go into it."
 
 ## The Field
 

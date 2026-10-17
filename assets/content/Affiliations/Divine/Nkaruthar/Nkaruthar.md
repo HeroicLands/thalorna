@@ -89,7 +89,7 @@ Nature
 Symbol
 : Three interlocking flames (one white, one gold, one red)
 
-**Nkaru'thar** is the faith in which the people of [[affiliation-okharis|Okharis]] worship [[lore-nkaruthardty|Nkaru'thar]]—the Eternal Flame—as the singular divine force from which all creation, destruction, and renewal flow. Unlike the polytheistic pantheons of the [[place-ankrscntnnt|Ankaris Continent]] or the Tantsou celestial bureaucracy, [[affiliation-tengwouronglei|Téngwou Rong Lei]], the Okharik faith centers on a single godhead whose power is held to manifest in three aspects, each embodied by one of the kingdom's three great city-states and their pyramidal temple complexes.
+**Nkaru'thar** is the faith in which the people of [[affiliation-okharis|Okharis]] worship [[lore-nkaruthardty|Nkaru'thar]]—the Eternal Flame—as the singular divine force from which all creation, destruction, and renewal flow. Unlike the polytheistic pantheons of the [[place-ankrscntnnt|Ankaris Continent]] or the celestial bureaucracy of [[affiliation-tengwouronglei|Tantsou]], the Okharik faith centers on a single godhead whose power is held to manifest in three aspects, each embodied by one of the kingdom's three great city-states and their pyramidal temple complexes.
 
 Nkaru'thar is not depicted in human or animal form. The Eternal Flame is understood as a living force—the fire that burned before the world existed, that kindled the first life, and that will one day consume all things so they may be reborn. Every hearth fire, every forge flame, every bolt of lightning is held to be a fragment of Nkaru'thar's presence in the mortal world.
 
@@ -107,7 +107,7 @@ The three aspects are not rivals but necessary complements—spirit without stre
 
 ### The Zohira: Intermediary Spirits
 
-In Okharik theology, between Nkaru'thar and the mortal world stand the [[lore-zohira|Zohira]]—demi-gods or intermediary spirits tied to specific aspects of life such as fertility, storms, rivers, death, and the hunt. The shamanic tradition that deals with them is the [[affiliation-yenorzhrng|Yenor Zohiring]], which is not a branch of this faith but the older ground it stands on. Their shrines are scattered across the kingdom, from the pyramidal complexes of the city-states to simple stone cairns in tribal territories.
+In Okharik theology, between Nkaru'thar and the mortal world stand the [[lore-zohira|zohira]]—demi-gods or intermediary spirits tied to specific aspects of life such as fertility, storms, rivers, death, and the hunt. The shamanic tradition that deals with them is the [[affiliation-yenorzhrng|Yenor Zohiring]], which is not a branch of this faith but the older ground it stands on. Their shrines are scattered across the kingdom, from the pyramidal complexes of the city-states to simple stone cairns in tribal territories.
 
 The zohira are not worshipped as independent gods but understood as emissaries and servants of the Eternal Flame, each governing a particular domain of mortal experience. Rural tribes maintain especially close relationships with their local zohira, with shamans who can commune with these spirits, interpret their will, and intercede on behalf of their people. The [[affiliation-shokumatrb|Shókuma Tribe]]'s tradition of **spirit communion** and the [[affiliation-magaratrb|Magara Tribe]]'s connection to **Spirit Blades**—weapons blessed by the zohira—exemplify this deeply personal dimension of the faith.
 

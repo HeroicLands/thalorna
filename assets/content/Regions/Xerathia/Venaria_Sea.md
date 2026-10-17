@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [xerathia], population: 0, packFolder: 
 
 ## Overview
 
-The Venaria Sea lies on the pilgrim road of the astrologers of the [[place-aukhelathrgq|Au'Khelathu Region]]: the sites sacred to the empire's earliest astrologers are scattered widely, and one of the ways between them goes across this water.
+The Venaria Sea lies on the pilgrim road of the astrologers of [[place-aukhelathrgq|Au'Khelathu]]: the sites sacred to the empire's earliest astrologers are scattered widely, and one of the ways between them goes across this water.
 
 ## The Crossing
 

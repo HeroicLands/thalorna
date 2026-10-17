@@ -50,17 +50,17 @@ data:
         - whether any band of the Storm crossed the strait, or whether the line was built against a landing that never came
 ---
 
-In The Eastern Line, a hill-country mule-driver on the old military road, asked who built it, does not answer the question. "Ask who paid for it," he says. "They were paying every spring, in good silver, to men who could have robbed the road."
+A hill-country mule-driver on the old military road, asked who built it, does not answer the question. "Ask who paid for it," he says. "They were paying every spring, in good silver, to men who could have robbed the road."
 
 ## The Storm Breaks
 
-[[lore-hndrdbnnrs|The Storm of the Hundred Banners]] came down [[place-wstrndscnt|The Western Descent]] in 315, crossed the [[place-dunharargn|Dunhara Region]] and reached the eastern walls of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], and there it broke up when its khan died. Its bands scattered over the Amradi shore. The eastern legions, garrisoned on the islands of the [[place-taruzelrgn|Taruzel Region]] across a strait forty to eighty miles wide, could not know which way they would go.
+[[lore-hndrdbnnrs|The Storm of the Hundred Banners]] came down [[place-wstrndscnt|the Western Descent]] in 315, crossed [[place-dunharargn|Dunhara]] and reached the eastern walls of [[affiliation-kngdmmrdd|Amradad]], and there it broke up when its khan died. Its bands scattered over the Amradi shore. The eastern legions, garrisoned on the islands of [[place-taruzelrgn|Taruzel]] across a strait forty to eighty miles wide, could not know which way they would go.
 
 ## The Line
 
 The legions held the islands' coasts first. In the decade after, they turned to the interior. The larger islands rise from narrow plains through rolling hills to arid scrub, and the hill tribes who lived there were as dangerous to a column as any landing. The legions raised a line of hill forts along the ridges and cut a military road between them, wide enough for a cohort and kept up by the garrisons.
 
-They manned the forts with the people who knew the hills. Hill horsemen, hired on the [[affiliation-vylarinmpr|Vylarian Empire]]'s pay, held the line against the bands the Storm might scatter and against one another. The practice outlasted the Storm: Taruzelian auxiliaries served in the imperial army for over a century, and many of them were the hill tribes' sons.
+They manned the forts with the people who knew the hills. Hill horsemen, hired on the [[affiliation-vylarinmpr|Empire]]'s pay, held the line against the bands the Storm might scatter and against one another. The practice outlasted the Storm: Taruzelian auxiliaries served in the imperial army for over a century, and many of them were the hill tribes' sons.
 
 ## What It Left
 

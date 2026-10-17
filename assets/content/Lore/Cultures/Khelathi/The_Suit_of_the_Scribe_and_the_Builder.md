@@ -30,7 +30,7 @@ The players of [[affiliation-linshelunthb|Lin'Shelun elu Thuba'i]] play **The Su
 
 The suit is the gods' own. Saq'aru raised the first house on [[place-yathtelgu|Yath-Telgu]] before there was anyone to live in it, Reth'Sa'ar entered it as his, and [[lore-qearetdty|Qe'aret]] heard the two of them. The players hold the two gods to be brothers, where the temples call them complements in constant and productive argument, and the whole of the comedy is procedure: who may witness, which hand, the weight of a brick against the weight of a tablet, and the four doors through which an entry closes.
 
-The text below is the collective's working roll, cues and all, with the drum's rests marked at the stop in each name of the Twelve, a scene cut and marked as not to be played before the Thaz'Lekhau of the [[affiliation-thubai|Faith of Thuba'i]], and a note in a player's hand. The suit dates nothing and belongs to no reign. The roll is of this age, [[lore-akhhsmeqes|The House of Meqes]], and the suit is played every Harvest in it.
+The text below is the collective's working roll, cues and all, with the drum's rests marked at the stop in each name of the Twelve, a scene cut and marked as not to be played before the Thaz'Lekhau of [[affiliation-thubai|Thuba'i]], and a note in a player's hand. The suit dates nothing and belongs to no reign. The roll is of this age, [[lore-akhhsmeqes|the House of Meqes]], and the suit is played every Harvest in it.
 
 _\[The roll of the players of Lin'Shelun elu Thuba'i, for the Harvest feasts. The drum rests at the stop in every name of the Twelve, here and throughout, and the players do not hurry it. The beer goes to the front benches before the Speaker stands. The song is at the end, so nobody leaves.\]_
 

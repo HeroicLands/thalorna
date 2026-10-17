@@ -420,7 +420,7 @@ sohl:
 
 ![[aglrmlsns|Agélara Stetes]]{float=top-left}
 
-Agélara Stetes stands 5'7" tall with a light build. She has olive skin, dark brown hair, and brown eyes. Her features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, and dark brows.
+Agélara stands 5'7" tall with a light build. She has olive skin, dark brown hair, and brown eyes. Her features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, and dark brows.
 
 # Dossier {#dossier}
 

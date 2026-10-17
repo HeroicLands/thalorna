@@ -9,7 +9,7 @@ data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 Kind
-: Animal-kin, of [[lore-thekindred|The Kindred]]
+: Animal-kin, of [[lore-thekindred|the Kindred]]
 
 Seat
 : [[place-drenavrspn|The Drenavar Spine]]
@@ -23,7 +23,7 @@ Posture
 Met through
 : [[skill-porsandsprt|Korsand Spirit Power]]
 
-Korsand, the Grey Wolf of the Ridge, is the presiding spirit of the wolves of one long ridge—not a wolf, and not all wolves,
+Korsandis the presiding spirit of the wolves of one long ridge—not a wolf, and not all wolves,
 but the ancestral presence the packs of that ridge belong to. He is the Kindred most hunt-rites of the [[lore-aelendnppl|Áelendan People]] in that country are addressed to, and the relationship is the plainest in the tradition:
 the tribe takes what the ridge offers and gives back what has been indicated.
 

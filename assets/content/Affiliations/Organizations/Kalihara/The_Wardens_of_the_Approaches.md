@@ -55,7 +55,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-The Wardens of the Approaches keep the water around [[place-klhrcntnnt|Kalihara Continent]]. They are the pilots who take foreign hulls in, the watchers who report every sail, and the harbor-wardens who keep the four anchorages, and they exist so that no stranger lands on the island uninvited. The corps is headed by the Warden of the Approaches, who keeps the watch from [[place-telvari|Telvari]], the islet at the head of the eastern approaches, and who answers to [[affiliation-councilisland|The Council of the Island]].
+The Wardens of the Approaches keep the water around [[place-klhrcntnnt|Kalihara]]. They are the pilots who take foreign hulls in, the watchers who report every sail, and the harbor-wardens who keep the four anchorages, and they exist so that no stranger lands on the island uninvited. The corps is headed by the Warden of the Approaches, who keeps the watch from [[place-telvari|Telvari]], the islet at the head of the eastern approaches, and who answers to [[affiliation-councilisland|the Council of the Island]].
 
 The Wardens answer to the Council and to no merchant. A captain who offers a pilot coin for a safer channel or an earlier berth has told the Wardens what sort of captain he is, and he does not make a second voyage to the island.
 

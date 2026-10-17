@@ -18,28 +18,28 @@ data:
 
 ## The Roll Beneath the Hill
 
-A cohort of the old legion of the [[affiliation-vylarinmpr|Vylarian Empire]] went into a hill in [[place-auldalon|Áuldalon]] in the war at [[place-valdun|Valdun]] and never came out. Its _Lusar_ demanded shelter of the thing that kept the hall, and the thing gave exactly what was demanded. The cohort holds the door against all comers, and the roll of those who hold it grows by anyone who eats the bread.
+A cohort of the old [[affiliation-vylarinmpr|Vylarian legion]] went into a hill in [[place-auldalon|Áuldalon]] in the war at [[place-valdun|Valdun]] and never came out. Its _Lusar_ demanded shelter of the thing that kept the hall, and the thing gave exactly what was demanded. The cohort holds the door against all comers, and the roll of those who hold it grows by anyone who eats the bread.
 
 ### Hook
 
-Pick the entry that suits the hero. Each leads to [[place-kptfr|The Kept Fire]].
+Pick the entry that suits the hero. Each leads to [[place-kptfr|the Kept Fire]].
 
 - **The thief.** A Vylarian collector in [[place-beravel|Péravel]] pays for a cohort's standard, and the drovers say the cohort's pay-chest is still in the hill with the banner. The only trouble is the old soldiers who guard it.
 - **The mercenary or common soldier.** A clerk of the _felzos_'s house wants proof a cohort held rather than deserted, so that its descendants can claim the arrears. A veteran who can read a muster-roll and a sword's wear is worth a fee and a share.
 - **The leader.** A drover family from the southern hills asks the party to bring back a boy who followed a lamp into the fold three years ago. The boy is counted at the door.
-- **The lone wanderer.** A bard of [[affiliation-bardicolgs|The Bardic Colleges]] at the hill's foot asks for company. She has the lament's last verse and needs to hear whether the cohort still answers it.
+- **The lone wanderer.** A [[affiliation-bardicolgs|College bard]] at the hill's foot asks for company. She has the lament's last verse and needs to hear whether the cohort still answers it.
 
 ### Overview
 
 The cohort's _Lusar_, [Solkimos]{.name data-type="being/npc"}, led it into the fold on a winter night, starving and harried, and demanded shelter in the Sovereign's name. The Giver, [Dáimela]{.name data-type="lore/spirit"}, the thing that keeps the hall, gave a fire, bread and a roof. The _Lusar_ swore to hold the place against all comers while the Sovereign's name stood. The Giver took the oath exactly.
 
-The [Kept]{.name data-type="affiliation"} do not age, do not sleep, and do not leave. They are not dead, and nothing of [[lore-theshadow|The Shadow]] is in them. They eat the hall's bread and answer the roll. A stranger who eats at the fire is entered on the roll and owes the hall its watch.
+The [Kept]{.name data-type="affiliation"} do not age, do not sleep, and do not leave. They are not dead, and nothing of [[lore-theshadow|the Shadow]] is in them. They eat the hall's bread and answer the roll. A stranger who eats at the fire is entered on the roll and owes the hall its watch.
 
 ### Scene One: The Door
 
 **Purpose.** Meet the sentry, learn the hall's grammar, and show that every approach costs something.
 
-**Situation.** The path to the door is swept stone, laid in the Vylarian way. The door is a slab hung on iron, and before it a sentry stands in the rotted harness of a legionary, spear grounded, helm tilted, as alert as a man on the first night of a watch. His challenge is in [[skill-vylarilng|Vylari Language]], a clipped phrase that ends on a rising note. If the party answers, he counts them aloud.
+**Situation.** The path to the door is swept stone, laid in the Vylarian way. The door is a slab hung on iron, and before it a sentry stands in the rotted harness of a legionary, spear grounded, helm tilted, as alert as a man on the first night of a watch. His challenge is in [[skill-vylarilng|Vylari]], a clipped phrase that ends on a rising note. If the party answers, he counts them aloud.
 
 **NPCs and threats.** The **Sentry** is the cohort's youngest man, and his face is as young as the day he took the post. He is dutiful, afraid, and very fast with a spear. He lowers it when the challenge is answered wrong. Behind him the door opens inward on a corridor lit from within, and four more Kept stand in the passage with their shields locked.
 
@@ -153,5 +153,5 @@ The [Kept]{.name data-type="affiliation"} do not age, do not sleep, and do not l
 - [[place-kptfr|The Kept Fire]]
 - [[lore-elvtribute|The Tribute of Élavendre]]—the war at Valdun
 - [[lore-theasking|The Asking]]—what asking is for
-- [[affiliation-vylarinmpr|Vylarian Empire]] · [[affiliation-bardicolgs|The Bardic Colleges]]
+- [[affiliation-vylarinmpr|Vylarian Empire]] · [[affiliation-bardicolgs|the Bardic Colleges]]
 - [[lore-vylrncrncy|Vylarian Currency]]

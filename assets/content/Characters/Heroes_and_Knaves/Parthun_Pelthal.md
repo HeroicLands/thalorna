@@ -419,7 +419,7 @@ sohl:
 
 ![[prthnblthl|Parthun Pelthal]]{float=top-left}
 
-Parthun Pelthal stands 5'9" tall with a medium build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a heart-shaped face, a small nose, a gentle jawline, dark brows. A distinguishing mark is a scar on the left foot.
+Parthun stands 5'9" tall with a medium build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a heart-shaped face, a small nose, a gentle jawline, dark brows. A distinguishing mark is a scar on the left foot.
 
 # Dossier {#dossier}
 

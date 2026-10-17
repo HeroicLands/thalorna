@@ -72,4 +72,4 @@ dragons' dead is held, where it is kept, and who keeps it—still cannot produce
 because it was never anywhere to be produced.
 
 Nearly three centuries later the term was not renewed and the return was refused, and
-[[lore-ridersdisb|The Lease Refused]] was a default rather than an ambush. The hold is still in force.
+[[lore-ridersdisb|what followed]] was a default rather than an ambush. The hold is still in force.

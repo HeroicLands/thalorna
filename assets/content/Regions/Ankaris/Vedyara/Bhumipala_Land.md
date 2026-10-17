@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Bhumipala Land is empty between the wells and crowded at them, and that one fact explains its roads, its forts and its kings. It is the land of the march kingdom of [[affiliation-bhumipala|Bhumipala]], the northwestern corner of the [[place-vedyarargn|Vedyara Region]]. It runs from the broken foothills of [[place-wstrndscnt|The Western Descent]] south and west to the shore of the [[place-sandhysmdr|Sandva-samedra]], and it is the driest country in the subcontinent that anybody farms.
+The land of Bhumipala is empty between the wells and crowded at them, and that one fact explains its roads, its forts and its kings. It is the land of the march kingdom of [[affiliation-bhumipala|Bhumipala]], the northwestern corner of [[place-vedyarargn|Vedyara]]. It runs from the broken foothills of [[place-wstrndscnt|the Western Descent]] south and west to the shore of the [[place-sandhysmdr|Sandva-samedra]], and it is the driest country in the subcontinent that anybody farms.
 
 Two million people live here, which is thin for a Vedyari land.
 
@@ -24,13 +24,13 @@ Two million people live here, which is thin for a Vedyari land.
 
 The foothills are the north, under the end of the wall. They are brown, broken and cold at night, and they carry sheep, goats and the horse-pastures the companies buy from. The [[affiliation-svapnasarisamaja|Svapnasari-sameja]] keeps its monasteries up here, high enough for the cold and dry enough for the quiet.
 
-The desert-margin is the west, where the foothills run out into the sand of the [[place-dunharargn|Dunhara Region]]. Nobody holds it and everybody crosses it. The line between the last Vedyari well and the first Dunhari one is a two-day ride and is not marked on the ground.
+The desert-margin is the west, where the foothills run out into the sand of the [[place-dunharargn|Dunhara]]. Nobody holds it and everybody crosses it. The line between the last Vedyari well and the first Dunhari one is a two-day ride and is not marked on the ground.
 
 The coast is the south, a strip of arid shore two hundred miles long behind sand spits and salt flats. Herding country runs to within a few miles of the beach and the cultivation is what the wells will carry. There is no deep natural harbor on any of it. Due west across the water is the eastern coast of [[place-xerathia|Zerathia]], which nothing sailing out of this land has ever made.
 
 ## The Road
 
-[[place-marchroad|The March Road]] is the spine of the land and the reason there is a kingdom on it. It comes up from [[place-sandhyapur|Sandyapur]] on the coast, turns west at [[place-ashvapada|Ashvapada]] under the foothills, and leaves Vedyara at the wells of [[place-marukupa|Marukupa]]. Every settlement of consequence in the land stands on it or a day off it.
+[[place-marchroad|The march road]] is the spine of the land and the reason there is a kingdom on it. It comes up from [[place-sandhyapur|Sandyapur]] on the coast, turns west at [[place-ashvapada|Ashvapada]] under the foothills, and leaves Vedyara at the wells of [[place-marukupa|Marukupa]]. Every settlement of consequence in the land stands on it or a day off it.
 
 ## Economy
 

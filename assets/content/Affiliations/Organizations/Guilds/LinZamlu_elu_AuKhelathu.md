@@ -40,7 +40,7 @@ data:
 
 ## Overview
 
-**Lin'Zamlu elu Au'Khelathu** is the chartered guild of the musicians and singers of the [[place-aukhelathrgq|Au'Khelathu Region]], open to any performer willing to pay its dues. Members invoke its name constantly, as a credential before an audience or a patron, and attend its meetings only sporadically. A patron who checks a musician's claimed membership against the roll finds the claim confirmed more often than the attendance would suggest.
+**Lin'Zamlu elu Au'Khelathu** is the chartered guild of the musicians and singers of [[place-aukhelathrgq|Au'Khelathu]], open to any performer willing to pay its dues. Members invoke its name constantly, as a credential before an audience or a patron, and attend its meetings only sporadically. A patron who checks a musician's claimed membership against the roll finds the claim confirmed more often than the attendance would suggest.
 
 ## Character
 

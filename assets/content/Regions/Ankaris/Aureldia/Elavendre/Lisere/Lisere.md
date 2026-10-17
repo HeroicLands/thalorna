@@ -29,7 +29,7 @@ frontier; it is a crossing, and it is crossed.
 
 [[place-vrystwald|Vristwald]] lies on the far shore—wild forest country held by the Varokh
 tribes, with large bands of [[lore-grukarfolk|Grukar]] ranging through it out of
-the [[place-grkrhlmrgn|Grukarholm Region]] to its east and south. Neither is a kingdom that could invade
+[[place-grkrhlmrgn|Grukarholm]] to its east and south. Neither is a kingdom that could invade
 Élavendre. Both raid it constantly, and Lísere is where they land.
 
 The consequence is a coast that is settled defensively: villages set back from the water, beacon
@@ -41,7 +41,7 @@ export problem.
 
 The bay is the nearer threat; the older one comes from the open sea.
 
-**Nordmen** raiders out of the [[place-nrdlndsrgn|Nordlands Region]] have worked this coast for centuries, in
+**Nordmen** raiders out of the [[place-nrdlndsrgn|Nordlands]] have worked this coast for centuries, in
 seagoing ships that have no need of narrows and no interest in a thirty-mile crossing. Where a Varokh
 war-party takes cattle and goes home, a Nordmen fleet arrives without warning, strikes anywhere on the
 northern shore, and is gone before a levy can be raised.

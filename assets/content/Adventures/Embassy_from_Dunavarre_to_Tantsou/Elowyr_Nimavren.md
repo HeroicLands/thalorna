@@ -21,6 +21,6 @@ data:
 
 **Role.** Ensures accurate record-keeping and correspondence.
 
-**Background.** Trusted for meticulous work and reliability in the [[affiliation-dunavarsynod|Dúnavarre Synod]]'s records.
+**Background.** Trusted for meticulous work and reliability in the [[affiliation-dunavarsynod|Synod]]'s records.
 
-**Intrigue.** In a secret relationship with [[being-loristaravel|Loris Taravel]], against the moral teaching of the [[affiliation-ardavon|Faith of Árdavon]]. Deeply in love and unaware of Loris's true motives; fears exposure would ruin them both, which makes him blackmail material.
+**Intrigue.** In a secret relationship with [[being-loristaravel|Loris Taravel]], against the moral teaching of [[affiliation-ardavon|Árdavon]]. Deeply in love and unaware of Loris's true motives; fears exposure would ruin them both, which makes him blackmail material.

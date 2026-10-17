@@ -8,7 +8,7 @@ tags: [reference, trade, economy]
 data: {packFolder: settinglore}
 ---
 
-A caravan-master explains The Celestial Road to a young factor on his first crossing, and he begins with the arithmetic. Silk costs a hundred weights of silver at the [[place-tantsouregin|Tantsou Region]] customs-house and sells for four or five hundred at [[affiliation-karvashion|Karvashion]]. The difference pays the tribes, the camels, the riders and the dead, and on a good crossing a little remains.
+A caravan-master explains the road to a young factor on his first crossing, and he begins with the arithmetic. Silk costs a hundred weights of silver at the [[place-tantsouregin|Tantsou]] customs-house and sells for four or five hundred at [[affiliation-karvashion|Karvashion]]. The difference pays the tribes, the camels, the riders and the dead, and on a good crossing a little remains.
 
 This note sets out the road: its route and length, the wells and the hand-offs, the beasts, the goods, what each stretch costs, who guarantees what, and why merchants pay all of it instead of going by sea.
 
@@ -42,11 +42,11 @@ East-bound; the road west reverses them.
 | 2,150          | 115      | the first Tantsou patrols                           | an escort of the Empire's riders for the last stretch                 |
 | 2,500          | 130      | the western pass of Tantsou                         | the garrison and customs-house; the Empire's claim begins             |
 
-**Branches.** A northern branch comes down from [[place-velanthrgn|Velanthia Region]]'s eastern reach and joins the road before [[place-qisomrktcmp|Qiiso]], carrying furs and amber. A southern spur leaves Qiiso, crosses [[place-dkrqrrgn|Diqraqor]] in about twenty days and reaches the Tellumel. From there roads run west to the [[affiliation-kngdmmrdd|Kingdom of Amradad]] and south to the pass-towns of [[place-meghadvara|Meghadvara]] and [[place-suryadvara|Suryadvara]].
+**Branches.** A northern branch comes down from [[place-velanthrgn|Velanthia Region]]'s eastern reach and joins the road before [[place-qisomrktcmp|Qiiso]], carrying furs and amber. A southern spur leaves Qiiso, crosses [[place-dkrqrrgn|Diqraqor]] in about twenty days and reaches the Tellumel. From there roads run west to [[affiliation-kngdmmrdd|Amradad]] and south to the pass-towns of [[place-meghadvara|Meghadvara]] and [[place-suryadvara|Suryadvara]].
 
 ## Beasts
 
-The two-humped camel carries the road. It takes cold and heat, goes five to seven days between wells with a full load, and eats what grows. The one-humped camel works the Tellumel and the Dunhari side. Horses carry the riders and escort, and are driven east as goods, since a horse walks itself to market. Mules and yaks work only the passes of [[place-graznmntns|The Grazian Mountains]].
+The two-humped camel carries the road. It takes cold and heat, goes five to seven days between wells with a full load, and eats what grows. The one-humped camel works the Tellumel and the Dunhari side. Horses carry the riders and escort, and are driven east as goods, since a horse walks itself to market. Mules and yaks work only the [[place-graznmntns|Grazian passes]].
 
 **No wheeled vehicle crosses**, for four reasons that any caravan-master gives. Draught oxen drink every day, and the wells are days apart. The sand seas swallow a wheel, and the gravel and the salt crust break an axle. There is no timber for a repair between the March and Tantsou. And the wells are dug, roofed and priced for camels. The March's paved road stops at the pass, and so does every cart.
 
@@ -105,10 +105,10 @@ The road runs in spring and autumn. Summer kills beasts in the central sands, an
 
 A merchant in Tantsou can send his silk by sea, and few do. Every leg of the sea route is worse than the one before it.
 
-1. **Pirates.** Strongholds on the islands between Tantsou and the [[place-vedyarargn|Vedyara Region]] harass the shipping of southern Tantsou, and make the first leg perilous.
+1. **Pirates.** Strongholds on the islands between Tantsou and [[place-vedyarargn|Vedyara]] harass the shipping of southern Tantsou, and make the first leg perilous.
 2. **Vedyara.** Rounding the subcontinent is hard, and its passes are no road west: each of the six carries three or four caravans a year, and the guides keep half the value.
-3. **The way on by land.** The shortest road from Vedyara's western end to Amradad crosses the [[place-dunharargn|Dunhara Region]], desert and tribal land, or goes through the [[place-aukhelathrgq|Au'Khelathu Region]], where the [[lore-garauu|Gar-Auu]] takes a heavy cut on all goods bound for the [[place-vylarianse|Vylarian Sea]].
-4. **The way on by sea.** The Vylarian Sea opens to the ocean only through a narrow western strait, so a ship bound from Tantsou to [[place-midhalnrgn|Mídhalión Region]] must sail round the whole of [[place-xerathia|Zerathia]], the longest voyage in the world.
+3. **The way on by land.** The shortest road from Vedyara's western end to Amradad crosses [[place-dunharargn|Dunhara]], desert and tribal land, or goes through [[place-aukhelathrgq|Au'Khelathu]], where the [[lore-garauu|Gar-Au]] takes a heavy cut on all goods bound for the [[place-vylarianse|Vylarian Sea]].
+4. **The way on by sea.** The Vylarian Sea opens to the ocean only through a narrow western strait, so a ship bound from Tantsou to [[place-midhalnrgn|Mídhalión]] must sail round the whole of [[place-xerathia|Zerathia]], the longest voyage in the world.
 
 The sea passage costs as many months as the camels and loses a larger share of what it carries. The Khazryn road is shorter, its losses are known, and every toll on it can be reckoned before the caravan leaves the March.
 

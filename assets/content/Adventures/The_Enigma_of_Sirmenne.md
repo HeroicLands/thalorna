@@ -14,7 +14,7 @@ data:
   packFolder: adventures
 ---
 
-Ancient ruins in the borderlands hold secrets from before human memory, guarded by the reclusive [[affiliation-aelndntrbs|Áelendan Tribes]] and their [[lore-flksinale|Sinale Folk]] allies. The artifacts within could reshape Provenzian power—if the party can uncover them without awakening what guards them.
+Ancient ruins in the borderlands hold secrets from before human memory, guarded by the reclusive [[affiliation-aelndntrbs|Áelendi tribes]] and their [[lore-flksinale|Sinale]] allies. The artifacts within could reshape Provenzian power—if the party can uncover them without awakening what guards them.
 
 ## Overview
 
@@ -26,7 +26,7 @@ The party is hired by:
 
 - A scholar or antiquarian seeking knowledge of the ancients
 - A noble seeking to expand Provenzian prestige and power
-- [[affiliation-ordoarcanis|Thordimalon]], claiming authority to study arcane artifacts
+- The [[affiliation-ordoarcanis|Thordimalon]], claiming authority to study arcane artifacts
 - A mysterious patron with their own hidden agenda
 
 **Initial Information:**
@@ -105,7 +105,7 @@ A Final Guardian
 - The artifact is secured (but what to do with it remains the question)
 - Knowledge of the ancient partnership between Áelendi and Sinale is recovered
 - The party may have awakened attention from the Sinale themselves (who may not appreciate disturbance)
-- Possession of the artifact brings interest from Thordimalon, foreign powers, and hidden factions
+- Possession of the artifact brings interest from the Thordimalon, foreign powers, and hidden factions
 - The Áelendan tribes' reaction depends on how the party treated them and what was disturbed
 
 **Consequences of the Artifact:**

@@ -8,7 +8,7 @@ tags: [mountain, sacred, frontier]
 data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
-**Sharamukha**, the mouth of arrows, is where the gold road comes down out of the hills below the [[place-suvarnagirijnpd|Suvarnageri Janapoda]] through a gorge barely wide enough for two carts, and opens onto the valley floor. About 415 AF the mountain kingdom of **[Dhaunapur]{.name data-type="affiliation/polity"}** came up this road toward the gold, and [[affiliation-bharyastan|The Kingdom of Bharyastan]]'s horse and the [[affiliation-dhnrktjnpd|Danurkota Janapoda]]'s recalled graduates stopped it at the mouth ([[lore-hghlndwar|The Highland War]]).
+**Sharamukha**, the mouth of arrows, is where the gold road comes down out of the hills below [[place-suvarnagirijnpd|Suvarnageri]] through a gorge barely wide enough for two carts, and opens onto the valley floor. About 415 AF the mountain kingdom of **[Dhaunapur]{.name data-type="affiliation/polity"}** came up this road toward the gold, and [[affiliation-bharyastan|Bharyastan]]'s horse and the [[affiliation-dhnrktjnpd|Danurkota Janapoda]]'s recalled graduates stopped it at the mouth ([[lore-hghlndwar|the Highland War]]).
 
 ## What Is There
 
@@ -27,7 +27,7 @@ The dead were few by the standard of the river wars, and both sides carried thei
 ## Hooks
 
 - **The struck roll.** The academies struck from their rolls the names of the graduates who stayed in Dhaunapur's service. One of those names belongs to a family now prominent in a patron kingdom, and the family wants it restored before a marriage. The academy masters want evidence of what that graduate did at Sharamukha, and the only witness left is the cairn.
-- **The recall.** Dhaunapur's present dynasty has quietly hired graduates of [[place-hiddenstring|The Academy of the Hidden String]], and the [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]'s sabhra has noticed. The masters must decide whether the Highland War's recall is a precedent or an exception before anyone asks them in public.
+- **The recall.** Dhaunapur's present dynasty has quietly hired graduates of [[place-hiddenstring|the Hidden String]], and the [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]'s sabhra has noticed. The masters must decide whether the Highland War's recall is a precedent or an exception before anyone asks them in public.
 
 ## See Also
 

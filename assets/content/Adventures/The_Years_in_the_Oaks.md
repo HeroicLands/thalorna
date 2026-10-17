@@ -25,7 +25,7 @@ A witch in a forest dell sells cures at the price of years, and the years feed t
 ## Hooks
 
 - **The thief.** A [[place-thornbury|Thornbury]] apothecary has a client dying of a wasting fever and will pay a thief to bring back a jar of the witch's cure. He does not say what the cure costs the one who fetches it.
-- **The mercenary or common soldier.** A border steading of the [[place-aldorathrgn|Aldorath Region]] hires guards to carry a sick child through the forest to the hollow, and it is a three-day march through the country of [[lore-grukaraelwyth|The Grukar of Aelwyth]].
+- **The mercenary or common soldier.** A border steading of [[place-aldorathrgn|Aldorath]] hires guards to carry a sick child through the forest to the hollow, and it is a three-day march through [[lore-grukaraelwyth|Grukar country]].
 - **The leader.** The war-chief [Haldrec Vane]{.name data-type="being/npc"} sends a chieftain who owes him a debt to fetch his daughter from the hollow, where she has gone to bargain for her mother's life. He says nothing of the oaks.
 - **The lone wanderer.** The wanderer's own sickness, a failing hand, a fading eye, has a cure rumored in the forest, and a trackstone path leads to it.
 
@@ -37,7 +37,7 @@ A witch in a forest dell sells cures at the price of years, and the years feed t
 
 **NPCs and threats.** The **root-sworn** are the clan's dead, bound into the oaks and called out to stand at the rim. They are grey, slow-spoken, patient and stiff with age, and they carry spears that have rotted to the color of bark. They speak as a clan council speaks, asking each stranger name, lineage and business. A stranger who lies is held in the roots. The oaks themselves move if disturbed: a branch comes down, or a root rises across the path.
 
-**Player choices.** Force: cut a way through the root-sworn, who are slow but rise again if the trees stand. Stealth: crawl under the roots at the dell's rim. Guile: answer the question with a clan name from the [[place-pshtrwldrns|Peshtar Wilderness]] and a plausible lineage. Parley: ask them what they are guarding and whom.
+**Player choices.** Force: cut a way through the root-sworn, who are slow but rise again if the trees stand. Stealth: crawl under the roots at the dell's rim. Guile: answer the question with a clan name from the [[place-pshtrwldrns|Peshtar country]] and a plausible lineage. Parley: ask them what they are guarding and whom.
 
 **Clues and rewards.** A root-sworn warrior will say, if asked well, that the clan lies in the trees and has not been told it is free to go. One of them carries a wooden token, a clan-mark, which he will give to a party that speaks to him as a kinsman.
 

@@ -32,7 +32,7 @@ a river is a road with one end in each world, and it goes somewhere.
 The [[affiliation-alndnwrdns|Áelendan Wardens]] exist for these. Their charge is the sacred geography
 of the interior, and their doctrine is graduated: a trespasser who blunders in is warned once and
 escorted out, and one who returns, or who desecrates, is dealt with finally. Their authority over an
-aralwen is recognized both by tribal custom and by the crown of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], and it is older than
+aralwen is recognized both by tribal custom and by the crown of [[affiliation-kngdmlvndr|Élavendre]], and it is older than
 either—it descends from the [Kindred Pact]{.name data-type="lore/law"}, the compact between the Áelendan and the land itself.
 
 That has put them in open conflict with the [[affiliation-ordoarcanis|Thordimalon]], which regards
@@ -50,7 +50,7 @@ tallies its losses privately, and sends more agents.
 
 ## The Name
 
-_Aralwen_ is [[affiliation-theoldway|The Old Way]]'s word, worn down from an older **arallwyn**—"the other place." The doubled consonant simplified, the ending fronted as it does in the names of [[lore-tenaspr|Tena, the Hearth of Ésalosa]] (_Tena_) and
+_Aralwen_ is [[affiliation-theoldway|the Old Way]]'s word, worn down from an older **arallwyn**—"the other place." The doubled consonant simplified, the ending fronted as it does in the names of [[lore-tenaspr|Tena, the Hearth of Ésalosa]] (_Tena_) and
 [[lore-tipelspr|Timel, the Hawk of the Spine]] (_Timel_), and the stress settled where the acute now marks it. Áelendan shamen use the plural
 **aralwain**; the Élavendren court, which prefers not to name such things precisely, says _the thin
 places_.

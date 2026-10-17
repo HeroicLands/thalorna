@@ -49,7 +49,7 @@ data:
 
 A traveler who climbs toward a Khazari hold sees cliffs: weathered rock, ledges, a few dark hollows, the stain where water runs down the face. Then a hollow turns out to be a window, a ledge a sill, and the stain a flue's dispersed smoke, and the whole face resolves into a city. The moment is a quiet one. Nothing was hidden; the city was finished to belong to its mountain, and it took the traveler that long to see it.
 
-That is the [[lore-flkkhazar|Khazár Folk]] in one view. They look for what the stone wants to be and help it become that, and the same discipline governs their homes, their mines, their craft, their law and their worship. To a Khazár a mountain has a grain, a history and something close to a will, and a good life is lived in agreement with it.
+That is the [[lore-flkkhazar|Khazari]] in one view. They look for what the stone wants to be and help it become that, and the same discipline governs their homes, their mines, their craft, their law and their worship. To a Khazár a mountain has a grain, a history and something close to a will, and a good life is lived in agreement with it.
 
 ## What the Stone Wants
 
@@ -79,7 +79,7 @@ The Khazari disdain a straight line. Tunnels wind because they follow the rock's
 
 No two holds are alike, because no two mountains are, and none is laid out on a grid. Most homes are shallow, set into the cliff face rather than deep in the mountain, and nearly every one has an outer face with openings for air and daylight, shaped to follow the rock's natural lines so that they never jar the eye. Passages run inside the rock, linking homes, workshops and common rooms, so no road or worn path scars the face.
 
-The one work in which what the Khazari wanted led what the stone offered is Khazartúrn (see [[lore-khazarturn|The Fall of Khazartúrn]]).
+The one work in which what the Khazari wanted led what the stone offered is Khazartúrn (see [[lore-khazarturn|the Fall of Khazartúrn]]).
 
 ## Light, Smoke and Water
 
@@ -103,13 +103,13 @@ Ordinary life happens near the light, in the shallow homes and the courts betwee
 
 A Khazari day begins at the face. Light comes in at the openings, the household eats what the farmers at the gate sent up, since a hold grows nothing of its own, and the working members go along the inner passages to the workshops, the forges and the workings. Children go to their teachers with slate and chalk.
 
-Before any cut, a worker listens. She taps the stone and hears how it rings, looks for the seam, follows it with her hand, and only then decides what the day's work is. Much of a working day is spent deciding not to cut. The rest goes on craft-records, on repairs to the work of earlier generations, and on the hand form of the [[skill-drthrkscrpt|Pirzath Script]] in a wax tablet's accounts. Evenings are spent near the light again. Little of a Khazár's life is spent in the deep places, and that is why they matter.
+Before any cut, a worker listens. She taps the stone and hears how it rings, looks for the seam, follows it with her hand, and only then decides what the day's work is. Much of a working day is spent deciding not to cut. The rest goes on craft-records, on repairs to the work of earlier generations, and on the hand form of [[skill-drthrkscrpt|Pirzath]] in a wax tablet's accounts. Evenings are spent near the light again. Little of a Khazár's life is spent in the deep places, and that is why they matter.
 
 ## Freeing the Ore
 
 Mining is central to Khazari life. Ore and minerals are necessary and desirable, and freeing them from the stone is honorable work. It is done in an old and almost ritual manner, by techniques that do the stone as little harm as they can.
 
-Tunnels follow the rock's own lines, so the stone provides its own buttressing. That lets the Khazari drive long tunnels without timber or masonry supports, and a narvavutám, a long tunnel that needs no prop, is the miner's masterpiece. A mine that needs propping shows that the miners did not listen, and a prop, a _sakap_, is a mark of shame on the working and on the name in its record. The mines Khazari engineers lay out for the [[affiliation-tantsouempr|Empire of Tantsou]] follow the rock in the same way and need no timber.
+Tunnels follow the rock's own lines, so the stone provides its own buttressing. That lets the Khazari drive long tunnels without timber or masonry supports, and a narvavutám, a long tunnel that needs no prop, is the miner's masterpiece. A mine that needs propping shows that the miners did not listen, and a prop, a _sakap_, is a mark of shame on the working and on the name in its record. The mines Khazari engineers lay out for [[affiliation-tantsouempr|Tantsou]] follow the rock in the same way and need no timber.
 
 ## Years of Listening
 
@@ -138,7 +138,7 @@ Her standing is her own. Khazari women carry beards as men do, hold the same cra
 
 ## Words for Stone, Two Forms of Letters
 
-The [[skill-khazarlng|Khazari Language]] has a rich vocabulary for rock, fracture, water and the character of stone, as a seafaring people has many words for wind and sea. To follow a seam, _luváz_, is one verb, and the living rock, _madhak_, is one noun. The [[skill-khazarlng#lexicon|Khazari Lexicon]] holds the words. They count in sixteens, which halve to eight, four, two and one, so ore, stores and gate-shares divide among houses with no fraction left over.
+The [[skill-khazarlng|Khazari tongue]] has a rich vocabulary for rock, fracture, water and the character of stone, as a seafaring people has many words for wind and sea. To follow a seam, _luváz_, is one verb, and the living rock, _madhak_, is one noun. The [[skill-khazarlng#lexicon|Khazari Lexicon]] holds the words. They count in sixteens, which halve to eight, four, two and one, so ore, stores and gate-shares divide among houses with no fraction left over.
 
 [[skill-drthrkscrpt|Pirzath]] has two forms. **Carved Pirzath**, _dalkapuráz_, is for what must last: oaths, laws, tombs and the founding of a hold, cut in stone, metal or wood. Its strokes are short and angled across the grain, never along it, and its line of text follows a seam, bedding line or natural edge of the stone rather than a ruled baseline, so no inscription runs straight. Reading carved Pirzath well means reading the stone. **The hand form of Pirzath**, _milgath_, is the everyday writing, flowing, curved and joined: slate and chalk for teaching, tallies and notes; wax tablets for drafts and accounts; ink on hide or parchment for letters and books; and thin sheets of lead or copper cut with a stylus for records meant to last without being monumental.
 
@@ -152,7 +152,7 @@ The Khazari keep no single founding scripture. Their artifacts are records and o
 
 ## Craft as Prayer
 
-The Khazari are not much given to worship. The one they venerate is [Puthakun]{.name data-type="being/npc"} (see [[lore-khazararrv|The Coming of the Khazari]]), remembered as the servant of [[lore-goddreams|The God of Dreams]] (Luváth). Puthakun led the seven clans out of [Humadhan]{.name data-type="place/world"} alive: he is the savior of the Khazari, and every line on [[place-worldthlrn|The World of Thalorna]] runs back to someone he brought through. They honor him the way they honor any worker whose deed outlasts him. His name is kept, his deed is remembered below, and good work is the thanks a Khazár gives him. Luváth they recognize as Puthakun's master, the light that endures in deep places and the wisdom found in patient craft, and they ask little of the god and say little to it.
+The Khazari are not much given to worship. The one they venerate is [Puthakun]{.name data-type="being/npc"} (see [[lore-khazararrv|the Coming of the Khazari]]), remembered as the servant of [[lore-goddreams|the God of Dreams]] (Luváth). Puthakun led the seven clans out of [Humadhan]{.name data-type="place/world"} alive: he is the savior of the Khazari, and every line on [[place-worldthlrn|Thalorna]] runs back to someone he brought through. They honor him the way they honor any worker whose deed outlasts him. His name is kept, his deed is remembered below, and good work is the thanks a Khazár gives him. Luváth they recognize as Puthakun's master, the light that endures in deep places and the wisdom found in patient craft, and they ask little of the god and say little to it.
 
 Shaping stone and metal with skill and patience is itself a form of prayer: work offered in Puthakun's memory and in accord with the mountain, and an ordinary Khazár keeps faith chiefly by working well. Listening before a cut is the commonest act of devotion in a hold, and it is performed every working day.
 
@@ -162,7 +162,7 @@ The remembering is done below. Each hold keeps its shrines, _huzafal_, and its d
 
 The Khazari year is marked by the occasions on which the whole hold goes down.
 
-- **The turning of the year.** The hold goes down to its deepest hall for a night, lamps are lit there, and the year's craft-records are read. The rite renews the hold's accord with its mountain, and [[lore-vardain|The Vardain]] beneath [[place-vorgald|Vorgald]] mark it in their own calendar.
+- **The turning of the year.** The hold goes down to its deepest hall for a night, lamps are lit there, and the year's craft-records are read. The rite renews the hold's accord with its mountain, and [[lore-vardain|the Vardain]] beneath [[place-vorgald|Vorgald]] mark it in their own calendar.
 - **The finding.** On the day its cave was found, a hold remembers its finder and reads its founding inscription. The feast reminds the hold that its cave was given to it.
 - **The reading of the account.** At its appointed intervals the account of Khazartúrn's fall is read aloud below. It is the hold's reminder of what it must prevent.
 - **Oath-days.** Undertakings that bind a house or a hold, the admission of an apprentice to strike, and the swearing of a worker to a house's craft are made below, and the oath is cut where it was spoken.
@@ -227,7 +227,7 @@ Help comes from the nearest ring first. A family short of bread in a lean month 
 
 Teaching works the same way. Say your house holds a forge, and you have the ear for reading a cave. Your own masters cannot teach what their craft does not hold, so a master of another house takes you as apprentice, and the payment is what the craft-record shows of you in the years after.
 
-Defense is the whole hold's charge: the watch on the approaches, the refuge and its stores, and the war against the [[lore-grukarfolk|Grukar Folk]]. Kill a Grukar on sight, wherever you meet one, inside your own valleys or far beyond them. The Grukar are the weapon that destroyed Khazartúrn, and you have heard the account of that fall read aloud in the deep.
+Defense is the whole hold's charge: the watch on the approaches, the refuge and its stores, and the war against the [[lore-grukarfolk|Grukar]]. Kill a Grukar on sight, wherever you meet one, inside your own valleys or far beyond them. The Grukar are the weapon that destroyed Khazartúrn, and you have heard the account of that fall read aloud in the deep.
 
 ## Clan, House and Line
 
@@ -245,7 +245,7 @@ Tantsou is the one human realm with a lasting relationship with the Khazari. The
 
 ## Held in Service
 
-The Khazari held humans in service. Before the withdrawal, human tribes mined for them, cut their timber, drove their herds and swore to them as subjects, and the Khazari taught the peoples near their first holds to farm in order to make a larder, not a civilization. Their own account is that nothing was given that mattered. When the [[lore-nordheimnclt|Nordheimn]] took the plain below Vorgald and enslaved the Vardain who had fed the hold for millennia, the Khazari did not intervene and have not said why.
+The Khazari held humans in service. Before the withdrawal, human tribes mined for them, cut their timber, drove their herds and swore to them as subjects, and the Khazari taught the peoples near their first holds to farm in order to make a larder, not a civilization. Their own account is that nothing was given that mattered. When the [[lore-nordheimnclt|Nordmen]] took the plain below Vorgald and enslaved the Vardain who had fed the hold for millennia, the Khazari did not intervene and have not said why.
 
 ## Listening Stops at the Rock
 

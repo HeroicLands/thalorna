@@ -9,7 +9,7 @@ data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 190, packFol
 ---
 
 **Estivren** sits where the terraces give out and the hill pasture begins. It is the oldest settlement
-in the [[place-zuravlenrgn|Zuravlen Region]]—its name belongs to an older stratum than [[place-elthrembis|Eltrembis]] or [[place-blavera|Blavera]]—and it has never been much interested in peaches.
+in [[place-zuravlenrgn|Zuravlen]]—its name belongs to an older stratum than [[place-elthrembis|Eltrembis]] or [[place-blavera|Blavera]]—and it has never been much interested in peaches.
 
 Use Estivren as the model of an **upland pastoral manor**, and as the reason the valley below works.
 

@@ -10,7 +10,7 @@ data: {demonym: null, lore: [recensio], parents: [alyssa], population: 0, packFo
 
 ## Overview
 
-The Fenced Ground is a tract of good farmland that nobody farms, a day's ride from [[place-velysara|Velisara]]. It is the ground where [[lore-recensio|The Therona of Alessa]] ended in 75 BF, and nearly eight centuries on it is still bare. A fence runs round it, kept in repair, and the grass inside the fence is thin and does not take.
+A day's ride from Velisara there is a tract of good farmland that nobody farms, a day's ride from [[place-velysara|Velisara]]. It is the ground where [[lore-recensio|the Therona of Alessa]] ended in 75 BF, and nearly eight centuries on it is still bare. A fence runs round it, kept in repair, and the grass inside the fence is thin and does not take.
 
 A farmer whose holding adjoins the fence gives carters asking for a short cut across it the local rule about [[affiliation-ordoarcanis|Thordimalon]]'s patrol: "Go round by the road. The Order's patrol will ask you to turn back once, and it does not ask twice."
 

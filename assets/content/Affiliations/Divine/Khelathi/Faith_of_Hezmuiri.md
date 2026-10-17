@@ -92,7 +92,7 @@ His worship also reaches into daily life through amulets against decay and corru
 
 ## Organization
 
-Essentially every person needs these priests one day, and the preparation of tombs and burial goods creates enormous economic activity, so the priesthood of Hezmu'iri is among the largest and most powerful in the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. The Thaz'Lekhau (High Priest) of Hezmu'iri typically holds influence second only to the [[lore-garauu|Gar-Au]]'s and can at times rival it, depending on the political alignments of the day and the strength of the individual priesthoods.
+Essentially every person needs these priests one day, and the preparation of tombs and burial goods creates enormous economic activity, so the priesthood of Hezmu'iri is among the largest and most powerful in [[affiliation-empireakhlth|Au'Khelathu]]. The Thaz'Lekhau (High Priest) of Hezmu'iri typically holds influence second only to the [[lore-garauu|Gar-Au]]'s and can at times rival it, depending on the political alignments of the day and the strength of the individual priesthoods.
 
 Beneath the High Priest an extensive hierarchy of Lem'Nelgir (ordained priests) manages the specialties of the domain. Some are scholars and ritualists who chant the required prayers and supervise the complex ceremonies. Some are master embalmers who have spent decades perfecting the technical knowledge to preserve bodies perfectly. Some run the vast facilities themselves: the drying beds where bodies lie in natron, the workshops where linen is prepared, the chambers where aromatic oils and ointments are made.
 
@@ -102,10 +102,10 @@ One feature sets this priesthood apart: family inheritance plays a large part in
 
 ## Relations
 
-The faith and the [[affiliation-wethur|Faith of Weth'ur]] are complementary, and temple theology teaches that the gods' work cannot be separated. Hezmu'iri transforms and preserves the body; Weth'ur, the Lord of Silent Passage, guides the spirit through its trials and its rest. Without the careful preservation the spirit would have no anchor for eternal existence, and without Weth'ur's guidance even a perfect body would mean nothing.
+The faith and the [[affiliation-wethur|Faith of Weth'ur]] are complementary, and temple theology teaches that the gods' work cannot be separated. Hezmu'iri transforms and preserves the body; Weth'urguides the spirit through its trials and its rest. Without the careful preservation the spirit would have no anchor for eternal existence, and without Weth'ur's guidance even a perfect body would mean nothing.
 
 The faith's bond with the [[affiliation-uznera|Faith of Uzn'era]] brackets the body's whole existence in their theology: Uzn'era, goddess of healing and renewal, protects and heals in life, and Hezmu'iri preserves and transforms after death. Many temples keep shrines to both, and priests teach that trust in Uzn'era in life and trust in Hezmu'iri at death gives continuity across the boundary between existence and eternity.
 
-In temple teaching, [[lore-rethsaardty|Reth'Sa'ar]], god of wisdom and knowledge, keeps what embalmers learn. His sacred ibis-quill has recorded countless refinements to the craft, and new embalming techniques are understood as discoveries made possible by his blessing. Priests of the two gods work closely, with the [[affiliation-rethsaar|Faith of Reth'Sa'ar]]'s scholars documenting and analyzing what Hezmu'iri's practitioners do.
+In temple teaching, [[lore-rethsaardty|Reth'Sa'ar]], god of wisdom and knowledge, keeps what embalmers learn. His sacred ibis-quill has recorded countless refinements to the craft, and new embalming techniques are understood as discoveries made possible by his blessing. Priests of the two gods work closely, with [[affiliation-rethsaar|Reth'Sa'ar]]'s scholars documenting and analyzing what Hezmu'iri's practitioners do.
 
 [[lore-uqaadty|Uqa'a]], the solar god, is held to be protective of the work, since his heat helps dry the body before natron is applied. Priests make offerings to both gods as part of the embalming ritual, thanking Uqa'a for the preserving heat of his light and Hezmu'iri for the skill to use that heat well.

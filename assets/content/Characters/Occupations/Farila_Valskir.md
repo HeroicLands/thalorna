@@ -397,9 +397,9 @@ Farila Valskir is a 31-year-old woman who stands 5'7" tall and is slender. She h
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia Region]] to a noble family of [[lore-provenzianclt|Provenzian]] heritage, Farila Valskir came into the world of the physician through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia region]] to a noble family of [[lore-provenzianclt|Provenzian]] heritage, Farila Valskir came into the world of the physician through a combination of circumstance and aptitude.
 
-Lady Farila is a skilled physician with a specialization in herbal medicine. Having grown up in a noble family, she pursued her passion for healing by studying both conventional medicine and natural remedies. Farila is known for her holistic approach, often considering the emotional and social aspects of her patients' health. She is a strong advocate for women's health and often conducts workshops to educate the community.
+Lady Seraphina is a skilled physician with a specialization in herbal medicine. Having grown up in a noble family, she pursued her passion for healing by studying both conventional medicine and natural remedies. Seraphina is known for her holistic approach, often considering the emotional and social aspects of her patients' health. She is a strong advocate for women's health and often conducts workshops to educate the community.
 
 ## Psyche
 

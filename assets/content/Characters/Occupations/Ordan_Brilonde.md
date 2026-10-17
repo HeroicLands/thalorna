@@ -396,7 +396,7 @@ Ordan Brilonde is a 42-year-old man who stands 5'9" tall and is broad and solidl
 
 # Dossier {#dossier}
 
-Ordan Brilonde is a mercantyler of [[place-lizela|Lizela]], the salt town on the southern coast of [[place-provenzrgn|Provenzia Region]], the head of a minor [[lore-provenzianclt|Provenzian]] house whose money is in bullion and stones rather than in land.
+Ordan Brilonde is a mercantyler of [[place-lizela|Lizela]], the salt town on the southern coast of [[place-provenzrgn|Provenzia]], the head of a minor [[lore-provenzianclt|Provenzian]] house whose money is in bullion and stones rather than in land.
 
 Ordan heads one of the small noble houses of Lizela, rich enough to matter in the district and not landed enough to matter at [[place-jalnazdal|Jalnasdal]], which has traded in gold, silver and cut stone since his grandfather's day. He buys metal and stones where they come ashore, weighs and values them himself, and sells to the goldsmiths of [[place-valarencity|Válaren City]] and the households of the capital, where his weight on an ingot is taken without a second scale. He has never sold short weight and never over-valued a stone for a buyer who wanted it over-valued, which has cost him custom and made the custom he has. He keeps his house out of the long quarrel between the Crown and the [Council of Peers]{.name data-type="affiliation/governmental"}, as his family always has.
 
@@ -416,7 +416,7 @@ Knows precious metal and stone, a fine negotiator, teacher of the young traders 
 
 ## Social
 
-Ordan holds his seal from the [Merchants' Guild of Jalnasdal]{.name data-type="affiliation/guild"}, chartered under [[affiliation-tevran|The Tevran Maldor]].
+Ordan holds his seal from the [Merchants' Guild of Jalnasdal]{.name data-type="affiliation/guild"}, chartered under [[affiliation-tevran|the Tevran Maldor]].
 
 ## Companions
 

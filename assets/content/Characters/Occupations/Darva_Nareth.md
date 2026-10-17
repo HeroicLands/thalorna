@@ -416,7 +416,7 @@ Skilled singer and storyteller, charismatic, knowledgeable in history.
 
 ## Social
 
-Darva is affiliated with one of [[affiliation-bardicolgs|The Bardic Colleges]].
+Darva is affiliated with one of [[affiliation-bardicolgs|the Bardic Colleges]].
 
 As an Élavendri bard, Darva occupies a recognized social niche within Élavendre society.
 

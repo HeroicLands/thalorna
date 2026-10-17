@@ -414,7 +414,7 @@ sohl:
 
 ![[althyndeldskr|Althinda Eldskari]]{float=top-left}
 
-Althinda Eldskari stands 5'3" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a narrow face, a long nose, a square jawline, a small mouth, dark brows, and high cheeks.
+Althinda stands 5'3" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a narrow face, a long nose, a square jawline, a small mouth, dark brows, and high cheeks.
 
 # Dossier {#dossier}
 

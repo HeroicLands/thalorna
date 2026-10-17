@@ -423,7 +423,7 @@ sohl:
 
 ![[alyksdrymkt|Alikos Drimikot]]{float=top-left}
 
-Alikos Drimikot stands 6'0" tall with a medium build. He has light weathered skin, greying brown hair, and hazel eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, an expressive mouth, and greying brows.
+Alikos stands 6'0" tall with a medium build. He has light weathered skin, greying brown hair, and hazel eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, an expressive mouth, and greying brows.
 
 # Dossier {#dossier}
 

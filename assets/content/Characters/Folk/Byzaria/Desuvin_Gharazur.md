@@ -36,4 +36,4 @@ Desuvin Gharazur is a 58-year-old man who stands 5'9" tall with a medium build. 
 
 # Dossier {#dossier}
 
-Desuvin Gharazur is the regional noble who hired [[affiliation-irnwlvscmpny|The Iron Wolves Company]] to massacre a village and still rules the region. [[being-ghymrhrptrks|Ghimaráhr Rores]] fears that he might move against him or the village he has come to protect.
+Desuvin Gharazur is the regional noble who hired [[affiliation-irnwlvscmpny|the Iron Wolves]] to massacre a village and still rules the region. [[being-ghymrhrptrks|Ghimaráhr Rores]] fears that he might move against him or the village he has come to protect.

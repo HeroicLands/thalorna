@@ -19,7 +19,7 @@ data:
 
 "We grow two crops here," a lodging-house keeper tells a traveler on the road to [[place-khelunu|Khelunu]]. "The wheat comes up in [[lore-geletssn|Gelet]] like everyone's wheat. The other crop walks in at seven years old, holding its mother's hand and a reed pen it has never used."
 
-Gar-Reth'Sa'ar is the land of [[affiliation-selatgrrthsr|The Selat of Gar-Reth'Sa'ar]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. At its center stands Khelunu, the foremost temple-city of [[lore-rethsaardty|Reth'Sa'ar]], keeper of sacred wisdom. Its library-temple holds the deepest archive in the empire, and its priest-scribes maintain the meticulous king-lists that run back, unbroken, to [[lore-qettelgu|The Qet Telgu]]. The selat's worldly produce is ordinary upper-river grain. Its real export is literate, numerate, learned men, and the records by which the empire knows itself.
+Gar-Reth'Sa'ar is the land of [[affiliation-selatgrrthsr|the Selat of Gar-Reth'Sa'ar]], one of [[affiliation-upperrivrslt|the Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. At its center stands Khelunu, the foremost temple-city of [[lore-rethsaardty|Reth'Sa'ar]], keeper of sacred wisdom. Its library-temple holds the deepest archive in the empire, and its priest-scribes maintain the meticulous king-lists that run back, unbroken, to [[lore-qettelgu|the Qet Telgu]]. The selat's worldly produce is ordinary upper-river grain. Its real export is literate, numerate, learned men, and the records by which the empire knows itself.
 
 ## Economy
 
@@ -27,7 +27,7 @@ The selat farms its share of upper-river grain like any other, but its distincti
 
 ## Notable Features
 
-- The great library-temple of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] at Khelunu, the deepest archive in the empire
+- The great library-temple of [[affiliation-rethsaar|Reth'Sa'ar]] at Khelunu, the deepest archive in the empire
 - The astronomers' observatory and the calendar-service that keeps the realm's time
 
 ## Settlements

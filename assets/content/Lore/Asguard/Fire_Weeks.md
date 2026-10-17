@@ -8,7 +8,7 @@ tags: [asguardian]
 data: {culture: nordheimnclt}
 ---
 
-The **Fire-Weeks** are the defining ordeal of the [[affiliation-svartbrandr|Faith of Svartbrandr]], kept at its forge-hovs and led at a season's turning by the hov's Hofgudi or Hofgudja alongside the great blet. The Asguardian calendar counts them among the faith's high rites.
+The **Fire-Weeks** are the defining ordeal of [[affiliation-svartbrandr|Svartbrandr's faith]], kept at its forge-hovs and led at a season's turning by the hov's Hofgudi or Hofgudja alongside the great blet. The Asguardian calendar counts them among the faith's high rites.
 
 ## The Ordeal
 

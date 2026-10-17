@@ -20,7 +20,7 @@ The Eleventh Granary stands at the end of the granary row of [[place-anlaghzetun
 
 ## How It Was Made
 
-In 2378 ST (268 AF) the Halzi'a of the selat broke the god-king's guard at the granary gates ([[lore-sealedgran|The Battle of the Sealed Granaries]]). Several thousand lay dead between the domes, the guard and the levies together, and the living had no grain to pay the embalmers. One granary had been emptied to feed the guard, and the dead of both sides were thrown into it and shut in, with no rite said and no name entered. The selat meant to open it when the rites could be paid for. It never has.
+In 2378 ST (268 AF) the Halzi'a of the selat broke the god-king's guard at the granary gates ([[lore-sealedgran|the Battle of the Sealed Granaries]]). Several thousand lay dead between the domes, the guard and the levies together, and the living had no grain to pay the embalmers. One granary had been emptied to feed the guard, and the dead of both sides were thrown into it and shut in, with no rite said and no name entered. The selat meant to open it when the rites could be paid for. It never has.
 
 ## What Is There
 
@@ -52,7 +52,7 @@ A Reading held for the unnamed at the edge quiets the field for the night it is 
 [[lore-sealedgran|The Battle of the Sealed Granaries]]
 : the battle that made it
 
-[[place-anlaghzetun|Anlagh-Zetun]] · [[affiliation-selatnlghztn|The Selat of Anlagh-Zetun]]
+[[place-anlaghzetun|Anlagh-Zetun]] · [[affiliation-selatnlghztn|the Selat of Anlagh-Zetun]]
 : the city and the selat that keep it shut
 
 [[lore-bloodfield|Blood-fields]]

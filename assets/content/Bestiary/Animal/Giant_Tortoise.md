@@ -241,7 +241,7 @@ The ground shakes under your feet, slowly, once every few breaths, and the dune-
 
 # Dossier {#dossier}
 
-The Giant Tortoise is a grazing tortoise eight feet long and more, with a domed shell that turns a spear, which lives for centuries on the desert margins of [[place-dunharargn|Dunhara Region]] and in the dry southwestern reaches of the [[place-sthrnsvnhs|Southern Savannahs]], walking the same grazing circuit through the same seasons for longer than any tribe has kept count. It eats grass, scrub, leaves and fallen fruit, it fears nothing because nothing can hurt it, and it is dangerous only to what stands in its way. The Dunhari count the years of a lineage by the tortoise that grazes its wells, and a tribe that has had the same one for seven generations treats it as a kinsman.
+The Giant Tortoise is a grazing tortoise eight feet long and more, with a domed shell that turns a spear, which lives for centuries on the desert margins of [[place-dunharargn|Dunhara]] and in the dry southwestern reaches of the [[place-sthrnsvnhs|Southern Savannahs]], walking the same grazing circuit through the same seasons for longer than any tribe has kept count. It eats grass, scrub, leaves and fallen fruit, it fears nothing because nothing can hurt it, and it is dangerous only to what stands in its way. The Dunhari count the years of a lineage by the tortoise that grazes its wells, and a tribe that has had the same one for seven generations treats it as a kinsman.
 
 ## Presentation
 

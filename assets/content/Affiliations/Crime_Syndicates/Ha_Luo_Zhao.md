@@ -83,7 +83,7 @@ The Ha Luo Zhao's power is not exercised through street-level thuggery. It is ex
 
 **Primary:** [[affiliation-tantsouempr|Empire of Tantsou]]—with particular concentration in the major mercantile cities of the [[lore-shuonong|Shuonong]] caste, the imperial capital's outer districts, and the great trade crossroads of the eastern provinces.
 
-**Secondary:** Cells reach into the [[place-jenchairgn|Jenchai Region]] to the east and occasionally surface in the eastern reaches of the [[place-byzariargn|Bizaria Region]] where Tantsou trade intersects with Ankarian. The Black Lotus does not compete with the Vylarian Sea syndicates on their own territory; it has no need to.
+**Secondary:** Cells reach into [[place-jenchairgn|Jenchai]] to the east and occasionally surface in the eastern reaches of the [[place-byzariargn|Bizaria Region]] where Tantsou trade intersects with Ankarian. The Black Lotus does not compete with the Vylarian Sea syndicates on their own territory; it has no need to.
 
 ## Operations
 
@@ -99,7 +99,7 @@ The Ha Luo Zhao's power is not exercised through street-level thuggery. It is ex
 
 ## Organization
 
-Like [[affiliation-velvethand|The Velvet Hand]], the Black Lotus operates in isolated cells whose members know only their immediate handler. Unlike the Velvet Hand, its structure is shaped by the caste system it operates within: cells are typically organized around Shuonong merchant houses, with handlers drawn from the [[lore-noutsou|Noutsou]] caste and higher coordinators from bureaucratically placed [[lore-zhazho|Zhazho]] who have chosen service with the Lotus over service with their own families.
+Like [[affiliation-velvethand|the Velvet Hand]], the Black Lotus operates in isolated cells whose members know only their immediate handler. Unlike the Velvet Hand, its structure is shaped by the caste system it operates within: cells are typically organized around Shuonong merchant houses, with handlers drawn from the [[lore-noutsou|Noutsou]] caste and higher coordinators from bureaucratically placed [[lore-zhazho|Zhazho]] who have chosen service with the Lotus over service with their own families.
 
 The highest leadership is effectively unknown. Tantsou rumor holds that the Society is governed by a secret council of seven, though no confirmed identification of any council member has ever been made. Those who claim to have identified a member have had brief and educational careers.
 
@@ -119,13 +119,13 @@ The Black Lotus has also been quietly entangled with specific noble houses—mos
 
 ## Spiritual and Moral-Ledger Consequences
 
-Unique among the [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]], the Ha Luo Zhao operates in a cosmological context where criminal association has measurable spiritual consequences. The Lotus is—by the Tantsou classification system—an _unclassified_ organization, operating outside the categories the [Great Sorting]{.name data-type="lore/cosmology"} is held to have established. Association with it generates debit entries on the moral ledger not only for the associate but for their household and their ancestor spirits. Clients who engage the Lotus for convenience find, over generations, that their ancestors' effectiveness has diminished, their family's classification has drifted, and their descendants inherit a diminished spiritual infrastructure.
+Unique among the [[affiliation-crmsyndctsthlrn|crime syndicates of Thalorna]], the Ha Luo Zhao operates in a cosmological context where criminal association has measurable spiritual consequences. The Lotus is—by the Tantsou classification system—an _unclassified_ organization, operating outside the categories the [Great Sorting]{.name data-type="lore/cosmology"} is held to have established. Association with it generates debit entries on the moral ledger not only for the associate but for their household and their ancestor spirits. Clients who engage the Lotus for convenience find, over generations, that their ancestors' effectiveness has diminished, their family's classification has drifted, and their descendants inherit a diminished spiritual infrastructure.
 
 The Black Lotus is, in a very real sense, a slow poison. It is also indispensable. This combination describes its grip on Tantsou society with more precision than any characterization of the Vylarian Sea syndicates can claim.
 
 ## Relations with Other Syndicates
 
-The Black Lotus has minimal contact with the Vylarian Sea syndicates. The geographic separation is substantial, the Lotus's operations depend on Tantsou bureaucratic structures that do not exist in the west, and the Lotus's leadership regards western crime as beneath notice. Where the two worlds intersect—in the border cities of Bizaria, along the eastern caravan routes, in the ports where eastern goods transit through Vylarian hands—the relationships are transactional and mutually respectful. The Black Lotus will quietly fence restricted eastern goods through [[affiliation-theashroad|The Ash Road]]'s caravans; [[affiliation-crimsnldgr|The Crimson Ledger]] has handled occasional money transfers for senior Lotus figures who need wealth moved westward. These arrangements are professional, limited in scope, and notable primarily for how little attention they attract.
+The Black Lotus has minimal contact with the Vylarian Sea syndicates. The geographic separation is substantial, the Lotus's operations depend on Tantsou bureaucratic structures that do not exist in the west, and the Lotus's leadership regards western crime as beneath notice. Where the two worlds intersect—in the border cities of Bizaria, along the eastern caravan routes, in the ports where eastern goods transit through Vylarian hands—the relationships are transactional and mutually respectful. The Black Lotus will quietly fence restricted eastern goods through [[affiliation-theashroad|the Ash Road]]'s caravans; [[affiliation-crimsnldgr|the Crimson Ledger]] has handled occasional money transfers for senior Lotus figures who need wealth moved westward. These arrangements are professional, limited in scope, and notable primarily for how little attention they attract.
 
 ## Identifying Marks
 

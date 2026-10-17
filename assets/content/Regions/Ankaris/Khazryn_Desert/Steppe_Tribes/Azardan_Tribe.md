@@ -58,7 +58,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Azardan** are the largest of the tribes that share the central steppe, and the one smaller tribes look to when a drought comes. They hold the northern grass of the [[place-khzryndsrtrgn|Khazryn Desert Region]] and more wells than the [[affiliation-zrnshtrb|Zarnush]] to their south can count. A [[lore-sowidesclt|Sovidur]] tribe with that much water does not have to raid, and the Azardan seldom do.
+The **Azardan** are the largest of the tribes that share the central steppe, and the one smaller tribes look to when a drought comes. They hold the northern grass of the [[place-khzryndsrtrgn|Khazryn]] and more wells than the [[affiliation-zrnshtrb|Zarnush]] to their south can count. A [[lore-sowidesclt|Sovidur]] tribe with that much water does not have to raid, and the Azardan seldom do.
 
 ## How the Tribe Lives
 

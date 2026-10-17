@@ -238,7 +238,7 @@ The wounded carcass of a bison lies in a trampled hollow at the edge of the long
 
 # Dossier {#dossier}
 
-The Sabertooth Cat is the big stabbing cat of the grassland and woodland edge, eight to ten feet long and four to five feet at the shoulder. It hunts the grassland of [[place-penqalchaklrgn|P'enqal Ch'akal Region]], where the herds migrate, and the savanna and forest fringe of the [[place-sthrnsvnhs|Southern Savannahs]], taking animals much larger than itself by a leap and a stab of the long canines. One that has hunted people may take to them.
+The Sabertooth Cat is the big stabbing cat of the grassland and woodland edge, eight to ten feet long and four to five feet at the shoulder. It hunts the grassland of [[place-penqalchaklrgn|P'enqal Ch'akal]], where the herds migrate, and the savanna and forest fringe of the [[place-sthrnsvnhs|Southern Savannahs]], taking animals much larger than itself by a leap and a stab of the long canines. One that has hunted people may take to them.
 
 ## Presentation
 

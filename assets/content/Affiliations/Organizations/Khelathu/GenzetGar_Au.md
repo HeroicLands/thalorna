@@ -50,7 +50,7 @@ data:
 
 ## Overview
 
-A decision made anywhere else in the [[affiliation-empireakhlth|Empire of Au'Khelathu]] still has to survive the [[lore-garauu|Gar-Au]]'s court before it becomes policy. **Genzet'Gar-Au** is the household and council that surrounds the Gar-Au, the body through which imperial appointment is made and favor distributed, and every faction with an interest in the empire's direction keeps a presence in it. A petitioner's request moves at the pace of whichever faction currently has the Gar-Au's ear, which is rarely the petitioner's own.
+A decision made anywhere else in [[affiliation-empireakhlth|Au'Khelathu]] still has to survive the [[lore-garauu|Gar-Au]]'s court before it becomes policy. **Genzet'Gar-Au** is the household and council that surrounds the Gar-Au, the body through which imperial appointment is made and favor distributed, and every faction with an interest in the empire's direction keeps a presence in it. A petitioner's request moves at the pace of whichever faction currently has the Gar-Au's ear, which is rarely the petitioner's own.
 
 ## Character
 

@@ -417,7 +417,7 @@ sohl:
 
 ![[drshkrplytms|Dorashkar Tredis]]{float=top-left}
 
-Dorashkar Tredis stands 5'10" tall with a medium build. He has light brown tanned skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a straight nose, a strong jawline, full lips, light brows.
+Dorashkar stands 5'10" tall with a medium build. He has light brown tanned skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a straight nose, a strong jawline, full lips, light brows.
 
 # Dossier {#dossier}
 

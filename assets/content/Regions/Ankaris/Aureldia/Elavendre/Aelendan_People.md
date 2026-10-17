@@ -19,21 +19,21 @@ Language
 Pantheon
 : [[affiliation-firstgods|The First Gods]] (via [[affiliation-theoldway|the Old Way]]; with strong fae/nature spirit traditions)
 
-The **Áelendan People**—also known as the **People of the Pact**—are a sub-people of [[place-elavendre|Élavendre]], the ancestor tribes of the [[lore-elavendrnppl|Élavendren People]] who never settled into the kingdom's cities and who have maintained the old ways since before the founding of the monarchy. They live in the mountainous interior of Élavendre, organized in tribal communities that follow traditions stretching back to the earliest [[lore-pelwarpepl|Pelwar People]] settlement of the region. They eschew the modern cities and the ways of the kingdom, living close to the land as their forebears did.
+The **Áelendan People**—also known as the **People of the Pact**—are a sub-people of [[place-elavendre|Élavendre]], the ancestor tribes of the [[lore-elavendrnppl|Élavendri]] who never settled into the kingdom's cities and who have maintained the old ways since before the founding of the monarchy. They live in the mountainous interior of Élavendre, organized in tribal communities that follow traditions stretching back to the earliest [[lore-pelwarpepl|Pelwar People]] settlement of the region. They eschew the modern cities and the ways of the kingdom, living close to the land as their forebears did.
 
 ## The Kindred Pact
 
-The name "People of the Pact" refers to an ancient compact that the Áelendan believe binds them to the land itself—a sacred relationship with the forests, mountains, and waters of central Élavendre that their forebears entered into at the dawn of Pelwar settlement. The specifics of the [Kindred Pact]{.name data-type="lore/law"} are not written down; they are transmitted through oral tradition, sung across generations, and enacted through the seasonal rituals that mark Áelendan life. To the Áelendan, the Kindred Pact is not metaphor. It is the operating agreement by which their communities remain in good standing with the land and its spirits. The people came over the eastern pass in the snow ([[lore-nelgancross|The Crossing of Nelgan]]), and the pact was first sung at the lowest pool of [[place-longstair|The Long Stair]] in the generation that followed ([[lore-lowestpoolpct|The Pact at the Lowest Pool]]).
+The name "People of the Pact" refers to an ancient compact that the Áelendan believe binds them to the land itself—a sacred relationship with the forests, mountains, and waters of central Élavendre that their forebears entered into at the dawn of Pelwar settlement. The specifics of the [Kindred Pact]{.name data-type="lore/law"} are not written down; they are transmitted through oral tradition, sung across generations, and enacted through the seasonal rituals that mark Áelendan life. To the Áelendan, the Kindred Pact is not metaphor. It is the operating agreement by which their communities remain in good standing with the land and its spirits. The people came over the eastern pass in the snow ([[lore-nelgancross|The Crossing of Nelgan]]), and the pact was first sung at the lowest pool of [[place-longstair|the Long Stair]] in the generation that followed ([[lore-lowestpoolpct|The Pact at the Lowest Pool]]).
 
 ## Culture and Society
 
 Áelendan communities are organized tribally, with authority vested in councils of elders rather than hereditary nobility. Leadership is earned through demonstrated wisdom, skill in the old ways, and service to the community. The Áelendan place extraordinary value on continuity—of language, of custom, of relationship with place—and they view the rapid cultural change that characterizes the lowland Élavendri with a mixture of affection and unease.
 
-The Áelendan speak the **[[skill-aelendlng|Áelendi Language]]**, the ancestral Pelwar tongue—the most conservative member of the Pelwar language family, preserved with minimal change over millennia. The Áelendan deliberately minimize linguistic change as a matter of cultural practice, viewing language change as a form of cultural loss. New concepts are incorporated through loan translation (creating new words from ancient roots) rather than loanwords. See [[skill-aelendlng|Áelendi Language]] for linguistic details.
+The Áelendan speak [[skill-aelendlng|Áelendi]]**, the ancestral Pelwar tongue—the most conservative member of the Pelwar language family, preserved with minimal change over millennia. The Áelendan deliberately minimize linguistic change as a matter of cultural practice, viewing language change as a form of cultural loss. New concepts are incorporated through loan translation (creating new words from ancient roots) rather than loanwords. See [[skill-aelendlng|Áelendi Language]] for linguistic details.
 
 ## Relationship with the Élavendri
 
-The relationship between the Áelendan and the settled [[lore-elavendrnppl|Élavendri]] is one of mutual respect. The Élavendri recognize the Áelendan as their ancestor people, and the crown of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] protects Áelendan tribal areas by law. Áelendan ways and sacred sites are respected, and the kingdom's courts will act against anyone who encroaches on tribal lands. The Áelendan, for their part, acknowledge the kingdom without submitting to it—they govern themselves by their own customs and answer to their own elders.
+The relationship between the Áelendan and the settled [[lore-elavendrnppl|Élavendri]] is one of mutual respect. The Élavendri recognize the Áelendan as their ancestor people, and the crown of [[affiliation-kngdmlvndr|Élavendre]] protects Áelendan tribal areas by law. Áelendan ways and sacred sites are respected, and the kingdom's courts will act against anyone who encroaches on tribal lands. The Áelendan, for their part, acknowledge the kingdom without submitting to it—they govern themselves by their own customs and answer to their own elders.
 
 Élavendri noble houses go to great lengths to trace their ancestry back to the Áelendan, and a demonstrable connection to the old blood is a source of immense prestige. Whether all such claims are genuine is another matter entirely.
 
@@ -64,7 +64,7 @@ Tradition Keepers
 
 ## The Order
 
-The Áelendan **do not trust [[affiliation-ordoarcanis|Thordimalon]] at all**, and do not pretend
+The Áelendan **do not trust the [[affiliation-ordoarcanis|Thordimalon]] at all**, and do not pretend
 to. Where the Élavendri court treats the Order as a rival institution to be balanced, licensed and
 argued with, the Áelendan regard it as a body of meddlesome intruders—outsiders who arrive to
 _study_ what the tribes exist to _keep_, who mistake a sacred site for a subject, and who have never

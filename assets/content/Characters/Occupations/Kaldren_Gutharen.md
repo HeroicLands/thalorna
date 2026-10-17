@@ -403,7 +403,7 @@ Kaldrén Gútharen is a 38-year-old man who stands 6'1" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia Region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Kaldrén Gútharen came into the world of the miner through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Kaldrén Gútharen came into the world of the miner through a combination of circumstance and aptitude.
 
 Kaldrén was a free man until he was captured during a conflict and sold into slavery. He was forced to work in a mine, where he learned to endure harsh conditions. Despite his captivity, Kaldrén maintains a rebellious spirit and has attempted to escape several times. His efforts have only led to harsher treatment, but he refuses to give up on the idea of freedom.
 

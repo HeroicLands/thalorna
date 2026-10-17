@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Delara is a busy market town of about 12,000 on one of the great roads into the capital, where the produce of the surrounding estates is gathered and sold on toward [[place-orzara|Orzara City]]. Its inns and warehouses serve the constant traffic of carters and drovers, and its weekly market is among the largest in the heartland.
+Delara is a busy market town of about 12,000 on one of the great roads into the capital, where the produce of the surrounding estates is gathered and sold on toward [[place-orzara|Orzara]]. Its inns and warehouses serve the constant traffic of carters and drovers, and its weekly market is among the largest in the heartland.
 
 A drover on the capital run, advising a cousin who has never taken a herd to market, tells him where to rest: "Delara on market day, if you want to sell. Delara the day before, if you want to sleep. The inns on this road are never empty, and the warehouses are never idle, so book your bed and your stall before you are in sight of the gate, and be gone before the market is."
 

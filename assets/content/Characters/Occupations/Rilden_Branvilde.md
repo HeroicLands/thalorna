@@ -396,7 +396,7 @@ Rilden Branvilde is a 56-year-old man who stands 6'2" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia Region]] to a noble family of [[lore-provenzianclt|Provenzian]] heritage, Rilden Branvilde came into the world of the chieftain through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia region]] to a noble family of [[lore-provenzianclt|Provenzian]] heritage, Rilden Branvilde came into the world of the chieftain through a combination of circumstance and aptitude.
 
 Rilden is the chieftain of a powerful tribal clan known for their warriors and hunters. He earned his place as leader through both his strength in battle and his cunning in negotiation. Rilden is respected by his people, but his harsh and uncompromising ways have also made him feared. He is always looking out for threats to his position, both from rival clans and ambitious members of his own tribe.
 

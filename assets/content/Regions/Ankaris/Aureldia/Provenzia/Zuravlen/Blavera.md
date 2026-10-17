@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 240, packFol
 a modest strip of orchard along its northern edge. It is neither rich nor poor, exports nothing under
 its own name, and feeds a good deal of the barony.
 
-Use Blavera as the model of an **ordinary mixed manor**. Most of the [[place-zuravlenrgn|Zuravlen Region]] looks
+Use Blavera as the model of an **ordinary mixed manor**. Most of [[place-zuravlenrgn|Zuravlen]] looks
 like this; [[place-palnebris|Palnebris]] is the exception that gets talked about.
 
 ## The Manor

@@ -15,7 +15,7 @@ data:
   government: janpdsvdyr
 ---
 
-**Bharavamukha** (1,100, market 3) stands at the mouth of [[place-bharavarivr|The Bharava]] on the eastern coast, at the foot of the pilgrim road that runs the length of the river from the sea to the ice. It is the landfall for everyone who walks that road from a ship, and it is the outlet for the forest products that come down out of the temple-domains behind it.
+**Bharavamukha** (1,100, market 3) stands at the mouth of [[place-bharavarivr|the Bharava]] on the eastern coast, at the foot of the pilgrim road that runs the length of the river from the sea to the ice. It is the landfall for everyone who walks that road from a ship, and it is the outlet for the forest products that come down out of the temple-domains behind it.
 
 The river is the least navigable of the four, and outside the flood season it carries almost nothing. The timber comes down on the flood; the rest comes on men's backs and on carts, and it is lac, resin, wax, honey, and the medicinal barks the lowland houses pay well for. The temple-domains sell them here and sell them nowhere else, and the prices are set at the quay by men who answer to no sabhra.
 

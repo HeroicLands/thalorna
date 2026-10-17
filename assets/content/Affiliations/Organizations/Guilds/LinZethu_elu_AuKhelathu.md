@@ -40,7 +40,7 @@ data:
 
 ## Overview
 
-**Lin'Zethu elu Au'Khelathu** is the chartered guild of the scribes of the [[place-aukhelathrgq|Au'Khelathu Region]], and no court or ministry treats a document as the original record unless a certified member made it. The guild sets the hands a document must be written in and examines every pupil before certifying her. It also holds [[affiliation-lutzethu|Lut-Zethu]] (the Imperial Library), through a Keeper who grants or refuses a reader's permission.
+**Lin'Zethu elu Au'Khelathu** is the chartered guild of the scribes of [[place-aukhelathrgq|Au'Khelathu]], and no court or ministry treats a document as the original record unless a certified member made it. The guild sets the hands a document must be written in and examines every pupil before certifying her. It also holds [[affiliation-lutzethu|Lut-Zethu]] (the Imperial Library), through a Keeper who grants or refuses a reader's permission.
 
 ## Character
 

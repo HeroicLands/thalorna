@@ -420,7 +420,7 @@ sohl:
 
 ![[eldrtrvlth|Eldira Torvaleth]]{float=top-left}
 
-Eldira Torvaleth stands 5'10" tall with a light build. She has warm olive skin, dark brown hair, and green eyes. Her features include a diamond-shaped face, a hawkish nose, a pronounced chin, slightly pursed lips, and dark brows. She has a tattoo of a wolf on her shoulder.
+Eldira stands 5'10" tall with a light build. She has warm olive skin, dark brown hair, and green eyes. Her features include a diamond-shaped face, a hawkish nose, a pronounced chin, slightly pursed lips, and dark brows. She has a tattoo of a wolf on her shoulder.
 
 # Dossier {#dossier}
 

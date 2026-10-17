@@ -9,7 +9,7 @@ data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 Kind
-: Hearth-kin, of [[lore-thekindred|The Kindred]]
+: Hearth-kin, of [[lore-thekindred|the Kindred]]
 
 Seat
 : the great ceremonial hall at [[place-eshalshldg|Ésalosa Lodge]]
@@ -23,8 +23,8 @@ Posture
 Met through
 : [[skill-tenasprt|Tena Spirit Power]]
 
-Tena, the Hearth of Ésalosa, is the hearth-kin of the great hall at Ésalosa, and the oldest continuously tended fire
-in the country of the [[lore-aelendnppl|Áelendan People]]—the Lodge has been inhabited since the earliest settlement of the [[lore-pelwarpepl|Pelwar People]] of the
+Tena is the hearth-kin of the great hall at Ésalosa, and the oldest continuously tended fire
+in [[lore-aelendnppl|Áelendan country]]—the Lodge has been inhabited since the earliest [[lore-pelwarpepl|Pelwar settlement]] of the
 interior, and the shamen hold that the fire has not gone out in all of it. She is the only one of
 the named Kindred that is met indoors, and the only one every Áelendan meets, because every tribe
 comes to Ésalosa to gather.

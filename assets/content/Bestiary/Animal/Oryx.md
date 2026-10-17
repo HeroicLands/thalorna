@@ -246,7 +246,7 @@ Out on the white gravel a single pale shape stands motionless on a dune-crest, l
 
 # Dossier {#dossier}
 
-The Oryx is the great antelope of the deep desert, three and a half to four feet at the shoulder and two hundred to four hundred fifty pounds, living in the sand seas and gravel wastes of the [[place-dunhardsrtrgn|Dunhara Desert Region]], the [[place-hekardesert|Desert of Hek'ar]] and the far [[place-khzryndsrtrgn|Khazryn Desert Region]], where no other large herbivore survives. It can go weeks without water, takes its moisture from its food and lets its body heat rise to a level that would kill other animals. The desert tribes hold it sacred as a lesson in enduring what cannot be endured. A white desert animal with a single horn, in traveler's tales, is this animal seen from the side.
+The Oryx is the great antelope of the deep desert, three and a half to four feet at the shoulder and two hundred to four hundred fifty pounds, living in the sand seas and gravel wastes of the [[place-dunhardsrtrgn|Dunhara Desert]], the [[place-hekardesert|Desert of Hek'ar]] and the far [[place-khzryndsrtrgn|Khazryn]], where no other large herbivore survives. It can go weeks without water, takes its moisture from its food and lets its body heat rise to a level that would kill other animals. The desert tribes hold it sacred as a lesson in enduring what cannot be endured. A white desert animal with a single horn, in traveler's tales, is this animal seen from the side.
 
 ## Presentation
 

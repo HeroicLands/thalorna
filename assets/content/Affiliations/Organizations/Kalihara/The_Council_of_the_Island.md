@@ -73,7 +73,7 @@ What the Council tells outsiders is settled in the same room. A harbor-warden at
 
 ## Relations
 
-The Ithakan sit in the Council and keep its works; [[affiliation-wardensapproaches|The Wardens of the Approaches]] answer to its councils and carry its decisions to the sea-lanes and the quays. [[affiliation-housefactors|The House of Factors]] runs the port's trade under its leave and sends its views through the Councilor of the ports; the Council and the House want different things from the approaches, and the quay's trade goes on regardless. A few Elders and custodians belong to [[affiliation-silharicircle|The Sílhari Circle]], which argues in the Council's corridors and has no seat of its own. The Council does not name [[affiliation-keepershouse|The Keeper's House]] among its bodies.
+The Ithakan sit in the Council and keep its works; [[affiliation-wardensapproaches|the Wardens of the Approaches]] answer to its councils and carry its decisions to the sea-lanes and the quays. [[affiliation-housefactors|The House of Factors]] runs the port's trade under its leave and sends its views through the Councilor of the ports; the Council and the House want different things from the approaches, and the quay's trade goes on regardless. A few Elders and custodians belong to [[affiliation-silharicircle|the Sílhari circle]], which argues in the Council's corridors and has no seat of its own. The Council does not name [[affiliation-keepershouse|the Keeper's House]] among its bodies.
 
 ## See Also
 

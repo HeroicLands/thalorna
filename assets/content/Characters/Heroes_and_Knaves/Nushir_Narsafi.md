@@ -421,7 +421,7 @@ sohl:
 
 ![[nushirnrsf|Nushir Narsafi]]{float=top-left}
 
-Nushir Narsafi stands 5'6" tall with a medium build. She has light olive skin, grey hair, and brown eyes. Her features include a diamond-shaped face, a strong nose, an angular jawline, a firm-set mouth, arched brows, and prominent cheeks.
+Nushir stands 5'6" tall with a medium build. She has light olive skin, grey hair, and brown eyes. Her features include a diamond-shaped face, a strong nose, an angular jawline, a firm-set mouth, arched brows, and prominent cheeks.
 
 # Dossier {#dossier}
 

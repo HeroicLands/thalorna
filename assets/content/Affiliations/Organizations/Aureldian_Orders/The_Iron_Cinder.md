@@ -55,11 +55,11 @@ Region
 
 ## Overview
 
-Where [[affiliation-ordershnvw|The Order of the Ashen Vow]] is [[affiliation-blackflame|The Black Flame]]'s doctrinal arm—sworn to a public theology of purification and committed to acts of cleansing whose justifications are themselves part of the doctrine—the Iron Cinder is its operational arm. The Iron Cinder does not preach. It does not justify. It does not, in the conventional sense, exist. What it does is the work that the Ashen Vow's doctrinal commitments make difficult: the targeted assassination, the discrete arson, the quiet removal of a witness who has become inconvenient, the destruction of an archive that has begun to record what the Black Flame would prefer not to be recorded.
+Where [[affiliation-ordershnvw|the Order of the Ashen Vow]] is [[affiliation-blackflame|the Black Flame]]'s doctrinal arm—sworn to a public theology of purification and committed to acts of cleansing whose justifications are themselves part of the doctrine—the Iron Cinder is its operational arm. The Iron Cinder does not preach. It does not justify. It does not, in the conventional sense, exist. What it does is the work that the Ashen Vow's doctrinal commitments make difficult: the targeted assassination, the discrete arson, the quiet removal of a witness who has become inconvenient, the destruction of an archive that has begun to record what the Black Flame would prefer not to be recorded.
 
-The Iron Cinder is small. Estimates by the orthodox authorities put its sworn membership at perhaps forty operatives across the whole of the [[place-aureldirgn|Aureldia Region]], though the precision of these estimates is suspect because the order has been very effective at concealing its own numbers. It is also, by the consistent report of those who have encountered it, capable: members are recruited from the most physically and tactically gifted of Ashen Vow candidates, are trained beyond ordinary order discipline, and operate with a level of professional ruthlessness that orthodox investigators have privately compared to [[affiliation-velvethand|The Velvet Hand]]'s direct-action cadre. The comparison would offend both organizations equally.
+The Iron Cinder is small. Estimates by the orthodox authorities put its sworn membership at perhaps forty operatives across the whole of [[place-aureldirgn|Aureldia]], though the precision of these estimates is suspect because the order has been very effective at concealing its own numbers. It is also, by the consistent report of those who have encountered it, capable: members are recruited from the most physically and tactically gifted of Ashen Vow candidates, are trained beyond ordinary order discipline, and operate with a level of professional ruthlessness that orthodox investigators have privately compared to [[affiliation-velvethand|the Velvet Hand]]'s direct-action cadre. The comparison would offend both organizations equally.
 
-The Iron Cinder operates on the central assumption that, if exposed, it will be destroyed. [[affiliation-sacredforge|The Sacred Forge]] would condemn it; the Aureldian Crowns would suppress it; [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) would hunt it; the Árdavon orders would refuse it sanctuary; even the Ashen Vow's sympathetic noble protectors would be unable to publicly defend it. The order's structure, its operational discipline, and its working culture all reflect this assumption.
+The Iron Cinder operates on the central assumption that, if exposed, it will be destroyed. [[affiliation-sacredforge|The Sacred Forge]] would condemn it; the Aureldian Crowns would suppress it; the [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) would hunt it; the Árdavon orders would refuse it sanctuary; even the Ashen Vow's sympathetic noble protectors would be unable to publicly defend it. The order's structure, its operational discipline, and its working culture all reflect this assumption.
 
 ## Membership and Structure
 
@@ -85,7 +85,7 @@ The order does not, in any formal sense, have doctrine. It has _operational prin
 : that the order's involvement in any operation is, to the extent possible, indeterminate after the fact. A target's death looks like an accident, an illness, a private quarrel; a building's burning looks like a candle-fire or a lightning-strike; a missing archive looks like clerical incompetence.
 
 [The Brother Silenced]{.name data-type="lore/custom"}
-: that a Cinder Hand captured by the orthodox authorities must, by the same principle as [The Sanctity of the Secret]{.name data-type="lore/custom"} of the Ashen Vow, find means to silence himself before being made to speak. The Cinder discipline is harder: the brother is trained from his induction in the techniques and the doctrinal acceptance of his own silencing.
+: that a Cinder Hand captured by the orthodox authorities must, by the same principle as [The Sanctity of the Secret]{.name data-type="lore/custom"}, find means to silence himself before being made to speak. The Cinder discipline is harder: the brother is trained from his induction in the techniques and the doctrinal acceptance of his own silencing.
 
 Operational training is exhaustive: hand-to-hand combat with concealable weapons, the alchemy of incendiaries and poisons, the techniques of forced entry and quiet exit, the rhetoric of impersonation, the construction of false trails, the maintenance of cover identities sometimes held for years before activation. A Cinder Hand frequently lives, for long periods, an ordinary public life as a merchant or a clerk or a journeyman of some craft, activated only when needed.
 
@@ -94,7 +94,7 @@ The order does not maintain weapons of military scale. Operations are conducted 
 ## Notable Operations (attributed; none formally confirmed)
 
 - The arson at the Sacred Forge cathedral library at [Provenzal]{.name data-type="place"}, twelve years ago, that destroyed a substantial portion of the Forge's catalog of suppressed Black Flame doctrine; widely attributed to the Cinder but never investigated to conclusion.
-- The death of the Ólvestran Marendos of [[affiliation-ordrsldwrd|The Order of the Sealed Word]] seven years ago, ruled to be from natural causes; the timing—three days before he was to issue a major writ against a Black Flame-sympathetic baron—has produced persistent suspicion.
+- The death of the Ólvestran Marendos of [[affiliation-ordrsldwrd|the Order of the Sealed Word]] seven years ago, ruled to be from natural causes; the timing—three days before he was to issue a major writ against a Black Flame-sympathetic baron—has produced persistent suspicion.
 - The disappearance of three Thordimalon investigators in the Tarvénian highlands four years ago; bodies never recovered; investigation closed.
 
 The order has, by its own discipline, neither confirmed nor denied involvement in any of these.
@@ -107,7 +107,7 @@ The [[affiliation-ordershnvw|Order of the Ashen Vow]]
 The [[affiliation-sacredforge|Sacred Forge]]
 : the primary theological enemy and the primary investigative threat. The Forge maintains a small cadre of investigators dedicated specifically to identifying Cinder operatives.
 
-The [[affiliation-ordrsldwrd|Order of the Sealed Word]] and [[affiliation-twinbldrdr|The Twinblade Order]]
+The [[affiliation-ordrsldwrd|Order of the Sealed Word]] and [[affiliation-twinbldrdr|Twinblade Order]]
 : formal enemies; both orders carry standing arrangements with the Sacred Forge for cooperation against Cinder activity. The Cinder regards the Árdavon orders as professional opponents to be respected, evaded where possible, and removed where evasion fails.
 
 The Aureldian Crowns

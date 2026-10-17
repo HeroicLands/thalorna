@@ -9,7 +9,7 @@ tags: []
 
 ## Animals
 
-Natural creatures of [[place-worldthlrn|The World of Thalorna]].
+Natural creatures of [[place-worldthlrn|Thalorna]].
 
 ```sql
 SELECT address.slug                   AS _ref,

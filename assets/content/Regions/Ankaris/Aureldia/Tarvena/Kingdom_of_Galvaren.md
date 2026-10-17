@@ -139,15 +139,15 @@ The Kingdom of Galvaren holds the land of [[place-galvaren|Galvaren]]. The Galv�
 
 ## Character
 
-Where the [[affiliation-kngdmstrth|Kingdom of Asturath]] looks inward to its mountains and the [[affiliation-kingdmlnrk|Kingdom of Lienrik]] to its fields, Galvaren looks outward to the sea. Galváreni sailors are legendarily fearless—or foolhardy, depending on who you ask—and the kingdom produces a disproportionate number of the navigators, sea captains, and explorers who push the boundaries of the known world.
+Where [[affiliation-kngdmstrth|Asturath]] looks inward to its mountains and [[affiliation-kingdmlnrk|Lienrik]] to its fields, Galvaren looks outward to the sea. Galváreni sailors are legendarily fearless—or foolhardy, depending on who you ask—and the kingdom produces a disproportionate number of the navigators, sea captains, and explorers who push the boundaries of the known world.
 
-The kingdom has a distinctive folk culture that blends mainstream Tarvenan warrior traditions with something older and stranger. The western coast is littered with ancient stone circles, standing stones, and passage graves that predate the Tarveni migration, and the local people maintain a complex body of folk belief about the spirits of the dead, the sea, and the liminal places where the mortal world thins. Ghost stories, fairy tales, and tales of drowned cities are taken more seriously here than in the rest of the [[place-tarvenirgn|Tarvénia Region]]. The priests of the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] tolerate these folk traditions with varying degrees of patience.
+The kingdom has a distinctive folk culture that blends mainstream Tarvenan warrior traditions with something older and stranger. The western coast is littered with ancient stone circles, standing stones, and passage graves that predate the Tarveni migration, and the local people maintain a complex body of folk belief about the spirits of the dead, the sea, and the liminal places where the mortal world thins. Ghost stories, fairy tales, and tales of drowned cities are taken more seriously here than in the rest of [[place-tarvenirgn|Tarvénia]]. The priests of the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] tolerate these folk traditions with varying degrees of patience.
 
 Galvaren's political structure gives unusual influence to the shipmasters—captains of the fishing and trading fleets—who sit on the royal council alongside the landed lords.
 
 ## Commerce and Currency
 
-The Kingdom of Galvaren uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under [[affiliation-tevran|The Tevran Maldor]]. The Kingdom of Galvaren is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Kingdom of Galvaren uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Galvaren is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

@@ -432,7 +432,7 @@ sohl:
 
 ![[githiyzbnlth|Githiya Zab'Anlethu]]{float=top-left}
 
-Githiya Zab'Anlethu stands 6'0" tall with a medium build. She has ebony skin, black hair, and hazel eyes. Her features include an oval face, a noble nose, a gentle jawline, and high-set brows.
+Githiya stands 6'0" tall with a medium build. She has ebony skin, black hair, and hazel eyes. Her features include an oval face, a noble nose, a gentle jawline, and high-set brows.
 
 # Dossier {#dossier}
 

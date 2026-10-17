@@ -254,7 +254,7 @@ The camp lies a long day's ride from the broken towers, farther than anyone need
 
 # Dossier {#dossier}
 
-The Yiqnotud is what the tribes of the steppe call the hunters of the thin [[lore-bloodfield|Blood-fields]]: the predator spirits that cross into this world in a semi-material form on the worst of the ground, take hold of the living and kill them. The word means "the hunter". The tribes use it as the name of a kind and not of a creature, and they do not say it after dark.
+The Yiqnotud is what the tribes of the steppe call the hunters of the thin [[lore-bloodfield|blood-fields]]: the predator spirits that cross into this world in a semi-material form on the worst of the ground, take hold of the living and kill them. The word means "the hunter". The tribes use it as the name of a kind and not of a creature, and they do not say it after dark.
 
 Its place in the doctrine is plain. A blood-field is ground where so many died together, unreceived by their own rites, that the boundary between the worlds tore, and the predators of the spirit realm gather where unreceived souls are. On a thin field the hunters come through in a form that can act on the world. Nothing living crosses the other way. The Yiqnotud is the reason a thin field is called cursed rather than haunted: a body found at its edge in the morning is a thing every district with a thin field has seen. It belongs with the [[being-spctrwlf|Specterwolf]] and the [[being-glmhnd|Gloomhound]] among the semi-material hunters of the spirit realm, and the steppe tells of it in its own terms.
 

@@ -9,9 +9,9 @@ data: {packFolder: celestialorder, culture: tantsouclt}
 
 A ship's captain in a Tantsou port burns a petition to the [Bureau of Air]{.name data-type="affiliation"} before he sails, a smith burns one to the [Bureau of Transformation]{.name data-type="affiliation"} before he lights a new forge, and neither of them would call it prayer. The Five Elemental Lords are the bureau chiefs of the [[lore-clstlpnthn|Celestial Pantheon]], each holding the portfolio of one of the five material domains that make up the physical world in the faith of the [[affiliation-tantsouempr|Empire of Tantsou]]. They were appointed at the [Great Sorting]{.name data-type="lore/cosmology"} to keep the elements in their categories and the physical world from dissolving back into the [Henléi]{.name data-type="lore/cosmology"}, and the Tantsou petition them as they would petition a magistrate.
 
-The [[lore-phlsphyleiwo|Philosophy of Leiwo]] recognizes seven domains of classification in total, but only five are material—Air, Fire, Earth, Metal, and Water—and each of these is administered by an Elemental Lord. The remaining two domains are too fundamental to the classification system itself for any single bureau chief to hold: **Spirit (Woléi)** is governed collectively by the celestial bureau system (particularly the [Ministry of Final Account]{.name data-type="affiliation"} and the [Bureau of Night Counsel]{.name data-type="affiliation"}), and **Neutral (Hou)** is the domain of [[lore-tanzhodty|Tanzho]] himself—the unsorted energy that sustains all sorting.
+The [[lore-phlsphyleiwo|Leiwo philosophy]] recognizes seven domains of classification in total, but only five are material—Air, Fire, Earth, Metal, and Water—and each of these is administered by an Elemental Lord. The remaining two domains are too fundamental to the classification system itself for any single bureau chief to hold: **Spirit (Woléi)** is governed collectively by the celestial bureau system (particularly the [Ministry of Final Account]{.name data-type="affiliation"} and the [Bureau of Night Counsel]{.name data-type="affiliation"}), and **Neutral (Hou)** is the domain of [[lore-tanzhodty|Tanzho]] himself—the unsorted energy that sustains all sorting.
 
-Each Elemental Lord governs a domain established by Tanzho during the Great Sorting and serves beneath the senior officials of the pantheon. Their authority belongs to their posts: they administer because the classification assigned them to.
+Each Elemental Lord governs a domain established by Tanzho during the Dao Zhaoléi and serves beneath the senior officials of the pantheon. Their authority belongs to their posts: they administer because the classification assigned them to.
 
 ## Wéngdao Zhouwo—Azure Wind of Sacred Breath
 
@@ -62,7 +62,7 @@ Bureau
 
 He is depicted as a massive, solid figure, with skin like stone and eyes like deep ancient caves. His weapon is a hammer made from the heart of the earth, representing the bureau's capacity to enforce stability. The Tanchéi read an earthquake as a disruption in the Earth domain that needs correcting, and never as a punishment, and the empire's ministries of earthquakes work from that reading.
 
-Builders, miners, and engineers file petitions with this bureau for structural integrity, safe excavation, and the stability of foundations. The [[lore-flkkhazar|Khazár Folk]], whose legendary mastery of stone and engineering falls within this domain, have a complex relationship with the bureau—they work within its jurisdiction when operating in the empire, while understanding their craft through an entirely different framework within their own enclaves.
+Builders, miners, and engineers file petitions with this bureau for structural integrity, safe excavation, and the stability of foundations. The [[lore-flkkhazar|Khazari]], whose legendary mastery of stone and engineering falls within this domain, have a complex relationship with the bureau—they work within its jurisdiction when operating in the empire, while understanding their craft through an entirely different framework within their own enclaves.
 
 ## Wojing Ja—Sword of Pure Metal
 

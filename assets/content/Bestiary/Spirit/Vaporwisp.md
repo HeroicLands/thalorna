@@ -140,7 +140,7 @@ A vaporwisp is a shape without clear edges, a roughly human form of mist five to
 
 ## In the Land
 
-Galvaren is a country of rain, fog, deep forests and rocky shores facing the open ocean, and its fishing fleets are the largest in western [[place-ankrscntnnt|Ankaris Continent]]. The vaporwisps come with the sea-fog, at dusk and dawn and through foggy nights, and they haunt the thresholds of the coast: the passage graves and the stone circles, the edges of the woods where they meet the fields, the fords, and the harbor mouths of the fishing towns where the fog lies thickest. They are drawn to water, mist and cold and to places touched by recent death. When the fog lifts they go with it, and sunlight drives them into the stones.
+Galvaren is a country of rain, fog, deep forests and rocky shores facing the open ocean, and its fishing fleets are the largest in western [[place-ankrscntnnt|Ankaris]]. The vaporwisps come with the sea-fog, at dusk and dawn and through foggy nights, and they haunt the thresholds of the coast: the passage graves and the stone circles, the edges of the woods where they meet the fields, the fords, and the harbor mouths of the fishing towns where the fog lies thickest. They are drawn to water, mist and cold and to places touched by recent death. When the fog lifts they go with it, and sunlight drives them into the stones.
 
 ## Key Behaviors
 
@@ -148,7 +148,7 @@ A vaporwisp drifts where the boundary is thin and comes on whatever living thing
 
 ## What the Galváreni Do
 
-The Galváreni take their ghost stories more seriously than anyone else in [[place-tarvenirgn|Tarvénia Region]], and the vaporwisp is the reason some of their customs exist. A fisherman's family lights a lamp in the window on a foggy night and keeps it burning till the boats are home, because the wisps shun a steady light. Nobody walks between the standing stones in a fog. A man found at dawn on the shore, cold and weak, is put by the fire and made to talk, and kept awake till noon, because a man the wisp has touched who sleeps cold sometimes does not wake. The fishing crews carry a smith's hammer in the boat, because iron struck hard breaks up a wisp's shape, and the priests of the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] who tolerate the old stories with varying patience bless the harbor stones at the turn of the year all the same.
+The Galváreni take their ghost stories more seriously than anyone else in [[place-tarvenirgn|Tarvénia]], and the vaporwisp is the reason some of their customs exist. A fisherman's family lights a lamp in the window on a foggy night and keeps it burning till the boats are home, because the wisps shun a steady light. Nobody walks between the standing stones in a fog. A man found at dawn on the shore, cold and weak, is put by the fire and made to talk, and kept awake till noon, because a man the wisp has touched who sleeps cold sometimes does not wake. The fishing crews carry a smith's hammer in the boat, because iron struck hard breaks up a wisp's shape, and the priests of the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] who tolerate the old stories with varying patience bless the harbor stones at the turn of the year all the same.
 
 ## Signs
 

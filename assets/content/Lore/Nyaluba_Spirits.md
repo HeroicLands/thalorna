@@ -8,7 +8,7 @@ tags: [nyaluba, religion]
 data: {packFolder: settinglore, culture: nyalubaclt}
 ---
 
-Nyáluba Spirits are the active substance of the [[affiliation-nyalbpnthn|Nyáluba Pantheon]]. In the tradition, beneath the
+The spirits are the active substance of the [[affiliation-nyalbpnthn|Nyáluba Way]]. In the tradition, beneath the
 single diffuse source—[[lore-shorinyadty|Shorinya Ndafo]], which receives nothing—it is the
 **guides** that Nyáluba religious life is directed at. They are not gods and they are not
 worshipped. In the language of the tradition they are **venerated, appeased, or warded against**,
@@ -47,7 +47,7 @@ Ward against
 The tradition imposes no rigid taxonomy, but seven kinds recur across the clans.
 
 Totems
-: the ancestral guides of a clan's lineage, and the ones with formal cults of their own: [[affiliation-nyalblion|Lion Totem]] ([Ruwozi]{.name data-type="affiliation/lineage"}), [[affiliation-nyalbcroc|Crocodile Totem]] ([Kolembozi]{.name data-type="affiliation/lineage"}), [[affiliation-nyalbeagl|Eagle Totem]] ([Ngonzi]{.name data-type="affiliation/lineage"}), [[affiliation-nyalbleop|Leopard Totem]] ([Sengala]{.name data-type="affiliation/lineage"}) and [[affiliation-nyalbbaob|Baobab Totem]] ([Lobwezi]{.name data-type="affiliation/lineage"}). A totem is not an animal but the ancestral presence from which the clan traces its identity, and the clan's conduct is bound by its nature.
+: the ancestral guides of a clan's lineage, and the ones with formal cults of their own: [[affiliation-nyalblion|Lion]] ([Ruwozi]{.name data-type="affiliation/lineage"}), [[affiliation-nyalbcroc|Crocodile]] ([Kolembozi]{.name data-type="affiliation/lineage"}), [[affiliation-nyalbeagl|Eagle]] ([Ngonzi]{.name data-type="affiliation/lineage"}), [[affiliation-nyalbleop|Leopard]] ([Sengala]{.name data-type="affiliation/lineage"}) and [[affiliation-nyalbbaob|Baobab]] ([Lobwezi]{.name data-type="affiliation/lineage"}). A totem is not an animal but the ancestral presence from which the clan traces its identity, and the clan's conduct is bound by its nature.
 
 Land-spirits
 : whose domain is a place rather than a lineage: keepers of gathering-trees, ridge-spirits of sacred heights, spirits of crossings, cairns and thresholds. Many of the oldest sites are held by land-spirits that were ancient when the first clans arrived.

@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [nrdlndsrgn], population: null, packFol
 
 The Shattered Peaks do not hate those who climb them; they do not notice them, and that is worse. A prospector who came back down to [[place-tvarnmark|Tvarnmark]] with the last sledge of a party that went up hunting mithral crossed the saddle once, in three days of good weather, and would not call that luck to anyone going up behind him.
 
-The Shattered Peaks are a compact massif in the mountain interior of the [[place-nrdlndsrgn|Nordlands Region]], within the [[affiliation-kingdmnrgd|Kingdom of Norgaad]]. They are small, about five leagues across, but no stretch of country on the [[place-ankrscntnnt|Ankaris Continent]] packs more broken stone into so little ground, and the [[lore-nordheimnclt|Nordmen]] who live around them reckon the five leagues as a wall.
+The Shattered Peaks are a compact massif in the mountain interior of the [[place-nrdlndsrgn|Nordlands]], within the [[affiliation-kingdmnrgd|Kingdom of Norgaad]]. They are small, about five leagues across, but no stretch of country on [[place-ankrscntnnt|Ankaris]] packs more broken stone into so little ground, and the [[lore-nordheimnclt|Nordmen]] who live around them reckon the five leagues as a wall.
 
 ## Geography
 

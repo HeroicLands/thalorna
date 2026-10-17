@@ -399,7 +399,7 @@ Zathron Kaseranis is a 44-year-old man who stands 5'9" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria Region]] to a noble family of [[lore-vylarianclt|Vylarian]] heritage, Zathron Kaseranis came into the world of the physician through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria region]] to a noble family of [[lore-vylarianclt|Vylarian]] heritage, Zathron Kaseranis came into the world of the physician through a combination of circumstance and aptitude.
 
 Zathron is a physician with a reputation for his innovative treatments and thorough approach to patient care. He has spent years researching various medical practices and is known for his willingness to experiment with new methods. Zathron is passionate about advancing medical knowledge and often shares his findings with peers. Despite his serious demeanor, he has a kind heart and is dedicated to his patients' well-being.
 

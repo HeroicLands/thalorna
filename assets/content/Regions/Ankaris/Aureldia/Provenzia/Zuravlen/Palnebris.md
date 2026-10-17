@@ -9,7 +9,7 @@ data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 310, packFol
 ---
 
 Palnebris holds the best of the upper terraces, and is the wealthiest manor in
-the [[affiliation-brnyzrvln|Barony of Zuravlen]] and the most precarious. Nearly its whole demesne is under peach. In a
+[[affiliation-brnyzrvln|Zuravlen]] and the most precarious. Nearly its whole demesne is under peach. In a
 good year its lord out-earns the baron; in a frost year he borrows, and everyone knows it.
 
 Use Palnebris as the model of a **manor run for a single high-value crop**.
@@ -28,7 +28,7 @@ Use Palnebris as the model of a **manor run for a single high-value crop**.
   only three in the barony—so it does not pay the baron's share, and it takes a share from the
   holdings around it that use the yard instead.
 - **The graft-house.** A heated shed where winter grafting is done. The manor's grafters are the best
-  in the [[place-provenzrgn|Provenzia Region]] and are lent out, at a price, as far as the coast.
+  in [[place-provenzrgn|Provenzia]] and are lent out, at a price, as far as the coast.
 
 ## Officers and Custom
 

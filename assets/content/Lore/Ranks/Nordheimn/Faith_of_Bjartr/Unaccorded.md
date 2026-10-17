@@ -8,11 +8,11 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-The [[affiliation-bjartr|Faith of Bjart]] has no officer who pronounces an expulsion, because no single [[lore-calathirrnk|Ansorun]] presides over the [Aulirarno]{.name data-type="affiliation/governmental"}. When the council will not reach accord on a man, its silence toward him does the work.
+The [[affiliation-bjartr|faith of Bjart]] has no officer who pronounces an expulsion, because no single [[lore-calathirrnk|Ansorun]] presides over the [Aulirarno]{.name data-type="affiliation/governmental"}. When the council will not reach accord on a man, its silence toward him does the work.
 
 ## What This Standing Is
 
-The Aulirarno, the faith's council of radiance, speaks until it reaches accord on a matter before it, and can withhold that accord from a man it will not recognize. The gathering as a body holds this power, and a man it refuses accord to is Hluskmadr, cast from the faith's standing by the same body that would otherwise confer it.
+The Aulirarno, the faith's council of radiance, speaks until it reaches accord on a matter before it, and can withhold that accord from a man it will not recognize. The gathering as a body holds this power, and a man it refuses accord to is cast from the faith's standing by the same body that would otherwise confer it.
 
 ## How the Law Treats a Person Here
 

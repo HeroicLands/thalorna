@@ -602,7 +602,7 @@ sohl:
   flags: {"thalorna": {lang_family: Khelathi (isolate)}}
 ---
 
-Khelathi Language is a tongue of the Khelathi (isolate) family. Fluency measures the sophistication of expression in Khelathi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Khelathi is a tongue of the Khelathi (isolate) family. Fluency measures the sophistication of expression in Khelathi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
@@ -690,7 +690,7 @@ Syllable Structure
 : CV or CVC; a word may begin with a vowel, which the glottal marks
 
 Word Length
-: Often moderate (two to three morphemes); compound names are less frequent than in [[skill-vedyarlng|Vedyari Language]], though hieratic epithets create lengthy formal designations
+: Often moderate (two to three morphemes); compound names are less frequent than in [[skill-vedyarlng|Vedyari]], though hieratic epithets create lengthy formal designations
 
 Stress Patterns
 : Usually fall on the first or second syllable; later syllables receive weaker stress in polysyllabic words
@@ -722,7 +722,7 @@ Khelathi is written in two hands, and the division between them is one of trade 
 
 **Modern Simplifications:** In recent centuries, some merchants and scholars have experimented with an even more streamlined "mercantile hand," approaching the status of a true alphabet with 24-30 signs per some reformers.
 
-**Vowels and Foreign Spellings:** Neither hand records vowels. The phonetic signs carry consonants, and a reader supplies the vowels out of the word he already knows. The spellings other tongues give to Khelathi words are transliterations written in the [[skill-semrnscrpt|Semaron Script]], and the vowels a foreigner reads in one of them are a convenience his own scholars supply where the Khelathi scripts write nothing at all. A Khelathi says his name in the three vowels the language has; a foreigner writes it in the letters his own alphabet gives him, and the two need not agree.
+**Vowels and Foreign Spellings:** Neither hand records vowels. The phonetic signs carry consonants, and a reader supplies the vowels out of the word he already knows. The spellings other tongues give to Khelathi words are transliterations written in the [[skill-semrnscrpt|Semaron]], and the vowels a foreigner reads in one of them are a convenience his own scholars supply where the Khelathi scripts write nothing at all. A Khelathi says his name in the three vowels the language has; a foreigner writes it in the letters his own alphabet gives him, and the two need not agree.
 
 **Literacy:** Formal training in sacred Khelathi script is restricted to the priesthood, royal scribes, and members of the esoteric orders. Among the nobility, perhaps one in five can read the Qalezu script, and a smaller number the sacred form. Professional scribes handle all written communication for the rest of the population; even guildsmen and merchants rely entirely on scribes for contracts and records. The gulf between the literate few and the non-literate majority is steep and has become a marker of social prestige and magical authority.
 
@@ -730,15 +730,15 @@ Khelathi is written in two hands, and the division between them is one of trade 
 
 ### Proto-Khelathi
 
-Khelathi is an isolate language with no widely-accepted external relatives. Its ancient origins are lost in myth and speculation. Some scholars propose that it represents a linguistic refuge—a language family that once spread widely but was supplanted by the expansion of other tongues, leaving Khelathi as its sole surviving member. Certain lexical and structural features show vague similarities to northern [[skill-okharclng|Okharik Language]], but these connections are tenuous and disputed.
+Khelathi is an isolate language with no widely-accepted external relatives. Its ancient origins are lost in myth and speculation. Some scholars propose that it represents a linguistic refuge—a language family that once spread widely but was supplanted by the expansion of other tongues, leaving Khelathi as its sole surviving member. Certain lexical and structural features show vague similarities to northern [[skill-okharclng|Okharik]], but these connections are tenuous and disputed.
 
 ### Classical Period (Age of Monuments)
 
-The standardization of Classical Khelathi occurred during the early dynasties of the Khelathi Empire, roughly 2,300 years before present, under [Zab'Uzner]{.name data-type="being/npc"}, the fifth Gar-Au of the First House ([[lore-sacredhand|The Fixing of the Sacred Hand]]). This period saw the composition of the great temple inscriptions, the codification of ritual languages, and the establishment of scribal schools that have persisted to the present day. The language of this period—frozen in written form—remains the prestige register.
+The standardization of Classical Khelathi occurred during the early dynasties of the Khelathi Empire, roughly 2,300 years before present, under [Zab'Uzner]{.name data-type="being/npc"}, the fifth Gar-Au of the First House ([[lore-sacredhand|the Fixing of the Sacred Hand]]). This period saw the composition of the great temple inscriptions, the codification of ritual languages, and the establishment of scribal schools that have persisted to the present day. The language of this period—frozen in written form—remains the prestige register.
 
 ### Development of the People's Hand
 
-Around 800 years ago, the widening gap between the laborious sacred script and the practical needs of administration led to the development of Qalezu Khelathi, sanctioned by the queen [Gith'el'Retha I]{.name data-type="being/npc"} of [Amqelu'Gatau]{.name data-type="affiliation/lineage"} ([[lore-peopleshand|The People's Hand]]). While structurally identical to Classical Khelathi, Qalezu represents an orthographic reform rather than a linguistic one. However, its rapid adoption by the merchant class and administrative bureaucracies has gradually introduced vernacular features into what is written, accelerating the divergence between formal and colloquial speech.
+Around 800 years ago, the widening gap between the laborious sacred script and the practical needs of administration led to the development of Qalezu Khelathi, sanctioned by the queen [Gith'el'Retha I]{.name data-type="being/npc"} of [Amqelu'Gatau]{.name data-type="affiliation/lineage"} ([[lore-peopleshand|the People's Hand]]). While structurally identical to Classical Khelathi, Qalezu represents an orthographic reform rather than a linguistic one. However, its rapid adoption by the merchant class and administrative bureaucracies has gradually introduced vernacular features into what is written, accelerating the divergence between formal and colloquial speech.
 
 ### Modern Divergence
 
@@ -806,10 +806,10 @@ The particles are _elu_ (of, upon), _ezu_ (in), _ez_ (to, toward) and _agu_
 Two Khelathi words are the learned world's names for the undead, taken from the funerary texts of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] by every scholarly tradition that copied them; see [[lore-undead|Undead]] for their use.
 
 terebu
-: root _t-r-b_, to wear, to cloak: _the cloaked one_, the sentient undead ([[being-tereb|Tereb]]). Invariant in number: one _terebu_, many _terebu_.
+: root _t-r-b_, to wear, to cloak: _the cloaked one_, the sentient undead ([[being-tereb|tereb]]). Invariant in number: one _terebu_, many _terebu_.
 
 dumatu
-: root _d-m-t_, to drive, to goad: _the driven one_, the mindless undead ([[being-damut|Damut]]). Invariant in number: one _dumatu_, many _dumatu_.
+: root _d-m-t_, to drive, to goad: _the driven one_, the mindless undead ([[being-damut|damut]]). Invariant in number: one _dumatu_, many _dumatu_.
 
 The temple form is the word as Khelathi speak and write it, emphatics and all. _Tereb_ and _damut_ are what the rest of the world made of it: the international plural, _terebu_ and _damutu_, is the temple word heard without its emphatics, and the international singular, _tereb_ ("TEH-reb") and _damut_ ("dah-MOOT"), is a back-formation from that plural. A Khelathi priest says _terebu_ for one and for many; a Vylarian physician says _tereb_ and _terebu_.
 
@@ -1006,7 +1006,7 @@ all of it.
 supplies them out of the word he already knows. A name broken off short is no word
 he knows, so its consonants read back as some other name, or as none. A scribe
 enters the given name, the temple account is kept under it, and
-[[lore-readingweigh|The Reading at the Weighing]] reads it out. A contract made out
+[[lore-readingweigh|the Reading at the Weighing]] reads it out. A contract made out
 to a near name names nobody the archive holds.
 
 **It belongs to the people a tie binds**—kin, the household, neighbors, a master
@@ -1069,7 +1069,7 @@ thousand years after the first `Zab'Uzner`, in a house that had no tie to his.
 
 A founder may keep his own given name as his throne name, seamless as it was, and
 the house after him keeps it in his honor. Every Gar-Au of the reigning house has
-been crowned `Meqes`, which is why the reigning Gar-Au is [[being-garaumeqesxv|Gar-Au Meqes XVI]].
+been crowned `Meqes`, which is why the reigning Gar-Au is [[being-garaumeqesxv|Meqes XVI]].
 
 ### Institutional Names
 

@@ -20,7 +20,7 @@ A party crossing the [[place-vandstein|Vandstein]] highlands by the old road tak
 
 ## Overview
 
-North of the passes [[lore-legionsroad|The Legions' Road]] crosses a gorge on four Vylarian piers and climbs into the black pines of [[place-dunkelholt|Dunkelholt]], where a stone shell of an imperial post has been roofed again as a guesthouse. Its keeper, [Othric yra Vandwald wur Vandgrund]{.name data-type="being/npc"}, has a wife the Master below has kept alive after a bear mauled her, and he pays for that by sending travelers down the cellar stair. The Master is [Siremos]{.name data-type="being/npc"}, a Vylarian of [[affiliation-ordoarcanis|Thordimalon]] whose house struck him from its rolls; the [Sekran]{.name data-type="affiliation"} wants him dead for the arts he practices, and its file describes an old man. His servants are [[lore-golemcrtr|Constructs]] of dead flesh, each held by a ring of signs cut into its skin, and the largest, the [Choir]{.name data-type="being/creature"}, hunts the near bank of the river at night. A thin young woman, [Sundrún yra Eichrúnd wur Erthhaven]{.name data-type="being/npc"}, serves at the keeper's table, and she is the party's best guide to all of it.
+North of the passes [[lore-legionsroad|the Legions' Road]] crosses a gorge on four Vylarian piers and climbs into the black pines of [[place-dunkelholt|Dunkelholt]], where a stone shell of an imperial post has been roofed again as a guesthouse. Its keeper, [Othric yra Vandwald wur Vandgrund]{.name data-type="being/npc"}, has a wife the Master below has kept alive after a bear mauled her, and he pays for that by sending travelers down the cellar stair. The Master is [Siremos]{.name data-type="being/npc"}, a Vylarian of the [[affiliation-ordoarcanis|Thordimalon]] whose house struck him from its rolls; the [Sekran]{.name data-type="affiliation"} wants him dead for the arts he practices, and its file describes an old man. His servants are [[lore-golemcrtr|constructs]] of dead flesh, each held by a ring of signs cut into its skin, and the largest, the [Choir]{.name data-type="being/creature"}, hunts the near bank of the river at night. A thin young woman, [Sundrún yra Eichrúnd wur Erthhaven]{.name data-type="being/npc"}, serves at the keeper's table, and she is the party's best guide to all of it.
 
 That is the story as the party first meets it, and every sentence of it holds. The section that follows, What Is Really Happening, says how the rest of it reaches the party.
 
@@ -92,7 +92,7 @@ Once the reveal lands, the party wants something it did not want before. The gir
 ## Hooks
 
 - **The thief.** A [[place-moktur|Moktur]] factor's agent at the border garrison says a fur consignment worth a small fortune went north with a [[place-vandgrund|Vandgrund]] guide last autumn and never reached [[place-waldburg|Waldburg]]. Her house wants the furs or the proof they are gone, and will pay for either.
-- **The mercenary or common soldier.** A merchant party crossing to Waldburg hires the party as guards at Vandgrund, because [[affiliation-blckpnwlvs|The Blackpine Wolves]] work the road south of the gorge. The merchants have been told there is a good guesthouse on the way.
+- **The mercenary or common soldier.** A merchant party crossing to Waldburg hires the party as guards at Vandgrund, because [[affiliation-blckpnwlvs|the Blackpine Wolves]] work the road south of the gorge. The merchants have been told there is a good guesthouse on the way.
 - **The leader.** A Vandgrund elder who has counted the parties that never reached Waldburg wants someone from outside the kindred to walk the road and say what is on it, because the guides who send parties north are her own kin.
 - **The lone wanderer.** The guide, Arngar yra Skaldrith wur Thrastein, takes the job for less than it is worth. His brother [Arnric]{.name data-type="being/npc"} guided a fur party north on this road last autumn and did not come home, and Arngar does not mention it.
 
@@ -172,7 +172,7 @@ She never says who the Master is. She says "the Master" and "below", and lets th
 - **Force.** Break down the cellar door now. It is oak bound in Vylarian iron, and the noise brings the keeper with an axe and wakes what is below.
 - **Stealth.** Wait for the house to sleep, and go down by Sundrún's way.
 - **Talk.** Get the whole story from Sundrún, which costs her the keeper's trust if he hears of it, or confront the keeper with the pack, which costs Arngar his patience.
-- **Cleverness with the place.** Read the luggage. Among it is a Moktur factor's day-book in [[skill-semrnscrpt|Semaron Script]], its last pages written here.
+- **Cleverness with the place.** Read the luggage. Among it is a Moktur factor's day-book in [[skill-semrnscrpt|Semaron script]], its last pages written here.
 - **Giving something up.** Leave the luggage and its silver where it is, so that the keeper finds nothing disturbed.
 
 **Clues and rewards.** The factor's entries are plain and frightened, and each records something the party can set beside Sundrún's account:

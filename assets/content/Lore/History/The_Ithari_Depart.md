@@ -42,7 +42,7 @@ data:
 ---
 
 The record describes the beginning of The Departure of the Ithari as a disturbance. Something went through
-[[lore-theithari|The Ithari]]—the word the custodians preserve carries no more than that, and does not
+[[lore-theithari|the Ithari]]—the word the custodians preserve carries no more than that, and does not
 say whether it came from within them, from the island, or from somewhere else entirely.
 
 What followed was quick. They went to the caretakers of the instruments and gave them a further set of
@@ -54,5 +54,5 @@ perform, indistinguishable now from the older body of practice, and nothing in t
 of the tendings were added at the end. Nobody knows what they were for.
 
 This is the one Ithari date the Kaliharans hold precisely, because everything they do is counted from
-it. Everything else in the account—the arrival, the raising, the meeting with the [[lore-flksinale|Sinale Folk]]—is
+it. Everything else in the account—the arrival, the raising, the meeting with the [[lore-flksinale|Sinale]]—is
 reckoned loosely.

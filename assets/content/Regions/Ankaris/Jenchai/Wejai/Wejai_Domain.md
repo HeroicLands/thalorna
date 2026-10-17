@@ -66,7 +66,7 @@ The three villages below are named on the roll; smaller landings and hamlets und
 | Wewo    | Wind Sea      | Shrine land  | The cape shrine of the Minister of Storms | Reef fishing and pilgrims |      500 |
 | Hanu    | Dark Terraces | Court estate | The Emperor, through the lord's granary   | Rice behind the dunes     |    1,000 |
 
-The summit shrine of Wejai keeps the storm aspect of the [[affiliation-tengwouronglei|Téngwou Rong Lei]], and its Tanchéi are provisioned from the lord's villages. The cape shrine of the Minister of Storms at [Wewo]{.name data-type="place/settlement"} holds its village as shrine land: the four parts of Wewo's assessment go to the shrine, not to the lord.
+The summit shrine of Wejai keeps the storm aspect of the [[affiliation-tengwouronglei|Celestial Order]], and its Tanchéi are provisioned from the lord's villages. The cape shrine of the Minister of Storms at [Wewo]{.name data-type="place/settlement"} holds its village as shrine land: the four parts of Wewo's assessment go to the shrine, not to the lord.
 
 ## Retainers
 

@@ -17,9 +17,9 @@ data:
 
 ## Overview
 
-"The god shaped the world," a Lem'Nelgir (priest) of the [[affiliation-psaqaru|Faith of Saq'aru]] tells an apprentice in the forecourt of a craft-temple, "and a smith does it again, small. Handle the metal accordingly."
+"The god shaped the world," a Lem'Nelgir (priest) of [[affiliation-psaqaru|Saq'aru]] tells an apprentice in the forecourt of a craft-temple, "and a smith does it again, small. Handle the metal accordingly."
 
-Lut-Getha is the capital of [[affiliation-selatltgthzl|The Selat of Lut-Getha-Zalu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who keeps his court and granaries beside the chief temple of the Faith of Saq'aru, the scribal bureau that keeps the tax rolls, and the markets that serve the smith-towns and villages. About 36,000 people live here. The empire's smiths work steel as a matter of course, so it is bronze and gold that Lut-Getha is known for: the metal of ceremony.
+Lut-Getha is the capital of [[affiliation-selatltgthzl|the Selat of Lut-Getha-Zalu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who keeps his court and granaries beside the chief temple of the Faith of Saq'aru, the scribal bureau that keeps the tax rolls, and the markets that serve the smith-towns and villages. About 36,000 people live here. The empire's smiths work steel as a matter of course, so it is bronze and gold that Lut-Getha is known for: the metal of ceremony.
 
 ## See Also
 

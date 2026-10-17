@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-**Zargandur** is the third of the seven Tellumi cities, in the heart of [[place-swoasisbelt|Tellumel]], and it was the war-city of the Tellumi: the seat of their strongest cavalry and the first city the [[affiliation-tribestrzd|Tribes of Atarzád]] took, in the second year of the war. About forty-five thousand people live inside its walls today. The [Zhoqarod]{.name data-type="affiliation"}, the largest and most martial of the twelve Atarzád tribes, hold it as their garrison city, and their herds graze the pastures to the north. The walls are higher than any in the belt, because the Atarzád rebuilt them after the war to keep the Tellumi in as well as other people out.
+**Zargandur** is the third of the seven Tellumi cities, in the heart of [[place-swoasisbelt|Tellumel]], and it was the war-city of the Tellumi: the seat of their strongest cavalry and the first city the [[affiliation-tribestrzd|Atarzád]] took, in the second year of the war. About forty-five thousand people live inside its walls today. The [Zhoqarod]{.name data-type="affiliation"}, the largest and most martial of the twelve Atarzád tribes, hold it as their garrison city, and their herds graze the pastures to the north. The walls are higher than any in the belt, because the Atarzád rebuilt them after the war to keep the Tellumi in as well as other people out.
 
 ## Water
 
@@ -24,7 +24,7 @@ A snowmelt river comes down from the Grazian glaciers in the south and reaches t
 
 ## Trade and Life
 
-Zargandur lives on war and horses. The Zhoqarod breed the long-legged desert horse on the northern pasture, and the horse-fair at the end of spring draws buyers from the [[place-dunharargn|Dunhara Region]] and [[place-wstrndscnt|The Western Descent]]. Armorers, saddle-makers and bowyers fill the streets near the garrison, and the city exports blades and harness to the other oasis towns and the market of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. Everyone else sells to the soldiers: bakers, wine-sellers, scribes, fixers. Grain comes from the irrigated plain around the city, and a long season of dry weather is felt first at the garrison's bread.
+Zargandur lives on war and horses. The Zhoqarod breed the long-legged desert horse on the northern pasture, and the horse-fair at the end of spring draws buyers from the [[place-dunharargn|Dunhara Region]] and [[place-wstrndscnt|the Western Descent]]. Armorers, saddle-makers and bowyers fill the streets near the garrison, and the city exports blades and harness to the other oasis towns and the [[affiliation-kngdmmrdd|Amradad market]]. Everyone else sells to the soldiers: bakers, wine-sellers, scribes, fixers. Grain comes from the irrigated plain around the city, and a long season of dry weather is felt first at the garrison's bread.
 
 Nights in the city are lit. The Tellumi quarter keeps lamps burning at every door until dawn, and a chandler's trade is one of the steadier ones in the quarter. The practice is old and nobody explains it to outsiders.
 
@@ -36,7 +36,7 @@ The Zhoqarod rule by garrison. They post watchers at the gates, the weirs and th
 
 ## The Field Outside the Walls
 
-Outside the northern wall, past the last irrigated plot, lies [[place-henhulpedin|Henhutpedin]], the blood field of the Breaking, which nobody crosses at night.
+Outside the northern wall, past the last irrigated plot, lies the [[place-henhulpedin|Henhutpedin]], the blood field of the Breaking, which nobody crosses at night.
 
 ## Hooks and Dangers
 

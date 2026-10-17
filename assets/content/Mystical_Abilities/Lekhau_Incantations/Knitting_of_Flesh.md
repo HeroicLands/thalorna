@@ -16,5 +16,5 @@ sohl:
 
 Knitting of Flesh is the great healing form, and one of the few workings in the tradition with a cost carried by the
 practitioner rather than the material: the mender is emptied by it and cannot work another that
-day. [[affiliation-garnlghkhlth|Gar-Anlagh'Khelathu]] shares reduced versions with the temples of the [[affiliation-uznera|Faith of Uzn'era]], whose priestesses do most of the
+day. [[affiliation-garnlghkhlth|Gar-Anlagh'Khelathu]] shares reduced versions with the temples of [[affiliation-uznera|Uzn'era]], whose priestesses do most of the
 empire's actual healing and are, by the House's own admission, better at it.

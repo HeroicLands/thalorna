@@ -18,7 +18,7 @@ data:
 military seat of [[place-talothe|Talote]], the [[place-provenzrgn|Provenzia Region]]'s eastern march.
 
 It is not an old town, which distinguishes it from almost everything else on this frontier. It was
-built after [[lore-warprinces|The War of the Princes]], deliberately and at considerable expense, to hold a road that had been raided along since [[lore-malnebris|Malnebris]] and that a Tarvénian host had walked unopposed in the war's second year. Its walls are the newest of any consequence in the kingdom: high, thick, unromantic,
+built after [[lore-warprinces|the War of the Princes]], deliberately and at considerable expense, to hold a road that had been raided along since [[lore-malnebris|Malnebris]] and that a Tarvénian host had walked unopposed in the war's second year. Its walls are the newest of any consequence in the kingdom: high, thick, unromantic,
 and laid out by somebody who had read the Vylarian manuals and believed them.
 
 ## The Muster

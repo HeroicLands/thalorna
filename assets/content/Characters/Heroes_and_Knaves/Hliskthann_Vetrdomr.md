@@ -415,7 +415,7 @@ sohl:
 
 ![[hlskthnvtrdmr|Hliskthann Vetrdómr]]{float=top-left}
 
-Hliskthann Vetrdómr stands 6'1" tall with a medium build. He has tanned weathered skin, dark brown hair, and hazel eyes. His features include a long face, a slightly upturned nose, a strong jawline, laugh lines around the mouth, and dark brows.
+Hliskthann stands 6'1" tall with a medium build. He has tanned weathered skin, dark brown hair, and hazel eyes. His features include a long face, a slightly upturned nose, a strong jawline, laugh lines around the mouth, and dark brows.
 
 # Dossier {#dossier}
 

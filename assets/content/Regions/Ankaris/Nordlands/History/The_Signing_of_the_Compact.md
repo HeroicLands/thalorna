@@ -57,7 +57,7 @@ data:
         - the names of the first nine on the Council, which the Hall's own roll begins a generation later
 ---
 
-"Swear before the [Council of the Hall]{.name data-type="affiliation/governmental"}, and swear it with the whole company standing behind you," a captain tells the captain of a newly raised band at the door of the [Compact-Hall]{.name data-type="place/structure"}. The oath sworn in The Signing of the Compact is a century and a half old, and the reason for it is older: the first Nordmen the [[affiliation-vylarinmpr|Vylarian Empire]] hired were the same men who had been burning its coast twenty years before, and nobody on either side of the bargain trusted it.
+"Swear before the [Council of the Hall]{.name data-type="affiliation/governmental"}, and swear it with the whole company standing behind you," a captain tells the captain of a newly raised band at the door of the [Compact-Hall]{.name data-type="place/structure"}. The oath sworn in The Signing of the Compact is a century and a half old, and the reason for it is older: the first Nordmen the [[affiliation-vylarinmpr|empire]] hired were the same men who had been burning its coast twenty years before, and nobody on either side of the bargain trusted it.
 
 ## The Empire Buys What It Could Not Stop
 

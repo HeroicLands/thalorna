@@ -396,7 +396,7 @@ Khurutush Kalurum is a 45-year-old man who stands 6'1" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel Region]] to a guilded family of [[lore-taruzelianclt|Taruzelian]] heritage, Khurutush Kalurum came into the world of the swordmaster through a combination of circumstance and aptitude.
+Born in the [[place-taruzelrgn|Taruzel region]] to a guilded family of [[lore-taruzelianclt|Taruzelian]] heritage, Khurutush Kalurum came into the world of the swordmaster through a combination of circumstance and aptitude.
 
 Khurutush is a veteran swordsman who once was a guard captain for a prominent noble family. Now retired from active service, he earns his living by teaching swordsmanship to young nobles and aspiring warriors. Known for his strict discipline and precise techniques, Khurutush takes great pride in his students' achievements. However, he struggles with the aches and pains of aging, which sometimes hinder his own movements.
 

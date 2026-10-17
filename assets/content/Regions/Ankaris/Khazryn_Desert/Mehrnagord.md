@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-**Mernagord** is the sixth of the seven Tellumi cities in the order of their founding, at the western end of [[place-swoasisbelt|Tellumel]], where the last foothills of [[place-graznmntns|The Grazian Mountains]] come down to the belt and the road over [[place-wstrndscnt|The Western Descent]] ends. About thirty thousand people live in the city, and some one hundred and ten thousand more in the gardens, salt-works and villages of the oasis country round it. It is the largest of the three Tellumi cities still ruled by their own house, and the nearest Tellumi city to the lands of the west.
+**Mernagord** is the sixth of the seven Tellumi cities in the order of their founding, at the western end of [[place-swoasisbelt|Tellumel]], where the last foothills of [[place-graznmntns|the Grazian Mountains]] come down to the belt and the road over [[place-wstrndscnt|the Western Descent]] ends. About thirty thousand people live in the city, and some one hundred and ten thousand more in the gardens, salt-works and villages of the oasis country round it. It is the largest of the three Tellumi cities still ruled by their own house, and the nearest Tellumi city to the lands of the west.
 
 ## Water
 
@@ -24,20 +24,20 @@ The foothills above the city are cut by dry watercourses that carry snowmelt for
 
 ## Trade and Life
 
-Mernagord lives on the road and on salt. The salt pans lie on a dry lake-bed three hours west of the walls, and from them comes the white and the grey salt that is sold across the Descent into the [[place-vedyarargn|Vedyara Region]]'s northwestern marches and west as far as the Dunhari oases. Caravans from the west reach Mernagord without a guide, for the Descent is the one stretch of the range that needs none, and they leave with salt, dates, palm-sugar and the hard cheese of the oasis herds. The remainder of the economy is the traditional oasis life: gardens, groves, date wine for the merchants of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], and the spare cash of caravans resting between the sand and the sea.
+Mernagord lives on the road and on salt. The salt pans lie on a dry lake-bed three hours west of the walls, and from them comes the white and the grey salt that is sold across the Descent into the [[place-vedyarargn|Vedyara Region]]'s northwestern marches and west as far as the Dunhari oases. Caravans from the west reach Mernagord without a guide, for the Descent is the one stretch of the range that needs none, and they leave with salt, dates, palm-sugar and the hard cheese of the oasis herds. The remainder of the economy is the traditional oasis life: gardens, groves, date wine for the [[affiliation-kngdmmrdd|Kingdom's merchants]], and the spare cash of caravans resting between the sand and the sea.
 
 The city is plain and old. Its walls stand on the foundations of the original city, rebuilt by every generation since, and the courtyard houses inside are of the same adobe and palm-beam as the first Tellumi built. A family counts its grandfathers' wells and its great-grandfathers' graves.
 
 ## The House and the Atarzád
 
-The ruling prince, [Parván of Mernagord]{.name data-type="being/npc"}, is in his sixties, cautious, and inclined to accommodation with the Kingdom of Amradad and, warily, with the [[affiliation-tribestrzd|Tribes of Atarzád]] who hold the four lost cities. His household guard of about a hundred men is the largest of the three free houses', and it is no army. The [Teqemod]{.name data-type="affiliation"}, the Atarzád tribe of the western belt, sit at the gates of the [[place-oasishirvn|Oasis of Shirvan]] a few days east and could take the city in a season. They do not, because they find a free Tellumi city more useful than a conquered one: its prince is a channel to the Kingdom, and its salt reaches markets the Atarzád cannot.
+The ruling prince, [Parván of Mernagord]{.name data-type="being/npc"}, is in his sixties, cautious, and inclined to accommodation with the Kingdom of Amradad and, warily, with the [[affiliation-tribestrzd|Atarzád]] who hold the four lost cities. His household guard of about a hundred men is the largest of the three free houses', and it is no army. The [Teqemod]{.name data-type="affiliation"}, the Atarzád tribe of the western belt, sit at the gates of [[place-oasishirvn|Shirvan]] a few days east and could take the city in a season. They do not, because they find a free Tellumi city more useful than a conquered one: its prince is a channel to the Kingdom, and its salt reaches markets the Atarzád cannot.
 
 Atarzád merchants have sounded Parván out about a trade compact. The exile houses regard the idea as treason, and the oasis is full of people who say so loudly, and as many who do not.
 
 ## Hooks and Dangers
 
 - **The compact.** Parván wants an envoy he can trust to carry an offer to Amradad and a reply back, and the exile houses want to be sure he does not. A party could carry both messages and be paid by both.
-- **The lean season.** When winter is hard in the [[place-dunharargn|Dunhara Region]] the tribes come east over the Descent, in numbers and hungry. The oasis has seen it before, and Parván's men are not enough to turn them. A party on the road in that season finds out how much of its safety depends on a purchase made last autumn.
+- **The lean season.** When winter is hard in [[place-dunharargn|Dunhara]] the tribes come east over the Descent, in numbers and hungry. The oasis has seen it before, and Parván's men are not enough to turn them. A party on the road in that season finds out how much of its safety depends on a purchase made last autumn.
 - **The ancestral peaks.** The older genealogies root the houses in named peaks above the Descent, and a family with a dispute over precedence would pay to have a peak climbed and a claim proved. The upper slopes are cold, steep and unmapped.
 - **The pans.** The salt-lake is a white glare in summer, and the crust over the brine will bear a camel in the morning and not at noon. Workers lost to it are not recovered.
 

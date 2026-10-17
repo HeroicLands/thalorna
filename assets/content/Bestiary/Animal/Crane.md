@@ -235,7 +235,7 @@ The pool is mirror-flat in the morning light, and in the shallows two tall white
 
 # Dossier {#dossier}
 
-The Crane is the tall wading bird of the river basins of [[place-tantsouregin|Tantsou Region]], four to five feet high with a wingspan of seven to eight feet, and the empire protects it. Cranes stand in the marshes, shallow lakes and flooded fields. They mate for life and live for decades, and they are the emblem of fidelity, long life and order: they appear on imperial documents, on the robes of the court astronomers and on temple banners, and they are danced at court. Killing one is punished.
+The Crane is the tall wading bird of the river basins of [[place-tantsouregin|Tantsou]], four to five feet high with a wingspan of seven to eight feet, and the empire protects it. Cranes stand in the marshes, shallow lakes and flooded fields. They mate for life and live for decades, and they are the emblem of fidelity, long life and order: they appear on imperial documents, on the robes of the court astronomers and on temple banners, and they are danced at court. Killing one is punished.
 
 ## Presentation
 

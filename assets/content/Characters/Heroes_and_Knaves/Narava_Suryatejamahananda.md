@@ -421,7 +421,7 @@ sohl:
 
 ![[nrvsrytjmhnnd|Narava Suryatejamahananda]]{float=top-left}
 
-Narava Suryatejamahananda stands 6'2" tall with a heavy build. He has golden brown skin, jet black hair, and dark brown eyes. His features include a diamond-shaped face, a delicate nose, a rounded chin, an expressive mouth, golden brows, and soft cheeks. He has a tattoo of a compass on his chest.
+Narava stands 6'2" tall with a heavy build. He has golden brown skin, jet black hair, and dark brown eyes. His features include a diamond-shaped face, a delicate nose, a rounded chin, an expressive mouth, golden brows, and soft cheeks. He has a tattoo of a compass on his chest.
 
 # Dossier {#dossier}
 
@@ -493,7 +493,7 @@ Emotional Fragility
 
 ### Patrons
 
-[The Temple of Jnanasura]{.name data-type="affiliation"}, High Priestess [[being-viduliyadhan|Viduliya Danasura]]
+[The Temple of Jnanasura]{.name data-type="affiliation"}, High Priestess [[being-viduliyadhan|Viduliya]]
 : The grand temple of the knowledge deity has commissioned Narava for its sacred stained glass installations, which tell the stories of spiritual enlightenment through light and color. **High Priestess Viduliya** views his work as a form of religious expression and provides him with a stipend that gives his workshop basic financial stability.
 
 Shroshtin [Javaloka]{.name data-type="being/npc"} of [House Chendra]{.name data-type="affiliation/lineage"}

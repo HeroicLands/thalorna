@@ -14,7 +14,7 @@ data:
   banner: khelathubnr
 ---
 
-"Walk it in the order the sun does," a priest of the [[affiliation-uqaa|Faith of Uqa'a]] tells a pilgrim at the eastern edge of the city, "and the city explains itself."
+"Walk it in the order the sun does," a priest of [[affiliation-uqaa|Uqa'a]] tells a pilgrim at the eastern edge of the city, "and the city explains itself."
 
 **Wal-Uqa'a**, the **Sun's Road**, is the one straight line on which [[place-galezkara|Galezkara]] is hung. It begins at the eastern edge of the living city and runs in along the spine of the streets, and the named quarters either lie along it or branch off it. It crosses the [Bridge of the Coming-Forth]{.name data-type="place/structure"} to the sacred island of [[place-yathtelgu|Yath-Telgu]], passes through the forecourts of the [Great Temple of Uqa'a]{.name data-type="place/structure"}, and leaves the temple's western face by the [Bridge of the Going-Down]{.name data-type="place/structure"}. Beyond the second channel it climbs onto the desert shelf and becomes the death-road of the necropolis of [[place-zugezer|Zu-Gezer]]. Carved sphinxes and ram-statues line much of its length.
 

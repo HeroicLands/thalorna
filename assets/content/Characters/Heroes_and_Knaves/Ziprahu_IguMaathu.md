@@ -419,7 +419,7 @@ sohl:
 
 ![[ziprahuigmth|Ziprahu Igu'Maathu]]{float=top-left}
 
-Ziprahu Igu'Maathu stands 5'8" tall with a medium build. He has dark skin, deep black hair, and brown eyes. His features include a straight narrow nose, a narrow chin, and elegantly curved brows. He has a tattoo of a knight's helmet on his shoulder.
+Ziprahu stands 5'8" tall with a medium build. He has dark skin, deep black hair, and brown eyes. His features include a straight narrow nose, a narrow chin, and elegantly curved brows. He has a tattoo of a knight's helmet on his shoulder.
 
 # Dossier {#dossier}
 
@@ -485,7 +485,7 @@ Treasurer [[being-imhoqar2|Imhoqar]]
 Lady [[being-balenermshg2|Baleneri Mesheget]]
 : A noble of considerable wealth and paranoid disposition. She commissions new locks and security modifications every few months, trusting no one but Ziprahu with access to her estate's systems. She pays extraordinarily well and provides social access to her wealthy peers.
 
-[[affiliation-lutgewaatis|Lut-Gewa'atis]]
+The [[affiliation-lutgewaatis|Lut-Gewa'atis]]
 : The priesthood maintains contracts with Ziprahu for maintaining the Temple's sacred vaults. He is one of only three individuals alive who knows the complete configuration of the Temple's security system.
 
 [[affiliation-linzwrtglzk3|Lin'Zuwaret elu Galezkara]]
@@ -519,7 +519,7 @@ The Apprentice's Betrayal
 : Ziprahu finally agrees to take on a formal apprentice after decades of refusing, recognizing that his techniques cannot be lost when age eventually takes him from his craft. The apprentice, young [[being-menlaha|Menlaha]], is brilliant and dedicated, soaking up knowledge at an almost supernatural rate. After two years of intense training, Menlaha steals Ziprahu's masterwork—a lock design so cunning it can be opened by three specific keys, none alone sufficient, working in concert. Menlaha disappears into the criminal underworld, and Ziprahu discovers that his former apprentice is now designing locks for thieves, specifically locks intended to be broken by collaborators or safeguards that can be circumvented through methods only Ziprahu ever taught.
 
 The Living Lock
-: An ancient lock from [[lore-akhfirsttab|The First Tablets]] is brought to Ziprahu for restoration—an artifact of such age and peculiar design that no one alive knows how to open it or what principles govern its operation. The lock appears to shift subtly when not directly observed, its tumbler alignment seeming different each time Ziprahu examines it. Stranger still, the lock seems to react to Ziprahu specifically, clicking and whirring whenever he approaches, as though recognizing him. Through research, he discovers the lock was designed by a mage of the First Tablets and was intended to open only "when the worthy successor arrives." Ziprahu becomes convinced that the lock is somehow aware and is choosing him to be the one to open whatever it secures. His obsession with understanding this mechanism threatens to consume him entirely.
+: An ancient lock from [[lore-akhfirsttab|the First Tablets]] is brought to Ziprahu for restoration—an artifact of such age and peculiar design that no one alive knows how to open it or what principles govern its operation. The lock appears to shift subtly when not directly observed, its tumbler alignment seeming different each time Ziprahu examines it. Stranger still, the lock seems to react to Ziprahu specifically, clicking and whirring whenever he approaches, as though recognizing him. Through research, he discovers the lock was designed by a mage of the First Tablets and was intended to open only "when the worthy successor arrives." Ziprahu becomes convinced that the lock is somehow aware and is choosing him to be the one to open whatever it secures. His obsession with understanding this mechanism threatens to consume him entirely.
 
 The Counterfeiter's Workshop
 : Authorities discover a criminal operation producing counterfeit locks—perfect replicas of Ziprahu's security mechanisms that function identically to his original work. No client can distinguish true Ziprahu locks from the forgeries without his personal inspection. This poses a catastrophic threat to his reputation and to the security of every installation he's ever made. The counterfeiter, a master craftsman themselves, has somehow stolen or deduced all of Ziprahu's techniques. Investigation reveals the counterfeiter is Master Zokhothu himself, who faked his retirement and has spent the last fifteen years secretly creating competition to prove that Ziprahu merely inherited his master's legacy rather than surpassing it. Ziprahu loses his unique position and faces the painful truth that his greatest achievement may be merely the continuation of another's work.

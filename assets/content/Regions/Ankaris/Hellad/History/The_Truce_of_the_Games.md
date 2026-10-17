@@ -62,7 +62,7 @@ A Helionite militiaman, asked what the rules of war are, recites five of them fr
 
 ## The Games After the War
 
-The meeting of the cities at [[place-gamessanct|The Sanctuary of the Games]] after [[lore-heladharbors|The War of the Harbors]] was the first at which cities that had fought one another that same year sat down in one sanctuary. The heralds met at the altar to swear the Games' own truce, and a graduate of the [Academy of the Silver Veil]{.name data-type="affiliation"}, **[Sothamira Thelkhides]{.name data-type="being/npc"}**, who had come as the companion of a Kalidrian herald, was asked by the heralds to say what the cities had in fact been doing for three summers.
+The meeting of the cities at [[place-gamessanct|the Sanctuary of the Games]] after [[lore-heladharbors|the War of the Harbors]] was the first at which cities that had fought one another that same year sat down in one sanctuary. The heralds met at the altar to swear the Games' own truce, and a graduate of the [Academy of the Silver Veil]{.name data-type="affiliation"}, **[Sothamira Thelkhides]{.name data-type="being/npc"}**, who had come as the companion of a Kalidrian herald, was asked by the heralds to say what the cities had in fact been doing for three summers.
 
 She told them. The cities had fought in the season when the fields were bare, had sent their heralds across after each battle, had given up the dead and had not burned one another's walls. She proposed that they write down what they had done and keep to it.
 
@@ -80,7 +80,7 @@ The [[affiliation-ordoarcanis|Thordimalon]] has no seat in the Games and no part
 
 ## What the Truce Left
 
-- **The ritualized warfare** of the [[affiliation-ctysttshlns|City-States of Helionis]], small, seasonal and fought by militias who expect to go home.
+- **The ritualized warfare** of the [[affiliation-ctysttshlns|city-states]], small, seasonal and fought by militias who expect to go home.
 - **A season for war** and a season against it, kept by every city.
 - **The Silver Veil's reputation** as the region's broker, which the Academy has kept since a graduate spoke at the altar.
 - **The Arcane Order's one liking** among the laws of [[place-helionis|Helionis]].

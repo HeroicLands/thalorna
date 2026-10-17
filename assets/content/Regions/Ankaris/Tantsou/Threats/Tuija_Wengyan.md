@@ -39,7 +39,7 @@ Tuija Wengyan, granted the name Iron Spear Piercing the Clouds for his service, 
 
 ## Background
 
-**The disobedience.** On a critical campaign he received a direct imperial order to hold his position. He judged it a mistake, attacked, and won. The victory was the problem: a battle won by defying an order is proof the order was wrong, and an imperial order cannot be wrong without the [[lore-mandatehvn|Mandate of Heaven]] behind it being questioned. The court stripped him of his rank and exiled him, and the registry recorded the victory under another commander's name.
+**The disobedience.** On a critical campaign he received a direct imperial order to hold his position. He judged it a mistake, attacked, and won. The victory was the problem: a battle won by defying an order is proof the order was wrong, and an imperial order cannot be wrong without the [[lore-mandatehvn|Mandate]] behind it being questioned. The court stripped him of his rank and exiled him, and the registry recorded the victory under another commander's name.
 
 **The exile.** He did not accept it. In exile he gathered soldiers disaffected by the purge that followed him and minor [[lore-zhazho|Zhazho]] nobles with grievances of their own against the court. The nobles brought their [[lore-wanduo|Wánduo]] with them, because a Zhazho's sorcerers go where their owner goes.
 

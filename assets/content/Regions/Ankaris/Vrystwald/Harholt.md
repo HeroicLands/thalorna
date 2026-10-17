@@ -18,7 +18,7 @@ data:
 
 **Harholt** (350 people) is a Varokh village of [[place-falkhaven|Falkhaven]] under the [[lore-wolfttm|wolf]], and its War Chief holds the leading seat. A muster gathers beneath its old pines each thaw, and Falkhaven's musters assemble there.
 
-When the [Stormhand Brotherhood]{.name data-type="affiliation/venture"} marched on the hill fort of [[place-falkensten|Falkenstein]], the western villages' elders met under these pines, agreed that the danger was common to all of them and raised a common muster; [[lore-stormhandfld|The Stormhand's Field]] tells the fight that followed.
+When the [Stormhand Brotherhood]{.name data-type="affiliation/venture"} marched on the hill fort of [[place-falkensten|Falkenstein]], the western villages' elders met under these pines, agreed that the danger was common to all of them and raised a common muster; [[lore-stormhandfld|the Stormhand's Field]] tells the fight that followed.
 
 ## See Also
 

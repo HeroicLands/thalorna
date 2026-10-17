@@ -395,7 +395,7 @@ Hrundmil Snarvaruk is a 51-year-old man who stands 6'0" tall and is broad and so
 
 # Dossier {#dossier}
 
-Hrundmil Snarvaruk is head gaoler of the king's prison at [[place-knalthstead|Knalthstead]], the seat of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], a [[lore-nordheimnclt|Nordheimn]] freeman who has spent thirty years inside its walls and now runs them.
+Hrundmil Snarvaruk is head gaoler of the king's prison at [[place-knalthstead|Knalthstead]], the seat of [[affiliation-kngdmnrdhm|Nordheim]], a [[lore-nordheimnclt|Nordman]] freeman who has spent thirty years inside its walls and now runs them.
 
 Hrundmil came to the prison as a young guard because the [Tingward]{.name data-type="affiliation"} was hiring and the fjord was not. The prison holds men awaiting the king's judgment, men held for ransom between clans, and men whose kin outside would kill them given an hour's opportunity. His answer to all of it is the rules. Every man inside is fed the same, locked the same and treated the same, whatever his clan or his jarl, and every guard under him keeps to the same book or leaves. It is not a popular way to run a prison in a country where a jarl expects to be obliged, and it has kept the feuds of Nordheim outside the walls.
 

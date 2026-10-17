@@ -19,7 +19,7 @@ data:
 
 "Keep to the path and touch nothing," the watch-priest of an endowed tomb tells a party of pilgrims at the western landing. "The ground above a tomb is mine to keep, and most of what I keep it from is hunger."
 
-Khelzuret Selat is the land of [[affiliation-selatkhelzrt|The Selat of Khelzuret]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is built around the temple-city of [[place-khelzuret|Khelzuret]] on the river's east bank and the vast necropolis that faces it across the water on the west, and it holds the empire's funerary civilization: its embalmers, its tomb-builders, its funerary artists, and the priesthoods of [[lore-wethurdty|Weth'ur]] and [[lore-hezmuiridty|Hezmu'iri]], lords of the passage into death.
+Khelzuret Selat is the land of [[affiliation-selatkhelzrt|the Selat of Khelzuret]], one of [[affiliation-upperrivrslt|the Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is built around the temple-city of [[place-khelzuret|Khelzuret]] on the river's east bank and the vast necropolis that faces it across the water on the west, and it holds the empire's funerary civilization: its embalmers, its tomb-builders, its funerary artists, and the priesthoods of [[lore-wethurdty|Weth'ur]] and [[lore-hezmuiridty|Hezmu'iri]], lords of the passage into death.
 
 ## Character
 

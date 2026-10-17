@@ -22,7 +22,7 @@ A council of merchant-princes and the admiralty govern [[affiliation-nesthiros|N
 
 ## Making a Living
 
-Nesthiros lives on transfer. Eastern goods arrive from [[place-khryshteikhos2|Krusteikhos]] by the lowland road and leave in League and foreign hulls; western goods make the journey in reverse. Its captains have traded with the coasts of the [[place-midhalnrgn|Mídhalión Region]] and [[place-xerathia|Zerathia]] for a thousand years.
+Nesthiros lives on transfer. Eastern goods arrive from [[place-khryshteikhos2|Krusteikhos]] by the lowland road and leave in League and foreign hulls; western goods make the journey in reverse. Its captains have traded with the coasts of [[place-midhalnrgn|Mídhalión]] and [[place-xerathia|Zerathia]] for a thousand years.
 
 ## See Also
 

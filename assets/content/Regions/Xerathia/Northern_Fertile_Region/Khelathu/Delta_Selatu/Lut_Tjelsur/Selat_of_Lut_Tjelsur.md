@@ -57,13 +57,13 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-The Selat of Lut-Tjelsur is the selat of the crocodile-god, and it lives with the difficulty that comes with him. It is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], an eastern marsh of river-beast hunters around the great crocodile cult. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[lore-tjelsukdty|Tjelsur]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-luttjelskslt|Lut-Tjelsur Selat]].
+Lut-Tjelsur is the selat of the crocodile-god, and it lives with the difficulty that comes with him. It is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], an eastern marsh of river-beast hunters around the great crocodile cult. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[lore-tjelsukdty|Tjelsur]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-luttjelskslt|Lut-Tjelsur Selat]].
 
 "Learn the rule before you learn the god," says the treasurer of the temple's [[affiliation-garhalzi|Gar-Hálzi]] chapter, laying a weight-piece on the scale. "The beast is sacred, and the beast eats our children. So a cull is a religious act before it is a commercial one, and somebody must license it."
 
 ## Character
 
-The seat is [[place-luttjelsuk|Lut-Tjelsur]], where the Halzi'a keeps court and the selat's chief temple of the [[affiliation-tjelsuk|Faith of Tjelsur]] stands. The cult's central difficulty is that the animal sacred to the god is also the animal that takes farmers and children along the river, and must sometimes be killed.
+The seat is [[place-luttjelsuk|Lut-Tjelsur]], where the Halzi'a keeps court and the selat's chief temple of [[affiliation-tjelsuk|Tjelsur]] stands. The cult's central difficulty is that the animal sacred to the god is also the animal that takes farmers and children along the river, and must sometimes be killed.
 
 ## Commerce and Currency
 

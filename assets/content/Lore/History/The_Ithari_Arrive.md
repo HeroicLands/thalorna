@@ -45,8 +45,8 @@ data:
 ---
 
 The record of [[affiliation-kalihara|Kalihara]] opens with The Coming of the Ithari and says nothing of what preceded it. They
-arrived from somewhere that is not [[place-worldthlrn|The World of Thalorna]], settled the island, and did not conquer it: the first
-humans they met there were scattered bands in the most rudimentary conditions, and [[lore-theithari|The Ithari]] took
+arrived from somewhere that is not [[place-worldthlrn|Thalorna]], settled the island, and did not conquer it: the first
+humans they met there were scattered bands in the most rudimentary conditions, and [[lore-theithari|the Ithari]] took
 them in.
 
 Everything anyone knows of them is one island's testimony, and the island has never published. Outside
@@ -60,4 +60,4 @@ That scatter is the strongest evidence that the island was a choice rather than 
 business here. Whatever the rest of it was, they conducted it without founding anything, teaching
 anybody, or leaving a word behind.
 
-The full account is [[lore-theithari|The Ithari]].
+The full account is [[lore-theithari|the Ithari]].

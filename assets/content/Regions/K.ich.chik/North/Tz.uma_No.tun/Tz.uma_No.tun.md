@@ -97,7 +97,7 @@ The Ch'akun have developed sophisticated traditions of mound-building—construc
 
 This middleman position generates considerable wealth and political influence; the ability to grant or withhold access to southern luxury goods gives Ch'akun leadership substantial leverage in inter-tribal negotiations.
 
-The Ch'akun appear to maintain some presence in the contested borderlands of the [[place-hanalxilanrgn|Ha'nal Shi'lan Region]], and rare transactions with K'ich'chik merchants occur there—always on Ch'akun terms, always brief, and always through intermediaries who may or may not actually be Ch'akun. The opaque nature of these trade networks makes it impossible for K'ich'chik merchants to predict resource flows, negotiate reliably, or establish lasting commercial relationships.
+The Ch'akun appear to maintain some presence in the contested [[place-hanalxilanrgn|Ha'nal Shi'lan borderlands]], and rare transactions with K'ich'chik merchants occur there—always on Ch'akun terms, always brief, and always through intermediaries who may or may not actually be Ch'akun. The opaque nature of these trade networks makes it impossible for K'ich'chik merchants to predict resource flows, negotiate reliably, or establish lasting commercial relationships.
 
 ## See Also
 

@@ -214,7 +214,7 @@ Far up the slope, on the skyline above the tree-line, a gray shape stands agains
 
 # Dossier {#dossier}
 
-The Gray Wolf is the pack-hunting wolf of the cold and temperate wilds, thirty inches at the shoulder and eighty to a hundred twenty pounds. Packs run in the forests of [[place-vrystwald|Vristwald]], the [[place-nrdlndsrgn|Nordlands Region]], the forest-steppe of [[place-velanthrgn|Velanthia Region]] and [[place-graznmntns|The Grazian Mountains]], and each holds a range it defends. By working together they pull down animals far bigger than themselves. A pack whose range reaches the farms hunts the stock.
+The Gray Wolf is the pack-hunting wolf of the cold and temperate wilds, thirty inches at the shoulder and eighty to a hundred twenty pounds. Packs run in the forests of [[place-vrystwald|Vristwald]], the [[place-nrdlndsrgn|Nordlands]], the forest-steppe of [[place-velanthrgn|Velanthia]] and [[place-graznmntns|the Grazian Mountains]], and each holds a range it defends. By working together they pull down animals far bigger than themselves. A pack whose range reaches the farms hunts the stock.
 
 ## Presentation
 
@@ -222,7 +222,7 @@ A lean, muscular canine, larger than most dogs, built for endurance and speed. T
 
 ## In the Land
 
-Gray wolves run in the forests and open country of Vristwald, the Nordlands, the forest-steppe of Velanthia and the mountains of the Grazian range, and south along the [[place-khzryndsrtrgn|Khazryn Desert Region]] steppe. A pack of six to twelve keeps a range of a hundred square miles, follows the deer and the stock, and dens each spring in a hollow under a bank. In winter, when the snow lies deep, the pack drives its prey into the open.
+Gray wolves run in the forests and open country of Vristwald, the Nordlands, the forest-steppe of Velanthia and the mountains of the Grazian range, and south along the [[place-khzryndsrtrgn|Khazryn]] steppe. A pack of six to twelve keeps a range of a hundred square miles, follows the deer and the stock, and dens each spring in a hollow under a bank. In winter, when the snow lies deep, the pack drives its prey into the open.
 
 ## Key Behaviors
 
@@ -230,7 +230,7 @@ Packs of four to ten live by a rank order headed by an alpha pair. They hunt tog
 
 ## What the Villages Do
 
-The wolf is the wesk of Vristwald villages such as [[place-harholt|Harholt]], [Wulfreth]{.name data-type="place/settlement"} and [Hildburg]{.name data-type="place/settlement"}, whose rites forbid the killing of a wolf in the village's own woods, and [[lore-thekindred|The Kindred]] of the north include wolf-spirits who ward a particular ridge. Elsewhere the villages post a watch on the sheepfolds in winter, keep big dogs, and pay a bounty for a pair of ears. The steppe tribes hunt wolves from horseback in winter with bows. The pelts are made into cloaks and hoods. A shepherd in the Grazian passes follows the sound of the pack to learn where the flock is safe.
+The wolf is the wesk of Vristwald villages such as [[place-harholt|Harholt]], [Wulfreth]{.name data-type="place/settlement"} and [Hildburg]{.name data-type="place/settlement"}, whose rites forbid the killing of a wolf in the village's own woods, and [[lore-thekindred|the Kindred]] of the north include wolf-spirits who ward a particular ridge. Elsewhere the villages post a watch on the sheepfolds in winter, keep big dogs, and pay a bounty for a pair of ears. The steppe tribes hunt wolves from horseback in winter with bows. The pelts are made into cloaks and hoods. A shepherd in the Grazian passes follows the sound of the pack to learn where the flock is safe.
 
 ## Signs
 

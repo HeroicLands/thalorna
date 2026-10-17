@@ -16,17 +16,17 @@ data:
 
 Ravenmoor stands on [[place-aelwyth|Aelwyth]]'s south-eastern coast where the open moor that gives it its name breaks
 off into a deep sheltered anchorage. Thirty-five hundred people, the seat of the
-[[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and the seat of the [[affiliation-dunavarsynod|Dúnavarre Synod]].
+[[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and the seat of the [[affiliation-dunavarsynod|Synod]].
 
 It is not the kingdom's busiest harbor—[[place-wraymouth|Wraymouth]] handles far more tonnage—but
-it is the one every ship must enter. In the hall of the Synod the last king's chair stands at the head of the room, kept and never filled ([[lore-dunavarresynod|The Mages Take Dúnavarre]]).
+it is the one every ship must enter. In the hall of the Synod the last king's chair stands at the head of the room, kept and never filled ([[lore-dunavarresynod|the Mages Take Dúnavarre]]).
 
 ## The Compulsory Call
 
 The Synod **requires every vessel crossing between the mainland and Aelwyth to put in at Ravenmoor
 first**: inbound before it may proceed to any other port on the island, outbound before it may leave for
 the mainland. There are no exceptions worth the name, and the requirement applies to Ondarethan,
-Aldorathi and Stormveld shipping exactly as it applies to foreigners. The Synod instituted the call in 660 AF, the year the Nordmen took the north-east of the island ([[lore-stormveldtkn|The Taking of Stormveld]]), in the name of a coast that had just been invaded.
+Aldorathi and Stormveld shipping exactly as it applies to foreigners. The Synod instituted the call in 660 AF, the year the Nordmen took the north-east of the island ([[lore-stormveldtkn|the Taking of Stormveld]]), in the name of a coast that had just been invaded.
 
 The Synod's officers inspect cargo and manifests as customs officials anywhere would, looking for
 prohibited goods in both directions. That much is unremarkable and, on the whole, welcome: Aelwyth's
@@ -39,7 +39,7 @@ chooses. Compensation is offered and is usually fair. Refusal is possible in pri
 
 Nothing about this is concealed. The Synod's stated reason is that unexamined magic entering or leaving
 an island as fae-touched as Aelwyth is a danger to everyone, which is true, and not the whole truth: the
-requirement means that no relic has left Aelwyth in living memory without the [[affiliation-ordoarcanis|Thordimalon]] seeing it first, and
+requirement means that no relic has left Aelwyth in living memory without the [[affiliation-ordoarcanis|Arcane Order]] seeing it first, and
 no mainland working has arrived without the same.
 
 ## What Happens to Those Who Try It
@@ -84,12 +84,12 @@ costs. And they do not much care: an insular people with no interest in the main
 letting someone else handle the mainland, and every Aelwythan realm is far more exercised by what
 happens on Aelwyth than by what arrives from beyond it.
 
-The [[affiliation-repblcndrth|Republic of Ondareth]] dislikes it most and most loudly—a trading republic on the far
+[[affiliation-repblcndrth|Ondareth]] dislikes it most and most loudly—a trading republic on the far
 side of the island, obliged to send its shipping the long way round to be searched by mages it despises—and its Senate has passed resolutions on the matter for sixty years without once refusing to comply.
 
-**The [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] is outside the arrangement altogether**, and by the Synod's
+**[[affiliation-jrldmstrmvld|Stormveld]] is outside the arrangement altogether**, and by the Synod's
 choice rather than in defiance of it. Its trade and its wars run north to the
-[[place-nrdlndsrgn|Nordlands Region]], not east to the Aureldian mainland, and Nordmen hulls come into the
+[[place-nrdlndsrgn|Nordlands]], not east to the Aureldian mainland, and Nordmen hulls come into the
 north-east coast without troubling Ravenmoor.
 
 The Synod does not stop them because it **does not care**. The compulsory call was never really about

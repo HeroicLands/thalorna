@@ -12,7 +12,7 @@ Ask a skald where the world came from and she asks you which world you mean. Tha
 
 ## The Age Before
 
-Every telling of the beginning starts with an ending. In the northern tellings, before [[place-worldthlrn|The World of Thalorna]]—Mannguard—there was another world, with its own ground, its own weather and its own gods, and it closed in fire as this one will. What the fire left was a _tvelg_ (remnant)—the lesser part, the coals and the ash and whatever in them still held heat—and the gods of this age were kindled out of it. A skald teaching a newcomer at [[lore-jol|Jel]] puts it in one breath: "The Ten were somebody's heirs before they were anybody's gods."
+Every telling of the beginning starts with an ending. In the northern tellings, before [[place-worldthlrn|the World of Thalorna]]—Mannguard—there was another world, with its own ground, its own weather and its own gods, and it closed in fire as this one will. What the fire left was a _tvelg_ (remnant)—the lesser part, the coals and the ash and whatever in them still held heat—and the gods of this age were kindled out of it. A skald teaching a newcomer at [[lore-jol|Jel]] puts it in one breath: "The Ten were somebody's heirs before they were anybody's gods."
 
 Nothing is told of the age before from the inside. No skald names its gods, and a skald who claims to know how many ages turned before this one is selling something. What the halls do agree on is the shape: an age that dies leaves a remnant, and the remnant is where the next age starts.
 
@@ -22,7 +22,7 @@ The halls do not agree on what else the remnant held. [[place-odholm|Odholm]]'s 
 
 In these tellings, the Ten fought the giant-kin and broke them. That much every hall teaches, and the [[affiliation-asguardian|Asguardian Pantheon]] holds it as the reason the Ten are ten: it is the war they won together, and it is the only thing all ten of them have ever done together.
 
-In this account, the beaten kin were not killed. They were driven past the edge of anything made, into the _ginn_, the yawning void beyond creation, and walled into [[place-thursguard|Thursguard]], an enclosed world set out in that void with no road back from it. The rune-priests say only that the giant-kin are in it and that nothing has come back out. They say less about the void itself, because the void is where [[lore-theshadow|The Shadow]] comes from. [[lore-ginnauga|Ginnauga]], the Eye of the Void that [[lore-nahilddty|Nahild]] wears at her neck, looks into that same dark, and the priests decline to say what the Eye sees there or what the void has made of the kin shut into it. A rune-caster who presses the question is told to stop asking, and most do.
+In this account, the beaten kin were not killed. They were driven past the edge of anything made, into the _ginn_, the yawning void beyond creation, and walled into [[place-thursguard|Thursguard]], an enclosed world set out in that void with no road back from it. The rune-priests say only that the giant-kin are in it and that nothing has come back out. They say less about the void itself, because the void is where [[lore-theshadow|the Shadow]] comes from. [[lore-ginnauga|Ginnauga]], the Eye of the Void that [[lore-nahilddty|Nahild]] wears at her neck, looks into that same dark, and the priests decline to say what the Eye sees there or what the void has made of the kin shut into it. A rune-caster who presses the question is told to stop asking, and most do.
 
 The hovs tell that one giant did not go into the void. [[lore-hrimthurspr|Hrimthur]], the Rime-Giant, was killed, and the Ten cut Mannguard out of his body in the act the hovs call the [[lore-thursblot|Thursblet]]. The ground every hall stands on is his, the rime on the high fells is his, and the wound has never closed.
 
@@ -38,7 +38,7 @@ What the ring teaches about the fire is that it is not the end of everything. Th
 
 ## What the Ring Asks
 
-The ring is the reason the north is grave without being hopeless. A people who know the world has ended before, and was kindled again from what it left, do not expect the last fire to be the last thing. They do expect it to take everything they love. So the hovs teach the ring as a lesson about remnants: what a person leaves when they go—a kept oath, a taught craft, a child, a howe with a name on it—is the coal the next thing is kindled from, and it is the only part of anyone that crosses into what comes after. A Hofgudja of the [[affiliation-motefnir|Faith of Mótefnir]] put it to a newcomer plainly: "Every age gets made out of the last one's leftovers. See that yours are worth the making."
+The ring is the reason the north is grave without being hopeless. A people who know the world has ended before, and was kindled again from what it left, do not expect the last fire to be the last thing. They do expect it to take everything they love. So the hovs teach the ring as a lesson about remnants: what a person leaves when they go—a kept oath, a taught craft, a child, a howe with a name on it—is the coal the next thing is kindled from, and it is the only part of anyone that crosses into what comes after. A Hofgudja of [[affiliation-motefnir|Mótefnir]] put it to a newcomer plainly: "Every age gets made out of the last one's leftovers. See that yours are worth the making."
 
 ## See Also
 

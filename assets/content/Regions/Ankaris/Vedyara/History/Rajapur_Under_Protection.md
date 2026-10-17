@@ -35,7 +35,7 @@ data:
         - which kingdom took the head-gate; the sabhra's record names it, and the kingdom's present dynasty prefers that it not be read
 ---
 
-In **Rajepur Under Protection**, [[affiliation-rajaprjnpd|Rajepur Janapoda]] has had no army since [[lore-fortydays|The Forty Days]], and its sabhra says so with some pride. The protection is what it has instead. [[affiliation-chandrapur|Chendrapur]] has been its patron for nearly two centuries, and it was a season without water that made it so.
+[[affiliation-rajaprjnpd|Rajepur]] has had no army since [[lore-fortydays|the Forty Days]], and its sabhra says so with some pride. The protection is what it has instead. [[affiliation-chandrapur|Chendrapur]] has been its patron for nearly two centuries, and it was a season without water that made it so.
 
 ## The Season
 
@@ -50,7 +50,7 @@ The sabhra signed a formal protection with the city in the same year. Chendrapur
 ## What It Left
 
 - **The walled head-gate.** Khandapura's gate-house was walled after the season, and the village has kept the gate and its wall since.
-- **The patron.** Rajepur's first answer to any threat is an appeal to Chendrapur; its second is the disapproval of the [[affiliation-janpdsvdyr|Janapadas of Vedyara]]; its third is the floodplain in the wet season.
+- **The patron.** Rajepur's first answer to any threat is an appeal to Chendrapur; its second is the [[affiliation-janpdsvdyr|Mahva-Sangra's disapproval]]; its third is the floodplain in the wet season.
 - **The scholar.** Chendrapur's patronage is the reason [[being-anrjhrdvmbjkr|Anuraja Harshadevambujakar]], a Rajapuri who argues for further dissolutions, writes his letters from the city, and the reason the city declines to expel him.
 
 ## See Also

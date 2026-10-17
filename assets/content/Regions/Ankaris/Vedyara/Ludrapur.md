@@ -8,7 +8,7 @@ tags: [ruin, frontier, fortified]
 data: {demonym: null, lore: [], parents: [bhumipalaland], population: null, packFolder: vedyara}
 ---
 
-**Ludrapur**, the walled town, was the capital of the march before [[affiliation-bhumipala|Bhumipala]] existed. It lies a few miles off [[place-marchroad|The March Road]] between [[place-sandhyapur|Sandyapur]] and [[place-ashvapada|Ashvapada]], on a rise above a seasonal river that is dry for eight months of the year. In 315 AF the host of [[lore-hndrdbnnrs|The Storm of the Hundred Banners]] came down the road after destroying the kingdom's army at [[place-lanthusthli|Lantustali]], and burned it ([[lore-marupalafl|The Fall of Marupala]]). Nobody has lived in it since.
+**Ludrapur**, the walled town, was the capital of the march before [[affiliation-bhumipala|Bhumipala]] existed. It lies a few miles off [[place-marchroad|the march road]] between [[place-sandhyapur|Sandyapur]] and [[place-ashvapada|Ashvapada]], on a rise above a seasonal river that is dry for eight months of the year. In 315 AF the host of [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] came down the road after destroying the kingdom's army at [[place-lanthusthli|Lantustali]], and burned it ([[lore-marupalafl|the Fall of Marupala]]). Nobody has lived in it since.
 
 ## What Is There
 

@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [dunharlng]}}
 
 ## Overview
 
-In the desert the well rules, and with it whoever reaches it first in the right season. The Dunhara Tribes are the nomadic and half-nomadic peoples of the [[place-dunhardsrtrgn|Dunhara Desert Region]], perhaps a dozen great confederations and many smaller tribes who ride their seasonal circuits between the oases of the south-central reaches of the [[place-ankrscntnnt|Ankaris Continent]]. They are not one realm. Each tribe governs itself under its sheikh and its elders, and what joins them is a shared tongue, a shared faith and a shared law of the desert: welcome for the guest, ferocity for the enemy, and respect for the water every life depends on. Their seat, so far as they have one, is the oasis of [[place-ghavulavad|Ghavulavad]], where caravans hire their guides and the common council meets.
+In the desert the well rules, and with it whoever reaches it first in the right season. The Dunhara Tribes are the nomadic and half-nomadic peoples of the [[place-dunhardsrtrgn|Dunhara Desert]], perhaps a dozen great confederations and many smaller tribes who ride their seasonal circuits between the oases of the south-central reaches of the [[place-ankrscntnnt|Ankaris Continent]]. They are not one realm. Each tribe governs itself under its sheikh and its elders, and what joins them is a shared tongue, a shared faith and a shared law of the desert: welcome for the guest, ferocity for the enemy, and respect for the water every life depends on. Their seat, so far as they have one, is the oasis of [[place-ghavulavad|Ghavulavad]], where caravans hire their guides and the common council meets.
 
 ## Character
 
@@ -95,15 +95,15 @@ Two bodies stand beside the council and answer to none of the sheikhs. The [[aff
 
 ## Relations
 
-The tribes keep the [[affiliation-ashanpnthn|Ashaian Pantheon]] and are bound to it in every rite. Toward the [[affiliation-kngdmmrdd|Kingdom of Amradad]], the settled kingdom of their own blood in the northwest, they are neither friend nor enemy: they trade with its cities, marry into its houses, admire its wealth and despise its softness. Toward the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] across the strait, kin in tongue and faith, they are partners in trade. Their rival is [[affiliation-bhumipala|Bhumipala]], the Vedyaran march kingdom at the end of the Grazian wall, whose last wells lie a two-day ride from the first Dunhari ones across a desert margin nobody holds and everybody crosses.
+The tribes keep the [[affiliation-ashanpnthn|Ashaian faith]] and are bound to it in every rite. Toward the [[affiliation-kngdmmrdd|Kingdom of Amradad]], the settled kingdom of their own blood in the northwest, they are neither friend nor enemy: they trade with its cities, marry into its houses, admire its wealth and despise its softness. Toward the [[affiliation-cnfdrtntrzlnstts|Taruzelian States]] across the strait, kin in tongue and faith, they are partners in trade. Their rival is [[affiliation-bhumipala|Bhumipala]], the Vedyaran march kingdom at the end of the Grazian wall, whose last wells lie a two-day ride from the first Dunhari ones across a desert margin nobody holds and everybody crosses.
 
 ## Trade and Routes
 
-The tribes hold the overland roads that run east from Taruzel and the coast of the [[place-byzariargn|Bizaria Region]] to the [[place-vedyarargn|Vedyara Region]], the one road into the subcontinent that crosses no mountain, since it passes round the western end of [[place-graznmntns|The Grazian Mountains]]. Every tribe lives partly on that road: tolls, guide fees and the price of protection. A caravan carries the goods of many owners under one escort, and responsibility for it passes from tribe to tribe as it crosses their lands. The richest tribes keep half-permanent camps at the great oases, which serve as caravanserais and market towns for the season.
+The tribes hold the overland roads that run east from Taruzel and the coast of the [[place-byzariargn|Bizaria Region]] to the [[place-vedyarargn|Vedyara Region]], the one road into the subcontinent that crosses no mountain, since it passes round the western end of [[place-graznmntns|the Grazian wall]]. Every tribe lives partly on that road: tolls, guide fees and the price of protection. A caravan carries the goods of many owners under one escort, and responsibility for it passes from tribe to tribe as it crosses their lands. The richest tribes keep half-permanent camps at the great oases, which serve as caravanserais and market towns for the season.
 
 ## Commerce and Currency
 
-The tribes trade almost entirely through [[lore-bartercnmy|The Barter Economy]] and through [[lore-kinhalcrdt|Kin and Hall Credit]]: livestock, goods and the obligations of kinship carry nearly every bargain, and the desert economy has never taken up coin. Foreign money reaches the tribes through the caravans—Vylarian argos from the western trade, Khelathi gezan from the south—and is valued for its metal, as a good among goods, not as currency.
+The tribes trade almost entirely through [[lore-bartercnmy|the Barter Economy]] and through [[lore-kinhalcrdt|Kin and Hall Credit]]: livestock, goods and the obligations of kinship carry nearly every bargain, and the desert economy has never taken up coin. Foreign money reaches the tribes through the caravans—Vylarian argos from the western trade, Khelathi gezan from the south—and is valued for its metal, as a good among goods, not as currency.
 
 ## See Also
 

@@ -421,7 +421,7 @@ sohl:
 
 ![[lintazuzerkt|Linta Zu'Zereketu]]{float=top-left}
 
-Linta Zu'Zereketu stands 5'10" tall with a medium build. She has tawny skin, jet black hair, and honey brown eyes. Her features include a slightly arched nose, a tapered chin, generous lips, and honey brows.
+Linta stands 5'10" tall with a medium build. She has tawny skin, jet black hair, and honey brown eyes. Her features include a slightly arched nose, a tapered chin, generous lips, and honey brows.
 
 # Dossier {#dossier}
 
@@ -429,11 +429,11 @@ Linta Zu'Zereketu stands 5'10" tall with a medium build. She has tawny skin, jet
 
 ### Early Life
 
-Born to the [Zu'Zereketu clan]{.name data-type="affiliation/lineage"} in the fertile valleys of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], Linta grew up watching her mother's brothers manage trade caravans between distant cities. Where other children played at merchant games, she scrambled up cliffside trails and learned to read the land like her elders read ledgers. Her mother, a priestess of the [[affiliation-uznera|Faith of Uzn'era]], blessed her daughter's natural agility with sacred oils before each journey, whispering prayers to the goddess of fertility and life's bounty for safe travels. This bond to the divine marked Linta early, though she would never serve in any temple—her calling lay elsewhere.
+Born to the [Zu'Zereketu clan]{.name data-type="affiliation/lineage"} in the fertile valleys of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], Linta grew up watching her mother's brothers manage trade caravans between distant cities. Where other children played at merchant games, she scrambled up cliffside trails and learned to read the land like her elders read ledgers. Her mother, a priestess of [[affiliation-uznera|Uzn'era]], blessed her daughter's natural agility with sacred oils before each journey, whispering prayers to the goddess of fertility and life's bounty for safe travels. This bond to the divine marked Linta early, though she would never serve in any temple—her calling lay elsewhere.
 
 ### Training and Path
 
-At thirteen, Linta convinced a weathered caravan master named **[[being-leftazumeqet|Lefta Zu'Meqetu]] the Keen-Eyed** to hire her as a porter. Within two seasons, her rare climbing ability and innate awareness caught the attention of the caravan's head scout, [[being-meshaqawise|Meshaqa the Wise]], a hard woman in her late sixties who taught Linta everything about reconnaissance, evasion, and survival in wild country. Under Meshaqa's tutelage, Linta learned to move silently through scrubland and avoid bandits' notice, and to read wind patterns, predict weather, and understand the subtle signs of dangerous predators or hidden camps. She earned her first scout's blade at twenty, marking her official entry into [[affiliation-linqeztkhlth|Lin'Qeztu elu Au'Khelathu]], the Mercenaries' Guild of Au'Khelathu.
+At thirteen, Linta convinced a weathered caravan master named **[[being-leftazumeqet|Lefta]] the Keen-Eyed** to hire her as a porter. Within two seasons, her rare climbing ability and innate awareness caught the attention of the caravan's head scout, [[being-meshaqawise|Meshaqa the Wise]], a hard woman in her late sixties who taught Linta everything about reconnaissance, evasion, and survival in wild country. Under Meshaqa's tutelage, Linta learned to move silently through scrubland and avoid bandits' notice, and to read wind patterns, predict weather, and understand the subtle signs of dangerous predators or hidden camps. She earned her first scout's blade at twenty, marking her official entry into [[affiliation-linqeztkhlth|Lin'Qeztu elu Au'Khelathu]], the Mercenaries' Guild of Au'Khelathu.
 
 ### Current Situation
 

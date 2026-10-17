@@ -20,7 +20,7 @@ At [[place-dahanaghatta|Dahanaghatta]] the urns come home too light and the dead
 
 ## Hooks
 
-- **The thief.** A Stovira of [[affiliation-adanasreni|The Adanashreni]] needs a [Chinnasutra]{.name data-type="affiliation/criminal"} cell removed and cannot be seen near it. The cell takes from houses in mourning, which the shrena forbids, and hides its takings where nobody looks. The contract is generous and will not be honoured in writing.
+- **The thief.** A Stovira of [[affiliation-adanasreni|the Adanashreni]] needs a [Chinnasutra]{.name data-type="affiliation/criminal"} cell removed and cannot be seen near it. The cell takes from houses in mourning, which the shrena forbids, and hides its takings where nobody looks. The contract is generous and will not be honoured in writing.
 - **The mercenary or soldier.** A Danaja widow hires two reliable swords to stand beside her at her husband's pyre. She will not say why. Her husband's brother wants the household's keys, and a dying man's wishes are in dispute.
 - **The leader.** The sabhra of a river village asks a chieftain to settle a quarrel with the pyre-keeper. The villagers' urns are light, and the keeper says the fire was thorough.
 - **The wanderer.** A Jvelita of the [[affiliation-agnipantha|Agmi-pantra]] has been sent for to purge the ground, and finds the keeper's family waiting on the gallery to see what he brings. He asks a traveler to watch the river with him.
@@ -51,7 +51,7 @@ At [[place-dahanaghatta|Dahanaghatta]] the urns come home too light and the dead
 
 **Purpose.** A roleplay and a puzzle: find what the ledger and the urns say.
 
-**Situation.** The next day. The gallery is quiet, and the keeper's family eats at the long table. On the table stands the great pair of scales, and beside them the keeper's ledger and a basket of the coins recovered from the ash. A Keeper of the Register of [[affiliation-thresholdkeepers|The Threshold-keepers]], [Satyadarshin]{.name data-type="being/npc"}, is in the shrine, with two witnesses and a court's warrant.
+**Situation.** The next day. The gallery is quiet, and the keeper's family eats at the long table. On the table stands the great pair of scales, and beside them the keeper's ledger and a basket of the coins recovered from the ash. A Keeper of the Register of [[affiliation-thresholdkeepers|the Threshold-keepers]], [Satyadarshin]{.name data-type="being/npc"}, is in the shrine, with two witnesses and a court's warrant.
 
 **NPCs and threats.** Kholu is helpful and afraid. His wife and sons have the instincts of a family who think their house is being looked at. Satyadarshin, a lean man in grey with a witness-cord round his wrist, has come under warrant for an inheritance question. He refuses to put it, because the gap before the Landing's pyres has been open too long and nothing he asks would be answerable. He will say so to anyone who sits with him. The **widow in white** is back, sitting at the end of the bench with a cloth over her wrist.
 
@@ -85,7 +85,7 @@ At [[place-dahanaghatta|Dahanaghatta]] the urns come home too light and the dead
 - _Bribe the cell._ Nusha will deal. Her price is the party's silence.
 - _Go in from the river._ The drain behind the slabs is a low tunnel that leads under the cenotaph. It is wet, dark and unguarded.
 
-**Clues and rewards.** The cellar holds the cell's takings: plate, small jewels, the household keys of eight families, and a stack of letters of credit of [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]. A shelf of urns, each marked, holds the real ash of the bodies they were sold as.
+**Clues and rewards.** The cellar holds the cell's takings: plate, small jewels, the household keys of eight families, and a stack of letters of credit of [[affiliation-mrchntclctvvdyr|the Merchant Collective]]. A shelf of urns, each marked, holds the real ash of the bodies they were sold as.
 
 **Consequences.** The sentries wake at the first blow. Nusha escapes by the river unless the drain is watched. If she is taken alive, she names the Lamp-Seller.
 
@@ -125,7 +125,7 @@ At [[place-dahanaghatta|Dahanaghatta]] the urns come home too light and the dead
 
 - _Burn the ground._ The Agmi-pantra's rite: every pyre slab alight at once, lit from the ember, with the names read aloud. It takes the night and the Jvelita's vessel. It works, as it works half the time.
 - _Close it by rite._ The household of each of the Waiting is found, and the coin and the name given. It takes days and the cooperation of the janapoda.
-- _Give it up._ The party leaves, and the Landing becomes a blood-field that spreads along the lower reaches of [[place-sarvadarivr|The Sarveda]].
+- _Give it up._ The party leaves, and the Landing becomes a blood-field that spreads along the lower reaches of [[place-sarvadarivr|the Sarveda]].
 - _Take the register._ Dhakunatha's register and the Factor's slate are worth more to some people than the Landing.
 
 **Clues and rewards.** The cenotaph's store is returned to its families by the sabhra, and the shrena pays modestly, in candra, for the removal of the cell. The grateful Danaja household of Ratnapala rewards the party with a letter of credit.
@@ -146,6 +146,6 @@ At [[place-dahanaghatta|Dahanaghatta]] the urns come home too light and the dead
 
 - [[place-dahanaghatta|Dahanaghatta]]—the stair and what the villages say of it
 - [[lore-bloodfield|Blood-fields]]—what the unburned dead make of ground
-- [[affiliation-kalavrata|Kalavrata]] · [[affiliation-thresholdkeepers|The Threshold-keepers]]—the passage and the one lawful question
-- [[affiliation-adanasreni|The Adanashreni]] · [[affiliation-twilighths|The Twilight House]]
+- [[affiliation-kalavrata|Kalavrata]] · [[affiliation-thresholdkeepers|the Threshold-keepers]]—the passage and the one lawful question
+- [[affiliation-adanasreni|The Adanashreni]] · [[affiliation-twilighths|the Twilight House]]
 - [[lore-theshadow|The Shadow]]—the chaos that comes in wherever the way stays open

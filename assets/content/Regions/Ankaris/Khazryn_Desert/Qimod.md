@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: k
 
 The walls are the first thing, because they are not broken. A wall of mud-brick twenty feet high runs round a town of perhaps three hundred houses, with a gate that stands open and a gatehouse with its roof on. The lanes inside are swept by the wind and nothing else. On the market square the stalls are up: poles, awnings, a weighing-beam hanging from its hook. It looks like a town that has stepped out for the afternoon, and it has looked like that for a very long time.
 
-**Qiimod**, "the silent" in the [[skill-sowideslng|Sovidur Language]], stands on the southern spur four days out of [[place-qisomrktcmp|Qiiso]], where the track to [[place-swoasisbelt|Tellumel]] dips through a gap in the black rock. A well-head in the square still holds sweet water, and the tribe that keeps the well will draw it for a price, by rope, from outside the gate.
+**Qiimod**, "the silent" in [[skill-sowideslng|Sovidur]], stands on the southern spur four days out of [[place-qisomrktcmp|Qiiso]], where the track to the [[place-swoasisbelt|Tellumel]] dips through a gap in the black rock. A well-head in the square still holds sweet water, and the tribe that keeps the well will draw it for a price, by rope, from outside the gate.
 
 ## How It Was Made
 

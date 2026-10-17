@@ -8,18 +8,18 @@ tags: [sacred, mountain, inland]
 data: {demonym: null, lore: [], parents: [cntrlhghlnds], population: null, packFolder: aelwyth}
 ---
 
-The Three Sisters are three peaks standing together above the open ground of [[place-cntrlhghlnds|The Central Highlands]], in
+The Three Sisters are three peaks standing together above the open ground of [[place-cntrlhghlnds|the Central Highlands]], in
 the middle of [[place-aelwyth|Aelwyth]]. They are unremarkable mountains and the most important place on the island.
 
 ## The Battle
 
-In **984 BF** the armies of the elder kingdom met the [[lore-pelwarpepl|Pelwar People]] and their [Varkhad]{.name data-type="lore/folk"} masters beneath them, and the **Sinale king of
+In **984 BF** the armies of the elder kingdom met the [[lore-pelwarpepl|Pelwar]] and their [Varkhad]{.name data-type="lore/folk"} masters beneath them, and the **Sinale king of
 Aelwyth was killed** by the Varkhad.
 
 It was the decisive engagement of the **[Great War]{.name data-type="lore/history"}**, and its consequences went far past who held the
-field. With the king dead the surviving [[lore-flksinale|Sinale Folk]] **withdrew**—out of the war, out of
-the kingdom, and into the deep forest of the south that is now [[place-hallowwood|The Hallowwood]]—and
-left the [[lore-flkkhazar|Khazár Folk]] to finish it.
+field. With the king dead the surviving [[lore-flksinale|Sinale]] **withdrew**—out of the war, out of
+the kingdom, and into the deep forest of the south that is now [[place-hallowwood|the Hallowwood]]—and
+left the [[lore-flkkhazar|Khazari]] to finish it.
 
 The Khazari finished it. They have never forgiven the withdrawal, and the two elder races of Aelwyth
 have had nothing whatever to do with one another since.
@@ -31,7 +31,7 @@ More than a king and more than a war.
 The joint kingdom had been **a deliberate attempt at reconciliation**. [[lore-khazarturn|The Fall of Khazartúrn]] had occurred in 2427 BF
 and the sundering with it, and the two peoples on this island—alone among their kind—had decided
 that would not be the end of it. In time they united under a single crown, governed Aelwyth together, and kept
-it up for six centuries; [[lore-jointcrown|The Joint Crown of Aelwyth]] was founded about 1585 BF. It is the only such attempt either race has ever made.
+it up for six centuries; [[lore-jointcrown|the Joint Crown]] was founded about 1585 BF. It is the only such attempt either race has ever made.
 
 The Three Sisters is where that ended, and it ended in the way most calculated to make it
 irrecoverable: not in a quarrel, but with the Sinale walking away from the Khazari in a crisis, for the
@@ -47,7 +47,7 @@ Khazari who put them there.
 A hold grows nothing and cannot be supplied from outside, so the Deep Folk have always needed farmers
 within reach of the gate—and when they settled this island they did what they had done everywhere
 else: they **brought a small company of humans across with them to work the land**, an older
-people than the Pelwar, whose descendants are [[lore-vardain|The Vardain]]. Peaceful, patient,
+people than the Pelwar, whose descendants are [[lore-vardain|the Vardain]]. Peaceful, patient,
 agricultural, and willing; the arrangement worked here for a very long time.
 
 Pelwar came afterward on their own account, in **small numbers**, and were **accepted**—given ground,
@@ -114,13 +114,13 @@ years of joint rule, and every claim of any kind outside the deep forest of the 
 into [[place-hallowwood|the wood]], and they have not come out.
 
 Everything they left, they left **to the other races**: to the Khazari who had been fighting beside them,
-and to the humans they had been fighting. The Khazari finished the war alone, as [[lore-endgreatwar|The Ending of the Great War]] tells it. What the Sinale handed over
+and to the humans they had been fighting. The Khazari finished the war alone, as [[lore-endgreatwar|the Ending of the Great War]] tells it. What the Sinale handed over
 by walking away is, in a straightforward sense, the reason Aelwyth has human kingdoms on it at all.
 
 ## Now
 
 Nothing marks it. Three peaks over open grazing, in the pleasantest country on the island, and the
-senators of the [[affiliation-repblcndrth|Republic of Ondareth]] who keep summer houses within sight of them do not know
+[[affiliation-repblcndrth|Ondarethan senators]] who keep summer houses within sight of them do not know
 the name means anything.
 
 ## See Also

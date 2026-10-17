@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
 ---
 
-"You sail against raiders, you sail on the widow's keel," says a hand on one of the inlet's boats, shouldering a coil of line along the strand at Ralthvík. "Ask anyone here whose keel that was." The fishing village sits on an inlet of the [[place-nrdlndsrgn|Nordlands Region]] coast, and its boats go out in every season the sea allows. Its people live by what they bring back.
+"You sail against raiders, you sail on the widow's keel," says a hand on one of the inlet's boats, shouldering a coil of line along the strand at Ralthvík. "Ask anyone here whose keel that was." The fishing village sits on an inlet of the [[place-nrdlndsrgn|Nordlands]] coast, and its boats go out in every season the sea allows. Its people live by what they bring back.
 
 ## The Raid That Failed
 

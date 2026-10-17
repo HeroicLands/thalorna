@@ -8,18 +8,18 @@ tags: [sacred, temple, inland]
 data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: null, packFolder: vedyara}
 ---
 
-**The Mahajaya Temple at Danurkota** keeps a vigil for men who are not there. On the night before any major engagement involving Dhanurkoti graduates, anywhere in the [[place-vedyarargn|Vedyara Region]], its bowmen-priests stay awake for them.
+**The Mahajaya Temple at Danurkota** keeps a vigil for men who are not there. On the night before any major engagement involving Dhanurkoti graduates, anywhere in [[place-vedyarargn|Vedyara]], its bowmen-priests stay awake for them.
 
-The Mahajaya temple inside [[place-bowfort|The Bow-Fort]] is the religious and political heart of the [[affiliation-dhnrktjnpd|Danurkota Janapoda]], and one of the major establishments of the goddess in inland Vedyara. Its great hall is where the sabhra meets, and its senior priest convenes it.
+The Mahajaya temple inside [[place-bowfort|the Bow-Fort]] is the religious and political heart of the [[affiliation-dhnrktjnpd|Danurkota Janapoda]], and one of the major establishments of the goddess in inland Vedyara. Its great hall is where the sabhra meets, and its senior priest convenes it.
 
-[[lore-mahajayadty|Mahajaya]] is the preserver-goddess of the [[affiliation-varakpnthn|Varnuka Pantheon]], mistress of order, of prosperity and of the keeping of dorma. She suits a janapoda whose whole identity is disciplined martial training in the service of legitimate authority, and every Dhanurkoti sermon on the subject says so.
+[[lore-mahajayadty|Mahajaya]] is the preserver-goddess of the [[affiliation-varakpnthn|Varnuka pantheon]], mistress of order, of prosperity and of the keeping of dorma. She suits a janapoda whose whole identity is disciplined martial training in the service of legitimate authority, and every Dhanurkoti sermon on the subject says so.
 
 ## Three Observances of Its Own
 
 The temple keeps the standard [[affiliation-mahajaya|Mahajaya]] devotional cycle and adds three observances:
 
 - **The [Festival of the Drawn Bow]{.name data-type="lore/gathering"}** falls at the spring equinox, when each year's incoming academy students present themselves for blessing.
-- **The [Festival of the Returning]{.name data-type="lore/gathering"}** falls in autumn, when graduates back from service abroad ritually re-enter the janapoda and are welcomed. The festival was first kept for the graduates who came home at the recall of [[lore-hghlndwar|The Highland War]].
+- **The [Festival of the Returning]{.name data-type="lore/gathering"}** falls in autumn, when graduates back from service abroad ritually re-enter the janapoda and are welcomed. The festival was first kept for the graduates who came home at the recall of [[lore-hghlndwar|the Highland War]].
 - **The [Watch of the Bow-String]{.name data-type="lore/custom"}** is kept the night before any major engagement involving Dhanurkoti graduates anywhere in Vedyara, when the temple's bowmen-priests hold vigil for the safety of their own.
 
 The Watch is the one that costs. A janapoda of thirty thousand people has graduates in the field of half a dozen kingdoms at once, and the temple keeps the vigil for every engagement it hears of in time.

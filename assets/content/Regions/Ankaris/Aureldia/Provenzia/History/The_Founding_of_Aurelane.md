@@ -49,7 +49,7 @@ data:
         - which Tanevar king gave the land the colony stands on
 ---
 
-The Founding of Aurelane is still visible in the streets of **[[place-aureliane|Aurelane]]**, which run on a grid, straight and square, in a country where every other road follows a river or a ridge. The grid was laid out by an engineer of the [Vylarian Republic]{.name data-type="affiliation/polity"} about 110 BF, and it has outlasted the Republic, the [[affiliation-vylarinmpr|Vylarian Empire]]'s province and the garrison that was meant to hold it.
+The Founding of Aurelane is still visible in the streets of **[[place-aureliane|Aurelane]]**, which run on a grid, straight and square, in a country where every other road follows a river or a ridge. The grid was laid out by an engineer of the [Vylarian Republic]{.name data-type="affiliation/polity"} about 110 BF, and it has outlasted the Republic, the [[affiliation-vylarinmpr|Empire]]'s province and the garrison that was meant to hold it.
 
 ## Why There
 

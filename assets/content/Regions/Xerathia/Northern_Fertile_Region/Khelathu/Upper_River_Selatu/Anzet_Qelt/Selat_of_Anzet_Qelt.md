@@ -63,7 +63,7 @@ The Selat of Anzet-Qelt is one of the upper-river selatu of the [[affiliation-em
 
 ## Character
 
-The seat is [[place-anzet|Anzet]], where the Halzi'a keeps his court and the chief temple of the [[affiliation-hezmuiri|Faith of Hezmu'iri]] stands. In a selat of embalmers and tomb-guards the two authorities sit close together: the Halzi'a holds the levies, the taxes and the courts, and the temple holds the dead. The priesthood of Hezmu'iri is among the largest and most powerful in the empire, and every household in the selat will need its services in the end.
+The seat is [[place-anzet|Anzet]], where the Halzi'a keeps his court and the chief temple of [[affiliation-hezmuiri|Hezmu'iri]] stands. In a selat of embalmers and tomb-guards the two authorities sit close together: the Halzi'a holds the levies, the taxes and the courts, and the temple holds the dead. The priesthood of Hezmu'iri is among the largest and most powerful in the empire, and every household in the selat will need its services in the end.
 
 ## Commerce and Currency
 

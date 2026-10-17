@@ -193,7 +193,7 @@ Read or paraphrase this as the wheel goes:
 - _Hold the wagons._ Circle them, build up the fire with the merchant's oil and fight from the wagon beds. The hunters come in and go out of the light and take what they can reach. This is what Sundarka wants.
 - _Move for the shelter._ Carry Dulaka on the moving wagon or on a litter, roped together, lamps out or lamps lit. Sundarka refuses to come; this is where he says the line about the collectors.
 - _Go after Senata._ His scream comes back across the slope and ends. A party that follows the sound finds him at the line of white stones, laid along it with his face to the road, dead. The stones that should have saved him are around his body.
-- _Burn the grass._ The dry grass takes at once in the wind off [[place-wstrndscnt|The Western Descent]], and faster with oil. The hunters do not come through a burning line. The fire does not last, and if the wind turns it comes back at the wagons.
+- _Burn the grass._ The dry grass takes at once in the wind off [[place-wstrndscnt|the Descent]], and faster with oil. The hunters do not come through a burning line. The fire does not last, and if the wind turns it comes back at the wagons.
 - _Do not answer._ A party that has learned the saying, from the spoke, from Dulaka or from any Vedyari among them, can hold its tongue and keep its people from answering. Roping people together, singing, counting aloud and holding hands all help.
 
 > [!TIP]

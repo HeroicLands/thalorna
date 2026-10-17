@@ -57,13 +57,13 @@ Its clients show what that means. A Vylarian _kurthos_ (senator) who needs a mes
 
 ## Agents
 
-The Merchantry works through agents placed in every port city, caravan stop and aristocratic court in the [[place-midhalnrgn|Mídhalión Region]]. Most are legitimate merchants who do the Merchantry's business alongside their own: a spice trader who also carries sealed letters, a jeweler who also appraises stolen goods, a courtesan who also listens.
+The Merchantry works through agents placed in every port city, caravan stop and aristocratic court in [[place-midhalnrgn|Mídhalión]]. Most are legitimate merchants who do the Merchantry's business alongside their own: a spice trader who also carries sealed letters, a jeweler who also appraises stolen goods, a courtesan who also listens.
 
 ## The Other Guilds
 
 The other great guilds live with the Merchantry as a tolerated parasite. The [[affiliation-auricompct|Auric Compact]] officially disapproves of its shadowy dealings and quietly buys its information. The [[affiliation-corsairleg|Corsair League]] calls it a pack of spies and smugglers and accepts that some cargoes are more profitably moved in the dark.
 
-Of the three, the Merchantry is the one most likely to approach the crew of [[affiliation-thetamzir|The Tamzir]] with an offer of work instead of a threat, because a vessel that sails outside the normal guild channels is exactly what its less conventional shipments need.
+Of the three, the Merchantry is the one most likely to approach the crew of [[affiliation-thetamzir|the Tamzir]] with an offer of work instead of a threat, because a vessel that sails outside the normal guild channels is exactly what its less conventional shipments need.
 
 ## See Also
 

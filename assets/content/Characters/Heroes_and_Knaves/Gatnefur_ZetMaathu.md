@@ -421,19 +421,19 @@ sohl:
 
 ![[gatnefrztmth|Gatnefur Zet'Maathu]]{float=top-left}
 
-Gatnefur Zet'Maathu stands 5'7" tall with a medium build. He has dark skin, black hair, and brown eyes. His features include an oval face, a long nose, a refined jawline, an expressive mouth, high-set brows, and sculpted cheeks. He has a scar on the left side of his neck.
+Gatnefur stands 5'7" tall with a medium build. He has dark skin, black hair, and brown eyes. His features include an oval face, a long nose, a refined jawline, an expressive mouth, high-set brows, and sculpted cheeks. He has a scar on the left side of his neck.
 
 # Dossier {#dossier}
 
 **A Child of the Guild Quarter**
 
-Gatnefur was born into the [Guild Quarter]{.name data-type="place/site"} of Galezkara, where craftsmen of every imaginable discipline plied their trades. His father, [[being-zefurazetmaa|Zefura Zet'Maathu]], was a master perfumer of considerable reputation, while his mother, [Qelseta]{.name data-type="being/npc"}, worked as a dyer of great skill. From his earliest memories, young Gatnefur was surrounded by the interplay of scent and color, and his acute sensitivity to aromatic compounds became apparent by his fifth year. Where other children might smell nothing but "flower," Gatnefur could distinguish between the scents of a dozen different varieties of lotus, could detect the faint underlying notes of earth and sun in a simple rose petal.
+Gatnefur was born into the [Guild Quarter]{.name data-type="place/site"} of Galezkara, where craftsmen of every imaginable discipline plied their trades. His father, [[being-zefurazetmaa|Zefura]], was a master perfumer of considerable reputation, while his mother, [Qelseta]{.name data-type="being/npc"}, worked as a dyer of great skill. From his earliest memories, young Gatnefur was surrounded by the interplay of scent and color, and his acute sensitivity to aromatic compounds became apparent by his fifth year. Where other children might smell nothing but "flower," Gatnefur could distinguish between the scents of a dozen different varieties of lotus, could detect the faint underlying notes of earth and sun in a simple rose petal.
 
 His training began at age seven in his father's workshop. Zefura was a demanding teacher, but also a visionary one. Rather than teaching the boy to merely replicate the great fragrances of the past, he encouraged Gatnefur to experiment, to combine scents in ways that seemed almost heretical to the conservative guild masters. By his teens, Gatnefur had already begun to revolutionize the perfumer's art, creating fragrances that seemed to tell stories—to evoke specific emotions, memories, or visions.
 
 **The Scar and the Theft**
 
-At twenty-two years of age, Gatnefur achieved his first true triumph: a fragrance called "[The Awakening of Uqa'a]{.name data-type="concoctiongear"}," a perfume of such extraordinary beauty and complexity that nobles from across the [[affiliation-empireakhlth|Empire of Au'Khelathu]] began to seek it. It was this very success that brought him his scar and the bitter lesson that jealousy wears many faces. A fellow perfumer—a man named [[being-lekhur2|Lekhur]], who had been passed over for the same commission that Gatnefur won—attacked him in the street with the intent to silence him permanently. Only the intervention of a temple guard and Gatnefur's own surprising agility prevented the wound from being fatal.
+At twenty-two years of age, Gatnefur achieved his first true triumph: a fragrance called "[The Awakening of Uqa'a]{.name data-type="concoctiongear"}," a perfume of such extraordinary beauty and complexity that nobles from across the [[affiliation-empireakhlth|empire]] began to seek it. It was this very success that brought him his scar and the bitter lesson that jealousy wears many faces. A fellow perfumer—a man named [[being-lekhur2|Lekhur]], who had been passed over for the same commission that Gatnefur won—attacked him in the street with the intent to silence him permanently. Only the intervention of a temple guard and Gatnefur's own surprising agility prevented the wound from being fatal.
 
 **Current Mastery**
 
@@ -449,7 +449,7 @@ His mind moves at unusual speeds, making conceptual leaps that others struggle t
 
 ### Motivation
 
-Gatnefur is driven by a belief that he has not yet created his masterpiece—the fragrance that will surpass all his previous efforts and achieve something akin to perfection. Each new creation is a step toward this ideal, and each time one is completed, he feels both deep satisfaction and the immediate hunger to push further. There are also rumors of an ancient formulary, a text from the Age of Divine Kings ([[lore-akhfirsttab|The First Tablets]]) that supposedly contained recipes for fragrances of such power that they could induce visions, cure illnesses, or even grant temporary communion with the divine. Gatnefur's ultimate quest is to locate this formulary, decipher its secrets, and perhaps create a fragrance that would be the summit of the art—a scent that contains within it all the wisdom and beauty of the ages.
+Gatnefur is driven by a belief that he has not yet created his masterpiece—the fragrance that will surpass all his previous efforts and achieve something akin to perfection. Each new creation is a step toward this ideal, and each time one is completed, he feels both deep satisfaction and the immediate hunger to push further. There are also rumors of an ancient formulary, a text from the Age of Divine Kings ([[lore-akhfirsttab|the First Tablets]]) that supposedly contained recipes for fragrances of such power that they could induce visions, cure illnesses, or even grant temporary communion with the divine. Gatnefur's ultimate quest is to locate this formulary, decipher its secrets, and perhaps create a fragrance that would be the summit of the art—a scent that contains within it all the wisdom and beauty of the ages.
 
 ### Strengths
 

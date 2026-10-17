@@ -16,7 +16,7 @@ data:
   packFolder: vedyara
 ---
 
-**Jnanadvara**, the scholars' door, crosses [[place-estrnreach|The Eastern Reach]] north-east to the western frontier of the [[place-tantsouregin|Tantsou Region]]. It is a month and a half of travel and the least dangerous of the eastern crossings, which is a comparison and no recommendation.
+**Jnanadvara**, the scholars' door, crosses [[place-estrnreach|the Eastern Reach]] north-east to the western frontier of [[place-tantsouregin|Tantsou]]. It is a month and a half of travel and the least dangerous of the eastern crossings, which is a comparison and no recommendation.
 
 It carries the goods a caravan can afford to move slowly and the people nobody else will carry: manuscripts, medicines, instruments, the occasional astronomer, and the envoys of both sides. The name is not ironic. More scholarship has crossed the wall by this road than by all the others together. The [[place-pssshrines|Pass-Shrine]] at its summit keeps the fullest crossing-register on the range, because the people who use it are the people who write things down.
 
@@ -28,9 +28,9 @@ The [[affiliation-tantsouempr|Empire of Tantsou]]'s official position is that th
 
 ## The Guides
 
-This is the ground of [[affiliation-hvarnguides|The Hvarn]]. The Hvarn work the eastern crossings as [[affiliation-osketguides|The Osket]] work the western, are a smaller people, and are on noticeably better terms with the temple-republics than with the kingdom—[[place-sanghafort|The Sangra-fort]] two passes east is supplied through Hvarn hands, and everyone on both sides finds it convenient not to discuss what that costs.
+This is [[affiliation-hvarnguides|Hvarn ground]]. The Hvarn work the eastern crossings as [[affiliation-osketguides|the Osket]] work the western, are a smaller people, and are on noticeably better terms with the temple-republics than with the kingdom—[[place-sanghafort|the Sangra-fort]] two passes east is supplied through Hvarn hands, and everyone on both sides finds it convenient not to discuss what that costs.
 
 ## See Also
 
-- [[place-estrnreach|The Eastern Reach]] · [[place-sankhadvra|Shankhadvara]] · [[place-pssshrines|The Pass-Shrines]]
+- [[place-estrnreach|The Eastern Reach]] · [[place-sankhadvra|Shankhadvara]] · [[place-pssshrines|the Pass-Shrines]]
 - [[affiliation-hvarnguides|The Hvarn]] · [[affiliation-tantsouempr|Empire of Tantsou]]

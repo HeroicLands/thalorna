@@ -57,13 +57,13 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-"Learn which book you are writing in," the Halzi'a's steward tells a young clerk on his first morning in [[place-gadjumulu|Gadju-Mulu]]. "The temple of the [[affiliation-thubai|Faith of Thuba'i]], the Halzi'a's granary and the tax bureau all keep ledgers, and they do not keep the same ones."
+"Learn which book you are writing in," the Halzi'a's steward tells a young clerk on his first morning in [[place-gadjumulu|Gadju-Mulu]]. "The temple of [[affiliation-thubai|Thuba'i]], the Halzi'a's granary and the tax bureau all keep ledgers, and they do not keep the same ones."
 
 The Selat of Gadju-Mulu is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], the "Green Waters" selat of marshy flood-basin, flax and waterfowl, the wettest of the upper selatu, with about 360,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. Its patron is [[lore-thubaidty|Thuba'i]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-gadjumuluslt|Gadju-Mulu Selat]].
 
 ## Character
 
-The seat is Gadju-Mulu, where the Halzi'a keeps his court and the chief temple of the Faith of Thuba'i stands. The Halzi'a's steward administers the selat's revenue, its granaries and its corvée. The patron god is among the best loved in the empire, and his priests teach that pleasure is a form of gratitude, which sits easily on a selat of marsh, flax and waterfowl.
+The seat is Gadju-Mulu, where the Halzi'a keeps his court and the chief temple of Thuba'i stands. The Halzi'a's steward administers the selat's revenue, its granaries and its corvée. The patron god is among the best loved in the empire, and his priests teach that pleasure is a form of gratitude, which sits easily on a selat of marsh, flax and waterfowl.
 
 ## Commerce and Currency
 

@@ -8,11 +8,11 @@ tags: [asguardian, draft]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
-"Everything he makes, he makes once," the Hofgudja at [[place-vithgard|Vithgard]]'s great hov of the [[affiliation-motefnir|Faith of Mótefnir]] tells a newcomer. "Then he walks away from it. You are the only thing he ever made that could walk away from him in its turn and make more of itself. Think about what that cost." The north calls its people **Gnúmborinn**, the clay-born—_gnúm-_, a clay pot, and _-borinn_, one born of a thing—and the name is the whole account in two pieces.
+"Everything he makes, he makes once," the Hofgudja at [[place-vithgard|Vithgard]]'s great hov of [[affiliation-motefnir|Mótefnir]] tells a newcomer. "Then he walks away from it. You are the only thing he ever made that could walk away from him in its turn and make more of itself. Think about what that cost." The north calls its people **Gnúmborinn**, the clay-born—_gnúm-_, a clay pot, and _-borinn_, one born of a thing—and the name is the whole account in two pieces.
 
 ## The Mould and the Clay
 
-In the telling, when the [[affiliation-asguardian|Asguardian Pantheon]]—the Ten—had cut [[place-worldthlrn|The World of Thalorna]], Mannguard, out of [[lore-hrimthurspr|Hrimthur]]'s body in the [[lore-thursblot|Thursblet]], the world was ground, sea and weather with nobody on it. [[lore-motefnirdty|Mótefnir]] walked it. Where the giant's flesh lay against the meltwater coming off his rime the ground was clay, and the Maker pressed two figures out of it in his mould—the same mould his hovs carry as his sign beside an unfinished casting. He set them down on the strand to dry.
+In the telling, when the [[affiliation-asguardian|Asguardian Pantheon]]—the Ten—had cut [[place-worldthlrn|the World of Thalorna]], Mannguard, out of [[lore-hrimthurspr|Hrimthur]]'s body in the [[lore-thursblot|Thursblet]], the world was ground, sea and weather with nobody on it. [[lore-motefnirdty|Mótefnir]] walked it. Where the giant's flesh lay against the meltwater coming off his rime the ground was clay, and the Maker pressed two figures out of it in his mould—the same mould his hovs carry as his sign beside an unfinished casting. He set them down on the strand to dry.
 
 The first two have names, and the names are older than any hall. **[Hrandmil]{.name data-type="being/npc"}** is the man, named from _hrand_, a thing set down that will not be moved, because he was the first thing set down on the world and he stayed. **[Dvarnrinna]{.name data-type="being/npc"}** is the woman, named from _dvarn_, a door that is never barred. Both names stand in the hard grade, the first of the three, and that is why the skalds teach that every hall's genealogy, counted back far enough, rings home to a hard-grade name: the first two were the first naming, and the grades have turned from them ever since.
 
@@ -34,7 +34,7 @@ Every hall teaches that the first two were made without death in them, and that 
 
 ## The First Grave
 
-Whichever account a hall keeps, it tells the same ending. When Hrandmil was gone, Dvarnrinna raised the first howe over him, poured the first cup at it, and drank the first grave-ale—the _hrúmsminni_ every heir in the north still drinks before taking a dead man's seat. The north's whole manner of burying its dead, from the pyre to the howe, is held to start with her, and is set out in [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]].
+Whichever account a hall keeps, it tells the same ending. When Hrandmil was gone, Dvarnrinna raised the first howe over him, poured the first cup at it, and drank the first grave-ale—the _hrúmsminni_ every heir in the north still drinks before taking a dead man's seat. The north's whole manner of burying its dead, from the pyre to the howe, is held to start with her, and is set out in [[lore-nrdlndsfnrl|the Pyre, the Ship and the Howe]].
 
 ## See Also
 

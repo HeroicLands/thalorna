@@ -70,7 +70,7 @@ Tevran Maldor status
 
 ## Overview
 
-A village on [[place-zumeleshrvr|The Zumelesh]] whose goats keep vanishing at the river's edge does not send for a soldier. It sends for Gar'Nuw, which answers with a licensed culler, a bronze token at his belt and a report to file afterward. The guild licenses the empire's professional hunters, and that is the whole of its claim.
+A village on [[place-zumeleshrvr|the Zumelesh]] whose goats keep vanishing at the river's edge does not send for a soldier. It sends for Gar'Nuw, which answers with a licensed culler, a bronze token at his belt and a report to file afterward. The guild licenses the empire's professional hunters, and that is the whole of its claim.
 
 Most Khelathi game-taking is amateur: the household's livestock, the village's snares, the noble's pleasure hunt. The guild has no claim on amateurs. By imperial charter it licenses those who hunt for pay:
 

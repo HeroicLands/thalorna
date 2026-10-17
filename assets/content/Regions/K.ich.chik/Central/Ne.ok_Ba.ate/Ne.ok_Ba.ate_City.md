@@ -14,7 +14,7 @@ A merchant crossing Ne'ok Ba'ate going north carries jaguar hides, macaw feather
 
 ## Who Governs
 
-A Ts'enmah governs, and Ne'ok Ba'ate's Ts'enmah are characteristically independent-minded. They keep the forms of the orthodoxy of the [[affiliation-itzanpnthn|Itsani Pantheon]], pyramids, the vigesimal count and the 260-day ritual calendar, with a local flavor, and they chafe at the demands of tributary status while being too wealthy and too strategically important for the northern powers to conquer. Messages from [[affiliation-ixilankul|Ish'ilankul]] arrive in two to three days along way-stations that are fewer and more widely spaced than in the heartland. When the Ts'enmah have tried to set up a messenger network of their own, the priesthood has reminded them who controls the [Speaking Road]{.name data-type="affiliation"}.
+A Ts'enmah governs, and Ne'ok Ba'ate's Ts'enmah are characteristically independent-minded. They keep the forms of [[affiliation-itzanpnthn|Itsani orthodoxy]], pyramids, the vigesimal count and the 260-day ritual calendar, with a local flavor, and they chafe at the demands of tributary status while being too wealthy and too strategically important for the northern powers to conquer. Messages from [[affiliation-ixilankul|Ish'ilankul]] arrive in two to three days along way-stations that are fewer and more widely spaced than in the heartland. When the Ts'enmah have tried to set up a messenger network of their own, the priesthood has reminded them who controls the [Speaking Road]{.name data-type="affiliation"}.
 
 Ish'ilankul has been tempted to take the isthmus's trade by force. Only diplomatic skill and strategic marriages have kept the realm's autonomy, and that balance is the main political tension of the region.
 

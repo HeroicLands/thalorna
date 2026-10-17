@@ -215,7 +215,7 @@ After dark a whooping laugh breaks out of the grass, rising to a scream, and is 
 
 # Dossier {#dossier}
 
-The Hyena is the clan-living carnivore of the dry country, thirty inches at the shoulder and ninety to a hundred sixty pounds, with a back that slopes from high shoulders to low hips. Clans hold ground in the savanna of the [[place-sthrnsvnhs|Southern Savannahs]], the desert margin of [[place-aukhelathrgq|Au'Khelathu Region]] and the grass and badlands of the [[place-khzryndsrtrgn|Khazryn Desert Region]], where the [[being-mghyn|Mega Hyena]] also hunts. They are as much hunters as scavengers, and break up bone that no other large predator can stomach.
+The Hyena is the clan-living carnivore of the dry country, thirty inches at the shoulder and ninety to a hundred sixty pounds, with a back that slopes from high shoulders to low hips. Clans hold ground in the savanna of the [[place-sthrnsvnhs|Southern Savannahs]], the desert margin of [[place-aukhelathrgq|Au'Khelathu]] and the grass and badlands of the [[place-khzryndsrtrgn|Khazryn]], where the [[being-mghyn|Mega Hyena]] also hunts. They are as much hunters as scavengers, and break up bone that no other large predator can stomach.
 
 ## Presentation
 

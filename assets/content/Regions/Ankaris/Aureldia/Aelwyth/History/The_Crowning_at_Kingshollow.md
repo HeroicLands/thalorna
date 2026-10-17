@@ -40,7 +40,7 @@ The Crowning at Kingshollow began a tradition kept by the kings of the [[affilia
 
 ## A King Chosen From Among Them
 
-The eastern barons held the lowland farms of the country, and their families had held them since the [[lore-pelwarpepl|Pelwar People]] first settled the island. They had no overlord and wanted none. They did want a war-leader against the forest, where the [[lore-grukarcomes|Grukar]] had spread across the interior and the tribes in it had been fighting them for generations, and they needed a judge to settle the quarrels that boundary stones could not. Drethar was the strongest of them and the most trusted. The others crowned him in the chapel beside his hall because they preferred a king whose land they could ride across in a day.
+The eastern barons held the lowland farms of the country, and their families had held them since the [[lore-pelwarpepl|Pelwar]] first settled the island. They had no overlord and wanted none. They did want a war-leader against the forest, where the [[lore-grukarcomes|Grukar]] had spread across the interior and the tribes in it had been fighting them for generations, and they needed a judge to settle the quarrels that boundary stones could not. Drethar was the strongest of them and the most trusted. The others crowned him in the chapel beside his hall because they preferred a king whose land they could ride across in a day.
 
 The arrangement shaped the crown that followed. A king of Aldorath rules with the consent of barons who hold their land from their own ancestors and regard the crown as a convenience they granted. The barons' conviction that they are older than the throne is accurate.
 

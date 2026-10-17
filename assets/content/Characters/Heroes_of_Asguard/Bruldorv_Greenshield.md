@@ -361,7 +361,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Bruldorv Greenshield stands 6'0" with a heavy, broad-shouldered frame, weighing about 210 pounds. His fair skin is deeply tanned from a lifetime working outdoors in all seasons, and his brown hair is thick and unruly, kept back with a simple leather cord. His green eyes are warm and steady, crinkling at the corners when he smiles, which is often. His features are broad and open, with a wide face, a blunt nose, full lips, and heavy brows above honest, uncomplicated eyes. Earth is always under his fingernails and worked into the creases of his weathered hands. Bruldorv wears practical farmer's clothing—a heavy linen tunic, leather breeches, and sturdy boots—with a green-painted wooden shield slung across his back and a worn oak staff in hand. Sprigs of fresh herbs are tucked into his belt, and the scent of turned earth follows him wherever he goes.
+Bruldorv stands 6'0" with a heavy, broad-shouldered frame, weighing about 210 pounds. His fair skin is deeply tanned from a lifetime working outdoors in all seasons, and his brown hair is thick and unruly, kept back with a simple leather cord. His green eyes are warm and steady, crinkling at the corners when he smiles, which is often. His features are broad and open, with a wide face, a blunt nose, full lips, and heavy brows above honest, uncomplicated eyes. Earth is always under his fingernails and worked into the creases of his weathered hands. Bruldorv wears practical farmer's clothing—a heavy linen tunic, leather breeches, and sturdy boots—with a green-painted wooden shield slung across his back and a worn oak staff in hand. Sprigs of fresh herbs are tucked into his belt, and the scent of turned earth follows him wherever he goes.
 
 # Dossier {#dossier}
 
@@ -397,7 +397,7 @@ Bruldorv's connection to the earth gives him an intuitive understanding of agric
 
 **[The Ash Reavers]{.name data-type="affiliation"}**—Raiders who practice scorched earth tactics, burning fields and salting the land as they go. Bruldorv has sworn to stop them.
 
-[[being-svlthsldashnmdn|Svilthselda Ashenmaiden]]—Though Svilthselda serves the [[affiliation-svartbrandr|Faith of Svartbrandr]] with nobler intentions than most, her belief in purifying fire is antithetical to Bruldorv's dedication to growth and nurture. Their philosophical conflict has led to tense confrontations.
+[[being-svlthsldashnmdn|Svilthselda Ashenmaiden]]—Though Svilthselda serves [[affiliation-svartbrandr|Svartbrandr]] with nobler intentions than most, her belief in purifying fire is antithetical to Bruldorv's dedication to growth and nurture. Their philosophical conflict has led to tense confrontations.
 
 ## Plot Hooks
 

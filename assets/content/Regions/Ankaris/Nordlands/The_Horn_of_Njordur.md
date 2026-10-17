@@ -9,16 +9,16 @@ sohl: {system: {weightBase: 2, valueBase: 0, durabilityBase: 12}}
 ---
 
 The Horn of Hafvald is one of the **three regalia** required to seal away [[being-njorven|Njorven]], with
-[[miscgear-crwnwyrm|The Crown of the Wyrm]] and [[miscgear-sprsigrid|The Spear of Skraldthira]]. All three are
-needed for [[lore-njordurritlbinding|The Ritual of Binding]].
+[[miscgear-crwnwyrm|the Crown of the Wyrm]] and [[miscgear-sprsigrid|the Spear of Skraldthira]]. All three are
+needed for [[lore-njordurritlbinding|the Ritual of Binding]].
 
 ## Hafvald {#hafvald}
 
 The name is a difficulty, and the sagas do not resolve it.
 
-**[Hafvald]{.name data-type="lore"}** is not one of the Ten of the [[affiliation-asguardian|Asguardian Pantheon]]. The name belongs to an older sea-power of the
-[[place-nrdlndsrgn|Nordlands Region]], largely displaced by the [[lore-asvinir|Ásvinir]] and surviving chiefly in place-names, in a few coastal
-observances that priests of the [[affiliation-thrunvald|Faith of Thrunvald]] tolerate without approving, and in this horn. What Hafvald was—a
+**[Hafvald]{.name data-type="lore"}** is not one of the [[affiliation-asguardian|Asguardian Ten]]. The name belongs to an older sea-power of the
+[[place-nrdlndsrgn|Nordlands]], largely displaced by the [[lore-asvinir|Ásvinir]] and surviving chiefly in place-names, in a few coastal
+observances that priests of [[affiliation-thrunvald|Thrunvald]] tolerate without approving, and in this horn. What Hafvald was—a
 god the Ásvinir supplanted, a sea-spirit the clans placated, or something the two later traditions have
 confused—depends entirely on which skald is asked.
 
@@ -28,7 +28,7 @@ younger the first time. Some make them kin. A few, told quietly and not in halls
 thing under two names, which would raise an obvious and unwelcome question about what the Ritual of
 Binding actually invokes.
 
-[[being-grosdrnrgd|Groa the Seid of Norgaad]] has been advised not to pursue this question until after the sealing.
+[[being-grosdrnrgd|Groa]] has been advised not to pursue this question until after the sealing.
 
 ## See Also
 

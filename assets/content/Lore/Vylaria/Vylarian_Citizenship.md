@@ -7,19 +7,19 @@ description: "Citizenship in the Vylarian Empire—a personal, earned, largely n
 tags: [reference, vylaria, imperial, law, society]
 ---
 
-A centurion puts the bargain to each year's recruits on the morning they swear the oath, in words something like these: "Look at the old soldiers by the gate, lads. Every one of them stood where you stand, fifteen years old in a borrowed tunic, and every one is a citizen of the [[affiliation-vylarinmpr|Vylarian Empire]] today because he lived through twenty years of this. His father was not a citizen. His sons will not be, unless they walk the same road. The army holds the door open, and [[affiliation-seldan|Seldan]], the Senate, holds the only other."
+A centurion puts the bargain to each year's recruits on the morning they swear the oath, in words something like these: "Look at the old soldiers by the gate, lads. Every one of them stood where you stand, fifteen years old in a borrowed tunic, and every one is a citizen of the [[affiliation-vylarinmpr|Empire]] today because he lived through twenty years of this. His father was not a citizen. His sons will not be, unless they walk the same road. The army holds the door open, and [[affiliation-seldan|Seldan]], the Senate, holds the only other."
 
 The speech holds the whole system: the age, the term, the prize and the fact that it cannot be handed down. The rest of this note fills it in.
 
 ## Citizen and Resident
 
-The deepest division in Vylarian society is not between rich and poor but between **citizen** and **resident**. The great mass of the people under imperial rule are residents: subjects of the Empire, born to it, taxed by it and protected by it after a fashion, who hold no share in it. Citizens are the privileged minority who have _earned_ a stake, and the gap between the two is one of the central facts of life in the [[place-vylariargn|Vylaria Region]].
+The deepest division in Vylarian society is not between rich and poor but between **citizen** and **resident**. The great mass of the people under imperial rule are residents: subjects of the Empire, born to it, taxed by it and protected by it after a fashion, who hold no share in it. Citizens are the privileged minority who have _earned_ a stake, and the gap between the two is one of the central facts of life in [[place-vylariargn|Vylaria]].
 
 Citizenship is a personal, earned and largely non-heritable status. A man is not a citizen because his father was, and with one exception he must win it himself and cannot pass it down. The exception is the **nobility**, who hold citizenship by station and transmit it heir to heir, which is part of what makes them the nobility. For everyone else the citizen body renews itself each generation out of those who have served or been granted it. A citizen's **wife** holds the citizenship permanently, widowhood included. His **children** are honorary citizens while they are his dependents and not after; a son or daughter who leaves the household is a resident unless he wins the status for himself.
 
 ## Earning the Citizenship
 
-For the common-born there are two roads: **service in [[affiliation-vylrnmltry|The Vylarian Military]]**, which is the road nearly everyone takes, and a **Senate grant**. The bargain is a statute of the second Orzas, [Arkanamos]{.name data-type="being/npc"}, passed about 34 AF ([[lore-veteranslaw|The Veterans' Law]]).
+For the common-born there are two roads: **service in [[affiliation-vylrnmltry|the Vylarian Military]]**, which is the road nearly everyone takes, and a **Senate grant**. The bargain is a statute of the second Orzas, [Arkanamos]{.name data-type="being/npc"}, passed about 34 AF ([[lore-veteranslaw|The Veterans' Law]]).
 
 The army counts no one as a soldier before his **fifteenth birthday**. Boys may follow the camps and even fight, but they hold no rank and their service does not start the clock until then. A full term is **twenty years**, so a commoner who takes the oath at fifteen and lives to be discharged leaves the legions a **citizen of the Empire at thirty-five**, which in Vylaria is already a middle-aged man. The whole of the imperial military rests on this deal, and the commoner track of the legions is, among other things, a machine for making citizens.
 
@@ -30,7 +30,7 @@ The Senate may grant the status to anyone, for some signal service to the Empire
 A citizen holds a bundle of privileges that no resident enjoys:
 
 - **The dole.** A guaranteed ration of grain and, in [[place-orzara|Orzara]], oil and the price of the public games besides. It is a subsistence _floor_, not a living (see below).
-- **The right of residence in Orzara.** Only citizens may dwell within the capital's thrima by right. A resident needs a registered waiver, tied to an employer, from [[affiliation-verdanorzara|Verdan Orzara]]; the Orzara note describes how the waivers work.
+- **The right of residence in Orzara.** Only citizens may dwell within the capital's thrima by right. A resident needs a registered waiver, tied to an employer, from [[affiliation-verdanorzara|the courts]]; the Orzara note describes how the waivers work.
 - **Legal standing.** A citizen stands before the courts as a person of standing, with a **right of appeal** that rises to the imperial tribunals. He is spared the summary and degrading punishments dealt to residents: a condemned citizen is owed a trial and, at worst, a clean execution, never the lash or the arena without sentence.
 - **Eligibility.** Citizens may vote and hold civic office, and they have first claim on the salaried imperial posts the Empire reserves for the men who served it, the [City Watch]{.name data-type="affiliation/governmental"} above all.
 

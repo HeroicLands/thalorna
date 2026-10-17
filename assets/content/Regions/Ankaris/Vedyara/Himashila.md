@@ -15,7 +15,7 @@ data:
   government: trimurtisampradaya
 ---
 
-**Himashila** lies at the head of [[place-chandrprbh|Chandraprabhava]], on the shelf where [[place-chandrmahi|The Chandramahi]] comes out of the ice under [[place-suryashkhr|Suryashikhara]]. It is one piece, about the size of a cart, without a seam or a crack anywhere on it. Its upper face swells and hollows in long true runs, more like the whorl of a conch opened out than like anything built, and there is no ornament on it, no straight edge and no square corner.
+**Himashila** lies at the head of [[place-chandrprbh|Chandraprabhava]], on the shelf where [[place-chandrmahi|the Chandramahi]] comes out of the ice under [[place-suryashkhr|Suryashikhara]]. It is one piece, about the size of a cart, without a seam or a crack anywhere on it. Its upper face swells and hollows in long true runs, more like the whorl of a conch opened out than like anything built, and there is no ornament on it, no straight edge and no square corner.
 
 ## What It Is Like
 
@@ -29,15 +29,15 @@ There is nothing written on it. Not an inscription, not a mark, not a sign of an
 
 The spring beneath it does not freeze. That is the whole of it: no rite touches it, no procedure affects it, and nobody has ever produced an account of how a slab of anything keeps water running under a glacier.
 
-The priests of [[affiliation-trimurtisampradaya|Triyanga-sampradeya]] hold it the god's footstool and wash it at the turn of every season. [[affiliation-osketguides|The Osket]] hold it the mountain's own and step round it without touching. Neither has ever offered an explanation of the water, and neither has ever been asked for one by anybody who mattered.
+The [[affiliation-trimurtisampradaya|Triyanga priests]] hold it the god's footstool and wash it at the turn of every season. [[affiliation-osketguides|The Osket]] hold it the mountain's own and step round it without touching. Neither has ever offered an explanation of the water, and neither has ever been asked for one by anybody who mattered.
 
 ## The Nine Days
 
 Two winters ago the spring iced over, and stayed iced for nine days, which had never happened in the temple's record. Then it ran again.
 
-The slab was unchanged throughout—gray, warm, giving—and is unchanged now. There is nothing to show and nothing to point at, and the temple has entered nothing in the record, on the ground that nine days of weather is not an entry. The reckoners of [[affiliation-ganakashala|Ganoka-shalda]] want it entered ([[lore-nineice|The Nine Days of Ice]]).
+The slab was unchanged throughout—gray, warm, giving—and is unchanged now. There is nothing to show and nothing to point at, and the temple has entered nothing in the record, on the ground that nine days of weather is not an entry. The reckoners of the [[affiliation-ganakashala|Ganoka-shalda]] want it entered ([[lore-nineice|the Nine Days of Ice]]).
 
 ## See Also
 
-- [[place-chandrprbh|Chandraprabhava]] · [[place-suryashkhr|Suryashikhara]] · [[place-chandrmahi|The Chandramahi]]
-- [[affiliation-trimurtisampradaya|Triyanga-sampradeya]] · [[affiliation-osketguides|The Osket]]
+- [[place-chandrprbh|Chandraprabhava]] · [[place-suryashkhr|Suryashikhara]] · [[place-chandrmahi|the Chandramahi]]
+- [[affiliation-trimurtisampradaya|Triyanga-sampradeya]] · [[affiliation-osketguides|the Osket]]

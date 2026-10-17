@@ -238,7 +238,7 @@ The grass on the knoll is pressed flat in a long oval, and the rock beside it is
 
 # Dossier {#dossier}
 
-The Steppe Lion is the lone maned lion of the grass and rocky steppe, four to five feet at the shoulder and ten to twelve feet long, hunting dozens of square miles of the [[place-khzryndsrtrgn|Khazryn Desert Region]] steppe, the open forest of the steppe margin of [[place-velanthrgn|Velanthia Region]] and the dry uplands of the Bizarian [[place-southrnmrch|Southern March]]. Unlike the lions of the south it does not live in prides. Each cat holds its range alone, resting in a thicket or a rock-pile and watching the herds from cover.
+The Steppe Lion is the lone maned lion of the grass and rocky steppe, four to five feet at the shoulder and ten to twelve feet long, hunting dozens of square miles of the [[place-khzryndsrtrgn|Khazryn]] steppe, the open forest of the [[place-velanthrgn|Velanthian steppe margin]] and the dry uplands of the Bizarian [[place-southrnmrch|March]]. Unlike the lions of the south it does not live in prides. Each cat holds its range alone, resting in a thicket or a rock-pile and watching the herds from cover.
 
 ## Presentation
 

@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [khzryndsrtrgn], population: 0, packFol
 
 ## Overview
 
-Mount Shofar is a black-rock peak at the southern edge of [[place-dkrqrrgn|Diqraqor]], the Stone Uplands, where the dark plateau runs down to meet the irrigated belt of [[place-swoasisbelt|Tellumel]]. It rises north of the eastern oases, a few days' ride from [[place-kethramir|Kethramír]], and its flanks are the ground the [[affiliation-tribestrzd|Tribes of Atarzád]] hold outside their four cities. To the Atarzád it is the holiest ground in the world. Here, their griots teach, [[lore-atarosdty|Ataros]] revealed himself to the prophet [Yotekhor]{.name data-type="being/npc"} in a flame that burned in the open air on bare stone for three days and nights without fuel and without diminishing, and gave him the [Promise of the Tellumel]{.name data-type="lore"}: the land below, promised to the Flame-born.
+Mount Shofar is a black-rock peak at the southern edge of [[place-dkrqrrgn|Diqraqor]], the Stone Uplands, where the dark plateau runs down to meet the irrigated belt of [[place-swoasisbelt|Tellumel]]. It rises north of the eastern oases, a few days' ride from [[place-kethramir|Kethramír]], and its flanks are the ground the [[affiliation-tribestrzd|Atarzád]] hold outside their four cities. To the Atarzád it is the holiest ground in the world. Here, their griots teach, [[lore-atarosdty|Ataros]] revealed himself to the prophet [Yotekhor]{.name data-type="being/npc"} in a flame that burned in the open air on bare stone for three days and nights without fuel and without diminishing, and gave him the [Promise of the Tellumel]{.name data-type="lore"}: the land below, promised to the Flame-born.
 
 ## The Flame and the Tomb
 

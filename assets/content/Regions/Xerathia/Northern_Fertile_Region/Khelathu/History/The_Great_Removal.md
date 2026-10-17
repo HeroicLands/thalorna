@@ -45,19 +45,19 @@ A keeper-priest in [[place-zugezer|Zu-Gezer]] stops at the first great gate the 
 
 ## The Order
 
-[Meqes VI]{.name data-type="being/npc"} took the throne in 2639 ST (529 AF) and reigned twenty-seven years, the longest reign of his house to that point and the one at the height of its power. About 2650 ST (540 AF), in the eleventh year of his reign, he ordered The Great Removal.
+[Meqes VI]{.name data-type="being/npc"} took the throne in 2639 ST (529 AF) and reigned twenty-seven years, the longest reign of his house to that point and the one at the height of its power. About 2650 ST (540 AF), in the eleventh year of his reign, he ordered the Great Removal.
 
 By old custom each new house raised its Way farther out toward the sunset than the last, so the oldest houses lay nearest the river. Strong houses had been moving their predecessors before this, and each such Removal is remembered as either the height of glory or the height of hubris. Meqes VI proposed to do it on a scale no Gar-Au had attempted. His own house had spent its first generations at the frontier of the necropolis, and he did not intend that it should spend its last there. He ordered the oldest houses on the river-front carried outward, the ground cleared, and [The Way of Zu'Meku]{.name data-type="place/site"} raised at the head of the death-road, where the first thing a procession meets from the water is the reigning house's own work.
 
 ## The Work
 
-The restoration guilds of Zu-Gezer did the lifting. The mortuary priesthood of the [[affiliation-wethur|Faith of Weth'ur]], which answers for every dead person receiving proper preparation, supervised it, and the Gar-Au's decree named the rites that must be said at each tomb-mouth and again at the new gallery. Each king was lifted with his grave-goods, carried out beyond the last of the Ways, and set down in a gallery built for the purpose, with his name cut over the door in the order the old Way had kept. [Zu'Amqeletu]{.name data-type="affiliation/lineage"}, the house that had opened the first Way at the Crossing, was carried out with the rest ([[lore-crossmound|The Crossing to the Mound]]).
+The restoration guilds of Zu-Gezer did the lifting. The mortuary priesthood of [[affiliation-wethur|Weth'ur]], which answers for every dead person receiving proper preparation, supervised it, and the Gar-Au's decree named the rites that must be said at each tomb-mouth and again at the new gallery. Each king was lifted with his grave-goods, carried out beyond the last of the Ways, and set down in a gallery built for the purpose, with his name cut over the door in the order the old Way had kept. [Zu'Amqeletu]{.name data-type="affiliation/lineage"}, the house that had opened the first Way at the Crossing, was carried out with the rest ([[lore-crossmound|the Crossing to the Mound]]).
 
 The cursed Way of the struck house stood four crossing-roads back from the river and was not touched. The curse upon it forbids the touch of any tool, and no decree of the Gar-Au removes it.
 
 ## The Result
 
-The new Way is dressed in white stone, gleaming with gold leaf and polished bronze, and inlaid with the deep cobalt blue the Khelathi prize above every other color. It is still lengthened with each royal burial. The Removed Kings lie in galleries at the necropolis's outer reaches, where the endowments that were to pay for their restoration have lapsed with the houses that gave them ([[place-removedkings|The Galleries of the Removed Kings]]).
+The new Way is dressed in white stone, gleaming with gold leaf and polished bronze, and inlaid with the deep cobalt blue the Khelathi prize above every other color. It is still lengthened with each royal burial. The Removed Kings lie in galleries at the necropolis's outer reaches, where the endowments that were to pay for their restoration have lapsed with the houses that gave them ([[place-removedkings|the Galleries of the Removed Kings]]).
 
 ## What It Left
 

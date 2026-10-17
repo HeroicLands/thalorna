@@ -413,7 +413,7 @@ sohl:
 
 ![[dhrmplvmkt|Darmapalda Vimuktana]]{float=top-left}
 
-Darmapalda Vimuktana stands 6'1" tall with a medium build. He has warm golden brown skin, dark black hair, and dark brown eyes. His features include an oval face, a broad nose, a narrow chin, an expressive mouth, warm golden brows, and high cheeks. He has a tattoo of a flower on his ankle.
+Darmapalda stands 6'1" tall with a medium build. He has warm golden brown skin, dark black hair, and dark brown eyes. His features include an oval face, a broad nose, a narrow chin, an expressive mouth, warm golden brows, and high cheeks. He has a tattoo of a flower on his ankle.
 
 # Dossier {#dossier}
 
@@ -421,7 +421,7 @@ Darmapalda emerged from the lower stations of the [[place-vedyarargn|Vedyara Reg
 
 The flower tattoo appeared around the time he entered [The Mercenaries Shrena of Vedyara]{.name data-type="affiliation/guild"} proper, marking either a binding oath or a commemoration of personal loss—Darmapalda offers no explanation. Over the next decade, he refined himself from street-fighter to bodyguard of the first rank, developing the foresight and eye for threats that set him apart from merely competent soldiers. He studied the ways of multiple city-states, learning their hierarchies and vulnerabilities, and began taking commissions that demanded not brute force but insight into people and inventive thinking.
 
-Now he operates from the margins of [[lore-vedyariclt|Vedyari]] society, available to those wealthy and discreet enough to seek him through proper channels. Though nominally affiliated with the Mercenaries Shrena, Darmapalda maintains fierce independence and careful separation from entanglements with other shrena members or formal power structures.
+Now he operates from the margins of [[lore-vedyariclt|Vedyaran]] society, available to those wealthy and discreet enough to seek him through proper channels. Though nominally affiliated with the Mercenaries Shrena, Darmapalda maintains fierce independence and careful separation from entanglements with other shrena members or formal power structures.
 
 ## Psyche
 
@@ -484,7 +484,7 @@ Master Surgeon [Devak]{.name data-type="being/npc"}
 
 ### Enemies
 
-Captain [[being-nagarithagaj|Nagarita Gajavira]] of the [City Guard]{.name data-type="affiliation"}
+Captain [[being-nagarithagaj|Nagarita]] of the [City Guard]{.name data-type="affiliation"}
 : A corrupt official who views Darmapalda's independence from his authority as insult and has made his removal a personal crusade, generating false charges and attempting to cut off his legitimate work.
 
 [[affiliation-gargezru|Gar-Gezru]]

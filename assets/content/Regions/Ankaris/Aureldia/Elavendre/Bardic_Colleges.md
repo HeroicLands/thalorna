@@ -57,9 +57,9 @@ Tradition
 
 ## Overview
 
-The **Bardic Colleges** of [[place-elavendre|Élavendre]] are institutions of learning that combine musical training, oral history, magical study, and diplomacy. They are among the most prestigious centers of education in the [[place-midhalnrgn|Mídhalión Region]], and Élavendren bards—graduates of the Colleges—serve as ambassadors, historians, and, on occasion, spies across the western kingdoms.
+The **Bardic Colleges** of [[place-elavendre|Élavendre]] are institutions of learning that combine musical training, oral history, magical study, and diplomacy. They are among the most prestigious centers of education in [[place-midhalnrgn|Mídhalión]], and Élavendren bards—graduates of the Colleges—serve as ambassadors, historians, and, on occasion, spies across the western kingdoms.
 
-The Colleges trace their origins to the earliest Pelwar bardic traditions carried into Élavendre by the ancestors of the [[lore-aelendnppl|Áelendan People]]. The institutional form is more recent—the named Colleges with their curricula, their masters, and their formal degrees date mostly to the early centuries of the Élavendren kingdom—but the substance of what they teach is ancient. A College bard trained in the most conservative tradition can recite genealogies and sagas whose roots lie in Proto-Pelwar oral poetry.
+The Colleges trace their origins to the earliest Pelwar bardic traditions carried into Élavendre by the ancestors of the [[lore-aelendnppl|Áelendan]]. The institutional form is more recent—the named Colleges with their curricula, their masters, and their formal degrees date mostly to the early centuries of the Élavendren kingdom—but the substance of what they teach is ancient. A College bard trained in the most conservative tradition can recite genealogies and sagas whose roots lie in Proto-Pelwar oral poetry.
 
 ## What the Colleges Teach
 
@@ -75,17 +75,17 @@ Genealogy and history
 : The noble houses of Élavendre set great store by accurate lineage, and the Colleges are the kingdom's definitive authority on the question of who is descended from whom ([[lore-sorvandaclose|The Sórvanda Closing]]).
 
 Languages
-: All Pelwar descendants are taught to some degree, along with the principal Ankarian trade languages. The most learned bards also study the [[skill-aelendlng|Áelendi Language]] and, in rare cases, fragments of the [[skill-sinalelng|Sinale Language]].
+: All Pelwar descendants are taught to some degree, along with the principal Ankarian trade languages. The most learned bards also study [[skill-aelendlng|Áelendi]] and, in rare cases, fragments of [[skill-sinalelng|Sinalean]].
 
 Bardic magic
-: The old magical traditions of Élavendre, distinct from the institutional arcana of [[affiliation-ordoarcanis|Thordimalon]]. These include song-binding, memory-shaping, and various forms of inspiration and dispiriting magic that operate through voice and narrative. The Colleges do not teach these openly to outsiders, and their exact mechanisms are closely held.
+: The old magical traditions of Élavendre, distinct from the institutional arcana of the [[affiliation-ordoarcanis|Thordimalon]]. These include song-binding, memory-shaping, and various forms of inspiration and dispiriting magic that operate through voice and narrative. The Colleges do not teach these openly to outsiders, and their exact mechanisms are closely held.
 
 Diplomacy and statecraft
 : Many bards serve as envoys and advisors to noble houses and foreign courts. The Colleges train their students in protocol, persuasion, and the particular arts of gathering information without seeming to do so.
 
 ## The Bardic Circle
 
-The senior leadership of the Colleges—the masters, the archivists, and the most accomplished working bards—form a body known as the **Bardic Circle**. The Circle is one of the three traditional Élavendren institutions that together have shaped the kingdom's magical, cultural, and political life since before the monarchy was founded, the other two being **[[affiliation-groveconcl|The Grove Council]]** (the religious authority of the fae traditions) and the [[lore-aelendnppl|Áelendan]] (whose sovereign authority over sacred territory predates all other institutions).
+The senior leadership of the Colleges—the masters, the archivists, and the most accomplished working bards—form a body known as the **Bardic Circle**. The Circle is one of the three traditional Élavendren institutions that together have shaped the kingdom's magical, cultural, and political life since before the monarchy was founded, the other two being **[[affiliation-groveconcl|the Grove Council]]** (the religious authority of the fae traditions) and the [[lore-aelendnppl|Áelendan]] (whose sovereign authority over sacred territory predates all other institutions).
 
 The Bardic Circle is presently one of the primary organized forces resisting the expansion of [[affiliation-ordoarcanis|Thordimalon]] influence in Élavendre. The Circle regards the Arcane Order's attempts to catalog and bureaucratize magic as fundamentally incompatible with the bardic tradition's understanding of magic as something that lives in voice, story, and relationship. In the cities, this resistance takes the form of civilized rivalry—competing chairs at court, contested pupils, reciprocal exclusion from certain venues. Beyond the cities, where the Circle's interests align with the [[affiliation-alndnwrdns|Áelendan Wardens]], the resistance turns considerably less polite.
 

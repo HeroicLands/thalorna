@@ -15,13 +15,13 @@ data:
 ---
 
 **Vargate** stands at the foot of the road that climbs to [[place-vorgald|Vorgald]], and it is the only
-reason anyone outside [[place-vardainvalleys|The Vardain Valleys]] has heard of
-[[lore-vardain|The Vardain]]. Fifteen hundred people—much the largest settlement in [[place-ironfells|The Ironfells]], and
-larger than anything in the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] but its seat.
+reason anyone outside [[place-vardainvalleys|the valleys]] has heard of
+[[lore-vardain|the Vardain]]. Fifteen hundred people—much the largest settlement in [[place-ironfells|the Ironfells]], and
+larger than anything in [[affiliation-jrldmstrmvld|Stormveld]] but its seat.
 
 ## The Gate
 
-The town's name is its function. **Everything the [[lore-flkkhazar|Khazár Folk]] send down comes through Vargate, and
+The town's name is its function. **Everything the [[lore-flkkhazar|Khazari]] send down comes through Vargate, and
 everything they receive goes up from it**, and there is no second route.
 
 The exchange happens at the **[Weighing Yard]{.name data-type="place/site"}** at the top of the town: Vardain factors bring up what has
@@ -66,4 +66,4 @@ There is no second time, and the Vardain will not say what the second time consi
 
 ## See Also
 
-- [[place-vardainvalleys|The Vardain Valleys]] · [[place-vorgald|Vorgald]] · [[lore-vardain|The Vardain]]
+- [[place-vardainvalleys|The Vardain Valleys]] · [[place-vorgald|Vorgald]] · [[lore-vardain|the Vardain]]

@@ -46,7 +46,7 @@ data:
         - how many of the orkunoq's dead lie on the field
 ---
 
-A captain of the march companies puts it shortly to a new man: "The road goes round that ground, and so do you." The ground is [[place-lanthusthli|Lantustali]], and **The Fall of Marupala** is why it is there.
+A captain of the march companies puts it shortly to a new man: "The road goes round that ground, and so do you." The ground is [[place-lanthusthli|Lantustali]], and **the Fall of Marupala** is why it is there.
 
 ## The March Before the Storm
 
@@ -54,9 +54,9 @@ Before [[affiliation-bhumipala|Bhumipala]], the [[place-vedyarargn|Vedyara Regio
 
 ## The Spring of 315
 
-In the spring of 315 a steppe orkunoq came down [[place-wstrndscnt|The Western Descent]] ([[lore-hndrdbnnrs|The Storm of the Hundred Banners]]). The march had warning of it from the Dunhari wells and not much more. The last king, **[Ashvakirti]{.name data-type="being/npc"}**, took his whole host up the road to meet it where the foothills open onto [[place-marchroad|The March Road]], a day and a half west of where [[place-ashvapada|Ashvapada]] stands now, because that was the last ground before the host would be loose on the plain.
+In the spring of 315 a steppe orkunoq came down [[place-wstrndscnt|the Western Descent]] ([[lore-hndrdbnnrs|the Storm of the Hundred Banners]]). The march had warning of it from the Dunhari wells and not much more. The last king, **[Ashvakirti]{.name data-type="being/npc"}**, took his whole host up the road to meet it where the foothills open onto [[place-marchroad|the march road]], a day and a half west of where [[place-ashvapada|Ashvapada]] stands now, because that was the last ground before the host would be loose on the plain.
 
-The host overran his line there. Ashvakirti died with his army, and the chronicles of the river country, which are all the record left, say that none of the host came home. The orkunoq went on down the road, burned Ludrapur, swept the march and turned west across the [[place-dunharargn|Dunhara Region]] the same year, toward the walls of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], and broke up over the winter on its orkun's death.
+The host overran his line there. Ashvakirti died with his army, and the chronicles of the river country, which are all the record left, say that none of the host came home. The orkunoq went on down the road, burned Ludrapur, swept the march and turned west across [[place-dunharargn|Dunhara]] the same year, toward the walls of [[affiliation-kngdmmrdd|Amradad]], and broke up over the winter on its orkun's death.
 
 Nobody was left to burn the dead. Marupala's dead had no households near enough to sound a conch, and the orkunoq's dead were not received by their own rites either. The field is Lantustali, the banner ground: the third _shorukshetra_ (blood-field) in Vedyara, and the thinnest.
 
@@ -64,7 +64,7 @@ Nobody was left to burn the dead. Marupala's dead had no households near enough 
 
 - **The field.** Lantustali is a dread and a _ghurakshetra_ (cursed field). The overrun host's panic comes on anyone who lingers, and on any night of the year things come out of it that can kill.
 - **The ruin.** Ludrapur was never reoccupied.
-- **The kingdom after.** A clan of the salt coast took the empty march ([[lore-bhmplraise|The Raising of Bhumipala]]). Its court sits at the far end of the road, and every fort on the road was built after this spring.
+- **The kingdom after.** A clan of the salt coast took the empty march ([[lore-bhmplraise|the Raising of Bhumipala]]). Its court sits at the far end of the road, and every fort on the road was built after this spring.
 - **The road.** The march road bends south round the field, and the march companies bar that stretch at dusk.
 
 ## See Also

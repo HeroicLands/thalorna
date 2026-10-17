@@ -130,7 +130,7 @@ function is distributed across four roles, and individuals commonly hold more th
   standing pacts, and the songs that mark every significant occasion. A people who do not write
   keep their entire record in this office.
 - **Drum-speakers**—trained in the long-distance drum register of the
-  [[skill-nyalbnlng|Nyáluban Language]]. They call a clan to assembly, summon a distant shaman, and
+  [[skill-nyalbnlng|Nyáluban tongue]]. They call a clan to assembly, summon a distant shaman, and
   carry announcement across many miles; in religious life they keep the ceremonial drumming
   without which the rites do not begin.
 - **Spirit-Speakers** (_kwendari zohiring_, "teachers of the spirit")—those taken through the

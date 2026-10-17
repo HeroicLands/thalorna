@@ -10,7 +10,7 @@ data: {demonym: Ólvestran, lore: [], parents: [tarvenirgn], packFolder: tarveni
 
 ## Overview
 
-Ólvestra is one of the great commercial cities of the west, named in the same breath as [[place-orzara|Orzara City]] and the [[place-byzariargn|Bizaria Region]] when merchants talk about where goods fetch the highest prices. It stands in the [[place-tarvenirgn|Tarvénia Region]], and what a traveler meets first is its gate: **the [Twin Gate]{.name data-type="place/structure"} of Ólvestra**, one of the most consequential thresholds in all of the [[place-aureldirgn|Aureldia Region]], kept by knights whose whole order exists to keep gates.
+Ólvestra is one of the great commercial cities of the west, named in the same breath as [[place-orzara|Orzara City]] and the [[place-byzariargn|Bizaria Region]] when merchants talk about where goods fetch the highest prices. It stands in [[place-tarvenirgn|Tarvénia]], and what a traveler meets first is its gate: **the [Twin Gate]{.name data-type="place/structure"} of Ólvestra**, one of the most consequential thresholds in all of [[place-aureldirgn|Aureldia]], kept by knights whose whole order exists to keep gates.
 
 ## The City of Oaths and Gates
 
@@ -21,9 +21,9 @@ Two orders keep their mother-houses here, and between them they make Ólvestra t
 
 ## Money and Danger
 
-Ólvestra is a moneylenders' city. The great houses of [[affiliation-danvar|The Danvar]] keep offices here—the **[House of Calventian]{.name data-type="affiliation/venture"}** among them—and the Danvar's chapterhouse is one of its largest, with permanent staff in the dozens. Prices for premium goods run higher here than almost anywhere in the west, and an Ólvestran house's notes travel far: if the imperial treasury suspends one for political reasons, cashing houses across the empire are left holding paper they cannot redeem.
+Ólvestra is a moneylenders' city. The great houses of [[affiliation-danvar|the Danvar]] keep offices here—the **[House of Calventian]{.name data-type="affiliation/venture"}** among them—and the Danvar's chapterhouse is one of its largest, with permanent staff in the dozens. Prices for premium goods run higher here than almost anywhere in the west, and an Ólvestran house's notes travel far: if the imperial treasury suspends one for political reasons, cashing houses across the empire are left holding paper they cannot redeem.
 
-The city has its shadows too. **[The Ólvestran Cell]{.name data-type="affiliation"}** of [[affiliation-ordershnvw|The Order of the Ashen Vow]] is that order's largest, operating under the protection of the hill-baronies around the city, and the death of the Ólvestran Marendos of the Sealed Word seven years ago—ruled natural, three days before he was to issue a major writ against a baron sympathetic to [[affiliation-blackflame|The Black Flame]]—is still talked about as something less than natural.
+The city has its shadows too. **[The Ólvestran Cell]{.name data-type="affiliation"}** of [[affiliation-ordershnvw|the Order of the Ashen Vow]] is that order's largest, operating under the protection of the hill-baronies around the city, and the death of the Ólvestran Marendos of the Sealed Word seven years ago—ruled natural, three days before he was to issue a major writ against a baron sympathetic to [[affiliation-blackflame|the Black Flame]]—is still talked about as something less than natural.
 
 ## See Also
 

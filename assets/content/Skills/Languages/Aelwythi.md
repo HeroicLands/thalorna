@@ -606,17 +606,17 @@ sohl:
   flags: {"thalorna": {lang_family: Pelwar}}
 ---
 
-Aelwythi Language is the speech of the island of [[place-aelwyth|Aelwyth]]. Fluency measures the sophistication of expression in Aelwythi, from the halting phrases of a visitor to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Aelwythi is the speech of the island of [[place-aelwyth|Aelwyth]]. Fluency measures the sophistication of expression in Aelwythi, from the halting phrases of a visitor to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 The [[skill-aelwthlng#lexicon|Aelwythi Lexicon]] gives the elements the island's names are built from, the register of the names in use, and the names that stand outside the pattern.
 
 ## Overview
 
-Aelwythi is the tongue of the three Aelwythan realms, the [[affiliation-kngdmldrth|Kingdom of Aldorath]], the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] and the [[affiliation-repblcndrth|Republic of Ondareth]], which share essentially one culture and one speech though they share no political order ([[lore-aelwythanclt|Aelwythan]]). It is spoken in the manor and the market town, at the [[affiliation-dunavarsynod|Dúnavarre Synod]]'s harbor and in the [Senate]{.name data-type="affiliation/governmental"}'s portico, and an Aelwythan carries it wherever the island's people go.
+Aelwythi is the tongue of the three Aelwythan realms, the [[affiliation-kngdmldrth|Kingdom of Aldorath]], the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] and the [[affiliation-repblcndrth|Republic of Ondareth]], which share essentially one culture and one speech though they share no political order ([[lore-aelwythanclt|Aelwythan]]). It is spoken in the manor and the market town, at the [[affiliation-dunavarsynod|Synod]]'s harbor and in the [Senate]{.name data-type="affiliation/governmental"}'s portico, and an Aelwythan carries it wherever the island's people go.
 
-Nearly every human on the island descends from the refugees of the [[lore-pelwarpepl|Pelwar People]] who reached it about 1200 BF, and Aelwythi is the speech of those descendants. The notes name no mainland tongue as its parent and give no account of how it parted from the speech the refugees brought, and this page says no more than they do.
+Nearly every human on the island descends from the [[lore-pelwarpepl|Pelwar refugees]] who reached it about 1200 BF, and Aelwythi is the speech of those descendants. The notes name no mainland tongue as its parent and give no account of how it parted from the speech the refugees brought, and this page says no more than they do.
 
-Other speech on the island stands apart from it. The [[lore-nordheimnclt|Nordheimn]] of [[place-stormveld|Stormveld]] speak [[skill-nordmalng|Nordmal Language]], and the clans of the [[place-pshtrwldrns|Peshtar Wilderness]] keep a language family of their own with no written form. Aelwythi is not the speech of either.
+Other speech on the island stands apart from it. The [[lore-nordheimnclt|Nordmen]] of [[place-stormveld|Stormveld]] speak [[skill-nordmalng|Nordmal]], and the [[place-pshtrwldrns|Peshtar clans]] keep a language family of their own with no written form. Aelwythi is not the speech of either.
 
 ## How Aelwythi sounds
 
@@ -634,7 +634,7 @@ Aelwythi names have two parts, each an old word: a first part such as _Ald-_, _E
 
 Three tongues meet on Aelwyth, each with its own work. Aelwythi is the island's own speech: plain, direct and quick to take in foreign words. Mainlanders call it coarse; Aelwythans hold that its plainness is honesty.
 
-[[skill-elvndrlng|Élavendri Language]] is the language of courts and verse. Its grammar draws fine distinctions of rank, courtesy and feeling that Aelwythi leaves unsaid, and it carries prestige at court, above all at [[affiliation-kingdmdnvr|Dúnavarre]], whose Synod keeps close ties with the Élavendren royal house. [[skill-vylarilng|Vylari Language]] is the language of law, scholarship and treaty, and the learned, clergy, lawyers and diplomats of the island use it as their counterparts across the west do.
+[[skill-elvndrlng|Élavendri]] is the language of courts and verse. Its grammar draws fine distinctions of rank, courtesy and feeling that Aelwythi leaves unsaid, and it carries prestige at court, above all at [[affiliation-kingdmdnvr|Dúnavarre]], whose Synod keeps close ties with the Élavendren royal house. [[skill-vylarilng|Vylari]] is the language of law, scholarship and treaty, and the learned, clergy, lawyers and diplomats of the island use it as their counterparts across the west do.
 
 Ordinary folk who stay at home speak Aelwythi alone. The travelled and educated commonly have more: nobles and courtiers, the learned, merchants and traders, sailors, and anyone who goes abroad. Such a person speaks Aelwythi, the neighbour's Élavendri, and Vylari for anything written to last. The learned and well-travelled of [[place-elavendre|Élavendre]] likewise speak Aelwythi. Aelwythi and Élavendri have long borrowed words from each other.
 
@@ -684,7 +684,7 @@ Names on Aelwyth are in the reader's own language, and they are kept in the form
 
 **A byname is usually a place.** The family of a farm, a spring or a clearing takes its name: _Chilton_, _Barnwell_, _Helmsley_, _Ashby_, _Winwik_. A byname closing on _-ing_ marks kin, as _Harding_ and _Browning_ do, and one closing on _-ling_ marks the small or the young, as _Grayling_ does.
 
-**Some names stand outside the pattern.** The realm names in _-ath_ and _-eth_ (_Aldorath_, _Ondareth_, _[[place-veldareth|Veldareth]]_), _Aelwyth_ itself, a few place names of [[lore-vardain|The Vardain]] and the [[lore-flkkhazar|Khazár Folk]], the Élavendri-form names of the Dúnavarre embassy, and the Nordmal names of Aelwythans of Nordmen descent are all attested and are kept as written. The lexicon lists each with its reason. A new name for the island is built from the listed elements, or it is entered there as an exception.
+**Some names stand outside the pattern.** The realm names in _-ath_ and _-eth_ (_Aldorath_, _Ondareth_, _[[place-veldareth|Veldareth]]_), _Aelwyth_ itself, a few place names of [[lore-vardain|the Vardain]] and the [[lore-flkkhazar|Khazár Folk]], the Élavendri-form names of the Dúnavarre embassy, and the Nordmal names of Aelwythans of Nordmen descent are all attested and are kept as written. The lexicon lists each with its reason. A new name for the island is built from the listed elements, or it is entered there as an exception.
 
 ## Aelwythi Lexicon {#lexicon}
 

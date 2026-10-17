@@ -88,7 +88,7 @@ sohl:
         defense: {blockMod: 0, counterstrikeMod: 0}
 ---
 
-A Warden's staff is a staff of dark hardwood taller than the person who carries it, shod at the foot with iron and bound at the head with a band of woven fiber. It is the mark of office of [[affiliation-wardensapproaches|The Wardens of the Approaches]]: a Harbor-Warden carries one on the quay of a port, and the Warden of the Approaches carries one at [[place-telvari|Telvari]]. The shoe is the only iron most islanders ever handle.
+A Warden's staff is a staff of dark hardwood taller than the person who carries it, shod at the foot with iron and bound at the head with a band of woven fiber. It is the mark of office of [[affiliation-wardensapproaches|the Wardens of the Approaches]]: a Harbor-Warden carries one on the quay of a port, and the Warden of the Approaches carries one at [[place-telvari|Telvari]]. The shoe is the only iron most islanders ever handle.
 
 On the quay the staff stands for the word of the one who carries it, and the carrier's word decides what a foreigner may see, buy and carry. In a fight it is a long hardwood shaft with a hard iron point at one end, and the carrier is trained to use it.
 

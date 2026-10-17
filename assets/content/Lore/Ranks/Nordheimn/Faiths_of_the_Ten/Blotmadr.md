@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-Most of the faithful never become more than this. A Bletmadr comes to the hov when the blet is held, brings the offering it asks and shares the meal, and that is the whole of what the standing requires.
+Most of the faithful never become more than this. A bletmadr comes to the hov when the blet is held, brings the offering it asks and shares the meal, and that is the whole of what the standing requires.
 
 ## What This Standing Is
 
@@ -32,4 +32,4 @@ None; the offices of a faith of the Ten attach to the priesthood above this rank
 
 ## Where This Standing Is Held
 
-The faiths of the [[affiliation-asguardian|Asguardian Pantheon]] that keep the blet, each under its own hov. The standing belongs to that hov's rites and clergy; it does not extend to devotions whose admission and authority rest on other observances.
+The faiths of the [[affiliation-asguardian|Ten]] that keep the blet, each under its own hov. The standing belongs to that hov's rites and clergy; it does not extend to devotions whose admission and authority rest on other observances.

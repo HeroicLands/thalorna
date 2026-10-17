@@ -413,7 +413,7 @@ sohl:
 
 ![[thrldrvvrnhm|Thraldorv Vornheim]]{float=top-left}
 
-Thraldorv Vornheim stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and blue eyes. His features include a narrow face, an aquiline nose, a broad chin, a slightly downturned mouth, and dark brows. He has a scar on his right forearm.
+Thraldorv stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and blue eyes. His features include a narrow face, an aquiline nose, a broad chin, a slightly downturned mouth, and dark brows. He has a scar on his right forearm.
 
 # Dossier {#dossier}
 
@@ -509,7 +509,7 @@ Vithgard Mercenaries Guild
 : The primary employment network and social structure for warriors-for-hire throughout the kingdom
 
 [The Asguardian Brotherhood]{.name data-type="affiliation"}
-: Informal fellowship of men who honor [[lore-motefnirdty|Mótefnir]]'s making and [[lore-hrimthurspr|Hrimthur]] the Rime-Giant's strength together; mostly warriors, craftspeople, and those who revere the primal forces
+: Informal fellowship of men who honor [[lore-motefnirdty|Mótefnir]]'s making and [[lore-hrimthurspr|]] the Rime-Giant's strength together; mostly warriors, craftspeople, and those who revere the primal forces
 
 ## Plot Hooks
 

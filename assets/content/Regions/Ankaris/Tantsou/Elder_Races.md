@@ -7,7 +7,7 @@ description: "How the Sinale and Khazari live within the Empire of Tantsou—cla
 data: {packFolder: tantsou, culture: tantsouclt}
 ---
 
-In the [[affiliation-tantsouempr|Empire of Tantsou]] the [[lore-flksinale|Sinale Folk]] and the [[lore-flkkhazar|Khazár Folk]] carry classification tablets like everyone else, and they treat them as paperwork. Unlike [[lore-castelaws|foreigners]], who stand outside the cosmic order, the Elder peoples are classified: each is placed in a caste by the work it does for the empire. The fit is poor. The castes were made for humans, and the Elder peoples are millennia older than the Sorting as humans tell it. Inside the empire they keep to their assigned castes for practical reasons, and inside their own enclaves they live by their own traditions and their own sense of what they are. This arrangement makes Tantsou the one human realm where Elder knowledge passes to humans steadily, formally and as a paid office, not by chance or by watching (see [[lore-longnhrtnc|The Long Inheritance]]). [[lore-castelaws|Caste Laws]] gives the legal framework.
+In the [[affiliation-tantsouempr|Empire of Tantsou]] the [[lore-flksinale|Sinale Folk]] and the [[lore-flkkhazar|Khazár Folk]] carry classification tablets like everyone else, and they treat them as paperwork. Unlike [[lore-castelaws|foreigners]], who stand outside the cosmic order, the Elder peoples are classified: each is placed in a caste by the work it does for the empire. The fit is poor. The castes were made for humans, and the Elder peoples are millennia older than the Sorting as humans tell it. Inside the empire they keep to their assigned castes for practical reasons, and inside their own enclaves they live by their own traditions and their own sense of what they are. This arrangement makes Tantsou the one human realm where Elder knowledge passes to humans steadily, formally and as a paid office, not by chance or by watching (see [[lore-longnhrtnc|the Long Inheritance]]). [[lore-castelaws|Caste Laws]] gives the legal framework.
 
 ## The Mandate and the Elder Age
 
@@ -59,7 +59,7 @@ Marriages between humans and the Elder peoples are rare and almost always politi
 
 ## The Elder Dead
 
-The Elder peoples respect the empire's [[lore-ancstrwrshp|Ancestor Worship]] and do not share it. The Sinale honor their dead with rites of the living world, planting trees and tending sacred groves, and keep those rites private. The Khazari honor theirs by making memorials and by keeping the tools and weapons of the dead, which only Khazari may touch.
+The Elder peoples respect the empire's [[lore-ancstrwrshp|ancestor worship]] and do not share it. The Sinale honor their dead with rites of the living world, planting trees and tending sacred groves, and keep those rites private. The Khazari honor theirs by making memorials and by keeping the tools and weapons of the dead, which only Khazari may touch.
 
 ## On the Margins
 

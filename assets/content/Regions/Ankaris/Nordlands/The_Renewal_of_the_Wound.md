@@ -12,7 +12,7 @@ Once a year, at the turn of winter, an adherent of the [[affiliation-hrimthur|Fa
 
 ## The Cutting
 
-Whichever adherent the Holafell faction has put forward that year makes the cut. As many of [[affiliation-thursborn|The Giant's Children]] as have made the journey stand by to see it done, and the order holds its senior initiations at Holafell in the same season. What is cut stays cut through the year; the wound is kept open on purpose, because the faith's whole teaching is that the world was made by a violence done to a living giant and held together by that violence being renewed.
+Whichever adherent the Holafell faction has put forward that year makes the cut. As many of [[affiliation-thursborn|the Giant's Children]] as have made the journey stand by to see it done, and the order holds its senior initiations at Holafell in the same season. What is cut stays cut through the year; the wound is kept open on purpose, because the faith's whole teaching is that the world was made by a violence done to a living giant and held together by that violence being renewed.
 
 ## The Walk
 
@@ -20,9 +20,9 @@ The pilgrimage to the cutting is [The Walk to Holafell]{.name data-type="lore/cu
 
 ## How the Halls Read It
 
-The hovs of the Ten of the [[affiliation-asguardian|Asguardian Pantheon]] treat the Renewal as an accurate rite and refuse Holafell's rejection of the word _blet_; [[lore-thursblot|The Thursblet]] sets out the dispute. The Giant's Children stand closest to Holafell's reading. Their doctrine holds that the world's continued existence depends on the founding violence being renewed, and they fight in that conviction.
+The hovs of the Ten of the [[affiliation-asguardian|Asguardian Pantheon]] treat the Renewal as an accurate rite and refuse Holafell's rejection of the word _blet_; [[lore-thursblot|the Thursblet]] sets out the dispute. The Giant's Children stand closest to Holafell's reading. Their doctrine holds that the world's continued existence depends on the founding violence being renewed, and they fight in that conviction.
 
-Holafell also ties the rite to the famine of [[lore-threewinters|The Three Winters]]. In the account kept there, a predecessor failed to keep the wound open, and winter did not end until the next elder cut it again. That is Holafell's explanation of the famine and not an attested cause of it; the valley halls remember failed harvests, deaths and disputed acts without accepting the claim.
+Holafell also ties the rite to the famine of [[lore-threewinters|the Three Winters]]. In the account kept there, a predecessor failed to keep the wound open, and winter did not end until the next elder cut it again. That is Holafell's explanation of the famine and not an attested cause of it; the valley halls remember failed harvests, deaths and disputed acts without accepting the claim.
 
 ## See Also
 

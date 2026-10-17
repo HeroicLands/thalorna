@@ -24,7 +24,7 @@ The one quarrel Braldheim takes to the ting more than any other settlement its s
 
 ## The Howe
 
-The [[affiliation-grimvar|Grimvar]] keep [[miscgear-crwnwyrm|The Crown of the Wyrm]] in a howe at Braldheim, and a priest of the [[affiliation-frodvin|Faith of Frodvin]] walked between Braldheim and [[place-malstead|Málstead]] to seek peace between the Grimvar and the [[affiliation-hrafnvar|Hrafnvar]]. [[lore-mlgnahstry|Histories and Legends of Malagna]] tells the story of the howe and the wergild.
+The [[affiliation-grimvar|Grimvar]] keep [[miscgear-crwnwyrm|the Crown of the Wyrm]] in a howe at Braldheim, and a priest of [[affiliation-frodvin|Frodvin]] walked between Braldheim and [[place-malstead|Málstead]] to seek peace between the Grimvar and the [[affiliation-hrafnvar|Hrafnvar]]. [[lore-mlgnahstry|Histories and Legends of Malagna]] tells the story of the howe and the wergild.
 
 ## See Also
 

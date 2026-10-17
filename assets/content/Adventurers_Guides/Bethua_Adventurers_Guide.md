@@ -20,13 +20,13 @@ The [[affiliation-mtrrchybth|Matriarchy of Bethua]] lies on the northern shore o
 
 The House is the unit of everything. A Dómissa leads it, it owns the land, the workshops, the boats and the cargoes, and a Bethuan woman introduces herself by her House before her own name. The realm stands on two pillars: the [Sacred College]{.name data-type="affiliation/governmental"} of high priestesses of the [[affiliation-lusinia|Faith of Lusinia]], the [[affiliation-zunelas|Faith of Zunelas]] and the [[affiliation-olvenia|Faith of Ólvenia]], and the [Council of Houses]{.name data-type="affiliation/governmental"} of the matriarchs. The Metrissa, queen and high priestess at once, sits where they meet and wears the [Purple Veil]{.name data-type="miscgear"}.
 
-A foreign man who trades here is served fairly, his coin taken and his contracts honored, and he is met throughout with a cool condescension. A foreign woman trading on her own account is dealt with woman to woman and may find Bethua the easiest market on the coast. An official of Au'Khelathu, man or woman, is received with marked deference, and everyone watching is meant to notice. Bethua strikes no coin of its own; purses hold weight-pieces of the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and large sums move as letters of credit sealed by [[affiliation-bthntrdhss|The Bethuan Trade-Houses]].
+A foreign man who trades here is served fairly, his coin taken and his contracts honored, and he is met throughout with a cool condescension. A foreign woman trading on her own account is dealt with woman to woman and may find Bethua the easiest market on the coast. An official of Au'Khelathu, man or woman, is received with marked deference, and everyone watching is meant to notice. Bethua strikes no coin of its own; purses hold [[lore-aukhlthcrncy|Khelathi weight-pieces]], and large sums move as letters of credit sealed by [[affiliation-bthntrdhss|the Trade-Houses]].
 
 ## Where to Go
 
 Bethura, the capital, seats both councils and the federation of the Trade-Houses; a Great House's letter is good at any other Great House, and a Junior House's paper is rarely taken outside the city that issued it. [[place-ashira|Oshira]] on the coast is the seat of House [Khalath-Mara]{.name data-type="affiliation/lineage"}, the oldest and proudest of the Great Houses. Inland, the line between green wheat and straw-colored grass is wherever the water stops, and the southern borderlands are shared with nomads who pay tribute rather than obey. [[affiliation-bethuanflt|The Bethuan Fleet]], the best navy in the region, escorts the convoys and wages a deniable privateer war on Vylarian shipping.
 
-Do not mistake an unarmed Bethuan woman for a defenseless one: the [Charissa]{.name data-type="skill"}, an open-hand and kicking art built on speed, is taught to every woman of the Spear-Sisterhood and to many free women besides.
+Do not mistake an unarmed Bethuan woman for a defenseless one: the [Charissa]{.name data-type="skill/combat"}, an open-hand and kicking art built on speed, is taught to every woman of the Spear-Sisterhood and to many free women besides.
 
 ## Ways In
 

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The Telvari Stone stands on the islet of [[place-telvari|Telvari]], off the eastern approaches to the [[place-klhrcntnnt|Kalihara Continent]], on the side of the islet away from the town and its boat harbor. It is the greatest of the current-stones, the works of [[lore-theithari|The Ithari]] that stand on the reefs and islets round the island, and it is [[lore-itharisul|Ithasul]] like every work: one gray body that gives under the hand. The pilots' town is built beside it, and no foreigner is told so.
+The Telvari Stone stands on the islet of [[place-telvari|Telvari]], off the eastern approaches to [[place-klhrcntnnt|Kalihara]], on the side of the islet away from the town and its boat harbor. It is the greatest of the current-stones, the works of [[lore-theithari|the Ithari]] that stand on the reefs and islets round the island, and it is [[lore-itharisul|ithasul]] like every work: one gray body that gives under the hand. The pilots' town is built beside it, and no foreigner is told so.
 
 ## What It Does
 
@@ -30,11 +30,11 @@ Custodians formed at [[place-thalari|Thal'ari]] tend the stone, as they tend the
 
 The current-stones have run intermittently for a generation, the Telvari Stone with them, and foreign captains have begun to make landfall on the eastern coast without a pilot. At [[place-vaelukoa|Vaelukoa]] a channel that held for a year sets differently in the next, and a pilot of the village lost a ship in a channel she had taken a hundred times.
 
-Nothing in the stone shows it. It is as gray, and gives as much under the hand, as in the oldest account of it, and the Warden of the Approaches tells [[affiliation-councilisland|The Council of the Island]] that the approaches hold.
+Nothing in the stone shows it. It is as gray, and gives as much under the hand, as in the oldest account of it, and the Warden of the Approaches tells [[affiliation-councilisland|the Council]] that the approaches hold.
 
 ## What Is Seen from It
 
-The stone looks out on the reefs of the approaches, where the broken water shows the currents setting across the swell. Westward on a clear day the coast of Kalihara lies along the horizon, with the cloud-wrapped crest of [[place-klhrring|The Ring]] standing above it.
+The stone looks out on the reefs of the approaches, where the broken water shows the currents setting across the swell. Westward on a clear day the coast of Kalihara lies along the horizon, with the cloud-wrapped crest of [[place-klhrring|the Ring]] standing above it.
 
 ## The Cost of Reaching It
 

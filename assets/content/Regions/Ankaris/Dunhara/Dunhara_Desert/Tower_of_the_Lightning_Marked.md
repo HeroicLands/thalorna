@@ -14,7 +14,7 @@ data:
   packFolder: dunharadesert
 ---
 
-Far south of the last chain of wells, where a dry lake has left a floor of white salt wider than a day's ride, one dark thing stands up out of the glare. The Tower of the Lightning-Marked is a spire of black stone, taller than any fire-temple in the cities of the [[place-amradadrgn|Amradad Region]], split along one side and glazed over most of its height with a grey-green glass that the lightning has made of the sand. The tribes call the place Qeshvadez, the seat of lightning.
+Far south of the last chain of wells, where a dry lake has left a floor of white salt wider than a day's ride, one dark thing stands up out of the glare. The Tower of the Lightning-Marked is a spire of black stone, taller than any fire-temple in the cities of [[place-amradadrgn|Amradad]], split along one side and glazed over most of its height with a grey-green glass that the lightning has made of the sand. The tribes call the place Qeshvadez, the seat of lightning.
 
 ## What Stands There
 

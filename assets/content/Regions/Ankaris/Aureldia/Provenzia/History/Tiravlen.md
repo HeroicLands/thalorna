@@ -58,7 +58,7 @@ data:
         - how many of the Tanevar kings were taken alive
 ---
 
-The anniversary of Tiravlen is kept indoors by the lake villages of the [[place-bldfldtiravlen|Blood-field of Tiravlen]], and they cannot say what it commemorates. The Vylarian dispatch that named the battle burned with the imperial archive on [[place-arvel|Arvel]] in about 318 AF, and the Tanevar kings who fought it left no record of their own. The ground kept the name and the villages kept the night.
+The anniversary of Tiravlen is kept indoors by the lake villages of [[place-bldfldtiravlen|Tiravlen keep the anniversary indoors]], and they cannot say what it commemorates. The Vylarian dispatch that named the battle burned with the imperial archive on [[place-arvel|Arvel]] in about 318 AF, and the Tanevar kings who fought it left no record of their own. The ground kept the name and the villages kept the night.
 
 ## The March
 
@@ -72,7 +72,7 @@ The kings were broken. Some died on the shore and some were taken, and the rest 
 
 ## The Province of the West
 
-The [[affiliation-vylarinmpr|Vylarian Empire]] made Aurelane the capital of the [province of the West]{.name data-type="affiliation/polity"} and ruled the west from it for the next four and a half centuries. The Tanevar country was left its villages and its customs, and the legions did not trouble to learn which king had held which valley. The country people kept the memory of governing themselves, and they have kept it since.
+The [[affiliation-vylarinmpr|Empire]] made Aurelane the capital of the [province of the West]{.name data-type="affiliation/polity"} and ruled the west from it for the next four and a half centuries. The Tanevar country was left its villages and its customs, and the legions did not trouble to learn which king had held which valley. The country people kept the memory of governing themselves, and they have kept it since.
 
 ## What It Left
 

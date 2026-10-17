@@ -395,9 +395,9 @@ sohl:
 
 # Dossier {#dossier}
 
-Áleren Párdalen is the shaman of [[place-sourimael|Sóurimel]], the [[lore-elavendriclt|Élavendri]] village inside [[place-silvrfrsts|The Silver Forests]] of [[place-elavendre|Élavendre]], a freeman born in the village who has stood between it and the spirits of the wood for twenty years.
+Áleren Párdalen is the shaman of [[place-sourimael|Sóurimel]], the [[lore-elavendriclt|Élavendri]] village inside [[place-silvrfrsts|the Silver Forests]] of [[place-elavendre|Élavendre]], a freeman born in the village who has stood between it and the spirits of the wood for twenty years.
 
-Áleren was a hunter until his late twenties, when a vision took him on a winter hunt and left him three days in the snow. The old shaman of Sóurimel read it as a calling, and Áleren has served since. Sóurimel exists on sufferance in country that belongs to the [[lore-aelendnppl|Áelendan People]], and what it gives in return is an observance nobody explains to outsiders and a shaman keeps. Áleren keeps it. The rest of his work is the village's disputes and its omens, which he answers plainly and often unwelcomely. He holds that a shaman is a guide, not a miracle worker, and distrusts the grand visions other shamen build their standing on, including, on most days, his own.
+Áleren was a hunter until his late twenties, when a vision took him on a winter hunt and left him three days in the snow. The old shaman of Sóurimel read it as a calling, and Áleren has served since. Sóurimel exists on sufferance in country that belongs to the [[lore-aelendnppl|Áelendan]], and what it gives in return is an observance nobody explains to outsiders and a shaman keeps. Áleren keeps it. The rest of his work is the village's disputes and its omens, which he answers plainly and often unwelcomely. He holds that a shaman is a guide, not a miracle worker, and distrusts the grand visions other shamen build their standing on, including, on most days, his own.
 
 ## Psyche
 
@@ -430,7 +430,7 @@ Traditionalist shamen of the interior who hold that his plainness is a want of r
 ## Plot Hooks
 
 The Observance
-: This year's observance at [[place-urontekhi|The Uron Tekhi]] went wrong in a way Áleren cannot explain and will not dress up. The village wants to be told it was nothing.
+: This year's observance at [[place-urontekhi|the Uron Tekhi]] went wrong in a way Áleren cannot explain and will not dress up. The village wants to be told it was nothing.
 
 The Birch
 : A villager has felled a silver birch, which nobody in Sóurimel does, for any reason. The Moot wants a ritual answer and the Áelendan may want a different one.

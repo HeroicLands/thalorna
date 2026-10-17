@@ -429,7 +429,7 @@ sohl:
 
 ![[sevnmyrkls|Sevren Mírkelis]]{float=top-left}
 
-Sevren Mírkelis stands 5'10" tall with a light build. He has pale skin, dark hair, and blue eyes. His features include a round face, a button nose, a gentle jawline, a wide mouth, expressive brows.
+Sevren stands 5'10" tall with a light build. He has pale skin, dark hair, and blue eyes. His features include a round face, a button nose, a gentle jawline, a wide mouth, expressive brows.
 
 # Dossier {#dossier}
 
@@ -451,7 +451,7 @@ Sevren’s alchemical talent didn’t go unnoticed by the **Guild of Esoteric Cr
 
 ### Current Goals
 
-Sevren’s current obsession is with an ancient alchemical recipe of the [[lore-pelwarpepl|Pelwar People]], the [Visionary Elixir]{.name data-type="concoctiongear"}, said to grant visions of the future. According to legend, this elixir was used by the ancient seers of the [Lost Pelwar Empire]{.name data-type="affiliation/polity"} to guide their people through troubled times. Sevren’s pursuit of this elusive formula has led him to scavenge old texts, correspond with distant scholars, and venture into dangerous territories to obtain rare ingredients. While he has made progress, the formula remains incomplete, and the final piece of the puzzle continues to elude him.
+Sevren’s current obsession is with an ancient [[lore-pelwarpepl|Pelwar alchemical recipe]], the [Visionary Elixir]{.name data-type="concoctiongear"}, said to grant visions of the future. According to legend, this elixir was used by the ancient seers of the [Lost Pelwar Empire]{.name data-type="affiliation/polity"} to guide their people through troubled times. Sevren’s pursuit of this elusive formula has led him to scavenge old texts, correspond with distant scholars, and venture into dangerous territories to obtain rare ingredients. While he has made progress, the formula remains incomplete, and the final piece of the puzzle continues to elude him.
 
 Aside from his personal pursuit of the Visionary Elixir, Sevren’s more immediate goal is to expand his reputation within the Guild of Esoteric Crafts. He seeks to secure his place among the more senior members by contributing to the guild’s body of knowledge, possibly by perfecting a new type of transmutation. However, he is careful not to overstep his bounds, as the guild is filled with powerful figures who guard their secrets jealously.
 

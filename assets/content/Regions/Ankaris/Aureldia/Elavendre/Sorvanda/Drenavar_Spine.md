@@ -24,7 +24,7 @@ Guardians
 
 ## Overview
 
-The **Drenavar Spine** is the central sacred mountain range of [[place-elavendre|Élavendre]], lying in the interior of the kingdom beyond the settled farmlands and accessible foothills. It is the heart of the territory of the [[lore-aelendnppl|Áelendan People]]—the land in which the [Kindred Pact]{.name data-type="lore/law"} is most deeply rooted and in which the greatest concentration of sacred sites is found. The [[affiliation-alndnwrdns|Áelendan Wardens]] maintain their heaviest presence here, and the crown of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] recognizes Áelendan sovereignty over the mountains by ancient law.
+The **Drenavar Spine** is the central sacred mountain range of [[place-elavendre|Élavendre]], lying in the interior of the kingdom beyond the settled farmlands and accessible foothills. It is the heart of [[lore-aelendnppl|Áelendan territory]]—the land in which the [Kindred Pact]{.name data-type="lore/law"} is most deeply rooted and in which the greatest concentration of sacred sites is found. The [[affiliation-alndnwrdns|Áelendan Wardens]] maintain their heaviest presence here, and the crown of [[affiliation-kngdmlvndr|Élavendre]] recognizes Áelendan sovereignty over the mountains by ancient law.
 
 The Drenavar is part of a larger Áelendan sacred mountain country that extends east into the [[place-vylariargn#the-cervaron-spine|Kervaron Spine]]—the contested Vylarian frontier range—and south into the [[place-toravarrange|Toravar Range]] that runs along the northern Tarvenan border. To Áelendan reckoning these are not three separate ranges but a single continuous sacred uplift, the high spine of the western world. The Drenavar is the heart; the Kervaron and Toravar are its eastern and southern arms. Outsiders distinguish them; the Áelendan distinguish them only when speaking to outsiders.
 
@@ -32,7 +32,7 @@ The Drenavar is part of a larger Áelendan sacred mountain country that extends 
 
 The Drenavar rises steeply from the inland valleys of Élavendre, its peaks perpetually shrouded in mist and often capped in snow. The slopes support dense old-growth forest at lower elevations, yielding to alpine meadows and bare rock as altitude increases. The mountains are cut through by glacial valleys and clear lakes, and countless streams run down to feed the rivers of the lowlands. Passes through the range are few, often narrow, and—to outsiders attempting to cross without Áelendan escort—notoriously difficult to navigate. Travelers report that paths which appeared obvious on one day have shifted or vanished by the next, a phenomenon that the Áelendan do not bother to explain.
 
-The mountains are home to unusual concentrations of wildlife—some common to the [[place-ankrscntnnt|Ankaris Continent]], some rare, and some that appear to exist only in these ranges and the deep forests that ring them. Among the Áelendan, it is understood that not all of the creatures encountered in the mountains are ordinary beasts.
+The mountains are home to unusual concentrations of wildlife—some common to [[place-ankrscntnnt|Ankaris]], some rare, and some that appear to exist only in these ranges and the deep forests that ring them. Among the Áelendan, it is understood that not all of the creatures encountered in the mountains are ordinary beasts.
 
 ## Sacred Sites
 

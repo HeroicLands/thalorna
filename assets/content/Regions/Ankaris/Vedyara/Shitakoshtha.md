@@ -8,7 +8,7 @@ tags: [strange, sacred, inland]
 data: {demonym: null, lore: [], parents: [rajapurjnpd], population: null, packFolder: vedyara}
 ---
 
-**Shitakoshta** (the cold chamber) is the oldest vault of [[place-rajavalilib|The Rajavali Library]], and its north side is not masonry. It is the flank of a body of one piece that stood on the hill before the library did, before the temple did and before the dynastic capital did: cold to the hand, ribbed in long true curves, and without a seam anywhere for a chisel to start in.
+**Shitakoshta** (the cold chamber) is the oldest vault of [[place-rajavalilib|the Rajavali Library]], and its north side is not masonry. It is the flank of a body of one piece that stood on the hill before the library did, before the temple did and before the dynastic capital did: cold to the hand, ribbed in long true curves, and without a seam anywhere for a chisel to start in.
 
 The masons who raised the vault could not dress it, could not shift it and could not break it. They built to its shape instead. That is why the one room in the complex is not square, and why its north wall leans out of true by a degree nobody has ever corrected.
 

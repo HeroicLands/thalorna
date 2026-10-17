@@ -436,7 +436,7 @@ The Factor
 : The Péravel factor who showed her the book is at the autumn fair again, and has offered to take her back as an apprentice colorist. The fair ends in three days, and her mother is ill.
 
 The Warning
-: Word of a [[lore-varokhiclt|Varokhi]] war-party has come to Valdun at dusk and must go to every steading by dawn, in as many copies as there are riders. Hálira is the fastest pen in the town, and the muster-clerk will not have her.
+: Word of a [[lore-varokhiclt|Varokh]] war-party has come to Valdun at dusk and must go to every steading by dawn, in as many copies as there are riders. Hálira is the fastest pen in the town, and the muster-clerk will not have her.
 
 The Bond
 : An escort bond has been presented in Hálira's hand for a pack-train she never wrote for, and the escort it hired has vanished with the train.

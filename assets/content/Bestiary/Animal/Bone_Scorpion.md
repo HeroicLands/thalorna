@@ -191,7 +191,7 @@ The well-head is a ring of cut stone with a strip of shade on its eastern side, 
 
 # Dossier {#dossier}
 
-The Bone Scorpion is the large scorpion of the [[place-khzryndsrtrgn|Khazryn Desert Region]], seven to nine feet from the tip of the raised tail to the reach of the pincers and three feet tall on its legs, colored the pale cream of weathered bone so that it matches the sand and the stone it rests on. It lives at the wells and along the camel road, in the shade of any wall, and it is one of the three creatures a desert guide names first to a newcomer, with the [[being-gntcmlsp|Giant Camel Spider]] and the [[being-sndstlkr|Sand Stalker]]. Those two come to a camp. The scorpion stays where it is and lets the camp come to it.
+The Bone Scorpion is the large scorpion of the [[place-khzryndsrtrgn|Khazryn]], seven to nine feet from the tip of the raised tail to the reach of the pincers and three feet tall on its legs, colored the pale cream of weathered bone so that it matches the sand and the stone it rests on. It lives at the wells and along the camel road, in the shade of any wall, and it is one of the three creatures a desert guide names first to a newcomer, with the [[being-gntcmlsp|Giant Camel Spider]] and the [[being-sndstlkr|Sand Stalker]]. Those two come to a camp. The scorpion stays where it is and lets the camp come to it.
 
 It is an ambush hunter with a long patience. A scorpion that has fed sleeps under the sand for weeks, and one that is hungry sits in the shade of a well-ring or a tumbled wall from dusk until the heat of the next morning and takes what comes to drink: hares, foxes, a stray goat, a camel's foreleg, a man who sat down in the shade without looking.
 

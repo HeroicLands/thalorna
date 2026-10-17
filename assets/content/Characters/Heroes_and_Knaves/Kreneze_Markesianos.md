@@ -418,7 +418,7 @@ sohl:
 
 ![[krnzmrksns|Kreneze Vokoghis]]{float=top-left}
 
-Kreneze Vokoghis stands 5'8" tall with a light build. She has golden-toned skin, dark brown hair, and green eyes. Her features include an oval face, a strong nose, a pointed chin, slightly pursed lips, and dark brows.
+Kreneze stands 5'8" tall with a light build. She has golden-toned skin, dark brown hair, and green eyes. Her features include an oval face, a strong nose, a pointed chin, slightly pursed lips, and dark brows.
 
 # Dossier {#dossier}
 
@@ -498,7 +498,7 @@ Lady [[being-ghodiaelaiak|Ghodia Elaiakit]]
 [The Merchant Queens' Collective]{.name data-type="affiliation"}
 : An informal network of successful female merchants and business owners who have collectively commissioned several pieces from Kreneze and who actively promote her work within their circles.
 
-High Priestess [Irene]{.name data-type="being/npc"} of the [[affiliation-olvenia|Faith of Ólvenia]]
+High Priestess [Irene]{.name data-type="being/npc"} of [[affiliation-olvenia|Ólvenia]]
 : A priestess of the goddess of prosperity who has commissioned ceremonial leather garments and artifacts from Kreneze for use in ritual contexts.
 
 ### Enemies

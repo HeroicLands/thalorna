@@ -421,7 +421,7 @@ sohl:
 
 ![[svlthyrslvrgr|Svulthira Solvargr]]{float=top-left}
 
-Svulthira Solvargr stands 5'11" tall with a light build. She has light fair skin, brown hair, and green eyes. Her features include an angular face, a long nose, a strong jawline, a slightly downturned mouth, heavy brows, and flat cheeks. She has a tattoo of a skull on her upper arm.
+Svulthira stands 5'11" tall with a light build. She has light fair skin, brown hair, and green eyes. Her features include an angular face, a long nose, a strong jawline, a slightly downturned mouth, heavy brows, and flat cheeks. She has a tattoo of a skull on her upper arm.
 
 # Dossier {#dossier}
 
@@ -497,7 +497,7 @@ Isolation Dependency
 [Harvin's Fur Trading Company]{.name data-type="affiliation/venture"}
 : The primary commercial outlet for Svulthira's work, run by an aging merchant named **[Harvin Hvarnumak]{.name data-type="being/npc"}** who has worked with her for over a decade and views her as indispensable
 
-Priest [[being-gnuldrthyra|Gnuldrthira]] of [Frodvin's Temple]{.name data-type="place/structure"}
+Priest [[being-gnuldrthyra|Gnuldrthira]] of the [Frodvin's Temple]{.name data-type="place/structure"}
 : A spiritual authority who has taken interest in Svulthira's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings
 
 ### Enemies

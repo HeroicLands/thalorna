@@ -422,7 +422,7 @@ sohl:
 
 ![[thmdspfnts|Vusukes Govabes]]{float=top-left}
 
-Vusukes Govabes stands 6'0" tall with a medium build. He has tanned weathered skin, black hair, and brown eyes. His features include a narrow face, a hawkish nose, a strong jawline, full lips, strong brows, angular cheeks.
+Vusukes stands 6'0" tall with a medium build. He has tanned weathered skin, black hair, and brown eyes. His features include a narrow face, a hawkish nose, a strong jawline, full lips, strong brows, angular cheeks.
 
 # Dossier {#dossier}
 

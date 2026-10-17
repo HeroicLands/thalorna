@@ -22,11 +22,11 @@ A ford behind the [[place-lisere|Lísere]] shore stands for the length of a dusk
 
 ### Hook
 
-Pick the entry that suits the hero. Each leads to [[place-dskfrd|The Dusk Ford]].
+Pick the entry that suits the hero. Each leads to [[place-dskfrd|the Dusk Ford]].
 
 - **The thief.** A [[place-calypsacity|Kalipsa]] fence tells a story over wine: a Nordmen captain's sword, a chest of arm-rings and a ship's worth of amber lie unguarded on a far bank behind the shore, with a single toll to pay. The fence would like a tenth.
 - **The mercenary or common soldier.** A beacon-station captain on the northern shore says his neighbors' stations are raided less than his own and cannot say why, and he wants to know whether it is the Ford. He pays a month's wages to find out.
-- **The leader.** A master of [[affiliation-bardicolgs|The Bardic Colleges]] wants his student [Fálena Bryndal]{.name data-type="being/npc"}, who crossed three nights ago looking for the last verse of the ballad of the Forfeit-Men, and has not come back. The Colleges pay in a patron's debt.
+- **The leader.** A [[affiliation-bardicolgs|College master]] wants his student [Fálena Bryndal]{.name data-type="being/npc"}, who crossed three nights ago looking for the last verse of the ballad of the Forfeit-Men, and has not come back. The Colleges pay in a patron's debt.
 - **The lone wanderer.** A boy of the shore lost his father to the Ford. His mother does not remember she had a husband. The boy asks the wanderer what they might do.
 
 ### Overview
@@ -152,5 +152,5 @@ Warlan Garanth, the last of that line, has learned that the forfeits in the tall
 - [[place-dskfrd|The Dusk Ford]]
 - [[place-lisere|Lísere]]
 - [[lore-theasking|The Asking]]
-- [[affiliation-bardicolgs|The Bardic Colleges]] · [[affiliation-groveconcl|The Grove Council]]
+- [[affiliation-bardicolgs|The Bardic Colleges]] · [[affiliation-groveconcl|the Grove Council]]
 - [[lore-vylrncrncy|Vylarian Currency]]

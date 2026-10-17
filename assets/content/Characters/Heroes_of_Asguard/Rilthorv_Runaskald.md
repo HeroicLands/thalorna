@@ -361,7 +361,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Rilthorv Runaskald stands 5'10" with a lean, wiry frame, weighing about 165 pounds. His fair skin has a ruddy undertone from years of travel in all weathers, and his auburn hair falls loose to his shoulders, often tangled and unkempt. His hazel eyes are bright and expressive, dancing with humor or clouding with melancholy depending on his mood. His features are open and mobile, with a broad forehead, a slightly upturned nose, a generous mouth quick to grin, and laugh lines that crinkle at the corners of his eyes. Runic tattoos cover his forearms, each one a verse from a different saga. He carries a well-worn lyre slung across his back and dresses in a patchwork of fine and humble garments—a silk scarf from a grateful jarl's wife, a threadbare woolen cloak, boots that have seen a thousand roads. His fingers are callused from years of playing strings and carving runes.
+Rilthorv stands 5'10" with a lean, wiry frame, weighing about 165 pounds. His fair skin has a ruddy undertone from years of travel in all weathers, and his auburn hair falls loose to his shoulders, often tangled and unkempt. His hazel eyes are bright and expressive, dancing with humor or clouding with melancholy depending on his mood. His features are open and mobile, with a broad forehead, a slightly upturned nose, a generous mouth quick to grin, and laugh lines that crinkle at the corners of his eyes. Runic tattoos cover his forearms, each one a verse from a different saga. He carries a well-worn lyre slung across his back and dresses in a patchwork of fine and humble garments—a silk scarf from a grateful jarl's wife, a threadbare woolen cloak, boots that have seen a thousand roads. His fingers are callused from years of playing strings and carving runes.
 
 # Dossier {#dossier}
 
@@ -402,7 +402,7 @@ Rilthorv's voice carries supernatural resonance when he sings the old sagas, cap
 ## Plot Hooks
 
 The Lost Saga
-: Rilthorv has heard rumors of a saga so old it predates the founding of the northern kingdoms. The only surviving copy is said to be hidden in a barrow guarded by a [[lore-haugverdir|Hrúmverdir]] king who demands a worthy story in exchange for the text.
+: Rilthorv has heard rumors of a saga so old it predates the founding of the northern kingdoms. The only surviving copy is said to be hidden in a barrow guarded by a [[lore-haugverdir|hrúmverdir]] king who demands a worthy story in exchange for the text.
 
 The Silencer's March
 : Thulmorv the Silencer is burning his way through the northern settlements, destroying libraries and killing anyone who keeps the old stories. Rilthorv must rally the scattered skalds and loremasters to stand against him before the old knowledge is lost forever.

@@ -18,7 +18,7 @@ The coastal [[place-valarencity|Válaren City]] lies under blockade by forces un
 
 ## Overview
 
-Válaren, a crucial trading port on the coast of the [[place-provenzrgn|Provenzia Region]], has been cut off from supply routes by a mysterious naval blockade. The city's defenders are few, supplies dwindling, and morale cracking. Local nobles blame foreign powers—some whisper of intrigue by the [[affiliation-vylarinmpr|Vylarian Empire]], others suspect raiders from the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] seeking plunder. The truth may be far more complex.
+Válaren, a crucial trading port on the [[place-provenzrgn|Provenzian coast]], has been cut off from supply routes by a mysterious naval blockade. The city's defenders are few, supplies dwindling, and morale cracking. Local nobles blame foreign powers—some whisper of intrigue by the [[affiliation-vylarinmpr|Vylarian Empire]], others suspect raiders from the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] seeking plunder. The truth may be far more complex.
 
 ## Stage One: Initial Investigation
 

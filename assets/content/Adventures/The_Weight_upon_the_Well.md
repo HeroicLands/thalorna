@@ -20,9 +20,9 @@ A dust storm strips the party from its caravan in the [Long Dry]{.name data-type
 
 ## Overview
 
-The adventure runs from one dusk to the second dawn. Its clock is thirst: the party arrives with a day's water, the owners' spare skins are nearly empty, and the next water is three days off across open sand. The only water within reach is in the cistern, and the cistern belongs to the [Bodekud]{.name data-type="being/creature"}, one of the [[lore-dreadspawncrtr|Dreadspawn]] that the owners have called a [[being-qelodud|Kelodud]] for generations. Their own word for it means "the one who owns the water", and they have forgotten that the word is meant plainly.
+The adventure runs from one dusk to the second dawn. Its clock is thirst: the party arrives with a day's water, the owners' spare skins are nearly empty, and the next water is three days off across open sand. The only water within reach is in the cistern, and the cistern belongs to the [Bodekud]{.name data-type="being/creature"}, one of the [[lore-dreadspawncrtr|Dreadspawn]] that the owners have called a [[being-qelodud|kelodud]] for generations. Their own word for it means "the one who owns the water", and they have forgotten that the word is meant plainly.
 
-The adventure follows the customs of [[lore-ownedoasis|The Owned Oasis]] throughout, twice over. The riders are the owners the party can see, and a party that asks for guest-right and keeps it is protected by them. The Bodekud is the owner the party cannot see, and it keeps the same custom more strictly than the tribe does. Every scene below gives several ways through and says how play carries on if the party skips, fails or cuts short what the scene offers.
+The adventure follows the customs of [[lore-ownedoasis|the owned oasis]] throughout, twice over. The riders are the owners the party can see, and a party that asks for guest-right and keeps it is protected by them. The Bodekud is the owner the party cannot see, and it keeps the same custom more strictly than the tribe does. Every scene below gives several ways through and says how play carries on if the party skips, fails or cuts short what the scene offers.
 
 **The essential clues** the party needs to meet the Bodekud prepared, and where each can be found:
 
@@ -117,7 +117,7 @@ Read or paraphrase:
 
 - Numaqlun is the elder of the two, a lean woman in a dusty black wrap, the wife of the tribe's water-warden. She offers salt and guest-right at once, because the custom requires it and because she has not spoken to anyone but the boy for three days. Her voice is level and her hands shake. She forbids anyone to go within ten paces of the well, and she says, before anyone asks, that the warden is below at the cleaning.
 - Budaqtoliz is her nephew, sixteen, with a bow he keeps strung. He says nothing. Throughout the evening he watches the palms instead of the desert, and when the winding starts he turns his head toward the palm roots, not the well.
-- Gorenghakhiq, the party's guide, is a gray, careful man of the grass, who has crossed [[place-hskrrgn|Khoshiqor]] fourteen times and has never lost a string. He knows the custom to the letter and keeps it. He knows the kelodud, and he has never heard a lidded well sound like this. While the party waits at the pole he says, to nobody in particular, what the guides of the grass say at every owned water: that the tribes hold the wells of the road in trust until the owners return.
+- Gorenghakhiq, the party's guide, is a gray, careful man of the grass, who has crossed the [[place-hskrrgn|Khoshiqor]] fourteen times and has never lost a string. He knows the custom to the letter and keeps it. He knows the kelodud, and he has never heard a lidded well sound like this. While the party waits at the pole he says, to nobody in particular, what the guides of the grass say at every owned water: that the tribes hold the wells of the road in trust until the owners return.
 
 > [!TIP]
 > Give Gorenghakhiq his saying as a proverb, said once while the light goes, the way a man says something he has said at every well for forty years. Do not repeat it and do not dwell on it. It comes back in Scene Three with its second meaning.
@@ -151,7 +151,7 @@ Read or paraphrase:
 
 - Numaqlun answers what she is asked and offers nothing on the night. Her husband is [Voghalkenod]{.name data-type="being/npc"}. She will say that the old lid cracked across its middle as he went down, with a sound like a struck pot, and that she will not talk about the rest.
 - Gorenghakhiq looks at the rope a long while. He says, low, that among the grass tribes an owner who catches a stranger drawing lays the stranger's rope by the well-stone for the eldest to see, and that he has never seen it done to an owner's own warden. He is now frightened, which he has never been on the road.
-- **A [[being-bnscrpn|Bone Scorpion]]** lies in the shade at the mouth of the cleft in the mesa foot, where a cold breath comes up out of the rock. The riders camp on the far side of the cleft from it and have not gone near the passage.
+- **A [[being-bnscrpn|bone scorpion]]** lies in the shade at the mouth of the cleft in the mesa foot, where a cold breath comes up out of the rock. The riders camp on the far side of the cleft from it and have not gone near the passage.
 
 > [!TIP]
 > Let the table take Gorenghakhiq's remark as the thing below mocking the riders with the dead man's habits. That is the first reading, and it is the frightening one. Do not correct it.

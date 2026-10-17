@@ -19,7 +19,7 @@ data:
 
 "The first thing to learn is that the port is only the mouth," says a net-boat ferryman, backing his pole off a mudbank in the gray before sunrise. "Behind it, the water goes on for a day's poling in every direction, and most of what the city eats and drinks and loads comes through channels you cannot see from the quay."
 
-Gar-Anlaghet Selat is the land of [[affiliation-selatgrnlght|The Selat of Gar-Anlaghet]], the first country of [[affiliation-deltaselatu|The Delta Selatu]] in the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is built around the harbor-city of [[place-garanlaghet|Gar-Anlaghet]] on the westernmost and deepest of the river's mouths, and it handles the lion's share of the empire's seaborne commerce.
+Gar-Anlaghet Selat is the land of [[affiliation-selatgrnlght|the Selat of Gar-Anlaghet]], the first country of [[affiliation-deltaselatu|the Delta Selatu]] in the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is built around the harbor-city of [[place-garanlaghet|Gar-Anlaghet]] on the westernmost and deepest of the river's mouths, and it handles the lion's share of the empire's seaborne commerce.
 
 ## Character
 

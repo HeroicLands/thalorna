@@ -89,7 +89,7 @@ The Crimson Ledger is what emerged—a network of financial criminals who unders
 
 **Debt bondage:** In polities where formal slavery is outlawed, the Ledger provides loans to desperate workers at extortionate rates, then seizes their labor when they inevitably default. The borrower technically chose this freely. The legal system, which the Ledger has spent years cultivating, agrees.
 
-**Money laundering:** The Ledger's core business. Revenue from [[affiliation-graytide|The Gray Tide]]'s smuggling, [[affiliation-theashroad|The Ash Road]]'s drug trade, and [[affiliation-velvethand|The Velvet Hand]]'s contract killings all flow through Ledger-controlled counting houses, emerging as clean profit from "trade ventures" and "commodity investments." The Ledger charges 15-25% for this service, which the other syndicates pay through gritted teeth.
+**Money laundering:** The Ledger's core business. Revenue from [[affiliation-graytide|the Gray Tide]]'s smuggling, [[affiliation-theashroad|the Ash Road]]'s drug trade, and [[affiliation-velvethand|the Velvet Hand]]'s contract killings all flow through Ledger-controlled counting houses, emerging as clean profit from "trade ventures" and "commodity investments." The Ledger charges 15-25% for this service, which the other syndicates pay through gritted teeth.
 
 **Customs fraud:** Port officials throughout the Vylarian Sea are on the Ledger's payroll. Manifests are altered, tariffs reduced, inspections waived. Honest officials who can't be bought are framed for corruption and replaced with ones who can.
 

@@ -261,7 +261,7 @@ The ridge narrows to a knife of gray rock with a drop on either side, and there 
 
 # Dossier {#dossier}
 
-The Stone Ram is the wild sheep of the high ridges of the north face of [[place-graznmntns|The Grazian Mountains]]: four to five feet at the shoulder, three hundred and fifty pounds, with a spiral of horn on each side of the head that a grown man cannot lift. It lives in herds of five to thirty on the ridges and plateaus above the snowline, grazes the thin grass and lichen there, and climbs rock that stops a goat. It is a grazer and does not hunt anything. It is on the guides' list of the four dangers of the north face, with the [[being-clffstlk|Cliff Stalker]], the [[being-crglrkr|Crag Lurker]] and the [[being-roc|Roc]], because a ram defends its ridge against anything that comes along it carrying a weapon, and the ridges are where the paths go.
+The Stone Ram is the wild sheep of the high ridges of the [[place-graznmntns|Grazian north face]]: four to five feet at the shoulder, three hundred and fifty pounds, with a spiral of horn on each side of the head that a grown man cannot lift. It lives in herds of five to thirty on the ridges and plateaus above the snowline, grazes the thin grass and lichen there, and climbs rock that stops a goat. It is a grazer and does not hunt anything. It is on the guides' list of the four dangers of the north face, with the [[being-clffstlk|Cliff Stalker]], the [[being-crglrkr|Crag Lurker]] and the [[being-roc|Roc]], because a ram defends its ridge against anything that comes along it carrying a weapon, and the ridges are where the paths go.
 
 ## Presentation
 
@@ -269,7 +269,7 @@ A stocky, deep-bodied sheep on short, heavily muscled legs, in a coat of thick s
 
 ## In the Land
 
-Stone rams hold the ridges, saddles and high plateaus of the Grazian north face, from the snowline down to the head of the scree, above the [[place-dkrqrrgn|Diqraqor]] and the oasis strip of [[place-swoasisbelt|Tellumel]], and along the approaches to the high passes and the [[place-grazruins|Ruins and Labyrinths of the Grazian Mountains]] under the glaciers. A herd keeps to its own stretch of ridge for generations and moves up and down it with the seasons, high in summer and down to the sheltered south-facing ledges in winter. The herds are thickest above [[place-wstrndscnt|The Western Descent]], where the range breaks into lower peaks and the grass comes higher. They avoid the deep snow and the ice of the summits, and they do not come down into the plateau.
+Stone rams hold the ridges, saddles and high plateaus of the Grazian north face, from the snowline down to the head of the scree, above the [[place-dkrqrrgn|Diqraqor]] and the oasis strip of [[place-swoasisbelt|Tellumel]], and along the approaches to the high passes and the [[place-grazruins|ruins and labyrinths]] under the glaciers. A herd keeps to its own stretch of ridge for generations and moves up and down it with the seasons, high in summer and down to the sheltered south-facing ledges in winter. The herds are thickest above [[place-wstrndscnt|the Western Descent]], where the range breaks into lower peaks and the grass comes higher. They avoid the deep snow and the ice of the summits, and they do not come down into the plateau.
 
 ## Key Behaviors
 

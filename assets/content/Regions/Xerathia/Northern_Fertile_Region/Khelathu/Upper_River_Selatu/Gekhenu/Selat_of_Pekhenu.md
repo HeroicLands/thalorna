@@ -63,7 +63,7 @@ The Selat of Gekhenu is one of the upper-river selatu of the [[affiliation-empir
 
 ## Character
 
-The seat is Gekhenu, where the Halzi'a keeps his court and the chief temple of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] stands. The steward administers the selat's revenue, its granaries and its corvée, and beside him the temple keeps the count of the year. A selat whose patron is the scribe of the gods keeps its authority in writing: the tax rolls, the granary accounts and the calendar all pass through scribal hands.
+The seat is Gekhenu, where the Halzi'a keeps his court and the chief temple of [[affiliation-rethsaar|Reth'Sa'ar]] stands. The steward administers the selat's revenue, its granaries and its corvée, and beside him the temple keeps the count of the year. A selat whose patron is the scribe of the gods keeps its authority in writing: the tax rolls, the granary accounts and the calendar all pass through scribal hands.
 
 ## Commerce and Currency
 

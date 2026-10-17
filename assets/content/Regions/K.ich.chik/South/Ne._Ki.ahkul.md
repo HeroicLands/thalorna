@@ -14,7 +14,7 @@ Ne’ Ki’ahkul, "The Water House of Fire," is named for the volcanic activity 
 
 ## Location and Geography
 
-The city clings to the steep volcanic slopes, its architecture ingeniously adapted to the terrain. Buildings are constructed from local stone, often incorporating naturally occurring volcanic rock into their foundations. The volcanic heat is harnessed in workshops and forges; skilled craftspeople tap geothermal warmth for their work. Obsidian flows like dark glass in certain valleys and canyons near the city, making this one of the richest sources of the precious volcanic stone in the [[place-kchchkcntnnt|K'ich'chik Continent]].
+The city clings to the steep volcanic slopes, its architecture ingeniously adapted to the terrain. Buildings are constructed from local stone, often incorporating naturally occurring volcanic rock into their foundations. The volcanic heat is harnessed in workshops and forges; skilled craftspeople tap geothermal warmth for their work. Obsidian flows like dark glass in certain valleys and canyons near the city, making this one of the richest sources of the precious volcanic stone in [[place-kchchkcntnnt|K’ich’chik]].
 
 ## Craftsmanship and Economy
 

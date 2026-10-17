@@ -10,7 +10,7 @@ data: {demonym: null, lore: [nordheimnclt], parents: [targud], population: 0, pa
 
 ## Overview
 
-From the ford the rise looks like any other low hill on the burned ground until the eye finds the posts. Nulthgard was the hall of the kings of the [[affiliation-kingdmtrgd|Kingdom of Targud]] from the kingdom's acclamation until 613, and what stands on the rise now is its shell: a ring of charred hall-posts taller than a man, the ends of the roof-beams still socketed in some of them, the hearth-stones in the middle under a century of nettles, and the line of the stockade as a bank in the turf. Its name is the last hour of a watch, _nulth-_, before the generic for an enclosed yard and its buildings, and the kings who held it took it to mean that the hall was the kingdom's last watch before the east. In 613 it was.
+From the ford the rise looks like any other low hill on the burned ground until the eye finds the posts. Nulthgard was the hall of the kings of [[affiliation-kingdmtrgd|Targud]] from the kingdom's acclamation until 613, and what stands on the rise now is its shell: a ring of charred hall-posts taller than a man, the ends of the roof-beams still socketed in some of them, the hearth-stones in the middle under a century of nettles, and the line of the stockade as a bank in the turf. Its name is the last hour of a watch, _nulth-_, before the generic for an enclosed yard and its buildings, and the kings who held it took it to mean that the hall was the kingdom's last watch before the east. In 613 it was.
 
 ## The Four Howes
 
@@ -18,7 +18,7 @@ Below the hall on the river side stand four howes, each with its stone and its n
 
 ## What Is There Now
 
-The [[lore-grukarfolk|Grukar Folk]] do not camp on the rise. The watch's patrols say that the horde that burned the hall never used it, and that nothing has used it since but foxes and the crows, which is the kind of thing the watch says about ground it does not understand. Robbers have been at the howes, and one of the four was found a few years ago opened from the inside, with the stone pushed outward and nothing taken; the watch set the stone back without going in, and the king's ride that year poured ale at three.
+The [[lore-grukarfolk|Grukar]] do not camp on the rise. The watch's patrols say that the horde that burned the hall never used it, and that nothing has used it since but foxes and the crows, which is the kind of thing the watch says about ground it does not understand. Robbers have been at the howes, and one of the four was found a few years ago opened from the inside, with the stone pushed outward and nothing taken; the watch set the stone back without going in, and the king's ride that year poured ale at three.
 
 ## What a Party Finds
 

@@ -19,7 +19,7 @@ K'ich'chik merchants who deal in P'enqal Ch'akal begin by deciding which clan to
 
 ## Raiders and Traders
 
-The Ts'okum are mounted warriors, and their tactical speed, signaled across miles with hand signs and calls, has defeated K'ich'chik armies built for jungle and highland war. Young Ts'okum compete for prestige through increasingly daring raids, and they raid across the barrier of the [[place-chakultzklrgn|Ch'akul Tsa'kul Region]] into K'ich'chik lands with alarming frequency. In P'enqal Ch'akal, "tribute," "trade" and "plunder" are not always different things: some traders keep formal relationships with particular clans and pay for safe passage, an arrangement that works and has to be renegotiated constantly. The merchants put up with it for the herd products, and because the road north runs through Ts'okum land.
+The Ts'okum are mounted warriors, and their tactical speed, signaled across miles with hand signs and calls, has defeated K'ich'chik armies built for jungle and highland war. Young Ts'okum compete for prestige through increasingly daring raids, and they raid across the [[place-chakultzklrgn|Ch'akul Tsa'kul barrier]] into K'ich'chik lands with alarming frequency. In P'enqal Ch'akal, "tribute," "trade" and "plunder" are not always different things: some traders keep formal relationships with particular clans and pay for safe passage, an arrangement that works and has to be renegotiated constantly. The merchants put up with it for the herd products, and because the road north runs through Ts'okum land.
 
 ## What Comes Back
 

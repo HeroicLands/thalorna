@@ -413,7 +413,7 @@ sohl:
 
 ![[idriskrsvr|Ídrise Kórisvar]]{float=top-left}
 
-Ídrise Kórisvar stands 6'3" tall with a medium build. She has warm olive skin, brown hair, and green eyes. Her features include an angular face, a strong nose, a pointed chin, full lips, arched brows, and angular cheeks.
+Ídrise stands 6'3" tall with a medium build. She has warm olive skin, brown hair, and green eyes. Her features include an angular face, a strong nose, a pointed chin, full lips, arched brows, and angular cheeks.
 
 # Dossier {#dossier}
 
@@ -501,7 +501,7 @@ The Shrine of Brazemas
 [The Red Syndicate]{.name data-type="affiliation/criminal"}
 : A criminal organization that attempted to force Ídrise into their employ. When she refused, they placed a contract on her life. The contract remains technically active, though several assassins have already tried and failed. The Syndicate views her refusal as an insult that must be answered.
 
-Lord [[being-urnathdorkim|Urnath Dórkimnde]] the Cruel
+Lord [[being-urnathdorkim|Urnath]] the Cruel
 : A nobleman whose cruelty toward servants and dependents violated every principle Ídrise holds. When she discovered he was considering hiring her services, she refused and then discovered evidence of his crimes. She has become a quiet enemy, gathering information against him while keeping her distance.
 
 Her own past, an inner enemy

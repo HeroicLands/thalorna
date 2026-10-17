@@ -19,11 +19,11 @@ data:
 ## Overview
 
 The Bethua Region is the middle of the
-[[place-nrthrnfrtlrgn|Northern Fertile Region]], between [[place-okharisrgn|Okharis Region]] to the west and
-[[place-aukhelathrgq|Au'Khelathu Region]] to the east—the coast and hinterland held
+[[place-nrthrnfrtlrgn|Northern Fertile Region]], between [[place-okharisrgn|Okharis]] to the west and
+[[place-aukhelathrgq|Au'Khelathu]] to the east—the coast and hinterland held
 by the [[affiliation-mtrrchybth|Matriarchy of Bethua]], and the part of [[place-xerathia|Zerathia]]'s
 northern shore that faces most directly across the
-[[place-vylarianse|Vylarian Sea]] toward [[place-ankrscntnnt|Ankaris Continent]].
+[[place-vylarianse|Vylarian Sea]] toward [[place-ankrscntnnt|Ankaris]].
 
 ## Geography
 
@@ -56,7 +56,7 @@ than any home-grown tradition.
 
 ## Politics and Power
 
-The region is the territory of the Matriarchy of Bethua, which won its separation from its metropole, [[affiliation-pelagora|Pelagora]], about 615 AF with Khelathi backing ([[lore-bethuasep|The Separation of Bethua]]).
+The region is the territory of the Matriarchy of Bethua, which won its separation from its metropole, [[affiliation-pelagora|Pelagora]], about 615 AF with Khelathi backing ([[lore-bethuasep|the Separation of Bethua]]).
 Along its western margins, Okharik frontier clans pay tribute to Bethuan
 authorities in exchange for grazing rights; its eastern frontier with
 Au'Khelathu Region is poorly defined and a recurring source of

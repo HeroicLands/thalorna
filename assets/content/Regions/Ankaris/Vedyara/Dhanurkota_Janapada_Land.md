@@ -16,13 +16,13 @@ data:
 # terran_analog: "Medieval South Indian temple-republic with a martial-caste specialty—Chola-era brahmadeya village federation centered on a fortified temple complex, distinguished by hereditary archery training traditions"
 ---
 
-Danurkota Janapoda is the upper valley of [[place-sarvadarivr|The Sarveda]] in the [[place-vedyarargn|Vedyara Region]], thirty thousand people along a long defensible curve of the river where it comes out of the northern hill country into the inland plain. It is the land of the temple-republic of [[affiliation-dhnrktjnpd|Danurkota Janapoda]]; that note explains how the sabhra governs it, and this one describes the ground and what the villages on it do.
+Danurkota Janapoda is the upper valley of [[place-sarvadarivr|the Sarveda]] in the [[place-vedyarargn|Vedyara Region]], thirty thousand people along a long defensible curve of the river where it comes out of the northern hill country into the inland plain. It is the land of the temple-republic of [[affiliation-dhnrktjnpd|Danurkota Janapoda]]; that note explains how the sabhra governs it, and this one describes the ground and what the villages on it do.
 
 Ask the ferryman at [[place-taranaghatta|Taranaghatta]] what the valley is for and he answers by listing it: "Bamboo for the bows, reed for the arrows, horn for the backings, wax for the bindings. The rest of us grow dinner." Almost every village in the janapoda supplies something the bowyers, the fletchers or the academies need, and the rest feed and clothe the people who work them.
 
 ## The Bow-Fort
 
-The town of [[place-dhanurkota|Danurkota]] stands on a low fortified hill where the Sarveda bends west around an outcrop of red rock. [[place-bowfort|The Bow-Fort]] is older than the janapoda, older than the [[affiliation-janpdsvdyr|Janapadas of Vedyara]] and older than the temples, and perhaps older than the [[skill-vedyarlng|Vedyari Language]]. Its lowest courses are megalithic, in a style no living mason can reproduce; the upper walls have been rebuilt many times in successive Vedyari styles. Inside are **[[place-dhnrktemple|The Mahajaya Temple at Danurkota]]**, the four academy halls, the sabhra chamber and the granary, and the town spreads down the slope below the walls and along the riverbank. [[place-bowfort|The Bow-Fort]] has its own note.
+The town of [[place-dhanurkota|Danurkota]] stands on a low fortified hill where the Sarveda bends west around an outcrop of red rock. [[place-bowfort|The fort]] is older than the janapoda, older than the [[affiliation-janpdsvdyr|Mahva-Sangra]] and older than the temples, and perhaps older than the [[skill-vedyarlng|Vedyari language]]. Its lowest courses are megalithic, in a style no living mason can reproduce; the upper walls have been rebuilt many times in successive Vedyari styles. Inside are **[[place-dhnrktemple|The Mahajaya Temple at Danurkota]]**, the four academy halls, the sabhra chamber and the granary, and the town spreads down the slope below the walls and along the riverbank. [[place-bowfort|The Bow-Fort]] has its own note.
 
 The fort's name has always been Danurkota, and what the word means is disputed. Some scholars derive _danur_ from the bow that has been the janapoda's emblem since before recorded history. Others derive it from a much older root meaning a bend in a river, which is the likelier account: the bow came to the name after the academies were founded, and nothing will get it out again.
 
@@ -59,7 +59,7 @@ The bow
 : [[place-venuvana|Venivana]] grows the bamboo staves, [[place-vishanagrama|Vishanagrama]] supplies horn and sinew for facings and backings, [[place-sharavana|Shiravana]] cuts the reed for shafts and fletches them, and [[place-madhupada|Madupada]] sends wax for the bindings.
 
 The halls and the horses
-: [[place-vanasthali|Vanastoli]] cuts the timber of the academy halls and the fort, and [[place-ashvatira|Ashvatira]] keeps the horses of [[place-swifthand|The Academy of the Swift Hand]].
+: [[place-vanasthali|Vanastoli]] cuts the timber of the academy halls and the fort, and [[place-ashvatira|Ashvatira]] keeps the horses of [[place-swifthand|the Swift Hand]].
 
 The table and the loom
 : [[place-shaligrama|Shaligroma]] grows rice, [[place-ikshukshetra|Ikshukshetra]] sugarcane, [[place-tilavana|Tilavana]] sesame and [[place-gokshetra|Gokshetra]] cattle; [[place-karpasagrama|Karpasagrama]] weaves cotton and [[place-nilavana|Nilavana]] dyes it.

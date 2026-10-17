@@ -23,7 +23,7 @@ data:
 # terran_analog: "Jordan, Sinai, the Arabian Peninsula, Iraq, Iran, Turkmenistan, Afghanistan, and Pakistan—the Persian-and-Arabian world. The Kingdom of Amradad occupies the Anatolian-Caucasian northwestern corner; the rest of the region is Bedouin tribal desert through Persianate plateau and Pashtun-Baloch frontier."
 ---
 
-A caravan-master of the southern road, taking on a hired guard from the Vylarian ports, tells him the first rule before they leave the last well: "Eat a man's salt and you are his to protect. Refuse it and you are no one's." The Dunhara Region is the great southern desert of the [[place-ankrscntnnt|Ankaris Continent]]—sand seas, rocky mesas, dry riverbeds and hidden oases—running from the eastern shore of the [[place-vylarianse|Vylarian Sea]], opposite the islands of the [[place-taruzelrgn|Taruzel Region]], to the foothills below the western end of [[place-graznmntns|The Grazian Mountains]], where the desert gives way to the marches of the [[place-vedyarargn|Vedyara Region]]. It is the country of the Dunhari, a confederation of tribes whose caravans carry the southern overland trade, whose poets keep their law in verse, and whose honor code lets people who have every reason to kill each other over water cross the same desert in peace.
+A caravan-master of the southern road, taking on a hired guard from the Vylarian ports, tells him the first rule before they leave the last well: "Eat a man's salt and you are his to protect. Refuse it and you are no one's." The Dunhara Region is the great southern desert of the [[place-ankrscntnnt|Ankaris Continent]]—sand seas, rocky mesas, dry riverbeds and hidden oases—running from the eastern shore of the [[place-vylarianse|Vylarian Sea]], opposite the islands of [[place-taruzelrgn|Taruzel]], to the foothills below the western end of [[place-graznmntns|the Grazian wall]], where the desert gives way to the marches of [[place-vedyarargn|Vedyara]]. It is the country of the Dunhari, a confederation of tribes whose caravans carry the southern overland trade, whose poets keep their law in verse, and whose honor code lets people who have every reason to kill each other over water cross the same desert in peace.
 
 An outsider remembers the Dunhara for its caravans and its poets. The desert holds few people and a great deal of culture, and it is entirely unimpressed by the settled kingdoms at its edges.
 
@@ -33,7 +33,7 @@ The desert runs south and east from the dry scrublands behind the Vylarian shore
 
 The climate is brutal. A summer day can kill a man without water in a few hours, a winter night drops far below freezing, and a windstorm can bury a camp or strip the paint from a merchant's chests in minutes. The deep south sees almost no rain at all. The northwestern margin along the sea gets a thin winter rain, enough for a narrow belt of seasonal grass and the herds that graze it.
 
-The region holds two countries. The [[place-amradadrgn|Amradad Region]], in the northwestern corner along the sea, is the country of walled cities, irrigated oases and the caravan roads between them. The [[place-dunhardsrtrgn|Dunhara Desert Region]] is everything else: the open desert of the tribes, bounded by nothing but the customary circuits of the confederations and the oases each holds by right.
+The region holds two countries. [[place-amradadrgn|Amradad]], in the northwestern corner along the sea, is the country of walled cities, irrigated oases and the caravan roads between them. The [[place-dunhardsrtrgn|Dunhara Desert]] is everything else: the open desert of the tribes, bounded by nothing but the customary circuits of the confederations and the oases each holds by right.
 
 ## Peoples
 
@@ -45,7 +45,7 @@ The poets are the Dunhara's great achievement. Genealogy, history, legal precede
 
 The settled people of Amradad are of Dunhari stock and have grown apart from their cousins. The tribes admire the wealth of the cities and despise the softness of a settled life, and the Amradi return both opinions. The Kingdom is sovereign and the tribes are independent, and the arrangement has held for centuries.
 
-A few [[lore-flkkhazar|Khazár Folk]] halls are rumored in the mountain margins, and now and then a traveler of the [[lore-flksinale|Sinale Folk]] is reported. Nobody has counted either, and the stories about both are told around fires, not entered in any register.
+A few [[lore-flkkhazar|Khazari]] halls are rumored in the mountain margins, and now and then a [[lore-flksinale|Sinale traveler]] is reported. Nobody has counted either, and the stories about both are told around fires, not entered in any register.
 
 ## Faith
 
@@ -65,17 +65,17 @@ The [[affiliation-ordoarcanis|Thordimalon]] has no footing here. The tribes call
 
 ## Trade
 
-The Dunhari tribes hold the southern caravan routes that join the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] and the Vylarian Sea to Vedyara and, through further hands, to the far east. Spice, silk, jewels, fine cloth, medicinal herbs and the rare goods of the south travel west; iron, salt, wine, worked metal and the wares of the settled kingdoms travel east. A caravan carries the stock of several tribes under one escort, and responsibility for it passes from tribe to tribe as it crosses their lands, a system that works because the honor code makes the alternative unthinkable.
+The Dunhari tribes hold the southern caravan routes that join [[affiliation-cnfdrtntrzlnstts|Taruzel]] and the Vylarian Sea to Vedyara and, through further hands, to the far east. Spice, silk, jewels, fine cloth, medicinal herbs and the rare goods of the south travel west; iron, salt, wine, worked metal and the wares of the settled kingdoms travel east. A caravan carries the stock of several tribes under one escort, and responsibility for it passes from tribe to tribe as it crosses their lands, a system that works because the honor code makes the alternative unthinkable.
 
 Amradad taxes the caravans that pass through its cities and spends the revenue on its army and its court. The sheikhs tax the caravans that cross their country too, and call it a hospitality gift; the merchants call it something else. A powerful sheikh's year of gifts can make him as rich as a minor Aureldian prince.
 
 ## Neighbors
 
-**West** across the strait from the Amradi shore lie the islands of the [[place-taruzelrgn|Taruzel Region]]. The ties are old, close and commercial: the Taruzeli speak a sister tongue to Dunhari and keep the same faith, and the crossing from the Amradi coast to the Taruzelian ports is the main road between the desert and the Vylarian Sea.
+**West** across the strait from the Amradi shore lie the islands of [[place-taruzelrgn|Taruzel]]. The ties are old, close and commercial: the Taruzeli speak a sister tongue to Dunhari and keep the same faith, and the crossing from the Amradi coast to the Taruzelian ports is the main road between the desert and the Vylarian Sea.
 
-**Northwest**, beyond the Kingdom's border, the [[affiliation-byzarianlg|Bizarian League]]'s road through its [[place-southrnmrch|Southern March]] carries the caravan trade north into the [[place-heladrgn|Hellád Region]].
+**Northwest**, beyond the Kingdom's border, the [[affiliation-byzarianlg|Bizarian League]]'s road through its [[place-southrnmrch|Southern March]] carries the caravan trade north into [[place-heladrgn|Hellád]].
 
-**North** lies the [[place-khzryndsrtrgn|Khazryn Desert Region]]. The two deserts are cousins, the frontier between them is long and vague, and many caravan routes begin in one and end in the other with no clear sense of crossing anything.
+**North** lies the [[place-khzryndsrtrgn|Khazryn Desert]]. The two deserts are cousins, the frontier between them is long and vague, and many caravan routes begin in one and end in the other with no clear sense of crossing anything.
 
 **Southeast** lies Vedyara, reached by the march road that runs round the end of the Grazian wall—the only way into the subcontinent a loaded camel can take. The two peoples differ more than the Dunhari and the Taruzeli or the Khazryn do, and centuries of trade have taught them respect and a working understanding.
 

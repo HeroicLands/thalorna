@@ -14,13 +14,13 @@ data:
   government: suvrgrjnpd
 ---
 
-**Suvarnageri** (2,400) is the capital of the [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]] and stands in three parts on the lower slopes of [[place-goldmountain|The Gold Mountain]]. [Upper Suvarnageri]{.name data-type="place/site"} is at the junction of the two highest streams, [Middle Suvarnageri]{.name data-type="place/site"} in the central valley below the panning grounds, and [Lower Suvarnageri]{.name data-type="place/site"} at the foot of the mountain where [[place-bharavarivr|The Bharava]] proper begins. Name the part you want when you ask the way: four miles of steep road join the highest to the lowest, and a Suvarnageri who says the name means all three.
+**Suvarnageri** (2,400) is the capital of the [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]] and stands in three parts on the lower slopes of [[place-goldmountain|the gold mountain]]. [Upper Suvarnageri]{.name data-type="place/site"} is at the junction of the two highest streams, [Middle Suvarnageri]{.name data-type="place/site"} in the central valley below the panning grounds, and [Lower Suvarnageri]{.name data-type="place/site"} at the foot of the mountain where [[place-bharavarivr|the Bharava]] proper begins. Name the part you want when you ask the way: four miles of steep road join the highest to the lowest, and a Suvarnageri who says the name means all three.
 
 Each part is built round one of the three great temples of [[affiliation-mahajaya|Mahajaya]], and each has its own market, its own tank and its own quarter of priests' houses. The sabhra meets in whichever temple the year's rotation gives it, so the seat of government moves from part to part and back again in three years.
 
 ## The Weighing-Station
 
-[[place-weighingstn|The Weighing-Station]] stands at Middle Suvarnageri beside the common treasury, and it is the one thing in the janapoda that does not rotate. Every ounce the panning families win comes here. At each new moon the previous moon's gold is weighed in the open, before whichever sabhra representatives have come down for it, and the weights are read out and entered.
+[[place-weighingstn|The weighing-station]] stands at Middle Suvarnageri beside the common treasury, and it is the one thing in the janapoda that does not rotate. Every ounce the panning families win comes here. At each new moon the previous moon's gold is weighed in the open, before whichever sabhra representatives have come down for it, and the weights are read out and entered.
 
 Two or three hundred people attend at the height of the working season and a dozen in midwinter. Attendance is any Suvarnageri's right, and nobody at the door asks a man his business.
 
@@ -28,7 +28,7 @@ Two or three hundred people attend at the height of the working season and a doz
 
 Lower Suvarnageri holds the jewelers: some four hundred households of goldsmiths, gem-setters and enamelers, working the mountain's own gold against stones bought up from [[place-chandrapur2|Chendrapur]]. The quarter's reputation on the continent is second to Chendrapur's and to nobody else's.
 
-Its masters buy their stones by the year and sell their work through factors of [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] who come no further up the valley than the bridge at [[place-kanakasetu|Kanakasetu]]. The iron-smelters of [[place-tamravana|Tamravana]] work a mile upstream, and the two trades share a charcoal supply and a long quarrel over it.
+Its masters buy their stones by the year and sell their work through [[affiliation-mrchntclctvvdyr|Collective factors]] who come no further up the valley than the bridge at [[place-kanakasetu|Kanakasetu]]. The iron-smelters of [[place-tamravana|Tamravana]] work a mile upstream, and the two trades share a charcoal supply and a long quarrel over it.
 
 ## See Also
 

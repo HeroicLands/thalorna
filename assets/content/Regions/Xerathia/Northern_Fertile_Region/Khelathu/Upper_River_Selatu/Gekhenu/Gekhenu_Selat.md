@@ -19,7 +19,7 @@ data:
 
 "On the middle river we do not ask the water what day it is," a villager tells a traveler walking the dike road. "We ask the roof." She points to the observatory terraces of the library-temples, white against the sky.
 
-Gekhenu Selat is the land of [[affiliation-selatgekhenu|The Selat of Gekhenu]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. About 400,000 people live here, and the selat is known for its library-temples and its astronomers, the calendar-keepers of the middle river.
+Gekhenu Selat is the land of [[affiliation-selatgekhenu|the Selat of Gekhenu]], one of [[affiliation-upperrivrslt|the Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. About 400,000 people live here, and the selat is known for its library-temples and its astronomers, the calendar-keepers of the middle river.
 
 ## Character
 

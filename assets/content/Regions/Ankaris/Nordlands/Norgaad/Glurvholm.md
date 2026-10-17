@@ -20,7 +20,7 @@ What Hafvald was, and what became of him when the Ásvinir took the coast's pray
 
 ## What the Cult Believes
 
-[[affiliation-njorvencult|Njorven's Cult]] is certain that Glurvholm is the hidden temple of [[lore-njordurritlbinding|The Ritual of Binding]], the place where [[lore-thrunvalddty|Thrunvald]] bound the wyrm under the sea and the place where the binding can be undone. The cult is wrong. Its members come to the islet at low water in the dark months, cut their own signs beside the fist, and leave offerings in the hollow that the fishers throw back into the sea at dawn, and they have dug under two of the stones and found rock. The Ritual's temple is somewhere else, and nothing on Glurvholm says where. What the islet does hold is the cult's attention, which is a thing a seid-worker hunting the cult can use: the people who come to the stones in the dark months are the people she is looking for.
+[[affiliation-njorvencult|Njorven's cult]] is certain that Glurvholm is the hidden temple of [[lore-njordurritlbinding|the Ritual of Binding]], the place where [[lore-thrunvalddty|Thrunvald]] bound the wyrm under the sea and the place where the binding can be undone. The cult is wrong. Its members come to the islet at low water in the dark months, cut their own signs beside the fist, and leave offerings in the hollow that the fishers throw back into the sea at dawn, and they have dug under two of the stones and found rock. The Ritual's temple is somewhere else, and nothing on Glurvholm says where. What the islet does hold is the cult's attention, which is a thing a seid-worker hunting the cult can use: the people who come to the stones in the dark months are the people she is looking for.
 
 ## See Also
 

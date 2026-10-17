@@ -9,7 +9,7 @@ data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 Kind
-: Animal-kin, of [[lore-thekindred|The Kindred]]
+: Animal-kin, of [[lore-thekindred|the Kindred]]
 
 Seat
 : [[place-drenavrspn|The Drenavar Spine]]
@@ -23,7 +23,7 @@ Posture
 Met through
 : [[skill-urnelsprt|Urnel Spirit Power]]
 
-Urnel, the Bear of the High Corries, is the clearest case in the practice of the [[lore-aelendnppl|Áelendan People]] of a single Kindred requiring two postures, and
+Urnelis the clearest case in [[lore-aelendnppl|Áelendan practice]] of a single Kindred requiring two postures, and
 shamen use him to teach it. Between the first hard frost and the thaw he is warded against: the
 corries are not entered, the protective songs are carried by anyone who must pass below them, and
 a tribe that loses someone up there in winter does not go to look.

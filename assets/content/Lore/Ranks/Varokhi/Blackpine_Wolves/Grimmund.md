@@ -8,7 +8,7 @@ tags: []
 data: {culture: varokhiclt}
 ---
 
-A Grimmund is one of the six who follow [[being-dagulfvthr|Dagbán yra Vethar wur Thrareth]], held by fear of the leader and the absence of better options, in [[affiliation-blckpnwlvs|The Blackpine Wolves]].
+A Grimmund is one of the six who follow [[being-dagulfvthr|Dagbán yra Vethar wur Thrareth]], held by fear of the leader and the absence of better options, in [[affiliation-blckpnwlvs|the Blackpine Wolves]].
 
 ## What This Standing Is
 

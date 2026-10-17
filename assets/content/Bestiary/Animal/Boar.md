@@ -244,7 +244,7 @@ A stocky pig with a heavy head tapering to a muzzle made for rooting, on short, 
 
 ## In the Land
 
-Wild boar root through the oak and beech woods of Vristwald, the gorges and scrub of the Southern March above [[place-byzariargn|Bizaria Region]], and the river thickets and reed-beds of many lowland valleys. A sow with her sounder holds a few square miles around a wallow and a mast-bearing stand of trees. Boars are bolder where farms meet woodland, and a field of roots or grain at the forest edge is rooted over before the harvest.
+Wild boar root through the oak and beech woods of Vristwald, the gorges and scrub of the Southern March above [[place-byzariargn|Bizaria]], and the river thickets and reed-beds of many lowland valleys. A sow with her sounder holds a few square miles around a wallow and a mast-bearing stand of trees. Boars are bolder where farms meet woodland, and a field of roots or grain at the forest edge is rooted over before the harvest.
 
 ## Key Behaviors
 
@@ -252,7 +252,7 @@ Mature boars hold a home range, marking trees with tusks and scent, and fight ri
 
 ## What the Villages Do
 
-The Varokh hunt boar in winter on foot, with dogs to hold the animal and a crossbar on the spear-head to keep it from running up the shaft. Farmers in the clearings plant ditches and thorn-hedges around field-crops and keep dogs for the night. In the Southern March the lords of the [[affiliation-byzarianlg|Bizarian League]] ride after boar in hunts that double as political occasions. Boar meat is salted for winter, the hide is tanned for boot-leather, and the bristles are sold for brushes. The tusk-caps of a famous boar hang over a hunter's door. Boar are among the animals that the [[affiliation-tribestrzd|Tribes of Atarzád]] of the [[place-khzryndsrtrgn|Khazryn Desert Region]] forbid as unclean, so they are neither hunted nor eaten there.
+The Varokh hunt boar in winter on foot, with dogs to hold the animal and a crossbar on the spear-head to keep it from running up the shaft. Farmers in the clearings plant ditches and thorn-hedges around field-crops and keep dogs for the night. In the Southern March the lords of the [[affiliation-byzarianlg|League]] ride after boar in hunts that double as political occasions. Boar meat is salted for winter, the hide is tanned for boot-leather, and the bristles are sold for brushes. The tusk-caps of a famous boar hang over a hunter's door. Boar are among the animals that the [[affiliation-tribestrzd|Atarzad tribes]] of the [[place-khzryndsrtrgn|Khazryn]] forbid as unclean, so they are neither hunted nor eaten there.
 
 ## Signs
 

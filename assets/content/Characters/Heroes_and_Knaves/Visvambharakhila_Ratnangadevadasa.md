@@ -419,7 +419,7 @@ sohl:
 
 ![[vsvmbhrkhlrtngdvds|Vishvambharakhila Ratnangadevadasa]]{float=top-left}
 
-Vishvambharakhila Ratnangadevadasa stands 5'10" tall with a medium build. He has deep brown skin, dark brown hair, and warm brown eyes. His features include a full face, a narrow nose, a small chin, full lips, deep brows.
+Vishvambharakhila stands 5'10" tall with a medium build. He has deep brown skin, dark brown hair, and warm brown eyes. His features include a full face, a narrow nose, a small chin, full lips, deep brows.
 
 # Dossier {#dossier}
 
@@ -427,7 +427,7 @@ Vishvambharakhila Ratnangadevadasa stands 5'10" tall with a medium build. He has
 
 ### The Rise of the Chandler
 
-Vishvambharakhila was born the son of a modest candle-maker named **[Ratnanga]{.name data-type="being/npc"}** in one of the city-states of the [[place-vedyarargn|Vedyara Region]]. His father was a competent craftsman but a poor businessman, whose products were of good quality yet whose enterprise remained perpetually on the edge of financial survival. Young Vishvambharakhila grew up watching his father struggle, watching the family's fortunes rise and fall with the seasons and the whims of patrons of the great houses. This instilled in him two contradictory impulses: a deep appreciation for craftsmanship and a hunger for financial security that bordered on obsession.
+Vishvambharakhila was born the son of a modest candle-maker named **[Ratnanga]{.name data-type="being/npc"}** in one of the [[place-vedyarargn|Vedyara city-states]]. His father was a competent craftsman but a poor businessman, whose products were of good quality yet whose enterprise remained perpetually on the edge of financial survival. Young Vishvambharakhila grew up watching his father struggle, watching the family's fortunes rise and fall with the seasons and the whims of patrons of the great houses. This instilled in him two contradictory impulses: a deep appreciation for craftsmanship and a hunger for financial security that bordered on obsession.
 
 At sixteen, Vishvambharakhila took over his father's workshop upon **Ratnanga's** death. Rather than continuing in the traditional manner, however, Vishvambharakhila revolutionized the enterprise. He began experimenting with scent combinations, creating signature fragrances that Kulinas craved. More importantly, he understood something his father never grasped: the power of marketing and reputation. He began commissioning poets to write verses praising his candles, cultivated relationships with influential women of the great houses, and created a sense of luxury around his products that far exceeded their material cost.
 

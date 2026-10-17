@@ -650,7 +650,7 @@ sohl:
   flags: {"thalorna": {lang_family: Tellumi (isolate)}}
 ---
 
-Tellumi Language is the tongue of the [[lore-khazrynclt|Tellumi]], the old oasis people whose walled cities stand in a narrow belt along the north foot of [[place-graznmntns|The Grazian Mountains]], and it is the tongue of their clay archive. Their own name says where they came from: _Tellumi_ is "the people of the high springs", built from _te_ "high" and _lu_ "spring". Fluency measures the sophistication of expression in the language, from the halting phrases of a traveler to the nuanced discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Tellumi is the tongue of the [[lore-khazrynclt|Tellumi]], the old oasis people whose walled cities stand in a narrow belt along the north foot of [[place-graznmntns|the Grazian Mountains]], and it is the tongue of their clay archive. Their own name says where they came from: _Tellumi_ is "the people of the high springs", built from _te_ "high" and _lu_ "spring". Fluency measures the sophistication of expression in the language, from the halting phrases of a traveler to the nuanced discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## How Tellumi sounds
 
@@ -668,7 +668,7 @@ Tellumi is the measured, liquid tongue of the old oasis princes.
 
 ## Sounds
 
-Tellumi is soft and unhurried, with a hush in it. Every syllable opens on a single consonant, and it closes on a sonorant or on a quick stop or hiss, so words end in _-l_, _-m_, _-n_, _-r_, _-t_, _-d_, _-k_, _-s_ or _-sh_. Where two parts of a word meet, the consonant that opens the second doubles, so the doubled _ll_ of _Tellumi_ is the tongue's signature sound. There is no _o_, no _kh_, _gh_ or _zh_, and no _z_, and those are the sounds Tellumi speakers find hardest in [[skill-atarzadilng|Atárzadi Language]], the tongue of the people who took four of their cities.
+Tellumi is soft and unhurried, with a hush in it. Every syllable opens on a single consonant, and it closes on a sonorant or on a quick stop or hiss, so words end in _-l_, _-m_, _-n_, _-r_, _-t_, _-d_, _-k_, _-s_ or _-sh_. Where two parts of a word meet, the consonant that opens the second doubles, so the doubled _ll_ of _Tellumi_ is the tongue's signature sound. There is no _o_, no _kh_, _gh_ or _zh_, and no _z_, and those are the sounds Tellumi speakers find hardest in [[skill-atarzadilng|Atárzadi]], the tongue of the people who took four of their cities.
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
@@ -749,7 +749,7 @@ The three tongues sound nothing alike, and every stem carries sounds that only i
 Tellumi, the tongue of the old oasis cities at the foot of the Grazian Mountains, is soft and hushed
 : _sh_ and _ts_, syllables closing on a sonorant or a quick stop, any single consonant doubled where two stems meet, no _o_ and no marks. _Tellumi_, _Tennelimash_, _Tashbemun_.
 
-[[skill-sowideslng|Sovidur Language]], the tongue of the steppe tribes, keeps two voices
+[[skill-sowideslng|Sovidur]], the tongue of the steppe tribes, keeps two voices
 : every stem takes its vowels from a back group (_a_, _o_, _u_) or a front group (_e_, _ö_, _ü_), with a throaty _q_ and _gh_ in the back stems and a lighter _k_ and _g_ in the front, long vowels written double, and no word opening on _r_. _Orkunoq_, _Koduyur_, _Diqraqor_.
 
 [[skill-atarzadilng|Atárzadi]], the tongue of the twelve tribes who took four of the Tellumi cities, is harsh and long-voweled

@@ -401,7 +401,7 @@ sohl:
 
 ![[lucernsrnt|Lukeros Serenthis]]{float=top-left}
 
-Lukeros Serenthis is a handsome young man whose appearance screams wealth and education in an environment that has neither. His brown hair is neatly trimmed, his green eyes are sharp and analytical behind an expression of perpetual, slightly anxious alertness, and his clothing—though travel-worn—is of noticeably finer quality than anything else aboard [[affiliation-thetamzir|The Tamzir]]. He maintains his grooming with fastidious care, a habit his crewmates find equal parts admirable and irritating. He carries a large leather medical bag of exquisite craftsmanship, containing surgical instruments of the finest quality and an extensive supply of drugs and herbs. He also carries an eating fork, which the crew considers the height of pretension.
+Lukeros Serenthis is a handsome young man whose appearance screams wealth and education in an environment that has neither. His brown hair is neatly trimmed, his green eyes are sharp and analytical behind an expression of perpetual, slightly anxious alertness, and his clothing—though travel-worn—is of noticeably finer quality than anything else aboard [[affiliation-thetamzir|the Tamzir]]. He maintains his grooming with fastidious care, a habit his crewmates find equal parts admirable and irritating. He carries a large leather medical bag of exquisite craftsmanship, containing surgical instruments of the finest quality and an extensive supply of drugs and herbs. He also carries an eating fork, which the crew considers the height of pretension.
 
 # Dossier {#dossier}
 
@@ -417,7 +417,7 @@ Lukeros apprenticed to a surgeon-physician in [Azerya]{.name data-type="place/se
 
 ### The Rescue
 
-Everything changed when Lukeros's younger sister, [[being-cibelasrnt|Kivella Serenthis]], was taken by the [[affiliation-ordoarcanis|Thordimalon]].
+Everything changed when Lukeros's younger sister, [[being-cibelasrnt|Kivella]], was taken by the [[affiliation-ordoarcanis|Thordimalon]].
 
 Kivella had always been different—brilliant, mercurial, with an extraordinary arcane aura that drew attention from the moment it manifested. The Order identified her at thirteen and invited her to study at one of their academies. The family was honored. For two years, Kivella wrote glowing letters home. Then the letters stopped. When Lukeros finally gained access to the academy, what he found destroyed his world. The Order had been experimenting on his sister, pushing her abilities beyond safe limits, and the process had left her damaged—erratic, traumatized, and partially broken.
 

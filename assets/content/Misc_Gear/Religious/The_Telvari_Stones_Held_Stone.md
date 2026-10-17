@@ -10,7 +10,7 @@ sohl:
   system: {weightBase: 0.3, valueBase: 0, qualityBase: 0, durabilityBase: 20}
 ---
 
-The pilots' households of [[place-telvari|Telvari]] keep a living held stone (_kaan'sul_) of [[place-telvaristone|The Telvari Stone]], a disc of [[lore-itharisul|ithasul]] the size of a palm, gray and giving. Someone with no right to it has lifted it out of their keeping while the Telvari Stone still works.
+The pilots' households of [[place-telvari|Telvari]] keep a living held stone (_kaan'sul_) of [[place-telvaristone|the Telvari Stone]], a disc of [[lore-itharisul|ithasul]] the size of a palm, gray and giving. Someone with no right to it has lifted it out of their keeping while the Telvari Stone still works.
 
 ## What It Does
 

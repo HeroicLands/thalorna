@@ -12,7 +12,7 @@ The last names a skald speaks at [[lore-jol|Jel]] belong to gods nobody prays to
 
 ## Why There Are Heirs
 
-The halls teach that the Ten of the [[affiliation-asguardian|Asguardian Pantheon]] were kindled from the remnant of the age before this one, and [[lore-aldarhringr|Aldarhringr]], the ring of ages, teaches that every age ends the same way. So the Ten have heirs as surely as a jarl does, and for the same reason: what a house leaves is how it goes on. The Ten do not cross into the new age themselves, and the hovs never soften that. "The heirs are not the Ten come back," a Hofgudi at [[place-odholm|Odholm]] tells a newcomer who has asked. "They are what the Ten leave. You will meet the same thing at every grave-ale you ever drink."
+The halls teach that the Ten of the [[affiliation-asguardian|Asguardian Pantheon]] were kindled from the remnant of the age before this one, and the [[lore-aldarhringr|Aldarhringr]], the ring of ages, teaches that every age ends the same way. So the Ten have heirs as surely as a jarl does, and for the same reason: what a house leaves is how it goes on. The Ten do not cross into the new age themselves, and the hovs never soften that. "The heirs are not the Ten come back," a Hofgudi at [[place-odholm|Odholm]] tells a newcomer who has asked. "They are what the Ten leave. You will meet the same thing at every grave-ale you ever drink."
 
 The heirs keep no hovs, take no blet and confer no standing. Nobody in this age serves them, because they have nothing yet to be served for; their age has not begun. They are spoken of, and only at the end of the telling.
 

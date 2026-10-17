@@ -36,4 +36,4 @@ Fruzukáz Selvazhazát is a 31-year-old man who stands 5'11" tall with a light b
 
 # Dossier {#dossier}
 
-Fruzukáz Selvazhazát is a younger, jealous cartographer. He cultivates relationships with the city guard, spreads insinuations against [[being-damklsmpsn|Damáklios Bridutis]] and hopes to inherit Damáklios's commissions, as the note on [[affiliation-crtgrphrsgldbyzrnlg|The Cartographers' Guild of the Bizarian League]] records.
+Fruzukáz Selvazhazát is a younger, jealous cartographer. He cultivates relationships with the city guard, spreads insinuations against [[being-damklsmpsn|Damáklios Bridutis]] and hopes to inherit Damáklios's commissions, as the note on [[affiliation-crtgrphrsgldbyzrnlg|the Cartographers' Guild of the Bizarian League]] records.

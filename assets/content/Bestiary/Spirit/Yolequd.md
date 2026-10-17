@@ -132,7 +132,7 @@ The air is dead still. No breath of wind has stirred the salt since dawn, and th
 
 The Yolakud is a spirit of the salt: a column of whirling grit that rises on windless afternoons from the dry lake bed of [[place-ewod|Evod]] and sweeps across the flat, stripping skin from whatever it catches and blinding what it does not kill. It is not a wind. The air around it is still, and it moves against the breeze if there is one. The tribes of the [[place-hskrrgn|Khoshiqor]] call it by the word for salt and the suffix of a doer, "the salt-doer", and they tell their children that it is the thirst of the lake, walking.
 
-It is not one of the hunters of the [[lore-bloodfield|Blood-fields]], and the tribes do not treat it as one. Evod is no blood-field: the lake was left by the people who lived beside it, and they died elsewhere. The doctrine of the blood-fields describes ground made by slaughter and the predator spirits that gather where the unreceived dead are. The Yolakud gathers nowhere. It is a presence of the salt itself, native to the one place where the lake's water went, and what binds it there no people of the region claims to know.
+It is not one of the hunters of the [[lore-bloodfield|blood-fields]], and the tribes do not treat it as one. Evod is no blood-field: the lake was left by the people who lived beside it, and they died elsewhere. The doctrine of the blood-fields describes ground made by slaughter and the predator spirits that gather where the unreceived dead are. The Yolakud gathers nowhere. It is a presence of the salt itself, native to the one place where the lake's water went, and what binds it there no people of the region claims to know.
 
 ## Presentation
 

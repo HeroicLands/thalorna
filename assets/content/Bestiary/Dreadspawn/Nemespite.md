@@ -235,7 +235,7 @@ Nemespites hunt by day. A few scouts range ahead, and when they find prey the hi
 
 ## What the Shamans Do
 
-Few of the Yenor Zohiring shamans go to the Yanda Zohiring at all, and the ones who do go up through the hive's slopes before dawn, in the cold, when the nemespites are torpid in the rock, and they are above the hive's ground by the time the sun warms the stone. A herder who loses goats on the lower slopes moves his herd and does not go after them. The accounts of shamans who claim to have reached [[lore-orclbonesspr|The Oracle of Bones]] do not agree on where it is, and the herders of the frontier say one reason is that every shaman takes a different way round the hive. Okharik healers buy the stingers of dead nemespites, ground fine, to deaden the pain of setting a bone.
+Few of the Yenor Zohiring shamans go to the Yanda Zohiring at all, and the ones who do go up through the hive's slopes before dawn, in the cold, when the nemespites are torpid in the rock, and they are above the hive's ground by the time the sun warms the stone. A herder who loses goats on the lower slopes moves his herd and does not go after them. The accounts of shamans who claim to have reached [[lore-orclbonesspr|the Oracle of Bones]] do not agree on where it is, and the herders of the frontier say one reason is that every shaman takes a different way round the hive. Okharik healers buy the stingers of dead nemespites, ground fine, to deaden the pain of setting a bone.
 
 ## Signs
 

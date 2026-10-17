@@ -235,7 +235,7 @@ Two big black birds are sitting on the broken wall above the ford. Everything ab
 
 # Dossier {#dossier}
 
-The Raven is the large black bird of the north, twenty to twenty-five inches tall with a wingspan of three and a half to four feet, living in the cliffs and fjords of the [[place-nrdlndsrgn|Nordlands Region]], the forests of [[place-vrystwald|Vristwald]] and the mountains of [[place-graznmntns|The Grazian Mountains]]. It is clever, curious and a scavenger, and follows armies, hunts and caravans. [[lore-odvardty|Odvar]]'s two ravens, [[lore-hugvin|Hugvin]] and [[lore-munvin|Munvin]], are read as messengers and teaching figures.
+The Raven is the large black bird of the north, twenty to twenty-five inches tall with a wingspan of three and a half to four feet, living in the cliffs and fjords of the [[place-nrdlndsrgn|Nordlands]], the forests of [[place-vrystwald|Vristwald]] and the mountains of [[place-graznmntns|the Grazian range]]. It is clever, curious and a scavenger, and follows armies, hunts and caravans. [[lore-odvardty|Odvar]]'s two ravens, [[lore-hugvin|Hugvin]] and [[lore-munvin|Munvin]], are read as messengers and teaching figures.
 
 ## Presentation
 

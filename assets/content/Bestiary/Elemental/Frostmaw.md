@@ -270,7 +270,7 @@ The glacier's snout is a wall of blue ice above the stony beach, and the expedit
 
 # Dossier {#dossier}
 
-The Frostmaw is a great ice elemental: a spirit of the cold manifested as a bear-shaped body of solid blue-white ice some thirty feet long and many tons in weight, which lingers in the frozen places of the world for years at a time, deepening the winter round it and spreading the ice. It is drawn to heat and life, and it hunts them. It is the elemental that the few expeditions to [[place-isrncntnnt|Iseron Continent]], the ice continent at the southern pole, bring back word of, and most of what is said about it is said by the survivors of those expeditions, which is to say by very few people. Like every elemental it can be destroyed in the material world, and it comes back; a frostmaw destroyed far from its ice may take a very long time.
+The Frostmaw is a great ice elemental: a spirit of the cold manifested as a bear-shaped body of solid blue-white ice some thirty feet long and many tons in weight, which lingers in the frozen places of the world for years at a time, deepening the winter round it and spreading the ice. It is drawn to heat and life, and it hunts them. It is the elemental that the few expeditions to [[place-isrncntnnt|Iseron]], the ice continent at the southern pole, bring back word of, and most of what is said about it is said by the survivors of those expeditions, which is to say by very few people. Like every elemental it can be destroyed in the material world, and it comes back; a frostmaw destroyed far from its ice may take a very long time.
 
 ## Presentation
 

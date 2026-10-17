@@ -575,11 +575,11 @@ sohl:
   flags: {"thalorna": {lang_family: Pidgin (contact language)}}
 ---
 
-Valtari Language is a tongue of the Pidgin (contact) family. Fluency measures the sophistication of expression in Valtari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Valtari is a tongue of the Pidgin (contact) family. Fluency measures the sophistication of expression in Valtari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
-Valtari—also called **Váltongue** or simply "trade-talk"—is not a true native language but a **pidgin trade language** that arose organically in the maritime harbors, fish-markets, warehouses, and trading houses of [[place-midhalnrgn|Mídhalión Region]]. It emerged wherever speakers of [[skill-taruzelilng|Taruzeli Language]], [[skill-helonclng|Helonic Language]], [[skill-vylarilng|Vylari Language]], [[skill-nordmalng|Nordmal Language]], and a dozen other tongues needed to conduct commerce without interpreters. The language is fundamentally a **contact language**: a tool forged in necessity, spoken by those who need each other more than they need mutual understanding of grammar or etymology.
+Valtari—also called **Váltongue** or simply "trade-talk"—is not a true native language but a **pidgin trade language** that arose organically in the maritime harbors, fish-markets, warehouses, and trading houses of [[place-midhalnrgn|Mídhalión]]. It emerged wherever speakers of [[skill-taruzelilng|Taruzeli Language]], [[skill-helonclng|Helonic Language]], [[skill-vylarilng|Vylari Language]], [[skill-nordmalng|Nordmal Language]], and a dozen other tongues needed to conduct commerce without interpreters. The language is fundamentally a **contact language**: a tool forged in necessity, spoken by those who need each other more than they need mutual understanding of grammar or etymology.
 
 Valtari is the lingua franca of maritime merchants, dock laborers, ship captains, chandlers, harbor masters, fishmongers, and anyone whose livelihood depends on cross-cultural commerce. It is **never** a first language—no child grows up speaking Valtari as their mother tongue. Instead, it is picked up on the docks through constant repetition, error correction, and pragmatic negotiation. A Valtari speaker is identifiable not by mastery of the language but by their ability to make themselves understood despite imperfect knowledge.
 
@@ -764,8 +764,8 @@ Valtari varies noticeably by port:
 
 - **[[place-ilovanu|Ilovanu]] dialect**: The prestige form; favors clarity and slower speech. Influenced by the mixed Taruzeli-Kaliharan population. Closest to a "standard."
 - **[[place-vashuran|Vashurán]] dialect**: Fast, clipped, heavily Taruzeli. Difficult for non-native Taruzeli speakers to follow; prized for its efficiency.
-- **Northern port dialects** (coast of [[place-velanthrgn|Velanthia Region]]): Softer, more Helonic-influenced. Slower, more vowel-heavy.
-- **Other Kaliharan ports** (the island's eastern coast): Mix of [[skill-kalihrlng|Kalihari Language]] cadence with Valtari vocabulary; unique tonal patterns.
+- **Northern port dialects** ([[place-velanthrgn|Velanthian coast]]): Softer, more Helonic-influenced. Slower, more vowel-heavy.
+- **Other Kaliharan ports** (the island's eastern coast): Mix of [[skill-kalihrlng|Kalihari]] cadence with Valtari vocabulary; unique tonal patterns.
 
 A trader from Ilovanu moving to Vashurán must re-learn the rapid-fire delivery and emphatic stress patterns. Similarly, a Nordmal merchant's Valtari will carry Nordmal phonemes and word order habits.
 
@@ -777,8 +777,8 @@ _Kiromu kusadu latara pashin_
 _Zu funatu, asevu, mavitu yakodu?_
 : "No trouble, friend—where is the ship?" (casual, reassuring)
 
-_Idiro, vidu, durasu
-: yepalu tapelu_—"We need water, bread, and salt immediately" (urgent trade request)
+_Idiro, vidu, durasu—yepalu tapelu_
+: "We need water, bread, and salt immediately" (urgent trade request)
 
 _Paramisu anevo lokatu, yakodu zu sotaru_
 : "Tomorrow a storm comes; the boat won't be safe"
@@ -790,11 +790,11 @@ _Koru latara pelaro, temadu kerisu, geniru yu rusaku?_
 
 The following represents the stable core of Valtari—words understood in virtually every port. Since Valtari is a pidgin, virtually every word is a loanword bent to its sounds and stripped of its endings. Most derive from Taruzeli (**H**, with the Taruzeli source form), a quarter from Helonic (**He**), a fifth from the Vylari family (**V**), a few from Nordmal and its kin (**N**), and a few from other tongues of the setting (**O**). The [[skill-valtarlng#lexicon|Valtari Lexicon]] gives every word with its source, the rules a borrowed word is bent by, and the endings that make trade names.
 
-**People & Trade:** kiromu (He, from _kiros_) "captain, master" · bashimu (H, from _bashimum_) "merchant" · eparo (He, from _émfarin_) "trader, factor" · pelaro (He, from _pléarin_ "to sail") "sailor, seaman" · asevu (V, from [[skill-provnzlng|Provenzal Language]] _anseve_) "friend, companion" · koru (V, from _koroi_) "you"
+**People & Trade:** kiromu (He, from _kiros_) "captain, master" · bashimu (H, from _bashimum_) "merchant" · eparo (He, from _émfarin_) "trader, factor" · pelaro (He, from _pléarin_ "to sail") "sailor, seaman" · asevu (V, from [[skill-provnzlng|Provenzal]] _anseve_) "friend, companion" · koru (V, from _koroi_) "you"
 
 **Goods & Money:** zazuru (H, from _zazurush_) "goods, wares, cargo" · ushadu (H, from _hushadu_) "gold, coin, money" · pashin (H, from _pashinu_) "price, value, worth" · etalu (He, from _euthalir_) "profit, gain" · telusu (H, from _telmush_) "deal, contract, bond"
 
-**Objects:** yakodu (H, from _jakudu_) "boat, ship" · idiro (He, from _hidhir_) "water" · vidu (N, from _vuld_ "grain") "bread" · durasu (He, from _duras_) "salt" · bazunu (H, from _bazunu_) "sail, canvas" · ula (O, from [[skill-sinalelng|Sinale Language]] _hulma_) "fish"
+**Objects:** yakodu (H, from _jakudu_) "boat, ship" · idiro (He, from _hidhir_) "water" · vidu (N, from _vuld_ "grain") "bread" · durasu (He, from _duras_) "salt" · bazunu (H, from _bazunu_) "sail, canvas" · ula (O, from [[skill-sinalelng|Sinale]] _hulma_) "fish"
 
 **Actions:** lokatu (V, from _lokathen_) "come, go, arrive" · kusadu (H, from _kusad-_) "bring, carry" · begi (H, from _belgin-_) "leave, depart" · dorasu (He, from _doras-_) "give, trade" · geniru (H, from _genir-_) "take, accept" · yepalu (V, from _yerpalon_ "duty") "need, must" · kubasu (H, from _kubas-_) "count, measure, reckon" · katusu (H, from _qatush_) "hold, keep, grip"
 
@@ -802,7 +802,7 @@ The following represents the stable core of Valtari—words understood in virtua
 
 **Place & Time:** besiku (H, from _besiku_) "port, harbor, port town" · yu (H, from _ju_) "this" · denu (V, from _denos_) "here" · mavitu (O, from Sinale _maviho_) "where" · mavu (O, from Sinale _mavi_) "what" · kedi (V, from _kedis_) "who" · gulodu (N, from _glud_ "day") "when" · tapelu (V, from _thapelon_ "hour") "now" · paramisu (V, from _pramiza_ "morning") "tomorrow" · olimu (V, from _holimos_ "first") "already"
 
-**Other:** zu (H, from _zu_) / ufi (He, from _uf_) "no, not" (speakers use one or the other depending on native language) · anevo (He, from _ánevir_) "storm, wind" · funatu (H, from _funatush_ "loss") "trouble, problem" · rusaku (H, from _rusak-_ "to rig") "work, labor" · kerisu (He, from _kheirin_) "hand, skill" · odisu (He, from _hodis_) "road, route" · norodu (N, from [[skill-aelwthlng|Aelwythi Language]] _nord_) "north"
+**Other:** zu (H, from _zu_) / ufi (He, from _uf_) "no, not" (speakers use one or the other depending on native language) · anevo (He, from _ánevir_) "storm, wind" · funatu (H, from _funatush_ "loss") "trouble, problem" · rusaku (H, from _rusak-_ "to rig") "work, labor" · kerisu (He, from _kheirin_) "hand, skill" · odisu (He, from _hodis_) "road, route" · norodu (N, from [[skill-aelwthlng|Aelwythi]] _nord_) "north"
 
 **Numerals (Taruzeli-derived):** yezu "one" · lelor "two" · zemu "three" · vubu "four" · fomul "five" · zekoru "ten" (from Helonic _zekhor_). Six to nine are counted on from five: _fomul yezu_ "six", _fomul lelor_ "seven", _fomul zemu_ "eight", _fomul vubu_ "nine".
 

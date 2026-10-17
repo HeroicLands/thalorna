@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [nrdlndsrgn], population: 0, packFolder
 
 ## Overview
 
-A household of the [[place-nrdlndsrgn|Nordlands Region]] that wants a [[lore-thrallrnk|thrall]] buys one at Kruldheim or along the [[place-nalthmark|Nalthmark]] road, and the settlement's name is blunt about the trade: _kruld-_, a load a beast carries without complaint, before _-heim_, a settled place. A buyer comes away from Kruldheim with a thrall, and a person sold there leaves it as one.
+A household of the [[place-nrdlndsrgn|Nordlands]] that wants a [[lore-thrallrnk|thrall]] buys one at Kruldheim or along the [[place-nalthmark|Nalthmark]] road, and the settlement's name is blunt about the trade: _kruld-_, a load a beast carries without complaint, before _-heim_, a settled place. A buyer comes away from Kruldheim with a thrall, and a person sold there leaves it as one.
 
 ## What Changes Hands
 

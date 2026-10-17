@@ -424,11 +424,11 @@ sohl:
 
 ![[domthgrvth|Dometh Graveth]]{float=top-left}
 
-Dometh Graveth stands 5'11" tall with a heavy build. He has tanned weathered skin, greying black hair, and brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, and prominent brows. He has a tattoo of a snake on his chest.
+Dometh stands 5'11" tall with a heavy build. He has tanned weathered skin, greying black hair, and brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, and prominent brows. He has a tattoo of a snake on his chest.
 
 # Dossier {#dossier}
 
-Dometh was born to shipwrights in the coastal district of the [[place-tarvenirgn|Tarvénia Region]], where the sea determines all things and timber is the only true currency. His father, **Master [Toren Graveth]{.name data-type="being/npc"}**, was considered the kingdom's finest builder of ocean-going vessels, and Dometh inherited the trade and with it a philosophy of absolute dedication to the craft. For thirty-one years, Dometh worked beside his father, learning that ships are not products but living things—entities that must be honored, understood, and negotiated with rather than imposed upon.
+Dometh was born to shipwrights in the coastal district of [[place-tarvenirgn|Tarvénia]], where the sea determines all things and timber is the only true currency. His father, **Master [Toren Graveth]{.name data-type="being/npc"}**, was considered the kingdom's finest builder of ocean-going vessels, and Dometh inherited the trade and with it a philosophy of absolute dedication to the craft. For thirty-one years, Dometh worked beside his father, learning that ships are not products but living things—entities that must be honored, understood, and negotiated with rather than imposed upon.
 
 When his father passed—drowning in the very sea that had always been his realm—Dometh inherited both his workshop and his reputation. Rather than expand or capitalize on his inheritance, he deliberately restricted his output, accepting only commissions that met his personal standards. Over the next two decades, he became known not for productivity but for creating ships of such durability and elegance that captains would wait years for a Graveth vessel and pay premiums without complaint.
 
@@ -444,7 +444,7 @@ Yet those rare individuals who have penetrated his reserve report discovering un
 
 ### Motivation
 
-Dometh is animated by a conviction that approaches religious fervor: that excellence in craft is an act of respect toward both the materials and the individuals who will depend upon the finished work. Every ship he builds is created with consciousness that it may carry families across treacherous waters, or carry merchants to distant lands, or serve warriors in naval warfare. To compromise on quality is to betray these people and dishonor the wood that gave its life to serve them. He builds as an act of devotion to the **[[affiliation-olvenia|Faith of Ólvenia]]** and to the unspoken compact between craftsperson and world.
+Dometh is animated by a conviction that approaches religious fervor: that excellence in craft is an act of respect toward both the materials and the individuals who will depend upon the finished work. Every ship he builds is created with consciousness that it may carry families across treacherous waters, or carry merchants to distant lands, or serve warriors in naval warfare. To compromise on quality is to betray these people and dishonor the wood that gave its life to serve them. He builds as an act of devotion to [[affiliation-olvenia|Ólvenia]]** and to the unspoken compact between craftsperson and world.
 
 A deeper motivation underlies this: Dometh builds ships because they are permanent. In a world of flux and change, a well-built vessel can outlast nations, can be repaired and renewed for generations. In creating ships, he creates something that approaches immortality, and through these vessels, some fragment of himself will persist when he is dust.
 
@@ -486,13 +486,13 @@ Unwillingness to Delegate
 
 ### Patrons
 
-Captain-Admiral [[being-brazemabetsu|Brazema Betsuris]]
+Captain-Admiral [[being-brazemabetsu|Brazema]]
 : A celebrated naval commander who has commissioned multiple vessels from Dometh over two decades and would speak of his craftsmanship as the only reason certain campaigns succeeded.
 
 [[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]] of Tarvénia's Harbor
 : A collective of wealthy traders who have maintained standing orders for Graveth vessels despite the expense and delays, understanding that his ships provide competitive advantages that justify premium pricing.
 
-Priestess-Keeper [[being-thelvaravolk|Thélvara Volkemis]] of Ólvenia's Temple
+Priestess-Keeper [[being-thelvaravolk|Thélvara]] of Ólvenia's Temple
 : The keeper of the ocean-goddess's temple considers Dometh's work a form of worship and sees to it that the temple's ships are always commissioned from him, providing him with steady work during lean years.
 
 ### Enemies

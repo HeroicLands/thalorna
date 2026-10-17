@@ -17,11 +17,11 @@ data:
 
 ## Overview
 
-Kuethori is the village at the head of [[place-klhrkthrgap|The Kuethori Gap]], where the water of [[place-klhrlake|The Bowl Lake]] leaves the interior. It stands on the southern lakeshore at the lip of the gorge, a line of stone houses on pilings along the last quiet water, with the gorge wall closing the view at the far end. [[affiliation-lineagekuethori|The Lineage Kuethori]] (swift current) that holds the gap lives here, and the village carries the lineage's name.
+Kuethori is the village at the head of [[place-klhrkthrgap|the Kuethori Gap]], where the water of [[place-klhrlake|the Bowl Lake]] leaves the interior. It stands on the southern lakeshore at the lip of the gorge, a line of stone houses on pilings along the last quiet water, with the gorge wall closing the view at the far end. [[affiliation-lineagekuethori|The lineage Kuethori]] (swift current) that holds the gap lives here, and the village carries the lineage's name.
 
 ## The Holding
 
-The Kuethori hold the gorge from the outlet to the foot of [[place-klhrring|The Ring]], with the ledge road along its wall. At the head of the gap a work of [[lore-theithari|The Ithari]] lies across the riverbed, a long low swell of gray stone over which the water slides smooth, and the Kuethori tend it jointly with the custodians of [[place-mirthaan|Mirthaan]]. The work holds the lake to its level, and the Kuethori have held the work since the lineage's memory begins. Below the gorge the river reaches the sea through mangrove and marsh, at a mouth where no port stands and none has stood, and the lineage does not go down it.
+The Kuethori hold the gorge from the outlet to the foot of [[place-klhrring|the Ring]], with the ledge road along its wall. At the head of the gap a work of [[lore-theithari|the Ithari]] lies across the riverbed, a long low swell of gray stone over which the water slides smooth, and the Kuethori tend it jointly with the custodians of [[place-mirthaan|Mirthaan]]. The work holds the lake to its level, and the Kuethori have held the work since the lineage's memory begins. Below the gorge the river reaches the sea through mangrove and marsh, at a mouth where no port stands and none has stood, and the lineage does not go down it.
 
 ## The Failing
 
@@ -29,7 +29,7 @@ Of the great lineages of the island, the Kuethori stand to lose the most by the 
 
 ## What Is Seen from It
 
-The lake lies behind the village, open and still, with [[place-klhrmassif|The Massif]] in it. Ahead the gorge walls close in, wet and hung with fern, and a slot of sea and sky shows at the far end.
+The lake lies behind the village, open and still, with [[place-klhrmassif|the Massif]] in it. Ahead the gorge walls close in, wet and hung with fern, and a slot of sea and sky shows at the far end.
 
 ## The Cost of Reaching It
 

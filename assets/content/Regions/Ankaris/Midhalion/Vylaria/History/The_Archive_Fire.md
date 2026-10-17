@@ -46,7 +46,7 @@ data:
         - which of the Republic's rolls were lost, and which had been copied out elsewhere
 ---
 
-In The Archive Fire, a third-year scribe of [[affiliation-imprlscrblgld|The Imperial Scribal Guild]], set to indexing the archive, is taught the rule on his first morning: "Nothing on these shelves is older than the year the old archive burned. If a citation says otherwise, it is a copy, and your first duty is to say whose."
+A third-year scribe of [[affiliation-imprlscrblgld|the Imperial Scribal Guild]], set to indexing the archive, is taught the rule on his first morning: "Nothing on these shelves is older than the year the old archive burned. If a citation says otherwise, it is a copy, and your first duty is to say whose."
 
 ## The Fire
 
@@ -56,7 +56,7 @@ The cause was never established, and the question was never put in public. A hou
 
 ## The Guild
 
-The Imperial Scribal Guild had been chartered in the first century of the [[affiliation-vylarinmpr|Vylarian Empire]] to write the Empire's documents. After the fire the Empire gave it the custody of what was written next. The archive the Guild keeps in [[place-orzara|Orzara City]] begins in 318, and every original in it was written after the fire. The Guild keeps provincial archives at each chapterhouse as well, and many of the copies by which the Republic is now read were made from those. The Guild's charter is renewed by imperial edict in the eighty-third year of the present dynasty, about 489 AF.
+The Imperial Scribal Guild had been chartered in the first century of the [[affiliation-vylarinmpr|Empire]] to write the Empire's documents. After the fire the Empire gave it the custody of what was written next. The archive the Guild keeps in [[place-orzara|Orzara]] begins in 318, and every original in it was written after the fire. The Guild keeps provincial archives at each chapterhouse as well, and many of the copies by which the Republic is now read were made from those. The Guild's charter is renewed by imperial edict in the eighty-third year of the present dynasty, about 489 AF.
 
 ## What It Left
 

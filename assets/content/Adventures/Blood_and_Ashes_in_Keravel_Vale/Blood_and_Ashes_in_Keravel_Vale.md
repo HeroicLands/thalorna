@@ -17,11 +17,11 @@ data:
 
 ## Teaser
 
-In Blood and Ashes in Keravel Vale, [[place-ceravelvale|Keravel Vale]], a prosperous region of manorial estates and thriving villages, has come under siege—not by armies, but by brigands. Once scattered bands of highwaymen have united under a cunning leader, disrupting trade and plundering travelers across the Vale. [Tarlas al Pélanvri na Belsaren]{.name data-type="being/npc"}, Lord of [[place-belsaren|Belsaren]], has been tasked with eliminating the threat. Yet rumors persist that the brigands may have powerful allies, perhaps even tied to the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], the enemy land to the southeast. Adventurers are summoned to confront the bandits, but in a land rife with intrigue and shifting loyalties, their task may reveal dangers far greater than mere outlaws.
+In Blood and Ashes in Keravel Vale, [[place-ceravelvale|Keravel Vale]], a prosperous region of manorial estates and thriving villages, has come under siege—not by armies, but by brigands. Once scattered bands of highwaymen have united under a cunning leader, disrupting trade and plundering travelers across the Vale. [Tarlas al Pélanvri na Belsaren]{.name data-type="being/npc"}, Lord of [[place-belsaren|Belsaren]], has been tasked with eliminating the threat. Yet rumors persist that the brigands may have powerful allies, perhaps even tied to [[affiliation-kingdmtrvn|Tarvénia]], the enemy land to the southeast. Adventurers are summoned to confront the bandits, but in a land rife with intrigue and shifting loyalties, their task may reveal dangers far greater than mere outlaws.
 
 ## Campaign Summary
 
-The campaign focuses on the power struggles within the Vale of Keravel, where [Thárion al Dracaen]{.name data-type="being/npc"}, a deposed noble-turned-bandit, must be defeated. However, this is only the surface conflict. [Kilan Ilovrel na Ilovren]{.name data-type="being/npc"}, a secret sympathizer of [[affiliation-blackflame|The Black Flame]], manipulates events for his own gain, seeking a powerful Black Flame artifact—the [[scenario-maulgashng|Maul of Gashang]]—hidden in [[place-bloodhills|The Blood Hills]] east of Belsaren.
+The campaign focuses on the power struggles within the Vale of Keravel, where [Thárion al Dracaen]{.name data-type="being/npc"}, a deposed noble-turned-bandit, must be defeated. However, this is only the surface conflict. [Kilan Ilovrel na Ilovren]{.name data-type="being/npc"}, a secret [[affiliation-blackflame|Black Flame sympathizer]], manipulates events for his own gain, seeking a powerful Black Flame artifact—the [[scenario-maulgashng|Maul of Gashang]]—hidden in [[place-bloodhills|the Blood Hills]] east of Belsaren.
 
 What begins as a straightforward bandit-hunting job gradually reveals layers of political manipulation, religious conspiracy, and ancient evil. The adventurers are drawn from mercenary work into noble intrigue and finally into a confrontation with forces older and darker than any of the human factions involved.
 
@@ -57,7 +57,7 @@ With the bandits defeated, evidence points to Kilan's manipulation. The adventur
 
 ### [[scenario-firsbldhls|Part 3: The Fires of the Blood Hills]]
 
-The adventurers venture into the cursed Blood Hills, navigate treacherous terrain and Black Flame ambushes, enter the hidden shrine with its deadly traps, and confront the V'hir demon guardian. The campaign culminates in a moral choice: claim the Maul of Gashang, destroy it, or surrender it to an authority of [[affiliation-sacredforge|The Sacred Forge]]. Each path carries consequences.
+The adventurers venture into the cursed Blood Hills, navigate treacherous terrain and Black Flame ambushes, enter the hidden shrine with its deadly traps, and confront the V'hir demon guardian. The campaign culminates in a moral choice: claim the Maul of Gashang, destroy it, or surrender it to a [[affiliation-sacredforge|Sacred Forge authority]]. Each path carries consequences.
 
 ## Key Themes
 

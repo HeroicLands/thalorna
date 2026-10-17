@@ -361,7 +361,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Vrithorv Flameheart stands 6'0" with a powerful, barrel-chested frame, weighing around 210 pounds. His tanned skin is deeply weathered and marked with faint burn scars that trace patterns across his forearms and hands. His brown hair is cropped short and singed at the edges, and his amber eyes burn with an unsettling intensity. His features are blunt and aggressive, with a broad, flat nose, a heavy jaw, thick brows, and a wide mouth set in a perpetual snarl or grin—it is often hard to tell which. His skin radiates an unnatural warmth that others can feel from paces away. Vrithorv wears blackened leather armor reinforced with iron studs, scorched and pitted from proximity to flame. A heavy warhammer hangs from his belt, its head discolored from heat, and his cloak is made from the hide of some great beast, charred at the hems.
+Vrithorv stands 6'0" with a powerful, barrel-chested frame, weighing around 210 pounds. His tanned skin is deeply weathered and marked with faint burn scars that trace patterns across his forearms and hands. His brown hair is cropped short and singed at the edges, and his amber eyes burn with an unsettling intensity. His features are blunt and aggressive, with a broad, flat nose, a heavy jaw, thick brows, and a wide mouth set in a perpetual snarl or grin—it is often hard to tell which. His skin radiates an unnatural warmth that others can feel from paces away. Vrithorv wears blackened leather armor reinforced with iron studs, scorched and pitted from proximity to flame. A heavy warhammer hangs from his belt, its head discolored from heat, and his cloak is made from the hide of some great beast, charred at the hems.
 
 # Dossier {#dossier}
 

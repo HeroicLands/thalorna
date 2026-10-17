@@ -9,7 +9,7 @@ data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 Kind
-: Animal-kin, of [[lore-thekindred|The Kindred]]
+: Animal-kin, of [[lore-thekindred|the Kindred]]
 
 Seat
 : [[place-drenavrspn|The Drenavar Spine]]
@@ -23,7 +23,7 @@ Posture
 Met through
 : [[skill-tipelsprt|Timel Spirit Power]]
 
-Timel, the Hawk of the Spine, holds the high air over the Drenavar Spine and the crags its hawks nest in. Of the named
+Timelholds the high air over the Drenavar Spine and the crags its hawks nest in. Of the named
 animal-kin he is the most distant: he does not deal with the tribes at their lodges, he is not
 addressed at the hearth, and he is met by going up.
 

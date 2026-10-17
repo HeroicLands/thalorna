@@ -21,7 +21,7 @@ routes their grandfathers used.
 Every one of those routes now runs through [[place-ravenmoor|Ravenmoor]] first. Greywater hulls
 bound for the mainland must call at the Dúnavarren capital to be inspected before they may leave, and
 must call again on the way home; Greywater regards this as an imposition, has regarded it so for
-generations, and complies without exception. The town's opinion of the [[affiliation-dunavarsynod|Dúnavarre Synod]] is unprintable and entirely
+generations, and complies without exception. The town's opinion of the [[affiliation-dunavarsynod|Synod]] is unprintable and entirely
 private.
 
 ## The Water

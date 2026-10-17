@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [byzariargn], packFolder: byzaria}
 
 ## Overview
 
-In Thessalon the harbormaster decides which ships sail. Thessalon is a harbor of the [[place-byzariargn|Bizaria Region]], and like the other harbors of that coast it is run day to day by its harbormaster, a bureaucrat whose office decides which ships are fit to sail, which need repair and who gets the work of repairing them.
+In Thessalon the harbormaster decides which ships sail. Thessalon is a harbor of [[place-byzariargn|Bizaria]], and like the other harbors of that coast it is run day to day by its harbormaster, a bureaucrat whose office decides which ships are fit to sail, which need repair and who gets the work of repairing them.
 
 ## The Harbormaster's Favor
 

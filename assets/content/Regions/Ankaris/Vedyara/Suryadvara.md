@@ -18,7 +18,7 @@ data:
   packFolder: vedyara
 ---
 
-**Suryadvara** is the greatest of the northern passes and the only one whose season is long enough to be called a season. It leaves the terraces beneath the walls of [[place-suryagarha|Suryagarha]], climbs the western flank of [[place-suryashkhr|Suryashikhara]], and twenty days above the fortress reaches the fork where the road divides: north for the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn Desert Region]] and **[[lore-celestialroad|The Celestial Road]]** beyond, north-east by the longer branch for the western frontier of the [[place-tantsouregin|Tantsou Region]]. From the fork it is thirty days to either end.
+**Suryadvara** is the greatest of the northern passes and the only one whose season is long enough to be called a season. It leaves the terraces beneath the walls of [[place-suryagarha|Suryagarha]], climbs the western flank of [[place-suryashkhr|Suryashikhara]], and twenty days above the fortress reaches the fork where the road divides: north for the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn Desert Region]] and **[[lore-celestialroad|The Celestial Road]]** beyond, north-east by the longer branch for the western frontier of [[place-tantsouregin|Tantsou]]. From the fork it is thirty days to either end.
 
 Three caravans in four that cross the wall in any year cross here.
 
@@ -38,5 +38,5 @@ The north-eastern branch has carried a Tantsou community down into Suryagarha fo
 
 ## See Also
 
-- [[place-suryagarha|Suryagarha]] · [[place-suryashkhr|Suryashikhara]] · [[place-sthrnwall|The Southern Wall]]
-- [[affiliation-vindhyalay|Shikharalaya]] · [[affiliation-osketguides|The Osket]] · [[place-pssshrines|The Pass-Shrines]]
+- [[place-suryagarha|Suryagarha]] · [[place-suryashkhr|Suryashikhara]] · [[place-sthrnwall|the Southern Wall]]
+- [[affiliation-vindhyalay|Shikharalaya]] · [[affiliation-osketguides|the Osket]] · [[place-pssshrines|the Pass-Shrines]]

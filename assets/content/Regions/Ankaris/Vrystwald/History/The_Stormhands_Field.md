@@ -52,7 +52,7 @@ The Stormhand's Field is the story the [Compact-Hall]{.name data-type="place/str
 
 ## The Contract
 
-The hill of [[place-falkensten|Falkenstein]] commands the easiest crossing between the [[place-nrdlndsrgn|Nordlands Region]] and the western forest of [[place-falkhaven|Falkhaven]], and whoever holds it decides who moves between the two peoples' country. Nordmal expeditions had reached its slopes more than once and Varokh counter-raids had answered from them just as often. About 692 a jarl of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], whose name the Hall does not say, signed the largest company [[affiliation-malldbndlg|Málalidabandalag]] had ever signed to settle it: the Stormhand Brotherhood, to take the hill, hold the crossing and burn the villages that fed it.
+The hill of [[place-falkensten|Falkenstein]] commands the easiest crossing between the [[place-nrdlndsrgn|Nordlands]] and the western forest of [[place-falkhaven|Falkhaven]], and whoever holds it decides who moves between the two peoples' country. Nordmal expeditions had reached its slopes more than once and Varokh counter-raids had answered from them just as often. About 692 a jarl of [[affiliation-kngdmnrdhm|Nordheim]], whose name the Hall does not say, signed the largest company [[affiliation-malldbndlg|the Compact]] had ever signed to settle it: the Stormhand Brotherhood, to take the hill, hold the crossing and burn the villages that fed it.
 
 ## The Week in the Forest
 
@@ -64,7 +64,7 @@ Half the company died in the valley. The muster took most of the rest alive, whi
 
 - **Falkenstein's watch.** The hill fort has been manned in every season since, and its War Chief's word carries further inside its timber ring than any War Chief's in the forest.
 - **The Hall's caution.** The Compact tells the story to every new captain, and a company that signs to take ground in Vristwald signs knowing what the Stormhand found there.
-- **The ransom.** The largest the forest ever took, and the reason the Nordmal halls of [[place-nalthmark|Nalthmark]] still say, sourly, that the Varokh are reasonable people to lose to.
+- **The ransom.** The largest the forest ever took, and the reason the Nordmal halls of the [[place-nalthmark|Nalthmark]] still say, sourly, that the Varokh are reasonable people to lose to.
 - **The valley.** A wooded valley a week inside the frontier with rusted mail in its leaf-mould and nothing else; the Varokh treat it as ordinary ground, because it is.
 
 ## See Also

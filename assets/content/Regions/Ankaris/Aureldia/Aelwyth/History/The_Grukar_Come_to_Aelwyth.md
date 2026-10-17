@@ -56,15 +56,15 @@ In The Grukar Come to Aelwyth, nobody on [[place-aelwyth|Aelwyth]] remembers the
 
 ## The Third of the Island
 
-The faction that came over about 20 BF was small enough that the crews took it for rats, and it landed on a coast with a great deal of ground that nobody held. The island's good land was settled, and the [[lore-pelwarpepl|Pelwar People]] who farmed it lived in the river valleys and on the open uplands. What lay between them was deep forest, bog and moor that no one had troubled to plow. The newcomers spread into it as their kind do: a tribe forms around an Ahk, outgrows its ground, and sheds another. Within a century the empty third of Aelwyth was theirs in the only sense a Grukar tribe holds ground, which is that nothing else lives there for long.
+The faction that came over about 20 BF was small enough that the crews took it for rats, and it landed on a coast with a great deal of ground that nobody held. The island's good land was settled, and the [[lore-pelwarpepl|Pelwar]] who farmed it lived in the river valleys and on the open uplands. What lay between them was deep forest, bog and moor that no one had troubled to plow. The newcomers spread into it as their kind do: a tribe forms around an Ahk, outgrows its ground, and sheds another. Within a century the empty third of Aelwyth was theirs in the only sense a Grukar tribe holds ground, which is that nothing else lives there for long.
 
-By the time of [[lore-kingshlwcrwn|The Crowning at Kingshollow]], when [Drethar of Kingshollow]{.name data-type="being/npc"} was crowned about 120 AF, the forest peoples of the interior and the southern woods were already at war with them.
+By the time of [[lore-kingshlwcrwn|the Crowning at Kingshollow]], when [Drethar of Kingshollow]{.name data-type="being/npc"} was crowned about 120 AF, the forest peoples of the interior and the southern woods were already at war with them.
 
 ## What the Settled Country Did
 
-The tribal peoples took the weight of it and took it for good. A society that fights an enemy it cannot finish arranges itself around the fight, and the lowlanders who call these peoples barbarians are mostly describing that arrangement. The settled realms took the edges: the frontier steadings of [[place-wyndmarch|The Wyndmarch]], the upland farms of [[place-nordfells|The Nordfells]], the forest margin of every realm whose land runs into trees. Each treats the losses as routine, a few farms a year and a patrol that does not return. The [[affiliation-kngdmldrth|Kingdom of Aldorath]] has mounted formal campaigns about a dozen times, and the chronicles of each one record a victory.
+The tribal peoples took the weight of it and took it for good. A society that fights an enemy it cannot finish arranges itself around the fight, and the lowlanders who call these peoples barbarians are mostly describing that arrangement. The settled realms took the edges: the frontier steadings of [[place-wyndmarch|the Wyndmarch]], the upland farms of [[place-nordfells|the Nordfells]], the forest margin of every realm whose land runs into trees. Each treats the losses as routine, a few farms a year and a patrol that does not return. [[affiliation-kngdmldrth|Aldorath]] has mounted formal campaigns about a dozen times, and the chronicles of each one record a victory.
 
-The [[lore-flkkhazar|Khazár Folk]] of [[place-vorgald|Vorgald]] kill Grukar without exception and without the patience they extend to anything else on the island, and the landing gave that rule a new field. The Grukar of Aelwyth had no part in [[lore-khazarturn|The Fall of Khazartúrn]], and the hatred does not ask. It is older than the landing by twenty-four centuries.
+The [[lore-flkkhazar|Khazari]] of [[place-vorgald|Vorgald]] kill Grukar without exception and without the patience they extend to anything else on the island, and the landing gave that rule a new field. The Grukar of Aelwyth had no part in [[lore-khazarturn|Khazartúrn]], and the hatred does not ask. It is older than the landing by twenty-four centuries.
 
 ## What It Left
 
@@ -77,4 +77,4 @@ The [[lore-flkkhazar|Khazár Folk]] of [[place-vorgald|Vorgald]] kill Grukar wit
 
 - [[lore-grukaraelwyth|The Grukar of Aelwyth]]—where they live and how the island lives beside them
 - [[lore-grukarapp|The Appearing of the Grukar]]—their first record, at Khazartúrn
-- [[place-pshtrwldrns|The Peshtar Wilderness]] · [[place-wyndmarch|The Wyndmarch]]
+- [[place-pshtrwldrns|The Peshtar Wilderness]] · [[place-wyndmarch|the Wyndmarch]]

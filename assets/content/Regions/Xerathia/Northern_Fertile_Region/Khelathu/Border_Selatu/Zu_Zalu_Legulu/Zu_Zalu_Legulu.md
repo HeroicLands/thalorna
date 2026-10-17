@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-**Zu-Zalu-Legulu** is the land of [[affiliation-selatzuzllgl|The Selat of Zu-Zalu-Legulu]], one of [[affiliation-borderselatu|The Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
+**Zu-Zalu-Legulu** is the land of [[affiliation-selatzuzllgl|the Selat of Zu-Zalu-Legulu]], one of [[affiliation-borderselatu|the Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 This is where the river breaks into the rapids of the first cataract, the green valley narrows to a thread and the desert closes in on both banks. The empire plants its fortress-line, its garrisons and its gateway to the south on exactly that ground.
 
@@ -38,7 +38,7 @@ The southern trade-road and the garrison drive the selat. The thin valley farmla
 ## Settlements
 
 Balehen (~24,000)
-: the selat capital, a great fortress-town commanding the river at the first cataract: a double-walled stronghold of garrison barracks, the war-temple of the [[affiliation-qeztu|Faith of Qeztu]], the toll-house and tribute-store of the southern trade, and the seat of the warden-Halzi'a. It is the empire's strongest fortress south of the capital.
+: the selat capital, a great fortress-town commanding the river at the first cataract: a double-walled stronghold of garrison barracks, the war-temple of [[affiliation-qeztu|Qeztu]], the toll-house and tribute-store of the southern trade, and the seat of the warden-Halzi'a. It is the empire's strongest fortress south of the capital.
 
 The fortress-line villages
 : garrison-posts, forts and frontier settlements of 500–5,000 people lie strung along the river and the desert flanks. Among them are [Iken]{.name data-type="place/structure"} (the river toll-fort beyond the cataract), [Mirgis]{.name data-type="place/structure"} (a double fortress on the west bank) and [[place-zinhenzalu|Zinhen-Zalu]] (the deepest garrison), with a scatter of mixed [[lore-khelathiclt|Khelathi]]-southern farm-and-trade villages along the irrigated strip.

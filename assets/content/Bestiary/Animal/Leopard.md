@@ -238,7 +238,7 @@ Something is hanging in the fork of the big fig, twelve feet up: the carcass of 
 
 # Dossier {#dossier}
 
-The Leopard is the climbing ambush cat of the river forests and hills, a hundred to two hundred pounds, hunting alone and by night. It lives in the [[place-cntrlrnfrsts|Central Rainforests]], the forest fringe of the savanna, the hills and river forests of [[place-okharisrgn|Okharis Region]] and the gorges of the Bizarian [[place-southrnmrch|Southern March]]. It is the only big cat that carries its kills into trees, hauling a carcass three times its own weight into the branches to keep it from lions and hyenas. In the river kingdoms leopard skins are the mark of priestly authority and the animal is tied to sacred feminine power and divine wrath, so it is hunted for its skin and protected by religious rule.
+The Leopard is the climbing ambush cat of the river forests and hills, a hundred to two hundred pounds, hunting alone and by night. It lives in the [[place-cntrlrnfrsts|Central Rainforests]], the forest fringe of the savanna, the hills and river forests of [[place-okharisrgn|Okharis]] and the gorges of the Bizarian [[place-southrnmrch|Southern March]]. It is the only big cat that carries its kills into trees, hauling a carcass three times its own weight into the branches to keep it from lions and hyenas. In the river kingdoms leopard skins are the mark of priestly authority and the animal is tied to sacred feminine power and divine wrath, so it is hunted for its skin and protected by religious rule.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ Leopards live alone apart from mating and rearing. A male holds fifteen to thirt
 
 ## What the Sengala Do
 
-The [Sengala]{.name data-type="affiliation/polity"}, the leopard-clan of the [[lore-nyalubaclt|Nyáluba]], are the trade-tribe on the northern margin of the Nyáluba lands, at the southern edge of the rain-forest, and the [[lore-leopardsengalaspr|Leopard Spirit]] is their clan's ancestral presence and not only an animal. Their parties are bound by the observances of the [[affiliation-nyalbleop|Leopard Totem]]. In the forest the hidden city of [[place-lpdkngcrt|The Leopard King's Court]] is said to be ruled by a king who takes the cat's shape at night. In [[place-aukhelathrgq|Au'Khelathu Region]] a priestess wears a leopard-skin robe. Villages keep stock penned at night, and a hunter who kills a leopard must give its skin to the headman.
+The [Sengala]{.name data-type="affiliation/lineage"}, the leopard-clan of the [[lore-nyalubaclt|Nyáluba]], are the trade-tribe on the northern margin of the Nyáluba lands, at the southern edge of the rain-forest, and the [[lore-leopardsengalaspr|leopard guide]] is their clan's ancestral presence and not only an animal. Their parties are bound by the observances of the [[affiliation-nyalbleop|Leopard Totem]]. In the forest the hidden city of [[place-lpdkngcrt|the Leopard King's Court]] is said to be ruled by a king who takes the cat's shape at night. In [[place-aukhelathrgq|Au'Khelathu]] a priestess wears a leopard-skin robe. Villages keep stock penned at night, and a hunter who kills a leopard must give its skin to the headman.
 
 ## Signs
 

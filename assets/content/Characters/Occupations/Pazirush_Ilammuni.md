@@ -396,9 +396,9 @@ Pazirush Ilammuni is a 29-year-old man who stands 5'7" tall and is lean and wiry
 
 # Dossier {#dossier}
 
-Pazirush Ilammuni is a domestic servant of [[place-pashinar|Pashinar]], the caravan town on the largest island of the [[place-taruzelrgn|Taruzel Region]], facing the mainland crossing, a [[lore-taruzelianclt|Taruzelian]] freeman who is footman in the house of one of the town's factors and keeps a family on it.
+Pazirush Ilammuni is a domestic servant of [[place-pashinar|Pashinar]], the caravan town on the largest island of [[place-taruzelrgn|Taruzel]], facing the mainland crossing, a [[lore-taruzelianclt|Taruzelian]] freeman who is footman in the house of one of the town's factors and keeps a family on it.
 
-Pazirush went into service at fourteen because his father's stall in the bazaar could not feed six, and he has served for fifteen years in the house of a factor of Pashinar, who lends, stores and brokers for the merchants who pass through and are gone within the week. Pazirush keeps the door, waits at table and attends the guests, [[lore-dunhariclt|Dunhari]] caravan-masters, [[lore-vedyariclt|Vedyari]] brokers and Taruzelian factors, with a quickness and a courtesy that the guests remark on and the master takes as his due. He hears everything a footman hears, and forgets it, which is the whole of the trade. He sends most of his wage to his mother and sisters in the bazaar quarter, and keeps back what he can toward a house of his own, a caravanserai's stable-yard or a stall in the cloth market.
+Pazirush went into service at fourteen because his father's stall in the bazaar could not feed six, and he has served for fifteen years in the house of a factor of Pashinar, who lends, stores and brokers for the merchants who pass through and are gone within the week. Pazirush keeps the door, waits at table and attends the guests, [[lore-dunhariclt|Dunhari]] caravan-masters, [[lore-vedyariclt|Vedyaran]] brokers and Taruzelian factors, with a quickness and a courtesy that the guests remark on and the master takes as his due. He hears everything a footman hears, and forgets it, which is the whole of the trade. He sends most of his wage to his mother and sisters in the bazaar quarter, and keeps back what he can toward a house of his own, a caravanserai's stable-yard or a stall in the cloth market.
 
 ## Psyche
 

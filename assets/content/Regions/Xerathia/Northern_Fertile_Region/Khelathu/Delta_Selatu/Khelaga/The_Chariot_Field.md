@@ -14,13 +14,13 @@ data:
   packFolder: regkhsite
 ---
 
-"We do not moor on that bank," a boatman at the water-stair of [[place-khelaga|Khelaga]] tells a passenger, and says no more until the town is behind them. The bank is the western shore of the western channel, a short way below the apex where the river first divides, and the ground behind it is The Chariot Field.
+"We do not moor on that bank," a boatman at the water-stair of [[place-khelaga|Khelaga]] tells a passenger, and says no more until the town is behind them. The bank is the western shore of the western channel, a short way below the apex where the river first divides, and the ground behind it is the Chariot Field.
 
 It is a _zelalgit_ (a thin blood-field, "the place of [Algit]{.name data-type="being/creature"}, the Devourer of the Dead"), the third in Khelathi memory and the only one of the three that kills. The Khelathi call the ground made by a battle left unread a _zelqezat_, and a thin one takes the Devourer's name because the things that come out of it hunt the living as they hunt the dead.
 
 ## How It Was Made
 
-In 2487 ST (377 AF) the chariot corps met a Vylarian army on the flat ground below the town ([[lore-vylconquest|The Vylarian Conquest]]). The corps broke against the legions' line and its dead lay where they fell, the sons of the military aristocracy with their commander and their king, because the army held the field and the families were not let through to read the names. The Vylarians buried their own in a pit beside them without the rite that places a Vylarian in the keeping of [[lore-selmorosdty|Sélmoros]]. Both sets of dead went unreceived.
+In 2487 ST (377 AF) the chariot corps met a Vylarian army on the flat ground below the town ([[lore-vylconquest|the Vylarian Conquest]]). The corps broke against the legions' line and its dead lay where they fell, the sons of the military aristocracy with their commander and their king, because the army held the field and the families were not let through to read the names. The Vylarians buried their own in a pit beside them without the rite that places a Vylarian in the keeping of [[lore-selmorosdty|Sélmoros]]. Both sets of dead went unreceived.
 
 ## What Is There
 
@@ -41,7 +41,7 @@ A Reading held at the edge for the unnamed quiets the field for the night it is 
 
 ## Hooks
 
-- **The Vylarian request.** An embassy wants its dead raised for an honorable burial, and the court wants the price to be the [[affiliation-mtrrchybth|Matriarchy of Bethua]]. The priests of the [[affiliation-selmoros|Faith of Sélmoros]] who would place the dead in the god's keeping would quiet one bank, and not the other.
+- **The Vylarian request.** An embassy wants its dead raised for an honorable burial, and the court wants the price to be [[affiliation-mtrrchybth|Bethua]]. The priests of [[affiliation-selmoros|Sélmoros]] who would place the dead in the god's keeping would quiet one bank, and not the other.
 - **The second bank.** A chariot heir followed the second bank and came back at dawn in the same reach, changed, and will not say who stood on it.
 - **The lamp-lit shapes.** A family of the corps swears it saw its son's name written on the water, a name the Reading never entered.
 

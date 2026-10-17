@@ -59,7 +59,7 @@ data:
         - whether Sálenda was asked or only sung to
 ---
 
-The Pact at the Lowest Pool is remembered in the rules an Áelendan child learns about [[place-longstair|The Long Stair]] in order, the first being that nobody climbs it by daylight. The rules are older than any lowland kingdom, and the people who teach them can say who gave them and on what morning.
+The Pact at the Lowest Pool is remembered in the rules an Áelendan child learns about [[place-longstair|the Long Stair]] in order, the first being that nobody climbs it by daylight. The rules are older than any lowland kingdom, and the people who teach them can say who gave them and on what morning.
 
 ## The Asking
 
@@ -67,15 +67,15 @@ At dusk on the day after he carried his son out, [Dhargan]{.name data-type="bein
 
 He told her that he had herded, and that what is driven goes where it is driven while what knows a voice comes when it is called. The people had been driven a long way, he said, and he would rather be called in or not come in at all. He asked her to say what the wood needed and what it would not bear, and he said he would sit until he knew. She told him. The work was to keep the wood: to learn each tree, path and pool and the rule of each, as a herder learns the rule of each beast; to stand at the thin places and turn back what crossed, by hand or song or fire; to leave the silver birch standing. The lore was to be kept in mouths and not in stone, since a thing kept in stone is kept as the dead are, and one child was to be chosen to hold it whole. She gave him a name in the Sinale tongue, for how he had sat, and said it would be told at the end.
 
-Dhargan went down, and the paths stayed straight behind him, which the [[lore-flksinale|Sinale Folk]] had not done for any human before.
+Dhargan went down, and the paths stayed straight behind him, which the [[lore-flksinale|Sinale]] had not done for any human before.
 
 ## The Falls
 
-The people did not move on. They buried their dead under a cairn by the road, found a high still valley, and built [[place-eshalshldg|Ésalosa Lodge]] there in oak and stone, with no birch. In a summer some years later the children found the seven falls in a gorge of [[place-drenavrspn|The Drenavar Spine]], and one boy climbed them by day and slipped at the fourth. The pool kept him. No rope, no call and no diving brought him back.
+The people did not move on. They buried their dead under a cairn by the road, found a high still valley, and built [[place-eshalshldg|Ésalosa]] there in oak and stone, with no birch. In a summer some years later the children found the seven falls in a gorge of [[place-drenavrspn|the Drenavar Spine]], and one boy climbed them by day and slipped at the fourth. The pool kept him. No rope, no call and no diving brought him back.
 
 [Nela]{.name data-type="being/npc"} went up and sat and asked. Haulera told her what the Stair is: seven falls and one water, loudest in spring. The offering is made at the lowest pool at first light, in silence, and it is a thing the giver made and would miss. Nobody fishes above the third fall, nobody swims, and nobody climbs by day. Haulera said no more then and has said no more since, and the answer to the question of why is the one she gave, which is _not in the sun_.
 
-That spring the shaman [Silor]{.name data-type="being/npc"} went down to the lowest pool before light and left a horn he had carved, which he chose because he would miss it. Then he sang the pact. The song was the band's own, in the old forms and the people's own tongue, with the Sinale names set in it and said half wrong. The Sinale stood apart from it, since it was not theirs to make or hear. The river-mother [[lore-salendaspr|Sálenda of the Long Stair]] answered Silor, and what the land said back he took in his head.
+That spring the shaman [Silor]{.name data-type="being/npc"} went down to the lowest pool before light and left a horn he had carved, which he chose because he would miss it. Then he sang the pact. The song was the band's own, in the old forms and the people's own tongue, with the Sinale names set in it and said half wrong. The Sinale stood apart from it, since it was not theirs to make or hear. The river-mother [[lore-salendaspr|Sálenda]] answered Silor, and what the land said back he took in his head.
 
 ## The Watch
 
@@ -86,15 +86,15 @@ Each spring thereafter he came to the wood's edge and sat, and Haulera went out 
 ## What It Left
 
 - **The Long Stair's rules,** taught to every child in order, and the offering made at the lowest pool.
-- **The [[affiliation-alndnwrdns|Áelendan Wardens]].** The watch on the fog-hollow is the first thing the order keeps, and its charge grew from the hollow to the passes and the groves ([[affiliation-alndnwrdns|The Áelendan Wardens]]).
+- **The [[affiliation-alndnwrdns|Wardens]].** The watch on the fog-hollow is the first thing the order keeps, and its charge grew from the hollow to the passes and the groves ([[affiliation-alndnwrdns|The Áelendan Wardens]]).
 - **The Tradition Keepers.** Nela is counted the first, and the lore is held by one chosen child and sung, and never written.
-- **The rule that a pact is asked for.** The [[lore-aelendnppl|Áelendan People]] hold that the land is not taken and not earned, and that a people may sit at its edge and ask.
+- **The rule that a pact is asked for.** The [[lore-aelendnppl|Áelendan]] hold that the land is not taken and not earned, and that a people may sit at its edge and ask.
 - **Dhargan's cairn and its birch.** The tree is old and silver, the Sinale visit it as they visit no other human place, and no one knows where under the stone he lies.
 
 ## See Also
 
 - [[lore-theasking|The Asking]]—the lay that tells the pact
 - [[place-longstair|The Long Stair]] · [[lore-salendaspr|Sálenda of the Long Stair]]
-- [[affiliation-alndnwrdns|The Áelendan Wardens]] · [[lore-aelendnppl|The Áelendan People]]
+- [[affiliation-alndnwrdns|The Áelendan Wardens]] · [[lore-aelendnppl|the Áelendan People]]
 - [[lore-nelgancross|The Crossing of Nelgan]]—how the band came to the wood's edge
 - [[lore-blacksnow|The Black Snow]]—the pact tested

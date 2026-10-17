@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: k
 
 A caravan sees Jilaq two nights before it will be nearest to it, and it sees it lit. On the horizon to the north, low and steady, a row of yellow points stands over the dunes, as even as a necklace, and the camels lift their heads toward it. The guide does not turn the string. He has already turned it. The road leaves its line at the last cairn and swings south, and it stays south for three days, and nobody who has made the crossing before asks why.
 
-**Jilaq**, "the lantern" in the [[skill-sowideslng|Sovidur Language]], was the chief city of [[lore-towercities|The Tower Cities]], the Tower League: a ring wall of baked brick a mile across, a dry harbor of caravan yards, the league's counting-house, and a dozen light-towers, the tallest two hundred feet. The towers still stand. The lamp-chambers are black and empty, and on most nights nothing burns in them that a person could carry a flame to.
+**Jilaq**, "the lantern" in [[skill-sowideslng|Sovidur]], was the chief city of [[lore-towercities|the Tower Cities]], the Tower League: a ring wall of baked brick a mile across, a dry harbor of caravan yards, the league's counting-house, and a dozen light-towers, the tallest two hundred feet. The towers still stand. The lamp-chambers are black and empty, and on most nights nothing burns in them that a person could carry a flame to.
 
 ## How It Was Made
 

@@ -17,19 +17,19 @@ sohl:
   flags: {"thalorna": {script_family: Logographic}}
 ---
 
-The Qalezu Script is what happened when the empire's paperwork outgrew its priesthood. Roughly eight centuries ago the scribes of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] cut the seven hundred signs of [[skill-khelthzscrpt|Khelathi-zethu Script]] down to about a hundred, ran them together with ligatures for the common sequences, and learned to write them with a reed at speed. It is the same language underneath and a different skill entirely to read. Queen [Gith'el'Retha I]{.name data-type="being/npc"} sanctioned the cursive as the hand of the bureaus ([[lore-peopleshand|The People's Hand]]).
+Qalezu is what happened when the empire's paperwork outgrew its priesthood. Roughly eight centuries ago the scribes of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] cut the seven hundred signs of [[skill-khelthzscrpt|Khelathi-zethu Script]] down to about a hundred, ran them together with ligatures for the common sequences, and learned to write them with a reed at speed. It is the same language underneath and a different skill entirely to read. The queen [Gith'el'Retha I]{.name data-type="being/npc"} sanctioned the cursive as the hand of the bureaus ([[lore-peopleshand|the People's Hand]]).
 
 A character needs **both** Qalezu and [[skill-khelathlng|Khelathi Language]]; the people's register admits far more of the spoken vernacular than the sacred script does, which is one reason the priesthood regards it as a corruption.
 
 ## What it is for
 
-Everything that moves. Tax rolls and grain receipts, the tally-scribes' sealed barge manifests, land surveys, court pleadings, private letters, school exercises, marriage settlements, the funerary paperwork that is not itself sacred. Papyrus grows on the river and is exported by the bale, so Au'Khelathu writes more per head than any other civilization on [[place-worldthlrn|The World of Thalorna]]—and almost all of it in Qalezu.
+Everything that moves. Tax rolls and grain receipts, the tally-scribes' sealed barge manifests, land surveys, court pleadings, private letters, school exercises, marriage settlements, the funerary paperwork that is not itself sacred. Papyrus grows on the river and is exported by the bale, so Au'Khelathu writes more per head than any other civilization on [[place-worldthlrn|Thalorna]]—and almost all of it in Qalezu.
 
-Every document carries a regnal date and often [[lore-qettelgu|The Qet Telgu]] era-count beside it, and every selat has an **Overseer of Scribes** whose office is to make sure the two agree.
+Every document carries a regnal date and often [[lore-qettelgu|the Qet Telgu]] era-count beside it, and every selat has an **Overseer of Scribes** whose office is to make sure the two agree.
 
 ## The mercantile hand
 
-In the last century or two, merchants and reforming scholars have pushed a further reduction—a streamlined hand of twenty-four to thirty signs, near enough to a true alphabet that its partisans call it one. It is not standard, it is not taught in the temple schools, and it is spreading anyway, mostly in [[affiliation-deltaselatu|The Delta Selatu]] and along the Bethuan trade routes where [[affiliation-bthntrdhss|The Bethuan Trade-Houses]] want something a foreign factor can be taught in a season.
+In the last century or two, merchants and reforming scholars have pushed a further reduction—a streamlined hand of twenty-four to thirty signs, near enough to a true alphabet that its partisans call it one. It is not standard, it is not taught in the temple schools, and it is spreading anyway, mostly in [[affiliation-deltaselatu|the Delta]] and along the Bethuan trade routes where [[affiliation-bthntrdhss|the Trade-Houses]] want something a foreign factor can be taught in a season.
 
 ## Who has it
 

@@ -418,7 +418,7 @@ sohl:
 
 ![[zenskpkt|Ghofa Kepikot]]{float=top-left}
 
-Ghofa Kepikot stands 5'7" tall with a light build. She has fair freckled skin, auburn hair, and green eyes. Her features include a narrow face, a hawkish nose, a sharp jawline, full lips, expressive brows, and sculpted cheeks. She has a tattoo of a bird on her forearm.
+Ghofa stands 5'7" tall with a light build. She has fair freckled skin, auburn hair, and green eyes. Her features include a narrow face, a hawkish nose, a sharp jawline, full lips, expressive brows, and sculpted cheeks. She has a tattoo of a bird on her forearm.
 
 # Dossier {#dossier}
 

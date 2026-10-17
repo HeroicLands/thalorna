@@ -419,7 +419,7 @@ Highly experienced, strong leadership skills, skilled in engineering.
 
 ## Social
 
-Wulfrád works with [[place-skathburg|Skathburg]]'s war-band on its double timber ring, its crossings and its siege craft, against [[lore-grukarfolk|Grukar Folk]] raids that come in small numbers and keep coming. His skill is valued by the village War Chief, not certified by an engineers’ guild.
+Wulfrád works with [[place-skathburg|Skathburg]]'s war-band on its double timber ring, its crossings and its siege craft, against [[lore-grukarfolk|Grukar]] raids that come in small numbers and keep coming. His skill is valued by the village War Chief, not certified by an engineers’ guild.
 
 ## Companions
 

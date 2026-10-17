@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFol
 
 **The Sarveda** is the river that copies the subcontinent's books.
 
-It rises at [[place-sarvaprbhv|Sarvaprabhava]] on the face of [[place-sthrnwall|The Southern Wall]] and runs south-east to the eastern coast. Its upper valley is defensible hill country and holds the bow-fort janapoda that trains half the archers in the [[place-vedyarargn|Vedyara Region]]; its middle valley is flat, wet, densely settled and, by a long accident of temple endowment, the copying country of the subcontinent.
+It rises at [[place-sarvaprbhv|Sarvaprabhava]] on the face of [[place-sthrnwall|the Southern Wall]] and runs south-east to the eastern coast. Its upper valley is defensible hill country and holds the bow-fort janapoda that trains half the archers in [[place-vedyarargn|Vedyara]]; its middle valley is flat, wet, densely settled and, by a long accident of temple endowment, the copying country of the subcontinent.
 
 ## The Copyists
 
@@ -20,11 +20,11 @@ The copying has consequences nobody planned. The valley speaks a regional dialec
 
 ## The Water
 
-The Sarveda is the gentlest of the four. It rises slowly, spreads where the others cut, and leaves silt instead of taking fields. The villages sit on the flood-plain itself and not back from it, which is a thing no one does on [[place-mahanadi|The Mahanodi]] and lives.
+The Sarveda is the gentlest of the four. It rises slowly, spreads where the others cut, and leaves silt instead of taking fields. The villages sit on the flood-plain itself and not back from it, which is a thing no one does on [[place-mahanadi|the Mahanodi]] and lives.
 
 Boats work it for nine hundred miles. Its river trade is small craft and short hops, where the other three carry long haulage.
 
 ## See Also
 
-- [[place-sarvaprbhv|Sarvaprabhava]] · [[place-sthrnwall|The Southern Wall]] · [[place-vedyarargn|Vedyara Region]]
-- [[place-chandrmahi|The Chandramahi]] · [[place-mahanadi|The Mahanodi]] · [[place-bharavarivr|The Bharava]]
+- [[place-sarvaprbhv|Sarvaprabhava]] · [[place-sthrnwall|the Southern Wall]] · [[place-vedyarargn|Vedyara Region]]
+- [[place-chandrmahi|The Chandramahi]] · [[place-mahanadi|the Mahanodi]] · [[place-bharavarivr|the Bharava]]

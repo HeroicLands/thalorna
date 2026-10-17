@@ -424,13 +424,13 @@ sohl:
 
 ![[grgrsfthympls|Trufios Veghekos]]{float=top-left}
 
-Trufios Veghekos stands 6'0" tall with a heavy build. He has weathered tanned skin, dark brown hair, and hazel eyes. His features include a diamond-shaped face, a hawkish nose, a pronounced chin, well-defined lips, and dark brows.
+Trufios stands 6'0" tall with a heavy build. He has weathered tanned skin, dark brown hair, and hazel eyes. His features include a diamond-shaped face, a hawkish nose, a pronounced chin, well-defined lips, and dark brows.
 
 # Dossier {#dossier}
 
 **The Shipwright's Apprenticeship**
 
-Born in the maritime city of [[place-chrysamar|Chrisamar]] to a family of modest means, Trufios showed early aptitude for mathematics and spatial reasoning. At age nine, his father apprenticed him to Master Shipwright [Sangázion the Old]{.name data-type="being/npc"}, the most celebrated shipbuilder of the coast of the [[place-byzariargn|Bizaria Region]]. For twelve years, Trufios absorbed everything—understanding timber grain and seasoning, learning to calculate displacement and hull stress, mastering the geometry of sails and balance. Sangázion recognized rare talent and pushed the boy relentlessly, holding him to impossibly high standards.
+Born in the maritime city of [[place-chrysamar|Chrisamar]] to a family of modest means, Trufios showed early aptitude for mathematics and spatial reasoning. At age nine, his father apprenticed him to Master Shipwright [Sangázion the Old]{.name data-type="being/npc"}, the most celebrated shipbuilder of the [[place-byzariargn|Bizarian coast]]. For twelve years, Trufios absorbed everything—understanding timber grain and seasoning, learning to calculate displacement and hull stress, mastering the geometry of sails and balance. Sangázion recognized rare talent and pushed the boy relentlessly, holding him to impossibly high standards.
 
 **Rising Through the Guild Ranks**
 

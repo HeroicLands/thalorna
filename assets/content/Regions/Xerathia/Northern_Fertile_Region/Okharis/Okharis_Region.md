@@ -33,7 +33,7 @@ watercourses and thickens southward until it meets the wall of the rainforest.
 The western land is fertile without canals: barley, sorghum, flax, dates and
 figs grow on rain and river water, and the open plains carry cattle and horses.
 The rains lessen moving east, and by the border with
-the [[place-bethuargn|Bethua Region]] the land is semi-arid savanna and herding country.
+[[place-bethuargn|Bethua]] the land is semi-arid savanna and herding country.
 Three cities stand above the villages—[[place-zarhanis|Zarhanis]], [[place-kaljekor|Kaljekor]] and [[place-vuthraka|Vuthraka]]—and the
 region's western edge touches the wet-coastal strip that runs the length of the
 northern shore.
@@ -57,7 +57,7 @@ in the temple-cities. Its frontier clans to
 the east pay tribute to the authorities of the [[affiliation-mtrrchybth|Matriarchy of Bethua]] in exchange for
 grazing rights, and a Khelathi attempt centuries ago to bring the eastern
 temple-cities into a tributary relationship collapsed within a generation
-([[lore-templetrib|The Tribute of the Temple-Cities]]).
+([[lore-templetrib|the Tribute of the Temple-Cities]]).
 
 ## See Also
 

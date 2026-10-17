@@ -13,12 +13,12 @@ thousand people along a seaboard of cliffs, coves and drowned river-mouths, with
 down almost to the tideline.
 
 The coast faces the open western ocean and is worked by the same cold, heavy swell that batters
-the [[place-provenzrgn|Provenzia Region]] further south. It is craggy, and the cliffs are real, but the country softens northward
+[[place-provenzrgn|Provenzia]] further south. It is craggy, and the cliffs are real, but the country softens northward
 toward [[place-lisere|Lísere]], where the cliffs give way to long shingle and sheltered inlets.
 
 ## The Sinale Coast
 
-Lirve is the reason Élavendre is what it is. The [[lore-flksinale|Sinale Folk]] keep their enclaves in
+Lirve is the reason Élavendre is what it is. The [[lore-flksinale|Sinale]] keep their enclaves in
 the deep forests here, and have since thousands of years before any human settlement—a fact the
 kingdom lives with rather than administers. Outside [[place-sorvanda|Sórvanda]] this is where the
 [[lore-aralwen|aralwain]] lie thickest: thin places, shifting paths, lights among the trees, and the
@@ -31,7 +31,7 @@ alone.
 
 - **Fish and salt.** The cold western water is rich, and the coastal towns live on it. Salt-fish is the
   region's bulk export and the least interesting thing about it.
-- **Ship timber and fine timber.** Lirve's oak and silver birch are the best in the [[place-aureldirgn|Aureldia Region]], and cutting
+- **Ship timber and fine timber.** Lirve's oak and silver birch are the best in [[place-aureldirgn|Aureldia]], and cutting
   is **licensed, limited and watched**. What is released reaches shipyards as far as the [[place-vylarianse|Vylarian Sea]]
   and commands prices that reflect the difficulty rather than the supply.
 - **Dyestuffs**—coastal lichens, shellfish purple and woad from the cleared ground behind the cliffs.

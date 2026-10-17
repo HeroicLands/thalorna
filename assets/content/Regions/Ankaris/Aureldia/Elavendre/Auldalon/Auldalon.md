@@ -24,7 +24,7 @@ and they are also the road by which trouble arrives overland.
 ## The Raiding
 
 Where [[place-lisere|Lísere]] is raided from the sea, Áuldalon is raided by land. Bands of
-[[lore-grukarfolk|Grukar]] out of the [[place-grkrhlmrgn|Grukarholm Region]], and Varokh war-parties ranging
+[[lore-grukarfolk|Grukar]] out of [[place-grkrhlmrgn|Grukarholm]], and Varokh war-parties ranging
 south out of [[place-vrystwald|Vristwald]], come down through the eastern hills—not as armies, and
 not seasonally enough to plan around comfortably, but often enough that no generation of Áuldalon has
 been without it.
@@ -39,7 +39,7 @@ has never once arrived in time.
 - **Wool and cattle**, the region's staple and its bulk export. The great drove roads run west from the
   hills down to the Éllive markets, and the droving families are a power of their own.
 - **Hill ponies**—small, sound and famously bad-tempered; Élavendre's baggage and border-patrol
-  animal, sold across the [[place-aureldirgn|Aureldia Region]].
+  animal, sold across [[place-aureldirgn|Aureldia]].
 - **Iron.** Áuldalon has no gold and no gems, and unlike [[place-sorvanda|Sórvanda]] it is permitted to dig.
   Its iron is ordinary, plentiful and entirely uncontested, and it arms the kingdom.
 - **Charcoal and timber** off the lower slopes, feeding the bloomeries.
@@ -53,7 +53,7 @@ escort whether or not they wanted one.
 Somewhere in the woods of the hills stands the ditched camp of the cohort that followed a path into them in the war of the tribute and was not seen again ([[lore-elvtribute|The Tribute of Élavendre]]). Hunters find it. A ditch, a bank and the lines of the tents are there under moss, and a hunter who goes back for a second look does not find the path he came by. The path to the camp is never the same path twice.
 
 - **A helmet.** A hunter brings back an imperial helmet that has not rusted.
-- **Antiquarians.** [[affiliation-ordoarcanis|Thordimalon]] scholars want the camp, and the [[affiliation-alndnwrdns|Áelendan Wardens]] are unwilling to give it to them.
+- **Antiquarians.** [[affiliation-ordoarcanis|Arcane Order]] scholars want the camp, and the [[affiliation-alndnwrdns|Wardens]] are unwilling to give it to them.
 
 ## Its Places
 

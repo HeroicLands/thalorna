@@ -67,7 +67,7 @@ Three of Rojai's villages are named here. The rest of the 78,000 bales comes fro
 | Kowo    | Old Sea          | Demesne      | The lord's granary at Hawu              | Shipyards and fishing |    3,100 |
 | Rounu   | Thunder Terraces | Court estate | The Emperor, through the lord's granary | Rice under Rojai      |    1,800 |
 
-The summit shrine of Rojai keeps the storm aspect of the [[affiliation-tengwouronglei|Téngwou Rong Lei]], and its Tanchéi are provisioned from the lord's villages.
+The summit shrine of Rojai keeps the storm aspect of the [[affiliation-tengwouronglei|Celestial Order]], and its Tanchéi are provisioned from the lord's villages.
 
 ## Retainers
 
@@ -79,7 +79,7 @@ The muster is 1,950 men and 60 ships. The yards at [Kowo]{.name data-type="place
 
 ## Relations
 
-For three years Henzo's silver has covered the shortfall in the court's budget, and the court is in his debt. The lord of Rojai is the rival of the [[affiliation-hojujaidmn|Hojujai Domain]], the house of the last Teng Ja: in 709 AF Shuiwojai and the [[affiliation-wojaidmn|Wojai Domain]] pressed the court not to confer the office on a regency, and the [War of the Empty Seat]{.name data-type="lore/history"} followed. The Strait bloc wants Henzo named Teng Ja. The loyalist bloc of Hojujai and the [[affiliation-muwojaidmn|Muwojai Domain]] wants the office for the Hojujai heir when he comes of age, or for nobody.
+For three years Henzo's silver has covered the shortfall in the court's budget, and the court is in his debt. The lord of Rojai is the rival of [[affiliation-hojujaidmn|Hojujai]], the house of the last Teng Ja: in 709 AF Shuiwojai and [[affiliation-wojaidmn|Wojai]] pressed the court not to confer the office on a regency, and the [War of the Empty Seat]{.name data-type="lore/history"} followed. The Strait bloc wants Henzo named Teng Ja. The loyalist bloc of Hojujai and [[affiliation-muwojaidmn|Muwojai]] wants the office for the Hojujai heir when he comes of age, or for nobody.
 
 ## The Sealed Letter
 

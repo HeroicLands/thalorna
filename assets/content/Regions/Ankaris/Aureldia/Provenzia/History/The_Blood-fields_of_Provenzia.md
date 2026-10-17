@@ -122,4 +122,4 @@ not need a name to be a blood-field.
 
 - [[lore-bloodfield|Blood-fields]]—what every people agrees a blood-field is, and the register of fields
 - [[place-provenzrgn|Provenzia Region]] · [[lore-aralwen|Aralwen]]
-- [[affiliation-selmoros|Faith of Sélmoros]] · [[affiliation-blackflame|The Black Flame]]
+- [[affiliation-selmoros|Faith of Sélmoros]] · [[affiliation-blackflame|the Black Flame]]

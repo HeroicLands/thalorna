@@ -397,7 +397,7 @@ Alvaren Graveth is a 36-year-old man who stands 6'2" tall and is broad and solid
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia Region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Alvaren Graveth is a salter.
+Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Alvaren Graveth is a salter.
 
 Alvaren is a seasoned salter who has spent decades perfecting his craft. He runs a large saltworks that supplies salt to several coastal towns. Known for his knowledge of the trade, he often tries different ways of evaporating the brine to produce salts of his own, including flavored varieties. He is respected in the community for his knowledge and often mentors younger salt workers.
 

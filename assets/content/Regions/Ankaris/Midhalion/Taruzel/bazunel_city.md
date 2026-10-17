@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [taruzelrgn], population: 150000, gover
 
 ## Overview
 
-The colorful buildings and open-air theaters of the **[Painted Harbor]{.name data-type="place/site"}** line Bazunel's waterfront, and a ship coming in sees the city's character before she ties up. Bazunel is a city of 150,000 on the southern coast of the [[place-taruzelrgn|Taruzel Region]] and the cultural heart of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]: smaller and less wealthy than [[place-besikar2|Besikar]], less martial than [[place-yamuzel2|Yamuzel]] and less cosmopolitan than [[place-qudumel2|Kudumel]], and unlike all three in the creative energy of its scholars, artists, shipwrights and dreamers. Taruzelian art, music, theater and literature flourish here, and the Confederation's finest ships are designed here, if not always built here.
+The colorful buildings and open-air theaters of the **[Painted Harbor]{.name data-type="place/site"}** line Bazunel's waterfront, and a ship coming in sees the city's character before she ties up. Bazunel is a city of 150,000 on the southern coast of [[place-taruzelrgn|Taruzel]] and the cultural heart of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]: smaller and less wealthy than [[place-besikar2|Besikar]], less martial than [[place-yamuzel2|Yamuzel]] and less cosmopolitan than [[place-qudumel2|Kudumel]], and unlike all three in the creative energy of its scholars, artists, shipwrights and dreamers. Taruzelian art, music, theater and literature flourish here, and the Confederation's finest ships are designed here, if not always built here.
 
 ## The Yards and the Academy
 
@@ -24,7 +24,7 @@ A council of merchant-princes governs Bazunel, and it is the least guild-dominat
 
 ## Money
 
-Bazunel uses the [[lore-trzlncrncy|Taruzelian Currency]], backed by Taruzelian reserves, and the Vylarian script is not honored here. See [[lore-trzlncrncy|Taruzelian Currency]].
+Bazunel uses the [[lore-trzlncrncy|Taruzelian currency]], backed by Taruzelian reserves, and the Vylarian script is not honored here. See [[lore-trzlncrncy|Taruzelian Currency]].
 
 ## See Also
 

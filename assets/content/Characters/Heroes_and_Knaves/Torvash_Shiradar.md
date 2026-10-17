@@ -410,7 +410,7 @@ sohl:
 
 ![[trvshshrdr|Torvash Shiradar]]{float=top-left}
 
-Torvash Shiradar stands 6'2" tall with a heavy build. He has tanned weathered skin, grey hair, and dark brown eyes. His features include a diamond-shaped face, a prominent nose, a strong jawline, slightly pursed lips, and dark brows. He has a scar from forehead to cheek across his left eye.
+Torvash stands 6'2" tall with a heavy build. He has tanned weathered skin, grey hair, and dark brown eyes. His features include a diamond-shaped face, a prominent nose, a strong jawline, slightly pursed lips, and dark brows. He has a scar from forehead to cheek across his left eye.
 
 # Dossier {#dossier}
 

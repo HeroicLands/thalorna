@@ -395,7 +395,7 @@ Taven Farven is a 41-year-old man who stands 6'0" tall and is broad and solidly 
 
 # Dossier {#dossier}
 
-Taven Farven is a ship's bosun of the [[place-provenzrgn|Provenzia Region]], a [[lore-provenzianclt|Provenzian]] freeman born in the eastern march who went to sea from the coast at fifteen and keeps his household inside the walls of [[place-durvalis|Durvalis]].
+Taven Farven is a ship's bosun of [[place-provenzrgn|Provenzia]], a [[lore-provenzianclt|Provenzian]] freeman born in the eastern march who went to sea from the coast at fifteen and keeps his household inside the walls of [[place-durvalis|Durvalis]].
 
 Taven is a march boy who found he preferred the sea to the levy, and a bosun is what the sea made of him. He has a rule for everything the crew handles and keeps every rule, in fair weather when it seems needless and in foul when it is the reason the ship comes home. Captains hire him because a Farven crew does what it is told at once and has never lost a man to a rotten line. When the ship lays up he goes home to Durvalis, where his wife keeps the house and his sons are growing up.
 

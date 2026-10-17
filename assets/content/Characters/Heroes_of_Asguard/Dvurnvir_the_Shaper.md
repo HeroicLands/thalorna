@@ -361,7 +361,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Dvurnvir the Shaper stands 5'7" with a thin, almost gaunt frame, weighing about 140 pounds. His pale skin has an unhealthy pallor, and his dark blonde hair is wild and uncombed, sticking out at odd angles. His green eyes have a feverish intensity, darting constantly as though tracking things invisible to others. His features are sharp and pinched, with a narrow face, a pointed nose, hollow cheeks, thin lips that move constantly in muttered calculations, and brows knit in perpetual concentration. His hands are stained with alchemical reagents in a dozen different colors, and chemical burns dot his fingers. Dvurnvir wears a stained leather apron over threadbare scholar's robes, with pouches and vials dangling from every available surface. He smells faintly of sulfur and something metallic. [The Forsaken Guardian]{.name data-type="being/creature"}—his created companion—is often lurking nearby, casting a monstrous shadow that contrasts sharply with Dvurnvir's slight form.
+Dvurnvir stands 5'7" with a thin, almost gaunt frame, weighing about 140 pounds. His pale skin has an unhealthy pallor, and his dark blonde hair is wild and uncombed, sticking out at odd angles. His green eyes have a feverish intensity, darting constantly as though tracking things invisible to others. His features are sharp and pinched, with a narrow face, a pointed nose, hollow cheeks, thin lips that move constantly in muttered calculations, and brows knit in perpetual concentration. His hands are stained with alchemical reagents in a dozen different colors, and chemical burns dot his fingers. Dvurnvir wears a stained leather apron over threadbare scholar's robes, with pouches and vials dangling from every available surface. He smells faintly of sulfur and something metallic. [The Forsaken Guardian]{.name data-type="being/creature"}—his created companion—is often lurking nearby, casting a monstrous shadow that contrasts sharply with Dvurnvir's slight form.
 
 # Dossier {#dossier}
 
@@ -391,11 +391,11 @@ Dvurnvir's understanding of the Dreadspawn is unparalleled; he can predict their
 
 **[The Wanderers of Mótefnir]{.name data-type="affiliation"}**—The scattered followers of the Maker who abandons his work, who see Dvurnvir as the most promising practitioner of Mótefnir's creative arts and supply him with rare materials and forbidden texts.
 
-**[Arkalís]{.name data-type="being/npc"} of the [[affiliation-panepistmm|Epistémion]]**—An Epistémion (the Academy of Knowledge) scholar who secretly funds Dvurnvir's research, fascinated by the practical applications of his work with the Dreadspawn despite the ethical concerns.
+**[Arkalís]{.name data-type="being/npc"} of the [[affiliation-panepistmm|Epistémion]]**—A Epistémion (the Academy of Knowledge) scholar who secretly funds Dvurnvir's research, fascinated by the practical applications of his work with the Dreadspawn despite the ethical concerns.
 
 ### Enemies
 
-[[affiliation-ordoarcanis|Thordimalon]]—The Arcane Order views Dvurnvir's unsanctioned manipulation of magical creatures as a serious threat and has dispatched _sekeroi_ (inquirers) to investigate his activities.
+The [[affiliation-ordoarcanis|Thordimalon]]—The Arcane Order views Dvurnvir's unsanctioned manipulation of magical creatures as a serious threat and has dispatched _sekeroi_ (inquirers) to investigate his activities.
 
 **[The Dreadspawn Hunters]{.name data-type="affiliation"}**—A vigilante group dedicated to destroying all Dreadspawn, who view Dvurnvir as a dangerous madman whose work creates more monsters for the world to suffer.
 

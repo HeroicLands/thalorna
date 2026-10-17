@@ -433,7 +433,7 @@ sohl:
 
 ![[rethutrthllr|Rethute Reth'el'Leru]]{float=top-left}
 
-Rethute Reth'el'Leru stands 5'7" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a high-cheekboned face, a straight narrow nose, a gentle jawline, generous lips, dark brows, and angular cheeks.
+Rethute stands 5'7" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a high-cheekboned face, a straight narrow nose, a gentle jawline, generous lips, dark brows, and angular cheeks.
 
 # Dossier {#dossier}
 

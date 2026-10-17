@@ -412,7 +412,7 @@ sohl:
 
 ![[hvlgvrvtrdmr|Hvalgvir Vetrdómr]]{float=top-left}
 
-Hvalgvir Vetrdómr stands 6'0" tall with a heavy build. He has tanned weathered skin, white hair, and grey eyes. His features include a rectangular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, and straight brows. He has a tattoo of a snake on his chest.
+Hvalgvir stands 6'0" tall with a heavy build. He has tanned weathered skin, white hair, and grey eyes. His features include a rectangular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, and straight brows. He has a tattoo of a snake on his chest.
 
 # Dossier {#dossier}
 
@@ -428,7 +428,7 @@ When his father died suddenly—struck down by fever when Hvalgvir was but twent
 
 At twenty-five, Hvalgvir took what savings he had gathered and purchased a modest building in the larger trading town of [[place-odholm|Odholm]], where the crossroads of three major roads converged. The location was well chosen, but Hvalgvir's true genius lay in his understanding of what travelers and locals alike truly needed. He built a tavern that was also a sanctuary—a place where merchant princes and common folk could break bread together, where disputes were settled over shared drink rather than steel, where lonely wanderers could for a night feel the warmth of community.
 
-For nearly three decades, the [Serpent's Hearth]{.name data-type="place/structure"} (named after his devotion to the **[[affiliation-eidgar|Faith of Eidgar]]**) has been the center of Odholm's life. Hvalgvir's ales are known throughout the kingdom; his cooking is spoken of in hushed, reverent tones; but most importantly, his establishment has become a refuge. During harsh winters, he has sheltered those with nowhere else to go. During conflicts, he has mediated between feuding families. During celebrations, his hall has echoed with the most joyful sounds any of his patrons have known.
+For nearly three decades, the [Serpent's Hearth]{.name data-type="place/structure"} (named after his devotion to [[affiliation-eidgar|Eidgar]]**) has been the center of Odholm's life. Hvalgvir's ales are known throughout the kingdom; his cooking is spoken of in hushed, reverent tones; but most importantly, his establishment has become a refuge. During harsh winters, he has sheltered those with nowhere else to go. During conflicts, he has mediated between feuding families. During celebrations, his hall has echoed with the most joyful sounds any of his patrons have known.
 
 ### The Weight of Years
 

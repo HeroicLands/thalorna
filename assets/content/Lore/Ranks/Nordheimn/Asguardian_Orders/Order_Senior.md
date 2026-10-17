@@ -14,7 +14,7 @@ The standing of Senior of a Sworn Order brings candidates to teach, heavier stat
 
 ## What This Standing Is
 
-A senior member instructs the order's candidates, holds a heavier station than a working member, and sits in the body that chooses the order's chair. [[affiliation-eidhond|The Order of the Sworn Hand]] calls him an Elder Hand, permitted to take apprentices and to strip a knight of rank on the spot; [[affiliation-gronverdir|The Green Wardens]] an Elder Guardian, warden of a more important valley; [[affiliation-ordrstrmspkrs|The Order of the Storm-Speakers]] a Storm-Captain, leading tactical actions in the field; [[affiliation-thursborn|The Giant's Children]] the Hand of the Host, leading the order's gathered brothers and instructing candidates.
+A senior member instructs the order's candidates, holds a heavier station than a working member, and sits in the body that chooses the order's chair. [[affiliation-eidhond|The Sworn Hand]] calls him an Elder Hand, permitted to take apprentices and to strip a knight of rank on the spot; [[affiliation-gronverdir|the Green Wardens]] an Elder Guardian, warden of a more important valley; [[affiliation-ordrstrmspkrs|the Storm-Speakers]] a Storm-Captain, leading tactical actions in the field; [[affiliation-thursborn|the Giant's Children]] the Hand of the Host, leading the order's gathered brothers and instructing candidates.
 
 ## How the Law Treats a Person Here
 

@@ -214,7 +214,7 @@ In the corner of the grain-store a small, wiry dog stands rigid, nose to a crack
 
 # Dossier {#dossier}
 
-The Ratter is the small hunting dog of the farms, mills and grain stores, twelve to eighteen inches tall and ten to twenty pounds, bred to go after rats and small game. It lives in the settled lands of [[place-velanthrgn|Velanthia Region]], the grain ports of [[place-heladrgn|Hellád Region]] and the river towns of [[place-vedyarargn|Vedyara Region]], kept by a miller, a baker or a granary-keeper. Its mind is on the quarry, and it is bold to fight a creature larger than itself if its owner or ground is threatened.
+The Ratter is the small hunting dog of the farms, mills and grain stores, twelve to eighteen inches tall and ten to twenty pounds, bred to go after rats and small game. It lives in the settled lands of [[place-velanthrgn|Velanthia]], the grain ports of [[place-heladrgn|the Hellad]] and the river towns of [[place-vedyarargn|Vedyara]], kept by a miller, a baker or a granary-keeper. Its mind is on the quarry, and it is bold to fight a creature larger than itself if its owner or ground is threatened.
 
 ## Presentation
 

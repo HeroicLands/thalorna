@@ -59,13 +59,13 @@ data:
         - whether the court of Meqes XI intended the loans to be repaid
 ---
 
-A trade-house factor in [[place-bethura|Bethura]] pays a bill with a Khelathi weight-piece of silver and observes, to a newly arrived clerk who has never held one, that no coin of the [[affiliation-mtrrchybth|Matriarchy of Bethua]] has ever been struck. "Ask why," the factor says. "It is a long answer, and it begins with a war."
+A trade-house factor in [[place-bethura|Bethura]] pays a bill with a Khelathi weight-piece of silver and observes, to a newly arrived clerk who has never held one, that no coin of [[affiliation-mtrrchybth|Bethua]] has ever been struck. "Ask why," the factor says. "It is a long answer, and it begins with a war."
 
 ## The War
 
 Bethua began as a daughter-settlement of the Helonic peoples, planted on the southern shore of the [[place-vylarianse|Vylarian Sea]] and governed from across the water. About 2725 ST (615 AF) it fought a war of separation from that metropole. Bethua did not fight alone, and could not have: the queen [Meqes XI]{.name data-type="being/npc"} (2710 ST to 2738 ST) underwrote the war with Khelathi gold, with engineers, and with loans.
 
-The court at [[place-galezkara|Galezkara]] had its reasons. A free Bethua on the southern shore of the sea, aligned with the empire, would keep Helonic and Vylarian ambitions in the [[place-midhalnrgn|Mídhalión Region]] divided and give the court a partner at sea without the cost of a navy. The instruments were the [[affiliation-garhalzi|Gar-Hálzi]] correspondents, the engineers of the temples, and the loans themselves.
+The court at [[place-galezkara|Galezkara]] had its reasons. A free Bethua on the southern shore of the sea, aligned with the empire, would keep Helonic and Vylarian ambitions in [[place-midhalnrgn|Mídhalión]] divided and give the court a partner at sea without the cost of a navy. The instruments were the [[affiliation-garhalzi|Gar-Hálzi]] correspondents, the engineers of the temples, and the loans themselves.
 
 ## The Rebuilding
 
@@ -75,15 +75,15 @@ The same queen chartered the guild of [[affiliation-garmelnu|Gar'Melnu]], so the
 
 ## A Century Before Taruzel
 
-The Separation of Bethua belongs to the age in which the [[affiliation-vylarinmpr|Vylarian Empire]] and its neighbors began losing provinces ([[lore-empirdclne|The Decline of the Vylarian Empire]]). Provenzia—now the [[affiliation-kngdmprvnz|Kingdom of Provenzia]]—drifted out of its empire's hands without a war and became a realm in all but name; Bethua, on the southern shore of the same sea, left its own metropole by war, and the Khelathi court lent the gold openly, as a loan, with its engineers walking the capital's streets. About a century later the court repeated the arrangement for the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], in secret and under the name of humanitarian commerce.
+The separation of Bethua belongs to the age in which the [[affiliation-vylarinmpr|Vylarian Empire]] and its neighbors began losing provinces ([[lore-empirdclne|the Decline Begins]]). Provenzia—now the [[affiliation-kngdmprvnz|Kingdom of Provenzia]]—drifted out of its empire's hands without a war and became a realm in all but name; Bethua, on the southern shore of the same sea, left its own metropole by war, and the Khelathi court lent the gold openly, as a loan, with its engineers walking the capital's streets. About a century later the court repeated the arrangement for [[affiliation-cnfdrtntrzlnstts|Taruzel]], in secret and under the name of humanitarian commerce.
 
 ## What It Left
 
 - **The Khelathi machinery of the Matriarchy.** Treasury, water corps and court accounts speak Khelathi, and the Izet-Mu and Izet-Halzi of Bethura answer to the Metrissa.
 - **The patron relationship.** Bethua receives a Khelathi envoy with a courtesy it gives no other foreign man, and the court at Galezkara cultivates the Matriarchy as an instrument, with subsidy and loans and no sentiment in it ([[affiliation-mtrrchybth|the Matriarchy of Bethua]]).
-- **The correspondent accounts.** The Great Houses of [[affiliation-bthntrdhss|The Bethuan Trade-Houses]] keep accounts at Gar-Hálzi chapters, and a Bethuan letter of credit is redeemed in Khelathi weight.
+- **The correspondent accounts.** The Great Houses of [[affiliation-bthntrdhss|the Bethuan Trade-Houses]] keep accounts at Gar-Hálzi chapters, and a Bethuan letter of credit is redeemed in Khelathi weight.
 - **[[affiliation-pelagora|Pelagora]]'s grievance.** Helionite captains hunt Bethuan privateers on sight, and the council of Pelagora counts the colony's loss as a debt ([[lore-heladpelagtrty|The Pelagoran Treaty]]).
-- **A fleet.** The privateer war on Vylarian shipping that the court cannot be accused of is fought by [[affiliation-bethuanflt|The Bethuan Fleet]].
+- **A fleet.** The privateer war on Vylarian shipping that the court cannot be accused of is fought by [[affiliation-bethuanflt|the Bethuan Fleet]].
 
 ## See Also
 

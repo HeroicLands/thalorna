@@ -214,7 +214,7 @@ Beside the tent door, on a cushion, lies something you take at first for a long 
 
 # Dossier {#dossier}
 
-The Desert Sighthound is the lean hunting dog of the desert tribes, twenty-three to twenty-eight inches at the shoulder and thirty-five to sixty-five pounds, built for coursing gazelle and hare. It is kept in the tent-camps of the [[place-khzryndsrtrgn|Khazryn Desert Region]] and the tribal confederations of [[place-dunharargn|Dunhara Region]]. It runs near full speed for miles, which a cheetah cannot. It is the one dog the desert tribes count as clean, sleeping beside its master, and its lineage is remembered as a family's is.
+The Desert Sighthound is the lean hunting dog of the desert tribes, twenty-three to twenty-eight inches at the shoulder and thirty-five to sixty-five pounds, built for coursing gazelle and hare. It is kept in the tent-camps of the [[place-khzryndsrtrgn|Khazryn]] and the tribal confederations of [[place-dunharargn|Dunhara]]. It runs near full speed for miles, which a cheetah cannot. It is the one dog the desert tribes count as clean, sleeping beside its master, and its lineage is remembered as a family's is.
 
 ## Presentation
 
@@ -222,7 +222,7 @@ A long-legged, deep-chested hound with a narrow waist and a tucked belly, all cu
 
 ## In the Land
 
-Desert sighthounds belong to the tent-camps of the Khazryn and the tribal confederations of [[place-dunhardsrtrgn|Dunhara Desert Region]], and are kept by the Bizarian lords of the plateau. A hound lives with its master's family, sleeps in the tent and rides on a camel in the hunt. A few escaped hounds live as strays along the desert margin and hunt hare and scavenge at the edge of the camps. The hounds are slow to breed and the tribes keep the lines of the best ones in memory.
+Desert sighthounds belong to the tent-camps of the Khazryn and the tribal confederations of [[place-dunhardsrtrgn|Dunhara]], and are kept by the Bizarian lords of the plateau. A hound lives with its master's family, sleeps in the tent and rides on a camel in the hunt. A few escaped hounds live as strays along the desert margin and hunt hare and scavenge at the edge of the camps. The hounds are slow to breed and the tribes keep the lines of the best ones in memory.
 
 ## Key Behaviors
 

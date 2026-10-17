@@ -36,7 +36,7 @@ The gathering peoples have a word for it that means _the hearth-town_, and they 
 
 ## What It Is
 
-[[lore-theshadow|The Shadow]] is chaos from outside creation, and every undead thing in the [[place-vedyarargn|Vedyara Region]] is its work, whatever the local theology says is the reason the dead walk. Sorhupura is a city that held its dead against the gate for so long that the holding opened a way in. The sect's rite for the dead was a perversion of the household's own: the threshold lamp was lit at a death, as in any Vedyari house, and was never tended to its end, and the conch was never sounded, and no pyre was kindled. Every lamp in the causeway is one such lamp. The flame is a soul that has been kept at the threshold and has nowhere to gho.
+[[lore-theshadow|The Shadow]] is chaos from outside creation, and every undead thing in [[place-vedyarargn|Vedyara]] is its work, whatever the local theology says is the reason the dead walk. Sorhupura is a city that held its dead against the gate for so long that the holding opened a way in. The sect's rite for the dead was a perversion of the household's own: the threshold lamp was lit at a death, as in any Vedyari house, and was never tended to its end, and the conch was never sounded, and no pyre was kindled. Every lamp in the causeway is one such lamp. The flame is a soul that has been kept at the threshold and has nowhere to gho.
 
 The orthodox hold that the unburned dead are Kalavrata's affair and that no priest may presume on him. The [[affiliation-agnipantha|Agmi-pantra]] holds that the fire is owed to the dead before it is owed to anyone, and it counts Sorhupura among the grounds it means to burn when the road gives it the strength. The two have disputed the point since the sect's [[lore-agnipartng|first parting]], and the city has been the oldest case in the argument.
 
@@ -50,7 +50,7 @@ The orthodox hold that the unburned dead are Kalavrata's affair and that no prie
 
 ## Reaching It
 
-From the pilgrim road along [[place-bharavarivr|The Bharava]], an estate station on the river's south bank cuts a season's path inland to a gathering ground, three days on foot through closed canopy. The causeway starts where the path ends, and nothing marks the place but the stone under the moss. The path is closed in the rains. A guide from the gathering peoples is needed, and a guide who walks out to a plains town with a wrist anyone asks to see is an **Outcaste** the moment it is asked.
+From the pilgrim road along [[place-bharavarivr|the Bharava]], an estate station on the river's south bank cuts a season's path inland to a gathering ground, three days on foot through closed canopy. The causeway starts where the path ends, and nothing marks the place but the stone under the moss. The path is closed in the rains. A guide from the gathering peoples is needed, and a guide who walks out to a plains town with a wrist anyone asks to see is an **Outcaste** the moment it is asked.
 
 ## Hooks
 

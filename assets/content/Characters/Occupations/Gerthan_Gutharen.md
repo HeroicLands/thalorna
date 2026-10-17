@@ -400,7 +400,7 @@ Gerthan Gútharen is a 53-year-old man who stands 6'0" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia Region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Gerthan Gútharen came into the world of the tentmaker through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Gerthan Gútharen came into the world of the tentmaker through a combination of circumstance and aptitude.
 
 Gerthan has been crafting tents and tarps for the military for over thirty years, earning a reputation for producing durable and weather-resistant products. He runs a busy workshop in the city, often employing apprentices to keep up with demand. Although Gerthan is a skilled craftsman, he is stubborn and set in his ways, refusing to experiment with new materials or techniques.
 

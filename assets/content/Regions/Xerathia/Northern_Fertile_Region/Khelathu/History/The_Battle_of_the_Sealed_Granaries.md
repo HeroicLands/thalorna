@@ -59,11 +59,11 @@ data:
 
 "Ten you open and one you do not," a granary steward tells a new tally-clerk as they walk the row of domes at [[place-anlaghzetun|Anlagh-Zetun]]. "Count them all the same, and do not ask me which."
 
-The one he does not name is [[place-eleventhgran|The Eleventh Granary]], and The Battle of the Sealed Granaries is why it is shut.
+The one he does not name is [[place-eleventhgran|the Eleventh Granary]], and the Battle of the Sealed Granaries is why it is shut.
 
 ## The Rising
 
-After twelve years of failing floods ([[lore-failfloods|The Failing Floods]]) the great granaries of Anlagh-Zetun held the grain of the whole upper river and nobody in the basin could eat it. The god-king's guard held the gates. The villages around them had been living on seed-corn for years, and the temples of the upper river, which had lost priests to the silence about the blasphemy, were ready to move.
+After twelve years of failing floods ([[lore-failfloods|the Failing Floods]]) the great granaries of Anlagh-Zetun held the grain of the whole upper river and nobody in the basin could eat it. The god-king's guard held the gates. The villages around them had been living on seed-corn for years, and the temples of the upper river, which had lost priests to the silence about the blasphemy, were ready to move.
 
 [Gezanlaghur]{.name data-type="being/npc"} of [Anlaghet'Zaru]{.name data-type="affiliation/lineage"}, the Halzi'a of the selat, raised the basin. His own levies came first, and the temple levies of the upper river came with them, so that the host that marched on the granaries was a lord's retinue, a farmers' muster and a priesthood's fighting men under one standard. It was the army the selat had always been able to raise, and no Gar-Au had needed it raised against the throne before. In 2378 ST (268 AF) it came to the gates.
 
@@ -73,7 +73,7 @@ The guard held the granary gates and fought there. The battle was fought in the 
 
 One of the great granaries had been emptied to feed the guard. The dead of both sides were thrown into it together and the gate was sealed in haste, with no rite said, no name entered and no priest to read. The selat meant to open it again when the harvest allowed the rites to be paid for. The harvest came, and the selat has kept the gate shut since.
 
-The god-king was taken within the month, and the host went down the river to the capital with the freed grain behind it. The next flood came full ([[lore-judgfalseuq|The Judgment of the False Uqa'a]]).
+The god-king was taken within the month, and the host went down the river to the capital with the freed grain behind it. The next flood came full ([[lore-judgfalseuq|the Judgment of the False Uqa'a]]).
 
 ## What It Left
 
@@ -84,6 +84,6 @@ The god-king was taken within the month, and the host went down the river to the
 
 ## See Also
 
-- [[lore-failfloods|The Failing Floods]] · [[lore-judgfalseuq|The Judgment of the False Uqa'a]]—the events on either side
+- [[lore-failfloods|The Failing Floods]] · [[lore-judgfalseuq|the Judgment of the False Uqa'a]]—the events on either side
 - [[lore-akhstruckhs|The Struck House]]—the age it belongs to
-- [[place-eleventhgran|The Eleventh Granary]] · [[place-anlaghzetun|Anlagh-Zetun]] · [[affiliation-selatnlghztn|The Selat of Anlagh-Zetun]]
+- [[place-eleventhgran|The Eleventh Granary]] · [[place-anlaghzetun|Anlagh-Zetun]] · [[affiliation-selatnlghztn|the Selat of Anlagh-Zetun]]

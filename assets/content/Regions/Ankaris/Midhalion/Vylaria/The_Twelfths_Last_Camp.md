@@ -23,7 +23,7 @@ A patrol sergeant, reporting to a Mokturan officer over a table in a border post
 
 The walls stand to the height of a man in most places. The gate has been burned and the barracks roofs have fallen. The shrine of the _orkaima_ is intact, its niche empty. The ground inside is strewn with the ordinary wreck of a camp: harness, mess-kits, the iron of a ballista.
 
-The patrol found the dead in the barracks, in the formation of a watch change. They were legionaries. Who stood them there, and when, is not in any report. [[affiliation-ordoarcanis|Thordimalon]] has a standing interest in the undead and has not been told.
+The patrol found the dead in the barracks, in the formation of a watch change. They were legionaries. Who stood them there, and when, is not in any report. [[affiliation-ordoarcanis|The Arcane Order]] has a standing interest in the undead and has not been told.
 
 ## Who Comes Here
 

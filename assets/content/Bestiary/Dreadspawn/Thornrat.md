@@ -264,7 +264,7 @@ Thornrats live in colonies and act together. By night they come out of the dung-
 
 ## What the City Does
 
-The governor of Tahrodan and the priests of the fire-temples of the [[affiliation-ashanpnthn|Ashaian Pantheon]], neither of whom can rule without the other, agree on the thornrats: they are filth, and fire cleanses filth. The temples send priests with fire into the lower quarter at the new moon to burn out a dung-yard or a drain-mouth, and the governor's soldiers stand guard while they do it. It has never been enough; the colony moves to another heap. The caravanserai-keepers sweep their yards and burn their dung daily, which is the best defense anyone has found. Caravan-masters leaving the city shake out their baggage on the open road a day out, and kill anything that falls out of it. Physicians in the city treat a spine wound by cutting out the barbs and cauterizing the hole, and they are busy.
+The governor of Tahrodan and the priests of the [[affiliation-ashanpnthn|Ashaian fire-temples]], neither of whom can rule without the other, agree on the thornrats: they are filth, and fire cleanses filth. The temples send priests with fire into the lower quarter at the new moon to burn out a dung-yard or a drain-mouth, and the governor's soldiers stand guard while they do it. It has never been enough; the colony moves to another heap. The caravanserai-keepers sweep their yards and burn their dung daily, which is the best defense anyone has found. Caravan-masters leaving the city shake out their baggage on the open road a day out, and kill anything that falls out of it. Physicians in the city treat a spine wound by cutting out the barbs and cauterizing the hole, and they are busy.
 
 ## Signs
 

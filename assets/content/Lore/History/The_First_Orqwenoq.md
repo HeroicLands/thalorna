@@ -58,21 +58,21 @@ data:
       unresolved: [how many cities beside Jilaq refused and were taken]
 ---
 
-The First Orkunoq, the first of the steppe's great unions, is remembered by what it did at one city, and the city is [[place-jilaq|Jilaq]].
+The first of the steppe's great unions, is remembered by what it did at one city, and the city is [[place-jilaq|Jilaq]].
 
 ## The Union
 
-The tribes of the [[place-khzryndsrtrgn|Khazryn Desert Region]] are independent, each under its own dovaq, and nothing binds them to one another. For a few years about 190 BF one will did. An orkun rose who forced the tribes together under a personal dictatorship, and the union he or she made, the orkunoq, is the first of the three that the tribes count their years from. The tribes tell nothing of the orkun's name. They tell what the union asked for and what it cost.
+The tribes of the [[place-khzryndsrtrgn|Khazryn]] are independent, each under its own dovaq, and nothing binds them to one another. For a few years about 190 BF one will did. An orkun rose who forced the tribes together under a personal dictatorship, and the union he or she made, the orkunoq, is the first of the three that the tribes count their years from. The tribes tell nothing of the orkun's name. They tell what the union asked for and what it cost.
 
 ## The Demand
 
-The union put one demand to every city of [[lore-towercities|The Tower Cities]] (the Tower League): pay tribute for the road. The league's charter forbade it, and the cities that refused were taken one after another. Jilaq, the chief city, held a season behind its ring wall and fell in a day and a night. The riders took the stock and the glass and rode out. They laid out none of the dead and spoke no names, because the league's dead were strangers to every rite the riders kept.
+The union put one demand to every city of [[lore-towercities|the Tower Cities]] (the Tower League): pay tribute for the road. The league's charter forbade it, and the cities that refused were taken one after another. Jilaq, the chief city, held a season behind its ring wall and fell in a day and a night. The riders took the stock and the glass and rode out. They laid out none of the dead and spoke no names, because the league's dead were strangers to every rite the riders kept.
 
 ## What It Left
 
 - **The field.** Jilaq is a thin blood-field, and the road bends three days south round it.
 - **The wells.** With the cities gone, the wells of the road passed to the tribes whose grazing they stand on. The tribes keep them and sell passage, tribe by tribe.
-- **The count.** The year the union rose is year 1 of the Lantern Union in [[lore-swdsclndr|The Sovidur Reckoning]], and the count runs until the next banner rises.
+- **The count.** The year the union rose is year 1 of the Lantern Union in [[lore-swdsclndr|the steppe reckoning]], and the count runs until the next banner rises.
 
 The union broke up when its orkun died, and the tribes went back to their wells.
 

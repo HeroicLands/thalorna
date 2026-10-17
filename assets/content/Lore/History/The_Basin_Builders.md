@@ -59,18 +59,18 @@ data:
       unresolved: [whether the lake failed first or the people did]
 ---
 
-The center of the [[place-khzryndsrtrgn|Khazryn Desert Region]] is a basin, and for a span of centuries it held a lake. The people who lived on its shores left no name for themselves, no writing anyone has read and no tale a living people tells as its own, so the tribes who cross the sand now call them The Basin Builders and leave it there. What they built is the evidence: canal banks that run straight for miles before the sand covers them, stepped mounds of baked brick along a shoreline that is now a dry white edge, and wells cut so deep that nothing the tribes dig today comes near them.
+The center of the [[place-khzryndsrtrgn|Khazryn]] is a basin, and for a span of centuries it held a lake. The people who lived on its shores left no name for themselves, no writing anyone has read and no tale a living people tells as its own, so the tribes who cross the sand now call them the Basin Builders and leave it there. What they built is the evidence: canal banks that run straight for miles before the sand covers them, stepped mounds of baked brick along a shoreline that is now a dry white edge, and wells cut so deep that nothing the tribes dig today comes near them.
 
 ## When
 
-Their canals and mounds are already old by 2600 BF. That is a century before the oldest document the [Bureau of Records]{.name data-type="affiliation/governmental"} in the [[affiliation-tantsouempr|Empire of Tantsou]] can date, which opens around 2500 BF and names no people and no country west of the mountains, so no archive holds a word about them. The lake fell over some five centuries, from about 2200 BF to about 1700 BF, and the people fell with it. By 1500 BF, the year the [[lore-khazrynclt|Tellumi]] count as their first, the basin was the sand it is today. The span runs from before 2600 BF to about 1700 BF, and every date in it is an estimate from brick, salt layers and the depth of the wells.
+Their canals and mounds are already old by 2600 BF. That is a century before the oldest document the [Bureau of Records]{.name data-type="affiliation/governmental"} in [[affiliation-tantsouempr|Tantsou]] can date, which opens around 2500 BF and names no people and no country west of the mountains, so no archive holds a word about them. The lake fell over some five centuries, from about 2200 BF to about 1700 BF, and the people fell with it. By 1500 BF, the year the [[lore-khazrynclt|Tellumi]] count as their first, the basin was the sand it is today. The span runs from before 2600 BF to about 1700 BF, and every date in it is an estimate from brick, salt layers and the depth of the wells.
 
 ## What Is Left
 
 Four things survive, and each is a place a party can walk to:
 
 - **The shoreline.** [[place-ewod|Evod]], the dry salt lake, is the lake bed itself, with the mounds standing along its edge.
-- **The deep wells.** [[place-qelod|Kelod]] is the greatest of the stair-wells, and there are lesser ones along the old canal lines that the tribes of [[place-hskrrgn|Khoshiqor]] still draw from and refuse to explain.
+- **The deep wells.** [[place-qelod|Kelod]] is the greatest of the stair-wells, and there are lesser ones along the old canal lines that the tribes of the [[place-hskrrgn|Khoshiqor]] still draw from and refuse to explain.
 - **The highland tombs.** [[place-osikor|Oshiqor]] is the ravine burial ground in the stone range north of the basin, where their rulers lay.
 - **The sand.** Every dune field of the central waste may cover a buried street or field-wall, and the tribes treat the sand of the basin as the builders' own.
 

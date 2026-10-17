@@ -421,7 +421,7 @@ sohl:
 
 ![[quztarqnrshq|Kuztar Akun'Rasheku]]{float=top-left}
 
-Kuztar Akun'Rasheku stands 5'9" tall with a medium build. He has dark brown skin, white hair, and green-brown eyes. His features include a prominent nose, a tapered chin, well-shaped lips, and dark brows.
+Kuztar stands 5'9" tall with a medium build. He has dark brown skin, white hair, and green-brown eyes. His features include a prominent nose, a tapered chin, well-shaped lips, and dark brows.
 
 # Dossier {#dossier}
 

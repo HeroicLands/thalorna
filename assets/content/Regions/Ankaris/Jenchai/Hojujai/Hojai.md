@@ -15,7 +15,7 @@ data:
   culture: jenchaiclt
 ---
 
-Hojai (Fire Peak) is the most active mountain of the Nine. It stands in the south of the great island, where the climate is mild, and it is held by the [[affiliation-hojujaidmn|Hojujai Domain]].
+Hojai (Fire Peak) is the most active mountain of the Nine. It stands in the south of the great island, where the climate is mild, and it is held by [[affiliation-hojujaidmn|House Hojujai]].
 
 The summit smokes, and the mountain trembles often enough that the households of the slopes sweep their shrines twice over and pay their arrears first. Its ash has made the terraces at its foot the best rice ground in the realm, at [Fanu]{.name data-type="place/settlement"} and [Weinu]{.name data-type="place/settlement"}. Hot springs rise on the southern slope, where the bathhouses of [Yanju]{.name data-type="place/settlement"} stand, and sulphur is dug near the vents and carried down to the coast. The castle town of [[place-yanwu|Yanwu]] stands on the lower slope.
 

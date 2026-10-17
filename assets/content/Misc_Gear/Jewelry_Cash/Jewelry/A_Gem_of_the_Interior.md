@@ -10,7 +10,7 @@ sohl:
   system: {weightBase: 0.02, valueBase: 150, qualityBase: 0, durabilityBase: 10}
 ---
 
-A gem of the interior is an uncut stone of a kind the island alone yields, rounded by the river that carried it down from [[place-klhrring|The Ring]]. It is one of the colored stones that command prices abroad, and it leaves the island rough.
+A gem of the interior is an uncut stone of a kind the island alone yields, rounded by the river that carried it down from [[place-klhrring|the Ring]]. It is one of the colored stones that command prices abroad, and it leaves the island rough.
 
 ## What It Does
 

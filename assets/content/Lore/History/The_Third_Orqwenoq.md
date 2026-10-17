@@ -60,7 +60,7 @@ The Third Orkunoq is the third of the steppe's great unions, named for a town th
 
 ## The Union
 
-About 548 AF an orkun forced the independent tribes of the [[place-khzryndsrtrgn|Khazryn Desert Region]] together for the third time. The union overran the eastern fringe of [[place-velanthrgn|Velanthia Region]], as the steppe has done more than once, and it never came near enough to [[place-tantsouregin|Tantsou Region]] to threaten it. It broke up when its orkun died, and the tribes went back to their wells.
+About 548 AF an orkun forced the independent tribes of the [[place-khzryndsrtrgn|Khazryn]] together for the third time. The union overran the eastern fringe of [[place-velanthrgn|Velanthia]], as the steppe has done more than once, and it never came near enough to [[place-tantsouregin|Tantsou]] to threaten it. It broke up when its orkun died, and the tribes went back to their wells.
 
 ## The Fair
 
@@ -69,7 +69,7 @@ About 548 AF an orkun forced the independent tribes of the [[place-khzryndsrtrgn
 ## What It Left
 
 - **The town.** Qiimod's walls stand whole, with no one in them, over a thin blood-field of silence.
-- **The count.** The year the union rose is year 1 of the Silent Market in [[lore-swdsclndr|The Sovidur Reckoning]], and the count is still running.
+- **The count.** The year the union rose is year 1 of the Silent Market in [[lore-swdsclndr|the steppe reckoning]], and the count is still running.
 
 ## See Also
 

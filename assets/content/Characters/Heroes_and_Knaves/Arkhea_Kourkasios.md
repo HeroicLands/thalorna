@@ -417,7 +417,7 @@ sohl:
 
 ![[arkhekrkss|Arkhea Kourkásios]]{float=top-left}
 
-Arkhea Kourkásios stands 5'5" tall with a scant build. She has pale weathered and wrinkled skin, grey hair, and brown eyes. Her features include a long face, an aquiline nose, a pronounced chin, slightly pursed lips, thick dark brows. A distinguishing mark is a limp.
+Arkhea stands 5'5" tall with a scant build. She has pale weathered and wrinkled skin, grey hair, and brown eyes. Her features include a long face, an aquiline nose, a pronounced chin, slightly pursed lips, thick dark brows. A distinguishing mark is a limp.
 
 # Dossier {#dossier}
 
@@ -507,7 +507,7 @@ Young Scholar [Dmitris]{.name data-type="being/npc"}
 [The Unseen Community]{.name data-type="affiliation"}
 : Arkhea is an elder figure among the city's street-dwellers, respected for her longevity and wisdom.
 
-The [[affiliation-lizelas|Faith of Lizelas]] (Fertility Aspect)
+The [[affiliation-lizelas|Order of Lizelas]] (Fertility Aspect)
 : Despite her poverty, she maintains spiritual practice and occasional participation in informal worship gatherings.
 
 ## Plot Hooks

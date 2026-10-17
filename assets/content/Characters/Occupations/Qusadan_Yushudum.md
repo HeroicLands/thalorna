@@ -402,7 +402,7 @@ Kusadan Yushudum is a 38-year-old man who stands 6'0" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Kusadan Yushudum is a glassworker of [[place-sharimun|Sharimun]], in the [[place-taruzelrgn|Taruzel Region]], a [[lore-taruzelianclt|Taruzelian]] freeman who has worked his father's furnace-house since he was a boy.
+Kusadan Yushudum is a glassworker of [[place-sharimun|Sharimun]], in [[place-taruzelrgn|Taruzel]], a [[lore-taruzelianclt|Taruzelian]] freeman who has worked his father's furnace-house since he was a boy.
 
 Kusadan learned window panes and bottles from his father and then went past them, into blown vessels, figured lamps and the glass sculptures—birds, ships, a hand—that the guild families of Sharimun buy to stand in their halls. He loves the making and is bad at everything else about a shop. The books are behind, the apprentices are paid late, and the price he names is usually less than the work is worth. The furnace has burned him a dozen times and his hands are scarred from wrist to fingertip; a bad burn costs the shop a month, and the shop cannot always afford a month.
 

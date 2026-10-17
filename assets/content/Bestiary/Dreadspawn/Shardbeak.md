@@ -249,7 +249,7 @@ The meadow at the top of the pass is full of light, and some of it is moving. A 
 
 # Dossier {#dossier}
 
-The Shardbeak is a dreadspawn in the shape of a bird of living crystal, two to three feet tall with a wingspan of eight to twelve feet and sixty pounds' weight, which feeds on magic as other birds feed on seed. It is drawn to places where arcane power runs strong and to anything that carries a working, and it defends its feeding grounds with a beak that pierces armor and wings that shed showers of razor-edged shards. It was made, as every dreadspawn was, and it cannot breed, though its pattern is one its makers have returned to and several are known. They gather where the [[lore-aralwen|aralwain]] are thickest, in [[place-drenavrspn|The Drenavar Spine]], the sacred mountain range at the heart of [[place-elavendre|Élavendre]], where the Áelendan hold that not every creature in the mountains is an ordinary beast.
+The Shardbeak is a dreadspawn in the shape of a bird of living crystal, two to three feet tall with a wingspan of eight to twelve feet and sixty pounds' weight, which feeds on magic as other birds feed on seed. It is drawn to places where arcane power runs strong and to anything that carries a working, and it defends its feeding grounds with a beak that pierces armor and wings that shed showers of razor-edged shards. It was made, as every dreadspawn was, and it cannot breed, though its pattern is one its makers have returned to and several are known. They gather where the [[lore-aralwen|aralwain]] are thickest, in [[place-drenavrspn|the Drenavar Spine]], the sacred mountain range at the heart of [[place-elavendre|Élavendre]], where the Áelendan hold that not every creature in the mountains is an ordinary beast.
 
 ## Presentation
 
@@ -257,7 +257,7 @@ A shardbeak's body is translucent, faceted crystal, deep violet, pale aquamarine
 
 ## In the Land
 
-The Drenavar Spine holds the greatest concentration of sacred sites in [[place-ankrscntnnt|Ankaris Continent]], and its aralwain, the thin places where the material world and the spirit world lie close and arcane power runs strongest, are where the shardbeaks feed. They perch on standing stones, at the edges of sacred groves and by arálwen-waters in the high meadows, soaking in the power of the place, and they move from one thin place to another along the range with the seasons. They are diurnal and grow more active and more aggressive in sunlight. They do not come down into the settled valleys, where magic is thin, and a shardbeak kept away from magic long enough weakens and dies.
+The Drenavar Spine holds the greatest concentration of sacred sites in [[place-ankrscntnnt|Ankaris]], and its aralwain, the thin places where the material world and the spirit world lie close and arcane power runs strongest, are where the shardbeaks feed. They perch on standing stones, at the edges of sacred groves and by arálwen-waters in the high meadows, soaking in the power of the place, and they move from one thin place to another along the range with the seasons. They are diurnal and grow more active and more aggressive in sunlight. They do not come down into the settled valleys, where magic is thin, and a shardbeak kept away from magic long enough weakens and dies.
 
 ## Key Behaviors
 

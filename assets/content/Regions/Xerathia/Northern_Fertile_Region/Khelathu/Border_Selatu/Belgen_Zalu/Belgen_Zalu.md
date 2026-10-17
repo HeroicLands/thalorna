@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-**Belgen-Zalu** is the empire's last settled country. South of its deepest fort the tribal lands begin, and the Halzi'a's patrols are the only [[lore-khelathiclt|Khelathi]] presence on the ground there. The land belongs to [[affiliation-selatbelgnzl|The Selat of Belgen-Zalu]], one of [[affiliation-borderselatu|The Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
+**Belgen-Zalu** is the empire's last settled country. South of its deepest fort the tribal lands begin, and the Halzi'a's patrols are the only [[lore-khelathiclt|Khelathi]] presence on the ground there. The land belongs to [[affiliation-selatbelgnzl|the Selat of Belgen-Zalu]], one of [[affiliation-borderselatu|the Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 
@@ -26,7 +26,7 @@ Travel south through the selat and watch the empire thin. The country is village
 ## Settlements
 
 [[place-belgen|Belgen]] (~11,000)
-: the selat capital, the seat of the Halzi'a, and the home of the chief temple of the [[affiliation-qeztu|Faith of Qeztu]].
+: the selat capital, the seat of the Halzi'a, and the home of the chief temple of [[affiliation-qeztu|Qeztu]].
 
 The villages and estate-towns
 : a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

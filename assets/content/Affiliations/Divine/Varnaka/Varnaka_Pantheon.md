@@ -50,9 +50,9 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Asked which of the ten gods is the chief one, the keeper of one of [[place-bhrvdvsthna|The Bharava-Devastena Hostels]] gives the same answer to every foreign pilgrim who puts the question. "None of them. You will not meet a priest of [[lore-mahajayadty|Mahajaya]], only a priest of a school who serves Mahajaya when his school's teaching calls for her. Learn the school first and the gods will sort themselves out."
+Asked which of the ten gods is the chief one, the keeper of one of [[place-bhrvdvsthna|the Bharava-Devastena Hostels]] gives the same answer to every foreign pilgrim who puts the question. "None of them. You will not meet a priest of [[lore-mahajayadty|Mahajaya]], only a priest of a school who serves Mahajaya when his school's teaching calls for her. Learn the school first and the gods will sort themselves out."
 
-The **Varnuka Pantheon** is a single faith with a plural pantheon. Ten deities and spirit-courts are honored across the tradition, and none of them is a religion of its own. None has a priesthood of its own either: a priest is ordained into one of the faith's schools, which then serve whichever gods their doctrine requires.
+The **Varnuka** is a single faith with a plural pantheon. Ten deities and spirit-courts are honored across the tradition, and none of them is a religion of its own. None has a priesthood of its own either: a priest is ordained into one of the faith's schools, which then serve whichever gods their doctrine requires.
 
 The schools are called sampradayas, vadas, panthas and samajas, and there are dozens of them in most regions and hundreds in some. Each has its own theological emphasis, its own temple style and its own favored rites. A school may venerate one god, a small group of them, or the whole pantheon read in one key, and a single god may be the focus of several schools that read him differently. Most temples belong to one school. The lay faithful move between schools and temples easily and attend whichever shrine suits the occasion.
 
@@ -230,7 +230,7 @@ Aspect
 : Dreams
 
 Role
-: Celestial spirits who weave dreams, omens and visions and act as intermediaries between mortals and the divine. They are divine servants of [[lore-goddreams|The God of Dreams]], though the Varnuka do not name or directly worship that elder deity. They revere the [[affiliation-svapnadevas|Host]] itself.
+: Celestial spirits who weave dreams, omens and visions and act as intermediaries between mortals and the divine. They are divine servants of [[lore-goddreams|the God of Dreams]], though the Varnuka do not name or directly worship that elder deity. They revere the [[affiliation-svapnadevas|Host]] itself.
 
 Symbol
 : A crescent moon with a lotus stem.

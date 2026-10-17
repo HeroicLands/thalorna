@@ -20,7 +20,7 @@ Degavel is an earldom of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]] in 
 
 ## The Pélanvri and Their Rival
 
-The earldom is a family affair. The earl's brother, **Khirata [Jarvel al Pélanvri na Torvila Keravel]{.name data-type="being/npc"}**, is Marshal of the Western Army and holds [[place-caerceravel|Torvila Keravel]] on the Tarvénian frontier, and another of the [Pélanvri]{.name data-type="affiliation/lineage"} holds [[place-belsaren|Belsaren]] under him. The earl's great rival is the Count of [[place-athavel|Atavel]]. Their clashes are one of the long-standing magnate rivalries that leave the crown's council gridlocked, and they weaken the kingdom's cohesion exactly when its frontier most needs it.
+The earldom is a family affair. The earl's brother, **[Jarvel al Pélanvri na Torvila Keravel]{.name data-type="being/npc"}**, is Marshal of the Western Army and holds [[place-caerceravel|Torvila Keravel]] on the Tarvénian frontier, and another of the [Pélanvri]{.name data-type="affiliation/lineage"} holds [[place-belsaren|Belsaren]] under him. The earl's great rival is the Count of [[place-athavel|Atavel]]. Their clashes are one of the long-standing magnate rivalries that leave the crown's council gridlocked, and they weaken the kingdom's cohesion exactly when its frontier most needs it.
 
 ## See Also
 

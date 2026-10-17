@@ -12,7 +12,7 @@ Outsiders cannot name the person who keeps one of the hidden hovs of the [[affil
 
 ## What This Standing Is
 
-In a worship every other faith of the [[affiliation-asguardian|Asguardian Pantheon]] holds heretical, no rank sits above this one: a hidden hov has no keeper anyone outside may name, and there is no great public blet for a higher standing to perform.
+In a worship every other faith of the [[affiliation-asguardian|Ten]] holds heretical, no rank sits above this one: a hidden hov has no keeper anyone outside may name, and there is no great public blet for a higher standing to perform.
 
 ## How the Law Treats a Person Here
 

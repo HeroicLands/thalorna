@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-Koathevoi is the terrace town. It stands where the broadest of the eastern valleys meets [[place-klhrlake|The Bowl Lake]], among terrace walls that rise above it for a morning's climb, and it holds the granaries from which the interior is fed. The Kaliharans call the soil here _koathevoi_ (dark soil), and the lineage [Koathevoi]{.name data-type="affiliation/lineage"} that holds the largest share of [[place-klhrestrrc|The Eastern Terraces]] is named for it. The Master of the Terraces, the office of [[affiliation-kalihara|Kalihara]] that answers for all the terraces together, keeps its house in the town.
+Koathevoi is the terrace town. It stands where the broadest of the eastern valleys meets [[place-klhrlake|the Bowl Lake]], among terrace walls that rise above it for a morning's climb, and it holds the granaries from which the interior is fed. The Kaliharans call the soil here _koathevoi_ (dark soil), and the lineage [Koathevoi]{.name data-type="affiliation/lineage"} that holds the largest share of [[place-klhrestrrc|the Eastern Terraces]] is named for it. The Master of the Terraces, the office of [[affiliation-kalihara|Kalihara]] that answers for all the terraces together, keeps its house in the town.
 
 ## The Holding
 
@@ -25,11 +25,11 @@ The lineage Koathevoi holds the town, its granaries and the terraces round it, a
 
 ## The Failing
 
-The lake has risen over the lowest terraces of Koathevoi, and their walls stand in the water. The oldest granary stands lowest of the halls and is damp at the base. [Wet-Turn]{.name data-type="lore/calendar"} also falls less evenly than it did, and the terraces that depended on it for a steady flow carry less than they did. The Master has made the count of the loss, and the Elder of the lineage has made another, and the two do not agree on the reason. The work at the head of [[place-klhrkthrgap|The Kuethori Gap]], which holds the lake to its level, is gray and gives under the hand as it always has, and the [Rite of Last Tending]{.name data-type="lore/custom"}, which the custodians keep for dark works, has not been performed on it.
+The lake has risen over the lowest terraces of Koathevoi, and their walls stand in the water. The oldest granary stands lowest of the halls and is damp at the base. The [Wet-Turn]{.name data-type="lore/calendar"} also falls less evenly than it did, and the terraces that depended on it for a steady flow carry less than they did. The Master has made the count of the loss, and the Elder of the lineage has made another, and the two do not agree on the reason. The work at the head of [[place-klhrkthrgap|the Kuethori Gap]], which holds the lake to its level, is gray and gives under the hand as it always has, and the [Rite of Last Tending]{.name data-type="lore/custom"}, which the custodians keep for dark works, has not been performed on it.
 
 ## What Is Seen from It
 
-Westward the water, with the drowned walls in the near shallows and [[place-klhrmassif|The Massif]] standing in the middle of the lake. [[place-klhrring|The Ring]] closes the east behind the town, and the wind-stone of [[place-klhrcldpss|The Cloud Pass]] can be picked out at the top of the notch.
+Westward the water, with the drowned walls in the near shallows and [[place-klhrmassif|the Massif]] standing in the middle of the lake. [[place-klhrring|The Ring]] closes the east behind the town, and the wind-stone of [[place-klhrcldpss|the Cloud Pass]] can be picked out at the top of the notch.
 
 ## The Cost of Reaching It
 

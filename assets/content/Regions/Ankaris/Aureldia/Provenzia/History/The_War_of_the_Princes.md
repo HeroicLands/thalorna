@@ -56,7 +56,7 @@ data:
         - what became of the deeds House Dorgal walled up before its seat was burned
 ---
 
-In [[place-ceravelvale|Keravel Vale]], The War of the Princes is called the **Kéravian Rebellion**, and the vale's villages are divided over it still. In the capital it is the War of the Princes and it is not discussed. Both names are for the same two years.
+In [[place-ceravelvale|Keravel Vale]]the war is called the **Kéravian Rebellion**, and the vale's villages are divided over it still. In the capital it is the War of the Princes and it is not discussed. Both names are for the same two years.
 
 ## The Heir
 

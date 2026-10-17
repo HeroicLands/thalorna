@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-If Skigrimr, the Order of the Shifting Veil, does its work well, you never learn that you met it.
+If the Order of the Shifting Veil, does its work well, you never learn that you met it.
 
-Skigrimr trains priests of the [[affiliation-velgrimr|Faith of Velgrímr]] in illusion and disguise, and serves his hidden hovs in [[place-malagna|Malagna]]'s ports as spies and infiltrators. A member moves through a port city under a face not his own and reports to a hov whose location he alone may be trusted to know. Spies and infiltrators are led by a Dróttstjori; a Drottmadr still trains in illusion and disguise and is not yet trusted as an infiltrator.
+Skigrimr trains priests of [[affiliation-velgrimr|Velgrímr]] in illusion and disguise, and serves his hidden hovs in [[place-malagna|Malagna]]'s ports as spies and infiltrators. A member moves through a port city under a face not his own and reports to a hov whose location he alone may be trusted to know. Spies and infiltrators are led by a Dróttstjori; a Drottmadr still trains in illusion and disguise and is not yet trusted as an infiltrator.

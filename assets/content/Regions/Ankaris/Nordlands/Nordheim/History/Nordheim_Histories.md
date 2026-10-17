@@ -8,22 +8,22 @@ tags: []
 data: {packFolder: nordheim, culture: nordheimnclt}
 ---
 
-In Histories and Legends of Nordheim, [[place-nordheim|Nordheim]] remembers its past in judgments, household claims and songs. The stories of a grave or a
+[[place-nordheim|Nordheim]] remembers its past in judgments, household claims and songs. The stories of a grave or a
 haunted road can preserve a warning without proving every deed attributed to the dead. The
 [[doc-heroessgrd|Heroes of Asguard]] belong to that epic tradition: they may or may not have lived, and their adventures are
 no record of Nordheim's law or institutions.
 
 ## The Kingdom's Past
 
-The [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] counts its kings from the hall at [[place-knalthstead|Knalthstead]], where the [Knalthidrok]{.name data-type="affiliation/lineage"} have held the crown since the hall-lords of the western fjords first raised one of their own over the rest. [Svalthorv]{.name data-type="being/npc"}, the first king the ting acclaimed, about 270, died on the strand of [[place-domsey|Domsey]] at the first sitting in 287. His son [Snilthorv]{.name data-type="being/npc"} took the island's keeping in place of a wergild nobody else could pay, and every king of Nordheim since has convened the sittings by that right, as [[lore-nordfirstsit|The First Sitting on Domsey]] tells. A quarrel over the succession of the fifth king opened [[lore-nordkinwars|The Kin-Wars]] with the [[affiliation-kingdomlgn|Kingdom of Malagna]] about 420, and two generations later [Thrildorv]{.name data-type="being/npc"} held the Nordheim shore of [[place-skalfvatn|Skalfvatn]] while the Malagnan host went through the ice in 466.
+[[affiliation-kngdmnrdhm|Nordheim]] counts its kings from the hall at [[place-knalthstead|Knalthstead]], where the [Knalthidrok]{.name data-type="affiliation/lineage"} have held the crown since the hall-lords of the western fjords first raised one of their own over the rest. [Svalthorv]{.name data-type="being/npc"}, the first king the ting acclaimed, about 270, died on the strand of [[place-domsey|Domsey]] at the first sitting in 287. His son [Snilthorv]{.name data-type="being/npc"} took the island's keeping in place of a wergild nobody else could pay, and every king of Nordheim since has convened the sittings by that right, as [[lore-nordfirstsit|the First Sitting on Domsey]] tells. A quarrel over the succession of the fifth king opened [[lore-nordkinwars|the Kin-Wars]] with [[affiliation-kingdomlgn|Malagna]] about 420, and two generations later [Thrildorv]{.name data-type="being/npc"} held the Nordheim shore of [[place-skalfvatn|Skalfvatn]] while the Malagnan host went through the ice in 466.
 
-[Bruldmil]{.name data-type="being/npc"} was king through [[lore-threewinters|The Three Winters]] of 512 to 514, and at the sitting of 518 he swore the oath told below. His son [Thraskmil]{.name data-type="being/npc"} sent the hulls south the next spring ([[lore-southrnfleets|The Southern Fleets]]), and the church silver in the royal howes at Knalthstead came home with them. [Vruthorv]{.name data-type="being/npc"} sent the fleets of three kingdoms over the water in 660 and made [[lore-stormveldtkn|The Taking of Stormveld]], and the jarls who hold that plain are Nordheim kin.
+[Bruldmil]{.name data-type="being/npc"} was king through [[lore-threewinters|the Three Winters]] of 512 to 514, and at the sitting of 518 he swore the oath told below. His son [Thraskmil]{.name data-type="being/npc"} sent the hulls south the next spring ([[lore-southrnfleets|The Southern Fleets]]), and the church silver in the royal howes at Knalthstead came home with them. [Vruthorv]{.name data-type="being/npc"} sent the fleets of three kingdoms over the water in 660 and made [[lore-stormveldtkn|the Taking of Stormveld]], and the jarls who hold that plain are Nordheim kin.
 
 [Hvarnorv]{.name data-type="being/npc"}, the present king, has reigned since 689. He is old, he has two grown grandsons and no named heir, and the sixty-third sitting is due at the next [[lore-sumarmal|Somarmál]], with the land-taking at [[place-hrindstead|Hrindstead]] still unsettled behind him.
 
 ## The Three Winters
 
-In the winters of 512 to 514, three cruel winters ran together into one long famine, and [[lore-threewinters|The Three Winters]] tells the whole of it. Nordheim's interior
+In the winters of 512 to 514, three cruel winters ran together into one long famine, and [[lore-threewinters|the Three Winters]] tells the whole of it. Nordheim's interior
 and [[place-vithgard|Vithgard]] both claim the memory. Some tell of old people going over the
 _svelthfell_, the death-fell above [[place-marvstead|Marvstead]], so younger kin might eat. Accounts differ on who went,
 whether anyone was sent, and how much of the cliff story belongs to later telling. No known law
@@ -80,4 +80,4 @@ settle whether every misfortune is a dead woman's judgment.
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] · [[place-nordheim|Nordheim]]
 - [[lore-nordheimnclt|Nordheimn culture]] · [[lore-kinhalcrdt|Kin and Hall Credit]]
 - [[lore-domseycount|The Domsey Count]]—the reckoning of the sittings and the ages of the north
-- [[lore-threewinters|The Three Winters]] · [[lore-nalthmrktkng|The Nalthmark Land-Taking]]
+- [[lore-threewinters|The Three Winters]] · [[lore-nalthmrktkng|the Nalthmark Land-Taking]]

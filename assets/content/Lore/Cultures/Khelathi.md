@@ -61,13 +61,13 @@ data:
 # terran_analog: "Egypt and Sudan (Nile valley civilization): a river-set year, a scribal and archival culture, titles that precede the personal name, weighing and burial customs for the dead. Appearance, dress and naming follow an Egyptian palette. Departs: twelve canonical gods with some forty local patron gods, magic taught as a learned profession by the Khelunu Lekhau, and ledgers of written and unwritten obligation at the center of ethics."
 ---
 
-The **Khelathi** hold that theirs is the oldest civilization in the world, and the temple king-lists count 2,830 years back to the first [[lore-garauu|Gar-Auu]] in unbroken sequence. Three facts shape a life in the valley: the river comes and goes on a schedule a farmer can name to the day, the house holds the land and answers at law for everyone attached to it, and the heart is weighed at the end before a court no one has ever bribed.
+The **Khelathi** hold that theirs is the oldest civilization in the world, and the temple king-lists count 2,830 years back to the first [[lore-garauu|Gar-Au]] in unbroken sequence. Three facts shape a life in the valley: the river comes and goes on a schedule a farmer can name to the day, the house holds the land and answers at law for everyone attached to it, and the heart is weighed at the end before a court no one has ever bribed.
 
 ## The River Sets the Year
 
 The year runs in three seasons of four months each, and each is named for what the water is doing. [[lore-azletssn|Azlet]] is the inundation, when the fields lie drowned and the labor goes to the temples and the works; [[lore-geletssn|Gelet]] is the emergence, when men plant the black silt the flood has left; [[lore-sheluessn|Shelu]] is the harvest. Every month carries thirty days, with five intercalary days at the end belonging to no month at all.
 
-A farmer reckons his obligations by that cycle and by nothing else. Tax rolls and contracts carry the regnal year of the reigning Gar-Au, while temple chronicles count from [[lore-qettelgu|The Qet Telgu]]—[[lore-firstoccasion|The First Occasion]], when, according to those chronicles, the gods established the order of civilization—and both figures are supplied by the priesthood of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]], which few Khelathi think to question.
+A farmer reckons his obligations by that cycle and by nothing else. Tax rolls and contracts carry the regnal year of the reigning Gar-Au, while temple chronicles count from [[lore-qettelgu|the Qet Telgu]]—[[lore-firstoccasion|the First Occasion]], when, according to those chronicles, the gods established the order of civilization—and both figures are supplied by the priesthood of [[affiliation-rethsaar|Reth'Sa'ar]], which few Khelathi think to question.
 
 The flood erases every boundary stone in the valley once a year, so surveyors walk the fields again each spring, village by village, re-establishing lines that were settled the spring before. Khelathi geometry grew out of that annual chore and is now the best in the world.
 
@@ -91,7 +91,7 @@ Military service raises a family over two or three generations, and commercial s
 
 Two ranks stand above the rest. The Gar-Au is the divine sovereign, and the _Iru'palu_ stands immediately below him, reserved to the royal family and a handful of exalted houses. Below them every free person is a _Zabu_, a noble born or married into a titled house, or a _Zelar_, a commoner of no house. The titles of the court and the land are offices that a Zabu holds. A Halzi'a governs a selat, commanding its levies, collecting its taxes and dispensing its justice. A _Legha'lutu_ or a _Zabet'lutu_—master and mistress of the estate—holds a manor, its lands and its attached village. A _Zabet_ is a woman of rank at court, and a _Zemelu_ is a companion of the Gar-Au, which indicates favor and access, not territory.
 
-In address the title precedes the personal name in every case: Halzi'a [[being-lersaissaaqt|Lersais Sa'Akutu]], _Zabet'lutu_ [Thaminra]{.name data-type="being/npc"}, _Zemelu_ [Kuztar]{.name data-type="being/npc"}. The western practice of placing a title after the family name strikes the Khelathi as charmingly backward, and they say so.
+In address the title precedes the personal name in every case: Halzi'a [[being-lersaissaaqt|Lersais]], _Zabet'lutu_ [Thaminra]{.name data-type="being/npc"}, _Zemelu_ [Kuztar]{.name data-type="being/npc"}. The western practice of placing a title after the family name strikes the Khelathi as charmingly backward, and they say so.
 
 ## What a Woman May Do
 
@@ -260,7 +260,7 @@ None of it is generous and all of it works. A Khelathi does not starve for being
 
 ## The Burial
 
-Death and burial in the [[affiliation-empireakhlth|Empire of Au'Khelathu]] is a graded industry: the rich take months of preparation, the prosperous weeks, and the poor must scrape by for the best they can. The first grade runs seventy days and uses natron, costly resins, fine linen and an amulet at every joint; the second is a shorter course with cheaper oils; the third is a wash, a wrapping and a prayer.
+Death and burial in [[affiliation-empireakhlth|Au'Khelathu]] is a graded industry: the rich take months of preparation, the prosperous weeks, and the poor must scrape by for the best they can. The first grade runs seventy days and uses natron, costly resins, fine linen and an amulet at every joint; the second is a shorter course with cheaper oils; the third is a wash, a wrapping and a prayer.
 
 Tombs grade the same way. The Gar-Auu and their kin lie in the rock-cut Ways of the royal necropolis, the great nobles raise mastabas in the cemeteries that flank them, and the scribes and merchants buy niches in shared galleries further out. The poor go into pit-graves in the open desert—which, being hot and dry, mummifies a pauper for free, and often better than a cheap embalming would.
 

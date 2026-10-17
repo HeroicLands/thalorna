@@ -66,17 +66,17 @@ data:
         - where the one binding went that the Therona's count came up short of
 ---
 
-The account of The Lease Refused that follows holds that the dragons were real, and the question it answers is not what they were but _what the [Vylarian Republic]{.name data-type="affiliation/polity"} had of theirs_. Dragons are mortal, material and sapient, the destabilization of magic is a property of
+The account that follows holds that the dragons were real, and the question it answers is not what they were but _what the [Vylarian Republic]{.name data-type="affiliation/polity"} had of theirs_. Dragons are mortal, material and sapient, the destabilization of magic is a property of
 theirs and not a Vylarian invention, and the Republic and the dragons reached some kind of agreement.
 What is not recorded anywhere is the _terms_.
 
 A dragon cannot be threatened with its body. It can be threatened with its dead. In the early years of
-[[lore-helionscnq|The Conquest of Helionis]] a mage-warlord killed dragons and, at the transit, took their
-souls; the Republic took his workshop (see [[lore-dragondead|The Dragon Dead at Theradon]]) when it took his city, and found the jars. What it offered was
+[[lore-helionscnq|the Helionite war]] a mage-warlord killed dragons and, at the transit, took their
+souls; the Republic took his workshop (see [[lore-dragondead|the Dragon Dead at Theradon]]) when it took his city, and found the jars. What it offered was
 the one thing only it could offer—the return of the bound to the pool—and the dragons' price for
 that was the war.
 
-The terms of [[lore-thebargain|The Bargain]] were not "when the war ends" but a _term of years, renewed_. That is why the
+The [[lore-thebargain|Republic's terms]] were not "when the war ends" but a _term of years, renewed_. That is why the
 [Dragon Riders]{.name data-type="affiliation"} were a standing corps for nearly three centuries rather than a wartime expedient, and why a
 Republican magistrate renewed a standing appropriation every year for the keeping of a thing his
 docket named only by a number, under a cover-description the chancery invented so that nobody would
@@ -86,4 +86,4 @@ Then the term was not renewed, the return was refused, and the killing followed.
 _default_ rather than an ambush—and the reason the missing records are the terms and not the war
 is that what was suppressed is the evidence of a debt still owed and an object still held.
 
-Two other readings stand over the same silence, and each is held in earnest: the Helionite academies hold that there were no dragons, and the [[lore-aelendnppl|Áelendan People]] hold that the mounts were drakes that men called dragons.
+Two other readings stand over the same silence, and each is held in earnest: the Helionite academies hold that there were no dragons, and the [[lore-aelendnppl|Áelendan peoples]] hold that the mounts were drakes that men called dragons.

@@ -8,8 +8,8 @@ tags: [sacred, inland]
 data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFolder: provenzia}
 ---
 
-Ménavar Abbey was once a center of Aureldian learning and spiritual practice—a great house honoring the
-[[affiliation-arldnpnthn|Aureldian Pantheon]]—the Twelve—in the north of the [[place-provenzrgn|Provenzia Region]], with a library, a school and an endowment, standing on the low
+Ménavar was once a center of Aureldian learning and spiritual practice—a great house honoring the
+[[affiliation-arldnpnthn|Aureldian Pantheon]]—the Twelve—in the north of [[place-provenzrgn|Provenzia]], with a library, a school and an endowment, standing on the low
 country of [[place-sathvothe|Satvote]] within reach of the sea.
 
 That was its undoing. [[lore-southrnfleets|The Southern Fleets]] (the Nordheim raids) that came in off the [[place-batarengulf|Gulf of Bataren]]
@@ -62,7 +62,7 @@ Four parties, at least, and none of them will say so plainly:
 - A **collector**, unnamed, whose offer is substantial enough to raise the question of who is really
   paying.
 
-Given where Ménavar stands, and given who has been working the ground at the [[place-bldfldyharvalen|Blood-field of Yarvalen]], a fifth interest is
+Given where Ménavar stands, and given who has been working the ground at [[place-bldfldyharvalen|Yarvalen]], a fifth interest is
 worth considering. See [[scenario-lstrlcmnvrby|The Lost Relic of Ménavar Abbey]].
 
 ## See Also

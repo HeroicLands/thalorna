@@ -88,9 +88,9 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 ## Overview
 
-"In the Kingdom of Norgaad the king does not tell the ting what the law is," the Lawspeaker's apprentice at [[place-asgarthul|Asgarthul]] tells the newcomer beside him while he drills the day's recitation. "The Lawspeaker does, and I am learning to be the one who remembers it after him."
+"In Norgaad the king does not tell the ting what the law is," the Lawspeaker's apprentice at [[place-asgarthul|Asgarthul]] tells the newcomer beside him while he drills the day's recitation. "The Lawspeaker does, and I am learning to be the one who remembers it after him."
 
-The Kingdom of Norgaad holds the land of [[place-norgaad|Norgaad]], at the center of the [[place-nrdlndsrgn|Nordlands Region]], and about 400,000 people live under its crown, the second most of the five [[lore-nordheimnclt|Nordmen]] kingdoms. Its seat is Asgarthul. Norgaad is considered the most traditional of the five, the heartland of the old ways, and its central position has made it the traditional meeting ground for quarrels between the kingdoms, for their alliances, and for the occasional [Great Moot]{.name data-type="lore/gathering"}, where all five gather to answer a threat that concerns them all. An outsider knows it for its mines, its seers and its moot.
+The Kingdom of Norgaad holds the land of [[place-norgaad|Norgaad]], at the center of the [[place-nrdlndsrgn|Nordlands]], and about 400,000 people live under its crown, the second most of the five [[lore-nordheimnclt|Nordmen]] kingdoms. Its seat is Asgarthul. Norgaad is considered the most traditional of the five, the heartland of the old ways, and its central position has made it the traditional meeting ground for quarrels between the kingdoms, for their alliances, and for the occasional [Great Moot]{.name data-type="lore/gathering"}, where all five gather to answer a threat that concerns them all. An outsider knows it for its mines, its seers and its moot.
 
 ## How Norgaad Is Ruled
 
@@ -112,13 +112,13 @@ The people are deeply devoted to the [[affiliation-asguardian|Asguardian Pantheo
 
 ## Relations
 
-Norgaad's central position makes it the natural mediator among the Nordmen kingdoms. When the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and [[affiliation-kingdomlgn|Malagna]] quarrel, Norgaad brokers the peace, and when the [[lore-grukarfolk|Grukar Folk]] press westward, Norgaad calls the moot. The role gives the kingdom influence beyond its military strength, and its kings have been among the most politically skilled of the Nordmen rulers. Norgaad is unaligned with each of its four sister kingdoms, Nordheim, Malagna, the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]].
+Norgaad's central position makes it the natural mediator among the Nordmen kingdoms. When the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and [[affiliation-kingdomlgn|Malagna]] quarrel, Norgaad brokers the peace, and when the [[lore-grukarfolk|Grukar]] press westward, Norgaad calls the moot. The role gives the kingdom influence beyond its military strength, and its kings have been among the most politically skilled of the Nordmen rulers. Norgaad is unaligned with each of its four sister kingdoms, Nordheim, Malagna, the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]].
 
 ## Commerce and Currency
 
 Norgaad's iron and silver mines are the richest in the north, which makes it the wealthiest kingdom in raw resources, if not in trade. A district's officer weighs each camp's ore against what the king's smiths at Asgarthul are owed, and the road from the mountains carries iron, timber and salt south to the market at Tvarnmark.
 
-The kingdom strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian Currency]] (ethla, ankhra and bit), and no chapter of [[affiliation-danvar|The Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored here, so a traveler's note has to be exchanged for coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
+The kingdom strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian coinage]] (ethla, ankhra and bit), and no chapter of [[affiliation-danvar|the Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored here, so a traveler's note has to be exchanged for coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
 
 ## See Also
 

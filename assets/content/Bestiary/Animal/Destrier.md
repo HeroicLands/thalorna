@@ -246,7 +246,7 @@ The horse standing in the castle yard is bigger than the cart beside it. It is b
 
 # Dossier {#dossier}
 
-The Destrier is the heaviest warhorse, seventeen to eighteen hands high and eighteen to twenty-four hundred pounds, carrying a rider in full plate as if he weighed nothing. It is slower than a courser and slower off the mark than a charger, but nothing stops its advance. It is kept in the stables of the great houses and royal castles of [[place-aureldirgn|Aureldia Region]] and [[place-aelwyth|Aelwyth]], where the knights who can afford both horse and training ride it. A single destrier can break a cavalry charge, and a line of them can shatter infantry.
+The Destrier is the heaviest warhorse, seventeen to eighteen hands high and eighteen to twenty-four hundred pounds, carrying a rider in full plate as if he weighed nothing. It is slower than a courser and slower off the mark than a charger, but nothing stops its advance. It is kept in the stables of the great houses and royal castles of [[place-aureldirgn|Aureldia]] and [[place-aelwyth|Aelwyth]], where the knights who can afford both horse and training ride it. A single destrier can break a cavalry charge, and a line of them can shatter infantry.
 
 ## Presentation
 

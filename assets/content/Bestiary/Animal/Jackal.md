@@ -214,7 +214,7 @@ At dusk a thin, wailing cry rises from the dry channel beyond the last field. It
 
 # Dossier {#dossier}
 
-The Jackal is the small wild dog of the river lowlands, sixteen to twenty inches at the shoulder and fifteen to thirty-five pounds, living along the river and channels of [[place-aukhelathrgq|Au'Khelathu Region]], in the desert margins, around village middens and among the tombs of the necropolis cities. It scavenges first and hunts second, alone, in pairs or in loose packs of up to a dozen. Jackals are sacred to the lord of the dead, and killing one near a tomb is a serious offense, which the farmers who lose livestock to them feel differently about.
+The Jackal is the small wild dog of the river lowlands, sixteen to twenty inches at the shoulder and fifteen to thirty-five pounds, living along the river and channels of [[place-aukhelathrgq|Au'Khelathu]], in the desert margins, around village middens and among the tombs of the necropolis cities. It scavenges first and hunts second, alone, in pairs or in loose packs of up to a dozen. Jackals are sacred to the lord of the dead, and killing one near a tomb is a serious offense, which the farmers who lose livestock to them feel differently about.
 
 ## Presentation
 

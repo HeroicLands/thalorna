@@ -8,17 +8,17 @@ tags: [reference, currency, taruzel, economy]
 data: {culture: taruzelianclt}
 ---
 
-A Vylarian changer who is handed a Taruzelian Solden puts it on the scale before he names a price, because it is about 7 percent light. Inside the [[place-taruzelrgn|Taruzel Region]] nobody weighs it; it passes at face value from one end of the coast to the other. That difference is the whole character of the Taruzelian currency: the empire's denominations, struck and banked by a confederation that left the empire.
+A Vylarian changer who is handed a Taruzelian Solden puts it on the scale before he names a price, because it is about 7 percent light. Inside [[place-taruzelrgn|Taruzel]] nobody weighs it; it passes at face value from one end of the coast to the other. That difference is the whole character of the Taruzelian currency: the empire's denominations, struck and banked by a confederation that left the empire.
 
 **Scope:** the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] and the trading network of Taruzelian-affiliated merchants throughout the [[place-vylarianse|Vylarian Sea]] and the southern coasts.
 
 ## Overview
 
-Taruzelian Currency is the Confederation's post-secession monetary system. It uses the same denomination structure as the [[lore-vylrncrncy|Vylarian Currency]]—Solden (gold), Ardin (silver), Ogdel (Bit, 1/8 of an Ardin)—at the same nominal conversion ratios (1 Solden = 160 Ardin = 1,280 Bits), but the coins are _Taruzelian-struck_ and the supporting banking infrastructure is the Confederation's own [Merazuni]{.name data-type="affiliation/governmental"} ("House of the Treasury"), not the Vylarian treasury, [[affiliation-tarmex|The Tarmeks Orzan]].
+The Taruzelian currency is the Confederation's post-secession monetary system. It uses the same denomination structure as the [[lore-vylrncrncy|Vylarian currency]]—Solden (gold), Ardin (silver), Ogdel (Bit, 1/8 of an Ardin)—at the same nominal conversion ratios (1 Solden = 160 Ardin = 1,280 Bits), but the coins are _Taruzelian-struck_ and the supporting banking infrastructure is the Confederation's own [Merazuni]{.name data-type="affiliation/governmental"} ("House of the Treasury"), not the Vylarian treasury, [[affiliation-tarmex|the Tarmeks Orzan]].
 
 The Taruzelian Solden is, by standard Vylarian assay, **slightly underweight**—about 7 percent below the Vylarian gold content. The discount is acknowledged in cross-border transactions but not advertised; in inter-Taruzelian commerce the coin passes at face value. Taruzelian Ardin are struck to the full Vylarian standard (about 1.5 g, three parts silver to one of alloy) and pass at full value in all systems where silver is silver.
 
-The Merazuni issues script (the Taruzelian equivalent of Vylarian traveler's notes and master notes) honored at any Merazuni-affiliated moneylender house across the Confederation. The script is not honored at any chapter of [[affiliation-danvar|The Danvar]], the Vylarian institution; cross-border travel between Taruzelian and Vylarian territory requires conversion to physical coin at a changer's office (typically Heliónite intermediaries who maintain accounts at both institutions).
+The Merazuni issues script (the Taruzelian equivalent of Vylarian traveler's notes and master notes) honored at any Merazuni-affiliated moneylender house across the Confederation. The script is not honored at any chapter of [[affiliation-danvar|the Danvar]], the Vylarian institution; cross-border travel between Taruzelian and Vylarian territory requires conversion to physical coin at a changer's office (typically Heliónite intermediaries who maintain accounts at both institutions).
 
 The Taruzelian currency exists because the Confederation refused to remain dependent on Vylarian banking infrastructure after secession but had no realistic alternative to the existing denomination structure. The result is Vylarian denominations under Taruzelian sovereignty: a Confederation politically independent of the empire and commercially next door to it.
 

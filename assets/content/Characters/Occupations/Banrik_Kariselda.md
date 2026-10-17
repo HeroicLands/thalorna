@@ -397,7 +397,7 @@ Banrik Káriselda is a 29-year-old man who stands 6'1" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Banrik Káriselda is a bodyguard of [[place-herthema|Herthema]], in the [[place-tarvenirgn|Tarvénia Region]], a [[lore-tarvenanclt|Tarvenan]] of the town's back streets who has made himself the man its merchants hire when they want to arrive somewhere alive.
+Banrik Káriselda is a bodyguard of [[place-herthema|Herthema]], in [[place-tarvenirgn|Tarvénia]], a [[lore-tarvenanclt|Tarvenan]] of the town's back streets who has made himself the man its merchants hire when they want to arrive somewhere alive.
 
 Banrik grew up without a father in the lanes below Herthema's walls, and learned there what he still trades on: how to read a room, which men to watch, and when a door is about to open. He is not strong, and in a town that breeds sellswords that ought to have kept him out of the trade. He keeps his clients safe by seeing trouble before it arrives—a hired knife in a crowd, a contract with a bad clause, a host who has seated the wrong men together—and by talking his way through what he cannot fight.
 

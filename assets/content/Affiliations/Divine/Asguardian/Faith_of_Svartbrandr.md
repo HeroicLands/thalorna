@@ -59,7 +59,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A forge-hov of the Faith of Svartbrandr keeps its altar as plain as its forge: a block of stone or metal, with an ember laid on it. A Bletmadr who forges nails for a living and shares the ember-offering at his hov's blet explains the bargain over his bench: "I give the fire a piece of itself and it gives me back one that has been blessed. Neither of us is pretending the other is tame."
+A forge-hov keeps its altar as plain as its forge: a block of stone or metal, with an ember laid on it. A Bletmadr who forges nails for a living and shares the ember-offering at his hov's blet explains the bargain over his bench: "I give the fire a piece of itself and it gives me back one that has been blessed. Neither of us is pretending the other is tame."
 
 In its teaching, [[lore-svartbrandrdty|Svartbrandr]] is the fire giant and god of savage battle, and he is the raw, destructive force of fire and the fury of war. He is a fearsome figure who towers over his enemies, his body wreathed in flames that consume what they touch. His presence is a harbinger of destruction, a sign of the end of worlds foretold in the prophecies of [[lore-aldarlok|Aldarlok]].
 

@@ -26,9 +26,9 @@ Everything that matters in Stormveld is decided in the hall, and the hall is a N
 conducted in the Nordmen manner: the High Jarl, his sworn men, the drinking and the giving, disputes settled
 in front of everybody. Aelwythan forms have not been adopted and are not admired.
 
-The harbor is the Jarldom's connection to the [[place-nrdlndsrgn|Nordlands Region]]—which is to say to the
+The harbor is the Jarldom's connection to the [[place-nrdlndsrgn|Nordlands]]—which is to say to the
 world it actually belongs to. Timber, hides and thrall-worked produce go north; iron, ships, men and
-quarrels come south. Nothing calls at [[place-ravenmoor|Ravenmoor]] and nothing is inspected, the **[[affiliation-dunavarsynod|Dúnavarre Synod]]**
+quarrels come south. Nothing calls at [[place-ravenmoor|Ravenmoor]] and nothing is inspected, the **[[affiliation-dunavarsynod|Synod]]**
 having no interest in northern traffic.
 
 ## The Thralls

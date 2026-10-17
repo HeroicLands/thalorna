@@ -419,7 +419,7 @@ Garulf yra Druthgar wur Edrgrund is an enormous man—six foot four, heavy-boned
 
 ### Origin
 
-Garulf was born on a farmstead in the [[place-vrystwald|Vristwald]] frontier, the son of [[lore-varokhiclt|Varokhi]] settlers who scratched a living from the dark soil at the forest's edge. Life was brutal and simple—plant, harvest, survive, repeat. Garulf was the largest child anyone in the settlement had ever seen, and by fifteen he was doing the work of two grown men. He had no education, no prospects, and no patience for farming.
+Garulf was born on a farmstead in the [[place-vrystwald|Vristwald]] frontier, the son of [[lore-varokhiclt|Varokh]] settlers who scratched a living from the dark soil at the forest's edge. Life was brutal and simple—plant, harvest, survive, repeat. Garulf was the largest child anyone in the settlement had ever seen, and by fifteen he was doing the work of two grown men. He had no education, no prospects, and no patience for farming.
 
 ### Mercenary Life
 
@@ -427,7 +427,7 @@ At seventeen, Garulf walked away from the farm and sold the only thing he had—
 
 ### The Incident
 
-Garulf's career as a freelance thug came to an abrupt end when a robbery went catastrophically wrong. He and a partner tried to rob a tax collector traveling under guard. When the guards gave chase, Garulf's partner's horse was shot. Rather than slow down to share his mount, Garulf dumped his partner and galloped away alone. The partner was captured, talked, and Garulf became a wanted man in two provinces. He fled to the coast, signed onto the first ship that would take him, and eventually found his way aboard [[affiliation-thetamzir|The Tamzir]].
+Garulf's career as a freelance thug came to an abrupt end when a robbery went catastrophically wrong. He and a partner tried to rob a tax collector traveling under guard. When the guards gave chase, Garulf's partner's horse was shot. Rather than slow down to share his mount, Garulf dumped his partner and galloped away alone. The partner was captured, talked, and Garulf became a wanted man in two provinces. He fled to the coast, signed onto the first ship that would take him, and eventually found his way aboard [[affiliation-thetamzir|the Tamzir]].
 
 ### Aboard the Tamzir
 

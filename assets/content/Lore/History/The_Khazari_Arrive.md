@@ -36,7 +36,7 @@ data:
         - how long after the Sinale they followed, which the oldest mountain traditions put at roughly two thousand years and nobody holds more closely
 ---
 
-The [[lore-flkkhazar|Khazár Folk]] came after the [[lore-flksinale|Sinale Folk]]—the Second People, as some
+The [[lore-flkkhazar|Khazari]] came after the [[lore-flksinale|Sinale]]—the Second People, as some
 traditions call them. They came from another realm, which they call [Humadhan]{.name data-type="place/world"}, "the middle place".
 They seldom speak of it, and what they say is a tale rather than a record.
 
@@ -44,7 +44,7 @@ The tale tells of a great war in Humadhan between the powers of good and evil. R
 that war that warp the mind and the soul, and the Khazari call them [Dagarakurágh]{.name data-type="miscgear"}, "the
 ringing-round of forcing": rings that force a mind and a soul against their grain, as a bad mason forces rock. One ring is a _kirghath_, and rings are
 _kirghathez_. Some were given to the Khazari's ancestors, and the rings corrupted them. Seven clans fled
-to [[place-worldthlrn|The World of Thalorna]] with [[lore-goddreams|The God of Dreams]], their god Luváth, and The Coming of the Khazari is that flight, the crossing, the _khadhal_,
+to [[place-worldthlrn|the World of Thalorna]] with [[lore-goddreams|the God of Dreams]], their god Luváth, and that flight is the crossing, the _khadhal_,
 of about 5300 BF.
 
 The flight had a leader, and the Khazari hold him to be the one who saved their people. [Puthakun]{.name data-type="being/npc"},
@@ -59,7 +59,7 @@ as the light kept below. The deed is carried in the tellings; the record of the 
 seven clans head for head and holds no entry for anyone else.
 
 They came as **seven clans**, and the number has never lost its significance to them. Each clan is named
-for the master craft it holds, in the mastery frame of the [[skill-khazarlng|Khazari Language]]:
+for the master craft it holds, in the mastery frame of the [[skill-khazarlng|language]]:
 
 [Summágh]{.name data-type="affiliation/lineage"}
 : listening to stone. The finders, who choose where a hold is cut.
@@ -87,6 +87,6 @@ The houses of a clan hold crafts within its own, and each clan later held one of
 carefully as the craft-records, and every line on Thalorna traces to one of the seven.
 
 For a long span afterward the two Elder Races lived and worked together, under what fragmentary
-tradition calls [[lore-oldcompact|The Old Compact]]: the Sinale crafting in forest and starlight, the Khazari in stone and
+tradition calls [[lore-oldcompact|the Old Compact]]: the Sinale crafting in forest and starlight, the Khazari in stone and
 flame, and between them wonders neither could have made alone. Neither people will say when it began,
 and one of them will not say anything at all.

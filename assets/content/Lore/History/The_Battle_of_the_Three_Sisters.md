@@ -67,19 +67,19 @@ data:
 ---
 
 Before there were kingdoms on [[place-aelwyth|Aelwyth]] there was one, and both Elder Races held it.
-After [[lore-fallkhazturn|The Fall of Khazartúrn]] the [[lore-flksinale|Sinale Folk]] and
+After [[lore-fallkhazturn|the Fall of Khazartúrn]] the [[lore-flksinale|Sinale Folk]] and
 [[lore-flkkhazar|Khazár Folk]] ceased dealing with one another everywhere in the world—except on this
 island, where instead they tried to repair it. In time they united Aelwyth under a single crown held by a
 Sinale king and governed it together for six centuries. It is the only such attempt either race has
 ever made.
 
-It was ended by refugees, and then by The Battle of the Three Sisters. The [[lore-pelwarpepl|Pelwar People]] reached the island in [[lore-pelwarmigr|The Pelwar Migration]] with
+It was ended by refugees, and then by a battle. The [[lore-pelwarpepl|Pelwar]] reached the island in [[lore-pelwarmigr|the Pelwar Migration]] with
 nowhere else to go, and an island has a fixed amount of good land; two centuries of arrival and
-pressure and reprisal became the [Great War]{.name data-type="lore/history"}. At [[place-threesisters|The Three Sisters]] in what is
-now [[place-cntrlhghlnds|The Central Highlands]] the king was killed by the [Varkhad]{.name data-type="lore/folk"} among them.
+pressure and reprisal became the [Great War]{.name data-type="lore/history"}. At [[place-threesisters|the Three Sisters]] in what is
+now [[place-cntrlhghlnds|the Central Highlands]] the king was killed by the [Varkhad]{.name data-type="lore/folk"} among them.
 
 What was lost there is more than a king and more than a war. It ended in the way most calculated to
 make it irrecoverable: not in a quarrel, but with the Sinale walking away from the Khazari in a
 crisis, for the second time, having spent six hundred years persuading them it would not happen again.
 
-Nearly every human on Aelwyth today descends from those refugees, the Peshtar among them. The exception is [[lore-vardain|The Vardain]], who descend from the humans the Khazari brought across before them, a much older line that is not Pelwar.
+Nearly every human on Aelwyth today descends from those refugees, the Peshtar among them. The exception is [[lore-vardain|the Vardain]], who descend from the humans the Khazari brought across before them, a much older line that is not Pelwar.

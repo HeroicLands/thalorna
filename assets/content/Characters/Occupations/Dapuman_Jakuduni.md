@@ -396,7 +396,7 @@ Dapuman Jakuduni is a 37-year-old man who stands 5'11" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Dapuman Jakuduni is a hideworker of [[place-hitusel|Hitusel]], a fishing village on the coast of the [[place-taruzelrgn|Taruzel Region]], a [[lore-taruzelianclt|Taruzelian]] freeman who tans and works leather in the pits below the village as his father did.
+Dapuman Jakuduni is a hideworker of [[place-hitusel|Hitusel]], a fishing village on the coast of [[place-taruzelrgn|Taruzel]], a [[lore-taruzelianclt|Taruzelian]] freeman who tans and works leather in the pits below the village as his father did.
 
 Dapuman learned the trade at his father's pits and has kept them since his father's hands gave out: the soaking, the liming, the scraping and the long tan in bark and water that turns a hide into leather that lasts a lifetime. He makes what the coast needs, boots, harness and the heavy jerkins the fishermen wear against the wind, and he makes them the old way, slowly, and they last. Buyers come up from [[place-sazumun2|Sazumun]] for his hides because the city tanneries tan faster and sell leather that cracks in two winters. The work is filthy and heavy, and it is wearing him out. His hands are a man of sixty's, he has cut himself to the bone twice this year, and his back has begun to fail him on the scraping-beam.
 

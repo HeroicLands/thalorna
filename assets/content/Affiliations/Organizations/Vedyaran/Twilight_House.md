@@ -67,9 +67,9 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A Loom-Master's steward, sending his master's nephew off to his first season in [[place-vyalendra3|Vyalendra]], gives him one rule about **The Twilight House**: "You will be invited, because everyone of standing is. Gho. Enjoy it. Say nothing in those rooms you would not say to a creditor, because everything said there is written up before the lamps are out."
+A Loom-Master's steward, sending his master's nephew off to his first season in [[place-vyalendra3|Vyalendra]], gives him one rule about **the Twilight House**: "You will be invited, because everyone of standing is. Gho. Enjoy it. Say nothing in those rooms you would not say to a creditor, because everything said there is written up before the lamps are out."
 
-The Twilight House, also called the House of the Long Evening after its principal house, [[place-sandhyagrha|Sandyagriha]], is a courtesan establishment and an intelligence network, and the two are one business. Its principal house stands in Vyalendra and it keeps satellite houses in each major city of the [[place-vedyarargn|Vedyara Region]]. Tradition dates it to the reign of the eleventh and last Maharava of Vyalendra, though the date is uncertain. The court is gone and the House is not, which is the fact everything else about it rests on.
+The Twilight House, also called the House of the Long Evening after its principal house, [[place-sandhyagrha|Sandyagriha]], is a courtesan establishment and an intelligence network, and the two are one business. Its principal house stands in Vyalendra and it keeps satellite houses in each major city of [[place-vedyarargn|Vedyara]]. Tradition dates it to the reign of the eleventh and last Maharava of Vyalendra, though the date is uncertain. The court is gone and the House is not, which is the fact everything else about it rests on.
 
 ## Overview
 
@@ -96,7 +96,7 @@ The curriculum is famously rigorous. A graduate recites classical Vedyaran poetr
 ## Notable Affiliates
 
 [[being-chndrkrtsndrjyvl|Chandrakirtisundari Jayavalli]]
-: a Companion of growing prominence, recruited into [[affiliation-adanasreni|The Adanashreni]] through Twilight House connections. She walks an increasingly precarious line between three masters, her clients, the House and the Shrena.
+: a Companion of growing prominence, recruited into [[affiliation-adanasreni|the Adanashreni]] through Twilight House connections. She walks an increasingly precarious line between three masters, her clients, the House and the Shrena.
 
 The Mistress of the Long Evening
 : the present holder is unnamed in public records. She is widely believed to be a former courtesan once celebrated as the most accomplished of her generation, withdrawn from clients twenty years ago.
@@ -116,7 +116,7 @@ A standing arrangement joins the House to the Adanashreni. The Shrena recruits s
 Adanashreni
 : formal partnership for intelligence sharing and recruitment. Tension arises when the Shrena's interests conflict with a high-paying client's.
 
-The [[affiliation-vyalendra2|Loom-Council]] and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]
+The [[affiliation-vyalendra2|Loom-Council]] and [[affiliation-mrchntclctvvdyr|the Merchant Collective of Vedyara]]
 : clients and unwilling tributaries. Both buy from the House, and both have learned not to discuss matters of consequence in its rooms, a discipline that in practice breaks down across enough evenings and enough wine.
 
 [[affiliation-velvethand|The Velvet Hand]]

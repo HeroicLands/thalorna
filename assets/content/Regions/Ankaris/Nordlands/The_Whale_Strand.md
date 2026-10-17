@@ -8,11 +8,11 @@ tags: [asguardian, draft]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
-In The Whale Strand, a coast that misses its whales goes hungry before midwinter, and a harpooner at [[place-knarvik|Knarvík]] teaches a first-run hand the rest of the craft as ways not to be the reason. The _hvelm_ (whale) is meat, fat, light and building timber to the northern coasts, and the hunt for it is the most valuable work a [[place-vithgard|Vithgard]] household does in a year. A whaling winter that fails is remembered for generations: the last one in Vithgard ended in the burning on the skerry of [[place-askholm|Askholm]], when a ting at [[place-dvarnvik|Dvarnvík]] looked for someone to blame for the empty strand.
+A coast that misses its whales goes hungry before midwinter, and a harpooner at [[place-knarvik|Knarvík]] teaches a first-run hand the rest of the craft as ways not to be the reason. The _hvelm_ (whale) is meat, fat, light and building timber to the northern coasts, and the hunt for it is the most valuable work a [[place-vithgard|Vithgard]] household does in a year. A whaling winter that fails is remembered for generations: the last one in Vithgard ended in the burning on the skerry of [[place-askholm|Askholm]], when a ting at [[place-dvarnvik|Dvarnvík]] looked for someone to blame for the empty strand.
 
 ## Who Hunts
 
-Whaling is coast work, and most of it is done in the west. The [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] lives by it more than any other kingdom, with [[place-norgaad|Norgaad]]'s western fjords, [[place-gnaldrfjord|Gnaldrfjord]] among them, close behind. [[place-nordheim|Nordheim]], [[place-malagna|Malagna]] and [[place-targud|Targud]] take whales where they find them and do not build their year around them.
+Whaling is coast work, and most of it is done in the west. [[affiliation-kngdmvthgrd|Vithgard]] lives by it more than any other kingdom, with [[place-norgaad|Norgaad]]'s western fjords, [[place-gnaldrfjord|Gnaldrfjord]] among them, close behind. [[place-nordheim|Nordheim]], [[place-malagna|Malagna]] and [[place-targud|Targud]] take whales where they find them and do not build their year around them.
 
 A whale-boat is crewed by a household or a group of neighboring households, under a _skipstjori_ (shipmaster) who answers for the boat in the kingdom's levy. A hall that keeps ships may put out several boats and share the catch with every household that manned an oar. Before a run, a Vithgard boat goes to the yards at Knarvík to have its ribs and strakes reinforced, because a hull that meets ice-pressure or a wounded whale's tail with a cheap repair in it opens.
 
@@ -30,7 +30,7 @@ The ivory that carries Vithgard's name south comes mostly from walrus and narwha
 
 ## The Trade
 
-What a coast does not eat or burn, it trades. Glerv, ivory and whalebone go south with the merchant ships to the [[place-midhalnrgn|Mídhalión Region]], and they are the reason a Vithgard trader can buy grain in a year when the kingdom grew none. Inside the north most of it moves by [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|hall credit]] rather than coin: a cask of oil this winter against a share of a neighbor's barley next autumn, reckoned and remembered.
+What a coast does not eat or burn, it trades. Glerv, ivory and whalebone go south with the merchant ships to [[place-midhalnrgn|Mídhalión]], and they are the reason a Vithgard trader can buy grain in a year when the kingdom grew none. Inside the north most of it moves by [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|hall credit]] rather than coin: a cask of oil this winter against a share of a neighbor's barley next autumn, reckoned and remembered.
 
 ## The Law of the Stranded Whale
 

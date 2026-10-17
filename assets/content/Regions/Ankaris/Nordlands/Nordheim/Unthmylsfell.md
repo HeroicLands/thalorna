@@ -38,7 +38,7 @@ The hall under the fell is lit. A herder who put his ear to the turf in the dark
 
 ## Whose Dead
 
-The dead are [[lore-undead|undead]]: the war-band are hrúmverdir of the oldest kind, the _eidnár_ or oath-corpses, men bound to an oath past the death that should have released them, and the man in the high seat is something nearer a [[lore-nagengir|nágengir]] than the folk word allows. Every undead carries [[lore-theshadow|The Shadow]], and the Shadow needs a way in. The undrunk grave-ale is the way. A dead man who is owed his reckoning and never receives it is held between the howe and the halls, and the black glass in the prow-post gives the Shadow something to grip.
+The dead are [[lore-undead|undead]]: the war-band are hrúmverdir of the oldest kind, the _eidnár_ or oath-corpses, men bound to an oath past the death that should have released them, and the man in the high seat is something nearer a [[lore-nagengir|nágengir]] than the folk word allows. Every undead carries [[lore-theshadow|the Shadow]], and the Shadow needs a way in. The undrunk grave-ale is the way. A dead man who is owed his reckoning and never receives it is held between the howe and the halls, and the black glass in the prow-post gives the Shadow something to grip.
 
 The glass is not from the fell. The gudi of Horgsvangr know it by its look, the grey-black of the ice at [[place-dvilgvatn|Dvilgvatn]], and know what kind of hand sets it. The [[affiliation-nalok|Nalok]] work in secret to widen the reach of [[lore-ginnauga|Ginnauga]], the Eye of the Void, and a howe whose dead lack their ale is ground they can reach.
 

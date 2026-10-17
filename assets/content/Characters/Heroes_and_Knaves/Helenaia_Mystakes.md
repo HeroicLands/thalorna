@@ -419,7 +419,7 @@ sohl:
 
 ![[helnmystks|Bazia Lokios]]{float=top-left}
 
-Bazia Lokios stands 5'9" tall with a medium build. She has light olive skin, dark hair, and green eyes. Her features include an oblong face, a prominent nose, a pronounced chin, well-defined lips, heavy brows, and angular cheeks. She has a scar running down her right leg.
+Bazia stands 5'9" tall with a medium build. She has light olive skin, dark hair, and green eyes. Her features include an oblong face, a prominent nose, a pronounced chin, well-defined lips, heavy brows, and angular cheeks. She has a scar running down her right leg.
 
 Her dark brown hair, worn in an elaborate coiled bun adorned with flowers and sacred cords, is her greatest adornment, and she changes its decoration with the seasons and sacred days, making it a living calendar of her spiritual devotion. A long scar runs down her right leg from knee to ankle—the legacy of an accident in her youth—and she bears it without shame, often pointing it out to those struggling with their own wounds or imperfections as testimony to the fact that scars can become beautiful through time and acceptance.
 
@@ -427,7 +427,7 @@ Her robes, flowing and adorned with floral motifs in celebration of fertility an
 
 # Dossier {#dossier}
 
-Bazia was born in a minor city of the [[affiliation-byzarianlg|Bizarian League]] to a family of modest means—her father a leather worker, her mother a midwife. From earliest childhood, she showed unusual sensitivity to the emotions and needs of those around her, and her mother began to teach her the medicinal and spiritual properties of herbs when she was barely old enough to walk. When Bazia was seven years old, a terrible fire swept through the city, and in the confusion and panic, she and several other children became separated from their families. Bazia's calm demeanor and natural authority, despite her age, kept the other children organized and safe until rescuers found them. A priest of [[affiliation-sacredforge|The Sacred Forge]] witnessed her actions and was struck by what he perceived as a spiritual calling in her.
+Bazia was born in a minor city of the [[affiliation-byzarianlg|Bizarian League]] to a family of modest means—her father a leather worker, her mother a midwife. From earliest childhood, she showed unusual sensitivity to the emotions and needs of those around her, and her mother began to teach her the medicinal and spiritual properties of herbs when she was barely old enough to walk. When Bazia was seven years old, a terrible fire swept through the city, and in the confusion and panic, she and several other children became separated from their families. Bazia's calm demeanor and natural authority, despite her age, kept the other children organized and safe until rescuers found them. A priest of [[affiliation-sacredforge|the Sacred Forge]] witnessed her actions and was struck by what he perceived as a spiritual calling in her.
 
 Recognizing that Bazia possessed a rare combination of natural fellow-feeling, spiritual sensitivity, and practical wisdom, the priest arranged with her parents for her to enter the temple as a novice. Bazia was nine years old when she became a member of the priesthood. Her training was rigorous, combining extensive study of sacred texts, the mastery of ritual performance, the cultivation of her capacity for spiritual communion, and the practical knowledge necessary to serve her community.
 

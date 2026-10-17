@@ -70,7 +70,7 @@ Tradition:** **Svapnasari-sameja
 : _The Assembly of the Dream-Followers_
 
 Deities Venerated
-: [[affiliation-svapnadevas|Svapnadevas]] (the [[affiliation-svapnadevas|Dreaming Host]]) as primary; through them, the elder [[lore-goddreams|The God of Dreams]] is revered but not named; [[affiliation-kalavrata|Kalavrata]] honored as a companion presence, since the dead and the dream share the threshold
+: [[affiliation-svapnadevas|Svapnadevas]] (the [[affiliation-svapnadevas|Dreaming Host]]) as primary; through them, the elder [[lore-goddreams|the God of Dreams]] is revered but not named; [[affiliation-kalavrata|Kalavrata]] honored as a companion presence, since the dead and the dream share the threshold
 
 Emphasis
 : Mystical, contemplative, minority sect; oneiromancy, visionary counsel, healing of disturbed minds
@@ -83,7 +83,7 @@ Pantheon
 
 "You will sleep here tonight, in the long room with the others, and in the morning you tell a **Dorshaka** what you saw. Tell it exactly. Do not tidy it." A **Nidrapala** (Keeper of Sleep) says this to a petitioner at the monastery door, an hour before dusk, while the shutters of the dream-chamber are drawn against the last of the light. He will sit up through the night with the sleepers.
 
-The Svapnasari-sameja is a small, respected mystical sect centered on the [[lore-svapnadevasdty|Svapnadevas]], the Dreaming Host. Through the Host, the sect holds, the dream-power of [[lore-goddreams|The God of Dreams]] reaches the world, and the greater deity is never named directly in its rites. Its members are the oneiromancers and the keepers of the dream-registers. Vedyaran rulers, generals and merchants turn to them when a question has passed beyond what ordinary counsel can settle, and few Vedyaran courts lack a Dream-reader trained at a Sameja monastery.
+The Svapnasari-sameja is a small, respected mystical sect centered on the [[lore-svapnadevasdty|Svapnadevas]], the Dreaming Host. Through the Host, the sect holds, the dream-power of [[lore-goddreams|the God of Dreams]] reaches the world, and the greater deity is never named directly in its rites. Its members are the oneiromancers and the keepers of the dream-registers. Vedyaran rulers, generals and merchants turn to them when a question has passed beyond what ordinary counsel can settle, and few Vedyaran courts lack a Dream-reader trained at a Sameja monastery.
 
 ### Where You Find It
 
@@ -115,10 +115,10 @@ The **[Night of Silver]{.name data-type="lore/gathering"}** falls at the full mo
 
 ### Orders
 
-The **[Order of the Crescent]{.name data-type="affiliation/order"}** is an itinerant order of Darshakas who travel the Vedyaran cities, offering dream-readings and prophetic counsel to those who cannot afford the monastery's fees. The **[Council of the Dream]{.name data-type="affiliation/governmental"}** is a senior council of oneiromancers who adjudicate disputed readings, maintain the great dream-registers of the tradition, and advise on matters that pass from dream into consequential civic decision. It is the council that condemned [[affiliation-chayavrata|The Chaya-vreta]], the dream-line that turned the Host's reach on people who never asked for it. It condemned the dream-line that works on the waking about 470 AF and holds that condemnation open ([[lore-chayacondm|The Condemnation of the Chaya-vreta]]).
+The **[Order of the Crescent]{.name data-type="affiliation/order"}** is an itinerant order of Darshakas who travel the Vedyaran cities, offering dream-readings and prophetic counsel to those who cannot afford the monastery's fees. The **[Council of the Dream]{.name data-type="affiliation/governmental"}** is a senior council of oneiromancers who adjudicate disputed readings, maintain the great dream-registers of the tradition, and advise on matters that pass from dream into consequential civic decision. It is the council that condemned [[affiliation-chayavrata|the Chaya-vreta]], the dream-line that turned the Host's reach on people who never asked for it. It condemned the dream-line that works on the waking about 470 AF and holds that condemnation open ([[lore-chayacondm|the Condemnation of the Chaya-vreta]]).
 
 ### Geographic Presence
 
-Established Sameja monasteries sit in the northwest of the [[place-vedyarargn|Vedyara Region]], where the wall of [[place-graznmntns|The Grazian Mountains]] runs down into the desert margin of the [[place-dunharargn|Dunhara Region]]: in the broken uplands there, at a handful of edge-towns along the march road, and at one Pass-Shrine on the westernmost of the crossings. The rest stand in the quiet quarters of the oldest cities. Every major city has at least one Sameja-trained Dorshaka in civic residence, often attached to a royal or great-house household.
+Established Sameja monasteries sit in the northwest of the [[place-vedyarargn|Vedyara Region]], where the [[place-graznmntns|Grazian wall]] runs down into the desert margin of the [[place-dunharargn|Dunhara]]: in the broken uplands there, at a handful of edge-towns along the march road, and at one Pass-Shrine on the westernmost of the crossings. The rest stand in the quiet quarters of the oldest cities. Every major city has at least one Sameja-trained Dorshaka in civic residence, often attached to a royal or great-house household.
 
 The march suits the sect. It is the one part of the subcontinent where the orthodox hierarchy's public religion sits lightly and the traffic is caravan traffic that comes and goes, so a monastery can keep its own hours without anyone in a capital taking an interest.

@@ -87,15 +87,15 @@ The janapoda owns its land collectively through the temple. A cultivator holds r
 
 Say a channel breaks below your host's field the week before planting. Your host does not gho to a magistrate. He goes to the temple, where the clerk finds the channel on the survey and the share of water the field is owed; at the next sitting the householders of the three villages that drink from it argue who mends it and who pays, and the convening priest declares what they have agreed. The arrangement is slow, public and very hard to overturn.
 
-It is also durable. Temples burn, droughts empty villages, and kingdoms absorb smaller polities and release them again, but the janapadas hold that [[lore-janpdform|The Janapoda Form]] has run unbroken for nearly three thousand years, and a village-cluster today is governed much as one was at the founding of the [[affiliation-vylarinmpr|Vylarian Empire]].
+It is also durable. Temples burn, droughts empty villages, and kingdoms absorb smaller polities and release them again, but the janapadas hold that [[lore-janpdform|their form]] has run unbroken for nearly three thousand years, and a village-cluster today is governed much as one was at the founding of the [[affiliation-vylarinmpr|Vylarian Empire]].
 
 ## The Mahva-Melra
 
 The Mahva-Sangra is the coordination between janapadas, and it is not a government. It does not legislate, does not tax, and keeps no standing institution between gatherings. What it does is convene.
 
-It convenes at the great pilgrimage festivals, at the seasonal markets that draw delegations from many janapadas, and above all at the **Mahva-Melra**, the twelve-yearly festival held on [[place-melaground|The Melra Ground]], where [[place-mahanadi|The Mahanodi]] takes its greatest tributary in central Vedyara. The Melra draws a quarter of a million pilgrims, with the senior priests and elders of every janapoda that can spare a delegation. It runs for forty days: the first thirty are the religious observances, and the last ten are the business of the confederation.
+It convenes at the great pilgrimage festivals, at the seasonal markets that draw delegations from many janapadas, and above all at the **Mahva-Melra**, the twelve-yearly festival held on [[place-melaground|the Melra Ground]], where [[place-mahanadi|the Mahanodi]] takes its greatest tributary in central Vedyara. The Melra draws a quarter of a million pilgrims, with the senior priests and elders of every janapoda that can spare a delegation. It runs for forty days: the first thirty are the religious observances, and the last ten are the business of the confederation.
 
-Seats at the Melra are counted by **river-circuit**. Every janapoda belongs to the circuit of the water it drinks: [[place-chandrmahi|The Chandramahi]], [[place-sarvadarivr|The Sarveda]], the Mahanodi, [[place-bharavarivr|The Bharava]], or the coast for those that drink from none of the four. A circuit speaks through its **Circuit-Speaker**, chosen for the gathering, so a janapoda's neighbors on the roll are the ones upstream and downstream of it and not the ones over the ridge. The kingdoms and city-states that hold a seat hold it in their own right and belong to no circuit.
+Seats at the Melra are counted by **river-circuit**. Every janapoda belongs to the circuit of the water it drinks: [[place-chandrmahi|the Chandramahi]], [[place-sarvadarivr|the Sarveda]], the Mahanodi, [[place-bharavarivr|the Bharava]], or the coast for those that drink from none of the four. A circuit speaks through its **Circuit-Speaker**, chosen for the gathering, so a janapoda's neighbors on the roll are the ones upstream and downstream of it and not the ones over the ridge. The kingdoms and city-states that hold a seat hold it in their own right and belong to no circuit.
 
 Those ten days settle the next twelve years, in open consultation between delegations:
 
@@ -103,7 +103,7 @@ Those ten days settle the next twelve years, in open consultation between delega
 - trade conventions and the reaffirmation of the great pilgrimage routes;
 - boundary disputes that have outgrown settlement between the two parties;
 - the public denunciation of a janapoda judged to have behaved shamefully;
-- the recognition of newly formed janapadas, and the formal mourning of those that have collapsed since the last Melra. The mourning remembered longest is **[Thirnugrama]{.name data-type="affiliation/polity"}**'s, burned in its own hall by the conch-door adventurer ([[lore-silenthall|The Silenced Hall]]).
+- the recognition of newly formed janapadas, and the formal mourning of those that have collapsed since the last Melra. The mourning remembered longest is **[Thirnugrama]{.name data-type="affiliation/polity"}**'s, burned in its own hall by the conch-door adventurer ([[lore-silenthall|the Silenced Hall]]).
 
 The Melra keeps only the offices the gathering itself needs, and none of them holds anything between gatherings. The **Sabhapavi of the Melra**, the senior priest of [[place-sangama|Sangema]], the temple on the ground, convenes the assembly and puts its business. Decisions come from consensus among the senior priests, reached in the open. A janapoda that ignores the consensus meets its peers' disapproval and a slow withdrawal of cooperation, and the sanction has teeth: most janapadas live on inter-janapada trade and water-sharing arrangements that can be quietly degraded once the Sangra turns against them.
 
@@ -111,7 +111,7 @@ The Dutsa's warning to a foreigner with business at a Melra is about the calenda
 
 ## The City-States and the Kingdoms
 
-The great city-states of Vedyara are not janapadas, and neither are the kingdoms. [[affiliation-chandrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra City-State]] and the others stand on the coast and the river; [[affiliation-vindhyalay|Shikharalaya]] in the passes is the nearest kingdom at hand. A city-state governs through a council of merchant houses and temple patrons, with or without a king at the head of it. A kingdom governs through a Maharava, a martial council of clan-chieftains and a priestly court. Both keep their own foreign policies, their own standing forces and their own seats at the Melra. They are the senior political units of Vedyara, and each is larger and more powerful than any individual janapoda.
+The great city-states of Vedyara are not janapadas, and neither are the kingdoms. [[affiliation-chandrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra]] and the others stand on the coast and the river; [[affiliation-vindhyalay|Shikharalaya]] in the passes is the nearest kingdom at hand. A city-state governs through a council of merchant houses and temple patrons, with or without a king at the head of it. A kingdom governs through a Maharava, a martial council of clan-chieftains and a priestly court. Both keep their own foreign policies, their own standing forces and their own seats at the Melra. They are the senior political units of Vedyara, and each is larger and more powerful than any individual janapoda.
 
 The janapadas outnumber them by hundreds to one, and the two live together on terms of mutual need. The city-states need the janapadas for their hinterlands, their grain, their pilgrimage networks and their skilled artisans. The janapadas need the city-states for their markets, their trade with the wider world and their occasional military protection. Conflict is rare, and when it comes it comes over water, a mineral or a particular stretch of fertile field.
 
@@ -123,7 +123,7 @@ The Janapadas of Vedyara keep no central army. Each janapoda raises its own mili
 
 The answer to a serious threat is the patron-client relationship with a nearby city-state, or inland with a regional kingdom. The janapoda sends grain, labor and sometimes auxiliary troops; the patron sends the protection of its standing forces.
 
-The Mahva-Sangra has raised something like a confederation army three times in recorded Vedyari history. The most recent was four hundred years ago, in the generation a steppe host overran the western march ([[lore-hndrdbnnrs|The Storm of the Hundred Banners]]), against an adventurer with Tantsou backing who brought a few hundred men through the conch-door into the eastern janapadas, subjugated a series of them and threatened more. That was [[lore-conchdoor|The Conch-Door Incursion]]. The senior priests of the region called on every janapoda within reach to send its militia, and the army put him back out through the door he had come in by. It dissolved as soon as the threat ended. What stayed behind is [[place-sanghafort|The Sangra-fort]] on the col of [[place-sankhadvra|Shankhadvara]], the only standing garrison the confederation keeps anywhere, manned in rotation by the janapadas of the Bharava circuit. The priests are jealous of that precedent and invoke it rarely, and Shikharalaya reads the fort as ground held by a body with no business holding any.
+The Mahva-Sangra has raised something like a confederation army three times in recorded Vedyari history. The most recent was four hundred years ago, in the generation a steppe host overran the western march ([[lore-hndrdbnnrs|The Storm of the Hundred Banners]]), against an adventurer with Tantsou backing who brought a few hundred men through the conch-door into the eastern janapadas, subjugated a series of them and threatened more. That was [[lore-conchdoor|the Conch-Door Incursion]]. The senior priests of the region called on every janapoda within reach to send its militia, and the army put him back out through the door he had come in by. It dissolved as soon as the threat ended. What stayed behind is [[place-sanghafort|the Sangra-fort]] on the col of [[place-sankhadvra|Shankhadvara]], the only standing garrison the confederation keeps anywhere, manned in rotation by the janapadas of the Bharava circuit. The priests are jealous of that precedent and invoke it rarely, and Shikharalaya reads the fort as ground held by a body with no business holding any.
 
 ## Population and Geography
 
@@ -135,11 +135,11 @@ The janapadas hold the overwhelming mass of Vedyara's people: on the order of **
 : Sabhapavi of the Melra and senior priest of Sangema, about seventy. He presided over the most recent Mahva-Melra four years ago and is reckoned the most respected priestly authority in inland Vedyara. The next Melra is his last as convening priest, and the succession is already under negotiation.
 
 [The Council of Three]{.name data-type="affiliation/governmental"}
-: the informal consultation of the senior priests of the three largest pilgrim-temples of central Vedyara, which are Sangema, [[place-suryatempl|The Surva temple]] at the source of the Chandramahi, and [[place-bhrnytemple|The Mahajaya Temple at Bharanya]], the great temple at [[place-bharanya|Bharanya]]. A joint pronouncement of the three on a matter before the Mahva-Sangra carries near-universal weight. It works as an executive committee, and the priests deny that it is one.
+: the informal consultation of the senior priests of the three largest pilgrim-temples of central Vedyara, which are Sangema, [[place-suryatempl|the Surva temple]] at the source of the Chandramahi, and [[place-bhrnytemple|the Mahajaya Temple at Bharanya]], the great temple at [[place-bharanya|Bharanya]]. A joint pronouncement of the three on a matter before the Mahva-Sangra carries near-universal weight. It works as an executive committee, and the priests deny that it is one.
 
 ## Commerce and Currency
 
-A janapoda strikes no coin. Its traders carry whichever city's or kingdom's coin they deal in, and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] clears it through [[lore-vdyrnbnkng|Vedyaran Banking]]. Two janapadas, [[affiliation-rajaprjnpd|Rajepur Janapoda]] and [[affiliation-dhnrktjnpd|Danurkota]], hold seats of their own in the [[affiliation-assmblycmpct|Assembly of the Compact]] that governs the system; [[affiliation-suvrgrjnpd|Suvarnageri]] keeps its gold outside it by its own constitution. Foreign coin and weighed metal are exchanged at the frontier moneylenders at Collective rates.
+A janapoda strikes no coin. Its traders carry whichever city's or kingdom's coin they deal in, and [[affiliation-mrchntclctvvdyr|the Merchant Collective]] clears it through [[lore-vdyrnbnkng|the Vedyaran banking system]]. Two janapadas, [[affiliation-rajaprjnpd|Rajepur]] and [[affiliation-dhnrktjnpd|Danurkota]], hold seats of their own in the [[affiliation-assmblycmpct|Assembly of the Compact]] that governs the system; [[affiliation-suvrgrjnpd|Suvarnageri]] keeps its gold outside it by its own constitution. Foreign coin and weighed metal are exchanged at the frontier moneylenders at Collective rates.
 
 ## Outside the Ladder
 
@@ -156,7 +156,7 @@ A person placed outside the tarona, by transgression or by birth, is excluded fr
 [[place-sanghafort|The Sangra-fort]]
 : the confederation's one garrison
 
-[[lore-janpdform|The Janapoda Form]] · [[lore-conchdoor|The Conch-Door Incursion]] · [[lore-thirdcmpct|The Third Compact]]
+[[lore-janpdform|The Janapoda Form]] · [[lore-conchdoor|the Conch-Door Incursion]] · [[lore-thirdcmpct|the Third Compact]]
 : the confederation's history
 
 [[affiliation-varakpnthn|Varnuka Pantheon]]

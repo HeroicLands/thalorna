@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Keravel Vale is a frontier region of the [[place-talothe|Talote]], the [[affiliation-kngdmprvnz|Kingdom of Provenzia]]'s mountain march against the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]: a rugged, isolated vale of manorial estates and villages anchored by its castle town, [[place-caerceravel|Torvila Keravel]]. It sits near the kingdom's southeastern border, which makes it a frequent flashpoint, and its lords spend their years balancing defense, governance and trade against one another. In a good year the vale is prosperous. In most years it is also dangerous.
+Keravel Vale is a frontier region of the [[place-talothe|Talote]], [[affiliation-kngdmprvnz|Provenzia]]'s mountain march against [[affiliation-kingdmtrvn|Tarvénia]]: a rugged, isolated vale of manorial estates and villages anchored by its castle town, [[place-caerceravel|Torvila Keravel]]. It sits near the kingdom's southeastern border, which makes it a frequent flashpoint, and its lords spend their years balancing defense, governance and trade against one another. In a good year the vale is prosperous. In most years it is also dangerous.
 
 ## Who Holds the Vale
 
@@ -26,13 +26,13 @@ The vale's people are divided the way the kingdom is: a Tanevar peasantry who re
 
 ## The Roads and the Hills
 
-Bandits have harried the roads of Keravel Vale for years, striking caravans and travelers throughout the vale and worst of all around Belsaren, and lately they strike with a precision that suggests someone is organizing them. East of Belsaren rise [[place-bloodhills|The Blood Hills]], where [[lore-bloodhillsbtl|The Battle of the Blood Hills]] was fought about 248 AF between the **[Cohorts of Gashang]{.name data-type="affiliation"}** of [[affiliation-blackflame|The Black Flame]] and the **[Knights of the Sacred Forge]{.name data-type="affiliation/order"}**, and where the [[scenario-maulgashng|Maul of Gashang]] is rumored to lie hidden still. The kingdom's great civil war, [[lore-warprinces|The War of the Princes]], is remembered here as the **Kéravian Rebellion**, and the vale was its battleground.
+Bandits have harried the roads of Keravel Vale for years, striking caravans and travelers throughout the vale and worst of all around Belsaren, and lately they strike with a precision that suggests someone is organizing them. East of Belsaren rise [[place-bloodhills|the Blood Hills]], where [[lore-bloodhillsbtl|the Battle of Keravel's Blood Hills]] was fought about 248 AF between the **[Cohorts of Gashang]{.name data-type="affiliation"}** of [[affiliation-blackflame|the Black Flame]] and the **[Knights of the Sacred Forge]{.name data-type="affiliation/order"}**, and where the [[scenario-maulgashng|Maul of Gashang]] is rumored to lie hidden still. The kingdom's great civil war, [[lore-warprinces|the War of the Princes]], is remembered here as the **Kéravian Rebellion**, and the vale was its battleground.
 
 ## House Dorgal's Seat
 
 On a rise above the vale's second river stands the burned shell of the manor of **[House Dorgal]{.name data-type="affiliation/lineage"}**, a minor family that chose the wrong prince in the war of 653 to 655 AF. The roof is gone and the hall's walls stand to the eaves. Its lands were given to a rival house, whose bailiff keeps the fields and does not go into the ruin.
 
-The family's deeds were walled up in the cellar before the manor was burned, and the rival's claim has held for as long as nobody has found them. [[being-branwldrgr|Branval Dorgal]], captain of [[affiliation-slntlncmpny|The Silent Talon Company]], comes from the family, and the lands are disputed between two lords. Anyone who wants to settle the dispute wants the cellar.
+The family's deeds were walled up in the cellar before the manor was burned, and the rival's claim has held for as long as nobody has found them. [[being-branwldrgr|Branval Dorgal]], captain of [[affiliation-slntlncmpny|the Silent Talon]], comes from the family, and the lands are disputed between two lords. Anyone who wants to settle the dispute wants the cellar.
 
 ## See Also
 

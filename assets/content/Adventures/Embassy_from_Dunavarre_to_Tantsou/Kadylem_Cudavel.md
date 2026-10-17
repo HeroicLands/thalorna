@@ -23,4 +23,4 @@ data:
 
 **Background.** Skilled in ceremonial duty and official occasion.
 
-**Intrigue.** Holds a closeted romantic interest in [[being-thaekliamaelvri|Lady Thaeklia Maelvri]], which she knows of and can use to steer him.
+**Intrigue.** Holds a closeted romantic interest in [[being-thaekliamaelvri|Lady Thaeklia]], which she knows of and can use to steer him.

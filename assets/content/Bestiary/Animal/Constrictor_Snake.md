@@ -176,7 +176,7 @@ The bank is a mat of roots and dead leaves, and a smooth furrow as wide as a man
 
 # Dossier {#dossier}
 
-The Constrictor Snake is the big non-venomous snake of the hot forests and swamps, fifteen to twenty-five feet long and forty to two hundred pounds. It lives in the jungle lowlands of [[place-kaliharargn|Kalihara Region]], the [[place-cntrlrnfrsts|Central Rainforests]], the forest of [[place-xelemrgn|Shelem Region]] and the river country of the south. It kills by tightening its coils around its prey with every breath the animal takes, and it can kill an animal far larger than its own head.
+The Constrictor Snake is the big non-venomous snake of the hot forests and swamps, fifteen to twenty-five feet long and forty to two hundred pounds. It lives in the jungle lowlands of [[place-kaliharargn|Kalihara]], the [[place-cntrlrnfrsts|Central Rainforests]], the forest of [[place-xelemrgn|Shelem]] and the river country of the south. It kills by tightening its coils around its prey with every breath the animal takes, and it can kill an animal far larger than its own head.
 
 ## Presentation
 

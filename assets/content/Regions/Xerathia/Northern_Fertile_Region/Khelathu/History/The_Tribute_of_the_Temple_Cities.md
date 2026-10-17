@@ -77,5 +77,5 @@ The venture was the sun-house's and it ended with the sun-house. When the house 
 
 - [[lore-sunhouse|The Sun-House at Magu-Thelqen]]—the house that sent the army
 - [[place-khuqetzalu|Khuqet-Zalu]]—the forts as they stand
-- [[affiliation-okharis|Okharis]] · [[place-sthmrchsrgn|The South Marches]]
+- [[affiliation-okharis|Okharis]] · [[place-sthmrchsrgn|the South Marches]]
 - [[lore-akhrestcrown|The Restored Crown]]—the age

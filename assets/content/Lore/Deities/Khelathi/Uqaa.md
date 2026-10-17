@@ -17,6 +17,6 @@ To worship Uqa'a is to worship the perpetual triumph of order over chaos, and hi
 
 His cult holds the throne itself. The [[lore-garauu|Gar-Au]] is understood as Uqa'a's earthly manifestation, so a Gar-Au without the solar priesthood's blessing lacks legitimacy. More than one has owed his throne to it, and the priesthood has uncrowned more dynasties than any army.
 
-Unlike the **Aureldian** traditions divided by [[lore-ustaranschism|The Ústaran Schism]], whose god is understood as split into a sacred forge and a black flame, Uqa'a has no schism. His nature is singular: fire as purification and illumination, never as destruction or domination. Foreign observers find the unity suspicious and suspect hidden mysteries. The [[lore-khelathiclt|Khelathi]] answer that the unity is itself one of the god's gifts.
+Unlike the **Aureldian** traditions divided by [[lore-ustaranschism|the Ústaran Schism]], whose god is understood as split into a sacred forge and a black flame, Uqa'a has no schism. His nature is singular: fire as purification and illumination, never as destruction or domination. Foreign observers find the unity suspicious and suspect hidden mysteries. The [[lore-khelathiclt|Khelathi]] answer that the unity is itself one of the god's gifts.
 
 The priesthood trains only its most promising acolytes in the god's nightly battle and the hidden names of power, and it keeps its treatises on the chaos serpent from everyone else. The mysteries stay hidden. They concern the nightly battle and the serpent's names, and outsiders know no more than that.

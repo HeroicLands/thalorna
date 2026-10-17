@@ -20,7 +20,7 @@ data:
 # terran_analog: "The catechism of a guild or a learned order, with fixed answers learned by rote; the Welsh bardic grammars and triads, which teach a craft in memorable units; the gnomic couplet of Cato's distichs as the medieval schools used them; the riddle-contest that ends on a question with no permitted answer."
 ---
 
-**The Questions of the Harp-Room** are put to a student of [[affiliation-bardicolgs|The Bardic Colleges]] who asks to be made a Bard. The student stands at the door of the College's harp-room, the room the harp is taught in, before the Master of the College, its Archivist and two Bards of the Circle, and is asked a question for each of the College's ten teaching rooms, and then a last one. Each question has a fixed answer in rhymed couplets, learned in the first year and understood, the Colleges say, in the last; a student who changes a word of one is sent back a year. After each answer the Master gives the sayings of that room, the _sáunarine_, couplets of four beats that every student of the room has had by heart since the first term, and the Master chooses which to give, so no two candidates hear the same sayings.
+**The Questions of the Harp-Room** are put to a student of [[affiliation-bardicolgs|the Bardic Colleges]] who asks to be made a Bard. The student stands at the door of the College's harp-room, the room the harp is taught in, before the Master of the College, its Archivist and two Bards of the Circle, and is asked a question for each of the College's ten teaching rooms, and then a last one. Each question has a fixed answer in rhymed couplets, learned in the first year and understood, the Colleges say, in the last; a student who changes a word of one is sent back a year. After each answer the Master gives the sayings of that room, the _sáunarine_, couplets of four beats that every student of the room has had by heart since the first term, and the Master chooses which to give, so no two candidates hear the same sayings.
 
 The fixed answers are the same in every College. The sayings are not: every College keeps its own, and many are told differently on the coast and in the basin. They stand below as a College of the basin keeps them, with a line in brackets where a College of the coast says it otherwise.
 
@@ -324,4 +324,4 @@ _The Master:_ Then you are a Bard of this College. Take the harp.
 ## See Also
 
 - [[affiliation-bardicolgs|The Bardic Colleges]] · [[lore-elavendriclt|Élavendri]] · [[lore-theasking|The Asking]]
-- [[lore-treelinelay|The Lay of the Tree Line]] · [[lore-firstcrown|The First Crowning of Élavendre]] · [[affiliation-ordoarcanis|Thordimalon]]
+- [[lore-treelinelay|The Lay of the Tree Line]] · [[lore-firstcrown|the First Crowning of Élavendre]] · [[affiliation-ordoarcanis|Thordimalon]]

@@ -22,7 +22,7 @@ The **Oasis of Shirvan** is the first of the seven Tellumi cities and the holies
 
 You smell the city before you see its walls: wet stone, crushed mint, smoke. The great spring breaks from the foot of the Vurinkarvem cliff in a basin the size of a market square, and everything in Shirvan is arranged by how far it stands from that water. From the basin the flow divides among stone channels that run along the streets, under the houses and out through the walls into the date groves, each channel with a name, a keeper and a set hour. A household in the old quarter owns the right to a few hours of water in a given channel on a given day, and the right passes by deed. The ledgers of those deeds are the most valuable documents in the city, and the Tellumi water-masters who keep them know which of them the Atarzád tax assessors have never seen.
 
-When the [[affiliation-tribestrzd|Tribes of Atarzád]] took Shirvan they built a great fire-temple of the [[affiliation-ataros|Faith of Ataros]] on the basin's edge, from the stones of the Tellumi temples, and kept an offering flame burning over the spring. The Tellumi do not drink at that side of the basin, and they have not said why to any Atarzád official in ninety years.
+When the [[affiliation-tribestrzd|Atarzád]] took Shirvan they built a great fire-temple of [[affiliation-ataros|Ataros]] on the basin's edge, from the stones of the Tellumi temples, and kept an offering flame burning over the spring. The Tellumi do not drink at that side of the basin, and they have not said why to any Atarzád official in ninety years.
 
 ## Trade and Life
 

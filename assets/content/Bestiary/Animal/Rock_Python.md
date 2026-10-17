@@ -175,7 +175,7 @@ What you took for a boulder at the mouth of the cave is breathing. The brown-and
 
 # Dossier {#dossier}
 
-The Rock Python is the great constrictor of the deep jungle, rocky highlands and caves, thirty to forty feet long and one to two feet thick. It lies in the jungle and cave country of [[place-bharavavana|Bharavavana]] in southern [[place-vedyarargn|Vedyara Region]] and in the limestone caves and sink-holes of [[place-kankulrgn|K'ankul Region]]. It is slow, and once prey is located it is almost impossible to stop. It can wait at one boulder or cave-mouth for months.
+The Rock Python is the great constrictor of the deep jungle, rocky highlands and caves, thirty to forty feet long and one to two feet thick. It lies in the jungle and cave country of [[place-bharavavana|Bharavavana]] in southern [[place-vedyarargn|Vedyara]] and in the limestone caves and sink-holes of [[place-kankulrgn|K'ankul]]. It is slow, and once prey is located it is almost impossible to stop. It can wait at one boulder or cave-mouth for months.
 
 ## Presentation
 

@@ -36,4 +36,4 @@ Sirema Linthimis is a 74-year-old woman who stands 5'6" tall with a heavy build.
 
 # Dossier {#dossier}
 
-Sirema Linthimis is an elderly priestess of the [[affiliation-lizelas|Faith of Lizelas]] in the Temple hierarchy. Sirema maintains institutional support for the circuit of [[being-rvthrbrmztr|Revothar Baremzator]], despite private reservations about his radical sympathies.
+Sirema Linthimis is an elderly priestess of [[affiliation-lizelas|Lizelas]] in the Temple hierarchy. Sirema maintains institutional support for the circuit of [[being-rvthrbrmztr|Revothar Baremzator]], despite private reservations about his radical sympathies.

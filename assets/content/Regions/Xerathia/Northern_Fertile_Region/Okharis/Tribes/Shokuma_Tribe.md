@@ -59,7 +59,7 @@ sohl: {system: {commonSkills: [okharclng]}}
 
 The Shókuma Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
 [[place-shokumavlg|Shókuma Village]], one of the settled villages of
-the [[place-okharisrgn|Okharis Region]].
+[[place-okharisrgn|Okharis]].
 
 They travel the rivers that wind through the forest toward the rainforests, climb for wild honey in the canopy, and render the comb into the beeswax the temples burn at their rites. Their shamans commune with the [[lore-zohira|zohira]] of the winds, rivers and wildlife.
 

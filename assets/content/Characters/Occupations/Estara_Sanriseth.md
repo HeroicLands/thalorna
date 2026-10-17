@@ -396,7 +396,7 @@ Estara Sánriseth is a 29-year-old woman who stands 5'11" tall and is of moderat
 
 # Dossier {#dossier}
 
-Estara Sánriseth is a teamster of [[place-nebralis|Nebralis]], a port town of [[place-tarvenirgn|Tarvénia Region]], a [[lore-tarvenanclt|Tarvenan]] freewoman who took over her father's carts and teams when he died and hauls between the quays, the warehouses and the market for anyone with a load and a deadline.
+Estara Sánriseth is a teamster of [[place-nebralis|Nebralis]], a port town of [[place-tarvenirgn|Tarvénia]], a [[lore-tarvenanclt|Tarvenan]] freewoman who took over her father's carts and teams when he died and hauls between the quays, the warehouses and the market for anyone with a load and a deadline.
 
 Estara grew up on the box of her father's cart, and she could back a loaded wain through a market crowd before she could read. When her father died she was twenty-three and the trade expected the teams to go to a man; she kept them, kept his customers, and has added to both. She hauls whatever the port moves, and she hauls it when it is promised, which in a port where the tide sets the hour is what a warehouseman pays for. She takes risks with a load and a team when the hour is short that the older teamsters shake their heads at and could not do themselves. They respect her. They do not like that they have to.
 
@@ -416,7 +416,7 @@ Resourceful, skilled at working a team through crowded streets, good with horses
 
 ## Social
 
-Estara holds her father's seat in the [Teamsters' Guild of Nebralis]{.name data-type="affiliation/guild"}, chartered under [[affiliation-tevran|The Tevran Maldor]], which licenses the carters and shares out the harbor's work.
+Estara holds her father's seat in the [Teamsters' Guild of Nebralis]{.name data-type="affiliation/guild"}, chartered under [[affiliation-tevran|the Tevran Maldor]], which licenses the carters and shares out the harbor's work.
 
 ## Companions
 

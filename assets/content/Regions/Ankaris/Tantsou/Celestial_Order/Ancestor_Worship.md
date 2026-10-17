@@ -7,7 +7,7 @@ description: "Ancestor worship in Tantsou—the dead posted as advocates in heav
 data: {packFolder: celestialorder, culture: tantsouclt}
 ---
 
-A Leigen of the river villages, asked by a foreign traveler whether the Tantsou pray to their grandparents, laughed and told him no: "We feed them, and they work for us. Your dead are resting. Ours have jobs." Ancestor Worship in the [[affiliation-tantsouempr|Empire of Tantsou]] is the upkeep of a working relationship between a household and its dead, and it is the faith every Tantsou practices, from the Emperor to the poorest farmer.
+A Leigen of the river villages, asked by a foreign traveler whether the Tantsou pray to their grandparents, laughed and told him no: "We feed them, and they work for us. Your dead are resting. Ours have jobs." Ancestor worship in the [[affiliation-tantsouempr|Empire of Tantsou]] is the upkeep of a working relationship between a household and its dead, and it is the faith every Tantsou practices, from the Emperor to the poorest farmer.
 
 In this faith, the dead are not gone. They are posted. When a person dies, the [Ministry of Final Account]{.name data-type="affiliation"} reads his **moral ledger** and assigns him by its balance. A good balance makes him an **ancestor spirit**, a minor official of heaven whose post is to argue for his living descendants before the celestial bureaucracy. A bad one sends him to labor in the lower realms for a term, or to dissolution.
 

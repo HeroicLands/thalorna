@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The [Vurinkarvem cliff]{.name data-type="place/feature"} over the [[place-oasishirvn|Oasis of Shirvan]] is riddled with cut chambers and pilgrim stairs, and some of them are older than the city. At the bottom of one of the oldest, a gallery of seven bays below the level of the lower basin, a well-head of grey stone stands in a round chamber. The Tellumi of the quarter call it **Peshdenderat**, "the dry well". It has no water in it.
+The [Vurinkarvem cliff]{.name data-type="place/feature"} over [[place-oasishirvn|Shirvan]] is riddled with cut chambers and pilgrim stairs, and some of them are older than the city. At the bottom of one of the oldest, a gallery of seven bays below the level of the lower basin, a well-head of grey stone stands in a round chamber. The Tellumi of the quarter call it **Peshdenderat**, "the dry well". It has no water in it.
 
 It is a deep shaft. A weighted line paid out from the lip runs for a hundred and forty fathoms without touching, which is more than three times the depth at which the great spring's water stands. The wall of the shaft is cut stone for the first forty fathoms, then rough rock, then something the plumb-lines come up wet and cold from, a damp that is not water. At the lip, in the dark of the moon, the stones whisper.
 

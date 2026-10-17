@@ -17,9 +17,9 @@ data:
 
 ## Overview
 
-"Say what you came for, whether it is a child, a cure or only a blessing," a Wazu of the temple of the [[affiliation-uznera|Faith of Uzn'era]] tells a pilgrim at the door in Iuthnet, "and the first priestess you meet will know where to send you."
+"Say what you came for, whether it is a child, a cure or only a blessing," a Wazu of the temple of [[affiliation-uznera|Uzn'era]] tells a pilgrim at the door in Iuthnet, "and the first priestess you meet will know where to send you."
 
-Iuthnet is the capital of [[affiliation-selatiuthnet|The Selat of Iuthnet]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], a town of about 42,000. It holds the selat's chief temple of the Faith of Uzn'era, the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's own: healing-temples and birth-shrines, the great cult of the mother-goddess.
+Iuthnet is the capital of [[affiliation-selatiuthnet|the Selat of Iuthnet]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], a town of about 42,000. It holds the selat's chief temple of the Faith of Uzn'era, the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's own: healing-temples and birth-shrines, the great cult of the mother-goddess.
 
 Uzn'era's priestesses practice medicine and hold office up to the highest. Behind them stands the doctrine that creation needs the balanced partnership of a masculine and a feminine divine principle, which is why [[lore-khelathiclt|Khelathi]] women own property, initiate divorce and plead in the courts.
 

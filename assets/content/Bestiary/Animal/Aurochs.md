@@ -246,7 +246,7 @@ The grass ahead is trampled flat in a swath wide enough for a wagon, and the dun
 
 # Dossier {#dossier}
 
-The Aurochs is the great wild ox of the open grassland, over six feet at the shoulder and upward of two thousand pounds, black, with a pale stripe along the back. Herds graze the forest-steppe of [[place-velanthrgn|Velanthia Region]] and the clearings at the southern edge of [[place-vrystwald|Vristwald]], keeping to the river meadows and the steppe margin where the plough has not reached. A herd keeps together, and where one cow is seen the rest are grazing close by.
+The Aurochs is the great wild ox of the open grassland, over six feet at the shoulder and upward of two thousand pounds, black, with a pale stripe along the back. Herds graze the forest-steppe of [[place-velanthrgn|Velanthia]] and the clearings at the southern edge of [[place-vrystwald|Vristwald]], keeping to the river meadows and the steppe margin where the plough has not reached. A herd keeps together, and where one cow is seen the rest are grazing close by.
 
 ## Presentation
 

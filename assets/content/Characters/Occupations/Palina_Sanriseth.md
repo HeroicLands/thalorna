@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Pálina Sánriseth carries the contradictions of her upbringing inscribed upon her body. At 28, she stands nearly six feet tall with the lean, muscled frame of someone accustomed to physical labor, yet moves with the grace instilled by her noble birth. Her face is notable more for its character than classical beauty—long-boned, strong-jawed, with amber eyes that hold real warmth rather than the calculated depths of pure charm. The scar running down her right leg, visible when she wears the flowing ritual robes of the [[affiliation-olvenia|Faith of Ólvenia]], tells an unresolved story: not accidental, not self-inflicted, but deliberate. Her dark brown hair, worn in a single thick braid, has never been fashioned into the elaborate styles preferred by the [[place-tarvenirgn|Tarvénia Region]]’s coastal nobility. There is something fundamentally honest about her appearance—she seems incapable of pretense, even when ceremonial duty demands it.
+Pálina Sánriseth carries the contradictions of her upbringing inscribed upon her body. At 28, she stands nearly six feet tall with the lean, muscled frame of someone accustomed to physical labor, yet moves with the grace instilled by her noble birth. Her face is notable more for its character than classical beauty—long-boned, strong-jawed, with amber eyes that hold real warmth rather than the calculated depths of pure charm. The scar running down her right leg, visible when she wears the flowing ritual robes of [[affiliation-olvenia|Ólvenia]], tells an unresolved story: not accidental, not self-inflicted, but deliberate. Her dark brown hair, worn in a single thick braid, has never been fashioned into the elaborate styles preferred by the [[place-tarvenirgn|Tarvénia Region]]’s coastal nobility. There is something fundamentally honest about her appearance—she seems incapable of pretense, even when ceremonial duty demands it.
 
 # Dossier {#dossier}
 
@@ -430,8 +430,8 @@ Among the coastal nobility and merchant classes, Pálina is viewed as somewhat q
 
 **Enemies:**
 
-- **Lord [[being-tharozobraze|Tharozo Brazemis]]**, a wealthy merchant who approached Pálina for intimate counsel and was rebuffed. He views her rejection as an affront and has begun subtly undermining her reputation in higher circles, suggesting her work is beneath her station.
-- **Father [[being-gaimelokorva|Gaimelo Korvathandis]]**, an older priest of one of the twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] whose austere views of spirituality directly conflict with Ólvenia’s philosophy. He views Pálina as a corruptor of proper religious order and has been agitating for stricter oversight of temple activities in Herthema.
+- **Lord [[being-tharozobraze|Tharozo]]**, a wealthy merchant who approached Pálina for intimate counsel and was rebuffed. He views her rejection as an affront and has begun subtly undermining her reputation in higher circles, suggesting her work is beneath her station.
+- **Father [[being-gaimelokorva|Gaimelo]]**, an older priest of one of the twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] whose austere views of spirituality directly conflict with Ólvenia’s philosophy. He views Pálina as a corruptor of proper religious order and has been agitating for stricter oversight of temple activities in Herthema.
 
 ## Plot Hooks
 

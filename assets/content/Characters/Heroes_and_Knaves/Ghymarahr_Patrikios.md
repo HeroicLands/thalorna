@@ -419,7 +419,7 @@ sohl:
 
 ![[ghymrhrptrks|Ghimaráhr Rores]]{float=top-left}
 
-Ghimaráhr Rores stands 6'0" tall with a heavy build. He has tanned weathered skin, grey hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a strong jawline, and expressive brows. He has a scar running down his back.
+Ghimaráhr stands 6'0" tall with a heavy build. He has tanned weathered skin, grey hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a strong jawline, and expressive brows. He has a scar running down his back.
 
 # Dossier {#dossier}
 
@@ -433,7 +433,7 @@ The specific campaigns and battles of those years have faded into a blur of bloo
 
 ### Turning Point and Redemption
 
-At forty-five, while serving with **[[affiliation-irnwlvscmpny|The Iron Wolves Company]]**, Ghimaráhr was hired, along with his company, to massacre the inhabitants of a village that had refused to submit to a local lord's authority. Something in him broke that day. He survived the massacre and was paid his standard rate, but he did not return to the company's camp. Instead, he made his way to the Bizarian League's heartland, seeking obscurity and the possibility of redemption that he suspected he no longer deserved. He settled in a small village on the periphery—deliberately choosing the kind of forgotten place he had once despised—and spent years in silence and isolation, working as a day laborer and attempting to become someone other than what he had been.
+At forty-five, while serving with **[[affiliation-irnwlvscmpny|the Iron Wolves Company]]**, Ghimaráhr was hired, along with his company, to massacre the inhabitants of a village that had refused to submit to a local lord's authority. Something in him broke that day. He survived the massacre and was paid his standard rate, but he did not return to the company's camp. Instead, he made his way to the Bizarian League's heartland, seeking obscurity and the possibility of redemption that he suspected he no longer deserved. He settled in a small village on the periphery—deliberately choosing the kind of forgotten place he had once despised—and spent years in silence and isolation, working as a day laborer and attempting to become someone other than what he had been.
 
 ### Current Situation
 

@@ -51,7 +51,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Faith of Linkur and the [[affiliation-linhur|Faith of Linhur]] teach that [[lore-linhurdty|Linhur]] watches the hunter, and [[lore-linqurdty|Linkur]] watches the killing. The second of the two hunt-patrons of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], Linkur is paired with Linhur in every rite that matters, and his patronage is understood to cover not only the hunt's success but the manner of the death.
+The Faith of Linkur and the [[affiliation-linhur|Faith of Linhur]] teach that [[lore-linhurdty|Linhur]] watches the hunter, and [[lore-linqurdty|Linkur]] watches the killing. The second of the two hunt-patrons of [[affiliation-empireakhlth|Au'Khelathu]], Linkur is paired with Linhur in every rite that matters, and his patronage is understood to cover not only the hunt's success but the manner of the death.
 
 The **Scrutineer of the Kill** holds that scrutiny. A beast is to die with the speed and efficiency its nature permits, because wantonness in the killing is held to offend the gods as much as the imperial order. A culler of [[affiliation-garnuw|Gar'Nuw]] who removes a crocodile from a village's water is held answerable to this god for how quickly it was done.
 

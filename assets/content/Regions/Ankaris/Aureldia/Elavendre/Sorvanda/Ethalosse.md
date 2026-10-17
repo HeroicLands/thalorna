@@ -15,8 +15,8 @@ data:
   culture: sinaleclt
 ---
 
-**Ethalosse**, as it is called in the [[skill-elvndrlng|Élavendri Language]], sits at the eastern margin of the [[place-alndntrblnds|Áelendan Tribal Lands]], where the
-high wood thins toward the passes. It is the smallest of [[place-elavendre|Élavendre]]'s enclaves of the [[lore-flksinale|Sinale Folk]]—seventy or so—and the only one whose position looks, to an outsider who knew enough to notice,
+**Ethalosse**, as it is called in [[skill-elvndrlng|Élavendri]], sits at the eastern margin of the [[place-alndntrblnds|Áelendan Tribal Lands]], where the
+high wood thins toward the passes. It is the smallest of [[place-elavendre|Élavendre]]'s [[lore-flksinale|Sinale enclaves]]—seventy or so—and the only one whose position looks, to an outsider who knew enough to notice,
 **chosen for access rather than for seclusion**.
 
 That is exactly what it is. Ethalosse is where the Sinale conduct business with the world.
@@ -25,7 +25,7 @@ That is exactly what it is. Ethalosse is where the Sinale conduct business with 
 
 The Sinale do not treat with human powers directly. They have not for millennia, they decline to explain why,
 and the handful of exceptions are all one exception: they will deal with the
-[[lore-aelendnppl|Áelendan People]], and the Áelendan will carry. The royal family and aristocracy of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] hold the formal relation with the enclaves; the day-to-day contact runs through the Áelendan.
+[[lore-aelendnppl|Áelendan]], and the Áelendan will carry. Élavendre's royal family and aristocracy of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] hold the formal relation with the enclaves; the day-to-day contact runs through the Áelendan.
 
 So when something must pass between a Sinale enclave and a human authority—a warning, a refusal, a
 question about a disturbed site, the return of something taken—it goes through Ethalosse, and out
@@ -42,7 +42,7 @@ The arrangement has two properties that matter enormously and are rarely stated:
   withdrawn without a word being said to anyone at [[place-beravel|Péravel]].
 
 Every Élavendren monarch has understood this. It is the quiet floor beneath the whole of the kingdom's
-careful management of [[affiliation-ordoarcanis|Thordimalon]]—and the reason no reign has ever been
+careful management of [[affiliation-ordoarcanis|the Arcane Order]]—and the reason no reign has ever been
 willing to let the Áelendan be pushed too far.
 
 The arrangement dates from the day the wood was given to the Áelendan in the court itself ([[lore-firesnelgan|The Fires on Nelgan]]).

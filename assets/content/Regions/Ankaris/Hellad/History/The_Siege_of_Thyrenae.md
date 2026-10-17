@@ -65,7 +65,7 @@ data:
 
 ## The Siege
 
-By 313 BF [[affiliation-thyrenae|Thirenae]] was the last city of Helionis that had not yielded. The legions drew their lines on the landward side, and Pelagoran ships, bought by [[lore-heladpelagtrty|The Pelagoran Treaty]] a year before, held the coast. The city had its walls, its academies and a council of senior scholars who had never planned for a war with the legions of a republic, and it held out through the winter.
+By 313 BF [[affiliation-thyrenae|Thirenae]] was the last city of Helionis that had not yielded. The legions drew their lines on the landward side, and Pelagoran ships, bought by [[lore-heladpelagtrty|the Pelagoran Treaty]] a year before, held the coast. The city had its walls, its academies and a council of senior scholars who had never planned for a war with the legions of a republic, and it held out through the winter.
 
 ## The Terms
 
@@ -76,11 +76,11 @@ The Arsir of the year, **[Sothanos Kosamides]{.name data-type="being/npc"}**, se
 - **The Commissioners' Gate**, walled up in the days after and never reopened. Antiquarians go to see it, and nobody else uses the street.
 - **The [Library of Thirenae]{.name data-type="place/structure"}**, whole, and the colleges around it, which are the reason the city still teaches.
 - **The day of the extraction**, which the colleges keep as a day of silence.
-- **Thirenae's claim** to be the birthplace of the [[affiliation-ordoarcanis|Thordimalon]] and its first victim.
+- **Thirenae's claim** to be the birthplace of the [[affiliation-ordoarcanis|Arcane Order]] and its first victim.
 
 ## See Also
 
 - [[lore-helionscnq|The Conquest of Helionis]]—the war this siege ends
 - [[lore-heladpelagtrty|The Pelagoran Treaty]]—what the ships on the coast were bought with
-- [[affiliation-thyrenae|Thirenae]] · [[place-thyrenae2|The city of Thirenae]]
+- [[affiliation-thyrenae|Thirenae]] · [[place-thyrenae2|the city of Thirenae]]
 - [[affiliation-panepistmm|Epistémion]]

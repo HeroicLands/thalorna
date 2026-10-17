@@ -398,7 +398,7 @@ The fire has burned down to coals and the men round it are asleep, all but the b
 
 # Dossier {#dossier}
 
-The Shadowstalker is a spirit assassin: a soul made out of murder, the victim's or the killer's, that has become a hunter of the living, moving unseen through shadow and striking from darkness. It is not mindless. It has purposes and codes of its own, it hunts particular targets across years, and it is patient, tactical and very hard to see coming. Some are bound into service by sorcerers who mean to use them. The one known in [[place-byzariargn|Bizaria Region]] haunts [[place-ravenswood|Ravenswood]], the wood astride the [[affiliation-byzarianlg|Bizarian League]]'s eastern trade routes and home ground of the [Ravenswood Brigands]{.name data-type="affiliation/criminal"}, and it is hunting the brigands, one at a time, as it has been for years.
+The Shadowstalker is a spirit assassin: a soul made out of murder, the victim's or the killer's, that has become a hunter of the living, moving unseen through shadow and striking from darkness. It is not mindless. It has purposes and codes of its own, it hunts particular targets across years, and it is patient, tactical and very hard to see coming. Some are bound into service by sorcerers who mean to use them. The one known in [[place-byzariargn|Bizaria]] haunts [[place-ravenswood|Ravenswood]], the wood astride the [[affiliation-byzarianlg|League]]'s eastern trade routes and home ground of the [Ravenswood Brigands]{.name data-type="affiliation/criminal"}, and it is hunting the brigands, one at a time, as it has been for years.
 
 ## Presentation
 

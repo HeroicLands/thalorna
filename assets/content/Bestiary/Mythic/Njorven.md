@@ -67,7 +67,7 @@ The Sea Wraith was overthrown long ago by [[lore-thrunvalddty|Thrunvald]] and pu
 
 What the people of the [[place-nrdlndsrgn|Nordlands Region]] meet is the stirring, never the thing itself. Storms come in violently and out of season, old curses that had gone quiet wake up, and the influence seeps inland far enough that the troubles of the [[affiliation-kingdomlgn|Kingdom of Malagna]] can no longer be separated from it. [[being-grosdrnrgd|Groa the Seid of Norgaad]] has had a vision of three threats to the north, and she calls this one the most urgent, because the other two, the kingdom's internal strife and the foreign fleets, grow worse in proportion to it.
 
-**Njorven is not a problem that can be hit.** The campaign material states this early and by design, and [[miscgear-sprsigrid|The Spear of Skraldthira]] is placed first in play so that a party learns it before committing to the wrong approach: the Spear is won in the spirit world by trials of wisdom, wit and resolve, and brute strength there produces failure, not a harder fight. Nothing engages Njorven in melee. Its minions can be fought and the cult can be fought, and both will be. The thing itself is reached only through the rite.
+**Njorven is not a problem that can be hit.** The campaign material states this early and by design, and [[miscgear-sprsigrid|the Spear of Skraldthira]] is placed first in play so that a party learns it before committing to the wrong approach: the Spear is won in the spirit world by trials of wisdom, wit and resolve, and brute strength there produces failure, not a harder fight. Nothing engages Njorven in melee. Its minions can be fought and the cult can be fought, and both will be. The thing itself is reached only through the rite.
 
 ## In the Land
 
@@ -77,13 +77,13 @@ Njorven lies under the northern seas, off the coasts of the Nordlands, and the c
 
 It does not act as a creature acts. It wakes, slowly, and as it wakes the sea and the weather answer it, curses stir, and those who serve it grow bolder. Its cult works on its behalf on land.
 
-**[Hafvald]{.name data-type="lore"}** is not one of the Ten of the [[affiliation-asguardian|Asguardian Pantheon]]. The name belongs to an older sea-power of the Nordlands, largely displaced by the [[lore-asvinir|Ásvinir]] and surviving now in place-names, in a few coastal observances the priests of the [[affiliation-thrunvald|Faith of Thrunvald]] tolerate without approving, and in the horn that bears the name. Every version of the story notices the resemblance between Hafvald and Njorven, and no two versions agree on what it means. Some tellings make them enemies of old, and the horn the instrument by which the elder power bound the younger the first time. Some make them kin. A few, told quietly and not in halls, make them the same thing under two names, which raises an obvious and unwelcome question about what the Ritual of Binding actually invokes. Groa has been advised not to pursue the question until after the sealing.
+**[Hafvald]{.name data-type="lore"}** is not one of the [[affiliation-asguardian|Asguardian Ten]]. The name belongs to an older sea-power of the Nordlands, largely displaced by the [[lore-asvinir|Ásvinir]] and surviving now in place-names, in a few coastal observances the priests of [[affiliation-thrunvald|Thrunvald]] tolerate without approving, and in the horn that bears the name. Every version of the story notices the resemblance between Hafvald and Njorven, and no two versions agree on what it means. Some tellings make them enemies of old, and the horn the instrument by which the elder power bound the younger the first time. Some make them kin. A few, told quietly and not in halls, make them the same thing under two names, which raises an obvious and unwelcome question about what the Ritual of Binding actually invokes. Groa has been advised not to pursue the question until after the sealing.
 
 ## What the North Does
 
 [[affiliation-njorvencult|Njorven's Cult]] venerates the Sea Wraith and means to see it free. It is an active faction in the campaign, and its interest runs directly against the rite: the Ritual requires the hidden coastal temple, a long working, and an invoker who cannot defend himself while working it.
 
-The rite needs all three regalia and will not proceed on two: the Spear of Skraldthira, [[miscgear-crwnwyrm|The Crown of the Wyrm]] and [[miscgear-hornnjordur|The Horn of Hafvald]]. It needs the hidden coastal temple. It needs spiritual and material preparation, and the spiritual half falls on the invoker personally. Then it needs holding. The climax of [[scenario-groascmpgn|Groa's Campaign]] is a defense, not a duel: the party protects someone deliberately helpless while Njorven's minions, the rival factions and the foreign invaders all arrive at once. A party that has the regalia and no allies does not finish it, because the temple cannot be held by a party alone; the sealing turns on having brought Malagna's fractured clans far enough together that the ground can be held at all.
+The rite needs all three regalia and will not proceed on two: the Spear of Skraldthira, [[miscgear-crwnwyrm|the Crown of the Wyrm]] and [[miscgear-hornnjordur|the Horn of Hafvald]]. It needs the hidden coastal temple. It needs spiritual and material preparation, and the spiritual half falls on the invoker personally. Then it needs holding. The climax of [[scenario-groascmpgn|Groa's Campaign]] is a defense, not a duel: the party protects someone deliberately helpless while Njorven's minions, the rival factions and the foreign invaders all arrive at once. A party that has the regalia and no allies does not finish it, because the temple cannot be held by a party alone; the sealing turns on having brought Malagna's fractured clans far enough together that the ground can be held at all.
 
 And what it buys is a reprieve of the same kind the last one bought. Everyone who works the rite knows that.
 
@@ -123,7 +123,7 @@ Creativity
 [[lore-njordurritlbinding|The Ritual of Binding]]
 : the rite, its requirements and its shape
 
-[[miscgear-sprsigrid|The Spear of Skraldthira]] · [[miscgear-crwnwyrm|The Crown of the Wyrm]] · [[miscgear-hornnjordur|The Horn of Hafvald]]
+[[miscgear-sprsigrid|The Spear of Skraldthira]] · [[miscgear-crwnwyrm|the Crown of the Wyrm]] · [[miscgear-hornnjordur|the Horn of Hafvald]]
 : the three regalia
 
 [[scenario-groascmpgn|Groa's Campaign]]

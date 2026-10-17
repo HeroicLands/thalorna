@@ -17,11 +17,11 @@ data:
 
 ## Overview
 
-Vaelukoa is the reef village of the eastern coast of the [[place-klhrcntnnt|Kalihara Continent]]. It stands on a shore of broken coral between [[place-nalurithan|Nalurithan]] and the approaches off [[place-telvari|Telvari]], behind a reef that shows as a line of white water a mile out, and the Kaliharans call the shore _vaelukoa_ (coral shore). The lineage [Vaelukoa]{.name data-type="affiliation/lineage"} that holds it takes the name from the shore. Its houses are raised on coral blocks above the tide, and its boats are the long narrow ones that can cross a reef at the top of the water.
+Vaelukoa is the reef village of the eastern coast of [[place-klhrcntnnt|Kalihara]]. It stands on a shore of broken coral between [[place-nalurithan|Nalurithan]] and the approaches off [[place-telvari|Telvari]], behind a reef that shows as a line of white water a mile out, and the Kaliharans call the shore _vaelukoa_ (coral shore). The lineage [Vaelukoa]{.name data-type="affiliation/lineage"} that holds it takes the name from the shore. Its houses are raised on coral blocks above the tide, and its boats are the long narrow ones that can cross a reef at the top of the water.
 
 ## The Holding
 
-The lineage Vaelukoa holds the shore, the reef and the channels through it. A work of [[lore-theithari|The Ithari]], one of the current-stones that stand on reefs and islets around the island, rises from the reef a short way offshore, and near it the currents run wrong for anyone who does not know them. The lineage knows them, and the village has been the cradle of pilots for as long as the approaches have had a Warden: a child of Vaelukoa learns the channels with the first boat, and the pilots who bring foreign hulls in past Telvari are drawn from its households more than from any other. The custodians out of [[place-thalari|Thal'ari]] tend the stone and live in the village in the dry months.
+The lineage Vaelukoa holds the shore, the reef and the channels through it. A work of [[lore-theithari|the Ithari]], one of the current-stones that stand on reefs and islets around the island, rises from the reef a short way offshore, and near it the currents run wrong for anyone who does not know them. The lineage knows them, and the village has been the cradle of pilots for as long as the approaches have had a Warden: a child of Vaelukoa learns the channels with the first boat, and the pilots who bring foreign hulls in past Telvari are drawn from its households more than from any other. The custodians out of [[place-thalari|Thal'ari]] tend the stone and live in the village in the dry months.
 
 ## The Failing
 

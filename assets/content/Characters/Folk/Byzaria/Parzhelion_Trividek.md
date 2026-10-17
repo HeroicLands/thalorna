@@ -36,4 +36,4 @@ Parzhelion Trividek is a 50-year-old man who stands 6'1" tall with a massive bui
 
 # Dossier {#dossier}
 
-Parzhelion Trividek is the first-sergeant and senior field deputy of [[affiliation-irnwlvscmpny|The Iron Wolves Company]], and a veteran of [[place-trianthion|Trianthion]], where he was a lieutenant. He has never forgiven [[being-ghymrhrptrks|Ghimaráhr Rores]] for the desertion that followed and keeps an informal standing inquiry running for any rumor of him.
+Parzhelion Trividek is the first-sergeant and senior field deputy of [[affiliation-irnwlvscmpny|the Iron Wolves Company]], and a veteran of [[place-trianthion|Trianthion]], where he was a lieutenant. He has never forgiven [[being-ghymrhrptrks|Ghimaráhr Rores]] for the desertion that followed and keeps an informal standing inquiry running for any rumor of him.

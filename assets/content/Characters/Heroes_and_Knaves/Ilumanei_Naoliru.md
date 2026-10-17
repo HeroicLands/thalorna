@@ -422,7 +422,7 @@ sohl:
 
 ![[ilmnnlr|Ilumanei Naoliru]]{float=top-left}
 
-Ilumanei Naoliru stands 6'0" tall with a medium build. He has deep brown skin, dark close-cropped black hair, and brown eyes. His features include an oval face, a narrow nose, well-defined lips, deep brows, and prominent cheeks. He has a scar on his chin.
+Ilumanei stands 6'0" tall with a medium build. He has deep brown skin, dark close-cropped black hair, and brown eyes. His features include an oval face, a narrow nose, well-defined lips, deep brows, and prominent cheeks. He has a scar on his chin.
 
 # Dossier {#dossier}
 

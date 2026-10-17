@@ -429,17 +429,17 @@ sohl:
 
 ![[elyseskyrn|Élithe Sarneth]]{float=top-left}
 
-Élithe Sarneth is a slender young woman of twenty-seven with fair, lightly freckled skin, dark blonde hair that falls softly around her face, and striking green eyes. Her graceful demeanor and radiant charm add to her natural allure, making her both captivating and approachable. She carries herself with the quiet competence of someone who has seen the inside of too many wounds to be squeamish about anything.
+Élithe is a slender young woman of twenty-seven with fair, lightly freckled skin, dark blonde hair that falls softly around her face, and striking green eyes. Her graceful demeanor and radiant charm add to her natural allure, making her both captivating and approachable. She carries herself with the quiet competence of someone who has seen the inside of too many wounds to be squeamish about anything.
 
 # Dossier {#dossier}
 
 Élithe Sarneth grew up as the daughter of an apothecary in a small village, learning the healing arts from her father and grandmother before she could read. Her natural aptitude for medicine and alchemy—combined with a charm that put even the most fearful patients at ease—led to her being sent to study in [[place-beravel|Péravel]], [[place-elavendre|Élavendre]], where she received formal training in both conventional healing and alchemical science.
 
-Despite her success in Péravel, Élithe grew restless. Academic study was too slow, too contained. She wanted to see rare herbs in the wild, test remedies under real conditions, and learn techniques that no chapterhouse could teach her. When the opportunity arose to join [[affiliation-slntlncmpny|The Silent Talon Company]] as their field medic, she took it without hesitation. War brings patients, and patients bring learning.
+Despite her success in Péravel, Élithe grew restless. Academic study was too slow, too contained. She wanted to see rare herbs in the wild, test remedies under real conditions, and learn techniques that no chapterhouse could teach her. When the opportunity arose to join [[affiliation-slntlncmpny|the Silent Talon]] as their field medic, she took it without hesitation. War brings patients, and patients bring learning.
 
 What Élithe does not advertise is that her skills extend beyond conventional healing. She possesses arcane talent—but a bad experience in her past has made her deeply cautious about revealing it. To most people, she is simply a very good healer. She intends to keep it that way.
 
-Her relationship with [[being-torniskbry|Tornis Kubri]] has recently added an unexpected complication to her carefully ordered life.
+Her relationship with [[being-torniskbry|Tornis]] has recently added an unexpected complication to her carefully ordered life.
 
 ## Background
 

@@ -16,7 +16,7 @@ data:
   packFolder: adventures
 ---
 
-A rockslide shuts the gorge behind the party below [[place-sunderwynd|Sunderwynd]], a watch-post on the southern approach to a pass of [[place-ironfells|The Ironfells]]. The garrison hangs in a dead pine and from the post's own beams, and the one man left on the ground holds the door with a crossbow. The thing that took them is a [[lore-dreadspawncrtr|Dreadspawn]] that lives in the heights of the stonework and never sets foot on the ground, and at dusk the heights fill with the voices of the men it took. The garrison's daybook says the voices are its own. They are not: the hung are alive, and the captain has been calling his last man by name for three nights.
+A rockslide shuts the gorge behind the party below [[place-sunderwynd|Sunderwynd]], a watch-post on the southern approach to an [[place-ironfells|Ironfells pass]]. The garrison hangs in a dead pine and from the post's own beams, and the one man left on the ground holds the door with a crossbow. The thing that took them is a [[lore-dreadspawncrtr|dreadspawn]] that lives in the heights of the stonework and never sets foot on the ground, and at dusk the heights fill with the voices of the men it took. The garrison's daybook says the voices are its own. They are not: the hung are alive, and the captain has been calling his last man by name for three nights.
 
 ## Overview
 
@@ -277,12 +277,12 @@ As the round goes on, the voices begin, one after another as each hung man is wa
 - **If the captain was brought down,** the first thing he asks for is Kenric, and what he says to him nobody else hears. He names Kenric in his report as the man who held the post.
 - **If the captain was left,** Kenric goes back up the gorge with the first party Kaerwynd sends in the spring, whatever the orders.
 - **If living men were left in the cistern,** Kaerwynd hears it from the ones who came out, and asks the party why.
-- **If the band of metal is taken to a scholar,** the marks on it match nothing in any library on Aelwyth. The [[affiliation-dunavarsynod|Dúnavarre Synod]] at [[place-ravenmoor|Ravenmoor]] asks to see it.
+- **If the band of metal is taken to a scholar,** the marks on it match nothing in any library on Aelwyth. The [[affiliation-dunavarsynod|Synod]] at [[place-ravenmoor|Ravenmoor]] asks to see it.
 - **If Kenric lives,** he does not serve under a roof again.
 
 ## See Also
 
 - [[place-sunderwynd|Sunderwynd]]—the watch-post above the gorge
 - [[place-sunderwynd#truth|The truth of Sunderwynd]]—what the Hangman keeps, and who still lives
-- [[place-ironfells|The Ironfells]] · [[place-caerwynd|Kaerwynd]] · [[place-sunderfells|The Sunderfells]]
+- [[place-ironfells|The Ironfells]] · [[place-caerwynd|Kaerwynd]] · [[place-sunderfells|the Sunderfells]]
 - [[lore-dreadspawncrtr|Dreadspawn]]—made things, of which the Hangman is one

@@ -107,7 +107,7 @@ Law reaches the farms through [[place-malstead|Málstead]]. When Gnarthborg's ow
 
 Malagna's kings come from the **[Hlurthidrok]{.name data-type="affiliation/lineage"}**, who reckon their line from **[Hlurthann I]{.name data-type="being/npc"}** and not from the king before him. That king, **[Gnirthorv]{.name data-type="being/npc"}**, took the host across the frozen border lake of [[place-skalfvatn|Skalfvatn]] in 466 and went through the ice with eleven hundred men, and his arm-ring is still under it ([[lore-nordkinwars|The Kin-Wars]]).
 
-- **Hlurthann I**, about 480 to 523, turned the kingdom to the western trade after Skalfvatn and built the hulls of [[lore-southrnfleets|The Southern Fleets]] in Gnarthborg's yards.
+- **Hlurthann I**, about 480 to 523, turned the kingdom to the western trade after Skalfvatn and built the hulls of [[lore-southrnfleets|the Southern Fleets]] in Gnarthborg's yards.
 - **[Hlurthann II]{.name data-type="being/npc"}**, about 600 to 632, married the crown's daughters into the island families of [[affiliation-calypsa|Kalipsa]].
 - **[Gnaldrorv]{.name data-type="being/npc"}**, about 632 to 662, would not choose between the [[affiliation-grimvar|Grimvar]] and the [[affiliation-hrafnvar|Hrafnvar]] when the Málstead wergild split them.
 - [[being-knghlrthni|Hlurthann III]], acclaimed about 686, the present king.
@@ -116,7 +116,7 @@ Hlurthann III is aging and has no acclaimed heir. The ting will choose among the
 
 ## Two Clans and One Quarrel
 
-Malagna's two great clans, the [[affiliation-grimvar|Grimvar]] and the [[affiliation-hrafnvar|Hrafnvar]], remember one broken settlement differently, and the difference runs beneath the kingdom's present division. It began three generations ago with a killing in a Gnarthborg shipyard, and the peace a priest of the [[affiliation-frodvin|Faith of Frodvin]] sought by walking between [[place-braldheim|Braldheim]] and Málstead did not settle it. It is remembered as the Málstead wergild. The Grimvar keep [[miscgear-crwnwyrm|The Crown of the Wyrm]] in a howe at Braldheim, and the Hrafnvar say that fear, not piety, keeps their rivals from wearing it. [[lore-mlgnahstry|Histories and Legends of Malagna]] gives each side its account.
+Malagna's two great clans, the [[affiliation-grimvar|Grimvar]] and the [[affiliation-hrafnvar|Hrafnvar]], remember one broken settlement differently, and the difference runs beneath the kingdom's present division. It began three generations ago with a killing in a Gnarthborg shipyard, and the peace a priest of [[affiliation-frodvin|Frodvin]] sought by walking between [[place-braldheim|Braldheim]] and Málstead did not settle it. It is remembered as the Málstead wergild. The Grimvar keep [[miscgear-crwnwyrm|the Crown of the Wyrm]] in a howe at Braldheim, and the Hrafnvar say that fear, not piety, keeps their rivals from wearing it. [[lore-mlgnahstry|Histories and Legends of Malagna]] gives each side its account.
 
 ## The People and Their Ports
 
@@ -130,7 +130,7 @@ Malagna trades with Élavendre, with the northern communities of Aelwyth, and oc
 
 ## Commerce and Currency
 
-Malagna strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian Currency]] (ethla, ankhra and bit), and no chapter of [[affiliation-danvar|The Danvar]] operates in the [[place-nrdlndsrgn|Nordlands Region]]. Vylarian paper is _not_ honored: a traveler's note or any other paper instrument has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
+Malagna strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (ethla, ankhra and bit), and no chapter of [[affiliation-danvar|the Danvar]] operates in the [[place-nrdlndsrgn|Nordlands]]. Vylarian paper is _not_ honored: a traveler's note or any other paper instrument has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
 
 ## See Also
 

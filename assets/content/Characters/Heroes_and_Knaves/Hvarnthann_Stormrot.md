@@ -418,7 +418,7 @@ sohl:
 
 ![[hvrnthnstrmrt|Hvarnthann Stormrót]]{float=top-left}
 
-Hvarnthann Stormrót stands 6'2" tall with a medium build. He has tanned weathered skin, brown hair, and blue eyes. His features include an oblong face, a narrow nose, a broad chin, a small mouth, thick brows, and high cheeks.
+Hvarnthann stands 6'2" tall with a medium build. He has tanned weathered skin, brown hair, and blue eyes. His features include an oblong face, a narrow nose, a broad chin, a small mouth, thick brows, and high cheeks.
 
 # Dossier {#dossier}
 

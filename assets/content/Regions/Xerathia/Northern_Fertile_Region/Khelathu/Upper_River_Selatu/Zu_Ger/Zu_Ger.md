@@ -19,7 +19,7 @@ data:
 
 "My grandfather plowed round the stones, and so do I," a farmer of Zu-Ger says, turning his team at the end of a furrow beside a row of old marker stones.
 
-Zu-Ger is the land of [[affiliation-selatzuger|The Selat of Zu-Ger]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is a different place from [[place-zugezer|Zu-Gezer]], the royal necropolis across the river from the capital.
+Zu-Ger is the land of [[affiliation-selatzuger|the Selat of Zu-Ger]], one of [[affiliation-upperrivrslt|the Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is a different place from [[place-zugezer|Zu-Gezer]], the royal necropolis across the river from the capital.
 
 ## Character
 
@@ -33,7 +33,7 @@ Grain goes to the granaries, labor to the canals and a share of everything to th
 
 - [[place-tjegu|Tjegu]]—the selat capital and the Halzi'a's seat
 - The chief temple of the [[affiliation-hezmuiri|Faith of Hezmu'iri]] and its estates
-- The old burial-ground of the first dynasties, [[place-firsttablets|The Ground of the First Tablets]]
+- The old burial-ground of the first dynasties, [[place-firsttablets|the Ground of the First Tablets]]
 
 ## Settlements
 

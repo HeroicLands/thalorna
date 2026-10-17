@@ -63,7 +63,7 @@ sohl: {system: {commonSkills: []}}
 #   school: fire
 ---
 
-Rhezin **Pirethos** is the current of heat, light, energy, and transformation through destruction. It occupies the topmost vertex of the [[affiliation-hexhodai|Thizaron]], and its practitioners are among the most visible and politically influential mages within [[affiliation-ordoarcanis|Thordimalon]]. Where other schools work through subtlety, patience, or communion, Pirethos works through _force_—the direct application of arcane energy to change the state of the world, usually by burning away what was there before.
+Rhezin **Pirethos** is the current of heat, light, energy, and transformation through destruction. It occupies the topmost vertex of the [[affiliation-hexhodai|Thizaron]], and its practitioners are among the most visible and politically influential mages within [[affiliation-ordoarcanis|the Order]]. Where other schools work through subtlety, patience, or communion, Pirethos works through _force_—the direct application of arcane energy to change the state of the world, usually by burning away what was there before.
 
 ## Philosophy
 

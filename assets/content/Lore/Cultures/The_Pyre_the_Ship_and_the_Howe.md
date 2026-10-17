@@ -7,7 +7,7 @@ description: "How the Nordmen bury their dead—the pyre, the ship-burial and th
 tags: [asguardian, draft]
 ---
 
-"You will see a hall cut a hole in its own wall this week," a gudja of the [[affiliation-solrun|Faith of Solrún]] tells a newcomer who has come north in the season of a jarl's death, "and you will want to ask why. Ask me, not the widow." A death in a hall of the [[place-nrdlndsrgn|Nordlands Region]] starts a sequence of work that runs for seven nights and ends with a cup, and every part of it answers one of two questions: where the dead are going, and what they leave behind.
+"You will see a hall cut a hole in its own wall this week," a gudja of [[affiliation-solrun|Solrún]] tells a newcomer who has come north in the season of a jarl's death, "and you will want to ask why. Ask me, not the widow." A death in a [[place-nrdlndsrgn|Nordlands hall]] starts a sequence of work that runs for seven nights and ends with a cup, and every part of it answers one of two questions: where the dead are going, and what they leave behind.
 
 ## The First Night
 
@@ -27,7 +27,7 @@ The _skipsdulm_ (ship-burial) belongs to those whose life was a ship or a hall t
 
 ## The Howe
 
-The _hrum_ (howe) is the barrow raised over a grave, and it is a claim as well as a grave. A line that holds _odel_ (inherited land) proves it at the ting by its howes: the mounds of the people who held the ground before, standing on it. A howe is therefore raised over anyone who held land and over most who held standing, whether what lies under it is a pot of ash or a whole ship. Taking anything from a howe is theft from the dead and the line together, and travelers leave grave-goods where they lie. Some howes hold worse than bones: the [[lore-haugverdir|Hrúmverdir]], the howe-wardens, are the reason a stranger asks the local custodians before going near one.
+The _hrum_ (howe) is the barrow raised over a grave, and it is a claim as well as a grave. A line that holds _odel_ (inherited land) proves it at the ting by its howes: the mounds of the people who held the ground before, standing on it. A howe is therefore raised over anyone who held land and over most who held standing, whether what lies under it is a pot of ash or a whole ship. Taking anything from a howe is theft from the dead and the line together, and travelers leave grave-goods where they lie. Some howes hold worse than bones: the [[lore-haugverdir|hrúmverdir]], the howe-wardens, are the reason a stranger asks the local custodians before going near one.
 
 ## Who Is Laid How
 

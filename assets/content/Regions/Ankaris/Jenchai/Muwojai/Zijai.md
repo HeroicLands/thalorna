@@ -15,7 +15,7 @@ data:
   culture: jenchaiclt
 ---
 
-Zijai (Star Peak) stands in the interior of the great island, beside [[place-zojai|Zojai]], the Emperor's mountain, and is held by the [[affiliation-muwojaidmn|Muwojai Domain]]. The two peaks rise from the same cedar valleys, and the road to the Emperor passes along the foot of Zijai.
+Zijai (Star Peak) stands in the interior of the great island, beside [[place-zojai|Zojai]], the Emperor's mountain, and is held by [[affiliation-muwojaidmn|House Muwojai]]. The two peaks rise from the same cedar valleys, and the road to the Emperor passes along the foot of Zijai.
 
 The slopes are cedar forest below and bare rock above. The terraces at the mountain's foot bear rice at [Zainu]{.name data-type="place/settlement"}, and the timber that is felled above them supplies the joinery of [Tsaimu]{.name data-type="place/settlement"} and the halls of the court. The river that drains the valley is crossed at the ferry of [Zuju]{.name data-type="place/settlement"}, on the road to [[place-lengwou|Léngwou]]. The castle town of [[place-kowu|Kowu]] stands on the lower slope.
 

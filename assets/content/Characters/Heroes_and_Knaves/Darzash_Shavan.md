@@ -414,7 +414,7 @@ sohl:
 
 ![[darzshshvn|Darzash Shavan]]{float=top-left}
 
-Darzash Shavan stands 5'10" tall with a light build. She has tawny skin, very dark brown hair, and green eyes. Her features include a narrow face, an aquiline nose, a pointed chin, very dark brows.
+Darzash stands 5'10" tall with a light build. She has tawny skin, very dark brown hair, and green eyes. Her features include a narrow face, an aquiline nose, a pointed chin, very dark brows.
 
 # Dossier {#dossier}
 
@@ -477,10 +477,10 @@ Physical Fragility
 Lady [[being-shirangolsha|Shiran Golshani]]
 : A widow and collector of sacred objects who has commissioned three major pieces and is Darzash's primary advocate in noble circles.
 
-Father [[being-artavinkavir|Artavin Kaviran]] of the [Míthara Temple]{.name data-type="place/structure"}
+Father [[being-artavinkavir|Artavin]] of the [Míthara Temple]{.name data-type="place/structure"}
 : The elderly priest who recognized spiritual dimension in her work and provides both commissions and spiritual counsel.
 
-Merchant-Prince [[being-ahrashtamira|Ahrash Tamiran]]
+Merchant-Prince [[being-ahrashtamira|Ahrash]]
 : A wealthy spice trader who values her work above all others and has promised patronage if she were ever to accept formal support.
 
 ### Enemies

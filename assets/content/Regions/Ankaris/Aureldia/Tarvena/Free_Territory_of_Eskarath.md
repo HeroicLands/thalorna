@@ -89,7 +89,7 @@ Government
 
 ## Overview
 
-The Free Territory of Eskarath holds the land of [[place-eskarath|Eskarath]]. The Eskárathi speak their own language—**[Eskari]{.name data-type="skill/language"}**, a linguistic isolate with no known relatives—maintain their own legal customs, and acknowledge the High King of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] only in the loosest possible sense. They are fiercely independent even by Tarvenan standards, which is saying a great deal.
+The Free Territory of Eskarath holds the land of [[place-eskarath|Eskarath]]. The Eskárathi speak their own language—**[Eskari]{.name data-type="skill/language"}**, a linguistic isolate with no known relatives—maintain their own legal customs, and acknowledge the High King of [[affiliation-kingdmtrvn|Tarvénia]] only in the loosest possible sense. They are fiercely independent even by Tarvenan standards, which is saying a great deal.
 
 ## Character
 
@@ -99,11 +99,11 @@ Eskari culture is ancient, insular, and deeply rooted in the highland landscape.
 
 The Eskárathi nominally honor the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]], but in practice that worship is layered over a much older animistic tradition. The highland people venerate mountain spirits, forest guardians, and ancestral figures alongside (or instead of) the Aureldian gods. Shrines to local spirits are found at mountain passes, springs, and ancient oak groves, and the folk practices of the Eskárathi have more in common with the [[lore-aelendnppl|Áelendan traditions]] across the border in [[place-elavendre|Élavendre]] than with anything in lowland Tarvénia. This cultural affinity with the Élavendren highlands—and the ethnic distinctiveness from the Tarveni—gives the Eskárathi a liminal quality, belonging fully to neither Tarvénia nor Élavendre.
 
-[[affiliation-ordoarcanis|Thordimalon]] has never established a presence in Eskarath. The few Arcane Order agents who have ventured into the highlands report that the Eskárathi have their own magical traditions—herb-lore, weather-reading, and a form of ancestral communion—that they practice openly and refuse to submit to outside regulation.
+The [[affiliation-ordoarcanis|Thordimalon]] has never established a presence in Eskarath. The few Arcane Order agents who have ventured into the highlands report that the Eskárathi have their own magical traditions—herb-lore, weather-reading, and a form of ancestral communion—that they practice openly and refuse to submit to outside regulation.
 
 ## Commerce and Currency
 
-The Free Territory of Eskarath uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under [[affiliation-tevran|The Tevran Maldor]]. The Free Territory of Eskarath is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Free Territory of Eskarath uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Free Territory of Eskarath is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

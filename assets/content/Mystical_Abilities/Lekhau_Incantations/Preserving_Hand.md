@@ -15,5 +15,5 @@ sohl:
 ---
 
 Preserving Hand is worked on the dead between death and the embalming house, on documents, and on anything that must
-survive a journey. [[affiliation-garqeltnu|Gar-Qelt'nu]] and the embalmers of the [[affiliation-hezmuiri|Faith of Hezmu'iri]] work side by side constantly and are not
+survive a journey. [[affiliation-garqeltnu|Gar-Qelt'nu]] and the embalmers of [[affiliation-hezmuiri|Hezmu'iri]] work side by side constantly and are not
 the same people, a distinction both are tired of explaining.

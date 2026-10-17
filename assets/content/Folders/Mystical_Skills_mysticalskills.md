@@ -5,4 +5,4 @@ type: folder
 data: {parent: esoteric, color: "#BA55D3"}
 ---
 
-This folder gathers the skills through which mystical powers are exercised. It is a subfolder of the esoteric folder, and the skills are grouped in subfolders by tradition, including the [[affiliation-nkaruthar|Nkaru'thar]] and the [[affiliation-khelathpnthn|Khelathi Pantheon]].
+This folder gathers the skills through which mystical powers are exercised. It is a subfolder of the esoteric folder, and the skills are grouped in subfolders by tradition, including the [[affiliation-nkaruthar|Nkaruthar]] and the [[affiliation-khelathpnthn|Khelathi]].

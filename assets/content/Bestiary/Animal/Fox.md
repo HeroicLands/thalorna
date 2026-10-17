@@ -237,7 +237,7 @@ At the edge of the field, where the stubble meets the hedge, a red shape is sitt
 
 # Dossier {#dossier}
 
-The Fox is the small red hunter of the woods, hedges and field margins, twelve to fifteen inches at the shoulder and up to thirteen pounds. It lives in the clearings of [[place-vrystwald|Vristwald]], the forest-steppe of [[place-velanthrgn|Velanthia Region]], [[place-silvrfrsts|The Silver Forests]] of [[place-elavendre|Élavendre]], the [[place-nrdlndsrgn|Nordlands Region]] coast and the northern tundra of [[place-ixtemtzulrgn|Ishtem Tsul Region]], and it raids hen-houses, escapes traps and leads dogs astray. It is the wesk of several Varokh villages.
+The Fox is the small red hunter of the woods, hedges and field margins, twelve to fifteen inches at the shoulder and up to thirteen pounds. It lives in the clearings of [[place-vrystwald|Vristwald]], the forest-steppe of [[place-velanthrgn|Velanthia]], [[place-silvrfrsts|the Silver Forests]] of [[place-elavendre|Élavendre]], the [[place-nrdlndsrgn|Nordlands]] coast and the northern tundra of [[place-ixtemtzulrgn|Ishtem Tsul]], and it raids hen-houses, escapes traps and leads dogs astray. It is the wesk of several Varokh villages.
 
 ## Presentation
 
@@ -253,7 +253,7 @@ Foxes are active at dawn, dusk and night. They live alone except in the mating s
 
 ## What the Farmers Do
 
-A farmer keeps hens shut in at night and the hen-house door barred, and sets a snare at a gap in the hedge where a fox has been. Hunters of Vristwald ride after a fox with hounds, and trappers sell the fur through the Nordlands trade. The fox is the wesk of Vristwald villages such as [Balthhaven]{.name data-type="place/settlement"} and [Thornholt]{.name data-type="place/settlement"}. In the Silver Forests the Sinale tell of [[lore-kiltasspr|Kiltas, the Red Fox of the Lower Wood]], a thief and bargainer among [[lore-thekindred|The Kindred]]; Kiltas is the one spirit there that will renegotiate its terms. Fox pelts are among the furs traded as currency.
+A farmer keeps hens shut in at night and the hen-house door barred, and sets a snare at a gap in the hedge where a fox has been. Hunters of Vristwald ride after a fox with hounds, and trappers sell the fur through the Nordlands trade. The fox is the wesk of Vristwald villages such as [Balthhaven]{.name data-type="place/settlement"} and [Thornholt]{.name data-type="place/settlement"}. In the Silver Forests the Sinale tell of [[lore-kiltasspr|Kiltas, the Red Fox of the Lower Wood]], a thief and bargainer among [[lore-thekindred|the Kindred]]; Kiltas is the one spirit there that will renegotiate its terms. Fox pelts are among the furs traded as currency.
 
 ## Signs
 

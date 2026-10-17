@@ -419,7 +419,7 @@ The sun is down behind the mountains and the great lake has gone still as a mirr
 
 # Dossier {#dossier}
 
-The Luminshade is a spirit of the boundary between light and shadow, a tall, graceful, man-shaped figure made of the two in perfect balance, which dwells in reflections, at dusk and dawn, and wherever light behaves strangely. It is curious, alien and not hostile, though it is no friend either: it cares for beauty, symmetry and interesting patterns, and it judges people by whether they provide them. It is seen most often at [[place-ixkulchalix|Ishkul Ch’alish]], the temple-city on the sacred lake of [[place-kuxiixbalrgn|K'ushi Ish'bal Region]] in [[place-sthrnkchchk|Southern K'ich'chik]], where the lake is said to be the eye through which the gods observe the mortal world and the boundary between the mortal and the divine grows thin.
+The Luminshade is a spirit of the boundary between light and shadow, a tall, graceful, man-shaped figure made of the two in perfect balance, which dwells in reflections, at dusk and dawn, and wherever light behaves strangely. It is curious, alien and not hostile, though it is no friend either: it cares for beauty, symmetry and interesting patterns, and it judges people by whether they provide them. It is seen most often at [[place-ixkulchalix|Ishkul Ch’alish]], the temple-city on the sacred lake of [[place-kuxiixbalrgn|K'ushi Ish'bal]] in [[place-sthrnkchchk|Southern K'ich'chik]], where the lake is said to be the eye through which the gods observe the mortal world and the boundary between the mortal and the divine grows thin.
 
 ## Presentation
 

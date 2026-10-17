@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-**Balku** (about 22,000 people) is the capital of [[affiliation-selatzuzlqtt|The Selat of Zu-Zel-Iaqtet]] in the empire, a fortified hill-town at the mouth of the chief mining district where the desert roads come down out of the hills. The eastern gold is gathered here, weighed and sealed for the long guarded journey to the capital.
+**Balku** (about 22,000 people) is the capital of [[affiliation-selatzuzlqtt|the empire's Selat of Zu-Zel-Iaqtet]] in the empire, a fortified hill-town at the mouth of the chief mining district where the desert roads come down out of the hills. The eastern gold is gathered here, weighed and sealed for the long guarded journey to the capital.
 
 "Look at the walls and you know what the town is for," a mine overseer tells a newcomer riding in behind a convoy. "They face outward at the desert and inward at the strongroom, and the second is the harder to get past." The assay-house and treasury are the selat's strongroom, and the garrison barracks hold the troops who escort the gold-convoys and answer the desert raiders. The great temple of [[lore-psaqarudty|Saq'aru]] the smith presides over a town of mine-captains, smelters, engineers and hard frontier labor.
 

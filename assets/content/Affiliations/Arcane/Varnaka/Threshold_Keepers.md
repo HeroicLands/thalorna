@@ -82,7 +82,7 @@ Pantheon
 
 "**Two Witnesses**, always two," a **Keeper of the Register** tells the court clerk who has come to ask what a consultation is worth. "One is worth nothing in any court."
 
-The Threshold-keepers are what [[place-vedyarargn|Vedyara Region]] has instead of necromancers. They put one question to the newly dead and compel nothing, and that difference is the whole defense of the practice.
+The Threshold-keepers are what [[place-vedyarargn|Vedyara]] has instead of necromancers. They put one question to the newly dead and compel nothing, and that difference is the whole defense of the practice.
 
 In the keepers' theology, [[lore-kalavratadty|Kalavrata]] guides the soul from one body to the next and grants nothing to anyone for asking. He is not petitioned here and is not held to have any part in the answer. What the keepers work is the gap—the space between the sounding of the conch and the lighting of the pyre, while the household's threshold lamp still burns and the way the soul has just gone is still, in the tradition's own words, open behind it.
 

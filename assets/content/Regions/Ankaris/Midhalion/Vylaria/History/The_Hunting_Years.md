@@ -46,17 +46,17 @@ data:
         - how many practitioners the hunt took, which the Sekran's register does not give
 ---
 
-In The Hunting Years, a _sekeros_'s notary, filing the report on a hedge-witch's cottage in a [[place-moktur|Moktur]] valley, looks up the date on the standing instruction for the work: the instruction is nearly eight hundred years old and has been reissued without a change of wording. "It is the same hunt," he says. "It was never closed, it only got smaller."
+A _sekeros_'s notary, filing the report on a hedge-witch's cottage in a [[place-moktur|Moktur]] valley, looks up the date on the standing instruction for the work: the instruction is nearly eight hundred years old and has been reissued without a change of wording. "It is the same hunt," he says. "It was never closed, it only got smaller."
 
 ## The Monopoly Meets the Country
 
-[[lore-kandrol|The Kandrol]] gave [[affiliation-ordoarcanis|Thordimalon]] the sole right to practice, teach and trade in arcane lore, and it gave the [Sekran]{.name data-type="affiliation"} the duty to make that right real. Making it real took a generation. Practitioners who refused the terms had gone underground or beyond the [Vylarian Republic]{.name data-type="affiliation/polity"}'s reach, and others had never heard of the Lex at all. Rival traditions, handed down in families and temples and market towns, taught what the Order's colleges did not teach and ignored the register.
+[[lore-kandrol|The Kandrol]] gave the [[affiliation-ordoarcanis|Thordimalon]] the sole right to practice, teach and trade in arcane lore, and it gave the [Sekran]{.name data-type="affiliation"} the duty to make that right real. Making it real took a generation. Practitioners who refused the terms had gone underground or beyond the [Vylarian Republic]{.name data-type="affiliation/polity"}'s reach, and others had never heard of the Lex at all. Rival traditions, handed down in families and temples and market towns, taught what the Order's colleges did not teach and ignored the register.
 
 The Sekran went after all of it. A practitioner the Sekran found was enrolled if he would be, on terms, and the Order's colleges grew by people who would not otherwise have come. Those who would not be enrolled were held, under oath or in a prison, and the few judged too dangerous were killed. The Republic lent the Order legions for the work, and when the Republic ended the Founder's peace went on lending them.
 
 ## Helionis
 
-The hardest country to hunt in was the one that had taught the Order its craft. The Helionite city-states had produced practitioners for centuries before the Republic took them, and after the conquest their free schools went on teaching what they had always taught. The Sekran closed them one by one, enrolling their masters or breaking their houses, and the last of them fell in the first decades of the [[affiliation-vylarinmpr|Vylarian Empire]]. The city-states still produce more untrained talent than any other country the Order registers, and the Sekran treads carefully in them.
+The hardest country to hunt in was the one that had taught the Order its craft. The Helionite city-states had produced practitioners for centuries before the Republic took them, and after the conquest their free schools went on teaching what they had always taught. The Sekran closed them one by one, enrolling their masters or breaking their houses, and the last of them fell in the first decades of the [[affiliation-vylarinmpr|Empire]]. The city-states still produce more untrained talent than any other country the Order registers, and the Sekran treads carefully in them.
 
 ## What It Left
 

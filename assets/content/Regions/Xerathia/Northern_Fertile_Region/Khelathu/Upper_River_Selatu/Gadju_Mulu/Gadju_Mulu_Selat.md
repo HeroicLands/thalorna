@@ -19,7 +19,7 @@ data:
 
 "The maps call it Green Waters," a fowler says as he poles a passenger between the reed-beds, "and for once the maps have it right. Most of the upper river is a ribbon of green with desert behind it. Here the water spreads out, and it stays."
 
-Gadju-Mulu Selat is the land of [[affiliation-selatgadjuml|The Selat of Gadju-Mulu]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. Its name is "Green Waters," and about 360,000 people live in its marshy flood-basin, the wettest country of the upper selatu.
+Gadju-Mulu Selat is the land of [[affiliation-selatgadjuml|the Selat of Gadju-Mulu]], one of [[affiliation-upperrivrslt|the Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. Its name is "Green Waters," and about 360,000 people live in its marshy flood-basin, the wettest country of the upper selatu.
 
 ## Character
 

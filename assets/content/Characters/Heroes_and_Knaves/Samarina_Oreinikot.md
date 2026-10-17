@@ -434,11 +434,11 @@ sohl:
 
 ![[smrnorenkt|Samarina Oreinikot]]{float=top-left}
 
-Samarina Oreinikot stands 5'10" tall with a light build. She has light olive skin, very dark brown hair, and green eyes. Her features include an oval face, a prominent nose, a narrow chin, well-defined lips, very dark brows, and hollow cheeks.
+Samarina stands 5'10" tall with a light build. She has light olive skin, very dark brown hair, and green eyes. Her features include an oval face, a prominent nose, a narrow chin, well-defined lips, very dark brows, and hollow cheeks.
 
 # Dossier {#dossier}
 
-**Pastoral Heritage:** Samarina was born the youngest daughter of a respected herding family in the highlands of the [[place-byzariargn|Bizaria Region]], where sheep and goat herding is the mainstay of livelihood and custom. From childhood, she was immersed in the rhythms of pastoral life—learning to read weather patterns, to identify individual animals from subtle distinctions, and to understand the social order within flocks. Her family taught her that herding is a sacred trust, a covenant with the animals under one's care.
+**Pastoral Heritage:** Samarina was born the youngest daughter of a respected herding family in the [[place-byzariargn|Bizarian highlands]], where sheep and goat herding is the mainstay of livelihood and custom. From childhood, she was immersed in the rhythms of pastoral life—learning to read weather patterns, to identify individual animals from subtle distinctions, and to understand the social order within flocks. Her family taught her that herding is a sacred trust, a covenant with the animals under one's care.
 
 **Early Challenges and Growth:** At sixteen, Samarina attempted to establish her own herd independently, a common practice among young herders. However, an unusual drought year combined with predator losses and a fall in prices threatened the survival of both her animals and her livelihood. Rather than give up, she spent three years rebuilding through careful selective breeding, new grazing methods, and the development of fine wool that commanded higher prices. This early hardship taught her resilience while also revealing her caution—she learned to make conservative decisions, to put security before growth.
 

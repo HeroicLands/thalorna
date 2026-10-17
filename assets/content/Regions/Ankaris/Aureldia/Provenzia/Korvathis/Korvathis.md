@@ -16,7 +16,7 @@ data:
 
 **Korvatis**—_the noon country_; the south, and by long implication the warm and prosperous part.
 
-The **Korvatis** is the [[place-provenzrgn|Provenzia Region]] as the world pictures it, and as half of Provenzia actually lives:
+The **Korvatis** is [[place-provenzrgn|Provenzia]] as the world pictures it, and as half of Provenzia actually lives:
 some two and a half million people along the warm, sheltered shore of the
 [[place-vylarianse|Vylarian Sea]] and in the country behind it. It carries the overwhelming majority of
 the kingdom's trade, wealth and population, and every other quarter of the realm is in some measure
@@ -49,8 +49,8 @@ natural front door to the Vylarian world—which is exactly what it has been sin
 ## Its Interior
 
 Behind the coastal plain the ground rises into the [[place-thuravelhills|Túravel Hills]], which
-are the exception to everything above: thinly held, badly mapped, and never really converted from [[affiliation-theoldway|The Old Way]]. The
-forgotten [[place-shrinethuravelhills|Shrine of Túravel Hills]] is somewhere in them.
+are the exception to everything above: thinly held, badly mapped, and never really converted from [[affiliation-theoldway|the older faith]]. The
+forgotten [[place-shrinethuravelhills|shrine]] is somewhere in them.
 
 The [[place-bldfldcalvenza|Blood-field of Kalvenza]] lies above the shore, a hundred silent acres
 in the middle of the most comfortable country in Provenzia.

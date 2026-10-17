@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-At the seaward margin of [[place-greylevels|The Greylevels]], past the last drained grazing and beyond the reach of the commissions' newer banks, a low mound stands up out of the reeds with a stone house on it. A causeway of laid stone runs out to it across the flats, and the tide covers the causeway twice a day. The house is a chapel with a squat bell-tower, a cloister of guest cells, a chapter room and a crypt cut down into the mound below the tide line. The Levels call it **Threnhallow**, the holy place of lament. Its roof is mostly sound. Nobody has kept it for years.
+At the seaward margin of [[place-greylevels|the Greylevels]], past the last drained grazing and beyond the reach of the commissions' newer banks, a low mound stands up out of the reeds with a stone house on it. A causeway of laid stone runs out to it across the flats, and the tide covers the causeway twice a day. The house is a chapel with a squat bell-tower, a cloister of guest cells, a chapter room and a crypt cut down into the mound below the tide line. The Levels call it **Threnhallow**, the holy place of lament. Its roof is mostly sound. Nobody has kept it for years.
 
 ## The House
 
@@ -49,7 +49,7 @@ The wheel is rusted on its rim and bright on its handles, and the gear is grease
 ## What the Levels Say
 
 - **The fowlers and pilots of the Levels** know the bell and say that when it rings with no body brought in, somebody on the flats will not come home. They say the dead of the house come up out of the flats and call in the voices of those taken before, and that whoever answers is the next the bell rings for. They do not take the causeway after dark, and a pilot who must pass the mound at night ships his oars and drifts.
-- **The Levels' telling of the house** is that the commission's endowment failed in one of its long disputes, the house could not pay for labor on its gates, and the sea came back over the lower grazing, so that more of the Levels drowned in a year than in ten before it. **Keeper Leofwald**, the Threshold Keeper of that time, had more dead in his crypt than brethren to bury them, and he altered the rite so that the drowned rose to work the gates. The telling says [[lore-theshadow|The Shadow]] came in by the opening he made, and that his novices raised him with his own rite when he died.
+- **The Levels' telling of the house** is that the commission's endowment failed in one of its long disputes, the house could not pay for labor on its gates, and the sea came back over the lower grazing, so that more of the Levels drowned in a year than in ten before it. **Keeper Leofwald**, the Threshold Keeper of that time, had more dead in his crypt than brethren to bury them, and he altered the rite so that the drowned rose to work the gates. The telling says [[lore-theshadow|the Shadow]] came in by the opening he made, and that his novices raised him with his own rite when he died.
 - **The Levels' telling of the Keeper since** is that he has been killed more than once: by a fowler's spear out on the flats, by a priest of the Silent Judge whom the commission paid to go out to the mound, and by the Levels' own people after a hard winter. They say the Keeper always comes back, and the water with him, and they have let him be since.
 - **The graziers behind the cut** say the lower grazing has stayed dry since the house went quiet, and that the commission takes the credit for it.
 - **The commission of sewers** carries the house's endowment on its rolls as unpaid and in dispute. Its clerks say the newer banks keep the lower grazing dry, and argue over whose fault the sluice is.
@@ -63,14 +63,14 @@ The causeway runs out from the end of a sewer-bank, a long half-hour's walk acro
 
 - **The endowment chest.** The commission of sewers wants its chest and its rolls back from the mound, to settle a dispute, and pays well enough to tempt somebody.
 - **A pilot's son.** A pilot's son rowed a pair of travelers out to the mound at dusk and did not come back. His father heard the bell.
-- **The reliquary.** A Levels family left a jeweled reliquary of the healers of the [[affiliation-lusinia|Faith of Lusinia]] in the house's keeping, and wants it brought home.
+- **The reliquary.** A Levels family left a jeweled reliquary of the healers of [[affiliation-lusinia|Lusinia]] in the house's keeping, and wants it brought home.
 
 ## See Also
 
 - [[scenario-bellsgreylvl|The Bells Beneath the Greylevels]]—a scenario set here
 - [[place-greylevels|The Greylevels]] · [[place-greywater|Greywater]]
 - [[affiliation-selmoros|Faith of Sélmoros]]—the faith the house was built to serve
-- [[lore-undead|Undead]] · [[lore-theshadow|The Shadow]]
+- [[lore-undead|Undead]] · [[lore-theshadow|the Shadow]]
 
 # The Truth of Threnhallow {#truth .secret}
 

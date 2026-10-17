@@ -40,7 +40,7 @@ data:
 
 ## Overview
 
-The women of **Gar-Theqeru** carry influence in their own right, and not only through the men they married into the family. The house is a noble one of the [[place-aukhelathrgq|Au'Khelathu Region]] whose patronage reaches into the healing trades, funding physicians and the preparation of remedies that a less generous house would leave to the temples alone. A healer who gains the house's patronage gains the standing that comes with it, and loses it just as visibly if the house withdraws support.
+The women of **Gar-Theqeru** carry influence in their own right, and not only through the men they married into the family. The house is a noble one of [[place-aukhelathrgq|Au'Khelathu]] whose patronage reaches into the healing trades, funding physicians and the preparation of remedies that a less generous house would leave to the temples alone. A healer who gains the house's patronage gains the standing that comes with it, and loses it just as visibly if the house withdraws support.
 
 ## Character
 

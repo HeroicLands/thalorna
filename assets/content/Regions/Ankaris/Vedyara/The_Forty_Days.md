@@ -19,7 +19,7 @@ data:
   packFolder: vedyara
 ---
 
-**The Forty Days** is the dissolution of [[lore-mhndkngdm|The Kingdom of Mahanodi]] as [[place-rajavalilib|The Rajavali Library]] keeps it: the chronicle's entries, flat and dated by [[lore-mdhvndrcnt|The Madustana Count]], each followed by the gloss that the current Memory-Keeper of [[affiliation-rajaprjnpd|Rajepur Janapoda]], [Ramavahana Smrtibhara]{.name data-type="being/npc"}, gives it in his commentary on the dissolution. The year of the entries, the two hundred and fortieth of the count and the first of [[lore-agecopyists|The Age of Copyists]] (1 AC), is 241 BF. The originals lie in [[place-shitakoshtha|Shitakoshta]], the library's oldest vault. The chronicle enters what was done; the commentary weighs it, and it keeps apart what the record states and what tradition adds.
+**The Forty Days** is the dissolution of [[lore-mhndkngdm|the Kingdom of Mahanodi]] as [[place-rajavalilib|the Rajavali Library]] keeps it: the chronicle's entries, flat and dated by [[lore-mdhvndrcnt|the Madustana count]], each followed by the gloss that the current Memory-Keeper of [[affiliation-rajaprjnpd|Rajepur Janapoda]], [Ramavahana Smrtibhara]{.name data-type="being/npc"}, gives it in his commentary on the dissolution. The year of the entries, the two hundred and fortieth of the count and the first of [[lore-agecopyists|the Age of Copyists]] (1 AC), is 241 BF. The originals lie in [[place-shitakoshtha|Shitakoshta]], the library's oldest vault. The chronicle enters what was done; the commentary weighs it, and it keeps apart what the record states and what tradition adds.
 
 : The Forty Days {#chronicle}
 

@@ -38,7 +38,7 @@ data:
 
 ## Overview
 
-The **Zeglar**, chief minister and supreme judge, runs the civil administration of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] through **Gar-Zeglar**, the ministry whose bureaus in [[place-garmedjatozo|Gar-Medjatozo]] hold the paperwork of the realm: tax rolls, land grants, appointments and the countless records a state this old accumulates. Its ministers file, retrieve and occasionally lose what that paperwork says, and losing a particular record is sometimes as useful to a minister as keeping it. The ministry dislikes anyone who exposes what its files actually contain, and a petitioner who goes looking for an inconvenient record finds the search taking far longer than it should.
+The **Zeglar**, chief minister and supreme judge, runs the civil administration of [[affiliation-empireakhlth|Au'Khelathu]] through **Gar-Zeglar**, the ministry whose bureaus in [[place-garmedjatozo|Gar-Medjatozo]] hold the paperwork of the realm: tax rolls, land grants, appointments and the countless records a state this old accumulates. Its ministers file, retrieve and occasionally lose what that paperwork says, and losing a particular record is sometimes as useful to a minister as keeping it. The ministry dislikes anyone who exposes what its files actually contain, and a petitioner who goes looking for an inconvenient record finds the search taking far longer than it should.
 
 ## Character
 

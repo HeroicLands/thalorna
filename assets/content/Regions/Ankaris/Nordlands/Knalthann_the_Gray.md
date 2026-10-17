@@ -18,7 +18,7 @@ data:
 
 # Dossier {#dossier}
 
-Knalthann the Gray is a mighty warrior of the [[place-nrdlndsrgn|Nordlands Region]], now retired from active combat but still influential among the northern clans. He is the father of [[being-hvlgthyrknlthnsdtr|Hvilgthira Knalthannsdottir]], who strives to surpass his legacy through the runes, an understanding he never achieved.
+Knalthann the Gray is a mighty warrior of the [[place-nrdlndsrgn|Nordlands]], now retired from active combat but still influential among the northern clans. He is the father of [[being-hvlgthyrknlthnsdtr|Hvilgthira Knalthannsdottir]], who strives to surpass his legacy through the runes, an understanding he never achieved.
 
 He gives her counsel and connections. Their relationship is complicated by his disappointment that she chose the path of the runes over pure warriorship.
 

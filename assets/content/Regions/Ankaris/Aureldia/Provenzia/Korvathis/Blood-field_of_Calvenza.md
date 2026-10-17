@@ -8,7 +8,7 @@ tags: [coastal]
 data: {demonym: null, lore: [], parents: [korvathis], population: null, packFolder: provenzia}
 ---
 
-Above the warm sandy coast of the south, in the richest and most comfortable country in the [[place-provenzrgn|Provenzia Region]],
+Above the warm sandy coast of the south, in the richest and most comfortable country in [[place-provenzrgn|Provenzia]],
 lies a field where nothing sings.
 
 ## The Silence

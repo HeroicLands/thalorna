@@ -412,7 +412,7 @@ sohl:
 
 ![[vishalblry|Vishali Balarnaya]]{float=top-left}
 
-Vishali Balarnaya stands 5'8" tall with a light build. She has rich brown skin, dark black hair, and warm brown eyes. Her features include a round face, a slightly arched nose, a gentle jawline, generous lips, and rich brows. She has a scar on her right elbow.
+Vishali stands 5'8" tall with a light build. She has rich brown skin, dark black hair, and warm brown eyes. Her features include a round face, a slightly arched nose, a gentle jawline, generous lips, and rich brows. She has a scar on her right elbow.
 
 # Dossier {#dossier}
 
@@ -420,7 +420,7 @@ Vishali Balarnaya stands 5'8" tall with a light build. She has rich brown skin, 
 
 ### Early Life and Training
 
-Vishali was born into the Danaja station of the city-states of the [[place-vedyarargn|Vedyara Region]], the daughter of a spice trader who prided himself on honest dealing. Her childhood was one of relative comfort, spent among the marketplaces and trade routes that connected the city-states. However, at age twelve, a devastating fire claimed both her parents and the family's trading house, leaving her orphaned and destitute. Rather than fall into indentured servitude or worse, Vishali attached herself to a traveling fair—a caravan of performers, acrobats, and charlatans who moved from city to city in the Vedyara territories.
+Vishali was born into the Danaja station of the [[place-vedyarargn|Vedyara city-states]], the daughter of a spice trader who prided himself on honest dealing. Her childhood was one of relative comfort, spent among the marketplaces and trade routes that connected the city-states. However, at age twelve, a devastating fire claimed both her parents and the family's trading house, leaving her orphaned and destitute. Rather than fall into indentured servitude or worse, Vishali attached herself to a traveling fair—a caravan of performers, acrobats, and charlatans who moved from city to city in the Vedyara territories.
 
 It was here, under the tutelage of **[Korvin the Magician]{.name data-type="being/npc"}**, a cynical but talented performer with a sharp eye for raw talent, that Vishali discovered her gifts. Korvin taught her the arts of misdirection, sleight of hand, and performance—not to deceive for malice, but to amaze and delight. She proved to be an apt student with natural grace and an almost supernatural dexterity that made her especially suited to acrobatic performance. More importantly, Korvin recognized that Vishali possessed something rare: the courage to push boundaries and make people uncomfortable through comedy that cut close to bone.
 
@@ -490,14 +490,14 @@ Traveling Fair Circuit
 
 ### Enemies
 
-Priest [[being-vatesabhasur|Vatesa Bhasura]] of the [Temple of Ashkanti]{.name data-type="place/structure"}
+Priest [[being-vatesabhasur|Vatesa]] of the [Temple of Ashkanti]{.name data-type="place/structure"}
 : A high-ranking priest offended by one of Vishali's performances in which she mocked certain temple practices as superstitious theater. He has used his influence to have her banned from several religious festivals and counts her an offender against the temple.
 
 Kulena [Malvina the Austere]{.name data-type="being/npc"}
 : A woman of a great house whose reputation Vishali devastated through a performance that highlighted her well-known hypocrisy regarding virtue and morality. Kulena Malvina has sworn that Vishali will never perform in her territories and has hired informants to track her movements.
 
 [The Masked Collective]{.name data-type="affiliation"}
-: A shadowy group of puritanical extremists who view Vishali's performances as a corruption of traditional [[lore-vedyariclt|Vedyari]] values. They have threatened her on several occasions, and one member attempted violence against her in a marketplace.
+: A shadowy group of puritanical extremists who view Vishali's performances as a corruption of traditional [[lore-vedyariclt|Vedyaran]] values. They have threatened her on several occasions, and one member attempted violence against her in a marketplace.
 
 ### Affiliations
 

@@ -424,7 +424,7 @@ sohl:
 
 ![[shegasrethmg|Shegas Retha'Mogau]]{float=top-left}
 
-Shegas Retha'Mogau stands 5'7" tall with a light build. She has deep bronze skin, jet black hair, and black eyes. Her features include an aquiline nose, a gentle jawline, and elegantly curved brows. She has a scar on her left arm.
+Shegas stands 5'7" tall with a light build. She has deep bronze skin, jet black hair, and black eyes. Her features include an aquiline nose, a gentle jawline, and elegantly curved brows. She has a scar on her left arm.
 
 # Dossier {#dossier}
 

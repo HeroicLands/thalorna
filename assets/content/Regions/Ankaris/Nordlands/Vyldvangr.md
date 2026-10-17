@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [nrdlndsrgn], population: 0, packFolder: nordlands}
 ---
 
-A farmer comes to Vuldvangr when the fields have already failed. The ground is an open field of the [[place-nrdlndsrgn|Nordlands Region]] set with ancient standing stones, and the faithful of the [[affiliation-frodvin|Faith of Frodvin]] hold that [[lore-frodvindty|Frodvin]] himself blessed the earth here. The **Standing Stones of Vuldvangr** are kept by keepers who live by that belief.
+A farmer comes to Vuldvangr when the fields have already failed. The ground is an open field of the [[place-nrdlndsrgn|Nordlands]] set with ancient standing stones, and the faithful of the [[affiliation-frodvin|Faith of Frodvin]] hold that [[lore-frodvindty|Frodvin]] himself blessed the earth here. The **Standing Stones of Vuldvangr** are kept by keepers who live by that belief.
 
 ## What the Stones Are For
 

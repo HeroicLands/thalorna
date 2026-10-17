@@ -23,11 +23,11 @@ The Stone Tongue is the account of [Lusheya nu Kolembozi]{.name data-type="being
 
 > This is entered in the record of the Lubemo. The griots of the baobab received it. It is recited as it was received.
 >
-> Lusheya, of the [Kolembozi]{.name data-type="affiliation/polity"}, spirit-speaker of the crocodile. Her line is held by the griot of the Kolembozi. It is not recited here, because her line is not what was entered.
+> Lusheya, of the [Kolembozi]{.name data-type="affiliation/lineage"}, spirit-speaker of the crocodile. Her line is held by the griot of the Kolembozi. It is not recited here, because her line is not what was entered.
 >
 > In her initiation she walked into an Old Heto, and she came out of it speaking the Stone Tongue.
 >
-> Of the Stone Tongue, this is entered: no living Nyáluban understands it. The elders of the [Ngonzi]{.name data-type="affiliation/polity"} say that it was the speech of the people who built in stone. The record holds that the Ngonzi elders say this. The record does not hold that it is so.
+> Of the Stone Tongue, this is entered: no living Nyáluban understands it. The elders of the [Ngonzi]{.name data-type="affiliation/lineage"} say that it was the speech of the people who built in stone. The record holds that the Ngonzi elders say this. The record does not hold that it is so.
 >
 > The Ngonzi confirmed the report.
 >

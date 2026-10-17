@@ -71,11 +71,11 @@ data:
         - whether the text read aloud at each session is the old copy, or a copy corrected since the council last read the original
 ---
 
-The chair of the council of the [[affiliation-byzarianlg|Bizarian League]] opens each session by reading [[lore-heladcompact|The Compact of the Five]] aloud, and the clerks of the [Merchant Hall]{.name data-type="place/structure"} know the old text well enough to hear a clause go by that is not in it. The custom dates from The Re-swearing of the Compact, the afternoon the Compact was sworn a second time.
+The chair of the [[affiliation-byzarianlg|League council]] opens each session by reading [[lore-heladcompact|the Compact]] aloud, and the clerks of the [Merchant Hall]{.name data-type="place/structure"} know the old text well enough to hear a clause go by that is not in it. The custom dates from the afternoon the Compact was sworn a second time.
 
 ## The Garrisons
 
-Almost six decades into [The Drift]{.name data-type="lore/calendar"}, the legions that had held the passes of the [[place-byzariargn|Bizaria Region]] were not coming back. The imperial garrisons in the way-forts had fallen to about a third of their old strength, and the chancery's paymaster sent coin to the east in smaller sums and later. A garrison that is not paid sells the passes, and the smugglers and the steppe bands had begun to buy.
+Almost six decades into [The Drift]{.name data-type="lore/calendar"}, the legions that had held the passes of [[place-byzariargn|Bizaria]] were not coming back. The imperial garrisons in the way-forts had fallen to about a third of their old strength, and the chancery's paymaster sent coin to the east in smaller sums and later. A garrison that is not paid sells the passes, and the smugglers and the steppe bands had begun to buy.
 
 No city could pay the forts alone. No city would let another pay them, because a garrison belongs to whoever holds its purse. For a generation the passes were held by the soldiers' loyalty to their own commanders and by nobody else's.
 
@@ -87,11 +87,11 @@ They did three things. They paid the garrisons themselves, from a common treasur
 
 ## The Chancery
 
-The chancery did not contest the oath. The Orzas's roll kept the province of Bizaria, and the League's council sat in the Merchant Hall and dealt with the east. When the [[affiliation-vylarinmpr|Vylarian Empire]] settled with its former provinces some five decades later, it treated the League as a signatory ([[lore-crownssettle|The Settlement of the Crowns]]).
+The chancery did not contest the oath. The Orzas's roll kept the province of Bizaria, and the League's council sat in the Merchant Hall and dealt with the east. When the [[affiliation-vylarinmpr|Empire]] settled with its former provinces some five decades later, it treated the League as a signatory ([[lore-crownssettle|The Settlement of the Crowns]]).
 
 ## What the Oath Left
 
-- **The three marches**, the [[place-eastrnmrch|Eastern March]], the [[place-southrnmrch|Southern March]] and the [[place-northrnmrch|Northern March]], each under a lord the council commissions.
+- **The three marches**, the [[place-eastrnmrch|Eastern]], the [[place-southrnmrch|Southern]] and the [[place-northrnmrch|Northern]], each under a lord the council commissions.
 - **The League as it stands**, a confederation of five cities with a joint army and a common treasury.
 - **The custom** that the chair of the council reads the Compact aloud at each session's opening.
 - **The way-forts**, which were the Empire's and are the League's.

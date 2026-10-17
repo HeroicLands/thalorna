@@ -18,9 +18,9 @@ data:
   government: bhumipala
 ---
 
-**Ashvapada** (3,200, market 4) stands where [[place-marchroad|The March Road]] comes down off the foothills and turns west, and it is the horse fair of [[affiliation-bhumipala|Bhumipala]]. The name means the horse-ground. For ten months of the year it is a town of stock-pens, smiths and rope-walks with a wall round a third of it. For the two months of the fair it holds four times its own people and a great many more animals.
+**Ashvapada** (3,200, market 4) stands where [[place-marchroad|the march road]] comes down off the foothills and turns west, and it is the horse fair of [[affiliation-bhumipala|Bhumipala]]. The name means the horse-ground. For ten months of the year it is a town of stock-pens, smiths and rope-walks with a wall round a third of it. For the two months of the fair it holds four times its own people and a great many more animals.
 
-The fair is the crown's, and the crown's officer weighs and records every sale. Sheikhs of the [[affiliation-dunhartrbs|Dunhara Tribes]] bring horses and hides down off the sand, the companies buy their remounts here, and the dealers of the river country come up to buy what the companies leave. Iron, wagon-timber and Shikharalayan steel come the other way and gho back with the sellers.
+The fair is the crown's, and the crown's officer weighs and records every sale. [[affiliation-dunhartrbs|Dunhari sheikhs]] bring horses and hides down off the sand, the companies buy their remounts here, and the dealers of the river country come up to buy what the companies leave. Iron, wagon-timber and Shikharalayan steel come the other way and gho back with the sellers.
 
 ## The Escort Stage
 

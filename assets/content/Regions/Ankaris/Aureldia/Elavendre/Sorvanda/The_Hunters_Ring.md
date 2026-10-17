@@ -14,7 +14,7 @@ data:
   culture: elavendriclt
 ---
 
-Where the envoys' road to [[place-eshalshldg|Ésalosa Lodge]] skirts the outer margin of [[place-silvrfrsts|The Silver Forests]], a long ring of standing stones runs through the trees on the uphill side of the road. The stones are waist-high, gray and grown with moss, and each is cut on its outward face with the same mark, a closed line with a single gap. Some are banded round the top with silver. The ring is too wide to see across: it encloses a fold of silver-barked wood, a stream, and a clearing at its heart that the moon finds when it finds nothing else. The [[lore-aelendnppl|Áelendan People]] call it _Pálmirno_, a ring of standing stones, and the [[affiliation-alndnwrdns|Áelendan Wardens]] call it **The Hunter's Ring** when they speak of it to anyone else.
+Where the envoys' road to [[place-eshalshldg|Ésalosa Lodge]] skirts the outer margin of [[place-silvrfrsts|the Silver Forests]], a long ring of standing stones runs through the trees on the uphill side of the road. The stones are waist-high, gray and grown with moss, and each is cut on its outward face with the same mark, a closed line with a single gap. Some are banded round the top with silver. The ring is too wide to see across: it encloses a fold of silver-barked wood, a stream, and a clearing at its heart that the moon finds when it finds nothing else. The [[lore-aelendnppl|Áelendan]] call it _Pálmirno_, a ring of standing stones, and the [[affiliation-alndnwrdns|Wardens]] call it **the Hunter's Ring** when they speak of it to anyone else.
 
 ## The Hunter
 

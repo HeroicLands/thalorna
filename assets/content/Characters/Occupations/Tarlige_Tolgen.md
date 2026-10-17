@@ -398,7 +398,7 @@ Tarlige Tolgen is a 47-year-old man who stands 6'1" tall and is of moderate buil
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia Region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Tarlige Tolgen came into the world of the thatcher through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Tarlige Tolgen came into the world of the thatcher through a combination of circumstance and aptitude.
 
 Tarlige has worked as a thatcher for most of his life, maintaining the roofs of cottages and barns throughout the countryside. He learned the craft from his father and has since taught his own sons. Known for his work and the durability of his roofs, Tarlige is often in high demand, though his services come at a slower pace due to his attention to detail.
 

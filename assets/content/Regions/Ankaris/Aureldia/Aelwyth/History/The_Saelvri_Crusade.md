@@ -62,7 +62,7 @@ data:
         - whether any Saelvri survived the three days, and whether a child was carried out of the wood
 ---
 
-In The Saelvri Crusade, the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]'s own records call the **[[affiliation-saelvri|Saelvri]]** its nemesis. The crusade that ended them is the thing the [[affiliation-justbladeordr|Order of the Just Blade]] is least willing to describe and the [[affiliation-dunavarsynod|Dúnavarre Synod]] is most willing to describe briefly, as a necessary campaign against raiders. Neither account says why a people who raided could not be answered with a garrison.
+[[affiliation-kingdmdnvr|Dúnavarre]]'s own records call the **[[affiliation-saelvri|Saelvri]]** its nemesis. The crusade that ended them is the thing the [[affiliation-justbladeordr|Order of the Just Blade]] is least willing to describe and the [[affiliation-dunavarsynod|Synod]] is most willing to describe briefly, as a necessary campaign against raiders. Neither account says why a people who raided could not be answered with a garrison.
 
 ## Nine Years
 
@@ -74,7 +74,7 @@ The stated reason was raiding, and the Order's knights, who were sent to answer 
 
 ## The Wood
 
-The ground where the last of them fell is [[place-hushwood|The Hushwood]], the newest blood-field in the [[place-aureldirgn|Aureldia Region]]. The Saelvri's own rite for their dead is unknown to the living, and their dead are not the Synod's to settle.
+The ground where the last of them fell is [[place-hushwood|the Hushwood]], the newest blood-field in [[place-aureldirgn|Aureldia]]. The Saelvri's own rite for their dead is unknown to the living, and their dead are not the Synod's to settle.
 
 ## What It Left
 

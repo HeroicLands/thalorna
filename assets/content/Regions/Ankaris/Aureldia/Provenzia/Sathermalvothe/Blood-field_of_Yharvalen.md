@@ -41,7 +41,7 @@ withers and the others do not.
 ## The Black Flame
 
 The curse has been awakened, and it was awakened on purpose. The
-cult of [[affiliation-blackflame|The Black Flame]] has been rousing and magnifying it, drawing power
+cult of [[affiliation-blackflame|the Black Flame]] has been rousing and magnifying it, drawing power
 from the destruction—a blood-field being a permanent reservoir of exactly what that faith holds
 sacred. The dying of the surrounding country is not incidental to their working. It is the working.
 

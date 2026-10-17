@@ -50,7 +50,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-"Learn the seal before you learn the pen," a journeyman of The Cartographers' Guild of the Bizarian League tells the apprentice at the next table. "A map without a seal is a rumor. A map with one is a warranty, and the master who sealed it answers for every line." The [[affiliation-byzarianlg|Bizarian League]]'s soldiers and consuls agree, and that is the guild's whole power: no general in the League will march on a chart that does not carry a guild seal. It is also the guild's weakness, because the seal is only as honest as the hands that hold the dies, and someone inside the guild has been selling what the seal protects.
+"Learn the seal before you learn the pen," a journeyman of the Cartographers' Guild tells the apprentice at the next table. "A map without a seal is a rumor. A map with one is a warranty, and the master who sealed it answers for every line." The [[affiliation-byzarianlg|League]]'s soldiers and consuls agree, and that is the guild's whole power: no general in the League will march on a chart that does not carry a guild seal. It is also the guild's weakness, because the seal is only as honest as the hands that hold the dies, and someone inside the guild has been selling what the seal protects.
 
 Type
 : chartered professional guild
@@ -66,7 +66,7 @@ Tevran Maldor status
 
 ## Overview
 
-The guild holds the League's chartered monopoly on the production of maps for any purpose for which the state, the military or a merchant house will pay coin: city plans, sea charts, trade-route surveys, fortification plans, frontier reconnaissance, mine plats, harbor diagrams, and the great commissioned wall-maps that hang behind every consul's desk in the [[place-byzariargn|Bizaria Region]]. To practice cartography in the League for a paying client without a guild license is a fineable offense; to produce a map of any League fortification or military disposition without guild oversight is treason.
+The guild holds the League's chartered monopoly on the production of maps for any purpose for which the state, the military or a merchant house will pay coin: city plans, sea charts, trade-route surveys, fortification plans, frontier reconnaissance, mine plats, harbor diagrams, and the great commissioned wall-maps that hang behind every consul's desk in [[place-byzariargn|Bizaria]]. To practice cartography in the League for a paying client without a guild license is a fineable offense; to produce a map of any League fortification or military disposition without guild oversight is treason.
 
 The monopoly is an aspiration more than a fact. The guild is the most prestigious mapmaking body in the western part of the [[place-ankrscntnnt|Ankaris Continent]], but it cannot prevent its members from selling the same map twice, once to the patron who commissioned it and once to whoever else will pay, and it cannot prevent its rivals from copying its work. The guild's central tension, in this generation, is the discovery that the rot is internal: at least one master of standing has been selling League military maps to foreign powers and to the [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] for fifteen years, and the leadership does not yet know how deep the compromise runs.
 
@@ -110,7 +110,7 @@ The Crime Syndicates of Thalorna, particularly the **[Theft Syndicate of the Eas
 : the guild's shadow. Most Ledger members are guild-trained, and many hold guild credentials and use them as cover. The Council pretends the Ledger does not exist, and the city guard pretends the Council does not know.
 
 Foreign powers
-: the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], an unidentified northern confederation and at least one Vylarian province pay handsomely for League maps procured through irregular channels.
+: [[affiliation-kingdmtrvn|Tarvénia]], an unidentified northern confederation and at least one Vylarian province pay handsomely for League maps procured through irregular channels.
 
 ## Identifying Marks
 

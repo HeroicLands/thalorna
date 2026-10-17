@@ -415,7 +415,7 @@ His weaknesses are equally real. His physical frailty is no liability for an alc
 
 ## Social
 
-Wilred's official affiliation is formally severed from the Epistémion, though he maintains clandestine correspondence with one of its more liberal-minded archivists in the [[place-dunavarre|Dúnavarre]] chapterhouse. Should he ever be discovered, he would be considered a lapsed Adept operating without sanction—a serious violation in the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]'s Order-dominated society.
+Wilred's official affiliation is formally severed from the Epistémion, though he maintains clandestine correspondence with one of its more liberal-minded archivists in the [[place-dunavarre|Dúnavarre]] chapterhouse. Should he ever be discovered, he would be considered a lapsed Adept operating without sanction—a serious violation in [[affiliation-kingdmdnvr|Dúnavarre]]'s Order-dominated society.
 
 Locally, in the scattered settlements and forest communities of the borderlands where he now works, he is known as a valuable resource. Village chieftains, hedge witches, master craftsfolk, and respected elders know him as someone who can be trusted with a problem and whose discretion is absolute. He has also cultivated selective relationships with other independent practitioners—smugglers of forbidden texts, practitioners of older seid traditions, scholars of the natural world who work outside the institutions. These are not friendships so much as networks of mutual aid, held together by shared wariness of the Order's expanding reach.
 
@@ -431,7 +431,7 @@ His status as a freeman and an outsider to formal [[lore-aelwythanclt|Aelwythan]
 
 ### Enemies and Threats
 
-**Marendos [[being-teremoszenot|Teremos Zenothenos]]**, an austere enforcer for the Sekran's western investigations, has taken particular interest in "irregular practices" in the Aelwyth borderlands. He does not yet know Wilred by name, but he is asking the right questions. The tension between them is building steadily.
+**Marendos [[being-teremoszenot|Teremos]]**, an austere enforcer for the Sekran's western investigations, has taken particular interest in "irregular practices" in the Aelwyth borderlands. He does not yet know Wilred by name, but he is asking the right questions. The tension between them is building steadily.
 
 **[The Jealous Circle]{.name data-type="affiliation"}**, a coterie of independent practitioners in the larger towns who resent Wilred's discretion and growing reputation. They would not hesitate to betray him to the Order if they believed it would eliminate a rival—or at minimum, to undercut his standing with shared clients.
 

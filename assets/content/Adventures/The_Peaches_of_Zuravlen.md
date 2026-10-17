@@ -14,7 +14,7 @@ data:
   packFolder: adventures
 ---
 
-In The Peaches of Zuravlen, the orchards of the [[place-zuravlenrgn|Zuravlen Region]] produce the finest peaches in the [[place-provenzrgn|Provenzia Region]], but a curse has turned the fruit into a deadly poison. The party must uncover whether this is sabotage, magic, or something far stranger—while powerful interests fight to control the narrative.
+[[place-zuravlenrgn|The orchards of Zuravlen]] produce the finest peaches in the [[place-provenzrgn|Provenzia Region]], but a curse has turned the fruit into a deadly poison. The party must uncover whether this is sabotage, magic, or something far stranger—while powerful interests fight to control the narrative.
 
 ## Overview
 

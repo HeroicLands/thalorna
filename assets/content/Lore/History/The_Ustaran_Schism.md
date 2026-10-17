@@ -68,4 +68,4 @@ Neither position leaves room for the other to be merely mistaken, and both are a
 same god rather than about different ones—which is what makes the enmity theological rather than
 merely political, and why five centuries have not worn it down.
 
-The full account is [[lore-ustaranschism|The Ústaran Schism]].
+The full account is [[lore-ustaranschism|the Ústaran Schism]].

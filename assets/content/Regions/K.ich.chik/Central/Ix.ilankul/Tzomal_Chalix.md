@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [ixilankulrgn], population: 0, packFold
 
 ## Overview
 
-Ts'omal Ch'alish, the Sacred Foundation, is the holiest site in all of the [[place-kchchkcntnnt|K'ich'chik Continent]] and the supreme destination of its pilgrims. It is a precinct at the heart of [Kul'taq'an]{.name data-type="place/settlement"} in [[affiliation-ixilankul|Ish'ilankul]], built around an ancient volcanic vent from which warm, mineral-laden vapors still rise. The priesthood teaches that the vapor is the living breath of [[lore-piqalkulqatdty|P'iqal Kul'qat]], the creator, who first breathed the world into existence here at the dawn of the [First Age]{.name data-type="lore/cosmology"}.
+Ts'omal Ch'alish, the Sacred Foundation, is the holiest site in all of [[place-kchchkcntnnt|K'ich'chik]] and the supreme destination of its pilgrims. It is a precinct at the heart of [Kul'taq'an]{.name data-type="place/settlement"} in [[affiliation-ixilankul|Ish'ilankul]], built around an ancient volcanic vent from which warm, mineral-laden vapors still rise. The priesthood teaches that the vapor is the living breath of [[lore-piqalkulqatdty|P'iqal Kul'qat]], the creator, who first breathed the world into existence here at the dawn of the [First Age]{.name data-type="lore/cosmology"}.
 
 ## The Ts'ultel Ch'alish
 

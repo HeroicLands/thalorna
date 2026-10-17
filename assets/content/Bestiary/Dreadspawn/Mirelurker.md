@@ -465,7 +465,7 @@ A mirelurker hunts from ambush, mostly by night, lying in the mud with only the 
 
 ## What the Coast People Do
 
-Lísere's villages are already set back from the water for fear of raiders, and the two villages either side of the mirelurker's inlet have drawn their boats up out of it and launch from the open shingle instead, which is harder work. Sheep are not grazed on that marsh. Nobody wades its channels, and a fisherman who must go into the inlet goes in daylight, at high water, in a boat, with a lit brazier aboard, because fire hurts the creature and it avoids the heat. The beacon watch on the headland above the inlet, which is there for raiders, has a second duty: to call out if the log in the channel is not where it was yesterday. [[lore-varokhiclt|Varokhi]] raiders who land in that inlet are not warned. The villages count it a good night when a raiding boat comes in there.
+Lísere's villages are already set back from the water for fear of raiders, and the two villages either side of the mirelurker's inlet have drawn their boats up out of it and launch from the open shingle instead, which is harder work. Sheep are not grazed on that marsh. Nobody wades its channels, and a fisherman who must go into the inlet goes in daylight, at high water, in a boat, with a lit brazier aboard, because fire hurts the creature and it avoids the heat. The beacon watch on the headland above the inlet, which is there for raiders, has a second duty: to call out if the log in the channel is not where it was yesterday. [[lore-varokhiclt|Varokh]] raiders who land in that inlet are not warned. The villages count it a good night when a raiding boat comes in there.
 
 ## Signs
 

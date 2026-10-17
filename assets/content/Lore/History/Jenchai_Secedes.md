@@ -41,9 +41,8 @@ data:
       unresolved: []
 ---
 
-[[affiliation-jenchaiempr|Jenchai Empire]] is a mountainous island kingdom east of
-the [[affiliation-tantsouempr|Empire of Tantsou]], off its south-eastern coast, separated from the mainland by a treacherous strait. It was once a
-province. It broke away in The Secession of Jenchai, a bloody war, and has since developed a fiercely independent
+[[affiliation-jenchaiempr|Jenchai]] is a mountainous island kingdom east of [[affiliation-tantsouempr|Tantsou]], off its south-eastern coast, separated from the mainland by a treacherous strait. It was once a
+province. It broke away in a bloody war, and has since developed a fiercely independent
 culture.
 
 The two sides have not agreed on a single word of it in a thousand years. The empire still refers to

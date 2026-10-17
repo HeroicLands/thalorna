@@ -8,7 +8,7 @@ data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 0.1, valueBase: 0, qualityBase: 0, durabilityBase: 5}}
 ---
 
-The Speaker for the Island alone treats with a foreign power, and an Envoy goes abroad only on [[affiliation-councilisland|The Council of the Island]]'s business, briefed in what to say and, more carefully, in what not to. The Speaker's token is what the Envoy shows. It is a ring of dark carved wood the width of a hand, worn on a cord at the neck.
+The Speaker for the Island alone treats with a foreign power, and an Envoy goes abroad only on [[affiliation-councilisland|the Council of the Island]]'s business, briefed in what to say and, more carefully, in what not to. The Speaker's token is what the Envoy shows. It is a ring of dark carved wood the width of a hand, worn on a cord at the neck.
 
 ## What It Does
 

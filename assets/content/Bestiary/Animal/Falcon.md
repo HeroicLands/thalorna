@@ -235,7 +235,7 @@ A dark speck hangs in the wind a long way above the field, hardly moving. A floc
 
 # Dossier {#dossier}
 
-The Falcon is the fast raptor of the middle air, a foot and a half tall, striking birds in flight in a vertical dive. It nests on crags and rock faces in [[place-vrystwald|Vristwald]], on the cliffs above the [[place-falkhaven|Falkhaven]] shore, in [[place-graznmntns|The Grazian Mountains]] and along the desert edge of [[place-aukhelathrgq|Au'Khelathu Region]]. A pair hunts the open country below its ledge. Nobles and the desert hunters keep trained falcons.
+The Falcon is the fast raptor of the middle air, a foot and a half tall, striking birds in flight in a vertical dive. It nests on crags and rock faces in [[place-vrystwald|Vristwald]], on the cliffs above the [[place-falkhaven|Falkhaven]] shore, in [[place-graznmntns|the Grazian range]] and along the desert edge of [[place-aukhelathrgq|Au'Khelathu]]. A pair hunts the open country below its ledge. Nobles and the desert hunters keep trained falcons.
 
 ## Presentation
 
@@ -251,7 +251,7 @@ Falcons live alone and hold their hunting ground fiercely. They hunt on the wing
 
 ## What the Falconers Do
 
-The falcon is the wesk of Vristwald villages such as [Radstein]{.name data-type="place/settlement"} and [Falkreth]{.name data-type="place/settlement"}, and [[place-falkensten|Falkenstein]] takes its name and its totem from the falcon that nests on the crag the fort is cut into. In Au'Khelathu the hunters of the desert edge take nestlings and passage-birds for the nobles, and [[lore-gewaatisdty|Gewa'atis]], the Guiding Falcon, is the god of travelers and voyages. The lords of the Bizarian [[place-southrnmrch|Southern March]] fly hawks and falcons with hounds and coursing cats. A trained falcon is carried hooded on the fist, flown at a flushed bird and called back to a lure.
+The falcon is the wesk of Vristwald villages such as [Radstein]{.name data-type="place/settlement"} and [Falkreth]{.name data-type="place/settlement"}, and [[place-falkensten|Falkenstein]] takes its name and its totem from the falcon that nests on the crag the fort is cut into. In Au'Khelathu the hunters of the desert edge take nestlings and passage-birds for the nobles, and [[lore-gewaatisdty|Gewa'atis]], the Guiding Falcon, is the god of travelers and voyages. The lords of the Bizarian [[place-southrnmrch|March]] fly hawks and falcons with hounds and coursing cats. A trained falcon is carried hooded on the fist, flown at a flushed bird and called back to a lure.
 
 ## Signs
 

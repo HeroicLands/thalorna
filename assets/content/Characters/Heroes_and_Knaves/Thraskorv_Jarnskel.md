@@ -420,7 +420,7 @@ sohl:
 
 ![[thrskrvjrnskl|Thraskorv Jarnskel]]{float=top-left}
 
-Thraskorv Jarnskel stands 6'3" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an oval face, a narrow nose, a broad chin, a slightly downturned mouth, dark brows. A distinguishing mark is a scar on the right cheek.
+Thraskorv stands 6'3" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an oval face, a narrow nose, a broad chin, a slightly downturned mouth, dark brows. A distinguishing mark is a scar on the right cheek.
 
 # Dossier {#dossier}
 
@@ -484,7 +484,7 @@ Dangerous Attention
 
 ### Patrons
 
-Thraskorv has no patrons in the traditional sense. His masters view him as property, not as a person worthy of patronage. However, a few figures in his world show him kindness: **[Thilminda the Healer]{.name data-type="being/npc"}**, a free woman who treats thrall injuries in secret, has become a quiet ally. She provides him with medical care and information, though both know the risks of their contact. **Father [[being-ralthann|Ralthann]]**, a traveling priest of the [[affiliation-eidgar|Faith of Eidgar]], once stayed at the estate and spoke with Thraskorv of divine justice—leaving him with a hidden talisman and words of encouragement that sustained him through dark years.
+Thraskorv has no patrons in the traditional sense. His masters view him as property, not as a person worthy of patronage. However, a few figures in his world show him kindness: **[Thilminda the Healer]{.name data-type="being/npc"}**, a free woman who treats thrall injuries in secret, has become a quiet ally. She provides him with medical care and information, though both know the risks of their contact. **Father [[being-ralthann|Ralthann]]**, a traveling priest of [[affiliation-eidgar|Eidgar]], once stayed at the estate and spoke with Thraskorv of divine justice—leaving him with a hidden talisman and words of encouragement that sustained him through dark years.
 
 ### Enemies
 

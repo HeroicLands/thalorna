@@ -36,4 +36,4 @@ Thema is a 44-year-old man who stands 5'7" tall with a medium build. He has ebon
 
 # Dossier {#dossier}
 
-Thema holds a decorated commission of common birth, home in [[place-galezkara|Galezkara]]. The rise from that birth to this rank is held up as proof the [[affiliation-empireakhlth|Empire of Au'Khelathu]] rewards merit, and resented in the same breath as the exception that proves no rule. Which reading wins depends entirely on who is telling it.
+Thema holds a decorated commission of common birth, home in [[place-galezkara|Galezkara]]. The rise from that birth to this rank is held up as proof the [[affiliation-empireakhlth|empire]] rewards merit, and resented in the same breath as the exception that proves no rule. Which reading wins depends entirely on who is telling it.

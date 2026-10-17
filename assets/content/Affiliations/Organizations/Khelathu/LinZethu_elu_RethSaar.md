@@ -40,7 +40,7 @@ data:
 
 ## Overview
 
-**Lin'Zethu elu Reth'Sa'ar** is the network of scribal schools maintained under the patronage of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]], taking in pupils from across the [[place-aukhelathrgq|Au'Khelathu Region]] on ability rather than birth. The schools train the administrators the imperial state runs on, so a pupil who completes the course has a route into the bureaucracy regardless of family standing. They are the empire's meritocratic engine, and a noble house that cannot place a son in them increasingly finds itself outcompeted by families that can.
+**Lin'Zethu elu Reth'Sa'ar** is the network of scribal schools maintained under the patronage of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]], taking in pupils from across [[place-aukhelathrgq|Au'Khelathu]] on ability rather than birth. The schools train the administrators the imperial state runs on, so a pupil who completes the course has a route into the bureaucracy regardless of family standing. They are the empire's meritocratic engine, and a noble house that cannot place a son in them increasingly finds itself outcompeted by families that can.
 
 ## Character
 
@@ -50,7 +50,7 @@ The schools are merit-minded and exacting. They admit pupils on ability rather t
 
 ## Relations
 
-The schools work under the patronage of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] and draw pupils from across [[place-aukhelathrgq|Au'Khelathu]]. A pupil who completes the course enters the bureaucracy regardless of family standing, which makes the schools the one reliable ladder out of the fields. A poor family that gets one child in will beggar itself keeping him there; a noble family that cannot place a son finds itself outcompeted.
+The schools work under the patronage of [[affiliation-rethsaar|Reth'Sa'ar]] and draw pupils from across [[place-aukhelathrgq|Au'Khelathu]]. A pupil who completes the course enters the bureaucracy regardless of family standing, which makes the schools the one reliable ladder out of the fields. A poor family that gets one child in will beggar itself keeping him there; a noble family that cannot place a son finds itself outcompeted.
 
 ## Commerce and Currency
 

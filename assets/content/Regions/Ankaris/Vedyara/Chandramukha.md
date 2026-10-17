@@ -19,7 +19,7 @@ data:
   government: chandrapur
 ---
 
-**Chandramukha** (16,000, market 5) stands on the seaward edge of the delta, where the last navigable channel of [[place-chandrmahi|The Chandramahi]] crosses the bar into the [[place-meghsamdra|Meghra-samedra]]. The name means the moon's mouth, and it is the mouth of [[place-chandrapur2|Chendrapur]] in every sense that matters: nothing reaches the white city from the sea, and nothing leaves it for the sea, except through here.
+**Chandramukha** (16,000, market 5) stands on the seaward edge of the delta, where the last navigable channel of [[place-chandrmahi|the Chandramahi]] crosses the bar into the [[place-meghsamdra|Meghra-samedra]]. The name means the moon's mouth, and it is the mouth of [[place-chandrapur2|Chendrapur]] in every sense that matters: nothing reaches the white city from the sea, and nothing leaves it for the sea, except through here.
 
 The town is small for what passes through it. A deep-water hull cannot cross the bar and a river craft cannot cross the open water, so everything is handled twice, and the handling is the town's whole life. The warehouses run three deep behind the quays. Behind them are the yards, the rope-walks, the sail-lofts, the chandlers and the pilots' quarter, and behind those the marsh.
 
@@ -37,7 +37,7 @@ The merchant houses build their coasting hulls on the west side, in yards they o
 
 ## Who Comes Here
 
-Every foreign trade the [[place-vedyarargn|Vedyara Region]] has by sea lands on this beach. The Khelathi factors keep a street of their own, walled and gated, with their own well and their own weights, and the argument about the weights is older than the street. [[lore-tantsouclt|Tantsou]] junks come round the eastern capes in the late season and lie outside the bar rather than take a pilot, which the pilots regard as an insult and the junk-masters as a precaution. Jenchai hulls come irregularly and are dealt with warily.
+Every foreign trade [[place-vedyarargn|Vedyara]] has by sea lands on this beach. The Khelathi factors keep a street of their own, walled and gated, with their own well and their own weights, and the argument about the weights is older than the street. [[lore-tantsouclt|Tantsou]] junks come round the eastern capes in the late season and lie outside the bar rather than take a pilot, which the pilots regard as an insult and the junk-masters as a precaution. Jenchai hulls come irregularly and are dealt with warily.
 
 The [[affiliation-ordoarcanis|Thordimalon]] keeps one licensed factor here, and that is the whole of the Arcane Order's standing in the subcontinent. He is licensed to trade and to carry letters. He is not licensed to teach, to examine anybody, or to hold a working in the town, and the Council that licenses him renews the license yearly in a ceremony designed to make the yearly part conspicuous.
 

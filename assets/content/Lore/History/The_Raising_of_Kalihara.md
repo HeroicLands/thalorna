@@ -40,7 +40,7 @@ data:
         - the year is a round Kaliharan figure counted back from the present, not a date any record fixes
 ---
 
-In The Raising of Kalihara, what [[lore-theithari|The Ithari]] made on [[place-klhrcntnnt|Kalihara Continent]] was not a people improved but a civilization invented. It arrived
+In The Raising of Kalihara, what [[lore-theithari|the Ithari]] made on [[place-klhrcntnnt|Kalihara]] was not a people improved but a civilization invented. It arrived
 complete: agriculture, medicine, governance, a vocabulary for all of it, and
 [[affiliation-tharivaan|Thári'vaan]], a disciplined account of the world as a single living whole
 to be observed and tended rather than mastered or appeased.

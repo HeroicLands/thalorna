@@ -419,7 +419,7 @@ sohl:
 
 ![[gvrlsnktrts|Sedikon Manedes]]{float=top-left}
 
-Sedikon Manedes stands 6'1" tall with a medium build. He has light tanned skin, greying black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, arched brows, and hollow cheeks.
+Sedikon stands 6'1" tall with a medium build. He has light tanned skin, greying black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, arched brows, and hollow cheeks.
 
 # Dossier {#dossier}
 

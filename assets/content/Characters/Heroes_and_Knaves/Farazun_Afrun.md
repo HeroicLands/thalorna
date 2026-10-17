@@ -421,7 +421,7 @@ sohl:
 
 ![[farazunfrn|Farazun Afrun]]{float=top-left}
 
-Farazun Afrun stands 5'10" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an oval face, a hawkish nose, a narrow chin, a firm-set mouth, dark brows.
+Farazun stands 5'10" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an oval face, a hawkish nose, a narrow chin, a firm-set mouth, dark brows.
 
 # Dossier {#dossier}
 
@@ -477,7 +477,7 @@ Weariness
 
 ### Patrons
 
-Merchant Lord [[being-valhamingora|Valhamin Goravan]]
+Merchant Lord [[being-valhamingora|Valhamin]]
 : One of the most prominent trading masters in the Kingdom has employed Farazun repeatedly and trusts him with valuable cargo; Valhamin actively recommends him to other merchants.
 
 [The Merchants' Consortium of the Eastern Roads]{.name data-type="affiliation/venture"}
@@ -492,7 +492,7 @@ Stablemaster [Khorvan]{.name data-type="being/npc"}
 : A well-organized band of brigands that operates along the eastern routes has repeatedly targeted Farazun's wagons; their leader, a scarred woman called **[Kela the Knife]{.name data-type="being/npc"}**, has marked him as a particular enemy for foiling her ambushes.
 
 Rival Teamster [Gazren]{.name data-type="being/npc"}
-: An unscrupulous competitor who undercuts prices through unsafe practices and harbors deep resentment toward Farazun's success and reputation. Gazren occasionally sabotages Farazun's wagons or spreads lies about his reliability.
+: A unscrupulous competitor who undercuts prices through unsafe practices and harbors deep resentment toward Farazun's success and reputation. Gazren occasionally sabotages Farazun's wagons or spreads lies about his reliability.
 
 Merchant Overlord [Shassik]{.name data-type="being/npc"}
 : A wealthy trader whom Farazun once refused to transport goods for (due to suspicions about their nature) has harbored a grudge and occasionally works to interfere with Farazun's contracts.

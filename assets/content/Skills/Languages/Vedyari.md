@@ -2174,7 +2174,7 @@ sohl:
 # terran_analog: Vedyari reads Indian. Its words and names take the sound of Sanskrit and Hindi and keep clear of the whole words, and the joining rules are Sanskrit vowel sandhi; the corpus relies on that resemblance for common nouns, titles and offices. It keeps clear of the Sanskrit names for the four stations (Karmija, Danaja, Senaja, Retuja), for the word for station (tarona), and for the gods, whose names are coined. The coined roots in this lexicon (every row attested `—`) are made to the rules and are not the Sanskrit, Hindi or Tamil word for their meaning.
 ---
 
-Vedyari Language is a tongue of the Vedyari (isolate) family. Fluency measures the sophistication of expression in Vedyari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Vedyari is a tongue of the Vedyari (isolate) family. Fluency measures the sophistication of expression in Vedyari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
@@ -2280,7 +2280,7 @@ Classical Vedyari follows a **Subject-Object-Verb (SOV)** order in main clauses,
 
 ## Script & Literacy
 
-**Classical Script:** Vedyari employs the [[skill-vdykshrscrpt|Vedyakshara Script]], a syllabic script of approximately 48 distinct characters, each representing a CV syllable. Consonant clusters and final consonants are marked through diacritical modification of the base glyph. The script evolved from an older abjadic writing system (now preserved only in sacred contexts) and shows clear influence from neighboring systems.
+**Classical Script:** Vedyari employs the [[skill-vdykshrscrpt|Vedyakshara]], a syllabic script of approximately 48 distinct characters, each representing a CV syllable. Consonant clusters and final consonants are marked through diacritical modification of the base glyph. The script evolved from an older abjadic writing system (now preserved only in sacred contexts) and shows clear influence from neighboring systems.
 
 **Common Cursive:** A more flowing, connected variant has developed for administrative and mercantile use, reducing the syllabic inventory to roughly 36 core forms with additional ligatures.
 
@@ -2298,7 +2298,7 @@ The standardization of Classical Vedyari occurred roughly 1,200 years before the
 
 ### Modern Era
 
-Since [[lore-stndrdmdhv|The Standardization at Madustana]], gradual sound changes have created divergence:
+Since [[lore-stndrdmdhv|the Standardization at Madustana]], gradual sound changes have created divergence:
 
 Lenition of intervocalic stops
 : p, t and k soften to f, "th" and a throaty kh between vowels in some dialects (more pronounced in southern city-states)
@@ -2747,7 +2747,7 @@ The words of Vedyari, the rules a word is built by and a register of every Vedya
 
 ## Vedyari Lexicon {#lexicon}
 
-A temple scribe in [[place-rajapur|Rajepur]] who teaches a newcomer to read the names on a map begins with the doors. _Dvarna_ is a door, and the passes through [[place-sthrnwall|The Southern Wall]] are doors: [[place-suryadvara|Suryadvara]] the sun's door, [[place-meghadvara|Meghadvara]] the storm's, [[place-tamradvara|Tamradvara]] the copper road's. Learn twenty such words and the map of [[place-vedyarargn|Vedyara]] reads itself, because almost every Vedyari name is two or three ordinary words set side by side.
+A temple scribe in [[place-rajapur|Rajepur]] who teaches a newcomer to read the names on a map begins with the doors. _Dvarna_ is a door, and the passes through [[place-sthrnwall|the Southern Wall]] are doors: [[place-suryadvara|Suryadvara]] the sun's door, [[place-meghadvara|Meghadvara]] the storm's, [[place-tamradvara|Tamradvara]] the copper road's. Learn twenty such words and the map of [[place-vedyarargn|Vedyara]] reads itself, because almost every Vedyari name is two or three ordinary words set side by side.
 
 This is the word-hoard of the Vedyari tongue: the words a player or a GM reaches for when a Vedyari names a child, a village, an office or a god, the rules those words obey, and the way two of them join into a third. A word made from these by those rules is a Vedyari word. The last section is a register of every Vedyari name the setting uses, with the note where each is met and the words it is made from.
 
@@ -2883,13 +2883,13 @@ FROM elements e JOIN named n ON n.label = split_part(e.examples[1], ', ', 1)
 WHERE e.language = 'thalorna-note-skill-vedyarlng' AND e.kind = 'place' ORDER BY e.position
 ```
 
-A person from a place takes _-i_: a [[place-rajapur|Rajepur]] man is a Rajapuri, a woman of [[affiliation-vyalendra2|Vyalendra City-State]] a Vyalendri.
+A person from a place takes _-i_: a [[place-rajapur|Rajepur]] man is a Rajapuri, a woman of [[affiliation-vyalendra2|Vyalendra]] a Vyalendri.
 
 **An office** is a compound whose last member says what the holder does: _palda_ keeps (_shetrapalda_, a keeper of fields), _pavti_ presides (_sabhapavi_, the presiding officer of a sabhra), _nayeka_ leads, _adyoksha_ oversees, _achorya_ teaches. A title from a verb takes _-aka_, as _dorshaka_, a seer, or _-in_, as _vretin_, one under a vow. The great titles are compounds with _mahva_: _maharava_, _mahaprasoda_.
 
-**A god** of the [[affiliation-varakpnthn|Varnuka Pantheon]] is named by a compound that says what the god keeps or does: [[lore-kalavratadty|Kalavrata]] is the vow of death, [[lore-meghanathadty|Meghonata]] the lord of the clouds, [[lore-vyalendradty|Vyalendra]] the chief of beasts. A god's adjective takes _-an_, and a god's day takes _vura_.
+**A god** of the [[affiliation-varakpnthn|Varnuka]] is named by a compound that says what the god keeps or does: [[lore-kalavratadty|Kalavrata]] is the vow of death, [[lore-meghanathadty|Meghonata]] the lord of the clouds, [[lore-vyalendradty|Vyalendra]] the chief of beasts. A god's adjective takes _-an_, and a god's day takes _vura_.
 
-**A work** of literature or law is named in the reader's tongue by what it does, as [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] is.
+**A work** of literature or law is named in the reader's tongue by what it does, as The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] is.
 
 ### Calling names
 

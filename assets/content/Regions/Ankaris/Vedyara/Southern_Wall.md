@@ -14,13 +14,13 @@ data:
   culture: osketclt
 ---
 
-**The Southern Wall** is the long face of [[place-graznmntns|The Grazian Mountains]] that stands over the [[place-vedyarargn|Vedyara Region]]. It is why the one road into the subcontinent that crosses no pass runs round the western end of the range, through [[place-wstrndscnt|The Western Descent]], and why every other way in is a climb.
+**The Southern Wall** is the long face of [[place-graznmntns|the Grazian Mountains]] that stands over [[place-vedyarargn|Vedyara]]. It is why the one road into the subcontinent that crosses no pass runs round the western end of the range, through [[place-wstrndscnt|the Western Descent]], and why every other way in is a climb.
 
-For some fifteen hundred miles the escarpment runs without a gap a traveler could use. The peaks along it are the highest in [[place-worldthlrn|The World of Thalorna]]—[[place-suryashkhr|Suryashikhara]] first among them—and behind the summit line the ice lies in fields that have never gone off in any season anyone has recorded. Four crossings pierce it: [[place-meghadvara|Meghadvara]] in the west, [[place-gudesroad|The Guides' Road]] between the two western doors, [[place-suryadvara|Suryadvara]] under the fortress, and [[place-tamradvara|Tamradvara]] up [[place-slvrgorges|The Silver Gorges]] in the east. Everything else is wall.
+For some fifteen hundred miles the escarpment runs without a gap a traveler could use. The peaks along it are the highest in [[place-worldthlrn|the World of Thalorna]]—[[place-suryashkhr|Suryashikhara]] first among them—and behind the summit line the ice lies in fields that have never gone off in any season anyone has recorded. Four crossings pierce it: [[place-meghadvara|Meghadvara]] in the west, [[place-gudesroad|the Guides' Road]] between the two western doors, [[place-suryadvara|Suryadvara]] under the fortress, and [[place-tamradvara|Tamradvara]] up [[place-slvrgorges|the Silver Gorges]] in the east. Everything else is wall.
 
 ## What Comes Off It
 
-The four great rivers of Vedyara begin here, each at a glacier-spring the tradition of the [[affiliation-varakpnthn|Varnuka Pantheon]] holds to be the literal source from which that river flowed at the beginning of time: [[place-chandrprbh|Chandraprabhava]] for [[place-chandrmahi|The Chandramahi]], [[place-sarvaprbhv|Sarvaprabhava]] for [[place-sarvadarivr|The Sarveda]], [[place-mahaprbhva|Mahaprabhava]] for [[place-mahanadi|The Mahanodi]], and [[place-bhrvprbhav|Bharavaprabhava]] for [[place-bharavarivr|The Bharava]]. Half the population of the subcontinent drinks off this face of the range.
+The four great rivers of Vedyara begin here, each at a glacier-spring the [[affiliation-varakpnthn|Varnuka tradition]] holds to be the literal source from which that river flowed at the beginning of time: [[place-chandrprbh|Chandraprabhava]] for [[place-chandrmahi|the Chandramahi]], [[place-sarvaprbhv|Sarvaprabhava]] for [[place-sarvadarivr|the Sarveda]], [[place-mahaprbhva|Mahaprabhava]] for [[place-mahanadi|the Mahanodi]], and [[place-bhrvprbhav|Bharavaprabhava]] for [[place-bharavarivr|the Bharava]]. Half the population of the subcontinent drinks off this face of the range.
 
 The melt is not steady. A warm spring on the Wall puts the rivers up three weeks early and drowns the seed of whoever planted by the old reckoning. The rivalry between the temple astronomers who set the year and the reckoners who compute it is, at bottom, an argument about this snow.
 
@@ -28,9 +28,9 @@ The melt is not steady. A warm spring on the Wall puts the rivers up three weeks
 
 In that tradition, the Wall's peaks are the dwelling-places of the Varnuka gods, and the pilgrimage to the lower slopes is an ordinary part of a devout life. Hundreds of thousands walk to the shrine-terraces in the favorable months, and a very small number gho higher, to the springs themselves, where the temples stand.
 
-Above the last of [[place-pssshrines|The Pass-Shrines]] no rule of station reaches. [[affiliation-osketguides|The Osket]] who live up there are not in the tarona, and they are not outside it the way an **Outcaste** is outside it. The order does not address them at all, and orthodox Vedyari jurists have left the matter undisturbed for as long as anyone has been writing the question down.
+Above the last of [[place-pssshrines|the Pass-Shrines]] no rule of station reaches. [[affiliation-osketguides|The Osket]] who live up there are not in the tarona, and they are not outside it the way an **Outcaste** is outside it. The order does not address them at all, and orthodox Vedyari jurists have left the matter undisturbed for as long as anyone has been writing the question down.
 
 ## See Also
 
-- [[place-graznmntns|The Grazian Mountains]] · [[place-estrnreach|The Eastern Reach]] · [[place-wstrndscnt|The Western Descent]]
+- [[place-graznmntns|The Grazian Mountains]] · [[place-estrnreach|the Eastern Reach]] · [[place-wstrndscnt|the Western Descent]]
 - [[place-vedyarargn|Vedyara Region]] · [[place-vindhyalayaland|Shikharalaya]]

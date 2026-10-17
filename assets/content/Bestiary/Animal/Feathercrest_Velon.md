@@ -258,7 +258,7 @@ A lean, upright bird on long, strong hind legs, built for a sprint and a leap, w
 
 ## In the Land
 
-Velons live in the broken country where the Peshtar forest meets rock: the gullies, scree slopes and crag-edged clearings of the island's northwestern highlands, and the forest margins where [[place-nordfells|The Nordfells]] run east from the Peshtar woods. A pack holds a hunting ground of a few square miles and marks its edges with the plucked feathers and fur of its kills, hung on thorns, and a traveler who finds a bush dressed that way has been told to turn back. They are rarer in the deep forest, where there is nothing to drop from, and absent from the settled kingdom-belt in the east.
+Velons live in the broken country where the Peshtar forest meets rock: the gullies, scree slopes and crag-edged clearings of the island's northwestern highlands, and the forest margins where [[place-nordfells|the Nordfells]] run east from the Peshtar woods. A pack holds a hunting ground of a few square miles and marks its edges with the plucked feathers and fur of its kills, hung on thorns, and a traveler who finds a bush dressed that way has been told to turn back. They are rarer in the deep forest, where there is nothing to drop from, and absent from the settled kingdom-belt in the east.
 
 ## Key Behaviors
 

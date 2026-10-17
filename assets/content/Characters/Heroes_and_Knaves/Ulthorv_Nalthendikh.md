@@ -426,7 +426,7 @@ sohl:
 
 ![[ulthrvnlthndkh|Ulthorv Nalthendik]]{float=top-left}
 
-Ulthorv Nalthendik stands 6'1" tall with a medium build. He has tanned ruddy skin, grey hair, and blue eyes. His features include an angular face, a slightly upturned nose, an angular jawline, narrow lips, thick brows, and hollow cheeks. He has a tattoo of a tiger on his forearm.
+Ulthorv stands 6'1" tall with a medium build. He has tanned ruddy skin, grey hair, and blue eyes. His features include an angular face, a slightly upturned nose, an angular jawline, narrow lips, thick brows, and hollow cheeks. He has a tattoo of a tiger on his forearm.
 
 # Dossier {#dossier}
 
@@ -505,7 +505,7 @@ The Tunnel Collapse Opportunity
 : - Ulthorv discovers evidence of structural weakness in one of the primary mine shafts—the very same tunnel system used by the overseers for quick movement and treasure transport. He realizes that a deliberate collapse at exactly the right moment could cut off the guards' retreat route, but it would also risk the lives of enslaved workers still in the upper levels. He can attempt a mass breakout despite the danger, or wait for a less risky opportunity that might never come.
 
 The Visiting Dignitary's Judgment
-: - A representative from the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]'s central government arrives to conduct an "inspection" of the mines. Ulthorv recognizes that this could be his single opportunity to formally present evidence of corruption and illegal enslavement—if he can reach the dignitary and convince them of the truth without being silenced first. The risk is enormous: if **Lord Magistrate Gnarthorv** learns of his intentions, Ulthorv might "disappear" into the deep mines permanently. His companions can help him stage a desperate appeal to authority or push for a more violent solution.
+: - A representative from [[affiliation-kngdmnrdhm|Nordheim]]'s central government arrives to conduct an "inspection" of the mines. Ulthorv recognizes that this could be his single opportunity to formally present evidence of corruption and illegal enslavement—if he can reach the dignitary and convince them of the truth without being silenced first. The risk is enormous: if **Lord Magistrate Gnarthorv** learns of his intentions, Ulthorv might "disappear" into the deep mines permanently. His companions can help him stage a desperate appeal to authority or push for a more violent solution.
 
 The Revolution in the Depths
 : - Other enslaved groups in nearby mines begin coordinating, inspired by rumors of Ulthorv's unbreakable spirit and refusals to submit. A charismatic escaped slave named **[Ketta Frostborn]{.name data-type="being/npc"}** contacts him with a plan: coordinate a simultaneous uprising across multiple mines to overwhelm the guards through sheer numbers. Ulthorv must weigh the possibility of liberation for thousands against the near-certainty that the attempt will be crushed and thousands will die in the attempt.

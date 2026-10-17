@@ -28,7 +28,7 @@ The rite is therefore not a test of strength but a transaction with him: the can
 has offered, consumes its heart, and is bound. Candidates who fail have not been defeated by an
 animal. They have been refused.
 
-Beyond initiation he governs ordinary hunting throughout the [[place-okharisrgn|Okharis Region]]—what may be taken,
-in what season, with what given back. Shamans of the [[affiliation-shokumatrb|Shókuma Tribe]], whose tribe is most associated with the
+Beyond initiation he governs ordinary hunting throughout the [[place-okharisrgn|Okharik country]]—what may be taken,
+in what season, with what given back. [[affiliation-shokumatrb|Shókuma shamans]], whose tribe is most associated with the
 Hunt, hold that he is the most exacting of the zohira about waste and the most indifferent of them
 about cruelty, which they say tells you what he is.

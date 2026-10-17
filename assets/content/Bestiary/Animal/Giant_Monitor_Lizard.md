@@ -236,7 +236,7 @@ The scrub above the beach is hot and still, and the air smells of rot and musk. 
 
 # Dossier {#dossier}
 
-The Giant Monitor Lizard is the largest lizard, nine to ten feet long and two to three hundred pounds, living on the dry islands of [[place-suryaislnds|The Surva-samedra Islands]], the rocky scrub of southern [[place-vedyarargn|Vedyara Region]] and the lowlands of the islands of [[place-jenchairgn|Jenchai Region]]. It lies in ambush on a game-trail and smells carrion from far off. Its saliva carries venom and infection, so a bite goes on weakening an animal after the lizard has lost the fight.
+The Giant Monitor Lizard is the largest lizard, nine to ten feet long and two to three hundred pounds, living on the dry islands of [[place-suryaislnds|the Surva-samedra Islands]], the rocky scrub of southern [[place-vedyarargn|Vedyara]] and the lowlands of the [[place-jenchairgn|Jenchai islands]]. It lies in ambush on a game-trail and smells carrion from far off. Its saliva carries venom and infection, so a bite goes on weakening an animal after the lizard has lost the fight.
 
 ## Presentation
 

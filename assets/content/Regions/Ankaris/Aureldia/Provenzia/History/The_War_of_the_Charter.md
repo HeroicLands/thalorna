@@ -67,21 +67,21 @@ data:
         - what the Orzas's chancery thought it had granted
 ---
 
-A province becomes a realm without ever declaring it, and keeps the forms. The [[affiliation-kngdmprvnz|Kingdom of Provenzia]] is the case that is told best, and The War of the Charter is told as a war about a charter.
+A province becomes a realm without ever declaring it, and keeps the forms. [[affiliation-kngdmprvnz|Provenzia]] is the case that is told best, and it is told as a war about a charter.
 
 ## The Refusal
 
-The [province of the West]{.name data-type="affiliation/polity"} had been a province for nearly five centuries. By about 609 AF it paid for a frontier it could not see and a distant Orzas it never met, in levies and taxes that rose with every year the [[affiliation-vylarinmpr|Vylarian Empire]]'s grip loosened. The estates, the assemblies of nobles, towns and guilds that had advised the _therkoi_ (governors) since the first century of the province, refused the _therkos_ a levy. When he sent his legion to collect it, they refused the legion.
+The [province of the West]{.name data-type="affiliation/polity"} had been a province for nearly five centuries. By about 609 AF it paid for a frontier it could not see and a distant Orzas it never met, in levies and taxes that rose with every year the [[affiliation-vylarinmpr|Empire]]'s grip loosened. The estates, the assemblies of nobles, towns and guilds that had advised the _therkoi_ (governors) since the first century of the province, refused the _therkos_ a levy. When he sent his legion to collect it, they refused the legion.
 
 ## Nine Years
 
-The war was fought for a charter and not for a crown. The estates did not ask to leave the Empire and the Empire did not ask them to; the dispute was over who had the right to tax the province and to call out its men. The port cities held the coast, and [[affiliation-sacredforge|The Sacred Forge]], which had never forgiven an Empire that would not choose between its faith and [[affiliation-blackflame|The Black Flame]] ([[lore-bloodhillsbtl|The Battle of the Blood Hills]]), preached the cause from every temple. The [[lore-provenzianclt|Tanevar country]] fought for the old principle that a free people governs itself, and for its own reasons, which were not the cities'.
+The war was fought for a charter and not for a crown. The estates did not ask to leave the Empire and the Empire did not ask them to; the dispute was over who had the right to tax the province and to call out its men. The port cities held the coast, and [[affiliation-sacredforge|the Sacred Forge]], which had never forgiven an Empire that would not choose between its faith and [[affiliation-blackflame|the Black Flame]] ([[lore-bloodhillsbtl|The Battle of the Blood Hills]]), preached the cause from every temple. The [[lore-provenzianclt|Tanevar country]] fought for the old principle that a free people governs itself, and for its own reasons, which were not the cities'.
 
 The _therkos_'s legion kept the great road and [[place-aureliane|Aurelane]]. It could not keep the country, and the war settled into nine years of marches, sieges and levies that neither side could end. The Tarvénian hosts came down the passes to see what the province would yield while it was busy.
 
 ## The Charter
 
-The peace was a settlement, not a victory. The estates agreed to a king, so that the [Charter of Rights]{.name data-type="lore/law"} would have a holder, and chose one from among themselves: **[Ylarven Lédravren]{.name data-type="being/npc"}**, of the Meridiane [House **Lédravren**]{.name data-type="affiliation/lineage"}, whose lands lay on the southern coast. The Charter of Rights bound the king to take counsel of a [Council of Peers]{.name data-type="affiliation/governmental"}, to levy only by the estates' consent and to leave the cities their own law. The Empire recognized the Charter, and its chancery stopped sending _therkoi_ to the province; the terms were set down with the other realms that had left the Empire in [[lore-crownssettle|The Settlement of the Crowns]]. Nobody declared a kingdom, and the Provenzians do not date one. They date the Charter.
+The peace was a settlement, not a victory. The estates agreed to a king, so that the [Charter of Rights]{.name data-type="lore/law"} would have a holder, and chose one from among themselves: **[Ylarven Lédravren]{.name data-type="being/npc"}**, of the Meridiane [House **Lédravren**]{.name data-type="affiliation/lineage"}, whose lands lay on the southern coast. The Charter of Rights bound the king to take counsel of a [Council of Peers]{.name data-type="affiliation/governmental"}, to levy only by the estates' consent and to leave the cities their own law. The Empire recognized the Charter, and its chancery stopped sending _therkoi_ to the province; the terms were set down with the other realms that had left the Empire in [[lore-crownssettle|the Settlement of the Crowns]]. Nobody declared a kingdom, and the Provenzians do not date one. They date the Charter.
 
 ## What It Left
 

@@ -14,7 +14,7 @@ data:
   government: rajaprjnpd
 ---
 
-**Uttaratira** (560) is the Rajapuri village on the far bank. It is the only village of the [[place-rajapurjnpd|Rajepur Janapoda]] north of [[place-mahanadi|The Mahanodi]], and it is reached by ferry for eight months of the year. The other four months the ferry does not run, and Uttaratira waits on its own bank until it does.
+**Uttaratira** (560) is the Rajapuri village on the far bank. It is the only village of the [[place-rajapurjnpd|Rajepur Janapoda]] north of [[place-mahanadi|the Mahanodi]], and it is reached by ferry for eight months of the year. The other four months the ferry does not run, and Uttaratira waits on its own bank until it does.
 
 Anyone with business there plans by the ferry's season, not by the road.
 

@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [wlqtrrgn], population: 0, packFolder: 
 
 ## Overview
 
-A square of dressed stone stands on the grass-and-dust country of [[place-wlqtrrgn|Volketor]], the grass range, a hundred miles beyond the last caravanserai of Bizaria's [[place-eastrnmrch|Eastern March]]: four walls twenty feet high, a tower at each corner, a single gate facing west. It is the work of the [[affiliation-vylarinmpr|Vylarian Empire]], which in its height drove a handful of such forts into the western margin to watch the grass road east. The tribes call it Oroqid, the camp, as they would any place a force of strangers halted, and they never found a reason to rename it.
+A square of dressed stone stands on the grass-and-dust country of the [[place-wlqtrrgn|Volketor]], the grass range, a hundred miles beyond the last caravanserai of Bizaria's [[place-eastrnmrch|Eastern March]]: four walls twenty feet high, a tower at each corner, a single gate facing west. It is the work of the [[affiliation-vylarinmpr|Vylarian Empire]], which in its height drove a handful of such forts into the western margin to watch the grass road east. The tribes call it Oroqid, the camp, as they would any place a force of strangers halted, and they never found a reason to rename it.
 
 Inside, the plan is the one every legion builds: a parade ground, a headquarters at its center with a strongroom below, barrack blocks along the walls, and a cistern under the courtyard that is fed by a spring the engineers found and the garrison never lost. The roofs are gone and the timbers with them. The walls are whole, and over the gate a square of plaster still carries the painted number of a legion.
 

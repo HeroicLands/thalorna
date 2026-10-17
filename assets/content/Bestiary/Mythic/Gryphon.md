@@ -314,7 +314,7 @@ The cry comes down the valley ahead of it, half an eagle's scream and half a lio
 
 # Dossier {#dossier}
 
-The Gryphon is an eagle in front and a lion behind: three to four feet at the shoulder, five to six feet from the grip of the fore-talons to the tail-tip, three hundred pounds of hunter, with wings that span twenty feet and carry it higher than any eagle flies. It nests on the highest crags of [[place-graznmntns|The Grazian Mountains]], above [[place-pssshrines|The Pass-Shrines]], and in the wind-scoured mountain tracts behind the fjords of the [[place-nrdlndsrgn|Nordlands Region]], and it holds a range of many valleys against every other gryphon. It eats goats, ibex, wild horses and caribou. It kills men who climb toward its eyrie and lets men pass who do not, and it knows the difference.
+The gryphon is an eagle in front and a lion behind: three to four feet at the shoulder, five to six feet from the grip of the fore-talons to the tail-tip, three hundred pounds of hunter, with wings that span twenty feet and carry it higher than any eagle flies. It nests on the highest crags of [[place-graznmntns|the Grazian Mountains]], above [[place-pssshrines|the Pass-Shrines]], and in the wind-scoured mountain tracts behind the [[place-nrdlndsrgn|Nordlands fjords]], and it holds a range of many valleys against every other gryphon. It eats goats, ibex, wild horses and caribou. It kills men who climb toward its eyrie and lets men pass who do not, and it knows the difference.
 
 It is a thinking animal, as clever as a bright child and prouder than most men, and the few people in any age who have won one's regard have ridden it to war.
 
@@ -324,7 +324,7 @@ The eagle half is heavy: a head as large as a shield with amber eyes, a hooked b
 
 ## In the Land
 
-Gryphons nest where nothing else can: on the spires and hanging ledges of [[place-sthrnwall|The Southern Wall]] of the Grazian range, which the [[lore-vedyariclt|Vedyari]] hold to be the dwellings of their gods, and on the peaks above the caribou plateaus in the north, where the reclusive clans know the eyries by name. A pair holds a range that takes in several valleys and the passes between them, and the guides of the Grazian roads reckon a crossing by which pair's country it runs through. Unpaired gryphons wander, looking for a range of their own, and a wandering gryphon is the one a lowlander meets.
+Gryphons nest where nothing else can: on the spires and hanging ledges of [[place-sthrnwall|the Southern Wall]] of the Grazian range, which the [[lore-vedyariclt|Vedyari]] hold to be the dwellings of their gods, and on the peaks above the caribou plateaus in the north, where the reclusive clans know the eyries by name. A pair holds a range that takes in several valleys and the passes between them, and the guides of the Grazian roads reckon a crossing by which pair's country it runs through. Unpaired gryphons wander, looking for a range of their own, and a wandering gryphon is the one a lowlander meets.
 
 The eyrie is a thing worth knowing about: a nest the size of a cart on a ledge no man can climb to, kept clean, and decorated with what the gryphon finds beautiful, polished stones, worked metal taken from the dead and from the living, and the bones of its best kills laid out in an order of its own.
 

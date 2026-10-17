@@ -14,4 +14,4 @@ data:
   packFolder: tarvenia
 ---
 
-Herthema is a fortified town in the [[place-tarvenirgn|Tarvénia Region]] of the [[place-aureldirgn|Aureldia Region]]. Its walls mark it out among the towns of a land of independent fiefdoms and city-states bound by the shared [[skill-tarvenlng|Tarveni Language]] and warrior culture, and its residents include several of the figures named in the character notes.
+Herthema is a fortified town in the [[place-tarvenirgn|Tarvénia Region]] of the [[place-aureldirgn|Aureldia Region]]. Its walls mark it out among the towns of a land of independent fiefdoms and city-states bound by a shared [[skill-tarvenlng|Tarveni language]] and warrior culture, and its residents include several of the figures named in the character notes.

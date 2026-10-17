@@ -20,7 +20,7 @@ The palace is gone. Its stones went into the enlargement of the great [[affiliat
 
 ## The Temple and its Courts
 
-The temple is the town. Its outer courts hold the four-story granary that is still the common store, [[place-rajavalilib|The Rajavali Library]], the school that takes the children of every constituent village, and the pilgrim hostel. The sabhra meets in the great hall. Do not plan to arrive on the **[Day of the Dissolution]{.name data-type="lore/gathering"}**, the anniversary of the decree: no business is done and no labor performed, and the whole town is in the precinct hearing the decree read. The **Memory-Keeper**'s house stands against the south wall of the precinct, and the genealogies are kept in it.
+The temple is the town. Its outer courts hold the four-story granary that is still the common store, [[place-rajavalilib|the Rajavali Library]], the school that takes the children of every constituent village, and the pilgrim hostel. The sabhra meets in the great hall. Do not plan to arrive on the **[Day of the Dissolution]{.name data-type="lore/gathering"}**, the anniversary of the decree: no business is done and no labor performed, and the whole town is in the precinct hearing the decree read. The **Memory-Keeper**'s house stands against the south wall of the precinct, and the genealogies are kept in it.
 
 At the [Spring Festival of Vyalendra]{.name data-type="lore/gathering"} the town takes perhaps fifteen thousand visitors, eight times its own number. They are lodged in the hostel, in the courts, in the granary yard and in the fields beyond, and the janapoda spends a tenth of the year's surplus feeding them.
 

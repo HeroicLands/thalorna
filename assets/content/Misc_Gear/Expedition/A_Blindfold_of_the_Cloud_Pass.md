@@ -10,11 +10,11 @@ sohl:
   system: {weightBase: 0.1, valueBase: 0, qualityBase: 0, durabilityBase: 4}
 ---
 
-The blindfold used at [[place-klhrcldpss|The Cloud Pass]] is a band woven in the village of [[place-avoluthei|Avoluthei]], close enough in the weave that no light passes through it. [[affiliation-lineageavoluthei|The Lineage Avoluthei]] binds it over an admitted outsider's eyes at the foot of the outer face.
+The blindfold used at [[place-klhrcldpss|the Cloud Pass]] is a band woven in the village of [[place-avoluthei|Avoluthei]], close enough in the weave that no light passes through it. [[affiliation-lineageavoluthei|The lineage Avoluthei]] binds it over an admitted outsider's eyes at the foot of the outer face.
 
 ## What It Does
 
-The outsider wears the band over the pass, led step by step from the last coastal valley to the terraces below the inner face, and takes it off only when the road is behind. So the outsider sees [[place-klhrbowl|The Great Bowl]] without ever seeing the way into it. The custodians give the leave, rarely, and the Avoluthei bind the band: no other lineage walks an outsider over [[place-klhrring|The Ring]].
+The outsider wears the band over the pass, led step by step from the last coastal valley to the terraces below the inner face, and takes it off only when the road is behind. So the outsider sees [[place-klhrbowl|the Bowl]] without ever seeing the way into it. The custodians give the leave, rarely, and the Avoluthei bind the band: no other lineage walks an outsider over [[place-klhrring|the Ring]].
 
 ## See Also
 

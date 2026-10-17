@@ -51,7 +51,7 @@ sohl: {system: {commonSkills: [kalihrlng]}}
 
 ## Overview
 
-The Lineage Kuethori (_kuethori_, swift current) holds [[place-klhrkthrgap|The Kuethori Gap]], the gorge by which the water of [[place-klhrlake|The Bowl Lake]] leaves the interior. The lineage holds it from the outlet to the foot of [[place-klhrring|The Ring]], with the ledge road along its wall, and it holds the work that lies across the riverbed at the head of the gap, [[place-stillwatersill|The Still-Water Sill]]. The village of [[place-kuethori|Kuethori]] on the southern lakeshore is its seat and carries its name. Below the gorge the river reaches the sea at a mouth with no port, and the lineage does not go down it.
+The Kuethori (_kuethori_, swift current) holds [[place-klhrkthrgap|the Kuethori Gap]], the gorge by which the water of [[place-klhrlake|the Bowl Lake]] leaves the interior. The lineage holds it from the outlet to the foot of [[place-klhrring|the Ring]], with the ledge road along its wall, and it holds the work that lies across the riverbed at the head of the gap, [[place-stillwatersill|the Still-Water Sill]]. The village of [[place-kuethori|Kuethori]] on the southern lakeshore is its seat and carries its name. Below the gorge the river reaches the sea at a mouth with no port, and the lineage does not go down it.
 
 ## Character
 
@@ -63,7 +63,7 @@ The ledge road is the lineage's second charge. Nobody goes down the gorge withou
 
 ## Relations
 
-The Kuethori sit in [[affiliation-councilisland|The Council of the Island]] through their Elder, and they stand with the custodianship of [[affiliation-tharivaan|Thári'vaan]] in the tending of the sill. The Master of the Terraces and the Elder of the lineage [Koathevoi]{.name data-type="affiliation/lineage"}, whose lowest terraces the lake has taken, have each counted the loss, and the two counts do not agree on its cause.
+The Kuethori sit in [[affiliation-councilisland|the Council of the Island]] through their Elder, and they stand with the custodianship of [[affiliation-tharivaan|Thári'vaan]] in the tending of the sill. The Master of the Terraces and the Elder of the lineage [Koathevoi]{.name data-type="affiliation/lineage"}, whose lowest terraces the lake has taken, have each counted the loss, and the two counts do not agree on its cause.
 
 ## See Also
 

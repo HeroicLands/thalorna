@@ -29,7 +29,7 @@ A bolt leaves a weaving hall in the city under the lead seal of the shrena that 
 
 ## The Galleys
 
-Most of the cloth goes west and south in [[affiliation-chandrapur|Chendrapur]]'s galleys. The [[affiliation-vyalendra2|Vyalendra City-State]] keeps no war-fleet and no deep-water hulls of its own, and the hire of the galleys is argued out between the two cities before every sailing season, on terms nobody has ever managed to fix for more than one year at a time. Tantsou junks work the eastern run on their own account and take the finest goods direct, paying in silver and in the tin the dyers' mordants need.
+Most of the cloth goes west and south in [[affiliation-chandrapur|Chendrapur]]'s galleys. [[affiliation-vyalendra2|Vyalendra]] keeps no war-fleet and no deep-water hulls of its own, and the hire of the galleys is argued out between the two cities before every sailing season, on terms nobody has ever managed to fix for more than one year at a time. Tantsou junks work the eastern run on their own account and take the finest goods direct, paying in silver and in the tin the dyers' mordants need.
 
 ## The Deck
 

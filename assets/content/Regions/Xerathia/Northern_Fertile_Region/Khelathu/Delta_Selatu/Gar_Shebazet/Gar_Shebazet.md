@@ -19,7 +19,7 @@ data:
 
 Gar-Shebazet smells of cut green stems and wet clay. A paper-cutter at the edge of the market, with a pile of finished sheets weighted under a stone, explains it to a newcomer: "Everything here is either a reed or something that has just been done to one."
 
-The town is the capital of [[affiliation-selatgrshbzt|The Selat of Gar-Shebazet]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], with about 49,000 people. It holds the selat's chief temple of the [[affiliation-shebazet|Faith of Shebazet]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its trade is the selat's: papyrus marsh, fowling, reed-craft and the empire's paper-cutting.
+The town is the capital of [[affiliation-selatgrshbzt|the Selat of Gar-Shebazet]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], with about 49,000 people. It holds the selat's chief temple of [[affiliation-shebazet|Shebazet]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its trade is the selat's: papyrus marsh, fowling, reed-craft and the empire's paper-cutting.
 
 ## See Also
 

@@ -214,7 +214,7 @@ The dog lies across the gate of the yard, a big, short-coated animal the color o
 
 # Dossier {#dossier}
 
-The Guard Dog is the big protection dog of the villages and strongholds, about two feet at the shoulder and a hundred twenty to a hundred eighty pounds. It is kept in the villages of [[place-vrystwald|Vristwald]], on the estates of [[place-velanthrgn|Velanthia Region]], at the gates of the cities of [[place-byzariargn|Bizaria Region]] and in the keeps of [[place-aelwyth|Aelwyth]], and it guards a fold, a granary, a wall or a person. A dog like this is worth several armed men in defence.
+The Guard Dog is the big protection dog of the villages and strongholds, about two feet at the shoulder and a hundred twenty to a hundred eighty pounds. It is kept in the villages of [[place-vrystwald|Vristwald]], on the estates of [[place-velanthrgn|Velanthia]], at the gates of the cities of [[place-byzariargn|Bizaria]] and in the keeps of [[place-aelwyth|Aelwyth]], and it guards a fold, a granary, a wall or a person. A dog like this is worth several armed men in defence.
 
 ## Presentation
 

@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-**Lin'Qeztu elu Au'Khelathu** is the chartered body that regulates paid soldiering across the [[place-aukhelathrgq|Au'Khelathu Region]], open to any fighter willing to accept its terms of hire. It places members with employers who want soldiers on contract rather than levied troops, and it vouches for a member's standing and conduct to whoever is hiring.
+**Lin'Qeztu elu Au'Khelathu** is the chartered body that regulates paid soldiering across [[place-aukhelathrgq|Au'Khelathu]], open to any fighter willing to accept its terms of hire. It places members with employers who want soldiers on contract rather than levied troops, and it vouches for a member's standing and conduct to whoever is hiring.
 
 ## Character
 

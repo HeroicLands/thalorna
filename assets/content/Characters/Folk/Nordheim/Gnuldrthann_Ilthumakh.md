@@ -36,4 +36,4 @@ Gnuldrthann Ilthumak is a 25-year-old man who stands 5'10" tall with a medium bu
 
 # Dossier {#dossier}
 
-Gnuldrthann Ilthumak is a grizzled merchant captain whose aging vessel is famous across the northern routes. He brings [[being-hvrnthnstrmrt|Hvarnthann Stormrót]] aboard whenever his schedule allows, calling Hvarnthann "the best navigator in the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]'s service". Gnuldrthann Ilthumak is named in Hvarnthann Stormrót.
+Gnuldrthann Ilthumak is a grizzled merchant captain whose aging vessel is famous across the northern routes. He brings [[being-hvrnthnstrmrt|Hvarnthann]] aboard whenever his schedule allows, calling Hvarnthann "the best navigator in [[affiliation-kngdmvthgrd|Vithgard]]'s service". Gnuldrthann Ilthumak is named in Hvarnthann Stormrót.

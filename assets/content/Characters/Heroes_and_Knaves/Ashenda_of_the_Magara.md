@@ -429,9 +429,9 @@ sohl:
 
 ![[ashendamgr|Ashenda of the Magara]]{float=top-left}
 
-Ashenda of the Magara stands 5'9" tall with a heavy build. She has dark skin, dark hair, and dark eyes. Her features include a wide face, a wide-nostriled nose, a rounded chin, prominent lips, strong brows.
+Ashenda stands 5'9" tall with a heavy build. She has dark skin, dark hair, and dark eyes. Her features include a wide face, a wide-nostriled nose, a rounded chin, prominent lips, strong brows.
 
-Her most notable feature is the series of tribal markings cut into her skin, starting from the left side of her neck and running down to her arm—swirling patterns that symbolize her bond with the [Spirit Blade]{.name data-type="weapongear"} and the spirits of the [[affiliation-magaratrb|Magara Tribe]]. Ashenda wears a simple, sleeveless tunic made of dark leather, leaving her arms bare to display her tribal tattoos. A pair of bracers, inscribed with more spiritual symbols, adorn her wrists, while her legs are clad in flexible but durable leather pants, allowing for swift movement. Her Spirit Blade, sleek and curved with a faint ethereal glow, is always strapped across her back when not in use, its presence a constant reminder of her connection to the spirit realm. Ashenda’s movements are precise and methodical, her posture upright and imposing, as if every step is part of a deliberate, unspoken ritual.
+Her most notable feature is the series of tribal markings cut into her skin, starting from the left side of her neck and running down to her arm—swirling patterns that symbolize her bond with the [Spirit Blade]{.name data-type="weapongear"} and the spirits of the [[affiliation-magaratrb|Magara]]. Ashenda wears a simple, sleeveless tunic made of dark leather, leaving her arms bare to display her tribal tattoos. A pair of bracers, inscribed with more spiritual symbols, adorn her wrists, while her legs are clad in flexible but durable leather pants, allowing for swift movement. Her Spirit Blade, sleek and curved with a faint ethereal glow, is always strapped across her back when not in use, its presence a constant reminder of her connection to the spirit realm. Ashenda’s movements are precise and methodical, her posture upright and imposing, as if every step is part of a deliberate, unspoken ritual.
 
 # Dossier {#dossier}
 

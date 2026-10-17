@@ -12,7 +12,7 @@ data: {demonym: null, lore, parents: [sthrnkchchk], population: null, packFolder
 
 ## Overview
 
-Shelem Ish'bal Region is forsaken wastes that no one truly rules, watched over from its threshold by the priesthood of the [[affiliation-itzanpnthn|Itsani Pantheon]], and lies within [[place-sthrnkchchk|Southern K'ich'chik]] on the [[place-kchchkcntnnt|K'ich'chik Continent]].
+Shelem Ish'bal Region is forsaken wastes that no one truly rules, watched over from its threshold by the [[affiliation-itzanpnthn|Itsani priesthood]], and lies within [[place-sthrnkchchk|Southern K'ich'chik]] on the [[place-kchchkcntnnt|K'ich'chik Continent]].
 
 Shelem Ish'bal—the Land of the Dead Jaguar—is the forsaken realm at the southern edge of K'ich'chik. It is a place of terror, legend, and desperate ambition. The earth here is held to have been scourged by divine wrath, blasted and twisted into forms that defy nature and sense. Some priesthoods whisper that this was the site of a catastrophic failure in a previous age of the world, when the celestial order faltered and the gods themselves turned their back. Others claim the wastes are a living punishment, a scar in the world that refuses to heal.
 

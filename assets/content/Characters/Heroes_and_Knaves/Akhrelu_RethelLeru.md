@@ -423,7 +423,7 @@ sohl:
 
 ![[akhrelrthllr|Akhrelu Reth'el'Leru]]{float=top-left}
 
-Akhrelu Reth'el'Leru stands 6'1" tall with a heavy build. He has dark brown skin, jet black hair, and brown eyes. His features include a long face, a prominent nose, a narrow chin, full lips, dark brows, and sculpted cheeks. He has a scar on the back of his left arm.
+Akhrelu stands 6'1" tall with a heavy build. He has dark brown skin, jet black hair, and brown eyes. His features include a long face, a prominent nose, a narrow chin, full lips, dark brows, and sculpted cheeks. He has a scar on the back of his left arm.
 
 # Dossier {#dossier}
 

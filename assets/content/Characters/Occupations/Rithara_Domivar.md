@@ -395,7 +395,7 @@ Ríthara Dómivar is an 18-year-old woman who stands 5'8" tall and is of moderat
 
 # Dossier {#dossier}
 
-Ríthara Dómivar is a common seaman of the [[place-tarvenirgn|Tarvénia Region]], a [[lore-tarvenanclt|Tarvenan]] freewoman from the hill town of [[place-thorgila|Thórgila]] who walked down to the coast at seventeen to find a ship and has been on one ever since.
+Ríthara Dómivar is a common seaman of [[place-tarvenirgn|Tarvénia]], a [[lore-tarvenanclt|Tarvenan]] freewoman from the hill town of [[place-thorgila|Thórgila]] who walked down to the coast at seventeen to find a ship and has been on one ever since.
 
 Ríthara comes of hill people who expected her to marry a hill man, and Thórgila has no sea in sight. She signed on as a deckhand at [[place-valthari|Valthari]], undersized for the work and knowing nothing, and has spent five years learning. The stars came at once. She has a gift for navigation that her first mate noticed and her captain has used since—she works a reckoning as well as men twice her age—and she asks questions until the officers are sick of her. She is not strong, and knows it costs her in the crew's eyes. She means to be a captain, and has said so aloud.
 

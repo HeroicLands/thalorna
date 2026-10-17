@@ -84,17 +84,17 @@ data:
       unresolved: [who left the Pelsan Hilvan's gate unwatched]
 ---
 
-Every watchtower in [[place-moktur|Moktur]] keeps the custom of counting smoke. A sergeant handing a recruit his first night on the wall tells him to count the columns rising out of the forest below and to call the officer when there are more than there were at dusk, because one column is a camp and ten is a war-band coming over the passes. The custom is two hundred years old. It began in **The Hunger Raids**, the years after [[lore-threewinters|The Three Winters]] when the [[lore-varokhiclt|Varokh]] came south for food.
+Every watchtower in [[place-moktur|Moktur]] keeps the custom of counting smoke. A sergeant handing a recruit his first night on the wall tells him to count the columns rising out of the forest below and to call the officer when there are more than there were at dusk, because one column is a camp and ten is a war-band coming over the passes. The custom is two hundred years old. It began in **the Hunger Raids**, the years after [[lore-threewinters|the Three Winters]] when the [[lore-varokhiclt|Varokh]] came south for food.
 
 ## The Famine in the Forest
 
-The Three Winters of 512 to 514 fell on [[place-vrystwald|Vristwald]] as hard as on the [[place-nrdlndsrgn|Nordlands Region]]. The rivers froze to the bed and stayed frozen past the thaw, the clearings gave nothing two summers running, and the stores the household mistresses keep against a lean year ran out in the second winter. The old stopped eating so the young could, which Varokh custom permits and does not ask of anyone, and in a failed winter the three elders of each village apportioned what was left with the kindreds. At [[place-sundhaven|Sundhaven]] on the western shore a whale came ashore in the worst of it and fed the village until the thaw, and its ribs stand over the village gate.
+The Three Winters of 512 to 514 fell on [[place-vrystwald|Vristwald]] as hard as on the [[place-nrdlndsrgn|Nordlands]]. The rivers froze to the bed and stayed frozen past the thaw, the clearings gave nothing two summers running, and the stores the household mistresses keep against a lean year ran out in the second winter. The old stopped eating so the young could, which Varokh custom permits and does not ask of anyone, and in a failed winter the three elders of each village apportioned what was left with the kindreds. At [[place-sundhaven|Sundhaven]] on the western shore a whale came ashore in the worst of it and fed the village until the thaw, and its ribs stand over the village gate.
 
 The villages of the southern forest had one thing the northern ones did not. Over the [[place-vandstein|Vandstein]] passes lay Moktur's valleys, full of cattle and grain the famine had touched less, and nothing between the forest and the valleys but the mountains and the watch.
 
 ## The Grain Summers
 
-From 515 the war-bands went south in numbers Moktur had never met. They wanted cattle and grain first and captives after, and the reciters call these years the Grain Summers for that reason. They came over the passes in the thaw, drove the herds north before the garrisons could gather, and came back the next year to the same valleys. In ten years the lowland valleys of northern Moktur emptied, the families moving south or into the walled towns, and the [[affiliation-vylarinmpr|Vylarian Empire]]'s revenue from its northern province failed in the same years its southern provinces began to drift ([[lore-empirdclne|The Decline of the Vylarian Empire]]). The province raised [[place-dolvar|Dolvar]] from a frontier post to a legion fortress-town to stop the raids at the passes, and Dolvar's garrison still drills against them.
+From 515 the war-bands went south in numbers Moktur had never met. They wanted cattle and grain first and captives after, and the reciters call these years the Grain Summers for that reason. They came over the passes in the thaw, drove the herds north before the garrisons could gather, and came back the next year to the same valleys. In ten years the lowland valleys of northern Moktur emptied, the families moving south or into the walled towns, and the [[affiliation-vylarinmpr|Empire]]'s revenue from its northern province failed in the same years its southern provinces began to drift ([[lore-empirdclne|The Decline of the Vylarian Empire]]). The province raised [[place-dolvar|Dolvar]] from a frontier post to a legion fortress-town to stop the raids at the passes, and Dolvar's garrison still drills against them.
 
 ## The Taking of the Eagle
 
@@ -102,7 +102,7 @@ In 518 a war-band under **[Skathrik yra Wulfskorn wur Gargrund]{.name data-type=
 
 ## The Black Marsh, as the Forest Tells It
 
-[[lore-blackmarshbtl|The Battle of the Black Marsh]] is a Mokturan battle and its dead lie in Mokturan ground, and the Empire's own account of it belongs to Moktur. The forest keeps a different one, and it runs like this.
+[[lore-blackmarshbtl|The Black Marsh]] is a Mokturan battle and its dead lie in Mokturan ground, and the Empire's own account of it belongs to Moktur. The forest keeps a different one, and it runs like this.
 
 In the spring of 520 Skathrik took the eagle south again, at the head of the largest host the hunger had yet sent over the passes, war-bands from a dozen villages that had agreed to go together. The reciters say he carried it to shame the legions, and the elders of Gargrund say he carried it because he could not bear to leave it behind. The legions met the host in a valley with a marsh at its foot. They did not attack it; they closed the valley above it and waited, and when the host tried to break out it was driven down into the marsh, where a man in mail sinks to the waist and a war-band cannot stand together. It died there to the last man, and the [Karsan Soldan Korvan]{.name data-type="affiliation"} took the eagle out of the reeds.
 

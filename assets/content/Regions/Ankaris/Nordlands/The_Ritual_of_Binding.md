@@ -14,7 +14,7 @@ The rite that binds [[being-njorven|Njorven]], the Sea Wraith, is not for the st
 
 The velva counts four things on her fingers, and the sagas agree with her.
 
-- _All three regalia._ [[miscgear-sprsigrid|The Spear of Skraldthira]], [[miscgear-crwnwyrm|The Crown of the Wyrm]] and [[miscgear-hornnjordur|The Horn of Hafvald]]. Two will not do.
+- _All three regalia._ [[miscgear-sprsigrid|The Spear of Skraldthira]], [[miscgear-crwnwyrm|the Crown of the Wyrm]] and [[miscgear-hornnjordur|the Horn of Hafvald]]. Two will not do.
 - _A specific place._ The rite must be worked at a hidden coastal temple, and nowhere else. Its location is part of the quest.
 - _Preparation, both spiritual and material._ Neither half can be skipped, and the spiritual preparation falls on the invoker personally.
 - _Protection._ The invoker cannot defend themselves while working it. Their companions must hold the ground for the duration, against Njorven's minions and equally against rival factions and foreign invaders who have their own reasons to want the rite to fail.

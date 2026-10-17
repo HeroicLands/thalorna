@@ -420,7 +420,7 @@ sohl:
 
 ![[legiretilmyz|Legiret Ilmy-Za]]{float=top-left}
 
-Legiret Ilmy-Za stands 5'6\" tall with a light build. He has deep brown skin, tightly curled black hair, and dark brown eyes. His features include a prominent nose, a pointed chin, thin brows, angular cheeks.
+Legiret stands 5'6\" tall with a light build. He has deep brown skin, tightly curled black hair, and dark brown eyes. His features include a prominent nose, a pointed chin, thin brows, angular cheeks.
 
 # Dossier {#dossier}
 
@@ -486,7 +486,7 @@ Arcane Knowledge
 : Though not a practitioner of magic, Legiret’s deep understanding of mystical texts gives her the ability to recognize magical symbols, traps, and rituals that they encounter on their journey.
 
 Folklore Knowledge
-: Legiret has a widespread and detailed knowledge of the history, culture, beliefs, and stories/legends of the people of the eastern and western parts of the [[place-ankrscntnnt|Ankaris Continent]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]], with a basic and shallow knowledge of the history and cultures of the rest of western Ankaris and the [[place-tantsouregin|Tantsou Region]]. The exception is the [[place-vylariargn|Vylaria Region]], with which she has considerable knowledge.
+: Legiret has a widespread and detailed knowledge of the history, culture, beliefs, and stories/legends of the people of the eastern and western parts of the [[place-ankrscntnnt|Ankaris Continent]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]], with a basic and shallow knowledge of the history and cultures of the rest of western Ankaris and [[place-tantsouregin|Tantsou]]. The exception is [[place-vylariargn|Vylaria]], with which she has considerable knowledge.
 
 ## Psyche
 
@@ -514,7 +514,7 @@ Research
 ## Plot Hooks
 
 The Forbidden Archive
-: Legiret learns of a hidden chamber in the Lut-Zethu of Au'Khelathu, sealed off for centuries after its contents were declared heretical. Whispers suggest it holds a lost codex tied to the celestial event [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]] is studying. Gaining access requires handling political intrigue, bribing officials, and avoiding the watchful eyes of the temple archivists who would see her efforts as a betrayal. The chamber is the one in the library-temple of [[place-khelunu|Khelunu]] that holds the doctrine of the house of the sun, walled up when the house closed ([[lore-sunhouse|The Sun-House at Magu-Thelqen]]).
+: Legiret learns of a hidden chamber in the Lut-Zethu of Au'Khelathu, sealed off for centuries after its contents were declared heretical. Whispers suggest it holds a lost codex tied to the celestial event [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]] is studying. Gaining access requires handling political intrigue, bribing officials, and avoiding the watchful eyes of the temple archivists who would see her efforts as a betrayal. The chamber is the one in the library-temple of [[place-khelunu|Khelunu]] that holds the doctrine of the house of the sun, walled up when the house closed ([[lore-sunhouse|the Sun-House at Magu-Thelqen]]).
 
 The Glyph of Summoning
 : While deciphering an ancient tablet, Legiret accidentally activates a ward, conjuring a spectral guardian bound to the artifact. The spirit demands she fulfill a forgotten oath tied to its creation or face retribution. To unravel the truth, Legiret must dig into the tablet’s history while managing the increasingly erratic behavior of the summoned entity.

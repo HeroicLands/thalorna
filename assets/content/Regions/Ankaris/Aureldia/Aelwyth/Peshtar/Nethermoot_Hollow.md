@@ -29,9 +29,9 @@ What she takes is **years**. A cure for a fever costs a month, a curse on a riva
 ## What the Country Says
 
 - **The clans of the nine fords.** Their war-chief, **[Haldrec Vane]{.name data-type="being/npc"}**, says the witch is a thing of the old woods and that no one in the hollow should be troubled. His warriors leave her jars unpicked and go around the dell on the north side.
-- **The border steadings of the [[place-aldorathrgn|Aldorath Region]].** Their shepherds say the witch can cure anything. The sick are carried there in the dark of the moon, and the carriers do not discuss the price.
+- **The border steadings of [[place-aldorathrgn|Aldorath]].** Their shepherds say the witch can cure anything. The sick are carried there in the dark of the moon, and the carriers do not discuss the price.
 - **The druids of the stone circles.** The druids of neighboring clans say Nanwyth Crake broke the oldest rule of their order, that the dead are given to the earth and no one else, and that her work will draw something worse than a witch to the hollow.
-- **The [[affiliation-selmoros|Faith of Sélmoros]]'s few priests in the interior.** They say the dead in the trees are not at rest and that no rite exists for them, because the clan's rite was never done.
+- **[[affiliation-selmoros|Sélmoros]]'s few priests in the interior.** They say the dead in the trees are not at rest and that no rite exists for them, because the clan's rite was never done.
 
 ## Reaching It
 

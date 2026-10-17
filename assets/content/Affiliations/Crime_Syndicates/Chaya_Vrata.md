@@ -78,7 +78,7 @@ Pronunciation
 
 The [[affiliation-svapnasarisamaja|Svapnasari-sameja]] works the dream of a sleeper who has come and asked for it. The **Chaya-vreta** works the dream of a person who is awake and has not.
 
-That is the whole of the difference, and it is enough. The [Council of the Dream]{.name data-type="affiliation/governmental"} condemned the vow and holds the condemnation open; the Sameja's monasteries will not seat a Chaya-vreta and will not name one; and the vow has gone on being taught, one student at a time, for as long as the condemnation has been open. The condemnation dates from about 470 AF ([[lore-chayacondm|The Condemnation of the Chaya-vreta]]).
+That is the whole of the difference, and it is enough. The [Council of the Dream]{.name data-type="affiliation/governmental"} condemned the vow and holds the condemnation open; the Sameja's monasteries will not seat a Chaya-vreta and will not name one; and the vow has gone on being taught, one student at a time, for as long as the condemnation has been open. The condemnation dates from about 470 AF ([[lore-chayacondm|the Condemnation of the Chaya-vreta]]).
 
 ### What It Does
 
@@ -88,7 +88,7 @@ The **misdirection**: a person looks at the thing and does not see it, or looks 
 
 The **errand nobody recalls**: a message delivered, a door opened, a seal carried, and a person who did all three and remembers a dull afternoon.
 
-The **unremembered face**: the one that will not fix. A witness knows there was a person, knows what the person said, and cannot assemble the face out of any of it. Courts across the [[place-vedyarargn|Vedyara Region]] have learned to recognize the shape of this testimony, which has not helped them at all, because recognizing it proves only that it was done.
+The **unremembered face**: the one that will not fix. A witness knows there was a person, knows what the person said, and cannot assemble the face out of any of it. Courts across [[place-vedyarargn|Vedyara]] have learned to recognize the shape of this testimony, which has not helped them at all, because recognizing it proves only that it was done.
 
 ### The Shadow-Brotherhoods
 

@@ -36,4 +36,4 @@ Valhamin Goravan is a 57-year-old man who stands 5'9" tall with a light build. H
 
 # Dossier {#dossier}
 
-Valhamin Goravan is a merchant lord and one of the most prominent trading masters in the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. He has employed [[being-farazunfrn|Farazun Afrun]] repeatedly, trusts him with valuable cargo, and actively recommends him to other merchants.
+Valhamin Goravan is a merchant lord and one of the most prominent trading masters in the [[affiliation-kngdmmrdd|Kingdom]]. He has employed [[being-farazunfrn|Farazun Afrun]] repeatedly, trusts him with valuable cargo, and actively recommends him to other merchants.

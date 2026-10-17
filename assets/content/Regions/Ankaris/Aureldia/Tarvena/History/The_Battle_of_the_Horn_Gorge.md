@@ -58,7 +58,7 @@ data:
         - the name of the felzos who led the fourth expedition
 ---
 
-Since The Battle of the Horn Gorge, the shepherds of [[place-asturath|Asturath]] do not drive their flocks through the gorge below [[place-lezkora|Lezkora]], and they do not say why. On autumn nights the sound of horns comes down the rocks and the echo comes back from a wall at the far end, and the horns are blowing a recall.
+The shepherds of [[place-asturath|Asturath]] do not drive their flocks through the gorge below [[place-lezkora|Lezkora]], and they do not say why. On autumn nights the sound of horns comes down the rocks and the echo comes back from a wall at the far end, and the horns are blowing a recall.
 
 ## The Fourth Expedition
 
@@ -70,7 +70,7 @@ The mountain lord **[Tórsaro]{.name data-type="being/npc"}** knew that a legion
 
 ## What the Empire Did
 
-The [[affiliation-vylarinmpr|Vylarian Empire]] never sent a fifth expedition. The legion was struck off the rolls, and the chancery's account of [[lore-westernwars|The Western Wars]] says that the worst of the four was lost in the mountains and says no more. The Empire held the lowland approaches thereafter and left the mountains alone, which the Astúrathi take as the Empire's acknowledgement.
+[[affiliation-vylarinmpr|Vylaria]] never sent a fifth expedition. The legion was struck off the rolls, and the chancery's account of [[lore-westernwars|the Western Wars]] says that the worst of the four was lost in the mountains and says no more. The Empire held the lowland approaches thereafter and left the mountains alone, which the Astúrathi take as the Empire's acknowledgement.
 
 ## What It Left
 

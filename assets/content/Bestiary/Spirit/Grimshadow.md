@@ -139,7 +139,7 @@ The cold comes first, so sudden that your breath smokes in the lamplight. Someth
 
 # Dossier {#dossier}
 
-The Grimshadow is a spirit that feeds on fear and despair, met where great terror and suffering happened and were never put to rest: on [[lore-bloodfield|blood-fields]] of the dread kind, which return to those who linger what was felt on them; in the ruins of cities that died badly; and in the dead towns and blood-fields of the [[place-khzryndsrtrgn|Khazryn Desert Region]]. It is not undead and not a dreadspawn, and it eats no flesh. It hunts the mind. Most who meet one survive in body, and some of them do not sleep again without a lamp. A grimshadow is usually anchored to one place by the suffering that made it, and a few wander, following those who have carried some of that suffering away with them.
+The Grimshadow is a spirit that feeds on fear and despair, met where great terror and suffering happened and were never put to rest: on [[lore-bloodfield|blood-fields]] of the dread kind, which return to those who linger what was felt on them; in the ruins of cities that died badly; and in the dead towns and blood-fields of the [[place-khzryndsrtrgn|Khazryn]]. It is not undead and not a dreadspawn, and it eats no flesh. It hunts the mind. Most who meet one survive in body, and some of them do not sleep again without a lamp. A grimshadow is usually anchored to one place by the suffering that made it, and a few wander, following those who have carried some of that suffering away with them.
 
 ## Presentation
 

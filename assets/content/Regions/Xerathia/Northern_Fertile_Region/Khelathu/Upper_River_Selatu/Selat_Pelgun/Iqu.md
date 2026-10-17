@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-Iku is where the eastern caravans arrive. It is the capital of [[affiliation-selatsltplgn|The Selat of Selat-Pelgun]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], and about 34,000 people live here, among the Halzi'a's court and granaries, the chief temple of the [[affiliation-pelgun|Faith of Pelgun]], the scribal bureau that keeps the tax rolls and the markets where the caravans unload. At harvest the temple fills with the selat's festival crowds for the harvest-festivals and the virility rites of the god.
+Iku is where the eastern caravans arrive. It is the capital of [[affiliation-selatsltplgn|the Selat of Selat-Pelgun]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], and about 34,000 people live here, among the Halzi'a's court and granaries, the chief temple of the [[affiliation-pelgun|Faith of Pelgun]], the scribal bureau that keeps the tax rolls and the markets where the caravans unload. At harvest the temple fills with the selat's festival crowds for the harvest-festivals and the virility rites of the god.
 
 ## See Also
 

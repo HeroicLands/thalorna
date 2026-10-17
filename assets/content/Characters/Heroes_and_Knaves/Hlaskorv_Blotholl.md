@@ -417,7 +417,7 @@ sohl:
 
 ![[hlskrvblthl|Hlaskorv Bletholl]]{float=top-left}
 
-Hlaskorv Bletholl stands 5'11" tall with a heavy build. He has tanned weathered skin, grey hair, and blue eyes. His features include a long face, a long nose, a strong jawline, a firm-set mouth, low-set brows, and angular cheeks. He has a scar running down his back.
+Hlaskorv stands 5'11" tall with a heavy build. He has tanned weathered skin, grey hair, and blue eyes. His features include a long face, a long nose, a strong jawline, a firm-set mouth, low-set brows, and angular cheeks. He has a scar running down his back.
 
 # Dossier {#dossier}
 

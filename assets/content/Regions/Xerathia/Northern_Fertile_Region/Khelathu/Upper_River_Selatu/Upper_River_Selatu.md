@@ -60,13 +60,13 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Above the delta [[place-zumeleshrvr|The Zumelesh]] runs for hundreds of leagues through a narrow, fertile valley walled by dry upland on either side, and The Upper River Selatu, eighteen provinces, hold it. They are the most numerous of the four classes of selat and the agricultural heartland of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]: every year the flood drowns and renews their fields, and every harvest fills the granaries that feed the cities and the army. This is the oldest-settled, most thickly templed and most stubbornly traditional country in the realm, and its Halzi'a are the conscience of the empire and its dead weight in equal measure.
+Above the delta [[place-zumeleshrvr|the Zumelesh]] runs for hundreds of leagues through a narrow, fertile valley walled by dry upland on either side, and the eighteen Upper River Selatu, eighteen provinces, hold it. They are the most numerous of the four classes of selat and the agricultural heartland of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]: every year the flood drowns and renews their fields, and every harvest fills the granaries that feed the cities and the army. This is the oldest-settled, most thickly templed and most stubbornly traditional country in the realm, and its Halzi'a are the conscience of the empire and its dead weight in equal measure.
 
 "Count the granaries before you count the gold," a temple steward at [[place-anlaghzetun|Anlagh-Zetun]] tells a young scribe on his first posting upriver. "Down in the Delta a man is worth his ships. Here he is worth his fields and the god whose estate is next to them, and the god's estate is usually bigger."
 
 ## Character
 
-If [[affiliation-deltaselatu|The Delta Selatu]] are the empire's purse, the upper river is its backbone and its anchor. Its Halzi'a are conservative landowners, hereditary to the bone, who measure wealth in fields and granaries rather than ships and margins and who guard their traditional privileges against the capital and the Delta alike. They resist innovation on principle, fund the great temples out of piety, and regard the cosmopolitan Delta with the suspicion of men who have never needed a foreigner for anything. When a dynasty weakens, a coalition of upper-river Halzi'a and temple priesthoods often decides who sits the throne next.
+If [[affiliation-deltaselatu|the Delta Selatu]] are the empire's purse, the upper river is its backbone and its anchor. Its Halzi'a are conservative landowners, hereditary to the bone, who measure wealth in fields and granaries rather than ships and margins and who guard their traditional privileges against the capital and the Delta alike. They resist innovation on principle, fund the great temples out of piety, and regard the cosmopolitan Delta with the suspicion of men who have never needed a foreigner for anything. When a dynasty weakens, a coalition of upper-river Halzi'a and temple priesthoods often decides who sits the throne next.
 
 The valley is dense with temple-cities, cult centers whose gods are older than the dynasties and whose high priests command estates to rival a Halzi'a's. Here are the great necropolises, the embalming towns, the scribal schools and the oldest shrines of the [[affiliation-khelathpnthn|Khelathi Pantheon]].
 
@@ -119,14 +119,14 @@ Adventure here is older and stranger than in the Delta: tomb robbery and the cur
 
 ## Commerce and Currency
 
-The Upper River Selatu use the [[lore-aukhlthcrncy|Au'Khelathu Currency]], but much of the valley's economy runs on grain-render and temple account rather than weighed metal. The [[affiliation-garhalzi|Gar-Hálzi]] treasuries hold tax-grain as readily as silver, and a Halzi'a's wealth is reckoned in granaries as much as in gezan. A tenant pays his share in sacks, and the scribe who receives it enters the sacks.
+The Upper River Selatu use the [[lore-aukhlthcrncy|Au'Khelathu currency]], but much of the valley's economy runs on grain-render and temple account rather than weighed metal. The [[affiliation-garhalzi|Gar-Hálzi]] treasuries hold tax-grain as readily as silver, and a Halzi'a's wealth is reckoned in granaries as much as in gezan. A tenant pays his share in sacks, and the scribe who receives it enters the sacks.
 
 ## See Also
 
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]
 : the empire
 
-[[affiliation-deltaselatu|The Delta Selatu]], [[affiliation-borderselatu|The Border Selatu]], [[affiliation-capitalselat|The Capital Selat]]
+[[affiliation-deltaselatu|The Delta Selatu]], [[affiliation-borderselatu|the Border Selatu]], [[affiliation-capitalselat|the Capital Selat]]
 : the other classes of selat
 
 [[place-zumeleshrvr|The Zumelesh]]

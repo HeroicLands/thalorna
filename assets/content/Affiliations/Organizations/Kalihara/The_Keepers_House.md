@@ -45,7 +45,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-The Keeper's House is the household of the Keeper of the Failing Works, the office of [[affiliation-kalihara|Kalihara]] that the Council has never admitted to. It stands at [[place-kuomethei|Kuomethei]], high on the southern crest of [[place-klhrring|The Ring]], and its members are the custodians of dark works: [[affiliation-tharivaan|Ithakan]] whose works have gone white, who have nothing left to tend, and who keep the count of the white ones. The custodians of the wind-stones winter in the same village.
+The Keeper's House is the household of the Keeper of the Failing Works, the office of [[affiliation-kalihara|Kalihara]] that the Council has never admitted to. It stands at [[place-kuomethei|Kuomethei]], high on the southern crest of [[place-klhrring|the Ring]], and its members are the custodians of dark works: [[affiliation-tharivaan|Ithakan]] whose works have gone white, who have nothing left to tend, and who keep the count of the white ones. The custodians of the wind-stones winter in the same village.
 
 ## Character
 
@@ -57,7 +57,7 @@ The Council has never named the House, and the House does not ask to be named. I
 
 ## Relations
 
-The House belongs to the custodianship and keeps its ranks. [[affiliation-councilisland|The Council of the Island]] does not admit it among its bodies, and the House holds no seat in it. Its custodians have lost the most to the failing, and [[affiliation-silharicircle|The Sílhari Circle]] argues that the principles behind the works must be found.
+The House belongs to the custodianship and keeps its ranks. [[affiliation-councilisland|The Council of the Island]] does not admit it among its bodies, and the House holds no seat in it. Its custodians have lost the most to the failing, and [[affiliation-silharicircle|the Sílhari circle]] argues that the principles behind the works must be found.
 
 ## See Also
 

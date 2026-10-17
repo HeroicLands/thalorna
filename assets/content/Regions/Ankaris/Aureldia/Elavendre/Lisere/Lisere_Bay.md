@@ -8,7 +8,7 @@ tags: [coastal, border]
 data: {demonym: null, lore: [], parents: [lisere], population: null, packFolder: elavendre}
 ---
 
-**Lísere Bay** bites deep into the northern coast of the [[place-ankrscntnnt|Ankaris Continent]] between [[place-elavendre|Élavendre]] and
+**Lísere Bay** bites deep into the northern coast of [[place-ankrscntnnt|Ankaris]] between [[place-elavendre|Élavendre]] and
 [[place-vrystwald|Vristwald]], enclosed by two long arms of land that curve toward one another like a
 **backward C**. It is roughly fifty miles across and fifty deep; at the narrows, where the two horns
 come nearest, northern Élavendre and southern Vristwald are only about **thirty miles apart**.
@@ -33,7 +33,7 @@ Trade crosses it too, in the same boats and often in the same season, which is a
 ## The Open North
 
 Beyond the mouth the water is no longer sheltered, and the threat changes character. **Nordmen**
-raiders out of the [[place-nrdlndsrgn|Nordlands Region]] have worked this coast for centuries in seagoing
+raiders out of the [[place-nrdlndsrgn|Nordlands]] have worked this coast for centuries in seagoing
 ships that need no narrows at all, and they do not stop at the bay. Élavendre's memory of the north is
 long and unfriendly, and it is not chiefly about the Varokh.
 

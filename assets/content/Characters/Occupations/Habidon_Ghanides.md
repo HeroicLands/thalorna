@@ -370,7 +370,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Habidon Ghanides is a giant of a man—6'6" and 227 pounds of broad-shouldered, thick-limbed muscle built by years of hauling rope and swinging boarding axes. His dark brown hair is cut short and unevenly, as though he does it himself with a knife, and his brown eyes sit in a dark-skinned, bronzed face that has been scoured by salt spray and sun until it resembles old leather. His nose is flat and broad, broken and reset more times than he can count, and his knuckles are a landscape of scar tissue from close-quarters boarding combat. A tattoo of an anchor and chain in faded blue ink covers his left forearm. He moves with the rolling gait of a man more comfortable on a pitching deck than on solid ground, and wears a sleeveless mail shirt over salt-stained linen, with a hand axe and heavy knife on his belt.
+Habidon is a giant of a man—6'6" and 227 pounds of broad-shouldered, thick-limbed muscle built by years of hauling rope and swinging boarding axes. His dark brown hair is cut short and unevenly, as though he does it himself with a knife, and his brown eyes sit in a dark-skinned, bronzed face that has been scoured by salt spray and sun until it resembles old leather. His nose is flat and broad, broken and reset more times than he can count, and his knuckles are a landscape of scar tissue from close-quarters boarding combat. A tattoo of an anchor and chain in faded blue ink covers his left forearm. He moves with the rolling gait of a man more comfortable on a pitching deck than on solid ground, and wears a sleeveless mail shirt over salt-stained linen, with a hand axe and heavy knife on his belt.
 
 # Dossier {#dossier}
 

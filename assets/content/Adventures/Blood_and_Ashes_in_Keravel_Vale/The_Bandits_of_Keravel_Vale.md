@@ -17,11 +17,11 @@ data:
 
 ### Teaser
 
-In The Bandits of Keravel Vale, the roads of [[place-ceravelvale|Keravel Vale]] have grown treacherous, with bold bandits striking caravans and travelers without mercy. These outlaws, once scattered and disorganized, now act with alarming precision, united under a mysterious leader who seems to know every weakness in the Vale’s defenses. [Tarlas al Pélanvri na Belsaren]{.name data-type="being/npc"}, Lord of [[place-belsaren|Belsaren]], has called upon skilled adventurers to root out the bandit menace, uncover their hidden lair, and restore order to the countryside. Yet the task is anything but straightforward—peasants whisper of secret alliances, while the bandits’ tactics grow ever more ruthless. Who truly pulls the strings behind the bandit threat? And what dangers lie in wait for those who dare to confront them? The answers lie in the shadows of Keravel Vale.
+The roads of [[place-ceravelvale|Keravel Vale]] have grown treacherous, with bold bandits striking caravans and travelers without mercy. These outlaws, once scattered and disorganized, now act with alarming precision, united under a mysterious leader who seems to know every weakness in the Vale’s defenses. [Tarlas al Pélanvri na Belsaren]{.name data-type="being/npc"}, Lord of [[place-belsaren|Belsaren]], has called upon skilled adventurers to root out the bandit menace, uncover their hidden lair, and restore order to the countryside. Yet the task is anything but straightforward—peasants whisper of secret alliances, while the bandits’ tactics grow ever more ruthless. Who truly pulls the strings behind the bandit threat? And what dangers lie in wait for those who dare to confront them? The answers lie in the shadows of Keravel Vale.
 
 ### Background
 
-The Vale of Keravel is a rugged, isolated region in the [[place-provenzrgn|Provenzia Region]] plagued by bandit activity, led by [Thárion al Dracaen]{.name data-type="being/npc"}, who was once the lord of Belsaren. After being accused of treason by Tarlas Pélanvri, Thárion lost his title and lands. Thárion leads a band of outlaws based in Belsaren who raid the region. However, the situation is more complicated than it seems: the local villagers, who are mostly Tanevar, secretly support the bandits. The adventurers are tasked with bringing Thárion and his rebellion to an end.
+The Vale of Keravel is a rugged, isolated region in [[place-provenzrgn|Provenzia]] plagued by bandit activity, led by [Thárion al Dracaen]{.name data-type="being/npc"}, who was once the lord of Belsaren. After being accused of treason by Tarlas Pélanvri, Thárion lost his title and lands. Thárion leads a band of outlaws based in Belsaren who raid the region. However, the situation is more complicated than it seems: the local villagers, who are mostly Tanevar, secretly support the bandits. The adventurers are tasked with bringing Thárion and his rebellion to an end.
 
 ### Key Dynamics and Relationships
 
@@ -41,7 +41,7 @@ Tanevar and Provenzian Peasants of Belsaren
 
 Bandits have been chronically harassing the region of Keravel for years. Recently, one band near Belsaren has started to organize all of the bandits in the region under a new leader.
 
-Tarlas Pélanvri, the new lord recently installed by Khirata Jarvel, has been tasked with dealing with this bandit problem. Tarlas’s future in Belsaren will likely depend on how he handles this problem.
+Tarlas Pélanvri, the new lord recently installed by Khirata Jarvel, has been tasked with dealing with this bandit problem. Tarlas future in Belsaren will likely depend on how he handles this problem.
 
 Tarlas sees the bandits as both a threat and a convenient tool. On one hand, he fears that continued bandit activity could weaken his position and draw the ire of Jarvel. On the other hand, Tarlas has been using the presence of the bandits as an excuse to increase control due to “military necessity” and ultimately to improve his standing with Jarvel by defeating the bandits.
 
@@ -653,7 +653,7 @@ Supply Room
 : A side chamber filled with stolen goods, including food, tools, and weapons.
 
     Clue
-    : A locked chest (Lockpicking test, -15 penalty to open) contains coded messages hinting at external support for the bandits, including symbols of [[affiliation-blackflame|The Black Flame]].
+    : A locked chest (Lockpicking test, -15 penalty to open) contains coded messages hinting at external support for the bandits, including [[affiliation-blackflame|Black Flame symbols]].
 
 Lieutenants’ Quarters
 : Three bandit lieutenants wait here, guarding the approach to the final chamber.
@@ -832,7 +832,7 @@ Undermine Tarlas’s Reputation
 : By fostering continued unrest, Kilan can make the claim that Tarlas is ineffective, encouraging Jarvel to question his fitness as a ruler.
 
 Claim Keravel’s Resources
-: Once Tarlas is removed, Kilan plans to swoop in, claiming to be the one who can restore order, thereby securing control over Belsaren’s valuable timber and mineral resources, as well as access to **[[place-bloodhills|The Blood Hills]]**.
+: Once Tarlas is removed, Kilan plans to swoop in, claiming to be the one who can restore order, thereby securing control over Belsaren’s valuable timber and mineral resources, as well as access to **[[place-bloodhills|the Blood Hills]]**.
 
 Kilan is careful to maintain plausible deniability, keeping his dealings with the bandits hidden. He communicates through intermediaries, leaving no direct trail back to him. The adventurers may uncover his involvement by intercepting one of these messengers or by piecing together inconsistencies in the intelligence the bandits are acting upon.
 

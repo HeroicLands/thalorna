@@ -57,11 +57,11 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-"Hold it to the light," says a [[affiliation-garhalzi|Gar-Hálzi]] assayer, turning a weight-piece between finger and thumb for a newly arrived carter. "Every selat on this coast tells you what it is by what it sells. [[place-gezazabu|Gezazabu]] sells salt-fish, and the whole selat smells of it." The Selat of Gezazabu is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], an western delta port of salt-fish and curing-houses, with the trade road to the [[place-bethuargn|Bethua Region]]. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[lore-thubaidty|Thuba'i]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-gezazabuselt|Gezazabu Selat]].
+"Hold it to the light," says a [[affiliation-garhalzi|Gar-Hálzi]] assayer, turning a weight-piece between finger and thumb for a newly arrived carter. "Every selat on this coast tells you what it is by what it sells. [[place-gezazabu|Gezazabu]] sells salt-fish, and the whole selat smells of it." The selat is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], an western delta port of salt-fish and curing-houses, with the trade road to [[place-bethuargn|Bethua]]. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[lore-thubaidty|Thuba'i]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-gezazabuselt|Gezazabu Selat]].
 
 ## Character
 
-The seat is Gezazabu, where the Halzi'a keeps court and the selat's chief temple of the [[affiliation-thubai|Faith of Thuba'i]] stands. Thuba'i is the god of abundance and plenty, and a port that lives by the catch and the carrying trade keeps his festivals with a will.
+The seat is Gezazabu, where the Halzi'a keeps court and the selat's chief temple of [[affiliation-thubai|Thuba'i]] stands. Thuba'i is the god of abundance and plenty, and a port that lives by the catch and the carrying trade keeps his festivals with a will.
 
 ## Commerce and Currency
 

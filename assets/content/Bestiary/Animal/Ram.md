@@ -246,7 +246,7 @@ A hundred yards up the hillside two rams stand facing each other with their head
 
 # Dossier {#dossier}
 
-The Ram is the dominant male of the sheep flocks, three to four feet at the shoulder and 250 to 350 pounds, kept on the upland pastures of the Bizarian [[place-southrnmrch|Southern March]], [[place-graznmntns|The Grazian Mountains]], the hill farms of [[place-aureldirgn|Aureldia Region]] and the steppe margin of [[place-velanthrgn|Velanthia Region]]. It has massive curved horns and a hard temper, worst in the autumn rut. It defends the flock against predators and attacks whatever it takes for a rival.
+The Ram is the dominant male of the sheep flocks, three to four feet at the shoulder and 250 to 350 pounds, kept on the upland pastures of the Bizarian [[place-southrnmrch|Southern March]], [[place-graznmntns|the Grazian Mountains]], the hill farms of [[place-aureldirgn|Aureldia]] and the steppe margin of [[place-velanthrgn|Velanthia]]. It has massive curved horns and a hard temper, worst in the autumn rut. It defends the flock against predators and attacks whatever it takes for a rival.
 
 ## Presentation
 

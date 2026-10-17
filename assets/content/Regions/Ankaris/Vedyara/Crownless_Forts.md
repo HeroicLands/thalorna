@@ -8,7 +8,7 @@ tags: [ruin, hill, fortified]
 data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
 ---
 
-On the ridges above the upper reaches of [[place-sarvadarivr|The Sarveda]], [[place-bharavarivr|The Bharava]] and the upper reaches of [[place-mahanadi|The Mahanodi]] there are forts that belong to nobody. Each was the seat of a small kingdom of [[lore-hundredcrwn|The Hundred Crowns]], or of one of the mountain dynasties "whose names change as their dynasties rise and fall," and each was left when its kingdom stopped. The janapadas below call them **The Crownless Forts**, and they have never counted them.
+On the ridges above the upper reaches of [[place-sarvadarivr|the Sarveda]], [[place-bharavarivr|the Bharava]] and the upper reaches of [[place-mahanadi|the Mahanodi]] there are forts that belong to nobody. Each was the seat of a small kingdom of [[lore-hundredcrwn|the Hundred Crowns]], or of one of the mountain dynasties "whose names change as their dynasties rise and fall," and each was left when its kingdom stopped. The janapadas below call them **the Crownless Forts**, and they have never counted them.
 
 ## What Is There
 

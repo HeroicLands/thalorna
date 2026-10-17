@@ -422,7 +422,7 @@ sohl:
 
 ![[vshnshvdysgrml|Shilavira Vidyasagaramandala]]{float=top-left}
 
-Shilavira Vidyasagaramandala stands 6'3" tall with a heavy build. He has warm honey skin, black hair, and brown eyes. His features include a full face, a slightly arched nose, a soft jawline, generous lips, and expressive brows.
+Shilavira stands 6'3" tall with a heavy build. He has warm honey skin, black hair, and brown eyes. His features include a full face, a slightly arched nose, a soft jawline, generous lips, and expressive brows.
 
 # Dossier {#dossier}
 
@@ -430,7 +430,7 @@ Shilavira Vidyasagaramandala stands 6'3" tall with a heavy build. He has warm ho
 
 ### From Surface Laborer to Craftsman
 
-Shilavira was born to the miners of the city-states of the [[place-vedyarargn|Vedyara Region]], the son of a man named **[Rasikesh]{.name data-type="being/npc"}** who had worked the deep mines for forty years before a collapse took his life when Shilavira was merely nine years old. His mother, **[Devani]{.name data-type="being/npc"}**, took in washing and mending to survive, but Shilavira knew early that his destiny lay in the mines—not as a means of perpetuating family tradition, but as a way of understanding and honoring the circumstances that had shaped his life. At twelve, he began as a water-carrier and ore-hauler, working in the copper and silver mines of **[[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]'s** extensive operations.
+Shilavira was born to the miners of the [[place-vedyarargn|Vedyara city-states]], the son of a man named **[Rasikesh]{.name data-type="being/npc"}** who had worked the deep mines for forty years before a collapse took his life when Shilavira was merely nine years old. His mother, **[Devani]{.name data-type="being/npc"}**, took in washing and mending to survive, but Shilavira knew early that his destiny lay in the mines—not as a means of perpetuating family tradition, but as a way of understanding and honoring the circumstances that had shaped his life. At twelve, he began as a water-carrier and ore-hauler, working in the copper and silver mines of **[[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]'s** extensive operations.
 
 By his late teens, having demonstrated unusual strength, reliability, and a natural aptitude for understanding the stone itself, Shilavira apprenticed under **Master [Koshna]{.name data-type="being/npc"}**, an elderly miner known for his ability to read seams of ore and predict collapses with uncanny accuracy. Over more than a decade of training, Shilavira learned the mechanics of mining—the pickaxe techniques, the use of levers and pulleys, the reading of rock formation—and something deeper: a kind of communion with the earth, an ability to sense where the most precious metals lay hidden and how to extract them with minimal loss.
 
@@ -500,7 +500,7 @@ The Miners' Union Leadership
 
 ### Enemies
 
-Overseer [[being-tarikatamrak|Tarvika Tamraksha]]
+Overseer [[being-tarikatamrak|Tarvika]]
 : A ruthless administrator dispatched by the Merchant Collective to increase profits. Tarvika views safety measures as unnecessary expense and has repeatedly overridden Shilavira's safety recommendations, creating dangerous conditions and tension between them.
 
 [The Industrial Consortium]{.name data-type="affiliation/venture"}

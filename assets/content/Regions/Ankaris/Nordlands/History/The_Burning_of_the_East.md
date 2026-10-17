@@ -77,13 +77,13 @@ data:
         - whether Skruldmil II was at the ford or already on the ridge, which the Driskaruk and the eastern bundi tell differently
 ---
 
-"The rotation puts you on the wall to be standing there when the man beside you is not," [[being-knlthnskrldmkh|Knilthann Skraldumak]] tells the bundi of a new shift at [[place-tvalgard|Tvalgard]], "not to win." He does not tell them why. The why is **The Burning of the East**, and the skald who sings every last stand in [[place-targud|Targud]]'s memory will not sing this one.
+"The rotation puts you on the wall to be standing there when the man beside you is not," [[being-knlthnskrldmkh|Knilthann Skraldumak]] tells the bundi of a new shift at [[place-tvalgard|Tvalgard]], "not to win." He does not tell them why. The why is **the Burning of the East**, and the skald who sings every last stand in [[place-targud|Targud]]'s memory will not sing this one.
 
 ## The Horde
 
-In 604 something came out of the marsh country south and east of Targud that the watch had not seen before: a tribe of the [[lore-grukarfolk|Grukar Folk]] that had stopped fighting its neighbors. A Sha of that tribe, the Grukar who thinks forward, had spent seasons watching the frontier's roads and walls, and a Hushk led what the Sha planned. Behind them came Uk in thousands, spawned for the war by a tribe that had put a whole larder into soldiers, and driven at the farms the way the Grukar drive a weapon they cannot afford to keep. The watch calls it a horde because the north has no better word for a Grukar tribe with a purpose.
+In 604 something came out of the marsh country south and east of Targud that the watch had not seen before: a [[lore-grukarfolk|Grukar tribe]] that had stopped fighting its neighbors. A Sha of that tribe, the Grukar who thinks forward, had spent seasons watching the frontier's roads and walls, and a Hushk led what the Sha planned. Behind them came Uk in thousands, spawned for the war by a tribe that had put a whole larder into soldiers, and driven at the farms the way the Grukar drive a weapon they cannot afford to keep. The watch calls it a horde because the north has no better word for a Grukar tribe with a purpose.
 
-The east burned for ten summers. A district's farms were burned in one year and its watchtowers abandoned the next, and the frontier drew back a day's walk down the river, so that the holdings the saga of [[lore-storalddraskborg|Storald of Draskborg]] describes "a day further down the river than they are now" are the ones the horde took. The king, [Skruldmil II]{.name data-type="being/npc"} of the [Driskaruk]{.name data-type="affiliation/lineage"}, held his hall at [[place-nulthgard|Nulthgard]], on a rise above a ford at the heart of the old eastern districts, because that was where the kings of the [[affiliation-kingdmtrgd|Kingdom of Targud]] had always held it.
+The east burned for ten summers. A district's farms were burned in one year and its watchtowers abandoned the next, and the frontier drew back a day's walk down the river, so that the holdings the saga of [[lore-storalddraskborg|Storald of Draskborg]] describes "a day further down the river than they are now" are the ones the horde took. The king, [Skruldmil II]{.name data-type="being/npc"} of the [Driskaruk]{.name data-type="affiliation/lineage"}, held his hall at [[place-nulthgard|Nulthgard]], on a rise above a ford at the heart of the old eastern districts, because that was where the kings of [[affiliation-kingdmtrgd|Targud]] had always held it.
 
 ## The Three Days
 
@@ -107,4 +107,4 @@ The king's ride to the howes at Nulthgard is due in the present reign, and the e
 - [[place-tvalgard|Tvalgard]] · [[affiliation-kingdmtrgd|Kingdom of Targud]]—the seat and the rotation
 - [[lore-trgdahstry|Histories and Legends of Targud]]—Vrellbrandr and the frontier's memory
 - [[lore-storalddraskborg|Storald of Draskborg]]—the saga of the holdings the horde pushed back
-- [[lore-bloodfield|Blood-fields]] · [[lore-domseycount|The Domsey Count]]
+- [[lore-bloodfield|Blood-fields]] · [[lore-domseycount|the Domsey Count]]

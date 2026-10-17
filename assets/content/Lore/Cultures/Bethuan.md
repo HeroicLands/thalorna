@@ -99,9 +99,9 @@ Bethua repays this with genuine reverence. The Spadai are praised in song and ce
 
 ## The Grace
 
-The Spear-Sisterhood trains from youth in arms and tactics and in the [Charissa]{.name data-type="lore/custom"}—the Grace—an open-hand and kicking art built to turn a woman's agility into a weapon and let her beat a larger, stronger opponent. It is neither a sport nor an ornament. The realm's security rests on the proposition that a trained woman defeats an untrained man, and Bethua intends to keep that proposition true.
+The Spear-Sisterhood trains from youth in arms and tactics and in the [Charissa]{.name data-type="skill/combat"}—the Grace—an open-hand and kicking art built to turn a woman's agility into a weapon and let her beat a larger, stronger opponent. It is neither a sport nor an ornament. The realm's security rests on the proposition that a trained woman defeats an untrained man, and Bethua intends to keep that proposition true.
 
-Above the army stands the fleet, which is what Bethua is actually famous for: the best navy in the region, escorting its convoys, guarding its coast, and waging a deniable privateer war on shipping of the [[affiliation-vylarinmpr|Vylarian Empire]] as the maritime proxy of its patron, the [[affiliation-empireakhlth|Empire of Au'Khelathu]].
+Above the army stands the fleet, which is what Bethua is actually famous for: the best navy in the region, escorting its convoys, guarding its coast, and waging a deniable privateer war on [[affiliation-vylarinmpr|Vylarian shipping]] as the maritime proxy of its [[affiliation-empireakhlth|Khelathi patron]].
 
 ## The Man Admired
 
@@ -117,15 +117,15 @@ Her admiration is not a lesser form of the Spados's. Dorashos holds a quarter qu
 
 ## What the Realm Keeps
 
-A Bethuan can point to the things that make the order work. The [Purple Veil]{.name data-type="miscgear"}, the murex-dyed mantle and face-veil of the Metrissa, is the realm's standard, and the same purple dyes the fleet's sails. **The Archivist's rolls** are the nearest thing Bethua has to a founding document: the genealogies on which every House's claim to standing rests, with the daughters' names set down in order. **The seal** (_kathur_) closes a warrant, a contract and a letter of credit alike, and a House's seal on its paper is the whole of its credit. **The sealed rolls of the [Purple Warrant]{.name data-type="lore/law"}** are the crown's commission for privateers. **The scales** (_halzat_) are the oracle's weighing: a name carried to the oracle of the [[affiliation-zunelas|Faith of Zunelas]] is weighed, and the sovereign's election is made sacred when it is found true. **The aqueducts, cisterns and qanats** are the monument everyone sees, and the [Order of the Waters]{.name data-type="affiliation/order"} keeps them as a priesthood keeps a shrine.
+A Bethuan can point to the things that make the order work. The [Purple Veil]{.name data-type="miscgear"}, the murex-dyed mantle and face-veil of the Metrissa, is the realm's standard, and the same purple dyes the fleet's sails. **The Archivist's rolls** are the nearest thing Bethua has to a founding document: the genealogies on which every House's claim to standing rests, with the daughters' names set down in order. **The seal** (_kathur_) closes a warrant, a contract and a letter of credit alike, and a House's seal on its paper is the whole of its credit. **The sealed rolls of the [Purple Warrant]{.name data-type="lore/law"}** are the crown's commission for privateers. **The scales** (_halzat_) are the oracle's weighing: a name carried to the oracle of [[affiliation-zunelas|Zunelas]] is weighed, and the sovereign's election is made sacred when it is found true. **The aqueducts, cisterns and qanats** are the monument everyone sees, and the [Order of the Waters]{.name data-type="affiliation/order"} keeps them as a priesthood keeps a shrine.
 
 ## The Goddesses on the Bench
 
-Bethuans keep the [[affiliation-arldnpnthn|Aureldian Pantheon]], the same gods venerated across much of the world, and they venerate both sexes freely—a warrior prays to [[lore-ardavondty|Árdavon]], a smith through [[affiliation-sacredforge|The Sacred Forge]], a sailor to [[lore-brazemasdty|Brazemas]]. What is distinctively Bethuan is the state cult.
+Bethuans keep the [[affiliation-arldnpnthn|Aureldian pantheon]], the same gods venerated across much of the world, and they venerate both sexes freely—a warrior prays to [[lore-ardavondty|Árdavon]], a smith through [[affiliation-sacredforge|the Sacred Forge]], a sailor to [[lore-brazemasdty|Brazemas]]. What is distinctively Bethuan is the state cult.
 
 The state cult teaches that sacred authority descends through goddesses: [[lore-lusiniadty|Lusinia]] of creation and beauty, who is the sovereign's own patron; [[lore-zunelasdty|Zunelas]] of dreams and the unseen; [[lore-olveniadty|Ólvenia]] of prosperity and pleasure. Those three orders anchor the realm's sacred government, and the Metrissa rules as a high priestess of a goddess. The gods men favor are honored in their temples and have no place on that bench, and no Bethuan finds this any stranger than that a fisherman does not sit in the Council of Houses.
 
-An ordinary Bethuan's observance is the practical kind. A merchant spends the night before a contract at a shrine of the [[affiliation-olvenia|Faith of Ólvenia]] and brings a portion of a good profit back to the altar. A sailor keeps a small shrine of the [[affiliation-brazemas|Faith of Brazemas]] aboard and offers the first portion of a meal. A woman heavy with child goes to the temples of the [[affiliation-lusinia|Faith of Lusinia]], where the priestesses tend gardens, herbs and midwifery. A House asks the oracle of Zunelas when a decision turns on what cannot be seen. The clergy of the [[affiliation-selmoros|Faith of Sélmoros]] bury the House's dead.
+An ordinary Bethuan's observance is the practical kind. A merchant spends the night before a contract at an [[affiliation-olvenia|Ólvenia shrine]] and brings a portion of a good profit back to the altar. A sailor keeps a small shrine to [[affiliation-brazemas|Brazemas]] aboard and offers the first portion of a meal. A woman heavy with child goes to the temples of [[affiliation-lusinia|Lusinia]], where the priestesses tend gardens, herbs and midwifery. A House asks the oracle of Zunelas when a decision turns on what cannot be seen. The clergy of the [[affiliation-selmoros|Faith of Sélmoros]] bury the House's dead.
 
 ## The Year at Sea and Ashore
 
@@ -143,11 +143,11 @@ Penalty climbs the other way. A woman passed over for the name takes a lesser of
 
 Authority is divided and neither half governs alone. The sacred pillar is the Sacred College, the assembled high priestesses of the three goddess-orders and the great temples, and it is the realm's highest religious court and the electoral body that makes a Metrissa. The secular pillar is the Council of Houses, the assembled Dómissai, which ratifies law, votes the levies and judges disputes between Houses. The Metrissa sits where they meet, Queen and High Priestess at once.
 
-A Dómissa sits in judgment over her own clansfolk, a Hégissa holds the courts, the levy and the water-quotas of a canton in the sovereign's name, and the Grammatissai keep the rolls and draft the law. The Archivist keeps the genealogies, the Izet-Halzi the royal fisc, the Harbor-Mistress the port. [[affiliation-bthntrdhss|The Bethuan Trade-Houses]] form a third, unofficial power whose matriarchs sit in both councils besides. Where the pillars disagree, neither can overrule the other, and the Metrissa plays one against the other just enough to stay indispensable to both. The oracle of Zunelas holds a quiet veto over any election. A weak Metrissa finds the pillars leaning past her toward each other.
+A Dómissa sits in judgment over her own clansfolk, a Hégissa holds the courts, the levy and the water-quotas of a canton in the sovereign's name, and the Grammatissai keep the rolls and draft the law. The Archivist keeps the genealogies, the Izet-Halzi the royal fisc, the Harbor-Mistress the port. [[affiliation-bthntrdhss|The Trade-Houses]] form a third, unofficial power whose matriarchs sit in both councils besides. Where the pillars disagree, neither can overrule the other, and the Metrissa plays one against the other just enough to stay indispensable to both. The oracle of Zunelas holds a quiet veto over any election. A weak Metrissa finds the pillars leaning past her toward each other.
 
 ## Learning and the Foreign Eye
 
-The [[skill-bethunlng|Bethuan Language]] is related to [[skill-helonclng|Helonic Language]] by an ancient migration, and Bethuan scholars keep up a correspondence with Helionite intellectuals that both sides find useful. An educated Bethuan woman reads both.
+The [[skill-bethunlng|Bethuan tongue]] is related to [[skill-helonclng|Helonic]] by an ancient migration, and Bethuan scholars keep up a correspondence with Helionite intellectuals that both sides find useful. An educated Bethuan woman reads both.
 
 Toward foreigners the realm is exact and cool. A foreign man trading in a Bethuan port is suffered, not welcomed: served fairly, his coin taken, his contracts honored, and met throughout with a condescension he can do nothing about. Part of it is simple affront, since a free man trading on his own account presumes as of right to do what no Bethuan man may do. A foreign woman trading on her own account meets none of it, and often finds Bethua the easiest market on the coast.
 
@@ -155,7 +155,7 @@ The one exception is an official of Au'Khelathu, received with marked deference 
 
 ## What the Gate Asks
 
-The Sélmoran faith teaches that the soul passes through the gate that [[lore-selmorosdty|Sélmoros]], the Silent Judge, keeps. His priests sit with the dying, and the dying person speaks a final testimony: wrongs confessed, goods affirmed, so the soul meets the gate with an unburdened heart. The Threshold Keepers keep the temple's records of the dead.
+The Aureldian faith teaches that the soul passes through the gate that [[lore-selmorosdty|Sélmoros]], the Silent Judge, keeps. His priests sit with the dying, and the dying person speaks a final testimony: wrongs confessed, goods affirmed, so the soul meets the gate with an unburdened heart. The Threshold Keepers keep the temple's records of the dead.
 
 The belief changes an ordinary day in the ledger. A Bethuan woman settles the House's accounts, names her successor in public and leaves the House solvent, because a House is judged by its payments and the Archivist's roll keeps what she did. A House endows its crypt and pays for the perpetual care of its tombs, since the temples live on endowments and the temple's record of the dead is what a House's standing rests on. A man's testimony is spoken to the priest in his own voice, and it is one of the few places in a life where he speaks for himself and is entered in a record under his own name. He is otherwise entered under his mother's House.
 
@@ -173,7 +173,7 @@ In return the House owes every person attached to it an answer in court, a place
 
 ## The Weak
 
-Care is the House's first. A House answers for every person attached to it, so the destitute of a House are its own: the widow, the orphaned daughter, the ageing sister who was passed over and took a lesser office. The temples tend what the Houses cannot, and the working priestesses of a temple tend its lands and its charities. A woman with no House at all has nothing: no seat, no name that lenders read, no one to speak for her. Some of the Houseless end in the south among [[affiliation-jcklsthmrchs|The Jackals of the South Marches]], a warband of exiled women and cast-out Spadai.
+Care is the House's first. A House answers for every person attached to it, so the destitute of a House are its own: the widow, the orphaned daughter, the ageing sister who was passed over and took a lesser office. The temples tend what the Houses cannot, and the working priestesses of a temple tend its lands and its charities. A woman with no House at all has nothing: no seat, no name that lenders read, no one to speak for her. Some of the Houseless end in the south among [[affiliation-jcklsthmrchs|the Jackals]], a warband of exiled women and cast-out Spadai.
 
 The limit is the roll. A person the roll does not hold has no one to answer for her.
 
@@ -230,7 +230,7 @@ The sin is the Spadai. The realm takes boys young, unmakes them, binds them by o
 
 ## Glossary {#glossary}
 
-Every Bethuan word and term of art these notes use, the [[skill-khelathlng|Khelathi Language]] loanwords among them.
+Every Bethuan word and term of art these notes use, the [[skill-khelathlng|Khelathi]] loanwords among them.
 
 The full dictionary is in the [[skill-bethunlng#dictionary|Bethuan Language note]].
 

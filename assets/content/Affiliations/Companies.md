@@ -8,7 +8,7 @@ tags: []
 data: {banner: companybnr, packFolder: politiescompanies}
 ---
 
-Companies are among the groups of individuals of note in [[place-worldthlrn|The World of Thalorna]]. The following is a short and incomplete list:
+Companies are among the groups of individuals of note in [[place-worldthlrn|the world of Thalorna]]. The following is a short and incomplete list:
 
 [[affiliation-blckpnwlvs|The Blackpine Wolves]]
 : A volatile band of road bandits operating in the Vristwald, preying on merchant caravans along the old Vylarian trade road. Led by the ruthless former serf Dagbán yra Vethar wur Thrareth, the six outlaws are held together only by desperation—and riddled with internal tensions that threaten to tear them apart.

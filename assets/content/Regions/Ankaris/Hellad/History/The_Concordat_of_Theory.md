@@ -60,7 +60,7 @@ data:
         - where the line between theory and practice falls in a single lesson, which the Concordat leaves to the teacher's judgment
 ---
 
-A teacher of the [[affiliation-panepistmm|Epistémion]] (the Academy of Knowledge) at [[place-thyrenae2|Thirenae]] will tell a student that a lesson on the nature of the elements is philosophy, and that the same lesson with the student's hand held out over a flame is a matter for the [[affiliation-ordoarcanis|Thordimalon]]. Where one lesson turns into the other is the oldest argument of The Concordat of Theory.
+A teacher of the [[affiliation-panepistmm|Epistémion]] (the Academy of Knowledge) at [[place-thyrenae2|Thirenae]] will tell a student that a lesson on the nature of the elements is philosophy, and that the same lesson with the student's hand held out over a flame is a matter for the [[affiliation-ordoarcanis|Order]]. Where one lesson turns into the other is the oldest argument of the Concordat.
 
 ## The Occasion
 

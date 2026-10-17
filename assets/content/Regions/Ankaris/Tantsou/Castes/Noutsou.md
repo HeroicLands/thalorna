@@ -7,7 +7,7 @@ description: "The eighth caste of Tantsou—slaves, war captives, condemned crim
 data: {packFolder: castes, culture: tantsouclt}
 ---
 
-The Noutsou are the caste that is not a caste: the slaves, prisoners of war, condemned criminals and the disgraced who have been cast out of the caste they were born to, and they are the floor of the [[affiliation-tantsouempr|Empire of Tantsou]]. A Noutsou has no name the law recognizes, no property, no marriage and no road out, and the law values his life below that of any other person in the empire. The [[lore-wanduo|Wánduo]] are also slaves, and the comparison stops there: a Wánduo is owned because he is precious, and a Noutsou because he is nothing.
+The Noutsou are the caste that is not a caste: the slaves, prisoners of war, condemned criminals and the disgraced who have been cast out of the caste they were born to, and they are the floor of [[affiliation-tantsouempr|Tantsou]]. A Noutsou has no name the law recognizes, no property, no marriage and no road out, and the law values his life below that of any other person in the empire. The [[lore-wanduo|Wánduo]] are also slaves, and the comparison stops there: a Wánduo is owned because he is precious, and a Noutsou because he is nothing.
 
 ## How a Person Becomes Noutsou
 

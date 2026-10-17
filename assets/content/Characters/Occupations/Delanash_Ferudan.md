@@ -369,7 +369,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Delanash Ferudan is an imposing woman—6'3" with a massive, powerfully built frame that carries 262 pounds with the settled weight of a veteran who has spent decades in harness. Her chestnut hair is thick and unruly, usually bound beneath a linen headwrap against the desert sun, and her honey-brown eyes are sharp and knowing beneath heavy brows. Her medium-toned skin is freckled across the nose and cheeks—unusual for a [[lore-dunhariclt|Dunhari]] woman and a source of mild self-consciousness. Her face is square-jawed and strong-featured, and her hands are broad and scarred from years of weapons drill. She wears a desert garrison's kit: a long padded coat over linen, leather bracers and greaves, and a curved scimitar on her hip that she maintains with the close care of a woman who trusts her blade above all other weapons.
+Delanash is an imposing woman—6'3" with a massive, powerfully built frame that carries 262 pounds with the settled weight of a veteran who has spent decades in harness. Her chestnut hair is thick and unruly, usually bound beneath a linen headwrap against the desert sun, and her honey-brown eyes are sharp and knowing beneath heavy brows. Her medium-toned skin is freckled across the nose and cheeks—unusual for a [[lore-dunhariclt|Dunhari]] woman and a source of mild self-consciousness. Her face is square-jawed and strong-featured, and her hands are broad and scarred from years of weapons drill. She wears a desert garrison's kit: a long padded coat over linen, leather bracers and greaves, and a curved scimitar on her hip that she maintains with the close care of a woman who trusts her blade above all other weapons.
 
 # Dossier {#dossier}
 
@@ -387,7 +387,7 @@ Delanash is matter-of-fact and practical, with little patience for ornamentation
 
 ### Motivation
 
-Delanash's primary motivation is the garrison itself—that it works and that its soldiers survive their tours of duty. She has made peace with her status as tribal outsider by committing entirely to institutional loyalty. Her secondary motivation is proving that desert-born warriors can be disciplined soldiers rather than tribal mercenaries. She wants the fortress to become a model that expands across [[place-dunharargn|Dunhara Region]].
+Delanash's primary motivation is the garrison itself—that it works and that its soldiers survive their tours of duty. She has made peace with her status as tribal outsider by committing entirely to institutional loyalty. Her secondary motivation is proving that desert-born warriors can be disciplined soldiers rather than tribal mercenaries. She wants the fortress to become a model that expands across [[place-dunharargn|Dunhara]].
 
 ### Strengths
 
@@ -413,7 +413,7 @@ The Succession Battle
 : When Fortress Commander Bashvard dies, Delanash is officially recommended as his successor by the military hierarchy. The appointment touches off a political firestorm among Dunhari tribes who refuse to accept a woman and tribal outsider commanding the fortress. A rival candidate—a pure-blood Dunhari warrior of great skill—is proposed, backed by Tribal Elder Zarvash. The fortress becomes a political battleground, and Delanash can accept a compromise that strips her of actual authority, or refuse and accept that tribal forces will move against the fortress openly.
 
 The Freckle Prejudice
-: Delanash discovers that a younger officer, **Captain [[being-razasharperu|Razashar Perudan]]**, is secretly working with Tribal Elder Zarvash to document her decisions for political criticism. Razashar respects her military competence but has been convinced by Zarvash that Delanash's presence in command is corrupting Dunhari warrior traditions. Delanash can remove Razashar from his command, which bears out Zarvash's accusation that she wields power unfairly, or tolerate his undermining and go on with the work.
+: Delanash discovers that a younger officer, **Captain [[being-razasharperu|Razashar]]**, is secretly working with Tribal Elder Zarvash to document her decisions for political criticism. Razashar respects her military competence but has been convinced by Zarvash that Delanash's presence in command is corrupting Dunhari warrior traditions. Delanash can remove Razashar from his command, which bears out Zarvash's accusation that she wields power unfairly, or tolerate his undermining and go on with the work.
 
 The Impure Blood Discovery
 : Delanash learns that Bashvard did not die of natural causes but was poisoned—slowly, over weeks. Investigation reveals the poison was administered by someone in the inner command circle. The political implication is clear: traditional Dunhari factions are eliminating anyone who supports Delanash's advancement. Delanash can accuse Zarvash publicly and risk all-out tribal war, or suppress the investigation and appear weak.

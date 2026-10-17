@@ -18,7 +18,7 @@ Certain motifs appear consistently across the various accounts:
 
 - **The Courts are aware of mortal affairs.** Though they do not intervene often, when they do intervene the consequences are rarely ambiguous. Ancient Élavendren songs recount occasions on which a Fae Court judgment has granted a blessing, imposed a curse, bound a lineage to a particular duty, or withdrawn some previously granted favor. These events are rare but not imaginary.
 
-- **The [[lore-aelendnppl|Áelendan People]] know more than they say.** The Áelendan clearly know a great deal about the Courts that they do not share with outsiders—and, for the most part, do not share with the [[lore-elavendrnppl|Élavendri]] nobility either. Áelendan tradition-keepers and the senior [[affiliation-alndnwrdns|Áelendan Wardens]] are believed to have some form of ongoing relationship with the Courts, but the nature of that relationship is not a subject on which Áelendan elders will be drawn.
+- **The [[lore-aelendnppl|Áelendan]] know more than they say.** The Áelendan clearly know a great deal about the Courts that they do not share with outsiders—and, for the most part, do not share with the [[lore-elavendrnppl|Élavendri]] nobility either. Áelendan tradition-keepers and the senior [[affiliation-alndnwrdns|Wardens]] are believed to have some form of ongoing relationship with the Courts, but the nature of that relationship is not a subject on which Áelendan elders will be drawn.
 
 - **Access is not arranged; it is offered.** In the rare cases where a mortal has been brought before a Fae Court, the encounter was initiated by the Courts themselves, on their terms. There is no known protocol by which a mortal can petition the Courts or seek their attention.
 

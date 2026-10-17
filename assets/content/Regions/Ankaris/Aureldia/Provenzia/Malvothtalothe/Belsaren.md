@@ -15,7 +15,7 @@ data:
 
 ## Overview
 
-Belsaren is a lordship and village of [[place-ceravelvale|Keravel Vale]], and when the vale's bandits strike, they strike here hardest. Its lord keeps a map of Belsaren spread on the table of his hall, and the marks on it are raids. The land is worth fighting over: Belsaren has valuable timber and minerals, and east of it rise [[place-bloodhills|The Blood Hills]], where [[affiliation-blackflame|The Black Flame]] fought its most infamous battle, [[lore-bloodhillsbtl|The Battle of the Blood Hills]], about 248 AF and where something of the Black Flame's is said to lie hidden still.
+Belsaren is a lordship and village of [[place-ceravelvale|Keravel Vale]], and when the vale's bandits strike, they strike here hardest. Its lord keeps a map of Belsaren spread on the table of his hall, and the marks on it are raids. The land is worth fighting over: Belsaren has valuable timber and minerals, and east of it rise [[place-bloodhills|the Blood Hills]], where [[affiliation-blackflame|the Black Flame]] fought its most infamous battle, [[lore-bloodhillsbtl|the Battle of the Blood Hills]], about 248 AF and where something of the Black Flame's is said to lie hidden still.
 
 ## Two Lords
 

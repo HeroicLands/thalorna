@@ -81,19 +81,19 @@ data:
         - what the other two steppe unifications of recorded history were, and when
 ---
 
-**The Storm of the Hundred Banners** is the reason every fort on [[place-marchroad|The March Road]] in [[place-vedyarargn|Vedyara Region]] was built, and it is the most famous of the three times in recorded history that the steppe has united behind one orkun. About 315 AF a charismatic warlord drew the independent tribes of the [[place-khzryndsrtrgn|Khazryn Desert Region]] into a single orkunoq, and the orkunoq went south.
+**The Storm of the Hundred Banners** is the reason every fort on [[place-marchroad|the March Road]] in [[place-vedyarargn|Vedyara Region]] was built, and it is the most famous of the three times in recorded history that the steppe has united behind one orkun. About 315 AF a charismatic warlord drew the independent tribes of the [[place-khzryndsrtrgn|Khazryn]] into a single orkunoq, and the orkunoq went south.
 
-It took the one road a horde can take. [[place-graznmntns|The Grazian Mountains]] close the south off from the steppe, and their passes carry a few caravans a season under hereditary guides; no host can cross them, and none ever has. The orkunoq went round instead. It came down [[place-wstrndscnt|The Western Descent]], where the wall comes apart into dry foothills at its western end, and turned onto the march road.
+It took the one road a horde can take. [[place-graznmntns|The Grazian Mountains]] close the south off from the steppe, and their passes carry a few caravans a season under hereditary guides; no host can cross them, and none ever has. The orkunoq went round instead. It came down [[place-wstrndscnt|the Western Descent]], where the wall comes apart into dry foothills at its western end, and turned onto the march road.
 
-What followed is told in four regions in nearly the same words. The host overran the whole of Vedyara's northwestern march. It went on west across [[place-dunharargn|Dunhara Region]] and reached the eastern walls of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] from the side nobody had built them to face. Then its founding orkun died, and the orkunoq broke back into the tribes it had been made from. The southwestern oasis-cities were largely spared; the [[lore-khazrynclt|Tellumi]] account credits the storm-orkun's respect for the Kingdom's diplomatic missions.
+What followed is told in four regions in nearly the same words. The host overran the whole of Vedyara's northwestern march. It went on west across [[place-dunharargn|Dunhara]] and reached the eastern walls of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] from the side nobody had built them to face. Then its founding orkun died, and the orkunoq broke back into the tribes it had been made from. The southwestern oasis-cities were largely spared; the [[lore-khazrynclt|Tellumi]] account credits the storm-orkun's respect for the Kingdom's diplomatic missions.
 
 On the [[lore-vedyariclt|Vedyari]] side the march has been arranged around that season ever since. [[affiliation-bhumipala|Bhumipala]] built every fort on the road afterward, and with the host in mind, and the kingdom's court, companies and customs all stand on the fact that the march road is the one frontier of the subcontinent a loaded camel—or a steppe host—crosses without climbing. In the passes, [[affiliation-vindhyalay|Shikharalaya]] keeps the other half of the record: no horde has ever forced a Grazian pass.
 
-The storm opened a hard generation for Vedyara. While the kingdoms were looking west, an adventurer came through the conch-door (see [[lore-conchdoor|The Conch-Door Incursion]]) in the east, and within a few years the polities signed [[lore-thirdcmpct|The Third Compact]] at the Melra of 320 AF.
+The storm opened a hard generation for Vedyara. While the kingdoms were looking west, an adventurer came through the conch-door (see [[lore-conchdoor|the Conch-Door Incursion]]) in the east, and within a few years the polities signed [[lore-thirdcmpct|the Third Compact]] at the Melra of 320 AF.
 
 ## See Also
 
-[[place-wstrndscnt|The Western Descent]] · [[place-marchroad|The march road]]
+[[place-wstrndscnt|The Western Descent]] · [[place-marchroad|the march road]]
 : the way the host came
 
 [[affiliation-bhumipala|Bhumipala]]
@@ -108,5 +108,5 @@ The storm opened a hard generation for Vedyara. While the kingdoms were looking 
 [[affiliation-kngdmmrdd|Kingdom of Amradad]]
 : the walls it reached
 
-[[lore-conchdoor|The Conch-Door Incursion]] · [[lore-thirdcmpct|The Third Compact]]
+[[lore-conchdoor|The Conch-Door Incursion]] · [[lore-thirdcmpct|the Third Compact]]
 : the rest of the crisis generation

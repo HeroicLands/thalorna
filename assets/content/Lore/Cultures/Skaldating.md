@@ -8,7 +8,7 @@ tags: [draft, nordlands, bardic]
 data: {packFolder: nordlands}
 ---
 
-The **Skaldating** is the yearly gathering of [[affiliation-skaldscrcl|The Skalds' Circle]]. The five kingdoms of the [[place-nrdlndsrgn|Nordlands Region]] host it in rotation, and [[place-aelwyth|Aelwyth]] or [[place-vrystwald|Vristwald]] occasionally does.
+The **Skaldating** is the yearly gathering of [[affiliation-skaldscrcl|the Skalds' Circle]]. The five [[place-nrdlndsrgn|Nordland kingdoms]] host it in rotation, and [[place-aelwyth|Aelwyth]] or [[place-vrystwald|Vristwald]] occasionally does.
 
 ## The Geldra
 

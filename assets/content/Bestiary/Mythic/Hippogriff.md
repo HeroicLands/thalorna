@@ -314,7 +314,7 @@ A call comes down out of the sky, clear and almost musical, with a horse's whinn
 
 # Dossier {#dossier}
 
-The Hippogryph is an eagle in front and a horse behind: four feet at the shoulder, eight feet from fore-talons to tail, five hundred pounds, with wings that span twenty-five feet and a horse's hindquarters and hooves. It grazes like a horse, flies farther and faster than anything else its size, and moves with the seasons across the breadth of [[place-ankrscntnnt|Ankaris Continent]], summering on the open steppe of [[place-velanthrgn|Velanthia Region]] and the high pastures under the foothills of [[place-graznmntns|The Grazian Mountains]] and wintering on the warm shores round the [[place-midhalnrgn|Mídhalión Region]] basin, by routes its kind has flown for centuries. It is curious about people, it has been ridden, and it is the one of the great winged beasts that comes to a village on purpose.
+The hippogriff is an eagle in front and a horse behind: four feet at the shoulder, eight feet from fore-talons to tail, five hundred pounds, with wings that span twenty-five feet and a horse's hindquarters and hooves. It grazes like a horse, flies farther and faster than anything else its size, and moves with the seasons across the breadth of [[place-ankrscntnnt|Ankaris]], summering on the open steppe of [[place-velanthrgn|Velanthia]] and the high pastures under the [[place-graznmntns|Grazian foothills]] and wintering on the warm shores round the [[place-midhalnrgn|Mídhalión]] basin, by routes its kind has flown for centuries. It is curious about people, it has been ridden, and it is the one of the great winged beasts that comes to a village on purpose.
 
 ## Presentation
 

@@ -52,11 +52,11 @@ Region
 
 ### Overview
 
-The **Áelendan Wardens** are an ancient order tasked with protecting the [[lore-aralwen|aralwain]]—the thin places—of the mountains and deep forests of [[place-elavendre|Élavendre]], particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior, and they take their charge with absolute seriousness. They are the living instrument of the [Kindred Pact]{.name data-type="lore/law"}—the ancient compact between the [[lore-aelendnppl|Áelendan People]] and the land itself—and their authority over sacred territory is recognized by both Áelendan custom and the crown of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]].
+The **Áelendan Wardens** are an ancient order tasked with protecting the [[lore-aralwen|aralwain]]—the thin places—of the mountains and deep forests of [[place-elavendre|Élavendre]], particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior, and they take their charge with absolute seriousness. They are the living instrument of the [Kindred Pact]{.name data-type="lore/law"}—the ancient compact between the [[lore-aelendnppl|Áelendan]] and the land itself—and their authority over sacred territory is recognized by both Áelendan custom and the crown of [[affiliation-kngdmlvndr|Élavendre]].
 
 ### Origin and Purpose
 
-The Wardens are as old as the Kindred Pact. Tradition holds that the order was founded at the earliest Pelwar settlement of the Élavendre interior, when the ancestors of the Áelendan entered into sacred agreement with the land, the forests, and the fae beings who dwelled there. The Wardens have protected the sites of that agreement ever since, generation after generation, their membership passing down through family lines and through tribal selection. The order began as the watch set on the fog-hollow at the edge of [[place-silvrfrsts|The Silver Forests]] ([[lore-lowestpoolpct|The Pact at the Lowest Pool]]), and its charge widened to the passes when the Áelendan were given the wood ([[lore-firesnelgan|The Fires on Nelgan]]).
+The Wardens are as old as the Kindred Pact. Tradition holds that the order was founded at the earliest Pelwar settlement of the Élavendre interior, when the ancestors of the Áelendan entered into sacred agreement with the land, the forests, and the fae beings who dwelled there. The Wardens have protected the sites of that agreement ever since, generation after generation, their membership passing down through family lines and through tribal selection. The order began as the watch set on the fog-hollow at the edge of [[place-silvrfrsts|the Silver Forests]] ([[lore-lowestpoolpct|The Pact at the Lowest Pool]]), and its charge widened to the passes when the Áelendan were given the wood ([[lore-firesnelgan|The Fires on Nelgan]]).
 
 Their purpose is explicitly custodial, not expansionist. The Wardens do not conquer territory, do not pursue enemies beyond the boundaries of sacred ground, and do not involve themselves in political disputes of the lowland kingdom. Their charge is narrow and absolute: to ensure that the sacred sites are not violated, and that the Kindred Pact's terms are upheld.
 
@@ -80,7 +80,7 @@ Fae lore
 : Wardens are trained to recognize fae presence, to navigate fae-touched terrain, and to respond appropriately when fae beings choose to make themselves known
 
 The old tongue
-: All Wardens are fluent in [[skill-aelendlng|Áelendi Language]], the ancestral Pelwar language
+: All Wardens are fluent in [[skill-aelendlng|Áelendi]], the ancestral Pelwar language
 
 ### Doctrine and Response
 

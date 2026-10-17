@@ -8,7 +8,7 @@ tags: [sacred, temple, mountain, inland]
 data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
-**The Temple of Lower Suvarnageri** stands at the foot of [[place-goldmountain|The Gold Mountain]], where [[place-bharavarivr|The Bharava]] proper begins. It is the temple outsiders meet, because the road up the valley reaches it first and because the jewelers' quarter is at its gate.
+**The temple of Lower Suvarnageri** stands at the foot of [[place-goldmountain|the Gold Mountain]], where [[place-bharavarivr|the Bharava]] proper begins. It is the temple outsiders meet, because the road up the valley reaches it first and because the jewelers' quarter is at its gate.
 
 Its altar, its fabric and its endowment are the equals of the other two. What it has that they do not is traffic.
 
@@ -24,6 +24,6 @@ Pilgrims and buyers arrive at the same gate, and the temple keeps two courts so 
 
 ## See Also
 
-- [[place-goldmountain|The Gold Mountain]] · [[place-suvarnagiri|Suvarnageri]] · [[place-bharavarivr|The Bharava]]
-- [[place-uppersuvtmpl|The Temple of Upper Suvarnageri]] · [[place-middlesuvtmpl|The Temple of Middle Suvarnageri]]
+- [[place-goldmountain|The Gold Mountain]] · [[place-suvarnagiri|Suvarnageri]] · [[place-bharavarivr|the Bharava]]
+- [[place-uppersuvtmpl|The Temple of Upper Suvarnageri]] · [[place-middlesuvtmpl|the Temple of Middle Suvarnageri]]
 - [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]

@@ -20,7 +20,7 @@ A lake of black ice north of the refugee fortress does not thaw, and the dead wh
 
 ## Overview
 
-[[place-dvilgvatn|Dvilgvatn]] lies a day north of Draskborg, up the river and beyond the last burned farm. The ice at its center is black and will not melt. Under it, a hidden hov of the [[affiliation-nahild|Faith of Nahild]] stands with its roof-ridge a man's height below the surface, kept by [[affiliation-nalok|Nalok]] under a **Dróttstjori**, [Gnuldrthira]{.name data-type="being/npc"}, who was the wife of a bundi from the [[affiliation-kingdmtrgd|Kingdom of Targud]] before the burning of her farm. The lake is a seep of the Eye of the Void: [[lore-theshadow|The Shadow]] comes through it in a cold that does not warm, and the dead who freeze there rise as **Ginnborn**. Nalok cuts shards of the black ice to set in howes elsewhere in the north.
+[[place-dvilgvatn|Dvilgvatn]] lies a day north of Draskborg, up the river and beyond the last burned farm. The ice at its center is black and will not melt. Under it, a hidden hov of [[affiliation-nahild|Nahild]] stands with its roof-ridge a man's height below the surface, kept by [[affiliation-nalok|Nalok]] under a **Dróttstjori**, [Gnuldrthira]{.name data-type="being/npc"}, who was the wife of a bundi from the [[affiliation-kingdmtrgd|Kingdom of Targud]] before the burning of her farm. The lake is a seep of the Eye of the Void: [[lore-theshadow|the Shadow]] comes through it in a cold that does not warm, and the dead who freeze there rise as **Ginnborn**. Nalok cuts shards of the black ice to set in howes elsewhere in the north.
 
 Draskborg's wardens see the dark from the tower. The fortress is full of people who have lost everything, and some of them walk north in the night.
 
@@ -53,7 +53,7 @@ Draskborg's wardens see the dark from the tower. The fortress is full of people 
 
 **Situation.** On a stone shoal at the lake's edge stands a camp of low turf huts. A dozen people live there: bundi and thralls from the burned east, a few Draskborg runaways, a hunter with a frostbitten hand. They carry out the hov's work in a dull, sad silence and share a kettle. They are **Her Offerers**, and the hidden hov has asked nothing of them yet but labor.
 
-**NPCs and threats.** [Braldvir]{.name data-type="being/npc"}, the camp's elder, is a bundi who lost his farm and sons to the [[lore-grukarfolk|Grukar Folk]] and was turned away from the fortress for want of room. He is polite, tired, and unafraid. He does not know what the hov does with the shards. The Drottmadr who runs the camp, [Anthinda]{.name data-type="being/npc"}, is a lean woman who watches the party and does not speak. The hunter has the beginnings of the black in his hand.
+**NPCs and threats.** [Braldvir]{.name data-type="being/npc"}, the camp's elder, is a bundi who lost his farm and sons to the [[lore-grukarfolk|Grukar]] and was turned away from the fortress for want of room. He is polite, tired, and unafraid. He does not know what the hov does with the shards. The Drottmadr who runs the camp, [Anthinda]{.name data-type="being/npc"}, is a lean woman who watches the party and does not speak. The hunter has the beginnings of the black in his hand.
 
 **Player choices.** Force: seize the camp, which the people fight with whatever they hold. Stealth: pass the huts at night while they sleep. Guile: pose as new offerers who have lost their farms, which is nearly true. Parley: tell Braldvir the truth about the shards, and the Ginnborn, and what happens to the dead at the lake.
 

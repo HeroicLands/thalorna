@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A temple that must hide cannot post an armored guard at its gate. It posts a knight of Vélskari, the Shifting Shadow, and you will not see him.
+A temple that must hide cannot post an armored guard at its gate. It posts a knight of the Shifting Shadow, and you will not see him.
 
-Vélskari is a militant order sworn to protect the hidden temples and followers of the [[affiliation-velgrimr|Faith of Velgrímr]], working by stealth and strategy to protect a secrecy that open force would break. A member guards a hov's secrecy as closely as its stores, since a failure of the one exposes the other.
+Vélskari is a militant order sworn to protect the hidden temples and [[affiliation-velgrimr|his followers]], working by stealth and strategy to protect a secrecy that open force would break. A member guards a hov's secrecy as closely as its stores, since a failure of the one exposes the other.

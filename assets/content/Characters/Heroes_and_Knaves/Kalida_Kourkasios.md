@@ -420,7 +420,7 @@ sohl:
 
 ![[kalidkrkss|Kalida Kourkásios]]{float=top-left}
 
-Kalida Kourkásios stands 5'7" tall with a light build. She has light tanned skin, black hair, and green eyes. Her features include a narrow face, an aquiline nose, a pronounced chin, slightly pursed lips, strong brows.
+Kalida stands 5'7" tall with a light build. She has light tanned skin, black hair, and green eyes. Her features include a narrow face, an aquiline nose, a pronounced chin, slightly pursed lips, strong brows.
 
 # Dossier {#dossier}
 

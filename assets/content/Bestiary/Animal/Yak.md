@@ -246,7 +246,7 @@ The yak at the head of the pass is draped in a skirt of coarse black hair that h
 
 # Dossier {#dossier}
 
-The Yak is the essential animal of the high plateaus, a massive, cold-adapted ox five to six feet at the shoulder, over a thousand pounds wild, with enormous curved horns. It grazes the high plateau and mountain valleys of [[place-graznmntns|The Grazian Mountains]] and the cold steppe of [[place-idwkrrgn|Idvaqor]]. Tame yaks are smaller and give milk, butter, cheese, wool, leather, dung fuel and draft power at altitudes where no horse or ox can work. The yak-herding peoples are independent and hard to govern. Wild herds in the remotest highlands have never known people and are larger and more dangerous.
+The Yak is the essential animal of the high plateaus, a massive, cold-adapted ox five to six feet at the shoulder, over a thousand pounds wild, with enormous curved horns. It grazes the high plateau and mountain valleys of [[place-graznmntns|the Grazian Mountains]] and the cold steppe of [[place-idwkrrgn|Idvaqor]]. Tame yaks are smaller and give milk, butter, cheese, wool, leather, dung fuel and draft power at altitudes where no horse or ox can work. The yak-herding peoples are independent and hard to govern. Wild herds in the remotest highlands have never known people and are larger and more dangerous.
 
 ## Presentation
 

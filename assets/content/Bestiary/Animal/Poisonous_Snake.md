@@ -155,7 +155,7 @@ The flat stone in the sun has a faint pattern on it that was not there a moment 
 
 # Dossier {#dossier}
 
-The Poisonous Snake is a venomous ambush hunter of the warm country, three to six feet long, lying coiled in the rocky gorges and thorn scrub of the Bizarian [[place-southrnmrch|Southern March]], the dry chaparral of the [[place-sthmrchsrgn|South Marches]], the rock country of the [[place-dunhardsrtrgn|Dunhara Desert Region]] and the forest floor of wetter lands. The coloring depends on kind and country. A snake waits motionless for hours beside a game-trail for something to come within reach, and a bite from one can kill.
+The Poisonous Snake is a venomous ambush hunter of the warm country, three to six feet long, lying coiled in the rocky gorges and thorn scrub of the Bizarian [[place-southrnmrch|Southern March]], the dry chaparral of the [[place-sthmrchsrgn|South Marches]], the rock country of the [[place-dunhardsrtrgn|Dunhara Desert]] and the forest floor of wetter lands. The coloring depends on kind and country. A snake waits motionless for hours beside a game-trail for something to come within reach, and a bite from one can kill.
 
 ## Presentation
 

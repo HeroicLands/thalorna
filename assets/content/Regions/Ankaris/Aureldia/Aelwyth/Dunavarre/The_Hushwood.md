@@ -8,7 +8,7 @@ tags: [forest, haunted]
 data: {demonym: null, lore: [], parents: [dunavarre], population: null, packFolder: aelwyth}
 ---
 
-In the wooded foothills where [[place-ironfells|The Ironfells]] break up above [[place-dunavarre|Dúnavarre]] lies **The Hushwood**, a stand of old forest in which nothing sings. It is the newest of the [[place-aureldirgn|Aureldia Region]]'s [[lore-bloodfield|blood-fields]], made in three days at the turn of the year about 703 AF, and the only one in living memory.
+In the wooded foothills where [[place-ironfells|the Ironfells]] break up above [[place-dunavarre|Dúnavarre]] lies **the Hushwood**, a stand of old forest in which nothing sings. It is the newest of the [[place-aureldirgn|Aureldia Region]]'s [[lore-bloodfield|blood-fields]], made in three days at the turn of the year about 703 AF, and the only one in living memory.
 
 ## A Silence
 
@@ -18,11 +18,11 @@ At the edge of hearing, in the stillest hours, there are voices. Those who have 
 
 ## Whose Dead
 
-The dead of the Hushwood are the Saelvri, a forest people whom [[lore-saelvricrusade|The Saelvri Crusade]], prosecuted by the [[affiliation-dunavarsynod|Dúnavarre Synod]], hunted out of the south-east of the island and killed, several thousand of them with their children, in the wood they had kept. They went to their deaths without the rite their own people keep, and the rite itself is lost with the people who knew it. The clergy of the [[affiliation-selmoros|Faith of Sélmoros]] settle a field through a rite understood as placing in the god's keeping the dead who were his, and the Saelvri were not. Nobody living has a rite that can close this field.
+The dead of the Hushwood are the Saelvri, a forest people whom [[lore-saelvricrusade|the Saelvri Crusade]], prosecuted by the [[affiliation-dunavarsynod|Dúnavarre Synod]], hunted out of the south-east of the island and killed, several thousand of them with their children, in the wood they had kept. They went to their deaths without the rite their own people keep, and the rite itself is lost with the people who knew it. The clergy of [[affiliation-selmoros|Sélmoros]] settle a field through a rite understood as placing in the god's keeping the dead who were his, and the Saelvri were not. Nobody living has a rite that can close this field.
 
 ## How the Place Is Treated
 
-The [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] forbids entry. The Synod posts the paths on its side of the wood, and the forest peoples of the south-east do not need to be told. Neither the Order nor the tribes will give a reason. The Order's patrols keep to the margin and lose men there regardless.
+[[affiliation-kingdmdnvr|Dúnavarre]] forbids entry. The Synod posts the paths on its side of the wood, and the forest peoples of the south-east do not need to be told. Neither the Order nor the tribes will give a reason. The Order's patrols keep to the margin and lose men there regardless.
 
 ## Hooks
 

@@ -14,13 +14,13 @@ data:
   culture: elavendriclt
 ---
 
-The Ring of Turned Paths consists of eight silver birch standing in a ring in a hollow of [[place-silvrfrsts|The Silver Forests]], half a day's walk east of [[place-sourimael|Sóurimel]] and nearer to [[place-aelirosse|Aelirosse]] than any lowland map allows. The [[lore-aelendnppl|Áelendan People]] call the place **Khálpilonpu**, a birch stand within the deep wood. Nobody has cut a tree of it, and nobody has needed to: the ring keeps itself unreachable.
+The Ring of Turned Paths consists of eight silver birch standing in a ring in a hollow of [[place-silvrfrsts|the Silver Forests]], half a day's walk east of [[place-sourimael|Sóurimel]] and nearer to [[place-aelirosse|Aelirosse]] than any lowland map allows. The [[lore-aelendnppl|Áelendan]] call the place **Khálpilonpu**, a birch stand within the deep wood. Nobody has cut a tree of it, and nobody has needed to: the ring keeps itself unreachable.
 
 ## The Ring
 
 The trees are large and close-set, their bark the pale metal of the forest, and between them the ground is bare of undergrowth. Starlight lies on the bark after dark in a way ordinary light does not, and a visitor who has seen [The Felled Stand]{.name data-type="place/site"} (in the [[place-silvrfrsts|Silver Forests]]) knows what it is to see the same bark gone dull. Here it has stayed bright.
 
-The ring is a place where the [[lore-flksinale|Sinale Folk]] turn paths, and it is one of the places where they turn them hardest. A track that runs toward the hollow bends away from it a little at a time, so gently that a walker takes the bend for his own choice. A traveler who pushes against the turning finds the wood closing in front of him, distances stretching, and the daylight shifting in ways the sun does not account for. Nothing in the turning is a weapon. It is the wood declining to be walked, and it holds as long as the paths are left to turn.
+The ring is a place where the [[lore-flksinale|Sinale]] turn paths, and it is one of the places where they turn them hardest. A track that runs toward the hollow bends away from it a little at a time, so gently that a walker takes the bend for his own choice. A traveler who pushes against the turning finds the wood closing in front of him, distances stretching, and the daylight shifting in ways the sun does not account for. Nothing in the turning is a weapon. It is the wood declining to be walked, and it holds as long as the paths are left to turn.
 
 ## What Was Done Here
 
@@ -32,7 +32,7 @@ The Sinale have done nothing, because they do not fight. The paths around the ri
 
 ## The Walkers
 
-The Áelendan name them the **Pegged**: the _marendos_'s retainers and the guide he bribed, and anyone since drawn along the wire. A Pegged walker paces the circuit in step with the others, pale, silent and unhurried. He is not dead and not one of the dead of [[lore-theshadow|The Shadow]]. The [[affiliation-alndnwrdns|Áelendan Wardens]] call him a lingering spirit held by an ill-made working, and take the point seriously. He tires, and he eats and drinks if food is put to his mouth, but he does not stop of his own will.
+The Áelendan name them the **Pegged**: the _marendos_'s retainers and the guide he bribed, and anyone since drawn along the wire. A Pegged walker paces the circuit in step with the others, pale, silent and unhurried. He is not dead and not one of the dead of [[lore-theshadow|the Shadow]]. The [[affiliation-alndnwrdns|Wardens]] call him a lingering spirit held by an ill-made working, and take the point seriously. He tires, and he eats and drinks if food is put to his mouth, but he does not stop of his own will.
 
 A Pegged walker does not strike. He walks, and a body that stands in his way is carried along by the press of the circuit. A stranger who keeps step with the walkers for the space of a hundred paces finds that he cannot stop either.
 

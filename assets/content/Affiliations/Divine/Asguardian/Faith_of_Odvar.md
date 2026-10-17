@@ -61,7 +61,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-When a rune-hall casts the staves for the whole community, a Bletmadr stands at the back with the mead cup. A Bletmadr at a hall of the Faith of Odvar is not a caster and never claims to be. "I pour, I listen, I carry the cup round afterward," he says. "The runes do not tell the hall what to do. They show the shape of the current a choice will run in, and the hall decides what to do with the shape. Anyone who tells you more than that has not watched many casts."
+When a rune-hall casts the staves for the whole community, a Bletmadr stands at the back with the mead cup. A Bletmadr at a hall of Odvar is not a caster and never claims to be. "I pour, I listen, I carry the cup round afterward," he says. "The runes do not tell the hall what to do. They show the shape of the current a choice will run in, and the hall decides what to do with the shape. Anyone who tells you more than that has not watched many casts."
 
 The Faith of Odvar honors [[lore-odvardty|Odvar]] as the god of knowledge, wisdom and the pursuit of understanding. The faith's founding story is his sacrifice of an eye at the well of [[lore-minnir|Minnir]] in exchange for a drink of its wisdom-bestowing waters, and his wisdom reaches beyond the scholar's into the mystical and the arcane: the runes, the secrets of the cosmos and the mysteries of life and death. In the faith’s teaching, his reach extends further still. He is a god of poetry, war and honorable death, who guides souls to [[place-valsal|Valsal]] and inspires warriors with the courage to fight and the judgment to know when to use their power. The faith calls him a god of paradoxes, creator and destroyer, wise and warlike, loving and fearsome.
 

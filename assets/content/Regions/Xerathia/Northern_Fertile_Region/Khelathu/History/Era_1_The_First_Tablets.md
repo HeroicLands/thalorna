@@ -8,15 +8,15 @@ tags: [history, khelathu]
 data: {packFolder: regkhhist, culture: khelathiclt}
 ---
 
-The First Tablets are the oldest age [[lore-khelathclndr|The Khelathi Calendar]] names, and the [[lore-garauu|king-list]] says almost nothing about it. Eleven Gar-Auu fill a thousand years, and each stands in the list as a name, a length and the formula _his deeds are the god's_. Schoolrooms and storytellers know the same thousand years as the Age of Divine Kings and the First Age.
+The First Tablets are the oldest age [[lore-khelathclndr|the Khelathi count]] names, and the [[lore-garauu|king-list]] says almost nothing about it. Eleven Gar-Auu fill a thousand years, and each stands in the list as a name, a length and the formula _his deeds are the god's_. Schoolrooms and storytellers know the same thousand years as the Age of Divine Kings and the First Age.
 
 ## What Happened
 
-The age opens on 1 ST (2110 BF), when the first Gar-Au stands upon the mound of [[place-yathtelgu|Yath-Telgu]] and the valley that "was many" becomes one ([[lore-qettelgu|The Qet Telgu]]). [[lore-firstoccasion|The First Occasion]] tells that day as a story. The list tells it as a length: the first king of the First House is entered by his title alone, and by the 150 years he reigned.
+The age opens on 1 ST (2110 BF), when the first Gar-Au stands upon the mound of [[place-yathtelgu|Yath-Telgu]] and the valley that "was many" becomes one ([[lore-qettelgu|the Qet Telgu]]). [[lore-firstoccasion|The First Occasion]] tells that day as a story. The list tells it as a length: the first king of the First House is entered by his title alone, and by the 150 years he reigned.
 
-Four more reigns finish the First House by 620 ST, and the fifth gives the age its one act the temples date. Under [Zab'Uzner]{.name data-type="being/npc"}, whose reign runs from 531 ST, the priesthood of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] fixes the seven hundred signs of the sacred hand and the classical register of the language ([[lore-sacredhand|The Fixing of the Sacred Hand]]). Every temple inscription since is cut in what that reign fixed.
+Four more reigns finish the First House by 620 ST, and the fifth gives the age its one act the temples date. Under [Zab'Uzner]{.name data-type="being/npc"}, whose reign runs from 531 ST, the priesthood of [[affiliation-rethsaar|Reth'Sa'ar]] fixes the seven hundred signs of the sacred hand and the classical register of the language ([[lore-sacredhand|the Fixing of the Sacred Hand]]). Every temple inscription since is cut in what that reign fixed.
 
-The kings keep their court in the Great Land of [[place-zugernome|Zu-Ger]] and are crowned on the mound, and they are laid in the desert edge above Zu-Ger, among the marker stones farmers still plow round ([[place-firsttablets|The Ground of the First Tablets]]). The age's other works are the first canals and cisterns that carry the river past the black land, and the star maps that the earliest astronomers of the empire cut into the stones of [[place-beshakan|Beshakan]] and the records they carry up to [[place-chenosolis|Chenosolis]].
+The kings keep their court in the Great Land of [[place-zugernome|Zu-Ger]] and are crowned on the mound, and they are laid in the desert edge above Zu-Ger, among the marker stones farmers still plow round ([[place-firsttablets|the Ground of the First Tablets]]). The age's other works are the first canals and cisterns that carry the river past the black land, and the star maps that the earliest astronomers of the empire cut into the stones of [[place-beshakan|Beshakan]] and the records they carry up to [[place-chenosolis|Chenosolis]].
 
 The second house, [Azlet'Kutu]{.name data-type="affiliation/lineage"}, takes the throne in 621 ST. Its reigns shorten by tens of years as the age goes on, from a hundred to eighty, seventy, sixty and fifty, and the last of them runs twenty-six.
 
@@ -29,7 +29,7 @@ The lengths are round, and they sum end to end, with none of the shared year a r
 
 ## Its End
 
-Lin'Uzner's twenty-six years are the first reign of a length a man could live, and with them Azlet'Kutu closes in 1006 ST (1105 BF). The next house leaves the Great Land and carries the court to the mound at [[place-galezkara|Galezkara]] ([[lore-crossmound|The Crossing to the Mound]]), and the age of [[lore-akhsunroad|The Sun's Road]] begins.
+Lin'Uzner's twenty-six years are the first reign of a length a man could live, and with them Azlet'Kutu closes in 1006 ST (1105 BF). The next house leaves the Great Land and carries the court to the mound at [[place-galezkara|Galezkara]] ([[lore-crossmound|the Crossing to the Mound]]), and the age of [[lore-akhsunroad|the Sun's Road]] begins.
 
 ## See Also
 

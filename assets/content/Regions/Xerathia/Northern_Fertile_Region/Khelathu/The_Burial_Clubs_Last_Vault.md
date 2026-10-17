@@ -24,7 +24,7 @@ The vault is a long gallery driven into the hill, a niche to each wall-span, a d
 
 The club failed in the seasons the work dried up. The temples that bought the stone stopped buying, the dues stopped coming in, and a fever went through the village while the purse was empty. The club paid its lector by the season, and the lector, unpaid, had gone downriver for bread. The dead of the village were walled into the gallery wrapped and unspoken, a Name to each of them still in the club's roll and no word said over any of them. The living went away, and the hall roof fell in.
 
-That is the vault. The Khelathi poor have no dread greater than this one, and [[lore-khelathiclt|Khelathi]] says so: to die without proper rites is worse than a hard life, because a hard life ends.
+That is the vault. The Khelathi poor have no dread greater than this one, and [[lore-khelathiclt|the culture's own account]] says so: to die without proper rites is worse than a hard life, because a hard life ends.
 
 ## What Moves There Now
 
@@ -32,7 +32,7 @@ The gallery is worked at night. Quarrymen who have been dead for years haul cut 
 
 They are driven by a struck Lekhau, [Qeltzin]{.name data-type="being/npc"}, once of [[affiliation-garqeltnu|Gar-Qelt'nu]], the House of the Body. His working carries that House's marks for the made body, the [[affiliation-garithnetau|Gar-Ithnetáu]] sign for the waking, and the seal-mark of [[affiliation-garqarquzu|Gar-Qar'kuzu]] on the walled door, all cut in a hand that is good and getting worse. The House struck his name from its roll and could not strike the marks from his head.
 
-The dead are [[being-damut|damutu]] after a fashion, but they were bound without their Names, and the rite that binds a made servant relies on a Name to hold the thing together. Where the Name should be there is a gap, and [[lore-theshadow|The Shadow]] fills gaps. A dead quarryman a season into this work is less a man than he was, and a season after that he is not a man at all. The temples count a place where the unspoken dead lie as a blood-field of the thin kind, a _zelalgit_, the Devourer's place. Zel-Qedlu is becoming one.
+The dead are [[being-damut|damutu]] after a fashion, but they were bound without their Names, and the rite that binds a made servant relies on a Name to hold the thing together. Where the Name should be there is a gap, and [[lore-theshadow|the Shadow]] fills gaps. A dead quarryman a season into this work is less a man than he was, and a season after that he is not a man at all. The temples count a place where the unspoken dead lie as a blood-field of the thin kind, a _zelalgit_, the Devourer's place. Zel-Qedlu is becoming one.
 
 ## Who Knows of It and What They Say
 

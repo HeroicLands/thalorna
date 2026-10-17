@@ -7,7 +7,7 @@ description: "The fifth caste of Tantsou—artisans and craftsmen, the Wonong wh
 data: {packFolder: castes, culture: tantsouclt}
 ---
 
-The porcelain that reaches the [[place-midhalnrgn|Mídhalión Region]] by [[lore-celestialroad|The Celestial Road]], the lacquered scale on a garrison soldier's back and the hands that set a broken bone in a river town all belong to one caste. The Tsaihuo are the productive middle of the [[affiliation-tantsouempr|Empire of Tantsou]], the fifth caste: the artisans and craftsmen who make the empire's goods, tools, weapons and works of art, the common soldiers who carry its spears, and the Yaiwo, the healers, who stand within the caste and are deferred to by everyone above it.
+The porcelain that reaches [[place-midhalnrgn|Mídhalión]] by [[lore-celestialroad|the Celestial Roads]], the lacquered scale on a garrison soldier's back and the hands that set a broken bone in a river town all belong to one caste. The Tsaihuo are the productive middle of [[affiliation-tantsouempr|Tantsou]], the fifth caste: the artisans and craftsmen who make the empire's goods, tools, weapons and works of art, the common soldiers who carry its spears, and the Yaiwo, the healers, who stand within the caste and are deferred to by everyone above it.
 
 ## The Makers
 

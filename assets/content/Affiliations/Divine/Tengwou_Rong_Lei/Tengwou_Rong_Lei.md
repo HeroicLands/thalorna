@@ -90,7 +90,7 @@ sohl: {system: {commonSkills: []}}
 
 _The Celestial Court of Ten Thousand Spirits_
 
-**Téngwou Rong Lei** is the formal name of the Celestial Order, the religious and cosmological framework of the [[affiliation-tantsouempr|Empire of Tantsou]] and, in divergent regional forms, of the [[affiliation-jenchaiempr|Jenchai Empire]]. It is not a faith in the Western sense. There is no creed, no salvation, no personal relationship with a loving god. In its cosmology, the Celestial Order is an _administration_—a vast, impersonal bureaucracy of spiritual officials who govern the cosmos through procedure, precedent, and the relentless accounting of obligation.
+**Téngwou Rong Lei** is the formal name of the Celestial Order, the religious and cosmological framework of the [[affiliation-tantsouempr|Empire of Tantsou]] and, in divergent regional forms, of [[affiliation-jenchaiempr|Jenchai]]. It is not a faith in the Western sense. There is no creed, no salvation, no personal relationship with a loving god. In its cosmology, the Celestial Order is an _administration_—a vast, impersonal bureaucracy of spiritual officials who govern the cosmos through procedure, precedent, and the relentless accounting of obligation.
 
 For details on how the Celestial Order functions within Tantsou society—including the [[lore-mandatehvn|Mandate of Heaven]], [[lore-ancstrwrshp|Ancestor Worship]], and the [[lore-infrnlrlms|Infernal Realms]]—see [[lore-celestlrdr|Celestial Order]].
 
@@ -148,7 +148,7 @@ The bureaucracy processes three types of cosmic business: **petitions** (request
 
 A petition is a document, and three things stand between an ordinary Tantsou and a filed one.
 
-The first is the **script**. Petitions are written in [[skill-tengchouscript|Teng Chou Script]], the Celestial
+The first is the **script**. Petitions are written in [[skill-tengchouscript|Teng Chou]], the Celestial
 Record—logographic, three to four thousand characters for educated reading, more to compose
 formally, ten to fifteen years for a full education in it. A villager who wishes to petition for
 rain cannot write the request, and that is before any question of protocol arises.
@@ -198,7 +198,7 @@ occurs to anyone that the god declined.
 ## **1. Dreams—Mei Sei—The Bureau of Night Counsel**
 
 - **Overseer**: **Meiwo**, the Minister of Dreams.
-- **Role**: Processes dream-petitions, delivers omens, and files night-counsel reports. Mei Sei is the Téngwou Rong Lei expression of [[lore-goddreams|The God of Dreams]]—the same entity known as **Bjart** (Asguardian), Zunelas (Aureldian), Nal'ik Ts'uqal (Itsani), and Nehle'at (Khelathi). In the Tantsou framework, this pan-cultural deity is understood as a being who holds the Dream portfolio across multiple celestial administrations—a bureaucratic anomaly that the Tanchéi find deeply troubling.
+- **Role**: Processes dream-petitions, delivers omens, and files night-counsel reports. Mei Sei is the Téngwou Rong Lei expression of [[lore-goddreams|the God of Dreams]]—the same entity known as **Bjart** (Asguardian), Zunelas (Aureldian), Nal'ik Ts'uqal (Itsani), and Nehle'at (Khelathi). In the Tantsou framework, this pan-cultural deity is understood as a being who holds the Dream portfolio across multiple celestial administrations—a bureaucratic anomaly that the Tanchéi find deeply troubling.
 - **Lesser Spirits**:
   - **Lengwo**—Clerks of Auspicious Dreams, who deliver favorable omens.
   - **Hayo**—Clerks of Warning Dreams, who deliver cautionary visions. (Not malevolent—nightmares are simply urgent memos.)

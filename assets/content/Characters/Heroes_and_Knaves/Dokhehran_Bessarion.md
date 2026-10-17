@@ -418,7 +418,7 @@ sohl:
 
 ![[dkhhrnbsrn|Dókhehran Fefes]]{float=top-left}
 
-Dókhehran Fefes stands 5'5" tall with a light build. She has warm olive skin, black hair, and brown eyes. Her features include a diamond-shaped face, an aquiline nose, a pronounced chin, strong brows, and sculpted cheeks.
+Dókhehran stands 5'5" tall with a light build. She has warm olive skin, black hair, and brown eyes. Her features include a diamond-shaped face, an aquiline nose, a pronounced chin, strong brows, and sculpted cheeks.
 
 # Dossier {#dossier}
 
@@ -505,7 +505,7 @@ _Marendos_ (master) [[being-raghumonkreg|Raghumon Kregokhash]]
 ## Plot Hooks
 
 The Sealed Vault Discovery
-: While cataloging texts in a previously unexplored section of the sealed vaults beneath the [Lizelas Temple]{.name data-type="place/structure"} in Bizaris, Dókhehran unearths a fragmentary text that appears to describe a mechanism for undoing the deliberate magical workings that fragmented the ancient Helionite kingdoms—a ritual that might allow communication with or even recovery of knowledge from the scattered predecessor civilization. However, the final pages are missing, and she has reason to believe they were deliberately removed by another scholar generations ago. The party must help her track down [Oravex Solemnios]{.name data-type="being/npc"}, an elderly scholar now living in voluntary exile in the [[place-khzryndsrtrgn|Khazryn Desert Region]], who may possess the missing pages and the dangerous knowledge of why they were hidden from the Epistémion's leadership.
+: While cataloging texts in a previously unexplored section of the sealed vaults beneath the [Lizelas Temple]{.name data-type="place/structure"} in Bizaris, Dókhehran unearths a fragmentary text that appears to describe a mechanism for undoing the deliberate magical workings that fragmented the ancient Helionite kingdoms—a ritual that might allow communication with or even recovery of knowledge from the scattered predecessor civilization. However, the final pages are missing, and she has reason to believe they were deliberately removed by another scholar generations ago. The party must help her track down [Oravex Solemnios]{.name data-type="being/npc"}, an elderly scholar now living in voluntary exile in the [[place-khzryndsrtrgn|Khazryn Desert]], who may possess the missing pages and the dangerous knowledge of why they were hidden from the Epistémion's leadership.
 
 Patron's Hidden Purpose
 : **Lord Bufomazul Charzilzát** reveals to the party (but not initially to Dókhehran) that his support for her work is not purely academic—he is a representative of an exiled faction seeking to use recovered ancient magical knowledge to restructure power within the Bizarian League and potentially beyond. He demands that Dókhehran create a specific ritual from her research—one that could disrupt the carefully maintained balance between the five merchant cities and destabilize the entire League's structure. The party can warn Dókhehran and help her escape Bufomazul's influence, negotiate with Bufomazul to understand his true objectives, or undertake the dangerous task of investigating whether Bufomazul's ambitions might actually be justified by the truth of what happened to the ancient kingdoms.

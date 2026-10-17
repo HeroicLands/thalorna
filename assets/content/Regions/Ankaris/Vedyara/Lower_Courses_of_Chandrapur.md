@@ -8,7 +8,7 @@ tags: [city, river]
 data: {demonym: null, lore: [], parents: [chandrapur2], population: null, packFolder: vedyara}
 ---
 
-In the dry months the river drops along the quarter-mile stair of [[place-chandrapur2|Chendrapur]], and the lowest steps show a different stone. **The Lower Courses of Chendrapur** are heavier and plainer than anything built above them, laid without mortar in blocks two men could not lift, and they belong to a city the present one was built on top of. No record in Chendrapur says whose.
+In the dry months the river drops along the quarter-mile stair of [[place-chandrapur2|Chendrapur]], and the lowest steps show a different stone. **The lower courses** are heavier and plainer than anything built above them, laid without mortar in blocks two men could not lift, and they belong to a city the present one was built on top of. No record in Chendrapur says whose.
 
 ## Where They Show
 
@@ -18,7 +18,7 @@ In the dry months the river drops along the quarter-mile stair of [[place-chandr
 
 ## What Is Said of Them
 
-The temples hold that the older city was the god's before it was the crown's, which is why the temples are older than the crown. Masons from the country around [[place-bowfort|The Bow-Fort]] who have seen the stair say the work reminds them of the Bow-Fort's foundation courses, and the Chandrapuri cutters say it reminds them of nothing. Nobody has set the two side by side, and no record connects them.
+The temples hold that the older city was the god's before it was the crown's, which is why the temples are older than the crown. Masons from the country around [[place-bowfort|the Bow-Fort]] who have seen the stair say the work reminds them of the Bow-Fort's foundation courses, and the Chandrapuri cutters say it reminds them of nothing. Nobody has set the two side by side, and no record connects them.
 
 Nothing in the lower courses has harmed anyone. The cutters who work above them treat them as a floor.
 
@@ -29,6 +29,6 @@ Nothing in the lower courses has harmed anyone. The cutters who work above them 
 
 ## See Also
 
-- [[place-chandrapur2|Chendrapur]] · [[place-moonhouse|The Moon House]]
+- [[place-chandrapur2|Chendrapur]] · [[place-moonhouse|the Moon House]]
 - [[lore-unnumbrdage|The Unnumbered Age]]—the age of stones nobody laid within memory
 - [[place-bowfort|The Bow-Fort]]—another work of unmortared courses

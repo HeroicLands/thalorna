@@ -48,13 +48,13 @@ data:
       unresolved: ["the fate of the party, and the cache said to lie in a high cleft"]
 ---
 
-In Histories and Legends of Norgaad, the [[affiliation-kingdmnrgd|Kingdom of Norgaad]]'s Lawspeaker can call the [Great Moot]{.name data-type="lore/gathering"} at [[place-asgarthul|Asgarthul]] when a kingdom seeks a meeting between the septennial assemblies on [[place-nordheim|Nordheim]]'s island. Its mines and high passes have also taken travelers whose names survive on memorial stones; explanations for what lives there belong to the tellers.
+[[affiliation-kingdmnrgd|Norgaad]]'s Lawspeaker can call the [Great Moot]{.name data-type="lore/gathering"} at [[place-asgarthul|Asgarthul]] when a kingdom seeks a meeting between the septennial assemblies on [[place-nordheim|Nordheim]]'s island. Its mines and high passes have also taken travelers whose names survive on memorial stones; explanations for what lives there belong to the tellers.
 
 ## The Kingdom's Past
 
-The [Tvurnidrok]{.name data-type="affiliation/lineage"} have held Norgaad's crown at Asgarthul since the acclamations, and Norgaad has sat on [[place-domsey|Domsey]] with five jarls' seats to the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]'s seven since the first sitting in 287, a count the kingdom has argued at every sitting since. Its great king is [Snirvthann]{.name data-type="being/npc"}, about 462 to 490, who called Nordheim and the [[affiliation-kingdomlgn|Kingdom of Malagna]] to his hall after the ice at [[place-skalfvatn|Skalfvatn]] and made the Peace of Asgarthul in 471. The kings granted Norgaad's Lawspeaker the right to call the Great Moot whenever two kingdoms are at war, and in the same breath refused Snirvthann the two more seats he asked for; [[lore-nordkinwars|The Kin-Wars]] tells both.
+The [Tvurnidrok]{.name data-type="affiliation/lineage"} have held Norgaad's crown at Asgarthul since the acclamations, and Norgaad has sat on [[place-domsey|Domsey]] with five jarls' seats to [[affiliation-kngdmnrdhm|Nordheim]]'s seven since the first sitting in 287, a count the kingdom has argued at every sitting since. Its great king is [Snirvthann]{.name data-type="being/npc"}, about 462 to 490, who called Nordheim and [[affiliation-kingdomlgn|Malagna]] to his hall after the ice at [[place-skalfvatn|Skalfvatn]] and made the Peace of Asgarthul in 471. The kings granted Norgaad's Lawspeaker the right to call the Great Moot whenever two kingdoms are at war, and in the same breath refused Snirvthann the two more seats he asked for; [[lore-nordkinwars|the Kin-Wars]] tells both.
 
-Norgaad's hulls sailed with [[lore-southrnfleets|The Southern Fleets]], and again with Nordheim's fleet to [[place-stormveld|Stormveld]] in 660, the year [[place-vrathavn|Vrathavn]]'s smith made the guard told below. In 688 [Ilthorv]{.name data-type="being/npc"}, the elder brother of the present king [Ilthmil]{.name data-type="being/npc"}, went up the Saddle and did not come back. The ting had acclaimed the younger brother over the elder four years before, and Ilthorv's line says the mountain settled nothing the ting had not already got wrong.
+Norgaad's hulls sailed with [[lore-southrnfleets|the Southern Fleets]], and again with Nordheim's fleet to [[place-stormveld|Stormveld]] in 660, the year [[place-vrathavn|Vrathavn]]'s smith made the guard told below. In 688 [Ilthorv]{.name data-type="being/npc"}, the elder brother of the present king [Ilthmil]{.name data-type="being/npc"}, went up the Saddle and did not come back. The ting had acclaimed the younger brother over the elder four years before, and Ilthorv's line says the mountain settled nothing the ting had not already got wrong.
 
 ## The King's Brother on the Saddle
 
@@ -66,7 +66,7 @@ line had the better right to Norgaad's crown.
 
 ## The Iron-Man of Vrathavn
 
-During the Stormveld year of 660, sixty years ago, told in [[lore-stormveldtkn|The Taking of Stormveld]], a smith of Vrathavn made a guard from iron plates and
+During the Stormveld year of 660, sixty years ago, told in [[lore-stormveldtkn|the Taking of Stormveld]], a smith of Vrathavn made a guard from iron plates and
 human bones while much of the fleet was away. A rune-worker cut a working into its chest. The guard
 stood through winter, then killed its maker and walked into the fjord. The tale's surviving fact is a
 debt no ting has priced: the maker's kin claim payment from the rune-worker's line, while the accused
@@ -84,7 +84,7 @@ without proving it.
 ## Hvarnvík's Two Sea Tales
 
 Fishers tell of an island that rises without birds, takes a boat down with it and leaves torn nets
-when it dives. Some call it a _hafthur_ and connect it to [[affiliation-njorvencult|Njorven's Cult]].
+when it dives. Some call it a _hafthur_ and connect it to [[affiliation-njorvencult|Njorven's cult]].
 At [[lore-sumarmal|Somarmál]], another [[place-hvarnvik|Hvarnvík]] telling has one thumb tucked under when the Ten of the [[affiliation-asguardian|Asguardian Pantheon]] are counted. It recalls
 an older sea power whom the coast did not wholly forget. Neither tale adds an eleventh Asguardian to
 the Ten. The cult's claim that its old patron will rise is a threat and a belief, not a settled event.
@@ -99,7 +99,7 @@ living claimant's testimony.
 
 ## Holafell's Wound
 
-[[affiliation-thursborn|The Giant's Children]] at [[place-holafell|Holafell]] tell [[lore-threewinters|The Three Winters]] differently from the halls below. In their
+[[affiliation-thursborn|The Giant's Children]] at [[place-holafell|Holafell]] tell [[lore-threewinters|the Three Winters]] differently from the halls below. In their
 account, a predecessor failed to keep open the world's wound and winter did not end until the next
 elder did so. It is their explanation of the famine, not an attested cause of it. Others remember
 failed harvests, deaths and disputed acts at the kin-fell without accepting the Children's claim.

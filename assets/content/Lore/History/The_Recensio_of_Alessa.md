@@ -49,7 +49,7 @@ data:
         - why the masters who kept the Kandral's holdings are not on the roll of the dead
 ---
 
-The Therona of Alessa was an audit. Every registered practitioner in the [Vylarian Republic]{.name data-type="affiliation/polity"} was ordered to bring their
+The Therona was an audit. Every registered practitioner in the [Vylarian Republic]{.name data-type="affiliation/polity"} was ordered to bring their
 working-books to one place in the Alessan country, a day's ride from what is now [[place-velysara|Velisara]], to be
 copied into a single register the [[affiliation-seldan|Seldan]], the Senate, could hold—and for a season it put the whole of the
 Republic's arcane knowledge, and very nearly the whole of its arcane manpower, inside one set of

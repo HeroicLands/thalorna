@@ -250,7 +250,7 @@ The ledge is fifty feet above the path, pale gray rock mottled with lichen, and 
 
 # Dossier {#dossier}
 
-The Cliff Stalker is the great cat of the high ledges of [[place-graznmntns|The Grazian Mountains]]: three feet at the shoulder, seven feet from nose to tail-tip with the tail making up nearly half of that, a hundred and thirty pounds of a hunter built for rock. Its coat is pale gray spotted with dark rosettes, and on the stone it lives on it cannot be seen until it moves. It kills the wild goats and rams of the high country by dropping on them from above, and it has learned that a pack train on a mountain road is slower than a goat and carries food.
+The Cliff Stalker is the great cat of the high ledges of [[place-graznmntns|the Grazian Mountains]]: three feet at the shoulder, seven feet from nose to tail-tip with the tail making up nearly half of that, a hundred and thirty pounds of a hunter built for rock. Its coat is pale gray spotted with dark rosettes, and on the stone it lives on it cannot be seen until it moves. It kills the wild goats and rams of the high country by dropping on them from above, and it has learned that a pack train on a mountain road is slower than a goat and carries food.
 
 It is one of the four creatures the guides of the passes name when a lowlander asks what the mountains hold, with the [[being-crglrkr|Crag Lurker]], the [[being-stoneram|Stone Ram]] and the [[being-roc|Roc]]. Of the four it is the one most likely to take a sleeping man out of a camp.
 
@@ -260,7 +260,7 @@ A compact, deep-chested cat with the frame of a lion built smaller and lower, he
 
 ## In the Land
 
-Cliff Stalkers hold the ledges and gullies of the Grazian north face, above the [[place-dkrqrrgn|Diqraqor]] and along the approaches to the high passes, and the [[place-grazruins|Ruins and Labyrinths of the Grazian Mountains]] under the glaciers, where the cut passages open onto cliff. Each cat holds ten to thirty square miles of broken rock and marks its edges with scent; two never share a range outside the mating season. They follow the goats, and the goats follow the thin grass, so a cat's range runs from the scree below the snowline down to the ravine mouths where the plateau tribes water their flocks. They dislike deep cold and lie up in high caves through the worst of the winter, which is the one season a guide crosses the north face without watching the ledges.
+Cliff Stalkers hold the ledges and gullies of the Grazian north face, above the [[place-dkrqrrgn|Diqraqor]] and along the approaches to the high passes, and the [[place-grazruins|ruins and labyrinths]] under the glaciers, where the cut passages open onto cliff. Each cat holds ten to thirty square miles of broken rock and marks its edges with scent; two never share a range outside the mating season. They follow the goats, and the goats follow the thin grass, so a cat's range runs from the scree below the snowline down to the ravine mouths where the plateau tribes water their flocks. They dislike deep cold and lie up in high caves through the worst of the winter, which is the one season a guide crosses the north face without watching the ledges.
 
 ## Key Behaviors
 
@@ -268,7 +268,7 @@ A Cliff Stalker hunts alone, by stalking and then by ambush. It finds its prey f
 
 ## What the Guides Do
 
-The guides who lead caravans over the passes keep a man walking above the string on any stretch where a ledge overhangs the path, and they camp in the open, away from the foot of a cliff, with the animals inside the ring of fires. A string that has lost a mule to a Stalker moves the next day's camp a long way off, because the cat will be back. The plateau tribes below set a boy with a sling on a rock above the flock and lose a goat a season anyway. A pelt brings a good price at the pass shrines and in [[place-kethramir|Kethramír]], silver-gray and spotted and the size of a man, and the hunters who take them do it with dogs to find the lie and a crossbow from below.
+The guides who lead caravans over the passes keep a man walking above the string on any stretch where a ledge overhangs the path, and they camp in the open, away from the foot of a cliff, with the animals inside the ring of fires. A string that has lost a mule to a Stalker moves the next day's camp a long way off, because the cat will be back. The plateau tribes below set a boy with a sling on a rock above the flock and lose a goat a season anyway. A pelt brings a good price at the pass shrines and in [[place-kethramir|Kethramir]], silver-gray and spotted and the size of a man, and the hunters who take them do it with dogs to find the lie and a crossbow from below.
 
 ## Signs
 

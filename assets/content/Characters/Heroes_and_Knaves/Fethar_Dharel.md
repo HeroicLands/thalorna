@@ -411,7 +411,7 @@ Fetar Darel is a man who looks like he wandered off a [[lore-provenzianclt|Prove
 
 ### Origin
 
-Fetar grew up in a landlocked river town in the northern [[place-provenzrgn|Provenzia Region]], the son of a dyer. From childhood he had an inexplicable fascination with water and boats, spending every spare hour messing about on the river in whatever craft he could borrow or build. He was an excellent fisherman, supplementing his family's income, but there was always something restless in him—a pull toward horizons he could not see from the riverbank.
+Fetar grew up in a landlocked river town in northern [[place-provenzrgn|Provenzia]], the son of a dyer. From childhood he had an inexplicable fascination with water and boats, spending every spare hour messing about on the river in whatever craft he could borrow or build. He was an excellent fisherman, supplementing his family's income, but there was always something restless in him—a pull toward horizons he could not see from the riverbank.
 
 ### Finding the Sea
 
@@ -419,7 +419,7 @@ At seventeen, Fetar left home with his family's reluctant blessing, traveling so
 
 ### Aboard the Tamzir
 
-Fetar joined [[affiliation-thetamzir|The Tamzir]] seven years ago, hired as a replacement pilot after the previous one was arrested for smuggling (independently of the Tamzir's own smuggling). [[being-zbzmjkdn|Zabuzum Jakuduni]], known as Bu, was skeptical of the cheerful Provenzian with the ridiculous clothing, but Fetar's first demonstration of his skills—threading the Tamzir through a reef passage at night during a storm to escape an imperial patrol—ended all debate. He is, by any measure, a crackerjack pilot. If anyone can navigate the Tamzir through impossible waters, it is Fetar.
+Fetar joined [[affiliation-thetamzir|the Tamzir]] seven years ago, hired as a replacement pilot after the previous one was arrested for smuggling (independently of the Tamzir's own smuggling). [[being-zbzmjkdn|Zabuzum Jakuduni]], known as Bu, was skeptical of the cheerful Provenzian with the ridiculous clothing, but Fetar's first demonstration of his skills—threading the Tamzir through a reef passage at night during a storm to escape an imperial patrol—ended all debate. He is, by any measure, a crackerjack pilot. If anyone can navigate the Tamzir through impossible waters, it is Fetar.
 
 ### Marriage
 
@@ -466,4 +466,4 @@ River and Sea
 : Fetar receives word that his hometown is threatened by flooding after a dam collapse upriver. His family needs help, and his intimate knowledge of the river system could save lives—but reaching them means leaving the Tamzir at a critical moment.
 
 The Uncharted Passage
-: An ancient chart surfaces suggesting a hidden sea passage through a treacherous archipelago that could cut weeks off the journey between the [[place-taruzelrgn|Taruzel Region]] and the northern ports. Only a pilot of extraordinary skill could navigate it. The potential profit is enormous, but the chart may be incomplete—or a trap.
+: An ancient chart surfaces suggesting a hidden sea passage through a treacherous archipelago that could cut weeks off the journey between [[place-taruzelrgn|Taruzel]] and the northern ports. Only a pilot of extraordinary skill could navigate it. The potential profit is enormous, but the chart may be incomplete—or a trap.

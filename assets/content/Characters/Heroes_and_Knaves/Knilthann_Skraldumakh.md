@@ -415,7 +415,7 @@ sohl:
 
 ![[knlthnskrldmkh|Knilthann Skraldumak]]{float=top-left}
 
-Knilthann Skraldumak stands 5'10" tall with a medium build. He has light fair skin, dark blonde hair, and blue eyes. His features include a rectangular face, a prominent nose, a heavy jawline, a small mouth, and heavy brows. He has a scar on his right hand.
+Knilthann stands 5'10" tall with a medium build. He has light fair skin, dark blonde hair, and blue eyes. His features include a rectangular face, a prominent nose, a heavy jawline, a small mouth, and heavy brows. He has a scar on his right hand.
 
 # Dossier {#dossier}
 
@@ -425,7 +425,7 @@ Knilthann was born into the [Skraldumak clan]{.name data-type="affiliation/linea
 
 **The Skald's Mastery**
 
-As a young man, Knilthann earned his scar defending the honor of [[affiliation-skaldscrcl|The Skalds' Circle]] against a rival skald who sought to corrupt the ancient stories with borrowed foreign tales. That duel of hands—before the duel of voices could commence—left him marked but victorious, and his reputation thereafter was unassailable. He rose through the ranks of the Nordland Skalds' Guild with steady determination, eventually becoming the Guild's Master of Lore and keeper of the most sacred sagas. For the past twenty years, his performances have been commissioned by the greatest noble houses of Targud, his voice commanding fees that secure his comfort in the winter of his life.
+As a young man, Knilthann earned his scar defending the honor of [[affiliation-skaldscrcl|the Skalds' Guild]] against a rival skald who sought to corrupt the ancient stories with borrowed foreign tales. That duel of hands—before the duel of voices could commence—left him marked but victorious, and his reputation thereafter was unassailable. He rose through the ranks of the Nordland Skalds' Guild with steady determination, eventually becoming the Guild's Master of Lore and keeper of the most sacred sagas. For the past twenty years, his performances have been commissioned by the greatest noble houses of Targud, his voice commanding fees that secure his comfort in the winter of his life.
 
 **The Current Twilight**
 
@@ -478,7 +478,7 @@ Vulnerability to Irrelevance
 [House of Bergvorn]{.name data-type="affiliation/lineage"}
 : A noble family of great conservatism and wealth who commission Knilthann annually for their great winter festival, honoring the deeds of their ancestors as recounted through his voice.
 
-The King of the [[affiliation-kingdmtrgd|Kingdom of Targud]]
+The King of [[affiliation-kingdmtrgd|Targud]]
 : The kingdom's ruler has relied upon Knilthann to authenticate historical claims and validate dynastic narratives, making him an informal advisor on matters of cultural importance.
 
 Jarl [[being-vrithorvtheu|Vrithorv the Unyielding]]

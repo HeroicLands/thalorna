@@ -246,7 +246,7 @@ The lady's horse waits at the inn door, a gray palfrey with a long neck and a fi
 
 # Dossier {#dossier}
 
-The Palfrey is the riding horse of comfort and distance, fourteen to fifteen hands high and eight hundred to a thousand pounds, bred by the nobility for a smooth, steady gait. Ladies, couriers and wealthy merchants ride it for steady progress and not for speed or war. It is kept in the stables of the noble houses of [[place-aureldirgn|Aureldia Region]], on the post-roads of the [[affiliation-byzarianlg|Bizarian League]] and at the inns along the trade routes, where one can be hired by the stage.
+The Palfrey is the riding horse of comfort and distance, fourteen to fifteen hands high and eight hundred to a thousand pounds, bred by the nobility for a smooth, steady gait. Ladies, couriers and wealthy merchants ride it for steady progress and not for speed or war. It is kept in the stables of the noble houses of [[place-aureldirgn|Aureldia]], on the post-roads of the [[affiliation-byzarianlg|Bizarian League]] and at the inns along the trade routes, where one can be hired by the stage.
 
 ## Presentation
 

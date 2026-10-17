@@ -16,7 +16,7 @@ data:
   packFolder: vedyara
 ---
 
-There are six crossings of the wall. Five are blessed, tolled, recorded and argued over. The sixth is **The Guides' Road**, which lies somewhere between [[place-meghadvara|Meghadvara]] and [[place-suryadvara|Suryadvara]], and about which those four verbs are all false.
+There are six crossings of the wall. Five are blessed, tolled, recorded and argued over. The sixth is **the Guides' Road**, which lies somewhere between [[place-meghadvara|Meghadvara]] and [[place-suryadvara|Suryadvara]], and about which those four verbs are all false.
 
 No fortress stands on it. No toll is taken. No [[place-pssshrines|Pass-Shrine]] blesses it, and none ever has. It is on no register at [[place-suryagarha|Suryagarha]], and no customs-house has ever weighed a bale that went over it. The [[affiliation-vindhyalay|Shikharalayan]] crown's formal position is that the road does not exist. The crown has held that position without amendment through three reigns, and its own wardens have known perfectly well that the road is there.
 
@@ -35,4 +35,4 @@ The [[place-shunydvara|Shunyadvara]] stands on the col, and every Osket crossing
 ## See Also
 
 - [[place-meghadvara|Meghadvara]] · [[place-suryadvara|Suryadvara]] · [[place-shunydvara|Shunyadvara]]
-- [[affiliation-osketguides|The Osket]] · [[place-sthrnwall|The Southern Wall]]
+- [[affiliation-osketguides|The Osket]] · [[place-sthrnwall|the Southern Wall]]

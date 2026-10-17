@@ -410,7 +410,7 @@ sohl:
 
 ![[tvnrthr|Tavonei Reithuri]]{float=top-left}
 
-Tavonei Reithuri stands 6'2" tall with a heavy build. He has dark skin, black hair, and dark brown eyes. His features include an angular face, a sharp jawline, full lips, dark brows, and angular cheeks. He has a scar across the bridge of his nose.
+Tavonei stands 6'2" tall with a heavy build. He has dark skin, black hair, and dark brown eyes. His features include an angular face, a sharp jawline, full lips, dark brows, and angular cheeks. He has a scar across the bridge of his nose.
 
 # Dossier {#dossier}
 
@@ -418,7 +418,7 @@ Tavonei Reithuri stands 6'2" tall with a heavy build. He has dark skin, black ha
 
 ### Early Years and Training
 
-Tavonei was born the seventh son of a cloth merchant of modest means in [[place-vashuran|Vashurán]], the port on the eastern coast of the [[place-kaliharargn|Kalihara Region]] where the island's spice comes down to foreign hulls, and where a cargo is only as safe as the men walking beside it. His father saw early that the youngest would inherit nothing, and at twelve Tavonei was apprenticed to **[Tuamanei Navoreli]{.name data-type="being/npc"}**, the hardest pack-train guard on the coast. Tuamanei taught him sword and shield, and the rest of the trade with them: how to read weather off the sea and the stars, how to tell when a ridge path has been walked by strangers, how to keep mules, porters and stores in order over a week on the coast road, and how to make a decision on which twenty lives depend.
+Tavonei was born the seventh son of a cloth merchant of modest means in [[place-vashuran|Vashurán]], the port on the eastern coast of [[place-kaliharargn|Kalihara]] where the island's spice comes down to foreign hulls, and where a cargo is only as safe as the men walking beside it. His father saw early that the youngest would inherit nothing, and at twelve Tavonei was apprenticed to **[Tuamanei Navoreli]{.name data-type="being/npc"}**, the hardest pack-train guard on the coast. Tuamanei taught him sword and shield, and the rest of the trade with them: how to read weather off the sea and the stars, how to tell when a ridge path has been walked by strangers, how to keep mules, porters and stores in order over a week on the coast road, and how to make a decision on which twenty lives depend.
 
 ### Service and Ascendance
 
@@ -490,7 +490,7 @@ The Lady of [House Duravin]{.name data-type="affiliation/lineage"}
 ### Enemies
 
 [The Veiled Riders]{.name data-type="affiliation/criminal"}
-: a smuggling ring that tries to run goods off the coast road and up the ridge tracks toward the closed interior, past [[affiliation-wardensapproaches|The Wardens of the Approaches]], for buyers inland who want foreign things the island does not admit. They have never taken a train of Tavonei's, and every failure has made them hate him more. They have put a price on his head and are waiting for their chance.
+: a smuggling ring that tries to run goods off the coast road and up the ridge tracks toward the closed interior, past [[affiliation-wardensapproaches|the Wardens]], for buyers inland who want foreign things the island does not admit. They have never taken a train of Tavonei's, and every failure has made them hate him more. They have put a price on his head and are waiting for their chance.
 
 [Revi the Scarlet]{.name data-type="being/npc"}
 : a younger, more charming guard captain who has been undercutting Tavonei's fees and taking contracts from merchants who want speed. The rivalry has turned personal, and each man sees the other as the end of his living.
@@ -512,7 +512,7 @@ The Apprentice's Betrayal
 : Tavonei takes on a young orphan, **[Vaoleni]{.name data-type="being/npc"}**, as an apprentice guard, seeing in him the raw talent he once had, and over a season on the road he grows almost fatherly toward the boy. Then Vaoleni is revealed as a Veiled Riders spy, sent to learn Tavonei's routes and habits. Tavonei must hunt him down while asking himself whether his own need to control everything made the opening his enemy used.
 
 The Seer's Warning
-: A wandering seer, **Seer [[being-maithorinael|Maithori Naelithuri]]**, reads Tavonei's fortune and tells him his last journey is near and that it will break everything he believes about himself and his craft. He calls her a fraud and cannot forget her. When his next contract takes him somewhere his foresight fails, he begins to wonder whether fate, and not chance, is walking beside him.
+: A wandering seer, **Seer [[being-maithorinael|Maithori]]**, reads Tavonei's fortune and tells him his last journey is near and that it will break everything he believes about himself and his craft. He calls her a fraud and cannot forget her. When his next contract takes him somewhere his foresight fails, he begins to wonder whether fate, and not chance, is walking beside him.
 
 The Road Inland
 : A merchant consortium offers Tavonei a fortune to find a way across the island's interior, a crossing no port cargo has ever been allowed to make, through country the custodians have never opened. It would make his name for ever, or end his record and perhaps his life; and the Wardens would treat it as the Veiled Riders' crime with better paperwork. The offer forces him to decide whether he wants excellence or proof that he still matters.

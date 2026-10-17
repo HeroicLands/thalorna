@@ -15,7 +15,7 @@ data:
 ---
 
 **Sunnerslade** is the strip of south- and west-facing slope where the
-foothills of [[place-ironfells|The Ironfells]] come down into [[place-aldorvale|The Aldorvale]], and it is the
+[[place-ironfells|Ironfells foothills]] come down into [[place-aldorvale|the Aldorvale]], and it is the
 warmest, driest and most improbable ground on [[place-aelwyth|Aelwyth]].
 
 ## Why the Wine Exists
@@ -48,4 +48,4 @@ and are resented for it.
 
 ## See Also
 
-- [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-ironfells|The Ironfells]]
+- [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-ironfells|the Ironfells]]

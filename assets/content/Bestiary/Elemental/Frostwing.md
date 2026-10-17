@@ -250,7 +250,7 @@ A frostwing is shaped like a huge, sleek eagle, built for speed, with a long wed
 
 ## In the Land
 
-Malagna occupies the northern [[place-nrdlndsrgn|Nordlands Region]], and its own coast faces the northern ocean; everything that leaves Malagna leaves by water. Frostwings arrive on that coast with the first hard frosts, coming in off the northern sea, and stay through the winter, ranging along the coast and up the fjords and over the hill farms. They hunt seals on the ice, seabirds, reindeer in the hills, sheep, and the men of the coast. When the spring comes they go north again, toward colder places, and nobody knows where. They roost on headlands and sea-stacks, and in a bad winter on the roof-trees of empty halls.
+Malagna occupies the northern [[place-nrdlndsrgn|Nordlands]], and its own coast faces the northern ocean; everything that leaves Malagna leaves by water. Frostwings arrive on that coast with the first hard frosts, coming in off the northern sea, and stay through the winter, ranging along the coast and up the fjords and over the hill farms. They hunt seals on the ice, seabirds, reindeer in the hills, sheep, and the men of the coast. When the spring comes they go north again, toward colder places, and nobody knows where. They roost on headlands and sea-stacks, and in a bad winter on the roof-trees of empty halls.
 
 ## Key Behaviors
 

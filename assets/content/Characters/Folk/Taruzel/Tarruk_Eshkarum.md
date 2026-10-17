@@ -36,4 +36,4 @@ Tarruk Eshkarum is a 30-year-old man who stands 5'11" tall with a light build. H
 
 # Dossier {#dossier}
 
-Tarruk Eshkarum is a magistrate and a rising figure in the oligarchic hierarchy of [[affiliation-bazunel|Bazunel]]. He views the neutrality of [[being-ytlshpshtm|Yutalush Pushutum]] as insufficiently committed to their rule. He has been slowly pressuring the temple authorities to exert more control over Yutalush's clinic.
+Tarruk Eshkarum is a magistrate and a rising figure in the oligarchic hierarchy of [[affiliation-bazunel|Bazunel]]. He views the neutrality of [[being-ytlshpshtm|Yutalush Pushutum]] as insufficiently committed to their rule. He has been slowly pressuring the temple authorities to exert more control over Yutalush Pushutum's clinic.

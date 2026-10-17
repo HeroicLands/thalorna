@@ -15,7 +15,7 @@ data:
 
 ## Overview
 
-Central K'ich'chik is where the pyramids are. It is the heartland of K'ich'chik civilization, home to some 28,000,000 people, and the place where the priesthood of the [[affiliation-itzanpnthn|Itsani Pantheon]] holds its greatest influence. Four realms divide it, and each is known for one thing an outsider remembers: [[affiliation-ixilankul|Ish'ilankul]] for its plateau of temples and its high priest, [[affiliation-kankul|K'ankul]] for its astronomers and scribes, [[affiliation-neokbaate|Ne'ok Ba'ate]] for the isthmus that is the bridge to the south, and [[affiliation-xelem|Shelem]] for the feathers and furs of its rainforests.
+Central K'ich'chik is where the pyramids are. It is the heartland of K'ich'chik civilization, home to some 28,000,000 people, and the place where the [[affiliation-itzanpnthn|Itsani priesthood]] holds its greatest influence. Four realms divide it, and each is known for one thing an outsider remembers: [[affiliation-ixilankul|Ish'ilankul]] for its plateau of temples and its high priest, [[affiliation-kankul|K'ankul]] for its astronomers and scribes, [[affiliation-neokbaate|Ne'ok Ba'ate]] for the isthmus that is the bridge to the south, and [[affiliation-xelem|Shelem]] for the feathers and furs of its rainforests.
 
 ## Character
 

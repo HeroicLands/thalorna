@@ -18,11 +18,11 @@ An oligarchy of wealthy patron families governs [[affiliation-kalydria|Kalidria]
 
 ## The Academy of the Silver Veil
 
-The city's most distinctive institution is the **[Academy of the Silver Veil]{.name data-type="affiliation"}**, which trains the hetairin: educated companions schooled in music, philosophy, rhetoric and the social arts. Its graduates leave to serve as companions and advisors in courts and salons across the [[place-midhalnrgn|Mídhalión Region]], socially elevated and intellectually formidable, and they stay in touch. That unofficial web of well-informed women is why Kalidria, small in military strength, matters in rooms where armies do not.
+The city's most distinctive institution is the **[Academy of the Silver Veil]{.name data-type="affiliation"}**, which trains the hetairin: educated companions schooled in music, philosophy, rhetoric and the social arts. Its graduates leave to serve as companions and advisors in courts and salons across [[place-midhalnrgn|Mídhalión]], socially elevated and intellectually formidable, and they stay in touch. That unofficial web of well-informed women is why Kalidria, small in military strength, matters in rooms where armies do not.
 
 ## Making a Living
 
-Kalidria sells what it makes. Sculptors and painters trained here are sought by wealthy patrons across Mídhalión, and artists from elsewhere come to be trained. The city uses the [[lore-vylrncrncy|Vylarian Currency]], with full access to the banking houses of [[affiliation-danvar|The Danvar]].
+Kalidria sells what it makes. Sculptors and painters trained here are sought by wealthy patrons across Mídhalión, and artists from elsewhere come to be trained. The city uses the [[lore-vylrncrncy|Vylarian currency]], with full access to the banking houses of [[affiliation-danvar|the Danvar]].
 
 ## See Also
 

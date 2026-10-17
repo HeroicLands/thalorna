@@ -39,7 +39,7 @@ data:
 
 **The Tellumi Calendar** is the ancient reckoning of the seven cities of [[place-swoasisbelt|Tellumel]], kept before [The Breaking]{.name data-type="lore/history"} by the Shekhulsighots of the Great Temple of the [[affiliation-ahurdaen|Faith of Ahurdaen]] at the [[place-oasishirvn|Oasis of Shirvan]] and kept since by the exile [Shekhulukhem]{.name data-type="affiliation"}. Twelve months of thirty days each carry the year, and a five-day festival closes it before the next begins. Every month runs thirty days; only the closing festival is shorter. The months are counted, not named, with one exception: the priesthood calls the Fourth month _[Leqoshzuqel]{.name data-type="lore/calendar"}_, the garden moon, because the [[affiliation-mizhara|Faith of Míthara]] keeps its [Festival of First Growth]{.name data-type="lore/gathering"} in it.
 
-The new year opens with the spring equinox, the same day [[lore-commoncal|The Vylarian Calendar]] calls **1 [Lizelandi]{.name data-type="lore/calendar"}**. The five festival days sit outside the twelve months and belong to the year that is ending, so the last of them falls on the day before the equinox and the new year's first month opens the following morning.
+The new year opens with the spring equinox, the same day [[lore-commoncal|the Vylarian Calendar]] calls **1 [Lizelandi]{.name data-type="lore/calendar"}**. The five festival days sit outside the twelve months and belong to the year that is ending, so the last of them falls on the day before the equinox and the new year's first month opens the following morning.
 
 Years count from [The Ahurdaen Awakening]{.name data-type="lore/calendar"} (AA), and years before it run as [Before the Ahurdaen Awakening]{.name data-type="lore/calendar"} (BAA). The Breaking opens no era of its own: the Tellumi date it in the Awakening count, as an event inside an age they hold has not ended.
 
@@ -47,7 +47,7 @@ The calendar follows the model of the Faith of Ahurdaen's own tradition. Delkosh
 
 ## Two Calendars in the Same Cities
 
-The [[affiliation-tribestrzd|Tribes of Atarzád]] keep a different ritual reckoning, cycling twelve thirty-day lunations against whatever civil year their cities use: a count of fire-festivals rather than a count of years. Tellumi living under Atarzád rule track both, the Tellumi one for their own observances and the Atarzád one because the cities they live in run by it. A contract in [[place-ashkarad|Ashkarad]] or [[place-kethramir|Kethramír]] may carry both dates, and a debt falling due on an Atarzád festival day is a common cause of dispute. The Tellumi in the free oases of [[place-mehrnagord|Mernagord]], [[place-ushtraber|Ushtra-ber]] and [[place-vahurdash|Vahurdash]] keep the Tellumi calendar alone.
+The [[affiliation-tribestrzd|Atarzád]] keep a different ritual reckoning, cycling twelve thirty-day lunations against whatever civil year their cities use: a count of fire-festivals rather than a count of years. Tellumi living under Atarzád rule track both, the Tellumi one for their own observances and the Atarzád one because the cities they live in run by it. A contract in [[place-ashkarad|Ashkarad]] or [[place-kethramir|Kethramír]] may carry both dates, and a debt falling due on an Atarzád festival day is a common cause of dispute. The Tellumi in the free oases of [[place-mehrnagord|Mernagord]], [[place-ushtraber|Ushtra-ber]] and [[place-vahurdash|Vahurdash]] keep the Tellumi calendar alone.
 
 ## See Also
 

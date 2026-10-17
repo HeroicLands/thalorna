@@ -272,7 +272,7 @@ A Grukar-Uk is short and wide, about four and a half feet tall and as heavy as a
 
 ## In the Land
 
-Uk are wherever Grukar are: in the nests of [[place-grkrhlmrgn|Grukarholm Region]] and the eastern [[place-vrystwald|Vristwald]], in the forest and tundra on [[place-targud|Targud]]'s eastern border, and in the empty interior of [[place-aelwyth|Aelwyth]], where [[lore-grukaraelwyth|The Grukar of Aelwyth]] have been for seven centuries. A tribe is a place with a spawner in it, and the Uk do the tribe's work round that place: they dig the chambers and the moats, gather the food, cut the wood, carry the loot home and die holding the pass. They go where they are driven. Raiding parties that come down on [[place-skathwald|Skathwald]]'s villages, [[place-auldalon|Áuldalon]]'s steadings and the forest-edge farms of [[place-wyndmarch|The Wyndmarch]] are mostly Uk.
+Uk are wherever Grukar are: in the nests of [[place-grkrhlmrgn|Grukarholm]] and the eastern [[place-vrystwald|Vristwald]], in the forest and tundra on [[place-targud|Targud]]'s eastern border, and in the empty interior of [[place-aelwyth|Aelwyth]], where [[lore-grukaraelwyth|the island's Grukar]] have been for seven centuries. A tribe is a place with a spawner in it, and the Uk do the tribe's work round that place: they dig the chambers and the moats, gather the food, cut the wood, carry the loot home and die holding the pass. They go where they are driven. Raiding parties that come down on [[place-skathwald|Skathwald]]'s villages, [[place-auldalon|Áuldalon]]'s steadings and the forest-edge farms of [[place-wyndmarch|the Wyndmarch]] are mostly Uk.
 
 ## Key Behaviors
 
@@ -280,7 +280,7 @@ The Uk are idle by nature. Left to themselves they eat, sleep, squabble over foo
 
 ## What the Frontier Does
 
-Every people that borders the Grukar deals with the Uk the same way, because the Uk is the same everywhere. Steadings near the forest are built inside a ditch and a palisade, stock is penned at night, and a horn or a beacon calls the neighbors when a raiding party is seen. Nobody takes a Grukar as a slave, because an Uk cannot learn the work a captor needs, and nobody parleys with a raiding party of Uk, because an Uk cannot be told terms. The [[lore-varokhiclt|Varokhi]] villages of Skathwald keep watches and walls and spend more labor on defense than on anything else. The hill levy at Áuldalon and the frontier garrisons of the [[affiliation-kngdmldrth|Kingdom of Aldorath]] have learned the one rule every veteran teaches: kill the Hushk, and the Uk scatter.
+Every people that borders the Grukar deals with the Uk the same way, because the Uk is the same everywhere. Steadings near the forest are built inside a ditch and a palisade, stock is penned at night, and a horn or a beacon calls the neighbors when a raiding party is seen. Nobody takes a Grukar as a slave, because an Uk cannot learn the work a captor needs, and nobody parleys with a raiding party of Uk, because an Uk cannot be told terms. The [[lore-varokhiclt|Varokh]] villages of Skathwald keep watches and walls and spend more labor on defense than on anything else. The hill levy at Áuldalon and the frontier garrisons of [[affiliation-kngdmldrth|Aldorath]] have learned the one rule every veteran teaches: kill the Hushk, and the Uk scatter.
 
 ## Signs
 

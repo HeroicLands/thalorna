@@ -271,7 +271,7 @@ The cloud on the peak has been building all morning, gray on gray, and now the f
 
 # Dossier {#dossier}
 
-The Thunderbird is the greatest bird in the world: a storm-riding eagle with a wingspan of sixty to eighty feet and the weight of two dray horses, which nests on the highest and most broken peaks and hunts by diving out of the cloud. It takes wild yaks, horses, mules and anything else it can carry, and it fights anything that comes near its eyrie. It is rare enough that most scholars doubt it exists. The people who live under [[place-meghashkhr|Meghashikhara]], the storm-peak at the western end of [[place-sthrnwall|The Southern Wall]], do not doubt it, because it nests there, and it comes and goes with the monsoon cloud that piles against the mountain.
+The Thunderbird is the greatest bird in the world: a storm-riding eagle with a wingspan of sixty to eighty feet and the weight of two dray horses, which nests on the highest and most broken peaks and hunts by diving out of the cloud. It takes wild yaks, horses, mules and anything else it can carry, and it fights anything that comes near its eyrie. It is rare enough that most scholars doubt it exists. The people who live under [[place-meghashkhr|Meghashikhara]], the storm-peak at the western end of [[place-sthrnwall|the Southern Wall]], do not doubt it, because it nests there, and it comes and goes with the monsoon cloud that piles against the mountain.
 
 ## Presentation
 
@@ -279,7 +279,7 @@ The thunderbird is built like an eagle on a scale that makes no sense to the eye
 
 ## In the Land
 
-Thunderbirds nest on the highest, most broken and most storm-beaten peaks, where nothing without wings can reach the eyrie. Meghashikhara is one: the monsoon cloud piles against its southern face every year, and the storm that feeds the Vedyari plain and shuts [[place-meghadvara|Meghadvara]] from below is the wind the thunderbird rides. The pair that holds the peak ranges over the whole western end of the wall and down over the north-western marches, hunting wild yaks and sheep on the high grazing and the beasts of the caravans on the road. Where else they nest, nobody can say for certain; [[affiliation-osketguides|The Osket]] say there is another pair farther east along the wall, and the tellers in the edge-towns of the [[place-khzryndsrtrgn|Khazryn Desert Region]] say there are thunderbirds over the northern deserts as well.
+Thunderbirds nest on the highest, most broken and most storm-beaten peaks, where nothing without wings can reach the eyrie. Meghashikhara is one: the monsoon cloud piles against its southern face every year, and the storm that feeds the Vedyari plain and shuts [[place-meghadvara|Meghadvara]] from below is the wind the thunderbird rides. The pair that holds the peak ranges over the whole western end of the wall and down over the north-western marches, hunting wild yaks and sheep on the high grazing and the beasts of the caravans on the road. Where else they nest, nobody can say for certain; [[affiliation-osketguides|the Osket]] say there is another pair farther east along the wall, and the tellers in the [[place-khzryndsrtrgn|Khazryn edge-towns]] say there are thunderbirds over the northern deserts as well.
 
 ## Key Behaviors
 

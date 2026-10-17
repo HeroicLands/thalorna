@@ -11,6 +11,6 @@ sohl:
   system: {weightBase: 0.1, valueBase: 5, qualityBase: 0, durabilityBase: 6}
 ---
 
-A guide-cord is knotted hide rather than written record: the spacing, the doubling and the twist of each knot mark a crossing, a water source, a camp or a place the ice moves, in an order only its own knotter reads with certainty. Every guide-mother of [[affiliation-osketguides|The Osket]] keeps at least one for every road she has walked, and the cord itself is worth almost nothing—what has value is the knowledge behind it, which is exactly why one is worth killing for and one who sells the reading of it is worth more.
+A guide-cord is knotted hide rather than written record: the spacing, the doubling and the twist of each knot mark a crossing, a water source, a camp or a place the ice moves, in an order only its own knotter reads with certainty. Every [[affiliation-osketguides|Osket guide-mother]] keeps at least one for every road she has walked, and the cord itself is worth almost nothing—what has value is the knowledge behind it, which is exactly why one is worth killing for and one who sells the reading of it is worth more.
 
 A lowlander who acquires a cord by theft or purchase holds a length of knotted hide and nothing else. Untying it does not help; the knots record a sequence a stranger has no key to, and an Osket who suspects a cord has left her hands will simply walk the road differently the next season.

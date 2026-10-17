@@ -249,7 +249,7 @@ Something in the stubble beyond the hedge has been rattling for some minutes, a 
 
 # Dossier {#dossier}
 
-The Giant Hedgehog is a six-foot, foot-quilled, night-foraging animal of the wood edges and farmland of [[place-velanthrgn|Velanthia Region]], which eats grubs, worms, beetles, roots and fallen fruit and would be a harmless nuisance if its back were not a field of foot-long spines. It is slow, nearsighted and not interested in people. It turns up in a barley field or a ditch at night, a dog or a horse that blunders into it dies of the wounds, and when it is frightened it throws its quills.
+The Giant Hedgehog is a six-foot, foot-quilled, night-foraging animal of the wood edges and farmland of [[place-velanthrgn|Velanthia]], which eats grubs, worms, beetles, roots and fallen fruit and would be a harmless nuisance if its back were not a field of foot-long spines. It is slow, nearsighted and not interested in people. It turns up in a barley field or a ditch at night, a dog or a horse that blunders into it dies of the wounds, and when it is frightened it throws its quills.
 
 ## Presentation
 

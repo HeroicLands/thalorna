@@ -21,7 +21,7 @@ Every spring the flood goes down and takes the boundary stones with it, and the 
 
 "Hold the cord and keep still while I sight along it," a land-survey scribe tells the boy carrying his rod, on a dyke above a field whose owner and whose neighbor have each walked out to watch. "The water leaves a hand of silt and no opinions about whose barley it was. All we have is last year's entry, so that is what we measure from."
 
-Khelenet-Zu Selat is the land of [[affiliation-selatkhelntz|The Selat of Khelenet-Zu]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
+Khelenet-Zu Selat is the land of [[affiliation-selatkhelntz|the Selat of Khelenet-Zu]], one of [[affiliation-upperrivrslt|the Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 

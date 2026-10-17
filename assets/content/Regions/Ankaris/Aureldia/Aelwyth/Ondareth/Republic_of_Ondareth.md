@@ -85,11 +85,11 @@ sohl: {system: {commonSkills: [aelwthlng, elvndrlng]}}
 
 ## Overview
 
-The Republic of Ondareth is a southwestern republic governed by a senate of landed citizens and military officers. Ondareth's political culture is pragmatic and martial, with a strong citizen-soldier tradition that contrasts sharply with the courtly refinement of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] and the feudal romanticism of the [[affiliation-kngdmldrth|Kingdom of Aldorath]]. The republic holds the land of [[place-ondareth|Ondareth]].
+The Republic of Ondareth is a southwestern republic governed by a senate of landed citizens and military officers. Ondareth's political culture is pragmatic and martial, with a strong citizen-soldier tradition that contrasts sharply with the courtly refinement of [[affiliation-kingdmdnvr|Dúnavarre]] and the feudal romanticism of [[affiliation-kngdmldrth|Aldorath]]. The republic holds the land of [[place-ondareth|Ondareth]].
 
 ## Character
 
-The republic emerged from a military uprising against a tyrannical king several centuries ago ([[lore-ondarethfall|The Fall of the Last King of Ondareth]], about 440 AF), and its citizens take fierce pride in their self-governance. The Senate—composed of elected representatives from the landholding and military classes—debates policy with a directness that strikes the courtiers of Dúnavarre as vulgar and the barons of Aldorath as presumptuous. Ondarethans consider both attitudes proof of their neighbors' decadence.
+The republic emerged from a military uprising against a tyrannical king several centuries ago ([[lore-ondarethfall|the Fall of the Last King of Ondareth]], about 440 AF), and its citizens take fierce pride in their self-governance. The Senate—composed of elected representatives from the landholding and military classes—debates policy with a directness that strikes the courtiers of Dúnavarre as vulgar and the barons of Aldorath as presumptuous. Ondarethans consider both attitudes proof of their neighbors' decadence.
 
 Ondarethan legions—disciplined, well-drilled, and motivated by civic duty rather than feudal obligation—are the most professional fighting force on the island. Military service is both a civic obligation and the primary path to political advancement; a senator who has not served is a rarity and regarded with suspicion.
 
@@ -99,7 +99,7 @@ Ondareth has cultivated diplomatic channels with the [[affiliation-vylarinmpr|Vy
 
 ## Commerce and Currency
 
-The Republic of Ondareth uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through moneylenders belonging to [[affiliation-danvar|The Danvar]] and chartered under [[affiliation-tevran|The Tevran Maldor]]. The Republic of Ondareth is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Republic of Ondareth uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through moneylenders belonging to [[affiliation-danvar|the Danvar]] and chartered under [[affiliation-tevran|the Tevran Maldor]]. Republic of Ondareth is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## Extent
 
@@ -189,10 +189,10 @@ It does not need to. A faith is suppressed by magistrates, and in Ondareth magis
 Flame buys them, as every other interest does, and by the same means; it holds shrines that are known
 about, funds candidates who are known to be funded, and is prosecuted about as often as the shipping
 houses are. Its doctrine—purification by fire, the strong over the weak—sits with unpleasant ease in
-a republic where influence is openly for sale, and [[affiliation-sacredforge|The Sacred Forge]] has been
+a republic where influence is openly for sale, and [[affiliation-sacredforge|the Sacred Forge]] has been
 saying so for fifty years to no effect whatever.
 
-The Flame's other western stronghold is across the water in the [[place-provenzrgn|Provenzia Region]], where
+The Flame's other western stronghold is across the water in [[place-provenzrgn|Provenzia]], where
 [[place-harivrencity|Hárivren]]'s earl holds it openly. Whether the two are coordinated is a question
 the Forge asks loudly and cannot answer.
 

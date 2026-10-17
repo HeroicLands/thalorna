@@ -439,11 +439,11 @@ sohl:
 
 ![[senptvkrmd|Senapavi Vikramada]]{float=top-left}
 
-Senapavi Vikramada stands 6'0" tall with a heavy build. He has medium brown skin, greying dark brown hair, and deep brown eyes. His features include a full face, a straight nose, a narrow chin, full lips, and medium brows. He has a tattoo of a crescent moon on his neck.
+Senapavi stands 6'0" tall with a heavy build. He has medium brown skin, greying dark brown hair, and deep brown eyes. His features include a full face, a straight nose, a narrow chin, full lips, and medium brows. He has a tattoo of a crescent moon on his neck.
 
 # Dossier {#dossier}
 
-Senapavi Vikramada was born in the port cities of the [[place-vedyarargn|Vedyara Region]] to a family of sailors and shipwrights. His father was a bosun before him, and his grandfather before that—a legacy stretching back generations into the merchant fleets and war galleys that built the City-States' prosperity. Senapavi learned his trade not from books or schools but from the deck itself, rising through competence and an almost instinctive understanding of what a crew needed to hold together under pressure.
+Senapavi Vikramada was born in the port cities of [[place-vedyarargn|Vedyara]] to a family of sailors and shipwrights. His father was a bosun before him, and his grandfather before that—a legacy stretching back generations into the merchant fleets and war galleys that built the City-States' prosperity. Senapavi learned his trade not from books or schools but from the deck itself, rising through competence and an almost instinctive understanding of what a crew needed to hold together under pressure.
 
 He served for fifteen years in the war-fleet of [[affiliation-chandrapur|Chendrapur]], where he rose to senior bosun and eventually served aboard the great war galley [Rasikara's Wrath]{.name data-type="vehicle"}, the fleet's flagship. Those years taught him that leadership is earned rather than delegated from above, by showing again and again that one knows the difference between rules and wisdom, between discipline and tyranny. When Chendrapur's fleet was reduced after a period of peace, Senapavi chose to leave military service and now works as a contract bosun, hiring himself out to merchant captains who recognize that his presence aboard their vessels means better organized, better run, more loyal crews.
 
@@ -505,7 +505,7 @@ Vulnerability to Loyalty
 
 ### Patrons
 
-Captain-Merchant [[being-prthurajasam|Prturaja Samudraya]]
+Captain-Merchant [[being-prthurajasam|Prturaja]]
 : A successful merchant captain who employs Senapavi regularly and considers him the foundation of his trading success. Prturaja has offered Senapavi a permanent position with significant authority, which Senapavi has declined.
 
 [The Shipwrights' Shrena of Vedyara]{.name data-type="affiliation/guild"}
@@ -516,7 +516,7 @@ Captain-Merchant [[being-prthurajasam|Prturaja Samudraya]]
 
 ### Enemies
 
-Captain [[being-dharmajadhar|Darmeja Daranira]] of the [Crimson Sail]{.name data-type="vehicle"}
+Captain [[being-dharmajadhar|Darmeja]] of the [Crimson Sail]{.name data-type="vehicle"}
 : A merchant captain whom Senapavi once refused to serve because of what he perceived as grossly inadequate safety standards and crew abuse. Darmeja has since built his own reputation for speed and profit, and he views Senapavi as a rival whose standards are "outdated" and "cost-prohibitive."
 
 Modernist Faction
@@ -527,7 +527,7 @@ Modernist Faction
 
 ### Affiliations
 
-[[lore-vedyariclt|Vedyari]] Maritime Tradition
+[[lore-vedyariclt|Vedyaran]] Maritime Tradition
 : Though he works on contract rather than as an official representative, he is deeply connected to and considered an exemplar of Vedyaran maritime culture and values.
 
 [The Order of Mariners]{.name data-type="affiliation"}

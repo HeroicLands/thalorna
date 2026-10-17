@@ -258,7 +258,7 @@ You hear him before you see him: a deep, gargling roar from beyond the dune, lik
 
 The Guredor is the wild bull camel of the deep sands, descended from strings that escaped or were abandoned in the waste and bred true to the desert over a thousand years. It is bigger, leaner and far fiercer than any beast a caravan has led, and in the rutting season the bulls lose all fear of men. A Guredor in rut kills riders, breaks the lead lines of strings and scatters a caravan across a dozen miles of dune, and the tribes number it with the sand wurm among the reasons the road is crossed in force. Its name is the word for a camel of the open range, "the range-camel", and the tribes use it for the bull alone: a cow with her herd is only a wild camel, and she is no danger unless she is cornered.
 
-It is also the origin of the finest camels on the road. The tribes of the sands take young from the wild herds, and the hardiest strings of [[place-hskrrgn|Khoshiqor]] carry the Guredor's blood.
+It is also the origin of the finest camels on the road. The tribes of the sands take young from the wild herds, and the hardiest strings of the [[place-hskrrgn|Khoshiqor]] carry the Guredor's blood.
 
 ## Presentation
 
@@ -268,7 +268,7 @@ The broad, two-toed foot spreads on the sand like a plate. A bull's track is hal
 
 ## In the Land
 
-The Guredor lives in the deep sands of the Khoshiqor, where the dunes are too high and the wells too far apart for a tribe to settle, and in the stony pastures of [[place-dkrqrrgn|Diqraqor]]. A herd keeps to a range of a hundred miles and moves from one hidden seep to the next, and the best of the [[affiliation-rwlstrb|Uruvolur]] say that the herds know waters the guides do not. They are the only large animals that live in the sand year-round, and the herd-bulls of one range know one another by sight, since each season's fights settle which bull holds which waters.
+The Guredor lives in the deep sands of the Khoshiqor, where the dunes are too high and the wells too far apart for a tribe to settle, and in the stony pastures of the [[place-dkrqrrgn|Diqraqor]]. A herd keeps to a range of a hundred miles and moves from one hidden seep to the next, and the best of the [[affiliation-rwlstrb|Uruvolur]] say that the herds know waters the guides do not. They are the only large animals that live in the sand year-round, and the herd-bulls of one range know one another by sight, since each season's fights settle which bull holds which waters.
 
 A herd drinks at a seep for a day and moves on. The tribes that own the seeps watch for the bulls in autumn, as the cold comes in, and move their own camels away from the trails to the water.
 

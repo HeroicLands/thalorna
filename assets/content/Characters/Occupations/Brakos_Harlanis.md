@@ -370,7 +370,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Brakos Harlanis is a compact man, standing just 5'4" with a wiry, scant frame that barely fills his borrowed armor. His fair skin burns easily in the Vylarian sun, and his close-cropped red hair marks him as an oddity among the dark-haired ranks of the provincial garrison of the [[affiliation-provinclys|Province of Alessa]]. His honey-brown eyes are sharp and restless, constantly scanning doorways and rooflines with the wariness of a man who learned early that trouble comes from unexpected directions. His face is narrow, with high cheekbones and a thin-lipped mouth that rarely smiles. A faded tattoo of a coiled serpent wraps around his left forearm—a youthful indiscretion he declines to explain. He wears his garrison-issue padded tunic and leather bracers with the casual disregard of a soldier who cares more about function than appearance.
+Brakos is a compact man, standing just 5'4" with a wiry, scant frame that barely fills his borrowed armor. His fair skin burns easily in the Vylarian sun, and his close-cropped red hair marks him as an oddity among the dark-haired ranks of the [[affiliation-provinclys|Alessa provincial garrison]]. His honey-brown eyes are sharp and restless, constantly scanning doorways and rooflines with the wariness of a man who learned early that trouble comes from unexpected directions. His face is narrow, with high cheekbones and a thin-lipped mouth that rarely smiles. A faded tattoo of a coiled serpent wraps around his left forearm—a youthful indiscretion he declines to explain. He wears his garrison-issue padded tunic and leather bracers with the casual disregard of a soldier who cares more about function than appearance.
 
 # Dossier {#dossier}
 

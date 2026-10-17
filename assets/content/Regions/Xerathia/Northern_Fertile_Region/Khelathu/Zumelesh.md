@@ -14,11 +14,11 @@ Boats work the whole navigable length, from the delta up to the first cataract, 
 
 ## What the River Does
 
-It rises once a year, drowns the fields for four months, and goes down leaving a hand's depth of black silt on them. That is the whole agricultural economy, and [[lore-khelathclndr|The Khelathi Calendar]] is built on it: three seasons of four months, named for what the water is doing.
+It rises once a year, drowns the fields for four months, and goes down leaving a hand's depth of black silt on them. That is the whole agricultural economy, and [[lore-khelathclndr|the calendar]] is built on it: three seasons of four months, named for what the water is doing.
 
-The flood also erases every boundary stone in the valley. Each spring the surveyors walk the fields again, village by village, re-establishing lines settled the year before and the year before that, and entering what they find. A valley that re-litigates its own property annually needs a large class of men who can write, which is most of the explanation for why [[skill-qalzscrscrpt|Qalezu Script]] exists and why a scribe outranks his birth.
+The flood also erases every boundary stone in the valley. Each spring the surveyors walk the fields again, village by village, re-establishing lines settled the year before and the year before that, and entering what they find. A valley that re-litigates its own property annually needs a large class of men who can write, which is most of the explanation for why [[skill-qalzscrscrpt|the people's hand]] exists and why a scribe outranks his birth.
 
-A high flood takes villages. A low one is worse. The [[affiliation-empireakhlth|granaries and the tax remissions]] are the state's answer to a bad rise, and a [[lore-garauu|Gar-Auu]] who handles one badly is a Gar-Au whose divinity is suddenly a matter of discussion.
+A high flood takes villages. A low one is worse. The [[affiliation-empireakhlth|granaries and the tax remissions]] are the state's answer to a bad rise, and a [[lore-garauu|Gar-Au]] who handles one badly is a Gar-Au whose divinity is suddenly a matter of discussion.
 
 ## Whose River It Is
 
@@ -36,4 +36,4 @@ The doctrine both hold is that wantonness in the killing offends the gods as muc
 
 - [[place-aukhelathrgq|Au'Khelathu Region]] · [[affiliation-empireakhlth|Empire of Au'Khelathu]] · [[lore-khelathiclt|Khelathi culture]]
 - [[lore-igelnarudty|Igelnaru]] · [[affiliation-zeghetnelgu|Zeghet'Nelgu]] · [[affiliation-garnuw|Gar'Nuw]]
-- [[affiliation-deltaselatu|The Delta Selatu]] · [[affiliation-upperrivrslt|The Upper River Selatu]]
+- [[affiliation-deltaselatu|The Delta Selatu]] · [[affiliation-upperrivrslt|the Upper River Selatu]]

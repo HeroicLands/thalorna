@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [galvaren], population: 20000, governme
 
 ## Overview
 
-In **Ornethe** the fog comes first and the boats come second. The capital of the [[affiliation-kngdmglvrn|Kingdom of Galvaren]] is a harbor town of about 20,000, built along a natural bay on the green, mist-shrouded western coast of the [[place-tarvenirgn|Tarvénia Region]], where fishing boats, merchant vessels and the occasional war galley crowd together. Galvaren is a country of rain, fog, deep forests and rocky shores facing the open ocean, and its fishing fleets are the largest in the western part of the [[place-ankrscntnnt|Ankaris Continent]], ranging far out for the seasonal runs of cod, herring and tuna.
+In **Ornethe** the fog comes first and the boats come second. The capital of the [[affiliation-kngdmglvrn|Kingdom of Galvaren]] is a harbor town of about 20,000, built along a natural bay on the green, mist-shrouded western coast of [[place-tarvenirgn|Tarvénia]], where fishing boats, merchant vessels and the occasional war galley crowd together. Galvaren is a country of rain, fog, deep forests and rocky shores facing the open ocean, and its fishing fleets are the largest in the western part of the [[place-ankrscntnnt|Ankaris Continent]], ranging far out for the seasonal runs of cod, herring and tuna.
 
 ## Who Governs
 

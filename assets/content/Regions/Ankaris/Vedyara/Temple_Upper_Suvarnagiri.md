@@ -8,7 +8,7 @@ tags: [sacred, temple, mountain, inland]
 data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
-**The Temple of Upper Suvarnageri** stands at the junction of the two highest streams off [[place-goldmountain|The Gold Mountain]]. It is one of the three great temples of [[affiliation-mahajaya|Mahajaya]] that hold the janapoda between them, built within a century of the other two, of the same size, and housing an altar of comparable craftsmanship.
+**The temple of Upper Suvarnageri** stands at the junction of the two highest streams off [[place-goldmountain|the Gold Mountain]]. It is one of the three great temples of [[affiliation-mahajaya|Mahajaya]] that hold the janapoda between them, built within a century of the other two, of the same size, and housing an altar of comparable craftsmanship.
 
 No one of the three controls the janapoda and no one priesthood controls the gold. The convening of the sabhra rotates annually among the three senior priests, and by long custom the sabhra cannot meet in one temple in two successive years.
 
@@ -25,5 +25,5 @@ Above the temple there is nothing but the observation posts and the bare slope. 
 ## See Also
 
 - [[place-goldmountain|The Gold Mountain]] · [[place-suvarnagiri|Suvarnageri]]
-- [[place-middlesuvtmpl|The Temple of Middle Suvarnageri]] · [[place-lowersuvtmpl|The Temple of Lower Suvarnageri]]
+- [[place-middlesuvtmpl|The Temple of Middle Suvarnageri]] · [[place-lowersuvtmpl|the Temple of Lower Suvarnageri]]
 - [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]

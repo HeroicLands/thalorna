@@ -15,10 +15,10 @@ data:
   culture: sinaleclt
 ---
 
-**Aelirosse**, as it is called in the [[skill-elvndrlng|Élavendri Language]], lies deep in [[place-silvrfrsts|The Silver Forests]], within the
+**Aelirosse**, as it is called in [[skill-elvndrlng|Élavendri]], lies deep in [[place-silvrfrsts|the Silver Forests]], within the
 [[place-alndntrblnds|Áelendan Tribal Lands]] of [[place-sorvanda|Sórvanda]], not far from the
 [[place-urontekhi|Uron Tekhi]]. Perhaps a hundred and twenty members of the [[lore-flksinale|Sinale Folk]] live there, and
-have for longer than there has been a [[affiliation-kngdmlvndr|Kingdom of Élavendre]] to be unaware of it.
+have for longer than there has been a [[affiliation-kngdmlvndr|kingdom of Élavendre]] to be unaware of it.
 
 It is not a settlement in any sense a human surveyor would accept. There are no streets and no walls;
 there are dwellings worked into and around the living silver birch over the course of centuries, a
@@ -29,12 +29,12 @@ Aelirosse have a way of leading elsewhere.
 ## The Nearest Neighbors
 
 Aelirosse is the closest that Sinale and humans live to one another anywhere in Thalorna, and the
-relationship with the surrounding [[lore-aelendnppl|Áelendan People]] is **genuinely cordial**—not an alliance, which would
+relationship with the surrounding [[lore-aelendnppl|Áelendan]] is **genuinely cordial**—not an alliance, which would
 imply purposes held in common, but a long neighborliness between peoples who share a wood and have had
 many centuries to work out how.
 
 Áelendan come and go without ceremony. Sinale attend some Áelendan observances and are attended at
-some of their own. The songs [[affiliation-bardicolgs|The Bardic Colleges]] treasure as Sinalean gifts
+some of their own. The songs [[affiliation-bardicolgs|the Bardic Colleges]] treasure as Sinalean gifts
 were, most of them, first heard here and carried out by Áelendan who had been given them freely.
 
 One of them, [[lore-seventowers|The Seven Towers]], stands in the makers' halls and says what the Sinale make instead:
@@ -53,4 +53,4 @@ matter on which the Sinale have never been asked and the Áelendan decline to sp
 
 ## See Also
 
-- [[lore-flksinale|Sinale]] · [[place-silvrfrsts|The Silver Forests]] · [[place-ethalosse|Ethalosse]] · [[lore-theasking|The Asking]]
+- [[lore-flksinale|Sinale]] · [[place-silvrfrsts|the Silver Forests]] · [[place-ethalosse|Ethalosse]] · [[lore-theasking|The Asking]]

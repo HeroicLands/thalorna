@@ -16,11 +16,11 @@ data:
 
 ## The Curse of Yarvalen Henge
 
-In The Curse of Yarvalen Henge, [[place-yharvalenhenge|Yarvalen Henge]], a megalithic monument destroyed during [[lore-southrnfleets|The Southern Fleets]] (the Nordheim raids), has become a place of blood and death. A dark cult has awakened its curse, and the surrounding lands are dying. The party must uncover the cult's purposes and stop them before the blight spreads beyond the bloodfields.
+[[place-yharvalenhenge|Yarvalen Henge]], a megalithic monument destroyed during [[lore-southrnfleets|the Southern Fleets]] (the Nordheim raids), has become a place of blood and death. A dark cult has awakened its curse, and the surrounding lands are dying. The party must uncover the cult's purposes and stop them before the blight spreads beyond the bloodfields.
 
 ### Overview
 
-In the far north of the [[place-provenzrgn|Provenzia Region]], in [[place-sathvothe|Satvote]], on the low coast running inland from the [[place-batarengulf|Gulf of Bataren]] where the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]'s raiders came ashore, stands Yarvalen Henge—or what remains of it. Once a sacred site of pre-Aureldían traditions, the megalithic circle was destroyed approximately 200 years ago during the Nordheim raids that swept through northern Provenzia. The land around the henge became known as the [[place-bldfldyharvalen|Blood-field of Yarvalen]], cursed and dying. For centuries, it lay dormant and avoided. Now, something has awakened the curse, and the lands surrounding the henge are withering. Crops fail, animals die, people sicken, and the very soil seems poisoned. Investigation reveals that a cult of [[affiliation-blackflame|The Black Flame]] has been deliberately awakening and magnifying the curse, drawing power from the destruction and death.
+In the far north of the [[place-provenzrgn|Provenzia Region]], in [[place-sathvothe|Satvote]], on the low coast running inland from the [[place-batarengulf|Gulf of Bataren]] where the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]'s raiders came ashore, stands Yarvalen Henge—or what remains of it. Once a sacred site of pre-Aureldían traditions, the megalithic circle was destroyed approximately 200 years ago during the Nordheim raids that swept through northern Provenzia. The land around the henge became known as the [[place-bldfldyharvalen|Blood-field of Yarvalen]], cursed and dying. For centuries, it lay dormant and avoided. Now, something has awakened the curse, and the lands surrounding the henge are withering. Crops fail, animals die, people sicken, and the very soil seems poisoned. Investigation reveals that a cult the [[affiliation-blackflame|Cult of the Black Flame]] has been deliberately awakening and magnifying the curse, drawing power from the destruction and death.
 
 ### Stage One: The Blight Discovered
 
@@ -57,7 +57,7 @@ The party investigates the blight's source and discovers the cult of the Black F
 **Research Reveals:**
 
 - The cult follows the creed of the Black Flame—destruction and blood sacrifice
-- The cult has grown in secret within Provenzia over decades, hidden among the legitimate Ústaran congregations of [[affiliation-sacredforge|The Sacred Forge]]
+- The cult has grown in secret within Provenzia over decades, hidden among the legitimate Ústaran congregations of [[affiliation-sacredforge|the Sacred Forge]]
 - Members include renegade priests, disgraced nobles, and mercenaries drawn to its promise of power through destruction
 - The cult's goal appears to be awakening and expanding the curse as a prelude to larger plans
 - They perform dark rituals at the henge, drawing power from the blood-field to fuel their corrupted fire-magic
@@ -76,7 +76,7 @@ The party investigates the blight's source and discovers the cult of the Black F
 - Weakening the kingdom to seize power from within
 - Drawing power from destruction and death to fuel what they regard as the influence of [[lore-ustarondty|Ústaron]], the fire-god of their corrupted faith
 - Preparing for a larger ritual or summoning
-- Some members may have foreign connections—Nordheim raiders, agents of the [[affiliation-vylarinmpr|Vylarian Empire]], or the Thordimalon—but the cult's roots are Provenzian
+- Some members may have foreign connections—Nordheim raiders, [[affiliation-vylarinmpr|Vylarian agents]], or the Thordimalon—but the cult's roots are Provenzian
 
 **Complications:**
 

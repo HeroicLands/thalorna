@@ -80,7 +80,7 @@ The Tamzir operates in the gray spaces of maritime law—legitimate trade when i
 
 ## The Fugitive Siblings
 
-The crew's most dangerous entanglement is the Serenthis siblings. [[being-lucernsrnt|Lukeros Serenthis]], a physician from a respected Vylarian family, sacrificed everything to rescue his sister [[being-cibelasrnt|Kivella Serenthis]] from the [[affiliation-ordoarcanis|Thordimalon]], who had been experimenting on her. Kivella is an arcane prodigy of great and erratic power—damaged by what the Order did to her, unpredictable, and desperately wanted back. The Order operates through [[affiliation-vylarinmpr|Vylarian]] court intrigue: imperial agents, bounty hunters, and political leverage. Having the Serentias aboard makes the Tamzir a target.
+The crew's most dangerous entanglement is the Serenthis siblings. [[being-lucernsrnt|Lukeros Serenthis]], a physician from a respected Vylarian family, sacrificed everything to rescue his sister [[being-cibelasrnt|Kivella]] from the [[affiliation-ordoarcanis|Thordimalon]], who had been experimenting on her. Kivella is an arcane prodigy of great and erratic power—damaged by what the Order did to her, unpredictable, and desperately wanted back. The Order operates through [[affiliation-vylarinmpr|Vylarian]] court intrigue: imperial agents, bounty hunters, and political leverage. Having the Serentias aboard makes the Tamzir a target.
 
 ## Shared Enemies
 

@@ -13,7 +13,7 @@ data:
   packFolder: centralrainforests
 ---
 
-Deep in the [[place-cntrlrnfrsts|Central Rainforests]], in a valley that the canopy closes over completely, there is a seat that appears on no map. Its people call their leader the [Leopard King]{.name data-type="being/npc"}, and the tribes around them call the seat **The Leopard King's Court**. It is a town of earth terraces and raised timber halls strung between giant trees, home to some four hundred people. That is a large tribe by the forest's measure.
+Deep in the [[place-cntrlrnfrsts|Central Rainforests]], in a valley that the canopy closes over completely, there is a seat that appears on no map. Its people call their leader the [Leopard King]{.name data-type="being/npc"}, and the tribes around them call the seat **the Leopard King's Court**. It is a town of earth terraces and raised timber halls strung between giant trees, home to some four hundred people. That is a large tribe by the forest's measure.
 
 ## What It Is
 
@@ -40,7 +40,7 @@ The gifts are hardwood, dyes, ivory, medicinal plants, bundled hides, smoked fis
 - **The neighbouring tribes** speak of the King with fear. Each sends its gift on its own schedule, and a tribe that stops is visited by the [Spotted Guard]{.name data-type="affiliation"}, the Court's own fighters.
 - **The Sengala** trade at the margins of the Court's lands and take care to seem neither friend nor rival.
 - The [[lore-kubindoclt|Kubindo]] say the King has done what the drowned court did, and expect the same end for him.
-- **Okhárian river-folk** who speak [[skill-okharclng|Okharik Language]] know the leopard-guide as _Ndawelari Thakwaring_, the Hunter's Rival. They hear the claim of the Court and hold it a vanity: a man who calls himself the Hunter's Rival will meet the real one.
+- **Okhárian river-folk** who speak [[skill-okharclng|Okharik]] know the leopard-guide as _Ndawelari Thakwaring_, the Hunter's Rival. They hear the claim of the Court and hold it a vanity: a man who calls himself the Hunter's Rival will meet the real one.
 - **Northern traders** have heard that there is a king in the interior who is a cat, and treat it as a tavern story.
 
 ## Reaching It

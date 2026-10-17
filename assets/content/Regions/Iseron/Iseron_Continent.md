@@ -15,7 +15,7 @@ data:
 # terran_analog: "Antarctica—the frozen southernmost continent: desolate, largely unexplored, rumored to hold ancient ruins beneath the ice and tiny reclusive communities adapted to its extremes."
 ---
 
-The Iseron Continent is the southernmost continent of [[place-worldthlrn|The World of Thalorna]]—a vast ice-bound landmass at the southern pole, desolate and almost entirely unexplored. It is the least-known of Thalorna's continents by a wide margin. What is reported of Iseron is reported by a vanishingly small number of returned expeditions, and much of what the rest of the world believes about the place is informed as much by legend as by documented observation. It is rumored to hold ancient ruins beneath the ice, small reclusive communities adapted to its extremes, and knowledge that predates every other civilization on Thalorna.
+Iseron is the southernmost continent of [[place-worldthlrn|Thalorna]]—a vast ice-bound landmass at the southern pole, desolate and almost entirely unexplored. It is the least-known of Thalorna's continents by a wide margin. What is reported of Iseron is reported by a vanishingly small number of returned expeditions, and much of what the rest of the world believes about the place is informed as much by legend as by documented observation. It is rumored to hold ancient ruins beneath the ice, small reclusive communities adapted to its extremes, and knowledge that predates every other civilization on Thalorna.
 
 ## Geography
 

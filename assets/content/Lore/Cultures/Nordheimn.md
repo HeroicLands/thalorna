@@ -89,11 +89,11 @@ data:
 # terran_analog: "The Norse and Germanic world together with the Baltic and Scandinavian forest peoples (Germany, Poland, Czechia, the Baltic states, Denmark, Norway, Sweden and Finland). Carries over: longships that trade and raid, assemblies (ting) and a Lawspeaker, skalds, runes, blet offerings, oaths, wergild and outlawry, halls and kin. Departs: five kingdoms meeting every seventh year in a King of All Clans assembly, and the Asguardian faiths of near gods. Norse settlement on Aelwyth (Stormveld, Northeastern Scotland analog) stays culturally tied to its kindred kingdom across the sea."
 ---
 
-Sit one evening at a northern fire and three things come up before the ale is gone: whose kin you are, what you have sworn, and what people say of your grandmother. A skald of [[affiliation-skaldscrcl|The Skalds' Circle]] who teaches the fosterlings of a hall in the [[affiliation-kingdmnrgd|Kingdom of Norgaad]] gives them the whole culture in two sentences: "We live by the sea and by what our neighbors remember of us. The sea feeds you for a season; the remembering feeds your children."
+Sit one evening at a northern fire and three things come up before the ale is gone: whose kin you are, what you have sworn, and what people say of your grandmother. A skald of [[affiliation-skaldscrcl|the Skalds' Circle]] who teaches the fosterlings of a hall in the [[affiliation-kingdmnrgd|Kingdom of Norgaad]] gives them the whole culture in two sentences: "We live by the sea and by what our neighbors remember of us. The sea feeds you for a season; the remembering feeds your children."
 
-The **Nordheimn**, or Nordmen, are the people of the [[place-nrdlndsrgn|Nordlands Region]], a homeland of thin fields and long winters. They live along the coast and the inland rivers. The vast mountain interior holds few residents or travelers, and the stories of hidden holds of the [[lore-flkkhazar|Khazár Folk]] there are rumors, not neighbors a household can call on.
+The **Nordheimn**, or Nordmen, are the people of the [[place-nrdlndsrgn|Nordlands]], a homeland of thin fields and long winters. They live along the coast and the inland rivers. The vast mountain interior holds few residents or travelers, and the stories of [[lore-flkkhazar|Khazari holds hidden]] there are rumors, not neighbors a household can call on.
 
-Ships carry amber, furs, whale ivory and iron south to the [[place-midhalnrgn|Mídhalión Region]], and bring grain, wine, cloth and silver home. A longship can run up a river or cross open ocean. The same crew may trade at one port and raid the next. A Nordman's reason is the arithmetic of a land that cannot feed its people; that is how the north justifies taking another people's food and freedom.
+Ships carry amber, furs, whale ivory and iron south to [[place-midhalnrgn|Mídhalión]], and bring grain, wine, cloth and silver home. A longship can run up a river or cross open ocean. The same crew may trade at one port and raid the next. A Nordman's reason is the arithmetic of a land that cannot feed its people; that is how the north justifies taking another people's food and freedom.
 
 ## The Oath and the Shame
 
@@ -101,7 +101,7 @@ Good conduct begins with keeping an oath, protecting kin and an accepted guest, 
 
 A false oath attacks the trust on which the whole society rests. Deliberate false witness at a ting, betrayal of guest protection, and hoarding shared food while dependents starve are shameful. So are robbing a grave and disturbing a place guarded by the dead without its customary permission. A person can be feared for violence and still be despised for these acts.
 
-This moral reckoning is strongest within the circle of kin, hall and pledged peace. The conquest of the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] on [[place-aelwyth|Aelwyth]] shows its limit. Nordmen seized the plain and enslaved its inhabitants; their descendants still work land held by the conquerors. Raids and the slave trade likewise reward acts that Nordmen condemn when done to their own people. Thoughtful Nordmen dispute an honor that protects a guest at the hearth while excusing the enslavement of strangers.
+This moral reckoning is strongest within the circle of kin, hall and pledged peace. The conquest of [[affiliation-jrldmstrmvld|Stormveld]] on [[place-aelwyth|Aelwyth]] shows its limit. Nordmen seized the plain and enslaved its inhabitants; their descendants still work land held by the conquerors. Raids and the slave trade likewise reward acts that Nordmen condemn when done to their own people. Thoughtful Nordmen dispute an honor that protects a guest at the hearth while excusing the enslavement of strangers.
 
 ## The Reputation Is the Estate
 
@@ -131,9 +131,9 @@ The epic repertoire praises other forms of care. Tales of [[being-mrvrnhrvstblsd
 
 ## Rings, Runes and Remembered Words
 
-An oath-ring gives a spoken bond a visible form. A ring from a lord marks service and a named place in his hall; a skald's silver arm-ring traces the line of masters who taught the craft. The iron scale and oath-ring of the [[affiliation-eidgar|Faith of Eidgar]] tie judgment to religion. Runes mark devotion and serve in divination, while remembered words preserve obligations that another people might put on parchment.
+An oath-ring gives a spoken bond a visible form. A ring from a lord marks service and a named place in his hall; a skald's silver arm-ring traces the line of masters who taught the craft. The iron scale and oath-ring of [[affiliation-eidgar|Eidgar]] tie judgment to religion. Runes mark devotion and serve in divination, while remembered words preserve obligations that another people might put on parchment.
 
-The Skalds' Circle trains singers to keep genealogies, judgments and debts in formal verse. Its truth-of-the-recital oath requires an accurate account even against the skald's employer. Under [[lore-kinhalcrdt|Kin and Hall Credit]], an exchange announced at a feast enters the hall's standing obligations. Later recitals acknowledge the debt and eventually its settlement. A claim survives a death and matters at marriages, funeral feasts and divisions of an estate.
+The Skalds' Circle trains singers to keep genealogies, judgments and debts in formal verse. Its truth-of-the-recital oath requires an accurate account even against the skald's employer. Under [[lore-kinhalcrdt|kin and hall credit]], an exchange announced at a feast enters the hall's standing obligations. Later recitals acknowledge the debt and eventually its settlement. A claim survives a death and matters at marriages, funeral feasts and divisions of an estate.
 
 [[being-dagmrskaald|Dagmar the Skaald]] shows the storyteller's power and weakness in a living person. His songs carry heroic tales from clan to clan, and his wit earns a hearing. He also bends truth for advantage. Admiration for his craft does not make that dishonesty admirable; the gift that preserves a name can also distort it.
 
@@ -163,7 +163,7 @@ The Circle has its own severe sanction for false recital: conviction and the pub
 
 ## The Ting and the Hov
 
-The ting settles disputes, proclaims laws and makes alliances. A [[lore-bondirnk|Bundi]], a free farmer of full clan membership, speaks in their own name. A _[[lore-lidmadrrnk|Lidmadr]]_ is free but has no clan and no voice on the floor; a following supplies the support kin otherwise provide. A [[lore-thrallrnk|Hrug]] has neither voice nor an independent claim to protection. Calling the ting open does not make its hearing equal for everyone.
+The ting settles disputes, proclaims laws and makes alliances. A [[lore-bondirnk|bundi]], a free farmer of full clan membership, speaks in their own name. A _[[lore-lidmadrrnk|Lidmadr]]_ is free but has no clan and no voice on the floor; a following supplies the support kin otherwise provide. A [[lore-thrallrnk|thrall]] has neither voice nor an independent claim to protection. Calling the ting open does not make its hearing equal for everyone.
 
 The kingdom's Lawspeaker keeps and recites the law. Skalds preserve judgments and testify from the remembered record. Jarls and district heads answer for peace and muster; _landvordr_ officers collect dues and hold courts. A harbor-reeve hears wharf disputes and collects tolls. The ting's ruling binds a jarl as well as a clan member, and continuing consent binds a king to the assembly that acclaims him.
 
@@ -179,11 +179,11 @@ The howe-wake seeks a different kind of answer. At [[lore-vetrnaetr|Vetrnetr]] o
 
 ## Bonds and Claims at the Hall
 
-Before a raiding season, sworn fighters may become oath-friends by passing beneath a lifted strip of turf, letting blood fall to the earth and promising to avenge whichever companion dies first. The oath binds them beyond a voyage or a captain's contract. Their halls remember it when a killing calls for wergild, and [[affiliation-eidhond|The Order of the Sworn Hand]] treats the death of an oath-friend as a death within kin; two companions later hired on opposite sides still owe the promise they made.
+Before a raiding season, sworn fighters may become oath-friends by passing beneath a lifted strip of turf, letting blood fall to the earth and promising to avenge whichever companion dies first. The oath binds them beyond a voyage or a captain's contract. Their halls remember it when a killing calls for wergild, and [[affiliation-eidhond|the Order of the Sworn Hand]] treats the death of an oath-friend as a death within kin; two companions later hired on opposite sides still owe the promise they made.
 
 Settlers making a land-taking carry posts from their former hall, set them where the draft animals stop, and walk the claimed bounds with fire before the next sunset. A woman may lead a heifer around land she means to hold. The walk gives witnesses a boundary to remember; it does not silence another household's earlier claim. On the [[place-vrystwald|Vristwald]] frontier, walking fire around a grove claimed by a [[lore-varokhiclt|Varokhi]] clan brings two accounts of rightful land before people who may not recognize the same witnesses.
 
-At Vetrnetr the hall's _buvordr_ seats its honored old by the door and serves them first. Tellers connect the door-seat to [[lore-threewinters|The Three Winters]] of 512 to 514 and the kin-fell: a place near the way out became a place of honor when people swore they would feed the old. The tellers differ over the oath; the custom itself is plain to every guest. A hall unable to provision its elders must seek help from other kin and halls; the obligation may enter hall credit and diminish a house that leaves it unpaid.
+At Vetrnetr the hall's _buvordr_ seats its honored old by the door and serves them first. Tellers connect the door-seat to [[lore-threewinters|the Three Winters]] of 512 to 514 and the kin-fell: a place near the way out became a place of honor when people swore they would feed the old. The tellers differ over the oath; the custom itself is plain to every guest. A hall unable to provision its elders must seek help from other kin and halls; the obligation may enter hall credit and diminish a house that leaves it unpaid.
 
 ## The Reckoning after Death
 
@@ -191,7 +191,7 @@ At [[lore-aldarlok|Aldarlok]], the defending gods and their honored dead face th
 
 The faiths of the Ten also teach that oath-breakers, those who turn from duty, and those who die of sickness without distinction pass to [[place-nulthey|Nulthey]], where they fade. The faithful of the [[affiliation-solrun|Faith of Solrún]] affirm that a life need not include battle to earn honor. Illness and honor therefore remain a difficult question; a family's duty to feed an incapacitated member does not depend on claiming certainty about their eventual fate.
 
-This belief reaches ordinary work. It weighs against a false oath and in favor of defending a neighbor, preserving a craft or giving away wealth. Offerings and shared feasts cost food and drink a house could keep. At funeral feasts and divisions of an estate, kin reckon the dead person's obligations rather than treating death as cancellation; [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]] follows a death from the first night to the grave-ale. Care for graves and their goods preserves the dead's place in local memory. It also keeps the living from provoking a presence they cannot safely judge.
+This belief reaches ordinary work. It weighs against a false oath and in favor of defending a neighbor, preserving a craft or giving away wealth. Offerings and shared feasts cost food and drink a house could keep. At funeral feasts and divisions of an estate, kin reckon the dead person's obligations rather than treating death as cancellation; [[lore-nrdlndsfnrl|the Pyre, the Ship and the Howe]] follows a death from the first night to the grave-ale. Care for graves and their goods preserves the dead's place in local memory. It also keeps the living from provoking a presence they cannot safely judge.
 
 ## The Dead near Home
 
@@ -199,7 +199,7 @@ The living include ancestors in offerings and may seek a velva's contact with th
 
 Nordmen fear _restless dead_, local presences said to haunt some places and protect others. A guardian may protect a place or people with whom it has a bond without making strangers safe there. Travelers ask local custodians before approaching a known site. They avoid taking grave goods and may offer a gift where honoring the dead is customary. Each practice belongs to its own place; no single rite keeps every haunting away.
 
-If a haunting harms people, kin first look for a disturbed site or unmet obligation. The local gudi or gudja, and a velva when needed, mediate; a continuing threat can lead the community to bar the place or confront its guardian. The tales give these dead no single cause or destination. A presence without a body is a spirit; where the dead walk in their own bodies, as the _hrúmverdir_ of the howes are said to, they carry [[lore-theshadow|The Shadow]] that every undead carries, whatever the local tale gives as the reason. A walking dead man is not thereby proven to have died dishonorably, to belong to Nulthey, or to be one of the _[[lore-nagengir|Nágengir]]_ raised to serve [[lore-nahilddty|Nahild]].
+If a haunting harms people, kin first look for a disturbed site or unmet obligation. The local gudi or gudja, and a velva when needed, mediate; a continuing threat can lead the community to bar the place or confront its guardian. The tales give these dead no single cause or destination. A presence without a body is a spirit; where the dead walk in their own bodies, as the _hrúmverdir_ of the howes are said to, they carry [[lore-theshadow|the Shadow]] that every undead carries, whatever the local tale gives as the reason. A walking dead man is not thereby proven to have died dishonorably, to belong to Nulthey, or to be one of the _[[lore-nagengir|Nágengir]]_ raised to serve [[lore-nahilddty|Nahild]].
 
 ## What a Person Owes
 
@@ -244,7 +244,7 @@ A hall gathers a lord's close kin and sworn followers under one roof. Oath and a
 [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]
 : the pyre, the ship-burial, the howe and the grave-ale
 
-[[lore-nrdlndswhal|The Whale Strand]] and [[lore-nrdlndsseal|The Ice-Edge and the Rookery]]
+[[lore-nrdlndswhal|The Whale Strand]] and [[lore-nrdlndsseal|the Ice-Edge and the Rookery]]
 : the whale and the seal that feed the coasts
 
 [[lore-aldarhringr|Aldarhringr]]

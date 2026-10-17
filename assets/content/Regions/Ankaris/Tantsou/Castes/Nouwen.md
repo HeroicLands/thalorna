@@ -7,7 +7,7 @@ description: "The sixth caste of Tantsou—the peasant farmers who are most of t
 data: {packFolder: castes, culture: tantsouclt}
 ---
 
-Ask who feeds the [[affiliation-tantsouempr|Empire of Tantsou]] and the answer is the sixth caste. The Nouwén are the peasant farmers, laborers and common folk who work the terraces, the paddies, the forests and the rivers, and they are most of the empire's people. They are bound to the land they work and owe tribute of produce and labor to the lords above them, and they have a spiritual life the court does not share: the ancestor altar in every hut, and the Leigen, the spirit masters who rise from their own villages and are consulted, quietly, by Warlords.
+Ask who feeds [[affiliation-tantsouempr|Tantsou]] and the answer is the sixth caste. The Nouwén are the peasant farmers, laborers and common folk who work the terraces, the paddies, the forests and the rivers, and they are most of the empire's people. They are bound to the land they work and owe tribute of produce and labor to the lords above them, and they have a spiritual life the court does not share: the ancestor altar in every hut, and the Leigen, the spirit masters who rise from their own villages and are consulted, quietly, by Warlords.
 
 ## Life and Labor
 
@@ -42,7 +42,7 @@ No personal name
 
 ## The Ancestors
 
-In a Nouwén house the altar comes before the hearth. [[lore-ancstrwrshp|Ancestor Worship]] is the center of village faith, and its teaching is plain to any child: the family's dead are posted officials in the celestial bureaucracy. They carry the household's petitions, argue its case before the bureaus, and spend the credit on their own moral ledgers to sway what comes. A dead grandmother who is fed, honored and remembered is an advocate in heaven; one who is neglected stops answering.
+In a Nouwén house the altar comes before the hearth. [[lore-ancstrwrshp|Ancestor worship]] is the center of village faith, and its teaching is plain to any child: the family's dead are posted officials in the celestial bureaucracy. They carry the household's petitions, argue its case before the bureaus, and spend the credit on their own moral ledgers to sway what comes. A dead grandmother who is fed, honored and remembered is an advocate in heaven; one who is neglected stops answering.
 
 So the obligations are practical ones. The shrine is swept, the seasonal rites are kept, and the dead are provisioned with offerings of rice, wine and paper goods burned for their use. A family that fails in them weakens its advocates, and the consequences are expected in the fields: a failed crop, a sick child, a lawsuit lost.
 
@@ -75,7 +75,7 @@ Every child in the empire is tested at the age of ten. A child of the [[lore-wan
 
 ## Philosophy of Lei
 
-In the [[lore-phlsphyleiwo|Philosophy of Leiwo]] framework the Nouwén are the tenders of the earth's Lei: their labor draws its generative force into grain and keeps the empire's most basic balance from tipping.
+In the [[lore-phlsphyleiwo|Leiwo]] framework the Nouwén are the tenders of the earth's Lei: their labor draws its generative force into grain and keeps the empire's most basic balance from tipping.
 
 ## See Also
 

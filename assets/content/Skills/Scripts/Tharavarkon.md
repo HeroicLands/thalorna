@@ -17,9 +17,9 @@ sohl:
   flags: {"thalorna": {script_family: Runic}}
 ---
 
-The Tharavarkon Script is the old carved script of the [[lore-vylarianclt|Vylarian]] people—angular, incised, and older than the [[affiliation-vylarinmpr|Vylarian Empire]] that inherited it. The name is Proto-Pelwar: _thura-vark_, "graven work," the same compound that the [[lore-nordheimnclt|Nordheimn]] still carry as [[skill-thuravarkscript|Thuravark Runic Script]]. That two peoples separated by three thousand miles and as many years call their runes by cognate names is the strongest single piece of evidence that [[skill-vylarilng|Vylari Language]] and [[skill-nordmalng|Nordmal Language]] descend from one nomadic tongue, and Vylarian antiquarians who would rather not be cousins to the north have spent a great deal of ink trying to explain it away.
+The Tharavarkon is the old carved script of the [[lore-vylarianclt|Vylarian]] people—angular, incised, and older than the [[affiliation-vylarinmpr|Empire]] that inherited it. The name is Proto-Pelwar: _thura-vark_, "graven work," the same compound that the [[lore-nordheimnclt|Nordmen]] still carry as [[skill-thuravarkscript|Thuravark]]. That two peoples separated by three thousand miles and as many years call their runes by cognate names is the strongest single piece of evidence that [[skill-vylarilng|Vylari Language]] and [[skill-nordmalng|Nordmal Language]] descend from one nomadic tongue, and Vylarian antiquarians who would rather not be cousins to the north have spent a great deal of ink trying to explain it away.
 
-Vylaria did not abandon it. It kept the runes for everything meant to outlast the person who ordered it cut, and coined the [[skill-semrnscrpt|Semaron Script]] for everything else.
+Vylaria did not abandon it. It kept the runes for everything meant to outlast the person who ordered it cut, and coined the [[skill-semrnscrpt|Semaron]] for everything else.
 
 Behind the Pelwar word stands an older and far more awkward question. The staves match [[skill-drthrkscrpt|Pirzath Script]] of the [[lore-flkkhazar|Khazár Folk]] too well for coincidence, and the likeliest account has the **Proto-Pelwar themselves as Khazari subjects**, taught a reduced work-row in the mountains before the migrations—so that Tharavarkon is not a borrowing Vylaria made but one it inherited, already twice simplified, from ancestors who cut tallies for somebody else.
 
@@ -27,7 +27,7 @@ Vylarian antiquarians have found parts of this congenial for reasons that have l
 
 ## The letters
 
-Straight strokes, no curves, cut cross-grain because that is what stone and hardwood will take. The imperial recension formalized what had been a loose family of local rune-rows into a fixed order of thirty-one characters with strict proportions, and added two things the old carvers had no use for: ligature forms that let a mason fit a long dedication into a fixed architrave, and the **crowned runes**—special enclosing marks that must be cut around the name of a god, a founder, or a reigning emperor. Cutting a divine name without its crown is not an error of spelling. It is an impiety, and in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]] a prosecutable one.
+Straight strokes, no curves, cut cross-grain because that is what stone and hardwood will take. The imperial recension formalized what had been a loose family of local rune-rows into a fixed order of thirty-one characters with strict proportions, and added two things the old carvers had no use for: ligature forms that let a mason fit a long dedication into a fixed architrave, and the **crowned runes**—special enclosing marks that must be cut around the name of a god, a founder, or a reigning emperor. Cutting a divine name without its crown is not an error of spelling. It is an impiety, and in [[affiliation-hlykngdmnrtm|Nartun]] a prosecutable one.
 
 ## Where it is found
 
@@ -35,7 +35,7 @@ Temple architraves and altar frontals; the lintels of tombs; boundary and league
 
 ## Who has it
 
-The priesthoods first—the Holy Kingdom of Nartun conducts all its rites in the archaic ritual dialect and cuts all its dedications in Tharavarkon, and a Nartunite priest who cannot read runes cannot serve. After them: master masons and monument-cutters, who often cut the letters competently without following the sense; imperial antiquarians and the archivists of [[affiliation-imprlscrblgld|The Imperial Scribal Guild]]; and the scholars of the [[affiliation-ordoarcanis|Thordimalon]], whose interest in pre-imperial inscriptions is not entirely academic. Ordinary literate Vylarians can pick out a god's name and a date on a temple front and no more.
+The priesthoods first—the Holy Kingdom of Nartun conducts all its rites in the archaic ritual dialect and cuts all its dedications in Tharavarkon, and a Nartunite priest who cannot read runes cannot serve. After them: master masons and monument-cutters, who often cut the letters competently without following the sense; imperial antiquarians and the archivists of [[affiliation-imprlscrblgld|the Imperial Scribal Guild]]; and the scholars of the [[affiliation-ordoarcanis|Thordimalon]], whose interest in pre-imperial inscriptions is not entirely academic. Ordinary literate Vylarians can pick out a god's name and a date on a temple front and no more.
 
 ## In play
 

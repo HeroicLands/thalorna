@@ -422,7 +422,7 @@ sohl:
 
 ![[alyrklmrth|Álira Kálmereth]]{float=top-left}
 
-Álira Kálmereth stands 5'9" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a heart-shaped face, a snub nose, a strong jawline, full lips, dark brows, and full cheeks.
+Álira stands 5'9" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a heart-shaped face, a snub nose, a strong jawline, full lips, dark brows, and full cheeks.
 
 # Dossier {#dossier}
 
@@ -513,10 +513,10 @@ Master [Galric Sarneth]{.name data-type="being/npc"}
 ## Plot Hooks
 
 The Countess's Heir
-: The young Countess [[being-ithrolasemro|Íthrola Sémrothnde]], whose domain lies three days' ride from Álira's cottage, has heard extraordinary tales of a toymaker who captures the essence of her daughter's nightmares and transforms them into beloved companions. The Countess has commissioned a suite of twelve figures representing the months of the year, each accompanied by a cryptic instruction. As Álira researches ancient festival traditions to get them right, she discovers her commission may be connected to a dark family curse, and the toys themselves may be ritual anchors. Completing this work could either break the curse or bind it more tightly—and completing it will demand she venture into territories both geographical and magical that terrify her.
+: The young Countess [[being-ithrolasemro|Íthrola]], whose domain lies three days' ride from Álira's cottage, has heard extraordinary tales of a toymaker who captures the essence of her daughter's nightmares and transforms them into beloved companions. The Countess has commissioned a suite of twelve figures representing the months of the year, each accompanied by a cryptic instruction. As Álira researches ancient festival traditions to get them right, she discovers her commission may be connected to a dark family curse, and the toys themselves may be ritual anchors. Completing this work could either break the curse or bind it more tightly—and completing it will demand she venture into territories both geographical and magical that terrify her.
 
 The Enchanter's Apprentice
-: A mysterious wanderer named **[Selon Brightheart]{.name data-type="being/npc"}** arrives at Álira's workshop, claiming to be an apprentice enchanter seeking to learn the principles of physical craft to complement magical theory. In exchange for knowledge about the subtle art of animate objects, Selon hints they can teach Álira to infuse her toys with true animation—a technique that would revolutionize her work. Yet Selon's past is shadowed, and their former master, **the Sorcerer [[being-nyevasaurtha|Nyevasa Úrthavnde]]**, has been destroying enchanted objects throughout the realm, seemingly hunting for something specific. Selon may be a true ally, or bait to draw Álira into a conflict that could destroy her life's work.
+: A mysterious wanderer named **[Selon Brightheart]{.name data-type="being/npc"}** arrives at Álira's workshop, claiming to be an apprentice enchanter seeking to learn the principles of physical craft to complement magical theory. In exchange for knowledge about the subtle art of animate objects, Selon hints they can teach Álira to infuse her toys with true animation—a technique that would revolutionize her work. Yet Selon's past is shadowed, and their former master, **the Sorcerer [[being-nyevasaurtha|Nyevasa]]**, has been destroying enchanted objects throughout the realm, seemingly hunting for something specific. Selon may be a true ally, or bait to draw Álira into a conflict that could destroy her life's work.
 
 The Stolen Commission
 : A wealthy nobleman contracts Álira for an elaborate mechanical toy—a silver bird that sings and dances—offering an unprecedented fee. Before completion, the piece is stolen by a master thief operating in the Kingdom. The noble blames Álira for the loss and demands either a replacement at no cost or compensation she cannot afford. Desperate, Álira discovers the thief was hired to steal it for a competing artisan in a distant city. The theft spirals into a dangerous game of intrigue, forgery, and dangerous secrets that forces Álira to choose between her reputation and her conscience.

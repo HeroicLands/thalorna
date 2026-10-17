@@ -16,7 +16,7 @@ A member is put out by his order's own council or chapter—the [Council of Hand
 
 ## How the Law Treats a Person Here
 
-No house of the order will receive him again: the network of hospitality that let a sworn brother cross the [[place-nrdlndsrgn|Nordlands Region]] on his order's name is closed to him absolutely, and no chapter elsewhere in the order may reopen it without the same body that closed it.
+No house of the order will receive him again: the network of hospitality that let a sworn brother cross the [[place-nrdlndsrgn|Nordlands]] on his order's name is closed to him absolutely, and no chapter elsewhere in the order may reopen it without the same body that closed it.
 
 ## Privileges
 

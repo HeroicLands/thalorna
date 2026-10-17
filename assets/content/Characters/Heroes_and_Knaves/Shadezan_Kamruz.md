@@ -422,7 +422,7 @@ sohl:
 
 ![[shadznkmrz|Shadezan Kamruz]]{float=top-left}
 
-Shadezan Kamruz stands 6'5" tall with a heavy build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a narrow chin, well-defined lips, dark brows, and angular cheeks.
+Shadezan stands 6'5" tall with a heavy build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a narrow chin, well-defined lips, dark brows, and angular cheeks.
 
 # Dossier {#dossier}
 
@@ -430,13 +430,13 @@ Shadezan Kamruz stands 6'5" tall with a heavy build. He has tanned ruddy skin, d
 
 ### Rise to Power
 
-Shadezan was born forty-nine years ago into the [Kamruz Clan]{.name data-type="affiliation/polity"}, one of the mid-tier tribes in the [[affiliation-dunhartrbs|Dunhara Tribes]] confederation. His father, a capable warrior named [Krezech Kamruz]{.name data-type="being/npc"}, was respected but not feared, and the clan held only modest territory and influence. Young Shadezan grew up hearing stories of the great chieftains of old and resolved early to become greater than his father, to expand the Kamruz holdings and establish his bloodline as one of supreme authority. His mother, a shaman named [[being-tavurakamruz|Tavura Kamruz]], blessed him with rituals dedicated to [[lore-bahramisdty|Báhramis]], the god of storms, asking the deity to bless her son with strength and fury.
+Shadezan was born forty-nine years ago into the [Kamruz Clan]{.name data-type="affiliation/polity"}, one of the mid-tier tribes in the [[affiliation-dunhartrbs|Dunhara Tribes]] confederation. His father, a capable warrior named [Krezech Kamruz]{.name data-type="being/npc"}, was respected but not feared, and the clan held only modest territory and influence. Young Shadezan grew up hearing stories of the great chieftains of old and resolved early to become greater than his father, to expand the Kamruz holdings and establish his bloodline as one of supreme authority. His mother, a shaman named [[being-tavurakamruz|Tavura]], blessed him with rituals dedicated to [[lore-bahramisdty|Báhramis]], the god of storms, asking the deity to bless her son with strength and fury.
 
 At sixteen, Shadezan participated in his first raid against a neighboring tribe. He fought with such ferocity and skill that his name was sung in celebration fires. Within five years, he had participated in countless skirmishes and won every duel he fought. He ascended to leadership of the Kamruz clan at twenty-seven when his father fell in battle against the rival [Soltrev Clan]{.name data-type="affiliation/polity"}, and immediately began an aggressive policy of expansion. Over the next two decades, Shadezan conquered or subjugated five neighboring tribes, binding them to the Kamruz banner through superior martial prowess and the legitimacy of strength.
 
 ### Consolidation and Current Rule
 
-Now at forty-nine, Shadezan rules a confederation of tribes that controls a vast territory of the [[place-dunharargn|Dunhara Region]]. His rule has brought stability of a sort—the constant raiding and feuding that characterized the tribes before his rise have diminished, replaced by organized military campaigns and clear hierarchies. However, his method of governance has increasingly relied on fear and direct domination rather than consensus or negotiation. His younger sons vie for position, and his rivals grow bolder, sensing that the aging chieftain may not maintain his grip forever. His recent decisions have become more aggressive and less calculated, leading some to whisper that perhaps age is finally catching up with the great Shadezan Kamruz.
+Now at forty-nine, Shadezan rules a confederation of tribes that controls a vast territory of the [[place-dunharargn|Dunhara region]]. His rule has brought stability of a sort—the constant raiding and feuding that characterized the tribes before his rise have diminished, replaced by organized military campaigns and clear hierarchies. However, his method of governance has increasingly relied on fear and direct domination rather than consensus or negotiation. His younger sons vie for position, and his rivals grow bolder, sensing that the aging chieftain may not maintain his grip forever. His recent decisions have become more aggressive and less calculated, leading some to whisper that perhaps age is finally catching up with the great Shadezan Kamruz.
 
 ## Psyche
 
@@ -497,17 +497,17 @@ His Own Kamruz Clan Warriors
 : The primary patrons who depend on Shadezan for leadership, protection, and the opportunity to gain glory through expansion. They view him as the model of tribal virtue.
 
 [Shamanic Council]{.name data-type="affiliation"}
-: The spiritual leaders of the tribes consult with Shadezan on matters affecting all [[lore-dunhariclt|Dunhari]] people, and they perform rituals in his name to invoke Báhramis's blessing on his campaigns.
+: The spiritual leaders of the tribes consult with Shadezan on matters affecting all [[lore-dunhariclt|Dunhara]] people, and they perform rituals in his name to invoke Báhramis's blessing on his campaigns.
 
 ### Enemies
 
-Chieftain [[being-mahvaradparv|Mahvarad Parvaran]] of the Soltrev Clan
+Chieftain [[being-mahvaradparv|Mahvarad]] of the Soltrev Clan
 : Leader of one of the clans that Shadezan defeated, Mahvarad harbors deep resentment and plots constant rebellion. He seeks alliances with other displaced chieftains to overthrow Shadezan's rule.
 
 [The Merchant Coalition of the Northern Trade Routes]{.name data-type="affiliation"}
 : The merchant republics beyond the Dunhara territories view Shadezan's expansion as a threat to their trade and have begun funding his rivals and providing weapons to rebel tribes.
 
-Warlord [[being-khavarivarak|Khavari Varakan]] the Sorcerer
+Warlord [[being-khavarivarak|Khavari]] the Sorcerer
 : A rival warrior who rules lands adjacent to Shadezan's territory. Khavari uses magical power rather than pure physical strength, which Shadezan views as cowardly. Their conflicting approaches to warfare have led to several bitter confrontations.
 
 ### Affiliations
@@ -518,7 +518,7 @@ Kamruz Clan
 The Warrior's Circle
 : An ancient organization of elite warriors across the Dunhara tribes, meeting quarterly to discuss matters of mutual concern and occasionally coordinating large campaigns.
 
-[[affiliation-strmcltsbhrms|The Storm Cults of Báhramis]]
+[[affiliation-strmcltsbhrms|The Storm Cults]]
 : Followers of Báhramis recognize Shadezan as a chosen vessel of the storm god, and various religious groups seek his patronage and blessing.
 
 ## Plot Hooks

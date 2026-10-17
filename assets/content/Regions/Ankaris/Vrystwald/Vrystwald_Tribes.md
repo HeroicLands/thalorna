@@ -88,13 +88,13 @@ Nothing solidly organized sits above a village. Varokh generally distrust other 
 
 ## Character
 
-The Varokh descend from the [[lore-pelwarpepl|Pelwar People]], the stock the Vylarians, the Élavendri and the Nordmen also come from, and from the [Varkhad]{.name data-type="lore/folk"} who took the forest from them two thousand years ago. The Varokh, however, never settled into cities or kingdoms. They remained in the forests, living as hunters, herders, and seasonal farmers in the clearings.
+The Varokh descend from the [[lore-pelwarpepl|Pelwar]], the stock the Vylarians, the Élavendri and the Nordmen also come from, and from the [Varkhad]{.name data-type="lore/folk"} who took the forest from them two thousand years ago. The Varokh, however, never settled into cities or kingdoms. They remained in the forests, living as hunters, herders, and seasonal farmers in the clearings.
 
-[[place-vrystwald|Vristwald]]'s frontier with the [[affiliation-provncmktr|Province of Moktur]] is the Vylarian Empire's most persistent military problem. Varokh raiding parties strike south into imperial territory for cattle, weapons, and slaves, then disappear back into forests that the legions cannot effectively patrol. The empire has tried everything—punitive expeditions, frontier forts, alliances with friendly chiefs, resettlement schemes—but the forest always wins.
+The [[place-vrystwald|Vristwald]]'s frontier with [[affiliation-provncmktr|Moktur province]] is the Vylarian Empire's most persistent military problem. Varokh raiding parties strike south into imperial territory for cattle, weapons, and slaves, then disappear back into forests that the legions cannot effectively patrol. The empire has tried everything—punitive expeditions, frontier forts, alliances with friendly chiefs, resettlement schemes—but the forest always wins.
 
 ## Commerce and Currency
 
-The Vristwald Tribes use the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Bit) as their _de facto_ currency for transactions conducted in money—no native coin exists, and no chapters of [[affiliation-danvar|The Danvar]] operate in Vristwald. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|clan credit]] customs that have no relationship with the Vylarian banking system.
+The Vristwald Tribes use the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Bit) as their _de facto_ currency for transactions conducted in money—no native coin exists, and no chapters of [[affiliation-danvar|the Danvar]] operate in Vristwald. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|clan credit]] customs that have no relationship with the Vylarian banking system.
 
 ## See Also
 

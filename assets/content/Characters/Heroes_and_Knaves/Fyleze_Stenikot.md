@@ -418,7 +418,7 @@ sohl:
 
 ![[fylzstnkt|Fileze Stenikot]]{float=top-left}
 
-Fileze Stenikot stands 5'10" tall with a medium build. She has sun-tanned skin, brown hair, and green eyes. Her features include an oval face, a strong nose, a sharp jawline, well-defined lips, arched brows, hollow cheeks.
+Fileze stands 5'10" tall with a medium build. She has sun-tanned skin, brown hair, and green eyes. Her features include an oval face, a strong nose, a sharp jawline, well-defined lips, arched brows, hollow cheeks.
 
 # Dossier {#dossier}
 
@@ -479,7 +479,7 @@ Emotional Exhaustion
 ### Patrons
 
 [The Village Council of Marshfeld]{.name data-type="affiliation/governmental"}
-: An agrarian community in [[place-marshfeld|Marshfeld]] that hires Fileze annually to protect against bandits and raiders. **Elder Magistrate [[being-razaagorikot|Raza Agorikot]]** has become a mentor figure, offering wisdom and support.
+: An agrarian community in [[place-marshfeld|Marshfeld]] that hires Fileze annually to protect against bandits and raiders. **Elder Magistrate [[being-razaagorikot|Raza]]** has become a mentor figure, offering wisdom and support.
 
 Lady [[being-tulvazeameli|Tulvazea Melitakit]]
 : A noblewoman of conscience who uses her influence to connect Fileze with communities in need of protection. She asks only that Fileze help those who cannot afford formal mercenary rates.

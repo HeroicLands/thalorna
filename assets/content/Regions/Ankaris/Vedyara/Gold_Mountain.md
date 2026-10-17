@@ -8,7 +8,7 @@ tags: [mountain, mining, sacred, inland]
 data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
-The **Gold Mountain**—_suvorna_ (gold), _girva_ (mountain)—stands at the head of [[place-bharavarivr|The Bharava]], and the janapoda, the temple-seat and the whole constitutional apparatus below it are named for it. The gold is alluvial. It comes out of the wash of the mountain's streams and not out of a shaft, and it has come out of them at much the same rate for fifteen centuries.
+The **Gold Mountain**—_suvorna_ (gold), _girva_ (mountain)—stands at the head of [[place-bharavarivr|the Bharava]], and the janapoda, the temple-seat and the whole constitutional apparatus below it are named for it. The gold is alluvial. It comes out of the wash of the mountain's streams and not out of a shaft, and it has come out of them at much the same rate for fifteen centuries.
 
 ## The Panning Grounds
 
@@ -18,7 +18,7 @@ The upper slopes carry the janapoda's observation posts and nothing else. The gr
 
 ## The Streams That Yield and the One That Does Not
 
-Every stream off the mountain is panned but one. [[place-rasikarastrm|The Rasikara Stream]] on the back slope yields no gold, panning in it is forbidden by tradition, and the shrine at its head is the acknowledgment that not all of the mountain belongs to the goddess who, in the local teaching, holds the rest of it.
+Every stream off the mountain is panned but one. [[place-rasikarastrm|The Rasikara stream]] on the back slope yields no gold, panning in it is forbidden by tradition, and the shrine at its head is the acknowledgment that not all of the mountain belongs to the goddess who, in the local teaching, holds the rest of it.
 
 Three great temples ring the lower slopes at the three principal stream-confluences, one at each, and the weighing-station stands beside the treasury in the middle of the three.
 
@@ -26,4 +26,4 @@ Three great temples ring the lower slopes at the three principal stream-confluen
 
 - [[place-bharavarivr|The Bharava]] · [[place-suvarnagiri|Suvarnageri]]
 - [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the temple-republic the gold pays for
-- [[place-weighingstn|The Weighing-Station]] · [[place-rasikarastrm|The Rasikara Stream]]
+- [[place-weighingstn|The Weighing-Station]] · [[place-rasikarastrm|the Rasikara Stream]]

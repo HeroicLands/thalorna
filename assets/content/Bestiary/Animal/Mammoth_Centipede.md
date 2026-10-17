@@ -191,7 +191,7 @@ The stair cut into the side of the sinkhole is wet, and the light from above giv
 
 # Dossier {#dossier}
 
-The Mammoth Centipede is a predatory centipede five to eight feet long and about a hundred pounds in weight, armored in dark overlapping plates, with venomous fangs at the front and dozens of clawed legs. It lives in dark, damp, enclosed places, and its great home is the limestone country of [[place-kankulrgn|K'ankul Region]], where the ground is honeycombed with caves, underground rivers and the sacred pools (_ch'uqil_) that open them to the sky. It hunts by touch and vibration in total darkness, takes bats, fish, lizards and anything else it can bite, and holds what it has bitten in its coils until it stops moving. It is one of the dangers of going down into a sacred pool, and the priests who go down know it well.
+The Mammoth Centipede is a predatory centipede five to eight feet long and about a hundred pounds in weight, armored in dark overlapping plates, with venomous fangs at the front and dozens of clawed legs. It lives in dark, damp, enclosed places, and its great home is the limestone country of [[place-kankulrgn|K'ankul]], where the ground is honeycombed with caves, underground rivers and the sacred pools (_ch'uqil_) that open them to the sky. It hunts by touch and vibration in total darkness, takes bats, fish, lizards and anything else it can bite, and holds what it has bitten in its coils until it stops moving. It is one of the dangers of going down into a sacred pool, and the priests who go down know it well.
 
 ## Presentation
 

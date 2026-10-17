@@ -19,7 +19,7 @@ sohl:
 #   name: Fumebomb
 ---
 
-The Choking Veil is a thick, murky greenish-gray liquid that emits a faint chemical reek even through sealed glass, bound to the Principle of Smoke ([[affiliation-pyrethos|Pirethos]]). Like its volatile sibling [[concoctiongear-elxerp|Pirethos's Wrath]], Fumebomb is designed to be hurled, not drunk. When the vial's container is smashed—whether lobbed at enemies, thrown against a barrier, or dashed to the ground—it erupts in a billowing cloud of choking, acrid smoke that spreads in a ten-foot diameter and blocks line of sight for one round before dissipating.
+The Choking Veil is a thick, murky greenish-gray liquid that emits a faint chemical reek even through sealed glass, bound to the Principle of Smoke ([[affiliation-pyrethos|Pirethos]]). Like its volatile sibling [[concoctiongear-elxerp|Eruption]], Fumebomb is designed to be hurled, not drunk. When the vial's container is smashed—whether lobbed at enemies, thrown against a barrier, or dashed to the ground—it erupts in a billowing cloud of choking, acrid smoke that spreads in a ten-foot diameter and blocks line of sight for one round before dissipating.
 
 Any creature caught within the smoke cloud at the moment of detonation must make a Shock Roll with a penalty equal to Aural Shock multiplied by five. Success results in Stun; Failure yields Incapacitation; Critical Failure causes Unconsciousness. Those who recover from the shock follow the standard Injury Sequence progression. Swallowing Fumebomb triggers Crucial Alchemical Dissolution, burning away the imbiber's insides as the acrid fumes consume them from within—only the foolish or suicidal drink it.
 

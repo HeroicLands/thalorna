@@ -401,7 +401,7 @@ Bashimuya Telmuni is a 47-year-old woman who stands 5'6" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel Region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Bashimuya Telmuni came into the world of the chandler through a combination of circumstance and aptitude.
+Born in the [[place-taruzelrgn|Taruzel region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Bashimuya Telmuni came into the world of the chandler through a combination of circumstance and aptitude.
 
 Bashimuya has been making candles for over twenty years in her small village. She learned the craft from her mother and now runs a small shop, supplying candles to the local community and nearby towns. Bashimuya takes pride in her work, using only the best tallow and beeswax, and her candles are known for their quality and long burn times.
 

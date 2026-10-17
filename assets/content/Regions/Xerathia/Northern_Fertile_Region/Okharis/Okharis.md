@@ -81,7 +81,7 @@ The three great temple-cities—[[place-zarhanis|Zarhanis]], [[place-kaljekor|Ka
 ## Challenges
 
 - There are whispers of rising tensions between Kaljekor and Vuthraka, as trade wealth fuels Kaljekor's ambitions while Vuthraka demands more resources for defense.
-- [[being-takorozanethar|Tákoro Zanethar]] must navigate these challenges while ensuring that the rural tribes, who often feel neglected, do not rebel or seek autonomy.
+- [[being-takorozanethar|Tákoro]] must navigate these challenges while ensuring that the rural tribes, who often feel neglected, do not rebel or seek autonomy.
 
 ## Central Religion
 
@@ -105,4 +105,4 @@ Demi-gods, tied to specific aspects of life (e.g., fertility, storms, or death),
 
 ## Commerce and Currency
 
-Okharis uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]—temple-attested weight-pieces of copper, silver, and gold in gezan and qelu units. Okharis has no native coinage; the Khelathi pieces serve as the standard medium of exchange. Credit and large-value commerce flow through [[affiliation-crwntrdskhrs|The Crown Trades of Okharis]], whose Crown Moneylenders maintain correspondent accounts with [[affiliation-garhalzi|Gar-Hálzi]] chapters and issue letters of credit redeemable through those accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full monetary system and [[affiliation-crwntrdskhrs|The Crown Trades of Okharis]] for the Okhárian institutional arrangements.
+Okharis uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]—temple-attested weight-pieces of copper, silver, and gold in gezan and qelu units. Okharis has no native coinage; the Khelathi pieces serve as the standard medium of exchange. Credit and large-value commerce flow through [[affiliation-crwntrdskhrs|the crown-chartered trades]], whose Crown Moneylenders maintain correspondent accounts with [[affiliation-garhalzi|Gar-Hálzi]] chapters and issue letters of credit redeemable through those accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full monetary system and [[affiliation-crwntrdskhrs|the Crown Trades of Okharis]] for the Okhárian institutional arrangements.

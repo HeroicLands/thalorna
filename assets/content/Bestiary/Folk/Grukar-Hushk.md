@@ -393,7 +393,7 @@ A Grukar-Hushk is a slab of corded muscle over thick, heavy bone, dense enough t
 
 ## In the Land
 
-Every Grukar tribe has its Hushk, one or two at a time and seldom more, in [[place-grkrhlmrgn|Grukarholm Region]], in the eastern [[place-vrystwald|Vristwald]], on [[place-targud|Targud]]'s burned eastern border, and in the empty interior of [[place-aelwyth|Aelwyth]]. The Hushk leads the raids that come out of those places, at the head of its Uk. It is the Hushk, more than any other Grukar, that the frontier peoples remember. In [[lore-burningeast|The Burning of the East]], which laid waste Targud's eastern districts from 604 to 614 AF, a [[being-grkrsh|Grukar-Sha]] did the planning, and a Hushk led what the Sha planned.
+Every Grukar tribe has its Hushk, one or two at a time and seldom more, in [[place-grkrhlmrgn|Grukarholm]], in the eastern [[place-vrystwald|Vristwald]], on [[place-targud|Targud]]'s burned eastern border, and in the empty interior of [[place-aelwyth|Aelwyth]]. The Hushk leads the raids that come out of those places, at the head of its Uk. It is the Hushk, more than any other Grukar, that the frontier peoples remember. In [[lore-burningeast|the Burning of the East]], which laid waste Targud's eastern districts from 604 to 614 AF, a [[being-grkrsh|Sha]] did the planning, and a Hushk led what the Sha planned.
 
 ## Key Behaviors
 
@@ -401,7 +401,7 @@ A Hushk recognizes one law, that the strong rule and the weak serve or die. With
 
 ## What the Watch Does
 
-Commanders who face Grukar learn first to find the Hushk, because the Hushk is the warband. The Uk do not stand once their Hushk is dead, and a raiding party whose Hushk has been killed is a crowd of Grukar running home. Frontier levies in [[place-auldalon|Áuldalon]] and [[place-wyndmarch|The Wyndmarch]] of [[place-aldorathrgn|Aldorath Region]] keep their best spearmen and their crossbows for the big one. They learn the second lesson too: a warband with two Hushk in it is a civil war waiting for an excuse, and a commander who can give the Hushk that excuse, a wound, a retreat that looks like cowardice, a captured standard, may see them settle it themselves. A lone Hushk, with no rival to provoke, will sometimes stop to look at a warrior who stands his ground without fear, before it kills him.
+Commanders who face Grukar learn first to find the Hushk, because the Hushk is the warband. The Uk do not stand once their Hushk is dead, and a raiding party whose Hushk has been killed is a crowd of Grukar running home. Frontier levies in [[place-auldalon|Áuldalon]] and [[place-wyndmarch|the Wyndmarch]] of [[place-aldorathrgn|Aldorath Region]] keep their best spearmen and their crossbows for the big one. They learn the second lesson too: a warband with two Hushk in it is a civil war waiting for an excuse, and a commander who can give the Hushk that excuse, a wound, a retreat that looks like cowardice, a captured standard, may see them settle it themselves. A lone Hushk, with no rival to provoke, will sometimes stop to look at a warrior who stands his ground without fear, before it kills him.
 
 ## Signs
 

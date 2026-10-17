@@ -86,11 +86,11 @@ data:
       unresolved: [how Dorgulf died, "how many fragments there were, and how many are still kept"]
 ---
 
-Every Vylarian officer posted to [[place-moktur|Moktur]] learns the forest's name for the [[place-moldunriver|Moldún River]]'s ford before he learns the passes: [[place-skathhreth|Skathhreth]], the harm ford. The Loss of the Legion at Skathhreth came in 291, when the largest force the [[affiliation-vylarinmpr|Vylarian Empire]] ever sent into [[place-vrystwald|Vristwald]] marched to the ford and almost none of it came back. The Varokh remember the battle for what it proved and the winter after it for what it nearly cost them.
+Every Vylarian officer posted to [[place-moktur|Moktur]] learns the forest's name for the [[place-moldunriver|Moldún River]]'s ford before he learns the passes: [[place-skathhreth|Skathhreth]], the harm ford. The Loss of the Legion at Skathhreth came in 291, when the largest force the [[affiliation-vylarinmpr|Empire]] ever sent into [[place-vrystwald|Vristwald]] marched to the ford and almost none of it came back. The Varokh remember the battle for what it proved and the winter after it for what it nearly cost them.
 
 ## The March to Waldburg
 
-By the end of the second century AF [[lore-legionsroad|The Legions' Road]] ran north out of Moktur through [[place-vandstein|Vandstein]] with a post at every day's march, and the friendly chiefs the _therkoi_ (governors) had bought had been disowned by their own villages one after another. The raids on the road did not stop. In the late summer of 291 a legion of about five thousand marched up it to burn [[place-waldburg|Waldburg]], the river crossing where the raiders sold what they took, and to end the raids where they were paid for.
+By the end of the second century AF [[lore-legionsroad|the Legions' Road]] ran north out of Moktur through [[place-vandstein|Vandstein]] with a post at every day's march, and the friendly chiefs the _therkoi_ (governors) had bought had been disowned by their own villages one after another. The raids on the road did not stop. In the late summer of 291 a legion of about five thousand marched up it to burn [[place-waldburg|Waldburg]], the river crossing where the raiders sold what they took, and to end the raids where they were paid for.
 
 The villages along the road did something they had never done. Their elders met, agreed that the danger was common to all of them, and acclaimed one War Chief for the response: **[Dorgulf yra Grimskorn wur Thrastein]{.name data-type="being/npc"}**, War Chief of [[place-thrastein|Thrastein]], whose village the road ran past. It was the first common muster anyone can name. Dorgulf did not meet the legion on the road. He let it march, burned what it left behind it, and kept his war-bands in the trees on either side of the column for nine days.
 
@@ -117,7 +117,7 @@ The tellings disagree about what became of him, and the Varokh keep all three:
 - **[[place-skathhreth|Skathhreth]].** The thinnest blood-field in the forest, upstream of which Vylarian loggers are felling the [Garskald]{.name data-type="affiliation/lineage"}'s sacred trees without knowing what the ford is.
 - **The eagle in the river.** Moktur has wanted it back for four centuries, and a _Lusar_ who raised it would make a career.
 - **The Sundered Talisman.** Fragments kept by village elders across the forest, laid together at Waldburg when a common War Chief is acclaimed. Some villages' fragments have been lost, traded or stolen in four hundred winters, and nobody has ever counted how many remain.
-- **The rule.** The forest's suspicion of any War Chief whose renown outgrows his village. [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]]'s ambition to rally the villages against [[affiliation-sonsmuspell|The Sons of Eldheim]] is measured against Dorgulf's winter by every elder who hears it.
+- **The rule.** The forest's suspicion of any War Chief whose renown outgrows his village. [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]]'s ambition to rally the villages against [[affiliation-sonsmuspell|the Sons of Eldheim]] is measured against Dorgulf's winter by every elder who hears it.
 
 ## See Also
 

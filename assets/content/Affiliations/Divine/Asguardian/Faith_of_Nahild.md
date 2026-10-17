@@ -58,7 +58,7 @@ What follows is what the cult's own accounts claim for it.
 
 [[lore-nahilddty|Nahild]] is the goddess of the dead and of [[place-nulthey|Nulthey]], and she holds a deep contempt for life. She counts existence a blight on the cosmos and works to bring all creation to chaos and ruin. The other faiths teach that she does not torment the unworthy dead who dwindle on Nulthey but is simply indifferent to them; her contempt is for the living.
 
-She draws on [[lore-ginnauga|Ginnauga]], the Eye of the Void, a primordial artifact of raw corruption from which flows [[lore-theshadow|The Shadow]], a chaos from outside creation that corrupts whatever it touches, mortal or divine. The need to gaze into the Eye drives her further into madness, and its influence corrupts everything near it, releasing a caustic shadow of dread and hopelessness into the mortal world. Images show her as a ghastly figure with eyes burning with a baleful light and a morbid grin fixed on her face, with the Eye hung around her neck, the source of her strength and the symbol of her hatred of the living.
+She draws on [[lore-ginnauga|Ginnauga]], the Eye of the Void, a primordial artifact of raw corruption from which flows [[lore-theshadow|the Shadow]], a chaos from outside creation that corrupts whatever it touches, mortal or divine. The need to gaze into the Eye drives her further into madness, and its influence corrupts everything near it, releasing a caustic shadow of dread and hopelessness into the mortal world. Images show her as a ghastly figure with eyes burning with a baleful light and a morbid grin fixed on her face, with the Eye hung around her neck, the source of her strength and the symbol of her hatred of the living.
 
 ## What Her Followers Do
 

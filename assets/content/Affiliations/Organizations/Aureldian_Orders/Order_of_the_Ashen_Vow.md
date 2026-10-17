@@ -61,11 +61,11 @@ Region
 
 ## Overview
 
-The Order of the Ashen Vow is the largest organized fighting body of [[affiliation-blackflame|The Black Flame]]. Its members are sworn to a particular reading of [[lore-ustarondty|Ústaron]]'s nature—that the god's true aspect is the purifying conflagration that destroys what no other remedy can cleanse, that mercy without strength is surrender, and that fire does not ask permission to burn. They take this doctrine as a personal vow. A Sworn Brother of the Ashen Vow has, at his initiation, bound himself to a life in service to the purifying flame: to find what cannot be redeemed and burn it, to find what has compromised the faith and cleanse it, to find what other authorities have tolerated for reasons of expediency and remove the tolerance.
+The Order of the Ashen Vow is the largest organized fighting body of [[affiliation-blackflame|the Black Flame]]. Its members are sworn to a particular reading of [[lore-ustarondty|Ústaron]]'s nature—that the god's true aspect is the purifying conflagration that destroys what no other remedy can cleanse, that mercy without strength is surrender, and that fire does not ask permission to burn. They take this doctrine as a personal vow. A Sworn Brother of the Ashen Vow has, at his initiation, bound himself to a life in service to the purifying flame: to find what cannot be redeemed and burn it, to find what has compromised the faith and cleanse it, to find what other authorities have tolerated for reasons of expediency and remove the tolerance.
 
-The targets of the order's purifying work are, in order of doctrinal priority: corruption within [[affiliation-sacredforge|The Sacred Forge]] itself (the Sacred Forge clergy who have, in the Black Flame view, abandoned Ústaron's true nature for a comfortable orthodoxy), foreign heresies (the orders of other Aureldian deities, the [[affiliation-asguardian|Asguardian Pantheon]]'s incursions, the Vylarian imperial faiths, the eastern paths), and finally those of any faith who are deemed beyond redemption. The doctrine is severe in principle and, in practice, more severe still: the determination of who is beyond redemption is made by the order's senior brothers, and the determination is final.
+The targets of the order's purifying work are, in order of doctrinal priority: corruption within [[affiliation-sacredforge|the Sacred Forge]] itself (the Sacred Forge clergy who have, in the Black Flame view, abandoned Ústaron's true nature for a comfortable orthodoxy), foreign heresies (the orders of other Aureldian deities, the [[affiliation-asguardian|Asguardian Pantheon]]'s incursions, the Vylarian imperial faiths, the eastern paths), and finally those of any faith who are deemed beyond redemption. The doctrine is severe in principle and, in practice, more severe still: the determination of who is beyond redemption is made by the order's senior brothers, and the determination is final.
 
-The Sacred Forge orthodoxy regards the Order of the Ashen Vow as among the most dangerous heresies in Aureldian lands. The Aureldian Crowns, with the qualified exception of the [[place-tarvenirgn|Tarvénia Region]]'s hill-baronies (where local nobles have, for political reasons, declined to suppress Black Flame influence), maintain standing orders for the order's suppression. [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) is, on paper, committed to the same. The order operates through cellular secrecy and the protection of a small number of sympathetic noble houses; it is suppressed periodically and has, periodically, surged back when the suppression has lapsed.
+The Sacred Forge orthodoxy regards the Order of the Ashen Vow as among the most dangerous heresies in Aureldian lands. The Aureldian Crowns, with the qualified exception of the [[place-tarvenirgn|Tarvénia Region]]'s hill-baronies (where local nobles have, for political reasons, declined to suppress Black Flame influence), maintain standing orders for the order's suppression. The [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) is, on paper, committed to the same. The order operates through cellular secrecy and the protection of a small number of sympathetic noble houses; it is suppressed periodically and has, periodically, surged back when the suppression has lapsed.
 
 ## Membership and Structure
 
@@ -97,7 +97,7 @@ Combat doctrine emphasizes incendiary tactics, the use of alchemical fire-throwe
 ## Notable Cells
 
 - **[The Ólvestran Cell]{.name data-type="affiliation"}** (Tarvénia)—the largest single cell; operates under the protection of the hill-baronies; commanded by Elder [Drogo of the Sealed Forge]{.name data-type="being/npc"} (a name taken at initiation; the brother's birth name is no longer used).
-- **[The Péravel Shadow-Cell]{.name data-type="affiliation"}** ([[place-elavendre|Élavendre]])—the most exposed cell; operates against direct suppression by the Sacred Forge and [[affiliation-bardicolgs|The Bardic Colleges]] (the Bardic Circle); smaller and more guarded than the Tarvénian operations.
+- **[The Péravel Shadow-Cell]{.name data-type="affiliation"}** ([[place-elavendre|Élavendre]])—the most exposed cell; operates against direct suppression by the Sacred Forge and [[affiliation-bardicolgs|the Bardic Colleges]] (the Bardic Circle); smaller and more guarded than the Tarvénian operations.
 - **Various dispersed cells** in the rural Provenzian highlands, the Aelwythan coast, and the Tarvénian frontier.
 
 ## Relations
@@ -108,10 +108,10 @@ The [[affiliation-sacredforge|Sacred Forge]]
 [[affiliation-ironcinder|The Iron Cinder]]
 : sister Black Flame order. The two orders coordinate; the Ashen Vow handles long-term theological and personnel purification, while the Iron Cinder handles immediate strike work. The relationship is cooperative but not without internal tension over priorities.
 
-[[affiliation-ordrsldwrd|The Order of the Sealed Word]] and [[affiliation-twinbldrdr|The Twinblade Order]]
+[[affiliation-ordrsldwrd|The Order of the Sealed Word]] and [[affiliation-twinbldrdr|Twinblade Order]]
 : sworn enemies; the Árdavon orders maintain standing arrangements with the Sacred Forge for the suppression of Ashen Vow activity in their territories.
 
-The [[affiliation-alndnwrdns|Áelendan Wardens]] and [[affiliation-groveconcl|The Grove Council]]
+The [[affiliation-alndnwrdns|Áelendan Wardens]] and [[affiliation-groveconcl|the Grove Council]]
 : the order has limited engagement with the Élavendren native institutions, which it regards as theologically separate and not its primary concern; the Wardens regard the order as a threat to the [Kindred Pact]{.name data-type="lore/law"} when its operations brush against fae-touched territory.
 
 The Aureldian Crowns

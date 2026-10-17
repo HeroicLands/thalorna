@@ -246,7 +246,7 @@ The string of camels comes over the dune-crest one behind another, tall and rang
 
 # Dossier {#dossier}
 
-The Dromedary Camel is the one-humped camel of the hot deserts, six and a half to seven and a half feet at the shoulder and nine hundred to fourteen hundred pounds, the transport animal of [[place-dunhardsrtrgn|Dunhara Desert Region]] and the oasis cities of [[place-amradadrgn|Amradad Region]]. It is faster and more agile than the two-humped Khazryn camel but more nervous and more aggressive, and less able to stand cold or hardship. A dromedary in a bad mood spits, kicks and bites. Caravans depend on it across the wide deserts.
+The Dromedary is the one-humped camel of the hot deserts, six and a half to seven and a half feet at the shoulder and nine hundred to fourteen hundred pounds, the transport animal of [[place-dunhardsrtrgn|Dunhara]] and the oasis cities of [[place-amradadrgn|Amradad]]. It is faster and more agile than the two-humped Khazryn camel but more nervous and more aggressive, and less able to stand cold or hardship. A dromedary in a bad mood spits, kicks and bites. Caravans depend on it across the wide deserts.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A long-legged animal with a single hump above the shoulders. The head is long an
 
 ## In the Land
 
-Dromedaries are kept in the hot deserts of Dunhara, the oasis cities of Amradad and the dry southern margin of the [[place-khzryndsrtrgn|Khazryn Desert Region]], where the cold of the northern steppe stops them. They are a herd animal: a tribe keeps a string of breeding cows, a few bulls and a number of geldings, and drives them from well to well. A camel can go several days without water and carries a load of two hundred pounds or more for twenty miles a day.
+Dromedaries are kept in the hot deserts of Dunhara, the oasis cities of Amradad and the dry southern margin of the [[place-khzryndsrtrgn|Khazryn]], where the cold of the northern steppe stops them. They are a herd animal: a tribe keeps a string of breeding cows, a few bulls and a number of geldings, and drives them from well to well. A camel can go several days without water and carries a load of two hundred pounds or more for twenty miles a day.
 
 ## Key Behaviors
 
@@ -262,7 +262,7 @@ Dromedaries live in herds, with more independence of mind than the Khazryn camel
 
 ## What the Caravans Do
 
-The tribes of [[place-dunharargn|Dunhara Region]] ride dromedaries in war and on raids and sell them to the caravans. The Amradad cities buy them for the carrying-trade along the coast. A rider sits behind the hump, controls the animal with a stick and a nose-line, and chooses a camel for its temper as well as its speed. A dromedary in rut will bite, kick and spit, and a bull is kept apart from the string. The tribes judge a man's wealth by the number of his camels. Camel milk is drunk fresh and made into cheese, and the dung is burned for fuel.
+The tribes of [[place-dunharargn|Dunhara]] ride dromedaries in war and on raids and sell them to the caravans. The Amradad cities buy them for the carrying-trade along the coast. A rider sits behind the hump, controls the animal with a stick and a nose-line, and chooses a camel for its temper as well as its speed. A dromedary in rut will bite, kick and spit, and a bull is kept apart from the string. The tribes judge a man's wealth by the number of his camels. Camel milk is drunk fresh and made into cheese, and the dung is burned for fuel.
 
 ## Signs
 

@@ -70,7 +70,7 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-Órashion is the one city of the [[affiliation-byzarianlg|Bizarian League]] where the people who make the goods have a say in how the city is run. The craft guilds control the quality and quantity of what its forges and workshops produce, and their masters sit on the city council with as much authority as the merchant-princes. About 1.6 million people live in the city-state, whose seat is [[place-orashion2|Órashion]], Blackstone, in the mountainous interior of the [[place-byzariargn|Bizaria Region]], and the others in the League regard it as the least glamorous of the five and the one they could least do without.
+Órashion is the one [[affiliation-byzarianlg|League city]] where the people who make the goods have a say in how the city is run. The craft guilds control the quality and quantity of what its forges and workshops produce, and their masters sit on the city council with as much authority as the merchant-princes. About 1.6 million people live in the city-state, whose seat is [[place-orashion2|Órashion]], Blackstone, in the mountainous interior of [[place-byzariargn|Bizaria]], and the others in the League regard it as the least glamorous of the five and the one they could least do without.
 
 ## Who Decides
 
@@ -88,7 +88,7 @@ Standing runs from the register outward. The freeman is enrolled in the city's r
 
 ## Commerce and Currency
 
-Órashion uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under [[affiliation-tevran|The Tevran Maldor]]. Órashion is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Órashion uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Órashion is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

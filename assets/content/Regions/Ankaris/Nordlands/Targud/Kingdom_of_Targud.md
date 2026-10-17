@@ -90,7 +90,7 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 Targud skalds sing a last stand as often as a victory, because the wall sees both. A bundi who comes in to [[place-tvalgard|Tvalgard]] for his first weeks on it hears the last stands first.
 
-The Kingdom of Targud holds the land of [[place-targud|Targud]], on the eastern edge of the [[place-nrdlndsrgn|Nordlands Region]], and about 300,000 people live under its crown. It is the most militaristic of the five kingdoms, its whole culture shaped by the need to defend against raids and incursions by the [[lore-grukarfolk|Grukar Folk]], and an outsider knows it for the Grukar frontier and the forts that rotate their duty along it. Its warriors are hardened by constant frontier warfare, and its fortified settlements are built for survival first and comfort second.
+The Kingdom of Targud holds the land of [[place-targud|Targud]], on the eastern edge of the [[place-nrdlndsrgn|Nordlands]], and about 300,000 people live under its crown. It is the most militaristic of the five kingdoms, its whole culture shaped by the need to defend against raids and incursions by the [[lore-grukarfolk|Grukar Folk]], and an outsider knows it for the Grukar frontier and the forts that rotate their duty along it. Its warriors are hardened by constant frontier warfare, and its fortified settlements are built for survival first and comfort second.
 
 ## How Targud Is Ruled
 
@@ -123,11 +123,11 @@ Targud's grim reputation hides one distinction: it is the kingdom with the most 
 
 ## Relations
 
-Targud lives with one fixed enemy, the Grukar of the [[place-grkrhlmrgn|Grukarholm Region]] to the east. Its dealings with the other four kingdoms are those of an equal at the table on Domsey: the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], the [[affiliation-kingdomlgn|Kingdom of Malagna]], the [[affiliation-kingdmnrgd|Kingdom of Norgaad]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] stand neither with Targud nor against it.
+Targud lives with one fixed enemy, the Grukar of [[place-grkrhlmrgn|Grukarholm]] to the east. Its dealings with the other four kingdoms are those of an equal at the table on Domsey: the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], the [[affiliation-kingdomlgn|Kingdom of Malagna]], the [[affiliation-kingdmnrgd|Kingdom of Norgaad]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] stand neither with Targud nor against it.
 
 ## Commerce and Currency
 
-Targud strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian Currency]] (ethla, ankhra and bit), and no chapter of [[affiliation-danvar|The Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored: a traveler's note or any other paper instrument has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
+Targud strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (ethla, ankhra and bit), and no chapter of [[affiliation-danvar|the Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored: a traveler's note or any other paper instrument has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
 
 ## See Also
 

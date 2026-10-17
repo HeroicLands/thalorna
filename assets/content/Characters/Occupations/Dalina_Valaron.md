@@ -401,7 +401,7 @@ Dálina Valaron is a 28-year-old woman who stands 5'9" tall and is slender. She 
 
 # Dossier {#dossier}
 
-Dálina Valaron is a pilot of [[place-durgalis|Dúrgalis]], a castle town of the [[place-tarvenirgn|Tarvénia Region]], a daughter of a [[lore-tarvenanclt|Tarvenan]] noble house who has the con of the family's cargo ship and keeps her house in the town when the ship is laid up.
+Dálina Valaron is a pilot of [[place-durgalis|Dúrgalis]], a castle town of [[place-tarvenirgn|Tarvénia]], a daughter of a [[lore-tarvenanclt|Tarvenan]] noble house who has the con of the family's cargo ship and keeps her house in the town when the ship is laid up.
 
 Dálina comes of a house that holds a small lordship at Dúrgalis and a ship at [[place-valthari|Valthari]], the free port on the southern coast, and the ship has paid for the lordship for two generations. She went aboard it at twelve because her father had no son who wanted the sea, and she has been its pilot for eight years: she sets the course, reads the coast and the sky, and brings its cargoes in whole and on the day they are due. The crews respect her, because she has never lost a man to weather she could have avoided. She has a talent for handling a crew and none for the sums, and she has made herself a nuisance to the ship-owners' council at Valthari by arguing for the crews' share and rations in a port where the owners set both.
 
@@ -421,7 +421,7 @@ A fine leader of a crew, speaks well and plainly, skilled in the stowing and han
 
 ## Social
 
-Dálina holds her license from the [Pilots' Guild of Valthari]{.name data-type="affiliation/guild"}, chartered under [[affiliation-tevran|The Tevran Maldor]], which examines every pilot who takes a ship in over the port's bar.
+Dálina holds her license from the [Pilots' Guild of Valthari]{.name data-type="affiliation/guild"}, chartered under [[affiliation-tevran|the Tevran Maldor]], which examines every pilot who takes a ship in over the port's bar.
 
 ## Companions
 

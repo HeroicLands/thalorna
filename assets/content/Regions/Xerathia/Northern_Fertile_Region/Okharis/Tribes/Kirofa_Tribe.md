@@ -59,7 +59,7 @@ sohl: {system: {commonSkills: [okharclng]}}
 
 The Kirofa Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
 [[place-kirofavlg|Kirofa Village]], one of the settled villages of
-the [[place-okharisrgn|Okharis Region]].
+[[place-okharisrgn|Okharis]].
 
 Their date palms and fig trees crowd the watered banks, and the dried fruit keeps through the hottest months and travels well to market.
 

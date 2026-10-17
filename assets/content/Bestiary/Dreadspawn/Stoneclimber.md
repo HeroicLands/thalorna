@@ -251,7 +251,7 @@ The gorge is so narrow and so deep that the sky is a strip of blue far overhead,
 
 # Dossier {#dossier}
 
-The Stoneclimber is a dreadspawn shaped like a great, low, thick-bodied lizard, twelve to sixteen feet long and about two hundred pounds, scaled like the rock it lives on and studded with crystal, which climbs sheer faces and overhangs as if they were level ground and hunts from above. It is patient, cunning and solitary, and it knows every crack and ledge of its ground. It holds a stretch of [[place-slvrgorges|The Silver Gorges]], the deep, narrow valleys on the Vedyari flank of [[place-estrnreach|The Eastern Reach]], worked for lapis and silver by hereditary smithing clans, and it takes their mules and, now and then, their men. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Stoneclimber is a dreadspawn shaped like a great, low, thick-bodied lizard, twelve to sixteen feet long and about two hundred pounds, scaled like the rock it lives on and studded with crystal, which climbs sheer faces and overhangs as if they were level ground and hunts from above. It is patient, cunning and solitary, and it knows every crack and ledge of its ground. It holds a stretch of [[place-slvrgorges|the Silver Gorges]], the deep, narrow valleys on the Vedyari flank of [[place-estrnreach|the Eastern Reach]], worked for lapis and silver by hereditary smithing clans, and it takes their mules and, now and then, their men. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -259,7 +259,7 @@ The stoneclimber is long and low, with a broad, flat, powerful body, short thick
 
 ## In the Land
 
-The Silver Gorges are steep, narrow valleys carrying lapis, silver and a little tin, and the road up them is also the road to [[place-tamradvara|Tamradvara]], the copper-door to the [[place-khzryndsrtrgn|Khazryn Desert Region]]. The stoneclimber holds a few miles of one gorge above the workings, from the river up to the rim, and patrols its walls along routes it marks with scratches and scent. It hunts the wild goats and sheep of the gorge walls, the eagles and vultures on their ledges, and the mules and men on the road below, and it lies up in a crevice high on a sunlit face. It does not come out onto the open uplands above the rim, where there is nothing to climb.
+The Silver Gorges are steep, narrow valleys carrying lapis, silver and a little tin, and the road up them is also the road to [[place-tamradvara|Tamradvara]], the copper-door to the [[place-khzryndsrtrgn|Khazryn]]. The stoneclimber holds a few miles of one gorge above the workings, from the river up to the rim, and patrols its walls along routes it marks with scratches and scent. It hunts the wild goats and sheep of the gorge walls, the eagles and vultures on their ledges, and the mules and men on the road below, and it lies up in a crevice high on a sunlit face. It does not come out onto the open uplands above the rim, where there is nothing to climb.
 
 ## Key Behaviors
 

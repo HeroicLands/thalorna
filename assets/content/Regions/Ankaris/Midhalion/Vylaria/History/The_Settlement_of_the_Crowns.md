@@ -93,13 +93,13 @@ data:
         - whether the crowns' envoys met in one hall or the Orzas received them one at a time
 ---
 
-In The Settlement of the Crowns, an Aureldian factor, handing a Vylarian clerk a traveler's note at a counting-table in [[place-orzara|Orzara City]], watches the clerk deduct the fee and write the sum in the margin. "Two in a hundred," the clerk says. "It was settled in [Azénales]{.name data-type="being/npc"}'s time and nobody has reopened it. Your king calls it [[affiliation-tevran|The Tevran Maldor]]'s charge. [[affiliation-tarmex|The Tarmeks Orzan]] calls it the Tarmeks's. Both are right, and neither will say so to the other."
+An Aureldian factor, handing a Vylarian clerk a traveler's note at a counting-table in [[place-orzara|Orzara]], watches the clerk deduct the fee and write the sum in the margin. "Two in a hundred," the clerk says. "It was settled in [Azénales]{.name data-type="being/npc"}'s time and nobody has reopened it. Your king calls it [[affiliation-tevran|the Tevran Maldor]]'s charge. [[affiliation-tarmex|The Tarmeks]] calls it the Tarmeks's. Both are right, and neither will say so to the other."
 
 ## What the Empire Had Left
 
-By the time the estates of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]] made peace ([[lore-charterwar|The War of the Charter]]), the [[affiliation-vylarinmpr|Vylarian Empire]] had been losing provinces for a century. The [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] had stopped paying in the generation after [[lore-threewinters|The Three Winters]] ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The [[affiliation-byzarianlg|Bizarian League]], annexed three centuries before ([[lore-heladeastwar|The Eastern War]]), had sworn [[lore-heladcompact|The Compact of the Five]] again and answered to no imperial officer ([[lore-heladreswear|The Re-swearing of the Compact]]). [[place-helionis|Helionis]] kept its cities' councils and had no _therkos_ (governor) it obeyed. The western crowns had armies of their own.
+By the time the estates of [[affiliation-kngdmprvnz|Provenzia]] made peace ([[lore-charterwar|The War of the Charter]]), the [[affiliation-vylarinmpr|Empire]] had been losing provinces for a century. [[affiliation-kingdmtrvn|Tarvénia]] had stopped paying in the generation after [[lore-threewinters|the Three Winters]] ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The [[affiliation-byzarianlg|Bizarian League]], annexed three centuries before ([[lore-heladeastwar|The Eastern War]]), had sworn [[lore-heladcompact|its Compact]] again and answered to no imperial officer ([[lore-heladreswear|The Re-swearing of the Compact]]). [[place-helionis|Helionis]] kept its cities' councils and had no _therkos_ (governor) it obeyed. The western crowns had armies of their own.
 
-What the Empire still had was the note system. The Tarmeks minted the coin, [[affiliation-danvar|The Danvar]] issued the notes, and the Tevran Maldor held the guilds of every city under one charter ([[lore-arzanasedict|The Edicts of Arzanas]]). Every realm that had left the Empire still banked through it.
+What the Empire still had was the note system. The Tarmeks minted the coin, [[affiliation-danvar|the Danvar]] issued the notes, and the Tevran Maldor held the guilds of every city under one charter ([[lore-arzanasedict|The Edicts of Arzanas]]). Every realm that had left the Empire still banked through it.
 
 ## The Terms
 
@@ -108,7 +108,7 @@ In the year after the [Charter of Rights]{.name data-type="lore/law"}'s peace, t
 - **Provenzia's Charter** was recognized. The Empire stopped sending _therkoi_, and the Charter's king was acknowledged in the chancery's own style.
 - **The crowns and the League** were free of imperial governance and imperial tax. They kept the Vylarian coin and the paper-script, and paid a two-percent fee on every note issued, which went to the Tarmeks.
 - **Helionis** stayed on the chancery's roll as a province. Its cities kept their own magistrates, and a legion sat in a Helionite city only where the city had asked for one by treaty. The roll names a province, and the cities govern themselves ([[place-helionis|Helionis]]).
-- **The far forts** went unpaid. A fortress commander who held a post in the [[place-heladrgn|Hellád Region]] on an imperial commission kept the post and lost the pay, and some of their heirs hold the posts still.
+- **The far forts** went unpaid. A fortress commander who held a post in the [[place-heladrgn|Hellád]] on an imperial commission kept the post and lost the pay, and some of their heirs hold the posts still.
 - **The claims the Empire could not enforce**, among them the [Kervaron Spine]{.name data-type="place/feature"}, stopped being pressed. The chancery has not raised the range with the clans since.
 
 The terms were not a defeat for the Tarmeks and were not presented as one. The crowns were told they were partners in a commonwealth, and the fee was a banker's charge.

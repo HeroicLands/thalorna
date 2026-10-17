@@ -81,7 +81,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-Shelem holds the land of the [[place-xelemrgn|Shelem Region]]. Shelem is less urbanized than the central heartland, less densely settled, less strictly governed by the hierarchies of the priesthood of the [[affiliation-itzanpnthn|Itsani Pantheon]]. Yet it is indispensable to the greater K'ich'chik world, for Shelem is the source of luxuries without which no Ts'enmah can claim true power.
+Shelem holds the land of the [[place-xelemrgn|Shelem Region]]. Shelem is less urbanized than the central heartland, less densely settled, less strictly governed by the hierarchies of the [[affiliation-itzanpnthn|Itsani priesthood]]. Yet it is indispensable to the greater K'ich'chik world, for Shelem is the source of luxuries without which no Ts'enmah can claim true power.
 
 Shelem's relationship to the greater K'ich'chik world is one of deliberate partial integration. The major river settlements maintain the forms of Itsani orthodoxy and send tribute to [[affiliation-ixilankul|Ish'ilankul]] and [[affiliation-kankul|K'ankul]], but they do so with the understanding that Shelem's real power lies in its command of the jungle and the river systems. The priesthood in Shelem has developed its own distinct practices, blending the official Itsani cosmology with the veneration of local spirits—the river dolphins that guide canoes through treacherous waters, the anacondas that are believed to bridge the world of humans and the underworld, the forest itself as a living presence worthy of sacrifice and offering.
 

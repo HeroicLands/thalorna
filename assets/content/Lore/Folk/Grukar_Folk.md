@@ -8,15 +8,15 @@ tags: []
 data: {packFolder: settinglore}
 ---
 
-The Grukar Folk are a brutal and prolific folk, feared wherever their guttural war-cries echo across the hills. Thick-skinned, tusked, and foul-tempered, they inhabit the blighted wastes, the deep ravines, and the ruined places of the world where no civilized folk would willingly tread. Ranging in height from roughly four and a half feet among the stunted common breed to a towering six and a half feet among the rarest and most fearsome of their kind, the Grukar are not a single uniform threat but a fractious, seething mass of subspecies locked in perpetual internal struggle—a struggle that, paradoxically, is the very engine of their survival.
+The Grukar are a brutal and prolific folk, feared wherever their guttural war-cries echo across the hills. Thick-skinned, tusked, and foul-tempered, they inhabit the blighted wastes, the deep ravines, and the ruined places of the world where no civilized folk would willingly tread. Ranging in height from roughly four and a half feet among the stunted common breed to a towering six and a half feet among the rarest and most fearsome of their kind, the Grukar are not a single uniform threat but a fractious, seething mass of subspecies locked in perpetual internal struggle—a struggle that, paradoxically, is the very engine of their survival.
 
 ## The Appearing
 
-The Grukar have not always been on [[place-worldthlrn|The World of Thalorna]].
+The Grukar have not always been on [[place-worldthlrn|Thalorna]].
 
 They are first recorded around **3000 BF**, and the record is from the [[lore-flkkhazar|Khazár Folk]]—the Deep Folk having both the
 habit of writing things down and, at that date, the finest archive in the world at the city of
-[Khazartúrn]{.name data-type="place/settlement"} (see [[lore-khazarturn|The Fall of Khazartúrn]]). Nothing written there in its first twenty-one centuries mentions them.
+[Khazartúrn]{.name data-type="place/settlement"} (see [[lore-khazarturn|the Fall of Khazartúrn]]). Nothing written there in its first twenty-one centuries mentions them.
 Then, within a generation, a great deal does.
 
 Where they came from is not known. The Khazari account, which is the only contemporary one, does not
@@ -30,7 +30,7 @@ substantial share of a continent.
 Close to six centuries after they appeared, Grukar destroyed Khazartúrn—and this is the
 most misunderstood fact about them. They did not do it and could not have: **Ahks do not cooperate**,
 which is the constraint that has always kept the Grukar a frontier nuisance rather than a conquest. An outlaw of
-[[lore-flksinale|Sinale Folk]] wielding [[miscgear-secondvoice|The Second Voice]] took tens of
+[[lore-flksinale|Sinale Folk]] wielding [[miscgear-secondvoice|the Second Voice]] took tens of
 thousands of them from their spawners and used them as a weapon. The tribes so emptied did not
 recover; an Ahk cannot follow its own spawn, and does not stop existing afterward.
 

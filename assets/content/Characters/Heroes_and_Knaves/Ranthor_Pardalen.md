@@ -418,7 +418,7 @@ sohl:
 
 ![[rnthrprdln|Ranthor Párdalen]]{float=top-left}
 
-Ranthor Párdalen stands 5'9" tall with a medium build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, dark brows, and rounded cheeks. He has a tattoo of a crown on his chest.
+Ranthor stands 5'9" tall with a medium build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, dark brows, and rounded cheeks. He has a tattoo of a crown on his chest.
 
 # Dossier {#dossier}
 
@@ -490,13 +490,13 @@ Underestimation of Subtle Threats
 
 ### Patrons
 
-Chief [[being-ulmeraosseln|Úlmera Ósselnde]]
+Chief [[being-ulmeraosseln|Úlmera]]
 : The current tribal leader who relies on Ranthor for counsel on matters both spiritual and martial; they have worked together for two decades and maintain deep trust despite their different temperaments.
 
-Captain [[being-chenirahares|Chénira Háresnde]]
+Captain [[being-chenirahares|Chénira]]
 : A decorated military officer of the Kingdom of Élavendre who acts as liaison between the kingdom's forces and the tribes. She and Ranthor maintain a formal relationship with hints of deeper mutual respect and perhaps unresolved personal history.
 
-Elder Healer [[being-serdaleliser|Sérdale Lísernde]]
+Elder Healer [[being-serdaleliser|Sérdale]]
 : The oldest and most respected pure mystic shaman in the tribe who, despite their different approaches, respects Ranthor's results and refers patients to him for practical healing when her own spiritual work is insufficient.
 
 ### Enemies
@@ -507,7 +507,7 @@ Traditionalist Shamans' Faction
 Kingdom Hardliners
 : Military commanders and courtiers within Élavendre who view Ranthor's bridging work between kingdom and tribe as disloyalty; they see his shamanic service as abandonment of his former oath.
 
-Lord [[being-vargenhalmes|Vargen Hálmesnde]] of the [Obsidian Order]{.name data-type="affiliation/order"}
+Lord [[being-vargenhalmes|Vargen]] of the [Obsidian Order]{.name data-type="affiliation/order"}
 : An ambitious noble with ties to dark magic and military ambition who views Ranthor's peace-brokering efforts as obstacles to his plans for territorial expansion; he has twice attempted to have Ranthor discredited or eliminated.
 
 ### Affiliations

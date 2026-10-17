@@ -412,13 +412,13 @@ sohl:
 
 ![[grmdnshrndns|Goremadanis Herendanis]]{float=top-left}
 
-Goremadanis Herendanis stands 5'8" tall with a medium build. She has light olive skin, light brown hair, and brown eyes. Her features include a diamond-shaped face, an aquiline nose, a sharp jawline, an expressive mouth, light brows, high cheeks.
+Goremadanis stands 5'8" tall with a medium build. She has light olive skin, light brown hair, and brown eyes. Her features include a diamond-shaped face, an aquiline nose, a sharp jawline, an expressive mouth, light brows, high cheeks.
 
 # Dossier {#dossier}
 
 **Orphaned Beginnings**
 
-Goremadanis was born to a sailor's widow in the port city of [[place-mercavia|Delalara]] in the [[affiliation-vylarinmpr|Vylarian Empire]]. Her mother, a former ship's cook, died of lung fever when **Goremadanis** was only seven summers old, leaving her alone and resourceless in a city where orphans had few options beyond servitude or thievery. A kindly captain named **[[being-nebralenelth|Nebralen Elthezis]]** found her stealing bread from the docks and, instead of turning her in to the city watch, offered her work aboard his merchant vessel—cleaning, hauling, running messages between crew members.
+Goremadanis was born to a sailor's widow in the port city of [[place-mercavia|Delalara]] in the [[affiliation-vylarinmpr|Empire of Vylaria]]. Her mother, a former ship's cook, died of lung fever when **Goremadanis** was only seven summers old, leaving her alone and resourceless in a city where orphans had few options beyond servitude or thievery. A kindly captain named **[[being-nebralenelth|Nebralen Elthezis]]** found her stealing bread from the docks and, instead of turning her in to the city watch, offered her work aboard his merchant vessel—cleaning, hauling, running messages between crew members.
 
 **Coming of Age at Sea**
 

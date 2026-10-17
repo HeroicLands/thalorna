@@ -416,7 +416,7 @@ Sélvara Valskir is a striking woman—tall, dark-skinned, and built with the le
 
 ### Origin
 
-Sélvara was born in a coastal village in the northern [[place-tarvenirgn|Tarvénia Region]], the daughter of fishermen. Life was hard but stable until she was fourteen, when [[lore-vylarianclt|Vylarian]] imperial forces raided her village searching for [[lore-tarvenanclt|Tarvenan]] rebels. [[being-zbzmjkdn|Zabuzum Jakuduni]], known as Bu—then a young rebel scout—was hiding in her father's boathouse. When Sélvara went to warn him, an imperial soldier followed. What happened next forged a bond between them that neither war nor the years since have broken. She killed the soldier with a gutting knife. She was fourteen years old.
+Sélvara was born in a coastal village in northern [[place-tarvenirgn|Tarvénia]], the daughter of fishermen. Life was hard but stable until she was fourteen, when [[lore-vylarianclt|Vylarian]] imperial forces raided her village searching for [[lore-tarvenanclt|Tarvenan]] rebels. [[being-zbzmjkdn|Zabuzum Jakuduni]], known as Bu—then a young rebel scout—was hiding in her father's boathouse. When Sélvara went to warn him, an imperial soldier followed. What happened next forged a bond between them that neither war nor the years since have broken. She killed the soldier with a gutting knife. She was fourteen years old.
 
 ### The War
 
@@ -424,11 +424,11 @@ Sélvara joined the [[lore-taruzelianclt|Taruzelian]] rebellion the same night, 
 
 ### After the War
 
-When the merchant guilds seized power and the revolution's ideals collapsed, Sélvara followed Bu without hesitation. She had no illusions about politics and never had—she fought for people, not causes. When Bu bought [[affiliation-thetamzir|The Tamzir]] and offered her the position of first mate, she accepted with a single nod. She has held the position for twelve years, running the ship with authority and serving as the crew's anchor when Bu's temper or recklessness threatens to capsize them all.
+When the merchant guilds seized power and the revolution's ideals collapsed, Sélvara followed Bu without hesitation. She had no illusions about politics and never had—she fought for people, not causes. When Bu bought [[affiliation-thetamzir|the Tamzir]] and offered her the position of first mate, she accepted with a single nod. She has held the position for twelve years, running the ship with authority and serving as the crew's anchor when Bu's temper or recklessness threatens to capsize them all.
 
 ### Marriage
 
-Three years ago, Sélvara married [[being-fethardhrl|Fetar Darel]], the Tamzir's pilot, in a dockside ceremony in the [[place-provenzrgn|Provenzia Region]]. The match surprised everyone except Bu, who had seen it coming for years. Fetar's irreverent humor and warmth complement Sélvara's reserve, and the marriage is a happy one—a rare point of softness in her otherwise hard-edged life.
+Three years ago, Sélvara married [[being-fethardhrl|Fetar Darel]], the Tamzir's pilot, in a dockside ceremony in [[place-provenzrgn|Provenzia]]. The match surprised everyone except Bu, who had seen it coming for years. Fetar's irreverent humor and warmth complement Sélvara's reserve, and the marriage is a happy one—a rare point of softness in her otherwise hard-edged life.
 
 ## Psyche
 

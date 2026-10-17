@@ -418,7 +418,7 @@ sohl:
 
 ![[thlmthnslvrgr|Thalmthann Solvargr]]{float=top-left}
 
-Thalmthann Solvargr stands 6'1" tall with a medium build. He has light weathered skin, grey hair, and grey eyes. His features include an angular face, a straight nose, a slightly downturned mouth, and thick brows. He has a scar on his chin.
+Thalmthann stands 6'1" tall with a medium build. He has light weathered skin, grey hair, and grey eyes. His features include an angular face, a straight nose, a slightly downturned mouth, and thick brows. He has a scar on his chin.
 
 # Dossier {#dossier}
 

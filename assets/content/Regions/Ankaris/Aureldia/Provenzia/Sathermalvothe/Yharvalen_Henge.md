@@ -21,7 +21,7 @@ and an army could march inland from it in a day.
 It was a sacred site of the pre-Aureldían traditions, a megalithic circle raised for
 [[affiliation-firstgods|The First Gods]] and kept for an age nobody now measures—and it stood, as such
 circles tend to, on open ground within reach of the sea rather than in the defensible hills. About **two hundred years
-ago** it was destroyed during [[lore-southrnfleets|The Southern Fleets]], the Nordheim raids that swept through northern Provenzia. The stones
+ago** it was destroyed during [[lore-southrnfleets|the Southern Fleets]], the Nordheim raids that swept through northern Provenzia. The stones
 were thrown down and broken, and whatever the circle had been holding was not holding afterward.
 
 ## The Curse
@@ -36,7 +36,7 @@ outward at a pace that has stopped being deniable.
 
 ## The Black Flame
 
-The awakening is not an accident. The cult of [[affiliation-blackflame|The Black Flame]] has been
+The awakening is not an accident. The cult of [[affiliation-blackflame|the Black Flame]] has been
 deliberately rousing the curse and magnifying it, drawing power from the destruction and the death—which is entirely consistent with a faith that holds fire's true nature to be purification and
 dominance, and that regards a dying country as a source rather than a tragedy.
 
@@ -45,12 +45,12 @@ interested party.
 
 ## The Áelendan
 
-The northern mountains are the country of the [[affiliation-aelndntrbs|Áelendan Tribes]] whatever the maps say, and the
+The northern mountains are [[affiliation-aelndntrbs|Áelendan country]] whatever the maps say, and the
 tribes are indifferent to Provenzian sovereignty in every respect but one: they involve themselves the
 moment a sacred site is disturbed. A pre-Aureldían circle thrown down two centuries ago and now being
 deliberately worked on by a cult is precisely that, and the Áelendan know it.
 
-They have not yet acted in any way the [[affiliation-kngdmprvnz|Kingdom of Provenzia]] has been obliged to notice. Both crowns are conscious that
+They have not yet acted in any way [[affiliation-kngdmprvnz|Provenzia]] has been obliged to notice. Both crowns are conscious that
 this may not last, and that if the tribes do come down over Yarvalen they will not be asking anyone's
 leave—which is, quietly, one of the better arguments for dealing with the
 Black Flame before the question arises.
@@ -64,4 +64,4 @@ them. Stopping the Black Flame is a separate problem and does not by itself undo
 ## See Also
 
 - [[place-bldfldyharvalen|Blood-field of Yarvalen]] · [[place-provenzrgn|Provenzia Region]]
-- [[affiliation-firstgods|The First Gods]] · [[affiliation-blackflame|The Black Flame]]
+- [[affiliation-firstgods|The First Gods]] · [[affiliation-blackflame|the Black Flame]]

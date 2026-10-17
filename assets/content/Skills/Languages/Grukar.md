@@ -716,11 +716,11 @@ sohl:
   flags: {"thalorna": {lang_family: Grukar}}
 ---
 
-Grukar Language is a tongue of the Grukar family. Fluency measures the sophistication of expression in Grukar, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Grukar is a tongue of the Grukar family. Fluency measures the sophistication of expression in Grukar, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
-Grukar is not a language in the way that scholars of [[place-midhalnrgn|Mídhalión Region]] understand the word, and "tongue" is the wrong metaphor for it entirely—the mouth of the [[lore-grukarfolk|Grukar Folk]] is an organ for eating and biting, not for making sound. The majority of Grukar communication is **physical and demonstrative**—posture, gesture, bared teeth, raised hackles, eye contact, shoulder positioning, the angle of a weapon. This body language is the primary channel. Grukar acquire it instinctually, the way a wolf learns pack behavior. There are no teachers. Grukar young absorb it from the pack around them and begin producing it as naturally as breathing.
+Grukar is not a language in the way that [[place-midhalnrgn|Mídhalión scholars]] understand the word, and "tongue" is the wrong metaphor for it entirely—the [[lore-grukarfolk|Grukar mouth]] is an organ for eating and biting, not for making sound. The majority of Grukar communication is **physical and demonstrative**—posture, gesture, bared teeth, raised hackles, eye contact, shoulder positioning, the angle of a weapon. This body language is the primary channel. Grukar acquire it instinctually, the way a wolf learns pack behavior. There are no teachers. Grukar young absorb it from the pack around them and begin producing it as naturally as breathing.
 
 Audible signals exist, but they are secondary—an **emphasis layer** laid on top of the physical communication, and produced not from the mouth but from a complex system of internal chest- and throat-resonating structures unique to the Grukar form. These structures generate a much wider acoustic range than humans can perceive: percussive clicks at the upper edge of human hearing, ratcheting throat-rasps, low chest-rumbles that are felt rather than heard, and (most distinctively) sustained calls in registers above and below human auditory range. A Grukar warband coordinating in a forest produces, to a human ear, a sparse pattern of clicks and rasps; to another Grukar, the same exchange is dense with subsonic carrier-tones and ultrasonic signals that the human listener simply does not register. A Grukar asserting dominance does so primarily with its body; the resonant snarl that accompanies the display adds force and carries over distance, but the meaning is in the posture. Two Grukar can communicate entirely without audible sound if they can see each other. The vocal apparatus becomes essential only when physical display is insufficient: in darkness, across distance, or in the chaos of a fight where bodies are too entangled to read—and even then, much of what passes between them is in registers a human cannot hear at all.
 
@@ -781,11 +781,11 @@ There are no signals—physical or vocal—for abstract concepts. No way to indi
 
 ## The Grukar-sha Exception
 
-The [[being-grkrsh|Grukar-Sha]] can learn what no [[being-grukaruk|Grukar-Uk]] or [[being-grkrhshk|Grukar-Hushk]] can carry home: an idea about the world beyond its tribe. It can plan and can use what another creature tells it. This makes a Sha useful to its spawner, but it gives no Sha authority to speak for another tribe or to pledge its own to an outsider.
+The [[being-grkrsh|Grukar-sha]] can learn what no [[being-grukaruk|Grukar-Uk]] or [[being-grkrhshk|Grukar-Hushk]] can carry home: an idea about the world beyond its tribe. It can plan and can use what another creature tells it. This makes a Sha useful to its spawner, but it gives no Sha authority to speak for another tribe or to pledge its own to an outsider.
 
 A Sha is the only Grukar able to produce recognizable human speech. It blends mouth sounds with the chest and throat resonance used by the other castes, so the voice can seem out of step with the speaker's lips. A Sha that has heard a human tongue may repeat enough of it to deliver a threat, ask a question or learn a road. An outsider can tell a Sha something; an Uk or Hushk cannot take in the words as terms at all. Neither case amounts to a parley. The Sha listens for knowledge its tribe can use, and there is no promise that binds its spawner after the Sha leaves.
 
-Among themselves, Sha add calls for waiting, another tribe and a shared immediate danger to the instinctive Grukar signals. The calls help them direct Uk and advise Hushk within one nest. They do not create a common council among nests: the [[being-grkrahk|Grukar-ahk]] do not cooperate, and a Sha's reach ends with its own tribe.
+Among themselves, Sha add calls for waiting, another tribe and a shared immediate danger to the instinctive Grukar signals. The calls help them direct Uk and advise Hushk within one nest. They do not create a common council among nests: [[being-grkrahk|Ahks]] do not cooperate, and a Sha's reach ends with its own tribe.
 
 ## No Script, No Literacy
 

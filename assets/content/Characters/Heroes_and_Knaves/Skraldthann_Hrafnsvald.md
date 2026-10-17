@@ -422,11 +422,11 @@ sohl:
 
 ![[skrldthnhrfnsvld|Skraldthann Hrafnsvald]]{float=top-left}
 
-Skraldthann Hrafnsvald stands 5'9" tall with a medium build. He has light ruddy skin, grey hair, and blue eyes. His features include a rectangular face, a slightly upturned nose, a broad chin, a slightly downturned mouth, heavy brows, high cheeks. A distinguishing mark is a scar on the abdomen.
+Skraldthann stands 5'9" tall with a medium build. He has light ruddy skin, grey hair, and blue eyes. His features include a rectangular face, a slightly upturned nose, a broad chin, a slightly downturned mouth, heavy brows, high cheeks. A distinguishing mark is a scar on the abdomen.
 
 # Dossier {#dossier}
 
-Skraldthann was born into a merchant family of the [[affiliation-kingdmnrgd|Kingdom of Norgaad]], with modest connections but substantial ambition. His father, a trader in fabrics, recognized his son's unusual eye for color and design early. Rather than follow traditional merchant paths, Skraldthann was apprenticed to **Master Tailor [Tvirnmil Ashstrider]{.name data-type="being/npc"}**, one of the finest clothiers in Norgaad's history. For fifteen years, he learned not merely to sew but to understand the subtleties of how fabric moved, how color interacted with skin, how a perfectly fitted garment could transform not just appearance but bearing and confidence.
+Skraldthann was born into a merchant family of the [[affiliation-kingdmnrgd|Kingdom of Norgaad]], with modest connections but substantial ambition. His father, a trader in fabrics, recognized his son's unusual eye for color and design early. Rather than follow traditional merchant paths, Skraldthann was apprenticed to **Master Tailor [Tvirnmil Ashstrider]{.name data-type="being/npc"}**, one of the finest clothiers in Norgaard's history. For fifteen years, he learned not merely to sew but to understand the subtleties of how fabric moved, how color interacted with skin, how a perfectly fitted garment could transform not just appearance but bearing and confidence.
 
 After earning his mastership at thirty, Skraldthann established his own workshop in the city's elite district. His designs caught the attention of nobility and high merchants, and within a decade he had become the clothier of choice for anyone of consequence. His garments became status symbols—statements that one was wealthy and discriminating enough to afford Skraldthann's services.
 

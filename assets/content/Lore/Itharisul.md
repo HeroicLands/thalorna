@@ -8,7 +8,7 @@ tags: [lore, kalihara, ithari-work, kaan-sul]
 data: {packFolder: settinglore, culture: kaliharanclt}
 ---
 
-_Ithasul_ (precursor stone) is the substance of every work [[lore-theithari|The Ithari]] left, on [[place-klhrcntnnt|Kalihara Continent]] and everywhere else. The custodians of the island, the [[affiliation-tharivaan|Thári'vaan]], know more of it than anyone in the world, and all of what they know is handling and procedure: how a work looks and feels, what state it stands in, what may be done beside it and what may not. What it is, and what the Ithari gave the works, they have never identified. The account of the Ithari themselves, and of the works that stand elsewhere on [[place-worldthlrn|The World of Thalorna]], is The Ithari.
+_Ithasul_ (precursor stone) is the substance of every work [[lore-theithari|the Ithari]] left, on [[place-klhrcntnnt|Kalihara]] and everywhere else. The custodians of the island, the [[affiliation-tharivaan|Ithakan]], know more of it than anyone in the world, and all of what they know is handling and procedure: how a work looks and feels, what state it stands in, what may be done beside it and what may not. What it is, and what the Ithari gave the works, they have never identified. The account of the Ithari themselves, and of the works that stand elsewhere on [[place-worldthlrn|Thalorna]], is The Ithari.
 
 ## In the Hand
 

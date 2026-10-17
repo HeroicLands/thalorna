@@ -41,4 +41,4 @@ Tuleme Serdalis is a 60-year-old man who stands 6'0" tall with a medium build. H
 
 # Dossier {#dossier}
 
-Tuleme Serdalis is the senior merchant representative on the city council. His business is in the merchant quarter, and he knows [[being-brygrlyskl|Brigar Liskal]] well. As Brigar's patron, he uses his political influence to keep Brigar's assignment stable and to see that the merchant quarter receives adequate resources.
+Tuleme Serdalis is the senior merchant representative on the city council. His business is in the merchant quarter, and he knows [[being-brygrlyskl|Brigar Liskal]] well. As Brigar Liskal's patron, he uses his political influence to keep Brigar Liskal's assignment stable and to see that the merchant quarter receives adequate resources.

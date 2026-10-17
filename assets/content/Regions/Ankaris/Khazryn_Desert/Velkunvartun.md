@@ -37,7 +37,7 @@ The knocking leaves marks. In the morning the outer face of the cedar is scored 
 
 ## The Dead Behind It
 
-The Gate-dead is not the whole work of [[lore-theshadow|The Shadow]], but it is the Shadow's work. The dead of the record-house, the keepers who would not leave their cellar when the city emptied, died without a name read over them and have lain for five centuries unreceived. They were few, and a few dead do not tear the world. What they did was leave a gap, an oath in a mouth with nobody to take it back, and the Shadow came in by the gap, as it does wherever a rite is owed and unpaid. The undead of every land are the same corruption wearing a local face. This one wears the face of a man who kept an oath past sense.
+The Gate-dead is not the [[lore-theshadow|Shadow's whole work]], but it is the Shadow's work. The dead of the record-house, the keepers who would not leave their cellar when the city emptied, died without a name read over them and have lain for five centuries unreceived. They were few, and a few dead do not tear the world. What they did was leave a gap, an oath in a mouth with nobody to take it back, and the Shadow came in by the gap, as it does wherever a rite is owed and unpaid. The undead of every land are the same corruption wearing a local face. This one wears the face of a man who kept an oath past sense.
 
 It cannot enter a barred door. It can be answered. That is the danger of the gate and the reason the town does not sleep deeply.
 
@@ -47,7 +47,7 @@ The gate is entered from the north, over the open rim, or from the town side by 
 
 ## Who Pays for the Truth
 
-[Khorsád-Vahur]{.name data-type="being/npc"}, head of the House of Vahurdash, wants the knocking ended, since a gate that cannot be opened at night costs the settlement every caravan that reaches the rim after dusk. He will not say so to the exiled houses and he will not say so to the [[affiliation-tribestrzd|Tribes of Atarzád]]. A rival house in Amradad would pay a good deal more to learn that the gate cannot be ended, that the town is failing and that its tablets can be had.
+[Khorsád-Vahur]{.name data-type="being/npc"}, head of the House of Vahurdash, wants the knocking ended, since a gate that cannot be opened at night costs the settlement every caravan that reaches the rim after dusk. He will not say so to the exiled houses and he will not say so to the [[affiliation-tribestrzd|Atarzád]]. A rival house in Amradad would pay a good deal more to learn that the gate cannot be ended, that the town is failing and that its tablets can be had.
 
 ## See Also
 

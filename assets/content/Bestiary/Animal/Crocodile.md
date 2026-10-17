@@ -243,7 +243,7 @@ The sandbank in the middle of the river looks like a drift of old logs, until on
 
 # Dossier {#dossier}
 
-The Crocodile is the great river reptile of the warm waters, fourteen to twenty feet long and five hundred to over two thousand pounds. It lies in the rivers, papyrus channels and marsh pools of [[place-aukhelathrgq|Au'Khelathu Region]], along the lower rivers of [[place-okharisrgn|Okharis Region]] and in the river country of the [[place-sthrnsvnhs|Southern Savannahs]]. A crocodile waits motionless for hours at a ford or a drinking place and then strikes at once. One that has taken a person comes back for another.
+The Crocodile is the great river reptile of the warm waters, fourteen to twenty feet long and five hundred to over two thousand pounds. It lies in the rivers, papyrus channels and marsh pools of [[place-aukhelathrgq|Au'Khelathu]], along the lower rivers of [[place-okharisrgn|Okharis]] and in the river country of the [[place-sthrnsvnhs|Southern Savannahs]]. A crocodile waits motionless for hours at a ford or a drinking place and then strikes at once. One that has taken a person comes back for another.
 
 ## Presentation
 
@@ -259,7 +259,7 @@ Crocodiles hold a stretch of river, several miles for a big one, and defend it a
 
 ## What the River Peoples Do
 
-In Au'Khelathu the crocodile is sacred to [[lore-tjelsukdty|Tjelsur]], and the river temples feed the animals that live by them. The [[lore-nyalubaclt|Nyáluba]] clan of the [Kolembozi]{.name data-type="affiliation/polity"} are the crocodile-clan, and for them the crocodile guide is an ancestral presence and not only an animal; they are the river-people and fish the whole river country. Villages place their water-points and wash-places at the upstream end of a bend and fence them with stakes. The hunters of the [[affiliation-zeghetnelgu|Zeghet'Nelgu]] take a crocodile in open water as proof of their rank. A fisherman looks for the track on the bank before he wades.
+In Au'Khelathu the crocodile is sacred to [[lore-tjelsukdty|Tjelsur]], and the river temples feed the animals that live by them. The [[lore-nyalubaclt|Nyáluba]] clan of the [Kolembozi]{.name data-type="affiliation/lineage"} are the crocodile-clan, and for them the crocodile guide is an ancestral presence and not only an animal; they are the river-people and fish the whole river country. Villages place their water-points and wash-places at the upstream end of a bend and fence them with stakes. The hunters of the [[affiliation-zeghetnelgu|Zeghet'Nelgu]] take a crocodile in open water as proof of their rank. A fisherman looks for the track on the bank before he wades.
 
 ## Signs
 

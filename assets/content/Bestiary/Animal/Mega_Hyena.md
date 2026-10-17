@@ -231,7 +231,7 @@ The laugh starts somewhere out in the scrub after the moon has set: a rising, wh
 
 # Dossier {#dossier}
 
-The Mega Hyena is the great hyena of the [[place-khzryndsrtrgn|Khazryn Desert Region]]: four feet at the shoulder, built heavy in front and sloping to small hindquarters, with a head that is mostly jaw and a bite that cracks a camel's thigh-bone. It runs in clans of five to twenty along the camel road and on the grass and scrub of the [[place-wlqtrrgn|Volketor]] and the steppe margins, and it lives on what the road leaves behind: the camels that fall on the march, the remains of a caravan's slaughter, the dead of a raid. It is also a hunter that takes wild asses, gazelle and the stragglers of a herd, and a clan that is hungry takes a sleeping drover from the edge of a camp. The tribes count it with the [[being-budeq|Budaq]] as one of the two things that follow a string, and the hyena is the one that comes in at night.
+The Mega Hyena is the great hyena of the [[place-khzryndsrtrgn|Khazryn]]: four feet at the shoulder, built heavy in front and sloping to small hindquarters, with a head that is mostly jaw and a bite that cracks a camel's thigh-bone. It runs in clans of five to twenty along the camel road and on the grass and scrub of the [[place-wlqtrrgn|Volketor]] and the steppe margins, and it lives on what the road leaves behind: the camels that fall on the march, the remains of a caravan's slaughter, the dead of a raid. It is also a hunter that takes wild asses, gazelle and the stragglers of a herd, and a clan that is hungry takes a sleeping drover from the edge of a camp. The tribes count it with the [[being-budeq|Budaq]] as one of the two things that follow a string, and the hyena is the one that comes in at night.
 
 ## Presentation
 

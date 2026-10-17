@@ -16,11 +16,11 @@ data:
 
 ## Overview
 
-Kivarel is a barony in the western valleys of the [[place-zuravlenrgn|Zuravlen Region]] seaboard, and it is held together with the [[affiliation-brnyzrvln|Barony of Zuravlen]] by **[Selvare Zuravel]{.name data-type="being/npc"}**, who sits at [[place-elthrembis|Eltrembis]]. Its people are farmers and fruit-growers, and they will talk to any factor about their yields.
+Kivarel is a barony in the western valleys of the [[place-zuravlenrgn|Zuravlen]] seaboard, and it is held together with the [[affiliation-brnyzrvln|barony of Zuravlen]] by **[Selvare Zuravel]{.name data-type="being/npc"}**, who sits at [[place-elthrembis|Eltrembis]]. Its people are farmers and fruit-growers, and they will talk to any factor about their yields.
 
 ## The Field Nobody Discusses
 
-The best land in the barony is the [[place-bldfldkyvarel|Blood-field of Kivarel]], a quickening where the ground grows too well: grass comes weeks early, grain comes in heavy and first, and fruit sets in years when the rest of the district loses its blossom to frost. Tenants who inherited the holdings farm it thoroughly, and its produce is sold across the [[place-provenzrgn|Provenzia Region]] under no particular name. What Kivarel's people will not discuss is the field itself. A stranger who raises it at table is answered politely once and not answered again.
+The best land in the barony is the [[place-bldfldkyvarel|Blood-field of Kivarel]], a quickening where the ground grows too well: grass comes weeks early, grain comes in heavy and first, and fruit sets in years when the rest of the district loses its blossom to frost. Tenants who inherited the holdings farm it thoroughly, and its produce is sold across [[place-provenzrgn|Provenzia]] under no particular name. What Kivarel's people will not discuss is the field itself. A stranger who raises it at table is answered politely once and not answered again.
 
 ## Its Baron
 

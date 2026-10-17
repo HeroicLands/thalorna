@@ -416,7 +416,7 @@ sohl:
 
 ![[palvdrvksh|Pallovi Draviksha]]{float=top-left}
 
-Pallovi Draviksha stands 5'9" tall with a light build. She has tawny brown skin, dark black hair, and hazel eyes. Her features include a heart-shaped face, a broad nose, a soft jawline, and tawny brows.
+Pallovi stands 5'9" tall with a light build. She has tawny brown skin, dark black hair, and hazel eyes. Her features include a heart-shaped face, a broad nose, a soft jawline, and tawny brows.
 
 # Dossier {#dossier}
 
@@ -426,7 +426,7 @@ Pallovi was born in the city-state of [[place-dharmapur|Dirmapur]] to a family o
 
 **Shrena Training and Breakthrough**
 
-At eighteen, Pallovi formally joined [The Scribes' Shrena of Dirmapur]{.name data-type="affiliation/guild"} and began her training in earnest. She quickly distinguished herself by fusing styles rather than by conservative mastery of traditional ones: taking classical [[skill-vdykshrscrpt|Vedyakshara Script]] forms and subtly reimagining them, creating decorative borders that enhanced rather than overshadowed text, and developing a distinctive technique of integrating colored inks to create visual harmony without sacrificing readability. Her breakthrough came when a wealthy merchant commissioned a copy of a philosophical text, requesting that the quality of transcription match the depth of the ideas. Pallovi produced a work so visually and spiritually stunning that the merchant displayed it in his home as a masterpiece rather than a reference document. Word spread, and by age twenty-four, she had a waiting list of commissions.
+At eighteen, Pallovi formally joined [The Scribes' Shrena of Dirmapur]{.name data-type="affiliation/guild"} and began her training in earnest. She quickly distinguished herself by fusing styles rather than by conservative mastery of traditional ones: taking classical [[skill-vdykshrscrpt|Vedyaran script]] forms and subtly reimagining them, creating decorative borders that enhanced rather than overshadowed text, and developing a distinctive technique of integrating colored inks to create visual harmony without sacrificing readability. Her breakthrough came when a wealthy merchant commissioned a copy of a philosophical text, requesting that the quality of transcription match the depth of the ideas. Pallovi produced a work so visually and spiritually stunning that the merchant displayed it in his home as a masterpiece rather than a reference document. Word spread, and by age twenty-four, she had a waiting list of commissions.
 
 **Current Situation**
 

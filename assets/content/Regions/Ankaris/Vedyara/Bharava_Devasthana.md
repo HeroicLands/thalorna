@@ -8,7 +8,7 @@ tags: [sacred, pilgrimage, inland]
 data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
 ---
 
-The **Bharava-Devastena Hostels** form an endowed network of free hostels for traveling priests and ascetics, kept at twenty-three sites along the major Vedyari pilgrimage routes. It is paid for out of the gold of [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]], and it is the largest single charity in the subcontinent that belongs to no city.
+The **Bharava-Devastena Hostels** form an endowed network of free hostels for traveling priests and ascetics, kept at twenty-three sites along the major Vedyari pilgrimage routes. It is paid for out of the gold of [[affiliation-suvrgrjnpd|Suvarnageri]], and it is the largest single charity in the subcontinent that belongs to no city.
 
 A renunciant who has given up worldly life still has to eat and sleep on the road. The Vedyari answer is that the devout keep him, and the Devastena is that answer built in stone at fixed intervals.
 
@@ -22,7 +22,7 @@ Nothing is charged and nothing is asked. A house feeds whoever presents himself 
 
 ## The Road Along the River
 
-The pilgrim road that runs the whole length of [[place-bharavarivr|The Bharava]], sea to ice, carries more of this traffic than any other in the [[place-vedyarargn|Vedyara Region]]. The houses along its lower reaches are endowed by the temple-domains of the forest country out of the forest products that pay for everything there, and the Suvarnageri houses begin above the highlands.
+The pilgrim road that runs the whole length of [[place-bharavarivr|the Bharava]], sea to ice, carries more of this traffic than any other in [[place-vedyarargn|Vedyara]]. The houses along its lower reaches are endowed by the temple-domains of the forest country out of the forest products that pay for everything there, and the Suvarnageri houses begin above the highlands.
 
 Many who walk it could never have paid for the journey out of their own devotion. The hostels feed them, and the observance counts that charity as part of the walk.
 

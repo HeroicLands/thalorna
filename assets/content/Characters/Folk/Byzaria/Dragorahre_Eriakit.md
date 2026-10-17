@@ -36,4 +36,4 @@ Dragorahre Eriakit is a 63-year-old woman who stands 5'9" tall with a medium bui
 
 # Dossier {#dossier}
 
-Dragorahre Eriakit is a high priestess of the [[affiliation-lizelas|Faith of Lizelas]], of the same order as the mother of [[being-flndrsbldds|Sakozes Bulides]].
+Dragorahre Eriakit is a high priestess of [[affiliation-lizelas|Lizelas]], of the same order as the mother of [[being-flndrsbldds|Sakozes Bulides]].

@@ -43,7 +43,7 @@ data:
         - which hill kingdom the raiders came from; the sabhra record names it and the kingdom it names has changed its dynasty, and its name, since
 ---
 
-A clerk at the rail of [[place-weighingstn|The Weighing-Station]] reads the month's gold aloud at every new moon, and a stranger who listens long enough hears him read one line that is not a weight: "[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]] has not lost gold to a raid since the year of the return." **The Last Gold Raid** is the year he means, about 80 BF, and the treaty that came out of it is the reason he can say so.
+A clerk at the rail of [[place-weighingstn|the weighing-station]] reads the month's gold aloud at every new moon, and a stranger who listens long enough hears him read one line that is not a weight: "[[affiliation-suvrgrjnpd|Suvarnageri]] has not lost gold to a raid since the year of the return." **The Last Gold Raid** is the year he means, about 80 BF, and the treaty that came out of it is the reason he can say so.
 
 ## The Raid
 
@@ -51,7 +51,7 @@ At the new moon the month's gold lay in the weighing-station waiting to be weigh
 
 ## The Return
 
-The gold went down the road toward the river country, and the road ran past [[affiliation-bharyastan|The Kingdom of Bharyastan]]. Its king, **[Dhursavira]{.name data-type="being/npc"}**, had four hundred horse and a district that grew barley and walnuts and little else. He rode the raiders down in a gorge below the mountain road, killed most of them there, and brought the gold back up to the weighing-station. He had it weighed at the rail against the month's record, and it came to the grain.
+The gold went down the road toward the river country, and the road ran past [[affiliation-bharyastan|Bharyastan]]. Its king, **[Dhursavira]{.name data-type="being/npc"}**, had four hundred horse and a district that grew barley and walnuts and little else. He rode the raiders down in a gorge below the mountain road, killed most of them there, and brought the gold back up to the weighing-station. He had it weighed at the rail against the month's record, and it came to the grain.
 
 At the next new moon Suvarnageri's sabhra and the king swore the treaty both sides still keep: Bharyastan sends its horse whenever the janapoda calls, and the janapoda pays an annual weight of gold, weighed at its own station.
 

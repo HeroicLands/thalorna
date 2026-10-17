@@ -46,7 +46,7 @@ ORDER BY p.name.full COLLATE NOCASE
 
 ## Peoples and Culture
 
-The Peshtar are a fierce and fractious highland people, descended from the refugees of the [[lore-pelwarpepl|Pelwar People]] who reached Aelwyth around 1200 BF, as is nearly every human on the island. What sets them apart is not an older origin but their way of life: their clans took no crown and no lowland holding, and kept the wilderness as it was when the refugees first came to it, while the southern kingdoms and the Nordmen settlers of the eastern coasts took their land later. They are not a single tribe but a constellation of related clans—the accounts vary widely on how many clans there are and which have lineal relationships with which—who share a language family, a ritual complex, and a common contempt for the lowlands.
+The Peshtar are a fierce and fractious highland people, descended from the [[lore-pelwarpepl|Pelwar refugees]] who reached Aelwyth around 1200 BF, as is nearly every human on the island. What sets them apart is not an older origin but their way of life: their clans took no crown and no lowland holding, and kept the wilderness as it was when the refugees first came to it, while the southern kingdoms and the Nordmen settlers of the eastern coasts took their land later. They are not a single tribe but a constellation of related clans—the accounts vary widely on how many clans there are and which have lineal relationships with which—who share a language family, a ritual complex, and a common contempt for the lowlands.
 
 Peshtar society is organized around the clan, which is in turn organized around the war-chief and the druid. The war-chief is the martial leader—typically the foremost warrior of his lineage, chosen by the acclamation of the clan's warriors and holding his position only as long as he remains the foremost warrior. The druid is the spiritual and legal authority—trained from childhood in the clan's mysteries and the landscape's lore, invested with authority over questions of ritual and inheritance and dispute. The two offices balance one another; neither alone can rule, and clans whose war-chief and druid openly quarrel tend to fission.
 
@@ -56,7 +56,7 @@ Peshtar diet is simple: cattle, sheep, goats, and pigs herded through the highla
 
 ## Religion
 
-The Peshtar combine worship of the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] with older animistic traditions that may predate any organized pantheon in [[place-worldthlrn|The World of Thalorna]]. Their druids maintain the ritual practice; their holy places are natural features—ancient trees, springs, stone circles, the high shoulders of specific mountains—rather than temples or churches.
+The Peshtar combine worship of the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] with older animistic traditions that may predate any organized pantheon in [[place-worldthlrn|the World of Thalorna]]. Their druids maintain the ritual practice; their holy places are natural features—ancient trees, springs, stone circles, the high shoulders of specific mountains—rather than temples or churches.
 
 The relationship between the Peshtar version of the Aureldian gods and the version recognized in mainstream Aureldian theology is ambiguous. The names are recognizable: Peshtar druids invoke something they call [Calmara]{.name data-type="lore/deity"}, something they call [Veyrael]{.name data-type="lore/deity"}, something they call [Vharoth]{.name data-type="lore/deity"}. But the stories they tell, the faces they assign to these gods, and the rituals they use to approach them bear only a distant resemblance to the Aureldian liturgical tradition. A handful of Aureldian theologians have proposed that the Peshtar practice is not a corruption of the true Aureldian traditions but an older stratum of them, preserving what the continent has forgotten. This proposition is not popular in ecclesiastical circles; the theologians who have made it most vigorously have generally ended their careers in obscurity.
 
@@ -136,7 +136,7 @@ It is not a war in any sense that admits of campaigns, victories or an end. It i
 it has shaped these peoples completely: the forest communities of the interior and the south are
 markedly more warlike than the northern herders because twenty generations of them have lived beside
 something that breeds faster than it can be killed. Frontier settlements of
-the [[place-aldorathrgn|Aldorath Region]] find them impossible to deal with and put it down to savagery.
+[[place-aldorathrgn|Aldorath]] find them impossible to deal with and put it down to savagery.
 
 The lowland realms use the word _barbarian_ for all of them indiscriminately, which is convenient and
 tells you nothing.

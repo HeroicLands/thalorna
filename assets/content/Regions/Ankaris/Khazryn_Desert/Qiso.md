@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: k
 
 For eleven months the place is a ring of black stones round a deep well, a few hundred yards of trampled gravel, and a scatter of bones. Then the spring fleet comes in from the west and the autumn fleet from the east, and in ten days the empty ground becomes a city of felt tents and rope corrals that holds fifteen thousand people, four thousand camels and every kind of silver anyone has ever struck.
 
-**Qiiso**, "the price" in the [[skill-sowideslng|Sovidur Language]], is the market-camp of the central [[place-hskrrgn|Khoshiqor]], about halfway across the [[place-khzryndsrtrgn|Khazryn Desert Region]]. [[lore-celestialroad|The Celestial Road]] reaches it on about the sixty-fifth day out from the [[place-eastrnmrch|Eastern March]], and the southern spur to [[place-swoasisbelt|Tellumel]] leaves it here. Most goods that cross the waste change hands at Qiiso instead of going on whole, and the price of water is the highest on the road.
+**Qiiso**, "the price" in [[skill-sowideslng|Sovidur]], is the market-camp of the central [[place-hskrrgn|Khoshiqor]], about halfway across the [[place-khzryndsrtrgn|Khazryn]]. [[lore-celestialroad|The Celestial Road]] reaches it on about the sixty-fifth day out from the [[place-eastrnmrch|March]], and the southern spur to the [[place-swoasisbelt|Tellumel]] leaves it here. Most goods that cross the waste change hands at Qiiso instead of going on whole, and the price of water is the highest on the road.
 
 ## The Camp
 

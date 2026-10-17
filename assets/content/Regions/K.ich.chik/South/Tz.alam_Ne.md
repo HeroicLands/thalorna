@@ -22,7 +22,7 @@ Ts’alam Ne’ dominates the maritime economy of Ish’bal Tsa’ku and the bro
 
 ## People and Culture
 
-Ts’alam Ne’ is the most cosmopolitan city in the south, with merchant families and trading colonies from across the [[place-kchchkcntnnt|K'ich'chik Continent]]. The city has a reputation for relative pragmatism and mercantile ruthlessness—social mobility through wealth is more common here than in other K’ich’chik cities, though the priesthood still maintains ultimate authority. The waterfront districts are particularly volatile, with frequent disputes over trade rights, maritime law, and cargo.
+Ts’alam Ne’ is the most cosmopolitan city in the south, with merchant families and trading colonies from across [[place-kchchkcntnnt|K’ich’chik]]. The city has a reputation for relative pragmatism and mercantile ruthlessness—social mobility through wealth is more common here than in other K’ich’chik cities, though the priesthood still maintains ultimate authority. The waterfront districts are particularly volatile, with frequent disputes over trade rights, maritime law, and cargo.
 
 ## See Also
 

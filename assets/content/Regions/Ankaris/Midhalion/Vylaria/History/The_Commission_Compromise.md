@@ -49,7 +49,7 @@ data:
       unresolved: [whether the Orzas knew the report before it leaked]
 ---
 
-In The Commission Compromise, a senior centurion of a northern legion, asked by a young Lusel why the camp prefect's rank is so hard to reach, answers without looking up from his tablets. "Because someone in [[place-orzara|Orzara City]] read a report. I do not know his name. I know that when I was a Hundar Maldor the Vandraks's recommendation was enough, and that now it is not."
+A senior centurion of a northern legion, asked by a young Lusel why the camp prefect's rank is so hard to reach, answers without looking up from his tablets. "Because someone in [[place-orzara|Orzara]] read a report. I do not know his name. I know that when I was a Hundar Maldor the Vandraks's recommendation was enough, and that now it is not."
 
 ## The Report
 
@@ -68,7 +68,7 @@ The [Conservative Faction]{.name data-type="affiliation"} included most of the _
 About 710 the two sides settled.
 
 - **Vallar.** A candidate raised from the commoner track must pass an examination set jointly by the Dukran and a panel of serving Magnars. The examination is rigorous, and the rate of elevation fell.
-- **The strongroom audit.** The Reformist Faction took a seat on the panel that audits the strongroom of [[affiliation-tarmex|The Tarmeks Orzan]] each year.
+- **The strongroom audit.** The Reformist Faction took a seat on the panel that audits the strongroom of [[affiliation-tarmex|the Tarmeks Orzan]] each year.
 - **Noble commissions.** They remained purchasable on the earlier basis, and no examination is required for any noble rank.
 
 [The Lethunu]{.name data-type="affiliation"} regard the compromise as a partial victory. The Conservative Faction regards it as the price of preserving the rest. The career centurions regard it as a calculated insult, because the only path the reform tightened is the one their own track has always used to cross into the officers.

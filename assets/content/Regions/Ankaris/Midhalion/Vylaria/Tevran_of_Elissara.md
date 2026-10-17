@@ -33,4 +33,4 @@ data:
 sohl: {system: {commonSkills: [vylarilng]}}
 ---
 
-The **Tevran of Elissara** is the body of the trade guilds of [[place-aelissium|Elissara]]: the potters' guild, whose master's seal outvalues the bowl it marks, and the [Seamen's Guild]{.name data-type="affiliation/guild"}, on whose roll the city's sailors are hired by the voyage. The chapterhouse of [[affiliation-danvar|The Danvar]] stands beside them.
+The **Tevran of Elissara** is the body of the trade guilds of [[place-aelissium|Elissara]]: the potters' guild, whose master's seal outvalues the bowl it marks, and the [Seamen's Guild]{.name data-type="affiliation/guild"}, on whose roll the city's sailors are hired by the voyage. The chapterhouse of [[affiliation-danvar|the Danvar]] stands beside them.

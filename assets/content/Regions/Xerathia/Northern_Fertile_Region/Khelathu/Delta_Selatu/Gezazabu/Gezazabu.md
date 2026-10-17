@@ -17,9 +17,9 @@ data:
 
 ## Overview
 
-"You will smell the curing-houses long before you see the harbor," says a carter who loads at them, hauling a strap tight over a stack of salted barrels. "By the second day you stop noticing, and then you are one of us." Gezazabu is the capital of [[affiliation-selatgezazab|The Selat of Gezazabu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], and its roughly 56,000 people live around a western delta port, its salt-fish and curing-houses, and the trade road to the [[place-bethuargn|Bethua Region]].
+"You will smell the curing-houses long before you see the harbor," says a carter who loads at them, hauling a strap tight over a stack of salted barrels. "By the second day you stop noticing, and then you are one of us." The town is the capital of [[affiliation-selatgezazab|the Selat of Gezazabu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], and its roughly 56,000 people live around a western delta port, its salt-fish and curing-houses, and the trade road to [[place-bethuargn|Bethua]].
 
-It holds the selat's chief temple of the [[affiliation-thubai|Faith of Thuba'i]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns.
+It holds the selat's chief temple of [[affiliation-thubai|Thuba'i]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns.
 
 ## See Also
 

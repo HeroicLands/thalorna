@@ -238,7 +238,7 @@ In the bamboo the light falls in vertical bars. The fresh pug-mark in the mud is
 
 # Dossier {#dossier}
 
-The Tiger is the largest cat, three to three and a half feet at the shoulder and nine to twelve feet long, four hundred to six hundred sixty pounds, a lone ambush hunter of jungle, tall grass, river margin and mountain forest. It lives in [[place-vedyarargn|Vedyara Region]] and the forested hills of [[place-tantsouregin|Tantsou Region]]. In the south it is sacred to the god of destruction and transformation, and its image is on temple walls, warrior shields and thrones. Killing one is either a supreme feat or a sacrilege, depending on the circumstances and the priesthood consulted.
+The Tiger is the largest cat, three to three and a half feet at the shoulder and nine to twelve feet long, four hundred to six hundred sixty pounds, a lone ambush hunter of jungle, tall grass, river margin and mountain forest. It lives in [[place-vedyarargn|Vedyara]] and the forested hills of [[place-tantsouregin|Tantsou]]. In the south it is sacred to the god of destruction and transformation, and its image is on temple walls, warrior shields and thrones. Killing one is either a supreme feat or a sacrilege, depending on the circumstances and the priesthood consulted.
 
 ## Presentation
 

@@ -83,7 +83,7 @@ The muster is 750 men, and none of them sails. Most of them garrison the roads a
 
 ## Relations
 
-Muwojai and the [[affiliation-hojujaidmn|Hojujai Domain]] together form the loyalist bloc, with 2,500 men and 20 ships. They want the office of Teng Ja for the Hojujai heir when he comes of age, or for nobody.
+Muwojai and [[affiliation-hojujaidmn|Hojujai]] together form the loyalist bloc, with 2,500 men and 20 ships. They want the office of Teng Ja for the Hojujai heir when he comes of age, or for nobody.
 
 ## The Keeper of the Gate
 

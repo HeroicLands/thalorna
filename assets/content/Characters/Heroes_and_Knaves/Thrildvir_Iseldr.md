@@ -419,7 +419,7 @@ sohl:
 
 ![[thrldvrisldr|Thrildvir Iseldr]]{float=top-left}
 
-Thrildvir Iseldr stands 5'8" tall with a medium build. He has light fair skin, dark brown hair, and brown eyes. His features include a rectangular face, a straight nose, a strong jawline, a small mouth, and dark brows. He has a scar above his left eyebrow.
+Thrildvir stands 5'8" tall with a medium build. He has light fair skin, dark brown hair, and brown eyes. His features include a rectangular face, a straight nose, a strong jawline, a small mouth, and dark brows. He has a scar above his left eyebrow.
 
 # Dossier {#dossier}
 
@@ -431,7 +431,7 @@ Born into the family of a dyer in [[place-vithgard|Vithgard]]'s cloth district, 
 
 ### The Journeyman's Wandering
 
-Upon completing his apprenticeship at twenty-two, Thrildvir took the road as a journeyman, as was customary, seeking out master tailors throughout the kingdom and beyond. He spent five years traveling to cities across the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] and the neighboring realms, working in prestigious ateliers and learning the regional variations of his craft. In the capital, he studied under the celebrated **Duchess's Court Tailor, [Lavinia Thorne]{.name data-type="being/npc"}**; in the merchant cities, he learned the practical demands of outfitting nobility; in smaller towns, he discovered how to create elegance within modest constraints. It was during this period that he acquired the scar above his eyebrow—the result of a violent dispute over a commissioned gown that he refuses to discuss in detail, though it clearly marked him deeply.
+Upon completing his apprenticeship at twenty-two, Thrildvir took the road as a journeyman, as was customary, seeking out master tailors throughout the kingdom and beyond. He spent five years traveling to cities across [[affiliation-kngdmvthgrd|Vithgard]] and the neighboring realms, working in prestigious ateliers and learning the regional variations of his craft. In the capital, he studied under the celebrated **Duchess's Court Tailor, [Lavinia Thorne]{.name data-type="being/npc"}**; in the merchant cities, he learned the practical demands of outfitting nobility; in smaller towns, he discovered how to create elegance within modest constraints. It was during this period that he acquired the scar above his eyebrow—the result of a violent dispute over a commissioned gown that he refuses to discuss in detail, though it clearly marked him deeply.
 
 ### Master Craftsman and Merchant
 

@@ -54,7 +54,7 @@ sohl: {system: {commonSkills: []}}
 
 A candidate for the order is stood on the exposed summit of [[place-thrumufjall|Thrumufjall]] as the thunderheads pile up over the sea, and asked whether he can feel the storm coming when everyone else on the rock can only hear the weather. The examiners watch for the trained signs that a candidate has registered the storm, and one who shows none is dismissed, whatever else he can do.
 
-The Order of the Storm-Speakers, _Stormmelendir_, is the warrior-shaman order of [[lore-thrunvalddty|Thrunvald]], the god whose hammer is said to hold back the chaos beyond the walls of the world. Its members fight as the storm fights: they swing a heavy two-handed hammer with an order-bred warrior's skill, and they read the weather and, within the limits the [[affiliation-thrunvald|Faith of Thrunvald]] allows, call it. A Speaker can call wind, read an approaching storm with great precision and, in certain circumstances, draw down a localized lightning strike. No other tradition in the [[place-nrdlndsrgn|Nordlands Region]] cultivates the combination, which is what the order is for.
+The Order of the Storm-Speakers, _Stormmelendir_, is the warrior-shaman order of [[lore-thrunvalddty|Thrunvald]], the god whose hammer is said to hold back the chaos beyond the walls of the world. Its members fight as the storm fights: they swing a heavy two-handed hammer with an order-bred warrior's skill, and they read the weather and, within the limits [[affiliation-thrunvald|Thrunvald's faith]] allows, call it. A Speaker can call wind, read an approaching storm with great precision and, in certain circumstances, draw down a localized lightning strike. No other tradition in the [[place-nrdlndsrgn|Nordlands]] cultivates the combination, which is what the order is for.
 
 Type
 : fighting religious order
@@ -109,8 +109,8 @@ The combat doctrine is built on heavy weapons: the two-handed hammer, the short 
 ## What the Order Does
 
 - **Coastal defense.** Most major Nordland coastal settlements keep standing arrangements for Speakers to be dispatched when raiders threaten. The arrangements are renewed every year and have reduced raiding losses where they are in force.
-- **Storm interpretation.** Shipowners, captains and [[affiliation-skaldscrcl|The Skalds' Circle]] consult Speakers routinely on the weather. The order charges nothing, and the goodwill it earns in return is considerable.
-- **Defense against chaos incursions.** The order counts Helspawn ([[lore-undead|undead]]) incursions, [[affiliation-blackflame|The Black Flame]] infiltrations and the rarer outright cosmological breaches as part of Thrunvald's defensive mandate. When one is identified, the relevant Storm-Captain usually commits a unit of Speakers without waiting for the Voice of the Hammer to authorize it.
+- **Storm interpretation.** Shipowners, captains and [[affiliation-skaldscrcl|the Skalds' Circle]] consult Speakers routinely on the weather. The order charges nothing, and the goodwill it earns in return is considerable.
+- **Defense against chaos incursions.** The order counts Helspawn ([[lore-undead|undead]]) incursions, [[affiliation-blackflame|Black Flame]] infiltrations and the rarer outright cosmological breaches as part of Thrunvald's defensive mandate. When one is identified, the relevant Storm-Captain usually commits a unit of Speakers without waiting for the Voice of the Hammer to authorize it.
 - **Training.** Aspirant training at Thrumufjall is famously rigorous and is conducted in all weather.
 
 ## Relations
@@ -120,7 +120,7 @@ The combat doctrine is built on heavy weapons: the two-handed hammer, the short 
 - **[[affiliation-eidhond|The Order of the Sworn Hand]]** is a peer, and the two cooperate when a matter needs both legal and tactical authority.
 - **[[affiliation-gronverdir|The Green Wardens]]** cooperate with the Speakers formally in winter, since weather and harvest are interrelated concerns.
 - **[[affiliation-thursborn|The Giant's Children]]** are the order's closest neighbors in belief, because both orders take an interest in primal forces. They cooperate in the field more often than the Speakers do with the more domestic orders.
-- **[[affiliation-ordoarcanis|Thordimalon]]** has tried formal cooperation with no other Asguardian fighting order. It proposed joint research into weather-craft, the order politely declined, and the order regards Arcane Order interest in its weather-craft with grave suspicion.
+- **The [[affiliation-ordoarcanis|Thordimalon]]** has tried formal cooperation with no other Asguardian fighting order. It proposed joint research into weather-craft, the order politely declined, and the order regards Arcane Order interest in its weather-craft with grave suspicion.
 
 ## How to Know a Speaker
 

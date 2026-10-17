@@ -16,7 +16,7 @@ data:
 # terran_analog: "Semi-arid interior plateau of peninsular India—basalt tableland in the rain-shadow of the coastal ranges, held by transhumant cattle-herding lineages whose wealth is stock and water rights rather than cultivated land"
 ---
 
-**Vandyabhumi** is the high dry interior of the [[place-vedyarargn|Vedyara Region]], the block of tableland the four great rivers run past and do not water. It stands a thousand feet or so above the plains that surround it, it is bounded on the east by [[place-mahanadi|The Mahanodi]]'s western tributaries and on the west by the escarpment that falls to the arid western coast, and it is the one large country of the subcontinent that no river valley organizes.
+**Vandyabhumi** is the high dry interior of [[place-vedyarargn|Vedyara]], the block of tableland the four great rivers run past and do not water. It stands a thousand feet or so above the plains that surround it, it is bounded on the east by [[place-mahanadi|the Mahanodi]]'s western tributaries and on the west by the escarpment that falls to the arid western coast, and it is the one large country of the subcontinent that no river valley organizes.
 
 The name is the lowlands'. _Vendya_ means barren, and a Vedyari of the Mahanodi plain glosses it as ground that will not take a plow. The people on the plateau use the name and do not accept the judgment in it. The country carries more cattle to the acre than any floodplain in Vedyara, and the floodplains plow with bullocks bred on it.
 
@@ -36,13 +36,13 @@ The plateau sells bullocks, hides, horn, ghee, coarse wool and the draft animals
 
 The plateau plants nothing that matters and its year does not turn on a flood. It turns on the day the herds move, and that day is fixed by a priest reading the season, not by a river. Where a river janapoda and a coastal port keep two different calendars and argue about the [Mahva-Melra]{.name data-type="lore/gathering"}, the plateau keeps a third and is not consulted.
 
-It is also where the count began. The temples here follow [[lore-mdhvndrcnt|The Madustana Count]] as the [[affiliation-trimurtisampradaya|Triyanga-sampradeya]] sights it and hold the computed year to be an impertinence, and they say so more loudly than temples with more at stake, because the epoch is theirs.
+It is also where the count began. The temples here follow [[lore-mdhvndrcnt|the Madustana count]] as the [[affiliation-trimurtisampradaya|Triyanga-sampradeya]] sights it and hold the computed year to be an impertinence, and they say so more loudly than temples with more at stake, because the epoch is theirs.
 
 ## Madustana
 
 The capital of the philosopher-kings stands on open pasture in the center of the plateau, roofless and unquarried. Its walls are standing to the height of a man over most of their circuit, its street grid is legible from the ridge above it, and drovers water stock at its tanks, which still hold. The dry air has kept it. Nothing on the plateau has been built at that scale since, and nothing needs to be.
 
-The reign that raised it standardized Classical [[skill-vedyarlng|Vedyari Language]] and produced the commentaries, the legal codes and the epics every educated Vedyari still studies, and the whole civilization numbers its years from it. A quarter of a million people gather at the assembly of the [[affiliation-janpdsvdyr|Janapadas of Vedyara]] on the Mahanodi to do business in a calendar that begins at a ruin nobody governs and few of them have seen.
+The reign that raised it standardized Classical [[skill-vedyarlng|Vedyari]] and produced the commentaries, the legal codes and the epics every educated Vedyari still studies, and the whole civilization numbers its years from it. A quarter of a million people gather at the [[affiliation-janpdsvdyr|Mahva-Sangra's assembly]] on the Mahanodi to do business in a calendar that begins at a ruin nobody governs and few of them have seen.
 
 ## Who Holds It
 
@@ -88,7 +88,7 @@ The query names the settlements of the plateau. A herd walks between wells for m
 [[lore-mdhvndrcnt|The Madustana Count]]
 : the year-count dated from the capital on the plateau
 
-[[place-mahanadi|The Mahanodi]] · [[place-sarvadarivr|The Sarveda]]
+[[place-mahanadi|The Mahanodi]] · [[place-sarvadarivr|the Sarveda]]
 : the valleys the plateau stands between
 
 [[affiliation-janpdsvdyr|Janapadas of Vedyara]]

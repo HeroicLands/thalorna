@@ -181,13 +181,13 @@ sohl:
   flags: {"thalorna": {lang_family: Trans-Grazian}}
 ---
 
-Hvarn Language is the tongue of [[affiliation-hvarnguides|The Hvarn]] of [[place-estrnreach|The Eastern Reach]]. Fluency measures how much of it a speaker commands, from the fort-contract vocabulary a lowland factor picks up to the full speech of the winter house. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Hvarn is the tongue of [[affiliation-hvarnguides|the Hvarn]] of [[place-estrnreach|the Eastern Reach]]. Fluency measures how much of it a speaker commands, from the fort-contract vocabulary a lowland factor picks up to the full speech of the winter house. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
-Hvarn is not related to [[skill-osketlng|Osket Language]], which surprises everyone who has assumed it must be. The two peoples live three hundred miles apart along the same wall, do much the same work, marry across the gap occasionally, and speak languages with no demonstrable common stock—a fact both peoples state without interest and lowland scholars find difficult to accept.
+Hvarn is not related to [[skill-osketlng|Osket]], which surprises everyone who has assumed it must be. The two peoples live three hundred miles apart along the same wall, do much the same work, marry across the gap occasionally, and speak languages with no demonstrable common stock—a fact both peoples state without interest and lowland scholars find difficult to accept.
 
-It is the trans-Grazian language outsiders most often learn, which is to say that perhaps forty lowlanders speak it. They are the factors who renegotiate the garrison contract, a handful of eastern janapada clerks, and the occasional soldier of [[place-sanghafort|The Sangra-fort]] who has wintered at [[place-nurvhrn|Nurvharn]] and come back fluent and strange.
+It is the trans-Grazian language outsiders most often learn, which is to say that perhaps forty lowlanders speak it. They are the factors who renegotiate the garrison contract, a handful of eastern janapada clerks, and the occasional soldier of [[place-sanghafort|the Sangha-fort]] who has wintered at [[place-nurvhrn|Nurvharn]] and come back fluent and strange.
 
 ## How Hvarn sounds
 
@@ -239,7 +239,7 @@ Final Consonants
 : Unrestricted, and a final cluster of three is ordinary
 
 Word Length
-: Short and dense; a two-syllable Hvarn word routinely carries what [[skill-vedyarlng|Vedyari Language]] needs five for
+: Short and dense; a two-syllable Hvarn word routinely carries what [[skill-vedyarlng|Vedyari]] needs five for
 
 ## Grammar Notes
 

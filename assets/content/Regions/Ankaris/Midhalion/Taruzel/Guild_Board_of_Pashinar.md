@@ -33,4 +33,4 @@ data:
 sohl: {system: {commonSkills: [taruzelilng]}}
 ---
 
-The **Guild Board of Pashinar** is the body of guild officials among the permanent townsfolk of [[place-pashinar|Pashinar]], the trading town that faces the mainland crossing on the largest island of the [[place-taruzelrgn|Taruzel Region]].
+The **Guild Board of Pashinar** is the body of guild officials among the permanent townsfolk of [[place-pashinar|Pashinar]], the trading town that faces the mainland crossing on the largest island of [[place-taruzelrgn|Taruzel]].

@@ -60,9 +60,9 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-"You are welcome in our libraries, which is more than most foreigners are told," an archivist of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] says to a scholar from [[place-helionis|Helionis]] who has come upriver to read. "Be welcome in the right order. The king-lists first, because they are what everything else is dated by, and then whatever you came for."
+"You are welcome in our libraries, which is more than most foreigners are told," an archivist of [[affiliation-rethsaar|Reth'Sa'ar]] says to a scholar from [[place-helionis|Helionis]] who has come upriver to read. "Be welcome in the right order. The king-lists first, because they are what everything else is dated by, and then whatever you came for."
 
-The Selat of Gar-Reth'Sa'ar, "the House of Reth'Sa'ar," is the learned selat of [[affiliation-upperrivrslt|The Upper River Selatu]], the empire's seat of writing, reckoning and recorded knowledge. Its schools are the finest in the empire, its astronomers keep the empire's calendar, and its archivists, lawyers, mathematicians and physicians begin their training under the god's wing. About 700,000 people live under it, and the land it holds is [[place-garrethsaarnome|Gar-Reth'Sa'ar]].
+Gar-Reth'Sa'ar, "the House of Reth'Sa'ar," is the learned selat of [[affiliation-upperrivrslt|the Upper River Selatu]], the empire's seat of writing, reckoning and recorded knowledge. Its schools are the finest in the empire, its astronomers keep the empire's calendar, and its archivists, lawyers, mathematicians and physicians begin their training under the god's wing. About 700,000 people live under it, and the land it holds is [[place-garrethsaarnome|Gar-Reth'Sa'ar]].
 
 ## Character
 
@@ -70,12 +70,12 @@ Gar-Reth'Sa'ar is the empire's memory and its schoolroom. Its temper is bookish,
 
 Two powers divide the selat. The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] governs the land and the grain from [[place-khelunu|Khelunu]]; the Thaz'Lekhau of Reth'Sa'ar governs the word and the number. The priesthood is the dominant power. It is less wealthy than the great mortuary or solar cults and more influential than its purse, for it controls the archives, certifies the scribes, computes the calendar, and is trusted to keep the king-lists that legitimize every dynasty. In a civilization that runs on records, that is no small thing.
 
-The selat draws ambitious youths from every corner of the empire to its schools and sends them back out as the scribes, accountants and learned men who actually run the [[affiliation-empireakhlth|Empire of Au'Khelathu]].
+The selat draws ambitious youths from every corner of the empire to its schools and sends them back out as the scribes, accountants and learned men who actually run [[affiliation-empireakhlth|Au'Khelathu]].
 
 ## Notable Features
 
 - The scribal schools, the empire's finest and the gold standard of literate training
-- The priestly archives and the unbroken king-lists since [[lore-qettelgu|The Qet Telgu]]
+- The priestly archives and the unbroken king-lists since [[lore-qettelgu|the Qet Telgu]]
 - The scriptoria and the medical, legal and mathematical learning of the temple
 
 ## For the Worldbuilder

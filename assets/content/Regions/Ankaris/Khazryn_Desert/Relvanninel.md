@@ -22,7 +22,7 @@ The palace is built of the sand it stands on. The craft of the house was to fuse
 
 ## The Household
 
-Twelve people live in the palace, and they have lived there for ninety years. They are the last prince, [Garmelul]{.name data-type="being/npc"}, his wife, his daughter [Yelhule]{.name data-type="being/npc"}, his brother, his steward, a physician, a lamp-maker and five servants. They sit at a long table in the great hall in the clothes they wore when the [[affiliation-tribestrzd|Tribes of Atarzád]] came, and they have not aged a day. Their skin is clear and cold, with the faint green translucence of the glass the house worked. They breathe. They eat what they are given. They are polite, curious and very hungry for news.
+Twelve people live in the palace, and they have lived there for ninety years. They are the last prince, [Garmelul]{.name data-type="being/npc"}, his wife, his daughter [Yelhule]{.name data-type="being/npc"}, his brother, his steward, a physician, a lamp-maker and five servants. They sit at a long table in the great hall in the clothes they wore when the [[affiliation-tribestrzd|Atarzád]] came, and they have not aged a day. Their skin is clear and cold, with the faint green translucence of the glass the house worked. They breathe. They eat what they are given. They are polite, curious and very hungry for news.
 
 A traveler who enters the gate is welcomed by the steward, given water to wash and a seat at the table, and asked nothing, as the law of the guest requires. The Tellumi rule of hospitality is absolute, and the house keeps it with an exactness no other house has ever managed.
 
@@ -39,7 +39,7 @@ The reflections in the east wing show every guest who has slept there, some nine
 
 The last prince, Garmelul, faced the loss of everything: the oasis, the palace, the line itself. Beneath the palace, in a cistern cut into the rock to hold the house's furnace-water, the sand had fused around a vein of black glass that the princes had never been able to cut. In the fifth year of [The Breaking]{.name data-type="lore/history"} he went down to it and spoke, and it answered.
 
-Something lives under the sands, and the Tellumi who know of it call it the [Tenant]{.name data-type="being/creature"}. It is not a god, a spirit or an elemental. It is a piece of the outside, the same stuff that [[lore-theshadow|The Shadow]] is, brought up into the world in a seam of stone, and it has been waiting for a mouth. It gave the house what it asked. The line would survive, whole and unchanged, as long as the house was unbroken. In return the Tenant takes what the house can give, which is the one thing the house has never refused: guests.
+Something lives under the sands, and the Tellumi who know of it call it the [Tenant]{.name data-type="being/creature"}. It is not a god, a spirit or an elemental. It is a piece of the outside, the same stuff that [[lore-theshadow|the Shadow]] is, brought up into the world in a seam of stone, and it has been waiting for a mouth. It gave the house what it asked. The line would survive, whole and unchanged, as long as the house was unbroken. In return the Tenant takes what the house can give, which is the one thing the house has never refused: guests.
 
 ## Reaching It
 

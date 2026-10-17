@@ -398,7 +398,7 @@ Thalrik Halren is a 46-year-old man who stands 6'5" tall and is broad and solidl
 
 Thalrik Halren is a woodcutter of [[place-portaelion|Port Aelion]], on the coast of [[place-elavendre|Élavendre]], an [[lore-elavendriclt|Élavendri]] freeman who has worked the wooded slopes above the harbor since he was a boy.
 
-Thalrik cuts under license, as every Élavendri woodcutter does. The Crown's forest court at [[place-liranel|Liranel]] issues the licenses, and above the licensed belt the old forest begins, which the [[affiliation-alndnwrdns|Áelendan Wardens]] patrol and nobody cuts. He has spent thirty years learning exactly where that line runs and which trees on his side of it can be taken without harming the stand, and the carpenters and shipwrights of Port Aelion have learned that a Halren load is sound timber, honestly measured. He works alone by choice.
+Thalrik cuts under license, as every Élavendri woodcutter does. The Crown's forest court at [[place-liranel|Liranel]] issues the licenses, and above the licensed belt the old forest begins, which the [[affiliation-alndnwrdns|Wardens]] patrol and nobody cuts. He has spent thirty years learning exactly where that line runs and which trees on his side of it can be taken without harming the stand, and the carpenters and shipwrights of Port Aelion have learned that a Halren load is sound timber, honestly measured. He works alone by choice.
 
 ## Psyche
 

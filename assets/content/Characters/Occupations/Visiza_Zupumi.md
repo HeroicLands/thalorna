@@ -395,7 +395,7 @@ Visiza Zupumi is a 25-year-old woman who stands 6'3" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel Region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Visiza Zupumi came into the world of the bodyguard through a combination of circumstance and aptitude.
+Born in the [[place-taruzelrgn|Taruzel region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Visiza Zupumi came into the world of the bodyguard through a combination of circumstance and aptitude.
 
 Visiza has spent several years as a bodyguard, specializing in protecting merchants and minor nobility during travel and public appearances. Known for her keen instincts and outstanding combat skills, she has earned a reputation for being a reliable protector. Visiza values loyalty and dedication, often forming close bonds with those she protects. She is trained in both combat and negotiation, ensuring the safety of her clients while maintaining their dignity.
 

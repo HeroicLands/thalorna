@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-At a hov where the local ting sits, the person who hears your dispute may be the same person who enforces the ruling. In the [[affiliation-eidgar|Faith of Eidgar]] that person is often of Logbrandr, the Order of the Sword.
+At a hov where the local ting sits, the person who hears your dispute may be the same person who enforces the ruling. In [[affiliation-eidgar|Eidgar's faith]] that person is often of the Order of the Sword.
 
 Logbrandr, the Order of the Sword, trains priests in the mastery of combat and the upholding of justice. They serve the hovs where the ting sits as judges and defenders in one, hearing a dispute as readily as they draw a blade to enforce its outcome, and they answer to the hov's own gudi for both.

@@ -51,7 +51,7 @@ sohl: {system: {commonSkills: []}}
 
 A ward clerk, asked what a _peltros_ (ward magistrate) does all day, answers with the district law: "He decides what may be sold where. Then he decides who is selling it in the wrong place. Find out which of those two jobs your premises will fall under before you open your shutters."
 
-The _peltroi_, who together make up the **Pelthralon**, are the civic magistrates of [[place-orzara|Orzara City]], and the only court most of its people will ever stand before. They keep the **district law**—the intricate and jealously enforced body of rule that dictates precisely what trade, craft and commerce may be conducted in each quarter of the city, and what may not.
+The _peltroi_, who together make up the **Pelthralon**, are the civic magistrates of [[place-orzara|Orzara]], and the only court most of its people will ever stand before. They keep the **district law**—the intricate and jealously enforced body of rule that dictates precisely what trade, craft and commerce may be conducted in each quarter of the city, and what may not.
 
 Their jurisdiction is the ordinary business of a city of a million: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. Their inspectors can shutter a business, levy a fine, or order a building pulled down, and the [[affiliation-vylrnmltry|City Watch]] supplies the muscle behind the ruling. The Watch enforces and investigates; it does not judge. The _peltroi_ judge.
 

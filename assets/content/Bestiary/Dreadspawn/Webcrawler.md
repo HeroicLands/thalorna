@@ -190,7 +190,7 @@ The old fort is half swallowed by the forest, its walls green with moss and spli
 
 # Dossier {#dossier}
 
-The Webcrawler is a dreadspawn in the shape of a great black spider, five to seven feet in the body with a leg-span of eight to twelve feet more, which fills dark, confined places with webs so fine they cannot be seen and so strong they cannot be broken by hand. It is inventive, patient and clever, and it designs its traps for the prey it expects. One holds an overgrown Vylarian fort in [[place-vandstein|Vandstein]], the stony southern edge of the [[place-vrystwald|Vristwald]] toward [[place-vylariargn|Vylaria Region]], where the posts of an older imperial reach survive under the trees. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Webcrawler is a dreadspawn in the shape of a great black spider, five to seven feet in the body with a leg-span of eight to twelve feet more, which fills dark, confined places with webs so fine they cannot be seen and so strong they cannot be broken by hand. It is inventive, patient and clever, and it designs its traps for the prey it expects. One holds an overgrown Vylarian fort in [[place-vandstein|Vandstein]], the stony southern edge of the [[place-vrystwald|Vristwald]] toward [[place-vylariargn|Vylaria]], where the posts of an older imperial reach survive under the trees. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -206,7 +206,7 @@ The webcrawler builds and rebuilds its web constantly, a three-dimensional net t
 
 ## What the Forest Villages Do
 
-The [[lore-varokhiclt|Varokhi]] villages below Vandstein's passes keep away from the old posts in general, because a ruin that draws an imperial claimant into ground a village considers its own is trouble whatever is in it. They keep away from this one in particular. Fur traders crossing the passes are told, at the last village, not to shelter in the old fort however bad the weather, and the ones who have done so anyway tell of stairs that held their feet and a companion who went down to the cellar for wood. Vylarian surveyors who came up a few years ago to look at the old posts, with a claim in mind, sent two men into this one; the village elders say the surveyors went home with a smaller claim. The villagers burn the brush round the fort's gate every few years, to keep the forest from hiding it from anyone who needs to see it and stay away.
+The [[lore-varokhiclt|Varokh]] villages below Vandstein's passes keep away from the old posts in general, because a ruin that draws an imperial claimant into ground a village considers its own is trouble whatever is in it. They keep away from this one in particular. Fur traders crossing the passes are told, at the last village, not to shelter in the old fort however bad the weather, and the ones who have done so anyway tell of stairs that held their feet and a companion who went down to the cellar for wood. Vylarian surveyors who came up a few years ago to look at the old posts, with a claim in mind, sent two men into this one; the village elders say the surveyors went home with a smaller claim. The villagers burn the brush round the fort's gate every few years, to keep the forest from hiding it from anyone who needs to see it and stay away.
 
 ## Signs
 

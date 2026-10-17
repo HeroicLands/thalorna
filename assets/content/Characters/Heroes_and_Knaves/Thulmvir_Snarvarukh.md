@@ -416,7 +416,7 @@ sohl:
 
 ![[thlmvrsnrvrkh|Thulmvir Snarvaruk]]{float=top-left}
 
-Thulmvir Snarvaruk stands 6'1" tall with a medium build. He has tanned weathered skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a prominent chin, a small mouth, straight brows.
+Thulmvir stands 6'1" tall with a medium build. He has tanned weathered skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a prominent chin, a small mouth, straight brows.
 
 # Dossier {#dossier}
 

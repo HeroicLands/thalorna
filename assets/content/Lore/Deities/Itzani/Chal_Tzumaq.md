@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [], population: 0, packFolder: settingl
 
 ## Overview
 
-Ch'al Ts'umaq—"beneath the night sky"—is the underworld of the [[affiliation-itzanpnthn|Itsani Pantheon]], and its mouths are everywhere in the [[place-kchchkcntnnt|K'ich'chik Continent]]. It lies beneath every cenote, cave and sacred spring, and the [[place-kankulrgn|K'ankul]] priesthood teaches that the sun itself passes through it each night on its way to rebirth at dawn. It is the domain of [[lore-tzuqilixbaldty|Ts'uqil Ish'bal]], the death god, and a priest of that faith explains it to a newcomer before anything else: it is not a place of punishment but of passage.
+Ch'al Ts'umaq—"beneath the night sky"—is the underworld of the [[affiliation-itzanpnthn|Itsani faith]], and its mouths are everywhere in [[place-kchchkcntnnt|K'ich'chik]]. It lies beneath every cenote, cave and sacred spring, and the [[place-kankulrgn|K'ankul]] priesthood teaches that the sun itself passes through it each night on its way to rebirth at dawn. It is the domain of [[lore-tzuqilixbaldty|Ts'uqil Ish'bal]], the death god, and a priest of that faith explains it to a newcomer before anything else: it is not a place of punishment but of passage.
 
 ## The Passage
 

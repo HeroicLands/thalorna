@@ -36,4 +36,4 @@ Nebralen Elthezis is a 54-year-old man who stands 5'7" tall with a heavy build. 
 
 # Dossier {#dossier}
 
-Nebralen Elthezis is the kindly captain of the merchant vessel _[Tempest's Mercy]{.name data-type="vehicle"}_. He found [[being-grmdnshrndns|Goremadanis Herendanis]] as a child stealing bread from the docks and, instead of turning her in to the city watch, offered her work aboard his ship. He has refused several offers to purchase her contract and insists that she keep her freedom to choose her work.
+Nebralen Elthezis is the kindly captain of the merchant vessel _[Tempest's Mercy]{.name data-type="vehicle"}_. He found [[being-grmdnshrndns|Goremadanis Hérendanis]] as a child stealing bread from the docks and, instead of turning her in to the city watch, offered her work aboard his ship. He has refused several offers to purchase her contract and insists that she keep her freedom to choose her work.

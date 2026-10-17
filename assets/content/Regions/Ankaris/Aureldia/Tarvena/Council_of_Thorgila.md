@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: [tarvenlng]}}
 ---
 
-The **Council of Thórgila** governs [[place-thorgila|Thórgila]], a hill town in the [[place-tarvenirgn|Tarvénia Region]].
+The **Council of Thórgila** governs [[place-thorgila|Thórgila]], a hill town in [[place-tarvenirgn|Tarvénia]].

@@ -8,7 +8,7 @@ tags: [draft, ruin, tower, construct]
 data: {demonym: null, lore: [], parents: [wilud], population: 0, packFolder: khazryndesert}
 ---
 
-A street of merchants' houses on the eastern edge of [[place-wilud|Vulud]] ends at a square tower of baked brick four stories high. A sand-front opened the street four years ago, a drift half filled its lower end the season after, and this season the wind has scoured the drift out again, so that the tower's doorway stands clear to its sill. The [[affiliation-rwlstrb|Uruvolur]] who found it call it **Bolidqiiso**, "the price-tower", because its lower floors are a counting-house of [[lore-towercities|The Tower Cities]], the Tower League, with its balances still standing, and because they have already sold the news of it twice.
+A street of merchants' houses on the eastern edge of [[place-wilud|Vulud]] ends at a square tower of baked brick four stories high. A sand-front opened the street four years ago, a drift half filled its lower end the season after, and this season the wind has scoured the drift out again, so that the tower's doorway stands clear to its sill. The [[affiliation-rwlstrb|Uruvolur]] who found it call it **Bolidqiiso**, "the price-tower", because its lower floors are a counting-house of [[lore-towercities|the Tower Cities]], the Tower League, with its balances still standing, and because they have already sold the news of it twice.
 
 ## What It Is
 

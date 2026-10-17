@@ -8,9 +8,9 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [nrdlndsrgn], population: 0, packFolder: nordlands}
 ---
 
-The fires at Braldfjall show long before the mountain does: an orange smear on the dark where the summit ought to be, which is the temple, and the mark a pilgrim of the [[affiliation-svartbrandr|Faith of Svartbrandr]] keeps her eyes on when the path gets bad.
+The fires at Braldfjall show long before the mountain does: an orange smear on the dark where the summit ought to be, which is the temple, and the mark a pilgrim of [[affiliation-svartbrandr|Svartbrandr]] keeps her eyes on when the path gets bad.
 
-Braldfjall is a mountain of the [[place-nrdlndsrgn|Nordlands Region]] sacred to [[lore-svartbrandrdty|Svartbrandr]]. On it stands **the [Flame Temple of Braldfjall]{.name data-type="place/structure"}**, the god's most sacred temple and the primary seat of the faith.
+Braldfjall is a mountain of the [[place-nrdlndsrgn|Nordlands]] sacred to [[lore-svartbrandrdty|Svartbrandr]]. On it stands **the [Flame Temple of Braldfjall]{.name data-type="place/structure"}**, the god's most sacred temple and the primary seat of the faith.
 
 ## The High Priests
 

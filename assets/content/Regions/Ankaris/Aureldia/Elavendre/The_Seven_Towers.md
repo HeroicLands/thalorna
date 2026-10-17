@@ -14,8 +14,8 @@ data:
 ---
 
 **The Seven Towers** is a [[lore-flksinale|Sinalean]] song held in [[place-elavendre|Élavendre]]. The
-[[lore-aelendnppl|Áelendan People]] count it among the songs first heard at [[place-aelirosse|Aelirosse]] and
-carried out of [[place-silvrfrsts|The Silver Forests]] by people to whom it was given freely, and their
+[[lore-aelendnppl|Áelendan]] count it among the songs first heard at [[place-aelirosse|Aelirosse]] and
+carried out of [[place-silvrfrsts|the Silver Forests]] by people to whom it was given freely, and their
 Tradition Keepers hold it with the tribal songs. [[affiliation-bardicolgs|The Bardic Colleges]] sing it to
 the harp as a Sinalean gift, at three and four removes from any Sinale who ever sang it. Some Áelendan songs
 set the enclave at the edge of what the Sinale call the deeper places, and the Tradition Keepers sing what
@@ -113,6 +113,6 @@ It was the finest thing that anyone has made,
 
 ## See Also
 
-- [[lore-khazarturn|The Fall of Khazartúrn]] · [[lore-oldcompact|The Old Compact]] · [[lore-flksinale|Sinale]]
-- [[place-aelirosse|Aelirosse]] · [[affiliation-bardicolgs|The Bardic Colleges]] ·
-  [[lore-aelendnppl|Áelendan People]] · [[lore-faecourts|The Fae Courts]]
+- [[lore-khazarturn|The Fall of Khazartúrn]] · [[lore-oldcompact|the Old Compact]] · [[lore-flksinale|Sinale]]
+- [[place-aelirosse|Aelirosse]] · [[affiliation-bardicolgs|the Bardic Colleges]] ·
+  [[lore-aelendnppl|Áelendan People]] · [[lore-faecourts|the Fae Courts]]

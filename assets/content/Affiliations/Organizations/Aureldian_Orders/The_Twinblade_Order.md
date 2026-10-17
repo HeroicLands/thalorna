@@ -60,7 +60,7 @@ Region
 
 ## Overview
 
-If [[affiliation-ordrsldwrd|The Order of the Sealed Word]] is the juridical arm of the [[affiliation-ardavon|Faith of Árdavon]]—riding to where oaths have been broken to render judgment—the Twinblade Order is its territorial one. The Twinblades guard _thresholds_: the great city gates of the Aureldian capitals, the contested borders between kingdoms, the sacred boundaries around fae-touched groves and ancient battlefields, the formal frontier-stones marking where one polity ends and another begins. Their working principle is that thresholds are the places where one order gives way to another, that these places are sacred to Árdavon by their nature, and that they require armed presence to hold their sanctity against the casual transgression that would otherwise erode them.
+If [[affiliation-ordrsldwrd|the Order of the Sealed Word]] is the juridical arm of the [[affiliation-ardavon|Faith of Árdavon]]—riding to where oaths have been broken to render judgment—the Twinblade Order is its territorial one. The Twinblades guard _thresholds_: the great city gates of the Aureldian capitals, the contested borders between kingdoms, the sacred boundaries around fae-touched groves and ancient battlefields, the formal frontier-stones marking where one polity ends and another begins. Their working principle is that thresholds are the places where one order gives way to another, that these places are sacred to Árdavon by their nature, and that they require armed presence to hold their sanctity against the casual transgression that would otherwise erode them.
 
 A Twinblade is not, primarily, a frontier guard in the conventional military sense. The kingdoms maintain their own border forces. What a Twinblade is, is the _ritual_ presence at the threshold—the figure whose acknowledged authority confers on the gate or boundary the recognition of a binding limit. When a noble's retinue approaches a city gate that has been formally closed to him, the kingdom's gate-guards may attempt to refuse him entry; the Twinblade present is who refuses him with the authority that the noble's blood and rank cannot override. When a treaty-line is contested by competing claimants, the Twinblade stationed at the line is who confirms which side of the line a given act has fallen on. When a sacred boundary has been violated, the Twinblade is who pursues the violator and brings him to account.
 
@@ -77,7 +77,7 @@ There are two working ranks above the candidacy, and two offices drawn from them
 - **Marendos of the Gate**—chapter leader; one per chapter house; presides over chapter affairs.
 - **Voice of the Twin Gate**—the order's chair; one position; chosen by the assembled _marendoi_ (masters); serves for life or until resignation.
 
-The order has chapter houses at each of the most consequential thresholds in the [[place-aureldirgn|Aureldia Region]]: the great gates of [[place-olvestria|Ólvestra]], [[place-beravel|Péravel]], [[place-aelissium|Elissara]], [Karatos]{.name data-type="place/settlement"}, and [[place-liranel|Liranel]]; the principal treaty-borders between the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] and the [[affiliation-kngdmprvnz|Kingdom of Provenzia]], Provenzia and the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], and Élavendre and [[place-aelwyth|Aelwyth]]; the more important fae-touched groves with [[affiliation-groveconcl|The Grove Council]] recognition; and a small number of historical battlefields whose threshold-status the order maintains.
+The order has chapter houses at each of the most consequential thresholds in [[place-aureldirgn|Aureldia]]: the great gates of [[place-olvestria|Ólvestra]], [[place-beravel|Péravel]], [[place-aelissium|Elissara]], [Karatos]{.name data-type="place/settlement"}, and [[place-liranel|Liranel]]; the principal treaty-borders between the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] and the [[affiliation-kngdmprvnz|Kingdom of Provenzia]], Provenzia and [[affiliation-kngdmlvndr|Élavendre]], and Élavendre and [[place-aelwyth|Aelwyth]]; the more important fae-touched groves with [[affiliation-groveconcl|the Grove Council]] recognition; and a small number of historical battlefields whose threshold-status the order maintains.
 
 ## Notable Members
 
@@ -123,7 +123,7 @@ The [[affiliation-ordrsldwrd|Order of the Sealed Word]]
 The [[affiliation-groveconcl|Grove Council]] and [[affiliation-alndnwrdns|Áelendan Wardens]]
 : formal cooperation on sacred-boundary work in Élavendre. The relationship is cordial and procedural.
 
-[[affiliation-ordershnvw|The Order of the Ashen Vow]] and [[affiliation-ironcinder|The Iron Cinder]]
+[[affiliation-ordershnvw|The Order of the Ashen Vow]] and [[affiliation-ironcinder|the Iron Cinder]]
 : [[affiliation-blackflame|The Black Flame]]'s orders; mutually hostile. Black Flame operatives attempting to cross thresholds the Twinblades guard are refused; the refusal is sometimes contested by combat.
 
 Foreign jurisdictions

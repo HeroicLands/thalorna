@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-**Lin'Mazgaru elu Au'Khelathu**, the **Quantity Merchants**, are dealers across the [[place-aukhelathrgq|Au'Khelathu Region]] who buy and sell by volume and care little about the quality of any single lot. They trade margin for turnover and prize a supplier who ships quickly over one who ships well. A supplier who refuses to send inferior stock to fill an order commits, in the guild's own reckoning, an affront to profit.
+**Lin'Mazgaru elu Au'Khelathu**, the **Quantity Merchants**, are dealers across [[place-aukhelathrgq|Au'Khelathu]] who buy and sell by volume and care little about the quality of any single lot. They trade margin for turnover and prize a supplier who ships quickly over one who ships well. A supplier who refuses to send inferior stock to fill an order commits, in the guild's own reckoning, an affront to profit.
 
 ## Character
 

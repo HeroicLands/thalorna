@@ -18,7 +18,7 @@ The surveyors of [[place-lenennezut|Lenen-Nezut]] walk every field in the selat 
 
 ## How It Was Made
 
-In the season of [[lore-geletssn|Gelet]] of 1612 ST (499 BF) the hill-nomads of the west destroyed the last army of [[place-galezkara|Galezkara]] here, and the Gar-Au [Amqel'Uzner I]{.name data-type="being/npc"} died with it ([[lore-thaulgau|The Coming of the Tha'Ulgau]]). The victors forbade the rites. Thousands of men lay unwrapped on the silt through the season of [[lore-sheluessn|Shelu]], and the next flood covered them. Nobody entered their names, and nobody has found a way to enter them since.
+In the season of [[lore-geletssn|Gelet]] of 1612 ST (499 BF) the hill-nomads of the west destroyed the last army of [[place-galezkara|Galezkara]] here, and the Gar-Au [Amqel'Uzner I]{.name data-type="being/npc"} died with it ([[lore-thaulgau|the Coming of the Tha'Ulgau]]). The victors forbade the rites. Thousands of men lay unwrapped on the silt through the season of [[lore-sheluessn|Shelu]], and the next flood covered them. Nobody entered their names, and nobody has found a way to enter them since.
 
 ## What It Is
 
@@ -32,7 +32,7 @@ The hunters that gather where unwrapped dead lie do not cross on ground this thi
 
 Nobody farms it, and nobody owns it. Because it is entered in no roll, its render has been remitted for twelve centuries, and the remission is the only thing the crown has ever done about it. The road bends round, and the villages on its edge shut their doors on the field's side after dark.
 
-Each Gelet a priest of the [[affiliation-hezmuiri|Faith of Hezmu'iri]] from Lenen-Nezut stands at its edge and holds a Reading for the unnamed. A Reading closes on a name, and these have none, so the field is as it was the morning after. A family that can prove an ancestor lay here and bring his name to the edge is the one thing that settles any part of it. In twelve centuries that has happened a handful of times.
+Each Gelet a priest of [[affiliation-hezmuiri|Hezmu'iri]] from Lenen-Nezut stands at its edge and holds a Reading for the unnamed. A Reading closes on a name, and these have none, so the field is as it was the morning after. A family that can prove an ancestor lay here and bring his name to the edge is the one thing that settles any part of it. In twelve centuries that has happened a handful of times.
 
 The Halzi'a house of [Tha'Ulgau]{.name data-type="affiliation/lineage"}, the kin of the conquerors, settled on the western pastures in 1671 ST (440 BF), makes the yearly offering at the edge. Its ancestors owe it, and the house has kept the debt as it keeps its horses.
 

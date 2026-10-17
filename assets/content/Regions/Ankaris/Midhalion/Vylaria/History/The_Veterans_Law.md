@@ -54,7 +54,7 @@ data:
         - whether Arkanamos meant the dole to be a standing charge or a gift for the generation that first drew it
 ---
 
-In The Veterans' Law, a centurion puts the bargain to each year's recruits on the morning they swear the oath. He does not know that the words come from a statute, and nobody has told him: the law is more than six hundred years old, and the speech has been handed from centurion to centurion until it sounds like a proverb. "There is one door," he finishes, "and the army holds it open." [[affiliation-seldan|Seldan]] (the Senate) can open another for a single man by grant, and a grantee stands exactly as a veteran does.
+A centurion puts the bargain to each year's recruits on the morning they swear the oath. He does not know that the words come from a statute, and nobody has told him: the law is more than six hundred years old, and the speech has been handed from centurion to centurion until it sounds like a proverb. "There is one door," he finishes, "and the army holds it open." [[affiliation-seldan|Seldan]] (the Senate) can open another for a single man by grant, and a grantee stands exactly as a veteran does.
 
 ## The Statute
 
@@ -69,7 +69,7 @@ Recruits in numbers the Republic's levy never gave. A legion filled by men who w
 ## What It Left
 
 - **An old soldiers' city.** The capital's citizen body is a veterans' class at its core, and the dole is the thing every Orzas fears to miss.
-- **A charge the treasury can neither afford nor cut.** The dole began as the reward for the first generation of veterans and is now the largest standing charge on the [[affiliation-vylarinmpr|Vylarian Empire]].
+- **A charge the treasury can neither afford nor cut.** The dole began as the reward for the first generation of veterans and is now the largest standing charge on the [[affiliation-vylarinmpr|Empire]].
 - **The waiver and its clerks.** A resident needs a registered waiver to sleep inside the thrima, and the clerks who register them sell them.
 - **The nobility's exemption.** The only citizens by birth, which is part of what makes them the nobility.
 

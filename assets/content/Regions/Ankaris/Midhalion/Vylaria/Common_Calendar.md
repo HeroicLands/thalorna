@@ -63,13 +63,13 @@ Years are reckoned **[After the Founding]{.name data-type="lore/calendar"} (AF)*
 
 ## Who Keeps It
 
-The Vylarian Calendar is the working calendar of the [[place-midhalnrgn|Mídhalión Region]], the [[place-aureldirgn|Aureldia Region]], and every land the Vylarian Empire's cultural sphere still reaches: [[place-helionis|Helionis]], the [[place-byzariargn|Bizaria Region]], the [[place-taruzelrgn|Taruzel Region]], the [[place-provenzrgn|Provenzia Region]], the [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]] all date by it. Vylarian political authority made the calendar, and the lands that still keep it mark where that authority is still felt.
+The Vylarian Calendar is the working calendar of the [[place-midhalnrgn|Mídhalión Region]], [[place-aureldirgn|Aureldia]], and every land the Vylarian Empire's cultural sphere still reaches: [[place-helionis|Helionis]], the [[place-byzariargn|Bizaria Region]], the [[place-taruzelrgn|Taruzel Region]], the [[place-provenzrgn|Provenzia Region]], the [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]] all date by it. Vylarian political authority made the calendar, and the lands that still keep it mark where that authority is still felt.
 
-Beyond that sphere, other peoples keep their own count and do not translate into this one in ordinary use. The [[affiliation-empireakhlth|Empire of Au'Khelathu]] and [[affiliation-okharis|Okharis]] reckon from [[lore-qettelgu|The Qet Telgu]] (the First Occasion); the [[place-vedyarargn|Vedyara Region]] and the [[affiliation-tantsouempr|Empire of Tantsou]] keep independent dating systems of their own.
+Beyond that sphere, other peoples keep their own count and do not translate into this one in ordinary use. [[affiliation-empireakhlth|Empire of Au'Khelathu]] and [[affiliation-okharis|Okharis]] reckon from [[lore-qettelgu|the Qet Telgu]] (the First Occasion); [[place-vedyarargn|Vedyara]] and the [[affiliation-tantsouempr|Empire of Tantsou]] keep independent dating systems of their own.
 
 ## The Months
 
-Each month belongs to one of the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]]. Three carry an old form of the god's name, and nine are named in the [[skill-vylarilng|Vylari Language]] with the hallowed ending _-andi_, "in the keeping of": five for their gods, and four for the god's gift.
+Each month belongs to one of the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]]. Three carry an old form of the god's name, and nine are named in [[skill-vylarilng|Vylari]] with the hallowed ending _-andi_, "in the keeping of": five for their gods, and four for the god's gift.
 
 1. **Lizelandi** (30 days)—in the keeping of [[lore-lizelasdty|Lizelas]], the Nurturer; the year opens here, on the vernal equinox.
 2. **[Lusenar]{.name data-type="lore/calendar"}** (31 days)

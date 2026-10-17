@@ -27,9 +27,9 @@ Deep in the Túravel Hills of southern [[place-provenzrgn|Provenzia Region]] sta
 The party is approached by:
 
 - A scholar or antiquarian seeking pre-Aureldían knowledge
-- An agent of [[affiliation-ordoarcanis|Thordimalon]] claiming authority over arcane sites
+- An agent of the [[affiliation-ordoarcanis|Thordimalon]] claiming authority over arcane sites
 - A noble seeking to expand personal power through ancient practices
-- A guide of the [[affiliation-aelndntrbs|Áelendan Tribes]] or fae-touched individual with family memory of the shrine
+- [[affiliation-aelndntrbs|An Áelendi guide]] or fae-touched individual with family memory of the shrine
 - A priestess or priest of one of the Aureldian faiths concerned about the shrine's influence
 
 **Initial Information:**
@@ -72,7 +72,7 @@ The party must locate the shrine, a journey that may prove challenging:
 As the party draws near, they discover:
 
 - A clearing or hidden valley containing the shrine
-- Architecture that predates Provenzian settlement (possibly connected to the [[lore-flksinale|Sinale Folk]] or other ancients)
+- Architecture that predates Provenzian settlement (possibly connected to the [[lore-flksinale|Sinale]] or other ancients)
 - Inscriptions in archaic languages and pre-Aureldían symbols
 - Weathered statues or idols of forgotten deities
 - Signs of both religious veneration and deliberate damage (the shrine was likely desecrated or sealed)
@@ -138,7 +138,7 @@ Leave & Warn
 
 - The shrine is sacred to hidden worshippers, who oppose its disturbance
 - The Aureldian churches demand the shrine be desecrated or brought under their control
-- Thordimalon insists on studying any artifacts or magical sites discovered
+- The Thordimalon insists on studying any artifacts or magical sites discovered
 - Possession of items from the shrine draws unwanted attention (fae entities, ancient spirits, cults)
 - The shrine's power cannot be fully contained; knowledge of its existence spreads
 - The party is bound by oath or curse to protect or further the shrine's original purposes

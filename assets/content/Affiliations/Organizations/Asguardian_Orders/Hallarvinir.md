@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Say you are carried into a valley infirmary of the [[affiliation-frodvin|Faith of Frodvin]] with a fever. The one who sits with you tends your body and your fear together, and does not distinguish between them.
+Say you are carried into a valley infirmary of [[affiliation-frodvin|Frodvin]] with a fever. The one who sits with you tends your body and your fear together, and does not distinguish between them.
 
 Hallvinir, the Healers of the Hearth, are priests devoted to the body and the soul at once, caring for the sick and comforting the distressed at the infirmaries the faith keeps. Their work is indoor and constant, set beside the outdoor work of [[affiliation-gronhond|Gronhond]] in the fields and groves.

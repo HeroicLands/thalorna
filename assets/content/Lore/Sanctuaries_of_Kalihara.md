@@ -8,7 +8,7 @@ tags: [lore, kalihara, ithari-work]
 data: {packFolder: settinglore, culture: kaliharanclt}
 ---
 
-The Sanctuaries of Kalihara are kept by the custodians of [[place-klhrcntnnt|Kalihara Continent]], the [[affiliation-tharivaan|Thári'vaan]], who maintain some two dozen in the interior of the island. Each is a seminary, an archive, a workshop and a working site at once; each holds a cluster of the works of [[lore-theithari|The Ithari]] in its charge and one branch of custodial knowledge; and each is held by a custodian in the office of Warden of a Sanctuary. Three are greater than the rest, and between them they hold all four great works in their charge.
+The Sanctuaries of Kalihara are kept by the custodians of [[place-klhrcntnnt|Kalihara Continent]], the [[affiliation-tharivaan|Thári'vaan]], who maintain some two dozen in the interior of the island. Each is a seminary, an archive, a workshop and a working site at once; each holds a cluster of the works of [[lore-theithari|the Ithari]] in its charge and one branch of custodial knowledge; and each is held by a custodian in the office of Warden of a Sanctuary. Three are greater than the rest, and between them they hold all four great works in their charge.
 
 ## The Three Greater Sanctuaries
 
@@ -32,7 +32,7 @@ The lesser sanctuaries stand in their own country of the interior, each beside t
 | [[place-stillwatersill\|The Still-Water Sill]] | Custodians of Mirthaan        | The lineage Kuethori, which holds the sill                              |
 | [[lore-sarisul\|The tending-stones]]           | The lineage of each village   | The village's kaan'vaar, and on the terraces the custodians of Mirthaan |
 
-The custodians of [[place-windstones|The Wind-Stones]] winter at [[place-kuomethei|Kuomethei]], high on the southern crest, while [Deepwater]{.name data-type="lore/calendar"} closes the high paths. The custodians of dark works live there too, under the Keeper of the Failing Works, with no work left to tend and the count of the white ones to keep.
+The custodians of [[place-windstones|the wind-stones]] winter at [[place-kuomethei|Kuomethei]], high on the southern crest, while [Deepwater]{.name data-type="lore/calendar"} closes the high paths. The custodians of dark works live there too, under the Keeper of the Failing Works, with no work left to tend and the count of the white ones to keep.
 
 ## The Walks
 

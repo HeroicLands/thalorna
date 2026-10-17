@@ -8,7 +8,7 @@ tags: [nkaruthar, religion]
 data: {packFolder: settinglore}
 ---
 
-In the traditions of the [[lore-okharinclt|Okharin]], between [[lore-nkaruthardty|Nkaru'thar]] and the mortal world stand the Zohira—demi-gods
+In the traditions of the [[lore-okharinclt|Okharin]], between [[lore-nkaruthardty|Nkaru'thar]] and the mortal world stand the zohira—demi-gods
 or intermediary spirits tied to specific aspects of life such as fertility, storms, rivers, death,
 and the hunt. Their shrines are scattered across the kingdom, from the pyramidal complexes of the
 city-states to simple stone cairns in tribal territories.
@@ -65,7 +65,7 @@ events, and neither defers.
   the kingdom's soldiers. [[lore-shengelspr|Zohu Shéngeling]] is seated in the [Magara Spirit Blades]{.name data-type="weapongear"},
   which choose their own bearers. Where the temple would appoint, the blade decides, and the temple
   has never found a way to say the blade is wrong.
-- **Rank.** A High Pyremant outranks every priest in the [[place-okharisrgn|Okharis Region]] and does not outrank a shaman, because
+- **Rank.** A High Pyremant outranks every priest in [[place-okharisrgn|Okharis]] and does not outrank a shaman, because
   they are not on the same ladder at all—which means there is no procedure for what happens when
   the two disagree in a frontier village, and there never has been.
 
@@ -89,7 +89,7 @@ under any pressure to.
 
 Zohira differ from the spirit-guides of other peoples in one respect worth naming: they are
 addressed by **domain** first and place second. A river zohira is the spirit of rivers as such,
-met at this river; the same is not said of a river-mother of the [[lore-aelendnppl|Áelendan People]], one of [[lore-thekindred|The Kindred]], who is
+met at this river; the same is not said of a river-mother of the [[lore-aelendnppl|Áelendan People]], one of [[lore-thekindred|the Kindred]], who is
 the spirit of one stretch of one water and nothing beyond it.
 
 This is why a shaman who leaves their own country is not left helpless, as an Áelendan shaman

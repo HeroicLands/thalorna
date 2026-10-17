@@ -416,13 +416,13 @@ sohl:
 
 ![[carengrvth|Kárenna Graveth]]{float=top-left}
 
-Kárenna Graveth stands 6'0" tall with a light build. She has warm olive skin, black hair, and green eyes. Her features include an oblong face, a prominent nose, a strong jawline, well-defined lips, and expressive brows.
+Kárenna stands 6'0" tall with a light build. She has warm olive skin, black hair, and green eyes. Her features include an oblong face, a prominent nose, a strong jawline, well-defined lips, and expressive brows.
 
 # Dossier {#dossier}
 
 Born into [House Graveth]{.name data-type="affiliation/lineage"}, a cadet branch of nobility with connections to the royal court, Kárenna was raised in an environment where words were as valuable as swords and social grace was an imperative. Her early training in Heraldry began before she could properly write, learning the complex symbology and lineage of the noble houses, the elaborate forms of herald-craft, and the weight of official pronouncements. She proved adept at these studies, her natural eloquence and perceptiveness making her stand out among her peers.
 
-At twenty-four, she achieved full status as a Herald of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] and was attached to the royal household, a position of significant prestige. For the past eight years, she has been one of the kingdom's primary emissaries and bearers of official messages, attending royal functions, delivering proclamations, and—increasingly—handling delicate negotiations between fractious noble houses. Her success comes not from blind adherence to form, but from her willingness to adapt tradition to circumstance, to find common ground between opposing parties, and to speak with the voice of the crown in ways that inspire rather than merely compel obedience.
+At twenty-four, she achieved full status as a Herald of [[affiliation-kingdmtrvn|Tarvénia]] and was attached to the royal household, a position of significant prestige. For the past eight years, she has been one of the kingdom's primary emissaries and bearers of official messages, attending royal functions, delivering proclamations, and—increasingly—handling delicate negotiations between fractious noble houses. Her success comes not from blind adherence to form, but from her willingness to adapt tradition to circumstance, to find common ground between opposing parties, and to speak with the voice of the crown in ways that inspire rather than merely compel obedience.
 
 ## Psyche
 
@@ -474,10 +474,10 @@ Dependence on Position
 
 ### Patrons
 
-King [[being-iltherozedim|Ilthero Zedimis]] III
+King [[being-iltherozedim|Ilthero]] III
 : The aging monarch values Kárenna's counsel and has come to rely on her judgment in matters of diplomacy and internal realm politics. He has indicated subtle support for her continued advancement within the herald corps.
 
-Duke [[being-volkhemokald|Volkemo Kaldremis]] of the [Eastern Marches]{.name data-type="place/region"}
+Duke [[being-volkhemokald|Volkemo]] of the [Eastern Marches]{.name data-type="place/region"}
 : A powerful regional lord who has engaged Kárenna's services repeatedly in mediating disputes with neighboring provinces. He views her as a valuable ally and occasional lover, though their relationship is carefully concealed.
 
 Lady [[being-hiltheratsol|Hilthera Tsoluris]], Master of Commerce
@@ -491,7 +491,7 @@ Lord [[being-revothotholm|Ervotho Tholmaris]], Herald Emeritus
 [The Canonist Orthodox]{.name data-type="affiliation"}
 : A traditionalist faction among the priesthoods of the twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] who view Kárenna's pragmatic morality and her role in secular governance as improper and potentially heretical. They have begun questioning her moral standing from their pulpits.
 
-Merchant-Lord [[being-bedarrekmozk|Bedarrek Mozkarris]]
+Merchant-Lord [[being-bedarrekmozk|Bedarrek]]
 : A wealthy and politically connected trader whose interests Kárenna opposed in a recent negotiation, resulting in significant financial loss to his enterprises. He has been quietly gathering evidence of her conflicts of interest and inappropriate relationships, intending to expose her when circumstances allow.
 
 ### Affiliations
@@ -502,7 +502,7 @@ Merchant-Lord [[being-bedarrekmozk|Bedarrek Mozkarris]]
 House Graveth
 : Her family house, whose interests she subtly promotes through her position.
 
-The Faiths of the Aureldian Pantheon
+The Aureldian Pantheon
 : A devoted follower of the [[affiliation-pozeras|Faith of Pozeras]] (Pozeras the Voyager), she maintains public religious devotion while privately entertaining doubts about institutional faith.
 
 ## Plot Hooks

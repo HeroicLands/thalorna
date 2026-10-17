@@ -15,11 +15,11 @@ data:
 ---
 
 The **Hallowwood** covers the south of [[place-aelwyth|Aelwyth]], between the farmland of
-the [[place-aldorathrgn|Aldorath Region]] to the north and the lowlands of
+[[place-aldorathrgn|Aldorath]] to the north and the lowlands of
 [[place-dunavarre|Dúnavarre]] to the east: old, deep, unbroken forest, part of the third of the
 island that no realm has ever plowed.
 
-It is where the **[[lore-flksinale|Sinale Folk]] of Aelwyth reside**, and it is the reason the island's
+It is where the **[[lore-flksinale|Sinale]] of Aelwyth reside**, and it is the reason the island's
 reputation abroad is not entirely nonsense.
 
 ## Not Welcome
@@ -32,12 +32,12 @@ fortunate.
 
 Three exceptions are recognized, and they are exceptions of person rather than of policy:
 
-- The [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] is _tolerated_. Its embassies are received, heard, and
-  answered briefly. Nobody would describe the reception as warm, and the [[affiliation-dunavarsynod|Dúnavarre Synod]] is under no illusion
+- [[affiliation-kingdmdnvr|Dúnavarre]] is _tolerated_. Its embassies are received, heard, and
+  answered briefly. Nobody would describe the reception as warm, and the [[affiliation-dunavarsynod|Synod]] is under no illusion
   about the difference between being tolerated and being welcome.
-- The [[affiliation-kngdmlvndr|Kingdom of Élavendre]] is genuinely welcome, on the strength of a relationship the Sinale
+- [[affiliation-kngdmlvndr|Élavendre]] is genuinely welcome, on the strength of a relationship the Sinale
   hold with that kingdom and not with this island.
-- The [[lore-aelendnppl|Áelendan People]] most of all. An Áelendan embassy from across the water is
+- The [[lore-aelendnppl|Áelendan]] most of all. An Áelendan embassy from across the water is
   received as no human party on Aelwyth has ever been received, which every Aelwythan realm knows and
   none has been able to turn to any use.
 
@@ -45,15 +45,15 @@ Three exceptions are recognized, and they are exceptions of person rather than o
 
 The Sinale did not always live in the Hallowwood, and they did not withdraw into it out of temperament.
 
-After [[lore-khazarturn|The Fall of Khazartúrn]] in 2427 BF and the two elder races stopped speaking, the
-Sinale and [[lore-flkkhazar|Khazár Folk]] **of this island** did something no others of their kind have ever
+After [[lore-khazarturn|Khazartúrn fell]] in 2427 BF and the two elder races stopped speaking, the
+Sinale and [[lore-flkkhazar|Khazari]] **of this island** did something no others of their kind have ever
 attempted: they tried to repair it. In time they united Aelwyth under a **single crown**, held by a Sinale king,
-and governed the island together—and they kept that up for **six hundred years**. [[lore-jointcrown|The Joint Crown of Aelwyth]] began about 1585 BF.
+and governed the island together—and they kept that up for **six hundred years**. [[lore-jointcrown|The Joint Crown]] began about 1585 BF.
 
-Then, around **1200 BF**, the **[[lore-pelwarpepl|Pelwar People]]** arrived: refugees, driven off the mainland by the
+Then, around **1200 BF**, the **[[lore-pelwarpepl|Pelwar]]** arrived: refugees, driven off the mainland by the
 [Varkhad]{.name data-type="lore/folk"} in the great displacement ([[lore-varkhadcnq|The Varkhad Conquest]]), with nowhere else to go. Two
 centuries of pressure and reprisal became the **[Great War]{.name data-type="lore/history"}**, and in **984 BF** the king was killed by the Varkhad among them at
-[[place-threesisters|The Three Sisters]].
+[[place-threesisters|the Three Sisters]].
 
 The surviving Sinale came into this forest and stayed, leaving the Khazari to finish the war without
 them.
@@ -61,7 +61,7 @@ them.
 That is the second time the Sinale have walked away from the Khazari in a crisis, and the Khazari have
 never forgiven either. The two elder races of Aelwyth have had nothing to do with one another since, and
 the Sinale of the Hallowwood will not discuss it—not with the Synod, not
-with Élavendre, and not with [[lore-vardain|The Vardain]], who are the Khazari's
+with Élavendre, and not with [[lore-vardain|the Vardain]], who are the Khazari's
 people and are the one group the wood has never received at all.
 
 What the withdrawal was—rout, grief, judgment, or something for which no human word has been offered—is not known. That it ended six centuries of deliberate reconciliation, and that nothing has been
@@ -87,7 +87,7 @@ do is precisely the question, and it is one of the reasons an
 ## The Arcane Order Problem
 
 This is the flaw in the Synod's arrangement. Aelwyth is [[affiliation-ordoarcanis|Thordimalon]]'s unconstrained research ground
-precisely because its fae country has no [[affiliation-alndnwrdns|Áelendan Wardens]]—and the single greatest concentration of fae presence
+precisely because its fae country has no [[affiliation-alndnwrdns|Wardens]]—and the single greatest concentration of fae presence
 on the island is the one place that does have a keeper, and it does not answer to Dúnavarre, and it
 tolerates the Synod's envoys the way one tolerates weather.
 

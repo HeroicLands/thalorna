@@ -194,7 +194,7 @@ The crack in the gully wall is a shadow among shadows, and the gray stone beside
 
 # Dossier {#dossier}
 
-The Crag Lurker is the great rock spider of the north face of [[place-graznmntns|The Grazian Mountains]]: a horse-sized body on eight legs that reach eight to ten feet, about two hundred and fifty pounds, with a carapace grained and colored like weathered gray stone. It lives in the cracks of cliffs and the ceilings of caves, strings its webs across the places where animals pass, and waits in its crevice for days for a line to shake. The guides call it the crack hunter, and the labyrinth-walkers of [[place-vurdil|Vurdish]] call it the ceiling-hunter of the upper passages, and both mean the same animal.
+The Crag Lurker is the great rock spider of the [[place-graznmntns|Grazian north face]]: a horse-sized body on eight legs that reach eight to ten feet, about two hundred and fifty pounds, with a carapace grained and colored like weathered gray stone. It lives in the cracks of cliffs and the ceilings of caves, strings its webs across the places where animals pass, and waits in its crevice for days for a line to shake. The guides call it the crack hunter, and the labyrinth-walkers of [[place-vurdil|Vurdish]] call it the ceiling-hunter of the upper passages, and both mean the same animal.
 
 A caravan meets it on a ledge path or at a cave mouth that looked like shelter. A party in the cut passages under the mountains meets it where the passage roof goes up out of torchlight.
 
@@ -204,7 +204,7 @@ A spider of enormous size, built heavy rather than fast. The forebody is a compa
 
 ## In the Land
 
-Crag Lurkers hold the gullies and ledges of the Grazian north face above the [[place-dkrqrrgn|Diqraqor]], where they wait on the ledges above the narrow places, and the upper galleries of the [[place-grazruins|Ruins and Labyrinths of the Grazian Mountains]] under the glaciers, where a passage cut tall by whoever cut it gives them a ceiling to hang from. Each spider holds five to twenty square miles of rock and almost never leaves it. It wants a deep crack or a cave for its lair, out of the weather, and a route below it that goats, rams or caravans use.
+Crag Lurkers hold the gullies and ledges of the Grazian north face above the [[place-dkrqrrgn|Diqraqor]], where they wait on the ledges above the narrow places, and the upper galleries of the [[place-grazruins|ruins and labyrinths]] under the glaciers, where a passage cut tall by whoever cut it gives them a ceiling to hang from. Each spider holds five to twenty square miles of rock and almost never leaves it. It wants a deep crack or a cave for its lair, out of the weather, and a route below it that goats, rams or caravans use.
 
 ## Key Behaviors
 

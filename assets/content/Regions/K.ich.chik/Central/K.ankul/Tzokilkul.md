@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [kankulrgn], government: kankul, packFo
 
 ## Overview
 
-Ts'okilkul, the Walled City, is a coastal fortress on the sea-cliffs of the [[place-kankulrgn|K'ankul Region]], and its ramparts are placed to command two things at once: the sea trade along the coast and the overland routes that run from it into the interior. It is one of the great city-states of [[affiliation-kankul|K'ankul]].
+Ts'okilkul, the Walled City, is a coastal fortress on the sea-cliffs of [[place-kankulrgn|K'ankul]], and its ramparts are placed to command two things at once: the sea trade along the coast and the overland routes that run from it into the interior. It is one of the great city-states of [[affiliation-kankul|K'ankul]].
 
 ## The Harbor
 

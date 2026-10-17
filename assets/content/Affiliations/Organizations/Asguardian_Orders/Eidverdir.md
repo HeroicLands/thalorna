@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Ask what happens to an Oathkeeper who breaks his oath and you learn how seriously the order takes it. He forfeits its shelter for good, the same discipline the [[affiliation-eidgar|Faith of Eidgar]]'s own priesthood holds itself to.
+Ask what happens to an Oathkeeper who breaks his oath and you learn how seriously the order takes it. He forfeits its shelter for good, the same discipline [[affiliation-eidgar|Eidgar]]'s own priesthood holds itself to.
 
 Eidverdir, the Oathkeepers, are warriors sworn to Eidgar under oaths heavier than an ordinary soldier's. They dedicate their lives to the protection and defense of the faith and of the hovs where its tings sit. Every Drottmadr who defends has sworn the heavy oath, and the Dróttstjori who leads the sworn warriors holds it with the order's fullest standing besides.

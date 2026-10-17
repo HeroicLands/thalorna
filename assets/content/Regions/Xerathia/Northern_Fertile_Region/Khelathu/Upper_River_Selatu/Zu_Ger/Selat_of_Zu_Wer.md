@@ -57,9 +57,9 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-"The first dynasties buried their kings in that ground," a Lem'Nelgir of the [[affiliation-hezmuiri|Faith of Hezmu'iri]] tells a pilgrim at [[place-tjegu|Tjegu]], nodding at the fields beyond the temple wall. "That is why the selat is called the Great Land. Hezmu'iri keeps the passage, and in [[place-zugernome|Zu-Ger]] he keeps the oldest of the dead."
+"The first dynasties buried their kings in that ground," a Lem'Nelgir of [[affiliation-hezmuiri|Hezmu'iri]] tells a pilgrim at [[place-tjegu|Tjegu]], nodding at the fields beyond the temple wall. "That is why the selat is called the Great Land. Hezmu'iri keeps the passage, and in [[place-zugernome|Zu-Ger]] he keeps the oldest of the dead."
 
-The Selat of Zu-Ger is one of the eighteen provinces of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and about 520,000 people live on its land, Zu-Ger. It is "the Great Land," an ancient royal selat and the old burial-ground of the first dynasties. The patron is [[lore-hezmuiridty|Hezmu'iri]], the Keeper of Transitions, and the cult's chief temple and estates anchor the selat's religious life.
+The Selat of Zu-Ger is one of the eighteen provinces of [[affiliation-upperrivrslt|the Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and about 520,000 people live on its land, Zu-Ger. It is "the Great Land," an ancient royal selat and the old burial-ground of the first dynasties. The patron is [[lore-hezmuiridty|Hezmu'iri]], the Keeper of Transitions, and the cult's chief temple and estates anchor the selat's religious life.
 
 ## Character
 

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Six thousand people live in Kostaros, one of the lesser harbors that string out along the coast of the [[place-byzariargn|Bizaria Region]] beside the great port of [[place-nesthiros2|Nesthiros]]. It is the daughter-port of the Helionite city-state [[affiliation-kostaros2|Kostaros]], planted in the colonizing centuries ([[lore-daughtercts|The Daughter-Cities]]), and it keeps its mother's name. To the counting houses of [[place-khryshteikhos2|Krusteikhos]] a harbor this size is a line of dues. To the people who come out of it, it is home, and the character notes name three of them.
+Six thousand people live in Kostaros, one of the lesser harbors that string out along the coast of [[place-byzariargn|Bizaria]] beside the great port of [[place-nesthiros2|Nesthiros]]. It is the daughter-port of the Helionite city-state [[affiliation-kostaros2|Kostaros]], planted in the colonizing centuries ([[lore-daughtercts|the Daughter-Cities]]), and it keeps its mother's name. To the counting houses of [[place-khryshteikhos2|Krusteikhos]] a harbor this size is a line of dues. To the people who come out of it, it is home, and the character notes name three of them.
 
 ## Who Comes from Kostaros
 

@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [ixilankulrgn], population: 150000, gov
 
 ## Overview
 
-A Ch'alishbal leading pilgrims up from the lowlands begins the lesson the same way each time: everything in K'ich'chik is measured from here. Ish'ilankul, the Seat of the Stars, takes its name from the observatories on its temple summits, and it is the seat of the paramount realm of the [[place-kchchkcntnnt|K'ich'chik Continent]], a city of about 150,000 on a highland plateau of volcanic peaks and terraced valleys, and the realm it governs is the cradle of the faith of the [[affiliation-itzanpnthn|Itsani Pantheon]] and home to the Ch'alish Tq'an, the supreme high priest. The other realms of [[place-cntrlkchchk|Central K'ich'chik]] send tribute here and send their young nobles to its temples for ritual training and priestly initiation.
+A Ch'alishbal leading pilgrims up from the lowlands begins the lesson the same way each time: everything in K'ich'chik is measured from here. Ish'ilankul, the Seat of the Stars, takes its name from the observatories on its temple summits, and it is the seat of the paramount realm of the [[place-kchchkcntnnt|K'ich'chik continent]], a city of about 150,000 on a highland plateau of volcanic peaks and terraced valleys, and the realm it governs is the cradle of the [[affiliation-itzanpnthn|Itsani faith]] and home to the Ch'alish Tq'an, the supreme high priest. The other realms of [[place-cntrlkchchk|Central K'ich'chik]] send tribute here and send their young nobles to its temples for ritual training and priestly initiation.
 
 ## Two Authorities
 
@@ -24,7 +24,7 @@ The plateau rises between 1,200 and 2,400 meters above the coastal lowlands. Roa
 
 ## Trade
 
-Ish'ilankul is the premier trading hub of the heartland. Obsidian from the volcanic slopes goes out as ritual blades, mirrors and ceremonial objects. Cacao from the southern highlands is processed and distributed by Ish'ilankul merchants, who guard the recipes for sacred preparations. Textiles dyed with cochineal and woven with the seals of the Ts'enmah command prices that only the nobles of tributary states can pay. The most prestigious good is the quetzal feather, worth more than jade or gold. Ish'ilankul's merchants keep a steady, limited supply flowing from the rainforests of the [[place-xelemrgn|Shelem Region]].
+Ish'ilankul is the premier trading hub of the heartland. Obsidian from the volcanic slopes goes out as ritual blades, mirrors and ceremonial objects. Cacao from the southern highlands is processed and distributed by Ish'ilankul merchants, who guard the recipes for sacred preparations. Textiles dyed with cochineal and woven with the seals of the Ts'enmah command prices that only the nobles of tributary states can pay. The most prestigious good is the quetzal feather, worth more than jade or gold. Ish'ilankul's merchants keep a steady, limited supply flowing from the rainforests of [[place-xelemrgn|Shelem]].
 
 ## See Also
 

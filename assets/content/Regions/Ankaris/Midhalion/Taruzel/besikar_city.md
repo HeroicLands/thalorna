@@ -14,7 +14,7 @@ data:
   government: besikar
 ---
 
-A ship bound for Besikar passes between fortified islands and long breakwaters before the city opens in front of her, and inside them lies the **[Grand Harbor]{.name data-type="place/feature"}**, a deep natural bay that can shelter hundreds of vessels at once. It is the finest anchorage on the [[place-vylarianse|Vylarian Sea]] and the largest and best protected. Besikar, a city of about 400,000 on the coast of the [[place-taruzelrgn|Taruzel Region]], is the seat of the city-state of [[affiliation-besikar|Besikar]], the largest and wealthiest of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and the place where the Confederation's [Grand Council]{.name data-type="affiliation/governmental"} meets.
+A ship bound for Besikar passes between fortified islands and long breakwaters before the city opens in front of her, and inside them lies the **[Grand Harbor]{.name data-type="place/feature"}**, a deep natural bay that can shelter hundreds of vessels at once. It is the finest anchorage on the [[place-vylarianse|Vylarian Sea]] and the largest and best protected. Besikar, a city of about 400,000 on the coast of [[place-taruzelrgn|Taruzel]], is the seat of the city-state of [[affiliation-besikar|Besikar]], the largest and wealthiest of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and the place where the Confederation's [Grand Council]{.name data-type="affiliation/governmental"} meets.
 
 ## The Harbor
 

@@ -413,11 +413,11 @@ sohl:
 
 ![[ftnshdkt|Stemios Hodikot]]{float=top-left}
 
-Stemios Hodikot stands 5'8" tall with a heavy build. He has light weathered skin, grey hair, and green eyes. His features include a long face, a straight nose, a sharp jawline, and prominent brows. He has a scar on his right hand.
+Stemios stands 5'8" tall with a heavy build. He has light weathered skin, grey hair, and green eyes. His features include a long face, a straight nose, a sharp jawline, and prominent brows. He has a scar on his right hand.
 
 # Dossier {#dossier}
 
-Stemios was born the second son of [Stratégios]{.name data-type="being/npc"}, a merchant of modest success in the coastal trading city of [[place-nykhtion|Nikhtion]]. His elder brother inherited the family's trading operations while Stemios, spirited and imaginative from youth, apprenticed with his mother's brother [[being-bugonvodidek|Bugon Vodidek]], proprietor of the celebrated inn called the [Starlight Crown]{.name data-type="place/structure"}. Those early years instilled in him a deep philosophy: a good inn is a sanctuary, a stage where the great and small dramas of human life unfold.
+Stemios was born the second son of [Stratégios]{.name data-type="being/npc"}, a merchant of modest success in the coastal trading city of [[place-nykhtion|Nikhtion]]. His elder brother inherited the family's trading operations while Stemios, spirited and imaginative from youth, apprenticed with his mother's brother [[being-bugonvodidek|Bugon]], proprietor of the celebrated inn called the [Starlight Crown]{.name data-type="place/structure"}. Those early years instilled in him a deep philosophy: a good inn is a sanctuary, a stage where the great and small dramas of human life unfold.
 
 At thirty-two, following Bugon's death, Stemios inherited and expanded the Starlight Crown, transforming it from a simple waystation into one of the most famous inns in the [[affiliation-byzarianlg|Bizarian League]]. Over the following decades, he earned his name through the rare art of hospitality—the subtle skill of making every guest feel simultaneously welcomed and known.
 
@@ -475,7 +475,7 @@ Difficulty with Combat
 
 ### Patrons
 
-The City Magistrate, Lord [[being-zipugosgefyr|Zipugos Gefirikot]]
+The City Magistrate, Lord [[being-zipugosgefyr|Zipugos]]
 : An aging administrator who conducts much of his actual governance from a corner table in the Starlight Crown's common room. Stemios provides him with information, advice, and the illusion of privacy while subtly influencing policy through carefully timed conversations.
 
 Captain [[being-krusidadepla|Krusidade Plavidek]] of the [Harbor Guard]{.name data-type="affiliation"}

@@ -266,7 +266,7 @@ A huge pig built forward: massive shoulders and neck sloping back to narrower hi
 
 ## In the Land
 
-Giant Boars live in the oak and beech of the central mixed-forest belt and south to the highland forests facing [[place-vylariargn|Vylaria Region]], and they are thinner in the northern taiga where there is no mast. A boar's ground is marked by its rubbing-trees and its wallows and by the rooted ground itself, a swath torn through the leaf litter that another boar reads and respects. The Varokh villages of the forest clearings share their woods with one or two each, and the boar wesk villages count the one in their woods as a thing of theirs.
+Giant Boars live in the oak and beech of the central mixed-forest belt and south to the highland forests facing [[place-vylariargn|Vylaria]], and they are thinner in the northern taiga where there is no mast. A boar's ground is marked by its rubbing-trees and its wallows and by the rooted ground itself, a swath torn through the leaf litter that another boar reads and respects. The Varokh villages of the forest clearings share their woods with one or two each, and the boar wesk villages count the one in their woods as a thing of theirs.
 
 ## Key Behaviors
 

@@ -59,14 +59,14 @@ data:
         - whether anything was recovered from the sea floor afterward, by anybody
 ---
 
-The [[lore-flksinale|Sinale Folk]] recovered [[miscgear-secondvoice|The Second Voice]], and in time the two
+The [[lore-flksinale|Sinale]] recovered [[miscgear-secondvoice|the Second Voice]], and in time the two
 Elder Races reached the only agreement they have reached since
-[[lore-fallkhazturn|The Fall of Khazartúrn]]: the relic would be held in trust on [[place-aelwyth|Aelwyth]],
-by both peoples together. Aelwyth was the one country in the world where Sinale and the [[lore-flkkhazar|Khazár Folk]] still
+[[lore-fallkhazturn|Khazartúrn fell]]: the relic would be held in trust on [[place-aelwyth|Aelwyth]],
+by both peoples together. Aelwyth was the one country in the world where Sinale and [[lore-flkkhazar|Khazari]] still
 lived on the same ground, and therefore the only ground on which neither would be trusted to hold it
 alone.
 
-In The Crossing, a convoy of **six ships** sailed from [[place-elavendre|Élavendre]] carrying it. It never arrived.
+A convoy of **six ships** sailed from [[place-elavendre|Élavendre]] carrying it. It never arrived.
 
 There was no storm of any note. No wreckage came ashore, then or since—no spar, no cargo, no body,
 on any coast, in any year. Six hulls and every soul aboard them went off the water between Élavendre
@@ -77,6 +77,6 @@ The crews and the escort were above reproach, chosen for exactly that by people 
 precisely what they were entrusting and to whom. That is the detail that has troubled everyone who
 has ever been told it: it forecloses the comfortable explanation without offering another. Both
 peoples have been looking ever since, and the [[lore-flkkhazar|Khazari]] doctrine that follows from
-the search failing—that [[lore-grukarfolk|Grukar Folk]] are ammunition, and are to be killed wherever
+the search failing—that [[lore-grukarfolk|Grukar]] are ammunition, and are to be killed wherever
 they are found—is the one consequence of this crossing that anybody outside the Elder Races ever
 meets.

@@ -27,7 +27,7 @@ Several great rivers drain the region. Most flow north toward the [[place-vylari
 
 The climate is wet and warm year-round, with a rhythm of alternating dry and rainy seasons rather than true summer and winter. Daily afternoon thunderstorms are the norm through most of the year. Fog and mist are constant in the interior, and the air is thick with the smell of decay and growth happening simultaneously.
 
-The forest holds species of tree, vine, insect, and beast found nowhere else on [[place-worldthlrn|The World of Thalorna]], many of them dangerous. It also holds endemic diseases—fevers, fluxes, parasites, and rots—that make long-duration expeditions by outsiders a matter of luck as much as preparation. Rainforest tribes have built up physiological and pharmacological defenses that northerners lack; a Khelathi soldier or Vylarian explorer entering the forest is reckoned to have months, not years, before disease takes them whether any enemy does or not.
+The forest holds species of tree, vine, insect, and beast found nowhere else on [[place-worldthlrn|Thalorna]], many of them dangerous. It also holds endemic diseases—fevers, fluxes, parasites, and rots—that make long-duration expeditions by outsiders a matter of luck as much as preparation. Rainforest tribes have built up physiological and pharmacological defenses that northerners lack; a Khelathi soldier or Vylarian explorer entering the forest is reckoned to have months, not years, before disease takes them whether any enemy does or not.
 
 ## Peoples and Culture
 
@@ -40,9 +40,9 @@ The forest tribes are many, small and remote, perhaps a quarter of a million peo
 
 Nearly every forest person lives first by hunting, fishing and gathering.
 
-The forest peoples, the [[lore-bikoclt|Biko]], share one small common tongue, [[skill-ekpelulng|Ekpelu Language]], which each of their four traditions speaks with its own accent.
+The forest peoples, the [[lore-bikoclt|Biko]], share one small common tongue, [[skill-ekpelulng|Ekpelu]], which each of their four traditions speaks with its own accent.
 
-A small number of [[lore-flksinale|Sinale Folk]] enclaves are rumored in the deepest forest—settlements older than any human record, wholly indifferent to the affairs of the north, and visited (it is said) only by the occasional forest shaman on a spirit-journey. Verification of these rumors is not forthcoming; the rumors themselves persist.
+A small number of [[lore-flksinale|Sinale]] enclaves are rumored in the deepest forest—settlements older than any human record, wholly indifferent to the affairs of the north, and visited (it is said) only by the occasional forest shaman on a spirit-journey. Verification of these rumors is not forthcoming; the rumors themselves persist.
 
 ## Religion
 
@@ -62,7 +62,7 @@ The trading relationship is never casual. Outside merchants approach the forest 
 
 ## Relations with Neighboring Regions
 
-To the **north** lies the [[place-nrthrnfrtlrgn|Northern Fertile Region]]—the Khelathi, Okhárian, and Bethuan civilizations whose southern frontiers fade into the forest margin. Those civilizations' attitudes toward the rainforests range from cautious trade (Au'Khelathu), mystical reverence (certain Okhárian traditions), to active avoidance ([[affiliation-mtrrchybth|Matriarchy of Bethua]]).
+To the **north** lies the [[place-nrthrnfrtlrgn|Northern Fertile Crescent]]—the Khelathi, Okhárian, and Bethuan civilizations whose southern frontiers fade into the forest margin. Those civilizations' attitudes toward the rainforests range from cautious trade (Au'Khelathu), mystical reverence (certain Okhárian traditions), to active avoidance ([[affiliation-mtrrchybth|Bethua]]).
 
 To the **south** lie the [[place-sthrnsvnhs|Southern Savannahs]] and the nomadic hunter-tribes that follow the great seasonal migrations. The savannah peoples and the forest peoples meet along the long southern margin where jungle gives way to grassland, and maintain a mostly peaceful set of exchanges built on generations of overlapping seasonal movement.
 

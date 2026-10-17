@@ -36,4 +36,4 @@ Ankelos Satheris is a 23-year-old man who stands 6'0" tall with a medium build. 
 
 # Dossier {#dossier}
 
-Ankelos Satheris is an archimandrite of [[affiliation-sacredforge|The Sacred Forge]], a senior clergyman based in the capital. He has made the growing influence of [[affiliation-blackflame|The Black Flame]] a personal crusade. He presses local authorities to restrict its preaching, discredit known sympathizers and fund counter-sermons, though the law of the [[affiliation-vylarinmpr|Vylarian Empire]] keeps him from acting against [[being-myrnklypss|Mirene Kalethos]] directly.
+Ankelos Satheris is an archimandrite of [[affiliation-sacredforge|the Sacred Forge]], a senior clergyman based in the capital. He has made the growing influence of [[affiliation-blackflame|the Black Flame]] a personal crusade. He presses local authorities to restrict its preaching, discredit known sympathizers and fund counter-sermons, though [[affiliation-vylarinmpr|Vylarian law]] keeps him from acting against [[being-myrnklypss|Mirene Kalethos]] directly.

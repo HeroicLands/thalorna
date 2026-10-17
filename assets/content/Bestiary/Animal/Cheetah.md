@@ -238,7 +238,7 @@ On the gravel flat a line of gazelle lifts its heads together, and a slender, sp
 
 # Dossier {#dossier}
 
-The Cheetah is the sprinting cat of the open grass and gravel plains, thirty inches at the shoulder and seventy-five to a hundred forty-five pounds, built for speed at the cost of strength. It hunts gazelle across the steppe of the [[place-khzryndsrtrgn|Khazryn Desert Region]], the edges of the [[place-dunhardsrtrgn|Dunhara Desert Region]], the plateau of [[place-byzariargn|Bizaria Region]] and the dry savanna of the south. A cat cannot hold its top speed for more than half a minute, and stronger predators take its kills. Steppe chiefs and nobles keep tamed cheetahs for coursing.
+The Cheetah is the sprinting cat of the open grass and gravel plains, thirty inches at the shoulder and seventy-five to a hundred forty-five pounds, built for speed at the cost of strength. It hunts gazelle across the [[place-khzryndsrtrgn|Khazryn steppe]], the edges of the [[place-dunhardsrtrgn|Dunhara Desert]], the plateau of [[place-byzariargn|Bizaria]] and the dry savanna of the south. A cat cannot hold its top speed for more than half a minute, and stronger predators take its kills. Steppe chiefs and nobles keep tamed cheetahs for coursing.
 
 ## Presentation
 

@@ -413,7 +413,7 @@ sohl:
 
 ![[veldrblthl|Veldor Pelthal]]{float=top-left}
 
-Veldor Pelthal stands 5'9" tall with a medium build. He has light fair skin, dark brown hair, and blue eyes. His features include a broad face, a narrow nose, a rounded chin, dark brows.
+Veldor stands 5'9" tall with a medium build. He has light fair skin, dark brown hair, and blue eyes. His features include a broad face, a narrow nose, a rounded chin, dark brows.
 
 # Dossier {#dossier}
 
@@ -429,7 +429,7 @@ At fourteen, Veldor apprenticed with **Master [Celestyn Darnos]{.name data-type=
 
 ### Current Situation
 
-Now, in his fourth decade, Veldor stands at the zenith of his career, yet feels the weight of time's passage. The roles that once came effortlessly now require greater discipline to master. His financial security is assured through generous patronage from the nobility of Élavendre—most notably from **Lady [[being-nelamisolnar|Nélamis Ólnarnde]] of [House Valorant]{.name data-type="affiliation/lineage"}**, whose love of the theatrical arts has translated into unflagging support—yet he senses a gnawing hollow beneath his considerable success. The applause that once intoxicated him now feels, on certain nights, like the roar of an uncaring sea.
+Now, in his fourth decade, Veldor stands at the zenith of his career, yet feels the weight of time's passage. The roles that once came effortlessly now require greater discipline to master. His financial security is assured through generous patronage from the nobility of Élavendre—most notably from **Lady [[being-nelamisolnar|Nélamis]] of [House Valorant]{.name data-type="affiliation/lineage"}**, whose love of the theatrical arts has translated into unflagging support—yet he senses a gnawing hollow beneath his considerable success. The applause that once intoxicated him now feels, on certain nights, like the roar of an uncaring sea.
 
 ## Psyche
 

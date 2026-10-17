@@ -12,7 +12,7 @@ Thessan's diagrams are sheets of measured drawings made by _Marendos_ (master) [
 
 ## What They Show
 
-The diagrams show what the work did on the days he watched it. No sheet states a cause, and none shows how a work is made or mended. A reader who hopes for a method finds a record. Taken to [[affiliation-councilisland|The Council of the Island]], they show how near an outsider has come to a work; taken to a buyer abroad, they show a work failing.
+The diagrams show what the work did on the days he watched it. No sheet states a cause, and none shows how a work is made or mended. A reader who hopes for a method finds a record. Taken to [[affiliation-councilisland|the Council]], they show how near an outsider has come to a work; taken to a buyer abroad, they show a work failing.
 
 ## See Also
 

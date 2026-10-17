@@ -424,7 +424,7 @@ sohl:
 
 ![[zanutgezauzu|Zanut Geza'Uzu]]{float=top-left}
 
-Zanut Geza'Uzu stands 5'3" tall with a light build. She has golden brown skin, dark hair, and hazel eyes. Her features include a high-cheekboned face, a straight narrow nose, a narrow chin, full lips, golden brows, and high cheeks. She has a scar on her left ear.
+Zanut stands 5'3" tall with a light build. She has golden brown skin, dark hair, and hazel eyes. Her features include a high-cheekboned face, a straight narrow nose, a narrow chin, full lips, golden brows, and high cheeks. She has a scar on her left ear.
 
 # Dossier {#dossier}
 
@@ -511,7 +511,7 @@ Noblewoman [Qiya]{.name data-type="being/npc"} of [Gar-Theqeru]{.name data-type=
 
 ### Enemies
 
-Church Inquisitor [[being-zinlegirgara|Zinlegir Gar'Anlaghau]] the Censorious
+Church Inquisitor [[being-zinlegirgara|Zinlegir]] the Censorious
 : A zealous religious official who views Zanut's independent practice and her use of certain botanicals as potentially heretical. He has begun investigating her work, questioning whether she employs forbidden magical techniques, and warning others away from her services. His scrutiny is partially motivated by religious concern, but also by his general hostility toward women working independently outside male supervision.
 
 The Merchant Alchemist [[being-geron|Geron]]

@@ -91,7 +91,7 @@ The patron families hold the city, and they hold it inside the forms the seven c
 
 ## Standing and Relations
 
-Standing in Athenikos is the Helionite ladder. A citizen by descent votes and serves in the militia, a freedman works and trades without a vote for life, and a metic pays tax and stands the levy as a resident foreigner. Athenikos is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]] and shares the [[skill-helonclng|Helonic Language]], its gods and its festivals with the other six city-states, among which it competes in everything else.
+Standing in Athenikos is the Helionite ladder. A citizen by descent votes and serves in the militia, a freedman works and trades without a vote for life, and a metic pays tax and stands the levy as a resident foreigner. Athenikos is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]] and shares the [[skill-helonclng|Helonic tongue]], its gods and its festivals with the other six city-states, among which it competes in everything else.
 
 ## See Also
 

@@ -411,7 +411,7 @@ sohl:
 
 ![[kelnstylgn|Kelena Estilgon]]{float=top-left}
 
-Kelena Estilgon stands 5'7" tall with a heavy build. She has golden-toned skin, flowing black hair, and alert eyes. Her features include an angular face, a prominent nose, a pronounced chin, heavy brows, and sculpted cheeks. She has a tattoo of intertwining dark green vines on her right upper arm and shoulder.
+Kelena stands 5'7" tall with a heavy build. She has golden-toned skin, flowing black hair, and alert eyes. Her features include an angular face, a prominent nose, a pronounced chin, heavy brows, and sculpted cheeks. She has a tattoo of intertwining dark green vines on her right upper arm and shoulder.
 
 # Dossier {#dossier}
 

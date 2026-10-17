@@ -70,7 +70,7 @@ data:
 sohl: {system: {commonSkills: [osketlng]}}
 ---
 
-**The Osket** hold the western and central crossings of [[place-graznmntns|The Grazian Mountains]], the Grazian wall—[[place-meghadvara|Meghadvara]], [[place-suryadvara|Suryadvara]], [[place-tamradvara|Tamradvara]] and [[place-gudesroad|The Guides' Road]]—and without them nothing crosses. They are not a kingdom, a tribe or a confederation in any sense a lowland clerk would recognize, and the word they use for themselves means, as near as anyone has got, "the people of the way."
+**The Osket** hold the western and central crossings of [[place-graznmntns|the Grazian Mountains]], the Grazian wall—[[place-meghadvara|Meghadvara]], [[place-suryadvara|Suryadvara]], [[place-tamradvara|Tamradvara]] and [[place-gudesroad|the Guides' Road]]—and without them nothing crosses. They are not a kingdom, a tribe or a confederation in any sense a lowland clerk would recognize, and the word they use for themselves means, as near as anyone has got, "the people of the way."
 
 ## What a Lineage Is
 
@@ -95,4 +95,4 @@ The Osket keep a crossing nobody blesses, nobody taxes and nobody else can find.
 ## See Also
 
 - [[place-graznmntns|The Grazian Mountains]] · [[place-oskhelt|Oskhelt]] · [[place-tsokhar|Tsokhar]]
-- [[affiliation-hvarnguides|The Hvarn]] · [[place-gudesroad|The Guides' Road]] · [[skill-osketlng|The Osket Tongue]]
+- [[affiliation-hvarnguides|The Hvarn]] · [[place-gudesroad|the Guides' Road]] · [[skill-osketlng|the Osket Tongue]]

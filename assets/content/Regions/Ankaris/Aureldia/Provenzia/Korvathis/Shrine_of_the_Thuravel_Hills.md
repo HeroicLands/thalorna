@@ -11,7 +11,7 @@ data: {demonym: null, lore: [], parents: [thuravelhills], population: null, pack
 Somewhere in the [[place-thuravelhills|Túravel Hills]] in the southern part of the
 [[place-provenzrgn|Provenzia Region]] stands the Shrine of Túravel Hills, which official history has forgotten and old songs
 have not. It was raised long before the [[affiliation-arldnpnthn|Aureldian Pantheon]] was worshipped here, for the
-observances of [[affiliation-theoldway|The Old Way]], and it was a place of real power.
+observances of [[affiliation-theoldway|the Old Gods]], and it was a place of real power.
 
 It has not been disturbed in centuries, and perhaps not in millennia.
 
@@ -49,4 +49,4 @@ See [[scenario-frgtnshrnthrvlhls|The Forgotten Shrine of the Túravel Hills]].
 
 ## See Also
 
-- [[place-thuravelhills|Túravel Hills]] · [[affiliation-firstgods|The First Gods]]
+- [[place-thuravelhills|Túravel Hills]] · [[affiliation-firstgods|the First Gods]]

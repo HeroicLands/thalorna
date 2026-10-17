@@ -225,7 +225,7 @@ The leaf litter of the glade is churned and wet, and the saplings at its edge ar
 
 # Dossier {#dossier}
 
-The Stag is the mature male of the forest deer, four to five feet at the shoulder and six to seven feet long, with branching antlers and a powerful build. It lives in the woods of [[place-vrystwald|Vristwald]], the woodland of [[place-aureldirgn|Aureldia Region]] and the cool, temperate forests, where the trees give shelter and browse. It is peaceful outside the autumn rut, when it becomes territorial and dangerous.
+The Stag is the mature male of the forest deer, four to five feet at the shoulder and six to seven feet long, with branching antlers and a powerful build. It lives in the woods of [[place-vrystwald|Vristwald]], the woodland of [[place-aureldirgn|Aureldia]] and the cool, temperate forests, where the trees give shelter and browse. It is peaceful outside the autumn rut, when it becomes territorial and dangerous.
 
 ## Presentation
 

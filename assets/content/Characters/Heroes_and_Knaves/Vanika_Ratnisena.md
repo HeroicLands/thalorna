@@ -416,7 +416,7 @@ sohl:
 
 ![[vanikartns|Vanika Ratnisena]]{float=top-left}
 
-Vanika Ratnisena stands 5'10" tall with a medium build. She has warm wheat skin, deep black hair, and dark amber eyes. Her features include a heart-shaped face, a broad nose, a small chin, a wide mouth, heavy brows, and full cheeks.
+Vanika stands 5'10" tall with a medium build. She has warm wheat skin, deep black hair, and dark amber eyes. Her features include a heart-shaped face, a broad nose, a small chin, a wide mouth, heavy brows, and full cheeks.
 
 # Dossier {#dossier}
 
@@ -449,7 +449,7 @@ Vanika is driven by a fundamental commitment to excellence—the conviction that
 ### Strengths
 
 Foundational Mastery
-: Possesses extraordinary competence in all fundamental cooking techniques; she can prepare any traditional [[lore-vedyariclt|Vedyari]] dish with absolute reliability and excellence, and can adapt techniques across diverse culinary traditions.
+: Possesses extraordinary competence in all fundamental cooking techniques; she can prepare any traditional [[lore-vedyariclt|Vedyaran]] dish with absolute reliability and excellence, and can adapt techniques across diverse culinary traditions.
 
 Intuitive Understanding of Nutrition
 : Understands food as nourishment and not only as flavor; she can construct meals that truly sustain, that address specific physical needs, that contribute to healing and wellbeing.
@@ -493,7 +493,7 @@ Intolerance for Incompetence
 [Shroshtin Kaliprasad]{.name data-type="being/npc"}
 : One of Vedyara's most prominent merchants and a devoted admirer of Vanika's cooking; he regularly hosts dinners at his residence and specifically requests that Vanika be hired to prepare meals, paying premium fees for her services.
 
-Priestess [[being-mandalikulan|Manduli Kulanaya]]
+Priestess [[being-mandalikulan|Manduli]]
 : High priestess of Rasikara's temple and a fellow devotee of the fire goddess; she has commissioned Vanika to prepare ritual meals and has become something of spiritual companion and advocate.
 
 [The Ratnisena Family]{.name data-type="affiliation/lineage"}

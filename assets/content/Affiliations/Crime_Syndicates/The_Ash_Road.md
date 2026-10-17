@@ -75,7 +75,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-The oldest of the four major syndicates, predating even the Taruzelian independence by generations. The Ash Road takes its name from the ancient caravan practice of scattering ash at desert crossroads to mark safe paths—a tradition the organization adopted and perverted, using ash marks to indicate safe houses, caches, and meeting points along the vast overland trade routes that cross the [[place-dunharargn|Dunhara Region]], the [[place-khzryndsrtrgn|Khazryn Desert Region]], and the borderlands of [[place-xerathia|Zerathia]].
+The oldest of the four major syndicates, predating even the Taruzelian independence by generations. The Ash Road takes its name from the ancient caravan practice of scattering ash at desert crossroads to mark safe paths—a tradition the organization adopted and perverted, using ash marks to indicate safe houses, caches, and meeting points along the vast overland trade routes that cross [[place-dunharargn|Dunhara]], the [[place-khzryndsrtrgn|Khazryn Desert]], and the borderlands of [[place-xerathia|Zerathia]].
 
 Where the coastal syndicates fight over harbors and docks, the Ash Road commands the interior—a territory so vast and inhospitable that no government, no army, and no rival syndicate can control it. The desert is the Ash Road's greatest asset and its most effective weapon. Enemies who pursue its operatives into the interior simply die of thirst, unless the Dunhari tribal guides in the Road's employ arrange something quicker.
 
@@ -91,9 +91,9 @@ Where the coastal syndicates fight over harbors and docks, the Ash Road commands
 
 **Antiquities smuggling:** Khelathu's monumental ruins, ancient tombs, and temple complexes contain artifacts of immense value—sacred objects, funerary goods, magical relics, and works of art that collectors across the Vylarian Sea basin will pay fortunes to possess. The Gar-Au's bureaucracy guards its heritage fiercely, but the desert border is long and the tombs are many. The Road employs tomb raiders (locally called "sand jackals"), bribes border guards, and moves stolen antiquities through Kudumel to buyers in [[place-helionis|Helionis]], the [[place-provenzrgn|Provenzia Region]], and the [[place-vylariargn|Vylaria Region]]. The government of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] considers the Ash Road an existential cultural threat and has standing bounties on its known operatives.
 
-**Illegal magical reagents:** [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) strictly regulates certain alchemical substances, rare minerals, and biological materials used in arcane practice. The Ash Road circumvents these regulations, supplying independent practitioners, rogue Arcane Order members, and foreign magic traditions with materials they cannot obtain through legitimate channels. Desert flora and fauna provide several unique reagents unavailable elsewhere, giving the Road a natural monopoly.
+**Illegal magical reagents:** The [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) strictly regulates certain alchemical substances, rare minerals, and biological materials used in arcane practice. The Ash Road circumvents these regulations, supplying independent practitioners, rogue Arcane Order members, and foreign magic traditions with materials they cannot obtain through legitimate channels. Desert flora and fauna provide several unique reagents unavailable elsewhere, giving the Road a natural monopoly.
 
-**Human trafficking:** The Road moves human cargo across the desert—slaves transported between markets, fugitives fleeing justice or persecution (for a price), kidnap victims destined for ransom or forced labor. The desert crossing is brutal and the Road's operatives are unsentimental; cargo that can't keep pace is abandoned. The maritime leg of trafficking operations typically connects with [[affiliation-graytide|The Gray Tide]]'s coastal network, creating a circuit that spans the known world. Neither syndicate trusts the other, but the economics are compelling.
+**Human trafficking:** The Road moves human cargo across the desert—slaves transported between markets, fugitives fleeing justice or persecution (for a price), kidnap victims destined for ransom or forced labor. The desert crossing is brutal and the Road's operatives are unsentimental; cargo that can't keep pace is abandoned. The maritime leg of trafficking operations typically connects with [[affiliation-graytide|the Gray Tide]]'s coastal network, creating a circuit that spans the known world. Neither syndicate trusts the other, but the economics are compelling.
 
 ## Organization
 
@@ -103,7 +103,7 @@ Below them, caravan masters serve as operational commanders on specific routes. 
 
 At the base, a mix of drivers, guards, guides, and local fixers do the physical work. Many are Dunhari tribespeople who supplement pastoral income with Road work; others are urban poor from Kudumel seeking opportunity. Loyalty is maintained through profit-sharing (the Road pays well) and fear (betrayal is punished by abandonment in the deep desert, which amounts to a slow death sentence).
 
-Because desert travel requires absolute trust—you die without your guide—the Ash Road commands a level of internal loyalty that the other syndicates envy. A Gray Tide sailor can swim to shore if betrayed; an agent of [[affiliation-crimsnldgr|The Crimson Ledger]] can flee the city. An Ash Road operative who betrays the organization in the middle of the Khazryn Desert has nowhere to go.
+Because desert travel requires absolute trust—you die without your guide—the Ash Road commands a level of internal loyalty that the other syndicates envy. A Gray Tide sailor can swim to shore if betrayed; a [[affiliation-crimsnldgr|Crimson Ledger agent]] can flee the city. An Ash Road operative who betrays the organization in the middle of the Khazryn Desert has nowhere to go.
 
 ## Relations with Other Syndicates
 

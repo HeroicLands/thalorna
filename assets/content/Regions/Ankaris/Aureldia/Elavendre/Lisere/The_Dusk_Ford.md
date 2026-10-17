@@ -14,7 +14,7 @@ data:
   culture: elavendriclt
 ---
 
-A day's walk inland from the [[place-lisere|Lísere]] shingle, where the coastal forest thins into reed and black water, a slow river crosses the old drove track between two beacon stations. By day the track runs into the water and stops, and the bank on the far side is a wall of reed. At the long dusk, between the last light and the moment the first star clears the western trees, a ford stands: a line of flat stones, pale in the failing light, leading across to a causeway that does not exist at any other hour. The coast calls it **The Dusk Ford**, and in the [[skill-elvndrlng|Élavendri Language]] _Ólvarne_, evening as the wood reckons it.
+A day's walk inland from the [[place-lisere|Lísere]] shingle, where the coastal forest thins into reed and black water, a slow river crosses the old drove track between two beacon stations. By day the track runs into the water and stops, and the bank on the far side is a wall of reed. At the long dusk, between the last light and the moment the first star clears the western trees, a ford stands: a line of flat stones, pale in the failing light, leading across to a causeway that does not exist at any other hour. The coast calls it **the Dusk Ford**, and in [[skill-elvndrlng|Élavendri]] _Ólvarne_, evening as the wood reckons it.
 
 ## The Toll
 
@@ -39,7 +39,7 @@ Lísere does not speak of it. A beacon-station that keeps its light lit on the s
 ## Who Knows, and What They Say
 
 - **The beacon families** of the northern shore know the Ford exists and say only that the track is not to be crossed after the lamps are lit.
-- **An elder of [[affiliation-groveconcl|The Grove Council]]** at the coast says the Ford is a pact kept and a pact asked for, and that it holds the shore as the [[affiliation-alndnwrdns|Áelendan Wardens]] hold the wood: by being what it is.
+- **[[affiliation-groveconcl|A Grove Council elder]]** at the coast says the Ford is a pact kept and a pact asked for, and that it holds the shore as the [[affiliation-alndnwrdns|Wardens]] hold the wood: by being what it is.
 - **[[affiliation-bardicolgs|The Bardic Colleges]]** have a ballad of the Forfeit-Men, and the last verse is the one the bards do not sing.
 - **Smugglers** of the [[place-calypsacity|Kalipsa]] trade use the track by daylight and the bog by night, and have lost three crews who used it at dusk.
 
@@ -58,4 +58,4 @@ The track runs inland from the shingle between two beacon stations of [[place-li
 - [[scenario-tlldskfrd|The Toll You Will Not Miss]]—a scenario set here
 - [[place-lisere|Lísere]] · [[place-liserebay|Lísere Bay]]
 - [[lore-theasking|The Asking]]—how a pact is asked, and what is kept
-- [[affiliation-bardicolgs|The Bardic Colleges]] · [[affiliation-groveconcl|The Grove Council]]
+- [[affiliation-bardicolgs|The Bardic Colleges]] · [[affiliation-groveconcl|the Grove Council]]

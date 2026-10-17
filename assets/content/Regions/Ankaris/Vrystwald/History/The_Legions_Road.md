@@ -107,11 +107,11 @@ data:
       unresolved: ["whether any post was handed over rather than burned, and to whom"]
 ---
 
-A Varokh in [[place-vandstein|Vandstein]] who wants to say that a thing is foreign and will not last calls it "a milestone". The road the milestones stand beside is **The Legions' Road**, and it is the only road anyone ever built in [[place-vrystwald|Vristwald]]. It ran north out of [[place-moktur|Moktur]] for a hundred and sixty years and then stopped running, and every Vylarian ruin in the southern woods stands on it.
+A Varokh in [[place-vandstein|Vandstein]] who wants to say that a thing is foreign and will not last calls it "a milestone". The road the milestones stand beside is **the Legions' Road**, and it is the only road anyone ever built in [[place-vrystwald|Vristwald]]. It ran north out of [[place-moktur|Moktur]] for a hundred and sixty years and then stopped running, and every Vylarian ruin in the southern woods stands on it.
 
 ## The Road Comes North
 
-About 120 AF the [[affiliation-vylarinmpr|Vylarian Empire]] at its height cut a road north out of Moktur over the Vandstein highlands, aimed at the river crossing at [[place-waldburg|Waldburg]]. Its engineers raised a chain of timber-and-stone forward posts beside it, each a day's march from the last, and set a milestone at every mile. Vylarian coin came up the road with the garrisons and stayed in the forest when the garrisons went back down it, which is why the ethla is the money of Vristwald to this day.
+About 120 AF the [[affiliation-vylarinmpr|Empire]] at its height cut a road north out of Moktur over the Vandstein highlands, aimed at the river crossing at [[place-waldburg|Waldburg]]. Its engineers raised a chain of timber-and-stone forward posts beside it, each a day's march from the last, and set a milestone at every mile. Vylarian coin came up the road with the garrisons and stayed in the forest when the garrisons went back down it, which is why the ethla is the money of Vristwald to this day.
 
 The road went where the engineers wanted except in one place. At [[place-frodhaven|Fródhaven]] it bends around a sacred shelter of the Varokh village there, and the bend is still in the ruts. The village tells it as the one time the legions were made to ask, and the tellings disagree about what the village was paid.
 

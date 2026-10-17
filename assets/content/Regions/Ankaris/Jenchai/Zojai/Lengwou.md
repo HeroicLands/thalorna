@@ -15,7 +15,7 @@ data:
   culture: jenchaiclt
 ---
 
-Léngwou (the Dawn Court) is the capital of the [[affiliation-jenchaiempr|Jenchai Empire]], a town of 12,000 people on the lowest slope of [[place-zojai|Zojai]], below the Emperor's palace; the islanders say _Rewu_. With Zojai it forms the imperial district of 20,000 people, assessed at 6,000 bales a year. It is the only town of the Nine that no Daozhuo holds.
+Léngwou (the Dawn Court) is the capital of [[affiliation-jenchaiempr|Jenchai]], a town of 12,000 people on the lowest slope of [[place-zojai|Zojai]], below the Emperor's palace; the islanders say _Rewu_. With Zojai it forms the imperial district of 20,000 people, assessed at 6,000 bales a year. It is the only town of the Nine that no Daozhuo holds.
 
 ## The Court
 
@@ -27,7 +27,7 @@ The court is a pageant of ancient protocol, and its business is honor. The Emper
 
 The court's nominal income is 6,880 bales a year: four parts in ten of the district's assessment, which is 2,400 bales, and four parts in ten of eight **court estates**, which is 4,480 bales of the 11,200 assessed. One village in each domain is a court estate, and each Daozhuo collects its share through his own granary and forwards what he chooses. In 719 AF the court received 4,100 bales and spent 9,000. The Retired Emperor's household is part of that cost.
 
-Silver from the [[affiliation-shuiwojaidmn|Shuiwojai Domain]] has covered the gap for three years, and the court is in [Shuiwojai Henzo]{.name data-type="being/npc"}'s debt. The strongroom of the court stands at [Tsaimu]{.name data-type="place/settlement"} in the [[affiliation-muwojaidmn|Muwojai Domain]]'s ground, in the keeping of that house's [Weiju]{.name data-type="affiliation/lineage"}.
+Silver from [[affiliation-shuiwojaidmn|Shuiwojai]] has covered the gap for three years, and the court is in [Shuiwojai Henzo]{.name data-type="being/npc"}'s debt. The strongroom of the court stands at [Tsaimu]{.name data-type="place/settlement"} in the [[affiliation-muwojaidmn|Muwojai Domain]]'s ground, in the keeping of that house's [Weiju]{.name data-type="affiliation/lineage"}.
 
 ## The Town
 

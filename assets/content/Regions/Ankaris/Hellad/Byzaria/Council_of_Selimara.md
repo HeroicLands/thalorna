@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The **Council of Selímara** governs the market town of [[place-selimara|Selímara]] on the inland roads of the [[place-byzariargn|Bizaria Region]].
+The **Council of Selímara** governs the market town of [[place-selimara|Selímara]] on the inland roads of [[place-byzariargn|Bizaria]].

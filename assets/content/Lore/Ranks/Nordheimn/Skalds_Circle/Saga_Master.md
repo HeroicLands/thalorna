@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-A Stóraldstjori is one of the skalds whose sagas [[affiliation-skaldscrcl|The Skalds' Circle]] teaches every apprentice: perhaps a dozen at any time, across all the kingdoms.
+A stóraldstjori is one of the skalds whose sagas [[affiliation-skaldscrcl|the Skalds' Circle]] teaches every apprentice: perhaps a dozen at any time, across all the kingdoms.
 
 ## What This Standing Is
 

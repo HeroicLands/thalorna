@@ -14,7 +14,7 @@ sohl:
     charges: {value: null, max: null}
 ---
 
-Under The Bound Tongue, the named matter cannot be spoken, written, gestured or otherwise conveyed by the subject; the
+The named matter cannot be spoken, written, gestured or otherwise conveyed by the subject; the
 attempt simply does not complete. Consent is not required for the working to take, which is why
 its use is itself regulated and why every application is supposed to be recorded. It is standard
 on those seconded to [[affiliation-garzelgut|Gar-Zelgút]], on the craftsmen who cut the deepest chambers, and—by long

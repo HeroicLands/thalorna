@@ -16,18 +16,18 @@ data:
   packFolder: adventures
 ---
 
-A jarl who could not put down his drowned sons has learned the names of the sea from a lord of the [[lore-undead|Undead]], and his sea-cave hall now holds the drowned of a whole coast at the oars of a ship that never sails. At midwinter the lord comes to collect what the jarl owes. The party goes in on the ebb to take the dead out, or to take what the jarl has gathered.
+A jarl who could not put down his drowned sons has learned the names of the sea from a [[lore-undead|Helspawn lord]], and his sea-cave hall now holds the drowned of a whole coast at the oars of a ship that never sails. At midwinter the lord comes to collect what the jarl owes. The party goes in on the ebb to take the dead out, or to take what the jarl has gathered.
 
 ## Overview
 
-Under the stones of the cape, half a day's row from [[place-vrathavn|Vrathavn]], the sea-cave of [[place-thraldholl|Thraldholl]] opens at the lowest ebb. Inside, Jarl [Svilthmil]{.name data-type="being/npc"} keeps a ship on a cradle of whale-ribs, and at its oars he keeps the drowned: his three sons, the crews of lost Vrathavn ships and the bodies the coast gave up to him as it gave up the rest. He calls them by the names cut on the stones above the cave. His teacher is [Thilmorv]{.name data-type="being/creature"}, the Reeve of Quiet, a lord of the [[being-tereb|Tereb]] of the [[affiliation-nghtwghtcncl|Nightwight Council]]. The price was a hall of the dead, and Thilmorv comes on the longest night of [[lore-jol|Jel]] to take delivery.
+Under the stones of the cape, half a day's row from [[place-vrathavn|Vrathavn]], the sea-cave of [[place-thraldholl|Thraldholl]] opens at the lowest ebb. Inside, Jarl [Svilthmil]{.name data-type="being/npc"} keeps a ship on a cradle of whale-ribs, and at its oars he keeps the drowned: his three sons, the crews of lost Vrathavn ships and the bodies the coast gave up to him as it gave up the rest. He calls them by the names cut on the stones above the cave. His teacher is [Thilmorv]{.name data-type="being/creature"}, the Reeve of Quiet, a [[being-tereb|nightwight lord]] of the [[affiliation-nghtwghtcncl|Nightwight Council]]. The price was a hall of the dead, and Thilmorv comes on the longest night of [[lore-jol|Jel]] to take delivery.
 
-All of this is [[lore-theshadow|The Shadow]] working on the drowned, and on a grieving man who would not let them go.
+All of this is [[lore-theshadow|the Shadow]] working on the drowned, and on a grieving man who would not let them go.
 
 ## Hooks
 
 - **The thief.** A Vrathavn ship-chandler says a southern factor's strongbox went down off the cape three winters back and was never found. A drowned man's skiff, the fishermen say, was seen going in at the cave with something heavy. The chandler wants the box and will pay for it.
-- **The mercenary or common soldier.** The shield-maiden of [[place-shieldhall|The Shield-Hall]] needs three hard people to go down to the cape. A crew-bond she sealed was broken when a crew's dead were taken from their stones, and the bereaved are asking her what became of them. She cannot send her own warriors, who are sworn to the town.
+- **The mercenary or common soldier.** The shield-maiden of [[place-shieldhall|the Shield-Hall]] needs three hard people to go down to the cape. A crew-bond she sealed was broken when a crew's dead were taken from their stones, and the bereaved are asking her what became of them. She cannot send her own warriors, who are sworn to the town.
 - **The leader.** A skipstjori whose brother drowned with his ship and whose stone has been defaced by his own kin wants his crew's dead brought home for the grave-ale they never got. He will pay in silver and the loan of his longship.
 - **The lone wanderer.** The wanderer's brother is a name on the cape. Late at night, a voice outside the wanderer's door, in the brother's speech, says the wanderer's own name.
 

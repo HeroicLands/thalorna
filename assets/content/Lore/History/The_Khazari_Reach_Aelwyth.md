@@ -46,14 +46,14 @@ data:
       unresolved: [how a date held inside a hold reaches anybody outside it]
 ---
 
-The Cutting of Vorgald made a hold somewhere in the eastern heights of [[place-ironfells|The Ironfells]], where the range meets the
+The Cutting of Vorgald made a hold somewhere in the eastern heights of [[place-ironfells|the Ironfells]], where the range meets the
 sea cliffs: [[place-vorgald|Vorgald]]. That it exists is known. Very little else is.
 
-The [[lore-flkkhazar|Khazár Folk]], the Deep Folk, came to this range while the city described in [[lore-khazarturn|The Fall of Khazartúrn]] still stood and its people were
+The [[lore-flkkhazar|Khazár Folk]], the Deep Folk, came to this range while the city described in [[lore-khazarturn|the Fall of Khazartúrn]] still stood and its people were
 still carrying holds outward from it. Vorgald is the far western end of that reach: a hold on an
 island, across open water, at the edge of the country its founders knew. Because a hold cannot import
 what it eats, making one here meant bringing farmers across with the founders, and
-[[lore-vardain|The Vardain]] of the valleys below, their descendants, have fed this mountain ever since.
+[[lore-vardain|the Vardain]] of the valleys below, their descendants, have fed this mountain ever since.
 
 What it settles is the ground everything else in the island's elder history stands on. Seven centuries
 later Khazartúrn fell and the two Elder Races stopped dealing with one another everywhere in the

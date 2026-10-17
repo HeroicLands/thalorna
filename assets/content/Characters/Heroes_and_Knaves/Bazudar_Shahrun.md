@@ -417,7 +417,7 @@ sohl:
 
 ![[bazdrshhrn|Bazudar Shahrun]]{float=top-left}
 
-Bazudar Shahrun stands 6'3" tall with a medium build. He has dark tan skin, black hair, and dark amber eyes. His features include a diamond-shaped face, a prominent nose, a well-defined jawline, full lips, thick dark brows, and angular cheeks. He has a tattoo of a woman on his shoulder.
+Bazudar stands 6'3" tall with a medium build. He has dark tan skin, black hair, and dark amber eyes. His features include a diamond-shaped face, a prominent nose, a well-defined jawline, full lips, thick dark brows, and angular cheeks. He has a tattoo of a woman on his shoulder.
 
 # Dossier {#dossier}
 
@@ -425,7 +425,7 @@ Bazudar Shahrun stands 6'3" tall with a medium build. He has dark tan skin, blac
 
 ### Early Years in the Desert
 
-Bazudar was born to the nomadic tribes of the [[place-khzryndsrtrgn|Khazryn Desert Region]], the second son of a herder family whose reputation for understanding animals was famed even among the desert peoples. From childhood, he could communicate with horses and camels in ways that seemed almost mystical—animals responded to his presence with unusual calm and trust. His father, [Shahrun the Wanderer]{.name data-type="being/npc"}, taught him the ancient dialects and gestures that the desert peoples use to speak with creatures, and the tattoo on his shoulder bears a portrait of his mother, [Lethara of the Morning Star]{.name data-type="being/npc"}, whom he lost to desert sickness when he was only seventeen.
+Bazudar was born to the nomadic tribes of the [[place-khzryndsrtrgn|Khazryn Desert]], the second son of a herder family whose reputation for understanding animals was famed even among the desert peoples. From childhood, he could communicate with horses and camels in ways that seemed almost mystical—animals responded to his presence with unusual calm and trust. His father, [Shahrun the Wanderer]{.name data-type="being/npc"}, taught him the ancient dialects and gestures that the desert peoples use to speak with creatures, and the tattoo on his shoulder bears a portrait of his mother, [Lethara of the Morning Star]{.name data-type="being/npc"}, whom he lost to desert sickness when he was only seventeen.
 
 ### Trial and Transformation
 
@@ -433,7 +433,7 @@ At twenty, Bazudar encountered the great warhorse [Ashenbrand]{.name data-type="
 
 ### Settlement and Complication
 
-Now in his middle years, Bazudar has settled in a semi-permanent way, establishing himself as the primary animal trainer for the Khazryn farming communities. He has built a reputation for impossible feats—calming fractious oxen, training desert dogs, doctoring sick animals using herbal knowledge passed down through generations. Yet settlement has brought complications. The farming community increasingly demands speed and profit over the careful, time-intensive relationship-building that Bazudar considers essential to proper animal work. He finds himself frequently at odds with younger farmers, Town Administrator **[[being-bulaqsovidyo|Bulaqsovid Yovakur]]**, and modernizing forces that view his methods as antiquated.
+Now in his middle years, Bazudar has settled in a semi-permanent way, establishing himself as the primary animal trainer for the Khazryn farming communities. He has built a reputation for impossible feats—calming fractious oxen, training desert dogs, doctoring sick animals using herbal knowledge passed down through generations. Yet settlement has brought complications. The farming community increasingly demands speed and profit over the careful, time-intensive relationship-building that Bazudar considers essential to proper animal work. He finds himself frequently at odds with younger farmers, Town Administrator **[[being-bulaqsovidyo|Bulaqsovid]]**, and modernizing forces that view his methods as antiquated.
 
 ## Psyche
 

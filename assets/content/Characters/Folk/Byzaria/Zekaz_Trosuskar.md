@@ -36,4 +36,4 @@ Zekáz Trosuskar is a 45-year-old man who stands 6'3" tall with a medium build. 
 
 # Dossier {#dossier}
 
-Zekáz Trosuskar was once a fellow knight of the [Blazing Oath]{.name data-type="affiliation/order"} who turned traitor and now leads a faction within a rival fighting order of [[affiliation-blackflame|The Black Flame]]. [[being-drzhvzhnr|Drazha Vezhnur, Knight of the Black Flame]] has vowed to hunt him down, but he has proven elusive.
+Zekáz Trosuskar was once a fellow knight of the [Blazing Oath]{.name data-type="affiliation/order"} who turned traitor and now leads a faction within a rival [[affiliation-blackflame|Black Flame fighting order]]. [[being-drzhvzhnr|Drazha Vezhnur, Knight of the Black Flame]] has vowed to hunt him down, but he has proven elusive.

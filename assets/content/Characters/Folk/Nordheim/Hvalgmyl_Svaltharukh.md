@@ -38,4 +38,4 @@ Hvalgmil Svaltharuk is a 43-year-old man who stands 6'1" tall with a medium buil
 
 # Dossier {#dossier}
 
-Hvalgmil Svaltharuk is a pirate captain operating in [[place-thraldfjord|Thraldfjord]] waters under a thin veneer of legitimate merchant trade. His vessel carries contraband that [[being-gnrthnvtrdmr|Gnirthann Vetrdómr]] has documented numerous times but has been unable to intercept legally. Hvalgmil Svaltharuk is named in Gnirthann Vetrdómr.
+Hvalgmil Svaltharuk is a pirate captain operating in [[place-thraldfjord|Thraldfjord]] waters under a thin veneer of legitimate merchant trade. His vessel carries contraband that [[being-gnrthnvtrdmr|Gnirthann]] has documented numerous times but has been unable to intercept legally. Hvalgmil Svaltharuk is named in Gnirthann Vetrdómr.

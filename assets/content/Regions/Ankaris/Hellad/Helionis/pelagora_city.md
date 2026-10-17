@@ -22,7 +22,7 @@ Pelagora is more commercial than scholarly [[place-thyrenae2|Thirenae]]. Its mer
 
 ## The Treaty
 
-The bronze copy of [[lore-heladpelagtrty|The Pelagoran Treaty]] stands in the agorin. Thirenaean visitors spit beside it, and a Thirenaean student has chiselled one line off it.
+The bronze copy of [[lore-heladpelagtrty|the Pelagoran Treaty]] stands in the agorin. Thirenaean visitors spit beside it, and a Thirenaean student has chiselled one line off it.
 
 ## Neighbors
 

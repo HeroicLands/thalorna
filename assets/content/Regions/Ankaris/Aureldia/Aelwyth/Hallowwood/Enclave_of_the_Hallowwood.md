@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The **Enclave of the Hallowwood** is the community of the [[lore-flksinale|Sinale Folk]] of [[place-aelwyth|Aelwyth]], who reside in [[place-hallowwood|The Hallowwood]]. Sinale have kings, queens and lords, but these do not work as human ones do, and the enclave is governed by its lord. It does not answer to the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], which sends embassies that are received and answered briefly.
+The **Enclave of the Hallowwood** is the community of the [[lore-flksinale|Sinale]] of [[place-aelwyth|Aelwyth]], who reside in [[place-hallowwood|the Hallowwood]]. Sinale have kings, queens and lords, but these do not work as human ones do, and the enclave is governed by its lord. It does not answer to [[affiliation-kingdmdnvr|Dúnavarre]], which sends embassies that are received and answered briefly.

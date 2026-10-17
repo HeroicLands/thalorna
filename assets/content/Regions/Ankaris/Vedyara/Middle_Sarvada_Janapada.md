@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: [vedyarlng]}}
 ---
 
-The **Middle Sarveda Janapoda** is the janapoda of the circuit of [[place-sarvadarivr|The Sarveda]] to which [[place-dharmapur|Dirmapur]] belongs. The town holds no seat of its own at the [Mahva-Melra]{.name data-type="lore/gathering"}.
+The **Middle Sarveda Janapoda** is the janapoda of the [[place-sarvadarivr|Sarveda circuit]] to which [[place-dharmapur|Dirmapur]] belongs. The town holds no seat of its own at the [Mahva-Melra]{.name data-type="lore/gathering"}.

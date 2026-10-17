@@ -12,15 +12,15 @@ A [[lore-ordrcandidrnk|Candidate of a Sworn Order]], called a Storm-Aspirant, at
 
 ## What This Standing Is
 
-A Sworn Speaker is permitted to act on the order's behalf and to draw on its hospitality across the [[place-nrdlndsrgn|Nordlands Region]]. He is elevated from a Storm-Aspirant after passing three examinations—martial, devotional, and the receptive test of latent weather-sensitivity, conducted during a thunderstorm.
+A Sworn Speaker is permitted to act on the order's behalf and to draw on its hospitality across the [[place-nrdlndsrgn|Nordlands]]. He is elevated from a Storm-Aspirant after passing three examinations—martial, devotional, and the receptive test of latent weather-sensitivity, conducted during a thunderstorm.
 
 ## How the Law Treats a Person Here
 
-He carries a standing the order's own hospitality and coastal arrangements answer to: a town under standing arrangement for coastal defense may call on any Sworn Speaker dispatched to it, and his reading of the weather is what a shipowner, a captain, or [[affiliation-skaldscrcl|The Skalds' Circle]] relies on when they consult the order.
+He carries a standing the order's own hospitality and coastal arrangements answer to: a town under standing arrangement for coastal defense may call on any Sworn Speaker dispatched to it, and his reading of the weather is what a shipowner, a captain, or [[affiliation-skaldscrcl|the Skalds' Circle]] relies on when they consult the order.
 
 ## Privileges
 
-He acts on the order's behalf, draws its hospitality anywhere in the Nordlands, and may call wind, read storms, and in certain circumstances draw down a localized lightning-strike within the limits the [[affiliation-thrunvald|Faith of Thrunvald]] permits.
+He acts on the order's behalf, draws its hospitality anywhere in the Nordlands, and may call wind, read storms, and in certain circumstances draw down a localized lightning-strike within the limits [[affiliation-thrunvald|Thrunvald's faith]] permits.
 
 ## Obligations
 

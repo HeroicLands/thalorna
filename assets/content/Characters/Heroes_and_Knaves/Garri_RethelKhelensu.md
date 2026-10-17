@@ -419,7 +419,7 @@ sohl:
 
 ![[garrrthlkhln|Garri Reth'el'Khelensu]]{float=top-left}
 
-Garri Reth'el'Khelensu stands 5'8" tall with a heavy build. He has golden brown skin, white hair, and warm brown eyes. His features include a long face, an aquiline nose, a smooth jawline, generous lips, and golden brows. He has a tattoo of a crescent moon on his neck.
+Garri stands 5'8" tall with a heavy build. He has golden brown skin, white hair, and warm brown eyes. His features include a long face, an aquiline nose, a smooth jawline, generous lips, and golden brows. He has a tattoo of a crescent moon on his neck.
 
 # Dossier {#dossier}
 
@@ -427,7 +427,7 @@ Garri Reth'el'Khelensu stands 5'8" tall with a heavy build. He has golden brown 
 
 Garri was born in the capital city of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] during a period of cultural flourishing. His father was a merchant of considerable means, his mother a woman of noble birth whose family had declined in fortune but retained their intellectual traditions. Garri showed a rare aptitude for learning from childhood—he was fluent in three languages by age ten and had absorbed the entire classical philosophical canon by his mid-teens. Rather than follow his father into commerce, Garri pursued formal study under the most respected philosophers of Au'Khelathu, eventually earning the title of Master Philosopher and securing a prestigious position as a teacher in the great library-schools.
 
-However, at age twenty-eight, after a powerful spiritual experience during a pilgrimage to the sacred temples of the [[affiliation-uznera|Faith of Uzn'era]], Garri made a decision that shocked his family and peers: he abandoned his position of privilege and security to become a wandering scholar-teacher. He spent the next two decades traveling throughout the Khelathi lands—and beyond—seeking knowledge, teaching wherever he went, and refining his philosophical understanding through direct experience rather than theoretical study alone.
+However, at age twenty-eight, after a powerful spiritual experience during a pilgrimage to the sacred temples of [[affiliation-uznera|Uzn'era]], Garri made a decision that shocked his family and peers: he abandoned his position of privilege and security to become a wandering scholar-teacher. He spent the next two decades traveling throughout the Khelathi lands—and beyond—seeking knowledge, teaching wherever he went, and refining his philosophical understanding through direct experience rather than theoretical study alone.
 
 **The Seeker's Journey**
 

@@ -19,7 +19,7 @@ Each seat is a tower with a walled workshop behind it, cut into rock or built ag
 ## Who Goes
 
 - **Scholars**, [[being-blnhdrks|Bulelon Hadrikes]] among them, who come for the walls, the marks and the shape of the rooms.
-- **[[affiliation-ordoarcanis|Thordimalon]] surveyors**, who inspect a seat and write it into a register.
+- **[[affiliation-ordoarcanis|Arcane Order]] surveyors**, who inspect a seat and write it into a register.
 - **Treasure-seekers**, whom the Arcane Order arrests when it finds them, and whom the cities' own magistrates mostly ignore.
 
 ## Hooks
@@ -30,5 +30,5 @@ Each seat is a tower with a walled workshop behind it, cut into rock or built ag
 ## See Also
 
 - [[lore-helionscnq|The Conquest of Helionis]]—the war that made the warlords
-- [[lore-heladturnedwrk|The Turned Working]] · [[lore-heladthyrsiege|The Siege of Thirenae]]
+- [[lore-heladturnedwrk|The Turned Working]] · [[lore-heladthyrsiege|the Siege of Thirenae]]
 - [[place-theradon2|Theradon]] · [[place-helionis|Helionis]]

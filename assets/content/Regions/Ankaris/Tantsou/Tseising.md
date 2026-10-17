@@ -7,7 +7,7 @@ description: "The law of Tantsou—the Heavenly Law, its courts and punishments,
 data: {packFolder: tantsou, culture: tantsouclt}
 ---
 
-A district magistrate of the [[affiliation-tantsouempr|Empire of Tantsou]] explains his court to a newly classified foreigner in two sentences. A crime here is a thing moved out of the place heaven sorted it into, he says, and my work is to put it back, or to take it off the register altogether. Law in the empire is the enforcement of the classification: the same order that sorts the elements, assigns the gods to their bureaus and holds the line against the [Henléi]{.name data-type="lore/cosmology"}, the unsorted chaos, applied to people. Its gravest sentence is death, and beside it stands a death no court orders: _Tseising_, the ritual by which a Tantsou of rank answers a dishonor that no court can undo.
+A district magistrate of [[affiliation-tantsouempr|Tantsou]] explains his court to a newly classified foreigner in two sentences. A crime here is a thing moved out of the place heaven sorted it into, he says, and my work is to put it back, or to take it off the register altogether. Law in the empire is the enforcement of the classification: the same order that sorts the elements, assigns the gods to their bureaus and holds the line against the [Henléi]{.name data-type="lore/cosmology"}, the unsorted chaos, applied to people. Its gravest sentence is death, and beside it stands a death no court orders: _Tseising_, the ritual by which a Tantsou of rank answers a dishonor that no court can undo.
 
 ## Tseising
 

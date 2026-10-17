@@ -12,7 +12,7 @@ A Sworn Guardian works the harvest and the calving beside the households in his 
 
 ## What This Standing Is
 
-A Sworn Guardian holds a station—typically a particular valley or cluster of farmsteads for years at a time—or occasionally rides as circuit relief. He is sponsored by a sitting Guardian and presented at the order's annual chapter, examined in martial skill and in devotional knowledge of the harvest cycle and the order's vow, and sworn in with none of the [[lore-ordrcandidrnk|Candidate of a Sworn Order]] standing its sister orders hold beneath their own sworn rank, because [[affiliation-gronverdir|The Green Wardens]] admit nobody below it.
+A Sworn Guardian holds a station—typically a particular valley or cluster of farmsteads for years at a time—or occasionally rides as circuit relief. He is sponsored by a sitting Guardian and presented at the order's annual chapter, examined in martial skill and in devotional knowledge of the harvest cycle and the order's vow, and sworn in with none of the [[lore-ordrcandidrnk|candidate]] standing its sister orders hold beneath their own sworn rank, because [[affiliation-gronverdir|the Green Wardens]] admit nobody below it.
 
 ## How the Law Treats a Person Here
 
@@ -20,7 +20,7 @@ The households under his care answer to him for their defense against bandits, b
 
 ## Privileges
 
-He works alongside the household he is attached to, stands as its armed presence against outside threat, and shares in the order's hospitality across the [[place-nrdlndsrgn|Nordlands Region]].
+He works alongside the household he is attached to, stands as its armed presence against outside threat, and shares in the order's hospitality across the [[place-nrdlndsrgn|Nordlands]].
 
 ## Obligations
 

@@ -14,11 +14,11 @@ data:
   banner: khelathubnr
 ---
 
-The marsh fishermen of [[place-gadjumuluslt|Gadju-Mulu Selat]] pole their reed boats round a reach of open water and will not tie up in it. Under the surface, a hand or two below the keel, a wall runs for the length of three boats, and the face of it is carved. The fishermen call it nothing. The hunters of the [[affiliation-zeghetnelgu|Zeghet'Nelgu]] call it The Drowned Stones.
+The marsh fishermen of [[place-gadjumuluslt|Gadju-Mulu]] pole their reed boats round a reach of open water and will not tie up in it. Under the surface, a hand or two below the keel, a wall runs for the length of three boats, and the face of it is carved. The fishermen call it nothing. The hunters of the [[affiliation-zeghetnelgu|Zeghet'Nelgu]] call it the Drowned Stones.
 
 ## What Is There
 
-Stone walls lie beneath the water in the southern marsh, inside the marsh country the Zeghet'Nelgu hold by charter. They are half-submerged: at the lowest water of the year the tops of two stand above the mud, and in the flood they are a hand's depth down and visible only on a still, bright morning. The faces carry rows of symbols that are not Khelathi. They are not the [[skill-khelthzscrpt|Khelathi-zethu Script]] or the people's hand or any script a scribe at [[place-khelunu|Khelunu]] can read, and no one in the temples has proposed what they say.
+Stone walls lie beneath the water in the southern marsh, inside the marsh country the Zeghet'Nelgu hold by charter. They are half-submerged: at the lowest water of the year the tops of two stand above the mud, and in the flood they are a hand's depth down and visible only on a still, bright morning. The faces carry rows of symbols that are not Khelathi. They are not the [[skill-khelthzscrpt|sacred hand]] or the people's hand or any script a scribe at [[place-khelunu|Khelunu]] can read, and no one in the temples has proposed what they say.
 
 At night, lights move under the water along the lines of the walls. They are seen from a boat poled quietly and gone when it is poled nearer. Fishermen tell of them, the hunters have seen them, and the temples have not been told.
 
@@ -41,7 +41,7 @@ The hunters of the Zeghet'Nelgu are the ones who know the place, and their Steer
 
 - **The herd.** The hippopotamus herds have moved into the farm country, and the fishermen say something in the stones woke. The hunters want to know whether the herds went because of the wall or in spite of it.
 - **The scholar's boat.** A scholar of the temple libraries hires a crew to take rubbings of the carvings at low water. The Khetai hunter who guides them has been told to bring the boat back empty.
-- **The priest's order.** A priest of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] asks the hunters to chip the symbols from the visible stones. The hunters can do it in a morning, and they do not know what else will notice.
+- **The priest's order.** A priest of [[affiliation-rethsaar|Reth'Sa'ar]] asks the hunters to chip the symbols from the visible stones. The hunters can do it in a morning, and they do not know what else will notice.
 
 ## See Also
 

@@ -438,7 +438,7 @@ The old working is a notch in the cliff above the quarry ramps, abandoned, its f
 
 # Dossier {#dossier}
 
-The Boulderback is a dreadspawn of living stone: a fifteen-foot giant of fitted boulders and slabs, weighing as much as a loaded stone barge, made to guard a place and keep on guarding it. It does not eat, does not sleep, and does not leave the ground it was set over. One stands in the quarry cliffs of [[place-legirusiselt|Legirusi Selat]], on the upper river of [[place-aukhelathrgq|Au'Khelathu Region]], where the empire's fine building stone is cut, and it has stood there longer than the quarry records go back. It is alive, as every dreadspawn is, with a will of a kind and a mind that is very slow and very sure, and it cannot breed. What it was made to guard in the cliff, and by whom, nobody knows.
+The Boulderback is a dreadspawn of living stone: a fifteen-foot giant of fitted boulders and slabs, weighing as much as a loaded stone barge, made to guard a place and keep on guarding it. It does not eat, does not sleep, and does not leave the ground it was set over. One stands in the quarry cliffs of [[place-legirusiselt|Legirusi Selat]], on the upper river of [[place-aukhelathrgq|Au'Khelathu]], where the empire's fine building stone is cut, and it has stood there longer than the quarry records go back. It is alive, as every dreadspawn is, with a will of a kind and a mind that is very slow and very sure, and it cannot breed. What it was made to guard in the cliff, and by whom, nobody knows.
 
 ## Presentation
 

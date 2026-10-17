@@ -418,7 +418,7 @@ sohl:
 
 ![[qelathmlkhlr|Qelatha Melu'Khelariu]]{float=top-left}
 
-Qelatha Melu'Khelariu stands 5'10" tall with a light build. She has dark brown skin, black hair, and black eyes. Her features include a narrow face, a long nose, a pointed chin, well-shaped lips, dark brows, and sculpted cheeks. She has a tattoo of a spider on her shoulder.
+Qelatha stands 5'10" tall with a light build. She has dark brown skin, black hair, and black eyes. Her features include a narrow face, a long nose, a pointed chin, well-shaped lips, dark brows, and sculpted cheeks. She has a tattoo of a spider on her shoulder.
 
 # Dossier {#dossier}
 

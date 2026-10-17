@@ -15,13 +15,13 @@ data:
   government: passshrineushtakas
 ---
 
-**The Pass-Shrines** are the temples at the high points of the crossing roads: one at [[place-meghadvara|Meghadvara]], one at [[place-suryadvara|Suryadvara]], one at [[place-tamradvara|Tamradvara]], one at [[place-jnanadvara|Jnanadvara]], one at [[place-sankhadvra|Shankhadvara]]. There is none on [[place-gudesroad|The Guides' Road]], and there never has been.
+**The Pass-Shrines** are the temples at the high points of the crossing roads: one at [[place-meghadvara|Meghadvara]], one at [[place-suryadvara|Suryadvara]], one at [[place-tamradvara|Tamradvara]], one at [[place-jnanadvara|Jnanadvara]], one at [[place-sankhadvra|Shankhadvara]]. There is none on [[place-gudesroad|the Guides' Road]], and there never has been.
 
 They are not large. A shrine is a walled court, a hall, a store of fuel and grain, a cistern and quarters for eight to twenty people, built low into the rock on the lee side of the col. What sets them apart is that they are occupied in winter.
 
 ## The Altitude Ushtakas
 
-A hereditary line of ushtakas of the [[affiliation-varakpnthn|Varnuka Pantheon]], **Retuja** by station, keeps the shrines. They are born to the work and live year-round at heights that would kill an unaccustomed lowlander inside a week. They marry within the line, their children are raised on the cols, and a shrine-ushtaka who comes down to the plains at forty is an old man there and is treated as one.
+A hereditary line of [[affiliation-varakpnthn|Varnuka ushtakas]], **Retuja** by station, keeps the shrines. They are born to the work and live year-round at heights that would kill an unaccustomed lowlander inside a week. They marry within the line, their children are raised on the cols, and a shrine-ushtaka who comes down to the plains at forty is an old man there and is treated as one.
 
 Their orthodoxy is exact and their ritual is not. A great deal of what is done at a Pass-Shrine has no warrant in any text a lowland academy would accept: the fire-watch through the closed months, the count of the dead kept by name on the cistern wall, the refusal to bless certain days that no almanac marks. The lowland hierarchy has never pressed the point. These are the only priests willing to do the job.
 
@@ -33,9 +33,9 @@ A register-writer will turn the book round for anyone who asks and can read it. 
 
 ## The Blessing, and the Refusal
 
-A caravan takes the blessing at the summit before it begins the descent, and pays what it chooses. The shrine may also refuse it. A refusal is rare, is never explained, and is not appealable; a caravan that goes down unblessed will find [[affiliation-osketguides|The Osket]] unwilling to take it, and no lowland court has ever found a way to compel either.
+A caravan takes the blessing at the summit before it begins the descent, and pays what it chooses. The shrine may also refuse it. A refusal is rare, is never explained, and is not appealable; a caravan that goes down unblessed will find [[affiliation-osketguides|the Osket]] unwilling to take it, and no lowland court has ever found a way to compel either.
 
 ## See Also
 
-- [[place-graznmntns|The Grazian Mountains]] · [[place-sthrnwall|The Southern Wall]] · [[place-gudesroad|The Guides' Road]]
-- [[affiliation-varakpnthn|Varnuka Pantheon]] · [[affiliation-osketguides|The Osket]] · [[affiliation-hvarnguides|The Hvarn]]
+- [[place-graznmntns|The Grazian Mountains]] · [[place-sthrnwall|the Southern Wall]] · [[place-gudesroad|the Guides' Road]]
+- [[affiliation-varakpnthn|Varnuka Pantheon]] · [[affiliation-osketguides|the Osket]] · [[affiliation-hvarnguides|the Hvarn]]

@@ -22,11 +22,11 @@ Bizaris is the foremost artisan quarter and craft hub of the [[affiliation-byzar
 
 The city is organized around guild halls and workshop complexes. The [[affiliation-hideworkerscltv|Hideworkers' Collective]] keeps one of its most prestigious chapters here, and the herds of the [[place-southrnmrch|Southern March]] send Bizaris the greater part of their leather. Ceramicists, metalworkers, jewelers and textile artisans crowd the narrow streets and compete for supremacy in their crafts, holding all the while to the fierce loyalty that marks Bizarian professional societies.
 
-The city lacks the political grandeur of [[affiliation-khryshteikhos|Krusteikhos]] and the military reputation of [[affiliation-orashion|Órashion]], but its merchants command respect and considerable wealth. A master ceramicist or weaponsmith from Bizaris carries credentials that open doors from the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] to the [[affiliation-jenchaiempr|Jenchai Empire]].
+The city lacks the political grandeur of [[affiliation-khryshteikhos|Krusteikhos]] and the military reputation of [[affiliation-orashion|Órashion]], but its merchants command respect and considerable wealth. A master ceramicist or weaponsmith from Bizaris carries credentials that open doors from the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] to [[affiliation-jenchaiempr|Jenchai]].
 
 ## The Council of Twelve
 
-The heads of the twelve greatest guilds make up the [[affiliation-cncltwlvbzrs|Council of Twelve of Bizaris]], which makes Bizaris the only League city-state with formal guild governance. The arrangement gives the city stability and endless subtle negotiation, as artisan interests jockey for precedence and resources. In League politics Bizaris keeps a careful neutrality, because its influence depends on staying indispensable to all of its rivals.
+The heads of the twelve greatest guilds make up the [[affiliation-cncltwlvbzrs|city's council]], which makes Bizaris the only League city-state with formal guild governance. The arrangement gives the city stability and endless subtle negotiation, as artisan interests jockey for precedence and resources. In League politics Bizaris keeps a careful neutrality, because its influence depends on staying indispensable to all of its rivals.
 
 ## See Also
 

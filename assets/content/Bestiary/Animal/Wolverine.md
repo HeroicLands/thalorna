@@ -237,7 +237,7 @@ The cache hung high in the pines has been torn open, and the pieces of it scatte
 
 # Dossier {#dossier}
 
-The Wolverine is the small, fearless hunter of the cold north, twelve to eighteen inches at the shoulder and two and a half to three and a half feet long, with a bushy tail. It ranges the cold forest and mountains of the [[place-nrdlndsrgn|Nordlands Region]], the high taiga of [[place-vrystwald|Vristwald]] and the upper valleys of [[place-graznmntns|The Grazian Mountains]]. It faces down predators many times its size and will not retreat once engaged. It is drawn to camps by food.
+The Wolverine is the small, fearless hunter of the cold north, twelve to eighteen inches at the shoulder and two and a half to three and a half feet long, with a bushy tail. It ranges the cold forest and mountains of the [[place-nrdlndsrgn|Nordlands]], the high taiga of [[place-vrystwald|Vristwald]] and the upper valleys of [[place-graznmntns|the Grazian Mountains]]. It faces down predators many times its size and will not retreat once engaged. It is drawn to camps by food.
 
 ## Presentation
 

@@ -14,9 +14,9 @@ data:
   packFolder: vedyara
 ---
 
-The Vyalendra Source-Temple is taken down and rebuilt every century or two, and the priests who do the work are the men who live in it.
+The Vyalendra source-temple is taken down and rebuilt every century or two, and the priests who do the work are the men who live in it.
 
-It stands on the shelf at [[place-sarvaprbhv|Sarvaprabhava]], where [[place-sarvadarivr|The Sarveda]] comes out of the ice under the face of [[place-sthrnwall|The Southern Wall]]. It is the temple of [[lore-vyalendradty|Vyalendra]] the Shaper, and its priests are masons, carpenters and surveyors who have taken orders. There is no scholar on the establishment and no library in the building.
+It stands on the shelf at [[place-sarvaprbhv|Sarvaprabhava]], where [[place-sarvadarivr|the Sarveda]] comes out of the ice under the face of [[place-sthrnwall|the Southern Wall]]. It is the temple of [[lore-vyalendradty|Vyalendra]] the Shaper, and its priests are masons, carpenters and surveyors who have taken orders. There is no scholar on the establishment and no library in the building.
 
 It is a small temple: a walled forecourt, a pillared hall of nine bays, a sanctum with the foundation-stone in it, a cistern, and a range of cells for twenty men. The whole work is dry-laid granite cut on the shelf, and the masons who cut it were the priests themselves.
 
@@ -32,7 +32,7 @@ The present building is in its ninth decade.
 
 Every day of the open season a priest reads the outflow against a graduated post set in the rock below the spring, and enters the reading in the record with the day and the weather. The series is nine hundred years long and unbroken except for the years of a rebuilding, when it was kept anyway, on the same post, by whichever man could be spared.
 
-It is the best record of the wall's melt that exists. [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] has twice offered to buy a copy and has twice been refused without a reason given, which the Collective reads as the price rising. The readings themselves gho down with the last caravan of the year to the reckoners in the lowlands, who use them and do not own them.
+It is the best record of the wall's melt that exists. [[affiliation-mrchntclctvvdyr|The Merchant Collective]] has twice offered to buy a copy and has twice been refused without a reason given, which the Collective reads as the price rising. The readings themselves gho down with the last caravan of the year to the reckoners in the lowlands, who use them and do not own them.
 
 ## The Pilgrimage
 

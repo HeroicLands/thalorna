@@ -30,5 +30,5 @@ informed—so that what he breaks he breaks knowing. Shamans concede that outsid
 distinction thin, and hold to it anyway.
 
 He is credited with the first rains and with the ends of droughts, and is therefore not resented in
-the way a purely destructive spirit would be. The [[lore-okharinclt|Okharin]] saying is that Gorombe has never taken
+the way a purely destructive spirit would be. The [[lore-okharinclt|Okharik]] saying is that Gorombe has never taken
 anything he did not also give first.

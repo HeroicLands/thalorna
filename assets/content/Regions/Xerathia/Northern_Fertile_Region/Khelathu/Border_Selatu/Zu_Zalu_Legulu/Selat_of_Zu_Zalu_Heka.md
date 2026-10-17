@@ -89,7 +89,7 @@ The warden-Halzi'a is the figure to build around. He is the empire's shield in t
 - relief-columns sent to silent forts;
 - embassies and betrayals among the southern tribes;
 - the slave-and-ivory trade, and the consciences it troubles;
-- [[affiliation-malldbndlg|Málalidabandalag]] mercenaries on frontier contracts;
+- [[affiliation-malldbndlg|Compact]] mercenaries on frontier contracts;
 - the slow question of whether the warden still answers to the throne.
 
 Gold, ivory, danger and hard soldiers are abundant. Grain, safety and any certainty about where the empire truly ends are scarce.

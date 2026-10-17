@@ -258,7 +258,7 @@ On the ground it is clumsy, running a few steps with wings half open before it c
 
 ## In the Land
 
-The Budaq ranges the whole length of the road, from the grass of [[place-wlqtrrgn|Volketor]] to the passes of [[place-idwkrrgn|Idvaqor]], and follows strings rather than any one stretch of ground. It nests on cliffs, in the tops of dead light-towers and on the ledges of stone uplands, and a pair raises one chick a year. Between nesting seasons the birds roam in loose parties of a dozen, and each party works a stretch of road a hundred miles long, handing a string over to the next party at the boundary as if by arrangement. [[place-dkrqrrgn|Diqraqor]] and [[place-hskrrgn|Khoshiqor]] have the greatest numbers, since the stone and the sand are the hard stretches where beasts fall.
+The Budaq ranges the whole length of the road, from the grass of the [[place-wlqtrrgn|Volketor]] to the passes of the [[place-idwkrrgn|Idvaqor]], and follows strings rather than any one stretch of ground. It nests on cliffs, in the tops of dead light-towers and on the ledges of stone uplands, and a pair raises one chick a year. Between nesting seasons the birds roam in loose parties of a dozen, and each party works a stretch of road a hundred miles long, handing a string over to the next party at the boundary as if by arrangement. [[place-dkrqrrgn|Diqraqor]] and [[place-hskrrgn|Khoshiqor]] have the greatest numbers, since the stone and the sand are the hard stretches where beasts fall.
 
 It feeds on carcasses, and a road lined with the dead feeds it well. A caravan is a moving feast, and a Budaq that has picked a string stays with it for as long as the string loses animals.
 

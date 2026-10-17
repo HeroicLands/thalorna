@@ -264,7 +264,7 @@ You almost missed it. At the edge of the firelight, half turned as if already le
 
 # Dossier {#dossier}
 
-The Grukar-Sha is the thinker of the Grukar, roughly one Grukar in ten: four and a half to five feet tall, thin, physically the weakest of its kind, and the only Grukar that can think forward. A [[being-grukaruk|Grukar-Uk]] hatches with everything it will ever know and a [[being-grkrhshk|Grukar-Hushk]] learns only what a fight teaches; a Sha sees what a course will cost several moves on, what another creature wants and how that wanting can be turned. To other Grukar this looks very nearly like sorcery. The Sha are the tribe's scouts, spies, counselors and poisoners, its only voice to outsiders, and the only Grukar that can see that a tribe is finished. They survive by being too useful to kill, until the day the spawn-chamber decides they are too useful to leave alive.
+The Grukar-Sha is the thinker of the Grukar, roughly one Grukar in ten: four and a half to five feet tall, thin, physically the weakest of its kind, and the only Grukar that can think forward. [[being-grukaruk|An Uk]] hatches with everything it will ever know and a [[being-grkrhshk|Hushk]] learns only what a fight teaches; a Sha sees what a course will cost several moves on, what another creature wants and how that wanting can be turned. To other Grukar this looks very nearly like sorcery. The Sha are the tribe's scouts, spies, counselors and poisoners, its only voice to outsiders, and the only Grukar that can see that a tribe is finished. They survive by being too useful to kill, until the day the spawn-chamber decides they are too useful to leave alive.
 
 ## Presentation
 
@@ -272,7 +272,7 @@ A Sha is lean to gauntness, with narrow shoulders, long limbs and long, dextrous
 
 ## In the Land
 
-Every Grukar tribe keeps its Sha, in [[place-grkrhlmrgn|Grukarholm Region]], the eastern [[place-vrystwald|Vristwald]] and the empty interior of [[place-aelwyth|Aelwyth]], and the Sha go farther from the nest than any other Grukar. They spend seasons watching human roads, walls and rivalries from the forest edge, and the [[lore-varokhiclt|Varokhi]] villages of [[place-skathwald|Skathwald]], the steadings of [[place-auldalon|Áuldalon]] and the frontier forts of [[place-targud|Targud]] all have stories of a thin gray figure seen at dusk watching a gate. What a Sha learns it carries home, because it is the only Grukar that can carry an idea home at all. A Sha clutch takes eighteen weeks to hatch, the longest of any, and a tribe that loses a Sha feels it for a season and more.
+Every Grukar tribe keeps its Sha, in [[place-grkrhlmrgn|Grukarholm]], the eastern [[place-vrystwald|Vristwald]] and the empty interior of [[place-aelwyth|Aelwyth]], and the Sha go farther from the nest than any other Grukar. They spend seasons watching human roads, walls and rivalries from the forest edge, and the [[lore-varokhiclt|Varokh]] villages of [[place-skathwald|Skathwald]], the steadings of [[place-auldalon|Áuldalon]] and the frontier forts of [[place-targud|Targud]] all have stories of a thin gray figure seen at dusk watching a gate. What a Sha learns it carries home, because it is the only Grukar that can carry an idea home at all. A Sha clutch takes eighteen weeks to hatch, the longest of any, and a tribe that loses a Sha feels it for a season and more.
 
 ## Key Behaviors
 

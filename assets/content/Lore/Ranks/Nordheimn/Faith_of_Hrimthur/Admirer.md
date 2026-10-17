@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-The [[affiliation-hrimthur|Faith of Hrimthur]] has no door to stand at. A Draskmadr, an admirer, holds [[lore-hrimthurspr|Hrimthur]]'s work in awe and has joined none of the scattered factions that keep his worship, and the awe is the whole of the standing.
+The [[affiliation-hrimthur|faith of Hrimthur]] has no door to stand at. An admirer holds [[lore-hrimthurspr|Hrimthur]]'s work in awe and has joined none of the scattered factions that keep his worship, and the awe is the whole of the standing.
 
 ## What This Standing Is
 

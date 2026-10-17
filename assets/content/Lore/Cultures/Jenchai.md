@@ -54,9 +54,9 @@ The Jenchai keep the mainland's castes, script and calendar, and they have moved
 
 ## The Nine Above the Clouds
 
-The islanders call the [[place-jenchairgn|Jenchai Region]] **Teyan Jenjai**, the Nine Mountains Above the Clouds of Heaven, and **Jenjai** in ordinary speech. The name states a ranking: the peaks stand above the clouds, and the people who live on them stand above every other people, the mainland first among them. The mainland's own name for the islands, **Chaiwong**, is a dismissal, and the islanders return it by counting the Tantsou among the barbarians of the west, the oldest and the most tiresome of them.
+The islanders call [[place-jenchairgn|their land]] **Teyan Jenjai**, the Nine Mountains Above the Clouds of Heaven, and **Jenjai** in ordinary speech. The name states a ranking: the peaks stand above the clouds, and the people who live on them stand above every other people, the mainland first among them. The mainland's own name for the islands, **Chaiwong**, is a dismissal, and the islanders return it by counting the Tantsou among the barbarians of the west, the oldest and the most tiresome of them.
 
-The claim beneath the pride is religious. The islanders hold that heaven withdrew the [[lore-mandatehvn|Mandate of Heaven]] from the mainland at [[lore-jenchaiscs|The Secession of Jenchai]] and gave it to the Nine Mountains, and that the Emperor on [[place-zojai|Zojai]], the Dragon's Mountain, is its living presence. By that presence every terrace of the Nine is his. In practice the Emperor commands his household guard and nothing else, and eight **Daozhuo** (great lords) each rule a mountain with an army, a fleet, a granary and a law of their own. Outside the years when one lord forces the others to submit, each of the eight is a king in everything but the title, and the patent he holds from the Emperor is the only thing that says otherwise.
+The claim beneath the pride is religious. The islanders hold that heaven withdrew the [[lore-mandatehvn|Mandate]] from the mainland at [[lore-jenchaiscs|the Secession]] and gave it to the Nine Mountains, and that the Emperor on [[place-zojai|Zojai]], the Dragon's Mountain, is its living presence. By that presence every terrace of the Nine is his. In practice the Emperor commands his household guard and nothing else, and eight **Daozhuo** (great lords) each rule a mountain with an army, a fleet, a granary and a law of their own. Outside the years when one lord forces the others to submit, each of the eight is a king in everything but the title, and the patent he holds from the Emperor is the only thing that says otherwise.
 
 ## What Is Good, and What Succeeds
 
@@ -98,7 +98,7 @@ The islands keep the mainland calendar with two rites of their own at its two en
 - **The Dawn Rite** (_Leng Rui_) opens the year. The Emperor performs it at dawn on the first day of the year on Zojai's summit, and every lord's envoy attends. The seating order is the year's political map, and the lords' envoys negotiate it for months. Every household of the Nine lights a lamp at the same dawn, which is the one act the whole realm performs together.
 - [Moon Festival]{.name data-type="lore/gathering"} (You Jui) falls in late autumn as on the mainland, with lanterns lit against the unsorted and offerings to [[lore-youweidty|Youwéi]], the Minister of the Moon.
 - The [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jui_) is each domain's own, held when the harvest is in and the assessment paid. The lord climbs his mountain to the summit shrine, the Tanchéi read the mountain's year from the record, and the lord's roll is closed for the year. The day differs from mountain to mountain, and a lord who cannot climb sends his heir, which is how a domain learns who the heir is to be.
-- [Festival of the Dead]{.name data-type="lore/gathering"} (Singléi Jui) falls at midwinter and is the costliest event of the year, as on the mainland. Retainer households provision the dead of their lord's line as well as their own.
+- [Festival of the Dead]{.name data-type="lore/gathering"} , falls at midwinter and is the costliest event of the year, as on the mainland. Retainer households provision the dead of their lord's line as well as their own.
 
 ## Favor and Disgrace
 
@@ -137,7 +137,7 @@ The islands add the mountain. A lord's dead are taken to sit in the mountain wit
 
 ## Speech, the Blade and the Verse
 
-The Jenchai manner is formal, indirect and graded to the inch. Every sentence of [[skill-jurthatlng|Jurthati Language]] places speaker, listener and subject on the honorific grid, so precedence is settled by the first verb and governs everything after it. A refusal is an expression of the difficulty of the thing. A retainer may press a lord no further than "Does my lord answer?", and a lord who does not answer has answered.
+The Jenchai manner is formal, indirect and graded to the inch. Every sentence of [[skill-jurthatlng|Jurthati]] places speaker, listener and subject on the honorific grid, so precedence is settled by the first verb and governs everything after it. A refusal is an expression of the difficulty of the thing. A retainer may press a lord no further than "Does my lord answer?", and a lord who does not answer has answered.
 
 Ruising is the end of that grid. A retainer cannot contradict his lord before witnesses in any form the grammar provides, but he can die, and a death in the proper form is a statement the lord must answer in the hall. The proverb for it is _Ja ku wa_, "The blade answers." A Ruising can protest an order, keep a secret, follow a fallen lord, or say that a man's honor outweighs his life, and the hall reads which of these it is from the manner, the place and the verse left behind. A lord who orders a Ruising is judged by it as closely as the man who performs it.
 

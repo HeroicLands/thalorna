@@ -17,9 +17,9 @@ sohl:
   flags: {"thalorna": {script_family: Logographic}}
 ---
 
-Teng Chou Script, the **Celestial Record**, is the writing of the east: one character to one morpheme, characters built out of semantic radicals and combined into compounds exactly as the spoken languages build compound words. Three to four thousand characters are needed for educated reading; a scholar may hold six thousand or more; a full formal education in it runs ten to fifteen years.
+Teng Chou, the **Celestial Record**, is the writing of the east: one character to one morpheme, characters built out of semantic radicals and combined into compounds exactly as the spoken languages build compound words. Three to four thousand characters are needed for educated reading; a scholar may hold six thousand or more; a full formal education in it runs ten to fifteen years.
 
-Its defining property is that **it is not tied to a language**. Teng Chou writes [[skill-tantsoulng|Tantsou Language]] and it writes [[skill-jurthatlng|Jurthati Language]], and a Tantsou minister and a Jenchai retainer who cannot exchange three spoken sentences can conduct an entire negotiation in writing, each reading the characters aloud in his own tongue or not aloud at all. A thousand years of mutual non-recognition between [[affiliation-tantsouempr|Empire of Tantsou]] and [[affiliation-jenchaiempr|Jenchai Empire]] has not produced two scripts, because neither court will concede that the other is entitled to a separate one.
+Its defining property is that **it is not tied to a language**. Teng Chou writes [[skill-tantsoulng|Tantsou]] and it writes [[skill-jurthatlng|Jurthati]], and a Tantsou minister and a Jenchai retainer who cannot exchange three spoken sentences can conduct an entire negotiation in writing, each reading the characters aloud in his own tongue or not aloud at all. A thousand years of mutual non-recognition between [[affiliation-tantsouempr|Tantsou]] and [[affiliation-jenchaiempr|Jenchai]] has not produced two scripts, because neither court will concede that the other is entitled to a separate one.
 
 ## The two forms
 
@@ -38,4 +38,4 @@ Nobility 30–50%, the priesthood, the imperial bureaucracy, the professional sc
 
 ## In play
 
-Sign-count is everything: a character with a few hundred characters can read a shop sign, a date and a title, and cannot read a memorandum. The formal/cursive split is a second axis entirely. And because the script floats free of speech, it produces a situation that exists nowhere else on [[place-worldthlrn|The World of Thalorna]]—two literate characters with no language in common, passing a brush back and forth, understanding each other perfectly.
+Sign-count is everything: a character with a few hundred characters can read a shop sign, a date and a title, and cannot read a memorandum. The formal/cursive split is a second axis entirely. And because the script floats free of speech, it produces a situation that exists nowhere else on [[place-worldthlrn|Thalorna]]—two literate characters with no language in common, passing a brush back and forth, understanding each other perfectly.

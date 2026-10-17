@@ -1900,9 +1900,9 @@ sohl:
 # terran_analog: Helonic reads classical Greek and its daughters read a Greek koine of the eastern trade road and a Romance-like island tongue with an Arabic-shaped loan stratum. The inherited stock is Greek-shaped (sothira beside sophia, kosamir beside kosmos) without being the Greek word; the coined roots here are made to the rules and are not the Greek, Turkish, Persian or Arabic word for their meaning. The particles and the article that stood as real Greek, Turkish and Arabic words are re-coined on this page.
 ---
 
-Helonic Language is a tongue of the [Helonic Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Helonic, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Helonic is a tongue of the [Helonic Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Helonic, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-The tongue of [[place-helionis|Helionis]] and the parent of [[skill-byzarnlng|Bizarian Language]] and [[skill-bethunlng|Bethuan Language]]. Helonic is the language of culture and the arts: drama, rhetoric, poetry and the epics, spoken in theaters and assemblies and written in the great epics that define western letters. Though primary speakers are concentrated in Helionis, Helonic carries prestige throughout [[place-midhalnrgn|Mídhalión Region]], learned by merchants and courtiers who wish to take part in the culture of the age. The schools of [[affiliation-panepistmm|Epistémion]] and [[affiliation-hexhodai|Zemor Hodhis]] were first written in Helonic, which is why those institutions keep Helonic names inside the system of the [[affiliation-vylarinmpr|Vylarian Empire]].
+The tongue of [[place-helionis|Helionis]] and the parent of [[skill-byzarnlng|Bizarian Language]] and [[skill-bethunlng|Bethuan Language]]. Helonic is the language of culture and the arts: drama, rhetoric, poetry and the epics, spoken in theaters and assemblies and written in the great epics that define western letters. Though primary speakers are concentrated in Helionis, Helonic carries prestige throughout [[place-midhalnrgn|Mídhalión]], learned by merchants and courtiers who wish to take part in the culture of the age. The schools of [[affiliation-panepistmm|Epistémion]] and [[affiliation-hexhodai|Zemor Hodhis]] were first written in Helonic, which is why those institutions keep Helonic names inside the [[affiliation-vylarinmpr|Vylarian system]].
 
 ## Overview
 
@@ -1920,7 +1920,7 @@ Helonic is the tongue of drama and argument. It is clear-voweled and fond of bre
 
 **Endings.** Helonic words end in _-os_, _-on_, _-is_, _-in_, _-ir_ or _-ion_.
 
-**What Helonic leaves out.** It has no _zh_, _sh_ or _q_, which belong to Bizarian and [[skill-taruzelilng|Taruzeli Language]]. It has no _y_ as a vowel, since the guide reads _y_ as in _yes_.
+**What Helonic leaves out.** It has no _zh_, _sh_ or _q_, which belong to Bizarian and [[skill-taruzelilng|Taruzeli]]. It has no _y_ as a vowel, since the guide reads _y_ as in _yes_.
 
 ## Phonology
 
@@ -2010,7 +2010,7 @@ The grammar reflects philosophical precision, and the language's flexibility sup
 
 ## Script and Literacy
 
-Helonic is written in the [[skill-helnkscrpt|Helónika Script]]—the Helonic alphabet, a modernized descendant of an ancient script tradition unique to Helionis. It consists of 24 letters—7 vowels and 17 consonants—each with distinct majuscule (capital) and minuscule (lower) forms. The script is written left to right, with words separated by spaces and sentences punctuated by raised dots.
+Helonic is written in the [[skill-helnkscrpt|Helónika]]—the Helonic alphabet, a modernized descendant of an ancient script tradition unique to Helionis. It consists of 24 letters—7 vowels and 17 consonants—each with distinct majuscule (capital) and minuscule (lower) forms. The script is written left to right, with words separated by spaces and sentences punctuated by raised dots.
 
 **Literacy and Education:** True Helonic literacy—the ability to read and compose continuous text—is the province of the nobility (perhaps 30-40% of whom can read), the priesthood (who learn enough to recite and interpret liturgical texts), and professional scribes, poets and scholars of the old texts. The Epistémion (the Academy of Knowledge) still teaches Helonic to those who study them, but these are a tiny fraction of the population. Among merchants and guildsmen, functional literacy exists—enough to recognize common signs, tally marks, and the shape of one's own name—but even prosperous traders rely on scribes or solicitors for contracts and correspondence. The vast majority of the population (well over 90%) cannot read or write. Public monuments and civic inscriptions are read aloud by heralds and criers, not by passersby.
 
@@ -2022,7 +2022,7 @@ Helonic descended from [Proto-Helonic]{.name data-type="skill/language"}, spoken
 
 2. **Classical Helonic** (1500–500 years ago): The height of the language's refinement, used by Helionis' greatest dramatists and philosophers. This period established the norms and models still taught to poets and speakers. The works of this era remain the standard for excellence in rhetoric and expression.
 
-3. **Modern Helonic** (500 years ago–present): Increased contact vocabulary from trade languages (particularly Bizarian and [[skill-dunharlng|Dunhari Language]]), and the emergence of regional dialects. Yet the written language remains conservative—educated speakers and writers still aim for Classical standards.
+3. **Modern Helonic** (500 years ago–present): Increased contact vocabulary from trade languages (particularly Bizarian and [[skill-dunharlng|Dunhari]]), and the emergence of regional dialects. Yet the written language remains conservative—educated speakers and writers still aim for Classical standards.
 
 ## Regional Dialects
 
@@ -2605,7 +2605,7 @@ ORDER BY position
 
 ### Sea, river, land and sky
 
-Helionis reaches the sea along one short coast and never stops talking about it; [[place-byzariargn|Bizaria Region]] lives on its rivers and the roads beside them; [[place-bethuargn|Bethua Region]] is an island and has a word for every state of the water around it. The sky words are the schools': the hours are measured, and a Helonic day is named by its light.
+Helionis reaches the sea along one short coast and never stops talking about it; [[place-byzariargn|Bizaria]] lives on its rivers and the roads beside them; [[place-bethuargn|Bethua]] is an island and has a word for every state of the water around it. The sky words are the schools': the hours are measured, and a Helonic day is named by its light.
 
 ```sql
 SELECT CASE language WHEN 'thalorna-note-skill-helonclng' THEN 'Helonic' WHEN 'thalorna-note-skill-byzarnlng' THEN 'Bizarian' ELSE 'Bethuan' END AS "Tongue", form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
@@ -2649,7 +2649,7 @@ ORDER BY position
 
 ### Water, works and the island
 
-Bethua cannot run its tunnel-wells, keep its treasury or clear a cargo without the words it borrowed from [[skill-khelathlng|Khelathi Language]], and the tell of a borrowed word is the article that came with it: _en-_ or _et-_ on the front of a noun that means nothing without it. The feminine register of the temple reaches past every one of these for an inherited word, and the practical register cannot do without them.
+Bethua cannot run its tunnel-wells, keep its treasury or clear a cargo without the words it borrowed from [[skill-khelathlng|Khelathi]], and the tell of a borrowed word is the article that came with it: _en-_ or _et-_ on the front of a noun that means nothing without it. The feminine register of the temple reaches past every one of these for an inherited word, and the practical register cannot do without them.
 
 ```sql
 SELECT CASE language WHEN 'thalorna-note-skill-helonclng' THEN 'Helonic' WHEN 'thalorna-note-skill-byzarnlng' THEN 'Bizarian' ELSE 'Bethuan' END AS "Tongue", form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"

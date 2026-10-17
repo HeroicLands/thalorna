@@ -270,7 +270,7 @@ The thing at the head of the ravine is the shape of a wolf and the color of an o
 
 # Dossier {#dossier}
 
-The Ironjaw is a dreadspawn, a made thing: a hunting beast the size and shape of a big wolf, two hundred and fifty pounds, plated all over in scales of metal that grow out of its hide, with a jaw of iron-hard teeth that bites through mail. It hunts in packs of four to eight across the stone uplands and badlands of the [[place-khzryndsrtrgn|Khazryn Desert Region]]—the black rock of the [[place-dkrqrrgn|Diqraqor]] and the hollow ridges of [[place-idwkrrgn|Idvaqor]]—and holds a territory there that it marks with scratched rock and heaps of bones and defends against everything. The tribes say it was a wolf that dark magic got into and turned to metal. The scholars who class it with the dreadspawn say it was made as it is and made as a pack, since it cannot breed and every pack has always been met at full strength; nobody has seen a young one.
+The Ironjaw is a dreadspawn, a made thing: a hunting beast the size and shape of a big wolf, two hundred and fifty pounds, plated all over in scales of metal that grow out of its hide, with a jaw of iron-hard teeth that bites through mail. It hunts in packs of four to eight across the stone uplands and badlands of the [[place-khzryndsrtrgn|Khazryn]]—the black rock of the [[place-dkrqrrgn|Diqraqor]] and the hollow ridges of [[place-idwkrrgn|Idvaqor]]—and holds a territory there that it marks with scratched rock and heaps of bones and defends against everything. The tribes say it was a wolf that dark magic got into and turned to metal. The scholars who class it with the dreadspawn say it was made as it is and made as a pack, since it cannot breed and every pack has always been met at full strength; nobody has seen a young one.
 
 ## Presentation
 
@@ -286,7 +286,7 @@ A pack hunts by day or night as it pleases, in silence, and drives its prey towa
 
 ## What the Tribes Do
 
-The riders who sell passage through the ridges know where each pack's ground begins and take the strings round it, and a guide who finds fresh claw-scores on the path ahead turns back. A tribe whose grazing borders a pack's ground lets the border be. When a pack must be fought, the tribes fight it with mauls, axes and stones from above, because a sword or a spear point skids off the plates. Sour wine or vinegar thrown on the scales makes them pit and weaken, and a fight with ironjaws is a fight the tribes prepare for with jars of it. A dead ironjaw's plates are worth more than its weight in silver to the smiths of the oasis towns, who say no forge in [[place-worldthlrn|The World of Thalorna]] makes metal like it and none of them can work it.
+The riders who sell passage through the ridges know where each pack's ground begins and take the strings round it, and a guide who finds fresh claw-scores on the path ahead turns back. A tribe whose grazing borders a pack's ground lets the border be. When a pack must be fought, the tribes fight it with mauls, axes and stones from above, because a sword or a spear point skids off the plates. Sour wine or vinegar thrown on the scales makes them pit and weaken, and a fight with ironjaws is a fight the tribes prepare for with jars of it. A dead ironjaw's plates are worth more than its weight in silver to the smiths of the oasis towns, who say no forge in [[place-worldthlrn|the World of Thalorna]] makes metal like it and none of them can work it.
 
 ## Signs
 

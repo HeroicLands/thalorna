@@ -424,7 +424,7 @@ sohl:
 
 ![[venradzrdn|Venrad Azardan]]{float=top-left}
 
-Venrad Azardan stands 5'7" tall with a light build. He has warm olive skin, dark black hair, and green eyes. His features include an oval face, a hawkish nose, a well-defined jawline, full lips, prominent brows, and hollow cheeks. He has a scar on his lower abdomen.
+Venrad stands 5'7" tall with a light build. He has warm olive skin, dark black hair, and green eyes. His features include an oval face, a hawkish nose, a well-defined jawline, full lips, prominent brows, and hollow cheeks. He has a scar on his lower abdomen.
 
 # Dossier {#dossier}
 

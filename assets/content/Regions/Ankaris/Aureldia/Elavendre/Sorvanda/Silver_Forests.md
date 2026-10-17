@@ -17,7 +17,7 @@ Guardians
 
 ## Overview
 
-The **Silver Forests** are an ancient woodland said to have been planted by the fae themselves, where the trees have bark that gleams like metal in moonlight. They lie deep in the interior of [[place-elavendre|Élavendre]], beyond the settled farmlands and the accessible foothills, in terrain that belongs to the [[lore-aelendnppl|Áelendan People]] and the wild. Even among the Áelendan, the Silver Forests are regarded with particular reverence—they are sacred territory of the highest order, protected by the [[affiliation-alndnwrdns|Áelendan Wardens]] with uncompromising strictness.
+The **Silver Forests** are an ancient woodland said to have been planted by the fae themselves, where the trees have bark that gleams like metal in moonlight. They lie deep in the interior of [[place-elavendre|Élavendre]], beyond the settled farmlands and the accessible foothills, in terrain that belongs to the [[lore-aelendnppl|Áelendan]] and the wild. Even among the Áelendan, the Silver Forests are regarded with particular reverence—they are sacred territory of the highest order, protected by the [[affiliation-alndnwrdns|Wardens]] with uncompromising strictness.
 
 ## Character
 
@@ -31,7 +31,7 @@ The Silver Forests are one of the thinnest places between the mortal world and t
 
 ## Relationship with the Sinale
 
-The enclaves of the [[lore-flksinale|Sinale Folk]] in the deep Élavendren forests are believed to have particular connection with the Silver Forests, though the nature of that connection is not something the Sinale have ever explained. Some Áelendan songs imply that the Silver Forests were grown by the Sinale in cooperation with the fae at the dawn of things; others speak of the forests as predating even the Sinale. Both versions may be true; the Áelendan do not consider these mutually exclusive.
+The [[lore-flksinale|Sinale enclaves]] in the deep Élavendren forests are believed to have particular connection with the Silver Forests, though the nature of that connection is not something the Sinale have ever explained. Some Áelendan songs imply that the Silver Forests were grown by the Sinale in cooperation with the fae at the dawn of things; others speak of the forests as predating even the Sinale. Both versions may be true; the Áelendan do not consider these mutually exclusive.
 
 ## The Felled Stand
 
@@ -42,7 +42,7 @@ At the margin of the forests nearest [[place-eshalshldg|Ésalosa Lodge]] stands 
 
 ## Access
 
-The Silver Forests are effectively closed to outsiders. The [[affiliation-alndnwrdns|Áelendan Wardens]] patrol their approaches with particular diligence, and trespass within the forests proper is treated as a violation of the most serious order. The crown of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] has acknowledged this jurisdiction for as long as the kingdom has existed, and royal magistrates decline to hear complaints from those who enter unauthorized and fail to return.
+The Silver Forests are effectively closed to outsiders. The [[affiliation-alndnwrdns|Áelendan Wardens]] patrol their approaches with particular diligence, and trespass within the forests proper is treated as a violation of the most serious order. The crown of [[affiliation-kngdmlvndr|Élavendre]] has acknowledged this jurisdiction for as long as the kingdom has existed, and royal magistrates decline to hear complaints from those who enter unauthorized and fail to return.
 
 In rare cases, the Áelendan have escorted specific individuals into outer portions of the forests—usually scholars of high reputation, envoys from the Sinale, or persons who have demonstrated some particular claim on Áelendan trust. Such visits are not something one arranges; they are something one is offered, on terms one does not set.
 

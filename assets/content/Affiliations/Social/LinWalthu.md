@@ -36,9 +36,9 @@ data:
 
 ## Overview
 
-A village headman who has waited a season for a troupe to come and play at the harvest feast describes Lin'Walthu, the Wanderers, to a neighbor: "You do not hire them. You hope for them."
+A village headman who has waited a season for a troupe to come and play at the harvest feast describes the Wanderers to a neighbor: "You do not hire them. You hope for them."
 
-**Lin'Walthu** (the **Wanderers' Fellowship**) is a loose company of traveling performers and itinerants moving through [[place-aukhelathrgq|Au'Khelathu Region]] without a fixed seat of their own. Membership is a courtesy extended to others on the road, not a binding obligation. Members share a fire or a warning without needing to be asked, and attend the fellowship's gatherings when it suits their own itinerary. A performer may carry the fellowship's name without carrying any duty to it, and the courtesy is the fellowship's whole structure.
+**Lin'Walthu** (the **Wanderers' Fellowship**) is a loose company of traveling performers and itinerants moving through [[place-aukhelathrgq|Au'Khelathu]] without a fixed seat of their own. Membership is a courtesy extended to others on the road, not a binding obligation. Members share a fire or a warning without needing to be asked, and attend the fellowship's gatherings when it suits their own itinerary. A performer may carry the fellowship's name without carrying any duty to it, and the courtesy is the fellowship's whole structure.
 
 ## Booking a Troupe
 

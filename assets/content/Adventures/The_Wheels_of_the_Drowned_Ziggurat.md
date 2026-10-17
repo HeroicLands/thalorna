@@ -18,7 +18,7 @@ data:
 
 ## Hands That Never Stop Turning
 
-A serpent-cult died in the deep forest and its priests did not. At [[place-drwndzgrt|The Drowned Ziggurat]], mummified hands turn bronze prayer-wheels without rest, and [[lore-theshadow|The Shadow]] that keeps them turning has begun to want more than hands. The party must cross a flooded temple, survive its rising water, and decide what to do with the wheels. Victory here is partial at best: the wheels can be stopped, but the thing they hold shut does not stay shut.
+A serpent-cult died in the deep forest and its priests did not. At [[place-drwndzgrt|the Drowned Ziggurat]], mummified hands turn bronze prayer-wheels without rest, and [[lore-theshadow|the Shadow]] that keeps them turning has begun to want more than hands. The party must cross a flooded temple, survive its rising water, and decide what to do with the wheels. Victory here is partial at best: the wheels can be stopped, but the thing they hold shut does not stay shut.
 
 ### Hook
 
@@ -29,7 +29,7 @@ Offer the entry that suits the hero.
 - **The leader.** The chieftain of a river-tribe has watched the drowned plain's fish die and its water turn black. The tribe's eldest says the serpent-patron is troubled. The chieftain needs someone to go upriver who is not of the tribe, because no one of the tribe can break the taboo.
 - **The lone wanderer.** The wanderer has a fever-dream of a bronze wheel turning, and has dreamed it for a month. A river-guide who knows the way owes the wanderer a life and offers to pay.
 
-The place note is [[place-drwndzgrt|The Drowned Ziggurat]].
+The place note is [[place-drwndzgrt|the Drowned Ziggurat]].
 
 ## Scene One: The Flooded Stair
 
@@ -63,7 +63,7 @@ The place note is [[place-drwndzgrt|The Drowned Ziggurat]].
 
 **NPCs and threats.**
 
-- **The Wheel-Keepers.** [[being-damut|Damut]] of the lesser priests, driven by a binding that gives each body one task. They turn the wheels. They do not leave their niches, and they do not respond to the living unless the rhythm breaks. A wheel stopped by force sends the nearest Keeper out of its niche in a lurching rush, its free hand clawing, while the other hand keeps turning.
+- **The Wheel-Keepers.** [[being-damut|Damutu]] of the lesser priests, driven by a binding that gives each body one task. They turn the wheels. They do not leave their niches, and they do not respond to the living unless the rhythm breaks. A wheel stopped by force sends the nearest Keeper out of its niche in a lurching rush, its free hand clawing, while the other hand keeps turning.
 
 **Player choices.**
 
@@ -110,7 +110,7 @@ The place note is [[place-drwndzgrt|The Drowned Ziggurat]].
 
 **NPCs and threats.**
 
-- [The Serpent's Bride]{.name data-type="being/creature"}. One of the [[being-tereb|Tereb]], the cult's last high priestess, who persists past death by deliberate ritual. She wears her former self like a garment, and the Shadow behind her looks out of her eyes. She is courteous, patient and persuasive. She wants the wheel turned until the patron wakes, and she believes it will wake as it was, whole and sane. It will not. Her tactics are to speak first, offer a place beside her, and strike only when refused. She drives the Keepers with a gesture. She cannot leave the sanctum, because her binding is anchored to the wheel.
+- [The Serpent's Bride]{.name data-type="being/creature"}. [[being-tereb|A tereb]], the cult's last high priestess, who persists past death by deliberate ritual. She wears her former self like a garment, and the Shadow behind her looks out of her eyes. She is courteous, patient and persuasive. She wants the wheel turned until the patron wakes, and she believes it will wake as it was, whole and sane. It will not. Her tactics are to speak first, offer a place beside her, and strike only when refused. She drives the Keepers with a gesture. She cannot leave the sanctum, because her binding is anchored to the wheel.
 
 **Player choices.**
 
@@ -140,7 +140,7 @@ The place note is [[place-drwndzgrt|The Drowned Ziggurat]].
 - _Guile:_ leave a false map for any who come after.
 - _Parley:_ carry the bark-books to a river-tribe elder who may be able to read the cult's last words.
 
-**Clues and rewards.** The treasure is modest: river-gold dust, bronze tools, and the jade signet, which a river-tribe will buy or kill for. The map shows the circle of [[place-slntclrng|The Silent Clearing]]. The prayers on the last bark-book say the cult's wheels were also meant to hold the Clearing shut.
+**Clues and rewards.** The treasure is modest: river-gold dust, bronze tools, and the jade signet, which a river-tribe will buy or kill for. The map shows the circle of [[place-slntclrng|the Silent Clearing]]. The prayers on the last bark-book say the cult's wheels were also meant to hold the Clearing shut.
 
 **Consequences.** The twist: the Ziggurat's cult did not only seek to keep a patron alive. Its priests found the Clearing's wound and tried to bind it with prayer. They failed in the way the Shadow makes everything fail. Stopping the wheels frees the wound's pull.
 

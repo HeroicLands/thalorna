@@ -14,7 +14,7 @@ sohl:
     charges: {value: null, max: null}
 ---
 
-Unlike [[mysticalability-sealdthrshld|The Sealed Threshold]], The Unbroken Seal does not merely resist; the sealed thing does not open, and
+Unlike [[mysticalability-sealdthrshld|the Sealed Threshold]]this one does not merely resist; the sealed thing does not open, and
 the material around it does not yield either. It is the working used on treasuries, on the sealed
 shelves at [[place-khelunu|Khelunu]], and on the tombs of those who can afford it. Its cost is that a lost holder
 means a lost contents: the House has never found a way to release one that does not amount to

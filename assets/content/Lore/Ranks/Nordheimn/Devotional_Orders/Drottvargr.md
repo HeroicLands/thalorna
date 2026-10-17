@@ -32,4 +32,4 @@ None.
 
 ## Where This Standing Is Held
 
-The devotional orders of the faiths of the [[affiliation-asguardian|Asguardian Pantheon]] that confer this standing. Each order gives it the obligations of its own devotion; it is standing within that order, rather than authority over the other orders.
+The devotional orders of the faiths of the [[affiliation-asguardian|Ten]] that confer this standing. Each order gives it the obligations of its own devotion; it is standing within that order, rather than authority over the other orders.

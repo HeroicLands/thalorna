@@ -17,9 +17,9 @@ data:
 
 ## Overview
 
-"Before we go in," a schoolmaster of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] tells the family of a seven-year-old at the city gate, "understand what this place is for. The schools do not teach your son to be clever. They teach him to be exact, and exactness is what the empire pays for."
+"Before we go in," a schoolmaster of [[affiliation-rethsaar|Reth'Sa'ar]] tells the family of a seven-year-old at the city gate, "understand what this place is for. The schools do not teach your son to be clever. They teach him to be exact, and exactness is what the empire pays for."
 
-Khelunu is the empire's city of learning: capital of [[affiliation-selatgrrthsr|The Selat of Gar-Reth'Sa'ar]], home to about 85,000 people, and seat of the foremost temple of [[lore-rethsaardty|Reth'Sa'ar]], keeper of sacred knowledge. Its great library-temple holds the deepest archive in the [[affiliation-empireakhlth|Empire of Au'Khelathu]]: the priestly records, the medical, astronomical and legal texts, and the meticulous king-lists that reach back, unbroken, to [[lore-qettelgu|The Qet Telgu]].
+Khelunu is the empire's city of learning: capital of [[affiliation-selatgrrthsr|the Selat of Gar-Reth'Sa'ar]], home to about 85,000 people, and seat of the foremost temple of [[lore-rethsaardty|Reth'Sa'ar]], keeper of sacred knowledge. Its great library-temple holds the deepest archive in the [[affiliation-empireakhlth|Empire of Au'Khelathu]]: the priestly records, the medical, astronomical and legal texts, and the meticulous king-lists that reach back, unbroken, to [[lore-qettelgu|the Qet Telgu]].
 
 Around the library-temple cluster the institutions that make the city what it is:
 
@@ -38,7 +38,7 @@ The Thaz'Lekhau of Reth'Sa'ar is less wealthy than the heads of the great solar 
 - The scribal schools, the gold standard of literate training
 - The observatory and the calendar-service that keeps the realm's time
 - The priestly archives and the unbroken king-lists since the Qet Telgu
-- A sealed chamber of the library-temple, walled up since the house of the sun was closed and its doctrine declared heretical ([[lore-sunhouse|The Sun-House at Magu-Thelqen]])
+- A sealed chamber of the library-temple, walled up since the house of the sun was closed and its doctrine declared heretical ([[lore-sunhouse|the Sun-House at Magu-Thelqen]])
 - The scriptoria and the medical, legal and mathematical learning of the temple
 
 ## See Also

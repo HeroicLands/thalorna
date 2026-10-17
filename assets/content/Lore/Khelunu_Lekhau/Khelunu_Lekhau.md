@@ -13,7 +13,7 @@ data: {packFolder: regkharc, culture: khelathiclt}
 
 "A working is an address," a lekhau master tells a novice in the first week at [[place-khelunu|Khelunu]]. "Get the name wrong and it goes somewhere else. Get the form wrong and it does not fail; it does what you actually wrote." The rest of the tradition is the consequence of that sentence.
 
-Khelunu Lekhau—the **Eight Powers**—is the arcane philosophy of
+The Khelunu Lekhau—the **Eight Powers**—is the arcane philosophy of
 the [[affiliation-empireakhlth|Empire of Au'Khelathu]], which the [[lore-khelathiclt|Khelathi]] hold to be the oldest continuously taught account of
 magical practice in the known world. It holds that the arcane divides into eight _domains_, each a
 region of the cosmic order over which a correctly known name has authority. Its practitioners are the
@@ -26,10 +26,10 @@ incompatible accounts of the same thing.
 ### The Same Ocean, Cut Differently
 
 Both traditions agree on the underlying fact. There is one undifferentiated reservoir of arcane
-force permeating existence—what the **[[affiliation-ordoarcanis|Thordimalon]]** names the [Dynaris]{.name data-type="lore/arcana"}—and all practice consists of
+force permeating existence—what the **[[affiliation-ordoarcanis|Arcane Order]]** names the [Dynaris]{.name data-type="lore/arcana"}—and all practice consists of
 reaching into it. The disagreement is about where its divisions lie.
 
-The Arcane Order partitions the ocean by _substance_: fire, water, air,
+The Thordimalon partitions the ocean by _substance_: fire, water, air,
 earth, metal, spirit. Its doctrine is not that this is a serviceable model but that it is the
 structure of arcane reality, that the Dynaris is _always already_ one of the Six in every place and
 at every moment, and that the Six exhaust the arcane.

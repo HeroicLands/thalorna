@@ -17,13 +17,13 @@ sohl:
   flags: {"thalorna": {script_family: Syllabary}}
 ---
 
-The Luaithari Script—"the flowing marks"—is the syllabary of the [[affiliation-kalihara|Kalihara]]: one curved, interconnected glyph for each consonant-and-vowel pair, or for a vowel standing alone, written left to right and top to bottom in lines that visibly run like water. Glyphs ligature freely into compound forms, and **dots above and below the line carry tone**, emphasis, and what Kaliharan scribes call poetic weight—a distinction with no equivalent in the scripts of [[place-ankrscntnnt|Ankaris Continent]], and one that a foreign reader habitually ignores and thereby misreads.
+The Luaithari—"the flowing marks"—is the syllabary of the [[affiliation-kalihara|Kalihara]]: one curved, interconnected glyph for each consonant-and-vowel pair, or for a vowel standing alone, written left to right and top to bottom in lines that visibly run like water. Glyphs ligature freely into compound forms, and **dots above and below the line carry tone**, emphasis, and what Kaliharan scribes call poetic weight—a distinction with no equivalent in the scripts of [[place-ankrscntnnt|Ankaris]], and one that a foreign reader habitually ignores and thereby misreads.
 
-It carries [[skill-kalihrlng|Kalihari Language]], a language with no known relatives anywhere on [[place-worldthlrn|The World of Thalorna]], and nothing else. A character needs **both**.
+It carries [[skill-kalihrlng|Kalihari]], a language with no known relatives anywhere on [[place-worldthlrn|Thalorna]], and nothing else. A character needs **both**.
 
 ## Aesthetics as content
 
-Kaliharan scribal tradition holds that a text badly formed is a text partly false. Sacred and formal work carries ornate flourishes that are not decoration in the way an illuminated [[lore-provenzianclt|Provenzian]] capital is decoration—they modify how the passage is to be taken, and a copyist who flattens them has altered the document. This makes Luaithari unusually hostile to hasty copying, and is one reason so little Kalihari writing has reached foreign libraries in a trustworthy state.
+Kaliharan scribal tradition holds that a text badly formed is a text partly false. Sacred and formal work carries ornate flourishes that are not decoration in the way an illuminated [[lore-provenzianclt|Provenzal]] capital is decoration—they modify how the passage is to be taken, and a copyist who flattens them has altered the document. This makes Luaithari unusually hostile to hasty copying, and is one reason so little Kalihari writing has reached foreign libraries in a trustworthy state.
 
 ## Beneath it: what the custodians describe
 
@@ -31,7 +31,7 @@ The island's deep archive is not in Luaithari at all. No outsider has ever been 
 
 ## Who has it
 
-Every Kaliharan writes it well enough to keep a manual; the full flourished hand belongs to the custodians and the professional scribes, whose tradition is ancient and deep—the island's written archive is large and is maintained by specialists rather than consulted by the public. In the ports of [[place-ilovanu|Ilovanu]] and [[place-vashuran|Vashurán]] a hired scribe writes a simplified notation for trade, or abandons the syllabary entirely and takes down the transaction in [[skill-valtarlng|Valtari Language]] using whatever foreign letters he knows.
+Every Kaliharan writes it well enough to keep a manual; the full flourished hand belongs to the custodians and the professional scribes, whose tradition is ancient and deep—the island's written archive is large and is maintained by specialists rather than consulted by the public. In the ports of [[place-ilovanu|Ilovanu]] and [[place-vashuran|Vashurán]] a hired scribe writes a simplified notation for trade, or abandons the syllabary entirely and takes down the transaction in [[skill-valtarlng|Valtari]] using whatever foreign letters he knows.
 
 ## In play
 

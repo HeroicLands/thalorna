@@ -397,7 +397,7 @@ Goremdanis Sonyardis is a 35-year-old man who stands 6'1" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria Region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Goremdanis Sonyardis is a musician who plays the lyre.
+Born in the [[place-vylariargn|Vylaria region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Goremdanis Sonyardis is a musician who plays the lyre.
 
 Goremdanis was raised in a small village where music was a large part of life. He learned to play the lyre from his father and now travels from town to town, playing wherever he is welcome. His songs are often drawn from nature, and he is known for the vivid pictures his music calls up. Though he plays mostly for rural audiences, he dreams of becoming a court musician.
 

@@ -17,11 +17,11 @@ data:
 
 ## Teaser
 
-In The Fires of the Blood Hills, the secrets of [[place-ceravelvale|Keravel Vale]] lead to its most perilous chapter yet. Deep within the ominous terrain of [[place-bloodhills|The Blood Hills]] lies a place shrouded in legend, rumored to conceal a powerful artifact capable of altering the balance of power in the region. The adventurers must race against time to uncover its secrets before it falls into the wrong hands. Along the way, they will face treacherous terrain, shadowed ruins, and unknown challenges that will test their mettle at every turn. Harrowing choices await—choices that will not only define their legacy but determine the fate of the Vale itself.
+The secrets of [[place-ceravelvale|Keravel Vale]] lead to its most perilous chapter yet. Deep within the ominous terrain of [[place-bloodhills|the Blood Hills]] lies a place shrouded in legend, rumored to conceal a powerful artifact capable of altering the balance of power in the region. The adventurers must race against time to uncover its secrets before it falls into the wrong hands. Along the way, they will face treacherous terrain, shadowed ruins, and unknown challenges that will test their mettle at every turn. Harrowing choices await—choices that will not only define their legacy but determine the fate of the Vale itself.
 
 ## Overview
 
-In the final part, the adventurers venture into the Blood Hills to find the shrine where the artifact of [[affiliation-blackflame|The Black Flame]] is hidden. The adventurers must decide whether to claim the artifact for themselves, destroy it, or return it to an authority of [[affiliation-sacredforge|The Sacred Forge]].
+In the final part, the adventurers venture into the Blood Hills to find the shrine where the [[affiliation-blackflame|Black Flame artifact]] is hidden. The adventurers must decide whether to claim the artifact for themselves, destroy it, or return it to a [[affiliation-sacredforge|Sacred Forge authority]].
 
 ## Adventure Outline
 

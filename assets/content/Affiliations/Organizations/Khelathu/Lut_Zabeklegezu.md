@@ -40,7 +40,7 @@ data:
 
 ## Overview
 
-In **Lut-Zabeklegezu**, a noble household of long standing in the [[place-aukhelathrgq|Au'Khelathu Region]], the most closely guarded object is the master's seal-ring, and a missing one is a matter of real consequence. The master has kept the same servants for decades rather than replacing them as fashion or convenience suggested, so the household's business runs on trust built over years and not on written procedure. A servant suspected of losing or misusing the seal faces a reckoning sharper than the object's value explains, because what is at stake is the trust the whole household depends on.
+In **Lut-Zabeklegezu**, a noble household of long standing in [[place-aukhelathrgq|Au'Khelathu]], the most closely guarded object is the master's seal-ring, and a missing one is a matter of real consequence. The master has kept the same servants for decades rather than replacing them as fashion or convenience suggested, so the household's business runs on trust built over years and not on written procedure. A servant suspected of losing or misusing the seal faces a reckoning sharper than the object's value explains, because what is at stake is the trust the whole household depends on.
 
 ## Character
 

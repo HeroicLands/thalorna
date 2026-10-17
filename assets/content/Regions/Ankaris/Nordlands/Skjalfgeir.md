@@ -8,7 +8,7 @@ tags: [asguardian]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
-A spear that never misses leaves one question, and that is who throws it. **Skjalfgeir** is the spear of [[lore-odvardty|Odvar]], and the [[affiliation-odvar|Faith of Odvar]] depicts the god holding a weapon that never misses its mark. The hall reads the spear as a sign of his precision and authority.
+A spear that never misses leaves one question, and that is who throws it. **Skjalfgeir** is the spear of [[lore-odvardty|Odvar]], and the [[affiliation-odvar|faith]] depicts the god holding a weapon that never misses its mark. The hall reads the spear as a sign of his precision and authority.
 
 A relic called **[Skjalfgeir's Echo]{.name data-type="miscgear"}** is described as a fragment of the spear. The faithful believe it grants its bearer the same precision and authority in combat and in leadership, and that power remains a belief of the faithful.
 

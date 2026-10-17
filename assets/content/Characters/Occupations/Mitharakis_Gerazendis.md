@@ -398,9 +398,9 @@ Mitharakis Gerazendis is a 50-year-old man who stands 6'0" tall and is of modera
 
 # Dossier {#dossier}
 
-Mitharakis Gerazendis is a jester of [[place-tyrellan|Tirellan]], the provincial city of [[place-moktur|Moktur]] on the northern frontier of [[place-vylariargn|Vylaria Region]], a [[lore-vylarianclt|Vylarian]] freeman who has made the halls of the frontier's _therkoi_ (governors) and border-lords laugh for thirty years.
+Mitharakis Gerazendis is a jester of [[place-tyrellan|Tirellan]], the provincial city of [[place-moktur|Moktur]] on the northern frontier of [[place-vylariargn|Vylaria]], a [[lore-vylarianclt|Vylarian]] freeman who has made the halls of the frontier's _therkoi_ (governors) and border-lords laugh for thirty years.
 
-Mitharakis came up from the taverns of Tirellan as a boy who could mimic anyone in the room and was paid not to, and he has performed since for three military _therkoi_, a dozen border-lords, and [[lore-varokhiclt|Varokhi]] chiefs across the line who did not understand a word and laughed anyway. His humor is story and satire, the _therkos_'s temper, the [[affiliation-seldan|Seldan]]'s letters, the legion's pay, the winter, and he has learned how far a frontier lord will let a fool go and how far past it a fool can go if the hall is laughing. He has kept his head when men who spoke plainly lost theirs. He holds that a hall that can laugh at its lord will follow him, and one that cannot will not.
+Mitharakis came up from the taverns of Tirellan as a boy who could mimic anyone in the room and was paid not to, and he has performed since for three military _therkoi_, a dozen border-lords, and [[lore-varokhiclt|Varokh]] chiefs across the line who did not understand a word and laughed anyway. His humor is story and satire, the _therkos_'s temper, the [[affiliation-seldan|Seldan]]'s letters, the legion's pay, the winter, and he has learned how far a frontier lord will let a fool go and how far past it a fool can go if the hall is laughing. He has kept his head when men who spoke plainly lost theirs. He holds that a hall that can laugh at its lord will follow him, and one that cannot will not.
 
 ## Psyche
 

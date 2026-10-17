@@ -63,7 +63,7 @@ The Selat of Gar-Lut is one of the upper-river selatu of the [[affiliation-empir
 
 ## Character
 
-The seat is Gar-Lut, where the Halzi'a keeps his court and the chief temple of the [[affiliation-uznera|Faith of Uzn'era]] stands. The Canal-Warden keeps the irrigation works on which the selat's harvest and its tax depend. Uzn'era's teaching, that creation needs the partnership of a masculine and a feminine principle, is the foundation of the standing [[lore-khelathiclt|Khelathi]] women hold in law, and her priestesses take high office in the temples.
+The seat is Gar-Lut, where the Halzi'a keeps his court and the chief temple of [[affiliation-uznera|Uzn'era]] stands. The Canal-Warden keeps the irrigation works on which the selat's harvest and its tax depend. Uzn'era's teaching, that creation needs the partnership of a masculine and a feminine principle, is the foundation of the standing [[lore-khelathiclt|Khelathi]] women hold in law, and her priestesses take high office in the temples.
 
 ## Commerce and Currency
 

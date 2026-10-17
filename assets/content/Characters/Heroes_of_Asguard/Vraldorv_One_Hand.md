@@ -361,7 +361,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Vraldorv One-Hand stands 5'11" with a lean, disciplined frame, weighing about 185 pounds. His fair skin shows the wear of a hard life lived outdoors, and his brown hair is streaked with gray and tied back from a face marked by gravity and purpose. His gray eyes are steady and penetrating—the eyes of a man who weighs every soul he meets. His features are gaunt and angular, with a long nose, sunken cheeks, a strong jaw, and thin lips that tighten when he disapproves, which is often. The stump of his right hand is cleanly healed and wrapped in worn leather bindings, displayed openly as a badge of sacrifice rather than hidden as a mark of shame. Vraldorv wears plain but well-made garments—a dark woolen tunic, leather breeches, and a heavy cloak—with a longsword worn on his left hip for cross-draw. A small iron pendant of [[lore-eidgardty|Eidgar]]'s rune hangs at his throat.
+Vraldorv stands 5'11" with a lean, disciplined frame, weighing about 185 pounds. His fair skin shows the wear of a hard life lived outdoors, and his brown hair is streaked with gray and tied back from a face marked by gravity and purpose. His gray eyes are steady and penetrating—the eyes of a man who weighs every soul he meets. His features are gaunt and angular, with a long nose, sunken cheeks, a strong jaw, and thin lips that tighten when he disapproves, which is often. The stump of his right hand is cleanly healed and wrapped in worn leather bindings, displayed openly as a badge of sacrifice rather than hidden as a mark of shame. Vraldorv wears plain but well-made garments—a dark woolen tunic, leather breeches, and a heavy cloak—with a longsword worn on his left hip for cross-draw. A small iron pendant of [[lore-eidgardty|Eidgar]]'s rune hangs at his throat.
 
 # Dossier {#dossier}
 
@@ -381,7 +381,7 @@ Vraldorv seeks to establish a code of justice that transcends the petty feuds an
 
 ### Strengths
 
-Vraldorv's left-handed fighting style is unorthodox and catches many opponents off guard. His reputation for absolute fairness makes him the most trusted arbiter in the northern lands, and his judgments carry weight even among rival clans. His missing hand, rather than being a weakness, has become a symbol of his devotion to the [[affiliation-eidgar|Faith of Eidgar]] and inspires those who witness his resolve.
+Vraldorv's left-handed fighting style is unorthodox and catches many opponents off guard. His reputation for absolute fairness makes him the most trusted arbiter in the northern lands, and his judgments carry weight even among rival clans. His missing hand, rather than being a weakness, has become a symbol of his devotion to [[affiliation-eidgar|Eidgar]] and inspires those who witness his resolve.
 
 ## Social
 

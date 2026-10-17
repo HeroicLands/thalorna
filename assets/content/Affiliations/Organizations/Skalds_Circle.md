@@ -67,7 +67,7 @@ Founded
 
 ## What a Skald Is For
 
-In the [[place-nrdlndsrgn|Nordlands Region]] a king's reign lasts as long as the songs that recall it. A jarl's deeds are what is sung of him, and an oath sworn in a hall with no skald present is suspect, because no one will be there to recite it in a generation. The Circle keeps the archive that makes this work. The Asguardian tradition distrusts parchment, so the archive lives in trained singers who can recite on demand the genealogies of kin going back ten generations, the standing kennings of every great house, the verse-records of contested judgments at every ting in the last century, and the saga of every campaign large enough to have earned one.
+In the [[place-nrdlndsrgn|Nordlands]] a king's reign lasts as long as the songs that recall it. A jarl's deeds are what is sung of him, and an oath sworn in a hall with no skald present is suspect, because no one will be there to recite it in a generation. The Circle keeps the archive that makes this work. The Asguardian tradition distrusts parchment, so the archive lives in trained singers who can recite on demand the genealogies of kin going back ten generations, the standing kennings of every great house, the verse-records of contested judgments at every ting in the last century, and the saga of every campaign large enough to have earned one.
 
 A skald does entertain, but the work is larger than that. A skald is the sworn keeper of his hall's record and his kingdom's history, and the impartial witness whose recitation the courts accept. Say a dispute breaks out over an inheritance, a contested oath, or who owed whom what tribute three winters ago. The skald is summoned, the skald recites, and the recitation binds.
 
@@ -113,7 +113,7 @@ The Hirvskaldar at the five courts are known by the sagas they compose more than
 
 ## Relations
 
-- **[[affiliation-malldbndlg|Málalidabandalag]]** and the Circle extend each other formal hospitality and recognition. Signed companies welcome skalds at their fires, and skalds carry company histories, sing the deaths of fallen captains and serve as messengers between the Hall at [[place-hringstead|Hringstead]] and the scattered companies.
+- **The [[affiliation-malldbndlg|Málalidabandalag]]** and the Circle extend each other formal hospitality and recognition. Signed companies welcome skalds at their fires, and skalds carry company histories, sing the deaths of fallen captains and serve as messengers between the Hall at [[place-hringstead|Hringstead]] and the scattered companies.
 - **[[affiliation-asguardian|The Asguardian priesthood]]** overlaps with the Circle without answering for it. Many skalds are lay devotees of Odvar, who is patron of poetry as of war and wisdom, and his priesthood cooperates closely with the Circle. Skalds answer to their masters and to the Circle, never to a priest.
 - **[[affiliation-bardicolgs|The Bardic Colleges]] of [[place-elavendre|Élavendre]]** and the Circle respect one another across a cultural distance. The two traditions exchange visiting members regularly and acknowledge each other's craft without claiming to share it.
 - **Kings and jarls** are the Circle's clients, employers and, occasionally, the targets of honest recital. The relationship is one of permanent mutual usefulness and occasional sharp friction.

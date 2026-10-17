@@ -461,7 +461,7 @@ sohl:
   flags: {"thalorna": {lang_family: Desert}}
 ---
 
-Atárzadi Language is the tongue of the [[affiliation-tribestrzd|Tribes of Atarzád]], the twelve tribes who took four of the [[lore-khazrynclt|Tellumi]] cities in the oasis belt at the foot of [[place-graznmntns|The Grazian Mountains]]. It is a tongue of the Desert family, a cousin of [[skill-dunharlng|Dunhari Language]], and like Dunhari it is written in the [[skill-dnshkscrpt|Dunshak Script]]. Fluency measures the sophistication of expression in the language, from the halting phrases of a traveler to the nuanced discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Atárzadi is the tongue of the [[affiliation-tribestrzd|Tribes of Atarzád]], the twelve tribes who took four of the [[lore-khazrynclt|Tellumi]] cities in the oasis belt at the foot of [[place-graznmntns|the Grazian Mountains]]. It is a tongue of the Desert family, a cousin of [[skill-dunharlng|Dunhari]], and like Dunhari it is written in the [[skill-dnshkscrpt|Dunshak script]]. Fluency measures the sophistication of expression in the language, from the halting phrases of a traveler to the nuanced discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## How Atárzadi sounds
 

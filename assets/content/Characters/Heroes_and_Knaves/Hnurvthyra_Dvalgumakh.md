@@ -414,7 +414,7 @@ sohl:
 
 ![[hnrvthyrdvlgmkh|Hnurvthira Dvalgumak]]{float=top-left}
 
-Hnurvthira Dvalgumak stands 5'6" tall with a light build. She has pale fair skin, auburn hair, and green eyes. Her features include an oval face, a slightly upturned nose, a prominent chin, narrow lips, low-set brows.
+Hnurvthira stands 5'6" tall with a light build. She has pale fair skin, auburn hair, and green eyes. Her features include an oval face, a slightly upturned nose, a prominent chin, narrow lips, low-set brows.
 
 # Dossier {#dossier}
 
@@ -428,7 +428,7 @@ At twenty-two, Hnurvthira established her own workshop in the market quarter, dr
 
 **Current Situation**
 
-Now at the height of her craft, Hnurvthira finds herself at a crossroads. Her small workshop has become profitable, but opportunity and ambition gnaw at her. She possesses the skill to work with the finest fabrics imported from the [[place-vedyarargn|Vedyara Region]] and beyond, yet her customers remain largely of modest means. A wealthy merchant from the market town of [[place-asgarthul|Asgarthul]] recently visited, commissioning elaborate garments for his wife. He hinted at patronage that could lift Hnurvthira into the ranks of the realm's most prestigious craftspeople. Yet accepting such work would mean leaving her village and abandoning the community that trusted her. Her heart remains divided between ambition and loyalty.
+Now at the height of her craft, Hnurvthira finds herself at a crossroads. Her small workshop has become profitable, but opportunity and ambition gnaw at her. She possesses the skill to work with the finest fabrics imported from [[place-vedyarargn|Vedyara]] and beyond, yet her customers remain largely of modest means. A wealthy merchant from the market town of [[place-asgarthul|Asgarthul]] recently visited, commissioning elaborate garments for his wife. He hinted at patronage that could lift Hnurvthira into the ranks of the realm's most prestigious craftspeople. Yet accepting such work would mean leaving her village and abandoning the community that trusted her. Her heart remains divided between ambition and loyalty.
 
 ## Psyche
 

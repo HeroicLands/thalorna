@@ -36,4 +36,4 @@ Hrindvir Hvalgendik is a 47-year-old man who stands 5'8" tall with a medium buil
 
 # Dossier {#dossier}
 
-Hrindvir Hvalgendik is the harbormaster charged with the ordering of the port in the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]'s capital. He regards [[being-hvrnthnstrmrt|Hvarnthann Stormrót]] as a troublemaker who flouts maritime law, and their conflicts are frequent and bitter. Hrindvir Hvalgendik is named in Hvarnthann Stormrót.
+Hrindvir Hvalgendik is the harbormaster charged with the ordering of the port in [[affiliation-kngdmvthgrd|Vithgard]]'s capital. He regards [[being-hvrnthnstrmrt|Hvarnthann]] as a troublemaker who flouts maritime law, and their conflicts are frequent and bitter. Hrindvir Hvalgendik is named in Hvarnthann Stormrót.

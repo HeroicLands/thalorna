@@ -47,19 +47,19 @@ That is the list's formula for a regent. A child of three floods cannot hold the
 
 In 2580 ST (470 AF), in the child's second year, the child went to the West in the night. The list enters the manner of a death in no reign, and it enters none here. It enters the line above the crowning and the crowning below it, in the same year, and the line that carries them both is the one the copyist read: **the throne passed to the one who stood beside it.**
 
-The priesthood of the [[affiliation-uqaa|Faith of Uqa'a]] crowned [Meqes I]{.name data-type="being/npc"} of Zu'Meku on the mound at [[place-yathtelgu|Yath-Telgu]] in the same year. The house of Zu'Meku was not one of the great houses of the delta or the upper river. Its head had been a regent for two years, and the priesthood had the choice of crowning him or of raising a house of its own, as it had raised the houses before him. It crowned him. The list does not say why, and the Keepers say that the list is right not to.
+The priesthood of [[affiliation-uqaa|Uqa'a]] crowned [Meqes I]{.name data-type="being/npc"} of Zu'Meku on the mound at [[place-yathtelgu|Yath-Telgu]] in the same year. The house of Zu'Meku was not one of the great houses of the delta or the upper river. Its head had been a regent for two years, and the priesthood had the choice of crowning him or of raising a house of its own, as it had raised the houses before him. It crowned him. The list does not say why, and the Keepers say that the list is right not to.
 
 He kept his own name as his throne name. A throne name is chosen at the crowning, a name element joined to a god's house-form, and almost every Gar-Au before him had worn one that told the valley what was expected of him. Meqes wore his given name, and the house wore it after him.
 
 ## The Name
 
-Every Gar-Au of the house has been crowned Meqes, and the list numbers them as it numbers any name, by bearers across the whole length of the list. The first was Meqes I, who reigned fourteen years. The sixteenth is the Gar-Au who reigns now, [[being-garaumeqesxv|Gar-Au Meqes XVI]]. The name makes a contract or a tax roll easy to date within the house and impossible to date without a numeral, and every clerk in the bureaus learns the numerals before the signs.
+Every Gar-Au of the house has been crowned Meqes, and the list numbers them as it numbers any name, by bearers across the whole length of the list. The first was Meqes I, who reigned fourteen years. The sixteenth is the Gar-Au who reigns now, [[being-garaumeqesxv|Meqes XVI]]. The name makes a contract or a tax roll easy to date within the house and impossible to date without a numeral, and every clerk in the bureaus learns the numerals before the signs.
 
 ## What It Left
 
-- **The name and the house.** The reigning house, [[lore-akhhsmeqes|The House of Meqes]], descends from a regent who was crowned in a child's second year.
+- **The name and the house.** The reigning house, [[lore-akhhsmeqes|the longest of the Near Count]], descends from a regent who was crowned in a child's second year.
 - **The dread of children's reigns.** The house has two children's reigns of its own in the list, and the court keeps a regent's loyalty in mind.
-- **The Way.** The house raised its Way at the traditional frontier of the necropolis at [[place-zugezer|Zu-Gezer]], and its sixth Gar-Au carried it to the river-front ([[lore-greatremovl|The Great Removal]]).
+- **The Way.** The house raised its Way at the traditional frontier of the necropolis at [[place-zugezer|Zu-Gezer]], and its sixth Gar-Au carried it to the river-front ([[lore-greatremovl|the Great Removal]]).
 
 ## See Also
 

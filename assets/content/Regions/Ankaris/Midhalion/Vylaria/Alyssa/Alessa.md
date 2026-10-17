@@ -18,7 +18,7 @@ data:
 
 Almost nothing in Alessa is more than a day's ride from a temple, a magistrate and a tax-collector. This is the land of the [[affiliation-provinclys|Province of Alessa]], the heartland of the [[affiliation-vylarinmpr|Vylarian Empire]] within the [[place-vylariargn|Vylaria Region]]: seven million people in a near-continuous quilt of towns, villas and senatorial estates around the imperial capital, knit together by the oldest and best-kept stretch of the Vylarian road network. Its provincial capital is [[place-alyssar|Alessar]].
 
-A porter in one of the gate-yards outside [[place-orzara|Orzara City]], where the teams are unhitched and the cargo is broken down onto handcarts, teaches a new hand to read the carts by their roads. "Barge-rope on the axles means [[place-ostenna|Ostenna]], and the grain is in sacks. A cart of fruit and wine with a steward walking beside it comes down from a villa in the hills around [[place-vennara|Vennara]], and you carry that one carefully. Straw in the bed and a driver asleep on the load means a night on one of the great roads, and most likely [[place-delara|Delara]]. Everything else is grain, and you will carry it."
+A porter in one of the gate-yards outside [[place-orzara|Orzara]], where the teams are unhitched and the cargo is broken down onto handcarts, teaches a new hand to read the carts by their roads. "Barge-rope on the axles means [[place-ostenna|Ostenna]], and the grain is in sacks. A cart of fruit and wine with a steward walking beside it comes down from a villa in the hills around [[place-vennara|Vennara]], and you carry that one carefully. Straw in the bed and a driver asleep on the load means a night on one of the great roads, and most likely [[place-delara|Delara]]. Everything else is grain, and you will carry it."
 
 ## Character
 
@@ -26,7 +26,7 @@ The capital dominates everything around it. Its senatorial estates, bureaucratic
 
 ## Economy
 
-Alessa runs on government, trade and the crafts that serve the wealthy. It grows little surplus food of its own and depends on the [[affiliation-provnchyln|Province of Hilen]] for grain and the [[affiliation-provincvld|Province of Salkalon]] for seafood and imports, which is why the gate-yards never empty. What Alessa produces is influence, law and **[Vylarian Steel]{.name data-type="miscgear"}**. The capital's metalworking guilds are the finest on the [[place-ankrscntnnt|Ankaris Continent]], and access to the production of Vylarian Steel is one of the empire's most closely guarded advantages.
+Alessa runs on government, trade and the crafts that serve the wealthy. It grows little surplus food of its own and depends on [[affiliation-provnchyln|Hilen]] for grain and [[affiliation-provincvld|Salkalon]] for seafood and imports, which is why the gate-yards never empty. What Alessa produces is influence, law and **[Vylarian Steel]{.name data-type="miscgear"}**. The capital's metalworking guilds are the finest on the [[place-ankrscntnnt|Ankaris Continent]], and access to the production of Vylarian Steel is one of the empire's most closely guarded advantages.
 
 ## Notable Features
 

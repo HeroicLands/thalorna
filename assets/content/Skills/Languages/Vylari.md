@@ -5333,9 +5333,9 @@ sohl:
 # terran_analog: Vylari reads the Roman tongue in its grammar and nowhere in its words. Ancient Vylari carries the Roman pattern its grammar brief sets (three demonstratives of person and attitude) plus a hallowed rank of its own that shows in names; imperial Vylari loosens it as the spoken Roman tongue loosened toward the Romance tongues. Every root here is coined to the tongue's rules and checked against the Roman tongue, ancient Greek, Occitan, Spanish and other word lists; none is the Roman, Greek or Romance word for its meaning. The patron and client, the morning call, the wax ancestor masks, the hallowed city boundary and the legion's eagle are Roman institutions the empire shares.
 ---
 
-Vylari Language is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Vylari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Vylari is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Vylari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Vylari is the imperial tongue of the [[affiliation-vylarinmpr|Vylarian Empire]] and the most widely spoken of the [[lore-pelwarpepl|Pelwar People]] languages. It serves as the common tongue of trade, law and administration across much of [[place-midhalnrgn|Mídhalión Region]], spoken in the great cities of [[place-alyssa|Alessa]], [[place-hylen|Hilen]], [[place-moktur|Moktur]] and [[place-salkhalon|Salkalon]], and its oldest form is still the tongue of every rite in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]. The [[lore-vylarianclt|Vylarian]] people hold it to be the language of learning, government, the arcane and the university system, and [[affiliation-ordoarcanis|Thordimalon]] and the schools of [[affiliation-panepistmm|Epistémion]] work in it. In the empire and the lands that look to it the educated learn it, and a scholar of [[place-dunavarre|Dúnavarre]] writes to a magistrate of [[place-provenzrgn|Provenzia Region]] in Vylari, whatever each speaks at home. The [[lore-khelathiclt|Khelathi]] do not accept the claim. Vylarian learning began in [[place-helionis|Helionis]], where the [Vylarian Republic]{.name data-type="affiliation/polity"}'s scholars studied; after [[lore-helionscnq|The Conquest of Helionis]] of 335 to 312 BF the schools came under Vylarian structures, which changed the institutions though not their names.
+Vylari is the imperial tongue of the [[affiliation-vylarinmpr|Vylarian Empire]] and the most widely spoken of the [[lore-pelwarpepl|Pelwar People]] languages. It serves as the common tongue of trade, law and administration across much of [[place-midhalnrgn|Mídhalión]], spoken in the great cities of [[place-alyssa|Alessa]], [[place-hylen|Hilen]], [[place-moktur|Moktur]] and [[place-salkhalon|Salkalon]], and its oldest form is still the tongue of every rite in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]. The [[lore-vylarianclt|Vylarian]] people hold it to be the language of learning, government, the arcane and the university system, and [[affiliation-ordoarcanis|the Arcane Order]] and the schools of the [[affiliation-panepistmm|Epistémion]] work in it. In the empire and the lands that look to it the educated learn it, and a scholar of [[place-dunavarre|Dúnavarre]] writes to a magistrate of [[place-provenzrgn|Provenzia]] in Vylari, whatever each speaks at home. The [[lore-khelathiclt|Khelathi]] do not accept the claim. Vylarian learning began in [[place-helionis|Helionis]], where the [Vylarian Republic]{.name data-type="affiliation/polity"}'s scholars studied; after [[lore-helionscnq|the conquest]] of 335 to 312 BF the schools came under Vylarian structures, which changed the institutions though not their names.
 
 ## Overview
 
@@ -5347,7 +5347,7 @@ The language also carries the empire's order in its names. The **hallowed** endi
 
 Vylari is crisp and clipped, the speech of law and the court. Most words have two or three syllables, and a word ends on a vowel or on _s_, _n_ or _r_.
 
-**The vowels.** _a_, _e_ and _o_ carry most words, with _i_ after them. Vylari keeps its vowels single: _ei_ and _eu_ belong to [[skill-helonclng|Helonic Language]].
+**The vowels.** _a_, _e_ and _o_ carry most words, with _i_ after them. Vylari keeps its vowels single: _ei_ and _eu_ belong to [[skill-helonclng|Helonic]].
 
 **The consonants.** _l_, _r_, _s_, _z_, _m_, _n_, _t_, _k_ and _v_ do most of the work. _th_ stands inside a word, as in _semrotha_. _z_ is the language's mark, and it stands where Helonic would put _s_.
 
@@ -5359,7 +5359,7 @@ Vylari is crisp and clipped, the speech of law and the court. Most words have tw
 
 ## Two Stages
 
-**Ancient Vylari** is the scholars' name for the speech the Pelwar carried west in [[lore-pelwarmigr|The Pelwar Migration]]: strict in its rules and rich in forms. It survives in the oldest [[skill-thrvrknscrpt|Tharavarkon Script]] inscriptions and in the tongues descended from it, and the ritual speech of Nartun is the nearest thing to it still spoken.
+**Ancient Vylari** is the scholars' name for the speech the Pelwar carried west in [[lore-pelwarmigr|the Migration]]: strict in its rules and rich in forms. It survives in the oldest [[skill-thrvrknscrpt|Tharavarkon]] inscriptions and in the tongues descended from it, and the ritual speech of Nartun is the nearest thing to it still spoken.
 
 **Imperial Vylari** is the empire's speech today. In the street it has loosened: unstressed long vowels are said short, and prepositions creep into speech. **High Vylari**, the register of the [[affiliation-seldan|Seldan]] (Senate), the law courts, the temples, the arcane charters and formal oratory, keeps the ancient endings in use. A magistrate pronouncing sentence, a priest consecrating an altar and a _kurthos_ (senator) moving a vote all speak it, and an educated Vylarian can move between the two registers inside one sentence for effect.
 
@@ -5426,15 +5426,15 @@ Legal prose keeps the subject first and the verb last by long convention, and or
 
 ## Script & Literacy
 
-Vylari employs the [[skill-semrnscrpt|Semaron Script]], an alphabetic script derived from the ancient imperial runes and refined over centuries into a flowing, efficient writing system. The script reads left-to-right and distinguishes capital and lowercase forms, and it marks vowel length only in schoolbooks and lawyers' copies, with a small bar over a long vowel where a misreading is possible. True literacy—the ability to read and compose continuous text—is confined to the clergy, professional scribes, and perhaps two in five of the nobility (imperial administration values educated lords, though many provincial nobles still leave reading to their clerks). Guildsmen in major cities may possess basic functional literacy (recognizing trade marks, numerals, and simple words), but even prosperous merchants rely on scribes and solicitors for contracts, correspondence, and record-keeping. In rural provinces, literacy is virtually nonexistent outside the local temple.
+Vylari employs the [[skill-semrnscrpt|Semaron]], an alphabetic script derived from the ancient imperial runes and refined over centuries into a flowing, efficient writing system. The script reads left-to-right and distinguishes capital and lowercase forms, and it marks vowel length only in schoolbooks and lawyers' copies, with a small bar over a long vowel where a misreading is possible. True literacy—the ability to read and compose continuous text—is confined to the clergy, professional scribes, and perhaps two in five of the nobility (imperial administration values educated lords, though many provincial nobles still leave reading to their clerks). Guildsmen in major cities may possess basic functional literacy (recognizing trade marks, numerals, and simple words), but even prosperous merchants rely on scribes and solicitors for contracts, correspondence, and record-keeping. In rural provinces, literacy is virtually nonexistent outside the local temple.
 
 An older runic form, [[skill-thrvrknscrpt|Tharavarkon]], persists in ceremonial and architectural contexts. The ancient imperial inscriptions use a highly formalized variant with ligatures and special marks for religious names, and they write every sound of ancient Vylari, the clicked stops among them.
 
 ## Historical Development
 
-Vylari descends from ancient Vylari, the tongue of the western Pelwar who came down to the coast in the Migration; the eastern Pelwar, conquered in [[lore-varkhadcnq|The Varkhad Conquest]], gave rise to [[skill-nordmalng|Nordmal Language]] and [[skill-varokhlng|Varokhi Language]] instead. On the coast the tongue settled, built an empire and lightened its sounds, while the high register kept its grammar almost whole. Vylari is the most conservative of its family in grammar; [[skill-aelendlng|Áelendi Language]] is the most conservative in sound.
+Vylari descends from ancient Vylari, the tongue of the western Pelwar who came down to the coast in the Migration; the eastern Pelwar, conquered in [[lore-varkhadcnq|the Varkhad Conquest]], gave rise to [[skill-nordmalng|Nordmal Language]] and [[skill-varokhlng|Varokhi Language]] instead. On the coast the tongue settled, built an empire and lightened its sounds, while the high register kept its grammar almost whole. Vylari is the most conservative of its family in grammar; [[skill-aelendlng|Áelendi]] is the most conservative in sound.
 
-The empire took words from every people it ruled, chiefly terms of craft, trade and the sea, and the oldest religious words show the touch of the highlanders of the [[lore-aelendnppl|Áelendan People]], with whom the coastal Vylari shared a speech long before either had a name for it.
+The empire took words from every people it ruled, chiefly terms of craft, trade and the sea, and the oldest religious words show the touch of the [[lore-aelendnppl|Áelendan highlanders]], with whom the coastal Vylari shared a speech long before either had a name for it.
 
 ## Regional Dialects
 
@@ -5465,7 +5465,7 @@ The empire took words from every people it ruled, chiefly terms of craft, trade 
 
 ## Related Languages
 
-Ancient Vylari is the mother of a family, and the scholars of [[place-orzara|Orzara City]] call the family by the empire's name. [[skill-aelendlng|Áelendi]] split from it first, in the highlands, and keeps its old sounds; the Áelendan reject the name of the family outright. [[skill-elvndrlng|Élavendri Language]] is the lowland daughter of Áelendi. [[skill-provnzlng|Provenzal Language]] made articles of all three pointing words. [[skill-tarvenlng|Tarveni Language]] kept three genders, held up by an older mountain speech beneath it. [[skill-nordmalng|Nordmal]] and [[skill-varokhlng|Varokhi]] are cousins from the eastern Pelwar, outside the family. The [[skill-vylarilng#lexicon|Vylari Lexicon]] sets roots from all five daughters side by side.
+Ancient Vylari is the mother of a family, and the scholars of [[place-orzara|Orzara]] call the family by the empire's name. [[skill-aelendlng|Áelendi]] split from it first, in the highlands, and keeps its old sounds; the Áelendan reject the name of the family outright. [[skill-elvndrlng|Élavendri]] is the lowland daughter of Áelendi. [[skill-provnzlng|Provenzal]] made articles of all three pointing words. [[skill-tarvenlng|Tarveni]] kept three genders, held up by an older mountain speech beneath it. [[skill-nordmalng|Nordmal]] and [[skill-varokhlng|Varokhi]] are cousins from the eastern Pelwar, outside the family. The [[skill-vylarilng#lexicon|Vylari Lexicon]] sets roots from all five daughters side by side.
 
 ## Naming Traditions
 
@@ -5702,7 +5702,7 @@ The numbers count in tens, and twelve has a word of its own, _dorekis_, because 
 
 Ancient Vylari is the mother of five tongues, and the scholars of [[place-orzara|Orzara]] named it for the one of them the empire speaks. The [[lore-aelendnppl|Áelendan]] reject the name; to them the old tongue is their own, and the empire's speech its worn-down coastal cousin.
 
-- [[skill-aelendlng|Áelendi]] split first, carried over the eastern pass into the highlands, and kept the old sounds best of all: it still clicks its stops. It lost the lip sounds, took a great layer of words from [[skill-sinalelng|Sinale Language]], and kept its old oaths.
+- [[skill-aelendlng|Áelendi]] split first, carried over the eastern pass into the highlands, and kept the old sounds best of all: it still clicks its stops. It lost the lip sounds, took a great layer of words from [[skill-sinalelng|Sinale]], and kept its old oaths.
 - [[skill-elvndrlng|Élavendri]] is the lowland daughter of Áelendi, softened and sung.
 - Imperial Vylari stayed on the coast, kept the most grammar and lightened its sounds.
 - [[skill-provnzlng|Provenzal]] made articles of all three pointing words, and turned its consonants soft between vowels.

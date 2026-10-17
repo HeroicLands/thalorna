@@ -13,7 +13,7 @@ data:
   packFolder: provenzia
 ---
 
-The **[[affiliation-brnyzrvln|Barony of Zuravlen]]** is a barony of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]], in the
+[[affiliation-brnyzrvln|Zuravlen]]** is a barony of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]], in the
 [[place-provenzrgn|Provenzia Region]]—a short, cliff-bound coast and the long river valley behind
 it, and the source of the finest peaches on the [[place-ankrscntnnt|Ankaris Continent]] and some of its more highly regarded wine.
 
@@ -94,7 +94,7 @@ is done in winter by men whose families have done nothing else for generations. 
 bearing in its fourth year and is finished by its twentieth, so a third of the barony's orchards are
 always young, and the Zuravlen describe an orchard by its age before anything else.
 
-**Fresh fruit does not travel**—overland. A peach picked at [[place-palnebris|Palnebris]] is worth a fortune in [[place-valarencity|Válaren City]]
+**Fresh fruit does not travel**—overland. A peach picked at [[place-palnebris|Palnebris]] is worth a fortune in [[place-valarencity|Válaren]]
 and worthless four days later, which for most of the barony's history meant the fresh trade was a
 prestige trade and nothing more. What left the valley in quantity was preserved:
 
@@ -176,7 +176,7 @@ Volsater are not called to it and do not come. The valley has never entirely for
 distinction neither side chose.
 
 The vigil is a religious occasion as much as an agricultural one. Priests of
-the [[affiliation-lizelas|Faith of Lizelas]] walk the rows through the night, and it is bad luck and worse manners
+[[affiliation-lizelas|Lizelas]] walk the rows through the night, and it is bad luck and worse manners
 to refuse a call. Baron Selvare's people note, without ever quite saying it, how well the practice sits
 with the Order of the Burning Brand.
 

@@ -16,19 +16,19 @@ data:
   government: hvarnguides
 ---
 
-**Nurvharn** lies in a sheltered head-valley below the cols of [[place-estrnreach|The Eastern Reach]], and it is where [[affiliation-hvarnguides|The Hvarn]] spend the winter. Two hundred and ninety people live there year-round. Through the closed months there are three times that many, because the hearths come down off the high pastures and the whole people is in one valley until the thaw.
+**Nurvharn** lies in a sheltered head-valley below the cols of [[place-estrnreach|the Eastern Reach]], and it is where [[affiliation-hvarnguides|the Hvarn]] spend the winter. Two hundred and ninety people live there year-round. Through the closed months there are three times that many, because the hearths come down off the high pastures and the whole people is in one valley until the thaw.
 
 The village is built differently from the [[affiliation-osketguides|Osket]] villages in the west. It is not stacked houses on a slope but one long house under a single turf roof, added to at either end as hearths have grown, and the households open into one another along its length. Inside it is warm, dark, crowded and startlingly clean.
 
 ## The Council
 
-The winter council sits here, in the middle of the long house, and does the whole of the Hvarn's public business in the weeks after midwinter: the coming season's crossings, the debts the last season left, the fault of anyone who lost a party, the terms on which [[place-sanghafort|The Sangra-fort]] will be fed. It has no power to compel and has never needed one, because nobody who ignored it would be given a road.
+The winter council sits here, in the middle of the long house, and does the whole of the Hvarn's public business in the weeks after midwinter: the coming season's crossings, the debts the last season left, the fault of anyone who lost a party, the terms on which [[place-sanghafort|the fort]] will be fed. It has no power to compel and has never needed one, because nobody who ignored it would be given a road.
 
 ## Outside
 
-Lowlanders come here, not many and not often. A Hvarn **Fort-carrier** meeting an eastern janapoda's factor at the edge of the village for the renewal of the fort contract, which falls every third year, tells him what the visit holds: "You will be fed, and you will be shown your seal in its box. Nobody here will ask you to stay the winter, so do not wait to be asked." The seal of the [[affiliation-janpdsvdyr|Janapadas of Vedyara]] is one of two objects in the long house kept in a box, and the Hvarn regard the traffic as a nuisance they are paid for.
+Lowlanders come here, not many and not often. A Hvarn **Fort-carrier** meeting an eastern janapoda's factor at the edge of the village for the renewal of the fort contract, which falls every third year, tells him what the visit holds: "You will be fed, and you will be shown your seal in its box. Nobody here will ask you to stay the winter, so do not wait to be asked." The [[affiliation-janpdsvdyr|Mahva-Sangra's seal]] is one of two objects in the long house kept in a box, and the Hvarn regard the traffic as a nuisance they are paid for.
 
 ## See Also
 
-- [[place-estrnreach|The Eastern Reach]] · [[affiliation-hvarnguides|The Hvarn]] · [[place-sanghafort|The Sangra-fort]]
+- [[place-estrnreach|The Eastern Reach]] · [[affiliation-hvarnguides|the Hvarn]] · [[place-sanghafort|the Sangra-fort]]
 - [[place-jnanadvara|Jnanadvara]] · [[place-sankhadvra|Shankhadvara]]

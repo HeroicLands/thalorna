@@ -242,7 +242,7 @@ The summit of the seamount is bare rock, and the thunderheads have piled up over
 
 # Dossier {#dossier}
 
-The Thundertalon is a great air elemental of storm: a spirit of the sky manifested as an eagle of lightning and cloud with a wingspan approaching thirty feet, a conscious, intelligent predator with clear purposes of its own, which haunts high peaks and open skies and attacks anything it deems an intruder there. It strikes with lightning-charged talons, calls bolts out of the sky, and raises storms. One haunts [[place-thrumufjall|Thrumufjall]], the sheer seamount on the [[place-nordheim|Nordheim]] coast that holds the temple of the [[affiliation-thrunvald|Faith of Thrunvald]] and the mother-hall of [[affiliation-ordrstrmspkrs|The Order of the Storm-Speakers]], whose summit takes every storm that comes in off the sea. Like every elemental, it can be destroyed in the material world, and it comes back.
+The Thundertalon is a great air elemental of storm: a spirit of the sky manifested as an eagle of lightning and cloud with a wingspan approaching thirty feet, a conscious, intelligent predator with clear purposes of its own, which haunts high peaks and open skies and attacks anything it deems an intruder there. It strikes with lightning-charged talons, calls bolts out of the sky, and raises storms. One haunts [[place-thrumufjall|Thrumufjall]], the sheer seamount on the [[place-nordheim|Nordheim]] coast that holds the temple of [[affiliation-thrunvald|Thrunvald]] and the mother-hall of the [[affiliation-ordrstrmspkrs|Storm-Speakers]], whose summit takes every storm that comes in off the sea. Like every elemental, it can be destroyed in the material world, and it comes back.
 
 ## Presentation
 

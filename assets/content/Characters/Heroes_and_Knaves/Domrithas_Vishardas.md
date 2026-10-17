@@ -416,15 +416,15 @@ sohl:
 
 ![[dmrthsvshrds|Domrithas Vishardas]]{float=top-left}
 
-Domrithas Vishardas stands 5'4" tall with a medium build. He has pale fair skin, greying brown hair, and green eyes. His features include a long face, a straight nose, a rounded chin, rosy lips, greying brows, and full cheeks.
+Domrithas stands 5'4" tall with a medium build. He has pale fair skin, greying brown hair, and green eyes. His features include a long face, a straight nose, a rounded chin, rosy lips, greying brows, and full cheeks.
 
 # Dossier {#dossier}
 
-Domrithas emerged from minor nobility in [[place-nartum|Nartun]] with a gift for understanding chemical transformation. As a young man, he appeared destined for conventional success—formal training in the [Alchemist Guild of Nartun]{.name data-type="affiliation/guild"}, eventually inheriting his family's modest estate and living a comfortable if unremarkable life. But when his beloved sister **[[being-luvethaholim|Luvetha Holimandis]]** contracted the [Withering]{.name data-type="lore"}—an incurable disease that slowly transformed victims into husks—his entire trajectory shifted.
+Domrithas emerged from minor nobility in [[place-nartum|Nartun]] with a gift for understanding chemical transformation. As a young man, he appeared destined for conventional success—formal training in the [Alchemist Guild of Nartun]{.name data-type="affiliation/guild"}, eventually inheriting his family's modest estate and living a comfortable if unremarkable life. But when his beloved sister **[[being-luvethaholim|Luvetha]]** contracted the [Withering]{.name data-type="lore"}—an incurable disease that slowly transformed victims into husks—his entire trajectory shifted.
 
 He became obsessed with curing her condition and in the process, began to suspect that the boundary between life and death was not absolute but permeable, that with sufficient knowledge of transformation and chemistry, one might cross it. He began conducting experiments in secret, reading texts the guild considered forbidden and creating substances that produced results contradicting official alchemical doctrine. Despite his efforts, Luvetha died—but not before she seemed, in her final moments, to recognize something in Domrithas's work that suggested he was approaching some terrible truth.
 
-Since her death fifteen years ago, Domrithas has devoted himself with singular purpose to the pursuit of immortality. He has secured patronage from **Baron [[being-kalmethartha|Kalmethar Tharkis]] of Nartun**, who is himself elderly and afraid of death, providing him resources and protection from guild scrutiny. His work has produced substances and discoveries that exist at the boundary of poison and cure, corruption and transformation. He is becoming increasingly unstable, increasingly willing to test his creations on unwilling subjects, increasingly convinced that he is approaching a breakthrough that will revolutionize human existence itself.
+Since her death fifteen years ago, Domrithas has devoted himself with singular purpose to the pursuit of immortality. He has secured patronage from **Baron [[being-kalmethartha|Kalmethar]] of Nartun**, who is himself elderly and afraid of death, providing him resources and protection from guild scrutiny. His work has produced substances and discoveries that exist at the boundary of poison and cure, corruption and transformation. He is becoming increasingly unstable, increasingly willing to test his creations on unwilling subjects, increasingly convinced that he is approaching a breakthrough that will revolutionize human existence itself.
 
 ## Psyche
 

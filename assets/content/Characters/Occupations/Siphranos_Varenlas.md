@@ -395,7 +395,7 @@ Sifranos Varenlas is a 37-year-old man who stands 6'2" tall and is broad and sol
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria Region]] to a poor family of [[lore-vylarianclt|Vylarian]] heritage, Sifranos Varenlas is a gladiator.
+Born in the [[place-vylariargn|Vylaria region]] to a poor family of [[lore-vylarianclt|Vylarian]] heritage, Sifranos Varenlas is a gladiator.
 
 Sifranos was born into poverty and sold into slavery at a young age. He was trained as a gladiator and quickly rose to prominence in the arena, earning the name "Varenlas" for his ferocity in combat. He has fought countless opponents and won his freedom through his victories, but he continues to fight for glory and coin. For all the brutality of his fighting style, he is honorable, and keeps a strict code of conduct in the arena.
 

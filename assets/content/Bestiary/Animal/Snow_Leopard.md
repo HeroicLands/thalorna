@@ -238,7 +238,7 @@ High on the rock face above the snowline, among the grays and creams of the scre
 
 # Dossier {#dossier}
 
-The Snow Leopard is the lone hunter of the high mountains, two and a half to three feet at the shoulder and four to five feet long, living above the tree-line in [[place-graznmntns|The Grazian Mountains]], where no other large predator competes. It hunts wild goats and sheep, and will take larger prey. It comes down in the severest winters, when the game does. It is not afraid of people unless it is provoked or defending its range.
+The Snow Leopard is the lone hunter of the high mountains, two and a half to three feet at the shoulder and four to five feet long, living above the tree-line in [[place-graznmntns|the Grazian Mountains]], where no other large predator competes. It hunts wild goats and sheep, and will take larger prey. It comes down in the severest winters, when the game does. It is not afraid of people unless it is provoked or defending its range.
 
 ## Presentation
 

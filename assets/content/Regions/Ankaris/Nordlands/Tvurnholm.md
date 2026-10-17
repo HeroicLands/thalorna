@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
 ---
 
-A bard who walks through the gates of Tvurnholm is looked at twice. The city of the [[place-nrdlndsrgn|Nordlands Region]] is known for its strict laws and its rigid social order. Everyone in Tvurnholm knows their place, and the city's rulers have long held that order to be its greatest strength.
+A bard who walks through the gates of Tvurnholm is looked at twice. The city of the [[place-nrdlndsrgn|Nordlands]] is known for its strict laws and its rigid social order. Everyone in Tvurnholm knows their place, and the city's rulers have long held that order to be its greatest strength.
 
 ## The Riots
 

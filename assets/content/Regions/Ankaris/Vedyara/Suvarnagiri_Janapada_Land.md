@@ -16,7 +16,7 @@ data:
 # terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth—Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
 ---
 
-The land of Suvarnageri Janapoda is a triangular wedge of upland at the headwaters of [[place-bharavarivr|The Bharava]], in the foothills where the central Vedyari plain rises into [[place-graznmntns|The Grazian Mountains]]. It is the land of the temple-republic of [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]], in the Bharava highlands of the [[place-vedyarargn|Vedyara Region]], and thirty-five thousand people live on it. Strangers know it for one fact about its mountain: nobody has ever dug into it.
+The land of Suvarnageri Janapoda is a triangular wedge of upland at the headwaters of [[place-bharavarivr|the Bharava]], in the foothills where the central Vedyari plain rises into [[place-graznmntns|the Grazian Mountains]]. It is the land of the temple-republic of [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]], in the Bharava highlands of [[place-vedyarargn|Vedyara]], and thirty-five thousand people live on it. Strangers know it for one fact about its mountain: nobody has ever dug into it.
 
 ## The Mountain
 

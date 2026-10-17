@@ -72,19 +72,19 @@ data:
         - whether the deepest adit was sealed with more than stone
 ---
 
-After The Sórvanda Closing, the first Warden a prospector meets in [[place-sorvanda|Sórvanda]] takes his map of the old workings, reads it, and hands it back. The map is accurate. It shows the cuts of a king who tried.
+The first Warden a prospector meets in [[place-sorvanda|Sórvanda]] takes his map of the old workings, reads it, and hands it back. The map is accurate. It shows the cuts of a king who tried.
 
 ## The Bad Harvests
 
-The tribute that Queen [Réidane]{.name data-type="being/npc"} agreed at [[place-valdun|Valdun]] ([[lore-elvtribute|The Tribute of Élavendre]]) was a yearly sum in silver, and the crown paid it for generations without trouble. Then came a run of bad harvests in the basin and the hills, and the crown could not meet the sum from its own revenue. King **[Hóuradel]{.name data-type="being/npc"}**, of the house of **[Kírethel]{.name data-type="affiliation/lineage"}**, the choice of [[affiliation-bardicolgs|The Bardic Colleges]] (the Bardic Circle) when the line of [Orethan]{.name data-type="affiliation/lineage"} ended without an heir, looked at the mountains. Sórvanda was rich in silver, gold and stone, and the tribes were not mining it.
+The tribute that Queen [Réidane]{.name data-type="being/npc"} agreed at [[place-valdun|Valdun]] ([[lore-elvtribute|The Tribute of Élavendre]]) was a yearly sum in silver, and the crown paid it for generations without trouble. Then came a run of bad harvests in the basin and the hills, and the crown could not meet the sum from its own revenue. King **[Hóuradel]{.name data-type="being/npc"}**, of the house of **[Kírethel]{.name data-type="affiliation/lineage"}**, the choice of [[affiliation-bardicolgs|the Bardic Colleges]] (the Bardic Circle) when the line of [Orethan]{.name data-type="affiliation/lineage"} ended without an heir, looked at the mountains. Sórvanda was rich in silver, gold and stone, and the tribes were not mining it.
 
-He sent miners and engineers above the tree line and opened workings in [[place-drenavrspn|The Drenavar Spine]]. They were royal workings, ordered by a king acting inside his rights in the lowlands and outside his oath in the mountains.
+He sent miners and engineers above the tree line and opened workings in [[place-drenavrspn|the Spine]]. They were royal workings, ordered by a king acting inside his rights in the lowlands and outside his oath in the mountains.
 
 ## One Season
 
-The [[affiliation-alndnwrdns|Áelendan Wardens]] did not fight. They closed the workings in a single season, adit by adit. Some of the miners did not come out. The tribes withdrew their guides from the whole interior, and the withdrawal did the rest. The royal surveyors could not find a ford, a trail or a pass without a guide. No road in the mountains was the crown's own.
+The [[affiliation-alndnwrdns|Wardens]] did not fight. They closed the workings in a single season, adit by adit. Some of the miners did not come out. The tribes withdrew their guides from the whole interior, and the withdrawal did the rest. The royal surveyors could not find a ford, a trail or a pass without a guide. No road in the mountains was the crown's own.
 
-Hóuradel went up to [[place-eshalshldg|Ésalosa Lodge]] himself, uninvited. He was turned back at the outer ridge. No monarch has come to the Lodge unasked, and the Lodge did not make an exception for the king who had asked least.
+Hóuradel went up to [[place-eshalshldg|Ésalosa]] himself, uninvited. He was turned back at the outer ridge. No monarch has come to the Lodge unasked, and the Lodge did not make an exception for the king who had asked least.
 
 He came down, closed the workings, and renewed the Tree-Line oath on the Lodge's terms ([[lore-firstcrown|The First Crowning of Élavendre]]). The crown learned what it rules. It rules the interior only through the people who live there.
 
@@ -105,4 +105,4 @@ The cost of the closing outlasted the king. The lesson of the Cut was that the c
 - [[lore-elvtribute|The Tribute of Élavendre]]—the debt the king tried to pay
 - [[lore-firstcrown|The First Crowning of Élavendre]]—the oath renewed
 - [[place-sorvanda|Sórvanda]] · [[place-elanmere|Elanmere]] · [[place-eshalshldg|Ésalosa Lodge]]
-- [[affiliation-alndnwrdns|The Áelendan Wardens]] · [[affiliation-bardicolgs|The Bardic Colleges]]
+- [[affiliation-alndnwrdns|The Áelendan Wardens]] · [[affiliation-bardicolgs|the Bardic Colleges]]

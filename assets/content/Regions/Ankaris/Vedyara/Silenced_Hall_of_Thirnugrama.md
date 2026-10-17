@@ -8,7 +8,7 @@ tags: [ruin, sacred, hill]
 data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
 ---
 
-**The Silenced Hall of Thirnugrama** stands in the hill country below the conch-door road, on the way up to [[place-sanghafort|The Sangra-fort]], and it is the whole of what is left of a janapoda. **[Thirnugrama]{.name data-type="place/settlement"}**, the village of the bell, refused the conch-door adventurer about 320 AF, and he shut its sabhra in this hall and fired the roof ([[lore-silenthall|The Silenced Hall]]). The [Mahva-Melra]{.name data-type="lore/gathering"} of 320 mourned the janapoda on the roll, divided its land, and had the doors bricked up.
+**The Silenced Hall** stands in the hill country below the conch-door road, on the way up to [[place-sanghafort|the Sangra-fort]], and it is the whole of what is left of a janapoda. **[Thirnugrama]{.name data-type="place/settlement"}**, the village of the bell, refused the conch-door adventurer about 320 AF, and he shut its sabhra in this hall and fired the roof ([[lore-silenthall|the Silenced Hall]]). The [Mahva-Melra]{.name data-type="lore/gathering"} of 320 mourned the janapoda on the roll, divided its land, and had the doors bricked up.
 
 ## What Is There
 
@@ -22,7 +22,7 @@ That does not make the hall a pleasant place at night. The hill people keep away
 
 ## Who Comes
 
-- **Priests of the circuit of [[place-bharavarivr|The Bharava]]** on their way up to a turn at the Sangra-fort, who stop to light a lamp at the bricked door and gho on.
+- **Priests of the [[place-bharavarivr|Bharava circuit]]** on their way up to a turn at the Sangra-fort, who stop to light a lamp at the bricked door and gho on.
 - **Descendants of Thirnugrama's lineages**, scattered through the neighboring janapadas, who come on the anniversary and say the names of their families at the gate.
 
 ## Hooks

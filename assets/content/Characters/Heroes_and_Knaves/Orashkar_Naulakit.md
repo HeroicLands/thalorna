@@ -417,7 +417,7 @@ sohl:
 
 ![[orshkrnlkt|Órashkar Naulakit]]{float=top-left}
 
-Órashkar Naulakit stands 5'11" tall with a medium build. He has light ruddy skin, grey hair, and olive-green eyes. His features include a long face, a strong nose, a strong jawline, a wide mouth, and strong brows.
+Órashkar stands 5'11" tall with a medium build. He has light ruddy skin, grey hair, and olive-green eyes. His features include a long face, a strong nose, a strong jawline, a wide mouth, and strong brows.
 
 # Dossier {#dossier}
 

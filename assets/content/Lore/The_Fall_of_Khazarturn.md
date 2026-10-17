@@ -8,9 +8,9 @@ tags: []
 data: {packFolder: settinglore}
 ---
 
-The Fall of Khazartúrn tells of the city of [Khazartúrn]{.name data-type="place/settlement"}, which was the greatest city the [[lore-flkkhazar|Khazár Folk]] ever built. In **2427 BF** it was
+The Fall of Khazartúrn tells of the city of [Khazartúrn]{.name data-type="place/settlement"}, which was the greatest city the [[lore-flkkhazar|Khazari]] ever built. In **2427 BF** it was
 destroyed with every soul in it, and nothing before or since has come near it in the reckoning of the
-Deep Folk. It is **the worst thing that has ever happened to them on [[place-worldthlrn|The World of Thalorna]]**.
+Deep Folk. It is **the worst thing that has ever happened to them on [[place-worldthlrn|Thalorna]]**.
 
 They reached this world about 5300 BF. By **5123 BF** Khazartúrn stood: not a hold among holds
 but the work all their other work was measured against, home to some thirty thousand, and the seat of an
@@ -30,7 +30,7 @@ all. There is nothing in either record to suggest that anybody involved knew the
 No human has ever seen Khazartúrn. Everything said of it in the human world is **story**—and the
 stories do not come from the Khazari, who never speak of it at all.
 
-They come from the [[lore-flksinale|Sinale Folk]], who saw the city while it lived and who will, very
+They come from the [[lore-flksinale|Sinale]], who saw the city while it lived and who will, very
 occasionally, let something out: a snippet, an aside, a phrase in one of their ancient songs that turns
 out to be about a place rather than an idea. Sometimes to one of the [[lore-aelendnppl|Áelendan People]]. From there it
 travels, at three and four removes, into human hands.
@@ -154,7 +154,7 @@ house leads it, and the Khazari put the rule in one phrase: there is no lord ins
 
 ## The Judgment
 
-Around **3000 BF** the [[lore-grukarfolk|Grukar Folk]] appeared—new in the world, and the Khazari were the
+Around **3000 BF** the [[lore-grukarfolk|Grukar]] appeared—new in the world, and the Khazari were the
 only people on Thalorna keeping records when it happened. Nothing written at Khazartúrn in its first
 twenty-one centuries mentions them; within a generation, a great deal does.
 
@@ -169,7 +169,7 @@ the city fell—and it did not matter, which is the part the Khazari have never 
 ## The Calamity
 
 In 2427 BF Khazartúrn was destroyed by Grukar, in numbers and under a coordination that should not have
-been possible, **driven by a renegade of the [[lore-flksinale|Sinale]]** who had taken up [[miscgear-secondvoice|The Second Voice]]—a relic that speaks over Ahks and commands the hatched
+been possible, **driven by a renegade of the [[lore-flksinale|Sinale]]** who had taken up [[miscgear-secondvoice|the Second Voice]]—a relic that speaks over Ahks and commands the hatched
 directly.
 
 It was not a war and it was not a siege. It was **a single act of genocide**, carried out on a city that
@@ -179,7 +179,7 @@ Khazartúrn **had a refuge**, as every hold has, deep in the rock and provisione
 time. It was built for an enemy that tires and breaks, as Grukar always do. The compelled horde did neither.
 
 The renegade's quarrel was with the hinterland: a city that could not feed itself, reshaping the living
-world to keep itself fed (see [[miscgear-secondvoice|The Second Voice]]). That is the whole of the link
+world to keep itself fed (see [[miscgear-secondvoice|the Second Voice]]). That is the whole of the link
 between what Khazartúrn was and how it ended. The fall was not a judgment on the city, and the Khazari
 account does not treat it as one. Thirty
 thousand, or near enough that the difference is a few hundred names the record could not confirm: the
@@ -279,7 +279,7 @@ That is the whole of it, and it is not to be disturbed.
 
 ## What the Khazari Say
 
-Nothing. They **never speak of Khazartúrn**—not to humans, not to [[lore-vardain|The Vardain]] who have lived beneath a hold for millennia, not, so far as anyone can tell,
+Nothing. They **never speak of Khazartúrn**—not to humans, not to [[lore-vardain|the Vardain]] who have lived beneath a hold for millennia, not, so far as anyone can tell,
 much among themselves outside the reading of the account.
 
 But silence is not denial, and the distinction matters to them. To disown the city would be to disown
@@ -376,4 +376,4 @@ years against a species they know to be innocent, and never once revisited.
 ## See Also
 
 - [[miscgear-secondvoice|The Second Voice]] · [[lore-flkkhazar|Khazari]] · [[lore-flksinale|Sinale]]
-- [[lore-grukarfolk|Grukar Folk]] · [[lore-grukaraelwyth|The Grukar of Aelwyth]]
+- [[lore-grukarfolk|Grukar Folk]] · [[lore-grukaraelwyth|the Grukar of Aelwyth]]

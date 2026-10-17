@@ -192,17 +192,17 @@ sohl:
   flags: {"thalorna": {lang_family: Trans-Grazian}}
 ---
 
-Osket Language is the tongue of [[affiliation-osketguides|The Osket]], who hold the western and central crossings of [[place-graznmntns|The Grazian Mountains]]. Fluency measures the range of what a speaker can say in it, from a caravan-master's twenty words of road-command to the fluent speech of someone raised at a hearth. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Osket is the tongue of [[affiliation-osketguides|the Osket]], who hold the western and central crossings of [[place-graznmntns|the Grazian Mountains]]. Fluency measures the range of what a speaker can say in it, from a caravan-master's twenty words of road-command to the fluent speech of someone raised at a hearth. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
-Osket is related to nothing in any lowland family. It shares no root stock with [[skill-vedyarlng|Vedyari Language]], with [[skill-khazrilng|Tellumi Language]], with [[skill-tantsoulng|Tantsou Language]] or with anything else that has been compared with it, and the comparisons have been made: a Vedyari grammarian spent four seasons at [[place-oskhelt|Oskhelt]] two centuries ago and published a careful, competent account whose conclusion was that there was nothing to connect it to.
+Osket is related to nothing in any lowland family. It shares no root stock with [[skill-vedyarlng|Vedyari]], with [[skill-khazrilng|Tellumi]], with [[skill-tantsoulng|Tantsou]] or with anything else that has been compared with it, and the comparisons have been made: a Vedyari grammarian spent four seasons at [[place-oskhelt|Oskhelt]] two centuries ago and published a careful, competent account whose conclusion was that there was nothing to connect it to.
 
 Almost no outsider speaks it. What lowlanders learn is a road-pidgin of perhaps two hundred words—loads, weather, halt, go, water, rope, dead—and the Osket teach that pidgin willingly and the language not at all. There is no prohibition. There is simply no occasion on which an Osket has ever needed a lowlander to understand more.
 
 ## How Osket sounds
 
-Osket is held at the back of the throat. It is slower than [[skill-hvarnlng|Hvarn Language]], with more vowels.
+Osket is held at the back of the throat. It is slower than [[skill-hvarnlng|Hvarn]], with more vowels.
 
 **The vowels.** _o_, _u_ and _a_, with _oi_ and _au_.
 
@@ -317,7 +317,7 @@ FROM clusters WHERE language = 'thalorna-note-skill-osketlng'
 
 **A person** carries one word, most often of two syllables, taken from weather, ground, beast or condition: _Nushang_ is hail and _Yulmum_ deep snow. The name is not inherited. What is inherited is the road, and a stranger is told the crossing first and the person second: _Suryadvara, Yolte_.
 
-**A place** of the Osket is older than the words on this page: [[place-oskhelt|Oskhelt]] and [[place-tsokhar|Tsokhar]] stand in the register with `—`. The crossings themselves are named in Vedyari, and the [[skill-vedyarlng#lexicon|Vedyari Lexicon]] registers them.
+**A place** of the Osket is older than the words on this page: [[place-oskhelt|Oskhelt]] and [[place-tsokhar|Tsokhar]] stand in the register with `—`. The crossings themselves are named in Vedyari, and the [[skill-vedyarlng#lexicon|Vedyari lexicon]] registers them.
 
 ## Scope {#scope}
 

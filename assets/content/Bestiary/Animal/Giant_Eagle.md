@@ -250,7 +250,7 @@ A shadow the size of a longship slides across the scree and up the far wall of t
 
 # Dossier {#dossier}
 
-The Giant Eagle is a mountain eagle with a wingspan of twenty feet and talons that go through a mail hauberk, which nests on the high crags of the [[place-nrdlndsrgn|Nordlands Region]] behind the fjords and on the peaks of [[place-graznmntns|The Grazian Mountains]], and holds a hunting range of a hundred square miles or more from the air. It takes goats, caribou calves, lambs and the pack animals of a caravan on an exposed ridge, and a nesting pair takes a man who climbs toward the eyrie. The [[lore-varokhiclt|Varokhi]] of [[place-vrystwald|Vristwald]] keep it as a wesk: four of their villages, [[place-arnstein|Arnstein]] on its eagle crag among them, take the eagle for their totem and keep the crag where it nests as sacred ground.
+The Giant Eagle is a mountain eagle with a wingspan of twenty feet and talons that go through a mail hauberk, which nests on the high crags of the [[place-nrdlndsrgn|Nordlands]] behind the fjords and on the peaks of [[place-graznmntns|the Grazian Mountains]], and holds a hunting range of a hundred square miles or more from the air. It takes goats, caribou calves, lambs and the pack animals of a caravan on an exposed ridge, and a nesting pair takes a man who climbs toward the eyrie. The [[lore-varokhiclt|Varokh]] of [[place-vrystwald|Vristwald]] keep it as a wesk: four of their villages, [[place-arnstein|Arnstein]] on its eagle crag among them, take the eagle for their totem and keep the crag where it nests as sacred ground.
 
 It is not a hunter of men by habit. It is a thing that owns the sky over a range of mountains and resents a trespasser in it.
 
@@ -260,7 +260,7 @@ A heavily built eagle with dense golden-brown plumage, paler at the head and nap
 
 ## In the Land
 
-Pairs nest on ledges and rock spires above the snowline in the wind-scoured mountain tracts behind the Nordlands fjords, where the caribou clans see them over the high plateaus, and on [[place-sthrnwall|The Southern Wall]] and [[place-estrnreach|The Eastern Reach]] of the Grazian range, where the guides of the passes count them among the hazards of an exposed ridge. Each pair holds a range that covers several valleys and tolerates no other adult in it. In Vristwald they are seen over the cliffs of [[place-falkhaven|Falkhaven]] on the western shore, where the eagle villages keep their watch, and they drift south along the fjord coast in the hard winters.
+Pairs nest on ledges and rock spires above the snowline in the wind-scoured mountain tracts behind the Nordlands fjords, where the caribou clans see them over the high plateaus, and on [[place-sthrnwall|the Southern Wall]] and [[place-estrnreach|Eastern Reach]] of the Grazian range, where the guides of the passes count them among the hazards of an exposed ridge. Each pair holds a range that covers several valleys and tolerates no other adult in it. In Vristwald they are seen over the cliffs of [[place-falkhaven|Falkhaven]] on the western shore, where the eagle villages keep their watch, and they drift south along the fjord coast in the hard winters.
 
 ## Key Behaviors
 

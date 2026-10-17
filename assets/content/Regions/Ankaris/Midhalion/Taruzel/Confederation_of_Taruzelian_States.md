@@ -107,7 +107,7 @@ The bazaars
 
 ## The Islands
 
-The [[place-taruzelrgn|Taruzel Region]] is an archipelago of half a dozen islands in the eastern Vylarian Sea, lying forty to eighty miles off the Amradi coast, and it holds no shore on the mainland. The islands' coastlines are deeply indented, and their natural harbors have made Taruzel the premier maritime region of the western part of the [[place-ankrscntnnt|Ankaris Continent]]. On the larger islands the ground rises from narrow coastal plains through rolling hills to arid scrub. The climate is warm and dry, and the hot summers are tempered by the sea breeze. Across the strait to the east, the caravan roads of the [[place-khzryndsrtrgn|Khazryn Desert Region]] and the [[place-dunharargn|Dunhara Region]] reach the sea on the Amradi shore, and their goods cross to the islands by ship.
+[[place-taruzelrgn|Taruzel]] is an archipelago of half a dozen islands in the eastern Vylarian Sea, lying forty to eighty miles off the Amradi coast, and it holds no shore on the mainland. The islands' coastlines are deeply indented, and their natural harbors have made Taruzel the premier maritime region of the western part of the [[place-ankrscntnnt|Ankaris Continent]]. On the larger islands the ground rises from narrow coastal plains through rolling hills to arid scrub. The climate is warm and dry, and the hot summers are tempered by the sea breeze. Across the strait to the east, the caravan roads of the [[place-khzryndsrtrgn|Khazryn Desert Region]] and the [[place-dunharargn|Dunhara Region]] reach the sea on the Amradi shore, and their goods cross to the islands by ship.
 
 The channels between the islands are the other half of the country. Whoever holds them controls the trade routes of the eastern sea, and the Confederation holds them: the islands carry its naval bases and its trading entrepôts, and, for those who know the passages, its smuggling havens.
 
@@ -189,7 +189,7 @@ The anger accumulates. The veterans of the Shoals are growing old, and their chi
 
 So the Confederation stands free, prosperous and seething. The merchant guilds rule through money and the institutions they control. The veterans and their children nurse the betrayal, the outlawed captains raid from the island channels, and the hill tribes trust no one. Everywhere—in the dock districts, the fishing villages and the tribal camps—people remember the words that recruited them and wait for someone to mean them.
 
-Into this sails [[affiliation-thetamzir|The Tamzir]]. Her captain fought at the Shoals, believed the promises and watched the merchant princes take the victory. He now runs cargo on the margins of a Confederation that would rather he did not exist: too famous to ignore, too dangerous to tolerate, and too stubborn to kill quietly. The guilds want him brought to heel, the veterans want him to raise the flag again, and he wants to keep his crew alive and his ship moving. Nobody involved expects that position to hold.
+Into this sails [[affiliation-thetamzir|the Tamzir]]. Her captain fought at the Shoals, believed the promises and watched the merchant princes take the victory. He now runs cargo on the margins of a Confederation that would rather he did not exist: too famous to ignore, too dangerous to tolerate, and too stubborn to kill quietly. The guilds want him brought to heel, the veterans want him to raise the flag again, and he wants to keep his crew alive and his ship moving. Nobody involved expects that position to hold.
 
 ## Government
 
@@ -203,15 +203,15 @@ Taruzelian culture is mercantile at its core: wealth, reputation and the ability
 
 Society divides sharply between the guild elite and everyone else. The guild families live in palatial urban estates, patronize the arts and educate their children in rhetoric, mathematics and mercantile law. Below them a large middle class of independent merchants, skilled craftspeople and ship captains forms the economic backbone. At the bottom, dock workers, sailors and the urban poor live in cramped harbor districts and grow more restless every year. The tribal communities of the island hills stand apart from the port cities: they keep older traditions, speak archaic dialects and resent the coastal cities' dominance, and they supplied many of the foot soldiers of the war of independence and have seen little benefit from it.
 
-Taruzelian cooking is famous across the [[place-midhalnrgn|Mídhalión Region]], built on spiced meats, flatbreads, honeyed pastries and strong coffee.
+Taruzelian cooking is famous across [[place-midhalnrgn|Mídhalión]], built on spiced meats, flatbreads, honeyed pastries and strong coffee.
 
 ## Religion
 
-Taruzelian faith is syncretic. The faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], imposed in the Vylarian period, still dominate the coastal cities, where the merchant class favors the [[affiliation-olvenia|Faith of Ólvenia]] for prosperity and the [[affiliation-marendas|Faith of Marendas]] for knowledge, and sailors and naval officers honor the [[affiliation-brazemas|Faith of Brazemas]] of the storms. The eastern states and the hill tribes keep strong ties to the [[affiliation-ashanpnthn|Ashaian Pantheon]], a tradition older than the Vylarian conquest; the [[affiliation-ahurdaen|Faith of Ahurdaen]] (order and harmony), the [[affiliation-korsadra|Faith of Khórsadra]] (knowledge and eternal light) and the [[affiliation-aravesta|Faith of Aravesta]] (prosperity and hedonism) have large followings. In many Taruzelian cities the Aureldian and Ashaian temples stand side by side, and a single family often patronizes both.
+Taruzelian faith is syncretic. The faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], imposed in the Vylarian period, still dominate the coastal cities, where the merchant class favors [[affiliation-olvenia|Ólvenia]] for prosperity and [[affiliation-marendas|Marendas]] for knowledge, and sailors and naval officers honor [[affiliation-brazemas|Brazemas]] of the storms. The eastern states and the hill tribes keep strong ties to the [[affiliation-ashanpnthn|Ashaian Pantheon]], a tradition older than the Vylarian conquest; [[affiliation-ahurdaen|Ahurdaen]] (order and harmony), [[affiliation-korsadra|Khórsadra]] (knowledge and eternal light) and [[affiliation-aravesta|Aravesta]] (prosperity and hedonism) have large followings. In many Taruzelian cities the Aureldian and Ashaian temples stand side by side, and a single family often patronizes both.
 
 ## Magic
 
-[[affiliation-ordoarcanis|Thordimalon]] kept a strong presence in Taruzel through the Vylarian period, and it is still active in the major cities, on worse terms. The merchant guilds regard it as a possible tool of Vylarian influence and have restricted its work. Some guild leaders would expel it outright; others see its uses and would rather co-opt it.
+The [[affiliation-ordoarcanis|Thordimalon]] kept a strong presence in Taruzel through the Vylarian period, and it is still active in the major cities, on worse terms. The merchant guilds regard it as a possible tool of Vylarian influence and have restricted its work. Some guild leaders would expel it outright; others see its uses and would rather co-opt it.
 
 Independent practitioners—hedge mages, alchemists and fortune-tellers—are more common in Taruzel than in Vylaria proper, partly because the Arcane Order's grip is looser here. The Arcane Order resents it and keeps pressing for its monopoly to be enforced, sometimes using Vylarian imperial agents as proxies.
 
@@ -242,7 +242,7 @@ The Kingdom of Amradad holds the mainland across the strait, and relations with 
 
 ## Commerce and Currency
 
-The Confederation pays in the [[lore-trzlncrncy|Taruzelian Currency]], the system it built after secession and administers through the **[Merazuni]{.name data-type="affiliation"}**, the treasury of the [[affiliation-vezakuni|Vezakuni]]. Its denominations are the Vylarian ones (Solden, Ardin and Bit), but they are backed by Taruzelian reserves rather than by the Vylarian reserves of [[affiliation-tarmex|The Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. A network of Merazuni-affiliated moneylenders carries the banking. Vylarian script is not honored in Taruzel, and Taruzelian script is not honored in Vylarian territory.
+The Confederation pays in the [[lore-trzlncrncy|Taruzelian currency]], the system it built after secession and administers through the **[Merazuni]{.name data-type="affiliation"}**, the treasury of the [[affiliation-vezakuni|Vezakuni]]. Its denominations are the Vylarian ones (Solden, Ardin and Bit), but they are backed by Taruzelian reserves rather than by the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. A network of Merazuni-affiliated moneylenders carries the banking. Vylarian script is not honored in Taruzel, and Taruzelian script is not honored in Vylarian territory.
 
 ## See Also
 

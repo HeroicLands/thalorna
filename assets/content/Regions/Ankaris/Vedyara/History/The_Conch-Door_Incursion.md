@@ -73,25 +73,25 @@ data:
         - the two earlier confederation armies of Vedyari history, which no record dates or describes
 ---
 
-A priest of the Bharava circuit who has served his turn at [[place-sanghafort|The Sangra-fort]] tells a newcomer the story in the order the janapadas care about it. First, there was an army. Second, it went home. Third, the fort stayed, and that is the part that matters.
+A priest of the Bharava circuit who has served his turn at [[place-sanghafort|the Sangra-fort]] tells a newcomer the story in the order the janapadas care about it. First, there was an army. Second, it went home. Third, the fort stayed, and that is the part that matters.
 
 ## The Door
 
-[[place-sankhadvra|Shankhadvara]], the conch-door, is the last crossing of the wall and the worst: a shelf cut above a gorge under the black face of [[place-kalashkhra|Kalashikhara]], two months from anywhere in the [[place-tantsouregin|Tantsou Region]] worth reaching, and crossed by two or three parties in a good year. About 320 AF, in the generation [[lore-hndrdbnnrs|The Storm of the Hundred Banners]] came down the western end of the range, an adventurer brought a force over it from the Tantsou side.
+[[place-sankhadvra|Shankhadvara]], the conch-door, is the last crossing of the wall and the worst: a shelf cut above a gorge under the black face of [[place-kalashkhra|Kalashikhara]], two months from anywhere in [[place-tantsouregin|Tantsou]] worth reaching, and crossed by two or three parties in a good year. About 320 AF, in the generation [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] came down the western end of the range, an adventurer brought a force over it from the Tantsou side.
 
-It was not a host. The conch-door carries no army, and **The Conch-Door Incursion** came over it as a few hundred picked men, which was enough. A janapoda fields a few hundred militia on short notice and a few thousand on a long call-up, and it fields them alone. The adventurer went through the eastern janapadas one at a time, subjugated a series of them and threatened more, and no single sabhra could raise enough to stop him. The one that refused him, **[Thirnugrama]{.name data-type="affiliation/polity"}**, he burned in its own temple hall with its sabhra inside ([[lore-silenthall|The Silenced Hall]]), and that is why the priests do not speak his name.
+It was not a host. The conch-door carries no army, and **the Conch-Door Incursion** came over it as a few hundred picked men, which was enough. A janapoda fields a few hundred militia on short notice and a few thousand on a long call-up, and it fields them alone. The adventurer went through the eastern janapadas one at a time, subjugated a series of them and threatened more, and no single sabhra could raise enough to stop him. The one that refused him, **[Thirnugrama]{.name data-type="affiliation/polity"}**, he burned in its own temple hall with its sabhra inside ([[lore-silenthall|the Silenced Hall]]), and that is why the priests do not speak his name.
 
 ## The Third Army
 
 The temple-republics have no army and no mechanism for raising one, and they raised one. The senior priests of the region called on every janapoda within reach to send its militia, and the force they assembled put the adventurer back out through the door he had come in by. Then it dissolved, as soon as the threat ended. It is the third time in recorded Vedyari history that the [[affiliation-janpdsvdyr|Janapadas of Vedyara]] have raised something like a confederation army, and the last; nobody can say what the first two were.
 
-What the janapadas took from the affair was a precedent. They built the Sangra-fort on the Vedyari col, a squat stone work with quarters for sixty men, and have kept it garrisoned in rotation by the janapadas of the Bharava circuit ever since. It is the only standing garrison the confederation keeps anywhere, and it has never been withdrawn. Its supply runs on pack-trains of [[affiliation-hvarnguides|The Hvarn]] under a contract renewed every third year at [[place-nurvhrn|Nurvharn]], and the lowland factors have walked up for the renewal for four centuries without once being asked to stay the winter.
+What the janapadas took from the affair was a precedent. They built the Sangra-fort on the Vedyari col, a squat stone work with quarters for sixty men, and have kept it garrisoned in rotation by the janapadas of the Bharava circuit ever since. It is the only standing garrison the confederation keeps anywhere, and it has never been withdrawn. Its supply runs on [[affiliation-hvarnguides|Hvarn pack-trains]] under a contract renewed every third year at [[place-nurvhrn|Nurvharn]], and the lowland factors have walked up for the renewal for four centuries without once being asked to stay the winter.
 
 ## Two Accounts of the Backing
 
 Every Vedyari account says the adventurer came with Tantsou backing, and the account the eastern janapadas give names a frontier faction and not the throne. The [[affiliation-tantsouempr|Empire of Tantsou]] says he was a private adventurer and nothing it did, and that neither side has ever seriously tried to rule the other. Both accounts are current.
 
-What Tantsou did afterward is a matter of record. Its frontier officers have registered every Vedyari caravan through [[place-estrnreach|The Eastern Reach]] for four hundred years, and the way-station beyond the throat of [[place-jnanadvara|Jnanadvara]] has kept its register of travelers without a gap for as long. Vedyari visitors are treated with courtesy there and are never shown the register.
+What Tantsou did afterward is a matter of record. Its frontier officers have registered every Vedyari caravan through [[place-estrnreach|the Eastern Reach]] for four hundred years, and the way-station beyond the throat of [[place-jnanadvara|Jnanadvara]] has kept its register of travelers without a gap for as long. Vedyari visitors are treated with courtesy there and are never shown the register.
 
 ## The Quarrel It Left
 
@@ -111,5 +111,5 @@ What Tantsou did afterward is a matter of record. Its frontier officers have reg
 [[affiliation-hvarnguides|The Hvarn]]
 : the guides who feed the fort
 
-[[lore-hndrdbnnrs|The Storm of the Hundred Banners]] · [[lore-thirdcmpct|The Third Compact]]
+[[lore-hndrdbnnrs|The Storm of the Hundred Banners]] · [[lore-thirdcmpct|the Third Compact]]
 : the rest of the crisis generation

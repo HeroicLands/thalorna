@@ -7,7 +7,7 @@ description: "The second caste of Tantsou—sorcerers claimed from every caste a
 data: {packFolder: castes, culture: tantsouclt}
 ---
 
-Every child in the [[affiliation-tantsouempr|Empire of Tantsou]] is tested at ten, and the ones who show the gift do not go home. They become Wánduo, the second caste of the empire and its property: sorcerers born with the power to work the cosmic energy, bound to the service of the [[lore-zhazho|Zhazho]] from the day they are claimed, ranked above generals and scholars, and owning nothing, not even themselves. A Wánduo counselor sits at a Warlord's elbow and a Wánduo artificer forges the weapons the empire's enemies cannot copy, and both belong, in law, to the house they serve. The Tantsou see no contradiction in it. Their power is exactly why they are ranked high and exactly why they are owned.
+Every child in [[affiliation-tantsouempr|Tantsou]] is tested at ten, and the ones who show the gift do not go home. They become Wánduo, the second caste of the empire and its property: sorcerers born with the power to work the cosmic energy, bound to the service of the [[lore-zhazho|Zhazho]] from the day they are claimed, ranked above generals and scholars, and owning nothing, not even themselves. A Wánduo counselor sits at a Warlord's elbow and a Wánduo artificer forges the weapons the empire's enemies cannot copy, and both belong, in law, to the house they serve. The Tantsou see no contradiction in it. Their power is exactly why they are ranked high and exactly why they are owned.
 
 ## The Testing
 

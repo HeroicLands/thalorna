@@ -420,7 +420,7 @@ sohl:
 
 ![[visvarmhpr|Vishvara Mahapara]]{float=top-left}
 
-Vishvara Mahapara stands 6'4" tall with a heavy build. He has warm golden brown skin, dark black hair, and warm brown eyes. His features include a soft-featured face, a prominent nose, a tapered chin, full lips, warm golden brows, and soft cheeks. He has a scar on his right calf.
+Vishvara stands 6'4" tall with a heavy build. He has warm golden brown skin, dark black hair, and warm brown eyes. His features include a soft-featured face, a prominent nose, a tapered chin, full lips, warm golden brows, and soft cheeks. He has a scar on his right calf.
 
 # Dossier {#dossier}
 
@@ -428,9 +428,9 @@ Vishvara Mahapara stands 6'4" tall with a heavy build. He has warm golden brown 
 
 ### Born to the Waters
 
-Vishvara was born to a fishing family in one of the [[place-vedyarargn|Vedyara Region]] city-states' coastal settlements, the son of [Mahapara the Elder]{.name data-type="being/npc"}, a competent but undistinguished fisherman whose life was as unremarkable as it was difficult. From his earliest years, Vishvara knew the sea—learned to respect its moods, to read its signs, to accept both its generosity and its cruelty. His childhood was one of subsistence, of helping his father with nets and lines, of hunger when the catches were poor and modest plenty when fortune favored them.
+Vishvara was born to a fishing family in one of the [[place-vedyarargn|Vedyara]] city-states' coastal settlements, the son of [Mahapara the Elder]{.name data-type="being/npc"}, a competent but undistinguished fisherman whose life was as unremarkable as it was difficult. From his earliest years, Vishvara knew the sea—learned to respect its moods, to read its signs, to accept both its generosity and its cruelty. His childhood was one of subsistence, of helping his father with nets and lines, of hunger when the catches were poor and modest plenty when fortune favored them.
 
-At age twelve, recognizing that his son possessed an instinctive affinity for the water and a body suited to the labors required, Vishvara's father arranged for him to be taken on as a cabin boy aboard [The Merchant's Fortune]{.name data-type="vehicle"}, a substantial trading vessel captained by Captain [[being-samuratarath|Samurata Ratamara]], a seaman of great repute, known for his exacting standards and his unwillingness to tolerate laziness or negligence.
+At age twelve, recognizing that his son possessed an instinctive affinity for the water and a body suited to the labors required, Vishvara's father arranged for him to be taken on as a cabin boy aboard [The Merchant's Fortune]{.name data-type="vehicle"}, a substantial trading vessel captained by Captain [[being-samuratarath|Samurata]], a seaman of great repute, known for his exacting standards and his unwillingness to tolerate laziness or negligence.
 
 ### The Making of a Sailor
 
@@ -506,7 +506,7 @@ Shipping Industry Veterans
 
 ### Enemies
 
-Captain [[being-garunyataray|Garunya Tarayara]] the Reckless
+Captain [[being-garunyataray|Garunya]] the Reckless
 : A younger, ambitious captain who represents everything Vishvara despises—puts speed and profit before safety, drives crews beyond reasonable endurance, and ignores the traditional practices that keep sailors alive. Their conflicts over the trade have become personal, with Garunya viewing Vishvara as an obstacle to progress.
 
 [The Trade Wardens]{.name data-type="affiliation/governmental"}

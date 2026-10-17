@@ -395,7 +395,7 @@ Zattuya Balinuni is a 31-year-old woman who stands 6'0" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Zattuya Balinuni is a timberwright of [[place-sazumun2|Sazumun]], the port city at the mouth of the [[place-alzriver|Alz River]] in the [[place-taruzelrgn|Taruzel Region]], a [[lore-taruzelianclt|Taruzelian]] freewoman who chooses the standing trees that become the city's ships and furniture.
+Zattuya Balinuni is a timberwright of [[place-sazumun2|Sazumun]], the port city at the mouth of the [[place-alzriver|Alz River]] in [[place-taruzelrgn|Taruzel]], a [[lore-taruzelianclt|Taruzelian]] freewoman who chooses the standing trees that become the city's ships and furniture.
 
 Zattuya was born to timberwrights in the hill woods up the Alz valley, where the family has cut for three generations. Her work begins before the axe: she walks a stand, reads the lean of a trunk and the run of its grain, and marks which tree will make a keel, which a mast, which a chest, and which will split in the seasoning. The shipwrights of Sazumun have learned that a stem with her mark on it does not surprise them on the saw-bench. She will not mark a tree she has doubts about, which the shipwrights value and the timber-dealers do not.
 

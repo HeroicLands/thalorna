@@ -361,7 +361,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Tvilgorv the Reforged stands 6'2" with a massive, unnaturally muscled frame, weighing about 260 pounds. His medium-toned skin shifts unsettlingly between human flesh and something harder and darker, particularly along his arms and spine, where strange ridges protrude beneath the surface. His dark brown hair is lank and unkempt, and his amber eyes occasionally flash with an inhuman light that makes others flinch. His features are heavy and brutish—a broad, flat face, a crushed nose, a heavy brow, and a jaw too wide for a normal man—bearing the unmistakable marks of a transformation attributed in his saga to [[lore-motefnirdty|Mótefnir]]. His voice carries a resonance that is not entirely human. Tvilgorv wears crude armor of boiled leather and salvaged plate, held together with sinew and iron wire, and carries a massive axe that he wields one-handed. He covers his most inhuman features with a hooded cloak, though the attempt at concealment fools no one up close.
+Tvilgorv stands 6'2" with a massive, unnaturally muscled frame, weighing about 260 pounds. His medium-toned skin shifts unsettlingly between human flesh and something harder and darker, particularly along his arms and spine, where strange ridges protrude beneath the surface. His dark brown hair is lank and unkempt, and his amber eyes occasionally flash with an inhuman light that makes others flinch. His features are heavy and brutish—a broad, flat face, a crushed nose, a heavy brow, and a jaw too wide for a normal man—bearing the unmistakable marks of a transformation attributed in his saga to [[lore-motefnirdty|Mótefnir]]. His voice carries a resonance that is not entirely human. Tvilgorv wears crude armor of boiled leather and salvaged plate, held together with sinew and iron wire, and carries a massive axe that he wields one-handed. He covers his most inhuman features with a hooded cloak, though the attempt at concealment fools no one up close.
 
 # Dossier {#dossier}
 
@@ -397,7 +397,7 @@ Tvilgorv's reforged body is extraordinarily powerful, combining human martial sk
 
 **His Former Clan**—The clan Tvilgorv once fought for has declared him dead and his current form an abomination wearing their kinsman's face. They hunt him with the same ferocity they would show any Dreadspawn.
 
-[The Collector]{.name data-type="lore"}—A mysterious figure who captures and studies Mótefnir's transformed creations. The Collector has been tracking Tvilgorv and intends to add him to their collection, dead or alive.
+[The Collector]{.name data-type="being/npc"}—A mysterious figure who captures and studies Mótefnir's transformed creations. The Collector has been tracking Tvilgorv and intends to add him to their collection, dead or alive.
 
 ## Plot Hooks
 

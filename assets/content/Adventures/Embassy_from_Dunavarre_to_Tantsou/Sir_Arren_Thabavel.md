@@ -378,4 +378,4 @@ sohl:
 
 **Background.** A brave and experienced knight of great martial reputation, lately winner of the [Royal Celivren Tournament of Chivalry]{.name data-type="lore/gathering"}.
 
-**Intrigue.** Feels overshadowed by [[being-toradhtaravren|Dame Torad Taravren]], whose distinctions come from real campaigns rather than tournaments. His jealousy drives him to outshine her in any confrontation, and could produce reckless decisions.
+**Intrigue.** Feels overshadowed by [[being-toradhtaravren|Dame Torad]], whose distinctions come from real campaigns rather than tournaments. His jealousy drives him to outshine her in any confrontation, and could produce reckless decisions.

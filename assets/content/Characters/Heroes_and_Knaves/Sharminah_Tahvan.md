@@ -418,7 +418,7 @@ sohl:
 
 ![[shrmnhthvn|Sharminah Tahvan]]{float=top-left}
 
-Sharminah Tahvan stands 5'11" tall with a medium build. She has warm olive skin, dark brown hair, and honey brown eyes. Her features include a diamond-shaped face, a long nose, a sharp jawline, full lips, dark brows.
+Sharminah stands 5'11" tall with a medium build. She has warm olive skin, dark brown hair, and honey brown eyes. Her features include a diamond-shaped face, a long nose, a sharp jawline, full lips, dark brows.
 
 # Dossier {#dossier}
 
@@ -426,7 +426,7 @@ Sharminah Tahvan stands 5'11" tall with a medium build. She has warm olive skin,
 
 ### The Foundling's Calling
 
-Sharminah was born in a settlement that no longer exists, destroyed in a wildfire that consumed everything when she was barely old enough to walk. Her parents died in the flames, but the child was pulled from the burning ruins by a wandering priest of the [[affiliation-ataros|Faith of Ataros]] named [Salmeir the Flame-Bearer]{.name data-type="being/npc"}, who took the miraculous survival as a sign of the god's will. Salmeir brought the girl to the [Great Fire-Temple of Ataros]{.name data-type="affiliation"} in the [[place-oasishirvn|Oasis of Shirvan]], in the oasis belt of the [[place-khzryndsrtrgn|Khazryn Desert Region]], where she was raised by the priesthood. From her earliest years, Sharminah demonstrated an unusual affinity for fire—flames seemed to bend to her will, burn at her command, and treat her with an almost protective reverence that startled even experienced priests.
+Sharminah was born in a settlement that no longer exists, destroyed in a wildfire that consumed everything when she was barely old enough to walk. Her parents died in the flames, but the child was pulled from the burning ruins by a wandering priest of [[affiliation-ataros|Ataros]] named [Salmeir the Flame-Bearer]{.name data-type="being/npc"}, who took the miraculous survival as a sign of the god's will. Salmeir brought the girl to the [Great Fire-Temple of Ataros]{.name data-type="affiliation"} in [[place-oasishirvn|Shirvan]], in the oasis belt of the [[place-khzryndsrtrgn|Khazryn Desert]], where she was raised by the priesthood. From her earliest years, Sharminah demonstrated an unusual affinity for fire—flames seemed to bend to her will, burn at her command, and treat her with an almost protective reverence that startled even experienced priests.
 
 ### Training and Spiritual Development
 
@@ -527,7 +527,7 @@ The Child Survivor
 : Sharminah leads a purge against what she believes is a heretical settlement, only to discover afterward that many of those she killed were innocent civilians. Among the ruins, she finds a young child—perhaps five years old—who miraculously survived. As the child grows under Sharminah's reluctant care, she begins to show signs of unusual spiritual power, speaking of visions and demonstrating uncanny abilities. Sharminah must confront the possibility that this child, product of her "righteous violence," might be a saint or chosen one, forcing her to re-evaluate whether her interpretations of divine will have been correct.
 
 The Diplomatic Envoy
-: A foreign ambassador comes to the temple seeking a truce, bringing with them Prince [[being-gishurmathug|Gishur Mathu'Gehru]], a young warrior of extraordinary charisma and diplomatic skill. The prince is tasked with finding common ground between the desert kingdoms and the foreign power, and he specifically requests Sharminah as the primary negotiator. Over the course of negotiations, the prince slowly erodes Sharminah's certainties not through compassion (which would not work on her) but through theological argument and reinterpretation of holy texts. She finds herself uncertain about her previous convictions for the first time in her adult life.
+: A foreign ambassador comes to the temple seeking a truce, bringing with them Prince [[being-gishurmathug|Gishur]], a young warrior of extraordinary charisma and diplomatic skill. The prince is tasked with finding common ground between the desert kingdoms and the foreign power, and he specifically requests Sharminah as the primary negotiator. Over the course of negotiations, the prince slowly erodes Sharminah's certainties not through compassion (which would not work on her) but through theological argument and reinterpretation of holy texts. She finds herself uncertain about her previous convictions for the first time in her adult life.
 
 The Rival Priestess
 : A priestess of Ataros named [Yavenne]{.name data-type="being/npc"} emerges in a rival temple, preaching a more moderate interpretation of the god's will that emphasizes purification through understanding rather than zealotry and violence. As Yavenne's following grows, Sharminah is dispatched to eliminate the heresy. However, the confrontation between them becomes increasingly difficult because Sharminah cannot entirely dismiss Yavenne's theological arguments, and she finds herself reluctantly respecting her rival's conviction, even as she plots her destruction.

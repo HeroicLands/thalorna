@@ -8,9 +8,9 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [edrwald], population: 0, packFolder: vrystwald}
 ---
 
-**Theódhaven**, the folk's haven, is a stone landing with rock-cut shrines on the bay of [[place-edrwald|Edrwald]]. The [[lore-pelwarpepl|Pelwar People]] who would neither fight nor marry the Varokh went west along the bay shore and gathered here, and crossed in whatever would float; [[lore-takingwood|The Taking of the Wood]] tells their leaving.
+**Theódhaven**, the folk's haven, is a stone landing with rock-cut shrines on the bay of [[place-edrwald|Edrwald]]. The [[lore-pelwarpepl|Pelwar]] who would neither fight nor marry the Varokh went west along the bay shore and gathered here, and crossed in whatever would float; [[lore-takingwood|the Taking of the Wood]] tells their leaving.
 
-No Varokh village uses the landing. Varokh boat crews cut across it, and the [[affiliation-alndnwrdns|Áelendan Wardens]] turn them back.
+No Varokh village uses the landing. Varokh boat crews cut across it, and the [[affiliation-alndnwrdns|Wardens]] turn them back.
 
 ## See Also
 

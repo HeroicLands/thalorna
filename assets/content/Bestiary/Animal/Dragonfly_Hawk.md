@@ -212,7 +212,7 @@ The boat is halfway across the lake when the whine starts, high and thin, like a
 
 # Dossier {#dossier}
 
-The Dragonfly Hawk is a dragonfly five to seven feet long with a wingspan of six to eight, a hunter of the open water of [[place-vrystwldrvrs|Vristwald Rivers]] and lakes and the marshes of [[place-grkrhlmrgn|Grukarholm Region]], which takes birds, fish and small animals on the wing and from the surface and will take a child or a dog from a landing. It weighs fifteen pounds, most of it wing-muscle, and it is the fastest thing in the air over the northern forest. The Varokh fishing villages along the rivers know each one that hunts their stretch of water by its perch.
+The Dragonfly Hawk is a dragonfly five to seven feet long with a wingspan of six to eight, a hunter of the open water of [[place-vrystwldrvrs|Vristwald's rivers]] and lakes and the marshes of [[place-grkrhlmrgn|Grukarholm]], which takes birds, fish and small animals on the wing and from the surface and will take a child or a dog from a landing. It weighs fifteen pounds, most of it wing-muscle, and it is the fastest thing in the air over the northern forest. The Varokh fishing villages along the rivers know each one that hunts their stretch of water by its perch.
 
 It is dangerous to a grown man only when he is in a boat or on a bank with nowhere to go. There it comes in again and again, and nothing a man carries reaches it.
 

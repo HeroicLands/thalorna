@@ -413,7 +413,7 @@ Skilled at managing a kiln, knows the coast's woods and what each burns to.
 
 ## Social
 
-Aldous holds his seal from the [Woodworkers' Guild of Thornbury]{.name data-type="affiliation/guild"}, chartered under [[affiliation-tevran|The Tevran Maldor]], which takes the charcoalers among its lesser members.
+Aldous holds his seal from the [Woodworkers' Guild of Thornbury]{.name data-type="affiliation/guild"}, chartered under [[affiliation-tevran|the Tevran Maldor]], which takes the charcoalers among its lesser members.
 
 ## Companions
 
@@ -431,7 +431,7 @@ The Armorers' Contract
 : The Senate's contract for the legions' armorers has gone to Aldous's rival, whose charcoal is cheaper, and the armorers say the steel is coming out short. The _tarkelos_ (treasury officer) who signed was paid to.
 
 The Black Fires
-: A shrine of [[affiliation-blackflame|The Black Flame]], which the town's magistrates are paid not to notice, has asked for a standing supply of Aldous's oak charcoal at a price the smiths could not match.
+: A shrine of [[affiliation-blackflame|the Black Flame]], which the town's magistrates are paid not to notice, has asked for a standing supply of Aldous's oak charcoal at a price the smiths could not match.
 
 The Senator's Wood
 : The senator whose coppice Aldous leases has decided to clear it for pasture, and Aldous's kilns and his year's cut stand in it.

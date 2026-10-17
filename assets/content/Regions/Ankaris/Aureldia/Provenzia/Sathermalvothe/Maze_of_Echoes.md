@@ -29,7 +29,7 @@ anything else.
 
 ## The Maze
 
-The Maze of Echoes itself is a labyrinth of living wood and vine that shifts and rearranges, and it answers to
+The Maze itself is a labyrinth of living wood and vine that shifts and rearranges, and it answers to
 **sound**. Echoes reveal the paths: the correct way returns a crystalline resonance, resonant crystals
 set through the maze must be struck in sequence, and a party that listens carefully to how the echoes
 change can tell when it is nearing the Heart—or nearing a trap.

@@ -151,6 +151,6 @@ And that's why nobody on this coast cuts a thread on a hinge-day. If one breaks,
 
 ## See Also
 
-- [[lore-faecourts|The Fae Courts]] · [[affiliation-groveconcl|The Grove Council]] · [[affiliation-lusinia|Faith of Lusinia]]
+- [[lore-faecourts|The Fae Courts]] · [[affiliation-groveconcl|the Grove Council]] · [[affiliation-lusinia|Faith of Lusinia]]
 - [[place-lirve|Lirve]] · [[place-liranel|Liranel]] · [[lore-elavendriclt|Élavendri]]
 - [[lore-cohortpath|The Path the Cohort Took]] · [[lore-hlvrthline|The Line of the House of Hálvireth]]

@@ -36,4 +36,4 @@ data:
 
 # Dossier {#dossier}
 
-Élenor Thaurnde is a captain and the commander of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]]'s border militia, a professional soldier. She respects the competence of [[being-belrktrvnl|Melrik Tárvenel]] and has explicitly protected him from reassignment despite his social awkwardness.
+Élenor Thaurnde is a captain and the commander of [[affiliation-kngdmlvndr|Élavendre]]'s border militia, a professional soldier. She respects the competence of [[being-belrktrvnl|Melrik Tárvenel]] and has explicitly protected him from reassignment despite his social awkwardness.

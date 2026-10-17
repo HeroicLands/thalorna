@@ -403,11 +403,11 @@ sohl:
 
 ![[kamdkhvndr|Kamid Khavandar]]{float=top-left}
 
-Kamid Khavandar stands 6'0" tall with a medium build. He has tanned ruddy skin, black hair, and dark brown eyes. His features include a narrow face, a prominent nose, a pointed chin, full lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a phoenix on the chest.
+Kamid stands 6'0" tall with a medium build. He has tanned ruddy skin, black hair, and dark brown eyes. His features include a narrow face, a prominent nose, a pointed chin, full lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a phoenix on the chest.
 
 # Dossier {#dossier}
 
-Kamid was born to farming families in the borderlands of the [[place-khzryndsrtrgn|Khazryn Desert Region]], one of twelve children in a household where survival was never guaranteed. From childhood, he learned the hard work of coaxing sustenance from unforgiving soil, managing water resources, and reading the desert's moods. By his twenties, he had become the foreman of a productive farm, overseeing dozens of workers and managing the complex work of desert farming.
+Kamid was born to farming families in the borderlands of the [[place-khzryndsrtrgn|Khazryn Desert]], one of twelve children in a household where survival was never guaranteed. From childhood, he learned the hard work of coaxing sustenance from unforgiving soil, managing water resources, and reading the desert's moods. By his twenties, he had become the foreman of a productive farm, overseeing dozens of workers and managing the complex work of desert farming.
 
 At thirty-five, Kamid's life changed irrevocably when a severe drought struck the region. For two seasons, the rains did not come, and water sources dried. His farm failed along with dozens of others. He attempted to hold the operation together, selling off livestock and equipment to maintain wages for his workers. By the time the drought broke and rains returned, he had nothing left—the farm was seized by creditors, and his workers were scattered.
 

@@ -36,4 +36,4 @@ Lefta Zu'Meqetu is a 59-year-old man who stands 5'9" tall with a medium build. H
 
 # Dossier {#dossier}
 
-Lefta Zu'Meqetu, called the Keen-Eyed, is a weathered caravan master whose trains carry the trade of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] across the [[place-vylarianse|Vylarian Sea]] and onward overland. He hired [[being-lintazuzerkt|Linta Zu'Zereketu]] as a porter at thirteen and remains a friend and occasional employer; he rarely travels the trade routes himself anymore, managing a large operation from his warehouse in the capital, and [[being-meshaqawise|Meshaqa the Wise]] went out as his head scout.
+Lefta Zu'Meqetu, called the Keen-Eyed, is a weathered caravan master whose trains carry the trade of [[affiliation-empireakhlth|Au'Khelathu]] across the [[place-vylarianse|Vylarian Sea]] and onward overland. He hired [[being-lintazuzerkt|Linta Zu'Zereketu]] as a porter at thirteen and remains a friend and occasional employer; he rarely travels the trade routes himself anymore, managing a large operation from his warehouse in the capital, and [[being-meshaqawise|Meshaqa the Wise]] went out as his head scout.

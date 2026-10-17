@@ -154,7 +154,7 @@ The dry-stone wall is warm from the afternoon sun, and a line of dark diamonds s
 
 # Dossier {#dossier}
 
-The Viper is the thick-bodied venomous snake of the grassland, rock and forest edge, three to eight feet long, found in the dry hills of the Bizarian [[place-southrnmrch|Southern March]], on the farms of [[place-velanthrgn|Velanthia Region]] and across the warmer lands. It relies entirely on venom and a precise strike to bring down prey larger than itself, and it is among the deadliest of snakes for its size.
+The Viper is the thick-bodied venomous snake of the grassland, rock and forest edge, three to eight feet long, found in the dry hills of the Bizarian [[place-southrnmrch|Southern March]], on the farms of [[place-velanthrgn|Velanthia]] and across the warmer lands. It relies entirely on venom and a precise strike to bring down prey larger than itself, and it is among the deadliest of snakes for its size.
 
 ## Presentation
 

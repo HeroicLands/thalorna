@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The **Council of Kostaros Harbor** governs [[place-kostaros|Kostaros]], one of the lesser harbors on the coast of the [[place-byzariargn|Bizaria Region]] and the daughter-port of the Helionite city-state [[affiliation-kostaros2|Kostaros]].
+The **Council of Kostaros Harbor** governs [[place-kostaros|Kostaros]], one of the lesser harbors on the coast of the [[place-byzariargn|Bizaria coast]] and the daughter-port of the Helionite city-state [[affiliation-kostaros2|Kostaros]].

@@ -58,7 +58,7 @@ The temple holds a legal as well as a medical place. The empire's other temples 
 
 One body governs what the temple holds. [[affiliation-genzetuznera|Genzet'Uzn'era]] is the council that runs the temple's holdings and its calendar, and the [[affiliation-uznera|Faith of Uzn'era]]'s [Flood Festival]{.name data-type="lore/gathering"}, with its processions of women carrying wreaths and grain, is the council's largest annual undertaking.
 
-The temple's other relations follow its goddess's teachings as the priesthood understands them. It works closely with [[affiliation-lutqearet|Lut-Qe'aret]], since the two goddesses are held to share a doctrine of balance and the priesthoods cooperate in keeping a woman's legal standing in the law, and it works with the priests of the [[affiliation-wethur|Faith of Weth'ur]] in seeing a woman who dies in childbirth honored and her soul guided. Ascetic traditions that regard the body as corrupting find the priestesses unyielding on the point: the body is sacred.
+The temple's other relations follow its goddess's teachings as the priesthood understands them. It works closely with [[affiliation-lutqearet|the temple of Qe'aret]], since the two goddesses are held to share a doctrine of balance and the priesthoods cooperate in keeping a woman's legal standing in the law, and it works with the priests of [[affiliation-wethur|Weth'ur]] in seeing a woman who dies in childbirth honored and her soul guided. Ascetic traditions that regard the body as corrupting find the priestesses unyielding on the point: the body is sacred.
 
 ## Commerce and Currency
 

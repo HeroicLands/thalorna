@@ -370,7 +370,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Ghorigios Pedinikot stands 5'10" with a medium, well-proportioned frame that moves with the measured deliberation of a career bureaucrat who happens to carry a sword. His dark blonde hair is receding and kept short, and his dark amber eyes are deeply set in an olive-skinned, fair-complexioned face that gives him a perpetually contemplative look. His features are regular and unremarkable—straight nose, thin lips, a jaw that is neither strong nor weak—the sort of face that is difficult to describe and easy to forget, which suits his work admirably. At thirty-nine, he has the slightly stooped posture of a man who reads too much. He wears the [[lore-byzarianclt|Bizarian]] city watch uniform with fastidious precision: every buckle aligned, every crease deliberate, his short sword polished but clearly ceremonial.
+Ghorigios stands 5'10" with a medium, well-proportioned frame that moves with the measured deliberation of a career bureaucrat who happens to carry a sword. His dark blonde hair is receding and kept short, and his dark amber eyes are deeply set in an olive-skinned, fair-complexioned face that gives him a perpetually contemplative look. His features are regular and unremarkable—straight nose, thin lips, a jaw that is neither strong nor weak—the sort of face that is difficult to describe and easy to forget, which suits his work admirably. At thirty-nine, he has the slightly stooped posture of a man who reads too much. He wears the [[lore-byzarianclt|Bizarian]] city watch uniform with fastidious precision: every buckle aligned, every crease deliberate, his short sword polished but clearly ceremonial.
 
 # Dossier {#dossier}
 

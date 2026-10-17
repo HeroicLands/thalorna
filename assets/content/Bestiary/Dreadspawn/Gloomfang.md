@@ -256,7 +256,7 @@ A gloomfang is a lean, long-bodied rat as big as a wolfhound, five to six feet t
 
 ## In the Land
 
-The Ghotaqor is the cold forest of the northern [[place-khzryndsrtrgn|Khazryn Desert Region]], dark spruce, unthawing bog and long frozen lakes, and the Old Holds in it are cut stone under moss and dry halls in hillsides, the best shelter for forty miles. The gloomfang colony holds one: its galleries and the caves behind it, which run deeper than anyone has followed. By day the pack stays deep, away from light. By night it hunts the forest for miles round, deer, wolves, seals hauled out on the coast and the deer-herders' animals, and it comes back before dawn. Herders who have lost animals near a certain hillside, where moss lies over squared stone and the deer will not graze, have stopped taking their herds there.
+The Ghotaqor is the cold forest of the northern [[place-khzryndsrtrgn|Khazryn]], dark spruce, unthawing bog and long frozen lakes, and the Old Holds in it are cut stone under moss and dry halls in hillsides, the best shelter for forty miles. The gloomfang colony holds one: its galleries and the caves behind it, which run deeper than anyone has followed. By day the pack stays deep, away from light. By night it hunts the forest for miles round, deer, wolves, seals hauled out on the coast and the deer-herders' animals, and it comes back before dawn. Herders who have lost animals near a certain hillside, where moss lies over squared stone and the deer will not graze, have stopped taking their herds there.
 
 ## Key Behaviors
 

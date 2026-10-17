@@ -425,7 +425,7 @@ sohl:
 
 ![[flrnthyrstnblt|Flarnthira Steinblet]]{float=top-left}
 
-Flarnthira Steinblet stands 5'11" tall with a medium build. She has light fair skin, dark brown hair, and hazel eyes. Her features include an oblong face, a slightly upturned nose, a strong jawline, a firm-set mouth, dark brows, angular cheeks.
+Flarnthira stands 5'11" tall with a medium build. She has light fair skin, dark brown hair, and hazel eyes. Her features include an oblong face, a slightly upturned nose, a strong jawline, a firm-set mouth, dark brows, angular cheeks.
 
 # Dossier {#dossier}
 

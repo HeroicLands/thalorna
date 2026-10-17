@@ -250,7 +250,7 @@ The scree slope is quiet except for the wind, and then a boulder at the top of i
 
 # Dossier {#dossier}
 
-The Rockback Bear is a great mountain bear, eight to ten feet tall standing, solitary and fiercely territorial, whose back, shoulders and skull are armored with thick, knobbed growths of bone and horn that look and feel like stone. It lives in the high, broken country of the [[place-nrdlndsrgn|Nordlands Region]], and it is the master of the [[place-shtrdpks|Shattered Peaks]] and the [[place-flarnfjall|Flarnfjall]] round them in [[place-norgaad|Norgaad]]. It eats roots, berries and fish when it can get them and hunts goats, caribou and anything else that will feed it when it cannot, and it attacks people who come onto its ground. A rockback that has been hunted and escaped remembers it.
+The Rockback Bear is a great mountain bear, eight to ten feet tall standing, solitary and fiercely territorial, whose back, shoulders and skull are armored with thick, knobbed growths of bone and horn that look and feel like stone. It lives in the high, broken country of the [[place-nrdlndsrgn|Nordlands]], and it is the master of the [[place-shtrdpks|Shattered Peaks]] and the [[place-flarnfjall|Flarnfjall]] round them in [[place-norgaad|Norgaad]]. It eats roots, berries and fish when it can get them and hunts goats, caribou and anything else that will feed it when it cannot, and it attacks people who come onto its ground. A rockback that has been hunted and escaped remembers it.
 
 ## Presentation
 

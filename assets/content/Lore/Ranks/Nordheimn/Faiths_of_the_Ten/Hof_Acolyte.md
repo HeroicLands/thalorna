@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-Not every young member of the [[lore-nordheimnclt|Nordheimn]] people spends years at a hov. A Hofsmadr (hov acolyte) is given to a hov young, takes up its labor and learns its observances, and stands years short of the priesthood a gudi holds.
+Not every young member of the [[lore-nordheimnclt|Nordheimn]] people spends years at a hov. A hofsmadr (hov acolyte) is given to a hov young, takes up its labor and learns its observances, and stands years short of the priesthood a gudi holds.
 
 ## What This Standing Is
 
@@ -32,4 +32,4 @@ None; the hov's offices attach to the ordained priesthood above this rank.
 
 ## Where This Standing Is Held
 
-The faiths of the [[affiliation-asguardian|Asguardian Pantheon]] that keep the blet, each under its own hov. The standing belongs to that hov's rites and clergy; it does not extend to devotions whose admission and authority rest on other observances.
+The faiths of the [[affiliation-asguardian|Ten]] that keep the blet, each under its own hov. The standing belongs to that hov's rites and clergy; it does not extend to devotions whose admission and authority rest on other observances.

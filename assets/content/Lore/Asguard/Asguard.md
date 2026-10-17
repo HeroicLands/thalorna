@@ -8,7 +8,7 @@ tags: [asguardian]
 data: {demonym: null, lore: [], parents: [], population: null, packFolder: settinglore}
 ---
 
-In the Asguardian tradition, Asguard is the world the [[affiliation-asguardian|Asguardian Pantheon]] holds, and the world the dead are gathered into. It is a plane and not a planet: it has no orbit, no sun of its own and no place on any chart, and the rune-priests are exact about the point. No ship reaches it, no road climbs to it, and the only passage the tradition admits is dying. The world the living stand on is [[place-worldthlrn|The World of Thalorna]], and the two are held to lie against each other at every point and to meet at none a man can walk to.
+In the Asguardian tradition, Asguard is the world the [[affiliation-asguardian|Asguardian Pantheon]] holds, and the world the dead are gathered into. Asguard is a plane and not a planet: it has no orbit, no sun of its own and no place on any chart, and the rune-priests are exact about the point. No ship reaches it, no road climbs to it, and the only passage the tradition admits is dying. The world the living stand on is [[place-worldthlrn|Mannguard]], and the two are held to lie against each other at every point and to meet at none a man can walk to.
 
 The world-ash [[lore-heimsask|Heimsask]] stands through both and holds them in one growth, rooted in Asguard and crowned over Mannguard. Its condition is the condition of everything: while the ash stands the two worlds stand, and the skalds who call [[lore-aldarlok|Aldarlok]] the Fall of the Ash are naming the end by the one thing whose falling takes both worlds with it.
 

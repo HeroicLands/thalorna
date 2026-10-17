@@ -18,7 +18,7 @@ data:
 
 The coast of the [[place-vylariargn|Vylaria Region]] along the [[place-vylarianse|Vylarian Sea]] is a working shore of shipyards, naval bases and fishing towns, with agrarian estate-country behind it. This is Salkalon, the whole shore, the land of the [[affiliation-provincvld|Province of Salkalon]] of the [[affiliation-vylarinmpr|Vylarian Empire]], and five million people live here. Its seat is [[place-mercavia|Delalara]].
 
-A Delalara sailing master, taking a new mate along the quays on his first morning, gives him the lay of the province in one pass: "Warships that way, at [[place-castamar|Kastamar]]. Merchantmen here. Fishing boats everywhere in between, and every one of them is feeding somebody in [[place-orzara|Orzara City]] who has never seen the sea. Learn which harbor you're in before you talk to anyone, because the three of them want different things from you."
+A Delalara sailing master, taking a new mate along the quays on his first morning, gives him the lay of the province in one pass: "Warships that way, at [[place-castamar|Kastamar]]. Merchantmen here. Fishing boats everywhere in between, and every one of them is feeding somebody in [[place-orzara|Orzara]] who has never seen the sea. Learn which harbor you're in before you talk to anyone, because the three of them want different things from you."
 
 ## Economy
 

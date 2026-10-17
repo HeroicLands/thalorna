@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Selímara is a market town of about 5,000 on the inland roads of the [[place-byzariargn|Bizaria Region]]. The maps in the counting houses of [[place-khryshteikhos2|Krusteikhos]] record a place like it as tolls collected, and that is all the ledgers of the [[affiliation-byzarianlg|Bizarian League]] say of it.
+Selímara is a market town of about 5,000 on the inland roads of [[place-byzariargn|Bizaria]]. The maps in the counting houses of [[place-khryshteikhos2|Krusteikhos]] record a place like it as tolls collected, and that is all the [[affiliation-byzarianlg|League's ledgers]] say of it.
 
 ## Who Lives Here
 

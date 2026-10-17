@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-**Ushtra-ber** is the seventh of the seven Tellumi cities, the last founded, at the far eastern end of [[place-swoasisbelt|Tellumel]], where the belt narrows against the foot of [[place-estrnreach|The Eastern Reach]]. About twenty thousand people live in the city, and perhaps seventy thousand more in the terraced villages of its valley. It is the farthest of the seven from [[place-wstrndscnt|The Western Descent]] where the Tellumi first came down, and the farthest from the heartland of the [[affiliation-tribestrzd|Tribes of Atarzád]] round the [[place-oasishirvn|Oasis of Shirvan]], which is why it is still free.
+**Ushtra-ber** is the seventh of the seven Tellumi cities, the last founded, at the far eastern end of [[place-swoasisbelt|Tellumel]], where the belt narrows against the foot of [[place-estrnreach|the Eastern Reach]]. About twenty thousand people live in the city, and perhaps seventy thousand more in the terraced villages of its valley. It is the farthest of the seven from [[place-wstrndscnt|the Western Descent]] where the Tellumi first came down, and the farthest from the heartland of the [[affiliation-tribestrzd|Tribes of Atarzád]] round the [[place-oasishirvn|Oasis of Shirvan]], which is why it is still free.
 
 ## Water
 
@@ -24,13 +24,13 @@ A glacier-fed stream, cold and gray with rock flour, drops out of the Eastern Re
 
 ## Trade and Life
 
-The city lives by what the valley grows and by the trade of the east. The highland guides of the Eastern Reach, [[affiliation-hvarnguides|The Hvarn]], come down in autumn to buy grain and barley for the winter in their villages, and they sell wool, butter and worked horn. Caravans bound for the pass customs of the frontier of the [[affiliation-tantsouempr|Empire of Tantsou]], a long way east across the stone desert, pause here to rest the animals and take on a guide who knows which of the nomad tribes of the stone desert hold which wells. The caravans are few. Those that come stay a week, and pay in silver.
+The city lives by what the valley grows and by the trade of the east. The highland guides of the Eastern Reach, [[affiliation-hvarnguides|the Hvarn]], come down in autumn to buy grain and barley for the winter in their villages, and they sell wool, butter and worked horn. Caravans bound for the pass customs of the [[affiliation-tantsouempr|Tantsou frontier]], a long way east across the stone desert, pause here to rest the animals and take on a guide who knows which of the nomad tribes of the stone desert hold which wells. The caravans are few. Those that come stay a week, and pay in silver.
 
-Ushtra-ber is austere. The houses are of dressed stone, not adobe, with shuttered windows against the wind, and the streets are swept every dawn. The shrine of the [[affiliation-zurathra|Faith of Zúrathra]] at the head of the valley is the plainest in the belt, a spring in a stone ring with a single lamp. People rise early and eat sparingly, and a feast is a plain meal at an unusual hour.
+Ushtra-ber is austere. The houses are of dressed stone, not adobe, with shuttered windows against the wind, and the streets are swept every dawn. The shrine to [[affiliation-zurathra|Zúrathra]] at the head of the valley is the plainest in the belt, a spring in a stone ring with a single lamp. People rise early and eat sparingly, and a feast is a plain meal at an unusual hour.
 
 ## The Court
 
-The ruler, [Vahram of Ushtra-ber]{.name data-type="being/npc"}, is fifty, hard-faced and exact, and his court preserves ceremonial forms that have been forgotten elsewhere in the belt. A petitioner kneels at a marked place on the floor and speaks only after the Keeper of the Tablets has read the petition aloud, and every decision is recorded on a clay tablet before the petitioner leaves. A stranger who presents himself as he would at an exile court in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] is made to repeat the whole ceremony. A visitor who learns the forms before going finds the court helpful, because the house has no other form of hospitality.
+The ruler, [Vahram of Ushtra-ber]{.name data-type="being/npc"}, is fifty, hard-faced and exact, and his court preserves ceremonial forms that have been forgotten elsewhere in the belt. A petitioner kneels at a marked place on the floor and speaks only after the Keeper of the Tablets has read the petition aloud, and every decision is recorded on a clay tablet before the petitioner leaves. A stranger who presents himself as he would at an exile court in [[affiliation-kngdmmrdd|Amradad]] is made to repeat the whole ceremony. A visitor who learns the forms before going finds the court helpful, because the house has no other form of hospitality.
 
 The house keeps a household guard of about fifty men, enough for ordinary security and ceremony. Like every Tellumi house, it maintains no army. The Atarzád tribe that holds the eastern oases, the [Tozhirod]{.name data-type="affiliation"}, have never pressed it. The road to Ushtra-ber is long, the valley is easy to hold, and the Tozhirod scholars find the court's archive more interesting than its land.
 

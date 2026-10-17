@@ -602,11 +602,11 @@ sohl:
 # terran_analog: Ki'ichek reads a Mayan register—glottal stops, ejective consonants, counting by twenties, titles built with a lord-ending and a servant-ending. The words on this page are made to the rules and none is the Yucatec, K'iche' or Nahuatl word for its meaning.
 ---
 
-Ki'ichek Language is a tongue of the Ki'ichek (independent isolate) family. Fluency measures the sophistication of expression in Ki'ichek, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Ki'ichek is a tongue of the Ki'ichek (independent isolate) family. Fluency measures the sophistication of expression in Ki'ichek, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
-Ki'ichek is the ancient language of the city-states of [[place-kchchkcntnnt|K'ich'chik Continent]], a civilization that predates human settlement of [[place-ankrscntnnt|Ankaris Continent]] by millennia. Spoken across an entire separate continent, Ki'ichek stands alone—no known linguistic relatives exist anywhere on [[place-worldthlrn|The World of Thalorna]]. The language is deeply connected to K'ich'chik cosmology, mathematics, and spiritual worldview. To the untrained ear, Ki'ichek sounds exotic and mysterious: a cascade of glottal stops and sharp consonants interspersed with clear vowel sounds, often accompanied by tonal glides that shift meaning.
+Ki'ichek is the ancient language of the [[place-kchchkcntnnt|K'ich'chik city-states]], a civilization that predates human settlement of [[place-ankrscntnnt|Ankaris]] by millennia. Spoken across an entire separate continent, Ki'ichek stands alone—no known linguistic relatives exist anywhere on [[place-worldthlrn|Thalorna]]. The language is deeply connected to K'ich'chik cosmology, mathematics, and spiritual worldview. To the untrained ear, Ki'ichek sounds exotic and mysterious: a cascade of glottal stops and sharp consonants interspersed with clear vowel sounds, often accompanied by tonal glides that shift meaning.
 
 Ki'ichek employs a complex hieroglyphic writing system that encodes both phonetic and logographic information. The language reflects the K'ich'chik obsession with order, hierarchy, astronomical cycles, and the sacred balance between the natural and divine worlds.
 
@@ -685,7 +685,7 @@ Adjectives follow nouns; adverbs precede verbs. This allows the listener to grou
 
 ## Script and Literacy
 
-Ki'ichek writing—[[skill-chlxplmscrpt|Ch'alish P'ilam Script]], "the glyphs of Ch'alish", after [[lore-ixilanchalixdty|Ish'ilan Ch'alish]], the goddess whom tradition credits with composing the first codex—combines **logographic and phonetic elements**. Each glyph can represent either a whole word-concept or a syllabic sound, depending on context. The script is written in columns read from top to bottom, left to right.
+Ki'ichek writing—[[skill-chlxplmscrpt|Ch'alish P'ilam]], "the glyphs of Ch'alish", after [[lore-ixilanchalixdty|Ish'ilan Ch'alish]], the goddess whom tradition credits with composing the first codex—combines **logographic and phonetic elements**. Each glyph can represent either a whole word-concept or a syllabic sound, depending on context. The script is written in columns read from top to bottom, left to right.
 
 Key script features:
 
@@ -701,7 +701,7 @@ Diacritical marks
 Ceremonial variants
 : More elaborate, ornate forms used in sacred contexts
 
-Alongside the glyphs runs a second system entirely: the [[skill-ktzlcrdscrpt|K'otsel Cord Script]], knotted cord records in colored thread, carrying tribute tallies, census and the day-counts, tied and read only by the priestly scribes.
+Alongside the glyphs runs a second system entirely: the [[skill-ktzlcrdscrpt|K'otsel]], knotted cord records in colored thread, carrying tribute tallies, census and the day-counts, tied and read only by the priestly scribes.
 
 Literacy is restricted among the K'ich'chik; scribes and priests hold tremendous social power. Common folk recognize a few dozen glyphs related to daily life (numbers, calendar markers, titles) but cannot read continuous text.
 

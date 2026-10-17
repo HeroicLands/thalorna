@@ -252,7 +252,7 @@ The path into the coppice narrows between two banks of bramble, and then it stop
 
 # Dossier {#dossier}
 
-The Bramblefang is a dreadspawn made of living wood and thorn: a low, heavy, badger-shaped hunter about a hundred pounds in weight, its whole body a mesh of thorned vine and black bark, which grows thickets round itself and hunts from inside them. It is cunning, patient and territorial, and it eats meat. The one the river villages of [[place-thornwald|Thornwald]] know lives in the eastern [[place-vrystwald|Vristwald]] where the forest gives way to the grain country of [[place-velanthrgn|Velanthia Region]], and it has turned a stretch of the forest edge into a bramble maze that the villagers will not enter. It was made, as all dreadspawn are; it is alive, and it does not breed.
+The Bramblefang is a dreadspawn made of living wood and thorn: a low, heavy, badger-shaped hunter about a hundred pounds in weight, its whole body a mesh of thorned vine and black bark, which grows thickets round itself and hunts from inside them. It is cunning, patient and territorial, and it eats meat. The one the river villages of [[place-thornwald|Thornwald]] know lives in the eastern [[place-vrystwald|Vristwald]] where the forest gives way to the grain country of [[place-velanthrgn|Velanthia]], and it has turned a stretch of the forest edge into a bramble maze that the villagers will not enter. It was made, as all dreadspawn are; it is alive, and it does not breed.
 
 ## Presentation
 
@@ -260,7 +260,7 @@ The bramblefang is built like a badger or a wolverine, broad, low and strong, on
 
 ## In the Land
 
-Thornwald is the forest's most permeable frontier: landings and villages along the rivers where [[lore-varokhiclt|Varokhi]] and Velanthian families have traded and married across the line for generations. The bramblefang holds a stretch of mixed woodland and coppice there, a few miles of it between two river landings, and over the years it has grown its ground into a maze of bramble thickets, with paths that open and close. It hunts deer, pigs, dogs and the stock of the forest-edge farms, and it lies up in the deepest of its thickets. It does not go out into the open grain fields of Velanthia, where it has no cover, and it does not cross the rivers.
+Thornwald is the forest's most permeable frontier: landings and villages along the rivers where [[lore-varokhiclt|Varokh]] and Velanthian families have traded and married across the line for generations. The bramblefang holds a stretch of mixed woodland and coppice there, a few miles of it between two river landings, and over the years it has grown its ground into a maze of bramble thickets, with paths that open and close. It hunts deer, pigs, dogs and the stock of the forest-edge farms, and it lies up in the deepest of its thickets. It does not go out into the open grain fields of Velanthia, where it has no cover, and it does not cross the rivers.
 
 ## Key Behaviors
 
@@ -268,7 +268,7 @@ The bramblefang hunts by sound and movement. It lies still in its thicket, indis
 
 ## What the River Villages Do
 
-The landings on either side of the bramblefang's ground have moved their paths round it, and the river traffic between them goes by water. Nobody cuts coppice or gathers firewood in the stretch where the brambles grow wrong, and children are told that a thorn hedge across a path that was open yesterday means turn round at once. The village elders on the Varokhi side and the reeves on the Velanthian side have met over it more than once, and both sides agree on the remedy, which is fire. Twice the villages have burned the edge of the thicket in a dry autumn, and the creature has fled from the fire and come back to the burned ground the next year and grown it again. The Varokh hold that a thing like that is the sign of something worse nearby, and send their Shamans to the edge to look for it.
+The landings on either side of the bramblefang's ground have moved their paths round it, and the river traffic between them goes by water. Nobody cuts coppice or gathers firewood in the stretch where the brambles grow wrong, and children are told that a thorn hedge across a path that was open yesterday means turn round at once. The village elders on the Varokh side and the reeves on the Velanthian side have met over it more than once, and both sides agree on the remedy, which is fire. Twice the villages have burned the edge of the thicket in a dry autumn, and the creature has fled from the fire and come back to the burned ground the next year and grown it again. The Varokh hold that a thing like that is the sign of something worse nearby, and send their Shamans to the edge to look for it.
 
 ## Signs
 

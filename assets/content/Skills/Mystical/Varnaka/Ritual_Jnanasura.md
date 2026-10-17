@@ -27,7 +27,7 @@ Performed by
 : Any Upasoka keeping the household observance; the standing of Vretin, once earned, is held for life
 
 Licensed by
-: No one. [[lore-jnanasuradty|Jnanasura]] keeps no priesthood of his own, since the [[affiliation-varakpnthn|Varnuka Pantheon]] ordains to a school and not to a god, and the Ordeal answers to no sampradeya
+: No one. [[lore-jnanasuradty|Jnanasura]] keeps no priesthood of his own, since [[affiliation-varakpnthn|Varnuka]] ordains to a school and not to a god, and the Ordeal answers to no sampradeya
 
 His three Ordeals ask the same clarity the household observance asks daily, at a harder pitch. **[The Examination Beyond the Veil]{.name data-type="lore/custom"}** puts the aspirant before a council drawn from every scholarly specialization, for seven days, on subjects never assigned in advance. **[The Silent Year of Reading]{.name data-type="lore/custom"}** is spent in a temple library, speaking to no one and living on what the library provides. **[The Contest of Open Questions]{.name data-type="lore/custom"}** is public. The aspirant answers whatever any member of the community asks, from dawn to sunset, and refuses none of it.
 

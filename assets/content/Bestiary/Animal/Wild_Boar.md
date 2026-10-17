@@ -246,7 +246,7 @@ The cart-track through the chestnut wood is torn up in a long, dark furrow, and 
 
 # Dossier {#dossier}
 
-The Wild Boar is the wild pig of the forests, scrub and rough ground of the temperate lands, two to three feet at the shoulder and 200 to 400 pounds. It roots through the oak and chestnut woods of [[place-aureldirgn|Aureldia Region]], the gorges of the Bizarian [[place-southrnmrch|Southern March]] and the river thickets of [[place-velanthrgn|Velanthia Region]]. It is dangerous mainly when defending itself or its young, though a mature male is aggressive all year.
+The Wild Boar is the wild pig of the forests, scrub and rough ground of the temperate lands, two to three feet at the shoulder and 200 to 400 pounds. It roots through the oak and chestnut woods of [[place-aureldirgn|Aureldia]], the gorges of the Bizarian [[place-southrnmrch|Southern March]] and the river thickets of [[place-velanthrgn|Velanthia]]. It is dangerous mainly when defending itself or its young, though a mature male is aggressive all year.
 
 ## Presentation
 

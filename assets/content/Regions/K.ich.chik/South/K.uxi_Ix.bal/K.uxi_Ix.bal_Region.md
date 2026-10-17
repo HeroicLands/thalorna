@@ -20,7 +20,7 @@ data:
 
 K'ushi Ish'bal Region is the land of [[affiliation-kuxiixbal|K'ushi Ish'bal]], and lies within [[place-sthrnkchchk|Southern K'ich'chik]] on the [[place-kchchkcntnnt|K'ich'chik Continent]].
 
-K'ushi Ish'bal, the "Second Jaguar Land," sits at a threshold—one foot planted firmly in the heights and civilization of the upper southern territories, the other pointing toward the harsh, forsaken wastes that lie beyond. The region is a frontier realm, vast and relatively thinly settled compared to the dense city-states of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]. Here, the grasslands stretch in endless waves, broken by isolated highlands and the scattered outpost-cities of the priesthood of the [[affiliation-itzanpnthn|Itsani Pantheon]].
+K'ushi Ish'bal, the "Second Jaguar Land," sits at a threshold—one foot planted firmly in the heights and civilization of the upper southern territories, the other pointing toward the harsh, forsaken wastes that lie beyond. The region is a frontier realm, vast and relatively thinly settled compared to the dense city-states of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]. Here, the grasslands stretch in endless waves, broken by isolated highlands and the scattered outpost-cities of the [[affiliation-itzanpnthn|Itsani priesthood]].
 
 This is a land of transition and warning. The great ceremonial roads that bind K'ich'chik together grow less certain here, their magnificent stones sometimes cracked by forces that priests attribute to the anger of [[lore-tzuqilixbaldty|Ts'uqil Ish'bal]], goddess of death, or the chaotic wrath of [[lore-puqilchaqundty|P'uqil Ch'akun]], master of storms.
 
@@ -36,7 +36,7 @@ To the south and west, the plateau gradually descends, the grasses thicken into 
 
 K'ushi Ish'bal holds no maritime territories in the traditional sense, but the great sacred lake of Ishkul Ch'alish is its heart and spiritual center.
 
-The plateau itself is bordered to the north by Ish'bal Tsa'ku and to the south by the increasingly hostile terrain of the [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]].
+The plateau itself is bordered to the north by Ish'bal Tsa'ku and to the south by the increasingly hostile terrain of [[place-qapteltzaklrgn|Q'aptel Tsa'kul]].
 
 ## Trade
 

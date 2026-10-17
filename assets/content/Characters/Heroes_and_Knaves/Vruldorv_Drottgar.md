@@ -414,7 +414,7 @@ sohl:
 
 ![[vrldrvdrtgr|Vruldorv Drottgar]]{float=top-left}
 
-Vruldorv Drottgar stands 5'11" tall with a medium build. He has light fair skin, red hair, and hazel eyes. His features include an angular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, and thick brows. He has a scar on his left shoulder.
+Vruldorv stands 5'11" tall with a medium build. He has light fair skin, red hair, and hazel eyes. His features include an angular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, and thick brows. He has a scar on his left shoulder.
 
 # Dossier {#dossier}
 

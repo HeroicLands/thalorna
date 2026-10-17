@@ -67,15 +67,15 @@ The Storm on the Eastern Road is the year that gave the wells their name.
 
 ## The Year of the Storm
 
-In the spring of 315 a steppe host under one khan came down [[place-wstrndscnt|The Western Descent]] and overran the march of the [[place-vedyarargn|Vedyara Region]] ([[lore-hndrdbnnrs|The Storm of the Hundred Banners]]). The same year it crossed the [[place-dunharargn|Dunhara Region]]. The first the Khelathi knew of it was the Dunhari families coming in ahead of it.
+In the spring of 315 a steppe host under one khan came down [[place-wstrndscnt|the Western Descent]] and overran the march of the [[place-vedyarargn|Vedyara Region]] ([[lore-hndrdbnnrs|The Storm of the Hundred Banners]]). The same year it crossed [[place-dunharargn|Dunhara]]. The first the Khelathi knew of it was the Dunhari families coming in ahead of it.
 
-The host did not enter the valley. It struck the eastern road, the line of wells that carries the empire's trade to the desert and the [[place-khzryndsrtrgn|Khazryn Desert Region]], and it did so as a host does on any road: its riders took the northern wells for water, the Dunhari families ahead of it fled onto the garrisons, and refugees and herds crowded the wells of [[place-khuqetmiglet|Khuqet-Miglet]] until the caravans stopped. Some of the western Dunhari clans raided in the host's wake, taking what it dropped. Most stood out of its way. The wells at [[place-zuletqar|Zulet'Qar]], where by long custom no blood is shed, were left alone, and the truce there held through the year.
+The host did not enter the valley. It struck the eastern road, the line of wells that carries the empire's trade to the desert and the [[place-khzryndsrtrgn|Khazryn]], and it did so as a host does on any road: its riders took the northern wells for water, the Dunhari families ahead of it fled onto the garrisons, and refugees and herds crowded the wells of [[place-khuqetmiglet|Khuqet-Miglet]] until the caravans stopped. Some of the western Dunhari clans raided in the host's wake, taking what it dropped. Most stood out of its way. The wells at [[place-zuletqar|Zulet'Qar]], where by long custom no blood is shed, were left alone, and the truce there held through the year.
 
 ## The Commander
 
-The list enters what followed in its own formulas. The Gar-Au [Gez'el'Qar II]{.name data-type="being/npc"} went to the West in the night, and a frontier commander of [Shethes'Ralu]{.name data-type="affiliation/lineage"} was crowned in his place as [Kuz'Uqa II]{.name data-type="being/npc"}, a name that recalls the hill-nomad who first took the throne. He had taken the throne to meet the host, and the list says only that his year was not completed. The priesthood of the [[affiliation-uqaa|Faith of Uqa'a]] raised [Let'Thariu]{.name data-type="affiliation/lineage"} in the same year, and its first Gar-Au, [Legir'el'Retha I]{.name data-type="being/npc"}, reigned twenty years.
+The list enters what followed in its own formulas. The Gar-Au [Gez'el'Qar II]{.name data-type="being/npc"} went to the West in the night, and a frontier commander of [Shethes'Ralu]{.name data-type="affiliation/lineage"} was crowned in his place as [Kuz'Uqa II]{.name data-type="being/npc"}, a name that recalls the hill-nomad who first took the throne. He had taken the throne to meet the host, and the list says only that his year was not completed. The priesthood of [[affiliation-uqaa|Uqa'a]] raised [Let'Thariu]{.name data-type="affiliation/lineage"} in the same year, and its first Gar-Au, [Legir'el'Retha I]{.name data-type="being/npc"}, reigned twenty years.
 
-Late in 315 the host reached the walls of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], the side nobody had built them to face, and over the winter it broke up on its khan's death.
+Late in 315 the host reached the walls of [[affiliation-kngdmmrdd|Amradad]], the side nobody had built them to face, and over the winter it broke up on its khan's death.
 
 ## What It Left
 

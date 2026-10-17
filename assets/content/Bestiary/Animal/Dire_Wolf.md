@@ -215,7 +215,7 @@ The deer's carcass has been dragged thirty yards across the snow and torn open, 
 
 # Dossier {#dossier}
 
-The Dire Wolf is the great wolf of the deep forest, four feet at the shoulder and seven to nine feet long, twice the size of a gray wolf. A pack of five to fifteen holds the deep forest of [[place-vrystwald|Vristwald]] north of the Vylarian border, the marsh forests of [[place-grkrhlmrgn|Grukarholm Region]] and the high taiga of the [[place-nrdlndsrgn|Nordlands Region]], and takes elk. Packs have hunted people, and a lone dire wolf, usually an outcast from a pack, is the likeliest to attack.
+The Dire Wolf is the great wolf of the deep forest, four feet at the shoulder and seven to nine feet long, twice the size of a gray wolf. A pack of five to fifteen holds the deep forest of [[place-vrystwald|Vristwald]] north of the Vylarian border, the marsh forests of [[place-grkrhlmrgn|Grukarholm]] and the high taiga of the [[place-nrdlndsrgn|Nordlands]], and takes elk. Packs have hunted people, and a lone dire wolf, usually an outcast from a pack, is the likeliest to attack.
 
 ## Presentation
 
@@ -231,7 +231,7 @@ Packs are matriarchal, led by the alpha female with the alpha male supporting he
 
 ## What the Hunters Do
 
-The hunting companies of Vristwald, such as [[affiliation-wldjgrrndgrskld|Wuljagar erund Garskald]] of the [Garskald]{.name data-type="affiliation/polity"}, know the ranges of the big packs and keep to the edges of them. A dire wolf kill is a feast and a clan matter, since a pack that is attacked and not finished comes back for the hunters. Villages that keep the wolf as their wesk, such as [[place-harholt|Harholt]] and [Wulfreth]{.name data-type="place/settlement"}, forbid the killing of a wolf in their own woods and ask the Weskár when one has been seen near the houses. In winter, villages bring their stock indoors at dusk and post a watch with a horn. A dire wolf pelt is worth a horse.
+The hunting companies of Vristwald, such as [[affiliation-wldjgrrndgrskld|Wuljagar erund Garskald]] of the [Garskald]{.name data-type="affiliation/lineage"}, know the ranges of the big packs and keep to the edges of them. A dire wolf kill is a feast and a clan matter, since a pack that is attacked and not finished comes back for the hunters. Villages that keep the wolf as their wesk, such as [[place-harholt|Harholt]] and [Wulfreth]{.name data-type="place/settlement"}, forbid the killing of a wolf in their own woods and ask the Weskár when one has been seen near the houses. In winter, villages bring their stock indoors at dusk and post a watch with a horn. A dire wolf pelt is worth a horse.
 
 ## Signs
 

@@ -39,7 +39,7 @@ data:
 
 The Sinale Meet the Ithari records the one crack in the silence: an afternoon, and almost nothing came through it.
 
-The [[lore-flksinale|Sinale Folk]] did not seek [[lore-theithari|The Ithari]] out; by their own account they
+The [[lore-flksinale|Sinale]] did not seek [[lore-theithari|the Ithari]] out; by their own account they
 came upon them. They were received. They were not rebuffed, threatened, questioned or taken seriously.
 No exchange was proposed and no further meeting was arranged. The others returned to whatever they had
 been doing, and the Sinale went away.

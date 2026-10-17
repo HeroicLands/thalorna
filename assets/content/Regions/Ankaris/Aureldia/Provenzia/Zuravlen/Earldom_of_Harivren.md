@@ -33,4 +33,4 @@ data:
 sohl: {system: {commonSkills: [provnzlng]}}
 ---
 
-The **Earldom of Hárivren** is the western march of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]], held by **[Avaarl Zylavren]{.name data-type="being/npc"}**, Earl of Hárivren, from [[place-harivrencity|Hárivren City]]. Among the Earl's vassals is [Selvare Zuravel]{.name data-type="being/npc"}, Baron of the [[affiliation-brnyzrvln|Barony of Zuravlen]], whose fruit and wine pass through the Earl's city and pay his tolls.
+The **Earldom of Hárivren** is the western march of the [[affiliation-kngdmprvnz|Crown of Provenzia]], held by **[Avaarl Zylavren]{.name data-type="being/npc"}**, Earl of Hárivren, from [[place-harivrencity|Hárivren City]]. Among the Earl's vassals is [Selvare Zuravel]{.name data-type="being/npc"}, Baron of [[affiliation-brnyzrvln|Zuravlen]], whose fruit and wine pass through the Earl's city and pay his tolls.

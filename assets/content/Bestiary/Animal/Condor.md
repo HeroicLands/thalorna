@@ -237,7 +237,7 @@ High on the cliff, a hundred feet above the ledge you are climbing toward, a bla
 
 # Dossier {#dossier}
 
-The Condor is the great vulture of the high mountains, twenty to thirty-three pounds with a wingspan over ten feet. It nests on the cliff ledges and in the high canyons above [[place-ixilankulrgn|Ish'ilankul Region]] and in the snow-crowned ranges of [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]]. It eats carrion and finds it from a great height. In the [[affiliation-itzanpnthn|Itsani Pantheon]] faith it is the messenger between the world and the sun, its feathers are sacred, and killing a condor is punished by death.
+The Condor is the great vulture of the high mountains, twenty to thirty-three pounds with a wingspan over ten feet. It nests on the cliff ledges and in the high canyons above [[place-ixilankulrgn|Ish'ilankul]] and in the snow-crowned ranges of [[place-ixbaltzakurgn|Ish'bal Tsa'ku]]. It eats carrion and finds it from a great height. In the [[affiliation-itzanpnthn|Itsani Pantheon]] faith it is the messenger between the world and the sun, its feathers are sacred, and killing a condor is punished by death.
 
 ## Presentation
 

@@ -394,7 +394,7 @@ Lagora Kerazendis is a 23-year-old woman who stands 5'8" tall and is slender. Sh
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria Region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Lagora Kerazendis came into the world of the fool through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Lagora Kerazendis came into the world of the fool through a combination of circumstance and aptitude.
 
 Lagora grew up in a small village and developed a talent for mischief and humor at an early age. She travels from town to town, performing tricks and stunts to entertain audiences. Lagora is known for her sharp tongue and playful antics, often using her humor to challenge social norms and expectations. While her jokes can be biting, she uses them to provoke thought and laughter.
 

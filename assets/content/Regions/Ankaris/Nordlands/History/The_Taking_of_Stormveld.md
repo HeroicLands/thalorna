@@ -84,7 +84,7 @@ data:
         - how many Nordmen died in the taking, which the skalds put low and the Vardain put lower still
 ---
 
-"The [[place-nrdlndsrgn|Nordlands Region]] is where my grandfather's boat came from," a [[place-stormveil|Stormveil]] harbor pilot says, "and the plain is where I was born, and I have never been asked which one is home." The grandfather's boat came over in 660, with **The Taking of Stormveld**, and [[lore-vardain|The Vardain]] who work the pilot's family fields were free farmers on that plain the summer before it.
+"The [[place-nrdlndsrgn|Nordlands Region]] is where my grandfather's boat came from," a [[place-stormveil|Stormveil]] harbor pilot says, "and the plain is where I was born, and I have never been asked which one is home." The grandfather's boat came over in 660, with **the Taking of Stormveld**, and [[lore-vardain|the Vardain]] who work the pilot's family fields were free farmers on that plain the summer before it.
 
 ## The Landings Before the Taking
 
@@ -92,9 +92,9 @@ Nordmen had traded on [[place-aelwyth|Aelwyth]]'s north-eastern coast for genera
 
 ## One Season
 
-King [Vruthorv]{.name data-type="being/npc"} of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], of the [Knalthidrok]{.name data-type="affiliation/lineage"}, had a reason every king of the north had always had: a land that could not feed its people, and a fleet. What he had that his forebears had not was the landings, and the knowledge the trading crews brought home of a plain with no host behind it. In the summer of 660 he sent the fleets of Nordheim, the [[affiliation-kingdmnrgd|Kingdom of Norgaad]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] over open water, some three hundred miles of it, to the north-east of Aelwyth. The plain was taken in one season. Its people were not driven out; they were enslaved where they stood, and the arrangement hardened within a generation into the ordinary structure of the country. About a hundred and twenty thousand Vardain work the [[place-stormplain|Stormplain]] today as the thralls of some thirty thousand Nordmen, and the jarls who took it hold it as the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]], under a High Jarl they elect among themselves, the only realm of the Nordmen that is not a kingdom.
+King [Vruthorv]{.name data-type="being/npc"} of [[affiliation-kngdmnrdhm|Nordheim]], of the [Knalthidrok]{.name data-type="affiliation/lineage"}, had a reason every king of the north had always had: a land that could not feed its people, and a fleet. What he had that his forebears had not was the landings, and the knowledge the trading crews brought home of a plain with no host behind it. In the summer of 660 he sent the fleets of Nordheim, the [[affiliation-kingdmnrgd|Kingdom of Norgaad]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] over open water, some three hundred miles of it, to the north-east of Aelwyth. The plain was taken in one season. Its people were not driven out; they were enslaved where they stood, and the arrangement hardened within a generation into the ordinary structure of the country. About a hundred and twenty thousand Vardain work the [[place-stormplain|Stormplain]] today as the thralls of some thirty thousand Nordmen, and the jarls who took it hold it as the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]], under a High Jarl they elect among themselves, the only realm of the Nordmen that is not a kingdom.
 
-The Khazari did not come down to the plain. What is free of Vardanreach lives in the high valleys of [[place-ironfells|The Ironfells]] under their protection, some eight thousand five hundred people, and the hold's friendship with the lowland Vardain, the only one of its kind, was destroyed with the people who had kept it. The Vardain keep the count of their own enslaved, and the thralls have risen twice.
+The Khazari did not come down to the plain. What is free of Vardanreach lives in the high valleys of [[place-ironfells|the Ironfells]] under their protection, some eight thousand five hundred people, and the hold's friendship with the lowland Vardain, the only one of its kind, was destroyed with the people who had kept it. The Vardain keep the count of their own enslaved, and the thralls have risen twice.
 
 ## The Year at Home
 
@@ -104,7 +104,7 @@ In the forest south of the kingdoms the taking changed a trade. A jarldom that w
 
 ## What Aelwyth Did
 
-The island did little. The [[affiliation-kngdmldrth|Kingdom of Aldorath]] mustered no host against the Nordmen, though it counts the Jarldom its nemesis. The Vardain who could reach the passes went up into [[place-vardainvalleys|The Vardain Valleys]] (the high valleys) and the Khazari took them in, and [[place-threndale|Threndale]] is still adding graves to the ground the Vardain call the new ground. The [[affiliation-dunavarsynod|Dúnavarre Synod]] answered in the way it answers everything: that year it instituted the compulsory call at [[place-ravenmoor|Ravenmoor]], so that every vessel crossing between the island and the mainland puts in there first, and left the northern water alone.
+The island did little. [[affiliation-kngdmldrth|Aldorath]] mustered no host against the Nordmen, though it counts the Jarldom its nemesis. The Vardain who could reach the passes went up into [[place-vardainvalleys|the Vardain Valleys]] (the high valleys) and the Khazari took them in, and [[place-threndale|Threndale]] is still adding graves to the ground the Vardain call the new ground. The [[affiliation-dunavarsynod|Dúnavarre Synod]] answered in the way it answers everything: that year it instituted the compulsory call at [[place-ravenmoor|Ravenmoor]], so that every vessel crossing between the island and the mainland puts in there first, and left the northern water alone.
 
 ## What It Left
 
@@ -120,7 +120,7 @@ A party can come to Stormveld as Nordheim kin taking service in a hall, or from 
 [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] · [[place-stormveld|Stormveld]]
 : what the taking made
 
-[[place-vardanreach|Vardanreach]] · [[lore-vardain|The Vardain]]
+[[place-vardanreach|Vardanreach]] · [[lore-vardain|the Vardain]]
 : what it took
 
 [[place-vorgald|Vorgald]]

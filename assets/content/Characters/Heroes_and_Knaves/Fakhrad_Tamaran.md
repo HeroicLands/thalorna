@@ -425,7 +425,7 @@ sohl:
 
 ![[fakhrdtmrn|Fakhrad Tamaran]]{float=top-left}
 
-Fakhrad Tamaran stands 5'11" tall with a medium build. He has tanned ruddy skin, jet black hair, and green eyes. His features include a long face, a long nose, an angular jawline, a firm-set mouth, prominent brows, sculpted cheeks. A distinguishing mark is a scar on the right hand.
+Fakhrad stands 5'11" tall with a medium build. He has tanned ruddy skin, jet black hair, and green eyes. His features include a long face, a long nose, an angular jawline, a firm-set mouth, prominent brows, sculpted cheeks. A distinguishing mark is a scar on the right hand.
 
 # Dossier {#dossier}
 
@@ -495,7 +495,7 @@ Merchant Caravan Master [Yelmad]{.name data-type="being/npc"}
 Master Astrologer [Navresh Tahvan]{.name data-type="being/npc"}
 : A prominent court astrologer who views Fakhrad as a charlatan undoing the serious work of true scholars. Navresh has attempted to publicly discredit him on several occasions.
 
-Inquisitor [[being-mazinanshirz|Mazinan Shirzari]]
+Inquisitor [[being-mazinanshirz|Mazinan]]
 : A religious authority who sees Fakhrad's unconventional relationship with astronomical knowledge as heretical and has begun building a case against him.
 
 [The Skeptical Merchants' Council]{.name data-type="affiliation"}

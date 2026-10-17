@@ -58,11 +58,11 @@ data:
         - whether the dead who joined the field after later raids are part of the recurrence
 ---
 
-On still nights in the campaign season the pass above the [[place-bldfldmalnebris|Blood-field of Malnebris]] is loud, and the border families on both sides of it know what they are hearing. It is Malnebris, the first great raid, and the sound has not stopped.
+On still nights in the campaign season the pass above [[place-bldfldmalnebris|Malnebris]] is loud, and the border families on both sides of it know what they are hearing. It is the first great raid, and the sound has not stopped.
 
 ## The Host
 
-When the legions were drawn north and the garrisons of the western province thinned, the High Kings of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] found a use for the lords who had elected them. **[Mórezan]{.name data-type="being/npc"}**, the second High King, led a host down the pass from the mountains above the province's north-eastern march, to see what could be taken in a season and whether anyone would stop it. It was the first great raid, and nothing like it had come that way before.
+When the legions were drawn north and the garrisons of the western province thinned, the High Kings of [[affiliation-kingdmtrvn|Tarvénia]] found a use for the lords who had elected them. **[Mórezan]{.name data-type="being/npc"}**, the second High King, led a host down the pass from the mountains above the province's north-eastern march, to see what could be taken in a season and whether anyone would stop it. It was the first great raid, and nothing like it had come that way before.
 
 ## The Road
 

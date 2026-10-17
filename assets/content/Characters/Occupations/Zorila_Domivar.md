@@ -395,9 +395,9 @@ Zórila Dómivar is a 25-year-old woman who stands 5'8" tall and is slender. She
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia Region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Zórila Dómivar is a hunter.
+Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Zórila Dómivar is a hunter.
 
-Zórila is the trusted huntswoman for Lord [[being-zurgadeugarr|Zurgade Ugarris]] of [[place-thornhillmnr|Thornhill Manor]]. Growing up in a hunting family, she excelled in the trade from a young age. She is known for her skill with a bow and her ability to move silently through the woods. She is often invited to hunt with the lord and his guests, and she is much relied on during the hunting season.
+Zórila is the trusted huntswoman for Lord [[being-zurgadeugarr|Zurgade]] of [[place-thornhillmnr|Thornhill Manor]]. Growing up in a hunting family, she excelled in the trade from a young age. She is known for her skill with a bow and her ability to move silently through the woods. She is often invited to hunt with the lord and his guests, and she is much relied on during the hunting season.
 
 ## Psyche
 

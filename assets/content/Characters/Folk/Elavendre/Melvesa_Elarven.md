@@ -36,4 +36,4 @@ Mélvesa Elarven is a 62-year-old woman who stands 5'7" tall with a light build.
 
 # Dossier {#dossier}
 
-Mélvesa Elarven is the senior priestess of the temple of the [[affiliation-lizelas|Faith of Lizelas]] at [[place-sourimael|Sóurimel]]. She is the mentor of [[being-sarenprdln|Sárena Párdalen]], whom the temple supplies and sends out on her circuit.
+Mélvesa Elarven is the senior priestess of the temple of [[affiliation-lizelas|Lizelas]] at [[place-sourimael|Sóurimel]]. She is the mentor of [[being-sarenprdln|Sárena Párdalen]], whom the temple supplies and sends out on her circuit.

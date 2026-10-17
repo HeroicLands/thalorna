@@ -238,7 +238,7 @@ The cave mouth is worn smooth on the stone at the height of a heavy animal's fla
 
 # Dossier {#dossier}
 
-The Cave Bear is the largest of the bears, up to ten feet tall on its hind legs and over two thousand pounds. It holds the deep limestone caves and high valleys of [[place-graznmntns|The Grazian Mountains]], the broken ground of the [[place-shtrdpks|Shattered Peaks]] in the [[place-nrdlndsrgn|Nordlands Region]] and the upland caverns of [[place-vrystwald|Vristwald]], and a few caves have been a bear's den for longer than any village has stood near them. Unlike other bears, it does not avoid people and attacks anything that comes into its cave or its valley.
+The Cave Bear is the largest of the bears, up to ten feet tall on its hind legs and over two thousand pounds. It holds the deep limestone caves and high valleys of [[place-graznmntns|the Grazian Mountains]], the broken ground of the [[place-shtrdpks|Shattered Peaks]] in the [[place-nrdlndsrgn|Nordlands]] and the upland caverns of [[place-vrystwald|Vristwald]], and a few caves have been a bear's den for longer than any village has stood near them. Unlike other bears, it does not avoid people and attacks anything that comes into its cave or its valley.
 
 ## Presentation
 

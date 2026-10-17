@@ -121,7 +121,7 @@ The Court's income is leverage before it is money.
   **debt**, which is an instrument, and which the Master of the Rolls will hold for years without
   pressing before spending it once on something that matters.
 - **The purse.** Debts, rents, protection and smuggled cargo move through chartered
-  moneylenders of [[affiliation-danvar|The Danvar]] and the
+  [[affiliation-danvar|Danvar moneylenders]] and the
   [[lore-vylrncrncy|paper-script]] system, none of it appearing to be the Court's. A kingdom with
   sophisticated banking and a secretive government is an ideal place to be quietly rich.
 - **Contraband and passage.** Anything the Synod restricts—proscribed texts and components above
@@ -170,7 +170,7 @@ position that it does not exist is the least embarrassing one available.
   greatest danger. The Order is Árdavonian, sworn to order and justice, answerable to the Synod, and
   commands enormous respect in its own right—and a knight sworn to _justice_ serving a state where
   the governed have no voice is a man with a private difficulty. The Court has sympathizers among the
-  Knight-Captains. It also has enemies there who regard it as everything the [[affiliation-ardavon|Faith of Árdavon]] abhors, and who are
+  Knight-Captains. It also has enemies there who regard it as everything [[affiliation-ardavon|Árdavon]] abhors, and who are
   correct.
 - **[[affiliation-kngdmldrth|Aldorath]] and [[affiliation-repblcndrth|Ondareth]].** Foreign money.
   Aldorath's feudal lords find the restoration of a Dúnavarran monarchy an agreeable idea and fund it
@@ -194,7 +194,7 @@ Every priest of Árdavon in Dúnavarre has denounced this. Not all of them have 
 
 The Court holds [[being-laradhluavel|Larad Lúavel]], Steward of the mission to the
 [[affiliation-tantsouempr|Empire of Tantsou]], through gambling debts and the embezzlement he committed
-to cover them—and through his daughter Lady [[being-ilaraluavel|Ilara Lúavel]], whose safety is his first
+to cover them—and through his daughter [[being-ilaraluavel|Ilara]], whose safety is his first
 concern and the Court's best instrument.
 
 The motive is not money. The embassy is the Synod's boldest assertion of Dúnavarren independence, and a
@@ -222,4 +222,4 @@ wrecked is a question its own officers disagree about, and Larad has not been to
 
 - [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] · [[place-ravenmoor|Ravenmoor]] · [[place-aelwyth|Aelwyth]]
 - [[affiliation-ordoarcanis|Thordimalon]] · [[affiliation-justbladeordr|Order of the Just Blade]]
-- [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] · [[affiliation-velvethand|The Velvet Hand]]
+- [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] · [[affiliation-velvethand|the Velvet Hand]]

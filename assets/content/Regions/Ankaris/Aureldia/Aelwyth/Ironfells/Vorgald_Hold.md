@@ -34,6 +34,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-**Vorgald Hold** is the hold of the [[lore-flkkhazar|Khazár Folk]] at [[place-vorgald|Vorgald]], in the eastern heights of [[place-ironfells|The Ironfells]]. The Khazari call it _Varíg_, "farthest". It holds no relationship with any realm on [[place-aelwyth|Aelwyth]].
+**Vorgald Hold** is the hold of the [[lore-flkkhazar|Khazár Folk]] at [[place-vorgald|Vorgald]], in the eastern heights of [[place-ironfells|the Ironfells]]. The Khazari call it _Varíg_, "farthest". It holds no relationship with any realm on [[place-aelwyth|Aelwyth]].
 
-The hold holds [[place-vardainvalleys|The Vardain Valleys]] beneath it: [[lore-vardain|The Vardain]] there are admitted as refugees, protected and fed, and serve the hold as its factors. The valleys belong to no Aelwythan realm.
+The hold holds [[place-vardainvalleys|the Vardain Valleys]] beneath it: [[lore-vardain|the Vardain]] there are admitted as refugees, protected and fed, and serve the hold as its factors. The valleys belong to no Aelwythan realm.

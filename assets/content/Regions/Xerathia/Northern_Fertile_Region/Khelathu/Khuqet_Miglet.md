@@ -19,22 +19,22 @@ data:
 **Khuqet-Miglet**, "the northern desert-march," is a road with a country
 attached: the dry country at the northeastern edge of [[place-aukhelathrgq|Au'Khelathu Region]], beyond the last of the
 eastern border selatu, where the empire's uplands run out into the semi-desert
-that faces [[place-dunharargn|Dunhara Region]]. It lies within Au'Khelathu's country
+that faces [[place-dunharargn|Dunhara]]. It lies within Au'Khelathu's country
 but outside its selatu: no
 [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] holds it, no
 render is levied from it, and the
 [[affiliation-empireakhlth|Empire of Au'Khelathu]] keeps it only because the road
 to the east and north runs across it and because whoever else held it would be
 a day's ride from the mines. Its name answers that of
-[[affiliation-seltkhqtmntq|The Selat of Khuqet-Imntiqa]], the western desert-march, but the
+[[affiliation-seltkhqtmntq|the Selat of Khuqet-Imntiqa]], the western desert-march, but the
 likeness ends at the name: [[place-khuqetimntiqnome|Khuqet-Imntiqa]] is a selat with a Halzi'a and a temple,
 and Khuqet-Miglet is a garrison holding a road.
 
 ## Geography
 
 The march begins where the quarry-roads of
-[[affiliation-selatzuzlqtt|The Selat of Zu-Zel-Iaqtet]] and the well-lines of
-[[affiliation-selatiaqetlq|The Selat of Iaqet-Leqa]] give out, and runs northeast across
+[[affiliation-selatzuzlqtt|the Selat of Zu-Zel-Iaqtet]] and the well-lines of
+[[affiliation-selatiaqetlq|the Selat of Iaqet-Leqa]] give out, and runs northeast across
 stony plateau, gravel plain and low broken hills until the [[lore-dunhariclt|Dunhari]] sand seas
 begin. It is semi-desert: a thin winter rain greens the wadis for a few
 weeks and raises a short grass on the northern flats, and the rest of the year
@@ -57,7 +57,7 @@ on his first crossing, "and learn who owns it."
 One thing gives the march its worth: the caravan road that leaves the
 river valley through the eastern hills, threads the wells of Khuqet-Miglet,
 and climbs into the Dunhara and on toward the oasis-belt of the
-[[place-khzryndsrtrgn|Khazryn Desert Region]]. It is the empire's land-road to the
+[[place-khzryndsrtrgn|Khazryn Desert]]. It is the empire's land-road to the
 east and the north—the way by which spice, silk, jewels and the rare goods
 of the far east come overland when they do not come by sea, and the way by
 which Khelathi grain, linen, worked metal and gold go out to the desert
@@ -92,7 +92,7 @@ wells where the road turns toward the Dunhara, is the seat of the [[affiliation-
 to the [[lore-garauu|Gar-Auu]]'s military officers at the capital and to no Halzi'a. The
 garrison's whole duty is the road: to patrol the wells, escort the caravans,
 collect the road-toll, and keep the peace with the clans on the other side
-of it. The line dates from the host of [[lore-hndrdbnnrs|The Storm of the Hundred Banners]], which struck the eastern road in 315 AF: the forts were walled in the decades after ([[lore-eastroad|The Storm on the Eastern Road]]). Beside the first of them lie [the Burned Wells]{.name data-type="place/site"}, a ring of wells filled with carcasses in the host's wake and never cleared, which the garrison and the clans each blame on the other.
+of it. The line dates from the host of [[lore-hndrdbnnrs|the Storm of the Hundred Banners]], which struck the eastern road in 315 AF: the forts were walled in the decades after ([[lore-eastroad|the Storm on the Eastern Road]]). Beside the first of them lie [the Burned Wells]{.name data-type="place/site"}, a ring of wells filled with carcasses in the host's wake and never cleared, which the garrison and the clans each blame on the other.
 
 That peace is nominal and growing thin. It rests on custom rather than treaty—on the clans' right to water at the wells and the caravans' right to pass
 unmolested, which each side keeps as long as the other does—and it depends
@@ -101,7 +101,7 @@ valley. Recent commanders have been soldiers of the ordinary Khelathi kind who
 see a desert people as a nuisance to be managed rather than a neighbor to be
 dealt with: wells closed to clan herds, tolls raised on Dunhari caravans,
 hostages taken after a raid and not returned. Each such act has cost a
-skirmish, and each skirmish a negotiation that failed. The [[affiliation-qeztu|Faith of Qeztu]] is
+skirmish, and each skirmish a negotiation that failed. The [[affiliation-qeztu|cult of Qeztu]] is
 strong in the forts, as it is on every Khelathi frontier, and its priests
 preach no patience with nomads.
 

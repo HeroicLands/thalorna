@@ -246,7 +246,7 @@ A line of bark has been stripped from the oak at the height of your head, in lon
 
 # Dossier {#dossier}
 
-The Great Stag is the giant red deer of the deep woods, over six feet at the shoulder, with antlers spanning nine to ten feet. A herd of does and young animals under one dominant stag lives in the old oak and beech woods of [[place-vrystwald|Vristwald]], the woodland of [[place-aureldirgn|Aureldia Region]] and [[place-silvrfrsts|The Silver Forests]] of [[place-elavendre|Élavendre]]. The stag is peaceful until he has a territory, a doe or his standing to defend, and then he fights with total determination.
+The Great Stag is the giant red deer of the deep woods, over six feet at the shoulder, with antlers spanning nine to ten feet. A herd of does and young animals under one dominant stag lives in the old oak and beech woods of [[place-vrystwald|Vristwald]], the woodland of [[place-aureldirgn|Aureldia]] and [[place-silvrfrsts|the Silver Forests]] of [[place-elavendre|Élavendre]]. The stag is peaceful until he has a territory, a doe or his standing to defend, and then he fights with total determination.
 
 ## Presentation
 

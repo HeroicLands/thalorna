@@ -396,7 +396,7 @@ Ashara Harordas is a 34-year-old woman who stands 6'0" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria Region]] to a guilded family of [[lore-vylarianclt|Vylarian]] heritage, Ashara Harordas is a swordmaster.
+Born in the [[place-vylariargn|Vylaria region]] to a guilded family of [[lore-vylarianclt|Vylarian]] heritage, Ashara Harordas is a swordmaster.
 
 Ashara is a skilled duelist who made a name for herself in the city's fencing circles. After winning several prestigious tournaments, she opened her own fencing school, where she trains young nobles and skilled fighters alike. Her quick reflexes and sharp eye make her a dangerous opponent, but she can be overly competitive, sometimes letting her pride get the better of her.
 

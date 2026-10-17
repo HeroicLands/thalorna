@@ -97,15 +97,15 @@ Principal adherents
 Ancestral origin
 : [[lore-pelwarpepl|Pelwar People]]
 
-The **Old Way** is the shamanic faith of the [[lore-aelendnppl|Áelendan People]]. It is the oldest continuously practiced religious tradition on the [[place-ankrscntnnt|Ankaris Continent]]—a tradition that was already ancient when the ancestors of the Áelendan settled the mountainous interior of [[place-elavendre|Élavendre]], and that has been preserved, generation by generation, by the tribal communities who carried it. Where other Pelwar peoples set the old faith aside as they built kingdoms and adopted the organized pantheons of the settled world, the Áelendan kept it.
+The **Old Way** is the shamanic faith of the [[lore-aelendnppl|Áelendan]]. It is the oldest continuously practiced religious tradition on the [[place-ankrscntnnt|Ankaris Continent]]—a tradition that was already ancient when the ancestors of the Áelendan settled the mountainous interior of [[place-elavendre|Élavendre]], and that has been preserved, generation by generation, by the tribal communities who carried it. Where other Pelwar peoples set the old faith aside as they built kingdoms and adopted the organized pantheons of the settled world, the Áelendan kept it.
 
-The Old Way has no scripture, no temples in the sense that the clergy of the [[affiliation-arldnpnthn|Aureldian Pantheon]] would recognize, and no centralized hierarchy. Its teachings are carried in song, in ceremony, in the relationships between the tribes and the land they inhabit, and in the accumulated lore of the shamen.
+The Old Way has no scripture, no temples in the sense that the [[affiliation-arldnpnthn|Aureldian clergy]] would recognize, and no centralized hierarchy. Its teachings are carried in song, in ceremony, in the relationships between the tribes and the land they inhabit, and in the accumulated lore of the shamen.
 
 ## Cosmology
 
-The Old Way's cosmology is not a catalog of named gods with defined portfolios. It is a single great antinomy: [[affiliation-firstgods#the-bright|The Bright]] and [[affiliation-firstgods#the-dark|The Dark]], the two primordial Powers of [[affiliation-firstgods|The First Gods]] locked in perpetual struggle. From their struggle arises the turning of the world—the alternation of day and night, of summer and winter, of growth and decay, of life and death. Neither Power is evil; neither is wholly good. Both are necessary. The world exists because they contend.
+The Old Way's cosmology is not a catalog of named gods with defined portfolios. It is a single great antinomy: [[affiliation-firstgods#the-bright|the Bright]] and [[affiliation-firstgods#the-dark|the Dark]], the two primordial Powers of [[affiliation-firstgods|the First Gods]] locked in perpetual struggle. From their struggle arises the turning of the world—the alternation of day and night, of summer and winter, of growth and decay, of life and death. Neither Power is evil; neither is wholly good. Both are necessary. The world exists because they contend.
 
-Between the Two Powers and mortal life stand [[lore-thekindred|The Kindred]]—the innumerable servant spirits of the First Gods. These are the spirits of animals, of groves, of rivers and lakes, of stones and peaks, of hearths and thresholds. Some serve the Bright, some the Dark, some both. They are the living presence of the First Gods in the mortal world, and they are the focus of active Áelendan religious practice—not as objects of worship, but as spirits to be **venerated, appeased, or warded against** as each relationship and circumstance requires.
+Between the Two Powers and mortal life stand [[lore-thekindred|the Kindred]]—the innumerable servant spirits of the First Gods. These are the spirits of animals, of groves, of rivers and lakes, of stones and peaks, of hearths and thresholds. Some serve the Bright, some the Dark, some both. They are the living presence of the First Gods in the mortal world, and they are the focus of active Áelendan religious practice—not as objects of worship, but as spirits to be **venerated, appeased, or warded against** as each relationship and circumstance requires.
 
 This three-layered cosmology—Two Powers above, Kindred between, mortals below—is the basic map of the Old Way. It is not a cosmology of temples and altars. It is a cosmology of relationships.
 
@@ -143,7 +143,7 @@ Offerings are usually simple and specific to the recipient: food, drink, blood, 
 
 ## Relation to the Kindred Pact
 
-The Old Way is not the same thing as the **[Kindred Pact]{.name data-type="lore/law"}**—the ancient compact between the Áelendan and the land, the fae, and the older powers that dwell at the thin places. The Kindred Pact is a specific sacred agreement whose terms are guarded by the [[affiliation-alndnwrdns|Áelendan Wardens]]. The Old Way is the broader faith within which that compact is understood and maintained.
+The Old Way is not the same thing as the **[Kindred Pact]{.name data-type="lore/law"}**—the ancient compact between the Áelendan and the land, the fae, and the older powers that dwell at the thin places. The Kindred Pact is a specific sacred agreement whose terms are guarded by the [[affiliation-alndnwrdns|Wardens]]. The Old Way is the broader faith within which that compact is understood and maintained.
 
 A shaman is not the same thing as a Warden, though individual Áelendan sometimes hold both roles. The shamen are concerned with the Kindred and with the tribes' ongoing religious life; the Wardens are concerned with the physical integrity of the sacred sites and the enforcement of the Kindred Pact's terms. The two offices work together, but they are distinct.
 

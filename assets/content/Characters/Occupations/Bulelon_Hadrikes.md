@@ -396,7 +396,7 @@ Bulelon Hadrikes is a 41-year-old man who stands 5'7" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Bulelon Hadrikes is a scholar of [[place-theradon2|Theradon]], the philosophers' city of [[place-helionis|Helionis]], a [[lore-helioniteclt|Helionite]] of an old house who lectures at the city's [[affiliation-panepistmm|Epistémion]] (the Academy of Knowledge) chapterhouse on the history of [[lore-helionscnq|The Conquest of Helionis]] and digs for what the record left out.
+Bulelon Hadrikes is a scholar of [[place-theradon2|Theradon]], the philosophers' city of [[place-helionis|Helionis]], a [[lore-helioniteclt|Helionite]] of an old house who lectures at the city's [[affiliation-panepistmm|Epistémion]] (the Academy of Knowledge) chapterhouse on the history of [[lore-helionscnq|the Vylarian conquest]] and digs for what the record left out.
 
 Bulelon comes of a house that has sat in the assembly of Theradon for six generations, and the assembly's oligarchs hold that a Theradon citizen's duty is to know more than anyone else. He took the duty literally. He has spent twenty-five years on the Helionite city-states before and during the conquest, reading in the chapterhouse's library, which holds texts older than the empire, and traveling to the old battlefields and the ruins of the mage-warlords' seats to find what nobody has read. He lectures to full halls, and his students leave knowing what the old texts say and where the record stops. It stops, he has found, at the same place every time: [[lore-ridersdisb|The Lease Refused]] (the disbanding of the [Dragon Riders]{.name data-type="affiliation"}), of which the [Vylarian Republic]{.name data-type="affiliation/polity"}'s histories say nothing honest and the chapterhouse's oldest fragments say something. He has no idea how much of what he says in a lecture hall is heard outside it.
 
@@ -426,7 +426,7 @@ Bulelon's patrons are the oligarchs of the Theradon assembly, who fund the chapt
 
 ### Enemies
 
-A lecturer of the chapterhouse who holds that the conquest is settled history and Bulelon's questions are vanity; and the chapterhouse's senior officer, who answers to [[affiliation-ordoarcanis|Thordimalon]] and has begun to ask what the old man is digging for.
+A lecturer of the chapterhouse who holds that the conquest is settled history and Bulelon's questions are vanity; and the chapterhouse's senior officer, who answers to [[affiliation-ordoarcanis|the Arcane Order]] and has begun to ask what the old man is digging for.
 
 ## Plot Hooks
 

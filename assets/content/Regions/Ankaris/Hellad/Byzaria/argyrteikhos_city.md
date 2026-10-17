@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [byzariargn], population: 35000, govern
 
 ## Overview
 
-The caravans that cross the eastern mountains reach **Argirteikhos** before they reach anything else in the [[affiliation-byzarianlg|Bizarian League]], and the first thing they meet is a wall. The Silver Citadel sits astride the principal pass connecting the [[place-byzariargn|Bizaria Region]] to the eastern lands, and its fortress walls are among the most formidable in the region. About 35,000 people live in it, the smallest of the five League capitals, and it carries the League's weight in the east.
+The caravans that cross the eastern mountains reach **Argirteikhos** before they reach anything else in the [[affiliation-byzarianlg|Bizarian League]], and the first thing they meet is a wall. The Silver Citadel sits astride the principal pass connecting [[place-byzariargn|Bizaria]] to the eastern lands, and its fortress walls are among the most formidable in the region. About 35,000 people live in it, the smallest of the five League capitals, and it carries the League's weight in the east.
 
 ## Who Governs
 

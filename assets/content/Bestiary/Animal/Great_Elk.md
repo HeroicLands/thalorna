@@ -246,7 +246,7 @@ The mud at the river's edge has been trodden to a trough by hundreds of cloven h
 
 # Dossier {#dossier}
 
-The Great Elk is the giant deer of the northern forests and plains, a bull standing nearly eight feet at the shoulder and weighing close to a ton. Herds range the birch and pine forest of the [[place-nrdlndsrgn|Nordlands Region]], the river valleys and mixed woodland of [[place-vrystwald|Vristwald]] and the forest-steppe of [[place-velanthrgn|Velanthia Region]], moving hundreds of miles between summer and winter ground by routes handed down over generations. They are peaceful until the rut and fierce in defence of calves.
+The Great Elk is the giant deer of the northern forests and plains, a bull standing nearly eight feet at the shoulder and weighing close to a ton. Herds range the birch and pine forest of the [[place-nrdlndsrgn|Nordlands]], the river valleys and mixed woodland of [[place-vrystwald|Vristwald]] and the forest-steppe of [[place-velanthrgn|Velanthia]], moving hundreds of miles between summer and winter ground by routes handed down over generations. They are peaceful until the rut and fierce in defence of calves.
 
 ## Presentation
 
@@ -262,7 +262,7 @@ Elk travel in herds of a few animals to several dozen, along fixed routes to sum
 
 ## What the Hunting Companies Do
 
-The hunting companies of Vristwald follow the elk on their migrations and plan a season's hunting around the herd's route. A bull is a month's meat for a company, and the antlers and the hide are traded south. In the rut a bull will attack a man on foot, and the hunters work from a stand or from the saddle. Whole villages depend on a good run: when a herd takes another route, as it did for the [Garskald]{.name data-type="affiliation/polity"} when the [Hildskorn]{.name data-type="affiliation/polity"} country drew it away, the hunters go hungry. The great antlers are set over the doors of clan halls.
+The hunting companies of Vristwald follow the elk on their migrations and plan a season's hunting around the herd's route. A bull is a month's meat for a company, and the antlers and the hide are traded south. In the rut a bull will attack a man on foot, and the hunters work from a stand or from the saddle. Whole villages depend on a good run: when a herd takes another route, as it did for the [Garskald]{.name data-type="affiliation/lineage"} when the [Hildskorn]{.name data-type="affiliation/lineage"} country drew it away, the hunters go hungry. The great antlers are set over the doors of clan halls.
 
 ## Signs
 

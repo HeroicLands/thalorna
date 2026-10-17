@@ -417,7 +417,7 @@ sohl:
 
 ![[minakprkhn|Minaka Parikshuna]]{float=top-left}
 
-Minaka Parikshuna stands 5'9" tall with a heavy build. She has warm honey skin, greying dark brown hair, and hazel eyes. Her features include an oval face, a narrow nose, a tapered chin, generous lips, greying dark brows. A distinguishing mark is a tattoo of a horse on the thigh.
+Minaka stands 5'9" tall with a heavy build. She has warm honey skin, greying dark brown hair, and hazel eyes. Her features include an oval face, a narrow nose, a tapered chin, generous lips, greying dark brows. A distinguishing mark is a tattoo of a horse on the thigh.
 
 # Dossier {#dossier}
 
@@ -437,7 +437,7 @@ Beneath her demanding exterior runs a current of unexpected whimsy. She loves wo
 
 ### Motivation
 
-Minaka is driven by the pursuit of perfection in her craft and by a deep belief that food is more than nourishment—it is communication, art, and love made tangible. Every meal she creates is an expression of her mastery and her devotion to the families she serves. She is motivated as well by a desire to elevate the status of the culinary arts in [[lore-vedyariclt|Vedyari]] society, to prove that a cook is no less a master of her field than any scholar or merchant. She takes satisfaction in the knowledge that her work nourishes not just bodies but spirits.
+Minaka is driven by the pursuit of perfection in her craft and by a deep belief that food is more than nourishment—it is communication, art, and love made tangible. Every meal she creates is an expression of her mastery and her devotion to the families she serves. She is motivated as well by a desire to elevate the status of the culinary arts in [[lore-vedyariclt|Vedyaran]] society, to prove that a cook is no less a master of her field than any scholar or merchant. She takes satisfaction in the knowledge that her work nourishes not just bodies but spirits.
 
 ### Strengths
 

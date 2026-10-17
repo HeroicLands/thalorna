@@ -70,7 +70,7 @@ data:
 sohl: {system: {commonSkills: [taruzelilng]}}
 ---
 
-The **[House of Factors]{.name data-type="place/structure"}** stands above Sazumun's harbor, and the merchant guilds that meet in it hold absolute power in the city-state. Sazumun is one of the five island city-states of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], some 2.5 million people around the city of [[place-sazumun2|Sazumun]] at the mouth of the [[place-alzriver|Alz River]], and it is the conduit through which goods flow between the Dunhari desert trade that crosses the strait, the market towns of the islands and the sea routes that connect the [[place-taruzelrgn|Taruzel Region]] to the western realms.
+The **[House of Factors]{.name data-type="place/structure"}** stands above Sazumun's harbor, and the merchant guilds that meet in it hold absolute power in the city-state. Sazumun is one of the five island city-states of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], some 2.5 million people around the city of [[place-sazumun2|Sazumun]] at the mouth of the [[place-alzriver|Alz River]], and it is the conduit through which goods flow between the Dunhari desert trade that crosses the strait, the market towns of the islands and the sea routes that connect [[place-taruzelrgn|Taruzel]] to the western realms.
 
 Kind
 : port city-state, governed by its merchant guilds
@@ -91,7 +91,7 @@ Sazumun's people are a polyglot mixture of Taruzeli merchants, Dunhari traders, 
 
 ## Commerce and Currency
 
-The tariffs the House of Factors sets are paid in the [[lore-trzlncrncy|Taruzelian Currency]], issued under the **[Merazuni]{.name data-type="affiliation"}** of the [[affiliation-vezakuni|Vezakuni]]. Its denominations are the Vylarian ones—Solden, Ardin and Bit—on Taruzelian reserves rather than the Vylarian reserves of [[affiliation-tarmex|The Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. The Merazuni's moneylenders carry the banking; Vylarian script goes unhonored on Sazumun's quays, as Taruzelian script does in Vylarian territory.
+The tariffs the House of Factors sets are paid in the [[lore-trzlncrncy|Taruzelian currency]], issued under the **[Merazuni]{.name data-type="affiliation"}** of the [[affiliation-vezakuni|Vezakuni]]. Its denominations are the Vylarian ones—Solden, Ardin and Bit—on Taruzelian reserves rather than the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. The Merazuni's moneylenders carry the banking; Vylarian script goes unhonored on Sazumun's quays, as Taruzelian script does in Vylarian territory.
 
 ## See Also
 

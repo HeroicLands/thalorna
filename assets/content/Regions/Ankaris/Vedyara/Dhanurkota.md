@@ -14,7 +14,7 @@ data:
   government: dhnrktjnpd
 ---
 
-**Danurkota** (2,000) is fullest in the month before the spring equinox, when aspirants from every part of the [[place-vedyarargn|Vedyara Region]] and from three kingdoms beyond it climb the slope to [[place-bowfort|The Bow-Fort]] and every lodging-house in the town fills. It is the capital of the [[affiliation-dhnrktjnpd|Danurkota Janapoda]] and the bow-fort the janapoda is named for. It stands on a low hill where [[place-sarvadarivr|The Sarveda]] bends west round an outcrop of red rock, at the point the river comes out of the northern hills into the plain.
+**Danurkota** (2,000) is fullest in the month before the spring equinox, when aspirants from every part of [[place-vedyarargn|Vedyara]] and from three kingdoms beyond it climb the slope to [[place-bowfort|the bow-fort]] and every lodging-house in the town fills. It is the capital of the [[affiliation-dhnrktjnpd|Danurkota Janapoda]] and the bow-fort the janapoda is named for. It stands on a low hill where [[place-sarvadarivr|the Sarveda]] bends west round an outcrop of red rock, at the point the river comes out of the northern hills into the plain.
 
 The fort holds the [[affiliation-mahajaya|Mahajaya]] temple, the four academy halls, the sabhra chamber and the granary. The town proper spreads down the slope below the walls and along the riverbank. In extremity the walls take the whole janapoda, and the granary is stocked against that year by year.
 

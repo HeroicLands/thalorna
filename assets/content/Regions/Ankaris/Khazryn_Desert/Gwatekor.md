@@ -16,7 +16,7 @@ data:
 
 The ground changes first. A hundred miles north of the last steppe well the grass thins to moss, spruce stands in the hollows, and the first frozen bog takes a horse to the hock. Beyond that the forest does not stop until it meets the ice, and the people who live in it have never heard of the road.
 
-**Ghotaqor**, "the forest range" in the [[skill-sowideslng|Sovidur Language]], is the northern third of the [[place-khzryndsrtrgn|Khazryn Desert Region]]. It is the same cold-temperate forest that covers the upper [[place-velanthrgn|Velanthia Region]], all of [[place-targud|Targud]] and much of [[place-malagna|Malagna]], and from the Velanthian side it looks like a continuation of the same woods with fewer people in them. About 60,000 live in it, over a land the size of a kingdom.
+**Ghotaqor**, "the forest range" in [[skill-sowideslng|Sovidur]], is the northern third of the [[place-khzryndsrtrgn|Khazryn]]. It is the same cold-temperate forest that covers upper [[place-velanthrgn|Velanthia]], all of [[place-targud|Targud]] and much of [[place-malagna|Malagna]], and from the Velanthian side it looks like a continuation of the same woods with fewer people in them. About 60,000 live in it, over a land the size of a kingdom.
 
 ## Land and Water
 
@@ -26,13 +26,13 @@ Ghotaqor is spruce, larch and birch on sandy ridges, bog and standing water in e
 
 The bands are small, fifty to two hundred people, and they are unorganized in the sense that matters to a settled lord: no band has a chief who can bind another, no tribute is paid, and no war is fought except over a particular lake or a particular insult. On the coast the bands take seals at their breathing holes and fish through the ice, and live in turf houses dug into the lee of the rocks. Inland they follow the deer herds on foot and on sleds, and they come to the coast in summer to trade meat and hides for salt.
 
-Their furs go south. Sable, marten and ermine reach the market-camp at [[place-qisomrktcmp|Qiiso]] on the backs of Sovidur traders who go north each summer, and from there they travel on to the [[place-midhalnrgn|Mídhalión Region]]. The bands will take a stranger in who arrives hungry and half-frozen, because refusing him is bad luck, and will not take him in twice.
+Their furs go south. Sable, marten and ermine reach the market-camp at [[place-qisomrktcmp|Qiiso]] on the backs of Sovidur traders who go north each summer, and from there they travel on to [[place-midhalnrgn|Mídhalión]]. The bands will take a stranger in who arrives hungry and half-frozen, because refusing him is bad luck, and will not take him in twice.
 
 ## Dangers
 
 The cold is the first. The wolves and the great forest cats are the second, and the ground itself is the third. Travelers from the south underestimate how far a loaded sled can go in a day, and how many days a bog can hold a thaw.
 
-The hunters speak of places they avoid: a ridge where the stone has been cut into walls and passages no band of theirs made, a hollow in the forest where the snow does not lie. Travelers say the walls are halls of the [[lore-khazariclt|Khazari]] or works of [[lore-theithari|The Ithari]]. The bands say only that the cut stone was there before them and that no one comes back from the passages the same.
+The hunters speak of places they avoid: a ridge where the stone has been cut into walls and passages no band of theirs made, a hollow in the forest where the snow does not lie. Travelers say the walls are halls of the [[lore-khazariclt|Khazari]] or works of [[lore-theithari|the Ithari]]. The bands say only that the cut stone was there before them and that no one comes back from the passages the same.
 
 ## Hooks
 

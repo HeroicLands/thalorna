@@ -426,7 +426,7 @@ sohl:
 
 ![[githrrthlkhl|Githara Reth'el'Khelensu]]{float=top-left}
 
-Githara Reth'el'Khelensu stands 6'0" tall with a medium build. She has rich copper skin, deep black hair, and brown eyes. Her features include an oval face, an aquiline nose, a tapered chin, elegantly curved brows.
+Githara stands 6'0" tall with a medium build. She has rich copper skin, deep black hair, and brown eyes. Her features include an oval face, an aquiline nose, a tapered chin, elegantly curved brows.
 
 # Dossier {#dossier}
 
@@ -434,7 +434,7 @@ Born in the teak-rich highlands of the [[affiliation-empireakhlth|Empire of Au'K
 
 Over the past decade, Githara has established herself as the most discerning timber selector in the Au'Khelathu trade, known for rejecting logs that lesser wrights would accept without hesitation. Her reputation has made her useful to the finest carpenters and shipwrights, though this perfectionism has occasionally strained her relationships with merchants who measure success solely by quantity. She maintains a workshop in the sprawling timber yards of the central district, where she stores her collections of wood samples and her prized identification texts.
 
-Her devotion to the [[affiliation-gewaatis|Faith of Gewa'atis]] flows naturally from her work—she sees in each tree a potential journey, each grain a path waiting to be carved. She has begun mentoring younger craftspeople, particularly other women seeking to prove themselves in a traditionally male-dominated field, though she extends this guidance with the same rigorous standards by which she measures timber.
+Her devotion to [[affiliation-gewaatis|Gewa'atis the Voyager]] flows naturally from her work—she sees in each tree a potential journey, each grain a path waiting to be carved. She has begun mentoring younger craftspeople, particularly other women seeking to prove themselves in a traditionally male-dominated field, though she extends this guidance with the same rigorous standards by which she measures timber.
 
 ## Psyche
 

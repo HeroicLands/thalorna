@@ -67,11 +67,11 @@ data:
         - whether the storm was the Flame's working or a storm
 ---
 
-The Battle of the Blood Hills was [[affiliation-blackflame|The Black Flame]]'s most infamous battle, fought in the hills east of [[place-ceravelvale|Keravel Vale]], and the ground is still called **[[place-bloodhills|The Blood Hills]]**. The battle was the first great war between the two faiths of [[lore-ustarondty|Ústaron]], the Forge-Lord, and it was fought a generation after [[lore-ustaranschsm|The Ústaran Schism]] had split them.
+The Battle of the Blood Hills was [[affiliation-blackflame|the Black Flame]]'s most infamous battle, fought in the hills east of [[place-ceravelvale|Keravel]], and the ground is still called **[[place-bloodhills|the Blood Hills]]**. The battle was the first great war between the two faiths of [[lore-ustarondty|Ústaron]], the Forge-Lord, and it was fought a generation after [[lore-ustaranschsm|the Schism]] had split them.
 
 ## Two Faiths in One Province
 
-The [[affiliation-vylarinmpr|Vylarian Empire]]'s _therkoi_ (governors) in the western province permitted both faiths. [[affiliation-sacredforge|The Sacred Forge]] kept the temples and the endowments and the Flame kept what the Forge had not wanted, and in the frontier country east of [[place-aureliane|Aurelane]] the second grew faster than the first. By about 248 AF its war-bands had put themselves under one Ashlord, **[Hazarak Bloodhand]{.name data-type="being/npc"}**, a warlord known for his cruelty and his mastery of war, who carried the **[[scenario-maulgashng|Maul of Gashang]]**, a spiked mace the Flame's priest-artificers had made.
+The [[affiliation-vylarinmpr|Empire]]'s _therkoi_ (governors) in the western province permitted both faiths. [[affiliation-sacredforge|The Sacred Forge]] kept the temples and the endowments and the Flame kept what the Forge had not wanted, and in the frontier country east of [[place-aureliane|Aurelane]] the second grew faster than the first. By about 248 AF its war-bands had put themselves under one Ashlord, **[Hazarak Bloodhand]{.name data-type="being/npc"}**, a warlord known for his cruelty and his mastery of war, who carried the **[[scenario-maulgashng|Maul of Gashang]]**, a spiked mace the Flame's priest-artificers had made.
 
 Hazarak's bands burned the Forge's temples along the Tarvénian frontier, and the Forge called out its knights. The _therkos_, who held that the law protected both faiths, did not move a legion.
 
@@ -85,17 +85,17 @@ The two hosts met in the hills east of Keravel. The [Cohorts of Gashang]{.name d
 
 The storm cleared to a hillside strewn with the dead, and the Flame's zealots and the Forge's knights each tried to get back to the maul. Neither side held the field long enough to take it. The Flame's loyalists found it in time and moved it to a cave shrine nearby, where they set traps to keep it for a worthy successor.
 
-The Forge made the battle its own. It had beaten the Flame at the cost of its knights, and in the province the victory is its own. The Empire's _therkoi_, who had watched the whole of it from Aurelane, drew the conclusion that the quarrel was one the province's faiths would settle among themselves. The Forge drew another, and it carried the grievance against an Empire that would not choose between the faiths for the next three and a half centuries ([[lore-charterwar|The War of the Charter]]).
+The Forge made the battle its own. It had beaten the Flame at the cost of its knights, and in the province the victory is its own. The Empire's _therkoi_, who had watched the whole of it from Aurelane, drew the conclusion that the quarrel was one the province's faiths would settle among themselves. The Forge drew another, and it carried the grievance against an Empire that would not choose between the faiths for the next three and a half centuries ([[lore-charterwar|the War of the Charter]]).
 
 ## What It Left
 
 - **The Blood Hills.** A blood-field east of Keravel ([[place-bloodhills|The Blood Hills]]).
 - **The Gashang shrine.** A cave the zealots made, whose traps still guard the relic ([[scenario-maulgashng|The Maul of Gashang]]).
-- **The Forge's standing in the [[place-provenzrgn|Provenzia Region]].** The faith's greatest influence and the seat of its Hamsarnor.
+- **The Forge's standing in [[place-provenzrgn|Provenzia]].** The faith's greatest influence and the seat of its Hamsarnor.
 
 ## See Also
 
 - [[place-bloodhills|The Blood Hills]]—the ground the battle left
-- [[affiliation-sacredforge|The Sacred Forge]] · [[affiliation-blackflame|The Black Flame]]
+- [[affiliation-sacredforge|The Sacred Forge]] · [[affiliation-blackflame|the Black Flame]]
 - [[lore-ustaranschsm|The Ústaran Schism]]—the split that made the two faiths
 - [[lore-charterwar|The War of the Charter]]—where the Forge's grievance came due

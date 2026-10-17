@@ -12,17 +12,17 @@ Everyone who reaches Draskborg has lost something on the road. The fortress stan
 
 ## The Beacon-Tower
 
-[Braldmil I]{.name data-type="being/npc"}, the son of [Skruldmil II]{.name data-type="being/npc"}, raised Draskborg and the beacon line on the ground the horde had burned, about 640, so that a raid seen on the frontier is known at Tvalgard the same night. [[lore-burningeast|The Burning of the East]] tells the war that made the ground, and [[lore-trgdahstry|Histories and Legends of Targud]] sets the raising in the kingdom's account.
+[Braldmil I]{.name data-type="being/npc"}, the son of [Skruldmil II]{.name data-type="being/npc"}, raised Draskborg and the beacon line on the ground the horde had burned, about 640, so that a raid seen on the frontier is known at Tvalgard the same night. [[lore-burningeast|The Burning of the East]] tells the war that made the ground, and [[lore-trgdahstry|Targud Histories]] sets the raising in the kingdom's account.
 
 The tower was raised to watch the river and not to hold it. A palisade surrounds the rise, with one gate on the Tvalgard side, the tower with the beacon laid on top of it, and a hall under the tower that sleeps two shifts. The whole of its duty is to see what comes up the river, to light the _dresk_ so that Tvalgard sees it, and to hold the gate until Tvalgard comes. It is cold.
 
-Every bundi of the [[affiliation-kingdmtrgd|Kingdom of Targud]] stands his weeks at the forts in his turn, and a hirvman of the king keeps the tower. The turn in the dark months is the one no district wants: when the river freezes the [[lore-grukarfolk|Grukar Folk]] have a road, and it comes up past Draskborg. [[lore-storalddraskborg|Storald of Draskborg]] is the saga of one such winter.
+Every bundi of [[affiliation-kingdmtrgd|Targud]] stands his weeks at the forts in his turn, and a hirvman of the king keeps the tower. The turn in the dark months is the one no district wants: when the river freezes the [[lore-grukarfolk|Grukar]] have a road, and it comes up past Draskborg. [[lore-storalddraskborg|Storald of Draskborg]] is the saga of one such winter.
 
 ## The Refugee Fortress
 
 A fortress full of refugees is worth exactly what its walls are worth on the day an enemy comes up the slope. Draskborg's danger is a siege by a host far larger than anything its garrison can meet in the field. Holding it means organizing a defense out of whatever the refugees can carry, and keeping the walls manned long enough for reinforcements to arrive, if they come at all.
 
-The songs of [[doc-heroessgrd|Heroes of Asguard]] put [[being-krldthnshldbr|Krildthann Shieldbearer]] on its walls in [The Age of Halls]{.name data-type="lore/calendar"}, a man whose reputation was built on protecting the people who cannot protect themselves, and the gate-wardens still open the gate in his name. Those songs set the fortress in the Age of Halls, before Targud had kings, while the Targud histories date the tower to Braldmil I. Whether the tower stands on the height the songs sing is not settled by either account. A defender who means to hold Draskborg now holds it with refugees who know the song by heart.
+The songs of the [[doc-heroessgrd|Heroes of Asguard]] put [[being-krldthnshldbr|Krildthann Shieldbearer]] on its walls in [The Age of Halls]{.name data-type="lore/calendar"}, a man whose reputation was built on protecting the people who cannot protect themselves, and the gate-wardens still open the gate in his name. Those songs set the fortress in the Age of Halls, before Targud had kings, while the Targud histories date the tower to Braldmil I. Whether the tower stands on the height the songs sing is not settled by either account. A defender who means to hold Draskborg now holds it with refugees who know the song by heart.
 
 ## The Name
 

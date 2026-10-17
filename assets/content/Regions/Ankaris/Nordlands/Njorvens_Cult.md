@@ -39,7 +39,7 @@ sohl: {system: {commonSkills: []}}
 
 ## What the Cult Wants
 
-Njorven was overthrown long ago—by Thrunvald, according to the tellings—and put into a watery prison beneath the northern seas, and it is stirring now. The cult's aim is to see it loose, which puts the cult in direct opposition to [[lore-njordurritlbinding|The Ritual of Binding]]: the rite needs a specific hidden coastal temple, a long working, and an invoker who cannot defend themselves while they work it, and those are three things a faction that wants the prison open has every reason to attack.
+Njorven was overthrown long ago—by Thrunvald, according to the tellings—and put into a watery prison beneath the northern seas, and it is stirring now. The cult's aim is to see it loose, which puts the cult in direct opposition to [[lore-njordurritlbinding|the Ritual of Binding]]: the rite needs a specific hidden coastal temple, a long working, and an invoker who cannot defend themselves while they work it, and those are three things a faction that wants the prison open has every reason to attack.
 
 ## How It Spreads
 

@@ -18,4 +18,4 @@ In the Asguardian tradition, Ódvarsholl is [[lore-odvardty|Odvar]]'s hall, stan
 
 Seating is the hall's whole government. A man's place along the bench is his standing, the standing is what he died with, and it is reckoned once and not revisited—no deed is done in Ódvarsholl that could move a man up the room. The high seat is Odvar's, the seats beside it are the ones the sagas argue over, and the door-seat is nobody's disgrace.
 
-The [Feast of Valsal]{.name data-type="lore/gathering"} is kept in [[place-worldthlrn|The World of Thalorna]] on the same account: the mead poured at a hov on that night is poured for men who are eating already. The clergy of the [[affiliation-odvar|Faith of Odvar]] are careful to say that the living are joining the hall's feast rather than sending anything up to it.
+The [Feast of Valsal]{.name data-type="lore/gathering"} is kept in [[place-worldthlrn|Mannguard]] on the same account: the mead poured at a hov on that night is poured for men who are eating already. The clergy of the [[affiliation-odvar|Faith of Odvar]] are careful to say that the living are joining the hall's feast rather than sending anything up to it.

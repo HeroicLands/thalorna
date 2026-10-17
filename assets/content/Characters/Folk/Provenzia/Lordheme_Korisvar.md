@@ -36,4 +36,4 @@ Lordeme Kórisvar is a 74-year-old man who stands 6'0" tall with a heavy build. 
 
 # Dossier {#dossier}
 
-Lordeme Kórisvar was the father of [[being-arnelkrsvr|Arnela Kórisvar]], a lord and a cautious man who kept his head down during the political maneuvering between the crown and the [Council of Peers]{.name data-type="affiliation/governmental"}. A merchant from the [[place-taruzelrgn|Taruzel Region]] suggests in documents that he borrowed heavily near the end of his life to cover losses, and that the debts were sold and resold.
+Lordeme Kórisvar was the father of [[being-arnelkrsvr|Arnela Kórisvar]], a lord and a cautious man who kept his head down during the political maneuvering between the crown and the [Council of Peers]{.name data-type="affiliation/governmental"}. A merchant from [[place-taruzelrgn|Taruzel]] suggests in documents that he borrowed heavily near the end of his life to cover losses, and that the debts were sold and resold.

@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-**Gar-Qeztu Selat** is garrison country, and the land of [[affiliation-selatgarqezt|The Selat of Gar-Qeztu]], one of [[affiliation-borderselatu|The Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], within the [[place-aukhelathrgq|Au'Khelathu Region]].
+**Gar-Qeztu Selat** is garrison country, and the land of [[affiliation-selatgarqezt|the Selat of Gar-Qeztu]], one of [[affiliation-borderselatu|the Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 
@@ -26,7 +26,7 @@ A cadet sent to the officer schools sees the selat's purpose in a morning: carts
 ## Settlements
 
 [[place-garqeztu|Gar-Qeztu]] (~13,000)
-: the selat capital and the seat of the Halzi'a, with the chief temple of the [[affiliation-qeztu|Faith of Qeztu]].
+: the selat capital and the seat of the Halzi'a, with the chief temple of [[affiliation-qeztu|Qeztu]].
 
 The villages and estate-towns
 : a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

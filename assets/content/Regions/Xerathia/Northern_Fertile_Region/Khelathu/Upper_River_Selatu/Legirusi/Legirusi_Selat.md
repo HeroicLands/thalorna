@@ -21,7 +21,7 @@ The stone leaves [[place-legirusi|Legirusi]] on the flood.
 
 "Mind the lines," a barge pilot tells a passenger at a quarry landing in [[lore-azletssn|Azlet]], the season of inundation, while a gang walks a block down the ramp. "Any other month the river is a mile from this cliff. Now it laps the ramp, and a barge loaded by noon can float right up to the desert edge of the tomb or temple the block is cut for."
 
-Legirusi Selat is the land of [[affiliation-selatlegirus|The Selat of Legirusi]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
+Legirusi Selat is the land of [[affiliation-selatlegirus|the Selat of Legirusi]], one of [[affiliation-upperrivrslt|the Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 

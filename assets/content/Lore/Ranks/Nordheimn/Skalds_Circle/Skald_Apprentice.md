@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-"Your life is mine until I judge you fit to compose your first saga," a master tells the Geldrir, the pupil he has chosen. "Until the assembled skalds accept it, [[affiliation-skaldscrcl|The Skalds' Circle]] owes you nothing. If they reject it three times, we part without recrimination and without rank."
+"Your life is mine until I judge you fit to compose your first saga," a master tells the pupil he has chosen. "Until the assembled skalds accept it, [[affiliation-skaldscrcl|the Circle]] owes you nothing. If they reject it three times, we part without recrimination and without rank."
 
 ## What This Standing Is
 

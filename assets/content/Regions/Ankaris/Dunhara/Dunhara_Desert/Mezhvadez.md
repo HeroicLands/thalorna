@@ -18,7 +18,7 @@ In the deep sand south of the long wells there is a place the tribes name Mezhva
 
 ## What Lies There
 
-The stair descends in broad flights, each landing carved with figures: women in long veils bearing jars and keys, and between them, higher up the wall, men with their faces chiseled away. Below the stair is a vault, wider than any tent, with a roof held on pillars of a stone not found in the [[place-dunharargn|Dunhara Region]]. Along the walls are alcoves for the dead, each sealed with a slab, and in the middle a raised dais where the keeper lies. The air is dry and sweet and holds no smell of rot. The dead are not rotten, and nothing in the place disturbs them.
+The stair descends in broad flights, each landing carved with figures: women in long veils bearing jars and keys, and between them, higher up the wall, men with their faces chiseled away. Below the stair is a vault, wider than any tent, with a roof held on pillars of a stone not found in the [[place-dunharargn|Dunhara]]. Along the walls are alcoves for the dead, each sealed with a slab, and in the middle a raised dais where the keeper lies. The air is dry and sweet and holds no smell of rot. The dead are not rotten, and nothing in the place disturbs them.
 
 The vault is a tomb, which marks it as foreign. The Dunhari carry their dead deep into the desert and kindle a fire where the body is set down, so that no tomb stands to be kept and no grave to be robbed. A people who build vaults under the sand are not the people of the tribes, and the poets do not claim them. Their account of the Dunhara begins after Mezhvadez and says nothing of what came before.
 
@@ -32,13 +32,13 @@ The vault is a tomb, which marks it as foreign. The Dunhari carry their dead dee
 
 ## What It Is
 
-Whatever the king's people believed, their dead are held to the world by [[lore-theshadow|The Shadow]], the chaos outside creation from which every undead thing stems. The retainers sealed in the alcoves are **dust-sworn**, bodies dried by the vault's air and kept moving by something that is not breath. They guard. They do not hunt. The keeper at the center of the vault is something more, because she was set there to keep a door, and the door is not a door into the earth.
+Whatever the king's people believed, their dead are held to the world by [[lore-theshadow|the Shadow]], the chaos outside creation from which every undead thing stems. The retainers sealed in the alcoves are **dust-sworn**, bodies dried by the vault's air and kept moving by something that is not breath. They guard. They do not hunt. The keeper at the center of the vault is something more, because she was set there to keep a door, and the door is not a door into the earth.
 
-The priests of the [[affiliation-ashanpnthn|Ashaian Pantheon]] of the cities say that the dead of Mezhvadez have taken the [Druj]{.name data-type="lore/cosmology"} in their mouths and that the bridge is a razor for them. The tribes say nothing and avoid the place.
+The [[affiliation-ashanpnthn|Ashaian priests]] of the cities say that the dead of Mezhvadez have taken the [Druj]{.name data-type="lore/cosmology"} in their mouths and that the bridge is a razor for them. The tribes say nothing and avoid the place.
 
 ## Who Wants It
 
-Sheikhs and poets avoid it. Others do not. Merchants of [[place-qarvelakhend|Qarvelakhend]] buy grave-goods from any guide willing to bring them out, and a _tagemader_ of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] is known to hunger for the king's seal, which would prove a line older than the Shebarader's. [[affiliation-wrrscrcldnhrtrbs|The Warrior's Circle of the Dunhara Tribes]] treats the vault as an outside enemy asleep and sends nobody.
+Sheikhs and poets avoid it. Others do not. Merchants of [[place-qarvelakhend|Qarvelakhend]] buy grave-goods from any guide willing to bring them out, and a _tagemader_ of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] is known to hunger for the king's seal, which would prove a line older than the Shebarader's. [[affiliation-wrrscrcldnhrtrbs|The Warrior's Circle]] treats the vault as an outside enemy asleep and sends nobody.
 
 ## Reaching It
 

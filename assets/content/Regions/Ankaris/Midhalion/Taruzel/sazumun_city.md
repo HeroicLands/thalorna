@@ -14,7 +14,7 @@ The harbor at Sazumun never sleeps. The city sprawls along a natural harbor at t
 
 ## What It Does
 
-Sazumun is the conduit through which goods flow between the Dunhari desert trade that crosses the strait, the market towns of the islands and the sea routes that connect the [[place-taruzelrgn|Taruzel Region]] to the western realms. One of the five island city-states of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], it earns its living from what passes through it.
+Sazumun is the conduit through which goods flow between the Dunhari desert trade that crosses the strait, the market towns of the islands and the sea routes that connect [[place-taruzelrgn|Taruzel]] to the western realms. One of the five island city-states of the [[affiliation-cnfdrtntrzlnstts|Confederation]], it earns its living from what passes through it.
 
 ## Who Governs
 
@@ -22,7 +22,7 @@ The merchant guilds hold absolute power, and their councils meet in the towering
 
 ## Who Lives Here
 
-The population is a polyglot mixture of Taruzeli merchants, Dunhari traders, [[affiliation-ashanpnthn|Ashaian]] priests and adventurers from every corner of the known world. The city keeps an uneasy religious balance, with temples of the [[affiliation-arldnpnthn|Aureldian Pantheon]] standing near shrines of the Ashaian gods, and the merchant councils recognize both as legitimate paths. Sazumun uses the [[lore-trzlncrncy|Taruzelian Currency]], and the Vylarian script is not honored here. See [[lore-trzlncrncy|Taruzelian Currency]].
+The population is a polyglot mixture of Taruzeli merchants, Dunhari traders, [[affiliation-ashanpnthn|Ashaian]] priests and adventurers from every corner of the known world. The city keeps an uneasy religious balance, with temples of the [[affiliation-arldnpnthn|Aureldian pantheon]] standing near shrines of the Ashaian gods, and the merchant councils recognize both as legitimate paths. Sazumun uses the [[lore-trzlncrncy|Taruzelian currency]], and the Vylarian script is not honored here. See [[lore-trzlncrncy|Taruzelian Currency]].
 
 ## See Also
 

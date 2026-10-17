@@ -413,7 +413,7 @@ sohl:
 
 ![[thiryegezaqe|Thirye Gez'Aqeu]]{float=top-left}
 
-Thirye Gez'Aqeu stands 5'4" tall with a light build. She has dark skin, black hair, and brown eyes. Her features include a narrow face, a slightly arched nose, a smooth jawline, and elegantly curved brows. She has a tattoo of a dragonfly on her neck.
+Thirye stands 5'4" tall with a light build. She has dark skin, black hair, and brown eyes. Her features include a narrow face, a slightly arched nose, a smooth jawline, and elegantly curved brows. She has a tattoo of a dragonfly on her neck.
 
 # Dossier {#dossier}
 
@@ -437,7 +437,7 @@ Behind her luminous stage presence, Thirye battles inner demons that threaten to
 
 Thirye is both intense and fragile, confident on stage and uncertain in life. On the boards, she is commanding, magnetic, fully present—a presence that seems to enlarge to fill entire amphitheaters. Away from performance, she becomes noticeably quieter, more reserved, almost tentative in company. She is a sharp observer, constantly studying people, collecting mannerisms and speech patterns, always somewhat in performance even in ostensibly private moments.
 
-Her creativity is extraordinary and seems almost to drive her; she experiences the world through an artistic lens, constantly considering how situations might be portrayed, how emotions might be expressed through movement and voice. She is deeply spiritual, approaching her art as a sacred practice devoted to the [[affiliation-thubai|Faith of Thuba'i]] and the cosmic principle of transformation. Yet this same intensity can render her emotionally volatile—she experiences moods with theatrical extremity, swinging between exultant confidence and bottomless despair often without apparent external cause. Those close to her have learned to weather these emotional storms, understanding that they are intrinsic to the tempestuous genius that makes her such a compelling performer.
+Her creativity is extraordinary and seems almost to drive her; she experiences the world through an artistic lens, constantly considering how situations might be portrayed, how emotions might be expressed through movement and voice. She is deeply spiritual, approaching her art as a sacred practice devoted to [[affiliation-thubai|Thuba'i]] and the cosmic principle of transformation. Yet this same intensity can render her emotionally volatile—she experiences moods with theatrical extremity, swinging between exultant confidence and bottomless despair often without apparent external cause. Those close to her have learned to weather these emotional storms, understanding that they are intrinsic to the tempestuous genius that makes her such a compelling performer.
 
 She maintains careful control over her public image, always gracious to admirers and patrons, yet hoards her true friendships fiercely and guards her private self with almost paranoid vigilance. There is a loneliness at her core—a sense that to be truly known would be to be diminished, that her mystique is inseparable from her artistic power.
 
@@ -517,7 +517,7 @@ Critic [[being-gathamose2|Gathamose]]
 City Theater Company
 : A senior member of the ensemble, though not yet achieving official leadership status; she is the Company's most celebrated performer and acts as a subtle informal mentor to younger actresses.
 
-[[affiliation-linshelunthb|Lin'Shelun elu Thuba'i]]
+The [[affiliation-linshelunthb|Lin'Shelun elu Thuba'i]]
 : A group of performers, painters, and musicians dedicated to exploring the spiritual dimensions of art and maintaining the Khelathi artistic traditions; Thirye is a committed though sometimes erratic participant.
 
 ## Plot Hooks

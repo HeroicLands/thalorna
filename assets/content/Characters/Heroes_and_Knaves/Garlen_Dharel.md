@@ -420,7 +420,7 @@ sohl:
 
 ![[garlendhrl|Garlen Darel]]{float=top-left}
 
-Garlen Darel stands 5'11" tall with a medium build. He has light tanned skin, black hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, and expressive brows. He has a scar running down his right leg.
+Garlen stands 5'11" tall with a medium build. He has light tanned skin, black hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, and expressive brows. He has a scar running down his right leg.
 
 # Dossier {#dossier}
 

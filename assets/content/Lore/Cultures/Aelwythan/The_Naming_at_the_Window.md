@@ -20,7 +20,7 @@ data:
 # terran_analog: "The early medieval elegies of exile and ruin, The Wanderer and The Ruin, for the hall gone to nettles and the roll of what is lost; the Irish and Highland laments said over the dead by the women of the house; the household naming of the dead at an autumn feast of the dead."
 ---
 
-**The Naming at the Window** is the lament a woman of [[place-wyndmarch|The Wyndmarch]] says at her window on the first night of the [Festival of the Silent Passage]{.name data-type="lore/gathering"}, the three days in late autumn when temples of the [[affiliation-selmoros|Faith of Sélmoros]] close to the living, households set black candles in their windows, and the living speak the names of the dead aloud so that [[lore-selmorosdty|Sélmoros]], the Silent Judge, may guide them. Most households say the names and nothing more. This lament is said by a widow, [Leofith of Ashwold]{.name data-type="being/npc"}, whose steading of [Ashwold]{.name data-type="place/site"} at the forest edge was taken by the wood in a single year, and whose dead have no graves.
+**The Naming at the Window** is the lament a woman of [[place-wyndmarch|the Wyndmarch]] says at her window on the first night of the [Festival of the Silent Passage]{.name data-type="lore/gathering"}, the three days in late autumn when [[affiliation-selmoros|Sélmoros's temples]] close to the living, households set black candles in their windows, and the living speak the names of the dead aloud so that [[lore-selmorosdty|Sélmoros]], the Silent Judge, may guide them. Most households say the names and nothing more. This lament is said by a widow, [Leofith of Ashwold]{.name data-type="being/npc"}, whose steading of [Ashwold]{.name data-type="place/site"} at the forest edge was taken by the wood in a single year, and whose dead have no graves.
 
 Her husband [Mildwald of Ashwold]{.name data-type="being/npc"} rode into the wood with the march watch on a night the fires were seen among the trees and did not come back; nothing of him came back. His mother [Osrun of Ashwold]{.name data-type="being/npc"} would not leave the steading when the family went down, and the steading burned with her in it. Her son [Wilwin of Ashwold]{.name data-type="being/npc"} went alone to the wood's edge in the next spring to look for his father, and was not found either. The steward of the march wrote the year's losses in his book as the march writes them, a few steadings and the men of a watch, one line ([[lore-grukaraelwyth|The Grukar of Aelwyth]]). She has kept the names.
 
@@ -122,6 +122,6 @@ I will not shut the window till 'tis out.
 
 ## See Also
 
-- [[place-wyndmarch|The Wyndmarch]] · [[lore-grukaraelwyth|The Grukar of Aelwyth]]
+- [[place-wyndmarch|The Wyndmarch]] · [[lore-grukaraelwyth|the Grukar of Aelwyth]]
 - [[affiliation-selmoros|The Faith of Sélmoros]]—the Silent Passage and the black candles
 - [[lore-coldfordhead|The Head at Koldford]]—the march's tale of a ford it kept

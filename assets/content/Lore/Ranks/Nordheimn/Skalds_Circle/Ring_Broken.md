@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-[[affiliation-skaldscrcl|The Skalds' Circle]] has broken a skald's silver arm-ring perhaps seven times in living memory, and the offense is the same: reciting falsely what the skald was summoned to witness.
+[[affiliation-skaldscrcl|The Circle]] has broken a skald's silver arm-ring perhaps seven times in living memory, and the offense is the same: reciting falsely what the skald was summoned to witness.
 
 ## What This Standing Is
 

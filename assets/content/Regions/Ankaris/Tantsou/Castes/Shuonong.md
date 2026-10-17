@@ -7,7 +7,7 @@ description: "The seventh caste of Tantsou—merchants and moneylenders, free to
 data: {packFolder: castes, culture: tantsouclt}
 ---
 
-The richest man in a river city of the [[affiliation-tantsouempr|Empire of Tantsou]] walks behind the potter in a procession, and the law says why. The Shuonong are the merchants, traders and moneylenders of the empire, the seventh caste, ranked below the farmers because a farmer makes the grain and a merchant only moves it. A Shuonong house may own warehouses in three provinces and lend to a Warlord, and its wealth buys comfort and not one step of standing: the law that permits it to prosper is written to keep its silver out of politics, and it is enforced with execution.
+The richest man in a river city of [[affiliation-tantsouempr|Tantsou]] walks behind the potter in a procession, and the law says why. The Shuonong are the merchants, traders and moneylenders of the empire, the seventh caste, ranked below the farmers because a farmer makes the grain and a merchant only moves it. A Shuonong house may own warehouses in three provinces and lend to a Warlord, and its wealth buys comfort and not one step of standing: the law that permits it to prosper is written to keep its silver out of politics, and it is enforced with execution.
 
 ## Trade and Lending
 

@@ -10,9 +10,9 @@ data: {demonym: null, lore: [], parents: [orzara], population: null, packFolder:
 
 ## Overview
 
-The dead of [[place-orzara|Orzara City]] lie beyond the thrima, never within it, and the Necropolis of Orzara is where they go. It spreads across the open plain a short way beyond the city, a vast city of the dead that has grown for as long as Orzara has: mile upon mile of tombs, mausolea, grave-terraces and memorial avenues, ranked by wealth from the marble house-tombs of the senatorial families down to the pauper-trenches of the destitute. The tombs of the orzoi rise in monuments visible from the city's edge.
+The dead of [[place-orzara|Orzara]] lie beyond the thrima, never within it, and the Necropolis is where they go. It spreads across the open plain a short way beyond the city, a vast city of the dead that has grown for as long as Orzara has: mile upon mile of tombs, mausolea, grave-terraces and memorial avenues, ranked by wealth from the marble house-tombs of the senatorial families down to the pauper-trenches of the destitute. The tombs of the orzoi rise in monuments visible from the city's edge.
 
-A sacristan of [[place-pnthnrldnm|Sarkena Dorekis]] (the House of the Twelve), who walks out with the funeral processions as part of his duty, tells the novices how to behave: "Speak low, and speak first to the clergy of the [[affiliation-selmoros|Faith of Sélmoros]]. The clergy of [[lore-selmorosdty|Sélmoros]], the Silent Judge, keep this ground jointly with the priests of the [[affiliation-nahild|Faith of Nahild]], and you will be polite to both. Do not ask what Nahild's people keep and tend in the deeper vaults. Everyone in the capital has a rumor about it, and nobody repeats theirs above a whisper."
+A sacristan of [[place-pnthnrldnm|Sarkena Dorekis]] (the House of the Twelve), who walks out with the funeral processions as part of his duty, tells the novices how to behave: "Speak low, and speak first to the clergy of [[affiliation-selmoros|Sélmoros]]. The clergy of [[lore-selmorosdty|Sélmoros]], the Silent Judge, keep this ground jointly with the priests of [[affiliation-nahild|Nahild]], and you will be polite to both. Do not ask what Nahild's people keep and tend in the deeper vaults. Everyone in the capital has a rumor about it, and nobody repeats theirs above a whisper."
 
 ## The Two Priesthoods
 

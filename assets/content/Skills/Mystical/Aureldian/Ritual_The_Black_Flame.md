@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-blackflame|The Black Flame]]
+See [[affiliation-blackflame|the Black Flame]]

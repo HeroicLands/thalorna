@@ -763,13 +763,13 @@ sohl:
   flags: {"thalorna": {lang_family: Pelwar}}
 ---
 
-Varokhi Language is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Varokhi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Varokhi is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Varokhi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 Varokhi is the tongue of the tribal peoples of the [[place-vrystwald|Vristwald]] forests and portions of western [[place-aelwyth|Aelwyth]], spoken by the fierce and fiercely independent [[lore-varokhiclt|Varokhi]] clans. A language with no written form, preserved entirely through oral tradition, Varokhi stands as a testament to the power of spoken word and memory among peoples who reject the written traditions of settled kingdoms.
 
 ## Overview
 
-Varokhi speakers define themselves against the writing cultures of the south and the formal structures of [[skill-nordmalng|Nordmal Language]]. Where written languages are fixed and controlled, Varokhi celebrates variation, improvisation, and individual expression. A skilled Varokhi speaker is one who can adapt their speech to the moment, weave stories that captivate, and compose extemporaneous verse that honors both the past and the immediate present.
+Varokhi speakers define themselves against the writing cultures of the south and the formal structures of [[skill-nordmalng|Nordmal]]. Where written languages are fixed and controlled, Varokhi celebrates variation, improvisation, and individual expression. A skilled Varokhi speaker is one who can adapt their speech to the moment, weave stories that captivate, and compose extemporaneous verse that honors both the past and the immediate present.
 
 The language shares deep roots with [[skill-nordmalng|Nordmal]] through common descent from ancient Proto-Pelwar, yet the two have diverged dramatically over centuries of independent development. Varokhi has simplified many of the complex grammatical features Nordmal preserves, while developing a richness of vocabulary for forest life, kinship relations, and the subtle distinctions of honor and obligation central to Varokhi tribal culture.
 
@@ -859,7 +859,7 @@ FROM name_shapes WHERE language = 'thalorna-note-skill-varokhlng' ORDER BY posit
 
 Varokhi has no traditional writing system. The language is preserved entirely through oral transmission—memorization, recitation, and storytelling. This is not considered a limitation but rather a distinctive cultural feature: the Varokhi valorize those with strong memories and eloquent speech.
 
-In modern times, some Varokhi speakers have adopted the scripts of neighboring regions—the [[skill-semrnscrpt|Semaron Script]] from the empire, [[skill-thuravarkscript|Thuravark Runic Script]] from the north—for practical communication, but these are viewed as foreign tools, not genuine Varokhi writing. The language remains fundamentally oral.
+In modern times, some Varokhi speakers have adopted the scripts of neighboring regions—the [[skill-semrnscrpt|Semaron]] from the empire, [[skill-thuravarkscript|Thuravark]] from the north—for practical communication, but these are viewed as foreign tools, not genuine Varokhi writing. The language remains fundamentally oral.
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
@@ -875,7 +875,7 @@ The absence of a written form may seem to place Varokhi at a disadvantage compar
 
 **Northern Vristwald:** Spoken in the forest's northern regions, showing greater phonetic similarity to [[skill-nordmalng|Nordmal]] and more conservative grammar. More nasal vowels and some archaic features.
 
-**Aelwyth Mixed:** Spoken in western [[place-aelwyth|Aelwyth]] where Varokhi speakers coexist with the [[lore-elavendrnppl|Élavendren People]]. Shows significant [[skill-elvndrlng|Élavendri Language]] vocabulary influence and some grammatical simplification due to bilingual contact.
+**Aelwyth Mixed:** Spoken in western [[place-aelwyth|Aelwyth]] where Varokhi speakers coexist with [[lore-elavendrnppl|Élavendri peoples]]. Shows significant [[skill-elvndrlng|Élavendri]] vocabulary influence and some grammatical simplification due to bilingual contact.
 
 **Riverside Dialect:** Spoken by Varokhi clans along major rivers, showing loanwords related to trade and boating, and more vocabulary for water-related phenomena.
 

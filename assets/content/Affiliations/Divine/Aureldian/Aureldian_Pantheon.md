@@ -46,7 +46,7 @@ sohl: {system: {commonSkills: []}}
 
 **Pronunciation:** _Aw-REL-dee-ahn_
 
-The Aureldian Pantheon is the dominant pantheon in the western part of the [[place-ankrscntnnt|Ankaris Continent]], worshipped in various forms across the [[affiliation-vylarinmpr|Vylarian Empire]], the [[place-provenzrgn|Provenzia Region]], the [[place-tarvenirgn|Tarvénia Region]], [[place-helionis|Helionis]], the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], [[place-elavendre|Élavendre]], [[place-aelwyth|Aelwyth]], and the [[place-byzariargn|Bizaria Region]], with a secondary presence in the port cities of [[affiliation-kalihara|Kalihara]]. The pantheon comprises twelve deities, each held to govern a fundamental aspect of existence and honored through a distinct primary faith.
+The Aureldian pantheon is the dominant pantheon in the western part of the [[place-ankrscntnnt|Ankaris Continent]], worshipped in various forms across the [[affiliation-vylarinmpr|Vylarian Empire]], the [[place-provenzrgn|Provenzia Region]], the [[place-tarvenirgn|Tarvénia Region]], [[place-helionis|Helionis]], [[affiliation-cnfdrtntrzlnstts|Taruzel]], [[place-elavendre|Élavendre]], [[place-aelwyth|Aelwyth]], and the [[place-byzariargn|Bizaria Region]], with a secondary presence in the port cities of [[affiliation-kalihara|Kalihara]]. The pantheon comprises twelve deities, each held to govern a fundamental aspect of existence and honored through a distinct primary faith.
 
 ## The Twelve
 
@@ -83,4 +83,4 @@ The resulting schism produced two bitterly opposed faiths, each considering the 
     Symbol
     : A black flame consuming a broken chain.
 
-The enmity between Sacred Forge and Black Flame runs deep. Each claims to represent Ústaron's true will, and their conflict has shaped the religious and political landscape of western Ankaris for centuries. See [[lore-ustaranschism|The Ústaran Schism]] for how the break came about and why it did not heal.
+The enmity between Sacred Forge and Black Flame runs deep. Each claims to represent Ústaron's true will, and their conflict has shaped the religious and political landscape of western Ankaris for centuries. See [[lore-ustaranschism|the Ústaran Schism]] for how the break came about and why it did not heal.

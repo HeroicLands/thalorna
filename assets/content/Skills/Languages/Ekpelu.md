@@ -327,7 +327,7 @@ sohl:
   flags: {"thalorna": {lang_family: Isolate}}
 ---
 
-Ekpelu Language is the tongue of the forest peoples of the [[place-cntrlrnfrsts|Central Rainforests]]. The [[lore-luwandoclt|Luwando]] (River-keepers), the [[lore-yesomaclt|Yesoma]] (Canopy foragers), the [[lore-kubindoclt|Kubindo]] (Court-keepers) and the [[lore-pewayeclt|Pewaye]] (Edge-people) all speak it, and a band from one tradition can be understood by a band from another. Fluency measures how much of it a speaker commands, from the trade words a river-trader picks up to the full speech of a song-band at night. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Ekpelu is the tongue of the forest peoples of the [[place-cntrlrnfrsts|Central Rainforests]]. The [[lore-luwandoclt|Luwando]] (River-keepers), the [[lore-yesomaclt|Yesoma]] (Canopy foragers), the [[lore-kubindoclt|Kubindo]] (Court-keepers) and the [[lore-pewayeclt|Pewaye]] (Edge-people) all speak it, and a band from one tradition can be understood by a band from another. Fluency measures how much of it a speaker commands, from the trade words a river-trader picks up to the full speech of a song-band at night. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 

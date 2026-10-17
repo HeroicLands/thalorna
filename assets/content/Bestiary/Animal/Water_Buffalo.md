@@ -246,7 +246,7 @@ Out in the flooded rice-field a row of broad black backs lies in the brown water
 
 # Dossier {#dossier}
 
-The Water Buffalo is the working beast of the floodplains, a massive, half-aquatic ox five to six feet at the shoulder and fifteen hundred to twenty-five hundred pounds, kept as a draft animal and living wild along the great river and its tributaries in [[place-vedyarargn|Vedyara Region]]. The heavy clay of the river margins cannot be farmed without it, and it gives milk, leather and horn. Feral herds of twenty to sixty, descended from escaped stock, are fiercely territorial, strong enough to kill any predator in the region, and easily the most dangerous cattle.
+The Water Buffalo is the working beast of the floodplains, a massive, half-aquatic ox five to six feet at the shoulder and fifteen hundred to twenty-five hundred pounds, kept as a draft animal and living wild along the great river and its tributaries in [[place-vedyarargn|Vedyara]]. The heavy clay of the river margins cannot be farmed without it, and it gives milk, leather and horn. Feral herds of twenty to sixty, descended from escaped stock, are fiercely territorial, strong enough to kill any predator in the region, and easily the most dangerous cattle.
 
 ## Presentation
 

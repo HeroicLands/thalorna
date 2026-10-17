@@ -15,7 +15,7 @@ data:
   government: trimurtisampradaya
 ---
 
-**Chandraprabhava** is where [[place-chandrmahi|The Chandramahi]] comes out of the ice under [[place-suryashkhr|Suryashikhara]]. The tradition of the [[affiliation-varakpnthn|Varnuka Pantheon]] does not treat this as the place the river happens to begin; it treats it as the place the river began, once, at the beginning, and has been beginning ever since.
+**Chandraprabhava** is where [[place-chandrmahi|the Chandramahi]] comes out of the ice under [[place-suryashkhr|Suryashikhara]]. The [[affiliation-varakpnthn|Varnuka tradition]] does not treat this as the place the river happens to begin; it treats it as the place the river began, once, at the beginning, and has been beginning ever since.
 
 [[place-suryatempl|The Surva temple]] stands on the shelf beside the outflow, and the pilgrimage to it is the most demanding of the four source-pilgrimages and the most made. Some thirty thousand people a year reach the shelf in the open months. Perhaps a tenth of them are carried the last stage.
 
@@ -27,7 +27,7 @@ The temple's explanation is [[place-himashila|Himashila]], the slab at the head 
 
 ## The Nine Days
 
-Two winters ago the spring iced over and stayed iced for nine days, which had never happened in the temple's record. It has not been entered in the record. The slab was exactly as it had always been before, during and after, gray and warm and giving under a thumb. The priests had nothing whatever to show anybody, and a temple with nothing to show is better off with nothing to say. The reckoners of the [[affiliation-ganakashala|Ganoka-shalda]] want it entered ([[lore-nineice|The Nine Days of Ice]]).
+Two winters ago the spring iced over and stayed iced for nine days, which had never happened in the temple's record. It has not been entered in the record. The slab was exactly as it had always been before, during and after, gray and warm and giving under a thumb. The priests had nothing whatever to show anybody, and a temple with nothing to show is better off with nothing to say. The reckoners of the [[affiliation-ganakashala|Ganoka-shalda]] want it entered ([[lore-nineice|the Nine Days of Ice]]).
 
 ## See Also
 

@@ -420,7 +420,7 @@ sohl:
 
 ![[prthmjkydr|Prtimaja Kayadara]]{float=top-left}
 
-Prtimaja Kayadara stands 5'6" tall with a medium build. He has light golden skin, black hair, and brown eyes. His features include a round face, a broad nose, a tapered chin, generous lips, thick dark brows, and high cheeks.
+Prtimaja stands 5'6" tall with a medium build. He has light golden skin, black hair, and brown eyes. His features include a round face, a broad nose, a tapered chin, generous lips, thick dark brows, and high cheeks.
 
 # Dossier {#dossier}
 
@@ -428,7 +428,7 @@ Prtimaja was born in the city of [[place-chandrapur2|Chendrapur]] to a family of
 
 At age twelve, Prtimaja was apprenticed to [Mahendra the Illuminator]{.name data-type="being/npc"}, master jeweler and keeper of the most esoteric secrets of gem-cutting. The apprenticeship was grueling—seven years of menial labor, failed experiments, and exacting criticism. Mahendra broke his spirit deliberately, Prtimaja later understood, to rebuild him according to the discipline the craft demanded. When finally, at nineteen, he was permitted to cut his first stone independently—a raw ruby of rare clarity—Prtimaja produced a gem of such beauty that it was purchased by a minor maharava and became famous within shrena circles.
 
-For the next sixteen years, Prtimaja built his reputation through exacting work and new methods. He developed new techniques for cutting stones of particular colors, discovered that certain gem combinations enhanced each other's resonance, and created pieces that seemed to contain trapped light. His workshop in the [[place-vedyarargn|Vedyara Region]] became a destination for wealthy patrons from across the known world. Yet his success has been accompanied by rising anxiety—the perfectionism that drives his artistry has begun to poison his life, the business demands of managing commissions threatening to overwhelm his ability to create.
+For the next sixteen years, Prtimaja built his reputation through exacting work and new methods. He developed new techniques for cutting stones of particular colors, discovered that certain gem combinations enhanced each other's resonance, and created pieces that seemed to contain trapped light. His workshop in [[place-vedyarargn|Vedyara]] became a destination for wealthy patrons from across the known world. Yet his success has been accompanied by rising anxiety—the perfectionism that drives his artistry has begun to poison his life, the business demands of managing commissions threatening to overwhelm his ability to create.
 
 ## Psyche
 

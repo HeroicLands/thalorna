@@ -18,7 +18,7 @@ data:
 
 "In summer the light does not set, so neither do we," a sealer from the western coast tells a southern passenger on the season's last run. "In winter the light does not rise, and we sit very close together. The whole trick of this country is knowing which of the two you are in."
 
-Vithgard is the land of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], a small coastal realm on the western edge of the [[place-nrdlndsrgn|Nordlands Region]] beside [[place-nordheim|Nordheim]]. It occupies the western coast south of Nordheim's main territory, a land of ice, tundra and long winter nights, and about 300,000 people live in it. Its people are among the most isolated of the [[lore-nordheimnclt|Nordmen]]: the settlements are sparse and scattered, connected by sea routes along the coast.
+Vithgard is the land of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], a small coastal realm on the western edge of the [[place-nrdlndsrgn|Nordlands]] beside [[place-nordheim|Nordheim]]. It occupies the western coast south of Nordheim's main territory, a land of ice, tundra and long winter nights, and about 300,000 people live in it. Its people are among the most isolated of the [[lore-nordheimnclt|Nordmen]]: the settlements are sparse and scattered, connected by sea routes along the coast.
 
 ## Character
 

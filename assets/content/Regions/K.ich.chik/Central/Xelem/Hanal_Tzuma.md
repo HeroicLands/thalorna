@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [xelemrgn], population: 0, packFolder: 
 
 ## Overview
 
-The Ha'nal Ts'uma, the Misty River, is the larger of the two great rivers of the [[place-xelemrgn|Shelem Region]], and it is named for the fog that lifts off its flooded forest at dawn. It gathers so many tributaries that its network of waterways winds for thousands of kilometers through the landscape, and in Shelem that network is the road: the realm is built on water, and the river matters more than any road or temple.
+The Ha'nal Ts'uma, the Misty River, is the larger of the two great rivers of [[place-xelemrgn|Shelem]], and it is named for the fog that lifts off its flooded forest at dawn. It gathers so many tributaries that its network of waterways winds for thousands of kilometers through the landscape, and in Shelem that network is the road: the realm is built on water, and the river matters more than any road or temple.
 
 ## The Flooded Forest
 

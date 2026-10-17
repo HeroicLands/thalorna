@@ -54,7 +54,7 @@ it nothing does.
 The Marchers are pastoral nomad clans led by men—herding peoples who
 move sheep, goats and small sturdy horses between the forage belts through the
 year, with cattle only where a streambed carries grass enough. The clans are
-of the same stock as the frontier clans of the [[place-okharisrgn|Okharis Region]],
+of the same stock as the frontier clans of [[place-okharisrgn|Okharis]],
 whose kingdom counts them among its own tribes and whose herding cycles they
 share; the temple-cities are far, though, and a marcher clan answers to
 its own headmen before anyone else.
@@ -89,7 +89,7 @@ or the grass fails.
 
 Country that no realm holds breeds armed bands, and the Marches carry several.
 The most feared of them are
-[[affiliation-jcklsthmrchs|The Jackals of the South Marches]]—not a clan and not
+[[affiliation-jcklsthmrchs|the Jackals of the South Marches]]—not a clan and not
 a marcher tribe, but a warband of the Houseless: exiled Bethuan women and
 cast-out [Spadai]{.name data-type="affiliation"} eunuch-warriors, padded with hired marcher men, under the
 renegade spear-sister [[being-argyrirjckl|Argirira the Jackal]]. Mounted, fast

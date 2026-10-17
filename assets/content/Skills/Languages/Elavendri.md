@@ -2228,9 +2228,9 @@ sohl:
 # terran_analog: Élavendri is patterned on the way a conservative highland tongue becomes a lowland one, in the tone of the Romance speech of Gaul becoming the speech of Paris (long vowels broken into diphthongs, consonants softened between vowels, final vowels reduced to a murmured e, the breathed stops loosened into fricatives), and its Sinale layer, carried down through Áelendi, gives it the colour of the Breton lai. Every inherited word is derived by the tables below from a row of the Áelendi lexicon, and every learned word from a row of the Vylari lexicon; every word is checked against Earth word lists, Breton and Parisian speech among them.
 ---
 
-Élavendri Language is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Élavendri, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Élavendri is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Élavendri, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Élavendri is the lyrical tongue of the realm of [[place-elavendre|Élavendre]], a language steeped in magic, nature, and the influence of the fey-touched peoples who dwell in the borderlands between human and faerie realms. Where [[skill-vylarilng|Vylari Language]] is precise and administrative, Élavendri is fluid and suggestive—a language that reaches toward meanings beyond the grasp of ordinary words. It is the language of courts and verse: in western [[place-aureldirgn|Aureldia Region]] Élavendri is held to be the modern language of love, the courts and art, with [[skill-helonclng|Helonic Language]] its classical counterpart. The [[lore-vylarianclt|Vylarian]] people do not hold it so. Its grammar draws fine distinctions of rank, courtesy and feeling that the other western tongues leave unsaid, and nobles beyond Élavendre learn it as a mark of breeding. On [[place-aelwyth|Aelwyth]] the travelled and educated commonly speak it beside [[skill-aelwthlng|Aelwythi Language]], and the learned of Élavendre commonly speak Aelwythi in return; the two tongues have long borrowed words from each other.
+Élavendri is the lyrical tongue of the realm of [[place-elavendre|Élavendre]], a language steeped in magic, nature, and the influence of the fey-touched peoples who dwell in the borderlands between human and faerie realms. Where [[skill-vylarilng|Vylari]] is precise and administrative, Élavendri is fluid and suggestive—a language that reaches toward meanings beyond the grasp of ordinary words. It is the language of courts and verse: in western [[place-aureldirgn|Aureldia Region]] Élavendri is held to be the modern language of love, the courts and art, with [[skill-helonclng|Helonic]] its classical counterpart. The [[lore-vylarianclt|Vylarian]] people do not hold it so. Its grammar draws fine distinctions of rank, courtesy and feeling that the other western tongues leave unsaid, and nobles beyond Élavendre learn it as a mark of breeding. On [[place-aelwyth|Aelwyth]] the travelled and educated commonly speak it beside [[skill-aelwthlng|Aelwythi]], and the learned of Élavendre commonly speak Aelwythi in return; the two tongues have long borrowed words from each other.
 
 ## Overview
 
@@ -2238,7 +2238,7 @@ sohl:
 
 The language is marked by a preference for alliteration, assonance, and poetic phrasing even in everyday speech. A simple greeting in Élavendri carries overtones of blessing and ritual. The language's connection to music is profound—many Élavendri linguistic features are better understood through melody than grammar.
 
-The [[skill-elvndrlng#lexicon|Élavendri Lexicon]] gives the words with their sources, each traced to its [[skill-aelendlng|Áelendi Language]] or imperial original, and the changes that made them.
+The [[skill-elvndrlng#lexicon|Élavendri Lexicon]] gives the words with their sources, each traced to its [[skill-aelendlng|Áelendi]] or imperial original, and the changes that made them.
 
 ## How Élavendri sounds
 
@@ -2270,7 +2270,7 @@ The [[skill-elvndrlng#lexicon|Élavendri Lexicon]] gives the words with their so
 
 **Word Order:** Élavendri employs a relatively free word order. The basic order is VSO (Verb-Subject-Object) in formal contexts, but poetic reordering is common and expected.
 
-**Gender:** Gender is somewhat less important than in Vylari or [[skill-tarvenlng|Tarveni Language]], with only two primary genders (animate/inanimate) in standard speech, though archaic texts preserve three-gender systems.
+**Gender:** Gender is somewhat less important than in Vylari or [[skill-tarvenlng|Tarveni]], with only two primary genders (animate/inanimate) in standard speech, though archaic texts preserve three-gender systems.
 
 **Adjectives and Adverbs:** The language employs a complex system of derivational morphology to create adjectival and adverbial forms. Diminutive, augmentative, and affective suffixes are productive and frequently used. The language readily creates new descriptive forms on the fly.
 
@@ -2278,9 +2278,9 @@ The [[skill-elvndrlng#lexicon|Élavendri Lexicon]] gives the words with their so
 
 ## Script & Literacy
 
-Élavendri traditionally employs [[skill-thrvrdhscrpt|Thurarth Script]], the old rune-row of the [[lore-aelendnppl|Áelendan People]], but this script has been largely supplemented by the [[skill-semrnscrpt|Semaron Script]]—the same alphabet used in Vylari and neighboring regions. Thurarth persists in magical texts, poetry, and items of great antiquity. The [[skill-clthndscrpt|Veldirno Script]] of the [[lore-flksinale|Sinale Folk]] never came down the passes: the highlanders write Áelendi in it and the lowlands took imperial letters instead, so two peoples who can hold a conversation cannot read a word of each other.
+Élavendri traditionally employs [[skill-thrvrdhscrpt|Thurarth]], the old [[lore-aelendnppl|Áelendan rune-row]], but this script has been largely supplemented by the [[skill-semrnscrpt|Semaron]]—the same alphabet used in Vylari and neighboring regions. Thurarth persists in magical texts, poetry, and items of great antiquity. The [[skill-clthndscrpt|Veldirno]] of the [[lore-flksinale|Sinale]] never came down the passes: the highlanders write Áelendi in it and the lowlands took imperial letters instead, so two peoples who can hold a conversation cannot read a word of each other.
 
-A distinctive scribal tradition employs flowing, connected letterforms that reflect the language's musical nature. Decorative elements (flourishes, miniatures) are common in high-quality texts. True literacy is confined to the priesthood, professional scribes, those training for magical arts (for whom reading is an absolute necessity), and perhaps one noble in four. The common folk of Élavendre, like those elsewhere on [[place-worldthlrn|The World of Thalorna]], are almost entirely non-literate and rely on scribes for any written communication.
+A distinctive scribal tradition employs flowing, connected letterforms that reflect the language's musical nature. Decorative elements (flourishes, miniatures) are common in high-quality texts. True literacy is confined to the priesthood, professional scribes, those training for magical arts (for whom reading is an absolute necessity), and perhaps one noble in four. The common folk of Élavendre, like those elsewhere on [[place-worldthlrn|Thalorna]], are almost entirely non-literate and rely on scribes for any written communication.
 
 ## Historical Development
 
@@ -2347,7 +2347,7 @@ Gulmand, Hersel, Ossel, Sórvanda, Súldinne, Ílsevand, Sálvurnand, Sóurimand
 
 A bard of a great house in [[place-elavendre|Élavendre]] is reciting the house's line at a feast, and he is doing it in two tongues at once without anyone at the table remarking on it. The names of the founders are highland names, said the way the highlands say them, with the clicks in; the words that join them are Élavendri, the same words with the clicks gone, the long vowels opened into diphthongs and the last vowel of each one let fall to a murmur. The house's claim to the old blood rests on the guests hearing the difference and believing the line runs across it.
 
-This is the word-hoard of Élavendri, the tongue of the lowland kingdom. It is the daughter of Áelendi, the highland tongue that came over the eastern pass, made over by the lowlands in the centuries since: its clicked stops merged with the plain ones, its back breathed stops weakened or fell, its long vowels broke into the diphthongs it is admired for, and its final vowels wore down to a reduced _ë_ that is written so that it is said. Because it is Áelendi's daughter it carries Áelendi's great layer of [[skill-sinalelng|Sinale Language]] words, the trees, the light, the veil and the art, and several of them came back nearly to their Sinale shape on the way down. Because the kingdom owed the empire service for centuries, it carries a smaller layer of imperial words as well: the law, the coin, the letters and the University.
+This is the word-hoard of Élavendri, the tongue of the lowland kingdom. It is the daughter of Áelendi, the highland tongue that came over the eastern pass, made over by the lowlands in the centuries since: its clicked stops merged with the plain ones, its back breathed stops weakened or fell, its long vowels broke into the diphthongs it is admired for, and its final vowels wore down to a reduced _ë_ that is written so that it is said. Because it is Áelendi's daughter it carries Áelendi's great layer of [[skill-sinalelng|Sinale]] words, the trees, the light, the veil and the art, and several of them came back nearly to their Sinale shape on the way down. Because the kingdom owed the empire service for centuries, it carries a smaller layer of imperial words as well: the law, the coin, the letters and the University.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
@@ -2469,7 +2469,7 @@ The dead are part of the house, and the words for them are many. The highland ca
 
 ### Arms and the border
 
-The kingdom fights seldom, and its war words are the highland [[affiliation-alndnwrdns|Áelendan Wardens]]' words with little added.
+The kingdom fights seldom, and its war words are the highland [[affiliation-alndnwrdns|Wardens]]' words with little added.
 
 ### Craft, coin and the market
 

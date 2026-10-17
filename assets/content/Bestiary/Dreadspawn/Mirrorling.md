@@ -398,7 +398,7 @@ The hall of mirrors runs the length of the house, glass from floor to ceiling on
 
 # Dossier {#dossier}
 
-The Mirrorling is a dreadspawn of living reflection: a figure six to eight feet tall, man-shaped, with a body like liquid silver, and a weight far greater than its size suggests. It lives where light is multiplied—halls of mirrors, polished stone, still water—and it fights with light, throwing out images of itself and turning blows back on whoever struck them. It does not eat. It feeds, as far as anyone can tell, on violence: on blows that strike it and rebound. One has taken up residence in a great house on [[place-selvin|Selvin]] in [[place-orzara|Orzara City]], the hill where the rising families of the Vylarian capital build, and its owners would very much like nobody to know. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Mirrorling is a dreadspawn of living reflection: a figure six to eight feet tall, man-shaped, with a body like liquid silver, and a weight far greater than its size suggests. It lives where light is multiplied—halls of mirrors, polished stone, still water—and it fights with light, throwing out images of itself and turning blows back on whoever struck them. It does not eat. It feeds, as far as anyone can tell, on violence: on blows that strike it and rebound. One has taken up residence in a great house on [[place-selvin|Selvin]] in [[place-orzara|Orzara]], the hill where the rising families of the Vylarian capital build, and its owners would very much like nobody to know. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 

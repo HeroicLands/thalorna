@@ -28,7 +28,7 @@ retinues.
 Aldorath's aristocracy is landed, hereditary and genuinely powerful, and Dunmere is where that power is
 negotiated. A king who wants anything done must obtain it from men whose estates are their real
 interest, and the bargaining is conducted in hall, at table and in the yards outside—slowly, publicly,
-and with an attention to precedence that visitors from the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] find
+and with an attention to precedence that visitors from [[affiliation-kingdmdnvr|Dúnavarre]] find
 exhausting and revealing.
 
 It is also, in the manner of Aelwyth, conducted with the entire seriousness of a great power. Nobody at

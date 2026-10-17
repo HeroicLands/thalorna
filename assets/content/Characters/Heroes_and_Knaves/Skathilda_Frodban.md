@@ -421,7 +421,7 @@ Skathilda is cold, calculating, and deeply mistrustful of everyone. She speaks l
 
 ### Motivation
 
-Survival. Skathilda learned early that the world is divided into predators and prey, and she will never be prey again. Beyond that, she craves autonomy—the freedom to come and go as she chooses, beholden to no one. She stays with [[affiliation-blckpnwlvs|The Blackpine Wolves]] because the arrangement serves her, and she will leave or take over the moment it doesn't. She harbors a cold, patient ambition that Dagbán senses but cannot quite pin down.
+Survival. Skathilda learned early that the world is divided into predators and prey, and she will never be prey again. Beyond that, she craves autonomy—the freedom to come and go as she chooses, beholden to no one. She stays with [[affiliation-blckpnwlvs|the Blackpine Wolves]] because the arrangement serves her, and she will leave or take over the moment it doesn't. She harbors a cold, patient ambition that Dagbán senses but cannot quite pin down.
 
 ### Strengths
 

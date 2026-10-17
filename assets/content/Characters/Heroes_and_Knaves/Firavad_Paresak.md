@@ -420,13 +420,13 @@ sohl:
 
 ![[firavdprsk|Firavad Paresak]]{float=top-left}
 
-Firavad Paresak stands 5'6" tall with a medium build. He has tanned weathered skin, white hair, and dark brown eyes. His features include a diamond-shaped face, a hawkish nose, a strong jawline, full lips, dark brows, angular cheeks.
+Firavad stands 5'6" tall with a medium build. He has tanned weathered skin, white hair, and dark brown eyes. His features include a diamond-shaped face, a hawkish nose, a strong jawline, full lips, dark brows, angular cheeks.
 
 # Dossier {#dossier}
 
 **Early Life and Calling**
 
-Born beneath a thunderstorm—a sign the elders of the [[place-dunharargn|Dunhara Region]] recognized as the touch of [[lore-bahramisdty|Báhramis]] himself—Firavad was designated at birth as a shaman-child. His youth passed in service to the elder shamans, learning the secret languages of herbs and storms, the names of spirits older than mountains. At thirty-two summers, during a vision-trance lasting three days and nights, he received the full mantle of shamanic power, his spirit bonded forever to the tempests that sweep across the tribal lands.
+Born beneath a thunderstorm—a sign the [[place-dunharargn|Dunhara elders]] recognized as the touch of [[lore-bahramisdty|Báhramis]] himself—Firavad was designated at birth as a shaman-child. His youth passed in service to the elder shamans, learning the secret languages of herbs and storms, the names of spirits older than mountains. At thirty-two summers, during a vision-trance lasting three days and nights, he received the full mantle of shamanic power, his spirit bonded forever to the tempests that sweep across the tribal lands.
 
 **Training and Mastery**
 
@@ -503,7 +503,7 @@ The Silent Conspiracy
 : Firavad is High Shaman and holds a permanent seat on the [Council of Elders]{.name data-type="affiliation/governmental"}.
 
 [The Order of Storm-Speakers]{.name data-type="affiliation/order"}
-: An ancient, informal order of shamans devoted to the [[affiliation-bahramis|Faith of Báhramis]], scattered across the northern lands. Firavad maintains correspondence with a handful of distant brothers and sisters through mystical communion.
+: An ancient, informal order of shamans devoted to [[affiliation-bahramis|Báhramis]], scattered across the northern lands. Firavad maintains correspondence with a handful of distant brothers and sisters through mystical communion.
 
 ## Plot Hooks
 
@@ -517,7 +517,7 @@ The Theft of the Spirit-Stones
 : Sacred stone tokens, each containing the bound essence of an ancestral spirit, vanish from the tribe's sacred circle during a moonless night. Firavad cannot divine their location through ordinary means, suggesting their thief possesses knowledge of anti-shamanic wards. He seeks adventurers to recover the stones before the detached spirits grow angry at their confinement. The investigation might reveal that the thief is neither enemy nor criminal, but a desperate parent attempting to recover their child's soul, which Firavad's own rituals accidentally trapped within a stone during a past ceremony gone wrong.
 
 The Prophecy of the Storm King
-: Firavad has received a vivid prophecy of a warrior destined to unite the scattered [[lore-dunhariclt|Dunhari]] tribes under a banner of thunder and lightning—but the prophecy is ambiguous about whether this "Storm King" will bring salvation or catastrophic war. He believes he has glimpsed fragments of the destined one, possibly among a group of traveling adventurers, and he cautiously tests them to determine their nature. The party might discover they are being manipulated by a well-meaning but flawed prophecy, one that could lead to their transformation into instruments of either terrible destiny or unprecedented peace.
+: Firavad has received a vivid prophecy of a warrior destined to unite the scattered [[lore-dunhariclt|Dunhara]] tribes under a banner of thunder and lightning—but the prophecy is ambiguous about whether this "Storm King" will bring salvation or catastrophic war. He believes he has glimpsed fragments of the destined one, possibly among a group of traveling adventurers, and he cautiously tests them to determine their nature. The party might discover they are being manipulated by a well-meaning but flawed prophecy, one that could lead to their transformation into instruments of either terrible destiny or unprecedented peace.
 
 The Haunting of Widow [Shupa]{.name data-type="being/npc"}
 : A young widow comes to Firavad claiming her late husband's spirit refuses to journey to the afterlife, instead haunting their lodge and driving her toward madness with spectral touches and midnight wails. Firavad's initial attempts at a binding ritual fail mysteriously, causing him to believe the spirit may be trapped by forces stronger than shamanic will. He seeks allies brave enough to descend into the spirit realm itself—or to investigate the husband's death more thoroughly—to discover that the man was murdered under false pretenses, and his spirit's restlessness reflects his need for justice rather than a mystical entanglement.

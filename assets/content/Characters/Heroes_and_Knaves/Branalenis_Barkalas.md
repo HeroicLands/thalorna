@@ -419,7 +419,7 @@ sohl:
 
 ![[brnlnsbrkls|Branalenis Barkalas]]{float=top-left}
 
-Branalenis Barkalas stands 5'10" tall with a medium build. She has light tanned skin, black hair, and green eyes. Her features include a narrow face, a strong nose, a sharp jawline, a wide mouth, thick dark brows, and high cheeks.
+Branalenis stands 5'10" tall with a medium build. She has light tanned skin, black hair, and green eyes. Her features include a narrow face, a strong nose, a sharp jawline, a wide mouth, thick dark brows, and high cheeks.
 
 Her black hair is typically worn in neat plaited pigtails. Her eyes are perpetually alert, scanning her surroundings with the wariness of one accustomed to sudden danger.
 
@@ -429,7 +429,7 @@ Her black hair is typically worn in neat plaited pigtails. Her eyes are perpetua
 
 ### Daughter of the Sea
 
-Branalenis was born in the great port city of [[place-alyssa|Alessa]] in the [[affiliation-vylarinmpr|Vylarian Empire]], to a family of modest maritime connection—her father was a rigger, her mother a merchant's assistant. The sea was the ground of her childhood. She spent more time on the docks than in any settled home, learning the language of ships and sailors before she learned the proper speech of nobility.
+Branalenis was born in the great port city of [[place-alyssa|Alessa]] in the [[affiliation-vylarinmpr|Empire of Vylaria]], to a family of modest maritime connection—her father was a rigger, her mother a merchant's assistant. The sea was the ground of her childhood. She spent more time on the docks than in any settled home, learning the language of ships and sailors before she learned the proper speech of nobility.
 
 At age six, she was effectively adopted by the crew of a merchant vessel, the _[Seaflower]{.name data-type="vehicle"}_, whose captain—a gruff but fair-minded woman named [[being-venthelenkal|Venthelen Kaldremis]]—recognized in the young girl an unusual combination of fearlessness, quick intelligence, and physical capability. From that point forward, her childhood was structured by the rhythms of sea trade rather than schooling.
 
@@ -508,7 +508,7 @@ Tendency Toward Recklessness
 Captain [[being-solterosbraz|Solteros Brazemen]]
 : A merchant vessel captain who regularly seeks Branalenis out for contracts, recognizing her great value despite her difficult personality. He maintains hope that given time, she might accept permanent crew status.
 
-Master Harbormaster [[being-talotharzeno|Talothar Zenothenos]]
+Master Harbormaster [[being-talotharzeno|Talothar]]
 : The official overseer of Alessa's harbor, who provides Branalenis with information about incoming vessels seeking crew and occasionally intervenes with less scrupulous captains.
 
 [The Seafarers' Lodge]{.name data-type="affiliation"}

@@ -395,9 +395,9 @@ Arzanalas Baredas is a 50-year-old man who stands 6'2" tall and is broad and sol
 
 # Dossier {#dossier}
 
-Arzanalas Baredas is a huscarl of Lord [[being-korvathosvol|Korvathos Volkemates]]'s household at [[place-tyrellan|Tirellan]], in the [[place-moktur|Moktur]] march of the [[place-vylariargn|Vylaria Region]], a [[lore-vylarianclt|Vylarian]] freeman of the border who swore to the [Volkemates]{.name data-type="affiliation/lineage"} house at seventeen and has never served anyone else.
+Arzanalas Baredas is a huscarl of Lord [[being-korvathosvol|Korvathos Volkemates]]'s household at [[place-tyrellan|Tirellan]], in the [[place-moktur|Moktur]] march of [[place-vylariargn|Vylaria]], a [[lore-vylarianclt|Vylarian]] freeman of the border who swore to the [Volkemates]{.name data-type="affiliation/lineage"} house at seventeen and has never served anyone else.
 
-In Moktur, the [[affiliation-vylarinmpr|Vylarian Empire]]'s northern shield, the border-lords keep households of sworn fighting men against [[lore-varokhiclt|Varokhi]] raids that come over the march every summer. Arzanalas has been one of Lord Korvathos's for thirty-seven years—a spearman, then a captain of the household, then, as his knees went, the man who trains the young ones. What he holds now is the training yard. The young men of the household learn the spear and the shield-line from him, and some of them are better than he ever was and he tells them so.
+In Moktur, the [[affiliation-vylarinmpr|Vylarian Empire]]'s northern shield, the border-lords keep households of sworn fighting men against [[lore-varokhiclt|the Varokh]] raids that come over the march every summer. Arzanalas has been one of Lord Korvathos's for thirty-seven years—a spearman, then a captain of the household, then, as his knees went, the man who trains the young ones. What he holds now is the training yard. The young men of the household learn the spear and the shield-line from him, and some of them are better than he ever was and he tells them so.
 
 ## Psyche
 
@@ -436,7 +436,7 @@ The Raid
 : A Varokh band has come over the march in a bad summer with the household's best men away, and the only captain in Tirellan is Arzanalas, with a yard of boys he has trained and no knees.
 
 The Lord's Loyalty
-: Lord Korvathos has been dealing with a Varokh chief across the line in ways the capital would call treason and Moktur calls sense. Arzanalas swore to the house, not to [[place-orzara|Orzara City]], and someone from the capital has come to ask him what he has seen.
+: Lord Korvathos has been dealing with a Varokh chief across the line in ways the capital would call treason and Moktur calls sense. Arzanalas swore to the house, not to [[place-orzara|Orzara]], and someone from the capital has come to ask him what he has seen.
 
 The Pupil
 : The best spearman Arzanalas ever trained has come back to Tirellan as captain of a rival lord's household, and the two houses are about to quarrel over a ford.

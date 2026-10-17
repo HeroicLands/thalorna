@@ -426,7 +426,7 @@ She struggles with the weight of her work. She is better at managing it than she
 
 Velthra wants to build a proper clinic in the lower quarters—a real one, with beds, a storeroom, an assistant, and enough supplies to treat the volume of patients who need her. She has been working toward this for years, saving what little coin she receives, cultivating relationships with sympathetic merchants, and petitioning the temple for support. The temple has been politely noncommittal. The city council considers the lower quarters a problem to be contained rather than invested in. She is running out of channels to try and is beginning to consider less conventional ones.
 
-Beyond the clinic, she is motivated by a conviction she does not often articulate: that the way a society treats its poorest members reveals what it truly believes, and that the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], for all its beauty and tradition, has been failing this test for a long time. She does not frame this as political—she is not an agitator—but her daily work is, in its quiet way, an indictment of every feast and festival held while children in the lower quarters go hungry.
+Beyond the clinic, she is motivated by a conviction she does not often articulate: that the way a society treats its poorest members reveals what it truly believes, and that [[affiliation-kngdmlvndr|Élavendre]], for all its beauty and tradition, has been failing this test for a long time. She does not frame this as political—she is not an agitator—but her daily work is, in its quiet way, an indictment of every feast and festival held while children in the lower quarters go hungry.
 
 ### Strengths
 
@@ -444,7 +444,7 @@ Velthra is well known and well loved in the lower quarters of Liranel, where she
 
 Outside the lower quarters, she is largely invisible. The guild physicians know of her—she has occasionally been consulted on cases they found puzzling, always informally and never with credit—and the temple of Lizelas considers her a dedicated but somewhat stubborn junior priestess who insists on a posting the institution would prefer to phase out. She has no connections among the nobility, no presence at court, and no patron with the means to champion her cause.
 
-Within the Faith of Lizelas, she reports to the temple at Liranel, which supplies her with a small allowance and occasional materiel. The temple's senior priestess, Mother [[being-delithakelva|Délitha Kélvasnde]], respects Velthra's work but has warned her that the temple cannot indefinitely support a ministry that generates no revenue and serves a population with no political voice.
+Within the Faith of Lizelas, she reports to the temple at Liranel, which supplies her with a small allowance and occasional materiel. The temple's senior priestess, Mother [[being-delithakelva|Délitha]], respects Velthra's work but has warned her that the temple cannot indefinitely support a ministry that generates no revenue and serves a population with no political voice.
 
 ## Companions
 

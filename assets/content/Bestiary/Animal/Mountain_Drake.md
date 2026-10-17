@@ -278,7 +278,7 @@ The rain has stopped and the cloud is lifting off the crag above the path, and f
 
 # Dossier {#dossier}
 
-The Mountain Drake is a lean, gray, spined lizard of the high crags, seven to eight feet from snout to tail-tip, with short wings that cannot lift it from flat ground but carry it a long way in a glide from a height. It hunts the goats, sheep, hares and birds of the steep country from ledges and outcrops, dropping onto them out of the cloud, and it fights anything that comes near its lair. It is an animal and not a true dragon, whatever the name. On [[place-aelwyth|Aelwyth]] its country is [[place-ironfells|The Ironfells]], wet, steep and snow-covered for a third of the year, and the shepherds and smugglers who use the high ground there count it with the weather as the dangers of the passes.
+The Mountain Drake is a lean, gray, spined lizard of the high crags, seven to eight feet from snout to tail-tip, with short wings that cannot lift it from flat ground but carry it a long way in a glide from a height. It hunts the goats, sheep, hares and birds of the steep country from ledges and outcrops, dropping onto them out of the cloud, and it fights anything that comes near its lair. It is an animal and not a true dragon, whatever the name. On [[place-aelwyth|Aelwyth]] its country is [[place-ironfells|the Ironfells]], wet, steep and snow-covered for a third of the year, and the shepherds and smugglers who use the high ground there count it with the weather as the dangers of the passes.
 
 ## Presentation
 
@@ -286,7 +286,7 @@ A drake is built long and low, with a narrow, heavily muscled body, four short p
 
 ## In the Land
 
-Mountain drakes keep to the crags, cliffs and boulder-fields of the Ironfells above the tree line, from [[place-sunderfells|The Sunderfells]] in the north, where the range walls [[place-stormveld|Stormveld]] off from [[place-aldorathrgn|Aldorath Region]], round to the eastern heights where the range meets the sea. They lair in caves and deep cracks high on cliff faces and use the same ledges as lookouts year after year. They follow the flocks: in summer they hunt the high grazing above [[place-vardainvalleys|The Vardain Valleys]] and the hill pastures on either side of the two passes, and in winter, when the snow drives the flocks down, they come lower, into the steep forest at the head of the valleys. They avoid the wet, wooded lowlands. In thick cloud, which is most days, they hunt by waiting for a gap.
+Mountain drakes keep to the crags, cliffs and boulder-fields of the Ironfells above the tree line, from [[place-sunderfells|the Sunderfells]] in the north, where the range walls [[place-stormveld|Stormveld]] off from [[place-aldorathrgn|Aldorath]], round to the eastern heights where the range meets the sea. They lair in caves and deep cracks high on cliff faces and use the same ledges as lookouts year after year. They follow the flocks: in summer they hunt the high grazing above [[place-vardainvalleys|the Vardain Valleys]] and the hill pastures on either side of the two passes, and in winter, when the snow drives the flocks down, they come lower, into the steep forest at the head of the valleys. They avoid the wet, wooded lowlands. In thick cloud, which is most days, they hunt by waiting for a gap.
 
 ## Key Behaviors
 
@@ -294,7 +294,7 @@ A drake hunts by day from a high perch. It lies motionless on a ledge or outcrop
 
 ## What the Hill People Do
 
-The shepherds of the Vardain Valleys bring the flocks into folds with roofs of turf before the first snow, because the drakes come down with the snow. In the summer grazing a shepherd watches the crags, and a bad drake that has learned to take sheep is reported to the valley's elders, who send to the [[lore-flkkhazar|Khazár Folk]] at [[place-vorgald|Vorgald]]; something from the hold comes down, and the drake is not seen again, and nobody in the valleys asks what. The smugglers who carry goods over the Sunderfells by pack-pony travel the high path in groups, with a man at the back watching the cliffs above, and they go under an overhang when they hear rocks falling. At [[place-caerwynd|Kaerwynd]] a drake's skin, hung on the gate, is a soldier's proof that he has been up in the passes, and a drake skull with its horns fetches a price in the wool markets of [[place-brynwold|Brynwold]].
+The shepherds of the Vardain Valleys bring the flocks into folds with roofs of turf before the first snow, because the drakes come down with the snow. In the summer grazing a shepherd watches the crags, and a bad drake that has learned to take sheep is reported to the valley's elders, who send to the [[lore-flkkhazar|Khazari]] at [[place-vorgald|Vorgald]]; something from the hold comes down, and the drake is not seen again, and nobody in the valleys asks what. The smugglers who carry goods over the Sunderfells by pack-pony travel the high path in groups, with a man at the back watching the cliffs above, and they go under an overhang when they hear rocks falling. At [[place-caerwynd|Kaerwynd]] a drake's skin, hung on the gate, is a soldier's proof that he has been up in the passes, and a drake skull with its horns fetches a price in the wool markets of [[place-brynwold|Brynwold]].
 
 ## Signs
 

@@ -418,7 +418,7 @@ sohl:
 
 ![[hrndrndrknt|Hrandrinna Drekanótt]]{float=top-left}
 
-Hrandrinna Drekanótt stands 5'7" tall with a light build. She has light fair skin, blonde hair, and brown eyes. Her features include an oval face, a small nose, a rounded chin, a wide mouth, light brows, and rosy cheeks. She has a scar running down her right leg.
+Hrandrinna stands 5'7" tall with a light build. She has light fair skin, blonde hair, and brown eyes. Her features include an oval face, a small nose, a rounded chin, a wide mouth, light brows, and rosy cheeks. She has a scar running down her right leg.
 
 Despite the demands of her craft, Hrandrinna carries herself with an easy grace and natural confidence, the bearing of someone completely comfortable in her own skin and sure of her competence.
 

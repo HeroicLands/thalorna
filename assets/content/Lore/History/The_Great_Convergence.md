@@ -52,7 +52,7 @@ every bureau files against, the date a [[lore-tanchei|Tanchéi]] computes a Gene
 names when it burns the year's spirit money.
 
 The dynastic record is a separate instrument and does not reach anything like so far—see
-[[lore-tantsoudyn|The Opening of the Tantsou Record]]. Both figures are current in the [[affiliation-tantsouempr|Empire of Tantsou]] and they
+[[lore-tantsoudyn|the oldest dynasty the archive can date]]. Both figures are current in [[affiliation-tantsouempr|Tantsou]] and they
 are not rivals. One is the epoch of cosmic time, held as revelation and stated as fact. The other is
 the earliest point at which the empire's filing cabinets can produce an emperor, a dynasty and a year
 together.

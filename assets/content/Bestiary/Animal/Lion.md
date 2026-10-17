@@ -238,7 +238,7 @@ On the flat top of the kopje a tawny shape lies stretched in the shade of a thor
 
 # Dossier {#dossier}
 
-The Lion is the great social cat, three to five hundred pounds, males much heavier than females, living in prides of four to thirty on the plains and acacia woodland of the [[place-sthrnsvnhs|Southern Savannahs]] and the savanna of the south of [[place-okharisrgn|Okharis Region]]. It is the only cat that lives in groups. The lionesses hunt together, and the males hold the ground and guard the cubs. A pride defends a huge range against other prides.
+The Lion is the great social cat, three to five hundred pounds, males much heavier than females, living in prides of four to thirty on the plains and acacia woodland of the [[place-sthrnsvnhs|Southern Savannahs]] and the savanna of the south of [[place-okharisrgn|Okharis]]. It is the only cat that lives in groups. The lionesses hunt together, and the males hold the ground and guard the cubs. A pride defends a huge range against other prides.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A pride has a firm rank order and divides its work, the females doing most of th
 
 ## What the Herding Clans Do
 
-The [[lore-nyalubaclt|Nyáluba]] clan of the [Ruwozi]{.name data-type="affiliation/polity"} are the lion-clan, the cattle-herders of the central plains and the first among the five clans, and for them the [[lore-lionruwozispr|Lion Spirit]], their guide, is an ancestral presence and not only an animal. At the [Great Lubemo]{.name data-type="affiliation/governmental"} at [[place-hetolubemo|Heto Lubemo]] the [[affiliation-nyalblion|Lion Totem]] cult keeps the memory-song of the [Long Pact]{.name data-type="lore/law"}. Herders bring the cattle into a thorn cattle-fold at night and kindle fires, and a boy keeps watch on the roof of the hut. A lion that takes a man is hunted down by a party of spears. The forest-hunters of the [[lore-khelathiclt|Khelathi]] guild take lion in the savanna fringe.
+The [[lore-nyalubaclt|Nyáluba]] clan of the [Ruwozi]{.name data-type="affiliation/lineage"} are the lion-clan, the cattle-herders of the central plains and the first among the five clans, and for them the [[lore-lionruwozispr|Lion Spirit]], their guide, is an ancestral presence and not only an animal. At the [Great Lubemo]{.name data-type="affiliation/governmental"} at [[place-hetolubemo|Heto Lubemo]] the [[affiliation-nyalblion|lion]] cult keeps the memory-song of the [Long Pact]{.name data-type="lore/law"}. Herders bring the cattle into a thorn cattle-fold at night and kindle fires, and a boy keeps watch on the roof of the hut. A lion that takes a man is hunted down by a party of spears. The forest-hunters of the [[lore-khelathiclt|Khelathi]] guild take lion in the savanna fringe.
 
 ## Signs
 

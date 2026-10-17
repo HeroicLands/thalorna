@@ -16,8 +16,8 @@ data:
 
 ## Overview
 
-Kirofa Village is the seat of the [[affiliation-kirofatrb|Kirofa Tribe]], which owes fealty to
+Kirofa Village is the seat of the [[affiliation-kirofatrb|Kirofa tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of
-the [[place-okharisrgn|Okharis Region]].
+[[place-okharisrgn|Okharis]].
 
 Date palms shade the village lanes down to the water, and its drying floors are covered with fruit through the end of the hot season.

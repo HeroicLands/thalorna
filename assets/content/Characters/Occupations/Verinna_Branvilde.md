@@ -400,7 +400,7 @@ Verinna Branvilde is a 30-year-old woman who stands 5'7" tall and is slender. Sh
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia Region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Verinna Branvilde came into the world of the shaman through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Verinna Branvilde came into the world of the shaman through a combination of circumstance and aptitude.
 
 Verinna was chosen at a young age to train as a shaman, believed to possess a strong connection to the spirit world. She has served her tribe for over a decade, performing rituals, divining omens, and healing the sick. Despite her abilities, she often feels the weight of responsibility and struggles to balance her duties with her desire for a more ordinary life.
 

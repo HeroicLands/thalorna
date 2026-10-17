@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [byzariargn], population: 45000, govern
 
 ## Overview
 
-In **Órashion** the forges burn day and night, and the dark city seems to burn with them. The [[affiliation-byzarianlg|Bizarian League]] calls it Blackstone, after the black basalt of its local quarries, which gives its walls their dark, sturdy look. Órashion is a mining and manufacturing city of about 45,000, built on deposits of iron, copper and semi-precious stones in the mountainous interior of the [[place-byzariargn|Bizaria Region]], and it produces the arms, armor, metalwork and finished goods that the other League cities trade across the continent. Its output runs from fine jewelry to military-grade weapons.
+In **Órashion** the forges burn day and night, and the dark city seems to burn with them. The [[affiliation-byzarianlg|League]] calls it Blackstone, after the black basalt of its local quarries, which gives its walls their dark, sturdy look. Órashion is a mining and manufacturing city of about 45,000, built on deposits of iron, copper and semi-precious stones in the mountainous interior of [[place-byzariargn|Bizaria]], and it produces the arms, armor, metalwork and finished goods that the other League cities trade across the continent. Its output runs from fine jewelry to military-grade weapons.
 
 ## The Roads and the Mines
 

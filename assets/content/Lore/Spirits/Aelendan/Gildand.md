@@ -9,7 +9,7 @@ data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 Kind
-: Weather-kin, of [[lore-thekindred|The Kindred]]
+: Weather-kin, of [[lore-thekindred|the Kindred]]
 
 Seat
 : no fixed place
@@ -23,11 +23,11 @@ Posture
 Met through
 : [[skill-gilpandsprt|Gildand Spirit Power]]
 
-Gildand, the West Wind, is weather-kin, and weather-kin are the awkward case in a tradition built on standing
+Gildand is weather-kin, and weather-kin are the awkward case in a tradition built on standing
 pacts: he holds no territory, cannot be located, and is present only while he is blowing. A tribe
 cannot keep a compact with him in the way it keeps one with a river-mother, and does not try.
 
-What the [[lore-aelendnppl|Áelendan People]] do instead is address him in the moment—at the turn of a season, before a
+What the [[lore-aelendnppl|Áelendan]] do instead is address him in the moment—at the turn of a season, before a
 crossing, when a storm is building off the water. The address is short, spoken aloud into the
 wind, and is understood to have been heard or not heard with no way of telling which.
 

@@ -36,4 +36,4 @@ Tharoza Talothates is a 21-year-old woman who stands 5'7" tall with a medium bui
 
 # Dossier {#dossier}
 
-Tharoza Talothates is the commander of the [City Watch]{.name data-type="affiliation"} and the highest official in the law enforcement structure of the [[affiliation-provncmktr|Province of Moktur]]. Tharoza values the judgment of [[being-xrphnklmkns|Zerofon Kalmakanes]] and regularly defers to his recommendations on prison management.
+Tharoza Talothates is the commander of the [City Watch]{.name data-type="affiliation"} and the highest official in the law enforcement structure of [[affiliation-provncmktr|Moktur]]. Tharoza values the judgment of [[being-xrphnklmkns|Zerofon Kalmakanes]] and regularly defers to his recommendations on prison management.

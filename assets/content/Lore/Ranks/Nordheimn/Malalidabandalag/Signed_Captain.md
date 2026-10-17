@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-A Signed Captain who swears a company into [[affiliation-malldbndlg|Málalidabandalag]] at [[place-hringstead|Hringstead]] learns the weight of it at once: his oath is the company's oath, and the Compact holds him answerable for whatever the company does.
+A captain who swears a company into [[affiliation-malldbndlg|the Compact]] at [[place-hringstead|Hringstead]] learns the weight of it at once: his oath is the company's oath, and the Compact holds him answerable for whatever the company does.
 
 ## What This Standing Is
 

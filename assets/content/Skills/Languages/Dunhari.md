@@ -793,7 +793,7 @@ sohl:
   flags: {"thalorna": {lang_family: Desert}}
 ---
 
-Dunhari Language is a tongue of the Desert family. Fluency measures the sophistication of expression in Dunhari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Dunhari is a tongue of the Desert family. Fluency measures the sophistication of expression in Dunhari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
@@ -928,7 +928,7 @@ The offices of the Amradi court take _-ader_ and _-abun_: the sovereign is the _
 
 ## Script and Literacy
 
-Dunhari employs the [[skill-dnshkscrpt|Dunshak Script]], an abjad system that represents consonants fully but marks vowels only in formal or poetic contexts through diacritical marks (circumflex, acute, grave accents). The script is written right-to-left, following ancient Ankarian convention.
+Dunhari employs the [[skill-dnshkscrpt|Dunshak script]], an abjad system that represents consonants fully but marks vowels only in formal or poetic contexts through diacritical marks (circumflex, acute, grave accents). The script is written right-to-left, following ancient Ankarian convention.
 
 Literacy among Dunhari nomadic populations centers on oral transmission; written literacy is highest in settled urban communities and courtly contexts. The primary literary form remains poetry and song, which are memorized and transmitted orally through generations.
 
@@ -985,7 +985,7 @@ The [[skill-dunharlng#lexicon|Dunhari Lexicon]] holds the stems of the tongue, t
 
 Dunhari is the primary member of the **Desert language family**, a classification that encompasses related languages of the central Ankarian desert regions. The family includes several extinct languages and at least one other modern language with limited speakers.
 
-The language shows distant connections to [[skill-taruzelilng|Taruzeli Language]] through ancient shared vocabulary related to trade and navigation, but these represent contact rather than genetic relationship.
+The language shows distant connections to [[skill-taruzelilng|Taruzeli]] through ancient shared vocabulary related to trade and navigation, but these represent contact rather than genetic relationship.
 
 ## Naming Traditions
 

@@ -250,7 +250,7 @@ Dusk comes early under the firs, and the track ahead is already a gray strip bet
 
 # Dossier {#dossier}
 
-The Shadow Lynx is a large, dark forest lynx, two to three feet high at the shoulder, three to four feet long with a short tufted tail, and about sixty pounds, built for silence and for one sudden, killing rush. It hunts alone at dusk and by night through deep forest, taking hares, grouse, deer fawns and the dogs and goats of the forest villages, and very occasionally a man. In the [[place-vrystwald|Vristwald]] its stronghold is [[place-skathwald|Skathwald]], the eastern reach where the nests of the [[lore-grukarfolk|Grukar Folk]] thicken, and two of the [[lore-varokhiclt|Varokhi]] villages there keep the [[lore-lynxttm|Lynx]] as their wesk.
+The Shadow Lynx is a large, dark forest lynx, two to three feet high at the shoulder, three to four feet long with a short tufted tail, and about sixty pounds, built for silence and for one sudden, killing rush. It hunts alone at dusk and by night through deep forest, taking hares, grouse, deer fawns and the dogs and goats of the forest villages, and very occasionally a man. In the [[place-vrystwald|Vristwald]] its stronghold is [[place-skathwald|Skathwald]], the eastern reach where the [[lore-grukarfolk|Grukar nests]] thicken, and two of the [[lore-varokhiclt|Varokh]] villages there keep the [[lore-lynxttm|lynx]] as their wesk.
 
 ## Presentation
 

@@ -100,11 +100,11 @@ The result is real intellectual achievement beside real arrogance. A student fro
 
 Scholars from across the realms come to study with Theradon's philosophers, physicians and natural historians. The city's libraries hold some of the oldest written texts in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and its colonnades are full of students in dialectic with their teachers. The Epistémion (the Academy of Knowledge) chapterhouse, part of the federation [[lore-panepistfnd|founded around 400 BF]], gives the city its standing as a place of study.
 
-The temples of the [[affiliation-arldnpnthn|Aureldian Pantheon]] keep high standards of ritual propriety, but the academy is the center of spiritual life, because the pursuit of wisdom is treated here as a sacred duty. Markets are orderly and regulated, and art and architecture are built to elevate the soul and sharpen the intellect. Theradon is sublime and stifling in the same afternoon: beauty and insight beside a narrow certainty about what counts as truth and a proper life.
+The temples of the [[affiliation-arldnpnthn|Aureldian pantheon]] keep high standards of ritual propriety, but the academy is the center of spiritual life, because the pursuit of wisdom is treated here as a sacred duty. Markets are orderly and regulated, and art and architecture are built to elevate the soul and sharpen the intellect. Theradon is sublime and stifling in the same afternoon: beauty and insight beside a narrow certainty about what counts as truth and a proper life.
 
 ## Commerce and Currency
 
-Theradon uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]] moneylenders chartered under [[affiliation-tevran|The Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Theradon uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

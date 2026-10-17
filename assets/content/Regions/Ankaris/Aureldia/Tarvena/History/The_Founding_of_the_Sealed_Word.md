@@ -56,11 +56,11 @@ data:
       unresolved: [which two lords swore the oath that opened the register]
 ---
 
-In The Founding of the Sealed Word, the first entry in the master register at [[place-olvestria|Ólvestra]] is a boundary oath between two lords of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]. [[affiliation-ordrsldwrd|The Order of the Sealed Word]], which keeps the register, was founded to hear exactly that kind of dispute, and the register has not stopped growing.
+The first entry in the master register at [[place-olvestria|Ólvestra]] is a boundary oath between two lords of [[affiliation-kingdmtrvn|Tarvénia]]. [[affiliation-ordrsldwrd|The Order of the Sealed Word]], which keeps the register, was founded to hear exactly that kind of dispute, and the register has not stopped growing.
 
 ## The Gap
 
-For three centuries the legions had kept the peace between the crowns of the [[place-aureldirgn|Aureldia Region]], in the sense that no crown could break an oath with another without the [[affiliation-vylarinmpr|Vylarian Empire]] noticing. The Edicts of Arzanas closed the western wars about 418 AF ([[lore-arzanasedict|The Edicts of Arzanas]]), and with them closed the Empire's willingness to be the court of last appeal. Oaths sworn between lords, between cities and between crowns were now guaranteed by nothing except the swearer's honor, and the swearers knew it.
+For three centuries the legions had kept the peace between the crowns of [[place-aureldirgn|Aureldia]], in the sense that no crown could break an oath with another without the [[affiliation-vylarinmpr|Empire]] noticing. The Edicts of Arzanas closed the western wars about 418 AF ([[lore-arzanasedict|The Edicts of Arzanas]]), and with them closed the Empire's willingness to be the court of last appeal. Oaths sworn between lords, between cities and between crowns were now guaranteed by nothing except the swearer's honor, and the swearers knew it.
 
 ## The Charter
 

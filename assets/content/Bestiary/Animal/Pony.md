@@ -246,7 +246,7 @@ The pony stands in the lane in front of the farm gate with its feet planted, thi
 
 # Dossier {#dossier}
 
-The Pony is the small, strong horse of the hill farms, under fourteen hands and five hundred to eight hundred pounds, built for endurance and labor. It works the upland farms of [[place-aureldirgn|Aureldia Region]], the steadings of the [[place-nrdlndsrgn|Nordlands Region]] and the clearings of [[place-vrystwald|Vristwald]] as a draft animal, farm worker and mount for small riders. It carries a weight that is large for its size.
+The Pony is the small, strong horse of the hill farms, under fourteen hands and five hundred to eight hundred pounds, built for endurance and labor. It works the upland farms of [[place-aureldirgn|Aureldia]], the steadings of the [[place-nrdlndsrgn|Nordlands]] and the clearings of [[place-vrystwald|Vristwald]] as a draft animal, farm worker and mount for small riders. It carries a weight that is large for its size.
 
 ## Presentation
 

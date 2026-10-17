@@ -57,11 +57,11 @@ data:
         - what the Sinale had grieved before the band came
 ---
 
-In The Crossing of Nelgan, the [[lore-aelendnppl|Áelendan People]] tell their own beginning with a herdsman at the head of the people, and they are particular that he had never led anyone before. He had kept sheep.
+[[lore-aelendnppl|The Áelendan]] tell their own beginning with a herdsman at the head of the people, and they are particular that he had never led anyone before. He had kept sheep.
 
 ## The Road West
 
-[Dhargan]{.name data-type="being/npc"}'s band was the last of a line that had been pushed west camp by camp for the lives of several generations, one of the many peoples driven ahead of [[lore-pelwarmigr|The Pelwar Migration]]. On a night in the far grassland the fires came, and by morning the band's chiefs were dead. The herdsman stood up and told the survivors to take the children and the seed and go west.
+[Dhargan]{.name data-type="being/npc"}'s band was the last of a line that had been pushed west camp by camp for the lives of several generations, one of the many peoples driven ahead of [[lore-pelwarmigr|the Pelwar Migration]]. On a night in the far grassland the fires came, and by morning the band's chiefs were dead. The herdsman stood up and told the survivors to take the children and the seed and go west.
 
 They crossed a river in spate by roping the sheep, then the children to the men, and Dhargan went back into the water for one more child and brought her out. The river took his wife. The plain beyond was flat and long, and when the last ewes were eaten the hungry men looked at the seed. Dhargan sat down on the sacks and would not rise. He told them to eat the sheep and the dogs and, if they must, himself, and not the seed, and nobody drew a knife after that.
 
@@ -73,7 +73,7 @@ The wood's bark took the starlight, and a light that was not fire moved in it. T
 
 The shaman [Silor]{.name data-type="being/npc"} sang at the edge of the trees, and the wood did not answer. His songs had been made for wolf and rain and river on open ground. A boy followed the lights in, and the wood closed behind him; he came out at the next full moon, no thinner, certain that a breath had passed, and said that a tree had spoken one word to him, which was _Begin_. A man cut birch from the wood's edge for the fire, and his hands went numb and stayed numb, and the numbness passed to his sons.
 
-The [[lore-flksinale|Sinale Folk]] watched all of it. [Haulera]{.name data-type="being/npc"}, the eldest of them, held that a pushed people does to the next thing what was done to it, and that the wood was the next thing, and she would have turned every path away to the sea. [Lauva]{.name data-type="being/npc"}, who keeps the pool, answered that the band would stay by them either way. The rest said neither, and the Sinale turned the paths in rings: they would not drive the band off to the sea, nor let it in, nor let it go.
+The [[lore-flksinale|Sinale]] watched all of it. [Haulera]{.name data-type="being/npc"}, the eldest of them, held that a pushed people does to the next thing what was done to it, and that the wood was the next thing, and she would have turned every path away to the sea. [Lauva]{.name data-type="being/npc"}, who keeps the pool, answered that the band would stay by them either way. The rest said neither, and the Sinale turned the paths in rings: they would not drive the band off to the sea, nor let it in, nor let it go.
 
 ## The Lean Year
 
@@ -94,4 +94,4 @@ Dhargan came up through the dark with no fire and no spear and his hands open, c
 - [[lore-theasking|The Asking]]—the Sinalean lay that tells the crossing
 - [[lore-lowestpoolpct|The Pact at the Lowest Pool]]—what the band did next
 - [[lore-pelwarmigr|The Pelwar Migration]]—the pressure behind it
-- [[place-nelgan|Nelgan]] · [[place-ethalosse|Ethalosse]] · [[place-silvrfrsts|The Silver Forests]]
+- [[place-nelgan|Nelgan]] · [[place-ethalosse|Ethalosse]] · [[place-silvrfrsts|the Silver Forests]]

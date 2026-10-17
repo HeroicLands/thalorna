@@ -370,11 +370,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Ermin Véldarin is slight—5'8" and 128 pounds, with a light build that makes him seem younger than his twenty-three years. His hair is prematurely gray, a shock of silver-white that he keeps cropped close to his skull, and his dark brown eyes are large and watchful in a medium-toned, rugged face that carries more tension than a man his age should. His features are fine—narrow jaw, high cheekbones, a thin nose—with the slightly hollowed look of someone who does not eat or sleep enough. He moves quietly, almost silently, a habit from years as a refugee when making noise meant danger. He wears the forest-town guard's standard kit—leather tunic, quilted padding, soft boots—but everything hangs slightly loose on his spare frame, and he keeps his cloak drawn close regardless of weather, as though perpetually braced against cold.
+Ermin is slight—5'8" and 128 pounds, with a light build that makes him seem younger than his twenty-three years. His hair is prematurely gray, a shock of silver-white that he keeps cropped close to his skull, and his dark brown eyes are large and watchful in a medium-toned, rugged face that carries more tension than a man his age should. His features are fine—narrow jaw, high cheekbones, a thin nose—with the slightly hollowed look of someone who does not eat or sleep enough. He moves quietly, almost silently, a habit from years as a refugee when making noise meant danger. He wears the forest-town guard's standard kit—leather tunic, quilted padding, soft boots—but everything hangs slightly loose on his spare frame, and he keeps his cloak drawn close regardless of weather, as though perpetually braced against cold.
 
 # Dossier {#dossier}
 
-Ermin was born to parents of the [[lore-elavendrnppl|Élavendren People]] but does not remember his early childhood. He was part of a refugee cohort that fled political persecution twelve years ago, when he was eleven years old. The experience of flight, loss, and displacement marked him in ways that remain visible in his bearing. His parents died during the journey (he will not say how), and he was taken in by a settlement near [[place-elavendre|Élavendre]]'s forest edge—a community that specialized in accepting refugees and integrating them into its life.
+Ermin was born to [[lore-elavendrnppl|Élavendren parents]] but does not remember his early childhood. He was part of a refugee cohort that fled political persecution twelve years ago, when he was eleven years old. The experience of flight, loss, and displacement marked him in ways that remain visible in his bearing. His parents died during the journey (he will not say how), and he was taken in by a settlement near [[place-elavendre|Élavendre]]'s forest edge—a community that specialized in accepting refugees and integrating them into its life.
 
 At eighteen, he joined the local town guard not out of ambition but out of pragmatic recognition that he had no other skills to sell. The work suited him in unexpected ways. His years as a refugee had made him acutely aware of danger and threat; his instinctive watchfulness, which had been a liability in civilian life, became an asset in security work. He moves through the forest-edge town with the characteristic silence of someone who learned early that making noise could mean death.
 
@@ -406,7 +406,7 @@ Ermin is regarded with a mixture of respect and unease by his community. His sta
 
 ### Enemies
 
-**Local Extremist [Kessian Forestborn]{.name data-type="being/npc"}**—An [[lore-elavendriclt|Élavendri]] traditionalist who views refugees as a contamination of local culture. Kessian has publicly opposed the refugee settlement and has made it clear that he resents Ermin's presence in the guard. He spreads rumors that Ermin is a spy for external powers and that his refugee background makes him untrustworthy.
+**Local Extremist [Kessian Forestborn]{.name data-type="being/npc"}**—[[lore-elavendriclt|A Élavendren]] traditionalist who views refugees as a contamination of local culture. Kessian has publicly opposed the refugee settlement and has made it clear that he resents Ermin's presence in the guard. He spreads rumors that Ermin is a spy for external powers and that his refugee background makes him untrustworthy.
 
 ## Plot Hooks
 

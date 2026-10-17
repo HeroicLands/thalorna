@@ -36,4 +36,4 @@ Zetmeryu-Khela is a 42-year-old man who stands 6'0" tall with a heavy build. He 
 
 # Dossier {#dossier}
 
-Zetmeryu-Khela holds the chief officer's post of the [[affiliation-garhalzi|Gar-Hálzi]] out of [[place-galezkara|Galezkara]]. The temple account-houses stay joined up across the whole [[affiliation-empireakhlth|Empire of Au'Khelathu]] under this one office. Any house trading between provinces eventually passes through a ledger this office keeps.
+Zetmeryu-Khela holds the chief officer's post of the [[affiliation-garhalzi|Gar-Hálzi]] out of [[place-galezkara|Galezkara]]. The temple account-houses stay joined up across the whole [[affiliation-empireakhlth|empire]] under this one office. Any house trading between provinces eventually passes through a ledger this office keeps.

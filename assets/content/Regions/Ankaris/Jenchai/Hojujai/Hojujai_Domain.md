@@ -78,7 +78,7 @@ The muster is 1,750 men and 20 ships. When the mountain erupts and a [[being-pyr
 
 ## Relations
 
-Hojujai and the [[affiliation-muwojaidmn|Muwojai Domain]] together form the loyalist bloc, with 2,500 men and 20 ships. They want the office of Teng Ja for the Hojujai heir when he comes of age, or for nobody. The [[affiliation-shuiwojaidmn|Shuiwojai Domain]] is the rival: in 709 AF Shuiwojai and the [[affiliation-wojaidmn|Wojai Domain]] pressed the court not to confer the office on a regency, which was the quarrel that began the [War of the Empty Seat]{.name data-type="lore/history"}.
+Hojujai and [[affiliation-muwojaidmn|Muwojai]] together form the loyalist bloc, with 2,500 men and 20 ships. They want the office of Teng Ja for the Hojujai heir when he comes of age, or for nobody. [[affiliation-shuiwojaidmn|Shuiwojai]] is the rival: in 709 AF Shuiwojai and [[affiliation-wojaidmn|Wojai]] pressed the court not to confer the office on a regency, which was the quarrel that began the [War of the Empty Seat]{.name data-type="lore/history"}.
 
 ## The Mountain's Verdict
 

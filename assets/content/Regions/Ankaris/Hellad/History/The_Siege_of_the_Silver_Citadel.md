@@ -63,7 +63,7 @@ When the legions came over the pass the commander of the citadel, **[Mathirkar G
 
 ## The Terms
 
-The Citadel surrendered on terms. The city kept its walls and its own garrison, and the [[affiliation-vylarinmpr|Vylarian Empire]] placed over it an imperial _usos_ (prefect) of the pass, who sat with the city council and spoke for the Orzas. The _usos_'s office outlasted the Empire's rule: when the legions marched away it became the **military governor**, and the governor sits to this day on the council of the [[affiliation-byzarianlg|Bizarian League]] beside the merchant-princes.
+The Citadel surrendered on terms. The city kept its walls and its own garrison, and the [[affiliation-vylarinmpr|Empire]] placed over it an imperial _usos_ (prefect) of the pass, who sat with the city council and spoke for the Orzas. The _usos_'s office outlasted the Empire's rule: when the legions marched away it became the **military governor**, and the governor sits to this day on the council of the [[affiliation-byzarianlg|League]] beside the merchant-princes.
 
 ## What the Siege Left
 
@@ -75,5 +75,5 @@ The Citadel surrendered on terms. The city kept its walls and its own garrison, 
 ## See Also
 
 - [[lore-heladeastwar|The Eastern War]]—the war this siege belongs to
-- [[affiliation-argyrteikhos|Argirteikhos]] · [[place-argyrteikhos2|The city of Argirteikhos]]
+- [[affiliation-argyrteikhos|Argirteikhos]] · [[place-argyrteikhos2|the city of Argirteikhos]]
 - [[place-eastrnmrch|Eastern March]]

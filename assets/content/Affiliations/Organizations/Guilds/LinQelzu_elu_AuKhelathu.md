@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-**Lin'Qelzu elu Au'Khelathu** is the chartered guild of the locksmiths of the [[place-aukhelathrgq|Au'Khelathu Region]], the makers of the empire's vaults, strongboxes and door-locks. It sets the standard a lock must meet before it is sold as guild-work, and the owners of anything worth stealing look for that certification. It shares its name with a society of thieves that studies its members' work closely, a coincidence the guild does not find amusing and does nothing to encourage.
+**Lin'Qelzu elu Au'Khelathu** is the chartered guild of the locksmiths of [[place-aukhelathrgq|Au'Khelathu]], the makers of the empire's vaults, strongboxes and door-locks. It sets the standard a lock must meet before it is sold as guild-work, and the owners of anything worth stealing look for that certification. It shares its name with a society of thieves that studies its members' work closely, a coincidence the guild does not find amusing and does nothing to encourage.
 
 ## Character
 

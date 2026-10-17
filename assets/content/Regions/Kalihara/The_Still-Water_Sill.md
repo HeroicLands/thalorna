@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The Still-Water Sill lies across the bed of the river at the head of [[place-klhrkthrgap|The Kuethori Gap]], where the water of [[place-klhrlake|The Bowl Lake]] leaves the interior of the [[place-klhrcntnnt|Kalihara Continent]] and enters the gorge. It is a long, low swell of [[lore-itharisul|Ithasul]] from bank to bank, gray and without a seam, and the river slides over it smooth. The custodians call it _ithavanu'sul_ (still-water stone), for the lake it keeps.
+The Still-Water Sill lies across the bed of the river at the head of [[place-klhrkthrgap|the Kuethori Gap]], where the water of [[place-klhrlake|the Bowl Lake]] leaves the interior of [[place-klhrcntnnt|Kalihara]] and enters the gorge. It is a long, low swell of [[lore-itharisul|ithasul]] from bank to bank, gray and without a seam, and the river slides over it smooth. The custodians call it _ithavanu'sul_ (still-water stone), for the lake it keeps.
 
 ## What It Does
 
@@ -24,7 +24,7 @@ While the sill does what it does, the lake holds its level through [Deepwater]{.
 
 ## The Holding
 
-[[affiliation-lineagekuethori|The Lineage Kuethori]] holds the sill, and has held it since the lineage's memory begins; its village stands on pilings at the lip of the gorge, along the last quiet water above the work. The custodians of [[place-mirthaan|Mirthaan]] tend the sill jointly with the Kuethori, who walk it with them and keep the marks by which the lake's level is read.
+[[affiliation-lineagekuethori|The lineage Kuethori]] holds the sill, and has held it since the lineage's memory begins; its village stands on pilings at the lip of the gorge, along the last quiet water above the work. The custodians of [[place-mirthaan|Mirthaan]] tend the sill jointly with the Kuethori, who walk it with them and keep the marks by which the lake's level is read.
 
 ## The Failing
 
@@ -34,7 +34,7 @@ The [Rite of Last Tending]{.name data-type="lore/custom"} is the office for a de
 
 ## What Is Seen from It
 
-Upstream the lake lies open and still, with [[place-klhrmassif|The Massif]] standing in it. Downstream the gorge walls close in, wet and hung with fern, and a slot of sea and sky shows at the far end of the gap.
+Upstream the lake lies open and still, with [[place-klhrmassif|the Massif]] standing in it. Downstream the gorge walls close in, wet and hung with fern, and a slot of sea and sky shows at the far end of the gap.
 
 ## The Cost of Reaching It
 

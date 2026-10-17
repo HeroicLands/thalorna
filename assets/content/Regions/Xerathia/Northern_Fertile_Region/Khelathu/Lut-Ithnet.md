@@ -14,7 +14,7 @@ data:
   banner: khelathubnr
 ---
 
-West of [[place-zumeleshrvr|The Zumelesh]], where the black land stops and the cliffs of the high desert stand up out of the sand, a canal runs straight across the margin into a bay of the rock. At its end stands **Lut-Ithnet**, the western estate of the house of [Zu'Lemetu]{.name data-type="affiliation/lineage"}: a walled house of whitewashed brick, a bronze water-gate on a stone basin, and behind it a row of tomb doors cut into the cliff face. Boatmen on the river call it the **House of Sealed Mouths**, and they say it under their breath.
+West of [[place-zumeleshrvr|the Zumelesh]], where the black land stops and the cliffs of the high desert stand up out of the sand, a canal runs straight across the margin into a bay of the rock. At its end stands **Lut-Ithnet**, the western estate of the house of [Zu'Lemetu]{.name data-type="affiliation/lineage"}: a walled house of whitewashed brick, a bronze water-gate on a stone basin, and behind it a row of tomb doors cut into the cliff face. Boatmen on the river call it the **House of Sealed Mouths**, and they say it under their breath.
 
 ## What It Is
 
@@ -59,7 +59,7 @@ The steward sent a man downriver for a relief boat when the water dropped, by hi
 ## Who Knows of It, and What They Say
 
 - **River boatmen** know the canal and know the estate is a bad place to put in. The canal has failed this season, and they are not sorry.
-- **The temple scribes of the [[affiliation-wethur|Faith of Weth'ur]]** hold copies of the house's older burial records and have had no new tablets from the estate in years. They want the originals before the heirs go to law.
+- **The temple scribes of [[affiliation-wethur|Weth'ur]]** hold copies of the house's older burial records and have had no new tablets from the estate in years. They want the originals before the heirs go to law.
 - **The heirs of Zu'Lemetu**, a cousin line in a river town, have never visited. They have a claim on the estate and no proof of it, because the proof is in the record room.
 - **The herders of the western margin** graze nowhere near the cliff bay. They say the estate's lamps burn all night, every night.
 

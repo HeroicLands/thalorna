@@ -93,9 +93,9 @@ Pronunciation
 Pantheon
 : [[affiliation-varakpnthn|Varnuka Pantheon]]
 
-"Before you ask the council for anything, come and ask us," an **Achorya** tells the shrena clerk who has come to the temple with a plan for a new water-gate. "We do not decide your gate. We tell you which chamber to bring it to, and whether it will be blessed when the shovels gho in." The clerk had come for a signature and has been given a lesson in how the city works. In [[affiliation-vyalendra2|Vyalendra City-State]] the senior priest of the Triyanga temple sanctions the Council's acts, and a decision the temples will not sanction does not take effect, so the Council has learned to ask beforehand.
+"Before you ask the council for anything, come and ask us," an **Achorya** tells the shrena clerk who has come to the temple with a plan for a new water-gate. "We do not decide your gate. We tell you which chamber to bring it to, and whether it will be blessed when the shovels gho in." The clerk had come for a signature and has been given a lesson in how the city works. In [[affiliation-vyalendra2|Vyalendra]] the senior priest of the Triyanga temple sanctions the Council's acts, and a decision the temples will not sanction does not take effect, so the Council has learned to ask beforehand.
 
-Triyanga-sampradeya is the largest and most orthodox of the Varnakan schools. For most Vedyarans the word "Varnuka" and the word "Triyanga" are almost interchangeable. It is the tradition of the great city-temples and the royal courts. Its calendar sets the public year, its high priests advise the city councils, and its rites are invoked at every civic occasion of consequence.
+It is the largest and most orthodox of the Varnakan schools. For most Vedyarans the word "Varnuka" and the word "Triyanga" are almost interchangeable. It is the tradition of the great city-temples and the royal courts. Its calendar sets the public year, its high priests advise the city councils, and its rites are invoked at every civic occasion of consequence.
 
 ### The Doctrine of Three Forms
 
@@ -133,7 +133,7 @@ The **[Order of the Balanced Temple]{.name data-type="affiliation/order"}** is t
 
 ### The Council of the Triyacharyas
 
-The Council decides which practices may be worked in the open, in a god's name, before people who did not ask to be present. It teaches no practice of its own. It is also, by an authority nobody granted it and nobody has successfully contested, the licensing authority for public working throughout the [[place-vedyarargn|Vedyara Region]].
+The Council decides which practices may be worked in the open, in a god's name, before people who did not ask to be present. It teaches no practice of its own. It is also, by an authority nobody granted it and nobody has successfully contested, the licensing authority for public working throughout [[place-vedyarargn|Vedyara]].
 
 _The rule it enforces is the school rule._ A Varnakan ordains into a school and never to a god. A working done inside a school is the school's business, and the Council's only if the school asks. A working done outside every school is folk magic: the village charm, the herb-woman, the knot against a fever. The Council tolerates it completely, on the understanding that it claims nothing. A working done outside every school _in a god's name_ is neither, and the answer to it is **Patuta**. The working is stopped, the worker is put out of Varnakan observance, and the face is branded. Every house and school recognizes the brand. The sentence can be forgiven, and the forgiven person carries proof of the forgiveness for the rest of their life.
 
@@ -143,7 +143,7 @@ That single rule is why Vedyara looks, to an outsider, as though its priests hol
 
 **What it condemns without pursuing.** [[affiliation-chayavrata|The Chaya-vreta]] works outside the schools and in no god's name at all, which is exactly what makes the sanction unusable: the vow claims nothing, so there is nothing to strike at. The Council states the condemnation and leaves the pursuit to courts that cannot find anyone to try.
 
-**What it has no reach over.** The [[affiliation-ganakashala|Ganoka-shalda]] computes and does not work, and the Council has no ground to license a calculation. The two bodies disagree about the year instead, and the disagreement is durable because authority cannot resolve it. The Council sights the year at [[place-suryatempl|The Surva temple]], the college computes it, the figures differ by a day often enough to matter, and each court declares which it follows.
+**What it has no reach over.** The [[affiliation-ganakashala|Ganoka-shalda]] computes and does not work, and the Council has no ground to license a calculation. The two bodies disagree about the year instead, and the disagreement is durable because authority cannot resolve it. The Council sights the year at [[place-suryatempl|the Surva temple]], the college computes it, the figures differ by a day often enough to matter, and each court declares which it follows.
 
 ### Geographic Presence
 

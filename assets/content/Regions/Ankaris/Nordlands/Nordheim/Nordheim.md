@@ -18,7 +18,7 @@ data:
 
 A pilot who has brought ships into the Nordheim fjords for thirty winters gives every new hand the same first lesson: "Count the headlands, not the days. Every fjord on this coast looks like the last one until you know which hall's smoke is rising at the head of it."
 
-Nordheim is the land of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], the northwestern coast of the [[place-nrdlndsrgn|Nordlands Region]] in the frozen north of the [[place-ankrscntnnt|Ankaris Continent]]. About 650,000 people live here, the most of any northern kingdom, and most of them live along the coast and the rivers. It is a country of rugged mountains, vast fjords and warrior peoples, and its coast is the reason the [[lore-nordheimnclt|Nordmen]] are the foremost sailors of the northern seas.
+Nordheim is the land of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], the northwestern coast of the [[place-nrdlndsrgn|Nordlands]] in the frozen north of the [[place-ankrscntnnt|Ankaris Continent]]. About 650,000 people live here, the most of any northern kingdom, and most of them live along the coast and the rivers. It is a country of rugged mountains, vast fjords and warrior peoples, and its coast is the reason the [[lore-nordheimnclt|Nordmen]] are the foremost sailors of the northern seas.
 
 ## Geography
 

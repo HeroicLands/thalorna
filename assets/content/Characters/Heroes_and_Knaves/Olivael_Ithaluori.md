@@ -424,7 +424,7 @@ sohl:
 
 ![[olvlthlr|Olivael Ithaluori]]{float=top-left}
 
-Olivael Ithaluori stands 5'4" tall with a medium build. She has rich brown skin, white hair, and dark brown eyes. Her features include a high-cheekboned face, an aquiline nose, a tapered chin, generous lips, and rich brows.
+Olivael stands 5'4" tall with a medium build. She has rich brown skin, white hair, and dark brown eyes. Her features include a high-cheekboned face, an aquiline nose, a tapered chin, generous lips, and rich brows.
 
 # Dossier {#dossier}
 
@@ -501,7 +501,7 @@ Paralysis
 ### Patrons
 
 The [Kubasari]{.name data-type="affiliation/lineage"}
-: the eldest of the three merchant families of [[affiliation-housefactors|The House of Factors]], which has consulted Olivael before every great venture for thirty years and paid her well. Its present head, whom the port calls **Lord [[being-mahituatheil|Mahitua Theiluori]]**, presides at the House as Eldest Factor and counts her essential to his plans, and she thinks most of his plans foolish.
+: the eldest of the three merchant families of [[affiliation-housefactors|the House of Factors]], which has consulted Olivael before every great venture for thirty years and paid her well. Its present head, whom the port calls **Lord [[being-mahituatheil|Mahitua]]**, presides at the House as Eldest Factor and counts her essential to his plans, and she thinks most of his plans foolish.
 
 [The Council of the Epistémion]{.name data-type="affiliation"}
 : Olivael's relations with the federation's leadership are uneasy, but several senior scholars are devoted to her work and send her money, rare texts and instruments across the water.

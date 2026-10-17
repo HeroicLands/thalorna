@@ -246,7 +246,7 @@ The mule at the head of the string stops on the narrow ledge, ears swiveling, an
 
 # Dossier {#dossier}
 
-The Mule is the pack animal of the hard roads, the offspring of a jack donkey and a mare, four to five feet at the shoulder and four hundred fifty to six hundred pounds. It carries loads over steep and broken country on the passes of [[place-graznmntns|The Grazian Mountains]], the hill roads of the Bizarian [[place-southrnmrch|Southern March]], the gorges of [[place-aelwyth|Aelwyth]] and the mountain tracks of [[place-ixilankulrgn|Ish'ilankul Region]]. It has a donkey's compact build and a horse's muscle and agility, and a long memory and good judgement.
+The Mule is the pack animal of the hard roads, the offspring of a jack donkey and a mare, four to five feet at the shoulder and four hundred fifty to six hundred pounds. It carries loads over steep and broken country on the passes of [[place-graznmntns|the Grazian Mountains]], the hill roads of the Bizarian [[place-southrnmrch|Southern March]], the gorges of [[place-aelwyth|Aelwyth]] and the mountain tracks of [[place-ixilankulrgn|Ish'ilankul]]. It has a donkey's compact build and a horse's muscle and agility, and a long memory and good judgement.
 
 ## Presentation
 

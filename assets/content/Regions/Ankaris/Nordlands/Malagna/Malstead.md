@@ -24,7 +24,7 @@ Málstead's one recurring argument is whether a verdict given here binds as firm
 
 ## The Wergild
 
-The quarrel the kingdom's two great clans remember differently is called the Málstead wergild. A priest of the [[affiliation-frodvin|Faith of Frodvin]] walked between [[place-braldheim|Braldheim]] and Málstead to seek a peace between the [[affiliation-grimvar|Grimvar]] and the [[affiliation-hrafnvar|Hrafnvar]], and both jarls marked a split oath-stave. [[lore-mlgnahstry|Histories and Legends of Malagna]] tells both sides.
+The quarrel the kingdom's two great clans remember differently is called the Málstead wergild. A priest of [[affiliation-frodvin|Frodvin]] walked between [[place-braldheim|Braldheim]] and Málstead to seek a peace between the [[affiliation-grimvar|Grimvar]] and the [[affiliation-hrafnvar|Hrafnvar]], and both jarls marked a split oath-stave. [[lore-mlgnahstry|Histories and Legends of Malagna]] tells both sides.
 
 ## See Also
 

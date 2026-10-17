@@ -18,7 +18,7 @@ data:
 
 ## The Hush at the Heart of the Wood
 
-In the deep forest there is a circle where nothing grows and no bird calls, and the forest's dead come out of it at dusk. The party must cross [[place-slntclrng|The Silent Clearing]], reach its heart, and face what sits there. The wound cannot be closed. It can only be held, and the cost of holding it is paid by someone.
+In the deep forest there is a circle where nothing grows and no bird calls, and the forest's dead come out of it at dusk. The party must cross [[place-slntclrng|the Silent Clearing]], reach its heart, and face what sits there. The wound cannot be closed. It can only be held, and the cost of holding it is paid by someone.
 
 ### Hook
 
@@ -29,7 +29,7 @@ Offer the entry that suits the hero.
 - **The leader.** The chieftain's own scouts came back silent: they could speak but not hear, and they cannot say what they saw. The chieftain must decide whether to take the party's counsel or the shamans'.
 - **The lone wanderer.** The wanderer has walked a ten-day trail toward a silence no map shows. Behind them a forest tribe has been moved on by something at night.
 
-The place note is [[place-slntclrng|The Silent Clearing]].
+The place note is [[place-slntclrng|the Silent Clearing]].
 
 ## Scene One: The Line of Bells
 
@@ -46,7 +46,7 @@ The place note is [[place-slntclrng|The Silent Clearing]].
 
 - _Force:_ fight the Ash-Warden. He is tough, knows the ground and burns what he fights.
 - _Stealth:_ circle the rim and cross at a gap in the bells.
-- _Guile:_ claim to be the [Leopard King]{.name data-type="being/npc"}'s men. The Warden knows the hunters of [[place-lpdkngcrt|The Leopard King's Court]] and may know the lie.
+- _Guile:_ claim to be the [Leopard King]{.name data-type="being/npc"}'s men. The Warden knows the [[place-lpdkngcrt|Court's hunters]] and may know the lie.
 - _Parley:_ the Warden answers gesture. He has lived for years among those who do not speak, and he shows the safe paths to a party that signs honestly.
 
 **Clues and rewards.** The ash-paths run in spiral lines, each one marked at its end with a skull. The Warden's tally-cord records the dead he has burned: more than a person can count.
@@ -87,7 +87,7 @@ The place note is [[place-slntclrng|The Silent Clearing]].
 
 **NPCs and threats.**
 
-- The Quiet Dead. [[being-damut|Damut]] of every kind of person the forest has lost: hunters, children, a factor of the [[lore-khelathiclt|Khelathi]] in a rotted coat. They are slow in the open and fast in the dark. They fight in silence, grasping and dragging, and their bites and scratches leave a cold in the wound. They hunt by sight and are drawn to light, though they cannot be turned by it.
+- The Quiet Dead. [[being-damut|Damutu]] of every kind of person the forest has lost: hunters, children, a factor of the [[lore-khelathiclt|Khelathi]] in a rotted coat. They are slow in the open and fast in the dark. They fight in silence, grasping and dragging, and their bites and scratches leave a cold in the wound. They hunt by sight and are drawn to light, though they cannot be turned by it.
 - **Any party member who died** in earlier scenes. They rise among the others.
 
 **Player choices.**
@@ -111,7 +111,7 @@ The place note is [[place-slntclrng|The Silent Clearing]].
 
 **NPCs and threats.**
 
-- [The Listener]{.name data-type="being/creature"}. One of the [[being-tereb|Tereb]] who sat down at the wound long ago and listened to the void until he became more of it than of himself. He was a priest or a sorcerer; no living person knows. He speaks without sound, in the party's own voices. He offers bargains: a lost child returned, a dead partner's name, knowledge of [[lore-theshadow|The Shadow]]. His tactics are temptation first and a surge of the dead second. He cannot leave the wound's edge. He is not the wound, only its keeper, and killing him does not close it.
+- [The Listener]{.name data-type="being/creature"}. [[being-tereb|A tereb]] who sat down at the wound long ago and listened to the void until he became more of it than of himself. He was a priest or a sorcerer; no living person knows. He speaks without sound, in the party's own voices. He offers bargains: a lost child returned, a dead partner's name, knowledge of [[lore-theshadow|the Shadow]]. His tactics are temptation first and a surge of the dead second. He cannot leave the wound's edge. He is not the wound, only its keeper, and killing him does not close it.
 
 **Player choices.**
 
