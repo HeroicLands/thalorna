@@ -16,25 +16,25 @@ data:
 
 ## Overview
 
-The Warm stands on the summit of [[place-klhrmassif|the Massif]], the mount in the middle of [[place-klhrlake|the Bowl Lake]], above the sanctuary of [[place-veshvaan|Veshvaan]] on its shoulder. It is the greatest of the works the [[lore-theithari|Ithari]] left on [[place-klhrcntnnt|Kalihara]]: one body of [[lore-itharisul|ithasul]], gray and seamless like every work, warm to the hand in every season and faintly lit after dark. The custodians call it _sul'vaan_ (stone of the whole).
+The Warm stands on the summit of [[place-klhrmassif|The Massif]], the mount in the middle of [[place-klhrlake|The Bowl Lake]], above the sanctuary of [[place-veshvaan|Veshvaan]] on its shoulder. It is the greatest of the works [[lore-theithari|The Ithari]] left on the [[place-klhrcntnnt|Kalihara Continent]]: one body of [[lore-itharisul|Ithasul]], gray and seamless like every work, warm to the hand in every season and faintly lit after dark. The custodians call it _sul'vaan_ (stone of the whole).
 
 ## What It Does
 
-The custodians hold that the Warm keeps the mountains of [[place-klhrring|the Ring]] asleep, and none of the Ring's volcanic peaks has erupted in the whole of the record Veshvaan keeps. Nothing confirms that the one follows from the other.
+The custodians hold that the Warm keeps the mountains of [[place-klhrring|The Ring]] asleep, and none of the Ring's volcanic peaks has erupted in the whole of the record Veshvaan keeps. Nothing confirms that the one follows from the other.
 
 ## The Holding
 
-The summit is the custodians' ground, and the silkan alone tend the Warm. The lineage Marivoel holds the Massif and its shores below, keeps the landings and the boats, and carries the custodians across the lake.
+The summit is the custodians' ground, and the silkan alone tend the Warm. The lineage [Marivoel]{.name data-type="affiliation/lineage"} holds the Massif and its shores below, keeps the landings and the boats, and carries the custodians across the lake.
 
 ## The Failing
 
-The Warm looks exactly as it always has: gray, giving under the hand, warm, and faintly lit at night. It is cooler to the hand than the oldest account of it in Veshvaan's archive, and the Ring has trembled in each of the last two Walks, where the archive records no tremor in all its length. The Bearer of the Crisis holds the first of these and has told nobody, the Council included.
+The Warm looks exactly as it always has: gray, giving under the hand, warm, and faintly lit at night. It is cooler to the hand than the oldest account of it in Veshvaan's archive, and the Ring has trembled in each of the last two [Tenth-Year Walk]{.name data-type="lore/custom"}s, where the archive records no tremor in all its length. The Bearer of the Crisis holds the first of these and has told nobody, [[affiliation-councilisland|The Council of the Island]] included.
 
 Every lineage on the island has seen a tending-stone go white, and every one knows that works fail. That the Warm has begun to cool is known to the Bearer alone. There is nothing on the summit to show anybody else: the substance has not changed, and a work going wrong gives no sign of how long it has.
 
 ## What Is Seen from It
 
-From the summit the whole of [[place-klhrbowl|the Bowl]] lies below: the lake on every side, [[place-klhrestrrc|the Eastern Terraces]] climbing the far shore to the east and south, [[place-klhrdpfrst|the Deep Forest]] dark to the west and north, and the crest of the Ring closing the view all the way round. The passes show as notches in the crest.
+From the summit the whole of [[place-klhrbowl|The Great Bowl]] lies below: the lake on every side, [[place-klhrestrrc|The Eastern Terraces]] climbing the far shore to the east and south, [[place-klhrdpfrst|The Deep Forest]] dark to the west and north, and the crest of the Ring closing the view all the way round. The passes show as notches in the crest.
 
 ## The Cost of Reaching It
 

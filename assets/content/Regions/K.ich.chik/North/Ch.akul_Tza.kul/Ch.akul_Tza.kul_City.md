@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [chakultzklrgn], population: 700}
 
 ## Overview
 
-Water decides everything in **Ch'akul Tsa'kul**, the Thirsty Land, and the region's central settlement, about 700 people, lives by that rule. The desert is a barrier of sand seas, mesas and salt flats between the tribal north and K'ich'chik civilization, held by neither wall nor garrison, and claimed by no nation. A caravan crossing it from the northern trading posts to the southern markets takes several weeks.
+Water decides everything in Ch'akul Tsa'kul, the Thirsty Land, and the region's central settlement, about 700 people, lives by that rule. The desert is a barrier of sand seas, mesas and salt flats between the tribal north and K'ich'chik civilization, held by neither wall nor garrison, and claimed by no nation. A caravan crossing it from the northern trading posts to the southern markets takes several weeks.
 
 ## Posts and Oases
 

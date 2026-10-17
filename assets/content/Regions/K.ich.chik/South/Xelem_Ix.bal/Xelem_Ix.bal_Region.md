@@ -12,9 +12,9 @@ data: {demonym: null, lore, parents: [sthrnkchchk], population: null, packFolder
 
 ## Overview
 
-Shelem Ish'bal Region is forsaken wastes that no one truly rules, watched over from its threshold by the [[affiliation-itzanpnthn|Itsani]] priesthood, and lies within [[place-sthrnkchchk|Southern K'ich'chik]] on the [[place-kchchkcntnnt|K'ich'chik Continent]].
+Shelem Ish'bal Region is forsaken wastes that no one truly rules, watched over from its threshold by the priesthood of the [[affiliation-itzanpnthn|Itsani Pantheon]], and lies within [[place-sthrnkchchk|Southern K'ich'chik]] on the [[place-kchchkcntnnt|K'ich'chik Continent]].
 
-Shelem Ish'bal—the Land of the Dead Jaguar—is the forsaken realm at the southern edge of [[place-kchchkcntnnt|K'ich'chik]]. It is a place of terror, legend, and desperate ambition. The earth here has been scourged by divine wrath, blasted and twisted into forms that defy nature and sense. Some priesthoods whisper that this was the site of a catastrophic failure in a previous age of the world, when the celestial order faltered and the gods themselves turned their back. Others claim the wastes are a living punishment, a scar in the world that refuses to heal.
+Shelem Ish'bal—the Land of the Dead Jaguar—is the forsaken realm at the southern edge of K'ich'chik. It is a place of terror, legend, and desperate ambition. The earth here is held to have been scourged by divine wrath, blasted and twisted into forms that defy nature and sense. Some priesthoods whisper that this was the site of a catastrophic failure in a previous age of the world, when the celestial order faltered and the gods themselves turned their back. Others claim the wastes are a living punishment, a scar in the world that refuses to heal.
 
 The people of the northern realms speak of Shelem Ish'bal with dread reverence. It is both graveyard and crucible—a place where warriors and priests travel to test their worth against impossible odds, knowing that most who venture into those wastes will never return. Those who do return changed forever, marked by knowledge and suffering that sets them apart from ordinary mortals. In the pyramid-cities, such survivors are regarded with a mixture of awe and fear, often elevated to positions of great authority or spiritual significance. The wastes call to the ambitious, the doomed, and the desperate—and in return, most of them feed the frozen earth.
 
@@ -36,7 +36,7 @@ Shelem Ish'bal has no maritime access and no territories to claim or defend in a
 
 Trade is essentially non-existent in Shelem Ish'bal itself. The only significant economic activity is the looting of ancient ruins said to lie buried beneath ice and ash—remnants of a civilization that existed before the current age. Rumors speak of cities of fantastic architecture, of devices and artifacts whose purposes are forgotten, of wealth in forms that no longer exist in the modern world. A handful of obsessed explorers and treasure-seekers venture into these wastes, risking their lives (and usually losing them) in pursuit of legendary artifacts.
 
-What truly flows through Shelem Ish'bal is not trade, but transformation. The wastes are a crucible where the weak are burned away and the strong are tempered. It is this that draws the ambitious, the doomed, and the desperate—not commerce, but the promise of transcendence, of power, or of a glorious death that will grant passage to the Eternal Garden of [[affiliation-itzanpnthn|P'iqal Kul'qat]], the creator god.
+What truly flows through Shelem Ish'bal is not trade, but transformation. The wastes are a crucible where the weak are burned away and the strong are tempered. It is this that draws the ambitious, the doomed, and the desperate—not commerce, but the promise of transcendence, of power, or of a glorious death held to grant passage to the [Eternal Garden]{.name data-type="place/site"} of [[lore-piqalkulqatdty|P'iqal Kul'qat]], the creator god.
 
 ## See Also
 

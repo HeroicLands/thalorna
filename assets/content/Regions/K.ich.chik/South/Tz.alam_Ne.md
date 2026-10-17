@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [ixbaltzakurgn], population: 45000, pac
 
 ## Overview
 
-Ts’alam Ne’, "The House of Stars" (or "The Water House of the Stars"), is the great coastal port city of [[affiliation-ixbaltzaku|Ish’bal Tsa’ku]], where the mighty jungle rivers open into ocean waters. The city is built around a natural harbor, and its maritime power is unmatched in the southern territories—controlling the vast majority of sea trade, fishing rights, and naval defense. The city pulses with the energy of commerce and the cosmopolitan chaos that attends any major port.
+Ts’alam Ne’, "The House of Stars" (or "The Water House of the Stars"), is the great coastal port city of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]], where the mighty jungle rivers open into ocean waters. The city is built around a natural harbor, and its maritime power is unmatched in the southern territories—controlling the vast majority of sea trade, fishing rights, and naval defense. The city pulses with the energy of commerce and the cosmopolitan chaos that attends any major port.
 
 ## Location and Geography
 
@@ -18,11 +18,11 @@ Ts’alam Ne’ spreads across a series of coastal hills and peninsulas, natural
 
 ## Maritime and Commercial Power
 
-Ts’alam Ne’ dominates the maritime economy of [[affiliation-ixbaltzaku|Ish’bal Tsa’ku]] and the broader southern coast. The city controls a powerful fleet and maintains hegemony over coastal trade routes. Merchants from [[place-nepaxel|Ne’ P’ashel]] and the highland cities send goods here for maritime distribution to distant ports. The city is also a major fishing center; teams of fishermen sail daily to the rich waters offshore, bringing back abundant catches that feed the city and are preserved for trade.
+Ts’alam Ne’ dominates the maritime economy of Ish’bal Tsa’ku and the broader southern coast. The city controls a powerful fleet and maintains hegemony over coastal trade routes. Merchants from [[place-nepaxel|Ne’ P’ashel]] and the highland cities send goods here for maritime distribution to distant ports. The city is also a major fishing center; teams of fishermen sail daily to the rich waters offshore, bringing back abundant catches that feed the city and are preserved for trade.
 
 ## People and Culture
 
-Ts’alam Ne’ is the most cosmopolitan city in the south, with merchant families and trading colonies from across [[place-kchchkcntnnt|K’ich’chik]]. The city has a reputation for relative pragmatism and mercantile ruthlessness—social mobility through wealth is more common here than in other [[place-kchchkcntnnt|K’ich’chik]] cities, though the priesthood still maintains ultimate authority. The waterfront districts are particularly volatile, with frequent disputes over trade rights, maritime law, and cargo.
+Ts’alam Ne’ is the most cosmopolitan city in the south, with merchant families and trading colonies from across the [[place-kchchkcntnnt|K'ich'chik Continent]]. The city has a reputation for relative pragmatism and mercantile ruthlessness—social mobility through wealth is more common here than in other K’ich’chik cities, though the priesthood still maintains ultimate authority. The waterfront districts are particularly volatile, with frequent disputes over trade rights, maritime law, and cargo.
 
 ## See Also
 

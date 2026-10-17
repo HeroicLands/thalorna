@@ -81,15 +81,15 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-Ish'bal Tsa'ku holds the land of [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]]. The region is home to some of the most powerful city-states in all of [[place-kchchkcntnnt|K'ich'chik]], rivals in grandeur and influence even to the great cities of [[affiliation-ixilankul|Ish'ilankul]]. The name itself means "Jaguar's House" in the high speech, and the region's peoples have long revered the spotted predator as an emblem of divine power and earthly dominion.
+Ish'bal Tsa'ku holds the land of the [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]]. The region is home to some of the most powerful city-states in all of the [[place-kchchkcntnnt|K'ich'chik Continent]], rivals in grandeur and influence even to the great cities of [[affiliation-ixilankul|Ish'ilankul]]. The name itself means "Jaguar's House" in the high speech, and the region's peoples have long revered the spotted predator as an emblem of divine power and earthly dominion.
 
-The region stands as the uppermost reach of [[place-kchchkcntnnt|K'ich'chik]]'s southern expansion, fully integrated into the unified priesthood of the [[affiliation-itzanpnthn|Itsani]] and bound by the sacred _ish'lan ch'upul_ (white roads) that connect its greatest cities. The Ch'um Ish'lan relay network reaches Ish'bal Tsa'ku in three to four days from [[affiliation-ixilankul|Ish'ilankul]], routing through [[affiliation-neokbaate|Ne'ok Ba'ate]] along the great southern white road; the priesthood maintains well-staffed way-stations along the highland road, ensuring that the Ch'alish Tq'an's decrees and intelligence from the heartland arrive with regularity. Here, the celestial calendar governs all—planting and harvest, pilgrimage and sacrifice. The great pyramid temples cast long shadows across terraced highlands, and blood spilled on their altars waters the cosmic order itself.
+The region stands as the uppermost reach of K'ich'chik's southern expansion, fully integrated into the unified priesthood of the [[affiliation-itzanpnthn|Itsani Pantheon]] and bound by the sacred _ish'lan ch'upul_ (white roads) that connect its greatest cities. The [Ch'um Ish'lan]{.name data-type="affiliation"} relay network reaches Ish'bal Tsa'ku in three to four days from Ish'ilankul, routing through [[affiliation-neokbaate|Ne'ok Ba'ate]] along the great southern white road; the priesthood maintains well-staffed way-stations along the highland road, ensuring that the Ch'alish Tq'an's decrees and intelligence from the heartland arrive with regularity. Here, the celestial calendar governs all—planting and harvest, pilgrimage and sacrifice. The great pyramid temples cast long shadows across terraced highlands, and blood spilled on their altars is held to water the cosmic order itself.
 
 ## Maritime Powers
 
-These coastal powers are nominally part of the [[affiliation-itzanpnthn|Itsani]] unified priesthood, but they guard their maritime autonomy jealously, and the ocean itself remains a boundary that even the highest priest-kings approach with caution.
+These coastal powers are nominally part of the Itsani unified priesthood, but they guard their maritime autonomy jealously, and the ocean itself remains a boundary that even the highest priest-kings approach with caution.
 
-The river systems themselves are carefully controlled by the highland city-states. [[place-nepaxel|Ne' P'ashel]] stands at the critical junction where mountain and jungle trade routes meet, and its rulers exact tribute and control from merchants passing through to the coast.
+The river systems themselves are carefully controlled by the highland city-states. [[place-nepaxel|Ne’ P’ashel]] stands at the critical junction where mountain and jungle trade routes meet, and its rulers exact tribute and control from merchants passing through to the coast.
 
 ## Trade
 

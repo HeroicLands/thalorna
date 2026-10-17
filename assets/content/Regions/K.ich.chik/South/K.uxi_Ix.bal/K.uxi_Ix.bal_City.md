@@ -10,15 +10,15 @@ data: {demonym: null, lore: [], parents: [kuxiixbalrgn], population: 30000, gove
 
 ## Overview
 
-The air is thin at **K'ushi Ish'bal**, and a lowlander arriving from the north spends his first days short of breath. The seat of the Second Jaguar Land is a city of about 30,000 on an immense high plateau, a land of cold winds and sparse grasslands with an open sky that seems close enough to touch, and shamans and priests come here to commune with celestial forces. It stands on a threshold, with the heights and civilization of the upper south behind it and the harsh, forsaken wastes ahead.
+The air is thin at K'ushi Ish'bal, and a lowlander arriving from the north spends his first days short of breath. The seat of [[affiliation-kuxiixbal|K'ushi Ish'bal]], the Second Jaguar Land, is a city of about 30,000 on an immense high plateau, a land of cold winds and sparse grasslands with an open sky that seems close enough to touch, and shamans and priests come here to commune with celestial forces. It stands on a threshold, with the heights and civilization of the upper south behind it and the harsh, forsaken wastes ahead.
 
 ## A Garrison Economy
 
-The cities of the plateau are garrison-like. The priesthood claims large portions of the herds and grain harvests as tribute or tithe, and little wealth leaves the realm: most is hoarded in temple treasuries or consumed in ritual. The economy is oriented toward survival and toward provisioning expeditions. The main goods are travelers' provisions for the far south, dried meats, cold-weather cloaks, strong cords, and the dried leaf that eases breathing at altitude, along with fine wool woven into textiles and exported north. The great fortress-city of [[place-qptlulneok|Q'aptel'ul Ne'ok]] is the primary staging point for expeditions into the wastes, and its merchants profit enormously from outfitting them.
+The cities of the plateau are garrison-like. The priesthood claims large portions of the herds and grain harvests as tribute or tithe, and little wealth leaves the realm: most is hoarded in temple treasuries or consumed in ritual. The economy is oriented toward survival and toward provisioning expeditions. The main goods are travelers' provisions for the far south, dried meats, cold-weather cloaks, strong cords, and the dried leaf that eases breathing at altitude, along with fine wool woven into textiles and exported north. The great fortress-city of [[place-qptlulneok|Q’aptel’ul Ne’ok]] is the primary staging point for expeditions into the wastes, and its merchants profit enormously from outfitting them.
 
 ## The Edge of the Road
 
-Messages from [[affiliation-ixilankul|Ish'ilankul]] that reach K'ankul in two days take five or six to reach K'ushi Ish'bal's outpost cities, and beyond the realm the Speaking Road falls silent. Those who go south from here do so with offerings and prayers heavy on their lips. The sacred lake of [[place-ixkulchalix|Ishkul Ch'alish]], said to be the eye of the world, is the realm's spiritual heart: the priesthood controls its waters entirely, and only those properly blessed may venture onto it.
+Messages from [[affiliation-ixilankul|Ish'ilankul]] that reach [[place-kankul2|K'ankul]] in two days take five or six to reach K'ushi Ish'bal's outpost cities, and beyond the realm the [Speaking Road]{.name data-type="affiliation"} falls silent. Those who go south from here do so with offerings and prayers heavy on their lips. The sacred lake of [[place-ixkulchalix|Ishkul Ch’alish]], said to be the eye of the world, is the realm's spiritual heart: the priesthood controls its waters entirely, and only those properly blessed may venture onto it.
 
 ## See Also
 

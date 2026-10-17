@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [ixbaltzakurgn], population: 15000, pac
 
 ## Overview
 
-Ts’alam Ts'ultel, "The House of the Mountain," is a fortress-city built high in the passes of the great mountain range that bisects [[affiliation-ixbaltzaku|Ish’bal Tsa’ku]]. Its primary purpose is military and strategic—to defend the highland passes against external threat and to control the flow of goods and peoples through the mountain corridors. The city is built into the mountain itself; much of its architecture is carved directly from living rock, making it nearly impregnable to assault.
+Ts’alam Ts'ultel, "The House of the Mountain," is a fortress-city built high in the passes of the great mountain range that bisects the [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]]. Its primary purpose is military and strategic—to defend the highland passes against external threat and to control the flow of goods and peoples through the mountain corridors. The city is built into the mountain itself; much of its architecture is carved directly from living rock, making it nearly impregnable to assault.
 
 ## Location and Geography
 
@@ -18,7 +18,7 @@ Ts’alam Ts'ultel perches at the highest navigable pass, positioned to command 
 
 ## Military Role
 
-The city hosts the largest garrison of warriors in [[affiliation-ixbaltzaku|Ish’bal Tsa’ku]]. Professional soldiers trained in mountain warfare and pass defense garrison the city year-round, and the priesthood maintains strict military discipline. The city controls all significant movement of goods through the high passes; merchants must declare their cargo and negotiate passage rights with the military commander. This control generates considerable revenue for the [[affiliation-itzanpnthn|Itsani]] priesthood.
+The city hosts the largest garrison of warriors in [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]. Professional soldiers trained in mountain warfare and pass defense garrison the city year-round, and the priesthood maintains strict military discipline. The city controls all significant movement of goods through the high passes; merchants must declare their cargo and negotiate passage rights with the military commander. This control generates considerable revenue for the priesthood of the [[affiliation-itzanpnthn|Itsani Pantheon]].
 
 ## Society
 

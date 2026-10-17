@@ -15,7 +15,7 @@ data:
 
 ## Overview
 
-Ts'ilil Ne'ts'ik, the Island of Swallows, is an island trading port of [[place-neokbaatergn|Ne'ok Ba'ate]] and one of that realm's greatest city-states. It controls a wide archipelago of small islands and maintains its own small but efficient navy, and the merchant families who hold its port have become immensely wealthy from the traffic through it.
+Ts'ilil Ne'ts'ik, the Island of Swallows, is an island trading port of [[affiliation-neokbaate|Ne'ok Ba'ate]] and one of that realm's greatest city-states. It controls a wide archipelago of small islands and maintains its own small but efficient navy, and the merchant families who hold its port have become immensely wealthy from the traffic through it.
 
 ## A Port for Two Realms
 

@@ -81,7 +81,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-Shik'ul Ch'akal holds the land of [[place-xikulchaklrgn|Shik'ul Ch'akal Region]]. K'ich'chik merchants call the people here the Ha'ik Ts'omalil ("Otter People"), from the otter imagery on their canoe prows and camp-markings. Their own name for themselves and their land is unknown. Like all the northern nations, the Ha'ik are hostile to outsiders; they control access to their waterways with quiet, absolute authority, and K'ich'chik traders who attempt to navigate Ha'ik rivers without permission simply vanish.
+Shik'ul Ch'akal holds the land of the [[place-xikulchaklrgn|Shik'ul Ch'akal Region]]. K'ich'chik merchants call the people here the Ha'ik Ts'omalil ("Otter People"), from the otter imagery on their canoe prows and camp-markings. Their own name for themselves and their land is unknown. Like all the northern nations, the Ha'ik are hostile to outsiders; they control access to their waterways with quiet, absolute authority, and K'ich'chik traders who attempt to navigate Ha'ik rivers without permission simply vanish.
 
 The Ha'ik appear to have built a civilization fundamentally different from the other northern nations—not founded on herds or mountains or the open ocean, but on waterways and the forests surrounding them. Their canoes, occasionally seen at border trading sites, are vessels of extraordinary sophistication capable of navigating everything from vast lakes to narrow, rocky rapids. Their knowledge of waterways is unmatched and jealously guarded; the portage routes and seasonal channels that connect the great lakes form a transportation network that the Ha'ik control absolutely and share with no one.
 

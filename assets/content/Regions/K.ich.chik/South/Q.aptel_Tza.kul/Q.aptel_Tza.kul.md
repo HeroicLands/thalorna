@@ -81,11 +81,11 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-Q'aptel Tsa'kul holds the land of [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]]. The priesthood here is intensely focused on two deities: [[affiliation-itzanpnthn|P'uqil Ch'akun]], who commands the weather and the fury of storms, and [[affiliation-itzanpnthn|Ts'uqil Ish'bal]], mistress of death. Blood flows freely on these temples' altars, offered in hopes of safe passage through the horrors that lie beyond.
+Q'aptel Tsa'kul holds the land of the [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]]. The priesthood here is intensely focused on two deities: [[lore-puqilchaqundty|P'uqil Ch'akun]], who commands the weather and the fury of storms, and [[lore-tzuqilixbaldty|Ts'uqil Ish'bal]], mistress of death. Blood flows freely on these temples' altars, offered in hopes of safe passage through the horrors that lie beyond.
 
 ## Maritime Powers
 
-Control of the few passes through the region is maintained nominally by the [[affiliation-itzanpnthn|Itsani]] priesthood, though enforcement is minimal—most who travel here are bound for the wastes by oath or doom, and the priesthood merely ensures that proper offerings are made before they depart.
+Control of the few passes through the region is maintained nominally by the priesthood of the [[affiliation-itzanpnthn|Itsani Pantheon]], though enforcement is minimal—most who travel here are bound for the wastes by oath or doom, and the priesthood merely ensures that proper offerings are made before they depart.
 
 ## Trade
 

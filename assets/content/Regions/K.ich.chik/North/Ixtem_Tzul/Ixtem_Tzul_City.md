@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [ixtemtzulrgn], population: 1000, gover
 
 ## Overview
 
-At the border of **Ishtem Tsul** a K'ich'chik trader is turned back, firmly and without negotiation. The seat of the No'kin Ts'omalil, the Bear People, is reckoned at about 1,000 people, in a vast territory of boreal forest, grassland and subarctic plateau between the east and west of the northern frontier. Even the border merchants who deal with the Shak'nal and the Ts'okum report almost no direct contact with the No'kin, who regard all outsiders, the other northern nations among them, with deep suspicion.
+At the border of Ishtem Tsul a K'ich'chik trader is turned back, firmly and without negotiation. The seat of [[affiliation-ixtemtzul|Ishtem Tsul]], the nation of the No'kin Ts'omalil (the Bear People), is reckoned at about 1,000 people, in a vast territory of boreal forest, grassland and subarctic plateau between the east and west of the northern frontier. Even the border merchants who deal with [[affiliation-ixbalkiahk|Ish'bal Ki'ahk]] (the Shak'nal) and [[affiliation-penqalchakal|P'enqal Ch'akal]] (the Ts'okum) report almost no direct contact with the No'kin, who regard all outsiders, the other northern nations among them, with deep suspicion.
 
 ## What Reaches the South
 

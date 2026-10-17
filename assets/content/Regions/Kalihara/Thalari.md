@@ -17,15 +17,15 @@ data:
 
 ## Overview
 
-Thal'ari is the sanctuary of the [[affiliation-tharivaan|Ithakan]] on the western slopes of [[place-klhrring|the Ring]], facing the sea. It stands on the outer face below [[place-klhrwstsddl|the Western Saddle]], on a shelf above the road that climbs from the western coast. It trains the custodians whose charge is the coast and the sea: the works of the [[lore-theithari|Ithari]] that stand on the reefs and islets around [[place-klhrcntnnt|Kalihara]], near which the currents run wrong for anyone who does not know them. A custodian formed at Thal'ari spends his life on the shore and the reefs and seldom sees the Bowl.
+Thal'ari is the sanctuary of the [Ithakan]{.name data-type="affiliation/order"} on the western slopes of [[place-klhrring|The Ring]], facing the sea. It stands on the outer face below [[place-klhrwstsddl|The Western Saddle]], on a shelf above the road that climbs from the western coast. It trains the custodians whose charge is the coast and the sea: the works of [[lore-theithari|The Ithari]] that stand on the reefs and islets around the [[place-klhrcntnnt|Kalihara Continent]], near which the currents run wrong for anyone who does not know them. A custodian formed at Thal'ari spends his life on the shore and the reefs and seldom sees the Bowl.
 
 ## The Holding
 
-The slope is held by the lineage Theinuvael, which keeps the saddle road above and below the sanctuary; the sanctuary itself is the custodians'. Its kaan'sili are drawn from every lineage of the island, and many of them from the reef villages of the coasts.
+The slope is held by the lineage [Theinuvael]{.name data-type="affiliation/lineage"}, which keeps the saddle road above and below the sanctuary; the sanctuary itself is the custodians'. Its kaan'sili are drawn from every lineage of the island, and many of them from the reef villages of the coasts.
 
 ## What Is Seen from It
 
-Thal'ari looks west over the open ocean. Below it the slopes fall steeply to the western coast, and offshore the reefs show as lines of broken water where the currents set across the swell. There is no land in sight, and none in that direction short of [[place-kchchkcntnnt|K'ich'chik]]. The saddle above is in mist most mornings, and the sanctuary often stands in it.
+Thal'ari looks west over the open ocean. Below it the slopes fall steeply to the western coast, and offshore the reefs show as lines of broken water where the currents set across the swell. There is no land in sight, and none in that direction short of the [[place-kchchkcntnnt|K'ich'chik Continent]]. The saddle above is in mist most mornings, and the sanctuary often stands in it.
 
 ## The Cost of Reaching It
 

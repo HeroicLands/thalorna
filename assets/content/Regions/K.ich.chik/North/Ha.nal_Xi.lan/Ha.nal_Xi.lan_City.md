@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [hanalxilanrgn], population: 1200}
 
 ## Overview
 
-**Ha'nal Shi'lan** is where the goods of all five northern nations meet, and where K'ich'chik merchants come to buy them. The central settlement of the Great River Lands, about 1,200 people, stands in contested borderlands that belong to no single people: the Ts'okum, the Ha'ik and the Ch'akun all hold ground there, and the region sees the highest concentration of inter-tribal violence on the frontier. Furs and hides from the No'kin, canoes and water-products from the Ha'ik, herbal medicines and poisons from the Ch'akun, crafted goods from the Shak'nal and herd products from the Ts'okum all accumulate in its trading posts and enclaves.
+Ha'nal Shi'lan is where the goods of all five northern nations meet, and where K'ich'chik merchants come to buy them. The central settlement of the [[place-hanalxilanrgn|Ha'nal Shi'lan Region]] (the Great River Lands), about 1,200 people, stands in contested borderlands that belong to no single people: the [[affiliation-penqalchakal|P'enqal Ch'akal]] (Ts'okum), the [[affiliation-xikulchakl|Shik'ul Ch'akal]] (Ha'ik) and the [[affiliation-tzumanotun|Ts'uma No'tun]] (Ch'akun) all hold ground there, and the region sees the highest concentration of inter-tribal violence on the frontier. Furs and hides from [[affiliation-ixtemtzul|Ishtem Tsul]] (the No'kin), canoes and water-products from the Ha'ik, herbal medicines and poisons from the Ch'akun, crafted goods from [[affiliation-ixbalkiahk|Ish'bal Ki'ahk]] (the Shak'nal) and herd products from the Ts'okum all accumulate in its trading posts and enclaves.
 
 ## Why Merchants Come
 

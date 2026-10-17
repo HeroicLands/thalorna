@@ -81,7 +81,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-Ishtem Tsul holds the land of [[place-ixtemtzulrgn|Ishtem Tsul Region]]. K'ich'chik scouts call the people here the No'kin Ts'omalil ("Bear People"), from the bear-imagery prominent in the few trade goods and war-trophies that have reached southern hands. What they call themselves is unknown. They are among the most reclusive of the northern peoples; even the border merchants who deal with the Shak'nal and Ts'okum report almost no direct contact with the No'kin, who seem to regard all outsiders—including the other northern nations—with deep suspicion.
+Ishtem Tsul holds the land of the [[place-ixtemtzulrgn|Ishtem Tsul Region]]. K'ich'chik scouts call the people here the No'kin Ts'omalil ("Bear People"), from the bear-imagery prominent in the few trade goods and war-trophies that have reached southern hands. What they call themselves is unknown. They are among the most reclusive of the northern peoples; even the border merchants who deal with [[affiliation-ixbalkiahk|Ish'bal Ki'ahk]] (the Shak'nal) and [[affiliation-penqalchakal|P'enqal Ch'akal]] (the Ts'okum) report almost no direct contact with the No'kin, who seem to regard all outsiders—including the other northern nations—with deep suspicion.
 
 From the little K'ich'chik observers have pieced together, the No'kin move with the great herds through merciless winters and forests where snow lies thick for half the year. The quality of the hides that occasionally reach southern markets—processed with extraordinary skill into leather of remarkable suppleness and strength—attests to practical mastery, whatever their other customs may be. K'ich'chik merchants who have attempted to penetrate No'kin territory directly have been turned back at the border, firmly and without negotiation.
 
@@ -95,7 +95,7 @@ K'ich'chik scholars speculate that the No'kin are organized into loose bands fol
 
 ## Trade
 
-The isolation of Ishtem Tsul from direct access to the [[place-chakultzklrgn|Ch'akul Tsa'kul]] barrier and the [[affiliation-itzanpnthn|Itsani]] lands means that the No'kin rely heavily on intermediaries—particularly the Shak'nal and Ts'okum—for access to goods from the far south. This dependence sometimes rankles, but the No'kin have accepted it as the cost of their location. The caribou migrations that define their livelihood follow ancient pathways indifferent to human commerce, and following these paths takes priority over optimizing trade routes.
+The isolation of Ishtem Tsul from direct access to the barrier of the [[place-chakultzklrgn|Ch'akul Tsa'kul Region]] and the lands of the [[affiliation-itzanpnthn|Itsani Pantheon]] means that the No'kin rely heavily on intermediaries—particularly the Shak'nal and Ts'okum—for access to goods from the far south. This dependence sometimes rankles, but the No'kin have accepted it as the cost of their location. The caribou migrations that define their livelihood follow ancient pathways indifferent to human commerce, and following these paths takes priority over optimizing trade routes.
 
 ## See Also
 

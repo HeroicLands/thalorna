@@ -20,9 +20,9 @@ data:
 
 Shelem Region is the land of [[affiliation-xelem|Shelem]], and lies within [[place-cntrlkchchk|Central K'ich'chik]] on the [[place-kchchkcntnnt|K'ich'chik Continent]].
 
-Shelem, the "Land of Birds," is the eastern frontier of the central [[place-kchchkcntnnt|K'ich'chik]] heartland—a vast region of tropical rainforest, immense river systems, and pu'uts (sheer-walled, flat-topped mountains) that rise like islands from the jungle canopy. Where [[affiliation-ixilankul|Ish'ilankul]] is built on volcanic stone and [[affiliation-kankul|K'ankul]] on limestone, Shelem is built on water. The mighty rivers that carve through its landscape—the [[place-hanaltzuma|Ha'nal Ts'uma]] and the [[place-hanalxilik|Ha'nal Shilik]], and a thousand smaller waterways—are more important than roads, more important than temples.
+Shelem, the "Land of Birds," is the eastern frontier of the central K'ich'chik heartland—a vast region of tropical rainforest, immense river systems, and pu'uts (sheer-walled, flat-topped mountains) that rise like islands from the jungle canopy. Where the [[place-ixilankulrgn|Ish'ilankul Region]] is built on volcanic stone and the [[place-kankulrgn|K'ankul Region]] on limestone, Shelem is built on water. The mighty rivers that carve through its landscape—the [[place-hanaltzuma|Ha'nal Ts'uma]] and the [[place-hanalxilik|Ha'nal Shilik]], and a thousand smaller waterways—are more important than roads, more important than temples.
 
-The quetzal bird—that manifestation of Ts'en'ul Tq'an (god of order) on the material plane—dwells in the cloud forests of Shelem in greater abundance than anywhere in [[place-kchchkcntnnt|K'ich'chik]]. Its feathers, along with those of other exotic birds (macaws, parrots, hummingbirds of remarkable colors), command prices that only the wealthiest nobles can afford. Jaguar hides, harvested from the apex predator that rules Shelem's jungle, are the mark of military rank and divine favor. Medicinal herbs—plants whose properties are understood through centuries of herbal lore—grow in Shelem's interior and are gathered by healers and herbalists whose knowledge is so jealously guarded that some have been protected by oath and blood oath to guard their secrets even unto death.
+The quetzal bird—regarded as a manifestation of [[lore-tzenultqandty|Ts'en'ul Tq'an]], god of order, on the material plane—dwells in the cloud forests of Shelem in greater abundance than anywhere in K'ich'chik. Its feathers, along with those of other exotic birds (macaws, parrots, hummingbirds of remarkable colors), command prices that only the wealthiest nobles can afford. Jaguar hides, harvested from the apex predator that rules Shelem's jungle, are the mark of military rank and divine favor. Medicinal herbs—plants whose properties are understood through centuries of herbal lore—grow in Shelem's interior and are gathered by healers and herbalists whose knowledge is so jealously guarded that some have been protected by oath and blood oath to guard their secrets even unto death.
 
 ## Geography
 
@@ -34,7 +34,7 @@ The climate is intensely hot and humid throughout the year, with heavy rainfall 
 
 ## City-States and Realms
 
-The greatest of these include Ts'alukul (the "City of Rivers"), which straddles several tributaries and serves as a collecting point for jungle products; Ch'al Pu'uts ("Beneath the Mesa"), located at the foot of a magnificent pu'uts and serving as a center for the most exotic trade goods; and several coastal settlements that connect to maritime trade networks.
+The greatest of these include [Ts'alukul]{.name data-type="place/settlement"} (the "City of Rivers"), which straddles several tributaries and serves as a collecting point for jungle products; [Ch'al Pu'uts]{.name data-type="place/settlement"} ("Beneath the Mesa"), located at the foot of a magnificent pu'uts and serving as a center for the most exotic trade goods; and several coastal settlements that connect to maritime trade networks.
 
 ## Trade
 

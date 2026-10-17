@@ -16,17 +16,17 @@ data:
 
 ## Overview
 
-The Kuethori Gap is the one place where [[place-klhrring|the Ring]] of [[place-klhrcntnnt|Kalihara]] is broken. On the south-eastern side of the island the crest gives way to a deep gorge, and through it the water of [[place-klhrlake|the Bowl Lake]] leaves the interior: a river runs out of the lake across the southern floor of [[place-klhrbowl|the Bowl]], enters the gap, and falls through it in a fast, deep channel toward the sea. The Kaliharans call that water _kuethori_ (swift current), and the lineage Kuethori that holds the gap is named for it.
+The Kuethori Gap is the one place where [[place-klhrring|The Ring]] of the [[place-klhrcntnnt|Kalihara Continent]] is broken. On the south-eastern side of the island the crest gives way to a deep gorge, and through it the water of [[place-klhrlake|The Bowl Lake]] leaves the interior: a river runs out of the lake across the southern floor of [[place-klhrbowl|The Great Bowl]], enters the gap, and falls through it in a fast, deep channel toward the sea. The Kaliharans call that water _kuethori_ (swift current), and [[affiliation-lineagekuethori|The Lineage Kuethori]] that holds the gap is named for it.
 
 ## The Lineage and the Work
 
-The Kuethori hold the gorge from the lake's outlet to the foot of the Ring, and the road beside the river is theirs. At the head of the gap, where the river leaves the Bowl, a work of the [[lore-theithari|Ithari]] lies across the bed: a long, low swell of gray stone without a seam, over which the water slides smooth. While the work does what it does, the lake holds its level through Deepwater and does not drain in the dry months, and the terraces on its shores neither drown nor dry. The custodians of [[place-mirthaan|Mirthaan]] tend it jointly with the Kuethori.
+The Kuethori hold the gorge from the lake's outlet to the foot of the Ring, and the road beside the river is theirs. At the head of the gap, where the river leaves the Bowl, a work of [[lore-theithari|The Ithari]] lies across the bed: a long, low swell of gray stone without a seam, over which the water slides smooth. While the work does what it does, the lake holds its level through [Deepwater]{.name data-type="lore/calendar"} and does not drain in the dry months, and the terraces on its shores neither drown nor dry. The custodians of [[place-mirthaan|Mirthaan]] tend it jointly with the Kuethori.
 
 The lake stands three hands above the Kuethori's marks, and the lowest terraces on its eastern shore are under water. The work at the head of the gap is as gray, and gives as much under the hand, as it does in the oldest account anyone has of it. The Kuethori argue among themselves about what that means, and the argument has not left the gap.
 
 ## What Is Seen from It
 
-From the head of the gap the lake lies behind, open and still, with [[place-klhrmassif|the Massif]] standing in it. Ahead the gorge walls close in, wet and hung with fern, and through the far end of the gap a slot of sea and sky shows. From the coast the gap is the one notch in the Ring where the crest comes down to the water.
+From the head of the gap the lake lies behind, open and still, with [[place-klhrmassif|The Massif]] standing in it. Ahead the gorge walls close in, wet and hung with fern, and through the far end of the gap a slot of sea and sky shows. From the coast the gap is the one notch in the Ring where the crest comes down to the water.
 
 ## The Cost of Crossing
 

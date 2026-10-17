@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [xelemrgn], population: 0, packFolder: 
 
 ## Overview
 
-The Ha'nal Shilik, the Blue River, is the second of the two great rivers of [[place-xelemrgn|Shelem]]. It lies east of the [[place-hanaltzuma|Ha'nal Ts'uma]], where the riverine plains begin to climb toward the highlands, through country just as wild.
+The Ha'nal Shilik, the Blue River, is the second of the two great rivers of the [[place-xelemrgn|Shelem Region]]. It lies east of the [[place-hanaltzuma|Ha'nal Ts'uma]], where the riverine plains begin to climb toward the highlands, through country just as wild.
 
 ## The River Trade
 

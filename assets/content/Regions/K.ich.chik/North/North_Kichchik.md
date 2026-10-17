@@ -21,7 +21,7 @@ Northern K'ich'chik is the part of the continent the K'ich'chik do not rule. Fiv
 
 K'ich'chik names are all that the south has for these peoples. The nation names are exonyms, given by merchants and border scouts from the animals painted on war-standards and camp-markings, and what the nations call themselves is unknown. They tolerate K'ich'chik traders only at arm's length, at sites and on terms they choose, and they unite against any outside incursion, though they war among themselves. The distances make a conventional campaign nearly impossible.
 
-Two places in the north belong to no nation. [[place-hanalxilanrgn|Ha'nal Shi'lan]] is a region of contested river valleys where the Coyote, Otter and Serpent peoples clash and where the goods of all five nations meet at trading posts. [[place-chakultzklrgn|Ch'akul Tsa'kul]], the Thirsty Land, is a desert of sand seas, mesas and salt flats that forms the barrier between the tribal north and K'ich'chik civilization. The Speaking Road does not extend into the north, and furs, amber and freshwater pearls reach the south through irregular border trade.
+Two places in the north belong to no nation. The [[place-hanalxilanrgn|Ha'nal Shi'lan Region]] is a region of contested river valleys where the Coyote, Otter and Serpent peoples clash and where the goods of all five nations meet at trading posts. The [[place-chakultzklrgn|Ch'akul Tsa'kul Region]], the Thirsty Land, is a desert of sand seas, mesas and salt flats that forms the barrier between the tribal north and K'ich'chik civilization. The [Speaking Road]{.name data-type="affiliation"} does not extend into the north, and furs, amber and freshwater pearls reach the south through irregular border trade.
 
 ## See Also
 

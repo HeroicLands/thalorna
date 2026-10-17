@@ -15,11 +15,11 @@ data:
 
 ## Overview
 
-K'ich'chik merchants who deal in **P'enqal Ch'akal** begin by deciding which clan to pay. The seat of the Ts'okum Ts'omalil, the Coyote People, is reckoned at about 1,500 people, in the endless grasslands at the center of the northern frontier, where the great herds of bison and elk follow routes worn smooth by centuries, and knowing where the herds are heading is the first skill a child learns. Of the five northern nations, the Ts'okum are the most immediately dangerous to K'ich'chik interests.
+K'ich'chik merchants who deal in P'enqal Ch'akal begin by deciding which clan to pay. The seat of [[affiliation-penqalchakal|P'enqal Ch'akal]], the nation of the Ts'okum Ts'omalil (the Coyote People), is reckoned at about 1,500 people, in the endless grasslands at the center of the northern frontier, where the great herds of bison and elk follow routes worn smooth by centuries, and knowing where the herds are heading is the first skill a child learns. Of the five northern nations, the Ts'okum are the most immediately dangerous to K'ich'chik interests.
 
 ## Raiders and Traders
 
-The Ts'okum are mounted warriors, and their tactical speed, signaled across miles with hand signs and calls, has defeated K'ich'chik armies built for jungle and highland war. Young Ts'okum compete for prestige through increasingly daring raids, and they raid across the Ch'akul Tsa'kul barrier into K'ich'chik lands with alarming frequency. In P'enqal Ch'akal, "tribute," "trade" and "plunder" are not always different things: some traders keep formal relationships with particular clans and pay for safe passage, an arrangement that works and has to be renegotiated constantly. The merchants put up with it for the herd products, and because the road north runs through Ts'okum land.
+The Ts'okum are mounted warriors, and their tactical speed, signaled across miles with hand signs and calls, has defeated K'ich'chik armies built for jungle and highland war. Young Ts'okum compete for prestige through increasingly daring raids, and they raid across the barrier of the [[place-chakultzklrgn|Ch'akul Tsa'kul Region]] into K'ich'chik lands with alarming frequency. In P'enqal Ch'akal, "tribute," "trade" and "plunder" are not always different things: some traders keep formal relationships with particular clans and pay for safe passage, an arrangement that works and has to be renegotiated constantly. The merchants put up with it for the herd products, and because the road north runs through Ts'okum land.
 
 ## What Comes Back
 

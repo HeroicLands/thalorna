@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [ixbalkiahkrgn], population: 3000, gove
 
 ## Overview
 
-The border scouts' first rule about **Ish'bal Ki'ahk** is that the passes decide who comes. The seat of the Shak'nal Ts'omalil, the Eagle People, is reckoned by K'ich'chik at about 3,000 people, in the westernmost expanse of the northern frontier, where cedar forest runs from a fjord coast to a spine of snow-crowned volcanic peaks. What the Shak'nal call the place, and what stands in it, the scouts do not report, and traders who venture inland without an invitation do not return.
+The border scouts' first rule about Ish'bal Ki'ahk is that the passes decide who comes. The seat of [[affiliation-ixbalkiahk|Ish'bal Ki'ahk]], the nation of the Shak'nal Ts'omalil (the Eagle People), is reckoned by K'ich'chik at about 3,000 people, in the westernmost expanse of the northern frontier, where cedar forest runs from a fjord coast to a spine of snow-crowned volcanic peaks. What the Shak'nal call the place, and what stands in it, the scouts do not report, and traders who venture inland without an invitation do not return.
 
 ## What the Scouts Know
 

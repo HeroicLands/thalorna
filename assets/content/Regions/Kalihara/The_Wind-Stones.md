@@ -16,19 +16,19 @@ data:
 
 ## Overview
 
-The wind-stones are twelve works of the [[lore-theithari|Ithari]] along the crest of [[place-klhrring|the Ring]], standing round [[place-klhrbowl|the Bowl]] at intervals: one at the head of each of the three passes, and the rest on the stretches of crest between them. Each is a smooth swelling of [[lore-itharisul|ithasul]] out of the rock or the turf, gray and seamless, with no mark on it anywhere. The custodians call them _naothuri'sul_ (green-wind stones).
+The Wind-Stones are twelve works of [[lore-theithari|The Ithari]] along the crest of [[place-klhrring|The Ring]], standing round [[place-klhrbowl|The Great Bowl]] at intervals: one at the head of each of the three passes, and the rest on the stretches of crest between them. Each is a smooth swelling of [[lore-itharisul|Ithasul]] out of the rock or the turf, gray and seamless, with no mark on it anywhere. The custodians call them _naothuri'sul_ (green-wind stones).
 
 ## What They Do
 
-Storms that come in from the sea break on the crest where the wind-stones stand and reach the Bowl as rain. The rain falls on the terraces. Most of the food the interior eats grows on those terraces, along the eastern and southern shores of [[place-klhrlake|the lake]], and the Wet-Turn is the season they live by.
+Storms that come in from the sea break on the crest where the wind-stones stand and reach the Bowl as rain. The rain falls on the terraces. Most of the food the interior eats grows on those terraces, along the eastern and southern shores of [[place-klhrlake|The Bowl Lake]], and [Wet-Turn]{.name data-type="lore/calendar"} is the season they live by.
 
 ## The Holding
 
-The custodians of the wind-stones are formed at [[place-mirthaan|Mirthaan]] and serve the Master of the Terraces; they winter at [[place-kuomethei|Kuomethei]], high on the southern crest, while Deepwater closes the high paths. The lineages that hold the passes walk the stones with them: the Avoluthei at [[place-klhrcldpss|the Cloud Pass]], the Theinuvael at [[place-klhrwstsddl|the Western Saddle]] and the Avothani at the head of [[place-klhrsthstr|the Southern Stair]]. The lineage Kuomanei keeps the crest paths of the south.
+The custodians of the wind-stones are formed at [[place-mirthaan|Mirthaan]] and serve the Master of the Terraces; they winter at [[place-kuomethei|Kuomethei]], high on the southern crest, while [Deepwater]{.name data-type="lore/calendar"} closes the high paths. The lineages that hold the passes walk the stones with them: [[affiliation-lineageavoluthei|The Lineage Avoluthei]] at [[place-klhrcldpss|The Cloud Pass]], the [Theinuvael]{.name data-type="affiliation/lineage"} at [[place-klhrwstsddl|The Western Saddle]] and the [Avothani]{.name data-type="affiliation/lineage"} at the head of [[place-klhrsthstr|The Southern Stair]]. The lineage [Kuomanei]{.name data-type="affiliation/lineage"} keeps the crest paths of the south.
 
 ## The Failing
 
-Three of the twelve have gone bone-white and hard, and two more are gray and giving and work badly: the eastern terraces under the Cloud Pass have had a dry Wet-Turn, and storms now come over the southern crest whole.
+Three of the twelve have gone bone-white and hard, and two more are gray and giving and work badly: [[place-klhrestrrc|The Eastern Terraces]] under the Cloud Pass have had a dry Wet-Turn, and storms now come over the southern crest whole.
 
 | State         | Stones | Where                                                                                    |
 | ------------- | -----: | ---------------------------------------------------------------------------------------- |
@@ -40,7 +40,7 @@ A white wind-stone went white entire and at once, and it can be told from the cr
 
 ## What Is Seen from Them
 
-A wind-stone looks down two ways: inward over the Bowl to the lake and [[place-klhrmassif|the Massif]], and outward down the long ridges to the sea. Most of them stand in cloud for most of the year. On a clear day a white stone shows from far along the crest as a pale mark on the skyline.
+A wind-stone looks down two ways: inward over the Bowl to the lake and [[place-klhrmassif|The Massif]], and outward down the long ridges to the sea. Most of them stand in cloud for most of the year. On a clear day a white stone shows from far along the crest as a pale mark on the skyline.
 
 ## The Cost of Reaching Them
 

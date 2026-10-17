@@ -8,11 +8,11 @@ tags: []
 data: {packFolder: adventurersguides, culture: khelathiclt}
 ---
 
-> At dawn, after days upriver from the sea, the air smells of wet rope and river mud. The flood has fallen; people walk the black silt where their fields are coming back to light. Then Galezkara rises ahead of you: mudbrick houses crowd the banks, but across the water the sacred island's white walls catch the first gold of the sun. Behind them, stone pylons frame temple courts, and obelisks rise above the walls. Dry desert begins beyond the green riverbanks.
+> At dawn, after days upriver from the sea, the air smells of wet rope and river mud. The flood has fallen; people walk the black silt where their fields are coming back to light. Then [[place-galezkara|Galezkara]] rises ahead of you: mudbrick houses crowd the banks, but across the water the sacred island's white walls catch the first gold of the sun. Behind them, stone pylons frame temple courts, and obelisks rise above the walls. Dry desert begins beyond the green riverbanks.
 >
-> At the landing, Amqel-Ger—the Great Quay—heaves with people. Barges knock against the docks; porters shout cargo weights over the splash of oars and the calls of traders in several tongues. A dark-brown boatman in a white linen wrap shoulders a grain sack past a pale foreign factor in a blue cloak. Ochre and indigo cloth hangs from the stalls. A woman with deep brown skin, black hair braided close to her head, and a blue-edged linen mantle steps forward with a young clerk at her side. "Khelathu elu anlagh," she says, a greeting that wishes you life in the Khelathi way. "Welcome to Galezkara. I am Litaris, a trader of Lin'Zuwaret elu Galezkara—the city's Merchants' Circle. This is Qelseta, my clerk. Have you had water?" Only when you answer does she offer to pay you to carry cargo farther upriver. A temple witness can enter your agreement; Qelseta knows the way to the archive.
+> At the landing, [[place-amqelger|Amqel-Ger]]—the Great Quay—heaves with people. Barges knock against the docks; porters shout cargo weights over the splash of oars and the calls of traders in several tongues. A dark-brown boatman in a white linen wrap shoulders a grain sack past a pale foreign factor in a blue cloak. Ochre and indigo cloth hangs from the stalls. A woman with deep brown skin, black hair braided close to her head, and a blue-edged linen mantle steps forward with a young clerk at her side. "Khelathu elu anlagh," she says, a greeting that wishes you life in the Khelathi way. "Welcome to Galezkara. I am [Litaris]{.name data-type="being/npc"}, a trader of [[affiliation-linzwrtglzk3|Lin'Zuwaret elu Galezkara]]—the city's Merchants' Circle. This is [Qelseta]{.name data-type="being/npc"}, my clerk. Have you had water?" Only when you answer does she offer to pay you to carry cargo farther upriver. A temple witness can enter your agreement; Qelseta knows the way to the archive.
 
-The [[place-zumeleshrvr|Zumelesh]] runs north through a desert for a thousand miles and makes a country. Once a year it rises, drowns the fields, and goes down again leaving black silt on them, and everything the [[lore-khelathiclt|Khelathi]] have built stands on that one fact. Their calendar counts the water. Their gods are argued about in terms of it. Their surveyors re-walk the fields every spring because the flood has taken the boundary stones away again, and the scribes who record what the surveyors find are the most powerful commoners in the world.
+[[place-zumeleshrvr|The Zumelesh]] runs north through a desert for a thousand miles and makes a country. Once a year it rises, drowns the fields, and goes down again leaving black silt on them, and everything the [[lore-khelathiclt|Khelathi]] have built stands on that one fact. Their calendar counts the water. Their gods are argued about in terms of it. Their surveyors re-walk the fields every spring because the flood has taken the boundary stones away again, and the scribes who record what the surveyors find are the most powerful commoners in the world.
 
 The [[affiliation-empireakhlth|Empire of Au'Khelathu]] counts its rulers back farther than any neighboring realm, and the Khelathi hold theirs to be the oldest civilization in the world. It has been conquered—by hill-nomads, by sea-raiders, by a Vylarian occupation at the height of Vylaria's reach—and each time it has done the same thing: handed the conqueror a scribe, a temple appointment, and a throne name, and waited. Before long the conquerors are Khelathi. In the crowded valley and delta, people speak of outlasting history as readily as surviving it.
 
@@ -20,17 +20,17 @@ The [[affiliation-empireakhlth|Empire of Au'Khelathu]] counts its rulers back fa
 
 ## A History in Brief
 
-The Khelathi count their years from the first coronation, the [[lore-qettelgu|Qet Telgu]], and the present is 2830 ST, which the western kingdoms call 720 AF. The temple teachers divide that count into ages, set out in the [[lore-khelathclndr|calendar]]: god-kings of impossible length in the First Tablets, then houses at Galezkara, a river divided between two thrones, conquerors from the hills, the sea and Vylaria, and a king so proud that his name was struck from every wall. Three of those wars left their dead unread, and the fields where they lie are still cursed ground that the roads bend round. The house of Zu'Meku has reigned since 470 AF, longer than any house of the near past. Every ruin, feud and law in the valley has an age behind it, and the [[affiliation-empireakhlth|Empire]] note lists them.
+The Khelathi count their years from the first coronation, [[lore-qettelgu|The Qet Telgu]], and the present is 2830 ST, which the western kingdoms call 720 AF. The temple teachers divide that count into ages, set out in [[lore-khelathclndr|The Khelathi Calendar]]: god-kings of impossible length in [[lore-akhfirsttab|The First Tablets]], then houses at Galezkara, a river divided between two thrones, conquerors from the hills, the sea and Vylaria, and a king so proud that his name was struck from every wall. Three of those wars left their dead unread, and the fields where they lie are still cursed ground that the roads bend round. The house of [Zu'Meku]{.name data-type="affiliation/lineage"} has reigned since 470 AF, longer than any house of the near past. Every ruin, feud and law in the valley has an age behind it, and the [[affiliation-empireakhlth|Empire]] note lists them.
 
 ## The Flood and the Year
 
-The year runs in three seasons of four months, each named for what the water is doing, beginning with the inundation. A farmer reckons everything by that cycle; tax rolls and contracts carry the regnal year of the reigning [[lore-garauu|Gar-Au]], and temple chronicles count from a beginning so far back that the counting itself is an argument. The full reckoning is in [[lore-khelathclndr|the Khelathi calendar]].
+The year runs in three seasons of four months, each named for what the water is doing, beginning with the inundation. A farmer reckons everything by that cycle; tax rolls and contracts carry the regnal year of the reigning [[lore-garauu|Gar-Auu]], and temple chronicles count from a beginning so far back that the counting itself is an argument. The full reckoning is in [[lore-khelathclndr|the Khelathi calendar]].
 
 Choose the season and you choose the journey. During the inundation, fields disappear beneath the water, labor shifts to canals and monuments, and boats carry travelers between settlements. When the water recedes, surveyors walk the fields and old boundary claims return with them. A party might ferry a witness through the flood, guard a survey crew, or discover that two temples hold different records for the same field.
 
 ## Who Holds Power
 
-The [[lore-garauu|Gar-Au]] is addressed as divine, and the empire's order rests on that claim. Daily power passes through scribes and the hereditary Halzi'a who govern its selatu, or provinces. A decree from the throne still needs a provincial governor to act and a clerk to enter what was done. A traveler with a petition may have to win over all three.
+The Gar-Au is addressed as divine, and the empire's order rests on that claim. Daily power passes through scribes and the hereditary Halzi'a who govern its selatu, or provinces. A decree from the throne still needs a provincial governor to act and a clerk to enter what was done. A traveler with a petition may have to win over all three.
 
 The priesthood is the other power, and on a bad century the greater one. A major temple holds land, lends money, teaches scribes, hears disputes, and employs the people who keep it running. Its high priest speaks to the throne as something between a subject and a rival. The throne needs the temples to affirm its divinity; the temples need the throne to confirm their land. A party carrying news between them can find that both sides want the message delivered differently.
 
@@ -53,9 +53,9 @@ ORDER BY name.full COLLATE NOCASE
 
 A Khelathi keeps two accounts, and only one of them can be written. Understanding the difference gives a visitor a way into nearly every temple, household, and quarrel in the valley.
 
-The first is the temple account: contracts, leases, debts, and other undertakings a witness saw and a scribe entered. A temple holds them and reads them back for a fee. The second holds what a person owes a parent, a teacher, or the house that raised them. No witness entered those duties; the gods keep them regardless.
+The first is the temple account: contracts, leases, debts, and other undertakings a witness saw and a scribe entered. A temple holds them and reads them back for a fee. The second holds what a person owes a parent, a teacher, or the house that raised them. No witness entered those duties; Khelathi teaching holds that the gods keep them regardless.
 
-An unwritten promise opens no entry for a court to hear, but it still matters to the people involved and to the gods. A written one belongs in the archive. If your character needs an answer, the difference tells you whether to seek a scribe, a priest, or the person you made the promise to.
+An unwritten promise opens no entry for a court to hear, but it still matters to the people involved and, in Khelathi teaching, to the gods. A written one belongs in the archive. If your character needs an answer, the difference tells you whether to seek a scribe, a priest, or the person you made the promise to.
 
 The rule is distance. Kin and neighbors can hold one another to a promise through the relationship itself; putting it in writing can be an insult. **Strangers** need a witness and an entry. The temple holds their word, which makes its archive as important to daily life as its shrine.
 
@@ -65,7 +65,7 @@ An entry **opens** when a promise is witnessed and written down. It **closes** w
 
 An entry closes by **performance**, **settlement** on other agreed terms, **release** by the person owed, or **assumption** by someone else. A shipwrecked merchant who cannot deliver a cargo might settle with the buyer or find someone to take up the debt. Either choice can send a party after a missing shipment, a reluctant creditor, or a willing heir. The [[lore-khelathiclt|culture note]] explains which promises another person may assume.
 
-Two consequences matter at the table. **A person owed a release may refuse it**, even at a dying person's bedside, and a feud can outlast both parties. At the judgment after death, the heart is weighed against a feather: falsehood, cruelty, theft, and cowardice matter, and wealth buys no verdict. The [[lore-khelathiclt|culture note]] follows these obligations through the deathbed, the burial, and the lives of those left behind.
+Two consequences matter at the table. **A person owed a release may refuse it**, even at a dying person's bedside, and a feud can outlast both parties. In Khelathi teaching, at the judgment after death, the heart is weighed against a feather: falsehood, cruelty, theft, and cowardice matter, and wealth buys no verdict. The [[lore-khelathiclt|culture note]] follows these obligations through the deathbed, the burial, and the lives of those left behind.
 
 ## The Gods
 
@@ -73,7 +73,7 @@ The [[affiliation-khelathpnthn|Khelathi Pantheon]] is large enough to meet a tra
 
 Household offerings and crowded festivals make worship visible throughout the year. In the major temples, a high priest leads the ordained priests who perform the rites and keep the accounts, while acolytes learn in the temple school. Those schools train the scribes and scholars a party may need as often as it needs a priest.
 
-The gods are also where the doctrine bites. They witness promises and weigh a person's heart after death; no offering erases an open entry. A god is asked to be present when it closes.
+The gods are also where the doctrine bites. In Khelathi teaching, they witness promises and weigh a person's heart after death; no offering erases an open entry. A god is asked to be present when it closes.
 
 ## Lekhau
 
@@ -89,7 +89,7 @@ Khelathi magic is priestly, and the line between priest and mage barely exists. 
 
 ## The Valley and Its Cities
 
-Choose [[place-galezkara|Galezkara]] if you want to work in the shadow of the throne, the great temples, and the central archives. Across the water stands [[place-zugezer|Zu-Gezer]], the royal necropolis. Choose [[place-amqelmiglet|Amqel-Miglet]] if you want a delta port where foreigners, money, and unfamiliar papers arrive together. Upriver, old temple-cities guard records and privileges older than the reigning dynasty. On the southern and eastern frontiers, soldiers govern provinces where a journey can turn into a military assignment.
+Choose Galezkara if you want to work in the shadow of the throne, the great temples, and the central archives. Across the water stands [[place-zugezer|Zu-Gezer]], the royal necropolis. Choose [[place-amqelmiglet|Amqel-Miglet]] if you want a delta port where foreigners, money, and unfamiliar papers arrive together. Upriver, old temple-cities guard records and privileges older than the reigning dynasty. On the southern and eastern frontiers, soldiers govern provinces where a journey can turn into a military assignment.
 
 ```sql
 SELECT address.slug AS _ref,
@@ -103,7 +103,7 @@ WHERE type = 'place'
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```
 
-The provinces are grouped four ways, and the grouping is most of what a traveller needs: the [[affiliation-deltaselatu|Delta Selatu]] are rich and cosmopolitan, the [[affiliation-upperrivrslt|Upper River Selatu]] are the grain and the old religion, the [[affiliation-borderselatu|Border Selatu]] are a military frontier, and the [[affiliation-capitalselat|Capital Selat]] is a province-sized city that thinks it is the empire.
+The provinces are grouped four ways, and the grouping is most of what a traveller needs: [[affiliation-deltaselatu|The Delta Selatu]] are rich and cosmopolitan, [[affiliation-upperrivrslt|The Upper River Selatu]] are the grain and the old religion, [[affiliation-borderselatu|The Border Selatu]] are a military frontier, and [[affiliation-capitalselat|The Capital Selat]] is a province-sized city that thinks it is the empire.
 
 The empire strikes no round coin. Its temples attest pieces of copper, silver and gold in gezan and qelu weights; familiar sealed pieces pass at face value, while unfamiliar metal is weighed and assayed. Copper spends for the temple's attested value, more than the bronze itself would fetch. The metal chosen for a payment also speaks: copper suits a market purchase, silver a substantial bargain, and gold a major exchange or offering. Large sums travel through the [[affiliation-garhalzi|Gar-Hálzi]] temple treasuries. The [[lore-aukhlthcrncy|currency note]] gives the weights and exchange rates.
 
@@ -115,11 +115,11 @@ A name is bestowed by a priest and is a sacred utterance, not a label. Many peop
 
 Titles precede the personal name, always: Halzi'a Lersais, never Lersais Halzi'a. The ladder of rank is short enough to learn in a morning, and reversing the order is the commonest mistake in a foreigner's Khelathi.
 
-The question a Khelathi asks about a literate stranger is never whether he can write but **which hand he was taught**. There are two: the sacred hand of [[skill-khelthzscrpt|the temple and the tomb]], and the people's hand of [[skill-qalzscrscrpt|the counting-house and the tax roll]]. A scribe trained in one may not read the other, and the answer places a man at once as temple or trade. Neither hand writes vowels, which is why foreign scholars never quite agree on how a Khelathi name is spelled.
+The question a Khelathi asks about a literate stranger is never whether he can write but **which hand he was taught**. There are two: [[skill-khelthzscrpt|Khelathi-zethu Script]], the sacred hand of the temple and the tomb, and [[skill-qalzscrscrpt|Qalezu Script]], the people's hand of the counting-house and the tax roll. A scribe trained in one may not read the other, and the answer places a man at once as temple or trade. Neither hand writes vowels, which is why foreign scholars never quite agree on how a Khelathi name is spelled.
 
 The scribal school is the one reliable ladder out of the class you were born in, and every family in the valley knows it. A boy admitted at seven studies sacred texts, ritual, history, mathematics and medicine for years, and comes out belonging to the institution that actually runs the country. Military service raises a family over two or three generations; commerce takes longer. Most farmers' sons are farmers.
 
-Khelathi women own property in their own names, initiate divorce, plead in court and practise medicine—a legal standing considerably wider than western Ankaris allows. The doctrine underneath it belongs to [[affiliation-uznera|Uzn'era]], whose faith holds that creation requires a balanced partnership of masculine and feminine principles—a theology with direct legal consequences.
+Khelathi women own property in their own names, initiate divorce, plead in court and practise medicine—a legal standing considerably wider than western Ankaris allows. The doctrine underneath it belongs to the [[affiliation-uznera|Faith of Uzn'era]], which holds that creation requires a balanced partnership of masculine and feminine principles—a theology with direct legal consequences.
 
 A character might be a temple-trained scribe whose skill opens an archive, a boat pilot who knows which channels remain passable in the flood, a physician called to a deathbed, or a trader carrying a sealed letter between cities. Each has a reason to travel and people who expect them home.
 
@@ -170,11 +170,11 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Ways In
 
-A party can arrive by sea into the delta, perhaps on a [[affiliation-cnfdrtntrzlnstts|Taruzelian]] hull, by caravan from [[affiliation-mtrrchybth|Bethua]], or by riverboat with the cargo. Start where the journey meets a claim: a boat cannot pass until its manifest is produced, a survey crew needs a witness, or a household asks a stranger to carry word upriver. At the first temple, market or toll post, three questions place a character in the empire: **What is entered against your name? Which hand were you taught? Whose house speaks for you?**
+A party can arrive by sea into the delta, perhaps on a hull from the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], by caravan from the [[affiliation-mtrrchybth|Matriarchy of Bethua]], or by riverboat with the cargo. Start where the journey meets a claim: a boat cannot pass until its manifest is produced, a survey crew needs a witness, or a household asks a stranger to carry word upriver. At the first temple, market or toll post, three questions place a character in the empire: **What is entered against your name? Which hand were you taught? Whose house speaks for you?**
 
 Campaigns here start well from an open entry. Someone died with something unclosed and the party is asked, hired or compelled to close it. A house claims a name it cannot prove. An archive burns and half a province's obligations become arguable. A foreign patron wants something done that cannot be entered, and finding a way to do it undocumented is the job.
 
-A campaign can also open on a field of the unread dead. A Vylarian envoy asks leave to visit [[place-chariotfld|the Chariot Field]] at Khelaga, where a legion's dead have lain beside the chariot corps since 377 AF; the court means to set a price on the visit, and somebody has to escort the envoy onto ground the boatmen will not moor beside.
+A campaign can also open on a field of the unread dead. A Vylarian envoy asks leave to visit [[place-chariotfld|The Chariot Field]] at [[place-khelaga|Khelaga]], where a legion's dead have lain beside the chariot corps since 377 AF; the court means to set a price on the visit, and somebody has to escort the envoy onto ground the boatmen will not moor beside.
 
 :::secret
 **For the GM:** The sharpest tool this setting hands you is that the record is both authoritative and physical. It can be read, bought, forged, lost, burned, or simply not produced on the day. A party that understands this starts asking what the archive says happened—and the moment they do, every scribe, priest and clerk in the valley becomes a player rather than scenery.

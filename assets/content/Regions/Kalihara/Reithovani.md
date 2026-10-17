@@ -17,11 +17,11 @@ data:
 
 ## Overview
 
-Reithovani is a fishing village on the eastern coast of [[place-klhrcntnnt|Kalihara]], a half-day south of [[place-ilovanu|Ilovanu]], where a beach of black volcanic sand runs between two headlands and the ridgeline comes down almost to the water. The Kaliharans call the sand _reithovani_ (black sand), and the lineage Reithovani that holds the beach and the reef is named for it. The village lies in a belt of palms behind the beach, its boats drawn up on the sand in the open.
+Reithovani is a fishing village on the eastern coast of the [[place-klhrcntnnt|Kalihara Continent]], a half-day south of [[place-ilovanu|Ilovanu]], where a beach of black volcanic sand runs between two headlands and the ridgeline comes down almost to the water. The Kaliharans call the sand _reithovani_ (black sand), and the lineage [Reithovani]{.name data-type="affiliation/lineage"} that holds the beach and the reef is named for it. The village lies in a belt of palms behind the beach, its boats drawn up on the sand in the open.
 
 ## The Holding
 
-The lineage Reithovani holds the beach, the reef and the spring behind the village. A work of the [[lore-theithari|Ithari]] stands on the reef side of the beach, one of the tending-stones that keep a fishing ground and a spring, and the village has fished the reef under it for as long as it has kept a record. The reef spear is the village's tool, and its catch goes to Ilovanu's coasters.
+The lineage Reithovani holds the beach, the reef and the spring behind the village. A work of [[lore-theithari|The Ithari]] stands on the reef side of the beach, one of the tending-stones that keep a fishing ground and a spring, and the village has fished the reef under it for as long as it has kept a record. The reef spear is the village's tool, and its catch goes to Ilovanu's coasters.
 
 ## The Failing
 

@@ -18,7 +18,7 @@ data:
 
 Q'aptel Tsa'kul Region is the land of [[affiliation-qapteltzakl|Q'aptel Tsa'kul]], and lies within [[place-sthrnkchchk|Southern K'ich'chik]] on the [[place-kchchkcntnnt|K'ich'chik Continent]].
 
-Q'aptel Tsa'kul is the threshold—the last gasp of civilization before the world breaks. The name itself means "The Boundary Place," and it is aptly given. Here, the ordered world of the [[affiliation-itzanpnthn|Itsani]], with its pyramid-cities and managed agriculture, gives way to something far darker and older. The land itself seems cursed or dying; toxic mineral flats spread across the earth like scars, geothermal vents hiss poisonous fumes, and the sky often glows sickly yellow or bruised purple with distant storms.
+Q'aptel Tsa'kul is the threshold—the last gasp of civilization before the world breaks. The name itself means "The Boundary Place," and it is aptly given. Here, the ordered world of the [[affiliation-itzanpnthn|Itsani Pantheon]], with its pyramid-cities and managed agriculture, gives way to something far darker and older. The land itself seems cursed or dying; toxic mineral flats spread across the earth like scars, geothermal vents hiss poisonous fumes, and the sky often glows sickly yellow or bruised purple with distant storms.
 
 The few settlements that persist in Q'aptel Tsa'kul are fortress-temples, built to endure as waypoints for the doomed and the desperate.
 
@@ -26,7 +26,7 @@ The few settlements that persist in Q'aptel Tsa'kul are fortress-temples, built 
 
 Q'aptel Tsa'kul is a land of geological chaos. Vast stretches of barren rock are stained in sickly hues—ochre, rust, and green—by mineral deposits that seep from the ground. In some places, the earth itself boils; geothermal pools of scalding, mineral-rich water bubble up from depths unknown. These vents release acrid gases that sting the eyes and burn the lungs. Some brave (or foolish) alchemists believe that the waters of these vents contain alchemical properties of tremendous value—and so a few researchers and mystics venture here, seeking secrets in the very poisons of the earth.
 
-The plateau gradually descends here toward the southern wastes, but the descent is chaotic—deep canyons cut through the rock, ancient lava flows have hardened into treacherous terrain, and sudden sinkholes can swallow a caravan whole. The scrublands are sparse and hostile; plant life is twisted and thorned, sometimes luminescent in the darkness. Storms gather constantly on the southern horizon, great roiling clouds that [[affiliation-itzanpnthn|P'uqil Ch'akun]] seems to throw in warning.
+The plateau gradually descends here toward the southern wastes, but the descent is chaotic—deep canyons cut through the rock, ancient lava flows have hardened into treacherous terrain, and sudden sinkholes can swallow a caravan whole. The scrublands are sparse and hostile; plant life is twisted and thorned, sometimes luminescent in the darkness. Storms gather constantly on the southern horizon, great roiling clouds taken as warnings from [[lore-puqilchaqundty|P'uqil Ch'akun]].
 
 The single body of water in the region—a mineral-laden lake in the north—is undrinkable and said to drain the life from those foolish enough to fall into it. All potable water must be carried in or carefully dug from deep wells.
 

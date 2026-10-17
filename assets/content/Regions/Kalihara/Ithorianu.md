@@ -17,11 +17,11 @@ data:
 
 ## Overview
 
-Ithorianu is the largest town of the interior. It stands on the eastern shore of [[place-klhrlake|the Bowl Lake]], where the river valleys of [[place-klhrestrrc|the Eastern Terraces]] come down to the water, and the Kaliharans call it _ithorianu_ (rain song) for the sound the Wet-Turn makes on its roofs of laid bark. The Council of [[affiliation-kalihara|Kalihara]] sits at [[place-ilovanu|Ilovanu]], on the coast; Ithorianu is where the Elders of the lineages keep the houses they live in while the Council's business holds them, and where the island's record of what the Council has decided is kept.
+Ithorianu is the largest town of the interior. It stands on the eastern shore of [[place-klhrlake|The Bowl Lake]], where the river valleys of [[place-klhrestrrc|The Eastern Terraces]] come down to the water, and the Kaliharans call it _ithorianu_ (rain song) for the sound [Wet-Turn]{.name data-type="lore/calendar"} makes on its roofs of laid bark. [[affiliation-councilisland|The Council of the Island]] of [[affiliation-kalihara|Kalihara]] sits at [[place-ilovanu|Ilovanu]], on the coast; Ithorianu is where the Elders of the lineages keep the houses they live in while the Council's business holds them, and where the island's record of what the Council has decided is kept.
 
 ## The Holding
 
-The lineage Ithorianu holds the shore and the town, and keeps the Elders' houses as part of its own. The record of decisions is its charge. It is written on palm-leaf sheets and copied in the hand every Kaliharan learns, and it is kept in a long raised hall above the landing, with a fresh copy made in every Tenth-Year Walk. The custodians of [[place-mirthaan|Mirthaan]] are a morning's walk up the valley, and their visits to the town are frequent.
+The lineage [Ithorianu]{.name data-type="affiliation/lineage"} holds the shore and the town, and keeps the Elders' houses as part of its own. The record of decisions is its charge. It is written on palm-leaf sheets and copied in the hand every Kaliharan learns, and it is kept in a long raised hall above the landing, with a fresh copy made in every [Tenth-Year Walk]{.name data-type="lore/custom"}. The custodians of [[place-mirthaan|Mirthaan]] are a morning's walk up the valley, and their visits to the town are frequent.
 
 ## The Failing
 
@@ -29,7 +29,7 @@ The rain still comes to Ithorianu on its turn. It comes less evenly than it did 
 
 ## What Is Seen from It
 
-The lake lies open to the west, with [[place-klhrmassif|the Massif]] standing in it half a day's boat away. Behind the town the terraces climb toward the Ring, and on a clear morning the notch of [[place-klhrcldpss|the Cloud Pass]] shows under its cloud.
+The lake lies open to the west, with [[place-klhrmassif|The Massif]] standing in it half a day's boat away. Behind the town the terraces climb toward [[place-klhrring|The Ring]], and on a clear morning the notch of [[place-klhrcldpss|The Cloud Pass]] shows under its cloud.
 
 ## The Cost of Reaching It
 

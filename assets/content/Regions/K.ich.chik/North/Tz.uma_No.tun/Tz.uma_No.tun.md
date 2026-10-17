@@ -81,7 +81,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-Ts'uma No'tun holds the land of [[place-tzumanotunrgn|Ts'uma No'tun Region]]. K'ich'chik scouts call the people here the Ch'akun Ts'omalil ("Serpent People"), from the serpent-imagery that dominates the few artifacts recovered from border encounters and the rare survivors of failed expeditions into their territory. Their own name for themselves is unknown. Of all the northern nations, the Ch'akun are the most feared—their reputation for mastery of poisons, ambush tactics, and strikes that come from darkness and vanish without trace has made K'ich'chik border commanders treat Ts'uma No'tun as effectively impassable.
+Ts'uma No'tun holds the land of the [[place-tzumanotunrgn|Ts'uma No'tun Region]]. K'ich'chik scouts call the people here the Ch'akun Ts'omalil ("Serpent People"), from the serpent-imagery that dominates the few artifacts recovered from border encounters and the rare survivors of failed expeditions into their territory. Their own name for themselves is unknown. Of all the northern nations, the Ch'akun are the most feared—their reputation for mastery of poisons, ambush tactics, and strikes that come from darkness and vanish without trace has made K'ich'chik border commanders treat Ts'uma No'tun as effectively impassable.
 
 K'ich'chik observers believe the Ch'akun have developed a civilization more organized and centralized than the other northern nations, though evidence is fragmentary and largely inferred from the sophistication of their military operations. The swamplands that form the heart of their territory are simultaneously a refuge and a weapon; K'ich'chik expeditions that have entered the trackless wastes have found them disorienting and deadly, while the Ch'akun clearly move through them with effortless mastery. No K'ich'chik scholar has ever been permitted into Ch'akun lands and returned with a reliable account.
 
@@ -97,7 +97,7 @@ The Ch'akun have developed sophisticated traditions of mound-building—construc
 
 This middleman position generates considerable wealth and political influence; the ability to grant or withhold access to southern luxury goods gives Ch'akun leadership substantial leverage in inter-tribal negotiations.
 
-The Ch'akun appear to maintain some presence in the contested [[place-hanalxilanrgn|Ha'nal Shi'lan]] borderlands, and rare transactions with K'ich'chik merchants occur there—always on Ch'akun terms, always brief, and always through intermediaries who may or may not actually be Ch'akun. The opaque nature of these trade networks makes it impossible for K'ich'chik merchants to predict resource flows, negotiate reliably, or establish lasting commercial relationships.
+The Ch'akun appear to maintain some presence in the contested borderlands of the [[place-hanalxilanrgn|Ha'nal Shi'lan Region]], and rare transactions with K'ich'chik merchants occur there—always on Ch'akun terms, always brief, and always through intermediaries who may or may not actually be Ch'akun. The opaque nature of these trade networks makes it impossible for K'ich'chik merchants to predict resource flows, negotiate reliably, or establish lasting commercial relationships.
 
 ## See Also
 

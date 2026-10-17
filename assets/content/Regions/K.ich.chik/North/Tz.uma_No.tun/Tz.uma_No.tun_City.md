@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [tzumanotunrgn], population: 2500, gove
 
 ## Overview
 
-Border commanders treat **Ts'uma No'tun** as effectively impassable. The seat of the Ch'akun Ts'omalil, the Serpent People, is reckoned at about 2,500 people, in the northeast of the frontier, where ancient forested mountains descend through piedmont into swamp, river delta and coastal wetland. Of all the northern nations, the Ch'akun are the most feared: masters of poisons, ambush and strikes that come from darkness and leave no trace. No K'ich'chik scholar has been admitted to their lands and returned with a reliable account.
+Border commanders treat Ts'uma No'tun as effectively impassable. The seat of [[affiliation-tzumanotun|Ts'uma No'tun]], the nation of the Ch'akun Ts'omalil (the Serpent People), is reckoned at about 2,500 people, in the northeast of the frontier, where ancient forested mountains descend through piedmont into swamp, river delta and coastal wetland. Of all the northern nations, the Ch'akun are the most feared: masters of poisons, ambush and strikes that come from darkness and leave no trace. No K'ich'chik scholar has been admitted to their lands and returned with a reliable account.
 
 ## What Is Inferred
 

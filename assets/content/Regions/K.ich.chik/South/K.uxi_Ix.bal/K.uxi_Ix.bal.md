@@ -81,7 +81,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-K'ushi Ish'bal holds the land of [[place-kuxiixbalrgn|K'ushi Ish'bal Region]]. The Ch'um Ish'lan relay network thins here as well; Ch'umbal way-stations are spaced further apart, runners are harder to recruit for the harsh southern routes, and messages from [[affiliation-ixilankul|Ish'ilankul]] that arrive in two days at [[affiliation-kankul|K'ankul]] take five or six to reach K'ushi Ish'bal's outpost cities. Beyond K'ushi Ish'bal, the Speaking Road falls silent entirely—the last k'otsel cord to arrive is decoded at [[place-qptlulneok|Q'aptel'ul Ne'ok]], and what lies further south relies on the courage of individual messengers. Those who venture south from K'ushi Ish'bal do so with offerings and prayers heavy on their lips.
+K'ushi Ish'bal holds the land of the [[place-kuxiixbalrgn|K'ushi Ish'bal Region]]. The [Ch'um Ish'lan]{.name data-type="affiliation"} relay network thins here as well; Ch'umbal way-stations are spaced further apart, runners are harder to recruit for the harsh southern routes, and messages from [[affiliation-ixilankul|Ish'ilankul]] that arrive in two days at [[affiliation-kankul|K'ankul]] take five or six to reach K'ushi Ish'bal's outpost cities. Beyond K'ushi Ish'bal, the Speaking Road falls silent entirely—the last k'otsel cord to arrive is decoded at [[place-qptlulneok|Q’aptel’ul Ne’ok]], and what lies further south relies on the courage of individual messengers. Those who venture south from K'ushi Ish'bal do so with offerings and prayers heavy on their lips.
 
 ## Maritime Powers
 
