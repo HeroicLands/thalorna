@@ -60,7 +60,7 @@ ORDER BY data.population DESC, name.full COLLATE NOCASE
 
 ## Under the Conquerors
 
-Inside the four cities the Tellumi live in designated quarters, usually the old districts with lanes too narrow for a settler's cart. They have not been bondsmen for two generations, and they remain subjects in concrete ways: no land outside their quarters, no public worship of any god but the [Sacred Flame]{.name data-type="lore/deity"}, no arms outside the militias the Atarzád permit, and the water-tax, a levy on city water that falls on Tellumi heads of household alone.
+Inside the four cities the Tellumi live in designated quarters, usually the old districts with lanes too narrow for a settler's cart. They have not been bondsmen for two generations, and they remain subjects in concrete ways: no land outside their quarters, no public worship of any god but [[lore-atarosdty|Ataros]] (the Sacred Flame), no arms outside the militias the Atarzád permit, and the water-tax, a levy on city water that falls on Tellumi heads of household alone.
 
 What the Tellumi hold is expertise. They are the water-engineers, palm-grove cultivators, physicians, scribes in three tongues, bankers and astronomers, and the cities do not run without the people who keep their canals. Every Atarzád suppression of a rising, however brutal, has stopped short of emptying a Tellumi quarter for that reason, and neither people finds the arrangement comfortable.
 

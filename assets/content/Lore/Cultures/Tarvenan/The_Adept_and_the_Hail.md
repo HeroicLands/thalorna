@@ -15,7 +15,7 @@ data:
 # terran_analog: "The trickster tale in which a bargain is kept to the letter and the letter undoes the clever party, as in the peasant-and-devil bargains over the top and bottom of a crop; the village assembly as the trickster; and the hail that falls on the liar's field, from the mountain folklore of a goddess who punishes the lie."
 ---
 
-**The Adept and the Hail** is told at the hearths of the hill farms under [[place-durgalis|Dúrgalis]] when the winter is long enough to want a laugh in it. It is the valley's tale of an adept of the [[affiliation-ordoarcanis|Thordimalon]] who came up from a city chapter to sell the farms a contract against the hail, and of the wise-woman **Beruzta**, the Chestnut, so called because she was old, broad and prickly, who told the valley's assembly how to buy it.
+**The Adept and the Hail** is told at the hearths of the hill farms under [[place-durgalis|Dúrgalis]] when the winter is long enough to want a laugh in it. It is the valley's tale of an adept of the [[affiliation-ordoarcanis|Thordimalon]] who came up from a city chapter to sell the farms a contract against the hail, and of the wise-woman [Beruzta]{.name data-type="being/npc"}, the Chestnut, so called because she was old, broad and prickly, who told the valley's assembly how to buy it.
 
 It is a tale of a contract kept, and the valley tells it as a comedy. It turns on what the high valleys hold about the hail, that the hail is the Mother's and comes for a lie ([[lore-motheryesno|The Mother's Yes and No]]), and a teller who has told that one first tells this one shorter. The adept is not named in it. A teller who is asked why answers that he signed his name to everything, so the valley had enough of it.
 

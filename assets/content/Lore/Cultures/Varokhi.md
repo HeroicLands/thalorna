@@ -58,7 +58,7 @@ data:
 # terran_analog: "The Visigoths."
 ---
 
-The Varokh call [[place-vrystwald|Vristwald]] their primeval homeland. The country was [[lore-pelwarpepl|Pelwar]] first, held by herders and cultivators before the [[lore-varkhadcnq|Varkhad]] came from farther east and took it. The invaders exterminated nobody; over generations the two peoples married until their descendants could no longer be told apart. The Varokh defend the forest as both its earlier inhabitants and its conquerors' children.
+The Varokh call [[place-vrystwald|Vristwald]] their primeval homeland. The country belonged to the [[lore-pelwarpepl|Pelwar People]] first, held by herders and cultivators before the [Varkhad]{.name data-type="lore/folk"} came from farther east and took it (see [[lore-varkhadcnq|The Varkhad Conquest]]). The invaders exterminated nobody; over generations the two peoples married until their descendants could no longer be told apart. The Varokh defend the forest as both its earlier inhabitants and its conquerors' children.
 
 ## Keeping Faith
 
@@ -82,7 +82,7 @@ That ethic has a boundary its victims know well. The Varkhad invasion took anoth
 
 [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]] embodies the admired male warrior: strong, enduring, skilled at tracking and stubborn in defense of his people. His loyalty and knowledge of the forest give his courage a purpose. His ambition also exposes the danger in the ideal: protecting the clan can become an excuse for advancing oneself.
 
-Thornak is of the Mahnlin kindred and of the village of [[place-eichengrnd|Eichengrund]], whose wesk is the boar. His bond with that spirit gives a particular form to virtues other villages recognize through their own totems.
+Thornak is of the [Mahnlin]{.name data-type="affiliation/lineage"} kindred and of the village of [[place-eichengrnd|Eichengrund]], whose wesk is [[lore-boarttm|Boar]]. His bond with that spirit gives a particular form to virtues other villages recognize through their own totems.
 
 ## The Woman Admired
 
@@ -92,7 +92,7 @@ Women hold substantial property and trading authority. A woman may also win a Wa
 
 ## Memory Without Writing
 
-Varokhi is unwritten, carried on breath and memory from its Pelwar roots. Giant-slayers, spirit-walkers and heroes fill an oral tradition whose deeds listeners are expected to recognize. There is no written charter or registry to replace a witnessed promise. An oath before a war-band carries the security a written deed provides elsewhere.
+The [[skill-varokhlng|Varokhi Language]] is unwritten, carried on breath and memory from its Pelwar roots. Giant-slayers, spirit-walkers and heroes fill an oral tradition whose deeds listeners are expected to recognize. There is no written charter or registry to replace a witnessed promise. An oath before a war-band carries the security a written deed provides elsewhere.
 
 Each clan's wesk, its sacred grove and its ancestral burial places hold its shared identity. Feud-cords and the Skathár's remembered reckoning preserve blood owed and paid. The oldest trees house powerful spirits. These places and memories make obligations visible without a common temple or a document governing all Varokh.
 
@@ -110,9 +110,9 @@ A foreign god may enter through captivity, marriage or long residence abroad. Th
 
 ## The Year Together
 
-Rites mark each seasonal turning. Two further gatherings renew the relationship between the living, their ancestors and their land. **Weskskald**, the Totem Reciter, is a deep-winter evening of family memory, ancestor recitation and prayer. Remembering the dead requires no dangerous attempt to question them.
+Rites mark each seasonal turning. Two further gatherings renew the relationship between the living, their ancestors and their land. [Weskskald]{.name data-type="lore/gathering"}, the Totem Reciter, is a deep-winter evening of family memory, ancestor recitation and prayer. Remembering the dead requires no dangerous attempt to question them.
 
-**Weskmund**, the Totem Protection, is a late-summer day spent tending sacred ground and renewing the clan's duty to the forest. The work gives that duty a place in the year alongside the words spoken at the grove.
+[Weskmund]{.name data-type="lore/gathering"}, the Totem Protection, is a late-summer day spent tending sacred ground and renewing the clan's duty to the forest. The work gives that duty a place in the year alongside the words spoken at the grove.
 
 ## What Deeds Earn and Wrongs Cost
 
@@ -176,7 +176,7 @@ The obligation reaches beyond a gift made once. A household that receives someon
 
 ## Household and Kindred
 
-The extended household and its kindred organize Varokh life. A clan is a kindred, and a village is the ground several kindreds share: Eichengrund holds the Vithrúnd, the Mahnlin and others, and its households share the boar wesk, while particular people may also carry a personal totem. A kindred that splits with its village keeps its clan name in both, so one clan can hold ground in more than one village. A person is named in full by both, the clan after _yra_ and the village after _wur_, as [[skill-varokhlng|Varokhi]] sets out. A household can contain blood kin, married-in adults, sheltered free dependents and enslaved people without giving all of them the same standing.
+The extended household and its kindred organize Varokh life. A clan is a kindred, and a village is the ground several kindreds share: Eichengrund holds the [Vithrúnd]{.name data-type="affiliation/lineage"}, the Mahnlin and others, and its households share the boar wesk, while particular people may also carry a personal totem. A kindred that splits with its village keeps its clan name in both, so one clan can hold ground in more than one village. A person is named in full by both, the clan after _yra_ and the village after _wur_, as Varokhi sets out. A household can contain blood kin, married-in adults, sheltered free dependents and enslaved people without giving all of them the same standing.
 
 A married-in adult may own and trade goods in their own name. An Othmund may be freed and sometimes married in; the children of that marriage are simply Varokh. Bondage is not hereditary in the way Ankarian bondage often is. A freed person sheltered before marriage-in may hold Edrmund standing. Taking someone under a roof is protection, but it does not by itself make them blood kin.
 

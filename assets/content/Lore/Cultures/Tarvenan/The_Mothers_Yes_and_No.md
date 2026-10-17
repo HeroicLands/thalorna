@@ -20,7 +20,7 @@ data:
 # terran_analog: "The Basque goddess Mari and the tales told of her: a mother who lives in the mountain caves and crosses between peaks as fire, sends the hail, punishes the lie and the broken word, is answered plainly and never sat before, and is left by walking out facing her; with the boundary stone sworn upon, and the end of the world held back while the custom is kept."
 ---
 
-**The Mother's Yes and No** is the winter tale the wise-women, the _tsingarra_, tell in the mountain villages of [[lore-tarvenanclt|Tarvénia]] of the Mother, _menutsa_, who is kept in the caves under the gods of the pantheon. It is told at the hearth in the long nights after the flocks are down, to children and to anyone else who stays up, and it is the account the high valleys give of three things: where the mountains came from, why a Tarvenan swears on a stone and not on a book, and when the world ends.
+**The Mother's Yes and No** is the winter tale the wise-women, the _tsingarra_, tell in the mountain villages of the [[place-tarvenirgn|Tarvénia Region]] of the [Mother]{.name data-type="lore/deity"}, _menutsa_, who is kept in the caves under the gods of the pantheon. It is told at the hearth in the long nights after the flocks are down, to children and to anyone else who stays up, and it is the account the high valleys give of three things: where the mountains came from, why a Tarvenan swears on a stone and not on a book, and when the world ends.
 
 It is told in prose, in the teller's own voice, with the Mother's words said exactly, because she has only two. The tale names no one. The two shepherds are the shepherd of the east side and the shepherd of the west side, and the son is the son. A wise-woman who is asked their names gives the same answer every time, and it is the tale's own: the Mother did not ask them, so the tale does not.
 
@@ -28,7 +28,7 @@ It is told in prose, in the teller's own voice, with the Mother's words said exa
 
 Put another log on. No, the beech, not the chestnut. The chestnut spits. Sit where you can see the fire and not where you can see me, because I'm old and the fire's better to look at. You want the Mother. You'll have her. Don't ask me questions in the middle. You'll see why.
 
-**Before the wheel.** The priest who comes up from the town for the weddings says that the World-Weaver spun the world on her wheel, the whole of it, the sea and the grain and the vines and the people, and I don't argue with the priest. He's a good man, and he comes up the hill with his bad knee, and he's right. She spun it. She spun the lowlands and the sea and the grain and the lowland towns, and everything that goes round and round as a wheel does: the year, and the harvest, and the sun going over.
+**Before the wheel.** The priest who comes up from the town for the weddings says that the World-Weaver, [[lore-lusiniadty|Lusinia]], spun the world on her wheel, the whole of it, the sea and the grain and the vines and the people, and I don't argue with the priest. He's a good man, and he comes up the hill with his bad knee, and he's right. She spun it. She spun the lowlands and the sea and the grain and the lowland towns, and everything that goes round and round as a wheel does: the year, and the harvest, and the sun going over.
 
 But when she sat down to spin, the mountains were already there, and she spun round them. That's why the lowlands go round the mountains like wool round a stone in a carder's hand. Look at it from the top of the pass on a clear day and you'll see it's so.
 
@@ -44,7 +44,7 @@ And she can't bear a lie. Not a big one. Not a small one. She hears every word t
 
 And when the lie's a bad one she gets up out of the cave she's in and goes to another, and she goes across the sky between the peaks as a fire, and you've seen it, the light that goes over in a summer night and is gone before you can point. And then comes the hail.
 
-The priests say the storm is the Thunderer's, and so it is. The men go up on the high places in the spring for his first storm, on the Vigil, and they're right to. He makes the storm, and he makes the noise of it, and the light. But the hail, the hail that comes in a clear summer afternoon on one meadow and not the next, on one man's barley and not his neighbor's, that's her, going over, angry, looking for the mouth that said it. The Thunderer is loud. She isn't loud. She just finds you.
+The priests say the storm is the Thunderer's, [[lore-brazemasdty|Brazemas]]'s, and so it is. The men go up on the high places in the spring for his first storm, on the [Thunderhead Vigil]{.name data-type="lore/gathering"}, and they're right to. He makes the storm, and he makes the noise of it, and the light. But the hail, the hail that comes in a clear summer afternoon on one meadow and not the next, on one man's barley and not his neighbor's, that's her, going over, angry, looking for the mouth that said it. The Thunderer is loud. She isn't loud. She just finds you.
 
 **What you do in her cave.** If you have to go to her, and some have to, you go to the cave on the side of the mountain where the offerings are, where you've seen the cheese left at the mouth and the bit of bread and the little pot of milk, and you take something and leave it at the mouth. Then you go in.
 
@@ -168,7 +168,7 @@ He walked out of her cave facing her, the son, all the way out, backward. He nev
 
 **When the gods came.** Now, later, people came over the mountains from the east with their words, the words we speak now, and long after them came the twelve and their priests. I'm not going to tell you about that. Ask the priest; he likes telling it. He'll tell you how they came, and that's all true.
 
-What I'll tell you is that when the priests came up into the high valleys, they said that oaths are the god of the gate's. Árdavon's. The two faces. That a man who swears, swears before him, and a man who breaks his word offends him. And that's true too. I don't argue with priests.
+What I'll tell you is that when the priests came up into the high valleys, they said that oaths are the god of the gate's. [[lore-ardavondty|Árdavon]]'s. The two faces. That a man who swears, swears before him, and a man who breaks his word offends him. And that's true too. I don't argue with priests.
 
 So they built a shrine to him, at the head of the valley, and they told us to swear there. And we did. We go to the shrine and we say it there, in front of the two faces. And then we walk the ten steps from the shrine to the stone and we put our hands on the stone and say it again.
 

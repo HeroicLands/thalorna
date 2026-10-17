@@ -28,7 +28,7 @@ data:
 # terran_analog: "The Himalaya, Karakoram, Pamir and Tian Shan wall (the Grazian Mountains analogue): drover peoples who guide caravans over the cols. Carries over: pack-beast herding, high summer pastures, a winter spent indoors together. Departs: crossings are assigned by yearly rotation among hearth-heads, the whole people shares one turf long-house, and no authority stands above the hearth."
 ---
 
-The [[affiliation-hvarnguides|Hvarn]] are drovers who hold the two crossings of [[place-estrnreach|the Eastern Reach]] and spend half the year scattered and half of it in one building. There are nine thousand of them. They are the poorer of the two guide-peoples by a wide margin, and they are the only people on the wall who deal with lowland institutions as a matter of routine.
+The Hvarn are drovers who hold the two crossings of [[place-estrnreach|The Eastern Reach]] and spend half the year scattered and half of it in one building. There are nine thousand of them. They are the poorer of the two guide-peoples by a wide margin, and they are the only people on the wall who deal with lowland institutions as a matter of routine.
 
 ## The Two Halves of the Year
 
@@ -38,15 +38,15 @@ Very little of a Hvarn winter is private. A quarrel carried down off the pasture
 
 ## The Rotation
 
-The [[affiliation-osketguides|Osket]] hold a road by descent, and the Hvarn share theirs out. In the weeks after midwinter the hearth-heads take the middle of the long house and say aloud, in front of everyone, who will walk which crossing and what each hearth still owes another.
+[[affiliation-osketguides|The Osket]] hold a road by descent, and the Hvarn share theirs out. In the weeks after midwinter the hearth-heads take the middle of the long house and say aloud, in front of everyone, who will walk which crossing and what each hearth still owes another.
 
-The council has no power to compel and has never needed one, because nobody who ignored it would be given a road. That is the whole of Hvarn public order, and it is made again from nothing every winter.
+The council of [[affiliation-hvarnguides|The Hvarn]] has no power to compel and has never needed one, because nobody who ignored it would be given a road. That is the whole of Hvarn public order, and it is made again from nothing every winter.
 
-The rotation is what a small trade can afford. A single [[place-suryadvara|Suryadvara]] lineage lives better than six Hvarn hearths could on two crossings, so the Hvarn pool the work and the debt and argue about it once a year in one room.
+The rotation is what a small trade can afford. A single lineage at [[place-suryadvara|Suryadvara]] lives better than six Hvarn hearths could on two crossings, so the Hvarn pool the work and the debt and argue about it once a year in one room.
 
 ## The Party
 
-Hvarn work is roped work, and the [[skill-hvarnlng|language]] carries the distinction in its verbs: paired forms separate what a man has done himself from what he has done as one of a party. A **Reach-guide** answers to the council for whoever does not come back. A **Drover** who kept the beasts on the lower stages is not held to have made the crossing at all.
+Hvarn work is roped work, and the [[skill-hvarnlng|Hvarn Language]] carries the distinction in its verbs: paired forms separate what a man has done himself from what he has done as one of a party. A **Reach-guide** answers to the council for whoever does not come back. A **Drover** who kept the beasts on the lower stages is not held to have made the crossing at all.
 
 Earnings run the same way. A season's fee comes to the hearth and the debts it leaves are between hearths, so a **Roadwalker** learning the weather under another's charge is owed his place at a fire and nothing else.
 
@@ -60,13 +60,13 @@ A child is named for a person in the roll, and the naming carries the obligation
 
 ## The Contract
 
-The Hvarn pack-trains that feed [[place-sanghafort|the fort]] on the conch-door col run on an old contract. The **Fort-carrier** who keeps it speaks fluent lowland [[skill-vedyarlng|Vedyari]] and is the one member of the people the garrison's officers know by name.
+The Hvarn pack-trains that feed [[place-sanghafort|The Sangra-fort]] on the conch-door col run on an old contract. The **Fort-carrier** who keeps it speaks fluent lowland [[skill-vedyarlng|Vedyari Language]] and is the one member of the people the garrison's officers know by name.
 
-Lowland factors walk up to Nurvharn for the renewal and for nothing else, and the Hvarn have kept up the visits for four centuries without once inviting anyone to stay the winter. The seal of [[affiliation-janpdsvdyr|the janapadas]] is one of two objects in the long house kept in a box.
+Lowland factors walk up to Nurvharn for the renewal and for nothing else, and the Hvarn have kept up the visits for four centuries without once inviting anyone to stay the winter. The seal of the [[affiliation-janpdsvdyr|Janapadas of Vedyara]] is one of two objects in the long house kept in a box.
 
 ## Poor, and Better Connected
 
-Nine thousand people with two crossings and no store of their own are poor by any measure a lowlander uses. The Hvarn are also the best connected people on the wall. The fort contract puts them in a room with lowland officers every third year, the envoys and scholars who use [[place-jnanadvara|Jnanadvara]] pass through their hands, and about forty lowlanders speak the language, which is forty more than speak [[skill-osketlng|Osket]].
+Nine thousand people with two crossings and no store of their own are poor by any measure a lowlander uses. The Hvarn are also the best connected people on the wall. The fort contract puts them in a room with lowland officers every third year, the envoys and scholars who use [[place-jnanadvara|Jnanadvara]] pass through their hands, and about forty lowlanders speak the language, which is forty more than speak [[skill-osketlng|Osket Language]].
 
 ## Names and the Tongue
 
@@ -86,13 +86,13 @@ The Hvarn value most the party, the roll, the open floor and a house kept clean 
 
 ## The Man Admired
 
-**Hvrel of the Klemvrd hearth**, the Fort-carrier, is the man the Hvarn point to when they say what the contract is for. He is a broad man who speaks lowland Vedyari slowly and carefully, and he is the one member of the people whom the garrison's officers know by name. A stranger who reaches his hearth has his pack lifted off his shoulders before he can object, is set down between Hvrel's daughter and a sleeping dog, and is given barley and butter, and is shown the janapadas' seal in its box once he has eaten. His name comes from the roll. The first Hvrel was found under the upper shelf of [[place-jnanadvara|Jnanadvara]], and Hvrel answers a question about his name with that place.
+[Hvrel of the Klemvrd hearth]{.name data-type="being/npc"}, the Fort-carrier, is the man the Hvarn point to when they say what the contract is for. He is a broad man who speaks lowland Vedyari slowly and carefully, and he is the one member of the people whom the garrison's officers know by name. A stranger who reaches his hearth has his pack lifted off his shoulders before he can object, is set down between Hvrel's daughter and a sleeping dog, and is given barley and butter, and is shown the janapadas' seal in its box once he has eaten. His name comes from the roll. The first [Hvrel]{.name data-type="being/npc"} was found under the upper shelf of [[place-jnanadvara|Jnanadvara]], and Hvrel answers a question about his name with that place.
 
 The Hvarn admire in him the bargain the whole people lives on, carried by a man who does not dress it up. The fort contract is the single largest piece of Hvarn income, it is renewed every third year, and he is the one who sits across from the lowland factor for it. He holds the lowlanders at the edge of the village, feeds them, shows them the seal and does not invite them to stay the winter. His cost is that the people regard the traffic as a nuisance they are paid for, and the man who carries it is the one they do not quite thank. The kingdom of [[affiliation-vindhyalay|Shikharalaya]] resents the fort's supply line and the Hvarn decline to discuss it, and both of those fall on the same broad shoulders.
 
 ## The Woman Admired
 
-**Rhevzhn of the Shulnrh hearth**, a Reach-guide of [[place-sankhadvra|Shankhadvara]], is the woman the long house names for the refusal the contract depends on. In a week the storm-reader had closed, the commander of the fort pressed her for a crossing, and she declined. On the first clear day she took the fort's supplies up on her own rope. The worst crossing on the wall has a record of no party lost, and her hearth keeps it without explaining it.
+[Rhevzhn of the Shulnrh hearth]{.name data-type="being/npc"}, a Reach-guide of [[place-sankhadvra|Shankhadvara]], is the woman the long house names for the refusal the contract depends on. In a week the storm-reader had closed, the commander of the fort pressed her for a crossing, and she declined. On the first clear day she took the fort's supplies up on her own rope. The worst crossing on the wall has a record of no party lost, and her hearth keeps it without explaining it.
 
 Her admiration is not a lesser form of Hvrel's. He holds the people's bargain with the lowland, and she holds the line the bargain stands behind: a garrison fed on Hvarn pack-trains is fed by people who will say no to its commander. Her cost is kinship. Her hearth is small and related by marriage to half the garrison, so every refusal is made to relatives, and a commander refused once stops asking and stops granting the small favors that kin extend. A Reach-guide answers to the council for whoever does not come back, and the weight of the office is the weight she carries.
 
@@ -102,7 +102,7 @@ A Hvarn can point to the things that hold the people together. **The roll** is t
 
 ## The Day Kept
 
-On an ordinary day the Hvarn religion is work done in the right order, and its names are not shared with strangers. The people keep austere traditions and say what they do and not what it is for. In the closed months the day belongs to the long house: rope greased, pack-saddles mended, the pot stirred by someone arguing with three people at once, children asleep in heaps of hides. In the open months a party leaves on the storm-reader's word, and a refusal ends a day's travel whatever the fee. At the summit shrines of Jnanadvara and Shankhadvara a party takes the road-rite of the [[affiliation-passshrineushtakas|Pass-Shrine ushtakas]], the one lowland practice the guide-peoples respect, because they have watched it work in weather they know better than anyone. A child asked its name answers with a place.
+On an ordinary day the Hvarn religion is work done in the right order, and its names are not shared with strangers. The people keep austere traditions and say what they do and not what it is for. In the closed months the day belongs to the long house: rope greased, pack-saddles mended, the pot stirred by someone arguing with three people at once, children asleep in heaps of hides. In the open months a party leaves on the storm-reader's word, and a refusal ends a day's travel whatever the fee. At the summit shrines of Jnanadvara and Shankhadvara a party takes the road-rite of [[affiliation-passshrineushtakas|The Pass-Shrine Ushtakas]], the one lowland practice the guide-peoples respect, because they have watched it work in weather they know better than anyone. A child asked its name answers with a place.
 
 ## The Round of the Year
 
@@ -202,4 +202,4 @@ The sin is the Unhoused. A person put out of the winter house for a fault the co
 
 The full dictionary is in the [[skill-hvarnlng#lexicon|Hvarn Language note]].
 
-Janapoda, Mela, shrena and ushtaka are loanwords from [[lore-vedyariclt#glossary|Vedyara]].
+Janapoda, Mela, shrena and ushtaka are loanwords from the [[lore-vedyariclt#glossary|Vedyari]] culture.

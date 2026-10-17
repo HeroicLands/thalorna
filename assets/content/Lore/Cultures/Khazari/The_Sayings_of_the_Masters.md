@@ -13,11 +13,11 @@ data:
   language: khazarlng
 ---
 
-**The Sayings of the Masters**, _Gatharirezith vazanez_, is the workshop wisdom of the [[lore-khazariclt|Khazari]] as one hold keeps it: the sayings (_vazan_) of twelve masters, each received from the one before and handed to the one after, so that the chain of names is recited before any saying is. A master says them to apprentices one at a time across the years of listening, usually at the face, with the stone a saying is about under the apprentice's hand, because a saying is a thing said over a matter and it waits for its matter. The whole chain is read aloud once, below, on the oath-day when an apprentice is admitted to strike, and the hammer is given after the last word. The copy transcribed here is [[place-vorgald|Vorgald]]'s, kept on lead sheets in the hold's archive; the chain is Vorgald's own, and the holds over the water keep chains of their own that share its older names and, but for Dulkun, none of its later ones. The valley the two masters quarrel over near the end is the [[place-vardainvalleys|Vardain valleys]] beneath the hold, which the text calls only the valley and the gate. Two of the masters spoke in the coursed line of the deep songs, and their sayings are read in that line; the rest are said plainly, and nothing in the chain is sung.
+**The Sayings of the Masters**, _Gatharirezith vazanez_, is the workshop wisdom of the [[lore-khazariclt|Khazari]] as one hold keeps it: the sayings (_vazan_) of twelve masters, each received from the one before and handed to the one after, so that the chain of names is recited before any saying is. A master says them to apprentices one at a time across the years of listening, usually at the face, with the stone a saying is about under the apprentice's hand, because a saying is a thing said over a matter and it waits for its matter. The whole chain is read aloud once, below, on the oath-day when an apprentice is admitted to strike, and the hammer is given after the last word. The copy transcribed here is [[place-vorgald|Vorgald]]'s, kept on lead sheets in the hold's archive; the chain is Vorgald's own, and the holds over the water keep chains of their own that share its older names and, but for [Dulkun of Khalvagunáv]{.name data-type="being/npc"}, none of its later ones. The valley the two masters quarrel over near the end is [[place-vardainvalleys|The Vardain Valleys]] beneath the hold, which the text calls only the valley and the gate. Two of the masters spoke in the coursed line of the deep songs, and their sayings are read in that line; the rest are said plainly, and nothing in the chain is sung.
 
 ## The Chain
 
-**Tovaro of Kavalazunáth** received listening from **Ferden of Hamkadhunák**, and Ferden from **Pirni of Zanthaguráf**, and Pirni from **Holbon of Lakamamulán**, and Holbon from **Vutamu of Nalpafurád**, and Vutamu from **Dulkun of Khalvagunáv**, and Dulkun from **Kevale of Halbazumád**, and Kevale from **Nalpan of Thalgahunáth**, and Nalpan from **Rumkun of Famgadurákh**, and Rumkun from **Thimri of Margavuráth**, and Thimri from **Khalvan of Ramkasumád**, and Khalvan from **Samda of Tavarasuláth**.
+[Tovaro of Kavalazunáth]{.name data-type="being/npc"} received listening from [Ferden of Hamkadhunák]{.name data-type="being/npc"}, and Ferden from [Pirni of Zanthaguráf]{.name data-type="being/npc"}, and Pirni from [Holbon of Lakamamulán]{.name data-type="being/npc"}, and Holbon from [Vutamu of Nalpafurád]{.name data-type="being/npc"}, and Vutamu from Dulkun of Khalvagunáv, and Dulkun from [Kevale of Halbazumád]{.name data-type="being/npc"}, and Kevale from [Nalpan of Thalgahunáth]{.name data-type="being/npc"}, and Nalpan from [Rumkun of Famgadurákh]{.name data-type="being/npc"}, and Rumkun from [Thimri of Margavuráth]{.name data-type="being/npc"}, and Thimri from [Khalvan of Ramkasumád]{.name data-type="being/npc"}, and Khalvan from [Samda of Tavarasuláth]{.name data-type="being/npc"}.
 
 Above Samda the lead holds names and no sayings. The sayings begin with her.
 
@@ -159,13 +159,13 @@ Four things are entered on the day they happen and never on the day after: a cut
 
 Once in sixty-four years, and often not even then, the elders of several holds sit together and compound a house name for a hand no house can account for. Do not work toward it. The ones it was given to were doing something else.
 
-You honored **Puthakun** this morning when you tapped the face and waited. Everything you have said in his name since has been repeating yourself.
+You honored [Puthakun]{.name data-type="being/npc"} this morning when you tapped the face and waited. Everything you have said in his name since has been repeating yourself.
 
 An apprentice copied the whole chain onto one slate and brought it to Kevale to be told that he had it. She set the slate on the assay balance against a blank one from the shelf and read him the weight. She said: It is heavier than it was. You are not.
 
 ## Dulkun of Khalvagunáv
 
-Dulkun of Khalvagunáv came to this hold from **Magharathubád** when his work there was in order. He drove tunnels, refused the straight cut when it was asked of him, and spoke seldom. The chain keeps one saying of his, as he said it:
+Dulkun of Khalvagunáv came to this hold from [Magharathubád]{.name data-type="place/settlement"} when his work there was in order. He drove tunnels, refused the straight cut when it was asked of him, and spoke seldom. The chain keeps one saying of his, as he said it:
 
 A prop is a question you did not ask, answered in timber.
 
@@ -187,13 +187,13 @@ If the hold calls this a fault, enter it against my name. I would rather it stoo
 
 ## Holbon of Lakamamulán
 
-Holbon of Lakamamulán, of [[lore-khazararrv|Lummáv]], kept the archive, and received listening from Vutamu. He answered her, and the chain keeps the answer whole. It is read in the keeper's voice, from the lead.
+Holbon of Lakamamulán, of the [Lummáv]{.name data-type="affiliation/lineage"} clan (see [[lore-khazararrv|The Coming of the Khazari]]), kept the archive, and received listening from Vutamu. He answered her, and the chain keeps the answer whole. It is read in the keeper's voice, from the lead.
 
 Vutamu has said what the gate was not given. I will read what it was given, because it is written, and what is written is read.
 
 The channel that takes the eastern stream along the valley floor: cut by this hold, 252 paces, following the stream's old bed, no prop in it, warranted by three names. It waters their fields before it reaches our cistern.
 
-The terraces of the southern slope: forty-one, set to the lie of the ground. Two slipped in the thaw of a wet year and were entered against the name of **Gorzon of Khardavurán**, who had set them; he reset both along the lie of the ground at his own labor, with a master of Ramkasumád watching, and the mending is entered under the fault in the same hand.
+The terraces of the southern slope: forty-one, set to the lie of the ground. Two slipped in the thaw of a wet year and were entered against the name of [Gorzon of Khardavurán]{.name data-type="being/npc"}, who had set them; he reset both along the lie of the ground at his own labor, with a master of [Ramkasumád]{.name data-type="affiliation/lineage"} watching, and the mending is entered under the fault in the same hand.
 
 The drains of the lower fields: twenty-three.
 

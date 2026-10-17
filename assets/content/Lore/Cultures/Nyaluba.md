@@ -37,11 +37,11 @@ data:
 # terran_analog: "Iroquois Confederacy (Haudenosaunee), Sotho-Tswana morafe and Shona heirs of Great Zimbabwe: five clan-nations bound by an ancient pact, cattle-pastoral, with a stone-ruin heritage. Carries over: a league of distinct nations under a shared covenant renewed in person, council by consensus, cattle wealth, totem clans. Departs: the five clans keep lion, crocodile, eagle, leopard and baobab totems and differ in dress, dialect and marriage custom."
 ---
 
-There is no Nyáluba people in the way a foreigner means it. There are five nations that share a language, a faith and a pact, and that differ in dress, dialect, ritual, marriage custom and self-conception far enough that a Ruwozi cattle-herder and a Kolembozi reed-fisher are never taken for the same kind of person. What both would say at once is that they are heirs of the Long Pact. The Pact is the culture; everything else is clan.
+There is no Nyáluba people in the way a foreigner means it. There are five nations that share a language, a faith and a pact, and that differ in dress, dialect, ritual, marriage custom and self-conception far enough that a [Ruwozi]{.name data-type="affiliation/polity"} cattle-herder and a [Kolembozi]{.name data-type="affiliation/polity"} reed-fisher are never taken for the same kind of person. What both would say at once is that they are heirs of the Long Pact (see [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]). The Pact is the culture; everything else is clan.
 
 ## The Pact, and What It Forbids
 
-Nine generations ago, under a great baobab in Ruwozi country, five mutually hostile clans agreed to stop being picked apart one at a time. The catastrophe that drove them to it has been polished smooth by retelling, though the Lobwezi griots hold that it was a militarist confederacy out of the central savannahs that took cattle, women and lives without distinction, and is now extinct.
+Nine generations ago, under a great baobab in Ruwozi country, five mutually hostile clans agreed to stop being picked apart one at a time. The catastrophe that drove them to it has been polished smooth by retelling, though the [Lobwezi]{.name data-type="affiliation/polity"} griots hold that it was a militarist confederacy out of the central savannahs that took cattle, women and lives without distinction, and is now extinct.
 
 The terms are deliberately few, and a Nyáluban child can recite them: the five clans will not raise arms against each other, and the old cattle-feuds are forsworn; the five will defend any one of the five; the five will share the great pasturelands, the rivers and the rains, each observing the others' ritual obligations to the spirits of those places; and the five will renew the Pact in person, every fourth dry season.
 
@@ -60,15 +60,15 @@ That is why the yes is worth carrying.
 
 ## Five Nations, One Grammar
 
-The **Ruwozi** are the lion-clan and the most numerous: cattle-herders of the central plains, first among the clans because the Pact was sworn in their country. Their paramount convenes the Great Lubemo and bears the duty of speaking last when consensus is sought. Men take a single lion-tooth at adulthood and women braid their lineage into their hair; their wealth is cattle, their watchword is courage, and their humor is as dry as the dry season.
+The Ruwozi are the lion-clan and the most numerous: cattle-herders of the central plains, first among the clans because the Pact was sworn in their country. Their paramount convenes the [Great Lubemo]{.name data-type="affiliation/governmental"} and bears the duty of speaking last when consensus is sought. Men take a single lion-tooth at adulthood and women braid their lineage into their hair; their wealth is cattle, their watchword is courage, and their humor is as dry as the dry season.
 
-The **Kolembozi** are the crocodile-clan, river-people of the eastern wetlands, and they hold the most elaborate shamanic tradition among the five. Their spirit-speakers are sought across the savannahs for judgment, healing and the negotiation of difficult spirits. A Kolembozi who loses a relative to a crocodile speaks of that crocodile by name and lineage, and regards the matter as a family affair.
+The Kolembozi are the crocodile-clan, river-people of the eastern wetlands, and they hold the most elaborate shamanic tradition among the five. Their spirit-speakers are sought across the savannahs for judgment, healing and the negotiation of difficult spirits. A Kolembozi who loses a relative to a crocodile speaks of that crocodile by name and lineage, and regards the matter as a family affair.
 
-The **Ngonzi** are the eagle-clan: highlanders, herders and goldsmiths, and the only clan that works stone. Their relationship to the Old Hetos of the lost stone-builders is lineal, intimate and largely opaque to everyone else, including the other four clans. Ngonzi gold is the only Nyáluban export reaching the northern civilizations in quantity.
+The [Ngonzi]{.name data-type="affiliation/polity"} are the eagle-clan: highlanders, herders and goldsmiths, and the only clan that works stone. Their relationship to the Old Hetos of the lost stone-builders is lineal, intimate and largely opaque to everyone else, including the other four clans. Ngonzi gold is the only Nyáluban export reaching the northern civilizations in quantity.
 
-The **Sengala** are the leopard-clan, the northern traders and intermediaries with the rainforest peoples—the most outward-looking, the most polyglot, and the most stratified, with a class of professional traders approaching a hereditary specialty. The other clans regard that arrangement with a mixture of admiration and unease.
+The [Sengala]{.name data-type="affiliation/polity"} are the leopard-clan, the northern traders and intermediaries with the rainforest peoples—the most outward-looking, the most polyglot, and the most stratified, with a class of professional traders approaching a hereditary specialty. The other clans regard that arrangement with a mixture of admiration and unease.
 
-The **Lobwezi** are the baobab-clan: settled cultivators of the perennial-water districts and keepers of the senior griot tradition. They are the smallest and the ritually most senior, because the official memory of the Pact and the genealogies of all five clans are carried by Lobwezi griots. Each town centers on an ancient baobab whose custodian is the town's senior griot, and Lobwezi manner is slow and deliberate: they speak last in any council, and what they say is generally remembered.
+The Lobwezi are the baobab-clan: settled cultivators of the perennial-water districts and keepers of the senior griot tradition. They are the smallest and the ritually most senior, because the official memory of the Pact and the genealogies of all five clans are carried by Lobwezi griots. Each town centers on an ancient baobab whose custodian is the town's senior griot, and Lobwezi manner is slow and deliberate: they speak last in any council, and what they say is generally remembered.
 
 ## Memory Is a Profession
 
@@ -86,19 +86,19 @@ The Nyáluba value most exactness of word, patience in council, courage that sho
 
 ## The Man Admired
 
-**Bonzimbe of the Lobwezi**, senior griot of the Long Pact, is the Nyáluba's admired elder. He is about seventy, blind, and carries the terms of the Pact, the genealogies of all five paramounts and the recorded judgments of twenty-three Lubemos. All five clans hold him the closest living thing to a neutral arbiter. He does not rule, command or lead, and none of the five would have him do any of it. He is the man who is asked.
+[Bonzimbe of the Lobwezi]{.name data-type="being/npc"}, senior griot of the Long Pact, is the Nyáluba's admired elder. He is about seventy, blind, and carries the terms of the Pact, the genealogies of all five paramounts and the recorded judgments of twenty-three Lubemos. All five clans hold him the closest living thing to a neutral arbiter. He does not rule, command or lead, and none of the five would have him do any of it. He is the man who is asked.
 
 The Nyáluba admire in him what their whole tradition rests on: that he remembers it right, for everyone, and adds nothing. A griot who embellishes has not told it better but wrong, and Bonzimbe's long refusal to do so is what lets five clans trust one record. His cost is the cost of the office. A man whose whole standing is exactness is not free to be wrong, and he is the neutral voice the clans turn to when a dispute will not settle.
 
 ## The Woman Admired
 
-**Lusheya nu Kolembozi**, senior spirit-speaker of the Kolembozi, is the Nyáluba's admired woman. She walked into an Old Heto at her initiation and walked out speaking the Stone Tongue, the speech the Ngonzi elders say belonged to the stone-builders and no living Nyáluban understands. The griots have entered the report in the record of the Lubemo, and the Ngonzi have confirmed it. She says nothing of what the tongue is for.
+[Lusheya nu Kolembozi]{.name data-type="being/npc"}, senior spirit-speaker of the Kolembozi, is the Nyáluba's admired woman. She walked into an Old Heto at her initiation and walked out speaking [The Stone Tongue]{.name data-type="skill/language"}, the speech the Ngonzi elders say belonged to the stone-builders and no living Nyáluban understands. The griots have entered the report in the record of the Lubemo, and the Ngonzi have confirmed it. She says nothing of what the tongue is for.
 
-The Nyáluba admire in her the same restraint the griots show with words, turned to the spirits: she stood at the border of the world the clans share with the dead, and she came back without claiming what she brought. Her admiration is not a lesser form of Bonzimbe's. He keeps what has been given, and she goes where the giving is hard. Nzobu Ruwozi, the sixth woman to bear the title Nyoli Ruwozi, convenes the Lubemo and holds the higher rank; Lusheya holds the harder office. Her cost is that she cannot say what she knows: the Ngonzi hold one answer on whose dead the builders were and the baobab griots another, and the record holds only that the two differ.
+The Nyáluba admire in her the same restraint the griots show with words, turned to the spirits: she stood at the border of the world the clans share with the dead, and she came back without claiming what she brought. Her admiration is not a lesser form of Bonzimbe's. He keeps what has been given, and she goes where the giving is hard. [Nzobu Ruwozi]{.name data-type="being/npc"}, the sixth woman to bear the title Nyoli Ruwozi, convenes the Lubemo and holds the higher rank; Lusheya holds the harder office. Her cost is that she cannot say what she knows: the Ngonzi hold one answer on whose dead the builders were and the baobab griots another, and the record holds only that the two differ.
 
 ## What the Five Keep
 
-A Nyáluban can name the objects and words that hold the Pact in place. **The terms of the Pact** are counted on one hand, five fingers for the five. **The memory-songs**, such as the song of the swearing under the baobab, hold what each clan's cult remembers of it. **The griot's record** is the genealogies, boundaries, standing pacts and the debts between kindreds, held in one memory and recited before people who already know the answer. **The standing pacts** with the guides are the unwritten bargains each clan holds with every guide whose ground or lineage overlaps its own. **The town baobab** is the shrine of the Lobwezi, and **Heto Lubemo**, the ancient enclosure the Ngonzi maintain, is the ground where the Pact is renewed. A Ruwozi man's lion-tooth and a Ruwozi woman's braids record, on the body, his adulthood and her lineage.
+A Nyáluban can name the objects and words that hold the Pact in place. **The terms of the Pact** are counted on one hand, five fingers for the five. **The memory-songs**, such as the song of the swearing under the baobab, hold what each clan's cult remembers of it. **The griot's record** is the genealogies, boundaries, standing pacts and the debts between kindreds, held in one memory and recited before people who already know the answer. **The standing pacts** with the guides are the unwritten bargains each clan holds with every guide whose ground or lineage overlaps its own. **The town baobab** is the shrine of the Lobwezi, and [[place-hetolubemo|Heto Lubemo]], the ancient enclosure the Ngonzi maintain, is the ground where the Pact is renewed. A Ruwozi man's lion-tooth and a Ruwozi woman's braids record, on the body, his adulthood and her lineage.
 
 ## Venerate, Appease, Ward
 
@@ -121,7 +121,7 @@ The year is told by the herd and the weather, and the occasions come with it. No
 - **The turning of the cattle-seasons** is when the herds move and the lion-guide is greeted. It is for beginning the season on the right footing.
 - **The cattle-circulations and the seasonal markets** are where cattle are lent, gifts are exchanged and every clan's totems are acknowledged together. They are for keeping the wealth moving and the five in company.
 - **The initiations** bring each cohort through together into a shared regimental name and age-set totem. A Ruwozi man takes his lion-tooth, and young women of the Ruwozi and Kolembozi enter the regiments. They are for making a person a member.
-- **The Great Lubemo** meets every fourth dry season at Heto Lubemo for about six weeks. Delegations camp outside the stone, the clans' decisions become commitments of the Pact, and the senior griots renew it before all. It is for the one thing the Pact requires.
+- The Great Lubemo meets every fourth dry season at Heto Lubemo for about six weeks. Delegations camp outside the stone, the clans' decisions become commitments of the Pact, and the senior griots renew it before all. It is for the one thing the Pact requires.
 
 ## What the Guides Give and Withdraw
 
@@ -149,7 +149,7 @@ Defense, disaster, deaths in senior lineages, ceremonial timing, market prices a
 
 ## What the Brightness Asks of an Ordinary Day
 
-The Nyáluba recognize no supreme god and would not accept that the Great Brightness, Shorinya Ndafo, is one. All spirits came from it and all return to it, and it receives nothing: no offering, no song, no shrine. Nothing the dead are owed goes to it. The dead who matter on an ordinary day are the ancestors, and they are guides: an ancestor attends the descendants of the clan that remembers his name. The afterlife is therefore a matter of being remembered right, and the person who forgets a name or lets a griot lose a line has lost a guide for the clan.
+The Nyáluba recognize no supreme god and would not accept that [[lore-shorinyadty|Shorinya Ndafo]], the Great Brightness, is one. All spirits came from it and all return to it, and it receives nothing: no offering, no song, no shrine. Nothing the dead are owed goes to it. The dead who matter on an ordinary day are the ancestors, and they are guides: an ancestor attends the descendants of the clan that remembers his name. The afterlife is therefore a matter of being remembered right, and the person who forgets a name or lets a griot lose a line has lost a guide for the clan.
 
 The Lobwezi and Ngonzi griots tell how the Brightness came differently, and neither telling is ruled true. In the first it was a root, patient and under everything, and each guide is a piece of it that took the shape of the ground it fell on. In the second it was a flight across the sky from the east, the guides are the sparks it shed over the highlands, and it returns at the end of all things by the road it left. Neither clan has ever brought the difference to the Great Lubemo.
 
@@ -226,4 +226,4 @@ The sin is the drought-war. Three generations ago famine pushed neighboring trib
 
 ## Glossary {#glossary}
 
-The full dictionary is in the [[skill-nyalbnlng#lexicon|Nyáluban Language note]].
+The full dictionary is in the [[skill-nyalbnlng#lexicon|Nyáluban Language]].

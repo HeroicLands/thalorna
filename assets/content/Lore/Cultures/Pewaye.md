@@ -18,17 +18,17 @@ data:
 # terran_analog: "The forest-margin peoples of the Congo basin, foragers and small gardeners who traded and married with the herders and farmers of the savanna. Carries over: small thorn-fenced gardens, borrowed metal and words, marriage across the margin, and a fierce sense of the forest as their own ground. Departs: no chiefs, a leader made by bringing gifts home from outside, and the dead set at the edge to guard it."
 ---
 
-The **Pewaye** are the edge-people, one of the four traditions of the [[lore-bikoclt|forest peoples]]. Their name is _pewa_, the edge where the forest ends, with the ending of one who dwells beside it. Outsiders think they are the forest people. The other forest peoples think they are hardly forest people at all.
+The **Pewaye** are the edge-people, one of the four traditions of the [[lore-bikoclt|Biko]]. Their name is _pewa_, the edge where the forest ends, with the ending of one who dwells beside it. Outsiders think they are the forest people. The other forest peoples think they are hardly forest people at all.
 
 ## Where They Live
 
-Pewaye tribes live along the margins of the [[place-cntrlrnfrsts|Central Rainforests]], where the forest breaks into grass. In the north their neighbours are [[lore-okharinclt|Okharin]] herders, who bring their cattle to the forest's edge in the dry season. In the south their neighbours are the Sengala of the [[affiliation-nylbtrblntn|Nyáluba]], the [[affiliation-nyalbleop|leopard-clan]] that trades north across the grass-and-tree belt.
+Pewaye tribes live along the margins of the [[place-cntrlrnfrsts|Central Rainforests]], where the forest breaks into grass. In the north their neighbours are [[lore-okharinclt|Okharin]] herders, who bring their cattle to the forest's edge in the dry season. In the south their neighbours are the [Sengala]{.name data-type="affiliation/polity"} of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], the leopard-clan (see [[affiliation-nyalbleop|Leopard Totem]]) that trades north across the grass-and-tree belt.
 
 ## How They Live
 
 The Pewaye forage and hunt the forest behind them, and each band keeps a small garden on the forest side of the edge, fenced with thorn and watched from a platform. Their camps stay put longer than any other tradition's, sometimes for a generation, because a band's place on the edge is its own and it does not leave it.
 
-They trade more than any other tradition, and with more kinds of people. Their _gbenindo_, the keepers of the trade-friendships, deal with herders and Sengala traders at the edge and carry the goods into the forest. They have iron spear-heads and knives that the deep tribes lack, glass beads, and cloth for the leader's back, and their Ekpelu carries outside words for the outside things: for iron, for cattle, for salt by the block.
+They trade more than any other tradition, and with more kinds of people. Their _gbenindo_, the keepers of the trade-friendships, deal with herders and Sengala traders at the edge and carry the goods into the forest. They have iron spear-heads and knives that the deep tribes lack, glass beads, and cloth for the leader's back, and their [[skill-ekpelulng|Ekpelu Language]] carries outside words for the outside things: for iron, for cattle, for salt by the block.
 
 ## What the Forest Is
 

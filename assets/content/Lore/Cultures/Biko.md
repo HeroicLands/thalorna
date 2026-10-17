@@ -18,7 +18,7 @@ data:
 # terran_analog: "The forest peoples of the Congo basin: Mbuti and BaAka foraging bands, riverine fishing villages, and the long exchange between forest foragers and their farming and trading neighbours. Carries over: mobile net-hunting bands, honey and the night song, hereditary trade partnerships, bark cloth and the forest as a parent. Departs: one shared tongue, four loose traditions instead of many languages, and no chiefdom or kingdom anywhere in the forest."
 ---
 
-The peoples of the [[place-cntrlrnfrsts|Central Rainforests]] have no name for themselves as a whole. A forest person is _biko_, one of the people, and anyone who speaks [[skill-ekpelulng|Ekpelu]] and lives by the forest's manners is biko too. Everyone else is _gbolo_, an outsider, and the word carries no insult: it says only that the forest does not know that person.
+The Biko peoples of the [[place-cntrlrnfrsts|Central Rainforests]] have no name for themselves as a whole. A forest person is _biko_, one of the people, and anyone who speaks [[skill-ekpelulng|Ekpelu Language]] and lives by the forest's manners is biko too. Everyone else is _gbolo_, an outsider, and the word carries no insult: it says only that the forest does not know that person.
 
 There are many tribes and every one is small. A band of a few families camps and eats at one fire, and a tribe is the few bands that follow one leader. Nothing joins the tribes but the tongue, the manners they share and the trails between them. Each tribe also belongs to one of four loose traditions, four ways of being a forest person, and the traditions are not peoples or polities: they have no borders, no meetings and no leaders, and a tribe holds to one because its parents did.
 
@@ -41,7 +41,7 @@ A standing is a state a person is in, never a title passed from parent to child.
 
 The _ndaro_, the tribe, is the largest thing in the forest. Two tribes may feast together, marry their young to each other, hunt one stretch of forest by agreement or feud for generations, and each of these is a thing that happened, not a body that lasts. No forest leader has ever spoken for more than one tribe.
 
-The tribe at the [[place-lpdkngcrt|Leopard King's Court]] is the one the forest points to when it means a tribe that has gone wrong. It is one tribe under a sorcerer-leader whom its neighbours fear, and the tribes around it carry gifts to him so that he leaves them alone. The gifts buy quiet, not rule: the tribes that bring them have their own leaders and owe him nothing else.
+The tribe at [[place-lpdkngcrt|The Leopard King's Court]] is the one the forest points to when it means a tribe that has gone wrong. It is one tribe under a sorcerer-leader whom its neighbours fear, and the tribes around it carry gifts to him so that he leaves them alone. The gifts buy quiet, not rule: the tribes that bring them have their own leaders and owe him nothing else.
 
 ## The Forest Is Alive
 
@@ -53,7 +53,7 @@ What the forest _is_ differs by tradition: a host, a parent, a household of spir
 
 No forest person trades with a stranger. All trade between the forest and the outside world passes through a _gbeni_, a trade-friendship that binds one forest family to one outside family and passes from one generation to the next. The forest partner is the _gbenindo_, the keeper of the friendship, and only a gbenindo may take an outsider's goods into the forest or carry the forest's goods out.
 
-The forest sends out hardwood, ivory, hides, dyes and the plants that heal or intoxicate. It takes in metal, glass, salt and cloth. On the northern rivers the gbenindo deal with the river-posts of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] and with [[lore-okharinclt|Okharin]] river-factors and herders; on the southern margin they deal with the Sengala of the [[affiliation-nylbtrblntn|Nyáluba]], the [[affiliation-nyalbleop|leopard-clan]] that trades north. A merchant who goes past the gbenindo to deal with a deeper tribe finds the trade stopped, the trail lost, or the fever waiting.
+The forest sends out hardwood, ivory, hides, dyes and the plants that heal or intoxicate. It takes in metal, glass, salt and cloth. On the northern rivers the gbenindo deal with the river-posts of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] and with [[lore-okharinclt|Okharin]] river-factors and herders; on the southern margin they deal with the [Sengala]{.name data-type="affiliation/polity"} of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], the leopard-clan (see [[affiliation-nyalbleop|Leopard Totem]]) that trades north. A merchant who goes past the gbenindo to deal with a deeper tribe finds the trade stopped, the trail lost, or the fever waiting.
 
 ## The Four Traditions
 
@@ -64,7 +64,7 @@ The forest sends out hardwood, ivory, hides, dyes and the plants that heal or in
 | [[lore-kubindoclt\|Kubindo]] | scattered, each tribe at one spirit-place | a household of spirits, each with its own manners  |
 | [[lore-pewayeclt\|Pewaye]]   | the forest margins, north and south       | a boundary: inside is the people's, outside is not |
 
-The four names are the common tongue's, built from what each tradition keeps or lives beside: the _luwando_ keep the river, the _yesoma_ are children of the forest, the _kubindo_ keep a spirit-court, and the _pewaye_ dwell at the edge. Most of the forest's people are yesoma. The luwando and the pewaye keep small gardens and the others keep none, and every tradition lives first by hunting, fishing and gathering.
+The four names are the common tongue's, built from what each tradition keeps or lives beside: the _[[lore-luwandoclt|Luwando]]_ keep the river, the _[[lore-yesomaclt|Yesoma]]_ are children of the forest, the _[[lore-kubindoclt|Kubindo]]_ keep a spirit-court, and the _[[lore-pewayeclt|Pewaye]]_ dwell at the edge. Most of the forest's people are yesoma. The luwando and the pewaye keep small gardens and the others keep none, and every tradition lives first by hunting, fishing and gathering.
 
 ## What an Outsider Sees and Cannot See
 

@@ -49,7 +49,7 @@ data:
 # terran_analog: "The horse-and-camel nomads of the Eurasian steppe, in the broadest sense: herding tribes on seasonal circuits between owned water, hospitality sworn on salt, a sky-religion with shamans, and the periodic conqueror who binds the tribes by force for the length of one lifetime. Carries over: tribal independence, caravan tolls paid tribe by tribe, the dead laid out under open sky. Departs: no union outlives its founder, and no tribe keeps a successor in waiting."
 ---
 
-The Sovidur call themselves "the riders," and the rest of the world calls them the Khazryn, a name they do not use for themselves, because it belongs to the desert and not to any of the peoples who cross it. They are the herding tribes of the steppe and the dry grass between the sands, and the single fact that decides how you deal with them is that each tribe answers to nobody above its own chief. There is no king of the steppe, no council of tribes and no body that can promise on a tribe's behalf. A tribe's word binds that tribe, and a treaty with one is a treaty with one.
+The Sovidur call themselves "the riders," and the rest of the world calls them the Khazryn, after the [[place-khzryndsrtrgn|Khazryn Desert Region]], a name they do not use for themselves, because it belongs to the desert and not to any of the peoples who cross it. They are the herding tribes of the steppe and the dry grass between the sands, and the single fact that decides how you deal with them is that each tribe answers to nobody above its own chief. There is no king of the steppe, no council of tribes and no body that can promise on a tribe's behalf. A tribe's word binds that tribe, and a treaty with one is a treaty with one.
 
 ## The Tribe and the Dovaq
 
@@ -73,7 +73,7 @@ A stranger without a sponsor is fair game, and everything the tribes do toward t
 
 The price is set tribe by tribe and changes with the season, the size of the caravan, the dovaq's mood and the state of the tribe's feuds. A caravan master's real asset is the list of agreements he carries in his head: which dovaq, which wells, what price last year, and which tribe is at war with which this season. The Sovidur keep no written ledger, and a bargain is witnessed aloud before the elders of both parties and held in their memory. A master who cheats a tribe is not pursued by an army; he finds, three tribes along, that nobody will sell him a guide.
 
-Once a stranger has eaten at a dovaq's fire, he is a guest. The Sovidur hold the guest-right as hard as the Dunhari hold salt: the tribe protects him against its own kin and against a rival, at the price of a feud if need be, until he has passed beyond the last well of its country. A tribe that gave up a guest would sell nothing to anyone for a generation, and most of its income is selling.
+Once a stranger has eaten at a dovaq's fire, he is a guest. The Sovidur hold the guest-right as hard as the [[lore-dunhariclt|Dunhari]] hold salt: the tribe protects him against its own kin and against a rival, at the price of a feud if need be, until he has passed beyond the last well of its country. A tribe that gave up a guest would sell nothing to anyone for a generation, and most of its income is selling.
 
 ## Raiding and the Feud
 
@@ -83,7 +83,7 @@ Raiding is how a young rider earns a place and how a poor tribe lives through a 
 
 ## The Orkun
 
-Now and then a leader of exceptional force rises among the tribes, a man or a woman, and forces a number of them together under a personal dictatorship. The title is orkun, and the union is an orkunoq. Three of them are remembered across the steppe as great, and the most famous of those is the [[lore-hndrdbnnrs|Storm of the Hundred Banners]]. Nobody on the steppe calls an orkun's rise a good thing.
+Now and then a leader of exceptional force rises among the tribes, a man or a woman, and forces a number of them together under a personal dictatorship. The title is orkun, and the union is an orkunoq. Three of them are remembered across the steppe as great, and the most famous of those is [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]. Nobody on the steppe calls an orkun's rise a good thing.
 
 An orkun is made by force. He rides to a tribe's wells and offers its dovaq the choice of swearing under open sky or watching the wells fouled; the dovaq who swears keeps the tribe and loses the right to refuse a muster, and the dovaq who refuses is replaced by a cousin who will swear. Within a few years a hundred banners follow him, fed by the herds of the tribes he has conquered and the plunder of the settled lands. The union exists because he lives. It has no council, no heir and no law beyond his word.
 
@@ -91,11 +91,11 @@ When the orkun dies, the union breaks within a season. The dovaq who swore are f
 
 ## Faith
 
-The Sovidur honor the twelve gods of the [[affiliation-ashanpnthn|Ashaian Pantheon]] loosely, laid over older cults of a sky-father and an earth-mother, and served by shamans. Two of the twelve matter to them above the rest: [[affiliation-bahramis|Báhramis]], the storm and the protector, and [[affiliation-korsadra|Khórsadra]], the eternal sky-light. Both fit a people whose supreme presence is the sky and whose gods arrive as weather.
+The Sovidur honor the twelve gods of the [[affiliation-ashanpnthn|Ashaian Pantheon]] loosely, laid over older cults of a sky-father and an earth-mother, and served by shamans. Two of the twelve matter to them above the rest: [[lore-bahramisdty|Báhramis]], the storm and the protector, and [[lore-khorsadradty|Khórsadra]], the eternal sky-light. Both fit a people whose supreme presence is the sky and whose gods arrive as weather.
 
 The year's rites follow the herds. A dovaq is invested under open sky, with the elders standing and no roof overhead, and a treaty is sworn before lightning when the weather allows, because an oath so sworn is heard by the god who would punish its breaking. The dead are carried to the laying-out ground (_yeloz_) and left to the four winds; a grave is dug only for the one who was killed unavenged, so that he stays where his kin can find him.
 
-A shaman keeps the rites, reads the weather, heals, and speaks with the sky. The [[affiliation-strmcltsbhrms|Storm Cults of Báhramis]] in Dunhara call the steppe tradition a corrupt variant of the true faith and denounce steppe shamans who preach there. A shaman who crosses the border answers to his dovaq first, and the cults' denunciation reaches his tribe as a message it may choose to ignore.
+A shaman keeps the rites, reads the weather, heals, and speaks with the sky. [[affiliation-strmcltsbhrms|The Storm Cults of Báhramis]] in the [[place-dunharargn|Dunhara Region]] call the steppe tradition a corrupt variant of the true faith and denounce steppe shamans who preach there. A shaman who crosses the border answers to his dovaq first, and the cults' denunciation reaches his tribe as a message it may choose to ignore.
 
 ## What the Sovidur Get Wrong
 
@@ -138,4 +138,4 @@ Nothing is owed to a tribe that is not your own, to a stranger without a sponsor
 
 ## Glossary {#glossary}
 
-Tenyut is a loanword from [[lore-khazrynclt#glossary|the Tellumi]].
+Tenyut is a loanword from [[lore-khazrynclt#glossary|Tellumi]].

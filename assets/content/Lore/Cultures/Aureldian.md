@@ -24,7 +24,7 @@ data:
     height: {female: {min: 5' 1", max: 6' 1"}, male: {min: 5' 5", max: 6' 5"}}
 ---
 
-The Aureldian culture is a civilization several peoples hold in common, not a people of its own. The Vylarians, Élavendri, Kalipsans, Aelwythans, Tarvenans and Provenzians each keep their own culture, language, practices and books; what they share is a pantheon of twelve gods, the faiths that serve those gods, and the sworn orders that grew out of two of them. This note is about that common ground. Everything particular to one people belongs to that people's own culture.
+The Aureldian Culture is a civilization several peoples hold in common, not a people of its own. The [[lore-vylarianclt|Vylarian]], [[lore-elavendriclt|Élavendri]], [Kalipsan]{.name data-type="lore/culture"}, [[lore-aelwythanclt|Aelwythan]], [[lore-tarvenanclt|Tarvenan]] and [[lore-provenzianclt|Provenzian]] peoples each keep their own culture, language, practices and books; what they share is a pantheon of twelve gods, the faiths that serve those gods, and the sworn orders that grew out of two of them. This note is about that common ground. Everything particular to one people belongs to that people's own culture.
 
 ## The Twelve
 
@@ -51,13 +51,13 @@ Each god has a lore note of its own: [[lore-zunelasdty|Zunelas]], [[lore-selmoro
 
 The Aureldian faiths are twelve separate priesthoods, not one church. They follow a common pattern: acolytes in training, a body of ordained clergy, and a high priest above them, styled by the god's own domain: the Volsarnor of law, the Bravsarnor of storms, the Mentara of wisdom or the Nirvena of dreams. The lay faithful of any of the Twelve keep the feasts and observances without office. A high priest's authority does not extend beyond his own faith, and the larger faiths seat a senior college between clergy and apex.
 
-Two faiths depart from the pattern. The faith of Karnavos is deliberately decentralized and anarchic: it has no high priest and no hierarchy to rise through, only the Circle of the Threshold, a loose and shifting fellowship that anyone may claim to belong to and no one may speak for. The faiths of Ústaron are divided by schism.
+Two faiths depart from the pattern. The [[affiliation-karnavos|Faith of Karnavos]] is deliberately decentralized and anarchic: it has no high priest and no hierarchy to rise through, only the [Circle of the Threshold]{.name data-type="affiliation/fellowship"}, a loose and shifting fellowship that anyone may claim to belong to and no one may speak for. The faiths of Ústaron are divided by schism.
 
 ### The Faith of Árdavon
 
-The [[affiliation-ardavon|Faith of Árdavon]] is the religion of the nobility in much of western Ankaris, because its doctrines underpin the feudal order: oaths of fealty, codes of knightly conduct, the laws of war and the sanctity of contracts all fall under the god's purview. To break a sworn oath is to offend Árdavon directly. His temples serve as courts of law and his priests as judges and mediators. Its priesthood is the most politically influential of any Aureldian faith, second only to the Sacred Forge in institutional wealth and territorial control, and its high priest, the Volsarnor, sits in Provenzia.
+The [[affiliation-ardavon|Faith of Árdavon]] is the religion of the nobility in much of western Ankaris, because its doctrines underpin the feudal order: oaths of fealty, codes of knightly conduct, the laws of war and the sanctity of contracts all fall under the god's purview. To break a sworn oath is to offend Árdavon directly. His temples serve as courts of law and his priests as judges and mediators. Its priesthood is the most politically influential of any Aureldian faith, second only to [[affiliation-sacredforge|The Sacred Forge]] in institutional wealth and territorial control, and its high priest, the Volsarnor, sits in the [[place-provenzrgn|Provenzia Region]].
 
-The year turns on the Feast of Thresholds, four days of oath-taking and covenant renewal in which lords and vassals reaffirm fealty, merchants renew contracts and spouses renew their vows. Priests witness and record each oath, and the record gives it divine force.
+The year turns on the [Feast of Thresholds]{.name data-type="lore/gathering"}, four days of oath-taking and covenant renewal in which lords and vassals reaffirm fealty, merchants renew contracts and spouses renew their vows. Priests witness and record each oath, and the record gives it what the faith regards as divine force.
 
 ### The Ústaran Schism
 
@@ -67,7 +67,7 @@ The year turns on the Feast of Thresholds, four days of oath-taking and covenant
 : craftsmanship, transformation, illumination and protection. Its temples are built around forges whose fires burn continuously, and letting one die is a catastrophe. It is the mainstream Ústaran faith in most of western Ankaris and is politically favored in Provenzia. Its Hamsarnor is checked by a council of senior Hammer-Priests.
 
 [[affiliation-blackflame|The Black Flame]] honors the destructive aspect
-: fire as purifier, weapon and instrument of domination, and the rule of the strong. It is suppressed in most kingdoms and condemned by both the Sacred Forge and the Faith of Árdavon, and it operates through secretive orders and hidden shrines. The Empire of Vylaria is the exception: it has never formally proscribed the faith, which maintains temples and ordains clergy openly there.
+: fire as purifier, weapon and instrument of domination, and the rule of the strong. It is suppressed in most kingdoms and condemned by both the Sacred Forge and the Faith of Árdavon, and it operates through secretive orders and hidden shrines. The [[affiliation-vylarinmpr|Vylarian Empire]] is the exception: it has never formally proscribed the faith, which maintains temples and ordains clergy openly there.
 
 ### The Other Faiths
 
@@ -77,9 +77,9 @@ The remaining faiths each serve one god and keep the same pattern of acolytes, c
 
 Two of the faiths field knightly orders that carry their doctrine where the civil power does not reach. Each order is sworn to its patron, and each keeps chapter houses and a mother-house.
 
-**Orders of Árdavon.** The [[affiliation-ordrsldwrd|Order of the Sealed Word]] enforces binding oaths and contracts when the civil courts cannot compel the oath-breaker. Its sworn brothers hear the matter and, if the breach is established, compel a remedy by trial-by-combat where required and by force where necessary. It does not displace the civil law; it answers where the law has failed. It keeps chapter houses in each of the five Aureldian kingdoms, with its mother-house at [[place-olvestria|Ólvestra]] in Tarvénia. The [[affiliation-twinbldrdr|Twinblade Order]] guards thresholds: city gates, contested borders, treaty lines and sacred boundaries. Its members are the ritual presence that confers on a gate or boundary the recognition of a binding limit, and their mother-house stands at the Twin Gate of Ólvestra.
+**Orders of Árdavon.** [[affiliation-ordrsldwrd|The Order of the Sealed Word]] enforces binding oaths and contracts when the civil courts cannot compel the oath-breaker. Its sworn brothers hear the matter and, if the breach is established, compel a remedy by trial-by-combat where required and by force where necessary. It does not displace the civil law; it answers where the law has failed. It keeps chapter houses in each of the five Aureldian kingdoms, with its mother-house at [[place-olvestria|Ólvestra]] in the [[place-tarvenirgn|Tarvénia Region]]. [[affiliation-twinbldrdr|The Twinblade Order]] guards thresholds: city gates, contested borders, treaty lines and sacred boundaries. Its members are the ritual presence that confers on a gate or boundary the recognition of a binding limit, and their mother-house stands at the [Twin Gate of Ólvestra]{.name data-type="place/structure"}.
 
-**Orders of the Black Flame.** The [[affiliation-ordershnvw|Order of the Ashen Vow]] is the largest organized fighting body of the Black Flame, sworn to purifying fire. Its doctrinal priority is corruption within the Sacred Forge, then foreign heresies, then anyone judged beyond redemption. The [[affiliation-ironcinder|Iron Cinder]] is the faith's covert arm: small, secretive, without fixed bases, and deployed when the heresy needs results without trial, debate or witnesses. The [[affiliation-sonsmuspell|Sons of Eldheim]] are a military band of the Black Flame established in Stormveld on Aelwyth, campaigning to take Varokhi land in Vristwald as a way into the Nordlands.
+**Orders of the Black Flame.** [[affiliation-ordershnvw|The Order of the Ashen Vow]] is the largest organized fighting body of the Black Flame, sworn to purifying fire. Its doctrinal priority is corruption within the Sacred Forge, then foreign heresies, then anyone judged beyond redemption. [[affiliation-ironcinder|The Iron Cinder]] is the faith's covert arm: small, secretive, without fixed bases, and deployed when the heresy needs results without trial, debate or witnesses. [[affiliation-sonsmuspell|The Sons of Eldheim]] are a military band of the Black Flame established in the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] on [[place-aelwyth|Aelwyth]], campaigning to take [[lore-varokhiclt|Varokhi]] land in [[place-vrystwald|Vristwald]] as a way into the [[place-nrdlndsrgn|Nordlands Region]].
 
 ## The Peoples Who Share It
 
@@ -89,13 +89,13 @@ Six peoples share the Aureldian culture. Each is a culture in its own right, and
 : the people of the Empire of Vylaria.
 
 [[lore-elavendriclt|Élavendri]]
-: the people of Élavendre.
+: the people of [[place-elavendre|Élavendre]].
 
 Kalipsan
 : the people of [[affiliation-calypsa|Kalipsa]], a free port city on a small island off Élavendre's northern coast. They have no culture note of their own.
 
 [[lore-aelwythanclt|Aelwythan]]
-: the people of the island of Aelwyth. They are one people in three realms, [[place-aldorathrgn|Aldorath]], [[affiliation-kingdmdnvr|Dúnavarre]] and [[place-ondareth|Ondareth]], who share essentially one culture and are governed differently: Aldorath is a [[affiliation-kngdmldrth|feudal monarchy]] advised by a council of barons, Dúnavarre is ruled directly by a synod of Thordimalon (the Arcane Order) mages, and Ondareth is a [[affiliation-repblcndrth|senatorial republic]]. The realms share no political order.
+: the people of the island of Aelwyth. They are one people in three realms, the [[affiliation-kngdmldrth|Kingdom of Aldorath]], the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] and the [[affiliation-repblcndrth|Republic of Ondareth]], who share essentially one culture and are governed differently: Aldorath is a feudal monarchy advised by a council of barons, Dúnavarre is ruled directly by the [[affiliation-dunavarsynod|Dúnavarre Synod]] of [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) mages, and Ondareth is a senatorial republic. The realms share no political order.
 
 [[lore-tarvenanclt|Tarvenan]]
 : the people of Tarvénia.

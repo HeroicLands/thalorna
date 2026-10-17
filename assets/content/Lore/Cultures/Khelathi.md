@@ -61,13 +61,13 @@ data:
 # terran_analog: "Egypt and Sudan (Nile valley civilization): a river-set year, a scribal and archival culture, titles that precede the personal name, weighing and burial customs for the dead. Appearance, dress and naming follow an Egyptian palette. Departs: twelve canonical gods with some forty local patron gods, magic taught as a learned profession by the Khelunu Lekhau, and ledgers of written and unwritten obligation at the center of ethics."
 ---
 
-The **Khelathi** hold that theirs is the oldest civilization in the world, and the temple king-lists count 2,830 years back to the first [[lore-garauu|Gar-Au]] in unbroken sequence. Three facts shape a life in the valley: the river comes and goes on a schedule a farmer can name to the day, the house holds the land and answers at law for everyone attached to it, and the heart is weighed at the end before a court no one has ever bribed.
+The **Khelathi** hold that theirs is the oldest civilization in the world, and the temple king-lists count 2,830 years back to the first [[lore-garauu|Gar-Auu]] in unbroken sequence. Three facts shape a life in the valley: the river comes and goes on a schedule a farmer can name to the day, the house holds the land and answers at law for everyone attached to it, and the heart is weighed at the end before a court no one has ever bribed.
 
 ## The River Sets the Year
 
 The year runs in three seasons of four months each, and each is named for what the water is doing. [[lore-azletssn|Azlet]] is the inundation, when the fields lie drowned and the labor goes to the temples and the works; [[lore-geletssn|Gelet]] is the emergence, when men plant the black silt the flood has left; [[lore-sheluessn|Shelu]] is the harvest. Every month carries thirty days, with five intercalary days at the end belonging to no month at all.
 
-A farmer reckons his obligations by that cycle and by nothing else. Tax rolls and contracts carry the regnal year of the reigning Gar-Au, while temple chronicles count from the [[lore-qettelgu|Qet Telgu]]—the [[lore-firstoccasion|First Occasion]], when the gods established the order of civilization—and both figures are supplied by the priesthood of [[lore-rethsaardty|Reth'Sa'ar]], which few Khelathi think to question.
+A farmer reckons his obligations by that cycle and by nothing else. Tax rolls and contracts carry the regnal year of the reigning Gar-Au, while temple chronicles count from [[lore-qettelgu|The Qet Telgu]]—[[lore-firstoccasion|The First Occasion]], when, according to those chronicles, the gods established the order of civilization—and both figures are supplied by the priesthood of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]], which few Khelathi think to question.
 
 The flood erases every boundary stone in the valley once a year, so surveyors walk the fields again each spring, village by village, re-establishing lines that were settled the spring before. Khelathi geometry grew out of that annual chore and is now the best in the world.
 
@@ -91,13 +91,13 @@ Military service raises a family over two or three generations, and commercial s
 
 Two ranks stand above the rest. The Gar-Au is the divine sovereign, and the _Iru'palu_ stands immediately below him, reserved to the royal family and a handful of exalted houses. Below them every free person is a _Zabu_, a noble born or married into a titled house, or a _Zelar_, a commoner of no house. The titles of the court and the land are offices that a Zabu holds. A Halzi'a governs a selat, commanding its levies, collecting its taxes and dispensing its justice. A _Legha'lutu_ or a _Zabet'lutu_—master and mistress of the estate—holds a manor, its lands and its attached village. A _Zabet_ is a woman of rank at court, and a _Zemelu_ is a companion of the Gar-Au, which indicates favor and access, not territory.
 
-In address the title precedes the personal name in every case: Halzi'a **Lersais**, _Zabet'lutu_ **Thaminra**, _Zemelu_ **Kuztar**. The western practice of placing a title after the family name strikes the Khelathi as charmingly backward, and they say so.
+In address the title precedes the personal name in every case: Halzi'a [[being-lersaissaaqt|Lersais Sa'Akutu]], _Zabet'lutu_ [Thaminra]{.name data-type="being/npc"}, _Zemelu_ [Kuztar]{.name data-type="being/npc"}. The western practice of placing a title after the family name strikes the Khelathi as charmingly backward, and they say so.
 
 ## What a Woman May Do
 
-Khelathi women hold a legal standing considerably wider than western **Ankaris** allows: they own property in their own names, initiate divorce, plead in the Genzet (court), practice medicine and magic, conduct business without a husband's leave, and hold priestly office up to and including the highest. Several of the most capable rulers in the empire's history have been queens governing as Gar-Au in their own right.
+Khelathi women hold a legal standing considerably wider than the western part of the [[place-ankrscntnnt|Ankaris Continent]] allows: they own property in their own names, initiate divorce, plead in the Genzet (court), practice medicine and magic, conduct business without a husband's leave, and hold priestly office up to and including the highest. Several of the most capable rulers in the empire's history have been queens governing as Gar-Au in their own right.
 
-The doctrine underneath it belongs to [[lore-uzneradty|Uzn'era]], whose faith holds that creation requires the balanced partnership of a masculine and a feminine divine principle. A civilization committed to that teaching cannot coherently treat a wife as property, and the Khelathi have not tried. Their women find western marriage barbaric, and are markedly less diplomatic about saying so than their husbands.
+The doctrine underneath it belongs to the [[affiliation-uznera|Faith of Uzn'era]], which holds that creation requires the balanced partnership of a masculine and a feminine divine principle. A civilization committed to that teaching cannot coherently treat a wife as property, and the Khelathi have not tried. Their women find western marriage barbaric, and are markedly less diplomatic about saying so than their husbands.
 
 ## The House and the Name
 
@@ -107,7 +107,7 @@ The distinction is legal, not decorative. A house name asserts a claim—to land
 
 Names are sacred utterances and a priest bestows them. A second name, known to the bearer and the priesthood alone, is held to confer protection, and striking a name from the records is the heaviest sentence short of death—every temple and every selat keeps the rank of Name Struck for exactly that purpose.
 
-A long given name also has a shorter one, and you should wait to be offered it. The near name is the given name broken off after its second vowel, the voice holding that vowel where the rest would be, so the high priest [[being-anlagherhafu|Anlagherhafu]] is Anla to his own household. It belongs to the people a tie already binds—kin, the household, neighbors, the master an apprentice lives beside—who are exactly the people whose promises to one another go unwritten, and it goes unwritten too: neither hand can carry a word that stops short, so no tablet holds a near name and no [[lore-readingweigh|Reading]] speaks one. A stranger who uses it is claiming a tie he does not have. Until you are given it, say the whole name, and after a title always the whole name—Thaz'Lekhau Anlagherhafu, never Thaz'Lekhau Anla.
+A long given name also has a shorter one, and you should wait to be offered it. The near name is the given name broken off after its second vowel, the voice holding that vowel where the rest would be, so the high priest [[being-anlagherhafu|Anlagherhafu]] is Anla to his own household. It belongs to the people a tie already binds—kin, the household, neighbors, the master an apprentice lives beside—who are exactly the people whose promises to one another go unwritten, and it goes unwritten too: neither hand can carry a word that stops short, so no tablet holds a near name and [[lore-readingweigh|The Reading at the Weighing]] never speaks one. A stranger who uses it is claiming a tie he does not have. Until you are given it, say the whole name, and after a title always the whole name—Thaz'Lekhau Anlagherhafu, never Thaz'Lekhau Anla.
 
 ## Two Ledgers
 
@@ -143,7 +143,7 @@ An obligation unmet follows a person whether a temple wrote it or not. What the 
 
 ## The Weighing
 
-The deceased stands before the assembled gods and both of his accounts are opened. The temple account is read as it stands—every entry a scribe took, closed or short—and against it the gods set the account they kept themselves, which no witness attended and no tablet holds. A man who goes in short on either is taken by **Algit**, the **Devourer of the Dead**; a man whose entries close passes onward into the blessed [[place-zulaten|Zulaten]].
+In Khelathi teaching, the deceased stands before the assembled gods and both of his accounts are opened. The temple account is read as it stands—every entry a scribe took, closed or short—and against it the gods set the account they kept themselves, which no witness attended and no tablet holds. A man who goes in short on either is taken by [Algit, the Devourer of the Dead]{.name data-type="being/creature"}; a man whose entries close passes onward into the blessed [[place-zulaten|Zulaten]].
 
 That both are opened is the whole of the doctrine. A written obligation can be closed late, bought out, assumed by an heir; the unwritten one can only be met, and a man cannot know in advance how it stands, which is why he spends his last years asking rather than paying.
 
@@ -260,7 +260,7 @@ None of it is generous and all of it works. A Khelathi does not starve for being
 
 ## The Burial
 
-Death and burial in [[affiliation-empireakhlth|Au'Khelathu]] is a graded industry: the rich take months of preparation, the prosperous weeks, and the poor must scrape by for the best they can. The first grade runs seventy days and uses natron, costly resins, fine linen and an amulet at every joint; the second is a shorter course with cheaper oils; the third is a wash, a wrapping and a prayer.
+Death and burial in the [[affiliation-empireakhlth|Empire of Au'Khelathu]] is a graded industry: the rich take months of preparation, the prosperous weeks, and the poor must scrape by for the best they can. The first grade runs seventy days and uses natron, costly resins, fine linen and an amulet at every joint; the second is a shorter course with cheaper oils; the third is a wash, a wrapping and a prayer.
 
 Tombs grade the same way. The Gar-Auu and their kin lie in the rock-cut Ways of the royal necropolis, the great nobles raise mastabas in the cemeteries that flank them, and the scribes and merchants buy niches in shared galleries further out. The poor go into pit-graves in the open desert—which, being hot and dry, mummifies a pauper for free, and often better than a cheap embalming would.
 
@@ -317,4 +317,4 @@ Above all of it he owes a true heart at the weighing—and he owes it whether or
 
 ## Glossary {#glossary}
 
-The full dictionary is in the [[skill-khelathlng|Khelathi Language note]].
+The full dictionary is in the [[skill-khelathlng|Khelathi Language]].

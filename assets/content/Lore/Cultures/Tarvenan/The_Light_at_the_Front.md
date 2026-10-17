@@ -23,7 +23,7 @@ data:
 
 **The Light at the Front** is told in the valleys above [[place-kavrenath|Kávrenath]] on the night the dead walk, when every house sets a lantern for the dead, an _ezkobe_, on its threshold, and the procession, the _gatsera_, goes by on the dead roads. It is told after the lanterns are lit and before the house goes to bed, by whoever in the house has been longest under contract, and it is not told on any other night.
 
-The tale belongs to the crossbow companies of the valleys. It is the tale of a man of one of them who came home late from a contract across the sea with the pay of eleven dead men in his pack, and of his companion **Kotsude**, the Chough, who was one of the eleven. The crossbowman is never named in it. The valleys hold that he asked not to be, and the tale keeps the contract. It is told with the eleven doors as the teller pleases, all eleven by a patient teller and three or four by a tired one, and always with the last.
+The tale belongs to the crossbow companies of the valleys. It is the tale of a man of one of them who came home late from a contract across the sea with the pay of eleven dead men in his pack, and of his companion [Kotsude]{.name data-type="being/npc"}, the Chough, who was one of the eleven. The crossbowman is never named in it. The valleys hold that he asked not to be, and the tale keeps the contract. It is told with the eleven doors as the teller pleases, all eleven by a patient teller and three or four by a tired one, and always with the last.
 
 : The Light at the Front {#tale}
 
@@ -77,7 +77,7 @@ He took it. Kotsude was his companion, and his brother, and Kotsude held it out.
 
 He stepped out of the bracken onto the road and put his hands on the pole above Kotsude's hands, and the pole was cold, colder than iron in winter, so cold that his hands stuck to it, and Kotsude let go. And Kotsude stepped back into the line, beside the place where he'd walked on the march, and the crossbowman was at the front with the light, and he started walking, because the line behind him was walking, and he couldn't stop.
 
-**The first door.** The road goes past every house. The first house below the pass was the house of a man the company called **Kanarrek**, the Ram, one of the eleven, a big man, slow, the best shot in the company.
+**The first door.** The road goes past every house. The first house below the pass was the house of a man the company called [Kanarrek]{.name data-type="being/npc"}, the Ram, one of the eleven, a big man, slow, the best shot in the company.
 
 The lantern was on the threshold. Every house sets one. The line came down the road to the lantern, and the old ones of the valley walked past it, the way they do, past the light and on, and then Kanarrek came to it, and he stopped. He stood on the road outside his own door and looked at the lantern and didn't go by.
 

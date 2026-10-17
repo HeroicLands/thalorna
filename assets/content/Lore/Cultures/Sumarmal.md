@@ -13,7 +13,7 @@ Somarmál is the seasonal blet of return, kept at the beginning of summer, rough
 
 ## The Offerings
 
-[[lore-frodvindty|Frodvin]] is prominent at Somarmál. [[lore-thrunvalddty|Thrunvald]] is invoked for seafaring, and among the coastal peoples who keep the older names, [[miscgear-hornnjordur|Hafvald]] is prominent too. What the household asks is a good growing year and a good sailing year.
+[[lore-frodvindty|Frodvin]] is prominent at Somarmál. [[lore-thrunvalddty|Thrunvald]] is invoked for seafaring, and among the coastal peoples who keep the older names, [Hafvald]{.name data-type="lore"} (see [[miscgear-hornnjordur|The Horn of Hafvald]]) is prominent too. What the household asks is a good growing year and a good sailing year.
 
 ## Tings and Oaths
 

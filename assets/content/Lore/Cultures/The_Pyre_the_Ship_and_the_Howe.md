@@ -7,7 +7,7 @@ description: "How the Nordmen bury their dead—the pyre, the ship-burial and th
 tags: [asguardian, draft]
 ---
 
-"You will see a hall cut a hole in its own wall this week," a gudja of [[lore-solrundty|Solrún]] tells a newcomer who has come north in the season of a jarl's death, "and you will want to ask why. Ask me, not the widow." A death in a [[place-nrdlndsrgn|Nordlands]] hall starts a sequence of work that runs for seven nights and ends with a cup, and every part of it answers one of two questions: where the dead are going, and what they leave behind.
+"You will see a hall cut a hole in its own wall this week," a gudja of the [[affiliation-solrun|Faith of Solrún]] tells a newcomer who has come north in the season of a jarl's death, "and you will want to ask why. Ask me, not the widow." A death in a hall of the [[place-nrdlndsrgn|Nordlands Region]] starts a sequence of work that runs for seven nights and ends with a cup, and every part of it answers one of two questions: where the dead are going, and what they leave behind.
 
 ## The First Night
 
@@ -27,7 +27,7 @@ The _skipsdulm_ (ship-burial) belongs to those whose life was a ship or a hall t
 
 ## The Howe
 
-The _hrum_ (howe) is the barrow raised over a grave, and it is a claim as well as a grave. A line that holds _odel_ (inherited land) proves it at the ting by its howes: the mounds of the people who held the ground before, standing on it. A howe is therefore raised over anyone who held land and over most who held standing, whether what lies under it is a pot of ash or a whole ship. Taking anything from a howe is theft from the dead and the line together, and travelers leave grave-goods where they lie. Some howes hold worse than bones: the [[lore-haugverdir|hrúmverdir]], the howe-wardens, are the reason a stranger asks the local custodians before going near one.
+The _hrum_ (howe) is the barrow raised over a grave, and it is a claim as well as a grave. A line that holds _odel_ (inherited land) proves it at the ting by its howes: the mounds of the people who held the ground before, standing on it. A howe is therefore raised over anyone who held land and over most who held standing, whether what lies under it is a pot of ash or a whole ship. Taking anything from a howe is theft from the dead and the line together, and travelers leave grave-goods where they lie. Some howes hold worse than bones: the [[lore-haugverdir|Hrúmverdir]], the howe-wardens, are the reason a stranger asks the local custodians before going near one.
 
 ## Who Is Laid How
 
@@ -38,7 +38,7 @@ The rite follows the person's standing and the manner of their death, and the no
 - **The great.** The ship and the howe over it, or the ship set burning on the water.
 - **A thrall.** Buried in the ground without a pyre, near the hall he served; a master who honors a good thrall puts a tool in the grave with him.
 - **A niding.** No rite at all. A man outlawed at the ting is laid at the tide-line, between the land and the sea, where no ground claims him and no line can raise a howe for him.
-- **The drowned and the lost.** Where the sea keeps the body, the kin raise a carved stone on the headland with the name cut in runes, and hold the grave-ale over the stone. A drowned man nobody raises a stone for rides with the [[lore-jol|Jel-Ride]].
+- **The drowned and the lost.** Where the sea keeps the body, the kin raise a carved stone on the headland with the name cut in runes, and hold the grave-ale over the stone. A drowned man nobody raises a stone for rides with the [Jel-Ride]{.name data-type="lore/spirit"} (see [[lore-jol|Jel]]).
 
 ## The Grave-Ale
 
@@ -46,7 +46,7 @@ On the seventh night the kin hold the _hrúmsminni_ (grave-ale), and the dead pe
 
 The rite runs in a fixed order. A skald or the eldest of the kin gives the praise of the dead, and it turns on how the dead met what came, never on what they won; a _hnura_ (lament) follows if the household has a skald to make one. The reckoning begun on the first night is spoken aloud: what the dead owed, what was owed to them, and who now answers for each. Then the heir takes the cup, drinks it standing at the foot of the high seat, swears before the guests the oath he means to keep as the hall's head, and steps up into the seat. A hall that drinks the grave-ale has an heir; a hall that has not drunk it has an empty chair and a dead man still in it.
 
-The gudja of Solrún tells newcomers why the grave-ale cannot be skipped. The dead who never receive it are the riders of the Jel-Ride, and the custom is held to start with the first grave there ever was, when **Dvarnrinna** drank to **Hrandmil** at the first howe. That account is told in [[lore-gnumborinn|Gnúmborinn]].
+The gudja of Solrún tells newcomers why the grave-ale cannot be skipped. The dead who never receive it are the riders of the Jel-Ride, and the custom is held to start with the first grave there ever was, when [Dvarnrinna]{.name data-type="being/npc"} drank to [Hrandmil]{.name data-type="being/npc"} at the first howe. That account is told in [[lore-gnumborinn|Gnúmborinn]].
 
 ## See Also
 

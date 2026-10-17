@@ -16,7 +16,7 @@ data:
     height: {female: {min: 5' 3", max: 5' 10"}, male: {min: 5' 8", max: 6' 3"}}
 ---
 
-The Hénhatoutsou are the tribes of Hénhatou, the Black Wilds: the steppe and broken hill-country that lies north of the [[affiliation-tantsouempr|Empire of Tantsou]], beyond the [[place-grkrhlmrgn|Grukari]] marches. They are horse-riders who live from grazing, and their wells and grazing grounds are what they fight over.
+The Hénhatoutsou are the tribes of [Hénhatou]{.name data-type="place/region"}, the Black Wilds: the steppe and broken hill-country that lies north of the [[affiliation-tantsouempr|Empire of Tantsou]], beyond the marches of the [[place-grkrhlmrgn|Grukarholm Region]]. They are horse-riders who live from grazing, and their wells and grazing grounds are what they fight over.
 
 ## Tribes and feuds
 
