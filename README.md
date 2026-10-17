@@ -74,7 +74,8 @@ Simplified Gregorian default — so a calendar another package has claimed is
 left alone. Foundry then divides the year into Lîzêlândi through Kâlpêzândi, names
 the week Newday through Setday, and marks the four seasons, and a world at time
 zero opens on **1 Lîzêlândi of year 1**, where the calendar's own count begins.
-The setting's present is year 720, so a campaign starting there sets the world
+The setting's current date is declared as `currentDate: "720.1"` in the root
+`package-build.config.yaml`, so a campaign starting in year 720 sets the world
 time forward.
 
 The printed forms — _14 Brâzêmândi, 720 AF_ — come from the `formats` the notes
