@@ -450,19 +450,37 @@ Githara drives toward a singular vision: to prove that excellence in the timberw
 
 ### Strengths
 
-- **Master of Tree Lore**: Possesses encyclopedic knowledge of wood species, growth patterns, and quality indicators. Can assess timber's integrity and best uses with uncanny accuracy.
-- **Rigorous Standards**: Her perfectionism means that only the finest materials leave her hands, creating demand for her expertise among the wealthiest craftspeople.
-- **Practical Wisdom**: Understands the seasons, weather patterns, and forest ecology that determine the best times and places to harvest timber.
-- **Physical Prowess**: Despite her precision work, possesses considerable strength and endurance for hauling, climbing, and the demanding physical labor of the timber trade.
-- **Teaching Ability**: Can convey complex knowledge of wood craft with patience, particularly to those she judges worthy of the knowledge.
+Master of Tree Lore
+: Possesses encyclopedic knowledge of wood species, growth patterns, and quality indicators. Can assess timber's integrity and best uses with uncanny accuracy.
+
+Rigorous Standards
+: Her perfectionism means that only the finest materials leave her hands, creating demand for her expertise among the wealthiest craftspeople.
+
+Practical Wisdom
+: Understands the seasons, weather patterns, and forest ecology that determine the best times and places to harvest timber.
+
+Physical Prowess
+: Despite her precision work, possesses considerable strength and endurance for hauling, climbing, and the demanding physical labor of the timber trade.
+
+Teaching Ability
+: Can convey complex knowledge of wood craft with patience, particularly to those she judges worthy of the knowledge.
 
 ### Weaknesses
 
-- **Perfectionism Paralyzes**: Sometimes delays critical deliveries indefinitely while searching for wood that meets her impossibly exacting standards.
-- **Rigid Judgment**: Struggles to accept compromise or alternative approaches, viewing deviation from her methods as inherent failure.
-- **Limited Social Grace**: Her blunt assessment of others' work—accurate though it may be—creates enemies among those with thinner skin.
-- **Underestimates Economic Pressure**: Her focus on craft quality sometimes blinds her to the financial realities facing smaller craftspeople and merchants.
-- **Defensive About Gender**: While she doesn't seek sympathy, she can become brittle and sharp when she perceives doubts about her abilities based on sex rather than skill.
+Perfectionism Paralyzes
+: Sometimes delays critical deliveries indefinitely while searching for wood that meets her impossibly exacting standards.
+
+Rigid Judgment
+: Struggles to accept compromise or alternative approaches, viewing deviation from her methods as inherent failure.
+
+Limited Social Grace
+: Her blunt assessment of others' work—accurate though it may be—creates enemies among those with thinner skin.
+
+Underestimates Economic Pressure
+: Her focus on craft quality sometimes blinds her to the financial realities facing smaller craftspeople and merchants.
+
+Defensive About Gender
+: While she doesn't seek sympathy, she can become brittle and sharp when she perceives doubts about her abilities based on sex rather than skill.
 
 ## Social
 
@@ -501,12 +519,17 @@ The Craft Collective
 
 ## Plot Hooks
 
-1. **The Foreign Commission**: A mysterious agent from the distant [[place-velkhara|Kingdom of Vel'Khara]] arrives in Au'Khelathu seeking timbers of unprecedented rarity and size for an unnamed noble patron. The payment offered is astronomical, but Githara discovers the wood is being sought for weapons—massive siege equipment designed to breach the walls of Au'Khelathu's allies. She must decide whether to honor her craft above politics, and whether bringing this knowledge to the authorities will compromise her neutral reputation in the timber markets.
+The Foreign Commission
+: A mysterious agent from the distant [[place-velkhara|Kingdom of Vel'Khara]] arrives in Au'Khelathu seeking timbers of unprecedented rarity and size for an unnamed noble patron. The payment offered is astronomical, but Githara discovers the wood is being sought for weapons—massive siege equipment designed to breach the walls of Au'Khelathu's allies. She must decide whether to honor her craft above politics, and whether bringing this knowledge to the authorities will compromise her neutral reputation in the timber markets.
 
-2. **The Cursed Log**: A merchant brings Githara a single enormous log of wood so perfect, so ancient, and so radiantly beautiful that it seems to defy nature. However, it bears marks she cannot explain and emanates a faint wrongness that troubles her. Investigation reveals the log was harvested from a sacred grove protected by an ancient curse—and the merchant promises Githara a fortune if she'll work with it. The curse, if real, may pass to anyone who shapes the wood, but refusing means allowing an unscrupulous craftsperson to claim the prize instead.
+The Cursed Log
+: A merchant brings Githara a single enormous log of wood so perfect, so ancient, and so radiantly beautiful that it seems to defy nature. However, it bears marks she cannot explain and emanates a faint wrongness that troubles her. Investigation reveals the log was harvested from a sacred grove protected by an ancient curse—and the merchant promises Githara a fortune if she'll work with it. The curse, if real, may pass to anyone who shapes the wood, but refusing means allowing an unscrupulous craftsperson to claim the prize instead.
 
-3. **The Student's Test**: Githara's most promising apprentice—a young woman named Qiya—is caught stealing inferior wood from the workshop and selling it to a competing merchant while telling customers it came from Githara's stock. Rather than simply expelling Qiya, Githara sees this as a test: of her principles, her teaching, and whether her mentorship has failed or merely been corrupted by desperation. She must uncover why Qiya did this—is it greed, coercion, or family hardship?—while deciding what redemption, if any, she can offer without betraying her own standards.
+The Student's Test
+: Githara's most promising apprentice—a young woman named Qiya—is caught stealing inferior wood from the workshop and selling it to a competing merchant while telling customers it came from Githara's stock. Rather than simply expelling Qiya, Githara sees this as a test: of her principles, her teaching, and whether her mentorship has failed or merely been corrupted by desperation. She must uncover why Qiya did this—is it greed, coercion, or family hardship?—while deciding what redemption, if any, she can offer without betraying her own standards.
 
-4. **The Ancient Forest Initiative**: The Empire's new Minister of Resources announces plans to harvest an enormous stretch of ancient woodland to fuel Au'Khelathu's expansion. While many timberwrights celebrate the opportunity, Githara recognizes the grove contains several rare and magnificent tree species found nowhere else. She must handle the dangerous waters of standing against state policy, potentially forming unlikely alliances with priests, scholars, and conservationists—all while keeping her standing in her trade and proving that sometimes the greatest craftspeople are those wise enough to know when not to cut.
+The Ancient Forest Initiative
+: The Empire's new Minister of Resources announces plans to harvest an enormous stretch of ancient woodland to fuel Au'Khelathu's expansion. While many timberwrights celebrate the opportunity, Githara recognizes the grove contains several rare and magnificent tree species found nowhere else. She must handle the dangerous waters of standing against state policy, potentially forming unlikely alliances with priests, scholars, and conservationists—all while keeping her standing in her trade and proving that sometimes the greatest craftspeople are those wise enough to know when not to cut.
 
-5. **The Master's Gauntlet**: An aged master from a distant land arrives and challenges all the timberwrights of Au'Khelathu to a competition: craft the finest wooden object possible from identical raw materials within a lunar cycle. The winner gains renown, but more importantly, will secure royal patronage that guarantees prosperity for years. Githara must compete against both skilled rivals and the whispered skepticism of those who don't believe a woman can truly stand at the head of the craft. The competition becomes not just about creating a masterwork, but about forcing Au'Khelathu to finally acknowledge what Githara has always known: excellence goes beyond gender.
+The Master's Gauntlet
+: An aged master from a distant land arrives and challenges all the timberwrights of Au'Khelathu to a competition: craft the finest wooden object possible from identical raw materials within a lunar cycle. The winner gains renown, but more importantly, will secure royal patronage that guarantees prosperity for years. Githara must compete against both skilled rivals and the whispered skepticism of those who don't believe a woman can truly stand at the head of the craft. The competition becomes not just about creating a masterwork, but about forcing Au'Khelathu to finally acknowledge what Githara has always known: excellence goes beyond gender.

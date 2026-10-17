@@ -183,16 +183,35 @@ The sin is the **War of the Empty Seat**. When Hojujai Henwo, the last Teng Ja, 
 
 ## See Also
 
-- [[affiliation-jenchaiempr|Jenchai Empire]]—the realm, the court, Teng Ja and the eight houses
-- [[place-jenchairgn|Jenchai Region]]—the two islands, the Nine Mountains and the strait
-- [[lore-jenchaiscs|The Secession of Jenchai]]—the break with the mainland and the claim to the Mandate
-- [[lore-tantsouclt|Tantsou]]—the parent culture, its castes and its ledger
-- [[lore-tseising|Law and Honor]]—the mainland's law, its ordered death and its chosen one
-- [[lore-ancstrwrshp|Ancestor Worship]]—the ledger and the rites the islands keep
-- [[lore-mandatehvn|Mandate of Heaven]]—the appointment the islands claim was moved to them
-- [[affiliation-tengwouronglei|Celestial Order]]—the shared faith, divergently kept
-- [[skill-jurthatlng|Jurthati]]—the island tongue, its honorific grid and its names
-- [[skill-jurthatlng#lexicon|Jurthati Lexicon]]—the words in their native and learned readings
+[[affiliation-jenchaiempr|Jenchai Empire]]
+: the realm, the court, Teng Ja and the eight houses
+
+[[place-jenchairgn|Jenchai Region]]
+: the two islands, the Nine Mountains and the strait
+
+[[lore-jenchaiscs|The Secession of Jenchai]]
+: the break with the mainland and the claim to the Mandate
+
+[[lore-tantsouclt|Tantsou]]
+: the parent culture, its castes and its ledger
+
+[[lore-tseising|Law and Honor]]
+: the mainland's law, its ordered death and its chosen one
+
+[[lore-ancstrwrshp|Ancestor Worship]]
+: the ledger and the rites the islands keep
+
+[[lore-mandatehvn|Mandate of Heaven]]
+: the appointment the islands claim was moved to them
+
+[[affiliation-tengwouronglei|Celestial Order]]
+: the shared faith, divergently kept
+
+[[skill-jurthatlng|Jurthati]]
+: the island tongue, its honorific grid and its names
+
+[[skill-jurthatlng#lexicon|Jurthati Lexicon]]
+: the words in their native and learned readings
 
 ## Glossary {#glossary}
 

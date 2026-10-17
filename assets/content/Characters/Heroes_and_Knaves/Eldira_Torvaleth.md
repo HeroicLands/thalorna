@@ -444,27 +444,37 @@ Eldira is motivated by a drive to create beauty that expresses truth as she perc
 
 ### Strengths
 
-- **Artistic Vision**: Her creativity—her highest attribute—combined with her drawing, ceramics, and theater gives her a rare aesthetic sensibility. She can perceive color relationships and compositional balances that others miss entirely.
+Artistic Vision
+: Her creativity—her highest attribute—combined with her drawing, ceramics, and theater gives her a rare aesthetic sensibility. She can perceive color relationships and compositional balances that others miss entirely.
 
-- **Extraordinary Technical Skill**: Her glassworking, dexterity, and perception allow her to execute her artistic visions with precision. Her hands are instruments of great capability, able to manipulate glass with both delicacy and strength.
+Extraordinary Technical Skill
+: Her glassworking, dexterity, and perception allow her to execute her artistic visions with precision. Her hands are instruments of great capability, able to manipulate glass with both delicacy and strength.
 
-- **Innovative Problem-Solving**: Her reasoning and high creativity allow her to develop novel techniques and solutions to technical challenges. She has invented several new approaches to glass manipulation that other artisans have since adopted.
+Innovative Problem-Solving
+: Her reasoning and high creativity allow her to develop novel techniques and solutions to technical challenges. She has invented several new approaches to glass manipulation that other artisans have since adopted.
 
-- **Physical Grace and Awareness**: Her agility, climbing, and awareness make her comfortable working at heights and in awkward positions. She is fearless when working on large installations.
+Physical Grace and Awareness
+: Her agility, climbing, and awareness make her comfortable working at heights and in awkward positions. She is fearless when working on large installations.
 
-- **Versatile Craftsmanship**: Her abilities span ceramics, metalcraft, hideworking, and script, making her capable of creating complete artistic works integrating multiple materials and techniques.
+Versatile Craftsmanship
+: Her abilities span ceramics, metalcraft, hideworking, and script, making her capable of creating complete artistic works integrating multiple materials and techniques.
 
 ### Weaknesses
 
-- **Limited Large-Scale Experience**: While she excels at smaller pieces and moderate installations, she has not yet completed major architectural glasswork projects. Large commissions intimidate her, and she sometimes struggles with the planning and scheduling such projects require.
+Limited Large-Scale Experience
+: While she excels at smaller pieces and moderate installations, she has not yet completed major architectural glasswork projects. Large commissions intimidate her, and she sometimes struggles with the planning and scheduling such projects require.
 
-- **Sensitivity to Criticism**: While intellectually aware that critique is necessary for growth, she takes criticism personally and can become defensive or paralyzed by it. A negative response to her work can discourage her for weeks.
+Sensitivity to Criticism
+: While intellectually aware that critique is necessary for growth, she takes criticism personally and can become defensive or paralyzed by it. A negative response to her work can discourage her for weeks.
 
-- **Emotional Isolation**: Her guile and intrigue, while useful in her trade, have made her excellent at maintaining emotional distance. This has prevented meaningful relationships and leaves her chronically lonely, though she rarely admits this.
+Emotional Isolation
+: Her guile and intrigue, while useful in her trade, have made her excellent at maintaining emotional distance. This has prevented meaningful relationships and leaves her chronically lonely, though she rarely admits this.
 
-- **Commercial Naïveté**: Her reasoning, while sufficient for technical matters, leaves her vulnerable to being exploited in business dealings. She sometimes accepts commissions at rates that undervalue her work and struggles with client negotiations.
+Commercial Naïveté
+: Her reasoning, while sufficient for technical matters, leaves her vulnerable to being exploited in business dealings. She sometimes accepts commissions at rates that undervalue her work and struggles with client negotiations.
 
-- **Lack of Patrons and Institutional Support**: Unlike more traditional glassworkers who benefit from guild support and established patron networks, her unconventional approach has left her relatively isolated from these networks, making her economically vulnerable.
+Lack of Patrons and Institutional Support
+: Unlike more traditional glassworkers who benefit from guild support and established patron networks, her unconventional approach has left her relatively isolated from these networks, making her economically vulnerable.
 
 ## Social
 
@@ -500,12 +510,17 @@ the Ravencroft Artistic Circle
 
 ## Plot Hooks
 
-1. **The Commission from Beyond**: A mysterious patron appears with an extraordinary commission—a massive window installation of dazzling technical complexity with imagery that Eldira cannot quite decipher. The patron demands complete secrecy about the project, provides very generous payment, and insists on specific timing. As Eldira works, she begins to suspect the imagery contains magical properties or hidden meaning, and questions emerge about who the patron truly is and what purpose this window will serve.
+The Commission from Beyond
+: A mysterious patron appears with an extraordinary commission—a massive window installation of dazzling technical complexity with imagery that Eldira cannot quite decipher. The patron demands complete secrecy about the project, provides very generous payment, and insists on specific timing. As Eldira works, she begins to suspect the imagery contains magical properties or hidden meaning, and questions emerge about who the patron truly is and what purpose this window will serve.
 
-2. **The Lost Master's Final Work**: While exploring an abandoned cathedral, Eldira discovers fragmentary remains of glasswork by Master Gerdan that she has never encountered—work showing him experimenting with techniques that parallel her own discoveries, suggesting he was moving in similar directions before his death. Investigation reveals he may have destroyed some of his work to avoid criticism, and other pieces may still be hidden. She becomes obsessed with finding these missing works and understanding what her mentor was truly trying to achieve.
+The Lost Master's Final Work
+: While exploring an abandoned cathedral, Eldira discovers fragmentary remains of glasswork by Master Gerdan that she has never encountered—work showing him experimenting with techniques that parallel her own discoveries, suggesting he was moving in similar directions before his death. Investigation reveals he may have destroyed some of his work to avoid criticism, and other pieces may still be hidden. She becomes obsessed with finding these missing works and understanding what her mentor was truly trying to achieve.
 
-3. **The Architectural Opportunity**: Eldira receives an invitation to submit designs for windows in a major civic building—a once-in-a-lifetime commission that could establish her as a major artist. However, the competition includes Master Helmut Thorne and other traditionalists, and the selection committee appears biased toward conventional work. She can compromise her artistic vision to compete on the committee's terms, or submit her true vision and risk rejection, potentially damaging her reputation.
+The Architectural Opportunity
+: Eldira receives an invitation to submit designs for windows in a major civic building—a once-in-a-lifetime commission that could establish her as a major artist. However, the competition includes Master Helmut Thorne and other traditionalists, and the selection committee appears biased toward conventional work. She can compromise her artistic vision to compete on the committee's terms, or submit her true vision and risk rejection, potentially damaging her reputation.
 
-4. **The Cursed Glass**: Eldira acquires an unusual sample of glass—ancient, with unusual properties and coloration—from a collector's estate. When she begins working with it, creating extraordinary windows infused with the material, people who view the completed windows report disturbing dreams, visions, or compulsions. She has to find out whether the glass is truly cursed or whether something about her art is unlocking susceptibilities in viewers, and decide whether to destroy the completed work or reveal its effects.
+The Cursed Glass
+: Eldira acquires an unusual sample of glass—ancient, with unusual properties and coloration—from a collector's estate. When she begins working with it, creating extraordinary windows infused with the material, people who view the completed windows report disturbing dreams, visions, or compulsions. She has to find out whether the glass is truly cursed or whether something about her art is unlocking susceptibilities in viewers, and decide whether to destroy the completed work or reveal its effects.
 
-5. **The Rival's Accident**: Cassian Darkglass, her estranged former student, is seriously injured in a workshop accident—injuries so severe that he may never work again. Initially viewing this as his burden to bear, Eldira gradually learns that his accident may not have been accidental and that multiple parties had reason to wish him harm. More troublingly, some evidence suggests the incident may have been meant for Eldira herself. She must uncover who sought to harm whom and why, discovering conspiracy threads that implicate some she trusted.
+The Rival's Accident
+: Cassian Darkglass, her estranged former student, is seriously injured in a workshop accident—injuries so severe that he may never work again. Initially viewing this as his burden to bear, Eldira gradually learns that his accident may not have been accidental and that multiple parties had reason to wish him harm. More troublingly, some evidence suggests the incident may have been meant for Eldira herself. She must uncover who sought to harm whom and why, discovering conspiracy threads that implicate some she trusted.

@@ -1257,11 +1257,20 @@ Names follow a **family-name-first pattern**. The family name (_zhao_) precedes 
 
 ## See Also
 
-- [[affiliation-tantsouempr|Tantsou empire]]—Overview of the empire and its culture
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The Celestial Order (pantheon)
-- [[lore-phlsphyleiwo|Philosophy of Leiwo]]—The philosophy of vital energy
-- [[lore-clndrstrlgy|Calendar and Astrology]]—Calendar, months, and spirit animals
-- [[lore-personlnms|Personal Names]]—Naming conventions and examples
+[[affiliation-tantsouempr|Tantsou empire]]
+: Overview of the empire and its culture
+
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: The Celestial Order (pantheon)
+
+[[lore-phlsphyleiwo|Philosophy of Leiwo]]
+: The philosophy of vital energy
+
+[[lore-clndrstrlgy|Calendar and Astrology]]
+: Calendar, months, and spirit animals
+
+[[lore-personlnms|Personal Names]]
+: Naming conventions and examples
 
 ## Tantsou Lexicon {#lexicon}
 

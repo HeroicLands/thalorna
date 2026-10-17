@@ -83,9 +83,14 @@ sohl: {system: {commonSkills: []}}
 
 ## Nuowo—The Minister of Dissolution
 
-- **Bureau:** Nuo Sei, The Bureau of Returns
-- **Domain:** Dissolution
-- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+Bureau
+: Nuo Sei, The Bureau of Returns
+
+Domain
+: Dissolution
+
+Parent
+: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
 In Nuowo's teaching, Nuo Sei is the reclamation office. What has finished being one thing is broken down here and
 returned as material for something else, which is why it works so closely with the
@@ -99,11 +104,19 @@ understands what they have asked for.
 
 ### Lesser Spirits
 
-- **Nuoléi**—Dissolution Spirits, who break down expired classifications.
-- **Zhawo**—Renewal Spirits, who feed recycled materials back into the Bureau of Creation's processes.
+Nuoléi
+: Dissolution Spirits, who break down expired classifications.
+
+Zhawo
+: Renewal Spirits, who feed recycled materials back into the Bureau of Creation's processes.
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the mortal realm it administers
-- [[skill-tengchouscript|Teng Chou Script]]—the writing every petition is made in
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: the Celestial Bureaucracy this bureau belongs to
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the mortal realm it administers
+
+[[skill-tengchouscript|Teng Chou Script]]
+: the writing every petition is made in

@@ -47,8 +47,17 @@ The same vaults hold the league's tower-glass: ground lenses from the lamp-chamb
 
 ## See Also
 
-- [[lore-towercities|The Tower Cities]]—the league whose chief city it was
-- [[lore-bloodfield|Blood-fields]]—what a thin field is, and why it kills
-- [[place-hskrrgn|Khoshiqor]]—the sand country it stands in
-- [[lore-celestialroad|The Celestial Road]]—the road that bends round it
-- [[place-wilud|Vulud]]—the league's drowned city, which is not a blood-field
+[[lore-towercities|The Tower Cities]]
+: the league whose chief city it was
+
+[[lore-bloodfield|Blood-fields]]
+: what a thin field is, and why it kills
+
+[[place-hskrrgn|Khoshiqor]]
+: the sand country it stands in
+
+[[lore-celestialroad|The Celestial Road]]
+: the road that bends round it
+
+[[place-wilud|Vulud]]
+: the league's drowned city, which is not a blood-field

@@ -24,6 +24,11 @@ The War Chief holds the strongest of the village's three seats, but the other tw
 
 ## See Also
 
-- [[place-falkhaven|Falkhaven]]—the reach around the village
-- [[place-falkensten|Falkenstein]]—neighboring villages reached by forest tracks
-- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—the wider web of independent villages
+[[place-falkhaven|Falkhaven]]
+: the reach around the village
+
+[[place-falkensten|Falkenstein]]
+: neighboring villages reached by forest tracks
+
+[[affiliation-vrystwldtrbs|Vristwald Tribes]]
+: the wider web of independent villages

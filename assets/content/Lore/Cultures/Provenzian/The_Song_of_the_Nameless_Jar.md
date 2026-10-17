@@ -101,9 +101,20 @@ which is his due. The rest of his due is leased.
 
 ## See Also
 
-- [[place-bldfldkyvarel|The Blood-field of Kivarel]]—the quickening, and the subject nobody raises at table
-- [[place-kyvarel|Kivarel]]—the barony in the western valleys
-- [[lore-bloodfields|The Blood-fields of Provenzia]]—torn ground, and the rite of settlement that works perhaps half the time
-- [[affiliation-olvenia|Faith of Ólvenia]]—the Golden Harvest and the offering of gain
-- [[affiliation-selmoros|Faith of Sélmoros]]—offerings of fruit past its ripeness, and the placing of the dead
-- [[lore-provenzianclt|Provenzian]]—the courtesy that closes a subject
+[[place-bldfldkyvarel|The Blood-field of Kivarel]]
+: the quickening, and the subject nobody raises at table
+
+[[place-kyvarel|Kivarel]]
+: the barony in the western valleys
+
+[[lore-bloodfields|The Blood-fields of Provenzia]]
+: torn ground, and the rite of settlement that works perhaps half the time
+
+[[affiliation-olvenia|Faith of Ólvenia]]
+: the Golden Harvest and the offering of gain
+
+[[affiliation-selmoros|Faith of Sélmoros]]
+: offerings of fruit past its ripeness, and the placing of the dead
+
+[[lore-provenzianclt|Provenzian]]
+: the courtesy that closes a subject

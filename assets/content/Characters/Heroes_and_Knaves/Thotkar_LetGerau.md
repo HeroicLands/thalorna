@@ -450,31 +450,43 @@ Thotkar is driven by an almost religious commitment to justice and truth—not j
 
 ### Strengths
 
-- **Comprehensive Legal Mastery**: Possesses encyclopedic knowledge of Au'Khelathu's legal codes, the laws of multiple neighboring realms, and the philosophical principles underlying legal systems; his authority is uncontested and frequently sought as authoritative.
+Comprehensive Legal Mastery
+: Possesses encyclopedic knowledge of Au'Khelathu's legal codes, the laws of multiple neighboring realms, and the philosophical principles underlying legal systems; his authority is uncontested and frequently sought as authoritative.
 
-- **Logical Brilliance**: A mind of extraordinary analytical power, capable of identifying logical inconsistencies and constructing arguments of devastating intellectual force; he rarely loses a case against opposing counselors of lesser caliber.
+Logical Brilliance
+: A mind of extraordinary analytical power, capable of identifying logical inconsistencies and constructing arguments of devastating intellectual force; he rarely loses a case against opposing counselors of lesser caliber.
 
-- **Linguistic Virtuosity**: Fluent in seven languages with a real understanding of the cultural and philosophical contexts shaping how different peoples approach law and justice; this enables him to work across realms and defend clients from foreign lands.
+Linguistic Virtuosity
+: Fluent in seven languages with a real understanding of the cultural and philosophical contexts shaping how different peoples approach law and justice; this enables him to work across realms and defend clients from foreign lands.
 
-- **Ethical Integrity**: Famed commitment to truth and justice over profit or convenience; opposing litigants know he will not cut corners, which works to his advantage as judges trust his arguments more than those of more mercenary counselors.
+Ethical Integrity
+: Famed commitment to truth and justice over profit or convenience; opposing litigants know he will not cut corners, which works to his advantage as judges trust his arguments more than those of more mercenary counselors.
 
-- **Empathetic Understanding**: Unusual capacity to grasp the real circumstances and emotional truths underlying his clients' situations; this enables him to construct legal arguments that resonate on human level beyond mere procedural correctness.
+Empathetic Understanding
+: Unusual capacity to grasp the real circumstances and emotional truths underlying his clients' situations; this enables him to construct legal arguments that resonate on human level beyond mere procedural correctness.
 
-- **Disciplined Scholar**: Maintains careful records and research practices; his written briefs are masterpieces of legal argumentation that judges explicitly praise for clarity and comprehensiveness.
+Disciplined Scholar
+: Maintains careful records and research practices; his written briefs are masterpieces of legal argumentation that judges explicitly praise for clarity and comprehensiveness.
 
 ### Weaknesses
 
-- **Emotional Vulnerability**: His feeling for clients' suffering can become debilitating; he absorbs their wounds, their injustice, their despair, and carries it home with him, leading to depression and spiritual exhaustion.
+Emotional Vulnerability
+: His feeling for clients' suffering can become debilitating; he absorbs their wounds, their injustice, their despair, and carries it home with him, leading to depression and spiritual exhaustion.
 
-- **Pragmatism Deficit**: His commitment to truth and justice can override practical wisdom; he occasionally takes on cases he cannot win, or challenges entrenched injustices that possess too much institutional power to overcome, resulting in devastating defeats.
+Pragmatism Deficit
+: His commitment to truth and justice can override practical wisdom; he occasionally takes on cases he cannot win, or challenges entrenched injustices that possess too much institutional power to overcome, resulting in devastating defeats.
 
-- **Isolation**: His social reserve and intellectualism create distance in personal relationships; he struggles to connect with those less educated or intellectually rigorous, which has prevented romantic partnership and deep friendship outside narrow legal circles.
+Isolation
+: His social reserve and intellectualism create distance in personal relationships; he struggles to connect with those less educated or intellectually rigorous, which has prevented romantic partnership and deep friendship outside narrow legal circles.
 
-- **System Cynicism**: His awareness of law's fundamental limitations and entrenched corruption has begun to erode his faith in the possibility of meaningful justice; he risks sliding into despair and inaction.
+System Cynicism
+: His awareness of law's fundamental limitations and entrenched corruption has begun to erode his faith in the possibility of meaningful justice; he risks sliding into despair and inaction.
 
-- **Physical Vulnerability**: His life has been sedentary, devoted to study rather than martial training; he lacks physical resilience and combat skill, making him dependent on others for physical protection.
+Physical Vulnerability
+: His life has been sedentary, devoted to study rather than martial training; he lacks physical resilience and combat skill, making him dependent on others for physical protection.
 
-- **Compulsive Perfectionism**: His high standards for legal argument and ethical practice can make him a difficult colleague; he is intolerant of sloppiness and occasionally paralyzed by the pursuit of perfect argumentation when pragmatic sufficiency would serve.
+Compulsive Perfectionism
+: His high standards for legal argument and ethical practice can make him a difficult colleague; he is intolerant of sloppiness and occasionally paralyzed by the pursuit of perfect argumentation when pragmatic sufficiency would serve.
 
 ## Social
 
@@ -513,10 +525,14 @@ Litigant's Guild
 
 ## Plot Hooks
 
-1. **The Case of Impossible Innocence**: A young person convicted of murder through what appears to be airtight legal procedure approaches Thotkar requesting defense appeal—they claim absolute innocence, yet all evidence points to guilt, all testimony corroborates the conviction, and even Thotkar's initial investigation seems to confirm the verdict. Yet the young person's desperation rings true, and Thotkar becomes convinced that subtle but systematic deception has orchestrated a false conviction. His investigation threatens to expose corruption in the judicial system itself—evidence that the original magistrate conspired with prosecutors to manufacture guilt. As Thotkar works toward appeal, he uncovers evidence that the conviction may have been orchestrated to conceal far greater crimes by more powerful figures. Success would require public exposure of judicial corruption that the system is heavily invested in concealing.
+The Case of Impossible Innocence
+: A young person convicted of murder through what appears to be airtight legal procedure approaches Thotkar requesting defense appeal—they claim absolute innocence, yet all evidence points to guilt, all testimony corroborates the conviction, and even Thotkar's initial investigation seems to confirm the verdict. Yet the young person's desperation rings true, and Thotkar becomes convinced that subtle but systematic deception has orchestrated a false conviction. His investigation threatens to expose corruption in the judicial system itself—evidence that the original magistrate conspired with prosecutors to manufacture guilt. As Thotkar works toward appeal, he uncovers evidence that the conviction may have been orchestrated to conceal far greater crimes by more powerful figures. Success would require public exposure of judicial corruption that the system is heavily invested in concealing.
 
-2. **The Scholar's Rival**: Another litigant arrives in the city—Thotkar's former mentor, the famed Master Aqenhofis, thought dead for over a decade. Aqe is now elderly and infirm, and he approaches Thotkar with a startling revelation: he has discovered that virtually his entire life's work has been subtly orchestrated by a powerful shadow organization using law as a vehicle for their own political purposes. He suspects Thotkar's practice may be similarly manipulated without his knowledge. Together they begin investigating, and the trail leads into shadowy politics involving multiple realms and suggests that some of Thotkar's greatest victories may have served the interests of those he would oppose if he knew. The revelation threatens to undermine his faith in his own judgment and his fundamental belief in the possibility of justice.
+The Scholar's Rival
+: Another litigant arrives in the city—Thotkar's former mentor, the famed Master Aqenhofis, thought dead for over a decade. Aqe is now elderly and infirm, and he approaches Thotkar with a startling revelation: he has discovered that virtually his entire life's work has been subtly orchestrated by a powerful shadow organization using law as a vehicle for their own political purposes. He suspects Thotkar's practice may be similarly manipulated without his knowledge. Together they begin investigating, and the trail leads into shadowy politics involving multiple realms and suggests that some of Thotkar's greatest victories may have served the interests of those he would oppose if he knew. The revelation threatens to undermine his faith in his own judgment and his fundamental belief in the possibility of justice.
 
-3. **The Contract with Consequences**: A desperate client—a woman whose daughter has been enslaved through legal machinery—approaches Thotkar with an extraordinary proposal: she has discovered a loophole in the legal code that would free her daughter, but it requires Thotkar to argue for an interpretation that would destabilize significant commercial practices and provoke violent opposition from wealthy merchants. The client is willing to pay an enormous fee and can provide evidence that her daughter's enslavement was technically illegal. Yet Thotkar recognizes that winning this case would likely trigger legal backlash and potentially create precedents that could be weaponized against those he typically represents.
+The Contract with Consequences
+: A desperate client—a woman whose daughter has been enslaved through legal machinery—approaches Thotkar with an extraordinary proposal: she has discovered a loophole in the legal code that would free her daughter, but it requires Thotkar to argue for an interpretation that would destabilize significant commercial practices and provoke violent opposition from wealthy merchants. The client is willing to pay an enormous fee and can provide evidence that her daughter's enslavement was technically illegal. Yet Thotkar recognizes that winning this case would likely trigger legal backlash and potentially create precedents that could be weaponized against those he typically represents.
 
-4. **The Revelation of Authorship**: Thotkar discovers that Master Litigant Aqenhofis—his revered mentor and the architect of much of Au'Khelathu's contemporary legal framework—may have perpetuated a false legal interpretation for decades, deliberately concealing a truth that would undermine a significant merchant dynasty's wealth and power. Aqenhofis may have done this because the merchant family's founder saved his life, and gratitude outweighed his commitment to truth. Exposing his mentor's deception would destroy a name and legacy he reveres while potentially destabilizing legal systems that depend on his interpretations.
+The Revelation of Authorship
+: Thotkar discovers that Master Litigant Aqenhofis—his revered mentor and the architect of much of Au'Khelathu's contemporary legal framework—may have perpetuated a false legal interpretation for decades, deliberately concealing a truth that would undermine a significant merchant dynasty's wealth and power. Aqenhofis may have done this because the merchant family's founder saved his life, and gratitude outweighed his commitment to truth. Exposing his mentor's deception would destroy a name and legacy he reveres while potentially destabilizing legal systems that depend on his interpretations.

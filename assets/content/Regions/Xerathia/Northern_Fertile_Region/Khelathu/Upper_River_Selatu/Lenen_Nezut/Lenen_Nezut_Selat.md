@@ -38,13 +38,25 @@ Grain goes to the granaries, labor to the canals and a share of everything to th
 
 ## Settlements
 
-- [[place-lenennezut|Lenen-Nezut]] (~26,000)—the selat capital and the seat of the Halzi'a.
-- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+[[place-lenennezut|Lenen-Nezut]] (~26,000)
+: the selat capital and the seat of the Halzi'a.
+
+The villages and estate-towns
+: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[lore-thronelnz|The Throne at Lenen-Nezut]]—the dynasty the old capital remembers
-- [[place-zelhalzi|Zel-Halzi]]—the unmeasured field on the west-bank floodplain below the town
-- [[affiliation-selatlennnzt|The Selat of Lenen-Nezut]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-lenennezut|Lenen-Nezut]]—Selat capital
+[[lore-thronelnz|The Throne at Lenen-Nezut]]
+: the dynasty the old capital remembers
+
+[[place-zelhalzi|Zel-Halzi]]
+: the unmeasured field on the west-bank floodplain below the town
+
+[[affiliation-selatlennnzt|The Selat of Lenen-Nezut]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-lenennezut|Lenen-Nezut]]
+: Selat capital

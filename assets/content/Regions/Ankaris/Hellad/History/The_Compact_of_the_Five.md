@@ -73,6 +73,11 @@ The [Vylarian Republic]{.name data-type="affiliation/polity"} had other business
 
 ## See Also
 
-- [[lore-heladwells|The Battle of the Wells]]—the battle the cities fought together
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation the Compact became
-- [[affiliation-khryshteikhos|Krusteikhos]]—the city whose Merchant Hall stands where the five met
+[[lore-heladwells|The Battle of the Wells]]
+: the battle the cities fought together
+
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation the Compact became
+
+[[affiliation-khryshteikhos|Krusteikhos]]
+: the city whose Merchant Hall stands where the five met

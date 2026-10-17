@@ -49,6 +49,11 @@ The Atarzád gave their own dead to the flame that night. The Tellumi dead were 
 
 ## See Also
 
-- [[place-henhulpedin|Henhutpedin]]—the field it made
-- [[place-zargandur|Zargandur]]—the city it opened the war for
-- [[lore-khazrynclt|The Tellumi]]—who call the war Turem, the Breaking
+[[place-henhulpedin|Henhutpedin]]
+: the field it made
+
+[[place-zargandur|Zargandur]]
+: the city it opened the war for
+
+[[lore-khazrynclt|The Tellumi]]
+: who call the war Turem, the Breaking

@@ -78,9 +78,20 @@ Khelzuret uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. Much of its wealt
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-khelzuret|Khelzuret]]—Selat capital and temple-city
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—Pantheon (Weth'ur, Hezmu'iri, [[lore-qearetdty|Qe'aret]])
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-khelzuretslt|Khelzuret Selat]]—The land the selat holds
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-khelzuret|Khelzuret]]
+: Selat capital and temple-city
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: Pantheon (Weth'ur, Hezmu'iri, [[lore-qearetdty|Qe'aret]])
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-khelzuretslt|Khelzuret Selat]]
+: The land the selat holds

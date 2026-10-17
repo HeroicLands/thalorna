@@ -228,20 +228,29 @@ It is bound to its garden and is stronger there. Taken far from it, it weakens a
 
 ## Attributes
 
-- **Strength:** 4-7 (1d4+3)
+Strength
+: 4-7 (1d4+3)
 
-- **Endurance:** 7-10 (1d4+6)
+Endurance
+: 7-10 (1d4+6)
 
-- **Dexterity:** 9-12 (1d4+8)
+Dexterity
+: 9-12 (1d4+8)
 
-- **Agility:** 11-14 (1d4+10)
+Agility
+: 11-14 (1d4+10)
 
-- **Perception:** 13-16 (1d4+12)
+Perception
+: 13-16 (1d4+12)
 
-- **Aura:** 9-12 (1d4+8)
+Aura
+: 9-12 (1d4+8)
 
-- **Will:** 7-10 (1d4+6)
+Will
+: 7-10 (1d4+6)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 7-10 (1d4+6)
+Creativity
+: 7-10 (1d4+6)

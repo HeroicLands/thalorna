@@ -18,4 +18,5 @@ data:
 
 ## See Also
 
-- [[place-zuzalulegulunome|Zu-Zalu-Legulu]]—The selat country that holds it
+[[place-zuzalulegulunome|Zu-Zalu-Legulu]]
+: The selat country that holds it

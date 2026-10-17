@@ -37,7 +37,14 @@ The village is two days' climb from the last coastal valley and a day's descent 
 
 ## See Also
 
-- [[place-klhrcldpss|The Cloud Pass]]—the pass the village keeps
-- [[place-klhrring|The Ring]]—the mountains it crosses
-- [[place-klhrestrrc|The Eastern Terraces]]—the country below the inner face
-- [[place-ilovanu|Ilovanu]]—the port below the outer face
+[[place-klhrcldpss|The Cloud Pass]]
+: the pass the village keeps
+
+[[place-klhrring|The Ring]]
+: the mountains it crosses
+
+[[place-klhrestrrc|The Eastern Terraces]]
+: the country below the inner face
+
+[[place-ilovanu|Ilovanu]]
+: the port below the outer face

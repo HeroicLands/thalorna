@@ -22,6 +22,11 @@ The same lore reaches the saddle on the upper road from [[place-tvarnmark|Tvarnm
 
 ## See Also
 
-- [[lore-thursaett|Thursaett]]—the giant-kin the miners listen for
-- [[lore-nrgadhstry|Histories and Legends of Norgaad]]—the Thursar of the Saddle and the king's brother's expedition
-- [[place-norgaad|Norgaad]]—the land the mines lie in
+[[lore-thursaett|Thursaett]]
+: the giant-kin the miners listen for
+
+[[lore-nrgadhstry|Histories and Legends of Norgaad]]
+: the Thursar of the Saddle and the king's brother's expedition
+
+[[place-norgaad|Norgaad]]
+: the land the mines lie in

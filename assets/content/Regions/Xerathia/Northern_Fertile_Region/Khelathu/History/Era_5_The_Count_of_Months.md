@@ -20,9 +20,14 @@ Two other changes pass with less notice. The temple-treasuries of the [[affiliat
 
 ## Rulers
 
-- **Gezer'Kuru:** Gez'Uzner I, crowned 1990 ST (121 BF).
-- **Amqelu'Gatau:** the queen Gith'el'Retha I, crowned 2025 ST (86 BF).
-- The age holds fourteen houses in all. The Keepers give the rest as the list gives them: a house, a run of reigns, and the months of each.
+Gezer'Kuru
+: Gez'Uzner I, crowned 1990 ST (121 BF).
+
+Amqelu'Gatau
+: the queen Gith'el'Retha I, crowned 2025 ST (86 BF).
+
+The age holds fourteen houses in all. The Keepers give the rest as the list gives them
+: a house, a run of reigns, and the months of each.
 
 ## Its End
 
@@ -30,6 +35,11 @@ The age closes in 2281 ST (171 AF), when the priesthood crowns the house the nec
 
 ## See Also
 
-- [[lore-akhrestcrown|The Restored Crown]] · [[lore-akhstruckhs|The Struck House]]—the ages on either side
-- [[lore-garauu|Gar-Auu]]—the king-list that begins to give months
-- [[skill-qalzscrscrpt|Qalezu]] · [[skill-khelthzscrpt|Khelathi-zethu Script]]—the people's hand and the sacred one
+[[lore-akhrestcrown|The Restored Crown]] · [[lore-akhstruckhs|The Struck House]]
+: the ages on either side
+
+[[lore-garauu|Gar-Auu]]
+: the king-list that begins to give months
+
+[[skill-qalzscrscrpt|Qalezu]] · [[skill-khelthzscrpt|Khelathi-zethu Script]]
+: the people's hand and the sacred one

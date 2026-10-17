@@ -302,20 +302,29 @@ The cheetah's unique combination of tractability and hunting prowess makes it th
 
 ## Attributes
 
-- **Strength:** 11-16 (1d6+10)
+Strength
+: 11-16 (1d6+10)
 
-- **Endurance:** 9-14 (1d6+8)
+Endurance
+: 9-14 (1d6+8)
 
-- **Dexterity:** 14-19 (1d6+13)
+Dexterity
+: 14-19 (1d6+13)
 
-- **Agility:** 16-21 (1d6+15)
+Agility
+: 16-21 (1d6+15)
 
-- **Perception:** 13-18 (1d6+12)
+Perception
+: 13-18 (1d6+12)
 
-- **Aura:** 9-14 (1d6+8)
+Aura
+: 9-14 (1d6+8)
 
-- **Will:** 9-14 (1d6+8)
+Will
+: 9-14 (1d6+8)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

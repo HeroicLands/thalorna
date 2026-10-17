@@ -24,5 +24,8 @@ Islanders differ on whether those whom [[place-sulvaan|The Warm]] answers ever t
 
 ## See Also
 
-- [[mysticalability-hearingstone|Hearing the Stone]]—the answering, which tells a person the state of a work and nothing more
-- [[place-sulvaan|The Warm]]—the work whose answered are said never to sicken
+[[mysticalability-hearingstone|Hearing the Stone]]
+: the answering, which tells a person the state of a work and nothing more
+
+[[place-sulvaan|The Warm]]
+: the work whose answered are said never to sicken

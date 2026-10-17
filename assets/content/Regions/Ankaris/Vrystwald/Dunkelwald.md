@@ -24,5 +24,8 @@ Dunkelwald's argument with the wider tribes is the oldest kind a conservative vi
 
 ## See Also
 
-- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—The independent villages whose old ways this one keeps most closely
-- [[place-vethwald|Vethwald]]—The Deepwood it stands in
+[[affiliation-vrystwldtrbs|Vristwald Tribes]]
+: The independent villages whose old ways this one keeps most closely
+
+[[place-vethwald|Vethwald]]
+: The Deepwood it stands in

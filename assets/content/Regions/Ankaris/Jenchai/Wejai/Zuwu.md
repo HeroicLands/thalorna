@@ -25,6 +25,11 @@ The wreck-officers report to the hall after every storm, and what they bring in 
 
 ## See Also
 
-- [[affiliation-wejaidmn|Wejai Domain]]—the house and its lord
-- [[place-wejai|Wejai]]—the mountain
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[affiliation-wejaidmn|Wejai Domain]]
+: the house and its lord
+
+[[place-wejai|Wejai]]
+: the mountain
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

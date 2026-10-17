@@ -58,10 +58,17 @@ A junior of The Sorvan, put on the wall of [[place-thaurzurgalis|Thaurzurgalis]]
 
 The **Sorvan** (_"the guard"_) is the imperial guard: the personal bodyguard of the Orzas, the emperor, and the keepers of order and justice within [[place-arvon|Arvon]] (the Inner City of [[place-orzara|Orzara City]]) itself. It stands apart from the [[affiliation-vylrnmltry|line legions]] in every way that matters. It recruits on its own authority, promotes through its own ranks, answers to no Dukran or Kamdor but to the throne directly, and is quartered not in a frontier camp but in the [[place-thaurzurgalis|Thaurzurgalis]] on the palace hill, the one fortress inside the **[Inner Wall]{.name data-type="place/structure"}**. It is elite, lavishly equipped and intensely political: the armed muscle of the court, and the instrument through which the Orzas makes his grip on his own capital physical.
 
-- **Type:** Imperial military institution; household guard and Inner City garrison
-- **Region of operation:** [[place-arvon|Arvon]], the Inner City of Orzara, and the imperial person wherever he travels
-- **Seat:** The Thaurzurgalis, on the palace hill within the Inner Wall
-- **Answerable to:** The reigning Orzas alone
+Type
+: Imperial military institution; household guard and Inner City garrison
+
+Region of operation
+: [[place-arvon|Arvon]], the Inner City of Orzara, and the imperial person wherever he travels
+
+Seat
+: The Thaurzurgalis, on the palace hill within the Inner Wall
+
+Answerable to
+: The reigning Orzas alone
 
 Its charge is twofold: the imperial person, and the peace of the Inner City. Within Arvon it is guard, garrison and magistrate's arm together. It wards the [[place-palvar|Palvar]], stands the gates and walls of the citadel, and keeps order among the _kurthoi_ (senators), priests, magistrates and great families who dwell or do business there. Its writ stops, sharply, at the Inner Wall. The vast city beyond is not the guard's to police. That work belongs to the [[affiliation-vylrnmltry|City Watch]], and the division is deliberate.
 
@@ -79,11 +86,20 @@ That closeness to power is also the institution's hazard. The elite standing tha
 
 ## Relations
 
-- **The Orzas**: patron, charge and sole master. The guard answers to the throne directly and to no intermediate command. The relationship is one of mutual dependence and mutual wariness.
-- **The [[affiliation-vylrnmltry|line legions and the Dukran]]**: a separate world. The guard takes no orders from the war command and fights no frontier campaigns. The legions eye the guardsmen's privileges with a mixture of envy and distrust.
-- **The [[affiliation-vylrnmltry|City Watch]]**: the guard's opposite number below the hill. The guard keeps the Inner City and the Watch keeps the rest. The guardsmen look down on the watchmen as glorified street-wardens, and the Watch returns the contempt with the resentment of men who do the unglamorous work of policing a million people.
-- **The [[affiliation-verdanorzara|Verdan Orzara]] and the civic courts**: they govern the city beyond the wall. The guard's jurisdiction inside the Inner City sits beside theirs, and above it.
-- **The court factions**: all of them court the guard. Its loyalty, real or purchased, is among the most consequential variables in any contest over the imperial succession.
+The Orzas
+: patron, charge and sole master. The guard answers to the throne directly and to no intermediate command. The relationship is one of mutual dependence and mutual wariness.
+
+The [[affiliation-vylrnmltry|line legions and the Dukran]]
+: a separate world. The guard takes no orders from the war command and fights no frontier campaigns. The legions eye the guardsmen's privileges with a mixture of envy and distrust.
+
+The [[affiliation-vylrnmltry|City Watch]]
+: the guard's opposite number below the hill. The guard keeps the Inner City and the Watch keeps the rest. The guardsmen look down on the watchmen as glorified street-wardens, and the Watch returns the contempt with the resentment of men who do the unglamorous work of policing a million people.
+
+The [[affiliation-verdanorzara|Verdan Orzara]] and the civic courts
+: they govern the city beyond the wall. The guard's jurisdiction inside the Inner City sits beside theirs, and above it.
+
+The court factions
+: all of them court the guard. Its loyalty, real or purchased, is among the most consequential variables in any contest over the imperial succession.
 
 ## Identifying Marks
 
@@ -99,8 +115,17 @@ The captaincy of the permanent palace detail is among the most trusted postings 
 
 ## See Also
 
-- [[place-thaurzurgalis|Thaurzurgalis]]—the guard's fortress on the palace hill
-- [[place-palvar|Palvar]]—the palace they protect
-- [[place-arvon|Arvon]]—the Inner City they garrison
-- [[affiliation-vylrnmltry|The Vylarian Military]]—the line legions and the City Watch, kept separate from the guard
-- [[affiliation-verdanorzara|Verdan Orzara]]—civic government and courts of the city beyond the wall
+[[place-thaurzurgalis|Thaurzurgalis]]
+: the guard's fortress on the palace hill
+
+[[place-palvar|Palvar]]
+: the palace they protect
+
+[[place-arvon|Arvon]]
+: the Inner City they garrison
+
+[[affiliation-vylrnmltry|The Vylarian Military]]
+: the line legions and the City Watch, kept separate from the guard
+
+[[affiliation-verdanorzara|Verdan Orzara]]
+: civic government and courts of the city beyond the wall

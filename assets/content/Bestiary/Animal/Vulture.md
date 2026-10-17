@@ -274,20 +274,29 @@ Vultures possess an extraordinary resistance to pathogens. Their stomach acid is
 
 ## Attributes
 
-- **Strength:** 4-7 (1d4+3)
+Strength
+: 4-7 (1d4+3)
 
-- **Endurance:** 7-10 (1d4+6)
+Endurance
+: 7-10 (1d4+6)
 
-- **Dexterity:** 11-16 (1d6+10)
+Dexterity
+: 11-16 (1d6+10)
 
-- **Agility:** 12-17 (1d6+11)
+Agility
+: 12-17 (1d6+11)
 
-- **Perception:** 15-20 (1d6+14)
+Perception
+: 15-20 (1d6+14)
 
-- **Aura:** 6-9 (1d4+5)
+Aura
+: 6-9 (1d4+5)
 
-- **Will:** 9-14 (1d6+8)
+Will
+: 9-14 (1d6+8)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

@@ -46,10 +46,17 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-- **Type:** Royal-chartered trade guilds; small federation of urban commercial institutions
-- **Region:** The kingdom of [[affiliation-okharis|Okharis]]—based in the three great temple-cities of **Zarhanis**, **Kaljekor**, and **Vuthraka**; activity extends into the surrounding savannah through tribal-clan trade relationships
-- **Authority:** Royal charter from the Okharik crown; each charter renewed at the accession of each new king
-- **Founded:** The major charters are ancient (predating the current dynasty by several centuries); the federation as a coordinating body is much newer (perhaps a century old)
+Type
+: Royal-chartered trade guilds; small federation of urban commercial institutions
+
+Region
+: The kingdom of [[affiliation-okharis|Okharis]]—based in the three great temple-cities of **Zarhanis**, **Kaljekor**, and **Vuthraka**; activity extends into the surrounding savannah through tribal-clan trade relationships
+
+Authority
+: Royal charter from the Okharik crown; each charter renewed at the accession of each new king
+
+Founded
+: The major charters are ancient (predating the current dynasty by several centuries); the federation as a coordinating body is much newer (perhaps a century old)
 
 ## Overview
 
@@ -96,19 +103,37 @@ Cash transactions at the festival markets typically use Khelathi copper qelu for
 
 ## Notable Figures
 
-- **Steward Mekhar Saharil**—current chair of the Council of the Three-Flame Charters; senior Crown Moneylender of Vuthraka; moderate political temperament; well-connected with the Gar-Hálzi chapter at Gar-Anlaghet.
-- **The Master of the King's Smiths**—typically the senior Crown-chartered metalworker; the position carries substantial weight at the Zarhanis court and is currently held by a master named **[Belthor Vakhin]{.name data-type="being/npc"}**, an Okharik of long service and conservative inclinations.
-- **The Captain of the River-Pilots**—the senior officer of the Vuthráka-based maritime guild; currently a woman named **[Sarena Velthrik]{.name data-type="being/npc"}**, the first woman to hold the captaincy in three generations; her election was contested and her tenure remains politically delicate.
-- **The Grand Master of the Royal Goldworkers**—head of the most prestigious of the chartered trades; the current holder, **[Auronak Beslin]{.name data-type="being/npc"}**, is an old man whose retirement is anticipated within the decade and whose succession is being quietly maneuvered over by several rival families.
+Steward Mekhar Saharil
+: current chair of the Council of the Three-Flame Charters; senior Crown Moneylender of Vuthraka; moderate political temperament; well-connected with the Gar-Hálzi chapter at Gar-Anlaghet.
+
+The Master of the King's Smiths
+: typically the senior Crown-chartered metalworker; the position carries substantial weight at the Zarhanis court and is currently held by a master named **[Belthor Vakhin]{.name data-type="being/npc"}**, an Okharik of long service and conservative inclinations.
+
+The Captain of the River-Pilots
+: the senior officer of the Vuthráka-based maritime guild; currently a woman named **[Sarena Velthrik]{.name data-type="being/npc"}**, the first woman to hold the captaincy in three generations; her election was contested and her tenure remains politically delicate.
+
+The Grand Master of the Royal Goldworkers
+: head of the most prestigious of the chartered trades; the current holder, **[Auronak Beslin]{.name data-type="being/npc"}**, is an old man whose retirement is anticipated within the decade and whose succession is being quietly maneuvered over by several rival families.
 
 ## Relations
 
-- **The Okharik Crown**—patron and ultimate authority. The Crown grants the charters, collects substantial revenues from charter dues, and depends on the Crown Moneylenders for both its own treasury services and the kingdom's commercial infrastructure. The relationship is one of mutual dependence with the Crown holding the decisive authority (charters can be revoked, though revocation is rare and consequential).
-- **The [[affiliation-garhalzi|Gar-Hálzi]]**—principal foreign-banking counterparty. The Crown Moneylenders maintain correspondent accounts with the Gar-Hálzi chapters at Gar-Anlaghet and Khelzuret; these accounts are the channel through which Okhárian commerce reaches the broader Northern Fertile Region. The relationships are professionally cordial; the Gar-Hálzi regards Okharis as a junior partner whose commercial scale is small but whose strategic position (controlling the southern rim of the Northern Fertile Region) makes the relationship worth maintaining.
-- **The [[affiliation-bthntrdhss|Bethuan Trade-Houses]]**—Bethuan commercial peer. Modest correspondent relationships exist but are limited; most cross-Bethuan-Okhárian commerce flows through Khelathi intermediaries rather than directly. The two systems have very different structures (Bethuan matriarchal-clan vs. Okhárian royal-charter) which makes direct correspondent integration difficult.
-- **The pastoral clans**—the kingdom's larger demographic and the source of the wool, leather, livestock, and craft goods on which the Crown Trades' export economy depends. The relationship is mediated through the festival markets and through the standing courtesy of the clan chieftains who have informal arrangements with specific Crown Moneylenders.
-- **Vylarian merchant traffic**—small but present. Vylarian Sea-port traders occasionally make the longer journey south to Okhárian territory for specialty goods (gold work, savannah herbs, hide products); the trade is conducted through a small number of specialist Heliónite merchant captains who maintain relationships with both the Crown Moneylenders and the Gar-Hálzi correspondent network.
-- **The [[affiliation-vezakuni|Vezakuni]]**—distant Taruzelian counterpart. No formal arrangements; Taruzelian merchants visiting Okharis convert currency through the Crown Moneylenders at the standard foreign-exchange spread.
+The Okharik Crown
+: patron and ultimate authority. The Crown grants the charters, collects substantial revenues from charter dues, and depends on the Crown Moneylenders for both its own treasury services and the kingdom's commercial infrastructure. The relationship is one of mutual dependence with the Crown holding the decisive authority (charters can be revoked, though revocation is rare and consequential).
+
+The [[affiliation-garhalzi|Gar-Hálzi]]
+: principal foreign-banking counterparty. The Crown Moneylenders maintain correspondent accounts with the Gar-Hálzi chapters at Gar-Anlaghet and Khelzuret; these accounts are the channel through which Okhárian commerce reaches the broader Northern Fertile Region. The relationships are professionally cordial; the Gar-Hálzi regards Okharis as a junior partner whose commercial scale is small but whose strategic position (controlling the southern rim of the Northern Fertile Region) makes the relationship worth maintaining.
+
+The [[affiliation-bthntrdhss|Bethuan Trade-Houses]]
+: Bethuan commercial peer. Modest correspondent relationships exist but are limited; most cross-Bethuan-Okhárian commerce flows through Khelathi intermediaries rather than directly. The two systems have very different structures (Bethuan matriarchal-clan vs. Okhárian royal-charter) which makes direct correspondent integration difficult.
+
+The pastoral clans
+: the kingdom's larger demographic and the source of the wool, leather, livestock, and craft goods on which the Crown Trades' export economy depends. The relationship is mediated through the festival markets and through the standing courtesy of the clan chieftains who have informal arrangements with specific Crown Moneylenders.
+
+Vylarian merchant traffic
+: small but present. Vylarian Sea-port traders occasionally make the longer journey south to Okhárian territory for specialty goods (gold work, savannah herbs, hide products); the trade is conducted through a small number of specialist Heliónite merchant captains who maintain relationships with both the Crown Moneylenders and the Gar-Hálzi correspondent network.
+
+The [[affiliation-vezakuni|Vezakuni]]
+: distant Taruzelian counterpart. No formal arrangements; Taruzelian merchants visiting Okharis convert currency through the Crown Moneylenders at the standard foreign-exchange spread.
 
 ## Identifying Marks
 

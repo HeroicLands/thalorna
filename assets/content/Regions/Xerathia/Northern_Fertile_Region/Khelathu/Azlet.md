@@ -16,5 +16,8 @@ The waiting is not idle. A drowned field owes labor to the temples and the works
 
 ## See Also
 
-- [[lore-khelathclndr|The Khelathi Calendar]]—the three seasons and the five days that close the year
-- [[lore-khelathiclt|Khelathi]]—the river's year as the people live it
+[[lore-khelathclndr|The Khelathi Calendar]]
+: the three seasons and the five days that close the year
+
+[[lore-khelathiclt|Khelathi]]
+: the river's year as the people live it

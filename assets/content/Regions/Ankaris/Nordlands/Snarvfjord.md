@@ -22,5 +22,8 @@ The name warns of the water: _snarv-_ is the hour before weather arrives, and th
 
 ## See Also
 
-- [[being-hnirvmylwise|Hnirmil the Wise]]—the counselor of the song, whose seat the court keeps
-- [[place-nrdlndsrgn|Nordlands]]—the region the fjord belongs to
+[[being-hnirvmylwise|Hnirmil the Wise]]
+: the counselor of the song, whose seat the court keeps
+
+[[place-nrdlndsrgn|Nordlands]]
+: the region the fjord belongs to

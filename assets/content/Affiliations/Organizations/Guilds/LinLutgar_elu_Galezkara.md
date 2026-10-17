@@ -56,5 +56,8 @@ Say a merchant house sends an agent with a purse and an offer for an inn near **
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The city whose inns its members keep
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-galezkara|Galezkara]]
+: The city whose inns its members keep
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

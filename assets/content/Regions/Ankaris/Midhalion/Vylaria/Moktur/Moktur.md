@@ -39,18 +39,36 @@ Moktur's settlements are few, fortified, and strung along the mountain valleys a
 
 **Towns.**
 
-- [[place-tyrellan|Tirellan]] (~15,000)—the provincial capital, seat of the military _therkos_ (governor).
-- [[place-ferrovan|Zargonara]] (~7,000)—the chief mining town, above the iron, copper and silver lodes.
-- [[place-dolvar|Dolvar]] (~6,000)—a legion fortress-town on the Vristwald frontier.
-- [[place-korrast|Korras]] (~5,000)—a fortified toll-town commanding a principal mountain pass.
-- [[place-stennvold|Stennvold]] (~4,000)—a high mining-and-smelting town.
-- [[place-pinnhald|Pinnhald]] (~3,000)—a timber town of the forested slopes, half-Varokh in custom.
-- [[place-sanctara|Ulthora]] (~2,000)—a temple town among the heights.
+[[place-tyrellan|Tirellan]] (~15,000)
+: the provincial capital, seat of the military _therkos_ (governor).
+
+[[place-ferrovan|Zargonara]] (~7,000)
+: the chief mining town, above the iron, copper and silver lodes.
+
+[[place-dolvar|Dolvar]] (~6,000)
+: a legion fortress-town on the Vristwald frontier.
+
+[[place-korrast|Korras]] (~5,000)
+: a fortified toll-town commanding a principal mountain pass.
+
+[[place-stennvold|Stennvold]] (~4,000)
+: a high mining-and-smelting town.
+
+[[place-pinnhald|Pinnhald]] (~3,000)
+: a timber town of the forested slopes, half-Varokh in custom.
+
+[[place-sanctara|Ulthora]] (~2,000)
+: a temple town among the heights.
 
 **Hamlets, camps and border communities.** Between the towns lie scattered settlements of 100–800 people: fortified herding steads, mining and cutting camps, watchtower-villages, and the [[lore-varokhiclt|Varokh]] communities that sit within Moktur's nominal borders but answer to no Vylarian magistrate. Among them are **[Greythorn]{.name data-type="place/settlement"}**, **[Ironcamp]{.name data-type="place/settlement"}**, **[Skarrholt]{.name data-type="place/settlement"}**, **[Vargmoot]{.name data-type="place/settlement"}**, **[Highfell]{.name data-type="place/settlement"}**, **[Drekkar's Steading]{.name data-type="place/settlement"}**, **[Wolfstead]{.name data-type="place/settlement"}**, **[Coldreach]{.name data-type="place/settlement"}** and **[Stennvik]{.name data-type="place/settlement"}**, several of them more Varokh than Vylarian in tongue and custom. By the empire's standards Moktur is thinly peopled, and its mountains hold far more sheep, ore and timber than men.
 
 ## See Also
 
-- [[affiliation-provncmktr|Province of Moktur]]—the province that holds this land
-- [[place-vylariargn|Vylaria Region]]—the enclosing region
-- [[place-tyrellan|Tirellan]]—the provincial capital
+[[affiliation-provncmktr|Province of Moktur]]
+: the province that holds this land
+
+[[place-vylariargn|Vylaria Region]]
+: the enclosing region
+
+[[place-tyrellan|Tirellan]]
+: the provincial capital

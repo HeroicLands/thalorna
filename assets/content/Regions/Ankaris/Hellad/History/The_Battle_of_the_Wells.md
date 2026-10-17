@@ -76,7 +76,14 @@ The fighting went on for eleven days. The host attacked the spring-forts one aft
 
 ## See Also
 
-- [[place-eastrnmrch|Eastern March]]—the district the spring-forts became
-- [[place-thirstground|The Thirsting Ground]]—the field the host left
-- [[lore-heladcompact|The Compact of the Five]]—the pact made the year after
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the country the host came from
+[[place-eastrnmrch|Eastern March]]
+: the district the spring-forts became
+
+[[place-thirstground|The Thirsting Ground]]
+: the field the host left
+
+[[lore-heladcompact|The Compact of the Five]]
+: the pact made the year after
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the country the host came from

@@ -26,6 +26,11 @@ The gate-house is walled, and the wall is the one piece of fortification in the 
 
 ## See Also
 
-- [[place-rajapurjnpd|Rajepur Janapoda]]—the land
-- [[affiliation-rajaprjnpd|Rajepur Janapoda]]—the temple-republic that holds it
-- [[lore-rjprprotct|Rajepur Under Protection]]—the season the gate was lost
+[[place-rajapurjnpd|Rajepur Janapoda]]
+: the land
+
+[[affiliation-rajaprjnpd|Rajepur Janapoda]]
+: the temple-republic that holds it
+
+[[lore-rjprprotct|Rajepur Under Protection]]
+: the season the gate was lost

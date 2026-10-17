@@ -445,27 +445,37 @@ Afzandah is driven by two competing desires that threaten to tear her life in op
 
 ### Strengths
 
-- **Masterful Metalcraft**: Afzandah's technical skill in metalworking lets her create weapons and armor of superior quality and unique design. Her weapons balance lethal function with artistic beauty in ways that few craftspeople can achieve.
+Masterful Metalcraft
+: Afzandah's technical skill in metalworking lets her create weapons and armor of superior quality and unique design. Her weapons balance lethal function with artistic beauty in ways that few craftspeople can achieve.
 
-- **Detailed Perception**: Her perception and drawing ability give her an eye for structural detail, material properties, and visual nuance. She can spot flaws in materials and design with great accuracy.
+Detailed Perception
+: Her perception and drawing ability give her an eye for structural detail, material properties, and visual nuance. She can spot flaws in materials and design with great accuracy.
 
-- **Creative Innovation**: Afzandah constantly imagines new designs, novel approaches to ancient problems, and experimental applications of traditional techniques. She refuses to be bound by "how things have always been done."
+Creative Innovation
+: Afzandah constantly imagines new designs, novel approaches to ancient problems, and experimental applications of traditional techniques. She refuses to be bound by "how things have always been done."
 
-- **Resourcefulness in Scarcity**: Her skill in mineralogy and tracking, combined with survival skills, makes her capable of sourcing rare materials and even prospecting for valuable stones herself when commissions require extraordinary components.
+Resourcefulness in Scarcity
+: Her skill in mineralogy and tracking, combined with survival skills, makes her capable of sourcing rare materials and even prospecting for valuable stones herself when commissions require extraordinary components.
 
-- **Dual Competence**: Her skills in melee, throwing, archery, and climbing make her capable in the field, a rarity among workshop-bound craftspeople.
+Dual Competence
+: Her skills in melee, throwing, archery, and climbing make her capable in the field, a rarity among workshop-bound craftspeople.
 
 ### Weaknesses
 
-- **Artistic Stubbornness**: Afzandah's high creativity and strong reasoning often manifest as inflexibility. Once she has determined the "correct" way to execute a design, she resists clients' requests and practical modifications, sometimes to the detriment of commissions.
+Artistic Stubbornness
+: Afzandah's high creativity and strong reasoning often manifest as inflexibility. Once she has determined the "correct" way to execute a design, she resists clients' requests and practical modifications, sometimes to the detriment of commissions.
 
-- **Commercial Blindness**: She struggles to understand or appreciate the commercial value of her work, often underpricing her best pieces or refusing profitable but creatively "uninteresting" commissions. This has left her perpetually struggling financially despite her reputation.
+Commercial Blindness
+: She struggles to understand or appreciate the commercial value of her work, often underpricing her best pieces or refusing profitable but creatively "uninteresting" commissions. This has left her perpetually struggling financially despite her reputation.
 
-- **Restlessness and Wanderlust**: Her indifference to others' feelings and her driving need for travel and adventure make her poor at sustained client relationships. She can abandon a workshop full of half-finished commissions if the call to adventure grows strong enough.
+Restlessness and Wanderlust
+: Her indifference to others' feelings and her driving need for travel and adventure make her poor at sustained client relationships. She can abandon a workshop full of half-finished commissions if the call to adventure grows strong enough.
 
-- **Low Interpersonal Grace**: Neither eloquent nor warm, she is poor at charm and persuasion. She cannot negotiate effectively, cannot manipulate social situations, and often alienates potential patrons with undiplomatic honesty.
+Low Interpersonal Grace
+: Neither eloquent nor warm, she is poor at charm and persuasion. She cannot negotiate effectively, cannot manipulate social situations, and often alienates potential patrons with undiplomatic honesty.
 
-- **Physical Limitations in Combat**: While capable, her strength is modest. In prolonged martial engagement, she would be outmatched by dedicated warriors, limiting her ability to truly "test" her creations in the field.
+Physical Limitations in Combat
+: While capable, her strength is modest. In prolonged martial engagement, she would be outmatched by dedicated warriors, limiting her ability to truly "test" her creations in the field.
 
 ## Social
 
@@ -498,12 +508,17 @@ The Devotees of Sirvadar
 
 ## Plot Hooks
 
-1. **The Caravan Master's Commission**: A caravan master named Hesud al-Kethrim arrives in Kethramír with an extraordinary offer. He has been hired by a distant noble to assemble a company of capable warriors and craftspeople for a dangerous expedition into the [[place-shtrdpks|Shattered Peaks]], where mithral deposits are rumored to exist. He seeks Afzandah specifically, having heard that she can work with exotic materials under harsh conditions. The commission is substantial—enough to fund a year of experimental work—but it requires her personal involvement in the expedition's field operations. Hesud is vague about the precise dangers, mentioning only "environmental hazards" and "territorial complications." Afzandah's knowledge of mineralogy and material sourcing is what he needs, but she would be away from her workshop for months. The real danger is that Hesud's patron is actually the sorcerer-lord Nyevasa, who seeks mithral not for legitimate commerce but for a dark ritual. Afzandah and her party would discover this truth only after accepting the contract.
+The Caravan Master's Commission
+: A caravan master named Hesud al-Kethrim arrives in Kethramír with an extraordinary offer. He has been hired by a distant noble to assemble a company of capable warriors and craftspeople for a dangerous expedition into the [[place-shtrdpks|Shattered Peaks]], where mithral deposits are rumored to exist. He seeks Afzandah specifically, having heard that she can work with exotic materials under harsh conditions. The commission is substantial—enough to fund a year of experimental work—but it requires her personal involvement in the expedition's field operations. Hesud is vague about the precise dangers, mentioning only "environmental hazards" and "territorial complications." Afzandah's knowledge of mineralogy and material sourcing is what he needs, but she would be away from her workshop for months. The real danger is that Hesud's patron is actually the sorcerer-lord Nyevasa, who seeks mithral not for legitimate commerce but for a dark ritual. Afzandah and her party would discover this truth only after accepting the contract.
 
-2. **The Stolen Masterwork**: One of Afzandah's greatest creations—a ceremonial curved blade commissioned by Lady Sava d'Anur three years ago—vanishes from a secure vault in the noble's estate. Investigation reveals that the theft was neither simple burglary nor accident: the weapon was specifically targeted by a group of assassins affiliated with a rival noble house. Sava fears the blade will be used to commit murder, and then the evidence of stolen craftsmanship will create a scandal that damages both their reputations. She asks Afzandah to help track down the weapon before it can be used. The search would take Afzandah out of her workshop and into unfamiliar territory.
+The Stolen Masterwork
+: One of Afzandah's greatest creations—a ceremonial curved blade commissioned by Lady Sava d'Anur three years ago—vanishes from a secure vault in the noble's estate. Investigation reveals that the theft was neither simple burglary nor accident: the weapon was specifically targeted by a group of assassins affiliated with a rival noble house. Sava fears the blade will be used to commit murder, and then the evidence of stolen craftsmanship will create a scandal that damages both their reputations. She asks Afzandah to help track down the weapon before it can be used. The search would take Afzandah out of her workshop and into unfamiliar territory.
 
-3. **The Experimental Forge**: An eccentric scholar and self-proclaimed alchemist named **Pazhvan Tirazun** arrives at Afzandah's workshop with a proposal that captivates her. He claims to have discovered a method to infuse metalwork with elemental essences, creating weapons that carry magical properties inherent to their material structure. Pazhvan offers to share his research in exchange for a specific weapon crafted to his exacting specifications. The project consumes her attention for months, but gradually she realizes that Pazhvan's "essences" are derived from dangerous alchemical processes, and the weapon they are creating is designed to channel something far darker and more unstable than mere elemental force. Her choices are to continue the project, sabotage it, or betray Pazhvan to the authorities.
+The Experimental Forge
+: An eccentric scholar and self-proclaimed alchemist named **Pazhvan Tirazun** arrives at Afzandah's workshop with a proposal that captivates her. He claims to have discovered a method to infuse metalwork with elemental essences, creating weapons that carry magical properties inherent to their material structure. Pazhvan offers to share his research in exchange for a specific weapon crafted to his exacting specifications. The project consumes her attention for months, but gradually she realizes that Pazhvan's "essences" are derived from dangerous alchemical processes, and the weapon they are creating is designed to channel something far darker and more unstable than mere elemental force. Her choices are to continue the project, sabotage it, or betray Pazhvan to the authorities.
 
-4. **The Wanderer's Return**: An old acquaintance from Afzandah's years of apprenticeship—a traveling merchant named **Mehzar Khordavan**—returns to Kethramír after a decade away. Mehzar once purchased several of Afzandah's early works and used them in dangerous mercenary work across the known world. He brings back stories of how her weapons saved his life, turned battles, and earned respect in places beyond the desert. More importantly, he brings an invitation: a warlord in the eastern kingdoms has heard of Afzandah's creations and wants to commission an entire arsenal. The pay is extraordinary, but the warlord's reputation is dark—rumors of slavery, conquest, and cruelty. Mehzar insists the stories are exaggerated and that Afzandah's work would only strengthen the position of a powerful leader. The chance to see her creations used in earnest tempts her.
+The Wanderer's Return
+: An old acquaintance from Afzandah's years of apprenticeship—a traveling merchant named **Mehzar Khordavan**—returns to Kethramír after a decade away. Mehzar once purchased several of Afzandah's early works and used them in dangerous mercenary work across the known world. He brings back stories of how her weapons saved his life, turned battles, and earned respect in places beyond the desert. More importantly, he brings an invitation: a warlord in the eastern kingdoms has heard of Afzandah's creations and wants to commission an entire arsenal. The pay is extraordinary, but the warlord's reputation is dark—rumors of slavery, conquest, and cruelty. Mehzar insists the stories are exaggerated and that Afzandah's work would only strengthen the position of a powerful leader. The chance to see her creations used in earnest tempts her.
 
-5. **The Challenge of the Desert Kings**: A gathering of desert warriors and craftspeople is announced—a competition and festival held once every seven years. The Challenge features tests of combat prowess, craftsmanship, and survival. For the first time in a decade, the artisan categories include a specific event: creating a functional weapon under pressure, in full view of judges and spectators. Victory would cement Afzandah's reputation and earn her contracts beyond the [[place-khzryndsrtrgn|Khazryn Desert]]. However, one of the competitors is her old rival, Thordun Blackforge, who has been training intensely and has acquired some advantage—perhaps a powerful new technique or mysterious sponsorship. Afzandah must travel to the Challenge site, prepare her greatest work under the scrutiny of the Desert Kings, and face down a competitor who has made it clear he intends to humiliate her in front of the entire region's craftspeople.
+The Challenge of the Desert Kings
+: A gathering of desert warriors and craftspeople is announced—a competition and festival held once every seven years. The Challenge features tests of combat prowess, craftsmanship, and survival. For the first time in a decade, the artisan categories include a specific event: creating a functional weapon under pressure, in full view of judges and spectators. Victory would cement Afzandah's reputation and earn her contracts beyond the [[place-khzryndsrtrgn|Khazryn Desert]]. However, one of the competitors is her old rival, Thordun Blackforge, who has been training intensely and has acquired some advantage—perhaps a powerful new technique or mysterious sponsorship. Afzandah must travel to the Challenge site, prepare her greatest work under the scrutiny of the Desert Kings, and face down a competitor who has made it clear he intends to humiliate her in front of the entire region's craftspeople.

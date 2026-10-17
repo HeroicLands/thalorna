@@ -821,12 +821,23 @@ Dunhari is the recited verse-speech of the deep desert. It rolls on _v_ and _r_ 
 
 Dunhari employs a moderate consonant inventory with emphasis on continuants and softer articulations:
 
-- **Stops**: /p/, /b/, /t/, /d/, /k/, /g/, /q/ (uvular)
-- **Fricatives**: /f/, /v/, /s/, /z/, /h/, /sh/, /zh/, /kh/ (velar), /gh/ (voiced velar)
-- **Affricate**: /j/
-- **Nasals**: /m/, /n/
-- **Liquids**: /r/, /l/
-- **Semivowels**: /w/, /y/
+Stops
+: /p/, /b/, /t/, /d/, /k/, /g/, /q/ (uvular)
+
+Fricatives
+: /f/, /v/, /s/, /z/, /h/, /sh/, /zh/, /kh/ (velar), /gh/ (voiced velar)
+
+Affricate
+: /j/
+
+Nasals
+: /m/, /n/
+
+Liquids
+: /r/, /l/
+
+Semivowels
+: /w/, /y/
 
 Characteristic of Dunhari is the prevalence of continuants and approximants, creating a flowing, lyrical quality. Names like _Vahdarun, Korushan, Yazharan, Parvash, Givandar_ feature smooth transitions between consonants and vowels.
 
@@ -836,20 +847,36 @@ The velar fricatives _kh_ and _gh_ appear frequently in poetic registers but are
 
 Dunhari employs a five-vowel system with contrastive length and quality:
 
-- **a**—open front vowel (short or long)
-- **e**—mid front vowel (short or long)
-- **i**—close front vowel
-- **o**—mid back vowel (short or long)
-- **u**—close back vowel (short or long)
+a
+: open front vowel (short or long)
+
+e
+: mid front vowel (short or long)
+
+i
+: close front vowel
+
+o
+: mid back vowel (short or long)
+
+u
+: close back vowel (short or long)
 
 Long vowels carry significant semantic and poetic weight. The interplay of vowel length creates the characteristic rhythm of Dunhari poetry.
 
 Diphthongs are common and phonologically significant:
 
-- **ai**—as in _Jamaris, Afshanar_
-- **au**—as in _Bahrazad, Qavadar_
-- **ei**—as in _Farvan, Razanash_
-- **ou**—as in _Goshanad, Rostadar_
+ai
+: as in _Jamaris, Afshanar_
+
+au
+: as in _Bahrazad, Qavadar_
+
+ei
+: as in _Farvan, Razanash_
+
+ou
+: as in _Goshanad, Rostadar_
 
 These diphthongs are fundamental to the melodic quality of the language.
 
@@ -935,15 +962,20 @@ Amradi is the register of poetry competitions, diplomatic negotiations, and cour
 
 ## Sample Phrases
 
-1. **Khordesh-an velmuz danaz**—"The desert teaches patience" (lit. "Desert-place knowledge gives")
+Khordesh-an velmuz danaz
+: "The desert teaches patience" (lit. "Desert-place knowledge gives")
 
-2. **Shuvar khorvaz miran sezhakh**—"Honor flows like water through the seasons" (traditional nomadic saying)
+Shuvar khorvaz miran sezhakh
+: "Honor flows like water through the seasons" (traditional nomadic saying)
 
-3. **Forreh golvan azardam**—"Beauty endures in memory" (poetic maxim)
+Forreh golvan azardam
+: "Beauty endures in memory" (poetic maxim)
 
-4. **Mehrun parvandar sazadar**—"The moon guides the truthful traveler" (navigational blessing)
+Mehrun parvandar sazadar
+: "The moon guides the truthful traveler" (navigational blessing)
 
-5. **Shirzari zorvun varidan**—"The lion's courage inspires generations" (courtly saying)
+Shirzari zorvun varidan
+: "The lion's courage inspires generations" (courtly saying)
 
 ## Lexicon
 

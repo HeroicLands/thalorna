@@ -72,6 +72,11 @@ The Synod governs from Ravenmoor, with no head named outside its closed session.
 
 ## See Also
 
-- [[affiliation-kingdmdnvr|The Kingdom of Dúnavarre]]—the realm the Synod governs
-- [[place-ravenmoor|Ravenmoor]]—the seat and the empty chair
-- [[affiliation-ordoarcanis|The Thordimalon]]—the order whose advisors took the offices
+[[affiliation-kingdmdnvr|The Kingdom of Dúnavarre]]
+: the realm the Synod governs
+
+[[place-ravenmoor|Ravenmoor]]
+: the seat and the empty chair
+
+[[affiliation-ordoarcanis|The Thordimalon]]
+: the order whose advisors took the offices

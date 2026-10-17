@@ -98,7 +98,14 @@ The market peace takes its present form from that day. A killing at Waldburg's m
 
 ## See Also
 
-- [[place-waldburg|Waldburg]]—the crossing, the market and the stone
-- [[lore-stormveldtkn|The Taking of Stormveld]]—the taking that made the buyers
-- [[place-vrystwldrvrs|Vristwald Rivers]]—the water the captives went down
-- [[lore-wintertally|The Tally of Winters]]—the Thrall Rivers as the forest counts them
+[[place-waldburg|Waldburg]]
+: the crossing, the market and the stone
+
+[[lore-stormveldtkn|The Taking of Stormveld]]
+: the taking that made the buyers
+
+[[place-vrystwldrvrs|Vristwald Rivers]]
+: the water the captives went down
+
+[[lore-wintertally|The Tally of Winters]]
+: the Thrall Rivers as the forest counts them

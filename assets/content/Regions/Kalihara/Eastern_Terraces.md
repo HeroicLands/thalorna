@@ -34,7 +34,14 @@ The terraces are the easiest country in the interior to cross, a day or two alon
 
 ## See Also
 
-- [[place-klhrbowl|The Great Bowl]]—the basin the terraces lie in
-- [[place-mirthaan|Mirthaan]]—the sanctuary among the terraces
-- [[place-klhrcldpss|The Cloud Pass]]—the road over the Ring above them
-- [[place-klhrkthrgap|The Kuethori Gap]]—where the lake that waters them runs out
+[[place-klhrbowl|The Great Bowl]]
+: the basin the terraces lie in
+
+[[place-mirthaan|Mirthaan]]
+: the sanctuary among the terraces
+
+[[place-klhrcldpss|The Cloud Pass]]
+: the road over the Ring above them
+
+[[place-klhrkthrgap|The Kuethori Gap]]
+: where the lake that waters them runs out

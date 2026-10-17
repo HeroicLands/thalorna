@@ -31,4 +31,5 @@ The obligation is the vow's own terms, for life, whatever those terms were. Wher
 
 ## See Also
 
-- [[affiliation-varakpnthn|Varnuka Pantheon]]—the gods whose ordeals confer the vow
+[[affiliation-varakpnthn|Varnuka Pantheon]]
+: the gods whose ordeals confer the vow

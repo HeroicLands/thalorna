@@ -58,6 +58,11 @@ How the line ended is the thing nobody says. The last king laid out a pleasure-h
 
 ## See Also
 
-- [[affiliation-vyalendra2|Vyalendra]]—the city-state the Council governs
-- [[place-vyalendra3|Vyalendra]]—the city and its palace quarter
-- [[affiliation-twilighths|The Twilight House]] · [[place-sandhyagrha|Sandyagriha]]—the House and the king's pleasure-house
+[[affiliation-vyalendra2|Vyalendra]]
+: the city-state the Council governs
+
+[[place-vyalendra3|Vyalendra]]
+: the city and its palace quarter
+
+[[affiliation-twilighths|The Twilight House]] · [[place-sandhyagrha|Sandyagriha]]
+: the House and the king's pleasure-house

@@ -445,19 +445,37 @@ Raiaku Zekmeta drives himself forward by a singular obsession: to create the per
 
 ### Strengths
 
-- **Master Metalworking:** Raiaku's technical mastery has no equal across the empire; his hands can coax metal into forms others deemed impossible. His skill with both common and rare alloys is complete.
-- **Uncompromising Standards:** He refuses to compromise on quality, which has made his name synonymous with excellence in weaponcraft. He will reject commissions that cannot meet his rigorous specifications.
-- **Deep Knowledge:** Beyond metalcraft, Raiaku possesses deep knowledge of geology, mineral composition, weapon design principles, and the historical techniques of ancient masters—knowledge accumulated across five decades of intensive study.
-- **Ritual Expertise:** His devotion to Uzn'era has made him skilled in ceremonial craft and ritual metalworking; weapons blessed through his hands are said to carry divine favor.
-- **Leadership and Command:** Despite his age, Raiaku commands immediate respect and loyalty from those in his sphere, acting as a moral anchor and arbiter in disputes among craftspeople.
+Master Metalworking
+: Raiaku's technical mastery has no equal across the empire; his hands can coax metal into forms others deemed impossible. His skill with both common and rare alloys is complete.
+
+Uncompromising Standards
+: He refuses to compromise on quality, which has made his name synonymous with excellence in weaponcraft. He will reject commissions that cannot meet his rigorous specifications.
+
+Deep Knowledge
+: Beyond metalcraft, Raiaku possesses deep knowledge of geology, mineral composition, weapon design principles, and the historical techniques of ancient masters—knowledge accumulated across five decades of intensive study.
+
+Ritual Expertise
+: His devotion to Uzn'era has made him skilled in ceremonial craft and ritual metalworking; weapons blessed through his hands are said to carry divine favor.
+
+Leadership and Command
+: Despite his age, Raiaku commands immediate respect and loyalty from those in his sphere, acting as a moral anchor and arbiter in disputes among craftspeople.
 
 ### Weaknesses
 
-- **Unbending Rigidity:** His refusal to bend standards or acknowledge merit in different approaches has cost him opportunities and business; many nobles grow impatient waiting for his painstaking work.
-- **Age and Mortality:** His movements have slowed considerably, and his eyes, though sharp, tire more quickly than in youth. He tires more easily and recovers from injury more slowly.
-- **Emotional Distance:** His devotion to perfection comes at the cost of personal relationships; he has outlived his wife by a decade and maintains only distant connections to his grown children.
-- **Dismissiveness of Innovation:** While traditional knowledge is his strength, he can be blind to new techniques or unconventional approaches that might improve his craft, viewing them as shortcuts or gimmicks.
-- **Vulnerability to Manipulation:** His deep sense of honor makes him susceptible to those who appeal to his pride or his principles, potentially drawing him into situations not in his interest.
+Unbending Rigidity
+: His refusal to bend standards or acknowledge merit in different approaches has cost him opportunities and business; many nobles grow impatient waiting for his painstaking work.
+
+Age and Mortality
+: His movements have slowed considerably, and his eyes, though sharp, tire more quickly than in youth. He tires more easily and recovers from injury more slowly.
+
+Emotional Distance
+: His devotion to perfection comes at the cost of personal relationships; he has outlived his wife by a decade and maintains only distant connections to his grown children.
+
+Dismissiveness of Innovation
+: While traditional knowledge is his strength, he can be blind to new techniques or unconventional approaches that might improve his craft, viewing them as shortcuts or gimmicks.
+
+Vulnerability to Manipulation
+: His deep sense of honor makes him susceptible to those who appeal to his pride or his principles, potentially drawing him into situations not in his interest.
 
 ## Social
 
@@ -493,12 +511,17 @@ City Blacksmiths' Guild
 
 ## Plot Hooks
 
-1. **The Perfect Metal**: A merchant arrives in the city claiming to possess an ingot of meteoric iron, a material that fell from the heavens itself. Raiaku Zekmeta has heard legends of such metal—impossibly strong, impossibly rare—but is skeptical of the merchant's claims. The party is contracted to authenticate the material or track down its true origin, only to discover that the meteor fragment may not have come from the heavens at all, but from a fell sorcery involving a dead god's burial site. Raiaku becomes obsessed with obtaining the metal, potentially drawing the party into dangerous mystical territory they hadn't anticipated.
+The Perfect Metal
+: A merchant arrives in the city claiming to possess an ingot of meteoric iron, a material that fell from the heavens itself. Raiaku Zekmeta has heard legends of such metal—impossibly strong, impossibly rare—but is skeptical of the merchant's claims. The party is contracted to authenticate the material or track down its true origin, only to discover that the meteor fragment may not have come from the heavens at all, but from a fell sorcery involving a dead god's burial site. Raiaku becomes obsessed with obtaining the metal, potentially drawing the party into dangerous mystical territory they hadn't anticipated.
 
-2. **The Broken Blade of Prophecy**: A warrior arrives at Raiaku's forge with a shattered sword of extraordinary make, claiming it was broken in heroic circumstance and must be reforged to fulfill an ancient prophecy. Yet Raiaku, examining the fractures, realizes that the blade's original forging contains techniques he has never encountered—suggesting it was created by a master smith from a previous age or even a foreign land. He insists on investigating the blade's origins before attempting reforging, engaging the party to locate historical records, interview the warrior's ancestors' companions, or even commune with the spirit of the blade's original creator through magical means.
+The Broken Blade of Prophecy
+: A warrior arrives at Raiaku's forge with a shattered sword of extraordinary make, claiming it was broken in heroic circumstance and must be reforged to fulfill an ancient prophecy. Yet Raiaku, examining the fractures, realizes that the blade's original forging contains techniques he has never encountered—suggesting it was created by a master smith from a previous age or even a foreign land. He insists on investigating the blade's origins before attempting reforging, engaging the party to locate historical records, interview the warrior's ancestors' companions, or even commune with the spirit of the blade's original creator through magical means.
 
-3. **The Apprentice's Secret**: One of Raiaku's trusted apprentices confesses to the party (privately) that the master has grown obsessed with creating a weapon of legend—one so perfect that it approaches divinity. The apprentice fears Raiaku is sacrificing his ethics and dealing with unsavory contacts, including dark alchemists and blood-cultists, to obtain materials for this final masterwork. The party can confront Raiaku, investigate the suspicious contacts themselves, or attempt an intervention that respects the old smith's dignity and autonomy.
+The Apprentice's Secret
+: One of Raiaku's trusted apprentices confesses to the party (privately) that the master has grown obsessed with creating a weapon of legend—one so perfect that it approaches divinity. The apprentice fears Raiaku is sacrificing his ethics and dealing with unsavory contacts, including dark alchemists and blood-cultists, to obtain materials for this final masterwork. The party can confront Raiaku, investigate the suspicious contacts themselves, or attempt an intervention that respects the old smith's dignity and autonomy.
 
-4. **Thieves of Craft**: The party discovers that an enemy faction is systematically stealing designs, materials, and even half-completed works from Raiaku's forge. Investigation reveals that a rival nation is attempting to reverse-engineer the secrets of Au'Khelathu's superior weaponcraft, and Raiaku's work is their primary target. Raiaku hires the party to identify the thieves, reclaim his works, and establish security. However, the deeper investigation reveals that one of his own apprentices may be involved—complicating the question of justice and mercy that Raiaku himself struggles with.
+Thieves of Craft
+: The party discovers that an enemy faction is systematically stealing designs, materials, and even half-completed works from Raiaku's forge. Investigation reveals that a rival nation is attempting to reverse-engineer the secrets of Au'Khelathu's superior weaponcraft, and Raiaku's work is their primary target. Raiaku hires the party to identify the thieves, reclaim his works, and establish security. However, the deeper investigation reveals that one of his own apprentices may be involved—complicating the question of justice and mercy that Raiaku himself struggles with.
 
-5. **The Curse of the Blade**: A warrior wielding one of Raiaku's famous swords returns dying, claiming the weapon has become cursed and turns against its wielder. Multiple other sword owners report strange occurrences. Raiaku is initially incredulous—his blades are forged with blessing, not bane—but investigation suggests that someone has been performing dark rituals over his completed works, corrupting them after they've left his care. The party must track down the perpetrator while Raiaku attempts to determine which of his creations have been tainted and whether they can be cleansed or must be destroyed.
+The Curse of the Blade
+: A warrior wielding one of Raiaku's famous swords returns dying, claiming the weapon has become cursed and turns against its wielder. Multiple other sword owners report strange occurrences. Raiaku is initially incredulous—his blades are forged with blessing, not bane—but investigation suggests that someone has been performing dark rituals over his completed works, corrupting them after they've left his care. The party must track down the perpetrator while Raiaku attempts to determine which of his creations have been tainted and whether they can be cleansed or must be destroyed.

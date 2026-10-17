@@ -20,4 +20,5 @@ data:
 
 ## See Also
 
-- [[place-gaulegirunome|Gau-Legiru]]—The selat country that holds it
+[[place-gaulegirunome|Gau-Legiru]]
+: The selat country that holds it

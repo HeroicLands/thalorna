@@ -29,11 +29,19 @@ Behind the tombs lies ordinary [[lore-khelathiclt|Khelathi]] country. Villages a
 
 ## Settlements
 
-- [[place-anzet|Anzet]] (~24,000)—the selat capital and the seat of the Halzi'a, home of the chief temple of [[affiliation-hezmuiri|Faith of Hezmu'iri]] and its estates.
-- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
+[[place-anzet|Anzet]] (~24,000)
+: the selat capital and the seat of the Halzi'a, home of the chief temple of [[affiliation-hezmuiri|Faith of Hezmu'iri]] and its estates.
+
+The villages and estate-towns
+: the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatanztqlt|The Selat of Anzet-Qelt]]—the selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the enclosing region
-- [[place-anzet|Anzet]]—selat capital
+[[affiliation-selatanztqlt|The Selat of Anzet-Qelt]]
+: the selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the enclosing region
+
+[[place-anzet|Anzet]]
+: selat capital

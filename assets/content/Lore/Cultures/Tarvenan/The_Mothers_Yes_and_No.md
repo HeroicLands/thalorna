@@ -196,8 +196,17 @@ Bed.
 
 ## See Also
 
-- [[lore-tarvenanclt|Tarvenan]]—the Mother, her caves and wise-women, the oath stone and the hail
-- [[affiliation-lusinia|Faith of Lusinia]]—the World-Weaver and her wheel
-- [[affiliation-brazemas|Faith of Brazemas]]—the Thunderer and the Vigil on the high places
-- [[affiliation-ardavon|Faith of Árdavon]]—the god of gates and oaths, and his two faces
-- [[lore-pelwarmigr|The Pelwar Migration]]—the people who came over the mountains from the east
+[[lore-tarvenanclt|Tarvenan]]
+: the Mother, her caves and wise-women, the oath stone and the hail
+
+[[affiliation-lusinia|Faith of Lusinia]]
+: the World-Weaver and her wheel
+
+[[affiliation-brazemas|Faith of Brazemas]]
+: the Thunderer and the Vigil on the high places
+
+[[affiliation-ardavon|Faith of Árdavon]]
+: the god of gates and oaths, and his two faces
+
+[[lore-pelwarmigr|The Pelwar Migration]]
+: the people who came over the mountains from the east

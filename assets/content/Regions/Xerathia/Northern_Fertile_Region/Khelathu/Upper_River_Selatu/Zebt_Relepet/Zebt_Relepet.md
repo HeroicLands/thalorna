@@ -21,7 +21,14 @@ data:
 
 ## See Also
 
-- [[affiliation-selatzbtrlpt|The Selat of Zebt-Relepet]]—Parent selat
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-wethur|Faith of Weth'ur]]—Patron cult
+[[affiliation-selatzbtrlpt|The Selat of Zebt-Relepet]]
+: Parent selat
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-wethur|Faith of Weth'ur]]
+: Patron cult

@@ -445,17 +445,31 @@ Knilthann's driving force is the preservation of cultural memory and the validat
 
 ### Strengths
 
-- **Master Orator**: Knilthann possesses a voice of extraordinary range and power, capable of enthralling audiences from intimate chambers to vast feasting halls. His command of vocal techniques allows him to play on emotion with exact control.
-- **Encyclopedic Memory**: He has committed to perfect recollection the vast corpus of northern sagas, genealogies, historical chronicles, and mythological narratives—a living library of accumulated cultural knowledge.
-- **Unquestionable Authority**: His thirty-year reputation and position within the Skalds' Guild grant him unequaled credibility when authenticating tales, resolving disputes about proper traditions, and influencing cultural opinion among the nobility.
-- **Seasoned Warrior's Discipline**: Though he has long abandoned combat, his youth spent among fighters has given him understanding of warfare, strategy, and the warrior's code that lends authenticity to his martial narratives.
+Master Orator
+: Knilthann possesses a voice of extraordinary range and power, capable of enthralling audiences from intimate chambers to vast feasting halls. His command of vocal techniques allows him to play on emotion with exact control.
+
+Encyclopedic Memory
+: He has committed to perfect recollection the vast corpus of northern sagas, genealogies, historical chronicles, and mythological narratives—a living library of accumulated cultural knowledge.
+
+Unquestionable Authority
+: His thirty-year reputation and position within the Skalds' Guild grant him unequaled credibility when authenticating tales, resolving disputes about proper traditions, and influencing cultural opinion among the nobility.
+
+Seasoned Warrior's Discipline
+: Though he has long abandoned combat, his youth spent among fighters has given him understanding of warfare, strategy, and the warrior's code that lends authenticity to his martial narratives.
 
 ### Weaknesses
 
-- **Rigidity**: Knilthann is constitutionally resistant to novelty and change, viewing new approaches as inherently inferior rather than simply different. This blindness costs him opportunities and alienates potential allies.
-- **Compositional Stagnation**: While he has no equal in reciting existing material, he has largely ceased creating original works, believing that new compositions cannot match the refined perfection of ancient sagas.
-- **Dismissive of Youth**: His tendency to view younger skalds as shallow imitators without seeing their real talents blinds him to the possibility of mentorship or productive collaboration.
-- **Vulnerability to Irrelevance**: Despite his current eminence, Knilthann harbors deep anxiety about becoming outdated, which manifests as aggressive defensiveness of traditional methods and scorn for alternatives.
+Rigidity
+: Knilthann is constitutionally resistant to novelty and change, viewing new approaches as inherently inferior rather than simply different. This blindness costs him opportunities and alienates potential allies.
+
+Compositional Stagnation
+: While he has no equal in reciting existing material, he has largely ceased creating original works, believing that new compositions cannot match the refined perfection of ancient sagas.
+
+Dismissive of Youth
+: His tendency to view younger skalds as shallow imitators without seeing their real talents blinds him to the possibility of mentorship or productive collaboration.
+
+Vulnerability to Irrelevance
+: Despite his current eminence, Knilthann harbors deep anxiety about becoming outdated, which manifests as aggressive defensiveness of traditional methods and scorn for alternatives.
 
 ## Social
 
@@ -488,12 +502,17 @@ Nordland Skalds' Guild
 
 ## Plot Hooks
 
-1. **The Forgotten Saga**: A traveling scholar approaches Knilthann with an ancient, partially damaged manuscript claiming to contain a saga he has never encountered—one that contradicts several key elements of the narratives he has spent decades perfecting. The scholar offers significant coin for Knilthann to authenticate and learn the tale, but authenticity would require him to publicly acknowledge gaps in his own knowledge and potentially revise his understanding of northern history. Other parties have an interest in certain histories remaining unchallenged, and may complicate matters.
+The Forgotten Saga
+: A traveling scholar approaches Knilthann with an ancient, partially damaged manuscript claiming to contain a saga he has never encountered—one that contradicts several key elements of the narratives he has spent decades perfecting. The scholar offers significant coin for Knilthann to authenticate and learn the tale, but authenticity would require him to publicly acknowledge gaps in his own knowledge and potentially revise his understanding of northern history. Other parties have an interest in certain histories remaining unchallenged, and may complicate matters.
 
-2. **The Succession Crisis**: Upon the death of a prominent noble patron, Knilthann is contracted to perform at the funeral rites and publicly validate the new heir's legitimacy through recitation of the family genealogy. However, adventurers discover evidence that the new heir is not of true blood, and they can expose this before Knilthann's performance—which will make the succession fact in the eyes of the kingdom—or allow the false heir to take power. Knilthann himself becomes entangled, torn between his role as authenticator and his growing suspicion that something is amiss.
+The Succession Crisis
+: Upon the death of a prominent noble patron, Knilthann is contracted to perform at the funeral rites and publicly validate the new heir's legitimacy through recitation of the family genealogy. However, adventurers discover evidence that the new heir is not of true blood, and they can expose this before Knilthann's performance—which will make the succession fact in the eyes of the kingdom—or allow the false heir to take power. Knilthann himself becomes entangled, torn between his role as authenticator and his growing suspicion that something is amiss.
 
-3. **The Challenge of the Gifted Youth**: A prodigiously talented young skald, barely twenty winters old, publicly challenges Knilthann to a performance contest, claiming that traditional methods are beautiful but obsolete, and that her new approach will move the hearts of audiences more deeply. Knilthann is desperate to prove himself but increasingly aware of his own limitations as age creeps upon him. The party becomes involved as the contest escalates, potentially serving as judges or mediators as both skalds push themselves to their limits.
+The Challenge of the Gifted Youth
+: A prodigiously talented young skald, barely twenty winters old, publicly challenges Knilthann to a performance contest, claiming that traditional methods are beautiful but obsolete, and that her new approach will move the hearts of audiences more deeply. Knilthann is desperate to prove himself but increasingly aware of his own limitations as age creeps upon him. The party becomes involved as the contest escalates, potentially serving as judges or mediators as both skalds push themselves to their limits.
 
-4. **The Lost Archive**: Knilthann receives word that a destroyed monastery once housed an archive of ancient sagas that predates his own understanding, and the fragments have been discovered in the possession of a reclusive scholar in the mountains. Despite his assertions that he possesses all authentic tales, his hunger for knowledge and fear that significant narratives may have been lost drives him to hire adventurers to locate and retrieve these fragments. The journey becomes complicated when they discover that the "lost sagas" tell stories that contradict the great houses' official histories, and multiple factions begin hunting the archive to either preserve or destroy it.
+The Lost Archive
+: Knilthann receives word that a destroyed monastery once housed an archive of ancient sagas that predates his own understanding, and the fragments have been discovered in the possession of a reclusive scholar in the mountains. Despite his assertions that he possesses all authentic tales, his hunger for knowledge and fear that significant narratives may have been lost drives him to hire adventurers to locate and retrieve these fragments. The journey becomes complicated when they discover that the "lost sagas" tell stories that contradict the great houses' official histories, and multiple factions begin hunting the archive to either preserve or destroy it.
 
-5. **The Imposter's Gambit**: A skilled performer emerges in a distant city, performing "ancient sagas" that are actually Knilthann's own compositions and interpretations, claiming to be an unrecorded cousin of the famous skald. The imposter gathers significant fame and patronage, and Knilthann's attempts to expose the fraud are thwarted when the imposter produces documents suggesting Knilthann himself may be the false claimant to the Skraldumak name. Caught in a web of authentication and identity, Knilthann must work with the party to uncover the truth, all while his reputation hangs by a thread and younger skalds circle like vultures, sensing weakness in their elder.
+The Imposter's Gambit
+: A skilled performer emerges in a distant city, performing "ancient sagas" that are actually Knilthann's own compositions and interpretations, claiming to be an unrecorded cousin of the famous skald. The imposter gathers significant fame and patronage, and Knilthann's attempts to expose the fraud are thwarted when the imposter produces documents suggesting Knilthann himself may be the false claimant to the Skraldumak name. Caught in a web of authentication and identity, Knilthann must work with the party to uncover the truth, all while his reputation hangs by a thread and younger skalds circle like vultures, sensing weakness in their elder.

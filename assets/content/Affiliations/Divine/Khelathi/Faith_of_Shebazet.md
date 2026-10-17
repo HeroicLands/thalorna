@@ -63,7 +63,14 @@ The ladder above and below them is the shared one: lay faithful who keep the obs
 
 ## See Also
 
-- [[lore-shebazetdty|Shebazet]]—the goddess
-- [[affiliation-selatgrshbzt|The Selat of Gar-Shebazet]]—her selat
-- [[affiliation-deltaselatu|The Delta Selatu]]—the selatu she belongs to
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the temple hierarchy every [[lore-khelathiclt|Khelathi]] cult shares
+[[lore-shebazetdty|Shebazet]]
+: the goddess
+
+[[affiliation-selatgrshbzt|The Selat of Gar-Shebazet]]
+: her selat
+
+[[affiliation-deltaselatu|The Delta Selatu]]
+: the selatu she belongs to
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: the temple hierarchy every [[lore-khelathiclt|Khelathi]] cult shares

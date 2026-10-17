@@ -445,21 +445,43 @@ She is, however, a deeply ethical individual. She will not take contracts to har
 
 ### Strengths
 
-- **Martial Skill**: Her combat training spans multiple disciplines and decades of practice. She is ambidextrous, skilled with blade and ranged weapons, and devastatingly effective in hand-to-hand combat. Few people in the realm could match her in single combat.
-- **Threat Assessment and Tactical Analysis**: She reads situations with almost supernatural accuracy, identifying threats and ways out within moments of entering any space. This skill extends to understanding human behavior and motivation.
-- **Inhuman Discipline and Control**: She maintains focus and calm in situations where others panic. She can endure pain, cold, exhaustion, and fear without allowing these to affect her judgment or performance.
-- **Absolute Reliability**: Once committed to a contract or cause, she follows through with complete dedication. Those who hire her know they are getting what they pay for, without compromise or abandonment.
-- **Perception and Awareness**: Her senses are very sharp; she notices details others miss and remains aware of her surroundings at all times.
-- **Physical Endurance and Strength**: Years of training have left her capable of incredible feats of stamina and strength. She can travel for days on minimal rest, carry heavy loads, and push through conditions that would incapacitate ordinary people.
+Martial Skill
+: Her combat training spans multiple disciplines and decades of practice. She is ambidextrous, skilled with blade and ranged weapons, and devastatingly effective in hand-to-hand combat. Few people in the realm could match her in single combat.
+
+Threat Assessment and Tactical Analysis
+: She reads situations with almost supernatural accuracy, identifying threats and ways out within moments of entering any space. This skill extends to understanding human behavior and motivation.
+
+Inhuman Discipline and Control
+: She maintains focus and calm in situations where others panic. She can endure pain, cold, exhaustion, and fear without allowing these to affect her judgment or performance.
+
+Absolute Reliability
+: Once committed to a contract or cause, she follows through with complete dedication. Those who hire her know they are getting what they pay for, without compromise or abandonment.
+
+Perception and Awareness
+: Her senses are very sharp; she notices details others miss and remains aware of her surroundings at all times.
+
+Physical Endurance and Strength
+: Years of training have left her capable of incredible feats of stamina and strength. She can travel for days on minimal rest, carry heavy loads, and push through conditions that would incapacitate ordinary people.
 
 ### Weaknesses
 
-- **Emotional Isolation and Difficulty Forming Bonds**: Her walls are so high that even those closest to her struggle to truly connect. She is incapable of intimacy and views emotions as weaknesses to be controlled rather than experienced.
-- **Over-Protectiveness**: Because she views the world primarily through the lens of threat, she often smothers those in her charge with excessive caution, preventing them from living normally or taking acceptable risks.
-- **Inability to Relax or Be Vulnerable**: She never truly rests, always maintaining tactical awareness. This constant vigilance exhausts her in ways that others cannot understand.
-- **Limited Social Skills**: She struggles with small talk, emotional communication, and the unspoken rules of polite society. Her directness often offends people who expect more delicacy.
-- **Moral Rigidity**: While her ethics are admirable, they occasionally prevent her from taking expedient action. A more flexible person might fare better in tangled situations.
-- **Difficulty with Ambiguity**: She prefers situations where right and wrong are clear. When morality becomes gray and complex, she struggles with decision-making and second-guesses herself.
+Emotional Isolation and Difficulty Forming Bonds
+: Her walls are so high that even those closest to her struggle to truly connect. She is incapable of intimacy and views emotions as weaknesses to be controlled rather than experienced.
+
+Over-Protectiveness
+: Because she views the world primarily through the lens of threat, she often smothers those in her charge with excessive caution, preventing them from living normally or taking acceptable risks.
+
+Inability to Relax or Be Vulnerable
+: She never truly rests, always maintaining tactical awareness. This constant vigilance exhausts her in ways that others cannot understand.
+
+Limited Social Skills
+: She struggles with small talk, emotional communication, and the unspoken rules of polite society. Her directness often offends people who expect more delicacy.
+
+Moral Rigidity
+: While her ethics are admirable, they occasionally prevent her from taking expedient action. A more flexible person might fare better in tangled situations.
+
+Difficulty with Ambiguity
+: She prefers situations where right and wrong are clear. When morality becomes gray and complex, she struggles with decision-making and second-guesses herself.
 
 ## Social
 
@@ -495,12 +517,17 @@ The Shrine of Brazemas
 
 ## Plot Hooks
 
-1. **The Mirror in the Storm**: Ídrise is hired to protect **Lord Dalren Mórlineth**, a nobleman she has guarded before who seems paranoid and frightened. He confesses that he has become aware of a shadow that mirrors his movements—a skilled fighter matching his patterns, present at multiple locations where he has been, never attacking but always watching. Dalren is convinced he is being hunted by a hired assassin. As Ídrise investigates, she discovers that the shadow is actually **Myrrh**, another warrior trained at the Shrine of Brazemas decades before Ídrise was born. Myrrh claims to be hunting Dalren for a dark secret in his past, and asks Ídrise to stand aside. Her loyalty to her client is set against her respect for a sister from the Shrine, and she does not truly know her employer's past.
+The Mirror in the Storm
+: Ídrise is hired to protect **Lord Dalren Mórlineth**, a nobleman she has guarded before who seems paranoid and frightened. He confesses that he has become aware of a shadow that mirrors his movements—a skilled fighter matching his patterns, present at multiple locations where he has been, never attacking but always watching. Dalren is convinced he is being hunted by a hired assassin. As Ídrise investigates, she discovers that the shadow is actually **Myrrh**, another warrior trained at the Shrine of Brazemas decades before Ídrise was born. Myrrh claims to be hunting Dalren for a dark secret in his past, and asks Ídrise to stand aside. Her loyalty to her client is set against her respect for a sister from the Shrine, and she does not truly know her employer's past.
 
-2. **The Forbidden Vow**: Ídrise falls into an unexpected relationship with **Kiran**, a merchant's daughter, over the course of a multi-month contract protecting the merchant's household. It is the first real emotional connection Ídrise has allowed herself in years. When the contract ends, Kiran asks Ídrise to abandon her mercenary life and simply be with her. At the same moment, the Shrine of Brazemas calls upon Ídrise for a critical mission—monks are being kidnapped and experimented upon by a dark sorcerer seeking to create a new form of warrior-slave. Ídrise's training and combat skills are desperately needed. She is forced to choose between the personal happiness she has never allowed herself and the duty that defines her entire existence.
+The Forbidden Vow
+: Ídrise falls into an unexpected relationship with **Kiran**, a merchant's daughter, over the course of a multi-month contract protecting the merchant's household. It is the first real emotional connection Ídrise has allowed herself in years. When the contract ends, Kiran asks Ídrise to abandon her mercenary life and simply be with her. At the same moment, the Shrine of Brazemas calls upon Ídrise for a critical mission—monks are being kidnapped and experimented upon by a dark sorcerer seeking to create a new form of warrior-slave. Ídrise's training and combat skills are desperately needed. She is forced to choose between the personal happiness she has never allowed herself and the duty that defines her entire existence.
 
-3. **The Assassin's Interrogation**: Ídrise captures an assassin who was sent to kill one of her clients. Rather than execute him, she interrogates him and is shocked to learn that the employer is not the person she suspected; it is someone from deep within the mercenary underworld. The assassin reveals the existence of a secret network of warrior-slaves—people like Ídrise, trained from childhood but kept under magical compulsion to obey their handlers. The assassin himself claims he was once free but was captured years ago. He begs Ídrise to help him break free of his magical bonds and promises to help her understand whether the shrine's training methods, however benign, contained traces of the same dark magic.
+The Assassin's Interrogation
+: Ídrise captures an assassin who was sent to kill one of her clients. Rather than execute him, she interrogates him and is shocked to learn that the employer is not the person she suspected; it is someone from deep within the mercenary underworld. The assassin reveals the existence of a secret network of warrior-slaves—people like Ídrise, trained from childhood but kept under magical compulsion to obey their handlers. The assassin himself claims he was once free but was captured years ago. He begs Ídrise to help him break free of his magical bonds and promises to help her understand whether the shrine's training methods, however benign, contained traces of the same dark magic.
 
-4. **The Shrine's Dark Secret**: The monks of the Shrine of Brazemas call Ídrise home urgently. When she arrives, she discovers that one of the senior monks, **Master Irnald**, has begun performing mysterious rituals and seems to be attempting to create warrior-slaves similar to the ones the captured assassin described. Some among the monks believe this is necessary to defend against great evils coming; others want to stop him. Ídrise is confronted with the possibility that her entire upbringing may have been preparation for purposes she never fully understood, and that the place she considered sanctuary may have been complicit in creating a system of magical slavery.
+The Shrine's Dark Secret
+: The monks of the Shrine of Brazemas call Ídrise home urgently. When she arrives, she discovers that one of the senior monks, **Master Irnald**, has begun performing mysterious rituals and seems to be attempting to create warrior-slaves similar to the ones the captured assassin described. Some among the monks believe this is necessary to defend against great evils coming; others want to stop him. Ídrise is confronted with the possibility that her entire upbringing may have been preparation for purposes she never fully understood, and that the place she considered sanctuary may have been complicit in creating a system of magical slavery.
 
-5. **The Replacement**: A new warrior, **Cassian**, arrives in the city with a reputation nearly matching Ídrise's own. Within days, Cassian begins taking contracts that would normally come to Ídrise. Unlike other competitors, Cassian seems to know her methods and can counter her approaches. When Ídrise finally confronts him, she is stunned to recognize her own mirror image—Cassian is a double created through magical means, deliberately crafted to match her abilities. Someone has stolen her very substance and created a replacement, and Cassian claims to be the "true" version while suggesting that Ídrise is the copy. As Ídrise unravels this mystery, she must question everything about her own origins and who she is.
+The Replacement
+: A new warrior, **Cassian**, arrives in the city with a reputation nearly matching Ídrise's own. Within days, Cassian begins taking contracts that would normally come to Ídrise. Unlike other competitors, Cassian seems to know her methods and can counter her approaches. When Ídrise finally confronts him, she is stunned to recognize her own mirror image—Cassian is a double created through magical means, deliberately crafted to match her abilities. Someone has stolen her very substance and created a replacement, and Cassian claims to be the "true" version while suggesting that Ídrise is the copy. As Ídrise unravels this mystery, she must question everything about her own origins and who she is.

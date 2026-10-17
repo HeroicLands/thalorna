@@ -56,5 +56,8 @@ Say a caravan-owner needs a dozen guards for the road to the delta. He goes to t
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu]]—The empire whose paid soldiering the guild regulates
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-aukhelathrgq|Au'Khelathu]]
+: The empire whose paid soldiering the guild regulates
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

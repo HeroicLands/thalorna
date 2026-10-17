@@ -47,9 +47,20 @@ Most quarrels the ting hears about whales are quarrels about the third rule: a m
 
 ## See Also
 
-- [[lore-nrdlndsseal|The Ice-Edge and the Rookery]]—the seal hunt that shares the whale-coasts
-- [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the whaling kingdom
-- [[place-knarvik|Knarvík]]—the yards that ready Vithgard's whale-boats
-- [[place-marvstead|Marvstead]]—where Vithgard's ivory is worked
-- [[lore-vthgdhstry|Histories and Legends of Vithgard]]—the failed whaling winter and the burning at Askholm
-- [[skill-nordmalng|Nordmal Language]]—the words of the whale and the seal
+[[lore-nrdlndsseal|The Ice-Edge and the Rookery]]
+: the seal hunt that shares the whale-coasts
+
+[[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
+: the whaling kingdom
+
+[[place-knarvik|Knarvík]]
+: the yards that ready Vithgard's whale-boats
+
+[[place-marvstead|Marvstead]]
+: where Vithgard's ivory is worked
+
+[[lore-vthgdhstry|Histories and Legends of Vithgard]]
+: the failed whaling winter and the burning at Askholm
+
+[[skill-nordmalng|Nordmal Language]]
+: the words of the whale and the seal

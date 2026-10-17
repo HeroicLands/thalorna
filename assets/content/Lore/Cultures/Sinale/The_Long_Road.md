@@ -120,11 +120,26 @@ He wrote what the roll held. The line is the one the gloss stands against, and t
 
 ## See Also
 
-- [[lore-flksinale|Sinale Folk]]—the people, their enclaves and their dealings with Tantsou
-- [[lore-elderraces|Elder Races]]—how the empire classifies the Sinale and what passes between them
-- [[lore-castelaws|Caste Laws]]—the Great Person Record and the classification tablet
-- [[lore-tanchei|Tanchéi]]—the caste the hall belongs to, and the Sinale scholars within it
-- [[lore-personlnms|Personal Names]]—who in the empire holds a name, and what the rest are called
-- [[lore-clndrstrlgy|Calendar and Astrology]]—the months the tale keeps its years by
-- [[skill-sinalelng|Sinale Language]]—the name that is never shortened, and the call that wears
-- [[lore-longnhrtnc|The Long Inheritance]]—Tantsou as the one place that filed the Elder Races
+[[lore-flksinale|Sinale Folk]]
+: the people, their enclaves and their dealings with Tantsou
+
+[[lore-elderraces|Elder Races]]
+: how the empire classifies the Sinale and what passes between them
+
+[[lore-castelaws|Caste Laws]]
+: the Great Person Record and the classification tablet
+
+[[lore-tanchei|Tanchéi]]
+: the caste the hall belongs to, and the Sinale scholars within it
+
+[[lore-personlnms|Personal Names]]
+: who in the empire holds a name, and what the rest are called
+
+[[lore-clndrstrlgy|Calendar and Astrology]]
+: the months the tale keeps its years by
+
+[[skill-sinalelng|Sinale Language]]
+: the name that is never shortened, and the call that wears
+
+[[lore-longnhrtnc|The Long Inheritance]]
+: Tantsou as the one place that filed the Elder Races

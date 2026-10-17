@@ -137,7 +137,14 @@ The Kingdom of Provenzia uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden 
 
 ## See Also
 
-- [[place-provenzrgn|Provenzia Region]]—Regional overview
-- [[affiliation-vylarinmpr|Vylarian Empire]]—Former overlord, cultural parent
-- [[affiliation-ordoarcanis|Thordimalon]]—Present under royal oversight
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—State pantheon
+[[place-provenzrgn|Provenzia Region]]
+: Regional overview
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: Former overlord, cultural parent
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: Present under royal oversight
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: State pantheon

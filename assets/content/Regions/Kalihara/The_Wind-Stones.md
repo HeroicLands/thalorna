@@ -48,9 +48,20 @@ The three stones at the passes stand on the roads, and the lineage that holds ea
 
 ## See Also
 
-- [[place-klhrring|The Ring]]—the mountains whose crest the stones stand on
-- [[place-mirthaan|Mirthaan]]—the sanctuary that forms their custodians
-- [[place-kuomethei|Kuomethei]]—where their custodians winter
-- [[place-klhrcldpss|The Cloud Pass]], [[place-klhrwstsddl|the Western Saddle]] and [[place-klhrsthstr|the Southern Stair]]—the passes with a stone at their heads
-- [[place-klhrestrrc|The Eastern Terraces]]—the land their rain falls on
-- [[lore-itharisul|Ithasul]]—the substance of the works, and the states a work passes through
+[[place-klhrring|The Ring]]
+: the mountains whose crest the stones stand on
+
+[[place-mirthaan|Mirthaan]]
+: the sanctuary that forms their custodians
+
+[[place-kuomethei|Kuomethei]]
+: where their custodians winter
+
+[[place-klhrcldpss|The Cloud Pass]], [[place-klhrwstsddl|the Western Saddle]] and [[place-klhrsthstr|the Southern Stair]]
+: the passes with a stone at their heads
+
+[[place-klhrestrrc|The Eastern Terraces]]
+: the land their rain falls on
+
+[[lore-itharisul|Ithasul]]
+: the substance of the works, and the states a work passes through

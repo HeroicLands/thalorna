@@ -44,9 +44,20 @@ The region is held by [[affiliation-kalihara|Kalihara]], one polity of lineages 
 
 ## See Also
 
-- [[place-klhrcntnnt|Kalihara]]—the island, its seas and the long way home
-- [[place-klhrring|The Ring]], [[place-klhrbowl|the Bowl]], [[place-klhrlake|the Bowl Lake]] and [[place-klhrmassif|the Massif]]—the island's mountains, basin, lake and mount
-- [[affiliation-kalihara|Kalihara]]—the polity that holds this region
-- [[affiliation-tharivaan|Thári'vaan]]—the Living Whole, its custodians and its sanctuaries
-- [[place-ilovanu|Ilovanu]], [[place-nalurithan|Nalurithan]], [[place-vashuran|Vashurán]], [[place-telvari|Telvari]]—the four ports
-- [[lore-kaliharanclt|Kaliharan]]—the people, their observances and their names
+[[place-klhrcntnnt|Kalihara]]
+: the island, its seas and the long way home
+
+[[place-klhrring|The Ring]], [[place-klhrbowl|the Bowl]], [[place-klhrlake|the Bowl Lake]] and [[place-klhrmassif|the Massif]]
+: the island's mountains, basin, lake and mount
+
+[[affiliation-kalihara|Kalihara]]
+: the polity that holds this region
+
+[[affiliation-tharivaan|Thári'vaan]]
+: the Living Whole, its custodians and its sanctuaries
+
+[[place-ilovanu|Ilovanu]], [[place-nalurithan|Nalurithan]], [[place-vashuran|Vashurán]], [[place-telvari|Telvari]]
+: the four ports
+
+[[lore-kaliharanclt|Kaliharan]]
+: the people, their observances and their names

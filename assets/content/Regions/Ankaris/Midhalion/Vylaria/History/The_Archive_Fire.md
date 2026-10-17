@@ -67,6 +67,11 @@ The Imperial Scribal Guild had been chartered in the first century of the [[affi
 
 ## See Also
 
-- [[affiliation-imprlscrblgld|Imperial Scribal Guild]]—the guild that keeps the archive that began that year
-- [[lore-eaglecityrse|The Raising of the Eagle City]]—the hill the archive stood on
-- [[place-arvon|Arvon]]—the Inner City where the Offices stands
+[[affiliation-imprlscrblgld|Imperial Scribal Guild]]
+: the guild that keeps the archive that began that year
+
+[[lore-eaglecityrse|The Raising of the Eagle City]]
+: the hill the archive stood on
+
+[[place-arvon|Arvon]]
+: the Inner City where the Offices stands

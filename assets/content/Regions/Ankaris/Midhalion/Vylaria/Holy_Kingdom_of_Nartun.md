@@ -148,8 +148,17 @@ The Holy Kingdom of Nartun uses the [[lore-vylrncrncy|Vylarian Currency]] (Solde
 
 ## See Also
 
-- [[place-nartumkngdm|Nartun Kingdom]]—the land the kingdom holds
-- [[place-nartum|Nartun]]—the holy city, its seat
-- [[affiliation-vylarinmpr|Vylarian Empire]]—cultural parent, political rival
-- [[affiliation-arldnpnthn|Aureldian]]—the state pantheon
-- [[skill-vylarilng|Vylari]]—the language and its naming conventions
+[[place-nartumkngdm|Nartun Kingdom]]
+: the land the kingdom holds
+
+[[place-nartum|Nartun]]
+: the holy city, its seat
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: cultural parent, political rival
+
+[[affiliation-arldnpnthn|Aureldian]]
+: the state pantheon
+
+[[skill-vylarilng|Vylari]]
+: the language and its naming conventions

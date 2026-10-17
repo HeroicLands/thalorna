@@ -447,19 +447,37 @@ Chandratar is driven by survival—his own, and that of his reputation and indep
 
 ### Strengths
 
-- **Herbal Mastery**: Unsurpassed skill in the identification, cultivation, preparation, and administration of medicinal plants. He knows their virtues and their vices, their healing properties and their capacity to induce suffering.
-- **Alchemical Knowledge**: His understanding of mineral compounds, distillation, and chemical reactions allows him to craft remedies and poisons of devastating subtlety—agents that mimic natural illness or wear down slowly without detection.
-- **Perception and Insight**: With perception as his highest attribute, Chandratar reads people with precision. He discerns truth from falsehood, desperation from casual interest, and the hidden motives behind polite requests.
-- **Discourse and Reasoning**: His skill in reasoned argument and articulate discourse makes him a difficult person to accuse or condemn—he can talk his way through almost any confrontation with the shrena or with authorities.
-- **Discretion**: An absolute master of keeping secrets. His clients know that he will never speak of their patronage, and he extends the same silence to those who come seeking protection or allies.
+Herbal Mastery
+: Unsurpassed skill in the identification, cultivation, preparation, and administration of medicinal plants. He knows their virtues and their vices, their healing properties and their capacity to induce suffering.
+
+Alchemical Knowledge
+: His understanding of mineral compounds, distillation, and chemical reactions allows him to craft remedies and poisons of devastating subtlety—agents that mimic natural illness or wear down slowly without detection.
+
+Perception and Insight
+: With perception as his highest attribute, Chandratar reads people with precision. He discerns truth from falsehood, desperation from casual interest, and the hidden motives behind polite requests.
+
+Discourse and Reasoning
+: His skill in reasoned argument and articulate discourse makes him a difficult person to accuse or condemn—he can talk his way through almost any confrontation with the shrena or with authorities.
+
+Discretion
+: An absolute master of keeping secrets. His clients know that he will never speak of their patronage, and he extends the same silence to those who come seeking protection or allies.
 
 ### Weaknesses
 
-- **Cynicism as Blindness**: His assumption that all people are fundamentally corrupt prevents him from recognizing goodness or an honest ally, leaving him isolated and vulnerable to manipulation by those who feign vice.
-- **Moral Erosion**: The line between justified self-preservation and casual wickedness has become so blurred that he can no longer clearly distinguish right from wrong, making him increasingly reckless with darker commissions.
-- **Physical Fragility**: Years of exposure to toxic fumes, poisons, and concentrated herbal compounds have weakened his endurance. He is not a fighter; direct physical confrontation is beyond his capability.
-- **Growing Notoriety**: The more successful his darker work, the more dangerous his visibility becomes. Powerful enemies accumulate, and the day may come when his accumulated secrets are insufficient shield against determined revenge.
-- **Dependence on Shrena Protection**: His continued operation depends on the Apothecaries' Shrena's willingness to defend him from accusation. Should the shrena turn against him, he would be vulnerable and exposed.
+Cynicism as Blindness
+: His assumption that all people are fundamentally corrupt prevents him from recognizing goodness or an honest ally, leaving him isolated and vulnerable to manipulation by those who feign vice.
+
+Moral Erosion
+: The line between justified self-preservation and casual wickedness has become so blurred that he can no longer clearly distinguish right from wrong, making him increasingly reckless with darker commissions.
+
+Physical Fragility
+: Years of exposure to toxic fumes, poisons, and concentrated herbal compounds have weakened his endurance. He is not a fighter; direct physical confrontation is beyond his capability.
+
+Growing Notoriety
+: The more successful his darker work, the more dangerous his visibility becomes. Powerful enemies accumulate, and the day may come when his accumulated secrets are insufficient shield against determined revenge.
+
+Dependence on Shrena Protection
+: His continued operation depends on the Apothecaries' Shrena's willingness to defend him from accusation. Should the shrena turn against him, he would be vulnerable and exposed.
 
 ## Social
 
@@ -498,12 +516,17 @@ Rasikara's Temple
 
 ## Plot Hooks
 
-1. **The Poisoned Well**: A mysterious plague begins spreading through Vedyara's lower districts, killing indiscriminately. The city guard suspects foul play and turns to Chandratar for analysis—but he recognizes the signature of the poison immediately. It is one of his own creations, stolen from his workshop months ago. He can confess, thereby admitting its creation, or lie and help track whoever stole it while hoping they do not use it against him or reveal his involvement to the authorities. The thief, it transpires, is **Apprentice Somnari**, a young healer from the temple who discovered what Chandratar truly does and stole the poison to prevent future murders. She plans to use it to assassinate Serathis, whom she believes Chandratar poisoned.
+The Poisoned Well
+: A mysterious plague begins spreading through Vedyara's lower districts, killing indiscriminately. The city guard suspects foul play and turns to Chandratar for analysis—but he recognizes the signature of the poison immediately. It is one of his own creations, stolen from his workshop months ago. He can confess, thereby admitting its creation, or lie and help track whoever stole it while hoping they do not use it against him or reveal his involvement to the authorities. The thief, it transpires, is **Apprentice Somnari**, a young healer from the temple who discovered what Chandratar truly does and stole the poison to prevent future murders. She plans to use it to assassinate Serathis, whom she believes Chandratar poisoned.
 
-2. **The Mentor's Ghost**: A group of investigators arrives from the outer provinces seeking information about the death of **Master Kari Dharmendra** thirty years prior. They are building a case against an unnamed apothecary whom they believe poisoned her out of jealousy or rivalry in the craft. Chandratar realizes with horror that they have found witnesses, documentation, and evidence that will inevitably point to him. Worse, he is no longer certain whether he actually did poison her or whether the guilt has become so deep in him that he has constructed false memories. His former apprentices are being interviewed; his ledgers are being subpoenaed. He must either flee Vedyara or orchestrate a counter-investigation that casts suspicion elsewhere—but every move risks revealing more truth than he wishes exposed.
+The Mentor's Ghost
+: A group of investigators arrives from the outer provinces seeking information about the death of **Master Kari Dharmendra** thirty years prior. They are building a case against an unnamed apothecary whom they believe poisoned her out of jealousy or rivalry in the craft. Chandratar realizes with horror that they have found witnesses, documentation, and evidence that will inevitably point to him. Worse, he is no longer certain whether he actually did poison her or whether the guilt has become so deep in him that he has constructed false memories. His former apprentices are being interviewed; his ledgers are being subpoenaed. He must either flee Vedyara or orchestrate a counter-investigation that casts suspicion elsewhere—but every move risks revealing more truth than he wishes exposed.
 
-3. **The Collector's Commission**: A wealthy and eccentric collector approaches him with an extraordinary request: craft a poison so subtle and slow-acting that it will take precisely seventeen months to kill the recipient, and that will mimic the effects of aging and natural decay so perfectly that even the most skilled physician will identify no cause of death. The payment is astronomical, enough to secure his escape from Vedyara and establishment elsewhere should things collapse. But the commission carries a terrible price: the target is a child, the illegitimate heir to a merchant fortune. Refusing seems likely to result in violence from the collector's hired blades; accepting makes him complicit in the murder of an innocent. The child in question is the young daughter of **Herald [[being-carengrvth|Kárenna Graveth]]**, who will stop at nothing to protect her if she learns of the plot.
+The Collector's Commission
+: A wealthy and eccentric collector approaches him with an extraordinary request: craft a poison so subtle and slow-acting that it will take precisely seventeen months to kill the recipient, and that will mimic the effects of aging and natural decay so perfectly that even the most skilled physician will identify no cause of death. The payment is astronomical, enough to secure his escape from Vedyara and establishment elsewhere should things collapse. But the commission carries a terrible price: the target is a child, the illegitimate heir to a merchant fortune. Refusing seems likely to result in violence from the collector's hired blades; accepting makes him complicit in the murder of an innocent. The child in question is the young daughter of **Herald [[being-carengrvth|Kárenna Graveth]]**, who will stop at nothing to protect her if she learns of the plot.
 
-4. **The Shrena's Reckoning**: The Apothecaries' Shrena votes to conduct a formal inspection of all its members' workshops and ledgers, ostensibly to check compliance with new rules on dangerous substances. Chandratar realizes this is his death knell—his workshop contains ample evidence of his darker work, and Mandavar has been orchestrating this inspection specifically to expose him. He has mere days to destroy evidence, move his most incriminating materials, and either disappear or compromise Mandavar and the shrena leadership through revelation of their own secrets and complicity in his crimes.
+The Shrena's Reckoning
+: The Apothecaries' Shrena votes to conduct a formal inspection of all its members' workshops and ledgers, ostensibly to check compliance with new rules on dangerous substances. Chandratar realizes this is his death knell—his workshop contains ample evidence of his darker work, and Mandavar has been orchestrating this inspection specifically to expose him. He has mere days to destroy evidence, move his most incriminating materials, and either disappear or compromise Mandavar and the shrena leadership through revelation of their own secrets and complicity in his crimes.
 
-5. **The Healer's Redemption**: A desperate family arrives bearing a poisoned family member—but the poison is no work of a skilled hand. It is clumsy, obvious, and wrong in nearly every way. Yet it is poison that Chandratar is known to have created and sold. He is certain the poisoning was committed by someone else, likely an ambitious apprentice or a copycat, yet proof will be nearly impossible to establish. The family's patriarch is powerful and politically connected; he is already spreading word that Chandratar attempted to murder him. Chandratar must either identify the true poisoner and prove his own innocence, or accept that his darker trade is about to consume his legitimate reputation and freedom in Vedyara.
+The Healer's Redemption
+: A desperate family arrives bearing a poisoned family member—but the poison is no work of a skilled hand. It is clumsy, obvious, and wrong in nearly every way. Yet it is poison that Chandratar is known to have created and sold. He is certain the poisoning was committed by someone else, likely an ambitious apprentice or a copycat, yet proof will be nearly impossible to establish. The family's patriarch is powerful and politically connected; he is already spreading word that Chandratar attempted to murder him. Chandratar must either identify the true poisoner and prove his own innocence, or accept that his darker trade is about to consume his legitimate reputation and freedom in Vedyara.

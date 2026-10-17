@@ -293,20 +293,29 @@ In most southern jurisdictions, peafowl are legally and religiously protected. H
 
 ## Attributes
 
-- **Strength:** 3-6 (1d4+2)
+Strength
+: 3-6 (1d4+2)
 
-- **Endurance:** 5-8 (1d4+4)
+Endurance
+: 5-8 (1d4+4)
 
-- **Dexterity:** 11-16 (1d6+10)
+Dexterity
+: 11-16 (1d6+10)
 
-- **Agility:** 12-17 (1d6+11)
+Agility
+: 12-17 (1d6+11)
 
-- **Perception:** 11-16 (1d6+10)
+Perception
+: 11-16 (1d6+10)
 
-- **Aura:** 11-16 (1d6+10)
+Aura
+: 11-16 (1d6+10)
 
-- **Will:** 6-9 (1d4+5)
+Will
+: 6-9 (1d4+5)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

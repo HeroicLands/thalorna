@@ -31,5 +31,8 @@ The Ritual seals; it does not kill. It has evidently been worked before, since N
 
 ## See Also
 
-- [[being-njorven|Njorven]]—the Sea Wraith the rite seals away
-- [[scenario-groascmpgn|Groa's Campaign]]—the campaign that ends at the coastal temple
+[[being-njorven|Njorven]]
+: the Sea Wraith the rite seals away
+
+[[scenario-groascmpgn|Groa's Campaign]]
+: the campaign that ends at the coastal temple

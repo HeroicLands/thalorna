@@ -70,6 +70,11 @@ They manned the forts with the people who knew the hills. Hill horsemen, hired o
 
 ## See Also
 
-- [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]—the host the line was built against
-- [[place-taruzelrgn|Taruzel Region]]—the islands the line crosses
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the state that inherited the ruins
+[[lore-hndrdbnnrs|The Storm of the Hundred Banners]]
+: the host the line was built against
+
+[[place-taruzelrgn|Taruzel Region]]
+: the islands the line crosses
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the state that inherited the ruins

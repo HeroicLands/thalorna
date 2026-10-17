@@ -113,5 +113,8 @@ The present: the [Battle of Tamzir Shoals]{.name data-type="lore/history"}, the 
 
 ## See Also
 
-- [[lore-commoncal|The Vylarian Calendar]]—the count of years every age is a stretch of
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the polity whose history the ages divide
+[[lore-commoncal|The Vylarian Calendar]]
+: the count of years every age is a stretch of
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the polity whose history the ages divide

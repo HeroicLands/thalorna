@@ -37,11 +37,19 @@ Yath-Lemet runs on the flood and the harvest on a smaller scale than any other u
 
 ## Settlements
 
-- [[place-yathlemet|Yath-Lemet]] (~6,000)—the selat capital and the seat of the Halzi'a.
-- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+[[place-yathlemet|Yath-Lemet]] (~6,000)
+: the selat capital and the seat of the Halzi'a.
+
+The villages and estate-towns
+: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatyathlmt|The Selat of Yath-Lemet]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-yathlemet|Yath-Lemet]]—Selat capital
+[[affiliation-selatyathlmt|The Selat of Yath-Lemet]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-yathlemet|Yath-Lemet]]
+: Selat capital

@@ -46,10 +46,17 @@ sohl: {system: {commonSkills: [mahajaya, sohl-sohl-skill-agri, sohl-sohl-skill-m
 
 ## Mahajaya—The Eternal Preserver
 
-- **Domain:** Order, prosperity, harvest, trade, the cycles of growth and abundance
-- **Symbol:** A balanced scale encircled by wheat
-- **Pronunciation:** _MAH-ha-jah-yah_
-- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
+Domain
+: Order, prosperity, harvest, trade, the cycles of growth and abundance
+
+Symbol
+: A balanced scale encircled by wheat
+
+Pronunciation
+: _MAH-ha-jah-yah_
+
+Pantheon
+: [[affiliation-varakpnthn|Varnuka Pantheon]]
 
 "Weigh it again," the priest of a village shrine tells the farmhand who has just poured the first sack of the harvest into the shrine's brass scale and taken the number on trust. "She is not watching the grain. She is watching you." The farmhand weighs it again. This is Mahajaya, the cult of [[lore-mahajayadty|Mahajaya]], in small: preservation, harmony and abundance, kept by people who measure fairly and say so aloud.
 
@@ -71,8 +78,11 @@ A small brass scale sits on the household shrine beside the sheaf of the current
 
 ### Ordeals for Favor
 
-- **[The Granary Vigil]{.name data-type="lore/custom"}**—a sleepless watch over the community granary through a night when the spirits of the fields are said to walk.
-- **[The Fair Measure]{.name data-type="lore/custom"}**—a year of public measurement of grain, cloth, wine and oil, completed without a complaint of short weight from any party.
+[The Granary Vigil]{.name data-type="lore/custom"}
+: a sleepless watch over the community granary through a night when the spirits of the fields are said to walk.
+
+[The Fair Measure]{.name data-type="lore/custom"}
+: a year of public measurement of grain, cloth, wine and oil, completed without a complaint of short weight from any party.
 
 ### See Also
 

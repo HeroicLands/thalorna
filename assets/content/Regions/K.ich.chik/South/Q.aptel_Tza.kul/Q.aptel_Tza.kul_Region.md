@@ -44,6 +44,11 @@ Most true trade flows through the region in transit rather than originating ther
 
 ## See Also
 
-- [[affiliation-qapteltzakl|Q'aptel Tsa'kul]]—The realm that holds this land
-- [[place-sthrnkchchk|Southern K'ich'chik]]—The enclosing region
-- [[place-qapteltzakl2|Q'aptel Tsa'kul]]—Seat of Q'aptel Tsa'kul
+[[affiliation-qapteltzakl|Q'aptel Tsa'kul]]
+: The realm that holds this land
+
+[[place-sthrnkchchk|Southern K'ich'chik]]
+: The enclosing region
+
+[[place-qapteltzakl2|Q'aptel Tsa'kul]]
+: Seat of Q'aptel Tsa'kul

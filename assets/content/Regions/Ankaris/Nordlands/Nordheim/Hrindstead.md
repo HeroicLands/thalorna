@@ -22,7 +22,14 @@ To the settlers the grove is ground walked and witnessed. To the Eichthúl it is
 
 ## See Also
 
-- [[place-nalthmark|Nalthmark]]—the frontier settlement at the head of the road
-- [[lore-varokhiclt|Varokhi]]—the people whose clan claims the grove
-- [[lore-nrdhmhstry|Histories and Legends of Nordheim]]—the Nalthmark Land-Taking
-- [[lore-nalthmrktkng|The Nalthmark Land-Taking]]—Nordheim's account of the taking, dated
+[[place-nalthmark|Nalthmark]]
+: the frontier settlement at the head of the road
+
+[[lore-varokhiclt|Varokhi]]
+: the people whose clan claims the grove
+
+[[lore-nrdhmhstry|Histories and Legends of Nordheim]]
+: the Nalthmark Land-Taking
+
+[[lore-nalthmrktkng|The Nalthmark Land-Taking]]
+: Nordheim's account of the taking, dated

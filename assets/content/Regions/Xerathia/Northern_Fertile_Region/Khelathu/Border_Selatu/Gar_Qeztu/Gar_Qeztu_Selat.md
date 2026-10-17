@@ -25,11 +25,19 @@ A cadet sent to the officer schools sees the selat's purpose in a morning: carts
 
 ## Settlements
 
-- [[place-garqeztu|Gar-Qeztu]] (~13,000)—the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-qeztudty|Qeztu]].
-- The villages and estate-towns: a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
+[[place-garqeztu|Gar-Qeztu]] (~13,000)
+: the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-qeztudty|Qeztu]].
+
+The villages and estate-towns
+: a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatgarqezt|The Selat of Gar-Qeztu]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-garqeztu|Gar-Qeztu]]—Selat capital
+[[affiliation-selatgarqezt|The Selat of Gar-Qeztu]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-garqeztu|Gar-Qeztu]]
+: Selat capital

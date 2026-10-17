@@ -144,7 +144,14 @@ In a drought year, [[place-madhukupa|Madukupa]] is the only place in the foothil
 
 ## See Also
 
-- [[place-madhukupa|Madukupa]]—the fort and what the caravans say of it
-- [[lore-theshadow|The Shadow]]—the chaos from which the Well-Mother came
-- [[place-bhumipalaland|Bhumipala Land]] · [[affiliation-bhumipala|Bhumipala]]—the march and its crown
-- [[affiliation-agnipantha|Agmi-pantra]]—the sect whose ember can burn the cold out of a seam
+[[place-madhukupa|Madukupa]]
+: the fort and what the caravans say of it
+
+[[lore-theshadow|The Shadow]]
+: the chaos from which the Well-Mother came
+
+[[place-bhumipalaland|Bhumipala Land]] · [[affiliation-bhumipala|Bhumipala]]
+: the march and its crown
+
+[[affiliation-agnipantha|Agmi-pantra]]
+: the sect whose ember can burn the cold out of a seam

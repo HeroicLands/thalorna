@@ -26,7 +26,14 @@ Karvashion has a stronger eastern character than the other League cities. Worshi
 
 ## See Also
 
-- [[affiliation-karvashion|Karvashion]]—the city-state and its caravansary masters
-- [[place-byzariargn|Bizaria Region]]—the League's country
-- [[place-southrnmrch|Southern March]]—the dry upland south and east
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation
+[[affiliation-karvashion|Karvashion]]
+: the city-state and its caravansary masters
+
+[[place-byzariargn|Bizaria Region]]
+: the League's country
+
+[[place-southrnmrch|Southern March]]
+: the dry upland south and east
+
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation

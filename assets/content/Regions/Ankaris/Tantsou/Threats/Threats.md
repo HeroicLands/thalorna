@@ -11,22 +11,38 @@ The [[affiliation-tantsouempr|Empire of Tantsou]] has outlasted every dynasty th
 
 ## War on the Frontiers
 
-- [[being-wogenhenzhuo|Wogen Henzhuo]]—the warlord who has united the tribes of the Hénhatou, the Black Wilds (the [[lore-henhatoutsouclt|Hénhatoutsou]]), and whose riders are already raiding the northern provinces
-- [[doc-extrnlthrts|External Threats]]—[[affiliation-jenchaiempr|Jenchai]], the archipelago the empire calls Chaiwong, and the western passes
+[[being-wogenhenzhuo|Wogen Henzhuo]]
+: the warlord who has united the tribes of the Hénhatou, the Black Wilds (the [[lore-henhatoutsouclt|Hénhatoutsou]]), and whose riders are already raiding the northern provinces
+
+[[doc-extrnlthrts|External Threats]]
+: [[affiliation-jenchaiempr|Jenchai]], the archipelago the empire calls Chaiwong, and the western passes
 
 ## Enemies Within
 
-- [[being-tuijawengyan|Tuija Wengyan]]—an exiled general in open rebellion, with disaffected nobles and their Wánduo behind him
-- [[affiliation-yanchaizhao|Yanchai Zhao]]—a fallen noble house that has staked its last chance on the Black Lotus Society
-- [[doc-intrnlsbvrsvthrts|Internal Subversive Threats]]—the foreign sorcerers' guild, the Shadow Sect, the merchants' rising, the Cult of the Forsaken, the Black Lotus Society and the famine in the south
+[[being-tuijawengyan|Tuija Wengyan]]
+: an exiled general in open rebellion, with disaffected nobles and their Wánduo behind him
+
+[[affiliation-yanchaizhao|Yanchai Zhao]]
+: a fallen noble house that has staked its last chance on the Black Lotus Society
+
+[[doc-intrnlsbvrsvthrts|Internal Subversive Threats]]
+: the foreign sorcerers' guild, the Shadow Sect, the merchants' rising, the Cult of the Forsaken, the Black Lotus Society and the famine in the south
 
 ## Things Out of the Dark
 
-- [[lore-dreadspawncrtr|Dreadspawn]]—made creatures, each one unknown to the soldiers who meet it, appearing within the empire
-- [[lore-chaizho|Chaizho]]—reptilian pack-hunters loosed by a great earthquake in the northwest
+[[lore-dreadspawncrtr|Dreadspawn]]
+: made creatures, each one unknown to the soldiers who meet it, appearing within the empire
+
+[[lore-chaizho|Chaizho]]
+: reptilian pack-hunters loosed by a great earthquake in the northwest
 
 ## See Also
 
-- [[affiliation-tantsouempr|Empire of Tantsou]]—overview of the empire
-- [[lore-castelaws|Caste Laws]]—the social order these threats put under strain
-- [[lore-tseising|Law and Honor]]—the courts and penalties the empire answers with
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: overview of the empire
+
+[[lore-castelaws|Caste Laws]]
+: the social order these threats put under strain
+
+[[lore-tseising|Law and Honor]]
+: the courts and penalties the empire answers with

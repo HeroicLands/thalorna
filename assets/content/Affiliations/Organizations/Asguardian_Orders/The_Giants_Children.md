@@ -56,10 +56,17 @@ sohl: {system: {commonSkills: []}}
 
 The Giant's Children, _Thursborn_, are an initiatic fighting order of the [[affiliation-hrimthur|Faith of Hrimthur]], which teaches that the world was cut from the body of [[lore-hrimthurspr|Hrimthur]], the Rime-Giant. They are the most severe of the Asguardian fighting orders in belief, and the other orders keep a careful distance from them. [[affiliation-eidhond|The Order of the Sworn Hand]] serves the law and [[affiliation-gronverdir|The Green Wardens]] defend the harvest; the Children cultivate in themselves the strength the world was made from. An outsider remembers the order for two things: its refusal of hire, and its permanent mark.
 
-- Type: initiatic fighting religious order
-- Patron: [[affiliation-hrimthur|Hrimthur]], the Rime-Giant
-- Region: [[place-nrdlndsrgn|the Nordlands]], with the strongest concentrations in the colder northern reaches, and smaller chapters in [[place-vrystwald|Vristwald]] and the more remote valleys of [[place-aelwyth|Aelwyth]]
-- Seats: nine chapter halls, each led by a Father of the Hall
+Type
+: initiatic fighting religious order
+
+Patron
+: [[affiliation-hrimthur|Hrimthur]], the Rime-Giant
+
+Region
+: [[place-nrdlndsrgn|the Nordlands]], with the strongest concentrations in the colder northern reaches, and smaller chapters in [[place-vrystwald|Vristwald]] and the more remote valleys of [[place-aelwyth|Aelwyth]]
+
+Seats
+: nine chapter halls, each led by a Father of the Hall
 
 ## What They Believe
 
@@ -73,10 +80,17 @@ The order is exclusively male in present practice. The historical record include
 
 Initiation comes in stages that follow the order's account of the cosmogony. The order holds four ranks:
 
-- Put from the Order (_Eidvargr_): cast out by the assembled Fathers of the Halls, which closes every one of the nine chapter halls' hospitality for good.
-- The Frost-Touched (_Eidefnir_): the candidate stage, whose members are called _Hrimblenn_, the rime-cleansed. A sitting brother sponsors a young man, typically sixteen to twenty, and he is tested through a year of physical labor at one of the chapter halls. Many candidates withdraw or are dismissed.
-- The Born of the Wound (_Sárborinn_): admitted after a formal rite of severe physical ordeal and theological examination. The Born of the Wound wear the order's mark and are full members.
-- The Hand of the Host (_Hershond_): the senior brother, who has passed an advanced rite of initiation. He may lead the order's gathered brothers in the field and instruct candidates.
+Put from the Order (_Eidvargr_)
+: cast out by the assembled Fathers of the Halls, which closes every one of the nine chapter halls' hospitality for good.
+
+The Frost-Touched (_Eidefnir_)
+: the candidate stage, whose members are called _Hrimblenn_, the rime-cleansed. A sitting brother sponsors a young man, typically sixteen to twenty, and he is tested through a year of physical labor at one of the chapter halls. Many candidates withdraw or are dismissed.
+
+The Born of the Wound (_Sárborinn_)
+: admitted after a formal rite of severe physical ordeal and theological examination. The Born of the Wound wear the order's mark and are full members.
+
+The Hand of the Host (_Hershond_)
+: the senior brother, who has passed an advanced rite of initiation. He may lead the order's gathered brothers in the field and instruct candidates.
 
 Two offices sit above the ranks. The Father of the Hall, _Hallfadir_, leads a single chapter hall and presides over its initiations and standing affairs; there are nine, one to a hall. The Voice from the Wound, _Sarmál_, is the order's chair, chosen by the assembled Fathers of the Halls in conclave after the death or retirement of the prior Voice. The present Voice is **[Hrundthann Steinhond]{.name data-type="being/npc"}**, an austere man in his late fifties, regarded by his brothers as the most theologically rigorous Voice in a generation. The most prominent Father is **[Svilthvir Eldskari]{.name data-type="being/npc"}** at the **[Northern Hall]{.name data-type="place/structure"}** in [[place-targud|Targud]], who commands the order's largest standing chapter.
 

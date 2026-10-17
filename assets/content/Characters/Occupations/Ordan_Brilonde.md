@@ -430,10 +430,14 @@ A trading house of Válaren City that sells the goldsmiths short weight and has 
 
 ## Plot Hooks
 
-1. **The Peer's Stone**—A Peer wants a ruby valued high enough to secure a loan against it, and has made plain what it will cost the house at Jalnasdal if Ordan values it as he sees it.
+The Peer's Stone
+: A Peer wants a ruby valued high enough to secure a loan against it, and has made plain what it will cost the house at Jalnasdal if Ordan values it as he sees it.
 
-2. **The Light Soldeni**—A consignment of Soldeni Ordan bought on the coast weighs light, and the milled edges are clean. Somebody has learned a new trick, and he has already sold half of them.
+The Light Soldeni
+: A consignment of Soldeni Ordan bought on the coast weighs light, and the milled edges are clean. Somebody has learned a new trick, and he has already sold half of them.
 
-3. **The Nephew**—Ordan's nephew and heir has begun trading on the house's name at Jalnasdal, in the Crown's quarrel and against the Peers, and the house has begun to be talked about.
+The Nephew
+: Ordan's nephew and heir has begun trading on the house's name at Jalnasdal, in the Crown's quarrel and against the Peers, and the house has begun to be talked about.
 
-4. **The Crown's Loan**—The Crown's treasurer has asked the coastal houses for a loan against the salt revenue, and Ordan's answer either way will place a house that has spent generations declining to be placed.
+The Crown's Loan
+: The Crown's treasurer has asked the coastal houses for a loan against the salt revenue, and Ordan's answer either way will place a house that has spent generations declining to be placed.

@@ -22,6 +22,11 @@ The region has a central settlement. How many live in it, and who they are, no t
 
 ## See Also
 
-- [[place-xelemixbalrgn|Shelem Ish'bal Region]]—the wastes
-- [[place-xelemchalix|Shelem Ch'alish]]—the last temple-fortress before the wastes
-- [[place-sthrnkchchk|Southern K'ich'chik]]—the southern realms
+[[place-xelemixbalrgn|Shelem Ish'bal Region]]
+: the wastes
+
+[[place-xelemchalix|Shelem Ch'alish]]
+: the last temple-fortress before the wastes
+
+[[place-sthrnkchchk|Southern K'ich'chik]]
+: the southern realms

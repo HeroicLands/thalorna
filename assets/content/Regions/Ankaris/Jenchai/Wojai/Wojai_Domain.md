@@ -87,8 +87,17 @@ The court pawned the bronze bell of the Dawn Rite to a merchant house of Yuwu. T
 
 ## See Also
 
-- [[affiliation-jenchaiempr|Jenchai Empire]]—the realm, the court and the eight houses
-- [[place-yujai|Yujai]]—the mountain of the domain
-- [[place-yuwu|Yuwu]]—the castle town and seat
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
-- [[place-suryasamdra|Surva-samedra]]—the eastern ocean the hulls cross
+[[affiliation-jenchaiempr|Jenchai Empire]]
+: the realm, the court and the eight houses
+
+[[place-yujai|Yujai]]
+: the mountain of the domain
+
+[[place-yuwu|Yuwu]]
+: the castle town and seat
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait
+
+[[place-suryasamdra|Surva-samedra]]
+: the eastern ocean the hulls cross

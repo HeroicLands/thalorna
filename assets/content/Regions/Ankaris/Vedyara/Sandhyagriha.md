@@ -29,6 +29,11 @@ The Mistress of the Long Evening is dying, and the succession is being contested
 
 ## See Also
 
-- [[affiliation-twilighths|The Twilight House]]—the shrena that keeps the house
-- [[place-vyalendra3|Vyalendra]]—the city it stands in
-- [[affiliation-vyalendra2|Vyalendra]]—the city-state, whose Council is four streets away
+[[affiliation-twilighths|The Twilight House]]
+: the shrena that keeps the house
+
+[[place-vyalendra3|Vyalendra]]
+: the city it stands in
+
+[[affiliation-vyalendra2|Vyalendra]]
+: the city-state, whose Council is four streets away

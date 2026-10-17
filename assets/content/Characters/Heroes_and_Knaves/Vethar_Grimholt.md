@@ -435,6 +435,11 @@ The War Chief and Other Chief are his coequal colleagues. Households support the
 
 ## Plot Hooks
 
-1. **Fuel for the Return**—Vethar must revisit the grove during a cold rain. Escort him, gather dry fuel and keep his body safe while the landing urgently needs news.
-2. **Goods Beneath the Gravel**—A merchant has bought goods removed from the sacred bank. Recover them and find living witnesses who can settle responsibility before a restitution dispute turns violent.
-3. **The Familiar Voice**—A frightened household hears the same false voice offering knowledge of tomorrow. Vethar needs help protecting its sleepers and tracing the disturbance without accepting the voice's forbidden bargain.
+Fuel for the Return
+: Vethar must revisit the grove during a cold rain. Escort him, gather dry fuel and keep his body safe while the landing urgently needs news.
+
+Goods Beneath the Gravel
+: A merchant has bought goods removed from the sacred bank. Recover them and find living witnesses who can settle responsibility before a restitution dispute turns violent.
+
+The Familiar Voice
+: A frightened household hears the same false voice offering knowledge of tomorrow. Vethar needs help protecting its sleepers and tracing the disturbance without accepting the voice's forbidden bargain.

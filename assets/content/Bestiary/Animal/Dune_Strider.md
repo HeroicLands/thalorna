@@ -295,14 +295,31 @@ A running bird or herd throws up a cloud of dust and sand that hides it and blin
 
 ## Attributes
 
-- **Strength:** 10-15 (1d6+9)
-- **Endurance:** 11-16 (1d6+10)
-- **Dexterity:** 10-15 (1d6+9)
-- **Agility:** 14-19 (1d6+13)
-- **Perception:** 12-17 (1d6+11)
-- **Aura:** 7-10 (1d4+6)
-- **Will:** 8-13 (1d6+7)
-- **Reasoning:** 5-8 (1d4+4)
-- **Creativity:** 4-7 (1d4+3)
+Strength
+: 10-15 (1d6+9)
+
+Endurance
+: 11-16 (1d6+10)
+
+Dexterity
+: 10-15 (1d6+9)
+
+Agility
+: 14-19 (1d6+13)
+
+Perception
+: 12-17 (1d6+11)
+
+Aura
+: 7-10 (1d4+6)
+
+Will
+: 8-13 (1d6+7)
+
+Reasoning
+: 5-8 (1d4+4)
+
+Creativity
+: 4-7 (1d4+3)
 
 ### Unmatched Speed

@@ -429,12 +429,17 @@ Few; she is respected by her peers but sometimes viewed with skepticism by tradi
 
 ## Plot Hooks
 
-1. **The Huntsman's Dilemma**—One of Lord Zurgade's guests shoots a beast the lord had reserved for himself, and Zórila is the only one who saw who loosed the arrow.
+The Huntsman's Dilemma
+: One of Lord Zurgade's guests shoots a beast the lord had reserved for himself, and Zórila is the only one who saw who loosed the arrow.
 
-2. **Old Grudges**—A traditionalist among the manor's huntsmen who has never accepted a woman in the post is working to have her replaced.
+Old Grudges
+: A traditionalist among the manor's huntsmen who has never accepted a woman in the post is working to have her replaced.
 
-3. **Echoes of the Past**—A kinsman from the hunting family Zórila grew up in comes to Thornhill Manor asking for a place in the lord's retinue on the strength of her name.
+Echoes of the Past
+: A kinsman from the hunting family Zórila grew up in comes to Thornhill Manor asking for a place in the lord's retinue on the strength of her name.
 
-4. **Shifting Winds**—Political change in Tarvénia threatens Lord Zurgade's standing, and with it the place Zórila holds at Thornhill Manor; she can adapt, resist, or leave.
+Shifting Winds
+: Political change in Tarvénia threatens Lord Zurgade's standing, and with it the place Zórila holds at Thornhill Manor; she can adapt, resist, or leave.
 
-5. **The Opportunity**—A greater lord who hunted as Lord Zurgade's guest offers Zórila a post in his own household, and leaving Thornhill Manor would cost her the trust she has built there.
+The Opportunity
+: A greater lord who hunted as Lord Zurgade's guest offers Zórila a post in his own household, and leaving Thornhill Manor would cost her the trust she has built there.

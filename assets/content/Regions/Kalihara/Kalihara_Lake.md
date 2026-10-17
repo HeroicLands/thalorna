@@ -20,5 +20,8 @@ The Bowl Lake fills the middle of [[place-klhrbowl|the Great Bowl]]. Its water i
 
 ## See Also
 
-- [[place-klhrbowl|The Great Bowl]]—the basin the lake lies in
-- [[place-klhrmassif|The Massif]]—the mount in the lake
+[[place-klhrbowl|The Great Bowl]]
+: the basin the lake lies in
+
+[[place-klhrmassif|The Massif]]
+: the mount in the lake

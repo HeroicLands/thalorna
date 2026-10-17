@@ -33,6 +33,11 @@ From the western coast the climb to Thal'ari takes most of a day on the saddle r
 
 ## See Also
 
-- [[place-klhrwstsddl|The Western Saddle]]—the pass above the sanctuary
-- [[affiliation-tharivaan|Thári'vaan]]—the custodians, their ranks and their sanctuaries
-- [[place-veshvaan|Veshvaan]] and [[place-mirthaan|Mirthaan]]—two other sanctuaries of the island
+[[place-klhrwstsddl|The Western Saddle]]
+: the pass above the sanctuary
+
+[[affiliation-tharivaan|Thári'vaan]]
+: the custodians, their ranks and their sanctuaries
+
+[[place-veshvaan|Veshvaan]] and [[place-mirthaan|Mirthaan]]
+: two other sanctuaries of the island

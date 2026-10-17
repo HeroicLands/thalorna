@@ -434,12 +434,17 @@ Few, though some neighboring farmers see her as inexperienced.
 
 ## Plot Hooks
 
-1. **The Herder's Dilemma**—Malsa faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+The Herder's Dilemma
+: Malsa faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
-2. **Old Grudges**—Few, though some neighboring farmers see her as inexperienced. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: Few, though some neighboring farmers see her as inexperienced. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Malsa's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+Echoes of the Past
+: Something from Malsa's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Malsa depends upon. She must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Élavendre threaten to upend the social order that Malsa depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Malsa the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Malsa the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

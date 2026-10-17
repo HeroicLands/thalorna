@@ -10,11 +10,20 @@ tags: [lore, lineage]
 data: {packFolder: settinglore}
 ---
 
-- **Common Names:** The Deep Folk, the Stone-Wrights, the Under-Kin, the Forge-Born
-- **Self-Name:** Khazari (singular: _Khazár_; adjective: _Khazárian_)
-- **Origins:** Humadhan, "the middle place", a realm they seldom speak of; arrived on Thalorna roughly six millennia ago (~5300 BF), about two thousand years after the [[lore-flksinale|Sinale]]—in a period when most human populations were still hunter-gatherers
-- **Population:** Vanishingly rare (<0.01% of world population). Most humans have never seen one.
-- **Enclaves:** Scattered throughout Thalorna, invariably in mountain fastnesses, in the cliff faces and the cave systems behind them, far from human settlement
+Common Names
+: The Deep Folk, the Stone-Wrights, the Under-Kin, the Forge-Born
+
+Self-Name
+: Khazari (singular: _Khazár_; adjective: _Khazárian_)
+
+Origins
+: Humadhan, "the middle place", a realm they seldom speak of; arrived on Thalorna roughly six millennia ago (~5300 BF), about two thousand years after the [[lore-flksinale|Sinale]]—in a period when most human populations were still hunter-gatherers
+
+Population
+: Vanishingly rare (<0.01% of world population). Most humans have never seen one.
+
+Enclaves
+: Scattered throughout Thalorna, invariably in mountain fastnesses, in the cliff faces and the cave systems behind them, far from human settlement
 
 The **Khazari** are the second of the elder races—younger than the [[lore-flksinale|Sinale]], but ancient beyond any human reckoning. If the Sinale are creatures of forest and starlight, the Khazari are creatures of stone and fire, a people of rock and mountain whose ordinary life is lived near the light in the faces of the high places, and who go down into the deep places of the earth, where rock bears the weight of mountains, for whatever is serious. They were old when humanity was young, and they have watched the rise and fall of every human civilization with the patient indifference of the mountains they inhabit.
 
@@ -139,8 +148,17 @@ The Khazari do not appear to care that humans possess these remnants. They are r
 
 ## See Also
 
-- [[lore-khazariclt|Khazari]]—The culture: listening to stone, life in the cliff face, mining, teaching and outsiders
-- [[lore-flksinale|Sinale]]—The first elder race; the Firstborn
-- [[affiliation-tantsouempr|Empire of Tantsou]]—Mountains believed to contain holds; see [[lore-elderraces|Elder Races]]
-- [[place-vrystwald|Vristwald Region]]—Mountains above the forest likely contain holds
-- [[place-tarvenirgn|Tarvénia]]—Mountain ranges believed to contain holds
+[[lore-khazariclt|Khazari]]
+: The culture: listening to stone, life in the cliff face, mining, teaching and outsiders
+
+[[lore-flksinale|Sinale]]
+: The first elder race; the Firstborn
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: Mountains believed to contain holds; see [[lore-elderraces|Elder Races]]
+
+[[place-vrystwald|Vristwald Region]]
+: Mountains above the forest likely contain holds
+
+[[place-tarvenirgn|Tarvénia]]
+: Mountain ranges believed to contain holds

@@ -14,6 +14,11 @@ The pairing was not invented for the philosophy. The philosophy noticed what the
 
 ## See Also
 
-- [[affiliation-garqeltnu|Gar-Qelt'nu]]—the House that holds the domain
-- [[lore-rethzethu|Reth'zethu]]—the pair
-- [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
+[[affiliation-garqeltnu|Gar-Qelt'nu]]
+: the House that holds the domain
+
+[[lore-rethzethu|Reth'zethu]]
+: the pair
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the philosophy and the other seven domains

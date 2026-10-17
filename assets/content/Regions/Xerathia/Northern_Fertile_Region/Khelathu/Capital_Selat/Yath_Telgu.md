@@ -51,8 +51,17 @@ Yath-Telgu is the stage for the empire's highest play and its most controlled sp
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The imperial city around it
-- [[affiliation-capitalselat|The Capital Selat]]—Parent selat
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-zugezer|Zu-Gezer]]—The necropolis across the water; the False Uqa'a
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—Pantheon (Uqa'a, Reth'Sa'ar) · [[affiliation-genzetpalu|Genzet'Palu]]—[[affiliation-genzetpalu|Council of the Nobles]]
+[[place-galezkara|Galezkara]]
+: The imperial city around it
+
+[[affiliation-capitalselat|The Capital Selat]]
+: Parent selat
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-zugezer|Zu-Gezer]]
+: The necropolis across the water; the False Uqa'a
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: Pantheon (Uqa'a, Reth'Sa'ar) · [[affiliation-genzetpalu|Genzet'Palu]]—[[affiliation-genzetpalu|Council of the Nobles]]

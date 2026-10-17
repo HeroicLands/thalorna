@@ -22,4 +22,5 @@ Under the warrens lie the famine pits dug in the years of the hidden famine ([[l
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The imperial city
+[[place-galezkara|Galezkara]]
+: The imperial city

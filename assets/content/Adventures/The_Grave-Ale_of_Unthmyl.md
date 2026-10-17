@@ -120,10 +120,23 @@ The [[affiliation-ravenguard|Raven Guard]] of [[place-odholm|Odholm]] have heard
 
 ## See Also
 
-- [[place-unthmylsfell|Unthmilsfell]]—the howe and the hall under it
-- [[lore-vetrnaetr|Vetrnetr]]—the howe-wake and the door-seat
-- [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—the grave-ale and what happens when it is not drunk
-- [[affiliation-nalok|Nalok]]—the hidden order that set the glass
-- [[affiliation-ravenguard|Raven Guard]]—the garrison that cannot spare the warriors
-- [[place-dvilgvatn|Dvilgvatn]]—the lake the glass came from
-- [[lore-theshadow|The Shadow]]—what the glass lets in
+[[place-unthmylsfell|Unthmilsfell]]
+: the howe and the hall under it
+
+[[lore-vetrnaetr|Vetrnetr]]
+: the howe-wake and the door-seat
+
+[[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]
+: the grave-ale and what happens when it is not drunk
+
+[[affiliation-nalok|Nalok]]
+: the hidden order that set the glass
+
+[[affiliation-ravenguard|Raven Guard]]
+: the garrison that cannot spare the warriors
+
+[[place-dvilgvatn|Dvilgvatn]]
+: the lake the glass came from
+
+[[lore-theshadow|The Shadow]]
+: what the glass lets in

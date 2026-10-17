@@ -22,6 +22,11 @@ A villa steward who rides in at the turn of each season to settle the household'
 
 ## See Also
 
-- [[affiliation-provinclys|Province of Alessa]]—the parent province
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the imperial overview
-- [[place-orzara|Orzara]]—the capital it works beside
+[[affiliation-provinclys|Province of Alessa]]
+: the parent province
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the imperial overview
+
+[[place-orzara|Orzara]]
+: the capital it works beside

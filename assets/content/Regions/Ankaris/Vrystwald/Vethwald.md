@@ -20,5 +20,8 @@ Vethwald is the Deepwood: an old stand within [[place-vrystwald|Vristwald]]'s ce
 
 ## See Also
 
-- [[place-vrystwald|Vristwald]]—the forest that contains the Deepwood
-- [[place-dunkelwald|Dunkelwald]]—a village inside it
+[[place-vrystwald|Vristwald]]
+: the forest that contains the Deepwood
+
+[[place-dunkelwald|Dunkelwald]]
+: a village inside it

@@ -29,12 +29,22 @@ Outward from the port go grain, papyrus, linen, gold and the empire's artisan wo
 
 ## Settlements
 
-- [[place-garanlaghet|Gar-Anlaghet]] (~120,000)—the selat capital and the empire's first port: the great harbor, the foreign quarters, the customs-house, and the counting-houses of the richest merchants in the realm.
-- [[place-megitgar|Megit-Gar]] (~14,000)—a fishing-and-victualing town on a northern channel that supplies the great port with fish and crews and handles the lesser coasting-trade the big harbor cannot be bothered with.
-- The channel villages: a scatter of small fishing and ferry communities of 500–2,000 thread the marsh-channels around the port, among them [[place-tjauthamegit|Tjautha-Megit]], [[place-garirezu|Gar-Irezu]], [[place-zmabelgen|Zma-Belgen]] and [[place-gadjuzetji|Gadju-Zetji]], living by their boats, their nets and the custom of the great city.
+[[place-garanlaghet|Gar-Anlaghet]] (~120,000)
+: the selat capital and the empire's first port: the great harbor, the foreign quarters, the customs-house, and the counting-houses of the richest merchants in the realm.
+
+[[place-megitgar|Megit-Gar]] (~14,000)
+: a fishing-and-victualing town on a northern channel that supplies the great port with fish and crews and handles the lesser coasting-trade the big harbor cannot be bothered with.
+
+The channel villages
+: a scatter of small fishing and ferry communities of 500–2,000 thread the marsh-channels around the port, among them [[place-tjauthamegit|Tjautha-Megit]], [[place-garirezu|Gar-Irezu]], [[place-zmabelgen|Zma-Belgen]] and [[place-gadjuzetji|Gadju-Zetji]], living by their boats, their nets and the custom of the great city.
 
 ## See Also
 
-- [[affiliation-selatgrnlght|The Selat of Gar-Anlaghet]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-garanlaghet|Gar-Anlaghet]]—Selat capital
+[[affiliation-selatgrnlght|The Selat of Gar-Anlaghet]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-garanlaghet|Gar-Anlaghet]]
+: Selat capital

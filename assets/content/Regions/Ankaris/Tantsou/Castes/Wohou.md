@@ -25,15 +25,25 @@ The caste lives under the **Wo Hou Lou** (Warrior Balance Law), a strict code go
 
 **Rights**
 
-- **Command of arms**: the sole right to raise, lead and direct armed force
-- **Authority in justice**: the power to judge, punish and enforce the law within their domains, under the Warlord
-- **Honor and status**: recognition of service through lands, titles and standing
+Command of arms
+: the sole right to raise, lead and direct armed force
+
+Authority in justice
+: the power to judge, punish and enforce the law within their domains, under the Warlord
+
+Honor and status
+: recognition of service through lands, titles and standing
 
 **Duties**
 
-- **The code**: unwavering adherence to the Wo Hou Lou, whose violation falls on the man and his house
-- **Defense of the realm**: the obligation to protect the empire and its people from every threat
-- **Service to the Zhazho**: loyalty to the Emperor and to the Warlord each serves
+The code
+: unwavering adherence to the Wo Hou Lou, whose violation falls on the man and his house
+
+Defense of the realm
+: the obligation to protect the empire and its people from every threat
+
+Service to the Zhazho
+: loyalty to the Emperor and to the Warlord each serves
 
 ## Naming and Honors
 
@@ -49,9 +59,20 @@ In the [[lore-phlsphyleiwo|Leiwo]] framework the Wohou are the enforcing Lei of 
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]]—detailed rights and restrictions for Wohou
-- [[lore-tseising|Law and Honor]]—legal framework and codes of honor governing Wohou conduct
-- [[lore-zhazho|Zhazho]]—the Emperor and the Warlords the Wohou serve
-- [[lore-tanchei|Tanchéi]]—celestial scholars who advise Wohou commanders
-- [[lore-wanduo|Wánduo]]—magical counselors who work alongside Wohou commanders
-- [[affiliation-tantsouempr|Empire of Tantsou]]—overview of imperial governance and structure
+[[lore-castelaws|Caste Laws]]
+: detailed rights and restrictions for Wohou
+
+[[lore-tseising|Law and Honor]]
+: legal framework and codes of honor governing Wohou conduct
+
+[[lore-zhazho|Zhazho]]
+: the Emperor and the Warlords the Wohou serve
+
+[[lore-tanchei|Tanchéi]]
+: celestial scholars who advise Wohou commanders
+
+[[lore-wanduo|Wánduo]]
+: magical counselors who work alongside Wohou commanders
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: overview of imperial governance and structure

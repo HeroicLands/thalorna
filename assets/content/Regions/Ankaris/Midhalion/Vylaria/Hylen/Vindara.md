@@ -22,6 +22,11 @@ Its merchants deal in the casks and the contracts that carry Hilen's wine to the
 
 ## See Also
 
-- [[affiliation-provnchyln|Province of Hilen]]—parent province
-- [[place-hylen|Hilen]]—the land of its wine country
-- [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview
+[[affiliation-provnchyln|Province of Hilen]]
+: parent province
+
+[[place-hylen|Hilen]]
+: the land of its wine country
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: imperial overview

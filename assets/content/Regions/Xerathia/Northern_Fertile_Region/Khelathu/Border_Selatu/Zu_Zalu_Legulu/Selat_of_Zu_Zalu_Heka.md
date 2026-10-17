@@ -100,9 +100,20 @@ Zu-Zalu-Legulu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the sout
 
 ## See Also
 
-- [[affiliation-borderselatu|The Border Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-balehen|Balehen]]—Selat capital and fortress
-- [[affiliation-malldbndlg|Free Companies Compact]]—Chartered mercenaries who take frontier contracts
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—Pantheon
-- [[place-zuzalulegulunome|Zu-Zalu-Legulu]]—The land the selat holds
+[[affiliation-borderselatu|The Border Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-balehen|Balehen]]
+: Selat capital and fortress
+
+[[affiliation-malldbndlg|Free Companies Compact]]
+: Chartered mercenaries who take frontier contracts
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: Pantheon
+
+[[place-zuzalulegulunome|Zu-Zalu-Legulu]]
+: The land the selat holds

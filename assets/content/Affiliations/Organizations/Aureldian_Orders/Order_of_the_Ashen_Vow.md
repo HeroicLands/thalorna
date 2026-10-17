@@ -50,9 +50,14 @@ sohl: {system: {commonSkills: []}}
 
 _"The Order of the Ashen Vow"—Vylari: **Elztholmeza**_
 
-- **Type:** Fighting religious order (heretical to the mainstream Aureldian faith)
-- **Patron:** [[affiliation-blackflame|The Black Flame]]—Ústaron as purifier-through-destruction, fire as weapon and instrument of dominion
-- **Region:** [[place-aureldirgn|Aureldia]], operating clandestinely except in territories where Black Flame influence is locally tolerated; remote chapter sites in the [[place-drenavrspn|Drenavar Spine]] and the Tarvénian highlands
+Type
+: Fighting religious order (heretical to the mainstream Aureldian faith)
+
+Patron
+: [[affiliation-blackflame|The Black Flame]]—Ústaron as purifier-through-destruction, fire as weapon and instrument of dominion
+
+Region
+: [[place-aureldirgn|Aureldia]], operating clandestinely except in territories where Black Flame influence is locally tolerated; remote chapter sites in the [[place-drenavrspn|Drenavar Spine]] and the Tarvénian highlands
 
 ## Overview
 
@@ -78,9 +83,14 @@ The order is organized in cells of four to eight Sworn Brothers, each commanded 
 
 The order's three central tenets:
 
-- **[The Vow of the Ashen Hand]{.name data-type="lore/custom"}**—that the brother has sworn, on his soul and on the brand at his arm, to commit his life to the purifying flame. The vow does not permit retirement; brothers serve until death or until formal release by the Voice of the Ash, which is granted only for incapacity. Apostates are pursued by the order with greater fervor than its external targets.
-- **[The Refusal of Half-Measure]{.name data-type="lore/custom"}**—that purification by fire is total or it is failure. The order does not permit its brothers to participate in partial actions—interrogations short of execution, suppressions short of destruction, judgments short of the brand. The doctrine is severe because it must be: the order's theology holds that incomplete purification is worse than none, since it produces a corrupted survivor that will spread further than the original infection.
-- **[The Sanctity of the Secret]{.name data-type="lore/custom"}**—that the order's operation depends on secrecy from the orthodox authorities, and that a brother who has been captured by those authorities must, by the terms of his vow, find means to silence himself before he can be made to speak.
+[The Vow of the Ashen Hand]{.name data-type="lore/custom"}
+: that the brother has sworn, on his soul and on the brand at his arm, to commit his life to the purifying flame. The vow does not permit retirement; brothers serve until death or until formal release by the Voice of the Ash, which is granted only for incapacity. Apostates are pursued by the order with greater fervor than its external targets.
+
+[The Refusal of Half-Measure]{.name data-type="lore/custom"}
+: that purification by fire is total or it is failure. The order does not permit its brothers to participate in partial actions—interrogations short of execution, suppressions short of destruction, judgments short of the brand. The doctrine is severe because it must be: the order's theology holds that incomplete purification is worse than none, since it produces a corrupted survivor that will spread further than the original infection.
+
+[The Sanctity of the Secret]{.name data-type="lore/custom"}
+: that the order's operation depends on secrecy from the orthodox authorities, and that a brother who has been captured by those authorities must, by the terms of his vow, find means to silence himself before he can be made to speak.
 
 Combat doctrine emphasizes incendiary tactics, the use of alchemical fire-throwers and oil-jars where these can be procured, and the personal fire-craft that several senior brothers have mastered (limited Ústaran fire-magic of the destructive aspect, taught informally within the order; the techniques are dangerous to the practitioner as much as to the target). Conventional combat training is competent but not the order's emphasis.
 
@@ -92,12 +102,23 @@ Combat doctrine emphasizes incendiary tactics, the use of alchemical fire-throwe
 
 ## Relations
 
-- **The [[affiliation-sacredforge|Sacred Forge]]**—primary doctrinal enemy. The order regards the Sacred Forge clergy as corrupt apostates from Ústaron's true nature and treats them as a higher-priority target than non-Ústaran heretics.
-- **[[affiliation-ironcinder|The Iron Cinder]]**—sister Black Flame order. The two orders coordinate; the Ashen Vow handles long-term theological and personnel purification, while the Iron Cinder handles immediate strike work. The relationship is cooperative but not without internal tension over priorities.
-- **[[affiliation-ordrsldwrd|The Order of the Sealed Word]] and [[affiliation-twinbldrdr|The Twinblade Order]]**—sworn enemies; the Árdavon orders maintain standing arrangements with the Sacred Forge for the suppression of Ashen Vow activity in their territories.
-- **The [[affiliation-alndnwrdns|Áelendan Wardens]] and [[affiliation-groveconcl|The Grove Council]]**—the order has limited engagement with the Élavendren native institutions, which it regards as theologically separate and not its primary concern; the Wardens regard the order as a threat to the [Kindred Pact]{.name data-type="lore/law"} when its operations brush against fae-touched territory.
-- **The Aureldian Crowns**—formally hostile in all five kingdoms; informally protected by the Tarvénian hill-baronies.
-- **The [[affiliation-ordoarcanis|Thordimalon]]**—the order regards the Arcane Order as a tactical opponent and a theological irrelevance; the Arcane Order regards the order as a security problem rather than a religious one.
+The [[affiliation-sacredforge|Sacred Forge]]
+: primary doctrinal enemy. The order regards the Sacred Forge clergy as corrupt apostates from Ústaron's true nature and treats them as a higher-priority target than non-Ústaran heretics.
+
+[[affiliation-ironcinder|The Iron Cinder]]
+: sister Black Flame order. The two orders coordinate; the Ashen Vow handles long-term theological and personnel purification, while the Iron Cinder handles immediate strike work. The relationship is cooperative but not without internal tension over priorities.
+
+[[affiliation-ordrsldwrd|The Order of the Sealed Word]] and [[affiliation-twinbldrdr|The Twinblade Order]]
+: sworn enemies; the Árdavon orders maintain standing arrangements with the Sacred Forge for the suppression of Ashen Vow activity in their territories.
+
+The [[affiliation-alndnwrdns|Áelendan Wardens]] and [[affiliation-groveconcl|The Grove Council]]
+: the order has limited engagement with the Élavendren native institutions, which it regards as theologically separate and not its primary concern; the Wardens regard the order as a threat to the [Kindred Pact]{.name data-type="lore/law"} when its operations brush against fae-touched territory.
+
+The Aureldian Crowns
+: formally hostile in all five kingdoms; informally protected by the Tarvénian hill-baronies.
+
+The [[affiliation-ordoarcanis|Thordimalon]]
+: the order regards the Arcane Order as a tactical opponent and a theological irrelevance; the Arcane Order regards the order as a security problem rather than a religious one.
 
 ## Identifying Marks
 

@@ -308,9 +308,20 @@ and we stand behind the seal.
 
 ## See Also
 
-- [[lore-byzarianclt|Bizarian]]—the culture of the bargain, its Feast of Thresholds and its keeping of the dead
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the Twelve, kept in Bizaria in an eastern rite
-- [[lore-ardavondty|Árdavon]]—the Keeper of the Gates, whose feast the hymn keeps vigil for
-- [[lore-karnavosdty|Karnavos]]—the Wild Beast, who would not seal
-- [[lore-selmorosdty|Sélmoros]]—the Silent Judge, who closes the account
-- [[lore-heladweighing|The Weighing at Krusteikhos]]—the two weights on the balance before the floor
+[[lore-byzarianclt|Bizarian]]
+: the culture of the bargain, its Feast of Thresholds and its keeping of the dead
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the Twelve, kept in Bizaria in an eastern rite
+
+[[lore-ardavondty|Árdavon]]
+: the Keeper of the Gates, whose feast the hymn keeps vigil for
+
+[[lore-karnavosdty|Karnavos]]
+: the Wild Beast, who would not seal
+
+[[lore-selmorosdty|Sélmoros]]
+: the Silent Judge, who closes the account
+
+[[lore-heladweighing|The Weighing at Krusteikhos]]
+: the two weights on the balance before the floor

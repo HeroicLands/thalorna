@@ -312,15 +312,32 @@ The dense coat and tough hide turn a glancing cut and blunt a bite, and the anim
 
 ## Attributes
 
-- **Strength:** 24-29 (1d6+23)
-- **Endurance:** 22-27 (1d6+21)
-- **Dexterity:** 12-17 (1d6+11)
-- **Agility:** 12-17 (1d6+11)
-- **Perception:** 13-18 (1d6+12)
-- **Aura:** 12-17 (1d6+11)
-- **Will:** 20-25 (1d6+19)
-- **Reasoning:** 7-10 (1d4+6)
-- **Creativity:** 6-9 (1d4+5)
+Strength
+: 24-29 (1d6+23)
+
+Endurance
+: 22-27 (1d6+21)
+
+Dexterity
+: 12-17 (1d6+11)
+
+Agility
+: 12-17 (1d6+11)
+
+Perception
+: 13-18 (1d6+12)
+
+Aura
+: 12-17 (1d6+11)
+
+Will
+: 20-25 (1d6+19)
+
+Reasoning
+: 7-10 (1d4+6)
+
+Creativity
+: 6-9 (1d4+5)
 
 ### Iron Hide
 

@@ -27,11 +27,19 @@ The selat is marsh, and the hunters are its particular trade. On the firmer grou
 
 ## Settlements
 
-- [[place-luttjelsuk|Lut-Tjelsur]] (~38,000)—the selat capital and the seat of the Halzi'a.
-- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+[[place-luttjelsuk|Lut-Tjelsur]] (~38,000)
+: the selat capital and the seat of the Halzi'a.
+
+The villages and estate-towns
+: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatlttjlsk|The Selat of Lut-Tjelsur]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-luttjelsuk|Lut-Tjelsur]]—Selat capital
+[[affiliation-selatlttjlsk|The Selat of Lut-Tjelsur]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-luttjelsuk|Lut-Tjelsur]]
+: Selat capital

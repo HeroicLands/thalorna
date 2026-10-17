@@ -136,7 +136,14 @@ A milestone that marks more than distance is a story every Vandstein child knows
 
 ## See Also
 
-- [[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]—the legion the road carried north
-- [[place-vandstein|Vandstein]]—the highlands the road crossed
-- [[affiliation-provncmktr|Province of Moktur]]—the province that built it and bought the chiefs
-- [[lore-wintertally|The Tally of Winters]]—the Legions' Road and the Southern Raiding as the forest counts them
+[[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]
+: the legion the road carried north
+
+[[place-vandstein|Vandstein]]
+: the highlands the road crossed
+
+[[affiliation-provncmktr|Province of Moktur]]
+: the province that built it and bought the chiefs
+
+[[lore-wintertally|The Tally of Winters]]
+: the Legions' Road and the Southern Raiding as the forest counts them

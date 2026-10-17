@@ -343,20 +343,29 @@ It knows every wallow, path and landmark of its ground and walks the same round 
 
 ## Attributes
 
-- **Strength:** 16-21 (1d6+15)
+Strength
+: 16-21 (1d6+15)
 
-- **Endurance:** 15-20 (1d6+14)
+Endurance
+: 15-20 (1d6+14)
 
-- **Dexterity:** 7-10 (1d4+6)
+Dexterity
+: 7-10 (1d4+6)
 
-- **Agility:** 6-9 (1d4+5)
+Agility
+: 6-9 (1d4+5)
 
-- **Perception:** 9-14 (1d6+8)
+Perception
+: 9-14 (1d6+8)
 
-- **Aura:** 7-10 (1d4+6)
+Aura
+: 7-10 (1d4+6)
 
-- **Will:** 11-16 (1d6+10)
+Will
+: 11-16 (1d6+10)
 
-- **Reasoning:** 4-7 (1d4+3)
+Reasoning
+: 4-7 (1d4+3)
 
-- **Creativity:** 3-6 (1d4+2)
+Creativity
+: 3-6 (1d4+2)

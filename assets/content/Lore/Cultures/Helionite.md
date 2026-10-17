@@ -182,15 +182,32 @@ The [[affiliation-ordoarcanis|Thordimalon]] was born out of that tradition at th
 
 ## See Also
 
-- [[place-helionis|Helionis]]—the seven cities and the country around them
-- [[affiliation-ctysttshlns|City-States of Helionis]]—how the cities govern themselves
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the gods and the shared festivals
-- [[affiliation-ordoarcanis|Thordimalon]]—the order born at the Epistémion
-- [[place-sourplain|The Sour Plain]]—the field no herald could cross
-- [[lore-firstgames|The First Games]]—the truce, the herald and the dead brought home
-- [[lore-heladturnedwrk|The Turned Working]]—the battle on the Sour Plain
-- [[lore-heladthyrsiege|The Siege of Thirenae]]—the terms that kept the colleges
-- [[skill-helonclng|Helonic]]—the tongue of drama, rhetoric and verse
+[[place-helionis|Helionis]]
+: the seven cities and the country around them
+
+[[affiliation-ctysttshlns|City-States of Helionis]]
+: how the cities govern themselves
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the gods and the shared festivals
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: the order born at the Epistémion
+
+[[place-sourplain|The Sour Plain]]
+: the field no herald could cross
+
+[[lore-firstgames|The First Games]]
+: the truce, the herald and the dead brought home
+
+[[lore-heladturnedwrk|The Turned Working]]
+: the battle on the Sour Plain
+
+[[lore-heladthyrsiege|The Siege of Thirenae]]
+: the terms that kept the colleges
+
+[[skill-helonclng|Helonic]]
+: the tongue of drama, rhetoric and verse
 
 ## Glossary {#glossary}
 

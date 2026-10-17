@@ -67,6 +67,11 @@ What the money buys is rarely acquittal. It buys the inspection that does not ha
 
 ## See Also
 
-- [[affiliation-verdanorzara|The Courts of Orzara]]—the Verdan Orzara and the tiered civic courts above them
-- [[place-orzara|Orzara]]—the city whose wards they keep
-- [[affiliation-vylrnmltry|The Vylarian Military]]—home of the City Watch, which enforces their rulings
+[[affiliation-verdanorzara|The Courts of Orzara]]
+: the Verdan Orzara and the tiered civic courts above them
+
+[[place-orzara|Orzara]]
+: the city whose wards they keep
+
+[[affiliation-vylrnmltry|The Vylarian Military]]
+: home of the City Watch, which enforces their rulings

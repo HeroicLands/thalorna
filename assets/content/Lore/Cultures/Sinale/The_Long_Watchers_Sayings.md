@@ -352,10 +352,23 @@ Have you heard what the Long-Watcher said to the Seer?
 
 ## See Also
 
-- [[lore-flksinale|Sinale]]—the people whose sayings these are
-- [[place-aelirosse|Aelirosse]]—the enclave, its grove and its water-court
-- [[lore-goddreams|The God of Dreams]]—Aulveira, whose dreams a Seer learns to read
-- [[lore-calathirrnk|Ansorun]] · [[lore-tindesarrnk|Ilthorin]]—the Long-Watcher and the Seer
-- [[lore-aelendnppl|The Áelendan]]—the people who carried the sayings out
-- [[lore-longnhrtnc|The Long Inheritance]]—what passes to humans by being seen
-- [[skill-sinalelng|Sinale Language]]—the wearing, the naming and the hearth ending
+[[lore-flksinale|Sinale]]
+: the people whose sayings these are
+
+[[place-aelirosse|Aelirosse]]
+: the enclave, its grove and its water-court
+
+[[lore-goddreams|The God of Dreams]]
+: Aulveira, whose dreams a Seer learns to read
+
+[[lore-calathirrnk|Ansorun]] · [[lore-tindesarrnk|Ilthorin]]
+: the Long-Watcher and the Seer
+
+[[lore-aelendnppl|The Áelendan]]
+: the people who carried the sayings out
+
+[[lore-longnhrtnc|The Long Inheritance]]
+: what passes to humans by being seen
+
+[[skill-sinalelng|Sinale Language]]
+: the wearing, the naming and the hearth ending

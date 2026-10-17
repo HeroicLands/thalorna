@@ -62,9 +62,14 @@ The austerity applies upward as well. The Thaz'Lekhau holds her appointment by r
 
 The temple's weight falls on three other bodies, and each leans on it for a different reason.
 
-- The imperial courts—Defer to the rulings of the temple's ordained judges. A Lem'Nelgir who hears your case in the temple is deciding it for the courts too, which is why the temple's reputation for being beyond purchase matters to the state as much as to you.
-- The court and the aristocracy—The Thaz'Lekhau answers to both for the temple. The High Priestess's independence of the Gar-Au's direct control is real, and so is the expectation that the throne protects the temples.
-- The provincial temples of Qe'aret—Nominally supervised by the Thaz'Lekhau of the great temple.
+The imperial courts
+: Defer to the rulings of the temple's ordained judges. A Lem'Nelgir who hears your case in the temple is deciding it for the courts too, which is why the temple's reputation for being beyond purchase matters to the state as much as to you.
+
+The court and the aristocracy
+: The Thaz'Lekhau answers to both for the temple. The High Priestess's independence of the Gar-Au's direct control is real, and so is the expectation that the throne protects the temples.
+
+The provincial temples of Qe'aret
+: Nominally supervised by the Thaz'Lekhau of the great temple.
 
 ## Commerce and Currency
 
@@ -74,5 +79,8 @@ A ruling from the temple is not for sale: a priest found open to purchase loses 
 
 ## See Also
 
-- [[lore-qearetdty|Qe'aret]]—The goddess whose order the temple keeps
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—The state whose courts defer to the temple
+[[lore-qearetdty|Qe'aret]]
+: The goddess whose order the temple keeps
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: The state whose courts defer to the temple

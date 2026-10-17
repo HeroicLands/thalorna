@@ -37,9 +37,20 @@ Whether the threat is as near as the ruling castes say, or swollen to justify th
 
 ## See Also
 
-- [[affiliation-youweng|Youwéng]]—the Infernal Realm, its Demon Lords and those who know their forms
-- [[lore-clstlpnthn|Celestial Pantheon]]—the order the Infernal Realms stand outside
-- [[affiliation-nuotsourui|Nuotsou Rui]]—the cult that worships the Demon Lords
-- [[lore-dreadspawncrtr|Dreadspawn]]—creatures made, not born, and filed as Sacred-Creation Life
-- [[lore-celestlrdr|Celestial Order]]—the faith and its cosmology
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the empire that holds the line
+[[affiliation-youweng|Youwéng]]
+: the Infernal Realm, its Demon Lords and those who know their forms
+
+[[lore-clstlpnthn|Celestial Pantheon]]
+: the order the Infernal Realms stand outside
+
+[[affiliation-nuotsourui|Nuotsou Rui]]
+: the cult that worships the Demon Lords
+
+[[lore-dreadspawncrtr|Dreadspawn]]
+: creatures made, not born, and filed as Sacred-Creation Life
+
+[[lore-celestlrdr|Celestial Order]]
+: the faith and its cosmology
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the empire that holds the line

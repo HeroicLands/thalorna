@@ -55,10 +55,17 @@ The table names the constituent villages and the bow-fort town. The rest of the 
 
 What each village is for:
 
-- **The bow:** [[place-venuvana|Venivana]] grows the bamboo staves, [[place-vishanagrama|Vishanagrama]] supplies horn and sinew for facings and backings, [[place-sharavana|Shiravana]] cuts the reed for shafts and fletches them, and [[place-madhupada|Madupada]] sends wax for the bindings.
-- **The halls and the horses:** [[place-vanasthali|Vanastoli]] cuts the timber of the academy halls and the fort, and [[place-ashvatira|Ashvatira]] keeps the horses of the [[place-swifthand|Swift Hand]].
-- **The table and the loom:** [[place-shaligrama|Shaligroma]] grows rice, [[place-ikshukshetra|Ikshukshetra]] sugarcane, [[place-tilavana|Tilavana]] sesame and [[place-gokshetra|Gokshetra]] cattle; [[place-karpasagrama|Karpasagrama]] weaves cotton and [[place-nilavana|Nilavana]] dyes it.
-- **The road and the muster:** [[place-taranaghatta|Taranaghatta]] holds the crossing and its toll, and [[place-virasthali|Virastali]] sends more men to the muster than any other village.
+The bow
+: [[place-venuvana|Venivana]] grows the bamboo staves, [[place-vishanagrama|Vishanagrama]] supplies horn and sinew for facings and backings, [[place-sharavana|Shiravana]] cuts the reed for shafts and fletches them, and [[place-madhupada|Madupada]] sends wax for the bindings.
+
+The halls and the horses
+: [[place-vanasthali|Vanastoli]] cuts the timber of the academy halls and the fort, and [[place-ashvatira|Ashvatira]] keeps the horses of the [[place-swifthand|Swift Hand]].
+
+The table and the loom
+: [[place-shaligrama|Shaligroma]] grows rice, [[place-ikshukshetra|Ikshukshetra]] sugarcane, [[place-tilavana|Tilavana]] sesame and [[place-gokshetra|Gokshetra]] cattle; [[place-karpasagrama|Karpasagrama]] weaves cotton and [[place-nilavana|Nilavana]] dyes it.
+
+The road and the muster
+: [[place-taranaghatta|Taranaghatta]] holds the crossing and its toll, and [[place-virasthali|Virastali]] sends more men to the muster than any other village.
 
 ## Society
 
@@ -72,6 +79,11 @@ The academies bring in the least direct revenue of the three and the most of eve
 
 ## See Also
 
-- [[affiliation-dhnrktjnpd|Danurkota Janapoda]]—the temple-republic that holds this land
-- [[place-vedyarargn|Vedyara Region]]—the enclosing region
-- [[place-dhanurkota|Danurkota]]—the temple-seat
+[[affiliation-dhnrktjnpd|Danurkota Janapoda]]
+: the temple-republic that holds this land
+
+[[place-vedyarargn|Vedyara Region]]
+: the enclosing region
+
+[[place-dhanurkota|Danurkota]]
+: the temple-seat

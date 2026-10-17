@@ -58,10 +58,17 @@ sohl: {system: {commonSkills: []}}
 
 Letters still come to [[place-besikar2|Besikar]] from [[place-orzara|Orzara City]] addressed to the "Tevran Maldor Taruzel," and the house they are addressed to answers none of them. That house is the Vezakuni, the Council of the Guild-Wardens, and it has no Vylarian name: it charters the guilds of the [[place-taruzelrgn|Taruzel Region]], registers their masters, examines their apprentices, judges disputes between trades and, through its treasury, runs the banking of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], all in the [[skill-taruzelilng|Taruzeli Language]] and on Taruzelian forms. The Vylarian guild umbrella, [[affiliation-tevran|The Tevran Maldor]], refuses to acknowledge the name it chose, and the refusal is a standing diplomatic offense that the Taruzelian council protests in public and enjoys in private, because it costs the [[affiliation-vylarinmpr|Vylarian Empire]] credibility every time it is repeated.
 
-- **Taruzeli name:** Vezakuni, "the Company of the Warding", the Council of the Guild-Wardens; a guild-warden is a _vezakum_
-- **Kind:** the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]' chartered guild umbrella, which took over the Tevran Maldor's Taruzelian operations
-- **Seat:** the **Vezakar** ("where the warding is kept", the House of the Wardens) at [[affiliation-besikar|Besikar]], in the converted hall of the old compact-house of Besikar's merchant princes. The choice is deliberate: it puts the institution on ground sacred to the pre-conquest Taruzelian commercial tradition and in no building the empire built.
-- **Founded:** twelve years ago, by act of the Confederation's founding council, in the closing weeks of the War of Independence
+Taruzeli name
+: Vezakuni, "the Company of the Warding", the Council of the Guild-Wardens; a guild-warden is a _vezakum_
+
+Kind
+: the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]' chartered guild umbrella, which took over the Tevran Maldor's Taruzelian operations
+
+Seat
+: the **Vezakar** ("where the warding is kept", the House of the Wardens) at [[affiliation-besikar|Besikar]], in the converted hall of the old compact-house of Besikar's merchant princes. The choice is deliberate: it puts the institution on ground sacred to the pre-conquest Taruzelian commercial tradition and in no building the empire built.
+
+Founded
+: twelve years ago, by act of the Confederation's founding council, in the closing weeks of the War of Independence
 
 ## How It Was Made
 
@@ -113,18 +120,34 @@ Script is the most constant point of friction in twelve years of post-secession 
 
 ## Notable Members
 
-- **Dirabum Qizikush Mugiluni**—the founding chief, who left Vylarian Tevran service in the second year of the secession war. He is both Dirabum and the public face of the schism, and for twelve years he has refused every Vylarian letter that addresses him by his former Vylarian title.
-- **Chief Overseer Pazasuya Lataruni**—the senior discipline officer and the most rigorous of the Vezakuni's procedural officers. The Taruzelian commercial elite quietly fears her, and several of its members are the subjects of investigations she is in no hurry to conclude.
-- **Kubasum Yushuduya Jakuduni**—head of the Merazuni and the Vezakuni's chief financial officer. She is commonly held to be the second most powerful figure in the institution after the Dirabum, and her decisions touch the Confederation's daily commerce more directly than any other Taruzelian official's.
-- The thirty-two seat-holders of the Gatitush—the Taruzelian guildmasters whose elevation to the council gives the Vezakuni its working authority.
+Dirabum Qizikush Mugiluni
+: the founding chief, who left Vylarian Tevran service in the second year of the secession war. He is both Dirabum and the public face of the schism, and for twelve years he has refused every Vylarian letter that addresses him by his former Vylarian title.
+
+Chief Overseer Pazasuya Lataruni
+: the senior discipline officer and the most rigorous of the Vezakuni's procedural officers. The Taruzelian commercial elite quietly fears her, and several of its members are the subjects of investigations she is in no hurry to conclude.
+
+Kubasum Yushuduya Jakuduni
+: head of the Merazuni and the Vezakuni's chief financial officer. She is commonly held to be the second most powerful figure in the institution after the Dirabum, and her decisions touch the Confederation's daily commerce more directly than any other Taruzelian official's.
+
+The thirty-two seat-holders of the Gatitush
+: the Taruzelian guildmasters whose elevation to the council gives the Vezakuni its working authority.
 
 ## Relations
 
-- **The Vylarian [[affiliation-tevran|Tevran Maldor]]**—unrecognized in both directions. The Tevran refuses the Vezakuni's Taruzelian name, and the Vezakuni refuses any communication that uses the Vylarian "Tevran Maldor Taruzel." Practical business passes through intermediaries, usually Helladic merchants of standing, who carry messages neither side will admit to having sent. The arrangement is awkward and weighed down with personal history, because many senior officers on both sides served together before the war.
-- **The Aureldian and Helladic Tevran chapters**—formally beyond the Vezakuni's reach under the Vylarian Tevran's structure. The Vezakuni has nonetheless built working personal contacts with several of their _therkalenoi_ through quiet diplomatic effort. Orzara has not approved those contacts, and they are conducted accordingly.
-- **The Confederation's federal council**—the Vezakuni's patron and ultimate authority. The tie is closer and more political than the Vylarian Tevran's tie to the imperial throne: the federal council intervenes in Vezakuni decisions more often than the empire intervenes in the Tevran's, and the Dirabum is in practice accountable to a coalition of merchant princes whose interests do not always match the institution's stated mission.
-- **The guild systems outside Vylaria**—the Vezakuni has pursued recognition agreements with every major independent tradition, on terms generally kinder to the foreign party than the Vylarian Tevran ever offered. With [[affiliation-garmelnu|Gar'Melnu]] the talks on per-trade equivalence are in their middle stage; with [[affiliation-garnuw|Gar'Nuw]] the talks on desert and frontier work are in their early stage; with [[affiliation-bthntrdhss|The Bethuan Trade-Houses]] full recognition was concluded last year; and with [[affiliation-skaldscrcl|The Skalds' Circle]] it has a reciprocal hospitality recognition. [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] has declined every overture from the Vezakuni, as it has declined every overture from the Vylarian Tevran.
-- **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]], above all [[affiliation-crimsnldgr|The Crimson Ledger]]**—the Vezakuni has formal anti-corruption protocols and an informal admission that the Crimson Ledger's financial reach into the Taruzelian guild economy is substantial. The Pazasuni have brought cases against guild members with Ledger ties, and most have ended in censure, not in a charter revoked. The Vezakuni's reformist faction is losing patience with that pattern.
+The Vylarian [[affiliation-tevran|Tevran Maldor]]
+: unrecognized in both directions. The Tevran refuses the Vezakuni's Taruzelian name, and the Vezakuni refuses any communication that uses the Vylarian "Tevran Maldor Taruzel." Practical business passes through intermediaries, usually Helladic merchants of standing, who carry messages neither side will admit to having sent. The arrangement is awkward and weighed down with personal history, because many senior officers on both sides served together before the war.
+
+The Aureldian and Helladic Tevran chapters
+: formally beyond the Vezakuni's reach under the Vylarian Tevran's structure. The Vezakuni has nonetheless built working personal contacts with several of their _therkalenoi_ through quiet diplomatic effort. Orzara has not approved those contacts, and they are conducted accordingly.
+
+The Confederation's federal council
+: the Vezakuni's patron and ultimate authority. The tie is closer and more political than the Vylarian Tevran's tie to the imperial throne: the federal council intervenes in Vezakuni decisions more often than the empire intervenes in the Tevran's, and the Dirabum is in practice accountable to a coalition of merchant princes whose interests do not always match the institution's stated mission.
+
+The guild systems outside Vylaria
+: the Vezakuni has pursued recognition agreements with every major independent tradition, on terms generally kinder to the foreign party than the Vylarian Tevran ever offered. With [[affiliation-garmelnu|Gar'Melnu]] the talks on per-trade equivalence are in their middle stage; with [[affiliation-garnuw|Gar'Nuw]] the talks on desert and frontier work are in their early stage; with [[affiliation-bthntrdhss|The Bethuan Trade-Houses]] full recognition was concluded last year; and with [[affiliation-skaldscrcl|The Skalds' Circle]] it has a reciprocal hospitality recognition. [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] has declined every overture from the Vezakuni, as it has declined every overture from the Vylarian Tevran.
+
+The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]], above all [[affiliation-crimsnldgr|The Crimson Ledger]]
+: the Vezakuni has formal anti-corruption protocols and an informal admission that the Crimson Ledger's financial reach into the Taruzelian guild economy is substantial. The Pazasuni have brought cases against guild members with Ledger ties, and most have ended in censure, not in a charter revoked. The Vezakuni's reformist faction is losing patience with that pattern.
 
 ## Identifying Marks
 
@@ -143,9 +166,20 @@ At formal sessions the members of the Gatitush wear a deep crimson stole embroid
 
 ## See Also
 
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the polity that chartered the Vezakuni
-- [[affiliation-tevran|Tevran Maldor]]—the Vylarian guild umbrella it replaced in Taruzel
-- [[affiliation-tarmex|Tarmeks Orzan]]—the Vylarian treasury the Merazuni mirrors
-- [[affiliation-danvar|Danvar]]—the Vylarian moneylenders' guild
-- [[lore-trzlncrncy|Taruzelian Currency]]—the coinage the Merazuni backs
-- [[affiliation-besikar|Besikar]]—the seat of the Vezakar
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the polity that chartered the Vezakuni
+
+[[affiliation-tevran|Tevran Maldor]]
+: the Vylarian guild umbrella it replaced in Taruzel
+
+[[affiliation-tarmex|Tarmeks Orzan]]
+: the Vylarian treasury the Merazuni mirrors
+
+[[affiliation-danvar|Danvar]]
+: the Vylarian moneylenders' guild
+
+[[lore-trzlncrncy|Taruzelian Currency]]
+: the coinage the Merazuni backs
+
+[[affiliation-besikar|Besikar]]
+: the seat of the Vezakar

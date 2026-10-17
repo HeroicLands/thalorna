@@ -40,6 +40,11 @@ Hides, furs, and game products from Ts'uma No'tun reach K'ich'chik markets throu
 
 ## See Also
 
-- [[affiliation-tzumanotun|Ts'uma No'tun]]—The realm that holds this land
-- [[place-nrthrnkchchk|Northern K'ich'chik]]—The enclosing region
-- [[place-tzumanotun2|Ts'uma No'tun]]—Seat of Ts'uma No'tun
+[[affiliation-tzumanotun|Ts'uma No'tun]]
+: The realm that holds this land
+
+[[place-nrthrnkchchk|Northern K'ich'chik]]
+: The enclosing region
+
+[[place-tzumanotun2|Ts'uma No'tun]]
+: Seat of Ts'uma No'tun

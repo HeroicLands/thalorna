@@ -40,20 +40,42 @@ Hilen is a country of estates and market-towns: great aristocratic domains, each
 
 **Towns.**
 
-- [[place-aravantia|Aravantara]] (~28,000)—the provincial capital and the great grain-and-wine market of the breadbasket.
-- [[place-granaria|Kelborara]] (~7,000)—the chief grain-market of the central province, all granaries and weighing-yards.
-- [[place-vindara|Vindara]] (~6,000)—a prosperous town of the terraced wine country.
-- [[place-olivenna|Olivenna]] (~5,000)—a town of presses and oil-merchants in the olive country.
-- [[place-polthara|Polthara]] (~5,000)—a market town of the estate country.
-- [[place-messora|Messora]] (~4,000)—a harvest-market town of the southern estates.
-- [[place-ashenmere|Ashenmere]] (~4,000)—a border town on the province's march.
-- [[place-cervalia|Kervalara]] (~2,500)—the forest town at the edge of the imperial game-reserve.
+[[place-aravantia|Aravantara]] (~28,000)
+: the provincial capital and the great grain-and-wine market of the breadbasket.
+
+[[place-granaria|Kelborara]] (~7,000)
+: the chief grain-market of the central province, all granaries and weighing-yards.
+
+[[place-vindara|Vindara]] (~6,000)
+: a prosperous town of the terraced wine country.
+
+[[place-olivenna|Olivenna]] (~5,000)
+: a town of presses and oil-merchants in the olive country.
+
+[[place-polthara|Polthara]] (~5,000)
+: a market town of the estate country.
+
+[[place-messora|Messora]] (~4,000)
+: a harvest-market town of the southern estates.
+
+[[place-ashenmere|Ashenmere]] (~4,000)
+: a border town on the province's march.
+
+[[place-cervalia|Kervalara]] (~2,500)
+: the forest town at the edge of the imperial game-reserve.
 
 **The great estates and manorial holdings.** The countryside belongs to vast aristocratic domains, not to free villages. Each is a manor with its tenant village, chapel and labor force of 200–1,000 souls. The named holdings include **[Caldovia]{.name data-type="place/settlement"}**, **[Sennfeld]{.name data-type="place/settlement"}**, **[Aurvale]{.name data-type="place/settlement"}**, **Olkassa** ([[place-olcassafld|The Blood-field of Olkassa]], the field of [[lore-olcassabtl|The Battle of Olkassa]]), **[Brennfeld]{.name data-type="place/settlement"}**, **[Granholt]{.name data-type="place/settlement"}**, **[Vellora]{.name data-type="place/settlement"}**, **[Calvenna]{.name data-type="place/settlement"}**, **[Marenna]{.name data-type="place/settlement"}**, **[Tallenza]{.name data-type="place/settlement"}**, **[Oxenna]{.name data-type="place/settlement"}**, **[Harvenna]{.name data-type="place/settlement"}**, **[Wynnara]{.name data-type="place/settlement"}** and **[Stonemere]{.name data-type="place/settlement"}**. Several are the seats of senatorial families whose word is effectively law within their own bounds. These are only the great houses; the province holds hundreds of lesser estates and tenant villages besides.
 
 ## See Also
 
-- [[affiliation-provnchyln|Province of Hilen]]—the province that holds this land
-- [[place-vylariargn|Vylaria Region]]—the enclosing region
-- [[place-aravantia|Aravantara]]—the provincial capital
-- [[place-olcassafld|The Blood-field of Olkassa]]—the quickened wheat-field of the civil war
+[[affiliation-provnchyln|Province of Hilen]]
+: the province that holds this land
+
+[[place-vylariargn|Vylaria Region]]
+: the enclosing region
+
+[[place-aravantia|Aravantara]]
+: the provincial capital
+
+[[place-olcassafld|The Blood-field of Olkassa]]
+: the quickened wheat-field of the civil war

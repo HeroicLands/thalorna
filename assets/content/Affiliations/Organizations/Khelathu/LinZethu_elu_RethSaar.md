@@ -60,5 +60,8 @@ Take the schoolmaster's question seriously. A child admitted on ability has a pa
 
 ## See Also
 
-- [[lore-rethsaardty|Reth'Sa'ar]]—The patron god of the schools
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to
+[[lore-rethsaardty|Reth'Sa'ar]]
+: The patron god of the schools
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The region it belongs to

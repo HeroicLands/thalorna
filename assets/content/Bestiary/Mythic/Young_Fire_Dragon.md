@@ -425,26 +425,38 @@ A dragon's channeling floods the currents of magic round it. Near a dragon, a ma
 
 ## Attributes
 
-- **Strength:** 34-39 (1d6+33)
+Strength
+: 34-39 (1d6+33)
 
-- **Endurance:** 25-30 (1d6+24)
+Endurance
+: 25-30 (1d6+24)
 
-- **Dexterity:** 5-8 (1d4+4)
+Dexterity
+: 5-8 (1d4+4)
 
-- **Agility:** 8-13 (1d6+7)
+Agility
+: 8-13 (1d6+7)
 
-- **Perception:** 13-18 (1d6+12)
+Perception
+: 13-18 (1d6+12)
 
-- **Scent:** 2-5 (1d4+1)
+Scent
+: 2-5 (1d4+1)
 
-- **Aura:** 10-15 (1d6+9)
+Aura
+: 10-15 (1d6+9)
 
-- **Will:** 15-20 (1d6+14)
+Will
+: 15-20 (1d6+14)
 
-- **Reasoning:** 9-14 (1d6+8)
+Reasoning
+: 9-14 (1d6+8)
 
-- **Creativity:** 8-11 (1d4+7)
+Creativity
+: 8-11 (1d4+7)
 
-- **Empathy:** 6-9 (1d4+5)
+Empathy
+: 6-9 (1d4+5)
 
-- **Eloquence:** 9-14 (1d6+8)
+Eloquence
+: 9-14 (1d6+8)

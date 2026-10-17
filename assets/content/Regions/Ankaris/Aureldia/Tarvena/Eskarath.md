@@ -22,6 +22,11 @@ Eskarath is the highland territory along Tarvénia's northern border with [[plac
 
 ## See Also
 
-- [[affiliation-frtrtryskrth|Free Territory of Eskarath]]—The Free Territory that holds this land
-- [[place-tarvenirgn|Tarvénia Region]]—The enclosing region
-- [[place-elavendre|Élavendre]]—Northern neighbor
+[[affiliation-frtrtryskrth|Free Territory of Eskarath]]
+: The Free Territory that holds this land
+
+[[place-tarvenirgn|Tarvénia Region]]
+: The enclosing region
+
+[[place-elavendre|Élavendre]]
+: Northern neighbor

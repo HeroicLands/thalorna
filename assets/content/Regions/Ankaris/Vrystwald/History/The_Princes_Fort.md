@@ -58,7 +58,14 @@ The prince's son asked the villages for tribute to keep the fort: a tithe of fur
 
 ## See Also
 
-- [[place-thornhaven|Thornhaven]]—the village whose seats the fort rearranged
-- [[place-thornwald|Thornwald]]—the frontier reach where the fort stands
-- [[place-velanthrgn|Velanthia]]—the princes on the other side of it
-- [[lore-wintertally|The Tally of Winters]]—the Southern Raiding as the forest counts it
+[[place-thornhaven|Thornhaven]]
+: the village whose seats the fort rearranged
+
+[[place-thornwald|Thornwald]]
+: the frontier reach where the fort stands
+
+[[place-velanthrgn|Velanthia]]
+: the princes on the other side of it
+
+[[lore-wintertally|The Tally of Winters]]
+: the Southern Raiding as the forest counts it

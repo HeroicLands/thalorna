@@ -16,7 +16,14 @@ Where the kin came from is another matter, and [[lore-aldarhringr|Aldarhringr]] 
 
 ## See Also
 
-- [[lore-aldarhringr|Aldarhringr]]—the two accounts of where the giant-kin came from
-- [[place-thursguard|Thursguard]]—the plane that confines them
-- [[lore-hrimthurspr|Hrimthur]]—the one giant the Ten killed
-- [[lore-thursblot|Thursblet]]—the cutting of Mannguard from his body
+[[lore-aldarhringr|Aldarhringr]]
+: the two accounts of where the giant-kin came from
+
+[[place-thursguard|Thursguard]]
+: the plane that confines them
+
+[[lore-hrimthurspr|Hrimthur]]
+: the one giant the Ten killed
+
+[[lore-thursblot|Thursblet]]
+: the cutting of Mannguard from his body

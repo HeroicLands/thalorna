@@ -160,14 +160,35 @@ Nordheim strikes no coin. Where a deal is made in money, the money is [[lore-vyl
 
 ## See Also
 
-- [[place-nordheim|Nordheim]]—the land the kingdom holds
-- [[place-knalthstead|Knalthstead]]—the seat and the king's hall
-- [[place-domsey|Domsey]]—the ting island the kingdom holds, where the King of All Clans sits
-- [[lore-nrdhmhstry|Histories and Legends of Nordheim]]—the kingdom's remembered past
-- [[lore-nordheimnclt|Nordheimn]]—the culture, the ting and the hov
-- [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—how the Nordmen bury their dead
-- [[affiliation-asguardian|Asguardian Pantheon]]—the Ten of the north
-- [[skill-nordmalng|Nordmal]]—the tongue and how a name is built in it
-- [[place-grkrhlmrgn|Grukarholm]]—eastern neighbors, the Grukar
-- [[place-vrystwald|Vristwald]]—southern frontier
-- [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the sister kingdoms
+[[place-nordheim|Nordheim]]
+: the land the kingdom holds
+
+[[place-knalthstead|Knalthstead]]
+: the seat and the king's hall
+
+[[place-domsey|Domsey]]
+: the ting island the kingdom holds, where the King of All Clans sits
+
+[[lore-nrdhmhstry|Histories and Legends of Nordheim]]
+: the kingdom's remembered past
+
+[[lore-nordheimnclt|Nordheimn]]
+: the culture, the ting and the hov
+
+[[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]
+: how the Nordmen bury their dead
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the Ten of the north
+
+[[skill-nordmalng|Nordmal]]
+: the tongue and how a name is built in it
+
+[[place-grkrhlmrgn|Grukarholm]]
+: eastern neighbors, the Grukar
+
+[[place-vrystwald|Vristwald]]
+: southern frontier
+
+[[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
+: the sister kingdoms

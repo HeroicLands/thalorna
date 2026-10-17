@@ -159,8 +159,11 @@ Lightning disrupts the working inside it and makes it falter for a time, and rus
 
 ## Attributes
 
-- **Strength:** 32-37 (1d6+31)
+Strength
+: 32-37 (1d6+31)
 
-- **Agility:** 4-7 (1d4+3)
+Agility
+: 4-7 (1d4+3)
 
-- **Perception:** 16-21 (1d6+15)
+Perception
+: 16-21 (1d6+15)

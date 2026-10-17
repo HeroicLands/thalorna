@@ -302,20 +302,29 @@ A Great Stag's antlers are shed annually and can be collected for weapons, decor
 
 ## Attributes
 
-- **Strength:** 13-18 (1d6+12)
+Strength
+: 13-18 (1d6+12)
 
-- **Endurance:** 12-17 (1d6+11)
+Endurance
+: 12-17 (1d6+11)
 
-- **Dexterity:** 10-15 (1d6+9)
+Dexterity
+: 10-15 (1d6+9)
 
-- **Agility:** 11-16 (1d6+10)
+Agility
+: 11-16 (1d6+10)
 
-- **Perception:** 12-17 (1d6+11)
+Perception
+: 12-17 (1d6+11)
 
-- **Aura:** 8-13 (1d6+7)
+Aura
+: 8-13 (1d6+7)
 
-- **Will:** 10-15 (1d6+9)
+Will
+: 10-15 (1d6+9)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

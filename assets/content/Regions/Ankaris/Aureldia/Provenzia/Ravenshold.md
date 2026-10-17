@@ -24,5 +24,8 @@ For four years the duke has kept an arrangement with [[being-kelnstylgn|Kelena E
 
 ## See Also
 
-- [[being-kelnstylgn|Kelena Estilgon]]—the courtesan the duke supports
-- [[place-provenzrgn|Provenzia Region]]—the kingdom's land
+[[being-kelnstylgn|Kelena Estilgon]]
+: the courtesan the duke supports
+
+[[place-provenzrgn|Provenzia Region]]
+: the kingdom's land

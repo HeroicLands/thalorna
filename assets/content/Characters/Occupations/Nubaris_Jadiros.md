@@ -430,10 +430,14 @@ Rival courtiers who see a small house grown too useful and would like to prove h
 
 ## Plot Hooks
 
-1. **Both Sides Paying**—Two houses in a feud have each retained Nubaris to settle it, and each has instructed her to see the other lose. Only a settlement that leaves both believing they won keeps her reputation.
+Both Sides Paying
+: Two houses in a feud have each retained Nubaris to settle it, and each has instructed her to see the other lose. Only a settlement that leaves both believing they won keeps her reputation.
 
-2. **A Secret of Her Own**—Something Nubaris has kept from everyone—the true state of the Jadiros debts, and who holds them—has reached a rival.
+A Secret of Her Own
+: Something Nubaris has kept from everyone—the true state of the Jadiros debts, and who holds them—has reached a rival.
 
-3. **The Envoy**—A [[lore-vylarianclt|Vylarian]] envoy wants to know which houses of the assembly would welcome a firmer imperial hand, and has heard that Nubaris knows every house's mind. He has offered a great deal, and the assembly would call the sale treason.
+The Envoy
+: A [[lore-vylarianclt|Vylarian]] envoy wants to know which houses of the assembly would welcome a firmer imperial hand, and has heard that Nubaris knows every house's mind. He has offered a great deal, and the assembly would call the sale treason.
 
-4. **The Feud**—Two of the oldest houses in Theradon have quarreled past the point of mediation, and each has told Nubaris that neutrality will be taken as enmity.
+The Feud
+: Two of the oldest houses in Theradon have quarreled past the point of mediation, and each has told Nubaris that neutrality will be taken as enmity.

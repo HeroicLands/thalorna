@@ -96,8 +96,17 @@ Krusteikhos uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogd
 
 ## See Also
 
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation whose council meets in Krusteikhos's hall
-- [[place-byzariargn|Bizaria Region]]—the League's country
-- [[place-khryshteikhos2|Krusteikhos]]—the city itself
-- [[place-northrnmrch|Northern March]]—the frontier district Krusteikhos's houses hold by custom
-- [[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]], [[affiliation-orashion|Órashion]]—the other four city-states
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation whose council meets in Krusteikhos's hall
+
+[[place-byzariargn|Bizaria Region]]
+: the League's country
+
+[[place-khryshteikhos2|Krusteikhos]]
+: the city itself
+
+[[place-northrnmrch|Northern March]]
+: the frontier district Krusteikhos's houses hold by custom
+
+[[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]], [[affiliation-orashion|Órashion]]
+: the other four city-states

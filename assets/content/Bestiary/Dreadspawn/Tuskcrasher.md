@@ -321,20 +321,29 @@ Fire hurts it and frightens it, and enough fire will turn it, though only a very
 
 ## Attributes
 
-- **Strength:** 24-29 (1d6+23)
+Strength
+: 24-29 (1d6+23)
 
-- **Endurance:** 19-24 (1d6+18)
+Endurance
+: 19-24 (1d6+18)
 
-- **Dexterity:** 6-9 (1d4+5)
+Dexterity
+: 6-9 (1d4+5)
 
-- **Agility:** 7-10 (1d4+6)
+Agility
+: 7-10 (1d4+6)
 
-- **Perception:** 9-12 (1d4+8)
+Perception
+: 9-12 (1d4+8)
 
-- **Aura:** 4-7 (1d4+3)
+Aura
+: 4-7 (1d4+3)
 
-- **Will:** 17-22 (1d6+16)
+Will
+: 17-22 (1d6+16)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

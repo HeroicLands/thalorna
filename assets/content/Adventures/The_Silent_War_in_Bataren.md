@@ -61,10 +61,17 @@ Investigation reveals that a foreign power is deliberately stoking conflict to d
 
 **Possible Architects:**
 
-- **Vylarian Agents:** The [[affiliation-vylarinmpr|Vylarian Empire]] seeks to undermine Provenzian stability and justify imperial intervention
-- **Thordimalon Manipulation:** The [[affiliation-ordoarcanis|Thordimalon]] manipulates both sides to weaken Provenzian independence or create a pretext for magical research
-- **Nordheim Interests:** [[affiliation-kngdmnrdhm|Nordheim raiders]] or their agents seek to damage the city's naval power and trade influence
-- **Internal Conspiracy:** A Provenzian noble faction uses foreign agents to advance their own position
+Vylarian Agents
+: The [[affiliation-vylarinmpr|Vylarian Empire]] seeks to undermine Provenzian stability and justify imperial intervention
+
+Thordimalon Manipulation
+: The [[affiliation-ordoarcanis|Thordimalon]] manipulates both sides to weaken Provenzian independence or create a pretext for magical research
+
+Nordheim Interests
+: [[affiliation-kngdmnrdhm|Nordheim raiders]] or their agents seek to damage the city's naval power and trade influence
+
+Internal Conspiracy
+: A Provenzian noble faction uses foreign agents to advance their own position
 
 **Key Evidence:**
 

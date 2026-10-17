@@ -30,6 +30,11 @@ Asgarthul is a market town and the administrative center for the inland regions,
 
 ## See Also
 
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]]—the kingdom whose seat it is
-- [[place-norgaad|Norgaad]]—the land the town stands in
-- [[affiliation-asguardian|Asguardian Pantheon]]—the gods of the north
+[[affiliation-kingdmnrgd|Kingdom of Norgaad]]
+: the kingdom whose seat it is
+
+[[place-norgaad|Norgaad]]
+: the land the town stands in
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the gods of the north

@@ -24,7 +24,14 @@ Athenikos shares the [[skill-helonclng|Helonic Language]], the gods of the [[aff
 
 ## See Also
 
-- [[affiliation-athenikos|Athenikos]]—the city-state and its constitution
-- [[place-helionis|Helionis]]—the region and its city-states
-- [[affiliation-ctysttshlns|City-States of Helionis]]—the confederation
-- [[lore-helioniteclt|Helionite]]—the culture
+[[affiliation-athenikos|Athenikos]]
+: the city-state and its constitution
+
+[[place-helionis|Helionis]]
+: the region and its city-states
+
+[[affiliation-ctysttshlns|City-States of Helionis]]
+: the confederation
+
+[[lore-helioniteclt|Helionite]]
+: the culture

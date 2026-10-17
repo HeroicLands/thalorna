@@ -434,23 +434,56 @@ Her gift drew the notice of a patron among the [[lore-khelathiclt|Khelathi]] nob
 
 ### Skills and Abilities
 
-- **Strength**: Izaret is not physically strong, relying more on her mystical abilities and cunning than brute force.
-- **Endurance**: Though not particularly robust, Izaret has learned to withstand the mental and spiritual strain of her mystical abilities.
-- **Dexterity**: Her movements are precise and fluid, making her an expert at moving silently and handling delicate objects.
-- **Agility**: Izaret moves with an uncanny grace, able to slip in and out of the shadows quickly and without a sound.
-- **Perception**: Her attunement to the shadow realm heightens her awareness of her surroundings, allowing her to sense disturbances in both the physical and spiritual worlds.
-- **Comeliness**: Izaret’s beauty is understated, but her mysterious aura and piercing gaze give her an allure.
-- **Aura**: Her deep connection to the spirit realm and her mystical talents give her a powerful, almost otherworldly presence.
-- **Will**: Izaret possesses a strong will, necessary for manipulating the dangerous forces of shadow magic without losing control.
-- **Reasoning**: Izaret is clever and resourceful, able to think on her feet and solve problems with a mix of magic and strategy.
-- **Creativity**: Izaret is highly inventive with her use of her mystical talents, often finding creative solutions to obstacles and dangers.
-- **Empathy**: Izaret can understand the emotions of others but often keeps her own feelings hidden, preferring to maintain emotional distance.
-- **Eloquence**: When she speaks, her words are measured and thoughtful, often laced with subtle warnings or hidden meanings.
-- **Morality**: Izaret operates in the gray areas of morality, adhering to her own code rather than societal or religious standards. She is willing to use her abilities in ways that others might consider questionable, especially when it serves her goals or provides valuable knowledge. While she isn't openly malicious, Izaret doesn’t shy away from using manipulation, stealth, and even her mystical abilities if it helps her gain the upper hand. She follows her own path, taking advantage of situations where the line between right and wrong is blurred, though she generally avoids overtly evil acts unless necessary for survival or protection.
-- **Voice**: Izaret's voice is pleasant if unremarkable.
-- **Hearing the Spirits**: Izaret has several inborn arcane talents, including the ability to hear the faint voices of spirits ([[mysticalability-medm|Medium]]), allowing her to foresee dangers ([[mysticalability-psnc|Prescience]]) and uncover hidden information ([[mysticalability-clrv|Clairvoyance]]). Her unique gifts also let her sense spiritual imbalances from afar.
-- **Stealth and Espionage**: Izaret is an expert at moving unseen, gathering information, and infiltrating dangerous places. She is adept at disguise and manipulation, making her useful in navigating Au'Khelathu politics and secrets.
-- **Subtle Manipulator**: Izaret has a knack for twisting situations to her advantage, able to manipulate conversations and steer people toward her desired outcome without them realizing it.
+Strength
+: Izaret is not physically strong, relying more on her mystical abilities and cunning than brute force.
+
+Endurance
+: Though not particularly robust, Izaret has learned to withstand the mental and spiritual strain of her mystical abilities.
+
+Dexterity
+: Her movements are precise and fluid, making her an expert at moving silently and handling delicate objects.
+
+Agility
+: Izaret moves with an uncanny grace, able to slip in and out of the shadows quickly and without a sound.
+
+Perception
+: Her attunement to the shadow realm heightens her awareness of her surroundings, allowing her to sense disturbances in both the physical and spiritual worlds.
+
+Comeliness
+: Izaret’s beauty is understated, but her mysterious aura and piercing gaze give her an allure.
+
+Aura
+: Her deep connection to the spirit realm and her mystical talents give her a powerful, almost otherworldly presence.
+
+Will
+: Izaret possesses a strong will, necessary for manipulating the dangerous forces of shadow magic without losing control.
+
+Reasoning
+: Izaret is clever and resourceful, able to think on her feet and solve problems with a mix of magic and strategy.
+
+Creativity
+: Izaret is highly inventive with her use of her mystical talents, often finding creative solutions to obstacles and dangers.
+
+Empathy
+: Izaret can understand the emotions of others but often keeps her own feelings hidden, preferring to maintain emotional distance.
+
+Eloquence
+: When she speaks, her words are measured and thoughtful, often laced with subtle warnings or hidden meanings.
+
+Morality
+: Izaret operates in the gray areas of morality, adhering to her own code rather than societal or religious standards. She is willing to use her abilities in ways that others might consider questionable, especially when it serves her goals or provides valuable knowledge. While she isn't openly malicious, Izaret doesn’t shy away from using manipulation, stealth, and even her mystical abilities if it helps her gain the upper hand. She follows her own path, taking advantage of situations where the line between right and wrong is blurred, though she generally avoids overtly evil acts unless necessary for survival or protection.
+
+Voice
+: Izaret's voice is pleasant if unremarkable.
+
+Hearing the Spirits
+: Izaret has several inborn arcane talents, including the ability to hear the faint voices of spirits ([[mysticalability-medm|Medium]]), allowing her to foresee dangers ([[mysticalability-psnc|Prescience]]) and uncover hidden information ([[mysticalability-clrv|Clairvoyance]]). Her unique gifts also let her sense spiritual imbalances from afar.
+
+Stealth and Espionage
+: Izaret is an expert at moving unseen, gathering information, and infiltrating dangerous places. She is adept at disguise and manipulation, making her useful in navigating Au'Khelathu politics and secrets.
+
+Subtle Manipulator
+: Izaret has a knack for twisting situations to her advantage, able to manipulate conversations and steer people toward her desired outcome without them realizing it.
 
 ## Psyche
 
@@ -462,10 +495,14 @@ Izaret is cunning, resourceful, and often prefers working in the shadows. She is
 
 ## Plot Hooks
 
-1. **The Secrets of Akhoza-Menlaa**: Izaret discovers that a fragment of the Akhoza-Menlaa’s dangerous research has surfaced in a noble court outside the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. A desperate courier smuggles the information to her, revealing that Legirha’s experiments could disrupt the spiritual balance of an entire region. Izaret must infiltrate the court and retrieve or destroy the evidence before Legirha’s agents can exploit it, risking her safety to maintain the secrecy of her past affiliations.
+The Secrets of Akhoza-Menlaa
+: Izaret discovers that a fragment of the Akhoza-Menlaa’s dangerous research has surfaced in a noble court outside the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. A desperate courier smuggles the information to her, revealing that Legirha’s experiments could disrupt the spiritual balance of an entire region. Izaret must infiltrate the court and retrieve or destroy the evidence before Legirha’s agents can exploit it, risking her safety to maintain the secrecy of her past affiliations.
 
-2. **The Spirit’s Debt**: While traveling with her companions, Izaret encounters the lingering spirit of a thief who once helped her escape from Au'Khelathu. The spirit claims it is bound to the mortal realm due to unfinished business linked to Izaret’s actions. To grant the spirit peace, Izaret must uncover the truth about a heist gone wrong, balancing her loyalty to her past with her present mission.
+The Spirit’s Debt
+: While traveling with her companions, Izaret encounters the lingering spirit of a thief who once helped her escape from Au'Khelathu. The spirit claims it is bound to the mortal realm due to unfinished business linked to Izaret’s actions. To grant the spirit peace, Izaret must uncover the truth about a heist gone wrong, balancing her loyalty to her past with her present mission.
 
-3. **The Whispering Dagger**: An artifact Izaret carries, a dagger gifted to her by her benefactor in Au'Khelathu, begins to emit strange whispers that only she can hear. These whispers guide her toward secrets and hidden paths but come at the cost of attracting the attention of those who fear or revere the artifact’s power. Izaret must decide whether to embrace the dagger’s guidance or seek to rid herself of its influence.
+The Whispering Dagger
+: An artifact Izaret carries, a dagger gifted to her by her benefactor in Au'Khelathu, begins to emit strange whispers that only she can hear. These whispers guide her toward secrets and hidden paths but come at the cost of attracting the attention of those who fear or revere the artifact’s power. Izaret must decide whether to embrace the dagger’s guidance or seek to rid herself of its influence.
 
-4. **The Fugitive’s Shadow**: A former ally who escaped with Izaret during her flight from Au'Khelathu resurfaces, now operating as a high-profile agent in a rival kingdom. This person’s actions threaten to expose Izaret’s identity to Legirha’s spies, forcing her to confront her former ally in a game of wits and deception, where the cost of failure could mean capture or death.
+The Fugitive’s Shadow
+: A former ally who escaped with Izaret during her flight from Au'Khelathu resurfaces, now operating as a high-profile agent in a rival kingdom. This person’s actions threaten to expose Izaret’s identity to Legirha’s spies, forcing her to confront her former ally in a game of wits and deception, where the cost of failure could mean capture or death.

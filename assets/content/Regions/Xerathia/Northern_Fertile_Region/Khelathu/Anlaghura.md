@@ -16,6 +16,11 @@ The astrologers hold the monolith to be the first stone of a road that ends in t
 
 ## See Also
 
-- [[place-lareshu|Lareshu]]—the waste of sand where the astrologers' road is held to end
-- [[place-lutzelutha|Lut-Zelutha]]—the hidden sanctuary the prophecy points to
-- [[place-drownstones|The Drowned Stones]]—carved stone in the southern marsh that the temples do not date either
+[[place-lareshu|Lareshu]]
+: the waste of sand where the astrologers' road is held to end
+
+[[place-lutzelutha|Lut-Zelutha]]
+: the hidden sanctuary the prophecy points to
+
+[[place-drownstones|The Drowned Stones]]
+: carved stone in the southern marsh that the temples do not date either

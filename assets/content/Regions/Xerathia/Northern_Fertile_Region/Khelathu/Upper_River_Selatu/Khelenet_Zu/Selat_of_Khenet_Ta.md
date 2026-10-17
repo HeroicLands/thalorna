@@ -73,9 +73,20 @@ Khelenet-Zu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. A tenant who pa
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-khelenetzu|Khelenet-Zu]]—Selat capital
-- [[affiliation-qearet|Faith of Qe'aret]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-khelenetzslt|Khelenet-Zu Selat]]—The land the selat holds
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-khelenetzu|Khelenet-Zu]]
+: Selat capital
+
+[[affiliation-qearet|Faith of Qe'aret]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-khelenetzslt|Khelenet-Zu Selat]]
+: The land the selat holds

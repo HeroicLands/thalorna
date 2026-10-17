@@ -401,8 +401,11 @@ Vrithorv's resistance to heat and fire borders on the supernatural, allowing him
 
 ## Plot Hooks
 
-1. **The Frozen Heart**—A new Frost Giant warlord has emerged, bearing an artifact that can extinguish any flame. Vrithorv must find and destroy this weapon before it can be used against Svartbrandr's sacred fires.
+The Frozen Heart
+: A new Frost Giant warlord has emerged, bearing an artifact that can extinguish any flame. Vrithorv must find and destroy this weapon before it can be used against Svartbrandr's sacred fires.
 
-2. **The Dying Flame**—Vrithorv's supernatural resistance to fire is fading. The priests of the Flame Temple believe his connection to Svartbrandr is weakening and that he must undergo a dangerous trial within the volcano's caldera to renew his blessing—or die trying.
+The Dying Flame
+: Vrithorv's supernatural resistance to fire is fading. The priests of the Flame Temple believe his connection to Svartbrandr is weakening and that he must undergo a dangerous trial within the volcano's caldera to renew his blessing—or die trying.
 
-3. **Trial by Fire**—A village has been accused of heresy against Svartbrandr. Vrithorv is sent to carry out the judgment, but evidence suggests the accusation is false and politically motivated. He must choose between his fanatical devotion and his sense of justice.
+Trial by Fire
+: A village has been accused of heresy against Svartbrandr. Vrithorv is sent to carry out the judgment, but evidence suggests the accusation is false and politically motivated. He must choose between his fanatical devotion and his sense of justice.

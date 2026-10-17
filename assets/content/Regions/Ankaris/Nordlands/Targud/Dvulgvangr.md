@@ -37,7 +37,14 @@ Nobody keeps the field. The Lawspeaker's circuit never sits within sight of it, 
 
 ## See Also
 
-- [[lore-burningeast|The Burning of the East]]—the three days, and the hall that burned above them
-- [[place-nulthgard|Nulthgard]]—the ruin on the rise
-- [[place-tvalgard|Tvalgard]] · [[affiliation-kingdmtrgd|Kingdom of Targud]]—the watch that rules the crossing
-- [[lore-bloodfield|Blood-fields]]—what a dread is, and what ends one
+[[lore-burningeast|The Burning of the East]]
+: the three days, and the hall that burned above them
+
+[[place-nulthgard|Nulthgard]]
+: the ruin on the rise
+
+[[place-tvalgard|Tvalgard]] · [[affiliation-kingdmtrgd|Kingdom of Targud]]
+: the watch that rules the crossing
+
+[[lore-bloodfield|Blood-fields]]
+: what a dread is, and what ends one

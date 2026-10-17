@@ -83,7 +83,14 @@ The priesthood crowned the nomad chief as **Kuz'Uqa**, "strong of the sun-lord,"
 
 ## See Also
 
-- [[lore-akhdivriver|The Divided River]]—the age this conquest falls in
-- [[lore-twothrones|The War of the Two Thrones]]—the war that left the valley weak
-- [[lore-hillhouse|The Closing of the Hill House]]—the end of their house
-- [[place-zelhalzi|Zel-Halzi]] · [[place-horsebarrows|The Horse Barrows]]—what the conquest left on the ground
+[[lore-akhdivriver|The Divided River]]
+: the age this conquest falls in
+
+[[lore-twothrones|The War of the Two Thrones]]
+: the war that left the valley weak
+
+[[lore-hillhouse|The Closing of the Hill House]]
+: the end of their house
+
+[[place-zelhalzi|Zel-Halzi]] · [[place-horsebarrows|The Horse Barrows]]
+: what the conquest left on the ground

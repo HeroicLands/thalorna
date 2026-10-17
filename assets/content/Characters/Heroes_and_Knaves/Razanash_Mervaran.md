@@ -460,21 +460,43 @@ Razanash is motivated primarily by her commitment to her spiritual vows and to t
 
 ### Strengths
 
-- **Spiritual Perception:** Razanash can sense spiritual currents, presences, and magical auras with great accuracy; she perceives patterns in dreams and signs that others miss entirely.
-- **Master of Herbal Medicine:** Her knowledge of desert plants and their healing properties is encyclopedic; she can prepare remedies for almost any physical ailment, and her medicines are more effective than conventional healing.
-- **Skilled Diviner:** Her various divination practices—reading bones, interpreting visions, sensing auras—consistently provide accurate information about past events and probable futures.
-- **Shamanic Trance and Ritual:** She can enter deep trance states and conduct rituals that connect with spiritual forces; her ceremonies have demonstrable effects on reality.
-- **Animal Empathy:** Animals are mysteriously drawn to Razanash and respond to her with an intelligence and obedience that far exceeds normal animal behavior; she can communicate with creatures across species boundaries.
-- **Tactical Survival and Movement:** Her desert upbringing has made her an expert in navigation, survival, and moving silently through rough country; she can track individuals and animals across nearly featureless desert.
+Spiritual Perception
+: Razanash can sense spiritual currents, presences, and magical auras with great accuracy; she perceives patterns in dreams and signs that others miss entirely.
+
+Master of Herbal Medicine
+: Her knowledge of desert plants and their healing properties is encyclopedic; she can prepare remedies for almost any physical ailment, and her medicines are more effective than conventional healing.
+
+Skilled Diviner
+: Her various divination practices—reading bones, interpreting visions, sensing auras—consistently provide accurate information about past events and probable futures.
+
+Shamanic Trance and Ritual
+: She can enter deep trance states and conduct rituals that connect with spiritual forces; her ceremonies have demonstrable effects on reality.
+
+Animal Empathy
+: Animals are mysteriously drawn to Razanash and respond to her with an intelligence and obedience that far exceeds normal animal behavior; she can communicate with creatures across species boundaries.
+
+Tactical Survival and Movement
+: Her desert upbringing has made her an expert in navigation, survival, and moving silently through rough country; she can track individuals and animals across nearly featureless desert.
 
 ### Weaknesses
 
-- **Chronic Self-Doubt:** Despite her proven accuracy and power, Razanash constantly questions whether she is truly channeling spirits or self-deluded; this doubt can paralyze her decision-making at critical moments.
-- **Difficulty with Direct Action:** Her shaman's nature makes her uncomfortable with violence and direct confrontation; while not incapable of combat, she much prefers to resolve conflicts through spiritual or diplomatic means.
-- **Physical Fragility:** While not weak, she lacks the robust strength of warriors and hunters; she tires more quickly in sustained physical exertion and is vulnerable in direct physical combat.
-- **Social Isolation and Miscommunication:** Her tendency to speak in spiritual metaphors and her natural quietness create barriers to understanding with those who are not shamans; she often fails to communicate practical concerns clearly.
-- **Vulnerability to Spiritual Entities:** Her open connection to the spirit realm makes her susceptible to possession, manipulation, or assault by hostile spiritual forces; her permeability to spiritual influence is both her greatest gift and most dangerous vulnerability.
-- **Limited Trust in Material Solutions:** She can underestimate the value of practical, mundane approaches to problems, becoming so focused on spiritual dimensions that she misses obvious material solutions.
+Chronic Self-Doubt
+: Despite her proven accuracy and power, Razanash constantly questions whether she is truly channeling spirits or self-deluded; this doubt can paralyze her decision-making at critical moments.
+
+Difficulty with Direct Action
+: Her shaman's nature makes her uncomfortable with violence and direct confrontation; while not incapable of combat, she much prefers to resolve conflicts through spiritual or diplomatic means.
+
+Physical Fragility
+: While not weak, she lacks the robust strength of warriors and hunters; she tires more quickly in sustained physical exertion and is vulnerable in direct physical combat.
+
+Social Isolation and Miscommunication
+: Her tendency to speak in spiritual metaphors and her natural quietness create barriers to understanding with those who are not shamans; she often fails to communicate practical concerns clearly.
+
+Vulnerability to Spiritual Entities
+: Her open connection to the spirit realm makes her susceptible to possession, manipulation, or assault by hostile spiritual forces; her permeability to spiritual influence is both her greatest gift and most dangerous vulnerability.
+
+Limited Trust in Material Solutions
+: She can underestimate the value of practical, mundane approaches to problems, becoming so focused on spiritual dimensions that she misses obvious material solutions.
 
 ## Social
 
@@ -510,12 +532,17 @@ The Desert Heralists' Collective
 
 ## Plot Hooks
 
-1. **The Severed Spirit:** Razanash discovers that a member of the tribe has become disconnected from their spiritual essence—their soul or vital spark seems to have been severed or stolen by dark shamanic magic. The victim is still alive but gradually fading, becoming less present, less responsive. Razanash realizes this is beyond her immediate ability to heal, and she enlists the party to help her journey into the spirit realm itself to locate and retrieve the stolen piece of soul, or to track down whoever performed this dark working and force them to reverse it.
+The Severed Spirit
+: Razanash discovers that a member of the tribe has become disconnected from their spiritual essence—their soul or vital spark seems to have been severed or stolen by dark shamanic magic. The victim is still alive but gradually fading, becoming less present, less responsive. Razanash realizes this is beyond her immediate ability to heal, and she enlists the party to help her journey into the spirit realm itself to locate and retrieve the stolen piece of soul, or to track down whoever performed this dark working and force them to reverse it.
 
-2. **The Prophecy's Burden:** Through a vision or divination, Razanash receives a prophecy of catastrophe coming to the tribe or the region—a disaster that is approaching but not yet inevitable. The problem is that the prophecy is cryptic and confusing, and Razanash is tormented by doubt about her interpretation of what she saw. She involves the party in attempting to understand the prophecy's meaning while working to prevent the disaster she fears. As events unfold, the party may realize that Razanash's prophecy is accurate but incomplete, or that her interpretation is wrong, or that the act of trying to prevent it may actually bring it about.
+The Prophecy's Burden
+: Through a vision or divination, Razanash receives a prophecy of catastrophe coming to the tribe or the region—a disaster that is approaching but not yet inevitable. The problem is that the prophecy is cryptic and confusing, and Razanash is tormented by doubt about her interpretation of what she saw. She involves the party in attempting to understand the prophecy's meaning while working to prevent the disaster she fears. As events unfold, the party may realize that Razanash's prophecy is accurate but incomplete, or that her interpretation is wrong, or that the act of trying to prevent it may actually bring it about.
 
-3. **The Shaman's Challenger:** A powerful and charismatic shaman from another tribe arrives claiming to represent a new spiritual movement that rejects traditional shamanic practices in favor of a more direct communion with spirits that requires fewer intermediaries. This shaman draws Razanash's students and admirers away, challenging her authority and suggesting publicly that her methods are old, restrictive, and ineffective. Razanash is torn between defending her practices and her doubt that she even deserves to defend them. The party must investigate the newcomer's true intentions and possibly help Razanash decide whether to engage in direct spiritual confrontation with her rival.
+The Shaman's Challenger
+: A powerful and charismatic shaman from another tribe arrives claiming to represent a new spiritual movement that rejects traditional shamanic practices in favor of a more direct communion with spirits that requires fewer intermediaries. This shaman draws Razanash's students and admirers away, challenging her authority and suggesting publicly that her methods are old, restrictive, and ineffective. Razanash is torn between defending her practices and her doubt that she even deserves to defend them. The party must investigate the newcomer's true intentions and possibly help Razanash decide whether to engage in direct spiritual confrontation with her rival.
 
-4. **The Spirit Debt:** Razanash is approached by a desperate individual who claims a hostile spirit has enslaved them and made them a vehicle for its will; they commit terrible acts but experience them as if watching themselves from outside their own body. Razanash attempts a standard spiritual exorcism, but the entity is far more powerful and resilient than she expected. In attempting to free the person, she herself becomes partially possessed, creating a dangerous situation where Razanash becomes a conduit for the entity's manifestation. The party must help her reclaim her body and mind while discovering what the entity wants and why it has become so entrenched.
+The Spirit Debt
+: Razanash is approached by a desperate individual who claims a hostile spirit has enslaved them and made them a vehicle for its will; they commit terrible acts but experience them as if watching themselves from outside their own body. Razanash attempts a standard spiritual exorcism, but the entity is far more powerful and resilient than she expected. In attempting to free the person, she herself becomes partially possessed, creating a dangerous situation where Razanash becomes a conduit for the entity's manifestation. The party must help her reclaim her body and mind while discovering what the entity wants and why it has become so entrenched.
 
-5. **The Hidden Knowledge:** Razanash's teacher in the water-shrine lore of Kethramír, the Tellumi elder [[being-zevaradthvrn|Zevarad Dathvarun]], reveals on his deathbed that the official shamanic teachings handed down at the shrine and in the tribe for generations are incomplete—that there are deeper, more dangerous spiritual practices and connections that have been deliberately hidden from younger shamans because they are considered too dangerous or too morally ambiguous for those lacking sufficient wisdom and spiritual development. He gives her cryptic instructions to seek out a hidden library or location where these teachings are preserved, and suggests that she may need to decide whether to let this knowledge remain hidden or to master it and decide its use. The party becomes involved in the quest to locate this hidden knowledge while Razanash wrestles with whether some knowledge is too dangerous to possess.
+The Hidden Knowledge
+: Razanash's teacher in the water-shrine lore of Kethramír, the Tellumi elder [[being-zevaradthvrn|Zevarad Dathvarun]], reveals on his deathbed that the official shamanic teachings handed down at the shrine and in the tribe for generations are incomplete—that there are deeper, more dangerous spiritual practices and connections that have been deliberately hidden from younger shamans because they are considered too dangerous or too morally ambiguous for those lacking sufficient wisdom and spiritual development. He gives her cryptic instructions to seek out a hidden library or location where these teachings are preserved, and suggests that she may need to decide whether to let this knowledge remain hidden or to master it and decide its use. The party becomes involved in the quest to locate this hidden knowledge while Razanash wrestles with whether some knowledge is too dangerous to possess.

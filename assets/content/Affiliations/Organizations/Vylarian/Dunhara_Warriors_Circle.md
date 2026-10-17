@@ -51,9 +51,14 @@ _Dunhari: Tigh'Baharan, "Circle of the Mighty"_
 
 A Dunhari boy learns to recognize the strip of deep-blue leather on a warrior's left arm before he learns his own genealogy, and he learns the rule that goes with it: a man who wears the strip has sworn never to draw on another Dunhari while an outside enemy is in the desert. **The Warrior's Circle of the Dunhara Tribes** is the body that keeps that oath, a gathering of the most respected warriors of every tribe that meets four times a year, at the season-turns, at the [[place-stoneofranaz|Stone of Ranaz]], and gathers the tribes against a threat none of them could meet alone.
 
-- **Type:** a circle of warriors drawn from every tribe, with no captain over it
-- **Region:** the [[place-dunhardsrtrgn|Dunhara Desert]], meeting at the Stone of Ranaz, the hill-shrine where three tribal territories meet
-- **Convenes:** four times a year, at the season-turns; a calling between turns is rare and solemn
+Type
+: a circle of warriors drawn from every tribe, with no captain over it
+
+Region
+: the [[place-dunhardsrtrgn|Dunhara Desert]], meeting at the Stone of Ranaz, the hill-shrine where three tribal territories meet
+
+Convenes
+: four times a year, at the season-turns; a calling between turns is rare and solemn
 
 ## Overview
 
@@ -73,8 +78,11 @@ The Circle has no captain. The **Voice of the Quarter**, who opens the meeting, 
 
 ## Notable Members
 
-- [[being-shadznkmrz|Shadezan Kamruz]]: one of the most honored warriors of his generation, whom the Storm Cults recognize as a vessel of [[lore-bahramisdty|Báhramis]], so that his counsel weighs more than his single voice. The Circle has asked him to lead its gathered warriors twice in the last decade.
-- **The Council of Scars**: a dozen old warriors whose agreement settles most questions before they are put.
+[[being-shadznkmrz|Shadezan Kamruz]]
+: one of the most honored warriors of his generation, whom the Storm Cults recognize as a vessel of [[lore-bahramisdty|Báhramis]], so that his counsel weighs more than his single voice. The Circle has asked him to lead its gathered warriors twice in the last decade.
+
+The Council of Scars
+: a dozen old warriors whose agreement settles most questions before they are put.
 
 ## The Two Principles
 
@@ -86,10 +94,17 @@ When the Circle rides, its host is its own members and whatever warriors their t
 
 ## Relations
 
-- **The common council of the tribes**: the chieftains' council at [[place-ghavulavad|Ghavulavad]]. The two bodies keep apart: the Circle judges no dispute between tribes, and the chieftains do not direct the Circle's wars. When they disagree, which is rare and serious, the Circle gives way on policy and the chieftains on war.
-- **The [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]**: the two are woven together. Many members are storm-cult initiates, the cults' practitioners open and close every meeting, and the cults' standing rests partly on the Circle's respect.
-- **The [[lore-sowidesclt|Sovidur]]**: the herding tribes of the steppe of the [[place-khzryndsrtrgn|Khazryn Desert Region]] to the north, the Circle's oldest rivals. Most of its gatherings are against [[lore-sowidesclt|Sovidur]] raiders or over wells contested with one of their tribes, and it deals with each tribe separately, because no one speaks for them all.
-- **Foreign powers**: the Circle does not treat with any power outside the desert. Foreign envoys who reach the Stone uninvited are received with formal courtesy and sent away with nothing.
+The common council of the tribes
+: the chieftains' council at [[place-ghavulavad|Ghavulavad]]. The two bodies keep apart: the Circle judges no dispute between tribes, and the chieftains do not direct the Circle's wars. When they disagree, which is rare and serious, the Circle gives way on policy and the chieftains on war.
+
+The [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]
+: the two are woven together. Many members are storm-cult initiates, the cults' practitioners open and close every meeting, and the cults' standing rests partly on the Circle's respect.
+
+The [[lore-sowidesclt|Sovidur]]
+: the herding tribes of the steppe of the [[place-khzryndsrtrgn|Khazryn Desert Region]] to the north, the Circle's oldest rivals. Most of its gatherings are against [[lore-sowidesclt|Sovidur]] raiders or over wells contested with one of their tribes, and it deals with each tribe separately, because no one speaks for them all.
+
+Foreign powers
+: the Circle does not treat with any power outside the desert. Foreign envoys who reach the Stone uninvited are received with formal courtesy and sent away with nothing.
 
 ## The Mark
 
@@ -97,14 +112,28 @@ A member wears a narrow strip of dyed leather around the upper left arm, the _va
 
 ## Plot Hooks
 
-- **The Petition Against a Tribe**: a delegation comes to the Stone to ask the Circle to act against a Dunhari chieftain whose recent deeds most of the desert calls intolerable, and the Circle must choose between the Old Promise and a case it cannot easily refuse.
-- **The Vacant Lot**: the marked stones that choose the Voice of the Quarter have vanished from the Storm Cults' keeping between meetings. The loss is taken as an omen, and the next meeting cannot lawfully open until they are found or replaced.
-- **The Foreign Offer**: envoys of a foreign power, working through Khazryn go-betweens, reach the Stone with arms and silver for the Circle's neutrality in the coming season. The offer is refused; the harder question is who brought them to the Stone unseen.
-- **The Acclamation**: a young warrior, newly famous, is proposed for the Circle, and an elder of the Council of Scars opposes him for reasons he will not fully give. The meeting becomes the most bitter the Circle has known in years.
+The Petition Against a Tribe
+: a delegation comes to the Stone to ask the Circle to act against a Dunhari chieftain whose recent deeds most of the desert calls intolerable, and the Circle must choose between the Old Promise and a case it cannot easily refuse.
+
+The Vacant Lot
+: the marked stones that choose the Voice of the Quarter have vanished from the Storm Cults' keeping between meetings. The loss is taken as an omen, and the next meeting cannot lawfully open until they are found or replaced.
+
+The Foreign Offer
+: envoys of a foreign power, working through Khazryn go-betweens, reach the Stone with arms and silver for the Circle's neutrality in the coming season. The offer is refused; the harder question is who brought them to the Stone unseen.
+
+The Acclamation
+: a young warrior, newly famous, is proposed for the Circle, and an elder of the Council of Scars opposes him for reasons he will not fully give. The meeting becomes the most bitter the Circle has known in years.
 
 ## See Also
 
-- [[place-stoneofranaz|Stone of Ranaz]]—the hill-shrine where the Circle meets
-- [[affiliation-dunhartrbs|Dunhara Tribes]]—the confederations and their common council
-- [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]—the keepers of the marked stones
-- [[lore-dunhariclt|Dunhari]]—the people whose code the Circle keeps
+[[place-stoneofranaz|Stone of Ranaz]]
+: the hill-shrine where the Circle meets
+
+[[affiliation-dunhartrbs|Dunhara Tribes]]
+: the confederations and their common council
+
+[[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]
+: the keepers of the marked stones
+
+[[lore-dunhariclt|Dunhari]]
+: the people whose code the Circle keeps

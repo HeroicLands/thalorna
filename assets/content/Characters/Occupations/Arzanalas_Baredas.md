@@ -429,10 +429,14 @@ The Varokh war-bands across the march, and Lord Korvathos's eldest son, who want
 
 ## Plot Hooks
 
-1. **The Heir**—Lord Korvathos is failing, and his heir has let it be known that the old huscarl will be pensioned off to a farm the day the lord dies. The younger men have said, quietly, that they will go with him.
+The Heir
+: Lord Korvathos is failing, and his heir has let it be known that the old huscarl will be pensioned off to a farm the day the lord dies. The younger men have said, quietly, that they will go with him.
 
-2. **The Raid**—A Varokh band has come over the march in a bad summer with the household's best men away, and the only captain in Tirellan is Arzanalas, with a yard of boys he has trained and no knees.
+The Raid
+: A Varokh band has come over the march in a bad summer with the household's best men away, and the only captain in Tirellan is Arzanalas, with a yard of boys he has trained and no knees.
 
-3. **The Lord's Loyalty**—Lord Korvathos has been dealing with a Varokh chief across the line in ways the capital would call treason and Moktur calls sense. Arzanalas swore to the house, not to [[place-orzara|Orzara City]], and someone from the capital has come to ask him what he has seen.
+The Lord's Loyalty
+: Lord Korvathos has been dealing with a Varokh chief across the line in ways the capital would call treason and Moktur calls sense. Arzanalas swore to the house, not to [[place-orzara|Orzara City]], and someone from the capital has come to ask him what he has seen.
 
-4. **The Pupil**—The best spearman Arzanalas ever trained has come back to Tirellan as captain of a rival lord's household, and the two houses are about to quarrel over a ford.
+The Pupil
+: The best spearman Arzanalas ever trained has come back to Tirellan as captain of a rival lord's household, and the two houses are about to quarrel over a ford.

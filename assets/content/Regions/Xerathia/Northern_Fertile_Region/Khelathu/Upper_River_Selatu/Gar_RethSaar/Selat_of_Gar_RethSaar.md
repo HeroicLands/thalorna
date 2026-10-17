@@ -90,11 +90,26 @@ Gar-Reth'Sa'ar uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. Its school-f
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—parent selat class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—imperial overview
-- [[place-khelunu|Khelunu]]—selat capital and temple-city of Reth'Sa'ar
-- [[place-helionis|Helionis]]—foreign scholars who study in its libraries
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—Reth'Sa'ar among the Twelve
-- [[affiliation-linzethkhlth|Lin'Zethu elu Au'Khelathu]]—the scribes' guild, the scribal profession
-- [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'ar]]—the scribal schools
-- [[place-garrethsaarnome|Gar-Reth'Sa'ar]]—the land the selat holds
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: parent selat class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: imperial overview
+
+[[place-khelunu|Khelunu]]
+: selat capital and temple-city of Reth'Sa'ar
+
+[[place-helionis|Helionis]]
+: foreign scholars who study in its libraries
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: Reth'Sa'ar among the Twelve
+
+[[affiliation-linzethkhlth|Lin'Zethu elu Au'Khelathu]]
+: the scribes' guild, the scribal profession
+
+[[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'ar]]
+: the scribal schools
+
+[[place-garrethsaarnome|Gar-Reth'Sa'ar]]
+: the land the selat holds

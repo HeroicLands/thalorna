@@ -428,12 +428,17 @@ Few, though some older fishers question her methods.
 
 ## Plot Hooks
 
-1. **The Fisher's Dilemma**—Ermina faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vristwald.
+The Fisher's Dilemma
+: Ermina faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vristwald.
 
-2. **Old Grudges**—Few, though some older fishers question her methods. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: Few, though some older fishers question her methods. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Ermina's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+Echoes of the Past
+: Something from Ermina's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vristwald threaten to upend the social order that Ermina depends upon. She must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Vristwald threaten to upend the social order that Ermina depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Ermina the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Ermina the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

@@ -27,4 +27,5 @@ home.
 
 ## Notable Figures
 
-- [[being-tabesnfnjr|Tabeso nu Fénjara]]—the Spirit Tracker.
+[[being-tabesnfnjr|Tabeso nu Fénjara]]
+: the Spirit Tracker.

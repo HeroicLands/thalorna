@@ -18,5 +18,8 @@ The manor's hunts are in the hands of its trusted huntswoman, [[being-zoriladmvr
 
 ## See Also
 
-- [[being-zoriladmvr|Zórila Dómivar]]—the manor's huntswoman
-- [[place-valthari|Valthari]]—the free city the manor lies near
+[[being-zoriladmvr|Zórila Dómivar]]
+: the manor's huntswoman
+
+[[place-valthari|Valthari]]
+: the free city the manor lies near

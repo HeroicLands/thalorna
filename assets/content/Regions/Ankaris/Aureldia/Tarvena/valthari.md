@@ -24,7 +24,14 @@ The [Consejarath]{.name data-type="affiliation/governmental"}, a council of the 
 
 ## See Also
 
-- [[affiliation-frctyvlthr|Free City of Valthari]]—the city-state and its council
-- [[place-tarvenirgn|Tarvénia Region]]—the region it trades into
-- [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]—the overlord that charters it
-- [[affiliation-kngdmstrth|Kingdom of Asturath]]—the mountain lords who distrust it
+[[affiliation-frctyvlthr|Free City of Valthari]]
+: the city-state and its council
+
+[[place-tarvenirgn|Tarvénia Region]]
+: the region it trades into
+
+[[affiliation-kingdmtrvn|Kingdom of Tarvénia]]
+: the overlord that charters it
+
+[[affiliation-kngdmstrth|Kingdom of Asturath]]
+: the mountain lords who distrust it

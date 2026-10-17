@@ -119,10 +119,23 @@ Each city strikes its own coin, and the League as a whole uses the [[lore-vylrnc
 
 ## See Also
 
-- [[place-byzariargn|Bizaria Region]]—the League's country, its coast, plateau and passes
-- [[lore-byzarianclt|Bizarian]]—the culture of the bargain
-- [[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]], [[affiliation-orashion|Órashion]]—the member city-states
-- [[place-eastrnmrch|Eastern March]], [[place-southrnmrch|Southern March]], [[place-northrnmrch|Northern March]]—the districts the council holds directly
-- [[affiliation-vylarinmpr|Vylarian Empire]], [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the western powers it steers between
-- [[place-khzryndsrtrgn|Khazryn Desert Region]], [[place-dunharargn|Dunhara Region]]—the eastern trade routes
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the gods, in their eastern rite
+[[place-byzariargn|Bizaria Region]]
+: the League's country, its coast, plateau and passes
+
+[[lore-byzarianclt|Bizarian]]
+: the culture of the bargain
+
+[[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]], [[affiliation-orashion|Órashion]]
+: the member city-states
+
+[[place-eastrnmrch|Eastern March]], [[place-southrnmrch|Southern March]], [[place-northrnmrch|Northern March]]
+: the districts the council holds directly
+
+[[affiliation-vylarinmpr|Vylarian Empire]], [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the western powers it steers between
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]], [[place-dunharargn|Dunhara Region]]
+: the eastern trade routes
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the gods, in their eastern rite

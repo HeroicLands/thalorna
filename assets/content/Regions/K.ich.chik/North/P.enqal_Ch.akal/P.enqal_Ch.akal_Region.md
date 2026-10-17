@@ -36,6 +36,11 @@ P'enqal Ch'akal's position at the center of the northern frontier makes it a nat
 
 ## See Also
 
-- [[affiliation-penqalchakal|P'enqal Ch'akal]]—The realm that holds this land
-- [[place-nrthrnkchchk|Northern K'ich'chik]]—The enclosing region
-- [[place-penqalchakal2|P'enqal Ch'akal]]—Seat of P'enqal Ch'akal
+[[affiliation-penqalchakal|P'enqal Ch'akal]]
+: The realm that holds this land
+
+[[place-nrthrnkchchk|Northern K'ich'chik]]
+: The enclosing region
+
+[[place-penqalchakal2|P'enqal Ch'akal]]
+: Seat of P'enqal Ch'akal

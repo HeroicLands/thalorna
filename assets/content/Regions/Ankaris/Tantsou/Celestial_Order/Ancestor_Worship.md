@@ -57,9 +57,20 @@ The greatest festival of the dead is the **Singléi Jui**, held in **Zhenyou**, 
 
 ## See Also
 
-- [[lore-nouwen|Nouwén]]—the caste from which the Leigen arise
-- [[lore-marriage|Marriage]]—the transfer of ancestor tablets at a wedding
-- [[lore-phlsphyleiwo|Philosophy of Leiwo]]—Lei and the spirit world
-- [[lore-celestlrdr|Celestial Order]]—the faith and its moral ledger
-- [[lore-elderraces|Elder Races]]—the ancestral traditions of the Sinale and Khazari
-- [[lore-clndrstrlgy|Calendar and Astrology]]—the festivals of the dead
+[[lore-nouwen|Nouwén]]
+: the caste from which the Leigen arise
+
+[[lore-marriage|Marriage]]
+: the transfer of ancestor tablets at a wedding
+
+[[lore-phlsphyleiwo|Philosophy of Leiwo]]
+: Lei and the spirit world
+
+[[lore-celestlrdr|Celestial Order]]
+: the faith and its moral ledger
+
+[[lore-elderraces|Elder Races]]
+: the ancestral traditions of the Sinale and Khazari
+
+[[lore-clndrstrlgy|Calendar and Astrology]]
+: the festivals of the dead

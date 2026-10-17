@@ -16,9 +16,20 @@ Willful and stubborn, boars are highly determined and will fight vigorously when
 
 A Boar person meets trouble head-on. Giving up is not in the nature, and the person pushes through even the worst going.
 
-- **Physical:** Strong, solid body; possibly more facial hair or hirsute.
-- **Behavioral:** Willful, confrontational, takes a headstrong approach to challenges.
-- **Positive:** Strong-willed, determined, and resilient.
-- **Negative:** Stubborn, aggressive, and hard to reason with.
-- **Minor Trait ([[sohl-none-doctrauma-assrtv|Assertive]]):** Speaks their mind plainly and stands their ground, occasionally pushing back harder than the situation calls for.
-- **Major Disorder ([[sohl-none-doctrauma-stubborn|Stubborn]]):** Chronically defiant and combative, refusing authority and picking fights over even trivial matters out of sheer obstinacy.
+Physical
+: Strong, solid body; possibly more facial hair or hirsute.
+
+Behavioral
+: Willful, confrontational, takes a headstrong approach to challenges.
+
+Positive
+: Strong-willed, determined, and resilient.
+
+Negative
+: Stubborn, aggressive, and hard to reason with.
+
+Minor Trait ([[sohl-none-doctrauma-assrtv|Assertive]])
+: Speaks their mind plainly and stands their ground, occasionally pushing back harder than the situation calls for.
+
+Major Disorder ([[sohl-none-doctrauma-stubborn|Stubborn]])
+: Chronically defiant and combative, refusing authority and picking fights over even trivial matters out of sheer obstinacy.

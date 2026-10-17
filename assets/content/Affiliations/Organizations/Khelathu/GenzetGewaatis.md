@@ -56,4 +56,5 @@ Say you want to carry silk to a port across the sea. Before a merchant house len
 
 ## See Also
 
-- [[affiliation-lutgewaatis|Lut-Gewa'atis]]—The temple it governs
+[[affiliation-lutgewaatis|Lut-Gewa'atis]]
+: The temple it governs

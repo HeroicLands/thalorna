@@ -309,20 +309,29 @@ Light bends unpredictably through its body, so that it is hard to focus on or st
 
 ## Attributes
 
-- **Strength:** 7-10 (1d4+6)
+Strength
+: 7-10 (1d4+6)
 
-- **Endurance:** 9-12 (1d4+8)
+Endurance
+: 9-12 (1d4+8)
 
-- **Dexterity:** 11-14 (1d4+10)
+Dexterity
+: 11-14 (1d4+10)
 
-- **Agility:** 13-16 (1d4+12)
+Agility
+: 13-16 (1d4+12)
 
-- **Perception:** 13-16 (1d4+12)
+Perception
+: 13-16 (1d4+12)
 
-- **Aura:** 7-10 (1d4+6)
+Aura
+: 7-10 (1d4+6)
 
-- **Will:** 9-12 (1d4+8)
+Will
+: 9-12 (1d4+8)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 7-10 (1d4+6)
+Creativity
+: 7-10 (1d4+6)

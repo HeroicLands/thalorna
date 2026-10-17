@@ -447,19 +447,37 @@ Megeti is driven by an almost religious belief in open books and the moral duty 
 
 ### Strengths
 
-- **Master of Financial Forensics**: Megeti can reconstruct complex financial crimes from fragmented records, spotting patterns invisible to ordinary auditors. Her methods are famous among the Empire's counting-houses.
-- **Unassailable Integrity**: In a realm of shifting allegiances, her honesty is absolute. She cannot be bribed, intimidated, or logically talked out of her conclusions.
-- **Institutional Acumen**: Few understand the bureaucratic machinery of the Empire as thoroughly as she does. She knows who owes favors, what concessions are possible, and which officials can be pressured into cooperation.
-- **Written Authority**: Her authored reports carry the weight of imperial law. Judges and ministers treat her conclusions as near-inviolable.
-- **Perception**: Her sharp eye extends beyond numbers; she reads people with the same precision she applies to accounts.
+Master of Financial Forensics
+: Megeti can reconstruct complex financial crimes from fragmented records, spotting patterns invisible to ordinary auditors. Her methods are famous among the Empire's counting-houses.
+
+Unassailable Integrity
+: In a realm of shifting allegiances, her honesty is absolute. She cannot be bribed, intimidated, or logically talked out of her conclusions.
+
+Institutional Acumen
+: Few understand the bureaucratic machinery of the Empire as thoroughly as she does. She knows who owes favors, what concessions are possible, and which officials can be pressured into cooperation.
+
+Written Authority
+: Her authored reports carry the weight of imperial law. Judges and ministers treat her conclusions as near-inviolable.
+
+Perception
+: Her sharp eye extends beyond numbers; she reads people with the same precision she applies to accounts.
 
 ### Weaknesses
 
-- **Isolation by Design**: Her ruthless thoroughness has made her feared and resented. She has few real friends and no family within the court.
-- **Predictability**: Those who know her well can anticipate her methods and conclusions. Her logic is elegant but followable.
-- **Physical Frailty**: Years of sedentary work have left her without combat training or physical resilience. A single strong blow could incapacitate her.
-- **Moral Rigidity**: She struggles with moral complexity and gray areas. Situations requiring compromise or tactical dishonesty leave her paralyzed.
-- **Obsessive Tendency**: Once she begins an investigation, she cannot rest until it is concluded. This has cost her relationships and nearly cost her her health more than once.
+Isolation by Design
+: Her ruthless thoroughness has made her feared and resented. She has few real friends and no family within the court.
+
+Predictability
+: Those who know her well can anticipate her methods and conclusions. Her logic is elegant but followable.
+
+Physical Frailty
+: Years of sedentary work have left her without combat training or physical resilience. A single strong blow could incapacitate her.
+
+Moral Rigidity
+: She struggles with moral complexity and gray areas. Situations requiring compromise or tactical dishonesty leave her paralyzed.
+
+Obsessive Tendency
+: Once she begins an investigation, she cannot rest until it is concluded. This has cost her relationships and nearly cost her her health more than once.
 
 ## Social
 
@@ -495,12 +513,17 @@ The Scribes' Guild of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]
 
 ## Plot Hooks
 
-1. **The Phantom Accounts**: Megeti discovers a set of ledgers within the Treasury itself showing transactions that do not appear in any official record. These accounts detail payments to unnamed entities totaling millions of dinars over the past five years. Investigation suggests that Khelassetepu himself may be running a secret operation, though whether he is embezzling or acting under orders from someone higher in the imperial hierarchy is unclear. Megeti is caught between her loyalty to her patron, her obligation to truth, and the very real possibility that exposing this will make her a marked woman.
+The Phantom Accounts
+: Megeti discovers a set of ledgers within the Treasury itself showing transactions that do not appear in any official record. These accounts detail payments to unnamed entities totaling millions of dinars over the past five years. Investigation suggests that Khelassetepu himself may be running a secret operation, though whether he is embezzling or acting under orders from someone higher in the imperial hierarchy is unclear. Megeti is caught between her loyalty to her patron, her obligation to truth, and the very real possibility that exposing this will make her a marked woman.
 
-2. **The Auditor's Inheritance**: When [[being-reqesehu|Reqesehu]] the Scribe, Megeti's former mentor and the only person she truly trusted, dies under suspicious circumstances, he leaves her a sealed package of documents. Inside, she finds evidence that she herself has been the subject of a parallel investigation for years. Someone in the Treasury believes she is falsifying records, and the evidence against her—though circumstantial—is compelling enough to destroy her reputation. Now Megeti must find who orchestrated this frame and why, while preventing her enemies from discovering that her perfect reputation has cracks.
+The Auditor's Inheritance
+: When [[being-reqesehu|Reqesehu]] the Scribe, Megeti's former mentor and the only person she truly trusted, dies under suspicious circumstances, he leaves her a sealed package of documents. Inside, she finds evidence that she herself has been the subject of a parallel investigation for years. Someone in the Treasury believes she is falsifying records, and the evidence against her—though circumstantial—is compelling enough to destroy her reputation. Now Megeti must find who orchestrated this frame and why, while preventing her enemies from discovering that her perfect reputation has cracks.
 
-3. **The Visitor from the Provinces**: A young noble from the southern provinces arrives in the capital claiming to possess evidence of massive tax fraud at the provincial level, involving not just local officials but merchants and military commanders. However, they will only speak to Megeti directly, and only in absolute secrecy. As Megeti begins her investigation, she realizes the evidence implicates people so highly placed that publicizing it would trigger a provincial uprising or a coup. She can bury the truth to preserve the Empire, or expose it and watch the realm tear itself apart.
+The Visitor from the Provinces
+: A young noble from the southern provinces arrives in the capital claiming to possess evidence of massive tax fraud at the provincial level, involving not just local officials but merchants and military commanders. However, they will only speak to Megeti directly, and only in absolute secrecy. As Megeti begins her investigation, she realizes the evidence implicates people so highly placed that publicizing it would trigger a provincial uprising or a coup. She can bury the truth to preserve the Empire, or expose it and watch the realm tear itself apart.
 
-4. **The Mathematician's Paradox**: A brilliant young mathematician from the eastern universities arrives at the Treasury with a proposal: a new method of accounting so elegant and comprehensive that it would make traditional bookkeeping obsolete. Megeti initially dismisses the young scholar, but as she examines the method, she recognizes its power—and its danger. In the wrong hands, it could hide corruption more effectively than any current practice. Megeti can promote the new method and hope for the best, or suppress it and risk being seen as an obstacle to progress. Meanwhile, she suspects the mathematician may be working for the Crimson Syndicate, using the new method as a cover for infiltration.
+The Mathematician's Paradox
+: A brilliant young mathematician from the eastern universities arrives at the Treasury with a proposal: a new method of accounting so elegant and comprehensive that it would make traditional bookkeeping obsolete. Megeti initially dismisses the young scholar, but as she examines the method, she recognizes its power—and its danger. In the wrong hands, it could hide corruption more effectively than any current practice. Megeti can promote the new method and hope for the best, or suppress it and risk being seen as an obstacle to progress. Meanwhile, she suspects the mathematician may be working for the Crimson Syndicate, using the new method as a cover for infiltration.
 
-5. **The Borrowed Ledger**: A street urchin brings Megeti a single page from what appears to be a Treasury ledger, claiming it was discarded by a minor official. The page shows discrepancies in grain distributions to the lower city over the past six months—distributions that suggest systematic theft on a scale that would constitute treason. However, when Megeti attempts to verify the ledger's authenticity through official channels, she discovers that no such page exists in any Treasury inventory. Either a ledger has been removed from the archives entirely, or someone is crafting an elaborate deception. Megeti must determine which, knowing that both possibilities are terrifying.
+The Borrowed Ledger
+: A street urchin brings Megeti a single page from what appears to be a Treasury ledger, claiming it was discarded by a minor official. The page shows discrepancies in grain distributions to the lower city over the past six months—distributions that suggest systematic theft on a scale that would constitute treason. However, when Megeti attempts to verify the ledger's authenticity through official channels, she discovers that no such page exists in any Treasury inventory. Either a ledger has been removed from the archives entirely, or someone is crafting an elaborate deception. Megeti must determine which, knowing that both possibilities are terrifying.

@@ -430,10 +430,14 @@ A rival house on the same square, better run and less gifted, which would like h
 
 ## Plot Hooks
 
-1. **The Dues**—The guild has given Kadumuya a term to pay what she owes or surrender her license. The rival house has offered to pay it for her, in exchange for a partnership that would give them her formulas.
+The Dues
+: The guild has given Kadumuya a term to pay what she owes or surrender her license. The rival house has offered to pay it for her, in exchange for a partnership that would give them her formulas.
 
-2. **One Wearer Only**—A guild family has commissioned a signature scent and wants Kadumuya's oath that no one else will ever wear it. A second family has asked for the same scent, having smelled it at a wedding, and will pay more.
+One Wearer Only
+: A guild family has commissioned a signature scent and wants Kadumuya's oath that no one else will ever wear it. A second family has asked for the same scent, having smelled it at a wedding, and will pay more.
 
-3. **A Pupil's Bottle**—A scent from Kadumuya's back room is being sold under another name across the square. One of the apprentices she taught for nothing wrote the formula down.
+A Pupil's Bottle
+: A scent from Kadumuya's back room is being sold under another name across the square. One of the apprentices she taught for nothing wrote the formula down.
 
-4. **Past the Customs House**—A consignment of ambergris has reached Kadumuya without passing the guild customs house, and the corsair who brought it wants a favor rather than money.
+Past the Customs House
+: A consignment of ambergris has reached Kadumuya without passing the guild customs house, and the corsair who brought it wants a favor rather than money.

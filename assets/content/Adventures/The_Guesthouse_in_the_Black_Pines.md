@@ -330,9 +330,20 @@ He is the Master's former body, a construct with its ring of signs under the sti
 
 ## See Also
 
-- [[place-dunkelholt|Dunkelholt]]—the post and the guesthouse
-- [[place-vandstein|Vandstein]]—the highland reach the road crosses
-- [[lore-legionsroad|The Legions' Road]]—the road and its abandoned posts
-- [[place-vandgrund|Vandgrund]]—the keeper's village and its pass guides
-- [[lore-golemcrtr|Constructs]]—what the Master makes
-- [[affiliation-ordoarcanis|Thordimalon]]—the order whose Sekran wants the Master
+[[place-dunkelholt|Dunkelholt]]
+: the post and the guesthouse
+
+[[place-vandstein|Vandstein]]
+: the highland reach the road crosses
+
+[[lore-legionsroad|The Legions' Road]]
+: the road and its abandoned posts
+
+[[place-vandgrund|Vandgrund]]
+: the keeper's village and its pass guides
+
+[[lore-golemcrtr|Constructs]]
+: what the Master makes
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: the order whose Sekran wants the Master

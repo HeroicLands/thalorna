@@ -50,9 +50,14 @@ sohl: {system: {commonSkills: []}}
 
 _"The Order of the Sealed Word"—Vylari: **Thizarlambizon**_
 
-- **Type:** Fighting religious order
-- **Patron:** [[affiliation-ardavon|Árdavon]]—Aureldian god of oaths, gates, beginnings, transitions, and the dualities that separate one state from another
-- **Region:** [[place-aureldirgn|Aureldia]]—chapter houses in all five Aureldian kingdoms, with the mother-house at [[place-olvestria|Ólvestra]] in [[place-tarvenirgn|Tarvénia]]
+Type
+: Fighting religious order
+
+Patron
+: [[affiliation-ardavon|Árdavon]]—Aureldian god of oaths, gates, beginnings, transitions, and the dualities that separate one state from another
+
+Region
+: [[place-aureldirgn|Aureldia]]—chapter houses in all five Aureldian kingdoms, with the mother-house at [[place-olvestria|Ólvestra]] in [[place-tarvenirgn|Tarvénia]]
 
 ## Overview
 
@@ -77,16 +82,24 @@ The order has chapter houses in each Aureldian kingdom, but its operational pres
 
 The order swears three principles:
 
-- **[The Word Holds]{.name data-type="lore/custom"}**—that a sworn oath in Árdavon's name binds the swearer absolutely until released by the oath's terms, by the oathed-to party, or by Árdavon's faith. There are no other releases.
-- **[The Hearing Is Rendered]{.name data-type="lore/custom"}**—that an oath-hearing convened by the order proceeds to its conclusion regardless of the parties' rank, station, or political weight. A petitioner whose oath has been broken by a king is owed the same hearing as a petitioner whose oath has been broken by a merchant.
-- **[The Combat Honored]{.name data-type="lore/custom"}**—that where the law of the kingdom in question permits trial-by-combat, and where the matter is one in which combat is doctrinally appropriate, a sworn brother will offer combat on the petitioner's behalf if no other combatant is available. The order's brothers are trained for this work; the offer is not made lightly and is not declined without cause.
+[The Word Holds]{.name data-type="lore/custom"}
+: that a sworn oath in Árdavon's name binds the swearer absolutely until released by the oath's terms, by the oathed-to party, or by Árdavon's faith. There are no other releases.
+
+[The Hearing Is Rendered]{.name data-type="lore/custom"}
+: that an oath-hearing convened by the order proceeds to its conclusion regardless of the parties' rank, station, or political weight. A petitioner whose oath has been broken by a king is owed the same hearing as a petitioner whose oath has been broken by a merchant.
+
+[The Combat Honored]{.name data-type="lore/custom"}
+: that where the law of the kingdom in question permits trial-by-combat, and where the matter is one in which combat is doctrinally appropriate, a sworn brother will offer combat on the petitioner's behalf if no other combatant is available. The order's brothers are trained for this work; the offer is not made lightly and is not declined without cause.
 
 The order's procedures are formal and ritualized. A petition is presented at a chapter house, examined for substance, and either accepted (and the petitioner's claim assigned a brother who will travel to the alleged oath-breaker), or rejected (with explanation). The accepted petition triggers a journey—the brother rides to the oath-breaker's location, presents the order's writ, and convenes an oath-hearing under the order's procedures. The hearing reviews the original oath, the alleged breach, and the offered defense. The ruling is delivered in Árdavon's name and recorded.
 
 ## Notable Members
 
-- **First Marendos [Anselmo Veroniani]{.name data-type="being/npc"}**—current First Marendos; a man in his sixties; presiding over the order in a period of increasing tension between the order and several of the Aureldian crowns.
-- **The Council of the Seal**—twelve Senior Brothers drawn from the five kingdoms; meets quarterly at Ólvestra.
+First Marendos [Anselmo Veroniani]{.name data-type="being/npc"}
+: current First Marendos; a man in his sixties; presiding over the order in a period of increasing tension between the order and several of the Aureldian crowns.
+
+The Council of the Seal
+: twelve Senior Brothers drawn from the five kingdoms; meets quarterly at Ólvestra.
 
 ## Relations
 

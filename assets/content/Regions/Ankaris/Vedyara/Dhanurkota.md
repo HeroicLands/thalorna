@@ -32,5 +32,8 @@ Its priests are of the janapoda and are not of the Mahajaya temple. The two esta
 
 ## See Also
 
-- [[affiliation-dhnrktjnpd|Danurkota Janapoda]]—the temple-republic seated here
-- [[place-dhanurkotajnpd|Danurkota Janapoda]]—the land
+[[affiliation-dhnrktjnpd|Danurkota Janapoda]]
+: the temple-republic seated here
+
+[[place-dhanurkotajnpd|Danurkota Janapoda]]
+: the land

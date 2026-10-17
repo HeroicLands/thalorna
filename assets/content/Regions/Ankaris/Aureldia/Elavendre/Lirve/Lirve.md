@@ -41,8 +41,11 @@ alone.
 
 ## Its Places
 
-- [[place-portaelion|Port Aelion]]—the chief harbor of the coast, where the cliffs yield.
-- [[place-liranel|Liranel]]—a forest town of the inner coast, at the edge of Sinale country.
+[[place-portaelion|Port Aelion]]
+: the chief harbor of the coast, where the cliffs yield.
+
+[[place-liranel|Liranel]]
+: a forest town of the inner coast, at the edge of Sinale country.
 
 ## See Also
 

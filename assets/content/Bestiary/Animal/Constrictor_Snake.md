@@ -240,20 +240,29 @@ The tail is muscular and dexterous, capable of gripping branches, vines, or rock
 
 ## Attributes
 
-- **Strength:** 12-17 (1d6+11)
+Strength
+: 12-17 (1d6+11)
 
-- **Endurance:** 10-15 (1d6+9)
+Endurance
+: 10-15 (1d6+9)
 
-- **Agility:** 8-11 (1d4+7)
+Agility
+: 8-11 (1d4+7)
 
-- **Perception:** 11-16 (1d6+10)
+Perception
+: 11-16 (1d6+10)
 
-- **Scent:** 2-5 (1d4+1)
+Scent
+: 2-5 (1d4+1)
 
-- **Aura:** 1-4 (1d4)
+Aura
+: 1-4 (1d4)
 
-- **Will:** 7-10 (1d4+6)
+Will
+: 7-10 (1d4+6)
 
-- **Reasoning:** 1-4 (1d4)
+Reasoning
+: 1-4 (1d4)
 
-- **Creativity:** 1-4 (1d4)
+Creativity
+: 1-4 (1d4)

@@ -22,6 +22,11 @@ A shipwright of the yards, showing a new apprentice the slips, makes the point a
 
 ## See Also
 
-- [[affiliation-provincvld|Province of Salkalon]]—parent province
-- [[place-mercavia|Delalara]]—the province's commercial hub and capital
-- [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview
+[[affiliation-provincvld|Province of Salkalon]]
+: parent province
+
+[[place-mercavia|Delalara]]
+: the province's commercial hub and capital
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: imperial overview

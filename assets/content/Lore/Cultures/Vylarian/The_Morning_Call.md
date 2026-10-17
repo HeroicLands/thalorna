@@ -163,10 +163,23 @@ The client's come. The patron's out. The client will come in the morning.
 
 ## See Also
 
-- [[place-orzara|Orzara]]—the city of the stairs, the Warrens and the Heights
-- [[place-selvin|Selvin]]—the Laurel, where the new houses are
-- [[place-sixhillsvyl|The Six Hills]]—the River Hill and the Heights
-- [[lore-eaglecityrse|The Raising of the Eagle City]]—the Founder's statue and the stone with no name in it
-- [[lore-veteranslaw|The Veterans' Law]]—the twenty years and the dole
-- [[skill-vylarilng|Vylari]]—the subjunctive that says a thing is only alleged
-- [[lore-vylarianclt|Vylarian]]—precedence, the client, the patron and the masks
+[[place-orzara|Orzara]]
+: the city of the stairs, the Warrens and the Heights
+
+[[place-selvin|Selvin]]
+: the Laurel, where the new houses are
+
+[[place-sixhillsvyl|The Six Hills]]
+: the River Hill and the Heights
+
+[[lore-eaglecityrse|The Raising of the Eagle City]]
+: the Founder's statue and the stone with no name in it
+
+[[lore-veteranslaw|The Veterans' Law]]
+: the twenty years and the dole
+
+[[skill-vylarilng|Vylari]]
+: the subjunctive that says a thing is only alleged
+
+[[lore-vylarianclt|Vylarian]]
+: precedence, the client, the patron and the masks

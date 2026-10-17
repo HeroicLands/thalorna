@@ -493,20 +493,29 @@ In the river lands, baboons benefit from religious protection as creatures of th
 
 ## Attributes
 
-- **Strength:** 9-14 (1d6+8)
+Strength
+: 9-14 (1d6+8)
 
-- **Endurance:** 8-13 (1d6+7)
+Endurance
+: 8-13 (1d6+7)
 
-- **Dexterity:** 11-16 (1d6+10)
+Dexterity
+: 11-16 (1d6+10)
 
-- **Agility:** 11-16 (1d6+10)
+Agility
+: 11-16 (1d6+10)
 
-- **Perception:** 12-17 (1d6+11)
+Perception
+: 12-17 (1d6+11)
 
-- **Aura:** 7-10 (1d4+6)
+Aura
+: 7-10 (1d4+6)
 
-- **Will:** 9-14 (1d6+8)
+Will
+: 9-14 (1d6+8)
 
-- **Reasoning:** 8-13 (1d6+7)
+Reasoning
+: 8-13 (1d6+7)
 
-- **Creativity:** 7-12 (1d6+6)
+Creativity
+: 7-12 (1d6+6)

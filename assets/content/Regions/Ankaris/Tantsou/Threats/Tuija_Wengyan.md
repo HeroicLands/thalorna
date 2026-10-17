@@ -67,27 +67,46 @@ He needs nobles he does not trust and sorcerers he does not own. His rebellion h
 
 ### Patrons
 
-- **Zhaowéi Lengzhai**: called the Radiant Phoenix, the shrewd matriarch of the Zhaowéi clan, who wants her family's influence back after years of decline. Her Wánduo work fire and earth. She favors open battle and thinks Tuija a necessary tool to be put down once the work is done.
-- **Wenzhao Wéngdao**: called Wind's Roar, the young head of the Wenzhao clan, too impatient to wait out his family's slow rehabilitation at court. His Wánduo work air and spirit. He prefers subterfuge, and he also thinks Tuija expendable.
+Zhaowéi Lengzhai
+: called the Radiant Phoenix, the shrewd matriarch of the Zhaowéi clan, who wants her family's influence back after years of decline. Her Wánduo work fire and earth. She favors open battle and thinks Tuija a necessary tool to be put down once the work is done.
+
+Wenzhao Wéngdao
+: called Wind's Roar, the young head of the Wenzhao clan, too impatient to wait out his family's slow rehabilitation at court. His Wánduo work air and spirit. He prefers subterfuge, and he also thinks Tuija expendable.
 
 ### Enemies
 
-- **The imperial court**: the officials who condemned him, and the commander whose name the registry gave his victory.
+The imperial court
+: the officials who condemned him, and the commander whose name the registry gave his victory.
 
 ### Affiliations
 
-- **The rebellion**: his own command, held together by his generalship and the two clans' sorcerers. Tuija plays the two nobles against each other to keep either from taking it from him, and both have begun quietly to look for escape routes and friends beyond the borders, because a failed rebellion ends for each of them in torture and execution.
+The rebellion
+: his own command, held together by his generalship and the two clans' sorcerers. Tuija plays the two nobles against each other to keep either from taking it from him, and both have begun quietly to look for escape routes and friends beyond the borders, because a failed rebellion ends for each of them in torture and execution.
 
 ## Plot Hooks
 
-1. **The True Record**: A clerk in a provincial archive has found the original battle report, with Tuija's name on the victory. Both the rebels and the court want it, for opposite reasons.
-2. **The Matriarch's Exit**: Zhaowéi Lengzhai wants safe passage out of the empire for her heirs before the rebellion's luck turns, and she will pay with Tuija's plans.
-3. **Sorcerers Without Owners**: Two of Wenzhao Wéngdao's Wánduo have slipped away from his camp and are trying to reach the Shadow Sect. Their owner, the rebels and the throne all want them back.
-4. **The Northern Envoy**: An envoy from [[being-wogenhenzhuo|Wogen Henzhuo]] reaches the rebel camp. Tuija must decide whether a steppe army in the north is an ally or the end of the empire he means to rule.
+The True Record
+: A clerk in a provincial archive has found the original battle report, with Tuija's name on the victory. Both the rebels and the court want it, for opposite reasons.
+
+The Matriarch's Exit
+: Zhaowéi Lengzhai wants safe passage out of the empire for her heirs before the rebellion's luck turns, and she will pay with Tuija's plans.
+
+Sorcerers Without Owners
+: Two of Wenzhao Wéngdao's Wánduo have slipped away from his camp and are trying to reach the Shadow Sect. Their owner, the rebels and the throne all want them back.
+
+The Northern Envoy
+: An envoy from [[being-wogenhenzhuo|Wogen Henzhuo]] reaches the rebel camp. Tuija must decide whether a steppe army in the north is an ally or the end of the empire he means to rule.
 
 ## See Also
 
-- [[being-wogenhenzhuo|Wogen Henzhuo]]—the northern warlord whose war could meet the rebellion
-- [[affiliation-yanchaizhao|Yanchai Zhao]]—another noble house gambling against the throne
-- [[lore-weizhairui|Wei Zhai Rui]]—the court's game, played even inside the rebellion
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the authority he broke with
+[[being-wogenhenzhuo|Wogen Henzhuo]]
+: the northern warlord whose war could meet the rebellion
+
+[[affiliation-yanchaizhao|Yanchai Zhao]]
+: another noble house gambling against the throne
+
+[[lore-weizhairui|Wei Zhai Rui]]
+: the court's game, played even inside the rebellion
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the authority he broke with

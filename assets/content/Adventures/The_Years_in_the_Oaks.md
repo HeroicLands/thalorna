@@ -118,8 +118,17 @@ A witch in a forest dell sells cures at the price of years, and the years feed t
 
 ## See Also
 
-- [[place-nethermootholw|Nethermoot Hollow]]—the dell and its witch
-- [[place-pshtrwldrns|Peshtar Wilderness]]—the highland country to the north-west
-- [[lore-grukaraelwyth|The Grukar of Aelwyth]]—the hunters of the interior forest
-- [[affiliation-selmoros|Faith of Sélmoros]]—the rites the rooted dead were denied
-- [[lore-theshadow|The Shadow]]—what came up through the old oak
+[[place-nethermootholw|Nethermoot Hollow]]
+: the dell and its witch
+
+[[place-pshtrwldrns|Peshtar Wilderness]]
+: the highland country to the north-west
+
+[[lore-grukaraelwyth|The Grukar of Aelwyth]]
+: the hunters of the interior forest
+
+[[affiliation-selmoros|Faith of Sélmoros]]
+: the rites the rooted dead were denied
+
+[[lore-theshadow|The Shadow]]
+: what came up through the old oak

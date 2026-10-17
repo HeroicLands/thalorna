@@ -491,20 +491,29 @@ Fire burns its body and cuts it off from the plants round it, and it fears fire 
 
 ## Attributes
 
-- **Strength:** 10-13 (1d4+9)
+Strength
+: 10-13 (1d4+9)
 
-- **Endurance:** 11-16 (1d6+10)
+Endurance
+: 11-16 (1d6+10)
 
-- **Dexterity:** 10-13 (1d4+9)
+Dexterity
+: 10-13 (1d4+9)
 
-- **Agility:** 7-12 (1d6+6)
+Agility
+: 7-12 (1d6+6)
 
-- **Perception:** 14-17 (1d4+13)
+Perception
+: 14-17 (1d4+13)
 
-- **Aura:** 15-20 (1d6+14)
+Aura
+: 15-20 (1d6+14)
 
-- **Will:** 14-17 (1d4+13)
+Will
+: 14-17 (1d4+13)
 
-- **Reasoning:** 11-16 (1d6+10)
+Reasoning
+: 11-16 (1d6+10)
 
-- **Creativity:** 14-17 (1d4+13)
+Creativity
+: 14-17 (1d4+13)

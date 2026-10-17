@@ -39,7 +39,14 @@ The village lies a day's climb from the head of [[place-klhrsthstr|the Southern 
 
 ## See Also
 
-- [[place-klhrring|The Ring]]—the mountains the village stands on
-- [[place-klhrsthstr|The Southern Stair]]—the pass whose head lies along the crest
-- [[place-klhrbowl|The Bowl]]—the basin below the inner face
-- [[place-mirthaan|Mirthaan]]—the sanctuary that trains the wind-stone custodians
+[[place-klhrring|The Ring]]
+: the mountains the village stands on
+
+[[place-klhrsthstr|The Southern Stair]]
+: the pass whose head lies along the crest
+
+[[place-klhrbowl|The Bowl]]
+: the basin below the inner face
+
+[[place-mirthaan|Mirthaan]]
+: the sanctuary that trains the wind-stone custodians

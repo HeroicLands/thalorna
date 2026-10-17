@@ -107,19 +107,50 @@ Three fields of the dead lie in the north, Domsey, Skalfvatn and [[place-dvulgva
 
 ## See Also
 
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the five Nordmal kingdoms
-- [[lore-domseycount|The Domsey Count]]—the reckoning and the ages of the north
-- [[lore-nordheimnclt|Nordheimn]]—the culture: oath, reputation, hall and ting
-- [[affiliation-asguardian|Asguardian Pantheon]]—the Ten of the north
-- [[lore-aldarhringr|Aldarhringr]]—the ring of ages, the making of the world and the gods' heirs
-- [[place-domsey|Domsey]]—the ting island of the King of All Clans
-- [[place-hringstead|Hringstead]]—the neutral ground of the Compact and the Circle
-- [[lore-nrdlndsraid|The Raid and the Longship]]—the crew, its share and its muster
-- [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—the north's funeral rites
-- [[lore-nrdlndswhal|The Whale Strand]], [[lore-nrdlndsseal|The Ice-Edge and the Rookery]]—the whale and seal economy
-- [[skill-nordmalng|Nordmal Language]]—the shared tongue
-- [[place-grkrhlmrgn|Grukarholm]]—eastern neighbor
-- [[place-vrystwald|Vristwald]]—southern frontier
-- [[place-aelwyth|Aelwyth]]—religious syncretism and cultural cousin
-- [[place-aureldirgn|Aureldia Region]]—southern religious neighbor
-- [[place-ankrscntnnt|Ankaris Continent]]—parent continent
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
+: the five Nordmal kingdoms
+
+[[lore-domseycount|The Domsey Count]]
+: the reckoning and the ages of the north
+
+[[lore-nordheimnclt|Nordheimn]]
+: the culture: oath, reputation, hall and ting
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the Ten of the north
+
+[[lore-aldarhringr|Aldarhringr]]
+: the ring of ages, the making of the world and the gods' heirs
+
+[[place-domsey|Domsey]]
+: the ting island of the King of All Clans
+
+[[place-hringstead|Hringstead]]
+: the neutral ground of the Compact and the Circle
+
+[[lore-nrdlndsraid|The Raid and the Longship]]
+: the crew, its share and its muster
+
+[[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]
+: the north's funeral rites
+
+[[lore-nrdlndswhal|The Whale Strand]], [[lore-nrdlndsseal|The Ice-Edge and the Rookery]]
+: the whale and seal economy
+
+[[skill-nordmalng|Nordmal Language]]
+: the shared tongue
+
+[[place-grkrhlmrgn|Grukarholm]]
+: eastern neighbor
+
+[[place-vrystwald|Vristwald]]
+: southern frontier
+
+[[place-aelwyth|Aelwyth]]
+: religious syncretism and cultural cousin
+
+[[place-aureldirgn|Aureldia Region]]
+: southern religious neighbor
+
+[[place-ankrscntnnt|Ankaris Continent]]
+: parent continent

@@ -503,24 +503,34 @@ Every damut is drawn to living flesh and blood with compulsive intensity, and pr
 
 The attributes below represent a fully degraded damut—the shambling dead. Recently returned damutu may have attributes approaching or matching their living values, declining over weeks and months toward these minimums.
 
-- **Strength:** 11-16 (1d6+10)
+Strength
+: 11-16 (1d6+10)
 
-- **Endurance:** 14-17 (1d4+13)
+Endurance
+: 14-17 (1d4+13)
 
-- **Dexterity:** 4-7 (1d4+3)
+Dexterity
+: 4-7 (1d4+3)
 
-- **Agility:** 4-7 (1d4+3)
+Agility
+: 4-7 (1d4+3)
 
-- **Perception:** 4-7 (1d4+3)
+Perception
+: 4-7 (1d4+3)
 
-- **Shadow:** 8-13 (1d6+7)
+Shadow
+: 8-13 (1d6+7)
 
 ## See Also
 
-- [[lore-undead|Undead]]—the undead as a class, the learned terms and the folk names, and how the undead differ from spirits
+[[lore-undead|Undead]]
+: the undead as a class, the learned terms and the folk names, and how the undead differ from spirits
 
-- [[being-tereb|Tereb]]—the cloaked one: the sentient undead
+[[being-tereb|Tereb]]
+: the cloaked one: the sentient undead
 
-- [[lore-theshadow|The Shadow]]—the corrupting force from outside creation that every undead carries
+[[lore-theshadow|The Shadow]]
+: the corrupting force from outside creation that every undead carries
 
-- [[lore-haugverdir|Hrúmverdir]]—the Faith of Nahild's raised dead, and the northern folk word's wider use
+[[lore-haugverdir|Hrúmverdir]]
+: the Faith of Nahild's raised dead, and the northern folk word's wider use

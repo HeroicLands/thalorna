@@ -56,5 +56,8 @@ Say a house sends forty sacks of grain downriver and two arrive wet. The owner g
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu]]—The empire whose rivers and seas its members work
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-aukhelathrgq|Au'Khelathu]]
+: The empire whose rivers and seas its members work
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

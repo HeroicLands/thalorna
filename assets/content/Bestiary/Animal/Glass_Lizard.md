@@ -292,20 +292,29 @@ Glass Lizards are sometimes captured for collections, as their unique appearance
 
 ## Attributes
 
-- **Strength:** 8-13 (1d6+7)
+Strength
+: 8-13 (1d6+7)
 
-- **Endurance:** 9-14 (1d6+8)
+Endurance
+: 9-14 (1d6+8)
 
-- **Dexterity:** 12-17 (1d6+11)
+Dexterity
+: 12-17 (1d6+11)
 
-- **Agility:** 13-18 (1d6+12)
+Agility
+: 13-18 (1d6+12)
 
-- **Perception:** 11-16 (1d6+10)
+Perception
+: 11-16 (1d6+10)
 
-- **Aura:** 7-10 (1d4+6)
+Aura
+: 7-10 (1d4+6)
 
-- **Will:** 8-13 (1d6+7)
+Will
+: 8-13 (1d6+7)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

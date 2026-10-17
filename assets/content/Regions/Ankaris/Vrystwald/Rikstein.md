@@ -20,6 +20,11 @@ data:
 
 ## See Also
 
-- [[place-vandstein|Vandstein]]—the reach around the village
-- [[place-thrastein|Thrastein]]—another village whose standing stone watches a post
-- [[lore-legionsroad|The Legions' Road]]—the road whose posts the tower belongs to
+[[place-vandstein|Vandstein]]
+: the reach around the village
+
+[[place-thrastein|Thrastein]]
+: another village whose standing stone watches a post
+
+[[lore-legionsroad|The Legions' Road]]
+: the road whose posts the tower belongs to

@@ -253,6 +253,11 @@ The fair stamped, and the horse-judge listened, and said the word had not been g
 
 ## See Also
 
-- [[place-thorgila|Thórgila]]—the hill town and its autumn fair
-- [[lore-tarvenanclt|Tarvenan]]—the horse fair, the household run while the men are away, the oath stone and the word kept
-- [[skill-tarvenlng|Tarveni]]—a language of assertion, in which a plain answer is the strong one
+[[place-thorgila|Thórgila]]
+: the hill town and its autumn fair
+
+[[lore-tarvenanclt|Tarvenan]]
+: the horse fair, the household run while the men are away, the oath stone and the word kept
+
+[[skill-tarvenlng|Tarveni]]
+: a language of assertion, in which a plain answer is the strong one

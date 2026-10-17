@@ -61,7 +61,14 @@ temple-cities into a tributary relationship collapsed within a generation
 
 ## See Also
 
-- [[place-nrthrnfrtlrgn|Northern Fertile Region]]—the parent region
-- [[affiliation-okharis|Okharis]]—the realm that holds this region
-- [[place-aukhelathrgq|Au'Khelathu Region]]—neighbor to the north
-- [[place-cntrlrnfrsts|Central Rainforests]]—the wall to the south
+[[place-nrthrnfrtlrgn|Northern Fertile Region]]
+: the parent region
+
+[[affiliation-okharis|Okharis]]
+: the realm that holds this region
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: neighbor to the north
+
+[[place-cntrlrnfrsts|Central Rainforests]]
+: the wall to the south

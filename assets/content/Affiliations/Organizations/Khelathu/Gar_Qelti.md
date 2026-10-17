@@ -60,4 +60,5 @@ Have a scribe read the entry back to you before you sign, line by line, and ask 
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The region it belongs to

@@ -120,12 +120,29 @@ hold, and would rather not look past it.
 
 ## See Also
 
-- [[place-xerathia|Zerathia]]—the parent continent
-- [[place-nrthrnfrtlrgn|Northern Fertile Region]]—the settled belt to the north
-- [[place-bethuargn|Bethua Region]]—the matriarchy's country across the frontier
-- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—the realm that claims the Marches and takes their tribute
-- [[place-okharisrgn|Okharis Region]]—the pastoral kingdom whose clans the Marchers share blood with
-- [[place-aukhelathrgq|Au'Khelathu Region]]—where the road leads
-- [[place-cntrlrnfrsts|Central Rainforests]]—the margin to the south
-- [[affiliation-jcklsthmrchs|Jackals of the South Marches]]—the free company of the Houseless
-- [[being-argyrirjckl|Argirira the Jackal]]—the exile-queen who rules the road
+[[place-xerathia|Zerathia]]
+: the parent continent
+
+[[place-nrthrnfrtlrgn|Northern Fertile Region]]
+: the settled belt to the north
+
+[[place-bethuargn|Bethua Region]]
+: the matriarchy's country across the frontier
+
+[[affiliation-mtrrchybth|Matriarchy of Bethua]]
+: the realm that claims the Marches and takes their tribute
+
+[[place-okharisrgn|Okharis Region]]
+: the pastoral kingdom whose clans the Marchers share blood with
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: where the road leads
+
+[[place-cntrlrnfrsts|Central Rainforests]]
+: the margin to the south
+
+[[affiliation-jcklsthmrchs|Jackals of the South Marches]]
+: the free company of the Houseless
+
+[[being-argyrirjckl|Argirira the Jackal]]
+: the exile-queen who rules the road

@@ -30,5 +30,8 @@ The age ends in 334 AF, 22 HG, when the Compact's roads and the march forts stan
 
 ## See Also
 
-- [[lore-hundredcrwn|The Hundred Crowns]] · [[lore-compactpeace|The Compact Peace]]—the ages on either side
-- [[place-lanthusthli|Lantustali]] · [[place-ludrapur|Ludrapur]] · [[place-thirnuhall|The Silenced Hall of Thirnugrama]]—what the generation left on the ground
+[[lore-hundredcrwn|The Hundred Crowns]] · [[lore-compactpeace|The Compact Peace]]
+: the ages on either side
+
+[[place-lanthusthli|Lantustali]] · [[place-ludrapur|Ludrapur]] · [[place-thirnuhall|The Silenced Hall of Thirnugrama]]
+: what the generation left on the ground

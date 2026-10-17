@@ -280,20 +280,29 @@ Bright light pains it and disrupts its senses, and a party with strong light in 
 
 ## Attributes
 
-- **Strength:** 17-22 (1d6+16)
+Strength
+: 17-22 (1d6+16)
 
-- **Endurance:** 19-24 (1d6+18)
+Endurance
+: 19-24 (1d6+18)
 
-- **Dexterity:** 11-16 (1d6+10)
+Dexterity
+: 11-16 (1d6+10)
 
-- **Agility:** 11-16 (1d6+10)
+Agility
+: 11-16 (1d6+10)
 
-- **Perception:** 15-20 (1d6+14)
+Perception
+: 15-20 (1d6+14)
 
-- **Aura:** 5-10 (1d6+4)
+Aura
+: 5-10 (1d6+4)
 
-- **Will:** 11-16 (1d6+10)
+Will
+: 11-16 (1d6+10)
 
-- **Reasoning:** 7-12 (1d6+6)
+Reasoning
+: 7-12 (1d6+6)
 
-- **Creativity:** 7-12 (1d6+6)
+Creativity
+: 7-12 (1d6+6)

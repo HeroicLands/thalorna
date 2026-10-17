@@ -26,6 +26,11 @@ Ne’ Ki’ahkul is less cosmopolitan than [[place-nepaxel|Ne’ P’ashel]], mo
 
 ## See Also
 
-- [[affiliation-ixbaltzaku|Ish’bal Tsa’ku]]—The highland region
-- [[place-nepaxel|Ne’ P’ashel]]—The trade hub to the south
-- [[affiliation-itzanpnthn|Itsani]]—The priesthood that controls tribute
+[[affiliation-ixbaltzaku|Ish’bal Tsa’ku]]
+: The highland region
+
+[[place-nepaxel|Ne’ P’ashel]]
+: The trade hub to the south
+
+[[affiliation-itzanpnthn|Itsani]]
+: The priesthood that controls tribute

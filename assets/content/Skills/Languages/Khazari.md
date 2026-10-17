@@ -6975,7 +6975,8 @@ FROM older WHERE language = 'thalorna-note-skill-khazarlng' ORDER BY position
 
 Khazari is **Subject-Verb-Object**, and the order does not move:
 
-- _Dalkir thumár-ak ramkam_—"The mason strikes the course"
+_Dalkir thumár-ak ramkam_
+: "The mason strikes the course"
 
 The actor, the act and the thing acted upon, in that sequence. Khazari rhetoric treats any other order as evasion. Inscriptions are the one exception: an inscription may set the verb last, an archaic order kept for carved stone and never spoken.
 
@@ -7017,9 +7018,14 @@ So _lakamevez_ is "lamps".
 
 An adjective is a skeleton in the adjective frame. It stands before its noun and agrees with it in gender and number, taking the same suffixes in the same order:
 
-- _khalív dalk_—"unlit stone"
-- _khalivev lakamev_—"an unlit lamp"
-- _khalivez dalkez_—"unlit stones"
+_khalív dalk_
+: "unlit stone"
+
+_khalivev lakamev_
+: "an unlit lamp"
+
+_khalivez dalkez_
+: "unlit stones"
 
 Poetic inversion is permitted and is immediately recognisable as poetry.
 
@@ -7042,11 +7048,20 @@ Poetic inversion is permitted and is immediately recognisable as poetry.
 
 The demonstratives take no suffix and stand before the noun and any adjective.
 
-- _Dalkir thuf thumár-ak ramkam_—"The mason does not strike the course"
-- _Dalkir thumár-ak ramkam zef_—"Does the mason strike the course?"
-- _dalkir zi thumár-ak ramkam_—"the mason who strikes the course"
-- _kodz khalív dalk_—"that unlit stone"
-- _dalkir bep ramkir_—"the mason and the layer of courses"
+_Dalkir thuf thumár-ak ramkam_
+: "The mason does not strike the course"
+
+_Dalkir thumár-ak ramkam zef_
+: "Does the mason strike the course?"
+
+_dalkir zi thumár-ak ramkam_
+: "the mason who strikes the course"
+
+_kodz khalív dalk_
+: "that unlit stone"
+
+_dalkir bep ramkir_
+: "the mason and the layer of courses"
 
 ### Numbers
 
@@ -7089,16 +7104,28 @@ Khazari is written in [[skill-drthrkscrpt|Pirzath]], which has **two forms**. Th
 
 Key features of **carved Pirzath**:
 
-- **Letter forms**: Short angled strokes cut across the grain of the stone, never along it, because along the grain the stone splits; each letter is angular, and the same letter is cut differently in slate and in granite
-- **The line of text**: Follows a seam, a bedding line or a natural edge of the stone, never a ruled baseline, so no inscription runs straight; reading carved Pirzath well means reading the stone
-- **Inscription tradition**: Used for what must last—oaths, laws, tombs and the founding of a hold—cut into stone, metal, or wood
-- **Diacritical marks**: Notches, dots, and lines indicate the acute and the skeleton boundaries
-- **Formality variants**: More elaborate, decorative versions for monuments or sacred texts
+Letter forms
+: Short angled strokes cut across the grain of the stone, never along it, because along the grain the stone splits; each letter is angular, and the same letter is cut differently in slate and in granite
+
+The line of text
+: Follows a seam, a bedding line or a natural edge of the stone, never a ruled baseline, so no inscription runs straight; reading carved Pirzath well means reading the stone
+
+Inscription tradition
+: Used for what must last—oaths, laws, tombs and the founding of a hold—cut into stone, metal, or wood
+
+Diacritical marks
+: Notches, dots, and lines indicate the acute and the skeleton boundaries
+
+Formality variants
+: More elaborate, decorative versions for monuments or sacred texts
 
 Key features of **the hand form of Pirzath**:
 
-- **Letter forms**: Flowing and curved, and joined within a word
-- **Media**: Ink or a stylus on slate and chalk (teaching, tallies, notes), wax tablets (drafts and accounts), hide or parchment (letters and books), and thin sheets of lead or copper cut with a stylus (records meant to last without being monumental)
+Letter forms
+: Flowing and curved, and joined within a word
+
+Media
+: Ink or a stylus on slate and chalk (teaching, tallies, notes), wax tablets (drafts and accounts), hide or parchment (letters and books), and thin sheets of lead or copper cut with a stylus (records meant to last without being monumental)
 
 Carved Pirzath writes the three consonants of a skeleton larger than the vowels of the frame, so a carved word shows its own grammar: the bone is cut deep and the binding is scored between. A Khazari reader takes in the skeleton first and the frame second, which is how a worn inscription can still be read when half the vowel-scoring has weathered away. The hand form marks the skeleton with a heavier stroke.
 
@@ -7130,12 +7157,23 @@ Inter-stronghold communication is maintained through formal written records and 
 
 ## Sample Phrases
 
-- _Vog dalkir, vog kr-rumák ramkam huramkum_—"He is a mason; he has laid the course in the workhall" (an introduction, and a claim to competence)
-- _Thamrol dhank, valdol varn_—"From the blow, the hammer-fall; from the binding, the true line" (a proverb: results follow method)
-- _Dalkir sumágh-ak dalkam, dalkir khusáp-ak_—"The mason listens to the stone; the mason cuts little" (a proverb: restraint is what listening leaves)
-- _Gaz gl-thumár, ves gl-zumád_—"I strike as a trade, you assay as a trade" (a division of work, and by extension an acknowledgment of another's mastery)
-- _Ramk kr-na-sumád, ramk na-thumár-aktor_—"The course has been raised; the course will be struck" (said over a finished work, and at funerals)
-- _Dalkith vanth, margith vanth_—"Oath of stone, oath of bone" (the strongest form of undertaking)
+_Vog dalkir, vog kr-rumák ramkam huramkum_
+: "He is a mason; he has laid the course in the workhall" (an introduction, and a claim to competence)
+
+_Thamrol dhank, valdol varn_
+: "From the blow, the hammer-fall; from the binding, the true line" (a proverb: results follow method)
+
+_Dalkir sumágh-ak dalkam, dalkir khusáp-ak_
+: "The mason listens to the stone; the mason cuts little" (a proverb: restraint is what listening leaves)
+
+_Gaz gl-thumár, ves gl-zumád_
+: "I strike as a trade, you assay as a trade" (a division of work, and by extension an acknowledgment of another's mastery)
+
+_Ramk kr-na-sumád, ramk na-thumár-aktor_
+: "The course has been raised; the course will be struck" (said over a finished work, and at funerals)
+
+_Dalkith vanth, margith vanth_
+: "Oath of stone, oath of bone" (the strongest form of undertaking)
 
 ## Related Languages
 
@@ -7184,11 +7222,20 @@ The given-name frame takes any of the five vowels, and the choice is meaningful 
 
 The five vowels carry the five senses in which a charge can be laid:
 
-- **a**—the work as it stands. The commonest, and the plainest.
-- **e**—the work hoped for, laid on a child born to a house that needs it.
-- **i**—the work of a named forebear, taken up again.
-- **o**—the work as an inheritance, used where a line would otherwise end.
-- **u**—the work endured, given to a child born in a bad season or a bad year.
+a
+: the work as it stands. The commonest, and the plainest.
+
+e
+: the work hoped for, laid on a child born to a house that needs it.
+
+i
+: the work of a named forebear, taken up again.
+
+o
+: the work as an inheritance, used where a line would otherwise end.
+
+u
+: the work endured, given to a child born in a bad season or a bad year.
 
 A Khazari therefore reads a stranger's given name twice: once for the skeleton, which says what he is for, and once for the vowel, which says why.
 

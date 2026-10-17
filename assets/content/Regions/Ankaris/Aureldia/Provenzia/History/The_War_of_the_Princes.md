@@ -82,7 +82,14 @@ The war ended with neither prince. The moderate houses of both parties found a t
 
 ## See Also
 
-- [[place-ceravelvale|Keravel Vale]]—the battleground
-- [[place-durvalis|Durvalis]]—the town raised after it
-- [[being-branwldrgr|Branval Dorgal]]—a mercenary captain of the broken house
-- [[lore-charterwar|The War of the Charter]]—the settlement whose silence on the succession caused it
+[[place-ceravelvale|Keravel Vale]]
+: the battleground
+
+[[place-durvalis|Durvalis]]
+: the town raised after it
+
+[[being-branwldrgr|Branval Dorgal]]
+: a mercenary captain of the broken house
+
+[[lore-charterwar|The War of the Charter]]
+: the settlement whose silence on the succession caused it

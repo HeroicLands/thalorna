@@ -465,19 +465,37 @@ Harkis seeks only to survive, to continue the work that defines his existence, a
 
 ### Strengths
 
-- **Toxicological Master**: Possesses a knowledge of poisons, their creation, application, and effects that few can equal; can compound toxins of precisely judged deadliness and can create substances that mimic natural disease
-- **Antidote Expertise**: Equally skilled in creating antidotes and counter-toxins; maintains a mental library of countermeasures for hundreds of known poisons and can improvise others when necessary
-- **Absolute Discretion**: Can be trusted completely to maintain confidence; has survived in the underworld partly because those who employ him never fear he will betray them through careless speech
-- **Chemical Mastery**: Possesses comprehensive understanding of the properties of substances and how they act on one another; can create complex alchemical preparations that achieve precise effects
-- **Moral Consistency Within Bounds**: Despite his flexibility on many ethical questions, is absolutely consistent within his defined boundaries; those who hire him know exactly what he will and will not do
+Toxicological Master
+: Possesses a knowledge of poisons, their creation, application, and effects that few can equal; can compound toxins of precisely judged deadliness and can create substances that mimic natural disease
+
+Antidote Expertise
+: Equally skilled in creating antidotes and counter-toxins; maintains a mental library of countermeasures for hundreds of known poisons and can improvise others when necessary
+
+Absolute Discretion
+: Can be trusted completely to maintain confidence; has survived in the underworld partly because those who employ him never fear he will betray them through careless speech
+
+Chemical Mastery
+: Possesses comprehensive understanding of the properties of substances and how they act on one another; can create complex alchemical preparations that achieve precise effects
+
+Moral Consistency Within Bounds
+: Despite his flexibility on many ethical questions, is absolutely consistent within his defined boundaries; those who hire him know exactly what he will and will not do
 
 ### Weaknesses
 
-- **Emotional Corruption**: His descent into criminality has stripped him of real human connection; he has become substantially less capable of fellow-feeling with those he does not know personally
-- **Moral Decay**: His flexibility on ethical questions has not prevented the gradual erosion of his conscience; he increasingly suspects he may have become something monstrous
-- **Physical Decline**: The weight of years in the underworld manifests in deteriorating health; he drinks too much, sleeps poorly, and feels the fragility of aging more acutely each season
-- **Isolation**: His distance from legitimate society and his family has created an isolation of the mind from which he cannot escape; he experiences real loneliness despite constant contact with underworld figures
-- **Vulnerability to Manipulation**: Those who understand his remaining moral boundaries can potentially manipulate him; his refusal to harm children, for instance, could be turned against him
+Emotional Corruption
+: His descent into criminality has stripped him of real human connection; he has become substantially less capable of fellow-feeling with those he does not know personally
+
+Moral Decay
+: His flexibility on ethical questions has not prevented the gradual erosion of his conscience; he increasingly suspects he may have become something monstrous
+
+Physical Decline
+: The weight of years in the underworld manifests in deteriorating health; he drinks too much, sleeps poorly, and feels the fragility of aging more acutely each season
+
+Isolation
+: His distance from legitimate society and his family has created an isolation of the mind from which he cannot escape; he experiences real loneliness despite constant contact with underworld figures
+
+Vulnerability to Manipulation
+: Those who understand his remaining moral boundaries can potentially manipulate him; his refusal to harm children, for instance, could be turned against him
 
 ## Social
 
@@ -513,12 +531,17 @@ The Crimson Order
 
 ## Plot Hooks
 
-1. **The Impossible Contract**: A mysterious patron who has never engaged Harkis before approaches with a contract that offers payment sufficient to buy freedom from the underworld permanently—perhaps even enough to attempt a return to legitimate society. The contract requires creation of a poison so complex and so specifically targeted to a particular individual that only Harkis could accomplish it. However, the target is someone whose role in political events is obscure; Harkis cannot determine whether he would be eliminating a real threat, removing an innocent, or serving a hidden purpose. The payment is substantial enough to tempt him, but the moral weight of uncertainty troubles him in ways simpler contracts do not.
+The Impossible Contract
+: A mysterious patron who has never engaged Harkis before approaches with a contract that offers payment sufficient to buy freedom from the underworld permanently—perhaps even enough to attempt a return to legitimate society. The contract requires creation of a poison so complex and so specifically targeted to a particular individual that only Harkis could accomplish it. However, the target is someone whose role in political events is obscure; Harkis cannot determine whether he would be eliminating a real threat, removing an innocent, or serving a hidden purpose. The payment is substantial enough to tempt him, but the moral weight of uncertainty troubles him in ways simpler contracts do not.
 
-2. **The Antidote Becomes Poison**: Harkis discovers that one of his antidotes—created years ago and distributed widely among criminal organizations—was never actually effective and may instead have accelerated the death of those who used it during poison exposure. Investigation suggests the error was inadvertent and came from contaminated source material he could not have known was compromised. However, dozens of people may have died believing themselves protected while actually being slowly poisoned. Addressing the problem means revealing his past involvement and inviting the attention of authorities; ignoring it means accepting that he carries responsibility for deaths that continue to accumulate.
+The Antidote Becomes Poison
+: Harkis discovers that one of his antidotes—created years ago and distributed widely among criminal organizations—was never actually effective and may instead have accelerated the death of those who used it during poison exposure. Investigation suggests the error was inadvertent and came from contaminated source material he could not have known was compromised. However, dozens of people may have died believing themselves protected while actually being slowly poisoned. Addressing the problem means revealing his past involvement and inviting the attention of authorities; ignoring it means accepting that he carries responsibility for deaths that continue to accumulate.
 
-3. **The Healer's Daughter**: A young woman arrives at his underground shop claiming to be the daughter Harkis abandoned years ago. She has learned, through investigation, what her father became and what he has done, and she has come to offer him a choice: help her expose and dismantle the Crimson Order, which she claims murdered her adoptive family, and in exchange she will help him escape the underworld and attempt a return to legitimate society. The offer represents hope but also requires him to betray the organization that has kept him alive for fourteen years, and his daughter may not forgive him whatever he does.
+The Healer's Daughter
+: A young woman arrives at his underground shop claiming to be the daughter Harkis abandoned years ago. She has learned, through investigation, what her father became and what he has done, and she has come to offer him a choice: help her expose and dismantle the Crimson Order, which she claims murdered her adoptive family, and in exchange she will help him escape the underworld and attempt a return to legitimate society. The offer represents hope but also requires him to betray the organization that has kept him alive for fourteen years, and his daughter may not forgive him whatever he does.
 
-4. **The Plague's Cure**: A true plague begins spreading through Vylaria's populations, a disease uncontrolled and spreading with terrifying speed. Official apothecaries are unable to create an effective treatment. Commander Kolsame approaches Harkis secretly with an unusual proposal: if he will develop a cure, she will allow him to escape the city safely. He has the knowledge she does not, and she is willing to overlook his crimes if it means saving the city's population. The offer is tempting, but Harkis suspects a trap—either designed to capture him or to compromise him further by making him a public hero rather than a hidden criminal.
+The Plague's Cure
+: A true plague begins spreading through Vylaria's populations, a disease uncontrolled and spreading with terrifying speed. Official apothecaries are unable to create an effective treatment. Commander Kolsame approaches Harkis secretly with an unusual proposal: if he will develop a cure, she will allow him to escape the city safely. He has the knowledge she does not, and she is willing to overlook his crimes if it means saving the city's population. The offer is tempting, but Harkis suspects a trap—either designed to capture him or to compromise him further by making him a public hero rather than a hidden criminal.
 
-5. **The Suicide's Inheritance**: One of Harkis' few real friends among underworld figures—a woman named **Sylvara** who operated as an information broker—takes her own life after a business failure, leaving Harkis as her sole named heir. Her estate includes not only significant wealth but documents and records of secrets known only to her—blackmail material on numerous figures throughout Vylaria's underworld and legitimate circles. Sylvara left explicit instructions that Harkis should decide whether these secrets should be released, destroyed, or held in perpetuity. The decision he makes will shape politics and crime in Vylaria for decades, and Harkis realizes he has suddenly been positioned as a figure of real power, a responsibility he never sought.
+The Suicide's Inheritance
+: One of Harkis' few real friends among underworld figures—a woman named **Sylvara** who operated as an information broker—takes her own life after a business failure, leaving Harkis as her sole named heir. Her estate includes not only significant wealth but documents and records of secrets known only to her—blackmail material on numerous figures throughout Vylaria's underworld and legitimate circles. Sylvara left explicit instructions that Harkis should decide whether these secrets should be released, destroyed, or held in perpetuity. The decision he makes will shape politics and crime in Vylaria for decades, and Harkis realizes he has suddenly been positioned as a figure of real power, a responsibility he never sought.

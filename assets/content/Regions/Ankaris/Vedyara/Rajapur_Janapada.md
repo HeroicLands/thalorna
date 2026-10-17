@@ -161,9 +161,14 @@ The janapoda has not been seriously threatened in living memory. The last armed 
 
 ## Famous Figures
 
-- **Karunamaya Podma-Hasta**: senior priest of the Vyalendra temple and convenor of the sabhra, about sixty, the third woman to hold the office in nine centuries.
-- **Ramavahana Smrtibhara**: the Memory-Keeper, in his late fifties, author of the standard modern commentary on the dissolution.
-- [[being-anrjhrdvmbjkr|Anuraja Harshadevambujakar]]: a Rajapuri-born scholar resident in [[affiliation-chandrapur|Chendrapur]], who corresponds with several of the major Vedyari kingdoms on the merits of further dissolutions on the Rajapuri model. He is controversial and well received in some janapadas. The kingdoms call him a dangerous radical and have asked Chendrapur to expel him; Chendrapur has declined.
+Karunamaya Podma-Hasta
+: senior priest of the Vyalendra temple and convenor of the sabhra, about sixty, the third woman to hold the office in nine centuries.
+
+Ramavahana Smrtibhara
+: the Memory-Keeper, in his late fifties, author of the standard modern commentary on the dissolution.
+
+[[being-anrjhrdvmbjkr|Anuraja Harshadevambujakar]]
+: a Rajapuri-born scholar resident in [[affiliation-chandrapur|Chendrapur]], who corresponds with several of the major Vedyari kingdoms on the merits of further dissolutions on the Rajapuri model. He is controversial and well received in some janapadas. The kingdoms call him a dangerous radical and have asked Chendrapur to expel him; Chendrapur has declined.
 
 ## Commerce and Currency
 
@@ -175,13 +180,32 @@ A person placed outside the tarona, by transgression or by birth, is excluded fr
 
 ## See Also
 
-- [[place-rajapurjnpd|Rajepur Janapoda]]—the land the janapoda holds
-- [[lore-mhndkngdm|The Kingdom of Mahanodi]]—the kingdom and its dissolution, dated
-- [[place-rajapur|Rajepur]]—the temple-seat, on the ground of the royal capital
-- [[place-rajavalilib|The Rajavali Library]]—the Memory-Keeper's archive
-- [[lore-fortydays|The Forty Days]] and [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]]—the dissolution as the chronicle and the recitation keep it
-- [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—parent confederation
-- [[affiliation-chandrapur|Chendrapur]]—patron city-state
-- [[affiliation-varakpnthn|Varnuka Pantheon]]—religious tradition
-- [[place-vedyarargn|Vedyara]]—parent region
-- [[skill-vedyarlng|Vedyari]]—language
+[[place-rajapurjnpd|Rajepur Janapoda]]
+: the land the janapoda holds
+
+[[lore-mhndkngdm|The Kingdom of Mahanodi]]
+: the kingdom and its dissolution, dated
+
+[[place-rajapur|Rajepur]]
+: the temple-seat, on the ground of the royal capital
+
+[[place-rajavalilib|The Rajavali Library]]
+: the Memory-Keeper's archive
+
+[[lore-fortydays|The Forty Days]] and [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]]
+: the dissolution as the chronicle and the recitation keep it
+
+[[affiliation-janpdsvdyr|Janapadas of Vedyara]]
+: parent confederation
+
+[[affiliation-chandrapur|Chendrapur]]
+: patron city-state
+
+[[affiliation-varakpnthn|Varnuka Pantheon]]
+: religious tradition
+
+[[place-vedyarargn|Vedyara]]
+: parent region
+
+[[skill-vedyarlng|Vedyari]]
+: language

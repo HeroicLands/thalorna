@@ -62,9 +62,14 @@ Hold one warning in mind. The god's anger is held to fall on the merchant who ho
 
 The temple's weight reaches into the state's accounts and the city's amusements.
 
-- The state—Draws on the temple's granaries when the ordinary harvest falls short. The granary is a standing reserve, and every ministry that plans the winter's food plans on this one.
-- [[affiliation-lemthubai|Lem'Thuba'i]]—The priesthood of the same god, which keeps the flood-records the granaries and the tax rolls are set against.
-- [[affiliation-linshelunthb|Lin'Shelun elu Thuba'i]]—The performers and artists the temple funds. They sing, play and paint at its feasts and carry its name into the city.
+The state
+: Draws on the temple's granaries when the ordinary harvest falls short. The granary is a standing reserve, and every ministry that plans the winter's food plans on this one.
+
+[[affiliation-lemthubai|Lem'Thuba'i]]
+: The priesthood of the same god, which keeps the flood-records the granaries and the tax rolls are set against.
+
+[[affiliation-linshelunthb|Lin'Shelun elu Thuba'i]]
+: The performers and artists the temple funds. They sing, play and paint at its feasts and carry its name into the city.
 
 [[affiliation-lutrethsaar|Lut-Reth'Sa'ar]] and this temple keep a courteous distance. Educated households often keep a shrine to both gods and see no contradiction in the pair.
 
@@ -76,6 +81,11 @@ The other flow is in the opposite direction, and it runs through the feasts. A m
 
 ## See Also
 
-- [[lore-thubaidty|Thuba'i]]—The god of the flood the temple serves
-- [[affiliation-lemthubai|Lem'Thuba'i]]—The priesthood that keeps the flood-records
-- [[affiliation-linshelunthb|Lin'Shelun elu Thuba'i]]—The temple's collective of performers and artists
+[[lore-thubaidty|Thuba'i]]
+: The god of the flood the temple serves
+
+[[affiliation-lemthubai|Lem'Thuba'i]]
+: The priesthood that keeps the flood-records
+
+[[affiliation-linshelunthb|Lin'Shelun elu Thuba'i]]
+: The temple's collective of performers and artists

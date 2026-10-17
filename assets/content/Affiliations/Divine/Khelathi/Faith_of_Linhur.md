@@ -63,7 +63,14 @@ Like every selat god's cult, this one keeps the shared temple ladder of Wazu, Le
 
 ## See Also
 
-- [[lore-linhurdty|Linhur]]—the god
-- [[affiliation-linqur|Faith of Linkur]]—the paired cult
-- [[affiliation-garnuw|Gar'Nuw]]—the guild whose elevations the two temples conduct
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the temple hierarchy every [[lore-khelathiclt|Khelathi]] cult shares
+[[lore-linhurdty|Linhur]]
+: the god
+
+[[affiliation-linqur|Faith of Linkur]]
+: the paired cult
+
+[[affiliation-garnuw|Gar'Nuw]]
+: the guild whose elevations the two temples conduct
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: the temple hierarchy every [[lore-khelathiclt|Khelathi]] cult shares

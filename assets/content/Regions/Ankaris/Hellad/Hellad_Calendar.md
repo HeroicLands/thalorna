@@ -124,7 +124,14 @@ The present: Helionis a province on paper with its own magistrates, the [[affili
 
 ## See Also
 
-- [[lore-commoncal|The Vylarian Calendar]]—the official count the ages are converted to
-- [[lore-vylariages|The Vylarian Ages]]—the ages of the Empire that rules Hellád in the middle years
-- [[place-heladrgn|Hellád Region]]—the country whose history the ages divide
-- [[lore-helioniteclt|Helionite]], [[lore-byzarianclt|Bizarian]]—the two cultures that keep them
+[[lore-commoncal|The Vylarian Calendar]]
+: the official count the ages are converted to
+
+[[lore-vylariages|The Vylarian Ages]]
+: the ages of the Empire that rules Hellád in the middle years
+
+[[place-heladrgn|Hellád Region]]
+: the country whose history the ages divide
+
+[[lore-helioniteclt|Helionite]], [[lore-byzarianclt|Bizarian]]
+: the two cultures that keep them

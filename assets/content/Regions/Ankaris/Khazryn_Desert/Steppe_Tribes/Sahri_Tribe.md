@@ -74,6 +74,11 @@ A stranger who reaches a Sahri water without the tribe's leave is held and quest
 
 ## See Also
 
-- [[lore-sowidesclt|Sovidur]]—the steppe tribes and what they hold a person owes
-- [[affiliation-rwlstrb|Uruvolur]]—the hidden-water bands to which the Sahri belong
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the country the tribe keeps
+[[lore-sowidesclt|Sovidur]]
+: the steppe tribes and what they hold a person owes
+
+[[affiliation-rwlstrb|Uruvolur]]
+: the hidden-water bands to which the Sahri belong
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the country the tribe keeps

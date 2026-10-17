@@ -310,20 +310,29 @@ Water buffalo possess a temperamental tenacity that domestication has not fully 
 
 ## Attributes
 
-- **Strength:** 15-20 (1d6+14)
+Strength
+: 15-20 (1d6+14)
 
-- **Endurance:** 14-19 (1d6+13)
+Endurance
+: 14-19 (1d6+13)
 
-- **Dexterity:** 6-9 (1d4+5)
+Dexterity
+: 6-9 (1d4+5)
 
-- **Agility:** 7-10 (1d4+6)
+Agility
+: 7-10 (1d4+6)
 
-- **Perception:** 9-14 (1d6+8)
+Perception
+: 9-14 (1d6+8)
 
-- **Aura:** 6-9 (1d4+5)
+Aura
+: 6-9 (1d4+5)
 
-- **Will:** 12-17 (1d6+11)
+Will
+: 12-17 (1d6+11)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

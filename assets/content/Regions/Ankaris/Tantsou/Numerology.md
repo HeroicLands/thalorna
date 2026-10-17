@@ -29,13 +29,25 @@ A Tantsou builder asked to add a fourth step to a temple stair adds a fifth inst
 
 ## Numbers in Daily Life
 
-- **Dates**: weddings, coronations and the dedication of buildings are set for days and hours that carry auspicious numbers, and a [[lore-tanchei|Tanchéi]] astrologer is paid to find one.
-- **Design**: a temple has nine steps to its door, a merchant house opens on an eighth day, and no official building has four of anything that can be counted.
-- **Seals and banners**: households and clans work auspicious numbers into their seals, their banners and the spirit documents they burn for their ancestors, so that the celestial bureaus will look on their business favorably.
+Dates
+: weddings, coronations and the dedication of buildings are set for days and hours that carry auspicious numbers, and a [[lore-tanchei|Tanchéi]] astrologer is paid to find one.
+
+Design
+: a temple has nine steps to its door, a merchant house opens on an eighth day, and no official building has four of anything that can be counted.
+
+Seals and banners
+: households and clans work auspicious numbers into their seals, their banners and the spirit documents they burn for their ancestors, so that the celestial bureaus will look on their business favorably.
 
 ## See Also
 
-- [[lore-marriage|Marriage]]—wedding dates chosen by number
-- [[lore-clndrstrlgy|Calendar and Astrology]]—the calendar the numbers are read against
-- [[lore-phlsphyleiwo|Philosophy of Leiwo]]—the domains that give the numbers their meaning
-- [[affiliation-tantsouempr|Empire of Tantsou]]—overview of imperial culture
+[[lore-marriage|Marriage]]
+: wedding dates chosen by number
+
+[[lore-clndrstrlgy|Calendar and Astrology]]
+: the calendar the numbers are read against
+
+[[lore-phlsphyleiwo|Philosophy of Leiwo]]
+: the domains that give the numbers their meaning
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: overview of imperial culture

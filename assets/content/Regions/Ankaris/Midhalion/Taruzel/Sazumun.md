@@ -72,9 +72,14 @@ sohl: {system: {commonSkills: [taruzelilng]}}
 
 The **[House of Factors]{.name data-type="place/structure"}** stands above Sazumun's harbor, and the merchant guilds that meet in it hold absolute power in the city-state. Sazumun is one of the five island city-states of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], some 2.5 million people around the city of [[place-sazumun2|Sazumun]] at the mouth of the [[place-alzriver|Alz River]], and it is the conduit through which goods flow between the Dunhari desert trade that crosses the strait, the market towns of the islands and the sea routes that connect the [[place-taruzelrgn|Taruzel Region]] to the western realms.
 
-- **Kind:** port city-state, governed by its merchant guilds
-- **Language:** [[skill-taruzelilng|Taruzeli]], which also governs its naming
-- **Faiths:** the [[affiliation-arldnpnthn|Aureldian Pantheon]] and the [[affiliation-ashanpnthn|Ashaian Pantheon]]
+Kind
+: port city-state, governed by its merchant guilds
+
+Language
+: [[skill-taruzelilng|Taruzeli]], which also governs its naming
+
+Faiths
+: the [[affiliation-arldnpnthn|Aureldian Pantheon]] and the [[affiliation-ashanpnthn|Ashaian Pantheon]]
 
 ## Who Decides
 
@@ -90,10 +95,23 @@ The tariffs the House of Factors sets are paid in the [[lore-trzlncrncy|Taruzeli
 
 ## See Also
 
-- [[place-sazumun2|Sazumun]]—the city itself
-- [[place-alzriver|Alz River]]—the river whose mouth makes the harbor
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the parent polity
-- [[skill-taruzelilng|Taruzeli]]—the naming tradition
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the western religious tradition
-- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the eastern religious tradition
-- [[affiliation-besikar|Besikar]], [[affiliation-yamuzel|Yamuzel]], [[affiliation-qudumel|Kudumel]], [[affiliation-bazunel|Bazunel]]—the sister city-states
+[[place-sazumun2|Sazumun]]
+: the city itself
+
+[[place-alzriver|Alz River]]
+: the river whose mouth makes the harbor
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the parent polity
+
+[[skill-taruzelilng|Taruzeli]]
+: the naming tradition
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the western religious tradition
+
+[[affiliation-ashanpnthn|Ashaian Pantheon]]
+: the eastern religious tradition
+
+[[affiliation-besikar|Besikar]], [[affiliation-yamuzel|Yamuzel]], [[affiliation-qudumel|Kudumel]], [[affiliation-bazunel|Bazunel]]
+: the sister city-states

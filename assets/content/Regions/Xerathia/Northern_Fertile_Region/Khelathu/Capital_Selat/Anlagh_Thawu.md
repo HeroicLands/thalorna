@@ -22,5 +22,8 @@ The village stands in the ring of farmland that feeds [[place-galezkara|Galezkar
 
 ## See Also
 
-- [[place-galezkaraslt|Galezkara Selat]]—The selat country that holds it
-- [[place-galezkara|Galezkara]]—The imperial city
+[[place-galezkaraslt|Galezkara Selat]]
+: The selat country that holds it
+
+[[place-galezkara|Galezkara]]
+: The imperial city

@@ -26,7 +26,14 @@ The priesthood of Shelem Ch’alish is known to be among the most severe and unc
 
 ## See Also
 
-- [[affiliation-qapteltzakl|Q’aptel Tsa’kul]]—The boundary lands to the north
-- [[place-xelemixbalrgn|Shelem Ish’bal]]—The forsaken wastes beyond
-- [[place-qptlulneok|Q’aptel’ul Ne’ok]]—The garrison city in the plateau
-- [[affiliation-itzanpnthn|Itsani]]—The priesthood that maintains this temple-fortress
+[[affiliation-qapteltzakl|Q’aptel Tsa’kul]]
+: The boundary lands to the north
+
+[[place-xelemixbalrgn|Shelem Ish’bal]]
+: The forsaken wastes beyond
+
+[[place-qptlulneok|Q’aptel’ul Ne’ok]]
+: The garrison city in the plateau
+
+[[affiliation-itzanpnthn|Itsani]]
+: The priesthood that maintains this temple-fortress

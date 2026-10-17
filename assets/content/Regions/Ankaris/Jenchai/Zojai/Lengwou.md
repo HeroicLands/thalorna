@@ -37,7 +37,14 @@ The Emperor's judges hear the town's cases, and a village of the district settle
 
 ## See Also
 
-- [[place-zojai|Zojai]]—the Emperor's mountain
-- [[affiliation-jenchaiempr|Jenchai Empire]]—the realm, the court and the eight houses
-- [[affiliation-muwojaidmn|Muwojai Domain]]—the house that holds every road to the court
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[place-zojai|Zojai]]
+: the Emperor's mountain
+
+[[affiliation-jenchaiempr|Jenchai Empire]]
+: the realm, the court and the eight houses
+
+[[affiliation-muwojaidmn|Muwojai Domain]]
+: the house that holds every road to the court
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

@@ -504,20 +504,29 @@ Long heat and drought dry its skin and crack the stone in it, and fire pains it.
 
 ## Attributes
 
-- **Strength:** 40-45 (1d6+39)
+Strength
+: 40-45 (1d6+39)
 
-- **Endurance:** 25-30 (1d6+24)
+Endurance
+: 25-30 (1d6+24)
 
-- **Dexterity:** 6-9 (1d4+5)
+Dexterity
+: 6-9 (1d4+5)
 
-- **Agility:** 7-10 (1d4+6)
+Agility
+: 7-10 (1d4+6)
 
-- **Perception:** 9-12 (1d4+8)
+Perception
+: 9-12 (1d4+8)
 
-- **Aura:** 10-13 (1d4+9)
+Aura
+: 10-13 (1d4+9)
 
-- **Will:** 11-16 (1d6+10)
+Will
+: 11-16 (1d6+10)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

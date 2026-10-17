@@ -22,4 +22,5 @@ Water is the one resource neither side can afford to let the other poison, and t
 
 ## See Also
 
-- [[place-khuqetmiglet|Khuqet-Miglet]]—The desert-march it lies in
+[[place-khuqetmiglet|Khuqet-Miglet]]
+: The desert-march it lies in

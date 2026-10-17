@@ -429,12 +429,17 @@ Traditional blacksmiths see her work as too ornamental.
 
 ## Plot Hooks
 
-1. **The Weaponcrafter (Armorer)'s Dilemma**—A wealthy client wants a blade from Hushaduya made for show alone, and taking the commission would concede what she has spent years denying.
+The Weaponcrafter (Armorer)'s Dilemma
+: A wealthy client wants a blade from Hushaduya made for show alone, and taking the commission would concede what she has spent years denying.
 
-2. **Old Grudges**—A traditional blacksmith who calls Hushaduya's work ornament has brought a complaint against her to the City Artisans' Guild.
+Old Grudges
+: A traditional blacksmith who calls Hushaduya's work ornament has brought a complaint against her to the City Artisans' Guild.
 
-3. **Echoes of the Past**—A dagger from Hushaduya's first years at the forge is found in a dead man, and its design names its maker.
+Echoes of the Past
+: A dagger from Hushaduya's first years at the forge is found in a dead man, and its design names its maker.
 
-4. **Shifting Winds**—Political change in Taruzel threatens the wealthy clients Hushaduya's trade depends on, and she can adapt, resist, or leave.
+Shifting Winds
+: Political change in Taruzel threatens the wealthy clients Hushaduya's trade depends on, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—An adventurer offers to carry one of Hushaduya's blades into a fight the whole city will hear of, on the condition that she comes to see it used.
+The Opportunity
+: An adventurer offers to carry one of Hushaduya's blades into a fight the whole city will hear of, on the condition that she comes to see it used.

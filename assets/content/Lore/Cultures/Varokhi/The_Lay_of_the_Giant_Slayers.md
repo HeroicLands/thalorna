@@ -443,8 +443,17 @@ Hear it next year who will.    I will have it the same.
 
 ## See Also
 
-- [[lore-takingwood|The Taking of the Wood]]—the history the lay and its answer keep in two accounts
-- [[lore-wintertally|The Tally of Winters]]—Before the Kindreds, the age of the _dorg_
-- [[place-waldburg|Waldburg]]—the market whose peace lets a rival answer a lay
-- [[place-vethhrom|Vethhrum]]—the Deepwood's oldest mound, which the answer calls on
-- [[lore-varokhiclt|Varokhi]]—the vow before the war-band, the mounds and Weskskald
+[[lore-takingwood|The Taking of the Wood]]
+: the history the lay and its answer keep in two accounts
+
+[[lore-wintertally|The Tally of Winters]]
+: Before the Kindreds, the age of the _dorg_
+
+[[place-waldburg|Waldburg]]
+: the market whose peace lets a rival answer a lay
+
+[[place-vethhrom|Vethhrum]]
+: the Deepwood's oldest mound, which the answer calls on
+
+[[lore-varokhiclt|Varokhi]]
+: the vow before the war-band, the mounds and Weskskald

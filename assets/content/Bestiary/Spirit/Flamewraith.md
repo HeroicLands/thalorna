@@ -481,20 +481,29 @@ The air within thirty feet of it is hot enough to burn exposed skin over time, a
 
 ## Attributes
 
-- **Strength:** 7-10 (1d4+6)
+Strength
+: 7-10 (1d4+6)
 
-- **Endurance:** 9-12 (1d4+8)
+Endurance
+: 9-12 (1d4+8)
 
-- **Dexterity:** 13-16 (1d4+12)
+Dexterity
+: 13-16 (1d4+12)
 
-- **Agility:** 15-18 (1d4+14)
+Agility
+: 15-18 (1d4+14)
 
-- **Perception:** 9-12 (1d4+8)
+Perception
+: 9-12 (1d4+8)
 
-- **Aura:** 13-16 (1d4+12)
+Aura
+: 13-16 (1d4+12)
 
-- **Will:** 11-14 (1d4+10)
+Will
+: 11-14 (1d4+10)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 9-12 (1d4+8)
+Creativity
+: 9-12 (1d4+8)

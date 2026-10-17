@@ -27,12 +27,23 @@ What begins as a straightforward bandit-hunting job gradually reveals layers of 
 
 ## Key NPCs
 
-- **Thárion**—Deposed former lord of Belsaren, now a charismatic bandit leader fighting for the Tanevar peasants. Sympathetic but increasingly desperate and violent.
-- **Elgar Tarlas**—Current lord of Belsaren. Harsh, self-interested, and oppressive toward the Tanevar. Hires the adventurers.
-- **Khirata [Jarvel al Pélanvri na Torvila Keravel]{.name data-type="being/npc"}**—Tarlas's liege lord. Installed Tarlas after deposing Thárion's family on fabricated treason charges.
-- **Nalor Kilan of [[place-ilovren|Ilovren]]**—The true antagonist. A calculating noble and secret Black Flame sympathizer who manipulates the bandit conflict to destabilize Belsaren and pursue the artifact.
-- **[Kaldin al Lénavel na Leravren]{.name data-type="being/npc"}**—Lord of [[place-leravren|Leravren]], member of the [Zuravel]{.name data-type="affiliation/lineage"} clan of the Black Flame. Kilan's ally and the connection to organized Black Flame power.
-- **[Darisen al Olrun]{.name data-type="being/npc"}**—An erudite scholar who offers help understanding the Black Flame and tracking the shrine. Secretly a Sélmoran with his own designs on the artifact.
+Thárion
+: Deposed former lord of Belsaren, now a charismatic bandit leader fighting for the Tanevar peasants. Sympathetic but increasingly desperate and violent.
+
+Elgar Tarlas
+: Current lord of Belsaren. Harsh, self-interested, and oppressive toward the Tanevar. Hires the adventurers.
+
+Khirata [Jarvel al Pélanvri na Torvila Keravel]{.name data-type="being/npc"}
+: Tarlas's liege lord. Installed Tarlas after deposing Thárion's family on fabricated treason charges.
+
+Nalor Kilan of [[place-ilovren|Ilovren]]
+: The true antagonist. A calculating noble and secret Black Flame sympathizer who manipulates the bandit conflict to destabilize Belsaren and pursue the artifact.
+
+[Kaldin al Lénavel na Leravren]{.name data-type="being/npc"}
+: Lord of [[place-leravren|Leravren]], member of the [Zuravel]{.name data-type="affiliation/lineage"} clan of the Black Flame. Kilan's ally and the connection to organized Black Flame power.
+
+[Darisen al Olrun]{.name data-type="being/npc"}
+: An erudite scholar who offers help understanding the Black Flame and tracking the shrine. Secretly a Sélmoran with his own designs on the artifact.
 
 ## The Three Parts
 
@@ -50,19 +61,36 @@ The adventurers venture into the cursed Blood Hills, navigate treacherous terrai
 
 ## Key Themes
 
-- **Deception and Betrayal**—Layers of manipulation from Kilan, Kaldin, and even apparent allies like Darisen
-- **Moral Dilemmas**—The adventurers repeatedly face choices that challenge their values: trust or betray, mercy or justice, power or principle
-- **Political Intrigue**—Noble rivalries, fabricated charges, shifting alliances, and the cynical use of peasant suffering as a political tool
-- **Power and Corruption**—The Black Flame artifact represents the seductive and corrupting nature of power itself
+Deception and Betrayal
+: Layers of manipulation from Kilan, Kaldin, and even apparent allies like Darisen
+
+Moral Dilemmas
+: The adventurers repeatedly face choices that challenge their values: trust or betray, mercy or justice, power or principle
+
+Political Intrigue
+: Noble rivalries, fabricated charges, shifting alliances, and the cynical use of peasant suffering as a political tool
+
+Power and Corruption
+: The Black Flame artifact represents the seductive and corrupting nature of power itself
 
 ## Future Hooks
 
-- **Black Flame Rage**—The Zur clan seeks revenge or attempts to reclaim the relic
-- **Power Shifts in the Region**—New political dynamics emerge depending on how the adventurers handled Tarlas and Kilan
-- **Mysterious Forces**—The artifact's origins hint at deeper lore tied to the Black Flame or other ancient powers
+Black Flame Rage
+: The Zur clan seeks revenge or attempts to reclaim the relic
+
+Power Shifts in the Region
+: New political dynamics emerge depending on how the adventurers handled Tarlas and Kilan
+
+Mysterious Forces
+: The artifact's origins hint at deeper lore tied to the Black Flame or other ancient powers
 
 ## Related Notes
 
-- [[scenario-maulgashng|Maul of Gashang]]—The Black Flame artifact at the heart of the conspiracy
-- [[scenario-caveoutlin|Cave Outline]]—Detailed layout of Thárion's bandit hideout
-- [[scenario-sumryprvnz|Summary of Provenzia]]—Regional context
+[[scenario-maulgashng|Maul of Gashang]]
+: The Black Flame artifact at the heart of the conspiracy
+
+[[scenario-caveoutlin|Cave Outline]]
+: Detailed layout of Thárion's bandit hideout
+
+[[scenario-sumryprvnz|Summary of Provenzia]]
+: Regional context

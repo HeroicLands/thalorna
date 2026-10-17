@@ -426,23 +426,56 @@ Bitter and exiled, Filezos turned to mercenary work, selling his tactical skill 
 
 ### Skills and Abilities
 
-- **Strength**: Filezos has spent years in battle, developing significant physical strength.
-- **Endurance**: His experience in long campaigns has given him stamina.
-- **Dexterity**: While not particularly graceful, Filezos is precise in his movements in battle.
-- **Agility**: He moves efficiently, relying on agility in combat to outmaneuver opponents.
-- **Perception**: His awareness of the battlefield is sharp, though not so.
-- **Comeliness**: Filezos’s appearance is rugged and battle-worn, with a certain charisma.
-- **Aura**: His presence commands respect, especially among his troops.
-- **Will**: Filezos’s will is strong, honed through years of command and leadership.
-- **Reasoning**: His tactical mind allows him to plan and strategize effectively.
-- **Creativity**: While occasionally innovative in battle, Filezos prefers tried-and-true tactics.
-- **Empathy**: He is focused on his duty as a commander, often appearing emotionally distant.
-- **Eloquence**: Filezos speaks with authority, his words often having the power to inspire his men.
-- **Morality**: Filezos lives by the Black Flame's creed: the strong have the right to act, and victory justifies the method. As a mercenary commander, he professes loyalty to his soldiers and their shared culture, but his moral compass is ultimately calibrated to strength and results, not sentiment.
-- **Voice**: Unexpectedly, Filezos possesses a rich, smooth voice that can carry a tune with surprising beauty. Despite his rough exterior as a mercenary, his voice is deep and full, suited for songs that reflect tales of battle and camaraderie.
-- **Master Strategist**: Filezos excels in devising military strategies, particularly ones that use fire and heat as central elements in warfare. He is always thinking several steps ahead and can adapt quickly in chaotic situations.
-- **Warrior of Flame**: Filezos isn’t just a strategist—he has learned to use fire in battle, employing incendiary tactics such as firebombs and burning oil to enhance his combat abilities.
-- **Cold and Calculated**: Filezos has no qualms about using extreme measures to achieve victory. His mind for campaigns allows him to see opportunities where others see chaos, and he is unafraid to take risks if the potential rewards are high.
+Strength
+: Filezos has spent years in battle, developing significant physical strength.
+
+Endurance
+: His experience in long campaigns has given him stamina.
+
+Dexterity
+: While not particularly graceful, Filezos is precise in his movements in battle.
+
+Agility
+: He moves efficiently, relying on agility in combat to outmaneuver opponents.
+
+Perception
+: His awareness of the battlefield is sharp, though not so.
+
+Comeliness
+: Filezos’s appearance is rugged and battle-worn, with a certain charisma.
+
+Aura
+: His presence commands respect, especially among his troops.
+
+Will
+: Filezos’s will is strong, honed through years of command and leadership.
+
+Reasoning
+: His tactical mind allows him to plan and strategize effectively.
+
+Creativity
+: While occasionally innovative in battle, Filezos prefers tried-and-true tactics.
+
+Empathy
+: He is focused on his duty as a commander, often appearing emotionally distant.
+
+Eloquence
+: Filezos speaks with authority, his words often having the power to inspire his men.
+
+Morality
+: Filezos lives by the Black Flame's creed: the strong have the right to act, and victory justifies the method. As a mercenary commander, he professes loyalty to his soldiers and their shared culture, but his moral compass is ultimately calibrated to strength and results, not sentiment.
+
+Voice
+: Unexpectedly, Filezos possesses a rich, smooth voice that can carry a tune with surprising beauty. Despite his rough exterior as a mercenary, his voice is deep and full, suited for songs that reflect tales of battle and camaraderie.
+
+Master Strategist
+: Filezos excels in devising military strategies, particularly ones that use fire and heat as central elements in warfare. He is always thinking several steps ahead and can adapt quickly in chaotic situations.
+
+Warrior of Flame
+: Filezos isn’t just a strategist—he has learned to use fire in battle, employing incendiary tactics such as firebombs and burning oil to enhance his combat abilities.
+
+Cold and Calculated
+: Filezos has no qualms about using extreme measures to achieve victory. His mind for campaigns allows him to see opportunities where others see chaos, and he is unafraid to take risks if the potential rewards are high.
 
 ## Psyche
 
@@ -467,10 +500,14 @@ rival faction
 
 ## Plot Hooks
 
-1. **The Ashen Pact**: A rogue general from Vylaria’s armies approaches Filezos, offering him a position as their chief strategist for a campaign to conquer a rebellious province. The province holds significant cultural and personal meaning for Filezos, as it was once his family’s home. Accepting the offer could grant him a chance to restore his name, but at the cost of destroying his ancestral lands.
+The Ashen Pact
+: A rogue general from Vylaria’s armies approaches Filezos, offering him a position as their chief strategist for a campaign to conquer a rebellious province. The province holds significant cultural and personal meaning for Filezos, as it was once his family’s home. Accepting the offer could grant him a chance to restore his name, but at the cost of destroying his ancestral lands.
 
-2. **The Scorched Earth Legacy**: Survivors of the fortress Filezos burned during his infamous campaign have formed a militia seeking revenge. Their tactics disrupt local trade routes, painting Filezos as the cause of continued suffering. To address the growing threat, he must track down the militia’s leader, only to discover a former comrade leading the group with evidence of Vylaria’s betrayal.
+The Scorched Earth Legacy
+: Survivors of the fortress Filezos burned during his infamous campaign have formed a militia seeking revenge. Their tactics disrupt local trade routes, painting Filezos as the cause of continued suffering. To address the growing threat, he must track down the militia’s leader, only to discover a former comrade leading the group with evidence of Vylaria’s betrayal.
 
-3. **The Calculated Rebellion**: A resistance group within Vylaria’s borders contacts Filezos, requesting his help to overthrow a corrupt governor. Though the mission aligns with his disdain for the empire’s decay, Filezos suspects the group’s leader is motivated more by personal ambition than justice. He must decide whether to manipulate the rebellion for his gain or risk exposing its leader’s true motives.
+The Calculated Rebellion
+: A resistance group within Vylaria’s borders contacts Filezos, requesting his help to overthrow a corrupt governor. Though the mission aligns with his disdain for the empire’s decay, Filezos suspects the group’s leader is motivated more by personal ambition than justice. He must decide whether to manipulate the rebellion for his gain or risk exposing its leader’s true motives.
 
-4. **The Flame Forged Alliance**: A minor noble aligned with Kalestratos offers Filezos a chance to lead a coalition of mercenary companies in exchange for pledging loyalty to their cause. While the deal promises substantial resources and influence, Filezos uncovers evidence that the noble is sabotaging Kalestratos’s ambitions. Choosing to expose the plot could secure Kalestratos’s trust but might cost Filezos the alliance and his growing network.
+The Flame Forged Alliance
+: A minor noble aligned with Kalestratos offers Filezos a chance to lead a coalition of mercenary companies in exchange for pledging loyalty to their cause. While the deal promises substantial resources and influence, Filezos uncovers evidence that the noble is sabotaging Kalestratos’s ambitions. Choosing to expose the plot could secure Kalestratos’s trust but might cost Filezos the alliance and his growing network.

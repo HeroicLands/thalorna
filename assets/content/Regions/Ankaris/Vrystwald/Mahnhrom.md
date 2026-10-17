@@ -14,6 +14,11 @@ A Shaman can call home only the dead whose names are known and whose bodies were
 
 ## See Also
 
-- [[place-mahnryth|Mahnreth]]—the village that keeps the mound
-- [[place-grimak|Grimak]]—the thicket the village does not sing at
-- [[lore-grimakburning|The Burning at Grimak]]—the war the mound answers
+[[place-mahnryth|Mahnreth]]
+: the village that keeps the mound
+
+[[place-grimak|Grimak]]
+: the thicket the village does not sing at
+
+[[lore-grimakburning|The Burning at Grimak]]
+: the war the mound answers

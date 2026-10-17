@@ -166,7 +166,14 @@ Read [[place-clublstvlt|The Burial Club's Last Vault]] first. The adventure assu
 
 ### See Also
 
-- [[place-clublstvlt|The Burial Club's Last Vault]]—the place
-- [[lore-khelunulekha|Khelunu Lekhau]]—the Houses and their marks
-- [[lore-theshadow|The Shadow]]—what fills a Name's absence
-- [[lore-wethurdty|Weth'ur]]—the lord of the passage the club's dead never made
+[[place-clublstvlt|The Burial Club's Last Vault]]
+: the place
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the Houses and their marks
+
+[[lore-theshadow|The Shadow]]
+: what fills a Name's absence
+
+[[lore-wethurdty|Weth'ur]]
+: the lord of the passage the club's dead never made

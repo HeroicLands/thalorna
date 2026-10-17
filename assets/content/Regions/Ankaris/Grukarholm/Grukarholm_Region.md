@@ -89,10 +89,23 @@ The [[place-nrdlndsrgn|Nordlands]] lie farther west and north, beyond the wester
 
 ## See Also
 
-- [[lore-grukarfolk|Grukar Folk]]—the castes, inheritance rite and appetite
-- [[being-grukaruk|Grukar-Uk]], [[being-grkrsh|Grukar-Sha]], [[being-grkrhshk|Grukar-Hushk]]—the three subspecies
-- [[skill-grukarlng|Grukar Language]]—the Grukar tongue
-- [[place-nrdlndsrgn|Nordlands Region]]—farther west and north
-- [[place-vrystwald|Vristwald]]—Varokh forest curving around the area
-- [[place-velanthrgn|Velanthia Region]]—the northern and southeastern reaches around it
-- [[place-ankrscntnnt|Ankaris Continent]]—parent continent
+[[lore-grukarfolk|Grukar Folk]]
+: the castes, inheritance rite and appetite
+
+[[being-grukaruk|Grukar-Uk]], [[being-grkrsh|Grukar-Sha]], [[being-grkrhshk|Grukar-Hushk]]
+: the three subspecies
+
+[[skill-grukarlng|Grukar Language]]
+: the Grukar tongue
+
+[[place-nrdlndsrgn|Nordlands Region]]
+: farther west and north
+
+[[place-vrystwald|Vristwald]]
+: Varokh forest curving around the area
+
+[[place-velanthrgn|Velanthia Region]]
+: the northern and southeastern reaches around it
+
+[[place-ankrscntnnt|Ankaris Continent]]
+: parent continent

@@ -46,6 +46,11 @@ The main trade goods flowing through K'ushi Ish'bal are provisions for travelers
 
 ## See Also
 
-- [[affiliation-kuxiixbal|K'ushi Ish'bal]]—The realm that holds this land
-- [[place-sthrnkchchk|Southern K'ich'chik]]—The enclosing region
-- [[place-kuxiixbal2|K'ushi Ish'bal]]—Seat of K'ushi Ish'bal
+[[affiliation-kuxiixbal|K'ushi Ish'bal]]
+: The realm that holds this land
+
+[[place-sthrnkchchk|Southern K'ich'chik]]
+: The enclosing region
+
+[[place-kuxiixbal2|K'ushi Ish'bal]]
+: Seat of K'ushi Ish'bal

@@ -20,5 +20,8 @@ The sabhra put the palace's stones into the temple by decree. The brick in Puran
 
 ## See Also
 
-- [[place-rajapurjnpd|Rajepur Janapoda]]—the land
-- [[affiliation-rajaprjnpd|Rajepur Janapoda]]—the temple-republic that holds it
+[[place-rajapurjnpd|Rajepur Janapoda]]
+: the land
+
+[[affiliation-rajaprjnpd|Rajepur Janapoda]]
+: the temple-republic that holds it

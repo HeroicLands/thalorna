@@ -37,7 +37,14 @@ The village is a day along the southern shore from the terrace country, and no r
 
 ## See Also
 
-- [[place-klhrkthrgap|The Kuethori Gap]]—the gorge the village holds
-- [[place-klhrlake|The Bowl Lake]]—the water that runs out through it
-- [[place-koathevoi|Koathevoi]]—the terrace town the risen water has reached
-- [[place-mirthaan|Mirthaan]]—the sanctuary whose custodians tend the work
+[[place-klhrkthrgap|The Kuethori Gap]]
+: the gorge the village holds
+
+[[place-klhrlake|The Bowl Lake]]
+: the water that runs out through it
+
+[[place-koathevoi|Koathevoi]]
+: the terrace town the risen water has reached
+
+[[place-mirthaan|Mirthaan]]
+: the sanctuary whose custodians tend the work

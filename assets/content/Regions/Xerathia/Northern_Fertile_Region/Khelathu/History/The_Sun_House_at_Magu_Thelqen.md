@@ -81,7 +81,14 @@ The house's scholars set its doctrine down in a book. The temple of Reth'Sa'ar a
 
 ## See Also
 
-- [[place-maguathen|Magu-Thelqen]]—the city the house built
-- [[place-khelunu|Khelunu]]—where the chamber lies
-- [[lore-templetrib|The Tribute of the Temple-Cities]]—the house's venture across the South Marches
-- [[lore-akhrestcrown|The Restored Crown]]—the age
+[[place-maguathen|Magu-Thelqen]]
+: the city the house built
+
+[[place-khelunu|Khelunu]]
+: where the chamber lies
+
+[[lore-templetrib|The Tribute of the Temple-Cities]]
+: the house's venture across the South Marches
+
+[[lore-akhrestcrown|The Restored Crown]]
+: the age

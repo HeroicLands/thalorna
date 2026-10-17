@@ -84,8 +84,11 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 Never call a graduate of the **[Academy of the Silver Veil]{.name data-type="affiliation"}** a courtesan in Kalidria. She is a hetairin, an educated companion trained in music, philosophy, rhetoric and the social arts, and Helionites are impatient with the confusion. The Academy is the most distinctive institution of a city-state that is renowned across the [[place-midhalnrgn|Mídhalión Region]] for its artists, playwrights and musicians. Where [[affiliation-thyrenae|Thirenae]] pursues truth and [[affiliation-pelagora|Pelagora]] pursues power, Kalidria pursues beauty. About 460,000 people live under its patron families, and 45,000 of them in the city of [[place-kalydria2|Kalidria]].
 
-- **Patron deity:** [[lore-zunelasdty|Zunelas]], goddess of dreams and visions
-- **Government:** oligarchy of wealthy patron families
+Patron deity
+: [[lore-zunelasdty|Zunelas]], goddess of dreams and visions
+
+Government
+: oligarchy of wealthy patron families
 
 ## Who Decides
 
@@ -111,7 +114,14 @@ Kalidria uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel)
 
 ## See Also
 
-- [[affiliation-ctysttshlns|City-States of Helionis]]—the seven cities and how they are governed
-- [[place-helionis|Helionis]]—the region
-- [[place-kalydria2|Kalidria]]—the city itself
-- [[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]]—the other two leading city-states
+[[affiliation-ctysttshlns|City-States of Helionis]]
+: the seven cities and how they are governed
+
+[[place-helionis|Helionis]]
+: the region
+
+[[place-kalydria2|Kalidria]]
+: the city itself
+
+[[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]]
+: the other two leading city-states

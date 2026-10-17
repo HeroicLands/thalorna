@@ -454,17 +454,31 @@ Thraskorv is consumed by two intertwined motivations: the visceral desire for fr
 
 ### Strengths
 
-- **Extraordinary Physical Strength**: Thraskorv's frame was built for labor, but his strength far exceeds that of ordinary thralls. He can accomplish in a day what typically requires two workers.
-- **Resilience and Endurance**: Years of maltreatment have forged Thraskorv into something nearly indestructible. He can work through pain, hunger, and exhaustion that would break others.
-- **Strategic Intelligence**: Thraskorv's mind is constantly analyzing, learning, and strategizing. He understands complex agricultural systems, the politics of the noble estates, and the routes by which thralls might escape.
-- **Inspired Leadership**: Despite his bondage, Thraskorv's defiance has become a source of hope to other thralls. They look to him as a figure of resistance, though he has carefully avoided openly organizing (which would bring immediate execution).
+Extraordinary Physical Strength
+: Thraskorv's frame was built for labor, but his strength far exceeds that of ordinary thralls. He can accomplish in a day what typically requires two workers.
+
+Resilience and Endurance
+: Years of maltreatment have forged Thraskorv into something nearly indestructible. He can work through pain, hunger, and exhaustion that would break others.
+
+Strategic Intelligence
+: Thraskorv's mind is constantly analyzing, learning, and strategizing. He understands complex agricultural systems, the politics of the noble estates, and the routes by which thralls might escape.
+
+Inspired Leadership
+: Despite his bondage, Thraskorv's defiance has become a source of hope to other thralls. They look to him as a figure of resistance, though he has carefully avoided openly organizing (which would bring immediate execution).
 
 ### Weaknesses
 
-- **Impulsive Defiance**: Thraskorv's rage sometimes overrides his strategic thinking. He has taken risks that could have ended his life, driven more by anger than reason.
-- **Physical Vulnerability to Punishment**: Despite his strength, Thraskorv remains legally powerless. He cannot defend himself against official punishment without sealing his death warrant.
-- **Limited Education**: While intelligent, Thraskorv lacks formal learning. He cannot read, write, or speak languages beyond his native tongue—limitations that could prevent escape or advancement.
-- **Dangerous Attention**: His reputation for defiance and his close monitoring mean that any escape attempt will be met with extreme prejudice, and any revolutionary activity would immediately fall under suspicion.
+Impulsive Defiance
+: Thraskorv's rage sometimes overrides his strategic thinking. He has taken risks that could have ended his life, driven more by anger than reason.
+
+Physical Vulnerability to Punishment
+: Despite his strength, Thraskorv remains legally powerless. He cannot defend himself against official punishment without sealing his death warrant.
+
+Limited Education
+: While intelligent, Thraskorv lacks formal learning. He cannot read, write, or speak languages beyond his native tongue—limitations that could prevent escape or advancement.
+
+Dangerous Attention
+: His reputation for defiance and his close monitoring mean that any escape attempt will be met with extreme prejudice, and any revolutionary activity would immediately fall under suspicion.
 
 ## Social
 
@@ -489,12 +503,17 @@ Thraskorv is forbidden from formal associations, but he maintains unofficial con
 
 ## Plot Hooks
 
-1. **The Chance of Escape**: A merchant caravan arrives at the estate, and Thraskorv recognizes one of the drivers as a former thrall who achieved freedom. That night, he is offered an opportunity to escape—a hidden cart, a route to safety, and a life of freedom. But the escape would require leaving others behind, abandoning his dream of systematic change, and accepting that he alone survives while the system continues. His choice will define whether he is a revolutionary or a survivor.
+The Chance of Escape
+: A merchant caravan arrives at the estate, and Thraskorv recognizes one of the drivers as a former thrall who achieved freedom. That night, he is offered an opportunity to escape—a hidden cart, a route to safety, and a life of freedom. But the escape would require leaving others behind, abandoning his dream of systematic change, and accepting that he alone survives while the system continues. His choice will define whether he is a revolutionary or a survivor.
 
-2. **The Forbidden Education**: **Halla Wordsmith**, an old slave brought to the estate, begins secretly teaching Thraskorv to read and write. If discovered, both would be executed. As Thraskorv's literacy grows, he begins to understand documents, ledgers, and correspondence—revealing corruption and cruelty that could be used as evidence. The knowledge becomes a weapon, but using it would require him to expose himself.
+The Forbidden Education
+: **Halla Wordsmith**, an old slave brought to the estate, begins secretly teaching Thraskorv to read and write. If discovered, both would be executed. As Thraskorv's literacy grows, he begins to understand documents, ledgers, and correspondence—revealing corruption and cruelty that could be used as evidence. The knowledge becomes a weapon, but using it would require him to expose himself.
 
-3. **The Raid of the Unfree**: Rumors speak of a band of escaped thralls forming a guerrilla force in the mountain passes, striking at caravans and freeing enslaved peoples by force. They seek Thraskorv, believing his tactical mind and strength could transform their band from a nuisance into a threat. He is approached with an offer to join—but doing so would sign his death warrant if captured, and would violate the sacred law in ways that might curse him with Eidgar.
+The Raid of the Unfree
+: Rumors speak of a band of escaped thralls forming a guerrilla force in the mountain passes, striking at caravans and freeing enslaved peoples by force. They seek Thraskorv, believing his tactical mind and strength could transform their band from a nuisance into a threat. He is approached with an offer to join—but doing so would sign his death warrant if captured, and would violate the sacred law in ways that might curse him with Eidgar.
 
-4. **The Jarl's Ambitious Son**: Jarl Hrandorv's younger son, **Hlirthmil the Scholar**, returns from studies in distant cities with revolutionary ideas about agricultural reform and labor management. He views Thraskorv not as property but as a potential collaborator and teacher. His interest in Thraskorv is real but dangerous—it could lead either to transformation of the estate or to Thraskorv being executed as a corrupting influence on the heir.
+The Jarl's Ambitious Son
+: Jarl Hrandorv's younger son, **Hlirthmil the Scholar**, returns from studies in distant cities with revolutionary ideas about agricultural reform and labor management. He views Thraskorv not as property but as a potential collaborator and teacher. His interest in Thraskorv is real but dangerous—it could lead either to transformation of the estate or to Thraskorv being executed as a corrupting influence on the heir.
 
-5. **The Slave's Justice**: When a thrall woman is executed for theft (a piece of bread taken in desperation), Thraskorv reaches his breaking point. An opportunity presents itself: the evidence against her was falsified by the overseer in an act of personal cruelty. Thraskorv could expose this, potentially creating a legal precedent for thrall defense, but doing so would require him to become visible in the system—a move that would either destroy that system or destroy him.
+The Slave's Justice
+: When a thrall woman is executed for theft (a piece of bread taken in desperation), Thraskorv reaches his breaking point. An opportunity presents itself: the evidence against her was falsified by the overseer in an act of personal cruelty. Thraskorv could expose this, potentially creating a legal precedent for thrall defense, but doing so would require him to become visible in the system—a move that would either destroy that system or destroy him.

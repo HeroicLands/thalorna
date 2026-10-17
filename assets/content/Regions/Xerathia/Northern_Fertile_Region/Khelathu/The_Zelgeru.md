@@ -26,6 +26,11 @@ The Zelgeru holds no single tract of ground. Its estates lie wherever the empire
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the enclosing region
-- [[lore-garauu|Gar-Auu]]—the line of divine sovereigns
-- [[place-garlegulu|Gar-Legulu]]—a temple-estate town of the [[affiliation-capitalselat|Capital Selat]]
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the enclosing region
+
+[[lore-garauu|Gar-Auu]]
+: the line of divine sovereigns
+
+[[place-garlegulu|Gar-Legulu]]
+: a temple-estate town of the [[affiliation-capitalselat|Capital Selat]]

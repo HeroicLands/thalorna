@@ -18,5 +18,8 @@ What sets Kheset apart is who does the work. The other camps are worked by miner
 
 ## See Also
 
-- [[place-zuzeliaqtetnome|Zu-Zel-Iaqtet]]—the border selat whose mines the station serves
-- [[place-balqu|Balku]]—the selat capital, where the gold is weighed
+[[place-zuzeliaqtetnome|Zu-Zel-Iaqtet]]
+: the border selat whose mines the station serves
+
+[[place-balqu|Balku]]
+: the selat capital, where the gold is weighed

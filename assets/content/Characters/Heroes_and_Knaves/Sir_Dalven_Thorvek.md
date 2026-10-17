@@ -439,25 +439,62 @@ Over the years, Sir Dalven has fought in numerous battles, defending his kingdom
 
 ### Skills and Abilities
 
-- **Strength**: Sir Dalven is physically strong, trained in the art of combat since his youth.
-- **Endurance**: His knightly training has given him great stamina for both battle and travel.
-- **Dexterity**: He’s skilled in combat but relies more on strength than finesse.
-- **Agility**: Sir Dalven moves without wasted motion in battle, though not particularly fast.
-- **Perception**: His awareness of his surroundings is sharp, though not extraordinary.
-- **Comeliness**: His appearance is rugged and noble, with an air of chivalry.
-- **Aura**: Sir Dalven has an unusually strong metaphysical power and awareness.
-- **Will**: Sir Dalven is deeply committed to his code of honor, with a willpower forged through years of discipline.
-- **Reasoning**: He’s practical in his decision-making, focusing on strategy and tactics.
-- **Creativity**: While he prefers tradition, Sir Dalven can adapt to new challenges when necessary.
-- **Empathy**: He tends to put duty before personal feeling, though not without compassion.
-- **Eloquence**: His words carry the weight of authority, though he’s more action-driven than talkative.
-- **Morality**: Sir Dalven follows the strict chivalric code of his knightly order, consistently upholding the mores of his culture, even when faced with personal loss or hardship.
-- **Voice**: Sir Dalven has a firm, commanding voice that is suitable for giving orders or leading in prayer. His singing voice is solid but unremarkable, more focused on strength than melody.
-- **Skilled Combatant**: Sir Dalven is a master of the longsword and skilled in other knightly weapons such as lances and maces. His years on the battlefield have made him a dangerous opponent, both in single combat and leading troops in battle.
-- **Tactical Leader**: His experience as a knight has given him a sharp tactical mind. He is skilled at leading men into battle, reading the battlefield, and adjusting his plans to win the day.
-- **Chivalric Code**: Sir Dalven’s strong adherence to the chivalric code grants him a moral clarity that guides his decisions. His reputation as a just and honorable knight often earns him the respect and trust of others.
-- **Endurance**: His training has given him great stamina, allowing him to endure long campaigns and grueling battles without faltering.
-- **Shield Bearer**: His mastery of the shield allows him to defend himself and others, using it for protection and as a weapon in its own turn.
+Strength
+: Sir Dalven is physically strong, trained in the art of combat since his youth.
+
+Endurance
+: His knightly training has given him great stamina for both battle and travel.
+
+Dexterity
+: He’s skilled in combat but relies more on strength than finesse.
+
+Agility
+: Sir Dalven moves without wasted motion in battle, though not particularly fast.
+
+Perception
+: His awareness of his surroundings is sharp, though not extraordinary.
+
+Comeliness
+: His appearance is rugged and noble, with an air of chivalry.
+
+Aura
+: Sir Dalven has an unusually strong metaphysical power and awareness.
+
+Will
+: Sir Dalven is deeply committed to his code of honor, with a willpower forged through years of discipline.
+
+Reasoning
+: He’s practical in his decision-making, focusing on strategy and tactics.
+
+Creativity
+: While he prefers tradition, Sir Dalven can adapt to new challenges when necessary.
+
+Empathy
+: He tends to put duty before personal feeling, though not without compassion.
+
+Eloquence
+: His words carry the weight of authority, though he’s more action-driven than talkative.
+
+Morality
+: Sir Dalven follows the strict chivalric code of his knightly order, consistently upholding the mores of his culture, even when faced with personal loss or hardship.
+
+Voice
+: Sir Dalven has a firm, commanding voice that is suitable for giving orders or leading in prayer. His singing voice is solid but unremarkable, more focused on strength than melody.
+
+Skilled Combatant
+: Sir Dalven is a master of the longsword and skilled in other knightly weapons such as lances and maces. His years on the battlefield have made him a dangerous opponent, both in single combat and leading troops in battle.
+
+Tactical Leader
+: His experience as a knight has given him a sharp tactical mind. He is skilled at leading men into battle, reading the battlefield, and adjusting his plans to win the day.
+
+Chivalric Code
+: Sir Dalven’s strong adherence to the chivalric code grants him a moral clarity that guides his decisions. His reputation as a just and honorable knight often earns him the respect and trust of others.
+
+Endurance
+: His training has given him great stamina, allowing him to endure long campaigns and grueling battles without faltering.
+
+Shield Bearer
+: His mastery of the shield allows him to defend himself and others, using it for protection and as a weapon in its own turn.
 
 ## Psyche
 
@@ -482,10 +519,14 @@ Though he has achieved much in his life, Sir Dalven feels that his work is far f
 
 ## Plot Hooks
 
-1. **The Bandit Warlord**: Rumors spread of a bandit leader uniting various outlaw factions under a single banner in the Western Marches. This growing threat to the realm’s borders forces Sir Dalven to lead a small contingent of knights into the untamed wilds. However, when he discovers that the warlord is a former knight cast out of the order for corruption, Sir Dalven faces a moral dilemma: bring the warlord to justice or offer him redemption to stem the bloodshed.
+The Bandit Warlord
+: Rumors spread of a bandit leader uniting various outlaw factions under a single banner in the Western Marches. This growing threat to the realm’s borders forces Sir Dalven to lead a small contingent of knights into the untamed wilds. However, when he discovers that the warlord is a former knight cast out of the order for corruption, Sir Dalven faces a moral dilemma: bring the warlord to justice or offer him redemption to stem the bloodshed.
 
-2. **The Relic of Vigilance**: Sir Dalven is tasked with recovering a lost relic of his knightly order, the Silver Falcon Standard, believed to grant protection to the Western Marches. The relic was lost decades ago in a bloody battle and is now rumored to be held by a tribal chieftain who sees it as a symbol of his people’s resistance. Sir Dalven can negotiate with the chieftain, risking political trouble, or seize the relic through force, potentially inciting rebellion.
+The Relic of Vigilance
+: Sir Dalven is tasked with recovering a lost relic of his knightly order, the Silver Falcon Standard, believed to grant protection to the Western Marches. The relic was lost decades ago in a bloody battle and is now rumored to be held by a tribal chieftain who sees it as a symbol of his people’s resistance. Sir Dalven can negotiate with the chieftain, risking political trouble, or seize the relic through force, potentially inciting rebellion.
 
-3. **The Betrayer’s Shield**: During a routine patrol, Sir Dalven uncovers evidence linking a respected noble family to recent raids on villages along the frontier. His investigation uncovers a conspiracy that ties the noble to foreign powers. Torn between loyalty to his king and his knightly code of honor, Sir Dalven must work through the court's intrigues to expose the truth and protect the realm without igniting a civil war.
+The Betrayer’s Shield
+: During a routine patrol, Sir Dalven uncovers evidence linking a respected noble family to recent raids on villages along the frontier. His investigation uncovers a conspiracy that ties the noble to foreign powers. Torn between loyalty to his king and his knightly code of honor, Sir Dalven must work through the court's intrigues to expose the truth and protect the realm without igniting a civil war.
 
-4. **The March of the Undying**: Strange reports of spectral knights terrorizing border villages reach Sir Dalven’s ears. The ghostly figures are said to be the spirits of soldiers who fell in the Western Marches long ago. As Sir Dalven investigates, he discovers an ancient oath tied to his knightly order that was broken generations before. To lay the spirits to rest, Sir Dalven must restore the order’s honor, even if it means revealing uncomfortable truths about his own lineage.
+The March of the Undying
+: Strange reports of spectral knights terrorizing border villages reach Sir Dalven’s ears. The ghostly figures are said to be the spirits of soldiers who fell in the Western Marches long ago. As Sir Dalven investigates, he discovers an ancient oath tied to his knightly order that was broken generations before. To lay the spirits to rest, Sir Dalven must restore the order’s honor, even if it means revealing uncomfortable truths about his own lineage.

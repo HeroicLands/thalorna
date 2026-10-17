@@ -50,4 +50,5 @@ If you are hired to gather for the consortium, ask how many seasons the stand ha
 
 ## See Also
 
-- [[lore-gezrulutu|Gezru'lutu]]—the red waste
+[[lore-gezrulutu|Gezru'lutu]]
+: the red waste

@@ -429,10 +429,14 @@ Traditionalist shamen of the interior who hold that his plainness is a want of r
 
 ## Plot Hooks
 
-1. **The Observance**—This year's observance at [[place-urontekhi|The Uron Tekhi]] went wrong in a way Áleren cannot explain and will not dress up. The village wants to be told it was nothing.
+The Observance
+: This year's observance at [[place-urontekhi|The Uron Tekhi]] went wrong in a way Áleren cannot explain and will not dress up. The village wants to be told it was nothing.
 
-2. **The Birch**—A villager has felled a silver birch, which nobody in Sóurimel does, for any reason. The Moot wants a ritual answer and the Áelendan may want a different one.
+The Birch
+: A villager has felled a silver birch, which nobody in Sóurimel does, for any reason. The Moot wants a ritual answer and the Áelendan may want a different one.
 
-3. **The Physician's Offer**—A physician of [[place-beravel|Péravel]] has come to Sóurimel with silver and a request for the herbs Áleren uses in his rites, and for the words that go with them. The silver would keep the village a winter, and the words are not his to sell.
+The Physician's Offer
+: A physician of [[place-beravel|Péravel]] has come to Sóurimel with silver and a request for the herbs Áleren uses in his rites, and for the words that go with them. The silver would keep the village a winter, and the words are not his to sell.
 
-4. **The Vision Returns**—Áleren's vision has come back, twenty years on, in the same winter and the same wood. He does not believe in grand visions. He has not told anyone.
+The Vision Returns
+: Áleren's vision has come back, twenty years on, in the same winter and the same wood. He does not believe in grand visions. He has not told anyone.

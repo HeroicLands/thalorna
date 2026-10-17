@@ -53,6 +53,11 @@ A Halzi'a sits in the council for the house he heads, not for his province, whic
 
 ## See Also
 
-- [[lore-garauu|Gar-Auu]]—the throne the council advises
-- [[place-garmedjatozo|Gar-Medjatozo]]—the bureau district that holds its hall
-- [[affiliation-genzethalzia|Genzet'Halzi'a]]—the governors' council
+[[lore-garauu|Gar-Auu]]
+: the throne the council advises
+
+[[place-garmedjatozo|Gar-Medjatozo]]
+: the bureau district that holds its hall
+
+[[affiliation-genzethalzia|Genzet'Halzi'a]]
+: the governors' council

@@ -48,11 +48,20 @@ ORDER BY name.full COLLATE NOCASE
 
 The northern territories are dominated by five tribal nations about which K'ich'chik scholars know relatively little. These peoples have their own languages, their own names for themselves and their lands, and their own traditions—none of which they share willingly with outsiders. What follows are K'ich'chik designations: the place-names are in the K'ich'chik tongue, and the nation-names are exonyms assigned by K'ich'chik merchants and border scouts based on the totemic animals observed in these peoples' war-standards and camp-markings. What these nations call themselves remains largely unknown. They are generally hostile to outsiders, tolerating K'ich'chik traders only at arm's length and only when trade serves their immediate interests. Despite constant rivalry among themselves, they unite with devastating effectiveness against any outside incursion, and the vast distances of the north make conventional military campaigns nearly impossible.
 
-- [[affiliation-ixbalkiahk|Ish'bal Ki'ahk]]—The Shak'nal Ts'omalil ("Eagle People" in K'ich'chik), mountain and coastal dwellers of the far west
-- [[affiliation-ixtemtzul|Ishtem Tsul]]—The No'kin Ts'omalil ("Bear People"), hardy folk of the northern prairies
-- [[affiliation-penqalchakal|P'enqal Ch'akal]]—The Ts'okum Ts'omalil ("Coyote People"), nomadic hunters of the great central grasslands
-- [[affiliation-xikulchakl|Shik'ul Ch'akal]]—The Ha'ik Ts'omalil ("Otter People"), canoe-folk of the eastern lakes and forests
-- [[affiliation-tzumanotun|Ts'uma No'tun]]—The Ch'akun Ts'omalil ("Serpent People"), chieftain-led peoples of the ancient eastern mountains and southern swamps
+[[affiliation-ixbalkiahk|Ish'bal Ki'ahk]]
+: The Shak'nal Ts'omalil ("Eagle People" in K'ich'chik), mountain and coastal dwellers of the far west
+
+[[affiliation-ixtemtzul|Ishtem Tsul]]
+: The No'kin Ts'omalil ("Bear People"), hardy folk of the northern prairies
+
+[[affiliation-penqalchakal|P'enqal Ch'akal]]
+: The Ts'okum Ts'omalil ("Coyote People"), nomadic hunters of the great central grasslands
+
+[[affiliation-xikulchakl|Shik'ul Ch'akal]]
+: The Ha'ik Ts'omalil ("Otter People"), canoe-folk of the eastern lakes and forests
+
+[[affiliation-tzumanotun|Ts'uma No'tun]]
+: The Ch'akun Ts'omalil ("Serpent People"), chieftain-led peoples of the ancient eastern mountains and southern swamps
 
 The sixth northern region, [[place-hanalxilanrgn|Ha'nal Shi'lan]], is contested borderlands where the Coyote, Otter, and Serpent peoples clash over the rich river valleys. [[place-chakultzklrgn|Ch'akul Tsa'kul]], the great southern desert, is claimed by no nation and serves as the barrier between the tribal north and K'ich'chik civilization.
 
@@ -104,7 +113,14 @@ K'ich'chik is rich in resources. The central regions produce cacao, jade, obsidi
 
 ## See Also
 
-- [[affiliation-itzanpnthn|Itsani Pantheon]]—The unified faith of K'ich'chik
-- [[skill-kicheklng|Ki'ichek Language]]—the tongue, its lexicon and its naming conventions
-- [[affiliation-ixilankul|Ish'ilankul]]—The greatest city-state of the central heartland, seat of the Ch'alish Tq'an and home to Ts'omal Ch'alish
-- [[place-xelemixbalrgn|Shelem Ish'bal]]—The forsaken southern wastes
+[[affiliation-itzanpnthn|Itsani Pantheon]]
+: The unified faith of K'ich'chik
+
+[[skill-kicheklng|Ki'ichek Language]]
+: the tongue, its lexicon and its naming conventions
+
+[[affiliation-ixilankul|Ish'ilankul]]
+: The greatest city-state of the central heartland, seat of the Ch'alish Tq'an and home to Ts'omal Ch'alish
+
+[[place-xelemixbalrgn|Shelem Ish'bal]]
+: The forsaken southern wastes

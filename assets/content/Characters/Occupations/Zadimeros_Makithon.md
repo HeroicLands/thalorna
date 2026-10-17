@@ -434,12 +434,17 @@ Rival cartographers and the city guard, who suspect him of espionage.
 
 ## Plot Hooks
 
-1. **The Cartographer/Artist's Dilemma**—Zádimeros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
+The Cartographer/Artist's Dilemma
+: Zádimeros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
 
-2. **Old Grudges**—Rival cartographers and the city guard, who suspect him of espionage. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: Rival cartographers and the city guard, who suspect him of espionage. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Zádimeros's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+Echoes of the Past
+: Something from Zádimeros's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Zádimeros depends upon. He must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Helionis threaten to upend the social order that Zádimeros depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Zádimeros the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Zádimeros the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

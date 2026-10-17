@@ -43,11 +43,20 @@ The party arrives in Hárivren as the games approach:
 
 As the games unfold, various plots and complications emerge:
 
-- **Cheating & Sabotage:** Contestants use magic, poison, or hired assassins to eliminate rivals
-- **Gambling Corruption:** Wealthy betters pressure the party to fix match outcomes
-- **Political Plots:** Assassination attempts target visiting dignitaries or rival nobles
-- **Athlete Recruitment:** Hidden factions attempt to recruit talented competitors for military or magical purposes
-- **Artifact Hunting:** A rumor spreads that one of the prizes is a legendary item (true or false)
+Cheating & Sabotage
+: Contestants use magic, poison, or hired assassins to eliminate rivals
+
+Gambling Corruption
+: Wealthy betters pressure the party to fix match outcomes
+
+Political Plots
+: Assassination attempts target visiting dignitaries or rival nobles
+
+Athlete Recruitment
+: Hidden factions attempt to recruit talented competitors for military or magical purposes
+
+Artifact Hunting
+: A rumor spreads that one of the prizes is a legendary item (true or false)
 
 **If the party competes:**
 
@@ -85,11 +94,20 @@ The party's involvement (whether as competitors or investigators) inevitably dee
 
 The party must decide how to act. Options include:
 
-- **Expose the Conspirators:** Publicly reveal the truth, risking the games' cancellation and potential violence
-- **Disrupt the Assassination:** Prevent the assassination through intervention or warning the target
-- **Work with Authorities:** Alert the city guard or Thordimalon and coordinate response
-- **Confront the Conspirators Directly:** Attempt to stop them through negotiation, magic, or combat
-- **Exploit the Chaos:** Use the confusion and attention of the games as cover for their own investigation or agenda
+Expose the Conspirators
+: Publicly reveal the truth, risking the games' cancellation and potential violence
+
+Disrupt the Assassination
+: Prevent the assassination through intervention or warning the target
+
+Work with Authorities
+: Alert the city guard or Thordimalon and coordinate response
+
+Confront the Conspirators Directly
+: Attempt to stop them through negotiation, magic, or combat
+
+Exploit the Chaos
+: Use the confusion and attention of the games as cover for their own investigation or agenda
 
 **Combat/Chase Encounters:**
 

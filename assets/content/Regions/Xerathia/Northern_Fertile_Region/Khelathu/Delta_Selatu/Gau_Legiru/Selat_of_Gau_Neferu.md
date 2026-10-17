@@ -78,9 +78,20 @@ Gau-Legiru uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. Its high-value e
 
 ## See Also
 
-- [[affiliation-deltaselatu|The Delta Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-gau|Gau]]—Selat capital
-- [[affiliation-selatgrnlght|The Selat of Gar-Anlaghet]]—Neighboring port-selat whose merchants summer here
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—Pantheon
-- [[place-gaulegirunome|Gau-Legiru]]—The land the selat holds
+[[affiliation-deltaselatu|The Delta Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-gau|Gau]]
+: Selat capital
+
+[[affiliation-selatgrnlght|The Selat of Gar-Anlaghet]]
+: Neighboring port-selat whose merchants summer here
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: Pantheon
+
+[[place-gaulegirunome|Gau-Legiru]]
+: The land the selat holds

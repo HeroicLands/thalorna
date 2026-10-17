@@ -24,6 +24,11 @@ The town and the precinct need each other: the pilgrims feed the market, and the
 
 ## See Also
 
-- [[affiliation-provinclys|Province of Alessa]]—the parent province
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the imperial overview
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the faith whose precinct crowns the hill
+[[affiliation-provinclys|Province of Alessa]]
+: the parent province
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the imperial overview
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the faith whose precinct crowns the hill

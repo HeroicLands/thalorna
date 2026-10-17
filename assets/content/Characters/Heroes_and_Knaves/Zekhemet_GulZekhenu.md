@@ -466,19 +466,37 @@ Beneath these practical ambitions lies a deeper need: to prove that a woman can 
 
 ### Strengths
 
-- **Logistical Genius**: Can manage impossibly complex supply chains, coordinating multiple vessels, cargo types, and schedules with uncanny precision. Problems that seem intractable to others become straightforward to her.
-- **Charismatic Leadership**: Commands respect and loyalty from crews and merchants alike through interest in their welfare and unshakeable fairness.
-- **Risk Assessment**: Possesses almost intuitive ability to evaluate danger—both physical (weather, pirates, accidents) and commercial (unreliable partners, unsustainable margins).
-- **Communication Excellence**: Can explain complex situations clearly to audiences of any sophistication level, and possesses rare skill in negotiation and conflict resolution.
-- **Unbreakable Integrity**: Her absolute commitment to keeping her word has become her greatest business asset, differentiating her in a field often marked by fraud and corner-cutting.
+Logistical Genius
+: Can manage impossibly complex supply chains, coordinating multiple vessels, cargo types, and schedules with uncanny precision. Problems that seem intractable to others become straightforward to her.
+
+Charismatic Leadership
+: Commands respect and loyalty from crews and merchants alike through interest in their welfare and unshakeable fairness.
+
+Risk Assessment
+: Possesses almost intuitive ability to evaluate danger—both physical (weather, pirates, accidents) and commercial (unreliable partners, unsustainable margins).
+
+Communication Excellence
+: Can explain complex situations clearly to audiences of any sophistication level, and possesses rare skill in negotiation and conflict resolution.
+
+Unbreakable Integrity
+: Her absolute commitment to keeping her word has become her greatest business asset, differentiating her in a field often marked by fraud and corner-cutting.
 
 ### Weaknesses
 
-- **Technical Piloting Gaps**: While she is a competent navigator and helmsman, she sometimes lacks the instinctive feel for a vessel's movement that natural pilots possess, particularly in emergency situations.
-- **Narrow Focus on Cargo**: Her intense focus on cargo management and route planning can blind her to larger strategic opportunities or relationship-building that requires her personal attention.
-- **Trust Issues Masked by Openness**: Though she appears open, she actually maintains careful control over information and relationships, making it difficult for her to delegate authority or form truly equal partnerships.
-- **Pride in Reliability**: Her reputation for perfect delivery creates unrealistic expectations and pressure that occasionally leads her to take dangerous risks rather than admit to potential delay.
-- **Physical Vulnerability**: The scar on her leg occasionally causes pain that affects her mood and judgment, and the injury has left her with slight mobility limitations that complicate certain situations.
+Technical Piloting Gaps
+: While she is a competent navigator and helmsman, she sometimes lacks the instinctive feel for a vessel's movement that natural pilots possess, particularly in emergency situations.
+
+Narrow Focus on Cargo
+: Her intense focus on cargo management and route planning can blind her to larger strategic opportunities or relationship-building that requires her personal attention.
+
+Trust Issues Masked by Openness
+: Though she appears open, she actually maintains careful control over information and relationships, making it difficult for her to delegate authority or form truly equal partnerships.
+
+Pride in Reliability
+: Her reputation for perfect delivery creates unrealistic expectations and pressure that occasionally leads her to take dangerous risks rather than admit to potential delay.
+
+Physical Vulnerability
+: The scar on her leg occasionally causes pain that affects her mood and judgment, and the injury has left her with slight mobility limitations that complicate certain situations.
 
 ## Social
 
@@ -517,12 +535,17 @@ Market Pressures
 
 ## Plot Hooks
 
-1. **The Impossible Commission**: A desperate merchant approaches Zekhemet with an extraordinary offer: transport cargo of unnamed origin to a location she cannot visit, cannot see, and cannot document, for a price that seems far too generous. The merchant is in distress, and hints at political persecution or family emergency. Zekhemet's principle of helping those in need wars with her principle of understanding all elements of an agreement. If she accepts, she may find herself complicit in smuggling or worse; if she refuses, she abandons someone in crisis.
+The Impossible Commission
+: A desperate merchant approaches Zekhemet with an extraordinary offer: transport cargo of unnamed origin to a location she cannot visit, cannot see, and cannot document, for a price that seems far too generous. The merchant is in distress, and hints at political persecution or family emergency. Zekhemet's principle of helping those in need wars with her principle of understanding all elements of an agreement. If she accepts, she may find herself complicit in smuggling or worse; if she refuses, she abandons someone in crisis.
 
-2. **The Accident Conspiracy**: Someone approaches Zekhemet with evidence suggesting that the accident that scarred her seven years ago was not accidental but sabotaged—likely by a rival or someone with commercial interests in her failure. The evidence is fragmentary and incomplete, and pursuing it might disrupt her carefully maintained working relationships. Zekhemet must decide whether to reopen a wound she has worked hard to move past, and whether seeking truth is worth the cost in distraction and potential damage to her reputation.
+The Accident Conspiracy
+: Someone approaches Zekhemet with evidence suggesting that the accident that scarred her seven years ago was not accidental but sabotaged—likely by a rival or someone with commercial interests in her failure. The evidence is fragmentary and incomplete, and pursuing it might disrupt her carefully maintained working relationships. Zekhemet must decide whether to reopen a wound she has worked hard to move past, and whether seeking truth is worth the cost in distraction and potential damage to her reputation.
 
-3. **The Inheritance Opportunity**: A distant relative dies and leaves Zekhemet a substantial estate—but with one condition: she must come to reside on the property for one year and claim the inheritance. This would require her to step away from her trading operation at a critical moment of expansion. Moreover, investigation reveals the relative had enemies and debts, and some question whether the inheritance is blessing or curse. Does Zekhemet abandon her ambitions for security and family legacy, or reject the offer?
+The Inheritance Opportunity
+: A distant relative dies and leaves Zekhemet a substantial estate—but with one condition: she must come to reside on the property for one year and claim the inheritance. This would require her to step away from her trading operation at a critical moment of expansion. Moreover, investigation reveals the relative had enemies and debts, and some question whether the inheritance is blessing or curse. Does Zekhemet abandon her ambitions for security and family legacy, or reject the offer?
 
-4. **The Catastrophe Prevention**: Zekhemet discovers that one of her regular merchant clients is planning to ship cargo that will inadvertently destroy a crucial ecosystem or cause significant harm to the communities she serves. The merchant is technically not breaking any laws, and breaking her commitment to him would violate the principle of integrity she holds most dear. Yet honoring the commitment means enabling harm. Zekhemet must navigate the painful truth that sometimes integrity and ethics are not aligned, and she must choose between them.
+The Catastrophe Prevention
+: Zekhemet discovers that one of her regular merchant clients is planning to ship cargo that will inadvertently destroy a crucial ecosystem or cause significant harm to the communities she serves. The merchant is technically not breaking any laws, and breaking her commitment to him would violate the principle of integrity she holds most dear. Yet honoring the commitment means enabling harm. Zekhemet must navigate the painful truth that sometimes integrity and ethics are not aligned, and she must choose between them.
 
-5. **The Syndicate's Recruitment**: A well-organized criminal band recognizes Zekhemet's value and approaches her with a proposal: allow them to occasionally use her vessels for high-profit cargoes, and they will guarantee her protection and priority access to the most lucrative trade routes. The offer is presented as partnership rather than coercion, and the syndicate seems respectful of her independence. Zekhemet must determine whether this represents an unacceptable compromise of her principles or a pragmatic relationship with commercial realities, knowing that her refusal will make her a target.
+The Syndicate's Recruitment
+: A well-organized criminal band recognizes Zekhemet's value and approaches her with a proposal: allow them to occasionally use her vessels for high-profit cargoes, and they will guarantee her protection and priority access to the most lucrative trade routes. The offer is presented as partnership rather than coercion, and the syndicate seems respectful of her independence. Zekhemet must determine whether this represents an unacceptable compromise of her principles or a pragmatic relationship with commercial realities, knowing that her refusal will make her a target.

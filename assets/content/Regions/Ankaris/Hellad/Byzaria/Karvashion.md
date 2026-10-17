@@ -92,8 +92,17 @@ Karvashion uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogde
 
 ## See Also
 
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation
-- [[place-byzariargn|Bizaria Region]]—the League's country
-- [[place-karvashion2|Karvashion]]—the city and its bazaars
-- [[place-southrnmrch|Southern March]]—the dry upland on its road to Dunhara
-- [[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-argyrteikhos|Argirteikhos]], [[affiliation-orashion|Órashion]]—the other four city-states
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation
+
+[[place-byzariargn|Bizaria Region]]
+: the League's country
+
+[[place-karvashion2|Karvashion]]
+: the city and its bazaars
+
+[[place-southrnmrch|Southern March]]
+: the dry upland on its road to Dunhara
+
+[[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-argyrteikhos|Argirteikhos]], [[affiliation-orashion|Órashion]]
+: the other four city-states

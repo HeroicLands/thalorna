@@ -293,20 +293,29 @@ Drawn in, the tortoise is a boulder with nothing to strike. It waits for as long
 
 ## Attributes
 
-- **Strength:** 14-19 (1d6+13)
+Strength
+: 14-19 (1d6+13)
 
-- **Endurance:** 18-23 (1d6+17)
+Endurance
+: 18-23 (1d6+17)
 
-- **Dexterity:** 4-7 (1d4+3)
+Dexterity
+: 4-7 (1d4+3)
 
-- **Agility:** 3-6 (1d4+2)
+Agility
+: 3-6 (1d4+2)
 
-- **Perception:** 8-11 (1d4+7)
+Perception
+: 8-11 (1d4+7)
 
-- **Aura:** 7-10 (1d4+6)
+Aura
+: 7-10 (1d4+6)
 
-- **Will:** 11-16 (1d6+10)
+Will
+: 11-16 (1d6+10)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 3-6 (1d4+2)
+Creativity
+: 3-6 (1d4+2)

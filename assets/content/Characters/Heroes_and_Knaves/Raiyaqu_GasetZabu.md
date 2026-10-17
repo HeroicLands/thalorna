@@ -455,21 +455,43 @@ Raiyaku Gasezabu is driven by a vision of the Empire of Au'Khelathu as a place w
 
 ### Strengths
 
-- **Charisma and Social Grace:** Raiyaku's presence immediately puts people at ease; her interest in others makes even minor encounters feel meaningful. This translates to extraordinary influence in courtly and social contexts.
-- **Keen Perception and Political Acumen:** She has a sharp and analytical mind; she reads social situations with precision and understands the currents of power and loyalty that move through noble society.
-- **Eloquent and Persuasive Speech:** When she chooses to advocate for a position, her combination of rhetorical skill and authentic conviction proves nearly irresistible; even opponents find themselves moved by her arguments.
-- **Vast Network of Talented Allies:** Her years of patronage have created a web of artisans, musicians, scholars, and craftspeople across multiple cities who owe her their success and maintain deep loyalty to her.
-- **Financial Resources and Access:** As a noble of significant independent wealth, Raiyaku can fund ventures, commission services, and open doors that would be closed to others of lesser station.
-- **Creative Problem-Solving:** Her exposure to artists' and creators' perspectives has given her unconventional ways of approaching difficult problems; she often sees solutions others overlook.
+Charisma and Social Grace
+: Raiyaku's presence immediately puts people at ease; her interest in others makes even minor encounters feel meaningful. This translates to extraordinary influence in courtly and social contexts.
+
+Keen Perception and Political Acumen
+: She has a sharp and analytical mind; she reads social situations with precision and understands the currents of power and loyalty that move through noble society.
+
+Eloquent and Persuasive Speech
+: When she chooses to advocate for a position, her combination of rhetorical skill and authentic conviction proves nearly irresistible; even opponents find themselves moved by her arguments.
+
+Vast Network of Talented Allies
+: Her years of patronage have created a web of artisans, musicians, scholars, and craftspeople across multiple cities who owe her their success and maintain deep loyalty to her.
+
+Financial Resources and Access
+: As a noble of significant independent wealth, Raiyaku can fund ventures, commission services, and open doors that would be closed to others of lesser station.
+
+Creative Problem-Solving
+: Her exposure to artists' and creators' perspectives has given her unconventional ways of approaching difficult problems; she often sees solutions others overlook.
 
 ### Weaknesses
 
-- **Idealism Outpacing Reality:** Raiyaku's fundamental belief in people's essential goodness and capacity for growth sometimes blinds her to malice or deep-rooted corruption; she can be taken advantage of by those who exploit her trust.
-- **Privileged Blind Spots:** For all her compassion, there are realities of struggle and desperation that her comfortable life has not made viscerally real to her; her proposed solutions sometimes lack the practical grounding that hardship provides.
-- **Vulnerability to Emotional Manipulation:** Because she cares about people's well-being, those skilled in exploiting her sympathy can sway her judgment, particularly if they present themselves as artists or creative talents in need.
-- **Insufficient Political Ruthlessness:** In a nobility where alliances shift on advantage, Raiyaku's reluctance to play cutthroat politics puts her at disadvantage against more pragmatic rivals who take it as natural that one house's gain is another's loss.
-- **Overextension Through Generosity:** Her tendency to commit resources to worthy causes without fully reckoning the sum can leave her financially strained or unable to deliver promised support.
-- **Inexperience with Hardship:** She has never truly suffered loss, failure, or deprivation, leaving her emotionally unprepared for the kinds of betrayals and cruelties that may come if her idealism is tested severely.
+Idealism Outpacing Reality
+: Raiyaku's fundamental belief in people's essential goodness and capacity for growth sometimes blinds her to malice or deep-rooted corruption; she can be taken advantage of by those who exploit her trust.
+
+Privileged Blind Spots
+: For all her compassion, there are realities of struggle and desperation that her comfortable life has not made viscerally real to her; her proposed solutions sometimes lack the practical grounding that hardship provides.
+
+Vulnerability to Emotional Manipulation
+: Because she cares about people's well-being, those skilled in exploiting her sympathy can sway her judgment, particularly if they present themselves as artists or creative talents in need.
+
+Insufficient Political Ruthlessness
+: In a nobility where alliances shift on advantage, Raiyaku's reluctance to play cutthroat politics puts her at disadvantage against more pragmatic rivals who take it as natural that one house's gain is another's loss.
+
+Overextension Through Generosity
+: Her tendency to commit resources to worthy causes without fully reckoning the sum can leave her financially strained or unable to deliver promised support.
+
+Inexperience with Hardship
+: She has never truly suffered loss, failure, or deprivation, leaving her emotionally unprepared for the kinds of betrayals and cruelties that may come if her idealism is tested severely.
 
 ## Social
 
@@ -508,12 +530,17 @@ Artisans' and Craftspeople's Alliance
 
 ## Plot Hooks
 
-1. **The Forged Masterpiece:**: A young artist whom Raiyaku has championed and funded produces a work of such staggering beauty that it causes a sensation throughout the city and attracts the attention of the empire's highest patrons. Yet an envious rival claims to have evidence that the work is not the artist's own—that it was actually created by a mysterious master who allowed the young protégé to take credit. Raiyaku must investigate the truth while protecting her protégé's reputation and determining whether her judgment in recognizing talent has been compromised by her desire to believe in people.
+The Forged Masterpiece:
+: A young artist whom Raiyaku has championed and funded produces a work of such staggering beauty that it causes a sensation throughout the city and attracts the attention of the empire's highest patrons. Yet an envious rival claims to have evidence that the work is not the artist's own—that it was actually created by a mysterious master who allowed the young protégé to take credit. Raiyaku must investigate the truth while protecting her protégé's reputation and determining whether her judgment in recognizing talent has been compromised by her desire to believe in people.
 
-2. **The Hidden Library:**: Raiyaku discovers that one of her fellow patrons has been secretly commissioning the theft and preservation of banned texts—works of philosophy, art, and history that the temple authorities and conservative nobility have deemed dangerous. She is confronted with a choice: expose her colleague and potentially face backlash from the conservative faction, or become complicit in an underground resistance to censorship. The party is drawn in, uncovering what these texts actually contain and why they threaten the established order.
+The Hidden Library:
+: Raiyaku discovers that one of her fellow patrons has been secretly commissioning the theft and preservation of banned texts—works of philosophy, art, and history that the temple authorities and conservative nobility have deemed dangerous. She is confronted with a choice: expose her colleague and potentially face backlash from the conservative faction, or become complicit in an underground resistance to censorship. The party is drawn in, uncovering what these texts actually contain and why they threaten the established order.
 
-3. **The Artisan's Curse:**: Several of the talented creators whom Raiyaku has patronized fall mysteriously ill with a strange affliction that attacks their ability to create—musicians lose their hearing, painters develop shaking hands, sculptors become paralyzed. Raiyaku suspects dark magic or deliberate poisoning and hires the party to investigate. The investigation reveals connections to a jealous rival patron or a mystical curse placed by a scorned artist, forcing Raiyaku to reckon with darker aspects of the competitive artistic world she has insulated herself from.
+The Artisan's Curse:
+: Several of the talented creators whom Raiyaku has patronized fall mysteriously ill with a strange affliction that attacks their ability to create—musicians lose their hearing, painters develop shaking hands, sculptors become paralyzed. Raiyaku suspects dark magic or deliberate poisoning and hires the party to investigate. The investigation reveals connections to a jealous rival patron or a mystical curse placed by a scorned artist, forcing Raiyaku to reckon with darker aspects of the competitive artistic world she has insulated herself from.
 
-4. **The Diplomat's Daughter Takes Action:**: When political tensions between factions within Au'Khelathu threaten to erupt into violence, Raiyaku (drawing on her father's diplomatic legacy) attempts to broker a peace between the warring sides by commissioning a great collaborative artwork that requires both factions' cooperation. The party is tasked with convincing hostile faction leaders to participate in the project, discovering that Raiyaku's naive optimism about art's power to unite may have dangerously underestimated the depth of the conflict. As tensions mount, the party can support Raiyaku's idealistic vision or push for more pragmatic solutions.
+The Diplomat's Daughter Takes Action:
+: When political tensions between factions within Au'Khelathu threaten to erupt into violence, Raiyaku (drawing on her father's diplomatic legacy) attempts to broker a peace between the warring sides by commissioning a great collaborative artwork that requires both factions' cooperation. The party is tasked with convincing hostile faction leaders to participate in the project, discovering that Raiyaku's naive optimism about art's power to unite may have dangerously underestimated the depth of the conflict. As tensions mount, the party can support Raiyaku's idealistic vision or push for more pragmatic solutions.
 
-5. **The Rebellion of Created Things:**: After years of commissioning art, Raiyaku begins to notice patterns suggesting that many of the works she has funded share subtle recurring motifs and hidden messages—messages that, when decoded, speak of revolution and resistance against the existing order. Either Raiyaku has unwittingly funded a revolutionary movement, or someone has been secretly manipulating her patronage as a cover for sedition. The party must help her determine which is true and what her responsibility is in either case. She can protect the artists she loves, expose the conspiracy to the authorities, or quietly support a cause she secretly believes in.
+The Rebellion of Created Things:
+: After years of commissioning art, Raiyaku begins to notice patterns suggesting that many of the works she has funded share subtle recurring motifs and hidden messages—messages that, when decoded, speak of revolution and resistance against the existing order. Either Raiyaku has unwittingly funded a revolutionary movement, or someone has been secretly manipulating her patronage as a cover for sedition. The party must help her determine which is true and what her responsibility is in either case. She can protect the artists she loves, expose the conspiracy to the authorities, or quietly support a cause she secretly believes in.

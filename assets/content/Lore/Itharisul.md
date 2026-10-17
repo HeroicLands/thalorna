@@ -69,8 +69,17 @@ Every dead held stone ends in a sanctuary's keeping, and it comes there by one o
 
 ## See Also
 
-- [[lore-theithari|The Ithari]]—the people who left the works, and the works elsewhere on Thalorna
-- [[affiliation-tharivaan|Thári'vaan]]—the custodians, their liturgies and the Rite of Last Tending
-- [[lore-sarisul|The Tending-Stones]]—the village works and the count of the white ones
-- [[lore-klhrsnctrs|The Sanctuaries of Kalihara]]—which sanctuary tends which work
-- [[place-sulvaan|The Warm]], [[place-windstones|the Wind-Stones]], [[place-telvaristone|the Telvari Stone]] and [[place-stillwatersill|the Still-Water Sill]]—the four great works
+[[lore-theithari|The Ithari]]
+: the people who left the works, and the works elsewhere on Thalorna
+
+[[affiliation-tharivaan|Thári'vaan]]
+: the custodians, their liturgies and the Rite of Last Tending
+
+[[lore-sarisul|The Tending-Stones]]
+: the village works and the count of the white ones
+
+[[lore-klhrsnctrs|The Sanctuaries of Kalihara]]
+: which sanctuary tends which work
+
+[[place-sulvaan|The Warm]], [[place-windstones|the Wind-Stones]], [[place-telvaristone|the Telvari Stone]] and [[place-stillwatersill|the Still-Water Sill]]
+: the four great works

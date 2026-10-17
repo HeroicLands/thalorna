@@ -60,5 +60,8 @@ Say a lacquer-worker finishes a cabinet and hopes it will be called master-work.
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The city whose crafts it governs
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-galezkara|Galezkara]]
+: The city whose crafts it governs
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

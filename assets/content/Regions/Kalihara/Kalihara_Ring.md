@@ -30,9 +30,20 @@ The custodians hold that the Warm keeps the Ring's mountains asleep. Nothing con
 
 ## See Also
 
-- [[place-klhrcntnnt|Kalihara]]—the island the Ring encloses
-- [[place-klhrbowl|The Bowl]]—the basin inside the Ring
-- [[place-klhrcldpss|The Cloud Pass]], [[place-klhrwstsddl|the Western Saddle]] and [[place-klhrsthstr|the Southern Stair]]—the three passes over the Ring
-- [[place-klhrkthrgap|The Kuethori Gap]]—the one break in the Ring
-- [[place-thalari|Thal'ari]]—the sanctuary on the Ring's western slopes
-- [[place-kaliharargn|Kalihara Region]]—the country within and below the Ring
+[[place-klhrcntnnt|Kalihara]]
+: the island the Ring encloses
+
+[[place-klhrbowl|The Bowl]]
+: the basin inside the Ring
+
+[[place-klhrcldpss|The Cloud Pass]], [[place-klhrwstsddl|the Western Saddle]] and [[place-klhrsthstr|the Southern Stair]]
+: the three passes over the Ring
+
+[[place-klhrkthrgap|The Kuethori Gap]]
+: the one break in the Ring
+
+[[place-thalari|Thal'ari]]
+: the sanctuary on the Ring's western slopes
+
+[[place-kaliharargn|Kalihara Region]]
+: the country within and below the Ring

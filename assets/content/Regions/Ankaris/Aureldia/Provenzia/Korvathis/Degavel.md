@@ -24,6 +24,11 @@ The earldom is a family affair. The earl's brother, **Khirata [Jarvel al Pélanv
 
 ## See Also
 
-- [[place-athavel|Atavel]]—the county of the earl's rival
-- [[place-caerceravel|Torvila Keravel]]—held by the earl's brother
-- [[place-korvathis|Korvatis]]—the southern country the earldom lies in
+[[place-athavel|Atavel]]
+: the county of the earl's rival
+
+[[place-caerceravel|Torvila Keravel]]
+: held by the earl's brother
+
+[[place-korvathis|Korvatis]]
+: the southern country the earldom lies in

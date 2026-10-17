@@ -24,7 +24,14 @@ A presence that haunts a place without a body is a spirit and not one of the hr�
 
 ## See Also
 
-- [[lore-theshadow|The Shadow]]—the corrupting force every undead carries
-- [[lore-undead|Undead]]—the wider class and its learned distinctions
-- [[lore-nagengir|Nágengir]]—Nahild's favored, sentient undead, who command her hrúmverdir
-- [[being-damut|Damut]]—the driven one, the learned kind of Nahild's raised dead
+[[lore-theshadow|The Shadow]]
+: the corrupting force every undead carries
+
+[[lore-undead|Undead]]
+: the wider class and its learned distinctions
+
+[[lore-nagengir|Nágengir]]
+: Nahild's favored, sentient undead, who command her hrúmverdir
+
+[[being-damut|Damut]]
+: the driven one, the learned kind of Nahild's raised dead

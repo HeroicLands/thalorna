@@ -16,9 +16,20 @@ Swift and wary, trout are agile fish that remain constantly alert, using their s
 
 The Trout person is quick and wary, always watching for danger. Speed and alertness carry such a person through life without needless effort.
 
-- **Physical:** Sleek, smooth build; quick, darting movements.
-- **Behavioral:** Swift, wary, quick to react to threats.
-- **Positive:** Agile, quick, and vigilant.
-- **Negative:** Wary, easily stressed, and may struggle to relax.
-- **Minor Trait ([[sohl-none-doctrauma-inttv|Intuitive]]):** Notices things others overlook, reading people and situations with a sharp eye that sometimes tips into wariness.
-- **Major Disorder ([[sohl-none-doctrauma-anxiety|Anxiety]]):** Perpetually wary and on edge, scanning for danger in every direction and unable to lower their guard even in safety.
+Physical
+: Sleek, smooth build; quick, darting movements.
+
+Behavioral
+: Swift, wary, quick to react to threats.
+
+Positive
+: Agile, quick, and vigilant.
+
+Negative
+: Wary, easily stressed, and may struggle to relax.
+
+Minor Trait ([[sohl-none-doctrauma-inttv|Intuitive]])
+: Notices things others overlook, reading people and situations with a sharp eye that sometimes tips into wariness.
+
+Major Disorder ([[sohl-none-doctrauma-anxiety|Anxiety]])
+: Perpetually wary and on edge, scanning for danger in every direction and unable to lower their guard even in safety.

@@ -84,13 +84,26 @@ To the **north and west** lies the sea. The Peshtar have no maritime ambition, a
 
 ## See Also
 
-- [[place-aelwyth|Aelwyth]]—the parent island
-- [[affiliation-repblcndrth|Republic of Ondareth]]—southern lowland neighbor
-- [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]—eastern Nordmal-descended neighbor
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—partial overlay of the older Peshtar faith
-- [[skill-varokhlng|Varokhi]]—related naming tradition
-- [[place-aureldirgn|Aureldia Region]]—the broader cultural region
-- [[place-ankrscntnnt|Ankaris Continent]]—parent continent
+[[place-aelwyth|Aelwyth]]
+: the parent island
+
+[[affiliation-repblcndrth|Republic of Ondareth]]
+: southern lowland neighbor
+
+[[affiliation-jrldmstrmvld|Jarldom of Stormveld]]
+: eastern Nordmal-descended neighbor
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: partial overlay of the older Peshtar faith
+
+[[skill-varokhlng|Varokhi]]
+: related naming tradition
+
+[[place-aureldirgn|Aureldia Region]]
+: the broader cultural region
+
+[[place-ankrscntnnt|Ankaris Continent]]
+: parent continent
 
 ## Extent and Peoples
 

@@ -18,5 +18,8 @@ Along the Ha'nal Ts'uma the forest floods each year and drains again, and betwee
 
 ## See Also
 
-- [[place-hanalxilik|Ha'nal Shilik]]—the second great river of Shelem
-- [[place-xelemrgn|Shelem]]—the realm the river carries
+[[place-hanalxilik|Ha'nal Shilik]]
+: the second great river of Shelem
+
+[[place-xelemrgn|Shelem]]
+: the realm the river carries

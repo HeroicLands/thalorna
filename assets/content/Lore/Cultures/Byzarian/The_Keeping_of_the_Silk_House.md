@@ -198,8 +198,17 @@ Close the door now, keeper. I have the key. He has the other.
 
 ## See Also
 
-- [[place-nykhtion|Nikhtion]]—the city of the dead, its chambers and its hereditary keepers
-- [[lore-byzarianclt|Bizarian]]—the keeping of the dead, the account settled aloud and the apprenticeship that is an adoption
-- [[lore-selmorosdty|Sélmoros]]—the god of the Silent Passage and the black candles
-- [[lore-firstterms|The Hymn of the First Terms]]—the refrain she has sung since she was a bride
-- [[affiliation-nesthiros|Nesthiros]]—the port her son sailed from
+[[place-nykhtion|Nikhtion]]
+: the city of the dead, its chambers and its hereditary keepers
+
+[[lore-byzarianclt|Bizarian]]
+: the keeping of the dead, the account settled aloud and the apprenticeship that is an adoption
+
+[[lore-selmorosdty|Sélmoros]]
+: the god of the Silent Passage and the black candles
+
+[[lore-firstterms|The Hymn of the First Terms]]
+: the refrain she has sung since she was a bride
+
+[[affiliation-nesthiros|Nesthiros]]
+: the port her son sailed from

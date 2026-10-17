@@ -431,10 +431,14 @@ The vezakum of the compact, an old timber-dealer who has said in council that a 
 
 ## Plot Hooks
 
-1. **The Keel**—A galley built on a keel Zattuya refused and another timberwright passed has broken its back in the first heavy sea. The yard wants her to say so before the compact; the vezakum wants her silent.
+The Keel
+: A galley built on a keel Zattuya refused and another timberwright passed has broken its back in the first heavy sea. The yard wants her to say so before the compact; the vezakum wants her silent.
 
-2. **The Hill Stand**—The best oak she has found in years stands on ground the hill tribes up the valley say is theirs, and the compact's charter says nothing about tribes.
+The Hill Stand
+: The best oak she has found in years stands on ground the hill tribes up the valley say is theirs, and the compact's charter says nothing about tribes.
 
-3. **The Examination**—The compact has called Zattuya to re-examination on a complaint about her marks. The complaint is the vezakum's, and the examiners are his.
+The Examination
+: The compact has called Zattuya to re-examination on a complaint about her marks. The complaint is the vezakum's, and the examiners are his.
 
-4. **The Factors' Timber**—The [House of Factors]{.name data-type="affiliation/governmental"} has contracted for cheap ship-timber from over the sea, and the shipwrights have been told to use it. Zattuya would not mark a tree like it.
+The Factors' Timber
+: The [House of Factors]{.name data-type="affiliation/governmental"} has contracted for cheap ship-timber from over the sea, and the shipwrights have been told to use it. Zattuya would not mark a tree like it.

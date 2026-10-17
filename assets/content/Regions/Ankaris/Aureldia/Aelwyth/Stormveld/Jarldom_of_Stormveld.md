@@ -125,12 +125,29 @@ The Jarldom strikes no coin, and where a deal is made in money it is made in the
 
 ## See Also
 
-- [[place-aelwyth|Aelwyth]]—the island
-- [[place-stormveld|Stormveld]]—the land the Jarldom holds
-- [[place-stormveil|Stormveil]]—the seat
-- [[place-stormplain|The Stormplain]]—the thrall-worked plain
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—ancestral homeland
-- [[affiliation-kngdmldrth|Kingdom of Aldorath]]—southern neighbor and frequent target
-- [[lore-flkkhazar|Khazari]]—elder race in the northeastern mountains
-- [[lore-highjarlrnk|High Jarl]]—the confederation's elected head
-- [[affiliation-asguardian|Asguardian Pantheon]]—the Ten of the north
+[[place-aelwyth|Aelwyth]]
+: the island
+
+[[place-stormveld|Stormveld]]
+: the land the Jarldom holds
+
+[[place-stormveil|Stormveil]]
+: the seat
+
+[[place-stormplain|The Stormplain]]
+: the thrall-worked plain
+
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+: ancestral homeland
+
+[[affiliation-kngdmldrth|Kingdom of Aldorath]]
+: southern neighbor and frequent target
+
+[[lore-flkkhazar|Khazari]]
+: elder race in the northeastern mountains
+
+[[lore-highjarlrnk|High Jarl]]
+: the confederation's elected head
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the Ten of the north

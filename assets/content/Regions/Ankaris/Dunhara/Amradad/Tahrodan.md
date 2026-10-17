@@ -24,7 +24,14 @@ The fire-temples of the [[affiliation-ashanpnthn|Ashaian]] gods fill the city's 
 
 ## See Also
 
-- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the realm the city serves
-- [[place-amradadrgn|Amradad Region]]—the settled country around it
-- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the faith of the city's temples
-- [[skill-dunharlng|Dunhari]]—the tongue and its naming tradition
+[[affiliation-kngdmmrdd|Kingdom of Amradad]]
+: the realm the city serves
+
+[[place-amradadrgn|Amradad Region]]
+: the settled country around it
+
+[[affiliation-ashanpnthn|Ashaian Pantheon]]
+: the faith of the city's temples
+
+[[skill-dunharlng|Dunhari]]
+: the tongue and its naming tradition

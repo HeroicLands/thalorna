@@ -436,8 +436,11 @@ The Vylarian timber concession's current operators. The garrison that pursued hi
 
 ## Plot Hooks
 
-1. **The Factor's Return**—The Vylarian factor whose jaw Hrodar broke nine years ago has returned to Vristwald as part of a new imperial delegation. Hrodar learns of his presence and abandons the gang to pursue a personal vendetta. Dagbán sends the party—or the party is independently hired—to find the missing bandit before he does something that brings the full weight of the garrison down on the Blackpine Wolves.
+The Factor's Return
+: The Vylarian factor whose jaw Hrodar broke nine years ago has returned to Vristwald as part of a new imperial delegation. Hrodar learns of his presence and abandons the gang to pursue a personal vendetta. Dagbán sends the party—or the party is independently hired—to find the missing bandit before he does something that brings the full weight of the garrison down on the Blackpine Wolves.
 
-2. **The Timber War**—A [[lore-varokhiclt|Varokhi]] logging settlement is being squeezed by the same exploitative imperial concession system that destroyed Hrodar's family. The loggers are considering armed resistance and have sent word into the forest looking for men willing to fight. Hrodar is eager to join them, which would pull him away from the gang and potentially spark a broader conflict. The party arrives in the middle of escalating tensions.
+The Timber War
+: A [[lore-varokhiclt|Varokhi]] logging settlement is being squeezed by the same exploitative imperial concession system that destroyed Hrodar's family. The loggers are considering armed resistance and have sent word into the forest looking for men willing to fight. Hrodar is eager to join them, which would pull him away from the gang and potentially spark a broader conflict. The party arrives in the middle of escalating tensions.
 
-3. **The Silent Guide**—The party needs a guide through a particularly treacherous stretch of the Vristwald interior. Hrodar, separated from the gang after a botched robbery, is the only person in the area who knows the route. He will help—for a price, and only if the party is not traveling with Vylarian soldiers or imperial merchants. His knowledge of the forest is real, but his hatred of the empire could make him a dangerous companion if the party's allegiances are not what they seem.
+The Silent Guide
+: The party needs a guide through a particularly treacherous stretch of the Vristwald interior. Hrodar, separated from the gang after a botched robbery, is the only person in the area who knows the route. He will help—for a price, and only if the party is not traveling with Vylarian soldiers or imperial merchants. His knowledge of the forest is real, but his hatred of the empire could make him a dangerous companion if the party's allegiances are not what they seem.

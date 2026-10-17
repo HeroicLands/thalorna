@@ -72,11 +72,20 @@ data:
 sohl: {system: {commonSkills: [tarvenlng]}}
 ---
 
-- **Overlord:** [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (barely acknowledged)
-- **Language:** Eskari (primary), Tarveni (secondary)
-- **Naming Convention:** [[skill-tarvenlng|Tarveni]] (with local Eskari variations)
-- **Pantheon:** [[affiliation-arldnpnthn|Aureldian]] (nominal), with strong pre-Aureldían animistic traditions
-- **Government:** Council of elders (the Biltzarrath) drawn from highland clans
+Overlord
+: [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (barely acknowledged)
+
+Language
+: Eskari (primary), Tarveni (secondary)
+
+Naming Convention
+: [[skill-tarvenlng|Tarveni]] (with local Eskari variations)
+
+Pantheon
+: [[affiliation-arldnpnthn|Aureldian]] (nominal), with strong pre-Aureldían animistic traditions
+
+Government
+: Council of elders (the Biltzarrath) drawn from highland clans
 
 ## Overview
 
@@ -98,9 +107,20 @@ The Free Territory of Eskarath uses the [[lore-vylrncrncy|Vylarian Currency]] (S
 
 ## See Also
 
-- [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]—The loose overlord (barely)
-- [[place-tarvenirgn|Tarvénia Region]]—Regional overview
-- [[place-eskarath|Eskarath]]—The land the Free Territory holds
-- [[place-elavendre|Élavendre]]—Northern neighbor (cultural affinity)
-- [[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]—The three kingdoms
-- [[affiliation-frctyvlthr|Free City of Valthari]]—Fellow Tarvenan free polity
+[[affiliation-kingdmtrvn|Kingdom of Tarvénia]]
+: The loose overlord (barely)
+
+[[place-tarvenirgn|Tarvénia Region]]
+: Regional overview
+
+[[place-eskarath|Eskarath]]
+: The land the Free Territory holds
+
+[[place-elavendre|Élavendre]]
+: Northern neighbor (cultural affinity)
+
+[[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]
+: The three kingdoms
+
+[[affiliation-frctyvlthr|Free City of Valthari]]
+: Fellow Tarvenan free polity

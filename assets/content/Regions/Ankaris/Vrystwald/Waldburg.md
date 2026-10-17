@@ -26,6 +26,11 @@ Waldburg has no treasury, no standing garrison and no wall around anything but t
 
 ## See Also
 
-- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—The villages whose elders sometimes meet here
-- [[place-vrystwldrvrs|Vristwald Rivers]]—The waterways crossed here
-- [[lore-thrallrivers|The Thrall Rivers]]—How the market grew and its peace took shape
+[[affiliation-vrystwldtrbs|Vristwald Tribes]]
+: The villages whose elders sometimes meet here
+
+[[place-vrystwldrvrs|Vristwald Rivers]]
+: The waterways crossed here
+
+[[lore-thrallrivers|The Thrall Rivers]]
+: How the market grew and its peace took shape

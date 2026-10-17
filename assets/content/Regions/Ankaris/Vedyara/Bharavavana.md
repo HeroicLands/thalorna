@@ -77,11 +77,26 @@ The query names the settlements of the forest country. A gathering group moves w
 
 ## See Also
 
-- [[place-vedyarargn|Vedyara Region]]—parent region
-- [[affiliation-bhrvdvbhog|The Bharava-Devabhona]]—the temple-estates that hold the forest
-- [[place-bharavarivr|The Bharava]]—the river and the pilgrim road along it
-- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the gold highlands above the forest, and the hostels' endowment
-- [[place-forestnoroad|The Forest of No Road]]—the unendowed forest at the head of the river, above the last estate
-- [[place-bhrvdvsthna|The Bharava-Devastena]]—the free hostels the forest's yield pays for
-- [[place-estrnreach|The Eastern Reach]]—the range above the upper river
-- [[place-sorhupura|Sorhupura]]—a temple-city in the interior that the forest has closed over
+[[place-vedyarargn|Vedyara Region]]
+: parent region
+
+[[affiliation-bhrvdvbhog|The Bharava-Devabhona]]
+: the temple-estates that hold the forest
+
+[[place-bharavarivr|The Bharava]]
+: the river and the pilgrim road along it
+
+[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+: the gold highlands above the forest, and the hostels' endowment
+
+[[place-forestnoroad|The Forest of No Road]]
+: the unendowed forest at the head of the river, above the last estate
+
+[[place-bhrvdvsthna|The Bharava-Devastena]]
+: the free hostels the forest's yield pays for
+
+[[place-estrnreach|The Eastern Reach]]
+: the range above the upper river
+
+[[place-sorhupura|Sorhupura]]
+: a temple-city in the interior that the forest has closed over

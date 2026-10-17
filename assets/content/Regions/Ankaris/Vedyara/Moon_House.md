@@ -32,6 +32,11 @@ The temples make a different claim, and make it at an accession: the rites are p
 
 ## See Also
 
-- [[place-chandrapur2|Chendrapur]]—the city
-- [[affiliation-chandrapur|Chendrapur]]—the city-state
-- [[place-greatbazaar|The Great Bazaar]]—the crown's market ground
+[[place-chandrapur2|Chendrapur]]
+: the city
+
+[[affiliation-chandrapur|Chendrapur]]
+: the city-state
+
+[[place-greatbazaar|The Great Bazaar]]
+: the crown's market ground

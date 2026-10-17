@@ -80,7 +80,14 @@ The Zarnush are known for honest dealing, and caravan tolls are their steadiest 
 
 ## See Also
 
-- [[lore-sowidesclt|Sovidur]]—the steppe tribes and what they hold a person owes
-- [[affiliation-tghsvrnzrnsh|Tigh'Savaran of the Zarnush]]—the warband, its captain and the crisis it carries
-- [[affiliation-zrdntrb|Azardan]], [[affiliation-drmndtrb|Durmand]], [[affiliation-shrzrtrb|Shirzari]]—the three neighbors
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the country the tribe grazes
+[[lore-sowidesclt|Sovidur]]
+: the steppe tribes and what they hold a person owes
+
+[[affiliation-tghsvrnzrnsh|Tigh'Savaran of the Zarnush]]
+: the warband, its captain and the crisis it carries
+
+[[affiliation-zrdntrb|Azardan]], [[affiliation-drmndtrb|Durmand]], [[affiliation-shrzrtrb|Shirzari]]
+: the three neighbors
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the country the tribe grazes

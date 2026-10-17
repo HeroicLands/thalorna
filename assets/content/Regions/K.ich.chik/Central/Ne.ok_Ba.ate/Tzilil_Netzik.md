@@ -23,5 +23,8 @@ The island's trade is not only its own realm's. [[affiliation-kankul|K'ankul]]'s
 
 ## See Also
 
-- [[place-neokbaatergn|Ne'ok Ba'ate]]—the realm that holds the island
-- [[place-tzokilkul|Ts'okilkul]]—the K'ankul harbor that shares its trade
+[[place-neokbaatergn|Ne'ok Ba'ate]]
+: the realm that holds the island
+
+[[place-tzokilkul|Ts'okilkul]]
+: the K'ankul harbor that shares its trade

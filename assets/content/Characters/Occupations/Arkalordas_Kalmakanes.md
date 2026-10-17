@@ -433,10 +433,14 @@ A young mate on the Helionis run who learned his trade in a Taruzelian yard and 
 
 ## Plot Hooks
 
-1. **The Shoals**—A captain has offered double wages to take a cargo through the [[place-tamzirshoals|Tamzir Shoals]] channels, which Taruzelian pilots know and Vylarian seamen do not, and the crew will not sign without Arkalordas.
+The Shoals
+: A captain has offered double wages to take a cargo through the [[place-tamzirshoals|Tamzir Shoals]] channels, which Taruzelian pilots know and Vylarian seamen do not, and the crew will not sign without Arkalordas.
 
-2. **The Letters of Marque**—A Taruzelian ship carrying letters against Vylarian trade has been seen off the Helionis coast, and it is the privateer's. Arkalordas's ship is the next out.
+The Letters of Marque
+: A Taruzelian ship carrying letters against Vylarian trade has been seen off the Helionis coast, and it is the privateer's. Arkalordas's ship is the next out.
 
-3. **The Navy's Need**—The [[affiliation-vylarinmpr|Vylarian Empire]]'s navy is short of seamen and is paying the guild for its rolls. Arkalordas's name is at the top of one.
+The Navy's Need
+: The [[affiliation-vylarinmpr|Vylarian Empire]]'s navy is short of seamen and is paying the guild for its rolls. Arkalordas's name is at the top of one.
 
-4. **The Young Mate**—The mate has been given the deck for the Helionis run and has set the ship the Taruzelian way, with half the hands aloft that Arkalordas would keep there. The weather is coming.
+The Young Mate
+: The mate has been given the deck for the Helionis run and has set the ship the Taruzelian way, with half the hands aloft that Arkalordas would keep there. The weather is coming.

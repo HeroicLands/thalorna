@@ -22,6 +22,11 @@ A drover who has delivered into Korvenara for twenty years tells the lads new to
 
 ## See Also
 
-- [[place-alyssa|Alessa]]—the province's land
-- [[affiliation-provinclys|Province of Alessa]]—the parent province
-- [[affiliation-vylrnmltry|The Vylarian Military]]—the legions
+[[place-alyssa|Alessa]]
+: the province's land
+
+[[affiliation-provinclys|Province of Alessa]]
+: the parent province
+
+[[affiliation-vylrnmltry|The Vylarian Military]]
+: the legions

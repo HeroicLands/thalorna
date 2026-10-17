@@ -448,22 +448,46 @@ Koremdanis is driven by a vision of mastery that goes beyond technical skill. Sh
 
 ### Strengths
 
-- **Melee Mastery**: She is the most dangerous warrior in her region. Her swordwork is nearly perfect, her technique economical and devastating, and her intuitive grasp of combat principles allows her to anticipate and counter opponent moves with preternatural accuracy.
-- **Supernatural Reflexes and Agility**: Her dexterity and agility, combined with her throwing skill, make her capable of feats of physical coordination that seem almost impossible. She can dodge attacks that others would consider unavoidable and strike with precision from impossible angles.
-- **Tactical Combat Intelligence**: Her perception, awareness, and command allow her to read a battlefield with great clarity and lead others with assurance.
-- **Physical Excellence**: Her strength combined with her dexterity and agility gives her a fine balance of power and speed, and she nearly always acts first in combat.
-- **Scholarly Understanding**: Heraldry, law, and discourse give her deep knowledge of formal dueling codes, noble lineages, and rhetoric, and she moves through high society with surprising ease.
-- **Versatile Athletic Ability**: She possesses advanced capabilities in climbing, swimming, acrobatics, and any physical discipline she focuses on, giving her great mobility and freedom of movement.
-- **Inspiring Presence**: Despite her intimidating demeanor, she is capable of eloquence and commanding authority that can inspire loyalty in followers and respect from rivals.
+Melee Mastery
+: She is the most dangerous warrior in her region. Her swordwork is nearly perfect, her technique economical and devastating, and her intuitive grasp of combat principles allows her to anticipate and counter opponent moves with preternatural accuracy.
+
+Supernatural Reflexes and Agility
+: Her dexterity and agility, combined with her throwing skill, make her capable of feats of physical coordination that seem almost impossible. She can dodge attacks that others would consider unavoidable and strike with precision from impossible angles.
+
+Tactical Combat Intelligence
+: Her perception, awareness, and command allow her to read a battlefield with great clarity and lead others with assurance.
+
+Physical Excellence
+: Her strength combined with her dexterity and agility gives her a fine balance of power and speed, and she nearly always acts first in combat.
+
+Scholarly Understanding
+: Heraldry, law, and discourse give her deep knowledge of formal dueling codes, noble lineages, and rhetoric, and she moves through high society with surprising ease.
+
+Versatile Athletic Ability
+: She possesses advanced capabilities in climbing, swimming, acrobatics, and any physical discipline she focuses on, giving her great mobility and freedom of movement.
+
+Inspiring Presence
+: Despite her intimidating demeanor, she is capable of eloquence and commanding authority that can inspire loyalty in followers and respect from rivals.
 
 ### Weaknesses
 
-- **Emotional Detachment**: Her single-minded focus on martial discipline has created emotional distance from others. She struggles with intimate relationships and sometimes seems almost inhuman in her emotional restraint.
-- **Pride and Arrogance**: Her supreme confidence in her abilities can border on arrogance. She sometimes misjudges situations by overestimating her own capabilities or underestimating the cleverness of non-martial opponents.
-- **Competitive Obsession**: Her drive to test herself against stronger opponents has led her into situations that endangered her reputation or safety. She is vulnerable to challenges that manipulate her pride.
-- **Limited Empathy**: While she cares about her students' development, she has limited ability to understand emotional distress or to provide comfort to those suffering from non-martial difficulties. Her advice, while wise, can seem cold and dismissive of emotional concerns.
-- **Isolation and Loneliness**: Her austere lifestyle and high standards have isolated her from peers. She has few close friendships and sometimes seems burdened by the loneliness of being at the peak of her art with no true equals.
-- **Vulnerability to Magic**: For all her martial perfection, she has no training in dealing with magical attacks or enchantments. A skilled mage is a greater danger to her than any swordsperson.
+Emotional Detachment
+: Her single-minded focus on martial discipline has created emotional distance from others. She struggles with intimate relationships and sometimes seems almost inhuman in her emotional restraint.
+
+Pride and Arrogance
+: Her supreme confidence in her abilities can border on arrogance. She sometimes misjudges situations by overestimating her own capabilities or underestimating the cleverness of non-martial opponents.
+
+Competitive Obsession
+: Her drive to test herself against stronger opponents has led her into situations that endangered her reputation or safety. She is vulnerable to challenges that manipulate her pride.
+
+Limited Empathy
+: While she cares about her students' development, she has limited ability to understand emotional distress or to provide comfort to those suffering from non-martial difficulties. Her advice, while wise, can seem cold and dismissive of emotional concerns.
+
+Isolation and Loneliness
+: Her austere lifestyle and high standards have isolated her from peers. She has few close friendships and sometimes seems burdened by the loneliness of being at the peak of her art with no true equals.
+
+Vulnerability to Magic
+: For all her martial perfection, she has no training in dealing with magical attacks or enchantments. A skilled mage is a greater danger to her than any swordsperson.
 
 ## Social
 
@@ -505,12 +529,17 @@ House Barkratis
 
 ## Plot Hooks
 
-1. **The Challenge from the East**: Word arrives that a famed swordmaster from the distant Eastern Kingdoms, a figure named Hiroshi the Unbound, wishes to challenge Koremdanis to a duel. This master is said to practice a form of swordsmanship completely unknown in Vylaria, based on principles fundamentally different from the Path of Breath. Accepting the challenge could result in either triumph or her first real defeat. The duel would draw attention from every court and could have diplomatic consequences; it would be no simple test of martial skill.
+The Challenge from the East
+: Word arrives that a famed swordmaster from the distant Eastern Kingdoms, a figure named Hiroshi the Unbound, wishes to challenge Koremdanis to a duel. This master is said to practice a form of swordsmanship completely unknown in Vylaria, based on principles fundamentally different from the Path of Breath. Accepting the challenge could result in either triumph or her first real defeat. The duel would draw attention from every court and could have diplomatic consequences; it would be no simple test of martial skill.
 
-2. **The Poisoned Student**: One of her most promising students, Lord Cassian, falls mysteriously ill with a poison that no physician can identify or cure. As Koremdanis investigates, she discovers evidence suggesting he was poisoned not by an enemy but by a rival student jealous of his progress. The discovery raises the question of what her teaching, taken to extremes, can make of a student.
+The Poisoned Student
+: One of her most promising students, Lord Cassian, falls mysteriously ill with a poison that no physician can identify or cure. As Koremdanis investigates, she discovers evidence suggesting he was poisoned not by an enemy but by a rival student jealous of his progress. The discovery raises the question of what her teaching, taken to extremes, can make of a student.
 
-3. **The Imperial Succession Crisis**: The Emperor dies without a clear heir, and several claimants to the throne emerge. A faction supporting one of the claimants approaches Koremdanis, offering her enormous wealth and power if she will publicly endorse their candidate. Her endorsement would likely determine the succession, making her responsible for the future of the Empire. The political intrigue threatens to embroil her in conflict far beyond her control.
+The Imperial Succession Crisis
+: The Emperor dies without a clear heir, and several claimants to the throne emerge. A faction supporting one of the claimants approaches Koremdanis, offering her enormous wealth and power if she will publicly endorse their candidate. Her endorsement would likely determine the succession, making her responsible for the future of the Empire. The political intrigue threatens to embroil her in conflict far beyond her control.
 
-4. **The Betrayal of the Path**: An ancient text surfaces suggesting that the Path of Breath was originally taught by a mystical order now lost to history, and that true mastery requires spiritual practices beyond martial training. A mysterious wanderer named the Ascetic appears in Salkalon and challenges Koremdanis's understanding of the path she's devoted her life to mastering. Koremdanis must journey with this mysterious teacher to discover whether she's been incomplete in her pursuit of mastery.
+The Betrayal of the Path
+: An ancient text surfaces suggesting that the Path of Breath was originally taught by a mystical order now lost to history, and that true mastery requires spiritual practices beyond martial training. A mysterious wanderer named the Ascetic appears in Salkalon and challenges Koremdanis's understanding of the path she's devoted her life to mastering. Koremdanis must journey with this mysterious teacher to discover whether she's been incomplete in her pursuit of mastery.
 
-5. **The Master's Retirement**: Swordmaster Pelerar, Koremdanis's ancient teacher and the only person she truly respects, approaches his end. He summons her to his deathbed and reveals that he has identified an heir—another student with potential matching her own. Pelerar requests that Koremdanis train this heir, passing on his legacy. But the heir is trained in a rival tradition, and Koremdanis questions whether compromising her pure approach to teaching would betray everything Pelerar taught her about integrity.
+The Master's Retirement
+: Swordmaster Pelerar, Koremdanis's ancient teacher and the only person she truly respects, approaches his end. He summons her to his deathbed and reveals that he has identified an heir—another student with potential matching her own. Pelerar requests that Koremdanis train this heir, passing on his legacy. But the heir is trained in a rival tradition, and Koremdanis questions whether compromising her pure approach to teaching would betray everything Pelerar taught her about integrity.

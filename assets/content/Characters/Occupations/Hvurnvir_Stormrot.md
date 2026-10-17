@@ -432,12 +432,17 @@ None; he is respected in the community, though some younger fishers find him ove
 
 ## Plot Hooks
 
-1. **The Fisher's Dilemma**—A season of poor catches leaves Hvurnvir choosing between the grounds he has always fished and the riskier waters the younger fishers favor.
+The Fisher's Dilemma
+: A season of poor catches leaves Hvurnvir choosing between the grounds he has always fished and the riskier waters the younger fishers favor.
 
-2. **Old Grudges**—A younger fisher who thinks Hvurnvir's ways outdated sets out to take his place with the inns and fishmongers.
+Old Grudges
+: A younger fisher who thinks Hvurnvir's ways outdated sets out to take his place with the inns and fishmongers.
 
-3. **Echoes of the Past**—A boat lost in a storm in Hvurnvir's youth is found, and he is the only one left who remembers its crew.
+Echoes of the Past
+: A boat lost in a storm in Hvurnvir's youth is found, and he is the only one left who remembers its crew.
 
-4. **Shifting Winds**—Political change in Nordheim threatens the trade Hvurnvir depends upon, and he can adapt, resist, or leave.
+Shifting Winds
+: Political change in Nordheim threatens the trade Hvurnvir depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—Hvurnvir is offered the mastery of a larger boat than his own, and its price is not named up front.
+The Opportunity
+: Hvurnvir is offered the mastery of a larger boat than his own, and its price is not named up front.

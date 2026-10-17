@@ -430,12 +430,17 @@ Some city guards suspect her affiliations.
 
 ## Plot Hooks
 
-1. **The Locksmith's Dilemma**—A noble commissions a lock from Gorazendis and the Velvet Hand asks for its hidden mechanism, and she cannot keep faith with both.
+The Locksmith's Dilemma
+: A noble commissions a lock from Gorazendis and the Velvet Hand asks for its hidden mechanism, and she cannot keep faith with both.
 
-2. **Old Grudges**—A city guard who suspects Gorazendis's affiliations has begun watching her shop.
+Old Grudges
+: A city guard who suspects Gorazendis's affiliations has begun watching her shop.
 
-3. **Echoes of the Past**—A lock Gorazendis made with a hidden mechanism in her first years turns up on a door the Velvet Hand has been paid to open.
+Echoes of the Past
+: A lock Gorazendis made with a hidden mechanism in her first years turns up on a door the Velvet Hand has been paid to open.
 
-4. **Shifting Winds**—Political change in Vylaria threatens the Velvet Hand and the nobles who buy Gorazendis's locks alike, and she can adapt, resist, or leave.
+Shifting Winds
+: Political change in Vylaria threatens the Velvet Hand and the nobles who buy Gorazendis's locks alike, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—A noble house offers Gorazendis its whole custom in locks, and the Velvet Hand's interest in that house is the part no one mentions.
+The Opportunity
+: A noble house offers Gorazendis its whole custom in locks, and the Velvet Hand's interest in that house is the part no one mentions.

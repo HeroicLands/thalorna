@@ -110,10 +110,23 @@ The Kingdom uses [[lore-vylrncrncy|Vylarian coin]]—ethla, ankhra and bit—in 
 
 ## See Also
 
-- [[place-amradadrgn|Amradad Region]]—the land the Kingdom holds
-- [[place-shebarakhend|Shebarakhend]]—the seat of the court
-- [[place-dunharargn|Dunhara Region]]—the wider desert
-- [[affiliation-dunhartrbs|Dunhara Tribes]]—the nomadic cousins of the open desert
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the ally across the strait
-- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the faith of the fire-temples
-- [[place-khzryndsrtrgn|Khazryn Desert Region]] and [[place-byzariargn|Bizaria Region]]—neighbors on the trade roads
+[[place-amradadrgn|Amradad Region]]
+: the land the Kingdom holds
+
+[[place-shebarakhend|Shebarakhend]]
+: the seat of the court
+
+[[place-dunharargn|Dunhara Region]]
+: the wider desert
+
+[[affiliation-dunhartrbs|Dunhara Tribes]]
+: the nomadic cousins of the open desert
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the ally across the strait
+
+[[affiliation-ashanpnthn|Ashaian Pantheon]]
+: the faith of the fire-temples
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]] and [[place-byzariargn|Bizaria Region]]
+: neighbors on the trade roads

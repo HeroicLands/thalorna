@@ -131,7 +131,14 @@ That's the adept and the hail. Bed. And if you told me you'd washed your feet, g
 
 ## See Also
 
-- [[place-durgalis|Dúrgalis]]—the castle town and the hill farms under it
-- [[affiliation-ordoarcanis|Thordimalon]]—the order, its chapters and its adepts
-- [[lore-motheryesno|The Mother's Yes and No]]—the Mother, the two words and the hail
-- [[lore-tarvenanclt|Tarvenan]]—the wise-woman, the village assembly, the oath stone and the mage nobody sent for
+[[place-durgalis|Dúrgalis]]
+: the castle town and the hill farms under it
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: the order, its chapters and its adepts
+
+[[lore-motheryesno|The Mother's Yes and No]]
+: the Mother, the two words and the hail
+
+[[lore-tarvenanclt|Tarvenan]]
+: the wise-woman, the village assembly, the oath stone and the mage nobody sent for

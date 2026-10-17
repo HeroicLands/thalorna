@@ -320,20 +320,29 @@ Fire burns its skin and overwhelms its senses. Cold water stiffens its arms and 
 
 ## Attributes
 
-- **Strength:** 15-20 (1d6+14)
+Strength
+: 15-20 (1d6+14)
 
-- **Endurance:** 14-17 (1d4+13)
+Endurance
+: 14-17 (1d4+13)
 
-- **Dexterity:** 15-20 (1d6+14)
+Dexterity
+: 15-20 (1d6+14)
 
-- **Agility:** 14-17 (1d4+13)
+Agility
+: 14-17 (1d4+13)
 
-- **Perception:** 14-17 (1d4+13)
+Perception
+: 14-17 (1d4+13)
 
-- **Aura:** 10-13 (1d4+9)
+Aura
+: 10-13 (1d4+9)
 
-- **Will:** 14-17 (1d4+13)
+Will
+: 14-17 (1d4+13)
 
-- **Reasoning:** 14-17 (1d4+13)
+Reasoning
+: 14-17 (1d4+13)
 
-- **Creativity:** 11-16 (1d6+10)
+Creativity
+: 11-16 (1d6+10)

@@ -291,10 +291,23 @@ The fire is low.
 
 ## See Also
 
-- [[lore-vthgdhstry|Histories and Legends of Vithgard]]—the burning at Askholm and the Sworn Hand's ruling
-- [[lore-tvelgaett|Tvelgaett]]—the three heirs the velva names
-- [[lore-aldarhringr|Aldarhringr]]—the ring of ages, and the remnant each age leaves
-- [[lore-aldarlok|Aldarlok]]—the close of the age she declines to sing
-- [[lore-nrdlndswhal|The Whale Strand]]—the autumn run, and the failed winter that ends at Askholm
-- [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—the pot of ash, and the gap cut in the wall for the dead
-- [[place-dvarnvik|Dvarnvík]]—the port whose hall first heard it
+[[lore-vthgdhstry|Histories and Legends of Vithgard]]
+: the burning at Askholm and the Sworn Hand's ruling
+
+[[lore-tvelgaett|Tvelgaett]]
+: the three heirs the velva names
+
+[[lore-aldarhringr|Aldarhringr]]
+: the ring of ages, and the remnant each age leaves
+
+[[lore-aldarlok|Aldarlok]]
+: the close of the age she declines to sing
+
+[[lore-nrdlndswhal|The Whale Strand]]
+: the autumn run, and the failed winter that ends at Askholm
+
+[[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]
+: the pot of ash, and the gap cut in the wall for the dead
+
+[[place-dvarnvik|Dvarnvík]]
+: the port whose hall first heard it

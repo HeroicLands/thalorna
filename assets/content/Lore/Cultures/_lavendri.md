@@ -183,16 +183,35 @@ The sin is the welcome. The crown's cordiality to the Order is warm and sincere,
 
 ## See Also
 
-- [[place-elavendre|Élavendre Region]]—the woodland kingdom and its cities
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the gods as the kingdom keeps them
-- [[skill-elvndrlng|Élavendri]]—the tongue of the houses and the bards
-- [[lore-aelendnppl|The Áelendan]]—the ancestor tribes and the Pact
-- [[affiliation-bardicolgs|The Bardic Colleges]]—the genealogies, the songs and the Circle
-- [[affiliation-groveconcl|The Grove Council]]—the groves and the hinge-days
-- [[affiliation-alndnwrdns|The Áelendan Wardens]]—the tree line and the sacred sites
-- [[lore-theasking|The Asking]]—the Sinalean lay of the band that asked the wood
-- [[being-rnthrprdln|Ranthor Párdalen]]—the shaman between the kingdom and the interior
-- [[being-ylthklmrth|Jalith Kálmereth]]—the traveling bard of Liranel
+[[place-elavendre|Élavendre Region]]
+: the woodland kingdom and its cities
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the gods as the kingdom keeps them
+
+[[skill-elvndrlng|Élavendri]]
+: the tongue of the houses and the bards
+
+[[lore-aelendnppl|The Áelendan]]
+: the ancestor tribes and the Pact
+
+[[affiliation-bardicolgs|The Bardic Colleges]]
+: the genealogies, the songs and the Circle
+
+[[affiliation-groveconcl|The Grove Council]]
+: the groves and the hinge-days
+
+[[affiliation-alndnwrdns|The Áelendan Wardens]]
+: the tree line and the sacred sites
+
+[[lore-theasking|The Asking]]
+: the Sinalean lay of the band that asked the wood
+
+[[being-rnthrprdln|Ranthor Párdalen]]
+: the shaman between the kingdom and the interior
+
+[[being-ylthklmrth|Jalith Kálmereth]]
+: the traveling bard of Liranel
 
 ## Glossary {#glossary}
 

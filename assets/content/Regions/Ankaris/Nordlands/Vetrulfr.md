@@ -18,7 +18,14 @@ The Winter-Wolf is one of two chained beasts, and the other belongs to Eidgar's 
 
 ## See Also
 
-- [[lore-eidgardty|Eidgar]]—the god who chained the wolf with his hand
-- [[lore-aldarlok|Aldarlok]]—the close of the age, when the chain parts
-- [[lore-dulmvargr|Dulmvargr]]—the other chained beast, the hound that takes Eidgar
-- [[lore-tvelgaett|Tvelgaett]]—the heirs, of whom Aldvar is the first
+[[lore-eidgardty|Eidgar]]
+: the god who chained the wolf with his hand
+
+[[lore-aldarlok|Aldarlok]]
+: the close of the age, when the chain parts
+
+[[lore-dulmvargr|Dulmvargr]]
+: the other chained beast, the hound that takes Eidgar
+
+[[lore-tvelgaett|Tvelgaett]]
+: the heirs, of whom Aldvar is the first

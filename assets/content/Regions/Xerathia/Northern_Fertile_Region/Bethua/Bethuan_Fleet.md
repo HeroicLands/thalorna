@@ -120,10 +120,23 @@ The equilibrium holds because no one wants it broken: Vylaria cannot project dec
 
 ## See Also
 
-- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—the realm
-- [[affiliation-mtrrchybth|Bethuan Matriarchy]]—the Two Pillars, the martial command, and the status of men
-- [[affiliation-bthntrdhss|The Bethuan Trade-Houses]]—the maritime Houses that build, crew, and profit from the fleet
-- [[place-vylarianse|Vylarian Sea]]—the contested sea and its maritime powers
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the patron whose proxy strategy the fleet enacts
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the standing target of the Purple Warrant
-- [[place-helionis|Helionis]]—source of the mercenary captains hired to hunt Bethuan privateers
+[[affiliation-mtrrchybth|Matriarchy of Bethua]]
+: the realm
+
+[[affiliation-mtrrchybth|Bethuan Matriarchy]]
+: the Two Pillars, the martial command, and the status of men
+
+[[affiliation-bthntrdhss|The Bethuan Trade-Houses]]
+: the maritime Houses that build, crew, and profit from the fleet
+
+[[place-vylarianse|Vylarian Sea]]
+: the contested sea and its maritime powers
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: the patron whose proxy strategy the fleet enacts
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the standing target of the Purple Warrant
+
+[[place-helionis|Helionis]]
+: source of the mercenary captains hired to hunt Bethuan privateers

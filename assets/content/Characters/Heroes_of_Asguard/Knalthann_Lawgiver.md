@@ -401,8 +401,11 @@ Knalthann's legal knowledge is encyclopedic, encompassing the traditions of doze
 
 ## Plot Hooks
 
-1. **The Impossible Case**—Two clans each claim the same tract of land, and both have seemingly legitimate runic deeds. The losing side will almost certainly declare war. Knalthann must determine which deed is genuine before violence erupts.
+The Impossible Case
+: Two clans each claim the same tract of land, and both have seemingly legitimate runic deeds. The losing side will almost certainly declare war. Knalthann must determine which deed is genuine before violence erupts.
 
-2. **The Lawspeaker's Kidnapping**—Knalthann has been abducted by the Rune Forgers, who plan to force him to authenticate their false evidence. The party must rescue him before the criminals can compel his cooperation.
+The Lawspeaker's Kidnapping
+: Knalthann has been abducted by the Rune Forgers, who plan to force him to authenticate their false evidence. The party must rescue him before the criminals can compel his cooperation.
 
-3. **Justice Undone**—A man Knalthann convicted years ago has escaped imprisonment and is murdering the witnesses who testified against him. The twist: new evidence suggests the man may have been innocent all along.
+Justice Undone
+: A man Knalthann convicted years ago has escaped imprisonment and is murdering the witnesses who testified against him. The twist: new evidence suggests the man may have been innocent all along.

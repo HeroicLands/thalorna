@@ -146,10 +146,23 @@ The academies resent the Order's dominance, and the Order suspects the academies
 
 ## See Also
 
-- [[affiliation-ordoarcanis|Thordimalon]]—The College of Arcane Philosophy, now the dominant institution within the Epistémion
-- [[place-helionis|Helionis]]—Birthplace and spiritual home of the Epistémion
-- [[place-orzara|Orzara]]—Imperial capital; site of the Epistémion's largest campus (the Scholars' District and the inner Notral Sevan)
-- [[place-aulpnpstmm|Ombalon]]—The Epistémion's seat of counsel and keeping in the Arvon
-- [[affiliation-vylarinmpr|Vylarian Empire]]—Political patron and, through the Order, de facto controller
-- [[place-elavendre|Élavendre]]—Aesthetic and bardic traditions influenced by the College of Aesthetics
-- [[place-provenzrgn|Provenzia]]—Strong philosophical traditions, particularly in ethics and aesthetics
+[[affiliation-ordoarcanis|Thordimalon]]
+: The College of Arcane Philosophy, now the dominant institution within the Epistémion
+
+[[place-helionis|Helionis]]
+: Birthplace and spiritual home of the Epistémion
+
+[[place-orzara|Orzara]]
+: Imperial capital; site of the Epistémion's largest campus (the Scholars' District and the inner Notral Sevan)
+
+[[place-aulpnpstmm|Ombalon]]
+: The Epistémion's seat of counsel and keeping in the Arvon
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: Political patron and, through the Order, de facto controller
+
+[[place-elavendre|Élavendre]]
+: Aesthetic and bardic traditions influenced by the College of Aesthetics
+
+[[place-provenzrgn|Provenzia]]
+: Strong philosophical traditions, particularly in ethics and aesthetics

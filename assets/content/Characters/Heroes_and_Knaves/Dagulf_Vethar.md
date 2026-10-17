@@ -446,12 +446,17 @@ He leads a small gang of brigands—runaway Varokh serfs and petty criminals—w
 
 ## Plot Hooks
 
-1. **Ambush on the Imperial Road**—Dagbán and his brigands waylay the party while they travel a remote stretch of the old Vylarian trade road through Vristwald. The bandits are well-positioned among the dark pines and crumbling milestones, and fight with desperate ferocity, but Dagbán will flee into the fog-filled valleys if the tide turns against him, leaving his men to die.
+Ambush on the Imperial Road
+: Dagbán and his brigands waylay the party while they travel a remote stretch of the old Vylarian trade road through Vristwald. The bandits are well-positioned among the dark pines and crumbling milestones, and fight with desperate ferocity, but Dagbán will flee into the fog-filled valleys if the tide turns against him, leaving his men to die.
 
-2. **The Burned Caravan**—The party discovers a merchant caravan that has been looted and torched along the Vristwald road. Survivors describe a blue-eyed man with a pocked face who seemed to enjoy their suffering. The local Vylarian lord offers a reward for the brigands' capture or proof of their deaths.
+The Burned Caravan
+: The party discovers a merchant caravan that has been looted and torched along the Vristwald road. Survivors describe a blue-eyed man with a pocked face who seemed to enjoy their suffering. The local Vylarian lord offers a reward for the brigands' capture or proof of their deaths.
 
-3. **The Unwelcome Drinker**—Dagbán slips into a village tavern in disguise, gathering intelligence about upcoming caravans heading south to Vylaria. He strikes up conversation with the party, probing for useful information. If recognized or cornered, he has an escape route planned through the back alley and into the treeline.
+The Unwelcome Drinker
+: Dagbán slips into a village tavern in disguise, gathering intelligence about upcoming caravans heading south to Vylaria. He strikes up conversation with the party, probing for useful information. If recognized or cornered, he has an escape route planned through the back alley and into the treeline.
 
-4. **A Mother's Plea**—An aging Varokh woman from Dagbán's home village approaches the party. She wants her son brought back alive—not for justice, but because she still loves him despite everything. She offers what little she has, and her grief is real. The party must decide whether to honor her wish or take the easier bounty.
+A Mother's Plea
+: An aging Varokh woman from Dagbán's home village approaches the party. She wants her son brought back alive—not for justice, but because she still loves him despite everything. She offers what little she has, and her grief is real. The party must decide whether to honor her wish or take the easier bounty.
 
-5. **Dogs of War**—A clever reeve has heard of the brigand leader's fear of dogs and proposes using hounds to flush the gang from the forest. The party is hired to accompany the hunt through the ancient pines of Vristwald, but the dense woodland, the fog, and Dagbán's traps make the pursuit treacherous.
+Dogs of War
+: A clever reeve has heard of the brigand leader's fear of dogs and proposes using hounds to flush the gang from the forest. The party is hired to accompany the hunt through the ancient pines of Vristwald, but the dense woodland, the fog, and Dagbán's traps make the pursuit treacherous.

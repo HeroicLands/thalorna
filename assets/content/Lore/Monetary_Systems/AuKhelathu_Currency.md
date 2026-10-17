@@ -249,9 +249,20 @@ Like the Vylarian system, large sums of physical metal are heavy. 100 silver gez
 
 ## See Also
 
-- [[affiliation-garhalzi|Gar-Hálzi]]—the temple-treasury institution that issues and backs the system
-- [[affiliation-bthntrdhss|The Bethuan Trade-Houses]]—Bethuan commercial institutions using the system through Khelathi correspondents
-- [[affiliation-crwntrdskhrs|The Crown Trades of Okharis]]—Okhárian commercial institutions using the system through Khelathi correspondents
-- [[lore-vylrncrncy|Vylarian Currency]]—the parallel currency system used in the western and central **Ankaris** commonwealth; exchanged with Khelathi currency through changers at the trading ports
-- [[affiliation-garmelnu|Gar'Melnu]]—the Khelathi smiths' guild (which mints the temple-attested pieces under Gar-Hálzi's supervision)
-- [[affiliation-tarmex|The Tarmeks Orzan]]—the Vylarian central treasury; the institutional counterpart whose existence the Gar-Hálzi system is structurally distinct from
+[[affiliation-garhalzi|Gar-Hálzi]]
+: the temple-treasury institution that issues and backs the system
+
+[[affiliation-bthntrdhss|The Bethuan Trade-Houses]]
+: Bethuan commercial institutions using the system through Khelathi correspondents
+
+[[affiliation-crwntrdskhrs|The Crown Trades of Okharis]]
+: Okhárian commercial institutions using the system through Khelathi correspondents
+
+[[lore-vylrncrncy|Vylarian Currency]]
+: the parallel currency system used in the western and central **Ankaris** commonwealth; exchanged with Khelathi currency through changers at the trading ports
+
+[[affiliation-garmelnu|Gar'Melnu]]
+: the Khelathi smiths' guild (which mints the temple-attested pieces under Gar-Hálzi's supervision)
+
+[[affiliation-tarmex|The Tarmeks Orzan]]
+: the Vylarian central treasury; the institutional counterpart whose existence the Gar-Hálzi system is structurally distinct from

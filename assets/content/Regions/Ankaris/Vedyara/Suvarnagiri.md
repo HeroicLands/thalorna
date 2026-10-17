@@ -32,5 +32,8 @@ Its masters buy their stones by the year and sell their work through Collective 
 
 ## See Also
 
-- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the temple-republic seated here
-- [[place-suvarnagirijnpd|Suvarnageri Janapoda]]—the land
+[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+: the temple-republic seated here
+
+[[place-suvarnagirijnpd|Suvarnageri Janapoda]]
+: the land

@@ -22,5 +22,8 @@ Fire in the sheds is the thing the village fears. It keeps its own watch through
 
 ## See Also
 
-- [[place-dhanurkotajnpd|Danurkota Janapoda]]—the land
-- [[affiliation-dhnrktjnpd|Danurkota Janapoda]]—the temple-republic that holds it
+[[place-dhanurkotajnpd|Danurkota Janapoda]]
+: the land
+
+[[affiliation-dhnrktjnpd|Danurkota Janapoda]]
+: the temple-republic that holds it

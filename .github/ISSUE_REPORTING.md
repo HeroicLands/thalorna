@@ -9,10 +9,17 @@ repository. See §9 for where a given piece of work belongs.
 
 The core discipline is simple — four axes, each answering a different question:
 
-- **Type** — _"what shape of work is this?"_ One per issue, from a closed set of five.
-- **Priority** — _"how soon and how badly does this need doing?"_ A GitHub issue field, one value, defaults to Medium.
-- **Labels** — _"what is this about?"_ Categorization only, chosen **only** from the organisation's label set (§3). Never invent a label.
-- **Milestone** — _"which capability gate does this advance?"_ A native GitHub milestone (no due date), at most one, selected from a curated set (see §4).
+Type
+: _"what shape of work is this?"_ One per issue, from a closed set of five.
+
+Priority
+: _"how soon and how badly does this need doing?"_ A GitHub issue field, one value, defaults to Medium.
+
+Labels
+: _"what is this about?"_ Categorization only, chosen **only** from the organisation's label set (§3). Never invent a label.
+
+Milestone
+: _"which capability gate does this advance?"_ A native GitHub milestone (no due date), at most one, selected from a curated set (see §4).
 
 Type, priority, and milestone are structured single values (one each). Labels
 stack. Keep the roles separate: do not encode priority, urgency, or work-shape as a
@@ -93,14 +100,29 @@ If none fits, note the gap in the issue body for a maintainer to decide.
 
 **When to use them here**
 
-- `area/content` — setting material: notes, compendium packs, actors, items, journals, scenes, artwork.
-- `area/site` — the `/thalorna` site: Hugo build, layouts, content rendering, deployment.
-- `area/devops` — build, tooling, pack pipeline, release, repository configuration.
-- `area/documentation` — README, process and authoring guides.
-- `flag/breaking-change` — alters a published address, shortcode, link manifest entry, or pack compatibility.
-- `flag/security` — touches an attack surface: data integrity, macro/script execution, injection, or anything warranting private disclosure (§7).
-- `flag/regression` — something that previously worked and stopped; pairs with `type/bug`.
-- `area/system` and `area/tests` do not apply: this repository ships no system code and no test suite.
+`area/content`
+: setting material: notes, compendium packs, actors, items, journals, scenes, artwork.
+
+`area/site`
+: the `/thalorna` site: Hugo build, layouts, content rendering, deployment.
+
+`area/devops`
+: build, tooling, pack pipeline, release, repository configuration.
+
+`area/documentation`
+: README, process and authoring guides.
+
+`flag/breaking-change`
+: alters a published address, shortcode, link manifest entry, or pack compatibility.
+
+`flag/security`
+: touches an attack surface: data integrity, macro/script execution, injection, or anything warranting private disclosure (§7).
+
+`flag/regression`
+: something that previously worked and stopped; pairs with `type/bug`.
+
+`area/system` and `area/tests` do not apply
+: this repository ships no system code and no test suite.
 
 **Label rules**
 

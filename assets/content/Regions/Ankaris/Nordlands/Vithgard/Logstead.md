@@ -26,12 +26,22 @@ Logstead lives at the pace of its courts. When the ting sits, the stead fills wi
 
 ## At a Glance
 
-- Kind: a settlement, the law-stead of Vithgard.
-- Keeps: the kingdom's ting; the hov of Eidgar and its oaths; the Order of the Sworn Hand's mother-hall.
-- Offices: the Hofgudi of Logstead; the Council of Hands; the Voice of Logstead.
+Kind
+: a settlement, the law-stead of Vithgard.
+
+Keeps
+: the kingdom's ting; the hov of Eidgar and its oaths; the Order of the Sworn Hand's mother-hall.
+
+Offices
+: the Hofgudi of Logstead; the Council of Hands; the Voice of Logstead.
 
 ## See Also
 
-- [[place-vithgard|Vithgard]]—the land around the stead
-- [[affiliation-eidhond|Order of the Sworn Hand]]—the knightly order whose mother-hall stands here
-- [[lore-eidgardty|Eidgar]]—the god whose hov keeps the oaths
+[[place-vithgard|Vithgard]]
+: the land around the stead
+
+[[affiliation-eidhond|Order of the Sworn Hand]]
+: the knightly order whose mother-hall stands here
+
+[[lore-eidgardty|Eidgar]]
+: the god whose hov keeps the oaths

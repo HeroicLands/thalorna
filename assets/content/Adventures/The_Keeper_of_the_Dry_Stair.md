@@ -140,7 +140,14 @@ The wind has uncovered the Dry Stair. [[place-mezhvadez|Mezhvadez]] is a vault t
 
 ## See Also
 
-- [[place-mezhvadez|Mezhvadez]]—the vault and what the tribes say of it
-- [[lore-theshadow|The Shadow]]—the chaos from which every undead thing stems
-- [[lore-dunhariclt|Dunhari]]—how the Dunhari bury their dead
-- [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]—the gathering against an enemy none could meet alone
+[[place-mezhvadez|Mezhvadez]]
+: the vault and what the tribes say of it
+
+[[lore-theshadow|The Shadow]]
+: the chaos from which every undead thing stems
+
+[[lore-dunhariclt|Dunhari]]
+: how the Dunhari bury their dead
+
+[[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]
+: the gathering against an enemy none could meet alone

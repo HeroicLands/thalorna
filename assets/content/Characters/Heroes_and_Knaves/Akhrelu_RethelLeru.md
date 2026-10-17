@@ -451,20 +451,40 @@ Akhrelu also carries a private mission to discover and preserve knowledge about 
 
 ### Strengths
 
-- **Masterful Animalcraft**: His ability to train, communicate with, and command animals borders on the mystical. His animalcraft, with four specializations, represents decades of dedicated study and natural talent combined. Wild creatures calm in his presence; aggressive beasts become obedient companions.
-- **Endurance**: A constitution built for long hours working with demanding animals, often in harsh conditions. His endurance allows him to maintain focus and physical capability even during grueling multi-day training sessions.
-- **Superior Tracking and Survival**: Years living in the borderlands have granted him expert understanding of wilderness navigation, animal signs, and resource procurement. His tracking and survival skills make him much sought for hunting expeditions or locating lost creatures.
-- **Skilled Riding**: His skill with horses and other mounts, with five riding specializations, makes him a fine mounted combatant and scout.
-- **Keen Awareness**: A sharp perception and awareness that allow him to notice subtle signs others overlook—the signs of illness in animals, the approach of dangerous creatures, the emotional state of those around him.
-- **Combat Capability**: While not a warrior by vocation, his work with dangerous beasts has honed his martial skills. His melee and throwing skills make him reasonably competent in direct conflict.
+Masterful Animalcraft
+: His ability to train, communicate with, and command animals borders on the mystical. His animalcraft, with four specializations, represents decades of dedicated study and natural talent combined. Wild creatures calm in his presence; aggressive beasts become obedient companions.
+
+Endurance
+: A constitution built for long hours working with demanding animals, often in harsh conditions. His endurance allows him to maintain focus and physical capability even during grueling multi-day training sessions.
+
+Superior Tracking and Survival
+: Years living in the borderlands have granted him expert understanding of wilderness navigation, animal signs, and resource procurement. His tracking and survival skills make him much sought for hunting expeditions or locating lost creatures.
+
+Skilled Riding
+: His skill with horses and other mounts, with five riding specializations, makes him a fine mounted combatant and scout.
+
+Keen Awareness
+: A sharp perception and awareness that allow him to notice subtle signs others overlook—the signs of illness in animals, the approach of dangerous creatures, the emotional state of those around him.
+
+Combat Capability
+: While not a warrior by vocation, his work with dangerous beasts has honed his martial skills. His melee and throwing skills make him reasonably competent in direct conflict.
 
 ### Weaknesses
 
-- **Distrust of Humans**: Years of isolation and bitter experiences with those who mistreat animals have left Akhrelu skeptical of human motives. He assumes wrongdoing until proven otherwise, making alliance-building difficult.
-- **Poor Communication Skills**: His minimal eloquence and tendency toward brevity make him ineffective at negotiation, persuasion, or any dealing requiring nuance or a feel for others' moods. He often inadvertently offends through bluntness.
-- **Emotional Vulnerability Around Animals**: While his emotional distance from humans serves him well, his attachment to animals he trains creates a vulnerability. Those who threaten his beasts can manipulate him into poor decisions.
-- **Limited Creativity in Non-Animal Contexts**: His low creativity means he struggles with unfamiliar problems outside the domain of animal training. Complex social or political puzzles frustrate him.
-- **Aging Frame**: At thirty-eight, he remains physically capable, but the years of demanding physical labor are accumulating. He tires more easily than he did in youth and recovers more slowly from injury.
+Distrust of Humans
+: Years of isolation and bitter experiences with those who mistreat animals have left Akhrelu skeptical of human motives. He assumes wrongdoing until proven otherwise, making alliance-building difficult.
+
+Poor Communication Skills
+: His minimal eloquence and tendency toward brevity make him ineffective at negotiation, persuasion, or any dealing requiring nuance or a feel for others' moods. He often inadvertently offends through bluntness.
+
+Emotional Vulnerability Around Animals
+: While his emotional distance from humans serves him well, his attachment to animals he trains creates a vulnerability. Those who threaten his beasts can manipulate him into poor decisions.
+
+Limited Creativity in Non-Animal Contexts
+: His low creativity means he struggles with unfamiliar problems outside the domain of animal training. Complex social or political puzzles frustrate him.
+
+Aging Frame
+: At thirty-eight, he remains physically capable, but the years of demanding physical labor are accumulating. He tires more easily than he did in youth and recovers more slowly from injury.
 
 ## Social
 
@@ -494,12 +514,17 @@ Khelarven the Brutal
 
 ## Plot Hooks
 
-1. **The Dying Mentor's Legacy**: Akhrelu receives word that Master Latari, ancient and ailing, has requested his presence before death. Latari claims to possess knowledge of a storied beast—a creature of immense rarity and power—that he has never taught Akhrelu about, fearing the responsibility too great. Now, believing his end is near, Latari wishes to pass this knowledge forward. The problem: the creature may be more than myth, and powerful forces seek to control it.
+The Dying Mentor's Legacy
+: Akhrelu receives word that Master Latari, ancient and ailing, has requested his presence before death. Latari claims to possess knowledge of a storied beast—a creature of immense rarity and power—that he has never taught Akhrelu about, fearing the responsibility too great. Now, believing his end is near, Latari wishes to pass this knowledge forward. The problem: the creature may be more than myth, and powerful forces seek to control it.
 
-2. **The Cursed Animal**: A desperate merchant brings Akhrelu an animal of obvious quality that nonetheless proves impossible to train—it rages against handlers, resists all conventional methods, and seems to suffer from an internal torment. Akhrelu's investigation reveals signs suggesting magical corruption or curse. To help the creature, he must work where animal care and occult forces meet, seeking allies among those with arcane knowledge.
+The Cursed Animal
+: A desperate merchant brings Akhrelu an animal of obvious quality that nonetheless proves impossible to train—it rages against handlers, resists all conventional methods, and seems to suffer from an internal torment. Akhrelu's investigation reveals signs suggesting magical corruption or curse. To help the creature, he must work where animal care and occult forces meet, seeking allies among those with arcane knowledge.
 
-3. [[affiliation-zeghetqelunu|Zeghet'Qelunu]]: Akhrelu discovers evidence of an organized poaching operation targeting the rarest animals in the Empire. The operation is larger and better-organized than any he has encountered before, with military-style structure and significant resources. Following the trail leads him toward powerful figures in government and nobility, forcing him to choose between his loyalty to Lord Vaskan and his obligation to protect the creatures under threat.
+[[affiliation-zeghetqelunu|Zeghet'Qelunu]]
+: Akhrelu discovers evidence of an organized poaching operation targeting the rarest animals in the Empire. The operation is larger and better-organized than any he has encountered before, with military-style structure and significant resources. Following the trail leads him toward powerful figures in government and nobility, forcing him to choose between his loyalty to Lord Vaskan and his obligation to protect the creatures under threat.
 
-4. **The Stolen Beast**: One of Akhrelu's prized trained animals—a magnificent creature worth a fortune and irreplaceable to him—is stolen by persons unknown. The investigation leads him into the criminal underworld of Au'Khelathu's cities, where he must employ unfamiliar tactics of deception and information-gathering to track the theft. The trail suggests involvement of Khelarven, but the conspiracy appears far larger than personal rivalry.
+The Stolen Beast
+: One of Akhrelu's prized trained animals—a magnificent creature worth a fortune and irreplaceable to him—is stolen by persons unknown. The investigation leads him into the criminal underworld of Au'Khelathu's cities, where he must employ unfamiliar tactics of deception and information-gathering to track the theft. The trail suggests involvement of Khelarven, but the conspiracy appears far larger than personal rivalry.
 
-5. **The Sacred Charge**: The Temple of Sacred Beasts approaches Akhrelu with a desperate commission: a sacred creature, essential to maintaining the religious ceremonies that bind the Empire together, is dying of an unknown affliction. They believe Akhrelu's skills represent the only hope for the animal's recovery. Success would grant him influence and resources unprecedented in his life; failure would devastate both the creature and the social order itself. As Akhrelu works to understand the creature's illness, he uncovers evidence suggesting the affliction was deliberately induced—and the perpetrator is someone high within the Temple hierarchy.
+The Sacred Charge
+: The Temple of Sacred Beasts approaches Akhrelu with a desperate commission: a sacred creature, essential to maintaining the religious ceremonies that bind the Empire together, is dying of an unknown affliction. They believe Akhrelu's skills represent the only hope for the animal's recovery. Success would grant him influence and resources unprecedented in his life; failure would devastate both the creature and the social order itself. As Akhrelu works to understand the creature's illness, he uncovers evidence suggesting the affliction was deliberately induced—and the perpetrator is someone high within the Temple hierarchy.

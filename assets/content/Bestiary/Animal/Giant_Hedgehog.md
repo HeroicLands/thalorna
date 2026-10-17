@@ -301,20 +301,29 @@ Rolled up, the hedgehog shows quills on every side and can be hurt only from the
 
 ## Attributes
 
-- **Strength:** 8-13 (1d6+7)
+Strength
+: 8-13 (1d6+7)
 
-- **Endurance:** 10-15 (1d6+9)
+Endurance
+: 10-15 (1d6+9)
 
-- **Dexterity:** 9-14 (1d6+8)
+Dexterity
+: 9-14 (1d6+8)
 
-- **Agility:** 8-11 (1d4+7)
+Agility
+: 8-11 (1d4+7)
 
-- **Perception:** 10-15 (1d6+9)
+Perception
+: 10-15 (1d6+9)
 
-- **Aura:** 7-10 (1d4+6)
+Aura
+: 7-10 (1d4+6)
 
-- **Will:** 9-14 (1d6+8)
+Will
+: 9-14 (1d6+8)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

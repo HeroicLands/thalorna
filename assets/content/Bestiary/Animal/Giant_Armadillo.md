@@ -305,20 +305,29 @@ It digs through earth and soft rock faster than men with picks, and is out of si
 
 ## Attributes
 
-- **Strength:** 12-17 (1d6+11)
+Strength
+: 12-17 (1d6+11)
 
-- **Endurance:** 14-19 (1d6+13)
+Endurance
+: 14-19 (1d6+13)
 
-- **Dexterity:** 7-10 (1d4+6)
+Dexterity
+: 7-10 (1d4+6)
 
-- **Agility:** 6-9 (1d4+5)
+Agility
+: 6-9 (1d4+5)
 
-- **Perception:** 8-13 (1d6+7)
+Perception
+: 8-13 (1d6+7)
 
-- **Aura:** 7-10 (1d4+6)
+Aura
+: 7-10 (1d4+6)
 
-- **Will:** 10-15 (1d6+9)
+Will
+: 10-15 (1d6+9)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

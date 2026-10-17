@@ -436,12 +436,17 @@ Skeptics within the tribe who challenge her authority.
 
 ## Plot Hooks
 
-1. **The Shaman's Dilemma**—Verinna faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
+The Shaman's Dilemma
+: Verinna faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
 
-2. **Old Grudges**—Skeptics within the tribe who challenge her authority. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: Skeptics within the tribe who challenge her authority. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Verinna's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+Echoes of the Past
+: Something from Verinna's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Verinna depends upon. She must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Provenzia threaten to upend the social order that Verinna depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Verinna the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Verinna the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

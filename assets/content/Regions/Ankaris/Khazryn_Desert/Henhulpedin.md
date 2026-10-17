@@ -49,9 +49,20 @@ Under the filled trench lie the war-house's weapons, its horse-furniture and the
 
 ## See Also
 
-- [[place-zargandur|Zargandur]]—the city whose north wall it lies beyond
-- [[lore-bloodfield|Blood-fields]]—what a blood-field is, and why a lesser one breaks minds
-- [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the people whose dead it holds
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—the tribes who took the city
-- [[place-swoasisbelt|Tellumel]]—the belt it lies in
-- [[lore-turemrecital|The Recitation of the Breaking]]—the names the Tellumi recite instead of reading them here
+[[place-zargandur|Zargandur]]
+: the city whose north wall it lies beyond
+
+[[lore-bloodfield|Blood-fields]]
+: what a blood-field is, and why a lesser one breaks minds
+
+[[affiliation-khzrncnfdrtn|Tellumi Confederation]]
+: the people whose dead it holds
+
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: the tribes who took the city
+
+[[place-swoasisbelt|Tellumel]]
+: the belt it lies in
+
+[[lore-turemrecital|The Recitation of the Breaking]]
+: the names the Tellumi recite instead of reading them here

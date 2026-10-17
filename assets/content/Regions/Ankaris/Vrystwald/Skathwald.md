@@ -25,6 +25,11 @@ The concentration gives this reach its character, but it grants no common comman
 
 ## See Also
 
-- [[place-vrystwald|Vristwald]]—the wider forest
-- [[place-grkrhlmrgn|Grukarholm]]—the area where Grukar are most prevalent
-- [[place-thornwald|Thornwald]] and [[place-vandstein|Vandstein]]—the neighboring reaches
+[[place-vrystwald|Vristwald]]
+: the wider forest
+
+[[place-grkrhlmrgn|Grukarholm]]
+: the area where Grukar are most prevalent
+
+[[place-thornwald|Thornwald]] and [[place-vandstein|Vandstein]]
+: the neighboring reaches

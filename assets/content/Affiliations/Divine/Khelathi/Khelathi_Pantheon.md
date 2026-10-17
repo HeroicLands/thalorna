@@ -105,9 +105,14 @@ So the gods are held to be present at the moments that bind people. They witness
 
 Every major temple in Au'Khelathu keeps the same three ranks, a structure so ancient that the Khelathi hold it divinely ordained. The Gar-Au stands above all three as nominal supreme priest of every god, and all temple authority is claimed to flow down from that office.
 
-- Thaz'Lekhau ("Great of Sacred Power")—the High Priest or High Priestess of a major temple and the supreme religious authority of one cult. Each major temple has one, who manages its holdings, speaks with the voice of the god and conducts the great seasonal rites. The title carries great political weight, and in the great temples only the Thaz'Lekhau and the Gar-Au may enter the innermost sanctuary where the god's image dwells.
-- Lem'Nelgir ("Servant of the God")—the ordained priesthood and the working body of the temple. Lem'Nelgir conduct the daily rites, manage temple lands and finances, teach in the temple schools, perform divinations, and carry out the temple's part in local government.
-- Wazu ("Purified One")—the acolytes of the long temple education. A Wazu enters the temple school as a child or youth and studies sacred texts, ritual, history, mathematics, medicine and the reading of omens for years before ordination.
+Thaz'Lekhau ("Great of Sacred Power")
+: the High Priest or High Priestess of a major temple and the supreme religious authority of one cult. Each major temple has one, who manages its holdings, speaks with the voice of the god and conducts the great seasonal rites. The title carries great political weight, and in the great temples only the Thaz'Lekhau and the Gar-Au may enter the innermost sanctuary where the god's image dwells.
+
+Lem'Nelgir ("Servant of the God")
+: the ordained priesthood and the working body of the temple. Lem'Nelgir conduct the daily rites, manage temple lands and finances, teach in the temple schools, perform divinations, and carry out the temple's part in local government.
+
+Wazu ("Purified One")
+: the acolytes of the long temple education. A Wazu enters the temple school as a child or youth and studies sacred texts, ritual, history, mathematics, medicine and the reading of omens for years before ordination.
 
 The cults are separate and often rivals. The one body where their high priests sit together is the **[Sedjet Halzi]{.name data-type="affiliation/governmental"}**, the **Council of the High Priests**, which governs the [[affiliation-garhalzi|Gar-Hálzi]] temple-treasuries.
 
@@ -142,9 +147,20 @@ The coherence of the scheme impressed the [[place-helionis|Helionite]] philosoph
 
 ## See Also
 
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the civilization
-- [[lore-khelathiclt|Khelathi]]—the two ledgers, the Weighing and the dead
-- [[lore-khelunulekha|Khelunu Lekhau]]—the sacred power the temple schools teach
-- [[affiliation-garhalzi|Gar-Hálzi]]—the temple-treasuries the high priests govern
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the western **Ankarian** counterpart
-- [[skill-khelathlng|Khelathi Language]]—naming conventions
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: the civilization
+
+[[lore-khelathiclt|Khelathi]]
+: the two ledgers, the Weighing and the dead
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the sacred power the temple schools teach
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: the temple-treasuries the high priests govern
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the western **Ankarian** counterpart
+
+[[skill-khelathlng|Khelathi Language]]
+: naming conventions

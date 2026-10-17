@@ -70,10 +70,23 @@ To the **east and west** the forests fade gradually into coastal terrain that ha
 
 ## See Also
 
-- [[place-xerathia|Zerathia Continent]]—parent continent
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—northern empire, cautious trade partner
-- [[affiliation-okharis|Okharis]]—three-flamed kingdom of the northern crescent
-- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—northern neighbor, between Okharis and Au'Khelathu
-- [[place-ekundavlg|Ékunda]]—southern savannah outpost
-- [[lore-bikoclt|Biko]]—the forest peoples and their four traditions
-- [[lore-flksinale|Sinale]]—rumored deep-forest enclaves
+[[place-xerathia|Zerathia Continent]]
+: parent continent
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: northern empire, cautious trade partner
+
+[[affiliation-okharis|Okharis]]
+: three-flamed kingdom of the northern crescent
+
+[[affiliation-mtrrchybth|Matriarchy of Bethua]]
+: northern neighbor, between Okharis and Au'Khelathu
+
+[[place-ekundavlg|Ékunda]]
+: southern savannah outpost
+
+[[lore-bikoclt|Biko]]
+: the forest peoples and their four traditions
+
+[[lore-flksinale|Sinale]]
+: rumored deep-forest enclaves

@@ -8,11 +8,20 @@ tags: [draft, first-gods]
 data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
-- **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]
-- **Seat:** [[place-owlhollow|The Owl Hollow]]
-- **Territory:** the hollow and the wood immediately about it, in the Áelendan Tribal Lands
-- **Posture:** Venerated
-- **Met through:** [[skill-ossendasprt|Óssenda Spirit Power]]
+Kind
+: Animal-kin, of [[lore-thekindred|the Kindred]]
+
+Seat
+: [[place-owlhollow|The Owl Hollow]]
+
+Territory
+: the hollow and the wood immediately about it, in the Áelendan Tribal Lands
+
+Posture
+: Venerated
+
+Met through
+: [[skill-ossendasprt|Óssenda Spirit Power]]
 
 Óssenda presides over the owls of the wood in the Owl Hollow, and over a narrower thing
 besides: what is said aloud at night within her territory. The Áelendan of the surrounding country are careful

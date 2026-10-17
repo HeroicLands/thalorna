@@ -32,6 +32,11 @@ The stair is the longest climb of the three passes, steps the whole way, and it 
 
 ## See Also
 
-- [[place-klhrring|The Ring]]—the mountains the stair climbs
-- [[place-klhrlake|The Bowl Lake]]—the shore at the foot of the inner face
-- [[place-klhrcldpss|The Cloud Pass]], [[place-klhrwstsddl|the Western Saddle]] and [[place-klhrkthrgap|the Kuethori Gap]]—the other ways through the Ring
+[[place-klhrring|The Ring]]
+: the mountains the stair climbs
+
+[[place-klhrlake|The Bowl Lake]]
+: the shore at the foot of the inner face
+
+[[place-klhrcldpss|The Cloud Pass]], [[place-klhrwstsddl|the Western Saddle]] and [[place-klhrkthrgap|the Kuethori Gap]]
+: the other ways through the Ring

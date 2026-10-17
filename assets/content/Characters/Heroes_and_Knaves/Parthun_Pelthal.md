@@ -455,27 +455,37 @@ Parthun seeks to consolidate his power and expand his influence to the highest l
 
 ### Strengths
 
-- **Master of Administrative Systems**: Parthun possesses an encyclopedic knowledge of regulations, precedents, and procedures. He can cite obscure clauses, discover loopholes, and manipulate bureaucratic structures in ways that accomplish his objectives while remaining technically legal.
+Master of Administrative Systems
+: Parthun possesses an encyclopedic knowledge of regulations, precedents, and procedures. He can cite obscure clauses, discover loopholes, and manipulate bureaucratic structures in ways that accomplish his objectives while remaining technically legal.
 
-- **Strategic Patience**: He is willing to invest years of preparation for advantage that may not be realized for a decade. This long-term perspective allows him to position himself far ahead of more impulsive competitors.
+Strategic Patience
+: He is willing to invest years of preparation for advantage that may not be realized for a decade. This long-term perspective allows him to position himself far ahead of more impulsive competitors.
 
-- **Network and Influence**: Through years of careful cultivation, he has built a network of informants, subordinates, and allies throughout the administrative apparatus. He learns things before official channels, and can arrange for events to occur that appear to be natural bureaucratic processes.
+Network and Influence
+: Through years of careful cultivation, he has built a network of informants, subordinates, and allies throughout the administrative apparatus. He learns things before official channels, and can arrange for events to occur that appear to be natural bureaucratic processes.
 
-- **Linguistic Precision**: He has a gift for language—particularly the dense, technical language of law and administration. He can take a regulation and interpret it in multiple ways, or craft language that achieves his goals while satisfying the letter if not the spirit of existing law.
+Linguistic Precision
+: He has a gift for language—particularly the dense, technical language of law and administration. He can take a regulation and interpret it in multiple ways, or craft language that achieves his goals while satisfying the letter if not the spirit of existing law.
 
-- **Emotional Control**: His face rarely betrays his actual thoughts or feelings. He is difficult to pressure, intimidate, or manipulate, as his emotions are a tool he consciously controls rather than forces that control him.
+Emotional Control
+: His face rarely betrays his actual thoughts or feelings. He is difficult to pressure, intimidate, or manipulate, as his emotions are a tool he consciously controls rather than forces that control him.
 
 ### Weaknesses
 
-- **Physical Limitation**: The scar on his foot leaves him with a slight limp that worsens under stress or extended exertion. He is not suited to physical conflict and would flee rather than fight in most situations.
+Physical Limitation
+: The scar on his foot leaves him with a slight limp that worsens under stress or extended exertion. He is not suited to physical conflict and would flee rather than fight in most situations.
 
-- **Reliance on Systems**: Outside of formal bureaucratic structures, his advantages largely disappear. He is at a loss in situations where authority derives from force, lineage, or personal charisma rather than administrative position.
+Reliance on Systems
+: Outside of formal bureaucratic structures, his advantages largely disappear. He is at a loss in situations where authority derives from force, lineage, or personal charisma rather than administrative position.
 
-- **Inability to Inspire Loyalty**: Those who work with Parthun serve him out of fear, obligation, or pragmatic self-interest rather than loyalty or affection. This makes his network fragile if circumstances change.
+Inability to Inspire Loyalty
+: Those who work with Parthun serve him out of fear, obligation, or pragmatic self-interest rather than loyalty or affection. This makes his network fragile if circumstances change.
 
-- **Visible Advancement Creates Enemies**: As he rises in power, he necessarily displaces others and creates rivals. These displaced people understand how the bureaucratic system works and can potentially use it against him.
+Visible Advancement Creates Enemies
+: As he rises in power, he necessarily displaces others and creates rivals. These displaced people understand how the bureaucratic system works and can potentially use it against him.
 
-- **Contempt for Others**: His belief in the fundamental incompetence of most people occasionally manifests as arrogance, leading him to underestimate threats or to treat potential allies dismissively.
+Contempt for Others
+: His belief in the fundamental incompetence of most people occasionally manifests as arrogance, leading him to underestimate threats or to treat potential allies dismissively.
 
 ## Social
 
@@ -508,12 +518,17 @@ The Bureaucrats' Guilds
 
 ## Plot Hooks
 
-1. **The Auditor from the Capital**: A representative from the Lord Chancellor's office arrives in Valdun announcing a comprehensive audit of all municipal administrative functions. The auditor, a sharp-eyed woman named **Thecia Rothel**, seems to take unusual interest in the Records department and Parthun's particular domain. He becomes increasingly aware that she is asking questions that are far more specific than a routine audit would warrant—she appears to be investigating him personally. Worse, she has begun to examine transactions that Parthun was quite certain he had successfully obscured. Now he must determine whether she is acting on actual evidence, whether her investigation is a political maneuver by his enemies, or whether she might be someone he can turn to his advantage before she uncovers something that could destroy him.
+The Auditor from the Capital
+: A representative from the Lord Chancellor's office arrives in Valdun announcing a comprehensive audit of all municipal administrative functions. The auditor, a sharp-eyed woman named **Thecia Rothel**, seems to take unusual interest in the Records department and Parthun's particular domain. He becomes increasingly aware that she is asking questions that are far more specific than a routine audit would warrant—she appears to be investigating him personally. Worse, she has begun to examine transactions that Parthun was quite certain he had successfully obscured. Now he must determine whether she is acting on actual evidence, whether her investigation is a political maneuver by his enemies, or whether she might be someone he can turn to his advantage before she uncovers something that could destroy him.
 
-2. **The Blackmail That Cannot Be Refused**: A figure approaches Parthun with documents that detail some of his more legally questionable activities over the years. The person claims not to be interested in exposing him; instead, they want him to use his administrative influence to accomplish something specific: the release of a person currently imprisoned for a serious crime, the alteration of property records to favor a particular buyer, or perhaps the blocking of an investigation into one of their business ventures. The blackmailer has taken precautions so that if anything happens to them, the documentation will be released. Parthun must decide whether to comply, to attempt to discredit or eliminate the threat, or to somehow turn the situation to his own advantage—all while being aware that blackmailers rarely accept a single payment and tend to return for more.
+The Blackmail That Cannot Be Refused
+: A figure approaches Parthun with documents that detail some of his more legally questionable activities over the years. The person claims not to be interested in exposing him; instead, they want him to use his administrative influence to accomplish something specific: the release of a person currently imprisoned for a serious crime, the alteration of property records to favor a particular buyer, or perhaps the blocking of an investigation into one of their business ventures. The blackmailer has taken precautions so that if anything happens to them, the documentation will be released. Parthun must decide whether to comply, to attempt to discredit or eliminate the threat, or to somehow turn the situation to his own advantage—all while being aware that blackmailers rarely accept a single payment and tend to return for more.
 
-3. **Conspiracy Among the Bureaucrats**: Parthun discovers evidence that suggests a faction within the city government is planning to use a legal mechanism (possibly an inspection, regulation change, or formal complaint) to discredit and remove him from his position. The conspiracy involves several people he has worked with for years, which suggests either that his network is less reliable than he believed or that someone is impersonating his associates to frame them. He must identify the actual conspirators while maintaining his own cover and position, all while navigating the legal system he knows so well being used against him in unexpected ways.
+Conspiracy Among the Bureaucrats
+: Parthun discovers evidence that suggests a faction within the city government is planning to use a legal mechanism (possibly an inspection, regulation change, or formal complaint) to discredit and remove him from his position. The conspiracy involves several people he has worked with for years, which suggests either that his network is less reliable than he believed or that someone is impersonating his associates to frame them. He must identify the actual conspirators while maintaining his own cover and position, all while navigating the legal system he knows so well being used against him in unexpected ways.
 
-4. **The Inheritance Dispute That Conceals Darker Secrets**: A prominent merchant family approaches Parthun requesting his assistance in a complex inheritance dispute. The ostensible issue is the interpretation of a will and the application of property law, matters well within his expertise. However, as Parthun investigates, he begins to uncover evidence that suggests the dispute may be a cover for something far darker—potentially murder, magical manipulation, or a crime significant enough that powerful people are willing to spend considerable resources to keep it hidden. Helping either faction could place him in danger, but refusing to assist may make enemies of people capable of causing him serious harm.
+The Inheritance Dispute That Conceals Darker Secrets
+: A prominent merchant family approaches Parthun requesting his assistance in a complex inheritance dispute. The ostensible issue is the interpretation of a will and the application of property law, matters well within his expertise. However, as Parthun investigates, he begins to uncover evidence that suggests the dispute may be a cover for something far darker—potentially murder, magical manipulation, or a crime significant enough that powerful people are willing to spend considerable resources to keep it hidden. Helping either faction could place him in danger, but refusing to assist may make enemies of people capable of causing him serious harm.
 
-5. **The Secret Archive Beneath the Archives**: While conducting maintenance or repairs in the deep sections of the city's records archive, workers discover evidence of a hidden chamber sealed for decades. When it is opened, it is found to contain an archive of documents that predate the current administration—records from a previous regime that were supposed to have been destroyed. The documents contain information that could expose historical crimes, political conspiracies, or powerful secrets that certain people would go to great lengths to keep hidden. Parthun becomes aware that he is now custodian of information that multiple factions desperately want, and he must decide whether to suppress it, leverage it for power, or find some way to use it as insurance against future threats.
+The Secret Archive Beneath the Archives
+: While conducting maintenance or repairs in the deep sections of the city's records archive, workers discover evidence of a hidden chamber sealed for decades. When it is opened, it is found to contain an archive of documents that predate the current administration—records from a previous regime that were supposed to have been destroyed. The documents contain information that could expose historical crimes, political conspiracies, or powerful secrets that certain people would go to great lengths to keep hidden. Parthun becomes aware that he is now custodian of information that multiple factions desperately want, and he must decide whether to suppress it, leverage it for power, or find some way to use it as insurance against future threats.

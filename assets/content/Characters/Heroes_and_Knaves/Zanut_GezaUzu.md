@@ -458,31 +458,43 @@ Zanut is driven by the desire to heal suffering and to prove that her brother's 
 
 ### Strengths
 
-- **Herbal and Alchemical Knowledge**: Her herblore and alchemy combine to make her extraordinarily knowledgeable about plant-based remedies. She understands the properties of hundreds of herbs, knows how to cultivate rare species, and can create complex potions and poultices of real medicinal value.
+Herbal and Alchemical Knowledge
+: Her herblore and alchemy combine to make her extraordinarily knowledgeable about plant-based remedies. She understands the properties of hundreds of herbs, knows how to cultivate rare species, and can create complex potions and poultices of real medicinal value.
 
-- **Outstanding Medical Skill**: Her physician's training gives her formal knowledge of anatomy, diagnosis, and treatment that complements her herbal knowledge. She can diagnose complex illnesses, understand the course of a disease, and prescribe treatments that address root causes rather than mere symptoms.
+Outstanding Medical Skill
+: Her physician's training gives her formal knowledge of anatomy, diagnosis, and treatment that complements her herbal knowledge. She can diagnose complex illnesses, understand the course of a disease, and prescribe treatments that address root causes rather than mere symptoms.
 
-- **Scholarly Foundation**: Her script, folklore, heraldry, and mathematics provide the grounding that allows her to understand texts, maintain careful records, and grasp the theoretical foundations of her practice. She is well-read and capable of advanced study.
+Scholarly Foundation
+: Her script, folklore, heraldry, and mathematics provide the grounding that allows her to understand texts, maintain careful records, and grasp the theoretical foundations of her practice. She is well-read and capable of advanced study.
 
-- **Reasoning and Perception**: Her reasoning and perception make her an excellent diagnostician. She can analyze complex medical situations, recognize patterns, and synthesize information from multiple sources into coherent understanding.
+Reasoning and Perception
+: Her reasoning and perception make her an excellent diagnostician. She can analyze complex medical situations, recognize patterns, and synthesize information from multiple sources into coherent understanding.
 
-- **Combat Capability and Self-Defense**: Though not a warrior, her quickness, her archery, and her skill with a blade, combined with her dexterity, make her capable of defending herself. She is not defenseless, though she avoids violence when possible.
+Combat Capability and Self-Defense
+: Though not a warrior, her quickness, her archery, and her skill with a blade, combined with her dexterity, make her capable of defending herself. She is not defenseless, though she avoids violence when possible.
 
-- **Ritual and Spiritual Knowledge**: Her knowledge of ritual and spirit connects her to the spiritual dimensions of her work, allowing her to understand and participate in the ceremonial aspects of healing that are important in Au'Khelathu's culture.
+Ritual and Spiritual Knowledge
+: Her knowledge of ritual and spirit connects her to the spiritual dimensions of her work, allowing her to understand and participate in the ceremonial aspects of healing that are important in Au'Khelathu's culture.
 
 ### Weaknesses
 
-- **Insufficient Strength**: Strength is her weakest quality; she is physically weak. She cannot overpower anyone or perform tasks requiring brute force. This is primarily relevant only in combat or situations demanding physical strength.
+Insufficient Strength
+: Strength is her weakest quality; she is physically weak. She cannot overpower anyone or perform tasks requiring brute force. This is primarily relevant only in combat or situations demanding physical strength.
 
-- **Poor Eloquence**: Her eloquence is notably poor, making it difficult for her to advocate for herself, negotiate prices, or defend her position against criticism. She struggles to articulate her values clearly, leaving her vulnerable to those more verbally skilled.
+Poor Eloquence
+: Her eloquence is notably poor, making it difficult for her to advocate for herself, negotiate prices, or defend her position against criticism. She struggles to articulate her values clearly, leaving her vulnerable to those more verbally skilled.
 
-- **Naive Generosity and Poor Judgment of Character**: Her fellow-feeling and charm are strong, but combined with her emotional vulnerability regarding her brother's memory, they lead her to consistently misjudge people's intentions. She trusts too easily and can be manipulated by those who present themselves as needing help.
+Naive Generosity and Poor Judgment of Character
+: Her fellow-feeling and charm are strong, but combined with her emotional vulnerability regarding her brother's memory, they lead her to consistently misjudge people's intentions. She trusts too easily and can be manipulated by those who present themselves as needing help.
 
-- **Inadequate Pricing and Business Management**: She has no explicit business skills and tends to drastically undercharge for her remedies. Those well able to pay often pay less than market value, while those without resources receive treatment at no cost. This chronic underpricing prevents her from saving money or improving her situation.
+Inadequate Pricing and Business Management
+: She has no explicit business skills and tends to drastically undercharge for her remedies. Those well able to pay often pay less than market value, while those without resources receive treatment at no cost. This chronic underpricing prevents her from saving money or improving her situation.
 
-- **Vulnerability to Religious Pressure**: While not explicitly weak, she is sensitive to accusations of heresy or improper practice. Church officials' suspicions cause her real distress, and she lacks the confidence to stand firmly against religious authority.
+Vulnerability to Religious Pressure
+: While not explicitly weak, she is sensitive to accusations of heresy or improper practice. Church officials' suspicions cause her real distress, and she lacks the confidence to stand firmly against religious authority.
 
-- **Emotional Fragility Regarding Her Brother**: Any mention of loss, death, or family tragedy can bring on a grief that temporarily incapacitates her. She has not truly come to terms with her loss, instead pouring it into her work.
+Emotional Fragility Regarding Her Brother
+: Any mention of loss, death, or family tragedy can bring on a grief that temporarily incapacitates her. She has not truly come to terms with her loss, instead pouring it into her work.
 
 ## Social
 
@@ -518,12 +530,17 @@ A Manipulative Former Patient
 
 ## Plot Hooks
 
-1. **The Poisoning Accusation**: A prominent figure dies under mysterious circumstances after seeking treatment from Zanut. Though the death was not caused by her remedies—indeed, her potions were the only thing temporarily alleviating the victim's suffering—Inquisitor Zinlegir seizes the opportunity to formally accuse her of poisoning. She must gather evidence of her innocence while discovering the true cause of death, all while her reputation is systematically destroyed and patients cease coming to her out of fear.
+The Poisoning Accusation
+: A prominent figure dies under mysterious circumstances after seeking treatment from Zanut. Though the death was not caused by her remedies—indeed, her potions were the only thing temporarily alleviating the victim's suffering—Inquisitor Zinlegir seizes the opportunity to formally accuse her of poisoning. She must gather evidence of her innocence while discovering the true cause of death, all while her reputation is systematically destroyed and patients cease coming to her out of fear.
 
-2. **The Brother's Resurrection Possibility**: A scholar arrives claiming to represent an organization that has developed a ritual that might allow temporary resurrection of the recently dead—a procedure that would allow Zanut to speak with Khelor one final time. The cost is extraordinary, and the scholar's claims are suspiciously convenient to Zanut's deepest emotional desire. She can pursue an impossible hope or recognize it as a fraud designed to exploit her grief.
+The Brother's Resurrection Possibility
+: A scholar arrives claiming to represent an organization that has developed a ritual that might allow temporary resurrection of the recently dead—a procedure that would allow Zanut to speak with Khelor one final time. The cost is extraordinary, and the scholar's claims are suspiciously convenient to Zanut's deepest emotional desire. She can pursue an impossible hope or recognize it as a fraud designed to exploit her grief.
 
-3. **The Plague That Defies All Remedies**: A disease of mysterious origin begins spreading through the region, and despite her best efforts, Zanut's remedies prove ineffective against it. She must either develop entirely new treatments while the disease spreads, potentially requiring collaboration with those she distrusts, or admit that her knowledge, for all its depth, has limits. The pressure of watching people die despite her efforts brings on a crisis of faith in her own purpose.
+The Plague That Defies All Remedies
+: A disease of mysterious origin begins spreading through the region, and despite her best efforts, Zanut's remedies prove ineffective against it. She must either develop entirely new treatments while the disease spreads, potentially requiring collaboration with those she distrusts, or admit that her knowledge, for all its depth, has limits. The pressure of watching people die despite her efforts brings on a crisis of faith in her own purpose.
 
-4. **The Apprentice She Cannot Refuse**: A young person with a real healing gift and desperate circumstances seeks apprenticeship with Zanut. Taking an apprentice would expand her capacity and potentially preserve her knowledge, but it would also force her to emotionally engage with another person in ways she has avoided since Khelor's death. The young person may also harbor dangerous secrets or abilities that attract unwanted attention.
+The Apprentice She Cannot Refuse
+: A young person with a real healing gift and desperate circumstances seeks apprenticeship with Zanut. Taking an apprentice would expand her capacity and potentially preserve her knowledge, but it would also force her to emotionally engage with another person in ways she has avoided since Khelor's death. The young person may also harbor dangerous secrets or abilities that attract unwanted attention.
 
-5. **The Merchant Noble's Dark Request**: Noblewoman Qiya reveals her true purpose: she wishes Zanut to create a remedy that produces the appearance of death while maintaining life—useful for faking someone's demise for political purposes. The request is explicit blackmail; Qiya controls information that could destroy Zanut, and demands she comply. Zanut can create something that violates her ethics, refuse and risk exposure, or find a third path that defeats both Qiya's plan and the blackmail, which would likely require dangerous allies and hard choices.
+The Merchant Noble's Dark Request
+: Noblewoman Qiya reveals her true purpose: she wishes Zanut to create a remedy that produces the appearance of death while maintaining life—useful for faking someone's demise for political purposes. The request is explicit blackmail; Qiya controls information that could destroy Zanut, and demands she comply. Zanut can create something that violates her ethics, refuse and risk exposure, or find a third path that defeats both Qiya's plan and the blackmail, which would likely require dangerous allies and hard choices.

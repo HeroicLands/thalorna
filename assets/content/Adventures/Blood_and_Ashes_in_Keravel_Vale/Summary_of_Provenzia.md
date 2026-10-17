@@ -31,19 +31,26 @@ The kingdom's religious tolerance is another area of cultural complexity. While 
 
 #### Major Personalities
 
-- **King [Kralen Lédravren]{.name data-type="being/npc"}**: The reigning monarch of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]], King Kralen strives to maintain unity in a kingdom marked by cultural and political divisions. Known for his pragmatic leadership, he faces challenges from both ambitious nobles and external threats from the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]].
+King [Kralen Lédravren]{.name data-type="being/npc"}
+: The reigning monarch of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]], King Kralen strives to maintain unity in a kingdom marked by cultural and political divisions. Known for his pragmatic leadership, he faces challenges from both ambitious nobles and external threats from the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]].
 
-- **Princess of [[place-gwefavel|Gefavel]]**: A powerful magnate whose clan's influence was diminished under the previous king. Resentful of past failures, she focuses on restoring her family’s prestige, leveraging her stronghold in Gefavel to exert significant regional influence.
+Princess of [[place-gwefavel|Gefavel]]
+: A powerful magnate whose clan's influence was diminished under the previous king. Resentful of past failures, she focuses on restoring her family’s prestige, leveraging her stronghold in Gefavel to exert significant regional influence.
 
-- **Earl of [[place-degavel|Degavel]] ([Rutal Pélanvri]{.name data-type="being/npc"})**: A prominent and influential noble, the Earl of Degavel is embroiled in political rivalries, particularly with the Count of [[place-athavel|Atavel]]. His leadership in the southern regions of Provenzia gives him significant sway in both court politics and military strategy.
+Earl of [[place-degavel|Degavel]] ([Rutal Pélanvri]{.name data-type="being/npc"})
+: A prominent and influential noble, the Earl of Degavel is embroiled in political rivalries, particularly with the Count of [[place-athavel|Atavel]]. His leadership in the southern regions of Provenzia gives him significant sway in both court politics and military strategy.
 
-- **[Jarvel al Pélanvri na Torvila Keravel]{.name data-type="being/npc"}**: Brother to the Earl of Degavel and a key military leader, Jarvel serves as the Elgar of [[place-caerceravel|Keravel Castle]] and **Marshal of the Western Army** of Provenzia. Tasked with defending the kingdom’s easternmost frontier, his command is critical in managing both banditry and incursions from Tarvénia.
+[Jarvel al Pélanvri na Torvila Keravel]{.name data-type="being/npc"}
+: Brother to the Earl of Degavel and a key military leader, Jarvel serves as the Elgar of [[place-caerceravel|Keravel Castle]] and **Marshal of the Western Army** of Provenzia. Tasked with defending the kingdom’s easternmost frontier, his command is critical in managing both banditry and incursions from Tarvénia.
 
-- **Count of Atavel**: A politically embattled noble facing internal family disputes. His clashes with the Earl of Degavel reflect broader struggles among the magnates, which weaken the kingdom’s cohesion during times of external threat.
+Count of Atavel
+: A politically embattled noble facing internal family disputes. His clashes with the Earl of Degavel reflect broader struggles among the magnates, which weaken the kingdom’s cohesion during times of external threat.
 
-- **[Selvare Zuravel]{.name data-type="being/npc"}**: Baron of [[affiliation-brnyzrvln|Zuravlen]] and [[place-kyvarel|Kivarel]], Selvare is a prominent supporter of the [Order of the Burning Brand]{.name data-type="affiliation/order"}. His clan’s alignment with this religious faction places him at the center of significant political and spiritual influence.
+[Selvare Zuravel]{.name data-type="being/npc"}
+: Baron of [[affiliation-brnyzrvln|Zuravlen]] and [[place-kyvarel|Kivarel]], Selvare is a prominent supporter of the [Order of the Burning Brand]{.name data-type="affiliation/order"}. His clan’s alignment with this religious faction places him at the center of significant political and spiritual influence.
 
-- **[Avaarl Zylavren]{.name data-type="being/npc"}**: Earl of Hárivren and the most senior Black Flame noble in Provenzia, Avaarl commands great respect and power. As Selvare’s overlord, he exemplifies the integration of nobility with the religious hierarchy, further complicating Provenzia’s cultural and political landscape.
+[Avaarl Zylavren]{.name data-type="being/npc"}
+: Earl of Hárivren and the most senior Black Flame noble in Provenzia, Avaarl commands great respect and power. As Selvare’s overlord, he exemplifies the integration of nobility with the religious hierarchy, further complicating Provenzia’s cultural and political landscape.
 
 #### Historical Primer
 

@@ -93,15 +93,38 @@ Across the sea beyond the Taruzelian islands lie the coasts of [[place-xerathia|
 
 ## See Also
 
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation that holds the region
-- [[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]], [[affiliation-orashion|Órashion]]—the five city-states
-- [[place-eastrnmrch|Eastern March]], [[place-southrnmrch|Southern March]], [[place-northrnmrch|Northern March]]—the League's border districts
-- [[place-byzaris|Bizaris]], [[place-chrysamar|Chrisamar]], [[place-thalassos|Thálassos]], [[place-kostaros|Kostaros]], [[place-selimara|Selímara]], [[place-nykhtion|Nikhtion]]—lesser towns
-- [[skill-byzarnlng|Bizarian Language]]—the trade tongue
-- [[place-heladrgn|Hellád Region]]—parent region
-- [[place-helionis|Helionis]]—western neighbor
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—eastern neighbor
-- [[place-velanthrgn|Velanthia Region]]—northern neighbor
-- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—southern neighbor
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the islands off its coast
-- [[place-dunharargn|Dunhara Region]]—the caravan country beyond Amradad
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation that holds the region
+
+[[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]], [[affiliation-orashion|Órashion]]
+: the five city-states
+
+[[place-eastrnmrch|Eastern March]], [[place-southrnmrch|Southern March]], [[place-northrnmrch|Northern March]]
+: the League's border districts
+
+[[place-byzaris|Bizaris]], [[place-chrysamar|Chrisamar]], [[place-thalassos|Thálassos]], [[place-kostaros|Kostaros]], [[place-selimara|Selímara]], [[place-nykhtion|Nikhtion]]
+: lesser towns
+
+[[skill-byzarnlng|Bizarian Language]]
+: the trade tongue
+
+[[place-heladrgn|Hellád Region]]
+: parent region
+
+[[place-helionis|Helionis]]
+: western neighbor
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: eastern neighbor
+
+[[place-velanthrgn|Velanthia Region]]
+: northern neighbor
+
+[[affiliation-kngdmmrdd|Kingdom of Amradad]]
+: southern neighbor
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the islands off its coast
+
+[[place-dunharargn|Dunhara Region]]
+: the caravan country beyond Amradad

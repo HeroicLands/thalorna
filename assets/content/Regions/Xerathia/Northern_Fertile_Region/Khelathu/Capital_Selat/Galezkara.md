@@ -35,8 +35,11 @@ The **Sun's Road** ([[place-waluqaa|Wal-Uqa'a]]) runs dead straight through all 
 
 The road is laid to the solstice line:
 
-- At midsummer dawn the sun rises exactly down the eastern road—the longest day, the sun at its strongest, born along the road of the living.
-- At midwinter dusk it sets exactly down the western road into the necropolis—the shortest day, the sun at its weakest, dying along the road of the dead.
+At midsummer dawn the sun rises exactly down the eastern road
+: the longest day, the sun at its strongest, born along the road of the living.
+
+At midwinter dusk it sets exactly down the western road into the necropolis
+: the shortest day, the sun at its weakest, dying along the road of the dead.
 
 The **Temple of Uqa'a** stands at the pivot of both. _The law of the empire forbids any structure to break the view from the temple to the horizon along either road._ The prohibition has stood through every dynasty, and a building that creeps into the sightline is pulled down without appeal, however great its owner.
 
@@ -62,14 +65,29 @@ Here too is **the Measure**, the igelu-gauge: a graduated well and stair, kept b
 
 The east bank is a patchwork of named quarters, grown rather than planned, strung along the Sun's Road or branching off it:
 
-- [[place-qeltge|Qelt-Ge]] ("the Forefront")—the monumental plaza at the head of the Bridge of the Coming-Forth, where the Sun's Road meets the river facing the island. It is the civic heart, where proclamations are read and the great crowds gather.
-- [[place-zuleri|Zu-Leri]] ("the **High City**")—the oldest and highest tell, crowned by the great Temple of [[lore-psaqarudty|Saq'aru]], craft-god and patron of the capital, and by the walled mansions of the priestly and noble houses. The deepest layers of the city's past lie under its streets.
-- [[place-garmedjatozo|Gar-Medjatozo]] ("the **House of Records**")—the bureau district: the treasuries, the Genzet'Palu council hall, the great scribal schools, and the archives where the empire's paperwork lives.
-- [[place-amqelger|Amqel-Ger]] ("the **Great Quay**")—the working riverfront downstream of Qelt-Ge, with its docks and warehouses, the [[affiliation-garhalzi|Gar-Hálzi]] banking houses, the [[affiliation-zebequzut|Zebeku'Zut]] merchant halls, and the foreign shore where [[lore-taruzelianclt|Taruzelian]] and [[place-midhalnrgn|Mídhalión]] factors keep their compounds.
-- [[place-lutlemu|Lut-Lemu]] ("the **Place of Craftsmen**")—the artisan quarters of coppersmiths, potters, faience-makers, weavers and woodworkers, loud and smoky and kept downstream and downwind.
-- [[place-wazulet|The Wazulet]] ("the [[place-wazulet|Pure Place]]")—a faintly shunned quarter by the necropolis ferry, where the embalmers and coffin-makers live and the dead pass through on their way to the western shore.
-- [[place-garqethar|Gar-Qethar]]—the sprawling mudbrick laborers' warrens on the low, flood-prone ground, dense and poor, built among and on top of old ruins.
-- [[place-zelnut|The Zelnut]]—a quarter built among and over the tombs of fallen dynasties: half-robbed, squatted, a maze of the dead city standing inside the living one.
+[[place-qeltge|Qelt-Ge]] ("the Forefront")
+: the monumental plaza at the head of the Bridge of the Coming-Forth, where the Sun's Road meets the river facing the island. It is the civic heart, where proclamations are read and the great crowds gather.
+
+[[place-zuleri|Zu-Leri]] ("the **High City**")
+: the oldest and highest tell, crowned by the great Temple of [[lore-psaqarudty|Saq'aru]], craft-god and patron of the capital, and by the walled mansions of the priestly and noble houses. The deepest layers of the city's past lie under its streets.
+
+[[place-garmedjatozo|Gar-Medjatozo]] ("the **House of Records**")
+: the bureau district: the treasuries, the Genzet'Palu council hall, the great scribal schools, and the archives where the empire's paperwork lives.
+
+[[place-amqelger|Amqel-Ger]] ("the **Great Quay**")
+: the working riverfront downstream of Qelt-Ge, with its docks and warehouses, the [[affiliation-garhalzi|Gar-Hálzi]] banking houses, the [[affiliation-zebequzut|Zebeku'Zut]] merchant halls, and the foreign shore where [[lore-taruzelianclt|Taruzelian]] and [[place-midhalnrgn|Mídhalión]] factors keep their compounds.
+
+[[place-lutlemu|Lut-Lemu]] ("the **Place of Craftsmen**")
+: the artisan quarters of coppersmiths, potters, faience-makers, weavers and woodworkers, loud and smoky and kept downstream and downwind.
+
+[[place-wazulet|The Wazulet]] ("the [[place-wazulet|Pure Place]]")
+: a faintly shunned quarter by the necropolis ferry, where the embalmers and coffin-makers live and the dead pass through on their way to the western shore.
+
+[[place-garqethar|Gar-Qethar]]
+: the sprawling mudbrick laborers' warrens on the low, flood-prone ground, dense and poor, built among and on top of old ruins.
+
+[[place-zelnut|The Zelnut]]
+: a quarter built among and over the tombs of fallen dynasties: half-robbed, squatted, a maze of the dead city standing inside the living one.
 
 ### Gardens, Lakes, and Open Ground
 
@@ -129,22 +147,52 @@ Below the common crime are the forbidden cults, the rites the temples have outla
 
 ## Notable Features
 
-- [[place-yathtelgu|The Sacred Island (Yath-Telgu)]]—the primeval mound, holding the palace, the Great Temple of Uqa'a and the Measure, behind the empire's only true fortified wall
-- [[place-waluqaa|The Sun's Road (Wal-Uqa'a)]]—the solstice-aligned axis running through the whole city and across both bridges, its horizon sightlines protected by ancient law
-- The two solstice festivals—the midsummer **Coming-Forth** and the midwinter **Going-Down**, when the sun rises and sets straight down the god's road
-- The living city—a grown half-circle of mudbrick tells, walled enclosures and named quarters
-- The necropolis—the small, strict stone rectangle on the western desert shelf, ranked along the death-road
-- The central bureaucracy and scribal schools—the treasuries, the Genzet'Palu, and the road up for a clever child of any birth
-- [[place-waligelu|Wal-Igelu]]—the Drowned Way, a dead river channel turned into a chain of noble pleasure gardens
-- The Meglay and the Zeglar's courts—the city guard and the tiered justice that keep order in a capital of half a million
-- The tomb-robbing underworld—organized plunder of the dead, the black market in grave goods, and the hunted cults
+[[place-yathtelgu|The Sacred Island (Yath-Telgu)]]
+: the primeval mound, holding the palace, the Great Temple of Uqa'a and the Measure, behind the empire's only true fortified wall
+
+[[place-waluqaa|The Sun's Road (Wal-Uqa'a)]]
+: the solstice-aligned axis running through the whole city and across both bridges, its horizon sightlines protected by ancient law
+
+The two solstice festivals
+: the midsummer **Coming-Forth** and the midwinter **Going-Down**, when the sun rises and sets straight down the god's road
+
+The living city
+: a grown half-circle of mudbrick tells, walled enclosures and named quarters
+
+The necropolis
+: the small, strict stone rectangle on the western desert shelf, ranked along the death-road
+
+The central bureaucracy and scribal schools
+: the treasuries, the Genzet'Palu, and the road up for a clever child of any birth
+
+[[place-waligelu|Wal-Igelu]]
+: the Drowned Way, a dead river channel turned into a chain of noble pleasure gardens
+
+The Meglay and the Zeglar's courts
+: the city guard and the tiered justice that keep order in a capital of half a million
+
+The tomb-robbing underworld
+: organized plunder of the dead, the black market in grave goods, and the hunted cults
 
 ## See Also
 
-- [[affiliation-capitalselat|The Capital Selat]]—the province around the city
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the empire
-- [[place-yathtelgu|Yath-Telgu]]—the Sacred Island: palace, Great Temple of Uqa'a and the Measure
-- [[place-zugezer|Zu-Gezer]]—the royal necropolis across the river
-- [[place-khelautithnt|Khelaut-Ithnet]]—the burial fields of everyone else
-- [[place-garlegulu|Gar-Legulu]]—temple-estate town of the selat
-- [[affiliation-genzetpalu|Genzet'Palu]]—[[affiliation-genzetpalu|Council of the Nobles]] · [[affiliation-khelathpnthn|Khelathi Pantheon]]—the gods (Uqa'a, Saq'aru)
+[[affiliation-capitalselat|The Capital Selat]]
+: the province around the city
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: the empire
+
+[[place-yathtelgu|Yath-Telgu]]
+: the Sacred Island: palace, Great Temple of Uqa'a and the Measure
+
+[[place-zugezer|Zu-Gezer]]
+: the royal necropolis across the river
+
+[[place-khelautithnt|Khelaut-Ithnet]]
+: the burial fields of everyone else
+
+[[place-garlegulu|Gar-Legulu]]
+: temple-estate town of the selat
+
+[[affiliation-genzetpalu|Genzet'Palu]]
+: [[affiliation-genzetpalu|Council of the Nobles]] · [[affiliation-khelathpnthn|Khelathi Pantheon]]—the gods (Uqa'a, Saq'aru)

@@ -71,11 +71,20 @@ data:
 sohl: {system: {commonSkills: [tarvenlng]}}
 ---
 
-- **Overlord:** [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (nominal—pays tribute for self-governance charter)
-- **Language:** Tarveni (with Provenzal and Taruzeli widely spoken)
-- **Naming Convention:** [[skill-tarvenlng|Tarveni]]
-- **Pantheon:** [[affiliation-arldnpnthn|Aureldian]]
-- **Government:** Council of merchant families (the Consejarath)
+Overlord
+: [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (nominal—pays tribute for self-governance charter)
+
+Language
+: Tarveni (with Provenzal and Taruzeli widely spoken)
+
+Naming Convention
+: [[skill-tarvenlng|Tarveni]]
+
+Pantheon
+: [[affiliation-arldnpnthn|Aureldian]]
+
+Government
+: Council of merchant families (the Consejarath)
 
 ## Overview
 
@@ -95,9 +104,20 @@ The Free City of Valthari uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden
 
 ## See Also
 
-- [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]—The loose overlord
-- [[place-tarvenirgn|Tarvénia Region]]—Regional overview
-- [[place-valthari|Valthari]]—The city itself
-- [[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]—The three kingdoms
-- [[affiliation-frtrtryskrth|Free Territory of Eskarath]]—Fellow Tarvenan free polity
-- [[place-provenzrgn|Provenzia Region]], [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—Major trading partners
+[[affiliation-kingdmtrvn|Kingdom of Tarvénia]]
+: The loose overlord
+
+[[place-tarvenirgn|Tarvénia Region]]
+: Regional overview
+
+[[place-valthari|Valthari]]
+: The city itself
+
+[[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]
+: The three kingdoms
+
+[[affiliation-frtrtryskrth|Free Territory of Eskarath]]
+: Fellow Tarvenan free polity
+
+[[place-provenzrgn|Provenzia Region]], [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: Major trading partners

@@ -93,8 +93,17 @@ The priesthood profits immensely from this transit trade, levying heavy fees and
 
 ## See Also
 
-- [[affiliation-kuxiixbal|K'ushi Ish'bal]]—The frontier lands to the north
-- [[place-xelemixbalrgn|Shelem Ish'bal]]—The forsaken wastes beyond
-- [[place-xelemchalix|Shelem Ch'alish]]—The last temple-fortress before the abyss
-- [[affiliation-itzanpnthn|Itsani]]—The priesthood that maintains order at the threshold
-- [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]]—The land Q'aptel Tsa'kul holds
+[[affiliation-kuxiixbal|K'ushi Ish'bal]]
+: The frontier lands to the north
+
+[[place-xelemixbalrgn|Shelem Ish'bal]]
+: The forsaken wastes beyond
+
+[[place-xelemchalix|Shelem Ch'alish]]
+: The last temple-fortress before the abyss
+
+[[affiliation-itzanpnthn|Itsani]]
+: The priesthood that maintains order at the threshold
+
+[[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]]
+: The land Q'aptel Tsa'kul holds

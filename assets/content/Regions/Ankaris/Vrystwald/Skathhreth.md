@@ -41,6 +41,11 @@ The ford is crossed by day or not at all, and never in the thaw-week. Each sprin
 
 ## See Also
 
-- [[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]—the battle, and the talisman broken after it
-- [[lore-bloodfield|Blood-fields]]—what a blood-field is, and the Varokh account of one
-- [[place-moldunriver|Moldún River]]—the river the ford crosses
+[[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]
+: the battle, and the talisman broken after it
+
+[[lore-bloodfield|Blood-fields]]
+: what a blood-field is, and the Varokh account of one
+
+[[place-moldunriver|Moldún River]]
+: the river the ford crosses

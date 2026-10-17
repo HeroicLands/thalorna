@@ -57,7 +57,14 @@ Floodplain farming, the sugar, the manuscript trade out of the scriptoria of [[p
 
 ## See Also
 
-- [[affiliation-rajaprjnpd|Rajepur Janapoda]]—the temple-republic that holds this land
-- [[place-vedyarargn|Vedyara Region]]—the enclosing region
-- [[place-rajapur|Rajepur]]—the temple-seat
-- [[place-mahanadi|The Mahanodi]]—the river the villages keep their distance from
+[[affiliation-rajaprjnpd|Rajepur Janapoda]]
+: the temple-republic that holds this land
+
+[[place-vedyarargn|Vedyara Region]]
+: the enclosing region
+
+[[place-rajapur|Rajepur]]
+: the temple-seat
+
+[[place-mahanadi|The Mahanodi]]
+: the river the villages keep their distance from

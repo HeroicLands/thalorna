@@ -283,20 +283,29 @@ A Dire Wolf defending its territory or protecting pack members fights with suici
 
 ## Attributes
 
-- **Strength:** 17-22 (1d6+16)
+Strength
+: 17-22 (1d6+16)
 
-- **Endurance:** 15-20 (1d6+14)
+Endurance
+: 15-20 (1d6+14)
 
-- **Dexterity:** 10-15 (1d6+9)
+Dexterity
+: 10-15 (1d6+9)
 
-- **Agility:** 12-17 (1d6+11)
+Agility
+: 12-17 (1d6+11)
 
-- **Perception:** 13-18 (1d6+12)
+Perception
+: 13-18 (1d6+12)
 
-- **Aura:** 9-14 (1d6+8)
+Aura
+: 9-14 (1d6+8)
 
-- **Will:** 13-18 (1d6+12)
+Will
+: 13-18 (1d6+12)
 
-- **Reasoning:** 8-13 (1d6+7)
+Reasoning
+: 8-13 (1d6+7)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

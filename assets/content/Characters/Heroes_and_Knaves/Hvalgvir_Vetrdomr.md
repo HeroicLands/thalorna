@@ -448,20 +448,40 @@ Hvalgvir's driving force is the belief that civilization itself rests upon small
 
 ### Strengths
 
-- **Culinary Mastery**: Hvalgvir's cooking does more than feed people; his meals are memorable experiences that evoke emotional responses. He understands how flavors and textures can soothe wounds both bodily and spiritual.
-- **Brewing Genius**: His ales, meads, and fermented beverages are in demand throughout the kingdom. He has developed techniques and flavors of his own that cannot be easily copied.
-- **Emotional Intelligence**: He reads people accurately and understands the unspoken currents in a room. He can calm heated situations through seemingly casual comments.
-- **Strategic Thinking**: His warm demeanor covers a sharp tactical mind. He has built and sustained his business through careful planning, observation, and adaptation.
-- **Conflict Resolution**: He possesses an almost supernatural ability to mediate disputes and find common ground, though this talent comes from hard-won experience rather than innate gift.
-- **Extensive Network**: Years of hospitality have built him a web of connections throughout Nordheim. Merchants, nobles, mercenaries, and common folk all consider him a trusted ally or acquaintance.
+Culinary Mastery
+: Hvalgvir's cooking does more than feed people; his meals are memorable experiences that evoke emotional responses. He understands how flavors and textures can soothe wounds both bodily and spiritual.
+
+Brewing Genius
+: His ales, meads, and fermented beverages are in demand throughout the kingdom. He has developed techniques and flavors of his own that cannot be easily copied.
+
+Emotional Intelligence
+: He reads people accurately and understands the unspoken currents in a room. He can calm heated situations through seemingly casual comments.
+
+Strategic Thinking
+: His warm demeanor covers a sharp tactical mind. He has built and sustained his business through careful planning, observation, and adaptation.
+
+Conflict Resolution
+: He possesses an almost supernatural ability to mediate disputes and find common ground, though this talent comes from hard-won experience rather than innate gift.
+
+Extensive Network
+: Years of hospitality have built him a web of connections throughout Nordheim. Merchants, nobles, mercenaries, and common folk all consider him a trusted ally or acquaintance.
 
 ### Weaknesses
 
-- **Excessive Trust**: His openness and faith in human nature, while admirable, have made him vulnerable. He often fails to recognize predatory intent until it is too late.
-- **Physical Decline**: His aging body cannot match the demands he places upon it. Long periods of labor leave him exhausted, and he is no longer capable of the physical feats required in real combat.
-- **Emotional Burden**: The weight of being a refuge to so many has accumulated over decades. He carries the sorrows and struggles of his patrons within his own heart, and the burden grows heavier each year.
-- **Conflict Avoidance in Personal Matters**: While skilled at mediating others' disputes, he avoids addressing problems within his own life—unresolved tensions with his brother Keth, questions about his legacy and succession, and doubts about his own worthiness.
-- **Blindness to Larger Problems**: For all his understanding of human nature, Hvalgvir sometimes fails to recognize larger patterns and conspiracies that extend beyond his personal sphere of influence.
+Excessive Trust
+: His openness and faith in human nature, while admirable, have made him vulnerable. He often fails to recognize predatory intent until it is too late.
+
+Physical Decline
+: His aging body cannot match the demands he places upon it. Long periods of labor leave him exhausted, and he is no longer capable of the physical feats required in real combat.
+
+Emotional Burden
+: The weight of being a refuge to so many has accumulated over decades. He carries the sorrows and struggles of his patrons within his own heart, and the burden grows heavier each year.
+
+Conflict Avoidance in Personal Matters
+: While skilled at mediating others' disputes, he avoids addressing problems within his own life—unresolved tensions with his brother Keth, questions about his legacy and succession, and doubts about his own worthiness.
+
+Blindness to Larger Problems
+: For all his understanding of human nature, Hvalgvir sometimes fails to recognize larger patterns and conspiracies that extend beyond his personal sphere of influence.
 
 ## Social
 
@@ -500,12 +520,17 @@ The Odholm Community Council
 
 ## Plot Hooks
 
-1. **The Succession Question**: Hvalgvir is aging, and he has no clear heir for his beloved inn. His nephew—Keth's son—approaches him with an offer: in exchange for naming him successor, the young man will help Hvalgvir discover the extent of his father's (Keth's) campaign against him. But the nephew has his own hidden purpose, and accepting his help may inadvertently enable a scheme that threatens the entire community.
+The Succession Question
+: Hvalgvir is aging, and he has no clear heir for his beloved inn. His nephew—Keth's son—approaches him with an offer: in exchange for naming him successor, the young man will help Hvalgvir discover the extent of his father's (Keth's) campaign against him. But the nephew has his own hidden purpose, and accepting his help may inadvertently enable a scheme that threatens the entire community.
 
-2. **The Plague of False Ale**: A mysterious illness begins spreading through Odholm, affecting those who have consumed ale from the Serpent's Hearth. Hvalgvir is horrified to discover that someone has deliberately contaminated his supplies with subtle poison. The taint spreads faster than he can contain it, and he must work with both allies and dangerous outsiders to identify the poisoner while his reputation—and his patrons' lives—hang in the balance.
+The Plague of False Ale
+: A mysterious illness begins spreading through Odholm, affecting those who have consumed ale from the Serpent's Hearth. Hvalgvir is horrified to discover that someone has deliberately contaminated his supplies with subtle poison. The taint spreads faster than he can contain it, and he must work with both allies and dangerous outsiders to identify the poisoner while his reputation—and his patrons' lives—hang in the balance.
 
-3. **The Noble's Dark Secret**: A prominent noble confides in Hvalgvir, sharing a terrible secret that, if revealed, would destroy her family and shift the politics of Nordheim. She asks for his absolute discretion, and he grants it—until adventurers arrive seeking information about her, and Hvalgvir must weigh his code of hospitality against whatever catastrophe they're trying to avert.
+The Noble's Dark Secret
+: A prominent noble confides in Hvalgvir, sharing a terrible secret that, if revealed, would destroy her family and shift the politics of Nordheim. She asks for his absolute discretion, and he grants it—until adventurers arrive seeking information about her, and Hvalgvir must weigh his code of hospitality against whatever catastrophe they're trying to avert.
 
-4. **The Resurrection of Keth**: Word arrives that Hvalgvir's younger brother, long thought lost to a trading accident years ago, has been discovered alive in distant lands, with vast wealth and mysterious new allegiances. Keth returns to Odholm with claims to both the family brewery and the Serpent's Hearth, and he brings with him shadowy associates whose intentions are deeply unclear. Hvalgvir must face this reunion without knowing whether his brother is truly returned or an imposter, or what dark purposes lie behind his sudden reappearance.
+The Resurrection of Keth
+: Word arrives that Hvalgvir's younger brother, long thought lost to a trading accident years ago, has been discovered alive in distant lands, with vast wealth and mysterious new allegiances. Keth returns to Odholm with claims to both the family brewery and the Serpent's Hearth, and he brings with him shadowy associates whose intentions are deeply unclear. Hvalgvir must face this reunion without knowing whether his brother is truly returned or an imposter, or what dark purposes lie behind his sudden reappearance.
 
-5. **The Oracle at the Inn**: An ancient prophet or oracle arrives at the inn, claiming to possess knowledge of a coming darkness that will test every principle Hvalgvir has built his life upon. She offers cryptic guidance in exchange for shelter and resources, but her predictions grow increasingly specific and disturbing. Hvalgvir must judge whether she is a true seer or mad, while the events she predicted begin—slowly, terrifyingly—to manifest around him.
+The Oracle at the Inn
+: An ancient prophet or oracle arrives at the inn, claiming to possess knowledge of a coming darkness that will test every principle Hvalgvir has built his life upon. She offers cryptic guidance in exchange for shelter and resources, but her predictions grow increasingly specific and disturbing. Hvalgvir must judge whether she is a true seer or mad, while the events she predicted begin—slowly, terrifyingly—to manifest around him.

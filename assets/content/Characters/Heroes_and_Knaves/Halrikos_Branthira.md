@@ -445,27 +445,37 @@ Hálrikos is motivated by a deep, almost religious belief that proper procedure,
 
 ### Strengths
 
-- **Encyclopedic Legal Knowledge**: Hálrikos has internalized every regulation, statute, precedent, and procedural rule governing Tarvénia, making him capable of citing law and procedure in nearly any situation and of identifying how existing rules apply to novel situations.
+Encyclopedic Legal Knowledge
+: Hálrikos has internalized every regulation, statute, precedent, and procedural rule governing Tarvénia, making him capable of citing law and procedure in nearly any situation and of identifying how existing rules apply to novel situations.
 
-- **Institutional Architecture**: He possesses an almost supernatural ability to organize complex systems of information, to identify gaps in regulation, and to design procedural solutions that address problems without requiring entirely new laws.
+Institutional Architecture
+: He possesses an almost supernatural ability to organize complex systems of information, to identify gaps in regulation, and to design procedural solutions that address problems without requiring entirely new laws.
 
-- **Procedural Precision**: His mastery of proper forms, official procedures, and bureaucratic ritual means that he can navigate almost any government situation, and his documents are legally airtight in ways that protect his allies and confound his enemies.
+Procedural Precision
+: His mastery of proper forms, official procedures, and bureaucratic ritual means that he can navigate almost any government situation, and his documents are legally airtight in ways that protect his allies and confound his enemies.
 
-- **Reliability**: In a world of shifting loyalties and political convenience, Hálrikos is absolutely reliable—his word is his bond, and he follows through on every commitment because deviation from commitment is contrary to his nature.
+Reliability
+: In a world of shifting loyalties and political convenience, Hálrikos is absolutely reliable—his word is his bond, and he follows through on every commitment because deviation from commitment is contrary to his nature.
 
-- **Writing Mastery**: His skill in Script is strong, allowing him to draft complex legal documents, carefully worded advisories, and devastating administrative critiques that are both beautiful and lethal in their precision.
+Writing Mastery
+: His skill in Script is strong, allowing him to draft complex legal documents, carefully worded advisories, and devastating administrative critiques that are both beautiful and lethal in their precision.
 
 ### Weaknesses
 
-- **Emotional Isolation**: Hálrikos's inability to connect emotionally with others has left him friendless and deeply lonely, a fact he refuses to acknowledge and therefore never addresses.
+Emotional Isolation
+: Hálrikos's inability to connect emotionally with others has left him friendless and deeply lonely, a fact he refuses to acknowledge and therefore never addresses.
 
-- **Inflexibility**: His devotion to procedure and precedent means that he struggles to recognize when situations require adaptation or when rules have outlived their usefulness; he clings to the old way because it is the old way.
+Inflexibility
+: His devotion to procedure and precedent means that he struggles to recognize when situations require adaptation or when rules have outlived their usefulness; he clings to the old way because it is the old way.
 
-- **Vulnerability to Ambiguity**: In situations where regulations are unclear or conflicting, Hálrikos becomes indecisive, often freezing rather than making the kind of pragmatic judgment that other people make naturally.
+Vulnerability to Ambiguity
+: In situations where regulations are unclear or conflicting, Hálrikos becomes indecisive, often freezing rather than making the kind of pragmatic judgment that other people make naturally.
 
-- **Physical Weakness**: Years of sedentary work have left him weak and unhealthy; he has modest endurance and minimal ability to defend himself physically, making him dependent on others for protection.
+Physical Weakness
+: Years of sedentary work have left him weak and unhealthy; he has modest endurance and minimal ability to defend himself physically, making him dependent on others for protection.
 
-- **Contempt for Intuition**: Hálrikos dismisses decisions made on intuition, instinct, or emotional grounds, viewing them as irrational; this causes him to underestimate the practical wisdom of those who make good decisions through non-rational means.
+Contempt for Intuition
+: Hálrikos dismisses decisions made on intuition, instinct, or emotional grounds, viewing them as irrational; this causes him to underestimate the practical wisdom of those who make good decisions through non-rational means.
 
 ## Social
 
@@ -513,12 +523,17 @@ The Order of Brazemas
 
 ## Plot Hooks
 
-1. **The Impossible Contradiction**: A situation arises that appears to violate two fundamental and apparently equal regulations—one cannot follow both laws and still act lawfully. The city magistrate comes to Hálrikos expecting him to resolve the contradiction by finding some subtle loophole or precedent that reconciles the two rules. However, after deep investigation, Hálrikos discovers that no such reconciliation exists and never has. Moreover, he finds evidence suggesting that a previous city magistrate created this contradiction deliberately as a way to maintain flexibility in enforcement—a violation of legal principle that horrifies him. He must now decide whether to report this historical deception and undermine the city's legal foundations, or to keep the knowledge secret and violate his core principle of institutional integrity.
+The Impossible Contradiction
+: A situation arises that appears to violate two fundamental and apparently equal regulations—one cannot follow both laws and still act lawfully. The city magistrate comes to Hálrikos expecting him to resolve the contradiction by finding some subtle loophole or precedent that reconciles the two rules. However, after deep investigation, Hálrikos discovers that no such reconciliation exists and never has. Moreover, he finds evidence suggesting that a previous city magistrate created this contradiction deliberately as a way to maintain flexibility in enforcement—a violation of legal principle that horrifies him. He must now decide whether to report this historical deception and undermine the city's legal foundations, or to keep the knowledge secret and violate his core principle of institutional integrity.
 
-2. **The Reformist Trap**: The Reformist Coalition begins a campaign to demonstrate that Hálrikos's strict adherence to regulation actually enables corruption rather than preventing it, by pointing to specific cases where criminal activity succeeded because regulations did not account for novel schemes. They propose replacing Hálrikos's archaic system with a new, more flexible regulatory framework. Hálrikos must defend his system not just on principle but by identifying how the reformists' solution would actually create more opportunities for corruption. However, his defense requires him to become politically engaged in a way that violates his carefully maintained neutrality.
+The Reformist Trap
+: The Reformist Coalition begins a campaign to demonstrate that Hálrikos's strict adherence to regulation actually enables corruption rather than preventing it, by pointing to specific cases where criminal activity succeeded because regulations did not account for novel schemes. They propose replacing Hálrikos's archaic system with a new, more flexible regulatory framework. Hálrikos must defend his system not just on principle but by identifying how the reformists' solution would actually create more opportunities for corruption. However, his defense requires him to become politically engaged in a way that violates his carefully maintained neutrality.
 
-3. **The Corrupted Archive**: Hálrikos discovers that someone has altered several historical documents in the city's archives—not enough to be obviously false, but enough to have changed their legal meaning. These altered documents have been used as precedent in multiple cases and legal interpretations, and they may have been deliberately corrupted years ago to establish false precedent that benefits a particular faction. Hálrikos must identify which documents have been compromised, determine how many cases have been decided wrongly based on false precedent, and decide whether to expose this scandal, knowing that doing so will undermine the city's legal system for years and may implicate some of the most important figures in Tarvénia's history.
+The Corrupted Archive
+: Hálrikos discovers that someone has altered several historical documents in the city's archives—not enough to be obviously false, but enough to have changed their legal meaning. These altered documents have been used as precedent in multiple cases and legal interpretations, and they may have been deliberately corrupted years ago to establish false precedent that benefits a particular faction. Hálrikos must identify which documents have been compromised, determine how many cases have been decided wrongly based on false precedent, and decide whether to expose this scandal, knowing that doing so will undermine the city's legal system for years and may implicate some of the most important figures in Tarvénia's history.
 
-4. **The Impossible Request**: A powerful and sympathetic figure comes to Hálrikos with a request: to help them accomplish something that is technically against regulations, but which Hálrikos believes is morally justified. This figure might be a beloved city official whose career is unjustly threatened, or a common person suffering because of the inflexible application of an outdated rule. For the first time in his life, Hálrikos is forced to choose between his fundamental principle and his conviction that the right choice requires breaking it. Making the wrong decision in either direction will destroy something essential to him.
+The Impossible Request
+: A powerful and sympathetic figure comes to Hálrikos with a request: to help them accomplish something that is technically against regulations, but which Hálrikos believes is morally justified. This figure might be a beloved city official whose career is unjustly threatened, or a common person suffering because of the inflexible application of an outdated rule. For the first time in his life, Hálrikos is forced to choose between his fundamental principle and his conviction that the right choice requires breaking it. Making the wrong decision in either direction will destroy something essential to him.
 
-5. **The Guild's Betrayal**: The Guild of Scribes receives an offer from a wealthy patron to sponsor a new, faster system of record-keeping using novel methods that Hálrikos views as fundamentally unreliable. The Guild, faced with declining revenues as fewer people enter the scribal profession, is tempted by the patron's offer. Hálrikos must convince the Guild that his way is superior while privately questioning whether his devotion to tradition is blinding him to improvements. Meanwhile, the mysterious patron's true identity and motives become increasingly unclear, and Hálrikos begins to suspect that accepting the offer would compromise the integrity of the city's records for reasons he does not yet understand.
+The Guild's Betrayal
+: The Guild of Scribes receives an offer from a wealthy patron to sponsor a new, faster system of record-keeping using novel methods that Hálrikos views as fundamentally unreliable. The Guild, faced with declining revenues as fewer people enter the scribal profession, is tempted by the patron's offer. Hálrikos must convince the Guild that his way is superior while privately questioning whether his devotion to tradition is blinding him to improvements. Meanwhile, the mysterious patron's true identity and motives become increasingly unclear, and Hálrikos begins to suspect that accepting the offer would compromise the integrity of the city's records for reasons he does not yet understand.

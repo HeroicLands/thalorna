@@ -144,9 +144,20 @@ The dissolution did not stay in Rajepur. Every Vedyari course in political philo
 
 ## See Also
 
-- [[affiliation-rajaprjnpd|Rajepur Janapoda]]—the temple-republic the decree founded
-- [[lore-fortydays|The Forty Days]] and [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]]—the chronicle and the recitation
-- [[place-sandstonealtr|The sandstone altar]]—where every king who reigned from Rajepur was consecrated
-- [[place-rajavalilib|The Rajavali Library]]—the kingdom's record, kept whole
-- [[lore-drwnngseat|The Drowning of the Royal Seat]]—the kingdom's town the river took long after
-- [[lore-stndrdmdhv|The Standardization at Madustana]]—the reign in which the kingdom moved its capital to Rajepur, and from which its count begins
+[[affiliation-rajaprjnpd|Rajepur Janapoda]]
+: the temple-republic the decree founded
+
+[[lore-fortydays|The Forty Days]] and [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]]
+: the chronicle and the recitation
+
+[[place-sandstonealtr|The sandstone altar]]
+: where every king who reigned from Rajepur was consecrated
+
+[[place-rajavalilib|The Rajavali Library]]
+: the kingdom's record, kept whole
+
+[[lore-drwnngseat|The Drowning of the Royal Seat]]
+: the kingdom's town the river took long after
+
+[[lore-stndrdmdhv|The Standardization at Madustana]]
+: the reign in which the kingdom moved its capital to Rajepur, and from which its count begins

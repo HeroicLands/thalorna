@@ -72,9 +72,14 @@ The Celestial Marshals are aware of this development and regard it as the single
 
 ### See Also
 
-- [[affiliation-nuotsourui|Nuotsou Rui]]—The cult that has taken Nuoho as its primary patron
-- [[affiliation-youweng|Youwéng]]—The Demon Realm
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The Celestial Bureaucracy whose failures produced Nuoho
+[[affiliation-nuotsourui|Nuotsou Rui]]
+: The cult that has taken Nuoho as its primary patron
+
+[[affiliation-youweng|Youwéng]]
+: The Demon Realm
+
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: The Celestial Bureaucracy whose failures produced Nuoho
 
 ## Outside the Ladder
 

@@ -442,42 +442,80 @@ Tavonei wants to be perfect at his work. A safe arrival is a sacred trust to him
 
 ### Strengths
 
-- **Dedication**: in fifteen years no train in his charge has been robbed, and he would defend the record with his life.
-- **Knowledge of the road**: he knows every bend of the coast road, its weather, its bad seasons, and which ridge tracks a smuggler would use, and he can feel trouble hours before it arrives.
-- **Command**: he is not charming, and his guards obey him at once anyway, because his orders have always brought them home.
-- **Swordsmanship**: at forty he is still dangerous at close quarters, his blade work spare and heavy, worn smooth by decades of use.
-- **Practical skill**: he can dress a wound, feed and water forty mules and porters on a short road, and keep a frightened column moving in a monsoon squall.
+Dedication
+: in fifteen years no train in his charge has been robbed, and he would defend the record with his life.
+
+Knowledge of the road
+: he knows every bend of the coast road, its weather, its bad seasons, and which ridge tracks a smuggler would use, and he can feel trouble hours before it arrives.
+
+Command
+: he is not charming, and his guards obey him at once anyway, because his orders have always brought them home.
+
+Swordsmanship
+: at forty he is still dangerous at close quarters, his blade work spare and heavy, worn smooth by decades of use.
+
+Practical skill
+: he can dress a wound, feed and water forty mules and porters on a short road, and keep a frightened column moving in a monsoon squall.
 
 ### Weaknesses
 
-- **Resistance to change**: he distrusts every new method on principle, and that distrust will cost lives.
-- **Overcaution**: his routes are slow, safe and expensive, which loses him merchants with goods that cannot wait.
-- **Control**: he cannot delegate, and his constant oversight wears out his guards and breeds resentment among the younger ones.
-- **Distance**: he keeps everyone at arm's length, and the only relationships he has are contracts.
-- **Age**: the road tires him more than it did, and he heals more slowly.
+Resistance to change
+: he distrusts every new method on principle, and that distrust will cost lives.
+
+Overcaution
+: his routes are slow, safe and expensive, which loses him merchants with goods that cannot wait.
+
+Control
+: he cannot delegate, and his constant oversight wears out his guards and breeds resentment among the younger ones.
+
+Distance
+: he keeps everyone at arm's length, and the only relationships he has are contracts.
+
+Age
+: the road tires him more than it did, and he heals more slowly.
 
 ## Social
 
 ### Patrons
 
-- **House Thavoeli**: an Ilovanu merchant house in rare spice and cut stones, which has hired Tavonei for its three richest trains each year for over a decade. **Merchant-Prince Anorivei Thavoeli** asks for him by name for any cargo bound to a foreign hull, and trusts no one else with goods worth a fortune.
-- **The Silk Caravans Consortium**: an association of independent factors who pool their goods for the coast road. Tavonei is their first choice for the stretch between Vashurán and [[place-nalurithan|Nalurithan]], where the road runs closest under the ridges.
-- **The Lady of House Duravin**: the widow of a foreign trading family long settled in the Ilovanu quarter, who hires Tavonei whenever she travels between the ports and values his discretion as much as his sword.
+House Thavoeli
+: an Ilovanu merchant house in rare spice and cut stones, which has hired Tavonei for its three richest trains each year for over a decade. **Merchant-Prince Anorivei Thavoeli** asks for him by name for any cargo bound to a foreign hull, and trusts no one else with goods worth a fortune.
+
+The Silk Caravans Consortium
+: an association of independent factors who pool their goods for the coast road. Tavonei is their first choice for the stretch between Vashurán and [[place-nalurithan|Nalurithan]], where the road runs closest under the ridges.
+
+The Lady of House Duravin
+: the widow of a foreign trading family long settled in the Ilovanu quarter, who hires Tavonei whenever she travels between the ports and values his discretion as much as his sword.
 
 ### Enemies
 
-- **The Veiled Riders**: a smuggling ring that tries to run goods off the coast road and up the ridge tracks toward the closed interior, past the Wardens, for buyers inland who want foreign things the island does not admit. They have never taken a train of Tavonei's, and every failure has made them hate him more. They have put a price on his head and are waiting for their chance.
-- **Revi the Scarlet**: a younger, more charming guard captain who has been undercutting Tavonei's fees and taking contracts from merchants who want speed. The rivalry has turned personal, and each man sees the other as the end of his living.
+The Veiled Riders
+: a smuggling ring that tries to run goods off the coast road and up the ridge tracks toward the closed interior, past the Wardens, for buyers inland who want foreign things the island does not admit. They have never taken a train of Tavonei's, and every failure has made them hate him more. They have put a price on his head and are waiting for their chance.
+
+Revi the Scarlet
+: a younger, more charming guard captain who has been undercutting Tavonei's fees and taking contracts from merchants who want speed. The rivalry has turned personal, and each man sees the other as the end of his living.
 
 ### Affiliations
 
-- [[affiliation-kalihara|Kalihara]]: Tavonei holds an islander's standing among the port Kaliharans, as a master of a trade the port depends on.
-- [[affiliation-lusinia|Faith of Lusinia]]: like many port Kaliharans, Tavonei keeps the foreigners' faith he grew up beside, and he lights a lamp to the World-Weaver in the Ilovanu temple before every long road.
+[[affiliation-kalihara|Kalihara]]
+: Tavonei holds an islander's standing among the port Kaliharans, as a master of a trade the port depends on.
+
+[[affiliation-lusinia|Faith of Lusinia]]
+: like many port Kaliharans, Tavonei keeps the foreigners' faith he grew up beside, and he lights a lamp to the World-Weaver in the Ilovanu temple before every long road.
 
 ## Plot Hooks
 
-1. **The Lost Crown Shipment**: House Thavoeli hires Tavonei to take what he believes is an ordinary train down the coast road to a foreign hull waiting at Nalurithan. Halfway there he learns the bales hold the regalia of a deposed royal line from across the water, and that several parties are following the train with killing in mind. He can push on and watch his record break, or try the new methods he has always scorned.
-2. **The Apprentice's Betrayal**: Tavonei takes on a young orphan, **Vaoleni**, as an apprentice guard, seeing in him the raw talent he once had, and over a season on the road he grows almost fatherly toward the boy. Then Vaoleni is revealed as a Veiled Riders spy, sent to learn Tavonei's routes and habits. Tavonei must hunt him down while asking himself whether his own need to control everything made the opening his enemy used.
-3. **The Seer's Warning**: A wandering seer, **Seer Maithori**, reads Tavonei's fortune and tells him his last journey is near and that it will break everything he believes about himself and his craft. He calls her a fraud and cannot forget her. When his next contract takes him somewhere his foresight fails, he begins to wonder whether fate, and not chance, is walking beside him.
-4. **The Road Inland**: A merchant consortium offers Tavonei a fortune to find a way across the island's interior, a crossing no port cargo has ever been allowed to make, through country the custodians have never opened. It would make his name for ever, or end his record and perhaps his life; and the Wardens would treat it as the Veiled Riders' crime with better paperwork. The offer forces him to decide whether he wants excellence or proof that he still matters.
-5. **The Conspiracy Within**: Tavonei notices discrepancies in the bills of lading, cargo swapped between stops and late-night meetings among his employers. Slowly he finds that someone high in the Consortium has been hiding contraband inside his guarded trains, bound for the same inland buyers the Veiled Riders serve. He must accuse powerful men without proof, protect his charges, and decide whether he owes more to the Wardens or to the merchants who made his legend.
+The Lost Crown Shipment
+: House Thavoeli hires Tavonei to take what he believes is an ordinary train down the coast road to a foreign hull waiting at Nalurithan. Halfway there he learns the bales hold the regalia of a deposed royal line from across the water, and that several parties are following the train with killing in mind. He can push on and watch his record break, or try the new methods he has always scorned.
+
+The Apprentice's Betrayal
+: Tavonei takes on a young orphan, **Vaoleni**, as an apprentice guard, seeing in him the raw talent he once had, and over a season on the road he grows almost fatherly toward the boy. Then Vaoleni is revealed as a Veiled Riders spy, sent to learn Tavonei's routes and habits. Tavonei must hunt him down while asking himself whether his own need to control everything made the opening his enemy used.
+
+The Seer's Warning
+: A wandering seer, **Seer Maithori**, reads Tavonei's fortune and tells him his last journey is near and that it will break everything he believes about himself and his craft. He calls her a fraud and cannot forget her. When his next contract takes him somewhere his foresight fails, he begins to wonder whether fate, and not chance, is walking beside him.
+
+The Road Inland
+: A merchant consortium offers Tavonei a fortune to find a way across the island's interior, a crossing no port cargo has ever been allowed to make, through country the custodians have never opened. It would make his name for ever, or end his record and perhaps his life; and the Wardens would treat it as the Veiled Riders' crime with better paperwork. The offer forces him to decide whether he wants excellence or proof that he still matters.
+
+The Conspiracy Within
+: Tavonei notices discrepancies in the bills of lading, cargo swapped between stops and late-night meetings among his employers. Slowly he finds that someone high in the Consortium has been hiding contraband inside his guarded trains, bound for the same inland buyers the Veiled Riders serve. He must accuse powerful men without proof, protect his charges, and decide whether he owes more to the Wardens or to the merchants who made his legend.

@@ -56,9 +56,14 @@ Nothing a skald recites is written down, because parchment burns in a night and 
 
 The Skalds' Circle, the Skaldahringr or "Ring of the Skalds," is the fellowship of every sworn skald in the north and the keeper of the north's spoken record. An outsider remembers it for the truth of the recital: a skald's account of an oath, a genealogy or a judgment counts in the Asguardian courts as documentary evidence, and the Circle breaks the ring of any skald who falsifies one.
 
-- Type: pan-regional bardic fellowship
-- Region: [[place-nrdlndsrgn|the Nordlands]], all five kingdoms, and [[place-vrystwald|Vristwald]] and [[place-aelwyth|Aelwyth]] where Asguardian custom holds
-- Founded: tradition holds that the Circle was sworn at the great gathering at [[place-hringstead|Hringstead]], five generations before any present Nordland kingdom was founded
+Type
+: pan-regional bardic fellowship
+
+Region
+: [[place-nrdlndsrgn|the Nordlands]], all five kingdoms, and [[place-vrystwald|Vristwald]] and [[place-aelwyth|Aelwyth]] where Asguardian custom holds
+
+Founded
+: tradition holds that the Circle was sworn at the great gathering at [[place-hringstead|Hringstead]], five generations before any present Nordland kingdom was founded
 
 ## What a Skald Is For
 
@@ -78,10 +83,17 @@ The [[lore-skaldating|Skaldating]] meets once a year, hosted in rotation by the 
 
 The Circle holds four ranks:
 
-- Ring-Broken: a skald convicted of breaking the truth of the recital, whose arm-ring is broken at the next [[lore-skaldating|Skaldating]]. No one recovers from the punishment.
-- Apprentice: a master's pupil for ten to fifteen years, entitled to nothing of the Circle's own until his geldra is accepted.
-- Skald: the sworn singer, entitled to food, shelter and safe passage at any hall, and bound to recite truly even against his own employer.
-- Stóraldstjori: the "saga-master" (_Sogmadr_), a senior skald whose composed sagas the Circle has accepted into its standing repertoire. His peers acclaim him; no one appoints him.
+Ring-Broken
+: a skald convicted of breaking the truth of the recital, whose arm-ring is broken at the next [[lore-skaldating|Skaldating]]. No one recovers from the punishment.
+
+Apprentice
+: a master's pupil for ten to fifteen years, entitled to nothing of the Circle's own until his geldra is accepted.
+
+Skald
+: the sworn singer, entitled to food, shelter and safe passage at any hall, and bound to recite truly even against his own employer.
+
+Stóraldstjori
+: the "saga-master" (_Sogmadr_), a senior skald whose composed sagas the Circle has accepted into its standing repertoire. His peers acclaim him; no one appoints him.
 
 Two offices sit above a sworn Skald without raising him further. The Hirvskáld is a court skald in formal service to a jarl or king, the most prestigious working position the craft offers. The Logskáld, the law-skald, specializes in reciting legal precedents and witnessing formal proceedings. Few in number, the Logskaldar are indispensable to Nordland legal practice.
 

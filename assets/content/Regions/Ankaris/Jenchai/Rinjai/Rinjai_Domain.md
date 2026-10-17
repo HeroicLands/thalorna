@@ -86,9 +86,20 @@ Hoja's raiders took a Tantsou prefect off the mainland coast. The court wants th
 
 ## See Also
 
-- [[affiliation-jenchaiempr|Jenchai Empire]]—the realm, the court and the eight houses
-- [[place-rinjai|Rinjai]]—the mountain of the domain
-- [[place-rinwu|Rinwu]]—the castle town and seat
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
-- [[affiliation-shuiwojaidmn|Shuiwojai Domain]]—the house to which Rinjai is sworn
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the mainland empire across the strait
+[[affiliation-jenchaiempr|Jenchai Empire]]
+: the realm, the court and the eight houses
+
+[[place-rinjai|Rinjai]]
+: the mountain of the domain
+
+[[place-rinwu|Rinwu]]
+: the castle town and seat
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait
+
+[[affiliation-shuiwojaidmn|Shuiwojai Domain]]
+: the house to which Rinjai is sworn
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the mainland empire across the strait

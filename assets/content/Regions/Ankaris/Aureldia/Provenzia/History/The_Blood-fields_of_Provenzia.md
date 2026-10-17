@@ -53,23 +53,20 @@ necessarily heal.
 What a blood-field _does_ varies, and Provenzians classify them by it as readily as a farmer
 classifies soil. Most do no harm by day and a great deal of it after dark. A few are ruinous.
 
-- **Recurrence**—the commonest by far. The battle repeats: sounds carried on a certain wind, lights
-  along a treeline, ranks of figures seen at distance and never close to. Recurrent fields are
-  harmless by day and terrible by night, and the villages beside them keep indoors after dark and
-  treat the anniversary as the night nobody goes out at all.
-- **The Quickening**—the ground grows too well. Grass comes early, crops come heavy, and the fruit is
-  larger than it has any business being. Quickened fields are farmed, because they are the best land
-  in the district, and the farming of them is a subject nobody raises at table.
-- **The Silence**—nothing sings there. No birds, no insects in summer, no sound but weather. Nothing
-  is harmed and nothing will settle, and people who cross a silent field find they have walked faster
-  than they meant to.
-- **The Dread**—the field returns what was felt on it. Panic, rage, or a terrible unwilling
-  steadiness comes over those who linger, and it does not announce itself as external. Commanders have
-  known this for centuries, and the practice of maneuvering an enemy onto a dreading field is old
-  enough to have a name and disreputable enough to be denied.
-- **The Withering**—rarest, and the one that ruins a district. The land dies: crops fail, beasts
-  sicken, the soil goes sour and the sickness spreads outward. Only a handful are recorded, and the
-  [[place-bldfldyharvalen|Blood-field of Yarvalen]] is the one every Provenzian can name.
+Recurrence
+: the commonest by far. The battle repeats: sounds carried on a certain wind, lights along a treeline, ranks of figures seen at distance and never close to. Recurrent fields are harmless by day and terrible by night, and the villages beside them keep indoors after dark and treat the anniversary as the night nobody goes out at all.
+
+The Quickening
+: the ground grows too well. Grass comes early, crops come heavy, and the fruit is larger than it has any business being. Quickened fields are farmed, because they are the best land in the district, and the farming of them is a subject nobody raises at table.
+
+The Silence
+: nothing sings there. No birds, no insects in summer, no sound but weather. Nothing is harmed and nothing will settle, and people who cross a silent field find they have walked faster than they meant to.
+
+The Dread
+: the field returns what was felt on it. Panic, rage, or a terrible unwilling steadiness comes over those who linger, and it does not announce itself as external. Commanders have known this for centuries, and the practice of maneuvering an enemy onto a dreading field is old enough to have a name and disreputable enough to be denied.
+
+The Withering
+: rarest, and the one that ruins a district. The land dies: crops fail, beasts sicken, the soil goes sour and the sickness spreads outward. Only a handful are recorded, and the [[place-bldfldyharvalen|Blood-field of Yarvalen]] is the one every Provenzian can name.
 
 A field's resonance is fixed at the making and does not change on its own. Fields that have been
 _worked on_ are another matter.
@@ -100,12 +97,23 @@ strongest argument for making one, and the single strongest argument against.
 
 ## The Known Fields
 
-- [[place-bldfldyharvalen|Yarvalen]]—north; a **withering**, and the worst in the kingdom.
-- [[place-bldfldtiravlen|Tiravlen]]—beside [[place-tiravellake|Lake Tiravel]]; a **recurrence**, made by [[lore-tiravlenbattle|a legion's victory over the Tanevar kings]].
-- [[place-bldfldmalnebris|Malnebris]]—the eastern frontier; a **recurrence**, made by [[lore-malnebris|the first great raid]] and still being added to.
-- [[place-bloodhills|The Blood Hills]]—east of Keravel; a **dread**, made by [[lore-bloodhillsbtl|a battle between the Forge and the Flame]].
-- [[place-bldfldkyvarel|Kivarel]]—the western valleys; a **quickening**.
-- [[place-bldfldcalvenza|Kalvenza]]—the southern coast; a **silence**.
+[[place-bldfldyharvalen|Yarvalen]]
+: north; a **withering**, and the worst in the kingdom.
+
+[[place-bldfldtiravlen|Tiravlen]]
+: beside [[place-tiravellake|Lake Tiravel]]; a **recurrence**, made by [[lore-tiravlenbattle|a legion's victory over the Tanevar kings]].
+
+[[place-bldfldmalnebris|Malnebris]]
+: the eastern frontier; a **recurrence**, made by [[lore-malnebris|the first great raid]] and still being added to.
+
+[[place-bloodhills|The Blood Hills]]
+: east of Keravel; a **dread**, made by [[lore-bloodhillsbtl|a battle between the Forge and the Flame]].
+
+[[place-bldfldkyvarel|Kivarel]]
+: the western valleys; a **quickening**.
+
+[[place-bldfldcalvenza|Kalvenza]]
+: the southern coast; a **silence**.
 
 These are the ones with names. Provenzians will tell you there are many more, and that a field does
 not need a name to be a blood-field.

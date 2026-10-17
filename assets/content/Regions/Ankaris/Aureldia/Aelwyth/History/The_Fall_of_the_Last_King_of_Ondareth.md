@@ -65,6 +65,11 @@ Almost no one in Thornbury has ever seen the original, and the Senate has never 
 
 ## See Also
 
-- [[affiliation-repblcndrth|The Republic of Ondareth]]—the government the rising made
-- [[place-thornbury|Thornbury]]—the Senate house and the tyrant's rock
-- [[lore-vylarirpbl|The Establishment of the Vylarian Republic]]—the story the captains copied
+[[affiliation-repblcndrth|The Republic of Ondareth]]
+: the government the rising made
+
+[[place-thornbury|Thornbury]]
+: the Senate house and the tyrant's rock
+
+[[lore-vylarirpbl|The Establishment of the Vylarian Republic]]
+: the story the captains copied

@@ -170,15 +170,32 @@ The sin is what the Circle did with it. Twice the Circle was petitioned to act a
 
 ## See Also
 
-- [[place-dunharargn|Dunhara Region]]—the desert, the circuits and the confederations
-- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the fire-and-light faith
-- [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]—the storm-readers and rain-callers of the camps
-- [[affiliation-dunhartrbs|Dunhara Tribes]]—the confederations and their councils
-- [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]—the Old Promise and the Quiet After
-- [[place-stoneofranaz|Stone of Ranaz]]—the hill-shrine of the Circle and the cults
-- [[place-oasistvrzvd|Oasis of Tevrazavad]]—where a chieftain's council hears other sheikhs' quarrels
-- [[skill-dunharlng#lexicon|Dunhari Lexicon]]—the words of the well, the storm and the court
-- [[skill-dunharlng|Dunhari]]—the tongue the poets keep the law in
+[[place-dunharargn|Dunhara Region]]
+: the desert, the circuits and the confederations
+
+[[affiliation-ashanpnthn|Ashaian Pantheon]]
+: the fire-and-light faith
+
+[[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]
+: the storm-readers and rain-callers of the camps
+
+[[affiliation-dunhartrbs|Dunhara Tribes]]
+: the confederations and their councils
+
+[[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]
+: the Old Promise and the Quiet After
+
+[[place-stoneofranaz|Stone of Ranaz]]
+: the hill-shrine of the Circle and the cults
+
+[[place-oasistvrzvd|Oasis of Tevrazavad]]
+: where a chieftain's council hears other sheikhs' quarrels
+
+[[skill-dunharlng#lexicon|Dunhari Lexicon]]
+: the words of the well, the storm and the court
+
+[[skill-dunharlng|Dunhari]]
+: the tongue the poets keep the law in
 
 ## Glossary {#glossary}
 

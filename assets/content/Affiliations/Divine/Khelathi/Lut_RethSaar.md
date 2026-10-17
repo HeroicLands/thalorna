@@ -64,9 +64,14 @@ The house is meticulous and acquisitive, and it is generous in one direction onl
 
 The temple stands at the center of a small constellation of bodies, each holding a part of what it does.
 
-- [[affiliation-lemrethsaar|Lem'Reth'Sa'ar]]—The priesthood of the same god, which keeps the archives and sets the disciplines of the written hand. A scribe who passes beyond the guild halls into the god's service joins it.
-- [[affiliation-linrethrthsr|Lin'Rethu elu Reth'Sa'ar]]—The scholars the temple has certified to handle its deeper texts. They hold those texts apart from the general archive, and the temple defers to them on who may read.
-- [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'ar]]—The scribal schools under the temple's patronage, which supply the scribes the administration depends on.
+[[affiliation-lemrethsaar|Lem'Reth'Sa'ar]]
+: The priesthood of the same god, which keeps the archives and sets the disciplines of the written hand. A scribe who passes beyond the guild halls into the god's service joins it.
+
+[[affiliation-linrethrthsr|Lin'Rethu elu Reth'Sa'ar]]
+: The scholars the temple has certified to handle its deeper texts. They hold those texts apart from the general archive, and the temple defers to them on who may read.
+
+[[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'ar]]
+: The scribal schools under the temple's patronage, which supply the scribes the administration depends on.
 
 The temple keeps a polite distance from the festivals of the [[affiliation-thubai|Faith of Thuba'i]], whose pursuit it regards as lesser than truth, though a prosperous merchant's household often keeps a shrine to each god. Pleasure rewards what knowledge builds, and the temple does not mind being thanked in that order.
 
@@ -78,5 +83,8 @@ The temple is paid in the god's own coin. Visitors leave fine papyrus, inks made
 
 ## See Also
 
-- [[lore-rethsaardty|Reth'Sa'ar]]—The god of knowledge the temple serves
-- [[affiliation-lutzethu|Lut-Zethu]]—The Imperial Library
+[[lore-rethsaardty|Reth'Sa'ar]]
+: The god of knowledge the temple serves
+
+[[affiliation-lutzethu|Lut-Zethu]]
+: The Imperial Library

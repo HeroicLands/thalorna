@@ -74,7 +74,14 @@ A caravan that crosses Durmand grass pays in horses or in goods the Durmand can 
 
 ## See Also
 
-- [[lore-sowidesclt|Sovidur]]—the steppe tribes and what they hold a person owes
-- [[affiliation-zrnshtrb|Zarnush]]—the tribe the Durmand raided
-- [[affiliation-zrdntrb|Azardan]], [[affiliation-shrzrtrb|Shirzari]]—the other great tribes of the central steppe
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the country the tribe grazes
+[[lore-sowidesclt|Sovidur]]
+: the steppe tribes and what they hold a person owes
+
+[[affiliation-zrnshtrb|Zarnush]]
+: the tribe the Durmand raided
+
+[[affiliation-zrdntrb|Azardan]], [[affiliation-shrzrtrb|Shirzari]]
+: the other great tribes of the central steppe
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the country the tribe grazes

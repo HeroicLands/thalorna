@@ -23,7 +23,14 @@ The port keeps the coast's season. It is busy from the end of the rains until th
 
 ## See Also
 
-- [[place-bharavarivr|The Bharava]]—the river and the pilgrim road that starts here
-- [[affiliation-bhrvdvbhog|The Bharava-Devabhona]]—the temple-estates whose forest products pass the quay
-- [[place-bhrvdvsthna|The Bharava-Devastena]]—the free hostels the same products endow
-- [[place-vedyarargn|Vedyara Region]]—parent region
+[[place-bharavarivr|The Bharava]]
+: the river and the pilgrim road that starts here
+
+[[affiliation-bhrvdvbhog|The Bharava-Devabhona]]
+: the temple-estates whose forest products pass the quay
+
+[[place-bhrvdvsthna|The Bharava-Devastena]]
+: the free hostels the same products endow
+
+[[place-vedyarargn|Vedyara Region]]
+: parent region

@@ -89,9 +89,20 @@ The Capital Selat uses the [[lore-aukhlthcrncy|Au'Khelathu currency]], and it is
 
 ## See Also
 
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the empire
-- [[place-galezkara|Galezkara]]—the imperial city
-- [[place-galezkaraslt|Galezkara Selat]]—the land the selat holds
-- [[affiliation-deltaselatu|The Delta Selatu]], [[affiliation-upperrivrslt|The Upper River Selatu]], [[affiliation-borderselatu|The Border Selatu]]—the other classes of selat
-- [[affiliation-genzetpalu|Genzet'Palu]]—[[affiliation-genzetpalu|Council of the Nobles]] · [[affiliation-garhalzi|Gar-Hálzi]]—the temple-treasuries
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the gods · [[skill-khelathlng|Khelathi Language]]—naming
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: the empire
+
+[[place-galezkara|Galezkara]]
+: the imperial city
+
+[[place-galezkaraslt|Galezkara Selat]]
+: the land the selat holds
+
+[[affiliation-deltaselatu|The Delta Selatu]], [[affiliation-upperrivrslt|The Upper River Selatu]], [[affiliation-borderselatu|The Border Selatu]]
+: the other classes of selat
+
+[[affiliation-genzetpalu|Genzet'Palu]]
+: [[affiliation-genzetpalu|Council of the Nobles]] · [[affiliation-garhalzi|Gar-Hálzi]]—the temple-treasuries
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: the gods · [[skill-khelathlng|Khelathi Language]]—naming

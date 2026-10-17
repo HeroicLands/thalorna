@@ -444,27 +444,37 @@ Hnurvthira's driving force is the pursuit of mastery—not for its own sake, but
 
 ### Strengths
 
-- **Master Dyer and Colorist**: Hnurvthira can extract bright, long-lasting colors from nearly any natural material, and her knowledge of which dyes complement each other and create harmony is nearly instinctive. Customers often describe her color choices as almost magical in their ability to enhance beauty.
+Master Dyer and Colorist
+: Hnurvthira can extract bright, long-lasting colors from nearly any natural material, and her knowledge of which dyes complement each other and create harmony is nearly instinctive. Customers often describe her color choices as almost magical in their ability to enhance beauty.
 
-- **Expert Textile Worker**: Her skill with spinning, weaving, and the integration of different materials is extraordinary. She can create fabrics of strength, flexibility, and aesthetic appeal from modest raw materials.
+Expert Textile Worker
+: Her skill with spinning, weaving, and the integration of different materials is extraordinary. She can create fabrics of strength, flexibility, and aesthetic appeal from modest raw materials.
 
-- **Keen Perception of Detail**: Her creative perception (rating 15) allows her to notice subtle flaws in fabric and thread that others miss, and her artistic sensibility guides her in creating pieces that harmonize form and function.
+Keen Perception of Detail
+: Her creative perception (rating 15) allows her to notice subtle flaws in fabric and thread that others miss, and her artistic sensibility guides her in creating pieces that harmonize form and function.
 
-- **Sincere Interpersonal Connection**: Hnurvthira's high empathy and charm create deep bonds of trust with her customers. They return not merely for her goods but for her attentive presence and interest in their lives.
+Sincere Interpersonal Connection
+: Hnurvthira's high empathy and charm create deep bonds of trust with her customers. They return not merely for her goods but for her attentive presence and interest in their lives.
 
-- **Resourcefulness and Flexibility**: Her agricultural skill and working knowledge of leather, ceramics, and other crafts make her able to solve unexpected problems and adapt to unusual requests.
+Resourcefulness and Flexibility
+: Her agricultural skill and working knowledge of leather, ceramics, and other crafts make her able to solve unexpected problems and adapt to unusual requests.
 
 ### Weaknesses
 
-- **Limited Experience with Luxury Work**: While talented, Hnurvthira has little experience with materials like silk, fine linen, or elaborate imported fabrics. Her confidence falters when presented with truly expensive materials, fearing waste or failure.
+Limited Experience with Luxury Work
+: While talented, Hnurvthira has little experience with materials like silk, fine linen, or elaborate imported fabrics. Her confidence falters when presented with truly expensive materials, fearing waste or failure.
 
-- **Physical Frailty**: Her low strength score (8) means she cannot perform heavy labor. Tasks requiring brute force—hauling large bolts of cloth, working metal, or enduring strenuous travel—quickly exhaust her.
+Physical Frailty
+: Her low strength score (8) means she cannot perform heavy labor. Tasks requiring brute force—hauling large bolts of cloth, working metal, or enduring strenuous travel—quickly exhaust her.
 
-- **Reluctance to Delegate**: Hnurvthira struggles with trusting others to produce work meeting her standards, and her workshop remains small and underutilized partly because she insists on handling most work herself.
+Reluctance to Delegate
+: Hnurvthira struggles with trusting others to produce work meeting her standards, and her workshop remains small and underutilized partly because she insists on handling most work herself.
 
-- **Modest Aspirations and Self-Doubt**: Though ambitious, she sometimes questions whether she deserves greater opportunities, particularly when those opportunities would require her to abandon her roots.
+Modest Aspirations and Self-Doubt
+: Though ambitious, she sometimes questions whether she deserves greater opportunities, particularly when those opportunities would require her to abandon her roots.
 
-- **Limited Combat Capability**: She possesses no formal training in weapons or combat and would be defenseless in violent confrontation.
+Limited Combat Capability
+: She possesses no formal training in weapons or combat and would be defenseless in violent confrontation.
 
 ## Social
 
@@ -491,12 +501,17 @@ Informal Community Textile Workers
 
 ## Plot Hooks
 
-1. **The Unfinished Commission**: A noblewoman from the jarl's seat at Asgarthul commissioned a wedding gown of extraordinary complexity—a fusion of traditional Norgaadian patterns with silk imported from distant lands. The woman specified that the gown must be completed in just six weeks, an impossibly tight timeline, and offered payment that would transform Hnurvthira's life. However, disaster strikes: a fire in a dye merchant's warehouse destroys the exact shade of indigo she promised, and the noblewoman's wedding approaches. Hnurvthira must either find a replacement dye of matching quality, convince the noblewoman to accept a variation, or undertake a dangerous journey to secure new indigo. The characters might help her recover lost materials, negotiate with the noblewoman, or pursue leads on distant indigo sources—perhaps even accompanying her on a quest across dangerous lands.
+The Unfinished Commission
+: A noblewoman from the jarl's seat at Asgarthul commissioned a wedding gown of extraordinary complexity—a fusion of traditional Norgaadian patterns with silk imported from distant lands. The woman specified that the gown must be completed in just six weeks, an impossibly tight timeline, and offered payment that would transform Hnurvthira's life. However, disaster strikes: a fire in a dye merchant's warehouse destroys the exact shade of indigo she promised, and the noblewoman's wedding approaches. Hnurvthira must either find a replacement dye of matching quality, convince the noblewoman to accept a variation, or undertake a dangerous journey to secure new indigo. The characters might help her recover lost materials, negotiate with the noblewoman, or pursue leads on distant indigo sources—perhaps even accompanying her on a quest across dangerous lands.
 
-2. **The Rival's Sabotage**: A competitor from a neighboring town, consumed with envy at Hnurvthira's growing reputation, has begun spreading rumors that she uses inferior materials and achieves her colors through witchcraft rather than skill. The slander begins to affect her business, with customers hesitantly questioning her methods. Hnurvthira requests the party's aid in exposing the rival's malice—perhaps by purchasing garments from the rival to prove their inferior quality, gathering testimonies from satisfied customers, or even confronting the rival and uncovering evidence of the deliberate campaign. The situation escalates when the rival actually poisons one of Hnurvthira's dye batches, hoping to create a scandal, and the party must track the poisoner and prove the sabotage.
+The Rival's Sabotage
+: A competitor from a neighboring town, consumed with envy at Hnurvthira's growing reputation, has begun spreading rumors that she uses inferior materials and achieves her colors through witchcraft rather than skill. The slander begins to affect her business, with customers hesitantly questioning her methods. Hnurvthira requests the party's aid in exposing the rival's malice—perhaps by purchasing garments from the rival to prove their inferior quality, gathering testimonies from satisfied customers, or even confronting the rival and uncovering evidence of the deliberate campaign. The situation escalates when the rival actually poisons one of Hnurvthira's dye batches, hoping to create a scandal, and the party must track the poisoner and prove the sabotage.
 
-3. **The Ancestral Pattern**: While working on a commissioned piece, Hnurvthira discovers woven into an ancient fabric fragment—a gift from her elderly aunt—a pattern of extraordinary complexity and beauty that she has never seen before. The pattern appears to be a map or perhaps a coded message, and her aunt, now quite elderly, admits only that it belonged to their clan generations ago and was said to mark "the place where the ancestors hid their greatest treasure." Hnurvthira becomes obsessed with recreating and interpreting the pattern, and she involves the party in investigating the history of the **Dvalgumak clan**, exploring old settlements, consulting with shamans and historians, and ultimately discovering a lost site of archaeological significance or a treasure that could dramatically change her clan's fortune.
+The Ancestral Pattern
+: While working on a commissioned piece, Hnurvthira discovers woven into an ancient fabric fragment—a gift from her elderly aunt—a pattern of extraordinary complexity and beauty that she has never seen before. The pattern appears to be a map or perhaps a coded message, and her aunt, now quite elderly, admits only that it belonged to their clan generations ago and was said to mark "the place where the ancestors hid their greatest treasure." Hnurvthira becomes obsessed with recreating and interpreting the pattern, and she involves the party in investigating the history of the **Dvalgumak clan**, exploring old settlements, consulting with shamans and historians, and ultimately discovering a lost site of archaeological significance or a treasure that could dramatically change her clan's fortune.
 
-4. **The Curse of the Crimson Thread**: A wealthy merchant arrives in Tvarnmark seeking Hnurvthira specifically, claiming that a garment she crafted years ago for his late wife has become cursed. Since the woman's death, anyone who wears the garment experiences terrible misfortune—accident, illness, and despair follow. He begs Hnurvthira to break the curse, offering substantial payment. Hnurvthira, who never creates malicious work, is horrified and determined to investigate. The party discovers a complex truth: the merchant himself placed a curse on the garment before giving it to his wife in a jealous rage, and the curse is bound to him through magical means. Breaking it requires the party to uncover the merchant's dark secret, gather rare components, and perform a purification ritual—but in the process, they must decide whether to expose the merchant's guilt or preserve his reputation for Hnurvthira's sake.
+The Curse of the Crimson Thread
+: A wealthy merchant arrives in Tvarnmark seeking Hnurvthira specifically, claiming that a garment she crafted years ago for his late wife has become cursed. Since the woman's death, anyone who wears the garment experiences terrible misfortune—accident, illness, and despair follow. He begs Hnurvthira to break the curse, offering substantial payment. Hnurvthira, who never creates malicious work, is horrified and determined to investigate. The party discovers a complex truth: the merchant himself placed a curse on the garment before giving it to his wife in a jealous rage, and the curse is bound to him through magical means. Breaking it requires the party to uncover the merchant's dark secret, gather rare components, and perform a purification ritual—but in the process, they must decide whether to expose the merchant's guilt or preserve his reputation for Hnurvthira's sake.
 
-5. **The Master's Final Request**: Old **Einkorn Kraldumak**, now gravely ill, summons Hnurvthira to his bedside. He reveals that he has been guardians of an ancient technique for creating a fabric—cloth that can survive fire, resist disease, and preserve food placed within its folds. The technique has been passed down through only a few masters across centuries, and Einkorn, having no children of his own, wishes to entrust it to Hnurvthira before he passes. However, the secret requires gathering rare ingredients from dangerous locations and involves ritual and possibly magical components. The party must help Hnurvthira understand her mentor's cryptic final teachings, gather the necessary components (possibly from monster hunters, other craftspeople, or even dangerous wilderness expeditions), and learn the technique herself, all while racing against Einkorn's declining health.
+The Master's Final Request
+: Old **Einkorn Kraldumak**, now gravely ill, summons Hnurvthira to his bedside. He reveals that he has been guardians of an ancient technique for creating a fabric—cloth that can survive fire, resist disease, and preserve food placed within its folds. The technique has been passed down through only a few masters across centuries, and Einkorn, having no children of his own, wishes to entrust it to Hnurvthira before he passes. However, the secret requires gathering rare ingredients from dangerous locations and involves ritual and possibly magical components. The party must help Hnurvthira understand her mentor's cryptic final teachings, gather the necessary components (possibly from monster hunters, other craftspeople, or even dangerous wilderness expeditions), and learn the technique herself, all while racing against Einkorn's declining health.

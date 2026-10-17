@@ -28,7 +28,14 @@ Four centuries ago a steppe host, [[lore-hndrdbnnrs|the Storm of the Hundred Ban
 
 ## See Also
 
-- [[place-bhumipalaland|Bhumipala]]—the land the road runs through
-- [[place-sandhyapur|Sandyapur]] · [[place-ashvapada|Ashvapada]] · [[place-marukupa|Marukupa]]—the towns of the road
-- [[place-wstrndscnt|The Western Descent]]—the broken end of the wall it goes round
-- [[place-dunharargn|Dunhara]]—what it goes to
+[[place-bhumipalaland|Bhumipala]]
+: the land the road runs through
+
+[[place-sandhyapur|Sandyapur]] · [[place-ashvapada|Ashvapada]] · [[place-marukupa|Marukupa]]
+: the towns of the road
+
+[[place-wstrndscnt|The Western Descent]]
+: the broken end of the wall it goes round
+
+[[place-dunharargn|Dunhara]]
+: what it goes to

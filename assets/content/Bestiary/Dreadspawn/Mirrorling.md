@@ -458,20 +458,29 @@ In darkness, or where nothing reflects, it fights on even terms and its tricks f
 
 ## Attributes
 
-- **Strength:** 22-27 (1d6+21)
+Strength
+: 22-27 (1d6+21)
 
-- **Endurance:** 9-12 (1d4+8)
+Endurance
+: 9-12 (1d4+8)
 
-- **Dexterity:** 13-16 (1d4+12)
+Dexterity
+: 13-16 (1d4+12)
 
-- **Agility:** 11-14 (1d4+10)
+Agility
+: 11-14 (1d4+10)
 
-- **Perception:** 13-16 (1d4+12)
+Perception
+: 13-16 (1d4+12)
 
-- **Aura:** 13-16 (1d4+12)
+Aura
+: 13-16 (1d4+12)
 
-- **Will:** 11-14 (1d4+10)
+Will
+: 11-14 (1d4+10)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 13-16 (1d4+12)
+Creativity
+: 13-16 (1d4+12)

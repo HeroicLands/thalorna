@@ -306,12 +306,29 @@ In the treeless highlands, dried yak dung is the primary fuel for cooking and he
 
 ## Attributes
 
-- **Strength:** 12-17 (1d6+11) — Powerful draft animal; wild bulls are formidable in combat
-- **Endurance:** 14-19 (1d6+13) — Supreme altitude and cold tolerance; tireless caravan animal
-- **Dexterity:** 7-10 (1d4+6) — Adequate; not built for fine movement
-- **Agility:** 8-11 (1d4+7) — Sure-footed on mountain terrain despite bulk
-- **Perception:** 10-15 (1d6+9) — Good senses; handlers trust their danger assessment
-- **Aura:** 6-9 (1d4+5) — Respected as essential, but not spiritually elevated
-- **Will:** 12-17 (1d6+11) — Stubborn and determined; will not be forced into danger
-- **Reasoning:** 5-8 (1d4+4) — Intelligent enough to assess trail safety; learns handlers and routes
-- **Creativity:** 4-7 (1d4+3) — Limited
+Strength
+: 12-17 (1d6+11) — Powerful draft animal; wild bulls are formidable in combat
+
+Endurance
+: 14-19 (1d6+13) — Supreme altitude and cold tolerance; tireless caravan animal
+
+Dexterity
+: 7-10 (1d4+6) — Adequate; not built for fine movement
+
+Agility
+: 8-11 (1d4+7) — Sure-footed on mountain terrain despite bulk
+
+Perception
+: 10-15 (1d6+9) — Good senses; handlers trust their danger assessment
+
+Aura
+: 6-9 (1d4+5) — Respected as essential, but not spiritually elevated
+
+Will
+: 12-17 (1d6+11) — Stubborn and determined; will not be forced into danger
+
+Reasoning
+: 5-8 (1d4+4) — Intelligent enough to assess trail safety; learns handlers and routes
+
+Creativity
+: 4-7 (1d4+3) — Limited

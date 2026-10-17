@@ -32,6 +32,11 @@ Relations with Nesthiros stay perpetually tense, with commercial rivalry, occasi
 
 ## See Also
 
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation of city-states
-- [[place-byzariargn|Bizaria Region]]—regional overview
-- [[affiliation-nesthiros|Nesthiros]]—the League's premier port and Chrisamar's rival
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation of city-states
+
+[[place-byzariargn|Bizaria Region]]
+: regional overview
+
+[[affiliation-nesthiros|Nesthiros]]
+: the League's premier port and Chrisamar's rival

@@ -401,8 +401,11 @@ Dvirnmil is a master of disguise, forgery, and social engineering. He can talk h
 
 ## Plot Hooks
 
-1. **The Impossible Heist**—Dvirnmil has been hired to steal an artifact from a vault considered impenetrable. The job is a setup—but for whom?
+The Impossible Heist
+: Dvirnmil has been hired to steal an artifact from a vault considered impenetrable. The job is a setup—but for whom?
 
-2. **The Honest Job**—Dvirnmil is forced to work a legitimate job when his cover requires it, and he discovers he's actually good at it. When his employers are threatened, he must decide whether to protect them or save himself.
+The Honest Job
+: Dvirnmil is forced to work a legitimate job when his cover requires it, and he discovers he's actually good at it. When his employers are threatened, he must decide whether to protect them or save himself.
 
-3. **The Orphan's Debt**—A child from one of the shelters Dvirnmil secretly funds has been kidnapped by a crime lord who knows Dvirnmil's secret. The price for the child's return is a job that could get Dvirnmil killed.
+The Orphan's Debt
+: A child from one of the shelters Dvirnmil secretly funds has been kidnapped by a crime lord who knows Dvirnmil's secret. The price for the child's return is a job that could get Dvirnmil killed.

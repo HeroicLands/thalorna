@@ -445,19 +445,37 @@ Veldor seeks the one thing that has always eluded him: the sense of real, lastin
 
 ### Strengths
 
-- **Consummate Performer**: Veldor's mastery of theatrics, singing, and dance has no equal within three kingdoms. His voice alone can silence a restless crowd, and his ability to convey emotion through subtle gesture is almost uncanny.
-- **Silver-Tongued Orator**: With eloquence and charm as his weapons, Veldor can persuade, manipulate, or inspire with words alone. He has negotiated his way out of dangerous situations and into advantageous ones with equal ease.
-- **Perceptiveness**: Years of studying human nature for the stage have given him an acute ability to read people. He can often discern a person's emotional state and true intentions through careful observation.
-- **Cultural Literacy**: Veldor possesses encyclopedic knowledge of classical literature, history, and artistic traditions. He can discuss philosophy, myth, and history with erudition.
-- **Versatile Craftsperson**: Beyond his performance skills, Veldor is accomplished in multiple practical arts—brewing, cookery, and the martial disciplines. His well-roundedness makes him surprisingly capable in diverse situations.
+Consummate Performer
+: Veldor's mastery of theatrics, singing, and dance has no equal within three kingdoms. His voice alone can silence a restless crowd, and his ability to convey emotion through subtle gesture is almost uncanny.
+
+Silver-Tongued Orator
+: With eloquence and charm as his weapons, Veldor can persuade, manipulate, or inspire with words alone. He has negotiated his way out of dangerous situations and into advantageous ones with equal ease.
+
+Perceptiveness
+: Years of studying human nature for the stage have given him an acute ability to read people. He can often discern a person's emotional state and true intentions through careful observation.
+
+Cultural Literacy
+: Veldor possesses encyclopedic knowledge of classical literature, history, and artistic traditions. He can discuss philosophy, myth, and history with erudition.
+
+Versatile Craftsperson
+: Beyond his performance skills, Veldor is accomplished in multiple practical arts—brewing, cookery, and the martial disciplines. His well-roundedness makes him surprisingly capable in diverse situations.
 
 ### Weaknesses
 
-- **Deep-Seated Insecurity**: Despite—or perhaps because of—his tremendous talent, Veldor doubts his fundamental worth. Success does not reassure him; instead, it intensifies his fear of inevitable failure and exposure.
-- **Melancholic Temperament**: His moods are notoriously unstable. Periods of creative brilliance can give way suddenly to depression, rendering him unreliable and withdrawn.
-- **Emotional Volatility**: When wounded—whether in pride, affection, or honor—Veldor can become vindictive and cruel. He wields words as weapons with devastating precision.
-- **Physical Limitations**: He is neither particularly strong nor especially agile. In any situation requiring raw physical power or martial prowess, he is at a significant disadvantage.
-- **Addiction to Validation**: Veldor has developed an unhealthy dependence on external approval. When denied applause or admiration, he becomes listless and unmotivated.
+Deep-Seated Insecurity
+: Despite—or perhaps because of—his tremendous talent, Veldor doubts his fundamental worth. Success does not reassure him; instead, it intensifies his fear of inevitable failure and exposure.
+
+Melancholic Temperament
+: His moods are notoriously unstable. Periods of creative brilliance can give way suddenly to depression, rendering him unreliable and withdrawn.
+
+Emotional Volatility
+: When wounded—whether in pride, affection, or honor—Veldor can become vindictive and cruel. He wields words as weapons with devastating precision.
+
+Physical Limitations
+: He is neither particularly strong nor especially agile. In any situation requiring raw physical power or martial prowess, he is at a significant disadvantage.
+
+Addiction to Validation
+: Veldor has developed an unhealthy dependence on external approval. When denied applause or admiration, he becomes listless and unmotivated.
 
 ## Social
 
@@ -487,12 +505,17 @@ The Élavendre City Theater Company
 
 ## Plot Hooks
 
-1. **The Lost Manuscript**: A scholar approaches Veldor claiming to have discovered the complete text of an ancient, unperformed masterwork—a tragedy of such power that its author was said to have gone mad during its composition. The scholar believes Veldor is the only actor alive capable of bringing the role's protagonist to life, but completion of the work requires Veldor to undertake a dangerous expedition into the Obsidian Peaks to recover several missing pages from the ruins of an ancient library, where his rival **Dárion Ashford** has also taken an interest.
+The Lost Manuscript
+: A scholar approaches Veldor claiming to have discovered the complete text of an ancient, unperformed masterwork—a tragedy of such power that its author was said to have gone mad during its composition. The scholar believes Veldor is the only actor alive capable of bringing the role's protagonist to life, but completion of the work requires Veldor to undertake a dangerous expedition into the Obsidian Peaks to recover several missing pages from the ruins of an ancient library, where his rival **Dárion Ashford** has also taken an interest.
 
-2. **The Patron's Dangerous Secret**: **Lady Nélamis** discreetly summons Veldor and reveals that her patronage of the theater has been a cover for her involvement in a network of rebel agents working to undermine the current regime. She asks Veldor to use his access to noble circles to gather intelligence on a potential conspirator. Veldor must decide whether to involve himself in dangerous court politics, risk losing his patronage and livelihood, or betray Lady Nélamis's trust.
+The Patron's Dangerous Secret
+: **Lady Nélamis** discreetly summons Veldor and reveals that her patronage of the theater has been a cover for her involvement in a network of rebel agents working to undermine the current regime. She asks Veldor to use his access to noble circles to gather intelligence on a potential conspirator. Veldor must decide whether to involve himself in dangerous court politics, risk losing his patronage and livelihood, or betray Lady Nélamis's trust.
 
-3. **A Role That Demands Everything**: The Élavendre City Theater Company receives commission to perform a controversial new work that critiques the very foundations of the kingdom's social order. **Master Darnos** insists that Veldor perform the lead role—a character whose struggle with who he is and what his life means mirrors Veldor's own crisis. The performance becomes an obsession that slowly unravels Veldor's carefully maintained public persona, forcing him to confront the line between performance and reality.
+A Role That Demands Everything
+: The Élavendre City Theater Company receives commission to perform a controversial new work that critiques the very foundations of the kingdom's social order. **Master Darnos** insists that Veldor perform the lead role—a character whose struggle with who he is and what his life means mirrors Veldor's own crisis. The performance becomes an obsession that slowly unravels Veldor's carefully maintained public persona, forcing him to confront the line between performance and reality.
 
-4. **The Rival's Proposal**: In a shocking turn of events, **Dárion Ashford** approaches Veldor with a proposal: collaborate on a revolutionary theatrical production that would blend their talents and cement their place in history. The offer tempts Veldor with exactly what he secretly craves, but accepting it requires him to overcome years of resentment and to trust the one person who has most thoroughly undermined him.
+The Rival's Proposal
+: In a shocking turn of events, **Dárion Ashford** approaches Veldor with a proposal: collaborate on a revolutionary theatrical production that would blend their talents and cement their place in history. The offer tempts Veldor with exactly what he secretly craves, but accepting it requires him to overcome years of resentment and to trust the one person who has most thoroughly undermined him.
 
-5. **The Voice Stolen**: Veldor wakes one morning to discover his voice mysteriously impaired—a condition no physician can diagnose or cure. Desperate and terrified, he must seek answers from shadowy practitioners of arcane arts, ventures into the criminal underworld of Élavendre, and ultimately confront whether his identity and value exist independent of the talent that has defined his entire life.
+The Voice Stolen
+: Veldor wakes one morning to discover his voice mysteriously impaired—a condition no physician can diagnose or cure. Desperate and terrified, he must seek answers from shadowy practitioners of arcane arts, ventures into the criminal underworld of Élavendre, and ultimately confront whether his identity and value exist independent of the talent that has defined his entire life.

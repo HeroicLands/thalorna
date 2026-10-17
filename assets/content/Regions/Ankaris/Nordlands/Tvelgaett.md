@@ -34,8 +34,17 @@ The heirs give the north its idea of what a death is for. A man's heir drinks th
 
 ## See Also
 
-- [[lore-aldarlok|Aldarlok]]—the close of this age, and the fire the heirs come through
-- [[lore-aldarhringr|Aldarhringr]]—the ring of ages, and why every age has heirs
-- [[lore-vetrulfr|Vetrúlfr]]—the Winter-Wolf Aldvar kills
-- [[lore-thrunhamarr|Thrúnhamarr]]—the hammer Hamarberi lifts
-- [[lore-dulmvargr|Dulmvargr]]—the hound that takes Eidgar
+[[lore-aldarlok|Aldarlok]]
+: the close of this age, and the fire the heirs come through
+
+[[lore-aldarhringr|Aldarhringr]]
+: the ring of ages, and why every age has heirs
+
+[[lore-vetrulfr|Vetrúlfr]]
+: the Winter-Wolf Aldvar kills
+
+[[lore-thrunhamarr|Thrúnhamarr]]
+: the hammer Hamarberi lifts
+
+[[lore-dulmvargr|Dulmvargr]]
+: the hound that takes Eidgar

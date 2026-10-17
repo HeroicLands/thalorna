@@ -260,20 +260,29 @@ Round it, distances become uncertain, directions mean nothing and time moves une
 
 ## Attributes
 
-- **Strength:** 15-18 (1d4+14)
+Strength
+: 15-18 (1d4+14)
 
-- **Endurance:** 15-18 (1d4+14)
+Endurance
+: 15-18 (1d4+14)
 
-- **Dexterity:** 9-12 (1d4+8)
+Dexterity
+: 9-12 (1d4+8)
 
-- **Agility:** 15-18 (1d4+14)
+Agility
+: 15-18 (1d4+14)
 
-- **Perception:** 13-16 (1d4+12)
+Perception
+: 13-16 (1d4+12)
 
-- **Aura:** 17-20 (1d4+16)
+Aura
+: 17-20 (1d4+16)
 
-- **Will:** 13-16 (1d4+12)
+Will
+: 13-16 (1d4+12)
 
-- **Reasoning:** 9-12 (1d4+8)
+Reasoning
+: 9-12 (1d4+8)
 
-- **Creativity:** 11-14 (1d4+10)
+Creativity
+: 11-14 (1d4+10)

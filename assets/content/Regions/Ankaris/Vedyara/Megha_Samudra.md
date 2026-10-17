@@ -38,8 +38,17 @@ What reaches the [[place-vylarianse|Vylarian Sea]] from Vedyara goes through Khe
 
 ## See Also
 
-- [[place-vedyarargn|Vedyara Region]]—the coast this sea takes
-- [[place-chandrmahi|The Chandramahi]]—the river that reaches it
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the southwestern maritime partner
-- [[place-suryasamdra|The Surva-samedra]]—the eastern sea
-- [[place-sandhysmdr|The Sandva-samedra]]—the western sea
+[[place-vedyarargn|Vedyara Region]]
+: the coast this sea takes
+
+[[place-chandrmahi|The Chandramahi]]
+: the river that reaches it
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: the southwestern maritime partner
+
+[[place-suryasamdra|The Surva-samedra]]
+: the eastern sea
+
+[[place-sandhysmdr|The Sandva-samedra]]
+: the western sea

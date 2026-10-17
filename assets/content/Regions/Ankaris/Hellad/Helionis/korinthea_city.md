@@ -22,7 +22,14 @@ The [Council of Korinthea]{.name data-type="affiliation/governmental"} is the vi
 
 ## See Also
 
-- [[affiliation-korinthea|Korinthea]]—the city-state and its council
-- [[place-helionis|Helionis]]—the region and its city-states
-- [[lore-helioniteclt|Helionite]]—the culture, and its view of honor
-- [[being-dumarsrfrs|Dumares Rafiros]]—High Judge of the Temple of Árdavon
+[[affiliation-korinthea|Korinthea]]
+: the city-state and its council
+
+[[place-helionis|Helionis]]
+: the region and its city-states
+
+[[lore-helioniteclt|Helionite]]
+: the culture, and its view of honor
+
+[[being-dumarsrfrs|Dumares Rafiros]]
+: High Judge of the Temple of Árdavon

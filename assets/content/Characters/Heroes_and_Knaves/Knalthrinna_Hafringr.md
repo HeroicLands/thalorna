@@ -452,19 +452,37 @@ Knalthrinna seeks to build something permanent—a legacy of commerce and reliab
 
 ### Strengths
 
-- **Master Logistician**: Possesses nearly supernatural ability to assess routes, schedules, and the disposition of wagons and teams; can mentally calculate the best delivery paths and spot waste others overlook
-- **Animal Mastery**: Understands horses and draft beasts with an intuitive depth; can coax extraordinary performance from tired animals and recognize illness or injury before it becomes obvious
-- **Reliable Authority**: Commands real loyalty from her employees through consistent fairness and competence; those who work for Knalthrinna would follow her into danger
-- **Quick Assessment**: Reads situations and people with impressive speed; makes rapid decisions under pressure that usually prove correct
-- **Persuasive Directness**: While not conventionally charming, her straightforward manner and evident competence convince skeptics and patrons alike to trust her judgment
+Master Logistician
+: Possesses nearly supernatural ability to assess routes, schedules, and the disposition of wagons and teams; can mentally calculate the best delivery paths and spot waste others overlook
+
+Animal Mastery
+: Understands horses and draft beasts with an intuitive depth; can coax extraordinary performance from tired animals and recognize illness or injury before it becomes obvious
+
+Reliable Authority
+: Commands real loyalty from her employees through consistent fairness and competence; those who work for Knalthrinna would follow her into danger
+
+Quick Assessment
+: Reads situations and people with impressive speed; makes rapid decisions under pressure that usually prove correct
+
+Persuasive Directness
+: While not conventionally charming, her straightforward manner and evident competence convince skeptics and patrons alike to trust her judgment
 
 ### Weaknesses
 
-- **Impatience Under Pressure**: When deadlines approach or obstacles appear, abandons calculated approach for risky shortcuts that often create larger problems
-- **Emotional Suppression**: Struggles to face or discuss feelings; relationships often suffer because she approaches them with the same hard-headed reckoning she applies to business
-- **Resistance to Delegation**: Tends to take on too much personal responsibility, believing that only she can manage certain tasks properly; exhausts herself despite her capabilities
-- **Contempt for Inefficiency**: Can be coldly dismissive of people or practices that fall below her standards, making enemies among those she views as incompetent
-- **Vulnerability to Debt**: Her expansion often depends on borrowed capital; if a major contract fails or a significant shipment is lost, her entire enterprise becomes precarious
+Impatience Under Pressure
+: When deadlines approach or obstacles appear, abandons calculated approach for risky shortcuts that often create larger problems
+
+Emotional Suppression
+: Struggles to face or discuss feelings; relationships often suffer because she approaches them with the same hard-headed reckoning she applies to business
+
+Resistance to Delegation
+: Tends to take on too much personal responsibility, believing that only she can manage certain tasks properly; exhausts herself despite her capabilities
+
+Contempt for Inefficiency
+: Can be coldly dismissive of people or practices that fall below her standards, making enemies among those she views as incompetent
+
+Vulnerability to Debt
+: Her expansion often depends on borrowed capital; if a major contract fails or a significant shipment is lost, her entire enterprise becomes precarious
 
 ## Social
 
@@ -500,12 +518,17 @@ The Hafringr Company
 
 ## Plot Hooks
 
-1. **The Impossible Delivery**: A mysterious patron, paying in advance with coin of unusual purity from a source Knalthrinna cannot identify, contracts her to deliver a sealed cargo to a remote location within an impossibly short time. The patron provides no information about the cargo's contents, origin, or destination beyond a general heading into dangerous, unmapped territory. The payment is enough to triple her annual income, but the conditions are bizarre enough to trigger every instinct warning of danger. Either it is an opportunity or it is a trap.
+The Impossible Delivery
+: A mysterious patron, paying in advance with coin of unusual purity from a source Knalthrinna cannot identify, contracts her to deliver a sealed cargo to a remote location within an impossibly short time. The patron provides no information about the cargo's contents, origin, or destination beyond a general heading into dangerous, unmapped territory. The payment is enough to triple her annual income, but the conditions are bizarre enough to trigger every instinct warning of danger. Either it is an opportunity or it is a trap.
 
-2. **The Blackwheel Rising**: The Blackwheel Consortium, facing ruin from Knalthrinna's faster and cheaper service, makes a shocking move—they hire Tobias Sallow's merchant gang to actively sabotage her deliveries, hiring brigands to ambush her wagons and corrupt her clients through false allegations. With her reputation under systematic attack and her contracts threatened, Knalthrinna's choices are to respond with ruthless force, to trust her reputation to withstand the assault, or to seek an alliance with former rivals. Each path carries significant risk.
+The Blackwheel Rising
+: The Blackwheel Consortium, facing ruin from Knalthrinna's faster and cheaper service, makes a shocking move—they hire Tobias Sallow's merchant gang to actively sabotage her deliveries, hiring brigands to ambush her wagons and corrupt her clients through false allegations. With her reputation under systematic attack and her contracts threatened, Knalthrinna's choices are to respond with ruthless force, to trust her reputation to withstand the assault, or to seek an alliance with former rivals. Each path carries significant risk.
 
-3. **The Lady's Secret**: Lady Margery Ashford, her closest thing to a true friend, confides in Knalthrinna that she requires immediate, covert transport of a substantial shipment of weapons and provisions to a rebel force building an independent settlement in defiance of the King. Margery asks Knalthrinna to keep the knowledge secret and transport the materials. Accepting means betraying the Kingdom and the law; refusing means abandoning the woman who has shown her real kindness. The decision threatens to shatter Knalthrinna's carefully constructed moral framework.
+The Lady's Secret
+: Lady Margery Ashford, her closest thing to a true friend, confides in Knalthrinna that she requires immediate, covert transport of a substantial shipment of weapons and provisions to a rebel force building an independent settlement in defiance of the King. Margery asks Knalthrinna to keep the knowledge secret and transport the materials. Accepting means betraying the Kingdom and the law; refusing means abandoning the woman who has shown her real kindness. The decision threatens to shatter Knalthrinna's carefully constructed moral framework.
 
-4. **The Inherited Claim**: An elderly merchant from a distant city arrives bearing legal documents proving that Knalthrinna's distant relative—a side branch of the Hafringr line she has never heard of—left her a substantial fleet of wagons and trading rights to an entirely new region. The inheritance is real, the opportunity immense, but accepting it requires Knalthrinna to travel to this foreign city to take possession and establish operations there. It represents everything she has worked toward, yet leaving her established enterprise risks losing it to the Blackwheel Consortium or other competitors.
+The Inherited Claim
+: An elderly merchant from a distant city arrives bearing legal documents proving that Knalthrinna's distant relative—a side branch of the Hafringr line she has never heard of—left her a substantial fleet of wagons and trading rights to an entirely new region. The inheritance is real, the opportunity immense, but accepting it requires Knalthrinna to travel to this foreign city to take possession and establish operations there. It represents everything she has worked toward, yet leaving her established enterprise risks losing it to the Blackwheel Consortium or other competitors.
 
-5. **The Brigand's Recruitment**: A band of skilled brigands who have been stealing from merchant caravans across the kingdom approaches Knalthrinna with a revelation—they steal not for personal enrichment but to fund an organization opposed to royal taxation they view as unjust. They propose that Knalthrinna could aid their cause by identifying valuable shipments, providing safe houses along her routes, or temporarily disappearing inconvenient deliveries. In exchange, they offer protection, information, and a share of their operations. It is structured as an opportunity to serve a cause larger than commerce, but represents a betrayal of her fundamental code of reliable service.
+The Brigand's Recruitment
+: A band of skilled brigands who have been stealing from merchant caravans across the kingdom approaches Knalthrinna with a revelation—they steal not for personal enrichment but to fund an organization opposed to royal taxation they view as unjust. They propose that Knalthrinna could aid their cause by identifying valuable shipments, providing safe houses along her routes, or temporarily disappearing inconvenient deliveries. In exchange, they offer protection, information, and a share of their operations. It is structured as an opportunity to serve a cause larger than commerce, but represents a betrayal of her fundamental code of reliable service.

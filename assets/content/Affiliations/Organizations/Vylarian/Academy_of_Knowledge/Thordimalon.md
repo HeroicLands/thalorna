@@ -103,10 +103,17 @@ The remaining colleges of the Epistémion (ethics, logic, metaphysics, natural p
 
 The Kandrol set out four principles that hold today:
 
-- **Monopoly:** Only members of the Order may practice, research or teach arcane lore. All other practice is illegal.
-- **Registration:** Every child who shows arcane talent must be reported to the Order and evaluated for enrollment.
-- **Regulation:** The Order sets standards for arcane practice, keeps lists of prohibited magics, and controls the trade in arcane materials and texts.
-- **Accountability:** The Order answers to the state (first the Senate, now the Orzas, as the Vylarians call their emperor), and the state grants it legal authority and institutional protection in return.
+Monopoly
+: Only members of the Order may practice, research or teach arcane lore. All other practice is illegal.
+
+Registration
+: Every child who shows arcane talent must be reported to the Order and evaluated for enrollment.
+
+Regulation
+: The Order sets standards for arcane practice, keeps lists of prohibited magics, and controls the trade in arcane materials and texts.
+
+Accountability
+: The Order answers to the state (first the Senate, now the Orzas, as the Vylarians call their emperor), and the state grants it legal authority and institutional protection in return.
 
 Many independent practitioners refused to submit. Some fled beyond Vylarian control and others went underground, and the early decades of the Order ([[lore-huntingyears|The Hunting Years]]) were taken up with bitter campaigns to enforce the monopoly: hunting down renegades, destroying rival traditions, and using the Sekran as the instrument of arcane compliance. The memory of the Helionite wars gave the enforcers their argument: _remember what happened the last time mages were free to do as they pleased._
 
@@ -158,12 +165,23 @@ Two consequences matter here. Alliances across fellowships form most easily betw
 
 Each of the six _rheza_ has a corresponding **Zulen** (pl. _Zulethalar_), a fellowship of practitioners who share it. The Zulethalar (fellowships) work something like religious orders within a church: they cut across the formal hierarchy of chapters and colleges, binding together mages who share a philosophical orientation wherever they are stationed and whatever practical discipline they study.
 
-- **Zulen [[affiliation-pyrethos|Pirethos]]**—The Fellowship of Fire. Aggressive, ambitious and politically influential. Fire mages are drawn to combat magic and hold a disproportionate share of the Sekran.
-- **Zulen [[affiliation-hydalis|Hidalis]]**—The Fellowship of Water. Patient, adaptable, and associated with healing and divination. Water mages often serve as mediators in internal disputes.
-- **Zulen [[affiliation-zepharis|Zefaris]]**—The Fellowship of Air. Subtle, cerebral, and drawn to illusion, communication and the magic of the unseen. It is the smallest fellowship and is heavily represented among the Order's intelligence operatives.
-- **Zulen [[affiliation-physera|Fisera]]**—The Fellowship of Earth. Practical, conservative and deeply rooted in tradition. Earth mages dominate alchemy, herblore and the crafting of magical materials, and the fellowship is the largest by membership.
-- **Zulen [[affiliation-sideros|Sideris]]**—The Fellowship of Metal. Precise and disciplined, associated with binding, warding and the imposition of arcane order. Metal mages have strong ties to the [College of Enchantment]{.name data-type="affiliation"}.
-- **Zulen [[affiliation-pneumenos|Neumenos]]**—The Fellowship of Spirit. Mystical, intense and sometimes unsettling: summoners, seers and practitioners who deal with entities beyond the material world. The other fellowships regard it warily, and the Sekran supervises it most closely.
+Zulen [[affiliation-pyrethos|Pirethos]]
+: The Fellowship of Fire. Aggressive, ambitious and politically influential. Fire mages are drawn to combat magic and hold a disproportionate share of the Sekran.
+
+Zulen [[affiliation-hydalis|Hidalis]]
+: The Fellowship of Water. Patient, adaptable, and associated with healing and divination. Water mages often serve as mediators in internal disputes.
+
+Zulen [[affiliation-zepharis|Zefaris]]
+: The Fellowship of Air. Subtle, cerebral, and drawn to illusion, communication and the magic of the unseen. It is the smallest fellowship and is heavily represented among the Order's intelligence operatives.
+
+Zulen [[affiliation-physera|Fisera]]
+: The Fellowship of Earth. Practical, conservative and deeply rooted in tradition. Earth mages dominate alchemy, herblore and the crafting of magical materials, and the fellowship is the largest by membership.
+
+Zulen [[affiliation-sideros|Sideris]]
+: The Fellowship of Metal. Precise and disciplined, associated with binding, warding and the imposition of arcane order. Metal mages have strong ties to the [College of Enchantment]{.name data-type="affiliation"}.
+
+Zulen [[affiliation-pneumenos|Neumenos]]
+: The Fellowship of Spirit. Mystical, intense and sometimes unsettling: summoners, seers and practitioners who deal with entities beyond the material world. The other fellowships regard it warily, and the Sekran supervises it most closely.
 
 Kentra mages belong to no Zulen (fellowship), or rather have outgrown the one they began in. Some keep honorary ties to their original fellowship; others are regarded with awe and suspicion by former colleagues who can no longer follow how they think. There is no formal Zulen Kentra, though Kentra mages tend to find each other and form loose networks. The Order has debated whether to formalize a fellowship for them, and the Kentra mages have always resisted: organizing a group defined by transcending categories into a category of its own misses the point.
 
@@ -179,9 +197,14 @@ Reassignment is rare and treated as extraordinary. A mage who has spent years le
 
 The Order also organizes its practical disciplines into colleges, a structure that complements the Zulethalar. A Zulen reflects how a mage perceives magic, and a college reflects what the mage does with it.
 
-- **The [College of Thaumaturgy]{.name data-type="affiliation"}**—general magical practice; the largest and most influential college
-- **The [College of Alchemy]{.name data-type="affiliation"}**—transmutation, potion-craft and material science
-- **The [College of Divination]{.name data-type="affiliation"}**—prophecy, scrying and the interpretation of signs
+The [College of Thaumaturgy]{.name data-type="affiliation"}
+: general magical practice; the largest and most influential college
+
+The [College of Alchemy]{.name data-type="affiliation"}
+: transmutation, potion-craft and material science
+
+The [College of Divination]{.name data-type="affiliation"}
+: prophecy, scrying and the interpretation of signs
 
 Each college keeps its own curriculum, its own internal hierarchy and its own political agenda. The rivalries between colleges are intense and sometimes bitter, and all of them answer to the Verdan Maldor.
 
@@ -220,27 +243,57 @@ Four things keep a chapter house running:
 
 The Order keeps regional chapters in every significant city and territory within its sphere, and their strength varies enormously.
 
-- **[[affiliation-provinclys|Alessa]]:** The Order's headquarters, at maximum strength and influence. The Verdan Maldor meets here.
-- **[[place-helionis|Helionis]]:** Deeply rooted, as the intellectual birthplace of the Order, and among the most prestigious chapters, with the finest libraries and scholars. Local philosophical-magical traditions have negotiated autonomy, and the Sekran treads carefully. The chapter's oldest teaching line runs to Theradon, not Thirenae.
-- **[[affiliation-provincvld|Province of Salkalon]] and [[affiliation-provnchyln|Province of Hilen]]:** Solid chapters with reliable imperial backing.
-- **[[affiliation-provncmktr|Moktur]]:** A limited presence. The frontier military _therkoi_ (governors) tolerate the Order and do not prioritize its agenda.
-- **[[place-provenzrgn|Provenzia Region]]:** Present, but under royal oversight. Mages answer to the Provenzian crown as well as to the Order.
-- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]:** Active and politically constrained. The merchant guilds see the Order as a tool of Vylarian influence and have restricted its activities.
-- **[[place-tarvenirgn|Tarvénia Region]]:** A minimal presence. A handful of chapters in major cities work cautiously in a culture deeply hostile to institutional magic.
-- **[[place-elavendre|Élavendre]]:** A substantial urban presence centered on the **[University of Péravel]{.name data-type="affiliation"}**, the largest Epistémion campus outside Vylaria, with several Zulen chapterhouses in residence. The Order has considerable influence in the capital and the larger towns, rivaling or exceeding the [[affiliation-bardicolgs|Bardic Circle]] and [[affiliation-groveconcl|The Grove Council]]. Outside the cities its reach is fiercely contested by traditional institutions and the [[affiliation-alndnwrdns|Áelendan Wardens]], and agents who probe the fae-touched interior do so at real personal risk.
-- **[[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and the Nordmen kingdoms:** No presence. The Nordmen have their own velvur traditions and no interest in southern magical bureaucracy.
-- **[[place-byzariargn|Bizaria Region]]:** Small but growing. The League's commercial interests create demand for Order services.
+[[affiliation-provinclys|Alessa]]
+: The Order's headquarters, at maximum strength and influence. The Verdan Maldor meets here.
+
+[[place-helionis|Helionis]]
+: Deeply rooted, as the intellectual birthplace of the Order, and among the most prestigious chapters, with the finest libraries and scholars. Local philosophical-magical traditions have negotiated autonomy, and the Sekran treads carefully. The chapter's oldest teaching line runs to Theradon, not Thirenae.
+
+[[affiliation-provincvld|Province of Salkalon]] and [[affiliation-provnchyln|Province of Hilen]]
+: Solid chapters with reliable imperial backing.
+
+[[affiliation-provncmktr|Moktur]]
+: A limited presence. The frontier military _therkoi_ (governors) tolerate the Order and do not prioritize its agenda.
+
+[[place-provenzrgn|Provenzia Region]]
+: Present, but under royal oversight. Mages answer to the Provenzian crown as well as to the Order.
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: Active and politically constrained. The merchant guilds see the Order as a tool of Vylarian influence and have restricted its activities.
+
+[[place-tarvenirgn|Tarvénia Region]]
+: A minimal presence. A handful of chapters in major cities work cautiously in a culture deeply hostile to institutional magic.
+
+[[place-elavendre|Élavendre]]
+: A substantial urban presence centered on the **[University of Péravel]{.name data-type="affiliation"}**, the largest Epistémion campus outside Vylaria, with several Zulen chapterhouses in residence. The Order has considerable influence in the capital and the larger towns, rivaling or exceeding the [[affiliation-bardicolgs|Bardic Circle]] and [[affiliation-groveconcl|The Grove Council]]. Outside the cities its reach is fiercely contested by traditional institutions and the [[affiliation-alndnwrdns|Áelendan Wardens]], and agents who probe the fae-touched interior do so at real personal risk.
+
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and the Nordmen kingdoms
+: No presence. The Nordmen have their own velvur traditions and no interest in southern magical bureaucracy.
+
+[[place-byzariargn|Bizaria Region]]
+: Small but growing. The League's commercial interests create demand for Order services.
 
 ### Beyond Western Ankaris
 
 The Order has tried to extend its influence across the rest of Thalorna with mixed results. It presents these efforts as partnerships, offering expertise, magical services and the prestige of association with the most powerful arcane institution in the west. In practice it is looking for footholds from which to expand its monopoly, and most foreign powers see that clearly.
 
-- **[[affiliation-empireakhlth|Empire of Au'Khelathu]]:** The Order has no presence in Au'Khelathu and no prospect of one. Its agents visit the delta ports as foreign scholars, agents of the Gar-Au's court shadow them while they are there, and the few who have tried to recruit Khelathi mages have been expelled. The Khelathi priestly-magical establishment is older, more deeply rooted and more powerful within its own borders than the Order, and it has no intention of ceding authority. The Order chafes and has no leverage to change the terms.
-- **[[affiliation-tantsouempr|Empire of Tantsou]]:** The Order is all but forbidden. Its members are confined to diplomatic enclaves, essentially embassy compounds, and are forbidden on pain of death to practice magic outside the walls. Tantsou's own arcane traditions are sophisticated and ancient, and the imperial court sees the Order as a foreign intelligence service in scholarly robes. The Order keeps its enclaves mainly to gather intelligence and as a token of diplomatic presence.
-- **[[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]]:** A minimal presence. The desert peoples have their own traditions and no central authority for the Order to negotiate with. Individual agents sometimes travel the caravan routes at their own risk.
-- **[[place-vedyarargn|Vedyara Region]]:** One licensed factor at the river mouth below [[place-chandrapur2|Chendrapur]], and nothing else. There is no chapter house, no school and no Order right to examine anybody. The subcontinent's own traditions are mature and licensed by the Varnakan schools themselves. The political fragmentation the Order would ordinarily work through is no help, because what it would need is a place in a licensing structure that has no vacancy, and no ruler's favor can supply one.
-- **[[affiliation-kalihara|Kalihara]]:** No presence. The island is too remote and too self-sufficient to have drawn serious Order attention, and its one scholar, at [[place-ilovanu|Ilovanu]], studies there on his own account.
-- **[[affiliation-mtrrchybth|Matriarchy of Bethua]]:** No presence. The Matriarchy has its own magical traditions and no interest in western institutions.
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: The Order has no presence in Au'Khelathu and no prospect of one. Its agents visit the delta ports as foreign scholars, agents of the Gar-Au's court shadow them while they are there, and the few who have tried to recruit Khelathi mages have been expelled. The Khelathi priestly-magical establishment is older, more deeply rooted and more powerful within its own borders than the Order, and it has no intention of ceding authority. The Order chafes and has no leverage to change the terms.
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: The Order is all but forbidden. Its members are confined to diplomatic enclaves, essentially embassy compounds, and are forbidden on pain of death to practice magic outside the walls. Tantsou's own arcane traditions are sophisticated and ancient, and the imperial court sees the Order as a foreign intelligence service in scholarly robes. The Order keeps its enclaves mainly to gather intelligence and as a token of diplomatic presence.
+
+[[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]]
+: A minimal presence. The desert peoples have their own traditions and no central authority for the Order to negotiate with. Individual agents sometimes travel the caravan routes at their own risk.
+
+[[place-vedyarargn|Vedyara Region]]
+: One licensed factor at the river mouth below [[place-chandrapur2|Chendrapur]], and nothing else. There is no chapter house, no school and no Order right to examine anybody. The subcontinent's own traditions are mature and licensed by the Varnakan schools themselves. The political fragmentation the Order would ordinarily work through is no help, because what it would need is a place in a licensing structure that has no vacancy, and no ruler's favor can supply one.
+
+[[affiliation-kalihara|Kalihara]]
+: No presence. The island is too remote and too self-sufficient to have drawn serious Order attention, and its one scholar, at [[place-ilovanu|Ilovanu]], studies there on his own account.
+
+[[affiliation-mtrrchybth|Matriarchy of Bethua]]
+: No presence. The Matriarchy has its own magical traditions and no interest in western institutions.
 
 ## The Sekran
 
@@ -252,11 +305,20 @@ A _sekeros_'s notary, writing up a search for the chapter's file, explains how t
 
 The Sekran chooses its method by the severity of the offense:
 
-- **Recruitment:** The preferred outcome. Most unsanctioned practitioners are simply enrolled in the Order, often on restrictive terms. This is especially common with children and adolescents who have manifested talent without anyone reporting them.
-- **Confiscation:** Arcane materials, texts and artifacts held by unauthorized persons are seized and either destroyed or added to the Order's archives.
-- **Restriction:** Practitioners who cannot or will not be enrolled may be placed under binding oaths or magical constraints that limit their abilities.
-- **Imprisonment:** Persistent offenders and those judged dangerous are held in Order facilities, magical prisons kept at several places across western Ankaris.
-- **Elimination:** In extreme cases the Sekran is authorized to kill: rogue mages who threaten public safety, practitioners of categorically forbidden arts, and fugitives who resist everything else.
+Recruitment
+: The preferred outcome. Most unsanctioned practitioners are simply enrolled in the Order, often on restrictive terms. This is especially common with children and adolescents who have manifested talent without anyone reporting them.
+
+Confiscation
+: Arcane materials, texts and artifacts held by unauthorized persons are seized and either destroyed or added to the Order's archives.
+
+Restriction
+: Practitioners who cannot or will not be enrolled may be placed under binding oaths or magical constraints that limit their abilities.
+
+Imprisonment
+: Persistent offenders and those judged dangerous are held in Order facilities, magical prisons kept at several places across western Ankaris.
+
+Elimination
+: In extreme cases the Sekran is authorized to kill: rogue mages who threaten public safety, practitioners of categorically forbidden arts, and fugitives who resist everything else.
 
 ### Reputation
 

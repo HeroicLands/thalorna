@@ -32,6 +32,11 @@ What passes under it is the gold, ivory, ebony and slaves of the southern trade,
 
 ## See Also
 
-- [[affiliation-selatzuzllgl|The Selat of Zu-Zalu-Legulu]]—Parent selat
-- [[affiliation-borderselatu|The Border Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
+[[affiliation-selatzuzllgl|The Selat of Zu-Zalu-Legulu]]
+: Parent selat
+
+[[affiliation-borderselatu|The Border Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview

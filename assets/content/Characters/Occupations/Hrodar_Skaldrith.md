@@ -431,10 +431,14 @@ A younger war-leader of Waldburg who takes the raiding contracts Hrodar refuses 
 
 ## Plot Hooks
 
-1. **The Prince's Contract**—A river-prince has hired the Frath to take a village on his rival's bank, and the terms, read closely, are for the people in it. Hrodar has sworn to it, and his men have spent the advance.
+The Prince's Contract
+: A river-prince has hired the Frath to take a village on his rival's bank, and the terms, read closely, are for the people in it. Hrodar has sworn to it, and his men have spent the advance.
 
-2. **The Boy**—A boy Hrodar trained went out under the younger war-leader and did not come back, and the war-leader's account of how he died is not the one the survivors tell.
+The Boy
+: A boy Hrodar trained went out under the younger war-leader and did not come back, and the war-leader's account of how he died is not the one the survivors tell.
 
-3. **The Therkos's Offer**—A Moktur _therkos_ (governor) has offered the Frath a standing post on the march, with pay and land, to hold the frontier against Varokh. Half his men want it.
+The Therkos's Offer
+: A Moktur _therkos_ (governor) has offered the Frath a standing post on the march, with pay and land, to hold the frontier against Varokh. Half his men want it.
 
-4. **The Council**—The [Common Council]{.name data-type="affiliation/governmental"} has been called against a [[lore-nordheimnclt|Nordheimn]] push into the western forest, and Waldburg's War Chief means to send the younger man's band. Hrodar is to stay and train boys.
+The Council
+: The [Common Council]{.name data-type="affiliation/governmental"} has been called against a [[lore-nordheimnclt|Nordheimn]] push into the western forest, and Waldburg's War Chief means to send the younger man's band. Hrodar is to stay and train boys.

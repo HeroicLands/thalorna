@@ -34,7 +34,14 @@ The factors say among themselves that true power is already shifting away from t
 
 ## See Also
 
-- [[affiliation-provinclys|Province of Alessa]]—the parent province
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the imperial overview
-- [[skill-vylarilng|Vylari]]—the naming tradition
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the religious tradition
+[[affiliation-provinclys|Province of Alessa]]
+: the parent province
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the imperial overview
+
+[[skill-vylarilng|Vylari]]
+: the naming tradition
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the religious tradition

@@ -58,11 +58,20 @@ Orzara is not ruled by an _usos_ (prefect). The Empire learned long ago that a s
 
 The five **veramusoi** (curators of the city) sit as equals and decide the weightier matters as a body, by majority. Each holds a standing portfolio:
 
-- **The Veramus of Law**—the city's chief judicial authority; oversees the _peltroi_ (ward magistrates), the Civil Courts, and the Criminal Tribunal, and presides when the council sits as the supreme civic court.
-- **The Veramus of Order**—commands the [[affiliation-vylrnmltry|City Watch]], and answers for public order, the watch-houses, and the city gaols.
-- **The Veramus of the Grain**—the granaries, the dole, the licensed markets, and the unceasing daily supply on which the capital lives.
-- **The Veramus of Works and Waters**—the fabric of the city: its streets and bridges, its aqueducts and sewers, its public buildings, baths, and the upkeep (or quiet neglect) of the Circles and avenues.
-- **The Veramus of the Rolls**—the census, the citizen-rolls, the city's records, and its correspondence with the throne; by custom the council's coordinating seat.
+The Veramus of Law
+: the city's chief judicial authority; oversees the _peltroi_ (ward magistrates), the Civil Courts, and the Criminal Tribunal, and presides when the council sits as the supreme civic court.
+
+The Veramus of Order
+: commands the [[affiliation-vylrnmltry|City Watch]], and answers for public order, the watch-houses, and the city gaols.
+
+The Veramus of the Grain
+: the granaries, the dole, the licensed markets, and the unceasing daily supply on which the capital lives.
+
+The Veramus of Works and Waters
+: the fabric of the city: its streets and bridges, its aqueducts and sewers, its public buildings, baths, and the upkeep (or quiet neglect) of the Circles and avenues.
+
+The Veramus of the Rolls
+: the census, the citizen-rolls, the city's records, and its correspondence with the throne; by custom the council's coordinating seat.
 
 The chair rotates among them so that none becomes "the" head of the city, and the Orzas takes deliberate care to appoint _veramusoi_ who will check rather than collude with one another. A council that grows too harmonious is a council the throne begins to watch. In practice the five are perpetual rivals—for the Orzas's favor, for the richest portfolios, and for the patronage that flows through each office—and a great deal of the city's real politics is the politics of the Verdan Orzara.
 
@@ -72,9 +81,14 @@ Beneath the council runs a tiered court system. The [[affiliation-vylrnmltry|Cit
 
 A ward clerk of the [[affiliation-aediles|Pelthralon]], asked how the tiers look from the bottom, answers for most of the city: "Most people see one magistrate in their lives, and he is the _peltros_ of their ward. Everything above him is something that happens to somebody else."
 
-- **The Pelthralon**—the magistrates of the wards, and the only court most Orzarans ever see. They keep the district law: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. They levy fines, shutter premises, and condemn buildings; the Watch supplies the muscle behind their rulings.
-- **The Civil Courts**—the civil courts, where citizen sues citizen over property, contract, debt, inheritance, and standing. Cases are heard by **Sentori** drawn from the propertied orders, the weightier disputes before panels.
-- **The Criminal Tribunal**—for theft, violence, homicide, and sedition short of treason. The Watch brings the accused; the Tribunal judges; its sentences run from fines and forced labor to the arena and the executioner.
+The Pelthralon
+: the magistrates of the wards, and the only court most Orzarans ever see. They keep the district law: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. They levy fines, shutter premises, and condemn buildings; the Watch supplies the muscle behind their rulings.
+
+The Civil Courts
+: the civil courts, where citizen sues citizen over property, contract, debt, inheritance, and standing. Cases are heard by **Sentori** drawn from the propertied orders, the weightier disputes before panels.
+
+The Criminal Tribunal
+: for theft, violence, homicide, and sedition short of treason. The Watch brings the accused; the Tribunal judges; its sentences run from fines and forced labor to the arena and the executioner.
 
 Appeals, and the gravest civic cases, rise to the **Verdan Orzara** sitting as a body under the _veramus_ of Law. There the civic system ends; it has no authority over the nobility, the Senate, or the crown.
 
@@ -90,8 +104,17 @@ For all its tiers and titles, the law of Orzara runs partly on influence, and ev
 
 ### See Also
 
-- [[place-orzara|Orzara]]—the imperial capital this council and these courts govern
-- [[affiliation-vylrnmltry|The Vylarian Military]]—home of the City Watch (a branch of the legions) and the Sorvan (the imperial guard)
-- [[affiliation-tarmex|The Tarmeks Orzan]]—housed, like the imperial tribunals, in the Imperial Offices
-- [[affiliation-tolvan|The Tolvan]]—the tax administration, also seated in the Offices
-- [[affiliation-seldan|Seldan]]—the Senate, the highest court for senatorial persons
+[[place-orzara|Orzara]]
+: the imperial capital this council and these courts govern
+
+[[affiliation-vylrnmltry|The Vylarian Military]]
+: home of the City Watch (a branch of the legions) and the Sorvan (the imperial guard)
+
+[[affiliation-tarmex|The Tarmeks Orzan]]
+: housed, like the imperial tribunals, in the Imperial Offices
+
+[[affiliation-tolvan|The Tolvan]]
+: the tax administration, also seated in the Offices
+
+[[affiliation-seldan|Seldan]]
+: the Senate, the highest court for senatorial persons

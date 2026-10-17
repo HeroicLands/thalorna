@@ -36,9 +36,20 @@ Common faith is [[lore-ancstrwrshp|ancestor worship]], kept as a ledger: merit a
 
 ## Where to Read Next
 
-- [[lore-tantsouclt|The Tantsou]]—classification, the ledger, names and manners
-- [[affiliation-tantsouempr|The Empire of Tantsou]]—the throne, the Warlords, the sorcerers and the frontiers
-- [[lore-castelaws|Caste Laws]]—the eight castes, the tablets and the foreigner's standing
-- [[lore-celestlrdr|The Celestial Order]]—the Dragon, the ministries and the Unclassified
-- [[place-tantsouregin|The Tantsou Region]]—the rivers, the terraces and the neighbors
-- [[skill-tantsoulng|The Tantsou language]]—pronunciation, vocabulary and names
+[[lore-tantsouclt|The Tantsou]]
+: classification, the ledger, names and manners
+
+[[affiliation-tantsouempr|The Empire of Tantsou]]
+: the throne, the Warlords, the sorcerers and the frontiers
+
+[[lore-castelaws|Caste Laws]]
+: the eight castes, the tablets and the foreigner's standing
+
+[[lore-celestlrdr|The Celestial Order]]
+: the Dragon, the ministries and the Unclassified
+
+[[place-tantsouregin|The Tantsou Region]]
+: the rivers, the terraces and the neighbors
+
+[[skill-tantsoulng|The Tantsou language]]
+: pronunciation, vocabulary and names

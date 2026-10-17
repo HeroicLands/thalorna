@@ -435,10 +435,14 @@ The ship-owners' council of Valthari, which sets the crews' share and has heard 
 
 ## Plot Hooks
 
-1. **The Storm Season**—A merchant house has offered a charter that would clear her house's debts, for a run to [[place-helionis|Helionis]] in the month the pilots of Valthari do not sail.
+The Storm Season
+: A merchant house has offered a charter that would clear her house's debts, for a run to [[place-helionis|Helionis]] in the month the pilots of Valthari do not sail.
 
-2. **The Strike**—The seamen of Valthari have refused to sign until the owners raise the share, and the owners' council has asked Dálina, whose crew is loyal, to sail and break it.
+The Strike
+: The seamen of Valthari have refused to sign until the owners raise the share, and the owners' council has asked Dálina, whose crew is loyal, to sail and break it.
 
-3. **The Debt**—Her father has borrowed against the ship to hold the lordship, and the lender is a house on the owners' council.
+The Debt
+: Her father has borrowed against the ship to hold the lordship, and the lender is a house on the owners' council.
 
-4. **The Cargo**—A charter's manifest says wine, and the casks are the wrong weight. Dálina is at sea, and the port she is bound for hangs smugglers.
+The Cargo
+: A charter's manifest says wine, and the casks are the wrong weight. Dálina is at sea, and the port she is bound for hangs smugglers.

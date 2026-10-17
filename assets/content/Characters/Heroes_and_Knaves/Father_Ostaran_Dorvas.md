@@ -443,20 +443,47 @@ One of Ostaran’s most recent assignments involves investigating **Lord Nizelo 
 
 ### Skills and Abilities
 
-- **Strength**: His strength lies more in his faith and conviction than in physical prowess.
-- **Endurance**: Has endurance for the long hours and trials of priestly life, though not as robust as a warrior.
-- **Dexterity**: His hands are steady for performing rituals but not outstanding.
-- **Agility**: His agility is unremarkable but not a weakness.
-- **Perception**: He is aware of his surroundings.
-- **Comeliness**: Ostaran’s appearance is modest and respectful, with an air of calm dignity.
-- **Aura**: Ostaran has a deep metaphysical power and awareness.
-- **Will**: His will is unbreakable, strengthened by his devotion to his god and his cause.
-- **Reasoning**: Ostaran’s logic is tempered by his faith, and he uses both to guide his decisions.
-- **Creativity**: His creativity lies in interpreting religious texts and adapting them to new situations.
-- **Empathy**: He is deeply attuned to the needs and feelings of others, making him an effective priest.
-- **Eloquence**: His sermons and words of wisdom are delivered with clarity and conviction.
-- **Morality**: Ostaran, as a Árdavonian priest, adheres strictly to his religion’s standards of chivalry, honor, and protecting the weak, making principled decisions even at personal cost.
-- **Voice**: As a priest, Ostaran often leads chants and religious hymns. His voice is clear and strong, resonating with reverence and devotion.
+Strength
+: His strength lies more in his faith and conviction than in physical prowess.
+
+Endurance
+: Has endurance for the long hours and trials of priestly life, though not as robust as a warrior.
+
+Dexterity
+: His hands are steady for performing rituals but not outstanding.
+
+Agility
+: His agility is unremarkable but not a weakness.
+
+Perception
+: He is aware of his surroundings.
+
+Comeliness
+: Ostaran’s appearance is modest and respectful, with an air of calm dignity.
+
+Aura
+: Ostaran has a deep metaphysical power and awareness.
+
+Will
+: His will is unbreakable, strengthened by his devotion to his god and his cause.
+
+Reasoning
+: Ostaran’s logic is tempered by his faith, and he uses both to guide his decisions.
+
+Creativity
+: His creativity lies in interpreting religious texts and adapting them to new situations.
+
+Empathy
+: He is deeply attuned to the needs and feelings of others, making him an effective priest.
+
+Eloquence
+: His sermons and words of wisdom are delivered with clarity and conviction.
+
+Morality
+: Ostaran, as a Árdavonian priest, adheres strictly to his religion’s standards of chivalry, honor, and protecting the weak, making principled decisions even at personal cost.
+
+Voice
+: As a priest, Ostaran often leads chants and religious hymns. His voice is clear and strong, resonating with reverence and devotion.
 
 ## Psyche
 
@@ -496,8 +523,11 @@ Sir [[being-srdlvnthrvkknghtwstrnmrchs|Dalven]] Thorvek
 
 ## Plot Hooks
 
-1. **Investigating Corruption**: Ostaran’s investigation into Lord Nizelo’s actions could lead to the discovery of a larger conspiracy within the kingdom. Players could assist him in gathering evidence, infiltrating noble circles, or protecting him from assassination attempts.
+Investigating Corruption
+: Ostaran’s investigation into Lord Nizelo’s actions could lead to the discovery of a larger conspiracy within the kingdom. Players could assist him in gathering evidence, infiltrating noble circles, or protecting him from assassination attempts.
 
-2. **A Knight’s Duel**: Lord Nizelo, unwilling to face justice, may challenge Father Ostaran to a duel, forcing him to prove his martial skills in a high-stakes confrontation.
+A Knight’s Duel
+: Lord Nizelo, unwilling to face justice, may challenge Father Ostaran to a duel, forcing him to prove his martial skills in a high-stakes confrontation.
 
-3. **Political Intrigue**: As Father Ostaran navigates the complexities of the royal court, players may become entangled in the power struggles between the nobility and the church, with the fate of Tarvénia’s chivalric code hanging in the balance.
+Political Intrigue
+: As Father Ostaran navigates the complexities of the royal court, players may become entangled in the power struggles between the nobility and the church, with the fate of Tarvénia’s chivalric code hanging in the balance.

@@ -462,21 +462,43 @@ Branakis is driven by a commitment to excellence that borders on obsession, and 
 
 ### Strengths
 
-- **Mastery of Charcoal Craft**: Branakis' skill in creating charcoal of superior quality has no equal in the region. He understands the craft at a level that approaches art, with knowledge accumulated over four decades of dedicated practice.
-- **Physical Strength and Endurance**: Despite his advancing years, Branakis remains extraordinarily strong. His body is a finely-honed instrument of labor, capable of sustained effort that would exhaust younger men.
-- **Deep Knowledge of Forests**: Years of harvesting timber have given him a deep understanding of woodcraft, forestry, and the life of the great forests. He can read forests the way scholars read texts.
-- **Integrity and Principle**: Branakis refuses to compromise on his standards or principles, regardless of financial pressure or market demand. He will not produce inferior charcoal regardless of how much he is offered for it.
-- **Problem Solving**: His practical mind and extensive experience enable him to solve practical problems with clever economy, particularly anything related to fire, the control of heat, or the working of materials.
-- **Mentorship**: Despite his harsh demeanor, Branakis has shaped several competent charcoalers and craftspeople through his demanding instruction. Those who stick with him learn real excellence.
+Mastery of Charcoal Craft
+: Branakis' skill in creating charcoal of superior quality has no equal in the region. He understands the craft at a level that approaches art, with knowledge accumulated over four decades of dedicated practice.
+
+Physical Strength and Endurance
+: Despite his advancing years, Branakis remains extraordinarily strong. His body is a finely-honed instrument of labor, capable of sustained effort that would exhaust younger men.
+
+Deep Knowledge of Forests
+: Years of harvesting timber have given him a deep understanding of woodcraft, forestry, and the life of the great forests. He can read forests the way scholars read texts.
+
+Integrity and Principle
+: Branakis refuses to compromise on his standards or principles, regardless of financial pressure or market demand. He will not produce inferior charcoal regardless of how much he is offered for it.
+
+Problem Solving
+: His practical mind and extensive experience enable him to solve practical problems with clever economy, particularly anything related to fire, the control of heat, or the working of materials.
+
+Mentorship
+: Despite his harsh demeanor, Branakis has shaped several competent charcoalers and craftspeople through his demanding instruction. Those who stick with him learn real excellence.
 
 ### Weaknesses
 
-- **Inflexible Thinking**: Branakis' refusal to adapt his methods or consider new approaches has become increasingly problematic. He views all change with deep suspicion and resistance.
-- **Poor Communication**: His inability or unwillingness to explain his reasoning or methods makes him difficult to work with. Subordinates are often confused about what he actually wants from them.
-- **Physical Decline**: While still strong, his body is wearing out. His back troubles him after long days of labor; his hands develop arthritis during cold seasons; his endurance, though impressive, is no longer boundless.
-- **Bitterness About Change**: His conviction that the world is degrading and that the values he upholds are being abandoned by society has curdled into bitterness. This makes him increasingly isolated and difficult to be around.
-- **Resistance to Help**: His pride and his belief in self-reliance make him unable to ask for assistance, even when circumstances would justify it. He views accepting help as a form of weakness.
-- **Emotional Repression**: Like many who have experienced significant loss, Branakis has learned to suppress emotion entirely. This leaves him isolated and incapable of forming real human connections.
+Inflexible Thinking
+: Branakis' refusal to adapt his methods or consider new approaches has become increasingly problematic. He views all change with deep suspicion and resistance.
+
+Poor Communication
+: His inability or unwillingness to explain his reasoning or methods makes him difficult to work with. Subordinates are often confused about what he actually wants from them.
+
+Physical Decline
+: While still strong, his body is wearing out. His back troubles him after long days of labor; his hands develop arthritis during cold seasons; his endurance, though impressive, is no longer boundless.
+
+Bitterness About Change
+: His conviction that the world is degrading and that the values he upholds are being abandoned by society has curdled into bitterness. This makes him increasingly isolated and difficult to be around.
+
+Resistance to Help
+: His pride and his belief in self-reliance make him unable to ask for assistance, even when circumstances would justify it. He views accepting help as a form of weakness.
+
+Emotional Repression
+: Like many who have experienced significant loss, Branakis has learned to suppress emotion entirely. This leaves him isolated and incapable of forming real human connections.
 
 ## Social
 
@@ -515,12 +537,17 @@ The Abbey of Ústaron's Flame
 
 ## Plot Hooks
 
-1. **The Dying Forest**: Branakis discovers that the great forests are being deliberately poisoned through a cunning scheme involving a fungal blight deliberately introduced by the Timber Consortium to destroy old-growth timber, forcing landowners to accept forced sales. As a man devoted to the forest, he can expose the conspiracy—which would require breaking his code of staying out of larger political matters—or remain silent as one of his most beloved natural spaces dies before his eyes.
+The Dying Forest
+: Branakis discovers that the great forests are being deliberately poisoned through a cunning scheme involving a fungal blight deliberately introduced by the Timber Consortium to destroy old-growth timber, forcing landowners to accept forced sales. As a man devoted to the forest, he can expose the conspiracy—which would require breaking his code of staying out of larger political matters—or remain silent as one of his most beloved natural spaces dies before his eyes.
 
-2. **The Apprentice's Secret**: A talented young apprentice comes to Branakis seeking to learn the craft, but Branakis gradually discovers that the apprentice is actually a spy sent by Merchant Prince Volkemar Zurmelates to steal his methods. Rather than simply expelling the youth, Branakis becomes convinced that the apprentice is a talented craftsperson being exploited by Volkemar. Protecting the youth will create a permanent enemy in a powerful merchant.
+The Apprentice's Secret
+: A talented young apprentice comes to Branakis seeking to learn the craft, but Branakis gradually discovers that the apprentice is actually a spy sent by Merchant Prince Volkemar Zurmelates to steal his methods. Rather than simply expelling the youth, Branakis becomes convinced that the apprentice is a talented craftsperson being exploited by Volkemar. Protecting the youth will create a permanent enemy in a powerful merchant.
 
-3. **The Ancient Formula**: While excavating near an old kiln site, Branakis discovers evidence of charcoal-making techniques used centuries ago, seemingly abandoned and forgotten. Research reveals these techniques produce charcoal with properties that seem almost magical—superior in ways that shouldn't be possible according to anything known of the craft. He must find the remaining archives or texts describing the method while competing against others who recognize its value.
+The Ancient Formula
+: While excavating near an old kiln site, Branakis discovers evidence of charcoal-making techniques used centuries ago, seemingly abandoned and forgotten. Research reveals these techniques produce charcoal with properties that seem almost magical—superior in ways that shouldn't be possible according to anything known of the craft. He must find the remaining archives or texts describing the method while competing against others who recognize its value.
 
-4. **The Bargain with Fire**: A mysterious figure approaches Branakis, claiming to represent Ústaron directly, and offers him a way to perfectly control kiln temperatures and hold a consistent quality beyond what he has ever achieved. The price is not gold but his agreement to undertake a secret task—creating a specific batch of charcoal with properties the figure refuses to explain. Branakis is torn between his desire for perfect mastery of his craft and his deep suspicion of anything involving deception.
+The Bargain with Fire
+: A mysterious figure approaches Branakis, claiming to represent Ústaron directly, and offers him a way to perfectly control kiln temperatures and hold a consistent quality beyond what he has ever achieved. The price is not gold but his agreement to undertake a secret task—creating a specific batch of charcoal with properties the figure refuses to explain. Branakis is torn between his desire for perfect mastery of his craft and his deep suspicion of anything involving deception.
 
-5. **The Last Stand**: The Timber Consortium, frustrated by Branakis' continued resistance to their designs, escalates their campaign, attempting to literally drive him out of business through sabotage, the rigging of prices, and legal challenges. Branakis finds himself forced to make alliances he never sought and to engage in types of conflict entirely foreign to his nature. He can surrender his independence and fold his works into a larger concern, or make a final stand that might cost him everything.
+The Last Stand
+: The Timber Consortium, frustrated by Branakis' continued resistance to their designs, escalates their campaign, attempting to literally drive him out of business through sabotage, the rigging of prices, and legal challenges. Branakis finds himself forced to make alliances he never sought and to engage in types of conflict entirely foreign to his nature. He can surrender his independence and fold his works into a larger concern, or make a final stand that might cost him everything.

@@ -31,6 +31,11 @@ The fence encloses a tract of the Alessan plain. Inside it the soil is the same 
 
 ## See Also
 
-- [[lore-recensio|The Therona of Alessa]]—the audit that ended here
-- [[place-velysara|Velisara]]—the nearest city
-- [[affiliation-ordoarcanis|Thordimalon]]—the body that pays for the fence
+[[lore-recensio|The Therona of Alessa]]
+: the audit that ended here
+
+[[place-velysara|Velisara]]
+: the nearest city
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: the body that pays for the fence

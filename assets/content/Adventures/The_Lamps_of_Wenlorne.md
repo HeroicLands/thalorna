@@ -118,8 +118,17 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 ## See Also
 
-- [[place-wenlornestage|Wenlorne Stage]]—the relay house and its keeper
-- [[place-wyndmarch|The Wyndmarch]]—where the old road begins
-- [[place-hallowwood|The Hallowwood]]—where the road stops
-- [[lore-jointcrown|The Joint Crown of Aelwyth]]—the elder kingdom that cut the road
-- [[lore-theshadow|The Shadow]]—what took the reeve's oath
+[[place-wenlornestage|Wenlorne Stage]]
+: the relay house and its keeper
+
+[[place-wyndmarch|The Wyndmarch]]
+: where the old road begins
+
+[[place-hallowwood|The Hallowwood]]
+: where the road stops
+
+[[lore-jointcrown|The Joint Crown of Aelwyth]]
+: the elder kingdom that cut the road
+
+[[lore-theshadow|The Shadow]]
+: what took the reeve's oath

@@ -310,20 +310,29 @@ On its own ground, at its den or over its kill, the margrush strikes harder and 
 
 ## Attributes
 
-- **Strength:** 14-19 (1d6+13)
+Strength
+: 14-19 (1d6+13)
 
-- **Endurance:** 15-20 (1d6+14)
+Endurance
+: 15-20 (1d6+14)
 
-- **Dexterity:** 8-11 (1d4+7)
+Dexterity
+: 8-11 (1d4+7)
 
-- **Agility:** 8-13 (1d6+7)
+Agility
+: 8-13 (1d6+7)
 
-- **Perception:** 12-17 (1d6+11)
+Perception
+: 12-17 (1d6+11)
 
-- **Aura:** 8-13 (1d6+7)
+Aura
+: 8-13 (1d6+7)
 
-- **Will:** 13-18 (1d6+12)
+Will
+: 13-18 (1d6+12)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

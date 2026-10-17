@@ -120,8 +120,17 @@ The adventure runs over two days and a night. The first day is the quarter and t
 
 ## See Also
 
-- [[place-peldenderal|Peshdenderat]]—the well and the voice
-- [[place-oasishirvn|Oasis of Shirvan]]—the city above it
-- [[affiliation-zurathra|Faith of Zúrathra]]—the Mother of the Oasis
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—the Teqemod who rule the city
-- [[lore-theshadow|The Shadow]]—what the Tally is
+[[place-peldenderal|Peshdenderat]]
+: the well and the voice
+
+[[place-oasishirvn|Oasis of Shirvan]]
+: the city above it
+
+[[affiliation-zurathra|Faith of Zúrathra]]
+: the Mother of the Oasis
+
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: the Teqemod who rule the city
+
+[[lore-theshadow|The Shadow]]
+: what the Tally is

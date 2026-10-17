@@ -43,8 +43,17 @@ What the deck gives, it gives only afloat. A sailor who takes his pay and stays 
 
 ## See Also
 
-- [[place-vedyarargn|Vedyara Region]]—the coast this sea takes
-- [[place-suryaislnds|The Surva-samedra Islands]]—the island chain to the southeast
-- [[place-meghsamdra|The Meghra-samedra]]—the southern sea
-- [[place-tantsouregin|Tantsou Region]]—the junks' home ports
-- [[place-jenchairgn|Jenchai Region]]—the eastern archipelago
+[[place-vedyarargn|Vedyara Region]]
+: the coast this sea takes
+
+[[place-suryaislnds|The Surva-samedra Islands]]
+: the island chain to the southeast
+
+[[place-meghsamdra|The Meghra-samedra]]
+: the southern sea
+
+[[place-tantsouregin|Tantsou Region]]
+: the junks' home ports
+
+[[place-jenchairgn|Jenchai Region]]
+: the eastern archipelago

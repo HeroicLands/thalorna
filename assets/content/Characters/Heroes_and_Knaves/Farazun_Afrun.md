@@ -441,19 +441,37 @@ Farazun's primary motivation is to maintain his reputation as a reliable transpo
 
 ### Strengths
 
-- **Mastery of Animal Husbandry**: Farazun's skill with draft animals is outstanding; he can manage even difficult or temperamental teams, understands their needs and psychology, and treats them with compassion.
-- **Expert Navigation and Survival**: His knowledge of the routes, terrain, weather patterns, and survival in harsh environments is comprehensive and intuitive.
-- **Physical Strength and Endurance**: Despite his age, he possesses considerable strength and the stamina to work long hours under difficult conditions.
-- **Mechanical Knowledge**: Years managing wagon repair and maintenance have given him solid practical skills with tools and kit.
-- **Judgment**: He can tell when situations are dangerous, which people can be trusted, and how to de-escalate conflicts.
+Mastery of Animal Husbandry
+: Farazun's skill with draft animals is outstanding; he can manage even difficult or temperamental teams, understands their needs and psychology, and treats them with compassion.
+
+Expert Navigation and Survival
+: His knowledge of the routes, terrain, weather patterns, and survival in harsh environments is comprehensive and intuitive.
+
+Physical Strength and Endurance
+: Despite his age, he possesses considerable strength and the stamina to work long hours under difficult conditions.
+
+Mechanical Knowledge
+: Years managing wagon repair and maintenance have given him solid practical skills with tools and kit.
+
+Judgment
+: He can tell when situations are dangerous, which people can be trusted, and how to de-escalate conflicts.
 
 ### Weaknesses
 
-- **Limited Social Grace**: His gruffness and discomfort with social situations make him poor at negotiation, courtly settings, or complex political situations.
-- **Low Formal Education**: He is functionally literate but lacks broader learning; complex intellectual tasks are difficult for him.
-- **Moderate Combat Training**: While physically strong and capable in a fight, he lacks formal martial training and tends to rely on raw strength rather than technique.
-- **Emotional Guardedness**: His difficulty expressing feeling can lead to misunderstandings and isolates him from closer relationships.
-- **Weariness**: Years of hard travel and responsibility have left him with a deep fatigue; he sometimes struggles with motivation and mood.
+Limited Social Grace
+: His gruffness and discomfort with social situations make him poor at negotiation, courtly settings, or complex political situations.
+
+Low Formal Education
+: He is functionally literate but lacks broader learning; complex intellectual tasks are difficult for him.
+
+Moderate Combat Training
+: While physically strong and capable in a fight, he lacks formal martial training and tends to rely on raw strength rather than technique.
+
+Emotional Guardedness
+: His difficulty expressing feeling can lead to misunderstandings and isolates him from closer relationships.
+
+Weariness
+: Years of hard travel and responsibility have left him with a deep fatigue; he sometimes struggles with motivation and mood.
 
 ## Social
 
@@ -489,12 +507,17 @@ The Waystation Keepers' Brotherhood
 
 ## Plot Hooks
 
-1. **The Cursed Cargo**: Farazun accepts a contract to transport a sealed cargo under mysterious circumstances—the payment is outstanding, but the client is evasive about contents. As he travels, strange phenomena occur: animals become ill, the wagon seems to grow heavier without explanation, and traveling companions experience nightmares. He must discover what he's carrying and decide whether to complete the journey or break the contract.
+The Cursed Cargo
+: Farazun accepts a contract to transport a sealed cargo under mysterious circumstances—the payment is outstanding, but the client is evasive about contents. As he travels, strange phenomena occur: animals become ill, the wagon seems to grow heavier without explanation, and traveling companions experience nightmares. He must discover what he's carrying and decide whether to complete the journey or break the contract.
 
-2. **The Bandits' Trap**: Kela the Knife sets an elaborate ambush specifically designed to capture Farazun, revealing that she has been paid handsomely to deliver him to an unknown party. The party must help him escape and discover who wants him badly enough to hire mercenaries, leading to revelations about his past or about dangerous enemies he didn't know he had.
+The Bandits' Trap
+: Kela the Knife sets an elaborate ambush specifically designed to capture Farazun, revealing that she has been paid handsomely to deliver him to an unknown party. The party must help him escape and discover who wants him badly enough to hire mercenaries, leading to revelations about his past or about dangerous enemies he didn't know he had.
 
-3. **The Hidden Waystation**: While traveling a rarely-used route, Farazun discovers an ancient, abandoned waystation from centuries past. Investigation reveals it contains supplies, maps, and records suggesting that other teamsters have been using it as a secret gathering place and information exchange. He is approached to join a shadowy organization of teamsters who guard secrets and move people and information along the routes.
+The Hidden Waystation
+: While traveling a rarely-used route, Farazun discovers an ancient, abandoned waystation from centuries past. Investigation reveals it contains supplies, maps, and records suggesting that other teamsters have been using it as a secret gathering place and information exchange. He is approached to join a shadowy organization of teamsters who guard secrets and move people and information along the routes.
 
-4. **The Companion's Secret**: A fellow teamster Farazun has worked alongside for years reveals a terminal illness and asks him for a dangerous final favor—to transport something precious and forbidden to a distant location. Farazun must decide whether loyalty to his friend outweighs his commitments and ethical concerns.
+The Companion's Secret
+: A fellow teamster Farazun has worked alongside for years reveals a terminal illness and asks him for a dangerous final favor—to transport something precious and forbidden to a distant location. Farazun must decide whether loyalty to his friend outweighs his commitments and ethical concerns.
 
-5. **The Waystation Siege**: Farazun arrives at a waystation he regularly uses to find it under siege by bandits or military forces. The stablemaster Khorvan is in danger, and Farazun must decide whether to risk his cargo and contracts to help his friend, or to take a safer route and abandon those who have aided him. Whatever choice he makes, the decision has significant consequences that ripple through the trade routes.
+The Waystation Siege
+: Farazun arrives at a waystation he regularly uses to find it under siege by bandits or military forces. The stablemaster Khorvan is in danger, and Farazun must decide whether to risk his cargo and contracts to help his friend, or to take a safer route and abandon those who have aided him. Whatever choice he makes, the decision has significant consequences that ripple through the trade routes.

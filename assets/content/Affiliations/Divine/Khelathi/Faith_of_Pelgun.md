@@ -63,7 +63,14 @@ The ladder below them is the shared one: lay faithful who keep the observances a
 
 ## See Also
 
-- [[lore-pelgundty|Pelgun]]—the god
-- [[affiliation-selatsltplgn|The Selat of Selat-Pelgun]]—the selat whose patron he is
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—the selatu he belongs to
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the temple hierarchy every [[lore-khelathiclt|Khelathi]] cult shares
+[[lore-pelgundty|Pelgun]]
+: the god
+
+[[affiliation-selatsltplgn|The Selat of Selat-Pelgun]]
+: the selat whose patron he is
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: the selatu he belongs to
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: the temple hierarchy every [[lore-khelathiclt|Khelathi]] cult shares

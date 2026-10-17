@@ -479,20 +479,29 @@ Light and dark magic both slide off it. Forced into total darkness or total ligh
 
 ## Attributes
 
-- **Strength:** 9-12 (1d4+8)
+Strength
+: 9-12 (1d4+8)
 
-- **Endurance:** 11-14 (1d4+10)
+Endurance
+: 11-14 (1d4+10)
 
-- **Dexterity:** 13-16 (1d4+12)
+Dexterity
+: 13-16 (1d4+12)
 
-- **Agility:** 15-18 (1d4+14)
+Agility
+: 15-18 (1d4+14)
 
-- **Perception:** 13-16 (1d4+12)
+Perception
+: 13-16 (1d4+12)
 
-- **Aura:** 13-16 (1d4+12)
+Aura
+: 13-16 (1d4+12)
 
-- **Will:** 9-12 (1d4+8)
+Will
+: 9-12 (1d4+8)
 
-- **Reasoning:** 9-12 (1d4+8)
+Reasoning
+: 9-12 (1d4+8)
 
-- **Creativity:** 13-16 (1d4+12)
+Creativity
+: 13-16 (1d4+12)

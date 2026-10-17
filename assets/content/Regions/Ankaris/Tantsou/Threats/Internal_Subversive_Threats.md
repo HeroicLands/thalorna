@@ -48,8 +48,17 @@ The southern rice harvests have failed several years running. Crops have withere
 
 ## See Also
 
-- [[affiliation-yanchaizhao|Yanchai Zhao]]—a noble house entangled with the Black Lotus Society
-- [[being-tuijawengyan|Tuija Wengyan]]—the exiled general's rebellion
-- [[lore-weizhairui|Wei Zhai Rui]]—the court's game of manipulation, which shelters many of these threats
-- [[lore-castelaws|Caste Laws]]—the social order under pressure
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the empire these forces work against
+[[affiliation-yanchaizhao|Yanchai Zhao]]
+: a noble house entangled with the Black Lotus Society
+
+[[being-tuijawengyan|Tuija Wengyan]]
+: the exiled general's rebellion
+
+[[lore-weizhairui|Wei Zhai Rui]]
+: the court's game of manipulation, which shelters many of these threats
+
+[[lore-castelaws|Caste Laws]]
+: the social order under pressure
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the empire these forces work against

@@ -37,11 +37,19 @@ The southern trade-road and the garrison drive the selat. The thin valley farmla
 
 ## Settlements
 
-- [[place-balehen|Balehen]] (~24,000)—the selat capital, a great fortress-town commanding the river at the first cataract: a double-walled stronghold of garrison barracks, the war-temple of [[lore-qeztudty|Qeztu]], the toll-house and tribute-store of the southern trade, and the seat of the warden-Halzi'a. It is the empire's strongest fortress south of the capital.
-- The fortress-line villages: garrison-posts, forts and frontier settlements of 500–5,000 people lie strung along the river and the desert flanks. Among them are **Iken** (the river toll-fort beyond the cataract), **Mirgis** (a double fortress on the west bank) and [[place-zinhenzalu|Zinhen-Zalu]] (the deepest garrison), with a scatter of mixed [[lore-khelathiclt|Khelathi]]-southern farm-and-trade villages along the irrigated strip.
+[[place-balehen|Balehen]] (~24,000)
+: the selat capital, a great fortress-town commanding the river at the first cataract: a double-walled stronghold of garrison barracks, the war-temple of [[lore-qeztudty|Qeztu]], the toll-house and tribute-store of the southern trade, and the seat of the warden-Halzi'a. It is the empire's strongest fortress south of the capital.
+
+The fortress-line villages
+: garrison-posts, forts and frontier settlements of 500–5,000 people lie strung along the river and the desert flanks. Among them are **Iken** (the river toll-fort beyond the cataract), **Mirgis** (a double fortress on the west bank) and [[place-zinhenzalu|Zinhen-Zalu]] (the deepest garrison), with a scatter of mixed [[lore-khelathiclt|Khelathi]]-southern farm-and-trade villages along the irrigated strip.
 
 ## See Also
 
-- [[affiliation-selatzuzllgl|The Selat of Zu-Zalu-Legulu]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-balehen|Balehen]]—Selat capital
+[[affiliation-selatzuzllgl|The Selat of Zu-Zalu-Legulu]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-balehen|Balehen]]
+: Selat capital

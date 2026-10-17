@@ -22,6 +22,11 @@ The Ha'ik tolerate trade only at designated border sites, on their own schedule 
 
 ## See Also
 
-- [[affiliation-xikulchakl|Shik'ul Ch'akal]]—the Otter People and their nation
-- [[place-xikulchaklrgn|Shik'ul Ch'akal Region]]—the lakes and the portages
-- [[place-nrthrnkchchk|Northern K'ich'chik]]—the northern nations
+[[affiliation-xikulchakl|Shik'ul Ch'akal]]
+: the Otter People and their nation
+
+[[place-xikulchaklrgn|Shik'ul Ch'akal Region]]
+: the lakes and the portages
+
+[[place-nrthrnkchchk|Northern K'ich'chik]]
+: the northern nations

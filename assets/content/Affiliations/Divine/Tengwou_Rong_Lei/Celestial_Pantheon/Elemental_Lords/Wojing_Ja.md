@@ -123,7 +123,14 @@ The faithful petition Wojing Ja through formal offerings at temple furnaces, by 
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The Celestial Bureaucracy that appointed Wojing Ja to the Elemental Lordship
-- [[affiliation-zhenho|Zhenho]]—Overseer of the Bureau of Transformation, Wojing Ja's primary administrative rival
-- [[affiliation-genhen|Genhén]]—Overseer of the Bureau of Entropy, who uses fire as a tool of controlled dissolution
-- [[lore-tanchei|Tanchéi]]—The priestly caste who mediate petitions to the Elemental Lords
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: The Celestial Bureaucracy that appointed Wojing Ja to the Elemental Lordship
+
+[[affiliation-zhenho|Zhenho]]
+: Overseer of the Bureau of Transformation, Wojing Ja's primary administrative rival
+
+[[affiliation-genhen|Genhén]]
+: Overseer of the Bureau of Entropy, who uses fire as a tool of controlled dissolution
+
+[[lore-tanchei|Tanchéi]]
+: The priestly caste who mediate petitions to the Elemental Lords

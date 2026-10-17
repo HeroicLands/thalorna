@@ -459,8 +459,11 @@ Licensed companion of the **Academy of the Silver Veil** (Helionis). Passenger a
 
 ## Plot Hooks
 
-1. **The Silver Veil's Reach**: A message arrives for Théldina from the Academy—a summons she cannot easily refuse. The Academy wants something from her, and their request may conflict with the Tamzir's interests. Théldina must choose between the institution that made her and the ragged family she has unexpectedly found.
+The Silver Veil's Reach
+: A message arrives for Théldina from the Academy—a summons she cannot easily refuse. The Academy wants something from her, and their request may conflict with the Tamzir's interests. Théldina must choose between the institution that made her and the ragged family she has unexpectedly found.
 
-2. **A Client's Dangerous Secret**: One of Théldina's former clients contacts her desperately, claiming to possess information about [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) that could protect [[being-cibelasrnt|Kivella Serenthis]]—but only if Théldina agrees to a meeting in a [[lore-vylarianclt|Vylarian]] port city crawling with imperial agents. The information may be real, a trap, or both.
+A Client's Dangerous Secret
+: One of Théldina's former clients contacts her desperately, claiming to possess information about [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) that could protect [[being-cibelasrnt|Kivella Serenthis]]—but only if Théldina agrees to a meeting in a [[lore-vylarianclt|Vylarian]] port city crawling with imperial agents. The information may be real, a trap, or both.
 
-3. **The Mask Slips**: During a crisis aboard the Tamzir, Théldina reveals combat skills and tactical knowledge that go far beyond what a courtesan—even a well-trained one—should possess. The crew begins to question who Théldina really is, and whether her presence aboard the ship is truly coincidental.
+The Mask Slips
+: During a crisis aboard the Tamzir, Théldina reveals combat skills and tactical knowledge that go far beyond what a courtesan—even a well-trained one—should possess. The crew begins to question who Théldina really is, and whether her presence aboard the ship is truly coincidental.

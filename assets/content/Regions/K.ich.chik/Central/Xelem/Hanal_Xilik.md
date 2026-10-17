@@ -18,5 +18,8 @@ The Ha'nal Shilik carries the same traffic as its larger neighbor: canoes loaded
 
 ## See Also
 
-- [[place-hanaltzuma|Ha'nal Ts'uma]]—the larger of Shelem's two rivers
-- [[place-xelemrgn|Shelem]]—the realm the river carries
+[[place-hanaltzuma|Ha'nal Ts'uma]]
+: the larger of Shelem's two rivers
+
+[[place-xelemrgn|Shelem]]
+: the realm the river carries

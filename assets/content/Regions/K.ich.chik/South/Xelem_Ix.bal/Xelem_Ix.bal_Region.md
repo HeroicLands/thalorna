@@ -40,5 +40,8 @@ What truly flows through Shelem Ish'bal is not trade, but transformation. The wa
 
 ## See Also
 
-- [[place-sthrnkchchk|Southern K'ich'chik]]—The enclosing region
-- [[place-xelemixbal2|Shelem Ish'bal]]—Seat of Shelem Ish'bal
+[[place-sthrnkchchk|Southern K'ich'chik]]
+: The enclosing region
+
+[[place-xelemixbal2|Shelem Ish'bal]]
+: Seat of Shelem Ish'bal

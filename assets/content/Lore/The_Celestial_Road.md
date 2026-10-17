@@ -121,12 +121,29 @@ The sea passage costs as many months as the camels and loses a larger share of w
 
 ## See Also
 
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the land the road crosses
-- [[lore-ownedoasis|The Owned Oasis]]—a tribe's small spring, and the stranger who camps at one
-- [[place-qisomrktcmp|Qiiso]]—the market-camp at the road's heart
-- [[place-yemokwell|Yemok]]—the western hand-off well
-- [[place-sowidwell|Sovid]]—the eastern hand-off well
-- [[place-eastrnmrch|The Eastern March]]—the League's frontier at the road's western end
-- [[place-tantsouregin|Tantsou Region]]—the road's eastern terminus
-- [[lore-kinhalcrdt|Kin and Hall Credit]]—how a master pays on his house's name
-- [[lore-roadnights|The Nights of the Road]]—the tales a master tells a factor, halt by halt
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the land the road crosses
+
+[[lore-ownedoasis|The Owned Oasis]]
+: a tribe's small spring, and the stranger who camps at one
+
+[[place-qisomrktcmp|Qiiso]]
+: the market-camp at the road's heart
+
+[[place-yemokwell|Yemok]]
+: the western hand-off well
+
+[[place-sowidwell|Sovid]]
+: the eastern hand-off well
+
+[[place-eastrnmrch|The Eastern March]]
+: the League's frontier at the road's western end
+
+[[place-tantsouregin|Tantsou Region]]
+: the road's eastern terminus
+
+[[lore-kinhalcrdt|Kin and Hall Credit]]
+: how a master pays on his house's name
+
+[[lore-roadnights|The Nights of the Road]]
+: the tales a master tells a factor, halt by halt

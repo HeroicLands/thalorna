@@ -18,5 +18,8 @@ The company is the town's employer, its customer and its protection, and it is a
 
 ## See Also
 
-- [[affiliation-irnwlvscmpny|The Iron Wolves Company]]—the free company based outside the town
-- [[place-trianthion|Trianthion]]—the massacre the company is known for
+[[affiliation-irnwlvscmpny|The Iron Wolves Company]]
+: the free company based outside the town
+
+[[place-trianthion|Trianthion]]
+: the massacre the company is known for

@@ -88,9 +88,20 @@ The caravans that unload at Kudumel settle in the [[lore-trzlncrncy|Taruzelian C
 
 ## See Also
 
-- [[place-qudumel2|Kudumel]]—the city itself
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the parent polity
-- [[place-dunharargn|Dunhara Region]]—the eastern trading partner
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the overland trade routes
-- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the dominant faith here
-- [[affiliation-besikar|Besikar]], [[affiliation-yamuzel|Yamuzel]], [[affiliation-bazunel|Bazunel]], [[affiliation-sazumun|Sazumun]]—the sister city-states
+[[place-qudumel2|Kudumel]]
+: the city itself
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the parent polity
+
+[[place-dunharargn|Dunhara Region]]
+: the eastern trading partner
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the overland trade routes
+
+[[affiliation-ashanpnthn|Ashaian Pantheon]]
+: the dominant faith here
+
+[[affiliation-besikar|Besikar]], [[affiliation-yamuzel|Yamuzel]], [[affiliation-bazunel|Bazunel]], [[affiliation-sazumun|Sazumun]]
+: the sister city-states

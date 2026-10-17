@@ -73,8 +73,17 @@ The Wardens answer to the Council and carry its decisions to the water. The [[af
 
 ## See Also
 
-- [[affiliation-kalihara|Kalihara]]—the polity and its standings
-- [[place-telvari|Telvari]]—the pilots' islet and the Warden's station
-- [[place-telvaristone|The Telvari Stone]]—the current-stone the approaches are taken by
-- [[place-vaelukoa|Vaelukoa]]—the reef village where the pilots are taught
-- [[place-ilovanu|Ilovanu]]—the port whose anchorage is open to foreign hulls
+[[affiliation-kalihara|Kalihara]]
+: the polity and its standings
+
+[[place-telvari|Telvari]]
+: the pilots' islet and the Warden's station
+
+[[place-telvaristone|The Telvari Stone]]
+: the current-stone the approaches are taken by
+
+[[place-vaelukoa|Vaelukoa]]
+: the reef village where the pilots are taught
+
+[[place-ilovanu|Ilovanu]]
+: the port whose anchorage is open to foreign hulls

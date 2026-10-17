@@ -20,5 +20,8 @@ data:
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The imperial city
-- [[place-qeltge|Qelt-Ge]]—The plaza upstream
+[[place-galezkara|Galezkara]]
+: The imperial city
+
+[[place-qeltge|Qelt-Ge]]
+: The plaza upstream

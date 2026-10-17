@@ -47,10 +47,17 @@ sohl: {system: {commonSkills: []}}
 
 _Khelathi: Gar-Hálzi—"the House of the Account"_
 
-- Type: Religious-institutional treasury network; the [[lore-khelathiclt|Khelathi]] temple banking system
-- Region: [[affiliation-empireakhlth|Empire of Au'Khelathu]] (direct presence); the [[affiliation-mtrrchybth|Matriarchy of Bethua]] and the kingdom of [[affiliation-okharis|Okharis]] (through correspondent arrangements with local institutions)
-- Authority: The senior Khelathi priesthood, under the formal patronage of the [[lore-garauu|Gar-Au]]
-- Founded: Before the current dynasty; the institution is older than reliable record
+Type
+: Religious-institutional treasury network; the [[lore-khelathiclt|Khelathi]] temple banking system
+
+Region
+: [[affiliation-empireakhlth|Empire of Au'Khelathu]] (direct presence); the [[affiliation-mtrrchybth|Matriarchy of Bethua]] and the kingdom of [[affiliation-okharis|Okharis]] (through correspondent arrangements with local institutions)
+
+Authority
+: The senior Khelathi priesthood, under the formal patronage of the [[lore-garauu|Gar-Au]]
+
+Founded
+: Before the current dynasty; the institution is older than reliable record
 
 ## Overview
 
@@ -157,8 +164,17 @@ A chit is written on distinctive papyrus stock whose watermark, held to the ligh
 
 ## See Also
 
-- [[lore-aukhlthcrncy|The Au'Khelathu currency]]—Weights, ratios and the token copper the Gar-Hálzi issues
-- [[affiliation-garmelnu|Gar'Melnu]]—The smiths who make the attested pieces
-- [[affiliation-tarmex|Tarmeks Orzan]]—The Vylarian state counterpart
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—The empire whose banking system it forms
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[lore-aukhlthcrncy|The Au'Khelathu currency]]
+: Weights, ratios and the token copper the Gar-Hálzi issues
+
+[[affiliation-garmelnu|Gar'Melnu]]
+: The smiths who make the attested pieces
+
+[[affiliation-tarmex|Tarmeks Orzan]]
+: The Vylarian state counterpart
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: The empire whose banking system it forms
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

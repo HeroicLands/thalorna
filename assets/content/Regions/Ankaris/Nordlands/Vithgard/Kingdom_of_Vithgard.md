@@ -133,11 +133,26 @@ Vithgard strikes no coin. Where a deal is made in money, the money is [[lore-vyl
 
 ## See Also
 
-- [[place-vithgard|Vithgard]]—the land the kingdom holds
-- [[place-thrunborg|Thrunborg]]—the seat
-- [[lore-vthgdhstry|Histories and Legends of Vithgard]]—the kingdom's remembered past
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]]—the sister kingdoms
-- [[affiliation-asguardian|Asguardian Pantheon]]—the Ten of the north
-- [[lore-nrdlndswhal|The Whale Strand]]—the whale hunt the kingdom lives by, and the law of the stranded whale
-- [[lore-nrdlndsseal|The Ice-Edge and the Rookery]]—the seal hunt
-- [[place-domsey|Domsey]]—the ting island, where Vithgard's king and three jarls hold seats
+[[place-vithgard|Vithgard]]
+: the land the kingdom holds
+
+[[place-thrunborg|Thrunborg]]
+: the seat
+
+[[lore-vthgdhstry|Histories and Legends of Vithgard]]
+: the kingdom's remembered past
+
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]]
+: the sister kingdoms
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the Ten of the north
+
+[[lore-nrdlndswhal|The Whale Strand]]
+: the whale hunt the kingdom lives by, and the law of the stranded whale
+
+[[lore-nrdlndsseal|The Ice-Edge and the Rookery]]
+: the seal hunt
+
+[[place-domsey|Domsey]]
+: the ting island, where Vithgard's king and three jarls hold seats

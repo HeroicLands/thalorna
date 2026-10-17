@@ -401,10 +401,14 @@ Hnirmil's runic mastery is unmatched in the northern lands; he can read omens in
 
 ## Plot Hooks
 
-1. **The Shattered Rune**—Hnirmil has discovered fragments of an ancient rune that, when assembled, could reveal the location of Odvar's lost eye. Rival factions—including Gnildrmil Iron-Eye and agents of the Thordimalon—are also hunting the fragments. The party must help Hnirmil recover the pieces before they fall into the wrong hands.
+The Shattered Rune
+: Hnirmil has discovered fragments of an ancient rune that, when assembled, could reveal the location of Odvar's lost eye. Rival factions—including Gnildrmil Iron-Eye and agents of the Thordimalon—are also hunting the fragments. The party must help Hnirmil recover the pieces before they fall into the wrong hands.
 
-2. **The Silent Ravens**—[[lore-hugvin|Hugvin]] and [[lore-munvin|Munvin]] have gone silent. Hnirmil can no longer hear their whispers and fears something terrible has happened in the spirit realm. He needs companions to journey to the [World Tree]{.name data-type="place/feature"}'s roots and investigate what has disrupted the ravens' flight.
+The Silent Ravens
+: [[lore-hugvin|Hugvin]] and [[lore-munvin|Munvin]] have gone silent. Hnirmil can no longer hear their whispers and fears something terrible has happened in the spirit realm. He needs companions to journey to the [World Tree]{.name data-type="place/feature"}'s roots and investigate what has disrupted the ravens' flight.
 
-3. **The Jarl's Dilemma**—Jarl Hvurnvir's son has been accused of murder, and the evidence is damning. Hvurnvir begs Hnirmil to use his sight to uncover the truth, but what Hnirmil sees in the runes implicates someone far more dangerous than anyone suspected.
+The Jarl's Dilemma
+: Jarl Hvurnvir's son has been accused of murder, and the evidence is damning. Hvurnvir begs Hnirmil to use his sight to uncover the truth, but what Hnirmil sees in the runes implicates someone far more dangerous than anyone suspected.
 
-4. **The Apprentice's Betrayal**—A former student of Hnirmil has begun using corrupted runes to enslave the minds of villagers. Hnirmil must confront his own failure as a teacher while stopping the apprentice before the corruption spreads.
+The Apprentice's Betrayal
+: A former student of Hnirmil has begun using corrupted runes to enslave the minds of villagers. Hnirmil must confront his own failure as a teacher while stopping the apprentice before the corruption spreads.

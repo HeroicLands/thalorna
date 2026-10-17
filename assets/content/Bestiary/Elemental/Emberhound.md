@@ -338,20 +338,29 @@ A large body of water can trap and smother it, sustained cold weakens it, and it
 
 ## Attributes
 
-- **Strength:** 11-14 (1d4+10)
+Strength
+: 11-14 (1d4+10)
 
-- **Endurance:** 13-16 (1d4+12)
+Endurance
+: 13-16 (1d4+12)
 
-- **Dexterity:** 11-14 (1d4+10)
+Dexterity
+: 11-14 (1d4+10)
 
-- **Agility:** 9-12 (1d4+8)
+Agility
+: 9-12 (1d4+8)
 
-- **Perception:** 11-14 (1d4+10)
+Perception
+: 11-14 (1d4+10)
 
-- **Aura:** 7-10 (1d4+6)
+Aura
+: 7-10 (1d4+6)
 
-- **Will:** 13-16 (1d4+12)
+Will
+: 13-16 (1d4+12)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

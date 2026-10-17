@@ -73,11 +73,20 @@ A worshipper carries a sheaf of wheat for fertility and agriculture, an oak leaf
 
 The ladder is the one every blet-keeping faith of the Ten shares, and in Frodvin's faith each rung belongs to a valley infirmary's hov:
 
-- Refused the Blet: denied the offering at a valley infirmary's hov, and cut from the clergy and from the care it extends to the sick.
-- Bletmadr: attends the blet at a valley infirmary's hov and shares its harvest-offering.
-- Hofsmadr: given to a valley infirmary's hov young, laboring at its herb-lore and its sick before any claim to the priesthood.
-- Gudi / Gudja: ordained to keep a valley infirmary's rites and tend its sick.
-- Hofgudi / Hofgudja: consecrates valley infirmaries' hovs, ordains their gudar, and performs the great blet at a season's turning.
+Refused the Blet
+: denied the offering at a valley infirmary's hov, and cut from the clergy and from the care it extends to the sick.
+
+Bletmadr
+: attends the blet at a valley infirmary's hov and shares its harvest-offering.
+
+Hofsmadr
+: given to a valley infirmary's hov young, laboring at its herb-lore and its sick before any claim to the priesthood.
+
+Gudi / Gudja
+: ordained to keep a valley infirmary's rites and tend its sick.
+
+Hofgudi / Hofgudja
+: consecrates valley infirmaries' hovs, ordains their gudar, and performs the great blet at a season's turning.
 
 The skills the faith teaches are herbalism, the physician's art, survival, animalcraft and agriculture. Two kinds of servant belong to the god: the **Sylvans**, forest spirits who aid the growth and protection of the natural world, and the **Healing Wisps**, ethereal beings that guide the hands of Frodvin's priests in the healing arts.
 
@@ -93,6 +102,11 @@ Five ordeals are held to win Frodvin's favor, and each asks for something a fiel
 
 ## See Also
 
-- [[affiliation-gronhond|Gronhond]]—the Order of the Green Hand, herbalists and caretakers of the sacred groves
-- [[affiliation-frodberi|Fródberi]]—the Heralds of Peace, mediators who keep harmony within and between households
-- [[affiliation-hallarvinir|Hallvinir]]—the Healers of the Hearth, priests who tend the sick and comfort the distressed
+[[affiliation-gronhond|Gronhond]]
+: the Order of the Green Hand, herbalists and caretakers of the sacred groves
+
+[[affiliation-frodberi|Fródberi]]
+: the Heralds of Peace, mediators who keep harmony within and between households
+
+[[affiliation-hallarvinir|Hallvinir]]
+: the Healers of the Hearth, priests who tend the sick and comfort the distressed

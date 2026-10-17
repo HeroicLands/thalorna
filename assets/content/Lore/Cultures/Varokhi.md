@@ -184,10 +184,17 @@ A captive still worth ransoming is kept rather than absorbed into an owning hous
 
 ## See Also
 
-- [[place-vrystwald|Vristwald Region]]—the taiga, rivers and villages
-- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—standing and the three seats
-- [[skill-varokhlng|Varokhi]]—the unwritten tongue
-- [[lore-wintertally|The Tally of Winters]]—how the forest counts its winters, and its ages
+[[place-vrystwald|Vristwald Region]]
+: the taiga, rivers and villages
+
+[[affiliation-vrystwldtrbs|Vristwald Tribes]]
+: standing and the three seats
+
+[[skill-varokhlng|Varokhi]]
+: the unwritten tongue
+
+[[lore-wintertally|The Tally of Winters]]
+: how the forest counts its winters, and its ages
 
 ## Glossary {#glossary}
 

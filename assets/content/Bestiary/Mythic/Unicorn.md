@@ -363,24 +363,35 @@ Once in a generation in a large realm, a unicorn chooses a person whose heart it
 
 ## Attributes
 
-- **Strength:** 22-27 (1d6+21)
+Strength
+: 22-27 (1d6+21)
 
-- **Endurance:** 14-19 (1d6+13)
+Endurance
+: 14-19 (1d6+13)
 
-- **Agility:** 8-13 (1d6+7)
+Agility
+: 8-13 (1d6+7)
 
-- **Perception:** 17-22 (1d6+16)
+Perception
+: 17-22 (1d6+16)
 
-- **Scent:** 4-7 (1d4+3)
+Scent
+: 4-7 (1d4+3)
 
-- **Aura:** 13-18 (1d6+12)
+Aura
+: 13-18 (1d6+12)
 
-- **Will:** 13-18 (1d6+12)
+Will
+: 13-18 (1d6+12)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 7-10 (1d4+6)
+Creativity
+: 7-10 (1d4+6)
 
-- **Empathy:** 8-13 (1d6+7)
+Empathy
+: 8-13 (1d6+7)
 
-- **Morality:** 9-14 (1d6+8)
+Morality
+: 9-14 (1d6+8)

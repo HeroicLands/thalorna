@@ -17,15 +17,25 @@ A Tsaihuo workshop is a household: a master, his sons and apprentices, a kiln or
 
 The [[lore-castelaws|Caste Laws]] give the Tsaihuo three rights:
 
-- **Trade**: an artisan may sell his own work for profit, at his own stall or through a merchant.
-- **Craft**: he may follow his trade and train others in it under his guild's rules.
-- **Arms**: the Wonong among them may carry weapons, as described below.
+Trade
+: an artisan may sell his own work for profit, at his own stall or through a merchant.
+
+Craft
+: he may follow his trade and train others in it under his guild's rules.
+
+Arms
+: the Wonong among them may carry weapons, as described below.
 
 They bind the caste with three restrictions:
 
-- **Service**: a Wonong answers a [[lore-wohou|Wohou]] commander's call to war.
-- **Marriage**: Tsaihuo may marry in law, and marriage outside the caste is shunned; a craftsman who weds a merchant's daughter loses his guild's countenance.
-- **No office**: no Tsaihuo may hold an administrative post or take part in governance.
+Service
+: a Wonong answers a [[lore-wohou|Wohou]] commander's call to war.
+
+Marriage
+: Tsaihuo may marry in law, and marriage outside the caste is shunned; a craftsman who weds a merchant's daughter loses his guild's countenance.
+
+No office
+: no Tsaihuo may hold an administrative post or take part in governance.
 
 ## The Wonong
 
@@ -58,11 +68,26 @@ Most [[lore-flksinale|Sinale]] and [[lore-flkkhazar|Khazari]] who live within th
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]]—rights and restrictions governing the Tsaihuo
-- [[lore-medicine|Medicine]]—the healing art of the Yaiwo
-- [[lore-wohou|Wohou]]—the warrior nobility who command the Wonong
-- [[lore-tanchei|Tanchéi]]—celestial scholars, the caste above, who treat the spirit-sick with the Yaiwo
-- [[lore-nouwen|Nouwén]]—peasant farmers, the caste below
-- [[lore-shuonong|Shuonong]]—the merchants who carry Tsaihuo work to market
-- [[lore-tseising|Law and Honor]]—the law the Wonong enforce
-- [[affiliation-tantsouempr|Empire of Tantsou]]—overview of imperial society and structure
+[[lore-castelaws|Caste Laws]]
+: rights and restrictions governing the Tsaihuo
+
+[[lore-medicine|Medicine]]
+: the healing art of the Yaiwo
+
+[[lore-wohou|Wohou]]
+: the warrior nobility who command the Wonong
+
+[[lore-tanchei|Tanchéi]]
+: celestial scholars, the caste above, who treat the spirit-sick with the Yaiwo
+
+[[lore-nouwen|Nouwén]]
+: peasant farmers, the caste below
+
+[[lore-shuonong|Shuonong]]
+: the merchants who carry Tsaihuo work to market
+
+[[lore-tseising|Law and Honor]]
+: the law the Wonong enforce
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: overview of imperial society and structure

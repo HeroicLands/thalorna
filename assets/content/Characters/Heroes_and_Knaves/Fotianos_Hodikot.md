@@ -439,27 +439,37 @@ Stemios's deepest motivation is to create and maintain a sanctuary—a refuge wh
 
 ### Strengths
 
-- **Culinary Mastery**: Stemios is famous throughout the League for his brewing, cooking, and especially his craft with preserved foods and medicinal broths. His herb garden and root cellar are talked of among travelers, and his ability to create nourishing, memorable meals from simple ingredients rivals master chefs of royal courts.
+Culinary Mastery
+: Stemios is famous throughout the League for his brewing, cooking, and especially his craft with preserved foods and medicinal broths. His herb garden and root cellar are talked of among travelers, and his ability to create nourishing, memorable meals from simple ingredients rivals master chefs of royal courts.
 
-- **Master of Hospitality**: He possesses an almost supernatural ability to discern what each guest truly needs—whether comfort, discretion, information, or assistance. He can seat incompatible personalities at the same table and have them departing as friends, or conversely, see that those seeking privacy are never intruded upon.
+Master of Hospitality
+: He possesses an almost supernatural ability to discern what each guest truly needs—whether comfort, discretion, information, or assistance. He can seat incompatible personalities at the same table and have them departing as friends, or conversely, see that those seeking privacy are never intruded upon.
 
-- **Raconteur**: His stories are captivating—rich with detail, humor, and real feeling. He uses storytelling as both entertainment and subtle means of gathering and imparting information. Many travelers have shared secrets with him after becoming drunk on his stories and mead.
+Raconteur
+: His stories are captivating—rich with detail, humor, and real feeling. He uses storytelling as both entertainment and subtle means of gathering and imparting information. Many travelers have shared secrets with him after becoming drunk on his stories and mead.
 
-- **Deep Community Knowledge**: Stemios possesses encyclopedic knowledge of the region—not from books but from decades of conversation. He knows the genealogies of leading families, the feuds that simmer beneath civility, the hidden capabilities of seemingly minor figures, and the true currents of power beneath the visible government.
+Deep Community Knowledge
+: Stemios possesses encyclopedic knowledge of the region—not from books but from decades of conversation. He knows the genealogies of leading families, the feuds that simmer beneath civility, the hidden capabilities of seemingly minor figures, and the true currents of power beneath the visible government.
 
-- **Steady Presence**: In crisis or sudden danger, Stemios becomes calm and decisive. His very presence seems to settle panic. He has mediated disputes, guided lost souls away from despair, and provided practical wisdom in moments when others froze.
+Steady Presence
+: In crisis or sudden danger, Stemios becomes calm and decisive. His very presence seems to settle panic. He has mediated disputes, guided lost souls away from despair, and provided practical wisdom in moments when others froze.
 
 ### Weaknesses
 
-- **Physical Fragility of Age**: While still spry, his strength is diminished. He tires more quickly than he did in youth, and his reflexes are noticeably slower. Any physical confrontation would quickly overwhelm him.
+Physical Fragility of Age
+: While still spry, his strength is diminished. He tires more quickly than he did in youth, and his reflexes are noticeably slower. Any physical confrontation would quickly overwhelm him.
 
-- **Romantic Idealization of the Past**: His constant references to "better days" are not merely nostalgic habit—they reflect a real inability to fully accept the changes the present age brings. This sometimes leads to poor judgment in adapting to new threats and opportunities.
+Romantic Idealization of the Past
+: His constant references to "better days" are not merely nostalgic habit—they reflect a real inability to fully accept the changes the present age brings. This sometimes leads to poor judgment in adapting to new threats and opportunities.
 
-- **Emotional Volatility Regarding Loss**: Mention of disease, children, or death can bring on deep emotion. His daughter's death remains an open wound that sixty years of stoicism have not truly healed, and tragic stories can reduce him to sudden tears, undermining his authority.
+Emotional Volatility Regarding Loss
+: Mention of disease, children, or death can bring on deep emotion. His daughter's death remains an open wound that sixty years of stoicism have not truly healed, and tragic stories can reduce him to sudden tears, undermining his authority.
 
-- **Reluctance to Delegate**: Despite needing help, Stemios struggles to truly empower subordinates, constantly second-guessing their work and taking on excessive labor himself. This perfectionism has caused friction with promising young staff.
+Reluctance to Delegate
+: Despite needing help, Stemios struggles to truly empower subordinates, constantly second-guessing their work and taking on excessive labor himself. This perfectionism has caused friction with promising young staff.
 
-- **Difficulty with Combat**: While capable of defending himself with a staff or using tactical cunning, Stemios is not a warrior. Situations requiring sustained violence place him at severe disadvantage despite his mental sharpness.
+Difficulty with Combat
+: While capable of defending himself with a staff or using tactical cunning, Stemios is not a warrior. Situations requiring sustained violence place him at severe disadvantage despite his mental sharpness.
 
 ## Social
 
@@ -501,12 +511,17 @@ The Starlight Crown
 
 ## Plot Hooks
 
-1. **The Mysterious Lodger**: A cloaked figure arrives at the Starlight Crown requesting the most private accommodations available, paying in gold and demanding absolute discretion. Over several nights, Stemios observes this guest receiving late-night visitors—some clearly frightened, others angry. On the fourth night, the guest is found dead in their chamber under circumstances that appear accidental but smell of murder. Local authorities blame Stemios's negligence, and his inn's reputation hangs in the balance. Investigation reveals the guest was a political dissident from a neighboring realm, and his death sets off a cascade of complications between realms that Stemios has to handle carefully to clear his name while protecting the identities of those who visited.
+The Mysterious Lodger
+: A cloaked figure arrives at the Starlight Crown requesting the most private accommodations available, paying in gold and demanding absolute discretion. Over several nights, Stemios observes this guest receiving late-night visitors—some clearly frightened, others angry. On the fourth night, the guest is found dead in their chamber under circumstances that appear accidental but smell of murder. Local authorities blame Stemios's negligence, and his inn's reputation hangs in the balance. Investigation reveals the guest was a political dissident from a neighboring realm, and his death sets off a cascade of complications between realms that Stemios has to handle carefully to clear his name while protecting the identities of those who visited.
 
-2. **The Heir's Dilemma**: A promising young tavern worker from humble background shows real aptitude for the innkeeper's craft and the philosophical understanding that attracted Stemios to the craft decades ago. Stemios begins grooming this young person to eventually take over the Starlight Crown, but discovers they have become involved with a dangerous organization whose goals contradict everything the inn stands for. Stemios can confront them, reveal their involvement to the authorities, or attempt to save them by bringing them deeper into his confidence and converting them away from dangerous associations.
+The Heir's Dilemma
+: A promising young tavern worker from humble background shows real aptitude for the innkeeper's craft and the philosophical understanding that attracted Stemios to the craft decades ago. Stemios begins grooming this young person to eventually take over the Starlight Crown, but discovers they have become involved with a dangerous organization whose goals contradict everything the inn stands for. Stemios can confront them, reveal their involvement to the authorities, or attempt to save them by bringing them deeper into his confidence and converting them away from dangerous associations.
 
-3. **The Debt Collector's Wrath**: A creditor Stemios believed settled long ago presents documents showing that a significant debt from thirty years past was never actually paid—only deferred through now-invalid agreements. The sum, with accumulated interest, is ruinous. The creditor is not interested in money but in using this legal claim to gain control of the inn itself. Stemios must investigate the fraud—someone has falsified records—and trace a conspiracy that reaches back into his family's past, possibly implicating his now-deceased uncle Bugon or brother Stratégios.
+The Debt Collector's Wrath
+: A creditor Stemios believed settled long ago presents documents showing that a significant debt from thirty years past was never actually paid—only deferred through now-invalid agreements. The sum, with accumulated interest, is ruinous. The creditor is not interested in money but in using this legal claim to gain control of the inn itself. Stemios must investigate the fraud—someone has falsified records—and trace a conspiracy that reaches back into his family's past, possibly implicating his now-deceased uncle Bugon or brother Stratégios.
 
-4. **The Alchemist's Laboratory**: During routine renovations of the inn's cellars, workers discover a hidden chamber containing elaborate alchemical equipment, strange manuscripts, and preserved substances. The space is clearly ancient and had been sealed long before Stemios's tenure. Investigation suggests one of the inn's previous owners was conducting dangerous experiments—possibly attempting to create forbidden substances or prolonging life through unnatural means. Stemios must decide what to do with these dangerous secrets. If word gets out, his inn will be labeled as a place of dark magic. If he destroys evidence, he might be destroying proof of a historical crime.
+The Alchemist's Laboratory
+: During routine renovations of the inn's cellars, workers discover a hidden chamber containing elaborate alchemical equipment, strange manuscripts, and preserved substances. The space is clearly ancient and had been sealed long before Stemios's tenure. Investigation suggests one of the inn's previous owners was conducting dangerous experiments—possibly attempting to create forbidden substances or prolonging life through unnatural means. Stemios must decide what to do with these dangerous secrets. If word gets out, his inn will be labeled as a place of dark magic. If he destroys evidence, he might be destroying proof of a historical crime.
 
-5. **The Poisoned Feast**: During a gathering of regional nobility at the inn, Stemios's own soup is served to the guests, and three of them fall deathly ill within hours, nearly dying. Investigation suggests the poison was deliberately introduced into the kitchen—by one of Stemios's staff. Yet all his trusted workers would swear on their lives that no poisoning occurred. Someone is either framing Stemios, testing his defenses, or sending a message. As authorities investigate and the inn's reputation crumbles, Stemios must identify the perpetrator while uncovering the true motive—is this an attack on the nobility, an attack on the inn, or something more tangled involving Stemios's own past?
+The Poisoned Feast
+: During a gathering of regional nobility at the inn, Stemios's own soup is served to the guests, and three of them fall deathly ill within hours, nearly dying. Investigation suggests the poison was deliberately introduced into the kitchen—by one of Stemios's staff. Yet all his trusted workers would swear on their lives that no poisoning occurred. Someone is either framing Stemios, testing his defenses, or sending a message. As authorities investigate and the inn's reputation crumbles, Stemios must identify the perpetrator while uncovering the true motive—is this an attack on the nobility, an attack on the inn, or something more tangled involving Stemios's own past?

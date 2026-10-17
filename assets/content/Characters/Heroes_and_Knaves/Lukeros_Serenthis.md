@@ -461,10 +461,14 @@ Passenger aboard the **Tamzir**. Brother and guardian of [[being-cibelasrnt|Kive
 
 ## Plot Hooks
 
-1. **The Cure That Isn't**: Lukeros hears of a physician in a distant port who claims to have treated patients with damage similar to Kivella's. The treatment is experimental and risky, but it offers hope where there has been none. Reaching the physician means sailing into waters heavily patrolled by Vylarian naval forces.
+The Cure That Isn't
+: Lukeros hears of a physician in a distant port who claims to have treated patients with damage similar to Kivella's. The treatment is experimental and risky, but it offers hope where there has been none. Reaching the physician means sailing into waters heavily patrolled by Vylarian naval forces.
 
-2. **The Order Closes In**: An Order agent boards the Tamzir disguised as a passenger. Lukeros recognizes the signs too late, and the agent has already sent a message revealing their location. The crew has hours to decide whether to run, fight, or negotiate with an organization that does neither in good faith.
+The Order Closes In
+: An Order agent boards the Tamzir disguised as a passenger. Lukeros recognizes the signs too late, and the agent has already sent a message revealing their location. The crew has hours to decide whether to run, fight, or negotiate with an organization that does neither in good faith.
 
-3. **Bleeding Dry**: Lukeros's funds are running out. Without coin, he cannot pay for passage or buy the drugs that keep Kivella stable. He is approached with an offer to practice medicine in a port city—but taking the position would mean staying in one place long enough for the Order to find them.
+Bleeding Dry
+: Lukeros's funds are running out. Without coin, he cannot pay for passage or buy the drugs that keep Kivella stable. He is approached with an offer to practice medicine in a port city—but taking the position would mean staying in one place long enough for the Order to find them.
 
-4. **Brother's Burden**: Kivella, in a moment of clarity, tells Lukeros that she does not want to be protected anymore—she wants to understand what was done to her and use her abilities on her own terms. Lukeros must confront the possibility that his desperate need to save his sister has become its own kind of cage.
+Brother's Burden
+: Kivella, in a moment of clarity, tells Lukeros that she does not want to be protected anymore—she wants to understand what was done to her and use her abilities on her own terms. Lukeros must confront the possibility that his desperate need to save his sister has become its own kind of cage.

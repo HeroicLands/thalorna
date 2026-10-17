@@ -86,7 +86,14 @@ The Grukar fight hardest at the spawner, and the muster had to cut its way to th
 
 ## See Also
 
-- [[place-grimak|Grimak]]—the thicket and the field
-- [[place-skathwald|Skathwald]]—the reach where the Grukar thicken
-- [[lore-grukarfolk|Grukar]]—spawners, tribes and how a tribe buds
-- [[lore-wintertally|The Tally of Winters]]—the Southern Raiding as the forest counts it
+[[place-grimak|Grimak]]
+: the thicket and the field
+
+[[place-skathwald|Skathwald]]
+: the reach where the Grukar thicken
+
+[[lore-grukarfolk|Grukar]]
+: spawners, tribes and how a tribe buds
+
+[[lore-wintertally|The Tally of Winters]]
+: the Southern Raiding as the forest counts it

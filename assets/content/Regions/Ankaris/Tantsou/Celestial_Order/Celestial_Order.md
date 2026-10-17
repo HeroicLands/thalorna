@@ -63,18 +63,40 @@ That changes what rebellion means. In the kingdoms of the west a rebel is a crim
 
 ## The Order in Detail
 
-- [[lore-clstlpnthn|Celestial Pantheon]]—the great powers: Tanzho, Wéizhuo, Raogui and Youwéi
-- [[lore-fvlmntlrds|Five Elemental Lords]]—the administrators of Air, Fire, Earth, Metal and Water
-- [[lore-mandatehvn|Mandate of Heaven]]—the Emperor's appointment
-- [[lore-infrnlrlms|Infernal Realms]]—the Unclassified pressing on the borders of the sorted world
-- [[lore-ancstrwrshp|Ancestor Worship]]—the moral ledger, the afterlife as a posting, and the household altar
+[[lore-clstlpnthn|Celestial Pantheon]]
+: the great powers: Tanzho, Wéizhuo, Raogui and Youwéi
+
+[[lore-fvlmntlrds|Five Elemental Lords]]
+: the administrators of Air, Fire, Earth, Metal and Water
+
+[[lore-mandatehvn|Mandate of Heaven]]
+: the Emperor's appointment
+
+[[lore-infrnlrlms|Infernal Realms]]
+: the Unclassified pressing on the borders of the sorted world
+
+[[lore-ancstrwrshp|Ancestor Worship]]
+: the moral ledger, the afterlife as a posting, and the household altar
 
 ## See Also
 
-- [[lore-phlsphyleiwo|Philosophy of Leiwo]]—the theory of Lei behind medicine, magic and government
-- [[lore-clndrstrlgy|Calendar and Astrology]]—the calendar of the celestial administration
-- [[lore-numerology|Numerology]]—the numbers of the classification
-- [[lore-dreadspawncrtr|Dreadspawn]]—the made creatures, filed one at a time
-- [[lore-castelaws|Caste Laws]]—the castes, and how the classification treats foreigners
-- [[lore-elderraces|Elder Races]]—how the Sinale and Khazari fit within the classification
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the empire whose government mirrors heaven's
+[[lore-phlsphyleiwo|Philosophy of Leiwo]]
+: the theory of Lei behind medicine, magic and government
+
+[[lore-clndrstrlgy|Calendar and Astrology]]
+: the calendar of the celestial administration
+
+[[lore-numerology|Numerology]]
+: the numbers of the classification
+
+[[lore-dreadspawncrtr|Dreadspawn]]
+: the made creatures, filed one at a time
+
+[[lore-castelaws|Caste Laws]]
+: the castes, and how the classification treats foreigners
+
+[[lore-elderraces|Elder Races]]
+: how the Sinale and Khazari fit within the classification
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the empire whose government mirrors heaven's

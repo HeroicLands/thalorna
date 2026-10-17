@@ -282,10 +282,23 @@ Veiled Dreamer, let down the veil. The singer of the ships gets down from the st
 
 ## See Also
 
-- [[lore-heladlandngs|The Landings]]—the coming of the ships, and the founding claims each city tells against the others
-- [[lore-firstgames|The First Games]]—the meeting at which the claims are told
-- [[place-gamessanct|The Sanctuary of the Games]]—the stone before the heralds' altar where the rhapsodes stand
-- [[affiliation-thyrenae|Thirenae]]—the city of the books, and the keel-stone in its agorin
-- [[affiliation-pelagora|Pelagora]]—the city of the ships, whose rhapsode answers
-- [[lore-zunelasdty|Zunelas]]—the Veiled Dreamer, whom the singers invoke
-- [[lore-helioniteclt|Helionite]]—glory, the vote and the dead who belong to the city
+[[lore-heladlandngs|The Landings]]
+: the coming of the ships, and the founding claims each city tells against the others
+
+[[lore-firstgames|The First Games]]
+: the meeting at which the claims are told
+
+[[place-gamessanct|The Sanctuary of the Games]]
+: the stone before the heralds' altar where the rhapsodes stand
+
+[[affiliation-thyrenae|Thirenae]]
+: the city of the books, and the keel-stone in its agorin
+
+[[affiliation-pelagora|Pelagora]]
+: the city of the ships, whose rhapsode answers
+
+[[lore-zunelasdty|Zunelas]]
+: the Veiled Dreamer, whom the singers invoke
+
+[[lore-helioniteclt|Helionite]]
+: glory, the vote and the dead who belong to the city

@@ -34,7 +34,14 @@ The Uruvolur, the hidden-water bands who guide the Khoshiqor, are the first to l
 
 ## See Also
 
-- [[lore-towercities|The Tower Cities]]—the league that built it
-- [[place-ruinsarkor|Ruins of Arkor]]—the same league's westernmost city
-- [[place-bolidqiso|Bolidqiiso]]—a counting-house tower in a street the dunes have opened
-- [[scenario-wludwtchmn|The Watchman beneath Vulud]]—a scenario set here
+[[lore-towercities|The Tower Cities]]
+: the league that built it
+
+[[place-ruinsarkor|Ruins of Arkor]]
+: the same league's westernmost city
+
+[[place-bolidqiso|Bolidqiiso]]
+: a counting-house tower in a street the dunes have opened
+
+[[scenario-wludwtchmn|The Watchman beneath Vulud]]
+: a scenario set here

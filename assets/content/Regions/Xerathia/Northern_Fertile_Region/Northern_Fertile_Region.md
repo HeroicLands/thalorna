@@ -47,9 +47,14 @@ Despite these differences, the region's peoples share a few deep features. The [
 
 The region hosts three distinct religious traditions, each tied to one of the three polities and none dominant outside its home country:
 
-- The [[affiliation-khelathpnthn|Khelathi Pantheon]]—twelve great deities organizing the cosmos around the opposition of order and chaos, supported by a vast temple bureaucracy and an elaborate theology of death and renewal. Dominant throughout Au'Khelathu.
-- The [[affiliation-arldnpnthn|Aureldian Pantheon]] in its matriarchal rite—the feminine deities of the cross-continental Aureldian tradition receive primary veneration in Bethua, with masculine counterparts relegated to secondary positions. Dominant in the Matriarchy.
-- The [[affiliation-nkaruthar|Nkaru'thar]]—the three-flame cosmology of Okharis, with the eternal flame of creation-destruction-renewal expressed through the triad of the temple-cities. Dominant among the Okharik clans.
+The [[affiliation-khelathpnthn|Khelathi Pantheon]]
+: twelve great deities organizing the cosmos around the opposition of order and chaos, supported by a vast temple bureaucracy and an elaborate theology of death and renewal. Dominant throughout Au'Khelathu.
+
+The [[affiliation-arldnpnthn|Aureldian Pantheon]] in its matriarchal rite
+: the feminine deities of the cross-continental Aureldian tradition receive primary veneration in Bethua, with masculine counterparts relegated to secondary positions. Dominant in the Matriarchy.
+
+The [[affiliation-nkaruthar|Nkaru'thar]]
+: the three-flame cosmology of Okharis, with the eternal flame of creation-destruction-renewal expressed through the triad of the temple-cities. Dominant among the Okharik clans.
 
 The three traditions interact cautiously. Khelathi priests have long studied Nkaru'thar with ethnographic interest and dismiss it theologically; Nkaru'thar priests regard the Khelathi pantheon as a Khelathi peculiarity and show no inclination to adopt its forms. Bethuan priestesses of Lusinia and Zunelas conduct occasional ritual exchanges with their Khelathi counterparts of Uzn'era and Nehle'at, and the few Aureldian missionaries who have reached Okharis have been received politely and utterly without effect.
 
@@ -79,12 +84,29 @@ Far to the **south**—beyond the Central Rainforests, across an expanse none of
 
 ## See Also
 
-- [[place-xerathia|Zerathia Continent]]—parent continent
-- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—central polity, between Okharis and Au'Khelathu
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—central empire
-- [[affiliation-okharis|Okharis]]—southern pastoral kingdom
-- [[place-cntrlrnfrsts|Central Rainforests]]—southern boundary
-- [[place-vylarianse|Vylarian Sea]]—northern coast
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—Khelathi religion
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—Bethuan religion
-- [[affiliation-nkaruthar|Nkaru'thar]]—Okharik religion
+[[place-xerathia|Zerathia Continent]]
+: parent continent
+
+[[affiliation-mtrrchybth|Matriarchy of Bethua]]
+: central polity, between Okharis and Au'Khelathu
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: central empire
+
+[[affiliation-okharis|Okharis]]
+: southern pastoral kingdom
+
+[[place-cntrlrnfrsts|Central Rainforests]]
+: southern boundary
+
+[[place-vylarianse|Vylarian Sea]]
+: northern coast
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: Khelathi religion
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: Bethuan religion
+
+[[affiliation-nkaruthar|Nkaru'thar]]
+: Okharik religion

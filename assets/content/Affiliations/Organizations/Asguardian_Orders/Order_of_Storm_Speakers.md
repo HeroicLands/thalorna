@@ -56,10 +56,17 @@ A candidate for the order is stood on the exposed summit of [[place-thrumufjall|
 
 The Order of the Storm-Speakers, _Stormmelendir_, is the warrior-shaman order of [[lore-thrunvalddty|Thrunvald]], the god whose hammer is said to hold back the chaos beyond the walls of the world. Its members fight as the storm fights: they swing a heavy two-handed hammer with an order-bred warrior's skill, and they read the weather and, within the limits the [[affiliation-thrunvald|Faith of Thrunvald]] allows, call it. A Speaker can call wind, read an approaching storm with great precision and, in certain circumstances, draw down a localized lightning strike. No other tradition in the [[place-nrdlndsrgn|Nordlands Region]] cultivates the combination, which is what the order is for.
 
-- Type: fighting religious order
-- Patron: [[affiliation-thrunvald|Thrunvald]], Asguardian god of thunder, storm, lightning and the cosmic defense of the ordered world
-- Region: [[place-nrdlndsrgn|the Nordlands]], strongest along the coasts
-- Seat: the chapter hall at the seamount-temple of Thrumufjall in [[place-nordheim|Nordheim]], with smaller chapter halls in each of the other four kingdoms
+Type
+: fighting religious order
+
+Patron
+: [[affiliation-thrunvald|Thrunvald]], Asguardian god of thunder, storm, lightning and the cosmic defense of the ordered world
+
+Region
+: [[place-nrdlndsrgn|the Nordlands]], strongest along the coasts
+
+Seat
+: the chapter hall at the seamount-temple of Thrumufjall in [[place-nordheim|Nordheim]], with smaller chapter halls in each of the other four kingdoms
 
 ## Few and Hard to Make
 
@@ -73,10 +80,17 @@ A sponsoring Speaker presents a candidate, typically between sixteen and twenty 
 
 The order holds four ranks:
 
-- Put from the Order (_Eidvargr_): cast out by conclave of the Storm-Captains, which closes Thrumufjall and every chapter hall's hospitality for good.
-- Storm-Aspirant (_Eidefnir_): the candidate in training, who serves at Thrumufjall or under a sitting Speaker.
-- Sworn Speaker (_Stormmelir_): the full member, permitted to act on the order's behalf and to draw on its hospitality across the Nordlands.
-- Storm-Captain (_Eidhofding_): the senior member, who leads tactical actions in the field and instructs Aspirants. A Storm-Captain who leads the storm-speech in an engagement, reading and calling the weather, is the _Stormhofding_ for as long as he holds that charge.
+Put from the Order (_Eidvargr_)
+: cast out by conclave of the Storm-Captains, which closes Thrumufjall and every chapter hall's hospitality for good.
+
+Storm-Aspirant (_Eidefnir_)
+: the candidate in training, who serves at Thrumufjall or under a sitting Speaker.
+
+Sworn Speaker (_Stormmelir_)
+: the full member, permitted to act on the order's behalf and to draw on its hospitality across the Nordlands.
+
+Storm-Captain (_Eidhofding_)
+: the senior member, who leads tactical actions in the field and instructs Aspirants. A Storm-Captain who leads the storm-speech in an engagement, reading and calling the weather, is the _Stormhofding_ for as long as he holds that charge.
 
 The chair is the Voice of the Hammer, _Hamarsmál_, whom the conclave of the Storm-Captains chooses for life. There is one Voice. The present Voice is **[Thrildmil Hamarsmál]{.name data-type="being/npc"}**, a Storm-Captain of substantial reputation before his elevation, presiding through a generation in which the order's coastal services have been in high demand. Twenty-three Storm-Captains stand at present, and the most prominent is **[Skilfrinna Eldhrund]{.name data-type="being/npc"}**, who commands the Thrumufjall chapter and is regarded as the finest active practitioner of the order's weather-craft.
 

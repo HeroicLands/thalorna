@@ -22,6 +22,11 @@ Three times a year—at the spring equinox, at midsummer and at the autumn equin
 
 ## See Also
 
-- [[place-beitshofar|Beit-Shofár]]—the priestly seat at the mountain's foot
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—the people of the Promise
-- [[place-graznmntns|Grazian Mountains]]—the range beyond the belt, on the Promise's southern edge
+[[place-beitshofar|Beit-Shofár]]
+: the priestly seat at the mountain's foot
+
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: the people of the Promise
+
+[[place-graznmntns|Grazian Mountains]]
+: the range beyond the belt, on the Promise's southern edge

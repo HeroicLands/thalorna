@@ -432,12 +432,17 @@ Rival chieftains who wish to take his territory.
 
 ## Plot Hooks
 
-1. **The Chieftain's Dilemma**—Rilden faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provenzia.
+The Chieftain's Dilemma
+: Rilden faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provenzia.
 
-2. **Old Grudges**—Rival chieftains who wish to take his territory. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: Rival chieftains who wish to take his territory. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Rilden's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+Echoes of the Past
+: Something from Rilden's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Rilden depends upon. He must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Provenzia threaten to upend the social order that Rilden depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Rilden the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Rilden the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

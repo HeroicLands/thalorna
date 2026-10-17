@@ -20,5 +20,8 @@ The sale holds wherever the buyer takes the thrall. The five kingdoms hold the s
 
 ## See Also
 
-- [[lore-thrallrnk|Thrall]]—the standing of the people sold here
-- [[place-nalthmark|Nalthmark]]—the frontier settlement whose road is the other place the Nordmen buy people
+[[lore-thrallrnk|Thrall]]
+: the standing of the people sold here
+
+[[place-nalthmark|Nalthmark]]
+: the frontier settlement whose road is the other place the Nordmen buy people

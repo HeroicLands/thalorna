@@ -168,7 +168,14 @@ The Noutsou are slaves and outcasts, the caste that is not a caste, whose member
 
 ## See Also
 
-- [[affiliation-tantsouempr|Empire of Tantsou]]—The mainland empire from which Jenchai broke away
-- [[lore-tseising|Law and Honor]]—The mainland's law, its ordered death and its chosen one
-- [[lore-celestlrdr|Celestial Order]]—The shared religious framework, divergently interpreted
-- [[lore-castelaws|Caste Laws]]—The Tantsou caste system that Jenchai inherited and reshaped
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: The mainland empire from which Jenchai broke away
+
+[[lore-tseising|Law and Honor]]
+: The mainland's law, its ordered death and its chosen one
+
+[[lore-celestlrdr|Celestial Order]]
+: The shared religious framework, divergently interpreted
+
+[[lore-castelaws|Caste Laws]]
+: The Tantsou caste system that Jenchai inherited and reshaped

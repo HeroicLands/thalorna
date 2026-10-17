@@ -26,6 +26,11 @@ Pilgrims come the year round and in their thousands after the fall of the water.
 
 ## See Also
 
-- [[place-bharanya|Bharanya]]—the town on the mounds
-- [[affiliation-mahajaya|Mahajaya]]—the preserver-goddess
-- [[place-sangama|Sangema]]—the Melra ground's temple
+[[place-bharanya|Bharanya]]
+: the town on the mounds
+
+[[affiliation-mahajaya|Mahajaya]]
+: the preserver-goddess
+
+[[place-sangama|Sangema]]
+: the Melra ground's temple

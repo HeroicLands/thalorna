@@ -31,6 +31,11 @@ The age closes with the sea house in 1990 ST (121 BF). The list then begins to e
 
 ## See Also
 
-- [[lore-akhdivriver|The Divided River]] · [[lore-akhcountmon|The Count of Months]]—the ages on either side
-- [[lore-garauu|Gar-Auu]]—the king-list the ages are drawn from
-- [[place-maguathen|Magu-Thelqen]] · [[place-khuqetzalu|Khuqet-Zalu]] · [[place-zelamqelu|Zel-Amqelu]]—what the age left on the ground
+[[lore-akhdivriver|The Divided River]] · [[lore-akhcountmon|The Count of Months]]
+: the ages on either side
+
+[[lore-garauu|Gar-Auu]]
+: the king-list the ages are drawn from
+
+[[place-maguathen|Magu-Thelqen]] · [[place-khuqetzalu|Khuqet-Zalu]] · [[place-zelamqelu|Zel-Amqelu]]
+: what the age left on the ground

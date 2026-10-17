@@ -113,8 +113,17 @@ A hall in the interior still carries a claim from these winters: that it holds t
 
 ## See Also
 
-- [[lore-nrdhmhstry|Histories and Legends of Nordheim]]—the famine as Nordheim tells it
-- [[lore-nordheimnclt|Nordheimn]]—the door-seat and the duty of kin
-- [[place-marvstead|Marvstead]]—the town below the death-fell
-- [[lore-southrnfleets|The Southern Fleets]]—what the hunger did next
-- [[lore-domseycount|The Domsey Count]]—the age of the Hunger and the Fleets
+[[lore-nrdhmhstry|Histories and Legends of Nordheim]]
+: the famine as Nordheim tells it
+
+[[lore-nordheimnclt|Nordheimn]]
+: the door-seat and the duty of kin
+
+[[place-marvstead|Marvstead]]
+: the town below the death-fell
+
+[[lore-southrnfleets|The Southern Fleets]]
+: what the hunger did next
+
+[[lore-domseycount|The Domsey Count]]
+: the age of the Hunger and the Fleets

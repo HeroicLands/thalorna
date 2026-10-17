@@ -431,12 +431,17 @@ None; he is respected in his community for his dedication.
 
 ## Plot Hooks
 
-1. **The Herder's Dilemma**—A farmer who pays for Mildmund's help asks him to drive his beasts through weather Mildmund can read as deadly, and the man will not wait.
+The Herder's Dilemma
+: A farmer who pays for Mildmund's help asks him to drive his beasts through weather Mildmund can read as deadly, and the man will not wait.
 
-2. **Old Grudges**—Mildmund has no enemies, though a farmer whose stock died in a storm he foretold has found it easier to blame the herder than the weather.
+Old Grudges
+: Mildmund has no enemies, though a farmer whose stock died in a storm he foretold has found it easier to blame the herder than the weather.
 
-3. **Echoes of the Past**—A calf Mildmund raised by hand and sold years ago is found among stolen cattle, and its mark is his.
+Echoes of the Past
+: A calf Mildmund raised by hand and sold years ago is found among stolen cattle, and its mark is his.
 
-4. **Shifting Winds**—Political change in Aelwyth threatens the common grazing Mildmund's herds depend on, and he can adapt, resist, or leave.
+Shifting Winds
+: Political change in Aelwyth threatens the common grazing Mildmund's herds depend on, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—A lord offers Mildmund the mastery of all his herds, and the methods the lord wants used are not the ones Mildmund's family has always used.
+The Opportunity
+: A lord offers Mildmund the mastery of all his herds, and the methods the lord wants used are not the ones Mildmund's family has always used.

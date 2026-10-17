@@ -433,12 +433,17 @@ Few, though some nearby farmers dispute his grazing rights.
 
 ## Plot Hooks
 
-1. **The Herder's Dilemma**—A dispute over grazing comes to the point where Kenstan can keep his flock on the hill and lose the farmers who buy his wool and cheese, or give up the hill and keep them.
+The Herder's Dilemma
+: A dispute over grazing comes to the point where Kenstan can keep his flock on the hill and lose the farmers who buy his wool and cheese, or give up the hill and keep them.
 
-2. **Old Grudges**—A nearby farmer who disputes Kenstan's grazing rights has fenced a path his flock has always used.
+Old Grudges
+: A nearby farmer who disputes Kenstan's grazing rights has fenced a path his flock has always used.
 
-3. **Echoes of the Past**—A boundary stone Kenstan's family set generations ago is found moved, and the hill it marked is claimed by another.
+Echoes of the Past
+: A boundary stone Kenstan's family set generations ago is found moved, and the hill it marked is claimed by another.
 
-4. **Shifting Winds**—Political change in Aelwyth threatens the common grazing Kenstan's flock depends on, and he can adapt, resist, or leave.
+Shifting Winds
+: Political change in Aelwyth threatens the common grazing Kenstan's flock depends on, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—A lord offers Kenstan the keeping of his own flocks, with a cottage and wages, and what would become of Kenstan's animals is not said.
+The Opportunity
+: A lord offers Kenstan the keeping of his own flocks, with a cottage and wages, and what would become of Kenstan's animals is not said.

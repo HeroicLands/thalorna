@@ -16,7 +16,14 @@ A rubbing gives a reader the marks without the slab. Most of the procedures the 
 
 ## See Also
 
-- [[lore-klhrsnctrs|The Sanctuaries of Kalihara]]—the archives the slabs are kept in
-- [[affiliation-silharicircle|The Sílhari circle]]—the custodians who want the slabs read
-- [[being-ilmnnlr|Ilumanei Naoliru]]—the scribe of Vashurán, to whom a bundle in a script older than the island's writing comes
-- [[lore-theithari|The Ithari]]—the people who left the works, and left no writing
+[[lore-klhrsnctrs|The Sanctuaries of Kalihara]]
+: the archives the slabs are kept in
+
+[[affiliation-silharicircle|The Sílhari circle]]
+: the custodians who want the slabs read
+
+[[being-ilmnnlr|Ilumanei Naoliru]]
+: the scribe of Vashurán, to whom a bundle in a script older than the island's writing comes
+
+[[lore-theithari|The Ithari]]
+: the people who left the works, and left no writing

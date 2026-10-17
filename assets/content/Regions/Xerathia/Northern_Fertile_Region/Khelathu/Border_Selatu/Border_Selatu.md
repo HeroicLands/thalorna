@@ -119,8 +119,17 @@ The Border Selatu use the [[lore-aukhlthcrncy|Au'Khelathu currency]], and the fr
 
 ## See Also
 
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the empire
-- [[affiliation-deltaselatu|The Delta Selatu]], [[affiliation-upperrivrslt|The Upper River Selatu]], [[affiliation-capitalselat|The Capital Selat]]—the other classes of selat
-- [[place-khuqetmiglet|Khuqet-Miglet]]—the garrisoned desert-march beyond the eastern selatu
-- [[affiliation-malldbndlg|Free Companies Compact]]—chartered mercenaries who take frontier contracts
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the gods · [[skill-khelathlng|Khelathi Language]]—naming
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: the empire
+
+[[affiliation-deltaselatu|The Delta Selatu]], [[affiliation-upperrivrslt|The Upper River Selatu]], [[affiliation-capitalselat|The Capital Selat]]
+: the other classes of selat
+
+[[place-khuqetmiglet|Khuqet-Miglet]]
+: the garrisoned desert-march beyond the eastern selatu
+
+[[affiliation-malldbndlg|Free Companies Compact]]
+: chartered mercenaries who take frontier contracts
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: the gods · [[skill-khelathlng|Khelathi Language]]—naming

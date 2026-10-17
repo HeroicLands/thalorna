@@ -28,5 +28,8 @@ What Kraldstead argues about is the toll the landvordr sets on a season's loads.
 
 ## See Also
 
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—the kingdom whose dues the post pays
-- [[place-nordheim|Nordheim]]—the land the kingdom holds
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+: the kingdom whose dues the post pays
+
+[[place-nordheim|Nordheim]]
+: the land the kingdom holds

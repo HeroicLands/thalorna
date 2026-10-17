@@ -32,6 +32,11 @@ The open floor also makes the Bazaar the best place in southern Vedyara to hear 
 
 ## See Also
 
-- [[place-chandrapur2|Chendrapur]]—the city
-- [[affiliation-chandrapur|Chendrapur]]—the city-state
-- [[place-moonhouse|The Moon House]]—the palace above the stair
+[[place-chandrapur2|Chendrapur]]
+: the city
+
+[[affiliation-chandrapur|Chendrapur]]
+: the city-state
+
+[[place-moonhouse|The Moon House]]
+: the palace above the stair

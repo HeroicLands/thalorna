@@ -18,5 +18,8 @@ The grounds are in the keeping of the head huntsman, [[being-sklfvrasgrnd|Skilfv
 
 ## See Also
 
-- [[being-sklfvrasgrnd|Skilfvir Asgrind]]—the manor's head huntsman
-- [[place-nordheim|Nordheim]]—the land the manor stands in
+[[being-sklfvrasgrnd|Skilfvir Asgrind]]
+: the manor's head huntsman
+
+[[place-nordheim|Nordheim]]
+: the land the manor stands in

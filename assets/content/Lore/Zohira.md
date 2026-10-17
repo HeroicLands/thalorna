@@ -113,6 +113,11 @@ known across the Okharik country.
 
 ## See Also
 
-- [[affiliation-yenorzhrng|Yenor Zohiring]]—the shamanic tradition that deals with them
-- [[affiliation-nkaruthar|Nkaru'thar]]—the Eternal Flame whose emissaries they are
-- [[lore-thekindred|The Kindred]]—the Áelendan parallel, territorial where these are domanial
+[[affiliation-yenorzhrng|Yenor Zohiring]]
+: the shamanic tradition that deals with them
+
+[[affiliation-nkaruthar|Nkaru'thar]]
+: the Eternal Flame whose emissaries they are
+
+[[lore-thekindred|The Kindred]]
+: the Áelendan parallel, territorial where these are domanial

@@ -368,20 +368,29 @@ A charging elephant's weight is all but unstoppable by anything short of a wall 
 
 ## Attributes
 
-- **Strength:** 46-51 (1d6+45)
+Strength
+: 46-51 (1d6+45)
 
-- **Endurance:** 39-44 (1d6+38)
+Endurance
+: 39-44 (1d6+38)
 
-- **Agility:** 5-8 (1d4+4)
+Agility
+: 5-8 (1d4+4)
 
-- **Perception:** 14-19 (1d6+13)
+Perception
+: 14-19 (1d6+13)
 
-- **Scent:** 5-8 (1d4+4)
+Scent
+: 5-8 (1d4+4)
 
-- **Aura:** 6-9 (1d4+5)
+Aura
+: 6-9 (1d4+5)
 
-- **Will:** 16-21 (1d6+15)
+Will
+: 16-21 (1d6+15)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

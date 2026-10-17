@@ -21,17 +21,27 @@ Only the [[lore-zhazho|Zhazho]], the [[lore-wohou|Wohou]] and the [[lore-tanchei
 
 A warrior's name speaks of power, speed and battle, and it is usually drawn from weather, beasts and weapons:
 
-- Zho Shou Teng Ja—"Dragon's Rain of Heavenly Arrows"
-- Bui Ja Wuo Rao—"Ice Blade of Thunderous Battle"
-- Weng Hieng Rao Chai—"Wind Tiger Roars Across Thunder Mountain"
+Zho Shou Teng Ja
+: "Dragon's Rain of Heavenly Arrows"
+
+Bui Ja Wuo Rao
+: "Ice Blade of Thunderous Battle"
+
+Weng Hieng Rao Chai
+: "Wind Tiger Roars Across Thunder Mountain"
 
 ## Scholars' Names
 
 A scholar's name speaks of the stars and of insight, and it is usually drawn from the heavens and the auspicious signs:
 
-- Zhi Zhai Leng Cheng—"Rising Bright Star Bird"
-- Teng Zho Leng Wuen—"Fifth Auspicious Star of the Celestial Dragon"
-- Kuo Gwo Wou Teng—"Ancient Tortoise with the Celestial Platform"
+Zhi Zhai Leng Cheng
+: "Rising Bright Star Bird"
+
+Teng Zho Leng Wuen
+: "Fifth Auspicious Star of the Celestial Dragon"
+
+Kuo Gwo Wou Teng
+: "Ancient Tortoise with the Celestial Platform"
 
 ## Two Names Earned
 
@@ -41,7 +51,14 @@ A Tanchéi scholar known as "Third Daughter of the Sage of the Zhi Zhai Clan, ne
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]]—the castes that may and may not be named
-- [[lore-marriage|Marriage]]—marriage customs tied to clan and caste
-- [[lore-numerology|Numerology]]—the numbers that shape a naming ceremony
-- [[affiliation-tantsouempr|Empire of Tantsou]]—overview of imperial culture
+[[lore-castelaws|Caste Laws]]
+: the castes that may and may not be named
+
+[[lore-marriage|Marriage]]
+: marriage customs tied to clan and caste
+
+[[lore-numerology|Numerology]]
+: the numbers that shape a naming ceremony
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: overview of imperial culture

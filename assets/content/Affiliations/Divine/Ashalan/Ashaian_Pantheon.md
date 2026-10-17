@@ -109,10 +109,23 @@ This theology gives the Ashaian faithful a martial quality that permeates even t
 
 ## See Also
 
-- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—The great settled Ashaian civilization
-- [[place-dunharargn|Dunhara Region]]—Desert homeland of the nomadic faithful
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—Central Ankarian steppe
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—Eastern reaches where Ashaian and Aureldian faiths meet
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—Western Ankarian equivalent
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—Au'Khelathu equivalent
-- [[skill-dunharlng|Dunhari]]—Naming conventions
+[[affiliation-kngdmmrdd|Kingdom of Amradad]]
+: The great settled Ashaian civilization
+
+[[place-dunharargn|Dunhara Region]]
+: Desert homeland of the nomadic faithful
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: Central Ankarian steppe
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: Eastern reaches where Ashaian and Aureldian faiths meet
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: Western Ankarian equivalent
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: Au'Khelathu equivalent
+
+[[skill-dunharlng|Dunhari]]
+: Naming conventions

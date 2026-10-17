@@ -432,12 +432,17 @@ Few; he is respected, but some traditionalists have criticized him.
 
 ## Plot Hooks
 
-1. **The Physician's Dilemma**—A patient Leofred can only save with a technique the traditionalists condemn forces him to choose between his standing and the cure.
+The Physician's Dilemma
+: A patient Leofred can only save with a technique the traditionalists condemn forces him to choose between his standing and the cure.
 
-2. **Old Grudges**—A traditionalist among the guild's physicians turns his criticism of Leofred into a formal complaint.
+Old Grudges
+: A traditionalist among the guild's physicians turns his criticism of Leofred into a formal complaint.
 
-3. **Echoes of the Past**—A patient Leofred lost in his early years has a family that has not forgotten him.
+Echoes of the Past
+: A patient Leofred lost in his early years has a family that has not forgotten him.
 
-4. **Shifting Winds**—Political change in Aelwyth threatens the standing Leofred's noble family gives him, and he can adapt, resist, or leave.
+Shifting Winds
+: Political change in Aelwyth threatens the standing Leofred's noble family gives him, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—Leofred is offered the post of physician to a great house, and its price is not named up front.
+The Opportunity
+: Leofred is offered the post of physician to a great house, and its price is not named up front.

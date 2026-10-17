@@ -428,12 +428,17 @@ Guards who harass vagrants.
 
 ## Plot Hooks
 
-1. **The Beggar's Dilemma**—Aldwald faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+The Beggar's Dilemma
+: Aldwald faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 
-2. **Old Grudges**—Guards who harass vagrants. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: Guards who harass vagrants. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Aldwald's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+Echoes of the Past
+: Something from Aldwald's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Aldwald depends upon. He must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Aelwyth threaten to upend the social order that Aldwald depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Aldwald the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Aldwald the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

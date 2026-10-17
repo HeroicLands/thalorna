@@ -48,4 +48,5 @@ If you bring a new method to a guild, bring a master who is willing to say he ta
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the region it belongs to
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the region it belongs to

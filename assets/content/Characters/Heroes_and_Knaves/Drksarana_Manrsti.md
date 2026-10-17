@@ -438,19 +438,37 @@ Drksharana seeks neither power nor wealth, but rather a deeper sense of purpose 
 
 ### Strengths
 
-- **Attentiveness**: Drksharana possesses an almost supernatural awareness of his surroundings and the emotional states of those near him, allowing him to anticipate needs and respond with grace.
-- **Social Grace**: Years of service in elite households have honed his understanding of precedence, etiquette, and the unspoken rules governing polite society.
-- **Resilience Through Flexibility**: Like the waterfall of his tattoo, he adapts to circumstance, bends without breaking, and finds paths forward when direct resistance would fail.
-- **Culinary and Textile Skills**: His domestic expertise ranges from expert cookery to fine needlework, making him useful in household management.
-- **Climbing and Acrobatic Ability**: His light frame and years of navigating grand estates have made him surprisingly nimble, able to reach high shelves or move through spaces others cannot access.
+Attentiveness
+: Drksharana possesses an almost supernatural awareness of his surroundings and the emotional states of those near him, allowing him to anticipate needs and respond with grace.
+
+Social Grace
+: Years of service in elite households have honed his understanding of precedence, etiquette, and the unspoken rules governing polite society.
+
+Resilience Through Flexibility
+: Like the waterfall of his tattoo, he adapts to circumstance, bends without breaking, and finds paths forward when direct resistance would fail.
+
+Culinary and Textile Skills
+: His domestic expertise ranges from expert cookery to fine needlework, making him useful in household management.
+
+Climbing and Acrobatic Ability
+: His light frame and years of navigating grand estates have made him surprisingly nimble, able to reach high shelves or move through spaces others cannot access.
 
 ### Weaknesses
 
-- **Lack of Assertiveness**: His deferential nature makes him vulnerable to manipulation and exploitation; he finds it nearly impossible to refuse even unreasonable demands.
-- **Self-Doubt**: Despite his competence, he constantly questions his value and second-guesses his decisions.
-- **Limited Martial Ability**: His gentle nature and lack of combat training leave him defenseless against violence or physical aggression.
-- **Social Invisibility**: While his discretion is an asset, it has left him without a true circle of peers; he is known but not truly known.
-- **Emotional Vulnerability**: He internalizes stress and criticism, leading to periods of quiet melancholy that can affect his work.
+Lack of Assertiveness
+: His deferential nature makes him vulnerable to manipulation and exploitation; he finds it nearly impossible to refuse even unreasonable demands.
+
+Self-Doubt
+: Despite his competence, he constantly questions his value and second-guesses his decisions.
+
+Limited Martial Ability
+: His gentle nature and lack of combat training leave him defenseless against violence or physical aggression.
+
+Social Invisibility
+: While his discretion is an asset, it has left him without a true circle of peers; he is known but not truly known.
+
+Emotional Vulnerability
+: He internalizes stress and criticism, leading to periods of quiet melancholy that can affect his work.
 
 ## Social
 
@@ -477,12 +495,17 @@ The Hierarchy Itself
 
 ## Plot Hooks
 
-1. **The Waterfall's Secret**: Drksharana's tattoo was not merely a spiritual marking but a sign of initiation into a hidden tradition within the priesthood of Rasikara. A visiting cleric recognizes it and approaches him with news that his mentor, the priest who marked him, has been imprisoned in a distant shrine under mysterious circumstances. The party might help Drksharana journey to uncover the truth and secure his mentor's release—a dangerous undertaking for a servant far from home.
+The Waterfall's Secret
+: Drksharana's tattoo was not merely a spiritual marking but a sign of initiation into a hidden tradition within the priesthood of Rasikara. A visiting cleric recognizes it and approaches him with news that his mentor, the priest who marked him, has been imprisoned in a distant shrine under mysterious circumstances. The party might help Drksharana journey to uncover the truth and secure his mentor's release—a dangerous undertaking for a servant far from home.
 
-2. **A Kulena's Indiscretion**: While attending his master at a diplomatic gathering, Drksharana witnesses a high-ranking official commit a crime—perhaps murder, theft, or treason. His position allows him access to places and conversations that could expose the truth, but revealing what he knows would destroy his employer's political alliance. He struggles with whether duty to law or loyalty to his patron should prevail.
+A Kulena's Indiscretion
+: While attending his master at a diplomatic gathering, Drksharana witnesses a high-ranking official commit a crime—perhaps murder, theft, or treason. His position allows him access to places and conversations that could expose the truth, but revealing what he knows would destroy his employer's political alliance. He struggles with whether duty to law or loyalty to his patron should prevail.
 
-3. **The Underground Network**: Drksharana discovers that the servants' network extends far deeper than he realized—some within his trusted circle are part of an organization moving escaped slaves, refugees, and the persecuted through hidden passages beneath the city-states. He must decide whether to join their dangerous cause or maintain his comfortable position of plausible ignorance.
+The Underground Network
+: Drksharana discovers that the servants' network extends far deeper than he realized—some within his trusted circle are part of an organization moving escaped slaves, refugees, and the persecuted through hidden passages beneath the city-states. He must decide whether to join their dangerous cause or maintain his comfortable position of plausible ignorance.
 
-4. **A Master's Secret Heir**: Drksharana learns that Vedasthira fathered a child with a servant woman years ago, a child he has denied and paid to keep hidden. When that child surfaces—perhaps claiming legitimacy, perhaps in desperate circumstances—Drksharana must choose between his master's reputation and the unknown heir's rightful claim. The situation becomes further complicated when parties hostile to the family seek to exploit this scandal.
+A Master's Secret Heir
+: Drksharana learns that Vedasthira fathered a child with a servant woman years ago, a child he has denied and paid to keep hidden. When that child surfaces—perhaps claiming legitimacy, perhaps in desperate circumstances—Drksharana must choose between his master's reputation and the unknown heir's rightful claim. The situation becomes further complicated when parties hostile to the family seek to exploit this scandal.
 
-5. **The Merchant's Missing Daughter**: Drksharana is approached by a desperate mother whose daughter worked as a servant in one of the great houses and has gone missing. He realizes that several servants have vanished over recent months, and his investigation into their fates leads him to uncover a dark conspiracy operating within the very institution of household service—possibly involving forced removal, exploitation, or worse.
+The Merchant's Missing Daughter
+: Drksharana is approached by a desperate mother whose daughter worked as a servant in one of the great houses and has gone missing. He realizes that several servants have vanished over recent months, and his investigation into their fates leads him to uncover a dark conspiracy operating within the very institution of household service—possibly involving forced removal, exploitation, or worse.

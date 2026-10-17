@@ -450,8 +450,17 @@ Several practical implications follow from the cosmology established here.
 
 ## See Also
 
-- [[doc-magictruth|Magic Truth]]—The underlying metaphysics of magic, Aura, frameworks, and thin places
-- [[doc-godsrelign|Gods and Religion]]—What religions are, the four mechanisms of divine effect, blessings, curses, the Sacred Forge / Black Flame example
-- [[doc-divineactn|Divine Action]]—How the gods engage with the world through agents, the Balance, divine intelligence, the Heroic Age
-- [[lore-undead|Undead]]—The undead in detail: damutu, terebu, their creation, their politics, and practical guidance for running them
-- [[lore-frgntradcomp|Foreign Traditions Comparative]]—_(GM-only)_ How each non-Order magical tradition channels the potential, including priestly traditions
+[[doc-magictruth|Magic Truth]]
+: The underlying metaphysics of magic, Aura, frameworks, and thin places
+
+[[doc-godsrelign|Gods and Religion]]
+: What religions are, the four mechanisms of divine effect, blessings, curses, the Sacred Forge / Black Flame example
+
+[[doc-divineactn|Divine Action]]
+: How the gods engage with the world through agents, the Balance, divine intelligence, the Heroic Age
+
+[[lore-undead|Undead]]
+: The undead in detail: damutu, terebu, their creation, their politics, and practical guidance for running them
+
+[[lore-frgntradcomp|Foreign Traditions Comparative]]
+: _(GM-only)_ How each non-Order magical tradition channels the potential, including priestly traditions

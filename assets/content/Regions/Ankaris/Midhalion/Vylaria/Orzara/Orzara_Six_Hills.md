@@ -30,8 +30,17 @@ The hills explain where the city's twelve Circles fall. A Circle is three hundre
 
 ## See Also
 
-- [[place-orzara|Orzara]]—the city on the hills
-- [[place-arvel|Arvel]]—the highest hill and the Inner City
-- [[place-selvin|Selvin]]—one of the Heights
-- [[place-antel|Antel]]—the Old Hill, where the Republic's city stood
-- [[place-vylarisrvr|River Vylaris]]—the river below them
+[[place-orzara|Orzara]]
+: the city on the hills
+
+[[place-arvel|Arvel]]
+: the highest hill and the Inner City
+
+[[place-selvin|Selvin]]
+: one of the Heights
+
+[[place-antel|Antel]]
+: the Old Hill, where the Republic's city stood
+
+[[place-vylarisrvr|River Vylaris]]
+: the river below them

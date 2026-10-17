@@ -140,8 +140,17 @@ and would keep it by conversation.
 
 ## See Also
 
-- [[lore-heladsilverveil|The Founding of the Silver Veil]]—the founder and the first rule
-- [[affiliation-kalydria|Kalidria]]—the city of the Academy
-- [[lore-heladtruce|The Truce of the Games]]—a graduate's speech at the heralds' altar
-- [[lore-zunelasdty|Zunelas]]—the Veiled Dreamer, patron of Kalidria and of singers
-- [[lore-helioniteclt|Helionite]]—the hetairin, and the women the cities rank differently
+[[lore-heladsilverveil|The Founding of the Silver Veil]]
+: the founder and the first rule
+
+[[affiliation-kalydria|Kalidria]]
+: the city of the Academy
+
+[[lore-heladtruce|The Truce of the Games]]
+: a graduate's speech at the heralds' altar
+
+[[lore-zunelasdty|Zunelas]]
+: the Veiled Dreamer, patron of Kalidria and of singers
+
+[[lore-helioniteclt|Helionite]]
+: the hetairin, and the women the cities rank differently

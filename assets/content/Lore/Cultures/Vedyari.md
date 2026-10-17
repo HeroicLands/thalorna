@@ -239,20 +239,47 @@ The sin is the unburned dead. A king at the ford of Oluratarana forbade the pyre
 
 ## See Also
 
-- [[place-vedyarargn|Vedyara Region]]—the subcontinent this is the culture of
-- [[affiliation-varakpnthn|Varnuka Pantheon]]—the cycle-gods and the rebirth the order rests on
-- [[skill-vedyarlng|Vedyari]]—the language and its classical form
-- [[skill-vdykshrscrpt|Vedyakshara Script]]—the syllabary the learning is written in
-- [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—the roll of the janapadas
-- [[lore-vdyrnbnkng|Vedyaran Banking]]—the letters of credit that move a household's money
-- [[lore-ferrymanford|The Ferryman at the Ford]]—Taranapala, the oath on the terrace and what the office became
-- [[lore-borrowedlamp|The Borrowed Lamp]]—Padmika's lamp and the founding fire of the Agmi-pantra
-- [[lore-measuringcord|The Measuring Cord]]—the first recitation a child hears
-- [[lore-unburnford|The Unburned Ford]]—the oldest blood-field
-- [[lore-bloodfield|Blood-fields]]—what the unburned dead leave behind
-- [[affiliation-kalavrata|Kalavrata]]—the Gatekeeper of Death
-- [[affiliation-thresholdkeepers|The Threshold-keepers]]—the one question put at the threshold
-- [[lore-widowaccl|The Widow's Acclamation]]—the precedent each council of Shikharalaya argues from
+[[place-vedyarargn|Vedyara Region]]
+: the subcontinent this is the culture of
+
+[[affiliation-varakpnthn|Varnuka Pantheon]]
+: the cycle-gods and the rebirth the order rests on
+
+[[skill-vedyarlng|Vedyari]]
+: the language and its classical form
+
+[[skill-vdykshrscrpt|Vedyakshara Script]]
+: the syllabary the learning is written in
+
+[[affiliation-janpdsvdyr|Janapadas of Vedyara]]
+: the roll of the janapadas
+
+[[lore-vdyrnbnkng|Vedyaran Banking]]
+: the letters of credit that move a household's money
+
+[[lore-ferrymanford|The Ferryman at the Ford]]
+: Taranapala, the oath on the terrace and what the office became
+
+[[lore-borrowedlamp|The Borrowed Lamp]]
+: Padmika's lamp and the founding fire of the Agmi-pantra
+
+[[lore-measuringcord|The Measuring Cord]]
+: the first recitation a child hears
+
+[[lore-unburnford|The Unburned Ford]]
+: the oldest blood-field
+
+[[lore-bloodfield|Blood-fields]]
+: what the unburned dead leave behind
+
+[[affiliation-kalavrata|Kalavrata]]
+: the Gatekeeper of Death
+
+[[affiliation-thresholdkeepers|The Threshold-keepers]]
+: the one question put at the threshold
+
+[[lore-widowaccl|The Widow's Acclamation]]
+: the precedent each council of Shikharalaya argues from
 
 ## Glossary {#glossary}
 

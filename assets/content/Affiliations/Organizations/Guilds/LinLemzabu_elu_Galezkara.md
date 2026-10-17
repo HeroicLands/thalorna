@@ -56,5 +56,8 @@ Say a steward of a house on **[[place-waligelu|Wal-Igelu]] (the Drowned Way)** h
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The city whose great houses its stewards run
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-galezkara|Galezkara]]
+: The city whose great houses its stewards run
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

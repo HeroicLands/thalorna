@@ -451,19 +451,37 @@ Deep down, Árshazur fears civilian life and what it might require of him—the 
 
 ### Strengths
 
-- **Master of Melee Combat and Weapon Craft**: Árshazur's skill with sword and shield is forged through thousands of hours of training and actual combat. His understanding of footwork, distance, and timing is instinctive and nearly impossible to teach.
-- **Tactical Acumen in Small Unit Operations**: While not a grand strategist, Árshazur excels at managing squad-level tactics, identifying advantageous positions, and coordinating small unit movements in complex terrain.
-- **Physical Conditioning**: His strength and endurance have been refined to extraordinary levels. He can move quickly in armor, sustain combat longer than most, and recover from physical exertion rapidly.
-- **Authoritative Military Leadership**: Soldiers under his command respect him without question. His calm under pressure and clear judgment create confidence and cohesion in his units.
-- **Survival and Awareness**: His experiences have made him supremely aware of environmental dangers, potential threats, and the signs of impending disaster. Few can match his ability to predict when situations are about to deteriorate.
+Master of Melee Combat and Weapon Craft
+: Árshazur's skill with sword and shield is forged through thousands of hours of training and actual combat. His understanding of footwork, distance, and timing is instinctive and nearly impossible to teach.
+
+Tactical Acumen in Small Unit Operations
+: While not a grand strategist, Árshazur excels at managing squad-level tactics, identifying advantageous positions, and coordinating small unit movements in complex terrain.
+
+Physical Conditioning
+: His strength and endurance have been refined to extraordinary levels. He can move quickly in armor, sustain combat longer than most, and recover from physical exertion rapidly.
+
+Authoritative Military Leadership
+: Soldiers under his command respect him without question. His calm under pressure and clear judgment create confidence and cohesion in his units.
+
+Survival and Awareness
+: His experiences have made him supremely aware of environmental dangers, potential threats, and the signs of impending disaster. Few can match his ability to predict when situations are about to deteriorate.
 
 ### Weaknesses
 
-- **Emotional Toll of Combat**: The cumulative weight of eighteen years of warfare has left him carrying wounds he has never faced. He experiences nightmares, unexpected emotional reactions, and difficulty with trust.
-- **Limited Adaptability**: Árshazur relies on proven methods and struggles to quickly adopt new tactics or strategies. Once he has learned a method, changing it feels almost impossible, even when circumstances demand it.
-- **Difficulty with Non-Military Solutions**: Having spent nearly his entire adult life in military structures where problems are solved through force or hierarchy, he struggles to imagine or implement alternatives. He is uncomfortable with negotiation, persuasion, or compromise.
-- **Social Isolation**: His military discipline and emotional suppression create distance from most people. He maintains few real friendships outside his immediate command.
-- **Declining Physical Peak**: At thirty-six, Árshazur remains a dangerous fighter, but younger soldiers are beginning to match his abilities. He recognizes this decline with growing anxiety and occasionally compensates with unnecessary aggression.
+Emotional Toll of Combat
+: The cumulative weight of eighteen years of warfare has left him carrying wounds he has never faced. He experiences nightmares, unexpected emotional reactions, and difficulty with trust.
+
+Limited Adaptability
+: Árshazur relies on proven methods and struggles to quickly adopt new tactics or strategies. Once he has learned a method, changing it feels almost impossible, even when circumstances demand it.
+
+Difficulty with Non-Military Solutions
+: Having spent nearly his entire adult life in military structures where problems are solved through force or hierarchy, he struggles to imagine or implement alternatives. He is uncomfortable with negotiation, persuasion, or compromise.
+
+Social Isolation
+: His military discipline and emotional suppression create distance from most people. He maintains few real friendships outside his immediate command.
+
+Declining Physical Peak
+: At thirty-six, Árshazur remains a dangerous fighter, but younger soldiers are beginning to match his abilities. He recognizes this decline with growing anxiety and occasionally compensates with unnecessary aggression.
 
 ## Social
 
@@ -499,12 +517,17 @@ The Veterans' Society
 
 ## Plot Hooks
 
-1. **The Impossible Order**: Árshazur receives orders from a superior officer to carry out an action that he recognizes as dishonorable—attacking a civilian settlement to secure the border, or executing prisoners under the guise of military necessity. Refusing would end his service; compliance would shatter something fundamental in his character. He must make this impossible choice while determining whether the order is legitimate or originates from someone with darker motives.
+The Impossible Order
+: Árshazur receives orders from a superior officer to carry out an action that he recognizes as dishonorable—attacking a civilian settlement to secure the border, or executing prisoners under the guise of military necessity. Refusing would end his service; compliance would shatter something fundamental in his character. He must make this impossible choice while determining whether the order is legitimate or originates from someone with darker motives.
 
-2. **The Recruit with a Secret**: A promising young recruit in Árshazur's unit proves to be **Polykarin**, the illegitimate son of an enemy general from a previous conflict. When Árshazur discovers the connection, he can report Polykarin and potentially destroy a promising soldier's prospects, or protect him while risking the garrison's safety and his own authority if discovered.
+The Recruit with a Secret
+: A promising young recruit in Árshazur's unit proves to be **Polykarin**, the illegitimate son of an enemy general from a previous conflict. When Árshazur discovers the connection, he can report Polykarin and potentially destroy a promising soldier's prospects, or protect him while risking the garrison's safety and his own authority if discovered.
 
-3. **The Monastery's Message**: Clergy from the Monastery of Saint Florantine approach Árshazur with evidence that a significant portion of the military leadership is being covertly influenced or manipulated by hidden powers with interests contrary to the League's declared aims. They ask him to investigate and expose the conspiracy, which would require him to betray his own commanders.
+The Monastery's Message
+: Clergy from the Monastery of Saint Florantine approach Árshazur with evidence that a significant portion of the military leadership is being covertly influenced or manipulated by hidden powers with interests contrary to the League's declared aims. They ask him to investigate and expose the conspiracy, which would require him to betray his own commanders.
 
-4. **The Retired Warrior's Appeal**: An aging veteran named **Valen**, who trained Árshazur twenty years ago, appears with a request: help him investigate and execute vengeance against officers who, decades past, sacrificed an entire unit unnecessarily. Árshazur recognizes the truth in Valen's accusations, but agreeing to help would constitute rebellion against military authority.
+The Retired Warrior's Appeal
+: An aging veteran named **Valen**, who trained Árshazur twenty years ago, appears with a request: help him investigate and execute vengeance against officers who, decades past, sacrificed an entire unit unnecessarily. Árshazur recognizes the truth in Valen's accusations, but agreeing to help would constitute rebellion against military authority.
 
-5. **The War That Never Ends**: Árshazur discovers that his own retirement, long anticipated as the conclusion of his military obligation, has been quietly canceled by a clerk's hand. The army, recognizing his value, has marked him for service without end. Trapped in an order that no longer permits exit, Árshazur can attempt escape, accept permanent captivity to the army, or find a way to force it to honor its original commitments.
+The War That Never Ends
+: Árshazur discovers that his own retirement, long anticipated as the conclusion of his military obligation, has been quietly canceled by a clerk's hand. The army, recognizing his value, has marked him for service without end. Trapped in an order that no longer permits exit, Árshazur can attempt escape, accept permanent captivity to the army, or find a way to force it to honor its original commitments.

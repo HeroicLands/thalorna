@@ -78,18 +78,41 @@ To say a man "owns a house facing the Circle" is to say he is wealthy beyond ord
 
 By ancient tradition the city holds exactly **twelve** of them—the **Twelve Circles**—their number deliberately echoing _the Twelve_ of the [[affiliation-arldnpnthn|Aureldian Pantheon]]. Lesser squares and market-plazas are scattered everywhere, but only twelve are true Circles, and Orzarans name them as readily as the gods:
 
-- **The Orzas's Circle**—greatest of all, before the Inner City gate; a colossal statue of the first Orzas presides over accessions, triumphs, and proclamations. The crowned rune on its plinth, which by the script's rule should enclose a name, encloses a smoothed patch of stone ([[lore-eaglecityrse|The Raising of the Eagle City]]).
-- **The [Circle of Triumph]{.name data-type="place/site"}**—its great arches the muster-point of victory processions.
-- **The [Circle of the Twelve]{.name data-type="place/site"}**—fronting the [Vanor]{.name data-type="place/site"} (the Temple District), crowned by a towering obelisk; the stage for the city's religious festivals.
-- **The Circle of Marendas**—heart of the [[affiliation-panepistmm|Scholars' District]], beneath the statue of the goddess of wisdom.
-- **The [Grand Market Circle]{.name data-type="place/site"}**—the largest licensed market in the Empire.
-- **The [Circle of Árdavon]{.name data-type="place/site"}**—[[lore-ardavondty|Árdavon]] of the Gates, lord of order and justice; the forum of the law-courts.
-- **The [Legions' Circle]{.name data-type="place/site"}**—on the approach to the [[place-thaurzurgalis|Thaurzurgalis]]; a war-monument to [[lore-brazemasdty|Brazemas]]; the ground of musters and military reviews.
-- **The [River Circle]{.name data-type="place/site"}**—by the river gate and the docks, around a great aqueduct-fountain; the haunt of watermen and mariners.
-- **The [Spire Circle]{.name data-type="place/site"}**—built about a soaring spire hauled from a conquered province.
-- **The [Circle of Heroes]{.name data-type="place/site"}**—ranked with the statues of the Empire's great figures.
-- **The [Circle of Waters]{.name data-type="place/site"}**—the grandest of the fountain-displays, run for spectacle on feast days.
-- **The [Racecourse Circle]{.name data-type="place/site"}**—fronting the Rathauna Melvar, where the race-crowds and the racing factions gather—and, often enough, brawl.
+The Orzas's Circle
+: greatest of all, before the Inner City gate; a colossal statue of the first Orzas presides over accessions, triumphs, and proclamations. The crowned rune on its plinth, which by the script's rule should enclose a name, encloses a smoothed patch of stone ([[lore-eaglecityrse|The Raising of the Eagle City]]).
+
+The [Circle of Triumph]{.name data-type="place/site"}
+: its great arches the muster-point of victory processions.
+
+The [Circle of the Twelve]{.name data-type="place/site"}
+: fronting the [Vanor]{.name data-type="place/site"} (the Temple District), crowned by a towering obelisk; the stage for the city's religious festivals.
+
+The Circle of Marendas
+: heart of the [[affiliation-panepistmm|Scholars' District]], beneath the statue of the goddess of wisdom.
+
+The [Grand Market Circle]{.name data-type="place/site"}
+: the largest licensed market in the Empire.
+
+The [Circle of Árdavon]{.name data-type="place/site"}
+: [[lore-ardavondty|Árdavon]] of the Gates, lord of order and justice; the forum of the law-courts.
+
+The [Legions' Circle]{.name data-type="place/site"}
+: on the approach to the [[place-thaurzurgalis|Thaurzurgalis]]; a war-monument to [[lore-brazemasdty|Brazemas]]; the ground of musters and military reviews.
+
+The [River Circle]{.name data-type="place/site"}
+: by the river gate and the docks, around a great aqueduct-fountain; the haunt of watermen and mariners.
+
+The [Spire Circle]{.name data-type="place/site"}
+: built about a soaring spire hauled from a conquered province.
+
+The [Circle of Heroes]{.name data-type="place/site"}
+: ranked with the statues of the Empire's great figures.
+
+The [Circle of Waters]{.name data-type="place/site"}
+: the grandest of the fountain-displays, run for spectacle on feast days.
+
+The [Racecourse Circle]{.name data-type="place/site"}
+: fronting the Rathauna Melvar, where the race-crowds and the racing factions gather—and, often enough, brawl.
 
 Not every Circle wears its honors equally. The grandest—the Orzas's Circle, the Circle of Triumph, the ones the processions cross and the ambassadors are shown—are kept gleaming, fountains playing and bronzes bright. But the lesser Circles show their age: a fountain dry in living memory, its basin green-stained; an obelisk whose conquest-inscription has weathered past reading; a market Circle rutted and sunken where ten generations of stalls and feet have worn the paving hollow. The monuments still stand and still impress—but a few of them now impress chiefly as relics.
 
@@ -117,13 +140,26 @@ Orzara is governed by an intricate and jealously enforced body of **district law
 
 Because the foul and heavy trades are banished and the draft animals stabled outside, Orzara within its bounds is overwhelmingly a city of **consumption, exchange, governance, worship, and residence** rather than of making. Why pay the ruinous rents inside to forge iron or tan hides, when the same goods can be made cheaply beyond the bounds and simply _sold_ inside through the chandlers and the markets? So the work that remains within the city is the work that must stay: selling, service, and the few clean and costly crafts whose buyers are the rich who live here. The quarters reflect it:
 
-- **The [Platan District]{.name data-type="place/site"}**—the civic heart, in the central saddle below Arvel around the **Circle of Árdavon**: the basilicas of the civic courts, the chambers of the [[affiliation-verdanorzara|Verdan Orzara]], the grandest public baths and libraries, and the platforms from which the city is governed and addressed.
-- **The Grand Market**—the commercial heart, on the central flats around the **Grand Market Circle**: the great licensed markets and the chandlers who retail what the city does not make, the banking houses of [[affiliation-danvar|The Danvar]], and the administrative guild-halls of [[affiliation-tevran|The Tevran Maldor]]'s trades (their workshops, like everything else, kept outside).
-- **The Wharves**—the river port beneath **Nerval** on the **River Circle**, where the barges land: the bulk granaries and warehouses, the fish-market, the watermen and porters, and the registered **foreigners' quarter** of resident Taruzelian, Nordling, and Khelathi traders.
-- **The Scholars' District**—the [[affiliation-panepistmm|Epistémion]] campus, on **Mernel** around the Circle of Marendas (detailed below).
-- **The Gilded Quarter**—the clean, costly trades and the moneyed services, climbing the lower slopes of **Selvin** toward the Heights: the goldsmiths, jewelers, perfumers, fine tailors, apothecaries, and instrument-makers who both make and sell to a wealthy clientele, alongside the physicians, scriveners, and the better baths and inns. The one ward where craft and luxury still keep house together inside the city.
-- **The Heights**—the twin patrician hills, **Torvel** and **Selvin**: walled villas, terraced gardens, and the city-houses of _kurthoi_ (senators) and great families who do not lodge in the Inner City, prized for their air and their views and reached only on foot.
-- **The Warrens**—the dense tenement wards that fill the valleys and lower slopes, packed thickest on **Nerval** above the Wharves: many-storied _tengali_ of brick and timber, crowded and fire-prone, home to the citizen-veterans and the sponsored working folk whose livelihoods keep them within the city (see _Citizens and Residents_).
+The [Platan District]{.name data-type="place/site"}
+: the civic heart, in the central saddle below Arvel around the **Circle of Árdavon**: the basilicas of the civic courts, the chambers of the [[affiliation-verdanorzara|Verdan Orzara]], the grandest public baths and libraries, and the platforms from which the city is governed and addressed.
+
+The Grand Market
+: the commercial heart, on the central flats around the **Grand Market Circle**: the great licensed markets and the chandlers who retail what the city does not make, the banking houses of [[affiliation-danvar|The Danvar]], and the administrative guild-halls of [[affiliation-tevran|The Tevran Maldor]]'s trades (their workshops, like everything else, kept outside).
+
+The Wharves
+: the river port beneath **Nerval** on the **River Circle**, where the barges land: the bulk granaries and warehouses, the fish-market, the watermen and porters, and the registered **foreigners' quarter** of resident Taruzelian, Nordling, and Khelathi traders.
+
+The Scholars' District
+: the [[affiliation-panepistmm|Epistémion]] campus, on **Mernel** around the Circle of Marendas (detailed below).
+
+The Gilded Quarter
+: the clean, costly trades and the moneyed services, climbing the lower slopes of **Selvin** toward the Heights: the goldsmiths, jewelers, perfumers, fine tailors, apothecaries, and instrument-makers who both make and sell to a wealthy clientele, alongside the physicians, scriveners, and the better baths and inns. The one ward where craft and luxury still keep house together inside the city.
+
+The Heights
+: the twin patrician hills, **Torvel** and **Selvin**: walled villas, terraced gardens, and the city-houses of _kurthoi_ (senators) and great families who do not lodge in the Inner City, prized for their air and their views and reached only on foot.
+
+The Warrens
+: the dense tenement wards that fill the valleys and lower slopes, packed thickest on **Nerval** above the Wharves: many-storied _tengali_ of brick and timber, crowded and fire-prone, home to the citizen-veterans and the sponsored working folk whose livelihoods keep them within the city (see _Citizens and Residents_).
 
 The city's pleasures keep their own quarters too—the [[place-magntheatredstr|Theatre District]] and the Racecourse quarter about the **Racecourse Circle**—but those belong to its public life (see _Spectacle and the Public Life_).
 

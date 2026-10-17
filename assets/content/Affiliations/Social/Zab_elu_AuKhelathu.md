@@ -60,5 +60,8 @@ If you are asked which house speaks for you, answer with the house that holds yo
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the region it belongs to
-- [[affiliation-genzethalzia|Genzet'Halzi'a]]—the council where their governors sit
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the region it belongs to
+
+[[affiliation-genzethalzia|Genzet'Halzi'a]]
+: the council where their governors sit

@@ -292,20 +292,29 @@ Monitor lizards are equally at home in water as on land, able to hold breath for
 
 ## Attributes
 
-- **Strength:** 10-15 (1d6+9)
+Strength
+: 10-15 (1d6+9)
 
-- **Endurance:** 8-13 (1d6+7)
+Endurance
+: 8-13 (1d6+7)
 
-- **Dexterity:** 10-15 (1d6+9)
+Dexterity
+: 10-15 (1d6+9)
 
-- **Agility:** 9-14 (1d6+8)
+Agility
+: 9-14 (1d6+8)
 
-- **Perception:** 9-14 (1d6+8)
+Perception
+: 9-14 (1d6+8)
 
-- **Aura:** 7-10 (1d4+6)
+Aura
+: 7-10 (1d4+6)
 
-- **Will:** 8-13 (1d6+7)
+Will
+: 8-13 (1d6+7)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

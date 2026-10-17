@@ -54,10 +54,23 @@ The wash is a two-hour walk from the east gate over open gravel, no cover and no
 
 ## See Also
 
-- [[place-zargandur|Zargandur]]—the city whose palace it holds
-- [[place-henhulpedin|Henhutpedin]]—the field of the riders, north of the walls
-- [[lore-bloodfield|Blood-fields]]—what a field is, and what working one does
-- [[lore-theshadow|The Shadow]]—what comes through where a field is cut
-- [[lore-undead|Undead]]—the dead made to walk
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—the tribes that filled it
-- [[lore-turemrecital|The Recitation of the Breaking]]—the names the Tellumi say in place of reading them
+[[place-zargandur|Zargandur]]
+: the city whose palace it holds
+
+[[place-henhulpedin|Henhutpedin]]
+: the field of the riders, north of the walls
+
+[[lore-bloodfield|Blood-fields]]
+: what a field is, and what working one does
+
+[[lore-theshadow|The Shadow]]
+: what comes through where a field is cut
+
+[[lore-undead|Undead]]
+: the dead made to walk
+
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: the tribes that filled it
+
+[[lore-turemrecital|The Recitation of the Breaking]]
+: the names the Tellumi say in place of reading them

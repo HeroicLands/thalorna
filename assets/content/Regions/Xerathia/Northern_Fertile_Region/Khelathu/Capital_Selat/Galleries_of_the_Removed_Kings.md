@@ -45,7 +45,14 @@ Some of the doors have been opened and resealed. The seals are not always the te
 
 ## See Also
 
-- [[lore-greatremovl|The Great Removal]]—why the kings were moved
-- [[place-zugezer|Zu-Gezer]]—the necropolis
-- [[lore-akhhsmeqes|The House of Meqes]]—the house that ordered it
-- [[lore-crossmound|The Crossing to the Mound]]—the first Ways, which lie here
+[[lore-greatremovl|The Great Removal]]
+: why the kings were moved
+
+[[place-zugezer|Zu-Gezer]]
+: the necropolis
+
+[[lore-akhhsmeqes|The House of Meqes]]
+: the house that ordered it
+
+[[lore-crossmound|The Crossing to the Mound]]
+: the first Ways, which lie here

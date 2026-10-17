@@ -28,15 +28,31 @@ The kingdom is known for its shipbuilding. Malagnan longships are considered the
 
 ## Places in the Land
 
-- [[place-gnarthborg|Gnarthborg]] (1,200 people): the seat, the king's hall and the yards.
-- [[place-malstead|Málstead]] (600): the law-market of the western farms.
-- [[place-braldheim|Braldheim]] (350): charcoal-burners' homesteads, and the howe where the [[affiliation-grimvar|Grimvar]] keep [[miscgear-crwnwyrm|the Crown of the Wyrm]].
-- [[place-hvalgvik|Hvalgvík]] (200): a bay that gives shelter in any wind.
-- [[place-glarvey|Glarvey]]: an island holding under a hersvald.
-- [[place-dvilgborg|Dvilgborg]]: a garrisoned stronghold on a height.
+[[place-gnarthborg|Gnarthborg]] (1,200 people)
+: the seat, the king's hall and the yards.
+
+[[place-malstead|Málstead]] (600)
+: the law-market of the western farms.
+
+[[place-braldheim|Braldheim]] (350)
+: charcoal-burners' homesteads, and the howe where the [[affiliation-grimvar|Grimvar]] keep [[miscgear-crwnwyrm|the Crown of the Wyrm]].
+
+[[place-hvalgvik|Hvalgvík]] (200)
+: a bay that gives shelter in any wind.
+
+[[place-glarvey|Glarvey]]
+: an island holding under a hersvald.
+
+[[place-dvilgborg|Dvilgborg]]
+: a garrisoned stronghold on a height.
 
 ## See Also
 
-- [[affiliation-kingdomlgn|Kingdom of Malagna]]—the kingdom that holds this land
-- [[place-nrdlndsrgn|Nordlands Region]]—the enclosing region
-- [[place-gnarthborg|Gnarthborg]]—the seat
+[[affiliation-kingdomlgn|Kingdom of Malagna]]
+: the kingdom that holds this land
+
+[[place-nrdlndsrgn|Nordlands Region]]
+: the enclosing region
+
+[[place-gnarthborg|Gnarthborg]]
+: the seat

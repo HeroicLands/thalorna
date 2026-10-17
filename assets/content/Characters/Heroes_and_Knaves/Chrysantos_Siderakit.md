@@ -441,19 +441,37 @@ Fibakon is driven by the endless accumulation of wealth, influence, and prestige
 
 ### Strengths
 
-- **Mercantile Genius**: His extraordinary skill in mercantilism, combined with mathematical precision and fluent use of two languages, makes him a devastatingly effective negotiator. He understands the movement of markets, the leverage of scarcity and demand, and the hidden valuations that determine what something is truly worth.
-- **Network and Connections**: Across eight years, he has cultivated relationships with hundreds of valuable contacts—craftspeople, collectors, nobles, clergy, and other brokers. His network is his primary asset, more valuable than any specific commodity.
-- **Discourse and Eloquence**: His eloquence and discourse skills allow him to persuade, inspire confidence, and manage difficult social situations. He can talk his way into restricted spaces, convince reluctant sellers to part with treasured items, and charm clients into purchasing things they did not intend to acquire.
-- **Perception and Reasoning**: His keen perception allows him to read people accurately, identifying what they truly desire beneath what they claim to want. His reasoning lets him analyze complex situations and identify paths to advantage.
-- **Survival and Practical Knowledge**: He possesses greater practical knowledge than many recognize, including understanding of survival skills, animal handling, and wilderness travel—useful assets when procuring items from remote or dangerous locations.
+Mercantile Genius
+: His extraordinary skill in mercantilism, combined with mathematical precision and fluent use of two languages, makes him a devastatingly effective negotiator. He understands the movement of markets, the leverage of scarcity and demand, and the hidden valuations that determine what something is truly worth.
+
+Network and Connections
+: Across eight years, he has cultivated relationships with hundreds of valuable contacts—craftspeople, collectors, nobles, clergy, and other brokers. His network is his primary asset, more valuable than any specific commodity.
+
+Discourse and Eloquence
+: His eloquence and discourse skills allow him to persuade, inspire confidence, and manage difficult social situations. He can talk his way into restricted spaces, convince reluctant sellers to part with treasured items, and charm clients into purchasing things they did not intend to acquire.
+
+Perception and Reasoning
+: His keen perception allows him to read people accurately, identifying what they truly desire beneath what they claim to want. His reasoning lets him analyze complex situations and identify paths to advantage.
+
+Survival and Practical Knowledge
+: He possesses greater practical knowledge than many recognize, including understanding of survival skills, animal handling, and wilderness travel—useful assets when procuring items from remote or dangerous locations.
 
 ### Weaknesses
 
-- **Moral Flexibility**: His indifference to the ethics of his actions has led him to participate in morally questionable transactions—acquiring artifacts from tombs, purchasing items obtained through exploitation, facilitating transactions that harm vulnerable populations.
-- **Arrogance and Dismissiveness**: His confidence in his own judgment sometimes blinds him to perspectives and information that challenge his worldview. He is prone to dismissing those from lower social classes as inherently less intelligent or capable than himself.
-- **Lack of Physical Prowess**: He is not a warrior or a particularly strong individual. His dexterity is moderate, and he possesses no martial training. In physical confrontation, he is vulnerable and dependent on hired protection or allies.
-- **Vulnerability to Emotional Manipulation**: Behind his careful manner is a wound from his family—specifically, his resentment of his brother. Anyone who understands this vulnerability can use it against him, appealing to his pride or his desire to prove superiority.
-- **Network Dependency**: His entire operational capacity depends on his network. If major contacts betray him, if his reputation for discretion is undermined, if patrons lose faith in his judgment, his enterprise collapses. He has built nothing that survives the loss of his personal credibility.
+Moral Flexibility
+: His indifference to the ethics of his actions has led him to participate in morally questionable transactions—acquiring artifacts from tombs, purchasing items obtained through exploitation, facilitating transactions that harm vulnerable populations.
+
+Arrogance and Dismissiveness
+: His confidence in his own judgment sometimes blinds him to perspectives and information that challenge his worldview. He is prone to dismissing those from lower social classes as inherently less intelligent or capable than himself.
+
+Lack of Physical Prowess
+: He is not a warrior or a particularly strong individual. His dexterity is moderate, and he possesses no martial training. In physical confrontation, he is vulnerable and dependent on hired protection or allies.
+
+Vulnerability to Emotional Manipulation
+: Behind his careful manner is a wound from his family—specifically, his resentment of his brother. Anyone who understands this vulnerability can use it against him, appealing to his pride or his desire to prove superiority.
+
+Network Dependency
+: His entire operational capacity depends on his network. If major contacts betray him, if his reputation for discretion is undermined, if patrons lose faith in his judgment, his enterprise collapses. He has built nothing that survives the loss of his personal credibility.
 
 ## Social
 
@@ -492,12 +510,17 @@ The Collector's Circle
 
 ## Plot Hooks
 
-1. **The Cursed Artifact**: Fibakon acquires what he believes to be a rare and valuable religious artifact—a relic of considerable historical significance—from a mysterious seller in Vedyara. He brokered a transaction that resulted in sale of the item to a wealthy collector in the Kingdom of Tarvénia. Within weeks, the new owner begins experiencing inexplicable misfortunes: illnesses, financial catastrophes, a crumbling mind. The collector becomes convinced the artifact is cursed and moves to recover it, first through legal means, then through more direct methods. Fibakon is tracked down and threatened; the artifact's original seller appears to be connected to powerful forces interested in its recovery; and Fibakon discovers that the artifact may indeed be supernatural in nature. He can recover it, find a way to lift whatever curse attends it, or convince the collector that the misfortunes are coincidental.
+The Cursed Artifact
+: Fibakon acquires what he believes to be a rare and valuable religious artifact—a relic of considerable historical significance—from a mysterious seller in Vedyara. He brokered a transaction that resulted in sale of the item to a wealthy collector in the Kingdom of Tarvénia. Within weeks, the new owner begins experiencing inexplicable misfortunes: illnesses, financial catastrophes, a crumbling mind. The collector becomes convinced the artifact is cursed and moves to recover it, first through legal means, then through more direct methods. Fibakon is tracked down and threatened; the artifact's original seller appears to be connected to powerful forces interested in its recovery; and Fibakon discovers that the artifact may indeed be supernatural in nature. He can recover it, find a way to lift whatever curse attends it, or convince the collector that the misfortunes are coincidental.
 
-2. **The Stolen Masterpiece**: A commissioned artwork—a piece personally created by **Master Artificer Kaelvos** for a wealthy patron—is stolen in transit. The patron, a powerful noble with connections to the crown, holds Fibakon personally responsible as the broker who arranged the commission and theoretically secured its delivery. If the item is not recovered within two lunar cycles, Fibakon faces serious legal consequences as well as financial loss. The thief proves to be operatives from the [[affiliation-adanasreni|Adanashreni]] (possibly including [[being-chndrkrtsndrjyvl|Chandrakirtisundari Jayavalli]]), who were hired to steal the piece by a rival merchant attempting to damage Fibakon's reputation. Recovering the piece requires negotiating with the guild while discovering who orchestrated the theft.
+The Stolen Masterpiece
+: A commissioned artwork—a piece personally created by **Master Artificer Kaelvos** for a wealthy patron—is stolen in transit. The patron, a powerful noble with connections to the crown, holds Fibakon personally responsible as the broker who arranged the commission and theoretically secured its delivery. If the item is not recovered within two lunar cycles, Fibakon faces serious legal consequences as well as financial loss. The thief proves to be operatives from the [[affiliation-adanasreni|Adanashreni]] (possibly including [[being-chndrkrtsndrjyvl|Chandrakirtisundari Jayavalli]]), who were hired to steal the piece by a rival merchant attempting to damage Fibakon's reputation. Recovering the piece requires negotiating with the guild while discovering who orchestrated the theft.
 
-3. **The Competitor's Downfall**: A rival merchant-broker, **Merchant-Lord Plasáhr**, suddenly collapses into financial ruin. His clients flee, his reputation is destroyed, and his enterprise disintegrates within weeks. Fibakon discovers evidence that some of this collapse was orchestrated by a third party—someone deliberately undermining Plasáhr to drive his business into Fibakon's ready hands. The question becomes: who orchestrated Plasáhr's ruin, why did they choose to benefit Fibakon, and what price will they demand for this "gift"? The benefactor reveals themselves to be a powerful individual (possibly even an organization) who expects Fibakon to become their broker and facilitate specific acquisitions for unknown purposes.
+The Competitor's Downfall
+: A rival merchant-broker, **Merchant-Lord Plasáhr**, suddenly collapses into financial ruin. His clients flee, his reputation is destroyed, and his enterprise disintegrates within weeks. Fibakon discovers evidence that some of this collapse was orchestrated by a third party—someone deliberately undermining Plasáhr to drive his business into Fibakon's ready hands. The question becomes: who orchestrated Plasáhr's ruin, why did they choose to benefit Fibakon, and what price will they demand for this "gift"? The benefactor reveals themselves to be a powerful individual (possibly even an organization) who expects Fibakon to become their broker and facilitate specific acquisitions for unknown purposes.
 
-4. **The Repatriation War**: The descendants of an ancient culture from which Fibakon acquired several significant cultural and religious artifacts demand their return. They possess documentation proving the items were taken during colonization or conquest, and they appeal to the **Bizarian League's** cultural authority bodies for enforcement of repatriation. Simultaneously, the wealthy collectors who purchased these items from Fibakon refuse to surrender them, threatening litigation against Fibakon if the sale becomes legally invalid. Fibakon is caught between legal/moral obligation to facilitate repatriation and contractual obligation to his clients. To complicate matters, one of the items may actually be falsely attributed, and returning it would be to commit cultural fraud against the very people demanding its return.
+The Repatriation War
+: The descendants of an ancient culture from which Fibakon acquired several significant cultural and religious artifacts demand their return. They possess documentation proving the items were taken during colonization or conquest, and they appeal to the **Bizarian League's** cultural authority bodies for enforcement of repatriation. Simultaneously, the wealthy collectors who purchased these items from Fibakon refuse to surrender them, threatening litigation against Fibakon if the sale becomes legally invalid. Fibakon is caught between legal/moral obligation to facilitate repatriation and contractual obligation to his clients. To complicate matters, one of the items may actually be falsely attributed, and returning it would be to commit cultural fraud against the very people demanding its return.
 
-5. **The Brother's Gambit**: Fibakon's older brother, his relationship strained by decades of sibling rivalry, suddenly reaches out with a business proposition: they could merge their commercial operations, creating a unified merchant enterprise of unprecedented scale and power. Ostensibly, the merger would benefit both; Fibakon's network of luxury brokers combined with the family's broader trading concerns would be a powerful combination. Yet Fibakon suspects the offer is a trap designed to either subordinate him to his brother's control or to steal his carefully cultivated network. The offer may or may not be honest; he can negotiate terms that protect his interests if he chooses to pursue it, or conclusively sever family ties by refusing—an action that would almost certainly result in his brother using his resources to actively undermine Fibakon's business.
+The Brother's Gambit
+: Fibakon's older brother, his relationship strained by decades of sibling rivalry, suddenly reaches out with a business proposition: they could merge their commercial operations, creating a unified merchant enterprise of unprecedented scale and power. Ostensibly, the merger would benefit both; Fibakon's network of luxury brokers combined with the family's broader trading concerns would be a powerful combination. Yet Fibakon suspects the offer is a trap designed to either subordinate him to his brother's control or to steal his carefully cultivated network. The offer may or may not be honest; he can negotiate terms that protect his interests if he chooses to pursue it, or conclusively sever family ties by refusing—an action that would almost certainly result in his brother using his resources to actively undermine Fibakon's business.

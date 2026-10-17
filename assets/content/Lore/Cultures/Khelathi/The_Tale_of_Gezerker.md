@@ -244,9 +244,20 @@ Copied in the fourteenth year of Gar-Au Legir'el'Retha I, in the second month of
 
 ## See Also
 
-- [[lore-khelathiclt|Khelathi]]—the two ledgers, the Closing and the Reading
-- [[lore-readingweigh|The Reading at the Weighing]]—the litany the tale quotes at the Asking
-- [[place-yathtelgu|Yath-Telgu]]—the island, the Great Temple and the Measure
-- [[place-garqethar|Gar-Qethar]]—the warrens over the famine pits
-- [[lore-failfloods|The Failing Floods]] · [[lore-sealedgran|The Battle of the Sealed Granaries]] · [[lore-judgfalseuq|The Judgment of the False Uqa'a]]—the history the tale is set in
-- [[lore-garauu|Gar-Auu]]—the king-list, with the struck years and the reigns the tale dates by
+[[lore-khelathiclt|Khelathi]]
+: the two ledgers, the Closing and the Reading
+
+[[lore-readingweigh|The Reading at the Weighing]]
+: the litany the tale quotes at the Asking
+
+[[place-yathtelgu|Yath-Telgu]]
+: the island, the Great Temple and the Measure
+
+[[place-garqethar|Gar-Qethar]]
+: the warrens over the famine pits
+
+[[lore-failfloods|The Failing Floods]] · [[lore-sealedgran|The Battle of the Sealed Granaries]] · [[lore-judgfalseuq|The Judgment of the False Uqa'a]]
+: the history the tale is set in
+
+[[lore-garauu|Gar-Auu]]
+: the king-list, with the struck years and the reigns the tale dates by

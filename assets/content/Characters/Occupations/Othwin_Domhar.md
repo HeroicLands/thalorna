@@ -431,12 +431,17 @@ Local officials disapprove of his disregard for hunting regulations.
 
 ## Plot Hooks
 
-1. **The Trapper's Dilemma**—The farmers want a predator removed from ground where the officials have forbidden Othwin to set traps, and he cannot serve the one without handing the other its case against him.
+The Trapper's Dilemma
+: The farmers want a predator removed from ground where the officials have forbidden Othwin to set traps, and he cannot serve the one without handing the other its case against him.
 
-2. **Old Grudges**—The local officials who object to Othwin's disregard for hunting regulations are gathering their cases against him.
+Old Grudges
+: The local officials who object to Othwin's disregard for hunting regulations are gathering their cases against him.
 
-3. **Echoes of the Past**—A trapline Othwin's grandfather ran is found again, and someone else claims the ground.
+Echoes of the Past
+: A trapline Othwin's grandfather ran is found again, and someone else claims the ground.
 
-4. **Shifting Winds**—Political change in Vristwald puts new officials over the forest Othwin traps, and he can adapt, resist, or leave.
+Shifting Winds
+: Political change in Vristwald puts new officials over the forest Othwin traps, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—A woodsman offers Othwin a season's pay to track a predator no one else has found, and does not say what it has killed.
+The Opportunity
+: A woodsman offers Othwin a season's pay to track a predator no one else has found, and does not say what it has killed.

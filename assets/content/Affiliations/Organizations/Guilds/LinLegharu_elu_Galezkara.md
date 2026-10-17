@@ -56,5 +56,8 @@ The society sells nothing, and defending that is its commerce. Say an apothecary
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—Where the society meets
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-galezkara|Galezkara]]
+: Where the society meets
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

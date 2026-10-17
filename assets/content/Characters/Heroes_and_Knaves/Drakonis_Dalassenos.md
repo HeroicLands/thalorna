@@ -442,19 +442,37 @@ A more personal motivation underlies this: the wilderness is the only place wher
 
 ### Strengths
 
-- **Tracking**: His ability to follow quarry across any terrain and detect movement that others would miss borders on supernatural; he can track prey across stone, through water, and identify individuals by subtle variations in their print or movement.
-- **Wilderness Mastery**: His knowledge of wild environments is encyclopedic—he understands predator behavior, environmental hazards, seasonal changes, and how to navigate and survive in conditions that would kill ordinary people.
-- **Predatory Perception**: His perception and awareness are extraordinary, capable of detecting threats, opportunities, and details in environments that others perceive as homogeneous wilderness.
-- **Physical Resilience**: Years of harsh conditions have created a constitution that can endure injury, exposure, and fatigue that would defeat weaker individuals; his survival instinct is as sharp as any.
-- **Trap and Snare Mastery**: His ability to create and position traps is an art form; he can construct devices of stunning ingenuity and accuracy, capable of catching creatures that conventional methods would never secure.
+Tracking
+: His ability to follow quarry across any terrain and detect movement that others would miss borders on supernatural; he can track prey across stone, through water, and identify individuals by subtle variations in their print or movement.
+
+Wilderness Mastery
+: His knowledge of wild environments is encyclopedic—he understands predator behavior, environmental hazards, seasonal changes, and how to navigate and survive in conditions that would kill ordinary people.
+
+Predatory Perception
+: His perception and awareness are extraordinary, capable of detecting threats, opportunities, and details in environments that others perceive as homogeneous wilderness.
+
+Physical Resilience
+: Years of harsh conditions have created a constitution that can endure injury, exposure, and fatigue that would defeat weaker individuals; his survival instinct is as sharp as any.
+
+Trap and Snare Mastery
+: His ability to create and position traps is an art form; he can construct devices of stunning ingenuity and accuracy, capable of catching creatures that conventional methods would never secure.
 
 ### Weaknesses
 
-- **Interpersonal Dysfunction**: His inability to engage effectively with human society limits his opportunities for collaboration, alliance, or information-gathering that might expand his effectiveness.
-- **Isolated Decision-Making**: His reluctance to trust others or seek counsel means he sometimes operates without information that would improve his tactical choices significantly.
-- **Aging Physical Capacity**: At fifty-two, with significant injuries from his encounter with the great bear, his physical capabilities are beginning to diminish; his hand strength is not what it was, and extended pursuits exhaust him faster than previously.
-- **Unresolved Trauma**: His encounter with the great bear left wounds of the mind alongside the physical scarring; he sometimes exhibits signs of obsession with that specific animal and with predators that resemble it.
-- **Dangerous Amorality**: His willingness to kill for hire, torture captured animals, or other methods that cross into true cruelty makes him potentially dangerous to anyone who hires him without clear ethical alignment.
+Interpersonal Dysfunction
+: His inability to engage effectively with human society limits his opportunities for collaboration, alliance, or information-gathering that might expand his effectiveness.
+
+Isolated Decision-Making
+: His reluctance to trust others or seek counsel means he sometimes operates without information that would improve his tactical choices significantly.
+
+Aging Physical Capacity
+: At fifty-two, with significant injuries from his encounter with the great bear, his physical capabilities are beginning to diminish; his hand strength is not what it was, and extended pursuits exhaust him faster than previously.
+
+Unresolved Trauma
+: His encounter with the great bear left wounds of the mind alongside the physical scarring; he sometimes exhibits signs of obsession with that specific animal and with predators that resemble it.
+
+Dangerous Amorality
+: His willingness to kill for hire, torture captured animals, or other methods that cross into true cruelty makes him potentially dangerous to anyone who hires him without clear ethical alignment.
 
 ## Social
 
@@ -486,12 +504,17 @@ None (works only on his own account).
 
 ## Plot Hooks
 
-1. **The Impossible Predator**: Mivios is contracted to hunt a creature that local authorities describe as a massive wolf or perhaps a cursed bear. Investigation reveals that the creature is neither—it is something else entirely, something that moves with intelligence that seems almost human and shows a cunning no animal should have. The tracks suggest it is learning, adapting to Mivios's methods as he applies them. As the pursuit continues, Mivios becomes convinced that the creature is not a natural animal at all but something worse—a being from the wildlands that operates by rules he does not yet understand.
+The Impossible Predator
+: Mivios is contracted to hunt a creature that local authorities describe as a massive wolf or perhaps a cursed bear. Investigation reveals that the creature is neither—it is something else entirely, something that moves with intelligence that seems almost human and shows a cunning no animal should have. The tracks suggest it is learning, adapting to Mivios's methods as he applies them. As the pursuit continues, Mivios becomes convinced that the creature is not a natural animal at all but something worse—a being from the wildlands that operates by rules he does not yet understand.
 
-2. **The Hunted Hunter**: Mivios discovers that he himself has become a target for a contract killing, hired by an enemy from his past (possibly related to the great bear and the mark it left on him). The irony is bitter: the greatest tracker now being tracked. The hunter becomes the hunted as Mivios must use his entire arsenal of wilderness skills to identify who has contracted his death and why. The investigation leads him into circumstances he would ordinarily avoid entirely—cities, courts, political intrigue—where his native skills are far less effective.
+The Hunted Hunter
+: Mivios discovers that he himself has become a target for a contract killing, hired by an enemy from his past (possibly related to the great bear and the mark it left on him). The irony is bitter: the greatest tracker now being tracked. The hunter becomes the hunted as Mivios must use his entire arsenal of wilderness skills to identify who has contracted his death and why. The investigation leads him into circumstances he would ordinarily avoid entirely—cities, courts, political intrigue—where his native skills are far less effective.
 
-3. **The Beast's Offspring**: Mivios is hired to eliminate a large predator, but upon killing it, discovers it is protecting offspring—multiple juvenile creatures of the same species. The contract specified total elimination, but Mivios finds himself unable to slaughter young animals who are not themselves threats. He attempts to smuggle them to safety, violating his contract and creating a vendetta from the client while simultaneously attracting attention from others who would study or capture the creatures themselves.
+The Beast's Offspring
+: Mivios is hired to eliminate a large predator, but upon killing it, discovers it is protecting offspring—multiple juvenile creatures of the same species. The contract specified total elimination, but Mivios finds himself unable to slaughter young animals who are not themselves threats. He attempts to smuggle them to safety, violating his contract and creating a vendetta from the client while simultaneously attracting attention from others who would study or capture the creatures themselves.
 
-4. **The Conservation Revelation**: **Brother Lifizin** brings Mivios evidence suggesting that the dying of the Bizarian League's wilderness regions is not the result of too many predators but of systematic poaching and the clearing of wild land by a syndicate of wealthy merchants. The monk asks Mivios to help investigate and expose this conspiracy, a task that would require him to engage in civilized methods—documentation, political maneuvering, public revelation—that are entirely contrary to his nature. Yet the alternative is watching the wilderness he reveres destroyed through human greed.
+The Conservation Revelation
+: **Brother Lifizin** brings Mivios evidence suggesting that the dying of the Bizarian League's wilderness regions is not the result of too many predators but of systematic poaching and the clearing of wild land by a syndicate of wealthy merchants. The monk asks Mivios to help investigate and expose this conspiracy, a task that would require him to engage in civilized methods—documentation, political maneuvering, public revelation—that are entirely contrary to his nature. Yet the alternative is watching the wilderness he reveres destroyed through human greed.
 
-5. **The Great Bear's Return**: Mivios is hired to investigate sightings of a great bear matching the description of the beast that scarred him seventeen years ago—sightings that should be impossible, as he killed that creature himself, watched it die. Investigation suggests either the original bear somehow survived, or its offspring has inherited its size and power along with its intelligence and its apparent vendetta against Mivios specifically. As the evidence accumulates, Mivios becomes increasingly convinced that something spiritual is at play—that the bear is more than an animal, something that cannot be killed through conventional means, and that his conflict with it extends beyond the purely physical.
+The Great Bear's Return
+: Mivios is hired to investigate sightings of a great bear matching the description of the beast that scarred him seventeen years ago—sightings that should be impossible, as he killed that creature himself, watched it die. Investigation suggests either the original bear somehow survived, or its offspring has inherited its size and power along with its intelligence and its apparent vendetta against Mivios specifically. As the evidence accumulates, Mivios becomes increasingly convinced that something spiritual is at play—that the bear is more than an animal, something that cannot be killed through conventional means, and that his conflict with it extends beyond the purely physical.

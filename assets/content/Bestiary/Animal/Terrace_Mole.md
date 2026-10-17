@@ -299,20 +299,29 @@ The manulua digs into a terrace bank in moments and is lost to a pursuer in its 
 
 ## Attributes
 
-- **Strength:** 7-12 (1d6+6)
+Strength
+: 7-12 (1d6+6)
 
-- **Endurance:** 9-14 (1d6+8)
+Endurance
+: 9-14 (1d6+8)
 
-- **Dexterity:** 8-11 (1d4+7)
+Dexterity
+: 8-11 (1d4+7)
 
-- **Agility:** 8-11 (1d4+7)
+Agility
+: 8-11 (1d4+7)
 
-- **Perception:** 9-14 (1d6+8)
+Perception
+: 9-14 (1d6+8)
 
-- **Aura:** 4-7 (1d4+3)
+Aura
+: 4-7 (1d4+3)
 
-- **Will:** 7-10 (1d4+6)
+Will
+: 7-10 (1d4+6)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

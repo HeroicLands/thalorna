@@ -43,8 +43,17 @@ The Tellumi live in the older districts around the lower basin, in lanes too nar
 
 ## See Also
 
-- [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the Confederation whose seat Shirvan is
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—the people who hold it
-- [[place-swoasisbelt|Tellumel]]—the belt the city stands in
-- [[affiliation-zurathra|Faith of Zúrathra]]—the Mother of the Oasis, whose great shrine stood here
-- [[place-ashkarad|Ashkarad]] and [[place-zargandur|Zargandur]]—the nearest cities along the belt
+[[affiliation-khzrncnfdrtn|Tellumi Confederation]]
+: the Confederation whose seat Shirvan is
+
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: the people who hold it
+
+[[place-swoasisbelt|Tellumel]]
+: the belt the city stands in
+
+[[affiliation-zurathra|Faith of Zúrathra]]
+: the Mother of the Oasis, whose great shrine stood here
+
+[[place-ashkarad|Ashkarad]] and [[place-zargandur|Zargandur]]
+: the nearest cities along the belt

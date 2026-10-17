@@ -24,6 +24,11 @@ Delalara is the most cosmopolitan city outside the capital, and the loudest voic
 
 ## See Also
 
-- [[affiliation-provincvld|Province of Salkalon]]—parent province
-- [[place-castamar|Kastamar]]—the province's naval and military hub
-- [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview
+[[affiliation-provincvld|Province of Salkalon]]
+: parent province
+
+[[place-castamar|Kastamar]]
+: the province's naval and military hub
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: imperial overview

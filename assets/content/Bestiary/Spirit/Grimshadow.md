@@ -199,20 +199,29 @@ Staying near one wears down the will and the body together, and a long exposure 
 
 ## Attributes
 
-- **Strength:** 9-12 (1d4+8)
+Strength
+: 9-12 (1d4+8)
 
-- **Endurance:** 9-12 (1d4+8)
+Endurance
+: 9-12 (1d4+8)
 
-- **Dexterity:** 11-14 (1d4+10)
+Dexterity
+: 11-14 (1d4+10)
 
-- **Agility:** 15-18 (1d4+14)
+Agility
+: 15-18 (1d4+14)
 
-- **Perception:** 11-14 (1d4+10)
+Perception
+: 11-14 (1d4+10)
 
-- **Aura:** 13-16 (1d4+12)
+Aura
+: 13-16 (1d4+12)
 
-- **Will:** 9-12 (1d4+8)
+Will
+: 9-12 (1d4+8)
 
-- **Reasoning:** 9-12 (1d4+8)
+Reasoning
+: 9-12 (1d4+8)
 
-- **Creativity:** 13-16 (1d4+12)
+Creativity
+: 13-16 (1d4+12)

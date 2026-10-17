@@ -105,6 +105,11 @@ In rare cases, when a document is rejected by the celestial courts as improperly
 
 ### See Also
 
-- [[affiliation-weizhuo|Wéizhuo Daonéi]]—The Jade Sovereign, whom Youwéi serves
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The Celestial Bureaucracy and its administrative machinery
-- [[lore-clstlpnthn|Celestial Pantheon]]—Other celestial officials
+[[affiliation-weizhuo|Wéizhuo Daonéi]]
+: The Jade Sovereign, whom Youwéi serves
+
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: The Celestial Bureaucracy and its administrative machinery
+
+[[lore-clstlpnthn|Celestial Pantheon]]
+: Other celestial officials

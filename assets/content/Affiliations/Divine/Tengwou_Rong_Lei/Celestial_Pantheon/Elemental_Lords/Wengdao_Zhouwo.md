@@ -129,9 +129,20 @@ Mortals petition Wéngdao Zhouwo through offerings at earth shrines, through the
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The Celestial Bureaucracy that appointed Wéngdao Zhouwo as Elemental Lord
-- [[affiliation-daotouwochai|Daotou Wochai]]—The Elemental Lord of Metal, with whom Wéngdao Zhouwo shares jurisdiction over ore deposits
-- [[affiliation-rinhodaoweng|Rinho Daowéng]]—The Elemental Lord of Wood, who claims authority over living forests
-- [[affiliation-zhoushouzho|Zhoushou Zho]]—The Elemental Lord of Water, with whom Wéngdao Zhouwo disputes jurisdiction over groundwater
-- [[lore-tanchei|Tanchéi]]—The priesthood who mediate petitions to the Elemental Lords
-- [[affiliation-tengwouronglei|Touwo]]—Territorial officials who represent the earth-based administration within specific regions
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: The Celestial Bureaucracy that appointed Wéngdao Zhouwo as Elemental Lord
+
+[[affiliation-daotouwochai|Daotou Wochai]]
+: The Elemental Lord of Metal, with whom Wéngdao Zhouwo shares jurisdiction over ore deposits
+
+[[affiliation-rinhodaoweng|Rinho Daowéng]]
+: The Elemental Lord of Wood, who claims authority over living forests
+
+[[affiliation-zhoushouzho|Zhoushou Zho]]
+: The Elemental Lord of Water, with whom Wéngdao Zhouwo disputes jurisdiction over groundwater
+
+[[lore-tanchei|Tanchéi]]
+: The priesthood who mediate petitions to the Elemental Lords
+
+[[affiliation-tengwouronglei|Touwo]]
+: Territorial officials who represent the earth-based administration within specific regions

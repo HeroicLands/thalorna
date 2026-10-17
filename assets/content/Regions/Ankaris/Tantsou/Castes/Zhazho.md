@@ -27,15 +27,25 @@ Every final decision in governance, war and the law of faith belongs to the Zhaz
 
 The [[lore-castelaws|Caste Laws]] give the first caste three rights:
 
-- **Final authority**: the last word in governance, law and war.
-- **The appointment**: the sole right to decide matters of state, war and religion, by the celestial bureaucracy's designation.
-- **The Wánduo**: ownership of the chattel sorcerers, bound to the Zhazho from the day they are claimed.
+Final authority
+: the last word in governance, law and war.
+
+The appointment
+: the sole right to decide matters of state, war and religion, by the celestial bureaucracy's designation.
+
+The Wánduo
+: ownership of the chattel sorcerers, bound to the Zhazho from the day they are claimed.
 
 And they hold it to three duties:
 
-- **Defense**: the protection of the empire and all its people.
-- **Order**: the preservation of the classification and of harmony with heaven.
-- **Marriage within the caste**: a Zhazho marries only another Zhazho, by a match the clan council arranges.
+Defense
+: the protection of the empire and all its people.
+
+Order
+: the preservation of the classification and of harmony with heaven.
+
+Marriage within the caste
+: a Zhazho marries only another Zhazho, by a match the clan council arranges.
 
 ## Names and the Number Nine
 
@@ -49,10 +59,23 @@ A [[lore-flksinale|Sinalo]] or [[lore-flkkhazar|Khazár]] is classified Zhazho o
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]]—overview of all eight castes
-- [[lore-mandatehvn|Mandate of Heaven]]—the appointment that makes the Emperor
-- [[lore-wohou|Wohou]]—the warrior nobility who serve the Warlords
-- [[lore-wanduo|Wánduo]]—the chattel sorcerers who serve and counsel the throne
-- [[lore-numerology|Numerology]]—the number nine and the throne
-- [[lore-tseising|Law and Honor]]—the law the Zhazho hand down
-- [[affiliation-tantsouempr|Empire of Tantsou]]—overview of imperial governance and structure
+[[lore-castelaws|Caste Laws]]
+: overview of all eight castes
+
+[[lore-mandatehvn|Mandate of Heaven]]
+: the appointment that makes the Emperor
+
+[[lore-wohou|Wohou]]
+: the warrior nobility who serve the Warlords
+
+[[lore-wanduo|Wánduo]]
+: the chattel sorcerers who serve and counsel the throne
+
+[[lore-numerology|Numerology]]
+: the number nine and the throne
+
+[[lore-tseising|Law and Honor]]
+: the law the Zhazho hand down
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: overview of imperial governance and structure

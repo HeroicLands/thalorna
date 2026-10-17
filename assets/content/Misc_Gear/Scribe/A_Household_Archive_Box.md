@@ -16,5 +16,8 @@ A box gives a place as a lineage has seen it every day for three centuries: the 
 
 ## See Also
 
-- [[lore-kaliharanclt|The Kaliharans]]—the people whose households keep the boxes
-- [[affiliation-tharivaan|Thári'vaan]]—the faith whose daily looking fills the manuals
+[[lore-kaliharanclt|The Kaliharans]]
+: the people whose households keep the boxes
+
+[[affiliation-tharivaan|Thári'vaan]]
+: the faith whose daily looking fills the manuals

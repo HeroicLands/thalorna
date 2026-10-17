@@ -25,11 +25,19 @@ The fortress stands on an island in the river at the second cataract, and the se
 
 ## Settlements
 
-- [[place-linmut|Linmut]] (~11,000)—the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-wethurdty|Weth'ur]].
-- The villages and estate-towns: a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
+[[place-linmut|Linmut]] (~11,000)
+: the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-wethurdty|Weth'ur]].
+
+The villages and estate-towns
+: a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatlinmut|The Selat of Linmut]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-linmut|Linmut]]—Selat capital
+[[affiliation-selatlinmut|The Selat of Linmut]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-linmut|Linmut]]
+: Selat capital

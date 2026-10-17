@@ -310,20 +310,29 @@ Wild boars are most dangerous during rutting season when males are aggressive ye
 
 ## Attributes
 
-- **Strength:** 17-22 (1d6+16)
+Strength
+: 17-22 (1d6+16)
 
-- **Endurance:** 17-22 (1d6+16)
+Endurance
+: 17-22 (1d6+16)
 
-- **Dexterity:** 6-9 (1d4+5)
+Dexterity
+: 6-9 (1d4+5)
 
-- **Agility:** 9-12 (1d4+8)
+Agility
+: 9-12 (1d4+8)
 
-- **Perception:** 9-12 (1d4+8)
+Perception
+: 9-12 (1d4+8)
 
-- **Aura:** 4-7 (1d4+3)
+Aura
+: 4-7 (1d4+3)
 
-- **Will:** 13-16 (1d4+12)
+Will
+: 13-16 (1d4+12)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

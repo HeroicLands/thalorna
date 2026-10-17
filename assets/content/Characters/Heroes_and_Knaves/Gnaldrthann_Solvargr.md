@@ -455,21 +455,43 @@ Gnaldrthann is driven primarily by the code he has constructed for himself: prot
 
 ### Strengths
 
-- **Master Combatant**: Gnaldrthann has spent his entire life perfecting the arts of martial engagement. His skill with axe, sword, and his bare hands is famous, and few living warriors can match his technique.
-- **Tactical Acumen**: Despite his gruff exterior, Gnaldrthann understands the larger shape of a conflict. He can read a battlefield, anticipate enemy movements, and organize defensive positions with great precision.
-- **Moral Courage**: He is capable of incredible acts of bravery, not from recklessness but from commitment to his principles. He will face overwhelming odds without hesitation if honor demands it.
-- **Training Expertise**: His ability to transform raw recruits into competent soldiers has no equal. He understands how to instill discipline without breaking spirit, and how to prepare young people for the horrors they will face.
-- **Physical Resilience**: Despite his advancing age, Gnaldrthann remains extraordinarily strong and enduring. His body is a finely-tuned instrument of martial capability.
-- **Loyalty**: Those he swears to serve receive his absolute dedication. He does not betray oaths or abandon those under his protection.
+Master Combatant
+: Gnaldrthann has spent his entire life perfecting the arts of martial engagement. His skill with axe, sword, and his bare hands is famous, and few living warriors can match his technique.
+
+Tactical Acumen
+: Despite his gruff exterior, Gnaldrthann understands the larger shape of a conflict. He can read a battlefield, anticipate enemy movements, and organize defensive positions with great precision.
+
+Moral Courage
+: He is capable of incredible acts of bravery, not from recklessness but from commitment to his principles. He will face overwhelming odds without hesitation if honor demands it.
+
+Training Expertise
+: His ability to transform raw recruits into competent soldiers has no equal. He understands how to instill discipline without breaking spirit, and how to prepare young people for the horrors they will face.
+
+Physical Resilience
+: Despite his advancing age, Gnaldrthann remains extraordinarily strong and enduring. His body is a finely-tuned instrument of martial capability.
+
+Loyalty
+: Those he swears to serve receive his absolute dedication. He does not betray oaths or abandon those under his protection.
 
 ### Weaknesses
 
-- **Emotional Stunting**: His inability or unwillingness to admit or express emotion has left him deeply isolated. He cannot form close bonds with others, and he is often baffled by the motivations and feelings of those around him.
-- **Physical Decline**: Age is catching up with him. His reflexes, once superhuman, are becoming merely excellent. His stamina, while still impressive, is noticeably less than it once was. He refuses to acknowledge this decline, which makes him increasingly dangerous to himself and others.
-- **Authoritarian Management**: Gnaldrthann struggles with the concept of delegation or collaborative decision-making. He believes that responsibility flows downward and obedience flows upward, and he has little patience for more nuanced approaches.
-- **Inflexibility**: His absolute adherence to his code, while admirable, leaves him unable to adapt to changing circumstances. He is fundamentally at odds with any situation that requires moral compromise or pragmatic flexibility.
-- **Lack of Self-Awareness**: Gnaldrthann is largely blind to his own emotional needs and inner vulnerabilities. His crisis about the meaning of his life leaves him dangerously unstable, though he would vehemently deny this.
-- **Interpersonal Ineptitude**: Beyond military contexts, Gnaldrthann is poor at dealing with people. He offends without realizing it, fails to recognize subtle social cues, and is incapable of the kind of warmth that builds friendships.
+Emotional Stunting
+: His inability or unwillingness to admit or express emotion has left him deeply isolated. He cannot form close bonds with others, and he is often baffled by the motivations and feelings of those around him.
+
+Physical Decline
+: Age is catching up with him. His reflexes, once superhuman, are becoming merely excellent. His stamina, while still impressive, is noticeably less than it once was. He refuses to acknowledge this decline, which makes him increasingly dangerous to himself and others.
+
+Authoritarian Management
+: Gnaldrthann struggles with the concept of delegation or collaborative decision-making. He believes that responsibility flows downward and obedience flows upward, and he has little patience for more nuanced approaches.
+
+Inflexibility
+: His absolute adherence to his code, while admirable, leaves him unable to adapt to changing circumstances. He is fundamentally at odds with any situation that requires moral compromise or pragmatic flexibility.
+
+Lack of Self-Awareness
+: Gnaldrthann is largely blind to his own emotional needs and inner vulnerabilities. His crisis about the meaning of his life leaves him dangerously unstable, though he would vehemently deny this.
+
+Interpersonal Ineptitude
+: Beyond military contexts, Gnaldrthann is poor at dealing with people. He offends without realizing it, fails to recognize subtle social cues, and is incapable of the kind of warmth that builds friendships.
 
 ## Social
 
@@ -508,12 +530,17 @@ The Garrison at [[place-dvilgborg|Dvilgborg]]
 
 ## Plot Hooks
 
-1. **The Impossible Recruit**: A young soldier appears at the garrison with extraordinary natural talent for combat—almost supernatural in their reflexes and intuition. As Gnaldrthann begins training them, he recognizes patterns that suggest they are not entirely human. The youth refuses to explain their origins, and Gnaldrthann becomes increasingly certain they are being hunted by something beyond the kingdom's borders. He can report the situation to his commanders, or protect the recruit and uncover whatever lies behind their arrival.
+The Impossible Recruit
+: A young soldier appears at the garrison with extraordinary natural talent for combat—almost supernatural in their reflexes and intuition. As Gnaldrthann begins training them, he recognizes patterns that suggest they are not entirely human. The youth refuses to explain their origins, and Gnaldrthann becomes increasingly certain they are being hunted by something beyond the kingdom's borders. He can report the situation to his commanders, or protect the recruit and uncover whatever lies behind their arrival.
 
-2. **The War That Wasn't**: Gnaldrthann receives orders to execute a brutal campaign against what he is told is a rebel militia operating in the borderlands. However, as the campaign unfolds, he discovers that the "rebels" are actually innocent civilians, and the orders came through channels designed to obscure the true source. He must uncover why someone has orchestrated this situation and whether the conspiracy extends into the highest ranks of military command.
+The War That Wasn't
+: Gnaldrthann receives orders to execute a brutal campaign against what he is told is a rebel militia operating in the borderlands. However, as the campaign unfolds, he discovers that the "rebels" are actually innocent civilians, and the orders came through channels designed to obscure the true source. He must uncover why someone has orchestrated this situation and whether the conspiracy extends into the highest ranks of military command.
 
-3. **The Duel That Decides Kingdoms**: Captain Murvendik approaches Gnaldrthann with an extraordinary proposal: engage in a formal duel to settle their long rivalry once and for all, with the winner taking ultimate authority over the garrison. However, Murvendik has made a deal with darker powers, and the duel is not what it appears to be. Victory would require Gnaldrthann to accept something he cannot fully comprehend, but refusal would mean losing everything he has built.
+The Duel That Decides Kingdoms
+: Captain Murvendik approaches Gnaldrthann with an extraordinary proposal: engage in a formal duel to settle their long rivalry once and for all, with the winner taking ultimate authority over the garrison. However, Murvendik has made a deal with darker powers, and the duel is not what it appears to be. Victory would require Gnaldrthann to accept something he cannot fully comprehend, but refusal would mean losing everything he has built.
 
-4. **The Curse of the Lion's Heart**: Gnaldrthann's tattoo of the lion's mane begins to manifest supernatural properties—it seems to enhance his combat abilities but also inflicts terrible pain and periodic moments of uncontrollable rage. He discovers that the tattoo was more than a mark of pride: an ancient ritual binding him to a spiritual force. A mysterious figure offers to explain the tattoo's true nature in exchange for Gnaldrthann performing three seemingly reasonable tasks. However, these tasks are steps in a larger ritual whose end is catastrophic.
+The Curse of the Lion's Heart
+: Gnaldrthann's tattoo of the lion's mane begins to manifest supernatural properties—it seems to enhance his combat abilities but also inflicts terrible pain and periodic moments of uncontrollable rage. He discovers that the tattoo was more than a mark of pride: an ancient ritual binding him to a spiritual force. A mysterious figure offers to explain the tattoo's true nature in exchange for Gnaldrthann performing three seemingly reasonable tasks. However, these tasks are steps in a larger ritual whose end is catastrophic.
 
-5. **The Successor's Dilemma**: Lord Commander Draskmil approaches Gnaldrthann, gravely ill, and asks him to be protector and mentor to his young, idealistic daughter—who will inherit his position and authority despite her inexperience. Draskmil dies within months, and Gnaldrthann finds himself in the impossible position of serving a commanding officer who lacks his experience in a garrison full of ambitious rivals seeking to exploit her inexperience. He can help her learn to lead or quietly take control himself; either choice compromises his principles.
+The Successor's Dilemma
+: Lord Commander Draskmil approaches Gnaldrthann, gravely ill, and asks him to be protector and mentor to his young, idealistic daughter—who will inherit his position and authority despite her inexperience. Draskmil dies within months, and Gnaldrthann finds himself in the impossible position of serving a commanding officer who lacks his experience in a garrison full of ambitious rivals seeking to exploit her inexperience. He can help her learn to lead or quietly take control himself; either choice compromises his principles.

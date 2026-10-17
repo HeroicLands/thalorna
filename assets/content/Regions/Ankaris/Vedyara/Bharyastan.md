@@ -106,6 +106,11 @@ A person placed outside the tarona, by transgression or by birth, is excluded fr
 
 ## See Also
 
-- [[place-bharyastan2|Bharyastan]]—the capital
-- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the treaty partner
-- [[place-vedyarargn|Vedyara Region]]—the enclosing region
+[[place-bharyastan2|Bharyastan]]
+: the capital
+
+[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+: the treaty partner
+
+[[place-vedyarargn|Vedyara Region]]
+: the enclosing region

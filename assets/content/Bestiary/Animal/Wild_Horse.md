@@ -310,20 +310,29 @@ Wild horses thrive in conditions that debilitate domestic breeds. They tolerate 
 
 ## Attributes
 
-- **Strength:** 10-15 (1d6+9)
+Strength
+: 10-15 (1d6+9)
 
-- **Endurance:** 12-17 (1d6+11)
+Endurance
+: 12-17 (1d6+11)
 
-- **Dexterity:** 10-15 (1d6+9)
+Dexterity
+: 10-15 (1d6+9)
 
-- **Agility:** 11-16 (1d6+10)
+Agility
+: 11-16 (1d6+10)
 
-- **Perception:** 11-16 (1d6+10)
+Perception
+: 11-16 (1d6+10)
 
-- **Aura:** 8-13 (1d6+7)
+Aura
+: 8-13 (1d6+7)
 
-- **Will:** 12-17 (1d6+11)
+Will
+: 12-17 (1d6+11)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 5-8 (1d4+4)
+Creativity
+: 5-8 (1d4+4)

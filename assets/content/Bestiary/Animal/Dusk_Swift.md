@@ -290,20 +290,29 @@ The flock returns to the same roost at the same hour, and the island's household
 
 ## Attributes
 
-- **Strength:** 1-4 (1d4)
+Strength
+: 1-4 (1d4)
 
-- **Endurance:** 3-6 (1d4+2)
+Endurance
+: 3-6 (1d4+2)
 
-- **Agility:** 9-14 (1d6+8)
+Agility
+: 9-14 (1d6+8)
 
-- **Perception:** 18-23 (1d6+17)
+Perception
+: 18-23 (1d6+17)
 
-- **Scent:** 2-5 (1d4+1)
+Scent
+: 2-5 (1d4+1)
 
-- **Aura:** 3-6 (1d4+2)
+Aura
+: 3-6 (1d4+2)
 
-- **Will:** 5-8 (1d4+4)
+Will
+: 5-8 (1d4+4)
 
-- **Reasoning:** 4-7 (1d4+3)
+Reasoning
+: 4-7 (1d4+3)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

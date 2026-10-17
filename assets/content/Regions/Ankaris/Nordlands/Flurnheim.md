@@ -22,5 +22,8 @@ The name is a hard country's: _flurn-_ is a flake of stone split off by frost, a
 
 ## See Also
 
-- [[being-rlthrvrnskld|Rilthorv Runaskald]]—the skald who lifted the blight
-- [[affiliation-odvar|Faith of Odvar]]—the god whose verses he sang
+[[being-rlthrvrnskld|Rilthorv Runaskald]]
+: the skald who lifted the blight
+
+[[affiliation-odvar|Faith of Odvar]]
+: the god whose verses he sang

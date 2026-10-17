@@ -462,10 +462,14 @@ Crewmember of the **Tamzir**. She has formed a particular bond with [[being-slvr
 
 ## Plot Hooks
 
-1. **Blood-Price**: A Nordheimer longship arrives in a port where the Tamzir is docked, and among its crew is a kinsman of the man Svalthrinna killed. Nordheim custom demands blood-price or combat. Svalthrinna must decide whether to face her past, flee again, or let the crew fight a battle that is hers alone.
+Blood-Price
+: A Nordheimer longship arrives in a port where the Tamzir is docked, and among its crew is a kinsman of the man Svalthrinna killed. Nordheim custom demands blood-price or combat. Svalthrinna must decide whether to face her past, flee again, or let the crew fight a battle that is hers alone.
 
-2. **The Old Gods Call**: Svalthrinna begins experiencing vivid dreams—visions she cannot explain and does not want. They carry the imagery of the [[affiliation-asguardian|Asguardian Pantheon]] she has rejected, and they seem to be showing her something important. Whether this is real divine contact, suppressed trauma, or something connected to [[being-cibelasrnt|Kivella Serenthis]]'s arcane presence aboard the ship is unclear.
+The Old Gods Call
+: Svalthrinna begins experiencing vivid dreams—visions she cannot explain and does not want. They carry the imagery of the [[affiliation-asguardian|Asguardian Pantheon]] she has rejected, and they seem to be showing her something important. Whether this is real divine contact, suppressed trauma, or something connected to [[being-cibelasrnt|Kivella Serenthis]]'s arcane presence aboard the ship is unclear.
 
-3. **The Weaponcrafter's Daughter**: Svalthrinna learns that her father has died and left his forge to her—along with debts, obligations, and a half-finished commission for a powerful Nordheimer jarl. Claiming the inheritance would mean returning to the life she fled. Abandoning it would mean losing the last connection to the parent who loved her unconditionally.
+The Weaponcrafter's Daughter
+: Svalthrinna learns that her father has died and left his forge to her—along with debts, obligations, and a half-finished commission for a powerful Nordheimer jarl. Claiming the inheritance would mean returning to the life she fled. Abandoning it would mean losing the last connection to the parent who loved her unconditionally.
 
-4. **Shield-Sister**: During a fierce battle, Svalthrinna saves Kivella's life and discovers that the young woman's erratic arcane abilities resonate with her own deep aura in unexpected ways. The experience suggests a connection between them that neither understands, and it may explain why [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) is so desperate to recover their escaped subject.
+Shield-Sister
+: During a fierce battle, Svalthrinna saves Kivella's life and discovers that the young woman's erratic arcane abilities resonate with her own deep aura in unexpected ways. The experience suggests a connection between them that neither understands, and it may explain why [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) is so desperate to recover their escaped subject.

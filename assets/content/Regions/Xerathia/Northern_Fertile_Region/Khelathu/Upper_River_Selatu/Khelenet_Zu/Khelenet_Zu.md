@@ -23,7 +23,14 @@ If you come on business, find a scribe before you find an inn. The bureau holds 
 
 ## See Also
 
-- [[affiliation-selatkhelntz|The Selat of Khelenet-Zu]]—Parent selat
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-qearet|Faith of Qe'aret]]—Patron cult
+[[affiliation-selatkhelntz|The Selat of Khelenet-Zu]]
+: Parent selat
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-qearet|Faith of Qe'aret]]
+: Patron cult

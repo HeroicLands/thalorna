@@ -16,9 +16,20 @@ Alert and elusive, deer are constantly vigilant, using their keen senses to dete
 
 The Deer person is always watching the surroundings and is quick to slip away from danger. Blending into the background is preferred to open confrontation.
 
-- **Physical:** Lean, light build; graceful and delicate movements.
-- **Behavioral:** Always alert, evasive and elusive, often avoiding confrontation.
-- **Positive:** Vigilant, alert, and responsive to danger.
-- **Negative:** Skittish, elusive, and may avoid social interactions.
-- **Minor Trait ([[sohl-none-doctrauma-rspnsv|Responsive]]):** Keenly attuned to changes in their surroundings, reacting swiftly to new developments and picking up on signals others miss.
-- **Major Disorder ([[sohl-none-doctrauma-anxiety|Anxiety]]):** Lives in a state of constant, exhausting alertness, flinching at every shadow and fleeing from perceived threats that others cannot see, unable to hold steady in work or relationships.
+Physical
+: Lean, light build; graceful and delicate movements.
+
+Behavioral
+: Always alert, evasive and elusive, often avoiding confrontation.
+
+Positive
+: Vigilant, alert, and responsive to danger.
+
+Negative
+: Skittish, elusive, and may avoid social interactions.
+
+Minor Trait ([[sohl-none-doctrauma-rspnsv|Responsive]])
+: Keenly attuned to changes in their surroundings, reacting swiftly to new developments and picking up on signals others miss.
+
+Major Disorder ([[sohl-none-doctrauma-anxiety|Anxiety]])
+: Lives in a state of constant, exhausting alertness, flinching at every shadow and fleeing from perceived threats that others cannot see, unable to hold steady in work or relationships.

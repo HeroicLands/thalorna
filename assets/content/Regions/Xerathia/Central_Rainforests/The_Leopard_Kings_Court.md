@@ -49,9 +49,20 @@ No road runs to the Court. Gift-bearers walk the trails from their own territori
 
 ## See Also
 
-- [[place-cntrlrnfrsts|Central Rainforests]]—the region
-- [[lore-bikoclt|Biko]]—the forest peoples
-- [[affiliation-nyalbleop|Leopard Totem]]—the guide of the Sengala
-- [[lore-leopardsengalaspr|Leopard Spirit]]—the guide as a being
-- [[being-leopard|Leopard]]—the animal
-- [[scenario-trbtlpdkng|The Unseen King of the Spotted Court]]—a scenario set here
+[[place-cntrlrnfrsts|Central Rainforests]]
+: the region
+
+[[lore-bikoclt|Biko]]
+: the forest peoples
+
+[[affiliation-nyalbleop|Leopard Totem]]
+: the guide of the Sengala
+
+[[lore-leopardsengalaspr|Leopard Spirit]]
+: the guide as a being
+
+[[being-leopard|Leopard]]
+: the animal
+
+[[scenario-trbtlpdkng|The Unseen King of the Spotted Court]]
+: a scenario set here

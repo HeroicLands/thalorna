@@ -451,21 +451,43 @@ Secondarily, Alikos is driven by pride in his craft. He wants to complete signif
 
 ### Strengths
 
-- **Masterful Timbercraft**: His timbercraft, with five specializations, combined with twenty-three years as a master craftsman, makes him one of the League's finest timber-workers. He can design and construct wooden structures of great complexity and durability.
-- **Physical Strength**: Despite his age, his strength allows him to continue performing physically demanding work. Combined with his technical knowledge, this makes him ideally suited to the demands of timber manipulation.
-- **Teaching and Communication**: While his eloquence is modest, his ability to teach through demonstration and patient explanation makes him an excellent instructor. Apprentices under his tutelage consistently become skilled craftspeople.
-- **Extensive Knowledge**: His knowledge of timber types, wood working properties, joinery, and traditional construction techniques is nearly complete. His folklore, philosophy, and mathematics skills reflect deep understanding of principles underlying his craft.
-- **Judgment and Will**: A strong will combined with decades of decision-making in challenging situations makes him excellent at evaluating materials and options. His judgment rarely fails.
-- **Survival and Versatility**: Skills in fishing, survival, and other practical arts make him adaptable to field conditions where timber-working must occur on location rather than in a controlled workshop.
+Masterful Timbercraft
+: His timbercraft, with five specializations, combined with twenty-three years as a master craftsman, makes him one of the League's finest timber-workers. He can design and construct wooden structures of great complexity and durability.
+
+Physical Strength
+: Despite his age, his strength allows him to continue performing physically demanding work. Combined with his technical knowledge, this makes him ideally suited to the demands of timber manipulation.
+
+Teaching and Communication
+: While his eloquence is modest, his ability to teach through demonstration and patient explanation makes him an excellent instructor. Apprentices under his tutelage consistently become skilled craftspeople.
+
+Extensive Knowledge
+: His knowledge of timber types, wood working properties, joinery, and traditional construction techniques is nearly complete. His folklore, philosophy, and mathematics skills reflect deep understanding of principles underlying his craft.
+
+Judgment and Will
+: A strong will combined with decades of decision-making in challenging situations makes him excellent at evaluating materials and options. His judgment rarely fails.
+
+Survival and Versatility
+: Skills in fishing, survival, and other practical arts make him adaptable to field conditions where timber-working must occur on location rather than in a controlled workshop.
 
 ### Weaknesses
 
-- **Age-Related Limitations**: At fifty-three, Alikos is beginning to experience the physical consequences of a lifetime of demanding labor. His endurance is adequate but declining; he tires more easily than younger workers and recovers more slowly from injury.
-- **Resistance to Innovation**: His deeply ingrained respect for traditional methods makes him skeptical of new techniques and tools, sometimes to the point of actively dismissing improvements that could save labor or extend what he can do.
-- **Limited Agility**: His dexterity and agility are modest, making delicate work and physical tasks requiring quick reflexes increasingly challenging.
-- **Philosophical Rigidity**: His belief that traditional methods are inherently superior sometimes blinds him to real value in newer approaches, limiting his ability to adapt to changing circumstances or needs.
-- **Emotional Distance**: His reserved nature and tendency to express himself through work rather than words means he struggles to build strong emotional connections, even with apprentices who admire his skill.
-- **Limited Combat Ability**: While he possesses basic martial capability, he is not a fighter, making him vulnerable in situations requiring violence.
+Age-Related Limitations
+: At fifty-three, Alikos is beginning to experience the physical consequences of a lifetime of demanding labor. His endurance is adequate but declining; he tires more easily than younger workers and recovers more slowly from injury.
+
+Resistance to Innovation
+: His deeply ingrained respect for traditional methods makes him skeptical of new techniques and tools, sometimes to the point of actively dismissing improvements that could save labor or extend what he can do.
+
+Limited Agility
+: His dexterity and agility are modest, making delicate work and physical tasks requiring quick reflexes increasingly challenging.
+
+Philosophical Rigidity
+: His belief that traditional methods are inherently superior sometimes blinds him to real value in newer approaches, limiting his ability to adapt to changing circumstances or needs.
+
+Emotional Distance
+: His reserved nature and tendency to express himself through work rather than words means he struggles to build strong emotional connections, even with apprentices who admire his skill.
+
+Limited Combat Ability
+: While he possesses basic martial capability, he is not a fighter, making him vulnerable in situations requiring violence.
 
 ## Social
 
@@ -498,12 +520,17 @@ The Master Craftspeople's Association
 
 ## Plot Hooks
 
-1. **The Ancient Wood**: A mysterious merchant brings a single log of timber of extraordinary beauty and unknown origin to Alikos, requesting consultation on its properties and potential uses. The wood appears impossibly old, yet shows no signs of rot; its grain patterns seem to shift in different light; and it carries a faint aroma Alikos cannot identify. Investigation into the wood's origin leads him into contact with ancient traditions and forces that suggest timber-working may be far more significant than he ever imagined.
+The Ancient Wood
+: A mysterious merchant brings a single log of timber of extraordinary beauty and unknown origin to Alikos, requesting consultation on its properties and potential uses. The wood appears impossibly old, yet shows no signs of rot; its grain patterns seem to shift in different light; and it carries a faint aroma Alikos cannot identify. Investigation into the wood's origin leads him into contact with ancient traditions and forces that suggest timber-working may be far more significant than he ever imagined.
 
-2. **The Apprentice's Secret**: A talented young apprentice, **Elara**, seeks training under Alikos specifically, impressing him with a real understanding of traditional methods. However, Alikos gradually discovers that Elara has a hidden purpose—she has been sent by the Modernist Faction to sabotage his reputation by learning his techniques and then publicly demonstrating that newer tools and methods can replicate his results in a fraction of the time. Alikos can expose her, keep her as an apprentice and hope to turn her, or allow her deception to continue while using the situation to his advantage.
+The Apprentice's Secret
+: A talented young apprentice, **Elara**, seeks training under Alikos specifically, impressing him with a real understanding of traditional methods. However, Alikos gradually discovers that Elara has a hidden purpose—she has been sent by the Modernist Faction to sabotage his reputation by learning his techniques and then publicly demonstrating that newer tools and methods can replicate his results in a fraction of the time. Alikos can expose her, keep her as an apprentice and hope to turn her, or allow her deception to continue while using the situation to his advantage.
 
-3. **The Impossible Commission**: A wealthy noble approaches Alikos with a commission unlike any he has encountered: construct a building frame that can be rapidly assembled and disassembled for multiple relocations, matching the aesthetics and durability of a permanent structure. The design challenges everything he believes about timber-working—speed and portability contradicting his philosophy of permanent craftsmanship. Yet the commission would be his largest payday, potentially securing his workshop's future and proving to younger craftspeople that traditional methods can answer present needs.
+The Impossible Commission
+: A wealthy noble approaches Alikos with a commission unlike any he has encountered: construct a building frame that can be rapidly assembled and disassembled for multiple relocations, matching the aesthetics and durability of a permanent structure. The design challenges everything he believes about timber-working—speed and portability contradicting his philosophy of permanent craftsmanship. Yet the commission would be his largest payday, potentially securing his workshop's future and proving to younger craftspeople that traditional methods can answer present needs.
 
-4. **The Haunted Workshop**: Several of Alikos's competitors and younger timberwrights who worked in his workshop decades past have begun to die under mysterious circumstances—injuries that seemed minor, deaths that seemed natural, yet all connected to people who worked in his workshop. Alikos becomes convinced that either his workshop is truly haunted or someone is deliberately targeting those connected to his lineage. Investigation reveals a connection to a timber harvest from thirty years past, and possibly an ancient curse connected to the wood itself.
+The Haunted Workshop
+: Several of Alikos's competitors and younger timberwrights who worked in his workshop decades past have begun to die under mysterious circumstances—injuries that seemed minor, deaths that seemed natural, yet all connected to people who worked in his workshop. Alikos becomes convinced that either his workshop is truly haunted or someone is deliberately targeting those connected to his lineage. Investigation reveals a connection to a timber harvest from thirty years past, and possibly an ancient curse connected to the wood itself.
 
-5. **The Reconciliation**: Alikos receives word that his estranged son, **Charzilikon**, has been gravely injured in a workshop accident and requests his father's presence. Though their relationship remains broken, Alikos finds himself standing over his son's sickbed, realizing that time is running out. As he tends to Charzilikon, the younger man reveals that his adoption of the new methods was not rejection of his father but an attempt to compete with his shadow—to prove himself different. Now, facing his own mortality, Charzilikon wants reconciliation, but Alikos has to face his own tangled feelings about the choices both have made and whether they can bridge the gulf between them.
+The Reconciliation
+: Alikos receives word that his estranged son, **Charzilikon**, has been gravely injured in a workshop accident and requests his father's presence. Though their relationship remains broken, Alikos finds himself standing over his son's sickbed, realizing that time is running out. As he tends to Charzilikon, the younger man reveals that his adoption of the new methods was not rejection of his father but an attempt to compete with his shadow—to prove himself different. Now, facing his own mortality, Charzilikon wants reconciliation, but Alikos has to face his own tangled feelings about the choices both have made and whether they can bridge the gulf between them.

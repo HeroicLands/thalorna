@@ -28,6 +28,11 @@ Fishers here tell two tales of the sea: an island that rises without birds and t
 
 ## See Also
 
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]]—the kingdom this harbor keeps open through winter
-- [[place-norgaad|Norgaad]]—the land the kingdom holds
-- [[lore-nrgadhstry|Histories and Legends of Norgaad]]—Hvarnvík's two sea tales
+[[affiliation-kingdmnrgd|Kingdom of Norgaad]]
+: the kingdom this harbor keeps open through winter
+
+[[place-norgaad|Norgaad]]
+: the land the kingdom holds
+
+[[lore-nrgadhstry|Histories and Legends of Norgaad]]
+: Hvarnvík's two sea tales

@@ -453,20 +453,47 @@ Lámbira must run Rashira to ground and recover the Purple Warrant—or, failing
 
 ### Skills and Abilities
 
-- **Strength**: Years of combat training have given her considerable physical strength.
-- **Endurance**: Capable of enduring harsh conditions and prolonged physical activity.
-- **Dexterity**: Skilled in handling weapons and performing precise movements.
-- **Agility**: Great agility allows her to move swiftly and evade attacks.
-- **Perception**: Highly alert and observant, essential for tracking targets.
-- **Comeliness**: Her rugged appearance carries a certain charm.
-- **Aura**: Not particularly attuned to the metaphysical.
-- **Will**: Determined and tenacious, rarely swayed from her objectives.
-- **Reasoning**: Quick-thinking and able to adapt to changing situations.
-- **Creativity**: Resourceful in overcoming obstacles during hunts.
-- **Empathy**: Can understand others but often prioritizes her mission.
-- **Eloquence**: Communicates effectively, especially when necessary for her work.
-- **Morality**: Lámbira, as a bounty hunter, follows her own moral code of honor and duty while balancing the practical needs of her profession. She respects her culture’s mores but is willing to act pragmatically.
-- **Voice**: Lámbira’s voice is not her strongest asset. While she can communicate clearly, singing is not her forte, and her voice can be a bit rough when attempting melodies.
+Strength
+: Years of combat training have given her considerable physical strength.
+
+Endurance
+: Capable of enduring harsh conditions and prolonged physical activity.
+
+Dexterity
+: Skilled in handling weapons and performing precise movements.
+
+Agility
+: Great agility allows her to move swiftly and evade attacks.
+
+Perception
+: Highly alert and observant, essential for tracking targets.
+
+Comeliness
+: Her rugged appearance carries a certain charm.
+
+Aura
+: Not particularly attuned to the metaphysical.
+
+Will
+: Determined and tenacious, rarely swayed from her objectives.
+
+Reasoning
+: Quick-thinking and able to adapt to changing situations.
+
+Creativity
+: Resourceful in overcoming obstacles during hunts.
+
+Empathy
+: Can understand others but often prioritizes her mission.
+
+Eloquence
+: Communicates effectively, especially when necessary for her work.
+
+Morality
+: Lámbira, as a bounty hunter, follows her own moral code of honor and duty while balancing the practical needs of her profession. She respects her culture’s mores but is willing to act pragmatically.
+
+Voice
+: Lámbira’s voice is not her strongest asset. While she can communicate clearly, singing is not her forte, and her voice can be a bit rough when attempting melodies.
 
 ## Psyche
 
@@ -516,10 +543,14 @@ Munetha of House Gholaris
 
 ## Plot Hooks
 
-1. **The Fugitive's Refuge**: Lámbira learns that Rashira has not run blindly north but has bought the protection of a [[affiliation-bethuanflt|warrant-captain]] of doubtful loyalty—a privateer who has read enough of the stolen rolls to know their worth and is weighing whether to sell Rashira to Vylaria herself. To reach her quarry, Lámbira must get aboard or alongside a ship whose mistress may be the realm's enemy or merely its most opportunistic servant, and decide how far she can trust a woman with everything to gain from betrayal.
+The Fugitive's Refuge
+: Lámbira learns that Rashira has not run blindly north but has bought the protection of a [[affiliation-bethuanflt|warrant-captain]] of doubtful loyalty—a privateer who has read enough of the stolen rolls to know their worth and is weighing whether to sell Rashira to Vylaria herself. To reach her quarry, Lámbira must get aboard or alongside a ship whose mistress may be the realm's enemy or merely its most opportunistic servant, and decide how far she can trust a woman with everything to gain from betrayal.
 
-2. **The Price of the Trail**: Her rival **Munetha of House Gholaris** claims to know exactly where Rashira will make her crossing—but demands Lámbira surrender a standing bounty, and her pride with it, to learn it. Worse, Munetha's knowledge hints that she has had her own quiet dealings with the fugitive's protectors; taking the bargain may bind Lámbira into a conspiracy that could see her named traitor to the Veil if it ever comes to light.
+The Price of the Trail
+: Her rival **Munetha of House Gholaris** claims to know exactly where Rashira will make her crossing—but demands Lámbira surrender a standing bounty, and her pride with it, to learn it. Worse, Munetha's knowledge hints that she has had her own quiet dealings with the fugitive's protectors; taking the bargain may bind Lámbira into a conspiracy that could see her named traitor to the Veil if it ever comes to light.
 
-3. **Into the Marches**: Following Rashira's trail into the dry [[affiliation-jcklsthmrchs|South Marches]], Lámbira's party rides straight into the country of [[being-argyrirjckl|Argirira the Jackal]]—and into an ambush the exiled warlord has prepared with a patience no contract could buy. Hired through [[being-casiaveric|Verris]]'s agents to bleed away the time Rashira needs, Argirira means to take far more than coin from this hunt. With [[being-narisahrvn|Nari]]'s sight and [[being-tlnrzyghrs|Tálanira]]'s contacts, Lámbira must break free of the woman she herself unmade—who wants her dead for reasons far older than any paymaster's—before her quarry slips out the far side of the Marches and away.
+Into the Marches
+: Following Rashira's trail into the dry [[affiliation-jcklsthmrchs|South Marches]], Lámbira's party rides straight into the country of [[being-argyrirjckl|Argirira the Jackal]]—and into an ambush the exiled warlord has prepared with a patience no contract could buy. Hired through [[being-casiaveric|Verris]]'s agents to bleed away the time Rashira needs, Argirira means to take far more than coin from this hunt. With [[being-narisahrvn|Nari]]'s sight and [[being-tlnrzyghrs|Tálanira]]'s contacts, Lámbira must break free of the woman she herself unmade—who wants her dead for reasons far older than any paymaster's—before her quarry slips out the far side of the Marches and away.
 
-4. **What the Rolls Reveal**: Cornered at last, Rashira offers Lámbira not a fight but a choice: read the Warrant-rolls, and see for yourself what you are protecting. The register lays bare the whole machinery of the deniable war—the crown-licensed piracy, the Houses grown rich on it, the [[affiliation-empireakhlth|Empire of Au'Khelathu]] patron pulling the strings, and the men and ships spent to keep it secret. Rashira means to carry the truth to those who would end it; Lámbira must weigh her oath to the Metrissa who loosed her against the rot the register would expose—and decide, at last, whose hound she truly is.
+What the Rolls Reveal
+: Cornered at last, Rashira offers Lámbira not a fight but a choice: read the Warrant-rolls, and see for yourself what you are protecting. The register lays bare the whole machinery of the deniable war—the crown-licensed piracy, the Houses grown rich on it, the [[affiliation-empireakhlth|Empire of Au'Khelathu]] patron pulling the strings, and the men and ships spent to keep it secret. Rashira means to carry the truth to those who would end it; Lámbira must weigh her oath to the Metrissa who loosed her against the rot the register would expose—and decide, at last, whose hound she truly is.

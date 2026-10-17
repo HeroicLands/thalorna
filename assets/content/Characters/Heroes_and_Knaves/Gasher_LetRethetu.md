@@ -446,27 +446,37 @@ Gasher seeks to capture in music the full spectrum of human experience: joy and 
 
 ### Strengths
 
-- **Master Vocalist**: His voice is his greatest instrument, capable of ranging from a whisper that draws crowds to silence to a thundering declaration that shakes the rafters. Years of training and natural gift have made him one of the finest singers in Au'Khelathu.
+Master Vocalist
+: His voice is his greatest instrument, capable of ranging from a whisper that draws crowds to silence to a thundering declaration that shakes the rafters. Years of training and natural gift have made him one of the finest singers in Au'Khelathu.
 
-- **Lyricist and Composer**: Beyond performance, Gasher creates original songs that capture the essence of stories and emotions in ways that move audiences deeply. His notebook is filled with lyrics of great beauty and poignancy.
+Lyricist and Composer
+: Beyond performance, Gasher creates original songs that capture the essence of stories and emotions in ways that move audiences deeply. His notebook is filled with lyrics of great beauty and poignancy.
 
-- **Emotional Resonance**: He possesses an almost supernatural ability to sense the mood and needs of a crowd, shifting his performance to speak directly to their hearts. This has made him beloved among common folk who see in his songs reflections of their own struggles.
+Emotional Resonance
+: He possesses an almost supernatural ability to sense the mood and needs of a crowd, shifting his performance to speak directly to their hearts. This has made him beloved among common folk who see in his songs reflections of their own struggles.
 
-- **Persuasive Presence**: His interest in people and his warmth make him a natural diplomat and peacemaker. Many conflicts have been soothed by his intervention and his willingness to hear all sides.
+Persuasive Presence
+: His interest in people and his warmth make him a natural diplomat and peacemaker. Many conflicts have been soothed by his intervention and his willingness to hear all sides.
 
-- **Skilled Instrumentalist**: His mastery of the harp and lyre is of the first order, allowing him to accompany his own voice with complex and beautiful arrangements.
+Skilled Instrumentalist
+: His mastery of the harp and lyre is of the first order, allowing him to accompany his own voice with complex and beautiful arrangements.
 
 ### Weaknesses
 
-- **Commitment Aversion**: His inability to settle in one place for long periods makes him unreliable as a permanent patron or employee. He will inevitably leave, no matter how comfortable his circumstances.
+Commitment Aversion
+: His inability to settle in one place for long periods makes him unreliable as a permanent patron or employee. He will inevitably leave, no matter how comfortable his circumstances.
 
-- **Court Politics Bewilderment**: The formalities of noble courts baffle and frustrate him. He often says the wrong thing, fails to understand subtle insults, and shows little patience for courtly intrigue.
+Court Politics Bewilderment
+: The formalities of noble courts baffle and frustrate him. He often says the wrong thing, fails to understand subtle insults, and shows little patience for courtly intrigue.
 
-- **Physical Vulnerability**: While not unskilled with a blade, he is not a warrior. His scar is a constant reminder of his vulnerability, and he prefers to flee danger rather than face it.
+Physical Vulnerability
+: While not unskilled with a blade, he is not a warrior. His scar is a constant reminder of his vulnerability, and he prefers to flee danger rather than face it.
 
-- **Restless Judgment**: His wandering nature sometimes manifests as contempt for those who have chosen to remain in one place, as if he sees their stability as a failure of imagination or courage.
+Restless Judgment
+: His wandering nature sometimes manifests as contempt for those who have chosen to remain in one place, as if he sees their stability as a failure of imagination or courage.
 
-- **Dependence on Mood**: His performances and even his composition are deeply tied to his emotional state. A sustained bout of dark temper or melancholy can render him unable to perform.
+Dependence on Mood
+: His performances and even his composition are deeply tied to his emotional state. A sustained bout of dark temper or melancholy can render him unable to perform.
 
 ## Social
 
@@ -499,12 +509,17 @@ Minstrels' Guild of Au'Khelathu
 
 ## Plot Hooks
 
-1. **The Lost Songs of the First Age**: Gasher has been contacted by Lady [[being-legirigulu2|Legirigulu]], a reclusive scholar and priestess of Chaq'ur who claims to have discovered fragmentary references to the fabled songs of creation mentioned in the oldest temple texts, which belong to the First Age ([[lore-akhfirsttab|the First Tablets]]). She believes that if these songs could be recovered and performed in the correct sequence, they would awaken something ancient and powerful—though whether this power would be benevolent or catastrophic, she does not know. She has offered him a sum of gold and a map indicating the location of a sealed temple deep in the desert where these songs might yet be preserved. The problem: the temple is protected by wards and guardians that have not been tested in centuries, and it lies in territory claimed by the [[affiliation-zelqetu2|Zelqetu]], a warband of desert nomads who brook no trespassers.
+The Lost Songs of the First Age
+: Gasher has been contacted by Lady [[being-legirigulu2|Legirigulu]], a reclusive scholar and priestess of Chaq'ur who claims to have discovered fragmentary references to the fabled songs of creation mentioned in the oldest temple texts, which belong to the First Age ([[lore-akhfirsttab|the First Tablets]]). She believes that if these songs could be recovered and performed in the correct sequence, they would awaken something ancient and powerful—though whether this power would be benevolent or catastrophic, she does not know. She has offered him a sum of gold and a map indicating the location of a sealed temple deep in the desert where these songs might yet be preserved. The problem: the temple is protected by wards and guardians that have not been tested in centuries, and it lies in territory claimed by the [[affiliation-zelqetu2|Zelqetu]], a warband of desert nomads who brook no trespassers.
 
-2. **The Thief of Melodies**: Gasher's greatest work, a song cycle he spent years composing called "The Descent of Galezkara," has been stolen. A merchant caravan carrying his belongings while he traveled overland was ambushed, and all his notebooks and original compositions were taken. He has since learned that the pieces are being performed throughout the western provinces by an unknown musician claiming them as original work. Worse, this thief is a gifted performer—some who have heard both versions claim they prefer the thief's interpretations. Now Gasher must track down this mysterious rival.
+The Thief of Melodies
+: Gasher's greatest work, a song cycle he spent years composing called "The Descent of Galezkara," has been stolen. A merchant caravan carrying his belongings while he traveled overland was ambushed, and all his notebooks and original compositions were taken. He has since learned that the pieces are being performed throughout the western provinces by an unknown musician claiming them as original work. Worse, this thief is a gifted performer—some who have heard both versions claim they prefer the thief's interpretations. Now Gasher must track down this mysterious rival.
 
-3. **The Silent Oracle's Curse**: In a small village called Meqet-Garu, Gasher once performed for the birthday celebration of **High Priestess Thapina**, a woman known throughout the region for her spiritual wisdom and grace. His performance that night was, by his own admission, less than his best—he was tired, distracted, perhaps drinking more than he should have. Shortly after, the priestess fell into a mysterious sleep from which she will not wake, and the village has blamed Gasher's poor performance as having somehow offended the gods or broken some unknown taboo. The priestess's brother, a merchant of considerable influence, has declared that only Gasher can reverse the curse—though he cannot say how, only that the solution will require Gasher to return to the village and rediscover what song the priestess's soul is calling for in whatever realm she now inhabits.
+The Silent Oracle's Curse
+: In a small village called Meqet-Garu, Gasher once performed for the birthday celebration of **High Priestess Thapina**, a woman known throughout the region for her spiritual wisdom and grace. His performance that night was, by his own admission, less than his best—he was tired, distracted, perhaps drinking more than he should have. Shortly after, the priestess fell into a mysterious sleep from which she will not wake, and the village has blamed Gasher's poor performance as having somehow offended the gods or broken some unknown taboo. The priestess's brother, a merchant of considerable influence, has declared that only Gasher can reverse the curse—though he cannot say how, only that the solution will require Gasher to return to the village and rediscover what song the priestess's soul is calling for in whatever realm she now inhabits.
 
-4. **Recruitment by the Sun Court**: An emissary of the high priests of Uqa'a has approached Gasher with an extraordinary proposal: the Temple of the Sun is mounting a grand ritual to be performed during the summer solstice, and they wish to commission him to compose and perform the ceremonial music. The honor would be immense, the payment astronomical, and it would cement his reputation forever. However, the ritual itself involves elements he does not fully understand, and there are whispers among the lower priests that something has been hidden from even the high clergy about the ritual's true purpose. Is it merely a festival, or does the Temple have some deeper purpose that Gasher would be complicit in by lending his art to their cause?
+Recruitment by the Sun Court
+: An emissary of the high priests of Uqa'a has approached Gasher with an extraordinary proposal: the Temple of the Sun is mounting a grand ritual to be performed during the summer solstice, and they wish to commission him to compose and perform the ceremonial music. The honor would be immense, the payment astronomical, and it would cement his reputation forever. However, the ritual itself involves elements he does not fully understand, and there are whispers among the lower priests that something has been hidden from even the high clergy about the ritual's true purpose. Is it merely a festival, or does the Temple have some deeper purpose that Gasher would be complicit in by lending his art to their cause?
 
-5. **The Scar's Origin Revealed**: Years have passed since the drunken noble wounded Gasher, but that man has never fully left the world of consequence. Gasher learns that the man—now fallen into poverty and desperation—has been spreading a story that contradicts the official account of how Gasher's scar was received. According to this man's account, the scar was not the result of random violence, but of Gasher's seduction of a noblewoman whose marriage was meant to secure a crucial political alliance. The story is false, but it is spreading, and Gasher's patrons are beginning to distance themselves. More troublingly, the noblewoman's family has taken notice and seeks to silence the man before he spreads further scandal. Gasher can let this man be killed, help him disappear, or confront the truth of his own past.
+The Scar's Origin Revealed
+: Years have passed since the drunken noble wounded Gasher, but that man has never fully left the world of consequence. Gasher learns that the man—now fallen into poverty and desperation—has been spreading a story that contradicts the official account of how Gasher's scar was received. According to this man's account, the scar was not the result of random violence, but of Gasher's seduction of a noblewoman whose marriage was meant to secure a crucial political alliance. The story is false, but it is spreading, and Gasher's patrons are beginning to distance themselves. More troublingly, the noblewoman's family has taken notice and seeks to silence the man before he spreads further scandal. Gasher can let this man be killed, help him disappear, or confront the truth of his own past.

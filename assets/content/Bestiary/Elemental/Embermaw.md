@@ -349,20 +349,29 @@ In lava or beside great heat it heals very fast. Away from heat it heals slowly,
 
 ## Attributes
 
-- **Strength:** 28-33 (1d6+27)
+Strength
+: 28-33 (1d6+27)
 
-- **Endurance:** 13-16 (1d4+12)
+Endurance
+: 13-16 (1d4+12)
 
-- **Dexterity:** 7-10 (1d4+6)
+Dexterity
+: 7-10 (1d4+6)
 
-- **Agility:** 9-12 (1d4+8)
+Agility
+: 9-12 (1d4+8)
 
-- **Perception:** 9-12 (1d4+8)
+Perception
+: 9-12 (1d4+8)
 
-- **Aura:** 13-16 (1d4+12)
+Aura
+: 13-16 (1d4+12)
 
-- **Will:** 11-14 (1d4+10)
+Will
+: 11-14 (1d4+10)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 7-10 (1d4+6)
+Creativity
+: 7-10 (1d4+6)

@@ -80,9 +80,14 @@ sohl: {system: {commonSkills: [nkaruthar]}}
 
 ## Nkaru'thar: The Eternal Flame
 
-- **Region:** [[affiliation-okharis|Kingdom of Okharis]]
-- **Nature:** Monotheistic with tripartite aspects and animistic sub-traditions
-- **Symbol:** Three interlocking flames (one white, one gold, one red)
+Region
+: [[affiliation-okharis|Kingdom of Okharis]]
+
+Nature
+: Monotheistic with tripartite aspects and animistic sub-traditions
+
+Symbol
+: Three interlocking flames (one white, one gold, one red)
 
 **Nkaru'thar** is the faith in which the people of [[affiliation-okharis|Okharis]] worship [[lore-nkaruthardty|Nkaru'thar]]—the Eternal Flame—as the singular divine force from which all creation, destruction, and renewal flow. Unlike the polytheistic pantheons of the [[place-ankrscntnnt|Ankaris Continent]] or the Tantsou celestial bureaucracy, [[affiliation-tengwouronglei|Téngwou Rong Lei]], the Okharik faith centers on a single godhead whose power is held to manifest in three aspects, each embodied by one of the kingdom's three great city-states and their pyramidal temple complexes.
 
@@ -110,16 +115,28 @@ The distinction between urban temple worship and rural spirit practice is one of
 
 ### Sacred Objects
 
-- **Pyrestone:** A fragment of volcanic glass, carried by the faithful as a personal connection to the Eternal Flame.
-- **Three-Wick Oil Lamp:** Lit during prayers, each wick representing one aspect of the Flame. Extinguishing any wick before the others is considered deeply inauspicious.
-- **Ashmark Paste:** A mixture of temple hearth-ash and sacred oils, applied to the forehead and hands during ceremonies of passage, mourning, or consecration.
-- **Spirit Bone Pendant:** Carved from the bones of animals taken during [The Spirit Hunt]{.name data-type="lore/custom"}, worn by shamans and warriors as a mark of their spiritual bond.
+Pyrestone
+: A fragment of volcanic glass, carried by the faithful as a personal connection to the Eternal Flame.
+
+Three-Wick Oil Lamp
+: Lit during prayers, each wick representing one aspect of the Flame. Extinguishing any wick before the others is considered deeply inauspicious.
+
+Ashmark Paste
+: A mixture of temple hearth-ash and sacred oils, applied to the forehead and hands during ceremonies of passage, mourning, or consecration.
+
+Spirit Bone Pendant
+: Carved from the bones of animals taken during [The Spirit Hunt]{.name data-type="lore/custom"}, worn by shamans and warriors as a mark of their spiritual bond.
 
 ### Relics
 
-- **[The First Ember]{.name data-type="miscgear"}:** (Unique) Housed in the deepest chamber of the Zarhanis temple, the First Ember is said to be an undying flame kindled by Nkaru'thar at the moment of creation. It has never been extinguished. The High Pyremant alone may enter its chamber, and all temple fires in Okharis are symbolically descended from it.
-- **[The Warden's Brand]{.name data-type="miscgear"}:** A ceremonial iron blade kept at Vuthraka, heated in sacred fire and used to mark warriors who have proven themselves in [The Trial of Three Flames]{.name data-type="lore/custom"}. The scars it leaves are borne with pride as what the faithful take as proof of Nkaru'thar's favor.
-- **[The Scales of Kaljekor]{.name data-type="miscgear"}:** A gilded balance kept in the temple-marketplace, used to weigh offerings and seal trade oaths. Merchants who swear false oaths upon the Scales are said to suffer ruin within a year and a day.
+[The First Ember]{.name data-type="miscgear"}
+: (Unique) Housed in the deepest chamber of the Zarhanis temple, the First Ember is said to be an undying flame kindled by Nkaru'thar at the moment of creation. It has never been extinguished. The High Pyremant alone may enter its chamber, and all temple fires in Okharis are symbolically descended from it.
+
+[The Warden's Brand]{.name data-type="miscgear"}
+: A ceremonial iron blade kept at Vuthraka, heated in sacred fire and used to mark warriors who have proven themselves in [The Trial of Three Flames]{.name data-type="lore/custom"}. The scars it leaves are borne with pride as what the faithful take as proof of Nkaru'thar's favor.
+
+[The Scales of Kaljekor]{.name data-type="miscgear"}
+: A gilded balance kept in the temple-marketplace, used to weigh offerings and seal trade oaths. Merchants who swear false oaths upon the Scales are said to suffer ruin within a year and a day.
 
 ### Clergy
 
@@ -164,37 +181,59 @@ Outside the city-states, the faith is maintained by **shamans** (often called **
 
 **Low Ceremonies:**
 
-- **[The Lighting of the Hearth]{.name data-type="lore/custom"}:** When a new household is established, a priest or shaman kindles its first fire from a flame carried from the nearest temple, ritually binding the home to Nkaru'thar's protection. This ceremony is also performed after a death in the household, symbolically renewing the family's connection to the Eternal Flame.
-- **[The Ashmark Blessing]{.name data-type="lore/custom"}:** A monthly ceremony held at local shrines where the faithful receive ashmark paste on their foreheads, renewing their bond with the Eternal Flame and receiving the blessing of the attending zohira.
+[The Lighting of the Hearth]{.name data-type="lore/custom"}
+: When a new household is established, a priest or shaman kindles its first fire from a flame carried from the nearest temple, ritually binding the home to Nkaru'thar's protection. This ceremony is also performed after a death in the household, symbolically renewing the family's connection to the Eternal Flame.
+
+[The Ashmark Blessing]{.name data-type="lore/custom"}
+: A monthly ceremony held at local shrines where the faithful receive ashmark paste on their foreheads, renewing their bond with the Eternal Flame and receiving the blessing of the attending zohira.
 
 **High Ceremonies:**
 
-- **[The Rite of Three Fires]{.name data-type="lore/custom"}:** Performed only by senior clergy, this ceremony involves the simultaneous lighting of three sacred fires—white, gold, and red—in a triangular arrangement. The priests chant the creation hymn while the fires burn, and the pattern of the flames is read as prophecy for the coming season.
-- **The Spirit Hunt:** The initiation ordeal for shamans. The candidate enters the wilderness alone to track and defeat a spirit-beast, consuming its heart to forge their bond with the zohira. Not all candidates survive.
+[The Rite of Three Fires]{.name data-type="lore/custom"}
+: Performed only by senior clergy, this ceremony involves the simultaneous lighting of three sacred fires—white, gold, and red—in a triangular arrangement. The priests chant the creation hymn while the fires burn, and the pattern of the flames is read as prophecy for the coming season.
+
+The Spirit Hunt
+: The initiation ordeal for shamans. The candidate enters the wilderness alone to track and defeat a spirit-beast, consuming its heart to forge their bond with the zohira. Not all candidates survive.
 
 **Festivals:**
 
-- **[The Rekindling]{.name data-type="lore/gathering"}:** Held at the summer solstice, all temple fires across Okharis are extinguished and then relit from embers carried from the First Ember at Zarhanis. Pilgrims from every corner of the kingdom travel to the city-states, and the week-long festival features processions, feasting, and tribal gatherings that reinforce cultural unity across Okharis.
-- **[The Night of Ashes]{.name data-type="lore/gathering"}:** Held at midwinter, this solemn festival honors the dead and the destructive aspect of the Eternal Flame. Families burn offerings to their ancestors, and shamans perform rites to appease restless spirits. The zohira are said to walk openly among mortals on this night.
-- **[The Market of Flames]{.name data-type="lore/gathering"}:** An annual trade festival at Kaljekor, combining commerce and devotion. Merchants make offerings at the Golden Flame temple before conducting their most important transactions of the year, and oaths sworn during the festival are considered sacred and unbreakable.
+[The Rekindling]{.name data-type="lore/gathering"}
+: Held at the summer solstice, all temple fires across Okharis are extinguished and then relit from embers carried from the First Ember at Zarhanis. Pilgrims from every corner of the kingdom travel to the city-states, and the week-long festival features processions, feasting, and tribal gatherings that reinforce cultural unity across Okharis.
+
+[The Night of Ashes]{.name data-type="lore/gathering"}
+: Held at midwinter, this solemn festival honors the dead and the destructive aspect of the Eternal Flame. Families burn offerings to their ancestors, and shamans perform rites to appease restless spirits. The zohira are said to walk openly among mortals on this night.
+
+[The Market of Flames]{.name data-type="lore/gathering"}
+: An annual trade festival at Kaljekor, combining commerce and devotion. Merchants make offerings at the Golden Flame temple before conducting their most important transactions of the year, and oaths sworn during the festival are considered sacred and unbreakable.
 
 ### Ordeals for Favor
 
-- **[The Firewalk]{.name data-type="lore/custom"}:** The most common ordeal, in which the faithful walk barefoot across a bed of coals drawn from a temple fire. Those who cross without injury are said to have Nkaru'thar's direct favor.
-- **The Trial of Three Flames:** A grueling ordeal for those seeking high office in the priesthood, requiring the candidate to fast for three days while maintaining three sacred fires without allowing any to gho out, even through storm and wind.
-- **The Spirit Hunt:** Described above—the initiation ordeal for shamans, but also undertaken by warriors and leaders seeking to prove their spiritual worthiness.
-- **[The Vigil of Ashes]{.name data-type="lore/custom"}:** An ordeal of mourning and purification, in which the penitent covers themselves in ash and sits before a dying fire from dusk to dawn, meditating on loss, destruction, and renewal. Often undertaken after a great failure or transgression.
+[The Firewalk]{.name data-type="lore/custom"}
+: The most common ordeal, in which the faithful walk barefoot across a bed of coals drawn from a temple fire. Those who cross without injury are said to have Nkaru'thar's direct favor.
+
+The Trial of Three Flames
+: A grueling ordeal for those seeking high office in the priesthood, requiring the candidate to fast for three days while maintaining three sacred fires without allowing any to gho out, even through storm and wind.
+
+The Spirit Hunt
+: Described above—the initiation ordeal for shamans, but also undertaken by warriors and leaders seeking to prove their spiritual worthiness.
+
+[The Vigil of Ashes]{.name data-type="lore/custom"}
+: An ordeal of mourning and purification, in which the penitent covers themselves in ash and sits before a dying fire from dusk to dawn, meditating on loss, destruction, and renewal. Often undertaken after a great failure or transgression.
 
 ### Orders
 
 **Priestly Orders:**
 
-- **[Keepers of the First Ember]{.name data-type="affiliation/order"}:** An inner circle of Zarhanis priests who tend the First Ember and guard the deepest temple chambers. They are sworn to silence about what they witness in the Ember's presence and are said to receive visions directly from Nkaru'thar.
-- **[The Flameweavers]{.name data-type="affiliation/order"}:** Priest-scholars of Kaljekor who study the patterns of sacred flames for prophecy and maintain the records of trade-oaths sworn upon the Scales.
+[Keepers of the First Ember]{.name data-type="affiliation/order"}
+: An inner circle of Zarhanis priests who tend the First Ember and guard the deepest temple chambers. They are sworn to silence about what they witness in the Ember's presence and are said to receive visions directly from Nkaru'thar.
+
+[The Flameweavers]{.name data-type="affiliation/order"}
+: Priest-scholars of Kaljekor who study the patterns of sacred flames for prophecy and maintain the records of trade-oaths sworn upon the Scales.
 
 **Fighting Orders:**
 
-- **[The Ashborn]{.name data-type="affiliation/order"}:** Elite warrior-priests of Vuthraka who have passed the Trial of Three Flames and bear the Warden's Brand. They fight with ritual scarification visible on their arms and chest, and are said to be immune to fear. In battle they serve as both shock troops and spiritual anchors for the army, chanting war-hymns that invoke the Wild Flame.
+[The Ashborn]{.name data-type="affiliation/order"}
+: Elite warrior-priests of Vuthraka who have passed the Trial of Three Flames and bear the Warden's Brand. They fight with ritual scarification visible on their arms and chest, and are said to be immune to fear. In battle they serve as both shock troops and spiritual anchors for the army, chanting war-hymns that invoke the Wild Flame.
 
 ### A Worshipped Faith on Older Ground
 

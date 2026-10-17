@@ -83,6 +83,11 @@ The western shore became the burial-ground of the houses that ruled from the mou
 
 ## See Also
 
-- [[lore-akhfirsttab|The First Tablets]] · [[lore-akhsunroad|The Sun's Road]]—the ages this crossing closes and opens
-- [[place-galezkara|Galezkara]] · [[place-yathtelgu|Yath-Telgu]] · [[place-zugezer|Zu-Gezer]]—the mound, the island and the necropolis
-- [[lore-garauu|Gar-Auu]]—the king-list that enters the crossing
+[[lore-akhfirsttab|The First Tablets]] · [[lore-akhsunroad|The Sun's Road]]
+: the ages this crossing closes and opens
+
+[[place-galezkara|Galezkara]] · [[place-yathtelgu|Yath-Telgu]] · [[place-zugezer|Zu-Gezer]]
+: the mound, the island and the necropolis
+
+[[lore-garauu|Gar-Auu]]
+: the king-list that enters the crossing

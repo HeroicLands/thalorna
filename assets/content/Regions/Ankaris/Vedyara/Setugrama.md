@@ -20,5 +20,8 @@ A carter on the road describes the crossing before he mentions the village.
 
 ## See Also
 
-- [[place-rajapurjnpd|Rajepur Janapoda]]—the land
-- [[affiliation-rajaprjnpd|Rajepur Janapoda]]—the temple-republic that holds it
+[[place-rajapurjnpd|Rajepur Janapoda]]
+: the land
+
+[[affiliation-rajaprjnpd|Rajepur Janapoda]]
+: the temple-republic that holds it

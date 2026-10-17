@@ -169,6 +169,11 @@ The Kingdom of Élavendre uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden
 
 ## See Also
 
-- [[place-elavendre|Élavendre]]—Regional overview
-- [[place-aelwyth|Aelwyth]]—Cultural cousin across the water
-- [[affiliation-arldnpnthn|Aureldian]]—Formal pantheon (layered with older traditions)
+[[place-elavendre|Élavendre]]
+: Regional overview
+
+[[place-aelwyth|Aelwyth]]
+: Cultural cousin across the water
+
+[[affiliation-arldnpnthn|Aureldian]]
+: Formal pantheon (layered with older traditions)

@@ -23,7 +23,14 @@ The chief temple is the odd thing about it. A temple servant explains to a visit
 
 ## See Also
 
-- [[affiliation-selatiaqetlq|The Selat of Iaqet-Leqa]]—Parent selat
-- [[affiliation-borderselatu|The Border Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-tjelsuk|Faith of Tjelsur]]—Patron cult
+[[affiliation-selatiaqetlq|The Selat of Iaqet-Leqa]]
+: Parent selat
+
+[[affiliation-borderselatu|The Border Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-tjelsuk|Faith of Tjelsur]]
+: Patron cult

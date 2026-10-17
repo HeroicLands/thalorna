@@ -30,6 +30,11 @@ The heads of the twelve greatest guilds make up the [[affiliation-cncltwlvbzrs|C
 
 ## See Also
 
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation of city-states
-- [[place-byzariargn|Bizaria Region]]—regional overview
-- [[affiliation-hideworkerscltv|Hideworkers' Collective]]—a major guild presence
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation of city-states
+
+[[place-byzariargn|Bizaria Region]]
+: regional overview
+
+[[affiliation-hideworkerscltv|Hideworkers' Collective]]
+: a major guild presence

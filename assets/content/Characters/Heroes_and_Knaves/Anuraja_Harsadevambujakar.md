@@ -447,22 +447,46 @@ Anuraja is also driven by a need to understand the limits of his capability. He 
 
 ### Strengths
 
-- **Lethal Dexterity**: His dexterity, combined with four specializations in melee combat, makes Anuraja devastating at close quarters. His hands and daggers move with such speed and precision that most opponents never realize they are dead until the knowledge becomes irrelevant.
-- **Extraordinary Agility**: His agility lets him move with liquid grace, climbing impossible angles, balancing on surfaces others would fall from, and executing acrobatic movements in combat that confound opponents' expectations.
-- **Master Climbing and Acrobatics**: His climbing, with three specializations, and his dancing let him cross vertical spaces others consider impassable. He can scale walls, traverse rope bridges, and position himself in impossible locations.
-- **Advanced Creative Problem-Solving**: His creativity gives him fresh approaches to the problems of assassination. When conventional methods are blocked, his mind quickly generates alternatives.
-- **Stealth Mastery**: His stealth, awareness, and tracking capabilities allow him to observe without being observed and to move through spaces without disturbing them. He can infiltrate secure locations and observe targets for weeks without detection.
-- **Intellectual Capability**: His reasoning combined with his training makes him excellent at planning complex operations, anticipating counteractions, and adapting to unexpected developments.
-- **Weapons Capability**: His throwing and melee skills, each with four specializations, and his knowledge of weaponcraft make him dangerous with any instrument of violence.
+Lethal Dexterity
+: His dexterity, combined with four specializations in melee combat, makes Anuraja devastating at close quarters. His hands and daggers move with such speed and precision that most opponents never realize they are dead until the knowledge becomes irrelevant.
+
+Extraordinary Agility
+: His agility lets him move with liquid grace, climbing impossible angles, balancing on surfaces others would fall from, and executing acrobatic movements in combat that confound opponents' expectations.
+
+Master Climbing and Acrobatics
+: His climbing, with three specializations, and his dancing let him cross vertical spaces others consider impassable. He can scale walls, traverse rope bridges, and position himself in impossible locations.
+
+Advanced Creative Problem-Solving
+: His creativity gives him fresh approaches to the problems of assassination. When conventional methods are blocked, his mind quickly generates alternatives.
+
+Stealth Mastery
+: His stealth, awareness, and tracking capabilities allow him to observe without being observed and to move through spaces without disturbing them. He can infiltrate secure locations and observe targets for weeks without detection.
+
+Intellectual Capability
+: His reasoning combined with his training makes him excellent at planning complex operations, anticipating counteractions, and adapting to unexpected developments.
+
+Weapons Capability
+: His throwing and melee skills, each with four specializations, and his knowledge of weaponcraft make him dangerous with any instrument of violence.
 
 ### Weaknesses
 
-- **Emotional Atrophy**: His near-total inability to connect with others emotionally makes him vulnerable to manipulation through the emotions of others. Those he cares about (few as they are) can be used against him.
-- **Questionable Morality**: His willingness to kill for money and his philosophical distance from the consequences of his work leave him morally isolated. The positions he accepts sometimes place him in conflict with principled opposition.
-- **Limited Empathy**: He has little feeling for others and cannot reliably predict how people will react to emotional appeals or why some individuals value concepts like loyalty or family above survival.
-- **Overconfidence**: His perfect record has created a dangerous certainty that he can execute any contract. This confidence occasionally leads him to accept commissions that contain hidden variables.
-- **Reduced Physical Resilience**: His focus on precision and stealth rather than durability means his strength and endurance are modest. Direct confrontation against physically superior opponents is dangerous for him.
-- **Isolation**: His self-imposed separation from human connection leaves him fragile in ways he does not recognize. Disruption to his solitary routine can produce unexpected consequences.
+Emotional Atrophy
+: His near-total inability to connect with others emotionally makes him vulnerable to manipulation through the emotions of others. Those he cares about (few as they are) can be used against him.
+
+Questionable Morality
+: His willingness to kill for money and his philosophical distance from the consequences of his work leave him morally isolated. The positions he accepts sometimes place him in conflict with principled opposition.
+
+Limited Empathy
+: He has little feeling for others and cannot reliably predict how people will react to emotional appeals or why some individuals value concepts like loyalty or family above survival.
+
+Overconfidence
+: His perfect record has created a dangerous certainty that he can execute any contract. This confidence occasionally leads him to accept commissions that contain hidden variables.
+
+Reduced Physical Resilience
+: His focus on precision and stealth rather than durability means his strength and endurance are modest. Direct confrontation against physically superior opponents is dangerous for him.
+
+Isolation
+: His self-imposed separation from human connection leaves him fragile in ways he does not recognize. Disruption to his solitary routine can produce unexpected consequences.
 
 ## Social
 
@@ -492,12 +516,17 @@ The Shadow-Brotherhoods
 
 ## Plot Hooks
 
-1. **The Impossible Target**: Anuraja is approached through his usual channels with an extraordinary contract: eliminate an individual who appears to have no fixed location, no predictable pattern, and no clear identity. The fee is the largest he has ever been offered, and the employer is someone of sufficient power that refusal would be dangerous. As he begins investigation, he discovers that the target may not be human—or may not even be singular. The contract forces him into territories where his usual methods prove inadequate.
+The Impossible Target
+: Anuraja is approached through his usual channels with an extraordinary contract: eliminate an individual who appears to have no fixed location, no predictable pattern, and no clear identity. The fee is the largest he has ever been offered, and the employer is someone of sufficient power that refusal would be dangerous. As he begins investigation, he discovers that the target may not be human—or may not even be singular. The contract forces him into territories where his usual methods prove inadequate.
 
-2. **The Betrayal Revealed**: An intelligence asset Anuraja has relied upon for verification of contracts turns out to have been feeding him false information. One of his previous "assignments" was actually an innocent person whose death was arranged by a rival assassin attempting to frame him. The revelation that he has broken his own code—killing the wrong target—shakes his carefully ordered existence. He begins investigating who manipulated him and why, determined to correct the error.
+The Betrayal Revealed
+: An intelligence asset Anuraja has relied upon for verification of contracts turns out to have been feeding him false information. One of his previous "assignments" was actually an innocent person whose death was arranged by a rival assassin attempting to frame him. The revelation that he has broken his own code—killing the wrong target—shakes his carefully ordered existence. He begins investigating who manipulated him and why, determined to correct the error.
 
-3. **The Mentor's Ultimatum**: Grandmother Vex approaches Anuraja directly with an offer rather than an attempt at assassination. She reveals that she is dying and wishes to pass her knowledge to a successor. She believes Anuraja has strayed from the true path of shadow-work, but thinks he can be redeemed. She offers him a choice: spend six months in intensive retraining under her supervision, learning the "philosophy" he abandoned, or face her as an enemy knowing she will dedicate her final years to his elimination.
+The Mentor's Ultimatum
+: Grandmother Vex approaches Anuraja directly with an offer rather than an attempt at assassination. She reveals that she is dying and wishes to pass her knowledge to a successor. She believes Anuraja has strayed from the true path of shadow-work, but thinks he can be redeemed. She offers him a choice: spend six months in intensive retraining under her supervision, learning the "philosophy" he abandoned, or face her as an enemy knowing she will dedicate her final years to his elimination.
 
-4. **The Conscience Awakens**: A contract goes catastrophically wrong when Anuraja discovers the target is a young woman bearing an uncanny resemblance to his sister—a sister he believed dead in childhood. Investigation reveals that his sister may have survived, that this target may actually be his sister, and that someone deliberately arranged this contract knowing it would create exactly this moral crisis. Faced with the possibility of a living relative, Anuraja sets out to learn whether the resemblance is coincidence, manipulation, or truth.
+The Conscience Awakens
+: A contract goes catastrophically wrong when Anuraja discovers the target is a young woman bearing an uncanny resemblance to his sister—a sister he believed dead in childhood. Investigation reveals that his sister may have survived, that this target may actually be his sister, and that someone deliberately arranged this contract knowing it would create exactly this moral crisis. Faced with the possibility of a living relative, Anuraja sets out to learn whether the resemblance is coincidence, manipulation, or truth.
 
-5. **The Sacred Weapon**: A wealthy collector approaches Anuraja with an unusual proposition: not a contract for murder, but a commission to acquire a famed artifact—a blade of such craftsmanship and alleged supernatural properties that its mere possession has sparked wars. The artifact is currently in the hands of a military order that will defend it to the death. Anuraja must employ assassination, theft, and manipulation in concert to obtain the blade, all while realizing that the artifact is exactly what his mentor Grandmother Vex has been seeking, and that she will kill him to possess it.
+The Sacred Weapon
+: A wealthy collector approaches Anuraja with an unusual proposition: not a contract for murder, but a commission to acquire a famed artifact—a blade of such craftsmanship and alleged supernatural properties that its mere possession has sparked wars. The artifact is currently in the hands of a military order that will defend it to the death. Anuraja must employ assassination, theft, and manipulation in concert to obtain the blade, all while realizing that the artifact is exactly what his mentor Grandmother Vex has been seeking, and that she will kill him to possess it.

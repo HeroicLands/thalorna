@@ -301,11 +301,26 @@ _\[Beneath it, the teacher's hand: Not in good order. Copy it again after the fl
 
 ## See Also
 
-- [[lore-garauu|Gar-Auu]]—the king-list and the formulas the Keeper teaches his son to read
-- [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'ar]]—the schools that copy the instruction
-- [[lore-rethsaardty|Reth'Sa'ar]]—the god whose precinct keeps the list
-- [[lore-khelathiclt|Khelathi]]—the two ledgers, the near name, the Closing and the Reading
-- [[lore-readingweigh|The Reading at the Weighing]]—the litany and the Asking, which the father once answered with a no
-- [[place-lenennezut|Lenen-Nezut]]—the town whose forecourt is long
-- [[place-zelhalzi|Zel-Halzi]]—the field below Lenen-Nezut that has no line in the roll
-- [[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]—the stone the hill house set on that field
+[[lore-garauu|Gar-Auu]]
+: the king-list and the formulas the Keeper teaches his son to read
+
+[[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'ar]]
+: the schools that copy the instruction
+
+[[lore-rethsaardty|Reth'Sa'ar]]
+: the god whose precinct keeps the list
+
+[[lore-khelathiclt|Khelathi]]
+: the two ledgers, the near name, the Closing and the Reading
+
+[[lore-readingweigh|The Reading at the Weighing]]
+: the litany and the Asking, which the father once answered with a no
+
+[[place-lenennezut|Lenen-Nezut]]
+: the town whose forecourt is long
+
+[[place-zelhalzi|Zel-Halzi]]
+: the field below Lenen-Nezut that has no line in the roll
+
+[[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]
+: the stone the hill house set on that field

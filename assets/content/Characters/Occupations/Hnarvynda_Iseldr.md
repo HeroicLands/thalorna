@@ -434,12 +434,17 @@ Few, though some older woodcutters were initially skeptical of her abilities.
 
 ## Plot Hooks
 
-1. **The Woodcutter's Dilemma**—A builder wants timber from a stand Hnarvinda knows should be left, and she has to choose between the order and the forest.
+The Woodcutter's Dilemma
+: A builder wants timber from a stand Hnarvinda knows should be left, and she has to choose between the order and the forest.
 
-2. **Old Grudges**—One of the older woodcutters who doubted her has not let it go, and finds a way to make it cost her.
+Old Grudges
+: One of the older woodcutters who doubted her has not let it go, and finds a way to make it cost her.
 
-3. **Echoes of the Past**—Something from Hnarvinda's earlier life resurfaces and has to be settled.
+Echoes of the Past
+: Something from Hnarvinda's earlier life resurfaces and has to be settled.
 
-4. **Shifting Winds**—Political change in Nordheim threatens the guild and the trade Hnarvinda depends upon, and she can adapt, resist, or leave.
+Shifting Winds
+: Political change in Nordheim threatens the guild and the trade Hnarvinda depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—A chance encounter offers Hnarvinda more than the trade has ever paid her, and the price is not named up front.
+The Opportunity
+: A chance encounter offers Hnarvinda more than the trade has ever paid her, and the price is not named up front.

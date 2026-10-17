@@ -34,8 +34,17 @@ Narivothei's Elder petitioned the Council in the second year after the village's
 
 ## See Also
 
-- [[lore-itharisul|Ithasul]]—the substance of the works, and the states a work passes through
-- [[place-narivothei|Narivothei]] and [[place-reithovani|Reithovani]]—two villages whose stones have gone white
-- [[place-kuomethei|Kuomethei]]—where the custodians of dark works keep the count
-- [[lore-klhrsnctrs|The Sanctuaries of Kalihara]]—which sanctuary tends which work
-- [[affiliation-tharivaan|Thári'vaan]]—the custodians, the Dawn Tending and the Rite of Last Tending
+[[lore-itharisul|Ithasul]]
+: the substance of the works, and the states a work passes through
+
+[[place-narivothei|Narivothei]] and [[place-reithovani|Reithovani]]
+: two villages whose stones have gone white
+
+[[place-kuomethei|Kuomethei]]
+: where the custodians of dark works keep the count
+
+[[lore-klhrsnctrs|The Sanctuaries of Kalihara]]
+: which sanctuary tends which work
+
+[[affiliation-tharivaan|Thári'vaan]]
+: the custodians, the Dawn Tending and the Rite of Last Tending

@@ -8,11 +8,20 @@ tags: [draft, first-gods]
 data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
-- **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]
-- **Seat:** [[place-drenavrspn|the Drenavar Spine]]
-- **Territory:** the high corries and the winter dens beneath them
-- **Posture:** Warded, then venerated
-- **Met through:** [[skill-urnelsprt|Urnel Spirit Power]]
+Kind
+: Animal-kin, of [[lore-thekindred|the Kindred]]
+
+Seat
+: [[place-drenavrspn|the Drenavar Spine]]
+
+Territory
+: the high corries and the winter dens beneath them
+
+Posture
+: Warded, then venerated
+
+Met through
+: [[skill-urnelsprt|Urnel Spirit Power]]
 
 Urnel is the clearest case in Áelendan practice of a single Kindred requiring two postures, and
 shamen use him to teach it. Between the first hard frost and the thaw he is warded against: the

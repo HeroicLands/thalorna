@@ -22,5 +22,8 @@ The four academies buy the whole output most years. In a year when they do not, 
 
 ## See Also
 
-- [[place-dhanurkotajnpd|Danurkota Janapoda]]—the land
-- [[affiliation-dhnrktjnpd|Danurkota Janapoda]]—the temple-republic that holds it
+[[place-dhanurkotajnpd|Danurkota Janapoda]]
+: the land
+
+[[affiliation-dhnrktjnpd|Danurkota Janapoda]]
+: the temple-republic that holds it

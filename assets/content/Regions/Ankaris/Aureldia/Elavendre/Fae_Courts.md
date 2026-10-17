@@ -36,8 +36,17 @@ The Áelendan, for their part, regard Arcane Order curiosity about the Courts wi
 
 ## See Also
 
-- [[place-elavendre|Élavendre]]—The kingdom in which the Courts are said to dwell
-- [[lore-aelendnppl|Áelendan]]—The people closest to the Courts' territory
-- [[place-silvrfrsts|The Silver Forests]]—The principal fae-touched woodland associated with the Courts
-- [[lore-flksinale|Sinale]]—The elder race often conflated with, but distinct from, the Courts
-- [[affiliation-alndnwrdns|Áelendan Wardens]]—The order that protects the approaches
+[[place-elavendre|Élavendre]]
+: The kingdom in which the Courts are said to dwell
+
+[[lore-aelendnppl|Áelendan]]
+: The people closest to the Courts' territory
+
+[[place-silvrfrsts|The Silver Forests]]
+: The principal fae-touched woodland associated with the Courts
+
+[[lore-flksinale|Sinale]]
+: The elder race often conflated with, but distinct from, the Courts
+
+[[affiliation-alndnwrdns|Áelendan Wardens]]
+: The order that protects the approaches

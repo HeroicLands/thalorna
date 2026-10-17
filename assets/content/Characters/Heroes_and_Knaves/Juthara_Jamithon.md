@@ -444,19 +444,37 @@ Júthara is driven by an almost obsessive need to understand the forces that cor
 
 ### Strengths
 
-- **Brilliant Theorist**: A reasoning and creativity score of 17-18 makes Júthara capable of formulating entirely new frameworks for understanding complex phenomena. She regularly publishes innovative works that reshape scholarly discourse.
-- **Master of Medicine**: With Physician and multiple language skills at 17, combined with extensive training in Herbal Lore, she is among the finest healers in the Matriarchy, capable of diagnosing conditions others cannot recognize.
-- **Skilled Communicator**: Her Discourse and Theatrics at 17 allow her to present complex ideas with compelling eloquence, making her an effective teacher and public speaker.
-- **Disciplined Researcher**: High scores in Script, Mathematics, and Ritual reflection a methodical approach to investigation; she leaves no stone unturned in her scholarly pursuits.
-- **Perceptive Observer**: With Perception at 16, she notices subtle signs in both nature and human behavior that guide her research and diagnoses.
+Brilliant Theorist
+: A reasoning and creativity score of 17-18 makes Júthara capable of formulating entirely new frameworks for understanding complex phenomena. She regularly publishes innovative works that reshape scholarly discourse.
+
+Master of Medicine
+: With Physician and multiple language skills at 17, combined with extensive training in Herbal Lore, she is among the finest healers in the Matriarchy, capable of diagnosing conditions others cannot recognize.
+
+Skilled Communicator
+: Her Discourse and Theatrics at 17 allow her to present complex ideas with compelling eloquence, making her an effective teacher and public speaker.
+
+Disciplined Researcher
+: High scores in Script, Mathematics, and Ritual reflection a methodical approach to investigation; she leaves no stone unturned in her scholarly pursuits.
+
+Perceptive Observer
+: With Perception at 16, she notices subtle signs in both nature and human behavior that guide her research and diagnoses.
 
 ### Weaknesses
 
-- **Perfectionist Paralysis**: Her relentless self-criticism sometimes prevents her from completing projects or sharing work she deems "not yet ready," frustrating colleagues and benefactors alike.
-- **Isolated Scholar**: Poor physical attributes (Strength 11, Dexterity 13) and minimal combat training mean she is entirely dependent on others for physical protection.
-- **Morally Ambiguous Methods**: Her willingness to conduct ethically questionable experiments has made her controversial; some view her as dangerously unhinged.
-- **Time Management**: Despite her intelligence, she struggles to organize her workload, often emerging from her laboratory after days without proper rest or sustenance.
-- **Emotional Reticence**: She struggles to form close emotional bonds, sometimes appearing cold or uncaring when she is merely socially uncertain.
+Perfectionist Paralysis
+: Her relentless self-criticism sometimes prevents her from completing projects or sharing work she deems "not yet ready," frustrating colleagues and benefactors alike.
+
+Isolated Scholar
+: Poor physical attributes (Strength 11, Dexterity 13) and minimal combat training mean she is entirely dependent on others for physical protection.
+
+Morally Ambiguous Methods
+: Her willingness to conduct ethically questionable experiments has made her controversial; some view her as dangerously unhinged.
+
+Time Management
+: Despite her intelligence, she struggles to organize her workload, often emerging from her laboratory after days without proper rest or sustenance.
+
+Emotional Reticence
+: She struggles to form close emotional bonds, sometimes appearing cold or uncaring when she is merely socially uncertain.
 
 ## Social
 
@@ -489,12 +507,17 @@ The Circle of Natural Philosophy
 
 ## Plot Hooks
 
-1. **The Plague Returns**: A messenger arrives at Júthara's laboratory bearing news that symptoms matching the plague she once fought have appeared in three different settlements simultaneously—far too coordinated to be natural spread. Investigation suggests someone may be deliberately spreading the disease. Júthara must decide whether to alert the authorities (risking her research being seized) or investigate covertly, which requires assistance from people of action she doesn't naturally trust.
+The Plague Returns
+: A messenger arrives at Júthara's laboratory bearing news that symptoms matching the plague she once fought have appeared in three different settlements simultaneously—far too coordinated to be natural spread. Investigation suggests someone may be deliberately spreading the disease. Júthara must decide whether to alert the authorities (risking her research being seized) or investigate covertly, which requires assistance from people of action she doesn't naturally trust.
 
-2. **The Forbidden Experiment**: A mysterious patron offers Júthara unlimited resources and access to restricted subjects—criminals and beggars—to continue her most controversial research into the boundary between natural disease and supernatural corruption. The offer is tempting and the patron's motives initially seem purely scientific, but evidence gradually emerges that they are actually seeking a way to weaponize her discoveries. She must navigate whether to proceed for the sake of knowledge or step back from a project that could transform her into a tool of destruction.
+The Forbidden Experiment
+: A mysterious patron offers Júthara unlimited resources and access to restricted subjects—criminals and beggars—to continue her most controversial research into the boundary between natural disease and supernatural corruption. The offer is tempting and the patron's motives initially seem purely scientific, but evidence gradually emerges that they are actually seeking a way to weaponize her discoveries. She must navigate whether to proceed for the sake of knowledge or step back from a project that could transform her into a tool of destruction.
 
-3. **Tabira's Secret**: Her beloved mentor **Tabira the Wise** is dying from a condition Júthara cannot diagnose. During a desperate attempt to understand the illness, she discovers evidence in Tabira's private notes that her mentor was herself involved in the plague research thirty years ago—and may have caused the outbreak Júthara spent five years investigating. Júthara must choose between confronting Tabira and potentially losing her final years together, or burying the truth and living with the knowledge that justice may never come.
+Tabira's Secret
+: Her beloved mentor **Tabira the Wise** is dying from a condition Júthara cannot diagnose. During a desperate attempt to understand the illness, she discovers evidence in Tabira's private notes that her mentor was herself involved in the plague research thirty years ago—and may have caused the outbreak Júthara spent five years investigating. Júthara must choose between confronting Tabira and potentially losing her final years together, or burying the truth and living with the knowledge that justice may never come.
 
-4. **The Alchemical Breakthrough**: A young alchemist from outside the Matriarchy arrives with evidence of a transmutation process that could revolutionize medicine. However, the process requires components Júthara knows to be fundamentally corrupting—things that should not be mixed in the natural world. She must decide whether to suppress potentially world-changing knowledge or explore it despite her grave reservations about the consequences.
+The Alchemical Breakthrough
+: A young alchemist from outside the Matriarchy arrives with evidence of a transmutation process that could revolutionize medicine. However, the process requires components Júthara knows to be fundamentally corrupting—things that should not be mixed in the natural world. She must decide whether to suppress potentially world-changing knowledge or explore it despite her grave reservations about the consequences.
 
-5. **Invitation to Darkness**: The mysterious individual causing the plague deliberately sends Júthara a message, revealing that they know about her five-year disappearance and her most shameful experiments. They offer her a choice: join them in exploring the true nature of the corruption she discovered, or watch as they reveal her secrets to the Council, destroying her life's work and reputation. Refusal is not really an option, forcing her into an alliance with forces she does not understand.
+Invitation to Darkness
+: The mysterious individual causing the plague deliberately sends Júthara a message, revealing that they know about her five-year disappearance and her most shameful experiments. They offer her a choice: join them in exploring the true nature of the corruption she discovered, or watch as they reveal her secrets to the Council, destroying her life's work and reputation. Refusal is not really an option, forcing her into an alliance with forces she does not understand.

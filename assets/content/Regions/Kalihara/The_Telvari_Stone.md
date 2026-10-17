@@ -42,8 +42,17 @@ Telvari is reached by sea, and the stone is a walk across the islet from the tow
 
 ## See Also
 
-- [[place-telvari|Telvari]]—the pilots' islet the stone stands on
-- [[place-thalari|Thal'ari]]—the sanctuary that forms the custodians of the coast
-- [[place-vaelukoa|Vaelukoa]]—the reef village of the pilots, beside a current-stone of its own
-- [[affiliation-kalihara|Kalihara]]—the polity and its Warden of the Approaches
-- [[lore-itharisul|Ithasul]]—the substance of the works, and the states a work passes through
+[[place-telvari|Telvari]]
+: the pilots' islet the stone stands on
+
+[[place-thalari|Thal'ari]]
+: the sanctuary that forms the custodians of the coast
+
+[[place-vaelukoa|Vaelukoa]]
+: the reef village of the pilots, beside a current-stone of its own
+
+[[affiliation-kalihara|Kalihara]]
+: the polity and its Warden of the Approaches
+
+[[lore-itharisul|Ithasul]]
+: the substance of the works, and the states a work passes through

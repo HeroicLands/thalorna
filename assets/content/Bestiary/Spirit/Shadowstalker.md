@@ -462,20 +462,29 @@ Disease does not touch it and necrotic magic barely does. Light and holy power h
 
 ## Attributes
 
-- **Strength:** 11-16 (1d6+10)
+Strength
+: 11-16 (1d6+10)
 
-- **Endurance:** 14-17 (1d4+13)
+Endurance
+: 14-17 (1d4+13)
 
-- **Dexterity:** 15-20 (1d6+14)
+Dexterity
+: 15-20 (1d6+14)
 
-- **Agility:** 15-20 (1d6+14)
+Agility
+: 15-20 (1d6+14)
 
-- **Perception:** 14-17 (1d4+13)
+Perception
+: 14-17 (1d4+13)
 
-- **Aura:** 17-22 (1d6+16)
+Aura
+: 17-22 (1d6+16)
 
-- **Will:** 15-20 (1d6+14)
+Will
+: 15-20 (1d6+14)
 
-- **Reasoning:** 11-16 (1d6+10)
+Reasoning
+: 11-16 (1d6+10)
 
-- **Creativity:** 14-17 (1d4+13)
+Creativity
+: 14-17 (1d4+13)

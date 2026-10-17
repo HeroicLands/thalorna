@@ -388,20 +388,29 @@ Rarely, and never by compulsion, a gryphon chooses a person and stays chosen. It
 
 ## Attributes
 
-- **Strength:** 15-20 (1d6+14)
+Strength
+: 15-20 (1d6+14)
 
-- **Endurance:** 11-16 (1d6+10)
+Endurance
+: 11-16 (1d6+10)
 
-- **Agility:** 12-17 (1d6+11)
+Agility
+: 12-17 (1d6+11)
 
-- **Perception:** 17-22 (1d6+16)
+Perception
+: 17-22 (1d6+16)
 
-- **Scent:** 2-5 (1d4+1)
+Scent
+: 2-5 (1d4+1)
 
-- **Aura:** 6-9 (1d4+5)
+Aura
+: 6-9 (1d4+5)
 
-- **Will:** 11-16 (1d6+10)
+Will
+: 11-16 (1d6+10)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

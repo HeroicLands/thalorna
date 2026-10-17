@@ -291,20 +291,29 @@ Falcons have been trained since ancient times as hunting companions to nobility 
 
 ## Attributes
 
-- **Strength:** 1-4 (1d4)
+Strength
+: 1-4 (1d4)
 
-- **Endurance:** 7-10 (1d4+6)
+Endurance
+: 7-10 (1d4+6)
 
-- **Agility:** 11-16 (1d6+10)
+Agility
+: 11-16 (1d6+10)
 
-- **Perception:** 22-27 (1d6+21)
+Perception
+: 22-27 (1d6+21)
 
-- **Scent:** 2-5 (1d4+1)
+Scent
+: 2-5 (1d4+1)
 
-- **Aura:** 3-6 (1d4+2)
+Aura
+: 3-6 (1d4+2)
 
-- **Will:** 7-10 (1d4+6)
+Will
+: 7-10 (1d4+6)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

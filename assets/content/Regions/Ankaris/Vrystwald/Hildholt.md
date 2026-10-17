@@ -26,6 +26,11 @@ The Other Chief holds the strongest of the village's three seats, but the other 
 
 ## See Also
 
-- [[place-skathwald|Skathwald]]—the reach around the village
-- [[place-wulfstein|Wulfstein]] and [[place-vandgrund|Vandgrund]]—neighboring villages reached by forest tracks
-- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—the wider web of independent villages
+[[place-skathwald|Skathwald]]
+: the reach around the village
+
+[[place-wulfstein|Wulfstein]] and [[place-vandgrund|Vandgrund]]
+: neighboring villages reached by forest tracks
+
+[[affiliation-vrystwldtrbs|Vristwald Tribes]]
+: the wider web of independent villages

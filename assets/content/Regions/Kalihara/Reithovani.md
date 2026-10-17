@@ -37,6 +37,11 @@ Reithovani lies along the coast path south of Ilovanu, half a day's walk through
 
 ## See Also
 
-- [[place-ilovanu|Ilovanu]]—the port to the north
-- [[place-narivothei|Narivothei]]—an inland village whose stone has gone dark
-- [[place-kaliharargn|Kalihara Region]]—the island's country
+[[place-ilovanu|Ilovanu]]
+: the port to the north
+
+[[place-narivothei|Narivothei]]
+: an inland village whose stone has gone dark
+
+[[place-kaliharargn|Kalihara Region]]
+: the island's country

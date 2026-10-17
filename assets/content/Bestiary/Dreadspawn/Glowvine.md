@@ -249,20 +249,29 @@ In darkness and damp it slowly regrows what it loses. Bright light stops its gro
 
 ## Attributes
 
-- **Strength:** 11-16 (1d6+10)
+Strength
+: 11-16 (1d6+10)
 
-- **Endurance:** 11-16 (1d6+10)
+Endurance
+: 11-16 (1d6+10)
 
-- **Dexterity:** 10-13 (1d4+9)
+Dexterity
+: 10-13 (1d4+9)
 
-- **Agility:** 7-12 (1d6+6)
+Agility
+: 7-12 (1d6+6)
 
-- **Perception:** 10-13 (1d4+9)
+Perception
+: 10-13 (1d4+9)
 
-- **Aura:** 10-13 (1d4+9)
+Aura
+: 10-13 (1d4+9)
 
-- **Will:** 7-12 (1d6+6)
+Will
+: 7-12 (1d6+6)
 
-- **Reasoning:** 5-10 (1d6+4)
+Reasoning
+: 5-10 (1d6+4)
 
-- **Creativity:** 7-12 (1d6+6)
+Creativity
+: 7-12 (1d6+6)

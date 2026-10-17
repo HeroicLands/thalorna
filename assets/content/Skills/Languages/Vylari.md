@@ -5448,11 +5448,20 @@ The empire took words from every people it ruled, chiefly terms of craft, trade 
 
 ## Sample Phrases
 
-- **"Ulthandoi okointor denon zaron, ul kalmetharen."**—"May the gods see this oath, and the ancestors." (High Vylari: the opening of a sworn oath.)
-- **"Daimela, orfenamen."**—"Patron, I am in your debt." (The client's greeting at the morning call; no pronoun, since saying "I" aloud would be forward.)
-- **"A' thelmos lokator; a' daimela falvator."**—"The client's come; the patron's out." (Alessa street speech, with the worn-down article.)
-- **"Humelthandar yaretor."**—"It is resting." (Said of a ruin, with a straight face.)
-- **"Theson!"**—"That thing of yours!" (A free person named in the neuter: the gravest insult the grammar allows.)
+"Ulthandoi okointor denon zaron, ul kalmetharen."
+: "May the gods see this oath, and the ancestors." (High Vylari: the opening of a sworn oath.)
+
+"Daimela, orfenamen."
+: "Patron, I am in your debt." (The client's greeting at the morning call; no pronoun, since saying "I" aloud would be forward.)
+
+"A' thelmos lokator; a' daimela falvator."
+: "The client's come; the patron's out." (Alessa street speech, with the worn-down article.)
+
+"Humelthandar yaretor."
+: "It is resting." (Said of a ruin, with a straight face.)
+
+"Theson!"
+: "That thing of yours!" (A free person named in the neuter: the gravest insult the grammar allows.)
 
 ## Related Languages
 

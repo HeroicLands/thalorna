@@ -434,12 +434,17 @@ Few; has generally earned the respect of the community.
 
 ## Plot Hooks
 
-1. **The Thatcher's Dilemma**—Volira faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
+The Thatcher's Dilemma
+: Volira faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
 
-2. **Old Grudges**—Few; has generally earned the respect of the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: Few; has generally earned the respect of the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Volira's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+Echoes of the Past
+: Something from Volira's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Volira depends upon. She must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Provenzia threaten to upend the social order that Volira depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Volira the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Volira the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

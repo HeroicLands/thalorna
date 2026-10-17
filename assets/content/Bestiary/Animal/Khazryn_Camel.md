@@ -306,20 +306,29 @@ Generations of natural selection for harsh environments have resulted in thick, 
 
 ## Attributes
 
-- **Strength:** 13-18 (1d6+12)
+Strength
+: 13-18 (1d6+12)
 
-- **Endurance:** 16-21 (1d6+15)
+Endurance
+: 16-21 (1d6+15)
 
-- **Dexterity:** 8-11 (1d4+7)
+Dexterity
+: 8-11 (1d4+7)
 
-- **Agility:** 7-10 (1d4+6)
+Agility
+: 7-10 (1d4+6)
 
-- **Perception:** 9-14 (1d6+8)
+Perception
+: 9-14 (1d6+8)
 
-- **Aura:** 6-9 (1d4+5)
+Aura
+: 6-9 (1d4+5)
 
-- **Will:** 10-15 (1d6+9)
+Will
+: 10-15 (1d6+9)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

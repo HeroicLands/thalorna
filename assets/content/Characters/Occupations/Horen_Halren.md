@@ -432,10 +432,14 @@ The guides who take paying visitors past the edge the [[affiliation-alndnwrdns|�
 
 ## Plot Hooks
 
-1. **The Seizure**—The forest court has condemned a haulier's whole season of timber as cut over license, and Horen is to seize it. The haulier is his father's oldest friend.
+The Seizure
+: The forest court has condemned a haulier's whole season of timber as cut over license, and Horen is to seize it. The haulier is his father's oldest friend.
 
-2. **The Beacon**—A beacon has been lit on the Lísere headlands and the Lirve levy is called. Horen's name is on the roll, and the Forester has said the town cannot spare him.
+The Beacon
+: A beacon has been lit on the Lísere headlands and the Lirve levy is called. Horen's name is on the roll, and the Forester has said the town cannot spare him.
 
-3. **The Guide**—A guide's party went into the deep wood a fortnight ago and has not come out, and the family wants Horen to go in after them. The Wardens have said nobody is to.
+The Guide
+: A guide's party went into the deep wood a fortnight ago and has not come out, and the family wants Horen to go in after them. The Wardens have said nobody is to.
 
-4. **The Old Comrade**—A man Horen stood beside on the Lísere shore is now cutting unlicensed oak above Liranel, and he has asked Horen, as a comrade, to look the other way once.
+The Old Comrade
+: A man Horen stood beside on the Lísere shore is now cutting unlicensed oak above Liranel, and he has asked Horen, as a comrade, to look the other way once.

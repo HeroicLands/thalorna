@@ -97,10 +97,23 @@ Tribute flows constantly to the temples: the finest goods, the most precious off
 
 ## See Also
 
-- [[affiliation-kuxiixbal|K'ushi Ish'bal]]—The transitional realm to the south
-- [[place-nepaxel|Ne' P'ashel]]—The great river-junction city
-- [[place-nekiahkul|Ne' Ki'ahkul]]—Volcanic highlands and metalwork center
-- [[place-tzalamne|Ts'alam Ne']]—Coastal port and maritime power
-- [[place-tzalamtzltl|Ts'alam Ts'ultel]]—Mountain fortress defending the passes
-- [[affiliation-itzanpnthn|Itsani]]—The unified priesthood binding the realm
-- [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]]—The land Ish'bal Tsa'ku holds
+[[affiliation-kuxiixbal|K'ushi Ish'bal]]
+: The transitional realm to the south
+
+[[place-nepaxel|Ne' P'ashel]]
+: The great river-junction city
+
+[[place-nekiahkul|Ne' Ki'ahkul]]
+: Volcanic highlands and metalwork center
+
+[[place-tzalamne|Ts'alam Ne']]
+: Coastal port and maritime power
+
+[[place-tzalamtzltl|Ts'alam Ts'ultel]]
+: Mountain fortress defending the passes
+
+[[affiliation-itzanpnthn|Itsani]]
+: The unified priesthood binding the realm
+
+[[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]]
+: The land Ish'bal Tsa'ku holds

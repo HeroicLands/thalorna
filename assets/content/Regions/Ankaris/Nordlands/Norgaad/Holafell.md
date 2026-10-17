@@ -24,6 +24,11 @@ The Giant's Children at Holafell tell the famine of [[lore-threewinters|The Thre
 
 ## See Also
 
-- [[affiliation-hrimthur|Faith of Hrimthur]]—the faith whose oldest hov this is
-- [[affiliation-thursborn|Giant's Children]]—the order whose senior rites are held here
-- [[lore-nrgadhstry|Histories and Legends of Norgaad]]—the Three Winters and Holafell's Wound
+[[affiliation-hrimthur|Faith of Hrimthur]]
+: the faith whose oldest hov this is
+
+[[affiliation-thursborn|Giant's Children]]
+: the order whose senior rites are held here
+
+[[lore-nrgadhstry|Histories and Legends of Norgaad]]
+: the Three Winters and Holafell's Wound

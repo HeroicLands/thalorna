@@ -453,19 +453,37 @@ Vishvambharakhila is motivated by a deep-seated fear of losing what he has achie
 
 ### Strengths
 
-- **Business Acumen**: Vishvambharakhila possesses a deep understanding of commerce, economics, and human psychology. He can assess market conditions, identify opportunities, and execute strategies with precision.
-- **Masterful Marketing and Persuasion**: He understands the art of creating desire and managing reputation. His ability to convince people that his products are worth premium prices is nearly unrivaled.
-- **Skilled Craftsperson**: Though he no longer spends most of his time on production, Vishvambharakhila remains an accomplished chandler and perfumer. His understanding of scent, dye, and material quality is real.
-- **Learned Discourse**: He can discuss philosophy, aesthetics, culture, and history with apparent erudition. His conversational skills allow him to build rapport with even difficult personalities.
-- **Strategic Thinking**: Vishvambharakhila thinks several moves ahead, anticipating market changes and competitor responses. His strategic patience is outstanding.
+Business Acumen
+: Vishvambharakhila possesses a deep understanding of commerce, economics, and human psychology. He can assess market conditions, identify opportunities, and execute strategies with precision.
+
+Masterful Marketing and Persuasion
+: He understands the art of creating desire and managing reputation. His ability to convince people that his products are worth premium prices is nearly unrivaled.
+
+Skilled Craftsperson
+: Though he no longer spends most of his time on production, Vishvambharakhila remains an accomplished chandler and perfumer. His understanding of scent, dye, and material quality is real.
+
+Learned Discourse
+: He can discuss philosophy, aesthetics, culture, and history with apparent erudition. His conversational skills allow him to build rapport with even difficult personalities.
+
+Strategic Thinking
+: Vishvambharakhila thinks several moves ahead, anticipating market changes and competitor responses. His strategic patience is outstanding.
 
 ### Weaknesses
 
-- **Ethical Flexibility**: Vishvambharakhila's commitment to profit overrides moral considerations with troubling ease. He rationalizes exploitative practices and has driven multiple competitors into ruin without significant regret.
-- **Emotional Distance**: His transactional approach to relationships means he has no friendships or emotional intimacy. He is fundamentally isolated despite his wealth and status.
-- **Vulnerability to Economic Disruption**: Vishvambharakhila's prosperity depends on maintaining market dominance and favorable conditions. Any major disruption—competition, changes in tastes of the great houses, economic downturn—threatens his carefully constructed empire.
-- **Physical Limitations**: He has no combat experience or physical prowess. His influence derives entirely from economic and social power, making him vulnerable in any situation requiring direct confrontation.
-- **Arrogance and Blindness**: His success has bred confidence that can tip into arrogance. He sometimes fails to anticipate problems or underestimates opponents because he has become accustomed to prevailing through superior cunning.
+Ethical Flexibility
+: Vishvambharakhila's commitment to profit overrides moral considerations with troubling ease. He rationalizes exploitative practices and has driven multiple competitors into ruin without significant regret.
+
+Emotional Distance
+: His transactional approach to relationships means he has no friendships or emotional intimacy. He is fundamentally isolated despite his wealth and status.
+
+Vulnerability to Economic Disruption
+: Vishvambharakhila's prosperity depends on maintaining market dominance and favorable conditions. Any major disruption—competition, changes in tastes of the great houses, economic downturn—threatens his carefully constructed empire.
+
+Physical Limitations
+: He has no combat experience or physical prowess. His influence derives entirely from economic and social power, making him vulnerable in any situation requiring direct confrontation.
+
+Arrogance and Blindness
+: His success has bred confidence that can tip into arrogance. He sometimes fails to anticipate problems or underestimates opponents because he has become accustomed to prevailing through superior cunning.
 
 ## Social
 
@@ -495,12 +513,17 @@ The Urban Craft Shrena
 
 ## Plot Hooks
 
-1. **The Quality Problem**: Vishvambharakhila discovers that his cost-cutting measures have resulted in structural problems with his candles—they release toxic fumes when burned, a quality that could cause widespread illness if discovered. He must decide whether to publicly recall the products and damage both his reputation and profits, attempt to quietly fix future production while leaving dangerous candles in circulation, or find some middle path that involves covering up the problem. Meanwhile, a child of a great house becomes ill, apparently from candle exposure, and investigators begin looking into his operation.
+The Quality Problem
+: Vishvambharakhila discovers that his cost-cutting measures have resulted in structural problems with his candles—they release toxic fumes when burned, a quality that could cause widespread illness if discovered. He must decide whether to publicly recall the products and damage both his reputation and profits, attempt to quietly fix future production while leaving dangerous candles in circulation, or find some middle path that involves covering up the problem. Meanwhile, a child of a great house becomes ill, apparently from candle exposure, and investigators begin looking into his operation.
 
-2. **The Desperate Supplier**: A craftsperson named **Dipanava**, who supplies Vishvambharakhila with rare scenting oils, faces financial ruin and approaches him with a proposal: invest in Dipanava's operation and become partners rather than merchant-supplier. Vishvambharakhila's instinct is to let Dipanava fail and acquire the operation at bankruptcy prices. However, Dipanava possesses secrets about Vishvambharakhila's previous business dealings that, if revealed, could damage his reputation and legal standing. The negotiation becomes a dangerous game of manipulation and blackmail.
+The Desperate Supplier
+: A craftsperson named **Dipanava**, who supplies Vishvambharakhila with rare scenting oils, faces financial ruin and approaches him with a proposal: invest in Dipanava's operation and become partners rather than merchant-supplier. Vishvambharakhila's instinct is to let Dipanava fail and acquire the operation at bankruptcy prices. However, Dipanava possesses secrets about Vishvambharakhila's previous business dealings that, if revealed, could damage his reputation and legal standing. The negotiation becomes a dangerous game of manipulation and blackmail.
 
-3. **The Counterfeit Crisis**: Vishvambharakhila discovers that someone is manufacturing counterfeit versions of his signature candles—cheap, inferior copies that are nonetheless being sold under his mark. The counterfeits are damaging his reputation while enriching an unknown rival. Investigation reveals a complex smuggling operation that involves members of the Urban Craft Shrena and possibly even some of his own employees. Protecting his business requires navigating shrena politics, criminal underworlds, and the possibility that those he trusts are complicit.
+The Counterfeit Crisis
+: Vishvambharakhila discovers that someone is manufacturing counterfeit versions of his signature candles—cheap, inferior copies that are nonetheless being sold under his mark. The counterfeits are damaging his reputation while enriching an unknown rival. Investigation reveals a complex smuggling operation that involves members of the Urban Craft Shrena and possibly even some of his own employees. Protecting his business requires navigating shrena politics, criminal underworlds, and the possibility that those he trusts are complicit.
 
-4. **The Reformer's Challenge**: A charismatic young merchant reformer named **Sarvath** arrives in the Vedyara city-states, preaching against exactly the kind of exploitative practices Vishvambharakhila has built his fortune upon. Sarvath's movement gains considerable following among craftspeople and Karmija. Rather than viewing this as a threat to be crushed, Vishvambharakhila sees an opportunity: if he could convert Sarvath or discredit him, he could inoculate his position against reform movements. He sets out to either co-opt the reformer or destroy his credibility, only to discover that Sarvath is far more strong than expected.
+The Reformer's Challenge
+: A charismatic young merchant reformer named **Sarvath** arrives in the Vedyara city-states, preaching against exactly the kind of exploitative practices Vishvambharakhila has built his fortune upon. Sarvath's movement gains considerable following among craftspeople and Karmija. Rather than viewing this as a threat to be crushed, Vishvambharakhila sees an opportunity: if he could convert Sarvath or discredit him, he could inoculate his position against reform movements. He sets out to either co-opt the reformer or destroy his credibility, only to discover that Sarvath is far more strong than expected.
 
-5. **The Inheritance Trap**: Vishvambharakhila's younger brother, estranged for years due to their father's favoritism of Vishvambharakhila's commerce-focused approach, unexpectedly appears with evidence that their father left a second will—one that Vishvambharakhila is unaware of. The brother offers to keep the will secret in exchange for a substantial share of Vishvambharakhila's current fortune and a position in his enterprise. Vishvambharakhila must either submit to extortion, attempt to suppress the will through corruption, or confront the possibility that his entire understanding of his father's relationship to him is false.
+The Inheritance Trap
+: Vishvambharakhila's younger brother, estranged for years due to their father's favoritism of Vishvambharakhila's commerce-focused approach, unexpectedly appears with evidence that their father left a second will—one that Vishvambharakhila is unaware of. The brother offers to keep the will secret in exchange for a substantial share of Vishvambharakhila's current fortune and a position in his enterprise. Vishvambharakhila must either submit to extortion, attempt to suppress the will through corruption, or confront the possibility that his entire understanding of his father's relationship to him is false.

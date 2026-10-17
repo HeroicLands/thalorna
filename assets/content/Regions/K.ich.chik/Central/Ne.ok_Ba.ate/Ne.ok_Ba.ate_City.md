@@ -24,7 +24,14 @@ The coast is two coasts. The western shore is rocky and violent, with few harbor
 
 ## See Also
 
-- [[affiliation-neokbaate|Ne'ok Ba'ate]]—the realm and its independent Sun Lords
-- [[place-neokbaatergn|Ne'ok Ba'ate Region]]—the isthmus
-- [[affiliation-ixilankul|Ish'ilankul]]—the paramount realm, whose ambitions press on the isthmus
-- [[place-cntrlkchchk|Central K'ich'chik]]—the four realms of the heartland
+[[affiliation-neokbaate|Ne'ok Ba'ate]]
+: the realm and its independent Sun Lords
+
+[[place-neokbaatergn|Ne'ok Ba'ate Region]]
+: the isthmus
+
+[[affiliation-ixilankul|Ish'ilankul]]
+: the paramount realm, whose ambitions press on the isthmus
+
+[[place-cntrlkchchk|Central K'ich'chik]]
+: the four realms of the heartland

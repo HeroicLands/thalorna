@@ -18,5 +18,8 @@ Dúnavarre and Ondareth share a border and compete for influence over the southe
 
 ## See Also
 
-- [[affiliation-panepistmm|Epistémion]]—the institution whose chapterhouse the city keeps
-- [[place-dunavarre|Dúnavarre]] and [[place-ondareth|Ondareth]]—the two neighbors it stands between
+[[affiliation-panepistmm|Epistémion]]
+: the institution whose chapterhouse the city keeps
+
+[[place-dunavarre|Dúnavarre]] and [[place-ondareth|Ondareth]]
+: the two neighbors it stands between

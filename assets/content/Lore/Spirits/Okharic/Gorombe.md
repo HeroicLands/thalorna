@@ -8,10 +8,17 @@ tags: [draft, nkaruthar]
 data: {packFolder: lorespiritsokharic, culture: okharinclt}
 ---
 
-- **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
-- **Domain:** Storms
-- **Also called:** the Thunder Above
-- **Met through:** [[skill-gorombesprt|Gorombe Spirit Power]], in the [[affiliation-yenorzhrng|Yenor Zohiring]]
+Kind
+: [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
+
+Domain
+: Storms
+
+Also called
+: the Thunder Above
+
+Met through
+: [[skill-gorombesprt|Gorombe Spirit Power]], in the [[affiliation-yenorzhrng|Yenor Zohiring]]
 
 Gorombe is the storm, and dealing with him is a matter of timing. He does not answer during
 a storm; shamans who have tried report nothing, or worse. What can be done is done before the

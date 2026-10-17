@@ -54,7 +54,14 @@ The count is Vedyara's alone. Nobody west of the march road or north of the wall
 
 ## See Also
 
-- [[lore-mdhvndrcnt|The Madustana Count]]—the year-count dated from the reign
-- [[place-madhavendra|Madustana]]—the ruined capital
-- [[skill-vedyarlng|Vedyari]]—the language the reign standardized
-- [[lore-mhndkngdm|The Kingdom of Mahanodi]]—an older dynasty that moved its capital to Rajepur in the same year
+[[lore-mdhvndrcnt|The Madustana Count]]
+: the year-count dated from the reign
+
+[[place-madhavendra|Madustana]]
+: the ruined capital
+
+[[skill-vedyarlng|Vedyari]]
+: the language the reign standardized
+
+[[lore-mhndkngdm|The Kingdom of Mahanodi]]
+: an older dynasty that moved its capital to Rajepur in the same year

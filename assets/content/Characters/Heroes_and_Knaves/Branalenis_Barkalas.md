@@ -463,21 +463,43 @@ Yet in the immediate sense, she is driven by competition and the relentless need
 
 ### Strengths
 
-- **Seamanship**: Branalenis' understanding of sailing, navigation, and the working of ships is of the first rank. She can read weather, currents, and ship handling with an almost intuitive accuracy that seems to border on prescience.
-- **Physical Excellence**: Her strength, agility, and climbing ability are outstanding even among lifelong sailors. She can accomplish feats of physical prowess that others cannot replicate.
-- **Quick Problem Solving**: She possesses a practical intelligence that enables her to rapidly assess problems and devise creative solutions, particularly in crisis situations.
-- **Dexterity and Hand-Eye Coordination**: Her hands are unusually skilled—fine control, rapid reaction times, and ability to execute complex physical tasks with precision.
-- **Leadership Potential**: Though she has never held formal authority, her influence among crews is substantial. People naturally defer to her competence and follow her guidance, even unofficially.
-- **Resilience**: She has weathered storms—literal and metaphorical—that would have broken others. She possesses real toughness, of body and of mind.
+Seamanship
+: Branalenis' understanding of sailing, navigation, and the working of ships is of the first rank. She can read weather, currents, and ship handling with an almost intuitive accuracy that seems to border on prescience.
+
+Physical Excellence
+: Her strength, agility, and climbing ability are outstanding even among lifelong sailors. She can accomplish feats of physical prowess that others cannot replicate.
+
+Quick Problem Solving
+: She possesses a practical intelligence that enables her to rapidly assess problems and devise creative solutions, particularly in crisis situations.
+
+Dexterity and Hand-Eye Coordination
+: Her hands are unusually skilled—fine control, rapid reaction times, and ability to execute complex physical tasks with precision.
+
+Leadership Potential
+: Though she has never held formal authority, her influence among crews is substantial. People naturally defer to her competence and follow her guidance, even unofficially.
+
+Resilience
+: She has weathered storms—literal and metaphorical—that would have broken others. She possesses real toughness, of body and of mind.
 
 ### Weaknesses
 
-- **Emotional Isolation**: Her inability to form real emotional connections leaves her deeply lonely despite being surrounded by people. She cannot ask for help, cannot admit weakness, cannot truly rest.
-- **Excessive Competitiveness**: Her need to prove herself superior often causes her to take unnecessary risks or to antagonize others unnecessarily. Her competitiveness can become destructive.
-- **Vulnerability Avoidance**: She will go to extraordinary lengths to avoid situations requiring her to be vulnerable or dependent. This often costs her opportunities for real connection and growth.
-- **Untrusting Nature**: Having never fully trusted anyone since Captain Kaldremis's death, Branalenis approaches new relationships with deep skepticism. She assumes everyone is viewing her as a passing convenience rather than a person.
-- **Restlessness**: She cannot settle. Moving from ship to ship prevents her from building stability or community, yet the thought of staying in one place terrifies her.
-- **Tendency Toward Recklessness**: When frustrated or bored, Branalenis becomes willing to take unnecessary risks, often putting herself and others in danger unnecessarily.
+Emotional Isolation
+: Her inability to form real emotional connections leaves her deeply lonely despite being surrounded by people. She cannot ask for help, cannot admit weakness, cannot truly rest.
+
+Excessive Competitiveness
+: Her need to prove herself superior often causes her to take unnecessary risks or to antagonize others unnecessarily. Her competitiveness can become destructive.
+
+Vulnerability Avoidance
+: She will go to extraordinary lengths to avoid situations requiring her to be vulnerable or dependent. This often costs her opportunities for real connection and growth.
+
+Untrusting Nature
+: Having never fully trusted anyone since Captain Kaldremis's death, Branalenis approaches new relationships with deep skepticism. She assumes everyone is viewing her as a passing convenience rather than a person.
+
+Restlessness
+: She cannot settle. Moving from ship to ship prevents her from building stability or community, yet the thought of staying in one place terrifies her.
+
+Tendency Toward Recklessness
+: When frustrated or bored, Branalenis becomes willing to take unnecessary risks, often putting herself and others in danger unnecessarily.
 
 ## Social
 
@@ -516,12 +538,17 @@ Independent Maritime Community
 
 ## Plot Hooks
 
-1. **The Impossible Ship**: A fabled vessel, supposedly lost decades ago with a cargo of incalculable value, surfaces in reports from distant waters. Multiple parties seek its location and salvage, and they approach Branalenis believing her skill is essential. However, the vessel's loss may not have been accidental, and recovering it might awaken forces best left undisturbed.
+The Impossible Ship
+: A fabled vessel, supposedly lost decades ago with a cargo of incalculable value, surfaces in reports from distant waters. Multiple parties seek its location and salvage, and they approach Branalenis believing her skill is essential. However, the vessel's loss may not have been accidental, and recovering it might awaken forces best left undisturbed.
 
-2. **The Deserter's Daughter**: A woman arrives in Alessa claiming to be the illegitimate daughter of a notorious pirate who operated decades ago. She possesses maps and documents suggesting her father buried vast treasures in hidden coves throughout the empire. She seeks Branalenis out specifically, believing only Branalenis' skill can thread the treacherous passages required to reach these locations. The question of whether this woman is what she claims or an elaborate trap becomes increasingly uncertain.
+The Deserter's Daughter
+: A woman arrives in Alessa claiming to be the illegitimate daughter of a notorious pirate who operated decades ago. She possesses maps and documents suggesting her father buried vast treasures in hidden coves throughout the empire. She seeks Branalenis out specifically, believing only Branalenis' skill can thread the treacherous passages required to reach these locations. The question of whether this woman is what she claims or an elaborate trap becomes increasingly uncertain.
 
-3. **The Drowned Temple**: Fishermen report discovering underwater structures in the deepest parts of the harbor—architectural features far too old and finely made to be natural. Branalenis is approached by scholars and priests who believe a submerged temple lies beneath the harbor, and they need someone with her maritime skills to explore it. What they find beneath the waves challenges fundamental assumptions about the history of the empire.
+The Drowned Temple
+: Fishermen report discovering underwater structures in the deepest parts of the harbor—architectural features far too old and finely made to be natural. Branalenis is approached by scholars and priests who believe a submerged temple lies beneath the harbor, and they need someone with her maritime skills to explore it. What they find beneath the waves challenges fundamental assumptions about the history of the empire.
 
-4. **The Sailing Contest**: A wealthy merchant announces a great sailing race across the empire—the winner receives land, title, and a substantial purse. For the first time, the competition is officially open to women as well as men. Branalenis sees this as an opportunity to prove herself definitively, but entering means competing against captains and sailors who have spent their entire lives in rivalry with her, and the race's course passes through territories where various factions would prefer she did not sail.
+The Sailing Contest
+: A wealthy merchant announces a great sailing race across the empire—the winner receives land, title, and a substantial purse. For the first time, the competition is officially open to women as well as men. Branalenis sees this as an opportunity to prove herself definitively, but entering means competing against captains and sailors who have spent their entire lives in rivalry with her, and the race's course passes through territories where various factions would prefer she did not sail.
 
-5. **The Captain's Legacy**: An elderly sailor who claims to have known Captain Kaldremis approaches Branalenis from his deathbed, asking her to deliver a sealed letter to "whoever succeeds in captaining a ship of true honor." He dies before explaining what this means. Investigating the letter's true contents puts Branalenis on a collision course with powerful shipping lords and puts to her the question of what she truly wants her life to become—a lone sailor of rare skill, or a leader capable of building something greater than herself.
+The Captain's Legacy
+: An elderly sailor who claims to have known Captain Kaldremis approaches Branalenis from his deathbed, asking her to deliver a sealed letter to "whoever succeeds in captaining a ship of true honor." He dies before explaining what this means. Investigating the letter's true contents puts Branalenis on a collision course with powerful shipping lords and puts to her the question of what she truly wants her life to become—a lone sailor of rare skill, or a leader capable of building something greater than herself.

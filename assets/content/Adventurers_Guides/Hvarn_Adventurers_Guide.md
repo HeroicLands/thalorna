@@ -36,11 +36,20 @@ A party can come up with a lowland factor for the contract renewal, or be hired 
 
 ## Where to Read Next
 
-- [[lore-hvarnclt|The Hvarn]]—the two halves of the year, the rotation and the roll
-- [[affiliation-hvarnguides|The Hvarn hearths]]—ranks and offices from the unhoused to the winter-speaker
-- [[place-estrnreach|The Eastern Reach]]—the crossings, the gorges and the weather
-- [[skill-hvarnlng|The Hvarn tongue]]—paired forms, vowelless words and names from the roll
-- [[lore-osketclt|The Osket]]—the other guide-people of the wall
+[[lore-hvarnclt|The Hvarn]]
+: the two halves of the year, the rotation and the roll
+
+[[affiliation-hvarnguides|The Hvarn hearths]]
+: ranks and offices from the unhoused to the winter-speaker
+
+[[place-estrnreach|The Eastern Reach]]
+: the crossings, the gorges and the weather
+
+[[skill-hvarnlng|The Hvarn tongue]]
+: paired forms, vowelless words and names from the roll
+
+[[lore-osketclt|The Osket]]
+: the other guide-people of the wall
 
 ## Glossary
 

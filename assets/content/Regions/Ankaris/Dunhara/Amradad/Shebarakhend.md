@@ -20,6 +20,11 @@ The city is a place of gardens behind walls, fed by the oasis that first drew th
 
 ## See Also
 
-- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the realm governed from here
-- [[place-amradadrgn|Amradad Region]]—the settled country around the city
-- [[place-tahrodan|Tahrodan]]—the larger fortress city of the caravan road
+[[affiliation-kngdmmrdd|Kingdom of Amradad]]
+: the realm governed from here
+
+[[place-amradadrgn|Amradad Region]]
+: the settled country around the city
+
+[[place-tahrodan|Tahrodan]]
+: the larger fortress city of the caravan road

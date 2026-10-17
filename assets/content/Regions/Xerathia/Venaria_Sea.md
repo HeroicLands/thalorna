@@ -18,5 +18,8 @@ The Venaria Sea lies on the pilgrim road of the astrologers of [[place-aukhelath
 
 ## See Also
 
-- [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]]—the astrologer who crossed it
-- [[place-beshakan|Beshakan]]—the desert on the same pilgrim road
+[[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]]
+: the astrologer who crossed it
+
+[[place-beshakan|Beshakan]]
+: the desert on the same pilgrim road

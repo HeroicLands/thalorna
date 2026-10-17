@@ -55,10 +55,17 @@ sohl: {system: {commonSkills: []}}
 
 _Gar'Melnu—Khelathi: "The House of the Mesnu"—the guild of metalworkers, after the ancient smith-harpooners who, in tradition, forged the weapons of [[lore-gewaatisdty|Gewa'atis]]_
 
-- Type: Imperial chartered guild
-- Region: [[place-aukhelathrgq|Au'Khelathu Region]]—central guildhouse at the capital, with chapter forges in every selat of consequence
-- Charter: Granted by the eleventh [[lore-garauu|Gar-Au]] of the present dynasty; renewed and confirmed by each succeeding Gar-Au
-- Tevran Maldor status: Not a member; independent [[lore-khelathiclt|Khelathi]] institution. It keeps a per-trade credential equivalence agreement with the [[lore-vylarianclt|Vylarian]] Smiths' federation, negotiated through the [[affiliation-tevran|Tevran Maldor]], for routine work. Master-rank elevations do not transfer in either direction.
+Type
+: Imperial chartered guild
+
+Region
+: [[place-aukhelathrgq|Au'Khelathu Region]]—central guildhouse at the capital, with chapter forges in every selat of consequence
+
+Charter
+: Granted by the eleventh [[lore-garauu|Gar-Au]] of the present dynasty; renewed and confirmed by each succeeding Gar-Au
+
+Tevran Maldor status
+: Not a member; independent [[lore-khelathiclt|Khelathi]] institution. It keeps a per-trade credential equivalence agreement with the [[lore-vylarianclt|Vylarian]] Smiths' federation, negotiated through the [[affiliation-tevran|Tevran Maldor]], for routine work. Master-rank elevations do not transfer in either direction.
 
 ## Overview
 
@@ -74,11 +81,20 @@ A master of the guild would put it to a new boy like this: "You will not touch m
 
 The ladder has five working ranks, and a rank is a statement about what you are trusted to seal.
 
-- Initiate (_sebau_)—admitted between ten and fourteen years of age, after showing suitable physical strength and passing an audition at a chapter forge. Initiates serve at the bellows and the charcoal pit for two to three years before anyone lets them near the metal.
-- Apprentice (_sba_)—three to seven years under a single master, learning forge management, basic shapes and the disciplines of copper and bronze. As with every craft in the empire, the apprenticeship is an entered undertaking: the master promises to teach, and a master who works a child as a laborer without teaching him has an open entry against him.
-- Journeyman (_melnu_)—qualified by examination and permitted to work independently on civilian commissions under a master's seal.
-- Master (_lem-Mesnu_)—promoted by senior vote after presenting an original work. A master may seal weapons and armor for imperial commissions, take apprentices and sit on chapter councils.
-- Great Smith (_wer-Mesnu_)—the most senior masters, who convene as the **[Council of Smiths]{.name data-type="affiliation/governmental"}** at the central guildhouse, advise the Gar-Au's quartermasters and adjudicate guild disputes.
+Initiate (_sebau_)
+: admitted between ten and fourteen years of age, after showing suitable physical strength and passing an audition at a chapter forge. Initiates serve at the bellows and the charcoal pit for two to three years before anyone lets them near the metal.
+
+Apprentice (_sba_)
+: three to seven years under a single master, learning forge management, basic shapes and the disciplines of copper and bronze. As with every craft in the empire, the apprenticeship is an entered undertaking: the master promises to teach, and a master who works a child as a laborer without teaching him has an open entry against him.
+
+Journeyman (_melnu_)
+: qualified by examination and permitted to work independently on civilian commissions under a master's seal.
+
+Master (_lem-Mesnu_)
+: promoted by senior vote after presenting an original work. A master may seal weapons and armor for imperial commissions, take apprentices and sit on chapter councils.
+
+Great Smith (_wer-Mesnu_)
+: the most senior masters, who convene as the **[Council of Smiths]{.name data-type="affiliation/governmental"}** at the central guildhouse, advise the Gar-Au's quartermasters and adjudicate guild disputes.
 
 A smith whose sealed work fails loses the master's seal; the rank table calls that standing Revoked Seal.
 
@@ -125,8 +141,17 @@ A guild master's seal is a brass die carrying his personal mark and the cartouch
 
 ## See Also
 
-- [[affiliation-garnuw|Gar'Nuw]]—The hunters' guild, sibling imperial chartered guild
-- [[affiliation-garhalzi|Gar-Hálzi]]—The temple treasury that supervises the striking of the weight-pieces
-- [[affiliation-genzetgarau|Genzet'Gar-Au]]—The patron court
-- [[affiliation-tevran|Tevran Maldor]]—The Vylarian body through which the credential agreement runs
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[affiliation-garnuw|Gar'Nuw]]
+: The hunters' guild, sibling imperial chartered guild
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: The temple treasury that supervises the striking of the weight-pieces
+
+[[affiliation-genzetgarau|Genzet'Gar-Au]]
+: The patron court
+
+[[affiliation-tevran|Tevran Maldor]]
+: The Vylarian body through which the credential agreement runs
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

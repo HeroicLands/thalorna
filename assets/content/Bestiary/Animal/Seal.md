@@ -239,12 +239,29 @@ The seal's vibrissae can detect the hydrodynamic wake of a fish swimming nearby,
 
 ## Attributes
 
-- **Strength:** 7-10 (1d4+6) — Adequate for their size; jaws are strong but body is built for speed, not power
-- **Endurance:** 9-14 (1d6+8) — Good cold tolerance and diving stamina; blubber reserves for lean seasons
-- **Dexterity:** 11-16 (1d6+10) — Superb in water; capable of precision swimming and fish capture
-- **Agility:** 10-15 (1d6+9) — Excellent in water; clumsy on land
-- **Perception:** 11-16 (1d6+10) — Extraordinary underwater senses; large eyes for low-light vision
-- **Aura:** 5-8 (1d4+4) — Common and familiar; no special spiritual significance
-- **Will:** 7-10 (1d4+6) — Mild-tempered; prefers flight to fight
-- **Reasoning:** 6-9 (1d4+5) — Curious and somewhat intelligent; learns to avoid hunters
-- **Creativity:** 4-7 (1d4+3) — Limited
+Strength
+: 7-10 (1d4+6) — Adequate for their size; jaws are strong but body is built for speed, not power
+
+Endurance
+: 9-14 (1d6+8) — Good cold tolerance and diving stamina; blubber reserves for lean seasons
+
+Dexterity
+: 11-16 (1d6+10) — Superb in water; capable of precision swimming and fish capture
+
+Agility
+: 10-15 (1d6+9) — Excellent in water; clumsy on land
+
+Perception
+: 11-16 (1d6+10) — Extraordinary underwater senses; large eyes for low-light vision
+
+Aura
+: 5-8 (1d4+4) — Common and familiar; no special spiritual significance
+
+Will
+: 7-10 (1d4+6) — Mild-tempered; prefers flight to fight
+
+Reasoning
+: 6-9 (1d4+5) — Curious and somewhat intelligent; learns to avoid hunters
+
+Creativity
+: 4-7 (1d4+3) — Limited

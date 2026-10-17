@@ -99,9 +99,20 @@ Ish'ilankul is also the hub of the Ch'um Ish'lan, the great relay network of Ch'
 
 ## See Also
 
-- [[affiliation-kankul|K'ankul]]—The limestone lowlands to the east, tributary to Ish'ilankul's religious authority
-- [[affiliation-neokbaate|Ne'ok Ba'ate]]—The isthmus gateway, where highland and coastal trade routes intersect
-- [[affiliation-xelem|Shelem]]—The eastern frontier, source of exotic goods and sacred materials
-- [[affiliation-itzanpnthn|Itsani Pantheon]]—The divine framework that grants Ish'ilankul its religious authority
-- [[place-tzomalchalix|Ts'omal Ch'alish]]—The Sacred Foundation, holiest pilgrimage site in K'ich'chik
-- [[place-ixilankulrgn|Ish'ilankul Region]]—The land Ish'ilankul holds
+[[affiliation-kankul|K'ankul]]
+: The limestone lowlands to the east, tributary to Ish'ilankul's religious authority
+
+[[affiliation-neokbaate|Ne'ok Ba'ate]]
+: The isthmus gateway, where highland and coastal trade routes intersect
+
+[[affiliation-xelem|Shelem]]
+: The eastern frontier, source of exotic goods and sacred materials
+
+[[affiliation-itzanpnthn|Itsani Pantheon]]
+: The divine framework that grants Ish'ilankul its religious authority
+
+[[place-tzomalchalix|Ts'omal Ch'alish]]
+: The Sacred Foundation, holiest pilgrimage site in K'ich'chik
+
+[[place-ixilankulrgn|Ish'ilankul Region]]
+: The land Ish'ilankul holds

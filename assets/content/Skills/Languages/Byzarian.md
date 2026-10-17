@@ -400,11 +400,20 @@ Bizarian sets Helonic grammar on an eastern vocabulary. Its sound is the crossro
 
 Bizarian's vowel inventory is simplified compared to Helonic, with a tendency toward shorter, more clipped articulation:
 
-- **a**—short and open, brighter than Helonic; long, an open "ah"
-- **e**—short, as in "bet"; long, an "eh" as in "fete"
-- **i**—short, as in "bit"; long, an "ee" as in "machine"
-- **o**—short, as in "for"; long, an "oh" as in "note"
-- **u**—short, as in "put"; long, an "oo" as in "boot"
+a
+: short and open, brighter than Helonic; long, an open "ah"
+
+e
+: short, as in "bet"; long, an "eh" as in "fete"
+
+i
+: short, as in "bit"; long, an "ee" as in "machine"
+
+o
+: short, as in "for"; long, an "oh" as in "note"
+
+u
+: short, as in "put"; long, an "oo" as in "boot"
 
 The distinctive feature is the _schwa_—the flat, unstressed "a" of "about"—borrowed from eastern languages and used in rapid speech to weaken unstressed syllables. This is less common in formal speech but pervasive in bazaar dialect and practical contexts. Diphthongs are less ornamental than in Helonic; -ai, -ei, and -oi tend toward monophthongization in rapid speech (becoming a plain "e", "i" and "u" respectively).
 
@@ -416,11 +425,20 @@ Bizarian maintains the Helonic consonant base but with significant eastern modif
 
 **Eastern additions and modifications:**
 
-- **kh**—a throaty rasp, as when clearing the throat (stronger, more frequent than in Helonic)
-- **gh**—a voiced throaty rasp, softer than a hard "g" (present but less common)
-- **z**—as in "zeal" (from eastern languages, used for plurals and grammatical marking)
-- **zh**—the "s" of "measure" (eastern loanword marker)
-- **ch**—the "ch" of "church" (from eastern languages, rare but distinctly Bizarian)
+kh
+: a throaty rasp, as when clearing the throat (stronger, more frequent than in Helonic)
+
+gh
+: a voiced throaty rasp, softer than a hard "g" (present but less common)
+
+z
+: as in "zeal" (from eastern languages, used for plurals and grammatical marking)
+
+zh
+: the "s" of "measure" (eastern loanword marker)
+
+ch
+: the "ch" of "church" (from eastern languages, rare but distinctly Bizarian)
 
 The most notable feature: **explosive release of stops**. The -k and -t stops are articulated with stronger release, making Bizarian speech sound crisper and more percussive than Helonic. This is the single most recognizable phonetic marker of Bizarian.
 
@@ -432,9 +450,14 @@ Bizarian employs primarily **word-stress accent** rather than pitch accent. The 
 
 Characteristic patterns:
 
-- _Chrisandáhr_ (CHRY-san-DAHR)—stress on the final syllable (eastern influence)
-- _Plamogiza_ (pla-mo-GEE-za)—stress on the accented penultimate, with secondary stress on the first syllable
-- _Rabekara_ (ra-be-KAH-ra)—compressed penultimate stress
+_Chrisandáhr_ (CHRY-san-DAHR)
+: stress on the final syllable (eastern influence)
+
+_Plamogiza_ (pla-mo-GEE-za)
+: stress on the accented penultimate, with secondary stress on the first syllable
+
+_Rabekara_ (ra-be-KAH-ra)
+: compressed penultimate stress
 
 ## Grammar Notes
 
@@ -444,26 +467,43 @@ Bizarian retained the Helonic SVO (Subject-Verb-Object) order. Where Helonic use
 
 ### Notable Grammatical Features
 
-- **Gender retention:** Bizarian preserves the three-gender system but marks it less consistently than Helonic
-- **Definite and indefinite articles:** Simplified from Helonic; _ash/ath_ for definite, clipped to a breath on the end of the noun before; _fom_ for indefinite
-- **Plurals:** Marked with _-z_ or _-zi_ (eastern pattern) in some contexts, with _-es_ or _-oi_ (Helonic) in others; mixed usage is common
-- **Compound words:** Eastern influence increased compounding; _krishandáhr_ (gold-rich, prosperous) is a native Bizarian formation
-- **Loanword integration:** Eastern loans are phonetically adapted and marked grammatically; the suffix _-ikon/-ika_ often marks eastern loanwords
+Gender retention
+: Bizarian preserves the three-gender system but marks it less consistently than Helonic
+
+Definite and indefinite articles
+: Simplified from Helonic; _ash/ath_ for definite, clipped to a breath on the end of the noun before; _fom_ for indefinite
+
+Plurals
+: Marked with _-z_ or _-zi_ (eastern pattern) in some contexts, with _-es_ or _-oi_ (Helonic) in others; mixed usage is common
+
+Compound words
+: Eastern influence increased compounding; _krishandáhr_ (gold-rich, prosperous) is a native Bizarian formation
+
+Loanword integration
+: Eastern loans are phonetically adapted and marked grammatically; the suffix _-ikon/-ika_ often marks eastern loanwords
 
 ### Grammatical Samples
 
 These examples use vocabulary inherited from [[skill-helonclng|Helonic]] (see Core Vocabulary), showing Bizarian simplification.
 
-- **Ath pólitar ésharike yn Bizarion**—"The city is in Bizaria" (_pólitar_ fem., _ésharin_ + the place particle _-ke_, _yn_ "in")
-- **Ash émfarin parádarin krémashin**—"The merchant delivers goods" (_émfarin_ "merchant", _parádarin_ "delivers", _krémashin_ "goods")
-- **Fom fótamiroi férantir dres athin ghéranin**—"Rivers are borne through the earth" (_fótamiroi_ "rivers", _férantir_ "are borne" from _féranin_, _ghéranin_ "earth" from _ghéranis_)
+Ath pólitar ésharike yn Bizarion
+: "The city is in Bizaria" (_pólitar_ fem., _ésharin_ + the place particle _-ke_, _yn_ "in")
+
+Ash émfarin parádarin krémashin
+: "The merchant delivers goods" (_émfarin_ "merchant", _parádarin_ "delivers", _krémashin_ "goods")
+
+Fom fótamiroi férantir dres athin ghéranin
+: "Rivers are borne through the earth" (_fótamiroi_ "rivers", _férantir_ "are borne" from _féranin_, _ghéranin_ "earth" from _ghéranis_)
 
 ## Script and Literacy
 
 Bizarian is written in the [[skill-helnkscrpt|Helónika]]—the Helonic alphabet, adapted with additional letters for eastern sounds:
 
-- **Helonic base:** The core 24-letter Helonic alphabet, with simplified vowel distinctions (6 vowels retained from the original 7)
-- **Bizarian additions for eastern sounds:** Additional letters for zh, kh variants, and diacritics for vowel length
+Helonic base
+: The core 24-letter Helonic alphabet, with simplified vowel distinctions (6 vowels retained from the original 7)
+
+Bizarian additions for eastern sounds
+: Additional letters for zh, kh variants, and diacritics for vowel length
 
 In practical written contexts, Bizarian employs **diacritical marks** above vowels to indicate length and stress, though formal writing sometimes omits them. Commercial documents developed their own abbreviated script for speed—a "cursive Bizarian" that is rapid to write but often incomprehensible to the untrained.
 
@@ -473,30 +513,49 @@ In practical written contexts, Bizarian employs **diacritical marks** above vowe
 
 Bizarian evolved over roughly five centuries through the gradual synthesis of Helonic with eastern languages:
 
-1. **Early Bizarian (500–300 years ago):** Emerged from creolization in the great trading ports. Helonic speakers who had absorbed eastern vocabulary and simplified grammar for speed created a hybrid. The early form was looked down upon by both Helonic purists and eastern scholars as a "merchant's bastardization."
+Early Bizarian (500–300 years ago)
+: Emerged from creolization in the great trading ports. Helonic speakers who had absorbed eastern vocabulary and simplified grammar for speed created a hybrid. The early form was looked down upon by both Helonic purists and eastern scholars as a "merchant's bastardization."
 
-2. **Classical Bizarian (300–100 years ago):** Formalization through written commerce. Merchants standardized spelling and grammar for contracts and ledgers. The language began to develop its own literature—not philosophy or drama, but merchant chronicles, trade manuals, and navigational guides. This period established most of Bizarian's modern norms.
+Classical Bizarian (300–100 years ago)
+: Formalization through written commerce. Merchants standardized spelling and grammar for contracts and ledgers. The language began to develop its own literature—not philosophy or drama, but merchant chronicles, trade manuals, and navigational guides. This period established most of Bizarian's modern norms.
 
-3. **Modern Bizarian (100 years ago–present):** Further simplification and integration of newer eastern vocabulary. Growing prestige as the language of diplomacy and international trade. The emergence of distinct "registers"—formal written Bizarian (closer to Helonic) and bazaar Bizarian (much looser, rapid-fire, loaded with slang and eastern markers).
+Modern Bizarian (100 years ago–present)
+: Further simplification and integration of newer eastern vocabulary. Growing prestige as the language of diplomacy and international trade. The emergence of distinct "registers"—formal written Bizarian (closer to Helonic) and bazaar Bizarian (much looser, rapid-fire, loaded with slang and eastern markers).
 
 ## Regional Dialects
 
 Bizarian shows more dialectal variation than Helonic, reflecting its hybrid nature and widespread geographic distribution:
 
-- **Soridion Standard:** The prestige written form, used in formal documents and educated speech. Maximal retention of Helonic grammar; eastern vocabulary carefully selected. Taught in merchant academies.
-- **Coastal/Port Dialect:** Heavily influenced by maritime vocabulary (Helonic and eastern nautical terms), rapid vowel reduction, many eastern particles (_zhe_, _vezh_, _chazh_) for questioning, negation and emphasis. Comprehensible to speakers of other dialects but distinctly "market" in flavor.
-- **Interior Highland Dialect:** More conservative, preserving some Helonic features lost in coastal speech. Slower articulation, fuller vowels, less obvious eastern influence. Speakers of this dialect are often stereotyped as rural or old-fashioned by coastal traders.
-- **Eastern Frontier Dialect:** Heavy eastern substrate, with significant vocabulary borrowing and some structural innovation. Often unintelligible to western Bizarians without exposure.
+Soridion Standard
+: The prestige written form, used in formal documents and educated speech. Maximal retention of Helonic grammar; eastern vocabulary carefully selected. Taught in merchant academies.
+
+Coastal/Port Dialect
+: Heavily influenced by maritime vocabulary (Helonic and eastern nautical terms), rapid vowel reduction, many eastern particles (_zhe_, _vezh_, _chazh_) for questioning, negation and emphasis. Comprehensible to speakers of other dialects but distinctly "market" in flavor.
+
+Interior Highland Dialect
+: More conservative, preserving some Helonic features lost in coastal speech. Slower articulation, fuller vowels, less obvious eastern influence. Speakers of this dialect are often stereotyped as rural or old-fashioned by coastal traders.
+
+Eastern Frontier Dialect
+: Heavy eastern substrate, with significant vocabulary borrowing and some structural innovation. Often unintelligible to western Bizarians without exposure.
 
 ## Sample Phrases
 
 All phrases draw from the shared [[skill-helonclng|Helonic]] core vocabulary, with Bizarian simplification and eastern loanwords.
 
-- **Émforia haliron eutalir esh**—"Eastern goods are profitable" (merchant maxim; _émforia_ from Hel. _émforia_, _eutalir_ from Hel. _euthalir_, verb-final order from eastern influence)
-- **Pef fótamir, pluma reshir**—"By the rivers, all flows" (_pef_ + dat. from Hel. _pef_, _fótamir_ from Hel. _fótamir_, _pluma_ from Hel. _plum_, _reshir_ from Hel. _rhézarin_)
-- **Krisharin mátiron esh**—"Gold is metal" (_krisharin_ and _mátiron_ from Hel. _máthiron_, _esh_ simplified from Hel. _ésharin_)
-- **Zhe danizh, kérdanir vezh**—"Don't lend; there's no profit" (eastern _zhe_ softens the refusal and _vezh_ says there is none, _danizh_ from Hel. _danizharin_, _kérdanir_ from Hel. _kérdhanir_)
-- **Frun émfarin, lefir kérdanir**—"With the merchant, profit is clear" (_frun_ + acc. from Hel. _frun_, _lefir_ and _kérdanir_ from Hel. _lefir_ and _kérdhanir_)
+Émforia haliron eutalir esh
+: "Eastern goods are profitable" (merchant maxim; _émforia_ from Hel. _émforia_, _eutalir_ from Hel. _euthalir_, verb-final order from eastern influence)
+
+Pef fótamir, pluma reshir
+: "By the rivers, all flows" (_pef_ + dat. from Hel. _pef_, _fótamir_ from Hel. _fótamir_, _pluma_ from Hel. _plum_, _reshir_ from Hel. _rhézarin_)
+
+Krisharin mátiron esh
+: "Gold is metal" (_krisharin_ and _mátiron_ from Hel. _máthiron_, _esh_ simplified from Hel. _ésharin_)
+
+Zhe danizh, kérdanir vezh
+: "Don't lend; there's no profit" (eastern _zhe_ softens the refusal and _vezh_ says there is none, _danizh_ from Hel. _danizharin_, _kérdanir_ from Hel. _kérdhanir_)
+
+Frun émfarin, lefir kérdanir
+: "With the merchant, profit is clear" (_frun_ + acc. from Hel. _frun_, _lefir_ and _kérdanir_ from Hel. _lefir_ and _kérdhanir_)
 
 ## Related Languages
 
@@ -512,8 +571,11 @@ Educated speakers of all three Helonic-family languages can communicate with min
 
 Bizarian naming reflects the culture's hybrid heritage and mercantile values. A Bizarian carries a **given name** and a **house name**, and the tongue builds the two by different operations, so a clerk reading a contract aloud never has to ask which is which:
 
-1. A **given name** is a root with a personal ending. It runs two to five syllables and closes on a vowel or on a continuant—`-l`, `-n`, `-r`, `-s`, `-z`, `-sh`, `-zh`.
-2. A **house name** is a root with one of four **house-suffixes**—`-ákit`, `-íkot`, `-ídek`, `-zát`. Every one of them closes on the explosive stop that is Bizarian's loudest phonetic signature, and **no given name closes on a stop**.
+A **given name** is a root with a personal ending. It runs two to five syllables and closes on a vowel or on a continuant
+: `-l`, `-n`, `-r`, `-s`, `-z`, `-sh`, `-zh`.
+
+A **house name** is a root with one of four **house-suffixes**
+: `-ákit`, `-íkot`, `-ídek`, `-zát`. Every one of them closes on the explosive stop that is Bizarian's loudest phonetic signature, and **no given name closes on a stop**.
 
 The final sound therefore separates the two on hearing alone, which matters in a tongue whose bonds are read out before they are sealed.
 
@@ -523,9 +585,14 @@ The operation that makes a name Bizarian rather than borrowed is **an inherited 
 
 Three registers are live at once, and a household may draw from all three in one generation:
 
-- **Helonic-rooted names:** Preferred in old merchant dynasties and among the cultural elite. Used formally and in official contexts. Names drawn from the Helonic name tradition signal both Bizarian identity and Helonic learning. They close on `-on`, `-os`, `-ios` or `-es`.
-- **Eastern-influenced names:** Common among families with eastern intermarriage and among those who have integrated into eastern trading networks; they signal cosmopolitan credentials and eastern connections. An eastern root takes a Helonic or Bizarian ending—`-ikos`, `-ikon`, `-ion`, `-eon`, `-is` for a man, `-ana`, `-éna`, `-éla`, `-ína`, `-ai`, `-éa` for a woman.
-- **Hybrid Bizarian names:** Invented forms that synthesize Helonic and eastern elements, creating uniquely Bizarian identities, and the mark of Bizarian identity proper. A man's hybrid ending is `-áhr`, `-ash`, `-azur`, `-kar`, `-áz`, `-marzan`, `-in` or `-azul`; a woman's is `-íza`, `-éze`, `-ara`, `-éhran`, `-ánaz`, `-áze`, `-iásh`, `-ázira`, `-áhre` or `-ade`.
+Helonic-rooted names
+: Preferred in old merchant dynasties and among the cultural elite. Used formally and in official contexts. Names drawn from the Helonic name tradition signal both Bizarian identity and Helonic learning. They close on `-on`, `-os`, `-ios` or `-es`.
+
+Eastern-influenced names
+: Common among families with eastern intermarriage and among those who have integrated into eastern trading networks; they signal cosmopolitan credentials and eastern connections. An eastern root takes a Helonic or Bizarian ending—`-ikos`, `-ikon`, `-ion`, `-eon`, `-is` for a man, `-ana`, `-éna`, `-éla`, `-ína`, `-ai`, `-éa` for a woman.
+
+Hybrid Bizarian names
+: Invented forms that synthesize Helonic and eastern elements, creating uniquely Bizarian identities, and the mark of Bizarian identity proper. A man's hybrid ending is `-áhr`, `-ash`, `-azur`, `-kar`, `-áz`, `-marzan`, `-in` or `-azul`; a woman's is `-íza`, `-éze`, `-ara`, `-éhran`, `-ánaz`, `-áze`, `-iásh`, `-ázira`, `-áhre` or `-ade`.
 
 Stress is read off the spelling: the acute carries it, and a name without one takes the penultimate. _Sturash_ is STU-rash, _Chrisandáhr_ is chry-san-DAHR, _Rabekara_ is ra-be-KAH-ra.
 

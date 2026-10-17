@@ -16,6 +16,11 @@ The diagrams show what the work did on the days he watched it. No sheet states a
 
 ## See Also
 
-- [[place-ilovanu|Ilovanu]]—the port where outsiders live nearest the island's works
-- [[lore-itharisul|Ithasul]]—the substance of the works, and the states a work passes through
-- [[affiliation-councilisland|The Council of the Island]]—which decides what outsiders may be told
+[[place-ilovanu|Ilovanu]]
+: the port where outsiders live nearest the island's works
+
+[[lore-itharisul|Ithasul]]
+: the substance of the works, and the states a work passes through
+
+[[affiliation-councilisland|The Council of the Island]]
+: which decides what outsiders may be told

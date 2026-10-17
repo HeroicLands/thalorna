@@ -74,9 +74,14 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-- **Type:** Underground professional network
-- **Region:** [[place-byzariargn|Bizaria]] principally, with active members in every League city and known correspondents in Provenzia, Helionis, and Vylaria
-- **Founded:** Informal in origin, perhaps two centuries old; never chartered
+Type
+: Underground professional network
+
+Region
+: [[place-byzariargn|Bizaria]] principally, with active members in every League city and known correspondents in Provenzia, Helionis, and Vylaria
+
+Founded
+: Informal in origin, perhaps two centuries old; never chartered
 
 ## Overview
 
@@ -94,8 +99,11 @@ Among working members, the principal informal distinction is between **cartograp
 
 ## Notable Members
 
-- **Master [[being-damklsmpsn|Damáklios Bridutis]]**—long-standing Ledger member. He maintains contact with the network as insurance and alternative income source even as his guild work has come under formal suspicion.
-- **The senior coordinators**—unnamed; their identities are protected by the Ledger's structure and by the absence of any document that would record them.
+Master [[being-damklsmpsn|Damáklios Bridutis]]
+: long-standing Ledger member. He maintains contact with the network as insurance and alternative income source even as his guild work has come under formal suspicion.
+
+The senior coordinators
+: unnamed; their identities are protected by the Ledger's structure and by the absence of any document that would record them.
 
 ## Practice and Specialties
 
@@ -107,10 +115,17 @@ Among working members, the principal informal distinction is between **cartograp
 
 ## Relations
 
-- **The [[affiliation-crtgrphrsgldbyzrnlg|Cartographers' Guild]]**—parasitic dependence. The Ledger could not exist without the guild's training apparatus; the guild cannot eliminate the Ledger without expelling a substantial fraction of its own membership. The two institutions maintain a kind of mutual non-recognition; senior figures on each side often know senior figures on the other and pretend, in public, not to.
-- **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]**—major clients. [[affiliation-velvethand|The Velvet Hand]] buys document specialists; [[affiliation-crimsnldgr|The Crimson Ledger]] (no relation despite the similar name) buys financial-route maps; [[affiliation-theashroad|The Ash Road]] buys desert and caravan charts; the [Theft Syndicate of the Eastern Docks]{.name data-type="affiliation/criminal"} buys city-interior surveys.
-- **Foreign powers**—the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], an unidentified northern confederation, at least one Vylarian province, and irregularly the [[affiliation-khzrncnfdrtn|Tellumi Confederation]] all maintain standing arrangements with brokers for procurement of League maps.
-- **The League's City Guard**—the Ledger's only true enemy. The Guard knows the Ledger exists, knows roughly who is involved, and has not assembled sufficient evidence to indict any senior member.
+The [[affiliation-crtgrphrsgldbyzrnlg|Cartographers' Guild]]
+: parasitic dependence. The Ledger could not exist without the guild's training apparatus; the guild cannot eliminate the Ledger without expelling a substantial fraction of its own membership. The two institutions maintain a kind of mutual non-recognition; senior figures on each side often know senior figures on the other and pretend, in public, not to.
+
+The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]
+: major clients. [[affiliation-velvethand|The Velvet Hand]] buys document specialists; [[affiliation-crimsnldgr|The Crimson Ledger]] (no relation despite the similar name) buys financial-route maps; [[affiliation-theashroad|The Ash Road]] buys desert and caravan charts; the [Theft Syndicate of the Eastern Docks]{.name data-type="affiliation/criminal"} buys city-interior surveys.
+
+Foreign powers
+: the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], an unidentified northern confederation, at least one Vylarian province, and irregularly the [[affiliation-khzrncnfdrtn|Tellumi Confederation]] all maintain standing arrangements with brokers for procurement of League maps.
+
+The League's City Guard
+: the Ledger's only true enemy. The Guard knows the Ledger exists, knows roughly who is involved, and has not assembled sufficient evidence to indict any senior member.
 
 ## Identifying Marks
 

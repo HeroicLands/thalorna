@@ -18,5 +18,8 @@ A timberwright who looks closely at the order learns what the payment is for: ma
 
 ## See Also
 
-- [[being-githrrthlkhl|Githara Reth'el'Khelensu]]—a timberwright Vel'Khara's agents court
-- [[place-aukhelathrgq|Au'Khelathu]]—the empire whose timber they buy
+[[being-githrrthlkhl|Githara Reth'el'Khelensu]]
+: a timberwright Vel'Khara's agents court
+
+[[place-aukhelathrgq|Au'Khelathu]]
+: the empire whose timber they buy

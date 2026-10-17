@@ -252,20 +252,29 @@ Fire destroys its body where it burns and stops it healing there. Kept away from
 
 ## Attributes
 
-- **Strength:** 10-13 (1d4+9)
+Strength
+: 10-13 (1d4+9)
 
-- **Endurance:** 17-22 (1d6+16)
+Endurance
+: 17-22 (1d6+16)
 
-- **Dexterity:** 7-12 (1d6+6)
+Dexterity
+: 7-12 (1d6+6)
 
-- **Agility:** 5-10 (1d6+4)
+Agility
+: 5-10 (1d6+4)
 
-- **Perception:** 11-16 (1d6+10)
+Perception
+: 11-16 (1d6+10)
 
-- **Aura:** 17-22 (1d6+16)
+Aura
+: 17-22 (1d6+16)
 
-- **Will:** 14-17 (1d4+13)
+Will
+: 14-17 (1d4+13)
 
-- **Reasoning:** 7-12 (1d6+6)
+Reasoning
+: 7-12 (1d6+6)
 
-- **Creativity:** 5-10 (1d6+4)
+Creativity
+: 5-10 (1d6+4)

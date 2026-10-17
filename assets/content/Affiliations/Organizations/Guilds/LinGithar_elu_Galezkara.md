@@ -56,5 +56,8 @@ Cloth is pooled before it is sold. Say a dozen weavers and dyers bring their bol
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The city its weavers and dyers work in
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-galezkara|Galezkara]]
+: The city its weavers and dyers work in
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

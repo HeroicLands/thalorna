@@ -456,18 +456,26 @@ Fire dries and cracks it and stops it healing, and enough fire can destroy it en
 
 ## Attributes
 
-- **Strength:** 32-37 (1d6+31)
+Strength
+: 32-37 (1d6+31)
 
-- **Endurance:** 15-20 (1d6+14)
+Endurance
+: 15-20 (1d6+14)
 
-- **Perception:** 5-10 (1d6+4)
+Perception
+: 5-10 (1d6+4)
 
-- **Aura:** 5-10 (1d6+4)
+Aura
+: 5-10 (1d6+4)
 
-- **Will:** 10-13 (1d4+9)
+Will
+: 10-13 (1d4+9)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)
 
-- **Agility:** 5-8 (1d4+4)
+Agility
+: 5-8 (1d4+4)
 
-- **Reasoning:** 3-6 (1d4+2)
+Reasoning
+: 3-6 (1d4+2)

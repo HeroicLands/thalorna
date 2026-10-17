@@ -76,8 +76,17 @@ An outsider sees a sacred tree hung with offerings, an old man or woman who spea
 
 ## See Also
 
-- [[lore-bikoclt|Biko]]—the forest peoples
-- [[place-cntrlrnfrsts|Central Rainforests]]—the forest and its spirits
-- [[skill-ekpelulng|Ekpelu]]—the tongue
-- [[place-drwndzgrt|The Drowned Ziggurat]]—the court that became a priesthood
-- [[place-slntclrng|The Silent Clearing]]—the place with no spirit
+[[lore-bikoclt|Biko]]
+: the forest peoples
+
+[[place-cntrlrnfrsts|Central Rainforests]]
+: the forest and its spirits
+
+[[skill-ekpelulng|Ekpelu]]
+: the tongue
+
+[[place-drwndzgrt|The Drowned Ziggurat]]
+: the court that became a priesthood
+
+[[place-slntclrng|The Silent Clearing]]
+: the place with no spirit

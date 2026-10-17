@@ -83,16 +83,41 @@ Amradad taxes the caravans that pass through its cities and spends the revenue o
 
 ## See Also
 
-- [[place-dunhardsrtrgn|Dunhara Desert Region]]—the open desert of the tribes
-- [[place-amradadrgn|Amradad Region]]—the settled cities of the northwest
-- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the settled realm of the region
-- [[affiliation-dunhartrbs|Dunhara Tribes]]—the tribal confederations
-- [[lore-dunhariclt|Dunhari]]—the people, their customs and what they owe
-- [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]—the storm-readers who travel with the tribes
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the island trading partner across the strait
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the northern desert cousin
-- [[place-vedyarargn|Vedyara Region]]—the southeastern trading neighbor
-- [[place-graznmntns|The Grazian Mountains]]—the wall that ends at the region's eastern margin
-- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the faith shared across the desert peoples
-- [[skill-dunharlng|Dunhari]]—the language and its naming tradition
-- [[place-ankrscntnnt|Ankaris Continent]]—the parent continent
+[[place-dunhardsrtrgn|Dunhara Desert Region]]
+: the open desert of the tribes
+
+[[place-amradadrgn|Amradad Region]]
+: the settled cities of the northwest
+
+[[affiliation-kngdmmrdd|Kingdom of Amradad]]
+: the settled realm of the region
+
+[[affiliation-dunhartrbs|Dunhara Tribes]]
+: the tribal confederations
+
+[[lore-dunhariclt|Dunhari]]
+: the people, their customs and what they owe
+
+[[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]
+: the storm-readers who travel with the tribes
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the island trading partner across the strait
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the northern desert cousin
+
+[[place-vedyarargn|Vedyara Region]]
+: the southeastern trading neighbor
+
+[[place-graznmntns|The Grazian Mountains]]
+: the wall that ends at the region's eastern margin
+
+[[affiliation-ashanpnthn|Ashaian Pantheon]]
+: the faith shared across the desert peoples
+
+[[skill-dunharlng|Dunhari]]
+: the language and its naming tradition
+
+[[place-ankrscntnnt|Ankaris Continent]]
+: the parent continent

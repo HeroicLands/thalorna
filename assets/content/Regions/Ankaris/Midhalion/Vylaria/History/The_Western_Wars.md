@@ -99,7 +99,14 @@ The western strait is the sea's only door to the ocean. The Empire fortified the
 
 ## See Also
 
-- [[place-vylariargn|Vylaria Region]]—the Kervaron Spine and its passage-gifts
-- [[place-tarvenirgn|Tarvénia Region]]—the lowlands the legions took
-- [[place-provenzrgn|Provenzia]]—the province the wars made
-- [[place-vylarianse|The Vylarian Sea]]—the sea the strait opens
+[[place-vylariargn|Vylaria Region]]
+: the Kervaron Spine and its passage-gifts
+
+[[place-tarvenirgn|Tarvénia Region]]
+: the lowlands the legions took
+
+[[place-provenzrgn|Provenzia]]
+: the province the wars made
+
+[[place-vylarianse|The Vylarian Sea]]
+: the sea the strait opens

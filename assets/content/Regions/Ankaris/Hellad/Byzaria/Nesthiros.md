@@ -94,8 +94,17 @@ Nesthiros uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel
 
 ## See Also
 
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation whose joint fleet Nesthiros keeps
-- [[place-byzariargn|Bizaria Region]]—the League's country
-- [[place-nesthiros2|Nesthiros]]—the city on its fortress isle
-- [[place-chrysamar|Chrisamar]]—the rival port
-- [[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]], [[affiliation-orashion|Órashion]]—the other four city-states
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation whose joint fleet Nesthiros keeps
+
+[[place-byzariargn|Bizaria Region]]
+: the League's country
+
+[[place-nesthiros2|Nesthiros]]
+: the city on its fortress isle
+
+[[place-chrysamar|Chrisamar]]
+: the rival port
+
+[[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]], [[affiliation-orashion|Órashion]]
+: the other four city-states

@@ -18,6 +18,11 @@ What the south knows of the No'kin it knows from their goods. The hides that rea
 
 ## See Also
 
-- [[affiliation-ixtemtzul|Ishtem Tsul]]—the Bear People and their nation
-- [[place-ixtemtzulrgn|Ishtem Tsul Region]]—the boreal forest and the tundra
-- [[place-nrthrnkchchk|Northern K'ich'chik]]—the northern nations
+[[affiliation-ixtemtzul|Ishtem Tsul]]
+: the Bear People and their nation
+
+[[place-ixtemtzulrgn|Ishtem Tsul Region]]
+: the boreal forest and the tundra
+
+[[place-nrthrnkchchk|Northern K'ich'chik]]
+: the northern nations

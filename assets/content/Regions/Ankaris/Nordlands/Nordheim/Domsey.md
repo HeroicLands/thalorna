@@ -59,12 +59,29 @@ The Landsgudi pours one cup at the law-rock at each opening, "for the ones the c
 
 ## See Also
 
-- [[place-nordheim|Nordheim]]—the land whose waters hold the island
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—the crown that holds Domsey and usually convenes the assembly
-- [[lore-nordfirstsit|The First Sitting on Domsey]]—the slaughter of 287 and the oath on the strand
-- [[lore-domseycount|The Domsey Count]]—the reckoning of the sittings
-- [[lore-bloodfield|Blood-fields]]—the silence under the seats
-- [[affiliation-asguardian|Asguardian Pantheon]]—the faith whose Landsgudi hallows the island
-- [[affiliation-eidhond|Order of the Sworn Hand]]—the knights who keep the ting-peace
-- [[affiliation-skaldscrcl|Skalds' Circle]]—the memory of the assembly's judgments
-- [[lore-nordheimnclt|Nordheimn]]—the ting and the hov across the five kingdoms
+[[place-nordheim|Nordheim]]
+: the land whose waters hold the island
+
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+: the crown that holds Domsey and usually convenes the assembly
+
+[[lore-nordfirstsit|The First Sitting on Domsey]]
+: the slaughter of 287 and the oath on the strand
+
+[[lore-domseycount|The Domsey Count]]
+: the reckoning of the sittings
+
+[[lore-bloodfield|Blood-fields]]
+: the silence under the seats
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the faith whose Landsgudi hallows the island
+
+[[affiliation-eidhond|Order of the Sworn Hand]]
+: the knights who keep the ting-peace
+
+[[affiliation-skaldscrcl|Skalds' Circle]]
+: the memory of the assembly's judgments
+
+[[lore-nordheimnclt|Nordheimn]]
+: the ting and the hov across the five kingdoms

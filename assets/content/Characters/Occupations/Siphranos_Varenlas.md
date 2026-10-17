@@ -429,12 +429,17 @@ Rival gladiators seek to surpass his reputation.
 
 ## Plot Hooks
 
-1. **The Gladiator's Dilemma**—A sponsor who bets on Sifranos wants a bout thrown, and his code in the arena and the coin he fights for cannot both be kept.
+The Gladiator's Dilemma
+: A sponsor who bets on Sifranos wants a bout thrown, and his code in the arena and the coin he fights for cannot both be kept.
 
-2. **Old Grudges**—A rival gladiator who means to surpass Sifranos has challenged him to a bout outside the guild's rules.
+Old Grudges
+: A rival gladiator who means to surpass Sifranos has challenged him to a bout outside the guild's rules.
 
-3. **Echoes of the Past**—The man who bought Sifranos as a boy is in the stands, and claims the sale was never properly undone.
+Echoes of the Past
+: The man who bought Sifranos as a boy is in the stands, and claims the sale was never properly undone.
 
-4. **Shifting Winds**—Political change in Vylaria threatens the arena Sifranos lives by, and he can adapt, resist, or leave.
+Shifting Winds
+: Political change in Vylaria threatens the arena Sifranos lives by, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—A sponsor offers Sifranos a bout against a champion from another city, for a purse that would end his fighting days, and the champion's record is not what the sponsor says.
+The Opportunity
+: A sponsor offers Sifranos a bout against a champion from another city, for a purse that would end his fighting days, and the champion's record is not what the sponsor says.

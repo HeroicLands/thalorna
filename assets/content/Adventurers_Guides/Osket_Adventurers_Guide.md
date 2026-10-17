@@ -36,8 +36,17 @@ A party can be hired as a caravan's guard over Suryadvara, where a misjudged sea
 
 ## Where to Read Next
 
-- [[lore-osketclt|The Osket]]—the road as property, the guide-mother, the door and the cord
-- [[affiliation-osketguides|The Osket lineages]]—ranks and offices from the roadless to the Speaker of the Cols
-- [[skill-osketlng|The Osket tongue]]—evidentials, front rounded vowels and names
-- [[place-sthrnwall|The Southern Wall]]—the range the western crossings climb
-- [[lore-hvarnclt|The Hvarn]]—the other guide-people of the wall
+[[lore-osketclt|The Osket]]
+: the road as property, the guide-mother, the door and the cord
+
+[[affiliation-osketguides|The Osket lineages]]
+: ranks and offices from the roadless to the Speaker of the Cols
+
+[[skill-osketlng|The Osket tongue]]
+: evidentials, front rounded vowels and names
+
+[[place-sthrnwall|The Southern Wall]]
+: the range the western crossings climb
+
+[[lore-hvarnclt|The Hvarn]]
+: the other guide-people of the wall

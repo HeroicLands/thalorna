@@ -59,8 +59,17 @@ What leaves is cloth, and it leaves by water. The river road down to the coast i
 
 ## See Also
 
-- [[affiliation-vyalendra2|Vyalendra]]—the city-state that holds this land
-- [[place-vyalendra3|Vyalendra]]—the city itself
-- [[place-nilatira|Nilatira]]—the port at the river's mouth
-- [[place-vedyarargn|Vedyara Region]]—the enclosing region
-- [[affiliation-dhnrktjnpd|Danurkota Janapoda]]—where the commander of the city watch is always found
+[[affiliation-vyalendra2|Vyalendra]]
+: the city-state that holds this land
+
+[[place-vyalendra3|Vyalendra]]
+: the city itself
+
+[[place-nilatira|Nilatira]]
+: the port at the river's mouth
+
+[[place-vedyarargn|Vedyara Region]]
+: the enclosing region
+
+[[affiliation-dhnrktjnpd|Danurkota Janapoda]]
+: where the commander of the city watch is always found

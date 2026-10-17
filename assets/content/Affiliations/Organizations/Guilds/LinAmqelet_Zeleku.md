@@ -60,4 +60,5 @@ The trade is ordinary, and the house is indistinguishable from any other. Say a 
 
 ## See Also
 
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

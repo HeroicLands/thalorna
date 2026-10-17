@@ -67,9 +67,20 @@ A few Sinale and Khazari rise high in the empire as craftsmen, scholars or offic
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]]—how the Elder peoples are classified
-- [[lore-longnhrtnc|The Long Inheritance]]—Elder knowledge passing into human hands
-- [[lore-flksinale|Sinale]]—the people of the old forests
-- [[lore-flkkhazar|Khazari]]—the people of the cliff-cities
-- [[lore-chaizho|Chaizho]]—the predators loosed on the Elder lands of the northwest
-- [[affiliation-tantsouempr|Empire of Tantsou]]—overview of imperial society
+[[lore-castelaws|Caste Laws]]
+: how the Elder peoples are classified
+
+[[lore-longnhrtnc|The Long Inheritance]]
+: Elder knowledge passing into human hands
+
+[[lore-flksinale|Sinale]]
+: the people of the old forests
+
+[[lore-flkkhazar|Khazari]]
+: the people of the cliff-cities
+
+[[lore-chaizho|Chaizho]]
+: the predators loosed on the Elder lands of the northwest
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: overview of imperial society

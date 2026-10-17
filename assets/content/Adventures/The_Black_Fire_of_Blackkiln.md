@@ -118,9 +118,20 @@ A fire that needs no fuel burns in a kiln in the dead pines, tended by the dead 
 
 ## See Also
 
-- [[place-blackkilnpriory|Blackkiln Priory]]—the priory and its fire
-- [[place-pshtrwldrns|Peshtar Wilderness]]—the forest country it stands in
-- [[affiliation-repblcndrth|Republic of Ondareth]]—whose money raised it
-- [[affiliation-blackflame|The Black Flame]]—the creed of the cell
-- [[affiliation-sacredforge|The Sacred Forge]]—the creative reading of the same fire
-- [[lore-theshadow|The Shadow]]—what the fire has become
+[[place-blackkilnpriory|Blackkiln Priory]]
+: the priory and its fire
+
+[[place-pshtrwldrns|Peshtar Wilderness]]
+: the forest country it stands in
+
+[[affiliation-repblcndrth|Republic of Ondareth]]
+: whose money raised it
+
+[[affiliation-blackflame|The Black Flame]]
+: the creed of the cell
+
+[[affiliation-sacredforge|The Sacred Forge]]
+: the creative reading of the same fire
+
+[[lore-theshadow|The Shadow]]
+: what the fire has become

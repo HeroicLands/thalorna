@@ -18,5 +18,8 @@ A priestess explains the practice to newcomers before anything else: you come to
 
 ## See Also
 
-- [[affiliation-zunelas|Faith of Zunelas]]—the faith that keeps the sanctuary
-- [[place-provenzrgn|Provenzia Region]]—the kingdom it stands in
+[[affiliation-zunelas|Faith of Zunelas]]
+: the faith that keeps the sanctuary
+
+[[place-provenzrgn|Provenzia Region]]
+: the kingdom it stands in

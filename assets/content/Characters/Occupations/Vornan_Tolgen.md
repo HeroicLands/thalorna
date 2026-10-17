@@ -431,10 +431,14 @@ The supply merchants of Pirnebris, whose trade he has described in public as pro
 
 ## Plot Hooks
 
-1. **The Lecture on Profit**—Vornan has announced an evening on what the march owes the men it sends over the passes, the night before the levy musters. The merchants have asked the tavern-keeper to bar the door, and the young officers have said they will come anyway.
+The Lecture on Profit
+: Vornan has announced an evening on what the march owes the men it sends over the passes, the night before the levy musters. The merchants have asked the tavern-keeper to bar the door, and the young officers have said they will come anyway.
 
-2. **The Academic**—A master of rhetoric from Aurelane has come to hear the tavern philosopher, and has offered him a chair—a room, a stipend and students—on condition he stops talking about the war.
+The Academic
+: A master of rhetoric from Aurelane has come to hear the tavern philosopher, and has offered him a chair—a room, a stipend and students—on condition he stops talking about the war.
 
-3. **The Officer Who Listened**—A junior officer who took Vornan's questions seriously has refused an order in the field and is to be tried at the [Winter Assize]{.name data-type="affiliation/governmental"}. His defense is what Vornan taught him, and the court has sent for the teacher.
+The Officer Who Listened
+: A junior officer who took Vornan's questions seriously has refused an order in the field and is to be tried at the [Winter Assize]{.name data-type="affiliation/governmental"}. His defense is what Vornan taught him, and the court has sent for the teacher.
 
-4. **Shut In**—The alarm has sounded and Pirnebris has shut its gates with the flocks and the outlying families inside. Vornan is inside with the merchants he has spent ten years accusing.
+Shut In
+: The alarm has sounded and Pirnebris has shut its gates with the flocks and the outlying families inside. Vornan is inside with the merchants he has spent ten years accusing.

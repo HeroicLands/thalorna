@@ -438,19 +438,37 @@ Erithon's primary motivation is to perfect his craft and to use that mastery in 
 
 ### Strengths
 
-- **Master Archer**: Erithon's skill with the bow is outstanding; his accuracy, distance, and rate of fire exceed those of nearly any bowman in the kingdom, and his understanding of wind, distance, and trajectory is intuitive.
-- **Perception**: His vision extends far beyond normal human capability, allowing him to perceive details at great distances and to notice subtle signs others would miss.
-- **Emotional Calm Under Pressure**: Years of high-stakes hunting and militia duty have honed his ability to remain focused and controlled even in dangerous circumstances.
-- **Survival Skills**: His knowledge of woodcraft, hunting, tracking, and wilderness navigation is comprehensive and practical.
-- **Spiritual Discipline**: His training in the Aureldian faith provides him with both mental fortitude and a philosophical framework for understanding his purpose.
+Master Archer
+: Erithon's skill with the bow is outstanding; his accuracy, distance, and rate of fire exceed those of nearly any bowman in the kingdom, and his understanding of wind, distance, and trajectory is intuitive.
+
+Perception
+: His vision extends far beyond normal human capability, allowing him to perceive details at great distances and to notice subtle signs others would miss.
+
+Emotional Calm Under Pressure
+: Years of high-stakes hunting and militia duty have honed his ability to remain focused and controlled even in dangerous circumstances.
+
+Survival Skills
+: His knowledge of woodcraft, hunting, tracking, and wilderness navigation is comprehensive and practical.
+
+Spiritual Discipline
+: His training in the Aureldian faith provides him with both mental fortitude and a philosophical framework for understanding his purpose.
 
 ### Weaknesses
 
-- **Limited Close-Combat Ability**: Without his bow, Erithon's martial prowess drops dramatically; he lacks the training and instinctive familiarity with melee weapons that would make him strong in close quarters.
-- **Over-Reliance on Equipment**: He is psychologically dependent on his bow; separated from it or forced to improvise, he experiences distress.
-- **Emotional Distance**: While his calm is an asset, it can manifest as emotional coldness; he struggles to form deep personal connections.
-- **Perfectionism and Self-Criticism**: His high standards for himself can lead to harsh self-judgment and diminished confidence when he makes even minor mistakes.
-- **Limited Social Grace**: His taciturn nature and preference for action over conversation make him awkward in court settings or complex social situations.
+Limited Close-Combat Ability
+: Without his bow, Erithon's martial prowess drops dramatically; he lacks the training and instinctive familiarity with melee weapons that would make him strong in close quarters.
+
+Over-Reliance on Equipment
+: He is psychologically dependent on his bow; separated from it or forced to improvise, he experiences distress.
+
+Emotional Distance
+: While his calm is an asset, it can manifest as emotional coldness; he struggles to form deep personal connections.
+
+Perfectionism and Self-Criticism
+: His high standards for himself can lead to harsh self-judgment and diminished confidence when he makes even minor mistakes.
+
+Limited Social Grace
+: His taciturn nature and preference for action over conversation make him awkward in court settings or complex social situations.
 
 ## Social
 
@@ -489,12 +507,17 @@ The Devotees of Lizelas
 
 ## Plot Hooks
 
-1. **The Sacred Stag**: Hunters report sightings of a magnificent stag—enormous, ancient, and bearing strange markings—in the deep forest. Local legend claims it is a divine manifestation of Lizelas herself. When Erithon encounters it during a hunt, he finds himself unable to kill it, despite the easy shot. This begins a strange spiritual journey in which the stag appears again and again, as if trying to communicate something. The party must help Erithon understand the meaning behind the encounters, leading them into contact with druidic powers and ancient magics.
+The Sacred Stag
+: Hunters report sightings of a magnificent stag—enormous, ancient, and bearing strange markings—in the deep forest. Local legend claims it is a divine manifestation of Lizelas herself. When Erithon encounters it during a hunt, he finds himself unable to kill it, despite the easy shot. This begins a strange spiritual journey in which the stag appears again and again, as if trying to communicate something. The party must help Erithon understand the meaning behind the encounters, leading them into contact with druidic powers and ancient magics.
 
-2. **The Poisoned Arrow**: Erithon is framed for an assassination attempt when his distinctive arrows are found at the scene of a crime—yet he did not fire them. Investigation reveals someone is craftily duplicating his arrows and implicating him in murders and attacks. The conspiracy leads deeper into the kingdom's politics than Erithon could have imagined, and he must prove his innocence while uncovering who has gone to such lengths to destroy his reputation.
+The Poisoned Arrow
+: Erithon is framed for an assassination attempt when his distinctive arrows are found at the scene of a crime—yet he did not fire them. Investigation reveals someone is craftily duplicating his arrows and implicating him in murders and attacks. The conspiracy leads deeper into the kingdom's politics than Erithon could have imagined, and he must prove his innocence while uncovering who has gone to such lengths to destroy his reputation.
 
-3. **The Verdant Sanctum Under Siege**: High Priestess Kaldrema sends an urgent message that the Verdant Sanctum is under attack by forces she cannot identify—possibly cultists, possibly dark magic. Erithon must lead a rapid journey to aid the sanctuary, only to discover that the attack was a diversion for something far darker happening at the shrine's heart.
+The Verdant Sanctum Under Siege
+: High Priestess Kaldrema sends an urgent message that the Verdant Sanctum is under attack by forces she cannot identify—possibly cultists, possibly dark magic. Erithon must lead a rapid journey to aid the sanctuary, only to discover that the attack was a diversion for something far darker happening at the shrine's heart.
 
-4. **The Archery Tournament**: A grand tournament is announced that will attract the finest archers from across multiple kingdoms. Erithon is strongly encouraged to participate, but strange portents surround the event. The party discovers that the tournament is actually a cover for darker purposes—slave trading, assassination, or the identification of skilled warriors for conscription into a shadowy force.
+The Archery Tournament
+: A grand tournament is announced that will attract the finest archers from across multiple kingdoms. Erithon is strongly encouraged to participate, but strange portents surround the event. The party discovers that the tournament is actually a cover for darker purposes—slave trading, assassination, or the identification of skilled warriors for conscription into a shadowy force.
 
-5. **The Fallen Student**: A young apprentice archer Erithon once trained seeks him out bearing terrible news—others who studied under Erithon are being systematically hunted and killed. The common thread is their connection to him, and he must discover why he has become a target. This investigation could reveal that his past contains secrets he himself does not fully understand, or that a powerful enemy seeks to eliminate all his connections.
+The Fallen Student
+: A young apprentice archer Erithon once trained seeks him out bearing terrible news—others who studied under Erithon are being systematically hunted and killed. The common thread is their connection to him, and he must discover why he has become a target. This investigation could reveal that his past contains secrets he himself does not fully understand, or that a powerful enemy seeks to eliminate all his connections.

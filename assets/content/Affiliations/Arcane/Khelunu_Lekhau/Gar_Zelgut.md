@@ -68,6 +68,11 @@ A seconded practitioner is also counted stained. The Purifier of [[affiliation-g
 
 ## See Also
 
-- [[lore-zelgut|Zelgút]]—the domain
-- [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy, and why the domain is taught and proscribed
-- [[place-khelunu|Khelunu]]—where the Eight are taught
+[[lore-zelgut|Zelgút]]
+: the domain
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the philosophy, and why the domain is taught and proscribed
+
+[[place-khelunu|Khelunu]]
+: where the Eight are taught

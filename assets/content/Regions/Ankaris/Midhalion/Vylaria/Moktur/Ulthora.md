@@ -22,5 +22,8 @@ A watchtower sergeant on the high road, asked which of the province's towns he w
 
 ## See Also
 
-- [[place-moktur|Moktur]]—the land the town stands in
-- [[affiliation-provncmktr|Province of Moktur]]—the province that holds it
+[[place-moktur|Moktur]]
+: the land the town stands in
+
+[[affiliation-provncmktr|Province of Moktur]]
+: the province that holds it

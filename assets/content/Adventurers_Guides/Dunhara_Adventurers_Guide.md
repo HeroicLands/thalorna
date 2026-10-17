@@ -38,8 +38,17 @@ A party usually arrives as a caravan's escort. Escort duty passes from tribe to 
 
 ## Where to Read Next
 
-- [[lore-dunhariclt|The Dunhari]]—salt, feud, poets, and what a person owes
-- [[affiliation-dunhartrbs|The Dunhara Tribes]]—ranks and offices from the kinless to the Speaker of the Council
-- [[affiliation-strmcltsbhrms|The Storm Cults of Báhramis]]—the five lineages and the recognition of vessels
-- [[affiliation-wrrscrcldnhrtrbs|The Warrior's Circle]]—the Old Promise and the hundred and eight
-- [[skill-dunharlng|The Dunhari language]]—names, clan suffixes and sample phrases
+[[lore-dunhariclt|The Dunhari]]
+: salt, feud, poets, and what a person owes
+
+[[affiliation-dunhartrbs|The Dunhara Tribes]]
+: ranks and offices from the kinless to the Speaker of the Council
+
+[[affiliation-strmcltsbhrms|The Storm Cults of Báhramis]]
+: the five lineages and the recognition of vessels
+
+[[affiliation-wrrscrcldnhrtrbs|The Warrior's Circle]]
+: the Old Promise and the hundred and eight
+
+[[skill-dunharlng|The Dunhari language]]
+: names, clan suffixes and sample phrases

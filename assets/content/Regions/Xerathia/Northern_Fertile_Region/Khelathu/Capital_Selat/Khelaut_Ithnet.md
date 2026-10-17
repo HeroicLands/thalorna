@@ -43,8 +43,17 @@ Khelaut-Ithnet is the capital's dungeon, sitting in plain sight at the edge of t
 
 ## See Also
 
-- [[place-zugezer|Zu-Gezer]]—The royal necropolis it surrounds
-- [[place-galezkara|Galezkara]]—The living city across the water
-- [[affiliation-capitalselat|The Capital Selat]]—Parent selat
-- [[place-khelzuret|Khelzuret]]—The empire's great mortuary selat and pilgrimage necropolis
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview · [[affiliation-khelathpnthn|Khelathi Pantheon]]—Pantheon
+[[place-zugezer|Zu-Gezer]]
+: The royal necropolis it surrounds
+
+[[place-galezkara|Galezkara]]
+: The living city across the water
+
+[[affiliation-capitalselat|The Capital Selat]]
+: Parent selat
+
+[[place-khelzuret|Khelzuret]]
+: The empire's great mortuary selat and pilgrimage necropolis
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview · [[affiliation-khelathpnthn|Khelathi Pantheon]]—Pantheon

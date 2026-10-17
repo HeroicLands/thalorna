@@ -75,12 +75,23 @@ The two systems are not in competition. They handle different kinds of commerce.
 
 Kin-and-hall credit is the dominant commercial credit system in:
 
-- The [[place-nrdlndsrgn|Nordlands]] (all five kingdoms)—the formal Vylarian banking system does not operate here; hall-credit handles all substantial commerce
-- [[place-vrystwald|Vristwald]]—similar; the cities have minor moneylender activity but the interior runs on clan-credit
-- The [[place-dunharargn|Dunhara]]—tribal kin-credit is the only credit infrastructure
-- The [[lore-sowidesclt|Sovidur]] tribes of the [[place-khzryndsrtrgn|Khazryn]]—each tribe extends and calls credit on its own account, and a house's name is its security from one range to the next
-- The [[affiliation-nylbtrblntn|Nyáluba]] and the broader [[place-sthrnsvnhs|Southern Savannahs]]—clan-credit operates in the partially-settled communities
-- The deep rural areas of every settled polity—even where the formal banking system reaches the cities, the rural kin-network operates substantially on this older credit pattern
+The [[place-nrdlndsrgn|Nordlands]] (all five kingdoms)
+: the formal Vylarian banking system does not operate here; hall-credit handles all substantial commerce
+
+[[place-vrystwald|Vristwald]]
+: similar; the cities have minor moneylender activity but the interior runs on clan-credit
+
+The [[place-dunharargn|Dunhara]]
+: tribal kin-credit is the only credit infrastructure
+
+The [[lore-sowidesclt|Sovidur]] tribes of the [[place-khzryndsrtrgn|Khazryn]]
+: each tribe extends and calls credit on its own account, and a house's name is its security from one range to the next
+
+The [[affiliation-nylbtrblntn|Nyáluba]] and the broader [[place-sthrnsvnhs|Southern Savannahs]]
+: clan-credit operates in the partially-settled communities
+
+The deep rural areas of every settled polity
+: even where the formal banking system reaches the cities, the rural kin-network operates substantially on this older credit pattern
 
 Kin-and-hall credit also operates as a _secondary_ system in many settled polities—handling intimate commerce within clans and families even where formal banking is available, because the kin-credit system's social-binding character makes it preferable for transactions where the relationship matters more than the strict commercial terms.
 

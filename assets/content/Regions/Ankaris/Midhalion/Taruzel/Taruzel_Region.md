@@ -87,12 +87,29 @@ To the east, across the strait, lies the Kingdom of Amradad. Taruzel keeps cordi
 
 ## See Also
 
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—The polity that holds this land
-- [[place-midhalnrgn|Mídhalión Region]]—The enclosing region
-- [[place-vylariargn|Vylaria Region]]—Sister region on the northern shore
-- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the mainland across the strait
-- [[place-vylarianse|Vylarian Sea]]—Taruzel's maritime domain
-- [[place-besikar2|Besikar]], [[place-yamuzel2|Yamuzel]], [[place-qudumel2|Kudumel]], [[place-bazunel2|Bazunel]], [[place-sazumun2|Sazumun]]—The cities of the five city-states
-- [[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]], [[affiliation-mrchntryvl|Merchantry of the Veil]]—The great guilds
-- [[affiliation-vezakuni|Vezakuni]]—The guild umbrella and its treasury
-- [[lore-trzlncrncy|Taruzelian Currency]]—The region's coinage
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: The polity that holds this land
+
+[[place-midhalnrgn|Mídhalión Region]]
+: The enclosing region
+
+[[place-vylariargn|Vylaria Region]]
+: Sister region on the northern shore
+
+[[affiliation-kngdmmrdd|Kingdom of Amradad]]
+: the mainland across the strait
+
+[[place-vylarianse|Vylarian Sea]]
+: Taruzel's maritime domain
+
+[[place-besikar2|Besikar]], [[place-yamuzel2|Yamuzel]], [[place-qudumel2|Kudumel]], [[place-bazunel2|Bazunel]], [[place-sazumun2|Sazumun]]
+: The cities of the five city-states
+
+[[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]], [[affiliation-mrchntryvl|Merchantry of the Veil]]
+: The great guilds
+
+[[affiliation-vezakuni|Vezakuni]]
+: The guild umbrella and its treasury
+
+[[lore-trzlncrncy|Taruzelian Currency]]
+: The region's coinage

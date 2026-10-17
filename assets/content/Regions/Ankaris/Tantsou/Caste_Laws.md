@@ -13,14 +13,29 @@ A district magistrate breaking in a new clerk gives him the law of the [[affilia
 
 The society of Tantsou is divided into eight castes, from the highest:
 
-1. [[lore-zhazho|Zhazho]]—Sons of the Dragon: the Emperor, his family and the Warlords, the administrative lineage the celestial bureaucracy designated, holding absolute authority.
-2. [[lore-wanduo|Wánduo]]—chattel sorcerers, born with innate magical ability and bound to serve the Zhazho, the one caste permitted to practice magic.
-3. [[lore-wohou|Wohou]]—warrior nobility, the commanders and administrators who alone may command armed force.
-4. [[lore-tanchei|Tanchéi]]—celestial scholars: interpreters of omens, keepers of the sacred texts and advisors on celestial law.
-5. [[lore-tsaihuo|Tsaihuo]]—artisans, craftsmen and common warriors, the productive backbone of the economy, including the _Wonong_ (common soldiers) and the Yaiwo (healers).
-6. [[lore-nouwen|Nouwén]]—peasant farmers, who work the land and feed the empire, and among whom the Leigen (Spirit Masters) arise.
-7. [[lore-shuonong|Shuonong]]—merchants and usurers, who trade and lend and make nothing themselves.
-8. [[lore-noutsou|Noutsou]]—slaves and outcasts, with almost no rights and no path upward.
+[[lore-zhazho|Zhazho]]
+: Sons of the Dragon: the Emperor, his family and the Warlords, the administrative lineage the celestial bureaucracy designated, holding absolute authority.
+
+[[lore-wanduo|Wánduo]]
+: chattel sorcerers, born with innate magical ability and bound to serve the Zhazho, the one caste permitted to practice magic.
+
+[[lore-wohou|Wohou]]
+: warrior nobility, the commanders and administrators who alone may command armed force.
+
+[[lore-tanchei|Tanchéi]]
+: celestial scholars: interpreters of omens, keepers of the sacred texts and advisors on celestial law.
+
+[[lore-tsaihuo|Tsaihuo]]
+: artisans, craftsmen and common warriors, the productive backbone of the economy, including the _Wonong_ (common soldiers) and the Yaiwo (healers).
+
+[[lore-nouwen|Nouwén]]
+: peasant farmers, who work the land and feed the empire, and among whom the Leigen (Spirit Masters) arise.
+
+[[lore-shuonong|Shuonong]]
+: merchants and usurers, who trade and lend and make nothing themselves.
+
+[[lore-noutsou|Noutsou]]
+: slaves and outcasts, with almost no rights and no path upward.
 
 ## Universal Principles
 
@@ -98,10 +113,23 @@ The empire manages this tension and never resolves it. The classification insist
 
 ## See Also
 
-- [[lore-tseising|Law and Honor]]—the Teng Lou (Heavenly Law) and the system of punishment
-- [[lore-marriage|Marriage]]—marriage customs and caste restrictions
-- [[lore-personlnms|Personal Names]]—naming conventions
-- [[lore-numerology|Numerology]]—auspicious and inauspicious numbers
-- [[lore-elderraces|Elder Races]]—how the [[lore-flksinale|Sinale]] and [[lore-flkkhazar|Khazari]] fit within the caste system
-- [[lore-tantsoucrncy|Tantsou Currency]]—the ledger-credit a classification opens
-- [[affiliation-tantsouempr|Empire of Tantsou]]—overview of imperial governance and structure
+[[lore-tseising|Law and Honor]]
+: the Teng Lou (Heavenly Law) and the system of punishment
+
+[[lore-marriage|Marriage]]
+: marriage customs and caste restrictions
+
+[[lore-personlnms|Personal Names]]
+: naming conventions
+
+[[lore-numerology|Numerology]]
+: auspicious and inauspicious numbers
+
+[[lore-elderraces|Elder Races]]
+: how the [[lore-flksinale|Sinale]] and [[lore-flkkhazar|Khazari]] fit within the caste system
+
+[[lore-tantsoucrncy|Tantsou Currency]]
+: the ledger-credit a classification opens
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: overview of imperial governance and structure

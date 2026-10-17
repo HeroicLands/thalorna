@@ -314,20 +314,29 @@ The presence of a Destrier on a battlefield carries psychological weight far exc
 
 ## Attributes
 
-- **Strength:** 28-33 (1d6+27)
+Strength
+: 28-33 (1d6+27)
 
-- **Endurance:** 10-15 (1d6+9)
+Endurance
+: 10-15 (1d6+9)
 
-- **Agility:** 8-13 (1d6+7)
+Agility
+: 8-13 (1d6+7)
 
-- **Perception:** 15-20 (1d6+14)
+Perception
+: 15-20 (1d6+14)
 
-- **Scent:** 3-6 (1d4+2)
+Scent
+: 3-6 (1d4+2)
 
-- **Aura:** 3-6 (1d4+2)
+Aura
+: 3-6 (1d4+2)
 
-- **Will:** 10-15 (1d6+9)
+Will
+: 10-15 (1d6+9)
 
-- **Reasoning:** 4-7 (1d4+3)
+Reasoning
+: 4-7 (1d4+3)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

@@ -57,8 +57,11 @@ Somewhere in the woods of the hills stands the ditched camp of the cohort that f
 
 ## Its Places
 
-- [[place-valdun|Valdun]]—the fortified inland town that anchors the march.
-- [[place-kelpasi|Kélpasi]]—a hill village of the interior.
+[[place-valdun|Valdun]]
+: the fortified inland town that anchors the march.
+
+[[place-kelpasi|Kélpasi]]
+: a hill village of the interior.
 
 ## See Also
 

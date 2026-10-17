@@ -84,13 +84,26 @@ That claim is the key to everything else. The celestial bureaucracy of the [[aff
 
 ## At a Glance
 
-- **The throne:** the Emperor, the **Son of Heaven** (_Tengzhéi_), who holds the [[lore-mandatehvn|Mandate of Heaven]] by cosmic appointment and rules by being correctly classified.
-- **The Warlords:** the _Wozhuo_ of the [[lore-zhazho|Zhazho]], each holding a province with its armies and answering to the Emperor alone; the kingmakers of every succession dispute.
-- **The sorcerers:** the [[lore-wanduo|Wánduo]], property of the imperial family, ranked second of the eight castes and owning nothing.
-- **The administration:** the [[lore-tanchei|Tanchéi]] scholars, who read the omens, keep the sacred texts and staff the ministries.
-- **The law:** the [[lore-castelaws|Caste Laws]] and the [[lore-tseising|Teng Lou]], enforced by the Warlords' magistrates; every subject is recorded in the census and every traveler carries a classification tablet.
-- **The frontiers:** [[affiliation-jenchaiempr|Jenchai]] across the eastern strait, the fortified [[place-grkrhlmrgn|Grukari]] marches to the north, the quiet, expensive passes into the [[place-khzryndsrtrgn|Khazryn]] to the west.
-- **The game:** the [[lore-weizhairui|Wei Zhai Rui]], the court's contest of manipulation, in which every house of consequence is a player.
+The throne
+: the Emperor, the **Son of Heaven** (_Tengzhéi_), who holds the [[lore-mandatehvn|Mandate of Heaven]] by cosmic appointment and rules by being correctly classified.
+
+The Warlords
+: the _Wozhuo_ of the [[lore-zhazho|Zhazho]], each holding a province with its armies and answering to the Emperor alone; the kingmakers of every succession dispute.
+
+The sorcerers
+: the [[lore-wanduo|Wánduo]], property of the imperial family, ranked second of the eight castes and owning nothing.
+
+The administration
+: the [[lore-tanchei|Tanchéi]] scholars, who read the omens, keep the sacred texts and staff the ministries.
+
+The law
+: the [[lore-castelaws|Caste Laws]] and the [[lore-tseising|Teng Lou]], enforced by the Warlords' magistrates; every subject is recorded in the census and every traveler carries a classification tablet.
+
+The frontiers
+: [[affiliation-jenchaiempr|Jenchai]] across the eastern strait, the fortified [[place-grkrhlmrgn|Grukari]] marches to the north, the quiet, expensive passes into the [[place-khzryndsrtrgn|Khazryn]] to the west.
+
+The game
+: the [[lore-weizhairui|Wei Zhai Rui]], the court's contest of manipulation, in which every house of consequence is a player.
 
 ## The Celestial Administration and the Emperor
 
@@ -102,14 +115,29 @@ Power sits in three places. The Emperor and his household hold the ritual center
 
 Tantsou society runs in eight castes, which fix a person's profession, legal standing, dress, marriage and the name, if any, by which they may be known. From the highest:
 
-1. [[lore-zhazho|Zhazho]]—Sons of the Dragon: the Emperor, his family and the Warlords
-2. [[lore-wanduo|Wánduo]]—chattel sorcerers, bound to serve the Zhazho
-3. [[lore-wohou|Wohou]]—warrior nobility: commanders and administrators
-4. [[lore-tanchei|Tanchéi]]—celestial scholars: omen-readers and keepers of the sacred texts
-5. [[lore-tsaihuo|Tsaihuo]]—artisans, craftsmen and common warriors
-6. [[lore-nouwen|Nouwén]]—peasant farmers and laborers
-7. [[lore-shuonong|Shuonong]]—merchants and usurers
-8. [[lore-noutsou|Noutsou]]—slaves and outcasts
+[[lore-zhazho|Zhazho]]
+: Sons of the Dragon: the Emperor, his family and the Warlords
+
+[[lore-wanduo|Wánduo]]
+: chattel sorcerers, bound to serve the Zhazho
+
+[[lore-wohou|Wohou]]
+: warrior nobility: commanders and administrators
+
+[[lore-tanchei|Tanchéi]]
+: celestial scholars: omen-readers and keepers of the sacred texts
+
+[[lore-tsaihuo|Tsaihuo]]
+: artisans, craftsmen and common warriors
+
+[[lore-nouwen|Nouwén]]
+: peasant farmers and laborers
+
+[[lore-shuonong|Shuonong]]
+: merchants and usurers
+
+[[lore-noutsou|Noutsou]]
+: slaves and outcasts
 
 The Caste Laws set out the rights, duties and restrictions of each. The classification of persons is the subject of the legal code and the foundation of the administration, to a degree no Aureldian kingdom's class system approaches: Tantsou civilization treats the sorting of people as one part of the sorting of reality, and the ministries that track the movements of comets also track the ritual purity of provincial officials.
 
@@ -131,45 +159,87 @@ The Empire's external trade is enormous. It flows west along the [[lore-celestia
 
 **Governance and law**
 
-- [[lore-tseising|Law and Honor]]—the Teng Lou (Heavenly Law), the magistrates and the Tseising ritual
-- [[lore-castelaws|Caste Laws]]—the rights, duties and restrictions of each caste, the census and the tablets
+[[lore-tseising|Law and Honor]]
+: the Teng Lou (Heavenly Law), the magistrates and the Tseising ritual
+
+[[lore-castelaws|Caste Laws]]
+: the rights, duties and restrictions of each caste, the census and the tablets
 
 **Culture and society**
 
-- [[lore-tantsouclt|The Tantsou]]—classification, the ledger, names and manners
-- [[lore-medicine|Medicine]]—apothecaries, physicians and the Yaiwo healing tradition
-- [[lore-marriage|Marriage]]—marriage customs and caste restrictions
-- [[lore-personlnms|Personal Names]]—naming conventions and the honor of receiving a name
-- [[lore-numerology|Numerology]]—auspicious and inauspicious numbers
-- [[lore-clndrstrlgy|Calendar and Astrology]]—the two calendars, the months, the dynasties and the spirit animals
-- [[lore-phlsphyleiwo|Philosophy of Leiwo]]—Lei, the domains of classification and the daily practices
-- [[lore-tantsoucrncy|Tantsou Currency]]—ledger-credit and the bureau-set rates of exchange
+[[lore-tantsouclt|The Tantsou]]
+: classification, the ledger, names and manners
+
+[[lore-medicine|Medicine]]
+: apothecaries, physicians and the Yaiwo healing tradition
+
+[[lore-marriage|Marriage]]
+: marriage customs and caste restrictions
+
+[[lore-personlnms|Personal Names]]
+: naming conventions and the honor of receiving a name
+
+[[lore-numerology|Numerology]]
+: auspicious and inauspicious numbers
+
+[[lore-clndrstrlgy|Calendar and Astrology]]
+: the two calendars, the months, the dynasties and the spirit animals
+
+[[lore-phlsphyleiwo|Philosophy of Leiwo]]
+: Lei, the domains of classification and the daily practices
+
+[[lore-tantsoucrncy|Tantsou Currency]]
+: ledger-credit and the bureau-set rates of exchange
 
 **Religion and cosmology**
 
-- [[lore-celestlrdr|Celestial Order]]—the religious and cosmological framework
-- [[lore-clstlpnthn|Celestial Pantheon]]—Tanzho, Wéizhuo, Raogui and Youwéi
-- [[lore-fvlmntlrds|Five Elemental Lords]]—the administrators of Air, Fire, Earth, Metal and Water
-- [[lore-mandatehvn|Mandate of Heaven]]—the Tengwo doctrine and the cosmic appointment of the Emperor
-- [[lore-infrnlrlms|Infernal Realms]]—the demons, the Youwéng and the Demon King Yozhuo
-- [[lore-ancstrwrshp|Ancestor Worship]]—spirit veneration and the Leigen tradition
+[[lore-celestlrdr|Celestial Order]]
+: the religious and cosmological framework
+
+[[lore-clstlpnthn|Celestial Pantheon]]
+: Tanzho, Wéizhuo, Raogui and Youwéi
+
+[[lore-fvlmntlrds|Five Elemental Lords]]
+: the administrators of Air, Fire, Earth, Metal and Water
+
+[[lore-mandatehvn|Mandate of Heaven]]
+: the Tengwo doctrine and the cosmic appointment of the Emperor
+
+[[lore-infrnlrlms|Infernal Realms]]
+: the demons, the Youwéng and the Demon King Yozhuo
+
+[[lore-ancstrwrshp|Ancestor Worship]]
+: spirit veneration and the Leigen tradition
 
 **Peoples**
 
-- [[lore-elderraces|Elder Races]]—the [[lore-flksinale|Sinale]] and [[lore-flkkhazar|Khazari]] within the caste system
+[[lore-elderraces|Elder Races]]
+: the [[lore-flksinale|Sinale]] and [[lore-flkkhazar|Khazari]] within the caste system
 
 **Politics and intrigue**
 
-- [[lore-weizhairui|Wei Zhai Rui]]—the game of political manipulation at the imperial court
+[[lore-weizhairui|Wei Zhai Rui]]
+: the game of political manipulation at the imperial court
 
 **Threats and conflicts**
 
-- [[being-wogenhenzhuo|Wogen Henzhuo]]—the steppe warlord on the northern frontier
-- [[being-tuijawengyan|Tuija Wengyan]]—the condemned general and his revolt
-- [[affiliation-yanchaizhao|Yanchai Zhao]]—the noble house gambling on the Black Lotus
-- [[affiliation-haluozhao|Black Lotus Society]]—forged tablets, bought omens and starved ancestors
-- [[affiliation-hazhao|Ha Zhao]]—the Shadow Sect of escaped Wánduo
-- [[lore-chaizho|Chaizho]]—the pack-hunting mountain dragons loosed by the great earthquake
+[[being-wogenhenzhuo|Wogen Henzhuo]]
+: the steppe warlord on the northern frontier
+
+[[being-tuijawengyan|Tuija Wengyan]]
+: the condemned general and his revolt
+
+[[affiliation-yanchaizhao|Yanchai Zhao]]
+: the noble house gambling on the Black Lotus
+
+[[affiliation-haluozhao|Black Lotus Society]]
+: forged tablets, bought omens and starved ancestors
+
+[[affiliation-hazhao|Ha Zhao]]
+: the Shadow Sect of escaped Wánduo
+
+[[lore-chaizho|Chaizho]]
+: the pack-hunting mountain dragons loosed by the great earthquake
 
 ## Outside the Ladder
 
@@ -177,6 +247,11 @@ The Noutsou are slaves and outcasts, the caste that is not a caste, whose member
 
 ## See Also
 
-- [[place-tantsouregin|Tantsou Region]]—the regional geography, peoples and culture
-- [[place-jenchairgn|Jenchai Region]]—the rebellious eastern archipelago
-- [[place-ankrscntnnt|Ankaris Continent]]—parent continent
+[[place-tantsouregin|Tantsou Region]]
+: the regional geography, peoples and culture
+
+[[place-jenchairgn|Jenchai Region]]
+: the rebellious eastern archipelago
+
+[[place-ankrscntnnt|Ankaris Continent]]
+: parent continent

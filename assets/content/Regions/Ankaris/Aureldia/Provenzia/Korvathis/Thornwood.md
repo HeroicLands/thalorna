@@ -18,5 +18,8 @@ The **[Traveler's Rest Inn]{.name data-type="place/structure"}** at the crossroa
 
 ## See Also
 
-- [[being-kjrvngjrln|Chorvan Jarlen]]—the ostler who recovers what the bandits take
-- [[place-korvathis|Korvatis]]—the southern country the wood lies in
+[[being-kjrvngjrln|Chorvan Jarlen]]
+: the ostler who recovers what the bandits take
+
+[[place-korvathis|Korvatis]]
+: the southern country the wood lies in

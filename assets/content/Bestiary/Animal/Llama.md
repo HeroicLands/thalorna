@@ -306,12 +306,29 @@ Llamas kept with smaller livestock — poultry, young camelids — will actively
 
 ## Attributes
 
-- **Strength:** 9-14 (1d6+8) — Adequate pack animal; not built for heavy labor
-- **Endurance:** 11-16 (1d6+10) — Excellent altitude and long-distance stamina
-- **Dexterity:** 7-10 (1d4+6) — Adequate; prehensile lip shows surprising manipulation ability
-- **Agility:** 8-11 (1d4+7) — Sure-footed on mountain trails; not fast on flat ground
-- **Perception:** 10-15 (1d6+9) — Alert; good sentinel animal
-- **Aura:** 6-9 (1d4+5) — Essential and valued, but not spiritually elevated
-- **Will:** 10-15 (1d6+9) — Stubborn and opinionated; refuses unsafe or excessive tasks
-- **Reasoning:** 6-9 (1d4+5) — Intelligent; learns routes, recognizes handlers, assesses loads
-- **Creativity:** 4-7 (1d4+3) — Limited
+Strength
+: 9-14 (1d6+8) — Adequate pack animal; not built for heavy labor
+
+Endurance
+: 11-16 (1d6+10) — Excellent altitude and long-distance stamina
+
+Dexterity
+: 7-10 (1d4+6) — Adequate; prehensile lip shows surprising manipulation ability
+
+Agility
+: 8-11 (1d4+7) — Sure-footed on mountain trails; not fast on flat ground
+
+Perception
+: 10-15 (1d6+9) — Alert; good sentinel animal
+
+Aura
+: 6-9 (1d4+5) — Essential and valued, but not spiritually elevated
+
+Will
+: 10-15 (1d6+9) — Stubborn and opinionated; refuses unsafe or excessive tasks
+
+Reasoning
+: 6-9 (1d4+5) — Intelligent; learns routes, recognizes handlers, assesses loads
+
+Creativity
+: 4-7 (1d4+3) — Limited

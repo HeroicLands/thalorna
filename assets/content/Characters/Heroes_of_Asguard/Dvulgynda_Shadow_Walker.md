@@ -401,8 +401,11 @@ Dvulginda's stealth abilities border on the supernatural; she can move through g
 
 ## Plot Hooks
 
-1. **The Redemption Heist**—Dvulginda has learned of an artifact that could end the war she inadvertently started. Stealing it would be the most dangerous job of her career, requiring her to infiltrate a fortress in the middle of an active battlefield.
+The Redemption Heist
+: Dvulginda has learned of an artifact that could end the war she inadvertently started. Stealing it would be the most dangerous job of her career, requiring her to infiltrate a fortress in the middle of an active battlefield.
 
-2. **The Crown's Curse**—The misfortunes plaguing Dvulginda are getting worse. The Crown of Ages seems to be drawing her back toward it, and she must either find a way to break the connection or return the crown to its rightful owner.
+The Crown's Curse
+: The misfortunes plaguing Dvulginda are getting worse. The Crown of Ages seems to be drawing her back toward it, and she must either find a way to break the connection or return the crown to its rightful owner.
 
-3. **The Double Contract**—Dvulginda has been hired for the same job by two different clients with opposing goals. Both are too dangerous to cross, and she must find a way to satisfy both—or play them against each other.
+The Double Contract
+: Dvulginda has been hired for the same job by two different clients with opposing goals. Both are too dangerous to cross, and she must find a way to satisfy both—or play them against each other.

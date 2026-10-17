@@ -23,4 +23,5 @@ Whoever finds it without being shown is marked for the embalmer's table, which i
 
 ## See Also
 
-- [[lore-khelathiclt|Khelathi]]—the people and their ways
+[[lore-khelathiclt|Khelathi]]
+: the people and their ways

@@ -22,5 +22,8 @@ The name is a reckoner's word: _tvurn-_ is two things that must be counted as on
 
 ## See Also
 
-- [[being-sklfmylfrtng|Skulfmil Fire-Tongue]]—the bard who set the city rioting
-- [[place-nrdlndsrgn|Nordlands]]—the region the city stands in
+[[being-sklfmylfrtng|Skulfmil Fire-Tongue]]
+: the bard who set the city rioting
+
+[[place-nrdlndsrgn|Nordlands]]
+: the region the city stands in

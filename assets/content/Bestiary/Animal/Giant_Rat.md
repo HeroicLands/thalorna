@@ -286,12 +286,29 @@ A warren has dozens of holes too small for anything but a rat or a ferret. A col
 
 ## Attributes
 
-- **Strength:** 5-8 (1d4+4)
-- **Endurance:** 6-9 (1d4+5)
-- **Dexterity:** 11-16 (1d6+10)
-- **Agility:** 12-17 (1d6+11)
-- **Perception:** 11-16 (1d6+10)
-- **Aura:** 3-6 (1d4+2)
-- **Will:** 6-9 (1d4+5)
-- **Reasoning:** 6-9 (1d4+5)
-- **Creativity:** 5-8 (1d4+4)
+Strength
+: 5-8 (1d4+4)
+
+Endurance
+: 6-9 (1d4+5)
+
+Dexterity
+: 11-16 (1d6+10)
+
+Agility
+: 12-17 (1d6+11)
+
+Perception
+: 11-16 (1d6+10)
+
+Aura
+: 3-6 (1d4+2)
+
+Will
+: 6-9 (1d4+5)
+
+Reasoning
+: 6-9 (1d4+5)
+
+Creativity
+: 5-8 (1d4+4)

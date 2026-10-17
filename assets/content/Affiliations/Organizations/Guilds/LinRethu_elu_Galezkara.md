@@ -56,5 +56,8 @@ Say a young scholar with a theory of the river's silt has been turned away from 
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The city the circle meets in
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-galezkara|Galezkara]]
+: The city the circle meets in
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

@@ -66,6 +66,11 @@ The Master of the Set Form certifies that a wrought form is exact enough to carr
 
 ## See Also
 
-- [[lore-qeltnu|Qelt'nu]]—the domain
-- [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
-- [[place-khelunu|Khelunu]]—where the Eight are taught
+[[lore-qeltnu|Qelt'nu]]
+: the domain
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the philosophy and the other seven domains
+
+[[place-khelunu|Khelunu]]
+: where the Eight are taught

@@ -430,10 +430,14 @@ The older teamsters of the guild, who have lost the harbor's best work to her an
 
 ## Plot Hooks
 
-1. **The Tide**—A warehouseman has a cargo that must be aboard before the evening tide, and the only road from his store to the quay is through the market on market day.
+The Tide
+: A warehouseman has a cargo that must be aboard before the evening tide, and the only road from his store to the quay is through the market on market day.
 
-2. **The Overturned Wain**—One of Estara's carts has gone over in a lane with a load of stone, and a child was under it. The child will live, and the guild has called her before it.
+The Overturned Wain
+: One of Estara's carts has gone over in a lane with a load of stone, and a child was under it. The child will live, and the guild has called her before it.
 
-3. **The Cut Trace**—Estara's best team bolted on the quay road with a cut trace, and the carter who went into the harbor last year has been seen near her yard.
+The Cut Trace
+: Estara's best team bolted on the quay road with a cut trace, and the carter who went into the harbor last year has been seen near her yard.
 
-4. **The Seat**—The older teamsters have proposed at the guild that a seat may not pass to a daughter, and the vote is next month. If it carries, her seat, her license and the harbor work go together.
+The Seat
+: The older teamsters have proposed at the guild that a seat may not pass to a daughter, and the vote is next month. If it carries, her seat, her license and the harbor work go together.

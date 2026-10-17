@@ -42,9 +42,20 @@ The sill is a day along the southern shore of the lake from the terrace country,
 
 ## See Also
 
-- [[place-klhrkthrgap|The Kuethori Gap]]—the gorge at whose head the sill lies
-- [[place-kuethori|Kuethori]]—the village of the lineage that holds the sill
-- [[place-klhrlake|The Bowl Lake]]—the water the sill holds to its level
-- [[place-koathevoi|Koathevoi]]—the terrace town whose lowest walls are under water
-- [[place-mirthaan|Mirthaan]]—the sanctuary whose custodians tend the sill
-- [[lore-itharisul|Ithasul]]—the substance of the works, and the states a work passes through
+[[place-klhrkthrgap|The Kuethori Gap]]
+: the gorge at whose head the sill lies
+
+[[place-kuethori|Kuethori]]
+: the village of the lineage that holds the sill
+
+[[place-klhrlake|The Bowl Lake]]
+: the water the sill holds to its level
+
+[[place-koathevoi|Koathevoi]]
+: the terrace town whose lowest walls are under water
+
+[[place-mirthaan|Mirthaan]]
+: the sanctuary whose custodians tend the sill
+
+[[lore-itharisul|Ithasul]]
+: the substance of the works, and the states a work passes through

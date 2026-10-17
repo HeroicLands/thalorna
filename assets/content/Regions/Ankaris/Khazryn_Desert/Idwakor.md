@@ -44,8 +44,17 @@ The tribes hold the caverns as the country's own lungs and bar them to strangers
 
 ## See Also
 
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the enclosing region
-- [[place-sowidwell|Sovid]]—the hand-off well at Idvaqor's western edge
-- [[place-tantsouregin|Tantsou Region]]—the empire at the road's end
-- [[place-graznmntns|The Grazian Mountains]]—the range along the southern edge
-- [[lore-celestialroad|The Celestial Road]]—the caravan road to Tantsou
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the enclosing region
+
+[[place-sowidwell|Sovid]]
+: the hand-off well at Idvaqor's western edge
+
+[[place-tantsouregin|Tantsou Region]]
+: the empire at the road's end
+
+[[place-graznmntns|The Grazian Mountains]]
+: the range along the southern edge
+
+[[lore-celestialroad|The Celestial Road]]
+: the caravan road to Tantsou

@@ -139,7 +139,14 @@ The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of t
 
 ## See Also
 
-- [[place-twrlghtnmrkd|Tower of the Lightning-Marked]]—the site and its toll
-- [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]—the lineages and the Council
-- [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]—the Old Promise
-- [[lore-dunhariclt|Dunhari]]—salt, the Kinless and the Old Promise
+[[place-twrlghtnmrkd|Tower of the Lightning-Marked]]
+: the site and its toll
+
+[[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]
+: the lineages and the Council
+
+[[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]
+: the Old Promise
+
+[[lore-dunhariclt|Dunhari]]
+: salt, the Kinless and the Old Promise

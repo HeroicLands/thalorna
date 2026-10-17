@@ -24,7 +24,14 @@ Overgrown Vylarian posts survive in the southern woods, traces of the road the [
 
 ## See Also
 
-- [[place-vrystwald|Vristwald]]—the wider forest
-- [[place-skathwald|Skathwald]]—the neighboring reach to the northwest
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the power beyond the highlands
-- [[place-dunkelholt|Dunkelholt]]—an overgrown post on the Legions' Road, roofed again as a guesthouse
+[[place-vrystwald|Vristwald]]
+: the wider forest
+
+[[place-skathwald|Skathwald]]
+: the neighboring reach to the northwest
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the power beyond the highlands
+
+[[place-dunkelholt|Dunkelholt]]
+: an overgrown post on the Legions' Road, roofed again as a guesthouse

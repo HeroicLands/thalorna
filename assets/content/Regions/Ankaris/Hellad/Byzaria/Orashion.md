@@ -92,8 +92,17 @@ Standing runs from the register outward. The freeman is enrolled in the city's r
 
 ## See Also
 
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation
-- [[place-byzariargn|Bizaria Region]]—the League's country
-- [[place-orashion2|Órashion]]—the forge city
-- [[place-eastrnmrch|Eastern March]]—the frontier whose Vezhnur holds Órashion brokers with
-- [[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]]—the other four city-states
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation
+
+[[place-byzariargn|Bizaria Region]]
+: the League's country
+
+[[place-orashion2|Órashion]]
+: the forge city
+
+[[place-eastrnmrch|Eastern March]]
+: the frontier whose Vezhnur holds Órashion brokers with
+
+[[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]]
+: the other four city-states

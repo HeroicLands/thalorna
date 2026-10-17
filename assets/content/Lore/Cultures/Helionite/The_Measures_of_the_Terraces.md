@@ -237,9 +237,20 @@ I am going up to the wall, my brother. Come, if you are coming. Bring the basket
 
 ## See Also
 
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the Twelve, named here by their epithets
-- [[lore-lusiniadty|Lusinia]], [[lore-marendasdty|Marendas]] and [[lore-ardavondty|Árdavon]]—the Weaver, the Keeper of Sacred Wisdom and the Keeper of the Gates
-- [[lore-karnavosdty|Karnavos]]—the Wild Beast, and the stone that is falling still
-- [[lore-selmorosdty|Sélmoros]]—the Silent Judge at the last door
-- [[lore-firstterms|The Hymn of the First Terms]]—the eastern rite's account of the same beginning
-- [[lore-helioniteclt|Helionite]]—the assembly, the friend bound before the gods, and the man who will not be examined
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the Twelve, named here by their epithets
+
+[[lore-lusiniadty|Lusinia]], [[lore-marendasdty|Marendas]] and [[lore-ardavondty|Árdavon]]
+: the Weaver, the Keeper of Sacred Wisdom and the Keeper of the Gates
+
+[[lore-karnavosdty|Karnavos]]
+: the Wild Beast, and the stone that is falling still
+
+[[lore-selmorosdty|Sélmoros]]
+: the Silent Judge at the last door
+
+[[lore-firstterms|The Hymn of the First Terms]]
+: the eastern rite's account of the same beginning
+
+[[lore-helioniteclt|Helionite]]
+: the assembly, the friend bound before the gods, and the man who will not be examined

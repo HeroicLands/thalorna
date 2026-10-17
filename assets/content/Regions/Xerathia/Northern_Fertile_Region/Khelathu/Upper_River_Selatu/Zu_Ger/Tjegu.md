@@ -21,7 +21,14 @@ data:
 
 ## See Also
 
-- [[affiliation-selatzuger|The Selat of Zu-Ger]]—Parent selat
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-hezmuiri|Faith of Hezmu'iri]]—Patron cult
+[[affiliation-selatzuger|The Selat of Zu-Ger]]
+: Parent selat
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-hezmuiri|Faith of Hezmu'iri]]
+: Patron cult

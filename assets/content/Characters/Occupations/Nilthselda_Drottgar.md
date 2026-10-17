@@ -435,12 +435,17 @@ None, though some apothecaries see her charity as competition.
 
 ## Plot Hooks
 
-1. **The Apothecary's Dilemma**—Nilthselda faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
+The Apothecary's Dilemma
+: Nilthselda faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
 
-2. **Old Grudges**—None, though some apothecaries see her charity as competition. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: None, though some apothecaries see her charity as competition. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Nilthselda's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+Echoes of the Past
+: Something from Nilthselda's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Nordheim threaten to upend the social order that Nilthselda depends upon. She must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Nordheim threaten to upend the social order that Nilthselda depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Nilthselda the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Nilthselda the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

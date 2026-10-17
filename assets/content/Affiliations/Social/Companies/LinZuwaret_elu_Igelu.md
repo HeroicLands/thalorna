@@ -48,5 +48,8 @@ A shipper who wants a fair price deals with the consortium directly, before the 
 
 ## See Also
 
-- [[place-waligelu|Wal-Igelu]]—the waterfront quarter it works
-- [[place-galezkara|Galezkara]]—the city it supplies
+[[place-waligelu|Wal-Igelu]]
+: the waterfront quarter it works
+
+[[place-galezkara|Galezkara]]
+: the city it supplies

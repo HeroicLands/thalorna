@@ -452,17 +452,31 @@ Zadros is motivated fundamentally by the creative impulse and the desire to crea
 
 ### Strengths
 
-- **Masterful Craftsmanship**: Zadros' technical skill in woodworking, carving, and finishing is of the first rank. His understanding of wood properties, tool technique, and aesthetic composition is evident in every piece he creates.
-- **Artistic Vision**: Beyond technical competence, Zadros has artistic sensibility. His designs show imagination, elegance, and an intuitive understanding of how form creates meaning.
-- **Patient Teaching**: Though he has had fewer apprentices in recent years, Zadros is a gifted teacher capable of conveying the mechanical aspects of the craft and the philosophical and aesthetic principles underlying good design.
-- **Deep Knowledge**: His six-generation family legacy has provided him with extensive practical knowledge of wood types, tool maintenance, finishing techniques, and the history of his craft.
+Masterful Craftsmanship
+: Zadros' technical skill in woodworking, carving, and finishing is of the first rank. His understanding of wood properties, tool technique, and aesthetic composition is evident in every piece he creates.
+
+Artistic Vision
+: Beyond technical competence, Zadros has artistic sensibility. His designs show imagination, elegance, and an intuitive understanding of how form creates meaning.
+
+Patient Teaching
+: Though he has had fewer apprentices in recent years, Zadros is a gifted teacher capable of conveying the mechanical aspects of the craft and the philosophical and aesthetic principles underlying good design.
+
+Deep Knowledge
+: His six-generation family legacy has provided him with extensive practical knowledge of wood types, tool maintenance, finishing techniques, and the history of his craft.
 
 ### Weaknesses
 
-- **Crippling Self-Doubt**: Zadros badly underestimates his own abilities and potential, consistently assuming his work is merely competent when it is far better than that. This self-doubt prevents him from pursuing opportunities that might elevate his reputation.
-- **Inadequate Business Sense**: He struggles with fundamental commercial concepts like pricing for value rather than cost, marketing his work, or negotiating with potential patrons. He tends to accept whatever customers offer without advocating for fair compensation.
-- **Social Anxiety**: Zadros is fundamentally introverted and uncomfortable with self-promotion, social performance, or dealing with large groups. The idea of leaving his workshop to pursue broader recognition is distressing to him.
-- **Learned Fatalism**: Despite his actual quality, Zadros has increasingly internalized the assumption that his craft is dying and that resistance is futile, leading to passive acceptance of decline rather than active effort to keep the craft alive.
+Crippling Self-Doubt
+: Zadros badly underestimates his own abilities and potential, consistently assuming his work is merely competent when it is far better than that. This self-doubt prevents him from pursuing opportunities that might elevate his reputation.
+
+Inadequate Business Sense
+: He struggles with fundamental commercial concepts like pricing for value rather than cost, marketing his work, or negotiating with potential patrons. He tends to accept whatever customers offer without advocating for fair compensation.
+
+Social Anxiety
+: Zadros is fundamentally introverted and uncomfortable with self-promotion, social performance, or dealing with large groups. The idea of leaving his workshop to pursue broader recognition is distressing to him.
+
+Learned Fatalism
+: Despite his actual quality, Zadros has increasingly internalized the assumption that his craft is dying and that resistance is futile, leading to passive acceptance of decline rather than active effort to keep the craft alive.
 
 ## Social
 
@@ -488,12 +502,17 @@ The Damates Family Workshop
 
 ## Plot Hooks
 
-1. **The Unexpected Patron**: A wealthy merchant from a major city visits the village and discovers Zadros' work, and is impressed by its quality. The merchant offers a substantial commission for a series of pieces to be created for his family home, along with an invitation for Zadros to travel to the city to oversee installation and to meet other potential patrons. The offer is a real opportunity but requires Zadros to overcome his anxiety, leave his comfortable village, and risk rejection in a broader market. The party becomes involved when obstacles emerge—perhaps the merchant turns out to have less-than-honorable intentions, or perhaps circumstances arise that test Zadros' commitment to the opportunity.
+The Unexpected Patron
+: A wealthy merchant from a major city visits the village and discovers Zadros' work, and is impressed by its quality. The merchant offers a substantial commission for a series of pieces to be created for his family home, along with an invitation for Zadros to travel to the city to oversee installation and to meet other potential patrons. The offer is a real opportunity but requires Zadros to overcome his anxiety, leave his comfortable village, and risk rejection in a broader market. The party becomes involved when obstacles emerge—perhaps the merchant turns out to have less-than-honorable intentions, or perhaps circumstances arise that test Zadros' commitment to the opportunity.
 
-2. **The Craft's Defense**: A faction seeking to rebuild the village proposes eliminating the old craftspeople's quarter and replacing it with larger workshops. Zadros finds himself at the center of resistance against cultural erasure, forced to become an advocate for traditional methods despite his natural disinclination toward conflict. The party must help him in the fight to preserve the craft and the community of artisans.
+The Craft's Defense
+: A faction seeking to rebuild the village proposes eliminating the old craftspeople's quarter and replacing it with larger workshops. Zadros finds himself at the center of resistance against cultural erasure, forced to become an advocate for traditional methods despite his natural disinclination toward conflict. The party must help him in the fight to preserve the craft and the community of artisans.
 
-3. **The Storied Wood**: A traveler arrives in the village bearing wood from a distant, storied forest—timber reputed to possess unique properties and beauty. The traveler commissions Zadros to create something extraordinary from this material, offering payment sufficient to change his life. However, the wood itself presents unexpected challenges: it is difficult to work, seems to resist certain carving approaches, and carries rumors of strange properties. Zadros must meet the technical challenge while coming to see that the wood itself may have a significance or history beyond the material.
+The Storied Wood
+: A traveler arrives in the village bearing wood from a distant, storied forest—timber reputed to possess unique properties and beauty. The traveler commissions Zadros to create something extraordinary from this material, offering payment sufficient to change his life. However, the wood itself presents unexpected challenges: it is difficult to work, seems to resist certain carving approaches, and carries rumors of strange properties. Zadros must meet the technical challenge while coming to see that the wood itself may have a significance or history beyond the material.
 
-4. **The Inheritance Question**: Zadros receives word that a distant relative—a family member he never knew existed—has died and left a significant collection of tools, materials, and notes related to an advanced woodworking technique that has been lost to the broader craft for several generations. The relative's family approaches Zadros with the inheritance, but there are complications: the notes are in a language he doesn't fully understand, the materials may belong to museums or historical societies, and learning the technique would require him to travel and study under mentors in distant lands. The adventure turns on whether Zadros can overcome his self-doubt and leave his village to reclaim something precious from his family's history.
+The Inheritance Question
+: Zadros receives word that a distant relative—a family member he never knew existed—has died and left a significant collection of tools, materials, and notes related to an advanced woodworking technique that has been lost to the broader craft for several generations. The relative's family approaches Zadros with the inheritance, but there are complications: the notes are in a language he doesn't fully understand, the materials may belong to museums or historical societies, and learning the technique would require him to travel and study under mentors in distant lands. The adventure turns on whether Zadros can overcome his self-doubt and leave his village to reclaim something precious from his family's history.
 
-5. **The Curse of Beauty**: Zadros creates a particularly beautiful and elaborate piece and sells it to a collector from the city. Within months, reports reach him that the piece has become the focus of obsession and tragedy for those who own it—relationships destroyed, fortunes lost, lives ruined, all centered around possession of the beautiful wooden object. Zadros is devastated by the belief that his work has somehow been cursed or has brought misfortune, leading him to question whether creating beauty is worth the potential for causing harm. The party must help him investigate whether the piece is truly cursed, whether coincidence and human obsession are being mistaken for supernatural cause, or whether something deeper is occurring—all while Zadros carries the guilt he feels for his creation's effects.
+The Curse of Beauty
+: Zadros creates a particularly beautiful and elaborate piece and sells it to a collector from the city. Within months, reports reach him that the piece has become the focus of obsession and tragedy for those who own it—relationships destroyed, fortunes lost, lives ruined, all centered around possession of the beautiful wooden object. Zadros is devastated by the belief that his work has somehow been cursed or has brought misfortune, leading him to question whether creating beauty is worth the potential for causing harm. The party must help him investigate whether the piece is truly cursed, whether coincidence and human obsession are being mistaken for supernatural cause, or whether something deeper is occurring—all while Zadros carries the guilt he feels for his creation's effects.

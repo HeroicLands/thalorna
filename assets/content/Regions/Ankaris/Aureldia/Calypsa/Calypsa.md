@@ -138,9 +138,14 @@ Outside the Council chamber, power is diffuse. Guilds of shipwrights, chandlers,
 
 ## Notable Features
 
-- **[The Old Mole]{.name data-type="place/site"}**—the original stone harbor mole, built (according to local tradition) by refugees from a forgotten Helionite colony. The stones are older than any dating the city will admit to, and several are carved with characters no living scholar can read.
-- **[The Lantern of Kalipsa]{.name data-type="place/site"}**—a seamark tower on the island's northern headland, fueled by an olive-oil beacon that has been relit every night for as long as anyone can remember. The lantern-keeper's office is hereditary and carries significant civic prestige.
-- **[The Sea-Law Hall]{.name data-type="place/site"}**—where the arbitrators of the Sea-Law hear commercial disputes. Its verdicts are not legally binding outside the city but are, in practice, honored across half the northern shipping world because no captain can afford the reputational cost of defying them.
+[The Old Mole]{.name data-type="place/site"}
+: the original stone harbor mole, built (according to local tradition) by refugees from a forgotten Helionite colony. The stones are older than any dating the city will admit to, and several are carved with characters no living scholar can read.
+
+[The Lantern of Kalipsa]{.name data-type="place/site"}
+: a seamark tower on the island's northern headland, fueled by an olive-oil beacon that has been relit every night for as long as anyone can remember. The lantern-keeper's office is hereditary and carries significant civic prestige.
+
+[The Sea-Law Hall]{.name data-type="place/site"}
+: where the arbitrators of the Sea-Law hear commercial disputes. Its verdicts are not legally binding outside the city but are, in practice, honored across half the northern shipping world because no captain can afford the reputational cost of defying them.
 
 ## Commerce and Currency
 
@@ -148,8 +153,17 @@ Kalipsa uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) 
 
 ## See Also
 
-- [[place-elavendre|Élavendre]]—Nearest mainland neighbor
-- [[affiliation-kingdomlgn|Kingdom of Malagna]]—Principal Nordmen trading partner
-- [[place-aelwyth|Aelwyth]]—Southern island neighbor
-- [[skill-nordmalng|Nordmal]], [[skill-valtarlng|Valtari]]—Languages of the docks and markets
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—Dominant pantheon
+[[place-elavendre|Élavendre]]
+: Nearest mainland neighbor
+
+[[affiliation-kingdomlgn|Kingdom of Malagna]]
+: Principal Nordmen trading partner
+
+[[place-aelwyth|Aelwyth]]
+: Southern island neighbor
+
+[[skill-nordmalng|Nordmal]], [[skill-valtarlng|Valtari]]
+: Languages of the docks and markets
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: Dominant pantheon

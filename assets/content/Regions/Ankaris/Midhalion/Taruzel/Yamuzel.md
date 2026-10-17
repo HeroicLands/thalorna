@@ -90,7 +90,14 @@ The yards and the fleet are paid in the [[lore-trzlncrncy|Taruzelian Currency]],
 
 ## See Also
 
-- [[place-yamuzel2|Yamuzel]]—the city itself
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the parent polity
-- [[affiliation-corsairleg|Corsair League]]—the guild with the strongest roots here
-- [[affiliation-besikar|Besikar]], [[affiliation-qudumel|Kudumel]], [[affiliation-bazunel|Bazunel]], [[affiliation-sazumun|Sazumun]]—the sister city-states
+[[place-yamuzel2|Yamuzel]]
+: the city itself
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the parent polity
+
+[[affiliation-corsairleg|Corsair League]]
+: the guild with the strongest roots here
+
+[[affiliation-besikar|Besikar]], [[affiliation-qudumel|Kudumel]], [[affiliation-bazunel|Bazunel]], [[affiliation-sazumun|Sazumun]]
+: the sister city-states

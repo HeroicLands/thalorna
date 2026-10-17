@@ -22,6 +22,11 @@ A woman who has worked the curing-houses since girlhood shows a new hand the lin
 
 ## See Also
 
-- [[affiliation-provincvld|Province of Salkalon]]—parent province
-- [[place-salkhalon|Salkalon]]—the coast it cures for
-- [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview
+[[affiliation-provincvld|Province of Salkalon]]
+: parent province
+
+[[place-salkhalon|Salkalon]]
+: the coast it cures for
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: imperial overview

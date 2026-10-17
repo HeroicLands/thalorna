@@ -497,20 +497,29 @@ Multiple chimpanzees hunting together employ tactics suggesting military trainin
 
 ## Attributes
 
-- **Strength:** 12-17 (1d6+11)
+Strength
+: 12-17 (1d6+11)
 
-- **Endurance:** 10-15 (1d6+9)
+Endurance
+: 10-15 (1d6+9)
 
-- **Dexterity:** 12-17 (1d6+11)
+Dexterity
+: 12-17 (1d6+11)
 
-- **Agility:** 13-18 (1d6+12)
+Agility
+: 13-18 (1d6+12)
 
-- **Perception:** 11-16 (1d6+10)
+Perception
+: 11-16 (1d6+10)
 
-- **Aura:** 8-13 (1d6+7)
+Aura
+: 8-13 (1d6+7)
 
-- **Will:** 12-17 (1d6+11)
+Will
+: 12-17 (1d6+11)
 
-- **Reasoning:** 10-15 (1d6+9)
+Reasoning
+: 10-15 (1d6+9)
 
-- **Creativity:** 9-14 (1d6+8)
+Creativity
+: 9-14 (1d6+8)

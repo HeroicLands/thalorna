@@ -56,5 +56,8 @@ The common fund is the society's whole purpose. Say a footman is dismissed witho
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The city whose household servants make up its membership
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-galezkara|Galezkara]]
+: The city whose household servants make up its membership
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

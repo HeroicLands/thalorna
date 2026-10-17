@@ -8,11 +8,20 @@ tags: [draft, first-gods]
 data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
-- **Kind:** Place-kin, of [[lore-thekindred|the Kindred]]
-- **Seat:** [[place-urontekhi|The Uron Tekhi]]
-- **Territory:** the clearing, and as far as the tree's shadow reaches
-- **Posture:** Warded, and approached anyway
-- **Met through:** [[skill-uronsprt|The Uron Tekhi Spirit Power]]
+Kind
+: Place-kin, of [[lore-thekindred|the Kindred]]
+
+Seat
+: [[place-urontekhi|The Uron Tekhi]]
+
+Territory
+: the clearing, and as far as the tree's shadow reaches
+
+Posture
+: Warded, and approached anyway
+
+Met through
+: [[skill-uronsprt|The Uron Tekhi Spirit Power]]
 
 The Uron Tekhi is the oldest Kindred the Áelendan deal with, and the one they are least
 certain about. Shamen count it place-kin, since it holds a clearing and does not leave it. They

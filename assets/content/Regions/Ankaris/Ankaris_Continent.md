@@ -74,18 +74,47 @@ Across the Vylarian Sea, Ankaris is connected to [[place-xerathia|Zerathia]]: th
 
 ## See Also
 
-- [[place-worldthlrn|The World of Thalorna]]—World overview
-- [[place-aureldirgn|Aureldia Region]]—Western heartland
-- [[place-midhalnrgn|Mídhalión Region]]—Vylarian Sea basin (shared with Zerathia)
-- [[place-heladrgn|Hellád Region]]—Intellectual and trade crossroads
-- [[place-nrdlndsrgn|Nordlands Region]]—The frozen north
-- [[place-grkrhlmrgn|Grukarholm Region]]—Far northeastern Grukar lands
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—Central desert
-- [[place-dunharargn|Dunhara Region]]—Southern desert
-- [[place-vedyarargn|Vedyara Region]]—Southeastern subcontinent
-- [[place-tantsouregin|Empire of Tantsou Region]]—Eastern empire
-- [[place-jenchairgn|Jenchai Region]]—Eastern island empire
-- [[affiliation-vylarinmpr|Vylarian Empire]]—The declining western empire
-- [[place-vylarianse|Vylarian Sea]]—The southern inland sea
-- [[affiliation-ordoarcanis|Thordimalon]]—Dominant western arcane institution
-- [[lore-pnthnrgnlmp|Pantheon Regional Map]]—Where each pantheon holds sway
+[[place-worldthlrn|The World of Thalorna]]
+: World overview
+
+[[place-aureldirgn|Aureldia Region]]
+: Western heartland
+
+[[place-midhalnrgn|Mídhalión Region]]
+: Vylarian Sea basin (shared with Zerathia)
+
+[[place-heladrgn|Hellád Region]]
+: Intellectual and trade crossroads
+
+[[place-nrdlndsrgn|Nordlands Region]]
+: The frozen north
+
+[[place-grkrhlmrgn|Grukarholm Region]]
+: Far northeastern Grukar lands
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: Central desert
+
+[[place-dunharargn|Dunhara Region]]
+: Southern desert
+
+[[place-vedyarargn|Vedyara Region]]
+: Southeastern subcontinent
+
+[[place-tantsouregin|Empire of Tantsou Region]]
+: Eastern empire
+
+[[place-jenchairgn|Jenchai Region]]
+: Eastern island empire
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: The declining western empire
+
+[[place-vylarianse|Vylarian Sea]]
+: The southern inland sea
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: Dominant western arcane institution
+
+[[lore-pnthnrgnlmp|Pantheon Regional Map]]
+: Where each pantheon holds sway

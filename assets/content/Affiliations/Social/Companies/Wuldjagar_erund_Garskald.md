@@ -80,13 +80,26 @@ The party is led by **Tháralund Garskald**, a scarred veteran Wurlár in his fi
 
 The current roster stands at seven—every experienced hunter the clan can spare:
 
-- **Tháralund Garskald**—Wurlár. Scarred and methodical, with eyes that miss nothing in the forest. He has led the Wuljagar for twenty years, and this is the first season he has failed to fill the clan's meat stores.
-- **Hárundar Hildrik**—Dunkelrith and tracker. Young, ambitious, and openly questioning Tháralund's decision to hunt north rather than negotiate with the Hildskorn for shared territory. He believes the old man's pride will get them killed.
-- **Frodmún Fulkír**—Spear-master. Quiet and patient, with an uncanny ability to predict animal behavior. The most skilled hunter in the company after Tháralund—and the one most likely to succeed him, if he wants the job. He does not seem to.
-- **Erinthil Raedwulf**—Bow-hunter. Deadly at range, but growing old and increasingly bitter about younger rivals. His eyesight is going—he's missed shots he would have made five years ago—and his pride makes him sharp-tongued and difficult.
-- **Skaldar Arnthúl**—Heavy weapons specialist. Massive and strong, carries a battle-axe and makes ambush kills on the largest game. He is the clan chief's nephew, which gives him political weight beyond his skill, and he knows it.
-- **Isgard Waldarik**—Sundmund and naturalist. Knows the forest's plants and can treat wounds; trusted advisor to Tháralund. She has been studying the boar disease obsessively, and her concern is deepening—she believes it may not be natural.
-- **Wulfrin Thornik**—Youngest hunter, only recently inducted. Still learning the ways, haunted by his first kill of an elk cow earlier this season. The others watch him for signs of weakness—Varokh hunters cannot afford squeamishness—but Tháralund sees potential in the boy that the others miss.
+Tháralund Garskald
+: Wurlár. Scarred and methodical, with eyes that miss nothing in the forest. He has led the Wuljagar for twenty years, and this is the first season he has failed to fill the clan's meat stores.
+
+Hárundar Hildrik
+: Dunkelrith and tracker. Young, ambitious, and openly questioning Tháralund's decision to hunt north rather than negotiate with the Hildskorn for shared territory. He believes the old man's pride will get them killed.
+
+Frodmún Fulkír
+: Spear-master. Quiet and patient, with an uncanny ability to predict animal behavior. The most skilled hunter in the company after Tháralund—and the one most likely to succeed him, if he wants the job. He does not seem to.
+
+Erinthil Raedwulf
+: Bow-hunter. Deadly at range, but growing old and increasingly bitter about younger rivals. His eyesight is going—he's missed shots he would have made five years ago—and his pride makes him sharp-tongued and difficult.
+
+Skaldar Arnthúl
+: Heavy weapons specialist. Massive and strong, carries a battle-axe and makes ambush kills on the largest game. He is the clan chief's nephew, which gives him political weight beyond his skill, and he knows it.
+
+Isgard Waldarik
+: Sundmund and naturalist. Knows the forest's plants and can treat wounds; trusted advisor to Tháralund. She has been studying the boar disease obsessively, and her concern is deepening—she believes it may not be natural.
+
+Wulfrin Thornik
+: Youngest hunter, only recently inducted. Still learning the ways, haunted by his first kill of an elk cow earlier this season. The others watch him for signs of weakness—Varokh hunters cannot afford squeamishness—but Tháralund sees potential in the boy that the others miss.
 
 ## Territory
 

@@ -25,7 +25,14 @@ The summit shrine is kept by the Tanchéi of the court, and the mountain record 
 
 ## See Also
 
-- [[place-lengwou|Léngwou]]—the capital on the lowest slope of the mountain
-- [[place-zijai|Zijai]]—the neighboring mountain and its observatory
-- [[affiliation-jenchaiempr|Jenchai Empire]]—the realm, the court and the eight houses
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[place-lengwou|Léngwou]]
+: the capital on the lowest slope of the mountain
+
+[[place-zijai|Zijai]]
+: the neighboring mountain and its observatory
+
+[[affiliation-jenchaiempr|Jenchai Empire]]
+: the realm, the court and the eight houses
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

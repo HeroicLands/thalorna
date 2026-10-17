@@ -43,9 +43,20 @@ The old **House of Kethramír**, the Tellumi priest-house, lives in exile in Amr
 
 ## See Also
 
-- [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the Confederation whose House of Kethramír sits in exile
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—the people who hold it
-- [[place-swoasisbelt|Tellumel]]—the belt the city stands in
-- [[place-zargandur|Zargandur]] and [[place-caldar|Kaldar]]—the nearest cities along the belt
-- [[being-zevaradthvrn|Zevarad Dathvarun]]—keeper of the shrine at the water outside the city
-- [[being-afzndhprnzr|Afzandah Parnazar]]—a daughter of Kethramír's mineral trade
+[[affiliation-khzrncnfdrtn|Tellumi Confederation]]
+: the Confederation whose House of Kethramír sits in exile
+
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: the people who hold it
+
+[[place-swoasisbelt|Tellumel]]
+: the belt the city stands in
+
+[[place-zargandur|Zargandur]] and [[place-caldar|Kaldar]]
+: the nearest cities along the belt
+
+[[being-zevaradthvrn|Zevarad Dathvarun]]
+: keeper of the shrine at the water outside the city
+
+[[being-afzndhprnzr|Afzandah Parnazar]]
+: a daughter of Kethramír's mineral trade

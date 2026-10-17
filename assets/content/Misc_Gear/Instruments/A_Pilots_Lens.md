@@ -22,7 +22,14 @@ If the current-stone stops, the lens goes cold in the hand, and the water throug
 
 ## See Also
 
-- [[affiliation-wardensapproaches|The Wardens of the Approaches]]—the pilots who read the channels
-- [[place-vaelukoa|Vaelukoa]]—the reef village whose current-stone the lens belongs to
-- [[place-thalari|Thal'ari]]—the sanctuary that keeps the current-stones' dead held stones
-- [[lore-itharisul|Ithasul]]—the substance of the works, and the living and dead held stones
+[[affiliation-wardensapproaches|The Wardens of the Approaches]]
+: the pilots who read the channels
+
+[[place-vaelukoa|Vaelukoa]]
+: the reef village whose current-stone the lens belongs to
+
+[[place-thalari|Thal'ari]]
+: the sanctuary that keeps the current-stones' dead held stones
+
+[[lore-itharisul|Ithasul]]
+: the substance of the works, and the living and dead held stones

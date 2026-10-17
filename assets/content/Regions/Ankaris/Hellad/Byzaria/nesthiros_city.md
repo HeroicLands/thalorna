@@ -26,6 +26,11 @@ Nesthiros lives on transfer. Eastern goods arrive from [[place-khryshteikhos2|Kr
 
 ## See Also
 
-- [[affiliation-nesthiros|Nesthiros]]—the city-state, its council and its admiralty
-- [[place-byzariargn|Bizaria Region]]—the League's country
-- [[place-khryshteikhos2|Krusteikhos]]—the banking city on the plateau
+[[affiliation-nesthiros|Nesthiros]]
+: the city-state, its council and its admiralty
+
+[[place-byzariargn|Bizaria Region]]
+: the League's country
+
+[[place-khryshteikhos2|Krusteikhos]]
+: the banking city on the plateau

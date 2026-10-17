@@ -16,6 +16,11 @@ The rune-priest's line stops where agreement stops. How many roots the ash puts 
 
 ## See Also
 
-- [[lore-aldarlok|Aldarlok]]—the close of the age, when the ash burns
-- [[place-asguard|Asguard]]—the gods' world, where the ash is rooted
-- [[place-worldthlrn|Mannguard]]—the world under the crown
+[[lore-aldarlok|Aldarlok]]
+: the close of the age, when the ash burns
+
+[[place-asguard|Asguard]]
+: the gods' world, where the ash is rooted
+
+[[place-worldthlrn|Mannguard]]
+: the world under the crown

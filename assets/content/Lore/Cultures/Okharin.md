@@ -176,16 +176,35 @@ The sin is the treatment of the person who declines the Flame. The Okharik faith
 
 ## See Also
 
-- [[affiliation-okharis|Okharis]]—the realm and its three cities
-- [[place-okharisrgn|Okharis Region]]—the rain-fed west and the eastern savanna
-- [[affiliation-nkaruthar|Nkaru'thar]]—the eternal flame and its three aspects
-- [[affiliation-yenorzhrng|Yenor Zohiring]]—the Spirit Path and the Spirit Hunt
-- [[lore-zohira|Zohira]]—the intermediary spirits and where they contradict the temple
-- [[lore-orclbonesspr|Oracle of Bones]]—the zohira of death and prophecy
-- [[affiliation-crwntrdskhrs|Crown Trades of Okharis]]—credit and the cities' commerce
-- [[being-kirobashkm|Kiroba of the Shókuma]]—the Shókuma shaman
-- [[being-ashendamgr|Ashenda of the Magara]]—the Spirit Blade warrior
-- [[skill-okharclng|Okharik]]—the tongue of the clans and the cities
+[[affiliation-okharis|Okharis]]
+: the realm and its three cities
+
+[[place-okharisrgn|Okharis Region]]
+: the rain-fed west and the eastern savanna
+
+[[affiliation-nkaruthar|Nkaru'thar]]
+: the eternal flame and its three aspects
+
+[[affiliation-yenorzhrng|Yenor Zohiring]]
+: the Spirit Path and the Spirit Hunt
+
+[[lore-zohira|Zohira]]
+: the intermediary spirits and where they contradict the temple
+
+[[lore-orclbonesspr|Oracle of Bones]]
+: the zohira of death and prophecy
+
+[[affiliation-crwntrdskhrs|Crown Trades of Okharis]]
+: credit and the cities' commerce
+
+[[being-kirobashkm|Kiroba of the Shókuma]]
+: the Shókuma shaman
+
+[[being-ashendamgr|Ashenda of the Magara]]
+: the Spirit Blade warrior
+
+[[skill-okharclng|Okharik]]
+: the tongue of the clans and the cities
 
 ## Glossary {#glossary}
 

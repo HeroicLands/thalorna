@@ -374,24 +374,35 @@ Harpies nest and perch where no man can climb, cling to vertical rock, and keep 
 
 ## Attributes
 
-- **Strength:** 7-10 (1d4+6)
+Strength
+: 7-10 (1d4+6)
 
-- **Endurance:** 6-9 (1d4+5)
+Endurance
+: 6-9 (1d4+5)
 
-- **Dexterity:** 7-10 (1d4+6)
+Dexterity
+: 7-10 (1d4+6)
 
-- **Agility:** 8-13 (1d6+7)
+Agility
+: 8-13 (1d6+7)
 
-- **Perception:** 14-19 (1d6+13)
+Perception
+: 14-19 (1d6+13)
 
-- **Aura:** 4-7 (1d4+3)
+Aura
+: 4-7 (1d4+3)
 
-- **Will:** 8-13 (1d6+7)
+Will
+: 8-13 (1d6+7)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 5-8 (1d4+4)
+Creativity
+: 5-8 (1d4+4)
 
-- **Empathy:** 2-5 (1d4+1)
+Empathy
+: 2-5 (1d4+1)
 
-- **Eloquence:** 1-4 (1d4)
+Eloquence
+: 1-4 (1d4)

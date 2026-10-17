@@ -23,7 +23,14 @@ The summit holds a shrine and the **observatory** of the omen-readers. The Tanch
 
 ## See Also
 
-- [[affiliation-muwojaidmn|Muwojai Domain]]—the house and its lord
-- [[place-kowu|Kowu]]—the castle town
-- [[place-zojai|Zojai]]—the Emperor's mountain
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[affiliation-muwojaidmn|Muwojai Domain]]
+: the house and its lord
+
+[[place-kowu|Kowu]]
+: the castle town
+
+[[place-zojai|Zojai]]
+: the Emperor's mountain
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

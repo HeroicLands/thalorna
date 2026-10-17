@@ -27,7 +27,14 @@ The court is divided. One party holds that the northwest is the Elder peoples' l
 
 ## See Also
 
-- [[lore-dreadspawncrtr|Dreadspawn]]—the other made horror loose in the empire
-- [[lore-flksinale|Sinale]]—the Elder people bearing the brunt in the forests
-- [[lore-flkkhazar|Khazari]]—the Elder people holding the mountain line
-- [[lore-elderraces|Elder Races]]—the Elder enclaves and their compact with the empire
+[[lore-dreadspawncrtr|Dreadspawn]]
+: the other made horror loose in the empire
+
+[[lore-flksinale|Sinale]]
+: the Elder people bearing the brunt in the forests
+
+[[lore-flkkhazar|Khazari]]
+: the Elder people holding the mountain line
+
+[[lore-elderraces|Elder Races]]
+: the Elder enclaves and their compact with the empire

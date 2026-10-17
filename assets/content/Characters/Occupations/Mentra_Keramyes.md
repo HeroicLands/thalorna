@@ -430,10 +430,14 @@ The senior masters of the guild, who hold her colors to be a fashion and her pat
 
 ## Plot Hooks
 
-1. **The Rival's Window**—A second merchant house has commissioned a window from Mentra for the hall where it receives the first house's rivals, and her patron has heard of it.
+The Rival's Window
+: A second merchant house has commissioned a window from Mentra for the hall where it receives the first house's rivals, and her patron has heard of it.
 
-2. **The Master's Examination**—The guild has called Mentra to show a full window before the masters to confirm her seal, as it may under charter. The subject set is a traditional one.
+The Master's Examination
+: The guild has called Mentra to show a full window before the masters to confirm her seal, as it may under charter. The subject set is a traditional one.
 
-3. **The Ledgers Go South**—Mentra's patron house is moving its money out of Belekos and out of the empire, quietly, and has asked whether she will follow it to a foreign city where nobody knows her colors.
+The Ledgers Go South
+: Mentra's patron house is moving its money out of Belekos and out of the empire, quietly, and has asked whether she will follow it to a foreign city where nobody knows her colors.
 
-4. **The Cracked Light**—A window Mentra set for the temple has cracked through in the first frost, and the priests say the fault is in her glass. The lead was set by a master who has not liked her since the examination.
+The Cracked Light
+: A window Mentra set for the temple has cracked through in the first frost, and the priests say the fault is in her glass. The lead was set by a master who has not liked her since the examination.

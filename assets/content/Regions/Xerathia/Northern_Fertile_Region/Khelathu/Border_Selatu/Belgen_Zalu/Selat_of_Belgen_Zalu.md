@@ -69,9 +69,20 @@ Belgen-Zalu uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. The [[affiliati
 
 ## See Also
 
-- [[affiliation-borderselatu|The Border Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-belgen|Belgen]]—Selat capital
-- [[affiliation-qeztu|Faith of Qeztu]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-belgenzalunome|Belgen-Zalu]]—The land the selat holds
+[[affiliation-borderselatu|The Border Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-belgen|Belgen]]
+: Selat capital
+
+[[affiliation-qeztu|Faith of Qeztu]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-belgenzalunome|Belgen-Zalu]]
+: The land the selat holds

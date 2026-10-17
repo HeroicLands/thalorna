@@ -1247,11 +1247,20 @@ Taruzeli is the ledger-speech of the sea-lanes. It has three vowels and leans on
 
 Taruzeli features a rich consonant inventory with several distinctive sound clusters:
 
-- **Stops**: /p/, /b/, /t/, /d/, /k/, /q/ (uvular)
-- **Fricatives**: /f/, /z/, /sh/ (voiceless sh-sound), /kh/ (velar fricative), /gh/ (voiced velar)
-- **Nasals**: /m/, /n/
-- **Liquids**: /r/, /l/
-- **Affricates**: /dz/, /ts/
+Stops
+: /p/, /b/, /t/, /d/, /k/, /q/ (uvular)
+
+Fricatives
+: /f/, /z/, /sh/ (voiceless sh-sound), /kh/ (velar fricative), /gh/ (voiced velar)
+
+Nasals
+: /m/, /n/
+
+Liquids
+: /r/, /l/
+
+Affricates
+: /dz/, /ts/
 
 Characteristic clusters appear in given names: _Sharrush, Nadumar, Iddinash, Tarruk, Bissush_. Double consonants (_mm_, _rr_, _dd_, _tt_, _kk_, _ss_, _zz_) are phonologically significant, often marking emphasis or etymological depth.
 
@@ -1261,11 +1270,20 @@ The velar _kh_ and uvular _q_ give Taruzeli a guttural quality that distinguishe
 
 Taruzeli employs five primary vowel qualities, each with both short and long forms:
 
-- **a**—front open vowel (short or long)
-- **e**—front mid vowel (short or long)
-- **i**—front close vowel (short or long)
-- **o**—back mid vowel (short or long)
-- **u**—back close vowel (short or long)
+a
+: front open vowel (short or long)
+
+e
+: front mid vowel (short or long)
+
+i
+: front close vowel (short or long)
+
+o
+: back mid vowel (short or long)
+
+u
+: back close vowel (short or long)
 
 Long vowels carry heavy semantic weight. Compare _Shamut_ (short) vs. _Shamulu_ (long vowel emphasis). The interplay of long and short vowels creates a distinctive rhythmic pattern in speech.
 
@@ -1329,15 +1347,20 @@ A specialized register employed in high-level commercial negotiations, featuring
 
 ## Sample Phrases
 
-1. **Mardum qatush ilammu**—"A merchant's word is his bond" (lit. "Merchant-name holds-firm family-honor")
+Mardum qatush ilammu
+: "A merchant's word is his bond" (lit. "Merchant-name holds-firm family-honor")
 
-2. **Tu mani dammush kurrim**—"The sea gives and takes away" (lit. "The-sea gives-takes, justice-returns")
+Tu mani dammush kurrim
+: "The sea gives and takes away" (lit. "The-sea gives-takes, justice-returns")
 
-3. **Shamulu zarutan belginu**—"Fair winds and profitable voyages" (traditional merchant blessing)
+Shamulu zarutan belginu
+: "Fair winds and profitable voyages" (traditional merchant blessing)
 
-4. **Kadumu ashuram numaru**—"Gold measures all value" (commercial maxim)
+Kadumu ashuram numaru
+: "Gold measures all value" (commercial maxim)
 
-5. **Telmush kumuni taruzi**—"A contract binds families for generations" (legal principle)
+Telmush kumuni taruzi
+: "A contract binds families for generations" (legal principle)
 
 ## Related Languages
 

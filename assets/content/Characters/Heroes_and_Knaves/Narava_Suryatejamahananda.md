@@ -457,27 +457,37 @@ Narava's primary motivation is the pursuit of an impossible ideal—to create a 
 
 ### Strengths
 
-- **Technical Mastery**: Narava's command of glassworking techniques is absolute. He can execute forms, colors, and effects that other glassworkers consider impossible, and his pieces represent the apex of the craft.
+Technical Mastery
+: Narava's command of glassworking techniques is absolute. He can execute forms, colors, and effects that other glassworkers consider impossible, and his pieces represent the apex of the craft.
 
-- **Visionary Creativity**: His imagination is boundless when applied to his craft. He conceives designs that seem to defy the limitations of glass as a material, and somehow finds the technical means to realize them.
+Visionary Creativity
+: His imagination is boundless when applied to his craft. He conceives designs that seem to defy the limitations of glass as a material, and somehow finds the technical means to realize them.
 
-- **Passionate Commitment**: His complete devotion to his craft translates into an intensity of focus that produces work of uncompromising quality. Those who commission him know they are receiving something extraordinary.
+Passionate Commitment
+: His complete devotion to his craft translates into an intensity of focus that produces work of uncompromising quality. Those who commission him know they are receiving something extraordinary.
 
-- **Knowledge of Material Science**: Narava's understanding of glass composition, the behavior of heat, and the behavior of different mineral additives rivals that of academic scholars, allowing him to try new things constantly while maintaining technical integrity.
+Knowledge of Material Science
+: Narava's understanding of glass composition, the behavior of heat, and the behavior of different mineral additives rivals that of academic scholars, allowing him to try new things constantly while maintaining technical integrity.
 
-- **Aesthetic Judgment**: His eye for color, balance, and form is trained to a level that allows him to recognize excellence instantly and to identify subtle deficiencies that most would overlook.
+Aesthetic Judgment
+: His eye for color, balance, and form is trained to a level that allows him to recognize excellence instantly and to identify subtle deficiencies that most would overlook.
 
 ### Weaknesses
 
-- **Financial Recklessness**: Narava's complete lack of interest in the business aspects of his craft has resulted in chronic financial instability. He spends lavishly on materials and equipment for experimental projects with no clear path to recouping costs, and he frequently extends work beyond contractual deadlines without negotiating additional compensation.
+Financial Recklessness
+: Narava's complete lack of interest in the business aspects of his craft has resulted in chronic financial instability. He spends lavishly on materials and equipment for experimental projects with no clear path to recouping costs, and he frequently extends work beyond contractual deadlines without negotiating additional compensation.
 
-- **Difficulty with Authority**: Narava chafes under any perceived compromise to his artistic vision, making him a difficult collaborator and an impossible employee. He has terminated relationships with important patrons over aesthetic disagreements of relatively minor significance.
+Difficulty with Authority
+: Narava chafes under any perceived compromise to his artistic vision, making him a difficult collaborator and an impossible employee. He has terminated relationships with important patrons over aesthetic disagreements of relatively minor significance.
 
-- **Physical Vulnerability**: His hands and forearms, the tools of his trade, are constantly at risk of injury. A serious burn or scarring could potentially impair his dexterity and end his working life. He also suffers from recurring eye strain from years of working with intense heat and bright light.
+Physical Vulnerability
+: His hands and forearms, the tools of his trade, are constantly at risk of injury. A serious burn or scarring could potentially impair his dexterity and end his working life. He also suffers from recurring eye strain from years of working with intense heat and bright light.
 
-- **Perfectionist Paralysis**: He struggles to complete commissions because he becomes fixated on minor details and endless refinement. Several important projects have been delivered years behind schedule, damaging his reputation despite the eventual quality of the work.
+Perfectionist Paralysis
+: He struggles to complete commissions because he becomes fixated on minor details and endless refinement. Several important projects have been delivered years behind schedule, damaging his reputation despite the eventual quality of the work.
 
-- **Emotional Fragility**: His moods swing dramatically, and criticism—even well-meant criticism—can send him into periods of dark introspection during which he produces no work. He carries significant shame about his financial struggles and views them as personal failure.
+Emotional Fragility
+: His moods swing dramatically, and criticism—even well-meant criticism—can send him into periods of dark introspection during which he produces no work. He carries significant shame about his financial struggles and views them as personal failure.
 
 ## Social
 
@@ -507,12 +517,17 @@ The Glassworkers' Shrena of Vedyara
 
 ## Plot Hooks
 
-1. **The Commission from Beyond**: A mysterious patron, reportedly from distant lands beyond the known trade routes, offers Narava an extraordinary sum to create a specific piece—a glass sphere that somehow must capture the properties of a substance they describe in oblique, mystical terms. The commission both excites and troubles Narava: the work seems aligned with his greatest ambitions, but the mysterious patron's vague specifications and hints at supernatural properties suggest this is no ordinary commission. Accepting means potentially abandoning his other work; refusing means passing up what could be his defining masterwork.
+The Commission from Beyond
+: A mysterious patron, reportedly from distant lands beyond the known trade routes, offers Narava an extraordinary sum to create a specific piece—a glass sphere that somehow must capture the properties of a substance they describe in oblique, mystical terms. The commission both excites and troubles Narava: the work seems aligned with his greatest ambitions, but the mysterious patron's vague specifications and hints at supernatural properties suggest this is no ordinary commission. Accepting means potentially abandoning his other work; refusing means passing up what could be his defining masterwork.
 
-2. **The Shattered Legacy**: Narava learns that several of his greatest early pieces, now housed in temples and collections of the great houses, have been destroyed—shattered deliberately in a pattern that suggests intentional sabotage rather than accident. Investigating the source of these destructions reveals a hidden enemy, possibly someone who believes Narava's glass work possesses spiritual or magical properties and fears its influence. The attacks may be simple malice, or they may reflect something real about his art that he himself does not fully understand.
+The Shattered Legacy
+: Narava learns that several of his greatest early pieces, now housed in temples and collections of the great houses, have been destroyed—shattered deliberately in a pattern that suggests intentional sabotage rather than accident. Investigating the source of these destructions reveals a hidden enemy, possibly someone who believes Narava's glass work possesses spiritual or magical properties and fears its influence. The attacks may be simple malice, or they may reflect something real about his art that he himself does not fully understand.
 
-3. **The Student's Rebellion**: Narava accepts a brilliant but troubled apprentice, **Devaksha**, a young person of undeniable talent but volatile temperament. As Devaksha's skills develop, they begin questioning Narava's philosophy of art, arguing for a more accessible, democratic approach to glasswork that would make beauty available to common people rather than just the wealthy. The philosophical conflict between master and student escalates to open competition when Devaksha opens a rival workshop using techniques learned under Narava's tutelage.
+The Student's Rebellion
+: Narava accepts a brilliant but troubled apprentice, **Devaksha**, a young person of undeniable talent but volatile temperament. As Devaksha's skills develop, they begin questioning Narava's philosophy of art, arguing for a more accessible, democratic approach to glasswork that would make beauty available to common people rather than just the wealthy. The philosophical conflict between master and student escalates to open competition when Devaksha opens a rival workshop using techniques learned under Narava's tutelage.
 
-4. **The Debt's Terrible Price**: With his financial situation becoming critical, Narava is approached by a figure operating in shadow—a collector, a sorcerer, or something else entirely—who offers to cancel all his debts in exchange for creating one specific piece of glass. The patron claims to want nothing more than a transparent vessel of certain dimensions and properties, but Narava senses that a darker purpose is intended. Desperation wars with integrity as he considers whether any sum of money or security is worth potentially creating an instrument of harm.
+The Debt's Terrible Price
+: With his financial situation becoming critical, Narava is approached by a figure operating in shadow—a collector, a sorcerer, or something else entirely—who offers to cancel all his debts in exchange for creating one specific piece of glass. The patron claims to want nothing more than a transparent vessel of certain dimensions and properties, but Narava senses that a darker purpose is intended. Desperation wars with integrity as he considers whether any sum of money or security is worth potentially creating an instrument of harm.
 
-5. **The Ultimate Commission**: The most prestigious institution in the land—a royal palace, great cathedral, or institution of immense cultural significance—offers Narava the opportunity to create the centerpiece for a renovation project that would establish him as the greatest glassworker of the age and secure his workshop's future. However, the project requires him to work within strict constraints set by architects and patrons, compromising his artistic vision. He can accept the limitations and secure his legacy, or maintain his artistic integrity at the cost of financial survival.
+The Ultimate Commission
+: The most prestigious institution in the land—a royal palace, great cathedral, or institution of immense cultural significance—offers Narava the opportunity to create the centerpiece for a renovation project that would establish him as the greatest glassworker of the age and secure his workshop's future. However, the project requires him to work within strict constraints set by architects and patrons, compromising his artistic vision. He can accept the limitations and secure his legacy, or maintain his artistic integrity at the cost of financial survival.

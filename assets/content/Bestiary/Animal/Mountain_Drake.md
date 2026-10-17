@@ -334,20 +334,29 @@ A drake lying still on gray rock is very hard to see, even for a man who knows t
 
 ## Attributes
 
-- **Strength:** 11-16 (1d6+10)
+Strength
+: 11-16 (1d6+10)
 
-- **Endurance:** 10-15 (1d6+9)
+Endurance
+: 10-15 (1d6+9)
 
-- **Dexterity:** 11-16 (1d6+10)
+Dexterity
+: 11-16 (1d6+10)
 
-- **Agility:** 12-17 (1d6+11)
+Agility
+: 12-17 (1d6+11)
 
-- **Perception:** 11-16 (1d6+10)
+Perception
+: 11-16 (1d6+10)
 
-- **Aura:** 8-11 (1d4+7)
+Aura
+: 8-11 (1d4+7)
 
-- **Will:** 10-15 (1d6+9)
+Will
+: 10-15 (1d6+9)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 5-8 (1d4+4)
+Creativity
+: 5-8 (1d4+4)

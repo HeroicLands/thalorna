@@ -442,19 +442,37 @@ Fileze is motivated by a desire to protect those who cannot protect themselves. 
 
 ### Strengths
 
-- **Master Swordswoman**: Fileze's skill with a longsword and shield is outstanding. Her technique is flawless, her reflexes sharp, and her instincts honed through countless real combat encounters.
-- **Tactical Brilliance**: She can assess a situation rapidly and deploy limited resources to maximum effect. She has trained bandits with far larger numbers through clever positioning and pressure on the enemy's nerves.
-- **Natural Leader**: Her presence inspires confidence. Even untrained militia follow her orders without hesitation because she radiates competence and concern for their welfare.
-- **Endurance**: Years of conditioning give her stamina in prolonged combat or travel. She can maintain fighting effectiveness longer than most.
-- **Reading People**: Her ability to read people allows her to negotiate effectively, understand civilian needs, and identify trustworthy allies quickly.
+Master Swordswoman
+: Fileze's skill with a longsword and shield is outstanding. Her technique is flawless, her reflexes sharp, and her instincts honed through countless real combat encounters.
+
+Tactical Brilliance
+: She can assess a situation rapidly and deploy limited resources to maximum effect. She has trained bandits with far larger numbers through clever positioning and pressure on the enemy's nerves.
+
+Natural Leader
+: Her presence inspires confidence. Even untrained militia follow her orders without hesitation because she radiates competence and concern for their welfare.
+
+Endurance
+: Years of conditioning give her stamina in prolonged combat or travel. She can maintain fighting effectiveness longer than most.
+
+Reading People
+: Her ability to read people allows her to negotiate effectively, understand civilian needs, and identify trustworthy allies quickly.
 
 ### Weaknesses
 
-- **Idealism Liability**: Fileze's moral commitments sometimes make her vulnerable to clients who manipulate her sense of justice. She has accepted disadvantageous contracts because she believed in the cause.
-- **Difficulty with Cruelty**: She cannot stomach unnecessary brutality, hesitating at moments requiring ruthlessness. This has cost her contracts and, occasionally, has prevented her from achieving objectives.
-- **Pride in Reputation**: Her need to maintain her status as a mercenary of principle makes her inflexible in negotiations and sometimes leads her to accept risks unnecessarily to preserve her honor.
-- **Limited Resources**: Operating independently and refusing wealthy but morally questionable patrons means she often works with limited funds and equipment compared to less scrupulous mercenaries.
-- **Emotional Exhaustion**: The weight of protecting others and witnessing suffering takes a toll. She occasionally struggles with despair when she realizes her efforts cannot save everyone.
+Idealism Liability
+: Fileze's moral commitments sometimes make her vulnerable to clients who manipulate her sense of justice. She has accepted disadvantageous contracts because she believed in the cause.
+
+Difficulty with Cruelty
+: She cannot stomach unnecessary brutality, hesitating at moments requiring ruthlessness. This has cost her contracts and, occasionally, has prevented her from achieving objectives.
+
+Pride in Reputation
+: Her need to maintain her status as a mercenary of principle makes her inflexible in negotiations and sometimes leads her to accept risks unnecessarily to preserve her honor.
+
+Limited Resources
+: Operating independently and refusing wealthy but morally questionable patrons means she often works with limited funds and equipment compared to less scrupulous mercenaries.
+
+Emotional Exhaustion
+: The weight of protecting others and witnessing suffering takes a toll. She occasionally struggles with despair when she realizes her efforts cannot save everyone.
 
 ## Social
 
@@ -490,12 +508,17 @@ The Protectors' Circle
 
 ## Plot Hooks
 
-1. **The Impossible Contract**: A young scholar offers Fileze an extraordinary sum to protect someone for one week—with the catch that she cannot know who they are protecting or why they are in danger. The mystery deepens when she realizes her client may be **prophetically gifted** and the danger comes from the **Bizarian Inquisition** itself, forcing her into direct conflict with official authority.
+The Impossible Contract
+: A young scholar offers Fileze an extraordinary sum to protect someone for one week—with the catch that she cannot know who they are protecting or why they are in danger. The mystery deepens when she realizes her client may be **prophetically gifted** and the danger comes from the **Bizarian Inquisition** itself, forcing her into direct conflict with official authority.
 
-2. **The Ghost Brigade**: Fileze encounters a group of former soldiers—women mostly—who have begun conducting vigilante operations against violent criminals the official justice system refuses to prosecute. Their leader, **Captain Drelia Petrikot**, asks Fileze to join formally or at minimum to train them. Accepting means becoming an outlaw; refusing means abandoning those who could do tremendous good.
+The Ghost Brigade
+: Fileze encounters a group of former soldiers—women mostly—who have begun conducting vigilante operations against violent criminals the official justice system refuses to prosecute. Their leader, **Captain Drelia Petrikot**, asks Fileze to join formally or at minimum to train them. Accepting means becoming an outlaw; refusing means abandoning those who could do tremendous good.
 
-3. **The Infiltration**: Lady Tulvazea asks Fileze to accomplish something previously thought impossible: infiltrate the **Crimson Brotherhood** as a criminal-for-hire, identify their actual leadership structure, and gather evidence for prosecution. The operation would require Fileze to commit heinous acts as cover—forcing her to question whether her moral code can bend without breaking.
+The Infiltration
+: Lady Tulvazea asks Fileze to accomplish something previously thought impossible: infiltrate the **Crimson Brotherhood** as a criminal-for-hire, identify their actual leadership structure, and gather evidence for prosecution. The operation would require Fileze to commit heinous acts as cover—forcing her to question whether her moral code can bend without breaking.
 
-4. **The Rival's Challenge**: **Ruzhvelis Sapipidek** publicly challenges Fileze to single combat, winner takes both their reputations. He has carefully orchestrated the challenge to occur during a time when she cannot simply refuse without losing the confidence of the mercenary community. Beyond the personal stakes, Fileze suspects he has some larger purpose in forcing this confrontation.
+The Rival's Challenge
+: **Ruzhvelis Sapipidek** publicly challenges Fileze to single combat, winner takes both their reputations. He has carefully orchestrated the challenge to occur during a time when she cannot simply refuse without losing the confidence of the mercenary community. Beyond the personal stakes, Fileze suspects he has some larger purpose in forcing this confrontation.
 
-5. **The Refugee Crisis**: A sudden catastrophe—plague, war, or magical disaster—displaces an entire region's population. The mercenary guild offers substantial contracts to those willing to handle the chaos. Fileze discovers that some "safety operations" are actually harvesting refugees for slavery. She must handle politics within her own guild while protecting the vulnerable and exposing corruption from within the organization she has relied upon.
+The Refugee Crisis
+: A sudden catastrophe—plague, war, or magical disaster—displaces an entire region's population. The mercenary guild offers substantial contracts to those willing to handle the chaos. Fileze discovers that some "safety operations" are actually harvesting refugees for slavery. She must handle politics within her own guild while protecting the vulnerable and exposing corruption from within the organization she has relied upon.

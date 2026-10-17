@@ -87,8 +87,17 @@ The office of Teng Ja stands vacant, and a new holder receives a blade forged at
 
 ## See Also
 
-- [[affiliation-jenchaiempr|Jenchai Empire]]—the realm, the court and the eight houses
-- [[place-tsuijai|Tsuijai]]—the mountain of the domain
-- [[place-tsuiwu|Tsuiwu]]—the castle town and seat
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
-- [[being-embrhnd|Emberhound]]—the fire elemental that guards the forge-yard
+[[affiliation-jenchaiempr|Jenchai Empire]]
+: the realm, the court and the eight houses
+
+[[place-tsuijai|Tsuijai]]
+: the mountain of the domain
+
+[[place-tsuiwu|Tsuiwu]]
+: the castle town and seat
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait
+
+[[being-embrhnd|Emberhound]]
+: the fire elemental that guards the forge-yard

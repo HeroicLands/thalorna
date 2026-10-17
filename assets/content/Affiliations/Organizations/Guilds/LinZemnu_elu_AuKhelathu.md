@@ -56,5 +56,8 @@ Say a carver takes a commission that none of the guild's regulations would allow
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu]]—The empire the guild's membership spans
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-aukhelathrgq|Au'Khelathu]]
+: The empire the guild's membership spans
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

@@ -27,11 +27,19 @@ The chief temple of [[affiliation-shebazet|Shebazet]] and its estates hold much 
 
 ## Settlements
 
-- [[place-garshebazet|Gar-Shebazet]] (~49,000)—the selat capital and the seat of the Halzi'a.
-- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+[[place-garshebazet|Gar-Shebazet]] (~49,000)
+: the selat capital and the seat of the Halzi'a.
+
+The villages and estate-towns
+: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatgrshbzt|The Selat of Gar-Shebazet]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-garshebazet|Gar-Shebazet]]—Selat capital
+[[affiliation-selatgrshbzt|The Selat of Gar-Shebazet]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-garshebazet|Gar-Shebazet]]
+: Selat capital

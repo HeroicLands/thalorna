@@ -56,5 +56,8 @@ The temple pays for the work in exchange for a share of the acclaim. Say a paint
 
 ## See Also
 
-- [[lore-thubaidty|Thuba'i]]—The god whose patronage the collective works under
-- [[affiliation-lutthubai|Lut-Thuba'i]]—The temple that funds the collective
+[[lore-thubaidty|Thuba'i]]
+: The god whose patronage the collective works under
+
+[[affiliation-lutthubai|Lut-Thuba'i]]
+: The temple that funds the collective

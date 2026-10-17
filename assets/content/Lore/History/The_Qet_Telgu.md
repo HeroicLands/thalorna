@@ -68,6 +68,11 @@ The Khelathi claim more than a founding. The mound of [[place-yathtelgu|Yath-Tel
 
 ## See Also
 
-- [[lore-firstoccasion|The First Occasion]]—the telling that opens the count
-- [[lore-khelathclndr|The Khelathi Calendar]]—the seasons and the regnal years beside it
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the state founded on the First Occasion
+[[lore-firstoccasion|The First Occasion]]
+: the telling that opens the count
+
+[[lore-khelathclndr|The Khelathi Calendar]]
+: the seasons and the regnal years beside it
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: the state founded on the First Occasion

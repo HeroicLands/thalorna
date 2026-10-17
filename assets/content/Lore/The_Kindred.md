@@ -10,8 +10,11 @@ tags: [first-gods, religion]
 data: {packFolder: settinglore}
 ---
 
-- **Parent pantheon:** [[affiliation-firstgods|The First Gods]]
-- **Religion:** [[affiliation-theoldway|The Old Way]]
+Parent pantheon
+: [[affiliation-firstgods|The First Gods]]
+
+Religion
+: [[affiliation-theoldway|The Old Way]]
 
 The **Kindred** are the servant spirits of the two primordial Powers of the [[affiliation-firstgods|First Gods]]. They are the animal spirits, the place spirits, the water spirits, the stone spirits, the hearth spirits—the innumerable minor and intermediate beings who dwell in specific territories and whose presence constitutes the actual texture of Áelendan religious life.
 
@@ -27,9 +30,14 @@ Kindred are individual beings with individual temperaments. A particular wolf-sp
 
 The Kindred are **not worshipped**, in the sense that the gods of the settled pantheons are worshipped. The Áelendan do not raise temples to them, do not pray to them for favor, do not regard them as transcendent beings to whom praise is owed. What the Áelendan do with the Kindred is keep relationships—and those relationships take three broad forms, which the tradition distinguishes carefully:
 
-- **Venerate**—The benevolent Kindred are venerated: honored with offerings, sung of in the tribe's songs, thanked at the seasons for what they have permitted and provided. A good river-mother, a generous grove-keeper, a hearth-spirit who has watched over many generations of the lodge—these are venerated. Most of Áelendan religious life consists of such relationships.
-- **Appease**—The severe, exacting, or easily offended Kindred are appeased: their specific demands are met, their protocols are followed without error, their offerings are rendered exactly as tradition requires. A stone-warder who keeps a difficult pass, a threshold-spirit who exacts a price at a crossing, a weather-kin who must be placated before a storm—these are appeased. Appeasement is negotiated, precise, and unforgiving of mistakes.
-- **Ward against**—The dangerous, the capricious, and the outright hostile Kindred are warded against: avoided where possible, sung away where not, turned aside with charm, fire, and protective object when they intrude. Old powers of the deep caves, restless dead, certain fae-adjacent Kindred of the thin places, spirits whose enmity a tribe has earned across generations—these are warded against. One does not bargain with what one wards against.
+Venerate
+: The benevolent Kindred are venerated: honored with offerings, sung of in the tribe's songs, thanked at the seasons for what they have permitted and provided. A good river-mother, a generous grove-keeper, a hearth-spirit who has watched over many generations of the lodge—these are venerated. Most of Áelendan religious life consists of such relationships.
+
+Appease
+: The severe, exacting, or easily offended Kindred are appeased: their specific demands are met, their protocols are followed without error, their offerings are rendered exactly as tradition requires. A stone-warder who keeps a difficult pass, a threshold-spirit who exacts a price at a crossing, a weather-kin who must be placated before a storm—these are appeased. Appeasement is negotiated, precise, and unforgiving of mistakes.
+
+Ward against
+: The dangerous, the capricious, and the outright hostile Kindred are warded against: avoided where possible, sung away where not, turned aside with charm, fire, and protective object when they intrude. Old powers of the deep caves, restless dead, certain fae-adjacent Kindred of the thin places, spirits whose enmity a tribe has earned across generations—these are warded against. One does not bargain with what one wards against.
 
 A shaman's craft consists, in large part, of knowing which posture each of the tribe's Kindred requires, and which of the three postures a particular situation calls for.
 
@@ -37,11 +45,20 @@ A shaman's craft consists, in large part, of knowing which posture each of the t
 
 Áelendan tradition does not impose a single rigid taxonomy on the Kindred, but several broad types recur across tribes:
 
-- **Animal-kin**—The spirit-kin of specific animal lineages. Not individual animals, but the ancestral or presiding spirits of a species or pack in a given territory. Wolf-spirits, bear-spirits, eagle-spirits, raven-spirits, stag-spirits, and many others. Hunt-rites are typically addressed to animal-kin.
-- **Place-kin**—Spirits whose domain is a specific place rather than a lineage of living things. Grove-keepers of particular old-growth stands. Stone-warders of cairns, ridges, standing stones. Cave-spirits of the deep places. Threshold-spirits of the passes and crossings.
-- **Water-kin**—Spirits of rivers, lakes, springs, and falls. Often addressed as "mothers" (the river-mothers) regardless of their specific character. Water-kin are consulted in matters of travel, crossing, drowning, and cleansing.
-- **Weather-kin**—Spirits of storm, wind, snow, and fire. More mobile than the other Kindred, and often regarded as less reliable. Addressed in specific circumstances—a storm approaching, a fire to be kindled or quenched—rather than on a standing basis.
-- **Hearth-kin**—Spirits of the household and of the tribal lodge. The keepers of the fire, the warders of the threshold, the guardians of sleeping children. Each Áelendan household has its own hearth-kin, and major tribal lodges (such as [[place-eshalshldg|Ésalosa]]) have powerful hearth-kin of long standing—the greatest of them [[lore-tenaspr|Tena]]. Alone among the Kindred they depend on people: a hearth-kin comes into being where people keep returning and thins where they stop, so a permanent village holds one, a seasonal camp holds a thin one that must be woken on arrival, and a night's camp holds none.
+Animal-kin
+: The spirit-kin of specific animal lineages. Not individual animals, but the ancestral or presiding spirits of a species or pack in a given territory. Wolf-spirits, bear-spirits, eagle-spirits, raven-spirits, stag-spirits, and many others. Hunt-rites are typically addressed to animal-kin.
+
+Place-kin
+: Spirits whose domain is a specific place rather than a lineage of living things. Grove-keepers of particular old-growth stands. Stone-warders of cairns, ridges, standing stones. Cave-spirits of the deep places. Threshold-spirits of the passes and crossings.
+
+Water-kin
+: Spirits of rivers, lakes, springs, and falls. Often addressed as "mothers" (the river-mothers) regardless of their specific character. Water-kin are consulted in matters of travel, crossing, drowning, and cleansing.
+
+Weather-kin
+: Spirits of storm, wind, snow, and fire. More mobile than the other Kindred, and often regarded as less reliable. Addressed in specific circumstances—a storm approaching, a fire to be kindled or quenched—rather than on a standing basis.
+
+Hearth-kin
+: Spirits of the household and of the tribal lodge. The keepers of the fire, the warders of the threshold, the guardians of sleeping children. Each Áelendan household has its own hearth-kin, and major tribal lodges (such as [[place-eshalshldg|Ésalosa]]) have powerful hearth-kin of long standing—the greatest of them [[lore-tenaspr|Tena]]. Alone among the Kindred they depend on people: a hearth-kin comes into being where people keep returning and thins where they stop, so a permanent village holds one, a seasonal camp holds a thin one that must be woken on arrival, and a night's camp holds none.
 
 A given Kindred may serve the [[affiliation-firstgods#the-bright|Bright]], the [[affiliation-firstgods#the-dark|Dark]], or both. The affiliations are not doctrinal. They are observed—a river-mother whose character is quickening and nurturing is understood to belong to the Bright; a stone-warder who keeps the long silence of a barrow belongs to the Dark. Some Kindred pass between the Powers with the turning of the seasons, which is simply what they are.
 
@@ -90,8 +107,17 @@ Outsiders—travelers, traders, Arcane Order agents—do not have pacts with the
 
 ## See Also
 
-- [[affiliation-firstgods|The First Gods]]—The pantheon, including the Bright and Dark Powers the Kindred serve
-- [[affiliation-theoldway|The Old Way]]—The religion as practiced
-- [[lore-aelendnppl|Áelendan]]—The people whose religious life centers on veneration, appeasement, and warding of the Kindred
-- [[affiliation-alndnwrdns|Áelendan Wardens]]—The order that protects the sacred sites of the Kindred
-- [[lore-faecourts|The Fae Courts]]—Related but distinct otherworldly polity
+[[affiliation-firstgods|The First Gods]]
+: The pantheon, including the Bright and Dark Powers the Kindred serve
+
+[[affiliation-theoldway|The Old Way]]
+: The religion as practiced
+
+[[lore-aelendnppl|Áelendan]]
+: The people whose religious life centers on veneration, appeasement, and warding of the Kindred
+
+[[affiliation-alndnwrdns|Áelendan Wardens]]
+: The order that protects the sacred sites of the Kindred
+
+[[lore-faecourts|The Fae Courts]]
+: Related but distinct otherworldly polity

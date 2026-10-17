@@ -206,9 +206,14 @@ The commission system of the [[affiliation-vylrnmltry|military]] gives a sense o
 
 Physical Solden coin is rare and physical Ardin coin is impractical to carry in bulk, so large-value commerce moves on **paper script** and not on coin. Three forms of script circulate:
 
-- **Retail notes**—issued by an individual moneylender against his own reserves and honored locally, at the issuing house and at houses with reciprocal arrangements.
-- **Traveler's notes**—issued by a moneylender, drawn on the [[affiliation-tarmex|Tarmeks Orzan]], and honored at any moneylender of the [[affiliation-danvar|Danvar]] across the commonwealth.
-- **Master notes**—issued directly by the Tarmeks Orzan in imperial territory, or by a Danvar chapter in non-imperial territory, for the largest commercial settlements.
+Retail notes
+: issued by an individual moneylender against his own reserves and honored locally, at the issuing house and at houses with reciprocal arrangements.
+
+Traveler's notes
+: issued by a moneylender, drawn on the [[affiliation-tarmex|Tarmeks Orzan]], and honored at any moneylender of the [[affiliation-danvar|Danvar]] across the commonwealth.
+
+Master notes
+: issued directly by the Tarmeks Orzan in imperial territory, or by a Danvar chapter in non-imperial territory, for the largest commercial settlements.
 
 Script is the medium in which most large transactions are actually settled, including all but the most prestigious commission purchases. The [[affiliation-tarmex|Tarmeks Orzan]] note holds the full mechanics, the issuance and redemption fees and the political economy of the system.
 
@@ -248,9 +253,20 @@ A merchant on the road typically carries a modest mix. He keeps a handful of Sol
 
 ## See Also
 
-- [[affiliation-tarmex|The Tarmeks Orzan]]—the institution that mints, regulates and ultimately backs the currency; the full description of the paper script system
-- [[affiliation-danvar|The Danvar]]—the moneylenders' guild that runs the retail banking layer
-- [[affiliation-tevran|The Tevran Maldor]]—the cross-realm guild umbrella under which the Danvar is chartered
-- [[affiliation-vylrnmltry|The Vylarian Military]]—its commission price tables are denominated in Soldeni, the main case for calibrating substantial sums
-- [[affiliation-vezakuni|Vezakuni]]—the Taruzelian institutional alternative, with the **Merazuni**'s parallel banking arrangements and Taruzelian-struck coin
-- [[lore-aukhlthcrncy|Au'Khelathu Currency]]—the standard currency of the Northern Fertile Region
+[[affiliation-tarmex|The Tarmeks Orzan]]
+: the institution that mints, regulates and ultimately backs the currency; the full description of the paper script system
+
+[[affiliation-danvar|The Danvar]]
+: the moneylenders' guild that runs the retail banking layer
+
+[[affiliation-tevran|The Tevran Maldor]]
+: the cross-realm guild umbrella under which the Danvar is chartered
+
+[[affiliation-vylrnmltry|The Vylarian Military]]
+: its commission price tables are denominated in Soldeni, the main case for calibrating substantial sums
+
+[[affiliation-vezakuni|Vezakuni]]
+: the Taruzelian institutional alternative, with the **Merazuni**'s parallel banking arrangements and Taruzelian-struck coin
+
+[[lore-aukhlthcrncy|Au'Khelathu Currency]]
+: the standard currency of the Northern Fertile Region

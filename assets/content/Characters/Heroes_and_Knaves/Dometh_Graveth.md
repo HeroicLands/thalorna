@@ -450,19 +450,37 @@ A deeper motivation underlies this: Dometh builds ships because they are permane
 
 ### Strengths
 
-- **Shipwright Mastery**: His understanding of vessel construction encompasses technique and an almost intuitive grasp of how wood behaves in water, how forces distribute through structure, and how to create ships that are simultaneously stronger and lighter than conventional design permits.
-- **Materials Expertise**: His knowledge of timber types, their properties, strengths, and weaknesses is encyclopedic; he can select materials for specific purposes with an accuracy that borders on prophetic.
-- **Structural Reasoning**: His mathematical and reasoning faculties are strong, allowing him to calculate the stresses that will bear upon a vessel and design against them with precision.
-- **Leadership Through Respect**: Those who work under Dometh recognize the integrity of his vision and respond with absolute dedication, resulting in construction crews of unusual coherence and quality.
-- **Durability Achievement**: His vessels last longer, require less maintenance, and handle adverse conditions better than those built by rival shipwrights, generating a customer loyalty that outweighs price.
+Shipwright Mastery
+: His understanding of vessel construction encompasses technique and an almost intuitive grasp of how wood behaves in water, how forces distribute through structure, and how to create ships that are simultaneously stronger and lighter than conventional design permits.
+
+Materials Expertise
+: His knowledge of timber types, their properties, strengths, and weaknesses is encyclopedic; he can select materials for specific purposes with an accuracy that borders on prophetic.
+
+Structural Reasoning
+: His mathematical and reasoning faculties are strong, allowing him to calculate the stresses that will bear upon a vessel and design against them with precision.
+
+Leadership Through Respect
+: Those who work under Dometh recognize the integrity of his vision and respond with absolute dedication, resulting in construction crews of unusual coherence and quality.
+
+Durability Achievement
+: His vessels last longer, require less maintenance, and handle adverse conditions better than those built by rival shipwrights, generating a customer loyalty that outweighs price.
 
 ### Weaknesses
 
-- **Economic Fragility**: His refusal to accept lower-quality commissions leaves him vulnerable to periods of drought, and his income is perpetually uncertain in an era of faster, cheaper production.
-- **Inflexible Quality Standards**: His inability to compromise even when circumstances demand it has lost him major commissions and left him unable to adapt to changing market realities.
-- **Interpersonal Isolation**: His distance from human connection and inability to engage in political or social maneuvering has left him without powerful patrons or allies in the Shipwrights' Guild.
-- **Age and Declining Capacity**: Physical decline has begun to manifest—his hands occasionally tremble, his stamina has diminished, and he is acutely aware that his working life is entering its final chapter.
-- **Unwillingness to Delegate**: His insistence on personally overseeing all critical work has limited his output and created dangerous bottlenecks in his production.
+Economic Fragility
+: His refusal to accept lower-quality commissions leaves him vulnerable to periods of drought, and his income is perpetually uncertain in an era of faster, cheaper production.
+
+Inflexible Quality Standards
+: His inability to compromise even when circumstances demand it has lost him major commissions and left him unable to adapt to changing market realities.
+
+Interpersonal Isolation
+: His distance from human connection and inability to engage in political or social maneuvering has left him without powerful patrons or allies in the Shipwrights' Guild.
+
+Age and Declining Capacity
+: Physical decline has begun to manifest—his hands occasionally tremble, his stamina has diminished, and he is acutely aware that his working life is entering its final chapter.
+
+Unwillingness to Delegate
+: His insistence on personally overseeing all critical work has limited his output and created dangerous bottlenecks in his production.
 
 ## Social
 
@@ -495,12 +513,17 @@ The Keepers of Ólvenia's Temple
 
 ## Plot Hooks
 
-1. **The Impossible Commission**: The Kingdom of Tarvénia's young crown-prince arrives unannounced at Dometh's workshop with a proposition: build a warship unlike any constructed before, incorporating advanced design principles that the prince has been researching in secret. The design contradicts everything Dometh has learned about proper shipbuilding—it seems reckless, wrong, ultimately doomed. Yet the prince claims the design comes from ancient manuscripts and is desperately needed to counter a naval threat from abroad. Either Dometh violates his principles on the prince's assurance of authenticity, or he refuses and potentially dooms the kingdom to naval defeat.
+The Impossible Commission
+: The Kingdom of Tarvénia's young crown-prince arrives unannounced at Dometh's workshop with a proposition: build a warship unlike any constructed before, incorporating advanced design principles that the prince has been researching in secret. The design contradicts everything Dometh has learned about proper shipbuilding—it seems reckless, wrong, ultimately doomed. Yet the prince claims the design comes from ancient manuscripts and is desperately needed to counter a naval threat from abroad. Either Dometh violates his principles on the prince's assurance of authenticity, or he refuses and potentially dooms the kingdom to naval defeat.
 
-2. **The Ghost Ship's Resurrection**: A famed vessel known as the **Stormchaser**, reputed to be a Graveth masterpiece built by his father, has been discovered wrecked on a remote coast. The king offers Dometh an extraordinary sum to restore it to seaworthiness. The voyage to the wreck is itself dangerous, but the greater complication emerges when Dometh discovers that the ship bears evidence of deliberate sabotage—someone destroyed it with calculated intent. As he begins restoration, he uncovers a pattern: multiple Graveth vessels have been systematically destroyed over the past decades, suggesting that someone harbors an ancient vendetta against his family.
+The Ghost Ship's Resurrection
+: A famed vessel known as the **Stormchaser**, reputed to be a Graveth masterpiece built by his father, has been discovered wrecked on a remote coast. The king offers Dometh an extraordinary sum to restore it to seaworthiness. The voyage to the wreck is itself dangerous, but the greater complication emerges when Dometh discovers that the ship bears evidence of deliberate sabotage—someone destroyed it with calculated intent. As he begins restoration, he uncovers a pattern: multiple Graveth vessels have been systematically destroyed over the past decades, suggesting that someone harbors an ancient vendetta against his family.
 
-3. **The Timber's Curse**: A merchant brings Dometh the wood from an ancient temple—supposedly the finest timber in the kingdom, capable of creating an extraordinary vessel. But Dometh discovers that the wood is haunted, or cursed, or somehow spiritually compromised. Every ship built from this timber has been lost at sea with all hands. Despite the timber's quality and the merchant's desperation and substantial payment offer, accepting it would violate everything Dometh believes about honoring his craft. Yet refusing means condemning the wood to burning, destroying something precious, and losing the commission that might sustain him through several lean years.
+The Timber's Curse
+: A merchant brings Dometh the wood from an ancient temple—supposedly the finest timber in the kingdom, capable of creating an extraordinary vessel. But Dometh discovers that the wood is haunted, or cursed, or somehow spiritually compromised. Every ship built from this timber has been lost at sea with all hands. Despite the timber's quality and the merchant's desperation and substantial payment offer, accepting it would violate everything Dometh believes about honoring his craft. Yet refusing means condemning the wood to burning, destroying something precious, and losing the commission that might sustain him through several lean years.
 
-4. **The Apprentice's Betrayal**: Dometh's only remaining apprentice, a young woman of promise he has trained for five years, suddenly leaves his workshop to work for the rival Tazek. Worse, she begins producing designs that suspiciously resemble Dometh's private refinements—modifications and improvements he has developed but not yet built. Furious, Dometh pursues the matter and discovers that Tazek hired her specifically to steal his intellectual work. Dometh's choices are legal recourse (which will expose his designs publicly), subtle sabotage of Tazek's work, or direct confrontation at significant personal risk.
+The Apprentice's Betrayal
+: Dometh's only remaining apprentice, a young woman of promise he has trained for five years, suddenly leaves his workshop to work for the rival Tazek. Worse, she begins producing designs that suspiciously resemble Dometh's private refinements—modifications and improvements he has developed but not yet built. Furious, Dometh pursues the matter and discovers that Tazek hired her specifically to steal his intellectual work. Dometh's choices are legal recourse (which will expose his designs publicly), subtle sabotage of Tazek's work, or direct confrontation at significant personal risk.
 
-5. **The Naval War Commission**: The kingdom discovers that a rival naval power is constructing a fleet of warships. In desperation, the crown-prince returns to Dometh with a commission for a battle-fleet—multiple ships, rushed timeline, and total military deployment. Accepting would require Dometh to compromise on quality, expand his workshop, and delegate critical work to craftspeople he doesn't fully trust. Refusing would mean abandoning the kingdom in a moment of dire need. The prince makes it clear that patriotic honor requires acceptance, even as Dometh's conscience screams that rushing the work will result in inferior vessels that will endanger the sailors who crew them.
+The Naval War Commission
+: The kingdom discovers that a rival naval power is constructing a fleet of warships. In desperation, the crown-prince returns to Dometh with a commission for a battle-fleet—multiple ships, rushed timeline, and total military deployment. Accepting would require Dometh to compromise on quality, expand his workshop, and delegate critical work to craftspeople he doesn't fully trust. Refusing would mean abandoning the kingdom in a moment of dire need. The prince makes it clear that patriotic honor requires acceptance, even as Dometh's conscience screams that rushing the work will result in inferior vessels that will endanger the sailors who crew them.

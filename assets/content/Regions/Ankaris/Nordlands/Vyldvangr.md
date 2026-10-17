@@ -16,5 +16,8 @@ The saga of [[being-mrvrnhrvstblsd|Mirvrinna Harvest-Blessed]] tells why people 
 
 ## See Also
 
-- [[being-mrvrnhrvstblsd|Mirvrinna Harvest-Blessed]]—the harvest-blessed woman of the saga, whom the keepers count among their own
-- [[affiliation-frodvin|Faith of Frodvin]]—the god's faith
+[[being-mrvrnhrvstblsd|Mirvrinna Harvest-Blessed]]
+: the harvest-blessed woman of the saga, whom the keepers count among their own
+
+[[affiliation-frodvin|Faith of Frodvin]]
+: the god's faith

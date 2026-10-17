@@ -29,11 +29,19 @@ The selat's silt-islands are where the sea-raiders landed in 1960 ST (151 BF) ([
 
 ## Settlements
 
-- [[place-tjathu|Tjathu]] (~41,000)—the selat capital and the seat of the Halzi'a.
-- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+[[place-tjathu|Tjathu]] (~41,000)
+: the selat capital and the seat of the Halzi'a.
+
+The villages and estate-towns
+: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selattjathu|The Selat of Tjathu]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-tjathu|Tjathu]]—Selat capital
+[[affiliation-selattjathu|The Selat of Tjathu]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-tjathu|Tjathu]]
+: Selat capital

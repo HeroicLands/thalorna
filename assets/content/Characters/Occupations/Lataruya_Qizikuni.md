@@ -431,12 +431,17 @@ Few; respected in her field but occasionally faces skepticism from more traditio
 
 ## Plot Hooks
 
-1. **The Litigant's Dilemma**—An inheritance case turns on a will Lataruya knows to be forged, and she has to choose between her client and the truth.
+The Litigant's Dilemma
+: An inheritance case turns on a will Lataruya knows to be forged, and she has to choose between her client and the truth.
 
-2. **Old Grudges**—One of the traditional litigants who doubt her takes a case against her personally.
+Old Grudges
+: One of the traditional litigants who doubt her takes a case against her personally.
 
-3. **Echoes of the Past**—A family dispute Lataruya settled years ago resurfaces with a party she had forgotten.
+Echoes of the Past
+: A family dispute Lataruya settled years ago resurfaces with a party she had forgotten.
 
-4. **Shifting Winds**—Political change in Taruzel threatens the courts Lataruya depends upon, and she can adapt, resist, or leave.
+Shifting Winds
+: Political change in Taruzel threatens the courts Lataruya depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—A noble house offers Lataruya its business beyond anything she has hoped for, and the price is not named up front.
+The Opportunity
+: A noble house offers Lataruya its business beyond anything she has hoped for, and the price is not named up front.

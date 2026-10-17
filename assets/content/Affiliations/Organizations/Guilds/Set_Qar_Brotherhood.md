@@ -78,5 +78,8 @@ A man who is cast out loses the village and the trade together, since the trade 
 
 ## See Also
 
-- [[place-zelqar|Zel-Qar]]—The village itself
-- [[place-khelautithnt|Khelaut-Ithnet]]—The [[place-khelautithnt|Tombs of the West]], where bribed craftsmen unlock what they built
+[[place-zelqar|Zel-Qar]]
+: The village itself
+
+[[place-khelautithnt|Khelaut-Ithnet]]
+: The [[place-khelautithnt|Tombs of the West]], where bribed craftsmen unlock what they built

@@ -27,8 +27,17 @@ The wheat outside the town is the **Field at Iqeru**, where the war between Lene
 
 ## See Also
 
-- [[lore-twothrones|The War of the Two Thrones]]—the battle fought in the town's wheat
-- [[affiliation-selatiqeru|The Selat of Iqeru]]—parent selat
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—the selat class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—imperial overview
-- [[affiliation-uqaa|Faith of Uqa'a]]—patron cult
+[[lore-twothrones|The War of the Two Thrones]]
+: the battle fought in the town's wheat
+
+[[affiliation-selatiqeru|The Selat of Iqeru]]
+: parent selat
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: the selat class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: imperial overview
+
+[[affiliation-uqaa|Faith of Uqa'a]]
+: patron cult

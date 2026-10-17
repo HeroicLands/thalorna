@@ -71,9 +71,20 @@ Khelaga uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter o
 
 ## See Also
 
-- [[affiliation-deltaselatu|The Delta Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-khelaga|Khelaga]]—Selat capital
-- [[affiliation-uqaa|Faith of Uqa'a]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-khelagaselat|Khelaga Selat]]—The land the selat holds
+[[affiliation-deltaselatu|The Delta Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-khelaga|Khelaga]]
+: Selat capital
+
+[[affiliation-uqaa|Faith of Uqa'a]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-khelagaselat|Khelaga Selat]]
+: The land the selat holds

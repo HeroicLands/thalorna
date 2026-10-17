@@ -437,19 +437,37 @@ Nomasáhr is driven by the desire to regain his prominent position within the Le
 
 ### Strengths
 
-- **Master of Law**: His law skill, with five multipliers, and his reasoning make him without equal in understanding the letter and spirit of commercial contracts and regulations. He can find loopholes others miss.
-- **Orator**: His discourse and eloquence allow him to present arguments with compelling clarity that sways juries and negotiating partners alike.
-- **Strategic Thinker**: His combination of strong reasoning, will, and extensive practical experience makes him able to plan complex campaigns many moves in advance.
-- **Networked**: His decades in the League have given him connections throughout the merchant houses. Few merchants or advocates operate without considering his potential involvement or opposition.
-- **Diplomatic Procedure**: His heraldry and folklore make him well-versed in proper procedure and tradition, allowing him to work within (and sometimes exploit) formal structures.
+Master of Law
+: His law skill, with five multipliers, and his reasoning make him without equal in understanding the letter and spirit of commercial contracts and regulations. He can find loopholes others miss.
+
+Orator
+: His discourse and eloquence allow him to present arguments with compelling clarity that sways juries and negotiating partners alike.
+
+Strategic Thinker
+: His combination of strong reasoning, will, and extensive practical experience makes him able to plan complex campaigns many moves in advance.
+
+Networked
+: His decades in the League have given him connections throughout the merchant houses. Few merchants or advocates operate without considering his potential involvement or opposition.
+
+Diplomatic Procedure
+: His heraldry and folklore make him well-versed in proper procedure and tradition, allowing him to work within (and sometimes exploit) formal structures.
 
 ### Weaknesses
 
-- **Overly Rigid Analysis**: His reliance on logical analysis sometimes prevents him from understanding or accepting that people are motivated by emotion as much as reason. He dismisses unconventional approaches without fully considering them.
-- **Limited Physical Capability**: His weak strength and poor agility leave him vulnerable in physical confrontation. He is entirely dependent on others for protection.
-- **Burned Bridges**: His cynicism and occasional betrayal of allies in pursuit of advantage have created enemies. Not everyone he has defeated remains friendly.
-- **Political Vulnerability**: His forced reduction in prominence remains a sore subject, and his enemies could potentially orchestrate another scandal if given the opportunity.
-- **Isolation**: His inability to truly trust others means he lacks the kind of true allies who would support him unconditionally in a crisis.
+Overly Rigid Analysis
+: His reliance on logical analysis sometimes prevents him from understanding or accepting that people are motivated by emotion as much as reason. He dismisses unconventional approaches without fully considering them.
+
+Limited Physical Capability
+: His weak strength and poor agility leave him vulnerable in physical confrontation. He is entirely dependent on others for protection.
+
+Burned Bridges
+: His cynicism and occasional betrayal of allies in pursuit of advantage have created enemies. Not everyone he has defeated remains friendly.
+
+Political Vulnerability
+: His forced reduction in prominence remains a sore subject, and his enemies could potentially orchestrate another scandal if given the opportunity.
+
+Isolation
+: His inability to truly trust others means he lacks the kind of true allies who would support him unconditionally in a crisis.
 
 ## Social
 
@@ -482,12 +500,17 @@ The Council of Master Advocates
 
 ## Plot Hooks
 
-1. **The Incriminating Evidence**: A clerk from Nomasáhr's earlier years arrives with evidence that some of his greatest victories were achieved through technically illegal methods—suppressed witnesses, forged documents, corrupted judges. The clerk is either blackmailing him or has been sent by rivals. Nomasáhr must determine the truth while protecting his legacy and considering whether justice might actually require that he face consequences for past actions.
+The Incriminating Evidence
+: A clerk from Nomasáhr's earlier years arrives with evidence that some of his greatest victories were achieved through technically illegal methods—suppressed witnesses, forged documents, corrupted judges. The clerk is either blackmailing him or has been sent by rivals. Nomasáhr must determine the truth while protecting his legacy and considering whether justice might actually require that he face consequences for past actions.
 
-2. **The Impossible Defense**: A client approaches Nomasáhr with a seemingly unwinnable case—they are accused of a crime that carries automatic forfeiture of all property and exile. The evidence against them appears overwhelming, but Nomasáhr realizes the accusation is politically motivated, meant to eliminate a rival of someone powerful. He can take the case knowing that success might make powerful enemies and that the fee will never justify the risk, or turn it away.
+The Impossible Defense
+: A client approaches Nomasáhr with a seemingly unwinnable case—they are accused of a crime that carries automatic forfeiture of all property and exile. The evidence against them appears overwhelming, but Nomasáhr realizes the accusation is politically motivated, meant to eliminate a rival of someone powerful. He can take the case knowing that success might make powerful enemies and that the fee will never justify the risk, or turn it away.
 
-3. **The Successor's Rebellion**: A young advocate he mentored approaches him with evidence that his own mentor, Advocate Kezvunena, was corrupt and used illegal methods even more egregiously than Nomasáhr himself. The question becomes whether Nomasáhr will help cover up this truth (protecting his own reputation as Kezvunena's student) or expose it (potentially undermining the entire foundation of his standing and training).
+The Successor's Rebellion
+: A young advocate he mentored approaches him with evidence that his own mentor, Advocate Kezvunena, was corrupt and used illegal methods even more egregiously than Nomasáhr himself. The question becomes whether Nomasáhr will help cover up this truth (protecting his own reputation as Kezvunena's student) or expose it (potentially undermining the entire foundation of his standing and training).
 
-4. **Sturash's Fall**: Evidence emerges that Advocate Sturash, his rival, orchestrated the scandal against Nomasáhr and is currently engaged in even more serious corruptions. Nomasáhr has the means to destroy him through legal action—but doing so would require him to expose evidence that would also implicate him in the original scandal. The choice is between revenge and self-preservation.
+Sturash's Fall
+: Evidence emerges that Advocate Sturash, his rival, orchestrated the scandal against Nomasáhr and is currently engaged in even more serious corruptions. Nomasáhr has the means to destroy him through legal action—but doing so would require him to expose evidence that would also implicate him in the original scandal. The choice is between revenge and self-preservation.
 
-5. **The Shadow Counsel**: An anonymous patron offers Nomasáhr extraordinary payment to act as legal advisor to a merchant operation that appears legitimate on the surface but whose true operations clearly venture into criminal activity. The work is intellectually stimulating, the pay is life-changing, and the patron knows enough about his past indiscretions to compel obedience. Nomasáhr can accept and risk becoming entangled with outright crime, or refuse and face exposure of his secrets.
+The Shadow Counsel
+: An anonymous patron offers Nomasáhr extraordinary payment to act as legal advisor to a merchant operation that appears legitimate on the surface but whose true operations clearly venture into criminal activity. The work is intellectually stimulating, the pay is life-changing, and the patron knows enough about his past indiscretions to compel obedience. Nomasáhr can accept and risk becoming entangled with outright crime, or refuse and face exposure of his secrets.

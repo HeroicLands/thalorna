@@ -25,6 +25,11 @@ carrying trade along the western shore and from what it can charge others for ac
 
 ## See Also
 
-- [[affiliation-repblcndrth|Republic of Ondareth]]—The republic that holds this land
-- [[place-aelwyth|Aelwyth]]—The island
-- [[place-thornbury|Thornbury]]—The seat
+[[affiliation-repblcndrth|Republic of Ondareth]]
+: The republic that holds this land
+
+[[place-aelwyth|Aelwyth]]
+: The island
+
+[[place-thornbury|Thornbury]]
+: The seat

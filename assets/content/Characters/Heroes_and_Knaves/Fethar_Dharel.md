@@ -459,8 +459,11 @@ Pilot of the **Tamzir**. Husband of **Sélvara Valskir**. He maintains occasiona
 
 ## Plot Hooks
 
-1. **The Pilot's Price**: A wealthy Provenzian shipping magnate offers Fetar a legitimate position as lead pilot for his fleet—good pay, respectability, and safety. Fetar is torn between the security this would offer Sélvara and the life he has built aboard the Tamzir. The offer may also not be as innocent as it appears.
+The Pilot's Price
+: A wealthy Provenzian shipping magnate offers Fetar a legitimate position as lead pilot for his fleet—good pay, respectability, and safety. Fetar is torn between the security this would offer Sélvara and the life he has built aboard the Tamzir. The offer may also not be as innocent as it appears.
 
-2. **River and Sea**: Fetar receives word that his hometown is threatened by flooding after a dam collapse upriver. His family needs help, and his intimate knowledge of the river system could save lives—but reaching them means leaving the Tamzir at a critical moment.
+River and Sea
+: Fetar receives word that his hometown is threatened by flooding after a dam collapse upriver. His family needs help, and his intimate knowledge of the river system could save lives—but reaching them means leaving the Tamzir at a critical moment.
 
-3. **The Uncharted Passage**: An ancient chart surfaces suggesting a hidden sea passage through a treacherous archipelago that could cut weeks off the journey between the [[place-taruzelrgn|Taruzel Region]] and the northern ports. Only a pilot of extraordinary skill could navigate it. The potential profit is enormous, but the chart may be incomplete—or a trap.
+The Uncharted Passage
+: An ancient chart surfaces suggesting a hidden sea passage through a treacherous archipelago that could cut weeks off the journey between the [[place-taruzelrgn|Taruzel Region]] and the northern ports. Only a pilot of extraordinary skill could navigate it. The potential profit is enormous, but the chart may be incomplete—or a trap.

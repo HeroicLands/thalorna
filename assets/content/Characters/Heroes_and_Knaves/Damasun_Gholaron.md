@@ -461,10 +461,14 @@ Passenger and informal counselor aboard the **Tamzir**. He claims affiliation wi
 
 ## Plot Hooks
 
-1. **The Past Arrives**: A stranger in a port city recognizes Kléandir and addresses him by a different name—a name that carries weight and danger. Kléandir's carefully constructed new identity begins to unravel, and the crew must decide how much they need to know about the old man's past.
+The Past Arrives
+: A stranger in a port city recognizes Kléandir and addresses him by a different name—a name that carries weight and danger. Kléandir's carefully constructed new identity begins to unravel, and the crew must decide how much they need to know about the old man's past.
 
-2. **The Confessor's Burden**: Kléandir has been quietly corresponding with someone about the [[affiliation-ordoarcanis|Thordimalon]]. He knows more about the organization than he has revealed—perhaps more than is safe. When an opportunity arises to strike at the Arcane Order's interests, Kléandir has the knowledge to make it possible, but using it would expose who he once was.
+The Confessor's Burden
+: Kléandir has been quietly corresponding with someone about the [[affiliation-ordoarcanis|Thordimalon]]. He knows more about the organization than he has revealed—perhaps more than is safe. When an opportunity arises to strike at the Arcane Order's interests, Kléandir has the knowledge to make it possible, but using it would expose who he once was.
 
-3. **Crisis of Faith**: An event aboard the Tamzir shakes Kléandir's already fragile faith to its foundation. The crew must contend with the possibility that their steadfast spiritual anchor is coming apart, and that the darkness in Kléandir's past may be closer to the surface than anyone realized.
+Crisis of Faith
+: An event aboard the Tamzir shakes Kléandir's already fragile faith to its foundation. The crew must contend with the possibility that their steadfast spiritual anchor is coming apart, and that the darkness in Kléandir's past may be closer to the surface than anyone realized.
 
-4. **The Usurer's Notes**: When Kléandir is injured and his shoulder bag is opened to treat him, the crew discovers the hidden usurer's notes—worth a small fortune. The notes trace back to an institution with ties to Vylarian intelligence. The crew must decide whether to confront Kléandir or trust him despite the evidence.
+The Usurer's Notes
+: When Kléandir is injured and his shoulder bag is opened to treat him, the crew discovers the hidden usurer's notes—worth a small fortune. The notes trace back to an institution with ties to Vylarian intelligence. The crew must decide whether to confront Kléandir or trust him despite the evidence.

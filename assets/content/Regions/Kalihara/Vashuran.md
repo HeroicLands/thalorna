@@ -22,6 +22,11 @@ The foreign quarter is a single street of lodgings and a stone warehouse, and th
 
 ## See Also
 
-- [[place-ilovanu|Ilovanu]]—the principal port
-- [[affiliation-kalihara|Kalihara]]—the polity and its wardens
-- [[skill-valtarlng|Valtari]]—the harbor pidgin and its Vashurán dialect
+[[place-ilovanu|Ilovanu]]
+: the principal port
+
+[[affiliation-kalihara|Kalihara]]
+: the polity and its wardens
+
+[[skill-valtarlng|Valtari]]
+: the harbor pidgin and its Vashurán dialect

@@ -23,7 +23,14 @@ It holds the selat's chief temple of [[affiliation-psaqaru|Saq'aru]], the Halzi'
 
 ## See Also
 
-- [[affiliation-selatgarzant|The Selat of Gar-Zanit]]—Parent selat
-- [[affiliation-deltaselatu|The Delta Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-psaqaru|Faith of Saq'aru]]—Patron cult
+[[affiliation-selatgarzant|The Selat of Gar-Zanit]]
+: Parent selat
+
+[[affiliation-deltaselatu|The Delta Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-psaqaru|Faith of Saq'aru]]
+: Patron cult

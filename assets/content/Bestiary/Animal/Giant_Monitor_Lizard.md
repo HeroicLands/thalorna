@@ -288,20 +288,29 @@ The giant monitor lizard strikes hardest from surprise; in terrain of its choice
 
 ## Attributes
 
-- **Strength:** 12-17 (1d6+11)
+Strength
+: 12-17 (1d6+11)
 
-- **Endurance:** 10-15 (1d6+9)
+Endurance
+: 10-15 (1d6+9)
 
-- **Dexterity:** 8-13 (1d6+7)
+Dexterity
+: 8-13 (1d6+7)
 
-- **Agility:** 8-11 (1d4+7)
+Agility
+: 8-11 (1d4+7)
 
-- **Perception:** 10-15 (1d6+9)
+Perception
+: 10-15 (1d6+9)
 
-- **Aura:** 8-13 (1d6+7)
+Aura
+: 8-13 (1d6+7)
 
-- **Will:** 9-14 (1d6+8)
+Will
+: 9-14 (1d6+8)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

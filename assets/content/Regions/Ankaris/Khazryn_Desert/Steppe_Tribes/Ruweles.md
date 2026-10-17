@@ -74,6 +74,11 @@ The Uruvolur stay out of the quarrels of the grass tribes. A band that refuses t
 
 ## See Also
 
-- [[lore-sowidesclt|Sovidur]]—the steppe tribes and what they hold a person owes
-- [[affiliation-sahritrb|Sahri]]—the best-known Uruvolur band
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the sands the bands keep
+[[lore-sowidesclt|Sovidur]]
+: the steppe tribes and what they hold a person owes
+
+[[affiliation-sahritrb|Sahri]]
+: the best-known Uruvolur band
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the sands the bands keep

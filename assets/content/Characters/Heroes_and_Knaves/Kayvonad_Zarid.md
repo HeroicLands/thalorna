@@ -452,19 +452,37 @@ Kayvonad is motivated primarily by a need for vindication. He is convinced that 
 
 ### Strengths
 
-- **Mineral Transmutation Mastery**: Kayvonad has no equal in the stable conversion of base materials into precious substances. His theoretical understanding of the underlying mechanisms is perhaps unsurpassed in the known world.
-- **Mathematical Genius**: His reasoning and mathematical ability are of the first order. He can work through complex calculations that would confound ordinary scholars, finding patterns in numerical data that others miss.
-- **Experimental Precision**: When carrying out transmutation procedures, his methodical approach yields consistently higher success rates than colleagues using the same theoretical framework.
-- **Rare Material Identification**: His deep knowledge of minerals and substances allows him to identify and evaluate rare materials with great accuracy and speed.
-- **Ritualistic Understanding**: Though not a mage in the traditional sense, his knowledge of alchemical rituals and their theoretical underpinnings is comprehensive.
+Mineral Transmutation Mastery
+: Kayvonad has no equal in the stable conversion of base materials into precious substances. His theoretical understanding of the underlying mechanisms is perhaps unsurpassed in the known world.
+
+Mathematical Genius
+: His reasoning and mathematical ability are of the first order. He can work through complex calculations that would confound ordinary scholars, finding patterns in numerical data that others miss.
+
+Experimental Precision
+: When carrying out transmutation procedures, his methodical approach yields consistently higher success rates than colleagues using the same theoretical framework.
+
+Rare Material Identification
+: His deep knowledge of minerals and substances allows him to identify and evaluate rare materials with great accuracy and speed.
+
+Ritualistic Understanding
+: Though not a mage in the traditional sense, his knowledge of alchemical rituals and their theoretical underpinnings is comprehensive.
 
 ### Weaknesses
 
-- **Physical Fragility**: Kayvonad possesses minimal strength or endurance. Years of sedentary work have left him poorly suited to physical exertion or combat of any kind.
-- **Arrogant Dismissiveness**: His conviction in his own intellectual superiority blinds him to insights offered by others. He often rejects valuable information because it comes from sources he considers beneath consideration.
-- **Lack of Empathy**: His difficulty understanding or connecting with others' emotions and perspectives makes him a poor collaborator and a worse mentor despite his technical brilliance.
-- **Chemical Dependency**: His reliance on alcohol and certain stimulant compounds has begun to subtly impair his judgment, though he refuses to acknowledge this decline.
-- **Rigid Methodology**: His insistence on rigid theoretical frameworks sometimes prevents him from recognizing when experimental results demand revision of fundamental assumptions.
+Physical Fragility
+: Kayvonad possesses minimal strength or endurance. Years of sedentary work have left him poorly suited to physical exertion or combat of any kind.
+
+Arrogant Dismissiveness
+: His conviction in his own intellectual superiority blinds him to insights offered by others. He often rejects valuable information because it comes from sources he considers beneath consideration.
+
+Lack of Empathy
+: His difficulty understanding or connecting with others' emotions and perspectives makes him a poor collaborator and a worse mentor despite his technical brilliance.
+
+Chemical Dependency
+: His reliance on alcohol and certain stimulant compounds has begun to subtly impair his judgment, though he refuses to acknowledge this decline.
+
+Rigid Methodology
+: His insistence on rigid theoretical frameworks sometimes prevents him from recognizing when experimental results demand revision of fundamental assumptions.
 
 ## Social
 
@@ -494,12 +512,17 @@ The Alchemists' Society
 
 ## Plot Hooks
 
-1. **The Impossible Transmutation**: Kayvonad discovers evidence that someone has achieved a transmutation he thought theoretically impossible—lead to gold through a previously unknown catalytic mechanism. He hires the party to locate the alchemist responsible, convinced this person either stole his work or has made a real breakthrough. The investigation reveals that Bulamun himself appears to be behind the discovery, and Kayvonad must grapple with the possibility that his rival finally achieved what he could not, or that his rival's discovery is built on fraud similar to the accusations leveled against Kayvonad himself decades ago.
+The Impossible Transmutation
+: Kayvonad discovers evidence that someone has achieved a transmutation he thought theoretically impossible—lead to gold through a previously unknown catalytic mechanism. He hires the party to locate the alchemist responsible, convinced this person either stole his work or has made a real breakthrough. The investigation reveals that Bulamun himself appears to be behind the discovery, and Kayvonad must grapple with the possibility that his rival finally achieved what he could not, or that his rival's discovery is built on fraud similar to the accusations leveled against Kayvonad himself decades ago.
 
-2. **The Forbidden Formula**: In his private library, Kayvonad discovers a fragmentary ancient text describing a transmutation that could theoretically convert lead into a substance with properties approaching that of mithril or other fabled materials. The process requires executing a ritual of dangerous complexity that would require the party's assistance and likely put them all at serious personal risk. He offers substantial payment for their help but refuses to fully explain what he's attempting until they're committed to the endeavor. When partial results suggest the ritual might succeed, darker questions emerge about whether the transmutation is safe, and whether creating such powerful materials has consequences the ancient alchemists deliberately hid.
+The Forbidden Formula
+: In his private library, Kayvonad discovers a fragmentary ancient text describing a transmutation that could theoretically convert lead into a substance with properties approaching that of mithril or other fabled materials. The process requires executing a ritual of dangerous complexity that would require the party's assistance and likely put them all at serious personal risk. He offers substantial payment for their help but refuses to fully explain what he's attempting until they're committed to the endeavor. When partial results suggest the ritual might succeed, darker questions emerge about whether the transmutation is safe, and whether creating such powerful materials has consequences the ancient alchemists deliberately hid.
 
-3. **The Bulamun Conspiracy**: The party discovers evidence that Bulamun did, in fact, plagiarize critical components of his work from Kayvonad's private notes, and that the mathematical "errors" Bulamun claimed to find may have been doctored. Kayvonad's vindication seems within reach, but the evidence is fragmentary and circumstantial. And helping Kayvonad expose Bulamun would damage the University's reputation and shake confidence in decades of accepted research. The party must pick its way through questions of academic integrity, justice, and the University's self-preservation while Kayvonad grows increasingly focused on revenge rather than truth.
+The Bulamun Conspiracy
+: The party discovers evidence that Bulamun did, in fact, plagiarize critical components of his work from Kayvonad's private notes, and that the mathematical "errors" Bulamun claimed to find may have been doctored. Kayvonad's vindication seems within reach, but the evidence is fragmentary and circumstantial. And helping Kayvonad expose Bulamun would damage the University's reputation and shake confidence in decades of accepted research. The party must pick its way through questions of academic integrity, justice, and the University's self-preservation while Kayvonad grows increasingly focused on revenge rather than truth.
 
-4. **The Material Crisis**: A shipment of rare mineral samples meant for Kayvonad's research is hijacked by bandits or agents of a rival faction. These materials are essential for an ongoing transmutation project that has consumed his life's savings and his remaining credibility at the University. If he fails to complete the work, his funding will be terminated and his theories will be abandoned. The party must recover the stolen materials, but in doing so they discover that the theft was orchestrated by someone within the University who questions whether Kayvonad's research is leading him toward transmutations that should not be permitted.
+The Material Crisis
+: A shipment of rare mineral samples meant for Kayvonad's research is hijacked by bandits or agents of a rival faction. These materials are essential for an ongoing transmutation project that has consumed his life's savings and his remaining credibility at the University. If he fails to complete the work, his funding will be terminated and his theories will be abandoned. The party must recover the stolen materials, but in doing so they discover that the theft was orchestrated by someone within the University who questions whether Kayvonad's research is leading him toward transmutations that should not be permitted.
 
-5. **The Resurrection of Aldrin Kovoss**: Kayvonad claims to have found evidence that his mentor, the famous Master Aldrin Kovoss, did not die decades ago as was universally believed, but instead achieved a form of alchemical immortality through an experimental transmutation. The evidence points to Kovoss having undergone a process that transformed him into something between human and mineral construct. If true, and if Kayvonad can find him, Kovoss might provide the final insights Kayvonad needs to complete his life's work—or might represent a cautionary tale about the dangers of pursuing transmutation beyond all ethical bounds. The party must track Kovoss across the Khazryn Desert while dealing with Kayvonad's increasingly obsessive and morally questionable behavior.
+The Resurrection of Aldrin Kovoss
+: Kayvonad claims to have found evidence that his mentor, the famous Master Aldrin Kovoss, did not die decades ago as was universally believed, but instead achieved a form of alchemical immortality through an experimental transmutation. The evidence points to Kovoss having undergone a process that transformed him into something between human and mineral construct. If true, and if Kayvonad can find him, Kovoss might provide the final insights Kayvonad needs to complete his life's work—or might represent a cautionary tale about the dangers of pursuing transmutation beyond all ethical bounds. The party must track Kovoss across the Khazryn Desert while dealing with Kayvonad's increasingly obsessive and morally questionable behavior.

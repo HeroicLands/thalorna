@@ -23,8 +23,17 @@ The plan is the work of the house of **Thelqen'Relu**, the house of the sun, who
 
 ## See Also
 
-- [[affiliation-selatmaguthn|The Selat of Magu-Thelqen]]—Parent selat
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-uqaa|Faith of Uqa'a]]—Patron cult
-- [[lore-sunhouse|The Sun-House at Magu-Thelqen]]—the dynasty that built the city and the cause of its emptying
+[[affiliation-selatmaguthn|The Selat of Magu-Thelqen]]
+: Parent selat
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-uqaa|Faith of Uqa'a]]
+: Patron cult
+
+[[lore-sunhouse|The Sun-House at Magu-Thelqen]]
+: the dynasty that built the city and the cause of its emptying

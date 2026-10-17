@@ -17,6 +17,11 @@ In the guild's tradition, Linhur and Linkur are brothers, and the guild swears t
 
 ## See Also
 
-- [[affiliation-linhur|Faith of Linhur]]—the cult and its offices
-- [[lore-linqurdty|Linkur]]—the paired god
-- [[affiliation-garnuw|Gar'Nuw]]—the guild whose elevations the two temples conduct
+[[affiliation-linhur|Faith of Linhur]]
+: the cult and its offices
+
+[[lore-linqurdty|Linkur]]
+: the paired god
+
+[[affiliation-garnuw|Gar'Nuw]]
+: the guild whose elevations the two temples conduct

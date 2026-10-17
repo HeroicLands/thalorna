@@ -293,12 +293,29 @@ In the high country, the condor's protected religious status creates a practical
 
 ## Attributes
 
-- **Strength:** 5-8 (1d4+4) — Modest; beak is powerful for feeding but the bird is not built for combat
-- **Endurance:** 9-14 (1d6+8) — Extraordinary soaring stamina; can remain aloft for an entire day
-- **Dexterity:** 8-11 (1d4+7) — Adequate in air; clumsy on ground
-- **Agility:** 13-18 (1d6+12) — Supreme aerial agility; thermal navigation is an art form
-- **Perception:** 14-19 (1d6+13) — Extraordinary high-altitude vision; detects carcasses from miles
-- **Aura:** 9-14 (1d6+8) — Sacred messenger of the upper world; deep religious significance
-- **Will:** 7-10 (1d4+6) — Patient and persistent; not aggressive
-- **Reasoning:** 5-8 (1d4+4) — Social intelligence within feeding hierarchy
-- **Creativity:** 4-7 (1d4+3) — Limited
+Strength
+: 5-8 (1d4+4) — Modest; beak is powerful for feeding but the bird is not built for combat
+
+Endurance
+: 9-14 (1d6+8) — Extraordinary soaring stamina; can remain aloft for an entire day
+
+Dexterity
+: 8-11 (1d4+7) — Adequate in air; clumsy on ground
+
+Agility
+: 13-18 (1d6+12) — Supreme aerial agility; thermal navigation is an art form
+
+Perception
+: 14-19 (1d6+13) — Extraordinary high-altitude vision; detects carcasses from miles
+
+Aura
+: 9-14 (1d6+8) — Sacred messenger of the upper world; deep religious significance
+
+Will
+: 7-10 (1d4+6) — Patient and persistent; not aggressive
+
+Reasoning
+: 5-8 (1d4+4) — Social intelligence within feeding hierarchy
+
+Creativity
+: 4-7 (1d4+3) — Limited

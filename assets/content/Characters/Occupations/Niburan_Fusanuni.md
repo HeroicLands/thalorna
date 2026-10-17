@@ -431,10 +431,14 @@ Rival fighters who want his place on the bill; the quarry guards who had charge 
 
 ## Plot Hooks
 
-1. **The Man Who Accused Him**—The clerk whose word sent Niburan to the arena has risen to a post in the customs house, and Niburan has found out where he lives.
+The Man Who Accused Him
+: The clerk whose word sent Niburan to the arena has risen to a post in the customs house, and Niburan has found out where he lives.
 
-2. **A Fixed Fight**—A guild house has offered Niburan more than a year's purses to lose to a young fighter they are building up. He has never lost on purpose, and he is forty-two.
+A Fixed Fight
+: A guild house has offered Niburan more than a year's purses to lose to a young fighter they are building up. He has never lost on purpose, and he is forty-two.
 
-3. **The Quarry Again**—A young quarryman has been accused the way Niburan was and sentenced to the same sand. Niburan is the only man in Sharimun who has stood where the boy stands and walked out.
+The Quarry Again
+: A young quarryman has been accused the way Niburan was and sentenced to the same sand. Niburan is the only man in Sharimun who has stood where the boy stands and walked out.
 
-4. **Retirement**—The arena-master has decided that Niburan's draw is spent and means to end his run with a fight he cannot win. Niburan has been told nothing, and the bill has been posted.
+Retirement
+: The arena-master has decided that Niburan's draw is spent and means to end his run with a fight he cannot win. Niburan has been told nothing, and the bill has been posted.

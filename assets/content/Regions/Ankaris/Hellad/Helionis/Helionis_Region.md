@@ -87,26 +87,64 @@ The [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], across 
 
 ## What Helionis Is Known For
 
-- **The academies:** schools of philosophy, science and magic that have taught for centuries; the most prestigious draw students from across Ankaris.
-- **The Academy of the Silver Veil:** the Kalidrian institution that trains hetairin in companionship, diplomacy and subtle influence, whose graduates serve in courts across Mídhalión.
-- **The mystery cults:** secret societies of initiation in stages, some purely spiritual and some with political ends.
-- **The games:** regular contests between the cities in running, wrestling, chariot racing and other sports, held at [[place-gamessanct|The Sanctuary of the Games]] since about 880 BF ([[lore-firstgames|The First Games]]), in which taking part is a sacred duty and a herald's person is inviolable even between enemies. After a battle between cities the loser's herald crosses the field under truce and takes the dead home, which is why the wars between Helionite cities leave no blood-field. The heralds of [[lore-heladharbors|The War of the Harbors]] set a stone where they met to exchange their dead, and heralds touch it before each war season.
-- **The theaters:** Helionite tragedy, comedy and satire, the most celebrated literary tradition in western Ankaris.
+The academies
+: schools of philosophy, science and magic that have taught for centuries; the most prestigious draw students from across Ankaris.
+
+The Academy of the Silver Veil
+: the Kalidrian institution that trains hetairin in companionship, diplomacy and subtle influence, whose graduates serve in courts across Mídhalión.
+
+The mystery cults
+: secret societies of initiation in stages, some purely spiritual and some with political ends.
+
+The games
+: regular contests between the cities in running, wrestling, chariot racing and other sports, held at [[place-gamessanct|The Sanctuary of the Games]] since about 880 BF ([[lore-firstgames|The First Games]]), in which taking part is a sacred duty and a herald's person is inviolable even between enemies. After a battle between cities the loser's herald crosses the field under truce and takes the dead home, which is why the wars between Helionite cities leave no blood-field. The heralds of [[lore-heladharbors|The War of the Harbors]] set a stone where they met to exchange their dead, and heralds touch it before each war season.
+
+The theaters
+: Helionite tragedy, comedy and satire, the most celebrated literary tradition in western Ankaris.
 
 ## See Also
 
-- [[affiliation-ctysttshlns|City-States of Helionis]]—how the seven cities are governed
-- [[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalidria]]—the three leading city-states
-- [[affiliation-theradon|Theradon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]], [[affiliation-kostaros2|Kostaros]]—the other four
-- [[lore-helioniteclt|Helionite]]—the culture and what it holds a person owes
-- [[place-heladrgn|Hellád Region]]—the parent region
-- [[affiliation-panepistmm|Epistémion]]—the scholarly federation born here
-- [[affiliation-ordoarcanis|Thordimalon]]—the arcane order with deep local roots
-- [[lore-helionscnq|The Conquest of Helionis]]—the war of 335–312 BF
-- [[affiliation-vylarinmpr|Vylarian Empire]]—former overlord, and the student of its culture
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—an old partner in ideas
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—eastern trading partner
-- [[place-provenzrgn|Provenzia Region]]—cultural rival and admirer
-- [[place-byzariargn|Bizaria Region]]—eastern neighbor and cousin
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the gods of Helionis
-- [[skill-helonclng|Helonic]]—the tongue and its naming traditions
+[[affiliation-ctysttshlns|City-States of Helionis]]
+: how the seven cities are governed
+
+[[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalidria]]
+: the three leading city-states
+
+[[affiliation-theradon|Theradon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]], [[affiliation-kostaros2|Kostaros]]
+: the other four
+
+[[lore-helioniteclt|Helionite]]
+: the culture and what it holds a person owes
+
+[[place-heladrgn|Hellád Region]]
+: the parent region
+
+[[affiliation-panepistmm|Epistémion]]
+: the scholarly federation born here
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: the arcane order with deep local roots
+
+[[lore-helionscnq|The Conquest of Helionis]]
+: the war of 335–312 BF
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: former overlord, and the student of its culture
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: an old partner in ideas
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: eastern trading partner
+
+[[place-provenzrgn|Provenzia Region]]
+: cultural rival and admirer
+
+[[place-byzariargn|Bizaria Region]]
+: eastern neighbor and cousin
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the gods of Helionis
+
+[[skill-helonclng|Helonic]]
+: the tongue and its naming traditions

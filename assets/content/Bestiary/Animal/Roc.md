@@ -343,20 +343,29 @@ It mends from wounds that would cripple any other creature, and a roc driven off
 
 ## Attributes
 
-- **Strength:** 38-43 (1d6+37)
+Strength
+: 38-43 (1d6+37)
 
-- **Endurance:** 33-38 (1d6+32)
+Endurance
+: 33-38 (1d6+32)
 
-- **Dexterity:** 12-17 (1d6+11)
+Dexterity
+: 12-17 (1d6+11)
 
-- **Agility:** 10-15 (1d6+9)
+Agility
+: 10-15 (1d6+9)
 
-- **Perception:** 14-19 (1d6+13)
+Perception
+: 14-19 (1d6+13)
 
-- **Aura:** 8-13 (1d6+7)
+Aura
+: 8-13 (1d6+7)
 
-- **Will:** 12-17 (1d6+11)
+Will
+: 12-17 (1d6+11)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 5-8 (1d4+4)
+Creativity
+: 5-8 (1d4+4)

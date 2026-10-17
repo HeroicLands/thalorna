@@ -283,20 +283,29 @@ If a shark loses teeth during feeding or hunting, replacement teeth migrate forw
 
 ## Attributes
 
-- **Strength:** 12-17 (1d6+11)
+Strength
+: 12-17 (1d6+11)
 
-- **Endurance:** 10-15 (1d6+9)
+Endurance
+: 10-15 (1d6+9)
 
-- **Dexterity:** 8-13 (1d6+7)
+Dexterity
+: 8-13 (1d6+7)
 
-- **Agility:** 11-16 (1d6+10)
+Agility
+: 11-16 (1d6+10)
 
-- **Perception:** 12-17 (1d6+11)
+Perception
+: 12-17 (1d6+11)
 
-- **Aura:** 8-11 (1d4+7)
+Aura
+: 8-11 (1d4+7)
 
-- **Will:** 9-14 (1d6+8)
+Will
+: 9-14 (1d6+8)
 
-- **Reasoning:** 4-7 (1d4+3)
+Reasoning
+: 4-7 (1d4+3)
 
-- **Creativity:** 3-6 (1d4+2)
+Creativity
+: 3-6 (1d4+2)

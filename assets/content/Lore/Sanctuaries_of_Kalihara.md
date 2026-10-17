@@ -40,7 +40,14 @@ Once in ten years the senior custodians of each sanctuary walk the full round of
 
 ## See Also
 
-- [[affiliation-tharivaan|Thári'vaan]]—the custodians, their ranks, their offices and their liturgies
-- [[place-veshvaan|Veshvaan]], [[place-mirthaan|Mirthaan]] and [[place-thalari|Thal'ari]]—the three greater sanctuaries
-- [[lore-itharisul|Ithasul]]—the substance of the works, what a custodian can and cannot do with one, and the held stones
-- [[lore-sarisul|The Tending-Stones]]—the village works and the count of the white ones
+[[affiliation-tharivaan|Thári'vaan]]
+: the custodians, their ranks, their offices and their liturgies
+
+[[place-veshvaan|Veshvaan]], [[place-mirthaan|Mirthaan]] and [[place-thalari|Thal'ari]]
+: the three greater sanctuaries
+
+[[lore-itharisul|Ithasul]]
+: the substance of the works, what a custodian can and cannot do with one, and the held stones
+
+[[lore-sarisul|The Tending-Stones]]
+: the village works and the count of the white ones

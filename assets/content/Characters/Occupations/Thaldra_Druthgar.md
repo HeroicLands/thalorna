@@ -432,12 +432,17 @@ Few; generally well-respected, but may face jealousy from some.
 
 ## Plot Hooks
 
-1. **The Common Seaman's Dilemma**—Thaldrá faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vristwald.
+The Common Seaman's Dilemma
+: Thaldrá faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vristwald.
 
-2. **Old Grudges**—Few; generally well-respected, but may face jealousy from some. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: Few; generally well-respected, but may face jealousy from some. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Thaldrá's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+Echoes of the Past
+: Something from Thaldrá's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vristwald threaten to upend the social order that Thaldrá depends upon. She must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Vristwald threaten to upend the social order that Thaldrá depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Thaldrá the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Thaldrá the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

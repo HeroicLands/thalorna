@@ -44,9 +44,20 @@ In the ravines of the northern plateau, rock-cut tombs open into the cliffs, [[p
 
 ## See Also
 
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the enclosing region
-- [[place-swoasisbelt|Tellumel]]—the irrigated strip to the south
-- [[place-hskrrgn|Khoshiqor]]—the sands to the north
-- [[place-mountshofar|Mount Shofar]]—the holy peak at the southern edge
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—herders on the southern slopes
-- [[lore-celestialroad|The Celestial Road]]—the main road and its southern spur
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the enclosing region
+
+[[place-swoasisbelt|Tellumel]]
+: the irrigated strip to the south
+
+[[place-hskrrgn|Khoshiqor]]
+: the sands to the north
+
+[[place-mountshofar|Mount Shofar]]
+: the holy peak at the southern edge
+
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: herders on the southern slopes
+
+[[lore-celestialroad|The Celestial Road]]
+: the main road and its southern spur

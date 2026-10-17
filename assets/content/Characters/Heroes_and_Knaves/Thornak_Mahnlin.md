@@ -467,28 +467,71 @@ Thornak hopes the barrows can give him enough renown to rally other villages aga
 
 ### Skills and Abilities
 
-- **Strength**: Thornak’s physical strength is his defining trait, honed through years of hunting and battle.
-- **Endurance**: His stamina is great, able to track and hunt for long periods without rest.
-- **Dexterity**: He is capable with weapons but relies more on brute force than finesse.
-- **Agility**: Thornak is surprisingly agile for his size, able to move swiftly through forests and terrain.
-- **Perception**: His senses are finely tuned, making him an excellent hunter.
-- **Comeliness**: Thornak’s appearance is rugged and weathered from years outdoors, more intimidating than attractive.
-- **Aura**: His aura reflects his strong presence and powerful connection to the spirit world.
-- **Will**: He is determined and unyielding, with a fierce drive to protect his tribe.
-- **Reasoning**: He relies more on instinct and experience than deep reasoning.
-- **Creativity**: His hunting shows some invention, but he sticks to what works.
-- **Empathy**: Thornak is focused on survival and duty, leaving him with little feeling for personal matters.
-- **Eloquence**: Thornak speaks plainly and prefers actions over words.
-- **Morality**: Thornak is fiercely loyal to his tribe’s mores but is not above bending rules and acting in his own self-interest if it serves to protect or advance his people.
-- **Voice**: Despite his fierce appearance and battle-hardened exterior, Thornak has an unexpectedly beautiful singing voice, full of deep, resonant tones. His songs are haunting and powerful, a surprising contrast to his rugged persona.
-- **Berserker Rage**: Thornak can enter a ferocious battle rage in the heat of combat, enhancing his strength and resilience. In this state, he becomes nearly unstoppable, shrugging off pain and injuries that would incapacitate others. His connection to Eichengrund’s boar wesk strengthens his fury, allowing him to channel the primal spirit of the wild boar, attacking with unrelenting ferocity and fearlessness.
-- **Expert Tracker**: As a skilled hunter, Thornak is adept at reading the land, following the most obscure trails, and interpreting the signs left behind by prey and enemies. His deep connection with the wilderness gives him an intuitive understanding of the terrain, making him an excellent tracker and scout. Whether stalking animals or tracking down foes, Thornak can navigate through forests, hills, and rugged landscapes with ease.
-- **Bond with the Village Wesk**: Thornak is spiritually connected to Eichengrund’s boar wesk, granting him heightened senses and increased endurance. This connection manifests in his ability to channel the strength, tenacity, and fearlessness of the boar in battle. His resilience is famous among his people, allowing him to continue fighting even after sustaining significant injuries.
-- **Master of the Spear and Axe**: Thornak is highly skilled in the use of the spear and axe, both as hunting tools and weapons of war. His precision with these weapons is deadly, and he can use them effectively in close combat as well as ranged attacks. His strength allows him to deliver devastating blows with his axe, while his spear is used both for throwing and for piercing through the armor of his enemies.
-- **Survivalist**: Raised in the harsh wilderness, Thornak is an expert at surviving in the wild. He knows how to find food, water, and shelter in even the most inhospitable environments. His knowledge of herbal remedies and his ability to craft tools and weapons from nature make him incredibly self-sufficient. Whether alone or leading a hunting party, Thornak is prepared for the hardships of the wild.
-- **Intimidation**: Thornak’s imposing size, fierce reputation, and savage demeanor make him a naturally intimidating figure. He can often deter enemies or gain an advantage through sheer presence, as his foes fear both his physical power and his unpredictable battle rage. This helps him in battle and in negotiations with outsiders who respect or fear his strength.
-- **Animal Empathy**: Thornak has a natural bond with the animals of the wild, particularly boars, wolves, and other fierce creatures of the forest. He can calm and communicate with animals, gaining their trust and sometimes even their aid. This ability makes him a superb hunter and can also provide an edge when dealing with hostile or dangerous wildlife.
-- **Resilient Defender**: Thornak is a ferocious attacker and a stalwart defender of his tribe. When protecting his people, his resolve becomes unbreakable, allowing him to withstand long battles and endure significant punishment. His defensive instincts, combined with his berserker rage, make him a fearsome warrior capable of holding his ground against overwhelming odds.
+Strength
+: Thornak’s physical strength is his defining trait, honed through years of hunting and battle.
+
+Endurance
+: His stamina is great, able to track and hunt for long periods without rest.
+
+Dexterity
+: He is capable with weapons but relies more on brute force than finesse.
+
+Agility
+: Thornak is surprisingly agile for his size, able to move swiftly through forests and terrain.
+
+Perception
+: His senses are finely tuned, making him an excellent hunter.
+
+Comeliness
+: Thornak’s appearance is rugged and weathered from years outdoors, more intimidating than attractive.
+
+Aura
+: His aura reflects his strong presence and powerful connection to the spirit world.
+
+Will
+: He is determined and unyielding, with a fierce drive to protect his tribe.
+
+Reasoning
+: He relies more on instinct and experience than deep reasoning.
+
+Creativity
+: His hunting shows some invention, but he sticks to what works.
+
+Empathy
+: Thornak is focused on survival and duty, leaving him with little feeling for personal matters.
+
+Eloquence
+: Thornak speaks plainly and prefers actions over words.
+
+Morality
+: Thornak is fiercely loyal to his tribe’s mores but is not above bending rules and acting in his own self-interest if it serves to protect or advance his people.
+
+Voice
+: Despite his fierce appearance and battle-hardened exterior, Thornak has an unexpectedly beautiful singing voice, full of deep, resonant tones. His songs are haunting and powerful, a surprising contrast to his rugged persona.
+
+Berserker Rage
+: Thornak can enter a ferocious battle rage in the heat of combat, enhancing his strength and resilience. In this state, he becomes nearly unstoppable, shrugging off pain and injuries that would incapacitate others. His connection to Eichengrund’s boar wesk strengthens his fury, allowing him to channel the primal spirit of the wild boar, attacking with unrelenting ferocity and fearlessness.
+
+Expert Tracker
+: As a skilled hunter, Thornak is adept at reading the land, following the most obscure trails, and interpreting the signs left behind by prey and enemies. His deep connection with the wilderness gives him an intuitive understanding of the terrain, making him an excellent tracker and scout. Whether stalking animals or tracking down foes, Thornak can navigate through forests, hills, and rugged landscapes with ease.
+
+Bond with the Village Wesk
+: Thornak is spiritually connected to Eichengrund’s boar wesk, granting him heightened senses and increased endurance. This connection manifests in his ability to channel the strength, tenacity, and fearlessness of the boar in battle. His resilience is famous among his people, allowing him to continue fighting even after sustaining significant injuries.
+
+Master of the Spear and Axe
+: Thornak is highly skilled in the use of the spear and axe, both as hunting tools and weapons of war. His precision with these weapons is deadly, and he can use them effectively in close combat as well as ranged attacks. His strength allows him to deliver devastating blows with his axe, while his spear is used both for throwing and for piercing through the armor of his enemies.
+
+Survivalist
+: Raised in the harsh wilderness, Thornak is an expert at surviving in the wild. He knows how to find food, water, and shelter in even the most inhospitable environments. His knowledge of herbal remedies and his ability to craft tools and weapons from nature make him incredibly self-sufficient. Whether alone or leading a hunting party, Thornak is prepared for the hardships of the wild.
+
+Intimidation
+: Thornak’s imposing size, fierce reputation, and savage demeanor make him a naturally intimidating figure. He can often deter enemies or gain an advantage through sheer presence, as his foes fear both his physical power and his unpredictable battle rage. This helps him in battle and in negotiations with outsiders who respect or fear his strength.
+
+Animal Empathy
+: Thornak has a natural bond with the animals of the wild, particularly boars, wolves, and other fierce creatures of the forest. He can calm and communicate with animals, gaining their trust and sometimes even their aid. This ability makes him a superb hunter and can also provide an edge when dealing with hostile or dangerous wildlife.
+
+Resilient Defender
+: Thornak is a ferocious attacker and a stalwart defender of his tribe. When protecting his people, his resolve becomes unbreakable, allowing him to withstand long battles and endure significant punishment. His defensive instincts, combined with his berserker rage, make him a fearsome warrior capable of holding his ground against overwhelming odds.
 
 ## Psyche
 
@@ -514,42 +557,74 @@ Sigulf the Crowcaller
 
 The barrow stories below are adventure possibilities, not established accounts of a shared Varokhi past. Thornak’s visions and the spirits’ claims can be mistaken or deceptive; discovering what is true is part of play. Seeking ancestral power for battle also breaches the ordinary prohibition on questioning the dead about combat or revenge, giving Eichengrund’s Weskár grounds to oppose his quest.
 
-1. **War with the Sons**: The [[affiliation-sonsmuspell|Sons of Eldheim]] plan a larger invasion of Vristwald, and Thornak must lead his people in a desperate defense. Players could assist the villages, raid the Sons' camps, or confront Blazewarden Sirethos in a climactic battle.
+War with the Sons
+: The [[affiliation-sonsmuspell|Sons of Eldheim]] plan a larger invasion of Vristwald, and Thornak must lead his people in a desperate defense. Players could assist the villages, raid the Sons' camps, or confront Blazewarden Sirethos in a climactic battle.
 
-2. **Rivalry of the Crow**: As Sigulf gathers power, the rivalry between him and Thornak could erupt into a full-blown conflict that threatens the unity of the Eichengrund tribe. Players may have to choose sides, either supporting Thornak’s vision of strength through the Boar Spirit or aiding Sigulf in his quest for a new path.
+Rivalry of the Crow
+: As Sigulf gathers power, the rivalry between him and Thornak could erupt into a full-blown conflict that threatens the unity of the Eichengrund tribe. Players may have to choose sides, either supporting Thornak’s vision of strength through the Boar Spirit or aiding Sigulf in his quest for a new path.
 
-3. **The Curse of the Ancients**: Thornak has long believed that the Forgotten Barrows hold the key to unlocking ancient power. However, the spirits of the barrows are not at rest. When Thornak and his companions disturb the tombs, they awaken an ancient curse that binds the living and the dead. The spirits of long-dead Vristwalds now roam the wilderness, attacking villages and turning nature itself against Thornak’s tribe.
+The Curse of the Ancients
+: Thornak has long believed that the Forgotten Barrows hold the key to unlocking ancient power. However, the spirits of the barrows are not at rest. When Thornak and his companions disturb the tombs, they awaken an ancient curse that binds the living and the dead. The spirits of long-dead Vristwalds now roam the wilderness, attacking villages and turning nature itself against Thornak’s tribe.
 
-   To break the curse, Thornak must uncover the truth behind the spirits’ anger—whether these ancestors were betrayed by their own people, or made a pact with a dark force. Players must investigate sacred sites and ancient ruins scattered across Vristwald territory, piecing together a long-forgotten betrayal. Thornak’s success could lead to the spirits blessing him with their power—or cursing him with their eternal wrath.
-   - **Key Challenges**: Confronting malevolent spirits, comparing remembered burial songs and conflicting oral accounts, passing the dangerous traps in the barrows, and negotiating with the spirits to uncover the truth.
-   - **Potential Rewards**: The spirits grant Thornak the **Totemic Rite of the Ancients**, allowing him to call upon the collective strength of long-dead warriors in battle, or bestow him with the **Eyes of the Spirits**, which allow him to see into the spirit world.
+    To break the curse, Thornak must uncover the truth behind the spirits’ anger—whether these ancestors were betrayed by their own people, or made a pact with a dark force. Players must investigate sacred sites and ancient ruins scattered across Vristwald territory, piecing together a long-forgotten betrayal. Thornak’s success could lead to the spirits blessing him with their power—or cursing him with their eternal wrath.
 
-4. **The Blood Pact**: As Thornak ventures deeper into the Forgotten Barrows, spirits calling themselves the **Khern** claim that those buried there made a blood pact with them. They describe themselves as ancient forest rulers, but Thornak has only their word for this history. In their account, blood sealed the pact and bought power over nature at the cost of freedom.
+    Key Challenges
+    : Confronting malevolent spirits, comparing remembered burial songs and conflicting oral accounts, passing the dangerous traps in the barrows, and negotiating with the spirits to uncover the truth.
 
-   Thornak now faces a dilemma: he can restore the ancient blood pact by offering his own blood to the Khern, which will grant him power over the wilderness beyond any other, but at a steep price. The Khern will demand servitude, and Thornak can submit to their will or defy them.
-   - **Key Challenges**: Navigating the barrows, uncovering the nature of the blood pact, resisting or succumbing to the will of the Khern spirits, and making a sacrificial offering in the depths of the barrows.
-   - **Potential Rewards**: If Thornak submits, he gains the **Mark of the Khern**, allowing him to summon powerful nature spirits to fight alongside him. If he refuses, he may uncover the **Rite of Defiance**, which gives him the ability to bend the natural world to his will without being bound by the Khern.
+    Potential Rewards
+    : The spirits grant Thornak the **Totemic Rite of the Ancients**, allowing him to call upon the collective strength of long-dead warriors in battle, or bestow him with the **Eyes of the Spirits**, which allow him to see into the spirit world.
 
-5. **Trial of the First Shaman**: A spirit in the deepest chamber of the Forgotten Barrows claims to be the **First Shaman** and the greatest warrior-shaman in Vristwald history. Its identity and claim to speak for every village are unverified. The spirit promises that whoever proves themselves worthy by completing the **Trial of the First Shaman** can inherit the full power of their village’s wesk, in Thornak’s case Eichengrund’s boar, granting him incredible strength and the ability to control the boars of the forest.
+The Blood Pact
+: As Thornak ventures deeper into the Forgotten Barrows, spirits calling themselves the **Khern** claim that those buried there made a blood pact with them. They describe themselves as ancient forest rulers, but Thornak has only their word for this history. In their account, blood sealed the pact and bought power over nature at the cost of freedom.
 
-   To complete the trial, Thornak must perform ancient rites, battle the spiritual manifestations of the First Shaman, and endure immense physical and spiritual hardship. The spirits of the Boar will test his strength and also his wisdom and compassion.
-   - **Key Challenges**: The trial involves entering the spirit world and battling the Boar Spirit, enduring visions of past and future battles, and making sacrifices to prove his worth. The final test involves a duel with the spectral form of the First Shaman.
-   - **Potential Rewards**: If successful, Thornak will earn the **Boar’s Mantle**, a sacred artifact that grants him increased physical power and the ability to shapeshift into the form of a fierce boar. He also gains the **Blessing of the Wild**, allowing him to commune with boars.
+    Thornak now faces a dilemma: he can restore the ancient blood pact by offering his own blood to the Khern, which will grant him power over the wilderness beyond any other, but at a steep price. The Khern will demand servitude, and Thornak can submit to their will or defy them.
 
-6. **The Sacred Pools of Véthengrund**: The Sacred Pools of [[place-vethengrund|Véthengrund]] are a series of ancient, hidden springs believed to be the dwelling places of water spirits who are said to possess knowledge of the natural world and the secrets of immortality. Legends tell that bathing in the waters of Véthengrund can cleanse the soul and grant visions of the future, as well as empower a warrior with deep wisdom.
+    Key Challenges
+    : Navigating the barrows, uncovering the nature of the blood pact, resisting or succumbing to the will of the Khern spirits, and making a sacrificial offering in the depths of the barrows.
 
-   Thornak could undertake a pilgrimage to these pools to seek greater insight into the spirits. However, the pools are guarded by nature spirits, and gaining access requires performing a complex series of rituals, offerings, and trials to prove one’s worth.
-   - **Key Challenges**: Performing purification rituals, solving riddles posed by water spirits, and overcoming the natural obstacles surrounding the pools. Thornak may need to defeat rivals who also seek to gain the pools' blessings.
-   - **Potential Rewards**: Thornak gains the **Gift of Foresight**, allowing him to see visions of possible future events, or the **Waters of Vitality**, a power that grants him enhanced physical regeneration and the ability to heal others.
+    Potential Rewards
+    : If Thornak submits, he gains the **Mark of the Khern**, allowing him to summon powerful nature spirits to fight alongside him. If he refuses, he may uncover the **Rite of Defiance**, which gives him the ability to bend the natural world to his will without being bound by the Khern.
 
-7. **Spirit Hunt**: Thornak receives a vision from the Boar Spirit, commanding him to undertake a **spirit hunt**, a sacred rite that requires him to track and defeat a powerful, elusive beast deep within the forests of Vristwald. This beast, known as the **Grimstalker**, is a massive creature that carries both the savagery and mystery of the wilderness. Thornak believes that consuming the heart of the Grimstalker can grant him immense power, as well as a deeper connection to the spirits of the forest.
+Trial of the First Shaman
+: A spirit in the deepest chamber of the Forgotten Barrows claims to be the **First Shaman** and the greatest warrior-shaman in Vristwald history. Its identity and claim to speak for every village are unverified. The spirit promises that whoever proves themselves worthy by completing the **Trial of the First Shaman** can inherit the full power of their village’s wesk, in Thornak’s case Eichengrund’s boar, granting him incredible strength and the ability to control the boars of the forest.
 
-   The hunt takes Thornak far from his tribal lands into uncharted forests, where the denizens of the wild rule. The Grimstalker is no ordinary beast—it is as much a spirit as it is flesh, capable of vanishing into the trees and striking without warning. To survive the hunt, Thornak will need to rely on both his physical strength and his connection to the Boar Spirit.
-   - **Key Challenges**: Tracking the Grimstalker through dense, treacherous wilderness, battling rival hunters and territorial beasts, and facing the forest’s trials to prove his worth. The Grimstalker is highly intelligent and will not be easy prey.
-   - **Potential Rewards**: If Thornak succeeds, he gains the **Spiritheart**, which grants him the ability to enter the spirit world, communicating directly with the spirits of the wild. He may also gain the **Beastcaller’s Gift**, which allows him to summon and control powerful beasts during battle.
+    To complete the trial, Thornak must perform ancient rites, battle the spiritual manifestations of the First Shaman, and endure immense physical and spiritual hardship. The spirits of the Boar will test his strength and also his wisdom and compassion.
 
-8. **The Sundered Talisman**: During a ritual, Thornak experiences a vision of the [[lore-skathhrethlss|Sundered Talisman]]—an artifact he interprets as a symbol of unity among the Vristwald villages. His vision shows it breaking in battle and its pieces scattering across the wilderness. The tellings say the elders broke it themselves at Waldburg, the spring after Skathhreth, so that no War Chief could keep a common command, and they disagree about everything after that; Thornak's vision agrees with none of them. He hopes reassembling it can win other villages’ allegiance; neither the vision nor possession of a relic gives him authority over them.
+    Key Challenges
+    : The trial involves entering the spirit world and battling the Boar Spirit, enduring visions of past and future battles, and making sacrifices to prove his worth. The final test involves a duel with the spectral form of the First Shaman.
 
-   However, the pieces of the talisman are jealously guarded by rivals, powerful spirits, and even southern warlords who have stolen these fragments as trophies. Thornak’s quest to reassemble the totem will take him to the farthest reaches of Vristwald territory and beyond, forcing him to confront old enemies and forge new alliances.
-   - **Key Challenges**: Recovering each fragment of the Sundered Talisman will involve defeating powerful guardians, solving ancient riddles, and crossing dangerous territories. Thornak will need to confront his rival, Sigulf the Crowcaller, who holds the final piece of the talisman and seeks to claim its power for himself.
-   - **Potential Rewards**: The restored talisman could grant the **Spirit of Unity**, a supernatural bond through which willing warriors share strength during a common defense. Their villages’ elders still decide whether to appoint Thornak to temporary command, which ends with the response. Any power to invoke another village’s rites depends on that village and its spirit accepting him; lasting allegiance remains his hope, not a promised reward.
+    Potential Rewards
+    : If successful, Thornak will earn the **Boar’s Mantle**, a sacred artifact that grants him increased physical power and the ability to shapeshift into the form of a fierce boar. He also gains the **Blessing of the Wild**, allowing him to commune with boars.
+
+The Sacred Pools of Véthengrund
+: The Sacred Pools of [[place-vethengrund|Véthengrund]] are a series of ancient, hidden springs believed to be the dwelling places of water spirits who are said to possess knowledge of the natural world and the secrets of immortality. Legends tell that bathing in the waters of Véthengrund can cleanse the soul and grant visions of the future, as well as empower a warrior with deep wisdom.
+
+    Thornak could undertake a pilgrimage to these pools to seek greater insight into the spirits. However, the pools are guarded by nature spirits, and gaining access requires performing a complex series of rituals, offerings, and trials to prove one’s worth.
+
+    Key Challenges
+    : Performing purification rituals, solving riddles posed by water spirits, and overcoming the natural obstacles surrounding the pools. Thornak may need to defeat rivals who also seek to gain the pools' blessings.
+
+    Potential Rewards
+    : Thornak gains the **Gift of Foresight**, allowing him to see visions of possible future events, or the **Waters of Vitality**, a power that grants him enhanced physical regeneration and the ability to heal others.
+
+Spirit Hunt
+: Thornak receives a vision from the Boar Spirit, commanding him to undertake a **spirit hunt**, a sacred rite that requires him to track and defeat a powerful, elusive beast deep within the forests of Vristwald. This beast, known as the **Grimstalker**, is a massive creature that carries both the savagery and mystery of the wilderness. Thornak believes that consuming the heart of the Grimstalker can grant him immense power, as well as a deeper connection to the spirits of the forest.
+
+    The hunt takes Thornak far from his tribal lands into uncharted forests, where the denizens of the wild rule. The Grimstalker is no ordinary beast—it is as much a spirit as it is flesh, capable of vanishing into the trees and striking without warning. To survive the hunt, Thornak will need to rely on both his physical strength and his connection to the Boar Spirit.
+
+    Key Challenges
+    : Tracking the Grimstalker through dense, treacherous wilderness, battling rival hunters and territorial beasts, and facing the forest’s trials to prove his worth. The Grimstalker is highly intelligent and will not be easy prey.
+
+    Potential Rewards
+    : If Thornak succeeds, he gains the **Spiritheart**, which grants him the ability to enter the spirit world, communicating directly with the spirits of the wild. He may also gain the **Beastcaller’s Gift**, which allows him to summon and control powerful beasts during battle.
+
+The Sundered Talisman
+: During a ritual, Thornak experiences a vision of the [[lore-skathhrethlss|Sundered Talisman]]—an artifact he interprets as a symbol of unity among the Vristwald villages. His vision shows it breaking in battle and its pieces scattering across the wilderness. The tellings say the elders broke it themselves at Waldburg, the spring after Skathhreth, so that no War Chief could keep a common command, and they disagree about everything after that; Thornak's vision agrees with none of them. He hopes reassembling it can win other villages’ allegiance; neither the vision nor possession of a relic gives him authority over them.
+
+    However, the pieces of the talisman are jealously guarded by rivals, powerful spirits, and even southern warlords who have stolen these fragments as trophies. Thornak’s quest to reassemble the totem will take him to the farthest reaches of Vristwald territory and beyond, forcing him to confront old enemies and forge new alliances.
+
+    Key Challenges
+    : Recovering each fragment of the Sundered Talisman will involve defeating powerful guardians, solving ancient riddles, and crossing dangerous territories. Thornak will need to confront his rival, Sigulf the Crowcaller, who holds the final piece of the talisman and seeks to claim its power for himself.
+
+    Potential Rewards
+    : The restored talisman could grant the **Spirit of Unity**, a supernatural bond through which willing warriors share strength during a common defense. Their villages’ elders still decide whether to appoint Thornak to temporary command, which ends with the response. Any power to invoke another village’s rites depends on that village and its spirit accepting him; lasting allegiance remains his hope, not a promised reward.

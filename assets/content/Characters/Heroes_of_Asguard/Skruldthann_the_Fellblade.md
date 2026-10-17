@@ -402,8 +402,11 @@ Skruldthann is a devastating melee combatant whose cursed fellblade can shatter 
 
 ## Plot Hooks
 
-1. **The Fortress of Bones**—Skruldthann's captured fortress has become a nexus of dark energy, and the land around it is dying. A coalition of forces must assault the fortress and destroy its dark heart before the corruption spreads further.
+The Fortress of Bones
+: Skruldthann's captured fortress has become a nexus of dark energy, and the land around it is dying. A coalition of forces must assault the fortress and destroy its dark heart before the corruption spreads further.
 
-2. **The Living Generals**—Several of Skruldthann's most effective commanders are living warriors who serve him willingly. Turning them against their master could cripple his army from within.
+The Living Generals
+: Several of Skruldthann's most effective commanders are living warriors who serve him willingly. Turning them against their master could cripple his army from within.
 
-3. **The Fell Blade's Origin**—Skruldthann's cursed weapon has a history that predates him. Discovering its origin and weakness could provide the key to defeating him in combat.
+The Fell Blade's Origin
+: Skruldthann's cursed weapon has a history that predates him. Discovering its origin and weakness could provide the key to defeating him in combat.

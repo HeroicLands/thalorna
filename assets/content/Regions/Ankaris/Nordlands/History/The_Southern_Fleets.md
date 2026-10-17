@@ -106,9 +106,20 @@ A Provenzian abbot's agent who knows which howe holds Ménavar's plate has a rea
 
 ## See Also
 
-- [[lore-threewinters|The Three Winters]]—the hunger the fleets carried south
-- [[place-bldfldyharvalen|Blood-field of Yarvalen]] · [[place-yharvalenhenge|Yarvalen Henge]] · [[place-menavarabbey|Ménavar Abbey]]—what the fleets left in Provenzia
-- [[lore-compactsignd|The Signing of the Compact]]—how raiding turned to hire
-- [[lore-bankedfire|The Winter of the Banked Fire]]—the one crew that reached the Vylarian heartland
-- [[lore-empirdclne|The Decline Begins]]—the empire's account of the same years
-- [[lore-domseycount|The Domsey Count]]—the age of the Hunger and the Fleets
+[[lore-threewinters|The Three Winters]]
+: the hunger the fleets carried south
+
+[[place-bldfldyharvalen|Blood-field of Yarvalen]] · [[place-yharvalenhenge|Yarvalen Henge]] · [[place-menavarabbey|Ménavar Abbey]]
+: what the fleets left in Provenzia
+
+[[lore-compactsignd|The Signing of the Compact]]
+: how raiding turned to hire
+
+[[lore-bankedfire|The Winter of the Banked Fire]]
+: the one crew that reached the Vylarian heartland
+
+[[lore-empirdclne|The Decline Begins]]
+: the empire's account of the same years
+
+[[lore-domseycount|The Domsey Count]]
+: the age of the Hunger and the Fleets

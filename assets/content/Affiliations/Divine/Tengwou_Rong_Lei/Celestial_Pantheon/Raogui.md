@@ -111,6 +111,11 @@ The appearance of a lightning strike is understood not as divine judgment but as
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The Celestial Bureaucracy
-- [[lore-clstlpnthn|Celestial Pantheon]]—Other celestial officials
-- [[affiliation-tantsouempr|Empire of Tantsou]]—The mortal realm subject to weather allocation
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: The Celestial Bureaucracy
+
+[[lore-clstlpnthn|Celestial Pantheon]]
+: Other celestial officials
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: The mortal realm subject to weather allocation

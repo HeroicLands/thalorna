@@ -50,4 +50,5 @@ A trader without that protection who tries to compete on the same routes is pric
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the region it belongs to
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the region it belongs to

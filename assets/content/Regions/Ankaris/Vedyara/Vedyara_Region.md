@@ -99,16 +99,41 @@ The [[being-vdyrnrhn|Vedyaran rhinoceros]] keeps to the marshes and tall grass o
 
 ## See Also
 
-- [[place-ankrscntnnt|Ankaris Continent]]—the surrounding continent
-- [[place-graznmntns|The Grazian Mountains]]—the world's highest range and Vedyara's northern wall
-- [[place-sthrnwall|The Southern Wall]]—the face of the range over Vedyara, and the source of the four rivers
-- [[place-marchroad|The march road]]—the land route round the wall's western end
-- [[place-vandhyabhumi|Vandyabhumi]]—the dry interior plateau
-- [[place-bharavavana|Bharavavana]]—the lower Bharava forest
-- [[place-suryasamdra|Surva-samedra]], [[place-meghsamdra|Meghra-samedra]] and [[place-sandhysmdr|Sandva-samedra]]—the three surrounding seas
-- [[lore-vedyariclt|Vedyari]]—the culture of the subcontinent
-- [[lore-mdhvndrcnt|The Madustana Count]]—the year Vedyara keeps
-- [[lore-stndrdmdhv|The Standardization at Madustana]]—the reign the count begins from
-- [[lore-hndrdbnnrs|The Storm of the Hundred Banners]], [[lore-conchdoor|The Conch-Door Incursion]] and [[lore-thirdcmpct|The Third Compact]]—the crisis generation of four centuries ago
-- [[lore-unnumbrdage|The Unnumbered Age]], [[lore-foundingage|The Founding Age]], [[lore-agekingdoms|The Age of Kingdoms]], [[lore-agecopyists|The Age of Copyists]], [[lore-hundredcrwn|The Hundred Crowns]], [[lore-hardgenrtn|The Hard Generation]], [[lore-compactpeace|The Compact Peace]] and [[lore-agepatrons|The Age of Patrons]]—the eras of Vedyari history
-- [[lore-bloodfield|Blood-fields]]—the _shorukshetras_ of Oluratarana, Gajastali and Lantustali, and what they are
+[[place-ankrscntnnt|Ankaris Continent]]
+: the surrounding continent
+
+[[place-graznmntns|The Grazian Mountains]]
+: the world's highest range and Vedyara's northern wall
+
+[[place-sthrnwall|The Southern Wall]]
+: the face of the range over Vedyara, and the source of the four rivers
+
+[[place-marchroad|The march road]]
+: the land route round the wall's western end
+
+[[place-vandhyabhumi|Vandyabhumi]]
+: the dry interior plateau
+
+[[place-bharavavana|Bharavavana]]
+: the lower Bharava forest
+
+[[place-suryasamdra|Surva-samedra]], [[place-meghsamdra|Meghra-samedra]] and [[place-sandhysmdr|Sandva-samedra]]
+: the three surrounding seas
+
+[[lore-vedyariclt|Vedyari]]
+: the culture of the subcontinent
+
+[[lore-mdhvndrcnt|The Madustana Count]]
+: the year Vedyara keeps
+
+[[lore-stndrdmdhv|The Standardization at Madustana]]
+: the reign the count begins from
+
+[[lore-hndrdbnnrs|The Storm of the Hundred Banners]], [[lore-conchdoor|The Conch-Door Incursion]] and [[lore-thirdcmpct|The Third Compact]]
+: the crisis generation of four centuries ago
+
+[[lore-unnumbrdage|The Unnumbered Age]], [[lore-foundingage|The Founding Age]], [[lore-agekingdoms|The Age of Kingdoms]], [[lore-agecopyists|The Age of Copyists]], [[lore-hundredcrwn|The Hundred Crowns]], [[lore-hardgenrtn|The Hard Generation]], [[lore-compactpeace|The Compact Peace]] and [[lore-agepatrons|The Age of Patrons]]
+: the eras of Vedyari history
+
+[[lore-bloodfield|Blood-fields]]
+: the _shorukshetras_ of Oluratarana, Gajastali and Lantustali, and what they are

@@ -434,10 +434,14 @@ The younger masters of Herthema who make figured glass for the merchants' houses
 
 ## Plot Hooks
 
-1. **A New Standard**—The guild bench is to vote on admitting figured glass to the master's examination, which Velmar holds would make masters of men who cannot blow a sound jar. He will lose unless he can bring two members to his side, and he has never in his life canvassed anyone.
+A New Standard
+: The guild bench is to vote on admitting figured glass to the master's examination, which Velmar holds would make masters of men who cannot blow a sound jar. He will lose unless he can bring two members to his side, and he has never in his life canvassed anyone.
 
-2. **The Commission He Doubts**—A merchant house has commissioned a great figured window from the Provenzian-trained master and asked Velmar, as the senior man, to certify the glass. He does not think it will hold a winter.
+The Commission He Doubts
+: A merchant house has commissioned a great figured window from the Provenzian-trained master and asked Velmar, as the senior man, to certify the glass. He does not think it will hold a winter.
 
-3. **The Apprentice Leaves**—Velmar's best apprentice has asked to finish his years under the rival master, to learn the figured work. Velmar can release him and lose the last hands trained his way, or refuse and lose him anyway.
+The Apprentice Leaves
+: Velmar's best apprentice has asked to finish his years under the rival master, to learn the figured work. Velmar can release him and lose the last hands trained his way, or refuse and lose him anyway.
 
-4. **The Ash**—The good beech ash that Velmar's glass depends on has stopped coming down from the hills, because the man who burned it is dead and his sons have sold the wood. Without it he can make the rival's glass or none.
+The Ash
+: The good beech ash that Velmar's glass depends on has stopped coming down from the hills, because the man who burned it is dead and his sons have sold the wood. Without it he can make the rival's glass or none.

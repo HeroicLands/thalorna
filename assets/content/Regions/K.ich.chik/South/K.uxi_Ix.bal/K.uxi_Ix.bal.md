@@ -95,9 +95,20 @@ The priesthood maintains strict control over K'ushi Ish'bal's resources. Large p
 
 ## See Also
 
-- [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]—The wealthier realm to the north
-- [[affiliation-qapteltzakl|Q'aptel Tsa'kul]]—The boundary lands where civilization falters
-- [[place-ixkulchalix|Ishkul Ch'alish]]—The sacred lake and pilgrimage destination
-- [[place-qptlulneok|Q'aptel'ul Ne'ok]]—The frontier garrison city
-- [[affiliation-itzanpnthn|Itsani]]—The priesthood that commands these lands
-- [[place-kuxiixbalrgn|K'ushi Ish'bal Region]]—The land K'ushi Ish'bal holds
+[[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]
+: The wealthier realm to the north
+
+[[affiliation-qapteltzakl|Q'aptel Tsa'kul]]
+: The boundary lands where civilization falters
+
+[[place-ixkulchalix|Ishkul Ch'alish]]
+: The sacred lake and pilgrimage destination
+
+[[place-qptlulneok|Q'aptel'ul Ne'ok]]
+: The frontier garrison city
+
+[[affiliation-itzanpnthn|Itsani]]
+: The priesthood that commands these lands
+
+[[place-kuxiixbalrgn|K'ushi Ish'bal Region]]
+: The land K'ushi Ish'bal holds

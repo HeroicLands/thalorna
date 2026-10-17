@@ -56,5 +56,8 @@ Say a house in the **[[place-amqelger|Amqel-Ger]]** (the Great Quay) begins sell
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The city the circle's traders work in
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-galezkara|Galezkara]]
+: The city the circle's traders work in
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

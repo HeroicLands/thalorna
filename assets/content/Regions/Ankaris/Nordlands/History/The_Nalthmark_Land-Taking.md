@@ -73,8 +73,17 @@ A party on the Nalthmark road can be hired by either side, and the hire will be 
 
 ## See Also
 
-- [[place-hrindstead|Hrindstead]]—the stockade and the grove
-- [[place-nalthmark|Nalthmark]]—the head of the road
-- [[lore-nrdhmhstry|Histories and Legends of Nordheim]]—Nordheim's telling, and the voice on the road
-- [[lore-varokhiclt|Varokhi]]—the people whose clan claims the grove
-- [[lore-domseycount|The Domsey Count]]—the Present Reckoning
+[[place-hrindstead|Hrindstead]]
+: the stockade and the grove
+
+[[place-nalthmark|Nalthmark]]
+: the head of the road
+
+[[lore-nrdhmhstry|Histories and Legends of Nordheim]]
+: Nordheim's telling, and the voice on the road
+
+[[lore-varokhiclt|Varokhi]]
+: the people whose clan claims the grove
+
+[[lore-domseycount|The Domsey Count]]
+: the Present Reckoning

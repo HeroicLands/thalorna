@@ -51,9 +51,20 @@ Khorsád-Vahur, head of the House of [[place-vahurdash|Vahurdash]], wants the kn
 
 ## See Also
 
-- [[place-velkunar|Veshkun]]—the ruin the gate stands in
-- [[place-vahurdash|Vahurdash]]—the settlement that bars it
-- [[lore-velkunsong|The Song of the Lost Town]]—the gate, the oath and the shield
-- [[lore-theshadow|The Shadow]]—what comes in where a rite is owed
-- [[lore-undead|Undead]]—the dead made to walk, by every people's account
-- [[being-gntcmlsp|Giant Camel Spider]]—the hunter in the vaults below
+[[place-velkunar|Veshkun]]
+: the ruin the gate stands in
+
+[[place-vahurdash|Vahurdash]]
+: the settlement that bars it
+
+[[lore-velkunsong|The Song of the Lost Town]]
+: the gate, the oath and the shield
+
+[[lore-theshadow|The Shadow]]
+: what comes in where a rite is owed
+
+[[lore-undead|Undead]]
+: the dead made to walk, by every people's account
+
+[[being-gntcmlsp|Giant Camel Spider]]
+: the hunter in the vaults below

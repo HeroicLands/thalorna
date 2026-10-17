@@ -250,20 +250,29 @@ Everything it touches is left coated in acid that eats armor and gear until it i
 
 ## Attributes
 
-- **Strength:** 6-9 (1d4+5)
+Strength
+: 6-9 (1d4+5)
 
-- **Endurance:** 7-10 (1d4+6)
+Endurance
+: 7-10 (1d4+6)
 
-- **Dexterity:** 13-16 (1d4+12)
+Dexterity
+: 13-16 (1d4+12)
 
-- **Agility:** 11-14 (1d4+10)
+Agility
+: 11-14 (1d4+10)
 
-- **Perception:** 9-12 (1d4+8)
+Perception
+: 9-12 (1d4+8)
 
-- **Aura:** 9-12 (1d4+8)
+Aura
+: 9-12 (1d4+8)
 
-- **Will:** 7-10 (1d4+6)
+Will
+: 7-10 (1d4+6)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 9-12 (1d4+8)
+Creativity
+: 9-12 (1d4+8)

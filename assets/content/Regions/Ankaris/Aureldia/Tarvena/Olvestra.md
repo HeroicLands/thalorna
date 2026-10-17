@@ -27,6 +27,11 @@ The city has its shadows too. **[The Ólvestran Cell]{.name data-type="affiliati
 
 ## See Also
 
-- [[affiliation-ordrsldwrd|Order of the Sealed Word]]—whose mother-house and archives stand here
-- [[affiliation-twinbldrdr|Twinblade Order]]—keepers of the Twin Gate
-- [[affiliation-danvar|Danvar]]—the moneylenders' guild with a great chapterhouse here
+[[affiliation-ordrsldwrd|Order of the Sealed Word]]
+: whose mother-house and archives stand here
+
+[[affiliation-twinbldrdr|Twinblade Order]]
+: keepers of the Twin Gate
+
+[[affiliation-danvar|Danvar]]
+: the moneylenders' guild with a great chapterhouse here

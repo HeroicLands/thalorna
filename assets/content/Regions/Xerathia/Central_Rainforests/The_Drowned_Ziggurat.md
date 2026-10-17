@@ -46,7 +46,14 @@ At the end of the channel, the river-terraces of the Ziggurat rise from the wate
 
 ## See Also
 
-- [[place-cntrlrnfrsts|Central Rainforests]]—the region
-- [[lore-theshadow|The Shadow]]—the corrupting chaos behind the undead
-- [[lore-undead|Undead]]—the dead made animate
-- [[scenario-whlsdrwnzgrt|Hands That Never Stop Turning]]—a scenario set here
+[[place-cntrlrnfrsts|Central Rainforests]]
+: the region
+
+[[lore-theshadow|The Shadow]]
+: the corrupting chaos behind the undead
+
+[[lore-undead|Undead]]
+: the dead made animate
+
+[[scenario-whlsdrwnzgrt|Hands That Never Stop Turning]]
+: a scenario set here

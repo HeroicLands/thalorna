@@ -346,9 +346,20 @@ _The second._ In the third great count of the hold, Verne of Thalgahunáth, appr
 
 ## See Also
 
-- [[lore-khazariclt|Khazari]]—exile, the oath sworn below, and what the record holds against a name
-- [[lore-flkkhazar|Khazár Folk]]—the holds, and the tribes once held in service at their gates
-- [[lore-longnhrtnc|The Long Inheritance]]—what passed from the holds to humans by watching, and the exiles who sold the rest
-- [[lore-vardain|The Vardain]]—the farmers beneath Vorgald, who keep a version of the song
-- [[skill-khazarlng|Khazari Language]]—the name frames, and the vowel that gives a name its reason
-- [[skill-khazarlng#lexicon|Khazari Lexicon]]—the skeletons the song's words and names are built on
+[[lore-khazariclt|Khazari]]
+: exile, the oath sworn below, and what the record holds against a name
+
+[[lore-flkkhazar|Khazár Folk]]
+: the holds, and the tribes once held in service at their gates
+
+[[lore-longnhrtnc|The Long Inheritance]]
+: what passed from the holds to humans by watching, and the exiles who sold the rest
+
+[[lore-vardain|The Vardain]]
+: the farmers beneath Vorgald, who keep a version of the song
+
+[[skill-khazarlng|Khazari Language]]
+: the name frames, and the vowel that gives a name its reason
+
+[[skill-khazarlng#lexicon|Khazari Lexicon]]
+: the skeletons the song's words and names are built on

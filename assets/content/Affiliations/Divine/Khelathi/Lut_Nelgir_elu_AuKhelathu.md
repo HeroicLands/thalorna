@@ -62,5 +62,8 @@ The estates also run workshops, and the stewards run them alongside the granarie
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu]]—The land the estates occupy
-- [[affiliation-genzetgarau|Genzet'Gar-Au]]—The palace court the estates rival
+[[place-aukhelathrgq|Au'Khelathu]]
+: The land the estates occupy
+
+[[affiliation-genzetgarau|Genzet'Gar-Au]]
+: The palace court the estates rival

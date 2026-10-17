@@ -2204,15 +2204,25 @@ Vedyari employs a rich consonantal inventory marked by articulatory precision:
 
 **Stops and Affricates:**
 
-- Unvoiced: p, t, retroflex t, k
-- Voiced: b, d, retroflex d, g
-- Affricates: ch (TS), j (DZH)
-- Aspirated: kh, gh, bh—each stop with a breath after it
+Unvoiced
+: p, t, retroflex t, k
+
+Voiced
+: b, d, retroflex d, g
+
+Affricates
+: ch (TS), j (DZH)
+
+Aspirated
+: kh, gh, bh—each stop with a breath after it
 
 **Fricatives:**
 
-- Unvoiced: s, palatal sh, retroflex sh, h
-- Voiced: z (marginal)
+Unvoiced
+: s, palatal sh, retroflex sh, h
+
+Voiced
+: z (marginal)
 
 **Nasals:** m, n, retroflex n, palatal ny
 
@@ -2240,10 +2250,17 @@ Vedyari distinguishes five cardinal vowels, each occurring in short and long var
 
 Analysis of attested names reveals:
 
-- **Consonant Clusters:** A word opens on a single consonant or on one of a short list of pairs: a consonant before _r_ (_pr_, _tr_, _dr_, _gr_, _vr_, _shr_), a consonant before _y_ or _v_ (_vy_, _shy_, _sv_, _jv_), and the old pair _jn_. Inside a word no more than three consonants stand together, as in _Chendra_ and _Sandva_. The aspirates _kh_, _gh_ and _bh_ are single consonants, so _Bharava_ opens on one
-- **Syllable Structure:** Predominantly CV or CVC; onset-heavy structure favors initial consonants
-- **Final Consonants:** A word closes on a vowel or on _m_, _n_, _r_, _l_ or _s_; the retroflex and palatal nasals close a word in the scholars' texts
-- **Word Length:** Compounds are frequent and protracted; many names exceed three morphemes, yielding words of four to six syllables
+Consonant Clusters
+: A word opens on a single consonant or on one of a short list of pairs: a consonant before _r_ (_pr_, _tr_, _dr_, _gr_, _vr_, _shr_), a consonant before _y_ or _v_ (_vy_, _shy_, _sv_, _jv_), and the old pair _jn_. Inside a word no more than three consonants stand together, as in _Chendra_ and _Sandva_. The aspirates _kh_, _gh_ and _bh_ are single consonants, so _Bharava_ opens on one
+
+Syllable Structure
+: Predominantly CV or CVC; onset-heavy structure favors initial consonants
+
+Final Consonants
+: A word closes on a vowel or on _m_, _n_, _r_, _l_ or _s_; the retroflex and palatal nasals close a word in the scholars' texts
+
+Word Length
+: Compounds are frequent and protracted; many names exceed three morphemes, yielding words of four to six syllables
 
 ## Grammar Notes
 
@@ -2283,9 +2300,14 @@ The standardization of Classical Vedyari occurred roughly 1,200 years before the
 
 Since the Age of Kingdoms, gradual sound changes have created divergence:
 
-- **Lenition of intervocalic stops:** p, t and k soften to f, "th" and a throaty kh between vowels in some dialects (more pronounced in southern city-states)
-- **Nasalization of vowels before nasals:** Incipient; most evident in rapid speech
-- **Merger of dental and retroflex sibilants:** Common in younger speakers
+Lenition of intervocalic stops
+: p, t and k soften to f, "th" and a throaty kh between vowels in some dialects (more pronounced in southern city-states)
+
+Nasalization of vowels before nasals
+: Incipient; most evident in rapid speech
+
+Merger of dental and retroflex sibilants
+: Common in younger speakers
 
 Classical Vedyari remains largely frozen in literature and formal address, but vernacular speech has simplified many inflectional endings and leveled irregular paradigms.
 
@@ -2313,19 +2335,33 @@ Classical Vedyari remains largely frozen in literature and formal address, but v
 
 ## Sample Phrases
 
-1. **Agarana dhulipati, vandikana**—_Reverential greeting; "Honored elder, I show respect"_
-2. **Vedyaram tivayu, tharajisum**—_Formal statement of origin; "I dwell in Vedyaram, by birthright"_
-3. **Bhaktir ushtami dulithara**—_Expression of devotion; "I hold devotion as my highest path"_
-4. **Vastuna karmata vanisa?**—_Mercantile inquiry; "May the transaction bring prosperity?"_
-5. **Rituta samarvana ushti**—_Ritual formula; "The observance is offered to the sacred order"_
+Agarana dhulipati, vandikana
+: _Reverential greeting; "Honored elder, I show respect"_
+
+Vedyaram tivayu, tharajisum
+: _Formal statement of origin; "I dwell in Vedyaram, by birthright"_
+
+Bhaktir ushtami dulithara
+: _Expression of devotion; "I hold devotion as my highest path"_
+
+Vastuna karmata vanisa?
+: _Mercantile inquiry; "May the transaction bring prosperity?"_
+
+Rituta samarvana ushti
+: _Ritual formula; "The observance is offered to the sacred order"_
 
 ## Related Languages
 
 While Vedyari remains an isolate, linguistic diffusion from neighboring regions has created a zone of areal features:
 
-- **Khelathi:** Some scholars note possible loan words in the domains of ritual and royal administration, though the borrowing direction remains disputed
-- **Okharik:** Limited mutual intelligibility; some lexical similarities in trade vocabulary, possibly mediated through intermediary contact
-- **Minor Trade Linguas:** Vedyari speakers have influenced and been influenced by simplified pidgins used in maritime commerce, particularly in the harbors of southern city-states
+Khelathi
+: Some scholars note possible loan words in the domains of ritual and royal administration, though the borrowing direction remains disputed
+
+Okharik
+: Limited mutual intelligibility; some lexical similarities in trade vocabulary, possibly mediated through intermediary contact
+
+Minor Trade Linguas
+: Vedyari speakers have influenced and been influenced by simplified pidgins used in maritime commerce, particularly in the harbors of southern city-states
 
 ## Naming Traditions
 

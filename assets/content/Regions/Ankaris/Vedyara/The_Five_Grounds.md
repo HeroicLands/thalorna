@@ -297,12 +297,29 @@ We keep it.
 
 ## See Also
 
-- [[lore-marupalafl|The Fall of Marupala]]—the spring of 315 AF, the king and the host that did not come home
-- [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]—the host, as the whole south tells it
-- [[lore-bhmplraise|The Raising of Bhumipala]]—the family in the boats, and the forts it built after
-- [[place-lanthusthli|Lantustali]]—the fan of stones, the chain and the whitewashed stones
-- [[place-ludrapur|Ludrapur]]—the wall, the palace hollow and the empty temple
-- [[place-marchroad|The march road]] · [[place-sandhyapur|Sandyapur]]—the road the song runs along, and the spit where it starts
-- [[affiliation-bhumipala|Bhumipala]]—the kingdom whose companies sing it
-- [[lore-bloodfield|Blood-fields]]—what a _shorukshetra_ is, and why the dead of the field are still in the door
-- [[lore-hardgenrtn|The Hard Generation]]—the age the song comes out of
+[[lore-marupalafl|The Fall of Marupala]]
+: the spring of 315 AF, the king and the host that did not come home
+
+[[lore-hndrdbnnrs|The Storm of the Hundred Banners]]
+: the host, as the whole south tells it
+
+[[lore-bhmplraise|The Raising of Bhumipala]]
+: the family in the boats, and the forts it built after
+
+[[place-lanthusthli|Lantustali]]
+: the fan of stones, the chain and the whitewashed stones
+
+[[place-ludrapur|Ludrapur]]
+: the wall, the palace hollow and the empty temple
+
+[[place-marchroad|The march road]] · [[place-sandhyapur|Sandyapur]]
+: the road the song runs along, and the spit where it starts
+
+[[affiliation-bhumipala|Bhumipala]]
+: the kingdom whose companies sing it
+
+[[lore-bloodfield|Blood-fields]]
+: what a _shorukshetra_ is, and why the dead of the field are still in the door
+
+[[lore-hardgenrtn|The Hard Generation]]
+: the age the song comes out of

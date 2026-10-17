@@ -26,6 +26,11 @@ The population is a polyglot mixture of Taruzeli merchants, Dunhari traders, [[a
 
 ## See Also
 
-- [[affiliation-sazumun|Sazumun]]—the city-state and its guild councils
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the confederation
-- [[skill-taruzelilng|Taruzeli]]—the language and naming tradition
+[[affiliation-sazumun|Sazumun]]
+: the city-state and its guild councils
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the confederation
+
+[[skill-taruzelilng|Taruzeli]]
+: the language and naming tradition

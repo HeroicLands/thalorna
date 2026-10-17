@@ -21,7 +21,14 @@ data:
 
 ## See Also
 
-- [[affiliation-selatsltplgn|The Selat of Selat-Pelgun]]—Parent selat
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-pelgun|Faith of Pelgun]]—Patron cult
+[[affiliation-selatsltplgn|The Selat of Selat-Pelgun]]
+: Parent selat
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-pelgun|Faith of Pelgun]]
+: Patron cult

@@ -14,5 +14,8 @@ She is renowned for her victories in the shield-wall and has trained generations
 
 ## See Also
 
-- [[place-vrathavn|Vrathavn]]—the port town the hall stands in
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]]—the kingdom Vrathavn belongs to
+[[place-vrathavn|Vrathavn]]
+: the port town the hall stands in
+
+[[affiliation-kingdmnrgd|Kingdom of Norgaad]]
+: the kingdom Vrathavn belongs to

@@ -22,6 +22,11 @@ The Necropolis is a city in its own right, with its own watch, its own quiet eco
 
 ## See Also
 
-- [[place-orzara|Orzara]]—the city whose dead it keeps
-- [[affiliation-selmoros|Faith of Sélmoros]]—the Aureldian keepers of the dead
-- [[affiliation-nahild|Faith of Nahild]]—the Asguardian keepers, with the Sélmoros clergy
+[[place-orzara|Orzara]]
+: the city whose dead it keeps
+
+[[affiliation-selmoros|Faith of Sélmoros]]
+: the Aureldian keepers of the dead
+
+[[affiliation-nahild|Faith of Nahild]]
+: the Asguardian keepers, with the Sélmoros clergy

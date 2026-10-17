@@ -22,6 +22,11 @@ The pilots answer to the Warden of the Approaches and not to any merchant, and a
 
 ## See Also
 
-- [[place-ilovanu|Ilovanu]]—the port most ships are bound for
-- [[affiliation-kalihara|Kalihara]]—the polity and its Warden of the Approaches
-- [[place-klhrcntnnt|Kalihara]]—the island, its currents and its approaches
+[[place-ilovanu|Ilovanu]]
+: the port most ships are bound for
+
+[[affiliation-kalihara|Kalihara]]
+: the polity and its Warden of the Approaches
+
+[[place-klhrcntnnt|Kalihara]]
+: the island, its currents and its approaches

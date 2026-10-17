@@ -25,6 +25,11 @@ Most of the cases Doja's judges hear in the town are harbor disputes.
 
 ## See Also
 
-- [[affiliation-wojaidmn|Wojai Domain]]—the house and its lord
-- [[place-yujai|Yujai]]—the mountain
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[affiliation-wojaidmn|Wojai Domain]]
+: the house and its lord
+
+[[place-yujai|Yujai]]
+: the mountain
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

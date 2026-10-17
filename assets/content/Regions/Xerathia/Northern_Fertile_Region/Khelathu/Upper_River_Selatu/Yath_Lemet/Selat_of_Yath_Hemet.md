@@ -71,9 +71,20 @@ Yath-Lemet uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the [[affili
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-yathlemet|Yath-Lemet]]—Selat capital
-- [[affiliation-tjelsuk|Faith of Tjelsur]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-yathlemetslt|Yath-Lemet Selat]]—The land the selat holds
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-yathlemet|Yath-Lemet]]
+: Selat capital
+
+[[affiliation-tjelsuk|Faith of Tjelsur]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-yathlemetslt|Yath-Lemet Selat]]
+: The land the selat holds

@@ -311,20 +311,29 @@ If a crocodile loses teeth, replacement teeth move forward to take their placeâ€
 
 ## Attributes
 
-- **Strength:** 18-23 (1d6+17)
+Strength
+: 18-23 (1d6+17)
 
-- **Endurance:** 16-21 (1d6+15)
+Endurance
+: 16-21 (1d6+15)
 
-- **Dexterity:** 8-13 (1d6+7)
+Dexterity
+: 8-13 (1d6+7)
 
-- **Agility:** 8-11 (1d4+7)
+Agility
+: 8-11 (1d4+7)
 
-- **Perception:** 10-15 (1d6+9)
+Perception
+: 10-15 (1d6+9)
 
-- **Aura:** 9-14 (1d6+8)
+Aura
+: 9-14 (1d6+8)
 
-- **Will:** 12-17 (1d6+11)
+Will
+: 12-17 (1d6+11)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

@@ -68,18 +68,47 @@ Off the short coast to the south lie the islands of Taruzel; the [[affiliation-c
 
 ## See Also
 
-- [[place-helionis|Helionis]]—the western uplands and their seven city-states
-- [[place-byzariargn|Bizaria Region]]—the eastern plateau, passes and short coast
-- [[affiliation-byzarianlg|Bizarian League]]—the eastern merchant confederation
-- [[affiliation-ctysttshlns|City-States of Helionis]]—the western city-states as a polity
-- [[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]], [[affiliation-orashion|Órashion]]—the five Bizarian city-states
-- [[lore-helioniteclt|Helionite]], [[lore-byzarianclt|Bizarian]]—the two cultures
-- [[lore-helladcal|The Hellád Calendar]]—the older reckoning of the cities, counted in seven ages
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the region's gods
-- [[place-midhalnrgn|Mídhalión Region]]—the sea-basin Hellád belongs to
-- [[place-vylarianse|Vylarian Sea]]—the sea at the region's feet
-- [[place-vylariargn|Vylaria Region]]—western neighbor and old conqueror
-- [[place-velanthrgn|Velanthia Region]]—northern neighbor and granary
-- [[place-aureldirgn|Aureldia Region]]—western cultural cousin
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—eastern desert frontier
-- [[place-ankrscntnnt|Ankaris Continent]]—the continent
+[[place-helionis|Helionis]]
+: the western uplands and their seven city-states
+
+[[place-byzariargn|Bizaria Region]]
+: the eastern plateau, passes and short coast
+
+[[affiliation-byzarianlg|Bizarian League]]
+: the eastern merchant confederation
+
+[[affiliation-ctysttshlns|City-States of Helionis]]
+: the western city-states as a polity
+
+[[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]], [[affiliation-orashion|Órashion]]
+: the five Bizarian city-states
+
+[[lore-helioniteclt|Helionite]], [[lore-byzarianclt|Bizarian]]
+: the two cultures
+
+[[lore-helladcal|The Hellád Calendar]]
+: the older reckoning of the cities, counted in seven ages
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the region's gods
+
+[[place-midhalnrgn|Mídhalión Region]]
+: the sea-basin Hellád belongs to
+
+[[place-vylarianse|Vylarian Sea]]
+: the sea at the region's feet
+
+[[place-vylariargn|Vylaria Region]]
+: western neighbor and old conqueror
+
+[[place-velanthrgn|Velanthia Region]]
+: northern neighbor and granary
+
+[[place-aureldirgn|Aureldia Region]]
+: western cultural cousin
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: eastern desert frontier
+
+[[place-ankrscntnnt|Ankaris Continent]]
+: the continent

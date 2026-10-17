@@ -8,11 +8,20 @@ tags: [draft, first-gods]
 data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
-- **Kind:** Water-kin, of [[lore-thekindred|the Kindred]]
-- **Seat:** [[place-longstair|The Long Stair]]
-- **Territory:** the seven falls and the gorge beneath them
-- **Posture:** Appeased
-- **Met through:** [[skill-salendasprt|Sálenda of the Long Stair Spirit Power]]
+Kind
+: Water-kin, of [[lore-thekindred|the Kindred]]
+
+Seat
+: [[place-longstair|The Long Stair]]
+
+Territory
+: the seven falls and the gorge beneath them
+
+Posture
+: Appeased
+
+Met through
+: [[skill-salendasprt|Sálenda of the Long Stair Spirit Power]]
 
 Sálenda is a river-mother of the old kind: her power runs the length of the seven falls and the
 gorge beneath them, and stops where the water slows. She is not malicious and she is not kind.

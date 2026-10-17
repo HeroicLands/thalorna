@@ -70,11 +70,20 @@ sohl:
 
 ## Vyalendravada—The Doctrine of Vyalendra
 
-- **Tradition:** **Vyalendravada**—_The Doctrine of Vyalendra_
-- **Deities Venerated:** [[affiliation-vyalendra|Vyalendra]] as supreme; all other Varnakan deities treated as emanations or aspects of the shaping power
-- **Emphasis:** Monistic; scholarly; tied to the building trades and the great academies
-- **Pronunciation:** _VYAH-len-drah-VAH-dah_
-- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
+Tradition:** **Vyalendravada
+: _The Doctrine of Vyalendra_
+
+Deities Venerated
+: [[affiliation-vyalendra|Vyalendra]] as supreme; all other Varnakan deities treated as emanations or aspects of the shaping power
+
+Emphasis
+: Monistic; scholarly; tied to the building trades and the great academies
+
+Pronunciation
+: _VYAH-len-drah-VAH-dah_
+
+Pantheon
+: [[affiliation-varakpnthn|Varnuka Pantheon]]
 
 "Twenty years you laid courses of stone and never asked why the joints were staggered. Here you will be asked to say why, and then to say it to a council." An **Antevosin** ("One who dwells near") of some seasons' standing says this to the newly arrived mason of mature age who has traded the yard for the academy. The new acolyte is typical of the order: many Antevasins come from the building trades and the academies, and they arrive with their hands already trained.
 
@@ -102,8 +111,11 @@ The **[Founder's Day]{.name data-type="lore/gathering"}** falls at the spring eq
 
 ### Ordeals for Favor
 
-- **[The Geometer's Ordeal]{.name data-type="lore/custom"}**—the aspirant designs a small temple from first principles, holds every proportion to the canonical diagram, and defends the design in public before a council of Acharyas.
-- **[The Silent Reading]{.name data-type="lore/custom"}**—a year of philosophical study in the temple library, without speech and without the company of any other living soul but the librarian.
+[The Geometer's Ordeal]{.name data-type="lore/custom"}
+: the aspirant designs a small temple from first principles, holds every proportion to the canonical diagram, and defends the design in public before a council of Acharyas.
+
+[The Silent Reading]{.name data-type="lore/custom"}
+: a year of philosophical study in the temple library, without speech and without the company of any other living soul but the librarian.
 
 ### Orders
 

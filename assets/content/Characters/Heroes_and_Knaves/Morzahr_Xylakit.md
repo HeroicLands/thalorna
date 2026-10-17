@@ -449,19 +449,37 @@ Morzáhr seeks to prove that there is a way to live in the world without comprom
 
 ### Strengths
 
-- **Master Timbercraft**: His knowledge of wood—its properties, grain, applications, and secrets—is encyclopedic. No flaw escapes his eye, and timber he selects will endure centuries.
-- **Physical Strength**: While not trained in combat, his raw strength is strong; he can fell or move timber others require teams to handle.
-- **Seamanship and Navigation**: His youth included work in maritime trade; he understands water currents, vessel construction, and the peculiar demands of seafaring craft.
-- **Wilderness Survival**: In forest or mountain, he is entirely self-sufficient, able to subsist on game, plants, and resources others would overlook.
-- **Absolute Reliability**: Morzáhr keeps his word with a consistency that borders on compulsion. When he agrees to a contract, it will be executed exactly as specified.
+Master Timbercraft
+: His knowledge of wood—its properties, grain, applications, and secrets—is encyclopedic. No flaw escapes his eye, and timber he selects will endure centuries.
+
+Physical Strength
+: While not trained in combat, his raw strength is strong; he can fell or move timber others require teams to handle.
+
+Seamanship and Navigation
+: His youth included work in maritime trade; he understands water currents, vessel construction, and the peculiar demands of seafaring craft.
+
+Wilderness Survival
+: In forest or mountain, he is entirely self-sufficient, able to subsist on game, plants, and resources others would overlook.
+
+Absolute Reliability
+: Morzáhr keeps his word with a consistency that borders on compulsion. When he agrees to a contract, it will be executed exactly as specified.
 
 ### Weaknesses
 
-- **Social Incompetence**: He struggles with social conventions, formal gatherings, and diplomatic situations; his blunt nature often causes offense unintentionally.
-- **Inability to Delegate**: He trusts few enough to work alongside him, and even then with difficulty; this limits his capacity to take on larger projects.
-- **Emotional Rigidity**: He struggles to understand or accommodate emotional needs in others; his response to human distress is often pragmatic to the point of callousness.
-- **Inflexibility in Principle**: While his moral stance is admirable, he refuses work on principle even when circumstances might justify compromise, limiting his income and influence.
-- **Limited Combat Ability**: Despite his strength, he has no training in weapons or warfare; a skilled fighter would overwhelm him despite his physical superiority.
+Social Incompetence
+: He struggles with social conventions, formal gatherings, and diplomatic situations; his blunt nature often causes offense unintentionally.
+
+Inability to Delegate
+: He trusts few enough to work alongside him, and even then with difficulty; this limits his capacity to take on larger projects.
+
+Emotional Rigidity
+: He struggles to understand or accommodate emotional needs in others; his response to human distress is often pragmatic to the point of callousness.
+
+Inflexibility in Principle
+: While his moral stance is admirable, he refuses work on principle even when circumstances might justify compromise, limiting his income and influence.
+
+Limited Combat Ability
+: Despite his strength, he has no training in weapons or warfare; a skilled fighter would overwhelm him despite his physical superiority.
 
 ## Social
 
@@ -494,12 +512,17 @@ The Independent Craftspeople's League
 
 ## Plot Hooks
 
-1. **The Ancient Wood of Akkrath**: A caravan is assembling to journey to the deep forests of Akkrath, where a tree of impossible age and size is said to grow—wood so rare and perfect that a single beam could forge a weapon or construct an artifact of power. Morzáhr is the only master timberwright with the skill to harvest it without destroying its inherent magical properties, but accepting such a commission would require him to venture into unexplored wilderness while working with a party of adventurers who may not share his values. The journey itself becomes a test of whether his principles can survive contact with temptation.
+The Ancient Wood of Akkrath
+: A caravan is assembling to journey to the deep forests of Akkrath, where a tree of impossible age and size is said to grow—wood so rare and perfect that a single beam could forge a weapon or construct an artifact of power. Morzáhr is the only master timberwright with the skill to harvest it without destroying its inherent magical properties, but accepting such a commission would require him to venture into unexplored wilderness while working with a party of adventurers who may not share his values. The journey itself becomes a test of whether his principles can survive contact with temptation.
 
-2. **The Guild's Conspiracy**: Word reaches Morzáhr that Guild Master Frolázira is planning to declare him an enemy of the Timberwrights' Guild and place a bounty on his head, framing him for sabotaging a major building project. The party must either gather evidence to clear his name, expose Frolázira's corruption, or help Morzáhr arrange a dramatic confrontation that will decide the guild's future direction. The resolution could reshape the entire merchant and craftspeople structure of the Bizarian League.
+The Guild's Conspiracy
+: Word reaches Morzáhr that Guild Master Frolázira is planning to declare him an enemy of the Timberwrights' Guild and place a bounty on his head, framing him for sabotaging a major building project. The party must either gather evidence to clear his name, expose Frolázira's corruption, or help Morzáhr arrange a dramatic confrontation that will decide the guild's future direction. The resolution could reshape the entire merchant and craftspeople structure of the Bizarian League.
 
-3. **The Silent Partnership**: A mysterious benefactor offers Morzáhr a contract: harvest and deliver timber for a secret construction project deep in the borderlands, pay beyond anything he has ever received, and absolute confidentiality required. As the party works with him on the project, they gradually discover that they are constructing a sanctuary for refugees fleeing political persecution—and that Morzáhr has become unwittingly part of a larger resistance network. When powerful forces move to destroy the sanctuary, he must choose between his solitary path and active resistance.
+The Silent Partnership
+: A mysterious benefactor offers Morzáhr a contract: harvest and deliver timber for a secret construction project deep in the borderlands, pay beyond anything he has ever received, and absolute confidentiality required. As the party works with him on the project, they gradually discover that they are constructing a sanctuary for refugees fleeing political persecution—and that Morzáhr has become unwittingly part of a larger resistance network. When powerful forces move to destroy the sanctuary, he must choose between his solitary path and active resistance.
 
-4. **The Brother's Redemption**: After nearly two decades of estrangement, one of Morzáhr's brothers—broken by business failure and family scandal—appears at his workshop seeking reconciliation and asking to apprentice under him. The party becomes tangled in family drama as they work to restore both the brother's competence and their fractured relationship, while guild enemies move to exploit this vulnerability and sever the family bonds entirely.
+The Brother's Redemption
+: After nearly two decades of estrangement, one of Morzáhr's brothers—broken by business failure and family scandal—appears at his workshop seeking reconciliation and asking to apprentice under him. The party becomes tangled in family drama as they work to restore both the brother's competence and their fractured relationship, while guild enemies move to exploit this vulnerability and sever the family bonds entirely.
 
-5. **The Forest's Heart**: Morzáhr discovers that the ancient forest he has stewarded is home to a dormant spirit or fey entity whose essence is bound into the oldest trees. The entity is dying because of logging operations at the forest's edge (carried out by his own family), and its death will corrupt the entire woodland. He must rally unlikely allies, including perhaps members of the party, to simultaneously protect the forest from destruction and cure the spirit's affliction—a task requiring both direct action and the kind of diplomacy Morzáhr is least equipped to provide.
+The Forest's Heart
+: Morzáhr discovers that the ancient forest he has stewarded is home to a dormant spirit or fey entity whose essence is bound into the oldest trees. The entity is dying because of logging operations at the forest's edge (carried out by his own family), and its death will corrupt the entire woodland. He must rally unlikely allies, including perhaps members of the party, to simultaneously protect the forest from destruction and cure the spirit's affliction—a task requiring both direct action and the kind of diplomacy Morzáhr is least equipped to provide.

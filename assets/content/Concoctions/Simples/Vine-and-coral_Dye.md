@@ -24,6 +24,11 @@ Cloth dyed with the pair keeps its color through the wet seasons, and the red do
 
 ## See Also
 
-- [[lore-klhrflora|The Flora of Kalihara]]—the ember bloom, whose root gives the red
-- [[affiliation-tharivaan|Thári'vaan]]—the faith whose ring the two colors make
-- [[place-nalurithan|Nalurithan]]—the port whose dyers work the pair
+[[lore-klhrflora|The Flora of Kalihara]]
+: the ember bloom, whose root gives the red
+
+[[affiliation-tharivaan|Thári'vaan]]
+: the faith whose ring the two colors make
+
+[[place-nalurithan|Nalurithan]]
+: the port whose dyers work the pair

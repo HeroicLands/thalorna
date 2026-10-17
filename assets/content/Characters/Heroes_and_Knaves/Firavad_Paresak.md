@@ -450,18 +450,34 @@ Firavad yearns to see a smooth succession of power to the next generation of sha
 
 ### Strengths
 
-- **Master of Ritual Arts**: Firavad's knowledge of binding spells, protective wards, and communion with spirits has no equal within the tribe. His rituals have ended droughts, blessed weapons before battle, and guided souls safely to the afterlife.
-- **Herbal Physician**: He maintains an encyclopedic understanding of every plant, root, and fungus growing in Dunhara's territories. His healing potions cure ailments that baffle ordinary healers.
-- **Spiritual Authority**: His unquestioned status grants him influence over tribal policy and the respect of even the most headstrong warriors.
-- **Perception and Intuition**: His scores in perception reflect his heightened sensitivity to hidden truths—both in the natural world and in people's hearts. Few can lie effectively to Firavad.
-- **Compelling Voice**: Though physically weak, his voice carries authority and carries the weight of spiritual truth. He can calm riots, inspire the doubtful, or terrify the wicked.
+Master of Ritual Arts
+: Firavad's knowledge of binding spells, protective wards, and communion with spirits has no equal within the tribe. His rituals have ended droughts, blessed weapons before battle, and guided souls safely to the afterlife.
+
+Herbal Physician
+: He maintains an encyclopedic understanding of every plant, root, and fungus growing in Dunhara's territories. His healing potions cure ailments that baffle ordinary healers.
+
+Spiritual Authority
+: His unquestioned status grants him influence over tribal policy and the respect of even the most headstrong warriors.
+
+Perception and Intuition
+: His scores in perception reflect his heightened sensitivity to hidden truths—both in the natural world and in people's hearts. Few can lie effectively to Firavad.
+
+Compelling Voice
+: Though physically weak, his voice carries authority and carries the weight of spiritual truth. He can calm riots, inspire the doubtful, or terrify the wicked.
 
 ### Weaknesses
 
-- **Physical Frailty**: Age has diminished his strength dramatically. He tires easily from physical labor, cannot endure harsh conditions, and would fall to any warrior in direct combat.
-- **Mystical Overconfidence**: His long communion with spirits has occasionally led him astray; he has misinterpreted omens or prescribed rituals that failed to produce expected results, though he rarely admits these failures publicly.
-- **Inflexibility**: He adheres to traditional ways with sometimes rigid conviction, dismissing new ideas or techniques from younger shamans as contaminated by foreign influence.
-- **Limited Practical Skills**: Beyond his spiritual and herbal domains, Firavad is largely helpless. He cannot ride well, has never learned to swim, and his combat abilities are negligible.
+Physical Frailty
+: Age has diminished his strength dramatically. He tires easily from physical labor, cannot endure harsh conditions, and would fall to any warrior in direct combat.
+
+Mystical Overconfidence
+: His long communion with spirits has occasionally led him astray; he has misinterpreted omens or prescribed rituals that failed to produce expected results, though he rarely admits these failures publicly.
+
+Inflexibility
+: He adheres to traditional ways with sometimes rigid conviction, dismissing new ideas or techniques from younger shamans as contaminated by foreign influence.
+
+Limited Practical Skills
+: Beyond his spiritual and herbal domains, Firavad is largely helpless. He cannot ride well, has never learned to swim, and his combat abilities are negligible.
 
 ## Social
 
@@ -491,12 +507,17 @@ The Order of Storm-Speakers
 
 ## Plot Hooks
 
-1. **The Darkening Omens**: For three seasons, Firavad's sacred fire has burned with an unnatural color—deep violet veering toward sickly green. His divinations regarding the tribe's future grow increasingly fragmented and contradictory, something unprecedented in his long practice. He desperately needs assistance investigating the spiritual disturbance, perhaps requiring outsiders with skills in uncovering hidden threats. The adventurers might discover that **a powerful curse or planar incursion** is warping the spiritual foundations of the tribal lands, and only those with both shamanic knowledge and martial prowess can seal the breach before the barrier between worlds collapses entirely.
+The Darkening Omens
+: For three seasons, Firavad's sacred fire has burned with an unnatural color—deep violet veering toward sickly green. His divinations regarding the tribe's future grow increasingly fragmented and contradictory, something unprecedented in his long practice. He desperately needs assistance investigating the spiritual disturbance, perhaps requiring outsiders with skills in uncovering hidden threats. The adventurers might discover that **a powerful curse or planar incursion** is warping the spiritual foundations of the tribal lands, and only those with both shamanic knowledge and martial prowess can seal the breach before the barrier between worlds collapses entirely.
 
-2. **The Succession Crisis**: As Firavad's health deteriorates, he wrestles with the inadequacy of his chosen successor **Yuzhvad**. The elder shaman suspects that **Yuzhvad** lacks the spiritual fortitude for the full responsibility, yet naming another successor would create dangerous tensions within the tribe. Firavad might hire adventurers to test **Yuzhvad** through a dangerous spiritual journey or to seek out an ancient artifact rumored to enhance shamanic power. Alternatively, the party might become caught between Firavad's cautious wisdom and **Yuzhvad**'s ambitious hunger for power.
+The Succession Crisis
+: As Firavad's health deteriorates, he wrestles with the inadequacy of his chosen successor **Yuzhvad**. The elder shaman suspects that **Yuzhvad** lacks the spiritual fortitude for the full responsibility, yet naming another successor would create dangerous tensions within the tribe. Firavad might hire adventurers to test **Yuzhvad** through a dangerous spiritual journey or to seek out an ancient artifact rumored to enhance shamanic power. Alternatively, the party might become caught between Firavad's cautious wisdom and **Yuzhvad**'s ambitious hunger for power.
 
-3. **The Theft of the Spirit-Stones**: Sacred stone tokens, each containing the bound essence of an ancestral spirit, vanish from the tribe's sacred circle during a moonless night. Firavad cannot divine their location through ordinary means, suggesting their thief possesses knowledge of anti-shamanic wards. He seeks adventurers to recover the stones before the detached spirits grow angry at their confinement. The investigation might reveal that the thief is neither enemy nor criminal, but a desperate parent attempting to recover their child's soul, which Firavad's own rituals accidentally trapped within a stone during a past ceremony gone wrong.
+The Theft of the Spirit-Stones
+: Sacred stone tokens, each containing the bound essence of an ancestral spirit, vanish from the tribe's sacred circle during a moonless night. Firavad cannot divine their location through ordinary means, suggesting their thief possesses knowledge of anti-shamanic wards. He seeks adventurers to recover the stones before the detached spirits grow angry at their confinement. The investigation might reveal that the thief is neither enemy nor criminal, but a desperate parent attempting to recover their child's soul, which Firavad's own rituals accidentally trapped within a stone during a past ceremony gone wrong.
 
-4. **The Prophecy of the Storm King**: Firavad has received a vivid prophecy of a warrior destined to unite the scattered Dunhara tribes under a banner of thunder and lightning—but the prophecy is ambiguous about whether this "Storm King" will bring salvation or catastrophic war. He believes he has glimpsed fragments of the destined one, possibly among a group of traveling adventurers, and he cautiously tests them to determine their nature. The party might discover they are being manipulated by a well-meaning but flawed prophecy, one that could lead to their transformation into instruments of either terrible destiny or unprecedented peace.
+The Prophecy of the Storm King
+: Firavad has received a vivid prophecy of a warrior destined to unite the scattered Dunhara tribes under a banner of thunder and lightning—but the prophecy is ambiguous about whether this "Storm King" will bring salvation or catastrophic war. He believes he has glimpsed fragments of the destined one, possibly among a group of traveling adventurers, and he cautiously tests them to determine their nature. The party might discover they are being manipulated by a well-meaning but flawed prophecy, one that could lead to their transformation into instruments of either terrible destiny or unprecedented peace.
 
-5. **The Haunting of Widow Shupa**: A young widow comes to Firavad claiming her late husband's spirit refuses to journey to the afterlife, instead haunting their lodge and driving her toward madness with spectral touches and midnight wails. Firavad's initial attempts at a binding ritual fail mysteriously, causing him to believe the spirit may be trapped by forces stronger than shamanic will. He seeks allies brave enough to descend into the spirit realm itself—or to investigate the husband's death more thoroughly—to discover that the man was murdered under false pretenses, and his spirit's restlessness reflects his need for justice rather than a mystical entanglement.
+The Haunting of Widow Shupa
+: A young widow comes to Firavad claiming her late husband's spirit refuses to journey to the afterlife, instead haunting their lodge and driving her toward madness with spectral touches and midnight wails. Firavad's initial attempts at a binding ritual fail mysteriously, causing him to believe the spirit may be trapped by forces stronger than shamanic will. He seeks allies brave enough to descend into the spirit realm itself—or to investigate the husband's death more thoroughly—to discover that the man was murdered under false pretenses, and his spirit's restlessness reflects his need for justice rather than a mystical entanglement.

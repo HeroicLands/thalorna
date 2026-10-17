@@ -27,11 +27,19 @@ Inland of the port the villages and temple estates grow grain on the usual terms
 
 ## Settlements
 
-- [[place-gezazabu|Gezazabu]] (~56,000)—the selat capital and the seat of the Halzi'a.
-- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+[[place-gezazabu|Gezazabu]] (~56,000)
+: the selat capital and the seat of the Halzi'a.
+
+The villages and estate-towns
+: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatgezazab|The Selat of Gezazabu]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-gezazabu|Gezazabu]]—Selat capital
+[[affiliation-selatgezazab|The Selat of Gezazabu]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-gezazabu|Gezazabu]]
+: Selat capital

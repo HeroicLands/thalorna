@@ -142,10 +142,17 @@ The arrangement suits Suvarnageri and irritates everybody else. The Assembly wou
 
 ## Famous Figures
 
-- **Padmashri Kaneka-Hasta**: the present convening priest, of Middle Suvarnageri, in her fifties, and expected to be a major voice at the next **Mahva-Melra**.
-- **Suryamaha Hirenya-Padsa**: senior priest of Upper Suvarnageri, in his seventies, author of the major scholarly commentaries on the Gold Constitution.
-- **The Twenty-Eight**: the heads of the twenty-eight hereditary panning families. They meet quarterly to coordinate the work, settle disputes between families and put one view to the sabhra on any question touching the panning. They are no constitutional body, but they have a recognized voice in any sabhra discussion of the panning, and their joint pronouncements carry weight.
-- [[being-pdmvldhnrvdkrtrj|Padmavali Danurvedakirtiraja]]: the most prominent Suvarnageri-born scholar of the wider Vedyari classical tradition, who teaches at one of the great academies of Chendrapur. Her commentary on the Gold Constitution is a major contribution to Vedyari political philosophy.
+Padmashri Kaneka-Hasta
+: the present convening priest, of Middle Suvarnageri, in her fifties, and expected to be a major voice at the next **Mahva-Melra**.
+
+Suryamaha Hirenya-Padsa
+: senior priest of Upper Suvarnageri, in his seventies, author of the major scholarly commentaries on the Gold Constitution.
+
+The Twenty-Eight
+: the heads of the twenty-eight hereditary panning families. They meet quarterly to coordinate the work, settle disputes between families and put one view to the sabhra on any question touching the panning. They are no constitutional body, but they have a recognized voice in any sabhra discussion of the panning, and their joint pronouncements carry weight.
+
+[[being-pdmvldhnrvdkrtrj|Padmavali Danurvedakirtiraja]]
+: the most prominent Suvarnageri-born scholar of the wider Vedyari classical tradition, who teaches at one of the great academies of Chendrapur. Her commentary on the Gold Constitution is a major contribution to Vedyari political philosophy.
 
 ## Commerce and Currency
 
@@ -157,13 +164,32 @@ A person placed outside the tarona, by transgression or by birth, is excluded fr
 
 ## See Also
 
-- [[lore-hghlndfndn|The Highland Foundations]]—the founding of the three temples, dated
-- [[place-suvarnagirijnpd|Suvarnageri Janapoda]]—the land the janapoda holds
-- [[place-suvarnagiri|Suvarnageri]]—the temple-seat, in its three parts
-- [[place-goldmountain|The Gold Mountain]] and [[place-weighingstn|the weighing-station]]—the gold and the shed it is weighed in
-- [[affiliation-bharyastan|Bharyastan]]—the treaty kingdom
-- [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—parent confederation
-- [[affiliation-chandrapur|Chendrapur]]—major trading partner
-- [[affiliation-varakpnthn|Varnuka Pantheon]]—religious tradition
-- [[place-vedyarargn|Vedyara]]—parent region
-- [[skill-vedyarlng|Vedyari]]—language
+[[lore-hghlndfndn|The Highland Foundations]]
+: the founding of the three temples, dated
+
+[[place-suvarnagirijnpd|Suvarnageri Janapoda]]
+: the land the janapoda holds
+
+[[place-suvarnagiri|Suvarnageri]]
+: the temple-seat, in its three parts
+
+[[place-goldmountain|The Gold Mountain]] and [[place-weighingstn|the weighing-station]]
+: the gold and the shed it is weighed in
+
+[[affiliation-bharyastan|Bharyastan]]
+: the treaty kingdom
+
+[[affiliation-janpdsvdyr|Janapadas of Vedyara]]
+: parent confederation
+
+[[affiliation-chandrapur|Chendrapur]]
+: major trading partner
+
+[[affiliation-varakpnthn|Varnuka Pantheon]]
+: religious tradition
+
+[[place-vedyarargn|Vedyara]]
+: parent region
+
+[[skill-vedyarlng|Vedyari]]
+: language

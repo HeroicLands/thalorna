@@ -371,9 +371,20 @@ Velgrímr took the other oar. They made shore at dark, and the strokes from ther
 
 ## See Also
 
-- [[lore-thrunvalddty|Thrunvald]]—the Thunderer, his hammer and the blessing it gives a ship
-- [[lore-velgrimrdty|Velgrímr]]—the Trickster, his hidden hovs and where he stands at the end
-- [[affiliation-asguardian|Asguardian Pantheon]]—the Ten, and the pairing their halls find strangest
-- [[lore-aldarlok|Aldarlok]]—the telling Velgrímr keeps for last
-- [[lore-midsumar|Midsomar]]—the bonfire night the havens sing it on
-- [[lore-kinhalcrdt|Kin and Hall Credit]]—how a winter of mead is entered against a name
+[[lore-thrunvalddty|Thrunvald]]
+: the Thunderer, his hammer and the blessing it gives a ship
+
+[[lore-velgrimrdty|Velgrímr]]
+: the Trickster, his hidden hovs and where he stands at the end
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the Ten, and the pairing their halls find strangest
+
+[[lore-aldarlok|Aldarlok]]
+: the telling Velgrímr keeps for last
+
+[[lore-midsumar|Midsomar]]
+: the bonfire night the havens sing it on
+
+[[lore-kinhalcrdt|Kin and Hall Credit]]
+: how a winter of mead is entered against a name

@@ -14,6 +14,11 @@ What [[lore-uqaadty|Uqa'a]] crosses by day in light, the god crosses by night un
 
 ## See Also
 
-- [[affiliation-garithnetau|Gar-Ithnetáu]]—the House that holds the domain
-- [[lore-athenuqa|Thelqen'Uqa]]—the day half of the same circuit
-- [[lore-uqaadty|Uqa'a]]—the god who makes the crossing
+[[affiliation-garithnetau|Gar-Ithnetáu]]
+: the House that holds the domain
+
+[[lore-athenuqa|Thelqen'Uqa]]
+: the day half of the same circuit
+
+[[lore-uqaadty|Uqa'a]]
+: the god who makes the crossing

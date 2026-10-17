@@ -52,10 +52,17 @@ sohl: {system: {commonSkills: []}}
 
 The Order of the Sworn Hand, _Eidhond_, the "Oath-Hand," is the fighting order of the [[affiliation-eidgar|Faith of Eidgar]]: a brotherhood and sisterhood of warrior-judges who ride to where a judgment is needed, hear the matter at the local ting, render or enforce the ruling and leave. An outsider remembers the order for one thing, that it will not soften a hard ruling to spare a powerful man.
 
-- Type: fighting religious order
-- Patron: [[affiliation-eidgar|Eidgar]], Asguardian god of law, oath and just war
-- Region: [[place-nrdlndsrgn|the Nordlands]], with a chapter hall in each of the five kingdoms
-- Seat: the mother-hall at [[place-logstead|Logstead]] in [[place-vithgard|Vithgard]], where the **Council of Hands** meets
+Type
+: fighting religious order
+
+Patron
+: [[affiliation-eidgar|Eidgar]], Asguardian god of law, oath and just war
+
+Region
+: [[place-nrdlndsrgn|the Nordlands]], with a chapter hall in each of the five kingdoms
+
+Seat
+: the mother-hall at [[place-logstead|Logstead]] in [[place-vithgard|Vithgard]], where the **Council of Hands** meets
 
 ## Why the Order Rides
 
@@ -71,10 +78,17 @@ Any sworn devotee of Eidgar who can pass the examinations may join. The examinat
 
 The order holds four ranks:
 
-- Put from the Order (_Eidvargr_): cast out at trial before the Council of Hands for softening a ruling, taking a gift from an interested party, or refusing a hard case. Every chapter's hospitality is closed to such a person for good.
-- Hand-Squire (_Eidefnir_): the admitted candidate, whom the knights call a _Hondskjoldr_, a hand's shield. He serves a senior knight for five to ten years before standing for examination, doing the order's work while holding none of its authority to judge.
-- Sworn Hand (_Eidhond_): the working knight. He takes contracts from the order or rides his own circuit by elder permission, convening a ting under the white wand to render and enforce a ruling.
-- Elder Hand (_Eidhofding_): the senior member, called _Eldri Eidhond_ among the knights themselves, recognized for many years of service or for notable rulings. An Elder Hand may take apprentices, strip a knight of rank on the spot pending trial, and sit on the Council of Hands.
+Put from the Order (_Eidvargr_)
+: cast out at trial before the Council of Hands for softening a ruling, taking a gift from an interested party, or refusing a hard case. Every chapter's hospitality is closed to such a person for good.
+
+Hand-Squire (_Eidefnir_)
+: the admitted candidate, whom the knights call a _Hondskjoldr_, a hand's shield. He serves a senior knight for five to ten years before standing for examination, doing the order's work while holding none of its authority to judge.
+
+Sworn Hand (_Eidhond_)
+: the working knight. He takes contracts from the order or rides his own circuit by elder permission, convening a ting under the white wand to render and enforce a ruling.
+
+Elder Hand (_Eidhofding_)
+: the senior member, called _Eldri Eidhond_ among the knights themselves, recognized for many years of service or for notable rulings. An Elder Hand may take apprentices, strip a knight of rank on the spot pending trial, and sit on the Council of Hands.
 
 The order's chair is the Voice of Logstead, _Logstadar Mal_, elected for life from the Council of Hands. There is one Voice, and he acts as first among equals rather than as a commander. The present Voice is **[Knilthvir Logstadar]{.name data-type="being/npc"}**, a man in his late sixties, regarded as the finest pure judicial mind the order has produced in two generations. The Council itself is twelve Elder Hands drawn from the five kingdoms, and it meets quarterly at Logstead.
 

@@ -50,4 +50,5 @@ An apprentice's first practical question is whose term he is serving: the old on
 
 ## See Also
 
-- [[affiliation-garmelnu|Gar'Melnu]]—the guild it works within
+[[affiliation-garmelnu|Gar'Melnu]]
+: the guild it works within

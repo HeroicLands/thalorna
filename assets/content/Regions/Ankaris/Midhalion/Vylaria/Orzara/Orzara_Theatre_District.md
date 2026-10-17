@@ -26,5 +26,8 @@ Its population is correspondingly mixed: players, who occupy an ambiguous social
 
 ## See Also
 
-- [[place-orzara|Orzara]]—the city
-- [[place-rathaunamelvar|Rathauna Melvar]]—the loud quarter of pleasure
+[[place-orzara|Orzara]]
+: the city
+
+[[place-rathaunamelvar|Rathauna Melvar]]
+: the loud quarter of pleasure

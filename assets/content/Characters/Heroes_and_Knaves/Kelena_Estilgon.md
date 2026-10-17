@@ -443,19 +443,37 @@ Kelena operates from multiple, sometimes contradictory motivations. On the surfa
 
 ### Strengths
 
-- **Masterful Charisma**: Kelena possesses a natural magnetism and charm that is hard to resist. She can convince almost anyone to like her, trust her, or provide her assistance through the sheer force of her personality.
-- **Social Intelligence**: Her understanding of social hierarchies, etiquette, and the hidden power structures of noble society is deep and exact. She can move through a tangled political situation with grace and come out of it with every advantage.
-- **Performance Mastery**: Whether engaging in theatrical performance, intimate conversation, or public display, Kelena controls her presentation with artistry. She can make others believe nearly anything about her intentions or feelings.
-- **Linguistic Fluency**: She speaks multiple languages and dialects fluently, allowing her to operate across different social strata and regions.
-- **Eloquence**: Her ability to craft compelling narratives, deliver persuasive arguments, and speak with eloquence has few equals.
+Masterful Charisma
+: Kelena possesses a natural magnetism and charm that is hard to resist. She can convince almost anyone to like her, trust her, or provide her assistance through the sheer force of her personality.
+
+Social Intelligence
+: Her understanding of social hierarchies, etiquette, and the hidden power structures of noble society is deep and exact. She can move through a tangled political situation with grace and come out of it with every advantage.
+
+Performance Mastery
+: Whether engaging in theatrical performance, intimate conversation, or public display, Kelena controls her presentation with artistry. She can make others believe nearly anything about her intentions or feelings.
+
+Linguistic Fluency
+: She speaks multiple languages and dialects fluently, allowing her to operate across different social strata and regions.
+
+Eloquence
+: Her ability to craft compelling narratives, deliver persuasive arguments, and speak with eloquence has few equals.
 
 ### Weaknesses
 
-- **Emotional Distance**: Kelena's constant performance has left her emotionally isolated and incapable of letting her guard down. This makes it difficult for her to form truly deep connections, even when she might desire them.
-- **Lack of Agency**: Having organized her entire life around being what others want, Kelena has relatively little sense of what she actually wants independent of others' desires. Her life is reactive rather than self-directed.
-- **Physical Combat Limitations**: Despite her grace and agility, she lacks significant physical strength or endurance. While she carries a concealed rapier, she is not a dangerous fighter.
-- **Substance Dependence**: Her use of various substances to manage the emotional cost of her life is increasing, and she is moving toward real dependency.
-- **Vulnerability to Blackmail**: Her position depends entirely on maintaining her current reputation and relationships. Someone with knowledge of her personal history or private actions could prove extraordinarily dangerous to her position.
+Emotional Distance
+: Kelena's constant performance has left her emotionally isolated and incapable of letting her guard down. This makes it difficult for her to form truly deep connections, even when she might desire them.
+
+Lack of Agency
+: Having organized her entire life around being what others want, Kelena has relatively little sense of what she actually wants independent of others' desires. Her life is reactive rather than self-directed.
+
+Physical Combat Limitations
+: Despite her grace and agility, she lacks significant physical strength or endurance. While she carries a concealed rapier, she is not a dangerous fighter.
+
+Substance Dependence
+: Her use of various substances to manage the emotional cost of her life is increasing, and she is moving toward real dependency.
+
+Vulnerability to Blackmail
+: Her position depends entirely on maintaining her current reputation and relationships. Someone with knowledge of her personal history or private actions could prove extraordinarily dangerous to her position.
 
 ## Social
 
@@ -482,12 +500,17 @@ The Hidden Hand
 
 ## Plot Hooks
 
-1. **The Blackmail Plot**: Someone begins sending Kelena letters containing detailed knowledge of her past—specific incidents she believed forgotten or hidden, details about her family she has never shared with anyone, evidence of transactions she conducted under assumed names. The sender demands she use her influence with various patrons to bring about particular political or commercial ends. Kelena hires the party to discover who holds this leverage over her, but her investigation must be conducted with absolute discretion, as exposure of the blackmail itself could damage her carefully constructed reputation. The party discovers the blackmailer is someone from her theatrical past who has dedicated years to collecting information, believing Kelena betrayed them years ago.
+The Blackmail Plot
+: Someone begins sending Kelena letters containing detailed knowledge of her past—specific incidents she believed forgotten or hidden, details about her family she has never shared with anyone, evidence of transactions she conducted under assumed names. The sender demands she use her influence with various patrons to bring about particular political or commercial ends. Kelena hires the party to discover who holds this leverage over her, but her investigation must be conducted with absolute discretion, as exposure of the blackmail itself could damage her carefully constructed reputation. The party discovers the blackmailer is someone from her theatrical past who has dedicated years to collecting information, believing Kelena betrayed them years ago.
 
-2. **The Absent Father**: Kelena receives an unexpected message from someone claiming to be her father, who has apparently been watching her life from a distance and now wishes to make contact. She is deeply conflicted about meeting him—desperate for answers but terrified that this person may be manipulative, dangerous, or unworthy of her imagined ideal. She hires the party to investigate him and verify his identity before committing to contact, but the investigation reveals that this person is connected to the Hidden Hand and likely intends to manipulate her relationship with her father as a means of gaining influence over her.
+The Absent Father
+: Kelena receives an unexpected message from someone claiming to be her father, who has apparently been watching her life from a distance and now wishes to make contact. She is deeply conflicted about meeting him—desperate for answers but terrified that this person may be manipulative, dangerous, or unworthy of her imagined ideal. She hires the party to investigate him and verify his identity before committing to contact, but the investigation reveals that this person is connected to the Hidden Hand and likely intends to manipulate her relationship with her father as a means of gaining influence over her.
 
-3. **The Performance That Went Wrong**: During an elaborate private performance arranged for a foreign dignitary of great importance, something goes dramatically wrong—perhaps the dignitary dies under suspicious circumstances, perhaps evidence emerges of an affair with consequences, perhaps Kelena witnesses something she was not meant to see. She must get through the aftermath without revealing what actually occurred, protecting herself while making sure the powerful people involved do not blame her for the catastrophe. The party must help her manage a delicate political situation where her reputation and possibly her life are at risk.
+The Performance That Went Wrong
+: During an elaborate private performance arranged for a foreign dignitary of great importance, something goes dramatically wrong—perhaps the dignitary dies under suspicious circumstances, perhaps evidence emerges of an affair with consequences, perhaps Kelena witnesses something she was not meant to see. She must get through the aftermath without revealing what actually occurred, protecting herself while making sure the powerful people involved do not blame her for the catastrophe. The party must help her manage a delicate political situation where her reputation and possibly her life are at risk.
 
-4. **The True Name**: Kelena comes into possession of evidence that her name is not actually her name—that she was born with a different identity, possibly noble lineage, and that her current existence may be based on false foundational assumptions. This discovery sends her into emotional crisis and raises the question: if she is not Kelena Estilgon, then who is she? The party must help her come to terms with the revelation and its practical consequences while dark forces—possibly including family members from her previous life—attempt to use this information to manipulate or control her.
+The True Name
+: Kelena comes into possession of evidence that her name is not actually her name—that she was born with a different identity, possibly noble lineage, and that her current existence may be based on false foundational assumptions. This discovery sends her into emotional crisis and raises the question: if she is not Kelena Estilgon, then who is she? The party must help her come to terms with the revelation and its practical consequences while dark forces—possibly including family members from her previous life—attempt to use this information to manipulate or control her.
 
-5. **The Rival's Revelation**: Margot Thesselier, her longtime rival, approaches Kelena with information about a conspiracy among several powerful patrons to systematically dismantle her position and reputation. Margot offers to share the details in exchange for Kelena helping her against a shared enemy. Kelena has to weigh whether to trust this person she has long viewed as an enemy, knowing that even if the information is true, Margot likely has ulterior motives. The situation becomes further complicated when the party investigates and discovers that Margot's information is partly true but deliberately incomplete—designed to manipulate Kelena into taking actions that would serve Margot's own ends while appearing to serve Kelena's interests.
+The Rival's Revelation
+: Margot Thesselier, her longtime rival, approaches Kelena with information about a conspiracy among several powerful patrons to systematically dismantle her position and reputation. Margot offers to share the details in exchange for Kelena helping her against a shared enemy. Kelena has to weigh whether to trust this person she has long viewed as an enemy, knowing that even if the information is true, Margot likely has ulterior motives. The situation becomes further complicated when the party investigates and discovers that Margot's information is partly true but deliberately incomplete—designed to manipulate Kelena into taking actions that would serve Margot's own ends while appearing to serve Kelena's interests.

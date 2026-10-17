@@ -290,20 +290,29 @@ Lions fight far more effectively alongside other pride members, and they can exe
 
 ## Attributes
 
-- **Strength:** 10-15 (1d6+9)
+Strength
+: 10-15 (1d6+9)
 
-- **Endurance:** 11-16 (1d6+10)
+Endurance
+: 11-16 (1d6+10)
 
-- **Agility:** 16-21 (1d6+15)
+Agility
+: 16-21 (1d6+15)
 
-- **Perception:** 14-19 (1d6+13)
+Perception
+: 14-19 (1d6+13)
 
-- **Scent:** 3-6 (1d4+2)
+Scent
+: 3-6 (1d4+2)
 
-- **Aura:** 4-7 (1d4+3)
+Aura
+: 4-7 (1d4+3)
 
-- **Will:** 14-19 (1d6+13)
+Will
+: 14-19 (1d6+13)
 
-- **Reasoning:** 4-7 (1d4+3)
+Reasoning
+: 4-7 (1d4+3)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

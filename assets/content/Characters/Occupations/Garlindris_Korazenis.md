@@ -436,12 +436,17 @@ Younger, more modern heralds who see him as outdated.
 
 ## Plot Hooks
 
-1. **The Herald's Dilemma**—Garlindris faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+The Herald's Dilemma
+: Garlindris faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 
-2. **Old Grudges**—Younger, more modern heralds who see him as outdated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: Younger, more modern heralds who see him as outdated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Garlindris's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+Echoes of the Past
+: Something from Garlindris's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Garlindris depends upon. He must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Vylaria threaten to upend the social order that Garlindris depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Garlindris the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Garlindris the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

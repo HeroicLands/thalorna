@@ -79,9 +79,14 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 The [Council of Korinthea]{.name data-type="affiliation/governmental"} consults the Temple of [[lore-ardavondty|Árdavon]] on matters of law and civic honor before it acts. The council is the visible government of Korinthea, a city-state of about 410,000 people, held by an oligarchy of its wealthy patron families, and the temple's judges sit beside the families who rule it, in the service of a god of order and justice. [[place-korinthea2|Korinthea]], with 40,000 of the people, is the seat.
 
-- **Government:** oligarchy of wealthy patron families, working through a council
-- **Patron deity:** [[lore-ardavondty|Árdavon]], god of order and justice
-- **High Judge of the Temple:** [[being-dumarsrfrs|Dumares Rafiros]]
+Government
+: oligarchy of wealthy patron families, working through a council
+
+Patron deity
+: [[lore-ardavondty|Árdavon]], god of order and justice
+
+High Judge of the Temple
+: [[being-dumarsrfrs|Dumares Rafiros]]
 
 ## Who Decides
 
@@ -95,9 +100,20 @@ Standing in Korinthea is the common Helionite ladder, from the citizen by descen
 
 ## See Also
 
-- [[affiliation-ctysttshlns|City-States of Helionis]]—the seven cities and how they are governed
-- [[place-helionis|Helionis]]—the region
-- [[place-korinthea2|Korinthea]]—the city itself
-- [[being-dumarsrfrs|Dumares Rafiros]]—High Judge of the Temple of Árdavon
-- [[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalidria]]—the three leading city-states
-- [[affiliation-theradon|Theradon]], [[affiliation-athenikos|Athenikos]], [[affiliation-kostaros2|Kostaros]]—the rest of the seven
+[[affiliation-ctysttshlns|City-States of Helionis]]
+: the seven cities and how they are governed
+
+[[place-helionis|Helionis]]
+: the region
+
+[[place-korinthea2|Korinthea]]
+: the city itself
+
+[[being-dumarsrfrs|Dumares Rafiros]]
+: High Judge of the Temple of Árdavon
+
+[[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalidria]]
+: the three leading city-states
+
+[[affiliation-theradon|Theradon]], [[affiliation-athenikos|Athenikos]], [[affiliation-kostaros2|Kostaros]]
+: the rest of the seven

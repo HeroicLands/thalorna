@@ -342,20 +342,29 @@ A large, sustained fire harms it, and fire magic does it real damage.
 
 ## Attributes
 
-- **Strength:** 46-51 (1d6+45)
+Strength
+: 46-51 (1d6+45)
 
-- **Endurance:** 15-18 (1d4+14)
+Endurance
+: 15-18 (1d4+14)
 
-- **Dexterity:** 7-10 (1d4+6)
+Dexterity
+: 7-10 (1d4+6)
 
-- **Agility:** 7-10 (1d4+6)
+Agility
+: 7-10 (1d4+6)
 
-- **Perception:** 7-10 (1d4+6)
+Perception
+: 7-10 (1d4+6)
 
-- **Aura:** 7-10 (1d4+6)
+Aura
+: 7-10 (1d4+6)
 
-- **Will:** 13-16 (1d4+12)
+Will
+: 13-16 (1d4+12)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

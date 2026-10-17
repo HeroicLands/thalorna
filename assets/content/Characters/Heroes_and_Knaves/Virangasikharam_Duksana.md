@@ -447,17 +447,31 @@ Virangashikharam is driven by a fundamental belief that leadership carries with 
 
 ### Strengths
 
-- **Agricultural Mastery**: Virangashikharam possesses both theoretical knowledge and practical experience in optimizing crop production, soil management, and sustainable land stewardship. His innovations have measurably increased yields across his territories.
-- **Clear-Eyed Pragmatism**: Despite his idealistic leanings, he is capable of making difficult decisions when necessity demands, and he does not allow dreams of the perfect to prevent achievement of the good.
-- **Natural Authority**: Those under his stewardship—from lowest laborer to visiting Kulinas—consistently describe him as someone worth following, even when his decisions prove unpopular. This stems from his visible commitment to his stated principles.
-- **Mathematical Intellect**: His mathematical mind allows him to see patterns and predict outcomes in economic and political matters, making him a shrewd administrator and negotiator.
+Agricultural Mastery
+: Virangashikharam possesses both theoretical knowledge and practical experience in optimizing crop production, soil management, and sustainable land stewardship. His innovations have measurably increased yields across his territories.
+
+Clear-Eyed Pragmatism
+: Despite his idealistic leanings, he is capable of making difficult decisions when necessity demands, and he does not allow dreams of the perfect to prevent achievement of the good.
+
+Natural Authority
+: Those under his stewardship—from lowest laborer to visiting Kulinas—consistently describe him as someone worth following, even when his decisions prove unpopular. This stems from his visible commitment to his stated principles.
+
+Mathematical Intellect
+: His mathematical mind allows him to see patterns and predict outcomes in economic and political matters, making him a shrewd administrator and negotiator.
 
 ### Weaknesses
 
-- **Naïveté Regarding Power**: Virangashikharam sometimes underestimates the depth of entrenched interests working against his reforms and does not always appreciate how threatened other great houses feel by his success.
-- **Difficulty with Political Theater**: He struggles with the performative aspects of life among the great houses—the posturing, the flattery, the careful cultivation of advantages through social maneuvering. His straightforwardness can read as arrogance or awkwardness in court settings.
-- **Idealistic Overreach**: He can be blinded by his own vision of what is possible, sometimes pushing too hard or too fast for changes that might have succeeded with more gradual implementation and better preparation of public opinion.
-- **Vulnerability to Betrayal**: His assumption that others share his desire for mutual prosperity leaves him vulnerable to those who merely feign alignment while pursuing purely selfish goals.
+Naïveté Regarding Power
+: Virangashikharam sometimes underestimates the depth of entrenched interests working against his reforms and does not always appreciate how threatened other great houses feel by his success.
+
+Difficulty with Political Theater
+: He struggles with the performative aspects of life among the great houses—the posturing, the flattery, the careful cultivation of advantages through social maneuvering. His straightforwardness can read as arrogance or awkwardness in court settings.
+
+Idealistic Overreach
+: He can be blinded by his own vision of what is possible, sometimes pushing too hard or too fast for changes that might have succeeded with more gradual implementation and better preparation of public opinion.
+
+Vulnerability to Betrayal
+: His assumption that others share his desire for mutual prosperity leaves him vulnerable to those who merely feign alignment while pursuing purely selfish goals.
 
 ## Social
 
@@ -493,12 +507,17 @@ The Council of Vedyaran Rulers
 
 ## Plot Hooks
 
-1. **The Famine Gambit**: A severe drought strikes the region, threatening catastrophic crop failure not only for the Dukshana holding but for all surrounding territories. While other Kulinas scramble to hoard supplies and raise prices, Virangashikharam's accumulated grain reserves allow him to support both his own people and neighboring settlements. However, a rival Kulena interprets this generosity as weakness and political maneuvering, seeing an opportunity to consolidate power. The adventurers become embroiled in a complex situation where humanitarian action creates dangerous political vulnerabilities, and they must find ways to maintain Virangashikharam's ability to help while protecting him from those who would exploit his compassion.
+The Famine Gambit
+: A severe drought strikes the region, threatening catastrophic crop failure not only for the Dukshana holding but for all surrounding territories. While other Kulinas scramble to hoard supplies and raise prices, Virangashikharam's accumulated grain reserves allow him to support both his own people and neighboring settlements. However, a rival Kulena interprets this generosity as weakness and political maneuvering, seeing an opportunity to consolidate power. The adventurers become embroiled in a complex situation where humanitarian action creates dangerous political vulnerabilities, and they must find ways to maintain Virangashikharam's ability to help while protecting him from those who would exploit his compassion.
 
-2. **The Poisoned Advancement**: As word of Dukshana's successful methods spreads, other great houses request that Virangashikharam send advisors or establish similar systems on their lands. He accepts several such requests, attempting to expand his philosophy's reach. However, adventurers discover that one such "implementation" is actually a cover for theft, espionage, or sabotage. They must determine whether this is merely the misdeeds of corrupt individuals or whether someone is systematically using Virangashikharam's good reputation as a cover for larger conspiracies. The resolution requires them to protect Virangashikharam's name while addressing criminal activity.
+The Poisoned Advancement
+: As word of Dukshana's successful methods spreads, other great houses request that Virangashikharam send advisors or establish similar systems on their lands. He accepts several such requests, attempting to expand his philosophy's reach. However, adventurers discover that one such "implementation" is actually a cover for theft, espionage, or sabotage. They must determine whether this is merely the misdeeds of corrupt individuals or whether someone is systematically using Virangashikharam's good reputation as a cover for larger conspiracies. The resolution requires them to protect Virangashikharam's name while addressing criminal activity.
 
-3. **The Harvest Corruption**: A seemingly perfect harvest year arrives, with yields significantly exceeding predictions. However, as grain is distributed, consumers begin experiencing subtle illnesses. Investigation reveals that the grain carries a contamination—either accidental or deliberate—that causes slow sickness. Virangashikharam is devastated and concerned for the welfare of those he has served, but others question whether he has become careless or whether this is an act of sabotage. The party must trace the contamination source while Virangashikharam's reputation hangs in the balance.
+The Harvest Corruption
+: A seemingly perfect harvest year arrives, with yields significantly exceeding predictions. However, as grain is distributed, consumers begin experiencing subtle illnesses. Investigation reveals that the grain carries a contamination—either accidental or deliberate—that causes slow sickness. Virangashikharam is devastated and concerned for the welfare of those he has served, but others question whether he has become careless or whether this is an act of sabotage. The party must trace the contamination source while Virangashikharam's reputation hangs in the balance.
 
-4. **The Idealist's Dilemma**: Virangashikharam is approached by a group claiming to represent an oppressed people in a distant territory, requesting his help to establish similar agricultural and economic systems in their homeland. However, investigation reveals that the group may not be legitimate representatives and that accepting their request could embroil him in a regional conflict or civil war. Virangashikharam's desire to spread his humanitarian vision must be balanced against the consequences of becoming involved in matters of violence and political upheaval.
+The Idealist's Dilemma
+: Virangashikharam is approached by a group claiming to represent an oppressed people in a distant territory, requesting his help to establish similar agricultural and economic systems in their homeland. However, investigation reveals that the group may not be legitimate representatives and that accepting their request could embroil him in a regional conflict or civil war. Virangashikharam's desire to spread his humanitarian vision must be balanced against the consequences of becoming involved in matters of violence and political upheaval.
 
-5. **The Sabotage of Hope**: A series of escalating incidents undermines the success of the Dukshana holding—irrigation systems fail, stored grain spoils, livestock sicken, and key advisors suffer accidents. Each incident is individually explicable as misfortune, but the pattern suggests deliberate sabotage. Virangashikharam struggles to maintain his commitment to fair dealing and peaceful resolution while his entire life's work is systematically destroyed. The party must uncover who is perpetrating the destruction and why, all while helping Virangashikharam decide whether justice requires abandoning his philosophical commitment to non-violence.
+The Sabotage of Hope
+: A series of escalating incidents undermines the success of the Dukshana holding—irrigation systems fail, stored grain spoils, livestock sicken, and key advisors suffer accidents. Each incident is individually explicable as misfortune, but the pattern suggests deliberate sabotage. Virangashikharam struggles to maintain his commitment to fair dealing and peaceful resolution while his entire life's work is systematically destroyed. The party must uncover who is perpetrating the destruction and why, all while helping Virangashikharam decide whether justice requires abandoning his philosophical commitment to non-violence.

@@ -36,8 +36,17 @@ Sand wurms are seen in the last dunes, and a caravan arriving after dark does we
 
 ## See Also
 
-- [[place-idwkrrgn|Idvaqor]]—the eastern stone desert
-- [[place-hskrrgn|Khoshiqor]]—the central sands
-- [[place-yemokwell|Yemok]]—the western hand-off well
-- [[place-qisomrktcmp|Qiiso]]—the market-camp at the road's heart
-- [[lore-celestialroad|The Celestial Road]]—the caravan road to Tantsou
+[[place-idwkrrgn|Idvaqor]]
+: the eastern stone desert
+
+[[place-hskrrgn|Khoshiqor]]
+: the central sands
+
+[[place-yemokwell|Yemok]]
+: the western hand-off well
+
+[[place-qisomrktcmp|Qiiso]]
+: the market-camp at the road's heart
+
+[[lore-celestialroad|The Celestial Road]]
+: the caravan road to Tantsou

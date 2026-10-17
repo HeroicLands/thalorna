@@ -211,7 +211,14 @@ Downriver, at the landings, they tell it that the mistress took the sledge and t
 
 ## See Also
 
-- [[lore-varokhiclt|Varokhi]]—feud-cords, the witnessed payment, and the household mistress's authority
-- [[lore-othmundrnk|Othmund]]—the standing of the household's southern woman, and how it ends
-- [[place-skathwald|Skathwald]]—the reach the telling belongs to
-- [[place-vrystwldrvrs|Vristwald Rivers]]—the rivers that are roads in deep winter
+[[lore-varokhiclt|Varokhi]]
+: feud-cords, the witnessed payment, and the household mistress's authority
+
+[[lore-othmundrnk|Othmund]]
+: the standing of the household's southern woman, and how it ends
+
+[[place-skathwald|Skathwald]]
+: the reach the telling belongs to
+
+[[place-vrystwldrvrs|Vristwald Rivers]]
+: the rivers that are roads in deep winter

@@ -247,20 +247,29 @@ Rock pythons are dangerous but predictable — they do not hunt opportunisticall
 
 ## Attributes
 
-- **Strength:** 14-19 (1d6+13)
+Strength
+: 14-19 (1d6+13)
 
-- **Endurance:** 12-17 (1d6+11)
+Endurance
+: 12-17 (1d6+11)
 
-- **Dexterity:** 10-15 (1d6+9)
+Dexterity
+: 10-15 (1d6+9)
 
-- **Agility:** 9-14 (1d6+8)
+Agility
+: 9-14 (1d6+8)
 
-- **Perception:** 11-16 (1d6+10)
+Perception
+: 11-16 (1d6+10)
 
-- **Aura:** 6-9 (1d4+5)
+Aura
+: 6-9 (1d4+5)
 
-- **Will:** 9-14 (1d6+8)
+Will
+: 9-14 (1d6+8)
 
-- **Reasoning:** 4-7 (1d4+3)
+Reasoning
+: 4-7 (1d4+3)
 
-- **Creativity:** 3-6 (1d4+2)
+Creativity
+: 3-6 (1d4+2)

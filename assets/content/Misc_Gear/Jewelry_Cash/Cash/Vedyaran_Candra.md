@@ -17,5 +17,8 @@ Only the Moon House strikes it, and it carries its silver: abroad a chendra is a
 
 ## See Also
 
-- [[lore-vdyrnbnkng|Vedyaran Banking]]—the currency's place in the Collective's system
-- [[affiliation-chandrapur|Chendrapur]]—the Moon House's seat and the coin's mint
+[[lore-vdyrnbnkng|Vedyaran Banking]]
+: the currency's place in the Collective's system
+
+[[affiliation-chandrapur|Chendrapur]]
+: the Moon House's seat and the coin's mint

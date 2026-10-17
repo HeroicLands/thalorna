@@ -42,7 +42,14 @@ The Nordmen do not think the Shattered Peaks are cursed. They think they are hon
 
 ## See Also
 
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]]—the kingdom that holds the massif
-- [[place-tvarnmark|Tvarnmark]]—the trade town at the foot of the pass road
-- [[place-nrdlndsrgn|Nordlands Region]]—parent region
-- [[place-ankrscntnnt|Ankaris Continent]]—parent continent
+[[affiliation-kingdmnrgd|Kingdom of Norgaad]]
+: the kingdom that holds the massif
+
+[[place-tvarnmark|Tvarnmark]]
+: the trade town at the foot of the pass road
+
+[[place-nrdlndsrgn|Nordlands Region]]
+: parent region
+
+[[place-ankrscntnnt|Ankaris Continent]]
+: parent continent

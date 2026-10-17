@@ -139,8 +139,17 @@ At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between riv
 
 ## See Also
 
-- [[place-vzhmvd|Vazhmavad]]—the weighing-place
-- [[lore-theshadow|The Shadow]]—the chaos behind the hollow
-- [[lore-dunhariclt|Dunhari]]—the poets, salt and what the Old Promise costs
-- [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]—the Old Promise and its two refusals
-- [[place-oasistvrzvd|Oasis of Tevrazavad]]—where Torvash hears other sheikhs' quarrels
+[[place-vzhmvd|Vazhmavad]]
+: the weighing-place
+
+[[lore-theshadow|The Shadow]]
+: the chaos behind the hollow
+
+[[lore-dunhariclt|Dunhari]]
+: the poets, salt and what the Old Promise costs
+
+[[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]
+: the Old Promise and its two refusals
+
+[[place-oasistvrzvd|Oasis of Tevrazavad]]
+: where Torvash hears other sheikhs' quarrels

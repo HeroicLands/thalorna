@@ -261,11 +261,26 @@ The five names came from [[place-iqu|Iku]], [[place-gau|Gau]], [[place-tjegu|Tje
 
 ## See Also
 
-- [[lore-thaulgau|The Coming of the Tha'Ulgau]]—the battle the stone was cut on
-- [[place-zelhalzi|Zel-Halzi]]—the Unmeasured Field
-- [[lore-hillhouse|The Closing of the Hill House]]—the end of the house that raised the stone
-- [[lore-garauu|Gar-Auu]]—the king-list and its formulas
-- [[place-lenennezut|Lenen-Nezut]]—the town whose scribes cut it
-- [[lore-khelathiclt|Khelathi]]—the entry, the Reading and what the unentered lack
-- [[lore-bloodfield|Blood-fields]]—what a _zelqezat_ is
-- [[lore-rethetkhlyu|The Instruction of Khelayu]]—a Keeper who entered the closing of the house that raised the stone
+[[lore-thaulgau|The Coming of the Tha'Ulgau]]
+: the battle the stone was cut on
+
+[[place-zelhalzi|Zel-Halzi]]
+: the Unmeasured Field
+
+[[lore-hillhouse|The Closing of the Hill House]]
+: the end of the house that raised the stone
+
+[[lore-garauu|Gar-Auu]]
+: the king-list and its formulas
+
+[[place-lenennezut|Lenen-Nezut]]
+: the town whose scribes cut it
+
+[[lore-khelathiclt|Khelathi]]
+: the entry, the Reading and what the unentered lack
+
+[[lore-bloodfield|Blood-fields]]
+: what a _zelqezat_ is
+
+[[lore-rethetkhlyu|The Instruction of Khelayu]]
+: a Keeper who entered the closing of the house that raised the stone

@@ -42,9 +42,14 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-- **Type:** Druidic conclave
-- **Region:** [[place-elavendre|Élavendre]], particularly the deep forests and the foothills of the [[place-drenavrspn|Drenavar Spine]]
-- **Sister institutions:** [[affiliation-bardicolgs|The Bardic Colleges]], [[affiliation-alndnwrdns|The Áelendan Wardens]]
+Type
+: Druidic conclave
+
+Region
+: [[place-elavendre|Élavendre]], particularly the deep forests and the foothills of the [[place-drenavrspn|Drenavar Spine]]
+
+Sister institutions
+: [[affiliation-bardicolgs|The Bardic Colleges]], [[affiliation-alndnwrdns|The Áelendan Wardens]]
 
 ## Overview
 

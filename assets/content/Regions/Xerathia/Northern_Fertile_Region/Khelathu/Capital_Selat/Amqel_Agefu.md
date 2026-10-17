@@ -22,5 +22,8 @@ The village sits in [[place-galezkaraslt|Galezkara Selat]], a morning's passage 
 
 ## See Also
 
-- [[place-galezkaraslt|Galezkara Selat]]—The selat country that holds it
-- [[place-galezkara|Galezkara]]—The imperial city
+[[place-galezkaraslt|Galezkara Selat]]
+: The selat country that holds it
+
+[[place-galezkara|Galezkara]]
+: The imperial city

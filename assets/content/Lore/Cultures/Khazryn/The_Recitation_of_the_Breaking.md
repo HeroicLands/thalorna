@@ -172,12 +172,29 @@ This is the case. It is open. The reciter sits. The house stands. Nothing is dis
 
 ## See Also
 
-- [[lore-zargandfall|The Fall of Zargandur]]—the morning the second year names
-- [[place-henhulpedin|Henhutpedin]]—the field outside the north wall, and the signets in the trench
-- [[place-zargandur|Zargandur]]—the war-city, its weirs and the lamps in its quarter
-- [[place-oasishirvn|Oasis of Shirvan]]—the first city, the spring and the sunken archive
-- [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the seven houses, the Breaking as the Tellumi tell it, and the Council that keeps the case
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—the War of the Twelve Years, as the other side tells it
-- [[lore-twelveywar|The Twelve Years]]—the Atarzád account of the war
-- [[lore-bloodfield|Blood-fields]]—the reading of the names, and what it would quiet
-- [[lore-khazrynclt|The Tellumi]]—memory as an office, and what a person owes the record
+[[lore-zargandfall|The Fall of Zargandur]]
+: the morning the second year names
+
+[[place-henhulpedin|Henhutpedin]]
+: the field outside the north wall, and the signets in the trench
+
+[[place-zargandur|Zargandur]]
+: the war-city, its weirs and the lamps in its quarter
+
+[[place-oasishirvn|Oasis of Shirvan]]
+: the first city, the spring and the sunken archive
+
+[[affiliation-khzrncnfdrtn|Tellumi Confederation]]
+: the seven houses, the Breaking as the Tellumi tell it, and the Council that keeps the case
+
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: the War of the Twelve Years, as the other side tells it
+
+[[lore-twelveywar|The Twelve Years]]
+: the Atarzád account of the war
+
+[[lore-bloodfield|Blood-fields]]
+: the reading of the names, and what it would quiet
+
+[[lore-khazrynclt|The Tellumi]]
+: memory as an office, and what a person owes the record

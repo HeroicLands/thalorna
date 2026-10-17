@@ -134,11 +134,26 @@ Malagna strikes no coin. Where a deal is made in money, the money is [[lore-vylr
 
 ## See Also
 
-- [[place-malagna|Malagna]]—the land the kingdom holds
-- [[place-gnarthborg|Gnarthborg]]—the seat and the king's hall
-- [[lore-mlgnahstry|Histories and Legends of Malagna]]—the kingdom's remembered past
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—sister kingdom and chief rival
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the other sister kingdoms
-- [[place-elavendre|Élavendre]]—western trading partner
-- [[place-aelwyth|Aelwyth]]—maritime neighbor
-- [[affiliation-asguardian|Asguardian Pantheon]]—the Ten of the north
+[[place-malagna|Malagna]]
+: the land the kingdom holds
+
+[[place-gnarthborg|Gnarthborg]]
+: the seat and the king's hall
+
+[[lore-mlgnahstry|Histories and Legends of Malagna]]
+: the kingdom's remembered past
+
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+: sister kingdom and chief rival
+
+[[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
+: the other sister kingdoms
+
+[[place-elavendre|Élavendre]]
+: western trading partner
+
+[[place-aelwyth|Aelwyth]]
+: maritime neighbor
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the Ten of the north

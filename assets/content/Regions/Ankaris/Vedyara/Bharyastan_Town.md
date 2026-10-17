@@ -27,6 +27,11 @@ Market week follows the spring muster. Walnut timber, hill barley, hides, a litt
 
 ## See Also
 
-- [[affiliation-bharyastan|The Kingdom of Bharyastan]]—the kingdom whose capital this is
-- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the treaty partner down the valley
-- [[place-vedyarargn|Vedyara Region]]—the enclosing region
+[[affiliation-bharyastan|The Kingdom of Bharyastan]]
+: the kingdom whose capital this is
+
+[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+: the treaty partner down the valley
+
+[[place-vedyarargn|Vedyara Region]]
+: the enclosing region

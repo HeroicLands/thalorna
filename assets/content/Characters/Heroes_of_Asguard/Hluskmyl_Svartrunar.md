@@ -404,8 +404,11 @@ Hlusmil's runic magic is devastatingly effective at corrupting natural and divin
 
 ## Plot Hooks
 
-1. **The Cleansing of [[place-haulonna|Haulonna]]**—A way has been discovered to potentially break Hlusmil's hold on the corrupted enclave, but it requires a coalition of Sinale, priests, and warriors willing to enter the necropolis and confront its master.
+The Cleansing of [[place-haulonna|Haulonna]]
+: A way has been discovered to potentially break Hlusmil's hold on the corrupted enclave, but it requires a coalition of Sinale, priests, and warriors willing to enter the necropolis and confront its master.
 
-2. **The Black Rune Plague**—Hlusmil's runes have begun appearing in new locations, spreading corruption to farmland and water sources. Someone is helping him, and the trail leads to an unexpected source.
+The Black Rune Plague
+: Hlusmil's runes have begun appearing in new locations, spreading corruption to farmland and water sources. Someone is helping him, and the trail leads to an unexpected source.
 
-3. **Ansorudhe's Hope**—The spirit of the fallen Sinalo guardian has managed to send a message beyond the corrupted enclave: he has found a weakness in Hlusmil's defenses, but he needs help from the outside to exploit it before the necromancer discovers what he's done.
+Ansorudhe's Hope
+: The spirit of the fallen Sinalo guardian has managed to send a message beyond the corrupted enclave: he has found a weakness in Hlusmil's defenses, but he needs help from the outside to exploit it before the necromancer discovers what he's done.

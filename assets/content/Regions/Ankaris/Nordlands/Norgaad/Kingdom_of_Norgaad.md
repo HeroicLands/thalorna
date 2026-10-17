@@ -122,9 +122,20 @@ The kingdom strikes no coin. Where a deal is made in money, the money is [[lore-
 
 ## See Also
 
-- [[place-norgaad|Norgaad]]—the land the kingdom holds
-- [[place-asgarthul|Asgarthul]]—the seat, where the Great Moot meets
-- [[lore-nrgadhstry|Histories and Legends of Norgaad]]—the kingdom's remembered past
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the sister kingdoms
-- [[affiliation-asguardian|Asguardian Pantheon]]—the pantheon
-- [[place-grkrhlmrgn|Grukarholm Region]]—the eastern threat
+[[place-norgaad|Norgaad]]
+: the land the kingdom holds
+
+[[place-asgarthul|Asgarthul]]
+: the seat, where the Great Moot meets
+
+[[lore-nrgadhstry|Histories and Legends of Norgaad]]
+: the kingdom's remembered past
+
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
+: the sister kingdoms
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the pantheon
+
+[[place-grkrhlmrgn|Grukarholm Region]]
+: the eastern threat

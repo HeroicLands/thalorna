@@ -463,20 +463,47 @@ Sevren must navigate the perils of discovery, rivalry, and personal ambition whi
 
 ### Skills and Abilities
 
-- **Strength**: Sevren is not physically imposing, but he maintains a level of fitness typical for an alchemist handling heavy materials.
-- **Endurance**: While not frail, Sevren's stamina reflects the nature of his focused, laboratory-bound lifestyle.
-- **Dexterity**: His work with delicate alchemical compounds requires precision and a steady hand.
-- **Agility**: Sevren moves with moderate agility, typical of someone who must frequently adjust to the shifting dynamics of his craft.
-- **Perception**: His constant search for subtle details in his experiments has honed his perception to an acute level.
-- **Comeliness**: His appearance, while not unattractive, is unremarkable.
-- **Aura**: Sevren’s connection to the metaphysical manifests in his ability in arcane lore and grants him a subtle, compelling presence.
-- **Will**: His single-minded pursuit of alchemical mastery has made him determined and resolute in his goals.
-- **Reasoning**: Sevren possesses a keen, analytical mind capable of solving complex problems.
-- **Creativity**: His work requires ingenuity, and he frequently develops new approaches to old alchemical problems.
-- **Empathy**: While Sevren understands emotions intellectually, he often struggles to connect deeply with others on a personal level.
-- **Eloquence**: Sevren communicates effectively but without great flair or charm.
-- **Morality**: Sevren respects the values and mores of his society, but is pragmatic and willing to bend them when necessary.
-- **Voice**: Although his voice is not unpleasant, it is unremarkable.
+Strength
+: Sevren is not physically imposing, but he maintains a level of fitness typical for an alchemist handling heavy materials.
+
+Endurance
+: While not frail, Sevren's stamina reflects the nature of his focused, laboratory-bound lifestyle.
+
+Dexterity
+: His work with delicate alchemical compounds requires precision and a steady hand.
+
+Agility
+: Sevren moves with moderate agility, typical of someone who must frequently adjust to the shifting dynamics of his craft.
+
+Perception
+: His constant search for subtle details in his experiments has honed his perception to an acute level.
+
+Comeliness
+: His appearance, while not unattractive, is unremarkable.
+
+Aura
+: Sevren’s connection to the metaphysical manifests in his ability in arcane lore and grants him a subtle, compelling presence.
+
+Will
+: His single-minded pursuit of alchemical mastery has made him determined and resolute in his goals.
+
+Reasoning
+: Sevren possesses a keen, analytical mind capable of solving complex problems.
+
+Creativity
+: His work requires ingenuity, and he frequently develops new approaches to old alchemical problems.
+
+Empathy
+: While Sevren understands emotions intellectually, he often struggles to connect deeply with others on a personal level.
+
+Eloquence
+: Sevren communicates effectively but without great flair or charm.
+
+Morality
+: Sevren respects the values and mores of his society, but is pragmatic and willing to bend them when necessary.
+
+Voice
+: Although his voice is not unpleasant, it is unremarkable.
 
 ## Psyche
 
@@ -517,10 +544,14 @@ Guild of Apothecaries
 
 ## Plot Hooks
 
-1. **The Recipe of Ruin**: Sevren receives an anonymous letter claiming to have the missing key to the **Visionary Elixir**, a formula he has been obsessively pursuing. The catch? The ingredients require him to retrieve volatile substances from the ruins of a long-abandoned alchemical fortress. As Sevren ventures into the fortress, he finds evidence that his mentor, Master Virel, may have intentionally withheld critical knowledge about the elixir. His quest for completion becomes a confrontation with betrayal and the ethical questions surrounding the power of foresight.
+The Recipe of Ruin
+: Sevren receives an anonymous letter claiming to have the missing key to the **Visionary Elixir**, a formula he has been obsessively pursuing. The catch? The ingredients require him to retrieve volatile substances from the ruins of a long-abandoned alchemical fortress. As Sevren ventures into the fortress, he finds evidence that his mentor, Master Virel, may have intentionally withheld critical knowledge about the elixir. His quest for completion becomes a confrontation with betrayal and the ethical questions surrounding the power of foresight.
 
-2. **A Merchant’s Deceit**: One of Sevren’s patrons, Lady Áimeline Úlmernde, hires him to create a life-preserving elixir for her rare blood disorder. As Sevren works on the formula, he uncovers evidence that the noblewoman has been using his tonics not for healing but to extend her influence over rival nobles. Torn between his loyalty to his client and the ethical implications of her schemes, Sevren must decide whether to confront her or continue his work under new terms.
+A Merchant’s Deceit
+: One of Sevren’s patrons, Lady Áimeline Úlmernde, hires him to create a life-preserving elixir for her rare blood disorder. As Sevren works on the formula, he uncovers evidence that the noblewoman has been using his tonics not for healing but to extend her influence over rival nobles. Torn between his loyalty to his client and the ethical implications of her schemes, Sevren must decide whether to confront her or continue his work under new terms.
 
-3. **The Alchemical Black Market**: A powerful alchemical guild rival, Arlis Ruthorn, sabotages one of Sevren’s shipments, accusing him of illegal practices to discredit his reputation. The situation escalates when the missing shipment is found in the possession of a black-market dealer in Kalipsa. Investigating the truth places Sevren in the crosshairs of both the Guild of Esoteric Crafts and the Guild of Apothecaries, forcing him to handle a dangerous web of alliances and betrayals.
+The Alchemical Black Market
+: A powerful alchemical guild rival, Arlis Ruthorn, sabotages one of Sevren’s shipments, accusing him of illegal practices to discredit his reputation. The situation escalates when the missing shipment is found in the possession of a black-market dealer in Kalipsa. Investigating the truth places Sevren in the crosshairs of both the Guild of Esoteric Crafts and the Guild of Apothecaries, forcing him to handle a dangerous web of alliances and betrayals.
 
-4. **The Elixir’s Curse**: After finally synthesizing a prototype of the **Visionary Elixir**, Sevren tests it on himself, only to experience unsettling visions of destruction that appear to involve his close allies and the guild. The visions drive him to seek guidance from an ancient alchemical order, but their cryptic warnings suggest that the elixir’s power may carry a curse. The quest to understand the elixir’s true nature leads him into dangerous territory where failure could cost him his mind.
+The Elixir’s Curse
+: After finally synthesizing a prototype of the **Visionary Elixir**, Sevren tests it on himself, only to experience unsettling visions of destruction that appear to involve his close allies and the guild. The visions drive him to seek guidance from an ancient alchemical order, but their cryptic warnings suggest that the elixir’s power may carry a curse. The quest to understand the elixir’s true nature leads him into dangerous territory where failure could cost him his mind.

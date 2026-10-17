@@ -174,14 +174,29 @@ The Cartographers' Guild shows the same pattern in a smaller place. Its seal mak
 
 ## See Also
 
-- [[place-byzariargn|Bizaria Region]]—the five cities, the plateau and the marches
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation, its council and its ladder of standing
-- [[place-nykhtion|Nikhtion]]—the city of the dead and its keepers
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the civic faith in its eastern rite
-- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the caravan-road faith, openly kept
-- [[affiliation-crtgrphrsgldbyzrnlg|Cartographers' Guild of the Bizarian League]]—a chartered guild and its seal
-- [[place-trianthion|Trianthion]]—the village the League prefers not to discuss
-- [[skill-byzarnlng|Bizarian]]—the tongue and its vocabulary of agreement
+[[place-byzariargn|Bizaria Region]]
+: the five cities, the plateau and the marches
+
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation, its council and its ladder of standing
+
+[[place-nykhtion|Nikhtion]]
+: the city of the dead and its keepers
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the civic faith in its eastern rite
+
+[[affiliation-ashanpnthn|Ashaian Pantheon]]
+: the caravan-road faith, openly kept
+
+[[affiliation-crtgrphrsgldbyzrnlg|Cartographers' Guild of the Bizarian League]]
+: a chartered guild and its seal
+
+[[place-trianthion|Trianthion]]
+: the village the League prefers not to discuss
+
+[[skill-byzarnlng|Bizarian]]
+: the tongue and its vocabulary of agreement
 
 ## Glossary {#glossary}
 

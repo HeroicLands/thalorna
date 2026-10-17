@@ -401,8 +401,11 @@ Knirvthira's network of informants and clients spans the highest levels of Gnald
 
 ## Plot Hooks
 
-1. **The Slave Ring**—Knirvthira has discovered that Vruldmil's slave trading network is still operating under new management, and children are among the victims. She needs agents who can infiltrate the ring and destroy it from within.
+The Slave Ring
+: Knirvthira has discovered that Vruldmil's slave trading network is still operating under new management, and children are among the victims. She needs agents who can infiltrate the ring and destroy it from within.
 
-2. **The Gilded Cage's Secret**—One of Knirvthira's most trusted allies has been turned by the Morality Council and is feeding them information. Knirvthira must identify the traitor before her enemies have enough evidence to move against her.
+The Gilded Cage's Secret
+: One of Knirvthira's most trusted allies has been turned by the Morality Council and is feeding them information. Knirvthira must identify the traitor before her enemies have enough evidence to move against her.
 
-3. **The Noble's Proposal**—Jarl Hrundvir has proposed marriage, which would give Knirvthira legitimate noble status but could also make her a target for his political enemies. The decision is complicated by the arrival of a figure from her past who offers a very different kind of future.
+The Noble's Proposal
+: Jarl Hrundvir has proposed marriage, which would give Knirvthira legitimate noble status but could also make her a target for his political enemies. The decision is complicated by the arrival of a figure from her past who offers a very different kind of future.

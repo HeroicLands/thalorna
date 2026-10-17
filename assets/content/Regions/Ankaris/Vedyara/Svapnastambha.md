@@ -26,6 +26,11 @@ The crown's post below has no authority over the tower and the tower asks nothin
 
 ## See Also
 
-- [[affiliation-svapnasarisamaja|Svapnasari-sameja]]—the sect
-- [[place-marukupa|Marukupa]]—the wells below
-- [[place-bhumipalaland|Bhumipala]]—the land
+[[affiliation-svapnasarisamaja|Svapnasari-sameja]]
+: the sect
+
+[[place-marukupa|Marukupa]]
+: the wells below
+
+[[place-bhumipalaland|Bhumipala]]
+: the land

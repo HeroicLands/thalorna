@@ -261,20 +261,29 @@ Older serpents sense the warmth of a living body, and find warm-blooded prey hid
 
 ## Attributes
 
-- **Strength:** 18-23 (1d6+17)
+Strength
+: 18-23 (1d6+17)
 
-- **Endurance:** 13-18 (1d6+12)
+Endurance
+: 13-18 (1d6+12)
 
-- **Dexterity:** 12-17 (1d6+11)
+Dexterity
+: 12-17 (1d6+11)
 
-- **Agility:** 14-19 (1d6+13)
+Agility
+: 14-19 (1d6+13)
 
-- **Perception:** 13-18 (1d6+12)
+Perception
+: 13-18 (1d6+12)
 
-- **Aura:** 8-11 (1d4+7)
+Aura
+: 8-11 (1d4+7)
 
-- **Will:** 10-15 (1d6+9)
+Will
+: 10-15 (1d6+9)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

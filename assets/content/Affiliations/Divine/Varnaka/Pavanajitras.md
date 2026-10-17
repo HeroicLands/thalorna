@@ -46,10 +46,17 @@ sohl: {system: {commonSkills: [pavanajitras, sohl-sohl-skill-srvl, sohl-sohl-ski
 
 ## Pavanajitras—The Wandering Wind
 
-- **Domain:** Travel, trade routes, favorable winds, the safety of the road and the sea-lane
-- **Symbol:** A wind-filled sail
-- **Pronunciation:** _PAH-vah-nah-jee-trahs_
-- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
+Domain
+: Travel, trade routes, favorable winds, the safety of the road and the sea-lane
+
+Symbol
+: A wind-filled sail
+
+Pronunciation
+: _PAH-vah-nah-jee-trahs_
+
+Pantheon
+: [[affiliation-varakpnthn|Varnuka Pantheon]]
 
 "A coin if you have one, a pinch of millet if you do not, and a scrap of cloth on the tree if you have neither." The keeper of a crossroads shrine says it to a carter who has pulled up only to ask the way. The devotion called Pavanajitras honors the [[lore-pvnjtrsdty|Pavanajitras]], the **Wandering Wind**, a company of minor wind-spirits who guide travelers, carry merchant-ships before favorable gales and whisper the road's omens to those who have learned to listen.
 
@@ -67,8 +74,11 @@ The Pavanajitras are honored everywhere by gesture and at no fixed household shr
 
 ### Ordeals for Favor
 
-- **[The Pilgrim's Year]{.name data-type="lore/custom"}**—the devotee travels continuously for a year, visiting every Pavanajitran shrine within a named region and keeping a record of the offerings left.
-- **[The Silent Caravan]{.name data-type="lore/custom"}**—the devotee accompanies a merchant caravan through its full season, speaking only the ceremonial words of the rites and serving the company as directed.
+[The Pilgrim's Year]{.name data-type="lore/custom"}
+: the devotee travels continuously for a year, visiting every Pavanajitran shrine within a named region and keeping a record of the offerings left.
+
+[The Silent Caravan]{.name data-type="lore/custom"}
+: the devotee accompanies a merchant caravan through its full season, speaking only the ceremonial words of the rites and serving the company as directed.
 
 ### See Also
 

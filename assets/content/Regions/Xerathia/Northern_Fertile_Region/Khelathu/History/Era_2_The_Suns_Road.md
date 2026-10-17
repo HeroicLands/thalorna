@@ -29,6 +29,11 @@ The age closes without a catastrophe. Houses rise upriver, and in 1390 ST (721 B
 
 ## See Also
 
-- [[lore-akhfirsttab|The First Tablets]] · [[lore-akhdivriver|The Divided River]]—the ages on either side
-- [[lore-garauu|Gar-Auu]]—the king-list
-- [[place-galezkara|Galezkara]] · [[place-zugezer|Zu-Gezer]] · [[place-waligelu|Wal-Igelu]]—what the age left on the ground
+[[lore-akhfirsttab|The First Tablets]] · [[lore-akhdivriver|The Divided River]]
+: the ages on either side
+
+[[lore-garauu|Gar-Auu]]
+: the king-list
+
+[[place-galezkara|Galezkara]] · [[place-zugezer|Zu-Gezer]] · [[place-waligelu|Wal-Igelu]]
+: what the age left on the ground

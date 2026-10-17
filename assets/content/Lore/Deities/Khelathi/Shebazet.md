@@ -17,6 +17,11 @@ Her animal is the [[being-cobra|cobra]]. Cobras hunt the rats that ruin the reed
 
 ## See Also
 
-- [[affiliation-shebazet|Faith of Shebazet]]—the cult and its offices
-- [[lore-rethsaardty|Reth'Sa'ar]]—the Twelve's god of knowledge, whose records her paper carries
-- [[affiliation-selatgrshbzt|The Selat of Gar-Shebazet]]—her selat
+[[affiliation-shebazet|Faith of Shebazet]]
+: the cult and its offices
+
+[[lore-rethsaardty|Reth'Sa'ar]]
+: the Twelve's god of knowledge, whose records her paper carries
+
+[[affiliation-selatgrshbzt|The Selat of Gar-Shebazet]]
+: her selat

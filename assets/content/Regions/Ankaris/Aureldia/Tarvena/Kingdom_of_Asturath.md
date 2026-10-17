@@ -118,11 +118,20 @@ data:
 sohl: {system: {commonSkills: [tarvenlng]}}
 ---
 
-- **Overlord:** [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (nominal)
-- **Language:** Tarveni
-- **Naming Convention:** [[skill-tarvenlng|Tarveni]]
-- **Pantheon:** [[affiliation-arldnpnthn|Aureldian]] (with strong folk traditions)
-- **Government:** Hereditary monarchy with council of mountain lords
+Overlord
+: [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (nominal)
+
+Language
+: Tarveni
+
+Naming Convention
+: [[skill-tarvenlng|Tarveni]]
+
+Pantheon
+: [[affiliation-arldnpnthn|Aureldian]] (with strong folk traditions)
+
+Government
+: Hereditary monarchy with council of mountain lords
 
 ## Overview
 
@@ -142,8 +151,17 @@ The Kingdom of Asturath uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden /
 
 ## See Also
 
-- [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]—The loose overlord
-- [[place-tarvenirgn|Tarvénia Region]]—Regional overview
-- [[place-asturath|Asturath]]—The land the kingdom holds
-- [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]—Sister kingdoms
-- [[affiliation-frctyvlthr|Free City of Valthari]], [[affiliation-frtrtryskrth|Free Territory of Eskarath]]—Fellow Tarvenan regions
+[[affiliation-kingdmtrvn|Kingdom of Tarvénia]]
+: The loose overlord
+
+[[place-tarvenirgn|Tarvénia Region]]
+: Regional overview
+
+[[place-asturath|Asturath]]
+: The land the kingdom holds
+
+[[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]
+: Sister kingdoms
+
+[[affiliation-frctyvlthr|Free City of Valthari]], [[affiliation-frtrtryskrth|Free Territory of Eskarath]]
+: Fellow Tarvenan regions

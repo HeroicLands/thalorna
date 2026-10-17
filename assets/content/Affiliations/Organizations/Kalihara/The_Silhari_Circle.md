@@ -63,7 +63,14 @@ The circle is a company inside the [[affiliation-tharivaan|Ithakan]] and a rival
 
 ## See Also
 
-- [[affiliation-tharivaan|Thári'vaan]]—the faith the circle belongs to, its ranks and its first records
-- [[affiliation-councilisland|The Council of the Island]]—where the circle's Elders speak
-- [[affiliation-keepershouse|The Keeper's House]]—the custodians of dark works
-- [[lore-klhrsnctrs|The Sanctuaries of Kalihara]]—where the circle meets
+[[affiliation-tharivaan|Thári'vaan]]
+: the faith the circle belongs to, its ranks and its first records
+
+[[affiliation-councilisland|The Council of the Island]]
+: where the circle's Elders speak
+
+[[affiliation-keepershouse|The Keeper's House]]
+: the custodians of dark works
+
+[[lore-klhrsnctrs|The Sanctuaries of Kalihara]]
+: where the circle meets

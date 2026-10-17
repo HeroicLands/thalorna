@@ -51,7 +51,14 @@ The honor in the decree is not courtesy. The recitation names the just kings of 
 
 ## See Also
 
-- [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]]—the same line and the same forty days, as the Memory-Keeper recites them
-- [[affiliation-rajaprjnpd|Rajepur Janapoda]]—the temple-republic the decree founded
-- [[place-palacecellar|The Palace Cellars]]—what is left of the palace the decree took down
-- [[place-rajavalilib|The Rajavali Library]] · [[place-shitakoshtha|Shitakoshta]]—where the chronicle and the decree are kept
+[[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]]
+: the same line and the same forty days, as the Memory-Keeper recites them
+
+[[affiliation-rajaprjnpd|Rajepur Janapoda]]
+: the temple-republic the decree founded
+
+[[place-palacecellar|The Palace Cellars]]
+: what is left of the palace the decree took down
+
+[[place-rajavalilib|The Rajavali Library]] · [[place-shitakoshtha|Shitakoshta]]
+: where the chronicle and the decree are kept

@@ -194,16 +194,20 @@ inland.
 
 ## Settlements
 
-- [[place-elthrembis|Eltrembis]]—the market town and the baron's seat, where the fruit is
-  graded, packed and sold, and where the autumn fair is held.
-- [[place-volsather|Volsater]]—the harbor at the foot of the cliff: fish, salt, and the fast
-  boats that are quietly undoing the drying yards.
-- [[place-palnebris|Palnebris]]—the great orchard manor of the upper terraces, and the richest and
-  most anxious place in the barony.
-- [[place-blavera|Blavera]]—a mixed manor of the valley floor: grain, fold and a little fruit.
-  The ordinary model, and the one most of Zuravlen actually resembles.
-- [[place-estivren|Estivren]]—the upland sheep manor, oldest of the three, poorest in coin and
-  least interested in peaches.
+[[place-elthrembis|Eltrembis]]
+: the market town and the baron's seat, where the fruit is graded, packed and sold, and where the autumn fair is held.
+
+[[place-volsather|Volsater]]
+: the harbor at the foot of the cliff: fish, salt, and the fast boats that are quietly undoing the drying yards.
+
+[[place-palnebris|Palnebris]]
+: the great orchard manor of the upper terraces, and the richest and most anxious place in the barony.
+
+[[place-blavera|Blavera]]
+: a mixed manor of the valley floor: grain, fold and a little fruit. The ordinary model, and the one most of Zuravlen actually resembles.
+
+[[place-estivren|Estivren]]
+: the upland sheep manor, oldest of the three, poorest in coin and least interested in peaches.
 
 ## Adventuring in Zuravlen
 

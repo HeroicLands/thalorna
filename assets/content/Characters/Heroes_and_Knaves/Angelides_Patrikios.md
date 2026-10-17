@@ -452,29 +452,40 @@ Fodios is driven by the conviction that magic should serve life and healing rath
 
 ### Strengths
 
-- **Healing Capability**: His combination of high physician skill and strong magical skill makes him extraordinarily capable at mending wounds, curing disease, and restoring vitality. He can accomplish healing feats that would require formal healers days of preparation and ritual.
+Healing Capability
+: His combination of high physician skill and strong magical skill makes him extraordinarily capable at mending wounds, curing disease, and restoring vitality. He can accomplish healing feats that would require formal healers days of preparation and ritual.
 
-- **Magical Knowledge**: His spirit, thaumaturgy, and ritual represent a lifetime of study, both formal and self-directed. Despite his critique of orthodoxy, his technical knowledge is impressive. His Tarotry provides insights into complex situations that extend beyond simple fortune-telling.
+Magical Knowledge
+: His spirit, thaumaturgy, and ritual represent a lifetime of study, both formal and self-directed. Despite his critique of orthodoxy, his technical knowledge is impressive. His Tarotry provides insights into complex situations that extend beyond simple fortune-telling.
 
-- **Perception and Awareness**: His perception and awareness grant him supernatural sensitivity to magical auras, hidden dangers, and subtle environmental cues. He can often sense illness before it manifests in obvious symptoms.
+Perception and Awareness
+: His perception and awareness grant him supernatural sensitivity to magical auras, hidden dangers, and subtle environmental cues. He can often sense illness before it manifests in obvious symptoms.
 
-- **Survival and Wilderness Mastery**: His survival, seamanship, and animalcraft make him extraordinarily capable in the wild. He moves through wilderness as though it were his home, and animals respond to him with unusual trust.
+Survival and Wilderness Mastery
+: His survival, seamanship, and animalcraft make him extraordinarily capable in the wild. He moves through wilderness as though it were his home, and animals respond to him with unusual trust.
 
-- **Scholarly Foundation**: Despite his anti-academic stance, his folklore, mathematics, and script are excellent. He can read ancient texts, understand complex theoretical frameworks, and teach effectively when he chooses to.
+Scholarly Foundation
+: Despite his anti-academic stance, his folklore, mathematics, and script are excellent. He can read ancient texts, understand complex theoretical frameworks, and teach effectively when he chooses to.
 
-- **Versatile Combat Capability**: His initiative, archery, and melee combined with magical enhancement make him more combat-capable than appearances suggest, though he avoids violence when possible.
+Versatile Combat Capability
+: His initiative, archery, and melee combined with magical enhancement make him more combat-capable than appearances suggest, though he avoids violence when possible.
 
 ### Weaknesses
 
-- **Weak Will and Low Endurance in Direct Magical Contests**: While his magical knowledge is deep, his will and endurance are merely adequate. In direct magical duels with formally trained Epistémion or Order practitioners, he can be overwhelmed by superior discipline and raw power driven through the structured forms of the Zemor Hodhis, even if their understanding of magic's deeper nature is shallower.
+Weak Will and Low Endurance in Direct Magical Contests
+: While his magical knowledge is deep, his will and endurance are merely adequate. In direct magical duels with formally trained Epistémion or Order practitioners, he can be overwhelmed by superior discipline and raw power driven through the structured forms of the Zemor Hodhis, even if their understanding of magic's deeper nature is shallower.
 
-- **Limited Charm and Eloquence**: His charm and eloquence are weak points. He struggles to advocate for his position, to recruit supporters, or to defend himself verbally. His inability to articulate his philosophy clearly leaves him vulnerable to accusations of incompetence or fraud.
+Limited Charm and Eloquence
+: His charm and eloquence are weak points. He struggles to advocate for his position, to recruit supporters, or to defend himself verbally. His inability to articulate his philosophy clearly leaves him vulnerable to accusations of incompetence or fraud.
 
-- **Resistance to Necessary Structure**: His rejection of formal training has left real gaps in his knowledge. There are certain categories of magic he simply cannot access without the theoretical framework he dismissed. His stubbornness about this limitation prevents him from seeking the additional training that would complete him.
+Resistance to Necessary Structure
+: His rejection of formal training has left real gaps in his knowledge. There are certain categories of magic he simply cannot access without the theoretical framework he dismissed. His stubbornness about this limitation prevents him from seeking the additional training that would complete him.
 
-- **Social Isolation and Difficulty Forming Bonds**: His reserved nature and tendency toward solitary work mean he has few real allies. He exists in tension with the Guild without being fully integrated into it, and his unorthodox status makes nobles reluctant to engage his services officially.
+Social Isolation and Difficulty Forming Bonds
+: His reserved nature and tendency toward solitary work mean he has few real allies. He exists in tension with the Guild without being fully integrated into it, and his unorthodox status makes nobles reluctant to engage his services officially.
 
-- **Vulnerability to Authority**: Despite his practical power, he is legally vulnerable. The Epistémion's chapterhouse council could formally revoke his nominal standing and report him to the Thordimalon (the Arcane Order) as an unlicensed practitioner. The Order's stance toward independent healers who claim to practice magic outside its rule ranges from suspicion to outright hostility. He lives constantly under the shadow of potential censure or prosecution—a threat that grows more serious the more widely his unconventional methods become known.
+Vulnerability to Authority
+: Despite his practical power, he is legally vulnerable. The Epistémion's chapterhouse council could formally revoke his nominal standing and report him to the Thordimalon (the Arcane Order) as an unlicensed practitioner. The Order's stance toward independent healers who claim to practice magic outside its rule ranges from suspicion to outright hostility. He lives constantly under the shadow of potential censure or prosecution—a threat that grows more serious the more widely his unconventional methods become known.
 
 ## Social
 
@@ -510,12 +521,17 @@ The Informal Network of Folk Healers and Independent Practitioners
 
 ## Plot Hooks
 
-1. **The Plague That Defies Magic**: A disease of mysterious origin begins spreading through the countryside, and even Fodios' most powerful healing magic provides only temporary relief—the sickness returns within days. The affliction seems to actively resist magical intervention, almost as though it possesses an intelligence of its own. Desperate villagers and the Guild both turn to Fodios for answers. Investigation reveals that the plague may be intentionally created by hostile forces, designed specifically to discredit non-traditional healers by forcing failures they would normally never experience. The cure may require him to temporarily reconcile with the formal Guild, to combine his intuitive approach with their theoretical knowledge.
+The Plague That Defies Magic
+: A disease of mysterious origin begins spreading through the countryside, and even Fodios' most powerful healing magic provides only temporary relief—the sickness returns within days. The affliction seems to actively resist magical intervention, almost as though it possesses an intelligence of its own. Desperate villagers and the Guild both turn to Fodios for answers. Investigation reveals that the plague may be intentionally created by hostile forces, designed specifically to discredit non-traditional healers by forcing failures they would normally never experience. The cure may require him to temporarily reconcile with the formal Guild, to combine his intuitive approach with their theoretical knowledge.
 
-2. **The Apprentice with Uncontrolled Power**: A young person from a wealthy Guild family arrives seeking instruction from Fodios after the formal Guild rejected them for having "unstable and unpredictable" magical resonance. Fodios recognizes the young person as gifted in ways that match his own unconventional path, but training them will be seen as poaching from the Guild and could provide the excuse needed to formally revoke his standing. The young person is also harboring a dangerous secret about why the Guild truly rejected them—they possess a form of magic the Guild has actively suppressed, and teaching them may expose Fodios to forces worse than the Guild's opposition.
+The Apprentice with Uncontrolled Power
+: A young person from a wealthy Guild family arrives seeking instruction from Fodios after the formal Guild rejected them for having "unstable and unpredictable" magical resonance. Fodios recognizes the young person as gifted in ways that match his own unconventional path, but training them will be seen as poaching from the Guild and could provide the excuse needed to formally revoke his standing. The young person is also harboring a dangerous secret about why the Guild truly rejected them—they possess a form of magic the Guild has actively suppressed, and teaching them may expose Fodios to forces worse than the Guild's opposition.
 
-3. **The Spirit That Requires a Bridge**: Fodios becomes aware through his divination work that a powerful spirit—neither good nor evil, but vast and ancient—is attempting to communicate with the living world. The spirit cannot manifest directly without causing catastrophic harm, and it requires Fodios to act as a conduit or bridge. The task will require him to enter a trance state for an extended period, making him vulnerable, and the information the spirit carries may fundamentally change his understanding of magic, reality, and his own role within both.
+The Spirit That Requires a Bridge
+: Fodios becomes aware through his divination work that a powerful spirit—neither good nor evil, but vast and ancient—is attempting to communicate with the living world. The spirit cannot manifest directly without causing catastrophic harm, and it requires Fodios to act as a conduit or bridge. The task will require him to enter a trance state for an extended period, making him vulnerable, and the information the spirit carries may fundamentally change his understanding of magic, reality, and his own role within both.
 
-4. **The Child With Incurable Condition**: A desperate family brings their dying child—a condition that combines physical illness with what appears to be magical curse. Fodios' healing magic proves insufficient, but through extensive investigation, he discovers that the curse was placed by a rival family engaged in political war. The child can only be saved by undoing the original curse, which requires Fodios to either negotiate with the cursing mage (who shows no remorse) or learn a form of curse-breaking magic that will require studying with the very formal practitioners he has rejected. His choice will either affirm or contradict everything he has believed about his unorthodox path.
+The Child With Incurable Condition
+: A desperate family brings their dying child—a condition that combines physical illness with what appears to be magical curse. Fodios' healing magic proves insufficient, but through extensive investigation, he discovers that the curse was placed by a rival family engaged in political war. The child can only be saved by undoing the original curse, which requires Fodios to either negotiate with the cursing mage (who shows no remorse) or learn a form of curse-breaking magic that will require studying with the very formal practitioners he has rejected. His choice will either affirm or contradict everything he has believed about his unorthodox path.
 
-5. **The Order's Final Move**: _Sekeros_ Ghesáz finally escalates his investigation into a formal charge of unlicensed magical practice. Fodios is summoned to appear before the Epistémion's chapterhouse council, where evidence is presented—some legitimate, some distorted—suggesting that his work violates the Order's monopoly. _Marendos_ Zevidin leads the prosecution, while Ghesáz represents Order interests. Fodios faces an agonizing choice: submit to the council's judgment (risking expulsion, loss of nominal protection, and formal Order pursuit), flee his home and abandon his work in the villages that depend on him, or call upon his few allies in the Epistémion and community to mount a desperate defense that will expose the politics of the chapterhouse and force a confrontation with both Zevidin's personal vendetta and the Order's overreach. The trial becomes a contest over the question that has defined his life: whether magic's highest purpose is obedience to the doctrine of the orders or service to those in need.
+The Order's Final Move
+: _Sekeros_ Ghesáz finally escalates his investigation into a formal charge of unlicensed magical practice. Fodios is summoned to appear before the Epistémion's chapterhouse council, where evidence is presented—some legitimate, some distorted—suggesting that his work violates the Order's monopoly. _Marendos_ Zevidin leads the prosecution, while Ghesáz represents Order interests. Fodios faces an agonizing choice: submit to the council's judgment (risking expulsion, loss of nominal protection, and formal Order pursuit), flee his home and abandon his work in the villages that depend on him, or call upon his few allies in the Epistémion and community to mount a desperate defense that will expose the politics of the chapterhouse and force a confrontation with both Zevidin's personal vendetta and the Order's overreach. The trial becomes a contest over the question that has defined his life: whether magic's highest purpose is obedience to the doctrine of the orders or service to those in need.

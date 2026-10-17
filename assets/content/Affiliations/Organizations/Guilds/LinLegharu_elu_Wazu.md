@@ -56,5 +56,8 @@ Say a house needs a compound prepared at short notice and its own alchemist is a
 
 ## See Also
 
-- [[place-wazulet|The Wazulet]]—Where the alliance's alchemists work
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-wazulet|The Wazulet]]
+: Where the alliance's alchemists work
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

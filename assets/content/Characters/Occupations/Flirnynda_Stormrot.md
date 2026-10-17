@@ -426,12 +426,17 @@ Few; she is well liked in her community, though some rats remain elusive.
 
 ## Plot Hooks
 
-1. **The Ratter's Dilemma**—A householder who pays Flirninda well wants the rats driven out rather than killed, into the street where they will become someone else's.
+The Ratter's Dilemma
+: A householder who pays Flirninda well wants the rats driven out rather than killed, into the street where they will become someone else's.
 
-2. **Old Grudges**—A rat Flirninda could never catch has been seen again, in the one house whose custom she cannot afford to lose.
+Old Grudges
+: A rat Flirninda could never catch has been seen again, in the one house whose custom she cannot afford to lose.
 
-3. **Echoes of the Past**—A trap of Flirninda's father's design is found set in a part of the city he never worked, and she did not set it.
+Echoes of the Past
+: A trap of Flirninda's father's design is found set in a part of the city he never worked, and she did not set it.
 
-4. **Shifting Winds**—Political change in Nordheim threatens the businesses Flirninda's trade depends on, and she can adapt, resist, or leave.
+Shifting Winds
+: Political change in Nordheim threatens the businesses Flirninda's trade depends on, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—A merchant offers Flirninda the keeping of his whole warehouse district at a wage, and the poisons he wants used would put Whiskers at risk.
+The Opportunity
+: A merchant offers Flirninda the keeping of his whole warehouse district at a wage, and the poisons he wants used would put Whiskers at risk.

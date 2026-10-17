@@ -453,19 +453,37 @@ Athalwa's primary motivation is the survival and flourishing of the Vristwald Tr
 
 ### Strengths
 
-- **Visionary Battle Sense**: Athalwa's combination of tactical training and mystical prescience gives her an uncanny ability to anticipate enemy movements and identify solutions to seemingly impossible problems before others even recognize the problems exist.
-- **Warrior and Commander**: She is a strong fighter, but her true strength lies in her capacity to inspire warriors and coordinate complex tactical operations. Her command presence creates confidence that borders on religious fervor.
-- **Master of Folklore and Law**: Her deep knowledge of tribal traditions, songs, and ancestral rulings allows her to handle political disputes with the authority of precedent, even when proposing innovations.
-- **Herblore Expertise**: Her mystical training included extensive knowledge of medicinal and ritual plants. She understands healing, ritual magic, and spiritual practice at levels that few can match.
-- **Diplomat and Negotiator**: While unconventional in her methods, Athalwa has proven effective at establishing trade relationships, forming alliances, and negotiating with foreign powers without surrendering tribal autonomy.
+Visionary Battle Sense
+: Athalwa's combination of tactical training and mystical prescience gives her an uncanny ability to anticipate enemy movements and identify solutions to seemingly impossible problems before others even recognize the problems exist.
+
+Warrior and Commander
+: She is a strong fighter, but her true strength lies in her capacity to inspire warriors and coordinate complex tactical operations. Her command presence creates confidence that borders on religious fervor.
+
+Master of Folklore and Law
+: Her deep knowledge of tribal traditions, songs, and ancestral rulings allows her to handle political disputes with the authority of precedent, even when proposing innovations.
+
+Herblore Expertise
+: Her mystical training included extensive knowledge of medicinal and ritual plants. She understands healing, ritual magic, and spiritual practice at levels that few can match.
+
+Diplomat and Negotiator
+: While unconventional in her methods, Athalwa has proven effective at establishing trade relationships, forming alliances, and negotiating with foreign powers without surrendering tribal autonomy.
 
 ### Weaknesses
 
-- **Mystical Burden**: Her visions, while often accurate, sometimes cloud her judgment. She occasionally acts on intuitions that lack rational foundation, trusting her perception rather than evidence.
-- **Political Vulnerability**: As a female War Chief operating outside traditional frameworks, Athalwa is perpetually vulnerable to challenges from conservative factions within her own people. Her authority, though real, remains contested.
-- **Emotional Distance**: Her tendency to perceive events in larger, longer timescales than others makes her sometimes seem cold and dismissive of immediate human suffering. Warriors and clan members occasionally feel she values winning the larger fight over their wellbeing.
-- **Limited Diplomatic Subtlety**: While effective with direct negotiations, Athalwa sometimes misses the nuances of courtly politics in more cultured realms. The Bizarian League and other complex political entities sometimes take advantage of her more straightforward approach.
-- **Dependence on Visions**: Should her mystical abilities fade or prove unreliable, her authority would be severely compromised. Evidence of false visions could destroy her completely.
+Mystical Burden
+: Her visions, while often accurate, sometimes cloud her judgment. She occasionally acts on intuitions that lack rational foundation, trusting her perception rather than evidence.
+
+Political Vulnerability
+: As a female War Chief operating outside traditional frameworks, Athalwa is perpetually vulnerable to challenges from conservative factions within her own people. Her authority, though real, remains contested.
+
+Emotional Distance
+: Her tendency to perceive events in larger, longer timescales than others makes her sometimes seem cold and dismissive of immediate human suffering. Warriors and clan members occasionally feel she values winning the larger fight over their wellbeing.
+
+Limited Diplomatic Subtlety
+: While effective with direct negotiations, Athalwa sometimes misses the nuances of courtly politics in more cultured realms. The Bizarian League and other complex political entities sometimes take advantage of her more straightforward approach.
+
+Dependence on Visions
+: Should her mystical abilities fade or prove unreliable, her authority would be severely compromised. Evidence of false visions could destroy her completely.
 
 ## Social
 
@@ -498,12 +516,17 @@ The Eastern Trade Consortium
 
 ## Plot Hooks
 
-1. **The Vision of Betrayal**: Athalwa experiences a terrible vision of betrayal from someone she trusts—but the vision is deliberately unclear about who the traitor is or what form the betrayal will take. As paranoia begins to grip her leadership, she must distinguish between threats and the anxiety that her visions create. The investigation leads to uncomfortable truths about which relationships are truly built on loyalty versus political convenience.
+The Vision of Betrayal
+: Athalwa experiences a terrible vision of betrayal from someone she trusts—but the vision is deliberately unclear about who the traitor is or what form the betrayal will take. As paranoia begins to grip her leadership, she must distinguish between threats and the anxiety that her visions create. The investigation leads to uncomfortable truths about which relationships are truly built on loyalty versus political convenience.
 
-2. **The Coalition Against Prophecy**: Conservative elders, supported secretly by the Shadow Throne Empire, begin openly challenging Athalwa's claim that her visions are true. They propose a ritual to test them—a ritual designed to fail even if her visions are real. Athalwa must navigate this political trap while maintaining her authority and the support of her warriors.
+The Coalition Against Prophecy
+: Conservative elders, supported secretly by the Shadow Throne Empire, begin openly challenging Athalwa's claim that her visions are true. They propose a ritual to test them—a ritual designed to fail even if her visions are real. Athalwa must navigate this political trap while maintaining her authority and the support of her warriors.
 
-3. **The Lost Kingdom**: Athalwa's visions begin revealing a civilization that existed centuries before even the oldest Vristwald legends—an advanced kingdom in the far north that was deliberately hidden or destroyed. Investigation into these visions leads toward territories no Vristwald explorer has ventured into in living memory, promising both discovery and terrible danger from whatever drove the ancients away.
+The Lost Kingdom
+: Athalwa's visions begin revealing a civilization that existed centuries before even the oldest Vristwald legends—an advanced kingdom in the far north that was deliberately hidden or destroyed. Investigation into these visions leads toward territories no Vristwald explorer has ventured into in living memory, promising both discovery and terrible danger from whatever drove the ancients away.
 
-4. **The Diplomatic Gambit**: The Bizarian League formally proposes a marriage alliance between Athalwa and a powerful Bizarian noble—ostensibly to cement trade relationships and prevent future conflicts. Athalwa recognizes this as an attempt to diminish her authority by tying her to foreign politics, yet rejecting it would be interpreted as hostility and isolation. She must navigate this delicate negotiation while protecting her independence.
+The Diplomatic Gambit
+: The Bizarian League formally proposes a marriage alliance between Athalwa and a powerful Bizarian noble—ostensibly to cement trade relationships and prevent future conflicts. Athalwa recognizes this as an attempt to diminish her authority by tying her to foreign politics, yet rejecting it would be interpreted as hostility and isolation. She must navigate this delicate negotiation while protecting her independence.
 
-5. **The Curse Upon the Land**: A blight begins spreading across Vristwald territory—crops fail, livestock sicken, and newborns are stillborn with increasing frequency. The conservative elders declare this proof of divine punishment for Athalwa's unorthodox leadership. Athalwa's visions are clouded and unclear about the cause. She must investigate what appears to be either supernatural curse, systematic poisoning, or enemy magic, while simultaneously defending her authority against those claiming the blight is divine punishment.
+The Curse Upon the Land
+: A blight begins spreading across Vristwald territory—crops fail, livestock sicken, and newborns are stillborn with increasing frequency. The conservative elders declare this proof of divine punishment for Athalwa's unorthodox leadership. Athalwa's visions are clouded and unclear about the cause. She must investigate what appears to be either supernatural curse, systematic poisoning, or enemy magic, while simultaneously defending her authority against those claiming the blight is divine punishment.

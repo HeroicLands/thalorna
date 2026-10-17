@@ -465,20 +465,29 @@ A glider in the canopy can leave a ground pursuer behind in one launch, and land
 
 ## Attributes
 
-- **Strength:** 3-6 (1d4+2)
+Strength
+: 3-6 (1d4+2)
 
-- **Endurance:** 5-8 (1d4+4)
+Endurance
+: 5-8 (1d4+4)
 
-- **Dexterity:** 12-17 (1d6+11)
+Dexterity
+: 12-17 (1d6+11)
 
-- **Agility:** 13-18 (1d6+12)
+Agility
+: 13-18 (1d6+12)
 
-- **Perception:** 11-16 (1d6+10)
+Perception
+: 11-16 (1d6+10)
 
-- **Aura:** 6-9 (1d4+5)
+Aura
+: 6-9 (1d4+5)
 
-- **Will:** 7-10 (1d4+6)
+Will
+: 7-10 (1d4+6)
 
-- **Reasoning:** 5-10 (1d6+4)
+Reasoning
+: 5-10 (1d6+4)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

@@ -92,9 +92,20 @@ Zu-Zel-Iaqtet uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and as the so
 
 ## See Also
 
-- [[affiliation-borderselatu|The Border Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-balqu|Balku]]—Selat capital
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—Pantheon (Saq'aru)
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-zuzeliaqtetnome|Zu-Zel-Iaqtet]]—The land the selat holds
+[[affiliation-borderselatu|The Border Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-balqu|Balku]]
+: Selat capital
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: Pantheon (Saq'aru)
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-zuzeliaqtetnome|Zu-Zel-Iaqtet]]
+: The land the selat holds

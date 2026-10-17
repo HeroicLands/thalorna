@@ -324,20 +324,29 @@ It lies well and gladly, understands how people think, and leads outsiders into 
 
 ## Attributes
 
-- **Strength:** 6-9 (1d4+5)
+Strength
+: 6-9 (1d4+5)
 
-- **Endurance:** 7-10 (1d4+6)
+Endurance
+: 7-10 (1d4+6)
 
-- **Dexterity:** 13-16 (1d4+12)
+Dexterity
+: 13-16 (1d4+12)
 
-- **Agility:** 13-16 (1d4+12)
+Agility
+: 13-16 (1d4+12)
 
-- **Perception:** 11-14 (1d4+10)
+Perception
+: 11-14 (1d4+10)
 
-- **Aura:** 6-9 (1d4+5)
+Aura
+: 6-9 (1d4+5)
 
-- **Will:** 7-10 (1d4+6)
+Will
+: 7-10 (1d4+6)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 11-14 (1d4+10)
+Creativity
+: 11-14 (1d4+10)

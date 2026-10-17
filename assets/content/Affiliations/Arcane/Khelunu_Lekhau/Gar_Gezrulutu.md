@@ -64,6 +64,11 @@ The House is the Red half of a pair. [[affiliation-garnlghkhlth|Gar-Anlagh'Khela
 
 ## See Also
 
-- [[lore-gezrulutu|Gezru'lutu]]—the domain
-- [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
-- [[place-khelunu|Khelunu]]—where the Eight are taught
+[[lore-gezrulutu|Gezru'lutu]]
+: the domain
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the philosophy and the other seven domains
+
+[[place-khelunu|Khelunu]]
+: where the Eight are taught

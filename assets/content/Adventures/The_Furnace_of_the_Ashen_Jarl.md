@@ -249,10 +249,23 @@ Each hammer stroke comes from inside the furnace. **Jarl Brildorv** is there, in
 
 ## See Also
 
-- [[place-vruthborg|Vruthborg]]—the fortress and its foundry
-- [[place-vruthborg#truth|The truth of Vruthborg]]—what the jarl believes, and what feeds the binding
-- [[place-flarnfjall|Flarnfjall]]—the mountains and their pass road
-- [[place-flarnbrekka|Flarnbrekka]]—the mining camp whose rule is fire, then water
-- [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—carrying the dead out through the wall
-- [[lore-undead|Undead]]—the Helspawn and the driven dead
-- [[lore-theshadow|The Shadow]]—what binds them
+[[place-vruthborg|Vruthborg]]
+: the fortress and its foundry
+
+[[place-vruthborg#truth|The truth of Vruthborg]]
+: what the jarl believes, and what feeds the binding
+
+[[place-flarnfjall|Flarnfjall]]
+: the mountains and their pass road
+
+[[place-flarnbrekka|Flarnbrekka]]
+: the mining camp whose rule is fire, then water
+
+[[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]
+: carrying the dead out through the wall
+
+[[lore-undead|Undead]]
+: the Helspawn and the driven dead
+
+[[lore-theshadow|The Shadow]]
+: what binds them

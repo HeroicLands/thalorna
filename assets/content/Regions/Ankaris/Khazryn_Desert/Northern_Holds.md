@@ -32,6 +32,11 @@ A Targud fur-trader pays well for any word of the doorway under the tide line, a
 
 ## See Also
 
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the region the forest bounds
-- [[lore-flkkhazar|Khazár Folk]]—the Deep Folk
-- [[lore-theithari|The Ithari]]—the people who came before
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the region the forest bounds
+
+[[lore-flkkhazar|Khazár Folk]]
+: the Deep Folk
+
+[[lore-theithari|The Ithari]]
+: the people who came before

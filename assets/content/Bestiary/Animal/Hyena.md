@@ -267,20 +267,29 @@ Hyenas fight far more effectively alongside clan members, and they can execute c
 
 ## Attributes
 
-- **Strength:** 12-17 (1d6+11)
+Strength
+: 12-17 (1d6+11)
 
-- **Endurance:** 13-18 (1d6+12)
+Endurance
+: 13-18 (1d6+12)
 
-- **Dexterity:** 10-15 (1d6+9)
+Dexterity
+: 10-15 (1d6+9)
 
-- **Agility:** 11-16 (1d6+10)
+Agility
+: 11-16 (1d6+10)
 
-- **Perception:** 12-17 (1d6+11)
+Perception
+: 12-17 (1d6+11)
 
-- **Aura:** 8-13 (1d6+7)
+Aura
+: 8-13 (1d6+7)
 
-- **Will:** 11-16 (1d6+10)
+Will
+: 11-16 (1d6+10)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 5-8 (1d4+4)
+Creativity
+: 5-8 (1d4+4)

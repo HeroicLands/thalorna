@@ -73,11 +73,20 @@ Solrún is shown as a radiant and sensual goddess of striking beauty and irresis
 
 The faith's highest rank, Hofgudi or Hofgudja, is held by women alone. Every rung belongs to a feast-hall:
 
-- Refused the Blet: denied the offering at a feast-hall, and cut from the clergy and from the generosity that measures standing there.
-- Bletmadr: attends the blet at a feast-hall and shares its meal and the gold given away there.
-- Hofsmadr: given to a feast-hall's hov young, laboring at its stores and its rites before any claim to the priesthood.
-- Gudi / Gudja: ordained to keep a feast-hall's rites and the giving-away of its gold.
-- Hofgudi / Hofgudja: consecrates feast-hall hovs, ordains their gudar, and performs the great blet at a season's turning.
+Refused the Blet
+: denied the offering at a feast-hall, and cut from the clergy and from the generosity that measures standing there.
+
+Bletmadr
+: attends the blet at a feast-hall and shares its meal and the gold given away there.
+
+Hofsmadr
+: given to a feast-hall's hov young, laboring at its stores and its rites before any claim to the priesthood.
+
+Gudi / Gudja
+: ordained to keep a feast-hall's rites and the giving-away of its gold.
+
+Hofgudi / Hofgudja
+: consecrates feast-hall hovs, ordains their gudar, and performs the great blet at a season's turning.
 
 The faith teaches seduction and charm, mercantilism and mathematics. Two kinds of servant belong to the goddess: the **Seraphs of Desire**, ethereal beings who embody her allure and guide the rites of love and beauty, and the **Gilded Wisps**, spirits that bring wealth and prosperity to her followers and often appear as shimmering lights.
 
@@ -93,7 +102,14 @@ Three ordeals are held to win her favor. The **[Golden Pilgrimage]{.name data-ty
 
 ## See Also
 
-- [[affiliation-solvinir|Sólvinir]]—the Order of the Enchanted Rose, priests who counsel the powerful in love and beauty
-- [[affiliation-gullverdir|Gullverdir]]—the Keepers of the Golden Veil, guardians of Solrún's sacred wealth
-- [[affiliation-gullmal|Gullmál]]—the Gilded Voices, priests who serve her faith as diplomats and negotiators
-- [[affiliation-hringsystur|Hringsistur]]—the Ring-Sisters, sworn to make wealth and give it away
+[[affiliation-solvinir|Sólvinir]]
+: the Order of the Enchanted Rose, priests who counsel the powerful in love and beauty
+
+[[affiliation-gullverdir|Gullverdir]]
+: the Keepers of the Golden Veil, guardians of Solrún's sacred wealth
+
+[[affiliation-gullmal|Gullmál]]
+: the Gilded Voices, priests who serve her faith as diplomats and negotiators
+
+[[affiliation-hringsystur|Hringsistur]]
+: the Ring-Sisters, sworn to make wealth and give it away

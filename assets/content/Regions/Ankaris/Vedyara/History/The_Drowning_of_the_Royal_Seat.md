@@ -56,6 +56,11 @@ What the river taught the plain is visible all along it. Nobody builds on the fl
 
 ## See Also
 
-- [[place-drownedcptl|The Drowned Capital]]—the site under the river
-- [[place-mahanadi|The Mahanodi]]—the river that moved
-- [[lore-mhndkngdm|The Kingdom of Mahanodi]]—the kingdom whose seat it was
+[[place-drownedcptl|The Drowned Capital]]
+: the site under the river
+
+[[place-mahanadi|The Mahanodi]]
+: the river that moved
+
+[[lore-mhndkngdm|The Kingdom of Mahanodi]]
+: the kingdom whose seat it was

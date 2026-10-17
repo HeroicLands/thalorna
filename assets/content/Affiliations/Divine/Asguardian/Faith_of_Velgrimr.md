@@ -73,11 +73,20 @@ His temples are rare and are usually hidden from plain sight, disguised as ordin
 
 Every rung belongs to a hidden hov in Malagna's ports:
 
-- Refused the Blet: denied the offering at a hidden hov in Malagna's ports, and cut from the clergy and from the secrecy that protects it.
-- Bletmadr: attends the blet at a hidden hov in Malagna's ports and shares an offering rarely spoken of outside it.
-- Hofsmadr: given young to a hidden hov in Malagna's ports, laboring at its secrecy before any claim to the priesthood.
-- Gudi / Gudja: ordained to keep a hidden hov's rites in Malagna's ports.
-- Hofgudi / Hofgudja: consecrates the hidden hovs of Malagna's ports, ordains their gudar, and performs the great blet at a season's turning.
+Refused the Blet
+: denied the offering at a hidden hov in Malagna's ports, and cut from the clergy and from the secrecy that protects it.
+
+Bletmadr
+: attends the blet at a hidden hov in Malagna's ports and shares an offering rarely spoken of outside it.
+
+Hofsmadr
+: given young to a hidden hov in Malagna's ports, laboring at its secrecy before any claim to the priesthood.
+
+Gudi / Gudja
+: ordained to keep a hidden hov's rites in Malagna's ports.
+
+Hofgudi / Hofgudja
+: consecrates the hidden hovs of Malagna's ports, ordains their gudar, and performs the great blet at a season's turning.
 
 The faith teaches disguise and infiltration, espionage and subterfuge, manipulation and persuasion, alchemy and herbalism in the service of poisons, intrigue and stealth. Two kinds of servant belong to the god: the **Shadow Serpents**, ethereal snakes that carry his messages and appear in times of deception or mischief, and the **Whispering Winds**, spirits that carry secrets and lies and help his followers with their schemes.
 
@@ -93,6 +102,11 @@ Four ordeals are held to win his favor. In the **[Shadow Walk]{.name data-type="
 
 ## See Also
 
-- [[affiliation-skygrimr|Skigrimr]]—the Order of the Shifting Veil, priests trained in illusion and disguise as spies
-- [[affiliation-ormgeir|Ormgeir]]—the Serpentfangs, fighters who weaken their foes with poison before the blade
-- [[affiliation-velskari|Vélskari]]—the Knights of the Shifting Shadow, a militant order guarding Velgrímr's hidden temples
+[[affiliation-skygrimr|Skigrimr]]
+: the Order of the Shifting Veil, priests trained in illusion and disguise as spies
+
+[[affiliation-ormgeir|Ormgeir]]
+: the Serpentfangs, fighters who weaken their foes with poison before the blade
+
+[[affiliation-velskari|Vélskari]]
+: the Knights of the Shifting Shadow, a militant order guarding Velgrímr's hidden temples

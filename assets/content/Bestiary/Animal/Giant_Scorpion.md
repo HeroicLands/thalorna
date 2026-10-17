@@ -245,20 +245,29 @@ Among warm rock a still scorpion is a rock, and a man who comes within reach of 
 
 ## Attributes
 
-- **Strength:** 14-19 (1d6+13)
+Strength
+: 14-19 (1d6+13)
 
-- **Endurance:** 16-21 (1d6+15)
+Endurance
+: 16-21 (1d6+15)
 
-- **Dexterity:** 9-14 (1d6+8)
+Dexterity
+: 9-14 (1d6+8)
 
-- **Agility:** 8-13 (1d6+7)
+Agility
+: 8-13 (1d6+7)
 
-- **Perception:** 10-15 (1d6+9)
+Perception
+: 10-15 (1d6+9)
 
-- **Aura:** 8-13 (1d6+7)
+Aura
+: 8-13 (1d6+7)
 
-- **Will:** 11-16 (1d6+10)
+Will
+: 11-16 (1d6+10)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

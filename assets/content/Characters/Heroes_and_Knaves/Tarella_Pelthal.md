@@ -447,27 +447,37 @@ Tárella is motivated by a drive to prevent tragedy through accurate knowledge, 
 
 ### Strengths
 
-- **Extraordinary Perception and Awareness**: Her perception and awareness let her notice details in charts, star positions, and the signs around her that others miss entirely. She can read nuance and pattern with almost uncanny accuracy.
+Extraordinary Perception and Awareness
+: Her perception and awareness let her notice details in charts, star positions, and the signs around her that others miss entirely. She can read nuance and pattern with almost uncanny accuracy.
 
-- **Mathematical Mastery**: Her reasoning and mathematics, combined with extensive knowledge of astrology, allow her to perform complex calculations rapidly and accurately. She can cross-reference multiple astronomical tables and reach conclusions that would take others hours.
+Mathematical Mastery
+: Her reasoning and mathematics, combined with extensive knowledge of astrology, allow her to perform complex calculations rapidly and accurately. She can cross-reference multiple astronomical tables and reach conclusions that would take others hours.
 
-- **Fluent Communication**: Her eloquence, discourse, and voice allow her to explain complex concepts clearly and to persuade merchants and captains to follow her advice, even when it contradicts their instincts or previous plans.
+Fluent Communication
+: Her eloquence, discourse, and voice allow her to explain complex concepts clearly and to persuade merchants and captains to follow her advice, even when it contradicts their instincts or previous plans.
 
-- **Scholarly Expertise**: Her folk knowledge and script make her a repository of navigational and astrological lore. She can reference historical precedent to support her recommendations and has access to rare texts others cannot interpret.
+Scholarly Expertise
+: Her folk knowledge and script make her a repository of navigational and astrological lore. She can reference historical precedent to support her recommendations and has access to rare texts others cannot interpret.
 
-- **Reliable Consultation**: Her will makes her steady under pressure, and her presence of command means that those seeking her advice trust her guidance. She does not second-guess herself once committed to a prediction.
+Reliable Consultation
+: Her will makes her steady under pressure, and her presence of command means that those seeking her advice trust her guidance. She does not second-guess herself once committed to a prediction.
 
 ### Weaknesses
 
-- **Physical Vulnerability to Sea Travel**: Her seasickness is not a minor inconvenience—it is disabling. She cannot be on the water for extended periods without becoming incapacitated, severely limiting her ability to conduct research aboard ships or to travel to distant locations. This creates a paradox: the world's most knowledgeable maritime astrologer cannot actually travel by sea.
+Physical Vulnerability to Sea Travel
+: Her seasickness is not a minor inconvenience—it is disabling. She cannot be on the water for extended periods without becoming incapacitated, severely limiting her ability to conduct research aboard ships or to travel to distant locations. This creates a paradox: the world's most knowledgeable maritime astrologer cannot actually travel by sea.
 
-- **Emotional Isolation**: Her dedication to her craft has left her with minimal social connections. This isolation can become severe, and she sometimes struggles with loneliness. Her lack of charm makes forming new relationships difficult.
+Emotional Isolation
+: Her dedication to her craft has left her with minimal social connections. This isolation can become severe, and she sometimes struggles with loneliness. Her lack of charm makes forming new relationships difficult.
 
-- **Weight of Responsibility**: She carries deep guilt about past failures, which sometimes manifests as excessive caution. She may refuse commissions that carry risk she has not fully calculated, potentially being too conservative in her advice.
+Weight of Responsibility
+: She carries deep guilt about past failures, which sometimes manifests as excessive caution. She may refuse commissions that carry risk she has not fully calculated, potentially being too conservative in her advice.
 
-- **Physical Frailty**: Her strength and endurance are her lowest attributes, making her physically vulnerable. She requires assistance with tasks requiring strength and is easily fatigued by demanding physical labor.
+Physical Frailty
+: Her strength and endurance are her lowest attributes, making her physically vulnerable. She requires assistance with tasks requiring strength and is easily fatigued by demanding physical labor.
 
-- **Limited Combat Capability**: Beyond her dagger and general lack of martial skills, she is unprepared for violence. She must depend entirely on others for physical protection if threatened.
+Limited Combat Capability
+: Beyond her dagger and general lack of martial skills, she is unprepared for violence. She must depend entirely on others for physical protection if threatened.
 
 ## Social
 
@@ -503,12 +513,17 @@ the Aureldian Academy of Celestial Studies
 
 ## Plot Hooks
 
-1. **The Impossible Celestial Conjunction**: For the first time in her working life, the stars are moving in ways that contradict every mathematical model and historical precedent Tárella possesses. A celestial conjunction is occurring that should not be possible according to known mechanics, and the signs suggest a catastrophe of unprecedented magnitude will occur unless action is taken. No merchant will listen to a prediction based on impossible astronomy, and Tárella must somehow prove both that her calculations are correct and that the threat is real before the convergence date arrives.
+The Impossible Celestial Conjunction
+: For the first time in her working life, the stars are moving in ways that contradict every mathematical model and historical precedent Tárella possesses. A celestial conjunction is occurring that should not be possible according to known mechanics, and the signs suggest a catastrophe of unprecedented magnitude will occur unless action is taken. No merchant will listen to a prediction based on impossible astronomy, and Tárella must somehow prove both that her calculations are correct and that the threat is real before the convergence date arrives.
 
-2. **the Drowned Captain's Map**: A waterlogged map surfaces in a merchant's possession, purporting to show trade routes recommended by an astrologer from three centuries past. When Tárella examines it, she realizes that the routes recommended perfectly align with her own predictions for next season's trade winds—suggesting either that celestial patterns are cyclical in ways she hasn't understood, or that someone with knowledge of her work created a false artifact. She must determine which is true and whether the map holds real value or is an elaborate deception.
+the Drowned Captain's Map
+: A waterlogged map surfaces in a merchant's possession, purporting to show trade routes recommended by an astrologer from three centuries past. When Tárella examines it, she realizes that the routes recommended perfectly align with her own predictions for next season's trade winds—suggesting either that celestial patterns are cyclical in ways she hasn't understood, or that someone with knowledge of her work created a false artifact. She must determine which is true and whether the map holds real value or is an elaborate deception.
 
-3. **The Sea-Curse Investigation**: A series of merchant vessels have been mysteriously lost at sea, their final reports indicating they were following standard trading practices and experiencing normal weather. Yet Tárella's records show that none of those ships should have encountered problems according to her astral calculations. She is hired to investigate whether a curse, sorcery, or unknown natural phenomenon is affecting maritime travel, and her investigation suggests interference with the natural cycles themselves.
+The Sea-Curse Investigation
+: A series of merchant vessels have been mysteriously lost at sea, their final reports indicating they were following standard trading practices and experiencing normal weather. Yet Tárella's records show that none of those ships should have encountered problems according to her astral calculations. She is hired to investigate whether a curse, sorcery, or unknown natural phenomenon is affecting maritime travel, and her investigation suggests interference with the natural cycles themselves.
 
-4. **The Prophecy in Her Own Name**: Tárella discovers an ancient text that contains a prophecy specifically naming someone called "Tárella the Star-Reader," describing events that have already occurred in her life with terrifying accuracy. The prophecy continues with predictions of her death under specific circumstances within a defined timeframe. The prophecy may be authentic and apply to her, it may be a coincidence, or someone may have created a false prophecy with her name deliberately inserted to manipulate her.
+The Prophecy in Her Own Name
+: Tárella discovers an ancient text that contains a prophecy specifically naming someone called "Tárella the Star-Reader," describing events that have already occurred in her life with terrifying accuracy. The prophecy continues with predictions of her death under specific circumstances within a defined timeframe. The prophecy may be authentic and apply to her, it may be a coincidence, or someone may have created a false prophecy with her name deliberately inserted to manipulate her.
 
-5. **the Silent Mutiny**: A merchant captain she has worked with for years arrives at her door asking for an emergency consultation. He believes his crew is about to mutiny based on astrological interpretation—they believe that the stars indicate a terrible fate will befall any ship with his command. Tárella has to work out whether the crew's interpretation has any validity, what their true motivations are, and how to handle the political and personal consequences of what might be a conspiracy disguised as superstition.
+the Silent Mutiny
+: A merchant captain she has worked with for years arrives at her door asking for an emergency consultation. He believes his crew is about to mutiny based on astrological interpretation—they believe that the stars indicate a terrible fate will befall any ship with his command. Tárella has to work out whether the crew's interpretation has any validity, what their true motivations are, and how to handle the political and personal consequences of what might be a conspiracy disguised as superstition.

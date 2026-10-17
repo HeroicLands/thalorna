@@ -316,20 +316,29 @@ Its body burns, and it knows it. Fire drives it back faster than any weapon, and
 
 ## Attributes
 
-- **Strength:** 13-16 (1d4+12)
+Strength
+: 13-16 (1d4+12)
 
-- **Endurance:** 11-14 (1d4+10)
+Endurance
+: 11-14 (1d4+10)
 
-- **Dexterity:** 9-12 (1d4+8)
+Dexterity
+: 9-12 (1d4+8)
 
-- **Agility:** 11-14 (1d4+10)
+Agility
+: 11-14 (1d4+10)
 
-- **Perception:** 7-10 (1d4+6)
+Perception
+: 7-10 (1d4+6)
 
-- **Aura:** 9-12 (1d4+8)
+Aura
+: 9-12 (1d4+8)
 
-- **Will:** 9-12 (1d4+8)
+Will
+: 9-12 (1d4+8)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

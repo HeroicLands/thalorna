@@ -18,7 +18,14 @@ On the coasts the liturgy has a rival in memory. In the coastal tellings the Ás
 
 ## See Also
 
-- [[affiliation-asguardian|Asguardian Pantheon]]—the Ten, and the quarrels the Ásvinir stand through
-- [[lore-nahilddty|Nahild]]—one of the two the Ásvinir stand against
-- [[lore-svartbrandrdty|Svartbrandr]]—the other, who burns the world at Aldarlok
-- [[miscgear-hornnjordur|The Horn of Hafvald]]—the relic that keeps the older name
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the Ten, and the quarrels the Ásvinir stand through
+
+[[lore-nahilddty|Nahild]]
+: one of the two the Ásvinir stand against
+
+[[lore-svartbrandrdty|Svartbrandr]]
+: the other, who burns the world at Aldarlok
+
+[[miscgear-hornnjordur|The Horn of Hafvald]]
+: the relic that keeps the older name

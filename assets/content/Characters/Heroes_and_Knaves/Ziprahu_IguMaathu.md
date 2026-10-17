@@ -443,19 +443,37 @@ Ziprahu is driven by a desire to be the best locksmith who has ever lived, to su
 
 ### Strengths
 
-- **Lock Expertise**: Ziprahu's understanding of locking mechanisms approaches the theoretical and mathematical. He can design locks of such complexity that only his own hand can open them, and he can analyze any existing lock for weaknesses within minutes.
-- **Attention to Detail**: Every lock he creates is an object of art—symmetrical, balanced, built to standards that exceed client requirements. His work is durable beyond what function alone demands because he cannot produce something mediocre.
-- **Absolute Trustworthiness**: In a profession where dishonesty could be enormously profitable, Ziprahu has never once betrayed a client's secrets or provided information to potential thieves. His word is unquestionable.
-- **Problem-Solving Ingenuity**: Given any security challenge, Ziprahu can devise new solutions that combine his technical knowledge with creative thinking. He has designed the protections of the most valuable vaults in the Empire.
-- **Scholarly Knowledge**: Beyond practical lock-craft, Ziprahu has studied the history of locks, security philosophy, and even the metaphysical meanings of barriers and protection. This theoretical grounding makes him a resource for matters beyond simple mechanics.
+Lock Expertise
+: Ziprahu's understanding of locking mechanisms approaches the theoretical and mathematical. He can design locks of such complexity that only his own hand can open them, and he can analyze any existing lock for weaknesses within minutes.
+
+Attention to Detail
+: Every lock he creates is an object of art—symmetrical, balanced, built to standards that exceed client requirements. His work is durable beyond what function alone demands because he cannot produce something mediocre.
+
+Absolute Trustworthiness
+: In a profession where dishonesty could be enormously profitable, Ziprahu has never once betrayed a client's secrets or provided information to potential thieves. His word is unquestionable.
+
+Problem-Solving Ingenuity
+: Given any security challenge, Ziprahu can devise new solutions that combine his technical knowledge with creative thinking. He has designed the protections of the most valuable vaults in the Empire.
+
+Scholarly Knowledge
+: Beyond practical lock-craft, Ziprahu has studied the history of locks, security philosophy, and even the metaphysical meanings of barriers and protection. This theoretical grounding makes him a resource for matters beyond simple mechanics.
 
 ### Weaknesses
 
-- **Inability to Market Himself**: Ziprahu's complete lack of social skill means he relies on reputation and word-of-mouth for work. He cannot negotiate aggressively or sell himself to new clients, often losing lucrative contracts to more personable competitors.
-- **Obsessive Perfectionism**: He sometimes becomes paralyzed by the pursuit of incremental improvements, delaying commissions unnecessarily. A lock that is ninety-nine percent perfect is, to him, nearly worthless if that final fraction cannot be achieved.
-- **Rigidity in Social Situation**: His inability to read social cues or adapt his tone to different contexts makes him seem dismissive or rude, even when he intends no offense. Working relationships are cordial but never warm.
-- **Vulnerability to Manipulation**: Because Ziprahu trusts completely in contracts and systems, those skilled in social manipulation or deception can sometimes take advantage of the letter of agreements while violating their spirit. He struggles to recognize when he is being maneuvered.
-- **Physical Limitations**: His hands, while still dexterous, have begun to show the early signs of aging—minor tremors in certain light, occasional stiffness in cold weather. This terrifies him, as everything he is depends on the precision of his hands.
+Inability to Market Himself
+: Ziprahu's complete lack of social skill means he relies on reputation and word-of-mouth for work. He cannot negotiate aggressively or sell himself to new clients, often losing lucrative contracts to more personable competitors.
+
+Obsessive Perfectionism
+: He sometimes becomes paralyzed by the pursuit of incremental improvements, delaying commissions unnecessarily. A lock that is ninety-nine percent perfect is, to him, nearly worthless if that final fraction cannot be achieved.
+
+Rigidity in Social Situation
+: His inability to read social cues or adapt his tone to different contexts makes him seem dismissive or rude, even when he intends no offense. Working relationships are cordial but never warm.
+
+Vulnerability to Manipulation
+: Because Ziprahu trusts completely in contracts and systems, those skilled in social manipulation or deception can sometimes take advantage of the letter of agreements while violating their spirit. He struggles to recognize when he is being maneuvered.
+
+Physical Limitations
+: His hands, while still dexterous, have begun to show the early signs of aging—minor tremors in certain light, occasional stiffness in cold weather. This terrifies him, as everything he is depends on the precision of his hands.
 
 ## Social
 
@@ -494,12 +512,17 @@ The Scholar's Archive
 
 ## Plot Hooks
 
-1. **The Unbreakable Lock**: A mysterious patron approaches Ziprahu with a sealed box containing only instructions and an extraordinary fee—forge a lock so perfect, so absolutely impregnable, that it becomes famous. The patron provides no explanation of what it will secure or why such a lock is needed. Ziprahu, intrigued despite his usual caution, accepts and becomes obsessed with the commission, spending months creating what he believes to be the summit of his life's work. Only when the lock is complete does he discover through discreet inquiry that the patron intends to use it to seal away something magical—perhaps dangerous, perhaps sacred. The lock is intended to contain a malevolent entity or imprisoned consciousness rather than to protect treasure. Ziprahu has to judge whether his masterwork has been turned to purposes he would oppose, and whether he can live with having created it.
+The Unbreakable Lock
+: A mysterious patron approaches Ziprahu with a sealed box containing only instructions and an extraordinary fee—forge a lock so perfect, so absolutely impregnable, that it becomes famous. The patron provides no explanation of what it will secure or why such a lock is needed. Ziprahu, intrigued despite his usual caution, accepts and becomes obsessed with the commission, spending months creating what he believes to be the summit of his life's work. Only when the lock is complete does he discover through discreet inquiry that the patron intends to use it to seal away something magical—perhaps dangerous, perhaps sacred. The lock is intended to contain a malevolent entity or imprisoned consciousness rather than to protect treasure. Ziprahu has to judge whether his masterwork has been turned to purposes he would oppose, and whether he can live with having created it.
 
-2. **The Apprentice's Betrayal**: Ziprahu finally agrees to take on a formal apprentice after decades of refusing, recognizing that his techniques cannot be lost when age eventually takes him from his craft. The apprentice, young [[being-menlaha|Menlaha]], is brilliant and dedicated, soaking up knowledge at an almost supernatural rate. After two years of intense training, Menlaha steals Ziprahu's masterwork—a lock design so cunning it can be opened by three specific keys, none alone sufficient, working in concert. Menlaha disappears into the criminal underworld, and Ziprahu discovers that his former apprentice is now designing locks for thieves, specifically locks intended to be broken by collaborators or safeguards that can be circumvented through methods only Ziprahu ever taught.
+The Apprentice's Betrayal
+: Ziprahu finally agrees to take on a formal apprentice after decades of refusing, recognizing that his techniques cannot be lost when age eventually takes him from his craft. The apprentice, young [[being-menlaha|Menlaha]], is brilliant and dedicated, soaking up knowledge at an almost supernatural rate. After two years of intense training, Menlaha steals Ziprahu's masterwork—a lock design so cunning it can be opened by three specific keys, none alone sufficient, working in concert. Menlaha disappears into the criminal underworld, and Ziprahu discovers that his former apprentice is now designing locks for thieves, specifically locks intended to be broken by collaborators or safeguards that can be circumvented through methods only Ziprahu ever taught.
 
-3. **The Living Lock**: An ancient lock from the [[lore-akhfirsttab|First Tablets]] is brought to Ziprahu for restoration—an artifact of such age and peculiar design that no one alive knows how to open it or what principles govern its operation. The lock appears to shift subtly when not directly observed, its tumbler alignment seeming different each time Ziprahu examines it. Stranger still, the lock seems to react to Ziprahu specifically, clicking and whirring whenever he approaches, as though recognizing him. Through research, he discovers the lock was designed by a mage of the First Tablets and was intended to open only "when the worthy successor arrives." Ziprahu becomes convinced that the lock is somehow aware and is choosing him to be the one to open whatever it secures. His obsession with understanding this mechanism threatens to consume him entirely.
+The Living Lock
+: An ancient lock from the [[lore-akhfirsttab|First Tablets]] is brought to Ziprahu for restoration—an artifact of such age and peculiar design that no one alive knows how to open it or what principles govern its operation. The lock appears to shift subtly when not directly observed, its tumbler alignment seeming different each time Ziprahu examines it. Stranger still, the lock seems to react to Ziprahu specifically, clicking and whirring whenever he approaches, as though recognizing him. Through research, he discovers the lock was designed by a mage of the First Tablets and was intended to open only "when the worthy successor arrives." Ziprahu becomes convinced that the lock is somehow aware and is choosing him to be the one to open whatever it secures. His obsession with understanding this mechanism threatens to consume him entirely.
 
-4. **The Counterfeiter's Workshop**: Authorities discover a criminal operation producing counterfeit locks—perfect replicas of Ziprahu's security mechanisms that function identically to his original work. No client can distinguish true Ziprahu locks from the forgeries without his personal inspection. This poses a catastrophic threat to his reputation and to the security of every installation he's ever made. The counterfeiter, a master craftsman themselves, has somehow stolen or deduced all of Ziprahu's techniques. Investigation reveals the counterfeiter is Master Zokhothu himself, who faked his retirement and has spent the last fifteen years secretly creating competition to prove that Ziprahu merely inherited his master's legacy rather than surpassing it. Ziprahu loses his unique position and faces the painful truth that his greatest achievement may be merely the continuation of another's work.
+The Counterfeiter's Workshop
+: Authorities discover a criminal operation producing counterfeit locks—perfect replicas of Ziprahu's security mechanisms that function identically to his original work. No client can distinguish true Ziprahu locks from the forgeries without his personal inspection. This poses a catastrophic threat to his reputation and to the security of every installation he's ever made. The counterfeiter, a master craftsman themselves, has somehow stolen or deduced all of Ziprahu's techniques. Investigation reveals the counterfeiter is Master Zokhothu himself, who faked his retirement and has spent the last fifteen years secretly creating competition to prove that Ziprahu merely inherited his master's legacy rather than surpassing it. Ziprahu loses his unique position and faces the painful truth that his greatest achievement may be merely the continuation of another's work.
 
-5. **The Philosophical Paradox**: A scholar and theologian approaches Ziprahu with a theoretical problem: if Ziprahu can design a lock that cannot be opened by any key, and another scholar can create an unbreakable key, what happens when they meet? It begins as an intellectual exercise, but then both the scholar and the key-maker begin commissioning Ziprahu's work in earnest. Ziprahu finds himself creating locks with knowledge that they will be tested against an unbreakable key, and he meets the limits of his craft and of perfection itself. As these creations enter the world, strange things begin to happen—the items they secure seem to exist in a state of philosophical uncertainty, simultaneously locked and unlocked, simultaneously protected and vulnerable. Ziprahu discovers he may have inadvertently created a pathway to a realm of pure paradox.
+The Philosophical Paradox
+: A scholar and theologian approaches Ziprahu with a theoretical problem: if Ziprahu can design a lock that cannot be opened by any key, and another scholar can create an unbreakable key, what happens when they meet? It begins as an intellectual exercise, but then both the scholar and the key-maker begin commissioning Ziprahu's work in earnest. Ziprahu finds himself creating locks with knowledge that they will be tested against an unbreakable key, and he meets the limits of his craft and of perfection itself. As these creations enter the world, strange things begin to happen—the items they secure seem to exist in a state of philosophical uncertainty, simultaneously locked and unlocked, simultaneously protected and vulnerable. Ziprahu discovers he may have inadvertently created a pathway to a realm of pure paradox.

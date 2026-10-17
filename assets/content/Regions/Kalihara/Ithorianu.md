@@ -37,8 +37,17 @@ A traveler comes to Ithorianu along the terrace walls from the Cloud Pass or by 
 
 ## See Also
 
-- [[place-klhrestrrc|The Eastern Terraces]]—the country the town stands in
-- [[place-klhrlake|The Bowl Lake]]—the water it looks across
-- [[place-koathevoi|Koathevoi]]—the terrace town to the south
-- [[place-mirthaan|Mirthaan]]—the sanctuary up the valley
-- [[place-ilovanu|Ilovanu]]—the port where the Council sits
+[[place-klhrestrrc|The Eastern Terraces]]
+: the country the town stands in
+
+[[place-klhrlake|The Bowl Lake]]
+: the water it looks across
+
+[[place-koathevoi|Koathevoi]]
+: the terrace town to the south
+
+[[place-mirthaan|Mirthaan]]
+: the sanctuary up the valley
+
+[[place-ilovanu|Ilovanu]]
+: the port where the Council sits

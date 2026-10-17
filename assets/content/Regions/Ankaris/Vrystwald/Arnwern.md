@@ -22,6 +22,11 @@ What remains is a burned clearing on the lake, which the Sons have begun to fort
 
 ## See Also
 
-- [[place-falkhaven|Falkhaven]]—the reach the village stood in
-- [[place-arnholt|Arnholt]]—the cliff-watch village on the same shore
-- [[lore-westernshore|The Sons on the Western Shore]]—the burning of Arnwern
+[[place-falkhaven|Falkhaven]]
+: the reach the village stood in
+
+[[place-arnholt|Arnholt]]
+: the cliff-watch village on the same shore
+
+[[lore-westernshore|The Sons on the Western Shore]]
+: the burning of Arnwern

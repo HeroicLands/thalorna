@@ -165,9 +165,20 @@ At the turning of that year the galleries of the fourth tower above the ninth st
 
 ## See Also
 
-- [[lore-khazarturn|Khazartúrn]]—the city of the seven towers, held jointly beneath them until its fall
-- [[lore-khazturnrsd|The Raising of Khazartúrn]]—the towers, one to each clan, and the city the account calls the city
-- [[lore-khazariclt|Khazari]]—the elders of the houses, the share from the gate, and what the record holds against a name
-- [[lore-flkkhazar|Khazár Folk]]—the seven clans and the holds
-- [[skill-khazarlng|Khazari Language]]—the clan names, the house names and the count in sixteens
-- [[skill-khazarlng#lexicon|Khazari Lexicon]]—the skeletons the account's words are built on
+[[lore-khazarturn|Khazartúrn]]
+: the city of the seven towers, held jointly beneath them until its fall
+
+[[lore-khazturnrsd|The Raising of Khazartúrn]]
+: the towers, one to each clan, and the city the account calls the city
+
+[[lore-khazariclt|Khazari]]
+: the elders of the houses, the share from the gate, and what the record holds against a name
+
+[[lore-flkkhazar|Khazár Folk]]
+: the seven clans and the holds
+
+[[skill-khazarlng|Khazari Language]]
+: the clan names, the house names and the count in sixteens
+
+[[skill-khazarlng#lexicon|Khazari Lexicon]]
+: the skeletons the account's words are built on

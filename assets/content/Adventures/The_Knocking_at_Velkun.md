@@ -120,8 +120,17 @@ The adventure runs over three days and two nights. Day one is the arrival and th
 
 ## See Also
 
-- [[place-velkunvartun|Veshkunvartun]]—the gate and its knocking
-- [[place-velkunar|Veshkun]]—the ruin and its cellars
-- [[place-vahurdash|Vahurdash]]—the settlement and its house
-- [[lore-velkunsong|The Song of the Lost Town]]—the oath, the boy and the shield
-- [[lore-theshadow|The Shadow]]—what comes in where a rite is owed
+[[place-velkunvartun|Veshkunvartun]]
+: the gate and its knocking
+
+[[place-velkunar|Veshkun]]
+: the ruin and its cellars
+
+[[place-vahurdash|Vahurdash]]
+: the settlement and its house
+
+[[lore-velkunsong|The Song of the Lost Town]]
+: the oath, the boy and the shield
+
+[[lore-theshadow|The Shadow]]
+: what comes in where a rite is owed

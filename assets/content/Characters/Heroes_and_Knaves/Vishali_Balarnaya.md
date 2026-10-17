@@ -446,19 +446,37 @@ Vishali is driven by a contradictory pair of impulses: a desire for freedom so a
 
 ### Strengths
 
-- **Virtuosic Physical Performer**: Vishali's acrobatic abilities are extraordinary. She can scale walls, perform death-defying tumbling sequences, and move through spaces with the fluidity of water. Her body is a precise instrument.
-- **Master of Misdirection**: Her sleight of hand is superb, and her understanding of where an eye goes and how to lead it is nearly supernatural. She can make crowds see what she wants them to see and miss what she intends to hide.
-- **Cutting Wit**: Vishali possesses a rapier-sharp sense of humor and an ability to craft jokes that disarm even the most guarded audiences. Her timing is impeccable, and her understanding of human nature allows her to land jokes that cut precisely where intended.
-- **Dexterity**: Beyond acrobatics and sleight of hand, Vishali's manual dexterity extends to fine craftwork, drawing, and any task requiring precise finger control. She is an accomplished artist.
-- **Survival Resourcefulness**: Having survived loss and homelessness, Vishali possesses practical skills in cooking, herblore, and survival that make her capable of thriving in harsh conditions.
+Virtuosic Physical Performer
+: Vishali's acrobatic abilities are extraordinary. She can scale walls, perform death-defying tumbling sequences, and move through spaces with the fluidity of water. Her body is a precise instrument.
+
+Master of Misdirection
+: Her sleight of hand is superb, and her understanding of where an eye goes and how to lead it is nearly supernatural. She can make crowds see what she wants them to see and miss what she intends to hide.
+
+Cutting Wit
+: Vishali possesses a rapier-sharp sense of humor and an ability to craft jokes that disarm even the most guarded audiences. Her timing is impeccable, and her understanding of human nature allows her to land jokes that cut precisely where intended.
+
+Dexterity
+: Beyond acrobatics and sleight of hand, Vishali's manual dexterity extends to fine craftwork, drawing, and any task requiring precise finger control. She is an accomplished artist.
+
+Survival Resourcefulness
+: Having survived loss and homelessness, Vishali possesses practical skills in cooking, herblore, and survival that make her capable of thriving in harsh conditions.
 
 ### Weaknesses
 
-- **Reckless Impulsivity**: Vishali acts on whim without fully considering consequences. This has led her into dangerous situations multiple times, and her ability to talk her way out is not always successful.
-- **Boundary-Crossing Humor**: Her comedy, while brilliant, often offends those in power or those with delicate sensibilities. She has made enemies among the great kulas and the temples through jokes that crossed the line from clever to plainly insulting.
-- **Emotional Guardedness**: Having known great loss, Vishali struggles to form trusting relationships. Her tendency to maintain ironic distance prevents deep connection and leaves her fundamentally isolated.
-- **Physical Limitations in Direct Conflict**: While acrobatic, Vishali lacks strength and formal combat training. In any situation involving direct physical confrontation with armed opponents, she would be severely outmatched.
-- **Dependency on Performance**: Like all performers, Vishali's opinion of herself is deeply tied to audience reaction. When performances fail or audiences are unreceptive, she becomes withdrawn and bitter.
+Reckless Impulsivity
+: Vishali acts on whim without fully considering consequences. This has led her into dangerous situations multiple times, and her ability to talk her way out is not always successful.
+
+Boundary-Crossing Humor
+: Her comedy, while brilliant, often offends those in power or those with delicate sensibilities. She has made enemies among the great kulas and the temples through jokes that crossed the line from clever to plainly insulting.
+
+Emotional Guardedness
+: Having known great loss, Vishali struggles to form trusting relationships. Her tendency to maintain ironic distance prevents deep connection and leaves her fundamentally isolated.
+
+Physical Limitations in Direct Conflict
+: While acrobatic, Vishali lacks strength and formal combat training. In any situation involving direct physical confrontation with armed opponents, she would be severely outmatched.
+
+Dependency on Performance
+: Like all performers, Vishali's opinion of herself is deeply tied to audience reaction. When performances fail or audiences are unreceptive, she becomes withdrawn and bitter.
 
 ## Social
 
@@ -488,12 +506,17 @@ The Traveling Fair Network
 
 ## Plot Hooks
 
-1. **The Royal Commission**: A desperate royal court summons Vishali to perform for a dying prince whose spirits have grown so dark that nothing can lift them. The king offers a substantial reward if she can make the prince laugh. However, Vishali discovers that the prince's darkness stems from real wounds and political corruption, and making him laugh requires her to become involved in court intrigues that threaten her life and challenge her commitment to remaining uninvolved in others' struggles.
+The Royal Commission
+: A desperate royal court summons Vishali to perform for a dying prince whose spirits have grown so dark that nothing can lift them. The king offers a substantial reward if she can make the prince laugh. However, Vishali discovers that the prince's darkness stems from real wounds and political corruption, and making him laugh requires her to become involved in court intrigues that threaten her life and challenge her commitment to remaining uninvolved in others' struggles.
 
-2. **A Debtor's Gambit**: A crime boss known as **The Kohl-Eyed Syndicate** has purchased Vishali's debts from various creditors and demands she use her access to courts of the great houses to steal a particular artifact—a sacred relic stolen years ago that would cement the Syndicate's power if recovered. Vishali faces an impossible choice between bondage to criminals and betraying the trust of the Kulinas who have supported her.
+A Debtor's Gambit
+: A crime boss known as **The Kohl-Eyed Syndicate** has purchased Vishali's debts from various creditors and demands she use her access to courts of the great houses to steal a particular artifact—a sacred relic stolen years ago that would cement the Syndicate's power if recovered. Vishali faces an impossible choice between bondage to criminals and betraying the trust of the Kulinas who have supported her.
 
-3. **The Forbidden Performance**: An underground movement of revolutionaries seeking to overthrow the current Vedyara government discovers that Vishali's sharp wit and popularity make her the perfect vehicle for spreading seditious ideas. They approach her with a commission to perform a specific, politically charged satire that would ignite popular sentiment. The commission puts to Vishali whether her art is entertainment alone or a tool for political change.
+The Forbidden Performance
+: An underground movement of revolutionaries seeking to overthrow the current Vedyara government discovers that Vishali's sharp wit and popularity make her the perfect vehicle for spreading seditious ideas. They approach her with a commission to perform a specific, politically charged satire that would ignite popular sentiment. The commission puts to Vishali whether her art is entertainment alone or a tool for political change.
 
-4. **A Ghost from the Past**: Korvin the Magician, Vishali's former mentor, resurfaces after five years of absence, bearing news that he is dying. He claims to possess knowledge of Vishali's parents' deaths that was never revealed to her, suggesting that the fire that killed them was no accident. He bequeaths to her a cryptic final performance piece that, when executed, will supposedly reveal the truth. Vishali must complete a series of dangerous performances in specific locations while piecing together the mystery of her past.
+A Ghost from the Past
+: Korvin the Magician, Vishali's former mentor, resurfaces after five years of absence, bearing news that he is dying. He claims to possess knowledge of Vishali's parents' deaths that was never revealed to her, suggesting that the fire that killed them was no accident. He bequeaths to her a cryptic final performance piece that, when executed, will supposedly reveal the truth. Vishali must complete a series of dangerous performances in specific locations while piecing together the mystery of her past.
 
-5. **The Acrobat's Curse**: During a particularly daring performance, Vishali begins to experience strange physical maladies—moments of inexplicable weakness, ghostly pain, and sensations of being watched. A mysterious healer suggests that she has inadvertently angered a spirit through her irreverent mockery of sacred traditions, and that the curse can only be broken by performing a sacred ritual in a forbidden location, or by finding and making peace with the wronged spirit itself.
+The Acrobat's Curse
+: During a particularly daring performance, Vishali begins to experience strange physical maladies—moments of inexplicable weakness, ghostly pain, and sensations of being watched. A mysterious healer suggests that she has inadvertently angered a spirit through her irreverent mockery of sacred traditions, and that the curse can only be broken by performing a sacred ritual in a forbidden location, or by finding and making peace with the wronged spirit itself.

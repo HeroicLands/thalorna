@@ -337,20 +337,29 @@ For all their speed, shadowclaws are lightly built, and a heavy blow from a club
 
 ## Attributes
 
-- **Strength:** 13-18 (1d6+12)
+Strength
+: 13-18 (1d6+12)
 
-- **Endurance:** 11-16 (1d6+10)
+Endurance
+: 11-16 (1d6+10)
 
-- **Dexterity:** 14-19 (1d6+13)
+Dexterity
+: 14-19 (1d6+13)
 
-- **Agility:** 15-20 (1d6+14)
+Agility
+: 15-20 (1d6+14)
 
-- **Perception:** 15-20 (1d6+14)
+Perception
+: 15-20 (1d6+14)
 
-- **Aura:** 8-11 (1d4+7)
+Aura
+: 8-11 (1d4+7)
 
-- **Will:** 10-15 (1d6+9)
+Will
+: 10-15 (1d6+9)
 
-- **Reasoning:** 9-14 (1d6+8)
+Reasoning
+: 9-14 (1d6+8)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

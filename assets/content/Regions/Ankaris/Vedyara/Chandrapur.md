@@ -130,13 +130,32 @@ A person placed outside the tarona, by transgression or by birth, is excluded fr
 
 ## See Also
 
-- [[place-chandrapurland|Chendrapur Land]]—the land the city-state holds
-- [[place-chandrapur2|Chendrapur]]—the city itself
-- [[place-chandrmukha|Chandramukha]]—the port at the river's mouth and the fleet's base
-- [[place-moonhouse|The Moon House]]—the palace and the hall of nine seats
-- [[place-greatbazaar|The Great Bazaar]]—the crown's market ground
-- [[place-ganakahall|The Ganoka-shalda]]—the reckoners' college
-- [[affiliation-vyalendra2|Vyalendra]]—the rival city whose cloth the galleys carry
-- [[affiliation-varakpnthn|Varnuka Pantheon]]—religious tradition
-- [[place-vedyarargn|Vedyara Region]]—regional overview
-- [[skill-vedyarlng|Vedyari]]—language and naming
+[[place-chandrapurland|Chendrapur Land]]
+: the land the city-state holds
+
+[[place-chandrapur2|Chendrapur]]
+: the city itself
+
+[[place-chandrmukha|Chandramukha]]
+: the port at the river's mouth and the fleet's base
+
+[[place-moonhouse|The Moon House]]
+: the palace and the hall of nine seats
+
+[[place-greatbazaar|The Great Bazaar]]
+: the crown's market ground
+
+[[place-ganakahall|The Ganoka-shalda]]
+: the reckoners' college
+
+[[affiliation-vyalendra2|Vyalendra]]
+: the rival city whose cloth the galleys carry
+
+[[affiliation-varakpnthn|Varnuka Pantheon]]
+: religious tradition
+
+[[place-vedyarargn|Vedyara Region]]
+: regional overview
+
+[[skill-vedyarlng|Vedyari]]
+: language and naming

@@ -73,8 +73,17 @@ The Council allows the House its trade and sends the harbor-wardens to watch it;
 
 ## See Also
 
-- [[place-ilovanu|Ilovanu]]—the port whose council the House is
-- [[affiliation-councilisland|The Council of the Island]]—which allows the House its trade
-- [[affiliation-wardensapproaches|The Wardens of the Approaches]]—the pilots and harbor-wardens the House deals with
-- [[place-nalurithan|Nalurithan]]—the rival port and its merchant houses
-- [[skill-valtarlng|Valtari]]—the harbor pidgin of the quay
+[[place-ilovanu|Ilovanu]]
+: the port whose council the House is
+
+[[affiliation-councilisland|The Council of the Island]]
+: which allows the House its trade
+
+[[affiliation-wardensapproaches|The Wardens of the Approaches]]
+: the pilots and harbor-wardens the House deals with
+
+[[place-nalurithan|Nalurithan]]
+: the rival port and its merchant houses
+
+[[skill-valtarlng|Valtari]]
+: the harbor pidgin of the quay

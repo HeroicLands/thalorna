@@ -93,16 +93,34 @@ Relations with Tarvénia are the opposite in every respect: competitive, mistrus
 
 ## Notable Features
 
-- **The Academies:** Renowned institutions of learning covering philosophy, art, law, and magic. They attract students from across Ankaris and are a major source of Provenzia's cultural influence.
-- **The Courtly Tradition:** Provenzia's elaborate social code of courtly love, patronage, and artistic expression, which has influenced culture across the Vylarian Sea region.
-- **The Vineyards:** Provenzia's wines are famous across Mídhalión, and the wine trade is a cornerstone of the regional economy.
+The Academies
+: Renowned institutions of learning covering philosophy, art, law, and magic. They attract students from across Ankaris and are a major source of Provenzia's cultural influence.
+
+The Courtly Tradition
+: Provenzia's elaborate social code of courtly love, patronage, and artistic expression, which has influenced culture across the Vylarian Sea region.
+
+The Vineyards
+: Provenzia's wines are famous across Mídhalión, and the wine trade is a cornerstone of the regional economy.
 
 ## See Also
 
-- [[place-elavendre|Élavendre]]—Northwestern neighbor and cultural cousin
-- [[place-tarvenirgn|Tarvénia Region]]—Eastern neighbor and rival
-- [[affiliation-vylarinmpr|Vylarian Empire]]—Former imperial overlord
-- [[place-helionis|Helionis]]—Intellectual counterpart across the sea
-- [[skill-provnzlng|Provenzal]]—Naming conventions
-- [[affiliation-arldnpnthn|Aureldian]]—Pantheon
-- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]—Polity details
+[[place-elavendre|Élavendre]]
+: Northwestern neighbor and cultural cousin
+
+[[place-tarvenirgn|Tarvénia Region]]
+: Eastern neighbor and rival
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: Former imperial overlord
+
+[[place-helionis|Helionis]]
+: Intellectual counterpart across the sea
+
+[[skill-provnzlng|Provenzal]]
+: Naming conventions
+
+[[affiliation-arldnpnthn|Aureldian]]
+: Pantheon
+
+[[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+: Polity details

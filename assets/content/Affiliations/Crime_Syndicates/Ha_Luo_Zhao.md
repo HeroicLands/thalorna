@@ -109,8 +109,11 @@ The Black Lotus maintains legitimate fronts throughout Tantsou commerce: trading
 
 The Black Lotus's most consequential alliances are with internal subversive movements against the imperial order:
 
-- **The [Merchant Uprising]{.name data-type="affiliation"}**—A growing faction within the Shuonong caste organizing for greater political representation. The Lotus funds them, shields them from imperial scrutiny, and expects that a successful uprising will dramatically expand its own influence.
-- **[[affiliation-nuotsourui|Nuotsou Rui]] (Cult of the Forsaken)**—A nihilistic lower-caste cult that preaches the destruction of the classification system. The Lotus's alliance with them is more cynical than ideological; the cult provides deniable violence, disposable operatives, and a useful source of chaos that the Lotus can exploit.
+The [Merchant Uprising]{.name data-type="affiliation"}
+: A growing faction within the Shuonong caste organizing for greater political representation. The Lotus funds them, shields them from imperial scrutiny, and expects that a successful uprising will dramatically expand its own influence.
+
+[[affiliation-nuotsourui|Nuotsou Rui]] (Cult of the Forsaken)
+: A nihilistic lower-caste cult that preaches the destruction of the classification system. The Lotus's alliance with them is more cynical than ideological; the cult provides deniable violence, disposable operatives, and a useful source of chaos that the Lotus can exploit.
 
 The Black Lotus has also been quietly entangled with specific noble houses—most notably [[affiliation-yanchaizhao|Yanchai Zhao]], whose fall illustrates what happens when a great house becomes dependent on the Society's services and then finds itself no longer able to afford the price.
 
@@ -130,8 +133,17 @@ Members carry no visible identification. Recognition passes through calligraphic
 
 ## See Also
 
-- [[affiliation-tantsouempr|Empire of Tantsou]]—The empire in which the Society operates
-- [[lore-weizhairui|Wei Zhai Rui]]—The political game the Society exploits and enables
-- [[lore-shuonong|Shuonong]]—The merchant caste under the Society's particular influence
-- [[affiliation-yanchaizhao|Yanchai Zhao]]—Noble house entangled with the Society
-- [[affiliation-crmsyndctsthlrn|Crime Syndicates]]—Parent overview
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: The empire in which the Society operates
+
+[[lore-weizhairui|Wei Zhai Rui]]
+: The political game the Society exploits and enables
+
+[[lore-shuonong|Shuonong]]
+: The merchant caste under the Society's particular influence
+
+[[affiliation-yanchaizhao|Yanchai Zhao]]
+: Noble house entangled with the Society
+
+[[affiliation-crmsyndctsthlrn|Crime Syndicates]]
+: Parent overview

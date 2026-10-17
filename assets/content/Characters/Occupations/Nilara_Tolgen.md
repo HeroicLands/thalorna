@@ -433,12 +433,17 @@ Poachers who encroach on her territory.
 
 ## Plot Hooks
 
-1. **The Yeoman Archer's Dilemma**—Nilara faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
+The Yeoman Archer's Dilemma
+: Nilara faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
 
-2. **Old Grudges**—Poachers who encroach on her territory. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: Poachers who encroach on her territory. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Nilara's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+Echoes of the Past
+: Something from Nilara's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Nilara depends upon. She must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Provenzia threaten to upend the social order that Nilara depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Nilara the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Nilara the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

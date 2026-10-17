@@ -22,6 +22,11 @@ A farmer from one of the villages on the Tirellan circuit, in town to sell a sea
 
 ## See Also
 
-- [[place-moktur|Moktur]]—the land the city stands in
-- [[affiliation-provncmktr|Province of Moktur]]—the province it governs
-- [[being-azendsdmtr|Azendas Damator]]—the healer-priest of the Tirellan circuit
+[[place-moktur|Moktur]]
+: the land the city stands in
+
+[[affiliation-provncmktr|Province of Moktur]]
+: the province it governs
+
+[[being-azendsdmtr|Azendas Damator]]
+: the healer-priest of the Tirellan circuit

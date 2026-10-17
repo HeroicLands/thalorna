@@ -28,7 +28,14 @@ The harbor is the economy. Kalipsa levies modest tariffs on cargo landed, seriou
 
 ## See Also
 
-- [[affiliation-calypsa|Kalipsa]]—the city-state, its Captains' Council and its relations
-- [[place-elavendre|Élavendre]]—the nearest mainland neighbor
-- [[affiliation-kingdomlgn|Kingdom of Malagna]]—the principal Nordmen trading partner
-- [[skill-nordmalng|Nordmal]], [[skill-valtarlng|Valtari]]—the languages of the docks and markets
+[[affiliation-calypsa|Kalipsa]]
+: the city-state, its Captains' Council and its relations
+
+[[place-elavendre|Élavendre]]
+: the nearest mainland neighbor
+
+[[affiliation-kingdomlgn|Kingdom of Malagna]]
+: the principal Nordmen trading partner
+
+[[skill-nordmalng|Nordmal]], [[skill-valtarlng|Valtari]]
+: the languages of the docks and markets

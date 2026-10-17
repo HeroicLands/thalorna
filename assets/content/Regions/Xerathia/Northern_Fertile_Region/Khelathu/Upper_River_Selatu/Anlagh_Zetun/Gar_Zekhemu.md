@@ -23,5 +23,8 @@ It shares its name with [[place-garzekhemu|Gar-Zekhemu in Galezkara Selat]], and
 
 ## See Also
 
-- [[place-anlaghztnslt|Anlagh-Zetun Selat]]—the surrounding flood-basin country
-- [[place-garzekhemu|Gar-Zekhemu, Galezkara Selat]]—the other village of the same name
+[[place-anlaghztnslt|Anlagh-Zetun Selat]]
+: the surrounding flood-basin country
+
+[[place-garzekhemu|Gar-Zekhemu, Galezkara Selat]]
+: the other village of the same name

@@ -51,7 +51,14 @@ The oasis lies on the southern circuit, a few days beyond the long wells. Its lo
 
 ## See Also
 
-- [[lore-dunhariclt|Dunhari]]—the poets, the recitation and the Old Promise
-- [[affiliation-dunhartrbs|Dunhara Tribes]]—the common council and the Lawkeeper
-- [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]—the Old Promise and its cost
-- [[place-dunhardsrtrgn|Dunhara Desert Region]]—the southern circuit
+[[lore-dunhariclt|Dunhari]]
+: the poets, the recitation and the Old Promise
+
+[[affiliation-dunhartrbs|Dunhara Tribes]]
+: the common council and the Lawkeeper
+
+[[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]
+: the Old Promise and its cost
+
+[[place-dunhardsrtrgn|Dunhara Desert Region]]
+: the southern circuit

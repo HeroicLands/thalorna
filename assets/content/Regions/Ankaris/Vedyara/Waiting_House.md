@@ -34,8 +34,17 @@ The house's difficulty is not the court. It is the gap between the conch and the
 
 ## See Also
 
-- [[place-chandrapur2|Chendrapur]]—the city
-- [[affiliation-chayavrata|The Chaya-vreta]]—the vow taught upstairs
-- [[affiliation-thresholdkeepers|The Threshold-keepers]]—the one question a line cannot misdirect
-- [[affiliation-svapnasarisamaja|Svapnasari-sameja]]—the assembly the vow lapsed from
-- [[place-greatbazaar|The Great Bazaar]]—the crown's market ground, where the open trade is done
+[[place-chandrapur2|Chendrapur]]
+: the city
+
+[[affiliation-chayavrata|The Chaya-vreta]]
+: the vow taught upstairs
+
+[[affiliation-thresholdkeepers|The Threshold-keepers]]
+: the one question a line cannot misdirect
+
+[[affiliation-svapnasarisamaja|Svapnasari-sameja]]
+: the assembly the vow lapsed from
+
+[[place-greatbazaar|The Great Bazaar]]
+: the crown's market ground, where the open trade is done

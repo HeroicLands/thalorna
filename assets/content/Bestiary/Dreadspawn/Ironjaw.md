@@ -338,20 +338,29 @@ An ironjaw fights on with terrible damage to its body as long as its head and ch
 
 ## Attributes
 
-- **Strength:** 13-16 (1d4+12)
+Strength
+: 13-16 (1d4+12)
 
-- **Endurance:** 13-16 (1d4+12)
+Endurance
+: 13-16 (1d4+12)
 
-- **Dexterity:** 7-10 (1d4+6)
+Dexterity
+: 7-10 (1d4+6)
 
-- **Agility:** 9-12 (1d4+8)
+Agility
+: 9-12 (1d4+8)
 
-- **Perception:** 9-12 (1d4+8)
+Perception
+: 9-12 (1d4+8)
 
-- **Aura:** 7-10 (1d4+6)
+Aura
+: 7-10 (1d4+6)
 
-- **Will:** 11-14 (1d4+10)
+Will
+: 11-14 (1d4+10)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

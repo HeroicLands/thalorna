@@ -83,9 +83,14 @@ sohl: {system: {commonSkills: []}}
 
 ## Wodou—The Minister of Roads
 
-- **Bureau:** Dou Sei, The Bureau of Passage
-- **Domain:** Transit
-- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+Bureau
+: Dou Sei, The Bureau of Passage
+
+Domain
+: Transit
+
+Parent
+: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
 In Wodou's teaching, Dou Sei administers movement between classified regions—which, in a cosmos where a boundary is a
 real administrative object, means it administers the boundaries themselves. Its Douzhi keep the
@@ -98,11 +103,19 @@ is the office that has to discover this, usually when somebody fails to arrive.
 
 ### Lesser Spirits
 
-- **Douzhi**—Waymark Spirits, who maintain the boundaries between classified regions.
-- **Zhowo**—River Passage Spirits, who govern safe transit on waterways.
+Douzhi
+: Waymark Spirits, who maintain the boundaries between classified regions.
+
+Zhowo
+: River Passage Spirits, who govern safe transit on waterways.
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the mortal realm it administers
-- [[skill-tengchouscript|Teng Chou Script]]—the writing every petition is made in
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: the Celestial Bureaucracy this bureau belongs to
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the mortal realm it administers
+
+[[skill-tengchouscript|Teng Chou Script]]
+: the writing every petition is made in

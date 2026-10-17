@@ -444,27 +444,37 @@ Tamura is motivated primarily by the desire to create things that will outlast h
 
 ### Strengths
 
-- **Uncompromising Craftsmanship**: His woodworking, in which he specializes in functional pieces, combined with his timbercraft, masonry, and metalcraft, makes him the most reliable craftsman in his region. When Tamura takes a commission, completion and quality are guaranteed.
+Uncompromising Craftsmanship
+: His woodworking, in which he specializes in functional pieces, combined with his timbercraft, masonry, and metalcraft, makes him the most reliable craftsman in his region. When Tamura takes a commission, completion and quality are guaranteed.
 
-- **Structural Understanding**: His reasoning and awareness allow him to grasp complex structural problems intuitively. He can identify weaknesses in others' designs and correct them before problems arise.
+Structural Understanding
+: His reasoning and awareness allow him to grasp complex structural problems intuitively. He can identify weaknesses in others' designs and correct them before problems arise.
 
-- **Practical Problem-Solving**: With his strength and survival skill, he can adapt to difficult conditions and resolve practical obstacles as they arise. He has built functioning structures in floods, droughts, and during wars.
+Practical Problem-Solving
+: With his strength and survival skill, he can adapt to difficult conditions and resolve practical obstacles as they arise. He has built functioning structures in floods, droughts, and during wars.
 
-- **Institutional Knowledge**: His knowledge of folklore and ritual stems from deep roots in Vedyaran craftsman traditions. He is a living store of techniques that might otherwise be lost to time.
+Institutional Knowledge
+: His knowledge of folklore and ritual stems from deep roots in Vedyaran craftsman traditions. He is a living store of techniques that might otherwise be lost to time.
 
-- **Dependable Execution**: His consistency is well known. He meets deadlines, honors commitments, and produces work that matches specifications perfectly. This reliability has made him indispensable.
+Dependable Execution
+: His consistency is well known. He meets deadlines, honors commitments, and produces work that matches specifications perfectly. This reliability has made him indispensable.
 
 ### Weaknesses
 
-- **Resistance to Innovation**: While his traditional methods are proven, Tamura is slow to adopt new techniques or materials, even when they might save labor or improve durability. This can make him seem obsolete to younger patrons or those seeking speed over tradition.
+Resistance to Innovation
+: While his traditional methods are proven, Tamura is slow to adopt new techniques or materials, even when they might save labor or improve durability. This can make him seem obsolete to younger patrons or those seeking speed over tradition.
 
-- **Limited Decorative Sensibility**: Creativity is his weakest quality, and it shows in his resistance to ornamental work. He views decoration as frivolous and unnecessary, which limits his appeal to wealthy clients seeking beauty alongside function.
+Limited Decorative Sensibility
+: Creativity is his weakest quality, and it shows in his resistance to ornamental work. He views decoration as frivolous and unnecessary, which limits his appeal to wealthy clients seeking beauty alongside function.
 
-- **Poor Interpersonal Skills**: His plain speech and plain looks make him difficult to charm or be charmed by. He is not a salesman and dislikes negotiation, often accepting unfavorable terms rather than haggling.
+Poor Interpersonal Skills
+: His plain speech and plain looks make him difficult to charm or be charmed by. He is not a salesman and dislikes negotiation, often accepting unfavorable terms rather than haggling.
 
-- **Aging Physicality**: At fifty-four, his endurance, while solid, is beginning to show strain. Long projects that once took him a season now take longer, and he is increasingly aware of his physical limitations.
+Aging Physicality
+: At fifty-four, his endurance, while solid, is beginning to show strain. Long projects that once took him a season now take longer, and he is increasingly aware of his physical limitations.
 
-- **Inflexibility in Thought**: His will is strong, but it shows as stubbornness. Once convinced of a course of action, he is difficult to dissuade, even when circumstances suggest adjustment would be wise.
+Inflexibility in Thought
+: His will is strong, but it shows as stubbornness. Once convinced of a course of action, he is difficult to dissuade, even when circumstances suggest adjustment would be wise.
 
 ## Social
 
@@ -497,12 +507,17 @@ The Shuravana Lineage
 
 ## Plot Hooks
 
-1. **The Haunted Commission**: A mysterious man of rank from the far borders approaches Tamura with a commission to craft a specific type of wooden structure—one that matches descriptions from ancient texts that Tamura has never shared with anyone. The stranger seems to know precisely what Tamura builds in secret, in his own time, projects he has never shown to clients. When Tamura refuses, the stranger produces a document suggesting that these same structures appear in sealed architectural records from the imperial archives. Tamura must determine how this stranger knows his private work and what they intend to do with such knowledge.
+The Haunted Commission
+: A mysterious man of rank from the far borders approaches Tamura with a commission to craft a specific type of wooden structure—one that matches descriptions from ancient texts that Tamura has never shared with anyone. The stranger seems to know precisely what Tamura builds in secret, in his own time, projects he has never shown to clients. When Tamura refuses, the stranger produces a document suggesting that these same structures appear in sealed architectural records from the imperial archives. Tamura must determine how this stranger knows his private work and what they intend to do with such knowledge.
 
-2. **The Apprentice's Betrayal**: A young apprentice of rare talent whom Tamura took under his wing as a potential heir to the Shuravana lineage disappears after three years of study. Months later, Tamura discovers that the apprentice has been producing cheap imitations of his signature techniques, flooding the market and damaging Tamura's reputation. When Tamura confronts the apprentice, he discovers the young craftsman was coerced into this by the merchant Grayson Thrift, but the apprentice is now too frightened to break free. Tamura can help his former student risk Grayson's wrath or allow his own reputation to gho on deteriorating.
+The Apprentice's Betrayal
+: A young apprentice of rare talent whom Tamura took under his wing as a potential heir to the Shuravana lineage disappears after three years of study. Months later, Tamura discovers that the apprentice has been producing cheap imitations of his signature techniques, flooding the market and damaging Tamura's reputation. When Tamura confronts the apprentice, he discovers the young craftsman was coerced into this by the merchant Grayson Thrift, but the apprentice is now too frightened to break free. Tamura can help his former student risk Grayson's wrath or allow his own reputation to gho on deteriorating.
 
-3. **The Living Wood**: An elderly scholar approaches Tamura with a fragment of wood that behaves impossibly—it never rots, grows in strange directions, and seems to be almost alive. The scholar claims that Tamura is the only craftsman with the skill to work with such material and requests he create something specific from it, though the scholar is reluctant to reveal what. Tamura discovers that this wood is somehow connected to an ancient curse or blessing affecting the region, and that both good and dark forces seek it.
+The Living Wood
+: An elderly scholar approaches Tamura with a fragment of wood that behaves impossibly—it never rots, grows in strange directions, and seems to be almost alive. The scholar claims that Tamura is the only craftsman with the skill to work with such material and requests he create something specific from it, though the scholar is reluctant to reveal what. Tamura discovers that this wood is somehow connected to an ancient curse or blessing affecting the region, and that both good and dark forces seek it.
 
-4. **The Bridge Between Worlds**: Tamura is contracted to repair a massive ancient bridge that has stood for centuries, possibly millennia. As he works on it, he discovers that the original construction technique is impossible according to current knowledge—the wood should not have survived this long, the joinery should not support such weight, the structure cannot be accounted for. An order of scholars offers significant payment for him to document exactly how the bridge was constructed, suggesting it holds secrets about ancient civilization that could rewrite history.
+The Bridge Between Worlds
+: Tamura is contracted to repair a massive ancient bridge that has stood for centuries, possibly millennia. As he works on it, he discovers that the original construction technique is impossible according to current knowledge—the wood should not have survived this long, the joinery should not support such weight, the structure cannot be accounted for. An order of scholars offers significant payment for him to document exactly how the bridge was constructed, suggesting it holds secrets about ancient civilization that could rewrite history.
 
-5. **The Generational Debt**: Tamura discovers that a significant loan his grandfather took decades ago was never fully repaid, and a merchant family now claims legal rights to Tamura's property and business as settlement of the debt. When Tamura investigates, he finds conflicting documents about whether the debt was actually settled. He must prove the truth while managing his case at law with care, all while his business suffers from the legal uncertainty. The merchant family's current head was once apprenticed to Tamura and abandoned the craft, making the situation personal as well as legal.
+The Generational Debt
+: Tamura discovers that a significant loan his grandfather took decades ago was never fully repaid, and a merchant family now claims legal rights to Tamura's property and business as settlement of the debt. When Tamura investigates, he finds conflicting documents about whether the debt was actually settled. He must prove the truth while managing his case at law with care, all while his business suffers from the legal uncertainty. The merchant family's current head was once apprenticed to Tamura and abandoned the craft, making the situation personal as well as legal.

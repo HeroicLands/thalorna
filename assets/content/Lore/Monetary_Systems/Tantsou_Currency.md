@@ -24,8 +24,17 @@ Vylarian, Khelathi and Vedyaran coin is exchangeable at the empire's frontier tr
 
 ## See Also
 
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the bureaus, the castes and the frontiers
-- [[lore-castelaws|Caste Laws]]—who may contract, lend and hold property
-- [[lore-shuonong|Shuonong]]—the merchant caste and the commercial law that binds it
-- [[affiliation-haluozhao|Ha Luo Zhao]]—the Black Lotus Society, which works through the ledgers
-- [[lore-vylrncrncy|Vylarian Currency]]—the western coin exchanged at the frontier
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the bureaus, the castes and the frontiers
+
+[[lore-castelaws|Caste Laws]]
+: who may contract, lend and hold property
+
+[[lore-shuonong|Shuonong]]
+: the merchant caste and the commercial law that binds it
+
+[[affiliation-haluozhao|Ha Luo Zhao]]
+: the Black Lotus Society, which works through the ledgers
+
+[[lore-vylrncrncy|Vylarian Currency]]
+: the western coin exchanged at the frontier

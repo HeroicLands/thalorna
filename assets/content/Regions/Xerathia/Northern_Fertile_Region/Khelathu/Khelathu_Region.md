@@ -50,11 +50,26 @@ The region is the heartland of the [[affiliation-empireakhlth|Empire of Au'Khela
 
 ## See Also
 
-- [[place-nrthrnfrtlrgn|Northern Fertile Region]]—the parent region
-- [[place-zumeleshrvr|The Zumelesh]]—the river the country is built on
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the realm that holds this region
-- [[lore-khelathiclt|Khelathi]]—the people and their ways
-- [[place-khuqetmiglet|Khuqet-Miglet]]—the northeastern desert-march toward [[place-dunharargn|Dunhara]]
-- [[place-lutithnet|Lut-Ithnet]]—a funerary estate under the western cliffs, at the end of a canal that has run dry
-- [[place-bethuargn|Bethua Region]]—neighbor to the west
-- [[place-okharisrgn|Okharis Region]]—the irrigated and pastoral country beyond Bethua
+[[place-nrthrnfrtlrgn|Northern Fertile Region]]
+: the parent region
+
+[[place-zumeleshrvr|The Zumelesh]]
+: the river the country is built on
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: the realm that holds this region
+
+[[lore-khelathiclt|Khelathi]]
+: the people and their ways
+
+[[place-khuqetmiglet|Khuqet-Miglet]]
+: the northeastern desert-march toward [[place-dunharargn|Dunhara]]
+
+[[place-lutithnet|Lut-Ithnet]]
+: a funerary estate under the western cliffs, at the end of a canal that has run dry
+
+[[place-bethuargn|Bethua Region]]
+: neighbor to the west
+
+[[place-okharisrgn|Okharis Region]]
+: the irrigated and pastoral country beyond Bethua

@@ -48,6 +48,11 @@ The most prestigious trade good, however, is neither practical nor abundant: the
 
 ## See Also
 
-- [[affiliation-ixilankul|Ish'ilankul]]—The realm that holds this land
-- [[place-cntrlkchchk|Central K'ich'chik]]—The enclosing region
-- [[place-ixilankul2|Ish'ilankul]]—Seat of Ish'ilankul
+[[affiliation-ixilankul|Ish'ilankul]]
+: The realm that holds this land
+
+[[place-cntrlkchchk|Central K'ich'chik]]
+: The enclosing region
+
+[[place-ixilankul2|Ish'ilankul]]
+: Seat of Ish'ilankul

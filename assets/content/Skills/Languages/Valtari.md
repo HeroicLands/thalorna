@@ -607,12 +607,23 @@ Valtari is the harbour pidgin of the inner sea. Every sound in it is one any sai
 
 Valtari simplifies the consonant inventories of its parent languages, favoring sounds that are easy for speakers of multiple tongues to produce:
 
-- **Voiceless stops**: P, T, K (unaspirated, gentle articulation)
-- **Voiced stops**: B, D, G
-- **Fricatives**: F, V, S, Z, SH
-- **Nasals**: M, N
-- **Liquids**: R (flapped or rolled depending on speaker origin), L
-- **Glides**: W, Y
+Voiceless stops
+: P, T, K (unaspirated, gentle articulation)
+
+Voiced stops
+: B, D, G
+
+Fricatives
+: F, V, S, Z, SH
+
+Nasals
+: M, N
+
+Liquids
+: R (flapped or rolled depending on speaker origin), L
+
+Glides
+: W, Y
 
 Valtari has no H and none of the throat sounds of its parents: the Taruzeli and Helonic _kh_ and _gh_ are said _k_ and _g_, _q_ is said _k_, and _th_ is said _t_. Consonant clusters are rare and usually occur where two words meet. Most syllables are open (ending in a vowel), which simplifies pronunciation across language backgrounds, and a word closes on a vowel or on _n_, _l_ or _r_.
 
@@ -620,11 +631,20 @@ Valtari has no H and none of the throat sounds of its parents: the Taruzeli and 
 
 Five basic vowels, said short, with some variation in pronunciation depending on speaker origin. The long vowels of Taruzeli and Helonic are all said short in Valtari:
 
-- **A**—an open "ah", variable (flattening toward the "a" of "about" when unstressed)
-- **E**—as in "bet" (flattening toward the "a" of "about" in rapid speech)
-- **I**—as in "machine" (shortening toward the "i" of "bit")
-- **O**—as in "note" (flattening toward the "a" of "about")
-- **U**—as in "boot"
+A
+: an open "ah", variable (flattening toward the "a" of "about" when unstressed)
+
+E
+: as in "bet" (flattening toward the "a" of "about" in rapid speech)
+
+I
+: as in "machine" (shortening toward the "i" of "bit")
+
+O
+: as in "note" (flattening toward the "a" of "about")
+
+U
+: as in "boot"
 
 Vowels are often **reduced in unstressed syllables**, especially in the speech of hurried traders. A word like _telusu_ might be pronounced _tlmsu_ in rapid dock speech. Non-native speakers often simplify vowels further, contributing to the language's fluidity and mutability.
 
@@ -642,16 +662,24 @@ Valtari has **almost no inflectional morphology**. Nouns do not decline for case
 
 The dominant word order is **Subject-Verb-Object (SVO)**, inherited from Taruzeli influence. However, flexibility is the norm. Word order variation often reflects semantic emphasis or speaker native language interference:
 
-- _Kiromu kusadu idiro_—"The captain brings water" (standard SVO; _kusadu_ from Taruzeli _kusad-_ "carry")
-- _Idiro kusadu kiromu_—"The captain brings the water" (topical rearrangement, emphasizing the water)
+_Kiromu kusadu idiro_
+: "The captain brings water" (standard SVO; _kusadu_ from Taruzeli _kusad-_ "carry")
+
+_Idiro kusadu kiromu_
+: "The captain brings the water" (topical rearrangement, emphasizing the water)
 
 ### Tense
 
 Valtari has no tense system. **Temporal meaning is supplied by context or optional adverbs:**
 
-- _Kiromu denu_—"The captain is here" / "The captain was here" (context determines meaning)
-- _Kiromu lokatu tapelu_—"The captain is coming" (adverb _tapelu_ "now" clarifies immediacy)
-- _Olimu kiromu begi_—"The captain has already left" (adverb _olimu_ "already" indicates completion)
+_Kiromu denu_
+: "The captain is here" / "The captain was here" (context determines meaning)
+
+_Kiromu lokatu tapelu_
+: "The captain is coming" (adverb _tapelu_ "now" clarifies immediacy)
+
+_Olimu kiromu begi_
+: "The captain has already left" (adverb _olimu_ "already" indicates completion)
 
 This is one of the most striking features of the language: speakers must learn to infer time from context, much as they do in a standard trade negotiation.
 
@@ -659,9 +687,14 @@ This is one of the most striking features of the language: speakers must learn t
 
 Plurality is **optional and often unmarked**:
 
-- _Yezu yakodu lokatu_—"One boat comes"
-- _Pulumu yakodu lokatu_—"Many boats come" (or _yakodu-yakodu_, depending on speaker)
-- _Yakodu-yakodu lokatu_—emphatic plural (reduplication)
+_Yezu yakodu lokatu_
+: "One boat comes"
+
+_Pulumu yakodu lokatu_
+: "Many boats come" (or _yakodu-yakodu_, depending on speaker)
+
+_Yakodu-yakodu lokatu_
+: emphatic plural (reduplication)
 
 Number is usually clear from context or explicit quantity markers (_fomul yakodu_ "five boats", _pulumu pelaro_ "many sailors").
 
@@ -669,26 +702,43 @@ Number is usually clear from context or explicit quantity markers (_fomul yakodu
 
 Negation is expressed through the **particle _zu_, placed before the verb or predicate**; speakers of Helonic say _ufi_ in the same place:
 
-- _Zu kusadu_—"Do not bring" / "He does not bring" (context clarifies)
-- _Kiromu zu denu_—"The captain is not here"
-- _Zu latara_—"That is not good" / "Not good" (standalone; _latara_ from Taruzeli _lataran_ "fair")
+_Zu kusadu_
+: "Do not bring" / "He does not bring" (context clarifies)
+
+_Kiromu zu denu_
+: "The captain is not here"
+
+_Zu latara_
+: "That is not good" / "Not good" (standalone; _latara_ from Taruzeli _lataran_ "fair")
 
 ### Questions
 
 Questions are formed through **rising intonation and optional question words** (_mavu_ "what", _mavitu_ "where", _kedi_ "who", _gulodu_ "when"):
 
-- _Mavitu kiromu?_—"Where is the captain?"
-- _Mavu kusadu?_—"What are you bringing?"
-- _Kiromu denu?_—"Is the captain here?" (intonation conveys question)
+_Mavitu kiromu?_
+: "Where is the captain?"
+
+_Mavu kusadu?_
+: "What are you bringing?"
+
+_Kiromu denu?_
+: "Is the captain here?" (intonation conveys question)
 
 ## Script and Literacy
 
 Valtari is **rarely written**. When it is, speakers employ:
 
-- **[[skill-merazanscrpt|Merazan]] letters**: Common in southern ports and Taruzeli-dominated cities
-- **[[skill-helnkscrpt|Helónika]] letters**: Used in northern ports and Helonic trading centers
-- **[[skill-semrnscrpt|Semaron]] letters**: Used in Vylarian and Aureldian harbors, and by any factor with an imperial education
-- **Improvisational symbols**: Abbreviated marks and hastily invented notation for quick transaction records
+[[skill-merazanscrpt|Merazan]] letters
+: Common in southern ports and Taruzeli-dominated cities
+
+[[skill-helnkscrpt|Helónika]] letters
+: Used in northern ports and Helonic trading centers
+
+[[skill-semrnscrpt|Semaron]] letters
+: Used in Vylarian and Aureldian harbors, and by any factor with an imperial education
+
+Improvisational symbols
+: Abbreviated marks and hastily invented notation for quick transaction records
 
 There is **no standardized Valtari orthography**. A word like _kiromu_ might be written as _kiromu_, _kyromu_, _chiromu_, or _kiromou_ depending on the scribe's native language and knowledge. This orthographic chaos reflects Valtari's nature: a language of the moment, not preserved in books.
 
@@ -721,11 +771,20 @@ A trader from Ilovanu moving to Vashurán must re-learn the rapid-fire delivery 
 
 ## Sample Phrases
 
-- _Kiromu kusadu latara pashin_—"The captain offers a fair price" (Helonic _kiromu_ "master"; Taruzeli _kusadu_ "carry", _latara_ "fair" and _pashin_ from _pashinu_ "fair price")
-- _Zu funatu, asevu, mavitu yakodu?_—"No trouble, friend—where is the ship?" (casual, reassuring)
-- _Idiro, vidu, durasu—yepalu tapelu_—"We need water, bread, and salt immediately" (urgent trade request)
-- _Paramisu anevo lokatu, yakodu zu sotaru_—"Tomorrow a storm comes; the boat won't be safe"
-- _Koru latara pelaro, temadu kerisu, geniru yu rusaku?_—"You're a good sailor with a strong hand—will you take this work?" (recruitment)
+_Kiromu kusadu latara pashin_
+: "The captain offers a fair price" (Helonic _kiromu_ "master"; Taruzeli _kusadu_ "carry", _latara_ "fair" and _pashin_ from _pashinu_ "fair price")
+
+_Zu funatu, asevu, mavitu yakodu?_
+: "No trouble, friend—where is the ship?" (casual, reassuring)
+
+_Idiro, vidu, durasu
+: yepalu tapelu_—"We need water, bread, and salt immediately" (urgent trade request)
+
+_Paramisu anevo lokatu, yakodu zu sotaru_
+: "Tomorrow a storm comes; the boat won't be safe"
+
+_Koru latara pelaro, temadu kerisu, geniru yu rusaku?_
+: "You're a good sailor with a strong hand—will you take this work?" (recruitment)
 
 ## Core Vocabulary
 
@@ -751,11 +810,20 @@ The following represents the stable core of Valtari—words understood in virtua
 
 Valtari is **fundamentally a mixed language**, not genealogically related to any single parent. It borrows extensively from:
 
-- **Taruzeli**: Grammar skeleton, 45% of vocabulary
-- **Helonic**: Phonological innovations, 25% of vocabulary, some syntactic patterns
-- **The Vylari family**: 20% of vocabulary, above all the pronouns, the questions and the words of time
-- **Nordmal and its kin**: 7% of vocabulary, grain, the north and the day
-- **Other tongues of the setting**: 3%, Sinale words for fish and for the questions
+Taruzeli
+: Grammar skeleton, 45% of vocabulary
+
+Helonic
+: Phonological innovations, 25% of vocabulary, some syntactic patterns
+
+The Vylari family
+: 20% of vocabulary, above all the pronouns, the questions and the words of time
+
+Nordmal and its kin
+: 7% of vocabulary, grain, the north and the day
+
+Other tongues of the setting
+: 3%, Sinale words for fish and for the questions
 
 Valtari has **no descendants**—it does not natively reproduce itself. Children of two Valtari speakers revert to their parents' native languages or, in mixed families, learn whatever language the dominant parent or community uses. Valtari is a language of **individual transaction**, not of community continuity.
 
@@ -776,9 +844,14 @@ Valtari trade names follow **simple, memorable patterns** that function across m
 
 **Given Name + Occupational or Geographic Epithet**
 
-- _Kiromu_ (the word for "captain", from Helonic)—common given name for merchants and masters
-- _Odisor_ (from _odisu_, "road")—for caravan masters or widely-traveled traders
-- _Ushador_ (from _ushadu_, "coin")—given name, often carried by moneychangers and factors
+_Kiromu_ (the word for "captain", from Helonic)
+: common given name for merchants and masters
+
+_Odisor_ (from _odisu_, "road")
+: for caravan masters or widely-traveled traders
+
+_Ushador_ (from _ushadu_, "coin")
+: given name, often carried by moneychangers and factors
 
 A given trade name is a word of the quay with a name ending in place of its closing vowel: _-or_ for a man, _-ela_ or the softer _-eni_ for a woman, and _-an_ for anyone.
 
@@ -786,15 +859,25 @@ A given trade name is a word of the quay with a name ending in place of its clos
 
 A house, a crew or a trading firm takes the ending _-ari_:
 
-- _Yakodari_ (from _yakodu_, "boat")—a family associated with small merchant vessels
-- _Kubasari_ (from _kubasu_, "count")—commodity traders and counting-houses
-- _Zazurari_ (from _zazuru_, "cargo")—a crew or family that lives by carrying other people's goods
+_Yakodari_ (from _yakodu_, "boat")
+: a family associated with small merchant vessels
+
+_Kubasari_ (from _kubasu_, "count")
+: commodity traders and counting-houses
+
+_Zazurari_ (from _zazuru_, "cargo")
+: a crew or family that lives by carrying other people's goods
 
 Many traders eschew clan names entirely in Valtari, instead adopting **occupational epithets**:
 
-- _Ushador bazunu-kerisu_—"Ushador the sail-hand" (a sailmaker)
-- _Odisor norodu-odisu_—"Odisor of the north road" (a caravan master)
-- _Kusadela ula-dorasu_—"Kusadela the fish-dealer" (a fishmonger)
+_Ushador bazunu-kerisu_
+: "Ushador the sail-hand" (a sailmaker)
+
+_Odisor norodu-odisu_
+: "Odisor of the north road" (a caravan master)
+
+_Kusadela ula-dorasu_
+: "Kusadela the fish-dealer" (a fishmonger)
 
 Names are **fluid**. A trader who makes a fortune might take a new name. A person who changes trades or relocates might adopt a new Valtari name reflecting their new role. Unlike birth names in native cultures, Valtari trade names are **practical identities**, not sacred or ancestral.
 

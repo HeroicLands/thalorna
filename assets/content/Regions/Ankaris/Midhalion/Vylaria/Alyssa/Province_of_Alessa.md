@@ -99,7 +99,14 @@ Alessa uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden, Ardin and Ogdel) 
 
 ## See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the parent polity
-- [[place-alyssa|Alessa]]—the land the province holds
-- [[affiliation-provnchyln|Province of Hilen]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Salkalon]]—the sister provinces
-- [[affiliation-ordoarcanis|Thordimalon]]—headquartered here
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the parent polity
+
+[[place-alyssa|Alessa]]
+: the land the province holds
+
+[[affiliation-provnchyln|Province of Hilen]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Salkalon]]
+: the sister provinces
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: headquartered here

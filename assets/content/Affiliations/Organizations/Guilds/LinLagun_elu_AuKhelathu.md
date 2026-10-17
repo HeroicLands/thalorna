@@ -56,5 +56,8 @@ Say a builder in the capital orders timber for a pylon's scaffolding and has it 
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu]]—The empire whose construction the trade supplies
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-aukhelathrgq|Au'Khelathu]]
+: The empire whose construction the trade supplies
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

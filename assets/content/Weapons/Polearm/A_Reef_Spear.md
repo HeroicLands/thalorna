@@ -94,5 +94,8 @@ Where a villager needs a weapon, the reef spear is what comes down from the wall
 
 ## See Also
 
-- [[place-reithovani|Reithovani]]—a reef village whose fishing ground the spear works
-- [[place-vaelukoa|Vaelukoa]]—the reef village behind the coral shore
+[[place-reithovani|Reithovani]]
+: a reef village whose fishing ground the spear works
+
+[[place-vaelukoa|Vaelukoa]]
+: the reef village behind the coral shore

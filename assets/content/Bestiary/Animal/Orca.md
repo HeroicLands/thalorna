@@ -287,12 +287,29 @@ Each orca pod carries a unique body of learned knowledge — hunting techniques,
 
 ## Attributes
 
-- **Strength:** 20-25 (1d6+19) — Massive physical power; ramming impact can hole hulls
-- **Endurance:** 15-20 (1d6+14) — Tireless in water; pod relay system extends effective stamina indefinitely
-- **Dexterity:** 9-14 (1d6+8) — Adequate; precise enough for coordinated maneuvers
-- **Agility:** 11-16 (1d6+10) — Surprisingly fast and maneuverable for their size; burst speed exceeds 30 mph
-- **Perception:** 13-18 (1d6+12) — Echolocation provides detailed underwater awareness; excellent vision above and below surface
-- **Aura:** 9-14 (1d6+8) — Northern peoples regard them as the wolves of the sea; feared and respected
-- **Will:** 13-18 (1d6+12) — Relentless pack hunters; will not abandon a committed pursuit
-- **Reasoning:** 9-14 (1d6+8) — Among the most intelligent non-humanoid creatures; cultural learning, tactical adaptation
-- **Creativity:** 8-13 (1d6+7) — Develop novel hunting techniques; each pod innovates independently
+Strength
+: 20-25 (1d6+19) — Massive physical power; ramming impact can hole hulls
+
+Endurance
+: 15-20 (1d6+14) — Tireless in water; pod relay system extends effective stamina indefinitely
+
+Dexterity
+: 9-14 (1d6+8) — Adequate; precise enough for coordinated maneuvers
+
+Agility
+: 11-16 (1d6+10) — Surprisingly fast and maneuverable for their size; burst speed exceeds 30 mph
+
+Perception
+: 13-18 (1d6+12) — Echolocation provides detailed underwater awareness; excellent vision above and below surface
+
+Aura
+: 9-14 (1d6+8) — Northern peoples regard them as the wolves of the sea; feared and respected
+
+Will
+: 13-18 (1d6+12) — Relentless pack hunters; will not abandon a committed pursuit
+
+Reasoning
+: 9-14 (1d6+8) — Among the most intelligent non-humanoid creatures; cultural learning, tactical adaptation
+
+Creativity
+: 8-13 (1d6+7) — Develop novel hunting techniques; each pod innovates independently

@@ -22,5 +22,8 @@ The village is walled, which no other village of the janapoda is. The wall is lo
 
 ## See Also
 
-- [[place-dhanurkotajnpd|Danurkota Janapoda]]—the land
-- [[affiliation-dhnrktjnpd|Danurkota Janapoda]]—the temple-republic that holds it
+[[place-dhanurkotajnpd|Danurkota Janapoda]]
+: the land
+
+[[affiliation-dhnrktjnpd|Danurkota Janapoda]]
+: the temple-republic that holds it

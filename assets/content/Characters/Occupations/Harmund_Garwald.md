@@ -432,12 +432,17 @@ Rival blacksmiths covet his reputation.
 
 ## Plot Hooks
 
-1. **The Weaponcrafter (Armorer)'s Dilemma**—A War Chief wants a blade faster than Harmund can forge it well, and his name rides on whichever he chooses.
+The Weaponcrafter (Armorer)'s Dilemma
+: A War Chief wants a blade faster than Harmund can forge it well, and his name rides on whichever he chooses.
 
-2. **Old Grudges**—A rival blacksmith is passing off inferior work under Harmund's mark.
+Old Grudges
+: A rival blacksmith is passing off inferior work under Harmund's mark.
 
-3. **Echoes of the Past**—A blade Harmund forged thirty years ago is brought back to him, and the man carrying it wants to know who commissioned it.
+Echoes of the Past
+: A blade Harmund forged thirty years ago is brought back to him, and the man carrying it wants to know who commissioned it.
 
-4. **Shifting Winds**—A feud between neighboring villages threatens the trade Harmund depends upon, and he can adapt, resist, or leave.
+Shifting Winds
+: A feud between neighboring villages threatens the trade Harmund depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—Harmund is offered the arming of a whole war-band, and its price is not named up front.
+The Opportunity
+: Harmund is offered the arming of a whole war-band, and its price is not named up front.

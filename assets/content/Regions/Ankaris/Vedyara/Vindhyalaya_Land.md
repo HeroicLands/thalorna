@@ -59,15 +59,31 @@ The terrain limits highland farming. The great terraced fields of the lower vall
 
 ## Notable Features
 
-- [[place-suryagarha|Suryagarha]]—the stone capital, a fortress-city of forty thousand built across the throat of [[place-suryadvara|Suryadvara]], the greatest northern pass. Every caravan entering or leaving Vedyara by that pass goes beneath its walls, and beyond the throat the road forks north for the Khazryn and northeast for Tantsou. Below the city the terrace road drops through the rice and barley steps to the lowland market towns, and it is the only way anything reaches the capital from inside the kingdom.
-- [[place-pssshrines|The Pass-Shrines]]—a chain of [[affiliation-varakpnthn|Varnuka]] temples built at the high points of the caravan roads, where travelers stop to leave offerings before attempting the descent. The shrines are kept by a hereditary line of ushtakas who live year-round at altitudes that would kill an unaccustomed lowlander within a week.
-- [[place-slvrgorges|The Silver Gorges]]—steep valleys in the eastern mountains, worked for lapis and silver since before the founding of the kingdom, and carrying [[place-tamradvara|Tamradvara]] up to the marches beyond. The mines are held by hereditary smithing clans whose prerogatives predate the Maharava's own charter.
+[[place-suryagarha|Suryagarha]]
+: the stone capital, a fortress-city of forty thousand built across the throat of [[place-suryadvara|Suryadvara]], the greatest northern pass. Every caravan entering or leaving Vedyara by that pass goes beneath its walls, and beyond the throat the road forks north for the Khazryn and northeast for Tantsou. Below the city the terrace road drops through the rice and barley steps to the lowland market towns, and it is the only way anything reaches the capital from inside the kingdom.
+
+[[place-pssshrines|The Pass-Shrines]]
+: a chain of [[affiliation-varakpnthn|Varnuka]] temples built at the high points of the caravan roads, where travelers stop to leave offerings before attempting the descent. The shrines are kept by a hereditary line of ushtakas who live year-round at altitudes that would kill an unaccustomed lowlander within a week.
+
+[[place-slvrgorges|The Silver Gorges]]
+: steep valleys in the eastern mountains, worked for lapis and silver since before the founding of the kingdom, and carrying [[place-tamradvara|Tamradvara]] up to the marches beyond. The mines are held by hereditary smithing clans whose prerogatives predate the Maharava's own charter.
 
 ## See Also
 
-- [[affiliation-vindhyalay|Shikharalaya]]—The kingdom that holds this land
-- [[place-vedyarargn|Vedyara Region]]—The enclosing region
-- [[place-graznmntns|The Grazian Mountains]]—The wall the pass-roads cross
-- [[place-suryagarha|Suryagarha]]—The fortress-capital
-- [[place-sthrnwall|The Southern Wall]]—The escarpment the kingdom's passes cross
-- [[affiliation-osketguides|The Osket]]—The guides who take every caravan over
+[[affiliation-vindhyalay|Shikharalaya]]
+: The kingdom that holds this land
+
+[[place-vedyarargn|Vedyara Region]]
+: The enclosing region
+
+[[place-graznmntns|The Grazian Mountains]]
+: The wall the pass-roads cross
+
+[[place-suryagarha|Suryagarha]]
+: The fortress-capital
+
+[[place-sthrnwall|The Southern Wall]]
+: The escarpment the kingdom's passes cross
+
+[[affiliation-osketguides|The Osket]]
+: The guides who take every caravan over

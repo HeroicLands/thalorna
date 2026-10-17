@@ -176,10 +176,23 @@ The water is under. We ride on its roof.
 
 ## See Also
 
-- [[lore-basinbldrs|The Basin Builders]]—the lake people, and the question the song does not answer
-- [[place-ewod|Evod]]—the salt bed, the mounds and the stair under the crust
-- [[place-qelod|Kelod]]—the stepped well, the offerings and what lies in the drain
-- [[place-osikor|Oshiqor]]—the painted tombs in the stone, and the kings who are not asleep
-- [[affiliation-sahritrb|Sahri]]—the tribe that sings it, and reads the stars for the day
-- [[lore-sowidesclt|The Sovidur]]—the sky-father, the earth-mother and the laying-out
-- [[place-hskrrgn|Khoshiqor]]—the sand range the song is about
+[[lore-basinbldrs|The Basin Builders]]
+: the lake people, and the question the song does not answer
+
+[[place-ewod|Evod]]
+: the salt bed, the mounds and the stair under the crust
+
+[[place-qelod|Kelod]]
+: the stepped well, the offerings and what lies in the drain
+
+[[place-osikor|Oshiqor]]
+: the painted tombs in the stone, and the kings who are not asleep
+
+[[affiliation-sahritrb|Sahri]]
+: the tribe that sings it, and reads the stars for the day
+
+[[lore-sowidesclt|The Sovidur]]
+: the sky-father, the earth-mother and the laying-out
+
+[[place-hskrrgn|Khoshiqor]]
+: the sand range the song is about

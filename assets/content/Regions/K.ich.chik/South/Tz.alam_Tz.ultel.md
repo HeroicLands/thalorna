@@ -26,6 +26,11 @@ Ts’alam Ts'ultel is austere and martial in character. The population consists 
 
 ## See Also
 
-- [[affiliation-ixbaltzaku|Ish’bal Tsa’ku]]—The highland region
-- [[place-tzalamne|Ts’alam Ne’]]—The coastal port city
-- [[affiliation-itzanpnthn|Itsani]]—The priesthood that commands this fortress
+[[affiliation-ixbaltzaku|Ish’bal Tsa’ku]]
+: The highland region
+
+[[place-tzalamne|Ts’alam Ne’]]
+: The coastal port city
+
+[[affiliation-itzanpnthn|Itsani]]
+: The priesthood that commands this fortress

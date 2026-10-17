@@ -424,11 +424,20 @@ He did not join [[affiliation-slntlncmpny|The Silent Talon Company]] for coin or
 
 ### Skills and Abilities
 
-- **Tracking**: A master tracker who can follow a trail over rock, through water, and across landscapes that would defeat most pursuers. His Áelendi training makes him one of the finest woodsmen the Silent Talon has ever had.
-- **Archery**: A bowman, deadly at range and capable of the kind of precise, patient shooting that comes from a lifetime of hunting.
-- **Survival**: Chelebe can live off the land indefinitely. He knows how to find water, build shelter, identify edible plants, and navigate by stars, wind, and terrain.
-- **Scouting**: Often sent ahead of the band to survey routes, identify ambush sites, and assess the terrain before the main group moves through.
-- **Spiritual Connection**: Chelebe maintains a deep bond with the spirits of the land, drawing on Áelendi traditions for guidance and protection. This connection is sincere and respected, even if his companions do not fully understand it.
+Tracking
+: A master tracker who can follow a trail over rock, through water, and across landscapes that would defeat most pursuers. His Áelendi training makes him one of the finest woodsmen the Silent Talon has ever had.
+
+Archery
+: A bowman, deadly at range and capable of the kind of precise, patient shooting that comes from a lifetime of hunting.
+
+Survival
+: Chelebe can live off the land indefinitely. He knows how to find water, build shelter, identify edible plants, and navigate by stars, wind, and terrain.
+
+Scouting
+: Often sent ahead of the band to survey routes, identify ambush sites, and assess the terrain before the main group moves through.
+
+Spiritual Connection
+: Chelebe maintains a deep bond with the spirits of the land, drawing on Áelendi traditions for guidance and protection. This connection is sincere and respected, even if his companions do not fully understand it.
 
 ## Psyche
 
@@ -450,10 +459,17 @@ Chelebe's goal is to gather enough wealth to secure a future for his tribe and t
 
 ## Companions
 
-- [[being-branwldrgr|Branval Dorgal]]: Captain of the Silent Talon.
-- [[being-elyseskyrn|Élithe Sarneth]]: Fellow band member.
-- [[being-torniskbry|Tornis Kubri]]: Fellow band member.
-- [[being-dornsyndlr|Doren Sindalre]]: Fellow band member.
+[[being-branwldrgr|Branval Dorgal]]
+: Captain of the Silent Talon.
+
+[[being-elyseskyrn|Élithe Sarneth]]
+: Fellow band member.
+
+[[being-torniskbry|Tornis Kubri]]
+: Fellow band member.
+
+[[being-dornsyndlr|Doren Sindalre]]
+: Fellow band member.
 
 ### Patrons
 
@@ -465,8 +481,11 @@ Those who desecrate sacred Áelendan lands.
 
 ## Plot Hooks
 
-1. **The Defiled Grove**: Chelebe receives word that a sacred Áelendan site has been desecrated—whether by loggers, miners, or something worse. He must convince the Silent Talon to detour from their current contract to investigate, balancing his obligations to the band against his duty to his people.
+The Defiled Grove
+: Chelebe receives word that a sacred Áelendan site has been desecrated—whether by loggers, miners, or something worse. He must convince the Silent Talon to detour from their current contract to investigate, balancing his obligations to the band against his duty to his people.
 
-2. **The Spirit's Warning**: During a scouting mission, Chelebe receives a vision or omen from the spirits of the land—a warning of danger that his companions cannot see. Whether they trust his interpretation may determine whether the band survives what lies ahead.
+The Spirit's Warning
+: During a scouting mission, Chelebe receives a vision or omen from the spirits of the land—a warning of danger that his companions cannot see. Whether they trust his interpretation may determine whether the band survives what lies ahead.
 
-3. **The Outsider's Burden**: A group of Áelendan exiles approaches Chelebe, asking him to use his mercenary connections to help them reclaim tribal lands that have been seized. The request puts Chelebe in an impossible position: helping them means risking the Silent Talon for a cause that is not the band's fight.
+The Outsider's Burden
+: A group of Áelendan exiles approaches Chelebe, asking him to use his mercenary connections to help them reclaim tribal lands that have been seized. The request puts Chelebe in an impossible position: helping them means risking the Silent Talon for a cause that is not the band's fight.

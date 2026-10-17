@@ -14,11 +14,20 @@ This name marks a particular kind of [[lore-undead|undead]], not every dead pres
 
 ## See Also
 
-- [[lore-undead|Undead]]—the wider class and its learned distinctions
-- [[lore-theshadow|The Shadow]]—the corrupting force every undead carries
-- [[lore-haugverdir|Hrúmverdir]]—the mindless dead of Nahild's legions, and the folk word's wider use
-- [[being-tereb|Tereb]]—the sentient undead kind to which nágengir belong
-- [[affiliation-nahild|Faith of Nahild]]—the cult that names and commands them
+[[lore-undead|Undead]]
+: the wider class and its learned distinctions
+
+[[lore-theshadow|The Shadow]]
+: the corrupting force every undead carries
+
+[[lore-haugverdir|Hrúmverdir]]
+: the mindless dead of Nahild's legions, and the folk word's wider use
+
+[[being-tereb|Tereb]]
+: the sentient undead kind to which nágengir belong
+
+[[affiliation-nahild|Faith of Nahild]]
+: the cult that names and commands them
 
 ## The Watch Beneath the Hidden Roof
 

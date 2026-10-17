@@ -283,20 +283,29 @@ Cattle have excellent hearing and smell, and they rely on their collective sense
 
 ## Attributes
 
-- **Strength:** 30-35 (1d6+29)
+Strength
+: 30-35 (1d6+29)
 
-- **Endurance:** 16-21 (1d6+15)
+Endurance
+: 16-21 (1d6+15)
 
-- **Agility:** 7-10 (1d4+6)
+Agility
+: 7-10 (1d4+6)
 
-- **Perception:** 12-17 (1d6+11)
+Perception
+: 12-17 (1d6+11)
 
-- **Scent:** 2-5 (1d4+1)
+Scent
+: 2-5 (1d4+1)
 
-- **Aura:** 2-5 (1d4+1)
+Aura
+: 2-5 (1d4+1)
 
-- **Will:** 8-13 (1d6+7)
+Will
+: 8-13 (1d6+7)
 
-- **Reasoning:** 2-5 (1d4+1)
+Reasoning
+: 2-5 (1d4+1)
 
-- **Creativity:** 1-4 (1d4)
+Creativity
+: 1-4 (1d4)

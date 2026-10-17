@@ -307,9 +307,20 @@ occurs to anyone that the god declined.
 
 ## Hierarchy in Summary {#hierarchy-in-summary}
 
-1.  **Tanzho**—The First Classifier. Not an administrator but the _principle of classification itself_. Does not hear petitions or manage bureaus. Exists as the cosmic authority from which all administrative legitimacy derives.
-2.  **Wéizhuo Daonéi**—The Jade Sovereign. Chief administrator of the celestial bureaucracy. Processes all inter-bureau business and maintains the master registry.
-3.  **Bureau Overseers (Teng Gui)**—Eleven ministers, each governing one domain of classified existence.
-4.  **Lesser Spirits**—Functionaries, clerks, monitors, and enforcement agents who staff the bureaus.
-5.  **Regional Spirits**—Local administrators assigned to specific territories. **Touwo** (Earth Officials) manage village-level spiritual affairs; **Tsaikén** (Hearth Monitors) observe individual households.
-6.  **Ancestor Spirits**—Deceased mortals whose moral ledger earned them a favorable posting in the spirit world. They serve as advocates and intermediaries for their living descendants—not out of love, but because familial advocacy is their assigned function.
+Tanzho
+: The First Classifier. Not an administrator but the _principle of classification itself_. Does not hear petitions or manage bureaus. Exists as the cosmic authority from which all administrative legitimacy derives.
+
+Wéizhuo Daonéi
+: The Jade Sovereign. Chief administrator of the celestial bureaucracy. Processes all inter-bureau business and maintains the master registry.
+
+Bureau Overseers (Teng Gui)
+: Eleven ministers, each governing one domain of classified existence.
+
+Lesser Spirits
+: Functionaries, clerks, monitors, and enforcement agents who staff the bureaus.
+
+Regional Spirits
+: Local administrators assigned to specific territories. **Touwo** (Earth Officials) manage village-level spiritual affairs; **Tsaikén** (Hearth Monitors) observe individual households.
+
+Ancestor Spirits
+: Deceased mortals whose moral ledger earned them a favorable posting in the spirit world. They serve as advocates and intermediaries for their living descendants—not out of love, but because familial advocacy is their assigned function.

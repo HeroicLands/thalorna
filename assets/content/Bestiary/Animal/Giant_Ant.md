@@ -259,20 +259,29 @@ The shell turns a cut and a thrust that strikes it square. A heavy blow cracks i
 
 ## Attributes
 
-- **Strength:** 10-15 (1d6+9)
+Strength
+: 10-15 (1d6+9)
 
-- **Endurance:** 13-18 (1d6+12)
+Endurance
+: 13-18 (1d6+12)
 
-- **Dexterity:** 8-13 (1d6+7)
+Dexterity
+: 8-13 (1d6+7)
 
-- **Agility:** 10-15 (1d6+9)
+Agility
+: 10-15 (1d6+9)
 
-- **Perception:** 9-14 (1d6+8)
+Perception
+: 9-14 (1d6+8)
 
-- **Aura:** 7-10 (1d4+6)
+Aura
+: 7-10 (1d4+6)
 
-- **Will:** 8-13 (1d6+7)
+Will
+: 8-13 (1d6+7)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 3-6 (1d4+2)
+Creativity
+: 3-6 (1d4+2)

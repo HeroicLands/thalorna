@@ -430,10 +430,14 @@ A tannery of Sazumun, chartered under the compact, whose vezakum has learned whe
 
 ## Plot Hooks
 
-1. **The Registration**—A pazasum of the Vezakuni has come up the coast with a list of unregistered tanners, and Dapuman's name is on it. Registration means the compact's fee, methods and prices; refusal means the pits filled in.
+The Registration
+: A pazasum of the Vezakuni has come up the coast with a list of unregistered tanners, and Dapuman's name is on it. Registration means the compact's fee, methods and prices; refusal means the pits filled in.
 
-2. **The Hands**—Dapuman has cut the tendon of his right hand, and the village has no one who can set it. The nearest physician is in Sazumun, and the tannery's vezakum has offered to send for one.
+The Hands
+: Dapuman has cut the tendon of his right hand, and the village has no one who can set it. The nearest physician is in Sazumun, and the tannery's vezakum has offered to send for one.
 
-3. **The Strange Hide**—The fishermen have brought Dapuman a hide off something they netted that none of them can name. He does not know how to tan it, and has begun to think it should not be tanned.
+The Strange Hide
+: The fishermen have brought Dapuman a hide off something they netted that none of them can name. He does not know how to tan it, and has begun to think it should not be tanned.
 
-4. **The Pits**—The village well has gone foul, and the elders have looked at the tan-pits. Moving them means a year without income and a debt to whoever lends it.
+The Pits
+: The village well has gone foul, and the elders have looked at the tan-pits. Moving them means a year without income and a debt to whoever lends it.

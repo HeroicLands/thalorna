@@ -22,6 +22,11 @@ The Ch'akun act as middlemen for southern goods in the north and carefully contr
 
 ## See Also
 
-- [[affiliation-tzumanotun|Ts'uma No'tun]]—the Serpent People and their nation
-- [[place-tzumanotunrgn|Ts'uma No'tun Region]]—the mountains and the swamps
-- [[place-hanalxilanrgn|Ha'nal Shi'lan]]—the borderlands where trade with them happens
+[[affiliation-tzumanotun|Ts'uma No'tun]]
+: the Serpent People and their nation
+
+[[place-tzumanotunrgn|Ts'uma No'tun Region]]
+: the mountains and the swamps
+
+[[place-hanalxilanrgn|Ha'nal Shi'lan]]
+: the borderlands where trade with them happens

@@ -252,20 +252,29 @@ The fish lives in the dark of the deep water and has almost no eyes. It finds it
 
 ## Attributes
 
-- **Strength:** 15-20 (1d6+14)
+Strength
+: 15-20 (1d6+14)
 
-- **Endurance:** 13-18 (1d6+12)
+Endurance
+: 13-18 (1d6+12)
 
-- **Dexterity:** 6-11 (1d6+5)
+Dexterity
+: 6-11 (1d6+5)
 
-- **Agility:** 7-12 (1d6+6)
+Agility
+: 7-12 (1d6+6)
 
-- **Perception:** 6-11 (1d6+5)
+Perception
+: 6-11 (1d6+5)
 
-- **Aura:** 8-11 (1d4+7)
+Aura
+: 8-11 (1d4+7)
 
-- **Will:** 8-13 (1d6+7)
+Will
+: 8-13 (1d6+7)
 
-- **Reasoning:** 4-7 (1d4+3)
+Reasoning
+: 4-7 (1d4+3)
 
-- **Creativity:** 3-6 (1d4+2)
+Creativity
+: 3-6 (1d4+2)

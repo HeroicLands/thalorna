@@ -42,9 +42,20 @@ Raiders test unescorted strings; a string with a rider of the right tribe is rar
 
 ## See Also
 
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the enclosing region
-- [[place-eastrnmrch|The Eastern March]]—the League's frontier at the margin's western edge
-- [[place-hekardesert|Desert of Hek'ar]]—the barren tract in the southwest
-- [[place-ruinsarkor|Ruins of Arkor]]—the buried city in Hek'ar
-- [[place-yemokwell|Yemok]]—the hand-off well at the margin's eastern end
-- [[lore-celestialroad|The Celestial Road]]—the caravan road to Tantsou
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the enclosing region
+
+[[place-eastrnmrch|The Eastern March]]
+: the League's frontier at the margin's western edge
+
+[[place-hekardesert|Desert of Hek'ar]]
+: the barren tract in the southwest
+
+[[place-ruinsarkor|Ruins of Arkor]]
+: the buried city in Hek'ar
+
+[[place-yemokwell|Yemok]]
+: the hand-off well at the margin's eastern end
+
+[[lore-celestialroad|The Celestial Road]]
+: the caravan road to Tantsou

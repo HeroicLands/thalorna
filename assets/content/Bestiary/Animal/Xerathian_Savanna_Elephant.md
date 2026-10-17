@@ -349,20 +349,29 @@ The trunk lifts a gate-bar, unties a rope, and digs water out of dry sand.
 
 ## Attributes
 
-- **Strength:** 54-59 (1d6+53)
+Strength
+: 54-59 (1d6+53)
 
-- **Endurance:** 46-51 (1d6+45)
+Endurance
+: 46-51 (1d6+45)
 
-- **Agility:** 6-9 (1d4+5)
+Agility
+: 6-9 (1d4+5)
 
-- **Perception:** 16-21 (1d6+15)
+Perception
+: 16-21 (1d6+15)
 
-- **Scent:** 6-9 (1d4+5)
+Scent
+: 6-9 (1d4+5)
 
-- **Aura:** 5-8 (1d4+4)
+Aura
+: 5-8 (1d4+4)
 
-- **Will:** 14-19 (1d6+13)
+Will
+: 14-19 (1d6+13)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 7-10 (1d4+6)
+Creativity
+: 7-10 (1d4+6)

@@ -337,20 +337,29 @@ Flowing water erodes it and long immersion dissolves it. It shrinks from water a
 
 ## Attributes
 
-- **Endurance:** 17-20 (1d4+16)
+Endurance
+: 17-20 (1d4+16)
 
-- **Dexterity:** 4-7 (1d4+3)
+Dexterity
+: 4-7 (1d4+3)
 
-- **Perception:** 10-13 (1d4+9)
+Perception
+: 10-13 (1d4+9)
 
-- **Aura:** 6-9 (1d4+5)
+Aura
+: 6-9 (1d4+5)
 
-- **Will:** 14-17 (1d4+13)
+Will
+: 14-17 (1d4+13)
 
-- **Reasoning:** 7-12 (1d6+6)
+Reasoning
+: 7-12 (1d6+6)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)
 
-- **Strength:** 48-53 (1d6+47)
+Strength
+: 48-53 (1d6+47)
 
-- **Agility:** 4-7 (1d4+3)
+Agility
+: 4-7 (1d4+3)

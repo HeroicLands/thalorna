@@ -46,7 +46,14 @@ The gallery lies below the level of the lower basin, at the foot of an old pilgr
 
 ## See Also
 
-- [[place-oasishirvn|Oasis of Shirvan]]—the city above it
-- [[affiliation-zurathra|Faith of Zúrathra]]—the Mother of the Oasis, whose spring is failing
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—the Teqemod who rule the city
-- [[lore-theshadow|The Shadow]]—what the shaft goes down to
+[[place-oasishirvn|Oasis of Shirvan]]
+: the city above it
+
+[[affiliation-zurathra|Faith of Zúrathra]]
+: the Mother of the Oasis, whose spring is failing
+
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: the Teqemod who rule the city
+
+[[lore-theshadow|The Shadow]]
+: what the shaft goes down to

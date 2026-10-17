@@ -20,5 +20,8 @@ data:
 
 ## See Also
 
-- [[place-garrethsaarnome|Gar-Reth'Sa'ar]]—the selat country that holds it
-- [[place-khelunu|Khelunu]]—the temple city of the selat
+[[place-garrethsaarnome|Gar-Reth'Sa'ar]]
+: the selat country that holds it
+
+[[place-khelunu|Khelunu]]
+: the temple city of the selat

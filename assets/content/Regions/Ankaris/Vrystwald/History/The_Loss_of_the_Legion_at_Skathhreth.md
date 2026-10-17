@@ -121,7 +121,14 @@ The tellings disagree about what became of him, and the Varokh keep all three:
 
 ## See Also
 
-- [[place-skathhreth|Skathhreth]]—the ford and the field
-- [[lore-legionsroad|The Legions' Road]]—the road the legion marched up, and the posts it cost
-- [[place-waldburg|Waldburg]]—where the elders broke the talisman
-- [[lore-frodradrnk|Frodrád]]—the elders' seats and the common command
+[[place-skathhreth|Skathhreth]]
+: the ford and the field
+
+[[lore-legionsroad|The Legions' Road]]
+: the road the legion marched up, and the posts it cost
+
+[[place-waldburg|Waldburg]]
+: where the elders broke the talisman
+
+[[lore-frodradrnk|Frodrád]]
+: the elders' seats and the common command

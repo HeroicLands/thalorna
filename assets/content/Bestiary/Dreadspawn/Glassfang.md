@@ -312,20 +312,29 @@ It runs very fast and keeps running, and once it has fled no one catches it.
 
 ## Attributes
 
-- **Endurance:** 4-7 (1d4+3)
+Endurance
+: 4-7 (1d4+3)
 
-- **Dexterity:** 13-16 (1d4+12)
+Dexterity
+: 13-16 (1d4+12)
 
-- **Agility:** 13-16 (1d4+12)
+Agility
+: 13-16 (1d4+12)
 
-- **Perception:** 9-12 (1d4+8)
+Perception
+: 9-12 (1d4+8)
 
-- **Aura:** 9-12 (1d4+8)
+Aura
+: 9-12 (1d4+8)
 
-- **Will:** 7-10 (1d4+6)
+Will
+: 7-10 (1d4+6)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 9-12 (1d4+8)
+Creativity
+: 9-12 (1d4+8)
 
-- **Strength:** 7-10 (1d4+6)
+Strength
+: 7-10 (1d4+6)

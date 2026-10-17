@@ -254,20 +254,29 @@ A Great White Shark's territory should be avoided—the risk is simply too great
 
 ## Attributes
 
-- **Strength:** 16-21 (1d6+15)
+Strength
+: 16-21 (1d6+15)
 
-- **Endurance:** 13-18 (1d6+12)
+Endurance
+: 13-18 (1d6+12)
 
-- **Dexterity:** 8-13 (1d6+7)
+Dexterity
+: 8-13 (1d6+7)
 
-- **Agility:** 10-15 (1d6+9)
+Agility
+: 10-15 (1d6+9)
 
-- **Perception:** 13-18 (1d6+12)
+Perception
+: 13-18 (1d6+12)
 
-- **Aura:** 9-14 (1d6+8)
+Aura
+: 9-14 (1d6+8)
 
-- **Will:** 11-16 (1d6+10)
+Will
+: 11-16 (1d6+10)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 3-6 (1d4+2)
+Creativity
+: 3-6 (1d4+2)

@@ -117,8 +117,17 @@ A party can come to Stormveld as Nordheim kin taking service in a hall, or from 
 
 ## See Also
 
-- [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] · [[place-stormveld|Stormveld]]—what the taking made
-- [[place-vardanreach|Vardanreach]] · [[lore-vardain|The Vardain]]—what it took
-- [[place-vorgald|Vorgald]]—the hold whose friendship ended
-- [[lore-nrgadhstry|Histories and Legends of Norgaad]]—the iron-man of Vrathavn
-- [[lore-domseycount|The Domsey Count]]—the Stormveld Generation
+[[affiliation-jrldmstrmvld|Jarldom of Stormveld]] · [[place-stormveld|Stormveld]]
+: what the taking made
+
+[[place-vardanreach|Vardanreach]] · [[lore-vardain|The Vardain]]
+: what it took
+
+[[place-vorgald|Vorgald]]
+: the hold whose friendship ended
+
+[[lore-nrgadhstry|Histories and Legends of Norgaad]]
+: the iron-man of Vrathavn
+
+[[lore-domseycount|The Domsey Count]]
+: the Stormveld Generation

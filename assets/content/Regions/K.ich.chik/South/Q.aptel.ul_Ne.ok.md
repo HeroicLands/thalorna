@@ -26,7 +26,14 @@ Q’aptel’ul Ne’ok has a martial culture; social status is determined by mil
 
 ## See Also
 
-- [[affiliation-kuxiixbal|K’ushi Ish'bal]]—The plateau realm
-- [[affiliation-qapteltzakl|Q’aptel Tsa’kul]]—The boundary lands
-- [[place-xelemixbalrgn|Shelem Ish’bal]]—The forsaken wastes
-- [[affiliation-itzanpnthn|Itsani]]—The priesthood that commands this garrison
+[[affiliation-kuxiixbal|K’ushi Ish'bal]]
+: The plateau realm
+
+[[affiliation-qapteltzakl|Q’aptel Tsa’kul]]
+: The boundary lands
+
+[[place-xelemixbalrgn|Shelem Ish’bal]]
+: The forsaken wastes
+
+[[affiliation-itzanpnthn|Itsani]]
+: The priesthood that commands this garrison

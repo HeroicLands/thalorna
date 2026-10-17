@@ -70,5 +70,8 @@ Valuables and documents gho into the vault; nothing here is sold from it. A trav
 
 ## See Also
 
-- [[lore-gewaatisdty|Gewa'atis]]—The patron of voyages the temple serves
-- [[affiliation-genzetgewats|Genzet'Gewa'atis]]—The council over the temple's holdings
+[[lore-gewaatisdty|Gewa'atis]]
+: The patron of voyages the temple serves
+
+[[affiliation-genzetgewats|Genzet'Gewa'atis]]
+: The council over the temple's holdings

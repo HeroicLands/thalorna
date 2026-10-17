@@ -53,8 +53,17 @@ Art shows her pale, a lantern in one hand for the light of classification lastin
 
 ## See Also
 
-- [[lore-fvlmntlrds|Five Elemental Lords]]—the administrators of the elements, beneath the great powers
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—the full pantheon, its bureaus and its demons
-- [[lore-celestlrdr|Celestial Order]]—the faith and cosmology the pantheon serves
-- [[lore-mandatehvn|Mandate of Heaven]]—the appointment that descends from Tanzho
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the empire governed beneath this pantheon
+[[lore-fvlmntlrds|Five Elemental Lords]]
+: the administrators of the elements, beneath the great powers
+
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: the full pantheon, its bureaus and its demons
+
+[[lore-celestlrdr|Celestial Order]]
+: the faith and cosmology the pantheon serves
+
+[[lore-mandatehvn|Mandate of Heaven]]
+: the appointment that descends from Tanzho
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the empire governed beneath this pantheon

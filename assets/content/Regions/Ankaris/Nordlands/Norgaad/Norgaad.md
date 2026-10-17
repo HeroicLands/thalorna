@@ -26,8 +26,17 @@ Between the ranges the country opens. The rolling heartland around [[place-asgar
 
 ## See Also
 
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]]—the kingdom that holds this land
-- [[place-nrdlndsrgn|Nordlands Region]]—the enclosing region
-- [[place-asgarthul|Asgarthul]]—the seat
-- [[lore-nrgadhstry|Histories and Legends of Norgaad]]—the lost expeditions and the tales of the passes
-- [[place-vruthborg|Vruthborg]]—a dead jarl's fortress in the Flarnfjall, whose furnace still burns
+[[affiliation-kingdmnrgd|Kingdom of Norgaad]]
+: the kingdom that holds this land
+
+[[place-nrdlndsrgn|Nordlands Region]]
+: the enclosing region
+
+[[place-asgarthul|Asgarthul]]
+: the seat
+
+[[lore-nrgadhstry|Histories and Legends of Norgaad]]
+: the lost expeditions and the tales of the passes
+
+[[place-vruthborg|Vruthborg]]
+: a dead jarl's fortress in the Flarnfjall, whose furnace still burns

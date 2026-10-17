@@ -101,8 +101,17 @@ The wealth flowing into P'enqal Ch'akal from trade allows the Ts'okum to acquire
 
 ## See Also
 
-- [[affiliation-ixtemtzul|Ishtem Tsul]]—The bear-people's boreal forests to the north and west
-- [[affiliation-xikulchakl|Shik'ul Ch'akal]]—The otter-people's woodlands to the east
-- [[place-hanalxilanrgn|Ha'nal Shi'lan]]—The contested river valleys to the south
-- [[affiliation-tzumanotun|Ts'uma No'tun]]—The serpent-people's swamps and mountains, connected through the Ha'nal Shi'lan borderlands
-- [[place-penqalchaklrgn|P'enqal Ch'akal Region]]—The land P'enqal Ch'akal holds
+[[affiliation-ixtemtzul|Ishtem Tsul]]
+: The bear-people's boreal forests to the north and west
+
+[[affiliation-xikulchakl|Shik'ul Ch'akal]]
+: The otter-people's woodlands to the east
+
+[[place-hanalxilanrgn|Ha'nal Shi'lan]]
+: The contested river valleys to the south
+
+[[affiliation-tzumanotun|Ts'uma No'tun]]
+: The serpent-people's swamps and mountains, connected through the Ha'nal Shi'lan borderlands
+
+[[place-penqalchaklrgn|P'enqal Ch'akal Region]]
+: The land P'enqal Ch'akal holds

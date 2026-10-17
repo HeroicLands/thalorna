@@ -49,10 +49,23 @@ The March lives on stock and passage. It sends wool, hides, cheese and horses do
 
 ## See Also
 
-- [[place-byzariargn|Bizaria Region]]—the region the March belongs to
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation that commissions its lord
-- [[affiliation-karvashion|Karvashion]]—the city that anchors it
-- [[place-dunharargn|Dunhara Region]]—the country its road leads to
-- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the neighbor across its southern hills
-- [[place-eastrnmrch|Eastern March]], [[place-northrnmrch|Northern March]]—the League's other marches
-- [[being-akhrelrthllr|Akhrelu Reth'el'Leru]]—trainer of the lord's beasts
+[[place-byzariargn|Bizaria Region]]
+: the region the March belongs to
+
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation that commissions its lord
+
+[[affiliation-karvashion|Karvashion]]
+: the city that anchors it
+
+[[place-dunharargn|Dunhara Region]]
+: the country its road leads to
+
+[[affiliation-kngdmmrdd|Kingdom of Amradad]]
+: the neighbor across its southern hills
+
+[[place-eastrnmrch|Eastern March]], [[place-northrnmrch|Northern March]]
+: the League's other marches
+
+[[being-akhrelrthllr|Akhrelu Reth'el'Leru]]
+: trainer of the lord's beasts

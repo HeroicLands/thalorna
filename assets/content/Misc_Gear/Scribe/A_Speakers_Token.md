@@ -16,5 +16,8 @@ A foreign court that is shown the token treats its bearer as speaking for the is
 
 ## See Also
 
-- [[affiliation-councilisland|The Council of the Island]]—which sends an Envoy only on its business
-- [[affiliation-kalihara|Kalihara]]—the polity and the office of Speaker for the Island
+[[affiliation-councilisland|The Council of the Island]]
+: which sends an Envoy only on its business
+
+[[affiliation-kalihara|Kalihara]]
+: the polity and the office of Speaker for the Island

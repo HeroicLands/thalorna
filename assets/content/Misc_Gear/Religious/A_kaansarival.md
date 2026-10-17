@@ -18,5 +18,8 @@ A kaan'vaar wears the cord at all times, and it is buried with its wearer. Anoth
 
 ## See Also
 
-- [[affiliation-tharivaan|Thári'vaan]]—the custodians, their ranks and their formation
-- [[lore-klhrsnctrs|The Sanctuaries of Kalihara]]—where custodians are formed
+[[affiliation-tharivaan|Thári'vaan]]
+: the custodians, their ranks and their formation
+
+[[lore-klhrsnctrs|The Sanctuaries of Kalihara]]
+: where custodians are formed

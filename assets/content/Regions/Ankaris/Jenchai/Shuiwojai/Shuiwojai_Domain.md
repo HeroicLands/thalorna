@@ -87,9 +87,20 @@ Henzo has petitioned for the office, and the Emperor has answered with a sealed 
 
 ## See Also
 
-- [[affiliation-jenchaiempr|Jenchai Empire]]—the realm, the court and the eight houses
-- [[place-rojai|Rojai]]—the mountain of the domain
-- [[place-hawu|Hawu]]—the castle town and seat
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
-- [[affiliation-hojujaidmn|Hojujai Domain]]—the rival house
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the mainland empire across the strait
+[[affiliation-jenchaiempr|Jenchai Empire]]
+: the realm, the court and the eight houses
+
+[[place-rojai|Rojai]]
+: the mountain of the domain
+
+[[place-hawu|Hawu]]
+: the castle town and seat
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait
+
+[[affiliation-hojujaidmn|Hojujai Domain]]
+: the rival house
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the mainland empire across the strait

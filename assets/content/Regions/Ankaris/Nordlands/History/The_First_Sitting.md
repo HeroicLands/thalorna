@@ -105,8 +105,17 @@ A party at a sitting can be handed either half of this. A Malagnan claimant who 
 
 ## See Also
 
-- [[place-domsey|Domsey]]—the island, the seats and the hallowing
-- [[lore-domseycount|The Domsey Count]]—the reckoning that begins with this sitting
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—the crown that keeps the island
-- [[lore-nordkinwars|The Kin-Wars]]—the next time Nordheim and Malagna settled a quarrel with hirvs
-- [[lore-bloodfield|Blood-fields]]—what the unreckoned dead left under the seats
+[[place-domsey|Domsey]]
+: the island, the seats and the hallowing
+
+[[lore-domseycount|The Domsey Count]]
+: the reckoning that begins with this sitting
+
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+: the crown that keeps the island
+
+[[lore-nordkinwars|The Kin-Wars]]
+: the next time Nordheim and Malagna settled a quarrel with hirvs
+
+[[lore-bloodfield|Blood-fields]]
+: what the unreckoned dead left under the seats

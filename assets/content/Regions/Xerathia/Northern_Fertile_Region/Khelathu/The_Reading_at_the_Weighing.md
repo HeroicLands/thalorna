@@ -113,8 +113,17 @@ Close what you owe; leave open what is owed to you.
 
 ## See Also
 
-- [[lore-qearetdty|Qe'aret]]—the goddess of the scale, and the doctrine of the Weighing
-- [[affiliation-qearet|Faith of Qe'aret]]—the priesthood that keeps the law and the record
-- [[lore-khelathiclt|Khelathi]]—the two ledgers, the Closing and the Reading
-- [[place-zulaten|Zulaten]]—where the dead whose entries close go
-- [[affiliation-garhalzi|Gar-Hálzi]]—the temple-treasuries whose grain credit stands in a temple account
+[[lore-qearetdty|Qe'aret]]
+: the goddess of the scale, and the doctrine of the Weighing
+
+[[affiliation-qearet|Faith of Qe'aret]]
+: the priesthood that keeps the law and the record
+
+[[lore-khelathiclt|Khelathi]]
+: the two ledgers, the Closing and the Reading
+
+[[place-zulaten|Zulaten]]
+: where the dead whose entries close go
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: the temple-treasuries whose grain credit stands in a temple account

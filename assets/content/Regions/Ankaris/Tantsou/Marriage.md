@@ -65,11 +65,26 @@ The process takes a petition to the Bureau of Creation, the return of each ances
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]]—the castes that may and may not marry
-- [[lore-ancstrwrshp|Ancestor Worship]]—the ancestors whose consent a marriage needs
-- [[lore-celestlrdr|Celestial Order]]—the cosmology a marriage is filed within
-- [[lore-clndrstrlgy|Calendar and Astrology]]—the spirit animals read for a match
-- [[lore-numerology|Numerology]]—the numbers that set the wedding day
-- [[lore-personlnms|Personal Names]]—clan, position and place, and the rare personal name
-- [[lore-tseising|Law and Honor]]—the law behind the marriage contract
-- [[affiliation-tantsouempr|Empire of Tantsou]]—overview of imperial society
+[[lore-castelaws|Caste Laws]]
+: the castes that may and may not marry
+
+[[lore-ancstrwrshp|Ancestor Worship]]
+: the ancestors whose consent a marriage needs
+
+[[lore-celestlrdr|Celestial Order]]
+: the cosmology a marriage is filed within
+
+[[lore-clndrstrlgy|Calendar and Astrology]]
+: the spirit animals read for a match
+
+[[lore-numerology|Numerology]]
+: the numbers that set the wedding day
+
+[[lore-personlnms|Personal Names]]
+: clan, position and place, and the rare personal name
+
+[[lore-tseising|Law and Honor]]
+: the law behind the marriage contract
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: overview of imperial society

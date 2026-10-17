@@ -32,6 +32,11 @@ The market is the other half of the town. Its great produce-markets buy the gard
 
 ## See Also
 
-- [[affiliation-selatgaulegr|The Selat of Gau-Legiru]]—Parent selat
-- [[affiliation-deltaselatu|The Delta Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
+[[affiliation-selatgaulegr|The Selat of Gau-Legiru]]
+: Parent selat
+
+[[affiliation-deltaselatu|The Delta Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview

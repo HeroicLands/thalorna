@@ -50,4 +50,5 @@ What the necropoli still hold is either published for scholarship or sold, and t
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the region it belongs to
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the region it belongs to

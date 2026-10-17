@@ -161,8 +161,11 @@ The signs cut into it hold the working. Scoring them through with a blade stops 
 
 ## Attributes
 
-- **Strength:** 22-27 (1d6+21)
+Strength
+: 22-27 (1d6+21)
 
-- **Agility:** 4-7 (1d4+3)
+Agility
+: 4-7 (1d4+3)
 
-- **Perception:** 10-15 (1d6+9)
+Perception
+: 10-15 (1d6+9)

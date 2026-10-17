@@ -71,10 +71,23 @@ Iqeru uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of 
 
 ## See Also
 
-- [[lore-twothrones|The War of the Two Thrones]]—the battle fought in the selat's wheat
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—parent selat class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—imperial overview
-- [[place-iqeru|Iqeru]]—selat capital
-- [[affiliation-uqaa|Faith of Uqa'a]]—patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—temple-treasuries
-- [[place-iqeruselat|Iqeru Selat]]—the land the selat holds
+[[lore-twothrones|The War of the Two Thrones]]
+: the battle fought in the selat's wheat
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: parent selat class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: imperial overview
+
+[[place-iqeru|Iqeru]]
+: selat capital
+
+[[affiliation-uqaa|Faith of Uqa'a]]
+: patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: temple-treasuries
+
+[[place-iqeruselat|Iqeru Selat]]
+: the land the selat holds

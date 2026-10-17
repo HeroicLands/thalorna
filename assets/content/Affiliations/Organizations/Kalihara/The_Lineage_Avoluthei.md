@@ -69,7 +69,14 @@ The Avoluthei sit in [[affiliation-councilisland|The Council of the Island]] thr
 
 ## See Also
 
-- [[place-avoluthei|Avoluthei]]—the pass village, the lineage's seat
-- [[place-klhrcldpss|The Cloud Pass]]—the pass the lineage keeps and the Blindfolded Walk
-- [[place-klhrring|The Ring]]—the mountains the road crosses
-- [[affiliation-councilisland|The Council of the Island]]—where the Elder sits
+[[place-avoluthei|Avoluthei]]
+: the pass village, the lineage's seat
+
+[[place-klhrcldpss|The Cloud Pass]]
+: the pass the lineage keeps and the Blindfolded Walk
+
+[[place-klhrring|The Ring]]
+: the mountains the road crosses
+
+[[affiliation-councilisland|The Council of the Island]]
+: where the Elder sits

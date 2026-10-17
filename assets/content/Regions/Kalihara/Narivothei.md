@@ -37,6 +37,11 @@ Narivothei lies a long day from the shore of the lake by forest paths that belon
 
 ## See Also
 
-- [[place-klhrdpfrst|The Deep Forest]]—the country the village borders
-- [[place-klhrring|The Ring]]—the mountains above the valley
-- [[place-reithovani|Reithovani]]—a coastal village whose stone has also gone dark
+[[place-klhrdpfrst|The Deep Forest]]
+: the country the village borders
+
+[[place-klhrring|The Ring]]
+: the mountains above the valley
+
+[[place-reithovani|Reithovani]]
+: a coastal village whose stone has also gone dark

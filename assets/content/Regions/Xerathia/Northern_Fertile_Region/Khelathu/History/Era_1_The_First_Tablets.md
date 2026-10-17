@@ -33,7 +33,14 @@ Lin'Uzner's twenty-six years are the first reign of a length a man could live, a
 
 ## See Also
 
-- [[lore-akhsunroad|The Sun's Road]]—the age that follows
-- [[lore-khelathclndr|The Khelathi Calendar]]—the ages of the count in order
-- [[lore-garauu|Gar-Auu]]—the king-list and the Keepers' caution about its oldest depth
-- [[place-firsttablets|The Ground of the First Tablets]] · [[place-beshakan|Beshakan]] · [[place-chenosolis|Chenosolis]]—what the age left on the ground
+[[lore-akhsunroad|The Sun's Road]]
+: the age that follows
+
+[[lore-khelathclndr|The Khelathi Calendar]]
+: the ages of the count in order
+
+[[lore-garauu|Gar-Auu]]
+: the king-list and the Keepers' caution about its oldest depth
+
+[[place-firsttablets|The Ground of the First Tablets]] · [[place-beshakan|Beshakan]] · [[place-chenosolis|Chenosolis]]
+: what the age left on the ground

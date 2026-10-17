@@ -256,20 +256,29 @@ Cold slows it and weakens its venom. Bright light does not harm it, but it avoid
 
 ## Attributes
 
-- **Strength:** 13-16 (1d4+12)
+Strength
+: 13-16 (1d4+12)
 
-- **Endurance:** 11-14 (1d4+10)
+Endurance
+: 11-14 (1d4+10)
 
-- **Dexterity:** 9-12 (1d4+8)
+Dexterity
+: 9-12 (1d4+8)
 
-- **Agility:** 13-16 (1d4+12)
+Agility
+: 13-16 (1d4+12)
 
-- **Perception:** 11-14 (1d4+10)
+Perception
+: 11-14 (1d4+10)
 
-- **Aura:** 9-12 (1d4+8)
+Aura
+: 9-12 (1d4+8)
 
-- **Will:** 9-12 (1d4+8)
+Will
+: 9-12 (1d4+8)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 7-10 (1d4+6)
+Creativity
+: 7-10 (1d4+6)

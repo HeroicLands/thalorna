@@ -20,5 +20,8 @@ A fisherman here will tell you the bargain is a fair one: a fishing village a mi
 
 ## See Also
 
-- [[place-rajapurjnpd|Rajepur Janapoda]]—the land
-- [[affiliation-rajaprjnpd|Rajepur Janapoda]]—the temple-republic that holds it
+[[place-rajapurjnpd|Rajepur Janapoda]]
+: the land
+
+[[affiliation-rajaprjnpd|Rajepur Janapoda]]
+: the temple-republic that holds it

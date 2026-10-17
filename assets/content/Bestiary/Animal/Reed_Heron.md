@@ -288,20 +288,29 @@ Herons nest together, and a threat to one nest brings the whole colony into the 
 
 ## Attributes
 
-- **Strength:** 3-6 (1d4+2)
+Strength
+: 3-6 (1d4+2)
 
-- **Endurance:** 6-9 (1d4+5)
+Endurance
+: 6-9 (1d4+5)
 
-- **Dexterity:** 11-16 (1d6+10)
+Dexterity
+: 11-16 (1d6+10)
 
-- **Agility:** 12-17 (1d6+11)
+Agility
+: 12-17 (1d6+11)
 
-- **Perception:** 12-17 (1d6+11)
+Perception
+: 12-17 (1d6+11)
 
-- **Aura:** 10-15 (1d6+9)
+Aura
+: 10-15 (1d6+9)
 
-- **Will:** 7-10 (1d4+6)
+Will
+: 7-10 (1d4+6)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

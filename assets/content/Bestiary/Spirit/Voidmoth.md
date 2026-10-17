@@ -300,20 +300,29 @@ It senses the boundaries between worlds and knows when they are approached, cros
 
 ## Attributes
 
-- **Strength:** 6-9 (1d4+5)
+Strength
+: 6-9 (1d4+5)
 
-- **Endurance:** 9-12 (1d4+8)
+Endurance
+: 9-12 (1d4+8)
 
-- **Dexterity:** 11-14 (1d4+10)
+Dexterity
+: 11-14 (1d4+10)
 
-- **Agility:** 13-16 (1d4+12)
+Agility
+: 13-16 (1d4+12)
 
-- **Perception:** 9-12 (1d4+8)
+Perception
+: 9-12 (1d4+8)
 
-- **Aura:** 13-16 (1d4+12)
+Aura
+: 13-16 (1d4+12)
 
-- **Will:** 7-10 (1d4+6)
+Will
+: 7-10 (1d4+6)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 11-14 (1d4+10)
+Creativity
+: 11-14 (1d4+10)

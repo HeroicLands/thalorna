@@ -56,4 +56,5 @@ Say forty households bring their harvest to the delta landing after the harvest.
 
 ## See Also
 
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

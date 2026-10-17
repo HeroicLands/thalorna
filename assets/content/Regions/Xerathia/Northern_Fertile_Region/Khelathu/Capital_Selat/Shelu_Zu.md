@@ -22,5 +22,8 @@ Shelu-Zu sits in the market-belt that rings [[place-galezkara|Galezkara]], part 
 
 ## See Also
 
-- [[place-galezkaraslt|Galezkara Selat]]—The selat country that holds it
-- [[place-galezkara|Galezkara]]—The imperial city
+[[place-galezkaraslt|Galezkara Selat]]
+: The selat country that holds it
+
+[[place-galezkara|Galezkara]]
+: The imperial city

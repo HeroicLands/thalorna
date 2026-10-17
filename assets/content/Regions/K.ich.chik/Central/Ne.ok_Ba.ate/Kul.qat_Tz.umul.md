@@ -66,11 +66,20 @@ By the eastern trail from the highland valleys toward the coast, which climbs th
 
 ## See Also
 
-- [[scenario-redstepsrainfst|The Red Steps in the Eastern Rainforest]]—a scenario set here
-- [[place-neokbaatergn|Ne'ok Ba'ate Region]]—the isthmus and its eastern rainforest
-- [[affiliation-puqilchaqun|Faith of P'uqil Ch'akun]]—the serpent-keepers whose temple it is
-- [[affiliation-piqalkulqat|Faith of P'iqal Kul'qat]]—the builder-priests who raised it and keep its register
-- [[lore-dreadspawncrtr|Dreadspawn]]—the Living Works of the Builder
+[[scenario-redstepsrainfst|The Red Steps in the Eastern Rainforest]]
+: a scenario set here
+
+[[place-neokbaatergn|Ne'ok Ba'ate Region]]
+: the isthmus and its eastern rainforest
+
+[[affiliation-puqilchaqun|Faith of P'uqil Ch'akun]]
+: the serpent-keepers whose temple it is
+
+[[affiliation-piqalkulqat|Faith of P'iqal Kul'qat]]
+: the builder-priests who raised it and keep its register
+
+[[lore-dreadspawncrtr|Dreadspawn]]
+: the Living Works of the Builder
 
 # The Truth of Kul'qat Ts'umul {#truth .secret}
 

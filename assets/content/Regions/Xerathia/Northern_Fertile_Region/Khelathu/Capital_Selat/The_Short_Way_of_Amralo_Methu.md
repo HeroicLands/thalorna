@@ -44,7 +44,14 @@ The Short Way is not a blood-field. It holds two bodies, buried with rites, and 
 
 ## See Also
 
-- [[lore-vylconquest|The Vylarian Conquest]] · [[lore-foreignhs|The Closing of the Foreign House]]—the house and its end
-- [[place-zugezer|Zu-Gezer]]—the necropolis, with the cursed road and the Ways of the other houses
-- [[place-chariotfld|The Chariot Field]]—the field the occupation began on
-- [[lore-garauu|Gar-Auu]]—the king-list that enters the house
+[[lore-vylconquest|The Vylarian Conquest]] · [[lore-foreignhs|The Closing of the Foreign House]]
+: the house and its end
+
+[[place-zugezer|Zu-Gezer]]
+: the necropolis, with the cursed road and the Ways of the other houses
+
+[[place-chariotfld|The Chariot Field]]
+: the field the occupation began on
+
+[[lore-garauu|Gar-Auu]]
+: the king-list that enters the house

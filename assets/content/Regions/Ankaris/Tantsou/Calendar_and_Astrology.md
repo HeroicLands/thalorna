@@ -39,29 +39,41 @@ The twelve months of the Tantsou year follow the cycle of classification: each i
 
 Ten of the twelve run thirty days. Jingyou, the month of the courts' heaviest case loads, runs thirty-two, and Shouyou, the month of the autumn trading season, runs thirty-three: the busiest months of the administrative year are also its longest.
 
-1. **Juiyou - "Month of Festivals"**—Early Spring. The year's opening administrative period. All ledgers are settled from the previous year, new petitions are filed, and the cosmic accounts are reopened. The Emperor performs the annual audit of the empire's Lei. Failure to properly observe Juiyou's rituals is believed to leave the entire year's filings unprocessed.
+Juiyou - "Month of Festivals"
+: Early Spring. The year's opening administrative period. All ledgers are settled from the previous year, new petitions are filed, and the cosmic accounts are reopened. The Emperor performs the annual audit of the empire's Lei. Failure to properly observe Juiyou's rituals is believed to leave the entire year's filings unprocessed.
 
-2. **Mouyou - "Month of Wood"**—Mid-Spring. The month takes its name from the growing timber of the spring woods, and the Bureau of Creation (Tsai Sei) is ascendant. This is the month of planting, growth and the renewal of living things. Agricultural petitions are filed through the Bureau of Allocation, and the Nouwén conduct planting ceremonies to register their crops with the elemental administration.
+Mouyou - "Month of Wood"
+: Mid-Spring. The month takes its name from the growing timber of the spring woods, and the Bureau of Creation (Tsai Sei) is ascendant. This is the month of planting, growth and the renewal of living things. Agricultural petitions are filed through the Bureau of Allocation, and the Nouwén conduct planting ceremonies to register their crops with the elemental administration.
 
-3. **Hoyou - "Month of Fire"**—Late Spring. The Bureau of Transformation (Ho Sei) is ascendant. A month of change and purification, when old classifications are burned away to make room for new ones. Households burn the year's spent spirit paper: denied petitions, lapsed contracts and documents that no longer apply. The forges are blessed, and metalworkers file their annual production reports.
+Hoyou - "Month of Fire"
+: Late Spring. The Bureau of Transformation (Ho Sei) is ascendant. A month of change and purification, when old classifications are burned away to make room for new ones. Households burn the year's spent spirit paper: denied petitions, lapsed contracts and documents that no longer apply. The forges are blessed, and metalworkers file their annual production reports.
 
-4. **Houyou - "Month of Balance"**—Early Summer. The midpoint of the year, when the Celestial Administration conducts its mid-year review. Leng and Ha flows are at equilibrium. This is the most important month for resolving inter-bureau disputes, settling jurisdictional conflicts, and ensuring that no domain has accumulated more authority than its classification warrants. The mid-year festival (Hou Nié Jui) is held here.
+Houyou - "Month of Balance"
+: Early Summer. The midpoint of the year, when the Celestial Administration conducts its mid-year review. Leng and Ha flows are at equilibrium. This is the most important month for resolving inter-bureau disputes, settling jurisdictional conflicts, and ensuring that no domain has accumulated more authority than its classification warrants. The mid-year festival (Hou Nié Jui) is held here.
 
-5. **Touyou - "Month of Earth"**—Mid-Summer. Stability and foundation. The earth element is ascendant, and this month belongs to repair: roads are mended, walls and dikes shored up, and granaries made sound. The Nouwén begin preparing for harvest, and the Bureau of Allocation processes crop-yield projections.
+Touyou - "Month of Earth"
+: Mid-Summer. Stability and foundation. The earth element is ascendant, and this month belongs to repair: roads are mended, walls and dikes shored up, and granaries made sound. The Nouwén begin preparing for harvest, and the Bureau of Allocation processes crop-yield projections.
 
-6. **Jingyou - "Month of Metal"**—Late Summer. Distinction and enforcement. The metal element draws sharp lines between categories, and this month is associated with law, judgment, and the reinforcement of boundaries. Courts process their heaviest case loads, caste inspections are conducted, and the enforcement arms of the bureaus are most active. The Wohou caste considers this their patron month.
+Jingyou - "Month of Metal"
+: Late Summer. Distinction and enforcement. The metal element draws sharp lines between categories, and this month is associated with law, judgment, and the reinforcement of boundaries. Courts process their heaviest case loads, caste inspections are conducted, and the enforcement arms of the bureaus are most active. The Wohou caste considers this their patron month.
 
-7. **Shouyou - "Month of Water"**—Early Autumn. Flow and transition. Water carries Lei between classifications, and this month governs the movement of goods, people, and spiritual resources. Merchant caravans launch their autumn trading seasons, the Bureau of Passage (Dou Sei) processes travel petitions, and purification rituals are conducted to cleanse accumulated spiritual residue.
+Shouyou - "Month of Water"
+: Early Autumn. Flow and transition. Water carries Lei between classifications, and this month governs the movement of goods, people, and spiritual resources. Merchant caravans launch their autumn trading seasons, the Bureau of Passage (Dou Sei) processes travel petitions, and purification rituals are conducted to cleanse accumulated spiritual residue.
 
-8. **Wéngyou - "Month of Winds"**—Mid-Autumn. Communication and transmission. The wind carries spirit documents between the mortal and celestial planes, and this month is when the celestial administration's annual directives are believed to arrive. The Tanchéi spend this month in intense divination, reading omens to interpret the year's incoming celestial dispatches. The season of introspection begins.
+Wéngyou - "Month of Winds"
+: Mid-Autumn. Communication and transmission. The wind carries spirit documents between the mortal and celestial planes, and this month is when the celestial administration's annual directives are believed to arrive. The Tanchéi spend this month in intense divination, reading omens to interpret the year's incoming celestial dispatches. The season of introspection begins.
 
-9. **Youjui - "Month of the Moon"**—Late Autumn. The Minister of the Moon (Youwéi) is ascendant. The boundary between Sorted and Unsorted loosens as Ha flow strengthens with the lengthening nights. This is the month of prophecy, dreams, and night-counsel—when the Bureau of Night Counsel (Mei Sei) is most active and the veil between the mortal and spirit worlds is thinnest. Divination is most reliable during Youjui, but so is the risk of Henléi seepage.
+Youjui - "Month of the Moon"
+: Late Autumn. The Minister of the Moon (Youwéi) is ascendant. The boundary between Sorted and Unsorted loosens as Ha flow strengthens with the lengthening nights. This is the month of prophecy, dreams, and night-counsel—when the Bureau of Night Counsel (Mei Sei) is most active and the veil between the mortal and spirit worlds is thinnest. Divination is most reliable during Youjui, but so is the risk of Henléi seepage.
 
-10. **Chiaoyou - "Month of Winter"**—Early Winter. Contraction and conservation. The classification system draws inward, strengthening its core boundaries as the external world grows cold and still. Resources are conserved, spiritual reserves are hoarded, and families begin preparing their offerings for the great mid-winter settlement with the dead.
+Chiaoyou - "Month of Winter"
+: Early Winter. Contraction and conservation. The classification system draws inward, strengthening its core boundaries as the external world grows cold and still. Resources are conserved, spiritual reserves are hoarded, and families begin preparing their offerings for the great mid-winter settlement with the dead.
 
-11. **Zhenyou - "Month of Snow"**—Mid-Winter. The month of the dead. The Festival of the Dead (Singléi Jui) is held here—the most elaborate and expensive ritual in the Tantsou calendar, when families settle their annual accounts with their ancestor spirits. Massive quantities of spirit money and goods are burned, ancestral ledgers are reviewed, and the Leigen commune with the dead to receive their instructions for the coming year.
+Zhenyou - "Month of Snow"
+: Mid-Winter. The month of the dead. The Festival of the Dead (Singléi Jui) is held here—the most elaborate and expensive ritual in the Tantsou calendar, when families settle their annual accounts with their ancestor spirits. Massive quantities of spirit money and goods are burned, ancestral ledgers are reviewed, and the Leigen commune with the dead to receive their instructions for the coming year.
 
-12. **Chenyou - "Month of Frost"**—Late Winter. Closure and preparation. The final administrative period of the year. All outstanding filings must be completed, all spiritual debts settled, all unresolved petitions either processed or formally withdrawn. The New Year Purification (Shui Nié Wo) ritual cleanses homes, temples, and administrative offices to prepare for the fresh cycle. Hearth Monitors (Tsaikén) file their final annual reports on each household's moral conduct.
+Chenyou - "Month of Frost"
+: Late Winter. Closure and preparation. The final administrative period of the year. All outstanding filings must be completed, all spiritual debts settled, all unresolved petitions either processed or formally withdrawn. The New Year Purification (Shui Nié Wo) ritual cleanses homes, temples, and administrative offices to prepare for the fresh cycle. Hearth Monitors (Tsaikén) file their final annual reports on each household's moral conduct.
 
 ## Dynasty-Based Year Naming (Secular Calendar)
 
@@ -69,8 +81,11 @@ In law, trade and government, a year is named for the dynasty and the reigning E
 
 **Naming Convention:**
 
-- **Format**: "Year X of the [Emperor's Name] Emperor of the [Dynasty Name] Dynasty"
-- **Example**: **"Year 5 of the Zhuozho Emperor of the Tanzho Dynasty"** (Tanzho Zhuozho Wuen Nié)
+Format
+: "Year X of the [Emperor's Name] Emperor of the [Dynasty Name] Dynasty"
+
+Example
+: **"Year 5 of the Zhuozho Emperor of the Tanzho Dynasty"** (Tanzho Zhuozho Wuen Nié)
 
 **Era-Based:** Each emperor's reign constitutes a separate administrative era. When a new emperor receives the [[lore-mandatehvn|Mandate of Heaven]], a new era begins and the year count resets. Documents of the old era stay valid and must be cross-referenced to the new one, and every succession sets whole bureaus of scholars to that work for years.
 
@@ -155,14 +170,18 @@ The Tantsou festivals are celebrations, and they are also filing days the empire
 
 The most significant festival in Tantsou, held on the first day of Juiyou at the new year. The Emperor performs the **annual audit**—a formal review of the empire's Lei, in which he (assisted by the Tanchéi) symbolically opens the celestial filing system for the new year, confirms that the previous year's accounts are settled, and authorizes the processing of new business. Feasts, lantern-lightings and public performances surround the rite, and the people's part in them is counted as their contribution to the audit: every household that takes part is entered in the empire's reckoning of its Lei.
 
-- **Time**: First day of Juiyou (new year, transition from winter to spring)
-- **Castes Involved:** Zhazho (Emperor and Warlords lead the audit), Tanchéi (process divinations and verify the cosmic accounts), Wánduo (perform the magical workings that formally open the new filing cycle), Nouwén (community participation registers the population's collective Lei)
+Time
+: First day of Juiyou (new year, transition from winter to spring)
+
+Castes Involved
+: Zhazho (Emperor and Warlords lead the audit), Tanchéi (process divinations and verify the cosmic accounts), Wánduo (perform the magical workings that formally open the new filing cycle), Nouwén (community participation registers the population's collective Lei)
 
 ## Festival of the Five Elements (Wuen Tsai Jui)
 
 A five-day festival in which each day is dedicated to one of the primary elemental classifications. Its purpose is to confirm that the elements are holding: that air still behaves as air, fire as fire and earth as earth. Each day's rituals are specifically designed to test and reinforce one element: kites and bells on the day of Air, forge-work on the day of Metal, purification burning on the day of Fire, water rituals on the day of Water, construction on the day of Earth.
 
-- **Time**: Mid-Mouyou, when the elements are believed to be in their most stable alignment
+Time
+: Mid-Mouyou, when the elements are believed to be in their most stable alignment
 
 ## The Mid-Year Festival of Balance (Hou Nié Jui)
 
@@ -182,9 +201,20 @@ The final administrative event of the year, held during Chenyou. Every household
 
 ## See Also
 
-- [[lore-celestlrdr|Celestial Order]]—The cosmological and administrative framework that the calendar serves
-- [[lore-phlsphyleiwo|Philosophy of Leiwo]]—The Lei philosophy underlying the elemental month system
-- [[lore-numerology|Numerology]]—The significance of numbers in Tantsou's classification theory
-- [[lore-ancstrwrshp|Ancestor Worship]]—The spiritual economy that the Festival of the Dead services
-- [[lore-tantsoudyn|The Opening of the Tantsou Record]]—the oldest dynasty the archive can date
-- [[affiliation-tantsouempr|Empire of Tantsou]]—The empire whose administration the calendar structures
+[[lore-celestlrdr|Celestial Order]]
+: The cosmological and administrative framework that the calendar serves
+
+[[lore-phlsphyleiwo|Philosophy of Leiwo]]
+: The Lei philosophy underlying the elemental month system
+
+[[lore-numerology|Numerology]]
+: The significance of numbers in Tantsou's classification theory
+
+[[lore-ancstrwrshp|Ancestor Worship]]
+: The spiritual economy that the Festival of the Dead services
+
+[[lore-tantsoudyn|The Opening of the Tantsou Record]]
+: the oldest dynasty the archive can date
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: The empire whose administration the calendar structures

@@ -20,5 +20,8 @@ Lady Nulthira brings guests to Wildwood Manor to hunt, and Gnarthorv guides and 
 
 ## See Also
 
-- [[being-gnrthrvsnrvrkh|Gnarthorv Snarvaruk]]—the manor's chief huntsman
-- [[place-thraldfjord|Thraldfjord]]—the fishing village below the manor
+[[being-gnrthrvsnrvrkh|Gnarthorv Snarvaruk]]
+: the manor's chief huntsman
+
+[[place-thraldfjord|Thraldfjord]]
+: the fishing village below the manor

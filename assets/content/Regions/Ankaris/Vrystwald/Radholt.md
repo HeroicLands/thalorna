@@ -22,6 +22,11 @@ The alarm sounds the moment anyone is missing near [[place-grimak|Grimak]]. The 
 
 ## See Also
 
-- [[place-skathwald|Skathwald]]—the reach around the village
-- [[place-grimak|Grimak]]—the thicket the alarm guards against
-- [[lore-grimakburning|The Burning at Grimak]]—the war behind the custom
+[[place-skathwald|Skathwald]]
+: the reach around the village
+
+[[place-grimak|Grimak]]
+: the thicket the alarm guards against
+
+[[lore-grimakburning|The Burning at Grimak]]
+: the war behind the custom

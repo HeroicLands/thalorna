@@ -147,13 +147,32 @@ A person placed outside the tarona, by transgression or by birth, is excluded fr
 
 ## See Also
 
-- [[place-vindhyalayaland|Shikharalaya]]—the land the kingdom holds
-- [[place-suryagarha|Suryagarha]]—the fortress-capital and its customs-house
-- [[place-suryadvara|Suryadvara]]—the pass the capital stands across
-- [[place-graznmntns|The Grazian Mountains]]—the wall the kingdom's passes cross
-- [[affiliation-osketguides|The Osket]] and [[affiliation-hvarnguides|the Hvarn]]—the guide-peoples above the shrines
-- [[affiliation-khzrncnfdrtn|Tellumi Confederation]], [[affiliation-tribestrzd|Atarzád]]—trading partners beyond the summits
-- [[affiliation-chandrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra]]—southern trade partners
-- [[affiliation-varakpnthn|Varnuka Pantheon]]—religious tradition
-- [[place-vedyarargn|Vedyara Region]]—regional overview
-- [[skill-vedyarlng|Vedyari]]—language and naming
+[[place-vindhyalayaland|Shikharalaya]]
+: the land the kingdom holds
+
+[[place-suryagarha|Suryagarha]]
+: the fortress-capital and its customs-house
+
+[[place-suryadvara|Suryadvara]]
+: the pass the capital stands across
+
+[[place-graznmntns|The Grazian Mountains]]
+: the wall the kingdom's passes cross
+
+[[affiliation-osketguides|The Osket]] and [[affiliation-hvarnguides|the Hvarn]]
+: the guide-peoples above the shrines
+
+[[affiliation-khzrncnfdrtn|Tellumi Confederation]], [[affiliation-tribestrzd|Atarzád]]
+: trading partners beyond the summits
+
+[[affiliation-chandrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra]]
+: southern trade partners
+
+[[affiliation-varakpnthn|Varnuka Pantheon]]
+: religious tradition
+
+[[place-vedyarargn|Vedyara Region]]
+: regional overview
+
+[[skill-vedyarlng|Vedyari]]
+: language and naming

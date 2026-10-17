@@ -67,6 +67,11 @@ The hardest country to hunt in was the one that had taught the Order its craft. 
 
 ## See Also
 
-- [[lore-kandrol|The Kandrol]]—the charter that made the hunt a duty
-- [[affiliation-ordoarcanis|Thordimalon]]—the body that conducted it
-- [[place-helionis|Helionis]]—the country it was hardest to hunt in
+[[lore-kandrol|The Kandrol]]
+: the charter that made the hunt a duty
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: the body that conducted it
+
+[[place-helionis|Helionis]]
+: the country it was hardest to hunt in

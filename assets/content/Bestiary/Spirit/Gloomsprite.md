@@ -271,20 +271,29 @@ It is bound to honor an explicit bargain, and so is the one who makes it with it
 
 ## Attributes
 
-- **Endurance:** 6-9 (1d4+5)
+Endurance
+: 6-9 (1d4+5)
 
-- **Dexterity:** 7-12 (1d6+6)
+Dexterity
+: 7-12 (1d6+6)
 
-- **Agility:** 13-16 (1d4+12)
+Agility
+: 13-16 (1d4+12)
 
-- **Perception:** 9-12 (1d4+8)
+Perception
+: 9-12 (1d4+8)
 
-- **Aura:** 11-14 (1d4+10)
+Aura
+: 11-14 (1d4+10)
 
-- **Will:** 6-9 (1d4+5)
+Will
+: 6-9 (1d4+5)
 
-- **Reasoning:** 9-12 (1d4+8)
+Reasoning
+: 9-12 (1d4+8)
 
-- **Creativity:** 13-16 (1d4+12)
+Creativity
+: 13-16 (1d4+12)
 
-- **Strength:** 1-4 (1d4)
+Strength
+: 1-4 (1d4)

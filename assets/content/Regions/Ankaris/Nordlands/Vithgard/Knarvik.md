@@ -24,5 +24,8 @@ Knarvík's standing tension is with the ships' owners and not with the crown. A 
 
 ## See Also
 
-- [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the kingdom this yard serves
-- [[place-vithgard|Vithgard]]—the land the kingdom holds
+[[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
+: the kingdom this yard serves
+
+[[place-vithgard|Vithgard]]
+: the land the kingdom holds

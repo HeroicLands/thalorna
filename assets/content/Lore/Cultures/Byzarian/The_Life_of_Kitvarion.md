@@ -144,9 +144,20 @@ Here ends the Life of Kitvarion of the Gate, the exact, the gate-stander, the on
 
 ## See Also
 
-- [[lore-heladcitadel|The Siege of the Silver Citadel]]—the Two Winters, the terms and the Vylarian Steps
-- [[lore-heladeastwar|The Eastern War]]—the war the siege belongs to
-- [[place-argyrteikhos2|Argirteikhos]]—the citadel city and its monasteries of the eastern rite
-- [[place-eastrnmrch|Eastern March]]—the pass road, its way-forts and the caravanserais beyond
-- [[place-nykhtion|Nikhtion]]—the city of the dead, where the garrison keeps his chamber
-- [[lore-byzarianclt|Bizarian]]—the account settled aloud on the bed, and the dread of the account no one keeps
+[[lore-heladcitadel|The Siege of the Silver Citadel]]
+: the Two Winters, the terms and the Vylarian Steps
+
+[[lore-heladeastwar|The Eastern War]]
+: the war the siege belongs to
+
+[[place-argyrteikhos2|Argirteikhos]]
+: the citadel city and its monasteries of the eastern rite
+
+[[place-eastrnmrch|Eastern March]]
+: the pass road, its way-forts and the caravanserais beyond
+
+[[place-nykhtion|Nikhtion]]
+: the city of the dead, where the garrison keeps his chamber
+
+[[lore-byzarianclt|Bizarian]]
+: the account settled aloud on the bed, and the dread of the account no one keeps

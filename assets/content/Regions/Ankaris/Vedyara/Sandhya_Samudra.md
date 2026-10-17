@@ -38,6 +38,11 @@ The far shore is the eastern coast of [[place-xerathia|Zerathia]], a month of op
 
 ## See Also
 
-- [[place-vedyarargn|Vedyara Region]]—the coast this sea takes
-- [[place-meghsamdra|The Meghra-samedra]]—the southern sea, and the way round to the Khelathi passage
-- [[place-graznmntns|Grazian Mountains]]—the wall whose western end the coast runs south from
+[[place-vedyarargn|Vedyara Region]]
+: the coast this sea takes
+
+[[place-meghsamdra|The Meghra-samedra]]
+: the southern sea, and the way round to the Khelathi passage
+
+[[place-graznmntns|Grazian Mountains]]
+: the wall whose western end the coast runs south from

@@ -57,10 +57,17 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-- **Deity:** Ústaron—_The Forge-Lord_
-- **Domain:** Fire (destructive aspect)
-- **Symbol:** A mailed fist enclosed in black flames.
-- **Pantheon:** [[affiliation-arldnpnthn|Aureldian Pantheon]]
+Deity
+: Ústaron—_The Forge-Lord_
+
+Domain
+: Fire (destructive aspect)
+
+Symbol
+: A mailed fist enclosed in black flames.
+
+Pantheon
+: [[affiliation-arldnpnthn|Aureldian Pantheon]]
 
 The Black Flame represents [[lore-ustarondty|Ústaron]]'s destructive aspect: fire as purifier, as weapon, as instrument of domination. It is not simply "evil" but deeply self-centered and intolerant—its adherents believe that only through destruction can true creation follow, and that the weak deserve to be consumed. The strong are meant to rule; mercy is weakness; and the world is forged anew only through conquest and flame.
 

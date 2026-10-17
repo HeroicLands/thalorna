@@ -16,9 +16,20 @@ Mischievous and vindictive, crows are highly intelligent birds that can hold gru
 
 A Crow person is curious, playful and good at solving problems, and enjoys tricks. Wit gets such a person through tangled situations.
 
-- **Physical:** Keen, observant eyes; lean and agile.
-- **Behavioral:** Highly curious, resourceful in problem-solving and tool use.
-- **Positive:** Resourceful, innovative, and problem-solving.
-- **Negative:** Mischievous, vindictive, and may play tricks on others.
-- **Minor Trait ([[sohl-none-doctrauma-innvtv|Innovative]]):** Quick to find clever solutions and new angles, taking quiet pride in their ingenuity and expecting others to notice.
-- **Major Disorder ([[sohl-none-doctrauma-nrcssstc|Narcissistic]]):** Consumed by self-importance and a hunger for admiration, turning vindictive and manipulative when their ego is challenged.
+Physical
+: Keen, observant eyes; lean and agile.
+
+Behavioral
+: Highly curious, resourceful in problem-solving and tool use.
+
+Positive
+: Resourceful, innovative, and problem-solving.
+
+Negative
+: Mischievous, vindictive, and may play tricks on others.
+
+Minor Trait ([[sohl-none-doctrauma-innvtv|Innovative]])
+: Quick to find clever solutions and new angles, taking quiet pride in their ingenuity and expecting others to notice.
+
+Major Disorder ([[sohl-none-doctrauma-nrcssstc|Narcissistic]])
+: Consumed by self-importance and a hunger for admiration, turning vindictive and manipulative when their ego is challenged.

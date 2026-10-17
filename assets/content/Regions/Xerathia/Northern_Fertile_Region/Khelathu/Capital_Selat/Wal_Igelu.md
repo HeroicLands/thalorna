@@ -20,5 +20,8 @@ data:
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The imperial city
-- [[place-zuleri|Zu-Leri]]—The High City it runs through
+[[place-galezkara|Galezkara]]
+: The imperial city
+
+[[place-zuleri|Zu-Leri]]
+: The High City it runs through

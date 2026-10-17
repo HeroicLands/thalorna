@@ -57,13 +57,26 @@ By the pass road through the Flarnfjall, a day's climb above the last summer pas
 
 ## See Also
 
-- [[scenario-furnaceashnjarl|The Furnace of the Ashen Jarl]]—a scenario set here
-- [[place-norgaad|Norgaad]]—the kingdom's land and its mines
-- [[place-flarnfjall|Flarnfjall]]—the mountains the fortress stands in
-- [[place-skulfheim|Skulfheim]]—the mining place that listens at its timbers
-- [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—the rite the dead of Vruthborg never had
-- [[lore-undead|Undead]]—the Helspawn and the learned names for them
-- [[affiliation-nghtwghtcncl|Nightwight Council]]—the cabal the north credits with the guest
+[[scenario-furnaceashnjarl|The Furnace of the Ashen Jarl]]
+: a scenario set here
+
+[[place-norgaad|Norgaad]]
+: the kingdom's land and its mines
+
+[[place-flarnfjall|Flarnfjall]]
+: the mountains the fortress stands in
+
+[[place-skulfheim|Skulfheim]]
+: the mining place that listens at its timbers
+
+[[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]
+: the rite the dead of Vruthborg never had
+
+[[lore-undead|Undead]]
+: the Helspawn and the learned names for them
+
+[[affiliation-nghtwghtcncl|Nightwight Council]]
+: the cabal the north credits with the guest
 
 # The Truth of Vruthborg {#truth .secret}
 

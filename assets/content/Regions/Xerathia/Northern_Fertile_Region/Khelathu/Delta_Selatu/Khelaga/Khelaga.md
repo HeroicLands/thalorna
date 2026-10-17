@@ -23,7 +23,14 @@ It holds the selat's chief temple of Uqa'a, the Halzi'a's court and granaries, t
 
 ## See Also
 
-- [[affiliation-selatkhelaga|The Selat of Khelaga]]—Parent selat
-- [[affiliation-deltaselatu|The Delta Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-uqaa|Faith of Uqa'a]]—Patron cult
+[[affiliation-selatkhelaga|The Selat of Khelaga]]
+: Parent selat
+
+[[affiliation-deltaselatu|The Delta Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-uqaa|Faith of Uqa'a]]
+: Patron cult

@@ -19,17 +19,31 @@ Some houses lend money. Lending is legal and closely supervised: the rate is cap
 
 The [[lore-castelaws|Caste Laws]] give the merchant three rights:
 
-- **Wealth**: a Shuonong may accumulate as much as commerce brings him, and his holdings are protected by law.
-- **Travel**: he may move freely within the empire, and may hire [[lore-tsaihuo|Wonong]] soldiers to guard his goods on the road.
-- **Contract**: he may make binding agreements with other merchants and with clients of any caste.
+Wealth
+: a Shuonong may accumulate as much as commerce brings him, and his holdings are protected by law.
+
+Travel
+: he may move freely within the empire, and may hire [[lore-tsaihuo|Wonong]] soldiers to guard his goods on the road.
+
+Contract
+: he may make binding agreements with other merchants and with clients of any caste.
 
 They bind him with five restrictions:
 
-- **Tax**: he pays at rates far above any other caste's, and a merchant who fails to pay loses his goods, then his liberty, then his life.
-- **Fair dealing**: usury, fraud and sharp practice against the Nouwén or anyone below are punished by fines, prison or death.
-- **No politics**: he may take no part in governance or military affairs, and any attempt to sway state policy is tried as treason.
-- **No marriage**: a merchant may keep a household and concubines, and the law recognizes no wife and no heir; his house passes by its own articles, not by inheritance.
-- **No personal name**: he is known by his house's name and his place in it, as "Third Factor of the House of the Jade Scale."
+Tax
+: he pays at rates far above any other caste's, and a merchant who fails to pay loses his goods, then his liberty, then his life.
+
+Fair dealing
+: usury, fraud and sharp practice against the Nouwén or anyone below are punished by fines, prison or death.
+
+No politics
+: he may take no part in governance or military affairs, and any attempt to sway state policy is tried as treason.
+
+No marriage
+: a merchant may keep a household and concubines, and the law recognizes no wife and no heir; his house passes by its own articles, not by inheritance.
+
+No personal name
+: he is known by his house's name and his place in it, as "Third Factor of the House of the Jade Scale."
 
 ## The Commercial Law
 
@@ -54,11 +68,26 @@ A Shuonong is necessary and distrusted. The empire needs his barges, his warehou
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]]—rights and restrictions governing the Shuonong
-- [[lore-tantsoucrncy|Tantsou Currency]]—ledger-credit, recorded debt and the frontier exchange
-- [[lore-tseising|Law and Honor]]—the commercial law and its penalties
-- [[lore-nouwen|Nouwén]]—peasant farmers, the caste above, whom the merchant may not exploit
-- [[lore-noutsou|Noutsou]]—slaves and outcasts, the caste below
-- [[lore-wohou|Wohou]]—the administrators who audit the merchant houses
-- [[affiliation-haluozhao|Ha Luo Zhao]]—the Black Lotus Society, which buys what the law denies
-- [[affiliation-tantsouempr|Empire of Tantsou]]—overview of imperial society and structure
+[[lore-castelaws|Caste Laws]]
+: rights and restrictions governing the Shuonong
+
+[[lore-tantsoucrncy|Tantsou Currency]]
+: ledger-credit, recorded debt and the frontier exchange
+
+[[lore-tseising|Law and Honor]]
+: the commercial law and its penalties
+
+[[lore-nouwen|Nouwén]]
+: peasant farmers, the caste above, whom the merchant may not exploit
+
+[[lore-noutsou|Noutsou]]
+: slaves and outcasts, the caste below
+
+[[lore-wohou|Wohou]]
+: the administrators who audit the merchant houses
+
+[[affiliation-haluozhao|Ha Luo Zhao]]
+: the Black Lotus Society, which buys what the law denies
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: overview of imperial society and structure

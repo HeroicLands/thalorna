@@ -22,6 +22,11 @@ Its garrison and its toll-keepers answer to the military _therkos_ (governor). C
 
 ## See Also
 
-- [[affiliation-provncmktr|Province of Moktur]]—parent province
-- [[place-moktur|Moktur]]—the land the pass crosses
-- [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview
+[[affiliation-provncmktr|Province of Moktur]]
+: parent province
+
+[[place-moktur|Moktur]]
+: the land the pass crosses
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: imperial overview

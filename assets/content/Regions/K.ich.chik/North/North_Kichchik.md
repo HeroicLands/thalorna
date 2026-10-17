@@ -25,7 +25,14 @@ Two places in the north belong to no nation. [[place-hanalxilanrgn|Ha'nal Shi'la
 
 ## See Also
 
-- [[place-kchchkcntnnt|K'ich'chik Continent]]—the continent
-- [[place-hanalxilanrgn|Ha'nal Shi'lan]]—the contested river lands
-- [[place-chakultzklrgn|Ch'akul Tsa'kul]]—the desert barrier
-- [[place-cntrlkchchk|Central K'ich'chik]]—the heartland to the south
+[[place-kchchkcntnnt|K'ich'chik Continent]]
+: the continent
+
+[[place-hanalxilanrgn|Ha'nal Shi'lan]]
+: the contested river lands
+
+[[place-chakultzklrgn|Ch'akul Tsa'kul]]
+: the desert barrier
+
+[[place-cntrlkchchk|Central K'ich'chik]]
+: the heartland to the south

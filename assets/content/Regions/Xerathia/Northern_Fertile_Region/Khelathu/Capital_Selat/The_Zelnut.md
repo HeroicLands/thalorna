@@ -20,4 +20,5 @@ The Zelnut is a quarter of [[place-galezkara|Galezkara]] raised among and atop t
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The imperial city
+[[place-galezkara|Galezkara]]
+: The imperial city

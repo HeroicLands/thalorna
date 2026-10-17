@@ -44,6 +44,11 @@ The clerk's last rule is the shortest: away from the treasury that struck it, th
 
 ## See Also
 
-- [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]—the chartering institution; full institutional description
-- [[lore-mdhvndrcnt|The Madustana Count]]—the calendar the Collective's own accounts run on
-- [[lore-aukhlthcrncy|Au'Khelathu Currency]]—the weight-attested system Vedyaran coin exchanges against at the sea
+[[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]
+: the chartering institution; full institutional description
+
+[[lore-mdhvndrcnt|The Madustana Count]]
+: the calendar the Collective's own accounts run on
+
+[[lore-aukhlthcrncy|Au'Khelathu Currency]]
+: the weight-attested system Vedyaran coin exchanges against at the sea

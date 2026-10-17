@@ -432,10 +432,14 @@ The lord of the neighboring manor, who disputes the boundary and the water-cours
 
 ## Plot Hooks
 
-1. **The Leat**—The lord's men have cut a new channel in the night and Alvarik's lower fields are dry a month before harvest. The assembly hears it at midsummer, and the wheat will be dead by then.
+The Leat
+: The lord's men have cut a new channel in the night and Alvarik's lower fields are dry a month before harvest. The assembly hears it at midsummer, and the wheat will be dead by then.
 
-2. **The Notes**—Alvarik's notes have been bought from the Nebralis moneylender by the lord's steward, and they fall due after harvest.
+The Notes
+: Alvarik's notes have been bought from the Nebralis moneylender by the lord's steward, and they fall due after harvest.
 
-3. **The Ban**—The High King has called the ban, and Nebralis must send its freemen, in the second week of the cutting. Alvarik is a freeman.
+The Ban
+: The High King has called the ban, and Nebralis must send its freemen, in the second week of the cutting. Alvarik is a freeman.
 
-4. **The Son**—Alvarik's son has taken a sellsword's advance from a captain recruiting in the port, as Tarvenan boys do, and means to go before the harvest is in.
+The Son
+: Alvarik's son has taken a sellsword's advance from a captain recruiting in the port, as Tarvenan boys do, and means to go before the harvest is in.

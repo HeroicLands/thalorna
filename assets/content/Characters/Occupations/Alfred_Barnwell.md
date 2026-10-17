@@ -437,12 +437,17 @@ His status as a freeman and an outsider to formal Aelwythan power structures act
 
 ## Plot Hooks
 
-1. **The Sekran's Attention**—_Marendos_ (master) Teremos has begun interviewing the inhabitants of villages where "Thalos Graymoor" is known to operate. A villager has already described Wilred in passing detail, and Teremos is correlating the description with old Epistémion records. Wilred learns of this threat through his network of contacts, and can disappear, establish an alibi, or take a more dangerous path—offering the _marendos_ something he cannot refuse.
+The Sekran's Attention
+: _Marendos_ (master) Teremos has begun interviewing the inhabitants of villages where "Thalos Graymoor" is known to operate. A villager has already described Wilred in passing detail, and Teremos is correlating the description with old Epistémion records. Wilred learns of this threat through his network of contacts, and can disappear, establish an alibi, or take a more dangerous path—offering the _marendos_ something he cannot refuse.
 
-2. **The Forbidden Text**—A desperate craftmaster comes to Wilred with a crisis: his daughter was poisoned by a rare substance, and the only effective cure lies in an alchemical procedure described in one of the restricted texts Wilred took from the Epistémion when he left. Making the cure would require harvesting ingredients that are monitored by Order guilds. Wilred must weigh the daughter's life against the risk of exposure.
+The Forbidden Text
+: A desperate craftmaster comes to Wilred with a crisis: his daughter was poisoned by a rare substance, and the only effective cure lies in an alchemical procedure described in one of the restricted texts Wilred took from the Epistémion when he left. Making the cure would require harvesting ingredients that are monitored by Order guilds. Wilred must weigh the daughter's life against the risk of exposure.
 
-3. **The Scholar from Dúnavarre**—The Archivist reaches out with urgent warning: the Order has discovered gaps in the restricted archive, and they suspect someone from within the chapter. The Archivist will be scrutinized heavily, and may not survive the investigation. Wilred is offered a terrible choice: help the Archivist disappear (risking everything) or allow the man who protected him to be destroyed.
+The Scholar from Dúnavarre
+: The Archivist reaches out with urgent warning: the Order has discovered gaps in the restricted archive, and they suspect someone from within the chapter. The Archivist will be scrutinized heavily, and may not survive the investigation. Wilred is offered a terrible choice: help the Archivist disappear (risking everything) or allow the man who protected him to be destroyed.
 
-4. **The Elder's Successor**—Aldus Thorne is dying, and he means to pass his workshop—and all its dangerous knowledge—to Wilred. But Aldus has an ambitious grandson who has recently made connections with Order merchant guilds and believes the workshop should be "brought into proper order." Wilred must either accept the inheritance and the visibility it brings, or refuse and watch another man control the very resources he depends upon.
+The Elder's Successor
+: Aldus Thorne is dying, and he means to pass his workshop—and all its dangerous knowledge—to Wilred. But Aldus has an ambitious grandson who has recently made connections with Order merchant guilds and believes the workshop should be "brought into proper order." Wilred must either accept the inheritance and the visibility it brings, or refuse and watch another man control the very resources he depends upon.
 
-5. **The Outsider's Gambit**—A mysterious collector from far southern lands arrives in Aelwyth seeking specific alchemical texts and willing to pay extraordinary sums. The collector claims to represent scholars who wish to preserve knowledge beyond the Order's reach. The price offered is enough to fund Wilred's independence for years—but accepting it would require him to acknowledge his role as a keeper of forbidden lore, and the collector is almost certainly more than they appear.
+The Outsider's Gambit
+: A mysterious collector from far southern lands arrives in Aelwyth seeking specific alchemical texts and willing to pay extraordinary sums. The collector claims to represent scholars who wish to preserve knowledge beyond the Order's reach. The price offered is enough to fund Wilred's independence for years—but accepting it would require him to acknowledge his role as a keeper of forbidden lore, and the collector is almost certainly more than they appear.

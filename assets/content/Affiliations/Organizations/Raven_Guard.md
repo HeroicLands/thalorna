@@ -44,5 +44,8 @@ Mystical authority and martial strength together give Odholm real influence for 
 
 ## See Also
 
-- [[place-odholm|Odholm]]—the temple settlement the Guard garrisons
-- [[affiliation-odvar|Faith of Odvar]]—the god the temple serves
+[[place-odholm|Odholm]]
+: the temple settlement the Guard garrisons
+
+[[affiliation-odvar|Faith of Odvar]]
+: the god the temple serves

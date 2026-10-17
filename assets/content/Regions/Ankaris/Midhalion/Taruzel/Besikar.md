@@ -84,7 +84,14 @@ Besikar's harbor counts its dues in the [[lore-trzlncrncy|Taruzelian Currency]],
 
 ## See Also
 
-- [[place-besikar2|Besikar]]—the city itself
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the confederation whose Council meets here
-- [[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]], [[affiliation-mrchntryvl|Merchantry of the Veil]]—the great guilds
-- [[affiliation-yamuzel|Yamuzel]], [[affiliation-qudumel|Kudumel]], [[affiliation-bazunel|Bazunel]], [[affiliation-sazumun|Sazumun]]—the sister city-states
+[[place-besikar2|Besikar]]
+: the city itself
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the confederation whose Council meets here
+
+[[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]], [[affiliation-mrchntryvl|Merchantry of the Veil]]
+: the great guilds
+
+[[affiliation-yamuzel|Yamuzel]], [[affiliation-qudumel|Kudumel]], [[affiliation-bazunel|Bazunel]], [[affiliation-sazumun|Sazumun]]
+: the sister city-states

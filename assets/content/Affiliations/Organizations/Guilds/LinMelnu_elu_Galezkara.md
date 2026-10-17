@@ -60,5 +60,8 @@ The guild's trade is the ordinary smithing of the capital. Say a builder needs t
 
 ## See Also
 
-- [[affiliation-linmelnkhlth|Lin'Melnu elu Au'Khelathu]]—The imperial guild of metalworkers
-- [[place-galezkara|Galezkara]]—The city the guild works in
+[[affiliation-linmelnkhlth|Lin'Melnu elu Au'Khelathu]]
+: The imperial guild of metalworkers
+
+[[place-galezkara|Galezkara]]
+: The city the guild works in

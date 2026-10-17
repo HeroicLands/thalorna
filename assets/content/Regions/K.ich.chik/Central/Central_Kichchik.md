@@ -25,6 +25,11 @@ The land changes with the realm. Ish'ilankul is volcanic highland with terraced 
 
 ## See Also
 
-- [[place-kchchkcntnnt|K'ich'chik Continent]]—the continent
-- [[place-ixilankulrgn|Ish'ilankul Region]], [[place-kankulrgn|K'ankul Region]], [[place-neokbaatergn|Ne'ok Ba'ate Region]], [[place-xelemrgn|Shelem Region]]—the four realms' lands
-- [[place-nrthrnkchchk|Northern K'ich'chik]], [[place-sthrnkchchk|Southern K'ich'chik]]—the northern and southern reaches
+[[place-kchchkcntnnt|K'ich'chik Continent]]
+: the continent
+
+[[place-ixilankulrgn|Ish'ilankul Region]], [[place-kankulrgn|K'ankul Region]], [[place-neokbaatergn|Ne'ok Ba'ate Region]], [[place-xelemrgn|Shelem Region]]
+: the four realms' lands
+
+[[place-nrthrnkchchk|Northern K'ich'chik]], [[place-sthrnkchchk|Southern K'ich'chik]]
+: the northern and southern reaches

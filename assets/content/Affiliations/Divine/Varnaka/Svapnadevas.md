@@ -46,10 +46,17 @@ sohl: {system: {commonSkills: [sohl-sohl-skill-folklr, sohl-sohl-skill-sing]}}
 
 ## Svapnadevas—The Dreaming Host
 
-- **Domain:** visions, omens, prophecy, the inner life of sleep
-- **Symbol:** A crescent moon cradling a lotus stem
-- **Pronunciation:** _SWAP-nah-day-vahs_
-- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
+Domain
+: visions, omens, prophecy, the inner life of sleep
+
+Symbol
+: A crescent moon cradling a lotus stem
+
+Pronunciation
+: _SWAP-nah-day-vahs_
+
+Pantheon
+: [[affiliation-varakpnthn|Varnuka Pantheon]]
 
 "Say it before you eat, and say it to someone. A dream nobody has heard is half a dream." The grandmother of a devout household says it to the grandchild who woke too early and is already reaching for the bread. Then she listens. In households that keep the devotion called **Svapnadevas**, a dream that seems to matter is spoken aloud to another member of the family before the morning meal, so that it is committed to shared memory.
 
@@ -69,8 +76,11 @@ Silver mirrors are kept covered except at the moments of divination. Catching yo
 
 ### Ordeals for Favor
 
-- **[The Seven-Night Vigil]{.name data-type="lore/custom"}**—seven consecutive nights of dream-vigil, during which the devotee sleeps lightly in a temple chamber and reports each morning on the night's dreams. Few complete it without the intervention of a senior seer.
-- **[The Mirror Year]{.name data-type="lore/custom"}**—a year spent serving in a temple's divination chamber, reading the silver mirror for every petitioner who comes, without refusing a reading and without accepting a fee.
+[The Seven-Night Vigil]{.name data-type="lore/custom"}
+: seven consecutive nights of dream-vigil, during which the devotee sleeps lightly in a temple chamber and reports each morning on the night's dreams. Few complete it without the intervention of a senior seer.
+
+[The Mirror Year]{.name data-type="lore/custom"}
+: a year spent serving in a temple's divination chamber, reading the silver mirror for every petitioner who comes, without refusing a reading and without accepting a fee.
 
 ### See Also
 

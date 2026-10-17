@@ -56,5 +56,8 @@ Say a temple orders a gilded fitting for a procession. The smith delivers it, a 
 
 ## See Also
 
-- [[affiliation-linmelnglzkr|Lin'Melnu elu Galezkara]]—The blacksmiths of the same city
-- [[place-galezkara|Galezkara]]—The city the consortium works in
+[[affiliation-linmelnglzkr|Lin'Melnu elu Galezkara]]
+: The blacksmiths of the same city
+
+[[place-galezkara|Galezkara]]
+: The city the consortium works in

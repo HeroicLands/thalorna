@@ -63,6 +63,11 @@ The villages along the banks, the lay faithful, keep the river's observances and
 
 ## See Also
 
-- [[lore-igelnarudty|Igelnaru]]—the god
-- [[affiliation-zeghetnelgu|Zeghet'Nelgu]]—the sacred hunt that carries this cult
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the temple hierarchy the valley cults share
+[[lore-igelnarudty|Igelnaru]]
+: the god
+
+[[affiliation-zeghetnelgu|Zeghet'Nelgu]]
+: the sacred hunt that carries this cult
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: the temple hierarchy the valley cults share

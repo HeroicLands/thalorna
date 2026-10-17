@@ -250,20 +250,29 @@ In damp and dark, the silt heals slowly but steadily: small wounds close within 
 
 ## Attributes
 
-- **Strength:** 11-16 (1d6+10)
+Strength
+: 11-16 (1d6+10)
 
-- **Endurance:** 17-22 (1d6+16)
+Endurance
+: 17-22 (1d6+16)
 
-- **Dexterity:** 14-17 (1d4+13)
+Dexterity
+: 14-17 (1d4+13)
 
-- **Agility:** 14-17 (1d4+13)
+Agility
+: 14-17 (1d4+13)
 
-- **Perception:** 11-16 (1d6+10)
+Perception
+: 11-16 (1d6+10)
 
-- **Aura:** 10-13 (1d4+9)
+Aura
+: 10-13 (1d4+9)
 
-- **Will:** 15-20 (1d6+14)
+Will
+: 15-20 (1d6+14)
 
-- **Reasoning:** 10-13 (1d4+9)
+Reasoning
+: 10-13 (1d4+9)
 
-- **Creativity:** 10-13 (1d4+9)
+Creativity
+: 10-13 (1d4+9)

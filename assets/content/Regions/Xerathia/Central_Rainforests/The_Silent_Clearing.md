@@ -40,7 +40,14 @@ The Clearing lies a ten-day march from the nearest river, on no trail the tribes
 
 ## See Also
 
-- [[place-cntrlrnfrsts|Central Rainforests]]—the region
-- [[lore-theshadow|The Shadow]]—chaos from outside creation
-- [[lore-undead|Undead]]—the dead made animate
-- [[scenario-hshcrclslnt|The Hush at the Heart of the Wood]]—a scenario set here
+[[place-cntrlrnfrsts|Central Rainforests]]
+: the region
+
+[[lore-theshadow|The Shadow]]
+: chaos from outside creation
+
+[[lore-undead|Undead]]
+: the dead made animate
+
+[[scenario-hshcrclslnt|The Hush at the Heart of the Wood]]
+: a scenario set here

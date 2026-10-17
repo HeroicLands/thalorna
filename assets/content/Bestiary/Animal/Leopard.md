@@ -306,20 +306,29 @@ The leopard's eyes are specifically adapted for low-light conditions, with a ref
 
 ## Attributes
 
-- **Strength:** 14-19 (1d6+13)
+Strength
+: 14-19 (1d6+13)
 
-- **Endurance:** 11-16 (1d6+10)
+Endurance
+: 11-16 (1d6+10)
 
-- **Dexterity:** 13-18 (1d6+12)
+Dexterity
+: 13-18 (1d6+12)
 
-- **Agility:** 14-19 (1d6+13)
+Agility
+: 14-19 (1d6+13)
 
-- **Perception:** 13-18 (1d6+12)
+Perception
+: 13-18 (1d6+12)
 
-- **Aura:** 9-14 (1d6+8)
+Aura
+: 9-14 (1d6+8)
 
-- **Will:** 11-16 (1d6+10)
+Will
+: 11-16 (1d6+10)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

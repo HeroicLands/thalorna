@@ -458,12 +458,17 @@ The Syndics of Kalveza
 
 ## Plot Hooks
 
-1. **The Compact Under Siege**—The Syndics of Kalveza have found a legal vulnerability in the fishing compact and are preparing a formal challenge before the royal court. If the compact is overturned, Arnela loses her signature achievement and the political credibility built upon it. She must defend the compact while discovering who inside Lizela leaked the information the Syndics needed.
+The Compact Under Siege
+: The Syndics of Kalveza have found a legal vulnerability in the fishing compact and are preparing a formal challenge before the royal court. If the compact is overturned, Arnela loses her signature achievement and the political credibility built upon it. She must defend the compact while discovering who inside Lizela leaked the information the Syndics needed.
 
-2. **The Countess's Gambit**—Countess Iltoris asks Arnela to publicly champion a controversial reform—extending chartered rights to two more towns—knowing it will draw fierce opposition from traditionalists. If Arnela succeeds, the reform advances and her standing rises. If she fails, the Countess loses nothing while Arnela absorbs the political damage. The reward may or may not justify the risk of becoming the Countess's sacrificial piece.
+The Countess's Gambit
+: Countess Iltoris asks Arnela to publicly champion a controversial reform—extending chartered rights to two more towns—knowing it will draw fierce opposition from traditionalists. If Arnela succeeds, the reform advances and her standing rises. If she fails, the Countess loses nothing while Arnela absorbs the political damage. The reward may or may not justify the risk of becoming the Countess's sacrificial piece.
 
-3. **A Scholar's Disappearance**—One of the academy's most promising instructors vanishes without notice. Investigation reveals he was conducting research into pre-Vylarian ruins in the hills above Lizela—research that may have drawn the attention of [[affiliation-ordoarcanis|the Thordimalon]]. Arnela has to handle the delicate politics of the Arcane Order's relationship with the Provenzian crown while finding her missing scholar before the Arcane Order's Sekran does.
+A Scholar's Disappearance
+: One of the academy's most promising instructors vanishes without notice. Investigation reveals he was conducting research into pre-Vylarian ruins in the hills above Lizela—research that may have drawn the attention of [[affiliation-ordoarcanis|the Thordimalon]]. Arnela has to handle the delicate politics of the Arcane Order's relationship with the Provenzian crown while finding her missing scholar before the Arcane Order's Sekran does.
 
-4. **The Ortemandis Marriage**—Lord Aurente proposes a marriage alliance between his eldest son and Arnela, framing it as a reconciliation between the traditional and reform factions in Lizela. The offer is politically astute and personally revolting. Refusing outright would insult a powerful family; accepting would yoke her to a man who despises everything she has built. She needs a third option.
+The Ortemandis Marriage
+: Lord Aurente proposes a marriage alliance between his eldest son and Arnela, framing it as a reconciliation between the traditional and reform factions in Lizela. The offer is politically astute and personally revolting. Refusing outright would insult a powerful family; accepting would yoke her to a man who despises everything she has built. She needs a third option.
 
-5. **Debts of the Father**—A merchant from Taruzel arrives in Lizela with documents suggesting that Lord Lordeme Kórisvar borrowed heavily near the end of his life to cover losses that Arnela never knew about. The debts were sold and resold, and the current holder wants payment—or the estate. The documents may be authentic, or they may be a forgery designed to destroy her. Either way, she must resolve the matter before her enemies learn of it.
+Debts of the Father
+: A merchant from Taruzel arrives in Lizela with documents suggesting that Lord Lordeme Kórisvar borrowed heavily near the end of his life to cover losses that Arnela never knew about. The debts were sold and resold, and the current holder wants payment—or the estate. The documents may be authentic, or they may be a forgery designed to destroy her. Either way, she must resolve the matter before her enemies learn of it.

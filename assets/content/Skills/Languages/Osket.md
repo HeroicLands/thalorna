@@ -240,10 +240,17 @@ The two front rounded vowels are the feature an outsider hears first and produce
 
 ### Phonotactic Patterns
 
-- **Consonant Clusters:** Freely admitted at the start and end of a word alike; _Tsokhar_ opens on an affricate and closes on a liquid, _Oskhelt_ sets _s_ and _kh_ together inside and closes on _lt_
-- **Syllable Structure:** Heavy, and commonly closed; long vowels are not distinguished
-- **Final Consonants:** Unrestricted—a word may end on any consonant or any cluster of them, which is the plainest structural difference from every lowland tongue
-- **Word Length:** Short. Two syllables is the norm and four is rare, and compounds are formed by juxtaposition without linking material
+Consonant Clusters
+: Freely admitted at the start and end of a word alike; _Tsokhar_ opens on an affricate and closes on a liquid, _Oskhelt_ sets _s_ and _kh_ together inside and closes on _lt_
+
+Syllable Structure
+: Heavy, and commonly closed; long vowels are not distinguished
+
+Final Consonants
+: Unrestricted—a word may end on any consonant or any cluster of them, which is the plainest structural difference from every lowland tongue
+
+Word Length
+: Short. Two syllables is the norm and four is rare, and compounds are formed by juxtaposition without linking material
 
 ## Grammar Notes
 

@@ -169,8 +169,17 @@ Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [
 
 ### See Also
 
-- [[place-shuremis|Shuremis]]—the place
-- [[lore-okharinclt|Okharin]]—the Flame, the shurem and the grazing
-- [[affiliation-nkaruthar|Nkaru'thar]]—the Flame and its ladder
-- [[lore-orclbonesspr|The Oracle of Bones]]—the zohira of death, whose readers attend the dead
-- [[lore-theshadow|The Shadow]]—what fills the place where a name should be
+[[place-shuremis|Shuremis]]
+: the place
+
+[[lore-okharinclt|Okharin]]
+: the Flame, the shurem and the grazing
+
+[[affiliation-nkaruthar|Nkaru'thar]]
+: the Flame and its ladder
+
+[[lore-orclbonesspr|The Oracle of Bones]]
+: the zohira of death, whose readers attend the dead
+
+[[lore-theshadow|The Shadow]]
+: what fills the place where a name should be

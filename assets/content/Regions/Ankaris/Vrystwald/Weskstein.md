@@ -22,6 +22,11 @@ data:
 
 ## See Also
 
-- [[place-skathwald|Skathwald]]—the reach around the village
-- [[place-mahnryth|Mahnreth]]—the clearing the other survivors cut
-- [[lore-grimakburning|The Burning at Grimak]]—the war that scattered the families
+[[place-skathwald|Skathwald]]
+: the reach around the village
+
+[[place-mahnryth|Mahnreth]]
+: the clearing the other survivors cut
+
+[[lore-grimakburning|The Burning at Grimak]]
+: the war that scattered the families

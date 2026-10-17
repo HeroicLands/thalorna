@@ -449,29 +449,40 @@ Bazudar is driven by a desire to preserve the ancient relationship between human
 
 ### Strengths
 
-- **Supernatural Way with Animals**: Animalcraft, his greatest skill, is a near-magical affinity for understanding and working with creatures. He can calm the most dangerous animals, diagnose illnesses through subtle behavioral cues, and establish bonds that make animals willing to endure hardships for him.
+Supernatural Way with Animals
+: Animalcraft, his greatest skill, is a near-magical affinity for understanding and working with creatures. He can calm the most dangerous animals, diagnose illnesses through subtle behavioral cues, and establish bonds that make animals willing to endure hardships for him.
 
-- **Endurance and Strength**: His endurance and strength grant him physical resilience that allows him to work full days under punishing desert conditions without faltering. He can overpower most human opponents through sheer physical power and toughness.
+Endurance and Strength
+: His endurance and strength grant him physical resilience that allows him to work full days under punishing desert conditions without faltering. He can overpower most human opponents through sheer physical power and toughness.
 
-- **Mastery of Practical Survival**: Survival, herblore, riding, and jumping make him extraordinarily capable in harsh environments. He can navigate deserts that would kill ordinary travelers, locate water, treat injuries with herbal remedies, and move across broken ground with surprising grace for his size.
+Mastery of Practical Survival
+: Survival, herblore, riding, and jumping make him extraordinarily capable in harsh environments. He can navigate deserts that would kill ordinary travelers, locate water, treat injuries with herbal remedies, and move across broken ground with surprising grace for his size.
 
-- **Skilled Craftsperson**: Metalcraft and hideworking allow him to repair equipment, create bridles and saddles, and maintain the tools of his trade. He is self-sufficient and rarely dependent on others for his material needs.
+Skilled Craftsperson
+: Metalcraft and hideworking allow him to repair equipment, create bridles and saddles, and maintain the tools of his trade. He is self-sufficient and rarely dependent on others for his material needs.
 
-- **Ritual and Spiritual Practice**: His spirit and ritual lore reflect his connection to the shamanic traditions of the desert peoples, allowing him to understand and participate in ceremonies that most outsiders cannot even perceive.
+Ritual and Spiritual Practice
+: His spirit and ritual lore reflect his connection to the shamanic traditions of the desert peoples, allowing him to understand and participate in ceremonies that most outsiders cannot even perceive.
 
-- **Fearsome in Combat**: His quick reactions, natural strength and endurance, and willingness to engage make him dangerous in direct confrontation, though he avoids violence when possible. His opponents often underestimate him until they face his physical power.
+Fearsome in Combat
+: His quick reactions, natural strength and endurance, and willingness to engage make him dangerous in direct confrontation, though he avoids violence when possible. His opponents often underestimate him until they face his physical power.
 
 ### Weaknesses
 
-- **Poor Eloquence and Charm**: His eloquence and charm are real liabilities. He struggles to advocate for his position verbally, and his taciturn nature can be misinterpreted as stubbornness, hostility, or incompetence. He cannot easily talk his way out of conflicts or persuade those inclined toward skepticism.
+Poor Eloquence and Charm
+: His eloquence and charm are real liabilities. He struggles to advocate for his position verbally, and his taciturn nature can be misinterpreted as stubbornness, hostility, or incompetence. He cannot easily talk his way out of conflicts or persuade those inclined toward skepticism.
 
-- **Low Dexterity and Agility**: His dexterity and agility are middling, so he lacks the finesse of more nimble fighters. His combat style relies on strength and endurance rather than technique. Fine manipulation work is difficult for him.
+Low Dexterity and Agility
+: His dexterity and agility are middling, so he lacks the finesse of more nimble fighters. His combat style relies on strength and endurance rather than technique. Fine manipulation work is difficult for him.
 
-- **Stubborn Resistance to Change**: His refusal to adapt even when circumstances demand it is a real problem. He cannot accept that the world is changing, that new methods might have value, and his inflexibility increasingly isolates him from the broader community.
+Stubborn Resistance to Change
+: His refusal to adapt even when circumstances demand it is a real problem. He cannot accept that the world is changing, that new methods might have value, and his inflexibility increasingly isolates him from the broader community.
 
-- **Emotional Vulnerability to Animal Suffering**: His deep feeling for animals, while admirable, is also a grave weakness. He cannot function when witnessing animal cruelty, and his emotional response can override his judgment. He is easily manipulated through threats to animals in his care.
+Emotional Vulnerability to Animal Suffering
+: His deep feeling for animals, while admirable, is also a grave weakness. He cannot function when witnessing animal cruelty, and his emotional response can override his judgment. He is easily manipulated through threats to animals in his care.
 
-- **Social Isolation and Difficulty with Human Relationships**: His preference for animal company leaves him emotionally isolated. He has few real human friendships, and his inability to communicate clearly makes intimate relationships nearly impossible. His loneliness is deep.
+Social Isolation and Difficulty with Human Relationships
+: His preference for animal company leaves him emotionally isolated. He has few real human friendships, and his inability to communicate clearly makes intimate relationships nearly impossible. His loneliness is deep.
 
 ## Social
 
@@ -507,12 +518,17 @@ The Desert Shamanic Circle
 
 ## Plot Hooks
 
-1. **The Plague of Unnatural Aggression**: Animals throughout the region begin behaving in aberrant ways—normally docile creatures become violently aggressive, herd animals refuse to eat, and wild creatures encroach on settlements in ways that suggest coordinated malevolence. The conventional experts attribute this to disease or mismanagement, but Bazudar senses something darker at work. Investigation reveals that a dark practitioner has placed a curse upon the animals, and only Bazudar's unique understanding of animal nature can identify and counter it. Breaking the curse will require shamanic work and potentially alliances with practitioners he distrusts.
+The Plague of Unnatural Aggression
+: Animals throughout the region begin behaving in aberrant ways—normally docile creatures become violently aggressive, herd animals refuse to eat, and wild creatures encroach on settlements in ways that suggest coordinated malevolence. The conventional experts attribute this to disease or mismanagement, but Bazudar senses something darker at work. Investigation reveals that a dark practitioner has placed a curse upon the animals, and only Bazudar's unique understanding of animal nature can identify and counter it. Breaking the curse will require shamanic work and potentially alliances with practitioners he distrusts.
 
-2. **The Foal With Impossible Lineage**: A pregnant mare in Lord Khuvankenod's care gives birth to a foal of obviously impossible parentage—it bears no resemblance to any known horse breed, with unusual coloration and features that suggest something other than mundane livestock. Some suspect sorcery or demonic influence; others propose it as a sign of divine intervention or evolutionary transformation. Bazudar becomes obsessed with understanding and protecting this unique creature, which attracts the attention of multiple factions all wishing to exploit the foal for their own purposes—merchants seeking profit, religious authorities suspecting heresy, sorcerers seeking arcane power.
+The Foal With Impossible Lineage
+: A pregnant mare in Lord Khuvankenod's care gives birth to a foal of obviously impossible parentage—it bears no resemblance to any known horse breed, with unusual coloration and features that suggest something other than mundane livestock. Some suspect sorcery or demonic influence; others propose it as a sign of divine intervention or evolutionary transformation. Bazudar becomes obsessed with understanding and protecting this unique creature, which attracts the attention of multiple factions all wishing to exploit the foal for their own purposes—merchants seeking profit, religious authorities suspecting heresy, sorcerers seeking arcane power.
 
-3. **The Rebellion Against Modernization**: As Administrator Bulaqsovid moves forward with regulations designed to end traditional animal training, Bazudar finds himself reluctantly positioned as the leader of a broader resistance movement against modernization. Younger farmers and traditionalists look to him for leadership, yet his own resistance to organization and public engagement makes him a poor figurehead. He can step into an openly political role, or allow the movement to fragment without his guidance.
+The Rebellion Against Modernization
+: As Administrator Bulaqsovid moves forward with regulations designed to end traditional animal training, Bazudar finds himself reluctantly positioned as the leader of a broader resistance movement against modernization. Younger farmers and traditionalists look to him for leadership, yet his own resistance to organization and public engagement makes him a poor figurehead. He can step into an openly political role, or allow the movement to fragment without his guidance.
 
-4. **The Wasting Sickness**: An animal dear to Bazudar—perhaps Ashenbrand in his old age, or a younger creature that has become symbolic of his work—develops a mysterious wasting sickness that resists both conventional veterinary treatment and his herbal knowledge. To save the animal's life, he must undertake a dangerous quest to locate a fabled healer or a mythical plant, requiring him to journey beyond the familiar desert into territories he fears and doesn't understand.
+The Wasting Sickness
+: An animal dear to Bazudar—perhaps Ashenbrand in his old age, or a younger creature that has become symbolic of his work—develops a mysterious wasting sickness that resists both conventional veterinary treatment and his herbal knowledge. To save the animal's life, he must undertake a dangerous quest to locate a fabled healer or a mythical plant, requiring him to journey beyond the familiar desert into territories he fears and doesn't understand.
 
-5. **The Child Who Speaks to Animals**: A young orphan arrives in the settlement claiming to possess the same gift as Bazudar—the ability to communicate with animals in ways that go beyond ordinary training. Bazudar is confronted with the possibility of training an apprentice and potentially passing on his knowledge, yet the child's presence also attracts dangerous attention from sorcerers and others who covet such gifts. Bazudar must protect the child while deciding whether to risk caring for another human being after a lifetime of preferring animal company.
+The Child Who Speaks to Animals
+: A young orphan arrives in the settlement claiming to possess the same gift as Bazudar—the ability to communicate with animals in ways that go beyond ordinary training. Bazudar is confronted with the possibility of training an apprentice and potentially passing on his knowledge, yet the child's presence also attracts dangerous attention from sorcerers and others who covet such gifts. Bazudar must protect the child while deciding whether to risk caring for another human being after a lifetime of preferring animal company.

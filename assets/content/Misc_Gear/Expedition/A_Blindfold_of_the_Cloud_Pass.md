@@ -18,6 +18,11 @@ The outsider wears the band over the pass, led step by step from the last coasta
 
 ## See Also
 
-- [[place-klhrcldpss|The Cloud Pass]]—the pass, and the Blindfolded Walk
-- [[affiliation-lineageavoluthei|The lineage Avoluthei]]—who weave the band and bind it
-- [[place-avoluthei|Avoluthei]]—the village the bands are woven in
+[[place-klhrcldpss|The Cloud Pass]]
+: the pass, and the Blindfolded Walk
+
+[[affiliation-lineageavoluthei|The lineage Avoluthei]]
+: who weave the band and bind it
+
+[[place-avoluthei|Avoluthei]]
+: the village the bands are woven in

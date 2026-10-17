@@ -58,5 +58,8 @@ A record entered at a temple archive can be read back for a fee. A record in the
 
 ## See Also
 
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—The government it administers
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: The government it administers
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The region it belongs to

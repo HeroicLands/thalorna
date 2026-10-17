@@ -455,21 +455,43 @@ Anthorv is motivated by two seemingly contradictory drives: the desire to be rem
 
 ### Strengths
 
-- **Master Performer:** His theatrics, with five focuses, is nearly unsurpassed, allowing him to command attention, shift emotional tone, and make audiences believe practically anything presented with sufficient conviction and style.
-- **Consummate Communicator:** His eloquence combined with his guile, which carries five focuses, makes him virtually unable to be pinned down or contradicted; he can argue any position and make listeners doubt their own reasoning.
-- **Political Savant:** His intrigue skill, with five focuses, and decades of court observation have made him an expert in factional maneuvering, secret-keeping, and recognizing who holds power over whom where others miss it entirely.
-- **Perceptive Judge:** His perception and awareness allow him to read facial expressions, detect lies, and understand emotional states with unnerving accuracy.
-- **Physical Artistry:** His dexterity, his acrobatics with four focuses, and his dancing with two focuses make him capable of physical comedy and real acrobatic performance, surprising those who assume jesters are merely verbal performers.
-- **Weapon of Wit:** His command of discourse and his creativity allow him to frame arguments in ways that make opposition seem foolish, making him surprisingly effective in intellectual debates.
+Master Performer
+: His theatrics, with five focuses, is nearly unsurpassed, allowing him to command attention, shift emotional tone, and make audiences believe practically anything presented with sufficient conviction and style.
+
+Consummate Communicator
+: His eloquence combined with his guile, which carries five focuses, makes him virtually unable to be pinned down or contradicted; he can argue any position and make listeners doubt their own reasoning.
+
+Political Savant
+: His intrigue skill, with five focuses, and decades of court observation have made him an expert in factional maneuvering, secret-keeping, and recognizing who holds power over whom where others miss it entirely.
+
+Perceptive Judge
+: His perception and awareness allow him to read facial expressions, detect lies, and understand emotional states with unnerving accuracy.
+
+Physical Artistry
+: His dexterity, his acrobatics with four focuses, and his dancing with two focuses make him capable of physical comedy and real acrobatic performance, surprising those who assume jesters are merely verbal performers.
+
+Weapon of Wit
+: His command of discourse and his creativity allow him to frame arguments in ways that make opposition seem foolish, making him surprisingly effective in intellectual debates.
 
 ### Weaknesses
 
-- **Emotional Distance:** His cynicism and constant performance create barriers to any close attachment; he struggles to maintain relationships beyond his usefulness as an entertainer.
-- **Strength and Durability Deficit:** His low strength and modest endurance mean he is vulnerable in real danger. His acrobatics allow him to evade, but not to withstand direct confrontation.
-- **Limitation in Direct Violence:** While competent with thrown weapons and the bow, his melee capability is merely adequate, and he would lose a sustained one-on-one combat to a trained warrior.
-- **Vulnerability to Sincerity:** His cynical armor is occasionally pierced by displays of unguarded emotion or unexpected kindness, leaving him momentarily disoriented and less effective.
-- **Dependency on Audience:** His performance skills are diminished in isolation; he is less effective when alone or with small, unresponsive groups who do not feed his energy.
-- **Aging Jester Syndrome:** At fifty, he is acutely aware that fewer jokes succeed, that the court grows younger, that his particular brand of humor may be becoming dated. This awareness sometimes manifests as desperation disguised as excessive humor.
+Emotional Distance
+: His cynicism and constant performance create barriers to any close attachment; he struggles to maintain relationships beyond his usefulness as an entertainer.
+
+Strength and Durability Deficit
+: His low strength and modest endurance mean he is vulnerable in real danger. His acrobatics allow him to evade, but not to withstand direct confrontation.
+
+Limitation in Direct Violence
+: While competent with thrown weapons and the bow, his melee capability is merely adequate, and he would lose a sustained one-on-one combat to a trained warrior.
+
+Vulnerability to Sincerity
+: His cynical armor is occasionally pierced by displays of unguarded emotion or unexpected kindness, leaving him momentarily disoriented and less effective.
+
+Dependency on Audience
+: His performance skills are diminished in isolation; he is less effective when alone or with small, unresponsive groups who do not feed his energy.
+
+Aging Jester Syndrome
+: At fifty, he is acutely aware that fewer jokes succeed, that the court grows younger, that his particular brand of humor may be becoming dated. This awareness sometimes manifests as desperation disguised as excessive humor.
 
 ## Social
 
@@ -505,12 +527,17 @@ The Performers' Underground (unofficial)
 
 ## Plot Hooks
 
-1. **The Jester's Final Riddle:** An elderly jester from a foreign court arrives in Targud, claiming to have known Anthorv's father (a claim Anthorv has long denied). The visitor claims to possess information about Anthorv's origins that would fundamentally change his understanding of himself. Anthorv finds himself unable to dismiss the claim through humor, and recruits adventurers to investigate the truth. What begins as a search for biographical information transforms into a quest touching on magic, prophecy, and the possibility that Anthorv's entire life has been shaped by forces beyond his understanding.
+The Jester's Final Riddle
+: An elderly jester from a foreign court arrives in Targud, claiming to have known Anthorv's father (a claim Anthorv has long denied). The visitor claims to possess information about Anthorv's origins that would fundamentally change his understanding of himself. Anthorv finds himself unable to dismiss the claim through humor, and recruits adventurers to investigate the truth. What begins as a search for biographical information transforms into a quest touching on magic, prophecy, and the possibility that Anthorv's entire life has been shaped by forces beyond his understanding.
 
-2. **The Courtier's Conspiracy:** Anthorv discovers evidence that a faction of nobles is plotting against King Braldmil II. His usual methods—subtle public mockery and private suggestions—are insufficient to stop the conspiracy directly. He must recruit adventurers to gather proof, sabotage the plotters' preparations, and ultimately protect the king without revealing the conspiracy publicly (which would damage the crown). One of the conspirators is someone Anthorv cares for, which leaves him facing a real moral problem rather than a cynical calculation.
+The Courtier's Conspiracy
+: Anthorv discovers evidence that a faction of nobles is plotting against King Braldmil II. His usual methods—subtle public mockery and private suggestions—are insufficient to stop the conspiracy directly. He must recruit adventurers to gather proof, sabotage the plotters' preparations, and ultimately protect the king without revealing the conspiracy publicly (which would damage the crown). One of the conspirators is someone Anthorv cares for, which leaves him facing a real moral problem rather than a cynical calculation.
 
-3. **The Traveling Show:** Anthorv grows restless with the court and decides to tour the kingdom with a traveling theatrical troupe he recruits adventurers to protect. As they move from town to town, they discover that performances he creates inadvertently inspire peasants to rebellion against oppressive local lords. Anthorv can continue the performances knowing they have revolutionary consequences, or abandon the most authentic work he has engaged in for decades.
+The Traveling Show
+: Anthorv grows restless with the court and decides to tour the kingdom with a traveling theatrical troupe he recruits adventurers to protect. As they move from town to town, they discover that performances he creates inadvertently inspire peasants to rebellion against oppressive local lords. Anthorv can continue the performances knowing they have revolutionary consequences, or abandon the most authentic work he has engaged in for decades.
 
-4. **The Prophet in Motley:** Anthorv begins experiencing dreams of true prophetic clarity—visions of future disasters, disasters that can be prevented but only if he reveals knowledge he should not possess. Fighting against his cynical nature, he slowly accepts that something real—magic, destiny, divine will—is breaking through his carefully constructed irony. He recruits adventurers to help prevent the catastrophes while avoiding revealing that a jester is the source of the intelligence.
+The Prophet in Motley
+: Anthorv begins experiencing dreams of true prophetic clarity—visions of future disasters, disasters that can be prevented but only if he reveals knowledge he should not possess. Fighting against his cynical nature, he slowly accepts that something real—magic, destiny, divine will—is breaking through his carefully constructed irony. He recruits adventurers to help prevent the catastrophes while avoiding revealing that a jester is the source of the intelligence.
 
-5. **The Mask Remembers:** A mysterious figure from Anthorv's past emerges from hiding—someone he once loved but was forced to abandon because of his position at court. This person has not aged as they should have, suggesting magical preservation or intervention. Their return forces Anthorv to confront what he sacrificed to maintain his position and to consider whether he has been a fool in the most tragic sense. The person needs his help with something dangerous and morally complicated, and Anthorv must find the line between the jester who can speak uncomfortable truths and the man who has spent fifty years avoiding the truth about himself.
+The Mask Remembers
+: A mysterious figure from Anthorv's past emerges from hiding—someone he once loved but was forced to abandon because of his position at court. This person has not aged as they should have, suggesting magical preservation or intervention. Their return forces Anthorv to confront what he sacrificed to maintain his position and to consider whether he has been a fool in the most tragic sense. The person needs his help with something dangerous and morally complicated, and Anthorv must find the line between the jester who can speak uncomfortable truths and the man who has spent fifty years avoiding the truth about himself.

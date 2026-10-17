@@ -28,6 +28,11 @@ The capital, **[Torvaleth]{.name data-type="place/settlement"}**, is the largest
 
 ## See Also
 
-- [[affiliation-kingdmlnrk|Kingdom of Lienrik]]—The kingdom that holds this land
-- [[place-tarvenirgn|Tarvénia Region]]—The enclosing region
-- [[place-ronetho|Ornetho]]—A walled city of the kingdom
+[[affiliation-kingdmlnrk|Kingdom of Lienrik]]
+: The kingdom that holds this land
+
+[[place-tarvenirgn|Tarvénia Region]]
+: The enclosing region
+
+[[place-ronetho|Ornetho]]
+: A walled city of the kingdom

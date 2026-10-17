@@ -36,8 +36,17 @@ The truce binds tribesmen and not strangers, and a caravan master who draws a bl
 
 ## See Also
 
-- [[place-wlqtrrgn|Volketor]]—the western margin
-- [[place-hskrrgn|Khoshiqor]]—the central sands
-- [[place-sowidwell|Sovid]]—the eastern hand-off well
-- [[place-qisomrktcmp|Qiiso]]—the market-camp at the road's heart
-- [[lore-celestialroad|The Celestial Road]]—the caravan road to Tantsou
+[[place-wlqtrrgn|Volketor]]
+: the western margin
+
+[[place-hskrrgn|Khoshiqor]]
+: the central sands
+
+[[place-sowidwell|Sovid]]
+: the eastern hand-off well
+
+[[place-qisomrktcmp|Qiiso]]
+: the market-camp at the road's heart
+
+[[lore-celestialroad|The Celestial Road]]
+: the caravan road to Tantsou

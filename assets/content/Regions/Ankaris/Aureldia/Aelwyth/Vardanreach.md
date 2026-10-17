@@ -24,6 +24,11 @@ What is left free of Vardanreach is [[place-vardainvalleys|The Vardain Valleys]]
 
 ## See Also
 
-- [[lore-vardain|The Vardain]]—the people of Vardanreach
-- [[place-stormveld|Stormveld]]—the land as its conquerors hold it now
-- [[place-vardainvalleys|Vardain Valleys]]—all that is left free of it
+[[lore-vardain|The Vardain]]
+: the people of Vardanreach
+
+[[place-stormveld|Stormveld]]
+: the land as its conquerors hold it now
+
+[[place-vardainvalleys|Vardain Valleys]]
+: all that is left free of it

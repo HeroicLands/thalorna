@@ -41,9 +41,14 @@ sohl: {system: {commonSkills: []}}
 
 ## The Áelendan Wardens
 
-- **Type:** Ancient protective order
-- **Parent people:** [[lore-aelendnppl|Áelendan]]
-- **Region:** [[place-elavendre|Élavendre]], principally the [[place-drenavrspn|Drenavar Spine]] and deep forests
+Type
+: Ancient protective order
+
+Parent people
+: [[lore-aelendnppl|Áelendan]]
+
+Region
+: [[place-elavendre|Élavendre]], principally the [[place-drenavrspn|Drenavar Spine]] and deep forests
 
 ### Overview
 
@@ -59,12 +64,23 @@ Their purpose is explicitly custodial, not expansionist. The Wardens do not conq
 
 Wardens are drawn from Áelendan tribal communities and trained from youth in a demanding array of disciplines:
 
-- **Tracking and woodcraft**—Few outsiders can follow a trail through the deep forests; few Wardens cannot
-- **Archery**—The preferred combat discipline, suited to forest and mountain engagements
-- **Survival**—Wardens can live indefinitely in the wilderness, subsisting on what the land provides
-- **Knowledge of sacred geography**—Every Warden knows the locations, histories, and specific protocols of the sites within their patrol territory
-- **Fae lore**—Wardens are trained to recognize fae presence, to navigate fae-touched terrain, and to respond appropriately when fae beings choose to make themselves known
-- **The old tongue**—All Wardens are fluent in [[skill-aelendlng|Áelendi Language]], the ancestral Pelwar language
+Tracking and woodcraft
+: Few outsiders can follow a trail through the deep forests; few Wardens cannot
+
+Archery
+: The preferred combat discipline, suited to forest and mountain engagements
+
+Survival
+: Wardens can live indefinitely in the wilderness, subsisting on what the land provides
+
+Knowledge of sacred geography
+: Every Warden knows the locations, histories, and specific protocols of the sites within their patrol territory
+
+Fae lore
+: Wardens are trained to recognize fae presence, to navigate fae-touched terrain, and to respond appropriately when fae beings choose to make themselves known
+
+The old tongue
+: All Wardens are fluent in [[skill-aelendlng|Áelendi Language]], the ancestral Pelwar language
 
 ### Doctrine and Response
 
@@ -82,14 +98,28 @@ The Wardens have no central headquarters in the manner of a lowland military ord
 
 The principal concentrations of Wardens correspond to the most sacred sites:
 
-- [[place-drenavrspn|The Drenavar Spine]]—The central sacred range, with the largest Warden presence
-- **The Silver Forests**—Ancient fae-touched woodland under heavy Warden watch
-- **Mountain sanctuaries and grove shrines**—Scattered across the interior, each with its own small complement of Wardens
+[[place-drenavrspn|The Drenavar Spine]]
+: The central sacred range, with the largest Warden presence
+
+The Silver Forests
+: Ancient fae-touched woodland under heavy Warden watch
+
+Mountain sanctuaries and grove shrines
+: Scattered across the interior, each with its own small complement of Wardens
 
 ### See Also
 
-- [[lore-aelendnppl|Áelendan]]—The people the Wardens serve
-- [[place-elavendre|Élavendre]]—The kingdom in which the Wardens operate
-- [[place-drenavrspn|Drenavar Spine]]—Primary sacred territory
-- [[place-eshalshldg|Ésalosa Lodge]]—Áelendan political and ceremonial center
-- [[affiliation-ordoarcanis|Thordimalon]]—The principal contemporary threat to sacred territory
+[[lore-aelendnppl|Áelendan]]
+: The people the Wardens serve
+
+[[place-elavendre|Élavendre]]
+: The kingdom in which the Wardens operate
+
+[[place-drenavrspn|Drenavar Spine]]
+: Primary sacred territory
+
+[[place-eshalshldg|Ésalosa Lodge]]
+: Áelendan political and ceremonial center
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: The principal contemporary threat to sacred territory

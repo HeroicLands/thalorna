@@ -28,5 +28,8 @@ Skraldborg's tension is the one every watch-post meets. A cry raised too often f
 
 ## See Also
 
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—the kingdom this watch serves
-- [[place-nordheim|Nordheim]]—the land the kingdom holds
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+: the kingdom this watch serves
+
+[[place-nordheim|Nordheim]]
+: the land the kingdom holds

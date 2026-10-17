@@ -138,6 +138,11 @@ the same tradition, and both regard the other's emphasis as slightly eccentric.
 
 ## See Also
 
-- [[lore-zohira|Zohira]]—the spirits themselves, and the named ones
-- [[affiliation-nkaruthar|Nkaru'thar]]—the Eternal Flame, held alongside this
-- [[place-yandazhrng|Yanda Zohiring]]—where the spirit world lies closest
+[[lore-zohira|Zohira]]
+: the spirits themselves, and the named ones
+
+[[affiliation-nkaruthar|Nkaru'thar]]
+: the Eternal Flame, held alongside this
+
+[[place-yandazhrng|Yanda Zohiring]]
+: where the spirit world lies closest

@@ -502,18 +502,26 @@ Water that gets into its cracks and freezes splits it from inside. On the upper 
 
 ## Attributes
 
-- **Perception:** 7-12 (1d6+6)
+Perception
+: 7-12 (1d6+6)
 
-- **Aura:** 5-10 (1d6+4)
+Aura
+: 5-10 (1d6+4)
 
-- **Will:** 15-20 (1d6+14)
+Will
+: 15-20 (1d6+14)
 
-- **Reasoning:** 5-10 (1d6+4)
+Reasoning
+: 5-10 (1d6+4)
 
-- **Strength:** 40-45 (1d6+39)
+Strength
+: 40-45 (1d6+39)
 
-- **Endurance:** 24-29 (1d6+23)
+Endurance
+: 24-29 (1d6+23)
 
-- **Agility:** 5-8 (1d4+4)
+Agility
+: 5-8 (1d4+4)
 
-- **Creativity:** 3-6 (1d4+2)
+Creativity
+: 3-6 (1d4+2)

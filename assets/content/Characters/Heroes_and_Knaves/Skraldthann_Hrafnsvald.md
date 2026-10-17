@@ -446,19 +446,37 @@ Skraldthann is motivated by a desire for recognition and immortality through his
 
 ### Strengths
 
-- **Design Skill**: Skraldthann's ability to envision a garment and understand how it will move, fit, and transform the wearer is extraordinary. He can look at someone and immediately perceive what designs would suit them.
-- **Master Craftsman**: His technical skill is outstanding. His stitching is perfect, his understanding of fabric handling is encyclopedic, and his ability to execute complex designs flawlessly is famous.
-- **Knowledge of Rare Materials**: He has access to fabrics from across the known world and understands their properties in ways most clothiers never achieve. He can identify quality and authenticity at a glance.
-- **Connections and Influence**: Through decades in elite circles, Skraldthann has cultivated connections with nobility, wealthy merchants, and influential patrons who value his opinion on matters beyond fashion.
-- **Theatrical Presentation**: He understands how to present his work to maximum effect, how to build anticipation, and how to make clients feel that acquiring his designs is a privilege worthy of their status.
+Design Skill
+: Skraldthann's ability to envision a garment and understand how it will move, fit, and transform the wearer is extraordinary. He can look at someone and immediately perceive what designs would suit them.
+
+Master Craftsman
+: His technical skill is outstanding. His stitching is perfect, his understanding of fabric handling is encyclopedic, and his ability to execute complex designs flawlessly is famous.
+
+Knowledge of Rare Materials
+: He has access to fabrics from across the known world and understands their properties in ways most clothiers never achieve. He can identify quality and authenticity at a glance.
+
+Connections and Influence
+: Through decades in elite circles, Skraldthann has cultivated connections with nobility, wealthy merchants, and influential patrons who value his opinion on matters beyond fashion.
+
+Theatrical Presentation
+: He understands how to present his work to maximum effect, how to build anticipation, and how to make clients feel that acquiring his designs is a privilege worthy of their status.
 
 ### Weaknesses
 
-- **Arrogance and Elitism**: Skraldthann's conviction that only the worthy deserve his work makes him dismissive and cruel to those he judges inadequate. This has cost him potential clients and damaged his reputation among common people.
-- **Rigid Standards**: His refusal to compromise on his vision, while artistically admirable, has occasionally led him to refuse profitable commissions or to clash with powerful patrons who wanted something different from what he envisioned.
-- **Commercial Naiveté**: Despite his success, Skraldthann sometimes makes poor business decisions, being motivated by artistic principle rather than profit. He has occasionally taken heavy losses rather than cut corners.
-- **Fear of Obsolescence**: His anxiety about changing fashion and potential irrelevance sometimes drives him to increasingly extreme designs meant to shock and command attention rather than serve his clients.
-- **Secretive Nature**: The old scar and the mysterious period in his past are never discussed. This secrecy makes him vulnerable to blackmail or to having his reputation damaged by exposure of something he has hidden.
+Arrogance and Elitism
+: Skraldthann's conviction that only the worthy deserve his work makes him dismissive and cruel to those he judges inadequate. This has cost him potential clients and damaged his reputation among common people.
+
+Rigid Standards
+: His refusal to compromise on his vision, while artistically admirable, has occasionally led him to refuse profitable commissions or to clash with powerful patrons who wanted something different from what he envisioned.
+
+Commercial Naiveté
+: Despite his success, Skraldthann sometimes makes poor business decisions, being motivated by artistic principle rather than profit. He has occasionally taken heavy losses rather than cut corners.
+
+Fear of Obsolescence
+: His anxiety about changing fashion and potential irrelevance sometimes drives him to increasingly extreme designs meant to shock and command attention rather than serve his clients.
+
+Secretive Nature
+: The old scar and the mysterious period in his past are never discussed. This secrecy makes him vulnerable to blackmail or to having his reputation damaged by exposure of something he has hidden.
 
 ## Social
 
@@ -500,12 +518,17 @@ Elite Social Circles of Norgaad
 
 ## Plot Hooks
 
-1. **The Mysterious Benefactor**: A cloaked figure offers Skraldthann an astronomical sum to design a single garment with very specific requirements: it must include fabric the client provides (unusual material with strange properties), must be completed in secret, and must never be worn publicly. The client hints that the garment has supernatural significance. Skraldthann must decide whether artistic pride allows him to create something that will never be seen and whether taking the job involves deeper conspiracies.
+The Mysterious Benefactor
+: A cloaked figure offers Skraldthann an astronomical sum to design a single garment with very specific requirements: it must include fabric the client provides (unusual material with strange properties), must be completed in secret, and must never be worn publicly. The client hints that the garment has supernatural significance. Skraldthann must decide whether artistic pride allows him to create something that will never be seen and whether taking the job involves deeper conspiracies.
 
-2. **The Apprentice's Secret**: A brilliant young apprentice, **Althmil Skrildendik**, shows extraordinary talent and potential as a designer. Skraldthann begins mentoring him intensively, planning to eventually name him successor. Then Skraldthann discovers that **Althmil** is secretly selling designs to **Knarvthann Vraldumak**. The betrayal forces Skraldthann to confront whether his isolation and elitism created this outcome, and whether his legacy has already begun to fail.
+The Apprentice's Secret
+: A brilliant young apprentice, **Althmil Skrildendik**, shows extraordinary talent and potential as a designer. Skraldthann begins mentoring him intensively, planning to eventually name him successor. Then Skraldthann discovers that **Althmil** is secretly selling designs to **Knarvthann Vraldumak**. The betrayal forces Skraldthann to confront whether his isolation and elitism created this outcome, and whether his legacy has already begun to fail.
 
-3. **The Fashion Revolution**: A movement emerges claiming that fashion should serve all people, not just the wealthy, and that tailors like Skraldthann perpetuate inequality. Charismatic advocates for functional, egalitarian clothing begin gaining traction among common people. Skraldthann's designs are mocked as elitist excess. He must decide whether to fight this movement, adapt to it, or find some synthesis that preserves his artistic integrity.
+The Fashion Revolution
+: A movement emerges claiming that fashion should serve all people, not just the wealthy, and that tailors like Skraldthann perpetuate inequality. Charismatic advocates for functional, egalitarian clothing begin gaining traction among common people. Skraldthann's designs are mocked as elitist excess. He must decide whether to fight this movement, adapt to it, or find some synthesis that preserves his artistic integrity.
 
-4. **The Scarred Past**: Someone from Skraldthann's earlier years—someone he has worked hard to forget—appears with knowledge of the scar and what caused it. They threaten exposure unless Skraldthann undertakes a series of tasks. Investigating reveals that what happened decades ago was far more significant and darker than anyone suspected, potentially involving **magical artifacts or dangerous secrets** that remain relevant.
+The Scarred Past
+: Someone from Skraldthann's earlier years—someone he has worked hard to forget—appears with knowledge of the scar and what caused it. They threaten exposure unless Skraldthann undertakes a series of tasks. Investigating reveals that what happened decades ago was far more significant and darker than anyone suspected, potentially involving **magical artifacts or dangerous secrets** that remain relevant.
 
-5. **The Royal Commission**: The reigning **King of Norgaad** personally commissions Skraldthann to design coronation garments for an heir, granting him unprecedented access to the royal family. This should be the high point of his career, but court intrigues reveal that factions are using the commission as a pawn in larger games. Skraldthann discovers that his designs themselves might carry political significance and be used to make statements about succession and power.
+The Royal Commission
+: The reigning **King of Norgaad** personally commissions Skraldthann to design coronation garments for an heir, granting him unprecedented access to the royal family. This should be the high point of his career, but court intrigues reveal that factions are using the commission as a pawn in larger games. Skraldthann discovers that his designs themselves might carry political significance and be used to make statements about succession and power.

@@ -25,5 +25,8 @@ Some waters leave Vristwald to the west; others pass through neighboring lands a
 
 ## See Also
 
-- [[place-vrystwald|Vristwald]]—the forest crossed by the rivers
-- [[place-grimholt|Grimholt]] and [[place-waldburg|Waldburg]]—two of the river landings
+[[place-vrystwald|Vristwald]]
+: the forest crossed by the rivers
+
+[[place-grimholt|Grimholt]] and [[place-waldburg|Waldburg]]
+: two of the river landings

@@ -16,9 +16,20 @@ Gregarious and adaptable, ducks are social birds that thrive in diverse environm
 
 Ducks do well among many kinds of people and form strong social ties. A Duck person adapts to new circumstances and likes belonging to a community.
 
-- **Physical:** Agile, adept at both land and water movement; webbed feet.
-- **Behavioral:** Highly adaptable, enjoys social interaction, quick to adjust to surroundings.
-- **Positive:** Social, adaptable, and builds strong relationships.
-- **Negative:** May be too reliant on social approval and could struggle with independence.
-- **Minor Trait ([[sohl-none-doctrauma-sociable|Sociable]]):** Thrives in the company of others, naturally gravitating toward groups and drawing energy from social interaction and approval.
-- **Major Disorder ([[sohl-none-doctrauma-nrcssstc|Narcissistic]]):** Craves constant attention and approval, becoming dramatic and emotionally unstable when ignored or overlooked.
+Physical
+: Agile, adept at both land and water movement; webbed feet.
+
+Behavioral
+: Highly adaptable, enjoys social interaction, quick to adjust to surroundings.
+
+Positive
+: Social, adaptable, and builds strong relationships.
+
+Negative
+: May be too reliant on social approval and could struggle with independence.
+
+Minor Trait ([[sohl-none-doctrauma-sociable|Sociable]])
+: Thrives in the company of others, naturally gravitating toward groups and drawing energy from social interaction and approval.
+
+Major Disorder ([[sohl-none-doctrauma-nrcssstc|Narcissistic]])
+: Craves constant attention and approval, becoming dramatic and emotionally unstable when ignored or overlooked.

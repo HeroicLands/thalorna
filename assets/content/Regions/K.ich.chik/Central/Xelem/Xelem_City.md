@@ -26,7 +26,14 @@ Seasonal floods widen the waterways and make temporary islands, so settlements s
 
 ## See Also
 
-- [[affiliation-xelem|Shelem]]—the realm of rivers and merchant councils
-- [[place-xelemrgn|Shelem Region]]—the jungle and the rivers
-- [[affiliation-ixilankul|Ish'ilankul]], [[affiliation-kankul|K'ankul]]—the northern powers that depend on its goods
-- [[place-cntrlkchchk|Central K'ich'chik]]—the four realms of the heartland
+[[affiliation-xelem|Shelem]]
+: the realm of rivers and merchant councils
+
+[[place-xelemrgn|Shelem Region]]
+: the jungle and the rivers
+
+[[affiliation-ixilankul|Ish'ilankul]], [[affiliation-kankul|K'ankul]]
+: the northern powers that depend on its goods
+
+[[place-cntrlkchchk|Central K'ich'chik]]
+: the four realms of the heartland

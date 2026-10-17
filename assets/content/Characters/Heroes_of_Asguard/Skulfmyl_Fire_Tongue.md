@@ -403,8 +403,11 @@ Skulfmil's oratory is supernaturally persuasive; his words can stir emotions, ch
 
 ## Plot Hooks
 
-1. **The City That Burned**—A city that Skulfmil destabilized years ago has descended into warlord rule that is far worse than the government he helped overthrow. He must face the consequences of his actions and decide whether to help—or move on as he always does.
+The City That Burned
+: A city that Skulfmil destabilized years ago has descended into warlord rule that is far worse than the government he helped overthrow. He must face the consequences of his actions and decide whether to help—or move on as he always does.
 
-2. **The Silence Campaign**—The Order of Stability has developed a way to magically suppress Skulfmil's voice. Without his greatest weapon, he must find another way to survive and continue his work.
+The Silence Campaign
+: The Order of Stability has developed a way to magically suppress Skulfmil's voice. Without his greatest weapon, he must find another way to survive and continue his work.
 
-3. **The Tyrant's Fall**—A terrible tyrant rules a northern city, and the oppressed people have begged Skulfmil for help. For once, the revolution seems justified—but the tyrant's spymaster is one step ahead, and the city is a trap.
+The Tyrant's Fall
+: A terrible tyrant rules a northern city, and the oppressed people have begged Skulfmil for help. For once, the revolution seems justified—but the tyrant's spymaster is one step ahead, and the city is a trap.

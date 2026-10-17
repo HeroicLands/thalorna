@@ -293,20 +293,29 @@ Foxes in human-occupied territory often become semi-tame, stealing food but avoi
 
 ## Attributes
 
-- **Strength:** 2-5 (1d4+1)
+Strength
+: 2-5 (1d4+1)
 
-- **Endurance:** 8-13 (1d6+7)
+Endurance
+: 8-13 (1d6+7)
 
-- **Agility:** 13-18 (1d6+12)
+Agility
+: 13-18 (1d6+12)
 
-- **Perception:** 14-19 (1d6+13)
+Perception
+: 14-19 (1d6+13)
 
-- **Scent:** 3-6 (1d4+2)
+Scent
+: 3-6 (1d4+2)
 
-- **Aura:** 3-6 (1d4+2)
+Aura
+: 3-6 (1d4+2)
 
-- **Will:** 12-17 (1d6+11)
+Will
+: 12-17 (1d6+11)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 7-10 (1d4+6)
+Creativity
+: 7-10 (1d4+6)

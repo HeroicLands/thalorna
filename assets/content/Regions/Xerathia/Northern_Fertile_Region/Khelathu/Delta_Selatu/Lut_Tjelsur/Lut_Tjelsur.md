@@ -23,7 +23,14 @@ It holds the selat's chief temple of Tjelsur, the Halzi'a's court and granaries,
 
 ## See Also
 
-- [[affiliation-selatlttjlsk|The Selat of Lut-Tjelsur]]—Parent selat
-- [[affiliation-deltaselatu|The Delta Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-tjelsuk|Faith of Tjelsur]]—Patron cult
+[[affiliation-selatlttjlsk|The Selat of Lut-Tjelsur]]
+: Parent selat
+
+[[affiliation-deltaselatu|The Delta Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-tjelsuk|Faith of Tjelsur]]
+: Patron cult

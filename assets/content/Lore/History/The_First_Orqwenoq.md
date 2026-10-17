@@ -78,7 +78,14 @@ The union broke up when its orkun died, and the tribes went back to their wells.
 
 ## See Also
 
-- [[place-jilaq|Jilaq]]—the city it killed
-- [[lore-towercities|The Tower Cities]]—the league it ended
-- [[lore-swdsclndr|The Sovidur Reckoning]]—the count that begins with it
-- [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]—the second union
+[[place-jilaq|Jilaq]]
+: the city it killed
+
+[[lore-towercities|The Tower Cities]]
+: the league it ended
+
+[[lore-swdsclndr|The Sovidur Reckoning]]
+: the count that begins with it
+
+[[lore-hndrdbnnrs|The Storm of the Hundred Banners]]
+: the second union

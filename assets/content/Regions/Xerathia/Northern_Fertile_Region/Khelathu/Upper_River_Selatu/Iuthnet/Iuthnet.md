@@ -25,7 +25,14 @@ Uzn'era's priestesses practice medicine and hold office up to the highest. Behin
 
 ## See Also
 
-- [[affiliation-selatiuthnet|The Selat of Iuthnet]]—parent selat
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—the selat class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—imperial overview
-- [[affiliation-uznera|Faith of Uzn'era]]—patron cult
+[[affiliation-selatiuthnet|The Selat of Iuthnet]]
+: parent selat
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: the selat class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: imperial overview
+
+[[affiliation-uznera|Faith of Uzn'era]]
+: patron cult

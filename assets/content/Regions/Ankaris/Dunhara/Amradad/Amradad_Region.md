@@ -26,11 +26,20 @@ This is the desert's wettest margin, which is not saying much. A thin winter rai
 
 ## Places
 
-- [[place-shebarakhend|Shebarakhend]]—the oasis city of the Shebarader's court
-- [[place-tahrodan|Tahrodan]]—the fortress city on the caravan road, largest in the realm
-- [[place-qarvelakhend|Qarvelakhend]]—a walled city of the oases
-- [[place-tazhinakhend|Tazhinakhend]] and [[place-venzelakhend|Venzelakhend]]—market towns of the caravan roads
-- [[place-sorvadakhend|Sorvadakhend]]—a farming settlement whose elders keep an astrologer
+[[place-shebarakhend|Shebarakhend]]
+: the oasis city of the Shebarader's court
+
+[[place-tahrodan|Tahrodan]]
+: the fortress city on the caravan road, largest in the realm
+
+[[place-qarvelakhend|Qarvelakhend]]
+: a walled city of the oases
+
+[[place-tazhinakhend|Tazhinakhend]] and [[place-venzelakhend|Venzelakhend]]
+: market towns of the caravan roads
+
+[[place-sorvadakhend|Sorvadakhend]]
+: a farming settlement whose elders keep an astrologer
 
 ## Peoples and Culture
 
@@ -42,7 +51,14 @@ A hereditary Shebarader rules from Shebarakhend, through a Grand Vashkader, the 
 
 ## See Also
 
-- [[place-dunharargn|Dunhara Region]]—the parent region
-- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the realm that holds this region
-- [[place-dunhardsrtrgn|Dunhara Desert Region]]—the open desert beyond the cities
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the islands across the strait
+[[place-dunharargn|Dunhara Region]]
+: the parent region
+
+[[affiliation-kngdmmrdd|Kingdom of Amradad]]
+: the realm that holds this region
+
+[[place-dunhardsrtrgn|Dunhara Desert Region]]
+: the open desert beyond the cities
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the islands across the strait

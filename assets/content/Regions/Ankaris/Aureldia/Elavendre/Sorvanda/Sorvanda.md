@@ -40,12 +40,14 @@ it exactly far enough to establish that it is real ([[lore-sorvandaclose|The Só
 
 What extraction exists is therefore:
 
-- **Marginal**—worked at the fringes, on ground the tribes have not claimed or have released by
-  specific arrangement, usually in exchange for something that took a generation to negotiate.
-- **Dangerous**—an unlicensed working that the Wardens find does not continue, and its people do not
-  always come back down.
-- **Ruinously expensive**—which is why Élavendren gold and gemwork are worth what they are. The
-  scarcity is not geological. It is political, and everyone in the trade knows it.
+Marginal
+: worked at the fringes, on ground the tribes have not claimed or have released by specific arrangement, usually in exchange for something that took a generation to negotiate.
+
+Dangerous
+: an unlicensed working that the Wardens find does not continue, and its people do not always come back down.
+
+Ruinously expensive
+: which is why Élavendren gold and gemwork are worth what they are. The scarcity is not geological. It is political, and everyone in the trade knows it.
 
 Prospectors, speculators and agents of [[affiliation-ordoarcanis|Thordimalon]] come anyway, in
 numbers, every year—and the Arcane Order's people are the least welcome of the three. The Áelendan hold the

@@ -101,8 +101,17 @@ The Ha'ik appear less reliant on southern trade than some of the other northern 
 
 ## See Also
 
-- [[affiliation-penqalchakal|P'enqal Ch'akal]]—The Coyote People's grasslands to the west
-- [[affiliation-ixtemtzul|Ishtem Tsul]]—The Bear People's boreal forests to the northwest
-- [[affiliation-tzumanotun|Ts'uma No'tun]]—The Serpent People's southern territories, connected via river routes
-- [[place-hanalxilanrgn|Ha'nal Shi'lan]]—The contested borderlands to the south where Ha'ik, Ts'okum, and Ch'akun meet
-- [[place-xikulchaklrgn|Shik'ul Ch'akal Region]]—The land Shik'ul Ch'akal holds
+[[affiliation-penqalchakal|P'enqal Ch'akal]]
+: The Coyote People's grasslands to the west
+
+[[affiliation-ixtemtzul|Ishtem Tsul]]
+: The Bear People's boreal forests to the northwest
+
+[[affiliation-tzumanotun|Ts'uma No'tun]]
+: The Serpent People's southern territories, connected via river routes
+
+[[place-hanalxilanrgn|Ha'nal Shi'lan]]
+: The contested borderlands to the south where Ha'ik, Ts'okum, and Ch'akun meet
+
+[[place-xikulchaklrgn|Shik'ul Ch'akal Region]]
+: The land Shik'ul Ch'akal holds

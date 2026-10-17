@@ -28,5 +28,8 @@ The village tells a tale as a warning. A woman of Hvalgvík went down after her 
 
 ## See Also
 
-- [[affiliation-kingdomlgn|Kingdom of Malagna]]—the kingdom this coast serves
-- [[place-malagna|Malagna]]—the land the kingdom holds
+[[affiliation-kingdomlgn|Kingdom of Malagna]]
+: the kingdom this coast serves
+
+[[place-malagna|Malagna]]
+: the land the kingdom holds

@@ -99,8 +99,17 @@ The Zulen (fellowship) Zefaris also produces the Order's finest illusionists and
 
 ## See Also
 
-- [[affiliation-hexhodai|Zemor Hodhis]]—The Zemor Hodhis framework
-- [[affiliation-sideros|Rhezin Sideris]]—The opposing _rhezin_
-- [[affiliation-pyrethos|Rhezin Pirethos]]—Adjacent _rhezin_ (dynamism)
-- [[affiliation-physera|Rhezin Fisera]]—Adjacent _rhezin_ (the natural world)
-- [[affiliation-ordoarcanis|Thordimalon]]—The institution that teaches and regulates Zefaris magic
+[[affiliation-hexhodai|Zemor Hodhis]]
+: The Zemor Hodhis framework
+
+[[affiliation-sideros|Rhezin Sideris]]
+: The opposing _rhezin_
+
+[[affiliation-pyrethos|Rhezin Pirethos]]
+: Adjacent _rhezin_ (dynamism)
+
+[[affiliation-physera|Rhezin Fisera]]
+: Adjacent _rhezin_ (the natural world)
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: The institution that teaches and regulates Zefaris magic

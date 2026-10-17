@@ -67,7 +67,14 @@ The Ékunda are not one of the five clan-nations, and they have made a living of
 
 ## See Also
 
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the confederation the tribe belongs to
-- [[place-ekundavlg|Ékunda Village]]—the tribe's seat at the spring
-- [[affiliation-fenjara|Fénjara]]—another small tribe of the confederation
-- [[place-sthrnsvnhs|Southern Savannahs]]—the region
+[[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
+: the confederation the tribe belongs to
+
+[[place-ekundavlg|Ékunda Village]]
+: the tribe's seat at the spring
+
+[[affiliation-fenjara|Fénjara]]
+: another small tribe of the confederation
+
+[[place-sthrnsvnhs|Southern Savannahs]]
+: the region

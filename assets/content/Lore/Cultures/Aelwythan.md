@@ -115,14 +115,29 @@ Inheritance and marriage tie households into the realm's order. A baron's claim 
 
 ## See Also
 
-- [[place-aelwyth|Aelwyth Region]]—the island, its kingdoms and peoples
-- [[place-pshtrwldrns|Peshtar Wilderness]]—the distinct highland clans and their traditions
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the gods of the southern and eastern realms
-- [[affiliation-asguardian|Asguardian Pantheon]]—the gods of the conquered plain
-- [[affiliation-ordoarcanis|Thordimalon]]—the Synod and its mainland order
-- [[affiliation-selmoros|Faith of Sélmoros]]—death, funerals and the dead
-- [[lore-saelvricrusade|The Saelvri Crusade]]—what the Order of the Just Blade did in the Hushwood
-- [[lore-kingshlwcrwn|The Crowning at Kingshollow]]—the barons' gift of a crown
+[[place-aelwyth|Aelwyth Region]]
+: the island, its kingdoms and peoples
+
+[[place-pshtrwldrns|Peshtar Wilderness]]
+: the distinct highland clans and their traditions
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the gods of the southern and eastern realms
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the gods of the conquered plain
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: the Synod and its mainland order
+
+[[affiliation-selmoros|Faith of Sélmoros]]
+: death, funerals and the dead
+
+[[lore-saelvricrusade|The Saelvri Crusade]]
+: what the Order of the Just Blade did in the Hushwood
+
+[[lore-kingshlwcrwn|The Crowning at Kingshollow]]
+: the barons' gift of a crown
 
 ## Glossary {#glossary}
 

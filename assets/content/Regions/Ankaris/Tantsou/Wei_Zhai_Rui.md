@@ -61,10 +61,23 @@ The Shadow is not united. Its members are ambitious people joined by the wish to
 
 ## See Also
 
-- [[affiliation-yanchaizhao|Yanchai Zhao]]—a noble house brought low in the Dance
-- [[being-tuijawengyan|Tuija Wengyan]]—a rebellion played by the same rules
-- [[lore-zhazho|Zhazho]]—the caste whose members are the main players
-- [[lore-ancstrwrshp|Ancestor Worship]]—the spiritual economy the Dance preys on
-- [[lore-tseising|Tseising]]—the law and the honor the game turns into weapons
-- [[lore-marriage|Marriage]]—the alliance the Dance uses most
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the empire whose court hosts the game
+[[affiliation-yanchaizhao|Yanchai Zhao]]
+: a noble house brought low in the Dance
+
+[[being-tuijawengyan|Tuija Wengyan]]
+: a rebellion played by the same rules
+
+[[lore-zhazho|Zhazho]]
+: the caste whose members are the main players
+
+[[lore-ancstrwrshp|Ancestor Worship]]
+: the spiritual economy the Dance preys on
+
+[[lore-tseising|Tseising]]
+: the law and the honor the game turns into weapons
+
+[[lore-marriage|Marriage]]
+: the alliance the Dance uses most
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the empire whose court hosts the game

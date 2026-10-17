@@ -56,7 +56,14 @@ Aurionis is more often present in Ankarian imagination than in Ankarian experien
 
 ## See Also
 
-- [[place-worldthlrn|The World of Thalorna]]—World overview
-- [[place-ankrscntnnt|Ankaris Continent]]—Northern neighbor across the ocean
-- [[place-xerathia|Zerathia]]—Northwestern neighbor across the ocean
-- [[place-isrncntnnt|Iseron Continent]]—Southern neighbor, the frozen continent
+[[place-worldthlrn|The World of Thalorna]]
+: World overview
+
+[[place-ankrscntnnt|Ankaris Continent]]
+: Northern neighbor across the ocean
+
+[[place-xerathia|Zerathia]]
+: Northwestern neighbor across the ocean
+
+[[place-isrncntnnt|Iseron Continent]]
+: Southern neighbor, the frozen continent

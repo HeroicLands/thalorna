@@ -301,20 +301,29 @@ Troodons are much less dangerous when isolated from pack support or in well-lit 
 
 ## Attributes
 
-- **Strength:** 8-13 (1d6+7)
+Strength
+: 8-13 (1d6+7)
 
-- **Endurance:** 9-14 (1d6+8)
+Endurance
+: 9-14 (1d6+8)
 
-- **Dexterity:** 14-19 (1d6+13)
+Dexterity
+: 14-19 (1d6+13)
 
-- **Agility:** 13-18 (1d6+12)
+Agility
+: 13-18 (1d6+12)
 
-- **Perception:** 12-17 (1d6+11)
+Perception
+: 12-17 (1d6+11)
 
-- **Aura:** 8-11 (1d4+7)
+Aura
+: 8-11 (1d4+7)
 
-- **Will:** 10-15 (1d6+9)
+Will
+: 10-15 (1d6+9)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

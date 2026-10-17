@@ -118,11 +118,20 @@ data:
 sohl: {system: {commonSkills: [tarvenlng]}}
 ---
 
-- **Overlord:** [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (nominal)
-- **Language:** Tarveni
-- **Naming Convention:** [[skill-tarvenlng|Tarveni]]
-- **Pantheon:** [[affiliation-arldnpnthn|Aureldian]] (with strong folk and sea traditions)
-- **Government:** Hereditary monarchy with council of coastal lords and shipmasters
+Overlord
+: [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (nominal)
+
+Language
+: Tarveni
+
+Naming Convention
+: [[skill-tarvenlng|Tarveni]]
+
+Pantheon
+: [[affiliation-arldnpnthn|Aureldian]] (with strong folk and sea traditions)
+
+Government
+: Hereditary monarchy with council of coastal lords and shipmasters
 
 ## Overview
 
@@ -142,8 +151,17 @@ The Kingdom of Galvaren uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden /
 
 ## See Also
 
-- [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]—The loose overlord
-- [[place-tarvenirgn|Tarvénia Region]]—Regional overview
-- [[place-galvaren|Galvaren]]—The land the kingdom holds
-- [[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]—Sister kingdoms
-- [[affiliation-frctyvlthr|Free City of Valthari]], [[affiliation-frtrtryskrth|Free Territory of Eskarath]]—Fellow Tarvenan regions
+[[affiliation-kingdmtrvn|Kingdom of Tarvénia]]
+: The loose overlord
+
+[[place-tarvenirgn|Tarvénia Region]]
+: Regional overview
+
+[[place-galvaren|Galvaren]]
+: The land the kingdom holds
+
+[[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]
+: Sister kingdoms
+
+[[affiliation-frctyvlthr|Free City of Valthari]], [[affiliation-frtrtryskrth|Free Territory of Eskarath]]
+: Fellow Tarvenan regions

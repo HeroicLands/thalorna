@@ -80,9 +80,20 @@ Gar-Anlaghet uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], but its harbor
 
 ## See Also
 
-- [[affiliation-deltaselatu|The Delta Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-garanlaghet|Gar-Anlaghet]]—Selat capital
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—Chief trading partner
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-garanlghtslt|Gar-Anlaghet Selat]]—The land the selat holds
+[[affiliation-deltaselatu|The Delta Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-garanlaghet|Gar-Anlaghet]]
+: Selat capital
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: Chief trading partner
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-garanlghtslt|Gar-Anlaghet Selat]]
+: The land the selat holds

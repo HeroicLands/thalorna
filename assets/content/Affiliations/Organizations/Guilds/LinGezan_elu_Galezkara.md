@@ -56,5 +56,8 @@ Say a landlord in the [[place-lutlemu|Lut-Lemu]] quarter is owed rent by a potte
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The city the guild serves
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-galezkara|Galezkara]]
+: The city the guild serves
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

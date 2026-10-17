@@ -18,5 +18,8 @@ Kervan once asked Sevren for a dangerous elixir that heightens a fighter in comb
 
 ## See Also
 
-- [[being-sevnmyrkls|Sevren Mírkelis]]—the alchemist Kervan's men are watching
-- [[place-liranel|Liranel]]—the forest town nearby
+[[being-sevnmyrkls|Sevren Mírkelis]]
+: the alchemist Kervan's men are watching
+
+[[place-liranel|Liranel]]
+: the forest town nearby

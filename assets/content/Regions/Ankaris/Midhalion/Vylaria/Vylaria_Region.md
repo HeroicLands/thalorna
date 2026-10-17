@@ -55,16 +55,34 @@ The names differ with the speaker. The Áelendan name the range only in their ow
 
 ## Notable Features
 
-- **[Vylarian Steel]{.name data-type="miscgear"}:** the empire's most famous export, an alloy of unmatched quality whose forging is a closely guarded secret.
-- **The Vylarian Roads:** the engineering that once joined the empire's territories; many stand and remain the main overland trade routes.
-- **The [[place-vylarisrvr|River Vylaris]]:** the river the heartland is named for, running through Alessa and [[place-salkhalon|Salkalon]] to the sea.
+[Vylarian Steel]{.name data-type="miscgear"}
+: the empire's most famous export, an alloy of unmatched quality whose forging is a closely guarded secret.
+
+The Vylarian Roads
+: the engineering that once joined the empire's territories; many stand and remain the main overland trade routes.
+
+The [[place-vylarisrvr|River Vylaris]]
+: the river the heartland is named for, running through Alessa and [[place-salkhalon|Salkalon]] to the sea.
 
 ## See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the empire that holds this land
-- [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]—the independent Vylari-speaking kingdom
-- [[place-midhalnrgn|Mídhalión Region]]—the enclosing region
-- [[place-alyssa|Alessa]], [[place-hylen|Hilen]], [[place-moktur|Moktur]], [[place-salkhalon|Salkalon]]—the four provinces' lands
-- [[place-nartumkngdm|Nartun Kingdom]]—the Holy Kingdom's land
-- [[place-orzara|Orzara City]]—the imperial capital
-- [[lore-vylarianclt|Vylarian]]—the people and their manners
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the empire that holds this land
+
+[[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]
+: the independent Vylari-speaking kingdom
+
+[[place-midhalnrgn|Mídhalión Region]]
+: the enclosing region
+
+[[place-alyssa|Alessa]], [[place-hylen|Hilen]], [[place-moktur|Moktur]], [[place-salkhalon|Salkalon]]
+: the four provinces' lands
+
+[[place-nartumkngdm|Nartun Kingdom]]
+: the Holy Kingdom's land
+
+[[place-orzara|Orzara City]]
+: the imperial capital
+
+[[lore-vylarianclt|Vylarian]]
+: the people and their manners

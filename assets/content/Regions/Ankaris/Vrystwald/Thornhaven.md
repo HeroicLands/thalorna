@@ -28,5 +28,8 @@ Thornhaven's tension runs along the same frontier that built it: a village this 
 
 ## See Also
 
-- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—The independent villages this frontier village insists it belongs among
-- [[place-thornwald|Thornwald]]—The Velanthian reach it stands in
+[[affiliation-vrystwldtrbs|Vristwald Tribes]]
+: The independent villages this frontier village insists it belongs among
+
+[[place-thornwald|Thornwald]]
+: The Velanthian reach it stands in

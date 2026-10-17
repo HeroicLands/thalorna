@@ -22,6 +22,11 @@ When the [Stormhand Brotherhood]{.name data-type="affiliation/venture"} marched 
 
 ## See Also
 
-- [[place-falkhaven|Falkhaven]]—the reach around the village
-- [[place-falkensten|Falkenstein]]—the hill fort the muster defended
-- [[lore-stormhandfld|The Stormhand's Field]]—the battle fought from the pines
+[[place-falkhaven|Falkhaven]]
+: the reach around the village
+
+[[place-falkensten|Falkenstein]]
+: the hill fort the muster defended
+
+[[lore-stormhandfld|The Stormhand's Field]]
+: the battle fought from the pines

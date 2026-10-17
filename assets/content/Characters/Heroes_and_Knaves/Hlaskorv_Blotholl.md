@@ -453,17 +453,31 @@ Hlaskorv is driven by two interrelated motivations: a determination to practice 
 
 ### Strengths
 
-- **Incomparable Expertise**: Hlaskorv's knowledge of trees, wood quality, sustainable harvesting, and timber preparation has no equal in the region. No other living woodcutter can match his ability to assess a tree's readiness for harvest or identify the best use for any given piece of timber.
-- **Physical Endurance**: Despite his age, Hlaskorv possesses great strength and stamina, capable of work that would exhaust younger men. His body is a tool perfectly calibrated through decades of use.
-- **Unquestionable Integrity**: His reputation for conducting his business with complete honesty and commitment to stated principles is absolute. Carpenters, nobles, and ordinary people alike know that Hlaskorv's word is reliable and his judgment incorruptible.
-- **Deep Forest Knowledge**: Beyond woodcutting, Hlaskorv possesses extensive practical knowledge of the life of the forest, medicinal plants, animal behavior, and wilderness survival—years of careful observation accumulated through constant presence in wild spaces.
+Incomparable Expertise
+: Hlaskorv's knowledge of trees, wood quality, sustainable harvesting, and timber preparation has no equal in the region. No other living woodcutter can match his ability to assess a tree's readiness for harvest or identify the best use for any given piece of timber.
+
+Physical Endurance
+: Despite his age, Hlaskorv possesses great strength and stamina, capable of work that would exhaust younger men. His body is a tool perfectly calibrated through decades of use.
+
+Unquestionable Integrity
+: His reputation for conducting his business with complete honesty and commitment to stated principles is absolute. Carpenters, nobles, and ordinary people alike know that Hlaskorv's word is reliable and his judgment incorruptible.
+
+Deep Forest Knowledge
+: Beyond woodcutting, Hlaskorv possesses extensive practical knowledge of the life of the forest, medicinal plants, animal behavior, and wilderness survival—years of careful observation accumulated through constant presence in wild spaces.
 
 ### Weaknesses
 
-- **Stubborn Inflexibility**: Hlaskorv's commitment to traditional methods blinds him to potential applications of newer techniques, even when such techniques might achieve sustainability through different means.
-- **Difficulty Adapting to Markets**: He struggles to understand and accept that commercial realities may require compromise. His refusal to cut corners sometimes makes him uncompetitive in a market that increasingly values speed over quality.
-- **Cautionary Pessimism**: His awareness of cultural decline and generational change sometimes manifests as fatalism—a belief that resistance is ultimately futile and that the best he can do is maintain his own standards while the world changes around him.
-- **Limited Capacity for Trust**: Hlaskorv's experiences with those who ignore his warnings and proceed with foolish practices have left him deeply skeptical of others' commitment to careful work, making collaboration difficult.
+Stubborn Inflexibility
+: Hlaskorv's commitment to traditional methods blinds him to potential applications of newer techniques, even when such techniques might achieve sustainability through different means.
+
+Difficulty Adapting to Markets
+: He struggles to understand and accept that commercial realities may require compromise. His refusal to cut corners sometimes makes him uncompetitive in a market that increasingly values speed over quality.
+
+Cautionary Pessimism
+: His awareness of cultural decline and generational change sometimes manifests as fatalism—a belief that resistance is ultimately futile and that the best he can do is maintain his own standards while the world changes around him.
+
+Limited Capacity for Trust
+: Hlaskorv's experiences with those who ignore his warnings and proceed with foolish practices have left him deeply skeptical of others' commitment to careful work, making collaboration difficult.
 
 ## Social
 
@@ -496,12 +510,17 @@ The Woodcutters' Guild of Nordheim
 
 ## Plot Hooks
 
-1. **The Forest's Dying Plea**: A forester friend of Hlaskorv's discovers that an entire region of the forest is being systematically poisoned by something—whether deliberate contamination or waste from a distant settlement, it is killing the trees slowly and methodically. Hlaskorv is devastated but uncertain how to respond, as the poisoning is subtle enough that conventional harvesting practices won't resolve it. The party must help him investigate the source while also deciding whether the response requires violence, negotiation, or something more complex.
+The Forest's Dying Plea
+: A forester friend of Hlaskorv's discovers that an entire region of the forest is being systematically poisoned by something—whether deliberate contamination or waste from a distant settlement, it is killing the trees slowly and methodically. Hlaskorv is devastated but uncertain how to respond, as the poisoning is subtle enough that conventional harvesting practices won't resolve it. The party must help him investigate the source while also deciding whether the response requires violence, negotiation, or something more complex.
 
-2. **The Apprentice's Betrayal**: A young woodcutter trained by Hlaskorv under the promise of learning sustainable methods accepts a lucrative commission from the Rapid Timber Consortium to harvest an ancient grove in a way that violates all principles of stewardship. Hlaskorv feels personally betrayed and struggles with the realization that his teachings have failed to instill true understanding in the younger generation. The party must assist in a desperate effort to prevent the destruction, potentially through sabotage or negotiation.
+The Apprentice's Betrayal
+: A young woodcutter trained by Hlaskorv under the promise of learning sustainable methods accepts a lucrative commission from the Rapid Timber Consortium to harvest an ancient grove in a way that violates all principles of stewardship. Hlaskorv feels personally betrayed and struggles with the realization that his teachings have failed to instill true understanding in the younger generation. The party must assist in a desperate effort to prevent the destruction, potentially through sabotage or negotiation.
 
-3. **The Timber Monopoly**: A wealthy merchant organization begins buying up all major timber-harvesting contracts in the region, deliberately excluding Hlaskorv and others who insist on sustainable practices. Their goal is clear: eliminate the competition and establish a monopoly on timber supply that allows them to dictate methods and pricing. As Hlaskorv's income dwindles, he becomes desperate and vulnerable to temptation. The party becomes involved in a conflict that could either break the merchant monopoly or represent Hlaskorv's final defeat.
+The Timber Monopoly
+: A wealthy merchant organization begins buying up all major timber-harvesting contracts in the region, deliberately excluding Hlaskorv and others who insist on sustainable practices. Their goal is clear: eliminate the competition and establish a monopoly on timber supply that allows them to dictate methods and pricing. As Hlaskorv's income dwindles, he becomes desperate and vulnerable to temptation. The party becomes involved in a conflict that could either break the merchant monopoly or represent Hlaskorv's final defeat.
 
-4. **The Secret Sacred Grove**: An ancient grove of trees, sacred to the old faith of Nordheim and protected by obscure laws, is scheduled for harvest under a loophole that merchants have discovered. Hlaskorv becomes aware of the plan and determines to prevent it, even if it means breaking laws he has always respected. The party can support him in increasingly desperate measures or attempt to find legitimate means to prevent the harvest.
+The Secret Sacred Grove
+: An ancient grove of trees, sacred to the old faith of Nordheim and protected by obscure laws, is scheduled for harvest under a loophole that merchants have discovered. Hlaskorv becomes aware of the plan and determines to prevent it, even if it means breaking laws he has always respected. The party can support him in increasingly desperate measures or attempt to find legitimate means to prevent the harvest.
 
-5. **The Master's Final Commission**: Hlaskorv receives an offer that is extraordinary: a wealthy noble from a distant realm offers enough coin to secure his retirement, requesting that he personally oversee a single, enormous commission—felling a famed ancient tree that is said to be older than recorded history. The tree is perfect in every way for the work requested, but Hlaskorv realizes it is irreplaceable and that taking this one commission would violate every principle he has lived by. Yet the money offered would allow him to train a new generation of apprentices and establish a school dedicated to sustainable practices. The party must help him with the impossible choice between personal compromise and potential legacy.
+The Master's Final Commission
+: Hlaskorv receives an offer that is extraordinary: a wealthy noble from a distant realm offers enough coin to secure his retirement, requesting that he personally oversee a single, enormous commission—felling a famed ancient tree that is said to be older than recorded history. The tree is perfect in every way for the work requested, but Hlaskorv realizes it is irreplaceable and that taking this one commission would violate every principle he has lived by. Yet the money offered would allow him to train a new generation of apprentices and establish a school dedicated to sustainable practices. The party must help him with the impossible choice between personal compromise and potential legacy.

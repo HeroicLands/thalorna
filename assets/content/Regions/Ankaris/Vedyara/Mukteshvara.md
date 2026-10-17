@@ -22,5 +22,8 @@ The village farms as well, and farms badly, because the best of its ground is wh
 
 ## See Also
 
-- [[place-rajapurjnpd|Rajepur Janapoda]]—the land
-- [[affiliation-rajaprjnpd|Rajepur Janapoda]]—the temple-republic that holds it
+[[place-rajapurjnpd|Rajepur Janapoda]]
+: the land
+
+[[affiliation-rajaprjnpd|Rajepur Janapoda]]
+: the temple-republic that holds it

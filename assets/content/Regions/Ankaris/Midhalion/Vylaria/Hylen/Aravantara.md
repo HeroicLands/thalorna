@@ -22,6 +22,11 @@ The forums hold fewer _kurthoi_ (senators) than a province so full of senatorial
 
 ## See Also
 
-- [[affiliation-provnchyln|Province of Hilen]]—parent province
-- [[place-hylen|Hilen]]—the land around the city
-- [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview
+[[affiliation-provnchyln|Province of Hilen]]
+: parent province
+
+[[place-hylen|Hilen]]
+: the land around the city
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: imperial overview

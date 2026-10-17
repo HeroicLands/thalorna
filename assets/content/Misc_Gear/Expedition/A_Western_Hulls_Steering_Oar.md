@@ -18,5 +18,8 @@ The oar steers the hull, and the mark in the loom names her builders. A harbor-m
 
 ## See Also
 
-- [[place-nalurithan|Nalurithan]]—the port whose shipwrights cut the oars
-- [[place-klhrcntnnt|Kalihara]]—the island the hulls sail from
+[[place-nalurithan|Nalurithan]]
+: the port whose shipwrights cut the oars
+
+[[place-klhrcntnnt|Kalihara]]
+: the island the hulls sail from

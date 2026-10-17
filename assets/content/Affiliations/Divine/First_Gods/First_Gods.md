@@ -79,8 +79,11 @@ In Áelendan theology, the two Powers are locked in an eternal struggle that the
 
 ### The Bright {#the-bright}
 
-- **Epithet:** The Ever-Bright
-- **Aspect:** Light, life, growth, flame, dawn
+Epithet
+: The Ever-Bright
+
+Aspect
+: Light, life, growth, flame, dawn
 
 The **Bright** is the power of light, life, growth, and the flame that keeps back the cold. In Áelendan teaching, the rising sun, the springing shoot, the hearth-fire that turns a mountain shelter into a human dwelling—all of these are the Bright's work. The Bright is not a person in the sense that the Aureldian gods are persons; the Áelendan do not speak of the Bright's will, or the Bright's history, or the Bright's family. The Bright is an aspect of the way the world is, and it is spoken of as one speaks of the sun or the weather: as a great present reality that shapes one's life without being personally interested in it.
 
@@ -90,8 +93,11 @@ What the Bright favors can be inferred from what the Bright is. Warmth, generati
 
 ### The Dark {#the-dark}
 
-- **Epithet:** The Unending Shadow
-- **Aspect:** Darkness, death, stillness, cold, the grave, the deep places
+Epithet
+: The Unending Shadow
+
+Aspect
+: Darkness, death, stillness, cold, the grave, the deep places
 
 The **Dark** is the power of darkness, death, stillness, and the deep places of the earth. In Áelendan teaching, the setting of the sun, the fallen leaf returning to the soil, the stone beneath the soil that holds everything the world has ever been—all of these are the Dark's work. Like the Bright, the Dark is not a person, and the Áelendan speak of it in the same impersonal idiom: not the Dark's will but the Dark's character; not the Dark's history but the Dark's presence.
 
@@ -125,9 +131,20 @@ Whether the Old Way predates every other faith on Ankaris is a question that out
 
 ## See Also
 
-- [[affiliation-theoldway|The Old Way]]—The religion that venerates the First Gods
-- [[lore-thekindred|The Kindred]]—The servant spirits who are venerated, appeased, and warded against in daily practice
-- [[lore-aelendnppl|Áelendan]]—The people whose pantheon this is
-- [[lore-pelwarpepl|Pelwar People]]—The ancestral people who carried the First Gods out of the east
-- [[affiliation-alndnwrdns|Áelendan Wardens]]—The order that protects the sacred sites
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—The organized pantheon the Áelendan regard as descended from the First
+[[affiliation-theoldway|The Old Way]]
+: The religion that venerates the First Gods
+
+[[lore-thekindred|The Kindred]]
+: The servant spirits who are venerated, appeased, and warded against in daily practice
+
+[[lore-aelendnppl|Áelendan]]
+: The people whose pantheon this is
+
+[[lore-pelwarpepl|Pelwar People]]
+: The ancestral people who carried the First Gods out of the east
+
+[[affiliation-alndnwrdns|Áelendan Wardens]]
+: The order that protects the sacred sites
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: The organized pantheon the Áelendan regard as descended from the First

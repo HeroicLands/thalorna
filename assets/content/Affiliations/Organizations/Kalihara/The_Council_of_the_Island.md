@@ -77,7 +77,14 @@ The Ithakan sit in the Council and keep its works; [[affiliation-wardensapproach
 
 ## See Also
 
-- [[affiliation-kalihara|Kalihara]]—the polity, its standings and its offices
-- [[place-ilovanu|Ilovanu]]—the port where the Council sits
-- [[place-ithorianu|Ithorianu]]—the town that keeps the record of its decisions
-- [[affiliation-tharivaan|Thári'vaan]]—the custodians who sit for the works
+[[affiliation-kalihara|Kalihara]]
+: the polity, its standings and its offices
+
+[[place-ilovanu|Ilovanu]]
+: the port where the Council sits
+
+[[place-ithorianu|Ithorianu]]
+: the town that keeps the record of its decisions
+
+[[affiliation-tharivaan|Thári'vaan]]
+: the custodians who sit for the works

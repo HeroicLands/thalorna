@@ -120,8 +120,17 @@ The adventure runs over a day and a night. The party reaches the wash in the aft
 
 ## See Also
 
-- [[place-relvanvesul|Relvanvesut]]—the grave and its gold
-- [[place-zargandur|Zargandur]]—the city whose household lies in it
-- [[place-henhulpedin|Henhutpedin]]—the field of the riders
-- [[being-nushirnrsf|Nushir Narsafi]]—the chandler of the quarter
-- [[lore-theshadow|The Shadow]]—what wears the dead
+[[place-relvanvesul|Relvanvesut]]
+: the grave and its gold
+
+[[place-zargandur|Zargandur]]
+: the city whose household lies in it
+
+[[place-henhulpedin|Henhutpedin]]
+: the field of the riders
+
+[[being-nushirnrsf|Nushir Narsafi]]
+: the chandler of the quarter
+
+[[lore-theshadow|The Shadow]]
+: what wears the dead

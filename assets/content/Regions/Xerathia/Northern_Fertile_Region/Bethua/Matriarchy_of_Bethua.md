@@ -252,16 +252,41 @@ The genius and the fragility of the Bethuan constitution is that **neither pilla
 
 ## See Also
 
-- [[affiliation-mtrrchybth|Bethuan Matriarchy]]—The Two Pillars: full government structure, titles, and succession
-- [[affiliation-bethuanflt|The Bethuan Fleet]]—The navy and the privateer war on Vylarian shipping
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Eastern neighbor and patron
-- [[place-helionis|Helionis]]—Distant cultural cousin (shared Helonic linguistic roots)
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—Pantheon (matriarchal emphasis)
-- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—the realm
-- [[affiliation-bethuanflt|The Bethuan Fleet]]—the navy, the Naukrátissa's command, and the privateer war
-- [[affiliation-bthntrdhss|The Bethuan Trade-Houses]]—the commercial federation and the third power
-- [[skill-bethunlng|Bethuan Language]]—the feminine-register grammar from which the titles derive
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the faith of the sacred pillar
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the patron-neighbor whose institutions shaped the liberation-era state
-- [[affiliation-garhalzi|Gar-Hálzi]]—the Khelathi temple-treasury on which Bethua's fisc is modeled
-- [[place-bethura|Bethura]]—the capital, a harbor city on a bay of the Vylarian Sea and seat of both councils
+[[affiliation-mtrrchybth|Bethuan Matriarchy]]
+: The Two Pillars: full government structure, titles, and succession
+
+[[affiliation-bethuanflt|The Bethuan Fleet]]
+: The navy and the privateer war on Vylarian shipping
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Eastern neighbor and patron
+
+[[place-helionis|Helionis]]
+: Distant cultural cousin (shared Helonic linguistic roots)
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: Pantheon (matriarchal emphasis)
+
+[[affiliation-mtrrchybth|Matriarchy of Bethua]]
+: the realm
+
+[[affiliation-bethuanflt|The Bethuan Fleet]]
+: the navy, the Naukrátissa's command, and the privateer war
+
+[[affiliation-bthntrdhss|The Bethuan Trade-Houses]]
+: the commercial federation and the third power
+
+[[skill-bethunlng|Bethuan Language]]
+: the feminine-register grammar from which the titles derive
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the faith of the sacred pillar
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: the patron-neighbor whose institutions shaped the liberation-era state
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: the Khelathi temple-treasury on which Bethua's fisc is modeled
+
+[[place-bethura|Bethura]]
+: the capital, a harbor city on a bay of the Vylarian Sea and seat of both councils

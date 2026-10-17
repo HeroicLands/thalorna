@@ -18,11 +18,19 @@ The garrison's Master-at-Arms is [[being-gnldrthnslvrgr|Gnaldrthann Solvargr]] o
 
 ## At a Glance
 
-- Kind: a garrisoned stronghold on a height.
-- Land: [[place-malagna|Malagna]], under the crown at [[place-gnarthborg|Gnarthborg]].
-- Master-at-Arms: Gnaldrthann Solvargr, who answers for drill, kit and the watch.
+Kind
+: a garrisoned stronghold on a height.
+
+Land
+: [[place-malagna|Malagna]], under the crown at [[place-gnarthborg|Gnarthborg]].
+
+Master-at-Arms
+: Gnaldrthann Solvargr, who answers for drill, kit and the watch.
 
 ## See Also
 
-- [[being-gnldrthnslvrgr|Gnaldrthann Solvargr]]—the garrison's Master-at-Arms
-- [[place-malagna|Malagna]]—the kingdom's land
+[[being-gnldrthnslvrgr|Gnaldrthann Solvargr]]
+: the garrison's Master-at-Arms
+
+[[place-malagna|Malagna]]
+: the kingdom's land

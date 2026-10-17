@@ -28,7 +28,14 @@ Ish'ilankul is the premier trading hub of the heartland. Obsidian from the volca
 
 ## See Also
 
-- [[affiliation-ixilankul|Ish'ilankul]]—the realm and its two authorities
-- [[place-ixilankulrgn|Ish'ilankul Region]]—the plateau
-- [[affiliation-itzanpnthn|Itsani Pantheon]]—the faith centered here
-- [[place-cntrlkchchk|Central K'ich'chik]]—the four realms of the heartland
+[[affiliation-ixilankul|Ish'ilankul]]
+: the realm and its two authorities
+
+[[place-ixilankulrgn|Ish'ilankul Region]]
+: the plateau
+
+[[affiliation-itzanpnthn|Itsani Pantheon]]
+: the faith centered here
+
+[[place-cntrlkchchk|Central K'ich'chik]]
+: the four realms of the heartland

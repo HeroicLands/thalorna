@@ -445,19 +445,37 @@ Ralthira seeks not fortune nor fame, but redemption—both her own and that of o
 
 ### Strengths
 
-- **Voice**: Her singing is notable, capable of moving even cynical hearts. It is both a tool for survival and a spiritual practice that connects her to something greater than herself.
-- **Emotional Intelligence**: Ralthira reads people with uncanny accuracy, perceiving the hidden wounds and hopes beneath surface presentations. This makes her a useful confidante.
-- **Charm and Presence**: She possesses a natural magnetism that draws others to her, despite her humble station. People instinctively trust her, though often to their mutual detriment.
-- **Physical Grace**: Years of movement through crowded markets and rooftops have made her graceful and agile; she climbs, dances, and dodges with an economy of motion that belies her slight frame.
-- **Resilience of Spirit**: Though her body knows hunger and cold, her spirit refuses to break. She maintains hope and kindness as fierce acts of defiance.
+Voice
+: Her singing is notable, capable of moving even cynical hearts. It is both a tool for survival and a spiritual practice that connects her to something greater than herself.
+
+Emotional Intelligence
+: Ralthira reads people with uncanny accuracy, perceiving the hidden wounds and hopes beneath surface presentations. This makes her a useful confidante.
+
+Charm and Presence
+: She possesses a natural magnetism that draws others to her, despite her humble station. People instinctively trust her, though often to their mutual detriment.
+
+Physical Grace
+: Years of movement through crowded markets and rooftops have made her graceful and agile; she climbs, dances, and dodges with an economy of motion that belies her slight frame.
+
+Resilience of Spirit
+: Though her body knows hunger and cold, her spirit refuses to break. She maintains hope and kindness as fierce acts of defiance.
 
 ### Weaknesses
 
-- **Reckless Trust**: Ralthira's inability to see malice makes her vulnerable to exploitation. Con artists and predators find her an easy mark, and she rarely learns from being deceived.
-- **Impractical Idealism**: Her insistence on living by spiritual rather than pragmatic principles often leaves her in precarious circumstances that could be avoided through shrewdness.
-- **Physical Frailty**: Her light frame and generally poor nutrition leave her vulnerable to illness and violence. In a direct fight, she would be outmatched.
-- **Attachment to Loss**: She carries her past—her parents' deaths, her expulsion from the monastery—as an unbridgeable chasm within her soul. This grief sometimes paralyzes her decision-making.
-- **Conflict Aversion**: Confrontation causes her distress, and she will often capitulate to avoid conflict, even when standing firm would serve her better.
+Reckless Trust
+: Ralthira's inability to see malice makes her vulnerable to exploitation. Con artists and predators find her an easy mark, and she rarely learns from being deceived.
+
+Impractical Idealism
+: Her insistence on living by spiritual rather than pragmatic principles often leaves her in precarious circumstances that could be avoided through shrewdness.
+
+Physical Frailty
+: Her light frame and generally poor nutrition leave her vulnerable to illness and violence. In a direct fight, she would be outmatched.
+
+Attachment to Loss
+: She carries her past—her parents' deaths, her expulsion from the monastery—as an unbridgeable chasm within her soul. This grief sometimes paralyzes her decision-making.
+
+Conflict Aversion
+: Confrontation causes her distress, and she will often capitulate to avoid conflict, even when standing firm would serve her better.
 
 ## Social
 
@@ -493,12 +511,17 @@ The Devotees of Thrunvald's Storm
 
 ## Plot Hooks
 
-1. **The Singing Stone**: A scholar seeking Ralthira claims that ancient texts describe an artifact—the Singing Stone of Asguard—whose power can only be awakened through a voice of perfect purity. He believes Ralthira is the key to recovering it from a temple buried beneath Nordheim's oldest districts. What he doesn't know is that darker forces have also caught wind of this rumor, and they would sacrifice far more than ancient stone to possess such power. Ralthira must navigate the intersection of faith, greed, and ancient magic.
+The Singing Stone
+: A scholar seeking Ralthira claims that ancient texts describe an artifact—the Singing Stone of Asguard—whose power can only be awakened through a voice of perfect purity. He believes Ralthira is the key to recovering it from a temple buried beneath Nordheim's oldest districts. What he doesn't know is that darker forces have also caught wind of this rumor, and they would sacrifice far more than ancient stone to possess such power. Ralthira must navigate the intersection of faith, greed, and ancient magic.
 
-2. **Memory in Melody**: A mysterious figure approaches Ralthira, offering substantial coin to help recover a stolen musical score said to contain encrypted messages crucial to a political uprising. The requester claims the oppressed people of a neighboring kingdom depend on her aid. Yet accepting this task would make Ralthira an unwitting pawn in a conflict between nobles, and the true contents of the score—and the true intended use of its decryption—remain obscure and potentially devastating.
+Memory in Melody
+: A mysterious figure approaches Ralthira, offering substantial coin to help recover a stolen musical score said to contain encrypted messages crucial to a political uprising. The requester claims the oppressed people of a neighboring kingdom depend on her aid. Yet accepting this task would make Ralthira an unwitting pawn in a conflict between nobles, and the true contents of the score—and the true intended use of its decryption—remain obscure and potentially devastating.
 
-3. **The Lost Monastery**: Word reaches Ralthira that survivors from her monastery have been discovered alive in the mountains after being presumed dead in a catastrophic fire. The monastery's new leadership denies their existence and refuses all inquiries. Ralthira is torn between the possibility of reunion with former brothers and the danger that investigating will draw unwanted attention from those who might benefit from keeping certain truths buried.
+The Lost Monastery
+: Word reaches Ralthira that survivors from her monastery have been discovered alive in the mountains after being presumed dead in a catastrophic fire. The monastery's new leadership denies their existence and refuses all inquiries. Ralthira is torn between the possibility of reunion with former brothers and the danger that investigating will draw unwanted attention from those who might benefit from keeping certain truths buried.
 
-4. **The Child of Storm**: A young orphan appears in the streets, displaying an uncanny ability to predict coming storms with disturbing accuracy. The child becomes attached to Ralthira, and soon it becomes apparent the monastery—and perhaps darker forces—are searching for the child with considerable urgency. Ralthira must decide whether protecting this mysterious youth is worth becoming a fugitive herself.
+The Child of Storm
+: A young orphan appears in the streets, displaying an uncanny ability to predict coming storms with disturbing accuracy. The child becomes attached to Ralthira, and soon it becomes apparent the monastery—and perhaps darker forces—are searching for the child with considerable urgency. Ralthira must decide whether protecting this mysterious youth is worth becoming a fugitive herself.
 
-5. **The Silent Singer's Last Song**: An elderly bard, one of Nordheim's few remaining living legends, seeks out Ralthira specifically, claiming he has trained his entire life to recognize a specific prophecy written in a long-lost saga. According to his interpretation, a singer marked with the crescent moon of Thrunvald will either be the salvation or the doom of Nordheim in the coming age of darkness. He asks for her help in deciphering which, and whether she has the courage to accept what the answer might demand of her.
+The Silent Singer's Last Song
+: An elderly bard, one of Nordheim's few remaining living legends, seeks out Ralthira specifically, claiming he has trained his entire life to recognize a specific prophecy written in a long-lost saga. According to his interpretation, a singer marked with the crescent moon of Thrunvald will either be the salvation or the doom of Nordheim in the coming age of darkness. He asks for her help in deciphering which, and whether she has the courage to accept what the answer might demand of her.

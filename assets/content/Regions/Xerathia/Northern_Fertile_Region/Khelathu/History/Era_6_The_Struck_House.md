@@ -32,7 +32,14 @@ What the age left on the ground is still there. The road to the False Uqa'a's to
 
 ## See Also
 
-- [[lore-akhcountmon|The Count of Months]] · [[lore-akhpriestthr|The Priests' Thrones]]—the ages on either side
-- [[lore-garauu|Gar-Auu]]—the king-list, with the struck house's years
-- [[affiliation-garzinelrelu|Gar-Zin'el'Relu]] · [[being-falseuqaa|The False Uqa'a]]—the house and its last Gar-Au
-- [[place-zugezer|Zu-Gezer]] · [[place-eleventhgran|The Eleventh Granary]]—what the age left on the ground
+[[lore-akhcountmon|The Count of Months]] · [[lore-akhpriestthr|The Priests' Thrones]]
+: the ages on either side
+
+[[lore-garauu|Gar-Auu]]
+: the king-list, with the struck house's years
+
+[[affiliation-garzinelrelu|Gar-Zin'el'Relu]] · [[being-falseuqaa|The False Uqa'a]]
+: the house and its last Gar-Au
+
+[[place-zugezer|Zu-Gezer]] · [[place-eleventhgran|The Eleventh Granary]]
+: what the age left on the ground

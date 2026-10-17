@@ -83,9 +83,14 @@ sohl: {system: {commonSkills: []}}
 
 ## Meiwo—The Minister of Dreams
 
-- **Bureau:** Mei Sei, The Bureau of Night Counsel
-- **Domain:** Dreams
-- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+Bureau
+: Mei Sei, The Bureau of Night Counsel
+
+Domain
+: Dreams
+
+Parent
+: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
 Meiwo teaches that Mei Sei processes dream-petitions, delivers omens, and files night-counsel reports. A Tantsou who
 wishes to be answered in sleep files for it, and a dream that arrives unbidden is understood to be
@@ -99,11 +104,19 @@ no procedure accounts for and which the Tanchéi find deeply troubling.
 
 ### Lesser Spirits
 
-- **Lengwo**—Clerks of Auspicious Dreams, who deliver favorable omens.
-- **Hayo**—Clerks of Warning Dreams, who deliver cautionary visions. Not malevolent—a nightmare is simply an urgent memo.
+Lengwo
+: Clerks of Auspicious Dreams, who deliver favorable omens.
+
+Hayo
+: Clerks of Warning Dreams, who deliver cautionary visions. Not malevolent—a nightmare is simply an urgent memo.
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the mortal realm it administers
-- [[skill-tengchouscript|Teng Chou Script]]—the writing every petition is made in
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: the Celestial Bureaucracy this bureau belongs to
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the mortal realm it administers
+
+[[skill-tengchouscript|Teng Chou Script]]
+: the writing every petition is made in

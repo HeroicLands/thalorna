@@ -208,20 +208,29 @@ Shoals gather over the shallowest reefs, so that a glow on a dark night shows wh
 
 ## Attributes
 
-- **Strength:** 2-5 (1d4+1)
+Strength
+: 2-5 (1d4+1)
 
-- **Endurance:** 4-7 (1d4+3)
+Endurance
+: 4-7 (1d4+3)
 
-- **Dexterity:** 6-9 (1d4+5)
+Dexterity
+: 6-9 (1d4+5)
 
-- **Agility:** 5-8 (1d4+4)
+Agility
+: 5-8 (1d4+4)
 
-- **Perception:** 7-10 (1d4+6)
+Perception
+: 7-10 (1d4+6)
 
-- **Aura:** 6-9 (1d4+5)
+Aura
+: 6-9 (1d4+5)
 
-- **Will:** 4-7 (1d4+3)
+Will
+: 4-7 (1d4+3)
 
-- **Reasoning:** 2-5 (1d4+1)
+Reasoning
+: 2-5 (1d4+1)
 
-- **Creativity:** 2-5 (1d4+1)
+Creativity
+: 2-5 (1d4+1)

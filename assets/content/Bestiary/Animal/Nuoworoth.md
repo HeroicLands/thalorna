@@ -305,12 +305,29 @@ It watches from cover before striking and chooses its moment, and it will follow
 
 ## Attributes
 
-- **Strength:** 16-21 (1d6+15)
-- **Endurance:** 14-19 (1d6+13)
-- **Dexterity:** 9-14 (1d6+8)
-- **Agility:** 10-15 (1d6+9)
-- **Perception:** 14-19 (1d6+13)
-- **Aura:** 10-15 (1d6+9)
-- **Will:** 14-19 (1d6+13)
-- **Reasoning:** 6-9 (1d4+5)
-- **Creativity:** 5-8 (1d4+4)
+Strength
+: 16-21 (1d6+15)
+
+Endurance
+: 14-19 (1d6+13)
+
+Dexterity
+: 9-14 (1d6+8)
+
+Agility
+: 10-15 (1d6+9)
+
+Perception
+: 14-19 (1d6+13)
+
+Aura
+: 10-15 (1d6+9)
+
+Will
+: 14-19 (1d6+13)
+
+Reasoning
+: 6-9 (1d4+5)
+
+Creativity
+: 5-8 (1d4+4)

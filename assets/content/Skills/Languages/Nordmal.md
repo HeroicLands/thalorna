@@ -1321,11 +1321,20 @@ The five Nordmen kingdoms maintained relative political independence, preventing
 
 ## Sample Phrases
 
-- **"Hersvald kallar tingit."**—"The host-wielder calls the assembly." (Plain statement, showing the enclitic article `-it` on a neuter noun.)
-- **"Ver gangum í fridi."**—"We come in peace." (Formal diplomatic formula; _fridi_ comes from _fridr_, the peace a hall owes a guest.)
-- **"Thrunvald vakir, ulfar thyrsta!"**—"The Thunder-Wielder wakes, the wolves thirst!" (Battle cry, bound by its alliteration on _th_ rather than by rhyme.)
-- **"Tvau skip, ein ferd."**—"Two ships, one voyage." (The word _tvau_ "two", said of two people who answer for one another.)
-- **"Stóraldit lifir í steini ok í minni."**—"The saga lives in stone and in memory." (Two parallel phrases; _minni_ is memory recited, not memory written.)
+"Hersvald kallar tingit."
+: "The host-wielder calls the assembly." (Plain statement, showing the enclitic article `-it` on a neuter noun.)
+
+"Ver gangum í fridi."
+: "We come in peace." (Formal diplomatic formula; _fridi_ comes from _fridr_, the peace a hall owes a guest.)
+
+"Thrunvald vakir, ulfar thyrsta!"
+: "The Thunder-Wielder wakes, the wolves thirst!" (Battle cry, bound by its alliteration on _th_ rather than by rhyme.)
+
+"Tvau skip, ein ferd."
+: "Two ships, one voyage." (The word _tvau_ "two", said of two people who answer for one another.)
+
+"Stóraldit lifir í steini ok í minni."
+: "The saga lives in stone and in memory." (Two parallel phrases; _minni_ is memory recited, not memory written.)
 
 ## Vocabulary
 

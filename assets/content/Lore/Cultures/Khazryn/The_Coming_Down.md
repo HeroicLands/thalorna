@@ -128,11 +128,26 @@ And the sound is there. Faint and regular, like water falling on a flat stone a 
 
 ## See Also
 
-- [[place-vurdil|Vurdish]]—the door, the passage, the signs on the lintels and what hunts the first mile
-- [[place-wstrndscnt|The Western Descent]]—the other road the houses say they came down
-- [[place-grazruins|Ruins and Labyrinths of the Grazian Mountains]]—the other cut passages under the ice, which no account claims
-- [[place-graznmntns|The Grazian Mountains]]—the range the peaks stand in
-- [[place-oasishirvn|Oasis of Shirvan]]—the first spring, under the pale cliff
-- [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the seven houses and the Council that keeps both accounts
-- [[affiliation-zurathra|Faith of Zúrathra]]—the shrine at the water where the telling is given
-- [[lore-khazrynclt|The Tellumi]]—the people who came down
+[[place-vurdil|Vurdish]]
+: the door, the passage, the signs on the lintels and what hunts the first mile
+
+[[place-wstrndscnt|The Western Descent]]
+: the other road the houses say they came down
+
+[[place-grazruins|Ruins and Labyrinths of the Grazian Mountains]]
+: the other cut passages under the ice, which no account claims
+
+[[place-graznmntns|The Grazian Mountains]]
+: the range the peaks stand in
+
+[[place-oasishirvn|Oasis of Shirvan]]
+: the first spring, under the pale cliff
+
+[[affiliation-khzrncnfdrtn|Tellumi Confederation]]
+: the seven houses and the Council that keeps both accounts
+
+[[affiliation-zurathra|Faith of Zúrathra]]
+: the shrine at the water where the telling is given
+
+[[lore-khazrynclt|The Tellumi]]
+: the people who came down

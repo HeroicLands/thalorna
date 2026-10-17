@@ -302,20 +302,29 @@ Unlike most wild cats, caracals can be trained as hunting companions when captur
 
 ## Attributes
 
-- **Strength:** 7-10 (1d4+6)
+Strength
+: 7-10 (1d4+6)
 
-- **Endurance:** 8-11 (1d4+7)
+Endurance
+: 8-11 (1d4+7)
 
-- **Dexterity:** 14-19 (1d6+13)
+Dexterity
+: 14-19 (1d6+13)
 
-- **Agility:** 15-20 (1d6+14)
+Agility
+: 15-20 (1d6+14)
 
-- **Perception:** 13-18 (1d6+12)
+Perception
+: 13-18 (1d6+12)
 
-- **Aura:** 7-10 (1d4+6)
+Aura
+: 7-10 (1d4+6)
 
-- **Will:** 9-12 (1d4+8)
+Will
+: 9-12 (1d4+8)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 5-8 (1d4+4)
+Creativity
+: 5-8 (1d4+4)

@@ -302,12 +302,29 @@ The jaguar's rosette pattern provides extraordinary camouflage in the dappled li
 
 ## Attributes
 
-- **Strength:** 15-20 (1d6+14) — Pound-for-pound the strongest cat; jaw force exceeds all others relative to size
-- **Endurance:** 12-17 (1d6+11) — Solid but not outstanding; ambush predator, not a pursuit hunter
-- **Dexterity:** 12-17 (1d6+11) — Precise and controlled; excellent climber and swimmer
-- **Agility:** 13-18 (1d6+12) — Quick and fluid, though stockier than the leopard
-- **Perception:** 13-18 (1d6+12) — Excellent senses; hunts in jungle twilight and murky water
-- **Aura:** 11-16 (1d6+10) — The sacred animal of the jungle civilizations; warrior-god avatar; underworld guardian
-- **Will:** 12-17 (1d6+11) — Fearless and patient; does not abandon a committed hunt
-- **Reasoning:** 7-10 (1d4+6) — Intelligent predator; learns individual prey behavior
-- **Creativity:** 6-9 (1d4+5) — Adaptable; adjusts hunting strategy to environment
+Strength
+: 15-20 (1d6+14) — Pound-for-pound the strongest cat; jaw force exceeds all others relative to size
+
+Endurance
+: 12-17 (1d6+11) — Solid but not outstanding; ambush predator, not a pursuit hunter
+
+Dexterity
+: 12-17 (1d6+11) — Precise and controlled; excellent climber and swimmer
+
+Agility
+: 13-18 (1d6+12) — Quick and fluid, though stockier than the leopard
+
+Perception
+: 13-18 (1d6+12) — Excellent senses; hunts in jungle twilight and murky water
+
+Aura
+: 11-16 (1d6+10) — The sacred animal of the jungle civilizations; warrior-god avatar; underworld guardian
+
+Will
+: 12-17 (1d6+11) — Fearless and patient; does not abandon a committed hunt
+
+Reasoning
+: 7-10 (1d4+6) — Intelligent predator; learns individual prey behavior
+
+Creativity
+: 6-9 (1d4+5) — Adaptable; adjusts hunting strategy to environment

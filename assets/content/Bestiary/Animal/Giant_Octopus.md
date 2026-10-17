@@ -247,20 +247,29 @@ It learns a boat, a line and a trap, remembers a place and a face, opens what is
 
 ## Attributes
 
-- **Strength:** 16-21 (1d6+15)
+Strength
+: 16-21 (1d6+15)
 
-- **Endurance:** 12-17 (1d6+11)
+Endurance
+: 12-17 (1d6+11)
 
-- **Dexterity:** 10-15 (1d6+9)
+Dexterity
+: 10-15 (1d6+9)
 
-- **Agility:** 11-16 (1d6+10)
+Agility
+: 11-16 (1d6+10)
 
-- **Perception:** 12-17 (1d6+11)
+Perception
+: 12-17 (1d6+11)
 
-- **Aura:** 8-11 (1d4+7)
+Aura
+: 8-11 (1d4+7)
 
-- **Will:** 10-15 (1d6+9)
+Will
+: 10-15 (1d6+9)
 
-- **Reasoning:** 11-16 (1d6+10)
+Reasoning
+: 11-16 (1d6+10)
 
-- **Creativity:** 10-15 (1d6+9)
+Creativity
+: 10-15 (1d6+9)

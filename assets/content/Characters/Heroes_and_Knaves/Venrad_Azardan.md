@@ -454,19 +454,37 @@ Venrad is driven by a need to prove that the combination of instinct, skill, and
 
 ### Strengths
 
-- **Piloting Skill**: Venrad's intuitive understanding of wind, water, and weather is beyond that of any rival; he can navigate circumstances that would prove fatal to ordinary pilots.
-- **Extraordinary Physical Reflexes**: His dexterity and agility are among his most notable attributes; he can move with precision and speed that borders on the supernatural.
-- **Resourcefulness Under Pressure**: When circumstances deteriorate and conventional solutions fail, Venrad's mind remains clear; he improvises brilliant solutions to seemingly impossible problems.
-- **Melee Combat**: Though no trained warrior, his speed and reflexes make him a dangerous fighter in close combat, particularly aboard vessels where space is limited.
-- **Climbing and Acrobatic Mastery**: His work aboard vessels has made him extraordinarily skilled at rapid movement through complex three-dimensional spaces, climbing rigging, and maintaining balance in difficult circumstances.
+Piloting Skill
+: Venrad's intuitive understanding of wind, water, and weather is beyond that of any rival; he can navigate circumstances that would prove fatal to ordinary pilots.
+
+Extraordinary Physical Reflexes
+: His dexterity and agility are among his most notable attributes; he can move with precision and speed that borders on the supernatural.
+
+Resourcefulness Under Pressure
+: When circumstances deteriorate and conventional solutions fail, Venrad's mind remains clear; he improvises brilliant solutions to seemingly impossible problems.
+
+Melee Combat
+: Though no trained warrior, his speed and reflexes make him a dangerous fighter in close combat, particularly aboard vessels where space is limited.
+
+Climbing and Acrobatic Mastery
+: His work aboard vessels has made him extraordinarily skilled at rapid movement through complex three-dimensional spaces, climbing rigging, and maintaining balance in difficult circumstances.
 
 ### Weaknesses
 
-- **Recklessness Bordering on Self-Destruction**: Venrad consistently underestimates danger and overestimates his ability to overcome circumstances through pure skill and audacity.
-- **Difficulty with Authority**: He struggles with accepting direction from others, particularly in situations where he believes his judgment superior to that of whoever nominally commands.
-- **Emotional Unavailability**: His intense focus on accomplishment and danger-seeking has left him emotionally isolated; he struggles to maintain meaningful relationships or trust others with emotional vulnerability.
-- **Limited Combat Training**: While his physical reflexes make him dangerous in close quarters, he has received no formal martial training and can be overwhelmed by a truly skilled fighter.
-- **Inability to Surrender**: Venrad cannot accept defeat or failure gracefully; a single reversed decision or unsuccessful venture can push him into reckless overcompensation.
+Recklessness Bordering on Self-Destruction
+: Venrad consistently underestimates danger and overestimates his ability to overcome circumstances through pure skill and audacity.
+
+Difficulty with Authority
+: He struggles with accepting direction from others, particularly in situations where he believes his judgment superior to that of whoever nominally commands.
+
+Emotional Unavailability
+: His intense focus on accomplishment and danger-seeking has left him emotionally isolated; he struggles to maintain meaningful relationships or trust others with emotional vulnerability.
+
+Limited Combat Training
+: While his physical reflexes make him dangerous in close quarters, he has received no formal martial training and can be overwhelmed by a truly skilled fighter.
+
+Inability to Surrender
+: Venrad cannot accept defeat or failure gracefully; a single reversed decision or unsuccessful venture can push him into reckless overcompensation.
 
 ## Social
 
@@ -499,12 +517,17 @@ The Adventurers' Collective
 
 ## Plot Hooks
 
-1. **The Cursed Passage**: A wealthy merchant consortium approaches Venrad with an extraordinary contract: navigate a vessel through a narrow passage of ocean that charts suggest should be impossible, where at least a dozen vessels have been lost in the past five years. The pay is extraordinary, but so is the danger. As Venrad prepares the vessel and gathers crew, the party discovers through investigation that something actively malevolent inhabits the waters—not difficult conditions but something that hunts vessels. The journey becomes a race against an unknown supernatural force, with Venrad's instinct for water and weather tested against something beyond natural law.
+The Cursed Passage
+: A wealthy merchant consortium approaches Venrad with an extraordinary contract: navigate a vessel through a narrow passage of ocean that charts suggest should be impossible, where at least a dozen vessels have been lost in the past five years. The pay is extraordinary, but so is the danger. As Venrad prepares the vessel and gathers crew, the party discovers through investigation that something actively malevolent inhabits the waters—not difficult conditions but something that hunts vessels. The journey becomes a race against an unknown supernatural force, with Venrad's instinct for water and weather tested against something beyond natural law.
 
-2. **The Lost Pilot's Map**: Venrad discovers a weathered navigation map in the possession of an elderly sailor, supposedly drawn by a famous pilot from a century past. The map indicates a passage to a realm across the waters that no known navigator has reached—a place of legend and possibly impossible. The map's authenticity cannot be verified, but it offers exactly the sort of impossible challenge that Venrad cannot resist. The party becomes his crew as he assembles a vessel to make the attempt. Along the way, they discover that the map's origin and purpose may be darker than a navigation challenge.
+The Lost Pilot's Map
+: Venrad discovers a weathered navigation map in the possession of an elderly sailor, supposedly drawn by a famous pilot from a century past. The map indicates a passage to a realm across the waters that no known navigator has reached—a place of legend and possibly impossible. The map's authenticity cannot be verified, but it offers exactly the sort of impossible challenge that Venrad cannot resist. The party becomes his crew as he assembles a vessel to make the attempt. Along the way, they discover that the map's origin and purpose may be darker than a navigation challenge.
 
-3. **The Pirate's Reckoning**: Bezdun Vahdrak finally makes his move against Venrad, publicly challenging him to a competitive navigation trial where the loser agrees to retire from piloting permanently. The competition draws massive gambling interest and intense attention from the maritime community. As the competition unfolds, the party discovers that Bezdun has sabotaged the course itself, creating real danger beyond the competition. The trial becomes a test of whether skill and courage can overcome deliberate treachery.
+The Pirate's Reckoning
+: Bezdun Vahdrak finally makes his move against Venrad, publicly challenging him to a competitive navigation trial where the loser agrees to retire from piloting permanently. The competition draws massive gambling interest and intense attention from the maritime community. As the competition unfolds, the party discovers that Bezdun has sabotaged the course itself, creating real danger beyond the competition. The trial becomes a test of whether skill and courage can overcome deliberate treachery.
 
-4. **The Storm Born From Heaven**: An unprecedented storm emerges on the horizon—one that appears to defy natural meteorological explanation. As it approaches, Venrad realizes that his instincts, always so reliable, are providing contradictory information. Whatever this phenomenon is, it appears to exceed even his extraordinary ability to predict and navigate weather. He must guide a fleet of vessels to safety while confronting the possibility that some forces exist beyond his capacity to overcome, and that surrender rather than stubborn persistence may be the only path to survival.
+The Storm Born From Heaven
+: An unprecedented storm emerges on the horizon—one that appears to defy natural meteorological explanation. As it approaches, Venrad realizes that his instincts, always so reliable, are providing contradictory information. Whatever this phenomenon is, it appears to exceed even his extraordinary ability to predict and navigate weather. He must guide a fleet of vessels to safety while confronting the possibility that some forces exist beyond his capacity to overcome, and that surrender rather than stubborn persistence may be the only path to survival.
 
-5. **The Corsairs' Bargain**: Bezdun Vahdrak captures Venrad and brings him before the Corsairs of the Burning Coast. Rather than execute him, they offer an extraordinary proposition: pilot a single vessel to complete a voyage so dangerous and complex that it has never been successfully attempted. If Venrad succeeds, he is released and all debts are forgiven. If he fails, he becomes their permanent captive, forced to pilot their raiding expeditions for life. The party can help Venrad in this impossible endeavor or negotiate his release by other means. The voyage itself becomes a crucible that will either cement Venrad's legend or destroy him absolutely.
+The Corsairs' Bargain
+: Bezdun Vahdrak captures Venrad and brings him before the Corsairs of the Burning Coast. Rather than execute him, they offer an extraordinary proposition: pilot a single vessel to complete a voyage so dangerous and complex that it has never been successfully attempted. If Venrad succeeds, he is released and all debts are forgiven. If he fails, he becomes their permanent captive, forced to pilot their raiding expeditions for life. The party can help Venrad in this impossible endeavor or negotiate his release by other means. The voyage itself becomes a crucible that will either cement Venrad's legend or destroy him absolutely.

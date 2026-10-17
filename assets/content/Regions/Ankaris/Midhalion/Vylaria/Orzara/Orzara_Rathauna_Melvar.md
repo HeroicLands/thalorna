@@ -26,6 +26,11 @@ The Racecourse is one half of "bread and games": the capital's dole includes the
 
 ## See Also
 
-- [[place-orzara|Orzara]]—the city and its public life
-- [[place-sixhillsvyl|Six Hills]]—the hills either side of the valley it fills
-- [[place-magntheatredstr|Theatre District]]—the quieter quarter of pleasure
+[[place-orzara|Orzara]]
+: the city and its public life
+
+[[place-sixhillsvyl|Six Hills]]
+: the hills either side of the valley it fills
+
+[[place-magntheatredstr|Theatre District]]
+: the quieter quarter of pleasure

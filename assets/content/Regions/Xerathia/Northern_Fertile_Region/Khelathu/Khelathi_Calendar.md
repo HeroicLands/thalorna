@@ -98,7 +98,14 @@ An age shares its last year with the first year of the next, because the event t
 
 ## See Also
 
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the people whose calendar this is, and its regnal and Qet Telgu dating
-- [[lore-garauu|Gar-Auu]]—the king-list the ages are read from
-- [[place-worldthlrn|The World of Thalorna]]—the 365-day year the months and the five days together fill
-- [[place-vaelith|Vaelith]]—the moon, whose thirty-day cycle leaves the same five days over
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: the people whose calendar this is, and its regnal and Qet Telgu dating
+
+[[lore-garauu|Gar-Auu]]
+: the king-list the ages are read from
+
+[[place-worldthlrn|The World of Thalorna]]
+: the 365-day year the months and the five days together fill
+
+[[place-vaelith|Vaelith]]
+: the moon, whose thirty-day cycle leaves the same five days over

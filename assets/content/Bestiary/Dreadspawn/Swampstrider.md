@@ -335,20 +335,29 @@ It cannot live long out of water. Heat and dry air weaken it, and long exposure 
 
 ## Attributes
 
-- **Strength:** 11-16 (1d6+10)
+Strength
+: 11-16 (1d6+10)
 
-- **Endurance:** 14-17 (1d4+13)
+Endurance
+: 14-17 (1d4+13)
 
-- **Dexterity:** 14-17 (1d4+13)
+Dexterity
+: 14-17 (1d4+13)
 
-- **Agility:** 15-20 (1d6+14)
+Agility
+: 15-20 (1d6+14)
 
-- **Perception:** 11-16 (1d6+10)
+Perception
+: 11-16 (1d6+10)
 
-- **Aura:** 7-12 (1d6+6)
+Aura
+: 7-12 (1d6+6)
 
-- **Will:** 11-16 (1d6+10)
+Will
+: 11-16 (1d6+10)
 
-- **Reasoning:** 10-13 (1d4+9)
+Reasoning
+: 10-13 (1d4+9)
 
-- **Creativity:** 11-16 (1d6+10)
+Creativity
+: 11-16 (1d6+10)

@@ -18,5 +18,8 @@ Ts'okilkul's harbor is one of the two through which K'ankul's sea trade flows; t
 
 ## See Also
 
-- [[place-kankulrgn|K'ankul]]—the region the city belongs to
-- [[place-tzililnetzik|Ts'ilil Ne'ts'ik]]—the island port that shares its trade
+[[place-kankulrgn|K'ankul]]
+: the region the city belongs to
+
+[[place-tzililnetzik|Ts'ilil Ne'ts'ik]]
+: the island port that shares its trade

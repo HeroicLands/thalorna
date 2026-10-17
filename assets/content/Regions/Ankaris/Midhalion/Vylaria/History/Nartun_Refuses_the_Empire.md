@@ -82,7 +82,14 @@ The Orzas sent legions to bring the city back. They reached Nartun in the autumn
 
 ## See Also
 
-- [[lore-ustaranschsm|The Ústaran Schism]]—the quarrel the Orzas would not settle
-- [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]—the kingdom the withdrawal made
-- [[place-nartum|Nartun]]—the holy city that held its walls
-- [[affiliation-blackflame|The Black Flame]]—the faith the Empire has never proscribed
+[[lore-ustaranschsm|The Ústaran Schism]]
+: the quarrel the Orzas would not settle
+
+[[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]
+: the kingdom the withdrawal made
+
+[[place-nartum|Nartun]]
+: the holy city that held its walls
+
+[[affiliation-blackflame|The Black Flame]]
+: the faith the Empire has never proscribed

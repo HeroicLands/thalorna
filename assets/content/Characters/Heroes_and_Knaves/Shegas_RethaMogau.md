@@ -462,27 +462,37 @@ Shegas is fundamentally driven by a desire that no one should suffer as her brot
 
 ### Strengths
 
-- **Herblore and Natural Knowledge**: Shegas possesses rare knowledge of natural remedies and the properties of various substances. She can identify rare plants, create complex tinctures, and diagnose conditions through close observation.
+Herblore and Natural Knowledge
+: Shegas possesses rare knowledge of natural remedies and the properties of various substances. She can identify rare plants, create complex tinctures, and diagnose conditions through close observation.
 
-- **Skilled Physician and Healer**: Her physician's training, combined with her fellow-feeling, allows her to understand patients' conditions both physically and emotionally. She can treat wounds, manage pain, and provide comfort that contributes to healing.
+Skilled Physician and Healer
+: Her physician's training, combined with her fellow-feeling, allows her to understand patients' conditions both physically and emotionally. She can treat wounds, manage pain, and provide comfort that contributes to healing.
 
-- **High Empathy and Emotional Intelligence**: Her fellow-feeling allows her to understand what patients truly need, often going beyond their stated complaints to address the troubles of heart and mind that contribute to illness. This makes her unusually effective at treating sicknesses that begin in the mind.
+High Empathy and Emotional Intelligence
+: Her fellow-feeling allows her to understand what patients truly need, often going beyond their stated complaints to address the troubles of heart and mind that contribute to illness. This makes her unusually effective at treating sicknesses that begin in the mind.
 
-- **Animalcraft and Natural Collection Skills**: Shegas can procure raw materials from the natural world, identify safe plants, and understand the healing properties of animal products. She can forage and gather materials others would overlook.
+Animalcraft and Natural Collection Skills
+: Shegas can procure raw materials from the natural world, identify safe plants, and understand the healing properties of animal products. She can forage and gather materials others would overlook.
 
-- **Creative Problem-Solving**: Her inventiveness allows her to approach healing challenges in new ways. She can synthesize solutions from limited resources and create new remedies when traditional approaches prove insufficient.
+Creative Problem-Solving
+: Her inventiveness allows her to approach healing challenges in new ways. She can synthesize solutions from limited resources and create new remedies when traditional approaches prove insufficient.
 
 ### Weaknesses
 
-- **Poor Business Acumen and Financial Management**: With little physical strength and no commanding presence, Shegas is terrible at managing her business. She cannot negotiate prices effectively, cannot bring herself to demand payment from those in need, and is easily manipulated by those with sharper business instincts.
+Poor Business Acumen and Financial Management
+: With little physical strength and no commanding presence, Shegas is terrible at managing her business. She cannot negotiate prices effectively, cannot bring herself to demand payment from those in need, and is easily manipulated by those with sharper business instincts.
 
-- **Emotional Vulnerability to Others' Suffering**: Her fellow-feeling, while an asset in healing, makes her emotionally vulnerable. She absorbs her patients' suffering and despair, often becoming depressed or emotionally exhausted by exposure to too much human pain.
+Emotional Vulnerability to Others' Suffering
+: Her fellow-feeling, while an asset in healing, makes her emotionally vulnerable. She absorbs her patients' suffering and despair, often becoming depressed or emotionally exhausted by exposure to too much human pain.
 
-- **Difficulty with Assertiveness and Boundary-Setting**: Uncomfortable with deception and limited in eloquence, Shegas struggles to set boundaries or assert herself against those more forceful. She apologizes when others are wrong and blames herself for others' mistakes.
+Difficulty with Assertiveness and Boundary-Setting
+: Uncomfortable with deception and limited in eloquence, Shegas struggles to set boundaries or assert herself against those more forceful. She apologizes when others are wrong and blames herself for others' mistakes.
 
-- **Physical Fragility**: Shegas is physically weak and cannot defend herself effectively. She is vulnerable to violence and has no means to protect herself or her patients from physical threats.
+Physical Fragility
+: Shegas is physically weak and cannot defend herself effectively. She is vulnerable to violence and has no means to protect herself or her patients from physical threats.
 
-- **Vulnerability to Exploitation**: Shegas's compassion and poor business sense make her a target for manipulation. Those seeking free services, discounts, or advantage often exploit her kindness, knowing she will struggle to refuse them.
+Vulnerability to Exploitation
+: Shegas's compassion and poor business sense make her a target for manipulation. Those seeking free services, discounts, or advantage often exploit her kindness, knowing she will struggle to refuse them.
 
 ## Social
 
@@ -521,12 +531,17 @@ The Community of the Lower Quarters
 
 ## Plot Hooks
 
-1. **The Plague Returns**: A new disease begins spreading through the city's lower quarters—a sickness with symptoms Shegas has never encountered before. Wealthy physicians dismiss it as merely a variant of common ailments, but Shegas recognizes a graver disease. As deaths mount among her patients, she becomes obsessed with discovering a cure, working without sleep, neglecting her own health. Her investigation reveals that the plague may be deliberately spread, either as a weapon or by a group seeking to clear the poor from land it wants. Shegas must prove the deliberate spread while fighting to save her patients, and exposing the truth may unsettle the city's government.
+The Plague Returns
+: A new disease begins spreading through the city's lower quarters—a sickness with symptoms Shegas has never encountered before. Wealthy physicians dismiss it as merely a variant of common ailments, but Shegas recognizes a graver disease. As deaths mount among her patients, she becomes obsessed with discovering a cure, working without sleep, neglecting her own health. Her investigation reveals that the plague may be deliberately spread, either as a weapon or by a group seeking to clear the poor from land it wants. Shegas must prove the deliberate spread while fighting to save her patients, and exposing the truth may unsettle the city's government.
 
-2. **The Merchant's Dying Daughter**: A powerful merchant from Shegas's own family comes to her in desperation—his daughter is dying of a rare condition that no physician in the city can treat. He offers an enormous sum of money if Shegas can save her. Shegas becomes deeply invested in the case, spending all her time researching and developing new treatments. She eventually saves the daughter's life through a revolutionary technique, and the grateful merchant offers to fund her practice permanently. However, the merchant expects to become Shegas's patron and eventually her "partner," seeking to direct her toward wealthy clients and away from the poor. The offer is security and means in exchange for her principles.
+The Merchant's Dying Daughter
+: A powerful merchant from Shegas's own family comes to her in desperation—his daughter is dying of a rare condition that no physician in the city can treat. He offers an enormous sum of money if Shegas can save her. Shegas becomes deeply invested in the case, spending all her time researching and developing new treatments. She eventually saves the daughter's life through a revolutionary technique, and the grateful merchant offers to fund her practice permanently. However, the merchant expects to become Shegas's patron and eventually her "partner," seeking to direct her toward wealthy clients and away from the poor. The offer is security and means in exchange for her principles.
 
-3. **The Black Market Ingredient**: To develop a cure for a deadly disease affecting her poorest patients, Shegas discovers she needs a rare ingredient that can only be obtained from criminal organizations. A black market merchant approaches her, offering the ingredient in exchange for Shegas using her apothecary as a cover for smuggling dangerous compounds. She can use her practice to pass criminal goods in exchange for the means to save lives, or refuse and let her patients die.
+The Black Market Ingredient
+: To develop a cure for a deadly disease affecting her poorest patients, Shegas discovers she needs a rare ingredient that can only be obtained from criminal organizations. A black market merchant approaches her, offering the ingredient in exchange for Shegas using her apothecary as a cover for smuggling dangerous compounds. She can use her practice to pass criminal goods in exchange for the means to save lives, or refuse and let her patients die.
 
-4. **The Rival Healer's Challenge**: A traveling healer of extraordinary skill named **Dominik Silvanus** arrives in the city and begins establishing a healing practice that is even more generous and effective than Shegas's own. Patients flock to him, and Shegas finds herself becoming jealous and competitive—a feeling that shocks her and contradicts her self-image. As she investigates Dominik, she discovers that his practice is being secretly funded by a criminal organization seeking to build loyalty among the poor for purposes of recruitment and control. Exposing the truth means confronting her own capacity for envy.
+The Rival Healer's Challenge
+: A traveling healer of extraordinary skill named **Dominik Silvanus** arrives in the city and begins establishing a healing practice that is even more generous and effective than Shegas's own. Patients flock to him, and Shegas finds herself becoming jealous and competitive—a feeling that shocks her and contradicts her self-image. As she investigates Dominik, she discovers that his practice is being secretly funded by a criminal organization seeking to build loyalty among the poor for purposes of recruitment and control. Exposing the truth means confronting her own capacity for envy.
 
-5. **The Forbidden Knowledge**: An old scholar approaches Shegas with ancient texts describing healing techniques far beyond what any physician knows—techniques that might cure cancer, extend life indefinitely, or prevent aging. The texts also suggest these techniques require unethical practices: cutting organs from the poor to give to others, conducting dangerous experiments on prisoners, or other violations of the body. The scholar is willing to teach Shegas these techniques if she will help him procure test subjects. The choice is between her principles and her capacity to heal, and behind it lies what she believes healing means and which boundaries cannot be crossed whatever good might result.
+The Forbidden Knowledge
+: An old scholar approaches Shegas with ancient texts describing healing techniques far beyond what any physician knows—techniques that might cure cancer, extend life indefinitely, or prevent aging. The texts also suggest these techniques require unethical practices: cutting organs from the poor to give to others, conducting dangerous experiments on prisoners, or other violations of the body. The scholar is willing to teach Shegas these techniques if she will help him procure test subjects. The choice is between her principles and her capacity to heal, and behind it lies what she believes healing means and which boundaries cannot be crossed whatever good might result.

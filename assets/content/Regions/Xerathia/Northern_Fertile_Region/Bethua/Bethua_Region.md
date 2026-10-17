@@ -64,7 +64,14 @@ friction.
 
 ## See Also
 
-- [[place-nrthrnfrtlrgn|Northern Fertile Region]]—the parent region
-- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—the realm that holds this region
-- [[place-aukhelathrgq|Au'Khelathu Region]]—neighbor to the east
-- [[place-okharisrgn|Okharis Region]]—neighbor to the west
+[[place-nrthrnfrtlrgn|Northern Fertile Region]]
+: the parent region
+
+[[affiliation-mtrrchybth|Matriarchy of Bethua]]
+: the realm that holds this region
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: neighbor to the east
+
+[[place-okharisrgn|Okharis Region]]
+: neighbor to the west

@@ -42,9 +42,20 @@ The summit lies above Veshvaan, and Veshvaan is reached only by water, half a da
 
 ## See Also
 
-- [[place-klhrmassif|The Massif]]—the mount the Warm stands on
-- [[place-veshvaan|Veshvaan]]—the sanctuary on the Massif's shoulder, whose archive holds the oldest account of the Warm
-- [[place-klhrring|The Ring]]—the mountains the custodians hold the Warm keeps asleep
-- [[lore-itharisul|Ithasul]]—the substance of the works, and the states a work passes through
-- [[lore-klhrsnctrs|The Sanctuaries of Kalihara]]—which sanctuary tends which work
-- [[affiliation-tharivaan|Thári'vaan]]—the custodians, their ranks and the Bearer of the Crisis
+[[place-klhrmassif|The Massif]]
+: the mount the Warm stands on
+
+[[place-veshvaan|Veshvaan]]
+: the sanctuary on the Massif's shoulder, whose archive holds the oldest account of the Warm
+
+[[place-klhrring|The Ring]]
+: the mountains the custodians hold the Warm keeps asleep
+
+[[lore-itharisul|Ithasul]]
+: the substance of the works, and the states a work passes through
+
+[[lore-klhrsnctrs|The Sanctuaries of Kalihara]]
+: which sanctuary tends which work
+
+[[affiliation-tharivaan|Thári'vaan]]
+: the custodians, their ranks and the Bearer of the Crisis

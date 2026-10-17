@@ -22,7 +22,14 @@ Messages from [[affiliation-ixilankul|Ish'ilankul]] that reach K'ankul in two da
 
 ## See Also
 
-- [[affiliation-kuxiixbal|K'ushi Ish'bal]]—the realm of the high plateau
-- [[place-kuxiixbalrgn|K'ushi Ish'bal Region]]—the altiplano
-- [[place-ixkulchalix|Ishkul Ch'alish]]—the sacred lake
-- [[place-qptlulneok|Q'aptel'ul Ne'ok]]—the frontier garrison city
+[[affiliation-kuxiixbal|K'ushi Ish'bal]]
+: the realm of the high plateau
+
+[[place-kuxiixbalrgn|K'ushi Ish'bal Region]]
+: the altiplano
+
+[[place-ixkulchalix|Ishkul Ch'alish]]
+: the sacred lake
+
+[[place-qptlulneok|Q'aptel'ul Ne'ok]]
+: the frontier garrison city

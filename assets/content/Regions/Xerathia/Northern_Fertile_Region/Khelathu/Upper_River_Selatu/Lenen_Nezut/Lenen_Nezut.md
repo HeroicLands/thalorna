@@ -23,10 +23,23 @@ The Halzi'a's house is **Geze'el'Anlaghu**, descended from the Gar-Auu who were 
 
 ## See Also
 
-- [[lore-thronelnz|The Throne at Lenen-Nezut]]—why the town was a capital
-- [[place-lnzways|The Lenen-Nezut Ways]]—the royal tombs of the Halzi'a's house
-- [[place-zelhalzi|Zel-Halzi]]—the unmeasured field below the town
-- [[affiliation-selatlennnzt|The Selat of Lenen-Nezut]]—Parent selat
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-uqaa|Faith of Uqa'a]]—Patron cult
+[[lore-thronelnz|The Throne at Lenen-Nezut]]
+: why the town was a capital
+
+[[place-lnzways|The Lenen-Nezut Ways]]
+: the royal tombs of the Halzi'a's house
+
+[[place-zelhalzi|Zel-Halzi]]
+: the unmeasured field below the town
+
+[[affiliation-selatlennnzt|The Selat of Lenen-Nezut]]
+: Parent selat
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-uqaa|Faith of Uqa'a]]
+: Patron cult

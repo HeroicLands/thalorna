@@ -446,10 +446,17 @@ But Au'Khelathu is no clean refuge, and she knows it. It is a cold, self-interes
 
 ### Skills and Abilities
 
-- **Authenticator of the Truth**: As the Grammatissa who kept the Purple Warrant for twenty years, Rashira is one of the very few who can vouch that the register is the true crown record and no plant—read its internal ciphers, attest its seals and provenance, and decode the entries that name the guilty. The proof is the vellum; but it is her word that proves the vellum, which is exactly why no one can simply take the rolls and be done with her.
-- **Scripts and Ciphers**: A master of Bethuan legal hands, the fleet's internal codes, and the runic and foreign scripts a senior Grammatissa must read. She can spot a forged seal, read a cipher she has never seen, and tell a true warrant from a false one at a glance.
-- **The Bureaucrat's Craft**: Law, heraldry, mathematics, and mercantilism—the unglamorous skills of administration that let her navigate Houses, courts, and counting-rooms, and that make her dangerous in a way no blade is.
-- **Guile and Discourse**: Not a fighter and no spy by training, but a quick, persuasive, careful talker who has survived this long by reading people as fluently as she reads documents.
+Authenticator of the Truth
+: As the Grammatissa who kept the Purple Warrant for twenty years, Rashira is one of the very few who can vouch that the register is the true crown record and no plant—read its internal ciphers, attest its seals and provenance, and decode the entries that name the guilty. The proof is the vellum; but it is her word that proves the vellum, which is exactly why no one can simply take the rolls and be done with her.
+
+Scripts and Ciphers
+: A master of Bethuan legal hands, the fleet's internal codes, and the runic and foreign scripts a senior Grammatissa must read. She can spot a forged seal, read a cipher she has never seen, and tell a true warrant from a false one at a glance.
+
+The Bureaucrat's Craft
+: Law, heraldry, mathematics, and mercantilism—the unglamorous skills of administration that let her navigate Houses, courts, and counting-rooms, and that make her dangerous in a way no blade is.
+
+Guile and Discourse
+: Not a fighter and no spy by training, but a quick, persuasive, careful talker who has survived this long by reading people as fluently as she reads documents.
 
 ## Psyche
 
@@ -467,10 +474,17 @@ She is not naive. She knows Vylaria wants the register to wage its own war, not 
 
 ### Weaknesses
 
-- **No fighter**: frail, untrained at arms, wholly dependent on others for protection
-- **One fragile object, no copy, no insurance**: lose or destroy the original and her cause dies with it; she has no dead-man's leverage to make killing her dangerous
-- **A marked woman**: hunted by the Veil, courted by Vylaria, a stranger to the court she runs toward, trusted by none
-- **Conscience and caution as liabilities**: her refusal to sell the rolls, and her inability to trust anyone with a copy, leave her isolated and her movements hard for allies to support
+No fighter
+: frail, untrained at arms, wholly dependent on others for protection
+
+One fragile object, no copy, no insurance
+: lose or destroy the original and her cause dies with it; she has no dead-man's leverage to make killing her dangerous
+
+A marked woman
+: hunted by the Veil, courted by Vylaria, a stranger to the court she runs toward, trusted by none
+
+Conscience and caution as liabilities
+: her refusal to sell the rolls, and her inability to trust anyone with a copy, leave her isolated and her movements hard for allies to support
 
 ## Social
 
@@ -484,19 +498,27 @@ The Court of the Veil
 
 ### Hunters and False Friends
 
-- [[being-casiaveric|Kassa Verris]]: Once Rashira's lover, and the one who first set her on this road. Posing as a foreign trading factor, Kassa spent months listening to Rashira's troubles and urging her, ever so gently, to expose the matriarchy's rot—knowing only the general shape of the secret, never its particulars. When Rashira fled south with the Warrant rather than deliver it into Vylarian hands, the confidante became a hunter: now Kassa courts her former lover with offers of protection and passage while quietly closing every road east, trading on what lay between them to draw Rashira toward a Vylarian handover. Kassa means the register for Vylaria—a weapon to shatter the Khelathi–Bethuan alliance—and will never let it reach Galezkara. Rashira takes her help, when she must, with both eyes open, knowing the warm hand will close into a fist the moment the rolls are within reach.
-- **[[being-argyrirjckl|Argirira the Jackal]] and the Jackals**: The exile-queen who rules the Marches Rashira must cross. Argirira is no friend, but she hates Bethua and hunts the Hound for her own reasons—and a Houseless band that despises the matriarchy might, for the right price or the right grievance, be the unlikeliest of shelters on the road east.
+[[being-casiaveric|Kassa Verris]]
+: Once Rashira's lover, and the one who first set her on this road. Posing as a foreign trading factor, Kassa spent months listening to Rashira's troubles and urging her, ever so gently, to expose the matriarchy's rot—knowing only the general shape of the secret, never its particulars. When Rashira fled south with the Warrant rather than deliver it into Vylarian hands, the confidante became a hunter: now Kassa courts her former lover with offers of protection and passage while quietly closing every road east, trading on what lay between them to draw Rashira toward a Vylarian handover. Kassa means the register for Vylaria—a weapon to shatter the Khelathi–Bethuan alliance—and will never let it reach Galezkara. Rashira takes her help, when she must, with both eyes open, knowing the warm hand will close into a fist the moment the rolls are within reach.
+
+[[being-argyrirjckl|Argirira the Jackal]] and the Jackals
+: The exile-queen who rules the Marches Rashira must cross. Argirira is no friend, but she hates Bethua and hunts the Hound for her own reasons—and a Houseless band that despises the matriarchy might, for the right price or the right grievance, be the unlikeliest of shelters on the road east.
 
 ### Hoped-for Refuge
 
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]: The patron-empire she is running toward—victim of the betrayal she carries, and the one power that might shelter her and act. But its court is cold and self-interested, and salted with the very Khelathi hands that bought the stolen dead. Her refuge and her gravest gamble are the same place.
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: The patron-empire she is running toward—victim of the betrayal she carries, and the one power that might shelter her and act. But its court is cold and self-interested, and salted with the very Khelathi hands that bought the stolen dead. Her refuge and her gravest gamble are the same place.
 
 ## Plot Hooks
 
-1. **The Race East**: Every road through the [[affiliation-jcklsthmrchs|Marches]] toward the Khelathi frontier is watched, bought, or blocked—[[being-casiaveric|Kassa's]] quiet work—while [[being-lmbhrpdhnn|Lámbira]] closes from behind. Rashira needs guides, passage, and protection she cannot pay for in trust, and must decide which devil on the road to bargain with to keep moving toward [[affiliation-empireakhlth|Empire of Au'Khelathu]] and Qe'aret's justice.
+The Race East
+: Every road through the [[affiliation-jcklsthmrchs|Marches]] toward the Khelathi frontier is watched, bought, or blocked—[[being-casiaveric|Kassa's]] quiet work—while [[being-lmbhrpdhnn|Lámbira]] closes from behind. Rashira needs guides, passage, and protection she cannot pay for in trust, and must decide which devil on the road to bargain with to keep moving toward [[affiliation-empireakhlth|Empire of Au'Khelathu]] and Qe'aret's justice.
 
-2. **The Hunter Turned**: Cornered at last by [[being-lmbhrpdhnn|Lámbira]], Rashira offers not a fight but the register itself: _read it, and see what you are sent to bury._ It is her one real hope—that the only pursuer with no stake in the crime can be made to carry the truth instead of burning it. The scene is the hinge of the whole affair.
+The Hunter Turned
+: Cornered at last by [[being-lmbhrpdhnn|Lámbira]], Rashira offers not a fight but the register itself: _read it, and see what you are sent to bury._ It is her one real hope—that the only pursuer with no stake in the crime can be made to carry the truth instead of burning it. The scene is the hinge of the whole affair.
 
-3. **The Weight of the Original**: The purple roll is nearly lost—a river crossing, a fire, a blade through a saddlebag—and every party in the Marches must suddenly reckon with how fragile the only proof in the world really is. Rashira, who would rather see it destroyed than fall to Vylaria or the Veil, may have to choose whether to burn her life's last leverage to keep it from the wrong hands.
+The Weight of the Original
+: The purple roll is nearly lost—a river crossing, a fire, a blade through a saddlebag—and every party in the Marches must suddenly reckon with how fragile the only proof in the world really is. Rashira, who would rather see it destroyed than fall to Vylaria or the Veil, may have to choose whether to burn her life's last leverage to keep it from the wrong hands.
 
-4. **No Clean Hands in Galezkara**: Should she reach [[affiliation-empireakhlth|Empire of Au'Khelathu]], Rashira finds the court is no sanctuary but another snake-pit: factions that would wield the register, factions that would bury it, and the Khelathi fences of the stolen dead who want her and her proof gone. Having crossed the world to deliver the truth, she must now find the one hand clean enough to give it to.
+No Clean Hands in Galezkara
+: Should she reach [[affiliation-empireakhlth|Empire of Au'Khelathu]], Rashira finds the court is no sanctuary but another snake-pit: factions that would wield the register, factions that would bury it, and the Khelathi fences of the stolen dead who want her and her proof gone. Having crossed the world to deliver the truth, she must now find the one hand clean enough to give it to.

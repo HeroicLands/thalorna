@@ -50,8 +50,17 @@ This is the First Occasion. What came before was chaos. What comes after is ente
 
 ## See Also
 
-- [[lore-qettelgu|The Qet Telgu]]—the First Occasion as the reckoning dates it, with its accounts and open questions
-- [[place-yathtelgu|Yath-Telgu]]—the First Mound, the Great Temple and the palace
-- [[affiliation-rethsaar|Faith of Reth'Sa'ar]]—the priesthood that keeps the chronicle and the king-lists
-- [[lore-garauu|Gar-Auu]]—the line of divine sovereigns
-- [[lore-readingweigh|The Reading at the Weighing]]—the litany read over a dead person's account
+[[lore-qettelgu|The Qet Telgu]]
+: the First Occasion as the reckoning dates it, with its accounts and open questions
+
+[[place-yathtelgu|Yath-Telgu]]
+: the First Mound, the Great Temple and the palace
+
+[[affiliation-rethsaar|Faith of Reth'Sa'ar]]
+: the priesthood that keeps the chronicle and the king-lists
+
+[[lore-garauu|Gar-Auu]]
+: the line of divine sovereigns
+
+[[lore-readingweigh|The Reading at the Weighing]]
+: the litany read over a dead person's account

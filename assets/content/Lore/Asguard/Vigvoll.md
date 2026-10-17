@@ -14,7 +14,14 @@ The Asguardian telling is blunt about what the field offers. The defenders know 
 
 ## See Also
 
-- [[lore-aldarlok|Aldarlok]]—the close of the age, which the field is for
-- [[lore-valdrengir|Valdrengir]]—the honored dead who muster on it
-- [[place-valsal|Valsal]]—the region that sends half of them
-- [[place-solvangr|Solvangr]]—the region that sends the other half
+[[lore-aldarlok|Aldarlok]]
+: the close of the age, which the field is for
+
+[[lore-valdrengir|Valdrengir]]
+: the honored dead who muster on it
+
+[[place-valsal|Valsal]]
+: the region that sends half of them
+
+[[place-solvangr|Solvangr]]
+: the region that sends the other half

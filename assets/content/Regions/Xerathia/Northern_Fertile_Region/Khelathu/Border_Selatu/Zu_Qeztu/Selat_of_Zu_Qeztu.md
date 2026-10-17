@@ -69,10 +69,23 @@ Zu-Qeztu uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. The [[affiliation-
 
 ## See Also
 
-- [[affiliation-borderselatu|The Border Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-zileti|Zileti]]—Selat capital
-- [[affiliation-uqaa|Faith of Uqa'a]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-zuqeztunome|Zu-Qeztu]]—The land the selat holds
-- [[lore-thaulgau|The Coming of the Tha'Ulgau]]—How the Halzi'a house came to the west
+[[affiliation-borderselatu|The Border Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-zileti|Zileti]]
+: Selat capital
+
+[[affiliation-uqaa|Faith of Uqa'a]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-zuqeztunome|Zu-Qeztu]]
+: The land the selat holds
+
+[[lore-thaulgau|The Coming of the Tha'Ulgau]]
+: How the Halzi'a house came to the west

@@ -39,7 +39,14 @@ From the Wyndmarch the old road starts at a ford below the last royal-forest lod
 
 ## See Also
 
-- [[place-wyndmarch|The Wyndmarch]]—the march whose forests the road crosses
-- [[place-hallowwood|The Hallowwood]]—where the road ends
-- [[lore-jointcrown|The Joint Crown of Aelwyth]]—the elder kingdom that cut the road
-- [[lore-theshadow|The Shadow]]—what took the reeve's oath
+[[place-wyndmarch|The Wyndmarch]]
+: the march whose forests the road crosses
+
+[[place-hallowwood|The Hallowwood]]
+: where the road ends
+
+[[lore-jointcrown|The Joint Crown of Aelwyth]]
+: the elder kingdom that cut the road
+
+[[lore-theshadow|The Shadow]]
+: what took the reeve's oath

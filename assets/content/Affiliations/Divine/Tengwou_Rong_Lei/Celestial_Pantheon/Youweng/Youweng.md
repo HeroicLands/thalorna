@@ -56,9 +56,14 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-- **Type:** Celestial realm of subversion and failure
-- **Parent cosmology:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
-- **Inhabitants:** Demon Lords, lesser demons (Youwéng), and the rare fallen functionary
+Type
+: Celestial realm of subversion and failure
+
+Parent cosmology
+: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+
+Inhabitants
+: Demon Lords, lesser demons (Youwéng), and the rare fallen functionary
 
 ## Overview
 
@@ -119,11 +124,20 @@ hostile counterparty who will read every clause and honor none of the intent.
 
 The Youwéng's principal residents of note are the **Demon Lords**—celestials whose nature is the subversion, refusal, or corruption of the classification system. Five are currently recognized in Tantsou scripture:
 
-- [[lore-henzhuodty|Hénzhuo]]—The Lord of the Unclassified, the First Refusal. A coherence from the [Henléi]{.name data-type="lore/cosmology"} itself that refused the Great Sorting. Older than the classification system itself.
-- [[lore-watsaidty|Watsai]]—The Forger of False Records, the Counterfeit Scribe. A former Archival Scribe who began editing classifications and fled into the Youwéng with stolen records.
-- [[lore-zhaosoudty|Zhaosou]]—The Unsorted, the Walking Contradiction. An entity that defies all classification—an open case that was never closed during the Great Sorting.
-- [[lore-nuohodty|Nuoho]]—The Burning Dissolution, the Unmaker. Born from a jurisdictional failure between the Bureau of Returns and the Bureau of Transformation. Fire that annihilates rather than purifies.
-- [[lore-douyodty|Douyo]]—The Lost Road, the Guide Who Leads Astray. A corrupted Waymark Spirit of the Bureau of Passage who now redirects travelers into unclassified spaces.
+[[lore-henzhuodty|Hénzhuo]]
+: The Lord of the Unclassified, the First Refusal. A coherence from the [Henléi]{.name data-type="lore/cosmology"} itself that refused the Great Sorting. Older than the classification system itself.
+
+[[lore-watsaidty|Watsai]]
+: The Forger of False Records, the Counterfeit Scribe. A former Archival Scribe who began editing classifications and fled into the Youwéng with stolen records.
+
+[[lore-zhaosoudty|Zhaosou]]
+: The Unsorted, the Walking Contradiction. An entity that defies all classification—an open case that was never closed during the Great Sorting.
+
+[[lore-nuohodty|Nuoho]]
+: The Burning Dissolution, the Unmaker. Born from a jurisdictional failure between the Bureau of Returns and the Bureau of Transformation. Fire that annihilates rather than purifies.
+
+[[lore-douyodty|Douyo]]
+: The Lost Road, the Guide Who Leads Astray. A corrupted Waymark Spirit of the Bureau of Passage who now redirects travelers into unclassified spaces.
 
 Each Demon Lord represents a different mode of failure within the classification system, and each holds a domain within the Youwéng that corresponds to that mode of failure.
 
@@ -143,8 +157,17 @@ A person [[affiliation-wantou|Wántou]]'s Bureau of All Records has noticed has 
 
 ## See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The celestial cosmology of which the Youwéng is the shadow-remainder
-- [[affiliation-henzhuo|Hénzhuo]], [[affiliation-watsai|Watsai]], [[affiliation-zhaosou|Zhaosou]], [[affiliation-nuoho|Nuoho]], [[affiliation-douyo|Douyo]]—The Demon Lords
-- [[affiliation-youwenglsrdmns|Lesser Demons]]—The Youwéng under the Lords' authority
-- [[affiliation-nuotsourui|Nuotsou Rui]]—The mortal cult that worships the Demon Lords
-- [[affiliation-tantsouempr|Empire of Tantsou]]—The empire whose classification system the Youwéng shadows
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: The celestial cosmology of which the Youwéng is the shadow-remainder
+
+[[affiliation-henzhuo|Hénzhuo]], [[affiliation-watsai|Watsai]], [[affiliation-zhaosou|Zhaosou]], [[affiliation-nuoho|Nuoho]], [[affiliation-douyo|Douyo]]
+: The Demon Lords
+
+[[affiliation-youwenglsrdmns|Lesser Demons]]
+: The Youwéng under the Lords' authority
+
+[[affiliation-nuotsourui|Nuotsou Rui]]
+: The mortal cult that worships the Demon Lords
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: The empire whose classification system the Youwéng shadows

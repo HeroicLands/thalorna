@@ -18,5 +18,8 @@ For that the elders keep [[being-fakhrdtmrn|Fakhrad Tamaran]], an astrologer of 
 
 ## See Also
 
-- [[being-fakhrdtmrn|Fakhrad Tamaran]]—the elders' astrologer
-- [[place-amradadrgn|Amradad]]—the region the settlement belongs to
+[[being-fakhrdtmrn|Fakhrad Tamaran]]
+: the elders' astrologer
+
+[[place-amradadrgn|Amradad]]
+: the region the settlement belongs to

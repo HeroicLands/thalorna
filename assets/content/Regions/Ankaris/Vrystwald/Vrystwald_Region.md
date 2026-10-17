@@ -32,10 +32,17 @@ South and east of the [[place-nrdlndsrgn|Nordlands Region]] proper lies the road
 
 Vristwald occupies the forest country between the Nordmal [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] and [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] to the north, Velanthia to the east, and the [[place-tarvenirgn|Tarvénia Region]] and the [[affiliation-vylarinmpr|Vylarian Empire]]'s [[place-vylariargn|Vylaria Region]] to the south. It covers some eighty-five thousand square miles: a main block about 370 miles east to west and 300 north to south, and a western arm that runs another 250 miles along the north shore of the bay facing [[place-elavendre|Élavendre]]. The landscape is dominated by:
 
-- The **northern taiga**—a belt of boreal forest of spruce, pine, fir, and birch along the Nordmal border, lightly populated by hunter-fisher-trapper Varokh clans whose lifeways look more taiga-clan than Nordmal. The taiga's furs are a major Vristwaldi export.
-- The **central mixed-forest belt**—the heartland: dense mixed woodlands of pine, spruce, oak, beech, and birch, broken by clearings, rivers, and the great inland lakes. Most of the Varokh population lives here, scattered across innumerable small forest-clearings and along the river-courses.
-- The [[place-vrystwldrvrs|great river systems]]—slow brown rivers that cross the interior and link its settlements. Some waters leave the forest to the west; others pass through neighboring lands toward the inland sea, which does not touch Vristwald. In winter the frozen rivers become highways for sleds and warbands.
-- The **eastern frontier**—the fluid border with Velanthia, where Vristwaldi forest gives way gradually to Velanthian grain-belt and the two cultures meet in mixed villages, intermarriage, and intermittent raids.
+The **northern taiga**
+: a belt of boreal forest of spruce, pine, fir, and birch along the Nordmal border, lightly populated by hunter-fisher-trapper Varokh clans whose lifeways look more taiga-clan than Nordmal. The taiga's furs are a major Vristwaldi export.
+
+The **central mixed-forest belt**
+: the heartland: dense mixed woodlands of pine, spruce, oak, beech, and birch, broken by clearings, rivers, and the great inland lakes. Most of the Varokh population lives here, scattered across innumerable small forest-clearings and along the river-courses.
+
+The [[place-vrystwldrvrs|great river systems]]
+: slow brown rivers that cross the interior and link its settlements. Some waters leave the forest to the west; others pass through neighboring lands toward the inland sea, which does not touch Vristwald. In winter the frozen rivers become highways for sleds and warbands.
+
+The **eastern frontier**
+: the fluid border with Velanthia, where Vristwaldi forest gives way gradually to Velanthian grain-belt and the two cultures meet in mixed villages, intermarriage, and intermittent raids.
 
 Five reaches describe the forest's different contacts: [[place-falkhaven|Falkhaven]] faces the western shore and Nordmal frontier; [[place-edrwald|Edrwald]] turns around the bay toward Élavendre; [[place-thornwald|Thornwald]] meets Velanthia to the east; [[place-skathwald|Skathwald]] lies where Grukar nests grow more prevalent; and [[place-vandstein|Vandstein]] faces the southern highlands toward Vylaria. These are descriptions of ground and contact, not governments. [[place-vethwald|Vethwald]], the Deepwood, lies within the forest interior.
 
@@ -335,19 +342,43 @@ The [[affiliation-vylarinmpr|Vylarian Empire]] lies to the south and southeast. 
 
 ## Notable Features
 
-- [[place-vethwald|The Deepwood]]: An ancient central forest so dense that sunlight barely reaches the floor. Home to some of the most traditional Varokh villages and reputed to be filled with supernatural beings.
-- **The Vylarian Ruins:** Crumbling forts, roads, and settlements from the high-imperial Vylarian eastern reach, now overgrown and reclaimed by the southeastern forest. Some are believed to hold buried treasures or ancient secrets.
-- **The Common Council:** A brief gathering of village elders when imminent danger requires several villages to act together. The agreement ends with their response.
+[[place-vethwald|The Deepwood]]
+: An ancient central forest so dense that sunlight barely reaches the floor. Home to some of the most traditional Varokh villages and reputed to be filled with supernatural beings.
+
+The Vylarian Ruins
+: Crumbling forts, roads, and settlements from the high-imperial Vylarian eastern reach, now overgrown and reclaimed by the southeastern forest. Some are believed to hold buried treasures or ancient secrets.
+
+The Common Council
+: A brief gathering of village elders when imminent danger requires several villages to act together. The agreement ends with their response.
 
 ## See Also
 
-- [[place-nrdlndsrgn|Nordlands Region]]—western neighbor
-- [[place-edrwald|Edrwald]]—the bayward forest facing [[place-elavendre|Elavendre]]
-- [[place-vrystwldrvrs|Vristwald Rivers]]—the water routes crossing the forest
-- [[place-grkrhlmrgn|Grukarholm Region]]—hostile Grukar concentration in the neighboring forests
-- [[place-velanthrgn|Velanthia Region]]—eastern neighbor and most permeable frontier
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—farther east, beyond Velanthia
-- [[affiliation-vylarinmpr|Vylarian Empire]]—southern imperial power, source of the forest ruins
-- [[skill-varokhlng|Varokhi]]—naming conventions
-- [[lore-wintertally|The Tally of Winters]]—how the forest counts time, and its ages
-- [[place-ankrscntnnt|Ankaris Continent]]—parent continent
+[[place-nrdlndsrgn|Nordlands Region]]
+: western neighbor
+
+[[place-edrwald|Edrwald]]
+: the bayward forest facing [[place-elavendre|Elavendre]]
+
+[[place-vrystwldrvrs|Vristwald Rivers]]
+: the water routes crossing the forest
+
+[[place-grkrhlmrgn|Grukarholm Region]]
+: hostile Grukar concentration in the neighboring forests
+
+[[place-velanthrgn|Velanthia Region]]
+: eastern neighbor and most permeable frontier
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: farther east, beyond Velanthia
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: southern imperial power, source of the forest ruins
+
+[[skill-varokhlng|Varokhi]]
+: naming conventions
+
+[[lore-wintertally|The Tally of Winters]]
+: how the forest counts time, and its ages
+
+[[place-ankrscntnnt|Ankaris Continent]]
+: parent continent

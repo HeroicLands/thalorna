@@ -45,6 +45,11 @@ The hunters of the Zeghet'Nelgu are the ones who know the place, and their Steer
 
 ## See Also
 
-- [[affiliation-zeghetnelgu|Zeghet'Nelgu]]—the hunt that holds the marsh by charter
-- [[place-gadjumuluslt|Gadju-Mulu Selat]]—the wettest of the upper selatu
-- [[lore-firstoccasion|The First Occasion]]—the doctrine of the count the stones lie outside
+[[affiliation-zeghetnelgu|Zeghet'Nelgu]]
+: the hunt that holds the marsh by charter
+
+[[place-gadjumuluslt|Gadju-Mulu Selat]]
+: the wettest of the upper selatu
+
+[[lore-firstoccasion|The First Occasion]]
+: the doctrine of the count the stones lie outside

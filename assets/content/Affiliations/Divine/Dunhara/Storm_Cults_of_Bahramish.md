@@ -81,9 +81,14 @@ sohl: {system: {commonSkills: [bahramis]}}
 
 _Dunhari: Baharami-Vadukesh—"the Followers of Báhramis"_
 
-- **Type:** Decentralized religious organization (multiple semi-autonomous lineages)
-- **Patron:** Báhramis—Dunhari god of the storm, the wind that crosses tribal borders, the rain that decides the year's grass, and the lightning that marks the gods' approval
-- **Region:** [[affiliation-dunhartrbs|The Dunhara Tribes]]—present in every Dunhari encampment of significance, with the great gathering-shrine at the [[place-stoneofranaz|Stone of Ranaz]] (shared with the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]])
+Type
+: Decentralized religious organization (multiple semi-autonomous lineages)
+
+Patron
+: Báhramis—Dunhari god of the storm, the wind that crosses tribal borders, the rain that decides the year's grass, and the lightning that marks the gods' approval
+
+Region
+: [[affiliation-dunhartrbs|The Dunhara Tribes]]—present in every Dunhari encampment of significance, with the great gathering-shrine at the [[place-stoneofranaz|Stone of Ranaz]] (shared with the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]])
 
 ## Overview
 
@@ -107,17 +112,27 @@ Each lineage has its own internal hierarchy: apprentice (_hamelogar_), recognize
 
 ## Notable Members
 
-- [[being-shadznkmrz|Shadezan Kamruz]]—currently the most prominent recognized vessel; the Storm Cults regard him as a chosen vessel of Báhramis and his counsel carries weight beyond his standing in [[affiliation-wrrscrcldnhrtrbs|The Warrior's Circle of the Dunhara Tribes]]. The cults defer to his interpretation of religious matters on which the Council of Elders has not specifically ruled.
-- **Ruzhogar [Razashar]{.name data-type="being/npc"} of the Wind-Readers**—current senior elder of the largest lineage; presides at most Council of Elders gatherings.
-- **Ruzhogar [Mehrava]{.name data-type="being/npc"} of the Lightning-Marked**—the smallest lineage's elder; a woman of extraordinary personal authority whose prophetic accuracy is the source of significant inter-cult tension when her readings conflict with the other lineages'.
+[[being-shadznkmrz|Shadezan Kamruz]]
+: currently the most prominent recognized vessel; the Storm Cults regard him as a chosen vessel of Báhramis and his counsel carries weight beyond his standing in [[affiliation-wrrscrcldnhrtrbs|The Warrior's Circle of the Dunhara Tribes]]. The cults defer to his interpretation of religious matters on which the Council of Elders has not specifically ruled.
+
+Ruzhogar [Razashar]{.name data-type="being/npc"} of the Wind-Readers
+: current senior elder of the largest lineage; presides at most Council of Elders gatherings.
+
+Ruzhogar [Mehrava]{.name data-type="being/npc"} of the Lightning-Marked
+: the smallest lineage's elder; a woman of extraordinary personal authority whose prophetic accuracy is the source of significant inter-cult tension when her readings conflict with the other lineages'.
 
 ## Doctrine and Practice
 
 The cults hold three principles in common across the lineages:
 
-- **The Storm Speaks**—that Báhramis makes his judgments known through weather, and that the trained shaman's vocation is to read those judgments accurately and convey them to the tribes. Misreading is the most serious shamanic failure; falsifying a reading is among the most serious offenses the cults recognize.
-- **The Vessel Recognized**—that direct vesselhood is rare, real, and consequential; that the recognition of a vessel is conferred only by the assembled senior elders; that recognition is binding on all the lineages until withdrawn for cause.
-- **The Cult Crosses the Line**—that the storm crosses tribal borders, and that the cults likewise do not respect tribal boundaries. A shaman of one lineage is welcome at any tribe's fires; a recognized vessel may move freely across the whole of Dunhari territory under cult protection.
+The Storm Speaks
+: that Báhramis makes his judgments known through weather, and that the trained shaman's vocation is to read those judgments accurately and convey them to the tribes. Misreading is the most serious shamanic failure; falsifying a reading is among the most serious offenses the cults recognize.
+
+The Vessel Recognized
+: that direct vesselhood is rare, real, and consequential; that the recognition of a vessel is conferred only by the assembled senior elders; that recognition is binding on all the lineages until withdrawn for cause.
+
+The Cult Crosses the Line
+: that the storm crosses tribal borders, and that the cults likewise do not respect tribal boundaries. A shaman of one lineage is welcome at any tribe's fires; a recognized vessel may move freely across the whole of Dunhari territory under cult protection.
 
 The cults do not impose theological orthodoxy. The five lineages disagree, sometimes substantially, on questions of doctrine, ritual procedure, and the interpretation of specific phenomena; the disagreements are accommodated through the Council of Elders' deliberations and through the consensus that emerges (or fails to emerge) at the seasonal gatherings.
 
@@ -157,8 +172,17 @@ Recognized vessels of Báhramis wear a heavy iron torc at the throat, given at r
 
 ## See Also
 
-- [[affiliation-bahramis|Faith of Bahramis]]—the storm god the cults serve
-- [[place-stoneofranaz|Stone of Ranaz]]—the hill-shrine where the elders gather at the season-turns
-- [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]—the warriors whose marked stones the cults keep
-- [[affiliation-dunhartrbs|Dunhara Tribes]]—the confederations whose camps the cults serve
-- [[lore-dunhariclt|Dunhari]]—the people and their customs
+[[affiliation-bahramis|Faith of Bahramis]]
+: the storm god the cults serve
+
+[[place-stoneofranaz|Stone of Ranaz]]
+: the hill-shrine where the elders gather at the season-turns
+
+[[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]
+: the warriors whose marked stones the cults keep
+
+[[affiliation-dunhartrbs|Dunhara Tribes]]
+: the confederations whose camps the cults serve
+
+[[lore-dunhariclt|Dunhari]]
+: the people and their customs

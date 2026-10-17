@@ -210,10 +210,23 @@ Sit down. Go home with your masters. You are apprentices of Krusteikhos, and you
 
 ## See Also
 
-- [[lore-heladcompact|The Compact of the Five]]—the four bindings, as the history keeps them
-- [[lore-heladwells|The Battle of the Wells]]—the host that died between the springs
-- [[place-thirstground|The Thirsting Ground]]—the field where it died, and the jar the garrison sets there
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation the Compact became
-- [[place-khryshteikhos2|Krusteikhos]]—the city at the top of the road, and its Merchant Hall
-- [[lore-heladreswear|The Re-swearing of the Compact]]—the oath sworn again in the Hall
-- [[lore-byzarianclt|Bizarian]]—the defect declared before the sale
+[[lore-heladcompact|The Compact of the Five]]
+: the four bindings, as the history keeps them
+
+[[lore-heladwells|The Battle of the Wells]]
+: the host that died between the springs
+
+[[place-thirstground|The Thirsting Ground]]
+: the field where it died, and the jar the garrison sets there
+
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation the Compact became
+
+[[place-khryshteikhos2|Krusteikhos]]
+: the city at the top of the road, and its Merchant Hall
+
+[[lore-heladreswear|The Re-swearing of the Compact]]
+: the oath sworn again in the Hall
+
+[[lore-byzarianclt|Bizarian]]
+: the defect declared before the sale

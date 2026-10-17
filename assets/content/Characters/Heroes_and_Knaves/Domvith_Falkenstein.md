@@ -439,6 +439,11 @@ His kin retained him when his command was withdrawn. Younger captains give his p
 
 ## Plot Hooks
 
-1. **The Last Reckoning**—A surviving witness disputes the remaining restitution. Escort the witness and establish a living account while Domvith's former companions try to suppress their part in the raid.
-2. **The Profitable Pursuit**—His old band proposes a rich raid during his next defensive watch. Help him keep the crossing while discovering whether the offer conceals an attack on it.
-3. **The Grounded Boat**—Floodwater has trapped households at the crossing. The party must free and escort the boats while Domvith holds the approach under a young captain whose orders he must trust.
+The Last Reckoning
+: A surviving witness disputes the remaining restitution. Escort the witness and establish a living account while Domvith's former companions try to suppress their part in the raid.
+
+The Profitable Pursuit
+: His old band proposes a rich raid during his next defensive watch. Help him keep the crossing while discovering whether the offer conceals an attack on it.
+
+The Grounded Boat
+: Floodwater has trapped households at the crossing. The party must free and escort the boats while Domvith holds the approach under a young captain whose orders he must trust.

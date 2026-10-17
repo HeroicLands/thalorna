@@ -25,6 +25,11 @@ Tsuiwo's judges, chosen from his retainers, hear the town's cases in the hall.
 
 ## See Also
 
-- [[affiliation-zenjaidmn|Zenjai Domain]]—the house and its lord
-- [[place-zenjai|Zenjai]]—the mountain
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[affiliation-zenjaidmn|Zenjai Domain]]
+: the house and its lord
+
+[[place-zenjai|Zenjai]]
+: the mountain
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

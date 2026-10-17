@@ -46,4 +46,5 @@ The consulting is part of the arrangement, not a courtesy. An artist who ignores
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—the city whose arts it funds
+[[place-galezkara|Galezkara]]
+: the city whose arts it funds

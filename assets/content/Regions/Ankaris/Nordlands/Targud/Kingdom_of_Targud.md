@@ -131,9 +131,20 @@ Targud strikes no coin. Where a deal is made in money, the money is [[lore-vylrn
 
 ## See Also
 
-- [[place-targud|Targud]]—the land the kingdom holds
-- [[place-tvalgard|Tvalgard]]—the seat and the king's hall
-- [[lore-trgdahstry|Histories and Legends of Targud]]—the kingdom's remembered past
-- [[place-grkrhlmrgn|Grukarholm]]—the eastern enemy
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the sister kingdoms
-- [[affiliation-asguardian|Asguardian Pantheon]]—the Ten of the north
+[[place-targud|Targud]]
+: the land the kingdom holds
+
+[[place-tvalgard|Tvalgard]]
+: the seat and the king's hall
+
+[[lore-trgdahstry|Histories and Legends of Targud]]
+: the kingdom's remembered past
+
+[[place-grkrhlmrgn|Grukarholm]]
+: the eastern enemy
+
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
+: the sister kingdoms
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the Ten of the north

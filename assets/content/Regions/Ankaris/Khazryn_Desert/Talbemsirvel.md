@@ -45,8 +45,17 @@ The tower is reached by a faint track from Ashkarad's north gate, a day's ride t
 
 ## See Also
 
-- [[place-ashkarad|Ashkarad]]—the city whose dead it was built for
-- [[affiliation-azravan|Faith of Azravan]]—the rite and the Towers of Silence
-- [[lore-theshadow|The Shadow]]—what passes through a rite refused
-- [[lore-undead|Undead]]—the dead made to walk, by every people's account
-- [[lore-bloodfield|Blood-fields]]—the ground where the dead are left unreceived
+[[place-ashkarad|Ashkarad]]
+: the city whose dead it was built for
+
+[[affiliation-azravan|Faith of Azravan]]
+: the rite and the Towers of Silence
+
+[[lore-theshadow|The Shadow]]
+: what passes through a rite refused
+
+[[lore-undead|Undead]]
+: the dead made to walk, by every people's account
+
+[[lore-bloodfield|Blood-fields]]
+: the ground where the dead are left unreceived

@@ -82,8 +82,11 @@ The current High Hand is **[Iulia Verronius]{.name data-type="being/npc"}**, the
 
 ## Notable Members
 
-- [[being-ailemkrmys|Ailema Keramyes]]—a Guildmaster since the age of twenty-two and one of the finest authentication experts in the empire, consulted on standards and forgery detection at the highest levels.
-- **Iulia Verronius**—the High Hand, presiding over the Guild's response to growing pressure from imperial authorities to streamline procedures the Guild considers essential.
+[[being-ailemkrmys|Ailema Keramyes]]
+: a Guildmaster since the age of twenty-two and one of the finest authentication experts in the empire, consulted on standards and forgery detection at the highest levels.
+
+Iulia Verronius
+: the High Hand, presiding over the Guild's response to growing pressure from imperial authorities to streamline procedures the Guild considers essential.
 
 ## Doctrine and Practice
 

@@ -200,10 +200,17 @@ Some **21 million** people live under direct imperial governance in the four cor
 
 ## The Four Provinces
 
-- **[[affiliation-provinclys|Province of Alessa]]**—the heartland, holding the capital and the Senate; the most urban and politically sophisticated province, home to the oldest senatorial families and the seat of the Thordimalon.
-- **[[affiliation-provnchyln|Province of Hilen]]**—the breadbasket, whose fertile lowlands grow grain, wine and olive oil; its landed aristocracy is conservative, traditionalist and resistant to change.
-- **[[affiliation-provncmktr|Province of Moktur]]**—the mountainous northern province on the [[place-vrystwald|Vristwald]] border, charged with defending the frontier; its military _therkoi_ (governors) hold wide autonomy and sometimes act as semi-independent warlords.
-- **[[affiliation-provincvld|Province of Salkalon]]**—the coastal province on the [[place-vylarianse|Vylarian Sea]], home of the shipyards and naval bases; its merchants have the most dealings with Taruzel and Helionis, which makes it the most cosmopolitan and commercial province.
+[[affiliation-provinclys|Province of Alessa]]
+: the heartland, holding the capital and the Senate; the most urban and politically sophisticated province, home to the oldest senatorial families and the seat of the Thordimalon.
+
+[[affiliation-provnchyln|Province of Hilen]]
+: the breadbasket, whose fertile lowlands grow grain, wine and olive oil; its landed aristocracy is conservative, traditionalist and resistant to change.
+
+[[affiliation-provncmktr|Province of Moktur]]
+: the mountainous northern province on the [[place-vrystwald|Vristwald]] border, charged with defending the frontier; its military _therkoi_ (governors) hold wide autonomy and sometimes act as semi-independent warlords.
+
+[[affiliation-provincvld|Province of Salkalon]]
+: the coastal province on the [[place-vylarianse|Vylarian Sea]], home of the shipyards and naval bases; its merchants have the most dealings with Taruzel and Helionis, which makes it the most cosmopolitan and commercial province.
 
 The [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], an independent Vylari-speaking realm, shares the empire's culture and language but keeps its own sovereignty and a theocratic devotion to Aureldian worship.
 
@@ -225,8 +232,11 @@ The long shadow of empire defines Vylaria's dealings with its neighbors.
 
 ## Notable Features
 
-- **The Senate:** an ancient legislative body that has outlived the empire's greatness and is now more a den of intrigue than a government; it sits in the [[affiliation-seldan|Seldan]].
-- **The Imperial Cult:** the veneration of deceased emperors as half-divine, joining religion to political loyalty.
+The Senate
+: an ancient legislative body that has outlived the empire's greatness and is now more a den of intrigue than a government; it sits in the [[affiliation-seldan|Seldan]].
+
+The Imperial Cult
+: the veneration of deceased emperors as half-divine, joining religion to political loyalty.
 
 ## Commerce and Currency
 
@@ -234,19 +244,50 @@ The empire uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden, Ardin and Ogd
 
 ## See Also
 
-- [[place-vylariargn|Vylaria Region]]—the land the empire holds
-- [[lore-vylarianclt|Vylarian]]—the people, their manners and their obligations
-- [[place-orzara|Orzara]]—the capital
-- [[affiliation-seldan|Seldan]]—the Senate
-- [[affiliation-ordoarcanis|Thordimalon]]—the dominant arcane order
-- [[affiliation-vylrnmltry|Vylarian Military]]—the legions and the fleet
-- [[doc-vylrnctznshp|Vylarian Citizenship]]—the citizen and the resident
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—former province, now independent rival
-- [[place-helionis|Helionis]]—cultural heartland
-- [[place-provenzrgn|Provenzia Region]]—former province, cultural inheritor
-- [[place-vrystwald|Vristwald]]—the northern frontier
-- [[place-vylarianse|Vylarian Sea]]—the empire's maritime domain
-- [[skill-vylarilng|Vylari]]—the language and its naming conventions
-- [[affiliation-provinclys|Province of Alessa]], [[affiliation-provnchyln|Province of Hilen]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Salkalon]]—the provinces
-- [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]—independent Vylari-speaking realm
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the state pantheon
+[[place-vylariargn|Vylaria Region]]
+: the land the empire holds
+
+[[lore-vylarianclt|Vylarian]]
+: the people, their manners and their obligations
+
+[[place-orzara|Orzara]]
+: the capital
+
+[[affiliation-seldan|Seldan]]
+: the Senate
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: the dominant arcane order
+
+[[affiliation-vylrnmltry|Vylarian Military]]
+: the legions and the fleet
+
+[[doc-vylrnctznshp|Vylarian Citizenship]]
+: the citizen and the resident
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: former province, now independent rival
+
+[[place-helionis|Helionis]]
+: cultural heartland
+
+[[place-provenzrgn|Provenzia Region]]
+: former province, cultural inheritor
+
+[[place-vrystwald|Vristwald]]
+: the northern frontier
+
+[[place-vylarianse|Vylarian Sea]]
+: the empire's maritime domain
+
+[[skill-vylarilng|Vylari]]
+: the language and its naming conventions
+
+[[affiliation-provinclys|Province of Alessa]], [[affiliation-provnchyln|Province of Hilen]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Salkalon]]
+: the provinces
+
+[[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]
+: independent Vylari-speaking realm
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the state pantheon

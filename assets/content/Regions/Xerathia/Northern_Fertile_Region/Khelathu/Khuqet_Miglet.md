@@ -142,14 +142,35 @@ of the peace it is the garrison that is tolerated, not the clans.
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the country the march lies at the edge of
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the power that garrisons it
-- [[affiliation-selatzuzlqtt|The Selat of Zu-Zel-Iaqtet]]—the mining march the road leaves through
-- [[affiliation-selatiaqetlq|The Selat of Iaqet-Leqa]]—the well-selat behind the march
-- [[affiliation-seltkhqtmntq|The Selat of Khuqet-Imntiqa]]—the western desert-march whose name it mirrors
-- [[affiliation-borderselatu|The Border Selatu]]—the selatu the march is not one of
-- [[place-dunharargn|Dunhara Region]]—the desert the march faces
-- [[affiliation-dunhartrbs|Dunhara Tribes]]—the clans who contest it
-- [[being-trvshshrdr|Torvash Shiradar]]—the sheikh the garrison has made an enemy of
-- [[place-khzryndsrtrgn|Khazryn Desert]]—where the road goes on to
-- [[lore-eastroad|The Storm on the Eastern Road]]—the year the fort line began
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the country the march lies at the edge of
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: the power that garrisons it
+
+[[affiliation-selatzuzlqtt|The Selat of Zu-Zel-Iaqtet]]
+: the mining march the road leaves through
+
+[[affiliation-selatiaqetlq|The Selat of Iaqet-Leqa]]
+: the well-selat behind the march
+
+[[affiliation-seltkhqtmntq|The Selat of Khuqet-Imntiqa]]
+: the western desert-march whose name it mirrors
+
+[[affiliation-borderselatu|The Border Selatu]]
+: the selatu the march is not one of
+
+[[place-dunharargn|Dunhara Region]]
+: the desert the march faces
+
+[[affiliation-dunhartrbs|Dunhara Tribes]]
+: the clans who contest it
+
+[[being-trvshshrdr|Torvash Shiradar]]
+: the sheikh the garrison has made an enemy of
+
+[[place-khzryndsrtrgn|Khazryn Desert]]
+: where the road goes on to
+
+[[lore-eastroad|The Storm on the Eastern Road]]
+: the year the fort line began

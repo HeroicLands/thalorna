@@ -32,7 +32,14 @@ Winter is long and brutal, with months of near-total darkness; the short summer 
 
 ## See Also
 
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—the kingdom that holds this land
-- [[place-knalthstead|Knalthstead]]—the seat
-- [[place-domsey|Domsey]]—the ting island in Nordheim's waters
-- [[place-nrdlndsrgn|Nordlands Region]]—the enclosing region
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+: the kingdom that holds this land
+
+[[place-knalthstead|Knalthstead]]
+: the seat
+
+[[place-domsey|Domsey]]
+: the ting island in Nordheim's waters
+
+[[place-nrdlndsrgn|Nordlands Region]]
+: the enclosing region

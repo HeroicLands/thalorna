@@ -34,4 +34,5 @@ The Wagalu are kin, and that keeps them out of a quarrel they do not know they h
 
 ## See Also
 
-- [[lore-khelathiclt|Khelathi]]—why a band of kin is nobody's doctrinal business
+[[lore-khelathiclt|Khelathi]]
+: why a band of kin is nobody's doctrinal business

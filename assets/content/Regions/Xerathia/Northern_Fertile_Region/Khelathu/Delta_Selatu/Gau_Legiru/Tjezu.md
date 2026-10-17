@@ -25,6 +25,11 @@ The year turns on the vintage, and a good or bad season is felt in every househo
 
 ## See Also
 
-- [[affiliation-selatgaulegr|The Selat of Gau-Legiru]]—Parent selat
-- [[place-gau|Gau]]—Selat capital
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
+[[affiliation-selatgaulegr|The Selat of Gau-Legiru]]
+: Parent selat
+
+[[place-gau|Gau]]
+: Selat capital
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview

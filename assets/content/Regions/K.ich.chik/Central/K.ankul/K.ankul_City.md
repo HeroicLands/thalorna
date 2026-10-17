@@ -26,7 +26,14 @@ K'ankul trades in knowledge. Its scribes and mathematicians are paid extraordina
 
 ## See Also
 
-- [[affiliation-kankul|K'ankul]]—the realm of scribes and astronomers
-- [[place-kankulrgn|K'ankul Region]]—the limestone lowlands
-- [[affiliation-ixilankul|Ish'ilankul]]—the realm that depends on its astronomers
-- [[place-cntrlkchchk|Central K'ich'chik]]—the four realms of the heartland
+[[affiliation-kankul|K'ankul]]
+: the realm of scribes and astronomers
+
+[[place-kankulrgn|K'ankul Region]]
+: the limestone lowlands
+
+[[affiliation-ixilankul|Ish'ilankul]]
+: the realm that depends on its astronomers
+
+[[place-cntrlkchchk|Central K'ich'chik]]
+: the four realms of the heartland

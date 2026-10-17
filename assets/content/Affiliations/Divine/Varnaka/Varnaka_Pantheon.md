@@ -71,119 +71,243 @@ Four standings run through the faith.
 
 ### Vyalendra (_The Shaper of Worlds_)
 
-- **Aspect:** Creation
-- **Role:** God of creation and cosmic order, the architect of existence who shapes the earth, the skies and all life.
-- **Symbol:** A lotus with golden petals.
-- **Pronunciation:** _VYAH-len-drah_
-- **Spirits:** The **Shilpra-Kalas** (crafting spirits) assist mortals in art, architecture and innovation.
-- **Local Worship:** Revered in cities for their founding and prosperity.
+Aspect
+: Creation
+
+Role
+: God of creation and cosmic order, the architect of existence who shapes the earth, the skies and all life.
+
+Symbol
+: A lotus with golden petals.
+
+Pronunciation
+: _VYAH-len-drah_
+
+Spirits
+: The **Shilpra-Kalas** (crafting spirits) assist mortals in art, architecture and innovation.
+
+Local Worship
+: Revered in cities for their founding and prosperity.
 
 ### Mahajaya (_The Eternal Preserver_)
 
-- **Aspect:** Order and Prosperity
-- **Role:** Goddess of preservation, harmony and abundance, who governs the cycles of growth, trade and the well-being of a society.
-- **Symbol:** A balanced scale encircled by wheat.
-- **Pronunciation:** _MAH-ha-jah-yah_
-- **Spirits:** The **Nivara-Kshetras** (spirits of the fields) ensure bountiful harvests and economic balance.
-- **Local Worship:** Central in rural regions for agricultural blessings.
+Aspect
+: Order and Prosperity
+
+Role
+: Goddess of preservation, harmony and abundance, who governs the cycles of growth, trade and the well-being of a society.
+
+Symbol
+: A balanced scale encircled by wheat.
+
+Pronunciation
+: _MAH-ha-jah-yah_
+
+Spirits
+: The **Nivara-Kshetras** (spirits of the fields) ensure bountiful harvests and economic balance.
+
+Local Worship
+: Central in rural regions for agricultural blessings.
 
 ### Rasikara (_The Flame of Renewal_)
 
-- **Aspect:** Fire, Transformation and Chaos
-- **Role:** God of fire, destruction and change, who transforms through both destruction and rebirth, purging corruption and igniting growth.
-- **Symbol:** A flame rising from a broken circle.
-- **Pronunciation:** _RAH-see-kah-rah_
-- **Spirits:** The **Agmi-Pralayas** (spirits of purging fire) manifest during natural disasters and rituals of renewal.
-- **Local Worship:** Honored at temples during fire festivals.
+Aspect
+: Fire, Transformation and Chaos
+
+Role
+: God of fire, destruction and change, who transforms through both destruction and rebirth, purging corruption and igniting growth.
+
+Symbol
+: A flame rising from a broken circle.
+
+Pronunciation
+: _RAH-see-kah-rah_
+
+Spirits
+: The **Agmi-Pralayas** (spirits of purging fire) manifest during natural disasters and rituals of renewal.
+
+Local Worship
+: Honored at temples during fire festivals.
 
 ## Lesser Gods
 
 ### Kalavrata (_The Gatekeeper of Death_)
 
-- **Aspect:** Death
-- **Role:** A solitary god who oversees the passage of souls and guards the cycle of reincarnation. He is impartial, and revered for guiding the dead to their next life.
-- **Symbol:** A black conch shell.
-- **Pronunciation:** _KAH-lah-vrah-tah_
-- **Spirits:** The **Margapalas** (guiding spirits) lead souls through the afterlife.
-- **Local Worship:** Villages light lamps to honor their departed and ensure safe passage.
+Aspect
+: Death
+
+Role
+: A solitary god who oversees the passage of souls and guards the cycle of reincarnation. He is impartial, and revered for guiding the dead to their next life.
+
+Symbol
+: A black conch shell.
+
+Pronunciation
+: _KAH-lah-vrah-tah_
+
+Spirits
+: The **Margapalas** (guiding spirits) lead souls through the afterlife.
+
+Local Worship
+: Villages light lamps to honor their departed and ensure safe passage.
 
 ### Meghonata (_Lord of Thunder_)
 
-- **Aspect:** Storms
-- **Role:** God of storms, rain and protection, who ensures the balance of rain for crops and controls the fury of the monsoons.
-- **Symbol:** A drum encircled by lightning bolts.
-- **Pronunciation:** _MEG-ha-nah-tha_
-- **Local Worship:** Fishermen and farmers pray to him for protection and abundance.
+Aspect
+: Storms
+
+Role
+: God of storms, rain and protection, who ensures the balance of rain for crops and controls the fury of the monsoons.
+
+Symbol
+: A drum encircled by lightning bolts.
+
+Pronunciation
+: _MEG-ha-nah-tha_
+
+Local Worship
+: Fishermen and farmers pray to him for protection and abundance.
 
 ### Jnanasura (_The Radiant Sage_)
 
-- **Aspect:** Knowledge
-- **Role:** God of wisdom, learning and enlightenment, who grants insight to scholars, warriors and artisans.
-- **Symbol:** A radiant sun with an open book.
-- **Pronunciation:** _GYAH-nah-soo-rah_
-- **Spirits:** The **Vidsa-Karanas** (scribes of divine knowledge) inspire mortals.
-- **Local Worship:** Invoked at schools, libraries and before battles.
+Aspect
+: Knowledge
+
+Role
+: God of wisdom, learning and enlightenment, who grants insight to scholars, warriors and artisans.
+
+Symbol
+: A radiant sun with an open book.
+
+Pronunciation
+: _GYAH-nah-soo-rah_
+
+Spirits
+: The **Vidsa-Karanas** (scribes of divine knowledge) inspire mortals.
+
+Local Worship
+: Invoked at schools, libraries and before battles.
 
 ### Kamavrata (_The Celestial Lover_)
 
-- **Aspect:** Fertility and Lust
-- **Role:** God of fertility, passion and desire, who encourages the creation of life and the pursuit of love and joy.
-- **Symbol:** A blooming lotus entwined with vines.
-- **Pronunciation:** _KAH-mah-vrah-tah_
-- **Local Worship:** Celebrated during festivals of love and renewal.
+Aspect
+: Fertility and Lust
+
+Role
+: God of fertility, passion and desire, who encourages the creation of life and the pursuit of love and joy.
+
+Symbol
+: A blooming lotus entwined with vines.
+
+Pronunciation
+: _KAH-mah-vrah-tah_
+
+Local Worship
+: Celebrated during festivals of love and renewal.
 
 ### Vahrati (_The Keeper of Decay_)
 
-- **Aspect:** Decay
-- **Role:** Goddess of endings and transformation, who oversees the decay of old things to make way for new growth.
-- **Symbol:** A wilting flower encased in dew.
-- **Pronunciation:** _VYAH-hrah-tee_
-- **Local Worship:** Revered during seasonal transitions and harvest cycles.
+Aspect
+: Decay
+
+Role
+: Goddess of endings and transformation, who oversees the decay of old things to make way for new growth.
+
+Symbol
+: A wilting flower encased in dew.
+
+Pronunciation
+: _VYAH-hrah-tee_
+
+Local Worship
+: Revered during seasonal transitions and harvest cycles.
 
 ## Spiritual Courts
 
 ### Svapnadevas (_The Dreaming Host_)
 
-- **Aspect:** Dreams
-- **Role:** Celestial spirits who weave dreams, omens and visions and act as intermediaries between mortals and the divine. They are divine servants of [[lore-goddreams|The God of Dreams]], though the Varnuka do not name or directly worship that elder deity. They revere the [[affiliation-svapnadevas|Host]] itself.
-- **Symbol:** A crescent moon with a lotus stem.
-- **Pronunciation:** _SWAP-nah-day-vahs_
-- **Local Worship:** Seers and mystics invoke them in rites of prophecy.
+Aspect
+: Dreams
+
+Role
+: Celestial spirits who weave dreams, omens and visions and act as intermediaries between mortals and the divine. They are divine servants of [[lore-goddreams|The God of Dreams]], though the Varnuka do not name or directly worship that elder deity. They revere the [[affiliation-svapnadevas|Host]] itself.
+
+Symbol
+: A crescent moon with a lotus stem.
+
+Pronunciation
+: _SWAP-nah-day-vahs_
+
+Local Worship
+: Seers and mystics invoke them in rites of prophecy.
 
 ### Pavanajitras (_The Wandering Wind_)
 
-- **Aspect:** Voyager and Traveler
-- **Role:** A collective of wind spirits that guide travelers and merchants on their journeys.
-- **Symbol:** A wind-filled sail.
-- **Pronunciation:** _PAH-vah-nah-jee-trahs_
-- **Local Worship:** Honored at crossroads and trade routes.
+Aspect
+: Voyager and Traveler
+
+Role
+: A collective of wind spirits that guide travelers and merchants on their journeys.
+
+Symbol
+: A wind-filled sail.
+
+Pronunciation
+: _PAH-vah-nah-jee-trahs_
+
+Local Worship
+: Honored at crossroads and trade routes.
 
 ## See Also
 
 **Deities, principal gods:**
 
-- [[affiliation-vyalendra|Vyalendra]]—creation and the shaping power
-- [[affiliation-mahajaya|Mahajaya]]—order, preservation, prosperity
-- [[affiliation-rasikara|Rasikara]]—fire, transformation, renewal
+[[affiliation-vyalendra|Vyalendra]]
+: creation and the shaping power
+
+[[affiliation-mahajaya|Mahajaya]]
+: order, preservation, prosperity
+
+[[affiliation-rasikara|Rasikara]]
+: fire, transformation, renewal
 
 **Deities, lesser gods:**
 
-- [[affiliation-kalavrata|Kalavrata]]—death and the passage of souls
-- [[affiliation-meghanatha|Meghonata]]—storms and the monsoon
-- [[affiliation-jnanasura|Jnanasura]]—knowledge and enlightenment
-- [[affiliation-kamavrata|Kamavrata]]—fertility, love, desire
-- [[affiliation-vyahrati|Vahrati]]—decay, endings, gentle release
+[[affiliation-kalavrata|Kalavrata]]
+: death and the passage of souls
+
+[[affiliation-meghanatha|Meghonata]]
+: storms and the monsoon
+
+[[affiliation-jnanasura|Jnanasura]]
+: knowledge and enlightenment
+
+[[affiliation-kamavrata|Kamavrata]]
+: fertility, love, desire
+
+[[affiliation-vyahrati|Vahrati]]
+: decay, endings, gentle release
 
 **Deities, spiritual courts:**
 
-- [[affiliation-svapnadevas|Svapnadevas]]—the Dreaming Host
-- [[affiliation-pavanajitras|Pavanajitras]]—the Wandering Wind
+[[affiliation-svapnadevas|Svapnadevas]]
+: the Dreaming Host
+
+[[affiliation-pavanajitras|Pavanajitras]]
+: the Wandering Wind
 
 **Sample schools:**
 
-- [[affiliation-trimurtisampradaya|Triyanga-sampradeya]]—the Tradition of the Three Forms: orthodox civic religion and balanced veneration of the cosmic triad
-- [[affiliation-vyalendravada|Vyalendravada]]—the Doctrine of Vyalendra: monistic and scholarly, tied to the great academies and the building trades
-- [[affiliation-agnipantha|Agmi-pantra]]—the Path of the Flame: ascetic, reformist and mendicant, centered on Rasikara's purification
-- [[affiliation-svapnasarisamaja|Svapnasari-sameja]]—the Assembly of the Dream-Followers: mystical and contemplative, oneiromancers and visionary counselors
+[[affiliation-trimurtisampradaya|Triyanga-sampradeya]]
+: the Tradition of the Three Forms: orthodox civic religion and balanced veneration of the cosmic triad
+
+[[affiliation-vyalendravada|Vyalendravada]]
+: the Doctrine of Vyalendra: monistic and scholarly, tied to the great academies and the building trades
+
+[[affiliation-agnipantha|Agmi-pantra]]
+: the Path of the Flame: ascetic, reformist and mendicant, centered on Rasikara's purification
+
+[[affiliation-svapnasarisamaja|Svapnasari-sameja]]
+: the Assembly of the Dream-Followers: mystical and contemplative, oneiromancers and visionary counselors
 
 **Regions:** [[place-vedyarargn|Vedyara Region]]

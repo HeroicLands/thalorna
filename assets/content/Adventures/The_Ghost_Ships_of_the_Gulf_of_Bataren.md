@@ -90,12 +90,23 @@ The party discovers the ghost ships' origin and nature:
 
 **Possible Sources:**
 
-- **Historical Tragedy:** The ships sank in a disaster (storm, battle, sabotage) centuries or decades ago; something has awakened them
-- **Unfinished Business:** The crews died with a quest unfulfilled (lost cargo, betrayal, oath to complete, treasure to recover)
-- **Deliberate Curse:** Someone cursed the ships and crews, either recently or long ago, for a specific purpose
-- **Magical Accident:** An arcane experiment or spell gone wrong awakened or created the ghost ships
-- **Fae Entanglement:** The ships are trapped between worlds due to fae manipulation or interference
-- **The Thordimalon Involvement:** The organization deliberately created or summoned the ships to achieve a goal
+Historical Tragedy
+: The ships sank in a disaster (storm, battle, sabotage) centuries or decades ago; something has awakened them
+
+Unfinished Business
+: The crews died with a quest unfulfilled (lost cargo, betrayal, oath to complete, treasure to recover)
+
+Deliberate Curse
+: Someone cursed the ships and crews, either recently or long ago, for a specific purpose
+
+Magical Accident
+: An arcane experiment or spell gone wrong awakened or created the ghost ships
+
+Fae Entanglement
+: The ships are trapped between worlds due to fae manipulation or interference
+
+The Thordimalon Involvement
+: The organization deliberately created or summoned the ships to achieve a goal
 
 **What the Ghosts Seek:**
 

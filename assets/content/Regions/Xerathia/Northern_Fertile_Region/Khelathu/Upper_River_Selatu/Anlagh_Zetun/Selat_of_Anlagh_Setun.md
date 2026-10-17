@@ -80,9 +80,20 @@ Anlagh-Zetun uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], but its econom
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—parent selat class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—imperial overview
-- [[place-anlaghzetun|Anlagh-Zetun]]—selat capital
-- [[place-amqelulegez|Amqelu-Legez]]—the selat's river-port
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the gods, Qe'aret among them
-- [[place-anlaghztnslt|Anlagh-Zetun Selat]]—the land the selat holds
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: parent selat class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: imperial overview
+
+[[place-anlaghzetun|Anlagh-Zetun]]
+: selat capital
+
+[[place-amqelulegez|Amqelu-Legez]]
+: the selat's river-port
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: the gods, Qe'aret among them
+
+[[place-anlaghztnslt|Anlagh-Zetun Selat]]
+: the land the selat holds

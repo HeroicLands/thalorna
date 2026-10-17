@@ -8,11 +8,20 @@ tags: [draft, first-gods]
 data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
-- **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]
-- **Seat:** [[place-drenavrspn|the Drenavar Spine]]
-- **Territory:** one long ridge and the packs that run it
-- **Posture:** Venerated
-- **Met through:** [[skill-porsandsprt|Korsand Spirit Power]]
+Kind
+: Animal-kin, of [[lore-thekindred|the Kindred]]
+
+Seat
+: [[place-drenavrspn|the Drenavar Spine]]
+
+Territory
+: one long ridge and the packs that run it
+
+Posture
+: Venerated
+
+Met through
+: [[skill-porsandsprt|Korsand Spirit Power]]
 
 Korsand is the presiding spirit of the wolves of one long ridge—not a wolf, and not all wolves,
 but the ancestral presence the packs of that ridge belong to. He is the Kindred most Áelendan hunt-

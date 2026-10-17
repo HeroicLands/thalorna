@@ -28,5 +28,8 @@ Falkenstein's argument is the frontier's oldest one, repeated in both directions
 
 ## See Also
 
-- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—The independent villages whose western frontier this fort holds
-- [[place-falkhaven|Falkhaven]]—The western reach it guards
+[[affiliation-vrystwldtrbs|Vristwald Tribes]]
+: The independent villages whose western frontier this fort holds
+
+[[place-falkhaven|Falkhaven]]
+: The western reach it guards

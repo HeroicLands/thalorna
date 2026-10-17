@@ -319,23 +319,32 @@ It feeds and fights in heat that sends other desert hunters to ground, and a noo
 
 ## Attributes
 
-- **Strength:** 10-15 (1d6+9)
+Strength
+: 10-15 (1d6+9)
 
-- **Endurance:** 8-13 (1d6+7)
+Endurance
+: 8-13 (1d6+7)
 
-- **Dexterity:** 12-17 (1d6+11)
+Dexterity
+: 12-17 (1d6+11)
 
-- **Agility:** 13-18 (1d6+12)
+Agility
+: 13-18 (1d6+12)
 
-- **Perception:** 13-18 (1d6+12)
+Perception
+: 13-18 (1d6+12)
 
-- **Aura:** 7-10 (1d4+6)
+Aura
+: 7-10 (1d4+6)
 
-- **Will:** 9-14 (1d6+8)
+Will
+: 9-14 (1d6+8)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 5-8 (1d4+4)
+Creativity
+: 5-8 (1d4+4)
 
 ## A Hook
 

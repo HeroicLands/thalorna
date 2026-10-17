@@ -47,9 +47,20 @@ The March is a passage and a pasture. Its own produce is barley, cattle, timber 
 
 ## See Also
 
-- [[place-byzariargn|Bizaria Region]]—the region the March belongs to
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation that commissions its lord
-- [[affiliation-khryshteikhos|Krusteikhos]]—the city that anchors it
-- [[place-velanthrgn|Velanthia Region]]—the country it faces
-- [[place-nrdlndsrgn|Nordlands Region]]—beyond Velanthia, source of merchants and mercenaries
-- [[place-eastrnmrch|Eastern March]], [[place-southrnmrch|Southern March]]—the League's other marches
+[[place-byzariargn|Bizaria Region]]
+: the region the March belongs to
+
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation that commissions its lord
+
+[[affiliation-khryshteikhos|Krusteikhos]]
+: the city that anchors it
+
+[[place-velanthrgn|Velanthia Region]]
+: the country it faces
+
+[[place-nrdlndsrgn|Nordlands Region]]
+: beyond Velanthia, source of merchants and mercenaries
+
+[[place-eastrnmrch|Eastern March]], [[place-southrnmrch|Southern March]]
+: the League's other marches

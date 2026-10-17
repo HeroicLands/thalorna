@@ -157,9 +157,14 @@ The kingdom's economy runs inward and then out again: raw material from the four
 
 ## Notable Features
 
-- **[[lore-faecourts|The Fae Courts]]:** Rumored to exist in the deepest forests, these otherworldly courts are said to be ruled by beings of immense power who occasionally meddle in mortal affairs.
-- **[[affiliation-bardicolgs|The Bardic Colleges]]:** Institutions of learning that combine musical training, oral history, magical study, and diplomacy. Élavendren bards serve as ambassadors, historians, and spies across Mídhalión.
-- **[[place-silvrfrsts|The Silver Forests]]:** Ancient woodland said to be planted by the fae themselves, where the trees have bark that gleams like metal in moonlight.
+[[lore-faecourts|The Fae Courts]]
+: Rumored to exist in the deepest forests, these otherworldly courts are said to be ruled by beings of immense power who occasionally meddle in mortal affairs.
+
+[[affiliation-bardicolgs|The Bardic Colleges]]
+: Institutions of learning that combine musical training, oral history, magical study, and diplomacy. Élavendren bards serve as ambassadors, historians, and spies across Mídhalión.
+
+[[place-silvrfrsts|The Silver Forests]]
+: Ancient woodland said to be planted by the fae themselves, where the trees have bark that gleams like metal in moonlight.
 
 ## Character
 
@@ -167,11 +172,26 @@ The forests are old—genuinely ancient in a way that the cleared, farmed landsc
 
 ## See Also
 
-- [[place-aelwyth|Aelwyth]]—Island off the western coast
-- [[place-provenzrgn|Provenzia Region]]—Eastern neighbor and cultural cousin
-- [[affiliation-vylarinmpr|Vylarian Empire]]—Former imperial overlord
-- [[skill-elvndrlng|Élavendri]]—Naming conventions (Élavendri)
-- [[affiliation-arldnpnthn|Aureldian]]—Primary pantheon
-- [[affiliation-kngdmlvndr|Kingdom of Élavendre]]—Polity details
-- [[lore-flksinale|Sinale]]—The elder race with enclaves in Élavendre's forests
-- [[lore-flkkhazar|Khazari]]—The second elder race (no known presence in Élavendre)
+[[place-aelwyth|Aelwyth]]
+: Island off the western coast
+
+[[place-provenzrgn|Provenzia Region]]
+: Eastern neighbor and cultural cousin
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: Former imperial overlord
+
+[[skill-elvndrlng|Élavendri]]
+: Naming conventions (Élavendri)
+
+[[affiliation-arldnpnthn|Aureldian]]
+: Primary pantheon
+
+[[affiliation-kngdmlvndr|Kingdom of Élavendre]]
+: Polity details
+
+[[lore-flksinale|Sinale]]
+: The elder race with enclaves in Élavendre's forests
+
+[[lore-flkkhazar|Khazari]]
+: The second elder race (no known presence in Élavendre)

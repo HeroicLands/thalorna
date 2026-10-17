@@ -16,9 +16,20 @@ Mysterious and patient, owls are nocturnal predators that silently observe their
 
 An Owl person waits calmly and watches for the right moment to act. Others sense a mystery in the person and take patience and thoughtfulness for wisdom.
 
-- **Physical:** Large, wide eyes; silent, smooth movements.
-- **Behavioral:** Patient, mysterious, often working silently behind the scenes.
-- **Positive:** Wise, patient, and observant.
-- **Negative:** Overly enigmatic, isolated, and may delay actions excessively waiting for the perfect moment.
-- **Minor Trait ([[sohl-none-doctrauma-engmtc|Enigmatic]]):** Quiet and hard to read, keeping their thoughts to themselves and offering insights only when they choose, on their own terms.
-- **Major Disorder ([[sohl-none-doctrauma-avoidant|Avoidant]]):** So deeply withdrawn and emotionally distant that they seem to exist in a world apart, unreachable even by those closest to them.
+Physical
+: Large, wide eyes; silent, smooth movements.
+
+Behavioral
+: Patient, mysterious, often working silently behind the scenes.
+
+Positive
+: Wise, patient, and observant.
+
+Negative
+: Overly enigmatic, isolated, and may delay actions excessively waiting for the perfect moment.
+
+Minor Trait ([[sohl-none-doctrauma-engmtc|Enigmatic]])
+: Quiet and hard to read, keeping their thoughts to themselves and offering insights only when they choose, on their own terms.
+
+Major Disorder ([[sohl-none-doctrauma-avoidant|Avoidant]])
+: So deeply withdrawn and emotionally distant that they seem to exist in a world apart, unreachable even by those closest to them.

@@ -22,7 +22,14 @@ The city is more austere than the other League cities: less ornate, more functio
 
 ## See Also
 
-- [[affiliation-argyrteikhos|Argirteikhos]]—the city-state, its governor and its council
-- [[place-byzariargn|Bizaria Region]]—the League's country
-- [[place-eastrnmrch|Eastern March]]—the frontier the citadel faces
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation its silver defends
+[[affiliation-argyrteikhos|Argirteikhos]]
+: the city-state, its governor and its council
+
+[[place-byzariargn|Bizaria Region]]
+: the League's country
+
+[[place-eastrnmrch|Eastern March]]
+: the frontier the citadel faces
+
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation its silver defends

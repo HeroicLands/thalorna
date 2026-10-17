@@ -294,9 +294,20 @@ He ended on "Give the ring, or do not," before the jarl and the jarl's hall, in 
 
 ## See Also
 
-- [[affiliation-skaldscrcl|Skalds' Circle]]—the _geldra_, the Skaldating and the truth of the recital
-- [[place-domsey|Domsey]]—the ting island and the seat that follows the grant
-- [[lore-nrdlndswhal|The Whale Strand]]—the law of the stranded whale in a failed winter
-- [[lore-nordheimnclt|Nordheimn]]—the door-seat, the failed winter and the reckoning after death
-- [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—the gap in the wall, the headland stone and the thrall's grave
-- [[skill-nordmalng|Nordmal Language]]—the _hnerv_, the _hulma_ and the words of the whale and the seal
+[[affiliation-skaldscrcl|Skalds' Circle]]
+: the _geldra_, the Skaldating and the truth of the recital
+
+[[place-domsey|Domsey]]
+: the ting island and the seat that follows the grant
+
+[[lore-nrdlndswhal|The Whale Strand]]
+: the law of the stranded whale in a failed winter
+
+[[lore-nordheimnclt|Nordheimn]]
+: the door-seat, the failed winter and the reckoning after death
+
+[[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]
+: the gap in the wall, the headland stone and the thrall's grave
+
+[[skill-nordmalng|Nordmal Language]]
+: the _hnerv_, the _hulma_ and the words of the whale and the seal

@@ -437,6 +437,11 @@ Her receiving household and companions are continuing relationships, not a debt 
 
 ## Plot Hooks
 
-1. **The Brass Fastening**—A trader offers a family possession and an account of the raiders. Help establish its provenance before Withrún mistakes a stolen object for proof of its current owner's guilt.
-2. **Room in the Boat**—Escort displaced households through a disputed landing. Withrún needs companions who can negotiate passage and share the work while she guards the vulnerable.
-3. **A Pledge Already Given**—A suspected raider is held under a ransom pledge. Keep the captive safe, find witnesses and bring a claim to the living chiefs while others urge Withrún to break the promise.
+The Brass Fastening
+: A trader offers a family possession and an account of the raiders. Help establish its provenance before Withrún mistakes a stolen object for proof of its current owner's guilt.
+
+Room in the Boat
+: Escort displaced households through a disputed landing. Withrún needs companions who can negotiate passage and share the work while she guards the vulnerable.
+
+A Pledge Already Given
+: A suspected raider is held under a ransom pledge. Keep the captive safe, find witnesses and bring a claim to the living chiefs while others urge Withrún to break the promise.

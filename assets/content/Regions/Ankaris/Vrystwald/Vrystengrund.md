@@ -20,5 +20,8 @@ data:
 
 ## See Also
 
-- [[place-vethwald|Vethwald]]—the Deepwood the village stands in
-- [[lore-wintertally|The Tally of Winters]]—the age in which the custom took shape
+[[place-vethwald|Vethwald]]
+: the Deepwood the village stands in
+
+[[lore-wintertally|The Tally of Winters]]
+: the age in which the custom took shape

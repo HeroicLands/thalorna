@@ -35,6 +35,11 @@ Veshvaan is reached only by water, half a day by boat from the eastern shore, an
 
 ## See Also
 
-- [[place-klhrmassif|The Massif]]—the mount the sanctuary stands on
-- [[affiliation-tharivaan|Thári'vaan]]—the custodians, their ranks and their sanctuaries
-- [[place-thalari|Thal'ari]] and [[place-mirthaan|Mirthaan]]—two other sanctuaries of the island
+[[place-klhrmassif|The Massif]]
+: the mount the sanctuary stands on
+
+[[affiliation-tharivaan|Thári'vaan]]
+: the custodians, their ranks and their sanctuaries
+
+[[place-thalari|Thal'ari]] and [[place-mirthaan|Mirthaan]]
+: two other sanctuaries of the island

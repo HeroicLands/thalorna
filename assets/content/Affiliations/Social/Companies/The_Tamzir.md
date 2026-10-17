@@ -105,6 +105,11 @@ The Tamzir is not fast, not pretty, and not young. She is a broad-beamed coastal
 
 ## Plot Hooks
 
-1. **Ghosts of Tamzir Shoals**: A survivor of the original battle contacts the captain with evidence that the Taruzelian victory was engineered—that someone manipulated both sides of the war for their own purposes. The truth could destabilize the Confederation.
-2. **The Order Closes In**: A Thordimalon (the Arcane Order) _sekeros_ (inquirer) arrives in port with a writ of seizure for the Tamzir itself, naming the ship as an instrument of arcane fugitive transport. The crew must decide whether to run, fight, or find a legal defense—and any of those options has consequences.
-3. **A Paying Passenger**: A wealthy traveler offers an enormous sum for passage to a destination the crew would rather avoid. The money could solve half their problems, but the passenger is not what they seem.
+Ghosts of Tamzir Shoals
+: A survivor of the original battle contacts the captain with evidence that the Taruzelian victory was engineered—that someone manipulated both sides of the war for their own purposes. The truth could destabilize the Confederation.
+
+The Order Closes In
+: A Thordimalon (the Arcane Order) _sekeros_ (inquirer) arrives in port with a writ of seizure for the Tamzir itself, naming the ship as an instrument of arcane fugitive transport. The crew must decide whether to run, fight, or find a legal defense—and any of those options has consequences.
+
+A Paying Passenger
+: A wealthy traveler offers an enormous sum for passage to a destination the crew would rather avoid. The money could solve half their problems, but the passenger is not what they seem.

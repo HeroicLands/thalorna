@@ -37,7 +37,14 @@ The village lies a day along the coast path from Nalurithan, through mangrove an
 
 ## See Also
 
-- [[place-telvari|Telvari]]—the pilots' islet to the north
-- [[place-nalurithan|Nalurithan]]—the second port, down the coast
-- [[place-thalari|Thal'ari]]—the sanctuary whose custodians tend the current-stones
-- [[place-kaliharargn|Kalihara Region]]—the island's country
+[[place-telvari|Telvari]]
+: the pilots' islet to the north
+
+[[place-nalurithan|Nalurithan]]
+: the second port, down the coast
+
+[[place-thalari|Thal'ari]]
+: the sanctuary whose custodians tend the current-stones
+
+[[place-kaliharargn|Kalihara Region]]
+: the island's country

@@ -78,14 +78,35 @@ Ankarian contact with Kalihara is commercially significant and culturally thin. 
 
 ## See Also
 
-- [[place-kaliharargn|Kalihara Region]]—the island's inhabited country, which is nearly all of it
-- [[place-klhrring|The Ring]], [[place-klhrbowl|the Bowl]], [[place-klhrlake|the Bowl Lake]] and [[place-klhrmassif|the Massif]]—the island's mountains, basin, lake and mount
-- [[place-dldrmsea|The Doldrum Sea]]—the calms on the long way home
-- [[affiliation-kalihara|Kalihara]]—the Kaliharan civilization and its councils
-- [[affiliation-tharivaan|Thári'vaan]]—the Living Whole and its custodians
-- [[place-ilovanu|Ilovanu]]—the principal port
-- [[place-provenzrgn|Provenzia Region]] and [[place-okharisrgn|Okharis Region]]—the nearest coasts, four hundred and fifty to seven hundred miles east
-- [[place-vylarianse|Vylarian Sea]]—the inner sea whose western strait is the door to Kalihara
-- [[place-kchchkcntnnt|K'ich'chik]]—the next land west, across open ocean
-- [[lore-flksinale|Sinale]], [[lore-flkkhazar|Khazari]]—Elder Races whose settlement Kalihara refused
-- [[place-worldthlrn|The World of Thalorna]]—world overview
+[[place-kaliharargn|Kalihara Region]]
+: the island's inhabited country, which is nearly all of it
+
+[[place-klhrring|The Ring]], [[place-klhrbowl|the Bowl]], [[place-klhrlake|the Bowl Lake]] and [[place-klhrmassif|the Massif]]
+: the island's mountains, basin, lake and mount
+
+[[place-dldrmsea|The Doldrum Sea]]
+: the calms on the long way home
+
+[[affiliation-kalihara|Kalihara]]
+: the Kaliharan civilization and its councils
+
+[[affiliation-tharivaan|Thári'vaan]]
+: the Living Whole and its custodians
+
+[[place-ilovanu|Ilovanu]]
+: the principal port
+
+[[place-provenzrgn|Provenzia Region]] and [[place-okharisrgn|Okharis Region]]
+: the nearest coasts, four hundred and fifty to seven hundred miles east
+
+[[place-vylarianse|Vylarian Sea]]
+: the inner sea whose western strait is the door to Kalihara
+
+[[place-kchchkcntnnt|K'ich'chik]]
+: the next land west, across open ocean
+
+[[lore-flksinale|Sinale]], [[lore-flkkhazar|Khazari]]
+: Elder Races whose settlement Kalihara refused
+
+[[place-worldthlrn|The World of Thalorna]]
+: world overview

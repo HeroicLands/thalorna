@@ -48,9 +48,14 @@ sohl: {system: {commonSkills: []}}
 
 A letter of credit under the Auric Compact's seal is accepted as currency across the [[place-midhalnrgn|Mídhalión Region]], and a contract that carries the seal binds as tightly as any court order. That seal is how most people meet the most powerful institution in the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—more powerful, in practice, than the [Grand Council]{.name data-type="affiliation/governmental"} it nominally serves. The Compact is a cartel of banking houses, trading firms and commodity brokers, and it controls the flow of capital that Taruzelian commerce runs on. Ships sail because the Compact finances them, cargoes move because it insures them, and governments function because it lends to them.
 
-- **Kind:** merchant guild in banking, trade finance and commodity markets
-- **Reach:** the Confederation, with agents across Mídhalión
-- **Headquarters:** [[affiliation-besikar|Besikar]]
+Kind
+: merchant guild in banking, trade finance and commodity markets
+
+Reach
+: the Confederation, with agents across Mídhalión
+
+Headquarters
+: [[affiliation-besikar|Besikar]]
 
 ## Counting Houses and Agents
 
@@ -68,6 +73,11 @@ Those enforcers are the people most likely to cross paths with the crew of [[aff
 
 ## See Also
 
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the parent polity
-- [[affiliation-corsairleg|Corsair League]], [[affiliation-mrchntryvl|Merchantry of the Veil]]—the rival guilds
-- [[affiliation-besikar|Besikar]]—the headquarters
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the parent polity
+
+[[affiliation-corsairleg|Corsair League]], [[affiliation-mrchntryvl|Merchantry of the Veil]]
+: the rival guilds
+
+[[affiliation-besikar|Besikar]]
+: the headquarters

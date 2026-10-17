@@ -439,20 +439,40 @@ Planthash is driven by a desire to leave a mark upon his craft that goes beyond 
 
 ### Strengths
 
-- **Endurance**: A capacity for relentless physical labor that allows him to work through exhaustion, storms, and injury without complaint. His endurance of 17 makes him ideally suited for the grueling demands of maritime labor.
-- **Masterful Seamanship**: Years at sea have granted him expertise in navigation, ship handling, and reading weather patterns. His seamanship skill of 12 base represents practical knowledge others take years to acquire.
-- **Swimming Excellence**: A natural affinity for water and outstanding swimming ability (14 base) that has saved his life more than once and grants him comfort in situations others find terrifying.
-- **Fishing Expertise**: Beyond mere subsistence, his fishing knowledge borders on the intuitive, allowing him to locate and harvest fish in conditions others consider hopeless.
-- **Physical Capability**: Raw strength and climbing ability make him useful for dangerous rigging work, hauling cargo, and maintaining vessels in treacherous conditions.
-- **Culinary Competence**: An often-overlooked skill, his cooking (base 12 with four specializations) keeps crews fed on provisions that might otherwise prove monotonous or nutritionally deficient.
+Endurance
+: A capacity for relentless physical labor that allows him to work through exhaustion, storms, and injury without complaint. His endurance of 17 makes him ideally suited for the grueling demands of maritime labor.
+
+Masterful Seamanship
+: Years at sea have granted him expertise in navigation, ship handling, and reading weather patterns. His seamanship skill of 12 base represents practical knowledge others take years to acquire.
+
+Swimming Excellence
+: A natural affinity for water and outstanding swimming ability (14 base) that has saved his life more than once and grants him comfort in situations others find terrifying.
+
+Fishing Expertise
+: Beyond mere subsistence, his fishing knowledge borders on the intuitive, allowing him to locate and harvest fish in conditions others consider hopeless.
+
+Physical Capability
+: Raw strength and climbing ability make him useful for dangerous rigging work, hauling cargo, and maintaining vessels in treacherous conditions.
+
+Culinary Competence
+: An often-overlooked skill, his cooking (base 12 with four specializations) keeps crews fed on provisions that might otherwise prove monotonous or nutritionally deficient.
 
 ### Weaknesses
 
-- **Limited Dexterity**: His large frame was not built for delicate work; fine manipulation of small objects or craftwork frustrates him, and he is prone to accidents in such tasks.
-- **Blunt Communication**: While his straightforward manner builds trust with those who appreciate honesty, it alienates those accustomed to social subtlety or diplomacy. He sometimes offends without realizing it.
-- **Resistance to Authority**: Planthash respects competence and follows those who prove themselves through demonstrated skill, but he chafes under arbitrary orders or leadership he considers undeserved.
-- **Limited Book Learning**: His education centered on practical knowledge; he reads and writes adequately but possesses minimal formal knowledge of history, mathematics, or philosophy.
-- **Emotional Reticence**: His tendency to keep feelings private means he rarely seeks help, confides in others, or expresses vulnerability, which can isolate him even among friends.
+Limited Dexterity
+: His large frame was not built for delicate work; fine manipulation of small objects or craftwork frustrates him, and he is prone to accidents in such tasks.
+
+Blunt Communication
+: While his straightforward manner builds trust with those who appreciate honesty, it alienates those accustomed to social subtlety or diplomacy. He sometimes offends without realizing it.
+
+Resistance to Authority
+: Planthash respects competence and follows those who prove themselves through demonstrated skill, but he chafes under arbitrary orders or leadership he considers undeserved.
+
+Limited Book Learning
+: His education centered on practical knowledge; he reads and writes adequately but possesses minimal formal knowledge of history, mathematics, or philosophy.
+
+Emotional Reticence
+: His tendency to keep feelings private means he rarely seeks help, confides in others, or expresses vulnerability, which can isolate him even among friends.
 
 ## Social
 
@@ -482,12 +502,17 @@ Bizarian Seafarers' Loose Network
 
 ## Plot Hooks
 
-1. **The Lost Design**: A mysterious stranger seeks out Planthash in a harborside tavern, claiming to represent a wealthy merchant prince interested in commissioning an experimental vessel design. The stranger reveals knowledge of Planthash's journal sketches, though he has never shown them to anyone. This unexpected attention forces Planthash to consider whether his private ambitions might finally become reality—or whether something darker lies beneath the offer.
+The Lost Design
+: A mysterious stranger seeks out Planthash in a harborside tavern, claiming to represent a wealthy merchant prince interested in commissioning an experimental vessel design. The stranger reveals knowledge of Planthash's journal sketches, though he has never shown them to anyone. This unexpected attention forces Planthash to consider whether his private ambitions might finally become reality—or whether something darker lies beneath the offer.
 
-2. **Wrecked Legacy**: Planthash encounters **Captain Krozerazur** in desperate circumstances—his vessel has been sabotaged, his crew scattered, and mysterious enemies pursue him. Krozerazur refuses to explain the circumstances but implores Planthash to help him hide a sealed cargo and disappear into anonymity. Planthash must choose between loyalty to his mentor and his own safety, all while discovering that Krozerazur may not be the man he always believed him to be.
+Wrecked Legacy
+: Planthash encounters **Captain Krozerazur** in desperate circumstances—his vessel has been sabotaged, his crew scattered, and mysterious enemies pursue him. Krozerazur refuses to explain the circumstances but implores Planthash to help him hide a sealed cargo and disappear into anonymity. Planthash must choose between loyalty to his mentor and his own safety, all while discovering that Krozerazur may not be the man he always believed him to be.
 
-3. **The Philosopher's Question**: A learned scholar from the interior cities hires passage aboard a League vessel to gain access to maritime archives Planthash uses for his research. The scholar becomes fascinated by Planthash's journals, recognizing in the ship designs the mathematical principles underlying an ancient text the scholar is attempting to decode. Together, they begin to realize that Planthash's intuitive designs may hold the key to understanding a lost civilization's navigational secrets—attracting interest from parties both academic and dangerous.
+The Philosopher's Question
+: A learned scholar from the interior cities hires passage aboard a League vessel to gain access to maritime archives Planthash uses for his research. The scholar becomes fascinated by Planthash's journals, recognizing in the ship designs the mathematical principles underlying an ancient text the scholar is attempting to decode. Together, they begin to realize that Planthash's intuitive designs may hold the key to understanding a lost civilization's navigational secrets—attracting interest from parties both academic and dangerous.
 
-4. **Crew Rebellion**: Planthash assumes temporary command of a merchant vessel when the captain falls gravely ill. A portion of the crew, led by a charismatic mutineer, questions his authority and attempts to redirect the ship toward piracy. Planthash must balance maintaining order without unnecessary bloodshed, protecting the vulnerable crew members who remain loyal, and reaching port where legitimate authority can address the situation.
+Crew Rebellion
+: Planthash assumes temporary command of a merchant vessel when the captain falls gravely ill. A portion of the crew, led by a charismatic mutineer, questions his authority and attempts to redirect the ship toward piracy. Planthash must balance maintaining order without unnecessary bloodshed, protecting the vulnerable crew members who remain loyal, and reaching port where legitimate authority can address the situation.
 
-5. **The Cursed Trade**: A wealthy merchant hires Planthash for what should be a routine transport mission, but the voyage becomes increasingly strange—supplies spoil despite proper storage, sailors report uncanny sounds in the hold, and navigational instruments malfunction repeatedly. Planthash's practical mind struggles to find rational explanations, yet the evidence suggests something unnatural may be aboard. He must investigate whether the cargo itself carries a curse, whether a passenger harbors dark intentions, or whether forces beyond understanding have targeted the vessel.
+The Cursed Trade
+: A wealthy merchant hires Planthash for what should be a routine transport mission, but the voyage becomes increasingly strange—supplies spoil despite proper storage, sailors report uncanny sounds in the hold, and navigational instruments malfunction repeatedly. Planthash's practical mind struggles to find rational explanations, yet the evidence suggests something unnatural may be aboard. He must investigate whether the cargo itself carries a curse, whether a passenger harbors dark intentions, or whether forces beyond understanding have targeted the vessel.

@@ -432,12 +432,17 @@ None; respected by the local community.
 
 ## Plot Hooks
 
-1. **The Huntsman's Dilemma**—Poachers thin the lord's game, and Skilfvir has to choose between reporting men he knows and failing the lord he serves.
+The Huntsman's Dilemma
+: Poachers thin the lord's game, and Skilfvir has to choose between reporting men he knows and failing the lord he serves.
 
-2. **Old Grudges**—Skilfvir has no known enemies, so a grudge against him would come from outside the community that respects him.
+Old Grudges
+: Skilfvir has no known enemies, so a grudge against him would come from outside the community that respects him.
 
-3. **Echoes of the Past**—Something from Skilfvir's earlier life resurfaces and follows him onto the lord's grounds.
+Echoes of the Past
+: Something from Skilfvir's earlier life resurfaces and follows him onto the lord's grounds.
 
-4. **Shifting Winds**—Political change in Nordheim threatens the manor Skilfvir depends upon, and he can adapt, resist, or leave.
+Shifting Winds
+: Political change in Nordheim threatens the manor Skilfvir depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—Another lord offers Skilfvir the mastery of a greater hunt than Ashenwood's, and the price of leaving Lord Gnildrmil is not named up front.
+The Opportunity
+: Another lord offers Skilfvir the mastery of a greater hunt than Ashenwood's, and the price of leaving Lord Gnildrmil is not named up front.

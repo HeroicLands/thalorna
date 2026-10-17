@@ -21,14 +21,22 @@ A Warlord with his army mustered and the passes open waits for a woman in a blue
 
 The [[lore-castelaws|Caste Laws]] give the scholars three rights:
 
-- **Counsel**: the exclusive right to advise the Zhazho and Wohou on celestial matters and the reading of heaven's will.
-- **The texts**: the sole right to possess, study and interpret the forbidden books and relics.
-- **No arms**: release from the obligation to bear arms or march with an army, though many advise commanders in the field.
+Counsel
+: the exclusive right to advise the Zhazho and Wohou on celestial matters and the reading of heaven's will.
+
+The texts
+: the sole right to possess, study and interpret the forbidden books and relics.
+
+No arms
+: release from the obligation to bear arms or march with an army, though many advise commanders in the field.
 
 They hold the scholars to two restrictions:
 
-- **Fidelity to the Teng Lou**: every counsel and every interpretation upholds the Heavenly Law, and a scholar found shading a reading to please a patron is stripped of rank.
-- **No magic**: astrology and foretelling are the only arts the caste may practice. They are reckoning, not sorcery, and a Tanchéi who works anything more is executed like anyone else who poaches on the [[lore-wanduo|Wánduo]] monopoly.
+Fidelity to the Teng Lou
+: every counsel and every interpretation upholds the Heavenly Law, and a scholar found shading a reading to please a patron is stripped of rank.
+
+No magic
+: astrology and foretelling are the only arts the caste may practice. They are reckoning, not sorcery, and a Tanchéi who works anything more is executed like anyone else who poaches on the [[lore-wanduo|Wánduo]] monopoly.
 
 ## Naming and Honors
 
@@ -46,10 +54,23 @@ In the [[lore-phlsphyleiwo|Leiwo]] framework the Tanchéi are the keepers of int
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]]—rights and restrictions governing the Tanchéi
-- [[lore-clndrstrlgy|Calendar and Astrology]]—the reckoning the scholars keep
-- [[lore-tseising|Law and Honor]]—the Heavenly Law the scholars interpret
-- [[lore-zhazho|Zhazho]]—the Emperor and Warlords the scholars counsel
-- [[lore-wohou|Wohou]]—the warrior nobility, the caste above
-- [[lore-tsaihuo|Tsaihuo]]—artisans and soldiers, the caste below
-- [[affiliation-tantsouempr|Empire of Tantsou]]—overview of imperial governance and structure
+[[lore-castelaws|Caste Laws]]
+: rights and restrictions governing the Tanchéi
+
+[[lore-clndrstrlgy|Calendar and Astrology]]
+: the reckoning the scholars keep
+
+[[lore-tseising|Law and Honor]]
+: the Heavenly Law the scholars interpret
+
+[[lore-zhazho|Zhazho]]
+: the Emperor and Warlords the scholars counsel
+
+[[lore-wohou|Wohou]]
+: the warrior nobility, the caste above
+
+[[lore-tsaihuo|Tsaihuo]]
+: artisans and soldiers, the caste below
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: overview of imperial governance and structure

@@ -22,8 +22,17 @@ Under the hill lie the galleries where the dragon mounts of the **[Dragon Riders
 
 ## See Also
 
-- [[place-sixhillsvyl|Six Hills]]—the hills of Orzara
-- [[place-arvon|Arvon]]—the Inner City on its crown
-- [[lore-eaglecityrse|The Raising of the Eagle City]]—the wall built over the sealed galleries
-- [[lore-ridersdisb|The Lease Refused]]—the sealing of the Eyrie
-- [[lore-thebargain|The Bargain]]—the dragons and the Republic
+[[place-sixhillsvyl|Six Hills]]
+: the hills of Orzara
+
+[[place-arvon|Arvon]]
+: the Inner City on its crown
+
+[[lore-eaglecityrse|The Raising of the Eagle City]]
+: the wall built over the sealed galleries
+
+[[lore-ridersdisb|The Lease Refused]]
+: the sealing of the Eyrie
+
+[[lore-thebargain|The Bargain]]
+: the dragons and the Republic

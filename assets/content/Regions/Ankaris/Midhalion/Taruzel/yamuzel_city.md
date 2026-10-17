@@ -26,7 +26,14 @@ Yamuzel is home to a large community of sailors and marines from the war of inde
 
 ## See Also
 
-- [[affiliation-yamuzel|Yamuzel]]—the city-state and its Admiral's Council
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the confederation
-- [[affiliation-corsairleg|Corsair League]]—the guild with the strongest roots here
-- [[place-tamzirshoals|Tamzir Shoals]]—the battle the Fleet Review remembers
+[[affiliation-yamuzel|Yamuzel]]
+: the city-state and its Admiral's Council
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the confederation
+
+[[affiliation-corsairleg|Corsair League]]
+: the guild with the strongest roots here
+
+[[place-tamzirshoals|Tamzir Shoals]]
+: the battle the Fleet Review remembers

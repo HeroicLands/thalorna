@@ -432,12 +432,17 @@ Few; generally respected in her community.
 
 ## Plot Hooks
 
-1. **The Innkeeper's Dilemma**—Ilmara faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
+The Innkeeper's Dilemma
+: Ilmara faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
 
-2. **Old Grudges**—Few; generally respected in her community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: Few; generally respected in her community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Ilmara's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+Echoes of the Past
+: Something from Ilmara's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarvénia threaten to upend the social order that Ilmara depends upon. She must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Tarvénia threaten to upend the social order that Ilmara depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Ilmara the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Ilmara the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

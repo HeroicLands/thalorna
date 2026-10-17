@@ -28,4 +28,5 @@ The **Delta Quays** are flat, brackish and cut by tidal channels where the river
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region

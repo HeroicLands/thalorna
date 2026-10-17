@@ -448,21 +448,43 @@ Dvilgthira is driven primarily by the need to survive, to maintain stability and
 
 ### Strengths
 
-- **Observation and Intuition**: She reads people with great accuracy, understanding motivations and moods through subtle cues. This skill has made her indispensable as a household manager and confidante.
-- **Skilled in Domestic Arts**: Her cooking is excellent, her housekeeping immaculate, and her management of servants and household resources highly competent. Few in the kingdom could manage a household as well as she does.
-- **Pragmatic Intelligence**: She understands systems—how money flows, how authority structures work, how to manage the rivalries and alliances within the servant hierarchy. She is naturally gifted at finding solutions to practical problems.
-- **Resourcefulness and Problem-Solving**: Working with limited resources, she has learned to improvise and make do with what is available. She can solve complex household management challenges with rare creativity.
-- **Survival Instinct**: Twenty years of a dangerous and uncertain existence have honed her ability to assess threats and respond appropriately. She knows how to survive.
-- **Linguistic Ability**: She speaks multiple languages, a skill acquired from listening to the household's many visiting merchants and nobles. This could be valuable in contexts beyond her current station.
+Observation and Intuition
+: She reads people with great accuracy, understanding motivations and moods through subtle cues. This skill has made her indispensable as a household manager and confidante.
+
+Skilled in Domestic Arts
+: Her cooking is excellent, her housekeeping immaculate, and her management of servants and household resources highly competent. Few in the kingdom could manage a household as well as she does.
+
+Pragmatic Intelligence
+: She understands systems—how money flows, how authority structures work, how to manage the rivalries and alliances within the servant hierarchy. She is naturally gifted at finding solutions to practical problems.
+
+Resourcefulness and Problem-Solving
+: Working with limited resources, she has learned to improvise and make do with what is available. She can solve complex household management challenges with rare creativity.
+
+Survival Instinct
+: Twenty years of a dangerous and uncertain existence have honed her ability to assess threats and respond appropriately. She knows how to survive.
+
+Linguistic Ability
+: She speaks multiple languages, a skill acquired from listening to the household's many visiting merchants and nobles. This could be valuable in contexts beyond her current station.
 
 ### Weaknesses
 
-- **Learned Helplessness and Submissiveness**: Years of slavery have conditioned her to accept her fate, to not fight for her own interests. She would struggle to assert herself even if opportunity for freedom presented itself.
-- **Anxiety and Fear of Punishment**: She lives in constant low-level fear of discipline and punishment. Loud voices or unexpected anger from authority figures can cause her significant distress.
-- **Internalized Belief in Her Own Worthlessness**: Despite her obvious competence and intelligence, she believes on a fundamental level that free people are more human than she is, that she deserves her position. Overcoming this will require deep healing.
-- **Lack of Combat or Physical Defense Skills**: She has never been trained to fight and would be helpless in physical confrontation. Her body is designed for labor, not combat.
-- **Social Isolation**: Her position as both servant and above-servants means she belongs to neither community. She has no true friends or trusted confidantes who know her whole self.
-- **Dependence on Her Master's Will**: Everything about her life—her shelter, food, security—depends entirely on Lord Anthorv's continued whim. Without him, she has nothing.
+Learned Helplessness and Submissiveness
+: Years of slavery have conditioned her to accept her fate, to not fight for her own interests. She would struggle to assert herself even if opportunity for freedom presented itself.
+
+Anxiety and Fear of Punishment
+: She lives in constant low-level fear of discipline and punishment. Loud voices or unexpected anger from authority figures can cause her significant distress.
+
+Internalized Belief in Her Own Worthlessness
+: Despite her obvious competence and intelligence, she believes on a fundamental level that free people are more human than she is, that she deserves her position. Overcoming this will require deep healing.
+
+Lack of Combat or Physical Defense Skills
+: She has never been trained to fight and would be helpless in physical confrontation. Her body is designed for labor, not combat.
+
+Social Isolation
+: Her position as both servant and above-servants means she belongs to neither community. She has no true friends or trusted confidantes who know her whole self.
+
+Dependence on Her Master's Will
+: Everything about her life—her shelter, food, security—depends entirely on Lord Anthorv's continued whim. Without him, she has nothing.
 
 ## Social
 
@@ -487,12 +509,17 @@ None. As an enslaved person in the Kingdom of Malagna, she is forbidden by law f
 
 ## Plot Hooks
 
-1. **The Hidden Will**: A traveler comes to the household as a guest and, during his stay, witnesses Dvilgthira's competence and kindness. When he leaves, he leaves behind a carefully hidden letter, written by an old woman who claims to be Dvilgthira's mother. The letter speaks of a legal action, filed decades ago but buried in bureaucratic processes, that could potentially free her. The traveler promises to return to help her pursue this claim. Dvilgthira faces an agonizing dilemma: hope that freedom is possible, or accept her fate and protect herself from the devastating disappointment that could follow. If she pursues this, she may betray her master's trust, placing her in danger.
+The Hidden Will
+: A traveler comes to the household as a guest and, during his stay, witnesses Dvilgthira's competence and kindness. When he leaves, he leaves behind a carefully hidden letter, written by an old woman who claims to be Dvilgthira's mother. The letter speaks of a legal action, filed decades ago but buried in bureaucratic processes, that could potentially free her. The traveler promises to return to help her pursue this claim. Dvilgthira faces an agonizing dilemma: hope that freedom is possible, or accept her fate and protect herself from the devastating disappointment that could follow. If she pursues this, she may betray her master's trust, placing her in danger.
 
-2. **The Magical Binding**: Lord Anthorv falls gravely ill and in his delirium reveals to Dvilgthira that her servitude is bound by more than legal contracts—she has been magically bound to the household by a dark ritual performed on her as a child, something designed to prevent her from escaping or even wanting to escape. A mysterious figure, perhaps a mage or a freed slave, contacts her and offers to break the binding, but doing so requires an act of betrayal against her master. More troublingly, she is not certain the binding is truly constraining her, or if she has simply accepted slavery so completely that the magic is no longer necessary—the chains might be entirely in her mind.
+The Magical Binding
+: Lord Anthorv falls gravely ill and in his delirium reveals to Dvilgthira that her servitude is bound by more than legal contracts—she has been magically bound to the household by a dark ritual performed on her as a child, something designed to prevent her from escaping or even wanting to escape. A mysterious figure, perhaps a mage or a freed slave, contacts her and offers to break the binding, but doing so requires an act of betrayal against her master. More troublingly, she is not certain the binding is truly constraining her, or if she has simply accepted slavery so completely that the magic is no longer necessary—the chains might be entirely in her mind.
 
-3. **The Secret Pregnancy**: Dvilgthira discovers she is pregnant, possibly from an assault by a visiting nobleman that she was powerless to prevent. She has no rights as a mother—any child born to a slave becomes property of her master or can be sold away. She desperately seeks help, approaching a sympathetic visitor who might help her escape before the pregnancy becomes apparent. This desperate flight could be the beginning of freedom or could lead to her recapture and terrible punishment if discovered.
+The Secret Pregnancy
+: Dvilgthira discovers she is pregnant, possibly from an assault by a visiting nobleman that she was powerless to prevent. She has no rights as a mother—any child born to a slave becomes property of her master or can be sold away. She desperately seeks help, approaching a sympathetic visitor who might help her escape before the pregnancy becomes apparent. This desperate flight could be the beginning of freedom or could lead to her recapture and terrible punishment if discovered.
 
-4. **The Household in Decline**: Lord Anthorv, aging and showing signs of serious illness, begins to make concerning decisions about his estate. Dvilgthira realizes that upon his death, her position is not secure—she might be sold as part of the estate settlement or simply abandoned. She begins secretly educating herself in the household accounts and Lord Anthorv's finances, attempting to position herself somehow to survive his death. Her actions risk appearing treacherous if discovered, but inaction guarantees her vulnerability.
+The Household in Decline
+: Lord Anthorv, aging and showing signs of serious illness, begins to make concerning decisions about his estate. Dvilgthira realizes that upon his death, her position is not secure—she might be sold as part of the estate settlement or simply abandoned. She begins secretly educating herself in the household accounts and Lord Anthorv's finances, attempting to position herself somehow to survive his death. Her actions risk appearing treacherous if discovered, but inaction guarantees her vulnerability.
 
-5. **The Underground Movement**: A member of an underground network helping enslaved people achieve freedom makes contact with Dvilgthira. The network is apparently well-funded and effective, having successfully moved dozens of people to freedom over recent years. They believe Dvilgthira's skills—her intelligence, her knowledge of the household, her ability to move unsuspected—would be of great value to their cause. They ask her to become an agent within noble households, gathering information or subtly assisting escapes. Helping would be deeply dangerous, requiring her to maintain the pretense of absolute loyalty while actually working against her master. But it would also mean becoming part of something larger than her own survival, connecting her to a community dedicated to liberation.
+The Underground Movement
+: A member of an underground network helping enslaved people achieve freedom makes contact with Dvilgthira. The network is apparently well-funded and effective, having successfully moved dozens of people to freedom over recent years. They believe Dvilgthira's skills—her intelligence, her knowledge of the household, her ability to move unsuspected—would be of great value to their cause. They ask her to become an agent within noble households, gathering information or subtly assisting escapes. Helping would be deeply dangerous, requiring her to maintain the pretense of absolute loyalty while actually working against her master. But it would also mean becoming part of something larger than her own survival, connecting her to a community dedicated to liberation.

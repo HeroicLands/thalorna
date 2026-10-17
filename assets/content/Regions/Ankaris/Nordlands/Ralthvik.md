@@ -16,5 +16,8 @@ The village remembers, in the songs of the [[doc-heroessgrd|Heroes of Asguard]],
 
 ## See Also
 
-- [[being-sklfrvthndrstrk|Skalforv Thunderstrike]]—the hero who saved the village
-- [[place-nrdlndsrgn|Nordlands]]—the region along whose coast it lies
+[[being-sklfrvthndrstrk|Skalforv Thunderstrike]]
+: the hero who saved the village
+
+[[place-nrdlndsrgn|Nordlands]]
+: the region along whose coast it lies

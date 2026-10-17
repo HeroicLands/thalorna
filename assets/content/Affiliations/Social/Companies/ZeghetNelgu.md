@@ -89,14 +89,29 @@ The hunt answers to [[being-azunmtkhlfrh|Azunmat Khelafirahu]], a noble of the M
 
 The roster stands at eight:
 
-- [[being-azunmtkhlfrh|Azunmat Khelafirahu]]—Steersman. Ritualist and warrior, keeper of the old rites. Absolute in authority and under siege.
-- [[being-imhugepuzebr|Imhugepu Zeber]]—Wazu (acolyte) of the Hunt. Reads the river gods' will before each expedition. Elderly and wise, though the pronouncements have become hard to follow, and some suspect failing sight.
-- [[being-khelitymnkth|Khelityu Menkathi]]—Master Harpoonist. Scarred and confident, and the deadliest hand on the water with the sacred harpoons.
-- [[being-gajeguluqztr|Gajegulu Kuztar]]—Boatmaster. Handles the reed boats so well that none has ever been lost to the currents. The family has served the Khetai for four generations.
-- [[being-zephrthmlshg|Zefrethu Malu'Shegatu]]—Shield-bearer and second-in-command. A young noble of a rival Meglay family, ambitious and a little too sure of their own skill. Azunmat suspects Zefrethu of reporting to the Halzi'a.
-- [[being-akhrethuazar|Akhrethu Azari]]—Archer and scout. The smallest member of the party and the deadliest at range, watching the shoreline for threats. A commoner from the delta and not Meglay, which the others never let Akhrethu forget.
-- [[being-ganomublhfrd|Ganomu Balehfardu]]—Net-master and gamesman. Handles the ceremonial nets that capture rather than kill, and enjoys the pageantry more than the danger. Ganomu's father was Steersman before Azunmat.
-- [[being-thaiyalenurt|Thaiya Lenuret]]—Apprentice healer and record-keeper. The youngest member, in a first full hunting season. The Khetai are watching whether Thaiya has the stomach for the work and the talent for the temple politics that come with it.
+[[being-azunmtkhlfrh|Azunmat Khelafirahu]]
+: Steersman. Ritualist and warrior, keeper of the old rites. Absolute in authority and under siege.
+
+[[being-imhugepuzebr|Imhugepu Zeber]]
+: Wazu (acolyte) of the Hunt. Reads the river gods' will before each expedition. Elderly and wise, though the pronouncements have become hard to follow, and some suspect failing sight.
+
+[[being-khelitymnkth|Khelityu Menkathi]]
+: Master Harpoonist. Scarred and confident, and the deadliest hand on the water with the sacred harpoons.
+
+[[being-gajeguluqztr|Gajegulu Kuztar]]
+: Boatmaster. Handles the reed boats so well that none has ever been lost to the currents. The family has served the Khetai for four generations.
+
+[[being-zephrthmlshg|Zefrethu Malu'Shegatu]]
+: Shield-bearer and second-in-command. A young noble of a rival Meglay family, ambitious and a little too sure of their own skill. Azunmat suspects Zefrethu of reporting to the Halzi'a.
+
+[[being-akhrethuazar|Akhrethu Azari]]
+: Archer and scout. The smallest member of the party and the deadliest at range, watching the shoreline for threats. A commoner from the delta and not Meglay, which the others never let Akhrethu forget.
+
+[[being-ganomublhfrd|Ganomu Balehfardu]]
+: Net-master and gamesman. Handles the ceremonial nets that capture rather than kill, and enjoys the pageantry more than the danger. Ganomu's father was Steersman before Azunmat.
+
+[[being-thaiyalenurt|Thaiya Lenuret]]
+: Apprentice healer and record-keeper. The youngest member, in a first full hunting season. The Khetai are watching whether Thaiya has the stomach for the work and the talent for the temple politics that come with it.
 
 ## Territory
 
@@ -146,9 +161,20 @@ The company serves a game master in several ways:
 
 ## See Also
 
-- [[place-zumeleshrvr|The Zumelesh]]—the river whose southern reach the company holds
-- [[place-drownstones|The Drowned Stones]]—the carved walls beneath the southern marsh
-- [[affiliation-igelnaru|Faith of Igelnaru]]—the river god the hunt appeases
-- [[affiliation-tjelsuk|Faith of Tjelsur]]—the crocodile cult, aligned with the hunt
-- [[affiliation-garnuw|Gar'Nuw]]—the guild that licenses the river's professional cullers
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the gods
+[[place-zumeleshrvr|The Zumelesh]]
+: the river whose southern reach the company holds
+
+[[place-drownstones|The Drowned Stones]]
+: the carved walls beneath the southern marsh
+
+[[affiliation-igelnaru|Faith of Igelnaru]]
+: the river god the hunt appeases
+
+[[affiliation-tjelsuk|Faith of Tjelsur]]
+: the crocodile cult, aligned with the hunt
+
+[[affiliation-garnuw|Gar'Nuw]]
+: the guild that licenses the river's professional cullers
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: the gods

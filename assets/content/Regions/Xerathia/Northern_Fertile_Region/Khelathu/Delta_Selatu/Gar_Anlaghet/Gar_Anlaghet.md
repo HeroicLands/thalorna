@@ -33,7 +33,14 @@ The harbor never sleeps. Grain, papyrus, linen, gold and exquisite artisan work 
 
 ## See Also
 
-- [[affiliation-selatgrnlght|The Selat of Gar-Anlaghet]]—Parent selat
-- [[affiliation-deltaselatu|The Delta Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—Chief trading partner
+[[affiliation-selatgrnlght|The Selat of Gar-Anlaghet]]
+: Parent selat
+
+[[affiliation-deltaselatu|The Delta Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: Chief trading partner

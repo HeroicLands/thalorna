@@ -107,18 +107,36 @@ The present age. [[place-nordheim|Nordheim]] settlers planted their hall-posts i
 
 Each age's count is a fixed offset from a Vylarian year, and a day of the season is the same day of the Vylarian year, so only the year changes.
 
-- **[The Posts at Hrindstead]{.name data-type="lore/calendar"}:** add 707 for the year AF. 13 PH is 720 AF.
-- **The Thrall Rivers:** add 659. 1 TR is 660 AF.
-- **[The Southern Raiding]{.name data-type="lore/calendar"}:** add 339. 176 SR is 515 AF.
-- **The Legions' Road:** add 119. 172 LR is 291 AF.
-- **[The Mound Centuries]{.name data-type="lore/calendar"}:** the first 1,100 winters fall before the Founding, so subtract the winter from 1,101 for the year BF; from 1,101 MC, subtract 1,100 for the year AF.
-- **The Taking of the Wood:** subtract the winter from 1,251 for the year BF. 1 TW is 1250 BF.
+[The Posts at Hrindstead]{.name data-type="lore/calendar"}
+: add 707 for the year AF. 13 PH is 720 AF.
+
+The Thrall Rivers
+: add 659. 1 TR is 660 AF.
+
+[The Southern Raiding]{.name data-type="lore/calendar"}
+: add 339. 176 SR is 515 AF.
+
+The Legions' Road
+: add 119. 172 LR is 291 AF.
+
+[The Mound Centuries]{.name data-type="lore/calendar"}
+: the first 1,100 winters fall before the Founding, so subtract the winter from 1,101 for the year BF; from 1,101 MC, subtract 1,100 for the year AF.
+
+The Taking of the Wood
+: subtract the winter from 1,251 for the year BF. 1 TW is 1250 BF.
 
 No reciter counts a Mound Century winter, and nobody in the forest has ever needed to. The early ages are counted here so that a Varokh account and a Vylarian record can be set side by side.
 
 ## See Also
 
-- [[lore-commoncal|The Vylarian Calendar]]—the count the forest's winters are carried to
-- [[lore-varokhiclt|Varokhi]]—Weskskald, the _eldskorn_ and the three seats
-- [[place-vrystwald|Vristwald]]—the forest the ages belong to
-- [[lore-bloodfield|Blood-fields]]—Skathhreth and Grimak among the fields every people names
+[[lore-commoncal|The Vylarian Calendar]]
+: the count the forest's winters are carried to
+
+[[lore-varokhiclt|Varokhi]]
+: Weskskald, the _eldskorn_ and the three seats
+
+[[place-vrystwald|Vristwald]]
+: the forest the ages belong to
+
+[[lore-bloodfield|Blood-fields]]
+: Skathhreth and Grimak among the fields every people names

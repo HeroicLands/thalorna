@@ -16,9 +16,20 @@ Majestic and communicative, whales are highly social marine mammals that travel 
 
 Whale people are sociable and expressive, and value deep ties with others. They use speech to build relationships and handle company with grace and clarity.
 
-- **Physical:** Large, commanding presence; graceful in movement.
-- **Behavioral:** Majestic, highly communicative, cooperative in social structures.
-- **Positive:** Social, expressive, and empathetic.
-- **Negative:** Can become overwhelmed by group dynamics and may struggle with solitary tasks.
-- **Minor Trait ([[sohl-none-doctrauma-snstv|Sensitive]]):** Deeply attuned to the emotions of those around them, easily moved by the moods of others and sometimes wounded by what others would shrug off.
-- **Major Disorder ([[sohl-none-doctrauma-avoidant|Avoidant]]):** Exquisitely sensitive to the moods and judgments of others, withdrawing at the faintest hint of rejection into isolated melancholy.
+Physical
+: Large, commanding presence; graceful in movement.
+
+Behavioral
+: Majestic, highly communicative, cooperative in social structures.
+
+Positive
+: Social, expressive, and empathetic.
+
+Negative
+: Can become overwhelmed by group dynamics and may struggle with solitary tasks.
+
+Minor Trait ([[sohl-none-doctrauma-snstv|Sensitive]])
+: Deeply attuned to the emotions of those around them, easily moved by the moods of others and sometimes wounded by what others would shrug off.
+
+Major Disorder ([[sohl-none-doctrauma-avoidant|Avoidant]])
+: Exquisitely sensitive to the moods and judgments of others, withdrawing at the faintest hint of rejection into isolated melancholy.

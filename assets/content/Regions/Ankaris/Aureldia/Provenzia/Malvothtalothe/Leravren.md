@@ -24,6 +24,11 @@ That lord is **[Kaldin al Lénavel na Leravren]{.name data-type="being/npc"}**, 
 
 ## See Also
 
-- [[place-ilovren|Ilovren]]—the lordship of Kaldin's ally
-- [[affiliation-blackflame|The Black Flame]]—the faith its lord serves
-- [[place-talothe|Talote]]—the march it belongs to
+[[place-ilovren|Ilovren]]
+: the lordship of Kaldin's ally
+
+[[affiliation-blackflame|The Black Flame]]
+: the faith its lord serves
+
+[[place-talothe|Talote]]
+: the march it belongs to

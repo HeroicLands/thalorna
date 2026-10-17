@@ -229,20 +229,29 @@ Fire burns its translucent body and overwhelms its senses, and a burning torch t
 
 ## Attributes
 
-- **Strength:** 6-9 (1d4+5)
+Strength
+: 6-9 (1d4+5)
 
-- **Endurance:** 7-12 (1d6+6)
+Endurance
+: 7-12 (1d6+6)
 
-- **Dexterity:** 11-16 (1d6+10)
+Dexterity
+: 11-16 (1d6+10)
 
-- **Agility:** 7-12 (1d6+6)
+Agility
+: 7-12 (1d6+6)
 
-- **Perception:** 14-17 (1d4+13)
+Perception
+: 14-17 (1d4+13)
 
-- **Aura:** 11-16 (1d6+10)
+Aura
+: 11-16 (1d6+10)
 
-- **Will:** 10-13 (1d4+9)
+Will
+: 10-13 (1d4+9)
 
-- **Reasoning:** 7-12 (1d6+6)
+Reasoning
+: 7-12 (1d6+6)
 
-- **Creativity:** 10-13 (1d4+9)
+Creativity
+: 10-13 (1d4+9)

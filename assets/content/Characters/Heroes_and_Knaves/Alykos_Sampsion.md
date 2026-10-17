@@ -446,21 +446,43 @@ Privately, Alikos is also motivated by a need for mastery and control—not of p
 
 ### Strengths
 
-- **Medical Expertise**: His physician skill, with four specializations, is mastery of the healing arts. There are few ailments within the Bizarian League that Alikos cannot diagnose or treat with great effect. His knowledge encompasses herbalism, surgical technique, and the subtle signs of internal disease.
-- **Perception**: His perception lets him notice minute signs—a discoloration of the lips suggesting anemia, a tremor indicating nerve damage, a subtle smell indicating certain infections. Few details escape his observation.
-- **Extensive Herbal and Alchemical Knowledge**: His herblore and brewing skills are considerable, allowing him to create medicines, tinctures, and remedies of great potency. His knowledge of mineral properties and their medicinal uses has few equals.
-- **Eloquence and Discourse**: His ability to communicate complex medical concepts clearly makes him an effective teacher and consultant. Patients understand his explanations; students grasp his lessons; other healers respect his reasoning.
-- **Intellectual Reasoning**: His reasoning allows him to draw observations together into theories, identify patterns across diverse cases, and make intuitive leaps that advance his understanding of disease.
-- **Charm and Empathy**: Despite his intensity, his compassion and ability to make patients feel understood are themselves a great part of the cure. He instinctively understands the emotional side of suffering.
+Medical Expertise
+: His physician skill, with four specializations, is mastery of the healing arts. There are few ailments within the Bizarian League that Alikos cannot diagnose or treat with great effect. His knowledge encompasses herbalism, surgical technique, and the subtle signs of internal disease.
+
+Perception
+: His perception lets him notice minute signs—a discoloration of the lips suggesting anemia, a tremor indicating nerve damage, a subtle smell indicating certain infections. Few details escape his observation.
+
+Extensive Herbal and Alchemical Knowledge
+: His herblore and brewing skills are considerable, allowing him to create medicines, tinctures, and remedies of great potency. His knowledge of mineral properties and their medicinal uses has few equals.
+
+Eloquence and Discourse
+: His ability to communicate complex medical concepts clearly makes him an effective teacher and consultant. Patients understand his explanations; students grasp his lessons; other healers respect his reasoning.
+
+Intellectual Reasoning
+: His reasoning allows him to draw observations together into theories, identify patterns across diverse cases, and make intuitive leaps that advance his understanding of disease.
+
+Charm and Empathy
+: Despite his intensity, his compassion and ability to make patients feel understood are themselves a great part of the cure. He instinctively understands the emotional side of suffering.
 
 ### Weaknesses
 
-- **Emotional Burden**: The accumulated weight of patient deaths, incurable illnesses, and cases beyond his reach has left Alikos emotionally fragile. He is prone to despondency, occasionally verging on despair when faced with particularly tragic cases.
-- **Work Obsession**: His tendency to become entirely focused on the problems of his practice means he neglects personal relationships, his own health, and his own grief. Those close to him struggle with his absence even when physically present.
-- **Reduced Physical Capability**: His focus on intellectual pursuits has left his physical strength and endurance modest compared to those of more active lifestyles. He tires more easily than younger or more vigorous companions.
-- **Perfectionism**: His high standards and unwillingness to accept limitations in his own knowledge mean he is frequently frustrated with the gaps in medical knowledge, or with colleagues whose understanding falls short of his own expectations.
-- **Limited Combat Ability**: His lack of martial training makes him vulnerable in physical conflict, a limitation that troubles him intellectually even if not practically.
-- **Social Isolation**: His intensity and tendency to dominate conversation with technical medical details make company awkward for him. Most casual friendships have dwindled over the years.
+Emotional Burden
+: The accumulated weight of patient deaths, incurable illnesses, and cases beyond his reach has left Alikos emotionally fragile. He is prone to despondency, occasionally verging on despair when faced with particularly tragic cases.
+
+Work Obsession
+: His tendency to become entirely focused on the problems of his practice means he neglects personal relationships, his own health, and his own grief. Those close to him struggle with his absence even when physically present.
+
+Reduced Physical Capability
+: His focus on intellectual pursuits has left his physical strength and endurance modest compared to those of more active lifestyles. He tires more easily than younger or more vigorous companions.
+
+Perfectionism
+: His high standards and unwillingness to accept limitations in his own knowledge mean he is frequently frustrated with the gaps in medical knowledge, or with colleagues whose understanding falls short of his own expectations.
+
+Limited Combat Ability
+: His lack of martial training makes him vulnerable in physical conflict, a limitation that troubles him intellectually even if not practically.
+
+Social Isolation
+: His intensity and tendency to dominate conversation with technical medical details make company awkward for him. Most casual friendships have dwindled over the years.
 
 ## Social
 
@@ -493,12 +515,17 @@ The Circle of Medical Scholars
 
 ## Plot Hooks
 
-1. **The Plague**: A mysterious illness begins spreading through the League's port cities, bearing symptoms Alikos has never encountered before. The disease progresses rapidly and proves resistant to standard treatments. As the affliction spreads, panic grows, and desperate patients flock to Alikos seeking a cure. He becomes locked in an intellectual race against the disease itself, attempting to understand its nature before it claims thousands. The investigation reveals that the plague may not be natural—someone or something may have deliberately unleashed it.
+The Plague
+: A mysterious illness begins spreading through the League's port cities, bearing symptoms Alikos has never encountered before. The disease progresses rapidly and proves resistant to standard treatments. As the affliction spreads, panic grows, and desperate patients flock to Alikos seeking a cure. He becomes locked in an intellectual race against the disease itself, attempting to understand its nature before it claims thousands. The investigation reveals that the plague may not be natural—someone or something may have deliberately unleashed it.
 
-2. **The Unethical Experiment**: Alikos discovers evidence that another physician, **Yenaze**, has been conducting unauthorized medical experiments on prison inmates and the desperately poor, seemingly attempting to replicate or understand the mechanisms of a rare disease. When Alikos threatens to expose her, she counters that her work has advanced medical knowledge more than a century of conventional practice—and that some discoveries require sacrifices. She offers Alikos the choice to join her research or watch as she uses her considerable influence to destroy his reputation.
+The Unethical Experiment
+: Alikos discovers evidence that another physician, **Yenaze**, has been conducting unauthorized medical experiments on prison inmates and the desperately poor, seemingly attempting to replicate or understand the mechanisms of a rare disease. When Alikos threatens to expose her, she counters that her work has advanced medical knowledge more than a century of conventional practice—and that some discoveries require sacrifices. She offers Alikos the choice to join her research or watch as she uses her considerable influence to destroy his reputation.
 
-3. **The Impossible Patient**: A patient is brought to Alikos bearing a condition so bizarre, so contradictory to all medical knowledge, that he cannot begin to understand what he is observing. The patient is simultaneously fevered and hypothermic, displays symptoms of diseases that should not occur together, and seems to exist in a state of bodily contradiction. As Alikos struggles to understand the case, he begins to suspect that conventional medicine will not provide answers—that something beyond the natural world may be involved.
+The Impossible Patient
+: A patient is brought to Alikos bearing a condition so bizarre, so contradictory to all medical knowledge, that he cannot begin to understand what he is observing. The patient is simultaneously fevered and hypothermic, displays symptoms of diseases that should not occur together, and seems to exist in a state of bodily contradiction. As Alikos struggles to understand the case, he begins to suspect that conventional medicine will not provide answers—that something beyond the natural world may be involved.
 
-4. **The Apprentice's Tragedy**: Alikos's most promising student, **Young Kylis**, comes to him desperate for help after making a terrible mistake—a patient under the apprentice's care has been poisoned, and Kylis suspects his own preparation of medicine was at fault. The situation is complicated by the fact that the patient is the child of a powerful noble, and if the truth is discovered, Kylis will be executed. Alikos can protect his student or investigate the truth, and may discover that the poisoning was deliberate—perhaps even intended to frame Kylis.
+The Apprentice's Tragedy
+: Alikos's most promising student, **Young Kylis**, comes to him desperate for help after making a terrible mistake—a patient under the apprentice's care has been poisoned, and Kylis suspects his own preparation of medicine was at fault. The situation is complicated by the fact that the patient is the child of a powerful noble, and if the truth is discovered, Kylis will be executed. Alikos can protect his student or investigate the truth, and may discover that the poisoning was deliberate—perhaps even intended to frame Kylis.
 
-5. **The Healer's Dilemma**: A wealthy merchant seeks Alikos's care for a condition that, while treatable, will require months of expensive treatment and significant lifestyle changes. The merchant, however, is willing to pay triple Alikos's normal fees for a "quicker solution"—poison disguised as medicine that will appear to be a natural death, allowing the merchant's heir to claim inheritance. The merchant reveals that he is terminally ill regardless, simply tired of lingering in pain, and offers the money not for himself but as compensation for Alikos's trouble.
+The Healer's Dilemma
+: A wealthy merchant seeks Alikos's care for a condition that, while treatable, will require months of expensive treatment and significant lifestyle changes. The merchant, however, is willing to pay triple Alikos's normal fees for a "quicker solution"—poison disguised as medicine that will appear to be a natural death, allowing the merchant's heir to claim inheritance. The merchant reveals that he is terminally ill regardless, simply tired of lingering in pain, and offers the money not for himself but as compensation for Alikos's trouble.

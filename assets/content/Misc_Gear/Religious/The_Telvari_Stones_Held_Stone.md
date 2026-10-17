@@ -22,7 +22,14 @@ If the Telvari Stone stops, this stone goes cold in the hand and stays cold. If 
 
 ## See Also
 
-- [[place-telvaristone|The Telvari Stone]]—the work the stone belongs to
-- [[place-telvari|Telvari]]—the islet whose pilots' households kept it
-- [[affiliation-wardensapproaches|The Wardens of the Approaches]]—the pilots, who answer to the Warden of the Approaches
-- [[lore-itharisul|Ithasul]]—the substance of the works, and the living and dead held stones
+[[place-telvaristone|The Telvari Stone]]
+: the work the stone belongs to
+
+[[place-telvari|Telvari]]
+: the islet whose pilots' households kept it
+
+[[affiliation-wardensapproaches|The Wardens of the Approaches]]
+: the pilots, who answer to the Warden of the Approaches
+
+[[lore-itharisul|Ithasul]]
+: the substance of the works, and the living and dead held stones

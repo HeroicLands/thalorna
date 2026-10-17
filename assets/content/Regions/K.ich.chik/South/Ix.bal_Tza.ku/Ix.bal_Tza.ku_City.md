@@ -27,6 +27,11 @@ The highlands export worked gold and silver, in ceremonial vessels, jewelry and 
 
 ## See Also
 
-- [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]—the realm and its priesthood
-- [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]]—the mountains and the river valleys
-- [[place-sthrnkchchk|Southern K'ich'chik]]—the southern realms
+[[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]
+: the realm and its priesthood
+
+[[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]]
+: the mountains and the river valleys
+
+[[place-sthrnkchchk|Southern K'ich'chik]]
+: the southern realms

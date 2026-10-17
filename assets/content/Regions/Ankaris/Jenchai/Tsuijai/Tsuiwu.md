@@ -23,6 +23,11 @@ The town lives on iron. Smelters, charcoal-burners, carters and ore-weighers wor
 
 ## See Also
 
-- [[affiliation-tsuijaidmn|Tsuijai Domain]]—the house and its lord
-- [[place-tsuijai|Tsuijai]]—the mountain
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[affiliation-tsuijaidmn|Tsuijai Domain]]
+: the house and its lord
+
+[[place-tsuijai|Tsuijai]]
+: the mountain
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

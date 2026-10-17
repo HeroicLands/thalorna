@@ -14,6 +14,11 @@ The tradition teaches it in full because it has to: nothing can be warded agains
 
 ## See Also
 
-- [[affiliation-garzelgut|Gar-Zelgút]]—the college that holds the treatises
-- [[lore-qarquzu|Qar'kuzu]]—the other half of the frame
-- [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
+[[affiliation-garzelgut|Gar-Zelgút]]
+: the college that holds the treatises
+
+[[lore-qarquzu|Qar'kuzu]]
+: the other half of the frame
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the philosophy and the other seven domains

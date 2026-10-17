@@ -25,6 +25,11 @@ Falkhaven is [[place-vrystwald|Vristwald]]'s western arm, the long reach of fore
 
 ## See Also
 
-- [[place-vrystwald|Vristwald]]—the forest arc of which this is the western reach
-- [[place-nrdlndsrgn|Nordlands]]—northern neighbor and principal trading partner
-- [[place-edrwald|Edrwald]]—the next reach along the bay
+[[place-vrystwald|Vristwald]]
+: the forest arc of which this is the western reach
+
+[[place-nrdlndsrgn|Nordlands]]
+: northern neighbor and principal trading partner
+
+[[place-edrwald|Edrwald]]
+: the next reach along the bay

@@ -91,7 +91,14 @@ The joint kingdom ended in [[lore-threesistrs|The Battle of the Three Sisters]],
 
 ## See Also
 
-- [[lore-threesistrs|The Battle of the Three Sisters]]—how the crown ended
-- [[lore-fallkhazturn|The Fall of Khazartúrn]]—the breach it answered
-- [[lore-thecrossing|The Crossing]]—the trust that came before it
-- [[place-hallowwood|The Hallowwood]] · [[place-vorgald|Vorgald]]—where the two peoples went after
+[[lore-threesistrs|The Battle of the Three Sisters]]
+: how the crown ended
+
+[[lore-fallkhazturn|The Fall of Khazartúrn]]
+: the breach it answered
+
+[[lore-thecrossing|The Crossing]]
+: the trust that came before it
+
+[[place-hallowwood|The Hallowwood]] · [[place-vorgald|Vorgald]]
+: where the two peoples went after

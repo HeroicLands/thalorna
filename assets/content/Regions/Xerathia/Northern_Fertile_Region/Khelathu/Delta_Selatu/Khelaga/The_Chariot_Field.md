@@ -47,7 +47,14 @@ A Reading held at the edge for the unnamed quiets the field for the night it is 
 
 ## See Also
 
-- [[lore-vylconquest|The Vylarian Conquest]]—the battle that made it
-- [[place-khelaga|Khelaga]] · [[place-khelagaselat|Khelaga Selat]]—the town and the delta apex
-- [[place-eleventhgran|The Eleventh Granary]] · [[place-zelhalzi|Zel-Halzi]]—the other blood-fields of Au'Khelathu
-- [[lore-bloodfield|Blood-fields]]—what a _zelalgit_ is
+[[lore-vylconquest|The Vylarian Conquest]]
+: the battle that made it
+
+[[place-khelaga|Khelaga]] · [[place-khelagaselat|Khelaga Selat]]
+: the town and the delta apex
+
+[[place-eleventhgran|The Eleventh Granary]] · [[place-zelhalzi|Zel-Halzi]]
+: the other blood-fields of Au'Khelathu
+
+[[lore-bloodfield|Blood-fields]]
+: what a _zelalgit_ is

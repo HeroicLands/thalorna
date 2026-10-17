@@ -55,10 +55,23 @@ From the farms below Horgsvangr the pass road climbs for two days. In summer the
 
 ## See Also
 
-- [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—the grave-ale and the empty high seat
-- [[lore-vetrnaetr|Vetrnetr]]—the howe-wake and the door-seat
-- [[lore-haugverdir|Hrúmverdir]]—the howe-wardens
-- [[lore-theshadow|The Shadow]]—what holds every undead
-- [[place-horgsvangr|Horgsvangr]]—the altar-field below the pass
-- [[affiliation-ravenguard|Raven Guard]]—the garrison sworn to the north's holy places
-- [[affiliation-nalok|Nalok]]—the hidden order that sets the glass
+[[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]
+: the grave-ale and the empty high seat
+
+[[lore-vetrnaetr|Vetrnetr]]
+: the howe-wake and the door-seat
+
+[[lore-haugverdir|Hrúmverdir]]
+: the howe-wardens
+
+[[lore-theshadow|The Shadow]]
+: what holds every undead
+
+[[place-horgsvangr|Horgsvangr]]
+: the altar-field below the pass
+
+[[affiliation-ravenguard|Raven Guard]]
+: the garrison sworn to the north's holy places
+
+[[affiliation-nalok|Nalok]]
+: the hidden order that sets the glass

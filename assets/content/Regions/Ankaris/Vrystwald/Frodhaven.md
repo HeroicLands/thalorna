@@ -24,6 +24,11 @@ data:
 
 ## See Also
 
-- [[place-vandstein|Vandstein]]—the reach around the village
-- [[lore-legionsroad|The Legions' Road]]—the road that bends around it
-- [[being-vndrcgrwld|Vandarik yra Garwald wur Fródhaven]]—a confidence man of the Blackpine Wolves
+[[place-vandstein|Vandstein]]
+: the reach around the village
+
+[[lore-legionsroad|The Legions' Road]]
+: the road that bends around it
+
+[[being-vndrcgrwld|Vandarik yra Garwald wur Fródhaven]]
+: a confidence man of the Blackpine Wolves

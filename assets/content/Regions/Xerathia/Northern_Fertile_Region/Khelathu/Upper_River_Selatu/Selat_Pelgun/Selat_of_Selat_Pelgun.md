@@ -71,9 +71,20 @@ Selat-Pelgun uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the [[affi
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-iqu|Iku]]—Selat capital
-- [[affiliation-pelgun|Faith of Pelgun]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-selatpelgunnome|Selat-Pelgun]]—The land the selat holds
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-iqu|Iku]]
+: Selat capital
+
+[[affiliation-pelgun|Faith of Pelgun]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-selatpelgunnome|Selat-Pelgun]]
+: The land the selat holds

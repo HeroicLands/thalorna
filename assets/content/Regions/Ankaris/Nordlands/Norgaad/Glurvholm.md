@@ -24,7 +24,14 @@ What Hafvald was, and what became of him when the Ásvinir took the coast's pray
 
 ## See Also
 
-- [[place-hvarnvik|Hvarnvík]]—the village whose fishers keep the islet
-- [[lore-nrgadhstry|Histories and Legends of Norgaad]]—the thumb tucked under, and the island that rises without birds
-- [[affiliation-njorvencult|Njorven's cult]]—the people who are wrong about it
-- [[lore-domseycount|The Domsey Count]]—the Fjord-Taking, before the sittings
+[[place-hvarnvik|Hvarnvík]]
+: the village whose fishers keep the islet
+
+[[lore-nrgadhstry|Histories and Legends of Norgaad]]
+: the thumb tucked under, and the island that rises without birds
+
+[[affiliation-njorvencult|Njorven's cult]]
+: the people who are wrong about it
+
+[[lore-domseycount|The Domsey Count]]
+: the Fjord-Taking, before the sittings

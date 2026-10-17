@@ -18,5 +18,8 @@ A seaman who judges a hull honestly is worth a great deal to a man in that offic
 
 ## See Also
 
-- [[being-plnthshplytms|Planthash Tredis]]—a seaman the harbormaster trusts
-- [[place-byzariargn|Bizaria]]—the region the harbor serves
+[[being-plnthshplytms|Planthash Tredis]]
+: a seaman the harbormaster trusts
+
+[[place-byzariargn|Bizaria]]
+: the region the harbor serves

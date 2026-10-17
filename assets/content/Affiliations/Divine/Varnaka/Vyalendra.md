@@ -48,10 +48,17 @@ sohl:
 
 ## Vyalendra—The Shaper of Worlds
 
-- **Domain:** Creation, cosmic order, architecture, the founding of cities
-- **Symbol:** A lotus with golden petals
-- **Pronunciation:** _VYAH-len-drah_
-- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
+Domain
+: Creation, cosmic order, architecture, the founding of cities
+
+Symbol
+: A lotus with golden petals
+
+Pronunciation
+: _VYAH-len-drah_
+
+Pantheon
+: [[affiliation-varakpnthn|Varnuka Pantheon]]
 
 "Mark the cord before you stretch it. Every knot is a promise about where the wall will stand." A temple foreman says it to the apprentice holding the far end of the measuring cord at a foundation-laying, and waits until the boy has found the first knot before he lets the work begin. Vyalendra, the devotion to [[lore-vyalendradty|Vyalendra]], is the cult of beginnings made with care. No major work of construction is begun without the rites appropriate to the god.
 
@@ -73,8 +80,11 @@ A small lotus-medallion hangs above the threshold of a Vyalendran household, and
 
 ### Ordeals for Favor
 
-- **[The Year of the Apprentice]{.name data-type="lore/custom"}**—a year in which the devotee takes no food and no shelter the devotee did not help to make, and learns the trade from the ground up.
-- **[The Perfect Stone]{.name data-type="lore/custom"}**—a single stone shaped by hand to proportions a senior priest dictates, worked until no flaw can be found in it.
+[The Year of the Apprentice]{.name data-type="lore/custom"}
+: a year in which the devotee takes no food and no shelter the devotee did not help to make, and learns the trade from the ground up.
+
+[The Perfect Stone]{.name data-type="lore/custom"}
+: a single stone shaped by hand to proportions a senior priest dictates, worked until no flaw can be found in it.
 
 ### See Also
 

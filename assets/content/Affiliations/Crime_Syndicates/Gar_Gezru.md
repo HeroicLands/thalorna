@@ -34,5 +34,8 @@ The network runs on a book, because a network must. Its members are strangers to
 
 ## See Also
 
-- [[lore-khelathiclt|Khelathi]]—why a book of what strangers owe is the temple's business alone
-- [[place-galezkara|Galezkara]]—the capital and its underworld
+[[lore-khelathiclt|Khelathi]]
+: why a book of what strangers owe is the temple's business alone
+
+[[place-galezkara|Galezkara]]
+: the capital and its underworld

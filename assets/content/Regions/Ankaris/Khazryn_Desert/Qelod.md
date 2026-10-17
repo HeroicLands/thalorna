@@ -32,6 +32,11 @@ A hard drought has dried every ordinary well within two days of Kelod, and the t
 
 ## See Also
 
-- [[lore-basinbldrs|The Basin Builders]]—the people who dug it
-- [[place-ewod|Evod]]—the dry lake it once fed from
-- [[lore-waterunder|The Buried Water]]—the Sahri star-song of the stair and the well-mother
+[[lore-basinbldrs|The Basin Builders]]
+: the people who dug it
+
+[[place-ewod|Evod]]
+: the dry lake it once fed from
+
+[[lore-waterunder|The Buried Water]]
+: the Sahri star-song of the stair and the well-mother

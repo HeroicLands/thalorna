@@ -48,4 +48,5 @@ If you are hired as a trainer, expect the factor to ask about feeding, watering 
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the region it belongs to
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the region it belongs to

@@ -26,6 +26,11 @@ The Shaman holds the strongest of the village's three seats, but the other two e
 
 ## See Also
 
-- [[place-edrwald|Edrwald]]—the reach around the village
-- [[place-edrhaven|Edrhaven]] and [[place-thalgrund|Thalgrund]]—neighboring villages reached by forest tracks
-- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—the wider web of independent villages
+[[place-edrwald|Edrwald]]
+: the reach around the village
+
+[[place-edrhaven|Edrhaven]] and [[place-thalgrund|Thalgrund]]
+: neighboring villages reached by forest tracks
+
+[[affiliation-vrystwldtrbs|Vristwald Tribes]]
+: the wider web of independent villages

@@ -60,5 +60,8 @@ Say you want to join. Bring a part you can play, and a patron who can speak for 
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—the city it plays in
-- [[affiliation-wazulu|The Wazulu]]—the movement that presses against players
+[[place-galezkara|Galezkara]]
+: the city it plays in
+
+[[affiliation-wazulu|The Wazulu]]
+: the movement that presses against players

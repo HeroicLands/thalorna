@@ -246,8 +246,17 @@ Set it by the fire. Cover the fire. Keep it till morning.
 
 ## See Also
 
-- [[lore-varokhiclt|Varokhi]]—Weskskald, the dead with the wesk, and the judgment the living do not know
-- [[place-hrindstead|Hrindstead]]—the Nordheim stockade in the Eichthúl grove
-- [[lore-nalthmrktkng|The Nalthmark Land-Taking]]—the posts, the burning and the Eichthúl account
-- [[lore-wintertally|The Tally of Winters]]—how a tally places a winter, and the age of the posts
-- [[skill-varokhlng|Varokhi]]—the tongue, its names and the words the tally uses
+[[lore-varokhiclt|Varokhi]]
+: Weskskald, the dead with the wesk, and the judgment the living do not know
+
+[[place-hrindstead|Hrindstead]]
+: the Nordheim stockade in the Eichthúl grove
+
+[[lore-nalthmrktkng|The Nalthmark Land-Taking]]
+: the posts, the burning and the Eichthúl account
+
+[[lore-wintertally|The Tally of Winters]]
+: how a tally places a winter, and the age of the posts
+
+[[skill-varokhlng|Varokhi]]
+: the tongue, its names and the words the tally uses

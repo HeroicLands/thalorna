@@ -401,11 +401,14 @@ Skrilmil is a natural leader whose presence on the battlefield can turn the tide
 
 ## Plot Hooks
 
-1. **The Great Moot**—Skrilmil has called a gathering of all the northern jarls to discuss unification. Political intrigue, assassination attempts, and old grudges threaten to derail the proceedings. The party must help navigate the dangerous politics and keep Skrilmil alive.
+The Great Moot
+: Skrilmil has called a gathering of all the northern jarls to discuss unification. Political intrigue, assassination attempts, and old grudges threaten to derail the proceedings. The party must help navigate the dangerous politics and keep Skrilmil alive.
 
-2. **The Winter Witch**—The sorceress who claims responsibility for the devastating storms has issued a challenge to Skrilmil. She offers peace in exchange for something Skrilmil cannot give—and war if he refuses.
+The Winter Witch
+: The sorceress who claims responsibility for the devastating storms has issued a challenge to Skrilmil. She offers peace in exchange for something Skrilmil cannot give—and war if he refuses.
 
-3. **The Lightning Mark**—Skrilmil's son has been born with a lightning-shaped birthmark, and both [The Storm Temple of Thrumufjall]{.name data-type="place/structure"} and rival clans interpret this as an omen. Some see it as a sign of divine favor; others as a curse that must be eliminated.
+The Lightning Mark
+: Skrilmil's son has been born with a lightning-shaped birthmark, and both [The Storm Temple of Thrumufjall]{.name data-type="place/structure"} and rival clans interpret this as an omen. Some see it as a sign of divine favor; others as a curse that must be eliminated.
 
 ## Epic Recital
 

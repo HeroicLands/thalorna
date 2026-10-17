@@ -27,7 +27,14 @@ Nothing. They have given no public account of their visit to the island, and the
 
 ## See Also
 
-- [[lore-flksinale|The Sinale]]—the elder people who reached the island and were refused
-- [[lore-itharicntc|The Sinale Meet the Ithari]]—the one meeting between the Ithari and an elder people
-- [[lore-itharisul|Ithasul]]—the stone they recognized
-- [[lore-theithari|The Ithari]]—the people who left the works
+[[lore-flksinale|The Sinale]]
+: the elder people who reached the island and were refused
+
+[[lore-itharicntc|The Sinale Meet the Ithari]]
+: the one meeting between the Ithari and an elder people
+
+[[lore-itharisul|Ithasul]]
+: the stone they recognized
+
+[[lore-theithari|The Ithari]]
+: the people who left the works

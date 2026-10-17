@@ -23,7 +23,14 @@ A priest of [[lore-psaqarudty|Saq'aru]] in the chief temple tells the drivers wh
 
 ## See Also
 
-- [[affiliation-selatwagaru|The Selat of Wagaru]]—Parent selat
-- [[affiliation-borderselatu|The Border Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-psaqaru|Faith of Saq'aru]]—Patron cult
+[[affiliation-selatwagaru|The Selat of Wagaru]]
+: Parent selat
+
+[[affiliation-borderselatu|The Border Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-psaqaru|Faith of Saq'aru]]
+: Patron cult

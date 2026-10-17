@@ -314,20 +314,29 @@ Snow Leopards are most dangerous in their native mountain terrain where nothing 
 
 ## Attributes
 
-- **Strength:** 13-16 (1d4+12)
+Strength
+: 13-16 (1d4+12)
 
-- **Endurance:** 11-14 (1d4+10)
+Endurance
+: 11-14 (1d4+10)
 
-- **Dexterity:** 17-20 (1d4+16)
+Dexterity
+: 17-20 (1d4+16)
 
-- **Agility:** 17-20 (1d4+16)
+Agility
+: 17-20 (1d4+16)
 
-- **Perception:** 13-16 (1d4+12)
+Perception
+: 13-16 (1d4+12)
 
-- **Aura:** 6-9 (1d4+5)
+Aura
+: 6-9 (1d4+5)
 
-- **Will:** 11-14 (1d4+10)
+Will
+: 11-14 (1d4+10)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 7-10 (1d4+6)
+Creativity
+: 7-10 (1d4+6)

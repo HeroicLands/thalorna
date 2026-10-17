@@ -24,6 +24,11 @@ The name is a plain statement of what the town is for: _log-_ is the law as it i
 
 ## See Also
 
-- [[being-knlthnlwgvr|Knalthann Lawgiver]]—the judge of the great trial
-- [[being-vrldrvonhnd|Vraldorv One-Hand]]—the itinerant judge the songs give standing at the court
-- [[affiliation-eidgar|Faith of Eidgar]]—the faith of law and sworn oaths
+[[being-knlthnlwgvr|Knalthann Lawgiver]]
+: the judge of the great trial
+
+[[being-vrldrvonhnd|Vraldorv One-Hand]]
+: the itinerant judge the songs give standing at the court
+
+[[affiliation-eidgar|Faith of Eidgar]]
+: the faith of law and sworn oaths

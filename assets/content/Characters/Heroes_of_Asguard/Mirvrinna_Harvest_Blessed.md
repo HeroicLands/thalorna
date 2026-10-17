@@ -401,8 +401,11 @@ Mirvrinna's agricultural knowledge combines practical expertise with what she be
 
 ## Plot Hooks
 
-1. **The Poisoned Harvest**—A village's entire harvest has been tainted with a magical poison that causes madness in those who eat it. Mirvrinna must find the source and a cure before the stored grain runs out and starvation sets in.
+The Poisoned Harvest
+: A village's entire harvest has been tainted with a magical poison that causes madness in those who eat it. Mirvrinna must find the source and a cure before the stored grain runs out and starvation sets in.
 
-2. **The Famine War**—Two starving settlements are on the verge of war over a limited food supply. Mirvrinna must find a way to feed both communities before violence erupts.
+The Famine War
+: Two starving settlements are on the verge of war over a limited food supply. Mirvrinna must find a way to feed both communities before violence erupts.
 
-3. **The Blight's Source**—Mirvrinna has finally traced the spreading crop failures to their origin: a corrupted ley line deep underground. Reaching it will require delving into ancient tunnels that are home to something far worse than blight.
+The Blight's Source
+: Mirvrinna has finally traced the spreading crop failures to their origin: a corrupted ley line deep underground. Reaching it will require delving into ancient tunnels that are home to something far worse than blight.

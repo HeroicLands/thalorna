@@ -92,11 +92,14 @@ Most recently, Dúnavarre has launched an ambitious diplomatic initiative to est
 
 ## Notable Institutions
 
-- **The Synod:** The governing body of Dúnavarre, composed of senior mages of [[affiliation-ordoarcanis|Thordimalon]]. The Synod functions as both legislature and executive, with individual members overseeing portfolios of governance (diplomacy, defense, commerce, justice).
-- **The Order of the Just Blade:** A militant knightly order dedicated to the [[affiliation-ardavon|Faith of Árdavon]], whose god represents order and justice. The Order serves as Dúnavarre's military arm, its Knight-Captains commanding the kingdom's forces under the Synod's authority.
+The Synod
+: The governing body of Dúnavarre, composed of senior mages of [[affiliation-ordoarcanis|Thordimalon]]. The Synod functions as both legislature and executive, with individual members overseeing portfolios of governance (diplomacy, defense, commerce, justice).
 
-- **The Umbral Court:** The Synod's position is that there is no such organization. See
-  [[affiliation-umbralcourt|The Umbral Court]].
+The Order of the Just Blade
+: A militant knightly order dedicated to the [[affiliation-ardavon|Faith of Árdavon]], whose god represents order and justice. The Order serves as Dúnavarre's military arm, its Knight-Captains commanding the kingdom's forces under the Synod's authority.
+
+The Umbral Court
+: The Synod's position is that there is no such organization. See [[affiliation-umbralcourt|The Umbral Court]].
 
 ## Why the Arcane Order Is Here
 
@@ -140,10 +143,23 @@ The Kingdom of Dúnavarre uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden
 
 ## See Also
 
-- [[place-aelwyth|Aelwyth]]—The island
-- [[place-dunavarre|Dúnavarre]]—The land the kingdom holds
-- [[place-elavendre|Élavendre]]—Nearest mainland region, cultural cousin
-- [[affiliation-ordoarcanis|Thordimalon]]—Governing institution
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—State pantheon
-- [[skill-elvndrlng|Élavendri]]—Naming conventions
-- [[affiliation-vylarinmpr|Vylarian Empire]]—Regular and cordial diplomatic relations
+[[place-aelwyth|Aelwyth]]
+: The island
+
+[[place-dunavarre|Dúnavarre]]
+: The land the kingdom holds
+
+[[place-elavendre|Élavendre]]
+: Nearest mainland region, cultural cousin
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: Governing institution
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: State pantheon
+
+[[skill-elvndrlng|Élavendri]]
+: Naming conventions
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: Regular and cordial diplomatic relations

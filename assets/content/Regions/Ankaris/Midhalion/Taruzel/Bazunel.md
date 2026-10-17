@@ -88,7 +88,14 @@ Bazunel's studios and yards are paid in the [[lore-trzlncrncy|Taruzelian Currenc
 
 ## See Also
 
-- [[place-bazunel2|Bazunel]]—the city itself
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the parent polity
-- [[place-helionis|Helionis]]—the cultural counterpart across the sea
-- [[affiliation-besikar|Besikar]], [[affiliation-yamuzel|Yamuzel]], [[affiliation-qudumel|Kudumel]], [[affiliation-sazumun|Sazumun]]—the sister city-states
+[[place-bazunel2|Bazunel]]
+: the city itself
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the parent polity
+
+[[place-helionis|Helionis]]
+: the cultural counterpart across the sea
+
+[[affiliation-besikar|Besikar]], [[affiliation-yamuzel|Yamuzel]], [[affiliation-qudumel|Kudumel]], [[affiliation-sazumun|Sazumun]]
+: the sister city-states

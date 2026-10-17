@@ -23,7 +23,14 @@ You hear **Legirusi** before you see it: chisels, hundreds of them, from first l
 
 ## See Also
 
-- [[affiliation-selatlegirus|The Selat of Legirusi]]—Parent selat
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-psaqaru|Faith of Saq'aru]]—Patron cult
+[[affiliation-selatlegirus|The Selat of Legirusi]]
+: Parent selat
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-psaqaru|Faith of Saq'aru]]
+: Patron cult

@@ -279,20 +279,29 @@ Cold makes nemespites sluggish and torpid. In the cold before dawn they barely m
 
 ## Attributes
 
-- **Endurance:** 6-9 (1d4+5)
+Endurance
+: 6-9 (1d4+5)
 
-- **Dexterity:** 11-14 (1d4+10)
+Dexterity
+: 11-14 (1d4+10)
 
-- **Agility:** 13-16 (1d4+12)
+Agility
+: 13-16 (1d4+12)
 
-- **Perception:** 9-12 (1d4+8)
+Perception
+: 9-12 (1d4+8)
 
-- **Aura:** 6-9 (1d4+5)
+Aura
+: 6-9 (1d4+5)
 
-- **Will:** 7-10 (1d4+6)
+Will
+: 7-10 (1d4+6)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)
 
-- **Strength:** 1-4 (1d4)
+Strength
+: 1-4 (1d4)

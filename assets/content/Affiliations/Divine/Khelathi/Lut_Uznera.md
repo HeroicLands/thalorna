@@ -68,5 +68,8 @@ Genzet'Uzn'era governs the holdings and the calendar the temple's rites run on, 
 
 ## See Also
 
-- [[lore-uzneradty|Uzn'era]]—The goddess of fertility the temple serves
-- [[affiliation-genzetuznera|Genzet'Uzn'era]]—The council over the temple's holdings
+[[lore-uzneradty|Uzn'era]]
+: The goddess of fertility the temple serves
+
+[[affiliation-genzetuznera|Genzet'Uzn'era]]
+: The council over the temple's holdings

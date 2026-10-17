@@ -433,12 +433,17 @@ Few; generally respected but sometimes viewed as traditionalist.
 
 ## Plot Hooks
 
-1. **The Ostler's Dilemma**—Chankhor faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
+The Ostler's Dilemma
+: Chankhor faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
 
-2. **Old Grudges**—Few; generally respected but sometimes viewed as traditionalist. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: Few; generally respected but sometimes viewed as traditionalist. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Chankhor's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+Echoes of the Past
+: Something from Chankhor's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Chankhor depends upon. He must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Helionis threaten to upend the social order that Chankhor depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Chankhor the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Chankhor the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

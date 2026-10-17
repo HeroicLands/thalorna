@@ -235,16 +235,35 @@ A hall gathers a lord's close kin and sworn followers under one roof. Oath and a
 
 ## See Also
 
-- [[place-nrdlndsrgn|Nordlands Region]]—the fjords, the five kingdoms and the ships
-- [[lore-nrdlndsraid|The Raid and the Longship]]—the crew, its share and its levy
-- [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—the pyre, the ship-burial, the howe and the grave-ale
-- [[lore-nrdlndswhal|The Whale Strand]] and [[lore-nrdlndsseal|The Ice-Edge and the Rookery]]—the whale and the seal that feed the coasts
-- [[lore-aldarhringr|Aldarhringr]]—the ring of ages, and where the world, people and death come from
-- [[affiliation-asguardian|Asguardian Pantheon]]—the Ten, their rites and the final reckoning
-- [[lore-kinhalcrdt|Kin and Hall Credit]]—public memory as security for an obligation
-- [[affiliation-skaldscrcl|Skalds' Circle]]—the trained keepers of genealogy, judgment and debt
-- [[skill-nordmalng|Nordmal]]—the tongue and how a name is built in it
-- [[affiliation-jrldmstrmvld|Stormveld]]—the conquered plain on Aelwyth
+[[place-nrdlndsrgn|Nordlands Region]]
+: the fjords, the five kingdoms and the ships
+
+[[lore-nrdlndsraid|The Raid and the Longship]]
+: the crew, its share and its levy
+
+[[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]
+: the pyre, the ship-burial, the howe and the grave-ale
+
+[[lore-nrdlndswhal|The Whale Strand]] and [[lore-nrdlndsseal|The Ice-Edge and the Rookery]]
+: the whale and the seal that feed the coasts
+
+[[lore-aldarhringr|Aldarhringr]]
+: the ring of ages, and where the world, people and death come from
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the Ten, their rites and the final reckoning
+
+[[lore-kinhalcrdt|Kin and Hall Credit]]
+: public memory as security for an obligation
+
+[[affiliation-skaldscrcl|Skalds' Circle]]
+: the trained keepers of genealogy, judgment and debt
+
+[[skill-nordmalng|Nordmal]]
+: the tongue and how a name is built in it
+
+[[affiliation-jrldmstrmvld|Stormveld]]
+: the conquered plain on Aelwyth
 
 ## Glossary {#glossary}
 

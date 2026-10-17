@@ -57,6 +57,11 @@ For the GM: Khelafirahu was no mere tyrant but one of the great sorcerers of his
 
 ## See Also
 
-- [[affiliation-capitalselat|The Capital Selat]]—Parent selat
-- [[place-galezkara|Galezkara]]—The imperial city across the river
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
+[[affiliation-capitalselat|The Capital Selat]]
+: Parent selat
+
+[[place-galezkara|Galezkara]]
+: The imperial city across the river
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview

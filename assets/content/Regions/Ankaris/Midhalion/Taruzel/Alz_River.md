@@ -18,6 +18,11 @@ Upriver the valley climbs into hill woods, and the trees of the **Alz woods** ar
 
 ## See Also
 
-- [[place-sazumun2|Sazumun]]—the port at the river's mouth
-- [[being-zttyblnn|Zattuya Balinuni]]—a timberwright of the Alz woods
-- [[place-taruzelrgn|Taruzel]]—the region the river runs through
+[[place-sazumun2|Sazumun]]
+: the port at the river's mouth
+
+[[being-zttyblnn|Zattuya Balinuni]]
+: a timberwright of the Alz woods
+
+[[place-taruzelrgn|Taruzel]]
+: the region the river runs through

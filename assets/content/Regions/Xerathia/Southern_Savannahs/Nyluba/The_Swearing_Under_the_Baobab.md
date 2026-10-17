@@ -135,8 +135,17 @@ Hear me, children of the five.
 
 ## See Also
 
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the Long Pact, its terms and the Great Lubemo
-- [[affiliation-nyalblion|Lion Totem]]—the cult that holds this song, and the lion's witness
-- [[lore-nyalubaclt|Nyáluba]]—the culture the Pact defines
-- [[skill-griot|Griot]]—the keeping of memory where nothing is written
-- [[lore-stonetongue|The Stone Tongue]]—a griot's recital set beside a story told at the fire
+[[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
+: the Long Pact, its terms and the Great Lubemo
+
+[[affiliation-nyalblion|Lion Totem]]
+: the cult that holds this song, and the lion's witness
+
+[[lore-nyalubaclt|Nyáluba]]
+: the culture the Pact defines
+
+[[skill-griot|Griot]]
+: the keeping of memory where nothing is written
+
+[[lore-stonetongue|The Stone Tongue]]
+: a griot's recital set beside a story told at the fire

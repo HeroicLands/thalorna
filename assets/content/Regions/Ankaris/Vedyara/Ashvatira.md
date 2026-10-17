@@ -22,5 +22,8 @@ The headman is a graduate of the academy and a **Karmija**, a cultivator by birt
 
 ## See Also
 
-- [[place-dhanurkotajnpd|Danurkota Janapoda]]—the land
-- [[affiliation-dhnrktjnpd|Danurkota Janapoda]]—the temple-republic that holds it
+[[place-dhanurkotajnpd|Danurkota Janapoda]]
+: the land
+
+[[affiliation-dhnrktjnpd|Danurkota Janapoda]]
+: the temple-republic that holds it

@@ -47,7 +47,14 @@ The palace stands on a hill in open ground. There is no shade and no water withi
 
 ## See Also
 
-- [[place-ashkarad|Ashkarad]]—the craft city of which the house is a cadet line
-- [[lore-khazrynclt|The Tellumi]]—the law of the guest the house keeps
-- [[lore-theshadow|The Shadow]]—the outside stuff the Tenant is made of
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—the conquerors who found the household at table
+[[place-ashkarad|Ashkarad]]
+: the craft city of which the house is a cadet line
+
+[[lore-khazrynclt|The Tellumi]]
+: the law of the guest the house keeps
+
+[[lore-theshadow|The Shadow]]
+: the outside stuff the Tenant is made of
+
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: the conquerors who found the household at table

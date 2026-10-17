@@ -420,10 +420,17 @@ Kassa's current assignment is the most valuable of her service: the sealed **Pur
 
 The trouble is that Kassa is not the only one who wants the rolls, and almost everyone else's success is her failure. She reckons the possible outcomes in a strict order, best to worst:
 
-1. **Vylaria takes the register**—the win.
-2. **No one secures it**—tolerable; the game stays open and the proof keeps existing.
-3. **Au'Khelathu gets it**—bad, but the proof still exists and the Khelathi–Bethuan axis takes its wound regardless of whose hand holds the vellum.
-4. **Bethua recovers or burns it**—catastrophe: the proof is gone forever, deniability is restored, the alliance is preserved, and the empire is left with nothing.
+Vylaria takes the register
+: the win.
+
+No one secures it
+: tolerable; the game stays open and the proof keeps existing.
+
+Au'Khelathu gets it
+: bad, but the proof still exists and the Khelathi–Bethuan axis takes its wound regardless of whose hand holds the vellum.
+
+Bethua recovers or burns it
+: catastrophe: the proof is gone forever, deniability is restored, the alliance is preserved, and the empire is left with nothing.
 
 So Kassa fights on three fronts at once, deep in country hostile to her. She **courts Rashira**—offering protection, passage, and coin to turn the fugitive toward a Vylarian handover. She **blocks the road east**, because above all the register must not reach [[affiliation-empireakhlth|Empire of Au'Khelathu]]: she buys off guides, closes routes, spreads false word, and salts Rashira's path with delays, turning to open force only when the covert hand fails. And she **sabotages the Bethuan hunt**, confusing and misdirecting the Court of the Veil's agents and frustrating [[being-lmbhrpdhnn|Lámbira Pédhinion]]—for a Bethuan recapture is the one ending worse than losing the rolls to the Khelathi.
 
@@ -433,10 +440,17 @@ Kassa almost never acts with her own hand. She is a runner of people: she finds 
 
 ### Skills and Abilities
 
-- **Spycraft and Handling**: A master at recruiting, running, and disposing of agents. She reads people for their levers and rarely misjudges what a person can be made to do.
-- **A Woman's Freedom in Bethua**: Her sex lets her move through the matriarchy's ports, trade-houses, and counting-rooms with an ease no male agent could manage—served and trusted as a fellow merchant where a man would be watched.
-- **Cover and Misdirection**: Passes through the ports of Mídhalión as a shipping factor, a customs agent, a creditor—whichever face the moment wants. Carries forged passes and letters of credit alike.
-- **Coin as a Weapon**: Commands a generous imperial purse and the authority to spend it. Much of what she accomplishes, she buys.
+Spycraft and Handling
+: A master at recruiting, running, and disposing of agents. She reads people for their levers and rarely misjudges what a person can be made to do.
+
+A Woman's Freedom in Bethua
+: Her sex lets her move through the matriarchy's ports, trade-houses, and counting-rooms with an ease no male agent could manage—served and trusted as a fellow merchant where a man would be watched.
+
+Cover and Misdirection
+: Passes through the ports of Mídhalión as a shipping factor, a customs agent, a creditor—whichever face the moment wants. Carries forged passes and letters of credit alike.
+
+Coin as a Weapon
+: Commands a generous imperial purse and the authority to spend it. Much of what she accomplishes, she buys.
 
 ## Psyche
 
@@ -455,17 +469,27 @@ She does not hate Rashira, or Lámbira, or Bethua. They are, respectively, a pri
 
 ### Weaknesses
 
-- **Overuses her levers**: her reliance on bought and coerced proxies fails when a proxy has motives of her own—as [[being-argyrirjckl|Argirira]] very much does
-- **A proxy that could hand her her worst outcome**: the Jackals she hired could let the rolls fall to Bethua, the one ending she cannot allow
-- **No personal loyalty to spend**: those who serve her for coin or fear will not die for her, and know it
-- **Fighting on three fronts**: opposing Rashira, Bethua, and Au'Khelathu at once stretches even a Vylarian purse, and any two of them combining against her undoes the whole operation
+Overuses her levers
+: her reliance on bought and coerced proxies fails when a proxy has motives of her own—as [[being-argyrirjckl|Argirira]] very much does
+
+A proxy that could hand her her worst outcome
+: the Jackals she hired could let the rolls fall to Bethua, the one ending she cannot allow
+
+No personal loyalty to spend
+: those who serve her for coin or fear will not die for her, and know it
+
+Fighting on three fronts
+: opposing Rashira, Bethua, and Au'Khelathu at once stretches even a Vylarian purse, and any two of them combining against her undoes the whole operation
 
 ## Social
 
 ### Targets and Tools
 
-- [[being-rshrhssfrn|Rashira of House Safiron]]: The fugitive Grammatissa and her purple register—the prize Kassa means to win by courtship if she can and force if she must, and above all to keep out of Khelathi hands. To Kassa she is a delivery that has not yet agreed to be delivered.
-- **[[being-argyrirjckl|Argirira the Jackal]] and the [[affiliation-jcklsthmrchs|Jackals of the South Marches]]**: Hired through cut-outs to delay [[being-lmbhrpdhnn|Lámbira]], believing they hunt only for their warlord's grudge. A useful blade—and a dangerous one, since a Jackal who seizes the rolls might sell them anywhere, Bethua included.
+[[being-rshrhssfrn|Rashira of House Safiron]]
+: The fugitive Grammatissa and her purple register—the prize Kassa means to win by courtship if she can and force if she must, and above all to keep out of Khelathi hands. To Kassa she is a delivery that has not yet agreed to be delivered.
+
+[[being-argyrirjckl|Argirira the Jackal]] and the [[affiliation-jcklsthmrchs|Jackals of the South Marches]]
+: Hired through cut-outs to delay [[being-lmbhrpdhnn|Lámbira]], believing they hunt only for their warlord's grudge. A useful blade—and a dangerous one, since a Jackal who seizes the rolls might sell them anywhere, Bethua included.
 
 ### Enemies
 
@@ -480,8 +504,11 @@ The agents of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]
 
 ## Plot Hooks
 
-1. **The Courtship**: Kassa makes contact with [[being-rshrhssfrn|Rashira]] under a merchant's cover, offering safe passage and an attentive ear—anything but the truth that she means the rolls for Vylaria and will never let them reach [[affiliation-empireakhlth|Empire of Au'Khelathu]]. The party may meet her as a charming, helpful stranger long before they understand what she is, and must decide how much of her aid to take before the price comes due.
+The Courtship
+: Kassa makes contact with [[being-rshrhssfrn|Rashira]] under a merchant's cover, offering safe passage and an attentive ear—anything but the truth that she means the rolls for Vylaria and will never let them reach [[affiliation-empireakhlth|Empire of Au'Khelathu]]. The party may meet her as a charming, helpful stranger long before they understand what she is, and must decide how much of her aid to take before the price comes due.
 
-2. **The Blocked Road**: Every eastward path Rashira tries closes ahead of her—a guide bought, a ford watched, a rumor of plague on the road, a caravan that will not take her. Somewhere behind the bad luck is Kassa's quiet hand, herding the fugitive away from the Khelathi frontier and toward a Vylarian crossing she would never choose freely.
+The Blocked Road
+: Every eastward path Rashira tries closes ahead of her—a guide bought, a ford watched, a rumor of plague on the road, a caravan that will not take her. Somewhere behind the bad luck is Kassa's quiet hand, herding the fugitive away from the Khelathi frontier and toward a Vylarian crossing she would never choose freely.
 
-3. **The Proxy Turns**: The [[affiliation-jcklsthmrchs|Jackals]] Kassa hired to delay [[being-lmbhrpdhnn|Lámbira]] come within reach of the register itself—and Kassa must scramble to stop her own instrument from handing the rolls to whoever pays best, when the buyer might be Bethua and the result her single worst outcome.
+The Proxy Turns
+: The [[affiliation-jcklsthmrchs|Jackals]] Kassa hired to delay [[being-lmbhrpdhnn|Lámbira]] come within reach of the register itself—and Kassa must scramble to stop her own instrument from handing the rolls to whoever pays best, when the buyer might be Bethua and the result her single worst outcome.

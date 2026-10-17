@@ -54,19 +54,43 @@ Tarvenan sailors and mercenaries are found across the [[place-vylarianse|Vylaria
 
 ## Notable Features
 
-- **The Mountain Kingdoms:** Isolated highland realms—especially [[affiliation-kngdmstrth|Asturath]]—where ancient traditions survive largely unchanged, and where the fiercest warriors are bred.
-- **The Port Cities:** Prosperous trading hubs along the southern coast, above all the [[affiliation-frctyvlthr|Free City of Valthari]], where goods from across the [[place-midhalnrgn|Mídhalión Region]] and beyond change hands.
-- **The Mercenary Tradition:** Tarvenan sellswords are found in armies across Ankaris. Service abroad is seen as a rite of passage for young warriors.
-- **The Eskárathi Highlands:** The [[affiliation-frtrtryskrth|Free Territory of Eskarath]] preserves a culture older than the Tarveni migration itself, with its own language, laws, and fierce mountain traditions.
+The Mountain Kingdoms
+: Isolated highland realms—especially [[affiliation-kngdmstrth|Asturath]]—where ancient traditions survive largely unchanged, and where the fiercest warriors are bred.
+
+The Port Cities
+: Prosperous trading hubs along the southern coast, above all the [[affiliation-frctyvlthr|Free City of Valthari]], where goods from across the [[place-midhalnrgn|Mídhalión Region]] and beyond change hands.
+
+The Mercenary Tradition
+: Tarvenan sellswords are found in armies across Ankaris. Service abroad is seen as a rite of passage for young warriors.
+
+The Eskárathi Highlands
+: The [[affiliation-frtrtryskrth|Free Territory of Eskarath]] preserves a culture older than the Tarveni migration itself, with its own language, laws, and fierce mountain traditions.
 
 ## See Also
 
-- [[place-provenzrgn|Provenzia Region]]—Western neighbor and rival
-- [[place-elavendre|Élavendre]]—Northern neighbor
-- [[affiliation-vylarinmpr|Vylarian Empire]]—Former imperial power
-- [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]—Polity details
-- [[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]—The three kingdoms
-- [[affiliation-frctyvlthr|Free City of Valthari]]—The city-state
-- [[affiliation-frtrtryskrth|Free Territory of Eskarath]]—Highland free territory
-- [[skill-tarvenlng|Tarveni]]—Naming conventions
-- [[affiliation-arldnpnthn|Aureldian]]—Pantheon
+[[place-provenzrgn|Provenzia Region]]
+: Western neighbor and rival
+
+[[place-elavendre|Élavendre]]
+: Northern neighbor
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: Former imperial power
+
+[[affiliation-kingdmtrvn|Kingdom of Tarvénia]]
+: Polity details
+
+[[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]
+: The three kingdoms
+
+[[affiliation-frctyvlthr|Free City of Valthari]]
+: The city-state
+
+[[affiliation-frtrtryskrth|Free Territory of Eskarath]]
+: Highland free territory
+
+[[skill-tarvenlng|Tarveni]]
+: Naming conventions
+
+[[affiliation-arldnpnthn|Aureldian]]
+: Pantheon

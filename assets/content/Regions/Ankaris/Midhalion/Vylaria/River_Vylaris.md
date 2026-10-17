@@ -18,7 +18,14 @@ Orzara stands on the river's eastern bank, beneath the [[place-sixhillsvyl|Six H
 
 ## See Also
 
-- [[affiliation-provinclys|Province of Alessa]]—the province it crosses
-- [[affiliation-provincvld|Province of Salkalon]]—the province where it reaches the sea
-- [[place-orzara|Orzara]]—the capital on its eastern bank
-- [[place-vylariargn|Vylaria Region]]—the land it names
+[[affiliation-provinclys|Province of Alessa]]
+: the province it crosses
+
+[[affiliation-provincvld|Province of Salkalon]]
+: the province where it reaches the sea
+
+[[place-orzara|Orzara]]
+: the capital on its eastern bank
+
+[[place-vylariargn|Vylaria Region]]
+: the land it names

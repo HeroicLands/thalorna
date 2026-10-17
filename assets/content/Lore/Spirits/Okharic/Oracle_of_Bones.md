@@ -8,10 +8,17 @@ tags: [draft, nkaruthar]
 data: {packFolder: lorespiritsokharic, culture: okharinclt}
 ---
 
-- **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
-- **Domain:** Death and prophecy
-- **Also called:** the Reader in the Yanda Zohiring
-- **Met through:** [[skill-orclbonessprt|The Oracle of Bones Spirit Power]], in the [[affiliation-yenorzhrng|Yenor Zohiring]]
+Kind
+: [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
+
+Domain
+: Death and prophecy
+
+Also called
+: the Reader in the Yanda Zohiring
+
+Met through
+: [[skill-orclbonessprt|The Oracle of Bones Spirit Power]], in the [[affiliation-yenorzhrng|Yenor Zohiring]]
 
 The Oracle of Bones is seated somewhere in [[place-yandazhrng|Yanda Zohiring]], the range
 where the tribes hold the gods dwell. Its exact place is not agreed; the accounts of shamans who

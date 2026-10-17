@@ -70,9 +70,14 @@ Zhaosou is the celestial patron of those whom the [[affiliation-nuotsourui|Nuots
 
 ### See Also
 
-- [[affiliation-nuotsourui|Nuotsou Rui]]—The cult whose recruits take Zhaosou as their patron
-- [[affiliation-youweng|Youwéng]]—The Demon Realm
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The Celestial Bureaucracy that cannot classify Zhaosou
+[[affiliation-nuotsourui|Nuotsou Rui]]
+: The cult whose recruits take Zhaosou as their patron
+
+[[affiliation-youweng|Youwéng]]
+: The Demon Realm
+
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: The Celestial Bureaucracy that cannot classify Zhaosou
 
 ## Outside the Ladder
 

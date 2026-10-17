@@ -261,20 +261,29 @@ Once it is fighting the beetle keeps on, untroubled by pain or wounds, until the
 
 ## Attributes
 
-- **Strength:** 18-23 (1d6+17)
+Strength
+: 18-23 (1d6+17)
 
-- **Endurance:** 16-21 (1d6+15)
+Endurance
+: 16-21 (1d6+15)
 
-- **Dexterity:** 7-10 (1d4+6)
+Dexterity
+: 7-10 (1d4+6)
 
-- **Agility:** 6-9 (1d4+5)
+Agility
+: 6-9 (1d4+5)
 
-- **Perception:** 8-13 (1d6+7)
+Perception
+: 8-13 (1d6+7)
 
-- **Aura:** 6-9 (1d4+5)
+Aura
+: 6-9 (1d4+5)
 
-- **Will:** 11-16 (1d6+10)
+Will
+: 11-16 (1d6+10)
 
-- **Reasoning:** 3-6 (1d4+2)
+Reasoning
+: 3-6 (1d4+2)
 
-- **Creativity:** 3-6 (1d4+2)
+Creativity
+: 3-6 (1d4+2)

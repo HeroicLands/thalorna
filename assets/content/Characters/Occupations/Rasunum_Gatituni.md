@@ -434,12 +434,17 @@ Reformists who view him as a symbol of the stagnant system.
 
 ## Plot Hooks
 
-1. **The Bureaucrat's Dilemma**—A superior's corruption reaches Rasunum's own desk, and he has to choose between his principles and his office.
+The Bureaucrat's Dilemma
+: A superior's corruption reaches Rasunum's own desk, and he has to choose between his principles and his office.
 
-2. **Old Grudges**—Reformists who see him as a symbol of the stagnant system may make him the example when they move against it.
+Old Grudges
+: Reformists who see him as a symbol of the stagnant system may make him the example when they move against it.
 
-3. **Echoes of the Past**—A record Rasunum filed decades ago resurfaces and has to be answered for.
+Echoes of the Past
+: A record Rasunum filed decades ago resurfaces and has to be answered for.
 
-4. **Shifting Winds**—Political change in Taruzel threatens the offices Rasunum depends upon, and he can adapt, resist, or leave.
+Shifting Winds
+: Political change in Taruzel threatens the offices Rasunum depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—An offer of higher office comes to Rasunum from someone whose interest in him he cannot see, and its price is not named up front.
+The Opportunity
+: An offer of higher office comes to Rasunum from someone whose interest in him he cannot see, and its price is not named up front.

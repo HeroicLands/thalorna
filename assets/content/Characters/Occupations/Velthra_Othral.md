@@ -458,12 +458,17 @@ Velthra has no enemies in the conventional sense, but she has irritants that cou
 
 ## Plot Hooks
 
-1. **The Clinic**—A wealthy patron has offered to fund Velthra's clinic, but the offer comes with conditions: the patron wants naming rights, control over which patients are admitted, and the right to use the clinic's reputation for political purposes. Velthra must decide whether half a dream is better than none, or whether accepting would compromise everything the clinic is meant to be.
+The Clinic
+: A wealthy patron has offered to fund Velthra's clinic, but the offer comes with conditions: the patron wants naming rights, control over which patients are admitted, and the right to use the clinic's reputation for political purposes. Velthra must decide whether half a dream is better than none, or whether accepting would compromise everything the clinic is meant to be.
 
-2. **The Guild Complaint**—Drevan has escalated his campaign against unlicensed healers and has persuaded three council members to support an ordinance that would effectively shut down Velthra's surgery. The temple is reluctant to fight the battle publicly. Velthra must find allies, make arguments, and handle a political arena she has no experience in—or lose everything she has built.
+The Guild Complaint
+: Drevan has escalated his campaign against unlicensed healers and has persuaded three council members to support an ordinance that would effectively shut down Velthra's surgery. The temple is reluctant to fight the battle publicly. Velthra must find allies, make arguments, and handle a political arena she has no experience in—or lose everything she has built.
 
-3. **The Tenement Fire**—A fire in one of Fáerel's tenements kills several residents and injures dozens more. Velthra treats the survivors and, in doing so, discovers evidence that the building's condition was criminally neglected. Fáerel has powerful friends. Velthra has drawings of the damage and the testimony of people no one in authority wants to listen to. What she does with this evidence will define whether she remains a healer or becomes something more dangerous.
+The Tenement Fire
+: A fire in one of Fáerel's tenements kills several residents and injures dozens more. Velthra treats the survivors and, in doing so, discovers evidence that the building's condition was criminally neglected. Fáerel has powerful friends. Velthra has drawings of the damage and the testimony of people no one in authority wants to listen to. What she does with this evidence will define whether she remains a healer or becomes something more dangerous.
 
-4. **The Poisoned Well**—Water in the lower quarters has been making people sick—not dramatically, but persistently, in ways that Velthra recognizes as unnatural. Her investigation leads her upstream, socially and literally, into parts of the city she has never had reason to visit and conflicts she is not equipped to handle. The source of the contamination may be accidental, or it may be something far worse.
+The Poisoned Well
+: Water in the lower quarters has been making people sick—not dramatically, but persistently, in ways that Velthra recognizes as unnatural. Her investigation leads her upstream, socially and literally, into parts of the city she has never had reason to visit and conflicts she is not equipped to handle. The source of the contamination may be accidental, or it may be something far worse.
 
-5. **The Stranger's Offer**—A woman arrives at Velthra's surgery with a wound that was clearly inflicted by a blade and a story that does not hold together. She pays well, asks no questions, and leaves. She returns a week later with another wound. And then again. Velthra realizes she is treating someone involved in something violent, and the woman's trust in her discretion is itself a kind of trap—because if the wrong people learn that Velthra has been quietly stitching up a fugitive, her reputation and her freedom are both at risk.
+The Stranger's Offer
+: A woman arrives at Velthra's surgery with a wound that was clearly inflicted by a blade and a story that does not hold together. She pays well, asks no questions, and leaves. She returns a week later with another wound. And then again. Velthra realizes she is treating someone involved in something violent, and the woman's trust in her discretion is itself a kind of trap—because if the wrong people learn that Velthra has been quietly stitching up a fugitive, her reputation and her freedom are both at risk.

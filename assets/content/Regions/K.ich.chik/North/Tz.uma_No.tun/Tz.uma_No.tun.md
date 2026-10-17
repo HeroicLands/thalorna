@@ -101,8 +101,17 @@ The Ch'akun appear to maintain some presence in the contested [[place-hanalxilan
 
 ## See Also
 
-- [[place-hanalxilanrgn|Ha'nal Shi'lan]]—The contested borderlands to the north and west, source of frequent inter-tribal tensions
-- [[affiliation-xikulchakl|Shik'ul Ch'akal]]—The Otter People's eastern woodlands, connected via river routes and occasional diplomatic contact
-- [[affiliation-penqalchakal|P'enqal Ch'akal]]—The Coyote People's grasslands, contacted through the Ha'nal Shi'lan borderlands
-- [[place-kchchkcntnnt|K'ich'chik]]—The civilized southern lands, source of trade goods and occasional military threat
-- [[place-tzumanotunrgn|Ts'uma No'tun Region]]—The land Ts'uma No'tun holds
+[[place-hanalxilanrgn|Ha'nal Shi'lan]]
+: The contested borderlands to the north and west, source of frequent inter-tribal tensions
+
+[[affiliation-xikulchakl|Shik'ul Ch'akal]]
+: The Otter People's eastern woodlands, connected via river routes and occasional diplomatic contact
+
+[[affiliation-penqalchakal|P'enqal Ch'akal]]
+: The Coyote People's grasslands, contacted through the Ha'nal Shi'lan borderlands
+
+[[place-kchchkcntnnt|K'ich'chik]]
+: The civilized southern lands, source of trade goods and occasional military threat
+
+[[place-tzumanotunrgn|Ts'uma No'tun Region]]
+: The land Ts'uma No'tun holds

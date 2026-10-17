@@ -22,5 +22,8 @@ The village farms terraces and keeps goats, and is the poorest in the janapoda. 
 
 ## See Also
 
-- [[place-suvarnagirijnpd|Suvarnageri Janapoda]]—the land
-- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the temple-republic that holds it
+[[place-suvarnagirijnpd|Suvarnageri Janapoda]]
+: the land
+
+[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+: the temple-republic that holds it

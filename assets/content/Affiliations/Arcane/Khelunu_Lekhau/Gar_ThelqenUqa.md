@@ -64,6 +64,11 @@ The House is half a circuit. [[lore-ithnetau|Ithnetáu]], the night, completes i
 
 ## See Also
 
-- [[lore-athenuqa|Thelqen'Uqa]]—the domain
-- [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
-- [[place-khelunu|Khelunu]]—where the Eight are taught
+[[lore-athenuqa|Thelqen'Uqa]]
+: the domain
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the philosophy and the other seven domains
+
+[[place-khelunu|Khelunu]]
+: where the Eight are taught

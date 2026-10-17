@@ -92,8 +92,17 @@ The record the army keeps says the Twelfth was destroyed. The cohorts in the for
 
 ## See Also
 
-- [[lore-westernwars|The Western Wars]]—the stones the Twelfth was sent to enforce
-- [[lore-crownssettle|The Settlement of the Crowns]]—the silence the regency broke
-- [[place-twelfthcamp|The Twelfth's Last Camp]]—the fort below the passes
-- [[place-vylariargn|Vylaria Region]]—the Kervaron Spine and its passage-gifts
-- [[place-alndntrblnds|Áelendan Tribal Lands]]—the clans who hold the range
+[[lore-westernwars|The Western Wars]]
+: the stones the Twelfth was sent to enforce
+
+[[lore-crownssettle|The Settlement of the Crowns]]
+: the silence the regency broke
+
+[[place-twelfthcamp|The Twelfth's Last Camp]]
+: the fort below the passes
+
+[[place-vylariargn|Vylaria Region]]
+: the Kervaron Spine and its passage-gifts
+
+[[place-alndntrblnds|Áelendan Tribal Lands]]
+: the clans who hold the range

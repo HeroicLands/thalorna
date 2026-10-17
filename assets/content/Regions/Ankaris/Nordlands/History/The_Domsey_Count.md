@@ -130,9 +130,20 @@ Nobody by office. The Lawspeakers of the five kingdoms count the sittings, becau
 
 ## See Also
 
-- [[lore-nordfirstsit|The First Sitting on Domsey]]—the year the count begins
-- [[place-domsey|Domsey]]—the island and the sitting
-- [[place-hnarvdal|Hnarvdal]]—the reckoning-post that counts the winters
-- [[affiliation-skaldscrcl|Skalds' Circle]]—the keepers of the ages and the named years
-- [[lore-sumarmal|Somarmál]] · [[lore-midsumar|Midsomar]] · [[lore-vetrnaetr|Vetrnetr]] · [[lore-jol|Jel]]—the four turns of the year
-- [[lore-commoncal|The Vylarian Calendar]]—the reckoning these pages give beside the count
+[[lore-nordfirstsit|The First Sitting on Domsey]]
+: the year the count begins
+
+[[place-domsey|Domsey]]
+: the island and the sitting
+
+[[place-hnarvdal|Hnarvdal]]
+: the reckoning-post that counts the winters
+
+[[affiliation-skaldscrcl|Skalds' Circle]]
+: the keepers of the ages and the named years
+
+[[lore-sumarmal|Somarmál]] · [[lore-midsumar|Midsomar]] · [[lore-vetrnaetr|Vetrnetr]] · [[lore-jol|Jel]]
+: the four turns of the year
+
+[[lore-commoncal|The Vylarian Calendar]]
+: the reckoning these pages give beside the count

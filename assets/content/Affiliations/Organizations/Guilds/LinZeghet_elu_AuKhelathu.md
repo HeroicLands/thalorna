@@ -56,5 +56,8 @@ Licensing is the guild's trade. Say a village on the desert edge hires a hunter 
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu]]—The empire the guild's licenses cover
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-aukhelathrgq|Au'Khelathu]]
+: The empire the guild's licenses cover
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

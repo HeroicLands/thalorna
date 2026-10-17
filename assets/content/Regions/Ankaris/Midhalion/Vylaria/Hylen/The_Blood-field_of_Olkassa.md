@@ -39,6 +39,11 @@ The clergy of the [[affiliation-selmoros|Faith of Sélmoros]] and the [[affiliat
 
 ## See Also
 
-- [[lore-olcassabtl|The Battle of Olkassa]]—the battle that made it
-- [[lore-bloodfield|Blood-fields]]—what a quickening is
-- [[place-hylen|Hilen]]—the province it lies in
+[[lore-olcassabtl|The Battle of Olkassa]]
+: the battle that made it
+
+[[lore-bloodfield|Blood-fields]]
+: what a quickening is
+
+[[place-hylen|Hilen]]
+: the province it lies in

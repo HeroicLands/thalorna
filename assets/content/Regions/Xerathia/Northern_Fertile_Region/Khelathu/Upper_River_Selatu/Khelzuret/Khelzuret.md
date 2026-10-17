@@ -31,7 +31,14 @@ Khelzuret is the empire's great temple-city of the dead and the capital of the [
 
 ## See Also
 
-- [[affiliation-selatkhelzrt|The Selat of Khelzuret]]—Parent selat
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—Pantheon (Weth'ur, Hezmu'iri)
+[[affiliation-selatkhelzrt|The Selat of Khelzuret]]
+: Parent selat
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: Pantheon (Weth'ur, Hezmu'iri)

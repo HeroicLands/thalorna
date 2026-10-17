@@ -432,10 +432,14 @@ The _therkos_'s new favorite, a young singer from the capital who has told the _
 
 ## Plot Hooks
 
-1. **The Satire**—Mitharakis told a story at the _therkos_'s table about a lord who sold his own pass to the Varokh, and the hall laughed. The next morning a border-lord who had been at the table did not, and the _therkos_ has asked to see the fool.
+The Satire
+: Mitharakis told a story at the _therkos_'s table about a lord who sold his own pass to the Varokh, and the hall laughed. The next morning a border-lord who had been at the table did not, and the _therkos_ has asked to see the fool.
 
-2. **The Message**—A border-lord has asked Mitharakis, who goes where a lord's messenger cannot, to carry a word to a Varokh chief across the line. The word is not treason, quite.
+The Message
+: A border-lord has asked Mitharakis, who goes where a lord's messenger cannot, to carry a word to a Varokh chief across the line. The word is not treason, quite.
 
-3. **The Favorite**—The young singer has been given the _therkos_'s midwinter feast, and Mitharakis the servants' hall, which has asked him for the story about the singer.
+The Favorite
+: The young singer has been given the _therkos_'s midwinter feast, and Mitharakis the servants' hall, which has asked him for the story about the singer.
 
-4. **The Therkos's Temper**—The _therkos_ has begun to drink in the afternoons and to take the fool's stories as they are meant, and the officers have asked Mitharakis to say to him what they cannot.
+The Therkos's Temper
+: The _therkos_ has begun to drink in the afternoons and to take the fool's stories as they are meant, and the officers have asked Mitharakis to say to him what they cannot.

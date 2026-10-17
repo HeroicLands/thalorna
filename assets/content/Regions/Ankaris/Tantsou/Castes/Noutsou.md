@@ -25,12 +25,23 @@ The law gives a Noutsou two things. It forbids killing or maiming him without ca
 
 Against those it sets everything else:
 
-- **Obedience**: a Noutsou obeys any command from a member of any higher caste, and refusal is answered with death or the lash.
-- **No property**: everything he earns or is given belongs to his owner.
-- **No marriage**: no union of Noutsou is recognized, and their children are Noutsou from birth.
-- **No movement**: he goes nowhere without his owner's leave.
-- **No name**: he is recorded by his owner's name, a number and at most an epithet, and his classification tablet names the owner, not the bearer.
-- **No end**: the condition is permanent, and its stain is held to pass to every descendant.
+Obedience
+: a Noutsou obeys any command from a member of any higher caste, and refusal is answered with death or the lash.
+
+No property
+: everything he earns or is given belongs to his owner.
+
+No marriage
+: no union of Noutsou is recognized, and their children are Noutsou from birth.
+
+No movement
+: he goes nowhere without his owner's leave.
+
+No name
+: he is recorded by his owner's name, a number and at most an epithet, and his classification tablet names the owner, not the bearer.
+
+No end
+: the condition is permanent, and its stain is held to pass to every descendant.
 
 ## Living as Property
 
@@ -40,9 +51,14 @@ A Noutsou is used for whatever the owner needs: the fields, the mines, the house
 
 Three ways out exist in law, and few people walk any of them.
 
-- **Manumission**: an owner may free a slave, who is entered as [[lore-nouwen|Nouwén]] and given land to work.
-- **Service**: a slave who shows extraordinary courage in the empire's service—a stand on the field, a lord's life saved—may petition for elevation.
-- **Purchase**: a slave with a rare skill who is allowed to earn may in time negotiate the price of his own release.
+Manumission
+: an owner may free a slave, who is entered as [[lore-nouwen|Nouwén]] and given land to work.
+
+Service
+: a slave who shows extraordinary courage in the empire's service—a stand on the field, a lord's life saved—may petition for elevation.
+
+Purchase
+: a slave with a rare skill who is allowed to earn may in time negotiate the price of his own release.
 
 Freedom does not end the mark. A freed slave is entered in his new caste with the notation of what he was, and his neighbors treat him as what the notation says. His grandchildren may be accepted; his children usually are not.
 
@@ -50,9 +66,20 @@ The law offers no general road out. No court frees slaves in numbers, no reform 
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]]—rights and restrictions governing the Noutsou
-- [[lore-shuonong|Shuonong]]—merchants, the lowest free caste and the one directly above
-- [[lore-nouwen|Nouwén]]—peasant farmers, into whose caste a freed slave is entered
-- [[lore-wanduo|Wánduo]]—the sorcerer caste, enslaved and held high
-- [[lore-tseising|Law and Honor]]—the courts that hand down slavery as a sentence
-- [[affiliation-tantsouempr|Empire of Tantsou]]—overview of imperial society and structure
+[[lore-castelaws|Caste Laws]]
+: rights and restrictions governing the Noutsou
+
+[[lore-shuonong|Shuonong]]
+: merchants, the lowest free caste and the one directly above
+
+[[lore-nouwen|Nouwén]]
+: peasant farmers, into whose caste a freed slave is entered
+
+[[lore-wanduo|Wánduo]]
+: the sorcerer caste, enslaved and held high
+
+[[lore-tseising|Law and Honor]]
+: the courts that hand down slavery as a sentence
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: overview of imperial society and structure

@@ -68,7 +68,14 @@ The new Way is dressed in white stone, gleaming with gold leaf and polished bron
 
 ## See Also
 
-- [[place-removedkings|The Galleries of the Removed Kings]]—where the removed houses lie
-- [[place-zugezer|Zu-Gezer]]—the royal necropolis
-- [[lore-childfloods|The Child of Three Floods]]—the founding of the house that ordered it
-- [[lore-akhhsmeqes|The House of Meqes]]—the age
+[[place-removedkings|The Galleries of the Removed Kings]]
+: where the removed houses lie
+
+[[place-zugezer|Zu-Gezer]]
+: the royal necropolis
+
+[[lore-childfloods|The Child of Three Floods]]
+: the founding of the house that ordered it
+
+[[lore-akhhsmeqes|The House of Meqes]]
+: the age

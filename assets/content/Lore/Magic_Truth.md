@@ -193,8 +193,17 @@ Several practical implications follow from the metaphysics described above. The 
 
 ## See Also
 
-- [[affiliation-hexhodai|Zemor Hodhis]]—The Order's framework, in-world doctrine
-- [[affiliation-kentra|Kentra]]—The Order's mastery rank, and the _selthkelmeza_ affliction
-- [[affiliation-ordoarcanis|Thordimalon]]—The institution
-- [[doc-soulspirts|Souls and Spirits]]—_(GM-only)_ The ontology of souls, the Spirit world, gods, elementals, dragons, necromancy, and summoning
-- [[lore-frgntradcomp|Foreign Traditions Comparative]]—_(GM-only)_ How each non-Order tradition channels the potential, with reference to this document
+[[affiliation-hexhodai|Zemor Hodhis]]
+: The Order's framework, in-world doctrine
+
+[[affiliation-kentra|Kentra]]
+: The Order's mastery rank, and the _selthkelmeza_ affliction
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: The institution
+
+[[doc-soulspirts|Souls and Spirits]]
+: _(GM-only)_ The ontology of souls, the Spirit world, gods, elementals, dragons, necromancy, and summoning
+
+[[lore-frgntradcomp|Foreign Traditions Comparative]]
+: _(GM-only)_ How each non-Order tradition channels the potential, with reference to this document

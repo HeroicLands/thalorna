@@ -457,21 +457,43 @@ Flarnthira creates not for fame or fortune, though both have come to her, but be
 
 ### Strengths
 
-- **Masterful Ceramicist**: Her skill with the wheel and kiln is famous; she can coax clay into forms of breathtaking beauty and functionality. Few artisans in the realm can match her technical precision or artistic vision.
-- **Creativity**: Her mind constantly generates new designs, glazes, and techniques. She draws inspiration from sagas, nature, and the patterns of firelight, translating them into visual language through her work.
-- **Perfectionist**: Her attention to detail borders on supernatural; she catches flaws invisible to others and refuses to compromise on quality, so every piece bearing her mark is outstanding.
-- **Strong Observation**: Years spent reading clay, fire, and glaze have made her extraordinarily perceptive about materials and their properties; this observation extends to people, though she often keeps her insights to herself.
-- **Dexterity and Fine Motor Control**: Her hands are instruments of precise control, useful far beyond pottery should circumstances require.
-- **Physical Strength and Endurance**: Her work has made her surprisingly strong; she can lift heavy clay slabs and work the wheel for hours without fatigue.
+Masterful Ceramicist
+: Her skill with the wheel and kiln is famous; she can coax clay into forms of breathtaking beauty and functionality. Few artisans in the realm can match her technical precision or artistic vision.
+
+Creativity
+: Her mind constantly generates new designs, glazes, and techniques. She draws inspiration from sagas, nature, and the patterns of firelight, translating them into visual language through her work.
+
+Perfectionist
+: Her attention to detail borders on supernatural; she catches flaws invisible to others and refuses to compromise on quality, so every piece bearing her mark is outstanding.
+
+Strong Observation
+: Years spent reading clay, fire, and glaze have made her extraordinarily perceptive about materials and their properties; this observation extends to people, though she often keeps her insights to herself.
+
+Dexterity and Fine Motor Control
+: Her hands are instruments of precise control, useful far beyond pottery should circumstances require.
+
+Physical Strength and Endurance
+: Her work has made her surprisingly strong; she can lift heavy clay slabs and work the wheel for hours without fatigue.
 
 ### Weaknesses
 
-- **Perfectionism Becomes Paralysis**: Her standards can be so exacting that projects stretch interminably; she has ruined profitable commissions by refusing to deliver "imperfect" work.
-- **Poor Interpersonal Skills**: She struggles with marketing, negotiation, and the social aspects of business. Her bluntness often offends potential patrons or business partners.
-- **Emotional Isolation**: She finds it difficult to form close relationships, treating most people with cool distance or outright indifference.
-- **Resentment of Authority**: Having chafed under her father's expectations, she rebels against any authority figure; this has cost her opportunities and allies.
-- **Limited Combat Experience**: Despite her strength, she has no martial training and would be vulnerable in violent confrontation.
-- **Slow to Trust**: It takes years for Flarnthira to extend trust to another person; her suspicion can make collaboration difficult.
+Perfectionism Becomes Paralysis
+: Her standards can be so exacting that projects stretch interminably; she has ruined profitable commissions by refusing to deliver "imperfect" work.
+
+Poor Interpersonal Skills
+: She struggles with marketing, negotiation, and the social aspects of business. Her bluntness often offends potential patrons or business partners.
+
+Emotional Isolation
+: She finds it difficult to form close relationships, treating most people with cool distance or outright indifference.
+
+Resentment of Authority
+: Having chafed under her father's expectations, she rebels against any authority figure; this has cost her opportunities and allies.
+
+Limited Combat Experience
+: Despite her strength, she has no martial training and would be vulnerable in violent confrontation.
+
+Slow to Trust
+: It takes years for Flarnthira to extend trust to another person; her suspicion can make collaboration difficult.
 
 ## Social
 
@@ -507,12 +529,17 @@ The River Market Cooperative
 
 ## Plot Hooks
 
-1. **The Shattered Masterpiece**: Flarnthira has received an anonymous commission for a ceremonial urn said to contain the ashes of a long-dead king—work that could secure her legacy. However, the specifications are impossible: the piece must be both structurally perfect and fragile enough to shatter ceremonially at a specific moment. When the patron is revealed to be a conspiracy of nobles planning to use the urn's destruction as a signal for a coup, Flarnthira must decide whether to complete the work that will define her career or refuse and face the consequences of defying nobility.
+The Shattered Masterpiece
+: Flarnthira has received an anonymous commission for a ceremonial urn said to contain the ashes of a long-dead king—work that could secure her legacy. However, the specifications are impossible: the piece must be both structurally perfect and fragile enough to shatter ceremonially at a specific moment. When the patron is revealed to be a conspiracy of nobles planning to use the urn's destruction as a signal for a coup, Flarnthira must decide whether to complete the work that will define her career or refuse and face the consequences of defying nobility.
 
-2. **The Lost Glaze of Ástvaldur**: An elderly merchant brings Flarnthira a single fragment of pottery bearing a glaze of impossible beauty—ash-blue threaded with gold that seems to contain starlight. The merchant claims it comes from the potter **Ástvaldur the Wise**, said to have disappeared centuries ago. Flarnthira becomes obsessed with recreating the formula, but her investigations lead her into dangerous territory: the glaze may have been created using ingredients now forbidden by the Church, or worse, techniques involving arts that lie beyond the mortal realm.
+The Lost Glaze of Ástvaldur
+: An elderly merchant brings Flarnthira a single fragment of pottery bearing a glaze of impossible beauty—ash-blue threaded with gold that seems to contain starlight. The merchant claims it comes from the potter **Ástvaldur the Wise**, said to have disappeared centuries ago. Flarnthira becomes obsessed with recreating the formula, but her investigations lead her into dangerous territory: the glaze may have been created using ingredients now forbidden by the Church, or worse, techniques involving arts that lie beyond the mortal realm.
 
-3. **The Apprentice's Secret**: Flarnthira's promising young apprentice, **Tvalginda**, confesses that she has been secretly creating copies of Flarnthira's designs and selling them at lower prices to supplement her meager wages. Rather than dismiss her, Flarnthira recognizes herself in the girl's hunger to improve her station. She must balance two aims: mentoring Tvalginda toward skill while teaching her that true artistry cannot be rushed or compromised, all while the girl's impudent actions threaten both their reputations.
+The Apprentice's Secret
+: Flarnthira's promising young apprentice, **Tvalginda**, confesses that she has been secretly creating copies of Flarnthira's designs and selling them at lower prices to supplement her meager wages. Rather than dismiss her, Flarnthira recognizes herself in the girl's hunger to improve her station. She must balance two aims: mentoring Tvalginda toward skill while teaching her that true artistry cannot be rushed or compromised, all while the girl's impudent actions threaten both their reputations.
 
-4. **The Kiln That Burns Wrong**: One morning, Flarnthira's grand kiln—built stone by stone by her own hands—ceases to function properly. Fires that once reached perfect temperature now burn too hot or not hot enough, and pieces emerge warped or ruined. A visiting scholar suggests the kiln may have been subtly sabotaged by someone using methods both physical and magical. As Flarnthira investigates, she uncovers that **Kalf Stonebrow** has been employing a hedge-witch named **Brynhildra Braldaruk** to curse his competitor's tools. Flarnthira must decide whether to seek revenge, pursue justice, or find a way to transform curse into creation.
+The Kiln That Burns Wrong
+: One morning, Flarnthira's grand kiln—built stone by stone by her own hands—ceases to function properly. Fires that once reached perfect temperature now burn too hot or not hot enough, and pieces emerge warped or ruined. A visiting scholar suggests the kiln may have been subtly sabotaged by someone using methods both physical and magical. As Flarnthira investigates, she uncovers that **Kalf Stonebrow** has been employing a hedge-witch named **Brynhildra Braldaruk** to curse his competitor's tools. Flarnthira must decide whether to seek revenge, pursue justice, or find a way to transform curse into creation.
 
-5. **The Royal Commission Nobody Wants**: The King himself summons Flarnthira to craft commemorative vessels for an unpopular diplomatic marriage. The honor is immense, but the match is politically toxic—rumors suggest the bride was chosen through coercion, and her family is known for violence. Completing the work will elevate Flarnthira's status to national prominence but may entangle her in court intrigues that threaten not just her career but her life. Meanwhile, a clandestine group of nobles opposed to the marriage approaches her with an offer: create a flaw in the pieces that will humiliate the bride and sabotage the union.
+The Royal Commission Nobody Wants
+: The King himself summons Flarnthira to craft commemorative vessels for an unpopular diplomatic marriage. The honor is immense, but the match is politically toxic—rumors suggest the bride was chosen through coercion, and her family is known for violence. Completing the work will elevate Flarnthira's status to national prominence but may entangle her in court intrigues that threaten not just her career but her life. Meanwhile, a clandestine group of nobles opposed to the marriage approaches her with an offer: create a flaw in the pieces that will humiliate the bride and sabotage the union.

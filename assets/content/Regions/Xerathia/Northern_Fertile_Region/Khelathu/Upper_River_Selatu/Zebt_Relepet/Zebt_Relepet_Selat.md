@@ -37,11 +37,19 @@ The selat runs on the flood, the harvest and the render like every Khelathi sela
 
 ## Settlements
 
-- [[place-zebtrelepet|Zebt-Relepet]] (~28,000)—the selat capital and the seat of the Halzi'a.
-- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+[[place-zebtrelepet|Zebt-Relepet]] (~28,000)
+: the selat capital and the seat of the Halzi'a.
+
+The villages and estate-towns
+: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatzbtrlpt|The Selat of Zebt-Relepet]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-zebtrelepet|Zebt-Relepet]]—Selat capital
+[[affiliation-selatzbtrlpt|The Selat of Zebt-Relepet]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-zebtrelepet|Zebt-Relepet]]
+: Selat capital

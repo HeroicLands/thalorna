@@ -28,6 +28,11 @@ Bazunel uses the [[lore-trzlncrncy|Taruzelian Currency]], backed by Taruzelian r
 
 ## See Also
 
-- [[affiliation-bazunel|Bazunel]]—the city-state and its council
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the confederation
-- [[place-helionis|Helionis]]—the cultural counterpart across the sea
+[[affiliation-bazunel|Bazunel]]
+: the city-state and its council
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the confederation
+
+[[place-helionis|Helionis]]
+: the cultural counterpart across the sea

@@ -110,12 +110,23 @@ By frequency, the most common sanction is a **temporary suspension of clearing r
 
 ## Notable Houses and Officers
 
-- **House of Calventian**—the largest of the great houses, founded in Orzara three centuries ago to bank the rebuilding of the Restoration ([[lore-arzanasedict|The Edicts of Arzanas]]) and led by the Calventiani family across nine generations. Its senior partner is Danvor Maldor Lucia Calventiana, the guild's chief officer.
-- **House of Maximian Tertian**—the second-largest great house, of Helionite-Vylarian origin and politically aligned with the **[Reformist Faction]{.name data-type="affiliation"}** at court. **[Septimus Maximian Tertian]{.name data-type="being/npc"}** leads it.
-- **House of Verrius**—Vylarian and conservative, with strong ties to the _ethlen_ (Gilded) estate and, historically, to the Dukran's office.
-- **House of Therion**—of Heliónite origin and now continent-spanning, the principal Heliónite great house, which specializes in cross-territory clearing.
-- **House of Aldovardian**—Tarvénian, and unusual as a great house of Aureldian rather than Vylarian-Helionite origin. It won its position by aggressive expansion in the late post-imperial settlement, and **Danvor [Marcus Aldovardian]{.name data-type="being/npc"}** leads it, regarded by his Vylarian peers with formal correctness and informal suspicion.
-- **Septimus Maximian Tertian**—senior partner of his house, widely seen as the most politically capable Danvor of his generation after Lucia Calventiana and a likely successor when her tenure ends.
+House of Calventian
+: the largest of the great houses, founded in Orzara three centuries ago to bank the rebuilding of the Restoration ([[lore-arzanasedict|The Edicts of Arzanas]]) and led by the Calventiani family across nine generations. Its senior partner is Danvor Maldor Lucia Calventiana, the guild's chief officer.
+
+House of Maximian Tertian
+: the second-largest great house, of Helionite-Vylarian origin and politically aligned with the **[Reformist Faction]{.name data-type="affiliation"}** at court. **[Septimus Maximian Tertian]{.name data-type="being/npc"}** leads it.
+
+House of Verrius
+: Vylarian and conservative, with strong ties to the _ethlen_ (Gilded) estate and, historically, to the Dukran's office.
+
+House of Therion
+: of Heliónite origin and now continent-spanning, the principal Heliónite great house, which specializes in cross-territory clearing.
+
+House of Aldovardian
+: Tarvénian, and unusual as a great house of Aureldian rather than Vylarian-Helionite origin. It won its position by aggressive expansion in the late post-imperial settlement, and **Danvor [Marcus Aldovardian]{.name data-type="being/npc"}** leads it, regarded by his Vylarian peers with formal correctness and informal suspicion.
+
+Septimus Maximian Tertian
+: senior partner of his house, widely seen as the most politically capable Danvor of his generation after Lucia Calventiana and a likely successor when her tenure ends.
 
 ## Relations
 

@@ -86,9 +86,20 @@ Hojai is rumbling. The omen-readers are divided on whether the mountain condemns
 
 ## See Also
 
-- [[affiliation-jenchaiempr|Jenchai Empire]]—the realm, the court and the eight houses
-- [[place-hojai|Hojai]]—the mountain of the domain
-- [[place-yanwu|Yanwu]]—the castle town and seat
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
-- [[affiliation-shuiwojaidmn|Shuiwojai Domain]]—the rival house
-- [[being-pyrclsm|Pyroclasm]]—the fire elemental of the erupting mountains
+[[affiliation-jenchaiempr|Jenchai Empire]]
+: the realm, the court and the eight houses
+
+[[place-hojai|Hojai]]
+: the mountain of the domain
+
+[[place-yanwu|Yanwu]]
+: the castle town and seat
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait
+
+[[affiliation-shuiwojaidmn|Shuiwojai Domain]]
+: the rival house
+
+[[being-pyrclsm|Pyroclasm]]
+: the fire elemental of the erupting mountains

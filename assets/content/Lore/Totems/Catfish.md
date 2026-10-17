@@ -16,9 +16,20 @@ Nocturnal and opportunistic, catfish are bottom-dwellers that take advantage of 
 
 The Catfish person works out of sight and takes the openings others pass by. Such people are most productive in places nobody is looking at.
 
-- **Physical:** Smooth skin with a slight sheen; sinuous movements.
-- **Behavioral:** Active at night, takes advantage of situations and opportunities.
-- **Positive:** Adaptable, resourceful, and efficient.
-- **Negative:** Opportunistic, secretive, and may avoid daytime interactions.
-- **Minor Trait ([[sohl-none-doctrauma-adapt|Adaptable]]):** Reads situations quickly and adjusts their approach to fit, comfortable shifting tactics when circumstances change around them.
-- **Major Disorder ([[sohl-none-doctrauma-antscl|Antisocial]]):** Exploits every opportunity without a shred of concern for those harmed, treating others as tools to be used and discarded.
+Physical
+: Smooth skin with a slight sheen; sinuous movements.
+
+Behavioral
+: Active at night, takes advantage of situations and opportunities.
+
+Positive
+: Adaptable, resourceful, and efficient.
+
+Negative
+: Opportunistic, secretive, and may avoid daytime interactions.
+
+Minor Trait ([[sohl-none-doctrauma-adapt|Adaptable]])
+: Reads situations quickly and adjusts their approach to fit, comfortable shifting tactics when circumstances change around them.
+
+Major Disorder ([[sohl-none-doctrauma-antscl|Antisocial]])
+: Exploits every opportunity without a shred of concern for those harmed, treating others as tools to be used and discarded.

@@ -29,6 +29,11 @@ The quarrel between the two lords serves a third. **[Kilan Ilovrel na Ilovren]{.
 
 ## See Also
 
-- [[place-ceravelvale|Keravel Vale]]—the vale the lordship belongs to
-- [[scenario-bndtscrvlvl|The Bandits of Keravel Vale]]—the adventure's first part, set in Belsaren
-- [[place-ilovren|Ilovren]]—the neighboring lordship whose lord wants it
+[[place-ceravelvale|Keravel Vale]]
+: the vale the lordship belongs to
+
+[[scenario-bndtscrvlvl|The Bandits of Keravel Vale]]
+: the adventure's first part, set in Belsaren
+
+[[place-ilovren|Ilovren]]
+: the neighboring lordship whose lord wants it

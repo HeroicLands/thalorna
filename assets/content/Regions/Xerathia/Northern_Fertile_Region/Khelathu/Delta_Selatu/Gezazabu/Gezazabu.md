@@ -23,7 +23,14 @@ It holds the selat's chief temple of [[affiliation-thubai|Thuba'i]], the Halzi'a
 
 ## See Also
 
-- [[affiliation-selatgezazab|The Selat of Gezazabu]]—Parent selat
-- [[affiliation-deltaselatu|The Delta Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-thubai|Faith of Thuba'i]]—Patron cult
+[[affiliation-selatgezazab|The Selat of Gezazabu]]
+: Parent selat
+
+[[affiliation-deltaselatu|The Delta Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-thubai|Faith of Thuba'i]]
+: Patron cult

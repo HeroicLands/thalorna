@@ -43,10 +43,23 @@ The Thaz'Lekhau of Reth'Sa'ar is less wealthy than the heads of the great solar 
 
 ## See Also
 
-- [[affiliation-selatgrrthsr|The Selat of Gar-Reth'Sa'ar]]—parent selat
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—the selat class
-- [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'ar]]—the scribal schools
-- [[lore-khelunulekha|Khelunu Lekhau]]—the arcane tradition that takes its name from the city
-- [[lore-sunhouse|The Sun-House at Magu-Thelqen]]—the doctrine behind the sealed chamber
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—imperial overview
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—Reth'Sa'ar among the Twelve
+[[affiliation-selatgrrthsr|The Selat of Gar-Reth'Sa'ar]]
+: parent selat
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: the selat class
+
+[[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'ar]]
+: the scribal schools
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the arcane tradition that takes its name from the city
+
+[[lore-sunhouse|The Sun-House at Magu-Thelqen]]
+: the doctrine behind the sealed chamber
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: imperial overview
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: Reth'Sa'ar among the Twelve

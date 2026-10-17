@@ -42,11 +42,26 @@ The ring is the reason the north is grave without being hopeless. A people who k
 
 ## See Also
 
-- [[lore-thursblot|Thursblet]]—the cutting of the world from Hrimthur's body
-- [[lore-gnumborinn|Gnúmborinn]]—how Mótefnir made people, and how death came in
-- [[lore-aldarlok|Aldarlok]]—the close of this age
-- [[lore-tvelgaett|Tvelgaett]]—the gods' heirs, who come through the fire
-- [[lore-thursaett|Thursaett]]—the giant-kin the Ten broke
-- [[place-thursguard|Thursguard]]—the giants' enclosure in the void
-- [[lore-theshadow|The Shadow]]—the chaos that comes out of the void
-- [[affiliation-asguardian|Asguardian Pantheon]]—the Ten
+[[lore-thursblot|Thursblet]]
+: the cutting of the world from Hrimthur's body
+
+[[lore-gnumborinn|Gnúmborinn]]
+: how Mótefnir made people, and how death came in
+
+[[lore-aldarlok|Aldarlok]]
+: the close of this age
+
+[[lore-tvelgaett|Tvelgaett]]
+: the gods' heirs, who come through the fire
+
+[[lore-thursaett|Thursaett]]
+: the giant-kin the Ten broke
+
+[[place-thursguard|Thursguard]]
+: the giants' enclosure in the void
+
+[[lore-theshadow|The Shadow]]
+: the chaos that comes out of the void
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the Ten

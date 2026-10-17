@@ -23,6 +23,11 @@ Jarvel is brother to the Earl of [[place-degavel|Degavel]], and his charge is th
 
 ## See Also
 
-- [[place-ceravelvale|Keravel Vale]]—the vale the castle commands
-- [[place-belsaren|Belsaren]]—the lordship the Marshal handed to Tarlas
-- [[scenario-sumryprvnz|Summary of Provenzia]]—the kingdom as the adventure presents it
+[[place-ceravelvale|Keravel Vale]]
+: the vale the castle commands
+
+[[place-belsaren|Belsaren]]
+: the lordship the Marshal handed to Tarlas
+
+[[scenario-sumryprvnz|Summary of Provenzia]]
+: the kingdom as the adventure presents it

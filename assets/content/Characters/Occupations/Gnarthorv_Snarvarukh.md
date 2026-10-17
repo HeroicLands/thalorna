@@ -432,10 +432,14 @@ Nobody open, but a fjord is a small place, and the men he has ruled against over
 
 ## Plot Hooks
 
-1. **The Guest**—A jarl's kinsman, guesting at the manor, wants to take a stag the season forbids, and will take a refusal as an insult to his house. Lady Nulthira has left the answer to Gnarthorv.
+The Guest
+: A jarl's kinsman, guesting at the manor, wants to take a stag the season forbids, and will take a refusal as an insult to his house. Lady Nulthira has left the answer to Gnarthorv.
 
-2. **The Boundary**—Two clans of the fjord have brought Gnarthorv a dispute over a stretch of the wood's edge that both have grazed for a century.
+The Boundary
+: Two clans of the fjord have brought Gnarthorv a dispute over a stretch of the wood's edge that both have grazed for a century.
 
-3. **The Manor's Fortunes**—Lady Nulthira's income has failed and she is under pressure to sell the timber rights to the forest. Gnarthorv has been asked what the wood is worth, and the truth is not what she wants to hear.
+The Manor's Fortunes
+: Lady Nulthira's income has failed and she is under pressure to sell the timber rights to the forest. Gnarthorv has been asked what the wood is worth, and the truth is not what she wants to hear.
 
-4. **The Hard Winter**—The wolves have come down from the high ridge early and taken three of the village's cattle, and the fjord wants the pack hunted out. Gnarthorv knows the ridge cannot spare it and the village cannot spare the cattle.
+The Hard Winter
+: The wolves have come down from the high ridge early and taken three of the village's cattle, and the fjord wants the pack hunted out. Gnarthorv knows the ridge cannot spare it and the village cannot spare the cattle.

@@ -21,7 +21,14 @@ data:
 
 ## See Also
 
-- [[affiliation-selatyathlmt|The Selat of Yath-Lemet]]—Parent selat
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-tjelsuk|Faith of Tjelsur]]—Patron cult
+[[affiliation-selatyathlmt|The Selat of Yath-Lemet]]
+: Parent selat
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-tjelsuk|Faith of Tjelsur]]
+: Patron cult

@@ -139,19 +139,50 @@ Kalihara stands outside the continental monetary systems. Internal commerce runs
 
 ## See Also
 
-- [[place-klhrcntnnt|Kalihara]]—the island, its seas, and the long way home
-- [[place-kaliharargn|Kalihara Region]]—the inhabited country this polity holds
-- [[affiliation-tharivaan|Thári'vaan]]—the Living Whole, its observances and its custodians
-- [[lore-kaliharanclt|Kaliharan]]—the people, what they believe and what a person owes
-- [[lore-theithari|The Ithari]]—the precursors, their works across the world and their departure
-- [[place-ilovanu|Ilovanu]]—the principal port and the Council's seat
-- [[affiliation-councilisland|The Council of the Island]]—the body that governs and decides what outsiders are told
-- [[affiliation-wardensapproaches|The Wardens of the Approaches]]—the pilots, watchers and harbor-wardens
-- [[affiliation-housefactors|The House of Factors]]—the port council of Ilovanu
-- [[affiliation-keepershouse|The Keeper's House]]—the custodians of dark works at Kuomethei
-- [[affiliation-silharicircle|The Sílhari Circle]]—the custodians who hold that kaan'vaar has failed
-- [[affiliation-lineagekuethori|The Lineage Kuethori]] and [[affiliation-lineageavoluthei|The Lineage Avoluthei]]—the holders of the Gap and the Cloud Pass
-- [[place-vylarianse|Vylarian Sea]]—the inner sea whose western strait is the door to the island
-- [[skill-kalihrlng|Kalihari]]—the language of the island and its names
-- [[skill-valtarlng|Valtari]]—the harbor pidgin of the ports
-- [[doc-lnggsthlrn|Languages of Thalorna]]—language reference
+[[place-klhrcntnnt|Kalihara]]
+: the island, its seas, and the long way home
+
+[[place-kaliharargn|Kalihara Region]]
+: the inhabited country this polity holds
+
+[[affiliation-tharivaan|Thári'vaan]]
+: the Living Whole, its observances and its custodians
+
+[[lore-kaliharanclt|Kaliharan]]
+: the people, what they believe and what a person owes
+
+[[lore-theithari|The Ithari]]
+: the precursors, their works across the world and their departure
+
+[[place-ilovanu|Ilovanu]]
+: the principal port and the Council's seat
+
+[[affiliation-councilisland|The Council of the Island]]
+: the body that governs and decides what outsiders are told
+
+[[affiliation-wardensapproaches|The Wardens of the Approaches]]
+: the pilots, watchers and harbor-wardens
+
+[[affiliation-housefactors|The House of Factors]]
+: the port council of Ilovanu
+
+[[affiliation-keepershouse|The Keeper's House]]
+: the custodians of dark works at Kuomethei
+
+[[affiliation-silharicircle|The Sílhari Circle]]
+: the custodians who hold that kaan'vaar has failed
+
+[[affiliation-lineagekuethori|The Lineage Kuethori]] and [[affiliation-lineageavoluthei|The Lineage Avoluthei]]
+: the holders of the Gap and the Cloud Pass
+
+[[place-vylarianse|Vylarian Sea]]
+: the inner sea whose western strait is the door to the island
+
+[[skill-kalihrlng|Kalihari]]
+: the language of the island and its names
+
+[[skill-valtarlng|Valtari]]
+: the harbor pidgin of the ports
+
+[[doc-lnggsthlrn|Languages of Thalorna]]
+: language reference

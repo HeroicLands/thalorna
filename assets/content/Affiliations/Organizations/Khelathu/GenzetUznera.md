@@ -56,4 +56,5 @@ Plan a wedding, a naming or an inheritance with the calendar in hand. The temple
 
 ## See Also
 
-- [[affiliation-lutuznera|Lut-Uzn'era]]—The temple it governs
+[[affiliation-lutuznera|Lut-Uzn'era]]
+: The temple it governs

@@ -28,7 +28,14 @@ The [[lore-grukarfolk|Grukar Folk]] do not camp on the rise. The watch's patrols
 
 ## See Also
 
-- [[lore-burningeast|The Burning of the East]]—how the hall fell
-- [[place-dvulgvangr|Dvulgvangr]]—the ford below the rise, and its field
-- [[place-tvalgard|Tvalgard]]—the hall the king holds now
-- [[affiliation-kingdmtrgd|Kingdom of Targud]]—the Driskaruk and the king's ride
+[[lore-burningeast|The Burning of the East]]
+: how the hall fell
+
+[[place-dvulgvangr|Dvulgvangr]]
+: the ford below the rise, and its field
+
+[[place-tvalgard|Tvalgard]]
+: the hall the king holds now
+
+[[affiliation-kingdmtrgd|Kingdom of Targud]]
+: the Driskaruk and the king's ride

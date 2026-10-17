@@ -74,7 +74,14 @@ Riders on other wells watch the pattern with unease. A tribe that takes in vassa
 
 ## See Also
 
-- [[lore-sowidesclt|Sovidur]]—the steppe tribes and what they hold a person owes
-- [[affiliation-zrnshtrb|Zarnush]]—the middling tribe to the south that the Azardan may absorb
-- [[affiliation-shrzrtrb|Shirzari]], [[affiliation-drmndtrb|Durmand]]—the other great tribes of the central steppe
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the country the tribe grazes
+[[lore-sowidesclt|Sovidur]]
+: the steppe tribes and what they hold a person owes
+
+[[affiliation-zrnshtrb|Zarnush]]
+: the middling tribe to the south that the Azardan may absorb
+
+[[affiliation-shrzrtrb|Shirzari]], [[affiliation-drmndtrb|Durmand]]
+: the other great tribes of the central steppe
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the country the tribe grazes

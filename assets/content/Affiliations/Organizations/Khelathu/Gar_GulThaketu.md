@@ -60,4 +60,5 @@ If you are the smith, your reputation does not begin with the blade. It begins w
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The region it belongs to

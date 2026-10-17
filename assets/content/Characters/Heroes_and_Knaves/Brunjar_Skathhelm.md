@@ -444,8 +444,11 @@ No personal enemies beyond those the gang has made collectively. His sister, [Hi
 
 ## Plot Hooks
 
-1. **The Reluctant Informant**—Brunjár is captured during a botched ambush and, terrified, offers to lead the party to the Blackpine Wolves' camp in exchange for mercy. He is telling the truth and will cooperate fully, but his information may be incomplete—and if Dagbán learns of the betrayal before the party can act, Brunjár's life is forfeit.
+The Reluctant Informant
+: Brunjár is captured during a botched ambush and, terrified, offers to lead the party to the Blackpine Wolves' camp in exchange for mercy. He is telling the truth and will cooperate fully, but his information may be incomplete—and if Dagbán learns of the betrayal before the party can act, Brunjár's life is forfeit.
 
-2. **A Sister's Letter**—The party encounters a Varokh woman who is searching for her younger brother. She carries a scrap of cloth he'd recognize and asks strangers on the road if they've seen a young man with freckles and a sling. If the party has already dealt with the Blackpine Wolves, they must decide what to tell her about her brother's fate.
+A Sister's Letter
+: The party encounters a Varokh woman who is searching for her younger brother. She carries a scrap of cloth he'd recognize and asks strangers on the road if they've seen a young man with freckles and a sling. If the party has already dealt with the Blackpine Wolves, they must decide what to tell her about her brother's fate.
 
-3. **The Captive's Friend**—After a robbery, one of the gang's captives reports that a freckle-faced young bandit secretly loosened their bonds and whispered where to find help. The party can use this information to identify a potential ally within the gang—if they can reach Brunjár before Dagbán discovers his treachery.
+The Captive's Friend
+: After a robbery, one of the gang's captives reports that a freckle-faced young bandit secretly loosened their bonds and whispered where to find help. The party can use this information to identify a potential ally within the gang—if they can reach Brunjár before Dagbán discovers his treachery.

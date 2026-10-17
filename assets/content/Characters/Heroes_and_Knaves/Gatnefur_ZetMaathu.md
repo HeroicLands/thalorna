@@ -453,27 +453,37 @@ Gatnefur is driven by a belief that he has not yet created his masterpiece—the
 
 ### Strengths
 
-- **Mastery of Scent and Chemistry**: His knowledge of aromatic compounds and their effects is without equal. He understands which scents work well together and the science of how volatile compounds interact, stabilize, and fade over time.
+Mastery of Scent and Chemistry
+: His knowledge of aromatic compounds and their effects is without equal. He understands which scents work well together and the science of how volatile compounds interact, stabilize, and fade over time.
 
-- **Innovative Vision**: Gatnefur possesses a mind capable of imagining combinations and applications of scent that others would never conceive. This has allowed him to create entirely new categories of fragrances and applications.
+Innovative Vision
+: Gatnefur possesses a mind capable of imagining combinations and applications of scent that others would never conceive. This has allowed him to create entirely new categories of fragrances and applications.
 
-- **The Language of Scent**: He has developed the ability to create fragrances that convey specific emotions, memories, or narratives. Those who wear his creations often report vivid daydreams or unexpected emotional revelations.
+The Language of Scent
+: He has developed the ability to create fragrances that convey specific emotions, memories, or narratives. Those who wear his creations often report vivid daydreams or unexpected emotional revelations.
 
-- **Attention to Detail**: The scar on his neck came from someone who understood anatomy; ironically, Gatnefur himself possesses an anatomist's knowledge of sensory perception and how various compounds affect the human nervous system.
+Attention to Detail
+: The scar on his neck came from someone who understood anatomy; ironically, Gatnefur himself possesses an anatomist's knowledge of sensory perception and how various compounds affect the human nervous system.
 
-- **Drawn Artistry**: His hand is steady and skilled, allowing him to create elaborate designs, formulations, and artistic works in various mediums beyond his primary craft.
+Drawn Artistry
+: His hand is steady and skilled, allowing him to create elaborate designs, formulations, and artistic works in various mediums beyond his primary craft.
 
 ### Weaknesses
 
-- **Perceived Arrogance**: His confidence in his own vision and his dismissal of more traditional approaches have earned him enemies among the conservative guild masters who view him as a reckless iconoclast.
+Perceived Arrogance
+: His confidence in his own vision and his dismissal of more traditional approaches have earned him enemies among the conservative guild masters who view him as a reckless iconoclast.
 
-- **Experimental Excess**: His willingness to experiment with untested combinations and rare compounds has sometimes resulted in fragrances that are either unpleasant or potentially harmful. His caution is not always sufficient.
+Experimental Excess
+: His willingness to experiment with untested combinations and rare compounds has sometimes resulted in fragrances that are either unpleasant or potentially harmful. His caution is not always sufficient.
 
-- **Social Isolation**: His total dedication to his craft leaves little room for personal relationships or community engagement, making him seem cold and distant to many.
+Social Isolation
+: His total dedication to his craft leaves little room for personal relationships or community engagement, making him seem cold and distant to many.
 
-- **Vulnerability to Jealousy**: As Lekhur demonstrated, his successes generate dangerous envy in others. He maintains defensive security around his workshop but remains vulnerable to subtler forms of sabotage.
+Vulnerability to Jealousy
+: As Lekhur demonstrated, his successes generate dangerous envy in others. He maintains defensive security around his workshop but remains vulnerable to subtler forms of sabotage.
 
-- **Philosophical Rigidity**: Once he has committed to a particular vision or approach, he is difficult to dissuade, even when evidence suggests he may be wrong.
+Philosophical Rigidity
+: Once he has committed to a particular vision or approach, he is difficult to dissuade, even when evidence suggests he may be wrong.
 
 ## Social
 
@@ -509,12 +519,17 @@ Shelti the Alchemist
 
 ## Plot Hooks
 
-1. **The Formulary of Divine Scents**: A dying scholar approaches Gatnefur with a fragment of an ancient papyrus—a mere scrap, but bearing unmistakable symbols associated with the Age of Divine Kings, the age of the First Tablets. The scholar claims to have spent decades researching references to a fabled formulary containing recipes for fragrances of impossible power. Before the scholar succumbs to his illness, he reveals that he believes the complete formulary is hidden in a sealed chamber beneath the Great Temple of Uqa'a, protected by wards and guardians that have remained undisturbed for millennia. He asks Gatnefur to complete the work he could not, and leaves him a cryptic map and a single vial of an extraordinary fragrance that may be the key to the chamber. The problem: the Temple authorities have forbidden any excavation or research that might disturb the sanctity of the site, and powerful figures within the priesthood seem determined to prevent the formulary from being found.
+The Formulary of Divine Scents
+: A dying scholar approaches Gatnefur with a fragment of an ancient papyrus—a mere scrap, but bearing unmistakable symbols associated with the Age of Divine Kings, the age of the First Tablets. The scholar claims to have spent decades researching references to a fabled formulary containing recipes for fragrances of impossible power. Before the scholar succumbs to his illness, he reveals that he believes the complete formulary is hidden in a sealed chamber beneath the Great Temple of Uqa'a, protected by wards and guardians that have remained undisturbed for millennia. He asks Gatnefur to complete the work he could not, and leaves him a cryptic map and a single vial of an extraordinary fragrance that may be the key to the chamber. The problem: the Temple authorities have forbidden any excavation or research that might disturb the sanctity of the site, and powerful figures within the priesthood seem determined to prevent the formulary from being found.
 
-2. **The Counterfeit Creations**: Gatnefur's fragrances are so valuable that they have become targets for skilled counterfeiters. Someone is producing excellent imitations of his most popular creations—good enough to fool casual observers but inferior enough to damage his reputation when disappointed customers complain. Worse, the counterfeiter seems to have intimate knowledge of his formulations and his workshop's layout. Gatnefur suspects a former apprentice or collaborator, but the perpetrator has covered their tracks with great skill. He must track down the source of these counterfeits before his reputation is irreparably damaged, and when he does, he may discover a conspiracy far larger than simple commercial fraud.
+The Counterfeit Creations
+: Gatnefur's fragrances are so valuable that they have become targets for skilled counterfeiters. Someone is producing excellent imitations of his most popular creations—good enough to fool casual observers but inferior enough to damage his reputation when disappointed customers complain. Worse, the counterfeiter seems to have intimate knowledge of his formulations and his workshop's layout. Gatnefur suspects a former apprentice or collaborator, but the perpetrator has covered their tracks with great skill. He must track down the source of these counterfeits before his reputation is irreparably damaged, and when he does, he may discover a conspiracy far larger than simple commercial fraud.
 
-3. **The Fragrance of Madness**: A noblewoman approaches Gatnefur with a terrible request: she wants him to create a fragrance that will induce the bearer to fall in love with her. When he refuses on the grounds that such a thing is not only impossible but unethical, she instead offers him an astronomical sum to create something that mimics the effect closely enough—a fragrance that heightens suggestibility and emotional openness. Desperate for funding for his own research, Gatnefur agrees. But the fragrance he creates proves far more powerful than anyone anticipated. Those who wear it go beyond suggestibility into vivid delusions and lose all sense of personal agency. The noblewoman uses it to manipulate a prominent politician into committing an act of treason, and when the truth emerges, Gatnefur finds himself complicit in a scandal of enormous proportions. He must find a way to reverse the fragrance's effects before the political consequences tear the empire apart.
+The Fragrance of Madness
+: A noblewoman approaches Gatnefur with a terrible request: she wants him to create a fragrance that will induce the bearer to fall in love with her. When he refuses on the grounds that such a thing is not only impossible but unethical, she instead offers him an astronomical sum to create something that mimics the effect closely enough—a fragrance that heightens suggestibility and emotional openness. Desperate for funding for his own research, Gatnefur agrees. But the fragrance he creates proves far more powerful than anyone anticipated. Those who wear it go beyond suggestibility into vivid delusions and lose all sense of personal agency. The noblewoman uses it to manipulate a prominent politician into committing an act of treason, and when the truth emerges, Gatnefur finds himself complicit in a scandal of enormous proportions. He must find a way to reverse the fragrance's effects before the political consequences tear the empire apart.
 
-4. **The Merchant of Impossible Ingredients**: A mysterious trader approaches Gatnefur claiming to have access to ingredients that should not exist—flowers that grew only in the Time of Legends, oils extracted from creatures now thought to be extinct, essences that seem to shimmer with an inner light. The merchant's prices are exorbitant, but the ingredients are exactly what Gatnefur has been seeking to achieve his masterwork. However, as he begins to use these materials, he notices strange effects beyond mere fragrance: visions, premonitions, and glimpses of other places and times seem to accompany their use. He begins to suspect that these ingredients are drawn from somewhere outside the normal world. The question becomes: what is he creating, and what might it draw into the world if he succeeds?
+The Merchant of Impossible Ingredients
+: A mysterious trader approaches Gatnefur claiming to have access to ingredients that should not exist—flowers that grew only in the Time of Legends, oils extracted from creatures now thought to be extinct, essences that seem to shimmer with an inner light. The merchant's prices are exorbitant, but the ingredients are exactly what Gatnefur has been seeking to achieve his masterwork. However, as he begins to use these materials, he notices strange effects beyond mere fragrance: visions, premonitions, and glimpses of other places and times seem to accompany their use. He begins to suspect that these ingredients are drawn from somewhere outside the normal world. The question becomes: what is he creating, and what might it draw into the world if he succeeds?
 
-5. **A Debt Called In**: The mysterious figure known as Shelti the Alchemist appears at Gatnefur's workshop with a summons he cannot ignore. Years ago, Gatnefur acquired several rare ingredients from Shelti on what he believed was a deferred payment arrangement. Shelti now claims the debt has come due—not in coin, but in a specific task that only Gatnefur's skills and reputation can accomplish. Shelti wishes him to create a fragrance according to a specific formula and then deliver it to a location in the desert, asking no questions about its purpose. Gatnefur knows that Shelti moves in shadow circles—circles where poisons, dark magic, and forbidden rites are traded. Accepting the task will place him in complicity with forces he does not fully understand; refusing will likely result in violence and the destruction of everything he has built.
+A Debt Called In
+: The mysterious figure known as Shelti the Alchemist appears at Gatnefur's workshop with a summons he cannot ignore. Years ago, Gatnefur acquired several rare ingredients from Shelti on what he believed was a deferred payment arrangement. Shelti now claims the debt has come due—not in coin, but in a specific task that only Gatnefur's skills and reputation can accomplish. Shelti wishes him to create a fragrance according to a specific formula and then deliver it to a location in the desert, asking no questions about its purpose. Gatnefur knows that Shelti moves in shadow circles—circles where poisons, dark magic, and forbidden rites are traded. Accepting the task will place him in complicity with forces he does not fully understand; refusing will likely result in violence and the destruction of everything he has built.

@@ -20,5 +20,8 @@ The Massif stands in [[place-klhrlake|the Bowl Lake]] as a mount. The deep water
 
 ## See Also
 
-- [[place-klhrlake|The Bowl Lake]]—the lake the Massif stands in
-- [[place-klhrbowl|The Great Bowl]]—the basin that holds both
+[[place-klhrlake|The Bowl Lake]]
+: the lake the Massif stands in
+
+[[place-klhrbowl|The Great Bowl]]
+: the basin that holds both

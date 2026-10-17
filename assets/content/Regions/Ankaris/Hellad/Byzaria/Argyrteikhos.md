@@ -96,8 +96,17 @@ Argirteikhos uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Og
 
 ## See Also
 
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation whose defense its silver pays for
-- [[place-byzariargn|Bizaria Region]]—the League's country
-- [[place-argyrteikhos2|Argirteikhos]]—the citadel city
-- [[place-eastrnmrch|Eastern March]]—the frontier district beyond the pass
-- [[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-orashion|Órashion]]—the other four city-states
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation whose defense its silver pays for
+
+[[place-byzariargn|Bizaria Region]]
+: the League's country
+
+[[place-argyrteikhos2|Argirteikhos]]
+: the citadel city
+
+[[place-eastrnmrch|Eastern March]]
+: the frontier district beyond the pass
+
+[[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-orashion|Órashion]]
+: the other four city-states

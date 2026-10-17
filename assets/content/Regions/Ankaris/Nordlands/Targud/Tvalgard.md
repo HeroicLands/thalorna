@@ -34,5 +34,8 @@ Tvalgard's one argument with itself is whether a border town this grim can also 
 
 ## See Also
 
-- [[affiliation-kingdmtrgd|Kingdom of Targud]]—its seat and the king's hall
-- [[place-targud|Targud]]—the land the kingdom holds
+[[affiliation-kingdmtrgd|Kingdom of Targud]]
+: its seat and the king's hall
+
+[[place-targud|Targud]]
+: the land the kingdom holds

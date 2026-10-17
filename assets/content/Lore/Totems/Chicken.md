@@ -16,9 +16,20 @@ Timid and skittish, chickens are easily startled and rely on their quick reflexe
 
 Chicken people startle easily and look for safety in familiar things and routine. Quick reflexes and a circle of acquaintances keep them clear of danger.
 
-- **Physical:** Smaller, less imposing frame; possibly quick, jittery movements.
-- **Behavioral:** Timid and easily startled, wary of risks and changes.
-- **Positive:** Quick reflexes, cautious, and community-oriented.
-- **Negative:** Easily startled, anxious, and overly reliant on group dynamics.
-- **Minor Trait ([[sohl-none-doctrauma-cautious|Cautious]]):** Thinks things through carefully before acting, sometimes hesitating longer than necessary while weighing every possible risk.
-- **Major Disorder ([[sohl-none-doctrauma-anxiety|Anxiety]]):** Gripped by relentless, paralyzing worry over every conceivable danger, unable to find peace or rest.
+Physical
+: Smaller, less imposing frame; possibly quick, jittery movements.
+
+Behavioral
+: Timid and easily startled, wary of risks and changes.
+
+Positive
+: Quick reflexes, cautious, and community-oriented.
+
+Negative
+: Easily startled, anxious, and overly reliant on group dynamics.
+
+Minor Trait ([[sohl-none-doctrauma-cautious|Cautious]])
+: Thinks things through carefully before acting, sometimes hesitating longer than necessary while weighing every possible risk.
+
+Major Disorder ([[sohl-none-doctrauma-anxiety|Anxiety]])
+: Gripped by relentless, paralyzing worry over every conceivable danger, unable to find peace or rest.

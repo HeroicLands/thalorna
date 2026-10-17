@@ -36,7 +36,14 @@ The age has not ended. Its present is the twelfth year of [[being-garaumeqesxv|M
 
 ## See Also
 
-- [[lore-akhpriestthr|The Priests' Thrones]]—the age that ended with the child in the night
-- [[lore-childfloods|The Child of Three Floods]] · [[lore-greatremovl|The Great Removal]] · [[lore-bethuasep|The Separation of Bethua]]—the age's three events
-- [[place-removedkings|The Galleries of the Removed Kings]]—where the removed houses lie
-- [[lore-garauu|Gar-Auu]]—the king-list
+[[lore-akhpriestthr|The Priests' Thrones]]
+: the age that ended with the child in the night
+
+[[lore-childfloods|The Child of Three Floods]] · [[lore-greatremovl|The Great Removal]] · [[lore-bethuasep|The Separation of Bethua]]
+: the age's three events
+
+[[place-removedkings|The Galleries of the Removed Kings]]
+: where the removed houses lie
+
+[[lore-garauu|Gar-Auu]]
+: the king-list

@@ -30,8 +30,17 @@ Sealskins are also money. Along the northern coasts a bundle of good skins is a 
 
 ## See Also
 
-- [[lore-nrdlndswhal|The Whale Strand]]—the whale hunt and the law of the stranded whale
-- [[place-vithgard|Vithgard]]—the coast that lives by the whale and the seal
-- [[place-gnaldrfjord|Gnaldrfjord]]—a Norgaad fjord village that hunts both
-- [[lore-bartercnmy|Barter Economy]]—sealskins as northern money-goods
-- [[skill-nordmalng|Nordmal Language]]—the words of the whale and the seal
+[[lore-nrdlndswhal|The Whale Strand]]
+: the whale hunt and the law of the stranded whale
+
+[[place-vithgard|Vithgard]]
+: the coast that lives by the whale and the seal
+
+[[place-gnaldrfjord|Gnaldrfjord]]
+: a Norgaad fjord village that hunts both
+
+[[lore-bartercnmy|Barter Economy]]
+: sealskins as northern money-goods
+
+[[skill-nordmalng|Nordmal Language]]
+: the words of the whale and the seal

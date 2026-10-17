@@ -296,20 +296,29 @@ The jaws close with a force that goes through a skull and through armor that wou
 
 ## Attributes
 
-- **Strength:** 15-20 (1d6+14)
+Strength
+: 15-20 (1d6+14)
 
-- **Endurance:** 12-17 (1d6+11)
+Endurance
+: 12-17 (1d6+11)
 
-- **Dexterity:** 12-17 (1d6+11)
+Dexterity
+: 12-17 (1d6+11)
 
-- **Agility:** 13-18 (1d6+12)
+Agility
+: 13-18 (1d6+12)
 
-- **Perception:** 13-18 (1d6+12)
+Perception
+: 13-18 (1d6+12)
 
-- **Aura:** 11-16 (1d6+10)
+Aura
+: 11-16 (1d6+10)
 
-- **Will:** 12-17 (1d6+11)
+Will
+: 12-17 (1d6+11)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

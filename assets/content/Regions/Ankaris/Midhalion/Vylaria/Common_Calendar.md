@@ -88,20 +88,42 @@ Each month belongs to one of the gods of the [[affiliation-arldnpnthn|Aureldian 
 
 Seven days run on through the months without a break, so a weekday belongs to no date and the two are looked up together. The names are a farming year in miniature—the ground broken, the crop up, the crop in, and the work put down—and the Vylarian courts and counting-houses that have never held a plow use them without remark.
 
-1. **[Newday]{.name data-type="lore/calendar"}**—the week's first, and the day a piece of work is begun on.
-2. **[Tillday]{.name data-type="lore/calendar"}**—the ground worked.
-3. **[Growday]{.name data-type="lore/calendar"}**—the crop left to stand.
-4. **[Harvestday]{.name data-type="lore/calendar"}**—the crop taken.
-5. **[Reapday]{.name data-type="lore/calendar"}**—the field cleared behind it.
-6. **[Slowday]{.name data-type="lore/calendar"}**—the week running down, and the day accounts are settled on.
-7. **[Setday]{.name data-type="lore/calendar"}**—the week set down, and nothing begun on it.
+[Newday]{.name data-type="lore/calendar"}
+: the week's first, and the day a piece of work is begun on.
+
+[Tillday]{.name data-type="lore/calendar"}
+: the ground worked.
+
+[Growday]{.name data-type="lore/calendar"}
+: the crop left to stand.
+
+[Harvestday]{.name data-type="lore/calendar"}
+: the crop taken.
+
+[Reapday]{.name data-type="lore/calendar"}
+: the field cleared behind it.
+
+[Slowday]{.name data-type="lore/calendar"}
+: the week running down, and the day accounts are settled on.
+
+[Setday]{.name data-type="lore/calendar"}
+: the week set down, and nothing begun on it.
 
 Nothing divides the year evenly into weeks, so the seven run across the turn of the year as they run across the turn of a month. A date keeps its place in the calendar and does not keep its weekday, and a Vylarian who wants both consults an almanac like everybody else.
 
 ## See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the polity whose founding the calendar counts from
-- [[lore-vylariages|The Vylarian Ages]]—the eight ages Vylaria's historians divide the years into
-- [[lore-helladcal|The Hellád Calendar]]—the older count of the Hellád cities, divided into seven ages
-- [[place-worldthlrn|The World of Thalorna]]—the year and the quarter days the calendar divides
-- [[place-vaelith|Vaelith]]—the moon, on a cycle the calendar's months do not track
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the polity whose founding the calendar counts from
+
+[[lore-vylariages|The Vylarian Ages]]
+: the eight ages Vylaria's historians divide the years into
+
+[[lore-helladcal|The Hellád Calendar]]
+: the older count of the Hellád cities, divided into seven ages
+
+[[place-worldthlrn|The World of Thalorna]]
+: the year and the quarter days the calendar divides
+
+[[place-vaelith|Vaelith]]
+: the moon, on a cycle the calendar's months do not track

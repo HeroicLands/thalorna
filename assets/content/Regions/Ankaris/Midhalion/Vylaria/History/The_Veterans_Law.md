@@ -75,6 +75,11 @@ Recruits in numbers the Republic's levy never gave. A legion filled by men who w
 
 ## See Also
 
-- [[doc-vylrnctznshp|Vylarian Citizenship]]—what the status carries and how it is earned
-- [[lore-eaglecityrse|The Raising of the Eagle City]]—the thrima the right of residence is measured by
-- [[affiliation-vylrnmltry|The Vylarian Military]]—the legions the statute fills
+[[doc-vylrnctznshp|Vylarian Citizenship]]
+: what the status carries and how it is earned
+
+[[lore-eaglecityrse|The Raising of the Eagle City]]
+: the thrima the right of residence is measured by
+
+[[affiliation-vylrnmltry|The Vylarian Military]]
+: the legions the statute fills

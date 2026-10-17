@@ -49,6 +49,11 @@ A Reading held for the unnamed at the edge quiets the field for the night it is 
 
 ## See Also
 
-- [[lore-sealedgran|The Battle of the Sealed Granaries]]—the battle that made it
-- [[place-anlaghzetun|Anlagh-Zetun]] · [[affiliation-selatnlghztn|The Selat of Anlagh-Zetun]]—the city and the selat that keep it shut
-- [[lore-bloodfield|Blood-fields]]—what a _zelqezat_ is
+[[lore-sealedgran|The Battle of the Sealed Granaries]]
+: the battle that made it
+
+[[place-anlaghzetun|Anlagh-Zetun]] · [[affiliation-selatnlghztn|The Selat of Anlagh-Zetun]]
+: the city and the selat that keep it shut
+
+[[lore-bloodfield|Blood-fields]]
+: what a _zelqezat_ is

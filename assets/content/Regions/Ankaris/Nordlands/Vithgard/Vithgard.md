@@ -28,17 +28,37 @@ The people of Vithgard are renowned for whaling and seal-hunting, and the hunts 
 
 ## Places in the Land
 
-- [[place-thrunborg|Thrunborg]] (700 people): the seat and the royal hall.
-- [[place-hrandstead|Hrandstead]] (1,000): a fortified plateau town and the seat of its own province.
-- [[place-marvstead|Marvstead]] (500): ivory and antler carvers.
-- [[place-dvarnvik|Dvarnvík]] (450): a port with an open door.
-- [[place-knarvik|Knarvík]] (400): the refit yards.
-- [[place-hnarvdal|Hnarvdal]] (250): the valley of the reckoning-post.
-- [[place-logstead|Logstead]]: the law-stead, where the kingdom's ting sits.
-- [[place-snilthborg|Snilthborg]], [[place-inthstead|Inthstead]], [[place-askholm|Askholm]] and [[place-isdal|Isdal]]: the barracks, the border steading, the skerry and the empty dale.
+[[place-thrunborg|Thrunborg]] (700 people)
+: the seat and the royal hall.
+
+[[place-hrandstead|Hrandstead]] (1,000)
+: a fortified plateau town and the seat of its own province.
+
+[[place-marvstead|Marvstead]] (500)
+: ivory and antler carvers.
+
+[[place-dvarnvik|Dvarnvík]] (450)
+: a port with an open door.
+
+[[place-knarvik|Knarvík]] (400)
+: the refit yards.
+
+[[place-hnarvdal|Hnarvdal]] (250)
+: the valley of the reckoning-post.
+
+[[place-logstead|Logstead]]
+: the law-stead, where the kingdom's ting sits.
+
+[[place-snilthborg|Snilthborg]], [[place-inthstead|Inthstead]], [[place-askholm|Askholm]] and [[place-isdal|Isdal]]
+: the barracks, the border steading, the skerry and the empty dale.
 
 ## See Also
 
-- [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the kingdom that holds this land
-- [[place-nrdlndsrgn|Nordlands Region]]—the enclosing region
-- [[place-thrunborg|Thrunborg]]—the seat
+[[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
+: the kingdom that holds this land
+
+[[place-nrdlndsrgn|Nordlands Region]]
+: the enclosing region
+
+[[place-thrunborg|Thrunborg]]
+: the seat

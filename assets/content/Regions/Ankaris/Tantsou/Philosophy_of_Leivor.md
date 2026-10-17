@@ -76,12 +76,23 @@ The [[lore-medicine|medicine]] of Tantsou is built on Leiwo. The body is a small
 
 The healers assign the domains to the body this way:
 
-- **Air**: the lungs and the breath, the channels of speech and breathing.
-- **Fire**: the heart and the blood, the engine of transformation.
-- **Earth**: the spleen and the gut, the foundation.
-- **Metal**: the liver and the body's defenses, the boundary between self and other.
-- **Water**: the kidneys and the bladder, the channels of flow.
-- **Spirit**: the mind and the soul, the seat of administration.
+Air
+: the lungs and the breath, the channels of speech and breathing.
+
+Fire
+: the heart and the blood, the engine of transformation.
+
+Earth
+: the spleen and the gut, the foundation.
+
+Metal
+: the liver and the body's defenses, the boundary between self and other.
+
+Water
+: the kidneys and the bladder, the channels of flow.
+
+Spirit
+: the mind and the soul, the seat of administration.
 
 ## Lei in Government
 
@@ -105,10 +116,23 @@ Marriage, ritual and daily custom are all arranged to keep Lei flowing properly 
 
 ## See Also
 
-- [[lore-celestlrdr|Celestial Order]]—the bureaucracy of heaven that Leiwo explains
-- [[lore-fvlmntlrds|Five Elemental Lords]]—the bureau chiefs of the material domains
-- [[lore-infrnlrlms|Infernal Realms]]—where the Sorting was left unfinished
-- [[lore-medicine|Medicine]]—Leiwo applied to the body
-- [[lore-wanduo|Wánduo]]—the sorcerers who work Lei through the petition
-- [[lore-castelaws|Caste Laws]]—the castes and the Lei each carries
-- [[affiliation-tantsouempr|Empire of Tantsou]]—overview of imperial culture
+[[lore-celestlrdr|Celestial Order]]
+: the bureaucracy of heaven that Leiwo explains
+
+[[lore-fvlmntlrds|Five Elemental Lords]]
+: the bureau chiefs of the material domains
+
+[[lore-infrnlrlms|Infernal Realms]]
+: where the Sorting was left unfinished
+
+[[lore-medicine|Medicine]]
+: Leiwo applied to the body
+
+[[lore-wanduo|Wánduo]]
+: the sorcerers who work Lei through the petition
+
+[[lore-castelaws|Caste Laws]]
+: the castes and the Lei each carries
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: overview of imperial culture

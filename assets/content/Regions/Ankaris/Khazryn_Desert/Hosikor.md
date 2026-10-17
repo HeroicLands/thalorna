@@ -49,12 +49,29 @@ Beyond the cities there are giant camel spiders at every well, bone scorpions in
 
 ## See Also
 
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the enclosing region
-- [[place-qisomrktcmp|Qiiso]]—the market-camp at the road's heart
-- [[place-yemokwell|Yemok]]—the western hand-off well
-- [[place-sowidwell|Sovid]]—the eastern hand-off well
-- [[lore-celestialroad|The Celestial Road]]—the caravan road to Tantsou
-- [[lore-bloodfield|Blood-fields]]—what the dead cities left behind
-- [[place-dkrqrrgn|Diqraqor]]—the stone uplands to the south
-- [[place-qelodwatri|Kelodvootri]]—an owned spring with a chained well
-- [[place-bolidqiso|Bolidqiiso]]—a counting-house tower of Vulud
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the enclosing region
+
+[[place-qisomrktcmp|Qiiso]]
+: the market-camp at the road's heart
+
+[[place-yemokwell|Yemok]]
+: the western hand-off well
+
+[[place-sowidwell|Sovid]]
+: the eastern hand-off well
+
+[[lore-celestialroad|The Celestial Road]]
+: the caravan road to Tantsou
+
+[[lore-bloodfield|Blood-fields]]
+: what the dead cities left behind
+
+[[place-dkrqrrgn|Diqraqor]]
+: the stone uplands to the south
+
+[[place-qelodwatri|Kelodvootri]]
+: an owned spring with a chained well
+
+[[place-bolidqiso|Bolidqiiso]]
+: a counting-house tower of Vulud

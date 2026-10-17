@@ -452,21 +452,43 @@ Agélara's driving passion is simple: she wants to create sanctuary. In a world 
 
 ### Strengths
 
-- **Hospitality and Social Grace**: She possesses an almost supernatural ability to make any guest feel welcomed, valued, and comfortable. People who stay at her Inn often report it as one of the most pleasant experiences of their travels.
-- **Masterful Cooking and Beverage Craft**: Her culinary skills are impressive, and her knowledge of brewing, wine selection, and spice pairings allows her to create experiences that delight even the most discerning palates.
-- **Memory and Attention to Detail**: She remembers names, preferences, and personal details with eerie accuracy, creating connections with guests that extend far beyond standard innkeeper-customer relationships.
-- **Linguistic Ability**: She speaks four languages fluently, allowing her to communicate with travelers from across the known world and making her a bridge between peoples.
-- **Emotional Intelligence**: She reads people with extraordinary accuracy, understanding their needs and desires often before they articulate them. This makes her an excellent mediator and confidante.
-- **Financial Acumen and Record-Keeping**: Despite her people-focused nature, she is surprisingly skilled with the business and accounting aspects of running an establishment, maintaining detailed ledgers and watching her coin carefully.
+Hospitality and Social Grace
+: She possesses an almost supernatural ability to make any guest feel welcomed, valued, and comfortable. People who stay at her Inn often report it as one of the most pleasant experiences of their travels.
+
+Masterful Cooking and Beverage Craft
+: Her culinary skills are impressive, and her knowledge of brewing, wine selection, and spice pairings allows her to create experiences that delight even the most discerning palates.
+
+Memory and Attention to Detail
+: She remembers names, preferences, and personal details with eerie accuracy, creating connections with guests that extend far beyond standard innkeeper-customer relationships.
+
+Linguistic Ability
+: She speaks four languages fluently, allowing her to communicate with travelers from across the known world and making her a bridge between peoples.
+
+Emotional Intelligence
+: She reads people with extraordinary accuracy, understanding their needs and desires often before they articulate them. This makes her an excellent mediator and confidante.
+
+Financial Acumen and Record-Keeping
+: Despite her people-focused nature, she is surprisingly skilled with the business and accounting aspects of running an establishment, maintaining detailed ledgers and watching her coin carefully.
 
 ### Weaknesses
 
-- **Excessive Trust and Naiveté**: Her fundamental belief in human goodness makes her vulnerable to manipulation and deception. She has been financially taken advantage of multiple times by charming swindlers.
-- **Difficulty with Hard Negotiations**: She struggles with business dealings that require aggressive negotiation or stating firm boundaries. She often accepts unfavorable terms rather than risk conflict with suppliers or tradesmen.
-- **Emotional Vulnerability**: Her fellow-feeling, while her greatest strength, also makes her emotionally vulnerable. She absorbs others' pain and troubles, sometimes to the detriment of her own wellbeing.
-- **Limited Combat or Physical Defense Ability**: She has no martial training and would be completely helpless in physical conflict. Her Inn's safety depends on maintaining good relationships with local authorities and avoiding conflict, not on her ability to defend herself.
-- **Overconfidence in Her Own Judgment**: While her intuition about people is often accurate, she occasionally misreads situations, particularly those involving organized deception or malice, and then doubts herself excessively when proven wrong.
-- **Lack of True Ambition**: She is content with modest success, which some potential allies view as lack of drive; she is unlikely to pursue aggressive expansion or take major risks for greater profit.
+Excessive Trust and Naiveté
+: Her fundamental belief in human goodness makes her vulnerable to manipulation and deception. She has been financially taken advantage of multiple times by charming swindlers.
+
+Difficulty with Hard Negotiations
+: She struggles with business dealings that require aggressive negotiation or stating firm boundaries. She often accepts unfavorable terms rather than risk conflict with suppliers or tradesmen.
+
+Emotional Vulnerability
+: Her fellow-feeling, while her greatest strength, also makes her emotionally vulnerable. She absorbs others' pain and troubles, sometimes to the detriment of her own wellbeing.
+
+Limited Combat or Physical Defense Ability
+: She has no martial training and would be completely helpless in physical conflict. Her Inn's safety depends on maintaining good relationships with local authorities and avoiding conflict, not on her ability to defend herself.
+
+Overconfidence in Her Own Judgment
+: While her intuition about people is often accurate, she occasionally misreads situations, particularly those involving organized deception or malice, and then doubts herself excessively when proven wrong.
+
+Lack of True Ambition
+: She is content with modest success, which some potential allies view as lack of drive; she is unlikely to pursue aggressive expansion or take major risks for greater profit.
 
 ## Social
 
@@ -502,12 +524,17 @@ The Ólvenia Circle
 
 ## Plot Hooks
 
-1. **The Eavesdropper's Secret**: A mysterious guest, **Samariel the Veiled**, takes a room at the Gilded Gryphon and slowly reveals to Agélara that she is fleeing a dangerous marriage—her husband is politically connected and has hired agents to locate her. While Agélara provides refuge and comfort, she learns that Samariel overheard a conspiracy being discussed in one of the tavern's private rooms: wealthy merchants plotting to corner the grain market, causing artificial shortages that would starve the poor. She can protect her guest's confidence and stay silent, or expose the conspiracy and risk drawing both Samariel and herself into deadly danger.
+The Eavesdropper's Secret
+: A mysterious guest, **Samariel the Veiled**, takes a room at the Gilded Gryphon and slowly reveals to Agélara that she is fleeing a dangerous marriage—her husband is politically connected and has hired agents to locate her. While Agélara provides refuge and comfort, she learns that Samariel overheard a conspiracy being discussed in one of the tavern's private rooms: wealthy merchants plotting to corner the grain market, causing artificial shortages that would starve the poor. She can protect her guest's confidence and stay silent, or expose the conspiracy and risk drawing both Samariel and herself into deadly danger.
 
-2. **The Forged Ledgers**: A corrupt merchant, **Lodisash Gokhetkar**, who frequented the Gilded Gryphon for years and left large debts, has disappeared after his crimes were exposed. Authorities arrive at the Inn accusing Agélara of being complicit in his crimes—claiming she helped him hide stolen money in the Inn's accounts. Her careful ledgers should prove her innocent, but she discovers they have been subtly altered to create the appearance of fraudulent transactions. Someone has broken into her records and fabricated evidence. Agélara must investigate who did this and why, potentially uncovering a larger conspiracy that implicates someone powerful.
+The Forged Ledgers
+: A corrupt merchant, **Lodisash Gokhetkar**, who frequented the Gilded Gryphon for years and left large debts, has disappeared after his crimes were exposed. Authorities arrive at the Inn accusing Agélara of being complicit in his crimes—claiming she helped him hide stolen money in the Inn's accounts. Her careful ledgers should prove her innocent, but she discovers they have been subtly altered to create the appearance of fraudulent transactions. Someone has broken into her records and fabricated evidence. Agélara must investigate who did this and why, potentially uncovering a larger conspiracy that implicates someone powerful.
 
-3. **The Lost Heir**: An elderly scholar, **Doríanazh Gováhr**, arrives at the Gilded Gryphon carrying a letter supposedly proving that a common shipyard worker named **Torinn** is actually the missing heir to one of the Bizarian League's greatest fortunes, heir to the House of **Stellenos**. The letter is ancient and its authenticity is unclear. The scholar asks Agélara for shelter and secrecy while he verifies the claim, but word of this possibility begins to circulate. Both the sitting holder of the House title and various criminal elements become interested in finding and silencing Torinn before the truth emerges. Agélara becomes an unlikely protector of a man whose very existence could reshape the League's politics.
+The Lost Heir
+: An elderly scholar, **Doríanazh Gováhr**, arrives at the Gilded Gryphon carrying a letter supposedly proving that a common shipyard worker named **Torinn** is actually the missing heir to one of the Bizarian League's greatest fortunes, heir to the House of **Stellenos**. The letter is ancient and its authenticity is unclear. The scholar asks Agélara for shelter and secrecy while he verifies the claim, but word of this possibility begins to circulate. Both the sitting holder of the House title and various criminal elements become interested in finding and silencing Torinn before the truth emerges. Agélara becomes an unlikely protector of a man whose very existence could reshape the League's politics.
 
-4. **The Poisoner's Bargain**: A plague enters the city, and the Gilded Gryphon becomes a place of refuge for the sick and dying. Agélara's skill at nursing and her store of healing herbs save many lives, earning her local sainthood. However, she is approached secretly by **Physician-Master Drorazur**, who believes the plague was deliberately introduced by someone trying to eliminate a specific person—he suspects a wealthy family is using the chaos to commit murder. He asks Agélara to help identify which of her guests is the target and which might be the perpetrator, using her intimate knowledge of her visitors. Helping him could save an innocent life but also make her a target if the murderer realizes she suspects them.
+The Poisoner's Bargain
+: A plague enters the city, and the Gilded Gryphon becomes a place of refuge for the sick and dying. Agélara's skill at nursing and her store of healing herbs save many lives, earning her local sainthood. However, she is approached secretly by **Physician-Master Drorazur**, who believes the plague was deliberately introduced by someone trying to eliminate a specific person—he suspects a wealthy family is using the chaos to commit murder. He asks Agélara to help identify which of her guests is the target and which might be the perpetrator, using her intimate knowledge of her visitors. Helping him could save an innocent life but also make her a target if the murderer realizes she suspects them.
 
-5. **The Inheritance No One Wants**: Agélara is shocked to learn that her estranged Uncle **Tarázikon**—a man she has never met—has died in a distant city and named her as the beneficiary of a substantial estate. The inheritance comes with mysteries: why would a relative she never knew leave her everything, and what are the dark secrets that seem to surround the estate? When she travels to claim it, she discovers the house is haunted—not by spirits, but by the ghosts of her family's past, including evidence that her uncle was killed under mysterious circumstances. She becomes entangled in uncovering truths that her father never wanted her to know.
+The Inheritance No One Wants
+: Agélara is shocked to learn that her estranged Uncle **Tarázikon**—a man she has never met—has died in a distant city and named her as the beneficiary of a substantial estate. The inheritance comes with mysteries: why would a relative she never knew leave her everything, and what are the dark secrets that seem to surround the estate? When she travels to claim it, she discovers the house is haunted—not by spirits, but by the ghosts of her family's past, including evidence that her uncle was killed under mysterious circumstances. She becomes entangled in uncovering truths that her father never wanted her to know.

@@ -17,6 +17,11 @@ Qeztu is a selat god without a myth. He is Balehen's god: the fortress's oath an
 
 ## See Also
 
-- [[affiliation-qeztu|Faith of Qeztu]]—the cult and its offices
-- [[place-balehen|Balehen]]—the war-temple's fortress
-- [[affiliation-borderselatu|The Border Selatu]]—the selatu where he is strong
+[[affiliation-qeztu|Faith of Qeztu]]
+: the cult and its offices
+
+[[place-balehen|Balehen]]
+: the war-temple's fortress
+
+[[affiliation-borderselatu|The Border Selatu]]
+: the selatu where he is strong

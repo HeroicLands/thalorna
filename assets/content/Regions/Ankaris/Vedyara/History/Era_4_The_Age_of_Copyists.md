@@ -18,9 +18,14 @@ About 60 AF the clans of the northern highlands chartered a king to hold the roa
 
 ## Rulers
 
-- **Vyalendra:** **Nilapati**, crowned about 125 BF, then nine kings nobody outside the cloth-court remembers, then the eleventh and last, unnamed in every account.
-- **Bharyastan:** **Dhursavira**, who swore the gold treaty about 80 BF; his line has held the kingdom by inheritance since, broken twice by acclamation.
-- **Shikharalaya:** **Himavira**, chartered about 60 AF.
+Vyalendra
+: **Nilapati**, crowned about 125 BF, then nine kings nobody outside the cloth-court remembers, then the eleventh and last, unnamed in every account.
+
+Bharyastan
+: **Dhursavira**, who swore the gold treaty about 80 BF; his line has held the kingdom by inheritance since, broken twice by acclamation.
+
+Shikharalaya
+: **Himavira**, chartered about 60 AF.
 
 ## Its End
 
@@ -28,6 +33,11 @@ About 150 AF the eleventh Vyalendri king's line ended, and the Loom-Council sat 
 
 ## See Also
 
-- [[lore-agekingdoms|The Age of Kingdoms]] · [[lore-hundredcrwn|The Hundred Crowns]]—the ages on either side
-- [[place-raiderscairn|The Raiders' Cairn]]—where the last gold raid was caught
-- [[place-drownedcptl|The Drowned Capital]]—the seat the river took
+[[lore-agekingdoms|The Age of Kingdoms]] · [[lore-hundredcrwn|The Hundred Crowns]]
+: the ages on either side
+
+[[place-raiderscairn|The Raiders' Cairn]]
+: where the last gold raid was caught
+
+[[place-drownedcptl|The Drowned Capital]]
+: the seat the river took

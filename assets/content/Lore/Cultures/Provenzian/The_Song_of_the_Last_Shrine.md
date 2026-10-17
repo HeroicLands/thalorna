@@ -289,9 +289,20 @@ and the Last Shrine stands at the end of the road.
 
 ## See Also
 
-- [[place-volsather|Volsater]]—the harbor at the foot of the cut, and the fast boats that leave on the evening wind
-- [[place-zuravlenrgn|Zuravlen Region]]—the cliff coast on the cold ocean
-- [[affiliation-pozeras|Faith of Pozeras]]—the Wanderer's Blessing, the Arrivals and the way-shrines
-- [[affiliation-brazemas|Faith of Brazemas]]—the Thunderer, whom sailors invoke beside the Wayfarer
-- [[lore-saltpansongs|The Songs of the Salt Pans]]—the women's songs the lamp line comes from
-- [[lore-provenzianclt|Provenzian]]—the order of what a man owes, and the train that follows a patron
+[[place-volsather|Volsater]]
+: the harbor at the foot of the cut, and the fast boats that leave on the evening wind
+
+[[place-zuravlenrgn|Zuravlen Region]]
+: the cliff coast on the cold ocean
+
+[[affiliation-pozeras|Faith of Pozeras]]
+: the Wanderer's Blessing, the Arrivals and the way-shrines
+
+[[affiliation-brazemas|Faith of Brazemas]]
+: the Thunderer, whom sailors invoke beside the Wayfarer
+
+[[lore-saltpansongs|The Songs of the Salt Pans]]
+: the women's songs the lamp line comes from
+
+[[lore-provenzianclt|Provenzian]]
+: the order of what a man owes, and the train that follows a patron

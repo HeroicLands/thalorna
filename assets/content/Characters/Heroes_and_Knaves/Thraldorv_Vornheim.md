@@ -447,19 +447,37 @@ Thraldorv seeks primarily the satisfaction of doing his work well—to earn fair
 
 ### Strengths
 
-- **Overwhelming Strength**: Possesses supernatural levels of physical power; can wield weapons and armor that would cripple normal men and accomplish feats of raw force that seem impossible
-- **Combat Mastery**: Decades of warfare for pay have created a warrior of great skill in hand-to-hand combat, melee weapons, and tactical positioning
-- **Courage**: Demonstrates almost unnatural resistance to fear; will stand firm in the face of overwhelming odds where lesser men would flee
-- **Protective Loyalty**: Once hired, will shield his charge from harm with his own body, positioning himself between danger and those he defends
-- **Tactical Acumen**: Despite outward simplicity, possesses real knowledge of strategy and can recognize military advantages and disadvantages with impressive speed
+Overwhelming Strength
+: Possesses supernatural levels of physical power; can wield weapons and armor that would cripple normal men and accomplish feats of raw force that seem impossible
+
+Combat Mastery
+: Decades of warfare for pay have created a warrior of great skill in hand-to-hand combat, melee weapons, and tactical positioning
+
+Courage
+: Demonstrates almost unnatural resistance to fear; will stand firm in the face of overwhelming odds where lesser men would flee
+
+Protective Loyalty
+: Once hired, will shield his charge from harm with his own body, positioning himself between danger and those he defends
+
+Tactical Acumen
+: Despite outward simplicity, possesses real knowledge of strategy and can recognize military advantages and disadvantages with impressive speed
 
 ### Weaknesses
 
-- **Poor Communication**: Struggles with negotiation, diplomacy, and articulating complex ideas; easily outmaneuvered in social or political settings by more eloquent opponents
-- **Excessive Aggression**: Tends toward violent solutions first, and sometimes fails to recognize non-violent alternatives that might serve better
-- **Social Discomfort**: Deeply ill at ease in courtly or refined settings; his presence often causes tension and his behavior can be misinterpreted as hostility
-- **Moral Exhaustion**: The weight of accumulated bloodshed burdens him in ways he struggles to manage; turning increasingly to alcohol to suppress darker thoughts
-- **Inflexible Contracts**: Once committed to a contract, will not deviate from its terms even if circumstances suggest adaptation would serve all parties better; views honor as absolute adherence
+Poor Communication
+: Struggles with negotiation, diplomacy, and articulating complex ideas; easily outmaneuvered in social or political settings by more eloquent opponents
+
+Excessive Aggression
+: Tends toward violent solutions first, and sometimes fails to recognize non-violent alternatives that might serve better
+
+Social Discomfort
+: Deeply ill at ease in courtly or refined settings; his presence often causes tension and his behavior can be misinterpreted as hostility
+
+Moral Exhaustion
+: The weight of accumulated bloodshed burdens him in ways he struggles to manage; turning increasingly to alcohol to suppress darker thoughts
+
+Inflexible Contracts
+: Once committed to a contract, will not deviate from its terms even if circumstances suggest adaptation would serve all parties better; views honor as absolute adherence
 
 ## Social
 
@@ -495,12 +513,17 @@ The Asguardian Brotherhood
 
 ## Plot Hooks
 
-1. **The Ghost of Snilthborg**: A young warrior appears in Vithgard's settlements claiming to be Thraldorv's lost brother—the brother he watched die during their training under **Glarvorv Mirvaruk** nearly twenty years past. The appearance is uncanny; the man bears the exact same mark on his left shoulder that Thraldorv's brother possessed. Yet investigation reveals the man has no history before three years ago. Thraldorv becomes obsessed with discovering whether this is a resurrection, an imposter, or a curse, and finds his famous focus fragmenting as the question consumes him.
+The Ghost of Snilthborg
+: A young warrior appears in Vithgard's settlements claiming to be Thraldorv's lost brother—the brother he watched die during their training under **Glarvorv Mirvaruk** nearly twenty years past. The appearance is uncanny; the man bears the exact same mark on his left shoulder that Thraldorv's brother possessed. Yet investigation reveals the man has no history before three years ago. Thraldorv becomes obsessed with discovering whether this is a resurrection, an imposter, or a curse, and finds his famous focus fragmenting as the question consumes him.
 
-2. **The Sacred Blade Contract**: The High Priestess **Glarvinda** approaches Thraldorv with a contract unlike any he has accepted before—to retrieve a holy artifact, the Blade of First Creation, stolen from the Asguardian Temple by mysterious raiders. The priestess confides that only Thraldorv possesses both the skill and the spiritual standing to bear the blade without corruption. Yet the trail leads him toward a revelation about his past that will shatter his understanding of his training under Glarvorv Mirvaruk and force him to reconcile the mentor he revered with a terrible historical truth.
+The Sacred Blade Contract
+: The High Priestess **Glarvinda** approaches Thraldorv with a contract unlike any he has accepted before—to retrieve a holy artifact, the Blade of First Creation, stolen from the Asguardian Temple by mysterious raiders. The priestess confides that only Thraldorv possesses both the skill and the spiritual standing to bear the blade without corruption. Yet the trail leads him toward a revelation about his past that will shatter his understanding of his training under Glarvorv Mirvaruk and force him to reconcile the mentor he revered with a terrible historical truth.
 
-3. **The Lord's Rebellion**: **Lord Hnirmil Thulmaruk**, whom Thraldorv served faithfully for two years, approaches him with a covert proposal. Hnirmil has grown weary of serving the King and wishes to build an independent power base in a distant settlement. He offers Thraldorv a position as commander of an army of mercenaries, steady employment for life, and a share in the wealth they will build together—an offer that represents everything Thraldorv has been denied by his birth as third son. But accepting means betraying the Kingdom, breaking his implicit oath as a Vithgard citizen, and potentially facing former allies as enemies.
+The Lord's Rebellion
+: **Lord Hnirmil Thulmaruk**, whom Thraldorv served faithfully for two years, approaches him with a covert proposal. Hnirmil has grown weary of serving the King and wishes to build an independent power base in a distant settlement. He offers Thraldorv a position as commander of an army of mercenaries, steady employment for life, and a share in the wealth they will build together—an offer that represents everything Thraldorv has been denied by his birth as third son. But accepting means betraying the Kingdom, breaking his implicit oath as a Vithgard citizen, and potentially facing former allies as enemies.
 
-4. **The Curse of the Crimson Ravens**: The Crimson Ravens, Thraldorv's rivals, appear to be murdering their way through Vithgard's warrior community in a pattern that traces directly toward him. One by one, warriors he fought alongside, trained with, or competed against fall dead under mysterious circumstances. Each death appears to carry a mark linking the Crimson Ravens as perpetrators, yet no evidence directly implicates them. Thraldorv must uncover whether he is being deliberately targeted, whether someone else is framing the Ravens, or whether a darker force is at work hunting warriors connected to him.
+The Curse of the Crimson Ravens
+: The Crimson Ravens, Thraldorv's rivals, appear to be murdering their way through Vithgard's warrior community in a pattern that traces directly toward him. One by one, warriors he fought alongside, trained with, or competed against fall dead under mysterious circumstances. Each death appears to carry a mark linking the Crimson Ravens as perpetrators, yet no evidence directly implicates them. Thraldorv must uncover whether he is being deliberately targeted, whether someone else is framing the Ravens, or whether a darker force is at work hunting warriors connected to him.
 
-5. **The Path to Redemption**: An elderly healer and philosopher named **Master Flirninda** offers Thraldorv something he has come to desperately crave—a path to spiritual redemption. Flirninda claims to train broken warriors in methods of meditation and honor that can absolve them of the spiritual stain of accumulated killing. But Thraldorv's past includes a deed of such darkness (which he has never disclosed to anyone) that he fears no spiritual discipline can wash it away. He can continue to deny the deed existed, seek to have it forgiven, or discover that some acts cannot be absolved and must be borne.
+The Path to Redemption
+: An elderly healer and philosopher named **Master Flirninda** offers Thraldorv something he has come to desperately crave—a path to spiritual redemption. Flirninda claims to train broken warriors in methods of meditation and honor that can absolve them of the spiritual stain of accumulated killing. But Thraldorv's past includes a deed of such darkness (which he has never disclosed to anyone) that he fears no spiritual discipline can wash it away. He can continue to deny the deed existed, seek to have it forgiven, or discover that some acts cannot be absolved and must be borne.

@@ -94,6 +94,11 @@ On the quay the staff stands for the word of the one who carries it, and the car
 
 ## See Also
 
-- [[affiliation-wardensapproaches|The Wardens of the Approaches]]—the order whose officers carry the staff
-- [[place-telvari|Telvari]]—the islet where the Warden of the Approaches keeps the watch
-- [[place-ilovanu|Ilovanu]]—the port whose Harbor-Warden holds the principal anchorage
+[[affiliation-wardensapproaches|The Wardens of the Approaches]]
+: the order whose officers carry the staff
+
+[[place-telvari|Telvari]]
+: the islet where the Warden of the Approaches keeps the watch
+
+[[place-ilovanu|Ilovanu]]
+: the port whose Harbor-Warden holds the principal anchorage

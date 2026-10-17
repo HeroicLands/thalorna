@@ -67,8 +67,17 @@ The tree is the shrine; there is no other. Offerings are made at its root by eac
 
 ## See Also
 
-- [[lore-baobablobwezispr|Baobab Spirit]]—the guide as a being, apart from the practices of its cult
-- [[skill-baobablobwezisprt|Baobab Spirit Power]]—the standing through which the guide is asked
-- [[affiliation-nyalbpnthn|The Nyáluba Way]]—the tradition this cult belongs to
-- [[lore-nyalbsprts|Nyáluba Spirits]]—the seven kinds of guide and the three postures
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the Lobwezi and the other four clans
+[[lore-baobablobwezispr|Baobab Spirit]]
+: the guide as a being, apart from the practices of its cult
+
+[[skill-baobablobwezisprt|Baobab Spirit Power]]
+: the standing through which the guide is asked
+
+[[affiliation-nyalbpnthn|The Nyáluba Way]]
+: the tradition this cult belongs to
+
+[[lore-nyalbsprts|Nyáluba Spirits]]
+: the seven kinds of guide and the three postures
+
+[[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
+: the Lobwezi and the other four clans

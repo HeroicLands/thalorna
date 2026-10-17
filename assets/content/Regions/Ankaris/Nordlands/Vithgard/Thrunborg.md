@@ -24,11 +24,19 @@ Its name comes from [[lore-thrunvalddty|Thrunvald]], the Thunderer of the [[affi
 
 ## At a Glance
 
-- Kind: a fortified town and capital.
-- People: about 700.
-- Holds: the royal hall, the garrison and the winter markets.
+Kind
+: a fortified town and capital.
+
+People
+: about 700.
+
+Holds
+: the royal hall, the garrison and the winter markets.
 
 ## See Also
 
-- [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the kingdom this town serves as seat
-- [[affiliation-asguardian|Asguardian Pantheon]]—gods of the north
+[[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
+: the kingdom this town serves as seat
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: gods of the north

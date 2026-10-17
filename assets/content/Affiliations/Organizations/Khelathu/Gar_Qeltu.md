@@ -60,5 +60,8 @@ A prudent master renews a charter well before its term runs out, and has the ren
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to
-- [[lore-garauu|Gar-Auu]]—The sovereigns whose word dissolved it
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The region it belongs to
+
+[[lore-garauu|Gar-Auu]]
+: The sovereigns whose word dissolved it

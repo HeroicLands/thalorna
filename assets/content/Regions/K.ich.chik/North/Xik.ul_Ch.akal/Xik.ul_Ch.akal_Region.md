@@ -38,6 +38,11 @@ The maple sugar and maple syrup produced in Ha'ik territory command premium pric
 
 ## See Also
 
-- [[affiliation-xikulchakl|Shik'ul Ch'akal]]—The realm that holds this land
-- [[place-nrthrnkchchk|Northern K'ich'chik]]—The enclosing region
-- [[place-xikulchakl2|Shik'ul Ch'akal]]—Seat of Shik'ul Ch'akal
+[[affiliation-xikulchakl|Shik'ul Ch'akal]]
+: The realm that holds this land
+
+[[place-nrthrnkchchk|Northern K'ich'chik]]
+: The enclosing region
+
+[[place-xikulchakl2|Shik'ul Ch'akal]]
+: Seat of Shik'ul Ch'akal

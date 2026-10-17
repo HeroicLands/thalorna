@@ -14,5 +14,8 @@ Both tellings claim it. A flood once opened its side and showed grave goods of t
 
 ## See Also
 
-- [[place-vethwald|Vethwald]]—the Deepwood the mound stands in
-- [[lore-takingwood|The Taking of the Wood]]—the history the mound holds
+[[place-vethwald|Vethwald]]
+: the Deepwood the mound stands in
+
+[[lore-takingwood|The Taking of the Wood]]
+: the history the mound holds

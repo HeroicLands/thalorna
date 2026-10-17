@@ -46,6 +46,11 @@ Cacao grown in Shelem's highland regions is of exceptional quality, and the choc
 
 ## See Also
 
-- [[affiliation-xelem|Shelem]]—The realm that holds this land
-- [[place-cntrlkchchk|Central K'ich'chik]]—The enclosing region
-- [[place-xelem2|Shelem]]—Seat of Shelem
+[[affiliation-xelem|Shelem]]
+: The realm that holds this land
+
+[[place-cntrlkchchk|Central K'ich'chik]]
+: The enclosing region
+
+[[place-xelem2|Shelem]]
+: Seat of Shelem

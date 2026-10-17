@@ -401,8 +401,11 @@ Bruldorv's connection to the earth gives him an intuitive understanding of agric
 
 ## Plot Hooks
 
-1. **The Dying Grove**—One of Frodvin's sacred groves is withering for no apparent reason. Bruldorv must discover the source of the corruption before it spreads to the surrounding farmland.
+The Dying Grove
+: One of Frodvin's sacred groves is withering for no apparent reason. Bruldorv must discover the source of the corruption before it spreads to the surrounding farmland.
 
-2. **The Harvest War**—Two settlements are fighting over a disputed tract of fertile land. Both claim Frodvin's blessing, and both are willing to kill to keep it. Bruldorv must find a way to resolve the dispute peacefully or choose a side.
+The Harvest War
+: Two settlements are fighting over a disputed tract of fertile land. Both claim Frodvin's blessing, and both are willing to kill to keep it. Bruldorv must find a way to resolve the dispute peacefully or choose a side.
 
-3. **The Seed of Life**—Bruldorv has learned of a legendary seed said to have been planted by Frodvin himself, capable of restoring life to any dead land. It is hidden in a place of great danger, and many forces seek it for their own purposes.
+The Seed of Life
+: Bruldorv has learned of a legendary seed said to have been planted by Frodvin himself, capable of restoring life to any dead land. It is hidden in a place of great danger, and many forces seek it for their own purposes.

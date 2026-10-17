@@ -448,31 +448,43 @@ Vanika is driven by a fundamental commitment to excellence—the conviction that
 
 ### Strengths
 
-- **Foundational Mastery**: Possesses extraordinary competence in all fundamental cooking techniques; she can prepare any traditional Vedyaran dish with absolute reliability and excellence, and can adapt techniques across diverse culinary traditions.
+Foundational Mastery
+: Possesses extraordinary competence in all fundamental cooking techniques; she can prepare any traditional Vedyaran dish with absolute reliability and excellence, and can adapt techniques across diverse culinary traditions.
 
-- **Intuitive Understanding of Nutrition**: Understands food as nourishment and not only as flavor; she can construct meals that truly sustain, that address specific physical needs, that contribute to healing and wellbeing.
+Intuitive Understanding of Nutrition
+: Understands food as nourishment and not only as flavor; she can construct meals that truly sustain, that address specific physical needs, that contribute to healing and wellbeing.
 
-- **Ingredient Knowledge**: Possesses encyclopedic understanding of herbs, spices, plants, and their properties—both culinary and medicinal; she can work with whatever materials are available and extract maximum value and flavor.
+Ingredient Knowledge
+: Possesses encyclopedic understanding of herbs, spices, plants, and their properties—both culinary and medicinal; she can work with whatever materials are available and extract maximum value and flavor.
 
-- **Practical Economy**: Can manage production of large quantities of food with minimal waste; her kitchen operations are marvels of order and economy that other cooks study and attempt to replicate.
+Practical Economy
+: Can manage production of large quantities of food with minimal waste; her kitchen operations are marvels of order and economy that other cooks study and attempt to replicate.
 
-- **Leadership Authority**: Her kitchen operates with extraordinary coordination and morale; younger cooks learn discipline and excellence from her, and those working under her direction improve substantially in competence and confidence.
+Leadership Authority
+: Her kitchen operates with extraordinary coordination and morale; younger cooks learn discipline and excellence from her, and those working under her direction improve substantially in competence and confidence.
 
-- **Cultural Authenticity**: A thorough understanding of Vedyaran culinary traditions and the cultural and spiritual dimensions of food; her cooking honors tradition while adapting pragmatically to available resources.
+Cultural Authenticity
+: A thorough understanding of Vedyaran culinary traditions and the cultural and spiritual dimensions of food; her cooking honors tradition while adapting pragmatically to available resources.
 
 ### Weaknesses
 
-- **Limited Innovation**: Her commitment to traditional approaches, while it makes her reliable, can leave her unprepared for fashionable cuisines or the demands of patrons seeking novel or exotic preparations; she tends toward dismissal of such demands as frivolous rather than attempting to learn.
+Limited Innovation
+: Her commitment to traditional approaches, while it makes her reliable, can leave her unprepared for fashionable cuisines or the demands of patrons seeking novel or exotic preparations; she tends toward dismissal of such demands as frivolous rather than attempting to learn.
 
-- **Social Defensiveness**: Outside her kitchen domain, she becomes noticeably less confident; she experiences social anxiety around those of higher social status and can become defensive about her station or dismissive of those who "don't understand real cooking."
+Social Defensiveness
+: Outside her kitchen domain, she becomes noticeably less confident; she experiences social anxiety around those of higher social status and can become defensive about her station or dismissive of those who "don't understand real cooking."
 
-- **Physical Limitations**: Years of physical labor have taken their toll; she experiences chronic joint pain, reduced stamina, and occasional stiffness that limits her capacity for extended work.
+Physical Limitations
+: Years of physical labor have taken their toll; she experiences chronic joint pain, reduced stamina, and occasional stiffness that limits her capacity for extended work.
 
-- **Emotional Inarticulateness**: While capable of warmth, she struggles to express emotion verbally; she communicates care through food rather than words, which can leave people uncertain of her feelings.
+Emotional Inarticulateness
+: While capable of warmth, she struggles to express emotion verbally; she communicates care through food rather than words, which can leave people uncertain of her feelings.
 
-- **Business Naïveté**: While an extraordinary cook, she is not naturally skilled at business; she defers to others on pricing, marketing, and financial decisions, which has sometimes worked to her disadvantage.
+Business Naïveté
+: While an extraordinary cook, she is not naturally skilled at business; she defers to others on pricing, marketing, and financial decisions, which has sometimes worked to her disadvantage.
 
-- **Intolerance for Incompetence**: Her standards are exacting and her patience limited with those who lack dedication or competence; she can be harsh in judgment and dismissive of those who do not meet her expectations.
+Intolerance for Incompetence
+: Her standards are exacting and her patience limited with those who lack dedication or competence; she can be harsh in judgment and dismissive of those who do not meet her expectations.
 
 ## Social
 
@@ -514,10 +526,14 @@ The Ratnisena House Inn
 
 ## Plot Hooks
 
-1. **The Culinary Competition and the Poisoned Dish**: Vanika is approached by Shrena leadership to represent traditional cooking in a prestigious culinary competition—a showcase of the greatest chefs in Vedyara competing before judges of the great houses. The competition promises significant prestige and financial reward for the victor, yet it will require Vanika to showcase her work beside the fashionable cooks she has previously dismissed. As preparation begins, her competitors and rivals intensify, and she begins to discover that someone is subtly sabotaging her preparations—tainting ingredients, damaging her kitchen tools, spreading false rumors about her reliability. The competition becomes a battle of integrity and reputation as much as of culinary skill.
+The Culinary Competition and the Poisoned Dish
+: Vanika is approached by Shrena leadership to represent traditional cooking in a prestigious culinary competition—a showcase of the greatest chefs in Vedyara competing before judges of the great houses. The competition promises significant prestige and financial reward for the victor, yet it will require Vanika to showcase her work beside the fashionable cooks she has previously dismissed. As preparation begins, her competitors and rivals intensify, and she begins to discover that someone is subtly sabotaging her preparations—tainting ingredients, damaging her kitchen tools, spreading false rumors about her reliability. The competition becomes a battle of integrity and reputation as much as of culinary skill.
 
-2. **The Mysterious Illness and the Culinary Cure**: A plague or mysterious illness begins afflicting the residents of Vedyara—people become chronically debilitated, weak, unable to gain nutrition from normal food. The temple healers and physicians are baffled. In desperation, someone approaches Vanika with a peculiar request: could her mastery of nutrition and food preparation perhaps address the medical crisis in ways that physicians cannot? This unusual commission forces her into an unfamiliar role as healer and inventor, requiring her to develop new approaches, research unusual ingredients, and collaborate with priestesses and physicians. Success would bring her extraordinary recognition and validate her knowledge in new ways, but failure would be publicly humiliating and potentially dangerous if her efforts are blamed for worsening the crisis.
+The Mysterious Illness and the Culinary Cure
+: A plague or mysterious illness begins afflicting the residents of Vedyara—people become chronically debilitated, weak, unable to gain nutrition from normal food. The temple healers and physicians are baffled. In desperation, someone approaches Vanika with a peculiar request: could her mastery of nutrition and food preparation perhaps address the medical crisis in ways that physicians cannot? This unusual commission forces her into an unfamiliar role as healer and inventor, requiring her to develop new approaches, research unusual ingredients, and collaborate with priestesses and physicians. Success would bring her extraordinary recognition and validate her knowledge in new ways, but failure would be publicly humiliating and potentially dangerous if her efforts are blamed for worsening the crisis.
 
-3. **The Family Secret and the Ancestral Recipe**: An elderly relative dies and leaves Vanika a collection of handwritten recipes in an archaic dialect—recipes from generations of women in their family who were apparently cooks to great houses or perhaps even royalty in ancient times. The recipes describe dishes of extraordinary complexity and sophistication, suggesting that her family possesses culinary heritage far more distinguished than she realized. Yet some recipes include ingredients she cannot identify, techniques she does not understand, and apparent references to spiritual or magical properties of food. She can pursue mastery of these ancestral recipes (which could dramatically elevate her standing) and risk being changed by this previously unknown family history, or set the recipes aside as impractical nostalgia.
+The Family Secret and the Ancestral Recipe
+: An elderly relative dies and leaves Vanika a collection of handwritten recipes in an archaic dialect—recipes from generations of women in their family who were apparently cooks to great houses or perhaps even royalty in ancient times. The recipes describe dishes of extraordinary complexity and sophistication, suggesting that her family possesses culinary heritage far more distinguished than she realized. Yet some recipes include ingredients she cannot identify, techniques she does not understand, and apparent references to spiritual or magical properties of food. She can pursue mastery of these ancestral recipes (which could dramatically elevate her standing) and risk being changed by this previously unknown family history, or set the recipes aside as impractical nostalgia.
 
-4. **The Invitation to Excellence**: Chef Akendra, her great rival, mysteriously falls ill and, in what appears to be a deathbed reconciliation, requests that Vanika take over her prestigious position at the court of a major regional Samonta—a position of extraordinary prestige, wealth, and influence. The invitation is both a validation of her skill and a tremendous opportunity, yet it requires leaving her established position, her family's inn, her community, and everything she has built. There are also hints that Akendra's illness may not be entirely natural, and accepting the position might place Vanika in dangerous political circumstances. The opportunity is everything she has never quite achieved, yet accepting it requires abandoning her roots.
+The Invitation to Excellence
+: Chef Akendra, her great rival, mysteriously falls ill and, in what appears to be a deathbed reconciliation, requests that Vanika take over her prestigious position at the court of a major regional Samonta—a position of extraordinary prestige, wealth, and influence. The invitation is both a validation of her skill and a tremendous opportunity, yet it requires leaving her established position, her family's inn, her community, and everything she has built. There are also hints that Akendra's illness may not be entirely natural, and accepting the position might place Vanika in dangerous political circumstances. The opportunity is everything she has never quite achieved, yet accepting it requires abandoning her roots.

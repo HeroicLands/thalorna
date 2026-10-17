@@ -75,14 +75,35 @@ To the north, the [[place-grkrhlmrgn|Grukari]] frontier is a fortified marchland
 
 ## See Also
 
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the imperial polity of the region
-- [[affiliation-tengwouronglei|Celestial Order]]—the pantheon and cosmology
-- [[lore-mandatehvn|Mandate of Heaven]]—the imperial doctrine
-- [[lore-castelaws|Caste Laws]]—the legal structure of the eight castes
-- [[lore-celestialroad|The Celestial Road]]—the caravan road west across the Khazryn
-- [[place-jenchairgn|Jenchai Region]]—eastern archipelago, claimed province
-- [[place-vedyarargn|Vedyara Region]]—southwestern neighbor and scholarly counterpart
-- [[place-graznmntns|The Grazian Mountains]]—the range along the western frontier
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—western buffer
-- [[place-grkrhlmrgn|Grukarholm Region]]—northern frontier
-- [[place-ankrscntnnt|Ankaris Continent]]—parent continent
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the imperial polity of the region
+
+[[affiliation-tengwouronglei|Celestial Order]]
+: the pantheon and cosmology
+
+[[lore-mandatehvn|Mandate of Heaven]]
+: the imperial doctrine
+
+[[lore-castelaws|Caste Laws]]
+: the legal structure of the eight castes
+
+[[lore-celestialroad|The Celestial Road]]
+: the caravan road west across the Khazryn
+
+[[place-jenchairgn|Jenchai Region]]
+: eastern archipelago, claimed province
+
+[[place-vedyarargn|Vedyara Region]]
+: southwestern neighbor and scholarly counterpart
+
+[[place-graznmntns|The Grazian Mountains]]
+: the range along the western frontier
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: western buffer
+
+[[place-grkrhlmrgn|Grukarholm Region]]
+: northern frontier
+
+[[place-ankrscntnnt|Ankaris Continent]]
+: parent continent

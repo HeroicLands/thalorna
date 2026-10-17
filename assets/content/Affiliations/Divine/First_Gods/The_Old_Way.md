@@ -88,9 +88,14 @@ sohl:
       - tenasprt
 ---
 
-- **Pantheon:** [[affiliation-firstgods|The First Gods]]
-- **Principal adherents:** [[lore-aelendnppl|Áelendan]]
-- **Ancestral origin:** [[lore-pelwarpepl|Pelwar People]]
+Pantheon
+: [[affiliation-firstgods|The First Gods]]
+
+Principal adherents
+: [[lore-aelendnppl|Áelendan]]
+
+Ancestral origin
+: [[lore-pelwarpepl|Pelwar People]]
 
 The **Old Way** is the shamanic faith of the [[lore-aelendnppl|Áelendan People]]. It is the oldest continuously practiced religious tradition on the [[place-ankrscntnnt|Ankaris Continent]]—a tradition that was already ancient when the ancestors of the Áelendan settled the mountainous interior of [[place-elavendre|Élavendre]], and that has been preserved, generation by generation, by the tribal communities who carried it. Where other Pelwar peoples set the old faith aside as they built kingdoms and adopted the organized pantheons of the settled world, the Áelendan kept it.
 
@@ -154,8 +159,17 @@ Among the Élavendri nobility, who claim Áelendan ancestry and whose own religi
 
 ## See Also
 
-- [[affiliation-firstgods|The First Gods]]—The pantheon the Old Way venerates (the Bright, the Dark, and the Kindred)
-- [[lore-thekindred|The Kindred]]—The servant spirits who are venerated, appeased, or warded against in daily practice
-- [[lore-aelendnppl|Áelendan]]—The people whose faith this is
-- [[affiliation-alndnwrdns|Áelendan Wardens]]—The order that protects the sacred sites
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—The later pantheon the Áelendan regard as descended from the First
+[[affiliation-firstgods|The First Gods]]
+: The pantheon the Old Way venerates (the Bright, the Dark, and the Kindred)
+
+[[lore-thekindred|The Kindred]]
+: The servant spirits who are venerated, appeased, or warded against in daily practice
+
+[[lore-aelendnppl|Áelendan]]
+: The people whose faith this is
+
+[[affiliation-alndnwrdns|Áelendan Wardens]]
+: The order that protects the sacred sites
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: The later pantheon the Áelendan regard as descended from the First

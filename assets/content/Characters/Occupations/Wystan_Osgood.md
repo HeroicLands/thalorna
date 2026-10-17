@@ -431,12 +431,17 @@ Few; he is generally well respected, but some rats still evade his traps.
 
 ## Plot Hooks
 
-1. **The Ratter's Dilemma**—A merchant pays Wilstan to clear his warehouse and to say nothing of what the rats were living on, and the market next door is buying it.
+The Ratter's Dilemma
+: A merchant pays Wilstan to clear his warehouse and to say nothing of what the rats were living on, and the market next door is buying it.
 
-2. **Old Grudges**—A rat Wilstan has never managed to trap has begun taking from a market that blames him for it.
+Old Grudges
+: A rat Wilstan has never managed to trap has begun taking from a market that blames him for it.
 
-3. **Echoes of the Past**—A household Wilstan cleared years ago is infested again, worse, and the neighbors say he never cleared it at all.
+Echoes of the Past
+: A household Wilstan cleared years ago is infested again, worse, and the neighbors say he never cleared it at all.
 
-4. **Shifting Winds**—Political change in Aelwyth threatens the markets Wilstan's trade depends on, and he can adapt, resist, or leave.
+Shifting Winds
+: Political change in Aelwyth threatens the markets Wilstan's trade depends on, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—A lord's steward offers Wilstan the run of a whole manor's rats at good wages, and Squeak is not welcome in the house.
+The Opportunity
+: A lord's steward offers Wilstan the run of a whole manor's rats at good wages, and Squeak is not welcome in the house.

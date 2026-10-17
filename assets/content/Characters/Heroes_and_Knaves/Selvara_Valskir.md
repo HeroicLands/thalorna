@@ -464,8 +464,11 @@ First Mate of the **Tamzir**. Wife of **Fetar Darel**. Wartime comrade and most 
 
 ## Plot Hooks
 
-1. **The Village Returns**: Word reaches Sélvara that her home village in Tarvénia is under threat again—this time from Taruzelian guild agents who want to establish a trading post on the coast. Her surviving family is among those who would be displaced. Returning to help would mean sailing into contested waters and confronting the same power structures she and Bu have spent years avoiding.
+The Village Returns
+: Word reaches Sélvara that her home village in Tarvénia is under threat again—this time from Taruzelian guild agents who want to establish a trading post on the coast. Her surviving family is among those who would be displaced. Returning to help would mean sailing into contested waters and confronting the same power structures she and Bu have spent years avoiding.
 
-2. **The Soldier's Reckoning**: A former imperial officer who participated in the raid on Sélvara's village has been identified living comfortably in a Vylarian port city. Sélvara must decide whether old debts are worth the risk of pursuing—and whether vengeance or justice is what she truly wants.
+The Soldier's Reckoning
+: A former imperial officer who participated in the raid on Sélvara's village has been identified living comfortably in a Vylarian port city. Sélvara must decide whether old debts are worth the risk of pursuing—and whether vengeance or justice is what she truly wants.
 
-3. **Divided Loyalty**: When Bu makes a decision that Sélvara believes will get the crew killed, she faces the impossible choice between her loyalty to her captain and her responsibility to the people under her care. For the first time in their long partnership, the two find themselves on opposite sides of an argument with no easy resolution.
+Divided Loyalty
+: When Bu makes a decision that Sélvara believes will get the crew killed, she faces the impossible choice between her loyalty to her captain and her responsibility to the people under her care. For the first time in their long partnership, the two find themselves on opposite sides of an argument with no easy resolution.

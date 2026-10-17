@@ -32,7 +32,14 @@ The saddle is the gentlest of the three passes in grade and the wettest. The cli
 
 ## See Also
 
-- [[place-klhrring|The Ring]]—the mountains the saddle crosses
-- [[place-thalari|Thal'ari]]—the sanctuary below the saddle on its seaward side
-- [[place-klhrdpfrst|The Deep Forest]]—the country at the foot of the inner face
-- [[place-klhrcldpss|The Cloud Pass]], [[place-klhrsthstr|the Southern Stair]] and [[place-klhrkthrgap|the Kuethori Gap]]—the other ways through the Ring
+[[place-klhrring|The Ring]]
+: the mountains the saddle crosses
+
+[[place-thalari|Thal'ari]]
+: the sanctuary below the saddle on its seaward side
+
+[[place-klhrdpfrst|The Deep Forest]]
+: the country at the foot of the inner face
+
+[[place-klhrcldpss|The Cloud Pass]], [[place-klhrsthstr|the Southern Stair]] and [[place-klhrkthrgap|the Kuethori Gap]]
+: the other ways through the Ring

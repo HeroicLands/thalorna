@@ -20,5 +20,8 @@ At **[The Burning of Inthstead]{.name data-type="lore/history"}**, one night of 
 
 ## See Also
 
-- [[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]]—the soldier who pulled the canvas clear
-- [[place-vithgard|Vithgard]]—the kingdom's land
+[[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]]
+: the soldier who pulled the canvas clear
+
+[[place-vithgard|Vithgard]]
+: the kingdom's land

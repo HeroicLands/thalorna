@@ -299,9 +299,20 @@ At dawn on the fourth day, if not before, a dozen riders of the Kuuyoyur come do
 
 ## See Also
 
-- [[place-qelodwatri|Kelodvootri]]—the spring and the cistern
-- [[lore-ownedoasis|The Owned Oasis]]—the customs the owners keep
-- [[being-qelodud|Kelodud]]—what the owners say is in the well
-- [[being-bnscrpn|Bone Scorpion]]—the guardian of the cleft
-- [[lore-dreadspawncrtr|Dreadspawn]]—what is in the well
-- [[place-hskrrgn|Khoshiqor]]—the sand range
+[[place-qelodwatri|Kelodvootri]]
+: the spring and the cistern
+
+[[lore-ownedoasis|The Owned Oasis]]
+: the customs the owners keep
+
+[[being-qelodud|Kelodud]]
+: what the owners say is in the well
+
+[[being-bnscrpn|Bone Scorpion]]
+: the guardian of the cleft
+
+[[lore-dreadspawncrtr|Dreadspawn]]
+: what is in the well
+
+[[place-hskrrgn|Khoshiqor]]
+: the sand range

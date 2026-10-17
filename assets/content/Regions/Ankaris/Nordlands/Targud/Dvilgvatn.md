@@ -45,8 +45,17 @@ From [[place-tvalgard|Tvalgard]] to Draskborg is a day and a half by the sledge 
 
 ## See Also
 
-- [[place-driskborg|Draskborg]]—the fortress that watches the river and sees the lake's dark
-- [[lore-ginnauga|Ginnauga]]—the Eye of the Void
-- [[lore-theshadow|The Shadow]]—what the Eye pours into the world
-- [[affiliation-nalok|Nalok]]—the order that keeps the hov
-- [[lore-burningeast|The Burning of the East]]—the war that made the ground
+[[place-driskborg|Draskborg]]
+: the fortress that watches the river and sees the lake's dark
+
+[[lore-ginnauga|Ginnauga]]
+: the Eye of the Void
+
+[[lore-theshadow|The Shadow]]
+: what the Eye pours into the world
+
+[[affiliation-nalok|Nalok]]
+: the order that keeps the hov
+
+[[lore-burningeast|The Burning of the East]]
+: the war that made the ground

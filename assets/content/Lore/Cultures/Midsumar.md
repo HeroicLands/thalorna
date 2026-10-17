@@ -25,8 +25,17 @@ Three things make up the night, and the boy on the headland names them as a chil
 
 ## See Also
 
-- [[lore-jol|Jel]]—the twelve nights at the other end of the year
-- [[lore-sumarmal|Somarmál]] and [[lore-vetrnaetr|Vetrnetr]]—the festivals that open and close the open season
-- [[affiliation-bjartr|Faith of Bjart]]—the god of light and his clergy
-- [[affiliation-asguardian|Asguardian Pantheon]]—the Ten and the four great blets
-- [[lore-nordheimnclt|Nordheimn]]—the year at the hall
+[[lore-jol|Jel]]
+: the twelve nights at the other end of the year
+
+[[lore-sumarmal|Somarmál]] and [[lore-vetrnaetr|Vetrnetr]]
+: the festivals that open and close the open season
+
+[[affiliation-bjartr|Faith of Bjart]]
+: the god of light and his clergy
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the Ten and the four great blets
+
+[[lore-nordheimnclt|Nordheimn]]
+: the year at the hall

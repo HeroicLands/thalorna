@@ -56,9 +56,14 @@ His hovs are few and hard to reach. [[place-holafell|Holafell]] in [[place-norga
 
 ## Sacred Objects
 
-- Rime-scored bone: A weathered bone left out through a winter, the frost-marks read as the pattern of the first cutting.
-- Chip of grey stone: Struck from the living rock of a hov's own floor, carried as a piece of the giant's body.
-- Meltwater of the foot: Water taken where a glacier gives way to bare ground, poured over the hands before a rite.
+Rime-scored bone
+: A weathered bone left out through a winter, the frost-marks read as the pattern of the first cutting.
+
+Chip of grey stone
+: Struck from the living rock of a hov's own floor, carried as a piece of the giant's body.
+
+Meltwater of the foot
+: Water taken where a glacier gives way to bare ground, poured over the hands before a rite.
 
 ## Clergy
 
@@ -72,11 +77,19 @@ The faith names none. A dead giant who is the world's substance has no messenger
 
 ## High Ceremonies
 
-- **[[lore-renewalwound|The Renewal of the Wound]]:** Cut into the rock at Holafell at the turn of winter, by whichever adherent the Holafell faction has put forward that year, and as many of the Giant's Children as have come. What is cut is never mended between one year and the next.
-- **[The Naming of the Stone]{.name data-type="lore/custom"}:** A hov's grey chips are brought out, counted aloud against the roll of the hall's dead, and returned to the floor.
+[[lore-renewalwound|The Renewal of the Wound]]
+: Cut into the rock at Holafell at the turn of winter, by whichever adherent the Holafell faction has put forward that year, and as many of the Giant's Children as have come. What is cut is never mended between one year and the next.
+
+[The Naming of the Stone]{.name data-type="lore/custom"}
+: A hov's grey chips are brought out, counted aloud against the roll of the hall's dead, and returned to the floor.
 
 ## Ordeals for Favor
 
-- **[The Cold Held]{.name data-type="lore/custom"}:** A night and a day on bare rock above the snowline, in the lower clothing only, without fire.
-- **[The Walk to Holafell]{.name data-type="lore/custom"}:** Made on foot in winter, by the high ground rather than the valley road, and counted only if the pilgrim arrives in time for the cutting.
-- **[The Mastery of the Cut]{.name data-type="lore/custom"}:** The postulant takes the wound-pattern himself and is judged by how he holds still for it.
+[The Cold Held]{.name data-type="lore/custom"}
+: A night and a day on bare rock above the snowline, in the lower clothing only, without fire.
+
+[The Walk to Holafell]{.name data-type="lore/custom"}
+: Made on foot in winter, by the high ground rather than the valley road, and counted only if the pilgrim arrives in time for the cutting.
+
+[The Mastery of the Cut]{.name data-type="lore/custom"}
+: The postulant takes the wound-pattern himself and is judged by how he holds still for it.

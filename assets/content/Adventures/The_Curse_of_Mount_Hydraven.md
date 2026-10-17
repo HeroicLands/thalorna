@@ -89,11 +89,20 @@ As the party reaches higher elevations, they discover the curse's origin:
 
 **Possible Sources:**
 
-- **Desecrated Pre-Aureldían Shrine:** A sacred site was disturbed or destroyed, angering the spiritual essence or power bound within
-- **Awakened Entity:** An ancient being (demon, spirit, or nature entity) was released or disturbed and now lashes out
-- **Cursed Artifact:** An object of power was brought down the mountain by a previous expedition, and the curse is an effect of its disturbance or theft
-- **Human Conspiracy:** Someone deliberately cursed the mountain to achieve a goal (power, control, revenge)
-- **Forgotten Compact:** The mountain was protected by an old agreement that has been broken
+Desecrated Pre-Aureldían Shrine
+: A sacred site was disturbed or destroyed, angering the spiritual essence or power bound within
+
+Awakened Entity
+: An ancient being (demon, spirit, or nature entity) was released or disturbed and now lashes out
+
+Cursed Artifact
+: An object of power was brought down the mountain by a previous expedition, and the curse is an effect of its disturbance or theft
+
+Human Conspiracy
+: Someone deliberately cursed the mountain to achieve a goal (power, control, revenge)
+
+Forgotten Compact
+: The mountain was protected by an old agreement that has been broken
 
 **The Focus:** The source is centered at a location on the peak: a ruined shrine, a sealed cave, an ancient stone circle, or a specific artifact or being.
 
@@ -101,11 +110,20 @@ As the party reaches higher elevations, they discover the curse's origin:
 
 The party must resolve the curse by addressing its root cause. Options include:
 
-- **Restoration:** Repair or restore what was desecrated, returning sanctity to the site
-- **Appeasement:** Perform rituals or sacrifices to placate an angered entity
-- **Exorcism:** Use magic to banish or bind an entity causing the curse
-- **Destruction:** Destroy the source of the curse (artifact, binding, etc.)
-- **Negotiation:** Communicate with the entity and reach an accord
+Restoration
+: Repair or restore what was desecrated, returning sanctity to the site
+
+Appeasement
+: Perform rituals or sacrifices to placate an angered entity
+
+Exorcism
+: Use magic to banish or bind an entity causing the curse
+
+Destruction
+: Destroy the source of the curse (artifact, binding, etc.)
+
+Negotiation
+: Communicate with the entity and reach an accord
 
 **The Final Challenge:**
 

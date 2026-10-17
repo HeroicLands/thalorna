@@ -427,19 +427,37 @@ Kamid is driven by a desperate desire to re-establish himself, to prove that the
 
 ### Strengths
 
-- **Desert Hardened**: His Survival score of 13 combined with practical years of experience makes him one of the most capable people at navigating the desert, finding water, and identifying edible plants. He knows the Khazryn as intimately as most people know their homes.
-- **Physical Resilience**: His Endurance of 14 and hardened physique allow him to endure conditions that would break others—heat, hunger, thirst, and exhaustion barely slow him down.
-- **Practical Skills**: His knowledge of farming, animal husbandry, basic construction, and managing supplies makes him useful in creating temporary settlements or managing supplies.
-- **Combat Readiness**: Despite his apparent poverty, his Initiative score of 13 and practical combat training with his wooden club mean he is more strong in a street fight than his appearance suggests.
-- **Street Sense**: His Stealth and Awareness scores of 13 each, honed by years of navigating hostile streets and avoiding authorities, make him difficult to catch or surprise.
+Desert Hardened
+: His Survival score of 13 combined with practical years of experience makes him one of the most capable people at navigating the desert, finding water, and identifying edible plants. He knows the Khazryn as intimately as most people know their homes.
+
+Physical Resilience
+: His Endurance of 14 and hardened physique allow him to endure conditions that would break others—heat, hunger, thirst, and exhaustion barely slow him down.
+
+Practical Skills
+: His knowledge of farming, animal husbandry, basic construction, and managing supplies makes him useful in creating temporary settlements or managing supplies.
+
+Combat Readiness
+: Despite his apparent poverty, his Initiative score of 13 and practical combat training with his wooden club mean he is more strong in a street fight than his appearance suggests.
+
+Street Sense
+: His Stealth and Awareness scores of 13 each, honed by years of navigating hostile streets and avoiding authorities, make him difficult to catch or surprise.
 
 ### Weaknesses
 
-- **Stubborn Pride**: He refuses assistance that comes with conditions or that he perceives as charity, limiting his options for improvement. His pride has prevented him from accepting jobs that he considers beneath former station.
-- **Limited Combat Training**: While street-smart, his Melee score of only 11 and lack of proper weapons training mean he will be outmatched by trained fighters.
-- **Emotional Vulnerability**: Despite his stoicism, he is prone to depression and despair, and his judgment becomes questionable when he falls into these states.
-- **Suspicious Nature**: Years of being treated as a vagabond have made him deeply suspicious of others' motives, sometimes seeing betrayal where none is intended.
-- **Minimal Resources**: He owns essentially nothing of value and lacks the capital or connections to execute any plan requiring investment or influence.
+Stubborn Pride
+: He refuses assistance that comes with conditions or that he perceives as charity, limiting his options for improvement. His pride has prevented him from accepting jobs that he considers beneath former station.
+
+Limited Combat Training
+: While street-smart, his Melee score of only 11 and lack of proper weapons training mean he will be outmatched by trained fighters.
+
+Emotional Vulnerability
+: Despite his stoicism, he is prone to depression and despair, and his judgment becomes questionable when he falls into these states.
+
+Suspicious Nature
+: Years of being treated as a vagabond have made him deeply suspicious of others' motives, sometimes seeing betrayal where none is intended.
+
+Minimal Resources
+: He owns essentially nothing of value and lacks the capital or connections to execute any plan requiring investment or influence.
 
 ## Social
 
@@ -466,12 +484,17 @@ The Vagrant Collective
 
 ## Plot Hooks
 
-1. **The Land Returns**: A courier arrives in the settlement bearing a legal document indicating that Kamid's original farm property has been seized for unpaid taxes from the current owners—and he has a legal claim to it. To exercise this claim, he must travel days to the provincial capital, produce evidence of original ownership, and pay substantial court fees. The opportunity is simultaneously a potential restoration of everything lost and an obvious trap where creditors might ambush or discredit him.
+The Land Returns
+: A courier arrives in the settlement bearing a legal document indicating that Kamid's original farm property has been seized for unpaid taxes from the current owners—and he has a legal claim to it. To exercise this claim, he must travel days to the provincial capital, produce evidence of original ownership, and pay substantial court fees. The opportunity is simultaneously a potential restoration of everything lost and an obvious trap where creditors might ambush or discredit him.
 
-2. **The Desert Oath**: A dying man Kamid shelters reveals that he was commissioned by someone to find Kamid specifically, and before dying, gives him a location in the deep desert where something of value is hidden—something the dying man claims belongs to Kamid's past. The location is dangerous, the revelation cryptic, and Kamid must decide whether to pursue this mystery or remain safe in his established routine of survival.
+The Desert Oath
+: A dying man Kamid shelters reveals that he was commissioned by someone to find Kamid specifically, and before dying, gives him a location in the deep desert where something of value is hidden—something the dying man claims belongs to Kamid's past. The location is dangerous, the revelation cryptic, and Kamid must decide whether to pursue this mystery or remain safe in his established routine of survival.
 
-3. **Recruitment for the Storm**: A mysterious figure appears claiming to represent a gathering of desert people planning a rebellion against the settled urban centers, particularly against the city authorities that have oppressed them. They want Kamid to lead them, promising restoration of his dignity and station. Whether this is real opportunity or elaborate trap designed to eliminate a troublemaker remains unclear.
+Recruitment for the Storm
+: A mysterious figure appears claiming to represent a gathering of desert people planning a rebellion against the settled urban centers, particularly against the city authorities that have oppressed them. They want Kamid to lead them, promising restoration of his dignity and station. Whether this is real opportunity or elaborate trap designed to eliminate a troublemaker remains unclear.
 
-4. **The Stolen Farm**: Kamid encounters evidence that his original farm failure may not have been entirely due to drought—that someone deliberately sabotaged water systems and spread false information about the drought's severity, profiting from the chaos while farming families lost everything. Pursuing this revelation would require resources he lacks and would make him dangerous to powerful interests.
+The Stolen Farm
+: Kamid encounters evidence that his original farm failure may not have been entirely due to drought—that someone deliberately sabotaged water systems and spread false information about the drought's severity, profiting from the chaos while farming families lost everything. Pursuing this revelation would require resources he lacks and would make him dangerous to powerful interests.
 
-5. **Phoenix Rising**: A wealthy investor approaches with a business proposition: reestablish a farm operation in a new location, with the investor providing capital and Kamid providing expertise and labor. The terms are fair, the opportunity seems real, but Kamid's suspicion and pride make him doubt whether it's real. Accepting requires trusting someone when trust has become a dangerous luxury.
+Phoenix Rising
+: A wealthy investor approaches with a business proposition: reestablish a farm operation in a new location, with the investor providing capital and Kamid providing expertise and labor. The terms are fair, the opportunity seems real, but Kamid's suspicion and pride make him doubt whether it's real. Accepting requires trusting someone when trust has become a dangerous luxury.

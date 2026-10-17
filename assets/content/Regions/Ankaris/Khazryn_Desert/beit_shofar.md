@@ -24,6 +24,11 @@ The Atarzád have no king; the prohibition was given at this mountain, and attem
 
 ## See Also
 
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—the confederation that meets here
-- [[place-swoasisbelt|Tellumel]]—the oasis belt whose four cities the Tribes hold
-- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the gods Ataros stands among
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: the confederation that meets here
+
+[[place-swoasisbelt|Tellumel]]
+: the oasis belt whose four cities the Tribes hold
+
+[[affiliation-ashanpnthn|Ashaian Pantheon]]
+: the gods Ataros stands among

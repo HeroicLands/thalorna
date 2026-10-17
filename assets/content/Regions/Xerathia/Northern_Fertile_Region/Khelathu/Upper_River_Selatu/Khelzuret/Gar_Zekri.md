@@ -20,5 +20,8 @@ data:
 
 ## See Also
 
-- [[place-khelzuretslt|Khelzuret Selat]]—The selat country that holds it
-- [[place-khelzuret|Khelzuret]]—The temple city of the selat
+[[place-khelzuretslt|Khelzuret Selat]]
+: The selat country that holds it
+
+[[place-khelzuret|Khelzuret]]
+: The temple city of the selat

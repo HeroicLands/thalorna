@@ -508,20 +508,29 @@ It perceives the structure of the mountains and knows where the earth is strange
 
 ## Attributes
 
-- **Strength:** 53-58 (1d6+52)
+Strength
+: 53-58 (1d6+52)
 
-- **Endurance:** 17-20 (1d4+16)
+Endurance
+: 17-20 (1d4+16)
 
-- **Dexterity:** 4-7 (1d4+3)
+Dexterity
+: 4-7 (1d4+3)
 
-- **Agility:** 4-7 (1d4+3)
+Agility
+: 4-7 (1d4+3)
 
-- **Perception:** 6-9 (1d4+5)
+Perception
+: 6-9 (1d4+5)
 
-- **Aura:** 6-9 (1d4+5)
+Aura
+: 6-9 (1d4+5)
 
-- **Will:** 9-12 (1d4+8)
+Will
+: 9-12 (1d4+8)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)
 
-- **Reasoning:** 4-7 (1d4+3)
+Reasoning
+: 4-7 (1d4+3)

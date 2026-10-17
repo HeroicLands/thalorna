@@ -369,20 +369,29 @@ Fire and heat barely trouble it. Water, ice and bitter cold worked by magic slow
 
 ## Attributes
 
-- **Strength:** 19-24 (1d6+18)
+Strength
+: 19-24 (1d6+18)
 
-- **Endurance:** 19-24 (1d6+18)
+Endurance
+: 19-24 (1d6+18)
 
-- **Dexterity:** 10-13 (1d4+9)
+Dexterity
+: 10-13 (1d4+9)
 
-- **Agility:** 14-17 (1d4+13)
+Agility
+: 14-17 (1d4+13)
 
-- **Perception:** 15-20 (1d6+14)
+Perception
+: 15-20 (1d6+14)
 
-- **Aura:** 10-13 (1d4+9)
+Aura
+: 10-13 (1d4+9)
 
-- **Will:** 15-20 (1d6+14)
+Will
+: 15-20 (1d6+14)
 
-- **Reasoning:** 11-16 (1d6+10)
+Reasoning
+: 11-16 (1d6+10)
 
-- **Creativity:** 10-13 (1d4+9)
+Creativity
+: 10-13 (1d4+9)

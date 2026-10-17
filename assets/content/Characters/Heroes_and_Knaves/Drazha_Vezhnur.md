@@ -452,20 +452,47 @@ Drazhan’s primary goal is to retrieve the **Eye of Velok** and unleash its des
 
 ### Skills and Abilities
 
-- **Strength**: A knight trained for battle, Drazhan is physically powerful.
-- **Endurance**: Capable of withstanding great physical hardship and long campaigns.
-- **Dexterity**: He’s competent in battle, but relying on both on strength and finesse.
-- **Agility**: His movements have a fluid grace, particularly when in combat.
-- **Perception**: He has a keen situational awareness.
-- **Comeliness**: His rugged appearance and battle-worn features give him a respectable, if not handsome, look.
-- **Aura**: Drazhan's metaphysical presence is unremarkable.
-- **Will**: He holds to his duty and discipline, committed to his path.
-- **Reasoning**: He’s more of a tactician in battle than a scholar, so his reasoning is practical but not outstanding.
-- **Creativity**: Drazhan is not inventive in battle but sticks to tried-and-true tactics.
-- **Empathy**: He tends to focus more on the mission and less on emotional nuance.
-- **Eloquence**: His words carry weight when needed, though he’s more a man of action.
-- **Morality**: Drazhan, as a Ústaran knight, often revels in battle and follows the principles of his church, but he is willing to bend some moral guidelines if it benefits his goals and survival.
-- **Voice**: Drazhan’s voice reflects his warrior lifestyle—gruff and forceful, lacking the finesse required for melodious singing.
+Strength
+: A knight trained for battle, Drazhan is physically powerful.
+
+Endurance
+: Capable of withstanding great physical hardship and long campaigns.
+
+Dexterity
+: He’s competent in battle, but relying on both on strength and finesse.
+
+Agility
+: His movements have a fluid grace, particularly when in combat.
+
+Perception
+: He has a keen situational awareness.
+
+Comeliness
+: His rugged appearance and battle-worn features give him a respectable, if not handsome, look.
+
+Aura
+: Drazhan's metaphysical presence is unremarkable.
+
+Will
+: He holds to his duty and discipline, committed to his path.
+
+Reasoning
+: He’s more of a tactician in battle than a scholar, so his reasoning is practical but not outstanding.
+
+Creativity
+: Drazhan is not inventive in battle but sticks to tried-and-true tactics.
+
+Empathy
+: He tends to focus more on the mission and less on emotional nuance.
+
+Eloquence
+: His words carry weight when needed, though he’s more a man of action.
+
+Morality
+: Drazhan, as a Ústaran knight, often revels in battle and follows the principles of his church, but he is willing to bend some moral guidelines if it benefits his goals and survival.
+
+Voice
+: Drazhan’s voice reflects his warrior lifestyle—gruff and forceful, lacking the finesse required for melodious singing.
 
 ## Psyche
 
@@ -500,8 +527,11 @@ Sir Zekáz Trosuskar of Nakarys the Scourge
 
 ## Plot Hooks
 
-1. **The Quest for the Eye of Velok**: Drazhan’s search for the Eye of Velok could involve players joining him on a dangerous expedition into the **Ruins of Arkor**, where they must navigate ancient traps, rival factions, and the harsh conditions of the Desert of Hek'ar.
+The Quest for the Eye of Velok
+: Drazhan’s search for the Eye of Velok could involve players joining him on a dangerous expedition into the **Ruins of Arkor**, where they must navigate ancient traps, rival factions, and the harsh conditions of the Desert of Hek'ar.
 
-2. **Black Flame Politics**: As Drazhan’s power grows, so too does the opposition within the Black Flame, particularly the order of **Nakarys the Scourge**. Players could be hired to protect or sabotage Drazhan’s mission, depending on their allegiance.
+Black Flame Politics
+: As Drazhan’s power grows, so too does the opposition within the Black Flame, particularly the order of **Nakarys the Scourge**. Players could be hired to protect or sabotage Drazhan’s mission, depending on their allegiance.
 
-3. **Clash with Sir Nebralo**: Drazhan’s ongoing conflict with the Árdavonian knight Sir Nebralo could lead to a dramatic showdown, with players taking sides in the battle between two ideologically opposed orders.
+Clash with Sir Nebralo
+: Drazhan’s ongoing conflict with the Árdavonian knight Sir Nebralo could lead to a dramatic showdown, with players taking sides in the battle between two ideologically opposed orders.

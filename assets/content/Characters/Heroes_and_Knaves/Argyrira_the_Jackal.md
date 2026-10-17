@@ -416,10 +416,17 @@ It was in those years that the byname found her. Whether the marcher clans first
 
 ### Skills and Abilities
 
-- **The Charissa**: Argirira was trained from girlhood in the Bethuan open-hand killing art, and remains lethal weaponless—a fact that has surprised more than one larger opponent who took an unarmed woman of forty for an easy mark.
-- **Spear-Sister's Craft**: Years as a Lonkha officer gave her real command, tactics, and discipline, which she has bent to the warband—her Jackals fight as a trained pack, not a rabble, and her Spadai core fights in the Bethuan manner.
-- **Mounted Raider**: A superb horsewoman, deadly with scimitar and throwing-axe from the saddle, at home in the waterless marcher country she once patrolled and now rules.
-- **A Personal Stake**: Against [[being-lmbhrpdhnn|Lámbira]] in particular she is more dangerous than any contract could make her—she has waited years for the chance to repay the woman who unmade her.
+The Charissa
+: Argirira was trained from girlhood in the Bethuan open-hand killing art, and remains lethal weaponless—a fact that has surprised more than one larger opponent who took an unarmed woman of forty for an easy mark.
+
+Spear-Sister's Craft
+: Years as a Lonkha officer gave her real command, tactics, and discipline, which she has bent to the warband—her Jackals fight as a trained pack, not a rabble, and her Spadai core fights in the Bethuan manner.
+
+Mounted Raider
+: A superb horsewoman, deadly with scimitar and throwing-axe from the saddle, at home in the waterless marcher country she once patrolled and now rules.
+
+A Personal Stake
+: Against [[being-lmbhrpdhnn|Lámbira]] in particular she is more dangerous than any contract could make her—she has waited years for the chance to repay the woman who unmade her.
 
 ## Psyche
 
@@ -450,22 +457,29 @@ She is not, in her own telling, a traitor or a monster but a woman who was throw
 
 ### Patrons of Convenience
 
-- [[being-casiaveric|Kassa Verris]]: The Vylarian intelligence officer whose cut-outs have hired the Jackals to bleed away the time [[being-rshrhssfrn|Rashira]] needs to cross the Marches toward the Khelathi frontier. Argirira does not know—or care—whose coin it truly is; she knows only that someone has paid her to do the thing she already meant to do.
+[[being-casiaveric|Kassa Verris]]
+: The Vylarian intelligence officer whose cut-outs have hired the Jackals to bleed away the time [[being-rshrhssfrn|Rashira]] needs to cross the Marches toward the Khelathi frontier. Argirira does not know—or care—whose coin it truly is; she knows only that someone has paid her to do the thing she already meant to do.
 
 ### The Band
 
-- **The [[affiliation-jcklsthmrchs|Jackals of the South Marches]]**: Her own warband and her life's second work—exiled Bethuan women, a hard core of cast-out Spadai eunuch-blades, and marcher men spent as light horse, all of them Houseless. They are her instrument, her standing, and the only home left to her.
+The [[affiliation-jcklsthmrchs|Jackals of the South Marches]]
+: Her own warband and her life's second work—exiled Bethuan women, a hard core of cast-out Spadai eunuch-blades, and marcher men spent as light horse, all of them Houseless. They are her instrument, her standing, and the only home left to her.
 
 ### The Prize on Her Ground
 
-- [[being-rshrhssfrn|Rashira of House Safiron]] and the **Purple Warrant**: The fugitive Grammatissa is crossing Argirira's country with the most valuable object on the southern border—the stolen crown register that proves the matriarchy a profiteer and an oath-breaker against its own patron. Argirira was hired only to delay the Hound, not to take the rolls; but a warlord who rules the only road does not stay ignorant of what crosses it for long. Should she grasp what Rashira carries, the choice is the sharpest of her exile: sell the register to the highest bidder and buy her band a kingdom's worth of coin; carry it to the [[affiliation-empireakhlth|Empire of Au'Khelathu]] and watch the Matriarchy that unmade her brought low; or burn it, and deny every power that ever used her the prize they crave. For the register is the indictment of the very machine that scapegoated her to save itself—and the woman it threw away now holds, by sheerest accident, the power to ruin it.
+[[being-rshrhssfrn|Rashira of House Safiron]] and the **Purple Warrant**
+: The fugitive Grammatissa is crossing Argirira's country with the most valuable object on the southern border—the stolen crown register that proves the matriarchy a profiteer and an oath-breaker against its own patron. Argirira was hired only to delay the Hound, not to take the rolls; but a warlord who rules the only road does not stay ignorant of what crosses it for long. Should she grasp what Rashira carries, the choice is the sharpest of her exile: sell the register to the highest bidder and buy her band a kingdom's worth of coin; carry it to the [[affiliation-empireakhlth|Empire of Au'Khelathu]] and watch the Matriarchy that unmade her brought low; or burn it, and deny every power that ever used her the prize they crave. For the register is the indictment of the very machine that scapegoated her to save itself—and the woman it threw away now holds, by sheerest accident, the power to ruin it.
 
 ## Plot Hooks
 
-1. **The Hunt Comes South**: Rashira's flight into the [[affiliation-jcklsthmrchs|South Marches]] brings the one quarry Argirira truly wants onto her own ground: [[being-lmbhrpdhnn|Lámbira]], hunting straight into the territory of the woman she unmade. Paid through [[being-casiaveric|Verris's]] agents to cost the Hound the time her own quarry needs, Argirira needs no second reason—it is the reckoning she has waited years for, on land she chooses and the Hound does not know. For Lámbira it means cutting her way free of an old enemy who wants her dead for reasons that have nothing to do with the contract, before the trail leads out of the Marches and away.
+The Hunt Comes South
+: Rashira's flight into the [[affiliation-jcklsthmrchs|South Marches]] brings the one quarry Argirira truly wants onto her own ground: [[being-lmbhrpdhnn|Lámbira]], hunting straight into the territory of the woman she unmade. Paid through [[being-casiaveric|Verris's]] agents to cost the Hound the time her own quarry needs, Argirira needs no second reason—it is the reckoning she has waited years for, on land she chooses and the Hound does not know. For Lámbira it means cutting her way free of an old enemy who wants her dead for reasons that have nothing to do with the contract, before the trail leads out of the Marches and away.
 
-2. **Two Daughters of the Matriarchy**: The hunt forces Argirira and [[being-lmbhrpdhnn|Lámbira]] face to face at last—two Bethuan women of arms, one the realm's hound and one its exile, each the road the other did not take. There is room here for vengeance, for an ugly recognition, or even for an uneasy alliance against those who used them both, if Lámbira can be made to see what her old success really cost.
+Two Daughters of the Matriarchy
+: The hunt forces Argirira and [[being-lmbhrpdhnn|Lámbira]] face to face at last—two Bethuan women of arms, one the realm's hound and one its exile, each the road the other did not take. There is room here for vengeance, for an ugly recognition, or even for an uneasy alliance against those who used them both, if Lámbira can be made to see what her old success really cost.
 
-3. **A Warlord's Price**: Approached by the other side, Argirira proves willing to hear an offer—her hatred is real, but so is her discipline, and a party that can pay in coin, in vengeance better aimed, or in the truth of who truly engineered her downfall might turn the Jackals loose from [[being-casiaveric|Verris's]] leash entirely.
+A Warlord's Price
+: Approached by the other side, Argirira proves willing to hear an offer—her hatred is real, but so is her discipline, and a party that can pay in coin, in vengeance better aimed, or in the truth of who truly engineered her downfall might turn the Jackals loose from [[being-casiaveric|Verris's]] leash entirely.
 
-4. **The Register and the Jackal**: Argirira grasps that the fugitive crossing her land carries proof that could topple the Matriarch who made her Houseless. Now the warlord paid merely to delay the Hound holds the real prize within reach—and must weigh coin against vengeance against the bitter satisfaction of handing the truth to the [[affiliation-empireakhlth|Empire of Au'Khelathu]], while [[being-casiaveric|Kassa]], the Veil, and [[being-rshrhssfrn|Rashira]] herself all scramble to keep the most dangerous object in the Marches out of a Jackal's hands.
+The Register and the Jackal
+: Argirira grasps that the fugitive crossing her land carries proof that could topple the Matriarch who made her Houseless. Now the warlord paid merely to delay the Hound holds the real prize within reach—and must weigh coin against vengeance against the bitter satisfaction of handing the truth to the [[affiliation-empireakhlth|Empire of Au'Khelathu]], while [[being-casiaveric|Kassa]], the Veil, and [[being-rshrhssfrn|Rashira]] herself all scramble to keep the most dangerous object in the Marches out of a Jackal's hands.

@@ -51,7 +51,14 @@ The [[affiliation-tribestrzd|Atarzád]] keep a different ritual reckoning, cycli
 
 ## See Also
 
-- [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the people whose calendar this is
-- [[affiliation-ahurdaen|Faith of Ahurdaen]]—the Delkoshekhs who maintain it
-- [[place-worldthlrn|The World of Thalorna]]—the fixed vernal equinox the year opens on
-- [[place-vaelith|Vaelith]]—the moon, whose thirty-day cycle leaves the same five days over
+[[affiliation-khzrncnfdrtn|Tellumi Confederation]]
+: the people whose calendar this is
+
+[[affiliation-ahurdaen|Faith of Ahurdaen]]
+: the Delkoshekhs who maintain it
+
+[[place-worldthlrn|The World of Thalorna]]
+: the fixed vernal equinox the year opens on
+
+[[place-vaelith|Vaelith]]
+: the moon, whose thirty-day cycle leaves the same five days over

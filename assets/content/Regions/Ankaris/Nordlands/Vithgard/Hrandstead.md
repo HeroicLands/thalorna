@@ -28,13 +28,25 @@ The Hrandstead ting also holds a judgment that outlasts the living. It keeps the
 
 ## At a Glance
 
-- Kind: a fortified settlement and provincial seat.
-- People: about 1,000.
-- Ruled by: the jarl of the Bjarnaett.
-- Known for: its garrison, its fair markets and its contracts.
+Kind
+: a fortified settlement and provincial seat.
+
+People
+: about 1,000.
+
+Ruled by
+: the jarl of the Bjarnaett.
+
+Known for
+: its garrison, its fair markets and its contracts.
 
 ## See Also
 
-- [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—[[lore-nordheimnclt|Nordmen]] kingdom of Vithgard
-- [[affiliation-asguardian|Asguardian Pantheon]]—gods of the north
-- [[place-isdal|Isdal]]—the dale whose farms the ting holds for their dead
+[[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
+: [[lore-nordheimnclt|Nordmen]] kingdom of Vithgard
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: gods of the north
+
+[[place-isdal|Isdal]]
+: the dale whose farms the ting holds for their dead

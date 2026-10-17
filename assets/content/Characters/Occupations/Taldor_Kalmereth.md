@@ -431,10 +431,14 @@ A younger fisher of the town who nets where the boatmen do not and has been luck
 
 ## Plot Hooks
 
-1. **The Wrong Water**—The young fisher has put a net down over the deep hole under the eastern cliff, where nobody nets, and it has come up full. He means to go back, and the boatmen have asked Taldor to stop him.
+The Wrong Water
+: The young fisher has put a net down over the deep hole under the eastern cliff, where nobody nets, and it has come up full. He means to go back, and the boatmen have asked Taldor to stop him.
 
-2. **The Fair**—The Péravel factors have offered Taldor a contract for salted fish that would keep him for the years his hands have left, if he will fish the lake as they want it fished.
+The Fair
+: The Péravel factors have offered Taldor a contract for salted fish that would keep him for the years his hands have left, if he will fish the lake as they want it fished.
 
-3. **The Lake**—Something has begun to take nets from the water in the night, whole, and leave the floats. The boatmen have stopped going out, and the town is hungry.
+The Lake
+: Something has begun to take nets from the water in the night, whole, and leave the floats. The boatmen have stopped going out, and the town is hungry.
 
-4. **The Hands**—Taldor could not close his hands on the net this morning, and he has three families who eat from his boat and nobody to tell.
+The Hands
+: Taldor could not close his hands on the net this morning, and he has three families who eat from his boat and nobody to tell.

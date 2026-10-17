@@ -2025,11 +2025,20 @@ The political fragmentation of Tarvénia into competing kingdoms prevented the l
 
 ## Sample Phrases
 
-- **"Honrik vokath dun korath drengaken."**—"Honrik speaks with a warrior's heart." (A compliment implying authenticity and strength; _vokath_ "speaks," _dun_ "with," _korath_ "heart," _drengaken_ "warrior's," from _drengako_ "warrior.")
-- **"Pra grandhen ek pra therrath!"**—"For honor and for the land!" (Battle cry or oath; _pra_ "for," _grandhen_ acc. of _grandh_ "honor," _ek_ "and," _therrath_ acc. of _therrá_ "land.")
-- **"Kothren meru, ath predhen est enthráth nos."**—"My brother, peace is between us." (Formal reconciliation or alliance; _kothren_ "brother," _merro_ possessive, _predhen_ "peace," _enthráth_ "between.")
-- **"Don est ath verath?"**—"Where is the truth?" (Philosophical question, also used ironically; _don_ "where," _verath_ "truth.")
-- **"Ath kavren thorren dath ath vilkrath nostren gárevarren."**—"The river runs like the blood of our ancestors." (Poetic usage connecting land to people; _kavren_ "river," _thorren_ "runs," _vilkrath_ "blood," _gárevarren_ "ancestors.")
+"Honrik vokath dun korath drengaken."
+: "Honrik speaks with a warrior's heart." (A compliment implying authenticity and strength; _vokath_ "speaks," _dun_ "with," _korath_ "heart," _drengaken_ "warrior's," from _drengako_ "warrior.")
+
+"Pra grandhen ek pra therrath!"
+: "For honor and for the land!" (Battle cry or oath; _pra_ "for," _grandhen_ acc. of _grandh_ "honor," _ek_ "and," _therrath_ acc. of _therrá_ "land.")
+
+"Kothren meru, ath predhen est enthráth nos."
+: "My brother, peace is between us." (Formal reconciliation or alliance; _kothren_ "brother," _merro_ possessive, _predhen_ "peace," _enthráth_ "between.")
+
+"Don est ath verath?"
+: "Where is the truth?" (Philosophical question, also used ironically; _don_ "where," _verath_ "truth.")
+
+"Ath kavren thorren dath ath vilkrath nostren gárevarren."
+: "The river runs like the blood of our ancestors." (Poetic usage connecting land to people; _kavren_ "river," _thorren_ "runs," _vilkrath_ "blood," _gárevarren_ "ancestors.")
 
 ## Related Languages
 

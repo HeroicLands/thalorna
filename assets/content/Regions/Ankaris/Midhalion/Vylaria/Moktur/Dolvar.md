@@ -22,6 +22,11 @@ The town lives by the legion: its taverns, smiths and traders all serve the sold
 
 ## See Also
 
-- [[affiliation-provncmktr|Province of Moktur]]—parent province
-- [[place-moktur|Moktur]]—the land the fortress guards
-- [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview
+[[affiliation-provncmktr|Province of Moktur]]
+: parent province
+
+[[place-moktur|Moktur]]
+: the land the fortress guards
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: imperial overview

@@ -293,20 +293,29 @@ Eagles mate for life and establish nesting territories that they defend with fie
 
 ## Attributes
 
-- **Strength:** 3-6 (1d4+2)
+Strength
+: 3-6 (1d4+2)
 
-- **Endurance:** 8-13 (1d6+7)
+Endurance
+: 8-13 (1d6+7)
 
-- **Agility:** 8-13 (1d6+7)
+Agility
+: 8-13 (1d6+7)
 
-- **Perception:** 24-29 (1d6+23)
+Perception
+: 24-29 (1d6+23)
 
-- **Scent:** 2-5 (1d4+1)
+Scent
+: 2-5 (1d4+1)
 
-- **Aura:** 4-7 (1d4+3)
+Aura
+: 4-7 (1d4+3)
 
-- **Will:** 8-13 (1d6+7)
+Will
+: 8-13 (1d6+7)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 7-10 (1d4+6)
+Creativity
+: 7-10 (1d4+6)

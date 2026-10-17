@@ -630,10 +630,17 @@ Ki'ichek is clipped and glottal, built of short syllables with the catch of the 
 
 Ki'ichek phonology is dominated by hard stops and sibilants, creating a percussive, rhythmic quality:
 
-- **Glottal stops (')**: Fundamental to the language; often serve as syllable delimiters
-- **Hard consonants**: K, T, P, Q (often articulated with greater force than their Ankarian equivalents)
-- **Sibilants**: X (like 'sh' in "shaman"), TZ (affricate), CH (palatalized)
-- **Liquids**: L (rolled), allowing for some softness amid the hardness
+Glottal stops (')
+: Fundamental to the language; often serve as syllable delimiters
+
+Hard consonants
+: K, T, P, Q (often articulated with greater force than their Ankarian equivalents)
+
+Sibilants
+: X (like 'sh' in "shaman"), TZ (affricate), CH (palatalized)
+
+Liquids
+: L (rolled), allowing for some softness amid the hardness
 
 ### Vowels
 
@@ -667,7 +674,8 @@ Analyzing the name corpus reveals consistent patterns:
 
 Ki'ichek employs a **Subject-Object-Verb (SOV)** word order, fundamentally different from most Ankarian tongues:
 
-- Example: _Ish'ik ha'nal ka-nal'un-ix_—"The lagoon (subj.) eats (verb) the river (obj.)"
+Example
+: _Ish'ik ha'nal ka-nal'un-ix_—"The lagoon (subj.) eats (verb) the river (obj.)"
 
 This structure reflects K'ich'chik philosophical priorities: establishing who acts and what is acted upon before revealing the action itself.
 
@@ -681,10 +689,17 @@ Ki'ichek writing—[[skill-chlxplmscrpt|Ch'alish P'ilam]], "the glyphs of Ch'ali
 
 Key script features:
 
-- **Logographs**: Iconic or abstract symbols representing concepts (water, jaguar, maize, sky)
-- **Phonetic complements**: Small glyphs indicating pronunciation to disambiguate homonyms
-- **Diacritical marks**: Dots, lines, and flourishes modify meaning
-- **Ceremonial variants**: More elaborate, ornate forms used in sacred contexts
+Logographs
+: Iconic or abstract symbols representing concepts (water, jaguar, maize, sky)
+
+Phonetic complements
+: Small glyphs indicating pronunciation to disambiguate homonyms
+
+Diacritical marks
+: Dots, lines, and flourishes modify meaning
+
+Ceremonial variants
+: More elaborate, ornate forms used in sacred contexts
 
 Alongside the glyphs runs a second system entirely: the [[skill-ktzlcrdscrpt|K'otsel]], knotted cord records in colored thread, carrying tribute tallies, census and the day-counts, tied and read only by the priestly scribes.
 
@@ -700,19 +715,33 @@ The language preserves archaic elements in formal speech and sacred texts—olde
 
 Geographically vast and politically fragmented, K'ich'chik city-states maintain distinct dialects:
 
-- **Northern dialect**: Spoken in Ts'uma No'tun and P'enqal Ch'akal; emphasizes sharp consonant articulation
-- **Central dialect**: The prestige form, centered on Shik'ul Ch'akal; balances clarity with flowing speech
-- **Southern dialect**: Softer glottal stops, longer vowel sounds, influenced by older ceremonial forms
+Northern dialect
+: Spoken in Ts'uma No'tun and P'enqal Ch'akal; emphasizes sharp consonant articulation
+
+Central dialect
+: The prestige form, centered on Shik'ul Ch'akal; balances clarity with flowing speech
+
+Southern dialect
+: Softer glottal stops, longer vowel sounds, influenced by older ceremonial forms
 
 Inter-city trade and shared religious rites limit dialect divergence, but a K'ich'chik from the northern highlands will sound noticeably different from a southern coastal dweller.
 
 ## Sample Phrases
 
-- _Ch'alish ish'bal ts'ik k'inish_—"Sacred jaguar rises above the sun" (blessing or salutation)
-- _Ka-ts'akun-in kul'qat-um_—"We climb to the sacred peak" (call to pilgrimage)
-- _Ha'nal ts'uma ka-ts'akun-um_—"The misty river flows" (poetic observation)
-- _Na-nal'un-ix shak'nal shiq'il-ka_—"I ate the eagle feather" (ritual/mystical statement)
-- _Ts'amal ishkan k'alish_—"From void comes thought, is being" (cosmological maxim)
+_Ch'alish ish'bal ts'ik k'inish_
+: "Sacred jaguar rises above the sun" (blessing or salutation)
+
+_Ka-ts'akun-in kul'qat-um_
+: "We climb to the sacred peak" (call to pilgrimage)
+
+_Ha'nal ts'uma ka-ts'akun-um_
+: "The misty river flows" (poetic observation)
+
+_Na-nal'un-ix shak'nal shiq'il-ka_
+: "I ate the eagle feather" (ritual/mystical statement)
+
+_Ts'amal ishkan k'alish_
+: "From void comes thought, is being" (cosmological maxim)
 
 ## Related Languages
 
@@ -742,9 +771,14 @@ Names encode philosophy. A child born during floods might be named _Ne' Ishkul_ 
 
 Titles are appended to names, not fused:
 
-- _Q'emulmah_—"Overlord" (ruler of a city-state)
-- _Ha'nalmah_—"Landholder" (chief of a district)
-- _Ts'omalil_—"One Who Belongs" (full citizen)
+_Q'emulmah_
+: "Overlord" (ruler of a city-state)
+
+_Ha'nalmah_
+: "Landholder" (chief of a district)
+
+_Ts'omalil_
+: "One Who Belongs" (full citizen)
 
 ### House Names
 
@@ -776,16 +810,26 @@ working vocabulary.
 
 ## Phonetic Rules
 
-1.  **Syllables**: K’ich'chik words are typically 2-4 syllables, with occasional longer words for important concepts.
+Syllables
+: K’ich'chik words are typically 2-4 syllables, with occasional longer words for important concepts.
 
-2.  **Consonants**: Common consonants include:
-    - Glottal stops: `’`
-    - Hard sounds: `k`, `t`, `p`, `q`
-    - Soft sounds: `x`, `ch`, `tz`, `l`
+Consonants
+: Common consonants include:
 
-3.  **Vowels**: The five vowels (a, e, i, o, u) are pronounced clearly.
+    Glottal stops
+    : `’`
 
-4.  **Stress**: Stress generally falls on the second-to-last syllable unless otherwise specified.
+    Hard sounds
+    : `k`, `t`, `p`, `q`
+
+    Soft sounds
+    : `x`, `ch`, `tz`, `l`
+
+Vowels
+: The five vowels (a, e, i, o, u) are pronounced clearly.
+
+Stress
+: Stress generally falls on the second-to-last syllable unless otherwise specified.
 
 ## Naming Rules
 
@@ -826,105 +870,155 @@ working vocabulary.
 
 ### Sentence Structure
 
-1.  **Basic Word Order**: Subject-Object-Verb (SOV)
-    - Example: _Ish’ik ha’nal ka-nal’un-ix_ (“The lagoon eats the river”)
+Basic Word Order
+: Subject-Object-Verb (SOV)
 
-2.  **Modifiers**: Adjectives follow nouns, adverbs precede verbs.
-    - Example: _Ha’nal ts’uma ka-ts’akun-ix_ (“The misty river goes”)
+    Example
+    : _Ish’ik ha’nal ka-nal’un-ix_ (“The lagoon eats the river”)
+
+Modifiers
+: Adjectives follow nouns, adverbs precede verbs.
+
+    Example
+    : _Ha’nal ts’uma ka-ts’akun-ix_ (“The misty river goes”)
 
 ## Vocabulary
 
 ### Verbs
 
-- Ts’akun—To go
+Ts’akun
+: To go
 
-- Ishan—To sleep
+Ishan
+: To sleep
 
-- K’alish—To be
+K’alish
+: To be
 
-- Ha’kan—To have
+Ha’kan
+: To have
 
-- Ts’ukal—To want
+Ts’ukal
+: To want
 
-- Ch’upan—To work
+Ch’upan
+: To work
 
-- Ts’ulam—To play
+Ts’ulam
+: To play
 
-- K’ayal—To see
+K’ayal
+: To see
 
-- Nal’un—To eat
+Nal’un
+: To eat
 
-- Ts’ik’an—To drink
+Ts’ik’an
+: To drink
 
-- Ch’umun—To speak
+Ch’umun
+: To speak
 
-- P’iqal—To build
+P’iqal
+: To build
 
-- Shilan—To walk
+Shilan
+: To walk
 
-- Ha’tsul—To swim
+Ha’tsul
+: To swim
 
-- Ishkan—To think
+Ishkan
+: To think
 
-- Ts’anum—To rest
+Ts’anum
+: To rest
 
-- Nal’ik’an—To dream
+Nal’ik’an
+: To dream
 
-- Pu’tal—To climb
+Pu’tal
+: To climb
 
-- K’ay’an—To hear
+K’ay’an
+: To hear
 
-- Ch’upalum—To carry
+Ch’upalum
+: To carry
 
 ### Nouns
 
-- Pakul—Table
+Pakul
+: Table
 
-- Ch’ishum—Chair
+Ch’ishum
+: Chair
 
-- Ts’uku—Pillow
+Ts’uku
+: Pillow
 
-- Ha’tan—Bowl
+Ha’tan
+: Bowl
 
-- Shil’ik—Cup
+Shil’ik
+: Cup
 
-- Ts’anul—Roof
+Ts’anul
+: Roof
 
-- Shots’em—Door
+Shots’em
+: Door
 
-- Ts’iqal—Blanket
+Ts’iqal
+: Blanket
 
-- Nal’ish—Spoon
+Nal’ish
+: Spoon
 
-- K’ulqat—Knife
+K’ulqat
+: Knife
 
-- Ts’opil—Basket
+Ts’opil
+: Basket
 
-- Pu’chal—Bed
+Pu’chal
+: Bed
 
-- Ish’lan—Path/Trail
+Ish’lan
+: Path/Trail
 
-- Lu’she—Pot
+Lu’she
+: Pot
 
-- K’ayish—Firewood
+K’ayish
+: Firewood
 
-- Ha’kin—Mirror
+Ha’kin
+: Mirror
 
-- Ts’alish—Window
+Ts’alish
+: Window
 
-- Pik’al—Plate
+Pik’al
+: Plate
 
-- Shilum—Stool
+Shilum
+: Stool
 
-- Ha’mal—Bucket
+Ha’mal
+: Bucket
 
-- P’ilam—Glyph
+P’ilam
+: Glyph
 
-- Shok’al—War, a campaign
+Shok’al
+: War, a campaign
 
-- K’ayik—Flame
+K’ayik
+: Flame
 
-- Kul—Seat (of a lord, and so of the city he rules from)
+Kul
+: Seat (of a lord, and so of the city he rules from)
 
 ### Adjectives
 
@@ -958,58 +1052,121 @@ Ts’ik’al—Sick; Nal’in—Healthy; Pu’chal—Full; Ts’alun—Empty; Ku
 
 ### Structure of the K’ich'chik Numerical System
 
-1. **Base Numbers (1–19)**: The numbers from one to ten are single words; eleven to nineteen are _olek’_ (ten) followed by the unit, as two words.
-2. **Multiples of 20**: Numbers from 20 onward are combinations of multiples of 20, with separate terms for higher powers of 20:
-   - K’aqil: 1 (20⁰)
-   - Ts’ob: 20 (20¹)
-   - Pel’ush: 400 (20²)
-   - Q’umpel: 8,000 (20³)
-   - Sholemash: 160,000 (20⁴) Higher powers follow similar patterns, though rarely used in daily life.
-3. **Positional Representation**: Each place represents a power of 20, with the first position for units, the second for 20s, the third for 400s, and so on.
+Base Numbers (1–19)
+: The numbers from one to ten are single words; eleven to nineteen are _olek’_ (ten) followed by the unit, as two words.
+
+Multiples of 20
+: Numbers from 20 onward are combinations of multiples of 20, with separate terms for higher powers of 20:
+
+    K’aqil
+    : 1 (20⁰)
+
+    Ts’ob
+    : 20 (20¹)
+
+    Pel’ush
+    : 400 (20²)
+
+    Q’umpel
+    : 8,000 (20³)
+
+    Sholemash
+    : 160,000 (20⁴) Higher powers follow similar patterns, though rarely used in daily life.
+
+Positional Representation
+: Each place represents a power of 20, with the first position for units, the second for 20s, the third for 400s, and so on.
 
 ### K’ich'chik Numbers and Words
 
 #### Base Numbers (1–19):
 
-- Pe’—1
-- Q’o—2
-- Lishe—3
-- Mushe—4
-- P’o—5
-- Ts’ishe—6
-- Nuq’el—7
-- Q’ishe—8
-- Pek’ash—9
-- Olek’—10
-- Olek’ Pe’—11
-- Olek’ Q’o—12
-- Olek’ Lishe—13
-- Olek’ Mushe—14
-- Olek’ P’o—15
-- Olek’ Ts’ishe—16
-- Olek’ Nuq’el—17
-- Olek’ Q’ishe—18
-- Olek’ Pek’ash—19
+Pe’
+: 1
+
+Q’o
+: 2
+
+Lishe
+: 3
+
+Mushe
+: 4
+
+P’o
+: 5
+
+Ts’ishe
+: 6
+
+Nuq’el
+: 7
+
+Q’ishe
+: 8
+
+Pek’ash
+: 9
+
+Olek’
+: 10
+
+Olek’ Pe’
+: 11
+
+Olek’ Q’o
+: 12
+
+Olek’ Lishe
+: 13
+
+Olek’ Mushe
+: 14
+
+Olek’ P’o
+: 15
+
+Olek’ Ts’ishe
+: 16
+
+Olek’ Nuq’el
+: 17
+
+Olek’ Q’ishe
+: 18
+
+Olek’ Pek’ash
+: 19
 
 #### Higher Multiples:
 
-- K’aqil—Unit
-- Ts’ob—20
-- Pel’ush—400
-- Q’umpel—8,000
-- Sholemash—160,000
+K’aqil
+: Unit
+
+Ts’ob
+: 20
+
+Pel’ush
+: 400
+
+Q’umpel
+: 8,000
+
+Sholemash
+: 160,000
 
 #### Combining Numbers
 
 Numbers are expressed hierarchically, starting from the highest value and descending to the lowest:
 
-1. Example: 1,325 1,325 = 3 × 400 + 6 × 20 + 5
+Example
+: 1,325 1,325 = 3 × 400 + 6 × 20 + 5
 
 - Lishe Pel’ush = 3 × 400 (three Pel’ushes)
 - Ts’ishe Ts’ob = 6 × 20 (six Ts’obs)
 - P’o = 5 Full Expression: _Lishe Pel’ush Ts’ishe Ts’ob P’o_
 
-2. Example: 57,724 = 7 × 8,000 + 4 × 400 + 6 × 20 + 4
+Example
+: 57,724 = 7 × 8,000 + 4 × 400 + 6 × 20 + 4
 
 - Nuq’el Q’umpel = 7 × 8,000 (seven Q’umpels)
 - Mushe Pel’ush = 4 × 400 (four Pel’ushes)

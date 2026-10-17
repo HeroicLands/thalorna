@@ -69,9 +69,20 @@ Wagaru uses the [[lore-aukhlthcrncy|Au'Khelathu currency]], and the gold-road is
 
 ## See Also
 
-- [[affiliation-borderselatu|The Border Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-wagaru|Wagaru]]—Selat capital
-- [[affiliation-psaqaru|Faith of Saq'aru]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-wagaruselat|Wagaru Selat]]—The land the selat holds
+[[affiliation-borderselatu|The Border Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-wagaru|Wagaru]]
+: Selat capital
+
+[[affiliation-psaqaru|Faith of Saq'aru]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-wagaruselat|Wagaru Selat]]
+: The land the selat holds

@@ -18,5 +18,8 @@ data:
 
 ## See Also
 
-- [[place-suvarnagirijnpd|Suvarnageri Janapoda]]—the land
-- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the temple-republic that holds it
+[[place-suvarnagirijnpd|Suvarnageri Janapoda]]
+: the land
+
+[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+: the temple-republic that holds it

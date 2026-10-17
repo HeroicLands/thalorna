@@ -15,9 +15,14 @@ Each Elemental Lord governs a domain established by Tanzho during the [[affiliat
 
 ## Wéngdao Zhouwo—Azure Wind of Sacred Breath
 
-- **Element:** Air
-- **Domain:** Breath, Communication, and the Medium of Classification
-- **Bureau:** Administers the channels through which all classifications flow—the carrier medium that connects sorted things to each other and prevents the classified world from stagnating.
+Element
+: Air
+
+Domain
+: Breath, Communication, and the Medium of Classification
+
+Bureau
+: Administers the channels through which all classifications flow—the carrier medium that connects sorted things to each other and prevents the classified world from stagnating.
 
 Wéngdao Zhouwo is the administrator of the Air domain, responsible for ensuring that Lei flows between classifications rather than pooling or stagnating. Wind is the circulation of Lei through the classified world, keeping sorted things connected. A windless day is the circulation slowing, and a gale is the circulation running fast; a storm's thunder and its rain belong to the Minister of Storms, and the wind that carries them belongs to this bureau.
 
@@ -27,9 +32,14 @@ Sailors, messengers, and those who depend on the movement of goods and informati
 
 ## Rinho Daowéng—Blazing Flame of Glorious Fire
 
-- **Element:** Fire
-- **Domain:** Fire, Transformation, and Transmission
-- **Bureau:** The Bureau of Transformation ([[affiliation-tengwouronglei|Ho Sei]])—administers all processes that convert things from one classification to another, including the critical function of spirit-burning that transmits documents to the celestial filing system.
+Element
+: Fire
+
+Domain
+: Fire, Transformation, and Transmission
+
+Bureau
+: The Bureau of Transformation ([[affiliation-tengwouronglei|Ho Sei]])—administers all processes that convert things from one classification to another, including the critical function of spirit-burning that transmits documents to the celestial filing system.
 
 Rinho Daowéng governs the element that matters most in daily practice, because fire is the channel between the mortal and celestial planes. Every spirit document burned, every offering transmitted, every petition filed through flame passes through his bureau's processing channels. Without the Bureau of Transformation functioning properly, the mortal plane would lose its administrative link to the celestial bureaucracy entirely.
 
@@ -39,9 +49,14 @@ Smiths, who transform raw ore into metal through fire, are understood to be perf
 
 ## Daotou Wochai—Warm Stone of Deep Earth
 
-- **Element:** Earth
-- **Domain:** Stability, Foundation, and Persistence
-- **Bureau:** Administers the classification of all stable, enduring material—stone, soil, minerals, and the structural foundations that keep sorted things in place.
+Element
+: Earth
+
+Domain
+: Stability, Foundation, and Persistence
+
+Bureau
+: Administers the classification of all stable, enduring material—stone, soil, minerals, and the structural foundations that keep sorted things in place.
 
 Daotou Wochai is the administrator of the Earth domain, responsible for the _persistence_ of classification. Where other elements govern change, flow, or transformation, Earth governs the resistance to change—the structural inertia that prevents sorted things from drifting out of their categories. The Tantsou say a mountain stands because Daotou Wochai's bureau keeps it classified as solid, enduring and here.
 
@@ -51,9 +66,14 @@ Builders, miners, and engineers file petitions with this bureau for structural i
 
 ## Wojing Ja—Sword of Pure Metal
 
-- **Element:** Metal
-- **Domain:** Distinction, Boundary, and Enforcement
-- **Bureau:** Administers the classification of boundaries and separations—the sharp lines between categories, the enforcement of distinctions, and the domain of law and judgment.
+Element
+: Metal
+
+Domain
+: Distinction, Boundary, and Enforcement
+
+Bureau
+: Administers the classification of boundaries and separations—the sharp lines between categories, the enforcement of distinctions, and the domain of law and judgment.
 
 Wojing Ja governs the element that _draws the lines_. Metal is the domain of classification at its most precise: the blade that separates one category from another, the boundary that prevents sorted things from blurring together. This makes his bureau the elemental counterpart to the legal system—where the Teng Lou defines caste boundaries in law, Wojing Ja's bureau maintains those boundaries in the cosmic classification system.
 
@@ -63,9 +83,14 @@ Weaponsmiths and judges alike petition this bureau. Warriors of the [[lore-wohou
 
 ## Zhoushou Zho—Blue Water Dragon
 
-- **Element:** Water
-- **Domain:** Flow, Transition, and Adaptability
-- **Bureau:** Administers the classification of all processes involving flow, transition, and the movement of Lei between categories—rivers, tides, the circulatory systems of living things, and the transitions between sorted states.
+Element
+: Water
+
+Domain
+: Flow, Transition, and Adaptability
+
+Bureau
+: Administers the classification of all processes involving flow, transition, and the movement of Lei between categories—rivers, tides, the circulatory systems of living things, and the transitions between sorted states.
 
 Zhoushou Zho governs the element that carries Lei between classifications, enabling things to change from one sorted state to another without passing through the Unsorted. Water is the medium of change, the domain that lets the classification move. Without Water's bureau functioning, sorted things would remain frozen in their categories, unable to grow, change, or adapt.
 
@@ -75,7 +100,14 @@ Sailors, healers, and the Yaiwo physicians of the [[lore-tsaihuo|Tsaihuo]] caste
 
 ## See Also
 
-- [[lore-clstlpnthn|Celestial Pantheon]]—The senior officials of the celestial administration
-- [[lore-phlsphyleiwo|Philosophy of Leiwo]]—The elemental philosophy underlying these domains
-- [[lore-celestlrdr|Celestial Order]]—The broader cosmological and administrative framework
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—the full pantheon, with a note for each Elemental Lord
+[[lore-clstlpnthn|Celestial Pantheon]]
+: The senior officials of the celestial administration
+
+[[lore-phlsphyleiwo|Philosophy of Leiwo]]
+: The elemental philosophy underlying these domains
+
+[[lore-celestlrdr|Celestial Order]]
+: The broader cosmological and administrative framework
+
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: the full pantheon, with a note for each Elemental Lord

@@ -22,5 +22,8 @@ Every K'ich'chik person, from the highest Ts'enmah to the lowest bound laborer, 
 
 ## See Also
 
-- [[affiliation-ixilankul|Ish'ilankul]]—the city-state that holds the precinct
-- [[affiliation-piqalkulqat|Faith of P'iqal Kul'qat]]—the creator's faith
+[[affiliation-ixilankul|Ish'ilankul]]
+: the city-state that holds the precinct
+
+[[affiliation-piqalkulqat|Faith of P'iqal Kul'qat]]
+: the creator's faith

@@ -91,7 +91,14 @@ If the gamble fails, the house's remaining influence evaporates and its enemies 
 
 ## See Also
 
-- [[lore-weizhairui|Wei Zhai Rui]]—the political game that brought the house low
-- [[affiliation-haluozhao|Black Lotus Society]]—the ally the house has staked itself on
-- [[being-tuijawengyan|Tuija Wengyan]]—another threat to the empire from within
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the empire whose court the house navigates
+[[lore-weizhairui|Wei Zhai Rui]]
+: the political game that brought the house low
+
+[[affiliation-haluozhao|Black Lotus Society]]
+: the ally the house has staked itself on
+
+[[being-tuijawengyan|Tuija Wengyan]]
+: another threat to the empire from within
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the empire whose court the house navigates

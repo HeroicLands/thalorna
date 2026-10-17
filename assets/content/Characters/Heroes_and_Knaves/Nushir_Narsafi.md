@@ -463,27 +463,37 @@ Secondarily, she is motivated by a fear of irrelevance—the fear that she is be
 
 ### Strengths
 
-- **Uncompromising Quality Standards**: Nushir's candles and soaps are unquestionably superior in quality to those of competitors. They burn more cleanly, last longer, produce superior light, and are gentler on skin. This quality is not a matter of opinion but technical fact, measurable and verifiable.
+Uncompromising Quality Standards
+: Nushir's candles and soaps are unquestionably superior in quality to those of competitors. They burn more cleanly, last longer, produce superior light, and are gentler on skin. This quality is not a matter of opinion but technical fact, measurable and verifiable.
 
-- **Precise Technical Knowledge**: Her decades of work have given her intuitive mastery of the variables affecting her craft. She can judge temperature by sight alone, diagnose problems in products before they become apparent, and execute techniques with exacting precision.
+Precise Technical Knowledge
+: Her decades of work have given her intuitive mastery of the variables affecting her craft. She can judge temperature by sight alone, diagnose problems in products before they become apparent, and execute techniques with exacting precision.
 
-- **Steady Production**: Despite her small operation, Nushir produces a volume of goods that would require significantly more staff elsewhere, managing through careful organization and elimination of waste.
+Steady Production
+: Despite her small operation, Nushir produces a volume of goods that would require significantly more staff elsewhere, managing through careful organization and elimination of waste.
 
-- **Established Reputation**: Her name is synonymous with quality throughout the region, and those who truly value excellence continue to seek her products regardless of price.
+Established Reputation
+: Her name is synonymous with quality throughout the region, and those who truly value excellence continue to seek her products regardless of price.
 
-- **Integrity and Reliability**: Customers know they will receive exactly what Nushir has promised, delivered on time, in perfect condition. This reliability is increasingly rare in an age of shortcuts and compromises.
+Integrity and Reliability
+: Customers know they will receive exactly what Nushir has promised, delivered on time, in perfect condition. This reliability is increasingly rare in an age of shortcuts and compromises.
 
 ### Weaknesses
 
-- **Inability to Adapt**: Nushir's strength—her unwillingness to compromise on quality—becomes a weakness when the market does not reward that stance. She refuses to experiment with cost-cutting measures or novelties, viewing them as shortcuts that undermine the integrity of her work.
+Inability to Adapt
+: Nushir's strength—her unwillingness to compromise on quality—becomes a weakness when the market does not reward that stance. She refuses to experiment with cost-cutting measures or novelties, viewing them as shortcuts that undermine the integrity of her work.
 
-- **Limited Business Acumen**: While excellent at the technical aspects of chandlery, Nushir has limited understanding of how goods are sold, what draws customers, or the broader economic forces affecting her business. She views such concerns as beneath her attention.
+Limited Business Acumen
+: While excellent at the technical aspects of chandlery, Nushir has limited understanding of how goods are sold, what draws customers, or the broader economic forces affecting her business. She views such concerns as beneath her attention.
 
-- **Price Inflexibility**: Nushir bases her prices on her costs of materials plus a reasonable profit margin. She is often astonished to learn that other chandlers charge less despite lower quality, and she cannot bring herself to raise prices artificially or to compete on price by cutting quality.
+Price Inflexibility
+: Nushir bases her prices on her costs of materials plus a reasonable profit margin. She is often astonished to learn that other chandlers charge less despite lower quality, and she cannot bring herself to raise prices artificially or to compete on price by cutting quality.
 
-- **Social Isolation**: Her lack of close relationships means she has no network of supporters or advisors to provide perspective on her challenges. She faces her difficulties alone and unaided.
+Social Isolation
+: Her lack of close relationships means she has no network of supporters or advisors to provide perspective on her challenges. She faces her difficulties alone and unaided.
 
-- **Aging and Physical Limitations**: At forty-seven, Nushir remains capable of her work, but the physical demands of chandlery—prolonged exposure to heat, caustic materials, the physical labor of rendering and production—are beginning to take a visible toll. She tires more easily and her hands have begun to show signs of arthritis.
+Aging and Physical Limitations
+: At forty-seven, Nushir remains capable of her work, but the physical demands of chandlery—prolonged exposure to heat, caustic materials, the physical labor of rendering and production—are beginning to take a visible toll. She tires more easily and her hands have begun to show signs of arthritis.
 
 ## Social
 
@@ -510,12 +520,17 @@ Village Craft Guild
 
 ## Plot Hooks
 
-1. **The Foreign Innovation**: A traveling merchant brings samples of candles and soaps from distant lands, made using techniques and materials wholly unfamiliar to Nushir. While some are clearly inferior, others exhibit qualities Nushir must acknowledge are equal or superior to her own work—achieved through methods that represent a complete departure from everything she believes about her craft. The merchant offers to supply her with these materials and teach her the techniques, at a cost that would require her to significantly lower her prices.
+The Foreign Innovation
+: A traveling merchant brings samples of candles and soaps from distant lands, made using techniques and materials wholly unfamiliar to Nushir. While some are clearly inferior, others exhibit qualities Nushir must acknowledge are equal or superior to her own work—achieved through methods that represent a complete departure from everything she believes about her craft. The merchant offers to supply her with these materials and teach her the techniques, at a cost that would require her to significantly lower her prices.
 
-2. **The Apprentice with Promise**: A young person of real talent arrives seeking apprenticeship, showing raw ability that suggests they could eventually rival Nushir herself. However, their approach to learning is haphazard and impatient—they want to understand the philosophy before mastering the technique, want to experiment before understanding basics. She can invest the time and effort in training this potential master, risking frustration with their methods, or turn them away and further isolate herself.
+The Apprentice with Promise
+: A young person of real talent arrives seeking apprenticeship, showing raw ability that suggests they could eventually rival Nushir herself. However, their approach to learning is haphazard and impatient—they want to understand the philosophy before mastering the technique, want to experiment before understanding basics. She can invest the time and effort in training this potential master, risking frustration with their methods, or turn them away and further isolate herself.
 
-3. **The Malicious Competitor**: Nushir discovers that several of her customers have become ill after using products from a chandler undercutting her prices. Investigation suggests deliberate adulteration of products with toxic substances, possibly to drive competitors out of business through association with poisoning. Nushir can simply distance herself from the scandal or take action to expose the truth, potentially becoming embroiled in legal and political complications.
+The Malicious Competitor
+: Nushir discovers that several of her customers have become ill after using products from a chandler undercutting her prices. Investigation suggests deliberate adulteration of products with toxic substances, possibly to drive competitors out of business through association with poisoning. Nushir can simply distance herself from the scandal or take action to expose the truth, potentially becoming embroiled in legal and political complications.
 
-4. **The Temple's Secret Request**: The Keeper of Flames approaches Nushir with an unusual request—to produce specialized candles for a sacred ritual, using specific ingredients and techniques that the keeper describes only vaguely. The project is lucrative and prestigious, but the keeper's secrecy about the purpose troubles Nushir. As she works on the candles, she begins to suspect they may have applications beyond normal religious use, potentially involving magic or harm.
+The Temple's Secret Request
+: The Keeper of Flames approaches Nushir with an unusual request—to produce specialized candles for a sacred ritual, using specific ingredients and techniques that the keeper describes only vaguely. The project is lucrative and prestigious, but the keeper's secrecy about the purpose troubles Nushir. As she works on the candles, she begins to suspect they may have applications beyond normal religious use, potentially involving magic or harm.
 
-5. **The Desperate Inheritance**: Jahren falls seriously ill, and during his recovery, Nushir begins contemplating mortality and legacy. She realizes she has no heir, no one to carry forward the family business, and no savings adequate to sustain her if she becomes unable to work. A distant relative she has never met, a younger cousin with business ambitions, approaches her about taking over the business and modernizing it. She has to weigh whether letting go is surrender or wisdom, and whether her methods matter more than the survival of the family name.
+The Desperate Inheritance
+: Jahren falls seriously ill, and during his recovery, Nushir begins contemplating mortality and legacy. She realizes she has no heir, no one to carry forward the family business, and no savings adequate to sustain her if she becomes unable to work. A distant relative she has never met, a younger cousin with business ambitions, approaches her about taking over the business and modernizing it. She has to weigh whether letting go is surrender or wisdom, and whether her methods matter more than the survival of the family name.

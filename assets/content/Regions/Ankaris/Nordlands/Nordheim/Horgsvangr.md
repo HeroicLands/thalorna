@@ -32,6 +32,11 @@ The settlement draws pilgrims of a particular kind: people who seek communion wi
 
 ## See Also
 
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—the kingdom whose hersvaldar make the journey
-- [[affiliation-asguardian|Asguardian Pantheon]]—the gods whose rites the priestesses keep
-- [[lore-nrdhmhstry|Histories and Legends of Nordheim]]—the mothers under the stones
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+: the kingdom whose hersvaldar make the journey
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the gods whose rites the priestesses keep
+
+[[lore-nrdhmhstry|Histories and Legends of Nordheim]]
+: the mothers under the stones

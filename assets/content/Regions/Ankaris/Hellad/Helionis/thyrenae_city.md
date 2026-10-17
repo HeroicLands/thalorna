@@ -30,8 +30,17 @@ Thirenae's relationship with the Arcane Order is the most complicated in [[place
 
 ## See Also
 
-- [[affiliation-thyrenae|Thirenae]]—the city-state and its council
-- [[place-helionis|Helionis]]—the region and its city-states
-- [[affiliation-panepistmm|Epistémion]]—founded here
-- [[lore-panepistfnd|The Epistémion Founded]]—its founding
-- [[affiliation-ordoarcanis|Thordimalon]]—the order that grew out of it
+[[affiliation-thyrenae|Thirenae]]
+: the city-state and its council
+
+[[place-helionis|Helionis]]
+: the region and its city-states
+
+[[affiliation-panepistmm|Epistémion]]
+: founded here
+
+[[lore-panepistfnd|The Epistémion Founded]]
+: its founding
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: the order that grew out of it

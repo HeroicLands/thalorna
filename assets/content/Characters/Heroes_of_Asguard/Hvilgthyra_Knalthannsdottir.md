@@ -401,8 +401,11 @@ Hvilgthira is a formidable warrior whose runic shield provides both physical and
 
 ## Plot Hooks
 
-1. **The Warlock's Return**—Strange signs suggest that Svulthorv's banishment may not have been permanent. Villagers near the site of his defeat report hearing whispers in the dark and seeing shadows that move against the wind. Hvilgthira needs allies to investigate before the warlock can rebuild his power.
+The Warlock's Return
+: Strange signs suggest that Svulthorv's banishment may not have been permanent. Villagers near the site of his defeat report hearing whispers in the dark and seeing shadows that move against the wind. Hvilgthira needs allies to investigate before the warlock can rebuild his power.
 
-2. **The Shield's Secret**—The runes on Hvilgthira's shield have begun to glow with an unfamiliar light, and new symbols are appearing that she cannot read. An ancient text suggests the shield may be one of several artifacts that, when united, could open a gate to Odvar's hall.
+The Shield's Secret
+: The runes on Hvilgthira's shield have begun to glow with an unfamiliar light, and new symbols are appearing that she cannot read. An ancient text suggests the shield may be one of several artifacts that, when united, could open a gate to Odvar's hall.
 
-3. **Blood Feud**—Hersvald Gnurthmil has kidnapped a young girl who showed talent for the runes, intending to "correct" her. Hvilgthira must rescue the girl while navigating the political complications of defying a powerful hersvald.
+Blood Feud
+: Hersvald Gnurthmil has kidnapped a young girl who showed talent for the runes, intending to "correct" her. Hvilgthira must rescue the girl while navigating the political complications of defying a powerful hersvald.

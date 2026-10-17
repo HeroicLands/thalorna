@@ -371,10 +371,17 @@ Ekpelu is small and open, spoken across the forest by peoples with four differen
 
 ### Phonotactic Patterns
 
-- **Consonant Clusters:** A nasal and a stop open many words (_mb_, _nd_, _ng_); otherwise no more than two consonants meet
-- **Syllable Structure:** Open, a consonant and a vowel
-- **Final Consonants:** Only _n_
-- **Word Length:** Two or three syllables
+Consonant Clusters
+: A nasal and a stop open many words (_mb_, _nd_, _ng_); otherwise no more than two consonants meet
+
+Syllable Structure
+: Open, a consonant and a vowel
+
+Final Consonants
+: Only _n_
+
+Word Length
+: Two or three syllables
 
 ### Tone
 

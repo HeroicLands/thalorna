@@ -18,5 +18,8 @@ The consortium's agents want more than a share of the trade. They want timber ha
 
 ## See Also
 
-- [[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]]—the consortium whose agents work from the islet
-- [[being-krldmylvtrdmr|Kralmil Vetrdómr]]—a woodcutter who refuses them
+[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]]
+: the consortium whose agents work from the islet
+
+[[being-krldmylvtrdmr|Kralmil Vetrdómr]]
+: a woodcutter who refuses them

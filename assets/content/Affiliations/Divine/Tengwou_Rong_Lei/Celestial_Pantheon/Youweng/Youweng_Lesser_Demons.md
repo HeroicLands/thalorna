@@ -137,11 +137,20 @@ Lesser demons can be exorcized through properly performed celestial rituals that
 
 ### See Also
 
-- [[affiliation-youweng|Youwéng]]—The Demon Realm where the lesser demons dwell
-- [[affiliation-henzhuo|Hénzhuo]], [[affiliation-watsai|Watsai]], [[affiliation-zhaosou|Zhaosou]], [[affiliation-nuoho|Nuoho]], [[affiliation-douyo|Douyo]]—The five Demon Lords who command lesser demon populations
-- [[affiliation-yozhuo|Yozhuo]]—The Custodian of Lost Seals, a unique intermediate power
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The Celestial Bureaucracy whose failures spawned the lesser demons
-- [[affiliation-nuotsourui|Nuotsou Rui]]—The mortal cult that traffics with lesser demons
+[[affiliation-youweng|Youwéng]]
+: The Demon Realm where the lesser demons dwell
+
+[[affiliation-henzhuo|Hénzhuo]], [[affiliation-watsai|Watsai]], [[affiliation-zhaosou|Zhaosou]], [[affiliation-nuoho|Nuoho]], [[affiliation-douyo|Douyo]]
+: The five Demon Lords who command lesser demon populations
+
+[[affiliation-yozhuo|Yozhuo]]
+: The Custodian of Lost Seals, a unique intermediate power
+
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: The Celestial Bureaucracy whose failures spawned the lesser demons
+
+[[affiliation-nuotsourui|Nuotsou Rui]]
+: The mortal cult that traffics with lesser demons
 
 ## Outside the Ladder
 

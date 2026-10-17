@@ -73,10 +73,17 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-- **Type:** Subversive magical sect
-- **Region:** [[affiliation-tantsouempr|Empire of Tantsou]]
-- **Composition:** Rogue [[lore-wanduo|Wánduo]] sorcerers and their collaborators
-- **Tantsou:** _Ha Zhao_—literally "Shadow Sect"; collectively sometimes called _Hatsou_ ("shadow folk")
+Type
+: Subversive magical sect
+
+Region
+: [[affiliation-tantsouempr|Empire of Tantsou]]
+
+Composition
+: Rogue [[lore-wanduo|Wánduo]] sorcerers and their collaborators
+
+Tantsou
+: _Ha Zhao_—literally "Shadow Sect"; collectively sometimes called _Hatsou_ ("shadow folk")
 
 ## Overview
 
@@ -124,9 +131,14 @@ The Sect does not believe its goal is achievable within a human lifetime. It bel
 
 ## Relationship with Other Tantsou Subversives
 
-- **[[affiliation-haluozhao|Ha Luo Zhao]] (The Black Lotus Society)**—Professional cooperation on narrow matters, mutual wariness on principle. The Sect has no interest in the Lotus's commercial ambitions and views the Lotus's willingness to profit from the classification system as morally compromised. The Lotus regards the Sect as dangerously ideological, useful for specific magical services, and liable to bring down trouble that affects everyone. Both organizations exchange information selectively and do not interfere with each other's core operations.
-- **[[affiliation-nuotsourui|Nuotsou Rui]] (The Cult of the Forsaken)**—The Sect regards the Nihilist cult with distaste. The cult's goal of destroying the social order for its own sake is antithetical to the Sect's vision of building a new order, and the cult's alliance with the Black Lotus brings a kind of indiscriminate chaos that the Sect considers counterproductive. Relations are cold.
-- **Merchant Uprising**—Limited mutual support. The Sect recognizes that a reformed political order is more likely to permit eventual magical liberation than the current rigid system, and so it provides discreet magical services to Shuonong organizers on favorable terms. The Uprising, in turn, treats the Sect with the respect due to dangerous and valuable allies.
+[[affiliation-haluozhao|Ha Luo Zhao]] (The Black Lotus Society)
+: Professional cooperation on narrow matters, mutual wariness on principle. The Sect has no interest in the Lotus's commercial ambitions and views the Lotus's willingness to profit from the classification system as morally compromised. The Lotus regards the Sect as dangerously ideological, useful for specific magical services, and liable to bring down trouble that affects everyone. Both organizations exchange information selectively and do not interfere with each other's core operations.
+
+[[affiliation-nuotsourui|Nuotsou Rui]] (The Cult of the Forsaken)
+: The Sect regards the Nihilist cult with distaste. The cult's goal of destroying the social order for its own sake is antithetical to the Sect's vision of building a new order, and the cult's alliance with the Black Lotus brings a kind of indiscriminate chaos that the Sect considers counterproductive. Relations are cold.
+
+Merchant Uprising
+: Limited mutual support. The Sect recognizes that a reformed political order is more likely to permit eventual magical liberation than the current rigid system, and so it provides discreet magical services to Shuonong organizers on favorable terms. The Uprising, in turn, treats the Sect with the respect due to dangerous and valuable allies.
 
 ## Organization and Security
 
@@ -136,8 +148,17 @@ Every new member is subjected to an extended evaluation process—years, typical
 
 ## See Also
 
-- [[lore-wanduo|Wánduo]]—The chattel sorcerer caste from which the Sect's members are drawn
-- [[affiliation-ordoarcanis|Thordimalon]]—The external partner, rival, and perpetual potential blackmailer
-- [[affiliation-haluozhao|Ha Luo Zhao]]—The parallel but ideologically different criminal organization
-- [[lore-castelaws|Caste Laws]]—The legal framework the Sect works to subvert
-- [[affiliation-tantsouempr|Empire of Tantsou]]—The empire whose classification system the Sect ultimately seeks to overthrow
+[[lore-wanduo|Wánduo]]
+: The chattel sorcerer caste from which the Sect's members are drawn
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: The external partner, rival, and perpetual potential blackmailer
+
+[[affiliation-haluozhao|Ha Luo Zhao]]
+: The parallel but ideologically different criminal organization
+
+[[lore-castelaws|Caste Laws]]
+: The legal framework the Sect works to subvert
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: The empire whose classification system the Sect ultimately seeks to overthrow

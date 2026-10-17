@@ -43,8 +43,17 @@ The exiled **House of Ashkarad** lives on this arrangement. Its head, Samim, gre
 
 ## See Also
 
-- [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the Confederation whose House of Ashkarad sits in exile
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—the people who hold the city
-- [[place-swoasisbelt|Tellumel]]—the belt the city stands in
-- [[place-oasishirvn|Oasis of Shirvan]] and [[place-zargandur|Zargandur]]—the nearest cities along the belt
-- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the faith of the central plaza
+[[affiliation-khzrncnfdrtn|Tellumi Confederation]]
+: the Confederation whose House of Ashkarad sits in exile
+
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: the people who hold the city
+
+[[place-swoasisbelt|Tellumel]]
+: the belt the city stands in
+
+[[place-oasishirvn|Oasis of Shirvan]] and [[place-zargandur|Zargandur]]
+: the nearest cities along the belt
+
+[[affiliation-ashanpnthn|Ashaian Pantheon]]
+: the faith of the central plaza

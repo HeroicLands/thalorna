@@ -24,6 +24,11 @@ The city's people can be seen in its trades. [[being-arklrdsklmkns|Arkalordas Ka
 
 ## See Also
 
-- [[place-vylariargn|Vylaria Region]]—the region the city lies in
-- [[affiliation-danvar|Danvar]]—the moneylenders, with one of their largest chapterhouses here
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the imperial overview
+[[place-vylariargn|Vylaria Region]]
+: the region the city lies in
+
+[[affiliation-danvar|Danvar]]
+: the moneylenders, with one of their largest chapterhouses here
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the imperial overview

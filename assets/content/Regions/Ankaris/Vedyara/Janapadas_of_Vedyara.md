@@ -131,8 +131,11 @@ The janapadas hold the overwhelming mass of Vedyara's people: on the order of **
 
 ## Famous Figures
 
-- **Mahaprasoda of the Sarveda**: Sabhapavi of the Melra and senior priest of Sangema, about seventy. He presided over the most recent Mahva-Melra four years ago and is reckoned the most respected priestly authority in inland Vedyara. The next Melra is his last as convening priest, and the succession is already under negotiation.
-- **The Council of Three**: the informal consultation of the senior priests of the three largest pilgrim-temples of central Vedyara, which are Sangema, the [[place-suryatempl|Surva temple]] at the source of the Chandramahi, and the [[place-bhrnytemple|great Mahajaya temple]] at [[place-bharanya|Bharanya]]. A joint pronouncement of the three on a matter before the Mahva-Sangra carries near-universal weight. It works as an executive committee, and the priests deny that it is one.
+Mahaprasoda of the Sarveda
+: Sabhapavi of the Melra and senior priest of Sangema, about seventy. He presided over the most recent Mahva-Melra four years ago and is reckoned the most respected priestly authority in inland Vedyara. The next Melra is his last as convening priest, and the succession is already under negotiation.
+
+The Council of Three
+: the informal consultation of the senior priests of the three largest pilgrim-temples of central Vedyara, which are Sangema, the [[place-suryatempl|Surva temple]] at the source of the Chandramahi, and the [[place-bhrnytemple|great Mahajaya temple]] at [[place-bharanya|Bharanya]]. A joint pronouncement of the three on a matter before the Mahva-Sangra carries near-universal weight. It works as an executive committee, and the priests deny that it is one.
 
 ## Commerce and Currency
 
@@ -144,13 +147,32 @@ A person placed outside the tarona, by transgression or by birth, is excluded fr
 
 ## See Also
 
-- [[place-vedyarargn|Vedyara Region]]—parent region
-- [[place-melaground|The Melra Ground]] and [[place-sangama|Sangema]]—where the confederation meets, and the temple that convenes it
-- [[place-sanghafort|The Sangra-fort]]—the confederation's one garrison
-- [[lore-janpdform|The Janapoda Form]] · [[lore-conchdoor|The Conch-Door Incursion]] · [[lore-thirdcmpct|The Third Compact]]—the confederation's history
-- [[affiliation-varakpnthn|Varnuka Pantheon]]—the religious tradition that holds the janapadas together
-- [[affiliation-chandrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra]], [[affiliation-vindhyalay|Shikharalaya]]—the great city-states and the pass-kingdom
-- [[affiliation-dhnrktjnpd|Danurkota Janapoda]], [[affiliation-rajaprjnpd|Rajepur Janapoda]], [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—three particular janapadas
-- [[lore-vedyariclt|Vedyari]]—the culture and its stations
-- [[skill-vedyarlng|Vedyari]]—the shared language
-- [[place-ankrscntnnt|Ankaris Continent]]—parent continent
+[[place-vedyarargn|Vedyara Region]]
+: parent region
+
+[[place-melaground|The Melra Ground]] and [[place-sangama|Sangema]]
+: where the confederation meets, and the temple that convenes it
+
+[[place-sanghafort|The Sangra-fort]]
+: the confederation's one garrison
+
+[[lore-janpdform|The Janapoda Form]] · [[lore-conchdoor|The Conch-Door Incursion]] · [[lore-thirdcmpct|The Third Compact]]
+: the confederation's history
+
+[[affiliation-varakpnthn|Varnuka Pantheon]]
+: the religious tradition that holds the janapadas together
+
+[[affiliation-chandrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra]], [[affiliation-vindhyalay|Shikharalaya]]
+: the great city-states and the pass-kingdom
+
+[[affiliation-dhnrktjnpd|Danurkota Janapoda]], [[affiliation-rajaprjnpd|Rajepur Janapoda]], [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+: three particular janapadas
+
+[[lore-vedyariclt|Vedyari]]
+: the culture and its stations
+
+[[skill-vedyarlng|Vedyari]]
+: the shared language
+
+[[place-ankrscntnnt|Ankaris Continent]]
+: parent continent

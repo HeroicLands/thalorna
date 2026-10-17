@@ -432,8 +432,11 @@ The Vylarian garrison he deserted from may still have his name on a list somewhe
 
 ## Plot Hooks
 
-1. **The Slow Defection**—Thrawald is growing tired of Dagbán's increasingly erratic leadership. If approached carefully—perhaps with the promise of a warm bed and steady work—he might be persuaded to betray the gang's camp location. But his loyalty, such as it is, comes cheap, and whoever buys it should not expect it to last.
+The Slow Defection
+: Thrawald is growing tired of Dagbán's increasingly erratic leadership. If approached carefully—perhaps with the promise of a warm bed and steady work—he might be persuaded to betray the gang's camp location. But his loyalty, such as it is, comes cheap, and whoever buys it should not expect it to last.
 
-2. **The Deserter's Reckoning**—A retired Vylarian officer, now a local magistrate, recognizes Thrawald in a border tavern and sends word to the garrison. The party is hired to bring the deserter in alive for trial. Thrawald will not go willingly, and cornering him means cornering the entire gang.
+The Deserter's Reckoning
+: A retired Vylarian officer, now a local magistrate, recognizes Thrawald in a border tavern and sends word to the garrison. The party is hired to bring the deserter in alive for trial. Thrawald will not go willingly, and cornering him means cornering the entire gang.
 
-3. **The Horse Thief**—Thrawald has stolen a horse from a traveling merchant—not to sell, but because the animal was being mistreated and something in him snapped. Dagbán is furious because the theft draws attention to their territory. The party encounters Thrawald alone in the forest with the stolen horse, and must decide what to do with a bandit who committed a crime for something resembling a decent reason.
+The Horse Thief
+: Thrawald has stolen a horse from a traveling merchant—not to sell, but because the animal was being mistreated and something in him snapped. Dagbán is furious because the theft draws attention to their territory. The party encounters Thrawald alone in the forest with the stolen horse, and must decide what to do with a bandit who committed a crime for something resembling a decent reason.

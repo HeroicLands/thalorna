@@ -25,6 +25,11 @@ It is the busiest and most worldly place in an otherwise inward-looking selat. T
 
 ## See Also
 
-- [[affiliation-selatnlghztn|The Selat of Anlagh-Zetun]]—parent selat
-- [[place-anlaghzetun|Anlagh-Zetun]]—selat capital
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—imperial overview
+[[affiliation-selatnlghztn|The Selat of Anlagh-Zetun]]
+: parent selat
+
+[[place-anlaghzetun|Anlagh-Zetun]]
+: selat capital
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: imperial overview

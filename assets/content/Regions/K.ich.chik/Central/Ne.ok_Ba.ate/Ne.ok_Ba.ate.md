@@ -99,8 +99,17 @@ Yet Ne'ok Ba'ate's merchants remain acutely aware of their vulnerability. The gr
 
 ## See Also
 
-- [[affiliation-ixilankul|Ish'ilankul]]—The paramount northern realm, toward which Ne'ok Ba'ate maintains ambivalent tributary relations
-- [[affiliation-kankul|K'ankul]]—The eastern lowlands connected to Ne'ok Ba'ate via both land and maritime routes
-- [[affiliation-xelem|Shelem]]—The eastern frontier accessed through Ne'ok Ba'ate's southern routes
-- [[affiliation-itzanpnthn|Itsani Pantheon]]—The religious framework that shapes Ne'ok Ba'ate's identity while remaining a point of local variation
-- [[place-neokbaatergn|Ne'ok Ba'ate Region]]—The land Ne'ok Ba'ate holds
+[[affiliation-ixilankul|Ish'ilankul]]
+: The paramount northern realm, toward which Ne'ok Ba'ate maintains ambivalent tributary relations
+
+[[affiliation-kankul|K'ankul]]
+: The eastern lowlands connected to Ne'ok Ba'ate via both land and maritime routes
+
+[[affiliation-xelem|Shelem]]
+: The eastern frontier accessed through Ne'ok Ba'ate's southern routes
+
+[[affiliation-itzanpnthn|Itsani Pantheon]]
+: The religious framework that shapes Ne'ok Ba'ate's identity while remaining a point of local variation
+
+[[place-neokbaatergn|Ne'ok Ba'ate Region]]
+: The land Ne'ok Ba'ate holds

@@ -26,6 +26,11 @@ Ts’alam Ne’ is the most cosmopolitan city in the south, with merchant famili
 
 ## See Also
 
-- [[affiliation-ixbaltzaku|Ish’bal Tsa’ku]]—The highland region
-- [[place-nepaxel|Ne’ P’ashel]]—The upriver trade hub
-- [[place-tzalamtzltl|Ts’alam Ts'ultel]]—The mountain fortress inland
+[[affiliation-ixbaltzaku|Ish’bal Tsa’ku]]
+: The highland region
+
+[[place-nepaxel|Ne’ P’ashel]]
+: The upriver trade hub
+
+[[place-tzalamtzltl|Ts’alam Ts'ultel]]
+: The mountain fortress inland

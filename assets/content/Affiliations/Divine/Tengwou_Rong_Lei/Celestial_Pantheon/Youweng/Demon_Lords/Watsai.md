@@ -70,9 +70,14 @@ Watsai is the celestial patron of the [[affiliation-nuotsourui|Nuotsou Rui]]'s m
 
 ### See Also
 
-- [[affiliation-nuotsourui|Nuotsou Rui]]—The cult whose bureaucratic sabotage is dedicated to Watsai
-- [[affiliation-youweng|Youwéng]]—The Demon Realm
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The Celestial Bureaucracy whose archives Watsai forges
+[[affiliation-nuotsourui|Nuotsou Rui]]
+: The cult whose bureaucratic sabotage is dedicated to Watsai
+
+[[affiliation-youweng|Youwéng]]
+: The Demon Realm
+
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: The Celestial Bureaucracy whose archives Watsai forges
 
 ## Outside the Ladder
 

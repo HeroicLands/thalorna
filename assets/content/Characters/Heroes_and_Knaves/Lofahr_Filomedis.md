@@ -446,19 +446,37 @@ Lofáhr no longer fights merely for gold, though he insists this to himself and 
 
 ### Strengths
 
-- **Master of Blades and Strategy**: Lofáhr's combat skills are famous throughout the League. His understanding of battlefield tactics, feint and counter, formation and breakpoint, gives him advantages independent of physical strength.
-- **Physical Prowess**: Strength, endurance, and agility combine with the tactical discipline to make him nearly unstoppable in direct confrontation. Few living swordsmen could match him.
-- **Unflappable Command Presence**: Soldiers fight harder and with greater courage under Lofáhr's command. His reputation for never losing a contract creates confidence that borders on the supernatural.
-- **Knowledge of Warfare**: His deep expertise in military strategy, fortification assessment, and tactical deception makes him useful in siege situations and complex military engagements.
-- **Network of Mercenary Contacts**: Decades in the profession have given him connections throughout the League and beyond—intelligence sources, safe houses, and allies in unexpected places.
+Master of Blades and Strategy
+: Lofáhr's combat skills are famous throughout the League. His understanding of battlefield tactics, feint and counter, formation and breakpoint, gives him advantages independent of physical strength.
+
+Physical Prowess
+: Strength, endurance, and agility combine with the tactical discipline to make him nearly unstoppable in direct confrontation. Few living swordsmen could match him.
+
+Unflappable Command Presence
+: Soldiers fight harder and with greater courage under Lofáhr's command. His reputation for never losing a contract creates confidence that borders on the supernatural.
+
+Knowledge of Warfare
+: His deep expertise in military strategy, fortification assessment, and tactical deception makes him useful in siege situations and complex military engagements.
+
+Network of Mercenary Contacts
+: Decades in the profession have given him connections throughout the League and beyond—intelligence sources, safe houses, and allies in unexpected places.
 
 ### Weaknesses
 
-- **Moral Burden**: The accumulating weight of questionable decisions haunts him. He second-guesses choices, hesitates at crucial moments, and suffers from terrible nightmares.
-- **Limited Diplomatic Skills**: His tendency toward bluntness and his difficulty with emotional intelligence make him a poor negotiator outside of strictly military matters. Business deals often require intermediaries.
-- **Growing Cynicism**: His increasing doubt about the nature of his work sometimes manifests as paralysis. He becomes unable to commit to new contracts, wondering if he is simply becoming a tool of others' ambitions.
-- **Physical Decline**: At forty-five, Lofáhr's reflexes, though still excellent, no longer possess the superhuman quickness of his youth. Younger fighters are beginning to match him.
-- **Isolation**: His profession and temperament have left him without close relationships. This loneliness, in moments of weakness, nearly overwhelms him.
+Moral Burden
+: The accumulating weight of questionable decisions haunts him. He second-guesses choices, hesitates at crucial moments, and suffers from terrible nightmares.
+
+Limited Diplomatic Skills
+: His tendency toward bluntness and his difficulty with emotional intelligence make him a poor negotiator outside of strictly military matters. Business deals often require intermediaries.
+
+Growing Cynicism
+: His increasing doubt about the nature of his work sometimes manifests as paralysis. He becomes unable to commit to new contracts, wondering if he is simply becoming a tool of others' ambitions.
+
+Physical Decline
+: At forty-five, Lofáhr's reflexes, though still excellent, no longer possess the superhuman quickness of his youth. Younger fighters are beginning to match him.
+
+Isolation
+: His profession and temperament have left him without close relationships. This loneliness, in moments of weakness, nearly overwhelms him.
 
 ## Social
 
@@ -494,12 +512,17 @@ The Order of Árdavon (Order Aspect)
 
 ## Plot Hooks
 
-1. **The Contract Nobody Should Take**: A mysterious client offers Lofáhr an astronomical sum—enough to retire in absolute luxury—for a contract so vague and suspicious that every instinct screams danger. The target's identity remains deliberately obscured. As Lofáhr investigates, he discovers the true nature of the contract: assassination of a political figure that would trigger a regional war. He must decide whether to accept and execute the contract that would finally provide financial security, or reject it and maintain the moral line he has desperately tried to hold.
+The Contract Nobody Should Take
+: A mysterious client offers Lofáhr an astronomical sum—enough to retire in absolute luxury—for a contract so vague and suspicious that every instinct screams danger. The target's identity remains deliberately obscured. As Lofáhr investigates, he discovers the true nature of the contract: assassination of a political figure that would trigger a regional war. He must decide whether to accept and execute the contract that would finally provide financial security, or reject it and maintain the moral line he has desperately tried to hold.
 
-2. **The Deserter's Daughter**: A young woman approaches Lofáhr claiming to be the daughter of **Langárion Votash**, a soldier he fought alongside in the Silver Vipers who deserted the company under mysterious circumstances decades ago. She carries a letter purportedly from her father, begging Lofáhr to investigate something hidden in the Vipers' old fortress. Investigation leads to the discovery of a conspiracy that goes to the highest levels of the League—one that both he and Vex were manipulated into participating.
+The Deserter's Daughter
+: A young woman approaches Lofáhr claiming to be the daughter of **Langárion Votash**, a soldier he fought alongside in the Silver Vipers who deserted the company under mysterious circumstances decades ago. She carries a letter purportedly from her father, begging Lofáhr to investigate something hidden in the Vipers' old fortress. Investigation leads to the discovery of a conspiracy that goes to the highest levels of the League—one that both he and Vex were manipulated into participating.
 
-3. **The Redemption Contract**: A noble priest of Árdavon approaches Lofáhr with a contract: protect a refugee camp of displaced civilians from raiders and warlords—with no payment, only spiritual counsel about the possibility of redemption. The contract becomes personal when Lofáhr discovers that the camp shelters women and children from a faction he himself once fought for, and his presence there creates dangerous division among the refugees who fear him.
+The Redemption Contract
+: A noble priest of Árdavon approaches Lofáhr with a contract: protect a refugee camp of displaced civilians from raiders and warlords—with no payment, only spiritual counsel about the possibility of redemption. The contract becomes personal when Lofáhr discovers that the camp shelters women and children from a faction he himself once fought for, and his presence there creates dangerous division among the refugees who fear him.
 
-4. **The Immortal Warrior**: During a contract in a remote region, Lofáhr encounters a warrior of impossible age—a man who claims to have fought for over two centuries and to recognize Lofáhr as his reincarnated rival. The mysterious fighter challenges Lofáhr to a series of tests, hinting that survival requires understanding a truth about himself and his past that has been deliberately hidden. The physical and psychological tests force Lofáhr to confront the possibility that his memories may be false.
+The Immortal Warrior
+: During a contract in a remote region, Lofáhr encounters a warrior of impossible age—a man who claims to have fought for over two centuries and to recognize Lofáhr as his reincarnated rival. The mysterious fighter challenges Lofáhr to a series of tests, hinting that survival requires understanding a truth about himself and his past that has been deliberately hidden. The physical and psychological tests force Lofáhr to confront the possibility that his memories may be false.
 
-5. **The Final Battle of the Silver Vipers**: Evidence surfaces suggesting that the Silver Vipers were destroyed not from internal schism as believed, but through deliberate sabotage by someone within the organization. Lofáhr, driven by loyalty to his former brothers, begins investigating the truth. This quest draws him into conflict with powerful entities who benefit from the Vipers' destruction and who will do anything to keep the truth buried—including hiring rivals to eliminate him.
+The Final Battle of the Silver Vipers
+: Evidence surfaces suggesting that the Silver Vipers were destroyed not from internal schism as believed, but through deliberate sabotage by someone within the organization. Lofáhr, driven by loyalty to his former brothers, begins investigating the truth. This quest draws him into conflict with powerful entities who benefit from the Vipers' destruction and who will do anything to keep the truth buried—including hiring rivals to eliminate him.

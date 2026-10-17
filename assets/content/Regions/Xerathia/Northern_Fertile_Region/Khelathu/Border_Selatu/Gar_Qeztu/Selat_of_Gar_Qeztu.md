@@ -69,9 +69,20 @@ Gar-Qeztu uses the [[lore-aukhlthcrncy|Au'Khelathu currency]], and the drill-gro
 
 ## See Also
 
-- [[affiliation-borderselatu|The Border Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-garqeztu|Gar-Qeztu]]—Selat capital
-- [[affiliation-qeztu|Faith of Qeztu]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-garqeztuselt|Gar-Qeztu Selat]]—The land the selat holds
+[[affiliation-borderselatu|The Border Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-garqeztu|Gar-Qeztu]]
+: Selat capital
+
+[[affiliation-qeztu|Faith of Qeztu]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-garqeztuselt|Gar-Qeztu Selat]]
+: The land the selat holds

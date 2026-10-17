@@ -20,5 +20,8 @@ The first is [[being-sthrnkhlthn|Sotharion Khalithon]], a lord of Helionite fami
 
 ## See Also
 
-- [[place-kostarosdst|Kostaros District]]—the district around the town
-- [[affiliation-kostaros2|Kostaros]]—the city-state that governs it
+[[place-kostarosdst|Kostaros District]]
+: the district around the town
+
+[[affiliation-kostaros2|Kostaros]]
+: the city-state that governs it

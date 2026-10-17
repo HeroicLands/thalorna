@@ -87,9 +87,14 @@ The three great temple-cities—**Zarhanis**, **Kaljekor**, and **Vuthraka**—a
 
 The people of Okharis worship [[affiliation-nkaruthar|Nkaru'thar]] as the eternal flame of creation, destruction, and renewal, with its power manifesting in three aspects, symbolized by the three city-states:
 
-- **Zarhanis (Spirit)**: The flame of faith and wisdom.
-- **Kaljekor (Wealth)**: The flame of abundance and prosperity.
-- **Vuthraka (Strength)**: The flame of war and protection.
+Zarhanis (Spirit)
+: The flame of faith and wisdom.
+
+Kaljekor (Wealth)
+: The flame of abundance and prosperity.
+
+Vuthraka (Strength)
+: The flame of war and protection.
 
 Demi-gods, tied to specific aspects of life (e.g., fertility, storms, or death), act as intermediaries between mortals and Nkaru'thar, their shrines scattered across the kingdom.
 

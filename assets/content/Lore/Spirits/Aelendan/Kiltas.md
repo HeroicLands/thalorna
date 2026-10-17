@@ -8,11 +8,20 @@ tags: [draft, first-gods]
 data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
-- **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]
-- **Seat:** [[place-silvrfrsts|the Silver Forests]]
-- **Territory:** the lower wood, the field-edges and the middens
-- **Posture:** Appeased
-- **Met through:** [[skill-kiltassprt|Kiltas Spirit Power]]
+Kind
+: Animal-kin, of [[lore-thekindred|the Kindred]]
+
+Seat
+: [[place-silvrfrsts|the Silver Forests]]
+
+Territory
+: the lower wood, the field-edges and the middens
+
+Posture
+: Appeased
+
+Met through
+: [[skill-kiltassprt|Kiltas Spirit Power]]
 
 Kiltas holds the lower wood where the forest thins into field-edge and midden, which is to say
 the ground where the Áelendan and the wild are most mixed up with one another. He is

@@ -293,20 +293,29 @@ A wasp with height and room comes down on a man at a speed he cannot sidestep, a
 
 ## Attributes
 
-- **Strength:** 10-15 (1d6+9)
+Strength
+: 10-15 (1d6+9)
 
-- **Endurance:** 9-14 (1d6+8)
+Endurance
+: 9-14 (1d6+8)
 
-- **Dexterity:** 13-18 (1d6+12)
+Dexterity
+: 13-18 (1d6+12)
 
-- **Agility:** 14-19 (1d6+13)
+Agility
+: 14-19 (1d6+13)
 
-- **Perception:** 11-16 (1d6+10)
+Perception
+: 11-16 (1d6+10)
 
-- **Aura:** 8-11 (1d4+7)
+Aura
+: 8-11 (1d4+7)
 
-- **Will:** 10-15 (1d6+9)
+Will
+: 10-15 (1d6+9)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

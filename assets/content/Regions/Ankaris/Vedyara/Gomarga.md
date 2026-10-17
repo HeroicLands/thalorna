@@ -122,8 +122,17 @@ A person placed outside the tarona, by transgression or by birth, is, on the pla
 
 ## See Also
 
-- [[place-vandhyabhumi|Vandyabhumi]]—the plateau the kingdom holds
-- [[place-vedyarargn|Vedyara Region]]—parent region
-- [[lore-mdhvndrcnt|The Madustana Count]]—the year-count dated from the ruined capital on the plateau
-- [[affiliation-varakpnthn|Varnuka Pantheon]]—religious tradition
-- [[skill-vedyarlng|Vedyari]]—language and naming conventions
+[[place-vandhyabhumi|Vandyabhumi]]
+: the plateau the kingdom holds
+
+[[place-vedyarargn|Vedyara Region]]
+: parent region
+
+[[lore-mdhvndrcnt|The Madustana Count]]
+: the year-count dated from the ruined capital on the plateau
+
+[[affiliation-varakpnthn|Varnuka Pantheon]]
+: religious tradition
+
+[[skill-vedyarlng|Vedyari]]
+: language and naming conventions

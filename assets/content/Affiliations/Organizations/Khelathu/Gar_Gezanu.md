@@ -58,6 +58,11 @@ The business of the service is weighing and taxing goods at the point of sale or
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—The empire it collects for
-- [[lore-garauu|Gar-Auu]]—The sovereigns whose dues it collects
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The region it belongs to
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: The empire it collects for
+
+[[lore-garauu|Gar-Auu]]
+: The sovereigns whose dues it collects

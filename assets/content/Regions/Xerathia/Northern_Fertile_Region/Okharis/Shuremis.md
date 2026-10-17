@@ -41,8 +41,17 @@ The herders' track from Zarhanis crosses open grazing for two days on horse. The
 
 ## See Also
 
-- [[place-okharisrgn|Okharis Region]]—the country it lies in
-- [[lore-okharinclt|Okharin]]—the Flame, the shurem and the grazing
-- [[affiliation-nkaruthar|Nkaru'thar]]—the Flame and its ladder
-- [[lore-theshadow|The Shadow]]—what a fire that does not renew serves
-- [[scenario-shuremisadv|The Hearth Without Light]]—the adventure set here
+[[place-okharisrgn|Okharis Region]]
+: the country it lies in
+
+[[lore-okharinclt|Okharin]]
+: the Flame, the shurem and the grazing
+
+[[affiliation-nkaruthar|Nkaru'thar]]
+: the Flame and its ladder
+
+[[lore-theshadow|The Shadow]]
+: what a fire that does not renew serves
+
+[[scenario-shuremisadv|The Hearth Without Light]]
+: the adventure set here

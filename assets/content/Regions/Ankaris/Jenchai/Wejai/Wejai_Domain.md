@@ -86,7 +86,14 @@ A typhoon drove a foreign hull onto the reefs of Wewo. By wreck-right the cargo 
 
 ## See Also
 
-- [[affiliation-jenchaiempr|Jenchai Empire]]—the realm, the court and the eight houses
-- [[place-wejai|Wejai]]—the mountain of the domain
-- [[place-zuwu|Zuwu]]—the castle town and seat
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[affiliation-jenchaiempr|Jenchai Empire]]
+: the realm, the court and the eight houses
+
+[[place-wejai|Wejai]]
+: the mountain of the domain
+
+[[place-zuwu|Zuwu]]
+: the castle town and seat
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

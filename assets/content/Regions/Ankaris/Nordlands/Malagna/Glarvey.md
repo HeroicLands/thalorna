@@ -20,5 +20,8 @@ The island's name describes the water around it on a still day: _glarv-_, light 
 
 ## See Also
 
-- [[place-malagna|Malagna]]—the land the holding belongs to
-- [[place-hvalgvik|Hvalgvík]]—the thatcher's home port
+[[place-malagna|Malagna]]
+: the land the holding belongs to
+
+[[place-hvalgvik|Hvalgvík]]
+: the thatcher's home port

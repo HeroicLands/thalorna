@@ -173,13 +173,26 @@ The same habit runs through the frontier of the north. At Bataren, which faces t
 
 ## See Also
 
-- [[place-provenzrgn|Provenzia Region]]—the coast, the cities and the trade
-- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]—the crown, the Council of Peers and the Charter of Rights
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the gods, and the two this region prefers
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the inheritance the marble came from
-- [[lore-bloodfields|The Blood-fields of Provenzia]]—the torn ground and what is done about it
-- [[place-talothe|Talote]]—the mountain march against Tarvénia
-- [[skill-provnzlng|Provenzal]]—the tongue of the cities
+[[place-provenzrgn|Provenzia Region]]
+: the coast, the cities and the trade
+
+[[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+: the crown, the Council of Peers and the Charter of Rights
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the gods, and the two this region prefers
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the inheritance the marble came from
+
+[[lore-bloodfields|The Blood-fields of Provenzia]]
+: the torn ground and what is done about it
+
+[[place-talothe|Talote]]
+: the mountain march against Tarvénia
+
+[[skill-provnzlng|Provenzal]]
+: the tongue of the cities
 
 ## Glossary {#glossary}
 

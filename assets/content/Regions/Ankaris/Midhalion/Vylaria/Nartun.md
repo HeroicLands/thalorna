@@ -22,5 +22,8 @@ It is a sanctuary city where the sacred and the secular intertwine under priestl
 
 ## See Also
 
-- [[place-nartumkngdm|Nartun Kingdom]]—the land the city rules
-- [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]—the kingdom it is the seat of
+[[place-nartumkngdm|Nartun Kingdom]]
+: the land the city rules
+
+[[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]
+: the kingdom it is the seat of

@@ -78,7 +78,14 @@ An outsider sees a fishing village on a riverbank, a courteous welcome, three da
 
 ## See Also
 
-- [[lore-bikoclt|Biko]]—the forest peoples
-- [[place-cntrlrnfrsts|Central Rainforests]]—the forest
-- [[skill-ekpelulng|Ekpelu]]—the tongue
-- [[place-drwndzgrt|The Drowned Ziggurat]]—forbidden water
+[[lore-bikoclt|Biko]]
+: the forest peoples
+
+[[place-cntrlrnfrsts|Central Rainforests]]
+: the forest
+
+[[skill-ekpelulng|Ekpelu]]
+: the tongue
+
+[[place-drwndzgrt|The Drowned Ziggurat]]
+: forbidden water

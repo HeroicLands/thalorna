@@ -33,6 +33,11 @@ places and leaves their keeping to the people who have always kept them.
 
 ## See Also
 
-- [[lore-aelendnppl|Áelendan People]]—their tribal kin
-- [[place-elavendre|Élavendre]]—the kingdom
-- [[lore-aralwen|Aralwen]]—the thin places of its interior
+[[lore-aelendnppl|Áelendan People]]
+: their tribal kin
+
+[[place-elavendre|Élavendre]]
+: the kingdom
+
+[[lore-aralwen|Aralwen]]
+: the thin places of its interior

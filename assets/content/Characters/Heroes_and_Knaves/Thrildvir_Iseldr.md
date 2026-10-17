@@ -453,19 +453,37 @@ Thrildvir's deepest motivation is fundamentally about creating beauty and meanin
 
 ### Strengths
 
-- **Master Tailor**: Thrildvir's technical skill in cutting, fitting, and constructing garments has no equal. He can create garments that fit the human form with extraordinary precision and beauty.
-- **Textile Knowledge**: His understanding of fabrics—their properties, origins, and potential—is encyclopedic. He can identify the quality, origin, and age of cloth at a glance and knows which materials will work for which purposes.
-- **Design Innovation**: While rooted in classical principles, Thrildvir is capable of great creative leaps in design. He can visualize how a garment will look and function before he cuts a single thread.
-- **Dexterous Precision**: His fine dexterity and sure hands allow him to execute techniques of extraordinary delicacy and complexity.
-- **Artisanal Leadership**: He is an excellent teacher and mentor despite his perfectionism, capable of recognizing and nurturing talent in others.
+Master Tailor
+: Thrildvir's technical skill in cutting, fitting, and constructing garments has no equal. He can create garments that fit the human form with extraordinary precision and beauty.
+
+Textile Knowledge
+: His understanding of fabrics—their properties, origins, and potential—is encyclopedic. He can identify the quality, origin, and age of cloth at a glance and knows which materials will work for which purposes.
+
+Design Innovation
+: While rooted in classical principles, Thrildvir is capable of great creative leaps in design. He can visualize how a garment will look and function before he cuts a single thread.
+
+Dexterous Precision
+: His fine dexterity and sure hands allow him to execute techniques of extraordinary delicacy and complexity.
+
+Artisanal Leadership
+: He is an excellent teacher and mentor despite his perfectionism, capable of recognizing and nurturing talent in others.
 
 ### Weaknesses
 
-- **Physical Limitations**: Thrildvir possesses only moderate strength and stamina. Extended physical exertion leaves him exhausted, and he would be poorly suited to combat or labor of a strenuous nature.
-- **Obsessive Perfectionism**: His refusal to compromise or accept "good enough" often results in delays that damage his business and frustrate his clients. This perfectionism extends to his personal life, making it difficult for him to maintain relationships.
-- **Emotional Guardedness**: His reserve and tendency to withdraw into his work make it difficult for him to form deep personal connections. He finds real intimacy hard.
-- **Inflexibility**: Once committed to a design or approach, Thrildvir can be very stubborn about change, even when modification would serve the client better.
-- **Chronic Self-Doubt**: Despite his mastery, he perpetually questions whether his work is truly excellent enough, whether he is worthy of his reputation, whether each piece represents the best he could do.
+Physical Limitations
+: Thrildvir possesses only moderate strength and stamina. Extended physical exertion leaves him exhausted, and he would be poorly suited to combat or labor of a strenuous nature.
+
+Obsessive Perfectionism
+: His refusal to compromise or accept "good enough" often results in delays that damage his business and frustrate his clients. This perfectionism extends to his personal life, making it difficult for him to maintain relationships.
+
+Emotional Guardedness
+: His reserve and tendency to withdraw into his work make it difficult for him to form deep personal connections. He finds real intimacy hard.
+
+Inflexibility
+: Once committed to a design or approach, Thrildvir can be very stubborn about change, even when modification would serve the client better.
+
+Chronic Self-Doubt
+: Despite his mastery, he perpetually questions whether his work is truly excellent enough, whether he is worthy of his reputation, whether each piece represents the best he could do.
 
 ## Social
 
@@ -492,12 +510,17 @@ City Tailors' Guild
 
 ## Plot Hooks
 
-1. **The Fabled Loom**: Thrildvir becomes obsessed with locating a fabled loom said to have belonged to the fabled weaver **Isendra the Colorist**, a master craftsperson from before the Collapse whose work is described in near-mystical terms in ancient texts. He hires the party to search for evidence of its location, convinced that working at such a loom would allow him to create his masterwork—a garment that would be the summit of his artistic vision. The search takes them to hidden places where fragments of the old world remain preserved, but also reveals that others seek the loom for reasons less pure than artistic achievement.
+The Fabled Loom
+: Thrildvir becomes obsessed with locating a fabled loom said to have belonged to the fabled weaver **Isendra the Colorist**, a master craftsperson from before the Collapse whose work is described in near-mystical terms in ancient texts. He hires the party to search for evidence of its location, convinced that working at such a loom would allow him to create his masterwork—a garment that would be the summit of his artistic vision. The search takes them to hidden places where fragments of the old world remain preserved, but also reveals that others seek the loom for reasons less pure than artistic achievement.
 
-2. **The Garment of Legends**: A mysterious client commissions Thrildvir to create a specific garment based on a centuries-old description—a coat said to grant the wearer protection from harm and enhance their natural abilities. Thrildvir initially dismisses this as fantasy, but as he researches the commission, he discovers references to this garment across multiple historical sources and evidence suggesting it was real. Creating it requires materials that are nearly impossible to obtain and techniques he's never before attempted. The party must help him source materials and face dangers as his creation begins to show signs of real supernatural properties.
+The Garment of Legends
+: A mysterious client commissions Thrildvir to create a specific garment based on a centuries-old description—a coat said to grant the wearer protection from harm and enhance their natural abilities. Thrildvir initially dismisses this as fantasy, but as he researches the commission, he discovers references to this garment across multiple historical sources and evidence suggesting it was real. Creating it requires materials that are nearly impossible to obtain and techniques he's never before attempted. The party must help him source materials and face dangers as his creation begins to show signs of real supernatural properties.
 
-3. **The Apprentice's Fall**: One of Thrildvir's most talented apprentices disappears under mysterious circumstances, and evidence suggests she may have been involved in illicit activities—perhaps copying Thrildvir's designs for a rival, or perhaps being blackmailed or coerced. Thrildvir insists the party help him find her, and has to face what he will do if she betrayed him. The investigation reveals that the apprentice was being blackmailed by someone using her as an unwilling agent in an espionage scheme, and the party must help rescue her while dealing with the larger threat.
+The Apprentice's Fall
+: One of Thrildvir's most talented apprentices disappears under mysterious circumstances, and evidence suggests she may have been involved in illicit activities—perhaps copying Thrildvir's designs for a rival, or perhaps being blackmailed or coerced. Thrildvir insists the party help him find her, and has to face what he will do if she betrayed him. The investigation reveals that the apprentice was being blackmailed by someone using her as an unwilling agent in an espionage scheme, and the party must help rescue her while dealing with the larger threat.
 
-4. **The Royal Commission**: The King himself commissions Thrildvir to create an elaborate state garment for a diplomatic function of extreme importance. The commission is honorable but impossibly demanding—the garment must be finished in an impossibly short timeframe, incorporate elements that prove technically difficult, and satisfy the contradictory demands of multiple royal advisors with competing visions. The party must help Thrildvir manage this tangle of officials, source exotic materials on short notice, and handle court intrigue as various factions attempt to influence the design to their political advantage.
+The Royal Commission
+: The King himself commissions Thrildvir to create an elaborate state garment for a diplomatic function of extreme importance. The commission is honorable but impossibly demanding—the garment must be finished in an impossibly short timeframe, incorporate elements that prove technically difficult, and satisfy the contradictory demands of multiple royal advisors with competing visions. The party must help Thrildvir manage this tangle of officials, source exotic materials on short notice, and handle court intrigue as various factions attempt to influence the design to their political advantage.
 
-5. **Fabric of Fate**: Thrildvir discovers that certain rare fabrics—particularly those from specific ancient looms or woven during particular astrological alignments—seem to carry subtle magical properties. A piece of cloth that passed through his hands years ago suddenly reappears with evidence that it has been used in a significant magical working. This discovery opens a door to an entirely new dimension of his craft—the possibility that his work has been more important than he ever realized. However, it also makes him a target for those seeking to turn cloth-magic into a weapon, and he can embrace this new understanding of his craft or try to distance himself from it.
+Fabric of Fate
+: Thrildvir discovers that certain rare fabrics—particularly those from specific ancient looms or woven during particular astrological alignments—seem to carry subtle magical properties. A piece of cloth that passed through his hands years ago suddenly reappears with evidence that it has been used in a significant magical working. This discovery opens a door to an entirely new dimension of his craft—the possibility that his work has been more important than he ever realized. However, it also makes him a target for those seeking to turn cloth-magic into a weapon, and he can embrace this new understanding of his craft or try to distance himself from it.

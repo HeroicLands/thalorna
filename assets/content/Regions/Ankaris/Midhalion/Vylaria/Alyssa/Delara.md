@@ -22,6 +22,11 @@ A drover on the capital run, advising a cousin who has never taken a herd to mar
 
 ## See Also
 
-- [[affiliation-provinclys|Province of Alessa]]—the parent province
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the imperial overview
-- [[place-orzara|Orzara]]—where the road leads
+[[affiliation-provinclys|Province of Alessa]]
+: the parent province
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the imperial overview
+
+[[place-orzara|Orzara]]
+: where the road leads

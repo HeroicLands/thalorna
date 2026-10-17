@@ -129,11 +129,26 @@ The City-States of Helionis use the [[lore-vylrncrncy|Vylarian Currency]] (Solde
 
 ## See Also
 
-- [[place-helionis|Helionis]]—the region, its gods and its history
-- [[lore-helioniteclt|Helionite]]—the culture and what it holds a person owes
-- [[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalidria]]—the three leading city-states
-- [[affiliation-theradon|Theradon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]], [[affiliation-kostaros2|Kostaros]]—the other four
-- [[place-provenzrgn|Provenzia Region]]—cultural rival and partner
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—eastern trading partner
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the gods the cities share
-- [[affiliation-ordoarcanis|Thordimalon]]—present, and contested
+[[place-helionis|Helionis]]
+: the region, its gods and its history
+
+[[lore-helioniteclt|Helionite]]
+: the culture and what it holds a person owes
+
+[[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalidria]]
+: the three leading city-states
+
+[[affiliation-theradon|Theradon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]], [[affiliation-kostaros2|Kostaros]]
+: the other four
+
+[[place-provenzrgn|Provenzia Region]]
+: cultural rival and partner
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: eastern trading partner
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the gods the cities share
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: present, and contested

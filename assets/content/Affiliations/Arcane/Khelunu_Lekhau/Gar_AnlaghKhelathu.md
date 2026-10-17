@@ -64,6 +64,11 @@ The **Black Land** has a partner in the tradition: [[affiliation-gargezrulutu|Ga
 
 ## See Also
 
-- [[lore-anlaghkhlth|Anlagh'Khelathu]]—the domain
-- [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
-- [[place-khelunu|Khelunu]]—where the Eight are taught
+[[lore-anlaghkhlth|Anlagh'Khelathu]]
+: the domain
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the philosophy and the other seven domains
+
+[[place-khelunu|Khelunu]]
+: where the Eight are taught

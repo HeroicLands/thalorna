@@ -306,12 +306,29 @@ The distinctive clicking sound produced by the ankle tendons works as a passive 
 
 ## Attributes
 
-- **Strength:** 9-14 (1d6+8) — Compact and powerful, built for hauling loads and pushing through deep snow
-- **Endurance:** 11-16 (1d6+10) — Great stamina for migration and extreme cold survival
-- **Dexterity:** 8-11 (1d4+7) — Adequate but not refined; built for function, not precision
-- **Agility:** 11-16 (1d6+10) — Sure-footed across tundra, snowfield, and river crossing
-- **Perception:** 11-16 (1d6+10) — Keen senses, particularly smell; can detect lichen under deep snow
-- **Aura:** 6-9 (1d4+5) — Respected as the lifeblood of the north, but not spiritually charged
-- **Will:** 10-15 (1d6+9) — Migratory determination; domesticated animals are relatively docile
-- **Reasoning:** 5-8 (1d4+4) — Standard cervid intelligence
-- **Creativity:** 4-7 (1d4+3) — Limited
+Strength
+: 9-14 (1d6+8) — Compact and powerful, built for hauling loads and pushing through deep snow
+
+Endurance
+: 11-16 (1d6+10) — Great stamina for migration and extreme cold survival
+
+Dexterity
+: 8-11 (1d4+7) — Adequate but not refined; built for function, not precision
+
+Agility
+: 11-16 (1d6+10) — Sure-footed across tundra, snowfield, and river crossing
+
+Perception
+: 11-16 (1d6+10) — Keen senses, particularly smell; can detect lichen under deep snow
+
+Aura
+: 6-9 (1d4+5) — Respected as the lifeblood of the north, but not spiritually charged
+
+Will
+: 10-15 (1d6+9) — Migratory determination; domesticated animals are relatively docile
+
+Reasoning
+: 5-8 (1d4+4) — Standard cervid intelligence
+
+Creativity
+: 4-7 (1d4+3) — Limited

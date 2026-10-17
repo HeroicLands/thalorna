@@ -467,8 +467,11 @@ Crewman of the **Tamzir**. No other formal affiliations. He maintains a grudging
 
 ## Plot Hooks
 
-1. **Vara's Origin**: Someone recognizes Garulf's beloved battleaxe and claims it was stolen from a Vristwald clan chief's tomb. The claim may be legitimate—Garulf won the axe in a card game years ago and never asked its history. Now a Varokh war party wants it back, and they do not care about the niceties of possession.
+Vara's Origin
+: Someone recognizes Garulf's beloved battleaxe and claims it was stolen from a Vristwald clan chief's tomb. The claim may be legitimate—Garulf won the axe in a card game years ago and never asked its history. Now a Varokh war party wants it back, and they do not care about the niceties of possession.
 
-2. **Blood Debt**: The partner Garulf abandoned during the botched robbery survived, served time, and has spent years tracking Garulf down. Now free and vengeful, this former associate knows every port the Tamzir visits and is closing in.
+Blood Debt
+: The partner Garulf abandoned during the botched robbery survived, served time, and has spent years tracking Garulf down. Now free and vengeful, this former associate knows every port the Tamzir visits and is closing in.
 
-3. **Better Offer**: A rival captain offers Garulf triple his current pay to betray the Tamzir—specifically, to put the ship in a particular location at a particular time. The money is tempting. But the rival's employer is connected to the [[affiliation-ordoarcanis|Thordimalon]], and the real target is [[being-cibelasrnt|Kivella Serenthis]]. Garulf must decide what he is willing to sell and what he is not.
+Better Offer
+: A rival captain offers Garulf triple his current pay to betray the Tamzir—specifically, to put the ship in a particular location at a particular time. The money is tempting. But the rival's employer is connected to the [[affiliation-ordoarcanis|Thordimalon]], and the real target is [[being-cibelasrnt|Kivella Serenthis]]. Garulf must decide what he is willing to sell and what he is not.

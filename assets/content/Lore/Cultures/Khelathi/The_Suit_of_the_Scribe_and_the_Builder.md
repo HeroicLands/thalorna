@@ -424,12 +424,29 @@ _\[The jars go round. Nobody speaks after the song. The Scale's player may drink
 
 ## See Also
 
-- [[lore-rethsaardty|Reth'Sa'ar]]—the Scribe, the divine record and the Eternal Library
-- [[lore-psaqarudty|Saq'aru]]—the Builder, whose priests are the builders of the valley
-- [[lore-qearetdty|Qe'aret]]—the Scale, and the doctrine of the Weighing
-- [[lore-thubaidty|Thuba'i]]—the god of the feast the suit is played at
-- [[affiliation-linshelunthb|Lin'Shelun elu Thuba'i]]—the players who keep the roll
-- [[lore-khelathiclt|Khelathi]]—entries, witnesses, the four doors and what is written between brothers
-- [[lore-firstoccasion|The First Occasion]]—the temple's own account of the mound and the gods' order upon it
-- [[lore-readingweigh|The Reading at the Weighing]]—the litany the pleadings parody
-- [[lore-zamletuqaa|The Hymn of the Sun-Lord]]—the god whose walk down the west road the play leaves unplayed
+[[lore-rethsaardty|Reth'Sa'ar]]
+: the Scribe, the divine record and the Eternal Library
+
+[[lore-psaqarudty|Saq'aru]]
+: the Builder, whose priests are the builders of the valley
+
+[[lore-qearetdty|Qe'aret]]
+: the Scale, and the doctrine of the Weighing
+
+[[lore-thubaidty|Thuba'i]]
+: the god of the feast the suit is played at
+
+[[affiliation-linshelunthb|Lin'Shelun elu Thuba'i]]
+: the players who keep the roll
+
+[[lore-khelathiclt|Khelathi]]
+: entries, witnesses, the four doors and what is written between brothers
+
+[[lore-firstoccasion|The First Occasion]]
+: the temple's own account of the mound and the gods' order upon it
+
+[[lore-readingweigh|The Reading at the Weighing]]
+: the litany the pleadings parody
+
+[[lore-zamletuqaa|The Hymn of the Sun-Lord]]
+: the god whose walk down the west road the play leaves unplayed

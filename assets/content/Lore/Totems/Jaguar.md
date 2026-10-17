@@ -16,9 +16,20 @@ Stealthy and powerful, jaguars are solitary hunters that rely on their strength 
 
 A Jaguar person is solitary and calculating, and relies on strength and stealth to reach goals. Work is done efficiently and usually alone.
 
-- **Physical:** Muscular and agile; quiet but powerful movements.
-- **Behavioral:** Stealthy, capable of intense bursts of power and action.
-- **Positive:** Strong, efficient, and strategic.
-- **Negative:** Secretive, solitary, and may avoid teamwork.
-- **Minor Trait ([[sohl-none-doctrauma-cunning|Cunning]]):** Patient and observant, preferring to study a situation thoroughly before acting and always keeping their true intentions close.
-- **Major Disorder ([[sohl-none-doctrauma-antscl|Antisocial]]):** Cold and calculating in their solitude, patiently studying others for weaknesses to exploit when the moment serves them.
+Physical
+: Muscular and agile; quiet but powerful movements.
+
+Behavioral
+: Stealthy, capable of intense bursts of power and action.
+
+Positive
+: Strong, efficient, and strategic.
+
+Negative
+: Secretive, solitary, and may avoid teamwork.
+
+Minor Trait ([[sohl-none-doctrauma-cunning|Cunning]])
+: Patient and observant, preferring to study a situation thoroughly before acting and always keeping their true intentions close.
+
+Major Disorder ([[sohl-none-doctrauma-antscl|Antisocial]])
+: Cold and calculating in their solitude, patiently studying others for weaknesses to exploit when the moment serves them.

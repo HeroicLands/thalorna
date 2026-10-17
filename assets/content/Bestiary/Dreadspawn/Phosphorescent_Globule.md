@@ -229,20 +229,29 @@ Fire disrupts its light and makes its body unstable and painful. Hard cold stiff
 
 ## Attributes
 
-- **Strength:** 7-12 (1d6+6)
+Strength
+: 7-12 (1d6+6)
 
-- **Endurance:** 15-20 (1d6+14)
+Endurance
+: 15-20 (1d6+14)
 
-- **Dexterity:** 11-16 (1d6+10)
+Dexterity
+: 11-16 (1d6+10)
 
-- **Agility:** 10-13 (1d4+9)
+Agility
+: 10-13 (1d4+9)
 
-- **Perception:** 14-17 (1d4+13)
+Perception
+: 14-17 (1d4+13)
 
-- **Aura:** 15-20 (1d6+14)
+Aura
+: 15-20 (1d6+14)
 
-- **Will:** 14-17 (1d4+13)
+Will
+: 14-17 (1d4+13)
 
-- **Reasoning:** 7-12 (1d6+6)
+Reasoning
+: 7-12 (1d6+6)
 
-- **Creativity:** 11-16 (1d6+10)
+Creativity
+: 11-16 (1d6+10)

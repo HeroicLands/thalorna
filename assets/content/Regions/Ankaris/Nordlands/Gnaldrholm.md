@@ -24,5 +24,8 @@ The name fits the way the city does business: _gnaldr-_ is floes grinding on one
 
 ## See Also
 
-- [[being-knrvthyrgldnhr|Knirvthira Goldenhair]]—mistress of the Gilded Cage
-- [[being-dvrnmyldcvr|Dvirnmil the Deceiver]]—the Underworld Guild's favored hand
+[[being-knrvthyrgldnhr|Knirvthira Goldenhair]]
+: mistress of the Gilded Cage
+
+[[being-dvrnmyldcvr|Dvirnmil the Deceiver]]
+: the Underworld Guild's favored hand

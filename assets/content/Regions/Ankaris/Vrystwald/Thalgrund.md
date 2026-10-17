@@ -26,6 +26,11 @@ The Other Chief holds the strongest of the village's three seats, but the other 
 
 ## See Also
 
-- [[place-edrwald|Edrwald]]—the reach around the village
-- [[place-eichholt|Eichholt]] and [[place-thornryth|Thornreth]]—neighboring villages reached by forest tracks
-- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—the wider web of independent villages
+[[place-edrwald|Edrwald]]
+: the reach around the village
+
+[[place-eichholt|Eichholt]] and [[place-thornryth|Thornreth]]
+: neighboring villages reached by forest tracks
+
+[[affiliation-vrystwldtrbs|Vristwald Tribes]]
+: the wider web of independent villages

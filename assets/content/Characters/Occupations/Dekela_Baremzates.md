@@ -430,10 +430,14 @@ Nobody who wishes her harm, but a rival shop in the potters' street has begun co
 
 ## Plot Hooks
 
-1. **Plain Ware by the Thousand**—A merchant house of Elissara has offered Dekela a contract for plain crockery in quantity, enough to keep the shop for years and to leave her no time for anything else.
+Plain Ware by the Thousand
+: A merchant house of Elissara has offered Dekela a contract for plain crockery in quantity, enough to keep the shop for years and to leave her no time for anything else.
 
-2. **The Glaze That Failed**—A commission for a senatorial household—her first—has come out of the kiln with the blue gone gray across half the set. The delivery is in a week.
+The Glaze That Failed
+: A commission for a senatorial household—her first—has come out of the kiln with the blue gone gray across half the set. The delivery is in a week.
 
-3. **The Copy**—The rival shop's copies of her patterns have reached the capital under a name that is nearly hers. The guild will hear a case only if she brings one, in front of people.
+The Copy
+: The rival shop's copies of her patterns have reached the capital under a name that is nearly hers. The guild will hear a case only if she brings one, in front of people.
 
-4. **The Examination**—The guild has asked Dekela to sit as an examiner for new masters, an honor that would give her a voice on standards. It would require her to speak to strangers about money and method, several times a year.
+The Examination
+: The guild has asked Dekela to sit as an examiner for new masters, an honor that would give her a voice on standards. It would require her to speak to strangers about money and method, several times a year.

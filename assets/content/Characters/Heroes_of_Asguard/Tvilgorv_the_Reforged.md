@@ -401,8 +401,11 @@ Tvilgorv's reforged body is extraordinarily powerful, combining human martial sk
 
 ## Plot Hooks
 
-1. **The Man Within**—Tvilgorv has discovered a ritual that might separate his human essence from the Dreadspawn parts of his nature, but the process could kill him or create two separate beings. He needs help gathering the components and protecting him during the ritual.
+The Man Within
+: Tvilgorv has discovered a ritual that might separate his human essence from the Dreadspawn parts of his nature, but the process could kill him or create two separate beings. He needs help gathering the components and protecting him during the ritual.
 
-2. **The Clan's Reckoning**—Tvilgorv's former clan is being threatened by a force they cannot defeat alone. They need his help but refuse to ask for it. Tvilgorv must decide whether to aid people who tried to kill him.
+The Clan's Reckoning
+: Tvilgorv's former clan is being threatened by a force they cannot defeat alone. They need his help but refuse to ask for it. Tvilgorv must decide whether to aid people who tried to kill him.
 
-3. **The Collector's Gallery**—Tvilgorv has found the Collector's hidden lair, where dozens of Mótefnir's transformed creations are imprisoned. He must infiltrate the gallery and free them, but the Collector has defenses that prey on the monstrous nature within each captive.
+The Collector's Gallery
+: Tvilgorv has found the Collector's hidden lair, where dozens of Mótefnir's transformed creations are imprisoned. He must infiltrate the gallery and free them, but the Collector has defenses that prey on the monstrous nature within each captive.

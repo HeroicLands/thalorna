@@ -101,8 +101,17 @@ Politically, the Zulen (fellowship) Neumenos is the most isolated of the six fel
 
 ## See Also
 
-- [[affiliation-hexhodai|Zemor Hodhis]]—The Zemor Hodhis framework
-- [[affiliation-physera|Rhezin Fisera]]—The opposing _rhezin_
-- [[affiliation-sideros|Rhezin Sideris]]—Adjacent _rhezin_ (binding and precision)
-- [[affiliation-pyrethos|Rhezin Pirethos]]—Adjacent _rhezin_ (intensity)
-- [[affiliation-ordoarcanis|Thordimalon]]—The institution that teaches and regulates Neumenos magic
+[[affiliation-hexhodai|Zemor Hodhis]]
+: The Zemor Hodhis framework
+
+[[affiliation-physera|Rhezin Fisera]]
+: The opposing _rhezin_
+
+[[affiliation-sideros|Rhezin Sideris]]
+: Adjacent _rhezin_ (binding and precision)
+
+[[affiliation-pyrethos|Rhezin Pirethos]]
+: Adjacent _rhezin_ (intensity)
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: The institution that teaches and regulates Neumenos magic

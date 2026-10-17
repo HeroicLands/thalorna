@@ -71,9 +71,16 @@ In Aureldian teaching, [[lore-ustarondty|Ústaron]], the Forge-Lord, embodies bo
 
 The resulting schism produced two bitterly opposed faiths, each considering the other heretical:
 
-- [[affiliation-sacredforge|The Sacred Forge]]—Ústaron's creative aspect: craftsmanship, transformation, illumination, and protection. The mainstream faith in most of western Ankaris.
-  - **Symbol:** A radiant anvil beneath a sheltering flame.
-- [[affiliation-blackflame|The Black Flame]]—Ústaron's destructive aspect: fire as purifier, weapon, and instrument of domination. Suppressed in most kingdoms, operating through secretive orders and hidden shrines.
-  - **Symbol:** A black flame consuming a broken chain.
+[[affiliation-sacredforge|The Sacred Forge]]
+: Ústaron's creative aspect: craftsmanship, transformation, illumination, and protection. The mainstream faith in most of western Ankaris.
+
+    Symbol
+    : A radiant anvil beneath a sheltering flame.
+
+[[affiliation-blackflame|The Black Flame]]
+: Ústaron's destructive aspect: fire as purifier, weapon, and instrument of domination. Suppressed in most kingdoms, operating through secretive orders and hidden shrines.
+
+    Symbol
+    : A black flame consuming a broken chain.
 
 The enmity between Sacred Forge and Black Flame runs deep. Each claims to represent Ústaron's true will, and their conflict has shaped the religious and political landscape of western Ankaris for centuries. See [[lore-ustaranschism|The Ústaran Schism]] for how the break came about and why it did not heal.

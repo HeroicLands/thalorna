@@ -27,6 +27,11 @@ The wealth that comes in lets the Ts'okum buy obsidian weapons, feathered cloaks
 
 ## See Also
 
-- [[affiliation-penqalchakal|P'enqal Ch'akal]]—the Coyote People and their nation
-- [[place-penqalchaklrgn|P'enqal Ch'akal Region]]—the grasslands
-- [[place-nrthrnkchchk|Northern K'ich'chik]]—the northern nations
+[[affiliation-penqalchakal|P'enqal Ch'akal]]
+: the Coyote People and their nation
+
+[[place-penqalchaklrgn|P'enqal Ch'akal Region]]
+: the grasslands
+
+[[place-nrthrnkchchk|Northern K'ich'chik]]
+: the northern nations

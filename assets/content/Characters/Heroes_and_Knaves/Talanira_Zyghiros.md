@@ -423,23 +423,56 @@ Tálanira and [[being-lmbhrpdhnn|Lámbira]] met when House Zighiros hired the bo
 
 ### Skills and Abilities
 
-- **Strength**: While not physically imposing, Tálanira has enough strength for day-to-day activities but lacks martial prowess.
-- **Endurance**: She can handle the rigors of travel, but her life has been more about negotiations than physical challenges.
-- **Dexterity**: Tálanira is reasonably deft, able to handle delicate items and move with grace in social situations.
-- **Agility**: She has a natural grace that serves her well in avoiding physical dangers and staying poised.
-- **Perception**: Tálanira’s ability to read situations and people is among her greatest strengths, allowing her to stay one step ahead in negotiations and alliances.
-- **Comeliness**: Tálanira is strikingly beautiful in a refined, elegant way, which she often uses to her advantage in social and business dealings.
-- **Aura**: Tálanira has a respectable presence but does not rely on magical or spiritual prowess.
-- **Will**: She is determined and rarely backs down when she has set her sights on something, whether in business or adventure.
-- **Reasoning**: Tálanira is highly intelligent, able to think on her feet and quickly assess the best course of action in any situation.
-- **Creativity**: Tálanira is imaginative and resourceful, often coming up with creative solutions to complex problems.
-- **Empathy**: Though she can be calculating, Tálanira has a understanding of the emotions and motives of others, which helps her in negotiations.
-- **Eloquence**: Tálanira’s way with words is one of her greatest assets, allowing her to persuade, charm, and outmaneuver opponents in any social or business setting.
-- **Morality**: Tálanira, as a Merchant Princess, is driven by ambition and her need for freedom, willing to take advantage of situations or bend the rules when necessary, especially when there’s profit or power involved.
-- **Voice**: Tálanira’s voice is pleasant but unremarkable when it comes to singing. She uses her voice more for negotiation and persuasion than for performance.
-- **Skilled Negotiator**: Tálanira can broker deals, negotiate with enemies, and use her charm to turn potentially hostile encounters into profitable ventures. Her ability to navigate the merchant world has no equal.
-- **Trade Network Knowledge**: Tálanira’s extensive knowledge of trade routes, contacts, and economic systems makes her an expert at gathering information. She can leverage her family’s connections to open doors or find hidden opportunities.
-- **Cunning and Strategy**: Tálanira excels at reading people and situations, often advising [[being-lmbhrpdhnn|Lámbira]] on the political and social dynamics at play in any given situation. Her strategic mind allows the team to stay one step ahead of their enemies.
+Strength
+: While not physically imposing, Tálanira has enough strength for day-to-day activities but lacks martial prowess.
+
+Endurance
+: She can handle the rigors of travel, but her life has been more about negotiations than physical challenges.
+
+Dexterity
+: Tálanira is reasonably deft, able to handle delicate items and move with grace in social situations.
+
+Agility
+: She has a natural grace that serves her well in avoiding physical dangers and staying poised.
+
+Perception
+: Tálanira’s ability to read situations and people is among her greatest strengths, allowing her to stay one step ahead in negotiations and alliances.
+
+Comeliness
+: Tálanira is strikingly beautiful in a refined, elegant way, which she often uses to her advantage in social and business dealings.
+
+Aura
+: Tálanira has a respectable presence but does not rely on magical or spiritual prowess.
+
+Will
+: She is determined and rarely backs down when she has set her sights on something, whether in business or adventure.
+
+Reasoning
+: Tálanira is highly intelligent, able to think on her feet and quickly assess the best course of action in any situation.
+
+Creativity
+: Tálanira is imaginative and resourceful, often coming up with creative solutions to complex problems.
+
+Empathy
+: Though she can be calculating, Tálanira has a understanding of the emotions and motives of others, which helps her in negotiations.
+
+Eloquence
+: Tálanira’s way with words is one of her greatest assets, allowing her to persuade, charm, and outmaneuver opponents in any social or business setting.
+
+Morality
+: Tálanira, as a Merchant Princess, is driven by ambition and her need for freedom, willing to take advantage of situations or bend the rules when necessary, especially when there’s profit or power involved.
+
+Voice
+: Tálanira’s voice is pleasant but unremarkable when it comes to singing. She uses her voice more for negotiation and persuasion than for performance.
+
+Skilled Negotiator
+: Tálanira can broker deals, negotiate with enemies, and use her charm to turn potentially hostile encounters into profitable ventures. Her ability to navigate the merchant world has no equal.
+
+Trade Network Knowledge
+: Tálanira’s extensive knowledge of trade routes, contacts, and economic systems makes her an expert at gathering information. She can leverage her family’s connections to open doors or find hidden opportunities.
+
+Cunning and Strategy
+: Tálanira excels at reading people and situations, often advising [[being-lmbhrpdhnn|Lámbira]] on the political and social dynamics at play in any given situation. Her strategic mind allows the team to stay one step ahead of their enemies.
 
 ## Psyche
 
@@ -460,10 +493,14 @@ Tálanira is driven by a desire for freedom and adventure. She views her allianc
 
 ## Plot Hooks
 
-1. **The Rival House**: House Zighiros falls into a bitter commercial war with **House Hannares**, a larger and better-connected rival clan that means to choke Zighiros out of a lucrative coastal route. When the feud turns ugly and Tálanira's younger sister **Sufira** is seized as leverage, Tálanira must handle the treacherous politics of the [[affiliation-bthntrdhss|Council of Matriarchs]] and balance her wanderer's freedom against her duty to her House—all while uncovering how far Hannares has bought influence among the federation's matriarchs.
+The Rival House
+: House Zighiros falls into a bitter commercial war with **House Hannares**, a larger and better-connected rival clan that means to choke Zighiros out of a lucrative coastal route. When the feud turns ugly and Tálanira's younger sister **Sufira** is seized as leverage, Tálanira must handle the treacherous politics of the [[affiliation-bthntrdhss|Council of Matriarchs]] and balance her wanderer's freedom against her duty to her House—all while uncovering how far Hannares has bought influence among the federation's matriarchs.
 
-2. **The Correspondent's Price**: A chance opens for House Zighiros to take its first **[[affiliation-garhalzi|Gar-Hálzi]] correspondent account** at Galezkara—the credit relationship that could begin the House's climb toward Great House standing. But the account comes through a Khelathi temple-factor who wants more than fees in return, and a Great House that does not wish to see Zighiros rise is quietly working to spoil the deal. Tálanira must decide how much of herself, and of her House's independence, the dream is worth.
+The Correspondent's Price
+: A chance opens for House Zighiros to take its first **[[affiliation-garhalzi|Gar-Hálzi]] correspondent account** at Galezkara—the credit relationship that could begin the House's climb toward Great House standing. But the account comes through a Khelathi temple-factor who wants more than fees in return, and a Great House that does not wish to see Zighiros rise is quietly working to spoil the deal. Tálanira must decide how much of herself, and of her House's independence, the dream is worth.
 
-3. **The Silent Caravan**: One of House Zighiros's inland caravans vanishes in the dry country toward the southern marches, along with a shipment of premium goods. When a single surviving drover staggers back with a story that does not hold together, Tálanira follows the trail into the borderlands—where the signs point to either a rival House's dirty work or the southern raiders who answer to no Dómissa. She must decide whether to confront the threat head-on or unravel it through her network before it bleeds the House dry.
+The Silent Caravan
+: One of House Zighiros's inland caravans vanishes in the dry country toward the southern marches, along with a shipment of premium goods. When a single surviving drover staggers back with a story that does not hold together, Tálanira follows the trail into the borderlands—where the signs point to either a rival House's dirty work or the southern raiders who answer to no Dómissa. She must decide whether to confront the threat head-on or unravel it through her network before it bleeds the House dry.
 
-4. **The Foreign Suitor**: A wealthy _ethlen_ (Gilded) noble of [[affiliation-vylarinmpr|Vylaria]]—**Ethlen Tavius**—makes discreet overtures, through intermediaries, for Tálanira's hand. Bethuan matriarchal custom does not permit a foreign husband to alter a House's inheritance, so the proposal is less a marriage than a gambit: an alliance and an opening into Vylarian markets, dangled before an ambitious Lesser House. Tálanira's mother is tempted; the [[affiliation-mtrrchybth|Council of Priestesses]] is uneasy at any Vylarian entanglement while the privateer war smolders; and Tálanira—who was not consulted—must decide whether to be a pawn, a player, or gone.
+The Foreign Suitor
+: A wealthy _ethlen_ (Gilded) noble of [[affiliation-vylarinmpr|Vylaria]]—**Ethlen Tavius**—makes discreet overtures, through intermediaries, for Tálanira's hand. Bethuan matriarchal custom does not permit a foreign husband to alter a House's inheritance, so the proposal is less a marriage than a gambit: an alliance and an opening into Vylarian markets, dangled before an ambitious Lesser House. Tálanira's mother is tempted; the [[affiliation-mtrrchybth|Council of Priestesses]] is uneasy at any Vylarian entanglement while the privateer war smolders; and Tálanira—who was not consulted—must decide whether to be a pawn, a player, or gone.

@@ -119,11 +119,20 @@ The party must decide what to do with the shrine and its secrets:
 
 **Options:**
 
-- **Preserve & Protect:** Seal the shrine again, keeping it hidden from those who would exploit it
-- **Document & Report:** Share findings with scholars, the [[affiliation-arldnpnthn|Aureldian]] Church, or the [[affiliation-ordoarcanis|Thordimalon]]
-- **Claim & Exploit:** Attempt to use the shrine's power for personal benefit or to advance the party's agenda
-- **Cleanse & Consecrate:** Perform rituals to bring the shrine under Aureldian authority or neutralize its power
-- **Leave & Warn:** Depart without disturbing further and warn others away
+Preserve & Protect
+: Seal the shrine again, keeping it hidden from those who would exploit it
+
+Document & Report
+: Share findings with scholars, the [[affiliation-arldnpnthn|Aureldian]] Church, or the [[affiliation-ordoarcanis|Thordimalon]]
+
+Claim & Exploit
+: Attempt to use the shrine's power for personal benefit or to advance the party's agenda
+
+Cleanse & Consecrate
+: Perform rituals to bring the shrine under Aureldian authority or neutralize its power
+
+Leave & Warn
+: Depart without disturbing further and warn others away
 
 **Complications & Consequences:**
 

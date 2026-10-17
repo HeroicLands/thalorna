@@ -234,17 +234,38 @@ The sin is Tuija Wengyan. A general of the Wohou, named Iron Spear Piercing the 
 
 ## See Also
 
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the realm, its ministries and its Mandate
-- [[place-tantsouregin|Tantsou Region]]—the country the empire governs
-- [[lore-castelaws|Caste Laws]]—the legal framework of the eight
-- [[lore-celestlrdr|Celestial Order]]—the Bureaucracy, the Dragon and the Unclassified
-- [[lore-ancstrwrshp|Ancestor Worship]]—the ledger and its rites
-- [[lore-marriage|Marriage]]—the household, the heir and the five steps of a wedding
-- [[lore-tseising|Law and Honor]]—the courts, the punishments and the ritual death
-- [[lore-personlnms|Personal Names]]—who may be granted a name, and two names earned
-- [[lore-clndrstrlgy|Calendar and Astrology]]—the festivals and the spirit animals
-- [[lore-medicine|Medicine]]—the healers and the body as a small sorted world
-- [[skill-tantsoulng|Tantsou]]—the tongue and what a name states in it
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the realm, its ministries and its Mandate
+
+[[place-tantsouregin|Tantsou Region]]
+: the country the empire governs
+
+[[lore-castelaws|Caste Laws]]
+: the legal framework of the eight
+
+[[lore-celestlrdr|Celestial Order]]
+: the Bureaucracy, the Dragon and the Unclassified
+
+[[lore-ancstrwrshp|Ancestor Worship]]
+: the ledger and its rites
+
+[[lore-marriage|Marriage]]
+: the household, the heir and the five steps of a wedding
+
+[[lore-tseising|Law and Honor]]
+: the courts, the punishments and the ritual death
+
+[[lore-personlnms|Personal Names]]
+: who may be granted a name, and two names earned
+
+[[lore-clndrstrlgy|Calendar and Astrology]]
+: the festivals and the spirit animals
+
+[[lore-medicine|Medicine]]
+: the healers and the body as a small sorted world
+
+[[skill-tantsoulng|Tantsou]]
+: the tongue and what a name states in it
 
 ## Glossary {#glossary}
 

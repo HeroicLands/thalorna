@@ -26,6 +26,11 @@ Flarnbrekka's real argument is with the calendar, not with any neighbor. The fro
 
 ## See Also
 
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]]—the kingdom whose mines feed on this ore
-- [[place-norgaad|Norgaad]]—the land the kingdom holds
-- [[lore-nrgadhstry|Histories and Legends of Norgaad]]—the Door-Court at Flarnbrekka
+[[affiliation-kingdmnrgd|Kingdom of Norgaad]]
+: the kingdom whose mines feed on this ore
+
+[[place-norgaad|Norgaad]]
+: the land the kingdom holds
+
+[[lore-nrgadhstry|Histories and Legends of Norgaad]]
+: the Door-Court at Flarnbrekka

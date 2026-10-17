@@ -28,6 +28,11 @@ Nalthmark's quarrel with its own hersvald is the frontier's oldest. A district t
 
 ## See Also
 
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—the kingdom whose claim ends here
-- [[place-nordheim|Nordheim]]—the land the kingdom holds
-- [[place-hrindstead|Hrindstead]]—the settlers' stockade down the road
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+: the kingdom whose claim ends here
+
+[[place-nordheim|Nordheim]]
+: the land the kingdom holds
+
+[[place-hrindstead|Hrindstead]]
+: the settlers' stockade down the road

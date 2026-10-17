@@ -99,8 +99,17 @@ The isolation of Ishtem Tsul from direct access to the [[place-chakultzklrgn|Ch'
 
 ## See Also
 
-- [[affiliation-ixbalkiahk|Ish'bal Ki'ahk]]—The Shak'nal domain to the west, separated by high passes and shared hunting territories
-- [[affiliation-penqalchakal|P'enqal Ch'akal]]—The Coyote People's grasslands to the south and east
-- [[affiliation-xikulchakl|Shik'ul Ch'akal]]—The Otter People's woodlands to the east, connected by river routes
-- [[affiliation-tzumanotun|Ts'uma No'tun]]—The Serpent People's distant southern territories, reached through intermediaries
-- [[place-ixtemtzulrgn|Ishtem Tsul Region]]—The land Ishtem Tsul holds
+[[affiliation-ixbalkiahk|Ish'bal Ki'ahk]]
+: The Shak'nal domain to the west, separated by high passes and shared hunting territories
+
+[[affiliation-penqalchakal|P'enqal Ch'akal]]
+: The Coyote People's grasslands to the south and east
+
+[[affiliation-xikulchakl|Shik'ul Ch'akal]]
+: The Otter People's woodlands to the east, connected by river routes
+
+[[affiliation-tzumanotun|Ts'uma No'tun]]
+: The Serpent People's distant southern territories, reached through intermediaries
+
+[[place-ixtemtzulrgn|Ishtem Tsul Region]]
+: The land Ishtem Tsul holds

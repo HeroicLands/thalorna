@@ -20,5 +20,8 @@ The town's standing rests on those families, and a renowned yard passes its craf
 
 ## See Also
 
-- [[place-norgaad|Norgaad]]—the kingdom's land, along whose coast the town stands
-- [[being-vrthmylfrhr|Vrathmil Firehair]]—a shipwright's son of Thraskvík
+[[place-norgaad|Norgaad]]
+: the kingdom's land, along whose coast the town stands
+
+[[being-vrthmylfrhr|Vrathmil Firehair]]
+: a shipwright's son of Thraskvík

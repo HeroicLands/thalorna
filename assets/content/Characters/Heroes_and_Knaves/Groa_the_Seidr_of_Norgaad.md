@@ -461,24 +461,59 @@ This singular event shook Groa to her core and set her on a journey beyond the s
 
 ### Skills and Abilities
 
-- **Strength**: Groa is more focused on magic and spiritual matters than physical strength.
-- **Endurance**: She can handle long rituals but isn’t physically robust.
-- **Dexterity**: Her hands are steady for ritual and spellcraft but not particularly nimble.
-- **Agility**: Groa moves with care and precision but isn’t especially quick.
-- **Perception**: Her ability to read the spirit world and her surroundings is outstanding.
-- **Comeliness**: Groa’s appearance is plain, but her mystical presence adds a certain allure.
-- **Aura**: Her deep connection to the spirit world gives her a powerful mystical aura.
-- **Will**: Groa is determined and focused on her magical path.
-- **Reasoning**: She uses her intelligence to navigate the complexities of magic.
-- **Creativity**: Groa is inventive in her rituals and spells, drawing on both traditional and new ideas.
-- **Empathy**: She has some understanding of emotions but remains detached due to her focus on the spiritual.
-- **Eloquence**: Groa speaks thoughtfully, though her words often carry weight in mystical contexts.
-- **Morality**: Groa follows the spiritual practices of her people, but she is pragmatic in her approach, balancing her personal ambitions with the need to uphold the traditions of her culture.
-- **Voice**: Groa’s voice is ethereal and otherworldly, with a soft, flowing tone that captivates those who hear it. Her songs and chants carry a mystic quality, soothing and enchanting all who listen.
-- **Spirit Communion**: Groa can communicate with spirits, summoning them for guidance, protection, or to learn hidden truths. She often calls upon the **Crow Spirit** for wisdom, though the spirits of the dead sometimes answer her as well.
-- **Seer of Visions**: Groa has the ability to see glimpses of the future, though these visions are often cryptic and filled with symbolism. She can read omens in the flight of birds, the alignment of stars, or even in the flames of a fire.
-- **Psychic Powers**: Groa possesses the ability to manipulate the minds of others, bending their will or clouding their thoughts. She can cast illusions or influence emotions, using her powers to guide or mislead those around her.
-- **Shamanic Healing**: Groa knows the healing arts, drawing upon the spirits and the natural world to mend wounds and cure sickness. Her healing methods are as mystical as they are practical, involving rituals, herbs, and chants.
+Strength
+: Groa is more focused on magic and spiritual matters than physical strength.
+
+Endurance
+: She can handle long rituals but isn’t physically robust.
+
+Dexterity
+: Her hands are steady for ritual and spellcraft but not particularly nimble.
+
+Agility
+: Groa moves with care and precision but isn’t especially quick.
+
+Perception
+: Her ability to read the spirit world and her surroundings is outstanding.
+
+Comeliness
+: Groa’s appearance is plain, but her mystical presence adds a certain allure.
+
+Aura
+: Her deep connection to the spirit world gives her a powerful mystical aura.
+
+Will
+: Groa is determined and focused on her magical path.
+
+Reasoning
+: She uses her intelligence to navigate the complexities of magic.
+
+Creativity
+: Groa is inventive in her rituals and spells, drawing on both traditional and new ideas.
+
+Empathy
+: She has some understanding of emotions but remains detached due to her focus on the spiritual.
+
+Eloquence
+: Groa speaks thoughtfully, though her words often carry weight in mystical contexts.
+
+Morality
+: Groa follows the spiritual practices of her people, but she is pragmatic in her approach, balancing her personal ambitions with the need to uphold the traditions of her culture.
+
+Voice
+: Groa’s voice is ethereal and otherworldly, with a soft, flowing tone that captivates those who hear it. Her songs and chants carry a mystic quality, soothing and enchanting all who listen.
+
+Spirit Communion
+: Groa can communicate with spirits, summoning them for guidance, protection, or to learn hidden truths. She often calls upon the **Crow Spirit** for wisdom, though the spirits of the dead sometimes answer her as well.
+
+Seer of Visions
+: Groa has the ability to see glimpses of the future, though these visions are often cryptic and filled with symbolism. She can read omens in the flight of birds, the alignment of stars, or even in the flames of a fire.
+
+Psychic Powers
+: Groa possesses the ability to manipulate the minds of others, bending their will or clouding their thoughts. She can cast illusions or influence emotions, using her powers to guide or mislead those around her.
+
+Shamanic Healing
+: Groa knows the healing arts, drawing upon the spirits and the natural world to mend wounds and cure sickness. Her healing methods are as mystical as they are practical, involving rituals, herbs, and chants.
 
 ## Psyche
 
@@ -490,19 +525,30 @@ Groa is wise beyond her years, with a deep understanding of the spiritual world 
 
 ### Strengths
 
-- **Spirit Communion**: Groa can communicate with spirits, summoning them for guidance, protection, or learning hidden truths.
-- **Seer of Visions**: Groa has the ability to see glimpses of the future, reading omens in the flight of birds or the alignment of stars.
-- **Psychic Powers**: Groa can manipulate the minds of others, casting illusions or influencing emotions.
-- **Shamanic Healing**: Groa uses rituals, herbs, and chants to heal wounds and cure sickness.
+Spirit Communion
+: Groa can communicate with spirits, summoning them for guidance, protection, or learning hidden truths.
+
+Seer of Visions
+: Groa has the ability to see glimpses of the future, reading omens in the flight of birds or the alignment of stars.
+
+Psychic Powers
+: Groa can manipulate the minds of others, casting illusions or influencing emotions.
+
+Shamanic Healing
+: Groa uses rituals, herbs, and chants to heal wounds and cure sickness.
 
 ## Social
 
 ## Plot Hooks
 
-1. **The Voices of the Ancestors**: During a midwinter ritual, Groa hears a cacophony of voices from her ancestors, warning her of an ancient betrayal tied to her bloodline. She must uncover the truth hidden in her family’s history while grappling with the knowledge that the betrayal may be linked to the Crow Spirit’s mysterious guidance.
+The Voices of the Ancestors
+: During a midwinter ritual, Groa hears a cacophony of voices from her ancestors, warning her of an ancient betrayal tied to her bloodline. She must uncover the truth hidden in her family’s history while grappling with the knowledge that the betrayal may be linked to the Crow Spirit’s mysterious guidance.
 
-2. **The Shattered Relic**: A vision shows Groa a shattered artifact, the Crown of the Wyrm, said to be one of the three relics needed to seal away Njorven. She learns that the pieces are scattered across the frozen tundra of Norgaad and are guarded by jealous spirits who test her worthiness to wield such power.
+The Shattered Relic
+: A vision shows Groa a shattered artifact, the Crown of the Wyrm, said to be one of the three relics needed to seal away Njorven. She learns that the pieces are scattered across the frozen tundra of Norgaad and are guarded by jealous spirits who test her worthiness to wield such power.
 
-3. **The Phantom Fleet**: Reports of spectral longships attacking coastal villages reach Groa’s ears. Divination reveals these are the shades of Njorven’s ancient army, attempting to reclaim their lost honor. Groa must find a way to banish them or face the growing unrest they sow among the clans.
+The Phantom Fleet
+: Reports of spectral longships attacking coastal villages reach Groa’s ears. Divination reveals these are the shades of Njorven’s ancient army, attempting to reclaim their lost honor. Groa must find a way to banish them or face the growing unrest they sow among the clans.
 
-4. **Rift of the Seid**: A rival Seid claims that Groa’s visions are false and attempts to discredit her by summoning a malicious spirit to haunt her. To clear her name, Groa must confront the rival in a duel of magic and will, risking her bond with the Crow Spirit in the process.
+Rift of the Seid
+: A rival Seid claims that Groa’s visions are false and attempts to discredit her by summoning a malicious spirit to haunt her. To clear her name, Groa must confront the rival in a duel of magic and will, risking her bond with the Crow Spirit in the process.

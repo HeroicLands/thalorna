@@ -121,7 +121,14 @@ But this is not devotion to Tanzho. This is the study of Tanzho's _work_, the wa
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The celestial bureaucracy ordained by Tanzho's Great Sorting
-- [[affiliation-weizhuo|Wéizhuo Daonéi]]—The Jade Sovereign who administers in Tanzho's stead
-- [[affiliation-henzhuo|Hénzhuo]]—The First Refusal, the part of Henléi that rejected Tanzho's classification
-- [[affiliation-wantou|Chou Sei]]—The Archive of All Records, where the Great Sorting's original classifications are preserved
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: The celestial bureaucracy ordained by Tanzho's Great Sorting
+
+[[affiliation-weizhuo|Wéizhuo Daonéi]]
+: The Jade Sovereign who administers in Tanzho's stead
+
+[[affiliation-henzhuo|Hénzhuo]]
+: The First Refusal, the part of Henléi that rejected Tanzho's classification
+
+[[affiliation-wantou|Chou Sei]]
+: The Archive of All Records, where the Great Sorting's original classifications are preserved

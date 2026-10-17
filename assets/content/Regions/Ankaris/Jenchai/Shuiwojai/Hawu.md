@@ -25,6 +25,11 @@ Henzo's judges, chosen from his retainers, sit in the hall and hear the cases of
 
 ## See Also
 
-- [[affiliation-shuiwojaidmn|Shuiwojai Domain]]—the house and its lord
-- [[place-rojai|Rojai]]—the mountain
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[affiliation-shuiwojaidmn|Shuiwojai Domain]]
+: the house and its lord
+
+[[place-rojai|Rojai]]
+: the mountain
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

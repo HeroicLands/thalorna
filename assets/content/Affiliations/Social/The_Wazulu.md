@@ -46,5 +46,8 @@ Keep your license where a priest can read it, and keep your plays inoffensive to
 
 ## See Also
 
-- [[affiliation-linshlnglzkr|Lin'Shelun elu Galezkara]]—the company whose license they threaten
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the region it belongs to
+[[affiliation-linshlnglzkr|Lin'Shelun elu Galezkara]]
+: the company whose license they threaten
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the region it belongs to

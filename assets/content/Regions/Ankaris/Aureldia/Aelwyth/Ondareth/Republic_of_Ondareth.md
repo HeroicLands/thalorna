@@ -215,9 +215,20 @@ are careful to be seen at both temples.
 
 ## See Also
 
-- [[place-aelwyth|Aelwyth]]—The island
-- [[place-ondareth|Ondareth]]—The land the republic holds
-- [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]—Southeastern neighbor
-- [[affiliation-kngdmldrth|Kingdom of Aldorath]]—East-central rival
-- [[affiliation-vylarinmpr|Vylarian Empire]]—The empire Ondareth models itself on and sends diplomats to
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—State pantheon
+[[place-aelwyth|Aelwyth]]
+: The island
+
+[[place-ondareth|Ondareth]]
+: The land the republic holds
+
+[[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]
+: Southeastern neighbor
+
+[[affiliation-kngdmldrth|Kingdom of Aldorath]]
+: East-central rival
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: The empire Ondareth models itself on and sends diplomats to
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: State pantheon

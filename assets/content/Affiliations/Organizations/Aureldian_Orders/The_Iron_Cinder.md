@@ -44,9 +44,14 @@ sohl: {system: {commonSkills: []}}
 
 _The Iron Cinder—Vylari: **Zargelza**, "Iron Cinder"_
 
-- **Type:** Covert fighting religious order (heretical to the mainstream Aureldian faith)
-- **Patron:** [[affiliation-blackflame|The Black Flame]]—Ústaron as the conflagration of the mailed fist
-- **Region:** [[place-aureldirgn|Aureldia]]—no fixed bases; operates as a network of cells with no permanent stations; coordinated from sites that change every season
+Type
+: Covert fighting religious order (heretical to the mainstream Aureldian faith)
+
+Patron
+: [[affiliation-blackflame|The Black Flame]]—Ústaron as the conflagration of the mailed fist
+
+Region
+: [[place-aureldirgn|Aureldia]]—no fixed bases; operates as a network of cells with no permanent stations; coordinated from sites that change every season
 
 ## Overview
 
@@ -73,9 +78,14 @@ The **First Cinder** is the order's chair; one position; chosen by the surviving
 
 The order does not, in any formal sense, have doctrine. It has _operational principles_:
 
-- **[The Operation Completed]{.name data-type="lore/custom"}**—that an assigned operation is carried out to its specified end. An operation aborted in mid-execution is a failure that compromises every future operation.
-- **[The Mark Unrecorded]{.name data-type="lore/custom"}**—that the order's involvement in any operation is, to the extent possible, indeterminate after the fact. A target's death looks like an accident, an illness, a private quarrel; a building's burning looks like a candle-fire or a lightning-strike; a missing archive looks like clerical incompetence.
-- **[The Brother Silenced]{.name data-type="lore/custom"}**—that a Cinder Hand captured by the orthodox authorities must, by the same principle as [The Sanctity of the Secret]{.name data-type="lore/custom"} of the Ashen Vow, find means to silence himself before being made to speak. The Cinder discipline is harder: the brother is trained from his induction in the techniques and the doctrinal acceptance of his own silencing.
+[The Operation Completed]{.name data-type="lore/custom"}
+: that an assigned operation is carried out to its specified end. An operation aborted in mid-execution is a failure that compromises every future operation.
+
+[The Mark Unrecorded]{.name data-type="lore/custom"}
+: that the order's involvement in any operation is, to the extent possible, indeterminate after the fact. A target's death looks like an accident, an illness, a private quarrel; a building's burning looks like a candle-fire or a lightning-strike; a missing archive looks like clerical incompetence.
+
+[The Brother Silenced]{.name data-type="lore/custom"}
+: that a Cinder Hand captured by the orthodox authorities must, by the same principle as [The Sanctity of the Secret]{.name data-type="lore/custom"} of the Ashen Vow, find means to silence himself before being made to speak. The Cinder discipline is harder: the brother is trained from his induction in the techniques and the doctrinal acceptance of his own silencing.
 
 Operational training is exhaustive: hand-to-hand combat with concealable weapons, the alchemy of incendiaries and poisons, the techniques of forced entry and quiet exit, the rhetoric of impersonation, the construction of false trails, the maintenance of cover identities sometimes held for years before activation. A Cinder Hand frequently lives, for long periods, an ordinary public life as a merchant or a clerk or a journeyman of some craft, activated only when needed.
 
@@ -91,11 +101,20 @@ The order has, by its own discipline, neither confirmed nor denied involvement i
 
 ## Relations
 
-- **The [[affiliation-ordershnvw|Order of the Ashen Vow]]**—sister order; theological foundation; operational coordination. The two orders share doctrine and senior leadership lines but maintain strict operational separation. An Ashen Vow brother does not know which of his former brothers have been selected into the Cinder.
-- **The [[affiliation-sacredforge|Sacred Forge]]**—the primary theological enemy and the primary investigative threat. The Forge maintains a small cadre of investigators dedicated specifically to identifying Cinder operatives.
-- **The [[affiliation-ordrsldwrd|Order of the Sealed Word]] and [[affiliation-twinbldrdr|The Twinblade Order]]**—formal enemies; both orders carry standing arrangements with the Sacred Forge for cooperation against Cinder activity. The Cinder regards the Árdavon orders as professional opponents to be respected, evaded where possible, and removed where evasion fails.
-- **The Aureldian Crowns**—formally suppressive; informally less so where Black Flame protection extends.
-- **The [[affiliation-velvethand|Velvet Hand]]**—operational counterparty. The two organizations occasionally find themselves on opposite sides of the same operation; the recognition of professional capability has produced an informal protocol by which each will withdraw rather than engage the other if the recognition is mutual and the operations are not mutually exclusive.
+The [[affiliation-ordershnvw|Order of the Ashen Vow]]
+: sister order; theological foundation; operational coordination. The two orders share doctrine and senior leadership lines but maintain strict operational separation. An Ashen Vow brother does not know which of his former brothers have been selected into the Cinder.
+
+The [[affiliation-sacredforge|Sacred Forge]]
+: the primary theological enemy and the primary investigative threat. The Forge maintains a small cadre of investigators dedicated specifically to identifying Cinder operatives.
+
+The [[affiliation-ordrsldwrd|Order of the Sealed Word]] and [[affiliation-twinbldrdr|The Twinblade Order]]
+: formal enemies; both orders carry standing arrangements with the Sacred Forge for cooperation against Cinder activity. The Cinder regards the Árdavon orders as professional opponents to be respected, evaded where possible, and removed where evasion fails.
+
+The Aureldian Crowns
+: formally suppressive; informally less so where Black Flame protection extends.
+
+The [[affiliation-velvethand|Velvet Hand]]
+: operational counterparty. The two organizations occasionally find themselves on opposite sides of the same operation; the recognition of professional capability has produced an informal protocol by which each will withdraw rather than engage the other if the recognition is mutual and the operations are not mutually exclusive.
 
 ## Identifying Marks
 

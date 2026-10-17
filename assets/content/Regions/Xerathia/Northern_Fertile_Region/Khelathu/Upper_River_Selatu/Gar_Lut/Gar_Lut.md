@@ -23,7 +23,14 @@ Gar-Lut is the capital of the [[affiliation-selatgarlut|Selat of Gar-Lut]] and t
 
 ## See Also
 
-- [[affiliation-selatgarlut|The Selat of Gar-Lut]]—parent selat
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—the selat class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—imperial overview
-- [[affiliation-uznera|Faith of Uzn'era]]—patron cult
+[[affiliation-selatgarlut|The Selat of Gar-Lut]]
+: parent selat
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: the selat class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: imperial overview
+
+[[affiliation-uznera|Faith of Uzn'era]]
+: patron cult

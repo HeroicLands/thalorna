@@ -258,10 +258,23 @@ The copies close on the boy's answer, which the clerks have him give in the baza
 
 ## See Also
 
-- [[lore-heladweighing|The Weighing at Krusteikhos]]—the afternoon the first Warden set the brass standard on the balance
-- [[lore-heladordinance|The Ordinance of Arbiters]]—the ordinance the group on the arbitrator anticipates
-- [[lore-fivedefects|The Five Defects]]—the commander of the springs and the five declarations
-- [[lore-firstterms|The Hymn of the First Terms]]—the Keeper's two faces, the Wild Beast who would not seal
-- [[place-khryshteikhos2|Krusteikhos]]—the city of the Merchant Hall and its standard
-- [[lore-byzarianclt|Bizarian]]—the culture of the bargain
-- [[skill-byzarnlng|Bizarian]]—the bazaar's speech and its eastern particles
+[[lore-heladweighing|The Weighing at Krusteikhos]]
+: the afternoon the first Warden set the brass standard on the balance
+
+[[lore-heladordinance|The Ordinance of Arbiters]]
+: the ordinance the group on the arbitrator anticipates
+
+[[lore-fivedefects|The Five Defects]]
+: the commander of the springs and the five declarations
+
+[[lore-firstterms|The Hymn of the First Terms]]
+: the Keeper's two faces, the Wild Beast who would not seal
+
+[[place-khryshteikhos2|Krusteikhos]]
+: the city of the Merchant Hall and its standard
+
+[[lore-byzarianclt|Bizarian]]
+: the culture of the bargain
+
+[[skill-byzarnlng|Bizarian]]
+: the bazaar's speech and its eastern particles

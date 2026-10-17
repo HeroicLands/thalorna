@@ -24,5 +24,8 @@ Grimholt's one standing argument is with the tribes further up the same river, w
 
 ## See Also
 
-- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—The independent villages whose furs pass this landing
-- [[place-vrystwldrvrs|Vristwald Rivers]]—The waterways its landing serves
+[[affiliation-vrystwldtrbs|Vristwald Tribes]]
+: The independent villages whose furs pass this landing
+
+[[place-vrystwldrvrs|Vristwald Rivers]]
+: The waterways its landing serves

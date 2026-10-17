@@ -20,10 +20,17 @@ About 470 the Council of the Dream condemned the dream-line that works on the wa
 
 ## Rulers
 
-- **Gomarga:** **Vishanapala**, who did not ride.
-- **Bharyastan:** the council passed over an heir who had not ridden to Sharamukha, one of the kingdom's two acclamations in four centuries.
-- **Shikharalaya:** the Martial Council acclaimed a cousin over the heir about 450.
-- **Chendrapur:** about 450 the crown refused a House's succession for the first time, and that House lost its seat within a generation.
+Gomarga
+: **Vishanapala**, who did not ride.
+
+Bharyastan
+: the council passed over an heir who had not ridden to Sharamukha, one of the kingdom's two acclamations in four centuries.
+
+Shikharalaya
+: the Martial Council acclaimed a cousin over the heir about 450.
+
+Chendrapur
+: about 450 the crown refused a House's succession for the first time, and that House lost its seat within a generation.
 
 ## Its End
 
@@ -31,6 +38,11 @@ The age ends in 524 AF, 190 CP, the year before a kingdom up the river took Raje
 
 ## See Also
 
-- [[lore-hardgenrtn|The Hard Generation]] · [[lore-agepatrons|The Age of Patrons]]—the ages on either side
-- [[place-sharamukha|Sharamukha]]—the gorge-mouth where the Highland War was stopped
-- [[place-shunyakupa|Shunyakupa]]—the filled well of the empty circuit
+[[lore-hardgenrtn|The Hard Generation]] · [[lore-agepatrons|The Age of Patrons]]
+: the ages on either side
+
+[[place-sharamukha|Sharamukha]]
+: the gorge-mouth where the Highland War was stopped
+
+[[place-shunyakupa|Shunyakupa]]
+: the filled well of the empty circuit

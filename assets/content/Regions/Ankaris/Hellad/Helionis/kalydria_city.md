@@ -26,7 +26,14 @@ Kalidria sells what it makes. Sculptors and painters trained here are sought by 
 
 ## See Also
 
-- [[affiliation-kalydria|Kalidria]]—the city-state and its patron families
-- [[place-helionis|Helionis]]—the region and its city-states
-- [[lore-helioniteclt|Helionite]]—the culture, and the place of the hetairin in it
-- [[place-thyrenae2|Thirenae]], [[place-pelagora2|Pelagora]]—the sister cities
+[[affiliation-kalydria|Kalidria]]
+: the city-state and its patron families
+
+[[place-helionis|Helionis]]
+: the region and its city-states
+
+[[lore-helioniteclt|Helionite]]
+: the culture, and the place of the hetairin in it
+
+[[place-thyrenae2|Thirenae]], [[place-pelagora2|Pelagora]]
+: the sister cities

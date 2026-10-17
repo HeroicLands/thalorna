@@ -75,7 +75,14 @@ To the **far south** lie the coasts of an unnamed ocean and whatever exists beyo
 
 ## See Also
 
-- [[place-xerathia|Zerathia Continent]]—parent continent
-- [[place-cntrlrnfrsts|Central Rainforests]]—northern boundary
-- [[place-ekundavlg|Ékunda]]—savannah settlement
-- [[place-nrthrnfrtlrgn|Northern Fertile Region]]—distant northern civilizations, known only by rumor
+[[place-xerathia|Zerathia Continent]]
+: parent continent
+
+[[place-cntrlrnfrsts|Central Rainforests]]
+: northern boundary
+
+[[place-ekundavlg|Ékunda]]
+: savannah settlement
+
+[[place-nrthrnfrtlrgn|Northern Fertile Region]]
+: distant northern civilizations, known only by rumor

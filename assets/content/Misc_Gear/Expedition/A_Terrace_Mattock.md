@@ -16,5 +16,8 @@ A terrace wall that stands is a wall whose household has kept the mattock in use
 
 ## See Also
 
-- [[place-koathevoi|Koathevoi]]—the terrace town whose lowest walls are under water
-- [[place-klhrestrrc|The Eastern Terraces]]—the terraces the households work
+[[place-koathevoi|Koathevoi]]
+: the terrace town whose lowest walls are under water
+
+[[place-klhrestrrc|The Eastern Terraces]]
+: the terraces the households work

@@ -442,19 +442,37 @@ Hvarnthann sails because it is what he is—the sea is his whole self as well as
 
 ### Strengths
 
-- **Supernatural Navigation**: Hvarnthann can read weather patterns hours before they fully manifest and navigate by stars, currents, and the flight patterns of seabirds with accuracy that seems almost prescient. He has brought ships to port through storms that should have claimed them.
-- **Expert Seamanship**: Decades of practical experience at sea translate into a mastery of ship-handling, rigging, knot-work, and improvised repairs. He can coax a damaged vessel to harbor through sheer ingenuity.
-- **Crew Leadership**: Though he holds no official rank, sailors instinctively follow his guidance. He possesses the rare ability to maintain morale and discipline without resorting to tyranny, earning respect through competence and fairness.
-- **Environmental Intuition**: His perception of the natural world extends beyond water to weather, wildlife, and survival. He can provide food and freshwater where others would perish.
-- **Calm Under Extreme Pressure**: Combat, disaster, and catastrophe do not rattle Hvarnthann. His mind operates more clearly during crisis, enabling decisive action when others freeze.
+Supernatural Navigation
+: Hvarnthann can read weather patterns hours before they fully manifest and navigate by stars, currents, and the flight patterns of seabirds with accuracy that seems almost prescient. He has brought ships to port through storms that should have claimed them.
+
+Expert Seamanship
+: Decades of practical experience at sea translate into a mastery of ship-handling, rigging, knot-work, and improvised repairs. He can coax a damaged vessel to harbor through sheer ingenuity.
+
+Crew Leadership
+: Though he holds no official rank, sailors instinctively follow his guidance. He possesses the rare ability to maintain morale and discipline without resorting to tyranny, earning respect through competence and fairness.
+
+Environmental Intuition
+: His perception of the natural world extends beyond water to weather, wildlife, and survival. He can provide food and freshwater where others would perish.
+
+Calm Under Extreme Pressure
+: Combat, disaster, and catastrophe do not rattle Hvarnthann. His mind operates more clearly during crisis, enabling decisive action when others freeze.
 
 ### Weaknesses
 
-- **Contempt for Authority**: Hvarnthann chafes under rigid hierarchies and bureaucratic nonsense. Captains who rule through fear or blind adherence to rules without pragmatic consideration find him insubordinate and troublesome, despite his competence.
-- **Wanderlust Over Commitment**: His loyalty to any single employer or captain rarely exceeds a year or two. He perpetually hears the call of the horizon and grows restless with routine.
-- **Recklessness in Confidence**: His faith in his own abilities sometimes crosses the line into dangerous overconfidence. He will attempt risky maneuvers that could endanger the entire crew, believing his skill sufficient to overcome any hazard.
-- **Poor Administrative Skills**: Hvarnthann is hopeless with paperwork, contracts, and negotiation. He leaves himself vulnerable to exploitation by clever merchants and unscrupulous captains who take advantage of his disinterest in financial detail.
-- **Emotional Distance**: His comfort at sea translates to discomfort in cities and with land-dwellers. He struggles to maintain relationships beyond the crew, leaving him fundamentally alone despite his gregariousness.
+Contempt for Authority
+: Hvarnthann chafes under rigid hierarchies and bureaucratic nonsense. Captains who rule through fear or blind adherence to rules without pragmatic consideration find him insubordinate and troublesome, despite his competence.
+
+Wanderlust Over Commitment
+: His loyalty to any single employer or captain rarely exceeds a year or two. He perpetually hears the call of the horizon and grows restless with routine.
+
+Recklessness in Confidence
+: His faith in his own abilities sometimes crosses the line into dangerous overconfidence. He will attempt risky maneuvers that could endanger the entire crew, believing his skill sufficient to overcome any hazard.
+
+Poor Administrative Skills
+: Hvarnthann is hopeless with paperwork, contracts, and negotiation. He leaves himself vulnerable to exploitation by clever merchants and unscrupulous captains who take advantage of his disinterest in financial detail.
+
+Emotional Distance
+: His comfort at sea translates to discomfort in cities and with land-dwellers. He struggles to maintain relationships beyond the crew, leaving him fundamentally alone despite his gregariousness.
 
 ## Social
 
@@ -493,12 +511,17 @@ The Crew of the _Stormrider_
 
 ## Plot Hooks
 
-1. **The Lost Expedition**: A wealthy scholar approaches Hvarnthann with a commission to sail to the Shattered Archipelago in search of **ancient ruins of the Old Kingdom**, believed to hold libraries of lost knowledge. The last expedition to find them vanished seven years ago without sending word. The scholar, **Master Hvirninda**, is willing to pay extraordinary sums, but Hvarnthann discovers through cautious inquiry that the last crew encountered something in the deep caves that drove survivors mad. The archipelago itself seems to resist mapping—charts reveal contradictory information, and sailors report islands that weren't where they should be. The astronomical pay is set against investigating something that suggests the islands themselves are concealed by magic or a living intelligence.
+The Lost Expedition
+: A wealthy scholar approaches Hvarnthann with a commission to sail to the Shattered Archipelago in search of **ancient ruins of the Old Kingdom**, believed to hold libraries of lost knowledge. The last expedition to find them vanished seven years ago without sending word. The scholar, **Master Hvirninda**, is willing to pay extraordinary sums, but Hvarnthann discovers through cautious inquiry that the last crew encountered something in the deep caves that drove survivors mad. The archipelago itself seems to resist mapping—charts reveal contradictory information, and sailors report islands that weren't where they should be. The astronomical pay is set against investigating something that suggests the islands themselves are concealed by magic or a living intelligence.
 
-2. **The Mutiny Prophecy**: Hvarnthann joins the crew of the merchant vessel _Gyllir's Fortune_ under a captain he's worked with before, **Captain Thraskvir Draskendik**. Everything seems standard until the ship's seer, an ancient woman named **Velva Mervsnerv**, pulls Hvarnthann aside and describes a vivid vision: him standing over Thraskvir's corpse, sword in hand, crew watching in horror. She insists this future is "written in bone and blood" and that it will come to pass within the next lunar cycle. Hvarnthann initially dismisses this as superstition, but when he begins witnessing small events that align with the prophecy's details, doubt creeps in. Meanwhile, tensions simmer among the crew due to Thraskvir's increasingly erratic and brutal leadership. Hvarnthann has to steer between accepting a destiny he doesn't wish to fulfill and preventing a real tragedy born from poor captaincy.
+The Mutiny Prophecy
+: Hvarnthann joins the crew of the merchant vessel _Gyllir's Fortune_ under a captain he's worked with before, **Captain Thraskvir Draskendik**. Everything seems standard until the ship's seer, an ancient woman named **Velva Mervsnerv**, pulls Hvarnthann aside and describes a vivid vision: him standing over Thraskvir's corpse, sword in hand, crew watching in horror. She insists this future is "written in bone and blood" and that it will come to pass within the next lunar cycle. Hvarnthann initially dismisses this as superstition, but when he begins witnessing small events that align with the prophecy's details, doubt creeps in. Meanwhile, tensions simmer among the crew due to Thraskvir's increasingly erratic and brutal leadership. Hvarnthann has to steer between accepting a destiny he doesn't wish to fulfill and preventing a real tragedy born from poor captaincy.
 
-3. **The Leviathan's Wake**: Fishing vessels across the northern routes report unprecedented losses—ships returning with massive holes in their hulls, survivors speaking of something colossal moving beneath the waves. Merchant Princess Thruldselda commissions Hvarnthann to investigate and locate this creature before it destroys commerce in her waters. The deeper the investigation goes, the more Hvarnthann realizes this is not a natural creature: ancient texts recovered from sunken ships reference a being of living water called **Maelstrom**, bound by ritual into the depths centuries ago. Its binding appears to be failing, and its awakening could devastate all coastal civilizations. Hvarnthann can attempt the nearly suicidal task of re-binding the creature, seek out the scholar who might know the original ritual, or accept that some forces cannot be stopped.
+The Leviathan's Wake
+: Fishing vessels across the northern routes report unprecedented losses—ships returning with massive holes in their hulls, survivors speaking of something colossal moving beneath the waves. Merchant Princess Thruldselda commissions Hvarnthann to investigate and locate this creature before it destroys commerce in her waters. The deeper the investigation goes, the more Hvarnthann realizes this is not a natural creature: ancient texts recovered from sunken ships reference a being of living water called **Maelstrom**, bound by ritual into the depths centuries ago. Its binding appears to be failing, and its awakening could devastate all coastal civilizations. Hvarnthann can attempt the nearly suicidal task of re-binding the creature, seek out the scholar who might know the original ritual, or accept that some forces cannot be stopped.
 
-4. **The Stormrider's Secret**: Hvarnthann's favored vessel, the _Stormrider_, begins exhibiting impossible behavior—sails steering themselves, the helm responding to commands no one gave, the ship moving against wind and current as though guided by an invisible hand. The crew grows terrified, suggesting the ship is cursed or possessed. Hvarnthann, however, suspects something more complex: during routine repairs, he discovers carvings in the hold he doesn't remember being there—navigation symbols and ritual marks that seem deliberately constructed. Investigation reveals the ship was commissioned by a mage decades ago as a "thinking vessel," designed to guide itself through dangerous waters. The mage apparently placed a fragment of his own consciousness into the ship's construction. Now, this consciousness is awakening after decades of dormancy, and it has its own purposes. Hvarnthann must negotiate with an entity that is partly his beloved ship and partly something wholly alien, all while the crew demands he find a way to "cure" the vessel.
+The Stormrider's Secret
+: Hvarnthann's favored vessel, the _Stormrider_, begins exhibiting impossible behavior—sails steering themselves, the helm responding to commands no one gave, the ship moving against wind and current as though guided by an invisible hand. The crew grows terrified, suggesting the ship is cursed or possessed. Hvarnthann, however, suspects something more complex: during routine repairs, he discovers carvings in the hold he doesn't remember being there—navigation symbols and ritual marks that seem deliberately constructed. Investigation reveals the ship was commissioned by a mage decades ago as a "thinking vessel," designed to guide itself through dangerous waters. The mage apparently placed a fragment of his own consciousness into the ship's construction. Now, this consciousness is awakening after decades of dormancy, and it has its own purposes. Hvarnthann must negotiate with an entity that is partly his beloved ship and partly something wholly alien, all while the crew demands he find a way to "cure" the vessel.
 
-5. **The Divided Crown**: Civil war threatens to tear Vithgard apart as two noble claimants dispute succession to the throne. Both sides offer Hvarnthann staggering sums to use his ship's speed and stealth to transport military supplies, reconnaissance, or even assassination targets. Despite his usual political indifference, Hvarnthann discovers that the legitimate claimant is actually his distant cousin through his mother's line, someone he never knew existed. The other claimant, while politically skilled, has already demonstrated willingness to execute political opponents without trial. Hvarnthann has treacherous waters to cross, at sea and in politics alike, and the question is whether remaining neutral is still possible or his family duty and his conscience demand he choose a side in a conflict that could consume Vithgard.
+The Divided Crown
+: Civil war threatens to tear Vithgard apart as two noble claimants dispute succession to the throne. Both sides offer Hvarnthann staggering sums to use his ship's speed and stealth to transport military supplies, reconnaissance, or even assassination targets. Despite his usual political indifference, Hvarnthann discovers that the legitimate claimant is actually his distant cousin through his mother's line, someone he never knew existed. The other claimant, while politically skilled, has already demonstrated willingness to execute political opponents without trial. Hvarnthann has treacherous waters to cross, at sea and in politics alike, and the question is whether remaining neutral is still possible or his family duty and his conscience demand he choose a side in a conflict that could consume Vithgard.

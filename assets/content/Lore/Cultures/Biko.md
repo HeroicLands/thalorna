@@ -74,10 +74,23 @@ What the outsider cannot see is the tradition. The accents sound alike to an ear
 
 ## See Also
 
-- [[place-cntrlrnfrsts|Central Rainforests]]—the forest
-- [[skill-ekpelulng|Ekpelu]]—the tongue
-- [[skill-ekpelulng#lexicon|Ekpelu Lexicon]]—the words
-- [[lore-luwandoclt|Luwando]], [[lore-yesomaclt|Yesoma]], [[lore-kubindoclt|Kubindo]], [[lore-pewayeclt|Pewaye]]—the four traditions
-- [[place-lpdkngcrt|The Leopard King's Court]]—the feared tribe
-- [[lore-nyalubaclt|Nyáluba]]—the southern neighbours, through the Sengala
-- [[lore-okharinclt|Okharin]]—the northern neighbours
+[[place-cntrlrnfrsts|Central Rainforests]]
+: the forest
+
+[[skill-ekpelulng|Ekpelu]]
+: the tongue
+
+[[skill-ekpelulng#lexicon|Ekpelu Lexicon]]
+: the words
+
+[[lore-luwandoclt|Luwando]], [[lore-yesomaclt|Yesoma]], [[lore-kubindoclt|Kubindo]], [[lore-pewayeclt|Pewaye]]
+: the four traditions
+
+[[place-lpdkngcrt|The Leopard King's Court]]
+: the feared tribe
+
+[[lore-nyalubaclt|Nyáluba]]
+: the southern neighbours, through the Sengala
+
+[[lore-okharinclt|Okharin]]
+: the northern neighbours

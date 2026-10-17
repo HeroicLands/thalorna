@@ -26,7 +26,14 @@ The age ends with the reign of the philosopher-kings of Madustana, who fix the c
 
 ## See Also
 
-- [[lore-unnumbrdage|The Unnumbered Age]]—the age before it
-- [[lore-hghlndfndn|The Highland Foundations]]—the temples, the bow and the forest
-- [[place-puranasthana|Puranastana]]—the hill the upper river calls the ancestor's seat
-- [[lore-agekingdoms|The Age of Kingdoms]]—the age after it
+[[lore-unnumbrdage|The Unnumbered Age]]
+: the age before it
+
+[[lore-hghlndfndn|The Highland Foundations]]
+: the temples, the bow and the forest
+
+[[place-puranasthana|Puranastana]]
+: the hill the upper river calls the ancestor's seat
+
+[[lore-agekingdoms|The Age of Kingdoms]]
+: the age after it

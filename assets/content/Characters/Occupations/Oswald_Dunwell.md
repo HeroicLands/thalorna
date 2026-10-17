@@ -432,10 +432,14 @@ The crown's foresters, whom he has crossed at the forest court on a tenant's beh
 
 ## Plot Hooks
 
-1. **A Tenant Taken**—A tenant of Wilwald's has been taken by the foresters with a deer on his back, and the forest court will have his hand for it. Wilwald can speak for him and lose the foresters' goodwill for good, or say nothing and lose his tenants'.
+A Tenant Taken
+: A tenant of Wilwald's has been taken by the foresters with a deer on his back, and the forest court will have his hand for it. Wilwald can speak for him and lose the foresters' goodwill for good, or say nothing and lose his tenants'.
 
-2. **The Descent**—The court is coming to Kingshollow for the midwinter feast, and the royal household expects the manors to provision it. What it expects from Wilwald is most of his seed corn.
+The Descent
+: The court is coming to Kingshollow for the midwinter feast, and the royal household expects the manors to provision it. What it expects from Wilwald is most of his seed corn.
 
-3. **The Debt**—A neighboring lord has quietly bought up the loans Wilwald took to drain the meadow, and has called them in. The neighbor wants the land, not the money.
+The Debt
+: A neighboring lord has quietly bought up the loans Wilwald took to drain the meadow, and has called them in. The neighbor wants the land, not the money.
 
-4. **The Rotation Fails**—The Vylarian rotation that Wilwald pressed on his tenants for three years has failed in a wet season, and the manor is short. The gentry who mocked him are watching.
+The Rotation Fails
+: The Vylarian rotation that Wilwald pressed on his tenants for three years has failed in a wet season, and the manor is short. The gentry who mocked him are watching.

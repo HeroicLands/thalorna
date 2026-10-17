@@ -60,12 +60,23 @@ The street lies on the eastern side of the city, open for a few years at most be
 
 ## See Also
 
-- [[place-wilud|Vulud]]—the half-buried city
-- [[lore-towercities|The Tower Cities]]—the league that built it
-- [[lore-golemcrtr|Constructs]]—what the watchman is
-- [[affiliation-rwlstrb|Uruvolur]]—who found the street
-- [[lore-roadnights|The Nights of the Road]]—Uruvolun's tale of the street sold twice
-- [[scenario-wludwtchmn|The Watchman beneath Vulud]]—a scenario set here
+[[place-wilud|Vulud]]
+: the half-buried city
+
+[[lore-towercities|The Tower Cities]]
+: the league that built it
+
+[[lore-golemcrtr|Constructs]]
+: what the watchman is
+
+[[affiliation-rwlstrb|Uruvolur]]
+: who found the street
+
+[[lore-roadnights|The Nights of the Road]]
+: Uruvolun's tale of the street sold twice
+
+[[scenario-wludwtchmn|The Watchman beneath Vulud]]
+: a scenario set here
 
 # The Truth of Bolidqiiso {#truth .secret}
 

@@ -40,12 +40,23 @@ Kelodvootri is marked on no map and lies off every caravan track. A string blown
 
 ## See Also
 
-- [[place-hskrrgn|Khoshiqor]]—the sand range
-- [[lore-ownedoasis|The Owned Oasis]]—the custom of owned water
-- [[being-qelodud|Kelodud]]—what the owners say is in the well
-- [[lore-dreadspawncrtr|Dreadspawn]]—what is in it
-- [[lore-towercities|The Tower Cities]]—the builders who roofed the spring
-- [[scenario-weightwell|The Weight upon the Well]]—a scenario set here
+[[place-hskrrgn|Khoshiqor]]
+: the sand range
+
+[[lore-ownedoasis|The Owned Oasis]]
+: the custom of owned water
+
+[[being-qelodud|Kelodud]]
+: what the owners say is in the well
+
+[[lore-dreadspawncrtr|Dreadspawn]]
+: what is in it
+
+[[lore-towercities|The Tower Cities]]
+: the builders who roofed the spring
+
+[[scenario-weightwell|The Weight upon the Well]]
+: a scenario set here
 
 # The Truth of Kelodvootri {#truth .secret}
 

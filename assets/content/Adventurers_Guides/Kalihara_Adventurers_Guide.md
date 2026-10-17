@@ -41,8 +41,17 @@ A party arrives as crew, guards or factors on a spice ship, and the work is at t
 
 ## Where to Read Next
 
-- [[lore-kaliharanclt|The Kaliharans]]—the living whole, the keepers, patience and the household name
-- [[affiliation-kalihara|Kalihara]]—the Ithari, the ancient structures, the ports and the councils
-- [[affiliation-tharivaan|Thári'vaan]]—the observances, the custodians' ranks and the liturgies
-- [[place-klhrcntnnt|The Kalihara Continent]]—the island, the trade winds and the long return
-- [[skill-kalihrlng|Kalihari]]—the language, its names and how a household name is formed
+[[lore-kaliharanclt|The Kaliharans]]
+: the living whole, the keepers, patience and the household name
+
+[[affiliation-kalihara|Kalihara]]
+: the Ithari, the ancient structures, the ports and the councils
+
+[[affiliation-tharivaan|Thári'vaan]]
+: the observances, the custodians' ranks and the liturgies
+
+[[place-klhrcntnnt|The Kalihara Continent]]
+: the island, the trade winds and the long return
+
+[[skill-kalihrlng|Kalihari]]
+: the language, its names and how a household name is formed

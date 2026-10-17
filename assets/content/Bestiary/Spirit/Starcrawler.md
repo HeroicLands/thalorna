@@ -272,20 +272,29 @@ It is astonishingly fast, and it dodges blows that should not miss.
 
 ## Attributes
 
-- **Strength:** 6-9 (1d4+5)
+Strength
+: 6-9 (1d4+5)
 
-- **Endurance:** 7-10 (1d4+6)
+Endurance
+: 7-10 (1d4+6)
 
-- **Dexterity:** 15-18 (1d4+14)
+Dexterity
+: 15-18 (1d4+14)
 
-- **Agility:** 17-20 (1d4+16)
+Agility
+: 17-20 (1d4+16)
 
-- **Perception:** 7-10 (1d4+6)
+Perception
+: 7-10 (1d4+6)
 
-- **Aura:** 9-12 (1d4+8)
+Aura
+: 9-12 (1d4+8)
 
-- **Will:** 7-10 (1d4+6)
+Will
+: 7-10 (1d4+6)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 7-10 (1d4+6)
+Creativity
+: 7-10 (1d4+6)

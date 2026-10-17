@@ -44,6 +44,11 @@ The oasis is a moderate blood-field of the quickening kind: the palms fruit twic
 
 ## See Also
 
-- [[place-wemaq|Vomek]]—the oasis and its field
-- [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]—the union it began
-- [[lore-swdsclndr|The Sovidur Reckoning]]—the count that opens with it
+[[place-wemaq|Vomek]]
+: the oasis and its field
+
+[[lore-hndrdbnnrs|The Storm of the Hundred Banners]]
+: the union it began
+
+[[lore-swdsclndr|The Sovidur Reckoning]]
+: the count that opens with it

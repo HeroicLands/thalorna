@@ -22,7 +22,14 @@ If the sill stops, the stone goes cold in the hand and stays cold, though it loo
 
 ## See Also
 
-- [[place-stillwatersill|The Still-Water Sill]]—the work the stone belongs to
-- [[affiliation-lineagekuethori|The lineage Kuethori]]—the lineage that keeps the sill and its stone
-- [[place-mirthaan|Mirthaan]]—the sanctuary whose custodians tend the sill
-- [[lore-itharisul|Ithasul]]—the substance of the works, and the living and dead held stones
+[[place-stillwatersill|The Still-Water Sill]]
+: the work the stone belongs to
+
+[[affiliation-lineagekuethori|The lineage Kuethori]]
+: the lineage that keeps the sill and its stone
+
+[[place-mirthaan|Mirthaan]]
+: the sanctuary whose custodians tend the sill
+
+[[lore-itharisul|Ithasul]]
+: the substance of the works, and the living and dead held stones

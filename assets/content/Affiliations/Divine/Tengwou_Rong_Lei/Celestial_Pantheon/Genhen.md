@@ -83,9 +83,14 @@ sohl: {system: {commonSkills: []}}
 
 ## Genhén—The Minister of Entropy
 
-- **Bureau:** Huen Sei, The Bureau of Unraveling
-- **Domain:** Entropy
-- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+Bureau
+: Huen Sei, The Bureau of Unraveling
+
+Domain
+: Entropy
+
+Parent
+: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
 In Genhén's teaching, somebody must be responsible for things ending, and [Dao Zhaoléi]{.name data-type="lore/cosmology"}, the Great Sorting, appointed Genhén. Huen Sei
 conducts _authorized_ unraveling: the collapse of a structure that has outlived its classification,
@@ -99,11 +104,19 @@ of jurisdictional gaps in the administration.
 
 ### Lesser Spirits
 
-- **Henwo**—Controlled Dissolution Spirits, who execute authorized unraveling.
-- **Yoléi**—Trickster Spirits, who inhabit the boundary between classified order and the [Henléi]{.name data-type="lore/cosmology"}. Technically under Genhén's authority and notoriously difficult to administer.
+Henwo
+: Controlled Dissolution Spirits, who execute authorized unraveling.
+
+Yoléi
+: Trickster Spirits, who inhabit the boundary between classified order and the [Henléi]{.name data-type="lore/cosmology"}. Technically under Genhén's authority and notoriously difficult to administer.
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the mortal realm it administers
-- [[skill-tengchouscript|Teng Chou Script]]—the writing every petition is made in
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: the Celestial Bureaucracy this bureau belongs to
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the mortal realm it administers
+
+[[skill-tengchouscript|Teng Chou Script]]
+: the writing every petition is made in

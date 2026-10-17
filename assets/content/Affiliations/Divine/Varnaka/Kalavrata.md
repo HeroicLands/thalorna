@@ -48,10 +48,17 @@ sohl: {system: {commonSkills: [kalavrata, sohl-sohl-skill-pysn, sohl-sohl-skill-
 
 ## Kalavrata—The Gatekeeper of Death
 
-- **Domain:** Death, the passage of souls, the cycle of reincarnation, the impartial judgment between lives
-- **Symbol:** A black conch shell
-- **Pronunciation:** _KAH-lah-vrah-tah_
-- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
+Domain
+: Death, the passage of souls, the cycle of reincarnation, the impartial judgment between lives
+
+Symbol
+: A black conch shell
+
+Pronunciation
+: _KAH-lah-vrah-tah_
+
+Pantheon
+: [[affiliation-varakpnthn|Varnuka Pantheon]]
 
 "Do not bring him an offering, and do not ask him for anything," says the keeper of a village shrine to the young wife who has married into a house that has not yet seen a death in her time there. "Light the lamp when the illness turns. Keep your voice down while it burns. The rest is his." The instruction is close to the whole of Kalavrata, the devotion to [[lore-kalavratadty|Kalavrata]], revered throughout the [[place-vedyarargn|Vedyara Region]]. The reverence is austere: in its teaching, he grants no personal favor, answers no petition for long life or safe passage, and guides every soul from one body to the next without partiality. The faithful hold him high for exactly that.
 
@@ -73,9 +80,14 @@ At the onset of a final illness the household lamp is lit and tended until the p
 
 ### Ordeals for Favor
 
-- **[The Vigil of Final Breath]{.name data-type="lore/custom"}**—the devotee attends a dying stranger from the moment the lamp is lit until the conch has been sounded, without sleeping, without speaking, without flinching.
-- **[The Walk Between Fires]{.name data-type="lore/custom"}**—the devotee walks at night and alone between the cremation grounds of three villages, meditating on what is released at each.
-- **[The Silent Year]{.name data-type="lore/custom"}**—a year of total silence, broken only to speak the rites of passage for the dying.
+[The Vigil of Final Breath]{.name data-type="lore/custom"}
+: the devotee attends a dying stranger from the moment the lamp is lit until the conch has been sounded, without sleeping, without speaking, without flinching.
+
+[The Walk Between Fires]{.name data-type="lore/custom"}
+: the devotee walks at night and alone between the cremation grounds of three villages, meditating on what is released at each.
+
+[The Silent Year]{.name data-type="lore/custom"}
+: a year of total silence, broken only to speak the rites of passage for the dying.
 
 ### See Also
 

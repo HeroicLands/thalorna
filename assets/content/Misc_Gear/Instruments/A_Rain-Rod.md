@@ -22,7 +22,14 @@ A rod whose wind-stone works badly warms for some storms and not for others, and
 
 ## See Also
 
-- [[place-windstones|The Wind-Stones]]—the works the rods belong to
-- [[place-mirthaan|Mirthaan]]—the sanctuary that forms the wind-stones' custodians
-- [[place-kuomethei|Kuomethei]]—where the wind-stones' custodians winter
-- [[lore-itharisul|Ithasul]]—the substance of the works, and the living and dead held stones
+[[place-windstones|The Wind-Stones]]
+: the works the rods belong to
+
+[[place-mirthaan|Mirthaan]]
+: the sanctuary that forms the wind-stones' custodians
+
+[[place-kuomethei|Kuomethei]]
+: where the wind-stones' custodians winter
+
+[[lore-itharisul|Ithasul]]
+: the substance of the works, and the living and dead held stones

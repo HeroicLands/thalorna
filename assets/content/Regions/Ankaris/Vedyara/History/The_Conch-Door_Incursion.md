@@ -99,8 +99,17 @@ What Tantsou did afterward is a matter of record. Its frontier officers have reg
 
 ## See Also
 
-- [[place-sanghafort|The Sangra-fort]]—the garrison the incursion left
-- [[place-sankhadvra|Shankhadvara]]—the conch-door
-- [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—the confederation that raised the army
-- [[affiliation-hvarnguides|The Hvarn]]—the guides who feed the fort
-- [[lore-hndrdbnnrs|The Storm of the Hundred Banners]] · [[lore-thirdcmpct|The Third Compact]]—the rest of the crisis generation
+[[place-sanghafort|The Sangra-fort]]
+: the garrison the incursion left
+
+[[place-sankhadvra|Shankhadvara]]
+: the conch-door
+
+[[affiliation-janpdsvdyr|Janapadas of Vedyara]]
+: the confederation that raised the army
+
+[[affiliation-hvarnguides|The Hvarn]]
+: the guides who feed the fort
+
+[[lore-hndrdbnnrs|The Storm of the Hundred Banners]] · [[lore-thirdcmpct|The Third Compact]]
+: the rest of the crisis generation

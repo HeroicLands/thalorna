@@ -20,4 +20,5 @@ data:
 
 ## See Also
 
-- [[place-anlaghztnslt|Anlagh-Zetun Selat]]—the selat country that holds it
+[[place-anlaghztnslt|Anlagh-Zetun Selat]]
+: the selat country that holds it

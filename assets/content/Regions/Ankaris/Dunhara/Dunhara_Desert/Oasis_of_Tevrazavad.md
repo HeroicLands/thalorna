@@ -20,5 +20,8 @@ The oasis is the summer seat of [[being-trvshshrdr|Torvash Shiradar]], the chief
 
 ## See Also
 
-- [[place-dunhardsrtrgn|Dunhara Desert Region]]—the open desert around the oasis
-- [[affiliation-dunhartrbs|Dunhara Tribes]]—the confederations that range the country
+[[place-dunhardsrtrgn|Dunhara Desert Region]]
+: the open desert around the oasis
+
+[[affiliation-dunhartrbs|Dunhara Tribes]]
+: the confederations that range the country

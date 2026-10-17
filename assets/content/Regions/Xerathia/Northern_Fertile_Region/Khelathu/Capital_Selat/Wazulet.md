@@ -14,6 +14,11 @@ The **Wazulet** (the **Pure Place**) is a liminal quarter of [[place-galezkara|G
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The imperial city
-- [[place-zugezer|Zu-Gezer]]—The royal necropolis across the river
-- [[place-khelautithnt|Khelaut-Ithnet]]—The burial fields of everyone else
+[[place-galezkara|Galezkara]]
+: The imperial city
+
+[[place-zugezer|Zu-Gezer]]
+: The royal necropolis across the river
+
+[[place-khelautithnt|Khelaut-Ithnet]]
+: The burial fields of everyone else

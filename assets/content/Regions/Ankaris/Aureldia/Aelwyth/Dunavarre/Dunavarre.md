@@ -22,7 +22,8 @@ Its sheltered harbors, fertile coastal plains, and proximity to the mainland hav
 
 ## Notable Places
 
-- **[Celivren]{.name data-type="place"}:** Site of the prestigious [Royal Celivren Tournament of Chivalry]{.name data-type="lore/gathering"}, one of the foremost martial competitions on the island.
+[Celivren]{.name data-type="place"}
+: Site of the prestigious [Royal Celivren Tournament of Chivalry]{.name data-type="lore/gathering"}, one of the foremost martial competitions on the island.
 
 ## Population and Settlement
 
@@ -31,7 +32,14 @@ at about thirty-five hundred, and [[place-wraymouth|Wraymouth]], the chief harbo
 
 ## See Also
 
-- [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]—The kingdom that holds this land
-- [[place-aelwyth|Aelwyth]]—The island
-- [[place-ravenmoor|Ravenmoor]]—The seat
-- [[place-wraymouth|Wraymouth]]—The chief harbor
+[[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]
+: The kingdom that holds this land
+
+[[place-aelwyth|Aelwyth]]
+: The island
+
+[[place-ravenmoor|Ravenmoor]]
+: The seat
+
+[[place-wraymouth|Wraymouth]]
+: The chief harbor

@@ -296,20 +296,29 @@ Boars rely heavily on scent and can track wounded prey for considerable distance
 
 ## Attributes
 
-- **Strength:** 12-17 (1d6+11)
+Strength
+: 12-17 (1d6+11)
 
-- **Endurance:** 14-19 (1d6+13)
+Endurance
+: 14-19 (1d6+13)
 
-- **Agility:** 8-11 (1d4+7)
+Agility
+: 8-11 (1d4+7)
 
-- **Perception:** 8-13 (1d6+7)
+Perception
+: 8-13 (1d6+7)
 
-- **Scent:** 3-6 (1d4+2)
+Scent
+: 3-6 (1d4+2)
 
-- **Aura:** 3-6 (1d4+2)
+Aura
+: 3-6 (1d4+2)
 
-- **Will:** 13-18 (1d6+12)
+Will
+: 13-18 (1d6+12)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

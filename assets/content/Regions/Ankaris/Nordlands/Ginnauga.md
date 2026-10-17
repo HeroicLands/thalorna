@@ -24,7 +24,14 @@ The [[affiliation-nahild|Faith of Nahild]] takes an obsidian shard and the Eye o
 
 ## See Also
 
-- [[lore-theshadow|The Shadow]]—the corrupting force the Eye pours into the world
-- [[lore-nahilddty|Nahild]]—the goddess who wears the Eye and draws on it
-- [[affiliation-nahild|Faith of Nahild]]—the cult that venerates it
-- [[affiliation-nalok|Nalok]]—the Order of the Void, which widens its reach
+[[lore-theshadow|The Shadow]]
+: the corrupting force the Eye pours into the world
+
+[[lore-nahilddty|Nahild]]
+: the goddess who wears the Eye and draws on it
+
+[[affiliation-nahild|Faith of Nahild]]
+: the cult that venerates it
+
+[[affiliation-nalok|Nalok]]
+: the Order of the Void, which widens its reach

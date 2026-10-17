@@ -62,5 +62,8 @@ Say a family orders a toy for a child's naming-day, and a different family, in t
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu]]—The empire the guild's charter covers
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-aukhelathrgq|Au'Khelathu]]
+: The empire the guild's charter covers
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

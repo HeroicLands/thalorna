@@ -82,11 +82,20 @@ The [[affiliation-nuotsourui|Nuotsou Rui]] maintains discrete contact attributed
 
 ### See Also
 
-- [[affiliation-youweng|Youwéng]]—The Demon Realm where Yozhuo maintains custody
-- [[affiliation-watsai|Watsai]]—The Forger of False Records, occasional client of Yozhuo's services
-- [[affiliation-nuoho|Nuoho]]—The Burning Dissolution, who has employed Yozhuo's counterfeit seals
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The Celestial Bureaucracy whose seals Yozhuo counterfeits
-- [[affiliation-nuotsourui|Nuotsou Rui]]—The mortal cult that traffics with Yozhuo for forged documents
+[[affiliation-youweng|Youwéng]]
+: The Demon Realm where Yozhuo maintains custody
+
+[[affiliation-watsai|Watsai]]
+: The Forger of False Records, occasional client of Yozhuo's services
+
+[[affiliation-nuoho|Nuoho]]
+: The Burning Dissolution, who has employed Yozhuo's counterfeit seals
+
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: The Celestial Bureaucracy whose seals Yozhuo counterfeits
+
+[[affiliation-nuotsourui|Nuotsou Rui]]
+: The mortal cult that traffics with Yozhuo for forged documents
 
 ## Outside the Ladder
 

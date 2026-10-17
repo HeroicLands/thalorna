@@ -22,6 +22,11 @@ A guild council and merchant-princes govern [[affiliation-orashion|Órashion]], 
 
 ## See Also
 
-- [[affiliation-orashion|Órashion]]—the city-state and its guild council
-- [[place-byzariargn|Bizaria Region]]—the League's country
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation it arms
+[[affiliation-orashion|Órashion]]
+: the city-state and its guild council
+
+[[place-byzariargn|Bizaria Region]]
+: the League's country
+
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation it arms

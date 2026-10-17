@@ -444,27 +444,37 @@ Thamiyra's primary motivation is survival combined with the acquisition of secur
 
 ### Strengths
 
-- **Master of Social Navigation**: Her eloquence, charm, and discourse make her unsurpassed in reading rooms and adapting her presentation. She can negotiate, persuade, and charm her way through virtually any gathering.
+Master of Social Navigation
+: Her eloquence, charm, and discourse make her unsurpassed in reading rooms and adapting her presentation. She can negotiate, persuade, and charm her way through virtually any gathering.
 
-- **Keen Perception and Awareness**: She notices the smallest details—a trembling hand, an avoided gaze, the pause before a lie. Few secrets remain hidden from her observation.
+Keen Perception and Awareness
+: She notices the smallest details—a trembling hand, an avoided gaze, the pause before a lie. Few secrets remain hidden from her observation.
 
-- **Physical Grace and Agility**: Her agility and dancing are famed among the noble courts. She moves with such fluidity that observers find themselves mesmerized, and she can pass through treacherous ground—both literal and social—with great poise.
+Physical Grace and Agility
+: Her agility and dancing are famed among the noble courts. She moves with such fluidity that observers find themselves mesmerized, and she can pass through treacherous ground—both literal and social—with great poise.
 
-- **Artisan of Words**: Her talents in singing, script, and theater allow her to craft narratives, forge documents when needed, and present versions of truth that are difficult to refute. She understands language as both art and weapon.
+Artisan of Words
+: Her talents in singing, script, and theater allow her to craft narratives, forge documents when needed, and present versions of truth that are difficult to refute. She understands language as both art and weapon.
 
-- **Strategic Intellect**: Despite not being a warrior, her reasoning and intrigue make her dangerous in political machinations. She thinks several moves ahead.
+Strategic Intellect
+: Despite not being a warrior, her reasoning and intrigue make her dangerous in political machinations. She thinks several moves ahead.
 
 ### Weaknesses
 
-- **Emotional Isolation**: Years of maintaining facades have made real vulnerability difficult. She struggles to form truly deep connections, always maintaining a protective distance that can make her seem cold to those who attempt intimacy.
+Emotional Isolation
+: Years of maintaining facades have made real vulnerability difficult. She struggles to form truly deep connections, always maintaining a protective distance that can make her seem cold to those who attempt intimacy.
 
-- **Reputation Fragility**: Despite her current position, she remains haunted by her past scandal. New revelations or political shifts could destabilize everything she has built. This knowledge makes her overly cautious and sometimes paralyzes her in moments when bolder action might serve her better.
+Reputation Fragility
+: Despite her current position, she remains haunted by her past scandal. New revelations or political shifts could destabilize everything she has built. This knowledge makes her overly cautious and sometimes paralyzes her in moments when bolder action might serve her better.
 
-- **Physical Vulnerability**: Her strength is among her lowest attributes. She is not built for direct confrontation and cannot win through physical force, making her dependent on allies for protection in dangerous situations.
+Physical Vulnerability
+: Her strength is among her lowest attributes. She is not built for direct confrontation and cannot win through physical force, making her dependent on allies for protection in dangerous situations.
 
-- **Limited Survival Skills**: While she knows survival craft in theory, she is truly a creature of civilization. Without servants, luxuries, and structured society, she quickly becomes uncomfortable. Wilderness terrifies her.
+Limited Survival Skills
+: While she knows survival craft in theory, she is truly a creature of civilization. Without servants, luxuries, and structured society, she quickly becomes uncomfortable. Wilderness terrifies her.
 
-- **Dependence on Patrons**: Despite her independence, she still requires the financial and political support of her network. This creates subtle but real constraints on her autonomy.
+Dependence on Patrons
+: Despite her independence, she still requires the financial and political support of her network. This creates subtle but real constraints on her autonomy.
 
 ## Social
 
@@ -500,12 +510,17 @@ Merchant Rival Selena Moros
 
 ## Plot Hooks
 
-1. **The Forged Seal**: Thamiyra discovers that the diplomatic correspondence that caused her scandal—which she always believed authentic—was actually a clever fabrication created by a third party to manipulate both her patrons and their enemies. The original architect of this scheme, whom she has never identified, is now making moves to blackmail her with proof of the forgery. She must uncover who orchestrated the original deception before this unknown enemy can use it against her entire network.
+The Forged Seal
+: Thamiyra discovers that the diplomatic correspondence that caused her scandal—which she always believed authentic—was actually a clever fabrication created by a third party to manipulate both her patrons and their enemies. The original architect of this scheme, whom she has never identified, is now making moves to blackmail her with proof of the forgery. She must uncover who orchestrated the original deception before this unknown enemy can use it against her entire network.
 
-2. **The Daughter's Claim**: A young woman arrives claiming to be Thamiyra's illegitimate daughter from a long-ago affair with a powerful noble, born shortly after he died. The woman seeks to establish her claim to his substantial inheritance, which would require Thamiyra to testify about the relationship. The complication: Thamiyra has no memory of being pregnant or bearing a child. Someone may have carefully orchestrated an elaborate deception, or she may have been deliberately made to forget through mystical means. Either way, this revelation threatens to unravel everything.
+The Daughter's Claim
+: A young woman arrives claiming to be Thamiyra's illegitimate daughter from a long-ago affair with a powerful noble, born shortly after he died. The woman seeks to establish her claim to his substantial inheritance, which would require Thamiyra to testify about the relationship. The complication: Thamiyra has no memory of being pregnant or bearing a child. Someone may have carefully orchestrated an elaborate deception, or she may have been deliberately made to forget through mystical means. Either way, this revelation threatens to unravel everything.
 
-3. **The Competitor's Peril**: A wealthy patron who has recently begun shifting his attention from Thamiyra to her rival Selena Moros asks Thamiyra to help him understand why Selena is suddenly refusing his advances. When Thamiyra investigates, she discovers Selena has been captured and imprisoned by persons unknown, forced into servitude far from Au'Khelathu. Despite their rivalry, Thamiyra can risk her own position attempting a rescue, or use the situation to eliminate her competition permanently.
+The Competitor's Peril
+: A wealthy patron who has recently begun shifting his attention from Thamiyra to her rival Selena Moros asks Thamiyra to help him understand why Selena is suddenly refusing his advances. When Thamiyra investigates, she discovers Selena has been captured and imprisoned by persons unknown, forced into servitude far from Au'Khelathu. Despite their rivalry, Thamiyra can risk her own position attempting a rescue, or use the situation to eliminate her competition permanently.
 
-4. **The Encrypted Archive**: While researching a potential new patron's background, Thamiyra discovers references to a secret archive hidden within the imperial archives—a collection of forbidden documents, love letters, and political intelligence gathered over centuries. Multiple factions are searching for it, and they believe she has knowledge of its location because her father worked in the archives. She must pick her way between those who would kill for the information and those who would pay kingdoms to suppress it.
+The Encrypted Archive
+: While researching a potential new patron's background, Thamiyra discovers references to a secret archive hidden within the imperial archives—a collection of forbidden documents, love letters, and political intelligence gathered over centuries. Multiple factions are searching for it, and they believe she has knowledge of its location because her father worked in the archives. She must pick her way between those who would kill for the information and those who would pay kingdoms to suppress it.
 
-5. **The Scribe's Redemption**: An elderly scribe named [[being-thalegezu2|Thalegezu]], who once worked alongside Thamiyra's father, approaches her with a deathbed confession. He claims that the scandal that nearly destroyed her was not orchestrated by enemies but by her own mother, as part of a larger scheme to protect Thamiyra from something worse. He cannot fully explain before he dies, but leaves her with a cryptic journal that suggests a dark truth about her early life, her family's loyalties, and her connection to something the imperial court would kill to keep secret.
+The Scribe's Redemption
+: An elderly scribe named [[being-thalegezu2|Thalegezu]], who once worked alongside Thamiyra's father, approaches her with a deathbed confession. He claims that the scandal that nearly destroyed her was not orchestrated by enemies but by her own mother, as part of a larger scheme to protect Thamiyra from something worse. He cannot fully explain before he dies, but leaves her with a cryptic journal that suggests a dark truth about her early life, her family's loyalties, and her connection to something the imperial court would kill to keep secret.

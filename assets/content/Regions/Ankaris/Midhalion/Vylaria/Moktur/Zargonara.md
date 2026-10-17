@@ -22,6 +22,11 @@ A muleteer who hauls ore down from the lodes to the furnaces of [[place-stennvol
 
 ## See Also
 
-- [[affiliation-provncmktr|Province of Moktur]]—parent province
-- [[place-moktur|Moktur]]—the land of the lodes
-- [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview
+[[affiliation-provncmktr|Province of Moktur]]
+: parent province
+
+[[place-moktur|Moktur]]
+: the land of the lodes
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: imperial overview

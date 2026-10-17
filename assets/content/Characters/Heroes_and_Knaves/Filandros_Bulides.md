@@ -454,27 +454,37 @@ Sakozes is driven by a desire to preserve what he considers to be the essential 
 
 ### Strengths
 
-- **Voice and Presence**: His voice is a trained instrument capable of expressing any emotion with perfect clarity, carrying across vast spaces and commanding attention without ever needing to raise his volume to an unpleasant level. His physical presence complements this—he has learned to stand, move, and gesture in ways that maximize his natural authority.
+Voice and Presence
+: His voice is a trained instrument capable of expressing any emotion with perfect clarity, carrying across vast spaces and commanding attention without ever needing to raise his volume to an unpleasant level. His physical presence complements this—he has learned to stand, move, and gesture in ways that maximize his natural authority.
 
-- **Encyclopedic Knowledge of Ceremony**: Sakozes knows the proper form, precedent, and usage for virtually any ceremonial situation. He can handle the most complex heraldic requirements with ease and can instantly identify when someone has violated established usage.
+Encyclopedic Knowledge of Ceremony
+: Sakozes knows the proper form, precedent, and usage for virtually any ceremonial situation. He can handle the most complex heraldic requirements with ease and can instantly identify when someone has violated established usage.
 
-- **Political Acumen**: Despite his focus on ceremony, he has developed a subtle understanding of political currents and where power lies. He knows which nobles are allies, which are rivals, and how to use the forms of ceremony to score subtle political points.
+Political Acumen
+: Despite his focus on ceremony, he has developed a subtle understanding of political currents and where power lies. He knows which nobles are allies, which are rivals, and how to use the forms of ceremony to score subtle political points.
 
-- **Trainer and Educator**: Though he expresses frustration with the younger generation, he is actually quite skilled at teaching heraldic arts and has trained several competent heralds, even if none have lived up to his hopes.
+Trainer and Educator
+: Though he expresses frustration with the younger generation, he is actually quite skilled at teaching heraldic arts and has trained several competent heralds, even if none have lived up to his hopes.
 
-- **Stability**: In times of chaos or transition, his commitment to proper form and continuity provides stability. When everything else seems uncertain, the presence of a herald maintaining proper ceremony becomes a reassuring anchor.
+Stability
+: In times of chaos or transition, his commitment to proper form and continuity provides stability. When everything else seems uncertain, the presence of a herald maintaining proper ceremony becomes a reassuring anchor.
 
 ### Weaknesses
 
-- **Resistance to Necessary Change**: His commitment to tradition sometimes blinds him to legitimate improvements or necessary adaptations. He has been known to oppose beneficial changes simply because they deviate from established form.
+Resistance to Necessary Change
+: His commitment to tradition sometimes blinds him to legitimate improvements or necessary adaptations. He has been known to oppose beneficial changes simply because they deviate from established form.
 
-- **Limited Flexibility**: Outside of ceremonial contexts, he is often at a loss. Informal situations make him uncomfortable, and he may respond with stiff formality when a more relaxed approach would be appropriate.
+Limited Flexibility
+: Outside of ceremonial contexts, he is often at a loss. Informal situations make him uncomfortable, and he may respond with stiff formality when a more relaxed approach would be appropriate.
 
-- **Judgment of Others**: His tendency to view those who embrace change or informality as somehow lesser has made him enemies among the reform-minded. His dismissal can be cutting and has wounded people who might otherwise respect his knowledge.
+Judgment of Others
+: His tendency to view those who embrace change or informality as somehow lesser has made him enemies among the reform-minded. His dismissal can be cutting and has wounded people who might otherwise respect his knowledge.
 
-- **Vulnerability to Time**: At forty-five, he is becoming aware that his power and relevance depend on continued employment in a ceremonial role. He has begun to worry about what will happen if the city government decides to move away from formal ceremonies or if his age begins to affect his performance.
+Vulnerability to Time
+: At forty-five, he is becoming aware that his power and relevance depend on continued employment in a ceremonial role. He has begun to worry about what will happen if the city government decides to move away from formal ceremonies or if his age begins to affect his performance.
 
-- **Emotional Restraint**: His training in perfect control sometimes creates a barrier between himself and real human connection. Those closest to him have noted that he can seem distant or emotionally unavailable despite his intellectual warmth.
+Emotional Restraint
+: His training in perfect control sometimes creates a barrier between himself and real human connection. Those closest to him have noted that he can seem distant or emotionally unavailable despite his intellectual warmth.
 
 ## Social
 
@@ -510,12 +520,17 @@ The Order of Ceremony Preservationists
 
 ## Plot Hooks
 
-1. **The New Herald's Challenge**: A young herald named **Varakion** arrives in Bizaris from the outer territories, bearing letters that mark him as a Herald of considerable skill and training, but also as someone raised in a tradition quite different from Bizaris's formal ceremonial system. Varakion begins to be assigned to important state functions, and his approach to these events is notable for its flexibility and novelty. Where Sakozes would follow strict precedent, Varakion adapts ceremony to the specific needs and personalities of those involved. Initially, Sakozes views this as disrespectful novelty, but as he watches, he begins to notice that Varakion's ceremonies, while different, are actually deeply effective—perhaps more effective than his own more rigid performances. The question this puts to him is whether preserving tradition matters more than serving its purpose.
+The New Herald's Challenge
+: A young herald named **Varakion** arrives in Bizaris from the outer territories, bearing letters that mark him as a Herald of considerable skill and training, but also as someone raised in a tradition quite different from Bizaris's formal ceremonial system. Varakion begins to be assigned to important state functions, and his approach to these events is notable for its flexibility and novelty. Where Sakozes would follow strict precedent, Varakion adapts ceremony to the specific needs and personalities of those involved. Initially, Sakozes views this as disrespectful novelty, but as he watches, he begins to notice that Varakion's ceremonies, while different, are actually deeply effective—perhaps more effective than his own more rigid performances. The question this puts to him is whether preserving tradition matters more than serving its purpose.
 
-2. **The Lost Ceremonial Texts**: Scholars discover that several volumes of the oldest heraldic texts—records dating back over two centuries detailing the development of ceremonial forms and their meanings—have been lost or destroyed. Sakozes becomes obsessed with locating these texts, believing they may contain crucial information about the original purposes and meanings of ceremonies that have been practiced for generations without understanding their deeper significance. His search takes him to forgotten libraries, isolated temples, and even to negotiations with scholars and priests who may have fragments of these texts. As he pieces together the lost knowledge, he begins to discover that some of the ceremonies he has practiced his entire life may be based on corrupted or misunderstood versions of the original forms, and that his entire life may have been built on a partial truth.
+The Lost Ceremonial Texts
+: Scholars discover that several volumes of the oldest heraldic texts—records dating back over two centuries detailing the development of ceremonial forms and their meanings—have been lost or destroyed. Sakozes becomes obsessed with locating these texts, believing they may contain crucial information about the original purposes and meanings of ceremonies that have been practiced for generations without understanding their deeper significance. His search takes him to forgotten libraries, isolated temples, and even to negotiations with scholars and priests who may have fragments of these texts. As he pieces together the lost knowledge, he begins to discover that some of the ceremonies he has practiced his entire life may be based on corrupted or misunderstood versions of the original forms, and that his entire life may have been built on a partial truth.
 
-3. **The Ceremony That Changed Everything**: Sakozes is asked to preside over a ceremony of unprecedented importance: the formal resolution of a territorial dispute between the Bizarian League and a neighboring kingdom, to be sealed through ceremonial oath and ritual. However, he begins to suspect that some of the parties involved intend to use the ceremony itself as a means to bind one of the other parties into an agreement that violates the actual terms they negotiated. The problem is that if he exposes this plan openly, it will humiliate all involved and potentially shatter the fragile peace. Yet if he allows the ceremony to proceed, he will be complicit in a betrayal of the values that ceremony is meant to uphold. He must find a way to preserve both the form and the truth of the occasion.
+The Ceremony That Changed Everything
+: Sakozes is asked to preside over a ceremony of unprecedented importance: the formal resolution of a territorial dispute between the Bizarian League and a neighboring kingdom, to be sealed through ceremonial oath and ritual. However, he begins to suspect that some of the parties involved intend to use the ceremony itself as a means to bind one of the other parties into an agreement that violates the actual terms they negotiated. The problem is that if he exposes this plan openly, it will humiliate all involved and potentially shatter the fragile peace. Yet if he allows the ceremony to proceed, he will be complicit in a betrayal of the values that ceremony is meant to uphold. He must find a way to preserve both the form and the truth of the occasion.
 
-4. **The Prophecy Spoken in Ceremony**: During an important state ceremony, as Sakozes speaks the traditional words of blessing and acknowledgment, his voice inexplicably changes and he begins to speak words he does not consciously compose—ancient words in a language he does not know, prophecies of events yet to come. The experience is deeply disturbing to him, and he is uncertain whether it was a divine intervention, a momentary mental disturbance, or something else entirely. When portions of the prophecy begin to manifest, people begin to seek him out, believing him to be a conduit for divine will. Sakozes has to bear the sudden elevation in status while trying to understand what occurred and what his new role might be.
+The Prophecy Spoken in Ceremony
+: During an important state ceremony, as Sakozes speaks the traditional words of blessing and acknowledgment, his voice inexplicably changes and he begins to speak words he does not consciously compose—ancient words in a language he does not know, prophecies of events yet to come. The experience is deeply disturbing to him, and he is uncertain whether it was a divine intervention, a momentary mental disturbance, or something else entirely. When portions of the prophecy begin to manifest, people begin to seek him out, believing him to be a conduit for divine will. Sakozes has to bear the sudden elevation in status while trying to understand what occurred and what his new role might be.
 
-5. **The Guild's Dark Secret**: As senior member of the Heralds' Guild, Sakozes gains access to the deepest archives of the organization. There, he discovers historical records suggesting that heralds in previous eras have occasionally used their position to influence major political events through subtle manipulation of ceremony and the careful interpretation of precedent. More disturbing, he discovers evidence that some of his predecessors may have been complicit in hidden crimes—murders, betrayals, and political manipulations that were concealed through careful control of the official record and the ceremonial processes that documented historical events. He can expose these crimes and alter for good how his beloved institution is seen, or protect the guild's reputation by keeping the silence that has covered these secrets for centuries.
+The Guild's Dark Secret
+: As senior member of the Heralds' Guild, Sakozes gains access to the deepest archives of the organization. There, he discovers historical records suggesting that heralds in previous eras have occasionally used their position to influence major political events through subtle manipulation of ceremony and the careful interpretation of precedent. More disturbing, he discovers evidence that some of his predecessors may have been complicit in hidden crimes—murders, betrayals, and political manipulations that were concealed through careful control of the official record and the ceremonial processes that documented historical events. He can expose these crimes and alter for good how his beloved institution is seen, or protect the guild's reputation by keeping the silence that has covered these secrets for centuries.

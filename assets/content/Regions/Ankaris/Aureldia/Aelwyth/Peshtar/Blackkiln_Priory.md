@@ -41,8 +41,17 @@ The clearing lies a day's walk into the pines from the Ondarethan border posts, 
 
 ## See Also
 
-- [[place-pshtrwldrns|Peshtar Wilderness]]—the forest country the priory stands in
-- [[affiliation-repblcndrth|Republic of Ondareth]]—whose money raised it
-- [[affiliation-blackflame|The Black Flame]]—the creed of the cell
-- [[affiliation-sacredforge|The Sacred Forge]]—the creative reading of the same fire
-- [[lore-theshadow|The Shadow]]—what the black fire has become
+[[place-pshtrwldrns|Peshtar Wilderness]]
+: the forest country the priory stands in
+
+[[affiliation-repblcndrth|Republic of Ondareth]]
+: whose money raised it
+
+[[affiliation-blackflame|The Black Flame]]
+: the creed of the cell
+
+[[affiliation-sacredforge|The Sacred Forge]]
+: the creative reading of the same fire
+
+[[lore-theshadow|The Shadow]]
+: what the black fire has become

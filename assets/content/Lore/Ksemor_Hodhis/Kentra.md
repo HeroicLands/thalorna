@@ -148,11 +148,26 @@ A few have escaped. A very few have found their way to foreign teachers. What be
 
 ## See Also
 
-- [[affiliation-hexhodai|Zemor Hodhis]]—The Zemor Hodhis framework
-- [[affiliation-pyrethos|Rhezin Pirethos]]—Fire
-- [[affiliation-hydalis|Rhezin Hidalis]]—Water
-- [[affiliation-zepharis|Rhezin Zefaris]]—Air
-- [[affiliation-physera|Rhezin Fisera]]—Earth
-- [[affiliation-sideros|Rhezin Sideris]]—Metal
-- [[affiliation-pneumenos|Rhezin Neumenos]]—Spirit
-- [[affiliation-ordoarcanis|Thordimalon]]—The institution that produces (and is quietly unsettled by) Kentra mages
+[[affiliation-hexhodai|Zemor Hodhis]]
+: The Zemor Hodhis framework
+
+[[affiliation-pyrethos|Rhezin Pirethos]]
+: Fire
+
+[[affiliation-hydalis|Rhezin Hidalis]]
+: Water
+
+[[affiliation-zepharis|Rhezin Zefaris]]
+: Air
+
+[[affiliation-physera|Rhezin Fisera]]
+: Earth
+
+[[affiliation-sideros|Rhezin Sideris]]
+: Metal
+
+[[affiliation-pneumenos|Rhezin Neumenos]]
+: Spirit
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: The institution that produces (and is quietly unsettled by) Kentra mages

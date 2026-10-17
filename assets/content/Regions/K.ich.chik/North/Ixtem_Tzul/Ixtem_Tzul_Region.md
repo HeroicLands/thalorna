@@ -36,6 +36,11 @@ The No'kin maintain active trade relationships with all four of the other northe
 
 ## See Also
 
-- [[affiliation-ixtemtzul|Ishtem Tsul]]—The realm that holds this land
-- [[place-nrthrnkchchk|Northern K'ich'chik]]—The enclosing region
-- [[place-ixtemtzul2|Ishtem Tsul]]—Seat of Ishtem Tsul
+[[affiliation-ixtemtzul|Ishtem Tsul]]
+: The realm that holds this land
+
+[[place-nrthrnkchchk|Northern K'ich'chik]]
+: The enclosing region
+
+[[place-ixtemtzul2|Ishtem Tsul]]
+: Seat of Ishtem Tsul

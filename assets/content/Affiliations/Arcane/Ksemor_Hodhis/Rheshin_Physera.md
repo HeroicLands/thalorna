@@ -101,8 +101,17 @@ Politically, the Zulen Fisera is a stabilizing force within the Order. Its membe
 
 ## See Also
 
-- [[affiliation-hexhodai|Zemor Hodhis]]—The Zemor Hodhis framework
-- [[affiliation-pneumenos|Rhezin Neumenos]]—The opposing _rhezin_
-- [[affiliation-zepharis|Rhezin Zefaris]]—Adjacent _rhezin_ (the natural world)
-- [[affiliation-hydalis|Rhezin Hidalis]]—Adjacent _rhezin_ (sustenance and growth)
-- [[affiliation-ordoarcanis|Thordimalon]]—The institution that teaches and regulates Fisera magic
+[[affiliation-hexhodai|Zemor Hodhis]]
+: The Zemor Hodhis framework
+
+[[affiliation-pneumenos|Rhezin Neumenos]]
+: The opposing _rhezin_
+
+[[affiliation-zepharis|Rhezin Zefaris]]
+: Adjacent _rhezin_ (the natural world)
+
+[[affiliation-hydalis|Rhezin Hidalis]]
+: Adjacent _rhezin_ (sustenance and growth)
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: The institution that teaches and regulates Fisera magic

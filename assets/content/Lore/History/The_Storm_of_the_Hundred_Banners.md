@@ -93,9 +93,20 @@ The storm opened a hard generation for Vedyara. While the kingdoms were looking 
 
 ## See Also
 
-- [[place-wstrndscnt|The Western Descent]] · [[place-marchroad|The march road]]—the way the host came
-- [[affiliation-bhumipala|Bhumipala]]—the march kingdom whose forts were built after it
-- [[lore-marupalafl|The Fall of Marupala]] · [[place-lanthusthli|Lantustali]]—the march kingdom that died under it, and the field it left
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the steppe it came from
-- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the walls it reached
-- [[lore-conchdoor|The Conch-Door Incursion]] · [[lore-thirdcmpct|The Third Compact]]—the rest of the crisis generation
+[[place-wstrndscnt|The Western Descent]] · [[place-marchroad|The march road]]
+: the way the host came
+
+[[affiliation-bhumipala|Bhumipala]]
+: the march kingdom whose forts were built after it
+
+[[lore-marupalafl|The Fall of Marupala]] · [[place-lanthusthli|Lantustali]]
+: the march kingdom that died under it, and the field it left
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the steppe it came from
+
+[[affiliation-kngdmmrdd|Kingdom of Amradad]]
+: the walls it reached
+
+[[lore-conchdoor|The Conch-Door Incursion]] · [[lore-thirdcmpct|The Third Compact]]
+: the rest of the crisis generation

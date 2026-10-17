@@ -24,6 +24,11 @@ The physicians keep the weed and brew it for the town's sleepless and its wounde
 
 ## See Also
 
-- [[place-ithorianu|Ithorianu]]—the lake town whose physicians brew it
-- [[place-klhrlake|The Bowl Lake]]—the water the weed grows in
-- [[place-stillwatersill|The Still-Water Sill]]—the work that holds the lake to its level
+[[place-ithorianu|Ithorianu]]
+: the lake town whose physicians brew it
+
+[[place-klhrlake|The Bowl Lake]]
+: the water the weed grows in
+
+[[place-stillwatersill|The Still-Water Sill]]
+: the work that holds the lake to its level

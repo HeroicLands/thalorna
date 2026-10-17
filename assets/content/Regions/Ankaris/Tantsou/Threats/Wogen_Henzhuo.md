@@ -67,21 +67,35 @@ The confederation is held together by his person and by plunder. A season withou
 
 ### Enemies
 
-- **The northern Warlords**: the Zhazho lords whose provinces he raids, each of whom would win the court's favor by bringing back his head and none of whom will yet cooperate with the others to do it.
+The northern Warlords
+: the Zhazho lords whose provinces he raids, each of whom would win the court's favor by bringing back his head and none of whom will yet cooperate with the others to do it.
 
 ### Affiliations
 
-- **The Hénhatou confederation**: the tribes of the Black Wilds, sworn to him as their single war-leader.
+The Hénhatou confederation
+: the tribes of the Black Wilds, sworn to him as their single war-leader.
 
 ## Plot Hooks
 
-1. **The Burned Granaries**: A chain of supply depots in the northern provinces burns in one night. The garrison commander blames the riders; the party finds a forged order that emptied the guard the night before, and the forger was someone inside the province.
-2. **An Offer to the Exiles**: Wogen's envoys are seeking out exiled Wohou and rebel factions, offering them places in the realm he means to carve from the north. One of them has approached [[being-tuijawengyan|Tuija Wengyan]], and the empire would pay well to know the answer.
-3. **The Lost Caravan**: A Shuonong merchant's caravan vanished on the northern road with a cargo the merchant will not name. The steppe riders have it, and Wogen is willing to bargain for something other than silver.
-4. **The Example**: Peasants in a northern district, crushed by war taxes, have begun to say the Master Tiger would treat them better than their lord. The magistrate wants the talk stopped, and the people saying it are not wrong about the taxes.
+The Burned Granaries
+: A chain of supply depots in the northern provinces burns in one night. The garrison commander blames the riders; the party finds a forged order that emptied the guard the night before, and the forger was someone inside the province.
+
+An Offer to the Exiles
+: Wogen's envoys are seeking out exiled Wohou and rebel factions, offering them places in the realm he means to carve from the north. One of them has approached [[being-tuijawengyan|Tuija Wengyan]], and the empire would pay well to know the answer.
+
+The Lost Caravan
+: A Shuonong merchant's caravan vanished on the northern road with a cargo the merchant will not name. The steppe riders have it, and Wogen is willing to bargain for something other than silver.
+
+The Example
+: Peasants in a northern district, crushed by war taxes, have begun to say the Master Tiger would treat them better than their lord. The magistrate wants the talk stopped, and the people saying it are not wrong about the taxes.
 
 ## See Also
 
-- [[being-tuijawengyan|Tuija Wengyan]]—the exiled general whose rebellion could join Wogen's war
-- [[place-grkrhlmrgn|Grukarholm Region]]—the northern marches between the empire and the steppe
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the power he presses against
+[[being-tuijawengyan|Tuija Wengyan]]
+: the exiled general whose rebellion could join Wogen's war
+
+[[place-grkrhlmrgn|Grukarholm Region]]
+: the northern marches between the empire and the steppe
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the power he presses against

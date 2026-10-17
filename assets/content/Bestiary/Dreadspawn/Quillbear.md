@@ -338,20 +338,29 @@ Fire burns its quills and fur and drives it into a panic, and smoke forces it ou
 
 ## Attributes
 
-- **Strength:** 19-24 (1d6+18)
+Strength
+: 19-24 (1d6+18)
 
-- **Endurance:** 15-20 (1d6+14)
+Endurance
+: 15-20 (1d6+14)
 
-- **Dexterity:** 10-13 (1d4+9)
+Dexterity
+: 10-13 (1d4+9)
 
-- **Agility:** 7-12 (1d6+6)
+Agility
+: 7-12 (1d6+6)
 
-- **Perception:** 11-16 (1d6+10)
+Perception
+: 11-16 (1d6+10)
 
-- **Aura:** 7-12 (1d6+6)
+Aura
+: 7-12 (1d6+6)
 
-- **Will:** 14-17 (1d4+13)
+Will
+: 14-17 (1d4+13)
 
-- **Reasoning:** 5-10 (1d6+4)
+Reasoning
+: 5-10 (1d6+4)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

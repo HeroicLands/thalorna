@@ -75,11 +75,20 @@ A worshipper carries an ember for the destructive power of fire, a charred bone 
 
 Every rung belongs to a forge-hov:
 
-- Refused the Blet: denied the offering at a forge-hov during its [[lore-fireweeks|Fire-Weeks]], and cut from the clergy and from the ordeal that proves devotion there.
-- Bletmadr: attends the blet at a forge-hov and shares its ember-offering.
-- Hofsmadr: given to a forge-hov young, laboring at its bellows and its Fire-Weeks before any claim to the priesthood.
-- Gudi / Gudja: ordained to keep a forge-hov's rites and its Fire-Weeks.
-- Hofgudi / Hofgudja: consecrates forge-hovs, ordains their gudar, and performs the great blet and the Fire-Weeks at a season's turning.
+Refused the Blet
+: denied the offering at a forge-hov during its [[lore-fireweeks|Fire-Weeks]], and cut from the clergy and from the ordeal that proves devotion there.
+
+Bletmadr
+: attends the blet at a forge-hov and shares its ember-offering.
+
+Hofsmadr
+: given to a forge-hov young, laboring at its bellows and its Fire-Weeks before any claim to the priesthood.
+
+Gudi / Gudja
+: ordained to keep a forge-hov's rites and its Fire-Weeks.
+
+Hofgudi / Hofgudja
+: consecrates forge-hovs, ordains their gudar, and performs the great blet and the Fire-Weeks at a season's turning.
 
 The faith teaches fire manipulation and pyromancy, battle tactics and warfare, the rites of destruction and rebirth, and forge and metalworking. Two kinds of servant belong to the god: the **Fire Giants**, massive beings of flame and stone who serve as his warriors and guardians, and the **Infernal Hounds**, fierce, flame-breathing beasts that hunt down his enemies.
 
@@ -95,6 +104,11 @@ Two ordeals are held to win his favor. In the **[Firewalk]{.name data-type="lore
 
 ## See Also
 
-- [[affiliation-smideldr|Smideldr]]—the Order of the Inferno, priests who master fire as blacksmiths and forge-masters
-- [[affiliation-eldulfr|Eldúlfr]]—the Infernal Blades, elite warriors proven by the forge-hovs' own ordeals
-- [[affiliation-eldverdir|Eldverdir]]—the Flameguard, a militant order guarding Svartbrandr's forge-hovs with fire
+[[affiliation-smideldr|Smideldr]]
+: the Order of the Inferno, priests who master fire as blacksmiths and forge-masters
+
+[[affiliation-eldulfr|Eldúlfr]]
+: the Infernal Blades, elite warriors proven by the forge-hovs' own ordeals
+
+[[affiliation-eldverdir|Eldverdir]]
+: the Flameguard, a militant order guarding Svartbrandr's forge-hovs with fire

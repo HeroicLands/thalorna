@@ -28,7 +28,14 @@ Behind the harbor the old city climbs in a maze of narrow streets, covered bazaa
 
 ## See Also
 
-- [[affiliation-besikar|Besikar]]—the city-state
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the confederation it leads
-- [[place-tamzirshoals|Tamzir Shoals]]—the battle its monument remembers
-- [[place-taruzelrgn|Taruzel Region]]—the regional overview
+[[affiliation-besikar|Besikar]]
+: the city-state
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the confederation it leads
+
+[[place-tamzirshoals|Tamzir Shoals]]
+: the battle its monument remembers
+
+[[place-taruzelrgn|Taruzel Region]]
+: the regional overview

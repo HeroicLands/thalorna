@@ -23,7 +23,14 @@ A clerk in the Halzi'a's household sorts the town for the drivers who come in of
 
 ## See Also
 
-- [[affiliation-seltkhqtmntq|The Selat of Khuqet-Imntiqa]]—Parent selat
-- [[affiliation-borderselatu|The Border Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-uqaa|Faith of Uqa'a]]—Patron cult
+[[affiliation-seltkhqtmntq|The Selat of Khuqet-Imntiqa]]
+: Parent selat
+
+[[affiliation-borderselatu|The Border Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-uqaa|Faith of Uqa'a]]
+: Patron cult

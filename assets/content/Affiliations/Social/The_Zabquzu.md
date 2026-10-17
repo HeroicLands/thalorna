@@ -48,4 +48,5 @@ If you are one, tell the commander the reason before he finds it. The skill is t
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the region it belongs to
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the region it belongs to

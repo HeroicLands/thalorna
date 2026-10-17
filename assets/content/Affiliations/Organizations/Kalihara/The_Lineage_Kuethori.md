@@ -67,8 +67,17 @@ The Kuethori sit in [[affiliation-councilisland|The Council of the Island]] thro
 
 ## See Also
 
-- [[place-kuethori|Kuethori]]—the village at the head of the gap, the lineage's seat
-- [[place-klhrkthrgap|The Kuethori Gap]]—the gorge the lineage holds
-- [[place-stillwatersill|The Still-Water Sill]]—the work across the river
-- [[place-koathevoi|Koathevoi]]—the terrace town the risen lake has reached
-- [[affiliation-councilisland|The Council of the Island]]—where the Elder sits
+[[place-kuethori|Kuethori]]
+: the village at the head of the gap, the lineage's seat
+
+[[place-klhrkthrgap|The Kuethori Gap]]
+: the gorge the lineage holds
+
+[[place-stillwatersill|The Still-Water Sill]]
+: the work across the river
+
+[[place-koathevoi|Koathevoi]]
+: the terrace town the risen lake has reached
+
+[[affiliation-councilisland|The Council of the Island]]
+: where the Elder sits

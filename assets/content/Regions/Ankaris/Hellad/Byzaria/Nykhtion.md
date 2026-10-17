@@ -23,6 +23,11 @@ Its weight in the League is out of proportion to that number. Every major mercha
 
 ## See Also
 
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation of city-states
-- [[place-byzariargn|Bizaria Region]]—regional overview
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the faith of its temples
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation of city-states
+
+[[place-byzariargn|Bizaria Region]]
+: regional overview
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the faith of its temples

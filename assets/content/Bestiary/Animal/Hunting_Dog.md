@@ -266,20 +266,29 @@ Hunting dogs fight far more effectively alongside other trained dogs, and they c
 
 ## Attributes
 
-- **Strength:** 7-10 (1d4+6)
+Strength
+: 7-10 (1d4+6)
 
-- **Endurance:** 8-11 (1d4+7)
+Endurance
+: 8-11 (1d4+7)
 
-- **Agility:** 11-16 (1d6+10)
+Agility
+: 11-16 (1d6+10)
 
-- **Perception:** 18-23 (1d6+17)
+Perception
+: 18-23 (1d6+17)
 
-- **Scent:** 5-8 (1d4+4)
+Scent
+: 5-8 (1d4+4)
 
-- **Aura:** 3-6 (1d4+2)
+Aura
+: 3-6 (1d4+2)
 
-- **Will:** 10-15 (1d6+9)
+Will
+: 10-15 (1d6+9)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

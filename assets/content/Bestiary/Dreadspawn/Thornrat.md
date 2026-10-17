@@ -308,20 +308,29 @@ Fire burns their spines and skin and drives them off, and burning their heaps is
 
 ## Attributes
 
-- **Strength:** 4-7 (1d4+3)
+Strength
+: 4-7 (1d4+3)
 
-- **Endurance:** 7-10 (1d4+6)
+Endurance
+: 7-10 (1d4+6)
 
-- **Dexterity:** 9-12 (1d4+8)
+Dexterity
+: 9-12 (1d4+8)
 
-- **Agility:** 13-16 (1d4+12)
+Agility
+: 13-16 (1d4+12)
 
-- **Perception:** 7-10 (1d4+6)
+Perception
+: 7-10 (1d4+6)
 
-- **Will:** 6-9 (1d4+5)
+Will
+: 6-9 (1d4+5)
 
-- **Creativity:** 7-10 (1d4+6)
+Creativity
+: 7-10 (1d4+6)
 
-- **Aura:** 3-6 (1d4+2)
+Aura
+: 3-6 (1d4+2)
 
-- **Reasoning:** 4-7 (1d4+3)
+Reasoning
+: 4-7 (1d4+3)

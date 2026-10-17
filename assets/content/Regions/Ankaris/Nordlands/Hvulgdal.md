@@ -18,5 +18,8 @@ A farmer of Hvulgdal with a quarrel over seed-corn or a share of the threshing t
 
 ## See Also
 
-- [[being-brldrvgrnshld|Bruldorv Greenshield]]—the jarl's counselor on agriculture
-- [[place-nrdlndsrgn|Nordlands]]—the region the dale belongs to
+[[being-brldrvgrnshld|Bruldorv Greenshield]]
+: the jarl's counselor on agriculture
+
+[[place-nrdlndsrgn|Nordlands]]
+: the region the dale belongs to

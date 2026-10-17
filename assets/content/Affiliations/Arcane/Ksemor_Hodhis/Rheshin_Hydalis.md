@@ -103,8 +103,17 @@ The Zulen Hidalis is not without its own ambitions, however. Its members underst
 
 ## See Also
 
-- [[affiliation-hexhodai|Zemor Hodhis]]—The Zemor Hodhis framework
-- [[affiliation-pyrethos|Rhezin Pirethos]]—The opposing _rhezin_
-- [[affiliation-physera|Rhezin Fisera]]—Adjacent _rhezin_ (sustenance)
-- [[affiliation-sideros|Rhezin Sideris]]—Adjacent _rhezin_ (patience)
-- [[affiliation-ordoarcanis|Thordimalon]]—The institution that teaches and regulates Hidalis magic
+[[affiliation-hexhodai|Zemor Hodhis]]
+: The Zemor Hodhis framework
+
+[[affiliation-pyrethos|Rhezin Pirethos]]
+: The opposing _rhezin_
+
+[[affiliation-physera|Rhezin Fisera]]
+: Adjacent _rhezin_ (sustenance)
+
+[[affiliation-sideros|Rhezin Sideris]]
+: Adjacent _rhezin_ (patience)
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: The institution that teaches and regulates Hidalis magic

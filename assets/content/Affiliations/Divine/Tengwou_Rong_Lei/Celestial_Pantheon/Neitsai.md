@@ -83,9 +83,14 @@ sohl: {system: {commonSkills: []}}
 
 ## Neitsai—The Minister of Continuity
 
-- **Bureau:** Tsai Sei, The Bureau of Creation
-- **Domain:** Continuity
-- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+Bureau
+: Tsai Sei, The Bureau of Creation
+
+Domain
+: Continuity
+
+Parent
+: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
 In Neitsai's teaching, Tsai Sei resists change, which is its function and not its failing. It ensures that things continue
 to be what they were classified as: that a lineage breeds true, that a craft is transmitted intact,
@@ -98,11 +103,19 @@ of a craft gho here.
 
 ### Lesser Spirits
 
-- **[Wouchéi]{.name data-type="lore/spirit"}**—The Instructor, associated with the transmission of knowledge and technique across generations; where Neitsai preserves biological continuity, Wouchéi preserves cultural continuity.
-- **Zhawo**—Continuity Spirits, who ensure that living things reproduce according to their classification.
+[Wouchéi]{.name data-type="lore/spirit"}
+: The Instructor, associated with the transmission of knowledge and technique across generations; where Neitsai preserves biological continuity, Wouchéi preserves cultural continuity.
+
+Zhawo
+: Continuity Spirits, who ensure that living things reproduce according to their classification.
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the mortal realm it administers
-- [[skill-tengchouscript|Teng Chou Script]]—the writing every petition is made in
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: the Celestial Bureaucracy this bureau belongs to
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the mortal realm it administers
+
+[[skill-tengchouscript|Teng Chou Script]]
+: the writing every petition is made in

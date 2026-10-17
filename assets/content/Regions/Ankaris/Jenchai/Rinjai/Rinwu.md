@@ -25,6 +25,11 @@ Hoja's judges, chosen from his retainers, hear the town's cases.
 
 ## See Also
 
-- [[affiliation-rinjaidmn|Rinjai Domain]]—the house and its lord
-- [[place-rinjai|Rinjai]]—the mountain
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[affiliation-rinjaidmn|Rinjai Domain]]
+: the house and its lord
+
+[[place-rinjai|Rinjai]]
+: the mountain
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

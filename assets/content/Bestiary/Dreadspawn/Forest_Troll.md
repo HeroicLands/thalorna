@@ -483,20 +483,29 @@ In its own wood, the troll makes the forest move: roots erupt from the soil, bra
 
 ## Attributes
 
-- **Strength:** 30-35 (1d6+29)
+Strength
+: 30-35 (1d6+29)
 
-- **Endurance:** 24-29 (1d6+23)
+Endurance
+: 24-29 (1d6+23)
 
-- **Dexterity:** 7-10 (1d4+6)
+Dexterity
+: 7-10 (1d4+6)
 
-- **Agility:** 7-10 (1d4+6)
+Agility
+: 7-10 (1d4+6)
 
-- **Perception:** 9-12 (1d4+8)
+Perception
+: 9-12 (1d4+8)
 
-- **Aura:** 10-13 (1d4+9)
+Aura
+: 10-13 (1d4+9)
 
-- **Will:** 11-14 (1d4+10)
+Will
+: 11-14 (1d4+10)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

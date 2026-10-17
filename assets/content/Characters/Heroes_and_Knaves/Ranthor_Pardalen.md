@@ -448,21 +448,43 @@ Ranthor is motivated by a commitment to prevent the suffering he experienced in 
 
 ### Strengths
 
-- **Combat-Ready Spiritual Training:** Unlike most shamans, Ranthor is a dangerous physical combatant; he can fight effectively in melee or from range and weaves shamanic techniques into his martial skill.
-- **Mediation:** Ranthor has brokered peace between groups that seemed implacably opposed; his ability to understand both sides of a dispute and find face-saving compromises is rare.
-- **Practical Ritual Mastery:** His rituals are designed to have measurable, practical effects—they heal injuries, calm anxious minds, steel warriors' resolve—rather than seeking communion with abstract spiritual forces.
-- **Strategic Political Understanding:** His years in royal service combined with shamanic training give him a deep understanding of how power works in both court and tribe; he handles political tangles with considerable skill.
-- **Unshakeable Moral Authority:** Ranthor's reputation for absolute integrity gives his words and judgments enormous weight; even those who dislike him respect his honesty and consistency.
-- **Mixed Heritage Insight:** His background spanning both civilization and shamanic tradition, military and mystical training, gives him unique perspective on seemingly irreconcilable conflicts.
+Combat-Ready Spiritual Training
+: Unlike most shamans, Ranthor is a dangerous physical combatant; he can fight effectively in melee or from range and weaves shamanic techniques into his martial skill.
+
+Mediation
+: Ranthor has brokered peace between groups that seemed implacably opposed; his ability to understand both sides of a dispute and find face-saving compromises is rare.
+
+Practical Ritual Mastery
+: His rituals are designed to have measurable, practical effects—they heal injuries, calm anxious minds, steel warriors' resolve—rather than seeking communion with abstract spiritual forces.
+
+Strategic Political Understanding
+: His years in royal service combined with shamanic training give him a deep understanding of how power works in both court and tribe; he handles political tangles with considerable skill.
+
+Unshakeable Moral Authority
+: Ranthor's reputation for absolute integrity gives his words and judgments enormous weight; even those who dislike him respect his honesty and consistency.
+
+Mixed Heritage Insight
+: His background spanning both civilization and shamanic tradition, military and mystical training, gives him unique perspective on seemingly irreconcilable conflicts.
 
 ### Weaknesses
 
-- **Dismissal of Mysticism:** His grounding in pragmatism can prevent him from recognizing or accepting true mystical phenomena that don't fit his rational framework; he may dismiss real spiritual threats as superstition.
-- **Limitations in Work:** He is significantly less capable than purely mystical shamans at accessing the deepest levels of spirit realm communion, astral projection, or pure visionary work.
-- **Isolation Among Peers:** His unconventional approach and skepticism have made him somewhat isolated from the broader shamanic community; he lacks the deep support among fellow shamans that others enjoy.
-- **Vulnerability to Emotional Isolation:** His commitment to pragmatism and distance can mask deep loneliness; he allows few people close enough to truly know him.
-- **Past Conflicts Unresolved:** His history of serving both kingdom and tribe, and his mysterious past symbolized by the crown, suggests unresolved conflicts or secrets that could become liabilities if exposed.
-- **Underestimation of Subtle Threats:** His tendency to value what is concrete and observable can cause him to miss elaborate conspiracies, subtle magic, or threats that operate through indirection rather than direct confrontation.
+Dismissal of Mysticism
+: His grounding in pragmatism can prevent him from recognizing or accepting true mystical phenomena that don't fit his rational framework; he may dismiss real spiritual threats as superstition.
+
+Limitations in Work
+: He is significantly less capable than purely mystical shamans at accessing the deepest levels of spirit realm communion, astral projection, or pure visionary work.
+
+Isolation Among Peers
+: His unconventional approach and skepticism have made him somewhat isolated from the broader shamanic community; he lacks the deep support among fellow shamans that others enjoy.
+
+Vulnerability to Emotional Isolation
+: His commitment to pragmatism and distance can mask deep loneliness; he allows few people close enough to truly know him.
+
+Past Conflicts Unresolved
+: His history of serving both kingdom and tribe, and his mysterious past symbolized by the crown, suggests unresolved conflicts or secrets that could become liabilities if exposed.
+
+Underestimation of Subtle Threats
+: His tendency to value what is concrete and observable can cause him to miss elaborate conspiracies, subtle magic, or threats that operate through indirection rather than direct confrontation.
 
 ## Social
 
@@ -501,12 +523,17 @@ The Order of Balanced Stone
 
 ## Plot Hooks
 
-1. **The Crown's True Story:**: A royal emissary from the Kingdom of Élavendre arrives seeking Ranthor's assistance with a diplomatic crisis, and in conversation references details about Ranthor's past military service that he has never shared publicly. The emissary hints that Ranthor may have fled the kingdom under complicated circumstances, possibly involving a scandal or failure. Ranthor neither confirms nor denies the suggestion, but the party is drawn into investigating his history and the true meaning of the crown tattoo. He may be a disgraced noble, a traitor to the kingdom, or a man who was framed; the truth—if revealed—could either vindicate him or destroy the careful peace he has built between kingdom and tribe.
+The Crown's True Story:
+: A royal emissary from the Kingdom of Élavendre arrives seeking Ranthor's assistance with a diplomatic crisis, and in conversation references details about Ranthor's past military service that he has never shared publicly. The emissary hints that Ranthor may have fled the kingdom under complicated circumstances, possibly involving a scandal or failure. Ranthor neither confirms nor denies the suggestion, but the party is drawn into investigating his history and the true meaning of the crown tattoo. He may be a disgraced noble, a traitor to the kingdom, or a man who was framed; the truth—if revealed—could either vindicate him or destroy the careful peace he has built between kingdom and tribe.
 
-2. **The Impossible Dispute:**: Two communities in a conflict that threatens the survival of both approach Ranthor through neutral channels with an offer: if he mediates and achieves peace, they will grant him something he has long desired (perhaps information about his past, perhaps territory, perhaps spiritual knowledge). The problem is that this particular conflict involves irreconcilable moral positions—one side must be fundamentally wrong, and compromise means both sides become partially complicit in evil. Ranthor's famed ability to find middle ground is tested to its limits, and the party is drawn into helping him through a situation where his pragmatic approach may not be enough.
+The Impossible Dispute:
+: Two communities in a conflict that threatens the survival of both approach Ranthor through neutral channels with an offer: if he mediates and achieves peace, they will grant him something he has long desired (perhaps information about his past, perhaps territory, perhaps spiritual knowledge). The problem is that this particular conflict involves irreconcilable moral positions—one side must be fundamentally wrong, and compromise means both sides become partially complicit in evil. Ranthor's famed ability to find middle ground is tested to its limits, and the party is drawn into helping him through a situation where his pragmatic approach may not be enough.
 
-3. **The Shamanic Civil War:**: Internal tensions within the Tribal Council of Shamans erupt into open conflict between the traditionalist faction and Ranthor's pragmatist faction. The traditionalists attempt to have Ranthor expelled from the council, claiming he has betrayed core shamanic principles through his association with the kingdom and his skepticism toward pure mysticism. Ranthor is forced to defend his work and his honor, but he refuses to engage in the kind of political maneuvering necessary to win the conflict. The party can help Ranthor through shamanic politics or stand aside and let him face the consequences of his refusal to play the game.
+The Shamanic Civil War:
+: Internal tensions within the Tribal Council of Shamans erupt into open conflict between the traditionalist faction and Ranthor's pragmatist faction. The traditionalists attempt to have Ranthor expelled from the council, claiming he has betrayed core shamanic principles through his association with the kingdom and his skepticism toward pure mysticism. Ranthor is forced to defend his work and his honor, but he refuses to engage in the kind of political maneuvering necessary to win the conflict. The party can help Ranthor through shamanic politics or stand aside and let him face the consequences of his refusal to play the game.
 
-4. **The Kingdom's Dark Turn:**: Ranthor receives information suggesting that elements within the Kingdom of Élavendre are preparing for aggressive expansion against tribal lands, and that his peace-brokering work has been deliberately used as cover for military preparation. He also discovers that some of his students and allies may be being used as unwitting spies. Faced with the possibility that his life's work of building peace has been corrupted and used as camouflage for warmongering, Ranthor can inform the tribes and risk war, or secretly investigate and attempt to prevent the expansion without revealing that the kingdom's intentions have been discovered.
+The Kingdom's Dark Turn:
+: Ranthor receives information suggesting that elements within the Kingdom of Élavendre are preparing for aggressive expansion against tribal lands, and that his peace-brokering work has been deliberately used as cover for military preparation. He also discovers that some of his students and allies may be being used as unwitting spies. Faced with the possibility that his life's work of building peace has been corrupted and used as camouflage for warmongering, Ranthor can inform the tribes and risk war, or secretly investigate and attempt to prevent the expansion without revealing that the kingdom's intentions have been discovered.
 
-5. **The Spirit's Contract:**: Ranthor is visited by a powerful spirit that claims to have watched over him throughout his life and is now calling in an old debt: the spirit demands that Ranthor perform a ritual that will require significant personal sacrifice, and that will have great consequences for the balance of power between kingdom and tribe. The spirit refuses to explain why this ritual is necessary or what will happen if Ranthor refuses. Ranthor's pragmatism and spiritual commitment come into direct conflict, and he cannot tell whether he is being manipulated by a hostile entity claiming to be benevolent, or whether he truly does owe a debt beyond his current understanding.
+The Spirit's Contract:
+: Ranthor is visited by a powerful spirit that claims to have watched over him throughout his life and is now calling in an old debt: the spirit demands that Ranthor perform a ritual that will require significant personal sacrifice, and that will have great consequences for the balance of power between kingdom and tribe. The spirit refuses to explain why this ritual is necessary or what will happen if Ranthor refuses. Ranthor's pragmatism and spiritual commitment come into direct conflict, and he cannot tell whether he is being manipulated by a hostile entity claiming to be benevolent, or whether he truly does owe a debt beyond his current understanding.

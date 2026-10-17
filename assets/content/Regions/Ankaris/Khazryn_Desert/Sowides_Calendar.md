@@ -65,13 +65,25 @@ The era left a town with its walls whole and nobody in it, a silence that kills 
 
 Each era's count is a fixed offset from a Vylarian year, and the day of the season is the same day of the Vylarian year, so only the year changes.
 
-- **The Silent Market:** add 547 to the year for the year AF. 173 SM is 720 AF.
-- **The Hundred Banners:** add 311 for the year AF. 1 HB is 312 AF.
-- **The Lantern Union:** the first 190 years fall before the Founding, so subtract the year from 191 for the year BF. 1 LU is 190 BF and 190 LU is 1 BF. From 191 LU, subtract 190 for the year AF.
-- **Before the Lantern Union:** add 190 for the year BF. 1 BLU is 191 BF.
+The Silent Market
+: add 547 to the year for the year AF. 173 SM is 720 AF.
+
+The Hundred Banners
+: add 311 for the year AF. 1 HB is 312 AF.
+
+The Lantern Union
+: the first 190 years fall before the Founding, so subtract the year from 191 for the year BF. 1 LU is 190 BF and 190 LU is 1 BF. From 191 LU, subtract 190 for the year AF.
+
+Before the Lantern Union
+: add 190 for the year BF. 1 BLU is 191 BF.
 
 ## See Also
 
-- [[lore-commoncal|The Vylarian Calendar]]—the count the steppe's dates are carried to
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the steppe the count belongs to
-- [[lore-towercities|The Tower Cities]] · [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]—two of the histories it counts from
+[[lore-commoncal|The Vylarian Calendar]]
+: the count the steppe's dates are carried to
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the steppe the count belongs to
+
+[[lore-towercities|The Tower Cities]] · [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]
+: two of the histories it counts from

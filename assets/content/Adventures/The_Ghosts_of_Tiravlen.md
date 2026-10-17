@@ -124,12 +124,23 @@ The party must undertake a quest to fulfill the spirits' wishes:
 
 **Possible Quests:**
 
-- **Recover the Lost Artifact:** Find Vélarik's legendary sword, crown, or regalia, lost in the chaos of battle or taken by an enemy
-- **Avenge the Betrayal:** Identify the traitor or enemy responsible for Vélarik's death and bring them to justice (even if centuries have passed)
-- **Honor the Fallen:** Perform grand ceremonies or construct monuments to properly honor the king and his warriors
-- **Restore the Bloodline:** Locate a descendant of Vélarik and restore their claim or awareness of their heritage
-- **Fulfill the Oath:** Complete a task or promise that Vélarik made before he died (protect a place, preserve knowledge, etc.)
-- **Prevent the Returning:** Stop an ancient enemy or threat that Vélarik fought from returning to plague the land
+Recover the Lost Artifact
+: Find Vélarik's legendary sword, crown, or regalia, lost in the chaos of battle or taken by an enemy
+
+Avenge the Betrayal
+: Identify the traitor or enemy responsible for Vélarik's death and bring them to justice (even if centuries have passed)
+
+Honor the Fallen
+: Perform grand ceremonies or construct monuments to properly honor the king and his warriors
+
+Restore the Bloodline
+: Locate a descendant of Vélarik and restore their claim or awareness of their heritage
+
+Fulfill the Oath
+: Complete a task or promise that Vélarik made before he died (protect a place, preserve knowledge, etc.)
+
+Prevent the Returning
+: Stop an ancient enemy or threat that Vélarik fought from returning to plague the land
 
 **Challenges:**
 

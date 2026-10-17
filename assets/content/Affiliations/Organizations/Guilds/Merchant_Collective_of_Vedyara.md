@@ -118,8 +118,17 @@ Kulena-rank members wear a gold pin at the collar in the shape of a balance-scal
 
 ## See Also
 
-- [[affiliation-assmblycmpct|Assembly of the Compact]]—the body that governs the Collective and writes its law
-- [[lore-vdyrnbnkng|Vedyaran Banking]]—the letters of credit and the three coins
-- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the gold the Collective cannot reach
-- [[place-slvrgorges|The Silver Gorges]]—the leased workings
-- [[affiliation-twilighths|The Twilight House]] · [[affiliation-adanasreni|The Adanashreni]]—the Collective's quiet partners and its quiet worry
+[[affiliation-assmblycmpct|Assembly of the Compact]]
+: the body that governs the Collective and writes its law
+
+[[lore-vdyrnbnkng|Vedyaran Banking]]
+: the letters of credit and the three coins
+
+[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+: the gold the Collective cannot reach
+
+[[place-slvrgorges|The Silver Gorges]]
+: the leased workings
+
+[[affiliation-twilighths|The Twilight House]] · [[affiliation-adanasreni|The Adanashreni]]
+: the Collective's quiet partners and its quiet worry

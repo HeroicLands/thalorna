@@ -28,6 +28,11 @@ The order of business never changes: defense and any war begun since the last Lu
 
 ## See Also
 
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the nation that convenes here
-- [[place-sthrnsvnhs|Southern Savannahs]]—the country around the highlands
-- [[lore-stonetongue|The Stone Tongue]]—the speech of the stone-builders
+[[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
+: the nation that convenes here
+
+[[place-sthrnsvnhs|Southern Savannahs]]
+: the country around the highlands
+
+[[lore-stonetongue|The Stone Tongue]]
+: the speech of the stone-builders

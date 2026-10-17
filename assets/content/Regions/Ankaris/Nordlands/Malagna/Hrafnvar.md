@@ -46,12 +46,22 @@ The Grimvar keep [[miscgear-crwnwyrm|The Crown of the Wyrm]] in a howe at Braldh
 
 ## At a Glance
 
-- Kind: a polity of Malagna, under the crown at Gnarthborg.
-- Rival: the Grimvar, over the Málstead wergild.
-- Holds: its half of the split oath-stave.
+Kind
+: a polity of Malagna, under the crown at Gnarthborg.
+
+Rival
+: the Grimvar, over the Málstead wergild.
+
+Holds
+: its half of the split oath-stave.
 
 ## See Also
 
-- [[affiliation-grimvar|Grimvar]]—the other great clan of Malagna
-- [[lore-mlgnahstry|Histories and Legends of Malagna]]—both accounts of the wergild and the Crown
-- [[place-malagna|Malagna]]—the kingdom's land
+[[affiliation-grimvar|Grimvar]]
+: the other great clan of Malagna
+
+[[lore-mlgnahstry|Histories and Legends of Malagna]]
+: both accounts of the wergild and the Crown
+
+[[place-malagna|Malagna]]
+: the kingdom's land

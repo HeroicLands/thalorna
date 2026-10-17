@@ -449,20 +449,40 @@ Chorvan is driven by a desire to provide care and comfort to creatures that cann
 
 ### Strengths
 
-- **Animal Husbandry**: His mastery of animal care means he can diagnose and treat nearly any equine ailment, calm terrified horses, and understand their individual temperaments and needs with supernatural sensitivity.
-- **Practical Craftsmanship**: Strength in metalcraft, woodworking, and drawing allows him to repair tack, maintain stable facilities, and create tools perfectly suited to his purposes without needing to commission outside work.
-- **Keen Observation**: Sharp perception combined with trained awareness allows him to notice details others miss—the slight favoring of a horse's leg that indicates injury, the nervous energy of a traveler fleeing danger, the subtle tells that someone is being dishonest.
-- **Patient Teaching**: His calm demeanor and proven track record make him an excellent informal teacher, and many younger folk work under him hoping to learn his methods.
-- **Climbing and Physical Capability**: Dexterity and climbing skills allow him to handle horses on rough ground and retrieve animals from dangerous situations, as well as to maintain high rooftops and kit.
-- **Reliable Presence**: His reputation for absolute honesty, reliability, and kindness makes him one of the most trusted figures in the region. Merchants and nobles trust him with their most valuable animals and often confide in him.
+Animal Husbandry
+: His mastery of animal care means he can diagnose and treat nearly any equine ailment, calm terrified horses, and understand their individual temperaments and needs with supernatural sensitivity.
+
+Practical Craftsmanship
+: Strength in metalcraft, woodworking, and drawing allows him to repair tack, maintain stable facilities, and create tools perfectly suited to his purposes without needing to commission outside work.
+
+Keen Observation
+: Sharp perception combined with trained awareness allows him to notice details others miss—the slight favoring of a horse's leg that indicates injury, the nervous energy of a traveler fleeing danger, the subtle tells that someone is being dishonest.
+
+Patient Teaching
+: His calm demeanor and proven track record make him an excellent informal teacher, and many younger folk work under him hoping to learn his methods.
+
+Climbing and Physical Capability
+: Dexterity and climbing skills allow him to handle horses on rough ground and retrieve animals from dangerous situations, as well as to maintain high rooftops and kit.
+
+Reliable Presence
+: His reputation for absolute honesty, reliability, and kindness makes him one of the most trusted figures in the region. Merchants and nobles trust him with their most valuable animals and often confide in him.
 
 ### Weaknesses
 
-- **Conflict Aversion**: His discomfort with confrontation can lead him to avoid necessary difficult conversations or to fail to stand up for himself when treated unfairly. He will absorb mistreatment rather than engage in argument.
-- **Limited Worldliness**: Years spent primarily with animals and at the inn have left him somewhat naive about broader politics, intrigue, and deception. He can be manipulated by those who appeal to his good nature.
-- **Insufficient Force**: His strength is adequate but no more, and his lack of combat training means he would be outmatched in any serious physical confrontation. His will is also not particularly strong.
-- **Overthinking Simple Matters**: His tendency toward patient, meditative consideration sometimes causes him to over-complicate straightforward decisions or miss obvious solutions through over-analysis.
-- **Limited Ambition**: His lack of drive for advancement means he may miss opportunities for personal growth or fail to advocate for raises and better conditions when deserved.
+Conflict Aversion
+: His discomfort with confrontation can lead him to avoid necessary difficult conversations or to fail to stand up for himself when treated unfairly. He will absorb mistreatment rather than engage in argument.
+
+Limited Worldliness
+: Years spent primarily with animals and at the inn have left him somewhat naive about broader politics, intrigue, and deception. He can be manipulated by those who appeal to his good nature.
+
+Insufficient Force
+: His strength is adequate but no more, and his lack of combat training means he would be outmatched in any serious physical confrontation. His will is also not particularly strong.
+
+Overthinking Simple Matters
+: His tendency toward patient, meditative consideration sometimes causes him to over-complicate straightforward decisions or miss obvious solutions through over-analysis.
+
+Limited Ambition
+: His lack of drive for advancement means he may miss opportunities for personal growth or fail to advocate for raises and better conditions when deserved.
 
 ## Social
 
@@ -501,12 +521,17 @@ Informal Network of Beast-Keepers
 
 ## Plot Hooks
 
-1. **The Cursed Mare**: A noble's prized brood mare arrives at the inn bearing visible signs of a magical curse—her mane turns white overnight, her temperament becomes unpredictable, and she rejects all food and care. The nobleman, **Duke Therin of House Valorian**, desperate to break the curse before his breeding program collapses, turns to Chorvan for help. Though the ostler has never dealt with magical afflictions, his deep connection to animals may be key to understanding what ails her. The investigation leads Chorvan into contact with **Morrigan the Hedge Witch**, who reveals that a jealous rival bred another mare with stolen magical components specifically to curse this one.
+The Cursed Mare
+: A noble's prized brood mare arrives at the inn bearing visible signs of a magical curse—her mane turns white overnight, her temperament becomes unpredictable, and she rejects all food and care. The nobleman, **Duke Therin of House Valorian**, desperate to break the curse before his breeding program collapses, turns to Chorvan for help. Though the ostler has never dealt with magical afflictions, his deep connection to animals may be key to understanding what ails her. The investigation leads Chorvan into contact with **Morrigan the Hedge Witch**, who reveals that a jealous rival bred another mare with stolen magical components specifically to curse this one.
 
-2. **The Refugee's Escape**: A desperate family fleeing persecution arrives at the inn, their children riding exhausted horses and carrying nothing but the clothes on their backs. They ask Chorvan to hide them and provide fresh animals for the night before they continue to the border. Helping them could bring dangerous enemies to the inn and threaten his position, but refusing to help violates everything he believes in.
+The Refugee's Escape
+: A desperate family fleeing persecution arrives at the inn, their children riding exhausted horses and carrying nothing but the clothes on their backs. They ask Chorvan to hide them and provide fresh animals for the night before they continue to the border. Helping them could bring dangerous enemies to the inn and threaten his position, but refusing to help violates everything he believes in.
 
-3. **The Champion's Return**: An old traveler arrives at the inn riding a horse of extraordinary breeding and apparent extreme age—well beyond the normal lifespan of a horse. The traveler, a mysterious warrior named **Ser Kotsude**, claims the horse is far older than it should be due to magical preservation, and he needs Chorvan to understand its needs. As Chorvan works with the unusual animal, he becomes entangled in Ser Kotsude's quest to recover a stolen artifact, learning that the knight believes the artifact contains knowledge that could change the balance of power in several kingdoms.
+The Champion's Return
+: An old traveler arrives at the inn riding a horse of extraordinary breeding and apparent extreme age—well beyond the normal lifespan of a horse. The traveler, a mysterious warrior named **Ser Kotsude**, claims the horse is far older than it should be due to magical preservation, and he needs Chorvan to understand its needs. As Chorvan works with the unusual animal, he becomes entangled in Ser Kotsude's quest to recover a stolen artifact, learning that the knight believes the artifact contains knowledge that could change the balance of power in several kingdoms.
 
-4. **The Great Breeding**: A prestigious alliance of noble houses commissions Chorvan to assist in organizing a grand breeding program that would create a new strain of superior warhorses. This project would be his life's work, requiring him to journey to distant stables, negotiate with other masters, and establish himself as a leading figure in the art of horsemanship. However, he learns that the breeding program is secretly intended to create creatures capable of carrying armored warriors into morally questionable wars of conquest.
+The Great Breeding
+: A prestigious alliance of noble houses commissions Chorvan to assist in organizing a grand breeding program that would create a new strain of superior warhorses. This project would be his life's work, requiring him to journey to distant stables, negotiate with other masters, and establish himself as a leading figure in the art of horsemanship. However, he learns that the breeding program is secretly intended to create creatures capable of carrying armored warriors into morally questionable wars of conquest.
 
-5. **The Plague at the Crossroads**: A mysterious illness begins to spread among the horses at the inn and throughout the region, killing some and leaving others weakened and sterile. Chorvan races against time to identify the cause—whether it's natural disease, poisoning, or magical curse—while attempting to save the animals in his care. His investigation reveals that the plague was deliberately introduced by enemies of the Kingdom of Provenzia as part of a coordinated military campaign to weaken the realm's ability to field cavalry forces.
+The Plague at the Crossroads
+: A mysterious illness begins to spread among the horses at the inn and throughout the region, killing some and leaving others weakened and sterile. Chorvan races against time to identify the cause—whether it's natural disease, poisoning, or magical curse—while attempting to save the animals in his care. His investigation reveals that the plague was deliberately introduced by enemies of the Kingdom of Provenzia as part of a coordinated military campaign to weaken the realm's ability to field cavalry forces.

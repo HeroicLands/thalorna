@@ -14,6 +14,11 @@ The tradition insists on the pairing. [[lore-uqaadty|Uqa'a]] crosses the sky by 
 
 ## See Also
 
-- [[affiliation-garathenuqa|Gar-Thelqen'Uqa]]—the House that holds the domain
-- [[lore-ithnetau|Ithnetáu]]—the night half of the circuit
-- [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
+[[affiliation-garathenuqa|Gar-Thelqen'Uqa]]
+: the House that holds the domain
+
+[[lore-ithnetau|Ithnetáu]]
+: the night half of the circuit
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the philosophy and the other seven domains

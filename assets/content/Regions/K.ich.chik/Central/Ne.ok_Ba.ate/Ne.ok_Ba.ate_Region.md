@@ -44,7 +44,14 @@ The maritime trade is particularly significant. Ne'ok Ba'ate's merchants have es
 
 ## See Also
 
-- [[affiliation-neokbaate|Ne'ok Ba'ate]]—The realm that holds this land
-- [[place-cntrlkchchk|Central K'ich'chik]]—The enclosing region
-- [[place-neokbaate2|Ne'ok Ba'ate]]—Seat of Ne'ok Ba'ate
-- [[place-kulqattzumul|Kul'qat Ts'umul]]—A forgotten binding temple of the storm-serpent in the eastern rainforest
+[[affiliation-neokbaate|Ne'ok Ba'ate]]
+: The realm that holds this land
+
+[[place-cntrlkchchk|Central K'ich'chik]]
+: The enclosing region
+
+[[place-neokbaate2|Ne'ok Ba'ate]]
+: Seat of Ne'ok Ba'ate
+
+[[place-kulqattzumul|Kul'qat Ts'umul]]
+: A forgotten binding temple of the storm-serpent in the eastern rainforest

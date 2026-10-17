@@ -497,20 +497,29 @@ Orangutans are generally docile toward humans who do not threaten them, and some
 
 ## Attributes
 
-- **Strength:** 16-21 (1d6+15)
+Strength
+: 16-21 (1d6+15)
 
-- **Endurance:** 12-17 (1d6+11)
+Endurance
+: 12-17 (1d6+11)
 
-- **Dexterity:** 12-17 (1d6+11)
+Dexterity
+: 12-17 (1d6+11)
 
-- **Agility:** 13-18 (1d6+12)
+Agility
+: 13-18 (1d6+12)
 
-- **Perception:** 10-15 (1d6+9)
+Perception
+: 10-15 (1d6+9)
 
-- **Aura:** 8-11 (1d4+7)
+Aura
+: 8-11 (1d4+7)
 
-- **Will:** 10-15 (1d6+9)
+Will
+: 10-15 (1d6+9)
 
-- **Reasoning:** 9-14 (1d6+8)
+Reasoning
+: 9-14 (1d6+8)
 
-- **Creativity:** 8-13 (1d6+7)
+Creativity
+: 8-13 (1d6+7)

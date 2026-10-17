@@ -262,10 +262,23 @@ The rain has not stopped for three days. Read or paraphrase:
 
 ## See Also
 
-- [[place-kulqattzumul|Kul'qat Ts'umul]]—the temple and its guardian
-- [[place-kulqattzumul#truth|The truth of Kul'qat Ts'umul]]—the Eye, the guardian and what happened on the stair
-- [[place-neokbaatergn|Ne'ok Ba'ate Region]]—the isthmus and its eastern rainforest
-- [[affiliation-puqilchaqun|Faith of P'uqil Ch'akun]]—the serpent-keepers and their binding temples
-- [[affiliation-piqalkulqat|Faith of P'iqal Kul'qat]]—the builders and the Warden of the Ruins
-- [[affiliation-tzumaqkalanil|Ts'umaq K'alanil]]—the heretics who would kill for the codices
-- [[lore-dreadspawncrtr|Dreadspawn]]—the Living Works of the Builder
+[[place-kulqattzumul|Kul'qat Ts'umul]]
+: the temple and its guardian
+
+[[place-kulqattzumul#truth|The truth of Kul'qat Ts'umul]]
+: the Eye, the guardian and what happened on the stair
+
+[[place-neokbaatergn|Ne'ok Ba'ate Region]]
+: the isthmus and its eastern rainforest
+
+[[affiliation-puqilchaqun|Faith of P'uqil Ch'akun]]
+: the serpent-keepers and their binding temples
+
+[[affiliation-piqalkulqat|Faith of P'iqal Kul'qat]]
+: the builders and the Warden of the Ruins
+
+[[affiliation-tzumaqkalanil|Ts'umaq K'alanil]]
+: the heretics who would kill for the codices
+
+[[lore-dreadspawncrtr|Dreadspawn]]
+: the Living Works of the Builder

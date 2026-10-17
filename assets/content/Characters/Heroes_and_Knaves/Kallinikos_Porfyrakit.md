@@ -446,19 +446,37 @@ Bazebos is driven by the deep human desire to know, to map the unmapped, to leav
 
 ### Strengths
 
-- **Master Cartographer**: His Script, Drawing, and Mathematical skills all exceed 15, making him capable of creating maps of unprecedented accuracy and detail.
-- **Artistic Vision**: With Creativity at 16, he sees maps not merely as functional documents but as works of art, which drives demand for his commissions among wealthy collectors.
-- **Seasoned Explorer**: His high Survival, Awareness, and Stealth scores, combined with practical experience, make him one of the safest people to have on expedition—when he is being cautious, which is not always.
-- **Persuasive Communicator**: His Eloquence and Command scores of 14 allow him to secure funding, gather followers, and talk his way out of dangerous situations.
-- **Well-Rounded Outdoor Skills**: His Climbing, Riding, and Swimming scores are all solid, and his practical knowledge of dozens of environments is extensive.
+Master Cartographer
+: His Script, Drawing, and Mathematical skills all exceed 15, making him capable of creating maps of unprecedented accuracy and detail.
+
+Artistic Vision
+: With Creativity at 16, he sees maps not merely as functional documents but as works of art, which drives demand for his commissions among wealthy collectors.
+
+Seasoned Explorer
+: His high Survival, Awareness, and Stealth scores, combined with practical experience, make him one of the safest people to have on expedition—when he is being cautious, which is not always.
+
+Persuasive Communicator
+: His Eloquence and Command scores of 14 allow him to secure funding, gather followers, and talk his way out of dangerous situations.
+
+Well-Rounded Outdoor Skills
+: His Climbing, Riding, and Swimming scores are all solid, and his practical knowledge of dozens of environments is extensive.
 
 ### Weaknesses
 
-- **Reckless Adventurer**: His drive to explore often overrides prudent judgment. He will venture into clearly dangerous territory against the advice of companions, sometimes with tragic consequences.
-- **Obsessive Tendencies**: Once fixated on a particular expedition or mystery, he becomes nearly impossible to dissuade from pursuing it, sometimes abandoning commissioned work.
-- **Poor Physical Durability**: His Endurance score of only 12 means extended hardship can break him down; he is surprisingly vulnerable despite his toughness of spirit.
-- **Limited Combat Training**: Though he can handle himself adequately, his Melee score of 13 is underwhelming, leaving him dependent on companions in true combat situations.
-- **Divided Loyalties**: His commitment to exploration sometimes conflicts with his commercial obligations, making him an unreliable partner when expeditions take longer than anticipated.
+Reckless Adventurer
+: His drive to explore often overrides prudent judgment. He will venture into clearly dangerous territory against the advice of companions, sometimes with tragic consequences.
+
+Obsessive Tendencies
+: Once fixated on a particular expedition or mystery, he becomes nearly impossible to dissuade from pursuing it, sometimes abandoning commissioned work.
+
+Poor Physical Durability
+: His Endurance score of only 12 means extended hardship can break him down; he is surprisingly vulnerable despite his toughness of spirit.
+
+Limited Combat Training
+: Though he can handle himself adequately, his Melee score of 13 is underwhelming, leaving him dependent on companions in true combat situations.
+
+Divided Loyalties
+: His commitment to exploration sometimes conflicts with his commercial obligations, making him an unreliable partner when expeditions take longer than anticipated.
 
 ## Social
 
@@ -491,12 +509,17 @@ The Explorers' Fellowship
 
 ## Plot Hooks
 
-1. **The Disappearing Expedition**: Bazebos's latest expedition to the western wastes simply vanishes—no contact, no return, no bodies. Three months overdue, sponsors demand answers. When another group sent to investigate reports finds evidence that Bazebos deliberately eluded them and continued deeper into unmapped territory, the question becomes urgent: did he discover something so important he was willing to fake his expedition's disappearance? Is he alive, dead, or transformed into something else entirely?
+The Disappearing Expedition
+: Bazebos's latest expedition to the western wastes simply vanishes—no contact, no return, no bodies. Three months overdue, sponsors demand answers. When another group sent to investigate reports finds evidence that Bazebos deliberately eluded them and continued deeper into unmapped territory, the question becomes urgent: did he discover something so important he was willing to fake his expedition's disappearance? Is he alive, dead, or transformed into something else entirely?
 
-2. **Maps That Shouldn't Exist**: Bazebos discovers in an old archive a collection of extraordinarily detailed maps of regions he has never seen, drawn in a style that predates the current age by centuries. The territories depicted no longer exist—or have been lost to time. Among them is a map of his beloved Shadowpeak Mountains, showing a structure or location marked only as "The Forbidden Archive." He must decide whether to attempt to locate the archive, knowing it may be the source of these mysterious maps and possibly the lair of the entity that attacked him.
+Maps That Shouldn't Exist
+: Bazebos discovers in an old archive a collection of extraordinarily detailed maps of regions he has never seen, drawn in a style that predates the current age by centuries. The territories depicted no longer exist—or have been lost to time. Among them is a map of his beloved Shadowpeak Mountains, showing a structure or location marked only as "The Forbidden Archive." He must decide whether to attempt to locate the archive, knowing it may be the source of these mysterious maps and possibly the lair of the entity that attacked him.
 
-3. **Rival Mapmakers**: A wealthy merchant house begins employing expeditions specifically to beat Bazebos to unexplored territory, creating rival maps they plan to publish simultaneously. What appears as simple commercial rivalry slowly reveals darker elements—the merchants' expeditions are searching for something specific, and they don't care who dies in the process. Bazebos must either collaborate with his commercial rivals or race against them toward a discovery he doesn't fully understand.
+Rival Mapmakers
+: A wealthy merchant house begins employing expeditions specifically to beat Bazebos to unexplored territory, creating rival maps they plan to publish simultaneously. What appears as simple commercial rivalry slowly reveals darker elements—the merchants' expeditions are searching for something specific, and they don't care who dies in the process. Bazebos must either collaborate with his commercial rivals or race against them toward a discovery he doesn't fully understand.
 
-4. **The Princess's Commission**: The heir to the Bizarian throne commissions Bazebos to create a map of a region explicitly declared forbidden by the ruling council—supposedly to understand what the council is hiding. She claims it is for her education in statecraft, but hints that political factions within the League have compelling reasons to want that territory mapped, reasons that might challenge the current balance of power. Bazebos must decide whether to serve a princess or maintain his independence.
+The Princess's Commission
+: The heir to the Bizarian throne commissions Bazebos to create a map of a region explicitly declared forbidden by the ruling council—supposedly to understand what the council is hiding. She claims it is for her education in statecraft, but hints that political factions within the League have compelling reasons to want that territory mapped, reasons that might challenge the current balance of power. Bazebos must decide whether to serve a princess or maintain his independence.
 
-5. **The Cartographer's Curse**: Bazebos meets a dying explorer who claims that everyone who has attempted to map beyond certain boundaries is doomed—that something actively prevents the full knowledge of the world's true geography. The explorer bequeaths him a partial map hinting at vast territories that should exist but don't appear on any current charts. Bazebos must choose whether to pursue this mystery, knowing it may validate a hypothesis about reality itself that most would consider insane.
+The Cartographer's Curse
+: Bazebos meets a dying explorer who claims that everyone who has attempted to map beyond certain boundaries is doomed—that something actively prevents the full knowledge of the world's true geography. The explorer bequeaths him a partial map hinting at vast territories that should exist but don't appear on any current charts. Bazebos must choose whether to pursue this mystery, knowing it may validate a hypothesis about reality itself that most would consider insane.

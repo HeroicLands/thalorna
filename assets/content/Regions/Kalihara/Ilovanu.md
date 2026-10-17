@@ -36,10 +36,23 @@ The population of the quarter is as mixed as any port on the Vylarian Sea: nativ
 
 ## See Also
 
-- [[affiliation-kalihara|Kalihara]]—the polity whose Council sits here, its councils and its wardens
-- [[affiliation-councilisland|The Council of the Island]]—the body that sits here
-- [[affiliation-housefactors|The House of Factors]]—the port's merchant council and its three families
-- [[place-kaliharargn|Kalihara Region]]—the island's country, of which this is the door
-- [[place-nalurithan|Nalurithan]], [[place-vashuran|Vashurán]], [[place-telvari|Telvari]]—the three smaller ports
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the faith of the foreign quarter's temple
-- [[skill-valtarlng|Valtari]]—the harbor pidgin of the quay
+[[affiliation-kalihara|Kalihara]]
+: the polity whose Council sits here, its councils and its wardens
+
+[[affiliation-councilisland|The Council of the Island]]
+: the body that sits here
+
+[[affiliation-housefactors|The House of Factors]]
+: the port's merchant council and its three families
+
+[[place-kaliharargn|Kalihara Region]]
+: the island's country, of which this is the door
+
+[[place-nalurithan|Nalurithan]], [[place-vashuran|Vashurán]], [[place-telvari|Telvari]]
+: the three smaller ports
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the faith of the foreign quarter's temple
+
+[[skill-valtarlng|Valtari]]
+: the harbor pidgin of the quay

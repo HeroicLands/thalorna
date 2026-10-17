@@ -401,8 +401,11 @@ Vraldorv's left-handed fighting style is unorthodox and catches many opponents o
 
 ## Plot Hooks
 
-1. **The Unjust Execution**—A man condemned to death under Vraldorv's judgment has been found innocent after new evidence emerged. The execution has already been carried out. Vraldorv must face the consequences of his own fallibility and track down who planted the false evidence.
+The Unjust Execution
+: A man condemned to death under Vraldorv's judgment has been found innocent after new evidence emerged. The execution has already been carried out. Vraldorv must face the consequences of his own fallibility and track down who planted the false evidence.
 
-2. **The Blood Price**—The Blood Eagle Clan has kidnapped several villagers and demands the abolition of Vraldorv's legal reforms as ransom. Negotiation may be impossible, but a frontal assault risks the hostages' lives.
+The Blood Price
+: The Blood Eagle Clan has kidnapped several villagers and demands the abolition of Vraldorv's legal reforms as ransom. Negotiation may be impossible, but a frontal assault risks the hostages' lives.
 
-3. **Eidgar's Test**—Vraldorv is visited by a vision of Eidgar demanding that he sacrifice something even dearer than his hand. The nature of the sacrifice is unclear, but refusing may cost him his divine connection.
+Eidgar's Test
+: Vraldorv is visited by a vision of Eidgar demanding that he sacrifice something even dearer than his hand. The nature of the sacrifice is unclear, but refusing may cost him his divine connection.

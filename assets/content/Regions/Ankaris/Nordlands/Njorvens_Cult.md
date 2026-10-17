@@ -51,6 +51,11 @@ The cult's tellings of its god are the most confident anyone gathers and the lea
 
 ## See Also
 
-- [[being-njorven|Njorven]]—the Sea Wraith the cult venerates
-- [[lore-njordurritlbinding|The Ritual of Binding]]—the rite the cult stands against
-- [[scenario-groascmpgn|Groa's Campaign]]—the campaign in which the cult is an active faction
+[[being-njorven|Njorven]]
+: the Sea Wraith the cult venerates
+
+[[lore-njordurritlbinding|The Ritual of Binding]]
+: the rite the cult stands against
+
+[[scenario-groascmpgn|Groa's Campaign]]
+: the campaign in which the cult is an active faction

@@ -454,27 +454,37 @@ Shadezan's core motivation is the perpetuation and expansion of his bloodline's 
 
 ### Strengths
 
-- **Physical Strength**: Shadezan possesses immense raw power. He can lift, carry, and wield weapons that would strain ordinary warriors, and his physical power is famed among his people.
+Physical Strength
+: Shadezan possesses immense raw power. He can lift, carry, and wield weapons that would strain ordinary warriors, and his physical power is famed among his people.
 
-- **Warrior's Endurance**: He can fight for extended periods without tiring, maintaining peak performance in battles that would exhaust lesser warriors. His stamina is nearly as famed as his strength.
+Warrior's Endurance
+: He can fight for extended periods without tiring, maintaining peak performance in battles that would exhaust lesser warriors. His stamina is nearly as famed as his strength.
 
-- **Combat Mastery and Weapon Skill**: With seamanship, archery, and a variety of other combat skills, Shadezan is trained in multiple fighting disciplines. His warhammer is an extension of his will, and he can fight effectively at any range.
+Combat Mastery and Weapon Skill
+: With seamanship, archery, and a variety of other combat skills, Shadezan is trained in multiple fighting disciplines. His warhammer is an extension of his will, and he can fight effectively at any range.
 
-- **Fearsome Presence and Command**: His command, combined with his physical presence and reputation, allows him to inspire absolute obedience in his warriors. A single order from Shadezan is followed without question or hesitation.
+Fearsome Presence and Command
+: His command, combined with his physical presence and reputation, allows him to inspire absolute obedience in his warriors. A single order from Shadezan is followed without question or hesitation.
 
-- **Tactical Awareness**: Despite his low reasoning, Shadezan's awareness and jumping give him good battlefield awareness. He can perceive troop movements and identify advantageous positions, and his instincts for combat are superb.
+Tactical Awareness
+: Despite his low reasoning, Shadezan's awareness and jumping give him good battlefield awareness. He can perceive troop movements and identify advantageous positions, and his instincts for combat are superb.
 
 ### Weaknesses
 
-- **Poor Diplomatic and Persuasion Ability**: Shadezan is incapable of negotiating, persuading, or building coalitions through speech. His attempts at diplomacy typically result in offense and broken agreements.
+Poor Diplomatic and Persuasion Ability
+: Shadezan is incapable of negotiating, persuading, or building coalitions through speech. His attempts at diplomacy typically result in offense and broken agreements.
 
-- **Rigid Thinking and Poor Reasoning**: Shadezan cannot adapt his plans when circumstances change unexpectedly. He is excellent at straightforward warfare but terrible at dealing with political complications or unconventional problems.
+Rigid Thinking and Poor Reasoning
+: Shadezan cannot adapt his plans when circumstances change unexpectedly. He is excellent at straightforward warfare but terrible at dealing with political complications or unconventional problems.
 
-- **Lack of Empathy**: Shadezan is indifferent to the suffering of his people or his enemies. This makes him an ineffective administrator, as he cannot understand why his people might resent heavy taxation or draft obligations.
+Lack of Empathy
+: Shadezan is indifferent to the suffering of his people or his enemies. This makes him an ineffective administrator, as he cannot understand why his people might resent heavy taxation or draft obligations.
 
-- **Limited Magical or Spiritual Understanding**: While Shadezan respects the shamans of his people and will perform proper rituals, he has little real understanding of magic or spiritual power. Enemies using magical warfare can exploit his lack of comprehension.
+Limited Magical or Spiritual Understanding
+: While Shadezan respects the shamans of his people and will perform proper rituals, he has little real understanding of magic or spiritual power. Enemies using magical warfare can exploit his lack of comprehension.
 
-- **Age and Mortality**: At forty-nine, Shadezan is entering the final decades of a warrior's life. His strength and endurance remain great, but he is no longer in his prime. Younger, hungry rivals perceive vulnerability, and Shadezan's aggression in recent years may be partially driven by awareness of his own mortality.
+Age and Mortality
+: At forty-nine, Shadezan is entering the final decades of a warrior's life. His strength and endurance remain great, but he is no longer in his prime. Younger, hungry rivals perceive vulnerability, and Shadezan's aggression in recent years may be partially driven by awareness of his own mortality.
 
 ## Social
 
@@ -513,12 +523,17 @@ The Storm Cults
 
 ## Plot Hooks
 
-1. **The Challenge of the Young Wolf**: A new warrior named Drayven Kamruz, a distant relation claiming descent from Shadezan's line, arrives at the chieftain's court with a reputation for invincible swordsmanship. Drayven challenges Shadezan to single combat for leadership of the clan, initiating a ritual duel that is legally binding under tribal law. Shadezan faces an opponent whose youthful strength and speed may match his famed power, and losing the duel would cost him not only his title but his life. The duel becomes complicated when evidence emerges that Drayven has been magically enhanced by an outside sorcerer, forcing Shadezan to confront enemies using means outside his understanding and experience.
+The Challenge of the Young Wolf
+: A new warrior named Drayven Kamruz, a distant relation claiming descent from Shadezan's line, arrives at the chieftain's court with a reputation for invincible swordsmanship. Drayven challenges Shadezan to single combat for leadership of the clan, initiating a ritual duel that is legally binding under tribal law. Shadezan faces an opponent whose youthful strength and speed may match his famed power, and losing the duel would cost him not only his title but his life. The duel becomes complicated when evidence emerges that Drayven has been magically enhanced by an outside sorcerer, forcing Shadezan to confront enemies using means outside his understanding and experience.
 
-2. **The Prophecy of the Broken Hammer**: A visiting shaman from a distant tribe brings news of an ancient prophecy that speaks of "the great chieftain whose hammer will break, and with it, the age of strength." Shadezan dismisses this as superstition, but his warriors become increasingly anxious. When his warhammer actually breaks during a battle (a purely mechanical accident), panic spreads through his forces. Shadezan must either suppress the prophecy and retain control or find a way to reinterpret it to maintain his authority.
+The Prophecy of the Broken Hammer
+: A visiting shaman from a distant tribe brings news of an ancient prophecy that speaks of "the great chieftain whose hammer will break, and with it, the age of strength." Shadezan dismisses this as superstition, but his warriors become increasingly anxious. When his warhammer actually breaks during a battle (a purely mechanical accident), panic spreads through his forces. Shadezan must either suppress the prophecy and retain control or find a way to reinterpret it to maintain his authority.
 
-3. **The Secret Heir**: A traveling merchant arrives with evidence suggesting that Shadezan fathered a child in a foreign land during his youth—a child now grown into a capable warrior with a claim to his lineage. The merchant demands significant payment to keep the secret quiet, or threatens to reveal the heir to Shadezan's rivals and his own ambitious sons. Shadezan can pay for silence, acknowledge the child, or eliminate both the merchant and the potential heir to protect his dynasty.
+The Secret Heir
+: A traveling merchant arrives with evidence suggesting that Shadezan fathered a child in a foreign land during his youth—a child now grown into a capable warrior with a claim to his lineage. The merchant demands significant payment to keep the secret quiet, or threatens to reveal the heir to Shadezan's rivals and his own ambitious sons. Shadezan can pay for silence, acknowledge the child, or eliminate both the merchant and the potential heir to protect his dynasty.
 
-4. **The Peaceful Confederacy**: A coalition of neighboring tribes, led by the wise shaman Alethea the Peacemaker, proposes a radical alternative to Shadezan's rule—a tribal confederacy based on consensus, trade, and mutual defense rather than dominance of the strongest. They offer to accept Shadezan as the ceremonial head of this new confederacy if he will release his conquered territories to local rule. Shadezan faces a stark choice: abandon his philosophy of strength and conquest to maintain nominal power, or resist and risk a war that might break his aging body.
+The Peaceful Confederacy
+: A coalition of neighboring tribes, led by the wise shaman Alethea the Peacemaker, proposes a radical alternative to Shadezan's rule—a tribal confederacy based on consensus, trade, and mutual defense rather than dominance of the strongest. They offer to accept Shadezan as the ceremonial head of this new confederacy if he will release his conquered territories to local rule. Shadezan faces a stark choice: abandon his philosophy of strength and conquest to maintain nominal power, or resist and risk a war that might break his aging body.
 
-5. **The Shamanic Revelation**: Shadezan's mother, the shaman Tavura, now ancient and approaching death, finally reveals a secret she has kept for forty years—that Shadezan's father did not die in honorable combat but was actually defeated by Khavari the Sorcerer using magic, and that she made a pact with dark forces so that her son would win a glory great enough to cover his bloodline's hidden shame. This revelation shakes Shadezan's entire understanding of his accomplishments and his right to rule. He can expose the truth and undermine his own legitimacy, or continue a lie that was woven into the very foundation of his power.
+The Shamanic Revelation
+: Shadezan's mother, the shaman Tavura, now ancient and approaching death, finally reveals a secret she has kept for forty years—that Shadezan's father did not die in honorable combat but was actually defeated by Khavari the Sorcerer using magic, and that she made a pact with dark forces so that her son would win a glory great enough to cover his bloodline's hidden shame. This revelation shakes Shadezan's entire understanding of his accomplishments and his right to rule. He can expose the truth and undermine his own legitimacy, or continue a lie that was woven into the very foundation of his power.

@@ -22,6 +22,11 @@ A weighing-yard clerk tells you he knows the state of the [[affiliation-vylarinm
 
 ## See Also
 
-- [[affiliation-provnchyln|Province of Hilen]]—parent province
-- [[place-hylen|Hilen]]—the land whose harvest the town gathers
-- [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview
+[[affiliation-provnchyln|Province of Hilen]]
+: parent province
+
+[[place-hylen|Hilen]]
+: the land whose harvest the town gathers
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: imperial overview

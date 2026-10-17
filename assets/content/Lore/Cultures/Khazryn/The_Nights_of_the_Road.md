@@ -140,13 +140,32 @@ The ninety-sixth day. Seventeen hundred miles. The last dune ended in a wall of 
 
 ## See Also
 
-- [[lore-celestialroad|The Celestial Road]]—the road, its waypoints, its costs and who guarantees what
-- [[lore-ownedoasis|The Owned Oasis]]—the cloth on the skull-pole, and what the owners do
-- [[place-yemokwell|Yemok]] · [[place-sowidwell|Sovid]]—the two hand-off wells
-- [[place-qisomrktcmp|Qiiso]]—the market-camp where the road changes hands
-- [[place-roqid|Oroqid]]—the fort with the shut strongroom
-- [[place-jilaq|Jilaq]] · [[place-wilud|Vulud]]—the lantern city and the drowned one
-- [[place-qimod|Qiimod]] · [[place-wemaq|Vomek]]—the silent market and the water nobody camps at
-- [[affiliation-rwlstrb|Uruvolur]] · [[affiliation-shrzrtrb|Shirzari]]—the guide's people and the rider's
-- [[affiliation-karvashion|Karvashion]]—where the silk is sold at the western end
-- [[lore-khazrynclt|The Tellumi]]—the master's people
+[[lore-celestialroad|The Celestial Road]]
+: the road, its waypoints, its costs and who guarantees what
+
+[[lore-ownedoasis|The Owned Oasis]]
+: the cloth on the skull-pole, and what the owners do
+
+[[place-yemokwell|Yemok]] · [[place-sowidwell|Sovid]]
+: the two hand-off wells
+
+[[place-qisomrktcmp|Qiiso]]
+: the market-camp where the road changes hands
+
+[[place-roqid|Oroqid]]
+: the fort with the shut strongroom
+
+[[place-jilaq|Jilaq]] · [[place-wilud|Vulud]]
+: the lantern city and the drowned one
+
+[[place-qimod|Qiimod]] · [[place-wemaq|Vomek]]
+: the silent market and the water nobody camps at
+
+[[affiliation-rwlstrb|Uruvolur]] · [[affiliation-shrzrtrb|Shirzari]]
+: the guide's people and the rider's
+
+[[affiliation-karvashion|Karvashion]]
+: where the silk is sold at the western end
+
+[[lore-khazrynclt|The Tellumi]]
+: the master's people

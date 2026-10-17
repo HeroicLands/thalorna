@@ -191,9 +191,20 @@ We have told you for a price, and the price is paid, and that is the custom too.
 
 ## See Also
 
-- [[place-wemaq|Vomek]]—the oasis, the field, and the dream
-- [[lore-wemaqbattle|The Battle of Vomek]]—the morning the calling names
-- [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]—the union that began there
-- [[lore-bloodfield|Blood-fields]]—what a quickening field is, and what a late laying-out does to one
-- [[lore-sowidesclt|The Sovidur]]—the laying-out, the four winds and the orkun
-- [[place-hskrrgn|Khoshiqor]]—the sand country the oasis lies in
+[[place-wemaq|Vomek]]
+: the oasis, the field, and the dream
+
+[[lore-wemaqbattle|The Battle of Vomek]]
+: the morning the calling names
+
+[[lore-hndrdbnnrs|The Storm of the Hundred Banners]]
+: the union that began there
+
+[[lore-bloodfield|Blood-fields]]
+: what a quickening field is, and what a late laying-out does to one
+
+[[lore-sowidesclt|The Sovidur]]
+: the laying-out, the four winds and the orkun
+
+[[place-hskrrgn|Khoshiqor]]
+: the sand country the oasis lies in

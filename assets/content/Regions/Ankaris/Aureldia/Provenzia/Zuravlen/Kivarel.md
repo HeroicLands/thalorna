@@ -28,6 +28,11 @@ Selvare is a prominent supporter of the **[Order of the Burning Brand]{.name dat
 
 ## See Also
 
-- [[place-bldfldkyvarel|Blood-field of Kivarel]]—the quickened field in the barony
-- [[place-zuravlenrgn|Zuravlen]]—the seaboard and barony held with it
-- [[place-elthrembis|Eltrembis]]—the baron's seat
+[[place-bldfldkyvarel|Blood-field of Kivarel]]
+: the quickened field in the barony
+
+[[place-zuravlenrgn|Zuravlen]]
+: the seaboard and barony held with it
+
+[[place-elthrembis|Eltrembis]]
+: the baron's seat

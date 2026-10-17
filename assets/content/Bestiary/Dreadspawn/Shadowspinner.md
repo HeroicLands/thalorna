@@ -258,20 +258,29 @@ Fire destroys its web at once, burns its body and panics it.
 
 ## Attributes
 
-- **Strength:** 14-17 (1d4+13)
+Strength
+: 14-17 (1d4+13)
 
-- **Endurance:** 15-20 (1d6+14)
+Endurance
+: 15-20 (1d6+14)
 
-- **Dexterity:** 17-22 (1d6+16)
+Dexterity
+: 17-22 (1d6+16)
 
-- **Agility:** 14-17 (1d4+13)
+Agility
+: 14-17 (1d4+13)
 
-- **Perception:** 14-17 (1d4+13)
+Perception
+: 14-17 (1d4+13)
 
-- **Aura:** 10-13 (1d4+9)
+Aura
+: 10-13 (1d4+9)
 
-- **Will:** 14-17 (1d4+13)
+Will
+: 14-17 (1d4+13)
 
-- **Reasoning:** 11-16 (1d6+10)
+Reasoning
+: 11-16 (1d6+10)
 
-- **Creativity:** 11-16 (1d6+10)
+Creativity
+: 11-16 (1d6+10)

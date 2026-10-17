@@ -229,10 +229,17 @@ Hvarn admits syllabic liquids and nasals, so that a word may be spoken with no v
 
 ### Phonotactic Patterns
 
-- **Consonant Clusters:** Heavy in every position, and the initial cluster _hv-_ is the people's own name
-- **Syllable Structure:** Closed, and frequently vowelless; stress falls on the first syllable without exception
-- **Final Consonants:** Unrestricted, and a final cluster of three is ordinary
-- **Word Length:** Short and dense; a two-syllable Hvarn word routinely carries what Vedyari needs five for
+Consonant Clusters
+: Heavy in every position, and the initial cluster _hv-_ is the people's own name
+
+Syllable Structure
+: Closed, and frequently vowelless; stress falls on the first syllable without exception
+
+Final Consonants
+: Unrestricted, and a final cluster of three is ordinary
+
+Word Length
+: Short and dense; a two-syllable Hvarn word routinely carries what Vedyari needs five for
 
 ## Grammar Notes
 

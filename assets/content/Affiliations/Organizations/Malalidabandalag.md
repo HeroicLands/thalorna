@@ -55,10 +55,17 @@ Hands stay on the table at the [Compact-Hall]{.name data-type="place/structure"}
 
 The Málalidabandalag, the "Pay-Troop Compact" in the north's own speech, is the league of the free companies of the [[place-nrdlndsrgn|Nordlands Region]]: sworn warriors-for-hire who serve kingdoms, jarls and merchant lords. Its Hall keeps the trade honest, and an outsider remembers it for two things, the Truce and the bronze ring that signed captains wear on the thumb.
 
-- Type: mercenary compact and regulatory body
-- Region: [[place-nrdlndsrgn|the Nordlands]], where it serves the five kingdoms of [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kngdmvthgrd|Vithgard]], [[affiliation-kingdmtrgd|Targud]] and [[affiliation-kingdomlgn|Malagna]]
-- Seat: the Compact-Hall at Hringstead, on the border of [[place-nordheim|Nordheim]] and [[place-vithgard|Vithgard]], neutral ground guaranteed by all five kingdoms
-- Governed by: the **Council of the Hall**, nine seats, which meets four times a year at the Compact's gathering-feasts
+Type
+: mercenary compact and regulatory body
+
+Region
+: [[place-nrdlndsrgn|the Nordlands]], where it serves the five kingdoms of [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kngdmvthgrd|Vithgard]], [[affiliation-kingdmtrgd|Targud]] and [[affiliation-kingdomlgn|Malagna]]
+
+Seat
+: the Compact-Hall at Hringstead, on the border of [[place-nordheim|Nordheim]] and [[place-vithgard|Vithgard]], neutral ground guaranteed by all five kingdoms
+
+Governed by
+: the **Council of the Hall**, nine seats, which meets four times a year at the Compact's gathering-feasts
 
 ## Why the Compact Exists
 

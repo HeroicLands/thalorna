@@ -266,12 +266,29 @@ Despite its vivid coloration, the quetzal is very difficult to spot in its natur
 
 ## Attributes
 
-- **Strength:** 2-5 (1d4+1) — Negligible; a bird weighing half a pound
-- **Endurance:** 4-7 (1d4+3) — Fragile; stress-sensitive; short-flight specialist
-- **Dexterity:** 12-17 (1d6+11) — Precise hovering flight for fruit-plucking
-- **Agility:** 13-18 (1d6+12) — Extraordinary aerial maneuverability in dense canopy
-- **Perception:** 11-16 (1d6+10) — Good forest-interior senses; adapted for low light
-- **Aura:** 12-17 (1d6+11) — The highest Aura of any creature in the bestiary; feathers worth more than gold
-- **Will:** 5-8 (1d4+4) — Gentle and retiring; no aggression
-- **Reasoning:** 4-7 (1d4+3) — Standard bird intelligence
-- **Creativity:** 4-7 (1d4+3) — Limited
+Strength
+: 2-5 (1d4+1) — Negligible; a bird weighing half a pound
+
+Endurance
+: 4-7 (1d4+3) — Fragile; stress-sensitive; short-flight specialist
+
+Dexterity
+: 12-17 (1d6+11) — Precise hovering flight for fruit-plucking
+
+Agility
+: 13-18 (1d6+12) — Extraordinary aerial maneuverability in dense canopy
+
+Perception
+: 11-16 (1d6+10) — Good forest-interior senses; adapted for low light
+
+Aura
+: 12-17 (1d6+11) — The highest Aura of any creature in the bestiary; feathers worth more than gold
+
+Will
+: 5-8 (1d4+4) — Gentle and retiring; no aggression
+
+Reasoning
+: 4-7 (1d4+3) — Standard bird intelligence
+
+Creativity
+: 4-7 (1d4+3) — Limited

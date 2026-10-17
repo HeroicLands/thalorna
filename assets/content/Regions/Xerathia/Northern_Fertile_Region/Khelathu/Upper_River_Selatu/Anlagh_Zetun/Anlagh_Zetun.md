@@ -36,8 +36,17 @@ The Halzi'a's house is **Anlaghet'Zaru**, which raised the upper river in 2378 S
 
 ## See Also
 
-- [[affiliation-selatnlghztn|The Selat of Anlagh-Zetun]]—parent selat
-- [[place-amqelulegez|Amqelu-Legez]]—the selat's river-port
-- [[place-eleventhgran|The Eleventh Granary]]—the sealed granary of the rising
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—the selat class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—imperial overview
+[[affiliation-selatnlghztn|The Selat of Anlagh-Zetun]]
+: parent selat
+
+[[place-amqelulegez|Amqelu-Legez]]
+: the selat's river-port
+
+[[place-eleventhgran|The Eleventh Granary]]
+: the sealed granary of the rising
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: the selat class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: imperial overview

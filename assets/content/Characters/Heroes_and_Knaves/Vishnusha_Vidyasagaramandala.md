@@ -456,19 +456,37 @@ Shilavira seeks to create a legacy that extends beyond extracted ore and profit.
 
 ### Strengths
 
-- **Extraordinary Physical Strength**: Shilavira possesses tremendous raw power, capable of wielding massive tools and hauling loads that would exhaust ordinary men. His strength is famous among the mining communities.
-- **Expert Mining Craft**: His knowledge of mining techniques, ore identification, seam reading, and extraction is encyclopedic. He can assess a mining site and determine the best way to work it with great accuracy.
-- **Safety Consciousness**: Shilavira's commitment to mining safety is absolute. Under his oversight, accident rates drop significantly, and he has personally prevented innumerable deaths through his careful rules of work.
-- **Leadership and Mentorship**: Despite his quiet demeanor, Shilavira is a fine leader. Workers follow him not from fear but from trust. He is a patient teacher who has trained numerous younger miners.
-- **Practical Craftsmanship**: Beyond mining, Shilavira is skilled in metalcraft, woodworking, and engineering. He can repair equipment, construct tools, and solve practical problems with ingenuity.
+Extraordinary Physical Strength
+: Shilavira possesses tremendous raw power, capable of wielding massive tools and hauling loads that would exhaust ordinary men. His strength is famous among the mining communities.
+
+Expert Mining Craft
+: His knowledge of mining techniques, ore identification, seam reading, and extraction is encyclopedic. He can assess a mining site and determine the best way to work it with great accuracy.
+
+Safety Consciousness
+: Shilavira's commitment to mining safety is absolute. Under his oversight, accident rates drop significantly, and he has personally prevented innumerable deaths through his careful rules of work.
+
+Leadership and Mentorship
+: Despite his quiet demeanor, Shilavira is a fine leader. Workers follow him not from fear but from trust. He is a patient teacher who has trained numerous younger miners.
+
+Practical Craftsmanship
+: Beyond mining, Shilavira is skilled in metalcraft, woodworking, and engineering. He can repair equipment, construct tools, and solve practical problems with ingenuity.
 
 ### Weaknesses
 
-- **Limits with New Tools**: While excellent with traditional mining techniques, Shilavira struggles with newer, more complex mechanical equipment and novel engineering. He sometimes resists change even when it would prove beneficial.
-- **Limited Formal Education**: Shilavira's education was practical rather than theoretical. He cannot read complex technical texts or engage in mathematical analysis, limiting his ability to understand written regulations or theoretical mining science.
-- **Emotional Reserve**: His difficulty expressing emotions or articulating feelings means he often comes across as distant or unmoved, even when experiencing deep feeling. This can damage relationships and limit his ability to persuade through emotional appeal.
-- **Physical Limitations in Combat**: While extraordinarily strong, Shilavira has received no formal martial training and would be outmatched by a skilled warrior. His strength, great as it is, cannot compensate for technique and experience.
-- **Moral Rigidity**: Shilavira's strong ethical convictions sometimes prevent pragmatic compromise. He can be stubborn when he believes an action violates his principles, even when flexibility might achieve better outcomes.
+Limits with New Tools
+: While excellent with traditional mining techniques, Shilavira struggles with newer, more complex mechanical equipment and novel engineering. He sometimes resists change even when it would prove beneficial.
+
+Limited Formal Education
+: Shilavira's education was practical rather than theoretical. He cannot read complex technical texts or engage in mathematical analysis, limiting his ability to understand written regulations or theoretical mining science.
+
+Emotional Reserve
+: His difficulty expressing emotions or articulating feelings means he often comes across as distant or unmoved, even when experiencing deep feeling. This can damage relationships and limit his ability to persuade through emotional appeal.
+
+Physical Limitations in Combat
+: While extraordinarily strong, Shilavira has received no formal martial training and would be outmatched by a skilled warrior. His strength, great as it is, cannot compensate for technique and experience.
+
+Moral Rigidity
+: Shilavira's strong ethical convictions sometimes prevent pragmatic compromise. He can be stubborn when he believes an action violates his principles, even when flexibility might achieve better outcomes.
 
 ## Social
 
@@ -498,12 +516,17 @@ The Merchant Collective
 
 ## Plot Hooks
 
-1. **The Collapse That Changes Everything**: A catastrophic mine collapse occurs in a section of the deep mines that Shilavira had deemed unsafe and had recommended abandonment of. The Merchant Collective overruled his recommendation, and thirty-seven workers perish. Shilavira can publicly expose the Collective's negligence, potentially destroying his livelihood but potentially preventing future tragedies, or remain silent to protect his own position and his ability to continue advocating for safer practices from within.
+The Collapse That Changes Everything
+: A catastrophic mine collapse occurs in a section of the deep mines that Shilavira had deemed unsafe and had recommended abandonment of. The Merchant Collective overruled his recommendation, and thirty-seven workers perish. Shilavira can publicly expose the Collective's negligence, potentially destroying his livelihood but potentially preventing future tragedies, or remain silent to protect his own position and his ability to continue advocating for safer practices from within.
 
-2. **The Forbidden Depths**: During excavation of a new mine shaft, workers discover ancient structures far deeper than previously thought possible—ruins suggesting a vast underground civilization of unknown origin. The Merchant Collective orders the discovery concealed and mining continued, but Shilavira becomes convinced that digging further risks awakening something dangerous. He must either obey orders, pursue the mystery in secret, or defy the Collective entirely to prevent what may be catastrophic.
+The Forbidden Depths
+: During excavation of a new mine shaft, workers discover ancient structures far deeper than previously thought possible—ruins suggesting a vast underground civilization of unknown origin. The Merchant Collective orders the discovery concealed and mining continued, but Shilavira becomes convinced that digging further risks awakening something dangerous. He must either obey orders, pursue the mystery in secret, or defy the Collective entirely to prevent what may be catastrophic.
 
-3. **The Cooperative Dream**: A visionary named **Saranda** approaches Shilavira with a proposal: lead a cooperative effort to establish a miner-owned mine, breaking the Collective's monopoly. This would require Shilavira to openly defy his current employers, risk his security, and stake everything on an untested model of organization. Success would change the mining trade; failure would leave him ruined.
+The Cooperative Dream
+: A visionary named **Saranda** approaches Shilavira with a proposal: lead a cooperative effort to establish a miner-owned mine, breaking the Collective's monopoly. This would require Shilavira to openly defy his current employers, risk his security, and stake everything on an untested model of organization. Success would change the mining trade; failure would leave him ruined.
 
-4. **Darkness Rising**: Strange phenomena begin occurring in the mines—equipment mysteriously breaks, workers report shadowy figures in the deep shafts, and several miners go missing in sections of mines that were previously considered safe. Shilavira must investigate these mysteries, which seem to point toward either supernatural forces or a saboteur working within his operation. The investigation threatens to expose secrets that powerful people wish to keep hidden.
+Darkness Rising
+: Strange phenomena begin occurring in the mines—equipment mysteriously breaks, workers report shadowy figures in the deep shafts, and several miners go missing in sections of mines that were previously considered safe. Shilavira must investigate these mysteries, which seem to point toward either supernatural forces or a saboteur working within his operation. The investigation threatens to expose secrets that powerful people wish to keep hidden.
 
-5. **The Whistleblower's Dilemma**: Shilavira discovers evidence that the Merchant Collective is knowingly dumping mining waste into the water sources that supply the city's poorest neighborhoods, causing widespread illness. Making this public would damage the Collective, potentially destroy his livelihood, and might even make him a target for retaliation. Yet remaining silent violates everything he believes in. A writer of public broadsheets approaches him offering protection in exchange for documentation of the dumping, leading to a dangerous dance between justice and survival.
+The Whistleblower's Dilemma
+: Shilavira discovers evidence that the Merchant Collective is knowingly dumping mining waste into the water sources that supply the city's poorest neighborhoods, causing widespread illness. Making this public would damage the Collective, potentially destroy his livelihood, and might even make him a target for retaliation. Yet remaining silent violates everything he believes in. A writer of public broadsheets approaches him offering protection in exchange for documentation of the dumping, leading to a dangerous dance between justice and survival.

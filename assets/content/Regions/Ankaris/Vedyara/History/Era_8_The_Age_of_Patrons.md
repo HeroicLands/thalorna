@@ -18,9 +18,14 @@ About 560 the [[affiliation-agnipantha|Agmi-pantra]] scoured a temple in Vyalend
 
 ## Rulers
 
-- **Shikharalaya:** the widow **Jvalasundari**, acclaimed about 590; three reigns since have kept the present policy on the Guides' Road; the present Maharava's successor is disputed between the two councils.
-- **Chendrapur:** about 600 the temples refused a claimant for the second time, and about 640 the crown refused a House's succession for the second time. Neither refusal has been explained.
-- **Bhumipala:** a line confirmed by the Martial Council of the forts since Kavravira.
+Shikharalaya
+: the widow **Jvalasundari**, acclaimed about 590; three reigns since have kept the present policy on the Guides' Road; the present Maharava's successor is disputed between the two councils.
+
+Chendrapur
+: about 600 the temples refused a claimant for the second time, and about 640 the crown refused a House's succession for the second time. Neither refusal has been explained.
+
+Bhumipala
+: a line confirmed by the Martial Council of the forts since Kavravira.
 
 ## The Present
 
@@ -28,5 +33,8 @@ The age's quarrels are a traveler's quarrels: the Shikharalayan councils at odds
 
 ## See Also
 
-- [[lore-compactpeace|The Compact Peace]]—the age before it
-- [[doc-vedyaraadventurersguide|Vedyara Adventurer's Guide]]—Vedyara as a traveler meets it now
+[[lore-compactpeace|The Compact Peace]]
+: the age before it
+
+[[doc-vedyaraadventurersguide|Vedyara Adventurer's Guide]]
+: Vedyara as a traveler meets it now

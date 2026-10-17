@@ -431,12 +431,17 @@ Few; he is generally well respected, though he has competitors in the trade.
 
 ## Plot Hooks
 
-1. **The Salter's Dilemma**—A merchant offers to take Alvaren's whole output at a price that would mean cutting off the coastal towns he supplies.
+The Salter's Dilemma
+: A merchant offers to take Alvaren's whole output at a price that would mean cutting off the coastal towns he supplies.
 
-2. **Old Grudges**—A competing salter undercuts Alvaren's prices with salt he suspects is adulterated.
+Old Grudges
+: A competing salter undercuts Alvaren's prices with salt he suspects is adulterated.
 
-3. **Echoes of the Past**—A younger salt worker Alvaren once mentored returns with a saltworks of his own and his old master's methods.
+Echoes of the Past
+: A younger salt worker Alvaren once mentored returns with a saltworks of his own and his old master's methods.
 
-4. **Shifting Winds**—Political change in Tarvénia threatens the trade Alvaren depends upon, and he can adapt, resist, or leave.
+Shifting Winds
+: Political change in Tarvénia threatens the trade Alvaren depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—Alvaren is offered the salt contract for a whole town, and its price is not named up front.
+The Opportunity
+: Alvaren is offered the salt contract for a whole town, and its price is not named up front.

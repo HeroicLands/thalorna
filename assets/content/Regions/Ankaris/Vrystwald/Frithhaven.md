@@ -26,6 +26,11 @@ The Other Chief holds the strongest of the village's three seats, but the other 
 
 ## See Also
 
-- [[place-thornwald|Thornwald]]—the reach around the village
-- [[place-thornhaven|Thornhaven]] and [[place-vethholt|Vethholt]]—neighboring villages reached by forest tracks
-- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—the wider web of independent villages
+[[place-thornwald|Thornwald]]
+: the reach around the village
+
+[[place-thornhaven|Thornhaven]] and [[place-vethholt|Vethholt]]
+: neighboring villages reached by forest tracks
+
+[[affiliation-vrystwldtrbs|Vristwald Tribes]]
+: the wider web of independent villages

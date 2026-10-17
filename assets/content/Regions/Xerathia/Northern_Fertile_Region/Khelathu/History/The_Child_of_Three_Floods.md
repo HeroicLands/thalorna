@@ -63,7 +63,14 @@ Every Gar-Au of the house has been crowned Meqes, and the list numbers them as i
 
 ## See Also
 
-- [[lore-akhhsmeqes|The House of Meqes]]—the age the crowning opened
-- [[lore-akhpriestthr|The Priests' Thrones]]—the age it ended
-- [[lore-garauu|Gar-Auu]]—the king-list, with the reign tables
-- [[being-garaumeqesxv|Gar-Au Meqes XVI]]—the reigning Gar-Au
+[[lore-akhhsmeqes|The House of Meqes]]
+: the age the crowning opened
+
+[[lore-akhpriestthr|The Priests' Thrones]]
+: the age it ended
+
+[[lore-garauu|Gar-Auu]]
+: the king-list, with the reign tables
+
+[[being-garaumeqesxv|Gar-Au Meqes XVI]]
+: the reigning Gar-Au

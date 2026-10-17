@@ -73,11 +73,20 @@ A worshipper carries an iron scale for balance and fairness in judgment, a broke
 
 Every rung of the clergy centers on the hov where the local ting sits:
 
-- Refused the Blet: denied the offering at the hov where the local ting sits, and cut from the clergy and from the assembly's standing.
-- Bletmadr: attends the blet at the hov where the ting sits and shares the meal that binds the law to the god.
-- Hofsmadr: given to the hov where the ting sits, laboring at its observances before standing in the priesthood that judges there.
-- Gudi / Gudja: ordained to keep the hov where the ting sits, swearing its oaths and keeping its rites.
-- Hofgudi / Hofgudja: consecrates the hovs where tings sit, ordains their gudar, and performs the great blet at a season's turning.
+Refused the Blet
+: denied the offering at the hov where the local ting sits, and cut from the clergy and from the assembly's standing.
+
+Bletmadr
+: attends the blet at the hov where the ting sits and shares the meal that binds the law to the god.
+
+Hofsmadr
+: given to the hov where the ting sits, laboring at its observances before standing in the priesthood that judges there.
+
+Gudi / Gudja
+: ordained to keep the hov where the ting sits, swearing its oaths and keeping its rites.
+
+Hofgudi / Hofgudja
+: consecrates the hovs where tings sit, ordains their gudar, and performs the great blet at a season's turning.
 
 The faith's skills are legal knowledge and judgment, combat and strategy, oathbinding and mediation, and sacrifice and self-discipline. Two kinds of servant belong to Eidgar: the **Honorguard**, divine warriors who protect the sanctity of law and order, and **Vetrúlfr's Bane**, spirits that uphold justice and often appear in times of conflict to see that it is done fairly.
 
@@ -91,7 +100,14 @@ Three ordeals are held to win the god's favor. In the **[Sword's Trial]{.name da
 
 ## See Also
 
-- [[affiliation-logbrandr|Logbrandr]]—the Order of the Sword, priests who master combat and the upholding of justice
-- [[affiliation-eidringr|Eidringr]]—the Oathsworn, priests who oversee the swearing of oaths and mediate on their breach
-- [[affiliation-eidkappar|Eidkappar]]—the Sword of Eidgar, the faith's fighting order, warriors in justice's name
-- [[affiliation-eidverdir|Eidverdir]]—the Oathkeepers, warriors bound by oaths heavier than a soldier's, sworn to the faith's defense
+[[affiliation-logbrandr|Logbrandr]]
+: the Order of the Sword, priests who master combat and the upholding of justice
+
+[[affiliation-eidringr|Eidringr]]
+: the Oathsworn, priests who oversee the swearing of oaths and mediate on their breach
+
+[[affiliation-eidkappar|Eidkappar]]
+: the Sword of Eidgar, the faith's fighting order, warriors in justice's name
+
+[[affiliation-eidverdir|Eidverdir]]
+: the Oathkeepers, warriors bound by oaths heavier than a soldier's, sworn to the faith's defense

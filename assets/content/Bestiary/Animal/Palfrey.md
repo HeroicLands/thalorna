@@ -302,20 +302,29 @@ Palfreys have little resale value after injury or significant training loss — 
 
 ## Attributes
 
-- **Strength:** 24-29 (1d6+23)
+Strength
+: 24-29 (1d6+23)
 
-- **Endurance:** 8-13 (1d6+7)
+Endurance
+: 8-13 (1d6+7)
 
-- **Agility:** 9-14 (1d6+8)
+Agility
+: 9-14 (1d6+8)
 
-- **Perception:** 15-20 (1d6+14)
+Perception
+: 15-20 (1d6+14)
 
-- **Scent:** 3-6 (1d4+2)
+Scent
+: 3-6 (1d4+2)
 
-- **Aura:** 3-6 (1d4+2)
+Aura
+: 3-6 (1d4+2)
 
-- **Will:** 8-13 (1d6+7)
+Will
+: 8-13 (1d6+7)
 
-- **Reasoning:** 3-6 (1d4+2)
+Reasoning
+: 3-6 (1d4+2)
 
-- **Creativity:** 3-6 (1d4+2)
+Creativity
+: 3-6 (1d4+2)

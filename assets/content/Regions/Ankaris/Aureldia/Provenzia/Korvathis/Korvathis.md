@@ -28,17 +28,23 @@ natural front door to the Vylarian world—which is exactly what it has been sin
 
 ## Its Cities
 
-- [[place-jalnazdal|Jalnasdal]]—the capital and the Crown's seat; a court that is also a port,
-  and where the long contest with the Council of Peers is conducted.
-- [[place-valarencity|Válaren City]]—the great luxury port, polished and rich, and unable to
-  survive a blockade.
-- [[place-kalveza|Kalveza]]—the working harbor that moves the tonnage while Válaren takes the
-  glamour.
-- [[place-aureliane|Aurelane]]—the old Vylarian provincial capital inland, still holding the
-  high courts and the academies.
-- [[place-lizela|Lizela]]—a modest coastal town on the kingdom's largest salt flats.
-- [[place-palvothe|Palvote]]—the green hill town where the gentry escape the summer, and the
-  last market before the old country.
+[[place-jalnazdal|Jalnasdal]]
+: the capital and the Crown's seat; a court that is also a port, and where the long contest with the Council of Peers is conducted.
+
+[[place-valarencity|Válaren City]]
+: the great luxury port, polished and rich, and unable to survive a blockade.
+
+[[place-kalveza|Kalveza]]
+: the working harbor that moves the tonnage while Válaren takes the glamour.
+
+[[place-aureliane|Aurelane]]
+: the old Vylarian provincial capital inland, still holding the high courts and the academies.
+
+[[place-lizela|Lizela]]
+: a modest coastal town on the kingdom's largest salt flats.
+
+[[place-palvothe|Palvote]]
+: the green hill town where the gentry escape the summer, and the last market before the old country.
 
 ## Its Interior
 

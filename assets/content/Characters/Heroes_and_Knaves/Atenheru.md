@@ -435,23 +435,56 @@ Atazkharu, guided by an instinctual pull from the [Jackal Spirit]{.name data-typ
 
 ### Skills and Abilities
 
-- **Strength**: Atazkharu is physically capable, though not heavily muscled.
-- **Endurance**: He has the stamina for long hunts and journeys in the desert.
-- **Dexterity**: His hands are skilled with weapons, especially in precise, silent movements.
-- **Agility**: He moves quietly and quickly, making him hard to catch.
-- **Perception**: Atazkharu has keen senses, essential for both hunting and survival.
-- **Comeliness**: His appearance is plain but rugged, shaped by his harsh environment.
-- **Aura**: He has a quiet, watchful presence, though not overpowering.
-- **Will**: His discipline and focus keep him on task, no matter how long it takes.
-- **Reasoning**: Atazkharu’s intelligence is practical, honed by years of surviving in the wild.
-- **Creativity**: While not highly creative, he’s resourceful in difficult situations.
-- **Empathy**: He tends to keep his emotions to himself, making him seem detached.
-- **Eloquence**: He prefers silence over speaking, communicating only when necessary.
-- **Morality**: Atazkharu’s actions are driven by duty and survival in the harsh desert, but he adheres to the codes of his people when necessary, often balancing pragmatism with tradition.
-- **Voice**: Atazkharu’s voice is quiet and often soft-spoken, better suited for stealth and secrecy than for singing. He avoids singing when possible.
-- **Desert Survivalist**: Atazkharu’s mastery of the Khazryn Desert allows him to navigate the harsh environment with ease, so the group can find shelter, water, and food even in the most desolate areas.
-- **Silent Tracker**: As a ranger, Atazkharu can move unnoticed through almost any terrain, making him useful as a scout and guide. His ability to follow tracks, both physical and spiritual, helps the group avoid danger.
-- **Spiritual Connection to the Jackal Spirit**: Atazkharu feels a deep bond with the Jackal Spirit, which guides him through intuition and dreams. This connection allows him to sense spiritual disturbances or approaching threats, protecting the group from dangers both seen and unseen.
+Strength
+: Atazkharu is physically capable, though not heavily muscled.
+
+Endurance
+: He has the stamina for long hunts and journeys in the desert.
+
+Dexterity
+: His hands are skilled with weapons, especially in precise, silent movements.
+
+Agility
+: He moves quietly and quickly, making him hard to catch.
+
+Perception
+: Atazkharu has keen senses, essential for both hunting and survival.
+
+Comeliness
+: His appearance is plain but rugged, shaped by his harsh environment.
+
+Aura
+: He has a quiet, watchful presence, though not overpowering.
+
+Will
+: His discipline and focus keep him on task, no matter how long it takes.
+
+Reasoning
+: Atazkharu’s intelligence is practical, honed by years of surviving in the wild.
+
+Creativity
+: While not highly creative, he’s resourceful in difficult situations.
+
+Empathy
+: He tends to keep his emotions to himself, making him seem detached.
+
+Eloquence
+: He prefers silence over speaking, communicating only when necessary.
+
+Morality
+: Atazkharu’s actions are driven by duty and survival in the harsh desert, but he adheres to the codes of his people when necessary, often balancing pragmatism with tradition.
+
+Voice
+: Atazkharu’s voice is quiet and often soft-spoken, better suited for stealth and secrecy than for singing. He avoids singing when possible.
+
+Desert Survivalist
+: Atazkharu’s mastery of the Khazryn Desert allows him to navigate the harsh environment with ease, so the group can find shelter, water, and food even in the most desolate areas.
+
+Silent Tracker
+: As a ranger, Atazkharu can move unnoticed through almost any terrain, making him useful as a scout and guide. His ability to follow tracks, both physical and spiritual, helps the group avoid danger.
+
+Spiritual Connection to the Jackal Spirit
+: Atazkharu feels a deep bond with the Jackal Spirit, which guides him through intuition and dreams. This connection allows him to sense spiritual disturbances or approaching threats, protecting the group from dangers both seen and unseen.
 
 ## Psyche
 
@@ -465,18 +498,27 @@ Atazkharu believes that Amqelet-Zelemu Legulu’akun’s visions are tied to the
 
 ### Strengths
 
-- **Tracking**: Master tracker, able to navigate harsh desert terrain.
-- **Stealth**: Skilled at moving silently and avoiding detection.
-- **Spiritual Connection**: Deep bond with the Jackal Spirit, offering protection.
+Tracking
+: Master tracker, able to navigate harsh desert terrain.
+
+Stealth
+: Skilled at moving silently and avoiding detection.
+
+Spiritual Connection
+: Deep bond with the Jackal Spirit, offering protection.
 
 ## Social
 
 ## Plot Hooks
 
-1. **The Sands of Deception**: A caravan under Atazkharu’s protection disappears without a trace, leaving behind only strange tracks leading into the desert. As Atazkharu investigates, he uncovers evidence of a group using illusions to ambush and enslave travelers. To stop them, he must navigate the shifting dunes while contending with a rising fear that these enemies are connected to his own tribe’s lost past.
+The Sands of Deception
+: A caravan under Atazkharu’s protection disappears without a trace, leaving behind only strange tracks leading into the desert. As Atazkharu investigates, he uncovers evidence of a group using illusions to ambush and enslave travelers. To stop them, he must navigate the shifting dunes while contending with a rising fear that these enemies are connected to his own tribe’s lost past.
 
-2. **The Oasis of Whispers**: Atazkharu’s travels take him to an oasis said to grant visions of the future to those who drink from its waters. After partaking, Atazkharu receives fragmented images of his companions in peril and a veiled figure offering aid. But the vision comes with a warning: the figure’s help will come at a price that could fracture their unity.
+The Oasis of Whispers
+: Atazkharu’s travels take him to an oasis said to grant visions of the future to those who drink from its waters. After partaking, Atazkharu receives fragmented images of his companions in peril and a veiled figure offering aid. But the vision comes with a warning: the figure’s help will come at a price that could fracture their unity.
 
-3. **The Jackal’s Shadow**: Rumors spread of a deadly ranger, clad in similar attire to Atazkharu, attacking merchant routes and leaving no survivors. The local tribes accuse Atazkharu of betrayal, forcing him to track down the impersonator. His hunt leads him to a former ally turned bitter enemy, who now uses the guise of the Jackal Spirit to settle old grudges.
+The Jackal’s Shadow
+: Rumors spread of a deadly ranger, clad in similar attire to Atazkharu, attacking merchant routes and leaving no survivors. The local tribes accuse Atazkharu of betrayal, forcing him to track down the impersonator. His hunt leads him to a former ally turned bitter enemy, who now uses the guise of the Jackal Spirit to settle old grudges.
 
-4. **The Spirit’s Trial**: The Jackal Spirit that guides Atazkharu begins to withdraw its favor, and strange misfortunes befall him. Seeking answers, Atazkharu undertakes a solitary journey to the Spirit’s sacred shrine, where he must face trials designed to test his loyalty to the land and his companions—and confront whether he is still worthy of the Spirit’s guidance.
+The Spirit’s Trial
+: The Jackal Spirit that guides Atazkharu begins to withdraw its favor, and strange misfortunes befall him. Seeking answers, Atazkharu undertakes a solitary journey to the Spirit’s sacred shrine, where he must face trials designed to test his loyalty to the land and his companions—and confront whether he is still worthy of the Spirit’s guidance.

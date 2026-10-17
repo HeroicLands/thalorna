@@ -73,12 +73,23 @@ The steward had the head-gate closed and sealed. The canal failed because he wan
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the valley and its desert margins
-- [[lore-khelathiclt|Khelathi]]—the Weighing, the Reading, and why an open entry is feared
-- [[lore-readingweigh|The Reading at the Weighing]]—the litany that asks the creditors
-- [[being-tereb|Tereb]]—the cloaked dead
-- [[being-damut|Damut]]—the driven dead
-- [[scenario-sldmouthsadv|The House of Sealed Mouths]]—an adventure set here
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the valley and its desert margins
+
+[[lore-khelathiclt|Khelathi]]
+: the Weighing, the Reading, and why an open entry is feared
+
+[[lore-readingweigh|The Reading at the Weighing]]
+: the litany that asks the creditors
+
+[[being-tereb|Tereb]]
+: the cloaked dead
+
+[[being-damut|Damut]]
+: the driven dead
+
+[[scenario-sldmouthsadv|The House of Sealed Mouths]]
+: an adventure set here
 
 # What Is Really There {#truth .secret}
 

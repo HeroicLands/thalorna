@@ -26,6 +26,11 @@ Kudumel feels different from the other port cities, and its faith is the cleares
 
 ## See Also
 
-- [[affiliation-qudumel|Kudumel]]—the city-state
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the confederation
-- [[place-taruzelrgn|Taruzel Region]]—the regional overview
+[[affiliation-qudumel|Kudumel]]
+: the city-state
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the confederation
+
+[[place-taruzelrgn|Taruzel Region]]
+: the regional overview

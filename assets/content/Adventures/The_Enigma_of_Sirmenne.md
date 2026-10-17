@@ -76,11 +76,20 @@ Upon arrival at Sirmenne, the party discovers:
 
 The party must navigate the ruins, overcome obstacles, and locate the artifact(s). Key elements include:
 
-- **Puzzle Chambers:** Tests of wit, morality, or worthiness designed by the builders
-- **Guardian Constructs:** Magical beings created to preserve and protect the ruins
-- **Layered Mysteries:** Understanding the shared Áelendi-Sinale history and the purpose of this place
-- **The Artifact:** What the party seeks may be dangerous, cursed, or far more significant than expected
-- **A Final Guardian:** Perhaps an ancient Sinale spirit, or a powerful Áelendi shaman bound to the site by oath
+Puzzle Chambers
+: Tests of wit, morality, or worthiness designed by the builders
+
+Guardian Constructs
+: Magical beings created to preserve and protect the ruins
+
+Layered Mysteries
+: Understanding the shared Áelendi-Sinale history and the purpose of this place
+
+The Artifact
+: What the party seeks may be dangerous, cursed, or far more significant than expected
+
+A Final Guardian
+: Perhaps an ancient Sinale spirit, or a powerful Áelendi shaman bound to the site by oath
 
 **Significant Discoveries:**
 

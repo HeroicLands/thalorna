@@ -345,20 +345,29 @@ Despite weighing two tons, a hippopotamus can run at speeds exceeding twenty mil
 
 ## Attributes
 
-- **Strength:** 20-25 (1d6+19)
+Strength
+: 20-25 (1d6+19)
 
-- **Endurance:** 19-24 (1d6+18)
+Endurance
+: 19-24 (1d6+18)
 
-- **Dexterity:** 6-9 (1d4+5)
+Dexterity
+: 6-9 (1d4+5)
 
-- **Agility:** 6-9 (1d4+5)
+Agility
+: 6-9 (1d4+5)
 
-- **Perception:** 9-14 (1d6+8)
+Perception
+: 9-14 (1d6+8)
 
-- **Aura:** 9-14 (1d6+8)
+Aura
+: 9-14 (1d6+8)
 
-- **Will:** 14-19 (1d6+13)
+Will
+: 14-19 (1d6+13)
 
-- **Reasoning:** 5-8 (1d4+4)
+Reasoning
+: 5-8 (1d4+4)
 
-- **Creativity:** 3-6 (1d4+2)
+Creativity
+: 3-6 (1d4+2)

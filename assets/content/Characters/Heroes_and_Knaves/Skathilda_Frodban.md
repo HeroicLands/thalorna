@@ -443,8 +443,11 @@ Her surviving brothers, if they still live, would not welcome a reunion. The fam
 
 ## Plot Hooks
 
-1. **The Weasel's Offer**—Skathilda approaches the party covertly, offering to sell out the Blackpine Wolves' camp location, patrol routes, and Dagbán's habits in exchange for guaranteed safe passage and a modest sum. She is planning to leave the gang anyway and sees an opportunity. Whether she can be trusted is another question entirely.
+The Weasel's Offer
+: Skathilda approaches the party covertly, offering to sell out the Blackpine Wolves' camp location, patrol routes, and Dagbán's habits in exchange for guaranteed safe passage and a modest sum. She is planning to leave the gang anyway and sees an opportunity. Whether she can be trusted is another question entirely.
 
-2. **A Knife in the Dark**—Someone is murdering travelers on the Vristwald road with a single cut to the throat, but the killings don't match the Blackpine Wolves' usual pattern of ambush and robbery. Nothing is stolen. The party investigates and discovers Skathilda has been settling old scores on her own time—the victims are all connected to the men who wronged her in childhood.
+A Knife in the Dark
+: Someone is murdering travelers on the Vristwald road with a single cut to the throat, but the killings don't match the Blackpine Wolves' usual pattern of ambush and robbery. Nothing is stolen. The party investigates and discovers Skathilda has been settling old scores on her own time—the victims are all connected to the men who wronged her in childhood.
 
-3. **The Better Offer**—A Vylarian merchant guild wants to hire the party to eliminate the Blackpine Wolves, but Skathilda has independently approached the same guild offering to deliver the gang herself—for a price. The party arrives to find the situation more complicated than a simple bandit hunt, and must decide whether to work with, against, or around the most dangerous member of the gang.
+The Better Offer
+: A Vylarian merchant guild wants to hire the party to eliminate the Blackpine Wolves, but Skathilda has independently approached the same guild offering to deliver the gang herself—for a price. The party arrives to find the situation more complicated than a simple bandit hunt, and must decide whether to work with, against, or around the most dangerous member of the gang.

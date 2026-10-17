@@ -73,10 +73,17 @@ sohl: {system: {commonSkills: []}}
 
 The Iron Wolves Company is the kind of mercenary company that other mercenary companies refer to in the third person at length and avoid sharing camps with when possible. It is the company that takes the contract nobody else will sign.
 
-- Type: independent mercenary company
-- Region: [[place-byzariargn|Bizaria]] principally; operates throughout western [[place-ankrscntnnt|Ankaris]] under contract
-- Strength: approximately one hundred and twenty effectives at present muster, with reserve and auxiliary perhaps doubling that figure
-- Status: operating; unsigned with the [[affiliation-malldbndlg|Málalidabandalag]]; has held no consistent contract with the [[affiliation-byzarianlg|Bizarian League]]'s military in over a decade
+Type
+: independent mercenary company
+
+Region
+: [[place-byzariargn|Bizaria]] principally; operates throughout western [[place-ankrscntnnt|Ankaris]] under contract
+
+Strength
+: approximately one hundred and twenty effectives at present muster, with reserve and auxiliary perhaps doubling that figure
+
+Status
+: operating; unsigned with the [[affiliation-malldbndlg|Málalidabandalag]]; has held no consistent contract with the [[affiliation-byzarianlg|Bizarian League]]'s military in over a decade
 
 ## Overview
 
@@ -100,18 +107,34 @@ Trianthion is the central wound in the company's modern history. It produced one
 
 The company is structured along legion lines, with adaptations for mercenary work:
 
-- Captain—Filazur Zighidek; commands the whole.
-- Two First-Sergeants—operational deputies; one handles training and standing administration, the other handles field operations.
-- Five Section-Lieutenants—each commanding a section of approximately twenty effectives organized for combined operations (heavy infantry, light infantry, archery, scouts, support).
-- Quartermaster and Paymaster—civilian staff under contract; manage logistics and accounts.
-- Standing Cadre of Sergeants—six to ten experienced veterans below the lieutenants; the company's backbone in any engagement.
+Captain
+: Filazur Zighidek; commands the whole.
+
+Two First-Sergeants
+: operational deputies; one handles training and standing administration, the other handles field operations.
+
+Five Section-Lieutenants
+: each commanding a section of approximately twenty effectives organized for combined operations (heavy infantry, light infantry, archery, scouts, support).
+
+Quartermaster and Paymaster
+: civilian staff under contract; manage logistics and accounts.
+
+Standing Cadre of Sergeants
+: six to ten experienced veterans below the lieutenants; the company's backbone in any engagement.
 
 ### Notable Personnel
 
-- Captain Filazur Zighidek—professional, methodical, cold-blooded by selection rather than by temperament. He has no record of personal cruelty and is regarded by his men as fair, even generous. His decisions about which contracts to accept are the moral question that he, alone among the company, refuses to ask.
-- **First-Sergeant [[being-parzheliontr|Parzhelion Trividek]]**—Filazur's senior field deputy and a Trianthion veteran. Parzhelion was a lieutenant at Trianthion under the previous captain and has never forgiven [[being-ghymrhrptrks|Ghimaráhr Rores]] for his subsequent desertion. Parzhelion keeps an informal standing inquiry running for any rumor of Ghimaráhr's whereabouts and is widely understood to be the principal reason the company has not formally retired the bounty.
-- First-Sergeant **[Ghorigios Aikastos]{.name data-type="being/npc"}**—the administrative deputy; a former Vylarian quartermaster recruited for his logistics. Universally respected, occasionally feared.
-- Lieutenant **[Áneveze Pédhikot]{.name data-type="being/npc"}**—commands the company's archery section; the only senior woman in command; widely considered the most tactically gifted officer in the company.
+Captain Filazur Zighidek
+: professional, methodical, cold-blooded by selection rather than by temperament. He has no record of personal cruelty and is regarded by his men as fair, even generous. His decisions about which contracts to accept are the moral question that he, alone among the company, refuses to ask.
+
+First-Sergeant [[being-parzheliontr|Parzhelion Trividek]]
+: Filazur's senior field deputy and a Trianthion veteran. Parzhelion was a lieutenant at Trianthion under the previous captain and has never forgiven [[being-ghymrhrptrks|Ghimaráhr Rores]] for his subsequent desertion. Parzhelion keeps an informal standing inquiry running for any rumor of Ghimaráhr's whereabouts and is widely understood to be the principal reason the company has not formally retired the bounty.
+
+First-Sergeant **[Ghorigios Aikastos]{.name data-type="being/npc"}**
+: the administrative deputy; a former Vylarian quartermaster recruited for his logistics. Universally respected, occasionally feared.
+
+Lieutenant **[Áneveze Pédhikot]{.name data-type="being/npc"}**
+: commands the company's archery section; the only senior woman in command; widely considered the most tactically gifted officer in the company.
 
 ## Territory and Operations
 
@@ -138,10 +161,17 @@ Training is rigorous and selective. The company recruits primarily from cashiere
 
 ## Relations
 
-- The Bizarian League—formally at arm's length; informally, the League knows what the company does and lets it operate because the company occasionally executes contracts the League itself would have preferred to commission. League investigations into Iron Wolves activity are reliably inconclusive.
-- The [[affiliation-malldbndlg|Málalidabandalag]]—unsigned and unwelcome. The Compact has refused the Iron Wolves' application for membership twice, both times for the company's pattern of civilian-target contracts. The Compact's senior captains regard the company with professional disdain; one of them puts it in a sentence: "They will sign anything, and that is the whole of what is wrong with them."
-- The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]—interested counterparty. Both [[affiliation-velvethand|The Velvet Hand]] and [[affiliation-theashroad|The Ash Road]] have, at various points, attempted to retain the company; the company has declined direct syndicate retainers while accepting contracts that it understood to be syndicate-funded through intermediaries.
-- [[being-ghymrhrptrks|Ghimaráhr Rores]]—the great unfinished business. The company's standing position is that Ghimaráhr is a deserter and a security risk whose silence cannot be assumed indefinitely. There is a quiet bounty on him; no one has yet claimed it because no one has yet located him.
+The Bizarian League
+: formally at arm's length; informally, the League knows what the company does and lets it operate because the company occasionally executes contracts the League itself would have preferred to commission. League investigations into Iron Wolves activity are reliably inconclusive.
+
+The [[affiliation-malldbndlg|Málalidabandalag]]
+: unsigned and unwelcome. The Compact has refused the Iron Wolves' application for membership twice, both times for the company's pattern of civilian-target contracts. The Compact's senior captains regard the company with professional disdain; one of them puts it in a sentence: "They will sign anything, and that is the whole of what is wrong with them."
+
+The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]
+: interested counterparty. Both [[affiliation-velvethand|The Velvet Hand]] and [[affiliation-theashroad|The Ash Road]] have, at various points, attempted to retain the company; the company has declined direct syndicate retainers while accepting contracts that it understood to be syndicate-funded through intermediaries.
+
+[[being-ghymrhrptrks|Ghimaráhr Rores]]
+: the great unfinished business. The company's standing position is that Ghimaráhr is a deserter and a security risk whose silence cannot be assumed indefinitely. There is a quiet bounty on him; no one has yet claimed it because no one has yet located him.
 
 ## Identifying Marks
 

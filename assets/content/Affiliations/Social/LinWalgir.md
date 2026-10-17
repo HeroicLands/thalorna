@@ -48,4 +48,5 @@ If you want to hire one, do not advertise. Ask the quietest member of the carava
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the region it belongs to
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the region it belongs to

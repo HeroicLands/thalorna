@@ -18,5 +18,8 @@ The journey is hard and is made for a reason. [[being-amqltzlmlglq|Amqelet-Zelem
 
 ## See Also
 
-- [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]]—the astrologer who crossed it
-- [[place-aukhelathrgq|Au'Khelathu]]—the empire whose astrologers hold it sacred
+[[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]]
+: the astrologer who crossed it
+
+[[place-aukhelathrgq|Au'Khelathu]]
+: the empire whose astrologers hold it sacred

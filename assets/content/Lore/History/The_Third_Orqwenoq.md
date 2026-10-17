@@ -73,6 +73,11 @@ About 548 AF an orkun forced the independent tribes of the [[place-khzryndsrtrgn
 
 ## See Also
 
-- [[place-qimod|Qiimod]]—the town it killed
-- [[lore-swdsclndr|The Sovidur Reckoning]]—the count that begins with it
-- [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]—the union before it
+[[place-qimod|Qiimod]]
+: the town it killed
+
+[[lore-swdsclndr|The Sovidur Reckoning]]
+: the count that begins with it
+
+[[lore-hndrdbnnrs|The Storm of the Hundred Banners]]
+: the union before it

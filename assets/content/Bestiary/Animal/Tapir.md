@@ -306,12 +306,29 @@ Tapirs follow the same paths through the forest for years, creating well-worn tr
 
 ## Attributes
 
-- **Strength:** 11-16 (1d6+10) — Heavy and powerful; the battering charge is dangerous
-- **Endurance:** 10-15 (1d6+9) — Solid; good swimming stamina but not a long-distance runner
-- **Dexterity:** 7-10 (1d4+6) — Adequate; proboscis provides some manipulation ability
-- **Agility:** 8-11 (1d4+7) — Decent in water; ungainly on land but surprisingly quick in a straight line
-- **Perception:** 11-16 (1d6+10) — Excellent hearing and smell compensate for poor eyesight
-- **Aura:** 6-9 (1d4+5) — Respected as the forest's oldest inhabitant; not sacred
-- **Will:** 8-11 (1d4+7) — Shy and retiring; prefers flight; will fight when cornered
-- **Reasoning:** 5-8 (1d4+4) — Adequate; remembers trails and water sources
-- **Creativity:** 4-7 (1d4+3) — Limited
+Strength
+: 11-16 (1d6+10) — Heavy and powerful; the battering charge is dangerous
+
+Endurance
+: 10-15 (1d6+9) — Solid; good swimming stamina but not a long-distance runner
+
+Dexterity
+: 7-10 (1d4+6) — Adequate; proboscis provides some manipulation ability
+
+Agility
+: 8-11 (1d4+7) — Decent in water; ungainly on land but surprisingly quick in a straight line
+
+Perception
+: 11-16 (1d6+10) — Excellent hearing and smell compensate for poor eyesight
+
+Aura
+: 6-9 (1d4+5) — Respected as the forest's oldest inhabitant; not sacred
+
+Will
+: 8-11 (1d4+7) — Shy and retiring; prefers flight; will fight when cornered
+
+Reasoning
+: 5-8 (1d4+4) — Adequate; remembers trails and water sources
+
+Creativity
+: 4-7 (1d4+3) — Limited

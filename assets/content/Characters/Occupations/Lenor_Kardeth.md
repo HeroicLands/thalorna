@@ -433,10 +433,14 @@ A younger ratter from Péravel who works the Sórvanda farms with compounds boug
 
 ## Plot Hooks
 
-1. **The Poisoner**—The Péravel ratter's baits have killed a third dog, this time in Sóurimel itself, and the village wants him gone. He has a paper from the physicians that says the compound is safe.
+The Poisoner
+: The Péravel ratter's baits have killed a third dog, this time in Sóurimel itself, and the village wants him gone. He has a paper from the physicians that says the compound is safe.
 
-2. **Scout**—Scout is nine and slowing, and Lenor has not trained a dog to follow him because he did not want to admit the need. A litter has been offered.
+Scout
+: Scout is nine and slowing, and Lenor has not trained a dog to follow him because he did not want to admit the need. A litter has been offered.
 
-3. **Rats Before Winter**—Rats have come into the herb-lofts of Sóurimel in numbers Lenor has never seen, weeks before the first snow. He is beginning to think the rats did not come on their own.
+Rats Before Winter
+: Rats have come into the herb-lofts of Sóurimel in numbers Lenor has never seen, weeks before the first snow. He is beginning to think the rats did not come on their own.
 
-4. **The Apprentice Who Watches**—A young man has come to Sóurimel asking to learn the trade from Lenor, and learns it well. He also asks a great many questions about the village, and Sóurimel is careful about questions.
+The Apprentice Who Watches
+: A young man has come to Sóurimel asking to learn the trade from Lenor, and learns it well. He also asks a great many questions about the village, and Sóurimel is careful about questions.

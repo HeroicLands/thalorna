@@ -312,20 +312,29 @@ They climb walls and run along cave roofs as easily as along the floor, and they
 
 ## Attributes
 
-- **Strength:** 10-13 (1d4+9)
+Strength
+: 10-13 (1d4+9)
 
-- **Endurance:** 14-17 (1d4+13)
+Endurance
+: 14-17 (1d4+13)
 
-- **Dexterity:** 14-17 (1d4+13)
+Dexterity
+: 14-17 (1d4+13)
 
-- **Agility:** 17-22 (1d6+16)
+Agility
+: 17-22 (1d6+16)
 
-- **Perception:** 15-20 (1d6+14)
+Perception
+: 15-20 (1d6+14)
 
-- **Aura:** 5-10 (1d6+4)
+Aura
+: 5-10 (1d6+4)
 
-- **Will:** 11-16 (1d6+10)
+Will
+: 11-16 (1d6+10)
 
-- **Reasoning:** 7-12 (1d6+6)
+Reasoning
+: 7-12 (1d6+6)
 
-- **Creativity:** 5-10 (1d6+4)
+Creativity
+: 5-10 (1d6+4)

@@ -23,6 +23,11 @@ The summit shrine keeps the storm aspect of the Celestial Order, and the domain'
 
 ## See Also
 
-- [[affiliation-wejaidmn|Wejai Domain]]—the house and its lord
-- [[place-zuwu|Zuwu]]—the castle town
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[affiliation-wejaidmn|Wejai Domain]]
+: the house and its lord
+
+[[place-zuwu|Zuwu]]
+: the castle town
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

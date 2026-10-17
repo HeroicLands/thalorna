@@ -91,9 +91,20 @@ Chaiwo is sixty-one and has no grown heir. Whoever succeeds him will hold the ga
 
 ## See Also
 
-- [[affiliation-jenchaiempr|Jenchai Empire]]—the realm, the court and the eight houses
-- [[place-zijai|Zijai]]—the mountain of the domain
-- [[place-kowu|Kowu]]—the castle town and seat
-- [[place-zojai|Zojai]]—the Emperor's mountain
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
-- [[affiliation-hojujaidmn|Hojujai Domain]]—the allied house
+[[affiliation-jenchaiempr|Jenchai Empire]]
+: the realm, the court and the eight houses
+
+[[place-zijai|Zijai]]
+: the mountain of the domain
+
+[[place-kowu|Kowu]]
+: the castle town and seat
+
+[[place-zojai|Zojai]]
+: the Emperor's mountain
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait
+
+[[affiliation-hojujaidmn|Hojujai Domain]]
+: the allied house

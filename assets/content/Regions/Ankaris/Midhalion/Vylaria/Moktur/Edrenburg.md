@@ -18,5 +18,8 @@ Edrenburg's taverns are where a con man finds marks and a merchant finds dice, a
 
 ## See Also
 
-- [[being-vndrcgrwld|Vandarik]]—a swindler wanted in the town
-- [[affiliation-blckpnwlvs|The Blackpine Wolves]]—the outlaw band he joined after he fled
+[[being-vndrcgrwld|Vandarik]]
+: a swindler wanted in the town
+
+[[affiliation-blckpnwlvs|The Blackpine Wolves]]
+: the outlaw band he joined after he fled

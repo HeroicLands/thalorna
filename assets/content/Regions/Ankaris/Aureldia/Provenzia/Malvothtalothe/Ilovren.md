@@ -25,6 +25,11 @@ A message that asks a stranger to come alone to the grove near Ilovren on the ni
 
 ## See Also
 
-- [[scenario-webdeceit|The Web of Deceit]]—the adventure's part that confronts Kilan
-- [[place-belsaren|Belsaren]]—the lordship he means to take
-- [[place-leravren|Leravren]]—his ally's lordship
+[[scenario-webdeceit|The Web of Deceit]]
+: the adventure's part that confronts Kilan
+
+[[place-belsaren|Belsaren]]
+: the lordship he means to take
+
+[[place-leravren|Leravren]]
+: his ally's lordship

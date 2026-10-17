@@ -18,5 +18,8 @@ Torvel is the older and prouder of the two, ringed with the ancestral villas of 
 
 ## See Also
 
-- [[place-sixhillsvyl|Six Hills]]—the hills of Orzara
-- [[place-orzara|Orzara]]—the city
+[[place-sixhillsvyl|Six Hills]]
+: the hills of Orzara
+
+[[place-orzara|Orzara]]
+: the city

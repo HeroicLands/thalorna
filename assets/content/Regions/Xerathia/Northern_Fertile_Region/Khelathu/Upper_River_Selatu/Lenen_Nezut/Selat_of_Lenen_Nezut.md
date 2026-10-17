@@ -73,11 +73,26 @@ Lenen-Nezut uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the [[affil
 
 ## See Also
 
-- [[lore-thronelnz|The Throne at Lenen-Nezut]]—the dynasty behind the house
-- [[place-zelhalzi|Zel-Halzi]]—the unmeasured field below the town
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-lenennezut|Lenen-Nezut]]—Selat capital
-- [[affiliation-uqaa|Faith of Uqa'a]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-lenenneztslt|Lenen-Nezut Selat]]—The land the selat holds
+[[lore-thronelnz|The Throne at Lenen-Nezut]]
+: the dynasty behind the house
+
+[[place-zelhalzi|Zel-Halzi]]
+: the unmeasured field below the town
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-lenennezut|Lenen-Nezut]]
+: Selat capital
+
+[[affiliation-uqaa|Faith of Uqa'a]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-lenenneztslt|Lenen-Nezut Selat]]
+: The land the selat holds

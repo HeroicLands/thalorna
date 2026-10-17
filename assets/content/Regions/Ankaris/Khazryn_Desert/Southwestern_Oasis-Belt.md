@@ -28,10 +28,23 @@ In the still-Tellumi oases—[[place-mehrnagord|Mernagord]], [[place-ushtraber|U
 
 ## See Also
 
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—Hold the four great cities
-- [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—Holds the peripheral oases and claims the whole
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—The enclosing region
-- [[place-dkrqrrgn|Diqraqor]]—The stone uplands to the north
-- [[lore-celestialroad|The Celestial Road]]—The southern spur reaches the strip
-- Oasis of Shirvan, [[place-ashkarad|Ashkarad]], Zargandur, [[place-kethramir|Kethramír]]—The four great cities
-- [[place-beitshofar|Beit-Shofár]]—Seat of the Council of the Twelve
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: Hold the four great cities
+
+[[affiliation-khzrncnfdrtn|Tellumi Confederation]]
+: Holds the peripheral oases and claims the whole
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: The enclosing region
+
+[[place-dkrqrrgn|Diqraqor]]
+: The stone uplands to the north
+
+[[lore-celestialroad|The Celestial Road]]
+: The southern spur reaches the strip
+
+Oasis of Shirvan, [[place-ashkarad|Ashkarad]], Zargandur, [[place-kethramir|Kethramír]]
+: The four great cities
+
+[[place-beitshofar|Beit-Shofár]]
+: Seat of the Council of the Twelve

@@ -43,8 +43,17 @@ Atarzád merchants have sounded Parván out about a trade compact. The exile hou
 
 ## See Also
 
-- [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the council of the seven houses
-- [[place-swoasisbelt|Tellumel]]—the belt the city stands in
-- [[place-wstrndscnt|The Western Descent]]—the road that ends at its gates
-- [[place-oasishirvn|Oasis of Shirvan]]—the nearest lost city
-- [[place-ushtraber|Ushtra-ber]] and [[place-vahurdash|Vahurdash]]—the other two cities still under Tellumi princes
+[[affiliation-khzrncnfdrtn|Tellumi Confederation]]
+: the council of the seven houses
+
+[[place-swoasisbelt|Tellumel]]
+: the belt the city stands in
+
+[[place-wstrndscnt|The Western Descent]]
+: the road that ends at its gates
+
+[[place-oasishirvn|Oasis of Shirvan]]
+: the nearest lost city
+
+[[place-ushtraber|Ushtra-ber]] and [[place-vahurdash|Vahurdash]]
+: the other two cities still under Tellumi princes

@@ -22,6 +22,11 @@ A _kurthos_'s freedman secretary in Orzara, asked what [[affiliation-seldan|Seld
 
 ## See Also
 
-- [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]—the kingdom that holds this land
-- [[place-vylariargn|Vylaria Region]]—the enclosing region
-- [[place-nartum|Nartun]]—the holy city, its seat
+[[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]
+: the kingdom that holds this land
+
+[[place-vylariargn|Vylaria Region]]
+: the enclosing region
+
+[[place-nartum|Nartun]]
+: the holy city, its seat

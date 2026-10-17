@@ -25,6 +25,11 @@ Igelnaru and Tjelsur are one god. They share the water, the river-beasts and the
 
 ## See Also
 
-- [[affiliation-igelnaru|Faith of Igelnaru]]—the cult and its offices
-- [[lore-tjelsukdty|Tjelsur]]—the crocodile-god whose local name Igelnaru is
-- [[affiliation-zeghetnelgu|Zeghet'Nelgu]]—the sacred hunt that carries the cult
+[[affiliation-igelnaru|Faith of Igelnaru]]
+: the cult and its offices
+
+[[lore-tjelsukdty|Tjelsur]]
+: the crocodile-god whose local name Igelnaru is
+
+[[affiliation-zeghetnelgu|Zeghet'Nelgu]]
+: the sacred hunt that carries the cult

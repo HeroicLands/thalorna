@@ -429,10 +429,14 @@ The town's muster-clerk, an old man who keeps the levy's roll and holds that a b
 
 ## Plot Hooks
 
-1. **The Contract**—A dispute over a drove has come to Valdun's court, and the court is reading a contract Hálira illuminated. One side says the bramble border crosses out a clause. She drew it, and it does not.
+The Contract
+: A dispute over a drove has come to Valdun's court, and the court is reading a contract Hálira illuminated. One side says the bramble border crosses out a clause. She drew it, and it does not.
 
-2. **The Factor**—The Péravel factor who showed her the book is at the autumn fair again, and has offered to take her back as an apprentice colorist. The fair ends in three days, and her mother is ill.
+The Factor
+: The Péravel factor who showed her the book is at the autumn fair again, and has offered to take her back as an apprentice colorist. The fair ends in three days, and her mother is ill.
 
-3. **The Warning**—Word of a [[lore-varokhiclt|Varokhi]] war-party has come to Valdun at dusk and must go to every steading by dawn, in as many copies as there are riders. Hálira is the fastest pen in the town, and the muster-clerk will not have her.
+The Warning
+: Word of a [[lore-varokhiclt|Varokhi]] war-party has come to Valdun at dusk and must go to every steading by dawn, in as many copies as there are riders. Hálira is the fastest pen in the town, and the muster-clerk will not have her.
 
-4. **The Bond**—An escort bond has been presented in Hálira's hand for a pack-train she never wrote for, and the escort it hired has vanished with the train.
+The Bond
+: An escort bond has been presented in Hálira's hand for a pack-train she never wrote for, and the escort it hired has vanished with the train.

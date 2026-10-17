@@ -22,6 +22,11 @@ People at Hringstead tell of the **[Ride over Hringstead]{.name data-type="lore/
 
 ## See Also
 
-- [[affiliation-malldbndlg|Málalidabandalag]]—the compact whose Hall stands here
-- [[affiliation-skaldscrcl|Skalds' Circle]]—sworn here about 110 AF, by its own tradition
-- [[lore-vthgdhstry|Histories and Legends of Vithgard]]—the tale of the ride
+[[affiliation-malldbndlg|Málalidabandalag]]
+: the compact whose Hall stands here
+
+[[affiliation-skaldscrcl|Skalds' Circle]]
+: sworn here about 110 AF, by its own tradition
+
+[[lore-vthgdhstry|Histories and Legends of Vithgard]]
+: the tale of the ride

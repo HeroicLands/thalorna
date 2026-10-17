@@ -445,26 +445,38 @@ Its channeling floods the currents of magic for a long way round it. Near it, no
 
 ## Attributes
 
-- **Strength:** 58-63 (1d6+57)
+Strength
+: 58-63 (1d6+57)
 
-- **Endurance:** 43-48 (1d6+42)
+Endurance
+: 43-48 (1d6+42)
 
-- **Dexterity:** 7-10 (1d4+6)
+Dexterity
+: 7-10 (1d4+6)
 
-- **Agility:** 7-10 (1d4+6)
+Agility
+: 7-10 (1d4+6)
 
-- **Perception:** 13-18 (1d6+12)
+Perception
+: 13-18 (1d6+12)
 
-- **Scent:** 2-5 (1d4+1)
+Scent
+: 2-5 (1d4+1)
 
-- **Aura:** 12-17 (1d6+11)
+Aura
+: 12-17 (1d6+11)
 
-- **Will:** 19-24 (1d6+18)
+Will
+: 19-24 (1d6+18)
 
-- **Reasoning:** 15-20 (1d6+14)
+Reasoning
+: 15-20 (1d6+14)
 
-- **Creativity:** 11-16 (1d6+10)
+Creativity
+: 11-16 (1d6+10)
 
-- **Empathy:** 11-16 (1d6+10)
+Empathy
+: 11-16 (1d6+10)
 
-- **Eloquence:** 15-20 (1d6+14)
+Eloquence
+: 15-20 (1d6+14)

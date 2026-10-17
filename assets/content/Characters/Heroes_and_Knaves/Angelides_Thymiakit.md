@@ -451,29 +451,40 @@ Fodios drives himself relentlessly to create fragrances that go beyond craftsman
 
 ### Strengths
 
-- **Olfactory Mastery**: Perfumery elevated through five decades of obsessive study and experimental work. Fodios can compose fragrances of stunning complexity, layering top, middle, and base notes into symphonic olfactory experiences. He can identify and work with thousands of distinct botanical and animal essences.
+Olfactory Mastery
+: Perfumery elevated through five decades of obsessive study and experimental work. Fodios can compose fragrances of stunning complexity, layering top, middle, and base notes into symphonic olfactory experiences. He can identify and work with thousands of distinct botanical and animal essences.
 
-- **Perception**: His perception, the sharpest of his faculties, catches nuances in scent, in human behavior, and in the play of company that others entirely miss. He reads people with supernatural accuracy, understanding their desires before they articulate them.
+Perception
+: His perception, the sharpest of his faculties, catches nuances in scent, in human behavior, and in the play of company that others entirely miss. He reads people with supernatural accuracy, understanding their desires before they articulate them.
 
-- **Masterful Communication**: Eloquence, charm, and a gift for theatrics make him a compelling presence in any context. He can persuade, inspire, and manipulate through language, and his performance as a courtier or salesman is nearly flawless.
+Masterful Communication
+: Eloquence, charm, and a gift for theatrics make him a compelling presence in any context. He can persuade, inspire, and manipulate through language, and his performance as a courtier or salesman is nearly flawless.
 
-- **Herbal and Mineral Knowledge**: His herblore and mineralogy allow him to understand the complex chemistry of his materials—how bergamot oils interact with rare mineral compounds, how animal musks transform when blended with specific plant essences. This knowledge is fundamental to his revolutionary approaches.
+Herbal and Mineral Knowledge
+: His herblore and mineralogy allow him to understand the complex chemistry of his materials—how bergamot oils interact with rare mineral compounds, how animal musks transform when blended with specific plant essences. This knowledge is fundamental to his revolutionary approaches.
 
-- **Artist and Scholar**: His script and drawing provide the foundations for documentation and design work. He keeps careful journals of every experiment, creating detailed drawings and formulas that constitute a lifetime archive of olfactory research.
+Artist and Scholar
+: His script and drawing provide the foundations for documentation and design work. He keeps careful journals of every experiment, creating detailed drawings and formulas that constitute a lifetime archive of olfactory research.
 
-- **Musical Sophistication**: His musicianship, his highest skill, reflects an almost supernatural understanding of composition, harmony, and rhythm. He often discusses fragrance in musical terms, treating scent as a form of abstract music, each component a "note" in a larger symphony.
+Musical Sophistication
+: His musicianship, his highest skill, reflects an almost supernatural understanding of composition, harmony, and rhythm. He often discusses fragrance in musical terms, treating scent as a form of abstract music, each component a "note" in a larger symphony.
 
 ### Weaknesses
 
-- **Pathological Perfectionism**: He is never satisfied with his work, no matter how acclaimed. He frequently recalls completed commissions to rework them, driving clients to frustration. His obsessive revisions often delay projects by months or years.
+Pathological Perfectionism
+: He is never satisfied with his work, no matter how acclaimed. He frequently recalls completed commissions to rework them, driving clients to frustration. His obsessive revisions often delay projects by months or years.
 
-- **Emotional Volatility**: His temperament is volcanic. When he believes his vision has been compromised or his work disrespected, he can erupt into cutting dismissals and harsh judgment. His creative fury is well known, and some former apprentices bear emotional scars from his reproach.
+Emotional Volatility
+: His temperament is volcanic. When he believes his vision has been compromised or his work disrespected, he can erupt into cutting dismissals and harsh judgment. His creative fury is well known, and some former apprentices bear emotional scars from his reproach.
 
-- **Difficulty Delegating**: His perfectionism makes it nearly impossible for him to trust others with important work. He insists on personally overseeing every aspect of production, which limits his capacity and prevents the business from scaling.
+Difficulty Delegating
+: His perfectionism makes it nearly impossible for him to trust others with important work. He insists on personally overseeing every aspect of production, which limits his capacity and prevents the business from scaling.
 
-- **Dangerous Obsession**: His fixation on capturing Sefade's essence through fragrance borders on sickness. He occasionally pursues lines of inquiry that seem motivated by ghost-chasing rather than sound craft. Some worry he is slowly unraveling beneath the weight of his own standards.
+Dangerous Obsession
+: His fixation on capturing Sefade's essence through fragrance borders on sickness. He occasionally pursues lines of inquiry that seem motivated by ghost-chasing rather than sound craft. Some worry he is slowly unraveling beneath the weight of his own standards.
 
-- **Social Isolation**: Despite his charm and eloquence, he maintains a deep emotional distance from others. He has few real friends and no romantic entanglements, channeling all intimate capacity into his work. This isolation intensifies his obsessive tendencies.
+Social Isolation
+: Despite his charm and eloquence, he maintains a deep emotional distance from others. He has few real friends and no romantic entanglements, channeling all intimate capacity into his work. This isolation intensifies his obsessive tendencies.
 
 ## Social
 
@@ -509,12 +520,17 @@ The Bizarian League Artisans' Guild
 
 ## Plot Hooks
 
-1. **The Scent of Resurrection**: An old woman arrives at Fodios' workshop claiming to be a visitor from the spirit realm, bearing a vial containing fragments of a scent she claims belonged to Sefade in life—impossible, since such a thing cannot exist. Yet when Fodios smells it, it contains elements that match his deepest intuitions about what Sefade would have worn. The woman demands he recreate the full fragrance, claiming it will allow Sefade's spirit to briefly walk the material world once more. The task is technically feasible, but it will require materials of such rarity and moral ambiguity that obtaining them will force Fodios to compromise his ethics. The woman may be what she claims, a fraud, or something far stranger.
+The Scent of Resurrection
+: An old woman arrives at Fodios' workshop claiming to be a visitor from the spirit realm, bearing a vial containing fragments of a scent she claims belonged to Sefade in life—impossible, since such a thing cannot exist. Yet when Fodios smells it, it contains elements that match his deepest intuitions about what Sefade would have worn. The woman demands he recreate the full fragrance, claiming it will allow Sefade's spirit to briefly walk the material world once more. The task is technically feasible, but it will require materials of such rarity and moral ambiguity that obtaining them will force Fodios to compromise his ethics. The woman may be what she claims, a fraud, or something far stranger.
 
-2. **The Poisoner's Gambit**: A mysterious client commissions a fragrance with precise and unusual specifications—one that must carry specific olfactory properties while concealing the scent of a particular poison. The payment offered is extraordinary, enough to fund years of research. Fodios realizes immediately that the fragrance is intended to mask a murder weapon. Pulling at him are his need of money, his curiosity about an impossible technical challenge, and his moral principles. When he refuses, the client reveals himself as a high-ranking official in the government—and promises to destroy him if he does not comply.
+The Poisoner's Gambit
+: A mysterious client commissions a fragrance with precise and unusual specifications—one that must carry specific olfactory properties while concealing the scent of a particular poison. The payment offered is extraordinary, enough to fund years of research. Fodios realizes immediately that the fragrance is intended to mask a murder weapon. Pulling at him are his need of money, his curiosity about an impossible technical challenge, and his moral principles. When he refuses, the client reveals himself as a high-ranking official in the government—and promises to destroy him if he does not comply.
 
-3. **The Lost Expedition**: Master Educator Frokumes reveals that a botanical expedition to the fabled Shimmer Gardens in the far south has gone missing. The gardens contain a flowering plant that blooms once every hundred years and produces a nectar with properties that, when properly processed, might create the "perfect fragrance" Fodios has pursued his entire life. Frokumes offers to finance an expedition to locate the lost team and retrieve samples, but the journey will be dangerous, require Fodios to leave his work for months, and likely prove fatal. Yet if the Shimmer Gardens are real, this is his last real chance to achieve the transcendence he seeks.
+The Lost Expedition
+: Master Educator Frokumes reveals that a botanical expedition to the fabled Shimmer Gardens in the far south has gone missing. The gardens contain a flowering plant that blooms once every hundred years and produces a nectar with properties that, when properly processed, might create the "perfect fragrance" Fodios has pursued his entire life. Frokumes offers to finance an expedition to locate the lost team and retrieve samples, but the journey will be dangerous, require Fodios to leave his work for months, and likely prove fatal. Yet if the Shimmer Gardens are real, this is his last real chance to achieve the transcendence he seeks.
 
-4. **The Apprentice's Betrayal**: A talented young apprentice named **Karvánikos Farmakakit** whom Fodios has begun to trust with meaningful work is revealed to be a spy for Fritash Fotokar. Karvánikos was planted specifically to steal formulas and learn trade secrets. When confronted, Karvánikos reveals that Fodios' emotional coldness and impossible standards drove him to seek a master elsewhere. Whether he punishes, forgives, or tries to understand, Fodios has to face what his own behavior has been and whether his pursuit of perfection has cost him the relationships that might have eased his isolation.
+The Apprentice's Betrayal
+: A talented young apprentice named **Karvánikos Farmakakit** whom Fodios has begun to trust with meaningful work is revealed to be a spy for Fritash Fotokar. Karvánikos was planted specifically to steal formulas and learn trade secrets. When confronted, Karvánikos reveals that Fodios' emotional coldness and impossible standards drove him to seek a master elsewhere. Whether he punishes, forgives, or tries to understand, Fodios has to face what his own behavior has been and whether his pursuit of perfection has cost him the relationships that might have eased his isolation.
 
-5. **The Scent of Magic**: A scholar arrives claiming to represent an organization of wizards who have identified that Fodios' fragrances produce measurable magical effects on human perception and emotion—effects that border on sorcery. They wish to study his methods and potentially commission fragrances for arcane purposes. The revelation that his work may be inadvertently magical is both thrilling and terrifying. His fragrances may be masterworks of craft, or he may unknowingly be a conduit for forces he doesn't understand. The organization's interest may be purely scholarly, or they may wish to make weapons of his creations.
+The Scent of Magic
+: A scholar arrives claiming to represent an organization of wizards who have identified that Fodios' fragrances produce measurable magical effects on human perception and emotion—effects that border on sorcery. They wish to study his methods and potentially commission fragrances for arcane purposes. The revelation that his work may be inadvertently magical is both thrilling and terrifying. His fragrances may be masterworks of craft, or he may unknowingly be a conduit for forces he doesn't understand. The organization's interest may be purely scholarly, or they may wish to make weapons of his creations.

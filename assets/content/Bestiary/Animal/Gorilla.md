@@ -489,20 +489,29 @@ A silverback gorilla's strength is famed, and some cultures revere them as fores
 
 ## Attributes
 
-- **Strength:** 22-27 (1d6+21)
+Strength
+: 22-27 (1d6+21)
 
-- **Endurance:** 16-21 (1d6+15)
+Endurance
+: 16-21 (1d6+15)
 
-- **Dexterity:** 10-15 (1d6+9)
+Dexterity
+: 10-15 (1d6+9)
 
-- **Agility:** 9-14 (1d6+8)
+Agility
+: 9-14 (1d6+8)
 
-- **Perception:** 11-16 (1d6+10)
+Perception
+: 11-16 (1d6+10)
 
-- **Aura:** 11-16 (1d6+10)
+Aura
+: 11-16 (1d6+10)
 
-- **Will:** 13-18 (1d6+12)
+Will
+: 13-18 (1d6+12)
 
-- **Reasoning:** 8-13 (1d6+7)
+Reasoning
+: 8-13 (1d6+7)
 
-- **Creativity:** 8-11 (1d4+7)
+Creativity
+: 8-11 (1d4+7)

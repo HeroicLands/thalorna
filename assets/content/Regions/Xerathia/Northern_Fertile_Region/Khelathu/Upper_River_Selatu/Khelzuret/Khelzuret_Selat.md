@@ -41,12 +41,22 @@ The mortuary industry is the economy. Embalming, tomb construction and decoratio
 
 ## Settlements
 
-- [[place-khelzuret|Khelzuret]] (~90,000)—the selat capital and the empire's great temple-city of the dead: the mortuary temples, the pilgrim-markets, the embalmers' and coffin-makers' quarters, and the seat of the Halzi'a in uneasy proximity to the Thaz'Lekhau.
-- [[place-zelqar|Zel-Qar]] (~6,000)—"the **Place of Truth**," the walled tomb-workers' settlement on the west bank: a closed company-town of master-craftsmen, draftsmen and stonecutters who cut and paint the great tombs, hereditary in their trades and proud of their secrets.
-- The pilgrim and farm villages: small communities of 500–2,500 line the east bank and the pilgrim-road, among them [[place-garzekri|Gar-Zekri]], [[place-lutanpuqa|Lut-Anpuqa]], [[place-yathmulu|Yath-Mulu]] and [[place-zmagezer|Zma-Gezer]]. They lodge pilgrims, farm the river margin and serve the endless traffic of the dead and their mourners.
+[[place-khelzuret|Khelzuret]] (~90,000)
+: the selat capital and the empire's great temple-city of the dead: the mortuary temples, the pilgrim-markets, the embalmers' and coffin-makers' quarters, and the seat of the Halzi'a in uneasy proximity to the Thaz'Lekhau.
+
+[[place-zelqar|Zel-Qar]] (~6,000)
+: "the **Place of Truth**," the walled tomb-workers' settlement on the west bank: a closed company-town of master-craftsmen, draftsmen and stonecutters who cut and paint the great tombs, hereditary in their trades and proud of their secrets.
+
+The pilgrim and farm villages
+: small communities of 500–2,500 line the east bank and the pilgrim-road, among them [[place-garzekri|Gar-Zekri]], [[place-lutanpuqa|Lut-Anpuqa]], [[place-yathmulu|Yath-Mulu]] and [[place-zmagezer|Zma-Gezer]]. They lodge pilgrims, farm the river margin and serve the endless traffic of the dead and their mourners.
 
 ## See Also
 
-- [[affiliation-selatkhelzrt|The Selat of Khelzuret]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-khelzuret|Khelzuret]]—Selat capital
+[[affiliation-selatkhelzrt|The Selat of Khelzuret]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-khelzuret|Khelzuret]]
+: Selat capital

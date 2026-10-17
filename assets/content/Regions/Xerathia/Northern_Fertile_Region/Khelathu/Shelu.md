@@ -16,5 +16,8 @@ What the empire does beyond its own borders it does in Shelu. The season closes 
 
 ## See Also
 
-- [[lore-khelathiclt|Khelathi]]—The people and their ways
-- [[lore-khelathclndr|The Khelathi Calendar]]—the three seasons and the five days that close the year
+[[lore-khelathiclt|Khelathi]]
+: The people and their ways
+
+[[lore-khelathclndr|The Khelathi Calendar]]
+: the three seasons and the five days that close the year

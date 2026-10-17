@@ -8,10 +8,17 @@ tags: [draft, nkaruthar]
 data: {packFolder: lorespiritsokharic, culture: okharinclt}
 ---
 
-- **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
-- **Domain:** Rivers
-- **Also called:** the Mother of Rivers
-- **Met through:** [[skill-yombelsprt|Yombel Ngoriring Spirit Power]], in the [[affiliation-yenorzhrng|Yenor Zohiring]]
+Kind
+: [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
+
+Domain
+: Rivers
+
+Also called
+: the Mother of Rivers
+
+Met through
+: [[skill-yombelsprt|Yombel Ngoriring Spirit Power]], in the [[affiliation-yenorzhrng|Yenor Zohiring]]
 
 Yombel Ngoriring is the zohira of rivers as such, and she is met at whichever river a person
 stands beside. The Shókuma country, where the rivers twist through rainforest toward Au'Khelathu, holds

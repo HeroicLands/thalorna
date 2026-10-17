@@ -30,6 +30,11 @@ Thirenae needs Pelagora's fleet, and Pelagora needs Thirenae's diplomatic connec
 
 ## See Also
 
-- [[affiliation-pelagora|Pelagora]]—the city-state and its assembly
-- [[place-helionis|Helionis]]—the region and its city-states
-- [[place-thyrenae2|Thirenae]]—the scholarly rival and partner
+[[affiliation-pelagora|Pelagora]]
+: the city-state and its assembly
+
+[[place-helionis|Helionis]]
+: the region and its city-states
+
+[[place-thyrenae2|Thirenae]]
+: the scholarly rival and partner

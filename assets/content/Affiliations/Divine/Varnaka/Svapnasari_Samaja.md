@@ -66,11 +66,20 @@ sohl:
 
 ## Svapnasari-sameja—The Assembly of the Dream-Followers
 
-- **Tradition:** **Svapnasari-sameja**—_The Assembly of the Dream-Followers_
-- **Deities Venerated:** [[affiliation-svapnadevas|Svapnadevas]] (the [[affiliation-svapnadevas|Dreaming Host]]) as primary; through them, the elder [[lore-goddreams|The God of Dreams]] is revered but not named; [[affiliation-kalavrata|Kalavrata]] honored as a companion presence, since the dead and the dream share the threshold
-- **Emphasis:** Mystical, contemplative, minority sect; oneiromancy, visionary counsel, healing of disturbed minds
-- **Pronunciation:** _SWAP-nah-SAH-ree sa-MAH-jah_
-- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
+Tradition:** **Svapnasari-sameja
+: _The Assembly of the Dream-Followers_
+
+Deities Venerated
+: [[affiliation-svapnadevas|Svapnadevas]] (the [[affiliation-svapnadevas|Dreaming Host]]) as primary; through them, the elder [[lore-goddreams|The God of Dreams]] is revered but not named; [[affiliation-kalavrata|Kalavrata]] honored as a companion presence, since the dead and the dream share the threshold
+
+Emphasis
+: Mystical, contemplative, minority sect; oneiromancy, visionary counsel, healing of disturbed minds
+
+Pronunciation
+: _SWAP-nah-SAH-ree sa-MAH-jah_
+
+Pantheon
+: [[affiliation-varakpnthn|Varnuka Pantheon]]
 
 "You will sleep here tonight, in the long room with the others, and in the morning you tell a **Dorshaka** what you saw. Tell it exactly. Do not tidy it." A **Nidrapala** (Keeper of Sleep) says this to a petitioner at the monastery door, an hour before dusk, while the shutters of the dream-chamber are drawn against the last of the light. He will sit up through the night with the sleepers.
 
@@ -98,8 +107,11 @@ The **[Night of Silver]{.name data-type="lore/gathering"}** falls at the full mo
 
 ### Ordeals for Favor
 
-- **[The Seven-Night Vigil]{.name data-type="lore/custom"}**—seven consecutive nights of dream-vigil, during which the aspirant sleeps lightly in the monastery chamber and reports each morning on the night's dreams. Few aspirants complete it without the intervention of a Dorshaka.
-- **[The Mirror Year]{.name data-type="lore/custom"}**—a year spent serving in a monastery's divination chamber, reading the silver mirror for every petitioner who comes, without refusing a reading and without accepting a fee.
+[The Seven-Night Vigil]{.name data-type="lore/custom"}
+: seven consecutive nights of dream-vigil, during which the aspirant sleeps lightly in the monastery chamber and reports each morning on the night's dreams. Few aspirants complete it without the intervention of a Dorshaka.
+
+[The Mirror Year]{.name data-type="lore/custom"}
+: a year spent serving in a monastery's divination chamber, reading the silver mirror for every petitioner who comes, without refusing a reading and without accepting a fee.
 
 ### Orders
 

@@ -73,9 +73,20 @@ Tjathu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of
 
 ## See Also
 
-- [[affiliation-deltaselatu|The Delta Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-tjathu|Tjathu]]—Selat capital
-- [[affiliation-wethur|Faith of Weth'ur]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-tjathuselat|Tjathu Selat]]—The land the selat holds
+[[affiliation-deltaselatu|The Delta Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-tjathu|Tjathu]]
+: Selat capital
+
+[[affiliation-wethur|Faith of Weth'ur]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-tjathuselat|Tjathu Selat]]
+: The land the selat holds

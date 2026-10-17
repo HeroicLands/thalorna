@@ -94,7 +94,14 @@ Down the river, the first forest of [[place-bharavavana|Bharavavana]] was given 
 
 ## See Also
 
-- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the gold temples and their constitution
-- [[affiliation-dhnrktjnpd|Danurkota Janapoda]]—the four academies
-- [[affiliation-bhrvdvbhog|Bharava-Devabhona]]—the temple forest
-- [[lore-janpdform|The Janapoda Form]]—the older pattern the highland janapadas follow
+[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+: the gold temples and their constitution
+
+[[affiliation-dhnrktjnpd|Danurkota Janapoda]]
+: the four academies
+
+[[affiliation-bhrvdvbhog|Bharava-Devabhona]]
+: the temple forest
+
+[[lore-janpdform|The Janapoda Form]]
+: the older pattern the highland janapadas follow

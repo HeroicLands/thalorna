@@ -76,15 +76,38 @@ Sailors are practical polytheists. They honor whichever god of the sea seems lik
 
 ## See Also
 
-- [[place-midhalnrgn|Mídhalión Region]]—the region the sea holds together
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the northern imperial power
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the eastern naval power
-- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the eastern shore
-- [[affiliation-bethuanflt|Bethuan Fleet]]—the southern raiders
-- [[place-helionis|Helionis]]—central intellectual and maritime presence
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—dominant southern-shore power
-- [[affiliation-okharis|Okharis]]—southwestern shore
-- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—central southern shore
-- [[skill-valtarlng|Valtari]]—the sea's trade pidgin
-- [[place-ankrscntnnt|Ankaris Continent]]—the northern continent
-- [[place-xerathia|Zerathia]]—the southern continent
+[[place-midhalnrgn|Mídhalión Region]]
+: the region the sea holds together
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the northern imperial power
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the eastern naval power
+
+[[affiliation-kngdmmrdd|Kingdom of Amradad]]
+: the eastern shore
+
+[[affiliation-bethuanflt|Bethuan Fleet]]
+: the southern raiders
+
+[[place-helionis|Helionis]]
+: central intellectual and maritime presence
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: dominant southern-shore power
+
+[[affiliation-okharis|Okharis]]
+: southwestern shore
+
+[[affiliation-mtrrchybth|Matriarchy of Bethua]]
+: central southern shore
+
+[[skill-valtarlng|Valtari]]
+: the sea's trade pidgin
+
+[[place-ankrscntnnt|Ankaris Continent]]
+: the northern continent
+
+[[place-xerathia|Zerathia]]
+: the southern continent

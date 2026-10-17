@@ -432,20 +432,47 @@ Hlirthselda is a fierce warrior from the trading town of [[place-vrathavn|Vratha
 
 ### Skills and Abilities
 
-- **Strength**: Hlirthselda is physically powerful, with the strength of a warrior.
-- **Endurance**: She can endure the rigors of battle and long campaigns.
-- **Dexterity**: Hlirthselda is skilled in handling her weapons with precision.
-- **Agility**: She moves with speed and grace in battle, making her an effective fighter.
-- **Perception**: Hlirthselda is observant in battle but not particularly keen on details outside of combat.
-- **Comeliness**: Her appearance is rugged but not unattractive, giving her a tough beauty.
-- **Aura**: Hlirthselda commands respect, but her presence is more physical than spiritual.
-- **Will**: Her willpower is strong, driven by her warrior spirit.
-- **Reasoning**: Hlirthselda relies more on instinct than reasoning, especially in battle.
-- **Creativity**: While she’s innovative in combat, she doesn’t rely on creativity in other aspects of life.
-- **Empathy**: Hlirthselda focuses more on her duty than personal relationships.
-- **Eloquence**: She’s straightforward in her communication, preferring action over words.
-- **Morality**: Hlirthselda is guided by her code of honor and loyalty as a shield-maiden but is willing to act pragmatically when needed, especially in defense of her people.
-- **Voice**: Hlirthselda’s voice is sturdy and reliable, matching her shield-maiden’s strength. She can sing battle songs, but her voice is better suited for commanding in the heat of battle.
+Strength
+: Hlirthselda is physically powerful, with the strength of a warrior.
+
+Endurance
+: She can endure the rigors of battle and long campaigns.
+
+Dexterity
+: Hlirthselda is skilled in handling her weapons with precision.
+
+Agility
+: She moves with speed and grace in battle, making her an effective fighter.
+
+Perception
+: Hlirthselda is observant in battle but not particularly keen on details outside of combat.
+
+Comeliness
+: Her appearance is rugged but not unattractive, giving her a tough beauty.
+
+Aura
+: Hlirthselda commands respect, but her presence is more physical than spiritual.
+
+Will
+: Her willpower is strong, driven by her warrior spirit.
+
+Reasoning
+: Hlirthselda relies more on instinct than reasoning, especially in battle.
+
+Creativity
+: While she’s innovative in combat, she doesn’t rely on creativity in other aspects of life.
+
+Empathy
+: Hlirthselda focuses more on her duty than personal relationships.
+
+Eloquence
+: She’s straightforward in her communication, preferring action over words.
+
+Morality
+: Hlirthselda is guided by her code of honor and loyalty as a shield-maiden but is willing to act pragmatically when needed, especially in defense of her people.
+
+Voice
+: Hlirthselda’s voice is sturdy and reliable, matching her shield-maiden’s strength. She can sing battle songs, but her voice is better suited for commanding in the heat of battle.
 
 ## Psyche
 
@@ -459,9 +486,14 @@ Hlirthselda joins [[being-grosdrnrgd|Groa]] because she believes in the Seid’s
 
 ### Strengths
 
-- **Combat**: Expert in wielding the spear and shield.
-- **Defense**: Skilled at using her shield to protect herself and allies.
-- **Leadership**: Inspires loyalty in those she leads.
+Combat
+: Expert in wielding the spear and shield.
+
+Defense
+: Skilled at using her shield to protect herself and allies.
+
+Leadership
+: Inspires loyalty in those she leads.
 
 ## Social
 
@@ -471,10 +503,14 @@ raiders
 
 ## Plot Hooks
 
-1. **The Oathkeeper’s Trial**: Hlirthselda discovers an ancient shield buried beneath her family’s longhouse, marked with runes of protection and strength. Her clan elders reveal it once belonged to her ancestor, a famed oathkeeper who made a vow never to raise arms unjustly. To wield it, Hlirthselda must undertake trials to prove her honor and strength, culminating in a confrontation with an ancient foe of her family.
+The Oathkeeper’s Trial
+: Hlirthselda discovers an ancient shield buried beneath her family’s longhouse, marked with runes of protection and strength. Her clan elders reveal it once belonged to her ancestor, a famed oathkeeper who made a vow never to raise arms unjustly. To wield it, Hlirthselda must undertake trials to prove her honor and strength, culminating in a confrontation with an ancient foe of her family.
 
-2. **Waves of Betrayal**: During a routine patrol, Hlirthselda intercepts raiders bearing symbols of Targud, a tribe her warband thought defeated. Investigation reveals that a nearby clan has secretly allied with the raiders to weaken Norgaad’s defenses. Hlirthselda must expose their treachery and rally her people, risking open conflict between the clans.
+Waves of Betrayal
+: During a routine patrol, Hlirthselda intercepts raiders bearing symbols of Targud, a tribe her warband thought defeated. Investigation reveals that a nearby clan has secretly allied with the raiders to weaken Norgaad’s defenses. Hlirthselda must expose their treachery and rally her people, risking open conflict between the clans.
 
-3. **The Crimson Banner**: A rival shield-maiden challenges Hlirthselda to lead a raid into contested territory to recover a sacred relic—a crimson banner said to bring victory in battle. The mission forces Hlirthselda to handle treacherous terrain, hostile enemies, and the tension of competing loyalties within her own warband.
+The Crimson Banner
+: A rival shield-maiden challenges Hlirthselda to lead a raid into contested territory to recover a sacred relic—a crimson banner said to bring victory in battle. The mission forces Hlirthselda to handle treacherous terrain, hostile enemies, and the tension of competing loyalties within her own warband.
 
-4. **The Ghosts of Vrathavn**: After a fierce storm, the spirits of fallen warriors are seen wandering the outskirts of Vrathavn, lamenting their unfulfilled oaths. Hlirthselda learns that these warriors fought under her family’s banner but were betrayed by a forgotten ally. To lay their spirits to rest, she must uncover the truth of their betrayal and bring justice to those responsible, even if it means facing powerful enemies.
+The Ghosts of Vrathavn
+: After a fierce storm, the spirits of fallen warriors are seen wandering the outskirts of Vrathavn, lamenting their unfulfilled oaths. Hlirthselda learns that these warriors fought under her family’s banner but were betrayed by a forgotten ally. To lay their spirits to rest, she must uncover the truth of their betrayal and bring justice to those responsible, even if it means facing powerful enemies.

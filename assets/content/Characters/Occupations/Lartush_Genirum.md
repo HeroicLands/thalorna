@@ -433,12 +433,17 @@ Former mercenary comrades hold grudges from past conflicts.
 
 ## Plot Hooks
 
-1. **The Swordmaster's Dilemma**—A mercenary company offers to hire the students Lartush has trained, and the pay would take them from the village they were trained to defend.
+The Swordmaster's Dilemma
+: A mercenary company offers to hire the students Lartush has trained, and the pay would take them from the village they were trained to defend.
 
-2. **Old Grudges**—A former comrade who holds Lartush responsible for a past defeat has learned which village he settled in.
+Old Grudges
+: A former comrade who holds Lartush responsible for a past defeat has learned which village he settled in.
 
-3. **Echoes of the Past**—A survivor of a battle Lartush fought as a mercenary comes to the village, and knows him despite the lost eye.
+Echoes of the Past
+: A survivor of a battle Lartush fought as a mercenary comes to the village, and knows him despite the lost eye.
 
-4. **Shifting Winds**—Political change in Taruzel brings war toward the village Lartush trains, and he can adapt, resist, or leave.
+Shifting Winds
+: Political change in Taruzel brings war toward the village Lartush trains, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—A lord offers Lartush command of his household troops, and taking it would put him back in the life he left.
+The Opportunity
+: A lord offers Lartush command of his household troops, and taking it would put him back in the life he left.

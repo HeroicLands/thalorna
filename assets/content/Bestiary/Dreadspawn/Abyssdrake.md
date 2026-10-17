@@ -345,20 +345,29 @@ The drake shuns strong light. A bright lamp, a fire or a lit blessing held up in
 
 ## Attributes
 
-- **Strength:** 15-18 (1d4+14)
+Strength
+: 15-18 (1d4+14)
 
-- **Endurance:** 15-18 (1d4+14)
+Endurance
+: 15-18 (1d4+14)
 
-- **Dexterity:** 11-14 (1d4+10)
+Dexterity
+: 11-14 (1d4+10)
 
-- **Agility:** 13-16 (1d4+12)
+Agility
+: 13-16 (1d4+12)
 
-- **Perception:** 13-16 (1d4+12)
+Perception
+: 13-16 (1d4+12)
 
-- **Aura:** 17-20 (1d4+16)
+Aura
+: 17-20 (1d4+16)
 
-- **Will:** 15-18 (1d4+14)
+Will
+: 15-18 (1d4+14)
 
-- **Reasoning:** 9-12 (1d4+8)
+Reasoning
+: 9-12 (1d4+8)
 
-- **Creativity:** 11-14 (1d4+10)
+Creativity
+: 11-14 (1d4+10)

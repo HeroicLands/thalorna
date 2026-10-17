@@ -24,5 +24,8 @@ The assembled skalds convict a skald who has broken the truth of the recital, an
 
 ## See Also
 
-- [[affiliation-skaldscrcl|Skalds' Circle]]—the body that gathers
-- [[lore-ringbrokenrnk|Ring-Broken]]—the standing of a skald whose ring has been broken
+[[affiliation-skaldscrcl|Skalds' Circle]]
+: the body that gathers
+
+[[lore-ringbrokenrnk|Ring-Broken]]
+: the standing of a skald whose ring has been broken

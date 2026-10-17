@@ -28,6 +28,11 @@ The capital, **[[place-ornethe|Ornethe]]**, is a harbor town built along a natur
 
 ## See Also
 
-- [[affiliation-kngdmglvrn|Kingdom of Galvaren]]—The kingdom that holds this land
-- [[place-tarvenirgn|Tarvénia Region]]—The enclosing region
-- [[place-ornethe|Ornethe]]—The seat
+[[affiliation-kngdmglvrn|Kingdom of Galvaren]]
+: The kingdom that holds this land
+
+[[place-tarvenirgn|Tarvénia Region]]
+: The enclosing region
+
+[[place-ornethe|Ornethe]]
+: The seat

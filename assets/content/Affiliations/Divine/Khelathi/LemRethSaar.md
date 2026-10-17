@@ -68,5 +68,8 @@ The order takes no coin for a ruling. It accepts the god's offerings, the fine p
 
 ## See Also
 
-- [[lore-rethsaardty|Reth'Sa'ar]]—The god the order serves
-- [[affiliation-lutrethsaar|Lut-Reth'Sa'ar]]—The temple, its archives and its schools
+[[lore-rethsaardty|Reth'Sa'ar]]
+: The god the order serves
+
+[[affiliation-lutrethsaar|Lut-Reth'Sa'ar]]
+: The temple, its archives and its schools

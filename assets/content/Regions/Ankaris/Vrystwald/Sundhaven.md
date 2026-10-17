@@ -22,6 +22,11 @@ Varokh villages name each winter for what happened in it, and Sundhaven's is the
 
 ## See Also
 
-- [[place-falkhaven|Falkhaven]]—the reach around the village
-- [[lore-threewinters|The Three Winters]]—the famine the whale ended for one village
-- [[lore-wintertally|The Tally of Winters]]—how the winter is named
+[[place-falkhaven|Falkhaven]]
+: the reach around the village
+
+[[lore-threewinters|The Three Winters]]
+: the famine the whale ended for one village
+
+[[lore-wintertally|The Tally of Winters]]
+: how the winter is named

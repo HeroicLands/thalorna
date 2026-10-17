@@ -436,12 +436,17 @@ Few; she is generally respected, but some view her as aloof.
 
 ## Plot Hooks
 
-1. **The Priestess's Dilemma**—A warrior Thornila counsels has harmed someone she promised to protect, and his kin expect her silence.
+The Priestess's Dilemma
+: A warrior Thornila counsels has harmed someone she promised to protect, and his kin expect her silence.
 
-2. **Old Grudges**—A household Thornila helped has not forgotten how she spoke to them, and says so at the landing.
+Old Grudges
+: A household Thornila helped has not forgotten how she spoke to them, and says so at the landing.
 
-3. **Echoes of the Past**—A charitable work Thornila organized years ago is found to have done its poor more harm than good, and they remember whose it was.
+Echoes of the Past
+: A charitable work Thornila organized years ago is found to have done its poor more harm than good, and they remember whose it was.
 
-4. **Shifting Winds**—A feud with Velanthian kin makes Thornila’s foreign faith suspect in Thornhaven, and she can mediate, leave, or insist on staying.
+Shifting Winds
+: A feud with Velanthian kin makes Thornila’s foreign faith suspect in Thornhaven, and she can mediate, leave, or insist on staying.
 
-5. **The Opportunity**—A Velanthian shrine offers Thornila a settled post, but taking it means leaving the few Thornhaven households who rely on her.
+The Opportunity
+: A Velanthian shrine offers Thornila a settled post, but taking it means leaving the few Thornhaven households who rely on her.

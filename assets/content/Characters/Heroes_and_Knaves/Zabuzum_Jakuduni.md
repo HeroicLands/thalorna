@@ -465,10 +465,14 @@ Bu is captain of the **Tamzir** and the unquestioned leader of her crew. He main
 
 ## Plot Hooks
 
-1. **The War That Never Ended**: A former comrade from the Taruzelian rebellion contacts Bu with evidence that a powerful guild family actively betrayed rebel forces during the Battle of Tamzir, resulting in the deaths of sailors Bu commanded. The evidence is real, but pursuing it would mean returning to Taruzel and confronting enemies with far more resources than a freelance ship captain can muster.
+The War That Never Ended
+: A former comrade from the Taruzelian rebellion contacts Bu with evidence that a powerful guild family actively betrayed rebel forces during the Battle of Tamzir, resulting in the deaths of sailors Bu commanded. The evidence is real, but pursuing it would mean returning to Taruzel and confronting enemies with far more resources than a freelance ship captain can muster.
 
-2. **The Price of Passage**: A wealthy Vylarian merchant offers Bu an enormous sum to transport a sealed cargo container to a remote island. The money would cover the Tamzir's debts for years. But the merchant is evasive about the cargo's contents, the destination is deep in waters patrolled by imperial warships, and one of Bu's contacts warns him that the merchant has ties to the Thordimalon (the Arcane Order).
+The Price of Passage
+: A wealthy Vylarian merchant offers Bu an enormous sum to transport a sealed cargo container to a remote island. The money would cover the Tamzir's debts for years. But the merchant is evasive about the cargo's contents, the destination is deep in waters patrolled by imperial warships, and one of Bu's contacts warns him that the merchant has ties to the Thordimalon (the Arcane Order).
 
-3. **Crew Fractures**: When a lucrative but morally repugnant job is offered—transporting enslaved laborers for a Vylarian noble—Bu must navigate a crew divided between those who need the coin and those who will not compromise. The decision he makes will define what the Tamzir stands for, and whether his crew holds together or fractures.
+Crew Fractures
+: When a lucrative but morally repugnant job is offered—transporting enslaved laborers for a Vylarian noble—Bu must navigate a crew divided between those who need the coin and those who will not compromise. The decision he makes will define what the Tamzir stands for, and whether his crew holds together or fractures.
 
-4. **Ghost of Tamzir**: Bu begins receiving anonymous messages referencing events from the Battle of Tamzir that only someone who fought there could know. The messages suggest that a betrayal from within the rebel fleet led to the death of Bu's closest friend during the engagement—and that the betrayer is still alive, prosperous, and operating within the Taruzelian merchant guilds.
+Ghost of Tamzir
+: Bu begins receiving anonymous messages referencing events from the Battle of Tamzir that only someone who fought there could know. The messages suggest that a betrayal from within the rebel fleet led to the death of Bu's closest friend during the engagement—and that the betrayer is still alive, prosperous, and operating within the Taruzelian merchant guilds.

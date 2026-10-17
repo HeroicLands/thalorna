@@ -17,6 +17,11 @@ The road patronage was attached to the fertility cult because the caravan routes
 
 ## See Also
 
-- [[affiliation-pelgun|Faith of Pelgun]]—the cult and its offices
-- [[lore-uzneradty|Uzn'era]]—the Twelve's goddess of fertility
-- [[affiliation-selatsltplgn|The Selat of Selat-Pelgun]]—his selat
+[[affiliation-pelgun|Faith of Pelgun]]
+: the cult and its offices
+
+[[lore-uzneradty|Uzn'era]]
+: the Twelve's goddess of fertility
+
+[[affiliation-selatsltplgn|The Selat of Selat-Pelgun]]
+: his selat

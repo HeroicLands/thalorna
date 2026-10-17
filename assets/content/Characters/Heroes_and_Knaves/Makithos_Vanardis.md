@@ -443,19 +443,37 @@ Makithos is driven by a vision of theater as the highest form of human artistic 
 
 ### Strengths
 
-- **Creative Genius**: Makithos's ability to craft layered, searching narratives and deploy language with exact control has no equal in the realm.
-- **Theatrical Performance**: As an actor himself, he possesses extraordinary stage presence and the ability to convey complex emotional states with minimal gesture or expression.
-- **Masterful Direction**: He can shape the performance of others with great skill, drawing out depths of emotion and authenticity through relentless coaching and demands for precision.
-- **Linguistic Virtuosity**: His command of language—including multiple dialects, poetic forms, and registers of speech—allows him to craft dialogue that rings true.
-- **Absolute Dedication**: Once committed to a project, he will pursue it with an intensity of focus that outlasts all obstacles, working through exhaustion and personal cost to achieve his vision.
+Creative Genius
+: Makithos's ability to craft layered, searching narratives and deploy language with exact control has no equal in the realm.
+
+Theatrical Performance
+: As an actor himself, he possesses extraordinary stage presence and the ability to convey complex emotional states with minimal gesture or expression.
+
+Masterful Direction
+: He can shape the performance of others with great skill, drawing out depths of emotion and authenticity through relentless coaching and demands for precision.
+
+Linguistic Virtuosity
+: His command of language—including multiple dialects, poetic forms, and registers of speech—allows him to craft dialogue that rings true.
+
+Absolute Dedication
+: Once committed to a project, he will pursue it with an intensity of focus that outlasts all obstacles, working through exhaustion and personal cost to achieve his vision.
 
 ### Weaknesses
 
-- **Perfectionism Unto Self-Destruction**: His refusal to accept anything less than impossible standards means that projects frequently overrun their time and their purse, damaging his finances and his standing with those he works with.
-- **Emotional Volatility**: His mood swings are severe and unpredictable; he can shift from charm to cruelty within moments, making him dangerous and exhausting to work with.
-- **Contempt for Lesser Talents**: He struggles to work with performers or collaborators he deems artistically inadequate, and his contempt is often visible and wounding.
-- **Physical Vulnerability**: His frame is slight, his health often compromised by the physical toll of his relentless work schedule; he has no combat training or physical resilience.
-- **Isolation and Loneliness**: His intensity and demands have isolated him socially; friendships elude him, and his personal life remains fractured despite his success on the stage.
+Perfectionism Unto Self-Destruction
+: His refusal to accept anything less than impossible standards means that projects frequently overrun their time and their purse, damaging his finances and his standing with those he works with.
+
+Emotional Volatility
+: His mood swings are severe and unpredictable; he can shift from charm to cruelty within moments, making him dangerous and exhausting to work with.
+
+Contempt for Lesser Talents
+: He struggles to work with performers or collaborators he deems artistically inadequate, and his contempt is often visible and wounding.
+
+Physical Vulnerability
+: His frame is slight, his health often compromised by the physical toll of his relentless work schedule; he has no combat training or physical resilience.
+
+Isolation and Loneliness
+: His intensity and demands have isolated him socially; friendships elude him, and his personal life remains fractured despite his success on the stage.
 
 ## Social
 
@@ -488,12 +506,17 @@ The Circle of Artistic Innovation
 
 ## Plot Hooks
 
-1. **The Masterwork Commission**: The Imperial Court commissions Makithos to create a theatrical work celebrating the Emperor's upcoming jubilee—an enormous honor with impossible requirements. The play must be completed in months, must satisfy both artistic integrity and political expectations, and must involve the participation of various court factions whose interests directly conflict. The party becomes entangled as Makithos's assistants, investigators of backstage intrigue, and potentially the unwilling subjects of his dramatic experimentation. They discover that the commission itself is part of a larger political scheme, and that the play's success or failure will determine the course of imperial succession.
+The Masterwork Commission
+: The Imperial Court commissions Makithos to create a theatrical work celebrating the Emperor's upcoming jubilee—an enormous honor with impossible requirements. The play must be completed in months, must satisfy both artistic integrity and political expectations, and must involve the participation of various court factions whose interests directly conflict. The party becomes entangled as Makithos's assistants, investigators of backstage intrigue, and potentially the unwilling subjects of his dramatic experimentation. They discover that the commission itself is part of a larger political scheme, and that the play's success or failure will determine the course of imperial succession.
 
-2. **The Burned Manuscript**: The only copy of Makithos's most ambitious work—a sweeping epic tragedy that represents the culmination of his artistic vision—is destroyed in a fire at his chambers. Whether the fire is accident or deliberate sabotage remains unclear. Devastated but determined, Makithos becomes obsessed with reconstructing the work through the memories of those who have read portions of it and the scattered notes he has preserved. The party helps him gather fragments and reconstruct the manuscript while also investigating whether enemies deliberately destroyed his masterwork. In the process, they discover that the destroyed manuscript contained truths about the city's power structure that powerful people wanted suppressed.
+The Burned Manuscript
+: The only copy of Makithos's most ambitious work—a sweeping epic tragedy that represents the culmination of his artistic vision—is destroyed in a fire at his chambers. Whether the fire is accident or deliberate sabotage remains unclear. Devastated but determined, Makithos becomes obsessed with reconstructing the work through the memories of those who have read portions of it and the scattered notes he has preserved. The party helps him gather fragments and reconstruct the manuscript while also investigating whether enemies deliberately destroyed his masterwork. In the process, they discover that the destroyed manuscript contained truths about the city's power structure that powerful people wanted suppressed.
 
-3. **The Impossible Performance**: Makithos creates a play so technically complex and emotionally demanding that no traditional theatrical company can mount it. He approaches the party (or characters the party recruits) to become his actors, offering generous compensation but demanding absolute commitment. As they rehearse, they discover that the play is more than art—it contains elements of real ritual magic, embedded within the script in ways Makithos himself may not fully understand. The performance itself becomes dangerous, with each rehearsal bringing participants closer to a real transformation of the mind and actual magical consequence.
+The Impossible Performance
+: Makithos creates a play so technically complex and emotionally demanding that no traditional theatrical company can mount it. He approaches the party (or characters the party recruits) to become his actors, offering generous compensation but demanding absolute commitment. As they rehearse, they discover that the play is more than art—it contains elements of real ritual magic, embedded within the script in ways Makithos himself may not fully understand. The performance itself becomes dangerous, with each rehearsal bringing participants closer to a real transformation of the mind and actual magical consequence.
 
-4. **The Critic's Revenge**: Díthranos the critic dies under mysterious circumstances, and evidence suggests Makithos may be responsible. As the party investigates, they uncover a complex relationship between artist and critic far deeper than rivalry—perhaps a real friendship twisted by misunderstanding, or a collaboration that went tragically wrong. The resolution requires untangling truth from performance and determining whether Makithos is guilty of murder or merely guilty of living a life so theatrical that any event becomes susceptible to dramatic reinterpretation.
+The Critic's Revenge
+: Díthranos the critic dies under mysterious circumstances, and evidence suggests Makithos may be responsible. As the party investigates, they uncover a complex relationship between artist and critic far deeper than rivalry—perhaps a real friendship twisted by misunderstanding, or a collaboration that went tragically wrong. The resolution requires untangling truth from performance and determining whether Makithos is guilty of murder or merely guilty of living a life so theatrical that any event becomes susceptible to dramatic reinterpretation.
 
-5. **The Actor's Curse**: One of Makithos's most devoted performers begins to show signs of a disordered mind, unable to distinguish between the complex characters he performs and his own identity. As the condition worsens, other members of the theatrical company report similar experiences. Makithos suspects that his plays have become so searching and emotionally demanding that they are damaging the minds of those who perform them. The party must investigate whether this is real danger or theatrical delusion, and whether the cure lies in a physician's care, in revising the plays, or in something more occult entirely.
+The Actor's Curse
+: One of Makithos's most devoted performers begins to show signs of a disordered mind, unable to distinguish between the complex characters he performs and his own identity. As the condition worsens, other members of the theatrical company report similar experiences. Makithos suspects that his plays have become so searching and emotionally demanding that they are damaging the minds of those who perform them. The party must investigate whether this is real danger or theatrical delusion, and whether the cure lies in a physician's care, in revising the plays, or in something more occult entirely.

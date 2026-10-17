@@ -72,11 +72,20 @@ Aureldia has no emperor, no paramount king, no unified church-state. What it has
 
 The major powers of the region are:
 
-- [[place-aelwyth|Aelwyth]]—The Misty Isle, a patchwork of kingdoms (the [[affiliation-kngdmldrth|Kingdom of Aldorath]], the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]) and a republican enclave (the [[affiliation-repblcndrth|Republic of Ondareth]]), knit together by shared culture more than by government.
-- [[place-elavendre|Élavendre]]—The Pelwar coastal kingdom, culturally preeminent but politically divided between the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] and the neighboring [[place-alndntrblnds|Áelendan Tribal Lands]].
-- [[affiliation-calypsa|Kalipsa]]—The merchant city-state, whose oligarchic trading houses make it influential far out of proportion to its size.
-- [[place-tarvenirgn|Tarvénia Region]]—The peninsular patchwork of four kingdoms and two free territories.
-- [[place-provenzrgn|Provenzia Region]]—The [[affiliation-kngdmprvnz|Kingdom of Provenzia]] and its constellation of cultured cities ([[place-kalveza|Kalveza]], [[place-palvothe|Palvote]], [[place-pirnebris|Pirnebris]], [[place-aureliane|Aurelane]], [[place-durvalis|Durvalis]], [[place-lizela|Lizela]], [[place-jalnazdal|Jalnasdal]]).
+[[place-aelwyth|Aelwyth]]
+: The Misty Isle, a patchwork of kingdoms (the [[affiliation-kngdmldrth|Kingdom of Aldorath]], the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]) and a republican enclave (the [[affiliation-repblcndrth|Republic of Ondareth]]), knit together by shared culture more than by government.
+
+[[place-elavendre|Élavendre]]
+: The Pelwar coastal kingdom, culturally preeminent but politically divided between the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] and the neighboring [[place-alndntrblnds|Áelendan Tribal Lands]].
+
+[[affiliation-calypsa|Kalipsa]]
+: The merchant city-state, whose oligarchic trading houses make it influential far out of proportion to its size.
+
+[[place-tarvenirgn|Tarvénia Region]]
+: The peninsular patchwork of four kingdoms and two free territories.
+
+[[place-provenzrgn|Provenzia Region]]
+: The [[affiliation-kngdmprvnz|Kingdom of Provenzia]] and its constellation of cultured cities ([[place-kalveza|Kalveza]], [[place-palvothe|Palvote]], [[place-pirnebris|Pirnebris]], [[place-aureliane|Aurelane]], [[place-durvalis|Durvalis]], [[place-lizela|Lizela]], [[place-jalnazdal|Jalnasdal]]).
 
 [[affiliation-ordoarcanis|Thordimalon]] maintains chapters across most Aureldian polities, asserting its claim to oversee all arcane practice—a claim honored in breach as often as in observance. Élavendre's independent magical traditions ([[lore-faecourts|The Fae Courts]], the Bardic Colleges, the Silver Forests mysteries) chafe constantly against Arcane Order authority, and the Aelwythan druidic survivals have never truly accepted Arcane Order oversight at all. The result is a magical culture that is broadly licensed under Arcane Order rules on paper and riddled with regional exceptions in practice.
 
@@ -114,14 +123,35 @@ Aureldia uses the **Vylarian Calendar**—the AF/BF system established by the [[
 
 ## See Also
 
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—The Twelve; the region's defining faith
-- [[place-aelwyth|Aelwyth]]—The Misty Isle
-- [[place-elavendre|Élavendre]]—Pelwar coastal kingdom and cultural heartland
-- [[affiliation-calypsa|Kalipsa]]—Merchant city-state
-- [[place-tarvenirgn|Tarvénia Region]]—The peninsular kingdoms
-- [[place-provenzrgn|Provenzia Region]]—The cultured southern coast (also part of [[place-midhalnrgn|Mídhalión]])
-- [[affiliation-sacredforge|The Sacred Forge]], [[affiliation-blackflame|The Black Flame]]—The rival Ústaran faiths
-- [[affiliation-ordoarcanis|Thordimalon]]—Cross-border arcane institution
-- [[place-nrdlndsrgn|Nordlands Region]]—Northern neighbor
-- [[place-midhalnrgn|Mídhalión]]—Southeastern neighbor and trading partner
-- [[place-ankrscntnnt|Ankaris Continent]]—Parent continent
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: The Twelve; the region's defining faith
+
+[[place-aelwyth|Aelwyth]]
+: The Misty Isle
+
+[[place-elavendre|Élavendre]]
+: Pelwar coastal kingdom and cultural heartland
+
+[[affiliation-calypsa|Kalipsa]]
+: Merchant city-state
+
+[[place-tarvenirgn|Tarvénia Region]]
+: The peninsular kingdoms
+
+[[place-provenzrgn|Provenzia Region]]
+: The cultured southern coast (also part of [[place-midhalnrgn|Mídhalión]])
+
+[[affiliation-sacredforge|The Sacred Forge]], [[affiliation-blackflame|The Black Flame]]
+: The rival Ústaran faiths
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: Cross-border arcane institution
+
+[[place-nrdlndsrgn|Nordlands Region]]
+: Northern neighbor
+
+[[place-midhalnrgn|Mídhalión]]
+: Southeastern neighbor and trading partner
+
+[[place-ankrscntnnt|Ankaris Continent]]
+: Parent continent

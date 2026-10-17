@@ -16,9 +16,20 @@ Destructive and unpredictable, bulls are powerful animals that can quickly becom
 
 Strength and strong feeling mark a Bull person, who turns aggressive when provoked. The reaction, when it comes, is forceful.
 
-- **Physical:** Thick, muscular neck and broad shoulders; imposing stance.
-- **Behavioral:** Potentially volatile and destructive, unpredictable in reactions.
-- **Positive:** Powerful, assertive, and decisive.
-- **Negative:** Aggressive, volatile, and difficult to control.
-- **Minor Trait ([[sohl-none-doctrauma-decisive|Decisive]]):** Acts quickly and with conviction, sometimes committing to a course of action before fully weighing the consequences.
-- **Major Disorder ([[sohl-none-doctrauma-angerchr|Chronic Anger]]):** Erupts into sudden, violent rages with little warning, lashing out destructively before subsiding into uneasy calm.
+Physical
+: Thick, muscular neck and broad shoulders; imposing stance.
+
+Behavioral
+: Potentially volatile and destructive, unpredictable in reactions.
+
+Positive
+: Powerful, assertive, and decisive.
+
+Negative
+: Aggressive, volatile, and difficult to control.
+
+Minor Trait ([[sohl-none-doctrauma-decisive|Decisive]])
+: Acts quickly and with conviction, sometimes committing to a course of action before fully weighing the consequences.
+
+Major Disorder ([[sohl-none-doctrauma-angerchr|Chronic Anger]])
+: Erupts into sudden, violent rages with little warning, lashing out destructively before subsiding into uneasy calm.

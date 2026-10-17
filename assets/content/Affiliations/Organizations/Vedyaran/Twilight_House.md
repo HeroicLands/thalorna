@@ -95,8 +95,11 @@ The curriculum is famously rigorous. A graduate recites classical Vedyaran poetr
 
 ## Notable Affiliates
 
-- [[being-chndrkrtsndrjyvl|Chandrakirtisundari Jayavalli]]: a Companion of growing prominence, recruited into [[affiliation-adanasreni|The Adanashreni]] through Twilight House connections. She walks an increasingly precarious line between three masters, her clients, the House and the Shrena.
-- The Mistress of the Long Evening: the present holder is unnamed in public records. She is widely believed to be a former courtesan once celebrated as the most accomplished of her generation, withdrawn from clients twenty years ago.
+[[being-chndrkrtsndrjyvl|Chandrakirtisundari Jayavalli]]
+: a Companion of growing prominence, recruited into [[affiliation-adanasreni|The Adanashreni]] through Twilight House connections. She walks an increasingly precarious line between three masters, her clients, the House and the Shrena.
+
+The Mistress of the Long Evening
+: the present holder is unnamed in public records. She is widely believed to be a former courtesan once celebrated as the most accomplished of her generation, withdrawn from clients twenty years ago.
 
 ## Intelligence Operations
 
@@ -110,10 +113,17 @@ A standing arrangement joins the House to the Adanashreni. The Shrena recruits s
 
 ## Relations
 
-- Adanashreni: formal partnership for intelligence sharing and recruitment. Tension arises when the Shrena's interests conflict with a high-paying client's.
-- The [[affiliation-vyalendra2|Loom-Council]] and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]: clients and unwilling tributaries. Both buy from the House, and both have learned not to discuss matters of consequence in its rooms, a discipline that in practice breaks down across enough evenings and enough wine.
-- [[affiliation-velvethand|The Velvet Hand]]: the counterpart in the west. The two organizations keep an uneasy mutual respect and a non-aggression arrangement formalized through intermediaries, and each has standing orders to refuse contracts that target the other directly.
-- The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] more broadly: clients on tier two. The House sells to them, they pay handsomely, and the House refuses to be controlled by any one of them.
+Adanashreni
+: formal partnership for intelligence sharing and recruitment. Tension arises when the Shrena's interests conflict with a high-paying client's.
+
+The [[affiliation-vyalendra2|Loom-Council]] and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]
+: clients and unwilling tributaries. Both buy from the House, and both have learned not to discuss matters of consequence in its rooms, a discipline that in practice breaks down across enough evenings and enough wine.
+
+[[affiliation-velvethand|The Velvet Hand]]
+: the counterpart in the west. The two organizations keep an uneasy mutual respect and a non-aggression arrangement formalized through intermediaries, and each has standing orders to refuse contracts that target the other directly.
+
+The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] more broadly
+: clients on tier two. The House sells to them, they pay handsomely, and the House refuses to be controlled by any one of them.
 
 ## Identifying Marks
 
@@ -128,7 +138,14 @@ Working Companions wear no fixed uniform, but each wears a silver chain at the t
 
 ## See Also
 
-- [[place-sandhyagrha|Sandyagriha]]—the principal house, four streets from the Loom-Council's hall
-- [[place-vyalendra3|Vyalendra]]—the city the House keeps its seat in
-- [[affiliation-adanasreni|The Adanashreni]]—the Shrena of Taking, the House's partner and its danger
-- [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]—the Collective that buys its product and denies it below
+[[place-sandhyagrha|Sandyagriha]]
+: the principal house, four streets from the Loom-Council's hall
+
+[[place-vyalendra3|Vyalendra]]
+: the city the House keeps its seat in
+
+[[affiliation-adanasreni|The Adanashreni]]
+: the Shrena of Taking, the House's partner and its danger
+
+[[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]
+: the Collective that buys its product and denies it below

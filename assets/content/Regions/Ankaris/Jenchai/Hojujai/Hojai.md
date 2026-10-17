@@ -25,7 +25,14 @@ When the mountain erupts, the retainers of the house clear the villages in its p
 
 ## See Also
 
-- [[affiliation-hojujaidmn|Hojujai Domain]]—the house and its regent
-- [[place-yanwu|Yanwu]]—the castle town
-- [[being-pyrclsm|Pyroclasm]]—the fire elemental of the erupting mountains
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[affiliation-hojujaidmn|Hojujai Domain]]
+: the house and its regent
+
+[[place-yanwu|Yanwu]]
+: the castle town
+
+[[being-pyrclsm|Pyroclasm]]
+: the fire elemental of the erupting mountains
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

@@ -301,20 +301,29 @@ When defending territory, young, or personal space, cats fight with disproportio
 
 ## Attributes
 
-- **Strength:** 2-5 (1d4+1)
+Strength
+: 2-5 (1d4+1)
 
-- **Endurance:** 7-10 (1d4+6)
+Endurance
+: 7-10 (1d4+6)
 
-- **Agility:** 16-21 (1d6+15)
+Agility
+: 16-21 (1d6+15)
 
-- **Perception:** 14-19 (1d6+13)
+Perception
+: 14-19 (1d6+13)
 
-- **Scent:** 2-5 (1d4+1)
+Scent
+: 2-5 (1d4+1)
 
-- **Aura:** 3-6 (1d4+2)
+Aura
+: 3-6 (1d4+2)
 
-- **Will:** 16-21 (1d6+15)
+Will
+: 16-21 (1d6+15)
 
-- **Reasoning:** 4-7 (1d4+3)
+Reasoning
+: 4-7 (1d4+3)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

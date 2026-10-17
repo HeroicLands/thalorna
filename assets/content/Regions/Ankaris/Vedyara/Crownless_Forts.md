@@ -30,6 +30,11 @@ The forts are not _shorukshetras_ (blood-fields). Their kingdoms ended in succes
 
 ## See Also
 
-- [[lore-hundredcrwn|The Hundred Crowns]]—the age that built most of them
-- [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—the villages that walled them up
-- [[affiliation-dhnrktjnpd|Danurkota Janapoda]]—whose patron kingdoms' names change
+[[lore-hundredcrwn|The Hundred Crowns]]
+: the age that built most of them
+
+[[affiliation-janpdsvdyr|Janapadas of Vedyara]]
+: the villages that walled them up
+
+[[affiliation-dhnrktjnpd|Danurkota Janapoda]]
+: whose patron kingdoms' names change

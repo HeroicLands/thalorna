@@ -70,7 +70,14 @@ Lámbira works out of Bethura, hiring her tracking, her blade and her Charissa t
 
 ## See Also
 
-- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—the realm governed from this city
-- [[place-bethuargn|Bethua Region]]—the region in which it stands
-- [[affiliation-bthntrdhss|The Bethuan Trade-Houses]]—the commercial federation whose principal hall is here
-- [[affiliation-bethuanflt|The Bethuan Fleet]]—the navy, based in the fortified harbors of the coast
+[[affiliation-mtrrchybth|Matriarchy of Bethua]]
+: the realm governed from this city
+
+[[place-bethuargn|Bethua Region]]
+: the region in which it stands
+
+[[affiliation-bthntrdhss|The Bethuan Trade-Houses]]
+: the commercial federation whose principal hall is here
+
+[[affiliation-bethuanflt|The Bethuan Fleet]]
+: the navy, based in the fortified harbors of the coast

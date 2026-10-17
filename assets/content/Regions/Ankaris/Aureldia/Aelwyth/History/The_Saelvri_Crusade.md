@@ -85,7 +85,14 @@ The ground where the last of them fell is [[place-hushwood|The Hushwood]], the n
 
 ## See Also
 
-- [[affiliation-saelvri|The Saelvri]]—the people
-- [[place-hushwood|The Hushwood]]—the wood where the last of them died
-- [[affiliation-justbladeordr|The Order of the Just Blade]]—the Synod's arm
-- [[lore-dunavarresynod|The Mages Take Dúnavarre]]—the government that ordered it
+[[affiliation-saelvri|The Saelvri]]
+: the people
+
+[[place-hushwood|The Hushwood]]
+: the wood where the last of them died
+
+[[affiliation-justbladeordr|The Order of the Just Blade]]
+: the Synod's arm
+
+[[lore-dunavarresynod|The Mages Take Dúnavarre]]
+: the government that ordered it

@@ -22,5 +22,8 @@ The jewelers of **Lower Suvarnageri** want the same wood, and the charcoal-burne
 
 ## See Also
 
-- [[place-suvarnagirijnpd|Suvarnageri Janapoda]]—the land
-- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the temple-republic that holds it
+[[place-suvarnagirijnpd|Suvarnageri Janapoda]]
+: the land
+
+[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+: the temple-republic that holds it

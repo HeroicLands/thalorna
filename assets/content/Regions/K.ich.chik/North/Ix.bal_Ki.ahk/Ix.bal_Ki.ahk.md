@@ -101,8 +101,17 @@ The Shak'nal maintain a monopoly on this northern trade, and they guard their ro
 
 ## See Also
 
-- [[affiliation-ixtemtzul|Ishtem Tsul]]—The bear-people's domain to the east, separated from Ish'bal Ki'ahk by mountain passes and boreal forest
-- [[place-hanalxilanrgn|Ha'nal Shi'lan]]—Contested borderlands far to the southeast, where Shak'nal traders sometimes venture
-- [[place-chakultzklrgn|Ch'akul Tsa'kul]]—The great southern desert separating the northern frontier from [[place-kchchkcntnnt|K'ich'chik]] proper
-- [[affiliation-itzanpnthn|Itsani Faith]]—The distant civilization's religion and culture, encountered through trade and occasional conflict
-- [[place-ixbalkiahkrgn|Ish'bal Ki'ahk Region]]—The land Ish'bal Ki'ahk holds
+[[affiliation-ixtemtzul|Ishtem Tsul]]
+: The bear-people's domain to the east, separated from Ish'bal Ki'ahk by mountain passes and boreal forest
+
+[[place-hanalxilanrgn|Ha'nal Shi'lan]]
+: Contested borderlands far to the southeast, where Shak'nal traders sometimes venture
+
+[[place-chakultzklrgn|Ch'akul Tsa'kul]]
+: The great southern desert separating the northern frontier from [[place-kchchkcntnnt|K'ich'chik]] proper
+
+[[affiliation-itzanpnthn|Itsani Faith]]
+: The distant civilization's religion and culture, encountered through trade and occasional conflict
+
+[[place-ixbalkiahkrgn|Ish'bal Ki'ahk Region]]
+: The land Ish'bal Ki'ahk holds

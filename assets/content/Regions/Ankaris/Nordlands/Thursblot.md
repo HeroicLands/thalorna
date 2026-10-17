@@ -34,9 +34,20 @@ A newcomer to the north meets the Thursblet in small things before anyone explai
 
 ## See Also
 
-- [[lore-aldarhringr|Aldarhringr]]—the ring of ages the cutting begins
-- [[lore-hrimthurspr|Hrimthur]]—the giant who became the world
-- [[affiliation-hrimthur|Faith of Hrimthur]]—the faith that keeps the wound open
-- [[affiliation-thursborn|The Giant's Children]]—the order that renews the founding violence in battle
-- [[lore-thursaett|Thursaett]]—the giant-kin the Ten broke
-- [[lore-gnumborinn|Gnúmborinn]]—the people Mótefnir made from the cut world's clay
+[[lore-aldarhringr|Aldarhringr]]
+: the ring of ages the cutting begins
+
+[[lore-hrimthurspr|Hrimthur]]
+: the giant who became the world
+
+[[affiliation-hrimthur|Faith of Hrimthur]]
+: the faith that keeps the wound open
+
+[[affiliation-thursborn|The Giant's Children]]
+: the order that renews the founding violence in battle
+
+[[lore-thursaett|Thursaett]]
+: the giant-kin the Ten broke
+
+[[lore-gnumborinn|Gnúmborinn]]
+: the people Mótefnir made from the cut world's clay

@@ -71,9 +71,20 @@ Magu-Thelqen uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the [[affi
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-maguathen|Magu-Thelqen]]—Selat capital
-- [[affiliation-uqaa|Faith of Uqa'a]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-maguathenslt|Magu-Thelqen Selat]]—The land the selat holds
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-maguathen|Magu-Thelqen]]
+: Selat capital
+
+[[affiliation-uqaa|Faith of Uqa'a]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-maguathenslt|Magu-Thelqen Selat]]
+: The land the selat holds

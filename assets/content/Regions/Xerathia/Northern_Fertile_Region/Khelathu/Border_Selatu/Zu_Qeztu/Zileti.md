@@ -23,7 +23,14 @@ Despite the selat's name, the chief temple at Zileti belongs to [[lore-uqaadty|U
 
 ## See Also
 
-- [[affiliation-selatzuqeztu|The Selat of Zu-Qeztu]]—Parent selat
-- [[affiliation-borderselatu|The Border Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-uqaa|Faith of Uqa'a]]—Patron cult
+[[affiliation-selatzuqeztu|The Selat of Zu-Qeztu]]
+: Parent selat
+
+[[affiliation-borderselatu|The Border Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-uqaa|Faith of Uqa'a]]
+: Patron cult

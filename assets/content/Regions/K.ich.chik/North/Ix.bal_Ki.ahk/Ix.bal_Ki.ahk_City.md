@@ -22,6 +22,11 @@ The Shak'nal hold a monopoly on the northern trade and keep the routes and conta
 
 ## See Also
 
-- [[affiliation-ixbalkiahk|Ish'bal Ki'ahk]]—the Eagle People and their nation
-- [[place-ixbalkiahkrgn|Ish'bal Ki'ahk Region]]—the coast and the mountains
-- [[place-nrthrnkchchk|Northern K'ich'chik]]—the northern nations
+[[affiliation-ixbalkiahk|Ish'bal Ki'ahk]]
+: the Eagle People and their nation
+
+[[place-ixbalkiahkrgn|Ish'bal Ki'ahk Region]]
+: the coast and the mountains
+
+[[place-nrthrnkchchk|Northern K'ich'chik]]
+: the northern nations

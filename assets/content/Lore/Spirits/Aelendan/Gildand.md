@@ -8,11 +8,20 @@ tags: [draft, first-gods]
 data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
-- **Kind:** Weather-kin, of [[lore-thekindred|the Kindred]]
-- **Seat:** no fixed place
-- **Territory:** wherever the west wind is blowing, and nowhere once it drops
-- **Posture:** Venerated, briefly
-- **Met through:** [[skill-gilpandsprt|Gildand Spirit Power]]
+Kind
+: Weather-kin, of [[lore-thekindred|the Kindred]]
+
+Seat
+: no fixed place
+
+Territory
+: wherever the west wind is blowing, and nowhere once it drops
+
+Posture
+: Venerated, briefly
+
+Met through
+: [[skill-gilpandsprt|Gildand Spirit Power]]
 
 Gildand is weather-kin, and weather-kin are the awkward case in a tradition built on standing
 pacts: he holds no territory, cannot be located, and is present only while he is blowing. A tribe

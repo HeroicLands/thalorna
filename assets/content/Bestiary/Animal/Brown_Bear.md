@@ -306,20 +306,29 @@ Unlike most animals, brown bears do not recognize humans as apex predators to be
 
 ## Attributes
 
-- **Strength:** 22-27 (1d6+21)
+Strength
+: 22-27 (1d6+21)
 
-- **Endurance:** 16-21 (1d6+15)
+Endurance
+: 16-21 (1d6+15)
 
-- **Agility:** 10-15 (1d6+9)
+Agility
+: 10-15 (1d6+9)
 
-- **Perception:** 12-17 (1d6+11)
+Perception
+: 12-17 (1d6+11)
 
-- **Scent:** 5-8 (1d4+4)
+Scent
+: 5-8 (1d4+4)
 
-- **Aura:** 4-7 (1d4+3)
+Aura
+: 4-7 (1d4+3)
 
-- **Will:** 11-16 (1d6+10)
+Will
+: 11-16 (1d6+10)
 
-- **Reasoning:** 3-6 (1d4+2)
+Reasoning
+: 3-6 (1d4+2)
 
-- **Creativity:** 3-6 (1d4+2)
+Creativity
+: 3-6 (1d4+2)

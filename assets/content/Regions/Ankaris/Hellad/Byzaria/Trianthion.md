@@ -22,6 +22,11 @@ Trianthion is the wound the Iron Wolves have never closed. It produced the compa
 
 ## See Also
 
-- [[affiliation-irnwlvscmpny|The Iron Wolves Company]]—the company that did it
-- [[being-ghymrhrptrks|Ghimaráhr Rores]]—the man who deserted after it
-- [[place-veridon|Veridon]]—the town where the company keeps its base
+[[affiliation-irnwlvscmpny|The Iron Wolves Company]]
+: the company that did it
+
+[[being-ghymrhrptrks|Ghimaráhr Rores]]
+: the man who deserted after it
+
+[[place-veridon|Veridon]]
+: the town where the company keeps its base

@@ -197,15 +197,32 @@ The sin is the drought-war. Three generations ago famine pushed neighboring trib
 
 ## See Also
 
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the five clans, the Pact and the Great Lubemo
-- [[place-sthrnsvnhs|Southern Savannahs]]—the country the clans move through
-- [[affiliation-nyalbpnthn|Nyáluba Pantheon]]—the totems, the spirits and the three postures
-- [[lore-nyalbsprts|Nyáluba Spirits]]—the spirits themselves and how they are handled
-- [[lore-shorinyadty|Shorinya Ndafo]]—the Great Brightness, which receives nothing
-- [[lore-stonetongue|The Stone Tongue]]—the record and a fireside telling of Lusheya's initiation
-- [[place-hetolubemo|Heto Lubemo]]—the enclosure where the Pact is renewed
-- [[skill-griot|Griot]]—why a recital is not a story
-- [[skill-nyalbnlng|Nyáluban]]—the tongue the five clans share
+[[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
+: the five clans, the Pact and the Great Lubemo
+
+[[place-sthrnsvnhs|Southern Savannahs]]
+: the country the clans move through
+
+[[affiliation-nyalbpnthn|Nyáluba Pantheon]]
+: the totems, the spirits and the three postures
+
+[[lore-nyalbsprts|Nyáluba Spirits]]
+: the spirits themselves and how they are handled
+
+[[lore-shorinyadty|Shorinya Ndafo]]
+: the Great Brightness, which receives nothing
+
+[[lore-stonetongue|The Stone Tongue]]
+: the record and a fireside telling of Lusheya's initiation
+
+[[place-hetolubemo|Heto Lubemo]]
+: the enclosure where the Pact is renewed
+
+[[skill-griot|Griot]]
+: why a recital is not a story
+
+[[skill-nyalbnlng|Nyáluban]]
+: the tongue the five clans share
 
 ## Glossary {#glossary}
 

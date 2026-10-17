@@ -58,4 +58,5 @@ If you are a healer looking for backing, bring a record of cases the house can r
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The region it belongs to

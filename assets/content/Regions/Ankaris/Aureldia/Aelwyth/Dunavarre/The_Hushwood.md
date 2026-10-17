@@ -32,6 +32,11 @@ The [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] forbids entry. The Synod po
 
 ## See Also
 
-- [[lore-saelvricrusade|The Saelvri Crusade]]—the killing that made it
-- [[affiliation-saelvri|The Saelvri]]—the people whose ground it was
-- [[lore-bloodfield|Blood-fields]]—what a blood-field is and what ends one
+[[lore-saelvricrusade|The Saelvri Crusade]]
+: the killing that made it
+
+[[affiliation-saelvri|The Saelvri]]
+: the people whose ground it was
+
+[[lore-bloodfield|Blood-fields]]
+: what a blood-field is and what ends one

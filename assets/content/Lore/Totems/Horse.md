@@ -16,9 +16,20 @@ Undisciplined and irresponsible, horses in the wild are free-spirited animals th
 
 The Horse person has a free spirit, does well in a group and follows instinct over fixed rules. Exploring and living on their own terms are what the person loves.
 
-- **Physical:** Strong, lean build; fluid and graceful in movements.
-- **Behavioral:** Free-spirited, values independence, often rebellious.
-- **Positive:** Independent, adventurous, and freedom-loving.
-- **Negative:** Undisciplined, irresponsible, and resistant to structure.
-- **Minor Trait ([[sohl-none-doctrauma-advs|Adventurous]]):** Drawn to the open road and new experiences, chafing under too many rules and happiest when free to set their own course.
-- **Major Disorder ([[sohl-none-doctrauma-aggr|Aggressive]]):** Rebels against all rules and expectations with reckless abandon, acting out destructively and refusing to answer to anyone.
+Physical
+: Strong, lean build; fluid and graceful in movements.
+
+Behavioral
+: Free-spirited, values independence, often rebellious.
+
+Positive
+: Independent, adventurous, and freedom-loving.
+
+Negative
+: Undisciplined, irresponsible, and resistant to structure.
+
+Minor Trait ([[sohl-none-doctrauma-advs|Adventurous]])
+: Drawn to the open road and new experiences, chafing under too many rules and happiest when free to set their own course.
+
+Major Disorder ([[sohl-none-doctrauma-aggr|Aggressive]])
+: Rebels against all rules and expectations with reckless abandon, acting out destructively and refusing to answer to anyone.

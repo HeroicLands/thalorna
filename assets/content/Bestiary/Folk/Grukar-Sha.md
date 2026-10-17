@@ -326,20 +326,29 @@ Alone among Grukar it speaks human tongues, in a voice that sounds from the ches
 
 ## Attributes
 
-- **Strength:** 8-11 (1d4+7)
+Strength
+: 8-11 (1d4+7)
 
-- **Endurance:** 5-8 (1d4+4)
+Endurance
+: 5-8 (1d4+4)
 
-- **Dexterity:** 11-14 (1d4+10)
+Dexterity
+: 11-14 (1d4+10)
 
-- **Agility:** 11-14 (1d4+10)
+Agility
+: 11-14 (1d4+10)
 
-- **Perception:** 14-17 (1d4+13)
+Perception
+: 14-17 (1d4+13)
 
-- **Aura:** 11-14 (1d4+10)
+Aura
+: 11-14 (1d4+10)
 
-- **Will:** 11-14 (1d4+10)
+Will
+: 11-14 (1d4+10)
 
-- **Reasoning:** 15-18 (1d4+14)
+Reasoning
+: 15-18 (1d4+14)
 
-- **Creativity:** 15-18 (1d4+14)
+Creativity
+: 15-18 (1d4+14)

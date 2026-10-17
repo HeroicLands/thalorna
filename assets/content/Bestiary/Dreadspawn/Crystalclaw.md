@@ -313,20 +313,29 @@ It makes its own light, enough to hunt by in total darkness, and it can dim it t
 
 ## Attributes
 
-- **Strength:** 22-27 (1d6+21)
+Strength
+: 22-27 (1d6+21)
 
-- **Endurance:** 11-16 (1d6+10)
+Endurance
+: 11-16 (1d6+10)
 
-- **Dexterity:** 14-17 (1d4+13)
+Dexterity
+: 14-17 (1d4+13)
 
-- **Agility:** 15-20 (1d6+14)
+Agility
+: 15-20 (1d6+14)
 
-- **Perception:** 11-16 (1d6+10)
+Perception
+: 11-16 (1d6+10)
 
-- **Aura:** 7-12 (1d6+6)
+Aura
+: 7-12 (1d6+6)
 
-- **Will:** 10-13 (1d4+9)
+Will
+: 10-13 (1d4+9)
 
-- **Reasoning:** 7-12 (1d6+6)
+Reasoning
+: 7-12 (1d6+6)
 
-- **Creativity:** 5-10 (1d6+4)
+Creativity
+: 5-10 (1d6+4)

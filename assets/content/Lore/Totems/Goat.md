@@ -16,9 +16,20 @@ Curious and determined, goats are naturally inquisitive animals that will climb,
 
 Goat people explore and test whatever is around them. Determination carries them over barriers and satisfies their curiosity.
 
-- **Physical:** Lean, muscular legs; agile and sure-footed.
-- **Behavioral:** Inquisitive and determined, won't shy away from obstacles.
-- **Positive:** Inquisitive, adventurous, and resilient.
-- **Negative:** Can be overly stubborn and reckless in pursuing curiosity.
-- **Minor Trait ([[sohl-none-doctrauma-inqstv|Inquisitive]]):** Endlessly curious and eager to explore, sometimes wandering into trouble simply because something caught their interest.
-- **Major Disorder ([[sohl-none-doctrauma-implsv|Impulsive]]):** Restless and impulsive to a reckless degree, leaping from one thing to the next without thought for consequences or the chaos left behind.
+Physical
+: Lean, muscular legs; agile and sure-footed.
+
+Behavioral
+: Inquisitive and determined, won't shy away from obstacles.
+
+Positive
+: Inquisitive, adventurous, and resilient.
+
+Negative
+: Can be overly stubborn and reckless in pursuing curiosity.
+
+Minor Trait ([[sohl-none-doctrauma-inqstv|Inquisitive]])
+: Endlessly curious and eager to explore, sometimes wandering into trouble simply because something caught their interest.
+
+Major Disorder ([[sohl-none-doctrauma-implsv|Impulsive]])
+: Restless and impulsive to a reckless degree, leaping from one thing to the next without thought for consequences or the chaos left behind.

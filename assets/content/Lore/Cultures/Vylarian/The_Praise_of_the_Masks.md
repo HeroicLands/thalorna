@@ -88,10 +88,23 @@ Masks of the house of Kolsamen, founder at the head of you and the master you ha
 
 ## See Also
 
-- [[place-aravantia|Aravantara]]—the town of the province's houses, and the square where the oration was spoken
-- [[place-hylen|Hilen]]—the breadbasket and its landed families
-- [[lore-olcassabtl|The Battle of Olkassa]]—the field of the two brothers
-- [[place-olcassafld|The Blood-field of Olkassa]]—the wheat nobody asks about, and the last sheaf
-- [[place-tamzirshoals|Tamzir Shoals]]—the squadron that did not come back
-- [[affiliation-selmoros|Faith of Sélmoros]]—the Silent Judge, the last testimony and the names in the windows
-- [[lore-vylarianclt|Vylarian]]—the masks, the hand, the adopted heir and the kept fire
+[[place-aravantia|Aravantara]]
+: the town of the province's houses, and the square where the oration was spoken
+
+[[place-hylen|Hilen]]
+: the breadbasket and its landed families
+
+[[lore-olcassabtl|The Battle of Olkassa]]
+: the field of the two brothers
+
+[[place-olcassafld|The Blood-field of Olkassa]]
+: the wheat nobody asks about, and the last sheaf
+
+[[place-tamzirshoals|Tamzir Shoals]]
+: the squadron that did not come back
+
+[[affiliation-selmoros|Faith of Sélmoros]]
+: the Silent Judge, the last testimony and the names in the windows
+
+[[lore-vylarianclt|Vylarian]]
+: the masks, the hand, the adopted heir and the kept fire

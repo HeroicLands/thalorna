@@ -452,19 +452,37 @@ Despite his reputation for gruffness, Árevin harbors a passion for knowledge-sh
 
 ### Strengths
 
-- **Master Mineralogist**: Árevin's knowledge of ore composition, gemstone formations, and subsurface geology has no equal in the Kingdom. He can identify deposits by sight and scent, and predict their yield with accuracy.
-- **Physician's Knowledge**: Decades spent cataloging mineral properties have made him an expert in herbal remedies and mineral-based medicines. Healers consult him on rare compounds.
-- **Engineering Acumen**: His understanding of structural integrity, water flow, and safe tunnel construction has prevented countless mining disasters. He designs systems of durability.
-- **Master Tracker and Scout**: His keen awareness and perception allow him to read landscapes and identify hidden resources. Few can match his ability to handle treacherous terrain.
-- **Culinary and Ritual Expertise**: His knowledge of survival provisions and ceremonial practices provides unexpected depth; miners trust his judgment on both practical survival and spiritual matters.
+Master Mineralogist
+: Árevin's knowledge of ore composition, gemstone formations, and subsurface geology has no equal in the Kingdom. He can identify deposits by sight and scent, and predict their yield with accuracy.
+
+Physician's Knowledge
+: Decades spent cataloging mineral properties have made him an expert in herbal remedies and mineral-based medicines. Healers consult him on rare compounds.
+
+Engineering Acumen
+: His understanding of structural integrity, water flow, and safe tunnel construction has prevented countless mining disasters. He designs systems of durability.
+
+Master Tracker and Scout
+: His keen awareness and perception allow him to read landscapes and identify hidden resources. Few can match his ability to handle treacherous terrain.
+
+Culinary and Ritual Expertise
+: His knowledge of survival provisions and ceremonial practices provides unexpected depth; miners trust his judgment on both practical survival and spiritual matters.
 
 ### Weaknesses
 
-- **Physical Limitations**: Age has begun to exact its toll. Strenuous mine work leaves him exhausted, his back protests after long hours of climbing, and recovery takes longer than it once did.
-- **Resistance to Change**: Árevin views innovation with deep skepticism, particularly if it contradicts traditional methods that have "always worked." This can make him an obstacle to necessary change.
-- **Dwindling Agility**: While his strength remains respectable, his reflexes have slowed. Dangerous situations requiring quick movement pose challenges.
-- **Limited Charisma**: His abrupt manner and technical focus sometimes alienate those outside the mining community. Politicians and merchants find him difficult to negotiate with.
-- **Stubborn Pride**: He struggles to ask for help or admit limitations, viewing such requests as weaknesses rather than practical necessities.
+Physical Limitations
+: Age has begun to exact its toll. Strenuous mine work leaves him exhausted, his back protests after long hours of climbing, and recovery takes longer than it once did.
+
+Resistance to Change
+: Árevin views innovation with deep skepticism, particularly if it contradicts traditional methods that have "always worked." This can make him an obstacle to necessary change.
+
+Dwindling Agility
+: While his strength remains respectable, his reflexes have slowed. Dangerous situations requiring quick movement pose challenges.
+
+Limited Charisma
+: His abrupt manner and technical focus sometimes alienate those outside the mining community. Politicians and merchants find him difficult to negotiate with.
+
+Stubborn Pride
+: He struggles to ask for help or admit limitations, viewing such requests as weaknesses rather than practical necessities.
 
 ## Social
 
@@ -500,12 +518,17 @@ The Order of Árdavon (Order Aspect)
 
 ## Plot Hooks
 
-1. **The Deepmine Disaster**: Word arrives that the Deepmine Consortium—operating against Árevin's explicit warnings—has collapsed a major tunnel system, trapping dozens of miners. Local authorities ask Árevin to lead a rescue and investigation. He must descend into darkness once more to save lives and prove that his age-old cautions were prescient, all while confronting the physical and emotional toll of returning to active work.
+The Deepmine Disaster
+: Word arrives that the Deepmine Consortium—operating against Árevin's explicit warnings—has collapsed a major tunnel system, trapping dozens of miners. Local authorities ask Árevin to lead a rescue and investigation. He must descend into darkness once more to save lives and prove that his age-old cautions were prescient, all while confronting the physical and emotional toll of returning to active work.
 
-2. **The Veins of Whispers**: A young apprentice presents Árevin with samples of an unprecedented ore formation discovered far beneath the usual mining depths—a mineral that seems to hum with an eerie vibration when struck. The composition defies his extensive knowledge, suggesting either a complete redefinition of geology or something far stranger beneath Élavendre's mountains. Investigation reveals hints of something ancient and possibly dangerous awakening in the deep earth.
+The Veins of Whispers
+: A young apprentice presents Árevin with samples of an unprecedented ore formation discovered far beneath the usual mining depths—a mineral that seems to hum with an eerie vibration when struck. The composition defies his extensive knowledge, suggesting either a complete redefinition of geology or something far stranger beneath Élavendre's mountains. Investigation reveals hints of something ancient and possibly dangerous awakening in the deep earth.
 
-3. **The Heir's Validation**: Merchant House Kallinthiros offers Árevin an enormous contract: prospect an entirely new mountain range on the Kingdom's border, with a team of the finest engineers and guards. The catch: he must validate it before the [[affiliation-byzarianlg|Bizarian League]] can claim it, and political tensions make the expedition a potential powder keg. Árevin must navigate not just treacherous terrain but international intrigue while proving his methods remain vital to the realm.
+The Heir's Validation
+: Merchant House Kallinthiros offers Árevin an enormous contract: prospect an entirely new mountain range on the Kingdom's border, with a team of the finest engineers and guards. The catch: he must validate it before the [[affiliation-byzarianlg|Bizarian League]] can claim it, and political tensions make the expedition a potential powder keg. Árevin must navigate not just treacherous terrain but international intrigue while proving his methods remain vital to the realm.
 
-4. **The Forbidden Depths**: Árevin discovers references in old mining records to a chamber deep beneath the known mines—a place deliberately sealed off and forgotten by his predecessors. The cryptic warnings suggest catastrophe if the seals were ever breached. When strange geological disturbances suggest the seals may be failing, Árevin faces a terrible choice: risk descending to inspect the seals, or remain silent and hope the danger passes.
+The Forbidden Depths
+: Árevin discovers references in old mining records to a chamber deep beneath the known mines—a place deliberately sealed off and forgotten by his predecessors. The cryptic warnings suggest catastrophe if the seals were ever breached. When strange geological disturbances suggest the seals may be failing, Árevin faces a terrible choice: risk descending to inspect the seals, or remain silent and hope the danger passes.
 
-5. **The Apprentice's Betrayal**: Árevin's most gifted apprentice, **Kenrel Elarven**, begins secretly selling Árevin's prospecting charts to the Bizarian League, seeking personal wealth and advancement. When Árevin discovers the betrayal, he must decide between crushing an ambitious young man or understanding the desperation that drives him—a choice that forces him to confront how his own inflexibility may have pushed a promising student toward corruption.
+The Apprentice's Betrayal
+: Árevin's most gifted apprentice, **Kenrel Elarven**, begins secretly selling Árevin's prospecting charts to the Bizarian League, seeking personal wealth and advancement. When Árevin discovers the betrayal, he must decide between crushing an ambitious young man or understanding the desperation that drives him—a choice that forces him to confront how his own inflexibility may have pushed a promising student toward corruption.

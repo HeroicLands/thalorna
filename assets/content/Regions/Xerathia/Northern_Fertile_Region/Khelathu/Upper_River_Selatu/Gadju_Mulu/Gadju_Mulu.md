@@ -23,7 +23,14 @@ Gadju-Mulu is the capital of the [[affiliation-selatgadjuml|Selat of Gadju-Mulu]
 
 ## See Also
 
-- [[affiliation-selatgadjuml|The Selat of Gadju-Mulu]]—parent selat
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—the selat class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—imperial overview
-- [[affiliation-thubai|Faith of Thuba'i]]—patron cult
+[[affiliation-selatgadjuml|The Selat of Gadju-Mulu]]
+: parent selat
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: the selat class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: imperial overview
+
+[[affiliation-thubai|Faith of Thuba'i]]
+: patron cult

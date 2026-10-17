@@ -85,7 +85,14 @@ The colossus of the Founder stands in the [Orzas's Circle]{.name data-type="plac
 
 ## See Also
 
-- [[lore-thefounding|The Founding]]—the _kurthos_ who made himself the first Orzas
-- [[lore-ridersdisb|The Lease Refused]]—the Eyrie sealed beneath the hill
-- [[place-arvon|Arvon]]—the Inner City the wall encloses
-- [[place-antel|Antel]]—the Republic's city, left behind
+[[lore-thefounding|The Founding]]
+: the _kurthos_ who made himself the first Orzas
+
+[[lore-ridersdisb|The Lease Refused]]
+: the Eyrie sealed beneath the hill
+
+[[place-arvon|Arvon]]
+: the Inner City the wall encloses
+
+[[place-antel|Antel]]
+: the Republic's city, left behind

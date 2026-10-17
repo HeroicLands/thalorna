@@ -257,20 +257,29 @@ Its wounds close in days. A wurm that was driven off hurt is whole again by the 
 
 ## Attributes
 
-- **Strength:** 34-39 (1d6+33)
+Strength
+: 34-39 (1d6+33)
 
-- **Endurance:** 28-33 (1d6+27)
+Endurance
+: 28-33 (1d6+27)
 
-- **Dexterity:** 8-13 (1d6+7)
+Dexterity
+: 8-13 (1d6+7)
 
-- **Agility:** 8-11 (1d4+7)
+Agility
+: 8-11 (1d4+7)
 
-- **Perception:** 13-18 (1d6+12)
+Perception
+: 13-18 (1d6+12)
 
-- **Aura:** 7-10 (1d4+6)
+Aura
+: 7-10 (1d4+6)
 
-- **Will:** 10-15 (1d6+9)
+Will
+: 10-15 (1d6+9)
 
-- **Reasoning:** 4-7 (1d4+3)
+Reasoning
+: 4-7 (1d4+3)
 
-- **Creativity:** 3-6 (1d4+2)
+Creativity
+: 3-6 (1d4+2)

@@ -462,19 +462,37 @@ Vishvara is driven by loyalty to a way of life that he sees slowly disappearing.
 
 ### Strengths
 
-- **Seafaring Expertise**: Vishvara's knowledge of maritime navigation, vessel handling, weather prediction, and crew management is vast. There are few situations at sea that he has not encountered or learned how to handle.
-- **Natural Leadership and Authority**: Though not formally trained in command, Vishvara exerts effortless authority. Sailors trust his judgment implicitly and follow his orders without question.
-- **Physical Capability**: At thirty-seven, Vishvara remains extraordinarily strong and capable. His endurance is great, and he can perform physical feats that younger men struggle with.
-- **Comprehensive Practical Knowledge**: Beyond seamanship, Vishvara possesses competence in ship repair, navigation calculation, fishing, agriculture, and a host of practical survival skills that serve him throughout his life.
-- **Shrewd Judgment of Character**: Years of reading people in high-pressure situations have given Vishvara an almost preternatural ability to assess trustworthiness and potential.
+Seafaring Expertise
+: Vishvara's knowledge of maritime navigation, vessel handling, weather prediction, and crew management is vast. There are few situations at sea that he has not encountered or learned how to handle.
+
+Natural Leadership and Authority
+: Though not formally trained in command, Vishvara exerts effortless authority. Sailors trust his judgment implicitly and follow his orders without question.
+
+Physical Capability
+: At thirty-seven, Vishvara remains extraordinarily strong and capable. His endurance is great, and he can perform physical feats that younger men struggle with.
+
+Comprehensive Practical Knowledge
+: Beyond seamanship, Vishvara possesses competence in ship repair, navigation calculation, fishing, agriculture, and a host of practical survival skills that serve him throughout his life.
+
+Shrewd Judgment of Character
+: Years of reading people in high-pressure situations have given Vishvara an almost preternatural ability to assess trustworthiness and potential.
 
 ### Weaknesses
 
-- **Resistance to Innovation**: Vishvara's commitment to traditional seamanship means he sometimes dismisses new instruments or methods without a fair hearing. This occasionally puts him at a disadvantage against rivals quicker to adopt them.
-- **Limited Formal Education**: Vishvara cannot read complex navigational texts or understand navigation by mathematics. He navigates by experience and traditional methods, which can be limiting in novel situations.
-- **Stubbornness**: His convictions, while generally sound, are held with an inflexibility that prevents compromise. He has alienated captains and merchants who might otherwise value his services.
-- **Emotional Distance**: Though capable of loyalty, Vishvara keeps emotional distance from others. He forms few close friendships and tends toward isolation despite his social competence.
-- **Vulnerability Outside His Element**: On land, away from the sea, Vishvara is considerably less capable. His strength and skill do not carry over to matters on land, and he is somewhat out of place in tangled social or political affairs.
+Resistance to Innovation
+: Vishvara's commitment to traditional seamanship means he sometimes dismisses new instruments or methods without a fair hearing. This occasionally puts him at a disadvantage against rivals quicker to adopt them.
+
+Limited Formal Education
+: Vishvara cannot read complex navigational texts or understand navigation by mathematics. He navigates by experience and traditional methods, which can be limiting in novel situations.
+
+Stubbornness
+: His convictions, while generally sound, are held with an inflexibility that prevents compromise. He has alienated captains and merchants who might otherwise value his services.
+
+Emotional Distance
+: Though capable of loyalty, Vishvara keeps emotional distance from others. He forms few close friendships and tends toward isolation despite his social competence.
+
+Vulnerability Outside His Element
+: On land, away from the sea, Vishvara is considerably less capable. His strength and skill do not carry over to matters on land, and he is somewhat out of place in tangled social or political affairs.
 
 ## Social
 
@@ -501,12 +519,17 @@ The Informal Sailors' Network
 
 ## Plot Hooks
 
-1. **The Lost Crew**: A merchant vessel that Vishvara trained crew members for vanishes without trace on a standard trade route. An investigation suggests the ship encountered something unknown in the deep waters—perhaps a creature, perhaps something worse. The merchant company that owns the vessel wants the matter buried, but Vishvara becomes obsessed with discovering what happened to the sailors he trained, leading him on a dangerous voyage into waters that even Captain Samurata would have avoided.
+The Lost Crew
+: A merchant vessel that Vishvara trained crew members for vanishes without trace on a standard trade route. An investigation suggests the ship encountered something unknown in the deep waters—perhaps a creature, perhaps something worse. The merchant company that owns the vessel wants the matter buried, but Vishvara becomes obsessed with discovering what happened to the sailors he trained, leading him on a dangerous voyage into waters that even Captain Samurata would have avoided.
 
-2. **The Young Reformer**: A brilliant young sailor named **Arinasha** apprentices under Vishvara and learns the traditional ways, but also possesses the formal education and understanding of new nautical instruments that Vishvara lacks. Arinasha challenges Vishvara's resistance to change while maintaining respect for the old master's wisdom. Together, they must find a marriage of the old ways and the new, or watch seafaring split into increasingly hostile camps.
+The Young Reformer
+: A brilliant young sailor named **Arinasha** apprentices under Vishvara and learns the traditional ways, but also possesses the formal education and understanding of new nautical instruments that Vishvara lacks. Arinasha challenges Vishvara's resistance to change while maintaining respect for the old master's wisdom. Together, they must find a marriage of the old ways and the new, or watch seafaring split into increasingly hostile camps.
 
-3. **The Betrayed Crew**: Vishvara discovers that several of the sailors he trained and trusted have become involved in smuggling operations—not out of greed but out of desperation, as legitimate merchant work has become increasingly unreliable and unprofitable. He can report them, destroying people he cares about, or involve himself in crime to protect them.
+The Betrayed Crew
+: Vishvara discovers that several of the sailors he trained and trusted have become involved in smuggling operations—not out of greed but out of desperation, as legitimate merchant work has become increasingly unreliable and unprofitable. He can report them, destroying people he cares about, or involve himself in crime to protect them.
 
-4. **The Fleet's Offer**: The war-fleet of [[affiliation-chandrapur|Chendrapur]], seeking to put maritime command on a regular footing, offers Vishvara a substantial position—formal authority, significant compensation, and the ability to implement his principles of seamanship on a large scale. However, the fleet's aims include aggressive expansion and militarization of the seas. Accepting would give Vishvara power to save lives through better training, but would also make him complicit in potentially unjust military actions.
+The Fleet's Offer
+: The war-fleet of [[affiliation-chandrapur|Chendrapur]], seeking to put maritime command on a regular footing, offers Vishvara a substantial position—formal authority, significant compensation, and the ability to implement his principles of seamanship on a large scale. However, the fleet's aims include aggressive expansion and militarization of the seas. Accepting would give Vishvara power to save lives through better training, but would also make him complicit in potentially unjust military actions.
 
-5. **The Cursed Voyage**: A wealthy merchant offers Vishvara an enormous sum to captain a voyage to a distant location that other sailors have refused—a journey that has resulted in multiple disappearances and tales of supernatural danger. Vishvara's experience suggests the crew would not survive, yet his financial situation has deteriorated to the point where refusing the commission means losing the modest security he has built. He must weigh his life's principles against the practical realities of aging and scarcity.
+The Cursed Voyage
+: A wealthy merchant offers Vishvara an enormous sum to captain a voyage to a distant location that other sailors have refused—a journey that has resulted in multiple disappearances and tales of supernatural danger. Vishvara's experience suggests the crew would not survive, yet his financial situation has deteriorated to the point where refusing the commission means losing the modest security he has built. He must weigh his life's principles against the practical realities of aging and scarcity.

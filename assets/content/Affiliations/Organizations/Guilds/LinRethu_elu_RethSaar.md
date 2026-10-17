@@ -56,5 +56,8 @@ Access is the collective's to grant. Say a [[lore-helioniteclt|Helionite]] schol
 
 ## See Also
 
-- [[lore-rethsaardty|Reth'Sa'ar]]—The god of knowledge the temple serves
-- [[affiliation-lutrethsaar|Lut-Reth'Sa'ar]]—The temple the collective is attached to
+[[lore-rethsaardty|Reth'Sa'ar]]
+: The god of knowledge the temple serves
+
+[[affiliation-lutrethsaar|Lut-Reth'Sa'ar]]
+: The temple the collective is attached to

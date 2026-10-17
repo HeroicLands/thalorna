@@ -18,5 +18,8 @@ The council's senior figure is **Elder Magistrate [[being-razaagorikot|Raza Agor
 
 ## See Also
 
-- [[being-fylzstnkt|Fileze Stenikot]]—the mercenary the council hires
-- [[place-byzariargn|Bizaria]]—the region the village lies in
+[[being-fylzstnkt|Fileze Stenikot]]
+: the mercenary the council hires
+
+[[place-byzariargn|Bizaria]]
+: the region the village lies in

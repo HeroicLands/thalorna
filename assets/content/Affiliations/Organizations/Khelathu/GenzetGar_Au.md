@@ -72,6 +72,11 @@ If you come to the palace with a petition, find out which faction is in favor th
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to
-- [[lore-garauu|Gar-Auu]]—The sovereigns the court surrounds
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—The empire it governs through
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The region it belongs to
+
+[[lore-garauu|Gar-Auu]]
+: The sovereigns the court surrounds
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: The empire it governs through

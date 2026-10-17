@@ -435,10 +435,17 @@ Beneath his practical, sometimes cold exterior, Branval cares deeply for his peo
 
 ### Skills and Abilities
 
-- **Leadership**: Branval's greatest asset. He commands respect through experience, competence, and the unshakable loyalty he inspires in those who serve under him.
-- **Strategy**: A keen tactical mind honed over a decade of mercenary campaigns. He reads a battlefield the way a scholar reads a text—seeing patterns, weaknesses, and opportunities others miss.
-- **Personal Combat**: A skilled swordsman who can hold his own in close fighting, though he prefers to direct the battle rather than wade into it.
-- **Cunning**: Sharp-tongued and quick-witted, Branval navigates negotiations, contracts, and the treacherous politics of the mercenary trade with a noble's instinct for power dynamics.
+Leadership
+: Branval's greatest asset. He commands respect through experience, competence, and the unshakable loyalty he inspires in those who serve under him.
+
+Strategy
+: A keen tactical mind honed over a decade of mercenary campaigns. He reads a battlefield the way a scholar reads a text—seeing patterns, weaknesses, and opportunities others miss.
+
+Personal Combat
+: A skilled swordsman who can hold his own in close fighting, though he prefers to direct the battle rather than wade into it.
+
+Cunning
+: Sharp-tongued and quick-witted, Branval navigates negotiations, contracts, and the treacherous politics of the mercenary trade with a noble's instinct for power dynamics.
 
 ## Psyche
 
@@ -460,10 +467,17 @@ Branval seeks to restore his family's honor and reclaim their lost lands by amas
 
 ## Companions
 
-- [[being-elyseskyrn|Élithe Sarneth]]: The band's healer and alchemist.
-- [[being-torniskbry|Tornis Kubri]]: Scout, spy, and infiltrator.
-- [[being-chlbrhydyn|Chelebe Riddin]]: Tracker and archer of the [[lore-aelendnppl|Áelendan People]].
-- [[being-dornsyndlr|Doren Sindalre]]: Frontline fighter and axeman.
+[[being-elyseskyrn|Élithe Sarneth]]
+: The band's healer and alchemist.
+
+[[being-torniskbry|Tornis Kubri]]
+: Scout, spy, and infiltrator.
+
+[[being-chlbrhydyn|Chelebe Riddin]]
+: Tracker and archer of the [[lore-aelendnppl|Áelendan People]].
+
+[[being-dornsyndlr|Doren Sindalre]]
+: Frontline fighter and axeman.
 
 ### Patrons
 
@@ -475,8 +489,11 @@ The houses that brought down House Dorgal during the War of the Princes, and the
 
 ## Plot Hooks
 
-1. **The Dorgal Claim**: Word reaches Branval that the lands once held by his family are now disputed between two rival lords. If he can amass enough silver and the right allies, he may be able to press his ancestral claim—but doing so means entering the very political arena that drove his family out.
+The Dorgal Claim
+: Word reaches Branval that the lands once held by his family are now disputed between two rival lords. If he can amass enough silver and the right allies, he may be able to press his ancestral claim—but doing so means entering the very political arena that drove his family out.
 
-2. **A Contract Too Good**: The Silent Talon is offered an extraordinarily well-paying contract by an anonymous patron. The target turns out to be connected to the events that destroyed House Dorgal, forcing Branval to choose between profit and the personal reckoning he has been avoiding.
+A Contract Too Good
+: The Silent Talon is offered an extraordinarily well-paying contract by an anonymous patron. The target turns out to be connected to the events that destroyed House Dorgal, forcing Branval to choose between profit and the personal reckoning he has been avoiding.
 
-3. **Blood in the Band**: One of the Silent Talon's members is targeted by enemies from their past, and Branval must decide how far he is willing to go to protect his people—even if it means jeopardizing the band's contracts and reputation.
+Blood in the Band
+: One of the Silent Talon's members is targeted by enemies from their past, and Branval must decide how far he is willing to go to protect his people—even if it means jeopardizing the band's contracts and reputation.

@@ -107,14 +107,35 @@ The tribes trade almost entirely by [[lore-bartercnmy|barter]] and by [[lore-kin
 
 ## See Also
 
-- [[place-dunharargn|Dunhara Region]]—the desert and its two countries
-- [[place-dunhardsrtrgn|Dunhara Desert Region]]—the open desert the tribes range
-- [[place-ghavulavad|Ghavulavad]]—the oasis seat of the common council
-- [[lore-dunhariclt|Dunhari]]—the people and their customs
-- [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]—the warriors' gathering at the Stone of Ranaz
-- [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]—the storm-readers of the camps
-- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the settled Dunhari realm
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the western trade terminus
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the northern neighbor
-- [[place-vedyarargn|Vedyara Region]]—the eastern trade terminus, reached round the wall's end
-- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the faith of fire and light
+[[place-dunharargn|Dunhara Region]]
+: the desert and its two countries
+
+[[place-dunhardsrtrgn|Dunhara Desert Region]]
+: the open desert the tribes range
+
+[[place-ghavulavad|Ghavulavad]]
+: the oasis seat of the common council
+
+[[lore-dunhariclt|Dunhari]]
+: the people and their customs
+
+[[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]
+: the warriors' gathering at the Stone of Ranaz
+
+[[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]
+: the storm-readers of the camps
+
+[[affiliation-kngdmmrdd|Kingdom of Amradad]]
+: the settled Dunhari realm
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the western trade terminus
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the northern neighbor
+
+[[place-vedyarargn|Vedyara Region]]
+: the eastern trade terminus, reached round the wall's end
+
+[[affiliation-ashanpnthn|Ashaian Pantheon]]
+: the faith of fire and light

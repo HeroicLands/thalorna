@@ -24,5 +24,8 @@ Her clan's influence was diminished under the previous king, and the princess re
 
 ## See Also
 
-- [[place-provenzrgn|Provenzia Region]]—the kingdom's land
-- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]—the kingdom whose court she means to reclaim
+[[place-provenzrgn|Provenzia Region]]
+: the kingdom's land
+
+[[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+: the kingdom whose court she means to reclaim

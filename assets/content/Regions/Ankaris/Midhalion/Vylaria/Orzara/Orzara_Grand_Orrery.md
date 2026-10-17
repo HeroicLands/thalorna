@@ -22,6 +22,11 @@ A celestial dial above the pageant tracks the wandering of sun, moon and stars i
 
 ## See Also
 
-- [[place-palvar|Palvar]]—the palace that houses it
-- [[place-orzara|Orzara]]—the city and the Hand of the Arcane Order
-- [[affiliation-ordoarcanis|Thordimalon]]—the order that builds and keeps it
+[[place-palvar|Palvar]]
+: the palace that houses it
+
+[[place-orzara|Orzara]]
+: the city and the Hand of the Arcane Order
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: the order that builds and keeps it

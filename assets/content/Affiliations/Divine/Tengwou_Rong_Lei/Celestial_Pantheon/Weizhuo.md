@@ -107,6 +107,11 @@ This is the closest thing the celestial order offers to justice: not fairness, b
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The Celestial Bureaucracy
-- [[lore-clstlpnthn|Celestial Pantheon]]—Other celestial officials
-- [[affiliation-tantsouempr|Empire of Tantsou]]—The mortal realm organized in Wéizhuo's image
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: The Celestial Bureaucracy
+
+[[lore-clstlpnthn|Celestial Pantheon]]
+: Other celestial officials
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: The mortal realm organized in Wéizhuo's image

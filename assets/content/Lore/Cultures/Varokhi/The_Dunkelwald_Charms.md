@@ -335,7 +335,14 @@ Now the bone. Say it back to me.
 
 ## See Also
 
-- [[lore-varokhiclt|Varokhi]]—the people whose charms these are, and what they hold the living owe the dead and the forest
-- [[place-dunkelwald|Dunkelwald]]—the household's village, under the bear wesk
-- [[lore-bearttm|Bear]]—the village's totem
-- [[lore-boarttm|Boar]]—the beast of the first charm's precedent
+[[lore-varokhiclt|Varokhi]]
+: the people whose charms these are, and what they hold the living owe the dead and the forest
+
+[[place-dunkelwald|Dunkelwald]]
+: the household's village, under the bear wesk
+
+[[lore-bearttm|Bear]]
+: the village's totem
+
+[[lore-boarttm|Boar]]
+: the beast of the first charm's precedent

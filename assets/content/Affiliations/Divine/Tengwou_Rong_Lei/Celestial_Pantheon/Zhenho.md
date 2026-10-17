@@ -83,9 +83,14 @@ sohl: {system: {commonSkills: []}}
 
 ## Zhenho—The Minister of Fire
 
-- **Bureau:** Ho Sei, The Bureau of Transformation
-- **Domain:** Fire
-- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+Bureau
+: Ho Sei, The Bureau of Transformation
+
+Domain
+: Fire
+
+Parent
+: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
 In Zhenho's teaching, Ho Sei administers transformation, and therefore administers the entire postal system of the
 cosmos: fire is the medium by which a document passes from the mortal plane to the celestial one,
@@ -102,11 +107,19 @@ observations on which every moral ledger is built.
 
 ### Lesser Spirits
 
-- **Tsaikén**—The Hearth Monitor—a household spirit assigned to every family, who observes daily conduct and files annual reports to the Ministry of Final Account. Families make offerings to Tsaikén not out of devotion but to ensure favorable reports.
-- **Daoho Wo**—Wildfire Spirits, the enforcement arm for fire-related punitive action.
+Tsaikén
+: The Hearth Monitor—a household spirit assigned to every family, who observes daily conduct and files annual reports to the Ministry of Final Account. Families make offerings to Tsaikén not out of devotion but to ensure favorable reports.
+
+Daoho Wo
+: Wildfire Spirits, the enforcement arm for fire-related punitive action.
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the mortal realm it administers
-- [[skill-tengchouscript|Teng Chou Script]]—the writing every petition is made in
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: the Celestial Bureaucracy this bureau belongs to
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the mortal realm it administers
+
+[[skill-tengchouscript|Teng Chou Script]]
+: the writing every petition is made in

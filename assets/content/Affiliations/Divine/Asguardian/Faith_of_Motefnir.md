@@ -73,17 +73,31 @@ Depictions give him hands and little else that is fixed—a pair of hands over a
 
 ## Sacred Objects
 
-- **The First Work:** Whatever a craftsman made first and kept, sworn at a hov and held on the shelf behind its altar for as long as the hov stands.
-- **The Half-Cast:** A casting broken out of its mould before it set, carried as the god's own habit in miniature.
-- **The Clay Mould:** Taken from a hov's bench, used once, and never used for a second pour.
+The First Work
+: Whatever a craftsman made first and kept, sworn at a hov and held on the shelf behind its altar for as long as the hov stands.
+
+The Half-Cast
+: A casting broken out of its mould before it set, carried as the god's own habit in miniature.
+
+The Clay Mould
+: Taken from a hov's bench, used once, and never used for a second pour.
 
 ## Clergy
 
-- Refused the Blet: declined the offering by his own hov's gudi, cut from the clergy and from the standing his craft held through it.
-- Bletmadr: attends the blet, setting a tool on the stone before the rite.
-- Hofsmadr: given to a hov, keeping its workshops as well as its floors before standing in its priesthood.
-- Gudi / Gudja: ordained to keep a hov's rites and to bless a piece of work begun in it.
-- Hofgudi / Hofgudja: consecrates hovs, ordains their gudar, and performs the great blet at a season's turning.
+Refused the Blet
+: declined the offering by his own hov's gudi, cut from the clergy and from the standing his craft held through it.
+
+Bletmadr
+: attends the blet, setting a tool on the stone before the rite.
+
+Hofsmadr
+: given to a hov, keeping its workshops as well as its floors before standing in its priesthood.
+
+Gudi / Gudja
+: ordained to keep a hov's rites and to bless a piece of work begun in it.
+
+Hofgudi / Hofgudja
+: consecrates hovs, ordains their gudar, and performs the great blet at a season's turning.
 
 Key skills: A craft held to mastery, Design and improvisation, Reading a material's grain, Judging a made thing's soundness, The recitation of the makings
 
@@ -93,11 +107,19 @@ The faith names none, and holds that it does not need to: what Mótefnir has sen
 
 ## High Ceremonies
 
-- **[The Swearing of the First Work]{.name data-type="lore/custom"}:** A craftsman brings the first thing he ever made, swears it at the hov, and leaves it on the shelf behind the altar. Nothing he makes afterward is reckoned his own until this is done.
-- **[The Pour]{.name data-type="lore/custom"}:** Performed at a season's turning by a Hofgudi or Hofgudja, who casts a single piece from a mould broken open before the assembly and breaks the mould after it.
+[The Swearing of the First Work]{.name data-type="lore/custom"}
+: A craftsman brings the first thing he ever made, swears it at the hov, and leaves it on the shelf behind the altar. Nothing he makes afterward is reckoned his own until this is done.
+
+[The Pour]{.name data-type="lore/custom"}
+: Performed at a season's turning by a Hofgudi or Hofgudja, who casts a single piece from a mould broken open before the assembly and breaks the mould after it.
 
 ## Ordeals for Favor
 
-- **[The Work Unshown]{.name data-type="lore/custom"}:** A piece made alone over a winter and brought to the hov unfinished, judged on what the maker says he still meant to do with it.
-- **[The Bad Work Named]{.name data-type="lore/custom"}:** The postulant brings a piece of his own he knows to be unsound and states its faults aloud before the hov.
-- **[The Long Commission]{.name data-type="lore/custom"}:** A piece taken on that cannot be finished inside a year, and carried to the end without the hov asking after it.
+[The Work Unshown]{.name data-type="lore/custom"}
+: A piece made alone over a winter and brought to the hov unfinished, judged on what the maker says he still meant to do with it.
+
+[The Bad Work Named]{.name data-type="lore/custom"}
+: The postulant brings a piece of his own he knows to be unsound and states its faults aloud before the hov.
+
+[The Long Commission]{.name data-type="lore/custom"}
+: A piece taken on that cannot be finished inside a year, and carried to the end without the hov asking after it.

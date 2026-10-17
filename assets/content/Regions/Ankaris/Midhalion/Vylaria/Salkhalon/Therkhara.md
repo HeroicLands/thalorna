@@ -22,6 +22,11 @@ An estate steward from the interior, in town for market, tells a coast-bred cler
 
 ## See Also
 
-- [[affiliation-provincvld|Province of Salkalon]]—parent province
-- [[place-salkhalon|Salkalon]]—the land of its estates
-- [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview
+[[affiliation-provincvld|Province of Salkalon]]
+: parent province
+
+[[place-salkhalon|Salkalon]]
+: the land of its estates
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: imperial overview

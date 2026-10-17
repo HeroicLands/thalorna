@@ -457,21 +457,43 @@ Rosharan is fundamentally driven by the desire to push the boundaries of what sh
 
 ### Strengths
 
-- **Master Shipwright:** With her Shipwright skill and five specialty focuses, she can design and construct vessels of astounding quality and novelty, adapting designs to specific purposes with great flexibility.
-- **Mathematical Precision:** Her reasoning and her mathematics, with four focuses, allow her to perform complex calculations regarding weight distribution, hull stress, and the behavior of a hull in water that other craftspeople must estimate.
-- **Timber Mastery:** Her timber-craft, with five focuses, gives her an unequaled understanding of wood properties, aging, and treatment. She can coax the best qualities from every timber source.
-- **Practical Engineering:** Her broad array of complementary skills—drawing, metalcraft, woodworking, ceramics, and masonry—allow her to oversee every aspect of ship construction without relying on inferior subcontractors.
-- **Perceptive Eye:** Her sharp perception and awareness make her able to spot flaws in design or construction before they become catastrophic problems, and to understand a client's needs from minimal description.
-- **Strategic Thinker:** Her creativity and discourse allow her to conceive novel solutions to engineering problems and convincingly present radically new ideas to skeptical clients.
+Master Shipwright
+: With her Shipwright skill and five specialty focuses, she can design and construct vessels of astounding quality and novelty, adapting designs to specific purposes with great flexibility.
+
+Mathematical Precision
+: Her reasoning and her mathematics, with four focuses, allow her to perform complex calculations regarding weight distribution, hull stress, and the behavior of a hull in water that other craftspeople must estimate.
+
+Timber Mastery
+: Her timber-craft, with five focuses, gives her an unequaled understanding of wood properties, aging, and treatment. She can coax the best qualities from every timber source.
+
+Practical Engineering
+: Her broad array of complementary skills—drawing, metalcraft, woodworking, ceramics, and masonry—allow her to oversee every aspect of ship construction without relying on inferior subcontractors.
+
+Perceptive Eye
+: Her sharp perception and awareness make her able to spot flaws in design or construction before they become catastrophic problems, and to understand a client's needs from minimal description.
+
+Strategic Thinker
+: Her creativity and discourse allow her to conceive novel solutions to engineering problems and convincingly present radically new ideas to skeptical clients.
 
 ### Weaknesses
 
-- **Perfectionist Paralysis:** Her inability to accept anything as "good enough" sometimes causes her to miss deadlines or pursue endless refinement on projects that clients simply need completed.
-- **Conservative Client Alienation:** Her tendency to push clients toward experimental designs rather than proven ones has cost her lucrative commissions from traditional merchants and military brass who value reliability over novelty.
-- **Insufficient Crew Management:** While her command is respectable, it is her weakest social skill, and her relative indifference to her workers' comfort or conditions has led to disputes and men leaving her yard.
-- **Limited Mysticism:** Her low spirit means she cannot work with magically-enhanced vessels or enchanted materials, limiting her ability to serve clients seeking supernatural vessels.
-- **Physical Vulnerability:** While competent with a blade and a bow, she is not a warrior and relies on her craftspeople for protection in dangerous situations.
-- **Overconfidence in Design:** Her absolute conviction in the superiority of her designs can blind her to sound concerns from experienced sailors or builders who see things differently.
+Perfectionist Paralysis
+: Her inability to accept anything as "good enough" sometimes causes her to miss deadlines or pursue endless refinement on projects that clients simply need completed.
+
+Conservative Client Alienation
+: Her tendency to push clients toward experimental designs rather than proven ones has cost her lucrative commissions from traditional merchants and military brass who value reliability over novelty.
+
+Insufficient Crew Management
+: While her command is respectable, it is her weakest social skill, and her relative indifference to her workers' comfort or conditions has led to disputes and men leaving her yard.
+
+Limited Mysticism
+: Her low spirit means she cannot work with magically-enhanced vessels or enchanted materials, limiting her ability to serve clients seeking supernatural vessels.
+
+Physical Vulnerability
+: While competent with a blade and a bow, she is not a warrior and relies on her craftspeople for protection in dangerous situations.
+
+Overconfidence in Design
+: Her absolute conviction in the superiority of her designs can blind her to sound concerns from experienced sailors or builders who see things differently.
 
 ## Social
 
@@ -507,12 +529,17 @@ The Innovators' Collective
 
 ## Plot Hooks
 
-1. **The Lost Vessel of Legend:** An old sailor approaches Rosharan in a harbor tavern, claiming to possess maps to the wreck of _Zharifa's Dream_, a fabled ship said to have been built by the greatest craftspeople of the pre-Kingdom era. The sailor offers to guide her to the wreck in exchange for a share of any salvage, but the wreck lies in dangerous waters controlled by pirates and protected by a cursed reef. More intriguingly, some of the ship's structural features are unlike anything in the current maritime tradition—if Rosharan can study the wreck, she might discover lost techniques from a golden age of shipbuilding, but the expedition requires adventurers to handle the dangers she cannot.
+The Lost Vessel of Legend
+: An old sailor approaches Rosharan in a harbor tavern, claiming to possess maps to the wreck of _Zharifa's Dream_, a fabled ship said to have been built by the greatest craftspeople of the pre-Kingdom era. The sailor offers to guide her to the wreck in exchange for a share of any salvage, but the wreck lies in dangerous waters controlled by pirates and protected by a cursed reef. More intriguingly, some of the ship's structural features are unlike anything in the current maritime tradition—if Rosharan can study the wreck, she might discover lost techniques from a golden age of shipbuilding, but the expedition requires adventurers to handle the dangers she cannot.
 
-2. **The Experimental Warship:** The Royal Survey Corps commissions Rosharan to design a deep-water warship of new design incorporating her latest ideas—but midway through construction, agents from a rival nation begin sabotaging the project. Rosharan suspects an inside agent but cannot identify them. She hires adventurers ostensibly as security but actually to investigate the saboteurs. The saboteur is someone she trusts, and the adventurers must convince her to accept a painful betrayal.
+The Experimental Warship
+: The Royal Survey Corps commissions Rosharan to design a deep-water warship of new design incorporating her latest ideas—but midway through construction, agents from a rival nation begin sabotaging the project. Rosharan suspects an inside agent but cannot identify them. She hires adventurers ostensibly as security but actually to investigate the saboteurs. The saboteur is someone she trusts, and the adventurers must convince her to accept a painful betrayal.
 
-3. **The Reaver's Ship Reborn:** Rosharan's stolen vessel surfaces in harbor under Reaver control. Rather than attempt a direct assault, she contracts adventurers to infiltrate the pirate crew, learn their current modifications to her design (which she finds both inspiring and horrifying), and ultimately help her reclaim the ship. The vessel has actually become faster and more dangerous under the Raiders' modifications, and Rosharan must grapple with the fact that her creation has found purposes—and glory—in criminal hands.
+The Reaver's Ship Reborn
+: Rosharan's stolen vessel surfaces in harbor under Reaver control. Rather than attempt a direct assault, she contracts adventurers to infiltrate the pirate crew, learn their current modifications to her design (which she finds both inspiring and horrifying), and ultimately help her reclaim the ship. The vessel has actually become faster and more dangerous under the Raiders' modifications, and Rosharan must grapple with the fact that her creation has found purposes—and glory—in criminal hands.
 
-4. **The Sunken City Expedition:** Scholars contact Rosharan to design a specialized deep-water vessel capable of exploring submerged ruins rumored to exist far offshore. The project is ambitious and costly, requiring adventurers to gather rare materials from dangerous locations—depths where sea creatures of fabled size dwell, high mountains where special hardwoods grow, and mysterious caves where enchanted shells are found. As the team gathers materials, they uncover evidence that the "sunken city" is actually an ancient enemy of the Kingdom, and reaching it first matters more than they initially understood.
+The Sunken City Expedition
+: Scholars contact Rosharan to design a specialized deep-water vessel capable of exploring submerged ruins rumored to exist far offshore. The project is ambitious and costly, requiring adventurers to gather rare materials from dangerous locations—depths where sea creatures of fabled size dwell, high mountains where special hardwoods grow, and mysterious caves where enchanted shells are found. As the team gathers materials, they uncover evidence that the "sunken city" is actually an ancient enemy of the Kingdom, and reaching it first matters more than they initially understood.
 
-5. **The Timber of Prophecy:** A mysterious merchant offers Rosharan a shipment of miraculous timber from a far-distant land—wood that is lighter than air-wood yet harder than ironbark, wood that glows faintly at night and seems to resist rot and decay. The merchant demands a substantial advance payment, and when Rosharan's adventurer partners investigate the timber's origin, they discover it comes from a forest that should not exist. The grove is protected by ancient spirits, and harvesting more timber requires negotiating with forces that are not entirely convinced humans deserve such bounty.
+The Timber of Prophecy
+: A mysterious merchant offers Rosharan a shipment of miraculous timber from a far-distant land—wood that is lighter than air-wood yet harder than ironbark, wood that glows faintly at night and seems to resist rot and decay. The merchant demands a substantial advance payment, and when Rosharan's adventurer partners investigate the timber's origin, they discover it comes from a forest that should not exist. The grove is protected by ancient spirits, and harvesting more timber requires negotiating with forces that are not entirely convinced humans deserve such bounty.

@@ -30,5 +30,8 @@ The temple keeps a garrison of elite warriors, the [[affiliation-ravenguard|Rave
 
 ## See Also
 
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—the kingdom whose northern coast it holds
-- [[affiliation-asguardian|Asguardian Pantheon]]—the gods of the north, especially Odvar
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+: the kingdom whose northern coast it holds
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the gods of the north, especially Odvar

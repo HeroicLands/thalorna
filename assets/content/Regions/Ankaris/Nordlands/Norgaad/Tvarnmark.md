@@ -30,6 +30,11 @@ The town council is dominated by the great merchant families and the guild maste
 
 ## See Also
 
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]]—the kingdom whose inland trade town it is
-- [[affiliation-asguardian|Asguardian Pantheon]]—the gods of the north
-- [[place-shtrdpks|Shattered Peaks]]—the high ground above the upper road
+[[affiliation-kingdmnrgd|Kingdom of Norgaad]]
+: the kingdom whose inland trade town it is
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the gods of the north
+
+[[place-shtrdpks|Shattered Peaks]]
+: the high ground above the upper road

@@ -85,9 +85,14 @@ sohl: {system: {commonSkills: []}}
 
 ## Wántou—The Keeper of the Celestial Archive
 
-- **Bureau:** Chou Sei, The Archive of All Records
-- **Domain:** Knowledge
-- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+Bureau
+: Chou Sei, The Archive of All Records
+
+Domain
+: Knowledge
+
+Parent
+: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
 Wántou teaches that Chou Sei holds the record of [Dao Zhaoléi]{.name data-type="lore/cosmology"}, the Great Sorting, and every amendment since. It does not decide
 anything; it establishes what is true, which in an administration of precedent is a great deal more
@@ -101,11 +106,19 @@ problem.
 
 ### Lesser Spirits
 
-- **Chougen**—Archival Scribes, who copy and preserve records.
-- **Chouléi**—Indexing Spirits, who maintain the classification system itself.
+Chougen
+: Archival Scribes, who copy and preserve records.
+
+Chouléi
+: Indexing Spirits, who maintain the classification system itself.
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the mortal realm it administers
-- [[skill-tengchouscript|Teng Chou Script]]—the writing every petition is made in
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: the Celestial Bureaucracy this bureau belongs to
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the mortal realm it administers
+
+[[skill-tengchouscript|Teng Chou Script]]
+: the writing every petition is made in

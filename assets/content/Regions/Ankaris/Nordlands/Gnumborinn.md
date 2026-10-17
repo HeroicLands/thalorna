@@ -38,8 +38,17 @@ Whichever account a hall keeps, it tells the same ending. When Hrandmil was gone
 
 ## See Also
 
-- [[lore-motefnirdty|Mótefnir]]—the Maker who pressed the first two out of the clay
-- [[lore-thursblot|Thursblet]]—the cutting of the world they were made from
-- [[lore-aldarhringr|Aldarhringr]]—the ring of ages
-- [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—how the north buries its dead
-- [[lore-dreadspawncrtr|Dreadspawn]]—Mótefnir's other work, which cannot breed
+[[lore-motefnirdty|Mótefnir]]
+: the Maker who pressed the first two out of the clay
+
+[[lore-thursblot|Thursblet]]
+: the cutting of the world they were made from
+
+[[lore-aldarhringr|Aldarhringr]]
+: the ring of ages
+
+[[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]
+: how the north buries its dead
+
+[[lore-dreadspawncrtr|Dreadspawn]]
+: Mótefnir's other work, which cannot breed

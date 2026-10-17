@@ -25,11 +25,19 @@ The forts stand beyond the first cataract and the fortress of [[place-balehen|Ba
 
 ## Settlements
 
-- [[place-qeltlen|Qelt-Len]] (~15,000)—the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-qeztudty|Qeztu]].
-- The villages and estate-towns: a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
+[[place-qeltlen|Qelt-Len]] (~15,000)
+: the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-qeztudty|Qeztu]].
+
+The villages and estate-towns
+: a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-seltqltlnlgr|The Selat of Qelt-Len-Legir]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-qeltlen|Qelt-Len]]—Selat capital
+[[affiliation-seltqltlnlgr|The Selat of Qelt-Len-Legir]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-qeltlen|Qelt-Len]]
+: Selat capital

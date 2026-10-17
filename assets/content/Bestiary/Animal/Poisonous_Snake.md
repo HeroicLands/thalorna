@@ -223,20 +223,29 @@ Most poisonous snakes will not attack unless threatened or defending eggs or a r
 
 ## Attributes
 
-- **Strength:** 3-6 (1d4+2)
+Strength
+: 3-6 (1d4+2)
 
-- **Endurance:** 8-13 (1d6+7)
+Endurance
+: 8-13 (1d6+7)
 
-- **Agility:** 12-17 (1d6+11)
+Agility
+: 12-17 (1d6+11)
 
-- **Perception:** 8-13 (1d6+7)
+Perception
+: 8-13 (1d6+7)
 
-- **Scent:** 3-6 (1d4+2)
+Scent
+: 3-6 (1d4+2)
 
-- **Aura:** 1-4 (1d4)
+Aura
+: 1-4 (1d4)
 
-- **Will:** 7-10 (1d4+6)
+Will
+: 7-10 (1d4+6)
 
-- **Reasoning:** 1-4 (1d4)
+Reasoning
+: 1-4 (1d4)
 
-- **Creativity:** 1-4 (1d4)
+Creativity
+: 1-4 (1d4)

@@ -221,11 +221,20 @@ Two kinds of servant belong to Thrunvald. The **Storm Giants** are massive being
 
 Every rung belongs to a coastal hov:
 
-- Refused the Blet: denied the offering at a coastal hov, and cut from the clergy and from the crew that shares its blessing.
-- Bletmadr: attends the blet at a coastal hov and shares its sea-blessing.
-- Hofsmadr: given to a coastal hov young, laboring at its nets and its storm-rites before any claim to the priesthood.
-- Gudi / Gudja: ordained to keep a coastal hov's rites and bless its ships.
-- Hofgudi / Hofgudja: consecrates coastal hovs, ordains their gudar, and performs the great blet at a season's turning.
+Refused the Blet
+: denied the offering at a coastal hov, and cut from the clergy and from the crew that shares its blessing.
+
+Bletmadr
+: attends the blet at a coastal hov and shares its sea-blessing.
+
+Hofsmadr
+: given to a coastal hov young, laboring at its nets and its storm-rites before any claim to the priesthood.
+
+Gudi / Gudja
+: ordained to keep a coastal hov's rites and bless its ships.
+
+Hofgudi / Hofgudja
+: consecrates coastal hovs, ordains their gudar, and performs the great blet at a season's turning.
 
 The faith teaches weather manipulation and storm calling, combat training and weapon mastery, seafaring and navigation, and the rites of protection and blessing.
 
@@ -239,6 +248,11 @@ Three ordeals are held to win the god's favor. In the **[Hammer's Trial]{.name d
 
 ## See Also
 
-- [[affiliation-thrumuskjoldr|Thrumuskjoldr]]—the Order of the Hammer, priests who master combat and protection at a coastal hov
-- [[affiliation-hamardrengir|Hamardrengir]]—the Hammer of Thrunvald, the faith's fighting order, hammer-warriors of the thunder-god
-- [[affiliation-hafskel|Hafskel]]—the Seaforged, fighters trained at sea, masters of naval combat and defense
+[[affiliation-thrumuskjoldr|Thrumuskjoldr]]
+: the Order of the Hammer, priests who master combat and protection at a coastal hov
+
+[[affiliation-hamardrengir|Hamardrengir]]
+: the Hammer of Thrunvald, the faith's fighting order, hammer-warriors of the thunder-god
+
+[[affiliation-hafskel|Hafskel]]
+: the Seaforged, fighters trained at sea, masters of naval combat and defense

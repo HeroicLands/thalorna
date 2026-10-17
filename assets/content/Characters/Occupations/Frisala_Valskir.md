@@ -429,12 +429,17 @@ Neighboring clan leaders threatened by her growing power.
 
 ## Plot Hooks
 
-1. **The Chieftain's Dilemma**—A raid forces Frisala to choose between the elders' way and her own, with her clan's survival in the balance.
+The Chieftain's Dilemma
+: A raid forces Frisala to choose between the elders' way and her own, with her clan's survival in the balance.
 
-2. **Old Grudges**—A neighboring chieftain threatened by her growing power stops waiting for her to fail.
+Old Grudges
+: A neighboring chieftain threatened by her growing power stops waiting for her to fail.
 
-3. **Echoes of the Past**—Something from the battle that killed her father resurfaces, and the clan looks to Frisala to settle it.
+Echoes of the Past
+: Something from the battle that killed her father resurfaces, and the clan looks to Frisala to settle it.
 
-4. **Shifting Winds**—Political change in Provenzia threatens the standing Frisala's clan depends upon, and she can adapt, resist, or leave.
+Shifting Winds
+: Political change in Provenzia threatens the standing Frisala's clan depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—An alliance is offered to Frisala on terms beyond anything she has hoped for, and its price is not named up front.
+The Opportunity
+: An alliance is offered to Frisala on terms beyond anything she has hoped for, and its price is not named up front.

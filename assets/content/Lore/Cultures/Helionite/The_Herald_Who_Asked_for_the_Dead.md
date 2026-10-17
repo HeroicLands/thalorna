@@ -145,8 +145,17 @@ Put your hands on the stone, heralds. In the morning you swear.
 
 ## See Also
 
-- [[lore-firstgames|The First Games]]—the meeting, the truce and the herald who asks for the dead
-- [[place-gamessanct|The Sanctuary of the Games]]—the heralds' altar and the oath-tablets of the cities
-- [[affiliation-ctysttshlns|City-States of Helionis]]—the herald's office, written into every city's constitution
-- [[lore-heladtruce|The Truce of the Games]]—the return of the dead made one of the five terms
-- [[lore-helioniteclt|Helionite]]—the dead who belong to their city
+[[lore-firstgames|The First Games]]
+: the meeting, the truce and the herald who asks for the dead
+
+[[place-gamessanct|The Sanctuary of the Games]]
+: the heralds' altar and the oath-tablets of the cities
+
+[[affiliation-ctysttshlns|City-States of Helionis]]
+: the herald's office, written into every city's constitution
+
+[[lore-heladtruce|The Truce of the Games]]
+: the return of the dead made one of the five terms
+
+[[lore-helioniteclt|Helionite]]
+: the dead who belong to their city

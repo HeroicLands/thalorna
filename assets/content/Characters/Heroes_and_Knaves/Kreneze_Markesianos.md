@@ -456,27 +456,37 @@ Kreneze seeks to elevate hideworking from the status of a mere trade to that of 
 
 ### Strengths
 
-- **Artistic Vision and Technical Mastery**: Kreneze combines a fine aesthetic sense with deep technical knowledge of her craft. She understands the properties of different types of leather, the chemistry of dyes, and the precise techniques required to execute complex designs with perfect precision.
+Artistic Vision and Technical Mastery
+: Kreneze combines a fine aesthetic sense with deep technical knowledge of her craft. She understands the properties of different types of leather, the chemistry of dyes, and the precise techniques required to execute complex designs with perfect precision.
 
-- **Design Innovation**: She has developed new techniques for leather decoration, including new ways of combining natural dyes to create unique color palettes and methods of incorporating embroidery and beading into leather work in ways that are both beautiful and structurally sound.
+Design Innovation
+: She has developed new techniques for leather decoration, including new ways of combining natural dyes to create unique color palettes and methods of incorporating embroidery and beading into leather work in ways that are both beautiful and structurally sound.
 
-- **Quality and Attention to Detail**: Her work is characterized by obsessive attention to every detail. Nothing leaves her workshop that does not meet her exacting standards, which is why her reputation for quality is so well-established.
+Quality and Attention to Detail
+: Her work is characterized by obsessive attention to every detail. Nothing leaves her workshop that does not meet her exacting standards, which is why her reputation for quality is so well-established.
 
-- **Adaptability and Problem-Solving**: When faced with a difficult commission or technical challenge, she can rapidly devise solutions that maintain both functionality and beauty. She is capable of reworking designs on the fly if a particular approach proves unfeasible.
+Adaptability and Problem-Solving
+: When faced with a difficult commission or technical challenge, she can rapidly devise solutions that maintain both functionality and beauty. She is capable of reworking designs on the fly if a particular approach proves unfeasible.
 
-- **Mentorship and Teaching**: Though she has trained informally rather than through traditional guild apprenticeships, she is an effective teacher capable of conveying both technique and the philosophical approach to craftsmanship that underlies her work.
+Mentorship and Teaching
+: Though she has trained informally rather than through traditional guild apprenticeships, she is an effective teacher capable of conveying both technique and the philosophical approach to craftsmanship that underlies her work.
 
 ### Weaknesses
 
-- **Physical Limitations**: While skilled and strong for her frame, she lacks the sheer physical power that male hideworkers often possess. Large-scale projects requiring the working of thick, stiff hides are more difficult for her, though her technical skill often compensates.
+Physical Limitations
+: While skilled and strong for her frame, she lacks the sheer physical power that male hideworkers often possess. Large-scale projects requiring the working of thick, stiff hides are more difficult for her, though her technical skill often compensates.
 
-- **Limited Business Acumen**: Her focus on the artistic side of her craft has left her relatively unprepared for the business aspects of her independent practice. She is sometimes taken advantage of by shrewder merchants and patrons.
+Limited Business Acumen
+: Her focus on the artistic side of her craft has left her relatively unprepared for the business aspects of her independent practice. She is sometimes taken advantage of by shrewder merchants and patrons.
 
-- **Difficulty with Delegation**: Her perfectionism makes it nearly impossible for her to delegate work to others. She does almost all of the actual creation work herself, which limits the scale of projects she can undertake.
+Difficulty with Delegation
+: Her perfectionism makes it nearly impossible for her to delegate work to others. She does almost all of the actual creation work herself, which limits the scale of projects she can undertake.
 
-- **Social Isolation**: Her complete focus on her work and her lack of interest in traditional relationships have left her somewhat isolated from the broader community. She has few close personal connections outside of her working relationships.
+Social Isolation
+: Her complete focus on her work and her lack of interest in traditional relationships have left her somewhat isolated from the broader community. She has few close personal connections outside of her working relationships.
 
-- **Vulnerability to Prejudice**: Despite her undeniable talent, she remains subject to gender-based prejudice within the hideworking trade and the broader community. Some simply refuse to acknowledge that a woman could achieve the level of skill she has demonstrated.
+Vulnerability to Prejudice
+: Despite her undeniable talent, she remains subject to gender-based prejudice within the hideworking trade and the broader community. Some simply refuse to acknowledge that a woman could achieve the level of skill she has demonstrated.
 
 ## Social
 
@@ -512,12 +522,17 @@ The Women's Artistic Collective
 
 ## Plot Hooks
 
-1. **The Collector's Commission**: A wealthy collector from a distant city arrives in Bizaris searching for Kreneze Vokoghis specifically. This person—known only as **The Antiquary**—is willing to pay an unprecedented sum for Kreneze to undertake a commission that is deeply unusual: to recreate a set of ceremonial leather garments from ancient texts and fragments, garments that supposedly held significant magical or spiritual power. The Antiquary claims to have sources that indicate what these garments looked like and roughly how they were constructed, but the project will require Kreneze to work with materials and techniques that go beyond her current knowledge. More troublingly, The Antiquary seems to know things about Kreneze's family history and her parents' work that suggest they may have been involved in creating similar items in the past—items her parents never mentioned to her.
+The Collector's Commission
+: A wealthy collector from a distant city arrives in Bizaris searching for Kreneze Vokoghis specifically. This person—known only as **The Antiquary**—is willing to pay an unprecedented sum for Kreneze to undertake a commission that is deeply unusual: to recreate a set of ceremonial leather garments from ancient texts and fragments, garments that supposedly held significant magical or spiritual power. The Antiquary claims to have sources that indicate what these garments looked like and roughly how they were constructed, but the project will require Kreneze to work with materials and techniques that go beyond her current knowledge. More troublingly, The Antiquary seems to know things about Kreneze's family history and her parents' work that suggest they may have been involved in creating similar items in the past—items her parents never mentioned to her.
 
-2. **The Contested Inheritance**: After her father's death, Kreneze inherits his workshop and with it a collection of his personal papers and unfinished projects. Among these, she discovers a series of elaborate leather pieces in various stages of completion—pieces so beautiful and technically accomplished that they rival her own best work. She also discovers journals indicating that her father was working on these pieces for a specific, secret purpose related to an organization or individual he never mentioned. As she investigates, she learns that there are people actively searching for these pieces, people who are willing to pay significant sums or resort to less savory methods to acquire them. Kreneze can sell these works, complete them herself, or investigate further to learn what role they were meant to play.
+The Contested Inheritance
+: After her father's death, Kreneze inherits his workshop and with it a collection of his personal papers and unfinished projects. Among these, she discovers a series of elaborate leather pieces in various stages of completion—pieces so beautiful and technically accomplished that they rival her own best work. She also discovers journals indicating that her father was working on these pieces for a specific, secret purpose related to an organization or individual he never mentioned. As she investigates, she learns that there are people actively searching for these pieces, people who are willing to pay significant sums or resort to less savory methods to acquire them. Kreneze can sell these works, complete them herself, or investigate further to learn what role they were meant to play.
 
-3. **The Artistic Competition**: The city of Bizaris announces a grand artistic competition and festival celebrating craftsmanship in all disciplines. Participating artists will have the opportunity to display their work before the city's most influential patrons and intellectuals. Kreneze is encouraged by her supporters to enter, and with great trepidation, she agrees. However, she soon discovers that several other hideworkers—all male, all established members of the guild—are also entering, and they view her participation as an affront. They begin to spread rumors that her work is derivative, that she has stolen techniques from her father, that she is not a true craftsperson but merely a merchant repackaging men's work. More dangerously, someone breaks into her workshop and damages several of her competition pieces. She can withdraw or continue with the competition despite the sabotage, and she can confront her rivals openly or pursue her goals in spite of them.
+The Artistic Competition
+: The city of Bizaris announces a grand artistic competition and festival celebrating craftsmanship in all disciplines. Participating artists will have the opportunity to display their work before the city's most influential patrons and intellectuals. Kreneze is encouraged by her supporters to enter, and with great trepidation, she agrees. However, she soon discovers that several other hideworkers—all male, all established members of the guild—are also entering, and they view her participation as an affront. They begin to spread rumors that her work is derivative, that she has stolen techniques from her father, that she is not a true craftsperson but merely a merchant repackaging men's work. More dangerously, someone breaks into her workshop and damages several of her competition pieces. She can withdraw or continue with the competition despite the sabotage, and she can confront her rivals openly or pursue her goals in spite of them.
 
-4. **The Guild's Offer**: Master Raghumon of the Hideworkers' Guild approaches Kreneze with an unexpected proposal: the guild will formally acknowledge her as a master artisan and will offer her a seat on the guild council if she agrees to take on an official role training apprentices within the guild structure and to sign an agreement that any new techniques she develops will be shared with the guild. The offer comes with substantial benefits and recognition, but it also represents a significant constraint on her independence and would require her to work within the traditional hierarchy that has been the source of so much conflict. As she considers the offer, she learns that the guild's sudden willingness to compromise comes from pressure from her patrons and supporters in the broader community—but she also discovers that Master Raghumon may be acting without the full support of the guild's council, and that some members actively oppose the concession.
+The Guild's Offer
+: Master Raghumon of the Hideworkers' Guild approaches Kreneze with an unexpected proposal: the guild will formally acknowledge her as a master artisan and will offer her a seat on the guild council if she agrees to take on an official role training apprentices within the guild structure and to sign an agreement that any new techniques she develops will be shared with the guild. The offer comes with substantial benefits and recognition, but it also represents a significant constraint on her independence and would require her to work within the traditional hierarchy that has been the source of so much conflict. As she considers the offer, she learns that the guild's sudden willingness to compromise comes from pressure from her patrons and supporters in the broader community—but she also discovers that Master Raghumon may be acting without the full support of the guild's council, and that some members actively oppose the concession.
 
-5. **The Sacred Commission**: A representative of a major temple approaches Kreneze with a commission unlike any she has undertaken before: to create a set of sacred leather vestments for use in important religious rituals. The vestments are to be created according to specifications provided by the temple's highest priesthood, and the project is spiritual as well as artistic. The compensation offered is substantial and the commission would cement her reputation as a master artisan of the highest order. However, as she begins the work, she discovers that the garments may be designed for something beyond ceremony—perhaps ritual magic or spiritual transformation.
+The Sacred Commission
+: A representative of a major temple approaches Kreneze with a commission unlike any she has undertaken before: to create a set of sacred leather vestments for use in important religious rituals. The vestments are to be created according to specifications provided by the temple's highest priesthood, and the project is spiritual as well as artistic. The compensation offered is substantial and the commission would cement her reputation as a master artisan of the highest order. However, as she begins the work, she discovers that the garments may be designed for something beyond ceremony—perhaps ritual magic or spiritual transformation.

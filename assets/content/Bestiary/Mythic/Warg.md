@@ -320,20 +320,29 @@ A warg runs for days without rest and follows a trail across a province. What dr
 
 ## Attributes
 
-- **Strength:** 16-21 (1d6+15)
+Strength
+: 16-21 (1d6+15)
 
-- **Endurance:** 16-21 (1d6+15)
+Endurance
+: 16-21 (1d6+15)
 
-- **Agility:** 10-15 (1d6+9)
+Agility
+: 10-15 (1d6+9)
 
-- **Perception:** 14-19 (1d6+13)
+Perception
+: 14-19 (1d6+13)
 
-- **Scent:** 4-7 (1d4+3)
+Scent
+: 4-7 (1d4+3)
 
-- **Aura:** 5-8 (1d4+4)
+Aura
+: 5-8 (1d4+4)
 
-- **Will:** 14-19 (1d6+13)
+Will
+: 14-19 (1d6+13)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 8-13 (1d6+7)
+Creativity
+: 8-13 (1d6+7)

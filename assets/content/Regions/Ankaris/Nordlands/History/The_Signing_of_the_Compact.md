@@ -82,8 +82,17 @@ A party that signs a small company into the Compact takes on the Council's law a
 
 ## See Also
 
-- [[affiliation-malldbndlg|Málalidabandalag]]—the Compact, its Council and its roll
-- [[place-hringstead|Hringstead]]—the neutral ground and the Compact-Hall
-- [[lore-southrnfleets|The Southern Fleets]]—the raids the hiring answered
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the employer
-- [[lore-domseycount|The Domsey Count]]—the age of the Hunger and the Fleets
+[[affiliation-malldbndlg|Málalidabandalag]]
+: the Compact, its Council and its roll
+
+[[place-hringstead|Hringstead]]
+: the neutral ground and the Compact-Hall
+
+[[lore-southrnfleets|The Southern Fleets]]
+: the raids the hiring answered
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the employer
+
+[[lore-domseycount|The Domsey Count]]
+: the age of the Hunger and the Fleets

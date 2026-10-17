@@ -23,7 +23,14 @@ The summit shrine keeps the earth and metal aspects of the Celestial Order, and 
 
 ## See Also
 
-- [[affiliation-tsuijaidmn|Tsuijai Domain]]—the house and its lord
-- [[place-tsuiwu|Tsuiwu]]—the castle town
-- [[being-embrhnd|Emberhound]]—the fire elemental of the forge-yard
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[affiliation-tsuijaidmn|Tsuijai Domain]]
+: the house and its lord
+
+[[place-tsuiwu|Tsuiwu]]
+: the castle town
+
+[[being-embrhnd|Emberhound]]
+: the fire elemental of the forge-yard
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

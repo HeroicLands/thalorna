@@ -23,7 +23,14 @@ It holds the selat's chief temple of Uzn'era, the Halzi'a's court and granaries,
 
 ## See Also
 
-- [[affiliation-selatseltltr|The Selat of Selat-Leteru]]—Parent selat
-- [[affiliation-deltaselatu|The Delta Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-uznera|Faith of Uzn'era]]—Patron cult
+[[affiliation-selatseltltr|The Selat of Selat-Leteru]]
+: Parent selat
+
+[[affiliation-deltaselatu|The Delta Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-uznera|Faith of Uzn'era]]
+: Patron cult

@@ -150,8 +150,17 @@ is standing in the yard, and will remain.
 
 ## See Also
 
-- [[place-pirnebris|Pirnebris]]—the walled yards, the orchards and the last market before the frontier
-- [[place-bldfldmalnebris|The Blood-field of Malnebris]]—the field that is loud on still nights, and still being added to
-- [[lore-malnebris|Malnebris]]—the road between the ridge and the stream, and the first raid
-- [[affiliation-selmoros|Faith of Sélmoros]]—the final testimony and the rite at the tomb
-- [[lore-provenzianclt|Provenzian]]—the morning call, the train, the unplaced, and the fetching of the dead
+[[place-pirnebris|Pirnebris]]
+: the walled yards, the orchards and the last market before the frontier
+
+[[place-bldfldmalnebris|The Blood-field of Malnebris]]
+: the field that is loud on still nights, and still being added to
+
+[[lore-malnebris|Malnebris]]
+: the road between the ridge and the stream, and the first raid
+
+[[affiliation-selmoros|Faith of Sélmoros]]
+: the final testimony and the rite at the tomb
+
+[[lore-provenzianclt|Provenzian]]
+: the morning call, the train, the unplaced, and the fetching of the dead

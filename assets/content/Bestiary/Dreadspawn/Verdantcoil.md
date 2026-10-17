@@ -261,20 +261,29 @@ Cold slows it badly and saps its strength, and it shrinks from fire and will lea
 
 ## Attributes
 
-- **Strength:** 15-20 (1d6+14)
+Strength
+: 15-20 (1d6+14)
 
-- **Endurance:** 14-17 (1d4+13)
+Endurance
+: 14-17 (1d4+13)
 
-- **Dexterity:** 11-16 (1d6+10)
+Dexterity
+: 11-16 (1d6+10)
 
-- **Agility:** 14-17 (1d4+13)
+Agility
+: 14-17 (1d4+13)
 
-- **Perception:** 15-20 (1d6+14)
+Perception
+: 15-20 (1d6+14)
 
-- **Aura:** 7-12 (1d6+6)
+Aura
+: 7-12 (1d6+6)
 
-- **Will:** 11-16 (1d6+10)
+Will
+: 11-16 (1d6+10)
 
-- **Reasoning:** 7-12 (1d6+6)
+Reasoning
+: 7-12 (1d6+6)
 
-- **Creativity:** 7-12 (1d6+6)
+Creativity
+: 7-12 (1d6+6)

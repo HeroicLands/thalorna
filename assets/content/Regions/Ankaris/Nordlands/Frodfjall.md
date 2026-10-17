@@ -24,5 +24,8 @@ The danger the temple fears most is to the source itself. If the summit waters w
 
 ## See Also
 
-- [[being-brldsldsnsblsng|Brildselda Sun-Blessed]]—the temple's most gifted healer
-- [[affiliation-frodvin|Faith of Frodvin]]—the faith whose temple keeps the mountain
+[[being-brldsldsnsblsng|Brildselda Sun-Blessed]]
+: the temple's most gifted healer
+
+[[affiliation-frodvin|Faith of Frodvin]]
+: the faith whose temple keeps the mountain

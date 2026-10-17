@@ -60,5 +60,8 @@ Certification is the commodity. Say a smith finishes a sword and brings it to th
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu]]—The empire the guild's charter covers
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-aukhelathrgq|Au'Khelathu]]
+: The empire the guild's charter covers
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

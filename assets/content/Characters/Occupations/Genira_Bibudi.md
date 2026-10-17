@@ -425,12 +425,17 @@ Rival fighters resent her quick rise to fame.
 
 ## Plot Hooks
 
-1. **The Gladiator's Dilemma**—An arena patron pays Genira to lose a bout she could win, and her name and her purse cannot both be kept.
+The Gladiator's Dilemma
+: An arena patron pays Genira to lose a bout she could win, and her name and her purse cannot both be kept.
 
-2. **Old Grudges**—A rival fighter who resents Genira's quick rise has asked for her by name in the arena.
+Old Grudges
+: A rival fighter who resents Genira's quick rise has asked for her by name in the arena.
 
-3. **Echoes of the Past**—Someone from Genira's years as a street orphan recognizes her in the arena and comes asking for a share of what she has made.
+Echoes of the Past
+: Someone from Genira's years as a street orphan recognizes her in the arena and comes asking for a share of what she has made.
 
-4. **Shifting Winds**—Political change in Taruzel threatens the games Genira lives by, and she can adapt, resist, or leave.
+Shifting Winds
+: Political change in Taruzel threatens the games Genira lives by, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—The trainer who found Genira offers her his school when he retires, and what he wants in return is not said.
+The Opportunity
+: The trainer who found Genira offers her his school when he retires, and what he wants in return is not said.

@@ -67,10 +67,23 @@ The three towns of the road hold most of what is not herding. The rest of the la
 
 ## See Also
 
-- [[affiliation-bhumipala|Bhumipala]]—the kingdom that holds this land
-- [[place-vedyarargn|Vedyara Region]]—the enclosing region
-- [[place-marchroad|The march road]]—the road the land is built along
-- [[place-wstrndscnt|The Western Descent]]—the broken end of the wall above it
-- [[place-lanthusthli|Lantustali]]—the cursed field the road bends round
-- [[place-sandhysmdr|The Sandva-samedra]]—the sea on its southern shore
-- [[place-madhukupa|Madukupa]]—a Samonta's fort over a well that never fails
+[[affiliation-bhumipala|Bhumipala]]
+: the kingdom that holds this land
+
+[[place-vedyarargn|Vedyara Region]]
+: the enclosing region
+
+[[place-marchroad|The march road]]
+: the road the land is built along
+
+[[place-wstrndscnt|The Western Descent]]
+: the broken end of the wall above it
+
+[[place-lanthusthli|Lantustali]]
+: the cursed field the road bends round
+
+[[place-sandhysmdr|The Sandva-samedra]]
+: the sea on its southern shore
+
+[[place-madhukupa|Madukupa]]
+: a Samonta's fort over a well that never fails

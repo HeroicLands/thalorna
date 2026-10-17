@@ -22,6 +22,11 @@ The town swells when the court comes to hunt and drowses the rest of the year. P
 
 ## See Also
 
-- [[affiliation-provnchyln|Province of Hilen]]—parent province
-- [[place-hylen|Hilen]]—the land the forest borders
-- [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview
+[[affiliation-provnchyln|Province of Hilen]]
+: parent province
+
+[[place-hylen|Hilen]]
+: the land the forest borders
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: imperial overview

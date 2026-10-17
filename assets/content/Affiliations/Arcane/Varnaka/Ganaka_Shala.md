@@ -77,10 +77,17 @@ sohl:
 
 ## Ganoka-shalda—The Reckoners' College
 
-- **Practice:** Computation—the year, the eclipse, the tide, the assay
-- **Seat:** [[place-chandrapur2|Chendrapur]]
-- **Pronunciation:** _GAH-nah-kah SHAH-lah_
-- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
+Practice
+: Computation—the year, the eclipse, the tide, the assay
+
+Seat
+: [[place-chandrapur2|Chendrapur]]
+
+Pronunciation
+: _GAH-nah-kah SHAH-lah_
+
+Pantheon
+: [[affiliation-varakpnthn|Varnuka Pantheon]]
 
 "State your method before you state your figure," the examiner tells the candidate at the slate in the open hall at [[place-chandrapur2|Chendrapur]]. "The college stands behind a figure for as long as it names the method that produced it, and not a day longer."
 
@@ -106,8 +113,17 @@ The college computes the hour. It does not say whether the thing done at the hou
 
 ### See Also
 
-- [[affiliation-varakpnthn|Varnuka Pantheon]]—the cycle-gods
-- [[affiliation-trimurtisampradaya|Triyanga-sampradeya]]—sights the year the college computes
-- [[affiliation-thresholdkeepers|The Threshold-keepers]]—who take the hour of the pyre from the tables
-- [[lore-mdhvndrcnt|The Madustana Count]]—the reckoning both methods are counting in
-- [[skill-vdykshrscrpt|Vedyakshara Script]]—the syllabary the notation is taught beside
+[[affiliation-varakpnthn|Varnuka Pantheon]]
+: the cycle-gods
+
+[[affiliation-trimurtisampradaya|Triyanga-sampradeya]]
+: sights the year the college computes
+
+[[affiliation-thresholdkeepers|The Threshold-keepers]]
+: who take the hour of the pyre from the tables
+
+[[lore-mdhvndrcnt|The Madustana Count]]
+: the reckoning both methods are counting in
+
+[[skill-vdykshrscrpt|Vedyakshara Script]]
+: the syllabary the notation is taught beside

@@ -159,7 +159,14 @@ So fill it. Go on. And then bed. And don't look out of the window.
 
 ## See Also
 
-- [[place-kavrenath|Kávrenath]] · [[place-asturath|Asturath]]—the valleys and the pass
-- [[lore-tarvenanclt|Tarvenan]]—the night procession, the lantern on the threshold, the companies and their dead
-- [[lore-bloodfield|Blood-fields]]—what a field of unreceived dead becomes
-- [[affiliation-selmoros|Faith of Sélmoros]] · [[affiliation-morvana|Faith of Morvana]]—the rites the priest says, and the late-autumn festivals of the dead
+[[place-kavrenath|Kávrenath]] · [[place-asturath|Asturath]]
+: the valleys and the pass
+
+[[lore-tarvenanclt|Tarvenan]]
+: the night procession, the lantern on the threshold, the companies and their dead
+
+[[lore-bloodfield|Blood-fields]]
+: what a field of unreceived dead becomes
+
+[[affiliation-selmoros|Faith of Sélmoros]] · [[affiliation-morvana|Faith of Morvana]]
+: the rites the priest says, and the late-autumn festivals of the dead

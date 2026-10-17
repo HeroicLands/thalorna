@@ -71,9 +71,20 @@ Lut-Getha-Zalu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The chapter 
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-lutgetha|Lut-Getha]]—Selat capital
-- [[affiliation-psaqaru|Faith of Saq'aru]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-lutgethazalunome|Lut-Getha-Zalu]]—The land the selat holds
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-lutgetha|Lut-Getha]]
+: Selat capital
+
+[[affiliation-psaqaru|Faith of Saq'aru]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-lutgethazalunome|Lut-Getha-Zalu]]
+: The land the selat holds

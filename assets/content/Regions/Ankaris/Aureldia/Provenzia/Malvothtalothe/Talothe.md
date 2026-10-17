@@ -37,15 +37,20 @@ imagines a lasting peace would be good news.
 
 ## Its Places
 
-- [[place-durvalis|Durvalis]]—the fortress town below the passes, where the march musters
-  and where the Winter Assize sits.
-- [[place-pirnebris|Pirnebris]]—the cherry town built so that it can be shut.
-- [[place-tiravellake|Lake Tiravel]]—the great upland lake, far enough behind the passes to be
-  settled and prosperous, which provisions the garrisons.
-- [[place-bldfldmalnebris|Blood-field of Malnebris]]—the recurrence in the pass, the only
-  blood-field in Provenzia still being added to.
-- [[place-bldfldtiravlen|Blood-field of Tiravlen]]—on the lake shore, which replays out over the
-  water.
+[[place-durvalis|Durvalis]]
+: the fortress town below the passes, where the march musters and where the Winter Assize sits.
+
+[[place-pirnebris|Pirnebris]]
+: the cherry town built so that it can be shut.
+
+[[place-tiravellake|Lake Tiravel]]
+: the great upland lake, far enough behind the passes to be settled and prosperous, which provisions the garrisons.
+
+[[place-bldfldmalnebris|Blood-field of Malnebris]]
+: the recurrence in the pass, the only blood-field in Provenzia still being added to.
+
+[[place-bldfldtiravlen|Blood-field of Tiravlen]]
+: on the lake shore, which replays out over the water.
 
 ## See Also
 

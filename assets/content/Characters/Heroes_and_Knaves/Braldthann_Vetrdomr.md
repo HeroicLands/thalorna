@@ -450,17 +450,31 @@ Braldthann is driven by an almost obsessive need to preserve what his family bui
 
 ### Strengths
 
-- **Master Craftsman**: Decades of experience make Braldthann unrivaled in creating weather-resistant, durable tents capable of withstanding the harshest conditions Nordheim can inflict. His double-weave technique is famous among the military hierarchy.
-- **Uncompromising Standards**: Every piece that leaves his workshop meets exacting specifications. His reputation for reliability is absolute—military officers and merchants place standing orders with complete confidence.
-- **Fire Ritualist**: His knowledge of fireproofing techniques and flame-resistant compounds is deep, and he combines practical chemistry with spiritual practice dedicated to Svartbrandr.
-- **Leadership and Authority**: Though he commands respect more through competence than charisma, those in the craft world recognize his authority. Younger makers, despite their dismissal of his methods, often secretly consult his work.
+Master Craftsman
+: Decades of experience make Braldthann unrivaled in creating weather-resistant, durable tents capable of withstanding the harshest conditions Nordheim can inflict. His double-weave technique is famous among the military hierarchy.
+
+Uncompromising Standards
+: Every piece that leaves his workshop meets exacting specifications. His reputation for reliability is absolute—military officers and merchants place standing orders with complete confidence.
+
+Fire Ritualist
+: His knowledge of fireproofing techniques and flame-resistant compounds is deep, and he combines practical chemistry with spiritual practice dedicated to Svartbrandr.
+
+Leadership and Authority
+: Though he commands respect more through competence than charisma, those in the craft world recognize his authority. Younger makers, despite their dismissal of his methods, often secretly consult his work.
 
 ### Weaknesses
 
-- **Resistance to Innovation**: Braldthann views any method not descended from his family's traditions as inherently inferior. He has rejected profitable opportunities because they would require learning new techniques.
-- **Aging Hands**: The arthritis creeping into his fingers is a silent threat he refuses to acknowledge. Some of the finest work now requires his apprentice's steadier hands, a reality that frustrates him deeply.
-- **Limited Flexibility**: His inability to adapt to market demands or even to customize designs beyond his established patterns has cost him contracts to more flexible competitors.
-- **Emotional Isolation**: His dismissal of younger craftsmen and outsiders has left him with few friendships. His reputation protects his business but isolates his personal life.
+Resistance to Innovation
+: Braldthann views any method not descended from his family's traditions as inherently inferior. He has rejected profitable opportunities because they would require learning new techniques.
+
+Aging Hands
+: The arthritis creeping into his fingers is a silent threat he refuses to acknowledge. Some of the finest work now requires his apprentice's steadier hands, a reality that frustrates him deeply.
+
+Limited Flexibility
+: His inability to adapt to market demands or even to customize designs beyond his established patterns has cost him contracts to more flexible competitors.
+
+Emotional Isolation
+: His dismissal of younger craftsmen and outsiders has left him with few friendships. His reputation protects his business but isolates his personal life.
 
 ## Social
 
@@ -487,12 +501,17 @@ Tentmakers' Guild of Nordheim
 
 ## Plot Hooks
 
-1. **The Commission of Legend**: A powerful jarl's daughter commissions a tent unlike anything ever requested—a portable temple to Svartbrandr that must incorporate ritual spaces, special colorings, and materials from across the known world. The commission is enormous and prestigious, but requires Braldthann to innovate beyond his comfort and work with materials he has never handled. Will he rise to the challenge, or refuse and watch the contract go to Snurvmil? Either choice could reshape his legacy.
+The Commission of Legend
+: A powerful jarl's daughter commissions a tent unlike anything ever requested—a portable temple to Svartbrandr that must incorporate ritual spaces, special colorings, and materials from across the known world. The commission is enormous and prestigious, but requires Braldthann to innovate beyond his comfort and work with materials he has never handled. Will he rise to the challenge, or refuse and watch the contract go to Snurvmil? Either choice could reshape his legacy.
 
-2. **The Apprentice's Return**: Years ago, Braldthann turned away a gifted but headstrong apprentice, **Knarvselda Ringbinder**, claiming she lacked discipline. Now she returns as a master craftsperson trained abroad, having developed revolutionary techniques that combine Braldthann's family methods with foreign innovation. She offers to collaborate with him, but her success stings his pride. Can two stubborn masters find common ground, or will ego destroy a partnership that could save the old traditions?
+The Apprentice's Return
+: Years ago, Braldthann turned away a gifted but headstrong apprentice, **Knarvselda Ringbinder**, claiming she lacked discipline. Now she returns as a master craftsperson trained abroad, having developed revolutionary techniques that combine Braldthann's family methods with foreign innovation. She offers to collaborate with him, but her success stings his pride. Can two stubborn masters find common ground, or will ego destroy a partnership that could save the old traditions?
 
-3. **The Conspiracy of Quality**: Military investigators approach Braldthann with evidence that someone has been deliberately sabotaging his tents—introducing flaws that barely manifest until soldiers are in the field. Someone wants to damage his reputation and open market share. Braldthann must investigate whether the culprit is **Snurvmil Fastworker**, a jealous rival, or someone else entirely—perhaps even a competitor being hired by foreign powers to weaken Nordheim's military supply.
+The Conspiracy of Quality
+: Military investigators approach Braldthann with evidence that someone has been deliberately sabotaging his tents—introducing flaws that barely manifest until soldiers are in the field. Someone wants to damage his reputation and open market share. Braldthann must investigate whether the culprit is **Snurvmil Fastworker**, a jealous rival, or someone else entirely—perhaps even a competitor being hired by foreign powers to weaken Nordheim's military supply.
 
-4. **The Master's Illness**: Braldthann's arthritic hands worsen dramatically. His physician, **Healer Knarvrinna Bondswoman**, warns that within a year he may lose the dexterity that defines his art. Desperate, Braldthann seeks a solution—perhaps a pilgrimage to a shrine of Svartbrandr rumored to grant miraculous healing, or a dangerous ritual that might preserve his abilities at great cost. His journey becomes a race against time and infirmity.
+The Master's Illness
+: Braldthann's arthritic hands worsen dramatically. His physician, **Healer Knarvrinna Bondswoman**, warns that within a year he may lose the dexterity that defines his art. Desperate, Braldthann seeks a solution—perhaps a pilgrimage to a shrine of Svartbrandr rumored to grant miraculous healing, or a dangerous ritual that might preserve his abilities at great cost. His journey becomes a race against time and infirmity.
 
-5. **Preserving the Legacy**: With no worthy heir to his methods, Braldthann faces a mortality crisis. A noble patron offers to fund a comprehensive record of his techniques—a master work that would preserve his family's knowledge forever. But the project requires collaboration with scribes and scholars, constant explanation, and admission that his way may not be eternal. Can he accept that immortality through documentation might be all that remains available to him?
+Preserving the Legacy
+: With no worthy heir to his methods, Braldthann faces a mortality crisis. A noble patron offers to fund a comprehensive record of his techniques—a master work that would preserve his family's knowledge forever. But the project requires collaboration with scribes and scholars, constant explanation, and admission that his way may not be eternal. Can he accept that immortality through documentation might be all that remains available to him?

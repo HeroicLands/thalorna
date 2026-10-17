@@ -115,7 +115,14 @@ The judge records, as notice and not as judgment, that she has kept her own name
 
 ## See Also
 
-- [[place-kalveza|Kalveza]]—the working port where the judgment was given
-- [[affiliation-olvenia|Faith of Ólvenia]]—the Festival of the Golden Harvest, when patrons commission singers
-- [[affiliation-selmoros|Faith of Sélmoros]]—the priests who place the dead
-- [[lore-provenzianclt|Provenzian]]—the order of duty, the release of a client, the unnaming, and the name a married woman keeps
+[[place-kalveza|Kalveza]]
+: the working port where the judgment was given
+
+[[affiliation-olvenia|Faith of Ólvenia]]
+: the Festival of the Golden Harvest, when patrons commission singers
+
+[[affiliation-selmoros|Faith of Sélmoros]]
+: the priests who place the dead
+
+[[lore-provenzianclt|Provenzian]]
+: the order of duty, the release of a client, the unnaming, and the name a married woman keeps

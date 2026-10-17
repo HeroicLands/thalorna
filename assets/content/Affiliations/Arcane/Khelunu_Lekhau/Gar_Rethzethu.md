@@ -66,6 +66,11 @@ The **Finder of Names** establishes the true name of a thing. The work is slow a
 
 ## See Also
 
-- [[lore-rethzethu|Reth'zethu]]—the domain
-- [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
-- [[place-khelunu|Khelunu]]—where the Eight are taught
+[[lore-rethzethu|Reth'zethu]]
+: the domain
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the philosophy and the other seven domains
+
+[[place-khelunu|Khelunu]]
+: where the Eight are taught

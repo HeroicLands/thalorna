@@ -22,5 +22,8 @@ Gasher has spent every year since wishing the story would end.
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the enclosing region
-- [[being-gasherltrtht|Gasher Let'Rethetu]]—the performer
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the enclosing region
+
+[[being-gasherltrtht|Gasher Let'Rethetu]]
+: the performer

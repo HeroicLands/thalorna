@@ -433,12 +433,17 @@ Competitors who resent his aggressive business tactics.
 
 ## Plot Hooks
 
-1. **The Chandler's Dilemma**—Harfos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+The Chandler's Dilemma
+: Harfos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 
-2. **Old Grudges**—Competitors who resent his aggressive business tactics. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: Competitors who resent his aggressive business tactics. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Harfos's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+Echoes of the Past
+: Something from Harfos's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Harfos depends upon. He must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Vylaria threaten to upend the social order that Harfos depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Harfos the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Harfos the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

@@ -22,6 +22,11 @@ A clerk on the _therkos_'s staff explains the arrangement to a newcomer sent to 
 
 ## See Also
 
-- [[place-alyssa|Alessa]]—the land this city governs
-- [[affiliation-provinclys|Province of Alessa]]—the province it is the seat of
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the empire the province anchors
+[[place-alyssa|Alessa]]
+: the land this city governs
+
+[[affiliation-provinclys|Province of Alessa]]
+: the province it is the seat of
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the empire the province anchors

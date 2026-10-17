@@ -81,8 +81,11 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 > Not to be confused with the Bizarian port town of the same name in the [[affiliation-byzarianlg|Bizarian League]], which is the city-state's daughter-port from the colonizing centuries ([[lore-daughtercts|the Daughter-Cities]]).
 
-- **Government:** oligarchy of wealthy patron families
-- **Land held:** [[place-kostarosdst|Kostaros District]], including Mirtelos
+Government
+: oligarchy of wealthy patron families
+
+Land held
+: [[place-kostarosdst|Kostaros District]], including Mirtelos
 
 ## Who Decides
 
@@ -96,9 +99,20 @@ Kostaros is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]] and s
 
 ## See Also
 
-- [[affiliation-ctysttshlns|City-States of Helionis]]—the seven cities and how they are governed
-- [[place-helionis|Helionis]]—the region
-- [[place-kostarosdst|Kostaros District]]—the land the city-state holds
-- [[place-myrtillos|Mirtelos]]—coastal town within its territory
-- [[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalidria]]—the three leading city-states
-- [[affiliation-theradon|Theradon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]]—the rest of the seven
+[[affiliation-ctysttshlns|City-States of Helionis]]
+: the seven cities and how they are governed
+
+[[place-helionis|Helionis]]
+: the region
+
+[[place-kostarosdst|Kostaros District]]
+: the land the city-state holds
+
+[[place-myrtillos|Mirtelos]]
+: coastal town within its territory
+
+[[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalidria]]
+: the three leading city-states
+
+[[affiliation-theradon|Theradon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]]
+: the rest of the seven

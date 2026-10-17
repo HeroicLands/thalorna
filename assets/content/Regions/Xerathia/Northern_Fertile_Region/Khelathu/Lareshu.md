@@ -14,5 +14,8 @@ What draws the rare traveler is what lies hidden in the sand. "We have the road 
 
 ## See Also
 
-- [[place-lutzelutha|Lut-Zelutha]]—the sanctuary the astrologers' road is held to end at
-- [[place-anlaghura|Anlaghura]]—the monolith that carries the first fragments of the prophecy
+[[place-lutzelutha|Lut-Zelutha]]
+: the sanctuary the astrologers' road is held to end at
+
+[[place-anlaghura|Anlaghura]]
+: the monolith that carries the first fragments of the prophecy

@@ -73,12 +73,23 @@ The party's investigation reveals the truth:
 
 **Possible Origins:**
 
-- **Deliberate Sabotage:** A rival noble house hired a poisoner or dark mage to curse the orchards, destroying a competitor
-- **Alchemical Accident:** An experimental process or new fertilizer caused unforeseen consequences
-- **Magical Curse:** A mage (hired or acting independently) cursed the orchards for personal revenge
-- **Arcane Manipulation:** The Thordimalon cursed the orchards to create leverage or opportunity
-- **Fae Influence:** A fae spirit or Áelendan power angered by desecration or broken compact inflicted the curse
-- **Natural Phenomenon:** A spiritual entity or natural force was awakened by something done in or near the orchards
+Deliberate Sabotage
+: A rival noble house hired a poisoner or dark mage to curse the orchards, destroying a competitor
+
+Alchemical Accident
+: An experimental process or new fertilizer caused unforeseen consequences
+
+Magical Curse
+: A mage (hired or acting independently) cursed the orchards for personal revenge
+
+Arcane Manipulation
+: The Thordimalon cursed the orchards to create leverage or opportunity
+
+Fae Influence
+: A fae spirit or Áelendan power angered by desecration or broken compact inflicted the curse
+
+Natural Phenomenon
+: A spiritual entity or natural force was awakened by something done in or near the orchards
 
 **Key Evidence:**
 
@@ -92,11 +103,20 @@ The party's investigation reveals the truth:
 
 The party must address the conspiracy and cure the orchards. Different approaches:
 
-- **Expose the Conspirators:** Publicly reveal who caused the curse, forcing accountability through law or politics
-- **Reverse the Curse:** Work with a mage to unmake or neutralize the magical poison
-- **Cleanse the Land:** Perform rituals to purify the orchards (may require cooperation with Aureldian clergy or other powers)
-- **Negotiate Settlement:** If the curse was born of a broken compact or insult, mediate between parties
-- **Harvest Remains:** If the orchards cannot be saved, salvage what value remains and plan for recovery
+Expose the Conspirators
+: Publicly reveal who caused the curse, forcing accountability through law or politics
+
+Reverse the Curse
+: Work with a mage to unmake or neutralize the magical poison
+
+Cleanse the Land
+: Perform rituals to purify the orchards (may require cooperation with Aureldian clergy or other powers)
+
+Negotiate Settlement
+: If the curse was born of a broken compact or insult, mediate between parties
+
+Harvest Remains
+: If the orchards cannot be saved, salvage what value remains and plan for recovery
 
 **Confrontations:**
 

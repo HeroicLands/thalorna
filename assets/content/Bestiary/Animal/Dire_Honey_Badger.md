@@ -316,20 +316,29 @@ Broken bones, deep wounds and a spear through the body do not slow it while it h
 
 ## Attributes
 
-- **Strength:** 22-27 (1d6+21)
+Strength
+: 22-27 (1d6+21)
 
-- **Endurance:** 20-25 (1d6+19)
+Endurance
+: 20-25 (1d6+19)
 
-- **Dexterity:** 12-17 (1d6+11)
+Dexterity
+: 12-17 (1d6+11)
 
-- **Agility:** 10-15 (1d6+9)
+Agility
+: 10-15 (1d6+9)
 
-- **Perception:** 12-17 (1d6+11)
+Perception
+: 12-17 (1d6+11)
 
-- **Aura:** 11-16 (1d6+10)
+Aura
+: 11-16 (1d6+10)
 
-- **Will:** 18-23 (1d6+17)
+Will
+: 18-23 (1d6+17)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 5-8 (1d4+4)
+Creativity
+: 5-8 (1d4+4)

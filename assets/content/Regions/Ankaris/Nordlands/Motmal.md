@@ -388,9 +388,20 @@ Go out by the door. It is not barred.
 
 ## See Also
 
-- [[lore-gnumborinn|Gnúmborinn]]—the clay-born, and the three accounts of how death came in
-- [[lore-motefnirdty|Mótefnir]]—the Maker, who makes a thing once and walks away
-- [[lore-odvardty|Odvar]]—the All-Father, who gave the clay-born the fit
-- [[lore-thursblot|Thursblet]]—the cutting the clay came from
-- [[affiliation-motefnir|Faith of Mótefnir]]—the Swearing of the First Work, at which the poem is spoken
-- [[lore-dreadspawncrtr|Dreadspawn]]—the Maker's other work, which the poem counts
+[[lore-gnumborinn|Gnúmborinn]]
+: the clay-born, and the three accounts of how death came in
+
+[[lore-motefnirdty|Mótefnir]]
+: the Maker, who makes a thing once and walks away
+
+[[lore-odvardty|Odvar]]
+: the All-Father, who gave the clay-born the fit
+
+[[lore-thursblot|Thursblet]]
+: the cutting the clay came from
+
+[[affiliation-motefnir|Faith of Mótefnir]]
+: the Swearing of the First Work, at which the poem is spoken
+
+[[lore-dreadspawncrtr|Dreadspawn]]
+: the Maker's other work, which the poem counts

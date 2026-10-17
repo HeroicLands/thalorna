@@ -27,11 +27,19 @@ Away from the flax, the villages and temple estates grow grain on the usual term
 
 ## Settlements
 
-- [[place-garzanit|Gar-Zanit]] (~34,000)—the selat capital and the seat of the Halzi'a.
-- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+[[place-garzanit|Gar-Zanit]] (~34,000)
+: the selat capital and the seat of the Halzi'a.
+
+The villages and estate-towns
+: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatgarzant|The Selat of Gar-Zanit]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-garzanit|Gar-Zanit]]—Selat capital
+[[affiliation-selatgarzant|The Selat of Gar-Zanit]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-garzanit|Gar-Zanit]]
+: Selat capital

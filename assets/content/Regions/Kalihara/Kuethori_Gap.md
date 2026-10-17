@@ -34,7 +34,14 @@ No boat passes the gorge; the river runs too fast over too much rock. The road i
 
 ## See Also
 
-- [[place-klhrring|The Ring]]—the mountains the gap breaks
-- [[place-klhrlake|The Bowl Lake]]—the water that runs out through it
-- [[place-mirthaan|Mirthaan]]—the sanctuary whose custodians tend the work at the head of the gap
-- [[place-klhrcldpss|The Cloud Pass]], [[place-klhrwstsddl|the Western Saddle]] and [[place-klhrsthstr|the Southern Stair]]—the passes over the Ring
+[[place-klhrring|The Ring]]
+: the mountains the gap breaks
+
+[[place-klhrlake|The Bowl Lake]]
+: the water that runs out through it
+
+[[place-mirthaan|Mirthaan]]
+: the sanctuary whose custodians tend the work at the head of the gap
+
+[[place-klhrcldpss|The Cloud Pass]], [[place-klhrwstsddl|the Western Saddle]] and [[place-klhrsthstr|the Southern Stair]]
+: the passes over the Ring

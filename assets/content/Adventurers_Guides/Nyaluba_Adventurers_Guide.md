@@ -36,9 +36,20 @@ Most outsiders arrive with Sengala traders, and a party that carries goods south
 
 ## Where to Read Next
 
-- [[lore-nyalubaclt|The Nyáluba]]—the Pact, the five nations, memory and the drums
-- [[affiliation-nylbtrblntn|The Nyáluba Tribal Nation]]—the clans, the Great Lubemo and famous figures
-- [[affiliation-nyalbpnthn|The Nyáluba Way]]—totems, guides and the specialists who serve them
-- [[lore-nyalbsprts|Nyáluba Spirits]]—the guides themselves and how each is handled
-- [[lore-stonetongue|The Stone Tongue]]—the record and a fireside telling
-- [[skill-nyalbnlng|Nyáluban]]—the language, its tones and sample phrases
+[[lore-nyalubaclt|The Nyáluba]]
+: the Pact, the five nations, memory and the drums
+
+[[affiliation-nylbtrblntn|The Nyáluba Tribal Nation]]
+: the clans, the Great Lubemo and famous figures
+
+[[affiliation-nyalbpnthn|The Nyáluba Way]]
+: totems, guides and the specialists who serve them
+
+[[lore-nyalbsprts|Nyáluba Spirits]]
+: the guides themselves and how each is handled
+
+[[lore-stonetongue|The Stone Tongue]]
+: the record and a fireside telling
+
+[[skill-nyalbnlng|Nyáluban]]
+: the language, its tones and sample phrases

@@ -133,9 +133,20 @@ Vedyara is a subcontinent, and the Adanashreni is dominant without being sole.
 
 ## See Also
 
-- [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]—the syndicate model this shrena is not
-- [[affiliation-twilighths|The Twilight House]]—the courtesan house whose Factor to the Shrena carries the shared business
-- [[affiliation-mrchntclctvvdyr|Merchant Collective of Vedyara]]—whose houses hold arrangements with the shrena that the Collective does not discuss
-- [[place-vedyarargn|Vedyara Region]] · [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—where the forty charters sit
-- [[affiliation-varakpnthn|Varnuka Pantheon]]—the faith whose clergy condemn the doctrine
-- [[lore-vdyrnbnkng|Vedyaran Banking]]—the system the shrena's surety shadows
+[[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]
+: the syndicate model this shrena is not
+
+[[affiliation-twilighths|The Twilight House]]
+: the courtesan house whose Factor to the Shrena carries the shared business
+
+[[affiliation-mrchntclctvvdyr|Merchant Collective of Vedyara]]
+: whose houses hold arrangements with the shrena that the Collective does not discuss
+
+[[place-vedyarargn|Vedyara Region]] · [[affiliation-janpdsvdyr|Janapadas of Vedyara]]
+: where the forty charters sit
+
+[[affiliation-varakpnthn|Varnuka Pantheon]]
+: the faith whose clergy condemn the doctrine
+
+[[lore-vdyrnbnkng|Vedyaran Banking]]
+: the system the shrena's surety shadows

@@ -22,10 +22,23 @@ The oldest of the custodians' sanctuaries, [[place-veshvaan|Veshvaan]], stands o
 
 ## See Also
 
-- [[place-klhrring|The Ring]]—the mountains that enclose the Bowl
-- [[place-klhrlake|The Bowl Lake]]—the lake in the Bowl
-- [[place-klhrmassif|The Massif]]—the mount in the lake
-- [[place-klhrestrrc|The Eastern Terraces]]—the cleared land along the eastern and southern shores
-- [[place-klhrdpfrst|The Deep Forest]]—the forest of the western and northern Bowl
-- [[place-veshvaan|Veshvaan]]—the oldest sanctuary, on the Massif
-- [[affiliation-tharivaan|Thári'vaan]]—the custodians and their sanctuaries
+[[place-klhrring|The Ring]]
+: the mountains that enclose the Bowl
+
+[[place-klhrlake|The Bowl Lake]]
+: the lake in the Bowl
+
+[[place-klhrmassif|The Massif]]
+: the mount in the lake
+
+[[place-klhrestrrc|The Eastern Terraces]]
+: the cleared land along the eastern and southern shores
+
+[[place-klhrdpfrst|The Deep Forest]]
+: the forest of the western and northern Bowl
+
+[[place-veshvaan|Veshvaan]]
+: the oldest sanctuary, on the Massif
+
+[[affiliation-tharivaan|Thári'vaan]]
+: the custodians and their sanctuaries

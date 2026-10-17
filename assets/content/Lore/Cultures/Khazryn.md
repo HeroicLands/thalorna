@@ -277,19 +277,44 @@ The sin the Tellumi tell against themselves is the lost town. A prince who count
 
 ## See Also
 
-- [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the seven houses and the Council that speaks for them
-- [[place-swoasisbelt|Tellumel]]—the oasis belt the people come from
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the waste north of the belt
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—the conquerors, and the other half of the quarrel
-- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the twelve, as the Tellumi Delkoshekhs systematized them
-- [[affiliation-zurathra|Faith of Zúrathra]]—the Mother of the Oasis, and the shrine at every spring
-- [[lore-turemrecital|The Recitation of the Breaking]]—the case as it is recited at every festival and princely funeral
-- [[lore-comingdown|The Coming Down]]—the foundation legend, and the roll of the seven peaks
-- [[lore-velkunsong|The Song of the Lost Town]]—the cloth-tellers' epic of old Vahurdash
-- [[affiliation-azravan|Faith of Azravan]]—the Festival of the Departed and the Prayer of Passage
-- [[affiliation-ahurdaen|Faith of Ahurdaen]]—the weekly observance and the Delkoshekhs who keep the calendar
-- [[place-henhulpedin|Henhutpedin]]—the field outside Zargandur where the names were never read
-- [[lore-roadnights|The Nights of the Road]]—a caravan-master's tales of the crossing to Tantsou
+[[affiliation-khzrncnfdrtn|Tellumi Confederation]]
+: the seven houses and the Council that speaks for them
+
+[[place-swoasisbelt|Tellumel]]
+: the oasis belt the people come from
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the waste north of the belt
+
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: the conquerors, and the other half of the quarrel
+
+[[affiliation-ashanpnthn|Ashaian Pantheon]]
+: the twelve, as the Tellumi Delkoshekhs systematized them
+
+[[affiliation-zurathra|Faith of Zúrathra]]
+: the Mother of the Oasis, and the shrine at every spring
+
+[[lore-turemrecital|The Recitation of the Breaking]]
+: the case as it is recited at every festival and princely funeral
+
+[[lore-comingdown|The Coming Down]]
+: the foundation legend, and the roll of the seven peaks
+
+[[lore-velkunsong|The Song of the Lost Town]]
+: the cloth-tellers' epic of old Vahurdash
+
+[[affiliation-azravan|Faith of Azravan]]
+: the Festival of the Departed and the Prayer of Passage
+
+[[affiliation-ahurdaen|Faith of Ahurdaen]]
+: the weekly observance and the Delkoshekhs who keep the calendar
+
+[[place-henhulpedin|Henhutpedin]]
+: the field outside Zargandur where the names were never read
+
+[[lore-roadnights|The Nights of the Road]]
+: a caravan-master's tales of the crossing to Tantsou
 
 ## Glossary {#glossary}
 

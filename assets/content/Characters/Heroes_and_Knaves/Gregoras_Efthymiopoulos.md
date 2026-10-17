@@ -454,19 +454,37 @@ Trufios is primarily motivated by the pursuit of maritime perfection—the creat
 
 ### Strengths
 
-- **Mastery of Naval Engineering**: His shipwright, engineering, and mathematics scores reflect comprehensive knowledge of vessel design, construction, and the theoretical principles underlying maritime vessels. He can design a warship that is simultaneously elegant, durable, and devastating in combat capability.
-- **Mathematical Brilliance**: His reasoning and mathematics allow him to perform complex load calculations, shape hulls to specific purposes, and devise solutions to unprecedented engineering challenges.
-- **Practical Craftwork Excellence**: His hands-on understanding of materials, his ability to manage complex multi-stage construction projects, and his quality control standards make him capable of flawless execution of even elaborate designs.
-- **Authoritative Leadership**: His command and strength scores reflect his natural ability to direct large crews with absolute authority. Workers obey his instructions without question, recognizing his mastery and commitment to their safety.
-- **Innovation and Problem-Solving**: His creativity combined with his technical knowledge allows him to devise novel solutions to shipbuilding challenges that others consider impossible. He has pioneered several construction techniques now adopted throughout the trade.
+Mastery of Naval Engineering
+: His shipwright, engineering, and mathematics scores reflect comprehensive knowledge of vessel design, construction, and the theoretical principles underlying maritime vessels. He can design a warship that is simultaneously elegant, durable, and devastating in combat capability.
+
+Mathematical Brilliance
+: His reasoning and mathematics allow him to perform complex load calculations, shape hulls to specific purposes, and devise solutions to unprecedented engineering challenges.
+
+Practical Craftwork Excellence
+: His hands-on understanding of materials, his ability to manage complex multi-stage construction projects, and his quality control standards make him capable of flawless execution of even elaborate designs.
+
+Authoritative Leadership
+: His command and strength scores reflect his natural ability to direct large crews with absolute authority. Workers obey his instructions without question, recognizing his mastery and commitment to their safety.
+
+Innovation and Problem-Solving
+: His creativity combined with his technical knowledge allows him to devise novel solutions to shipbuilding challenges that others consider impossible. He has pioneered several construction techniques now adopted throughout the trade.
 
 ### Weaknesses
 
-- **Poor Interpersonal Management**: His strength and direct nature, while excellent for commanding craftspeople, make him ineffective at the political and social aspects of managing a successful business. He struggles to inspire loyalty beyond that based on fear or respect, and he cannot negotiate effectively with nobles or bureaucrats.
-- **Volatile Temperament**: His quick anger, while not malicious, creates instability in his workplace and makes him vulnerable to manipulation by those who understand how to trigger his outbursts.
-- **Limited Diplomacy and Eloquence**: His lack of charm and eloquence reflects his discomfort with social niceties. He cannot charm patrons, schmooze with nobles, or sell himself effectively, leaving the selling to others.
-- **Perfectionism as Bottleneck**: His refusal to accept anything less than perfection sometimes delays projects, runs up costs, and frustrates patrons who expected speedier delivery.
-- **Vulnerability to Burnout**: His singular focus on his work and his inability to set it down make him prone to exhaustion and despair. When projects fail or when he perceives his work to be inadequately appreciated, he can fall into dark moods.
+Poor Interpersonal Management
+: His strength and direct nature, while excellent for commanding craftspeople, make him ineffective at the political and social aspects of managing a successful business. He struggles to inspire loyalty beyond that based on fear or respect, and he cannot negotiate effectively with nobles or bureaucrats.
+
+Volatile Temperament
+: His quick anger, while not malicious, creates instability in his workplace and makes him vulnerable to manipulation by those who understand how to trigger his outbursts.
+
+Limited Diplomacy and Eloquence
+: His lack of charm and eloquence reflects his discomfort with social niceties. He cannot charm patrons, schmooze with nobles, or sell himself effectively, leaving the selling to others.
+
+Perfectionism as Bottleneck
+: His refusal to accept anything less than perfection sometimes delays projects, runs up costs, and frustrates patrons who expected speedier delivery.
+
+Vulnerability to Burnout
+: His singular focus on his work and his inability to set it down make him prone to exhaustion and despair. When projects fail or when he perceives his work to be inadequately appreciated, he can fall into dark moods.
 
 ## Social
 
@@ -502,12 +520,17 @@ The Scholars of the Mechanical Arts
 
 ## Plot Hooks
 
-1. **The Impossible Commission**: A major noble or foreign power commissions Trufios to build a warship incorporating specifications that he immediately recognizes as theoretically unsound—they demand impossible weight-to-strength ratios, armor thickness that would make the vessel too heavy to float, or other fundamental contradictions. Trufios initially refuses, but the patron persists, offering such enormous payment that he reconsiders. The party might be hired to assist Trufios in resolving the contradiction, discovering that the patron actually possesses an ancient artifact or theoretical manuscript that suggests a solution previously considered impossible. Alternatively, Trufios might be forced to choose between his principles and financial desperation.
+The Impossible Commission
+: A major noble or foreign power commissions Trufios to build a warship incorporating specifications that he immediately recognizes as theoretically unsound—they demand impossible weight-to-strength ratios, armor thickness that would make the vessel too heavy to float, or other fundamental contradictions. Trufios initially refuses, but the patron persists, offering such enormous payment that he reconsiders. The party might be hired to assist Trufios in resolving the contradiction, discovering that the patron actually possesses an ancient artifact or theoretical manuscript that suggests a solution previously considered impossible. Alternatively, Trufios might be forced to choose between his principles and financial desperation.
 
-2. **The Sabotaged Masterwork**: Trufios begins work on his intended masterpiece—a warship so advanced it will eclipse all previous designs and cement his legacy as the greatest shipwright of his age. However, he begins discovering subtle sabotage in his materials and designs—timber with hidden flaws, measurements that have been subtly altered, key workers who are being paid to introduce errors. He hires adventurers to identify the saboteur(s). Investigation leads to Shipwright Abrázion, his rival, who has become desperate enough to commit sabotage rather than compete fairly. The resolution might involve preventing further sabotage, dealing with Abrázion through legal or more violent means, or discovering that someone is using Abrázion as a dupe in a larger conspiracy.
+The Sabotaged Masterwork
+: Trufios begins work on his intended masterpiece—a warship so advanced it will eclipse all previous designs and cement his legacy as the greatest shipwright of his age. However, he begins discovering subtle sabotage in his materials and designs—timber with hidden flaws, measurements that have been subtly altered, key workers who are being paid to introduce errors. He hires adventurers to identify the saboteur(s). Investigation leads to Shipwright Abrázion, his rival, who has become desperate enough to commit sabotage rather than compete fairly. The resolution might involve preventing further sabotage, dealing with Abrázion through legal or more violent means, or discovering that someone is using Abrázion as a dupe in a larger conspiracy.
 
-3. **The Cursed Timber**: A shipment of unusually high-quality timber arrives for Trufios's current project—wood so superior that it seems almost supernatural in its properties. Too late, he discovers the wood is cursed or comes from a forbidden source. Workers begin reporting strange occurrences, accidents that shouldn't be possible occur during construction, and the timber itself seems to resist cutting and shaping. Trufios must work with the party to determine the source and nature of the curse and either lift it or find alternative materials without losing the major contract. The investigation might reveal the timber came from a forest sacred to an ancient power, or that it was harvested using slave labor and dark rituals.
+The Cursed Timber
+: A shipment of unusually high-quality timber arrives for Trufios's current project—wood so superior that it seems almost supernatural in its properties. Too late, he discovers the wood is cursed or comes from a forbidden source. Workers begin reporting strange occurrences, accidents that shouldn't be possible occur during construction, and the timber itself seems to resist cutting and shaping. Trufios must work with the party to determine the source and nature of the curse and either lift it or find alternative materials without losing the major contract. The investigation might reveal the timber came from a forest sacred to an ancient power, or that it was harvested using slave labor and dark rituals.
 
-4. **The Naval Innovation Race**: The Bizarian League and a rival naval power are engaged in an escalating race to build better warships. The League's Admiral Yulizehran commissions Trufios to design and build a warship incorporating new ideas that will give an overwhelming advantage at sea. However, the rival power simultaneously commissions the party (perhaps along with Trufios's rival Abrázion) to acquire the designs or the finished vessel before it can be deployed. The party becomes caught between competing factions, and the resolution determines which power will rule the sea for decades to come.
+The Naval Innovation Race
+: The Bizarian League and a rival naval power are engaged in an escalating race to build better warships. The League's Admiral Yulizehran commissions Trufios to design and build a warship incorporating new ideas that will give an overwhelming advantage at sea. However, the rival power simultaneously commissions the party (perhaps along with Trufios's rival Abrázion) to acquire the designs or the finished vessel before it can be deployed. The party becomes caught between competing factions, and the resolution determines which power will rule the sea for decades to come.
 
-5. **The Retirement Dilemma**: As Trufios approaches the age when he feels he must finally take on a successor and begin transitioning away from day-to-day work, he realizes his most talented protégé is planning to leave the trade entirely to pursue a different calling (love, adventure, political opportunity, etc.). Trufios, terrified of seeing his legacy lost and unable to articulate his emotional attachment, becomes difficult and controlling, driving the protégé away faster. The party might be hired to convince the protégé to reconsider, to help Trufios learn to let go, or to discover that the protégé has a legitimate reason for leaving that requires the party's assistance to resolve. Alternatively, the party might assist Trufios in recruiting and training a new generation of ship builders capable of carrying forward his methods and vision.
+The Retirement Dilemma
+: As Trufios approaches the age when he feels he must finally take on a successor and begin transitioning away from day-to-day work, he realizes his most talented protégé is planning to leave the trade entirely to pursue a different calling (love, adventure, political opportunity, etc.). Trufios, terrified of seeing his legacy lost and unable to articulate his emotional attachment, becomes difficult and controlling, driving the protégé away faster. The party might be hired to convince the protégé to reconsider, to help Trufios learn to let go, or to discover that the protégé has a legitimate reason for leaving that requires the party's assistance to resolve. Alternatively, the party might assist Trufios in recruiting and training a new generation of ship builders capable of carrying forward his methods and vision.

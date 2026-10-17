@@ -39,8 +39,17 @@ The hollow lies a hard three days' walk into the interior forest from the neares
 
 ## See Also
 
-- [[place-pshtrwldrns|Peshtar Wilderness]]—the highland country to the north-west
-- [[lore-grukaraelwyth|The Grukar of Aelwyth]]—the hunters of the same forest
-- [[lore-aelwythanclt|Aelwythan culture]]—the trackstones and the old observance of the interior
-- [[affiliation-selmoros|Faith of Sélmoros]]—the rites the rooted dead were denied
-- [[lore-theshadow|The Shadow]]—what the oaks have begun to answer
+[[place-pshtrwldrns|Peshtar Wilderness]]
+: the highland country to the north-west
+
+[[lore-grukaraelwyth|The Grukar of Aelwyth]]
+: the hunters of the same forest
+
+[[lore-aelwythanclt|Aelwythan culture]]
+: the trackstones and the old observance of the interior
+
+[[affiliation-selmoros|Faith of Sélmoros]]
+: the rites the rooted dead were denied
+
+[[lore-theshadow|The Shadow]]
+: what the oaks have begun to answer

@@ -67,7 +67,14 @@ The cult keeps the shared temple ladder of Wazu, Lem'Nelgir and Thaz'Lekhau. A s
 
 ## See Also
 
-- [[lore-qeztudty|Qeztu]]—the god
-- [[place-balehen|Balehen]]—the war-temple's fortress
-- [[affiliation-borderselatu|The Border Selatu]]—the selatu where the cult is strong
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the temple hierarchy every [[lore-khelathiclt|Khelathi]] cult shares
+[[lore-qeztudty|Qeztu]]
+: the god
+
+[[place-balehen|Balehen]]
+: the war-temple's fortress
+
+[[affiliation-borderselatu|The Border Selatu]]
+: the selatu where the cult is strong
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: the temple hierarchy every [[lore-khelathiclt|Khelathi]] cult shares

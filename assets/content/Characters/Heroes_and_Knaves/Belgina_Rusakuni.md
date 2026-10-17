@@ -456,8 +456,11 @@ Shipwright of the **Tamzir**. Daughter of a Taruzelian master shipwright. She ha
 
 ## Plot Hooks
 
-1. **The Ship's Secret**: During a major repair, Belgina discovers something hidden in the Tamzir's hull—a sealed compartment containing documents or artifacts that predate Bu's ownership by decades. The contents could be valuable, dangerous, or both, and they suggest the Tamzir has a history far more interesting than anyone aboard suspected.
+The Ship's Secret
+: During a major repair, Belgina discovers something hidden in the Tamzir's hull—a sealed compartment containing documents or artifacts that predate Bu's ownership by decades. The contents could be valuable, dangerous, or both, and they suggest the Tamzir has a history far more interesting than anyone aboard suspected.
 
-2. **Guild Pressure**: The Taruzelian Shipwrights' Guild learns that an unguilded woman is practicing the craft aboard a known smuggling vessel. They send an agent to Belgina's father, threatening his livelihood unless he recalls his daughter. Belgina must choose between protecting her father and the life she has built at sea.
+Guild Pressure
+: The Taruzelian Shipwrights' Guild learns that an unguilded woman is practicing the craft aboard a known smuggling vessel. They send an agent to Belgina's father, threatening his livelihood unless he recalls his daughter. Belgina must choose between protecting her father and the life she has built at sea.
 
-3. **The Impossible Commission**: A wealthy patron offers a staggering sum if the Tamzir can be refitted for a specific dangerous voyage. The modifications Belgina would need to make are technically possible but would fundamentally change the ship she loves. She must weigh the crew's financial needs against her own instincts about what the Tamzir can and should be.
+The Impossible Commission
+: A wealthy patron offers a staggering sum if the Tamzir can be refitted for a specific dangerous voyage. The modifications Belgina would need to make are technically possible but would fundamentally change the ship she loves. She must weigh the crew's financial needs against her own instincts about what the Tamzir can and should be.

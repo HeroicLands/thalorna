@@ -18,5 +18,8 @@ The way to Chenosolis is usually found before it is walked. [[being-amqltzlmlglq
 
 ## See Also
 
-- [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]]—the astrologer whose pilgrimage leads here
-- [[place-anlaghura|Anlaghura]]—the obelisk whose prophecy points to the shrine
+[[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]]
+: the astrologer whose pilgrimage leads here
+
+[[place-anlaghura|Anlaghura]]
+: the obelisk whose prophecy points to the shrine

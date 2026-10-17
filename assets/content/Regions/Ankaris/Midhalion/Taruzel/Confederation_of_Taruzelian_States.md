@@ -84,13 +84,26 @@ The Confederation is a league of five merchant city-states on the islands of an 
 
 ## At a Glance
 
-- **The five city-states:** [[affiliation-besikar|Besikar]], [[affiliation-yamuzel|Yamuzel]], [[affiliation-qudumel|Kudumel]], [[affiliation-bazunel|Bazunel]] and [[affiliation-sazumun|Sazumun]], each with its own laws, militia and council.
-- **Governing body:** the **Grand Council**, meeting at Besikar, under a rotating **Arch-Consul**.
-- **The three great guilds:** the [[affiliation-auricompct|Auric Compact]] (banking and trade finance), the [[affiliation-corsairleg|Corsair League]] (shipping and naval power) and the [[affiliation-mrchntryvl|Merchantry of the Veil]] (luxury goods and information brokerage). Between them they rule the Confederation in all but name.
-- **The navy:** the most powerful naval force in the eastern Vylarian Sea, built from the makeshift fleet that won independence and operated largely through the Corsair League.
-- **The founding myth:** the Battle of [[place-tamzirshoals|Tamzir Shoals]], celebrated every year with naval reviews and public festivals.
-- **The archipelago:** the islands themselves, whose channels control the eastern sea routes and hold the Confederation's naval bases and trading posts.
-- **The bazaars:** the markets of the great port cities, which sell goods from across the known world.
+The five city-states
+: [[affiliation-besikar|Besikar]], [[affiliation-yamuzel|Yamuzel]], [[affiliation-qudumel|Kudumel]], [[affiliation-bazunel|Bazunel]] and [[affiliation-sazumun|Sazumun]], each with its own laws, militia and council.
+
+Governing body
+: the **Grand Council**, meeting at Besikar, under a rotating **Arch-Consul**.
+
+The three great guilds
+: the [[affiliation-auricompct|Auric Compact]] (banking and trade finance), the [[affiliation-corsairleg|Corsair League]] (shipping and naval power) and the [[affiliation-mrchntryvl|Merchantry of the Veil]] (luxury goods and information brokerage). Between them they rule the Confederation in all but name.
+
+The navy
+: the most powerful naval force in the eastern Vylarian Sea, built from the makeshift fleet that won independence and operated largely through the Corsair League.
+
+The founding myth
+: the Battle of [[place-tamzirshoals|Tamzir Shoals]], celebrated every year with naval reviews and public festivals.
+
+The archipelago
+: the islands themselves, whose channels control the eastern sea routes and hold the Confederation's naval bases and trading posts.
+
+The bazaars
+: the markets of the great port cities, which sell goods from across the known world.
 
 ## The Islands
 
@@ -212,11 +225,20 @@ The Kingdom of Amradad holds the mainland across the strait, and relations with 
 
 ## The City-States
 
-- [[affiliation-besikar|Besikar]]—the largest and wealthiest city and the de facto capital; seat of the Grand Council and of the Auric Compact.
-- [[affiliation-yamuzel|Yamuzel]]—the naval stronghold on the narrows at the heart of the archipelago; home of the Corsair League and of the war's veterans.
-- [[affiliation-qudumel|Kudumel]]—the eastern gateway on the island nearest the mainland, where sea trade meets the caravan goods ferried across the strait; the most cosmopolitan city, where the [[affiliation-ashanpnthn|Ashaian]] faith is dominant.
-- [[affiliation-bazunel|Bazunel]]—the cultural heart, famous for its ship design and its academies, with a more balanced politics than its sisters.
-- [[affiliation-sazumun|Sazumun]]—the river-mouth port on the [[place-alzriver|Alz]], whose quays are the conduit between the Dunhari desert trade and the western sea routes, ruled by its merchant guilds from the **House of Factors**.
+[[affiliation-besikar|Besikar]]
+: the largest and wealthiest city and the de facto capital; seat of the Grand Council and of the Auric Compact.
+
+[[affiliation-yamuzel|Yamuzel]]
+: the naval stronghold on the narrows at the heart of the archipelago; home of the Corsair League and of the war's veterans.
+
+[[affiliation-qudumel|Kudumel]]
+: the eastern gateway on the island nearest the mainland, where sea trade meets the caravan goods ferried across the strait; the most cosmopolitan city, where the [[affiliation-ashanpnthn|Ashaian]] faith is dominant.
+
+[[affiliation-bazunel|Bazunel]]
+: the cultural heart, famous for its ship design and its academies, with a more balanced politics than its sisters.
+
+[[affiliation-sazumun|Sazumun]]
+: the river-mouth port on the [[place-alzriver|Alz]], whose quays are the conduit between the Dunhari desert trade and the western sea routes, ruled by its merchant guilds from the **House of Factors**.
 
 ## Commerce and Currency
 
@@ -224,17 +246,44 @@ The Confederation pays in the [[lore-trzlncrncy|Taruzelian Currency]], the syste
 
 ## See Also
 
-- [[place-taruzelrgn|Taruzel Region]]—the land the Confederation holds
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the former imperial overlord
-- [[place-helionis|Helionis]]—the western trading partner
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the southern trading partner
-- [[place-dunharargn|Dunhara Region]]—the eastern overland trade routes
-- [[affiliation-ordoarcanis|Thordimalon]]—the arcane order with a complicated local standing
-- [[place-vylarianse|Vylarian Sea]]—Taruzel's maritime domain
-- [[lore-taruzelianclt|Taruzelian]]—the culture of the islands
-- [[skill-taruzelilng|Taruzeli]]—the language and its naming conventions
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the primary pantheon
-- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the pantheon of the eastern states
-- [[affiliation-besikar|Besikar]], [[affiliation-yamuzel|Yamuzel]], [[affiliation-qudumel|Kudumel]], [[affiliation-bazunel|Bazunel]], [[affiliation-sazumun|Sazumun]]—the five city-states
-- [[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]], [[affiliation-mrchntryvl|Merchantry of the Veil]]—the great guilds
-- [[affiliation-vezakuni|Vezakuni]]—the guild umbrella and its treasury
+[[place-taruzelrgn|Taruzel Region]]
+: the land the Confederation holds
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the former imperial overlord
+
+[[place-helionis|Helionis]]
+: the western trading partner
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: the southern trading partner
+
+[[place-dunharargn|Dunhara Region]]
+: the eastern overland trade routes
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: the arcane order with a complicated local standing
+
+[[place-vylarianse|Vylarian Sea]]
+: Taruzel's maritime domain
+
+[[lore-taruzelianclt|Taruzelian]]
+: the culture of the islands
+
+[[skill-taruzelilng|Taruzeli]]
+: the language and its naming conventions
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the primary pantheon
+
+[[affiliation-ashanpnthn|Ashaian Pantheon]]
+: the pantheon of the eastern states
+
+[[affiliation-besikar|Besikar]], [[affiliation-yamuzel|Yamuzel]], [[affiliation-qudumel|Kudumel]], [[affiliation-bazunel|Bazunel]], [[affiliation-sazumun|Sazumun]]
+: the five city-states
+
+[[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]], [[affiliation-mrchntryvl|Merchantry of the Veil]]
+: the great guilds
+
+[[affiliation-vezakuni|Vezakuni]]
+: the guild umbrella and its treasury

@@ -71,9 +71,20 @@ Zebt-Relepet uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The [[affiliat
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-zebtrelepet|Zebt-Relepet]]—Selat capital
-- [[affiliation-wethur|Faith of Weth'ur]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-zebtrelptslt|Zebt-Relepet Selat]]—The land the selat holds
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-zebtrelepet|Zebt-Relepet]]
+: Selat capital
+
+[[affiliation-wethur|Faith of Weth'ur]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-zebtrelptslt|Zebt-Relepet Selat]]
+: The land the selat holds

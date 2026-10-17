@@ -14,5 +14,8 @@ The other two camps are the [Summer Lodge]{.name data-type="place/site"} in the 
 
 ## See Also
 
-- [[affiliation-wldjgrrndgrskld|Wuljagar of the Garskald]]—the company that keeps the camp
-- [[place-moldunriver|Moldún River]]—the river it stands on
+[[affiliation-wldjgrrndgrskld|Wuljagar of the Garskald]]
+: the company that keeps the camp
+
+[[place-moldunriver|Moldún River]]
+: the river it stands on

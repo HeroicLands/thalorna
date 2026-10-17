@@ -30,5 +30,8 @@ Raltholm's grievance is the ordinary one of a district asked to send men and gra
 
 ## See Also
 
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—the kingdom this district serves
-- [[place-nordheim|Nordheim]]—the land the kingdom holds
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+: the kingdom this district serves
+
+[[place-nordheim|Nordheim]]
+: the land the kingdom holds

@@ -32,6 +32,11 @@ What a visiting scholar is not shown without the Memory-Keeper's word is the cor
 
 ## See Also
 
-- [[place-rajapur|Rajepur]]—the temple-seat
-- [[affiliation-rajaprjnpd|Rajepur Janapoda]]—the temple-republic
-- [[place-shitakoshtha|Shitakoshta]]—the oldest vault
+[[place-rajapur|Rajepur]]
+: the temple-seat
+
+[[affiliation-rajaprjnpd|Rajepur Janapoda]]
+: the temple-republic
+
+[[place-shitakoshtha|Shitakoshta]]
+: the oldest vault

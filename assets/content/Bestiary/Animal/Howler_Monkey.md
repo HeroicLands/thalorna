@@ -464,12 +464,29 @@ The sudden cessation of howler monkey calling is one of the most reliable indica
 
 ## Attributes
 
-- **Strength:** 5-8 (1d4+4) — Modest; strong jaw but small body
-- **Endurance:** 6-9 (1d4+5) — Sedentary lifestyle; low-energy diet limits sustained activity
-- **Dexterity:** 12-17 (1d6+11) — Excellent arboreal manipulation; prehensile tail adds versatility
-- **Agility:** 13-18 (1d6+12) — Sure and confident in the canopy; clumsy on the ground
-- **Perception:** 11-16 (1d6+10) — Good forest senses; alert to predators
-- **Aura:** 7-10 (1d4+6) — Cultural association with scribes and the arts; not sacred but respected
-- **Will:** 7-10 (1d4+6) — Territorial through voice rather than violence
-- **Reasoning:** 7-12 (1d6+6) — Primate intelligence; social complexity; learns territory and seasonal patterns
-- **Creativity:** 6-9 (1d4+5) — Some behavioral flexibility; problem-solving within arboreal context
+Strength
+: 5-8 (1d4+4) — Modest; strong jaw but small body
+
+Endurance
+: 6-9 (1d4+5) — Sedentary lifestyle; low-energy diet limits sustained activity
+
+Dexterity
+: 12-17 (1d6+11) — Excellent arboreal manipulation; prehensile tail adds versatility
+
+Agility
+: 13-18 (1d6+12) — Sure and confident in the canopy; clumsy on the ground
+
+Perception
+: 11-16 (1d6+10) — Good forest senses; alert to predators
+
+Aura
+: 7-10 (1d4+6) — Cultural association with scribes and the arts; not sacred but respected
+
+Will
+: 7-10 (1d4+6) — Territorial through voice rather than violence
+
+Reasoning
+: 7-12 (1d6+6) — Primate intelligence; social complexity; learns territory and seasonal patterns
+
+Creativity
+: 6-9 (1d4+5) — Some behavioral flexibility; problem-solving within arboreal context

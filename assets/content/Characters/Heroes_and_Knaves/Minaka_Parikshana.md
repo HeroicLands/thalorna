@@ -441,19 +441,37 @@ Minaka is driven by the pursuit of perfection in her craft and by a deep belief 
 
 ### Strengths
 
-- **Culinary Mastery**: Minaka can create dishes of extraordinary complexity and perfection. Her understanding of flavor combination, ingredient interaction, and presentation technique is without peer in Vedyara.
-- **Kitchen Command**: She manages complex kitchen operations with the precision of a military general. She knows every process, every supply, every staff member's capabilities.
-- **Ingredient Knowledge**: Her understanding of herbs, spices, vegetables, and their properties is encyclopedic. She can identify ingredients by taste, smell, and sight with perfect accuracy.
-- **Creative Composition**: She understands how to create meals that tell stories, carry symbols, and communicate meaning through the language of taste and presentation.
-- **Staff Development**: Those trained under Minaka become excellent cooks. She has an gift for recognizing potential and developing talent systematically.
+Culinary Mastery
+: Minaka can create dishes of extraordinary complexity and perfection. Her understanding of flavor combination, ingredient interaction, and presentation technique is without peer in Vedyara.
+
+Kitchen Command
+: She manages complex kitchen operations with the precision of a military general. She knows every process, every supply, every staff member's capabilities.
+
+Ingredient Knowledge
+: Her understanding of herbs, spices, vegetables, and their properties is encyclopedic. She can identify ingredients by taste, smell, and sight with perfect accuracy.
+
+Creative Composition
+: She understands how to create meals that tell stories, carry symbols, and communicate meaning through the language of taste and presentation.
+
+Staff Development
+: Those trained under Minaka become excellent cooks. She has an gift for recognizing potential and developing talent systematically.
 
 ### Weaknesses
 
-- **Perfectionism Paralysis**: When faced with an impossible standard, Minaka can become paralyzed, unable to commit to anything less than perfection. She has been known to remake a dish dozens of times.
-- **Limited Practical Combat Experience**: She has studied fighting forms for grace and posture, but has never trained for actual combat. She is vulnerable in direct physical confrontation.
-- **Difficulty with Ambiguity**: She struggles with situations that lack clear solutions or definitive right answers. Her perfectionism demands closure and clarity.
-- **Emotional Distance**: Her focus on craft sometimes manifests as emotional coldness. She can seem uncaring about personal matters beyond her kitchen's boundaries.
-- **Vulnerability to Pressure**: When pressured to compromise her standards, she becomes angry and inflexible. She cannot be forced into expedience.
+Perfectionism Paralysis
+: When faced with an impossible standard, Minaka can become paralyzed, unable to commit to anything less than perfection. She has been known to remake a dish dozens of times.
+
+Limited Practical Combat Experience
+: She has studied fighting forms for grace and posture, but has never trained for actual combat. She is vulnerable in direct physical confrontation.
+
+Difficulty with Ambiguity
+: She struggles with situations that lack clear solutions or definitive right answers. Her perfectionism demands closure and clarity.
+
+Emotional Distance
+: Her focus on craft sometimes manifests as emotional coldness. She can seem uncaring about personal matters beyond her kitchen's boundaries.
+
+Vulnerability to Pressure
+: When pressured to compromise her standards, she becomes angry and inflexible. She cannot be forced into expedience.
 
 ## Social
 
@@ -489,12 +507,17 @@ The Temple of Mahajaya
 
 ## Plot Hooks
 
-1. **The Poison in the Sauce**: During an important diplomatic dinner hosted by the Devakara family, one of the guests falls ill—symptoms suggesting poisoning. Investigation reveals that the poison was administered through Minaka's food. Yet she is absolutely certain of her ingredients, her preparation, and her staff. Someone has sabotaged her kitchen or framed her deliberate. Minaka must find the true culprit before her reputation is destroyed, knowing that failure will result in her execution and the Devakara family's disgrace.
+The Poison in the Sauce
+: During an important diplomatic dinner hosted by the Devakara family, one of the guests falls ill—symptoms suggesting poisoning. Investigation reveals that the poison was administered through Minaka's food. Yet she is absolutely certain of her ingredients, her preparation, and her staff. Someone has sabotaged her kitchen or framed her deliberate. Minaka must find the true culprit before her reputation is destroyed, knowing that failure will result in her execution and the Devakara family's disgrace.
 
-2. **The Ingredient from the Lost Lands**: A traveling merchant arrives with a spice—a flavor unknown in Vedyara, reportedly from the Lost Lands to the east. The merchant claims that only this spice, when combined with Minaka's skills, can create a dish with properties approaching legend: a meal that grants visions, that heals certain illnesses, or that allows communion with spirits. Minaka is both tempted and skeptical. As she begins to experiment, she discovers that the spice does seem to possess unusual properties. But using it could involve her in sorcery or forbidden practices, and powerful people are watching to see if she succeeds.
+The Ingredient from the Lost Lands
+: A traveling merchant arrives with a spice—a flavor unknown in Vedyara, reportedly from the Lost Lands to the east. The merchant claims that only this spice, when combined with Minaka's skills, can create a dish with properties approaching legend: a meal that grants visions, that heals certain illnesses, or that allows communion with spirits. Minaka is both tempted and skeptical. As she begins to experiment, she discovers that the spice does seem to possess unusual properties. But using it could involve her in sorcery or forbidden practices, and powerful people are watching to see if she succeeds.
 
-3. **The Apprentice's Secret**: A young apprentice in Minaka's kitchen shows talent approaching her own—a rare gift that appears perhaps once in a generation. Minaka begins training this apprentice with unusual intensity, seeing in them a heir to her legacy. Then she discovers that the apprentice is secretly stealing recipes and selling them to rival chefs and merchants. When Minaka confronts them, the apprentice breaks down, revealing that they are being coerced by a dangerous criminal organization seeking to steal Minaka's culinary secrets and her connections to the merchant families. Minaka must decide whether to dismiss the apprentice, protect them, or use this situation to infiltrate and destroy the organization.
+The Apprentice's Secret
+: A young apprentice in Minaka's kitchen shows talent approaching her own—a rare gift that appears perhaps once in a generation. Minaka begins training this apprentice with unusual intensity, seeing in them a heir to her legacy. Then she discovers that the apprentice is secretly stealing recipes and selling them to rival chefs and merchants. When Minaka confronts them, the apprentice breaks down, revealing that they are being coerced by a dangerous criminal organization seeking to steal Minaka's culinary secrets and her connections to the merchant families. Minaka must decide whether to dismiss the apprentice, protect them, or use this situation to infiltrate and destroy the organization.
 
-4. **The Feast of Seven Nights**: The Devakara family contracts Minaka to create a feast spanning seven nights—one night for each element of the cosmos according to Vedyaran philosophy. Each night's meal must carry the qualities of that element and build toward a climactic final feast that somehow synthesizes all seven. The scope is enormous and the stakes are high—if successful, it will establish the Devakara family's social dominance for a generation. But as Minaka plans, she realizes that the timing of this request is suspicious. The ingredients required for the seventh-night meal, the element of void and completion, include substances that are expensive, rare, and potentially illegal. Is she being set up to execute the feast, or to fail in a way that will compromise her integrity and the family's honor?
+The Feast of Seven Nights
+: The Devakara family contracts Minaka to create a feast spanning seven nights—one night for each element of the cosmos according to Vedyaran philosophy. Each night's meal must carry the qualities of that element and build toward a climactic final feast that somehow synthesizes all seven. The scope is enormous and the stakes are high—if successful, it will establish the Devakara family's social dominance for a generation. But as Minaka plans, she realizes that the timing of this request is suspicious. The ingredients required for the seventh-night meal, the element of void and completion, include substances that are expensive, rare, and potentially illegal. Is she being set up to execute the feast, or to fail in a way that will compromise her integrity and the family's honor?
 
-5. **The Memory in Flavor**: An elderly Kulena arrives at the Devakara household claiming to be a long-lost relative. He has no memory of his past and no documentation of his identity, but the family's matriarch believes him based on fragments of recognition. The Kulena requests that Minaka prepare meals according to recipes he vaguely remembers from childhood, hoping that the flavors might trigger his memory. As Minaka works to reconstruct these dishes from minimal description, she begins to suspect that the man's memory loss is false. His descriptions are too specific, too organized—almost as if he is testing her knowledge. Is he an imposter seeking to infiltrate the family? A spy gathering intelligence? Or something stranger still—someone who has lost their memory and is using Minaka as a guide through the landscape of forgotten tastes?
+The Memory in Flavor
+: An elderly Kulena arrives at the Devakara household claiming to be a long-lost relative. He has no memory of his past and no documentation of his identity, but the family's matriarch believes him based on fragments of recognition. The Kulena requests that Minaka prepare meals according to recipes he vaguely remembers from childhood, hoping that the flavors might trigger his memory. As Minaka works to reconstruct these dishes from minimal description, she begins to suspect that the man's memory loss is false. His descriptions are too specific, too organized—almost as if he is testing her knowledge. Is he an imposter seeking to infiltrate the family? A spy gathering intelligence? Or something stranger still—someone who has lost their memory and is using Minaka as a guide through the landscape of forgotten tastes?

@@ -120,7 +120,14 @@ The adventure runs over a day and two nights. The party arrives in the glare of 
 
 ## See Also
 
-- [[place-relvanninel|Relvanninesh]]—the palace and the house in it
-- [[place-ashkarad|Ashkarad]]—the craft city whose cadet line it is
-- [[lore-khazrynclt|The Tellumi]]—the law of the guest
-- [[lore-theshadow|The Shadow]]—what the Tenant is made of
+[[place-relvanninel|Relvanninesh]]
+: the palace and the house in it
+
+[[place-ashkarad|Ashkarad]]
+: the craft city whose cadet line it is
+
+[[lore-khazrynclt|The Tellumi]]
+: the law of the guest
+
+[[lore-theshadow|The Shadow]]
+: what the Tenant is made of

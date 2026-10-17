@@ -125,8 +125,17 @@ Mortals petition Rinho Daowéng through offerings at temple shrines, through the
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The Celestial Bureaucracy that appointed Rinho Daowéng as Elemental Lord
-- [[affiliation-wengdaozhouwo|Wéngdao Zhouwo]]—The Elemental Lord of Earth, with whom Rinho Daowéng shares jurisdiction over forests
-- [[affiliation-neitsai|Neitsai]]—Overseer of the Bureau of Creation, whose authority over "continuity" Rinho Daowéng resists
-- [[affiliation-zhenho|Zhenho]]—Overseer of the Bureau of Transformation, with whom Rinho Daowéng disputes jurisdiction over worked wood and fuel wood
-- [[lore-tanchei|Tanchéi]]—The priesthood who mediate petitions to the Elemental Lords
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: The Celestial Bureaucracy that appointed Rinho Daowéng as Elemental Lord
+
+[[affiliation-wengdaozhouwo|Wéngdao Zhouwo]]
+: The Elemental Lord of Earth, with whom Rinho Daowéng shares jurisdiction over forests
+
+[[affiliation-neitsai|Neitsai]]
+: Overseer of the Bureau of Creation, whose authority over "continuity" Rinho Daowéng resists
+
+[[affiliation-zhenho|Zhenho]]
+: Overseer of the Bureau of Transformation, with whom Rinho Daowéng disputes jurisdiction over worked wood and fuel wood
+
+[[lore-tanchei|Tanchéi]]
+: The priesthood who mediate petitions to the Elemental Lords

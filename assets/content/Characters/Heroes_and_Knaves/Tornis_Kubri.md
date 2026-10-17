@@ -427,11 +427,20 @@ Recently, his carefully maintained emotional walls have developed a crack: he ha
 
 ### Skills and Abilities
 
-- **Stealth**: Tornis can move through hostile territory, urban streets, or fortified buildings without being detected. This is his primary skill and the reason the Silent Talon hired him.
-- **Infiltration**: He can assume identities, blend into crowds, and gain access to places and people that are supposed to be inaccessible.
-- **Deception**: A natural liar with the charm to make it convincing. He reads people quickly and tells them what they want to hear.
-- **Scouting**: An experienced pathfinder who knows the roads—particularly the ones most people avoid. He is often sent ahead of the band to survey terrain, identify threats, and gather intelligence.
-- **Combat**: Tornis is not a frontline fighter, but he can handle himself in a scrape. He prefers a knife in close quarters and avoids fair fights whenever possible.
+Stealth
+: Tornis can move through hostile territory, urban streets, or fortified buildings without being detected. This is his primary skill and the reason the Silent Talon hired him.
+
+Infiltration
+: He can assume identities, blend into crowds, and gain access to places and people that are supposed to be inaccessible.
+
+Deception
+: A natural liar with the charm to make it convincing. He reads people quickly and tells them what they want to hear.
+
+Scouting
+: An experienced pathfinder who knows the roads—particularly the ones most people avoid. He is often sent ahead of the band to survey terrain, identify threats, and gather intelligence.
+
+Combat
+: Tornis is not a frontline fighter, but he can handle himself in a scrape. He prefers a knife in close quarters and avoids fair fights whenever possible.
 
 ## Psyche
 
@@ -453,10 +462,17 @@ Tornis seeks to distance himself from his past life as a Tarvenan brigand and bu
 
 ## Companions
 
-- [[being-branwldrgr|Branval Dorgal]]: Captain of the Silent Talon. Tornis respects Branval's competence and is loyal to him—as loyal as Tornis is capable of being.
-- [[being-elyseskyrn|Élithe Sarneth]]: A developing romantic relationship that Tornis is unsure how to handle.
-- [[being-chlbrhydyn|Chelebe Riddin]]: Fellow band member.
-- [[being-dornsyndlr|Doren Sindalre]]: Fellow band member.
+[[being-branwldrgr|Branval Dorgal]]
+: Captain of the Silent Talon. Tornis respects Branval's competence and is loyal to him—as loyal as Tornis is capable of being.
+
+[[being-elyseskyrn|Élithe Sarneth]]
+: A developing romantic relationship that Tornis is unsure how to handle.
+
+[[being-chlbrhydyn|Chelebe Riddin]]
+: Fellow band member.
+
+[[being-dornsyndlr|Doren Sindalre]]
+: Fellow band member.
 
 ### Patrons
 
@@ -468,8 +484,11 @@ Former comrades from his brigand days who survived the massacre and may be looki
 
 ## Plot Hooks
 
-1. **The Past Returns**: Someone from Tornis's old life recognizes him—or worse, comes looking for Kalen specifically. He must decide whether to run, fight, or finally tell the Silent Talon the truth about who he was before he joined them.
+The Past Returns
+: Someone from Tornis's old life recognizes him—or worse, comes looking for Kalen specifically. He must decide whether to run, fight, or finally tell the Silent Talon the truth about who he was before he joined them.
 
-2. **The Double Game**: Tornis is sent to infiltrate a rival mercenary company, but discovers that the company's employer is connected to the betrayal that destroyed his old brigand band. The mission becomes personal, and Tornis must choose between the Silent Talon's interests and his own need for answers.
+The Double Game
+: Tornis is sent to infiltrate a rival mercenary company, but discovers that the company's employer is connected to the betrayal that destroyed his old brigand band. The mission becomes personal, and Tornis must choose between the Silent Talon's interests and his own need for answers.
 
-3. **Trust and Deception**: Élithe begins to sense that Tornis is hiding something fundamental about himself. As their relationship deepens, the weight of his secrets threatens to destroy the first connection he has allowed himself in years.
+Trust and Deception
+: Élithe begins to sense that Tornis is hiding something fundamental about himself. As their relationship deepens, the weight of his secrets threatens to destroy the first connection he has allowed himself in years.

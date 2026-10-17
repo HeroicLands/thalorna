@@ -430,12 +430,17 @@ Bandits who often raid the countryside.
 
 ## Plot Hooks
 
-1. **The Yeoman Infantry's Dilemma**—Tórsaro faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
+The Yeoman Infantry's Dilemma
+: Tórsaro faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 
-2. **Old Grudges**—Bandits who often raid the countryside. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: Bandits who often raid the countryside. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Tórsaro's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+Echoes of the Past
+: Something from Tórsaro's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarvénia threaten to upend the social order that Tórsaro depends upon. He must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Tarvénia threaten to upend the social order that Tórsaro depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Tórsaro the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Tórsaro the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

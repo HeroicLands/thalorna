@@ -20,5 +20,8 @@ data:
 
 ## See Also
 
-- [[place-anlaghztnslt|Anlagh-Zetun Selat]]—the selat country that holds it
-- [[affiliation-genzethalzia|Genzet'Halzi'a]]—the assembly of the selats
+[[place-anlaghztnslt|Anlagh-Zetun Selat]]
+: the selat country that holds it
+
+[[affiliation-genzethalzia|Genzet'Halzi'a]]
+: the assembly of the selats

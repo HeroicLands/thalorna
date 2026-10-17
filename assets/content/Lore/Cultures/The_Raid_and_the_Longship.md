@@ -39,7 +39,14 @@ The levy is a public obligation, distinct from a crew's chosen raid. A [[lore-bo
 
 ## See Also
 
-- [[lore-nordheimnclt|Nordheimn]]—oaths, hall obligations, the ting and the price of a feud
-- [[lore-kinhalcrdt|Kin and Hall Credit]]—how a hall keeps a claim alive
-- [[lore-vylrncrncy|Vylarian Currency]]—the physical coins used in northern money dealings
-- [[place-nrdlndsrgn|Nordlands Region]]—the coasts and rivers that carry the ships
+[[lore-nordheimnclt|Nordheimn]]
+: oaths, hall obligations, the ting and the price of a feud
+
+[[lore-kinhalcrdt|Kin and Hall Credit]]
+: how a hall keeps a claim alive
+
+[[lore-vylrncrncy|Vylarian Currency]]
+: the physical coins used in northern money dealings
+
+[[place-nrdlndsrgn|Nordlands Region]]
+: the coasts and rivers that carry the ships

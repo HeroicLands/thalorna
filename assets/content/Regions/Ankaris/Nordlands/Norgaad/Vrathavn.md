@@ -32,6 +32,11 @@ A smith of Vrathavn is the center of one of the kingdom's grimmer tales, of a gu
 
 ## See Also
 
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]]—the kingdom whose principal port it is
-- [[affiliation-asguardian|Asguardian Pantheon]]—the gods of the north
-- [[lore-nrgadhstry|Histories and Legends of Norgaad]]—the Iron-Man of Vrathavn
+[[affiliation-kingdmnrgd|Kingdom of Norgaad]]
+: the kingdom whose principal port it is
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the gods of the north
+
+[[lore-nrgadhstry|Histories and Legends of Norgaad]]
+: the Iron-Man of Vrathavn

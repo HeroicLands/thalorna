@@ -37,5 +37,8 @@ The river system itself facilitates bulk transport of goods in ways unavailable 
 
 ## See Also
 
-- [[place-nrthrnkchchk|Northern K'ich'chik]]—The enclosing region
-- [[place-hanalxilan2|Ha'nal Shi'lan]]—Seat of Ha'nal Shi'lan
+[[place-nrthrnkchchk|Northern K'ich'chik]]
+: The enclosing region
+
+[[place-hanalxilan2|Ha'nal Shi'lan]]
+: Seat of Ha'nal Shi'lan

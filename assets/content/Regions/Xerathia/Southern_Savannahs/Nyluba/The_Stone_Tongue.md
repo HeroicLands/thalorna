@@ -63,8 +63,17 @@ The Nyáluba hold the account of **Lusheya nu Kolembozi** and the Stone Tongue i
 
 ## See Also
 
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the Old Hetos, the Great Lubemo and Lusheya nu Kolembozi
-- [[affiliation-nyalbeagl|Eagle Totem]]—the Ngonzi, the guardians of the Old Hetos and the stone-builder dead
-- [[affiliation-nyalbcroc|Crocodile Totem]]—the Kolembozi and their spirit-speakers
-- [[skill-griot|Griot]]—why a recital is not a story
-- [[lore-swearbaobab|The Swearing Under the Baobab]]—the memory-song of the Long Pact's swearing
+[[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
+: the Old Hetos, the Great Lubemo and Lusheya nu Kolembozi
+
+[[affiliation-nyalbeagl|Eagle Totem]]
+: the Ngonzi, the guardians of the Old Hetos and the stone-builder dead
+
+[[affiliation-nyalbcroc|Crocodile Totem]]
+: the Kolembozi and their spirit-speakers
+
+[[skill-griot|Griot]]
+: why a recital is not a story
+
+[[lore-swearbaobab|The Swearing Under the Baobab]]
+: the memory-song of the Long Pact's swearing

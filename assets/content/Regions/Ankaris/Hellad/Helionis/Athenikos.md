@@ -79,8 +79,11 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 A magistrate of Athenikos cannot leave the city until the auditor says his accounts agree. At the end of the year an auditor's clerk, bent over a retiring magistrate's ledgers, puts it plainly: "He may sail when I say the books balance, and not an hour before." The rule holds in every Helionite city-state, and Athenikos is one of them: a city-state of about 560,000 people governed by an oligarchy of its wealthy patron families. [[place-athenikos2|Athenikos]], with 55,000 of them, is its seat.
 
-- **Government:** oligarchy of wealthy patron families
-- **Seat:** the city of [[place-athenikos2|Athenikos]]
+Government
+: oligarchy of wealthy patron families
+
+Seat
+: the city of [[place-athenikos2|Athenikos]]
 
 ## Who Decides
 
@@ -92,8 +95,17 @@ Standing in Athenikos is the Helionite ladder. A citizen by descent votes and se
 
 ## See Also
 
-- [[affiliation-ctysttshlns|City-States of Helionis]]—the seven cities and how they are governed
-- [[place-helionis|Helionis]]—the region
-- [[place-athenikos2|Athenikos]]—the city itself
-- [[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalidria]]—the three leading city-states
-- [[affiliation-theradon|Theradon]], [[affiliation-korinthea|Korinthea]], [[affiliation-kostaros2|Kostaros]]—the rest of the seven
+[[affiliation-ctysttshlns|City-States of Helionis]]
+: the seven cities and how they are governed
+
+[[place-helionis|Helionis]]
+: the region
+
+[[place-athenikos2|Athenikos]]
+: the city itself
+
+[[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalidria]]
+: the three leading city-states
+
+[[affiliation-theradon|Theradon]], [[affiliation-korinthea|Korinthea]], [[affiliation-kostaros2|Kostaros]]
+: the rest of the seven

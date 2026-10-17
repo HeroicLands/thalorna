@@ -8,10 +8,17 @@ data: {demonym: null, lore: [], parents: [nordheim], population: null, packFolde
 
 Near the edge of Thalmdal the one rule is that when the birdsong stops and the air turns cold and stale in the middle of summer, a hunter turns back and does not argue with his feet. The valley the old songs say no hunter could find twice is now the one nobody can avoid, because its blight creeps a little further in every bad year.
 
-- **Type:** destroyed [[lore-flksinale|Sinalean]] enclave
-- **Location:** the deep interior of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], in the forested mountains between the high plateau and the glacial valleys
-- **Status:** corrupted necropolis with no living inhabitants
-- **Current Master:** [[being-hlskmylsvrtrnr|Hlusmil Svartrunar]]
+Type
+: destroyed [[lore-flksinale|Sinalean]] enclave
+
+Location
+: the deep interior of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], in the forested mountains between the high plateau and the glacial valleys
+
+Status
+: corrupted necropolis with no living inhabitants
+
+Current Master
+: [[being-hlskmylsvrtrnr|Hlusmil Svartrunar]]
 
 ## Overview
 
@@ -51,7 +58,14 @@ Among the Nordmen the spreading blight is a growing concern. The highland clans 
 
 ## See Also
 
-- [[being-hlskmylsvrtrnr|Hlusmil Svartrunar]]—the Nightwight necromancer who destroyed the enclave
-- [[lore-flksinale|Sinale]]—the Firstborn, the elder race that built and inhabited Haulonna
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—the kingdom in whose deep interior the enclave lay hidden
-- [[affiliation-nahild|Faith of Nahild]]—the goddess who commanded the enclave's destruction
+[[being-hlskmylsvrtrnr|Hlusmil Svartrunar]]
+: the Nightwight necromancer who destroyed the enclave
+
+[[lore-flksinale|Sinale]]
+: the Firstborn, the elder race that built and inhabited Haulonna
+
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+: the kingdom in whose deep interior the enclave lay hidden
+
+[[affiliation-nahild|Faith of Nahild]]
+: the goddess who commanded the enclave's destruction

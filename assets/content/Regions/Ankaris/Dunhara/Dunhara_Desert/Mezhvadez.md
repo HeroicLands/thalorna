@@ -54,7 +54,14 @@ The vault moves with the dunes, and there is no road. A guide who has seen the D
 
 ## See Also
 
-- [[place-dunhardsrtrgn|Dunhara Desert Region]]—the country of the dunes
-- [[lore-dunhariclt|Dunhari]]—how the Dunhari bury their dead
-- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the realm whose lords covet older claims
-- [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]—the gatherers of the tribes against what walks the land
+[[place-dunhardsrtrgn|Dunhara Desert Region]]
+: the country of the dunes
+
+[[lore-dunhariclt|Dunhari]]
+: how the Dunhari bury their dead
+
+[[affiliation-kngdmmrdd|Kingdom of Amradad]]
+: the realm whose lords covet older claims
+
+[[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]
+: the gatherers of the tribes against what walks the land

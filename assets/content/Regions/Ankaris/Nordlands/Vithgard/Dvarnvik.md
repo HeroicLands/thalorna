@@ -28,6 +28,11 @@ Dvarnvík's ting is remembered for a darker judgment. Forty-one years ago, after
 
 ## See Also
 
-- [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the kingdom this port serves
-- [[place-vithgard|Vithgard]]—the land the kingdom holds
-- [[place-askholm|Askholm]]—the skerry off the port
+[[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
+: the kingdom this port serves
+
+[[place-vithgard|Vithgard]]
+: the land the kingdom holds
+
+[[place-askholm|Askholm]]
+: the skerry off the port

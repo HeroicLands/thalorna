@@ -362,10 +362,23 @@ _The heels go on for the length of a name. No one sings._
 
 ## See Also
 
-- [[place-mahnhrom|Mahnhrum]]—the empty mound the lament is raised over
-- [[lore-grimakburning|The Burning at Grimak]]—the Waking, the three villages taken and the walk west
-- [[place-grimak|Grimak]]—the thicket where the taken died, and the voice in it
-- [[lore-varokhiclt|Varokhi]]—the _meldra_, the mound, the naming at three months and the dead with the wesk
-- [[place-skathwald|Skathwald]]—the reach where Grukar nests thicken and a village watches its paths
-- [[lore-grukarfolk|Grukar Folk]]—why a person they take is not ransomed, bought back or kept
-- [[lore-rabbitttm|Rabbit]]—the wesk of Mahnreth, and the ground the dead run in
+[[place-mahnhrom|Mahnhrum]]
+: the empty mound the lament is raised over
+
+[[lore-grimakburning|The Burning at Grimak]]
+: the Waking, the three villages taken and the walk west
+
+[[place-grimak|Grimak]]
+: the thicket where the taken died, and the voice in it
+
+[[lore-varokhiclt|Varokhi]]
+: the _meldra_, the mound, the naming at three months and the dead with the wesk
+
+[[place-skathwald|Skathwald]]
+: the reach where Grukar nests thicken and a village watches its paths
+
+[[lore-grukarfolk|Grukar Folk]]
+: why a person they take is not ransomed, bought back or kept
+
+[[lore-rabbitttm|Rabbit]]
+: the wesk of Mahnreth, and the ground the dead run in

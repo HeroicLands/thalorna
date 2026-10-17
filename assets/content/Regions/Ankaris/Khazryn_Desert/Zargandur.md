@@ -47,8 +47,17 @@ Outside the northern wall, past the last irrigated plot, lies the [[place-henhul
 
 ## See Also
 
-- [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the Confederation whose House of Zargandur sits in exile
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—the people who hold it
-- [[place-swoasisbelt|Tellumel]]—the belt the city stands in
-- [[place-ashkarad|Ashkarad]] and [[place-kethramir|Kethramír]]—the nearest cities along the belt
-- [[being-nushirnrsf|Nushir Narsafi]]—a chandler of Zargandur
+[[affiliation-khzrncnfdrtn|Tellumi Confederation]]
+: the Confederation whose House of Zargandur sits in exile
+
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: the people who hold it
+
+[[place-swoasisbelt|Tellumel]]
+: the belt the city stands in
+
+[[place-ashkarad|Ashkarad]] and [[place-kethramir|Kethramír]]
+: the nearest cities along the belt
+
+[[being-nushirnrsf|Nushir Narsafi]]
+: a chandler of Zargandur

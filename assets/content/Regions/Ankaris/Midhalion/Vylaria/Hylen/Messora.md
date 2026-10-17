@@ -22,6 +22,11 @@ The great houses of the district keep storehouses and counting-rooms here, which
 
 ## See Also
 
-- [[affiliation-provnchyln|Province of Hilen]]—parent province
-- [[place-hylen|Hilen]]—the land of its estates
-- [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview
+[[affiliation-provnchyln|Province of Hilen]]
+: parent province
+
+[[place-hylen|Hilen]]
+: the land of its estates
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: imperial overview

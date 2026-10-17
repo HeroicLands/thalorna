@@ -434,10 +434,14 @@ Wise-women of the older kind, who hold that the lore is the forest's and the spi
 
 ## Plot Hooks
 
-1. **The Physician's Request**—A physician from the border towns of Moktur has sent to Dunkelwald asking for a copy of Frodwin's herbal for the academies, with silver. Every wise-woman who taught her would call it theft.
+The Physician's Request
+: A physician from the border towns of Moktur has sent to Dunkelwald asking for a copy of Frodwin's herbal for the academies, with silver. Every wise-woman who taught her would call it theft.
 
-2. **The Sickness**—The winter sickness has come to Dunkelwald early and hard, and the cure Frodwin wrote down for it is not working the way the wise-woman who gave it said it would. Either she wrote it wrong or it was never given whole.
+The Sickness
+: The winter sickness has come to Dunkelwald early and hard, and the cure Frodwin wrote down for it is not working the way the wise-woman who gave it said it would. Either she wrote it wrong or it was never given whole.
 
-3. **The War Chief's Wound**—A neighboring War Chief has taken a wound that his own wise-woman cannot close and has sent for the woman with the books. If her cure fails him, the failure will be laid to the writing.
+The War Chief's Wound
+: A neighboring War Chief has taken a wound that his own wise-woman cannot close and has sent for the woman with the books. If her cure fails him, the failure will be laid to the writing.
 
-4. **The Accusation**—The most respected wise-woman of the district has accused Frodwin, before a gathering, of giving the forest's secrets to strangers, and has asked that the books be burned. The women who taught her were there, and not all of them spoke.
+The Accusation
+: The most respected wise-woman of the district has accused Frodwin, before a gathering, of giving the forest's secrets to strangers, and has asked that the books be burned. The women who taught her were there, and not all of them spoke.

@@ -97,8 +97,17 @@ The pool-centered spirituality of K'ankul has produced a distinct tradition with
 
 ## See Also
 
-- [[affiliation-ixilankul|Ish'ilankul]]—The highland plateau realm, supreme in religious authority and military might
-- [[affiliation-neokbaate|Ne'ok Ba'ate]]—The isthmus gateway to the south, connected by K'ankul maritime routes
-- [[affiliation-xelem|Shelem]]—The eastern frontier accessible via K'ankul's coastal trading networks
-- [[affiliation-itzanpnthn|Itsani Pantheon]]—The sacred framework that K'ankul scholars continue to refine and systematize
-- [[place-kankulrgn|K'ankul Region]]—The land K'ankul holds
+[[affiliation-ixilankul|Ish'ilankul]]
+: The highland plateau realm, supreme in religious authority and military might
+
+[[affiliation-neokbaate|Ne'ok Ba'ate]]
+: The isthmus gateway to the south, connected by K'ankul maritime routes
+
+[[affiliation-xelem|Shelem]]
+: The eastern frontier accessible via K'ankul's coastal trading networks
+
+[[affiliation-itzanpnthn|Itsani Pantheon]]
+: The sacred framework that K'ankul scholars continue to refine and systematize
+
+[[place-kankulrgn|K'ankul Region]]
+: The land K'ankul holds

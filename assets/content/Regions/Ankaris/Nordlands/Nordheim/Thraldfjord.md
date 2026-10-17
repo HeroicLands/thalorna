@@ -30,6 +30,11 @@ What the village has never had is a season it could fully trust, and that is the
 
 ## See Also
 
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—the kingdom this village serves
-- [[place-nordheim|Nordheim]]—the land the kingdom holds
-- [[place-wildwoodmnr|Wildwood Manor]]—the manor above the village
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+: the kingdom this village serves
+
+[[place-nordheim|Nordheim]]
+: the land the kingdom holds
+
+[[place-wildwoodmnr|Wildwood Manor]]
+: the manor above the village

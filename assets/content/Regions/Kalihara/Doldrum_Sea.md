@@ -26,6 +26,11 @@ The reward is the westerly wind beyond. A master who crosses and finds it runs h
 
 ## See Also
 
-- [[place-klhrcntnnt|Kalihara]]—the island, the wind out and the long way back
-- [[place-provenzrgn|Provenzia Region]]—the coast the westerly winds blow toward
-- [[place-midhalnrgn|Mídhalión]]—the ports that insure the voyage home
+[[place-klhrcntnnt|Kalihara]]
+: the island, the wind out and the long way back
+
+[[place-provenzrgn|Provenzia Region]]
+: the coast the westerly winds blow toward
+
+[[place-midhalnrgn|Mídhalión]]
+: the ports that insure the voyage home

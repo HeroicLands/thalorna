@@ -214,9 +214,20 @@ Dvirnselda kept the house eleven winters more. She was burned with her keys and 
 
 ## See Also
 
-- [[being-knlthnskrldmkh|Knilthann Skraldumak]]—the skald who tells it at Tvalgard
-- [[place-tvalgard|Tvalgard]] and [[affiliation-kingdmtrgd|Kingdom of Targud]]—the fort-duty and the frontier it guards
-- [[lore-sumarmal|Somarmál]]—the walk of the boundary stones
-- [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—the wall-gap, the pyre and the grave-ale
-- [[lore-nordheimnclt|Nordheimn]]—a moved stone as a matter for the ting, and the dead who carry one
-- [[lore-grukarfolk|Grukar Folk]]—what came up the river
+[[being-knlthnskrldmkh|Knilthann Skraldumak]]
+: the skald who tells it at Tvalgard
+
+[[place-tvalgard|Tvalgard]] and [[affiliation-kingdmtrgd|Kingdom of Targud]]
+: the fort-duty and the frontier it guards
+
+[[lore-sumarmal|Somarmál]]
+: the walk of the boundary stones
+
+[[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]
+: the wall-gap, the pyre and the grave-ale
+
+[[lore-nordheimnclt|Nordheimn]]
+: a moved stone as a matter for the ting, and the dead who carry one
+
+[[lore-grukarfolk|Grukar Folk]]
+: what came up the river

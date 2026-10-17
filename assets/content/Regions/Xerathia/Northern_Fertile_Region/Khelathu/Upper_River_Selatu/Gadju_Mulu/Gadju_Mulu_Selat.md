@@ -29,11 +29,19 @@ Its patron is [[lore-thubaidty|Thuba'i]], the god of plenty, and a wet, abundant
 
 ## Settlements
 
-- [[place-gadjumulu|Gadju-Mulu]] (~27,000)—the selat capital and the seat of the Halzi'a, home of the chief temple of [[affiliation-thubai|Faith of Thuba'i]] and its estates.
-- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
+[[place-gadjumulu|Gadju-Mulu]] (~27,000)
+: the selat capital and the seat of the Halzi'a, home of the chief temple of [[affiliation-thubai|Faith of Thuba'i]] and its estates.
+
+The villages and estate-towns
+: the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatgadjuml|The Selat of Gadju-Mulu]]—the selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the enclosing region
-- [[place-gadjumulu|Gadju-Mulu]]—selat capital
+[[affiliation-selatgadjuml|The Selat of Gadju-Mulu]]
+: the selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the enclosing region
+
+[[place-gadjumulu|Gadju-Mulu]]
+: selat capital

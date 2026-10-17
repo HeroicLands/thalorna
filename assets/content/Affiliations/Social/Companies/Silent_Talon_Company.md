@@ -79,11 +79,20 @@ The Silent Talon Company is an elite mercenary company specializing in high-stak
 
 The Silent Talon’s mixed composition allows us to excel in a variety of specialized missions:
 
-- **Infiltration & Espionage**: Need information without causing a stir? Our operatives are trained to infiltrate even the most secure locations undetected, retrieve intelligence, and leave no evidence behind.
-- **Stealth Operations**: Whether it's sabotage, hostage extraction, or dismantling enemy supply lines, we work quietly and efficiently, ensuring the job is done without drawing attention.
-- **Reconnaissance & Scouting**: Our scouts can navigate the most difficult terrains, gather critical information, and report back before your enemy even knows they've been watched.
-- **Targeted Strikes**: When a direct confrontation is unavoidable, we excel in quick, decisive engagements that neutralize key threats before they escalate.
-- **Specialized Protection**: If you require the protection of high-profile individuals or assets, we provide discreet, highly skilled security that operates outside the traditional "wall of soldiers" approach.
+Infiltration & Espionage
+: Need information without causing a stir? Our operatives are trained to infiltrate even the most secure locations undetected, retrieve intelligence, and leave no evidence behind.
+
+Stealth Operations
+: Whether it's sabotage, hostage extraction, or dismantling enemy supply lines, we work quietly and efficiently, ensuring the job is done without drawing attention.
+
+Reconnaissance & Scouting
+: Our scouts can navigate the most difficult terrains, gather critical information, and report back before your enemy even knows they've been watched.
+
+Targeted Strikes
+: When a direct confrontation is unavoidable, we excel in quick, decisive engagements that neutralize key threats before they escalate.
+
+Specialized Protection
+: If you require the protection of high-profile individuals or assets, we provide discreet, highly skilled security that operates outside the traditional "wall of soldiers" approach.
 
 ## Meet the Team
 

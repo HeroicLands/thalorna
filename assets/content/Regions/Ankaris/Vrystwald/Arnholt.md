@@ -22,6 +22,11 @@ Eagle villages set a watch on the cliff where the birds nest and read the pair's
 
 ## See Also
 
-- [[place-falkhaven|Falkhaven]]—the reach around the village
-- [[place-arnwern|Arnwern]]—the lake village the Sons burned first
-- [[lore-westernshore|The Sons on the Western Shore]]—the campaign the watch looks for
+[[place-falkhaven|Falkhaven]]
+: the reach around the village
+
+[[place-arnwern|Arnwern]]
+: the lake village the Sons burned first
+
+[[lore-westernshore|The Sons on the Western Shore]]
+: the campaign the watch looks for

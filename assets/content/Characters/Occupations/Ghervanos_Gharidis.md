@@ -434,12 +434,17 @@ Few; his peers respect him, but some younger craftsmen see him as old-fashioned.
 
 ## Plot Hooks
 
-1. **The Hideworker's Dilemma**—A merchant offers Ghérvanos a large order on condition that he use a quicker tanning method he does not trust.
+The Hideworker's Dilemma
+: A merchant offers Ghérvanos a large order on condition that he use a quicker tanning method he does not trust.
 
-2. **Old Grudges**—A younger craftsman who calls Ghérvanos old-fashioned begins taking his customers with cheaper, faster work.
+Old Grudges
+: A younger craftsman who calls Ghérvanos old-fashioned begins taking his customers with cheaper, faster work.
 
-3. **Echoes of the Past**—A suit of armor Ghérvanos made decades ago comes back to his shop, and the man wearing it is not the one he made it for.
+Echoes of the Past
+: A suit of armor Ghérvanos made decades ago comes back to his shop, and the man wearing it is not the one he made it for.
 
-4. **Shifting Winds**—Political change in Helionis threatens the trade Ghérvanos depends upon, and he can adapt, resist, or leave.
+Shifting Winds
+: Political change in Helionis threatens the trade Ghérvanos depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—Ghérvanos is offered the leatherwork for a whole company of warriors, and its price is not named up front.
+The Opportunity
+: Ghérvanos is offered the leatherwork for a whole company of warriors, and its price is not named up front.

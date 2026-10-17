@@ -32,6 +32,11 @@ The village sustains itself by fishing, by hunting seal and whale, and by trade 
 
 ## See Also
 
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]]—the kingdom whose western coast it lies on
-- [[affiliation-asguardian|Asguardian Pantheon]]—the gods of the north
-- [[being-grosdrnrgd|Groa the Seid of Norgaad]]—a seeress who grew up in the region
+[[affiliation-kingdmnrgd|Kingdom of Norgaad]]
+: the kingdom whose western coast it lies on
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the gods of the north
+
+[[being-grosdrnrgd|Groa the Seid of Norgaad]]
+: a seeress who grew up in the region

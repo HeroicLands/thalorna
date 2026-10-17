@@ -49,5 +49,8 @@ The crossing of Ch'akul Tsa'kul is arduous enough that it effectively limits the
 
 ## See Also
 
-- [[place-nrthrnkchchk|Northern K'ich'chik]]—The enclosing region
-- [[place-chakultzkl2|Ch'akul Tsa'kul]]—Seat of Ch'akul Tsa'kul
+[[place-nrthrnkchchk|Northern K'ich'chik]]
+: The enclosing region
+
+[[place-chakultzkl2|Ch'akul Tsa'kul]]
+: Seat of Ch'akul Tsa'kul

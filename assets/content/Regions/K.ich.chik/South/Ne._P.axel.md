@@ -26,7 +26,14 @@ Ne’ P’ashel’s population is ethnically and culturally mixed, drawing peopl
 
 ## See Also
 
-- [[affiliation-ixbaltzaku|Ish’bal Tsa’ku]]—The highland region
-- [[place-nekiahkul|Ne’ Ki’ahkul]]—The volcanic city to the north
-- [[place-tzalamne|Ts’alam Ne’]]—The coastal city downriver
-- [[place-kchchkcntnnt|K’ich’chik]]—The continent
+[[affiliation-ixbaltzaku|Ish’bal Tsa’ku]]
+: The highland region
+
+[[place-nekiahkul|Ne’ Ki’ahkul]]
+: The volcanic city to the north
+
+[[place-tzalamne|Ts’alam Ne’]]
+: The coastal city downriver
+
+[[place-kchchkcntnnt|K’ich’chik]]
+: The continent

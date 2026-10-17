@@ -258,10 +258,23 @@ and the copper is the price of the water, and I thank you, friend.
 
 ## See Also
 
-- [[place-velkunar|Veshkun]]—the lost town, its cellars and the archive under the sand
-- [[place-vahurdash|Vahurdash]]—the settlement rebuilt among the old streets, and the house that holds it by acclamation
-- [[place-kethramir|Kethramír]]—the caravan city whose yards the song is sung in
-- [[lore-khazrynclt|The Tellumi]]—the people, their tablets and what they owe the record
-- [[affiliation-zurathra|Faith of Zúrathra]]—the Mother of the Oasis, whom the tellers say the prince turned away
-- [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the seven houses and the Council the revived house sits on
-- [[skill-khazrilng#lexicon|Khazryn Lexicon]]—the names the song uses, and what they mean
+[[place-velkunar|Veshkun]]
+: the lost town, its cellars and the archive under the sand
+
+[[place-vahurdash|Vahurdash]]
+: the settlement rebuilt among the old streets, and the house that holds it by acclamation
+
+[[place-kethramir|Kethramír]]
+: the caravan city whose yards the song is sung in
+
+[[lore-khazrynclt|The Tellumi]]
+: the people, their tablets and what they owe the record
+
+[[affiliation-zurathra|Faith of Zúrathra]]
+: the Mother of the Oasis, whom the tellers say the prince turned away
+
+[[affiliation-khzrncnfdrtn|Tellumi Confederation]]
+: the seven houses and the Council the revived house sits on
+
+[[skill-khazrilng#lexicon|Khazryn Lexicon]]
+: the names the song uses, and what they mean

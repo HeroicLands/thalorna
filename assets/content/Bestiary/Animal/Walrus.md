@@ -264,12 +264,29 @@ The walrus's whiskers are extraordinarily sensitive tactile organs, capable of d
 
 ## Attributes
 
-- **Strength:** 18-23 (1d6+17) — Enormous physical power; tusks can pierce hull planking
-- **Endurance:** 17-22 (1d6+16) — Blubber insulation and cardiovascular reserves for extreme cold and deep diving
-- **Dexterity:** 4-7 (1d4+3) — Nearly helpless for fine manipulation; built for brute force
-- **Agility:** 4-7 (1d4+3) — Slow and ungainly on land; transformed in water
-- **Perception:** 10-15 (1d6+9) — Excellent tactile and auditory senses; vision adequate
-- **Aura:** 6-9 (1d4+5) — Respected and feared, but not sacred
-- **Will:** 12-17 (1d6+11) — Aggressive and tenacious; will not yield ground
-- **Reasoning:** 5-8 (1d4+4) — Social intelligence within colony hierarchy
-- **Creativity:** 3-6 (1d4+2) — Minimal
+Strength
+: 18-23 (1d6+17) — Enormous physical power; tusks can pierce hull planking
+
+Endurance
+: 17-22 (1d6+16) — Blubber insulation and cardiovascular reserves for extreme cold and deep diving
+
+Dexterity
+: 4-7 (1d4+3) — Nearly helpless for fine manipulation; built for brute force
+
+Agility
+: 4-7 (1d4+3) — Slow and ungainly on land; transformed in water
+
+Perception
+: 10-15 (1d6+9) — Excellent tactile and auditory senses; vision adequate
+
+Aura
+: 6-9 (1d4+5) — Respected and feared, but not sacred
+
+Will
+: 12-17 (1d6+11) — Aggressive and tenacious; will not yield ground
+
+Reasoning
+: 5-8 (1d4+4) — Social intelligence within colony hierarchy
+
+Creativity
+: 3-6 (1d4+2) — Minimal

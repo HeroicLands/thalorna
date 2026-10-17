@@ -139,9 +139,20 @@ The janapoda governs in its place,
 
 ## See Also
 
-- [[lore-fortydays|The Forty Days]]—the same dissolution as the chronicle enters it, with the Memory-Keeper's commentary
-- [[affiliation-rajaprjnpd|Rajepur Janapoda]]—the temple-republic whose sabhra hears it
-- [[place-sandstonealtr|The Sandstone Altar]]—the stone every king of the line was consecrated at
-- [[place-palacecellar|The Palace Cellars]]—the rooms the recitation names
-- [[miscgear-recitationroll|The Rajavali Recitation-Roll]]—the roll the keeper recites from, with each generation's name at its head
-- [[place-rajavalilib|The Rajavali Library]]—the record behind it
+[[lore-fortydays|The Forty Days]]
+: the same dissolution as the chronicle enters it, with the Memory-Keeper's commentary
+
+[[affiliation-rajaprjnpd|Rajepur Janapoda]]
+: the temple-republic whose sabhra hears it
+
+[[place-sandstonealtr|The Sandstone Altar]]
+: the stone every king of the line was consecrated at
+
+[[place-palacecellar|The Palace Cellars]]
+: the rooms the recitation names
+
+[[miscgear-recitationroll|The Rajavali Recitation-Roll]]
+: the roll the keeper recites from, with each generation's name at its head
+
+[[place-rajavalilib|The Rajavali Library]]
+: the record behind it

@@ -49,9 +49,20 @@ The gear of the dead is in the grass: saddle-trees gone grey, iron fittings in t
 
 ## See Also
 
-- [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]—the union whose founding orkun made it
-- [[lore-bloodfield|Blood-fields]]—what a quickening field is, and how a moderate one harms
-- [[lore-ownedoasis|The Owned Oasis]]—the custom that does not apply here
-- [[place-hskrrgn|Khoshiqor]]—the sand country it lies in
-- [[lore-celestialroad|The Celestial Road]]—the road it lies beside
-- [[lore-wemaqcalling|The Calling at Vomek]]—the names of the dead, as the tribe that holds them speaks them
+[[lore-hndrdbnnrs|The Storm of the Hundred Banners]]
+: the union whose founding orkun made it
+
+[[lore-bloodfield|Blood-fields]]
+: what a quickening field is, and how a moderate one harms
+
+[[lore-ownedoasis|The Owned Oasis]]
+: the custom that does not apply here
+
+[[place-hskrrgn|Khoshiqor]]
+: the sand country it lies in
+
+[[lore-celestialroad|The Celestial Road]]
+: the road it lies beside
+
+[[lore-wemaqcalling|The Calling at Vomek]]
+: the names of the dead, as the tribe that holds them speaks them

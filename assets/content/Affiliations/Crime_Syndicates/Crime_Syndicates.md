@@ -82,32 +82,32 @@ The syndicates compete ruthlessly for territory, contacts, and revenue. Border d
 
 ### Vylarian Sea Basin
 
-- [[affiliation-crimsnldgr|The Crimson Ledger]]—Financial crime network based in Taruzel
-- [[affiliation-velvethand|The Velvet Hand]]—Espionage and assassination network across Vylaria, Provenzia, and Helionis
-- [[affiliation-graytide|The Gray Tide]]—Maritime crime network in the northern and western Vylarian Sea
-- [[affiliation-theashroad|The Ash Road]]—Overland smuggling network along the desert caravan routes
+[[affiliation-crimsnldgr|The Crimson Ledger]]
+: Financial crime network based in Taruzel
+
+[[affiliation-velvethand|The Velvet Hand]]
+: Espionage and assassination network across Vylaria, Provenzia, and Helionis
+
+[[affiliation-graytide|The Gray Tide]]
+: Maritime crime network in the northern and western Vylarian Sea
+
+[[affiliation-theashroad|The Ash Road]]
+: Overland smuggling network along the desert caravan routes
 
 ### Eastern Ankaris
 
-- [[affiliation-haluozhao|Ha Luo Zhao]] (The Black Lotus Society)—Bureaucratic, commercial, and ritual crime network dominating the [[affiliation-tantsouempr|Empire of Tantsou]]
+[[affiliation-haluozhao|Ha Luo Zhao]] (The Black Lotus Society)
+: Bureaucratic, commercial, and ritual crime network dominating the [[affiliation-tantsouempr|Empire of Tantsou]]
 
 ### Vedyara
 
-- [[affiliation-adanasreni|The Adanashreni]] (The Shrena of Taking)—the chartered thieves' guild of the
-  Vedyaran kingdoms, and the exception that proves the pattern above. It is larger than any syndicate
-  on this list and behaves nothing like one: a hereditary craft guild holding lawful charters in some
-  forty kingdoms, earning more from underwriting theft than from committing it, and outliving every
-  dynasty that has tried to be rid of it. The syndicates regard it as barely criminal. It regards them
-  as unchartered.
+[[affiliation-adanasreni|The Adanashreni]] (The Shrena of Taking)
+: the chartered thieves' guild of the Vedyaran kingdoms, and the exception that proves the pattern above. It is larger than any syndicate on this list and behaves nothing like one: a hereditary craft guild holding lawful charters in some forty kingdoms, earning more from underwriting theft than from committing it, and outliving every dynasty that has tried to be rid of it. The syndicates regard it as barely criminal. It regards them as unchartered.
 
 ### Aelwyth
 
-- [[affiliation-umbralcourt|The Umbral Court]]—the criminal power of the
-  [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and the other body on this page that is not really
-  a syndicate. It is the household of a crown the [[affiliation-ordoarcanis|Thordimalon]] Synod set
-  aside generations ago, kept alive by the dispossessed nobility: a shadow court that funds itself on
-  gaming debt and contraband, hears petitions from subjects the Synod will not hear, and has spent four
-  generations learning how not to be seen by rulers who are mages.
+[[affiliation-umbralcourt|The Umbral Court]]
+: the criminal power of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and the other body on this page that is not really a syndicate. It is the household of a crown the [[affiliation-ordoarcanis|Thordimalon]] Synod set aside generations ago, kept alive by the dispossessed nobility: a shadow court that funds itself on gaming debt and contraband, hears petitions from subjects the Synod will not hear, and has spent four generations learning how not to be seen by rulers who are mages.
 
 ## Inter-Syndicate Relations
 

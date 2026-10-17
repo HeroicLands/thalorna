@@ -254,20 +254,29 @@ It feels movement through rock at a long distance and knows where a party is and
 
 ## Attributes
 
-- **Strength:** 17-22 (1d6+16)
+Strength
+: 17-22 (1d6+16)
 
-- **Endurance:** 15-20 (1d6+14)
+Endurance
+: 15-20 (1d6+14)
 
-- **Dexterity:** 11-16 (1d6+10)
+Dexterity
+: 11-16 (1d6+10)
 
-- **Agility:** 14-17 (1d4+13)
+Agility
+: 14-17 (1d4+13)
 
-- **Perception:** 14-17 (1d4+13)
+Perception
+: 14-17 (1d4+13)
 
-- **Aura:** 5-10 (1d6+4)
+Aura
+: 5-10 (1d6+4)
 
-- **Will:** 14-17 (1d4+13)
+Will
+: 14-17 (1d4+13)
 
-- **Reasoning:** 7-12 (1d6+6)
+Reasoning
+: 7-12 (1d6+6)
 
-- **Creativity:** 7-12 (1d6+6)
+Creativity
+: 7-12 (1d6+6)

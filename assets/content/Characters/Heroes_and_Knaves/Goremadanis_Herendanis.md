@@ -442,19 +442,37 @@ Goremadanis is driven by gratitude toward **Captain Elthezis** and a desire to e
 
 ### Strengths
 
-- **Climbing and Physical Agility**: Her climbing score of 14 reflects years of scrambling through ship's rigging, shinning up masts, and handling complex three-dimensional vessel architecture. She is more comfortable in vertical spaces and on swaying lines than most people are on solid ground.
-- **Skilled Navigator**: Though self-taught, she has developed an intuitive understanding of celestial navigation, current patterns, and weather prediction. Her dexterity and perception enable her to manage complex navigation calculations with reasonable accuracy.
-- **Versatile Sailor**: She can perform virtually any required shipboard task—rigging sails, hauling cargo, performing maintenance, cooking basic meals, even basic ship repairs. This versatility makes her useful aboard merchant vessels.
-- **Quick Learning**: Her reasoning score of 12 combined with her enthusiasm allows her to grasp new concepts rapidly. She has learned most of her skills through observation and imitation rather than formal instruction, testimony to her adaptive intelligence.
-- **Seamanship and Awareness**: She possesses an almost intuitive understanding of water conditions, ship behavior, and the subtle signs of approaching weather. Her awareness and seamanship scores reflect countless hours spent in attentiveness.
+Climbing and Physical Agility
+: Her climbing score of 14 reflects years of scrambling through ship's rigging, shinning up masts, and handling complex three-dimensional vessel architecture. She is more comfortable in vertical spaces and on swaying lines than most people are on solid ground.
+
+Skilled Navigator
+: Though self-taught, she has developed an intuitive understanding of celestial navigation, current patterns, and weather prediction. Her dexterity and perception enable her to manage complex navigation calculations with reasonable accuracy.
+
+Versatile Sailor
+: She can perform virtually any required shipboard task—rigging sails, hauling cargo, performing maintenance, cooking basic meals, even basic ship repairs. This versatility makes her useful aboard merchant vessels.
+
+Quick Learning
+: Her reasoning score of 12 combined with her enthusiasm allows her to grasp new concepts rapidly. She has learned most of her skills through observation and imitation rather than formal instruction, testimony to her adaptive intelligence.
+
+Seamanship and Awareness
+: She possesses an almost intuitive understanding of water conditions, ship behavior, and the subtle signs of approaching weather. Her awareness and seamanship scores reflect countless hours spent in attentiveness.
 
 ### Weaknesses
 
-- **Limited Physical Strength**: Her strength score of 10 means she struggles with tasks requiring brute force—hauling the heaviest cargo, wrestling with stubborn rigging in high wind, or engaging in prolonged physical labor relative to larger crew members.
-- **Naiveté Regarding Social Complexity**: She tends toward straightforward honesty and is sometimes blind to political maneuvering, betrayal, or social manipulation. She assumes people's statements are truthful unless proven otherwise, a vulnerability in urban and courtly settings.
-- **Lack of Formal Education**: She cannot read or write beyond basic numerals, a limitation that restricts her advancement to officer ranks on most vessels and makes her vulnerable to deception regarding documents or written instructions.
-- **Practical Inexperience Beyond the Sea**: She struggles with horseback riding, sustained walking on land, and the business aspects of commerce. Her practical skills are almost entirely maritime.
-- **Insufficient Confidence in Authority**: Younger and lacking formal rank, she sometimes struggles to assert herself or give orders to older crew members, even when she has superior knowledge of a situation.
+Limited Physical Strength
+: Her strength score of 10 means she struggles with tasks requiring brute force—hauling the heaviest cargo, wrestling with stubborn rigging in high wind, or engaging in prolonged physical labor relative to larger crew members.
+
+Naiveté Regarding Social Complexity
+: She tends toward straightforward honesty and is sometimes blind to political maneuvering, betrayal, or social manipulation. She assumes people's statements are truthful unless proven otherwise, a vulnerability in urban and courtly settings.
+
+Lack of Formal Education
+: She cannot read or write beyond basic numerals, a limitation that restricts her advancement to officer ranks on most vessels and makes her vulnerable to deception regarding documents or written instructions.
+
+Practical Inexperience Beyond the Sea
+: She struggles with horseback riding, sustained walking on land, and the business aspects of commerce. Her practical skills are almost entirely maritime.
+
+Insufficient Confidence in Authority
+: Younger and lacking formal rank, she sometimes struggles to assert herself or give orders to older crew members, even when she has superior knowledge of a situation.
 
 ## Social
 
@@ -481,10 +499,14 @@ Informal Merchant Marine Community
 
 ## Plot Hooks
 
-1. **The Cartographer's Prize**: An elderly scholar and cartographer approaches **Goremadanis** with an unusual proposition: he believes he has discovered evidence that ancient, pre-sinking maps to islands exist, and he needs a skilled navigator to help recover them from a wreck site far beyond the established shipping lanes. He cannot persuade **Captain Elthezis** to risk his vessel, so he hires the party to escort and assist **Goremadanis**. The journey becomes an extended expedition into unknown waters, where the party encounters rival explorers, actual dangers marked only on ancient charts, and eventually discovers whether the islands are real—and whether reaching them would be fortune or doom.
+The Cartographer's Prize
+: An elderly scholar and cartographer approaches **Goremadanis** with an unusual proposition: he believes he has discovered evidence that ancient, pre-sinking maps to islands exist, and he needs a skilled navigator to help recover them from a wreck site far beyond the established shipping lanes. He cannot persuade **Captain Elthezis** to risk his vessel, so he hires the party to escort and assist **Goremadanis**. The journey becomes an extended expedition into unknown waters, where the party encounters rival explorers, actual dangers marked only on ancient charts, and eventually discovers whether the islands are real—and whether reaching them would be fortune or doom.
 
-2. **The Stowaway's Secret**: While cleaning the hold, **Goremadanis** discovers a stowaway—a terrified young person fleeing persecution by a despotic government. **Elthezis** initially wants to put the stowaway ashore and return to his usual routes, but **Goremadanis** is moved by their plight and persuades the party to assist in smuggling the refugee to a safe harbor. The journey becomes complicated when the persecuting government dispatches a naval vessel to intercept and retrieve the stowaway. The party must use guile, seamanship, and combat to protect the refugee while helping **Goremadanis** come to terms with the moral complexity of the situation.
+The Stowaway's Secret
+: While cleaning the hold, **Goremadanis** discovers a stowaway—a terrified young person fleeing persecution by a despotic government. **Elthezis** initially wants to put the stowaway ashore and return to his usual routes, but **Goremadanis** is moved by their plight and persuades the party to assist in smuggling the refugee to a safe harbor. The journey becomes complicated when the persecuting government dispatches a naval vessel to intercept and retrieve the stowaway. The party must use guile, seamanship, and combat to protect the refugee while helping **Goremadanis** come to terms with the moral complexity of the situation.
 
-3. **The Sabotaged Supply Run**: **Goremadanis** is hired with a merchant expedition carrying critical supplies to an isolated settlement, a lucrative contract that would fund her personal dreams. However, she discovers that someone has deliberately adulterated the supplies—contaminating food, tainting fresh water, damaging medications. She must determine whether this is commercial sabotage by a rival merchant, an act of war by a hostile power, or something worse. The investigation and resolution might require the party to confront powerful commercial interests or to prevent a settlement's planned destruction.
+The Sabotaged Supply Run
+: **Goremadanis** is hired with a merchant expedition carrying critical supplies to an isolated settlement, a lucrative contract that would fund her personal dreams. However, she discovers that someone has deliberately adulterated the supplies—contaminating food, tainting fresh water, damaging medications. She must determine whether this is commercial sabotage by a rival merchant, an act of war by a hostile power, or something worse. The investigation and resolution might require the party to confront powerful commercial interests or to prevent a settlement's planned destruction.
 
-4. **The Sea Shepherd's Call**: **Goremadanis** is approached by a mysterious figure who claims to be an agent of a sea goddess, offering her an opportunity to become something more—a true navigator of the mystical tides, one who could guide ships through impossible waters and perhaps communicate with the spirits of the sea itself. The offer tempts her toward a path of meaning and power beyond the routine of merchant sailing, but accepting would require her to undergo a dangerous mystical transformation and to leave behind her old life and her loyalty to **Captain Elthezis**. The party must help her navigate this choice, or potentially assist her through whatever transformation she undergoes.
+The Sea Shepherd's Call
+: **Goremadanis** is approached by a mysterious figure who claims to be an agent of a sea goddess, offering her an opportunity to become something more—a true navigator of the mystical tides, one who could guide ships through impossible waters and perhaps communicate with the spirits of the sea itself. The offer tempts her toward a path of meaning and power beyond the routine of merchant sailing, but accepting would require her to undergo a dangerous mystical transformation and to leave behind her old life and her loyalty to **Captain Elthezis**. The party must help her navigate this choice, or potentially assist her through whatever transformation she undergoes.

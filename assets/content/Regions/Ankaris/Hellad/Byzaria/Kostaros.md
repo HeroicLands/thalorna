@@ -26,5 +26,8 @@ Six thousand people live in Kostaros, one of the lesser harbors that string out 
 
 ## See Also
 
-- [[place-byzariargn|Bizaria Region]]—the region the harbor lies in
-- [[place-chrysamar|Chrisamar]], [[place-thalassos|Thálassos]]—the neighboring harbors of the coast
+[[place-byzariargn|Bizaria Region]]
+: the region the harbor lies in
+
+[[place-chrysamar|Chrisamar]], [[place-thalassos|Thálassos]]
+: the neighboring harbors of the coast

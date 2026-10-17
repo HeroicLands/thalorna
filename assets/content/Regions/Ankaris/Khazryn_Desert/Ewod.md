@@ -32,8 +32,17 @@ A salt-cutter's son, working a canal bank a half day from the nearest cutting, p
 
 ## See Also
 
-- [[lore-basinbldrs|The Basin Builders]]—the people who lived by the lake
-- [[place-qelod|Kelod]]—the greatest of the stair-wells they cut
-- [[place-osikor|Oshiqor]]—the tombs of their rulers in the stone uplands
-- [[being-duneclaw|Duneclaw]]—the shore-dune hunter
-- [[lore-waterunder|The Buried Water]]—the Sahri star-song of the lake that went down
+[[lore-basinbldrs|The Basin Builders]]
+: the people who lived by the lake
+
+[[place-qelod|Kelod]]
+: the greatest of the stair-wells they cut
+
+[[place-osikor|Oshiqor]]
+: the tombs of their rulers in the stone uplands
+
+[[being-duneclaw|Duneclaw]]
+: the shore-dune hunter
+
+[[lore-waterunder|The Buried Water]]
+: the Sahri star-song of the lake that went down

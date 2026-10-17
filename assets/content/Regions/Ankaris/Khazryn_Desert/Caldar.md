@@ -43,7 +43,14 @@ The Atarzád hold the city, and the University belongs to nobody. Its faculty in
 
 ## See Also
 
-- [[being-kayvondzrd|Kayvonad Zarid]]—a Senior Researcher of the University
-- [[place-swoasisbelt|Tellumel]]—the belt the city stands in
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—the people who hold it
-- [[place-zargandur|Zargandur]] and [[place-kethramir|Kethramír]]—the nearest cities along the belt
+[[being-kayvondzrd|Kayvonad Zarid]]
+: a Senior Researcher of the University
+
+[[place-swoasisbelt|Tellumel]]
+: the belt the city stands in
+
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: the people who hold it
+
+[[place-zargandur|Zargandur]] and [[place-kethramir|Kethramír]]
+: the nearest cities along the belt

@@ -42,6 +42,11 @@ The name is the keel-kin: _thresk-_ is a keel, and _-aett_ is a kin reckoned tog
 
 ## See Also
 
-- [[affiliation-malldbndlg|Málalidabandalag]]—the Compact that names it
-- [[place-norgaad|Norgaad]]—the kingdom it sails from
-- [[place-aelwyth|Aelwyth]]—the land whose merchant kings hire it
+[[affiliation-malldbndlg|Málalidabandalag]]
+: the Compact that names it
+
+[[place-norgaad|Norgaad]]
+: the kingdom it sails from
+
+[[place-aelwyth|Aelwyth]]
+: the land whose merchant kings hire it

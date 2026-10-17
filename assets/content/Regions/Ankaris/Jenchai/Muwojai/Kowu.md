@@ -25,7 +25,14 @@ Every house keeps an envoy in the town, since a message for the Emperor passes t
 
 ## See Also
 
-- [[affiliation-muwojaidmn|Muwojai Domain]]—the house and its lord
-- [[place-zijai|Zijai]]—the mountain
-- [[place-zojai|Zojai]]—the Emperor's mountain
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[affiliation-muwojaidmn|Muwojai Domain]]
+: the house and its lord
+
+[[place-zijai|Zijai]]
+: the mountain
+
+[[place-zojai|Zojai]]
+: the Emperor's mountain
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

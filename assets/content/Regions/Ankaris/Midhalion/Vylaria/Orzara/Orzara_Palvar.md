@@ -28,9 +28,20 @@ For all that it is the Orzas's residence, the Palvar is also an instrument of go
 
 ### See Also
 
-- [[place-arvon|Arvon]]—the Inner City crowned by the palace
-- [[place-orzara|Orzara]]—and the Hand of the Arcane Order
-- [[place-magngndorery|Grand Orrery]]—the Mechanical Court
-- [[affiliation-ordoarcanis|Thordimalon]]—permitted to display its marvels here
-- [[affiliation-sorvan|The Sorvan]]—the imperial guard who keep the palace · [[place-thaurzurgalis|Thaurzurgalis]]
-- [[place-aulpnpstmm|Ombalon]]—the Epistémion's inner seat, sharing the hill
+[[place-arvon|Arvon]]
+: the Inner City crowned by the palace
+
+[[place-orzara|Orzara]]
+: and the Hand of the Arcane Order
+
+[[place-magngndorery|Grand Orrery]]
+: the Mechanical Court
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: permitted to display its marvels here
+
+[[affiliation-sorvan|The Sorvan]]
+: the imperial guard who keep the palace · [[place-thaurzurgalis|Thaurzurgalis]]
+
+[[place-aulpnpstmm|Ombalon]]
+: the Epistémion's inner seat, sharing the hill

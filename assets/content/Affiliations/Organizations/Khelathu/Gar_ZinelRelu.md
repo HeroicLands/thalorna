@@ -58,6 +58,11 @@ A treasure-seeker who wants to follow the dynasty's trail should know what the a
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to
-- [[being-falseuqaa|False Uqa'a]]—The last sovereign of the house
-- [[lore-garauu|Gar-Auu]]—The line of sovereigns it belonged to
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The region it belongs to
+
+[[being-falseuqaa|False Uqa'a]]
+: The last sovereign of the house
+
+[[lore-garauu|Gar-Auu]]
+: The line of sovereigns it belonged to

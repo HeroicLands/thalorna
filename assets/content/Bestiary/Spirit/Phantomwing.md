@@ -281,20 +281,29 @@ It sees through mist and darkness, senses the feelings of the living, and percei
 
 ## Attributes
 
-- **Strength:** 7-10 (1d4+6)
+Strength
+: 7-10 (1d4+6)
 
-- **Endurance:** 9-12 (1d4+8)
+Endurance
+: 9-12 (1d4+8)
 
-- **Dexterity:** 13-16 (1d4+12)
+Dexterity
+: 13-16 (1d4+12)
 
-- **Agility:** 15-18 (1d4+14)
+Agility
+: 15-18 (1d4+14)
 
-- **Perception:** 11-14 (1d4+10)
+Perception
+: 11-14 (1d4+10)
 
-- **Aura:** 13-16 (1d4+12)
+Aura
+: 13-16 (1d4+12)
 
-- **Will:** 9-12 (1d4+8)
+Will
+: 9-12 (1d4+8)
 
-- **Reasoning:** 9-12 (1d4+8)
+Reasoning
+: 9-12 (1d4+8)
 
-- **Creativity:** 11-14 (1d4+10)
+Creativity
+: 11-14 (1d4+10)

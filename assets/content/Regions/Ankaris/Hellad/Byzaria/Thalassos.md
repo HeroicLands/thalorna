@@ -28,7 +28,14 @@ The town keeps a shrine to [[lore-pozerasdty|Pozeras]], the Aureldian god of voy
 
 ## See Also
 
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation of city-states
-- [[place-byzariargn|Bizaria Region]]—regional overview
-- [[affiliation-nesthiros|Nesthiros]]—the League's premier port
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the faith the shrine belongs to
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation of city-states
+
+[[place-byzariargn|Bizaria Region]]
+: regional overview
+
+[[affiliation-nesthiros|Nesthiros]]
+: the League's premier port
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the faith the shrine belongs to

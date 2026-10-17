@@ -34,8 +34,17 @@ The citizens of Velisara acknowledge, with the resignation of generations, that 
 
 ## See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the imperial overview
-- [[skill-vylarilng|Vylari]]—the naming tradition
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the religious tradition
-- [[affiliation-panepistmm|Epistémion]]—the scholarly institution
-- [[lore-recensio|The Therona of Alessa]]—the disaster at the fenced ground
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the imperial overview
+
+[[skill-vylarilng|Vylari]]
+: the naming tradition
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the religious tradition
+
+[[affiliation-panepistmm|Epistémion]]
+: the scholarly institution
+
+[[lore-recensio|The Therona of Alessa]]
+: the disaster at the fenced ground

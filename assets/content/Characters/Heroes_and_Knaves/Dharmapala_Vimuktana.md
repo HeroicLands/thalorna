@@ -437,19 +437,37 @@ Darmapalda is motivated by the pursuit of mastery—the relentless refinement of
 
 ### Strengths
 
-- **Agility**: His movement is poetry rendered into flesh—he can scale structures other warriors would consider impassable, contort through impossible spaces, and achieve acrobatic feats that seem to violate natural laws.
-- **Threat Perception**: His perception and awareness are honed to supernatural sensitivity, capable of detecting threats hidden in crowd sounds, fleeting expressions, and small changes in the surroundings that others would miss entirely.
-- **Tactical Mastery**: His reasoning and planning are cold and precise, allowing him to calculate approaches to protection problems with mathematical certainty and adapt instantly to changing circumstances.
-- **Melee Perfection**: His dagger and short sword work demonstrates thousands of hours of drilling and refinement, resulting in a style that is minimalist, economical, and devastatingly effective.
-- **Psychological Resilience**: He maintains emotional equilibrium under stress that would shatter weaker minds, allowing him to function effectively in situations of extreme danger and uncertainty.
+Agility
+: His movement is poetry rendered into flesh—he can scale structures other warriors would consider impassable, contort through impossible spaces, and achieve acrobatic feats that seem to violate natural laws.
+
+Threat Perception
+: His perception and awareness are honed to supernatural sensitivity, capable of detecting threats hidden in crowd sounds, fleeting expressions, and small changes in the surroundings that others would miss entirely.
+
+Tactical Mastery
+: His reasoning and planning are cold and precise, allowing him to calculate approaches to protection problems with mathematical certainty and adapt instantly to changing circumstances.
+
+Melee Perfection
+: His dagger and short sword work demonstrates thousands of hours of drilling and refinement, resulting in a style that is minimalist, economical, and devastatingly effective.
+
+Psychological Resilience
+: He maintains emotional equilibrium under stress that would shatter weaker minds, allowing him to function effectively in situations of extreme danger and uncertainty.
 
 ### Weaknesses
 
-- **Emotional Isolation**: His distance from human connection leaves him vulnerable to manipulation by those who can offer real warmth or false kinship, and makes him unpredictable when emotions do surface.
-- **Analytical Paralysis**: His tendency toward exhaustive threat-analysis can result in inaction or overly conservative approaches when situations demand swift, bold action.
-- **Limited Physical Strength**: While graceful and capable, he lacks the sheer muscle power of larger warriors, making direct confrontations against multiple heavy-armored opponents tactically disadvantageous.
-- **Mercenary Amorality**: His willingness to work for any sufficiently wealthy patron regardless of moral dimension has alienated potential allies and created dangerous enemies among the righteously inclined.
-- **Dangerous Unpredictability**: His stoic exterior masks internal pressure that occasionally erupts in disproportionate violence, particularly when encountering situations that evoke the unspoken wound he carries.
+Emotional Isolation
+: His distance from human connection leaves him vulnerable to manipulation by those who can offer real warmth or false kinship, and makes him unpredictable when emotions do surface.
+
+Analytical Paralysis
+: His tendency toward exhaustive threat-analysis can result in inaction or overly conservative approaches when situations demand swift, bold action.
+
+Limited Physical Strength
+: While graceful and capable, he lacks the sheer muscle power of larger warriors, making direct confrontations against multiple heavy-armored opponents tactically disadvantageous.
+
+Mercenary Amorality
+: His willingness to work for any sufficiently wealthy patron regardless of moral dimension has alienated potential allies and created dangerous enemies among the righteously inclined.
+
+Dangerous Unpredictability
+: His stoic exterior masks internal pressure that occasionally erupts in disproportionate violence, particularly when encountering situations that evoke the unspoken wound he carries.
 
 ## Social
 
@@ -482,12 +500,17 @@ The Mercenaries Shrena of Vedyara
 
 ## Plot Hooks
 
-1. **The Poisoned Patron**: A wealthy merchant-family that has retained Darmapalda for three years suddenly begins to die in mysterious ways—servants first, then junior family members, then the family head himself. The poisons are subtle and leave no obvious trace, and the family's own paranoid response is making Darmapalda's job of protection almost impossible. Worse, someone has begun spreading rumors that Darmapalda himself is the poisoner, hired by a rival faction to eliminate the family from within. He must identify the true source of the poisoning, protect his increasingly desperate and irrational clients, and restore his shattered reputation before the entire family is eliminated and he is blamed.
+The Poisoned Patron
+: A wealthy merchant-family that has retained Darmapalda for three years suddenly begins to die in mysterious ways—servants first, then junior family members, then the family head himself. The poisons are subtle and leave no obvious trace, and the family's own paranoid response is making Darmapalda's job of protection almost impossible. Worse, someone has begun spreading rumors that Darmapalda himself is the poisoner, hired by a rival faction to eliminate the family from within. He must identify the true source of the poisoning, protect his increasingly desperate and irrational clients, and restore his shattered reputation before the entire family is eliminated and he is blamed.
 
-2. **The Lost Child**: A member of a lesser great house approaches Darmapalda with a desperate and dangerous commission—her young daughter, kidnapped by rivals in a city-state faction war, is being held in a fortress across the border. The family cannot involve official authorities without putting the child at risk. Darmapalda must assemble a team, penetrate a well-defended position, extract a terrified young girl who has bonded with her captors, and escape to safety. The complication arrives when he discovers the girl's captors are the true family of a child switched at birth, not the brutal kidnappers described—and the real hostage-taker is the great house itself, motivated by greed rather than any belief in their claim.
+The Lost Child
+: A member of a lesser great house approaches Darmapalda with a desperate and dangerous commission—her young daughter, kidnapped by rivals in a city-state faction war, is being held in a fortress across the border. The family cannot involve official authorities without putting the child at risk. Darmapalda must assemble a team, penetrate a well-defended position, extract a terrified young girl who has bonded with her captors, and escape to safety. The complication arrives when he discovers the girl's captors are the true family of a child switched at birth, not the brutal kidnappers described—and the real hostage-taker is the great house itself, motivated by greed rather than any belief in their claim.
 
-3. **The Flower's Secret**: The flower tattoo on Darmapalda's ankle is recognized by an unexpected visitor—a woman who bears an identical mark and claims to be connected to a vow he made years ago, a vow he has never openly acknowledged. She arrives with news that someone is hunting everyone bearing the flower mark, systematically eliminating them. She believes Darmapalda can help her uncover why, and what oath was sworn so many years ago. Accepting her help would mean confronting the past he has spent years suppressing and potentially compromising the emotional distance that allows him to function.
+The Flower's Secret
+: The flower tattoo on Darmapalda's ankle is recognized by an unexpected visitor—a woman who bears an identical mark and claims to be connected to a vow he made years ago, a vow he has never openly acknowledged. She arrives with news that someone is hunting everyone bearing the flower mark, systematically eliminating them. She believes Darmapalda can help her uncover why, and what oath was sworn so many years ago. Accepting her help would mean confronting the past he has spent years suppressing and potentially compromising the emotional distance that allows him to function.
 
-4. **The Corrupted Guard Captain**: Captain Nagarita of the City Guard, who has pursued Darmapalda with vendetta-like intensity, suddenly approaches him with a shocking revelation—Nagarita himself is compromised, under threat by the Crimson Syndicate, and forced to pursue false charges against Darmapalda. Nagarita offers a desperate bargain: help him escape the Syndicate's control, and he will clear Darmapalda's name and cease his persecution. It's clearly a trap, but Nagarita's desperation appears real. Either this is a legitimate opportunity for redemption or an elaborate setup designed to finally deliver him to his enemies.
+The Corrupted Guard Captain
+: Captain Nagarita of the City Guard, who has pursued Darmapalda with vendetta-like intensity, suddenly approaches him with a shocking revelation—Nagarita himself is compromised, under threat by the Crimson Syndicate, and forced to pursue false charges against Darmapalda. Nagarita offers a desperate bargain: help him escape the Syndicate's control, and he will clear Darmapalda's name and cease his persecution. It's clearly a trap, but Nagarita's desperation appears real. Either this is a legitimate opportunity for redemption or an elaborate setup designed to finally deliver him to his enemies.
 
-5. **The Master's Test**: An elderly master-at-arms from the mercenary tradition arrives in Vedyara claiming to be seeking Darmapalda for a final and impossible commission—a student who demonstrates the flowers-mark must travel to a remote temple and compete in a series of trials against other marked warriors. Supposedly, only one will emerge, and that one will be freed from the mark forever, released from the unspoken vow. The master claims this is tradition, a path offered to those bearing the flower once each generation. Darmapalda's instincts scream trap, but the thought of freedom from the vow—of finally understanding its origins—pulls him toward participation despite every tactical instinct screaming danger.
+The Master's Test
+: An elderly master-at-arms from the mercenary tradition arrives in Vedyara claiming to be seeking Darmapalda for a final and impossible commission—a student who demonstrates the flowers-mark must travel to a remote temple and compete in a series of trials against other marked warriors. Supposedly, only one will emerge, and that one will be freed from the mark forever, released from the unspoken vow. The master claims this is tradition, a path offered to those bearing the flower once each generation. Darmapalda's instincts scream trap, but the thought of freedom from the vow—of finally understanding its origins—pulls him toward participation despite every tactical instinct screaming danger.

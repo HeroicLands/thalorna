@@ -71,10 +71,23 @@ Zu-Ger uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the [[affiliatio
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-tjegu|Tjegu]]—Selat capital
-- [[affiliation-hezmuiri|Faith of Hezmu'iri]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-zugernome|Zu-Ger]]—The land the selat holds
-- [[place-firsttablets|The Ground of the First Tablets]]—The burial-ground of the first two houses
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-tjegu|Tjegu]]
+: Selat capital
+
+[[affiliation-hezmuiri|Faith of Hezmu'iri]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-zugernome|Zu-Ger]]
+: The land the selat holds
+
+[[place-firsttablets|The Ground of the First Tablets]]
+: The burial-ground of the first two houses

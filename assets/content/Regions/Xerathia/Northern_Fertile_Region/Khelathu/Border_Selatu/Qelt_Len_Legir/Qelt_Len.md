@@ -23,7 +23,14 @@ The chief temple of [[lore-qeztudty|Qeztu]] is the first building a new arrival 
 
 ## See Also
 
-- [[affiliation-seltqltlnlgr|The Selat of Qelt-Len-Legir]]—Parent selat
-- [[affiliation-borderselatu|The Border Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-qeztu|Faith of Qeztu]]—Patron cult
+[[affiliation-seltqltlnlgr|The Selat of Qelt-Len-Legir]]
+: Parent selat
+
+[[affiliation-borderselatu|The Border Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-qeztu|Faith of Qeztu]]
+: Patron cult

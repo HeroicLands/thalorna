@@ -456,19 +456,37 @@ Githiya's deepest drive pulls two ways: she seeks both complete control over her
 
 ### Strengths
 
-- **Organizational Mastery**: Can manage complex households of any size with near-perfect economy, tracking stores, staff, schedules, and deliveries with minimal effort.
-- **Problem Solver**: Possesses practical wisdom for solving the hundred small crises that arise in domestic life—from preventing conflicts between staff to stretching the household purse without visible compromise.
-- **Ritual Knowledge**: Deeply versed in the practices and observances necessary for proper worship of Uzn'era, allowing her to structure household activities in spiritually appropriate ways.
-- **Command Authority**: Can direct servants and staff without raising her voice—people obey her not from fear but from respect for her evident competence and fairness.
-- **Adaptability**: Though she values order, Githiya can adjust routines and arrangements when circumstances demand, maintaining her vision of perfection while accommodating necessity.
+Organizational Mastery
+: Can manage complex households of any size with near-perfect economy, tracking stores, staff, schedules, and deliveries with minimal effort.
+
+Problem Solver
+: Possesses practical wisdom for solving the hundred small crises that arise in domestic life—from preventing conflicts between staff to stretching the household purse without visible compromise.
+
+Ritual Knowledge
+: Deeply versed in the practices and observances necessary for proper worship of Uzn'era, allowing her to structure household activities in spiritually appropriate ways.
+
+Command Authority
+: Can direct servants and staff without raising her voice—people obey her not from fear but from respect for her evident competence and fairness.
+
+Adaptability
+: Though she values order, Githiya can adjust routines and arrangements when circumstances demand, maintaining her vision of perfection while accommodating necessity.
 
 ### Weaknesses
 
-- **Bitterness Corrodes**: Her growing resentment of being taken for granted makes her increasingly sharp with staff and prone to petty, unspoken acts of control.
-- **Difficulty Delegating**: She trusts her own standards absolutely and struggles to allow others to manage tasks, leading to exhaustion and bottlenecks.
-- **Inflexibility in Principles**: While adaptive in practice, Githiya possesses fixed beliefs about how things "should" be, making her harsh toward those who deviate.
-- **Emotional Isolation**: Her distance and formality make it difficult for others to approach her with real care; she is respected but rarely loved.
-- **Vulnerability to Manipulation**: Those who offer her sincere recognition or challenge her to prove her worth can lead her into ill-advised situations, as her pride becomes engaged.
+Bitterness Corrodes
+: Her growing resentment of being taken for granted makes her increasingly sharp with staff and prone to petty, unspoken acts of control.
+
+Difficulty Delegating
+: She trusts her own standards absolutely and struggles to allow others to manage tasks, leading to exhaustion and bottlenecks.
+
+Inflexibility in Principles
+: While adaptive in practice, Githiya possesses fixed beliefs about how things "should" be, making her harsh toward those who deviate.
+
+Emotional Isolation
+: Her distance and formality make it difficult for others to approach her with real care; she is respected but rarely loved.
+
+Vulnerability to Manipulation
+: Those who offer her sincere recognition or challenge her to prove her worth can lead her into ill-advised situations, as her pride becomes engaged.
 
 ## Social
 
@@ -504,12 +522,17 @@ Master Lenti, Her Employer
 
 ## Plot Hooks
 
-1. **The Inheritance Dispute**: Master Lenti dies unexpectedly, and his will reveals that he has bequeathed his substantial household—not to his lazy nephew, but to Githiya, with instructions to run it until the nephew matures. However, the nephew and his supporters contest the will, claiming Githiya coerced or manipulated the elderly Lenti. Githiya must now fight for her right to the position she has effectively held all along, proving both the legitimacy of Lenti's wishes and her own worthiness. The vindication she has always craved now comes tangled with accusation and doubt.
+The Inheritance Dispute
+: Master Lenti dies unexpectedly, and his will reveals that he has bequeathed his substantial household—not to his lazy nephew, but to Githiya, with instructions to run it until the nephew matures. However, the nephew and his supporters contest the will, claiming Githiya coerced or manipulated the elderly Lenti. Githiya must now fight for her right to the position she has effectively held all along, proving both the legitimacy of Lenti's wishes and her own worthiness. The vindication she has always craved now comes tangled with accusation and doubt.
 
-2. **The Seduction of the Smuggler**: A charming merchant captain arrives in Au'Khelathu seeking to establish a shipping venture, and he becomes a frequent guest in Master Lenti's household. He pays Githiya extraordinary attention—complimenting her work, remembering details about her preferences, treating her with the respect and recognition she has been denied for decades. Only gradually does Githiya realize he is using her access and knowledge of the household to steal valuable antiquities for sale to foreign collectors. She has to choose between the intoxicating recognition he offers and her fundamental integrity, and then whether exposure will destroy the reputation she has built.
+The Seduction of the Smuggler
+: A charming merchant captain arrives in Au'Khelathu seeking to establish a shipping venture, and he becomes a frequent guest in Master Lenti's household. He pays Githiya extraordinary attention—complimenting her work, remembering details about her preferences, treating her with the respect and recognition she has been denied for decades. Only gradually does Githiya realize he is using her access and knowledge of the household to steal valuable antiquities for sale to foreign collectors. She has to choose between the intoxicating recognition he offers and her fundamental integrity, and then whether exposure will destroy the reputation she has built.
 
-3. **The Ritual Demands**: The Lut-Uzn'era approaches Githiya with an unusual request: to oversee a month-long ceremonial preparation of a noble household for a sacred fertility festival, essentially removing her from Master Lenti's service. The temple promises her recognition and a position of minor authority that would finally see her name known and respected. However, completing this task would mean temporarily abandoning the household she has controlled, allowing a temporary steward to make decisions in her absence. Githiya must weigh her hunger for recognition against her need to maintain control of her domain.
+The Ritual Demands
+: The Lut-Uzn'era approaches Githiya with an unusual request: to oversee a month-long ceremonial preparation of a noble household for a sacred fertility festival, essentially removing her from Master Lenti's service. The temple promises her recognition and a position of minor authority that would finally see her name known and respected. However, completing this task would mean temporarily abandoning the household she has controlled, allowing a temporary steward to make decisions in her absence. Githiya must weigh her hunger for recognition against her need to maintain control of her domain.
 
-4. **The Scandal and the Scapegoat**: A theft or moral scandal occurs in Master Lenti's household—perhaps a young servant is found with child, or valuable items go missing—and though Githiya is certainly not responsible, her position makes her a convenient target for blame. Lenti, rather than defending her, chooses to dismiss her to avoid further embarrassment. Githiya can accept the humiliation or take action to expose the truth, potentially destroying the household she has devoted herself to protecting.
+The Scandal and the Scapegoat
+: A theft or moral scandal occurs in Master Lenti's household—perhaps a young servant is found with child, or valuable items go missing—and though Githiya is certainly not responsible, her position makes her a convenient target for blame. Lenti, rather than defending her, chooses to dismiss her to avoid further embarrassment. Githiya can accept the humiliation or take action to expose the truth, potentially destroying the household she has devoted herself to protecting.
 
-5. **The Offer of Partnership**: A woman of similar age and background approaches Githiya with a proposition: together, they could set up as advisors to noble families on the running and ordering of households, building a business where Githiya's skill would finally be properly credited and paid. However, this would mean leaving Master Lenti, risking her current security, and trusting another person—something Githiya finds nearly impossible. The opportunity represents everything she has wanted, but accepting it requires her to believe she deserves more, something decades of invisibility have made her unable to fully accept.
+The Offer of Partnership
+: A woman of similar age and background approaches Githiya with a proposition: together, they could set up as advisors to noble families on the running and ordering of households, building a business where Githiya's skill would finally be properly credited and paid. However, this would mean leaving Master Lenti, risking her current security, and trusting another person—something Githiya finds nearly impossible. The opportunity represents everything she has wanted, but accepting it requires her to believe she deserves more, something decades of invisibility have made her unable to fully accept.

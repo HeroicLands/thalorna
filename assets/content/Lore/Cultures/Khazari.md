@@ -253,15 +253,32 @@ The ethic that forbids a needless cut in stone does not reach people. The Khazar
 
 ## See Also
 
-- [[lore-flkkhazar|Khazár Folk]]—the people, their history and their holds
-- [[skill-khazarlng|Khazari Language]]—the tongue of skeletons and frames
-- [[skill-drthrkscrpt|Pirzath Script]]—carved letters and the hand form
-- [[skill-khazarlng#lexicon|Khazari Lexicon]]—the words for stone, cave and craft
-- [[place-vorgald|Vorgald]]—the westernmost hold
-- [[place-vardainvalleys|The Vardain Valleys]]—the farmers beneath it
-- [[lore-elderraces|Elder Races]]—the Khazari in Tantsou
-- [[lore-khazarturn|The Fall of Khazartúrn]]—the city of the seven towers
-- [[lore-goddreams|The God of Dreams]]—Luváth
+[[lore-flkkhazar|Khazár Folk]]
+: the people, their history and their holds
+
+[[skill-khazarlng|Khazari Language]]
+: the tongue of skeletons and frames
+
+[[skill-drthrkscrpt|Pirzath Script]]
+: carved letters and the hand form
+
+[[skill-khazarlng#lexicon|Khazari Lexicon]]
+: the words for stone, cave and craft
+
+[[place-vorgald|Vorgald]]
+: the westernmost hold
+
+[[place-vardainvalleys|The Vardain Valleys]]
+: the farmers beneath it
+
+[[lore-elderraces|Elder Races]]
+: the Khazari in Tantsou
+
+[[lore-khazarturn|The Fall of Khazartúrn]]
+: the city of the seven towers
+
+[[lore-goddreams|The God of Dreams]]
+: Luváth
 
 ## Glossary {#glossary}
 

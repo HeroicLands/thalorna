@@ -33,6 +33,11 @@ Mirthaan is a day's walk down from the crest of the Cloud Pass, and a day along 
 
 ## See Also
 
-- [[place-klhrestrrc|The Eastern Terraces]]—the country the sanctuary stands in
-- [[affiliation-tharivaan|Thári'vaan]]—the custodians, their ranks and their sanctuaries
-- [[place-veshvaan|Veshvaan]] and [[place-thalari|Thal'ari]]—two other sanctuaries of the island
+[[place-klhrestrrc|The Eastern Terraces]]
+: the country the sanctuary stands in
+
+[[affiliation-tharivaan|Thári'vaan]]
+: the custodians, their ranks and their sanctuaries
+
+[[place-veshvaan|Veshvaan]] and [[place-thalari|Thal'ari]]
+: two other sanctuaries of the island

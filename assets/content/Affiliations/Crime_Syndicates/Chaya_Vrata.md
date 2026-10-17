@@ -67,9 +67,14 @@ sohl:
 
 ## The Chaya-vreta—The Shadow-Vow
 
-- **Practice:** The waking dream—illusion, misdirection, the unremembered face
-- **Broken from:** [[affiliation-svapnasarisamaja|Svapnasari-sameja]]
-- **Pronunciation:** _CHAH-yah VRAH-tah_
+Practice
+: The waking dream—illusion, misdirection, the unremembered face
+
+Broken from
+: [[affiliation-svapnasarisamaja|Svapnasari-sameja]]
+
+Pronunciation
+: _CHAH-yah VRAH-tah_
 
 The [[affiliation-svapnasarisamaja|Svapnasari-sameja]] works the dream of a sleeper who has come and asked for it. The **Chaya-vreta** works the dream of a person who is awake and has not.
 
@@ -99,7 +104,14 @@ What the vow fears is not a court. It is the gap between the conch and the pyre:
 
 ### See Also
 
-- [[affiliation-svapnasarisamaja|Svapnasari-sameja]]—the assembly the vow lapsed from
-- [[affiliation-svapnadevas|Svapnadevas]]—the Dreaming Host, whose reach the vow turns outward
-- [[affiliation-thresholdkeepers|The Threshold-keepers]]—the one question a line cannot misdirect
-- [[affiliation-trimurtisampradaya|Council of the Triyacharyas]]—which holds an unlicensed working in a god's name to be Patuta
+[[affiliation-svapnasarisamaja|Svapnasari-sameja]]
+: the assembly the vow lapsed from
+
+[[affiliation-svapnadevas|Svapnadevas]]
+: the Dreaming Host, whose reach the vow turns outward
+
+[[affiliation-thresholdkeepers|The Threshold-keepers]]
+: the one question a line cannot misdirect
+
+[[affiliation-trimurtisampradaya|Council of the Triyacharyas]]
+: which holds an unlicensed working in a god's name to be Patuta

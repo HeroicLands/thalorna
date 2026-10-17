@@ -23,7 +23,14 @@ Gekhenu is the capital of the [[affiliation-selatgekhenu|Selat of Gekhenu]] and 
 
 ## See Also
 
-- [[affiliation-selatgekhenu|The Selat of Gekhenu]]—parent selat
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—the selat class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—imperial overview
-- [[affiliation-rethsaar|Faith of Reth'Sa'ar]]—patron cult
+[[affiliation-selatgekhenu|The Selat of Gekhenu]]
+: parent selat
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: the selat class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: imperial overview
+
+[[affiliation-rethsaar|Faith of Reth'Sa'ar]]
+: patron cult

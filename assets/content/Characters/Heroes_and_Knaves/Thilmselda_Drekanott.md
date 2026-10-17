@@ -435,19 +435,37 @@ Thilmselda's primary drive is to create a space of true sanctuary in a world of 
 
 ### Strengths
 
-- **Master of Culinary Arts**: Thilmselda's reputation for food is known throughout the region; her kitchens produce everything from humble peasant fare to elaborate feasts with equal mastery.
-- **Herbal Knowledge**: Years of managing both kitchen and remedies have made her skilled in herbal medicine; she has treated everything from minor wounds to stubborn illnesses.
-- **Shrewd Business Acumen**: She understands accounting, inventory management, and the subtle arts of running a profitable establishment while maintaining ethical standards.
-- **Physical Strength and Endurance**: Despite her age, she possesses considerable strength and stamina, able to work from dawn to well past dusk.
-- **Perception and Reading People**: Few things escape her notice; she can judge a person's character and circumstances with accuracy.
+Master of Culinary Arts
+: Thilmselda's reputation for food is known throughout the region; her kitchens produce everything from humble peasant fare to elaborate feasts with equal mastery.
+
+Herbal Knowledge
+: Years of managing both kitchen and remedies have made her skilled in herbal medicine; she has treated everything from minor wounds to stubborn illnesses.
+
+Shrewd Business Acumen
+: She understands accounting, inventory management, and the subtle arts of running a profitable establishment while maintaining ethical standards.
+
+Physical Strength and Endurance
+: Despite her age, she possesses considerable strength and stamina, able to work from dawn to well past dusk.
+
+Perception and Reading People
+: Few things escape her notice; she can judge a person's character and circumstances with accuracy.
 
 ### Weaknesses
 
-- **Emotional Rigidity**: While she possesses deep feeling, she struggles to express it directly; her sternness can be misread as coldness.
-- **Perfectionism**: Her exacting standards, while beneficial for her business, can create tension with staff and make it difficult for her to delegate or accept imperfect work.
-- **Limited Combat Training**: Though she can handle herself in a brawl due to physical strength, she lacks formal martial skill.
-- **Trust Issues**: Past betrayals have made her cautious about forming close personal bonds; she maintains emotional distance even from those closest to her.
-- **Stress-Related Ailments**: The weight of responsibility manifests in physical tension, poor sleep, and occasional outbursts of uncharacteristic anger.
+Emotional Rigidity
+: While she possesses deep feeling, she struggles to express it directly; her sternness can be misread as coldness.
+
+Perfectionism
+: Her exacting standards, while beneficial for her business, can create tension with staff and make it difficult for her to delegate or accept imperfect work.
+
+Limited Combat Training
+: Though she can handle herself in a brawl due to physical strength, she lacks formal martial skill.
+
+Trust Issues
+: Past betrayals have made her cautious about forming close personal bonds; she maintains emotional distance even from those closest to her.
+
+Stress-Related Ailments
+: The weight of responsibility manifests in physical tension, poor sleep, and occasional outbursts of uncharacteristic anger.
 
 ## Social
 
@@ -483,12 +501,17 @@ The Brewers' Circle
 
 ## Plot Hooks
 
-1. **The Poisoned Guest**: A prominent merchant patron dies under suspicious circumstances while staying at the Drekanótt Inn, and suspicion falls on Thilmselda herself. Though her reputation is sterling, the dead man's wealthy family demands justice, and the party must help prove her innocence while uncovering who truly poisoned the guest—perhaps revealing dangerous enemies the merchant had made.
+The Poisoned Guest
+: A prominent merchant patron dies under suspicious circumstances while staying at the Drekanótt Inn, and suspicion falls on Thilmselda herself. Though her reputation is sterling, the dead man's wealthy family demands justice, and the party must help prove her innocence while uncovering who truly poisoned the guest—perhaps revealing dangerous enemies the merchant had made.
 
-2. **The Hidden Cache**: While renovating her cellar, Thilmselda's workers discover a sealed chamber containing artifacts and documents from an era long past—possibly religious relics, forbidden knowledge, or evidence of a historical secret. She must decide whether to report the discovery or investigate its implications, and powerful interests emerge to claim or suppress what was found.
+The Hidden Cache
+: While renovating her cellar, Thilmselda's workers discover a sealed chamber containing artifacts and documents from an era long past—possibly religious relics, forbidden knowledge, or evidence of a historical secret. She must decide whether to report the discovery or investigate its implications, and powerful interests emerge to claim or suppress what was found.
 
-3. **The Deserter's Daughter**: A young woman arrives at the inn claiming to be the daughter of a man Thilmselda knew decades ago—a soldier who vanished during a territorial dispute. The woman brings news of her father's fate and a plea for help in retrieving something he left hidden. Thilmselda must grapple with unexpected family connections and the possibility of reopening old wounds.
+The Deserter's Daughter
+: A young woman arrives at the inn claiming to be the daughter of a man Thilmselda knew decades ago—a soldier who vanished during a territorial dispute. The woman brings news of her father's fate and a plea for help in retrieving something he left hidden. Thilmselda must grapple with unexpected family connections and the possibility of reopening old wounds.
 
-4. **A Sanctuary Request**: Thilmselda is approached by fugitives—perhaps refugees from persecution, escaped prisoners, or people fleeing dangerous circumstances—seeking shelter. Harboring them would violate laws and risk her livelihood, yet her sense of justice compels her. The party becomes entangled in helping her navigate this moral crossroads while evading authorities.
+A Sanctuary Request
+: Thilmselda is approached by fugitives—perhaps refugees from persecution, escaped prisoners, or people fleeing dangerous circumstances—seeking shelter. Harboring them would violate laws and risk her livelihood, yet her sense of justice compels her. The party becomes entangled in helping her navigate this moral crossroads while evading authorities.
 
-5. **The Festival Opportunity**: When a major regional festival approaches, a prestigious noble or wealthy merchant offers Thilmselda an enormous contract to cater the event, but with impossible demands and an extremely tight timeline. Success could elevate her reputation and fortune permanently, but the undertaking threatens to destroy her by its sheer scope. The party might assist her in an ambitious kitchen campaign while also uncovering hidden agendas behind the event itself.
+The Festival Opportunity
+: When a major regional festival approaches, a prestigious noble or wealthy merchant offers Thilmselda an enormous contract to cater the event, but with impossible demands and an extremely tight timeline. Success could elevate her reputation and fortune permanently, but the undertaking threatens to destroy her by its sheer scope. The party might assist her in an ambitious kitchen campaign while also uncovering hidden agendas behind the event itself.

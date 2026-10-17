@@ -27,7 +27,14 @@ A stone found moved becomes a matter for the ting: the mover, or the mover's kin
 
 ## See Also
 
-- [[lore-nordheimnclt|Nordheimn]]—the boundary rite and the ting's peace
-- [[lore-jol|Jel]], [[lore-midsumar|Midsomar]] and [[lore-vetrnaetr|Vetrnetr]]—the other three great blets
-- [[affiliation-asguardian|Asguardian Pantheon]]—the Ten and the Asguardian year
-- [[lore-nrdlndsraid|The Raid and the Longship]]—the sailing season the festival opens
+[[lore-nordheimnclt|Nordheimn]]
+: the boundary rite and the ting's peace
+
+[[lore-jol|Jel]], [[lore-midsumar|Midsomar]] and [[lore-vetrnaetr|Vetrnetr]]
+: the other three great blets
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the Ten and the Asguardian year
+
+[[lore-nrdlndsraid|The Raid and the Longship]]
+: the sailing season the festival opens

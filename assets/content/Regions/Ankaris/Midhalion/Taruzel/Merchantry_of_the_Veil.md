@@ -40,9 +40,14 @@ sohl: {system: {commonSkills: []}}
 
 The agent wears a ring with a sigil cut into it and says a phrase that sounds like small talk, and if you know the answering phrase, you are doing business with the Merchantry of the Veil. It is the least understood and most whispered-about of the great guilds of the [[place-taruzelrgn|Taruzel Region]]. Officially it is a trade association of dealers in luxury goods: silks, spices, rare alchemical ingredients, exotic animals and fine art. Unofficially it deals in something worth more, which is information, and where the information trade meets the goods trade it will move cargo the other guilds will not touch.
 
-- **Kind:** trade guild in luxury goods, information brokerage and smuggling
-- **Reach:** the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], with shadow networks across [[place-midhalnrgn|Mídhalión Region]]
-- **Headquarters:** [[affiliation-besikar|Besikar]] in name; in practice everywhere and nowhere
+Kind
+: trade guild in luxury goods, information brokerage and smuggling
+
+Reach
+: the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], with shadow networks across [[place-midhalnrgn|Mídhalión Region]]
+
+Headquarters
+: [[affiliation-besikar|Besikar]] in name; in practice everywhere and nowhere
 
 ## The Veil
 
@@ -62,6 +67,11 @@ Of the three, the Merchantry is the one most likely to approach the crew of [[af
 
 ## See Also
 
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the parent polity
-- [[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]]—the rival guilds
-- [[affiliation-ordoarcanis|Thordimalon]]—an occasional, unwilling client
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the parent polity
+
+[[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]]
+: the rival guilds
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: an occasional, unwilling client

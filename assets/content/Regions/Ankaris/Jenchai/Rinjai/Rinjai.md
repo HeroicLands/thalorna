@@ -23,6 +23,11 @@ The summit shrine is kept by the domain's Tanchéi, who hold the mountain record
 
 ## See Also
 
-- [[affiliation-rinjaidmn|Rinjai Domain]]—the house and its lord
-- [[place-rinwu|Rinwu]]—the castle town
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[affiliation-rinjaidmn|Rinjai Domain]]
+: the house and its lord
+
+[[place-rinwu|Rinwu]]
+: the castle town
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

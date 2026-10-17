@@ -441,23 +441,56 @@ Euthalash met Kalestratos during a diplomatic mission in [[place-velysara|Velisa
 
 ### Skills and Abilities
 
-- **Strength**: Euthalash is not particularly physically strong, as his skills lie in negotiation and diplomacy rather than physical combat.
-- **Endurance**: His training as a diplomat has given him the stamina to endure long negotiations, travel, and courtly life.
-- **Dexterity**: Euthalash has enough coordination to handle diplomatic symbols and items, but his dexterity is focused more on subtle gestures than manual skill.
-- **Agility**: Though not physically agile, Euthalash can move swiftly and gracefully in social situations, navigating conversations and political landscapes with finesse.
-- **Perception**: Euthalash’s ability to read people and situations is outstanding, allowing him to quickly assess motives and political dynamics.
-- **Comeliness**: His refined appearance and charming demeanor make him attractive, with a charisma that aids in his diplomatic endeavors.
-- **Aura**: His aura reflects his strong connection to the metaphysical.
-- **Will**: Euthalash has a strong will, using his mental and emotional strength to remain composed under pressure and handle difficult political situations.
-- **Reasoning**: His mind is quick and strategic, enabling him to see the larger picture in negotiations and political dealings.
-- **Creativity**: Euthalash is inventive in diplomacy, finding creative solutions to complex problems, especially in situations that require persuasion or subtle manipulation.
-- **Empathy**: His ability to connect with others emotionally is a key part of his success as a diplomat, understanding their needs, fears, and motivations.
-- **Eloquence**: Euthalash is articulate, with a voice that draws people in and convinces them of his cause. His words are smooth, persuasive, and filled with gravitas.
-- **Morality**: Euthalash follows the Black Flame's doctrine without apology—strength is virtue, and the strong have the right to shape the world. He is pragmatic and willing to manipulate situations to his advantage, seeing this not as moral compromise but as the natural order asserting itself.
-- **Voice**: Euthalash’s voice is steady and clear, though not particularly melodious. He can sing when necessary, but his focus is on action rather than performance.
-- **Silver-Tongued Diplomat**: Euthalash is a master of negotiation, able to broker deals and forge alliances with even the most difficult parties. His charm and charisma make him an excellent diplomat, smoothing over conflicts and gaining favor with powerful figures.
-- **Follower of the Black Flame**: Euthalash’s devotion to Ústaron and the Black Flame gives him an intuitive understanding of the god’s will. He interprets events through the lens of the faith’s core doctrine—that might makes right, that strength is the only honest measure of worth—and uses this framework to read people, assess power dynamics, and decide whom to trust. His faith also grants him a deep understanding of the rituals and practices of Ústaron’s worship.
-- **Manipulator of Circumstance**: Euthalash excels at turning situations to his advantage. Whether it’s through diplomacy or subtle manipulation, he knows how to make events unfold in ways that benefit him and Kalestratos.
+Strength
+: Euthalash is not particularly physically strong, as his skills lie in negotiation and diplomacy rather than physical combat.
+
+Endurance
+: His training as a diplomat has given him the stamina to endure long negotiations, travel, and courtly life.
+
+Dexterity
+: Euthalash has enough coordination to handle diplomatic symbols and items, but his dexterity is focused more on subtle gestures than manual skill.
+
+Agility
+: Though not physically agile, Euthalash can move swiftly and gracefully in social situations, navigating conversations and political landscapes with finesse.
+
+Perception
+: Euthalash’s ability to read people and situations is outstanding, allowing him to quickly assess motives and political dynamics.
+
+Comeliness
+: His refined appearance and charming demeanor make him attractive, with a charisma that aids in his diplomatic endeavors.
+
+Aura
+: His aura reflects his strong connection to the metaphysical.
+
+Will
+: Euthalash has a strong will, using his mental and emotional strength to remain composed under pressure and handle difficult political situations.
+
+Reasoning
+: His mind is quick and strategic, enabling him to see the larger picture in negotiations and political dealings.
+
+Creativity
+: Euthalash is inventive in diplomacy, finding creative solutions to complex problems, especially in situations that require persuasion or subtle manipulation.
+
+Empathy
+: His ability to connect with others emotionally is a key part of his success as a diplomat, understanding their needs, fears, and motivations.
+
+Eloquence
+: Euthalash is articulate, with a voice that draws people in and convinces them of his cause. His words are smooth, persuasive, and filled with gravitas.
+
+Morality
+: Euthalash follows the Black Flame's doctrine without apology—strength is virtue, and the strong have the right to shape the world. He is pragmatic and willing to manipulate situations to his advantage, seeing this not as moral compromise but as the natural order asserting itself.
+
+Voice
+: Euthalash’s voice is steady and clear, though not particularly melodious. He can sing when necessary, but his focus is on action rather than performance.
+
+Silver-Tongued Diplomat
+: Euthalash is a master of negotiation, able to broker deals and forge alliances with even the most difficult parties. His charm and charisma make him an excellent diplomat, smoothing over conflicts and gaining favor with powerful figures.
+
+Follower of the Black Flame
+: Euthalash’s devotion to Ústaron and the Black Flame gives him an intuitive understanding of the god’s will. He interprets events through the lens of the faith’s core doctrine—that might makes right, that strength is the only honest measure of worth—and uses this framework to read people, assess power dynamics, and decide whom to trust. His faith also grants him a deep understanding of the rituals and practices of Ústaron’s worship.
+
+Manipulator of Circumstance
+: Euthalash excels at turning situations to his advantage. Whether it’s through diplomacy or subtle manipulation, he knows how to make events unfold in ways that benefit him and Kalestratos.
 
 ## Psyche
 
@@ -486,27 +519,53 @@ rival faction
 
 ## Plot Hooks
 
-1. **The Burning Blade: A Diplomatic Mission Turned Deadly**: Euthalash is tasked with a diplomatic mission to a rival noble house within Vylaria, where tensions are high. Kalestratos needs their support—or at least their neutrality—but the rival house is known for its unpredictable and aggressive tendencies. Things quickly turn hostile when the rival house accuses Kalestratos of secretly supporting insurgents who have been using fire to terrorize their lands. Euthalash’s role becomes critical as he must navigate a volatile situation where a single misstep could mean war.
-   - **Diffuse the Situation**: Using his silver tongue, Euthalash must calm the situation and prevent an all-out conflict. He’ll need to handle the complex politics of Vylaria, using his diplomatic skills to clear Kalestratos’ name.
-   - **Uncovering the True Culprit**: Through negotiation and investigation, Euthalash uncovers that the real insurgents are agents of the **Ashen Circle**, trying to turn the rival house against Kalestratos. He must use this information carefully, deciding whether to expose the Ashen Circle or manipulate events to secure the house’s loyalty.
-   - **Negotiating a Truce**: Once the truth is revealed, Euthalash must broker a truce between the rival house and Kalestratos, turning what could have been a deadly conflict into a political victory.
+The Burning Blade: A Diplomatic Mission Turned Deadly
+: Euthalash is tasked with a diplomatic mission to a rival noble house within Vylaria, where tensions are high. Kalestratos needs their support—or at least their neutrality—but the rival house is known for its unpredictable and aggressive tendencies. Things quickly turn hostile when the rival house accuses Kalestratos of secretly supporting insurgents who have been using fire to terrorize their lands. Euthalash’s role becomes critical as he must navigate a volatile situation where a single misstep could mean war.
 
-2. **The [[place-khzryndsrtrgn|Khazryn Desert]]: Lost Relics of Ústaron**: Word reaches Euthalash that a powerful relic of Ústaron—the **Torch of Fury**, said to grant its wielder immense destructive power—has been discovered in the **Khazryn Desert**. The relic is a sacred object tied to both the worship of Ústaron and the political power of desert tribes. Recovering it could rally the desert lords behind Kalestratos, strengthening his position.
+    Diffuse the Situation
+    : Using his silver tongue, Euthalash must calm the situation and prevent an all-out conflict. He’ll need to handle the complex politics of Vylaria, using his diplomatic skills to clear Kalestratos’ name.
 
-   However, several factions are also interested in the relic, including rival desert lords and the Guilded Talon. Euthalash could help secure it.
-   - **Negotiating with Tribes**: Euthalash must handle the complex relationships between the desert tribes, using his diplomacy to secure their loyalty or at least permission to seek the relic.
-   - **Outwitting Rivals**: Guilded Talon and rival desert lords are also searching for the relic. Euthalash must stay ahead of them, using both negotiation and subterfuge to gain an advantage.
+    Uncovering the True Culprit
+    : Through negotiation and investigation, Euthalash uncovers that the real insurgents are agents of the **Ashen Circle**, trying to turn the rival house against Kalestratos. He must use this information carefully, deciding whether to expose the Ashen Circle or manipulate events to secure the house’s loyalty.
 
-3. **Flames of Ambition: A Rival Diplomat**: A rival diplomat from Vylaria—**Ponakar Drachenos**, a former acquaintance of Euthalash—has risen to prominence within the empire and is now working for a faction that opposes Kalestratos’ efforts. Ponakar’s charm and wit rival Euthalash’s own, and the two diplomats often find themselves at odds, trying to outmaneuver one another in political negotiations.
+    Negotiating a Truce
+    : Once the truth is revealed, Euthalash must broker a truce between the rival house and Kalestratos, turning what could have been a deadly conflict into a political victory.
 
-   Ponakar’s latest mission is to turn key Vylarian nobles against Kalestratos, convincing them that his pursuit of fire magic is dangerous. Euthalash must confront his old rival in a series of political and diplomatic engagements, where every word could shift the balance of power.
-   - **Diplomatic Duel**: The core of the conflict is a battle of words between Euthalash and Ponakar, each trying to sway influential nobles to their side. Euthalash must use his charm, political knowledge, and connections to outmaneuver Ponakar.
-   - **Political Intrigue**: Ponakar may resort to underhanded tactics—blackmail, bribery, or even assassination attempts. Euthalash must uncover and counter these plots while keeping his own position strong.
-   - **Turning the Tide**: If Euthalash can outplay Ponakar, he may even be able to turn the opposing nobles into allies for Kalestratos, securing a major political victory and weakening the opposition’s power base.
+The [[place-khzryndsrtrgn|Khazryn Desert]]: Lost Relics of Ústaron
+: Word reaches Euthalash that a powerful relic of Ústaron—the **Torch of Fury**, said to grant its wielder immense destructive power—has been discovered in the **Khazryn Desert**. The relic is a sacred object tied to both the worship of Ústaron and the political power of desert tribes. Recovering it could rally the desert lords behind Kalestratos, strengthening his position.
 
-4. **The Guilded Talon’s Subversion**: The **Guilded Talon** has been spreading rumors about Kalestratos across Velisara and other regions. These rumors are beginning to gain traction in Vylaria, threatening to cut off Kalestratos from the vital support he needs.
+    However, several factions are also interested in the relic, including rival desert lords and the Guilded Talon. Euthalash could help secure it.
 
-   Euthalash, with his deep connections in Vylaria and diplomatic prowess, must handle the complex politics to counter the Guilded Talon’s influence.
-   - **Securing Allies**: Using his charm and political acumen, Euthalash could sway influential families and rulers in Vylaria to Kalestratos’ side, countering the rumors spread by the Guilded Talon.
-   - **Uncovering the Plot**: Euthalash could investigate the origins of the rumors and discover hidden agents of the Guilded Talon operating within Vylaria. He must decide whether to confront them openly or manipulate them into revealing their plans.
-   - **Diplomatic Duel**: The Guilded Talon sends their own agent to Vylaria, and Euthalash must engage in a battle of wits and diplomacy, outmaneuvering his opponent while keeping Kalestratos’ plans undisrupted.
+    Negotiating with Tribes
+    : Euthalash must handle the complex relationships between the desert tribes, using his diplomacy to secure their loyalty or at least permission to seek the relic.
+
+    Outwitting Rivals
+    : Guilded Talon and rival desert lords are also searching for the relic. Euthalash must stay ahead of them, using both negotiation and subterfuge to gain an advantage.
+
+Flames of Ambition: A Rival Diplomat
+: A rival diplomat from Vylaria—**Ponakar Drachenos**, a former acquaintance of Euthalash—has risen to prominence within the empire and is now working for a faction that opposes Kalestratos’ efforts. Ponakar’s charm and wit rival Euthalash’s own, and the two diplomats often find themselves at odds, trying to outmaneuver one another in political negotiations.
+
+    Ponakar’s latest mission is to turn key Vylarian nobles against Kalestratos, convincing them that his pursuit of fire magic is dangerous. Euthalash must confront his old rival in a series of political and diplomatic engagements, where every word could shift the balance of power.
+
+    Diplomatic Duel
+    : The core of the conflict is a battle of words between Euthalash and Ponakar, each trying to sway influential nobles to their side. Euthalash must use his charm, political knowledge, and connections to outmaneuver Ponakar.
+
+    Political Intrigue
+    : Ponakar may resort to underhanded tactics—blackmail, bribery, or even assassination attempts. Euthalash must uncover and counter these plots while keeping his own position strong.
+
+    Turning the Tide
+    : If Euthalash can outplay Ponakar, he may even be able to turn the opposing nobles into allies for Kalestratos, securing a major political victory and weakening the opposition’s power base.
+
+The Guilded Talon’s Subversion
+: The **Guilded Talon** has been spreading rumors about Kalestratos across Velisara and other regions. These rumors are beginning to gain traction in Vylaria, threatening to cut off Kalestratos from the vital support he needs.
+
+    Euthalash, with his deep connections in Vylaria and diplomatic prowess, must handle the complex politics to counter the Guilded Talon’s influence.
+
+    Securing Allies
+    : Using his charm and political acumen, Euthalash could sway influential families and rulers in Vylaria to Kalestratos’ side, countering the rumors spread by the Guilded Talon.
+
+    Uncovering the Plot
+    : Euthalash could investigate the origins of the rumors and discover hidden agents of the Guilded Talon operating within Vylaria. He must decide whether to confront them openly or manipulate them into revealing their plans.
+
+    Diplomatic Duel
+    : The Guilded Talon sends their own agent to Vylaria, and Euthalash must engage in a battle of wits and diplomacy, outmaneuvering his opponent while keeping Kalestratos’ plans undisrupted.

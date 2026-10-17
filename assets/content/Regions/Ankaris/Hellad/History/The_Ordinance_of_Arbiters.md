@@ -82,6 +82,11 @@ The first named arbiter, **[Sáfireze Dorashidek]{.name data-type="being/npc"}**
 
 ## See Also
 
-- [[lore-byzarianclt|Bizarian]]—the culture of the bargain, in which arbitration stands in for feud
-- [[lore-heladreswear|The Re-swearing of the Compact]]—the council that passed the ordinance
-- [[affiliation-nesthiros|Nesthiros]]—the city the fire burned
+[[lore-byzarianclt|Bizarian]]
+: the culture of the bargain, in which arbitration stands in for feud
+
+[[lore-heladreswear|The Re-swearing of the Compact]]
+: the council that passed the ordinance
+
+[[affiliation-nesthiros|Nesthiros]]
+: the city the fire burned

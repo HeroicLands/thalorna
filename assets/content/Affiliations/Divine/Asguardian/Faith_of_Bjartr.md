@@ -83,6 +83,11 @@ Four ordeals are held to win Bjart's particular favor, and each tests a differen
 
 ## See Also
 
-- [[affiliation-bjarthond|Bjarthond]]—the Order of the Radiant Hand, priests who heal and spread Bjart's light
-- [[affiliation-aldarmal|Aldarmál]]—the Elder's Voice, the rare standing that speaks between the elder races and mortals
-- [[affiliation-bjartbrandr|Bjartbrandr]]—the Lightning Swords, elder-trained fighters of Bjart's will
+[[affiliation-bjarthond|Bjarthond]]
+: the Order of the Radiant Hand, priests who heal and spread Bjart's light
+
+[[affiliation-aldarmal|Aldarmál]]
+: the Elder's Voice, the rare standing that speaks between the elder races and mortals
+
+[[affiliation-bjartbrandr|Bjartbrandr]]
+: the Lightning Swords, elder-trained fighters of Bjart's will

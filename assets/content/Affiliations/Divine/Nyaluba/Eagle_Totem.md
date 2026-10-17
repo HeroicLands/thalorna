@@ -73,8 +73,17 @@ The story told at the fire in [[lore-stonetongue|The Stone Tongue]] begins from 
 
 ## See Also
 
-- [[lore-eaglengonzispr|Eagle Spirit]]—the guide as a being, apart from the practices of its cult
-- [[skill-eaglengonzisprt|Eagle Spirit Power]]—the standing through which the guide is asked
-- [[affiliation-nyalbpnthn|The Nyáluba Way]]—the tradition this cult belongs to
-- [[lore-nyalbsprts|Nyáluba Spirits]]—the seven kinds of guide and the three postures
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the Ngonzi and the other four clans
+[[lore-eaglengonzispr|Eagle Spirit]]
+: the guide as a being, apart from the practices of its cult
+
+[[skill-eaglengonzisprt|Eagle Spirit Power]]
+: the standing through which the guide is asked
+
+[[affiliation-nyalbpnthn|The Nyáluba Way]]
+: the tradition this cult belongs to
+
+[[lore-nyalbsprts|Nyáluba Spirits]]
+: the seven kinds of guide and the three postures
+
+[[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
+: the Ngonzi and the other four clans

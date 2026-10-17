@@ -55,9 +55,20 @@ The morning after [Coal Night]{.name data-type="lore/gathering"} a Bralvik boat 
 
 ## See Also
 
-- [[lore-bankedfire|The Winter of the Banked Fire]]—the landing, the burning and the terms, dated in both calendars
-- [[lore-southrnfleets|The Southern Fleets]]—the raids the crew sailed with
-- [[affiliation-provincvld|Province of Salkalon]]—parent province
-- [[place-salkhalon|Salkalon]]—the coast it fishes
-- [[place-castamar|Kastamar]]—the naval city that burned the bay
-- [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview
+[[lore-bankedfire|The Winter of the Banked Fire]]
+: the landing, the burning and the terms, dated in both calendars
+
+[[lore-southrnfleets|The Southern Fleets]]
+: the raids the crew sailed with
+
+[[affiliation-provincvld|Province of Salkalon]]
+: parent province
+
+[[place-salkhalon|Salkalon]]
+: the coast it fishes
+
+[[place-castamar|Kastamar]]
+: the naval city that burned the bay
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: imperial overview

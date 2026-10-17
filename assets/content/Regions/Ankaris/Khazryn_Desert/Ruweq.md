@@ -32,6 +32,11 @@ A Tantsou scholar at the western passes has seen a copy of a single painted line
 
 ## See Also
 
-- [[being-sandwurm|Sand Wurm]]—the tunneler of the lower caverns
-- [[being-erthrvr|Earthreaver]]—the dreadspawn that cuts its own passages
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the empire at the east end of the road
+[[being-sandwurm|Sand Wurm]]
+: the tunneler of the lower caverns
+
+[[being-erthrvr|Earthreaver]]
+: the dreadspawn that cuts its own passages
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the empire at the east end of the road

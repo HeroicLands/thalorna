@@ -260,8 +260,17 @@ Put a stick on the fire. The watch changes. Nothing crosses tonight.
 
 ## See Also
 
-- [[place-eastrnmrch|Eastern March]]—the spring-forts, the way-forts and the winter camps under the truce
-- [[place-thirstground|The Thirsting Ground]]—the field below the passes, and the steppe dead no rite of the fort can place
-- [[lore-heladwells|The Battle of the Wells]]—the host that died between the springs
-- [[lore-selmorosdty|Sélmoros]]—the Silent Judge, from whose black gate the Collector rides
-- [[lore-byzarianclt|Bizarian]]—the two seals, the arbitrator named by both sides and the account settled aloud
+[[place-eastrnmrch|Eastern March]]
+: the spring-forts, the way-forts and the winter camps under the truce
+
+[[place-thirstground|The Thirsting Ground]]
+: the field below the passes, and the steppe dead no rite of the fort can place
+
+[[lore-heladwells|The Battle of the Wells]]
+: the host that died between the springs
+
+[[lore-selmorosdty|Sélmoros]]
+: the Silent Judge, from whose black gate the Collector rides
+
+[[lore-byzarianclt|Bizarian]]
+: the two seals, the arbitrator named by both sides and the account settled aloud

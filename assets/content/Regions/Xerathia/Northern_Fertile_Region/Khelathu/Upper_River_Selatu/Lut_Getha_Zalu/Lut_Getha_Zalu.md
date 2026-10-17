@@ -37,11 +37,19 @@ The selat feeds its granaries from the flood like the rest of the valley. Its pa
 
 ## Settlements
 
-- [[place-lutgetha|Lut-Getha]] (~36,000)—the selat capital and the seat of the Halzi'a.
-- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+[[place-lutgetha|Lut-Getha]] (~36,000)
+: the selat capital and the seat of the Halzi'a.
+
+The villages and estate-towns
+: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatltgthzl|The Selat of Lut-Getha-Zalu]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-lutgetha|Lut-Getha]]—Selat capital
+[[affiliation-selatltgthzl|The Selat of Lut-Getha-Zalu]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-lutgetha|Lut-Getha]]
+: Selat capital

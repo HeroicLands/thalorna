@@ -458,13 +458,17 @@ Passenger aboard the **Tamzir**. Sister of **Lukeros Serenthis**. She has formed
 
 ## Plot Hooks
 
-1. **Ominous Portents**: While in port, Kivella enters a dissociative state and produces a drawing of extraordinary detail and precision—a map of a location she has never visited, annotated with arcane symbols. The location corresponds to a Thordimalon (the Arcane Order) facility. What she has drawn may be a memory, a vision, or a warning, and deciphering it could reveal the Order's plans for her.
+Ominous Portents
+: While in port, Kivella enters a dissociative state and produces a drawing of extraordinary detail and precision—a map of a location she has never visited, annotated with arcane symbols. The location corresponds to a Thordimalon (the Arcane Order) facility. What she has drawn may be a memory, a vision, or a warning, and deciphering it could reveal the Order's plans for her.
 
-2. **The Awakening**: Kivella's abilities begin to stabilize—not diminish, but _cohere_. She starts to gain control over powers that have been erratic since her escape. This is both a gift and a danger: a controlled Kivella is exponentially more valuable to the Order, and the stabilization may draw arcane attention that the crew cannot deflect.
+The Awakening
+: Kivella's abilities begin to stabilize—not diminish, but _cohere_. She starts to gain control over powers that have been erratic since her escape. This is both a gift and a danger: a controlled Kivella is exponentially more valuable to the Order, and the stabilization may draw arcane attention that the crew cannot deflect.
 
-3. **The Other Subjects**: Kivella remembers, in fragments, that she was not the only subject in the Order's experiments. Others are still inside. She wants to help them. Lukeros wants to run. The crew must decide whether compassion or survival takes precedence.
+The Other Subjects
+: Kivella remembers, in fragments, that she was not the only subject in the Order's experiments. Others are still inside. She wants to help them. Lukeros wants to run. The crew must decide whether compassion or survival takes precedence.
 
-4. **Recognition**: In a port city, someone from the Order recognizes Kivella and the crew. If they make it back aboard the Tamzir, they know they have been identified—and the Order's response will not be subtle.
+Recognition
+: In a port city, someone from the Order recognizes Kivella and the crew. If they make it back aboard the Tamzir, they know they have been identified—and the Order's response will not be subtle.
 
 # Playing Kivella
 

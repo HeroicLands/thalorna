@@ -25,5 +25,8 @@ A Varokh hunter close to his clan's spirits is the kind of pilgrim the pools dra
 
 ## See Also
 
-- [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]]—a hunter who might seek the pools
-- [[lore-varokhiclt|Varokhi]]—the culture whose spirits keep them
+[[being-thrnkbldtscbr|Thornak Bludtusk Barsk]]
+: a hunter who might seek the pools
+
+[[lore-varokhiclt|Varokhi]]
+: the culture whose spirits keep them

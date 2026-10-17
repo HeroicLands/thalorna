@@ -23,7 +23,14 @@ Approach it from the water and the walls come first. Behind them stand the chief
 
 ## See Also
 
-- [[affiliation-selatlinmut|The Selat of Linmut]]—Parent selat
-- [[affiliation-borderselatu|The Border Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-wethur|Faith of Weth'ur]]—Patron cult
+[[affiliation-selatlinmut|The Selat of Linmut]]
+: Parent selat
+
+[[affiliation-borderselatu|The Border Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-wethur|Faith of Weth'ur]]
+: Patron cult

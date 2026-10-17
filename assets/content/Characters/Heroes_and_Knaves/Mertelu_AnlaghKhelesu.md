@@ -450,19 +450,37 @@ She has no ambition to rise beyond her station, nor does she resent her position
 
 ### Strengths
 
-- **Absolute Household Authority**: Within her domain, Mertelu's word is law. She understands every system, every supply chain, every relationship within the estate. She can reorganize the entire household in hours if necessary.
-- **Organizational Genius**: She maintains detailed mental records of inventory, staff schedules, seasonal needs, and long-term planning. Her memory for logistical detail is nearly perfect.
-- **Staff Leadership**: She commands both loyalty and fear. Servants work harder for Mertelu than they do for any other master because they know she will not ask them to work harder than she works herself.
-- **Practical Wisdom**: Her years of service have taught her the solutions to nearly every household problem. Broken pipes, failing harvests, sick animals, interpersonal conflicts—she has seen them all and knows practical responses.
-- **Imperviousness to Corruption**: Mertelu cannot be bribed, seduced, or manipulated through her position. She has wealth enough from her salary and has no desire for more.
+Absolute Household Authority
+: Within her domain, Mertelu's word is law. She understands every system, every supply chain, every relationship within the estate. She can reorganize the entire household in hours if necessary.
+
+Organizational Genius
+: She maintains detailed mental records of inventory, staff schedules, seasonal needs, and long-term planning. Her memory for logistical detail is nearly perfect.
+
+Staff Leadership
+: She commands both loyalty and fear. Servants work harder for Mertelu than they do for any other master because they know she will not ask them to work harder than she works herself.
+
+Practical Wisdom
+: Her years of service have taught her the solutions to nearly every household problem. Broken pipes, failing harvests, sick animals, interpersonal conflicts—she has seen them all and knows practical responses.
+
+Imperviousness to Corruption
+: Mertelu cannot be bribed, seduced, or manipulated through her position. She has wealth enough from her salary and has no desire for more.
 
 ### Weaknesses
 
-- **Rigidity in Crisis**: Her reliance on established routine means that unprecedented situations can paralyze her momentarily. She requires time to establish new routines.
-- **Limited Perspective**: Her entire world is the household and its immediate surroundings. She knows nothing of politics, diplomacy, or the wider world beyond what servants gossip about.
-- **Difficulty with Ambiguity**: Moral complexity and unclear situations frustrate and disturb her. She prefers clear rules and clear consequences.
-- **Lack of Combat Training**: She is strong and quick, but entirely untrained in violence. A trained fighter would defeat her easily despite her physical advantages.
-- **Isolation**: Her position creates a distance between her and actual friendship. Those who work for her cannot also be her equals, and her standards are too high for peers among the serving class.
+Rigidity in Crisis
+: Her reliance on established routine means that unprecedented situations can paralyze her momentarily. She requires time to establish new routines.
+
+Limited Perspective
+: Her entire world is the household and its immediate surroundings. She knows nothing of politics, diplomacy, or the wider world beyond what servants gossip about.
+
+Difficulty with Ambiguity
+: Moral complexity and unclear situations frustrate and disturb her. She prefers clear rules and clear consequences.
+
+Lack of Combat Training
+: She is strong and quick, but entirely untrained in violence. A trained fighter would defeat her easily despite her physical advantages.
+
+Isolation
+: Her position creates a distance between her and actual friendship. Those who work for her cannot also be her equals, and her standards are too high for peers among the serving class.
 
 ## Social
 
@@ -495,12 +513,17 @@ Disgraced Former Servants
 
 ## Plot Hooks
 
-1. **The Missing Seal Ring**: Lord Zabeglegezu's personal seal ring, used to authorize documents of significant importance, has disappeared from the household. Only a handful of servants know where it is kept, and Mertelu knows them all. Her investigation reveals that one of the servants has been replaced by someone who looks similar—possibly a twin, possibly something far stranger. Mertelu must determine if this is a simple substitution, an act of espionage, or something darker. Meanwhile, Lord Zabeglegezu grows increasingly anxious about the missing ring's implications.
+The Missing Seal Ring
+: Lord Zabeglegezu's personal seal ring, used to authorize documents of significant importance, has disappeared from the household. Only a handful of servants know where it is kept, and Mertelu knows them all. Her investigation reveals that one of the servants has been replaced by someone who looks similar—possibly a twin, possibly something far stranger. Mertelu must determine if this is a simple substitution, an act of espionage, or something darker. Meanwhile, Lord Zabeglegezu grows increasingly anxious about the missing ring's implications.
 
-2. **The Poisoned Well**: Several members of the household fall mysteriously ill with symptoms suggesting contamination. Mertelu's suspicion falls upon the water supply, but her investigation reveals that the well has been deliberately tampered with. Someone inside the household—someone with access to the sealed storage areas—has done this. The question is why, and more urgently, who? Mertelu must identify the saboteur before the illness spreads further, knowing that her discovery will expose the household's vulnerability and possibly bring scandal upon Lord Zabeglegezu.
+The Poisoned Well
+: Several members of the household fall mysteriously ill with symptoms suggesting contamination. Mertelu's suspicion falls upon the water supply, but her investigation reveals that the well has been deliberately tampered with. Someone inside the household—someone with access to the sealed storage areas—has done this. The question is why, and more urgently, who? Mertelu must identify the saboteur before the illness spreads further, knowing that her discovery will expose the household's vulnerability and possibly bring scandal upon Lord Zabeglegezu.
 
-3. **The Visiting Scholar**: A young scholar arrives at the household as a guest of Lord Zabeglegezu's family, claiming to be researching domestic practices in noble households. Mertelu finds her oddly inquisitive, asking detailed questions about the household's layout, the servants' relationships, supply routes, and the lord's daily patterns. When Mertelu discovers that this scholar is actually an agent working for a competing noble house, she must decide whether to confront the woman, expose her to the lord, or use this discovery to her advantage in the household's internal politics.
+The Visiting Scholar
+: A young scholar arrives at the household as a guest of Lord Zabeglegezu's family, claiming to be researching domestic practices in noble households. Mertelu finds her oddly inquisitive, asking detailed questions about the household's layout, the servants' relationships, supply routes, and the lord's daily patterns. When Mertelu discovers that this scholar is actually an agent working for a competing noble house, she must decide whether to confront the woman, expose her to the lord, or use this discovery to her advantage in the household's internal politics.
 
-4. **The Lost Child**: A servant girl under Mertelu's supervision becomes pregnant and, in desperation, seeks Mertelu's help. Custom and law dictate that Mertelu should report this to Lord Zabeglegezu immediately. Yet the girl came to her with tears and trust, asking for shelter during the pregnancy and help finding a safe place for the child. Mertelu, for the first time in her adult life, must choose between her absolute adherence to order and a human compassion she thought she had long since mastered. Her decision will set her on a path that challenges everything she believes about duty and propriety.
+The Lost Child
+: A servant girl under Mertelu's supervision becomes pregnant and, in desperation, seeks Mertelu's help. Custom and law dictate that Mertelu should report this to Lord Zabeglegezu immediately. Yet the girl came to her with tears and trust, asking for shelter during the pregnancy and help finding a safe place for the child. Mertelu, for the first time in her adult life, must choose between her absolute adherence to order and a human compassion she thought she had long since mastered. Her decision will set her on a path that challenges everything she believes about duty and propriety.
 
-5. **The Restoration of the Old Manor**: Lord Zabeglegezu inherits an ancient estate in the provinces, fallen into disrepair for decades, and assigns Mertelu the task of restoring it to habitable condition. Arriving at the site with a team of workers, Mertelu discovers evidence that the manor was not abandoned naturally—something drove the previous inhabitants away, and not cleanly. Strange symbols are carved into certain thresholds, rooms contain inexplicable arrangements, and the local peasants refuse to work after sunset. Mertelu must restore order to a place where order may have been deliberately destroyed, and in doing so, she may uncover secrets that powerful people wish to remain buried.
+The Restoration of the Old Manor
+: Lord Zabeglegezu inherits an ancient estate in the provinces, fallen into disrepair for decades, and assigns Mertelu the task of restoring it to habitable condition. Arriving at the site with a team of workers, Mertelu discovers evidence that the manor was not abandoned naturally—something drove the previous inhabitants away, and not cleanly. Strange symbols are carved into certain thresholds, rooms contain inexplicable arrangements, and the local peasants refuse to work after sunset. Mertelu must restore order to a place where order may have been deliberately destroyed, and in doing so, she may uncover secrets that powerful people wish to remain buried.

@@ -453,27 +453,37 @@ Linta seeks to test herself against increasingly difficult challenges, driven by
 
 ### Strengths
 
-- **Perception and Awareness**: Linta's keen honey-brown eyes and heightened senses allow her to perceive threats and opportunities long before others. Her awareness and perception make her indispensable at detecting ambushes, hidden dangers, or suspicious movements.
+Perception and Awareness
+: Linta's keen honey-brown eyes and heightened senses allow her to perceive threats and opportunities long before others. Her awareness and perception make her indispensable at detecting ambushes, hidden dangers, or suspicious movements.
 
-- **Masterful Stealth and Climbing**: Linta can cross terrain others find impassable and move through hostile territory unseen. She can scale cliff faces, cross rooftops, and scout enemy positions without detection.
+Masterful Stealth and Climbing
+: Linta can cross terrain others find impassable and move through hostile territory unseen. She can scale cliff faces, cross rooftops, and scout enemy positions without detection.
 
-- **Combat Versatility**: Her archery and swordplay make her a dangerous fighter in both ranged and close-quarters combat. She can adapt her approach based on the situation, making her effective in almost any conflict.
+Combat Versatility
+: Her archery and swordplay make her a dangerous fighter in both ranged and close-quarters combat. She can adapt her approach based on the situation, making her effective in almost any conflict.
 
-- **Survival Mastery**: Linta can procure food, water, and shelter in harsh wilderness conditions. She reads animal signs, predicts weather patterns, and navigates by stars and landmarks.
+Survival Mastery
+: Linta can procure food, water, and shelter in harsh wilderness conditions. She reads animal signs, predicts weather patterns, and navigates by stars and landmarks.
 
-- **Swift Initiative and Tactical Response**: Her dexterity and agility allow her to act quickly in chaotic situations, position herself advantageously, and change her tactics rapidly during combat.
+Swift Initiative and Tactical Response
+: Her dexterity and agility allow her to act quickly in chaotic situations, position herself advantageously, and change her tactics rapidly during combat.
 
 ### Weaknesses
 
-- **Recklessness and Overconfidence**: Linta's tendency to rush into dangerous situations without fully evaluating all risks has gotten her companions injured. She sometimes assumes her superior skills can overcome any obstacle, leading to close calls that could have been fatal.
+Recklessness and Overconfidence
+: Linta's tendency to rush into dangerous situations without fully evaluating all risks has gotten her companions injured. She sometimes assumes her superior skills can overcome any obstacle, leading to close calls that could have been fatal.
 
-- **Weak Reasoning and Creativity**: Weak in reasoning and invention, Linta struggles with complex problem-solving and long-term planning. She is better at responding to immediate threats than preventing future ones through careful strategy.
+Weak Reasoning and Creativity
+: Weak in reasoning and invention, Linta struggles with complex problem-solving and long-term planning. She is better at responding to immediate threats than preventing future ones through careful strategy.
 
-- **Limited Diplomatic Skills**: Her poor eloquence and moderate charm make her ineffective in negotiations or persuasion. She often alienates people through blunt speech and lacks the finesse to handle political situations gracefully.
+Limited Diplomatic Skills
+: Her poor eloquence and moderate charm make her ineffective in negotiations or persuasion. She often alienates people through blunt speech and lacks the finesse to handle political situations gracefully.
 
-- **Emotional Restraint and Empathy**: Linta can seem cold or indifferent to others' emotional needs. She focuses on practical concerns and may miss important social cues or fail to comfort companions in distress.
+Emotional Restraint and Empathy
+: Linta can seem cold or indifferent to others' emotional needs. She focuses on practical concerns and may miss important social cues or fail to comfort companions in distress.
 
-- **Physical Limitations**: Though athletic and agile, Linta's moderate strength means she cannot match heavily armored warriors in raw power. Prolonged physical contests against superior strength can tire her quickly.
+Physical Limitations
+: Though athletic and agile, Linta's moderate strength means she cannot match heavily armored warriors in raw power. Prolonged physical contests against superior strength can tire her quickly.
 
 ## Social
 
@@ -506,12 +516,17 @@ Mercenaries' Guild of Au'Khelathu
 
 ## Plot Hooks
 
-1. **The Mysterious Caravan**: A wealthy merchant from a distant land approaches Linta with an unusual proposal—she must escort a sealed caravan across the most dangerous route in the region, but she is forbidden from knowing what cargo she protects or who the true employer is. The pay is extraordinary, enough to fund her dream of establishing a scout school, but rumors suggest the shipment contains something that the Empire itself would desperately want to intercept. As Linta's caravans begin to encounter increasingly organized opposition, she realizes that someone has leaked her route to multiple factions competing for the mysterious cargo.
+The Mysterious Caravan
+: A wealthy merchant from a distant land approaches Linta with an unusual proposal—she must escort a sealed caravan across the most dangerous route in the region, but she is forbidden from knowing what cargo she protects or who the true employer is. The pay is extraordinary, enough to fund her dream of establishing a scout school, but rumors suggest the shipment contains something that the Empire itself would desperately want to intercept. As Linta's caravans begin to encounter increasingly organized opposition, she realizes that someone has leaked her route to multiple factions competing for the mysterious cargo.
 
-2. **Meshaqa's Final Message**: Word reaches Linta that her old mentor, Meshaqa the Wise, is dead, and that before she died she hid in the [[place-shtrdpks|Shattered Peaks]]—at a spot only Linta knows how to reach—the proof she had gathered of a conspiracy inside the Mercenaries' Guild: senior officers in league with bandit companies, arranging the robberies and sharing the indemnities paid out on a lost caravan. Linta can expose it and break the guild she helped build, or keep silent and live with what she knows.
+Meshaqa's Final Message
+: Word reaches Linta that her old mentor, Meshaqa the Wise, is dead, and that before she died she hid in the [[place-shtrdpks|Shattered Peaks]]—at a spot only Linta knows how to reach—the proof she had gathered of a conspiracy inside the Mercenaries' Guild: senior officers in league with bandit companies, arranging the robberies and sharing the indemnities paid out on a lost caravan. Linta can expose it and break the guild she helped build, or keep silent and live with what she knows.
 
-3. **The Refugee Caravan**: Linta is hired to protect a caravan of refugees fleeing political persecution in a neighboring kingdom. Unlike her usual merchant runs, these people are desperate, poor, and vulnerable. When the pursuers catch up—elite cavalry sent by the persecuting kingdom—Linta finds herself defending civilians rather than cargo. The situation forces her to choose between her sworn duty to protect goods and her unexpected maternal instinct to shield the refugees, particularly a young girl who reminds her of herself at that age.
+The Refugee Caravan
+: Linta is hired to protect a caravan of refugees fleeing political persecution in a neighboring kingdom. Unlike her usual merchant runs, these people are desperate, poor, and vulnerable. When the pursuers catch up—elite cavalry sent by the persecuting kingdom—Linta finds herself defending civilians rather than cargo. The situation forces her to choose between her sworn duty to protect goods and her unexpected maternal instinct to shield the refugees, particularly a young girl who reminds her of herself at that age.
 
-4. **Bandit Leader's Daughter**: Kraed Hardscale, the bandit leader who has sworn to kill Linta, sends an unexpected visitor—his own daughter, a skilled archer named **Lyra Hardscale**, who reveals that she can no longer support her father's violent methods. Lyra offers to spy on her father's organization from within, helping Linta dismantle the Crimson Jackals. Whether the enemy's daughter can be trusted is an open question, and if her father discovers the betrayal, Lyra will almost certainly be executed. This alliance could solve Linta's bandit problem, but at the cost of becoming responsible for a young woman's life.
+Bandit Leader's Daughter
+: Kraed Hardscale, the bandit leader who has sworn to kill Linta, sends an unexpected visitor—his own daughter, a skilled archer named **Lyra Hardscale**, who reveals that she can no longer support her father's violent methods. Lyra offers to spy on her father's organization from within, helping Linta dismantle the Crimson Jackals. Whether the enemy's daughter can be trusted is an open question, and if her father discovers the betrayal, Lyra will almost certainly be executed. This alliance could solve Linta's bandit problem, but at the cost of becoming responsible for a young woman's life.
 
-5. **The Caravan Beyond the Maps**: An aging cartographer seeking to complete his life's work hires Linta to guide a small expedition into unmapped territory beyond the known trade routes. The regions he wishes to explore are rumored to be haunted by ancient spirits and inhabited by dangerous creatures never documented. As Linta leads them deeper into the unknown, she discovers ruins suggesting a lost civilization far more advanced than the current empire, and evidence that something ancient and immensely powerful sleeps in the depths. The cartographer reveals he is not simply curious—he believes these ruins contain knowledge that could transform the entire empire, and he is willing to stop at nothing to claim it.
+The Caravan Beyond the Maps
+: An aging cartographer seeking to complete his life's work hires Linta to guide a small expedition into unmapped territory beyond the known trade routes. The regions he wishes to explore are rumored to be haunted by ancient spirits and inhabited by dangerous creatures never documented. As Linta leads them deeper into the unknown, she discovers ruins suggesting a lost civilization far more advanced than the current empire, and evidence that something ancient and immensely powerful sleeps in the depths. The cartographer reveals he is not simply curious—he believes these ruins contain knowledge that could transform the entire empire, and he is willing to stop at nothing to claim it.

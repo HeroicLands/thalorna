@@ -20,7 +20,14 @@ data:
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The imperial city
-- [[lore-psaqarudty|Saq'aru]]—The craft-god whose temple crowns it
-- [[place-garmedjatozo|Gar-Medjatozo]]—The bureau district
-- [[place-waligelu|Wal-Igelu]]—The Drowned Way
+[[place-galezkara|Galezkara]]
+: The imperial city
+
+[[lore-psaqarudty|Saq'aru]]
+: The craft-god whose temple crowns it
+
+[[place-garmedjatozo|Gar-Medjatozo]]
+: The bureau district
+
+[[place-waligelu|Wal-Igelu]]
+: The Drowned Way

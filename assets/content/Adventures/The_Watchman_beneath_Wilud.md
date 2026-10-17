@@ -302,11 +302,26 @@ The man in the pan is Kesukenod's partner. His chest carries the same palm marks
 
 ## See Also
 
-- [[place-bolidqiso|Bolidqiiso]]—the counting-house tower
-- [[place-wilud|Vulud]]—the half-buried city
-- [[lore-towercities|The Tower Cities]]—the league that built it
-- [[lore-golemcrtr|Constructs]]—what the watchman is
-- [[lore-roadnights|The Nights of the Road]]—Uruvolun's tale of the street sold twice
-- [[affiliation-rwlstrb|Uruvolur]]—the guide's people
-- [[being-bnscrpn|Bone Scorpion]]—the guardians of the shaded hall
-- [[being-numek|Numaq]]—the roost in the lamp-stair
+[[place-bolidqiso|Bolidqiiso]]
+: the counting-house tower
+
+[[place-wilud|Vulud]]
+: the half-buried city
+
+[[lore-towercities|The Tower Cities]]
+: the league that built it
+
+[[lore-golemcrtr|Constructs]]
+: what the watchman is
+
+[[lore-roadnights|The Nights of the Road]]
+: Uruvolun's tale of the street sold twice
+
+[[affiliation-rwlstrb|Uruvolur]]
+: the guide's people
+
+[[being-bnscrpn|Bone Scorpion]]
+: the guardians of the shaded hall
+
+[[being-numek|Numaq]]
+: the roost in the lamp-stair

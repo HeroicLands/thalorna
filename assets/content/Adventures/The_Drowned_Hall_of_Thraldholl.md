@@ -120,9 +120,20 @@ All of this is [[lore-theshadow|the Shadow]] working on the drowned, and on a gr
 
 ## See Also
 
-- [[place-thraldholl|Thraldholl]]—the sea-cave and its hall
-- [[place-vrathavn|Vrathavn]]—the harbor town that raises its stones on the cape
-- [[place-shieldhall|The Shield-Hall]]—where the bereaved bring their questions
-- [[lore-jol|Jel]]—the Jel-Ride and the longest night
-- [[affiliation-nghtwghtcncl|Nightwight Council]]—the cabal that lends the jarl its craft
-- [[lore-theshadow|The Shadow]]—what binds the drowned
+[[place-thraldholl|Thraldholl]]
+: the sea-cave and its hall
+
+[[place-vrathavn|Vrathavn]]
+: the harbor town that raises its stones on the cape
+
+[[place-shieldhall|The Shield-Hall]]
+: where the bereaved bring their questions
+
+[[lore-jol|Jel]]
+: the Jel-Ride and the longest night
+
+[[affiliation-nghtwghtcncl|Nightwight Council]]
+: the cabal that lends the jarl its craft
+
+[[lore-theshadow|The Shadow]]
+: what binds the drowned

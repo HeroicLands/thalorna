@@ -111,8 +111,17 @@ The Province of Salkalon uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden 
 
 ## See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]]—parent polity
-- [[place-salkhalon|Salkalon]]—the land the province holds
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—commercial rival and trading partner
-- [[place-vylarianse|Vylarian Sea]]—maritime domain
-- [[affiliation-provinclys|Province of Alessa]], [[affiliation-provnchyln|Province of Hilen]], [[affiliation-provncmktr|Province of Moktur]]—sister provinces
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: parent polity
+
+[[place-salkhalon|Salkalon]]
+: the land the province holds
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: commercial rival and trading partner
+
+[[place-vylarianse|Vylarian Sea]]
+: maritime domain
+
+[[affiliation-provinclys|Province of Alessa]], [[affiliation-provnchyln|Province of Hilen]], [[affiliation-provncmktr|Province of Moktur]]
+: sister provinces

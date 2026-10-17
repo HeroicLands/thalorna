@@ -435,10 +435,14 @@ The crown's Purveyor, who may take his goods for the household at the crown's pr
 
 ## Plot Hooks
 
-1. **The Purveyance**—The Purveyor has requisitioned Dunred's whole stock of cloth for the coronation at the crown's price, a third of what it cost him. He can refuse and lose the household, or accept and lose the year.
+The Purveyance
+: The Purveyor has requisitioned Dunred's whole stock of cloth for the coronation at the crown's price, a third of what it cost him. He can refuse and lose the household, or accept and lose the year.
 
-2. **The Raider's Bolt**—A bolt of [[lore-provenzianclt|Provenzian]] silk has come to Dunred cheap through a harbor in [[place-stormveld|Stormveld]], off a ship the [[lore-nordheimnclt|Nordheimn]] took. The baron who wants it has a son who died on that ship.
+The Raider's Bolt
+: A bolt of [[lore-provenzianclt|Provenzian]] silk has come to Dunred cheap through a harbor in [[place-stormveld|Stormveld]], off a ship the [[lore-nordheimnclt|Nordheimn]] took. The baron who wants it has a son who died on that ship.
 
-3. **The Descent**—The court is coming to Kingshollow a month early, and the steward has asked for a feast's worth of plate and hangings that are still at sea.
+The Descent
+: The court is coming to Kingshollow a month early, and the steward has asked for a feast's worth of plate and hangings that are still at sea.
 
-4. **The Baron's Account**—A baron owes Dunred two years' custom and has just been named to the king's council. Pressing the debt would end the trade; forgiving it would end the house.
+The Baron's Account
+: A baron owes Dunred two years' custom and has just been named to the king's council. Pressing the debt would end the trade; forgiving it would end the house.

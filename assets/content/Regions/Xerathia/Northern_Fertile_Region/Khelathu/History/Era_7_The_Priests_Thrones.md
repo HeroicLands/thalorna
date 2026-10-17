@@ -36,6 +36,11 @@ The age leaves three things on the ground. The Chariot Field at Khelaga is the t
 
 ## See Also
 
-- [[lore-akhstruckhs|The Struck House]] · [[lore-akhhsmeqes|The House of Meqes]]—the ages on either side
-- [[lore-garauu|Gar-Auu]]—the king-list, with every house of the age
-- [[place-chariotfld|The Chariot Field]] · [[place-shortway|The Short Way of Amralo'Methu]]—what the age left on the ground
+[[lore-akhstruckhs|The Struck House]] · [[lore-akhhsmeqes|The House of Meqes]]
+: the ages on either side
+
+[[lore-garauu|Gar-Auu]]
+: the king-list, with every house of the age
+
+[[place-chariotfld|The Chariot Field]] · [[place-shortway|The Short Way of Amralo'Methu]]
+: what the age left on the ground

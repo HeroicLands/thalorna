@@ -435,12 +435,17 @@ Some prisoners who hold grudges against him.
 
 ## Plot Hooks
 
-1. **The Jailer's Dilemma**—Sedrik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+The Jailer's Dilemma
+: Sedrik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
 
-2. **Old Grudges**—Some prisoners who hold grudges against him. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: Some prisoners who hold grudges against him. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Sedrik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+Echoes of the Past
+: Something from Sedrik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Sedrik depends upon. He must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Élavendre threaten to upend the social order that Sedrik depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Sedrik the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Sedrik the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

@@ -31,7 +31,14 @@ Alchemists and mystics venture into the poisoned lands for crystalline formation
 
 ## See Also
 
-- [[affiliation-qapteltzakl|Q'aptel Tsa'kul]]—the realm of storm-priests and temple-fortresses
-- [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]]—the poisoned threshold
-- [[place-xelemchalix|Shelem Ch'alish]]—the last temple-fortress before the wastes
-- [[place-xelemixbalrgn|Shelem Ish'bal]]—the forsaken wastes beyond
+[[affiliation-qapteltzakl|Q'aptel Tsa'kul]]
+: the realm of storm-priests and temple-fortresses
+
+[[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]]
+: the poisoned threshold
+
+[[place-xelemchalix|Shelem Ch'alish]]
+: the last temple-fortress before the wastes
+
+[[place-xelemixbalrgn|Shelem Ish'bal]]
+: the forsaken wastes beyond

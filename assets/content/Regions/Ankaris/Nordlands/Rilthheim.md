@@ -18,5 +18,8 @@ A traveler who comes asking for a saga is welcome to hear it recited in the Hall
 
 ## See Also
 
-- [[being-rlthrvrnskld|Rilthorv Runaskald]]—a skald the Hall counts among its finest
-- [[affiliation-skaldscrcl|Skalds' Circle]]—the north's sworn fellowship of skalds
+[[being-rlthrvrnskld|Rilthorv Runaskald]]
+: a skald the Hall counts among its finest
+
+[[affiliation-skaldscrcl|Skalds' Circle]]
+: the north's sworn fellowship of skalds

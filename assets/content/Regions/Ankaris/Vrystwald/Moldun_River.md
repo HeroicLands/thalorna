@@ -23,6 +23,11 @@ The river is also where the forest is under threat. A Vylarian logging operation
 
 ## See Also
 
-- [[affiliation-wldjgrrndgrskld|Wuljagar of the Garskald]]—the clan's hunting company
-- [[place-blackthornrdg|Blackthorn Ridge]]—the northern bound of the same grounds
-- [[place-vrystwldrvrs|Vristwald Rivers]]—the river network of the forest
+[[affiliation-wldjgrrndgrskld|Wuljagar of the Garskald]]
+: the clan's hunting company
+
+[[place-blackthornrdg|Blackthorn Ridge]]
+: the northern bound of the same grounds
+
+[[place-vrystwldrvrs|Vristwald Rivers]]
+: the river network of the forest

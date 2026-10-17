@@ -444,19 +444,37 @@ There is also a will-to-power beneath his stated goals—a desire to become some
 
 ### Strengths
 
-- **Alchemical Mastery**: His understanding of chemical transformation and the behavior of materials is unequaled; he can produce results that orthodox alchemists consider impossible or merely theoretical.
-- **Forbidden Knowledge**: Through decades of research and secret studies, he has accumulated knowledge of substances and processes that exist at the very edge of what is documented or possible.
-- **Intellectual Brilliance**: His reasoning and perception are extraordinary, allowing him to recognize patterns and connections that others miss entirely.
-- **Scientific Determination**: His willingness to pursue research regardless of ethical objections or physical danger has allowed him to achieve breakthroughs that more cautious researchers would never attempt.
-- **Medicinal Understanding**: His knowledge of herbs, poisons, and pharmaceutical compounds is encyclopedic, making him capable of diagnosing and treating conditions that baffle conventional physicians.
+Alchemical Mastery
+: His understanding of chemical transformation and the behavior of materials is unequaled; he can produce results that orthodox alchemists consider impossible or merely theoretical.
+
+Forbidden Knowledge
+: Through decades of research and secret studies, he has accumulated knowledge of substances and processes that exist at the very edge of what is documented or possible.
+
+Intellectual Brilliance
+: His reasoning and perception are extraordinary, allowing him to recognize patterns and connections that others miss entirely.
+
+Scientific Determination
+: His willingness to pursue research regardless of ethical objections or physical danger has allowed him to achieve breakthroughs that more cautious researchers would never attempt.
+
+Medicinal Understanding
+: His knowledge of herbs, poisons, and pharmaceutical compounds is encyclopedic, making him capable of diagnosing and treating conditions that baffle conventional physicians.
 
 ### Weaknesses
 
-- **Moral Corruption**: His willingness to conduct experiments on unwilling subjects, test untested substances on vulnerable people, and ignore ethical constraints has made him deeply dangerous and created powerful enemies.
-- **Obsessive Tunnel Vision**: His fixation on immortality has blinded him to the real breakthroughs he is achieving in conventional alchemy, and his inability to work on anything outside his obsession has isolated him from his guild.
-- **Increasing Instability**: Extended exposure to his own experimental substances and the weight of his obsession on his mind have begun manifesting in signs of madness—paranoia, irrational convictions, dangerous mood fluctuations.
-- **Physical Fragility**: Years of work with toxic substances have compromised his health; he is physically weak, prone to illness, and showing signs of long-term exposure to various poisons.
-- **Dangerous Patronage**: His dependence on **Baron Kalmethar's** support has made him vulnerable to manipulation and has tied him to a man whose own ambitions may prove catastrophic.
+Moral Corruption
+: His willingness to conduct experiments on unwilling subjects, test untested substances on vulnerable people, and ignore ethical constraints has made him deeply dangerous and created powerful enemies.
+
+Obsessive Tunnel Vision
+: His fixation on immortality has blinded him to the real breakthroughs he is achieving in conventional alchemy, and his inability to work on anything outside his obsession has isolated him from his guild.
+
+Increasing Instability
+: Extended exposure to his own experimental substances and the weight of his obsession on his mind have begun manifesting in signs of madness—paranoia, irrational convictions, dangerous mood fluctuations.
+
+Physical Fragility
+: Years of work with toxic substances have compromised his health; he is physically weak, prone to illness, and showing signs of long-term exposure to various poisons.
+
+Dangerous Patronage
+: His dependence on **Baron Kalmethar's** support has made him vulnerable to manipulation and has tied him to a man whose own ambitions may prove catastrophic.
 
 ## Social
 
@@ -489,12 +507,17 @@ The Hidden Cabal
 
 ## Plot Hooks
 
-1. **The Transformation Accelerant**: Domrithas completes what may be his greatest work—a substance that seems to arrest aging and the body's decay. He begins testing it, and the results appear miraculous. But he discovers that the substance prevents death, and it also transforms the human body into something other, something that may not be human at all. Those who take it begin to manifest strange abilities and gradual physical changes that suggest they are becoming something entirely new. Domrithas must judge whether to continue refining this transformation or destroy what he has created.
+The Transformation Accelerant
+: Domrithas completes what may be his greatest work—a substance that seems to arrest aging and the body's decay. He begins testing it, and the results appear miraculous. But he discovers that the substance prevents death, and it also transforms the human body into something other, something that may not be human at all. Those who take it begin to manifest strange abilities and gradual physical changes that suggest they are becoming something entirely new. Domrithas must judge whether to continue refining this transformation or destroy what he has created.
 
-2. **The Sister's Return**: Domrithas receives a shock that appears to destroy his fundamental understanding of reality: someone claiming to be his sister **Luvetha** appears in Nartun, alive, unchanged, requesting to speak with him. When confronted, she reveals that Domrithas's experiments did not fail—they succeeded—and she has been kept in hiding all these years. But there are complications: Luvetha claims she cannot truly die anymore and has witnessed the horrific costs of the work Domrithas has continued pursuing in her name. She confronts him with evidence of experiments he conducted on innocents in the years after her supposed death, and demands he stop before she is forced to stop him.
+The Sister's Return
+: Domrithas receives a shock that appears to destroy his fundamental understanding of reality: someone claiming to be his sister **Luvetha** appears in Nartun, alive, unchanged, requesting to speak with him. When confronted, she reveals that Domrithas's experiments did not fail—they succeeded—and she has been kept in hiding all these years. But there are complications: Luvetha claims she cannot truly die anymore and has witnessed the horrific costs of the work Domrithas has continued pursuing in her name. She confronts him with evidence of experiments he conducted on innocents in the years after her supposed death, and demands he stop before she is forced to stop him.
 
-3. **The Plague's Cure and Curse**: A plague outbreak threatens to devastate the region, and in desperation, the authorities turn to Domrithas for a cure. He produces something that seems to work—those infected are healed and recover completely. But within months, survivors begin manifesting strange symptoms: sudden, violent changes in personality, aggressive behavior, and apparent transformation toward something inhuman. Domrithas realizes his cure did not eliminate the plague—it transformed it into something worse, something that spreads through personality and behavior rather than infection. He must find a true cure before the kingdom descends into chaos.
+The Plague's Cure and Curse
+: A plague outbreak threatens to devastate the region, and in desperation, the authorities turn to Domrithas for a cure. He produces something that seems to work—those infected are healed and recover completely. But within months, survivors begin manifesting strange symptoms: sudden, violent changes in personality, aggressive behavior, and apparent transformation toward something inhuman. Domrithas realizes his cure did not eliminate the plague—it transformed it into something worse, something that spreads through personality and behavior rather than infection. He must find a true cure before the kingdom descends into chaos.
 
-4. **The Exposed Experiments**: **Master Alchemist Akethrynas** finally succeeds in publicly exposing Domrithas's experiments, revealing evidence of the unwilling subjects he has used, the deaths resulting from his work, and the moral bankruptcy of his research. The revelation triggers a formal guild investigation and criminal proceedings. Domrithas can flee (losing his laboratories and resources), attempt to defend himself (nearly impossible given the evidence), or accelerate his work in hopes of producing a breakthrough significant enough to justify his methods or powerful enough to protect him from consequences.
+The Exposed Experiments
+: **Master Alchemist Akethrynas** finally succeeds in publicly exposing Domrithas's experiments, revealing evidence of the unwilling subjects he has used, the deaths resulting from his work, and the moral bankruptcy of his research. The revelation triggers a formal guild investigation and criminal proceedings. Domrithas can flee (losing his laboratories and resources), attempt to defend himself (nearly impossible given the evidence), or accelerate his work in hopes of producing a breakthrough significant enough to justify his methods or powerful enough to protect him from consequences.
 
-5. **The Patron's Demand**: **Baron Kalmethar**, now ancient and terrified, demands that Domrithas accelerate the immortality research and provide him with a completed transformation within a specific timeframe—or face the loss of all support and protection. The timeframe is impossibly short, forcing Domrithas to make choices about which corners to cut, which safety measures to abandon, and which ethical lines to finally cross. The completion of this forced deadline will almost certainly result in catastrophic failure or in Kalmethar's transformation into something uncontrollable.
+The Patron's Demand
+: **Baron Kalmethar**, now ancient and terrified, demands that Domrithas accelerate the immortality research and provide him with a completed transformation within a specific timeframe—or face the loss of all support and protection. The timeframe is impossibly short, forcing Domrithas to make choices about which corners to cut, which safety measures to abandon, and which ethical lines to finally cross. The completion of this forced deadline will almost certainly result in catastrophic failure or in Kalmethar's transformation into something uncontrollable.

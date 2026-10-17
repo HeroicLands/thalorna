@@ -179,14 +179,29 @@ The culture's other blind side runs through the household. Women manage property
 
 ## See Also
 
-- [[affiliation-kingdmtrvn|Kingdom of Tarvena]]—the largest of the three kingdoms
-- [[place-tarvenirgn|Tarvénia Region]]—the fiefdoms, the free city and the free territory
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the gods, kept without much establishment
-- [[affiliation-ardavon|Faith of Árdavon]]—oaths, gates and the Great Temple at Polthamis
-- [[affiliation-ordrsldwrd|Order of the Sealed Word]]—the keepers of contested oaths
-- [[affiliation-twinbldrdr|Twinblade Order]]—the keepers of gates and thresholds
-- [[affiliation-ordershnvw|Order of the Ashen Vow]]—the Black Flame order the hill-baronies shelter
-- [[skill-tarvenlng|Tarveni]]—the shared tongue of the patchwork
+[[affiliation-kingdmtrvn|Kingdom of Tarvena]]
+: the largest of the three kingdoms
+
+[[place-tarvenirgn|Tarvénia Region]]
+: the fiefdoms, the free city and the free territory
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the gods, kept without much establishment
+
+[[affiliation-ardavon|Faith of Árdavon]]
+: oaths, gates and the Great Temple at Polthamis
+
+[[affiliation-ordrsldwrd|Order of the Sealed Word]]
+: the keepers of contested oaths
+
+[[affiliation-twinbldrdr|Twinblade Order]]
+: the keepers of gates and thresholds
+
+[[affiliation-ordershnvw|Order of the Ashen Vow]]
+: the Black Flame order the hill-baronies shelter
+
+[[skill-tarvenlng|Tarveni]]
+: the shared tongue of the patchwork
 
 ## Glossary {#glossary}
 

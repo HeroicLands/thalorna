@@ -71,9 +71,20 @@ Gar-Lut uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter o
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—parent selat class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—imperial overview
-- [[place-garlut|Gar-Lut]]—selat capital
-- [[affiliation-uznera|Faith of Uzn'era]]—patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—temple-treasuries
-- [[place-garlutselat|Gar-Lut Selat]]—the land the selat holds
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: parent selat class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: imperial overview
+
+[[place-garlut|Gar-Lut]]
+: selat capital
+
+[[affiliation-uznera|Faith of Uzn'era]]
+: patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: temple-treasuries
+
+[[place-garlutselat|Gar-Lut Selat]]
+: the land the selat holds

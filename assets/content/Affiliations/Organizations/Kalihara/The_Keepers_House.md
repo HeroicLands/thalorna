@@ -61,7 +61,14 @@ The House belongs to the custodianship and keeps its ranks. [[affiliation-counci
 
 ## See Also
 
-- [[place-kuomethei|Kuomethei]]—the crest village where the House keeps the count
-- [[lore-sarisul|The Tending-Stones]]—the works whose whitening the count records
-- [[lore-klhrsnctrs|The Sanctuaries of Kalihara]]—where the held stones go
-- [[affiliation-tharivaan|Thári'vaan]]—the custodians and the Rite of Last Tending
+[[place-kuomethei|Kuomethei]]
+: the crest village where the House keeps the count
+
+[[lore-sarisul|The Tending-Stones]]
+: the works whose whitening the count records
+
+[[lore-klhrsnctrs|The Sanctuaries of Kalihara]]
+: where the held stones go
+
+[[affiliation-tharivaan|Thári'vaan]]
+: the custodians and the Rite of Last Tending

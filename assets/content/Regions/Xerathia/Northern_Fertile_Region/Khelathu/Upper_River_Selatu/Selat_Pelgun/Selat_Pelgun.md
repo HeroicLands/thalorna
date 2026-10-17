@@ -37,11 +37,19 @@ The selat feeds its granaries from the flood like every [[lore-khelathiclt|Khela
 
 ## Settlements
 
-- [[place-iqu|Iku]] (~34,000)—the selat capital and the seat of the Halzi'a.
-- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+[[place-iqu|Iku]] (~34,000)
+: the selat capital and the seat of the Halzi'a.
+
+The villages and estate-towns
+: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatsltplgn|The Selat of Selat-Pelgun]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-iqu|Iku]]—Selat capital
+[[affiliation-selatsltplgn|The Selat of Selat-Pelgun]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-iqu|Iku]]
+: Selat capital

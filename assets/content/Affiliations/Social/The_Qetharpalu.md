@@ -46,4 +46,5 @@ The faction's strength is the number of seats it holds, and that sets the timeli
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the region it belongs to
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the region it belongs to

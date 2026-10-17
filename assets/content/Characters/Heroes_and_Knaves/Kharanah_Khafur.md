@@ -449,20 +449,40 @@ Kharanah is driven by a dual vision: to elevate the art of perfumery to its high
 
 ### Strengths
 
-- **Master of Botanicals**: Possesses encyclopedic knowledge of plants, minerals, and their properties. Can identify rare species by scent alone and understands their medicinal and alchemical uses in depth.
-- **Artistic Genius**: Her creativity allows her to imagine and execute fragrance compositions of breathtaking complexity and emotional resonance. Her blends tell stories and evoke deep memories.
-- **Ethical Leadership**: Holds firm principles on the husbanding of wild plants and the fair treatment of suppliers, earning her the loyalty and respect of everyone in her supply chain and inspiring competitors to reconsider their own practices.
-- **Dexterous Craftsmanship**: Superior manual skill allows her to perform delicate distillations, blend volatile essences, and inscribe fine labels with nearly supernatural precision.
-- **Perceptive Judgment**: Keen perception lets her detect subtle shifts in a scent's composition and read people's emotional states through their reactions to fragrances.
-- **Charismatic Presence**: Natural comeliness and charm make her a magnetic presence in social situations, and people instinctively trust her judgment and integrity.
+Master of Botanicals
+: Possesses encyclopedic knowledge of plants, minerals, and their properties. Can identify rare species by scent alone and understands their medicinal and alchemical uses in depth.
+
+Artistic Genius
+: Her creativity allows her to imagine and execute fragrance compositions of breathtaking complexity and emotional resonance. Her blends tell stories and evoke deep memories.
+
+Ethical Leadership
+: Holds firm principles on the husbanding of wild plants and the fair treatment of suppliers, earning her the loyalty and respect of everyone in her supply chain and inspiring competitors to reconsider their own practices.
+
+Dexterous Craftsmanship
+: Superior manual skill allows her to perform delicate distillations, blend volatile essences, and inscribe fine labels with nearly supernatural precision.
+
+Perceptive Judgment
+: Keen perception lets her detect subtle shifts in a scent's composition and read people's emotional states through their reactions to fragrances.
+
+Charismatic Presence
+: Natural comeliness and charm make her a magnetic presence in social situations, and people instinctively trust her judgment and integrity.
 
 ### Weaknesses
 
-- **Perfectionism Under Pressure**: When faced with competition or tight deadlines, her perfectionist standards can lead to decision paralysis. She sometimes cannot settle on a formula, endlessly refining when "good enough" would serve a customer adequately.
-- **Business Acumen Gaps**: Though her craft is flawless, she struggles with keeping her suppliers in order, her accounts, and her stock. She has lost money on several occasions through poor negotiation or oversight.
-- **Vulnerability to Doubt**: When criticized by someone whose judgment she respects, she questions herself deeply and can become withdrawn until she resolves the conflict internally.
-- **Limited Physical Defense**: Her focus on craft has left her with minimal training in combat or physical hardship. She is not frail, but would be outmatched in any direct confrontation.
-- **Isolation Through Excellence**: Her renown sometimes isolates her from peers. Many see her as elevated above their level, making friendship with other artisans difficult.
+Perfectionism Under Pressure
+: When faced with competition or tight deadlines, her perfectionist standards can lead to decision paralysis. She sometimes cannot settle on a formula, endlessly refining when "good enough" would serve a customer adequately.
+
+Business Acumen Gaps
+: Though her craft is flawless, she struggles with keeping her suppliers in order, her accounts, and her stock. She has lost money on several occasions through poor negotiation or oversight.
+
+Vulnerability to Doubt
+: When criticized by someone whose judgment she respects, she questions herself deeply and can become withdrawn until she resolves the conflict internally.
+
+Limited Physical Defense
+: Her focus on craft has left her with minimal training in combat or physical hardship. She is not frail, but would be outmatched in any direct confrontation.
+
+Isolation Through Excellence
+: Her renown sometimes isolates her from peers. Many see her as elevated above their level, making friendship with other artisans difficult.
 
 ## Social
 
@@ -504,12 +524,17 @@ Temple of Ahurdaen
 
 ## Plot Hooks
 
-1. **The Lost Essence**: A perfumer of the ancient age, **Saint Vurinay the Ascendant**, is said to have created a fragrance so perfectly balanced that merely smelling it could induce states of spiritual clarity. Fragments of his formula have surfaced in a crumbling monastery high in the **Kuran Mountains**, and Kharanah learns that an unscrupulous collector, **Duke Revunay**, is assembling an expedition to find it. She can let the formula remain lost, or seek it first to see it properly used. The journey will take her far from her shop and into danger—mountains harbor both natural obstacles and those who would kill for such secrets.
+The Lost Essence
+: A perfumer of the ancient age, **Saint Vurinay the Ascendant**, is said to have created a fragrance so perfectly balanced that merely smelling it could induce states of spiritual clarity. Fragments of his formula have surfaced in a crumbling monastery high in the **Kuran Mountains**, and Kharanah learns that an unscrupulous collector, **Duke Revunay**, is assembling an expedition to find it. She can let the formula remain lost, or seek it first to see it properly used. The journey will take her far from her shop and into danger—mountains harbor both natural obstacles and those who would kill for such secrets.
 
-2. **The Plague Blooms**: A mysterious blight spreads through the Khazryn Desert, causing certain rare flowers—sources for three of Kharanah's most precious essences—to wither and die. The blight moves too methodically to be natural, and she suspects sabotage. Investigation leads her to discover that **Makuth** has hired desert nomads to poison her supplier's gardens, hoping to force her out of business. She must deal with tribal politics, prove the sabotage, and find a way to preserve the threatened species before they vanish forever.
+The Plague Blooms
+: A mysterious blight spreads through the Khazryn Desert, causing certain rare flowers—sources for three of Kharanah's most precious essences—to wither and die. The blight moves too methodically to be natural, and she suspects sabotage. Investigation leads her to discover that **Makuth** has hired desert nomads to poison her supplier's gardens, hoping to force her out of business. She must deal with tribal politics, prove the sabotage, and find a way to preserve the threatened species before they vanish forever.
 
-3. **The Alchemist's Demand**: A reclusive alchemist named **Thunus** approaches Kharanah with an unusual request: she must create a fragrance designed specifically to counteract the scent-based tracking abilities of a creature—either a magical beast or a sentient being is hunting him, and he cannot reveal which. Completing this commission requires her to venture into dangerous territories to gather rare materials and may entangle her in a conflict between forces far greater than merchant houses and guild rivalries.
+The Alchemist's Demand
+: A reclusive alchemist named **Thunus** approaches Kharanah with an unusual request: she must create a fragrance designed specifically to counteract the scent-based tracking abilities of a creature—either a magical beast or a sentient being is hunting him, and he cannot reveal which. Completing this commission requires her to venture into dangerous territories to gather rare materials and may entangle her in a conflict between forces far greater than merchant houses and guild rivalries.
 
-4. **The Monastery's Succession**: When **Master Vasun's** distant cousin arrives from a remote monastery, claiming that ancient texts prove Kharanah's beloved master was duty-bound to pass on his knowledge to the priesthood rather than to her, it threatens her legitimacy. She must prove her right to his legacy and his formulas by submitting to a trial of craftsmanship overseen by the Temple, while contending with the politics of the **Priesthood of Ahurdaen**. The trial will push her to create her greatest work yet.
+The Monastery's Succession
+: When **Master Vasun's** distant cousin arrives from a remote monastery, claiming that ancient texts prove Kharanah's beloved master was duty-bound to pass on his knowledge to the priesthood rather than to her, it threatens her legitimacy. She must prove her right to his legacy and his formulas by submitting to a trial of craftsmanship overseen by the Temple, while contending with the politics of the **Priesthood of Ahurdaen**. The trial will push her to create her greatest work yet.
 
-5. **The Merchant Fleet's Gambit**: A major caravan enterprise headed by **Merchant Princess Sunhema** proposes a bold venture: fund an expedition to a fabled land across the desert where unique plants are said to grow nowhere else in the world. The investment would transform Kharanah's business but carries significant risk. The choice is between the safety of her current success and a once-in-a-lifetime opportunity that could make her name—or destroy everything she has built.
+The Merchant Fleet's Gambit
+: A major caravan enterprise headed by **Merchant Princess Sunhema** proposes a bold venture: fund an expedition to a fabled land across the desert where unique plants are said to grow nowhere else in the world. The investment would transform Kharanah's business but carries significant risk. The choice is between the safety of her current success and a once-in-a-lifetime opportunity that could make her name—or destroy everything she has built.

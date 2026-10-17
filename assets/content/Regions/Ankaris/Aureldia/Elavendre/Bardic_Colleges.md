@@ -46,9 +46,14 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-- **Type:** Institutions of music, memory, magic, and diplomacy
-- **Region:** [[place-elavendre|Élavendre]]
-- **Tradition:** [[lore-pelwarpepl|Pelwar People]] / [[lore-aelendnppl|Áelendi]] ancestral
+Type
+: Institutions of music, memory, magic, and diplomacy
+
+Region
+: [[place-elavendre|Élavendre]]
+
+Tradition
+: [[lore-pelwarpepl|Pelwar People]] / [[lore-aelendnppl|Áelendi]] ancestral
 
 ## Overview
 
@@ -60,12 +65,23 @@ The Colleges trace their origins to the earliest Pelwar bardic traditions carrie
 
 The Bardic curriculum is famously broad. A fully trained bard is expected to be competent in:
 
-- **Music**—Composition, performance, improvisation, and mastery of multiple instruments. The harp is the principal bardic instrument, but the Colleges train bards on strings, winds, and percussion as the material demands.
-- **Oral poetry and storytelling**—The preservation, composition, and performance of the long poetic forms that structure Élavendren cultural memory. Bards are expected to carry epics of many hours' length in memory and to perform them on demand.
-- **Genealogy and history**—The noble houses of Élavendre set great store by accurate lineage, and the Colleges are the kingdom's definitive authority on the question of who is descended from whom ([[lore-sorvandaclose|The Sórvanda Closing]]).
-- **Languages**—All Pelwar descendants are taught to some degree, along with the principal Ankarian trade languages. The most learned bards also study the [[skill-aelendlng|Áelendi Language]] and, in rare cases, fragments of the [[skill-sinalelng|Sinale Language]].
-- **Bardic magic**—The old magical traditions of Élavendre, distinct from the institutional arcana of [[affiliation-ordoarcanis|Thordimalon]]. These include song-binding, memory-shaping, and various forms of inspiration and dispiriting magic that operate through voice and narrative. The Colleges do not teach these openly to outsiders, and their exact mechanisms are closely held.
-- **Diplomacy and statecraft**—Many bards serve as envoys and advisors to noble houses and foreign courts. The Colleges train their students in protocol, persuasion, and the particular arts of gathering information without seeming to do so.
+Music
+: Composition, performance, improvisation, and mastery of multiple instruments. The harp is the principal bardic instrument, but the Colleges train bards on strings, winds, and percussion as the material demands.
+
+Oral poetry and storytelling
+: The preservation, composition, and performance of the long poetic forms that structure Élavendren cultural memory. Bards are expected to carry epics of many hours' length in memory and to perform them on demand.
+
+Genealogy and history
+: The noble houses of Élavendre set great store by accurate lineage, and the Colleges are the kingdom's definitive authority on the question of who is descended from whom ([[lore-sorvandaclose|The Sórvanda Closing]]).
+
+Languages
+: All Pelwar descendants are taught to some degree, along with the principal Ankarian trade languages. The most learned bards also study the [[skill-aelendlng|Áelendi Language]] and, in rare cases, fragments of the [[skill-sinalelng|Sinale Language]].
+
+Bardic magic
+: The old magical traditions of Élavendre, distinct from the institutional arcana of [[affiliation-ordoarcanis|Thordimalon]]. These include song-binding, memory-shaping, and various forms of inspiration and dispiriting magic that operate through voice and narrative. The Colleges do not teach these openly to outsiders, and their exact mechanisms are closely held.
+
+Diplomacy and statecraft
+: Many bards serve as envoys and advisors to noble houses and foreign courts. The Colleges train their students in protocol, persuasion, and the particular arts of gathering information without seeming to do so.
 
 ## The Bardic Circle
 
@@ -83,9 +99,20 @@ The Bardic Colleges operate with considerable institutional independence, but th
 
 ## See Also
 
-- [[place-elavendre|Élavendre]]—The kingdom in which the Colleges are based
-- [[lore-aelendnppl|Áelendi]]—The ancestral people whose bardic tradition the Colleges preserve
-- [[lore-pelwarpepl|Pelwar People]]—The deeper ancestral tradition
-- [[affiliation-ordoarcanis|Thordimalon]]—The principal institutional rival
-- [[place-silvrfrsts|The Silver Forests]]—Source of many bardic songs
-- [[lore-faecourts|The Fae Courts]]—Subject of ancient bardic tradition
+[[place-elavendre|Élavendre]]
+: The kingdom in which the Colleges are based
+
+[[lore-aelendnppl|Áelendi]]
+: The ancestral people whose bardic tradition the Colleges preserve
+
+[[lore-pelwarpepl|Pelwar People]]
+: The deeper ancestral tradition
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: The principal institutional rival
+
+[[place-silvrfrsts|The Silver Forests]]
+: Source of many bardic songs
+
+[[lore-faecourts|The Fae Courts]]
+: Subject of ancient bardic tradition

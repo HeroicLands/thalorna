@@ -28,5 +28,8 @@ Hnarvdal's fell is the setting of the kingdom's best-known tale of a seer. **Vel
 
 ## See Also
 
-- [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the kingdom whose years this valley counts
-- [[place-vithgard|Vithgard]]—the land the kingdom holds
+[[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
+: the kingdom whose years this valley counts
+
+[[place-vithgard|Vithgard]]
+: the land the kingdom holds

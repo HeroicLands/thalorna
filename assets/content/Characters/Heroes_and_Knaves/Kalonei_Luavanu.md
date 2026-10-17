@@ -454,43 +454,83 @@ He also wants to show that a humble trade can hold as much mastery as any learne
 
 ### Strengths
 
-- **Fire**: he understands burning by instinct, holds a kiln's heat exactly where he wants it and can tell how a burn will end before it is half done.
-- **Method**: he tests every change and records the results in journals that by now make a library of the craft.
-- **Wood**: he judges a log's kind, dryness and yield at a glance, and chooses his wood accordingly.
-- **Reliability**: buyers of his charcoal know exactly what they are getting, and that certainty is worth his prices.
-- **Teaching**: the few apprentices he accepts learn both the technique and the reverence behind it.
+Fire
+: he understands burning by instinct, holds a kiln's heat exactly where he wants it and can tell how a burn will end before it is half done.
+
+Method
+: he tests every change and records the results in journals that by now make a library of the craft.
+
+Wood
+: he judges a log's kind, dryness and yield at a glance, and chooses his wood accordingly.
+
+Reliability
+: buyers of his charcoal know exactly what they are getting, and that certainty is worth his prices.
+
+Teaching
+: the few apprentices he accepts learn both the technique and the reverence behind it.
 
 ### Weaknesses
 
-- **Perfectionism**: he will hold back a delivery for an improvement no buyer could detect, and loses customers and money by it.
-- **Silence**: he says so little that he seems curt or dismissive, and puts off people who could help him.
-- **Inflexibility**: inventive inside his craft, he resists every demand from outside it.
-- **Solitude**: his work leaves no room for the friendships and alliances that would protect his interests.
-- **Pride**: anyone who flatters his skill can talk him into spending his resources on schemes that do not serve him.
+Perfectionism
+: he will hold back a delivery for an improvement no buyer could detect, and loses customers and money by it.
+
+Silence
+: he says so little that he seems curt or dismissive, and puts off people who could help him.
+
+Inflexibility
+: inventive inside his craft, he resists every demand from outside it.
+
+Solitude
+: his work leaves no room for the friendships and alliances that would protect his interests.
+
+Pride
+: anyone who flatters his skill can talk him into spending his resources on schemes that do not serve him.
 
 ## Social
 
 ### Patrons
 
-- **Master Smith Melovai**: a famous Ilovanu smith whose forges burn nothing but Kalonei's charcoal, and whose public praise has sent other smiths looking for the same edge.
-- **The Wardens' Armory**: the armory of the Wardens of the Approaches, which forges the blades and boat-fittings of the pilots and the harbor watch and buys his charcoal for the purpose, steadily if not always promptly.
-- **Merchant-Artificer Sornak**: a dealer in fine tools and materials who holds the sole right to sell Kalonei's best charcoal in the three smaller ports.
+Master Smith Melovai
+: a famous Ilovanu smith whose forges burn nothing but Kalonei's charcoal, and whose public praise has sent other smiths looking for the same edge.
+
+The Wardens' Armory
+: the armory of the Wardens of the Approaches, which forges the blades and boat-fittings of the pilots and the harbor watch and buys his charcoal for the purpose, steadily if not always promptly.
+
+Merchant-Artificer Sornak
+: a dealer in fine tools and materials who holds the sole right to sell Kalonei's best charcoal in the three smaller ports.
 
 ### Enemies
 
-- **The Bulk Producers**: an association of larger charcoaling yards that sees his prices and methods as a threat. They spread rumors about his reliability and try to lure away his best buyers.
-- **The harbor factors**: the port's smiths and the foreign hulls that load charcoal for the voyage home want ever more of it, and the factors who broker it count Kalonei's refusal to burn more as an obstruction to trade.
-- **Rival Craftsman Olunavi**: a charcoaler who tried to copy Kalonei's methods and failed, and who tells the quarter that Kalonei hoards secrets, sooner than admit his own work is worse.
+The Bulk Producers
+: an association of larger charcoaling yards that sees his prices and methods as a threat. They spread rumors about his reliability and try to lure away his best buyers.
+
+The harbor factors
+: the port's smiths and the foreign hulls that load charcoal for the voyage home want ever more of it, and the factors who broker it count Kalonei's refusal to burn more as an obstruction to trade.
+
+Rival Craftsman Olunavi
+: a charcoaler who tried to copy Kalonei's methods and failed, and who tells the quarter that Kalonei hoards secrets, sooner than admit his own work is worse.
 
 ### Affiliations
 
-- [[affiliation-kalihara|Kalihara]]: an islander's standing among the port Kaliharans, and the standard-bearer of quality in the Charcoalers' Guild of the port, increasingly at odds with its push to burn more and burn faster.
-- [[affiliation-sacredforge|The Sacred Forge]]: a quiet member of the Order of Ústaron's Flame, the fellowship of fire-workers—smiths, brewers, potters and charcoalers—attached to the god's temple in the foreign quarter.
+[[affiliation-kalihara|Kalihara]]
+: an islander's standing among the port Kaliharans, and the standard-bearer of quality in the Charcoalers' Guild of the port, increasingly at odds with its push to burn more and burn faster.
+
+[[affiliation-sacredforge|The Sacred Forge]]
+: a quiet member of the Order of Ústaron's Flame, the fellowship of fire-workers—smiths, brewers, potters and charcoalers—attached to the god's temple in the foreign quarter.
 
 ## Plot Hooks
 
-1. **The Commission of Urgency**: A foreign agent arrives in Ilovanu with an enormous order: enough charcoal to fire the forges of an army fitting out across the water for a war of conquest. The price would make Kalonei rich for life, and meeting it would mean bad wood and rushed burns. The harbor factors press him to accept for the port's sake. Kalonei must weigh his craft against the trade, and find out whose war his fire would feed, and whether the Wardens would let it sail.
-2. **The Contaminated Source**: The coppiced woodland that has supplied his kilns for twenty years has been secretly cut by someone else and replanted with poor trees. Someone has sabotaged his supply on purpose, probably a rival, and Kalonei must find who, and decide whether to retaliate, move his kilns or find new wood without lowering his standards.
-3. **The Apprentice's Tragedy**: An apprentice Kalonei has been training is caught stealing from the kilns and selling poor charcoal under his master's name. The betrayal wounds Kalonei as a craftsman, a teacher and a believer. He must choose between handing the boy to the guild, learning what drove him to it—hunger, or a rival's pressure—and finding a way to protect his name that still leaves the boy a road back.
-4. **The Innovation Demand**: A brilliant, impatient young inventor brings Kalonei a design for a new kiln that could burn three times as much without, he claims, losing quality, and backers among the great merchant houses are ready to pay for it. Kalonei is fascinated by the idea and deeply suspicious of speed and size. He must risk his name on an experiment or watch others build it without him.
-5. **The Sacred Affront**: The temple of Ústaron in the foreign quarter announces that it will pull down the old communal kilns that have burned behind the harbor for centuries and replace them with one great kiln-yard under its own management, a hotter and purer fire for the god. To Kalonei the old kilns are holy ground, where generations of charcoalers have worked and prayed. He must decide whether to oppose a priesthood he reveres, and whether he can win allies among the port's Kaliharans, for whom a practice kept exactly for centuries is not lightly changed.
+The Commission of Urgency
+: A foreign agent arrives in Ilovanu with an enormous order: enough charcoal to fire the forges of an army fitting out across the water for a war of conquest. The price would make Kalonei rich for life, and meeting it would mean bad wood and rushed burns. The harbor factors press him to accept for the port's sake. Kalonei must weigh his craft against the trade, and find out whose war his fire would feed, and whether the Wardens would let it sail.
+
+The Contaminated Source
+: The coppiced woodland that has supplied his kilns for twenty years has been secretly cut by someone else and replanted with poor trees. Someone has sabotaged his supply on purpose, probably a rival, and Kalonei must find who, and decide whether to retaliate, move his kilns or find new wood without lowering his standards.
+
+The Apprentice's Tragedy
+: An apprentice Kalonei has been training is caught stealing from the kilns and selling poor charcoal under his master's name. The betrayal wounds Kalonei as a craftsman, a teacher and a believer. He must choose between handing the boy to the guild, learning what drove him to it—hunger, or a rival's pressure—and finding a way to protect his name that still leaves the boy a road back.
+
+The Innovation Demand
+: A brilliant, impatient young inventor brings Kalonei a design for a new kiln that could burn three times as much without, he claims, losing quality, and backers among the great merchant houses are ready to pay for it. Kalonei is fascinated by the idea and deeply suspicious of speed and size. He must risk his name on an experiment or watch others build it without him.
+
+The Sacred Affront
+: The temple of Ústaron in the foreign quarter announces that it will pull down the old communal kilns that have burned behind the harbor for centuries and replace them with one great kiln-yard under its own management, a hotter and purer fire for the god. To Kalonei the old kilns are holy ground, where generations of charcoalers have worked and prayed. He must decide whether to oppose a priesthood he reveres, and whether he can win allies among the port's Kaliharans, for whom a practice kept exactly for centuries is not lightly changed.

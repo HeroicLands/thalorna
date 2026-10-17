@@ -45,10 +45,17 @@ data:
 sohl: {system: {commonSkills: [sohl-sohl-skill-melee, sohl-sohl-skill-dscr, sohl-sohl-skill-srvl]}}
 ---
 
-- **Type:** Nihilistic apocalyptic cult
-- **Region:** [[affiliation-tantsouempr|Empire of Tantsou]]
-- **Composition:** Lower-caste recruits, displaced and condemned persons, Demon Lord devotees
-- **Tantsou:** _Nuotsou Rui_—"the sect of the forsaken" or "the gathering of the cast-aside"
+Type
+: Nihilistic apocalyptic cult
+
+Region
+: [[affiliation-tantsouempr|Empire of Tantsou]]
+
+Composition
+: Lower-caste recruits, displaced and condemned persons, Demon Lord devotees
+
+Tantsou
+: _Nuotsou Rui_—"the sect of the forsaken" or "the gathering of the cast-aside"
 
 ## Overview
 
@@ -116,9 +123,14 @@ The Lotus's leadership is aware that the cult's ultimate aim is incompatible wit
 
 ## Relations with Other Subversives
 
-- **[[affiliation-hazhao|Ha Zhao]] (The Shadow Sect)**—Cold. The Shadow Sect's project of building a reformed magical order is, in cult eyes, a naive continuation of the same errors that produced the empire. The Sect, for its part, regards the cult's nihilism as a gift to imperial counter-propaganda—every cult atrocity is used by the imperial authorities to tar all subversive movements with the same brush. The two organizations avoid direct contact where possible.
-- **[Merchant Uprising]{.name data-type="affiliation"}**—Hostile. The Merchant Uprising's goal of political representation within the classification system is the very accommodation the cult was founded to oppose. The cult has actively targeted Uprising organizers on several occasions, and the Uprising regards the cult as effectively an arm of the imperial status quo's propaganda (because the cult's existence justifies the imperial claim that reform is impossible).
-- **The Leigen (Spirit Masters)**—Intermittent and dangerous. A small number of Leigen have, in secret, made themselves available to the cult for consulting work on the most spiritually delicate operations—desecrations, moral-ledger corruption, and the adaptation of foreign ritual techniques to the Tantsou cosmological context. The price is extraordinary, and the Leigen who undertake such work face consequences of their own that they appear willing to accept.
+[[affiliation-hazhao|Ha Zhao]] (The Shadow Sect)
+: Cold. The Shadow Sect's project of building a reformed magical order is, in cult eyes, a naive continuation of the same errors that produced the empire. The Sect, for its part, regards the cult's nihilism as a gift to imperial counter-propaganda—every cult atrocity is used by the imperial authorities to tar all subversive movements with the same brush. The two organizations avoid direct contact where possible.
+
+[Merchant Uprising]{.name data-type="affiliation"}
+: Hostile. The Merchant Uprising's goal of political representation within the classification system is the very accommodation the cult was founded to oppose. The cult has actively targeted Uprising organizers on several occasions, and the Uprising regards the cult as effectively an arm of the imperial status quo's propaganda (because the cult's existence justifies the imperial claim that reform is impossible).
+
+The Leigen (Spirit Masters)
+: Intermittent and dangerous. A small number of Leigen have, in secret, made themselves available to the cult for consulting work on the most spiritually delicate operations—desecrations, moral-ledger corruption, and the adaptation of foreign ritual techniques to the Tantsou cosmological context. The price is extraordinary, and the Leigen who undertake such work face consequences of their own that they appear willing to accept.
 
 ## Structure
 
@@ -132,14 +144,35 @@ Breaking with a cell is rare. Those who join do not usually leave, and one who d
 
 ## See Also
 
-- [[affiliation-haluozhao|Ha Luo Zhao]]—The Black Lotus Society, the cult's transactional ally
-- [[affiliation-hazhao|Ha Zhao]]—The Shadow Sect, the rival subversive organization
-- [[affiliation-nuoho|Nuoho]]—The Unmaker, the cult's primary celestial patron
-- [[affiliation-watsai|Watsai]]—The Forger of False Records, patron of the cult's bureaucratic sabotage
-- [[affiliation-zhaosou|Zhaosou]]—The Walking Contradiction, patron of the classification-condemned
-- [[affiliation-henzhuo|Hénzhuo]]—The First Refusal, the cult's foundational theological figure
-- [[affiliation-douyo|Douyo]]—The Lost Road, lesser patron of misdirection and escape
-- [[lore-undead|Undead]]—The cult's signature weapon of disruption, created through the Demon Lords' gift
-- [[lore-weizhairui|Wei Zhai Rui]]—The court intrigue that produces many of the cult's recruits
-- [[lore-castelaws|Caste Laws]]—The classification system the cult exists to destroy
-- [[affiliation-tantsouempr|Empire of Tantsou]]—The empire the cult intends to annihilate
+[[affiliation-haluozhao|Ha Luo Zhao]]
+: The Black Lotus Society, the cult's transactional ally
+
+[[affiliation-hazhao|Ha Zhao]]
+: The Shadow Sect, the rival subversive organization
+
+[[affiliation-nuoho|Nuoho]]
+: The Unmaker, the cult's primary celestial patron
+
+[[affiliation-watsai|Watsai]]
+: The Forger of False Records, patron of the cult's bureaucratic sabotage
+
+[[affiliation-zhaosou|Zhaosou]]
+: The Walking Contradiction, patron of the classification-condemned
+
+[[affiliation-henzhuo|Hénzhuo]]
+: The First Refusal, the cult's foundational theological figure
+
+[[affiliation-douyo|Douyo]]
+: The Lost Road, lesser patron of misdirection and escape
+
+[[lore-undead|Undead]]
+: The cult's signature weapon of disruption, created through the Demon Lords' gift
+
+[[lore-weizhairui|Wei Zhai Rui]]
+: The court intrigue that produces many of the cult's recruits
+
+[[lore-castelaws|Caste Laws]]
+: The classification system the cult exists to destroy
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: The empire the cult intends to annihilate

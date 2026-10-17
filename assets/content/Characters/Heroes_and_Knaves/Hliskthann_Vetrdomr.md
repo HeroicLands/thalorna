@@ -447,17 +447,31 @@ Hliskthann is motivated by a simple but deep desire to provide protection and co
 
 ### Strengths
 
-- **Expert Weather Prediction**: Hliskthann's intimate knowledge of regional climate patterns allows him to design roofs perfectly suited to their environment. He can predict problems years in advance and build preventively.
-- **Craftsmanship**: Every straw is placed with intention. His roofs are models of durability and function, often lasting two generations before significant repair is needed.
-- **Materials Knowledge**: Hliskthann understands the properties of every material available in his region—which grasses are most resilient, how to treat them for longevity, which woods provide the best support structure.
-- **Problem-Solving**: When encountering unusual architectural challenges or deteriorated structures, Hliskthann has an almost intuitive ability to devise new solutions that preserve both beauty and function.
+Expert Weather Prediction
+: Hliskthann's intimate knowledge of regional climate patterns allows him to design roofs perfectly suited to their environment. He can predict problems years in advance and build preventively.
+
+Craftsmanship
+: Every straw is placed with intention. His roofs are models of durability and function, often lasting two generations before significant repair is needed.
+
+Materials Knowledge
+: Hliskthann understands the properties of every material available in his region—which grasses are most resilient, how to treat them for longevity, which woods provide the best support structure.
+
+Problem-Solving
+: When encountering unusual architectural challenges or deteriorated structures, Hliskthann has an almost intuitive ability to devise new solutions that preserve both beauty and function.
 
 ### Weaknesses
 
-- **Aging Physicality**: His body increasingly protests the demands of constant climbing and hauling. Some mornings he moves with visible stiffness, and there is real uncertainty about how many more seasons he can maintain his current pace.
-- **Limited Ambition**: Hliskthann's contentment with rural work and modest income means he has never expanded his business or sought higher-profile contracts. He is well known locally but entirely unknown beyond three provinces.
-- **Reluctance to Teach**: Though he possesses knowledge no one else has, Hliskthann is resistant to taking on apprentices, viewing formal training as incompatible with the intuitive understanding that true mastery requires.
-- **Stubbornness in Small Matters**: In personal dealings, Hliskthann can be inflexible, refusing to compromise on standards that he views as matters of principle, even when practicality would serve better.
+Aging Physicality
+: His body increasingly protests the demands of constant climbing and hauling. Some mornings he moves with visible stiffness, and there is real uncertainty about how many more seasons he can maintain his current pace.
+
+Limited Ambition
+: Hliskthann's contentment with rural work and modest income means he has never expanded his business or sought higher-profile contracts. He is well known locally but entirely unknown beyond three provinces.
+
+Reluctance to Teach
+: Though he possesses knowledge no one else has, Hliskthann is resistant to taking on apprentices, viewing formal training as incompatible with the intuitive understanding that true mastery requires.
+
+Stubbornness in Small Matters
+: In personal dealings, Hliskthann can be inflexible, refusing to compromise on standards that he views as matters of principle, even when practicality would serve better.
 
 ## Social
 
@@ -489,12 +503,17 @@ Mótefnir's rural faithful
 
 ## Plot Hooks
 
-1. **The Inheritance of Knowledge**: A scholar and collector of traditional wisdom, **Lady Dvurnthira of the Archives**, travels throughout Malagna documenting dying crafts before their knowledge vanishes. She approaches Hliskthann, asking him to become the subject of a comprehensive written record of his techniques. The question is whether his knowledge belongs to history or should die with him—and whether preserving it means surrendering his independence to a noble patron.
+The Inheritance of Knowledge
+: A scholar and collector of traditional wisdom, **Lady Dvurnthira of the Archives**, travels throughout Malagna documenting dying crafts before their knowledge vanishes. She approaches Hliskthann, asking him to become the subject of a comprehensive written record of his techniques. The question is whether his knowledge belongs to history or should die with him—and whether preserving it means surrendering his independence to a noble patron.
 
-2. **The Impossible Commission**: The ancient capital cathedral's roof—a magnificent structure from the age of legends—has developed catastrophic damage. The nobility demands restoration, but the original techniques are lost, the structure is geometrically complex beyond modern standards, and the timeline is impossible. Only Hliskthann is thought capable of tackling it. He can attempt the work (which might destroy his reputation if he fails) or refuse and watch the sacred building fall into ruin.
+The Impossible Commission
+: The ancient capital cathedral's roof—a magnificent structure from the age of legends—has developed catastrophic damage. The nobility demands restoration, but the original techniques are lost, the structure is geometrically complex beyond modern standards, and the timeline is impossible. Only Hliskthann is thought capable of tackling it. He can attempt the work (which might destroy his reputation if he fails) or refuse and watch the sacred building fall into ruin.
 
-3. **The Apprentice Problem**: A talented young woman, **Signy Stormborn**, repeatedly seeks Hliskthann out, begging to be his apprentice. She claims that her family will lose their farm if she cannot learn a trade that pays better than farming. Hliskthann's resistance softens as he realizes she represents the future—but teaching her will require adapting his solitary methods and confronting his own mortality.
+The Apprentice Problem
+: A talented young woman, **Signy Stormborn**, repeatedly seeks Hliskthann out, begging to be his apprentice. She claims that her family will lose their farm if she cannot learn a trade that pays better than farming. Hliskthann's resistance softens as he realizes she represents the future—but teaching her will require adapting his solitary methods and confronting his own mortality.
 
-4. **The Rival's Sabotage**: Mysteriously, roofs Hliskthann thatched begin failing prematurely—developing leaks and structural weaknesses far before their time. The failures damage his reputation among rural communities. Hliskthann must investigate whether Dvulgorv Swiftthatch is deliberately sabotaging his work to take his custom, or whether something worse is at work.
+The Rival's Sabotage
+: Mysteriously, roofs Hliskthann thatched begin failing prematurely—developing leaks and structural weaknesses far before their time. The failures damage his reputation among rural communities. Hliskthann must investigate whether Dvulgorv Swiftthatch is deliberately sabotaging his work to take his custom, or whether something worse is at work.
 
-5. **The Storm's Aftermath**: A catastrophic and unprecedented storm strikes the region, destroying or severely damaging dozens of structures. Hliskthann is approached by Jarl Hrindrinna and the farmers' covenant to lead reconstruction efforts, requiring him to coordinate multiple craftspeople, manage resources, and work at an intense pace despite his aging body. Success would cement his legacy; failure would leave the region vulnerable heading into winter. The work becomes a race against time, injury, and winter's onset.
+The Storm's Aftermath
+: A catastrophic and unprecedented storm strikes the region, destroying or severely damaging dozens of structures. Hliskthann is approached by Jarl Hrindrinna and the farmers' covenant to lead reconstruction efforts, requiring him to coordinate multiple craftspeople, manage resources, and work at an intense pace despite his aging body. Success would cement his legacy; failure would leave the region vulnerable heading into winter. The work becomes a race against time, injury, and winter's onset.

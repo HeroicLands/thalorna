@@ -74,8 +74,17 @@ What the outsider does not see is that the leader holds that place only while th
 
 ## See Also
 
-- [[lore-bikoclt|Biko]]—the forest peoples
-- [[place-cntrlrnfrsts|Central Rainforests]]—the forest
-- [[skill-ekpelulng|Ekpelu]]—the tongue
-- [[lore-okharinclt|Okharin]]—the northern neighbours
-- [[affiliation-nyalbleop|Leopard Totem]]—the guide of the Sengala, the southern neighbours
+[[lore-bikoclt|Biko]]
+: the forest peoples
+
+[[place-cntrlrnfrsts|Central Rainforests]]
+: the forest
+
+[[skill-ekpelulng|Ekpelu]]
+: the tongue
+
+[[lore-okharinclt|Okharin]]
+: the northern neighbours
+
+[[affiliation-nyalbleop|Leopard Totem]]
+: the guide of the Sengala, the southern neighbours

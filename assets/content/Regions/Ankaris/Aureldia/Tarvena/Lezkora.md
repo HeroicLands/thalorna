@@ -18,6 +18,11 @@ The [[affiliation-kngdmstrth|Kingdom of Asturath]] is the heartland of Tarvenan 
 
 ## See Also
 
-- [[place-asturath|Asturath]]—the mountain land the city crowns
-- [[affiliation-kngdmstrth|Kingdom of Asturath]]—the kingdom that holds it
-- [[place-kavrenath|Kávrenath]]—a frontier town of the same kingdom
+[[place-asturath|Asturath]]
+: the mountain land the city crowns
+
+[[affiliation-kngdmstrth|Kingdom of Asturath]]
+: the kingdom that holds it
+
+[[place-kavrenath|Kávrenath]]
+: a frontier town of the same kingdom

@@ -70,8 +70,17 @@ To the **north**, the archipelago's outer islands trail off into frozen seas the
 
 ## See Also
 
-- [[affiliation-jenchaiempr|Jenchai]]—the empire of Jenchai, its politics, and its culture
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the mainland empire from which the archipelago broke away
-- [[affiliation-tengwouronglei|Celestial Order]]—the shared pantheon, divergently interpreted
-- [[place-tantsouregin|Tantsou Region]]—the Tantsou mainland region
-- [[place-ankrscntnnt|Ankaris Continent]]—parent continent
+[[affiliation-jenchaiempr|Jenchai]]
+: the empire of Jenchai, its politics, and its culture
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the mainland empire from which the archipelago broke away
+
+[[affiliation-tengwouronglei|Celestial Order]]
+: the shared pantheon, divergently interpreted
+
+[[place-tantsouregin|Tantsou Region]]
+: the Tantsou mainland region
+
+[[place-ankrscntnnt|Ankaris Continent]]
+: parent continent

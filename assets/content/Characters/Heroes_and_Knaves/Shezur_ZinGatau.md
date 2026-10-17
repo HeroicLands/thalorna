@@ -446,19 +446,37 @@ Shezur seeks to leave a legacy of excellence that will outlast his mortal years.
 
 ### Strengths
 
-- **Masterful Metalcraft**: Shezur's command of the forge has no equal within a hundred leagues. His weapons and armor are known for their durability and perfect balance, often surpassing military specifications.
-- **Unyielding Work Ethic**: He labors from before dawn until long past sunset, maintaining standards that lesser craftspeople cannot sustain. His reliability is absolute—commissions are always completed on schedule.
-- **Tactical Insight**: Despite his humble profession, Shezur possesses deep understanding of how weapons will be used in combat. He designs pieces with pragmatic knowledge of warfare, making them surprisingly effective.
-- **Ritualistic Precision**: His spiritual devotion translates into close attention to detail. Every hammer strike, every fold in the metal, every fitted joint receives the care of sacred work.
-- **Merchant Relations**: Decades of dealing with military quartermaster and wealthy patrons have taught him shrewd negotiation skills and the ability to manage complex commissions.
+Masterful Metalcraft
+: Shezur's command of the forge has no equal within a hundred leagues. His weapons and armor are known for their durability and perfect balance, often surpassing military specifications.
+
+Unyielding Work Ethic
+: He labors from before dawn until long past sunset, maintaining standards that lesser craftspeople cannot sustain. His reliability is absolute—commissions are always completed on schedule.
+
+Tactical Insight
+: Despite his humble profession, Shezur possesses deep understanding of how weapons will be used in combat. He designs pieces with pragmatic knowledge of warfare, making them surprisingly effective.
+
+Ritualistic Precision
+: His spiritual devotion translates into close attention to detail. Every hammer strike, every fold in the metal, every fitted joint receives the care of sacred work.
+
+Merchant Relations
+: Decades of dealing with military quartermaster and wealthy patrons have taught him shrewd negotiation skills and the ability to manage complex commissions.
 
 ### Weaknesses
 
-- **Disdain for Artistry**: Shezur's dismissal of decorative elements alienates potential patrons and fellow craftspeople. He refuses commissions that include inlay, filigree, or embellishment, limiting his clientele.
-- **Rigidity in Design**: His insistence on proven, functional forms leaves him vulnerable to competition from those with new ideas. He struggles to adapt to new battlefield tactics that might require novel weapon designs.
-- **Poor Teaching Patience**: While he understands his craft deeply, explaining it to apprentices exhausts him. He grows frustrated with slow learners and has driven away several promising students.
-- **Social Awkwardness**: Small talk is foreign to Shezur, and his directness often reads as rudeness. He has few friends outside his trade and no social standing beyond his guild.
-- **Aging Body**: Decades of physical labor are exacting their toll. His strength, while still impressive, is waning, and he experiences chronic pain in his shoulders and back.
+Disdain for Artistry
+: Shezur's dismissal of decorative elements alienates potential patrons and fellow craftspeople. He refuses commissions that include inlay, filigree, or embellishment, limiting his clientele.
+
+Rigidity in Design
+: His insistence on proven, functional forms leaves him vulnerable to competition from those with new ideas. He struggles to adapt to new battlefield tactics that might require novel weapon designs.
+
+Poor Teaching Patience
+: While he understands his craft deeply, explaining it to apprentices exhausts him. He grows frustrated with slow learners and has driven away several promising students.
+
+Social Awkwardness
+: Small talk is foreign to Shezur, and his directness often reads as rudeness. He has few friends outside his trade and no social standing beyond his guild.
+
+Aging Body
+: Decades of physical labor are exacting their toll. His strength, while still impressive, is waning, and he experiences chronic pain in his shoulders and back.
 
 ## Social
 
@@ -497,12 +515,17 @@ Imperial Military Quartermaster's Office
 
 ## Plot Hooks
 
-1. **The Cursed Blade**: A young soldier commissions Shezur to forge a weapon to replace one lost in a skirmish, but claims the original blade "whispered to him" in dreams and guided his sword arm. Shezur, initially dismissing this as fancy, begins experiencing disturbing visions while working the metal—images of a battlefield under an unnatural mist. Investigation reveals the original weapon was forged decades ago by a metalworker now long dead, a practitioner of forbidden blood-alchemy who bound a djinn's fragment into the steel. The new blade Shezur creates risks inheriting the curse unless he can discover and perform a purification ritual. **Thaharqo's Library**, his old master's sealed collection, contains references to such magic—but Thaharqo's descendants have closed it to all outsiders.
+The Cursed Blade
+: A young soldier commissions Shezur to forge a weapon to replace one lost in a skirmish, but claims the original blade "whispered to him" in dreams and guided his sword arm. Shezur, initially dismissing this as fancy, begins experiencing disturbing visions while working the metal—images of a battlefield under an unnatural mist. Investigation reveals the original weapon was forged decades ago by a metalworker now long dead, a practitioner of forbidden blood-alchemy who bound a djinn's fragment into the steel. The new blade Shezur creates risks inheriting the curse unless he can discover and perform a purification ritual. **Thaharqo's Library**, his old master's sealed collection, contains references to such magic—but Thaharqo's descendants have closed it to all outsiders.
 
-2. **The Pretender Apprentice**: An ambitious young craftsperson calling herself **Meshlen the Talented** appears in the city, claiming to have trained under Shezur himself and establishing a competing forge. She produces decent work at significantly lower prices, undercutting his contracts. Shezur knows he never trained anyone by that name, but his denial is dismissed as a rival's jealousy. When the militia discovers that several weapons from Meshlen's forge have catastrophic flaws—blades breaking mid-combat, armor plates separating—Shezur is implicated for sabotage. The truth is far more complex: Meshlen learned her craft from Deacon [[being-khelamose|Khelamose]], a former apprentice of Shezur's who was dismissed for theft and has been slowly poisoning her raw materials to trigger failures. Shezur must prove his innocence and prevent more deaths while confronting a ghost from his past.
+The Pretender Apprentice
+: An ambitious young craftsperson calling herself **Meshlen the Talented** appears in the city, claiming to have trained under Shezur himself and establishing a competing forge. She produces decent work at significantly lower prices, undercutting his contracts. Shezur knows he never trained anyone by that name, but his denial is dismissed as a rival's jealousy. When the militia discovers that several weapons from Meshlen's forge have catastrophic flaws—blades breaking mid-combat, armor plates separating—Shezur is implicated for sabotage. The truth is far more complex: Meshlen learned her craft from Deacon [[being-khelamose|Khelamose]], a former apprentice of Shezur's who was dismissed for theft and has been slowly poisoning her raw materials to trigger failures. Shezur must prove his innocence and prevent more deaths while confronting a ghost from his past.
 
-3. **The Dragon-Steel Commission**: An aged merchant prince approaches Shezur with an unprecedented request: forge armor from the scales of a dragon, obtained at ruinous expense. The scales are harder than any known metal, and the merchant will pay enough gold to set Shezur's family for generations. However, the scales are warm to the touch and seem almost alive, resisting the hammer and occasionally glowing faintly during the night. A mysterious scholar who witnesses Shezur's work mentions in passing that dragon scales retain the echo of the creature's essence and that working with them without proper blessing could invite the dead wyrm's wrath. Shezur must weigh the honor of his craft, the need for a divine blessing, and whether some commissions are too dangerous to accept, even for a life-changing reward.
+The Dragon-Steel Commission
+: An aged merchant prince approaches Shezur with an unprecedented request: forge armor from the scales of a dragon, obtained at ruinous expense. The scales are harder than any known metal, and the merchant will pay enough gold to set Shezur's family for generations. However, the scales are warm to the touch and seem almost alive, resisting the hammer and occasionally glowing faintly during the night. A mysterious scholar who witnesses Shezur's work mentions in passing that dragon scales retain the echo of the creature's essence and that working with them without proper blessing could invite the dead wyrm's wrath. Shezur must weigh the honor of his craft, the need for a divine blessing, and whether some commissions are too dangerous to accept, even for a life-changing reward.
 
-4. **The Thief's Gold**: A heavily cloaked figure delivers a fortune in rare coins and exotic metals, commissioning an arsenal of weapons delivered in absolute secrecy to a location Shezur is forbidden to know. Every instinct screams that this work is intended for rebellion or darker purposes, violating his moral code of supplying only legitimate military forces. Yet the payment is more than the Imperial Guard spends in a year, and refusing could invite dangerous enemies. As Shezur works, soldiers and spies begin asking questions about his recent acquisitions. He can accept this doubtful work, risk his reputation by refusing, or attempt to uncover who is truly behind the commission before blood is spilled.
+The Thief's Gold
+: A heavily cloaked figure delivers a fortune in rare coins and exotic metals, commissioning an arsenal of weapons delivered in absolute secrecy to a location Shezur is forbidden to know. Every instinct screams that this work is intended for rebellion or darker purposes, violating his moral code of supplying only legitimate military forces. Yet the payment is more than the Imperial Guard spends in a year, and refusing could invite dangerous enemies. As Shezur works, soldiers and spies begin asking questions about his recent acquisitions. He can accept this doubtful work, risk his reputation by refusing, or attempt to uncover who is truly behind the commission before blood is spilled.
 
-5. **The Master's Succession**: As Shezur ages, the Imperial Metalworkers' Guild approaches him to formally designate an heir to his techniques and legacy. However, **young Djehuti**, his most promising apprentice, recently revealed a dark secret: he has been secretly studying with **Master Khelamose's workshop** to learn decorative techniques. Shezur sees this as betrayal of everything he stands for. Simultaneously, the military has begun inquiring whether Shezur would consider training military smiths officially, a position offering security but demanding he leave his independent forge. Caught between the desire to preserve his legacy and the need to keep it pure, The question is which he values more: his reputation, or those who will carry his craft forward.
+The Master's Succession
+: As Shezur ages, the Imperial Metalworkers' Guild approaches him to formally designate an heir to his techniques and legacy. However, **young Djehuti**, his most promising apprentice, recently revealed a dark secret: he has been secretly studying with **Master Khelamose's workshop** to learn decorative techniques. Shezur sees this as betrayal of everything he stands for. Simultaneously, the military has begun inquiring whether Shezur would consider training military smiths officially, a position offering security but demanding he leave his independent forge. Caught between the desire to preserve his legacy and the need to keep it pure, The question is which he values more: his reputation, or those who will carry his craft forward.

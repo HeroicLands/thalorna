@@ -157,10 +157,23 @@ Sing it low, Urzelthos, the mountain is listening.
 
 ## See Also
 
-- [[lore-blackmarshbtl|The Battle of the Black Marsh]]—the valley, the water and the eagle recovered
-- [[place-blackmarshfld|The Blood-field of the Black Marsh]]—the ground the garrisons do not look at
-- [[lore-twelfthloss|The Loss of the Twelfth]]—the eagle under the snow
-- [[lore-veteranslaw|The Veterans' Law]]—the twenty years and the one door
-- [[affiliation-vylrnmltry|Vylarian Military]]—the legions, the two tracks and what a legion owes its eagle
-- [[place-dolvar|Dolvar]]—the fortress on the march where the smoke is counted
-- [[lore-vylarianclt|Vylarian]]—the eagle, the frontier and the citizen's door
+[[lore-blackmarshbtl|The Battle of the Black Marsh]]
+: the valley, the water and the eagle recovered
+
+[[place-blackmarshfld|The Blood-field of the Black Marsh]]
+: the ground the garrisons do not look at
+
+[[lore-twelfthloss|The Loss of the Twelfth]]
+: the eagle under the snow
+
+[[lore-veteranslaw|The Veterans' Law]]
+: the twenty years and the one door
+
+[[affiliation-vylrnmltry|Vylarian Military]]
+: the legions, the two tracks and what a legion owes its eagle
+
+[[place-dolvar|Dolvar]]
+: the fortress on the march where the smoke is counted
+
+[[lore-vylarianclt|Vylarian]]
+: the eagle, the frontier and the citizen's door

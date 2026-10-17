@@ -438,19 +438,37 @@ Kárenna's driving ambition is the advancement of her house and, by extension, h
 
 ### Strengths
 
-- **Eloquence and Voice**: Eloquent and clear-voiced, Kárenna can persuade, inspire, command, and soothe through speech alone. She understands the music of language and deploys it with artistry.
-- **Diplomatic Acumen**: Her fellow-feeling, perception, reasoning, and social grace make her adept at reading people, understanding their motivations, and finding pathways to agreement.
-- **Heraldic Knowledge**: Her mastery of heraldic lore, noble lineages, and courtly form means she can handle the politics of Tarvénia's nobility with authority and precision.
-- **Physical Grace and Presence**: Trained in dancing and movement from childhood, she possesses the physical poise that reinforces her verbal authority. Her bearing alone commands attention.
-- **Intrigue and Guile**: Her high skill in intrigue and guile, combined with her apparent openness, allows her to move through hidden political currents while maintaining plausible deniability about her own role in events.
+Eloquence and Voice
+: Eloquent and clear-voiced, Kárenna can persuade, inspire, command, and soothe through speech alone. She understands the music of language and deploys it with artistry.
+
+Diplomatic Acumen
+: Her fellow-feeling, perception, reasoning, and social grace make her adept at reading people, understanding their motivations, and finding pathways to agreement.
+
+Heraldic Knowledge
+: Her mastery of heraldic lore, noble lineages, and courtly form means she can handle the politics of Tarvénia's nobility with authority and precision.
+
+Physical Grace and Presence
+: Trained in dancing and movement from childhood, she possesses the physical poise that reinforces her verbal authority. Her bearing alone commands attention.
+
+Intrigue and Guile
+: Her high skill in intrigue and guile, combined with her apparent openness, allows her to move through hidden political currents while maintaining plausible deniability about her own role in events.
 
 ### Weaknesses
 
-- **Lack of Physical Prowess**: She is not a fighter and possesses no martial skills of note. In physical danger, she is vulnerable and dependent on guards or allies for protection.
-- **Over-Investment in Consensus**: Her tendency toward diplomacy and compromise can leave conflicts papered over rather than settled, storing problems for later ignition.
-- **Perceived Lack of Gravity**: Some traditionalists view her new approach to herald-craft as insufficiently formal or authoritative. Important figures from older traditions sometimes doubt her sincerity or question her qualifications.
-- **Emotional Distance and Inauthenticity**: Her constant performance and cultivation of persona can leave her isolated, unsure whom—if anyone—she can trust with her true self. She struggles with authentic emotional connection.
-- **Dependence on Position**: Her power derives entirely from her role and reputation. Without her status as a herald of the crown, she would be merely another ambitious noble, and this knowledge creates a subtle anxiety that drives increasingly risky political maneuvering.
+Lack of Physical Prowess
+: She is not a fighter and possesses no martial skills of note. In physical danger, she is vulnerable and dependent on guards or allies for protection.
+
+Over-Investment in Consensus
+: Her tendency toward diplomacy and compromise can leave conflicts papered over rather than settled, storing problems for later ignition.
+
+Perceived Lack of Gravity
+: Some traditionalists view her new approach to herald-craft as insufficiently formal or authoritative. Important figures from older traditions sometimes doubt her sincerity or question her qualifications.
+
+Emotional Distance and Inauthenticity
+: Her constant performance and cultivation of persona can leave her isolated, unsure whom—if anyone—she can trust with her true self. She struggles with authentic emotional connection.
+
+Dependence on Position
+: Her power derives entirely from her role and reputation. Without her status as a herald of the crown, she would be merely another ambitious noble, and this knowledge creates a subtle anxiety that drives increasingly risky political maneuvering.
 
 ## Social
 
@@ -489,14 +507,20 @@ The Aureldian Pantheon
 
 ## Plot Hooks
 
-1. **The Bastard Child**: Kárenna receives an urgent message from **Duke Volkemo** concerning a serious complication: there is a child—her daughter—born during their brief liaison five years prior. The mother, a minor noblewoman of uncertain stability, has begun making public claims and threatening to expose their relationship and the child's paternity unless Kárenna acknowledges the girl and secures her position within the nobility. To acknowledge the child would be to admit to a scandalous affair that could damage her standing with traditionalists; to ignore the threat is to allow an innocent child to be used as a weapon by her mother. Worse, Kárenna discovers that **Lord Ervotho Tholmaris** has learned of the situation and is preparing to use it as leverage to force her resignation from her position.
+The Bastard Child
+: Kárenna receives an urgent message from **Duke Volkemo** concerning a serious complication: there is a child—her daughter—born during their brief liaison five years prior. The mother, a minor noblewoman of uncertain stability, has begun making public claims and threatening to expose their relationship and the child's paternity unless Kárenna acknowledges the girl and secures her position within the nobility. To acknowledge the child would be to admit to a scandalous affair that could damage her standing with traditionalists; to ignore the threat is to allow an innocent child to be used as a weapon by her mother. Worse, Kárenna discovers that **Lord Ervotho Tholmaris** has learned of the situation and is preparing to use it as leverage to force her resignation from her position.
 
-2. **The Heretical Diplomat**: Kárenna is tasked with delivering an official state declaration to the **Canonist Orthodox**, but the message contains language that the priesthood will interpret as heretical or sacrilegious. The king has deliberately worded it this way to provoke a political crisis that will discredit the traditionalist faction—but he has not told Kárenna of his intention. When the priesthood erupts in outrage and demands her censure for delivering such blasphemy, she can accept the consequences of her role or reveal the king's manipulation and become a liability to the throne.
+The Heretical Diplomat
+: Kárenna is tasked with delivering an official state declaration to the **Canonist Orthodox**, but the message contains language that the priesthood will interpret as heretical or sacrilegious. The king has deliberately worded it this way to provoke a political crisis that will discredit the traditionalist faction—but he has not told Kárenna of his intention. When the priesthood erupts in outrage and demands her censure for delivering such blasphemy, she can accept the consequences of her role or reveal the king's manipulation and become a liability to the throne.
 
-3. **The Merchant's Leverage**: **Merchant-Lord Bedarrek** reveals to Kárenna that he possesses documented evidence of her conflicts of interest and her inappropriate financial entanglement with House Graveth's commercial interests—transactions that were facilitated through her herald's authority. He offers her a choice: either she works to undo the previous trade negotiation that cost him wealth and leverage her position to grant him specific commercial concessions, or he brings his evidence to the king's justice council. She has three days to decide.
+The Merchant's Leverage
+: **Merchant-Lord Bedarrek** reveals to Kárenna that he possesses documented evidence of her conflicts of interest and her inappropriate financial entanglement with House Graveth's commercial interests—transactions that were facilitated through her herald's authority. He offers her a choice: either she works to undo the previous trade negotiation that cost him wealth and leverage her position to grant him specific commercial concessions, or he brings his evidence to the king's justice council. She has three days to decide.
 
-4. **The Succession Conspiracy**: Kárenna learns through her palace network that a faction of powerful nobles is quietly working to manipulate the succession following King Ilthero's anticipated death—engineering circumstances that will place a weak but controllable heir on the throne. Several of her patrons are involved, including **Duke Volkemo**. She is approached to be the herald who will authenticate and announce the succession, knowing that her involvement would legitimize whatever scheme unfolds. To refuse is to lose crucial allies and mark herself as an obstacle; to cooperate is to become complicit in what she suspects may be a coup.
+The Succession Conspiracy
+: Kárenna learns through her palace network that a faction of powerful nobles is quietly working to manipulate the succession following King Ilthero's anticipated death—engineering circumstances that will place a weak but controllable heir on the throne. Several of her patrons are involved, including **Duke Volkemo**. She is approached to be the herald who will authenticate and announce the succession, knowing that her involvement would legitimize whatever scheme unfolds. To refuse is to lose crucial allies and mark herself as an obstacle; to cooperate is to become complicit in what she suspects may be a coup.
 
-5. **The Shadow Voice**: A mysterious contact approaches Kárenna with a proposition: become a covert agent for a foreign power (likely the Bizarian League), providing intelligence on the kingdom's diplomatic intentions, military readiness, and internal political fractures. In exchange, she receives wealth, protection, and assurance that her family will be safeguarded against future calamity. The contact has detailed knowledge of her secret daughter and seems to know everything about her vulnerabilities. She is given one week to decide, and the contact makes clear that refusal is not truly an option—they have invested too much in recruiting her.
+The Shadow Voice
+: A mysterious contact approaches Kárenna with a proposition: become a covert agent for a foreign power (likely the Bizarian League), providing intelligence on the kingdom's diplomatic intentions, military readiness, and internal political fractures. In exchange, she receives wealth, protection, and assurance that her family will be safeguarded against future calamity. The contact has detailed knowledge of her secret daughter and seems to know everything about her vulnerabilities. She is given one week to decide, and the contact makes clear that refusal is not truly an option—they have invested too much in recruiting her.
 
-6. **The Herald's Rebellion**: Younger members of the Herald's Guild, impressed by Kárenna's new approach but frustrated by the pace of institutional change, approach her about leading a reformist movement within the guild structure. They want her to challenge the traditional hierarchy, push for new rules that diminish the authority of elder heralds, and put the selection of official pronouncements to a vote. The reformation would require going against **Lord Ervotho Tholmaris** and the traditionalist leadership directly. Kárenna must weigh the potential to reshape the institution against the certain enmity of powerful figures and the risk that the reform movement, if it succeeds too dramatically, could destabilize the careful diplomatic equilibrium she has helped establish.
+The Herald's Rebellion
+: Younger members of the Herald's Guild, impressed by Kárenna's new approach but frustrated by the pace of institutional change, approach her about leading a reformist movement within the guild structure. They want her to challenge the traditional hierarchy, push for new rules that diminish the authority of elder heralds, and put the selection of official pronouncements to a vote. The reformation would require going against **Lord Ervotho Tholmaris** and the traditionalist leadership directly. Kárenna must weigh the potential to reshape the institution against the certain enmity of powerful figures and the risk that the reform movement, if it succeeds too dramatically, could destabilize the careful diplomatic equilibrium she has helped establish.

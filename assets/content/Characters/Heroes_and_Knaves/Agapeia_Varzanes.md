@@ -454,27 +454,37 @@ Agápeia is driven by a desire for autonomy and meaningful work that connects he
 
 ### Strengths
 
-- **Expert Prospecting**: Agápeia can identify mineral deposits, assess their quality and quantity, and judge the best way to work them with great accuracy. She has an almost intuitive sense for where valuable materials lie hidden.
+Expert Prospecting
+: Agápeia can identify mineral deposits, assess their quality and quantity, and judge the best way to work them with great accuracy. She has an almost intuitive sense for where valuable materials lie hidden.
 
-- **Physical Competence**: Her dexterity, agility, and climbing ability make her very capable in the challenging physical environment of mine work. She moves through treacherous passages with grace, maintains balance on unstable surfaces, and possesses the coordination to perform precise work in difficult conditions.
+Physical Competence
+: Her dexterity, agility, and climbing ability make her very capable in the challenging physical environment of mine work. She moves through treacherous passages with grace, maintains balance on unstable surfaces, and possesses the coordination to perform precise work in difficult conditions.
 
-- **Leadership Without Ego**: With her feel for people and decent command skills, Agápeia manages teams well. Her crews respect her because she is fair, safety-conscious, and never asks them to do anything she would not do herself. She inspires loyalty through consistency rather than charisma.
+Leadership Without Ego
+: With her feel for people and decent command skills, Agápeia manages teams well. Her crews respect her because she is fair, safety-conscious, and never asks them to do anything she would not do herself. She inspires loyalty through consistency rather than charisma.
 
-- **Diverse Practical Skills**: Beyond mining, she is skilled in survival, animalcraft, metalcraft, and other practical disciplines. She can improvise solutions to problems, repair equipment in the field, and survive in harsh conditions.
+Diverse Practical Skills
+: Beyond mining, she is skilled in survival, animalcraft, metalcraft, and other practical disciplines. She can improvise solutions to problems, repair equipment in the field, and survive in harsh conditions.
 
-- **Combat Readiness**: Despite her mercantile occupation, her melee and throwing skills, combined with good archery and awareness, make her capable in combat. She has had to defend herself and her crews against bandits and dangerous creatures.
+Combat Readiness
+: Despite her mercantile occupation, her melee and throwing skills, combined with good archery and awareness, make her capable in combat. She has had to defend herself and her crews against bandits and dangerous creatures.
 
 ### Weaknesses
 
-- **Limited Eloquence**: Agápeia is poor at persuasion and negotiation in formal settings. She cannot charm her way through diplomatic situations and struggles to advocate effectively for her positions in meetings with mining-house or government officials.
+Limited Eloquence
+: Agápeia is poor at persuasion and negotiation in formal settings. She cannot charm her way through diplomatic situations and struggles to advocate effectively for her positions in meetings with mining-house or government officials.
 
-- **Underestimation by Others**: Her lack of flashiness and her plain looks mean that many people underestimate her capabilities. This is sometimes an advantage, but it also means she struggles to command respect from those who value appearance or social performance.
+Underestimation by Others
+: Her lack of flashiness and her plain looks mean that many people underestimate her capabilities. This is sometimes an advantage, but it also means she struggles to command respect from those who value appearance or social performance.
 
-- **Emotional Restraint**: Low eloquence and modest aura make it difficult for her to inspire large groups or project authority. In situations requiring emotional appeal or charismatic leadership, she is significantly disadvantaged.
+Emotional Restraint
+: Low eloquence and modest aura make it difficult for her to inspire large groups or project authority. In situations requiring emotional appeal or charismatic leadership, she is significantly disadvantaged.
 
-- **Modest Analytical Ability**: She is practical and sound, but not gifted at complex problems or far-sighted thinking. She is capable of managing tactical situations but struggles with longer-term planning or abstract analysis.
+Modest Analytical Ability
+: She is practical and sound, but not gifted at complex problems or far-sighted thinking. She is capable of managing tactical situations but struggles with longer-term planning or abstract analysis.
 
-- **Vulnerability to Manipulation**: Her feeling for others, while a strength in relationships, can be exploited. Those skilled at reading emotions can manipulate her guilt or concern for others into compromising her positions.
+Vulnerability to Manipulation
+: Her feeling for others, while a strength in relationships, can be exploited. Those skilled at reading emotions can manipulate her guilt or concern for others into compromising her positions.
 
 ## Social
 
@@ -507,12 +517,17 @@ The Temple of Lizelas
 
 ## Plot Hooks
 
-1. **The Lost Deposit**: An elderly miner named Garrin Stonestep, whom Agápeia knows by reputation, approaches her with a dying request. He has discovered what he believes to be an enormous deposit of rare crystalline material in the deep caves beneath the Bizarian heartland, but he lacks the strength to extract it himself, and he fears that if he reports it through official channels, the Órashion Consortium will seize it and destroy it with their reckless methods. He asks Agápeia to find the deposit, assess it, and determine the right thing to do with the knowledge. The catch: the location is in territory controlled by the mining operations of Baron Lopebáz Halikot, and Garrin's maps are incomplete and possibly inaccurate. Agápeia would need to assemble a team, tread dangerous political ground, and potentially uncover something far more significant than a simple mineral deposit—possibly evidence of magical excavation or something hidden beneath the earth that both the Consortium and Baron Lopebáz desperately want to remain hidden.
+The Lost Deposit
+: An elderly miner named Garrin Stonestep, whom Agápeia knows by reputation, approaches her with a dying request. He has discovered what he believes to be an enormous deposit of rare crystalline material in the deep caves beneath the Bizarian heartland, but he lacks the strength to extract it himself, and he fears that if he reports it through official channels, the Órashion Consortium will seize it and destroy it with their reckless methods. He asks Agápeia to find the deposit, assess it, and determine the right thing to do with the knowledge. The catch: the location is in territory controlled by the mining operations of Baron Lopebáz Halikot, and Garrin's maps are incomplete and possibly inaccurate. Agápeia would need to assemble a team, tread dangerous political ground, and potentially uncover something far more significant than a simple mineral deposit—possibly evidence of magical excavation or something hidden beneath the earth that both the Consortium and Baron Lopebáz desperately want to remain hidden.
 
-2. **The Escaped Crew**: One of Agápeia's former crews—miners she trained and sent out to work for one of the larger operations—sends word that they are fleeing their current employment. They have discovered that their operation is engaged in the extraction of something dangerous and unnatural, something that they believe is literally damaging the earth in ways that cause tremors and subsidence. They need Agápeia's help to escape with evidence of what is happening and to find refuge away from the Consortium's reach. Helping them would mean taking direct action against powerful interests.
+The Escaped Crew
+: One of Agápeia's former crews—miners she trained and sent out to work for one of the larger operations—sends word that they are fleeing their current employment. They have discovered that their operation is engaged in the extraction of something dangerous and unnatural, something that they believe is literally damaging the earth in ways that cause tremors and subsidence. They need Agápeia's help to escape with evidence of what is happening and to find refuge away from the Consortium's reach. Helping them would mean taking direct action against powerful interests.
 
-3. **The Cavern Below**: Agápeia is hired by the Temple of Lizelas to conduct a survey of the deepest sacred caverns, areas that have not been thoroughly explored in generations. The temple fears that secular mining operations may have broken through into these spaces, and they want an assessment of the damage and current conditions. What Agápeia discovers is that the deepest caverns are not empty—they contain evidence of previous habitation, possibly by an ancient civilization, and they contain unusual geological formations that seem to defy natural explanation. Some of these formations pulse with residual magical energy. She can report her discoveries to the temple or to secular authorities, or keep the information to herself.
+The Cavern Below
+: Agápeia is hired by the Temple of Lizelas to conduct a survey of the deepest sacred caverns, areas that have not been thoroughly explored in generations. The temple fears that secular mining operations may have broken through into these spaces, and they want an assessment of the damage and current conditions. What Agápeia discovers is that the deepest caverns are not empty—they contain evidence of previous habitation, possibly by an ancient civilization, and they contain unusual geological formations that seem to defy natural explanation. Some of these formations pulse with residual magical energy. She can report her discoveries to the temple or to secular authorities, or keep the information to herself.
 
-4. **The Merchant's Gamble**: A wealthy merchant named Korvum Silvertongue approaches Agápeia with a proposition. He wants to finance a major expedition into unexplored territory to the north, where ancient geological surveys suggest enormous deposits of emerald and other precious gems might exist. He needs her skill in prospecting and her reputation for reliable and safe operations. The pay is substantial—enough to fund her own independent operation for years. However, Korvum is vague about his financing sources, and Agápeia's instincts suggest that at least some of his backing comes from interests aligned with the Órashion Consortium. The expedition would take her away from the Bizarian League for months, potentially making her unavailable to her existing clients and allies. It also risks her reputation if the expedition is associated with the Consortium's activities.
+The Merchant's Gamble
+: A wealthy merchant named Korvum Silvertongue approaches Agápeia with a proposition. He wants to finance a major expedition into unexplored territory to the north, where ancient geological surveys suggest enormous deposits of emerald and other precious gems might exist. He needs her skill in prospecting and her reputation for reliable and safe operations. The pay is substantial—enough to fund her own independent operation for years. However, Korvum is vague about his financing sources, and Agápeia's instincts suggest that at least some of his backing comes from interests aligned with the Órashion Consortium. The expedition would take her away from the Bizarian League for months, potentially making her unavailable to her existing clients and allies. It also risks her reputation if the expedition is associated with the Consortium's activities.
 
-5. **The Whispers from Below**: Over recent months, miners across the Bizarian League have reported strange sounds and vibrations emanating from deeper levels—sounds that don't match any known natural phenomenon or previously encountered creature. Some miners refuse to descend to certain depths. Agápeia is asked by the Miners' Union to investigate the source of these disturbances, both out of concern for miner safety and because there is fear that something is disrupting the geological stability of the entire mining region. Her investigation takes her deeper than she has previously ventured, into areas where the stone itself seems strange and where she begins to discover evidence that something vast and old dwells below.
+The Whispers from Below
+: Over recent months, miners across the Bizarian League have reported strange sounds and vibrations emanating from deeper levels—sounds that don't match any known natural phenomenon or previously encountered creature. Some miners refuse to descend to certain depths. Agápeia is asked by the Miners' Union to investigate the source of these disturbances, both out of concern for miner safety and because there is fear that something is disrupting the geological stability of the entire mining region. Her investigation takes her deeper than she has previously ventured, into areas where the stone itself seems strange and where she begins to discover evidence that something vast and old dwells below.

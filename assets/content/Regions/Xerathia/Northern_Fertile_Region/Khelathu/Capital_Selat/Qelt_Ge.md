@@ -20,5 +20,8 @@ data:
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The imperial city
-- [[place-waluqaa|Wal-Uqa'a]]—The processional road
+[[place-galezkara|Galezkara]]
+: The imperial city
+
+[[place-waluqaa|Wal-Uqa'a]]
+: The processional road

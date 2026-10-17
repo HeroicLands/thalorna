@@ -403,8 +403,11 @@ Since absorbing the Heart of the Firstborn, Gnuldrthira possesses strength and r
 
 ## Plot Hooks
 
-1. **The Forsaken Children**—Gnuldrthira's visions have led her to a settlement where Mótefnir's abandoned creations are being enslaved and used as forced labor. She must liberate them while confronting her own feelings about belonging and identity.
+The Forsaken Children
+: Gnuldrthira's visions have led her to a settlement where Mótefnir's abandoned creations are being enslaved and used as forced labor. She must liberate them while confronting her own feelings about belonging and identity.
 
-2. **The Heart's Price**—The power of the Heart of the Firstborn is slowly transforming Gnuldrthira, making her more powerful but also more monstrous. She must find a way to control the transformation or risk losing her humanity entirely.
+The Heart's Price
+: The power of the Heart of the Firstborn is slowly transforming Gnuldrthira, making her more powerful but also more monstrous. She must find a way to control the transformation or risk losing her humanity entirely.
 
-3. **The Maker's Return**—Signs suggest that Mótefnir may be stirring from his indifference, drawn by the power Gnuldrthira has claimed. Whether the god's attention is a blessing or a curse remains to be seen.
+The Maker's Return
+: Signs suggest that Mótefnir may be stirring from his indifference, drawn by the power Gnuldrthira has claimed. Whether the god's attention is a blessing or a curse remains to be seen.

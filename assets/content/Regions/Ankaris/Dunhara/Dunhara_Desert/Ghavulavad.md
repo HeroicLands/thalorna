@@ -22,6 +22,11 @@ Ghavulavad is home to [[being-shadznkmrz|Shadezan Kamruz]], the chieftain whom t
 
 ## See Also
 
-- [[affiliation-dunhartrbs|Dunhara Tribes]]—the confederations whose council meets here
-- [[place-stoneofranaz|Stone of Ranaz]]—the hill-shrine of the warriors and the storm cults
-- [[place-dunhardsrtrgn|Dunhara Desert Region]]—the open desert around the oasis
+[[affiliation-dunhartrbs|Dunhara Tribes]]
+: the confederations whose council meets here
+
+[[place-stoneofranaz|Stone of Ranaz]]
+: the hill-shrine of the warriors and the storm cults
+
+[[place-dunhardsrtrgn|Dunhara Desert Region]]
+: the open desert around the oasis

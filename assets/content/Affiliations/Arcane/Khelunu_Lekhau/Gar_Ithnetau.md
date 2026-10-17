@@ -70,6 +70,11 @@ The House is the second half of the circuit [[affiliation-garathenuqa|Gar-Thelqe
 
 ## See Also
 
-- [[lore-ithnetau|Ithnetáu]]—the domain
-- [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
-- [[place-khelunu|Khelunu]]—where the Eight are taught
+[[lore-ithnetau|Ithnetáu]]
+: the domain
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the philosophy and the other seven domains
+
+[[place-khelunu|Khelunu]]
+: where the Eight are taught

@@ -26,6 +26,11 @@ The killing that began the [[place-malstead|Málstead]] wergild happened in a Gn
 
 ## See Also
 
-- [[affiliation-kingdomlgn|Kingdom of Malagna]]—its seat and the king's hall
-- [[place-malagna|Malagna]]—the land the kingdom holds
-- [[being-knghlrthni|King Hlurthann III]]—acclaimed king, seated at Gnarthborg
+[[affiliation-kingdomlgn|Kingdom of Malagna]]
+: its seat and the king's hall
+
+[[place-malagna|Malagna]]
+: the land the kingdom holds
+
+[[being-knghlrthni|King Hlurthann III]]
+: acclaimed king, seated at Gnarthborg

@@ -2549,7 +2549,8 @@ A verb's object does not wear.
 
 Sinale is **Verb-Subject-Object**:
 
-- _Luuro nuuva liserin_—"Sings starlight the still water" (starlight sings the still water)
+_Luuro nuuva liserin_
+: "Sings starlight the still water" (starlight sings the still water)
 
 The act comes first. Sinale rhetoric holds that naming the actor before the act is a way of taking credit, and formal speech avoids it.
 
@@ -2582,8 +2583,11 @@ A **place name** is a compound of this kind, or a single stem with the place suf
 
 A modifier stands before what it modifies and **wears**:
 
-- _kalvi_ "pale wood" and _lonvu_ "the deep wood" give _halvi lonvu_—"the pale-wood deep-wood", a stand of birch within the forest
-- _toimu_ "the turning year" and _liseri_ "still water" give _soimu liseri_—"the year-turning water", a pool that freezes
+_kalvi_ "pale wood" and _lonvu_ "the deep wood" give _halvi lonvu_
+: "the pale-wood deep-wood", a stand of birch within the forest
+
+_toimu_ "the turning year" and _liseri_ "still water" give _soimu liseri_
+: "the year-turning water", a pool that freezes
 
 Poetry inverts the order, and the wearing goes with the word rather than the position, so an inverted line is still unambiguous.
 
@@ -2660,10 +2664,17 @@ Sinale is written in the [[skill-clthndscrpt|Veldirno]], a **flowing script** th
 
 Key features:
 
-- **Letter forms**: Curved, interconnected, resembling vines or flowing water
-- **Vowel marks**: Vowels are not letters but marks set above the consonant they follow, so a word's consonants make its visible line and its vowels ride on top
-- **Ligatures**: Frequent connections between letters create compound characters
-- **Ornate variants**: Sacred texts employ extremely elaborate, decorated letter forms
+Letter forms
+: Curved, interconnected, resembling vines or flowing water
+
+Vowel marks
+: Vowels are not letters but marks set above the consonant they follow, so a word's consonants make its visible line and its vowels ride on top
+
+Ligatures
+: Frequent connections between letters create compound characters
+
+Ornate variants
+: Sacred texts employ extremely elaborate, decorated letter forms
 
 The Veldirno is the Sinale's own, made for this language and for no other, and the fit shows: each of the three places of articulation has its own family of letters, and within a family the stop, the fricative and the nasal are the same shape three times over, so a worn word looks worn. The [[skill-aelendlng|Áelendi]] took the script from the Sinale, being the humans closest to them; the rest of Aureldia writes in the Vylarian alphabet and always has.
 
@@ -2720,11 +2731,20 @@ Deep-wood speech sounds archaic and formal beside the speech of the high valleys
 
 ## Sample Phrases
 
-- _Luuro nuuva liseriho_—"Starlight sings on still water" (a greeting between friends, and the commonest one)
-- _Li-sely lenthi thalveho_—"The tall grass stands in the low fog, as it always does" (patience under a difficulty that will pass)
-- _Ha-tuve thilvai hyssen_—"The seam of light has held the breath" (said when something long awaited has arrived)
-- _Peheka huoman, peheka nylvin_—"Give warmth, give root" (a blessing on a new house)
-- _Luuro ileva, luuro rivy_—"The clear place sings, the turning leaf sings" (of a season and a place agreeing, and by extension of a thing done at the right moment)
+_Luuro nuuva liseriho_
+: "Starlight sings on still water" (a greeting between friends, and the commonest one)
+
+_Li-sely lenthi thalveho_
+: "The tall grass stands in the low fog, as it always does" (patience under a difficulty that will pass)
+
+_Ha-tuve thilvai hyssen_
+: "The seam of light has held the breath" (said when something long awaited has arrived)
+
+_Peheka huoman, peheka nylvin_
+: "Give warmth, give root" (a blessing on a new house)
+
+_Luuro ileva, luuro rivy_
+: "The clear place sings, the turning leaf sings" (of a season and a place agreeing, and by extension of a thing done at the right moment)
 
 ## Related Languages
 

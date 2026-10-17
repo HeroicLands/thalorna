@@ -124,16 +124,34 @@ The Order's response to these objections, when pressed, is pragmatic rather than
 
 ### The Rheza
 
-- [[affiliation-pyrethos|Rhezin Pirethos]]—Fire: heat, light, energy, transformation through destruction
-- [[affiliation-zepharis|Rhezin Zefaris]]—Air: wind, weather, sound, illusion, the intangible
-- [[affiliation-physera|Rhezin Fisera]]—Earth: stone, growth, endurance, the body, the solid and rooted
-- [[affiliation-hydalis|Rhezin Hidalis]]—Water: cold, flow, healing, transformation through adaptation
-- [[affiliation-sideros|Rhezin Sideris]]—Metal: craft, precision, binding, the material world made orderly
-- [[affiliation-pneumenos|Rhezin Neumenos]]—Spirit: mind, soul, communion with otherworldly entities, the immaterial
-- [[affiliation-kentra|Kentra]]—Center: mastery of all six _rheza_
+[[affiliation-pyrethos|Rhezin Pirethos]]
+: Fire: heat, light, energy, transformation through destruction
+
+[[affiliation-zepharis|Rhezin Zefaris]]
+: Air: wind, weather, sound, illusion, the intangible
+
+[[affiliation-physera|Rhezin Fisera]]
+: Earth: stone, growth, endurance, the body, the solid and rooted
+
+[[affiliation-hydalis|Rhezin Hidalis]]
+: Water: cold, flow, healing, transformation through adaptation
+
+[[affiliation-sideros|Rhezin Sideris]]
+: Metal: craft, precision, binding, the material world made orderly
+
+[[affiliation-pneumenos|Rhezin Neumenos]]
+: Spirit: mind, soul, communion with otherworldly entities, the immaterial
+
+[[affiliation-kentra|Kentra]]
+: Center: mastery of all six _rheza_
 
 ### See Also
 
-- [[affiliation-ordoarcanis|Thordimalon]]—The institution that codified and enforces the Zemor Hodhis
-- [[affiliation-panepistmm|Epistémion]]—Where the foundational concepts were first developed
-- [[affiliation-kentra|Kentra]]—The mastery of all six _rheza_, and the affliction that sometimes follows
+[[affiliation-ordoarcanis|Thordimalon]]
+: The institution that codified and enforces the Zemor Hodhis
+
+[[affiliation-panepistmm|Epistémion]]
+: Where the foundational concepts were first developed
+
+[[affiliation-kentra|Kentra]]
+: The mastery of all six _rheza_, and the affliction that sometimes follows

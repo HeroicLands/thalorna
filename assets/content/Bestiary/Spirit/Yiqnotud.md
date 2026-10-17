@@ -329,23 +329,32 @@ The sight of one fills a person with terror, and a person who has met the Yiqnot
 
 ## Attributes
 
-- **Strength:** 10-13 (1d4+9)
+Strength
+: 10-13 (1d4+9)
 
-- **Endurance:** 11-16 (1d6+10)
+Endurance
+: 11-16 (1d6+10)
 
-- **Dexterity:** 14-17 (1d4+13)
+Dexterity
+: 14-17 (1d4+13)
 
-- **Agility:** 15-20 (1d6+14)
+Agility
+: 15-20 (1d6+14)
 
-- **Perception:** 14-17 (1d4+13)
+Perception
+: 14-17 (1d4+13)
 
-- **Aura:** 11-16 (1d6+10)
+Aura
+: 11-16 (1d6+10)
 
-- **Will:** 10-13 (1d4+9)
+Will
+: 10-13 (1d4+9)
 
-- **Reasoning:** 7-12 (1d6+6)
+Reasoning
+: 7-12 (1d6+6)
 
-- **Creativity:** 10-13 (1d4+9)
+Creativity
+: 10-13 (1d4+9)
 
 ## A Hook
 

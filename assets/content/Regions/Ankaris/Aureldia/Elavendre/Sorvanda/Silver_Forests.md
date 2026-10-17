@@ -6,9 +6,14 @@ subType: region
 data: {demonym: null, lore: [], parents: [alndntrblnds], population: null, packFolder: elavendre}
 ---
 
-- **Type:** Ancient fae-touched woodland
-- **Region:** Interior [[place-elavendre|Élavendre]]
-- **Guardians:** [[affiliation-alndnwrdns|Áelendan Wardens]]
+Type
+: Ancient fae-touched woodland
+
+Region
+: Interior [[place-elavendre|Élavendre]]
+
+Guardians
+: [[affiliation-alndnwrdns|Áelendan Wardens]]
 
 ## Overview
 
@@ -43,11 +48,26 @@ In rare cases, the Áelendan have escorted specific individuals into outer porti
 
 ## See Also
 
-- [[place-elavendre|Élavendre]]—The kingdom in which the Silver Forests lie
-- [[lore-aelendnppl|Áelendan]]—The custodial people
-- [[affiliation-alndnwrdns|Áelendan Wardens]]—The order that protects the forests
-- [[lore-faecourts|The Fae Courts]]—Related fae phenomena
-- [[lore-flksinale|Sinale]]—The elder race associated with the forests
-- [[lore-blacksnow|The Black Snow]]—The felling that gave the Áelendan their birch law
-- [[place-hntrsrng|The Hunter's Ring]]—The ring of boundary stones on the forests' outer margin, and the hunter whose ground it holds
-- [[scenario-lodgesilvbgh|The Lodge beneath the Silver Boughs]]—A scenario set at the Hunter's Ring
+[[place-elavendre|Élavendre]]
+: The kingdom in which the Silver Forests lie
+
+[[lore-aelendnppl|Áelendan]]
+: The custodial people
+
+[[affiliation-alndnwrdns|Áelendan Wardens]]
+: The order that protects the forests
+
+[[lore-faecourts|The Fae Courts]]
+: Related fae phenomena
+
+[[lore-flksinale|Sinale]]
+: The elder race associated with the forests
+
+[[lore-blacksnow|The Black Snow]]
+: The felling that gave the Áelendan their birch law
+
+[[place-hntrsrng|The Hunter's Ring]]
+: The ring of boundary stones on the forests' outer margin, and the hunter whose ground it holds
+
+[[scenario-lodgesilvbgh|The Lodge beneath the Silver Boughs]]
+: A scenario set at the Hunter's Ring

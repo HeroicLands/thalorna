@@ -436,27 +436,37 @@ Fritia seeks to go beyond mere entertainment. Obsessed with uncovering the mythi
 
 ### Strengths
 
-- **Extraordinary Ear for Music**: Fritia possesses an almost supernatural ability to hear a melody once and reproduce it perfectly. She can identify the emotions embedded in ancient folk songs and often discovers hidden layers of meaning in traditional pieces that others have sung for generations without truly understanding.
+Extraordinary Ear for Music
+: Fritia possesses an almost supernatural ability to hear a melody once and reproduce it perfectly. She can identify the emotions embedded in ancient folk songs and often discovers hidden layers of meaning in traditional pieces that others have sung for generations without truly understanding.
 
-- **Master Improviser**: In performance, she requires no written notes. Her creativity flows untethered, allowing her to adapt her playing to any mood, situation, or audience, making her a useful companion in unpredictable circumstances.
+Master Improviser
+: In performance, she requires no written notes. Her creativity flows untethered, allowing her to adapt her playing to any mood, situation, or audience, making her a useful companion in unpredictable circumstances.
 
-- **Acrobatic Grace**: Her combination of high dexterity and agility makes her skilled at climbing, moving silently through crowds, and physical performance. She can vault onto tavern tables or scale a warehouse wall with practiced ease.
+Acrobatic Grace
+: Her combination of high dexterity and agility makes her skilled at climbing, moving silently through crowds, and physical performance. She can vault onto tavern tables or scale a warehouse wall with practiced ease.
 
-- **Navigating Tavern Culture**: She is fluent in the language of inns, barrooms, and common quarters. Few can read a crowd or extract information through seemingly casual conversation and song as expertly as she can.
+Navigating Tavern Culture
+: She is fluent in the language of inns, barrooms, and common quarters. Few can read a crowd or extract information through seemingly casual conversation and song as expertly as she can.
 
-- **Artisan of the Lute**: Her technical mastery of her instrument rivals the finest court musicians, and her lute itself is a work of subtle craft, capable of producing tones of unusual depth and clarity.
+Artisan of the Lute
+: Her technical mastery of her instrument rivals the finest court musicians, and her lute itself is a work of subtle craft, capable of producing tones of unusual depth and clarity.
 
 ### Weaknesses
 
-- **No Formal Composition Skills**: Despite her gift for performance and improvisation, Fritia struggles mightily when asked to formally compose original pieces in accepted musical notation. Her instinctive, intuitive approach conflicts with the rigid structures of formal theory, making her appear inexplicably unskilled in written work.
+No Formal Composition Skills
+: Despite her gift for performance and improvisation, Fritia struggles mightily when asked to formally compose original pieces in accepted musical notation. Her instinctive, intuitive approach conflicts with the rigid structures of formal theory, making her appear inexplicably unskilled in written work.
 
-- **Social Naïveté in Noble Courts**: The unwritten rules and hierarchical expectations of high society baffle and frustrate her. She has been known to accidentally offend patrons of rank through blunt speech or perceived disrespect of etiquette.
+Social Naïveté in Noble Courts
+: The unwritten rules and hierarchical expectations of high society baffle and frustrate her. She has been known to accidentally offend patrons of rank through blunt speech or perceived disrespect of etiquette.
 
-- **Mercurial Temper**: When questioned about her art or the authenticity of a musical tradition, Fritia can become sharp-tongued and defensive to the point of self-sabotage. She has walked away from lucrative contracts over perceived slights to musical integrity.
+Mercurial Temper
+: When questioned about her art or the authenticity of a musical tradition, Fritia can become sharp-tongued and defensive to the point of self-sabotage. She has walked away from lucrative contracts over perceived slights to musical integrity.
 
-- **Fragile Financial Stability**: Living hand-to-mouth as a traveling performer, she is perpetually vulnerable to misfortune. A single season of poor attendance can leave her desperate.
+Fragile Financial Stability
+: Living hand-to-mouth as a traveling performer, she is perpetually vulnerable to misfortune. A single season of poor attendance can leave her desperate.
 
-- **Obsessive about the Lost Anthem**: Her fixation on discovering the mythical proto-song sometimes blinds her to more immediate concerns. She may pursue dangerous leads based on half-remembered legends or cryptic clues that prove wholly imaginary.
+Obsessive about the Lost Anthem
+: Her fixation on discovering the mythical proto-song sometimes blinds her to more immediate concerns. She may pursue dangerous leads based on half-remembered legends or cryptic clues that prove wholly imaginary.
 
 ## Social
 
@@ -495,12 +505,17 @@ The Fellowship of the Old Songs
 
 ## Plot Hooks
 
-1. **The Tavern Tragedy**: A beloved innkeeper in a village where Fritia has been playing is found dead—apparently poisoned—and his entire collection of hand-copied song manuscripts is missing. Fritia discovers that three of the songs in his collection matched fragments of what she believes are Lost Anthem verses. Now she must find out whether his death was coincidence or something darker, while competing against other unknown parties also seeking these rare manuscripts. Her investigation may lead her to discover a secret organization collecting and suppressing dangerous pre-ancient music.
+The Tavern Tragedy
+: A beloved innkeeper in a village where Fritia has been playing is found dead—apparently poisoned—and his entire collection of hand-copied song manuscripts is missing. Fritia discovers that three of the songs in his collection matched fragments of what she believes are Lost Anthem verses. Now she must find out whether his death was coincidence or something darker, while competing against other unknown parties also seeking these rare manuscripts. Her investigation may lead her to discover a secret organization collecting and suppressing dangerous pre-ancient music.
 
-2. **The Counterfeit Bard**: A charlatan claiming to be a long-lost rival composer from Fritia's Guild days arrives in her current city, giving elaborate performances of "newly recovered" ancient music that attract massive crowds. Fritia recognizes the songs as modern compositions passed off as ancient, but proving the deception could expose uncomfortable truths about her own research and credibility. Meanwhile, this impostor may actually be pursuing the same Lost Anthem fragments Fritia seeks—perhaps they have a shared history she has forgotten or suppressed.
+The Counterfeit Bard
+: A charlatan claiming to be a long-lost rival composer from Fritia's Guild days arrives in her current city, giving elaborate performances of "newly recovered" ancient music that attract massive crowds. Fritia recognizes the songs as modern compositions passed off as ancient, but proving the deception could expose uncomfortable truths about her own research and credibility. Meanwhile, this impostor may actually be pursuing the same Lost Anthem fragments Fritia seeks—perhaps they have a shared history she has forgotten or suppressed.
 
-3. **The Silent Prison**: An elderly woman approaches Fritia after a performance, claiming to be a survivor of an ancient disaster where the Lost Anthem was used as a weapon of terrible power. The woman is nearly mute and much damaged, but hums fragments of unmistakably pre-ancient melodies. She will only trust Fritia and only communicate through music and song. Helping her recover her story could unlock dangerous knowledge about why powerful forces want the Lost Anthem buried and forgotten—and may put Fritia in mortal danger.
+The Silent Prison
+: An elderly woman approaches Fritia after a performance, claiming to be a survivor of an ancient disaster where the Lost Anthem was used as a weapon of terrible power. The woman is nearly mute and much damaged, but hums fragments of unmistakably pre-ancient melodies. She will only trust Fritia and only communicate through music and song. Helping her recover her story could unlock dangerous knowledge about why powerful forces want the Lost Anthem buried and forgotten—and may put Fritia in mortal danger.
 
-4. **The Wedding that Never Was**: Fritia receives a commission from a mysterious patron to learn a specific complex melody by a certain date, payment generous enough to resolve all her current debts. The melody matches one she has been obsessively searching for. When she arrives to perform, she discovers the supposed wedding is a ruse—she has been manipulated into learning a piece that is actually a magical key, a spell-song that will unlock a sealed chamber when performed. She is caught between paying her debts and discovering what is being so carefully locked away from the world.
+The Wedding that Never Was
+: Fritia receives a commission from a mysterious patron to learn a specific complex melody by a certain date, payment generous enough to resolve all her current debts. The melody matches one she has been obsessively searching for. When she arrives to perform, she discovers the supposed wedding is a ruse—she has been manipulated into learning a piece that is actually a magical key, a spell-song that will unlock a sealed chamber when performed. She is caught between paying her debts and discovering what is being so carefully locked away from the world.
 
-5. **The Guild Master's Secret**: Master Ósiris, her former instructor, falls gravely ill and requests her at his bedside. Before witnesses, he tells her that he has spent forty years seeking the Lost Anthem to atone for a great mistake—that he knew of its location once, as a young man, but rejected it as heresy. He reveals cryptic information suggesting it lies hidden beneath the earth in a place no one has excavated, protected by traps designed by the ancients themselves. He dies before explaining more, and Fritia can share this information with the Guild or pursue this most tantalizing lead alone, knowing others in the Guild may have also heard his confession.
+The Guild Master's Secret
+: Master Ósiris, her former instructor, falls gravely ill and requests her at his bedside. Before witnesses, he tells her that he has spent forty years seeking the Lost Anthem to atone for a great mistake—that he knew of its location once, as a young man, but rejected it as heresy. He reveals cryptic information suggesting it lies hidden beneath the earth in a place no one has excavated, protected by traps designed by the ancients themselves. He dies before explaining more, and Fritia can share this information with the Guild or pursue this most tantalizing lead alone, knowing others in the Guild may have also heard his confession.

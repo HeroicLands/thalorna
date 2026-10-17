@@ -401,8 +401,11 @@ Dvurnvir's understanding of the Dreadspawn is unparalleled; he can predict their
 
 ## Plot Hooks
 
-1. **The Unfinished Creation**—Dvurnvir has discovered the remains of one of Mótefnir's original laboratories and believes he can reactivate it. The knowledge within could revolutionize his work—or unleash something terrible.
+The Unfinished Creation
+: Dvurnvir has discovered the remains of one of Mótefnir's original laboratories and believes he can reactivate it. The knowledge within could revolutionize his work—or unleash something terrible.
 
-2. **The Guardian's Awakening**—The Forsaken Guardian has begun displaying independent thought and emotions. Dvurnvir must decide whether this is a breakthrough or a catastrophe.
+The Guardian's Awakening
+: The Forsaken Guardian has begun displaying independent thought and emotions. Dvurnvir must decide whether this is a breakthrough or a catastrophe.
 
-3. **The Arcane Order's Ultimatum**—_Sekeroi_ have arrived with an ultimatum: submit to the Arcane Order's authority or be destroyed. Dvurnvir must choose between his independence and his survival, or find a third option.
+The Arcane Order's Ultimatum
+: _Sekeroi_ have arrived with an ultimatum: submit to the Arcane Order's authority or be destroyed. Dvurnvir must choose between his independence and his survival, or find a third option.

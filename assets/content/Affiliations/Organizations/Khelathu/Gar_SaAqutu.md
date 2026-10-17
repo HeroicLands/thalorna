@@ -60,4 +60,5 @@ An outsider who wants the house's favor does not offer coin. The currency is a g
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The region it belongs to

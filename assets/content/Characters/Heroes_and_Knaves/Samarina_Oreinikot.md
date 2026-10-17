@@ -458,21 +458,43 @@ Samarina is driven by multiple, sometimes conflicting motivations. Her primary d
 
 ### Strengths
 
-- **Master Herder:** Her animal craft combined with her deep feeling for her beasts allows her to manage, calm, and understand her flock with great precision and gentleness, and to achieve results through consent rather than coercion.
-- **Horsemanship:** Her riding extends to managing all manner of livestock and allows her to cover large distances quickly while tending her herd or escorting dangerous clients.
-- **Wilderness Survival:** Her survival and tracking skills make her very capable in the wild; she can subsist in harsh conditions, find her way by subtle signs, and locate lost animals.
-- **Physical Prowess:** Her agility, climbing, acrobatics, and jumping make her capable in rough country; her archery and melee provide adequate combat ability if needed.
-- **Practical Herbalism:** Her knowledge of herbal remedies, perfumery, and physician skill allow her to treat animal (and human) injuries and illnesses using what grows around her.
-- **Intuitive Intelligence:** While her reasoning is modest, her perception and awareness give her a nearly supernatural ability to notice subtle changes around her and recognize threats before they become obvious.
+Master Herder
+: Her animal craft combined with her deep feeling for her beasts allows her to manage, calm, and understand her flock with great precision and gentleness, and to achieve results through consent rather than coercion.
+
+Horsemanship
+: Her riding extends to managing all manner of livestock and allows her to cover large distances quickly while tending her herd or escorting dangerous clients.
+
+Wilderness Survival
+: Her survival and tracking skills make her very capable in the wild; she can subsist in harsh conditions, find her way by subtle signs, and locate lost animals.
+
+Physical Prowess
+: Her agility, climbing, acrobatics, and jumping make her capable in rough country; her archery and melee provide adequate combat ability if needed.
+
+Practical Herbalism
+: Her knowledge of herbal remedies, perfumery, and physician skill allow her to treat animal (and human) injuries and illnesses using what grows around her.
+
+Intuitive Intelligence
+: While her reasoning is modest, her perception and awareness give her a nearly supernatural ability to notice subtle changes around her and recognize threats before they become obvious.
 
 ### Weaknesses
 
-- **Inexperience with Authority:** Her low eloquence and modest discourse make her ineffective at negotiating with government officials, landowners, or powerful figures. She struggles to advocate for herself in formal settings.
-- **Caution as Limitation:** Her tendency to play it safe and make conservative choices means she frequently misses opportunities for growth, wealth, or influence that would require risk-taking.
-- **Land Dispute Vulnerability:** Her limited reasoning and low command mean she is poor at dealing with complex legal matters, territorial disputes, or formal conflicts over land rights and resource use.
-- **Combat Limitation:** While competent, she is not a warrior and would struggle in sustained direct combat with trained fighters. Her melee and archery are adequate for survival but not dominance.
-- **Limited Magical Knowledge:** Her low spirit and lack of mystical training mean she cannot work with magical elements or understand supernatural phenomena, making her vulnerable to magical threats.
-- **Social Isolation Risk:** Her tendency to isolate and her reluctance to ask for help can leave her vulnerable if facing situations requiring allies or political support.
+Inexperience with Authority
+: Her low eloquence and modest discourse make her ineffective at negotiating with government officials, landowners, or powerful figures. She struggles to advocate for herself in formal settings.
+
+Caution as Limitation
+: Her tendency to play it safe and make conservative choices means she frequently misses opportunities for growth, wealth, or influence that would require risk-taking.
+
+Land Dispute Vulnerability
+: Her limited reasoning and low command mean she is poor at dealing with complex legal matters, territorial disputes, or formal conflicts over land rights and resource use.
+
+Combat Limitation
+: While competent, she is not a warrior and would struggle in sustained direct combat with trained fighters. Her melee and archery are adequate for survival but not dominance.
+
+Limited Magical Knowledge
+: Her low spirit and lack of mystical training mean she cannot work with magical elements or understand supernatural phenomena, making her vulnerable to magical threats.
+
+Social Isolation Risk
+: Her tendency to isolate and her reluctance to ask for help can leave her vulnerable if facing situations requiring allies or political support.
 
 ## Social
 
@@ -505,12 +527,17 @@ None formal
 
 ## Plot Hooks
 
-1. **The Sanctuary Under Threat:** Samarina discovers that Landowner Ghazos Vaspas has begun systematically purchasing lands that will encircle her grazing territories, effectively trapping her and forcing her to either abandon her herd or sell her land at depressed prices. She recruits adventurers to help her through the courts, discover evidence of Vaspas's unethical practices, and potentially locate alternative grazing lands. This forces her to learn political skill while testing whether she will compromise her values to survive.
+The Sanctuary Under Threat
+: Samarina discovers that Landowner Ghazos Vaspas has begun systematically purchasing lands that will encircle her grazing territories, effectively trapping her and forcing her to either abandon her herd or sell her land at depressed prices. She recruits adventurers to help her through the courts, discover evidence of Vaspas's unethical practices, and potentially locate alternative grazing lands. This forces her to learn political skill while testing whether she will compromise her values to survive.
 
-2. **The Plague in the Flocks:** A mysterious disease begins spreading through herds across the Bizarian League, devastating animals and threatening the pastoral economy. Samarina's keen observation suggests the disease is not natural but deliberately introduced. She must work with adventurers to investigate the source (whether environmental, magical, or deliberate), find a cure or treatment, and prevent her herd from being destroyed. This makes her an unexpected authority and possible savior.
+The Plague in the Flocks
+: A mysterious disease begins spreading through herds across the Bizarian League, devastating animals and threatening the pastoral economy. Samarina's keen observation suggests the disease is not natural but deliberately introduced. She must work with adventurers to investigate the source (whether environmental, magical, or deliberate), find a cure or treatment, and prevent her herd from being destroyed. This makes her an unexpected authority and possible savior.
 
-3. **The Ancient Shepherd's Secret:** While researching ancient herding techniques to improve her practice, Samarina discovers references to an ancient shepherd who allegedly lived five hundred years ago and whose herding techniques were said to be so advanced that his animals never sickened and his flock doubled in size every generation. Legend suggests his knowledge was hidden in a distant sanctuary. Intrigued by the possibility of learning truly new techniques, she recruits adventurers to help her locate and understand these ancient practices, potentially uncovering magic or lost knowledge.
+The Ancient Shepherd's Secret
+: While researching ancient herding techniques to improve her practice, Samarina discovers references to an ancient shepherd who allegedly lived five hundred years ago and whose herding techniques were said to be so advanced that his animals never sickened and his flock doubled in size every generation. Legend suggests his knowledge was hidden in a distant sanctuary. Intrigued by the possibility of learning truly new techniques, she recruits adventurers to help her locate and understand these ancient practices, potentially uncovering magic or lost knowledge.
 
-4. **The Outsider's Arrival:** A stranger arrives in Samarina's territory driving a herd of extraordinary animals—creatures that seem almost unnatural, moving with perfect synchronization and showing no signs of the diseases or weaknesses normal animals exhibit. The stranger offers to trade advanced breeding techniques and superior animals in exchange for Samarina's assistance with something dangerous and morally complicated. As Samarina grapples with the temptation to transform her herding through these superior animals, she realizes the stranger and their animals may not be entirely natural, and she can accept the aid, which may be cursed, or refuse it.
+The Outsider's Arrival
+: A stranger arrives in Samarina's territory driving a herd of extraordinary animals—creatures that seem almost unnatural, moving with perfect synchronization and showing no signs of the diseases or weaknesses normal animals exhibit. The stranger offers to trade advanced breeding techniques and superior animals in exchange for Samarina's assistance with something dangerous and morally complicated. As Samarina grapples with the temptation to transform her herding through these superior animals, she realizes the stranger and their animals may not be entirely natural, and she can accept the aid, which may be cursed, or refuse it.
 
-5. **The Land Spirits' Awakening:** Ancient earth spirits, long dormant in the pastoral lands of the Bizarian League, begin manifesting in response to the damage done by heavy grazing. Rather than punish Samarina (whose conservative practices are less damaging), the spirits contact her with a proposition: help convince other herders to change their practices, or the spirits will forcibly reclaim the land, devastating the herding life of the whole region. Samarina must become an unlikely ambassador between human culture and natural forces, recruiting adventurers to help her convince both the spirits to show patience and the herders to accept change.
+The Land Spirits' Awakening
+: Ancient earth spirits, long dormant in the pastoral lands of the Bizarian League, begin manifesting in response to the damage done by heavy grazing. Rather than punish Samarina (whose conservative practices are less damaging), the spirits contact her with a proposition: help convince other herders to change their practices, or the spirits will forcibly reclaim the land, devastating the herding life of the whole region. Samarina must become an unlikely ambassador between human culture and natural forces, recruiting adventurers to help her convince both the spirits to show patience and the herders to accept change.

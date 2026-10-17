@@ -266,15 +266,32 @@ The shell turns a sword cut and a club. A thrust or an arrow goes in between the
 
 ## Attributes
 
-- **Strength:** 9-14 (1d6+8)
-- **Endurance:** 10-15 (1d6+9)
-- **Dexterity:** 14-19 (1d6+13)
-- **Agility:** 15-20 (1d6+14)
-- **Perception:** 12-17 (1d6+11)
-- **Aura:** 8-11 (1d4+7)
-- **Will:** 9-14 (1d6+8)
-- **Reasoning:** 5-8 (1d4+4)
-- **Creativity:** 4-7 (1d4+3)
+Strength
+: 9-14 (1d6+8)
+
+Endurance
+: 10-15 (1d6+9)
+
+Dexterity
+: 14-19 (1d6+13)
+
+Agility
+: 15-20 (1d6+14)
+
+Perception
+: 12-17 (1d6+11)
+
+Aura
+: 8-11 (1d4+7)
+
+Will
+: 9-14 (1d6+8)
+
+Reasoning
+: 5-8 (1d4+4)
+
+Creativity
+: 4-7 (1d4+3)
 
 ### Razor Mandibles
 

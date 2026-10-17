@@ -50,11 +50,20 @@ By the Legions' Road from the passes, two days north of the last farms of Vandgr
 
 ## See Also
 
-- [[place-vandstein|Vandstein]]—the highland reach the road crosses
-- [[lore-legionsroad|The Legions' Road]]—the road and its abandoned posts
-- [[place-vandgrund|Vandgrund]]—the village whose pass guides send parties north
-- [[affiliation-blckpnwlvs|Blackpine Wolves]]—the road bandits who turn back at the gorge
-- [[scenario-guesthouseblkpn|The Guesthouse in the Black Pines]]—an adventure set here
+[[place-vandstein|Vandstein]]
+: the highland reach the road crosses
+
+[[lore-legionsroad|The Legions' Road]]
+: the road and its abandoned posts
+
+[[place-vandgrund|Vandgrund]]
+: the village whose pass guides send parties north
+
+[[affiliation-blckpnwlvs|Blackpine Wolves]]
+: the road bandits who turn back at the gorge
+
+[[scenario-guesthouseblkpn|The Guesthouse in the Black Pines]]
+: an adventure set here
 
 # The Truth of Dunkelholt {#truth .secret}
 

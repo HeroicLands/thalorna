@@ -51,10 +51,23 @@ The March produces silver, tolls and contracts. The mines in the ranges around A
 
 ## See Also
 
-- [[place-byzariargn|Bizaria Region]]—the region the March guards
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation that commissions its lord
-- [[affiliation-argyrteikhos|Argirteikhos]]—the city that anchors it
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the country it faces
-- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the neighbor on its southern forks
-- [[place-southrnmrch|Southern March]], [[place-northrnmrch|Northern March]]—the League's other marches
-- [[being-arshzrktkls|Árshazur Gavios]], [[being-lofrflmds|Lofáhr Vuzaghios]]—soldiers of the March
+[[place-byzariargn|Bizaria Region]]
+: the region the March guards
+
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation that commissions its lord
+
+[[affiliation-argyrteikhos|Argirteikhos]]
+: the city that anchors it
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the country it faces
+
+[[affiliation-kngdmmrdd|Kingdom of Amradad]]
+: the neighbor on its southern forks
+
+[[place-southrnmrch|Southern March]], [[place-northrnmrch|Northern March]]
+: the League's other marches
+
+[[being-arshzrktkls|Árshazur Gavios]], [[being-lofrflmds|Lofáhr Vuzaghios]]
+: soldiers of the March

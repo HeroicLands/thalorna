@@ -159,8 +159,11 @@ Water working into its joints loosens the binding, and loud ringing sound shakes
 
 ## Attributes
 
-- **Strength:** 34-39 (1d6+33)
+Strength
+: 34-39 (1d6+33)
 
-- **Agility:** 4-7 (1d4+3)
+Agility
+: 4-7 (1d4+3)
 
-- **Perception:** 14-19 (1d6+13)
+Perception
+: 14-19 (1d6+13)

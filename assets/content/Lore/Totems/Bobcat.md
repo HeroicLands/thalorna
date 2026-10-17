@@ -16,9 +16,20 @@ Secretive and cautious, bobcats are elusive hunters, using their stealth and pat
 
 Bobcat people keep out of the light and watch their surroundings before they act. They decide from what they have seen.
 
-- **Physical:** Lean, agile physique; sharp, penetrating eyes.
-- **Behavioral:** Extremely cautious, prefers to stay under the radar, secretive.
-- **Positive:** Cautious, observant, and strategic.
-- **Negative:** Secretive, withdrawn, and overly suspicious.
-- **Minor Trait ([[sohl-none-doctrauma-vigilant|Vigilant]]):** Keeps a careful eye on their surroundings, sometimes reading too much into small changes and staying on guard when others have relaxed.
-- **Major Disorder ([[sohl-none-doctrauma-anxiety|Anxiety]]):** Overwhelmed by dread at the thought of being seen or noticed, retreating from all social contact and living in fearful seclusion.
+Physical
+: Lean, agile physique; sharp, penetrating eyes.
+
+Behavioral
+: Extremely cautious, prefers to stay under the radar, secretive.
+
+Positive
+: Cautious, observant, and strategic.
+
+Negative
+: Secretive, withdrawn, and overly suspicious.
+
+Minor Trait ([[sohl-none-doctrauma-vigilant|Vigilant]])
+: Keeps a careful eye on their surroundings, sometimes reading too much into small changes and staying on guard when others have relaxed.
+
+Major Disorder ([[sohl-none-doctrauma-anxiety|Anxiety]])
+: Overwhelmed by dread at the thought of being seen or noticed, retreating from all social contact and living in fearful seclusion.

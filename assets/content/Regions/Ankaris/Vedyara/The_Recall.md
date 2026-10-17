@@ -392,16 +392,41 @@ In this court, before the scale of the goddess,
 
 ## See Also
 
-- [[lore-hghlndwar|The Highland War]]—the recall, the ride and the stopping of the host, as the record enters them
-- [[place-sharamukha|Sharamukha]]—the gorge-mouth, the cairn of broken arrows and the shrine with the lamp-ledge
-- [[affiliation-dhnrktjnpd|Danurkota Janapoda]]—the janapoda whose four masters called the bows home, and its Festival of the Returning
-- [[place-dhnrktemple|The Mahajaya Temple at Danurkota]]—the court the work is read in, and the Watch of the Bow-String
-- [[place-bowfort|The Bow-Fort]]—where the four masters met
-- [[place-highdraw|The Academy of the High Draw]]—the bow drawn to the ear, and the master who reads
-- [[place-sharavana|Shiravana]]—the reed village the brothers' kulra is of
-- [[affiliation-bharyastan|The Kingdom of Bharyastan]]—the four hundred horse the gold treaty called
-- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the gold mountain the host marched on, and the Weighing
-- [[affiliation-mahajaya|Mahajaya]]—the scale that weighs measure and not judgment
-- [[affiliation-jnanasura|Jnanasura]]—the sun-medallion a warrior touches before a battle
-- [[lore-compactpeace|The Compact Peace]]—the age the war falls in
-- [[lore-vedyariclt|Vedyari]]—what a person owes, in order, and the two names
+[[lore-hghlndwar|The Highland War]]
+: the recall, the ride and the stopping of the host, as the record enters them
+
+[[place-sharamukha|Sharamukha]]
+: the gorge-mouth, the cairn of broken arrows and the shrine with the lamp-ledge
+
+[[affiliation-dhnrktjnpd|Danurkota Janapoda]]
+: the janapoda whose four masters called the bows home, and its Festival of the Returning
+
+[[place-dhnrktemple|The Mahajaya Temple at Danurkota]]
+: the court the work is read in, and the Watch of the Bow-String
+
+[[place-bowfort|The Bow-Fort]]
+: where the four masters met
+
+[[place-highdraw|The Academy of the High Draw]]
+: the bow drawn to the ear, and the master who reads
+
+[[place-sharavana|Shiravana]]
+: the reed village the brothers' kulra is of
+
+[[affiliation-bharyastan|The Kingdom of Bharyastan]]
+: the four hundred horse the gold treaty called
+
+[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+: the gold mountain the host marched on, and the Weighing
+
+[[affiliation-mahajaya|Mahajaya]]
+: the scale that weighs measure and not judgment
+
+[[affiliation-jnanasura|Jnanasura]]
+: the sun-medallion a warrior touches before a battle
+
+[[lore-compactpeace|The Compact Peace]]
+: the age the war falls in
+
+[[lore-vedyariclt|Vedyari]]
+: what a person owes, in order, and the two names

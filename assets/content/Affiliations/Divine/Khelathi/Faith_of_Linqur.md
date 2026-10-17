@@ -61,7 +61,14 @@ The cult keeps the same temple ladder as every other selat god's.
 
 ## See Also
 
-- [[lore-linqurdty|Linkur]]—the god
-- [[affiliation-linhur|Faith of Linhur]]—the paired cult
-- [[affiliation-garnuw|Gar'Nuw]]—the hunters' guild this cult and Linhur's found
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the temple hierarchy every [[lore-khelathiclt|Khelathi]] cult shares
+[[lore-linqurdty|Linkur]]
+: the god
+
+[[affiliation-linhur|Faith of Linhur]]
+: the paired cult
+
+[[affiliation-garnuw|Gar'Nuw]]
+: the hunters' guild this cult and Linhur's found
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: the temple hierarchy every [[lore-khelathiclt|Khelathi]] cult shares

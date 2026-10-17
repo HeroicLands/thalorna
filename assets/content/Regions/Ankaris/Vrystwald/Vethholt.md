@@ -26,6 +26,11 @@ The Shaman holds the strongest of the village's three seats, but the other two e
 
 ## See Also
 
-- [[place-thornwald|Thornwald]]—the reach around the village
-- [[place-frithhaven|Frithhaven]] and [[place-skathburg|Skathburg]]—neighboring villages reached by forest tracks
-- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—the wider web of independent villages
+[[place-thornwald|Thornwald]]
+: the reach around the village
+
+[[place-frithhaven|Frithhaven]] and [[place-skathburg|Skathburg]]
+: neighboring villages reached by forest tracks
+
+[[affiliation-vrystwldtrbs|Vristwald Tribes]]
+: the wider web of independent villages

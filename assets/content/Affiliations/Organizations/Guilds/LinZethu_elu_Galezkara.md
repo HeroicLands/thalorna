@@ -56,5 +56,8 @@ A private commission pays for confidential copying, and the consortium guards th
 
 ## See Also
 
-- [[affiliation-lutrethsaar|Lut-Reth'Sa'ar]]—The temple whose schools the consortium works outside
-- [[place-galezkara|Galezkara]]—The city the consortium works in
+[[affiliation-lutrethsaar|Lut-Reth'Sa'ar]]
+: The temple whose schools the consortium works outside
+
+[[place-galezkara|Galezkara]]
+: The city the consortium works in

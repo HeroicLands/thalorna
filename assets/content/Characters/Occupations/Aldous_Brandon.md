@@ -427,10 +427,14 @@ A charcoaler of the coast who draws his kilns early and sells green charcoal che
 
 ## Plot Hooks
 
-1. **The Armorers' Contract**—The Senate's contract for the legions' armorers has gone to Aldous's rival, whose charcoal is cheaper, and the armorers say the steel is coming out short. The _tarkelos_ (treasury officer) who signed was paid to.
+The Armorers' Contract
+: The Senate's contract for the legions' armorers has gone to Aldous's rival, whose charcoal is cheaper, and the armorers say the steel is coming out short. The _tarkelos_ (treasury officer) who signed was paid to.
 
-2. **The Black Fires**—A shrine of [[affiliation-blackflame|The Black Flame]], which the town's magistrates are paid not to notice, has asked for a standing supply of Aldous's oak charcoal at a price the smiths could not match.
+The Black Fires
+: A shrine of [[affiliation-blackflame|The Black Flame]], which the town's magistrates are paid not to notice, has asked for a standing supply of Aldous's oak charcoal at a price the smiths could not match.
 
-3. **The Senator's Wood**—The senator whose coppice Aldous leases has decided to clear it for pasture, and Aldous's kilns and his year's cut stand in it.
+The Senator's Wood
+: The senator whose coppice Aldous leases has decided to clear it for pasture, and Aldous's kilns and his year's cut stand in it.
 
-4. **The Late Sack**—Aldous held a kiln two days past its date to get it right, and the smith who waited for it, his father's oldest customer, lost a commission to a rival with green charcoal.
+The Late Sack
+: Aldous held a kiln two days past its date to get it right, and the smith who waited for it, his father's oldest customer, lost a commission to a rival with green charcoal.

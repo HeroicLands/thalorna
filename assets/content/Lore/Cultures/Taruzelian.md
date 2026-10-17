@@ -179,15 +179,32 @@ The sin is the betrayal that followed. Within two years of independence the Conf
 
 ## See Also
 
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the twelve-year-old confederation
-- [[place-taruzelrgn|Taruzel Region]]—the islands and their harbors
-- [[affiliation-auricompct|Auric Compact]]—the banking cartel and the real leverage
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the gods, and the ones sailors actually address
-- [[affiliation-vezakuni|Vezakuni]]—the Council of the Guild-Wardens, and the Merazuni that keeps the script
-- [[place-tamzirshoals|Tamzir Shoals]]—the battle the Confederation was founded on
-- [[affiliation-thetamzir|The Tamzir]]—a captain who kept his hull, and her crew
-- [[skill-taruzelilng#lexicon|Taruzeli Lexicon]]—the words of the bargain, the ledger and the hull
-- [[skill-taruzelilng|Taruzeli]]—the tongue of the ports
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the twelve-year-old confederation
+
+[[place-taruzelrgn|Taruzel Region]]
+: the islands and their harbors
+
+[[affiliation-auricompct|Auric Compact]]
+: the banking cartel and the real leverage
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the gods, and the ones sailors actually address
+
+[[affiliation-vezakuni|Vezakuni]]
+: the Council of the Guild-Wardens, and the Merazuni that keeps the script
+
+[[place-tamzirshoals|Tamzir Shoals]]
+: the battle the Confederation was founded on
+
+[[affiliation-thetamzir|The Tamzir]]
+: a captain who kept his hull, and her crew
+
+[[skill-taruzelilng#lexicon|Taruzeli Lexicon]]
+: the words of the bargain, the ledger and the hull
+
+[[skill-taruzelilng|Taruzeli]]
+: the tongue of the ports
 
 ## Glossary {#glossary}
 

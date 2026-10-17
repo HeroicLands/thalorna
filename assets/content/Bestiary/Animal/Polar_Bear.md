@@ -298,20 +298,29 @@ The polar bear is a tireless swimmer, capable of sustaining continuous swimming 
 
 ## Attributes
 
-- **Strength:** 26-31 (1d6+25)
+Strength
+: 26-31 (1d6+25)
 
-- **Endurance:** 19-24 (1d6+18)
+Endurance
+: 19-24 (1d6+18)
 
-- **Agility:** 8-13 (1d6+7)
+Agility
+: 8-13 (1d6+7)
 
-- **Perception:** 12-17 (1d6+11)
+Perception
+: 12-17 (1d6+11)
 
-- **Scent:** 6-9 (1d4+5)
+Scent
+: 6-9 (1d4+5)
 
-- **Aura:** 4-7 (1d4+3)
+Aura
+: 4-7 (1d4+3)
 
-- **Will:** 13-18 (1d6+12)
+Will
+: 13-18 (1d6+12)
 
-- **Reasoning:** 4-7 (1d4+3)
+Reasoning
+: 4-7 (1d4+3)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

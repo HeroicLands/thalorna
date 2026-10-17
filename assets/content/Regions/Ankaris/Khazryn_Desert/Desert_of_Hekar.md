@@ -32,7 +32,14 @@ A Bizarian caravan master with two hundred camels waiting at the foot of the Mar
 
 ## See Also
 
-- [[place-ruinsarkor|Ruins of Arkor]]—the buried city in its sands
-- [[being-drzhvzhnr|Drazha Vezhnur]]—the Blazewarden who raids it
-- [[place-eastrnmrch|Eastern March]]—the march above its passes
-- [[place-roqid|Oroqid]]—the Vylarian fort on the same margin
+[[place-ruinsarkor|Ruins of Arkor]]
+: the buried city in its sands
+
+[[being-drzhvzhnr|Drazha Vezhnur]]
+: the Blazewarden who raids it
+
+[[place-eastrnmrch|Eastern March]]
+: the march above its passes
+
+[[place-roqid|Oroqid]]
+: the Vylarian fort on the same margin

@@ -59,8 +59,17 @@ From the Amradi shore the route runs south through the oasis towns and then by t
 
 ## See Also
 
-- [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]—the lineages and the Council that denounced the master
-- [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]—the Old Promise and the Quiet After
-- [[affiliation-dunhartrbs|Dunhara Tribes]]—the Kinless and the other ranks of the desert
-- [[place-dunhardsrtrgn|Dunhara Desert Region]]—the country around the Floor
-- [[lore-dunhariclt|Dunhari]]—salt, the Kinless and the Old Promise
+[[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]
+: the lineages and the Council that denounced the master
+
+[[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]
+: the Old Promise and the Quiet After
+
+[[affiliation-dunhartrbs|Dunhara Tribes]]
+: the Kinless and the other ranks of the desert
+
+[[place-dunhardsrtrgn|Dunhara Desert Region]]
+: the country around the Floor
+
+[[lore-dunhariclt|Dunhari]]
+: salt, the Kinless and the Old Promise

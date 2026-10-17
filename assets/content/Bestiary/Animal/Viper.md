@@ -218,20 +218,29 @@ Vipers are most dangerous to unprepared targets. The creatures avoid conflict wi
 
 ## Attributes
 
-- **Strength:** 4-7 (1d4+3)
+Strength
+: 4-7 (1d4+3)
 
-- **Endurance:** 6-9 (1d4+5)
+Endurance
+: 6-9 (1d4+5)
 
-- **Dexterity:** 11-16 (1d6+10)
+Dexterity
+: 11-16 (1d6+10)
 
-- **Agility:** 14-17 (1d4+13)
+Agility
+: 14-17 (1d4+13)
 
-- **Perception:** 15-20 (1d6+14)
+Perception
+: 15-20 (1d6+14)
 
-- **Aura:** 2-5 (1d4+1)
+Aura
+: 2-5 (1d4+1)
 
-- **Will:** 7-10 (1d4+6)
+Will
+: 7-10 (1d4+6)
 
-- **Reasoning:** 2-5 (1d4+1)
+Reasoning
+: 2-5 (1d4+1)
 
-- **Creativity:** 2-5 (1d4+1)
+Creativity
+: 2-5 (1d4+1)

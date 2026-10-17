@@ -22,6 +22,11 @@ The road is laid to the solstice line. At midsummer dawn the sun rises exactly d
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The imperial city
-- [[place-yathtelgu|Yath-Telgu]]—The sacred island the road crosses
-- [[place-zugezer|Zu-Gezer]]—The necropolis where the road ends
+[[place-galezkara|Galezkara]]
+: The imperial city
+
+[[place-yathtelgu|Yath-Telgu]]
+: The sacred island the road crosses
+
+[[place-zugezer|Zu-Gezer]]
+: The necropolis where the road ends

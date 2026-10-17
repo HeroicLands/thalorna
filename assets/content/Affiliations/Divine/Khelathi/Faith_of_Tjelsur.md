@@ -69,7 +69,14 @@ The cult keeps the shared temple ladder; a selat god's Thaz'Lekhau carries real 
 
 ## See Also
 
-- [[lore-tjelsukdty|Tjelsur]]—the god
-- [[affiliation-garnuw|Gar'Nuw]]—the cullers who answer when the beasts take people
-- [[affiliation-zeghetnelgu|Zeghet'Nelgu]]—the sacred hunt that culls under temple dispensation
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the temple hierarchy every [[lore-khelathiclt|Khelathi]] cult shares
+[[lore-tjelsukdty|Tjelsur]]
+: the god
+
+[[affiliation-garnuw|Gar'Nuw]]
+: the cullers who answer when the beasts take people
+
+[[affiliation-zeghetnelgu|Zeghet'Nelgu]]
+: the sacred hunt that culls under temple dispensation
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: the temple hierarchy every [[lore-khelathiclt|Khelathi]] cult shares

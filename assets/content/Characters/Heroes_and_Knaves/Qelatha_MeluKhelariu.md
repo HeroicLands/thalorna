@@ -450,19 +450,37 @@ Qelatha is driven by a combination of grief, duty, and determination to preserve
 
 ### Strengths
 
-- **Masterful Archery**: Qelatha's skill with bow and arrow approaches the level of true mastery. She has great accuracy, a rapid rate of fire, and the ability to make shots that most archers would consider impossible.
-- **Tracking and Survival Mastery**: Her ability to read signs in the natural world—tracks, disturbances in vegetation, changes in animal behavior—is second to none. She can survive for extended periods in wilderness with minimal resources.
-- **Speed and Agility**: Her dexterity and agility allow her to move with grace and speed that belies her height. She is capable of executing acrobatic feats and moving through terrain with little wasted effort.
-- **Stealth and Fieldcraft**: Her understanding of how to move undetected through various environments, use terrain and vegetation for concealment, and approach prey without alerting it, is comprehensive and practically instinctive.
-- **Fletching Expertise**: She is skilled at crafting arrows as well as using them, and does so with great precision. She can create specialized arrows for specific purposes—broadheads, blunt heads, arrows with special properties.
+Masterful Archery
+: Qelatha's skill with bow and arrow approaches the level of true mastery. She has great accuracy, a rapid rate of fire, and the ability to make shots that most archers would consider impossible.
+
+Tracking and Survival Mastery
+: Her ability to read signs in the natural world—tracks, disturbances in vegetation, changes in animal behavior—is second to none. She can survive for extended periods in wilderness with minimal resources.
+
+Speed and Agility
+: Her dexterity and agility allow her to move with grace and speed that belies her height. She is capable of executing acrobatic feats and moving through terrain with little wasted effort.
+
+Stealth and Fieldcraft
+: Her understanding of how to move undetected through various environments, use terrain and vegetation for concealment, and approach prey without alerting it, is comprehensive and practically instinctive.
+
+Fletching Expertise
+: She is skilled at crafting arrows as well as using them, and does so with great precision. She can create specialized arrows for specific purposes—broadheads, blunt heads, arrows with special properties.
 
 ### Weaknesses
 
-- **Limited Melee Strength**: While capable with a blade at close range, Qelatha lacks the physical strength needed for sustained melee combat against heavier, more powerful opponents. She is vulnerable if forced into direct hand-to-hand confrontation with trained warriors.
-- **Poor Urban Navigation**: She becomes tense and disoriented in dense settlements and crowded urban environments. Her advantages—stealth, knowledge of terrain, tracking—are significantly diminished in civilized spaces.
-- **Emotional Volatility About Her People**: While normally controlled, Qelatha can become emotionally reactive when confronted with evidence of ongoing exploitation or injustice directed toward her people or their lands. This can lead to poor decisions.
-- **Moral Rigidity**: Her strong ethical code, while admirable, sometimes prevents her from taking pragmatic actions that might serve her longer-term interests. She can be too uncompromising.
-- **Difficulty Maintaining Relationships**: Her emotional reserve, her tendency to be secretive about her vigilante activities, and her deep attachment to the wilderness make it difficult for her to maintain close personal relationships.
+Limited Melee Strength
+: While capable with a blade at close range, Qelatha lacks the physical strength needed for sustained melee combat against heavier, more powerful opponents. She is vulnerable if forced into direct hand-to-hand confrontation with trained warriors.
+
+Poor Urban Navigation
+: She becomes tense and disoriented in dense settlements and crowded urban environments. Her advantages—stealth, knowledge of terrain, tracking—are significantly diminished in civilized spaces.
+
+Emotional Volatility About Her People
+: While normally controlled, Qelatha can become emotionally reactive when confronted with evidence of ongoing exploitation or injustice directed toward her people or their lands. This can lead to poor decisions.
+
+Moral Rigidity
+: Her strong ethical code, while admirable, sometimes prevents her from taking pragmatic actions that might serve her longer-term interests. She can be too uncompromising.
+
+Difficulty Maintaining Relationships
+: Her emotional reserve, her tendency to be secretive about her vigilante activities, and her deep attachment to the wilderness make it difficult for her to maintain close personal relationships.
 
 ## Social
 
@@ -492,12 +510,17 @@ Local Militia
 
 ## Plot Hooks
 
-1. **The Merchant's Gambit**: Merchant-Lord Lenni Thoten'Ralu offers Qelatha a substantial sum to cease her interference with his operations, phrased as a proposition that he "would prefer to have the talented Qelatha working with him rather than against him." If she refuses, he begins a systematic campaign to eliminate her—hiring skilled mercenaries, using imperial connections, and threatening her militia position. Qelatha hires the party to help her investigate Lenni's operations and gather evidence of crimes against the land that could force the empire to shut down his activities. The investigation becomes increasingly dangerous as Lenni escalates his response.
+The Merchant's Gambit
+: Merchant-Lord Lenni Thoten'Ralu offers Qelatha a substantial sum to cease her interference with his operations, phrased as a proposition that he "would prefer to have the talented Qelatha working with him rather than against him." If she refuses, he begins a systematic campaign to eliminate her—hiring skilled mercenaries, using imperial connections, and threatening her militia position. Qelatha hires the party to help her investigate Lenni's operations and gather evidence of crimes against the land that could force the empire to shut down his activities. The investigation becomes increasingly dangerous as Lenni escalates his response.
 
-2. **The Spider's Bargain**: A mysterious figure known only as "The Spider" approaches Qelatha with a proposition: help them steal a specific artifact from imperial storage, and they will provide information about who killed her father and why. Qelatha is deeply tempted, as she has never received a satisfactory answer about her father's death, but the proposition is clearly dangerous and the Spider's true motives are unclear. The party must help her weigh this temptation while discovering who the Spider actually is and what they truly want.
+The Spider's Bargain
+: A mysterious figure known only as "The Spider" approaches Qelatha with a proposition: help them steal a specific artifact from imperial storage, and they will provide information about who killed her father and why. Qelatha is deeply tempted, as she has never received a satisfactory answer about her father's death, but the proposition is clearly dangerous and the Spider's true motives are unclear. The party must help her weigh this temptation while discovering who the Spider actually is and what they truly want.
 
-3. **The Poisoned Lands**: Qelatha discovers that one of Lenni's mining operations has fouled the region's water, causing mysterious illnesses among both human and animal populations in the borderlands. The empire appears reluctant to enforce its own laws, possibly because Lenni has bribed officials or threatened retaliation. Qelatha must prove the contamination's source and force accountability, working with the party to gather evidence, conduct investigations, and potentially take direct action to prevent further poisoning. The situation becomes complicated when they discover that the pattern of the fouling suggests something worse than carelessness.
+The Poisoned Lands
+: Qelatha discovers that one of Lenni's mining operations has fouled the region's water, causing mysterious illnesses among both human and animal populations in the borderlands. The empire appears reluctant to enforce its own laws, possibly because Lenni has bribed officials or threatened retaliation. Qelatha must prove the contamination's source and force accountability, working with the party to gather evidence, conduct investigations, and potentially take direct action to prevent further poisoning. The situation becomes complicated when they discover that the pattern of the fouling suggests something worse than carelessness.
 
-4. **Gar-Gezanu Closing In**: Qelatha learns that the Exaction Service has finalized a dossier on her vigilante activities and is preparing to arrest her for theft and sabotage. She has perhaps two weeks before they move. She can surrender and face trial (where she will likely be convicted and imprisoned), flee the region entirely (abandoning her mission to protect the lands), or use the party's help to discredit the evidence or undermine the Exaction Service's authority. Each course carries heavy consequences.
+Gar-Gezanu Closing In
+: Qelatha learns that the Exaction Service has finalized a dossier on her vigilante activities and is preparing to arrest her for theft and sabotage. She has perhaps two weeks before they move. She can surrender and face trial (where she will likely be convicted and imprisoned), flee the region entirely (abandoning her mission to protect the lands), or use the party's help to discredit the evidence or undermine the Exaction Service's authority. Each course carries heavy consequences.
 
-5. **The Ritual of Remembrance**: Qelatha's people traditionally conduct an annual ritual honoring those lost to injustice and celebrating their connection to the land. The ritual site is now on land controlled by Merchant-Lord Lenni, and he has forbidden the Meykhathi from conducting the ceremony. Qelatha resolves to conduct the ritual anyway, knowing it will constitute a direct violation of his property rights and could result in arrest or violence. She asks the party to help her protect the ritual space and the participants, creating a potential confrontation with Lenni's guards. The ritual itself carries spiritual significance that may have unforeseen consequences.
+The Ritual of Remembrance
+: Qelatha's people traditionally conduct an annual ritual honoring those lost to injustice and celebrating their connection to the land. The ritual site is now on land controlled by Merchant-Lord Lenni, and he has forbidden the Meykhathi from conducting the ceremony. Qelatha resolves to conduct the ritual anyway, knowing it will constitute a direct violation of his property rights and could result in arrest or violence. She asks the party to help her protect the ritual space and the participants, creating a potential confrontation with Lenni's guards. The ritual itself carries spiritual significance that may have unforeseen consequences.

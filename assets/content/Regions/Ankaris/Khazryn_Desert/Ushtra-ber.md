@@ -43,7 +43,14 @@ The house keeps a household guard of about fifty men, enough for ordinary securi
 
 ## See Also
 
-- [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the council of the seven houses
-- [[place-swoasisbelt|Tellumel]]—the belt the city stands in
-- [[place-estrnreach|The Eastern Reach]]—the range above the valley
-- [[place-mehrnagord|Mernagord]] and [[place-vahurdash|Vahurdash]]—the other two cities still under Tellumi princes
+[[affiliation-khzrncnfdrtn|Tellumi Confederation]]
+: the council of the seven houses
+
+[[place-swoasisbelt|Tellumel]]
+: the belt the city stands in
+
+[[place-estrnreach|The Eastern Reach]]
+: the range above the valley
+
+[[place-mehrnagord|Mernagord]] and [[place-vahurdash|Vahurdash]]
+: the other two cities still under Tellumi princes

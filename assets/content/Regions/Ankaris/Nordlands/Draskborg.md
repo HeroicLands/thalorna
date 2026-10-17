@@ -30,8 +30,17 @@ The songs spell it Driskborg, and the Targud accounts Draskborg. The name is wha
 
 ## See Also
 
-- [[being-krldthnshldbr|Krildthann Shieldbearer]]—the defender the songs put on its walls
-- [[lore-storalddraskborg|Storald of Draskborg]]—the fort-duty saga of a winter at the tower
-- [[lore-burningeast|The Burning of the East]]—the war that left the burned ground it stands on
-- [[affiliation-kingdmtrgd|Kingdom of Targud]]—the kingdom whose king raised it
-- [[place-tvalgard|Tvalgard]]—the seat the beacon warns
+[[being-krldthnshldbr|Krildthann Shieldbearer]]
+: the defender the songs put on its walls
+
+[[lore-storalddraskborg|Storald of Draskborg]]
+: the fort-duty saga of a winter at the tower
+
+[[lore-burningeast|The Burning of the East]]
+: the war that left the burned ground it stands on
+
+[[affiliation-kingdmtrgd|Kingdom of Targud]]
+: the kingdom whose king raised it
+
+[[place-tvalgard|Tvalgard]]
+: the seat the beacon warns

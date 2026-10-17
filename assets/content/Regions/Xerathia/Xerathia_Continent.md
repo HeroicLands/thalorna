@@ -67,13 +67,32 @@ Beyond the Vylarian Sea, Zerathia's contact with the rest of Thalorna is thin. T
 
 ## See Also
 
-- [[place-worldthlrn|The World of Thalorna]]—World overview
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Ancient northern empire
-- [[affiliation-okharis|Okharis]]—The three-flamed kingdom
-- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—matriarchy of the central northern shore
-- [[place-ekundavlg|Ékunda]]—Settled community of the southern savannahs
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—Faith of Au'Khelathu
-- [[affiliation-nkaruthar|Nkaru'thar]]—The Eternal Flame of Okharis
-- [[place-vylarianse|Vylarian Sea]]—The inland sea shared with Ankaris
-- [[place-midhalnrgn|Mídhalión Region]]—Shared trade zone spanning both continents
-- [[place-ankrscntnnt|Ankaris Continent]]—The northern continent
+[[place-worldthlrn|The World of Thalorna]]
+: World overview
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Ancient northern empire
+
+[[affiliation-okharis|Okharis]]
+: The three-flamed kingdom
+
+[[affiliation-mtrrchybth|Matriarchy of Bethua]]
+: matriarchy of the central northern shore
+
+[[place-ekundavlg|Ékunda]]
+: Settled community of the southern savannahs
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: Faith of Au'Khelathu
+
+[[affiliation-nkaruthar|Nkaru'thar]]
+: The Eternal Flame of Okharis
+
+[[place-vylarianse|Vylarian Sea]]
+: The inland sea shared with Ankaris
+
+[[place-midhalnrgn|Mídhalión Region]]
+: Shared trade zone spanning both continents
+
+[[place-ankrscntnnt|Ankaris Continent]]
+: The northern continent

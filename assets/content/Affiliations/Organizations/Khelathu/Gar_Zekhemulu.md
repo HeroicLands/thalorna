@@ -62,4 +62,5 @@ If you are hired into such a house, remember whose name is on the entries you wr
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The city it belongs to
+[[place-galezkara|Galezkara]]
+: The city it belongs to

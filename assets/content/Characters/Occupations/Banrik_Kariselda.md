@@ -431,10 +431,14 @@ The bigger bodyguards of Herthema who have lost work to him and say a man who ca
 
 ## Plot Hooks
 
-1. **Hired Away**—A client's chief rival has offered Banrik three times his rate to change sides, the day before a meeting between the two. Taking it would be lawful, and would tell the whole quarter what his loyalty costs.
+Hired Away
+: A client's chief rival has offered Banrik three times his rate to change sides, the day before a meeting between the two. Taking it would be lawful, and would tell the whole quarter what his loyalty costs.
 
-2. **What He Cannot Prove**—Banrik is certain that a client's steward is arranging to have him killed, and has nothing but the steward's manner to show for it.
+What He Cannot Prove
+: Banrik is certain that a client's steward is arranging to have him killed, and has nothing but the steward's manner to show for it.
 
-3. **A Face from the Lanes**—A companion from his boyhood, now a thief, has asked Banrik for the hour at which his client's house is unwatched. He has refused.
+A Face from the Lanes
+: A companion from his boyhood, now a thief, has asked Banrik for the hour at which his client's house is unwatched. He has refused.
 
-4. **The Fight He Cannot Win**—A rival has arranged a challenge that Banrik cannot talk his way out of: a public bout, sellsword to sellsword, in front of the men who hire him. He will lose it on strength.
+The Fight He Cannot Win
+: A rival has arranged a challenge that Banrik cannot talk his way out of: a public bout, sellsword to sellsword, in front of the men who hire him. He will lose it on strength.

@@ -31,7 +31,14 @@ A seeker may keep the howe-wake on the ninth night, sitting awake on a burial mo
 
 ## See Also
 
-- [[lore-midsumar|Midsomar]], [[lore-sumarmal|Somarmál]] and [[lore-vetrnaetr|Vetrnetr]]—the other three great blets
-- [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—the grave-ale the Ride's dead never had
-- [[lore-nordheimnclt|Nordheimn]]—the year at the hall and the dead near home
-- [[affiliation-asguardian|Asguardian Pantheon]]—the Ten and the Asguardian year
+[[lore-midsumar|Midsomar]], [[lore-sumarmal|Somarmál]] and [[lore-vetrnaetr|Vetrnetr]]
+: the other three great blets
+
+[[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]
+: the grave-ale the Ride's dead never had
+
+[[lore-nordheimnclt|Nordheimn]]
+: the year at the hall and the dead near home
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the Ten and the Asguardian year

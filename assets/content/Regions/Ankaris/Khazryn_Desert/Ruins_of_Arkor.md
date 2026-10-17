@@ -36,7 +36,14 @@ The canon hook stands as it is: the Black Flame's factions are fighting each oth
 
 ## See Also
 
-- [[place-hekardesert|Desert of Hek'ar]]—the desert that buries the city
-- [[lore-towercities|The Tower Cities]]—the league that built it
-- [[being-drzhvzhnr|Drazha Vezhnur]]—the knight who seeks the Eye
-- [[affiliation-blackflame|The Black Flame]]—the faith whose relic is sought
+[[place-hekardesert|Desert of Hek'ar]]
+: the desert that buries the city
+
+[[lore-towercities|The Tower Cities]]
+: the league that built it
+
+[[being-drzhvzhnr|Drazha Vezhnur]]
+: the knight who seeks the Eye
+
+[[affiliation-blackflame|The Black Flame]]
+: the faith whose relic is sought

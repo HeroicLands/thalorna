@@ -127,8 +127,17 @@ Mortals petition Zhoushou Zho through offerings at water shrines, through the po
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The Celestial Bureaucracy that appointed Zhoushou Zho as Elemental Lord
-- [[affiliation-raogui|Raogui]]—Overseer of the Bureau of Thunder and Rain, with whom Zhoushou Zho disputes jurisdiction over rainfall
-- [[affiliation-wodou|Wodou]]—Overseer of the Bureau of Passage, who claims authority over water in its "transit" function
-- [[affiliation-wengdaozhouwo|Wéngdao Zhouwo]]—The Elemental Lord of Earth, with whom Zhoushou Zho shares jurisdiction over groundwater
-- [[lore-tanchei|Tanchéi]]—The priesthood who mediate petitions to the Elemental Lords
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: The Celestial Bureaucracy that appointed Zhoushou Zho as Elemental Lord
+
+[[affiliation-raogui|Raogui]]
+: Overseer of the Bureau of Thunder and Rain, with whom Zhoushou Zho disputes jurisdiction over rainfall
+
+[[affiliation-wodou|Wodou]]
+: Overseer of the Bureau of Passage, who claims authority over water in its "transit" function
+
+[[affiliation-wengdaozhouwo|Wéngdao Zhouwo]]
+: The Elemental Lord of Earth, with whom Zhoushou Zho shares jurisdiction over groundwater
+
+[[lore-tanchei|Tanchéi]]
+: The priesthood who mediate petitions to the Elemental Lords

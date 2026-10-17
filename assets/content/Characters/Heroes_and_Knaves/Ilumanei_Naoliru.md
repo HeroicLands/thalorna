@@ -460,44 +460,86 @@ Ilumanei believes the written word protects the weak. He has seen a careful cont
 
 ### Strengths
 
-- **Languages and scripts**: he reads, writes and speaks the island's tongue, the harbor pidgin and several foreign languages, and knows how to make words mean exactly one thing.
-- **Perception and sympathy**: he understands what a client needs from a document before the client can say it, and he can tell when someone is lying or being led.
-- **Reasoning**: he solves tangled problems of contract with wording every party can accept and no court can fault.
-- **Persuasion**: he explains hard points simply and mediates disputes with grace.
-- **Practical skill**: he cooks, knows his herbs and can treat a fever, and his clients get advice that reaches past the page.
+Languages and scripts
+: he reads, writes and speaks the island's tongue, the harbor pidgin and several foreign languages, and knows how to make words mean exactly one thing.
+
+Perception and sympathy
+: he understands what a client needs from a document before the client can say it, and he can tell when someone is lying or being led.
+
+Reasoning
+: he solves tangled problems of contract with wording every party can accept and no court can fault.
+
+Persuasion
+: he explains hard points simply and mediates disputes with grace.
+
+Practical skill
+: he cooks, knows his herbs and can treat a fever, and his clients get advice that reaches past the page.
 
 ### Weaknesses
 
-- **No head for business**: he cannot refuse an unreasonable request or put profit first, so he is always short of money, and clients talk him into working for a pittance.
-- **Weakness of body**: he is not strong or quick, and against violence he needs others to protect him.
-- **Trust**: clever deceivers can work on his sense of fairness, and he assumes good faith where there is none.
-- **Distraction**: outside his work he lacks discipline, and his clients' troubles pull him from tasks that matter more.
-- **No fighter**: he can throw, shoot and swing a blade passably, and his temper makes him avoid fighting whenever he can.
+No head for business
+: he cannot refuse an unreasonable request or put profit first, so he is always short of money, and clients talk him into working for a pittance.
+
+Weakness of body
+: he is not strong or quick, and against violence he needs others to protect him.
+
+Trust
+: clever deceivers can work on his sense of fairness, and he assumes good faith where there is none.
+
+Distraction
+: outside his work he lacks discipline, and his clients' troubles pull him from tasks that matter more.
+
+No fighter
+: he can throw, shoot and swing a blade passably, and his temper makes him avoid fighting whenever he can.
 
 ## Social
 
 ### Patrons
 
-- **Kalihara's High Registry**: the Registry still brings him its delicate and difficult work, in private, and takes care that his good name stays clean.
-- **Merchants' and Traders' Guild**: several powerful merchants of the ports hire him for their contracts. They pay well, and he annoys them by insisting on terms fair to both sides.
-- **Village Councils and Local Magistrates**: the quarter councils of the smaller ports and the wardens' magistrates at Nalurithan and Telvari hire him to record disputes and witness agreements, and they guard his reputation in their towns.
-- **Poor Farmers and Craftspeople**: the porters, boatmen and craftsmen of the quays pay him little and love him most, and would stand between him and any threat.
+Kalihara's High Registry
+: the Registry still brings him its delicate and difficult work, in private, and takes care that his good name stays clean.
+
+Merchants' and Traders' Guild
+: several powerful merchants of the ports hire him for their contracts. They pay well, and he annoys them by insisting on terms fair to both sides.
+
+Village Councils and Local Magistrates
+: the quarter councils of the smaller ports and the wardens' magistrates at Nalurithan and Telvari hire him to record disputes and witness agreements, and they guard his reputation in their towns.
+
+Poor Farmers and Craftspeople
+: the porters, boatmen and craftsmen of the quays pay him little and love him most, and would stand between him and any threat.
 
 ### Enemies
 
-- **A foreign merchant**: a trader whose business Ilumanei refused after finding that he used contracts to defraud partners who could not read them. The merchant spreads word that Ilumanei's documents are unreliable and that he favors the poor.
-- **Guild Master Navatei**: the master of the Scribes' Guild, who grows rich on high fees from wealthy clients and discourages scribes from working for the poor. Ilumanei's success outside his control is a standing rebuke, and Navatei means to end it.
+A foreign merchant
+: a trader whose business Ilumanei refused after finding that he used contracts to defraud partners who could not read them. The merchant spreads word that Ilumanei's documents are unreliable and that he favors the poor.
+
+Guild Master Navatei
+: the master of the Scribes' Guild, who grows rich on high fees from wealthy clients and discourages scribes from working for the poor. Ilumanei's success outside his control is a standing rebuke, and Navatei means to end it.
 
 ### Affiliations
 
-- [[affiliation-kalihara|Kalihara]]: an islander's standing among the port Kaliharans. He is a member of the port's Scribes' Guild, upholding its standards and resisting its slide toward serving only those who can pay.
-- [[affiliation-lizelas|Faith of Lizelas]]: he keeps the faith of the Nurturer that he learned in the temple school, and his office stands in the old archive of her temple, among the Temple Archive Cooperative of scholars who keep its records.
-- **Free Scribes' Alliance**: a loose fellowship of scribes who have left the guild or the Registry to work for themselves, who share methods and help each other with hard commissions.
+[[affiliation-kalihara|Kalihara]]
+: an islander's standing among the port Kaliharans. He is a member of the port's Scribes' Guild, upholding its standards and resisting its slide toward serving only those who can pay.
+
+[[affiliation-lizelas|Faith of Lizelas]]
+: he keeps the faith of the Nurturer that he learned in the temple school, and his office stands in the old archive of her temple, among the Temple Archive Cooperative of scholars who keep its records.
+
+Free Scribes' Alliance
+: a loose fellowship of scribes who have left the guild or the Registry to work for themselves, who share methods and help each other with hard commissions.
 
 ## Plot Hooks
 
-1. **The Forged Inheritance**: A young widow of a foreign family long settled in Vashurán brings Ilumanei her marriage contract, which he drew up and witnessed fifteen years ago. Her husband's brother now calls it a forgery, to take the house, the boat and the warehouse share that should be hers. Ilumanei must prove the document real and find who tampered with the copies, and the trail leads toward Guild Master Navatei and a trade in forged records for clients who want an inconvenient contract undone.
-2. **The Secret Documents**: A dying scholar brings Ilumanei a bundle of documents in a script older than any writing the island uses, which tell of a people who came before the Kaliharans and of works they left in the interior that are failing. The scholar dies of poison before he can say more. Ilumanei can hide the bundle, give it to the wardens and see it vanish, or try to read it himself, and if he reads it, he learns why the custodians of the interior would want it buried, and finds people already searching for him.
-3. **The Witness to Murder**: From his office window Ilumanei sees a high official of the port kill a rival whose death suits several powerful factions. Everyone from the harbor-warden to hired knives now wants his testimony, some true, some false, some silenced for good. He must decide whether to set down what he saw in a sealed statement and live with what follows.
-4. **The Underground Records**: Ilumanei learns that beneath the High Registry lies a hidden archive of records the councils have kept secret for centuries: betrayals, murders and bargains that would shake the island's trust in its own government. Loyalists want him to destroy them and others want them read aloud on the quay, and among the papers is evidence that Vaelumo the Precise had a hand in the original concealment.
-5. **The Apprentice's Destiny**: A gifted street orphan, **Ruvaneli**, begs Ilumanei to teach him, and Ilumanei takes him on with delight. In time he discovers that Navatei planted the boy to learn his methods and steal his clients. But Ruvaneli has come to love his master and is torn by his task, and Ilumanei must find a way to reach him and help him choose honesty over Navatei's promises.
+The Forged Inheritance
+: A young widow of a foreign family long settled in Vashurán brings Ilumanei her marriage contract, which he drew up and witnessed fifteen years ago. Her husband's brother now calls it a forgery, to take the house, the boat and the warehouse share that should be hers. Ilumanei must prove the document real and find who tampered with the copies, and the trail leads toward Guild Master Navatei and a trade in forged records for clients who want an inconvenient contract undone.
+
+The Secret Documents
+: A dying scholar brings Ilumanei a bundle of documents in a script older than any writing the island uses, which tell of a people who came before the Kaliharans and of works they left in the interior that are failing. The scholar dies of poison before he can say more. Ilumanei can hide the bundle, give it to the wardens and see it vanish, or try to read it himself, and if he reads it, he learns why the custodians of the interior would want it buried, and finds people already searching for him.
+
+The Witness to Murder
+: From his office window Ilumanei sees a high official of the port kill a rival whose death suits several powerful factions. Everyone from the harbor-warden to hired knives now wants his testimony, some true, some false, some silenced for good. He must decide whether to set down what he saw in a sealed statement and live with what follows.
+
+The Underground Records
+: Ilumanei learns that beneath the High Registry lies a hidden archive of records the councils have kept secret for centuries: betrayals, murders and bargains that would shake the island's trust in its own government. Loyalists want him to destroy them and others want them read aloud on the quay, and among the papers is evidence that Vaelumo the Precise had a hand in the original concealment.
+
+The Apprentice's Destiny
+: A gifted street orphan, **Ruvaneli**, begs Ilumanei to teach him, and Ilumanei takes him on with delight. In time he discovers that Navatei planted the boy to learn his methods and steal his clients. But Ruvaneli has come to love his master and is torn by his task, and Ilumanei must find a way to reach him and help him choose honesty over Navatei's promises.

@@ -45,9 +45,20 @@ By boat on the low ebb, past the headland stones, through a mouth that clears th
 
 ## See Also
 
-- [[place-vrathavn|Vrathavn]]—the harbor town that raises its stones on the cape
-- [[place-shieldhall|The Shield-Hall]]—where the honor-bonds of the crews are sealed
-- [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—the stone raised for the drowned
-- [[lore-jol|Jel]]—the Jel-Ride of the unmourned dead
-- [[affiliation-nghtwghtcncl|Nightwight Council]]—the cabal that lends the jarl its craft
-- [[lore-theshadow|The Shadow]]—what binds the drowned
+[[place-vrathavn|Vrathavn]]
+: the harbor town that raises its stones on the cape
+
+[[place-shieldhall|The Shield-Hall]]
+: where the honor-bonds of the crews are sealed
+
+[[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]
+: the stone raised for the drowned
+
+[[lore-jol|Jel]]
+: the Jel-Ride of the unmourned dead
+
+[[affiliation-nghtwghtcncl|Nightwight Council]]
+: the cabal that lends the jarl its craft
+
+[[lore-theshadow|The Shadow]]
+: what binds the drowned

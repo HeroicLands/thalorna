@@ -33,45 +33,39 @@ A Spirit-Speaker's craft consists, in large part, of knowing which posture a giv
 and which posture a situation calls for. The categories are the tradition's own; a griot asked to
 describe the people's dealings with the spirits will name all three without prompting.
 
-- **Venerate**—the benevolent guides: honored with regular offering, greeted at the seasons,
-  sung of in the clan's memory-songs. A river-mother whose waters are clean, a baobab that keeps
-  the gathering-tree, an ancestor whose counsel still guides the clan, the hearth-spirit of a
-  compound. Most of Nyáluba religious life consists of such relationships.
-- **Appease**—the severe or exacting guides: their demands met, their protocols followed
-  without error, their offerings rendered exactly as tradition requires. A crocodile-kin of a
-  dangerous crossing, a drought-spirit placated before the dry season, the spirit of a ridge
-  where an elder was struck by lightning. Appeasement is precise and unforgiving of mistakes.
-- **Ward against**—the dangerous and the hostile: avoided where possible, sung away where not,
-  kept outside the bounds of the clan's life by fire, charm, protective object and the exact word
-  of warding. The restless dead of cursed ground, the spirits of a place where a great wrong was
-  done, the enmity a rival clan earned generations past. One does not bargain with what one wards
-  against.
+Venerate
+: the benevolent guides: honored with regular offering, greeted at the seasons, sung of in the clan's memory-songs. A river-mother whose waters are clean, a baobab that keeps the gathering-tree, an ancestor whose counsel still guides the clan, the hearth-spirit of a compound. Most of Nyáluba religious life consists of such relationships.
+
+Appease
+: the severe or exacting guides: their demands met, their protocols followed without error, their offerings rendered exactly as tradition requires. A crocodile-kin of a dangerous crossing, a drought-spirit placated before the dry season, the spirit of a ridge where an elder was struck by lightning. Appeasement is precise and unforgiving of mistakes.
+
+Ward against
+: the dangerous and the hostile: avoided where possible, sung away where not, kept outside the bounds of the clan's life by fire, charm, protective object and the exact word of warding. The restless dead of cursed ground, the spirits of a place where a great wrong was done, the enmity a rival clan earned generations past. One does not bargain with what one wards against.
 
 ## The Kinds of Guide
 
 The tradition imposes no rigid taxonomy, but seven kinds recur across the clans.
 
-- **Totems**—the ancestral guides of a clan's lineage, and the ones with formal cults of their
-  own: [[affiliation-nyalblion|Lion]] (Ruwozi), [[affiliation-nyalbcroc|Crocodile]] (Kolembozi),
-  [[affiliation-nyalbeagl|Eagle]] (Ngonzi), [[affiliation-nyalbleop|Leopard]] (Sengala) and
-  [[affiliation-nyalbbaob|Baobab]] (Lobwezi). A totem is not an animal but the ancestral presence
-  from which the clan traces its identity, and the clan's conduct is bound by its nature.
-- **Land-spirits**—whose domain is a place rather than a lineage: keepers of gathering-trees,
-  ridge-spirits of sacred heights, spirits of crossings, cairns and thresholds. Many of the
-  oldest sites are held by land-spirits that were ancient when the first clans arrived.
-- **Water-spirits**—of rivers, pools, waterfalls and the great inland lakes. Addressed as
-  "mothers" or as "fathers" depending on character, and consulted on travel, crossing, drowning,
-  fishing and cleansing.
-- **Hunt-spirits**—of particular game and particular hunting grounds. Addressed before the
-  hunt, thanked after a kill, and given a specific share. A hunter who returns full-handed with
-  no offering has broken his clan's standing pact.
-- **Weather-spirits**—of storm, rain, wind and sun. More mobile than the territorial guides and
-  regarded as less reliable; addressed in the moment rather than on a standing basis.
-- **Ancestor-spirits**—named ancestors of a clan, personal to a lineage. A clan's genealogy is
-  in effect the roll of its ancestors, and the griot who holds the genealogy keeps the connection
-  alive.
-- **Hearth-spirits**—of the household, the compound and the communal fire. Every household has
-  one; a great village hearth may have a powerful one of long standing.
+Totems
+: the ancestral guides of a clan's lineage, and the ones with formal cults of their own: [[affiliation-nyalblion|Lion]] (Ruwozi), [[affiliation-nyalbcroc|Crocodile]] (Kolembozi), [[affiliation-nyalbeagl|Eagle]] (Ngonzi), [[affiliation-nyalbleop|Leopard]] (Sengala) and [[affiliation-nyalbbaob|Baobab]] (Lobwezi). A totem is not an animal but the ancestral presence from which the clan traces its identity, and the clan's conduct is bound by its nature.
+
+Land-spirits
+: whose domain is a place rather than a lineage: keepers of gathering-trees, ridge-spirits of sacred heights, spirits of crossings, cairns and thresholds. Many of the oldest sites are held by land-spirits that were ancient when the first clans arrived.
+
+Water-spirits
+: of rivers, pools, waterfalls and the great inland lakes. Addressed as "mothers" or as "fathers" depending on character, and consulted on travel, crossing, drowning, fishing and cleansing.
+
+Hunt-spirits
+: of particular game and particular hunting grounds. Addressed before the hunt, thanked after a kill, and given a specific share. A hunter who returns full-handed with no offering has broken his clan's standing pact.
+
+Weather-spirits
+: of storm, rain, wind and sun. More mobile than the territorial guides and regarded as less reliable; addressed in the moment rather than on a standing basis.
+
+Ancestor-spirits
+: named ancestors of a clan, personal to a lineage. A clan's genealogy is in effect the roll of its ancestors, and the griot who holds the genealogy keeps the connection alive.
+
+Hearth-spirits
+: of the household, the compound and the communal fire. Every household has one; a great village hearth may have a powerful one of long standing.
 
 ## Standing Pacts
 
@@ -100,8 +94,17 @@ minimum reciprocity to respectful visitors. Those who transgress discover—some
 
 ## See Also
 
-- [[affiliation-nyalbpnthn|The Nyáluba Way]]—the tradition of which the guides are the substance
-- [[lore-shorinyadty|Shorinya Ndafo]]—the source, which is acknowledged and never venerated
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the five clans whose pacts these are
-- [[lore-thekindred|The Kindred]]—the Áelendan parallel, structurally very similar
-- [[affiliation-nkaruthar|Nkaru'thar]]—the Okharik Eternal Flame, whose _zohira_ fulfill a comparable role
+[[affiliation-nyalbpnthn|The Nyáluba Way]]
+: the tradition of which the guides are the substance
+
+[[lore-shorinyadty|Shorinya Ndafo]]
+: the source, which is acknowledged and never venerated
+
+[[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
+: the five clans whose pacts these are
+
+[[lore-thekindred|The Kindred]]
+: the Áelendan parallel, structurally very similar
+
+[[affiliation-nkaruthar|Nkaru'thar]]
+: the Okharik Eternal Flame, whose _zohira_ fulfill a comparable role

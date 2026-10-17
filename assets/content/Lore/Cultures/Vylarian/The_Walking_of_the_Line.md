@@ -211,10 +211,23 @@ The hallowed boundary I have sung. Keeper of the open book, close the page.
 
 ## See Also
 
-- [[lore-eaglecityrse|The Raising of the Eagle City]]—the walling of the crown and the walking of the thrima
-- [[lore-thefounding|The Founding]]—the Senator who became the first Orzas, and the name the record does not give
-- [[place-sixhillsvyl|The Six Hills]]—the hills the line goes round
-- [[lore-ardavondty|Árdavon]]—the Keeper of the Gates and the two faces
-- [[lore-restorehouse|The Restoration]]—the house the poem was made for
-- [[lore-vylariages|The Vylarian Ages]]—the ages the god's prophecy follows
-- [[lore-vylarianclt|Vylarian]]—duty, the name, and the dead outside the line
+[[lore-eaglecityrse|The Raising of the Eagle City]]
+: the walling of the crown and the walking of the thrima
+
+[[lore-thefounding|The Founding]]
+: the Senator who became the first Orzas, and the name the record does not give
+
+[[place-sixhillsvyl|The Six Hills]]
+: the hills the line goes round
+
+[[lore-ardavondty|Árdavon]]
+: the Keeper of the Gates and the two faces
+
+[[lore-restorehouse|The Restoration]]
+: the house the poem was made for
+
+[[lore-vylariages|The Vylarian Ages]]
+: the ages the god's prophecy follows
+
+[[lore-vylarianclt|Vylarian]]
+: duty, the name, and the dead outside the line

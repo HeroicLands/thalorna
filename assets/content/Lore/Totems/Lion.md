@@ -16,9 +16,20 @@ Dominant and strategic, lions are social big cats that work cooperatively within
 
 Lions lead, and a Lion person is a natural leader who works well in a team. The person plans for the group, defends it and takes charge of events.
 
-- **Physical:** Strong, dominant presence; regal and authoritative appearance.
-- **Behavioral:** Dominant, strategic in leadership and social engagements.
-- **Positive:** Natural leader, cooperative, and strategic.
-- **Negative:** Can be domineering and may struggle with letting others take charge.
-- **Minor Trait ([[sohl-none-doctrauma-assrtv|Assertive]]):** Naturally commanding, expecting to lead and carrying themselves with an authority that others instinctively defer to.
-- **Major Disorder ([[sohl-none-doctrauma-nrcssstc|Narcissistic]]):** Demands unwavering admiration and obedience, treating any challenge to their authority as a personal affront deserving of swift retribution.
+Physical
+: Strong, dominant presence; regal and authoritative appearance.
+
+Behavioral
+: Dominant, strategic in leadership and social engagements.
+
+Positive
+: Natural leader, cooperative, and strategic.
+
+Negative
+: Can be domineering and may struggle with letting others take charge.
+
+Minor Trait ([[sohl-none-doctrauma-assrtv|Assertive]])
+: Naturally commanding, expecting to lead and carrying themselves with an authority that others instinctively defer to.
+
+Major Disorder ([[sohl-none-doctrauma-nrcssstc|Narcissistic]])
+: Demands unwavering admiration and obedience, treating any challenge to their authority as a personal affront deserving of swift retribution.

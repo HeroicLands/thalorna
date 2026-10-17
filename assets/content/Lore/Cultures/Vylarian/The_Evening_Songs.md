@@ -138,9 +138,20 @@ Dusk on the wall, Yalzeme. The Kamezos is lighting the lamp.
 
 ## See Also
 
-- [[place-moktur|Moktur]]—the frontier province and the custom of counting the smoke
-- [[place-dolvar|Dolvar]]—the fortress the tallies go down to
-- [[place-blackmarshfld|The Blood-field of the Black Marsh]]—the marsh the tower does not look at
-- [[lore-veteranslaw|The Veterans' Law]]—the twenty years and the one door
-- [[affiliation-vylrnmltry|Vylarian Military]]—the Zoralos and the commoner track
-- [[lore-vylarianclt|Vylarian]]—the calling name, the father's hand and the handing of a bride
+[[place-moktur|Moktur]]
+: the frontier province and the custom of counting the smoke
+
+[[place-dolvar|Dolvar]]
+: the fortress the tallies go down to
+
+[[place-blackmarshfld|The Blood-field of the Black Marsh]]
+: the marsh the tower does not look at
+
+[[lore-veteranslaw|The Veterans' Law]]
+: the twenty years and the one door
+
+[[affiliation-vylrnmltry|Vylarian Military]]
+: the Zoralos and the commoner track
+
+[[lore-vylarianclt|Vylarian]]
+: the calling name, the father's hand and the handing of a bride

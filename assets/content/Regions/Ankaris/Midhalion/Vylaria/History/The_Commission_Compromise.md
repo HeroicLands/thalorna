@@ -83,6 +83,11 @@ The Orzas's position is that the matter is "under continuing review." It stays t
 
 ## See Also
 
-- [[affiliation-vylrnmltry|Vylarian Military]]—the commission system and the Vallar
-- [[affiliation-tarmex|Tarmeks Orzan]]—the audit
-- [[lore-empirdclne|The Decline of the Vylarian Empire]]—the war that produced the report
+[[affiliation-vylrnmltry|Vylarian Military]]
+: the commission system and the Vallar
+
+[[affiliation-tarmex|Tarmeks Orzan]]
+: the audit
+
+[[lore-empirdclne|The Decline of the Vylarian Empire]]
+: the war that produced the report

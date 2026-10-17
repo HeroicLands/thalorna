@@ -18,5 +18,8 @@ Velva [Aldrhildr]{.name data-type="being/npc"} was accused with the eleven but n
 
 ## See Also
 
-- [[place-dvarnvik|Dvarnvík]]—the town whose ting made the accusation
-- [[lore-vthgdhstry|Histories and Legends of Vithgard]]—the Burning at Askholm
+[[place-dvarnvik|Dvarnvík]]
+: the town whose ting made the accusation
+
+[[lore-vthgdhstry|Histories and Legends of Vithgard]]
+: the Burning at Askholm

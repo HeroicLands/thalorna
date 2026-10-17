@@ -72,10 +72,17 @@ A worshipper carries an obsidian shard for darkness and the void, a bone fragmen
 
 The cult confers standing by teaching, and it teaches in secret:
 
-- The Betrayer: named a hidden hov, an initiate or a gudi to outsiders, and loses the shelter the cult's secrecy owed him.
-- Her Offerer: turns to Nahild and brings a hidden hov's offering, trusted enough to share its secrecy but not yet taught its observances.
-- Her Initiate: taught the cult's secret observances and the location of a hidden hov.
-- Her Gudi / Gudja: takes the sacrifices of a hidden hov and teaches the observances that raise an offerer to an initiate.
+The Betrayer
+: named a hidden hov, an initiate or a gudi to outsiders, and loses the shelter the cult's secrecy owed him.
+
+Her Offerer
+: turns to Nahild and brings a hidden hov's offering, trusted enough to share its secrecy but not yet taught its observances.
+
+Her Initiate
+: taught the cult's secret observances and the location of a hidden hov.
+
+Her Gudi / Gudja
+: takes the sacrifices of a hidden hov and teaches the observances that raise an offerer to an initiate.
 
 Embalming is the one skill the faith teaches.
 
@@ -93,7 +100,14 @@ Five ordeals are held to win her favor, and every one of them works against the 
 
 ## See Also
 
-- [[affiliation-nalok|Nalok]]—the Order of the Void, a secretive cult widening the Eye of the Void's influence
-- [[affiliation-naverdir|Náverdir]]—the Keepers of the Abyss, guardians of hidden hovs and the cult's own inquisitors
-- [[affiliation-namaelendir|Námelendir]]—the Harbingers of Despair, missionaries who spread Nahild's doctrine through fear
-- [[affiliation-nottgengir|Nóttgengir]]—the Nightstalkers, elite assassins carrying out Nahild's will
+[[affiliation-nalok|Nalok]]
+: the Order of the Void, a secretive cult widening the Eye of the Void's influence
+
+[[affiliation-naverdir|Náverdir]]
+: the Keepers of the Abyss, guardians of hidden hovs and the cult's own inquisitors
+
+[[affiliation-namaelendir|Námelendir]]
+: the Harbingers of Despair, missionaries who spread Nahild's doctrine through fear
+
+[[affiliation-nottgengir|Nóttgengir]]
+: the Nightstalkers, elite assassins carrying out Nahild's will

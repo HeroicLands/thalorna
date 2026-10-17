@@ -30,11 +30,20 @@ The Lodge does not fortify itself against outside attack. Its defense is the mou
 
 Ésalosa serves several interrelated functions for the Áelendan:
 
-- **Council seat**—The periodic great councils of Áelendan elders convene at Ésalosa. These are not permanent governing bodies; the Áelendan have no centralized government. The councils meet to decide matters that affect multiple tribes, to resolve disputes that local elders cannot settle, and to coordinate responses to outside pressures (of which the expansion of [[affiliation-ordoarcanis|Thordimalon]] is the most significant current example).
-- **Ceremonial center**—The great seasonal rituals of the [Kindred Pact]{.name data-type="lore/law"} are held at Ésalosa, drawing Áelendan from across the Drenavar Spine and the deeper forests. The ceremonial hall is the only structure in the Lodge large enough to hold the full gathered community, and it is used for little else.
-- **Tradition-keeping**—The senior tradition-keepers—the memorizers who hold the Kindred Pact, the genealogies, and the ancient songs—gather at Ésalosa to teach, to consult, and to preserve the continuity of the oral tradition. The Lodge is effectively the living archive of Áelendan culture.
-- **Warden coordination**—The senior [[affiliation-alndnwrdns|Wardens]] meet at Ésalosa to coordinate patrols across tribal territories, to share intelligence about intrusions, and to train new generations of Wardens. The Lodge is not the Wardens' headquarters in any formal sense, but it is the place where their leadership converges.
-- **Hospitality to invited outsiders**—On rare occasions, the Áelendan extend invitations to outsiders—scholars of high reputation, envoys from the Sinale, or persons with some specific claim on Áelendan trust. Such guests are received at Ésalosa, under protocols that the Áelendan set.
+Council seat
+: The periodic great councils of Áelendan elders convene at Ésalosa. These are not permanent governing bodies; the Áelendan have no centralized government. The councils meet to decide matters that affect multiple tribes, to resolve disputes that local elders cannot settle, and to coordinate responses to outside pressures (of which the expansion of [[affiliation-ordoarcanis|Thordimalon]] is the most significant current example).
+
+Ceremonial center
+: The great seasonal rituals of the [Kindred Pact]{.name data-type="lore/law"} are held at Ésalosa, drawing Áelendan from across the Drenavar Spine and the deeper forests. The ceremonial hall is the only structure in the Lodge large enough to hold the full gathered community, and it is used for little else.
+
+Tradition-keeping
+: The senior tradition-keepers—the memorizers who hold the Kindred Pact, the genealogies, and the ancient songs—gather at Ésalosa to teach, to consult, and to preserve the continuity of the oral tradition. The Lodge is effectively the living archive of Áelendan culture.
+
+Warden coordination
+: The senior [[affiliation-alndnwrdns|Wardens]] meet at Ésalosa to coordinate patrols across tribal territories, to share intelligence about intrusions, and to train new generations of Wardens. The Lodge is not the Wardens' headquarters in any formal sense, but it is the place where their leadership converges.
+
+Hospitality to invited outsiders
+: On rare occasions, the Áelendan extend invitations to outsiders—scholars of high reputation, envoys from the Sinale, or persons with some specific claim on Áelendan trust. Such guests are received at Ésalosa, under protocols that the Áelendan set.
 
 ## Access
 
@@ -48,8 +57,17 @@ No Élavendren monarch has ever set foot in Ésalosa without Áelendan invitatio
 
 ## See Also
 
-- [[lore-aelendnppl|Áelendan]]—The people whose center the Lodge is
-- [[place-drenavrspn|Drenavar Spine]]—The range in which the Lodge lies
-- [[affiliation-alndnwrdns|Áelendan Wardens]]—The order that protects the approaches
-- [[place-elavendre|Élavendre]]—The kingdom whose territory formally contains the Lodge
-- [[place-silvrfrsts|Silver Forests]]—Nearby sacred woodland
+[[lore-aelendnppl|Áelendan]]
+: The people whose center the Lodge is
+
+[[place-drenavrspn|Drenavar Spine]]
+: The range in which the Lodge lies
+
+[[affiliation-alndnwrdns|Áelendan Wardens]]
+: The order that protects the approaches
+
+[[place-elavendre|Élavendre]]
+: The kingdom whose territory formally contains the Lodge
+
+[[place-silvrfrsts|Silver Forests]]
+: Nearby sacred woodland

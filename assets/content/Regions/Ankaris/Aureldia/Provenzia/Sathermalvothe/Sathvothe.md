@@ -46,8 +46,8 @@ Two centuries ago a fleet used it ([[lore-southrnfleets|The Southern Fleets]]). 
 
 ## Its Settlements
 
-- [[place-batarencity|Bataren City]]—the ocean port, substantially Élavendren, trading north
-  rather than south, and quietly grinding over rights both crowns treat as domestic.
+[[place-batarencity|Bataren City]]
+: the ocean port, substantially Élavendren, trading north rather than south, and quietly grinding over rights both crowns treat as domestic.
 
 ## See Also
 

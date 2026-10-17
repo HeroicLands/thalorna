@@ -429,10 +429,14 @@ Seamen who think a slight girl has no business aloft, and one mate who has seen 
 
 ## Plot Hooks
 
-1. **A Wrong Reckoning**—A course Ríthara plotted has put the ship a day off her landfall on a lee shore, and the mate has made sure everyone knows whose reckoning it was. The log has been altered.
+A Wrong Reckoning
+: A course Ríthara plotted has put the ship a day off her landfall on a lee shore, and the mate has made sure everyone knows whose reckoning it was. The log has been altered.
 
-2. **The Price of Teaching**—A captain in another ship has offered to take Ríthara as an officer's apprentice and teach her everything, for a share of her wages for seven years and her signature on a paper she cannot fully read.
+The Price of Teaching
+: A captain in another ship has offered to take Ríthara as an officer's apprentice and teach her everything, for a share of her wages for seven years and her signature on a paper she cannot fully read.
 
-3. **Word from Thórgila**—Her father is ill and her mother has sent for her to come home and take up the hill life she left. The ship sails in three days and will not wait.
+Word from Thórgila
+: Her father is ill and her mother has sent for her to come home and take up the hill life she left. The ship sails in three days and will not wait.
 
-4. **The Mate**—The mate who resents her has proposed her for a job aloft in weather no sensible officer would send a deckhand into, and the captain is below. Refusing is the end of her on this ship.
+The Mate
+: The mate who resents her has proposed her for a job aloft in weather no sensible officer would send a deckhand into, and the captain is below. Refusing is the end of her on this ship.

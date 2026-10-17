@@ -44,6 +44,11 @@ The order has gained a foothold in the [[affiliation-jrldmstrmvld|Jarldom of Sto
 
 ## See Also
 
-- [[affiliation-blackflame|The Black Flame]]—the destructive Ústaran faith to which the order belongs
-- [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]—the order's foothold on Aelwyth
-- [[place-vrystwald|Vristwald]]—the forest whose villages the Sons seek to seize
+[[affiliation-blackflame|The Black Flame]]
+: the destructive Ústaran faith to which the order belongs
+
+[[affiliation-jrldmstrmvld|Jarldom of Stormveld]]
+: the order's foothold on Aelwyth
+
+[[place-vrystwald|Vristwald]]
+: the forest whose villages the Sons seek to seize

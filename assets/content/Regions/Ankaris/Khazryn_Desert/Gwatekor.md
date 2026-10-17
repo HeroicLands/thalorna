@@ -42,7 +42,14 @@ The hunters speak of places they avoid: a ridge where the stone has been cut int
 
 ## See Also
 
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the enclosing region
-- [[place-velanthrgn|Velanthia]]—the forest-steppe to the west
-- [[place-targud|Targud]]—the Nordmen kingdom on the same forest
-- [[lore-varokhiclt|Varokhi]]—the forest tribes to the northwest
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the enclosing region
+
+[[place-velanthrgn|Velanthia]]
+: the forest-steppe to the west
+
+[[place-targud|Targud]]
+: the Nordmen kingdom on the same forest
+
+[[lore-varokhiclt|Varokhi]]
+: the forest tribes to the northwest

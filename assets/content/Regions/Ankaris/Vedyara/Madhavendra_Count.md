@@ -104,13 +104,26 @@ The months run in pairs, and a pair is a season. Six of them frame the year, and
 
 Seven days run on through the months without a break, so a weekday belongs to no date and the two are looked up together. The first is the sun's, which the year is sighted from, and the second the moon's, which the almanac tracks. The other five are the five lesser gods of the [[affiliation-varakpnthn|Varnuka pantheon]], one apiece. The three great gods hold no day, because the orthodox take the triad for the whole turning and not a part of it, and the two spirit-courts are hosts rather than gods and are given none.
 
-1. **Suryavara**—the sun's day, on which the year is announced from the [[place-suryatempl|Surva temple]].
-2. **Chandravara**—the moon's day, on which the almanac for the coming fortnight is read out.
-3. **Kalavara**—[[affiliation-kalavrata|Kalavrata]]'s, on which the dead are burned and their lamps lit.
-4. **Meghavara**—[[affiliation-meghanatha|Meghonata]]'s, on which the tanks and channels are worked on.
-5. **Jnanavara**—[[affiliation-jnanasura|Jnanasura]]'s, on which the academies examine and the libraries admit readers.
-6. **Kamavara**—[[affiliation-kamavrata|Kamavrata]]'s, on which marriages are made.
-7. **Vyahrativara**—[[affiliation-vyahrati|Vahrati]]'s, on which nothing is begun and no debt is called.
+Suryavara
+: the sun's day, on which the year is announced from the [[place-suryatempl|Surva temple]].
+
+Chandravara
+: the moon's day, on which the almanac for the coming fortnight is read out.
+
+Kalavara
+: [[affiliation-kalavrata|Kalavrata]]'s, on which the dead are burned and their lamps lit.
+
+Meghavara
+: [[affiliation-meghanatha|Meghonata]]'s, on which the tanks and channels are worked on.
+
+Jnanavara
+: [[affiliation-jnanasura|Jnanasura]]'s, on which the academies examine and the libraries admit readers.
+
+Kamavara
+: [[affiliation-kamavrata|Kamavrata]]'s, on which marriages are made.
+
+Vyahrativara
+: [[affiliation-vyahrati|Vahrati]]'s, on which nothing is begun and no debt is called.
 
 ## The Almanac
 
@@ -160,10 +173,23 @@ Vedyara's neighbors keep their own counts and not the Madustana one. [[affiliati
 
 ## See Also
 
-- [[affiliation-trimurtisampradaya|Triyanga-sampradeya]]—sights the year at the Surva temple
-- [[place-chandrprbh|Chandraprabhava]]—the Surva temple's site, at the Chandramahi's source
-- [[skill-vedyarlng|Vedyari]]—the standardization of Classical Vedyari that the count is dated from
-- [[place-worldthlrn|The World of Thalorna]]—the 365-day year the twelve months fill
-- [[place-vaelith|Vaelith]]—the thirty-day moon the almanac sets against the solar year
-- [[affiliation-varakpnthn|Varnuka pantheon]]—the gods whose days the week is named for
-- [[place-weighingstn|The Weighing-Station]]—the new-moon weighing the almanac fixes
+[[affiliation-trimurtisampradaya|Triyanga-sampradeya]]
+: sights the year at the Surva temple
+
+[[place-chandrprbh|Chandraprabhava]]
+: the Surva temple's site, at the Chandramahi's source
+
+[[skill-vedyarlng|Vedyari]]
+: the standardization of Classical Vedyari that the count is dated from
+
+[[place-worldthlrn|The World of Thalorna]]
+: the 365-day year the twelve months fill
+
+[[place-vaelith|Vaelith]]
+: the thirty-day moon the almanac sets against the solar year
+
+[[affiliation-varakpnthn|Varnuka pantheon]]
+: the gods whose days the week is named for
+
+[[place-weighingstn|The Weighing-Station]]
+: the new-moon weighing the almanac fixes

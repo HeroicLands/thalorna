@@ -74,7 +74,14 @@ The Shirzari sell passage to anyone who can pay and do not sell it twice. A cara
 
 ## See Also
 
-- [[lore-sowidesclt|Sovidur]]—the steppe tribes and what they hold a person owes
-- [[affiliation-zrnshtrb|Zarnush]]—the tribe whose people the Shirzari hold
-- [[affiliation-zrdntrb|Azardan]], [[affiliation-drmndtrb|Durmand]]—the other great tribes of the central steppe
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the country the tribe grazes
+[[lore-sowidesclt|Sovidur]]
+: the steppe tribes and what they hold a person owes
+
+[[affiliation-zrnshtrb|Zarnush]]
+: the tribe whose people the Shirzari hold
+
+[[affiliation-zrdntrb|Azardan]], [[affiliation-drmndtrb|Durmand]]
+: the other great tribes of the central steppe
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the country the tribe grazes

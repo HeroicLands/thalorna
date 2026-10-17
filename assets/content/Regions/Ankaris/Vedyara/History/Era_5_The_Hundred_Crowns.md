@@ -18,10 +18,17 @@ That battle was the [[lore-fieldelephnt|Field of Elephants]]. About 265 AF the k
 
 ## Rulers
 
-- **Gomarga:** **Vrishasura**, who broke the bargain and lost the war.
-- **Purnatira:** a river kingdom of the middle Mahanodi, broken at the Field of Elephants; its lands passed to janapadas within a generation.
-- **Shikharalaya:** the Martial Council acclaimed a younger brother over the heir about 260, in the years the Priestly Court's hall was raised.
-- **Chendrapur:** **Ratnasura**, refused by the temples, and **Elvunatha**, whom the Nine Houses put on the throne.
+Gomarga
+: **Vrishasura**, who broke the bargain and lost the war.
+
+Purnatira
+: a river kingdom of the middle Mahanodi, broken at the Field of Elephants; its lands passed to janapadas within a generation.
+
+Shikharalaya
+: the Martial Council acclaimed a younger brother over the heir about 260, in the years the Priestly Court's hall was raised.
+
+Chendrapur
+: **Ratnasura**, refused by the temples, and **Elvunatha**, whom the Nine Houses put on the throne.
 
 ## Its End
 
@@ -29,6 +36,11 @@ About 312 AF Chendrapur's temples refused to crown the dead king's son, and the 
 
 ## See Also
 
-- [[lore-agecopyists|The Age of Copyists]] · [[lore-hardgenrtn|The Hard Generation]]—the ages on either side
-- [[place-gajasthali|Gajastali]]—the elephant ground
-- [[place-crownlessfts|The crownless forts]]—what the hundred crowns left on the hills
+[[lore-agecopyists|The Age of Copyists]] · [[lore-hardgenrtn|The Hard Generation]]
+: the ages on either side
+
+[[place-gajasthali|Gajastali]]
+: the elephant ground
+
+[[place-crownlessfts|The crownless forts]]
+: what the hundred crowns left on the hills

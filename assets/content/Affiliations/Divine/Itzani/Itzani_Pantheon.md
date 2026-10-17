@@ -160,18 +160,14 @@ Each of the Ten has its own specialist branch within the single Itsani priesthoo
 The tradition's gravest heresy came out of its own household, and its orthodox contemplative
 wing sits uncomfortably close to the same argument. Each is documented in its own note.
 
-- [[affiliation-pikultzumaq|Pik'ul Ts'umaq]], the Owl of the Serpent—a fallen celestial
-  agent of [[affiliation-tzuqilixbal|Ts'uqil Ish'bal]], once the guardian of Ch'al Ts'umaq's threshold,
-  who concluded that the underworld is a trap rather than a passage and began opening the
-  boundary it was set to keep shut.
-- [[affiliation-tzumaqkalanil|Ts'umaq K'alanil]], the Serpent Awakeners—hunted jungle
-  sects who teach that the Fifth Age is beyond saving and that hastening
-  [[affiliation-puqilchaqun|P'uqil Ch'akun]]'s awakening would be a mercy, and who can
-  demonstrably pull the recently dead back out of the labyrinth.
-- [[affiliation-pikob|Pik'ob]], the Owl Keepers—orthodox, not heterodox: the contemplative
-  order that tends the sacred groves and teaches acceptance of dissolution. Its theology shares
-  a root with the Awakener heresy, and the boundary between accepting that all things end and
-  hastening the ending is thinner than the priesthood would like.
+[[affiliation-pikultzumaq|Pik'ul Ts'umaq]], the Owl of the Serpent
+: a fallen celestial agent of [[affiliation-tzuqilixbal|Ts'uqil Ish'bal]], once the guardian of Ch'al Ts'umaq's threshold, who concluded that the underworld is a trap rather than a passage and began opening the boundary it was set to keep shut.
+
+[[affiliation-tzumaqkalanil|Ts'umaq K'alanil]], the Serpent Awakeners
+: hunted jungle sects who teach that the Fifth Age is beyond saving and that hastening [[affiliation-puqilchaqun|P'uqil Ch'akun]]'s awakening would be a mercy, and who can demonstrably pull the recently dead back out of the labyrinth.
+
+[[affiliation-pikob|Pik'ob]], the Owl Keepers
+: orthodox, not heterodox: the contemplative order that tends the sacred groves and teaches acceptance of dissolution. Its theology shares a root with the Awakener heresy, and the boundary between accepting that all things end and hastening the ending is thinner than the priesthood would like.
 
 ### Dreadspawn on K'ich'chik
 
@@ -183,8 +179,17 @@ The K'ich'chik term for Dreadspawn is **Kul'ik P'iqal**—"Living Works of the B
 
 ### See Also
 
-- [[place-kchchkcntnnt|K'ich'chik]]—The continent
-- [[skill-kicheklng|Ki'ichek Language]]—the tongue and its naming conventions
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—Western Ankarian equivalent
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—Au'Khelathu equivalent
-- [[affiliation-ashanpnthn|Ashaian Pantheon]]—Desert peoples equivalent
+[[place-kchchkcntnnt|K'ich'chik]]
+: The continent
+
+[[skill-kicheklng|Ki'ichek Language]]
+: the tongue and its naming conventions
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: Western Ankarian equivalent
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: Au'Khelathu equivalent
+
+[[affiliation-ashanpnthn|Ashaian Pantheon]]
+: Desert peoples equivalent

@@ -449,19 +449,37 @@ Arkhea no longer operates from personal ambition; that luxury departed decades a
 
 ### Strengths
 
-- **Masterful Reader of Souls**: Arkhea's decades on the streets have made her extraordinarily perceptive about human intention, motive, and character. She can discern truth from lies with uncanny accuracy.
-- **Resourceful Beyond Measure**: She understands how to survive on nothing, how to acquire necessities through non-monetary means, how to navigate bureaucratic systems designed to exclude people like her. Her Guile and Intrigue are refined to necessary art forms.
-- **Musical Talent**: Despite everything, Arkhea maintains her training in music. Her voice, though aged, still carries unexpected beauty. Singing occasionally provides small income and more importantly, unexpected moments of transcendence.
-- **Brewing and Culinary Expertise**: From necessity and instinct, she has become skilled at creating remedies, herbal concoctions, and edible preparations from foraged materials and cast-off ingredients.
-- **Network Among the Invisible**: Arkhea maintains connections throughout the city's beggar community, merchants' servants, and dock workers. She knows things that never reach the ears of the powerful.
+Masterful Reader of Souls
+: Arkhea's decades on the streets have made her extraordinarily perceptive about human intention, motive, and character. She can discern truth from lies with uncanny accuracy.
+
+Resourceful Beyond Measure
+: She understands how to survive on nothing, how to acquire necessities through non-monetary means, how to navigate bureaucratic systems designed to exclude people like her. Her Guile and Intrigue are refined to necessary art forms.
+
+Musical Talent
+: Despite everything, Arkhea maintains her training in music. Her voice, though aged, still carries unexpected beauty. Singing occasionally provides small income and more importantly, unexpected moments of transcendence.
+
+Brewing and Culinary Expertise
+: From necessity and instinct, she has become skilled at creating remedies, herbal concoctions, and edible preparations from foraged materials and cast-off ingredients.
+
+Network Among the Invisible
+: Arkhea maintains connections throughout the city's beggar community, merchants' servants, and dock workers. She knows things that never reach the ears of the powerful.
 
 ### Weaknesses
 
-- **Physical Fragility**: Her body, weakened by decades of malnutrition and harsh living, fails her with increasing frequency. A simple cold can become life-threatening. The limp is constant pain.
-- **Prone to Illness**: Immune system compromised, dental health deteriorated, and chronic conditions from long-term poverty make her susceptible to seasonal sicknesses and slower to recover.
-- **Limited Physical Capability**: She cannot fight, cannot run, cannot perform strenuous labor. Any confrontation relying on physical strength is lost.
-- **Social Invisibility as Weakness**: While she is invisible to the powerful, this invisibility also means she has no formal protections, no authorities to appeal to if she is wronged. She is vulnerable.
-- **Accumulated Trauma**: The weight of sixty-two years, half spent in poverty, has left her prone to melancholy and difficulty with hope. She sometimes retreats into resignation that borders on suicidal thinking.
+Physical Fragility
+: Her body, weakened by decades of malnutrition and harsh living, fails her with increasing frequency. A simple cold can become life-threatening. The limp is constant pain.
+
+Prone to Illness
+: Immune system compromised, dental health deteriorated, and chronic conditions from long-term poverty make her susceptible to seasonal sicknesses and slower to recover.
+
+Limited Physical Capability
+: She cannot fight, cannot run, cannot perform strenuous labor. Any confrontation relying on physical strength is lost.
+
+Social Invisibility as Weakness
+: While she is invisible to the powerful, this invisibility also means she has no formal protections, no authorities to appeal to if she is wronged. She is vulnerable.
+
+Accumulated Trauma
+: The weight of sixty-two years, half spent in poverty, has left her prone to melancholy and difficulty with hope. She sometimes retreats into resignation that borders on suicidal thinking.
 
 ## Social
 
@@ -494,12 +512,17 @@ The Order of Lizelas (Fertility Aspect)
 
 ## Plot Hooks
 
-1. **The Hidden Child**: Arkhea discovers an abandoned infant on a doorstep—a baby with unusual markings that suggest noble blood. She must protect this child from unknown pursuers while navigating a city that would exploit the child's origins. This act of protection forces her to move, to take risks, to engage with a world she has safely ignored for decades.
+The Hidden Child
+: Arkhea discovers an abandoned infant on a doorstep—a baby with unusual markings that suggest noble blood. She must protect this child from unknown pursuers while navigating a city that would exploit the child's origins. This act of protection forces her to move, to take risks, to engage with a world she has safely ignored for decades.
 
-2. **The Overheard Secret**: While sitting unnoticed in a merchant house vestibule, Arkhea overhears a conspiracy involving poisoning of a city official. She knows enough to recognize the plot but is trapped in the terrible position of having evidence that no one would believe a beggar could possess. She must find a way to warn the target without exposing the conspiracy to those who would use it for their own purposes.
+The Overheard Secret
+: While sitting unnoticed in a merchant house vestibule, Arkhea overhears a conspiracy involving poisoning of a city official. She knows enough to recognize the plot but is trapped in the terrible position of having evidence that no one would believe a beggar could possess. She must find a way to warn the target without exposing the conspiracy to those who would use it for their own purposes.
 
-3. **The Lost Apprentice**: A young merchant's apprentice, **Shahrikos**, confides in Arkhea that he has witnessed his master murdering a rival. The boy is paralyzed by fear—coming forward would mean losing his livelihood and possibly his life. Arkhea must decide whether to help expose the crime, knowing that her involvement would never actually be believed, or help the boy escape with his conscience intact.
+The Lost Apprentice
+: A young merchant's apprentice, **Shahrikos**, confides in Arkhea that he has witnessed his master murdering a rival. The boy is paralyzed by fear—coming forward would mean losing his livelihood and possibly his life. Arkhea must decide whether to help expose the crime, knowing that her involvement would never actually be believed, or help the boy escape with his conscience intact.
 
-4. **The Curse in the Beggar's Market**: A strange illness begins spreading through the beggar community—victims fall into delirium and fever. Arkhea, with her knowledge of herbalism and her network of invisible informants, begins to suspect the illness is no accident but deliberate poisoning. She must investigate without drawing the attention of authorities who would blame the victims rather than seek justice for them.
+The Curse in the Beggar's Market
+: A strange illness begins spreading through the beggar community—victims fall into delirium and fever. Arkhea, with her knowledge of herbalism and her network of invisible informants, begins to suspect the illness is no accident but deliberate poisoning. She must investigate without drawing the attention of authorities who would blame the victims rather than seek justice for them.
 
-5. **The Letter from the Past**: A well-dressed stranger approaches Arkhea with a letter written in her deceased mother's hand, dated decades ago, containing revelations about Arkhea's birth and family that suggest her fall into poverty was not accident but arranged. The revelation forces her to reconsider everything about her life, and offers the possibility of restoration—if she is willing to seek it.
+The Letter from the Past
+: A well-dressed stranger approaches Arkhea with a letter written in her deceased mother's hand, dated decades ago, containing revelations about Arkhea's birth and family that suggest her fall into poverty was not accident but arranged. The revelation forces her to reconsider everything about her life, and offers the possibility of restoration—if she is willing to seek it.

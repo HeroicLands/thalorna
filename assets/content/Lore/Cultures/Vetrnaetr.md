@@ -29,7 +29,14 @@ Vetrnetr is one of two seasons when a seeker may sit awake on a burial mound or 
 
 ## See Also
 
-- [[lore-nordheimnclt|Nordheimn]]—the door-seat, the three winters and the dead near home
-- [[lore-kinhalcrdt|Kin and Hall Credit]]—how a hall's duty to its elders is kept in account
-- [[lore-jol|Jel]], [[lore-sumarmal|Somarmál]] and [[lore-midsumar|Midsomar]]—the other three great blets
-- [[affiliation-asguardian|Asguardian Pantheon]]—the Ten and the Asguardian year
+[[lore-nordheimnclt|Nordheimn]]
+: the door-seat, the three winters and the dead near home
+
+[[lore-kinhalcrdt|Kin and Hall Credit]]
+: how a hall's duty to its elders is kept in account
+
+[[lore-jol|Jel]], [[lore-sumarmal|Somarmál]] and [[lore-midsumar|Midsomar]]
+: the other three great blets
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the Ten and the Asguardian year

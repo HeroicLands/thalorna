@@ -22,5 +22,8 @@ The gods are not proof against it. A god who tampers with the Shadow or studies 
 
 ## See Also
 
-- [[lore-ginnauga|Ginnauga]]—the Eye of the Void, Nahild's relic and a source of the Shadow
-- [[lore-undead|Undead]]—the dead made to walk, and the learned and folk names for them
+[[lore-ginnauga|Ginnauga]]
+: the Eye of the Void, Nahild's relic and a source of the Shadow
+
+[[lore-undead|Undead]]
+: the dead made to walk, and the learned and folk names for them

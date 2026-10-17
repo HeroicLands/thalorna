@@ -346,20 +346,29 @@ Fire burns its hide badly and breaks its composure, and a feraldew faced with to
 
 ## Attributes
 
-- **Strength:** 15-20 (1d6+14)
+Strength
+: 15-20 (1d6+14)
 
-- **Endurance:** 11-14 (1d4+10)
+Endurance
+: 11-14 (1d4+10)
 
-- **Dexterity:** 7-10 (1d4+6)
+Dexterity
+: 7-10 (1d4+6)
 
-- **Agility:** 15-18 (1d4+14)
+Agility
+: 15-18 (1d4+14)
 
-- **Perception:** 11-14 (1d4+10)
+Perception
+: 11-14 (1d4+10)
 
-- **Aura:** 6-9 (1d4+5)
+Aura
+: 6-9 (1d4+5)
 
-- **Will:** 13-16 (1d4+12)
+Will
+: 13-16 (1d4+12)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 9-12 (1d4+8)
+Creativity
+: 9-12 (1d4+8)

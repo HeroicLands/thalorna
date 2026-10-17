@@ -30,8 +30,17 @@ The halls draw a lesson for the living from the pair. An outlaw at the ting is a
 
 ## See Also
 
-- [[lore-eidgardty|Eidgar]]—the god the hound takes at Aldarlok
-- [[lore-vetrulfr|Vetrúlfr]]—the other chained beast, which takes Odvar
-- [[place-nulthey|Nulthey]]—Nahild's island, where the hound lies chained
-- [[lore-aldarlok|Aldarlok]]—the close of the age
-- [[lore-tvelgaett|Tvelgaett]]—the heirs who come through the fire
+[[lore-eidgardty|Eidgar]]
+: the god the hound takes at Aldarlok
+
+[[lore-vetrulfr|Vetrúlfr]]
+: the other chained beast, which takes Odvar
+
+[[place-nulthey|Nulthey]]
+: Nahild's island, where the hound lies chained
+
+[[lore-aldarlok|Aldarlok]]
+: the close of the age
+
+[[lore-tvelgaett|Tvelgaett]]
+: the heirs who come through the fire

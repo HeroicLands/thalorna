@@ -29,11 +29,20 @@ A blood-field needs many hundreds or thousands of dead in a few hours or days, a
 
 Each people explains the wound by the rite its dead went without:
 
-- **Au'Khelathu:** the dead had no tomb, no name read aloud and no rites, so they had no continuation.
-- **Vedyara:** no conch was sounded, no threshold lamp lit and no pyre kindled, so the way behind the souls never closed.
-- **The Nordlands:** no grave-ale was drunk for them, so the dead ride with the Jel-Ride and never leave.
-- **The Varokh:** no Shaman called the dead home to their totem.
-- **Vylaria and Aureldia:** the dead were not judged in order before [[affiliation-selmoros|Sélmoros]].
+Au'Khelathu
+: the dead had no tomb, no name read aloud and no rites, so they had no continuation.
+
+Vedyara
+: no conch was sounded, no threshold lamp lit and no pyre kindled, so the way behind the souls never closed.
+
+The Nordlands
+: no grave-ale was drunk for them, so the dead ride with the Jel-Ride and never leave.
+
+The Varokh
+: no Shaman called the dead home to their totem.
+
+Vylaria and Aureldia
+: the dead were not judged in order before [[affiliation-selmoros|Sélmoros]].
 
 ## What Does Not
 
@@ -221,8 +230,17 @@ In order of their making. A dash marks a field whose battle no record dates.
 
 ## See Also
 
-- [[lore-aralwen|Aralwen]]—the natural thin places, which a blood-field is not
-- [[lore-bloodfields|The Blood-fields of Provenzia]]—the kingdom with more fields than anywhere else
-- [[affiliation-agnipantha|Agmi-pantra]]—the sect that burns the fields of Vedyara
-- [[lore-khelathiclt|Khelathi]]—the rites whose absence makes a _zelqezat_
-- [[affiliation-blackflame|The Black Flame]]—the cult that works fields to deepen them
+[[lore-aralwen|Aralwen]]
+: the natural thin places, which a blood-field is not
+
+[[lore-bloodfields|The Blood-fields of Provenzia]]
+: the kingdom with more fields than anywhere else
+
+[[affiliation-agnipantha|Agmi-pantra]]
+: the sect that burns the fields of Vedyara
+
+[[lore-khelathiclt|Khelathi]]
+: the rites whose absence makes a _zelqezat_
+
+[[affiliation-blackflame|The Black Flame]]
+: the cult that works fields to deepen them

@@ -49,8 +49,17 @@ What the town does not have is any way for a man to stay. A deck is a place to b
 
 ## See Also
 
-- [[affiliation-chandrapur|Chendrapur]]—the city-state whose port this is
-- [[place-chandrapur2|Chendrapur]]—the city a day upriver
-- [[place-chandrapurland|Chendrapur Land]]—the land
-- [[place-chandrmahi|The Chandramahi]]—the river
-- [[place-meghsamdra|The Meghra-samedra]]—the sea outside the bar
+[[affiliation-chandrapur|Chendrapur]]
+: the city-state whose port this is
+
+[[place-chandrapur2|Chendrapur]]
+: the city a day upriver
+
+[[place-chandrapurland|Chendrapur Land]]
+: the land
+
+[[place-chandrmahi|The Chandramahi]]
+: the river
+
+[[place-meghsamdra|The Meghra-samedra]]
+: the sea outside the bar

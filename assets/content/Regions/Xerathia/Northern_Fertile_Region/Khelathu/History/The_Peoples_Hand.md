@@ -68,7 +68,14 @@ After the decree a Khelathi scribe learned two things where his predecessors had
 
 ## See Also
 
-- [[skill-qalzscrscrpt|Qalezu]]—the people's hand
-- [[skill-khelthzscrpt|Khelathi-zethu Script]]—the sacred hand
-- [[place-garmedjatozo|Gar-Medjatozo]]—the bureaus
-- [[lore-akhcountmon|The Count of Months]]—the age
+[[skill-qalzscrscrpt|Qalezu]]
+: the people's hand
+
+[[skill-khelthzscrpt|Khelathi-zethu Script]]
+: the sacred hand
+
+[[place-garmedjatozo|Gar-Medjatozo]]
+: the bureaus
+
+[[lore-akhcountmon|The Count of Months]]
+: the age

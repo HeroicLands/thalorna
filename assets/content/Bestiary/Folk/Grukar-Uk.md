@@ -314,20 +314,29 @@ When the Hushk driving a mob falls or flees, the Uk lose all cohesion and scatte
 
 ## Attributes
 
-- **Strength:** 9-14 (1d6+8)
+Strength
+: 9-14 (1d6+8)
 
-- **Endurance:** 10-13 (1d4+9)
+Endurance
+: 10-13 (1d4+9)
 
-- **Dexterity:** 6-9 (1d4+5)
+Dexterity
+: 6-9 (1d4+5)
 
-- **Agility:** 5-8 (1d4+4)
+Agility
+: 5-8 (1d4+4)
 
-- **Perception:** 5-8 (1d4+4)
+Perception
+: 5-8 (1d4+4)
 
-- **Aura:** 3-6 (1d4+2)
+Aura
+: 3-6 (1d4+2)
 
-- **Will:** 4-7 (1d4+3)
+Will
+: 4-7 (1d4+3)
 
-- **Reasoning:** 3-6 (1d4+2)
+Reasoning
+: 3-6 (1d4+2)
 
-- **Creativity:** 4-7 (1d4+3)
+Creativity
+: 4-7 (1d4+3)

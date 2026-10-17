@@ -401,8 +401,11 @@ Svilthselda's ability to absorb and redirect fire is extraordinary, making her n
 
 ## Plot Hooks
 
-1. **The Ember's Burden**—Since absorbing the fire serpent's flames, Svilthselda has felt a growing heat within her that she cannot control. The Ember Sisterhood believes she is becoming a living vessel of Svartbrandr's power, but the transformation may consume her entirely if she cannot master it.
+The Ember's Burden
+: Since absorbing the fire serpent's flames, Svilthselda has felt a growing heat within her that she cannot control. The Ember Sisterhood believes she is becoming a living vessel of Svartbrandr's power, but the transformation may consume her entirely if she cannot master it.
 
-2. **The Ash Prophet**—A mysterious figure has appeared in the northern settlements, preaching that Svilthselda is the harbinger of the end times. Whether this prophet is an ally or enemy remains unclear, but their words are causing panic.
+The Ash Prophet
+: A mysterious figure has appeared in the northern settlements, preaching that Svilthselda is the harbinger of the end times. Whether this prophet is an ally or enemy remains unclear, but their words are causing panic.
 
-3. **Schism of Flame**—The tension between Svilthselda's contemplative approach and Vrithorv's aggressive one has reached a breaking point. Both factions of Svartbrandr's faithful are arming for conflict, and someone must mediate before the faith tears itself apart.
+Schism of Flame
+: The tension between Svilthselda's contemplative approach and Vrithorv's aggressive one has reached a breaking point. Both factions of Svartbrandr's faithful are arming for conflict, and someone must mediate before the faith tears itself apart.

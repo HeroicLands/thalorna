@@ -23,6 +23,11 @@ The summit is kept as a shrine of the Minister of the Moon, and the domain's Tan
 
 ## See Also
 
-- [[affiliation-wojaidmn|Wojai Domain]]—the house and its lord
-- [[place-yuwu|Yuwu]]—the castle town
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[affiliation-wojaidmn|Wojai Domain]]
+: the house and its lord
+
+[[place-yuwu|Yuwu]]
+: the castle town
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

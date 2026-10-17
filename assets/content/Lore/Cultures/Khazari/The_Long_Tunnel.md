@@ -179,8 +179,17 @@ In the record of the year of the finding 309, Dulkun of Khalvagunáv's name stan
 
 ## See Also
 
-- [[lore-khazariclt|Khazari]]—the light hand, the prop as shame, and the long tunnel as the miner's masterpiece
-- [[lore-flkkhazar|Khazár Folk]]—the people and their holds
-- [[lore-vazanez|The Sayings of the Masters]]—the chain that keeps one saying of Dulkun of Khalvagunáv
-- [[skill-khazarlng|Khazari Language]]—names as charges, and the count in sixteens
-- [[skill-khazarlng#lexicon|Khazari Lexicon]]—the words for stone, water and the cut
+[[lore-khazariclt|Khazari]]
+: the light hand, the prop as shame, and the long tunnel as the miner's masterpiece
+
+[[lore-flkkhazar|Khazár Folk]]
+: the people and their holds
+
+[[lore-vazanez|The Sayings of the Masters]]
+: the chain that keeps one saying of Dulkun of Khalvagunáv
+
+[[skill-khazarlng|Khazari Language]]
+: names as charges, and the count in sixteens
+
+[[skill-khazarlng#lexicon|Khazari Lexicon]]
+: the words for stone, water and the cut

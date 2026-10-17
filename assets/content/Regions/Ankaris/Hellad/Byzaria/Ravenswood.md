@@ -18,5 +18,8 @@ Ravenswood lies along the eastern trade routes of the [[place-byzariargn|Bizaria
 
 ## See Also
 
-- [[being-orshkrnlkt|Órashkar Naulakit]]—the teamster the brigands pursue
-- [[place-byzariargn|Bizaria]]—the region whose trade routes run past it
+[[being-orshkrnlkt|Órashkar Naulakit]]
+: the teamster the brigands pursue
+
+[[place-byzariargn|Bizaria]]
+: the region whose trade routes run past it

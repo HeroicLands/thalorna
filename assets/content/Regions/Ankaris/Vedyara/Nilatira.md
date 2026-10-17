@@ -37,7 +37,14 @@ A ship's master does not ask to see a wrist. The crews are made up in the lodgin
 
 ## See Also
 
-- [[affiliation-vyalendra2|Vyalendra]]—the city-state whose port this is
-- [[place-vyalendraland|Vyalendra Land]]—the land
-- [[place-vyalendra3|Vyalendra]]—the city upriver
-- [[affiliation-chandrapur|Chendrapur]]—whose galleys carry the bales
+[[affiliation-vyalendra2|Vyalendra]]
+: the city-state whose port this is
+
+[[place-vyalendraland|Vyalendra Land]]
+: the land
+
+[[place-vyalendra3|Vyalendra]]
+: the city upriver
+
+[[affiliation-chandrapur|Chendrapur]]
+: whose galleys carry the bales

@@ -431,10 +431,14 @@ The house's steward, who holds the purse she cooks from and has never forgiven h
 
 ## Plot Hooks
 
-1. **The Captain's Table**—A Khelathi captain is to dine at the house on the night the season's cargo is settled, and the steward has cut the kitchen's silver by half. The captain's cook has told Teshuda which dish would give offense.
+The Captain's Table
+: A Khelathi captain is to dine at the house on the night the season's cargo is settled, and the steward has cut the kitchen's silver by half. The captain's cook has told Teshuda which dish would give offense.
 
-2. **The Dismissed Hand**—The rival house is serving Teshuda's honeyed pastries, to the last spice, and its factor has begun inviting her patron's guests.
+The Dismissed Hand
+: The rival house is serving Teshuda's honeyed pastries, to the last spice, and its factor has begun inviting her patron's guests.
 
-3. **The Sickness**—Three guests were ill after a dinner at the house, and the steward has said in the factor's hearing that the kitchen was the cause. Teshuda knows every dish that left it, and one she did not cook.
+The Sickness
+: Three guests were ill after a dinner at the house, and the steward has said in the factor's hearing that the kitchen was the cause. Teshuda knows every dish that left it, and one she did not cook.
 
-4. **The Empty Cellar**—The house's credit at the [Merazuni]{.name data-type="affiliation"} has been stopped, quietly, and the tradesmen have begun asking for coin. The factor has said nothing to his kitchen, and there is a feast in ten days.
+The Empty Cellar
+: The house's credit at the [Merazuni]{.name data-type="affiliation"} has been stopped, quietly, and the tradesmen have begun asking for coin. The factor has said nothing to his kitchen, and there is a feast in ten days.

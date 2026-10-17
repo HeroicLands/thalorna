@@ -41,9 +41,20 @@ Nine is the number of the Mandate and of every rite of the Emperor and the [[lor
 
 ## See Also
 
-- [[lore-clstlpnthn|Celestial Pantheon]]—the powers from whom the Mandate comes
-- [[lore-zhazho|Zhazho]]—the caste that holds the Mandate
-- [[lore-celestlrdr|Celestial Order]]—the faith and cosmology behind it
-- [[lore-phlsphyleiwo|Philosophy of Leiwo]]—the Lei that joins the Emperor's health to the empire's
-- [[lore-tantsoudyn|The Opening of the Tantsou Record]]—the oldest dynasty the archive can date
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the empire governed under the Mandate
+[[lore-clstlpnthn|Celestial Pantheon]]
+: the powers from whom the Mandate comes
+
+[[lore-zhazho|Zhazho]]
+: the caste that holds the Mandate
+
+[[lore-celestlrdr|Celestial Order]]
+: the faith and cosmology behind it
+
+[[lore-phlsphyleiwo|Philosophy of Leiwo]]
+: the Lei that joins the Emperor's health to the empire's
+
+[[lore-tantsoudyn|The Opening of the Tantsou Record]]
+: the oldest dynasty the archive can date
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the empire governed under the Mandate

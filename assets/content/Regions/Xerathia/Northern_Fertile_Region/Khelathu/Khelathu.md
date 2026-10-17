@@ -87,8 +87,11 @@ The valley is lush to the point of near-tropical abundance. Its soil is deep and
 
 Away from the river the empire falls into two other kinds of country:
 
-- The coastal strip. The delta and the lowlands flanking it east and west are wet-coastal. Citrus, grape, olive, date-palm and fig thrive on the sea air and the winter rains, and the coast is the empire's garden: it fills Khelathi tables and the foreign markets of [[place-midhalnrgn|Mídhalión]] with luxury produce, and the coastal villas of the delta Halzi'a and merchant-princes cluster along it.
-- The dry country beyond the flood. Rainfall is sparse away from both river and coast, and the land beyond the valley is high desert and chaparral, with sand dunes on the approaches to the river. A millennia-old network of canals, stone aqueducts, qanats and cisterns, maintained by tens of thousands of workers year-round, carries river water out to the valley's edges, and where it reaches, the fields are dense with wheat, barley and millet. Where it cannot reach, the chaparral pastures sheep, cattle and the small, sturdy horses bred for the chariot corps. The Khelathi are proud of the network, and with reason: it turns country that would otherwise be thinly grazed into farmland.
+The coastal strip. The delta and the lowlands flanking it east and west are wet-coastal. Citrus, grape, olive, date-palm and fig thrive on the sea air and the winter rains, and the coast is the empire's garden
+: it fills Khelathi tables and the foreign markets of [[place-midhalnrgn|Mídhalión]] with luxury produce, and the coastal villas of the delta Halzi'a and merchant-princes cluster along it.
+
+The dry country beyond the flood. Rainfall is sparse away from both river and coast, and the land beyond the valley is high desert and chaparral, with sand dunes on the approaches to the river. A millennia-old network of canals, stone aqueducts, qanats and cisterns, maintained by tens of thousands of workers year-round, carries river water out to the valley's edges, and where it reaches, the fields are dense with wheat, barley and millet. Where it cannot reach, the chaparral pastures sheep, cattle and the small, sturdy horses bred for the chariot corps. The Khelathi are proud of the network, and with reason
+: it turns country that would otherwise be thinly grazed into farmland.
 
 The west broadens into open, dry plains that shade at the far frontier into herding country, where hill-peoples pasture their flocks. The east is steeper and more rugged, rising into hills that give the empire gold, copper, turquoise, iron and fine building stone.
 
@@ -137,9 +140,14 @@ Throne and temple need each other and compete. The priests confirm the Gar-Au's 
 
 Every major temple in Au'Khelathu keeps the same three ranks, a structure so old that the Khelathi hold it divinely ordained. The Gar-Au stands above all three as nominal supreme priest of every god, and all temple authority is claimed to flow down from that office. In practice the Gar-Au delegates religious authority entirely, but the claim matters: every high priest serves at the Gar-Au's pleasure, and a Gar-Au who wanted to replace one would have doctrinal grounds to do it. Few have tried. Fewer have succeeded.
 
-- Thaz'Lekhau ("Great of Sacred Power")—the High Priest or High Priestess of a major temple and the supreme religious authority of one cult. Each major temple has one. The Thaz'Lekhau manages the temple's holdings, speaks with the god's voice on doctrine, and as High Ritualist conducts the great seasonal rites and the divinations that guide state policy. The **Thaz'Lekhau of Uqa'a** is arguably the second most powerful person in the empire, and the high priest of any major cult commands resources to match the wealthiest Halzi'a. The office is not hereditary: a Thaz'Lekhau is raised from among the senior priests by temple politics, demonstrated capability and—the priesthood insists—divine revelation.
-- Lem'Nelgir ("Servant of the God")—the ordained priesthood and the working body of the temple. Lem'Nelgir conduct the daily rites, keep the sanctuary, manage temple lands and finances, teach in the temple schools, perform divinations for petitioners, and carry out the temple's part in local government. The rank spans every seniority from the newly ordained to veterans of decades who command temple districts and advise Halzi'a. Most specialize—in ritual, administration, medicine, scholarship or legal arbitration—and the politics inside a major temple are as tangled as anything at court.
-- Wazu ("Purified One")—the acolytes of the temple schools. A Wazu enters as a child or youth and studies sacred texts, ritual, history, mathematics, medicine and the reading of omens for years before ordination. The schools are among the best in the empire, and those who leave before ordination carry skills that serve them in secular careers. The purification that names the rank is taken seriously: a Wazu keeps strict codes of diet, behavior and cleanliness that set them apart from ordinary life.
+Thaz'Lekhau ("Great of Sacred Power")
+: the High Priest or High Priestess of a major temple and the supreme religious authority of one cult. Each major temple has one. The Thaz'Lekhau manages the temple's holdings, speaks with the god's voice on doctrine, and as High Ritualist conducts the great seasonal rites and the divinations that guide state policy. The **Thaz'Lekhau of Uqa'a** is arguably the second most powerful person in the empire, and the high priest of any major cult commands resources to match the wealthiest Halzi'a. The office is not hereditary: a Thaz'Lekhau is raised from among the senior priests by temple politics, demonstrated capability and—the priesthood insists—divine revelation.
+
+Lem'Nelgir ("Servant of the God")
+: the ordained priesthood and the working body of the temple. Lem'Nelgir conduct the daily rites, keep the sanctuary, manage temple lands and finances, teach in the temple schools, perform divinations for petitioners, and carry out the temple's part in local government. The rank spans every seniority from the newly ordained to veterans of decades who command temple districts and advise Halzi'a. Most specialize—in ritual, administration, medicine, scholarship or legal arbitration—and the politics inside a major temple are as tangled as anything at court.
+
+Wazu ("Purified One")
+: the acolytes of the temple schools. A Wazu enters as a child or youth and studies sacred texts, ritual, history, mathematics, medicine and the reading of omens for years before ordination. The schools are among the best in the empire, and those who leave before ordination carry skills that serve them in secular careers. The purification that names the rank is taken seriously: a Wazu keeps strict codes of diet, behavior and cleanliness that set them apart from ordinary life.
 
 ### The Military
 
@@ -169,12 +177,23 @@ Khelathi society is hierarchical without being rigid. The Gar-Au and the royal f
 
 Khelathi nobility does not use the western **Ankarian** "Lord" and "Lady." The Gar-Au and the Iru'palu are ranks of their own; the other principal titles are offices, each held by a Zabu:
 
-- [[lore-garauu|Gar-Au]]—the divine sovereign and ruler of the empire. The title is sacred and carries theological weight beyond political authority.
-- Iru'palu—the highest hereditary rank below the Gar-Au, near what the west calls a prince or duke, reserved for the royal family and the most exalted noble houses. It marks closeness to divine authority.
-- Halzi'a—the hereditary governor of a selat, commanding its army, collecting its taxes and dispensing its justice; near what the west calls a count or an earl.
-- Legha'lutu (male) and Zabet'lutu (female)—"ruler of the estate" and "mistress of the estate," the landed noble who administers a manor, its fields and an attached village, answerable to the Halzi'a above.
-- Zabet—a title of respect for a woman of noble rank whose authority comes from court position rather than land: a courtier, a high priestess, a noblewoman of the palace. It is near the western "Lady."
-- Zemelu—"companion" or "friend of the Gar-Au," an honorific for trusted courtiers and advisors that marks royal favor and access rather than territory.
+[[lore-garauu|Gar-Au]]
+: the divine sovereign and ruler of the empire. The title is sacred and carries theological weight beyond political authority.
+
+Iru'palu
+: the highest hereditary rank below the Gar-Au, near what the west calls a prince or duke, reserved for the royal family and the most exalted noble houses. It marks closeness to divine authority.
+
+Halzi'a
+: the hereditary governor of a selat, commanding its army, collecting its taxes and dispensing its justice; near what the west calls a count or an earl.
+
+Legha'lutu (male) and Zabet'lutu (female)
+: "ruler of the estate" and "mistress of the estate," the landed noble who administers a manor, its fields and an attached village, answerable to the Halzi'a above.
+
+Zabet
+: a title of respect for a woman of noble rank whose authority comes from court position rather than land: a courtier, a high priestess, a noblewoman of the palace. It is near the western "Lady."
+
+Zemelu
+: "companion" or "friend of the Gar-Au," an honorific for trusted courtiers and advisors that marks royal favor and access rather than territory.
 
 The title always comes before the personal name: Halzi'a **Lersais**, Zabet'lutu **Thaminra**, Zemelu **Kuztar**. The Khelathi find the western habit of putting the title after the family name charmingly backward.
 
@@ -184,8 +203,11 @@ Khelathi women hold far more legal rights than women in most of western [[place-
 
 Two secular bodies shape political and economic life beside the priesthood and the army:
 
-- [[affiliation-genzetpalu|Genzet'Palu]] ([[affiliation-genzetpalu|Council of the Nobles]])—a formal assembly of the most powerful aristocratic families, convened in the capital to advise the Gar-Au on internal policy, succession disputes and quarrels between selatu. It has no legislative authority, since the Gar-Au's word is law, but no Gar-Au governs well without it. Its meetings run on full ceremonial protocol, and the members who mediate between its factions hold great informal power.
-- [[affiliation-zebequzut|Zebeku'Zut]] ([[affiliation-zebequzut|Merchant Alliance]])—an informal network of the empire's major trading houses, bound by pacts of mutual protection, shared intelligence on routes and markets, and joint bargaining with foreign commercial powers. It has no charter and no premises; its business is done at banquets, on private estates and along the docks of the delta ports. Its members control a large share of the empire's wealth and can make or break a Halzi'a who crosses them.
+[[affiliation-genzetpalu|Genzet'Palu]] ([[affiliation-genzetpalu|Council of the Nobles]])
+: a formal assembly of the most powerful aristocratic families, convened in the capital to advise the Gar-Au on internal policy, succession disputes and quarrels between selatu. It has no legislative authority, since the Gar-Au's word is law, but no Gar-Au governs well without it. Its meetings run on full ceremonial protocol, and the members who mediate between its factions hold great informal power.
+
+[[affiliation-zebequzut|Zebeku'Zut]] ([[affiliation-zebequzut|Merchant Alliance]])
+: an informal network of the empire's major trading houses, bound by pacts of mutual protection, shared intelligence on routes and markets, and joint bargaining with foreign commercial powers. It has no charter and no premises; its business is done at banquets, on private estates and along the docks of the delta ports. Its members control a large share of the empire's wealth and can make or break a Halzi'a who crosses them.
 
 ### Architecture and Monuments
 
@@ -277,12 +299,23 @@ Together the four classes hold the empire's nineteen million people. Each class 
 
 ## Notable Features
 
-- [[place-zumeleshrvr|The Great River]]—the empire's lifeblood, its annual flood shaping every part of the civilization
-- The pyramids and necropolises—tomb complexes along the western bank, the most impressive built landscape in the known world. At the capital, the royal necropolis of [[place-zugezer|Zu-Gezer]] is laid out as a timeline in stone: each dynasty's Gar-Auu lie along their own crossing-road off the great death-road, by tradition the oldest nearest the river and the newest at the frontier, though the mightiest houses have reordered the row, and the reigning dynasty took the river-front itself by its **Great Removal**
-- [[place-zelgeru|The Zelgeru]]—the great temple-estates, religious, economic and political institutions to rival the Gar-Au's palace
-- [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'ar]]—the scribes' road upward, producing the administrators who keep the state running
-- [[place-amqelmiglet|Amqel-Miglet]]—the harbors of the delta, where Khelathi civilization meets the wider world
-- The festival calendar—a year-round cycle of religious celebrations, feasts and public entertainments, crowned at the capital by the solstice rites of the **Coming-Forth** (midsummer dawn) and the **Going-Down** (midwinter dusk)
+[[place-zumeleshrvr|The Great River]]
+: the empire's lifeblood, its annual flood shaping every part of the civilization
+
+The pyramids and necropolises
+: tomb complexes along the western bank, the most impressive built landscape in the known world. At the capital, the royal necropolis of [[place-zugezer|Zu-Gezer]] is laid out as a timeline in stone: each dynasty's Gar-Auu lie along their own crossing-road off the great death-road, by tradition the oldest nearest the river and the newest at the frontier, though the mightiest houses have reordered the row, and the reigning dynasty took the river-front itself by its **Great Removal**
+
+[[place-zelgeru|The Zelgeru]]
+: the great temple-estates, religious, economic and political institutions to rival the Gar-Au's palace
+
+[[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'ar]]
+: the scribes' road upward, producing the administrators who keep the state running
+
+[[place-amqelmiglet|Amqel-Miglet]]
+: the harbors of the delta, where Khelathi civilization meets the wider world
+
+The festival calendar
+: a year-round cycle of religious celebrations, feasts and public entertainments, crowned at the capital by the solstice rites of the **Coming-Forth** (midsummer dawn) and the **Going-Down** (midwinter dusk)
 
 ## Commerce and Currency
 
@@ -290,12 +323,29 @@ The empire strikes no round coin. Its temples attest weight-pieces of copper, si
 
 ## See Also
 
-- [[lore-khelathiclt|Khelathi]]—the culture, its two ledgers and its dead
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the valley, the delta and the desert margins
-- [[affiliation-vylarinmpr|Vylarian Empire]]—northern rival and trading partner
-- [[place-helionis|Helionis]]—partner in scholarship
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—chief trading partner and sea carrier
-- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—western neighbor and proxy
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the gods and their temples
-- [[skill-khelathlng|Khelathi Language]]—naming conventions
-- [[doc-lnggsthlrn|Languages of Thalorna]]—language reference
+[[lore-khelathiclt|Khelathi]]
+: the culture, its two ledgers and its dead
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the valley, the delta and the desert margins
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: northern rival and trading partner
+
+[[place-helionis|Helionis]]
+: partner in scholarship
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: chief trading partner and sea carrier
+
+[[affiliation-mtrrchybth|Matriarchy of Bethua]]
+: western neighbor and proxy
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: the gods and their temples
+
+[[skill-khelathlng|Khelathi Language]]
+: naming conventions
+
+[[doc-lnggsthlrn|Languages of Thalorna]]
+: language reference

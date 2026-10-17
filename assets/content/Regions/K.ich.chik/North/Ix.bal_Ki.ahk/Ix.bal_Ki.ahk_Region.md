@@ -40,6 +40,11 @@ Coastal trade with the regions to the north (lands beyond even the Shak'nal's cl
 
 ## See Also
 
-- [[affiliation-ixbalkiahk|Ish'bal Ki'ahk]]—The realm that holds this land
-- [[place-nrthrnkchchk|Northern K'ich'chik]]—The enclosing region
-- [[place-ixbalkiahk2|Ish'bal Ki'ahk]]—Seat of Ish'bal Ki'ahk
+[[affiliation-ixbalkiahk|Ish'bal Ki'ahk]]
+: The realm that holds this land
+
+[[place-nrthrnkchchk|Northern K'ich'chik]]
+: The enclosing region
+
+[[place-ixbalkiahk2|Ish'bal Ki'ahk]]
+: Seat of Ish'bal Ki'ahk

@@ -24,4 +24,5 @@ Two of the people in the character notes call Selímara home: [[being-morzhrxylk
 
 ## See Also
 
-- [[place-byzariargn|Bizaria Region]]—the region the town lies in
+[[place-byzariargn|Bizaria Region]]
+: the region the town lies in

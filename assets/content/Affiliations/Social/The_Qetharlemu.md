@@ -46,4 +46,5 @@ A scholar who wants a reinterpretation heard should expect the objection and pre
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the region it belongs to
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the region it belongs to

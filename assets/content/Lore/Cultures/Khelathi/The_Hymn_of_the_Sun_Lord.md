@@ -300,11 +300,26 @@ _\[At the last naming the rest is held as at the first. The singers go in to the
 
 ## See Also
 
-- [[lore-uqaadty|Uqa'a]]—the god of the hymn, and his night road
-- [[affiliation-uqaa|Faith of Uqa'a]]—the priesthood that sings it, and the solstice rites it belongs to
-- [[place-waluqaa|Wal-Uqa'a]]—the Sun's Road, laid on the solstice line
-- [[lore-crossmound|The Crossing to the Mound]]—the king who laid the road, and the law of the sightline
-- [[place-zelnut|The Zelnut]]—the quarter over the tomb that carries the copy
-- [[affiliation-qearet|Faith of Qe'aret]]—the Halzunet, the noon denials every door says at the height
-- [[place-zulaten|Zulaten]]—the night road the dead walk without the sun
-- [[lore-firstoccasion|The First Occasion]]—the mound, the water without a bank, and the one not written at the head of the chronicle
+[[lore-uqaadty|Uqa'a]]
+: the god of the hymn, and his night road
+
+[[affiliation-uqaa|Faith of Uqa'a]]
+: the priesthood that sings it, and the solstice rites it belongs to
+
+[[place-waluqaa|Wal-Uqa'a]]
+: the Sun's Road, laid on the solstice line
+
+[[lore-crossmound|The Crossing to the Mound]]
+: the king who laid the road, and the law of the sightline
+
+[[place-zelnut|The Zelnut]]
+: the quarter over the tomb that carries the copy
+
+[[affiliation-qearet|Faith of Qe'aret]]
+: the Halzunet, the noon denials every door says at the height
+
+[[place-zulaten|Zulaten]]
+: the night road the dead walk without the sun
+
+[[lore-firstoccasion|The First Occasion]]
+: the mound, the water without a bank, and the one not written at the head of the chronicle

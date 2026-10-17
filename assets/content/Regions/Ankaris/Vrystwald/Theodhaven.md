@@ -14,5 +14,8 @@ No Varokh village uses the landing. Varokh boat crews cut across it, and the [[a
 
 ## See Also
 
-- [[place-edrwald|Edrwald]]—the reach the bay lies in
-- [[lore-takingwood|The Taking of the Wood]]—the leaving that began here
+[[place-edrwald|Edrwald]]
+: the reach the bay lies in
+
+[[lore-takingwood|The Taking of the Wood]]
+: the leaving that began here

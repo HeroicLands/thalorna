@@ -37,7 +37,14 @@ In the next year, 241 BF, the drunkard died without an heir in a famine, after h
 
 ## See Also
 
-- [[lore-foundingage|The Founding Age]] · [[lore-agecopyists|The Age of Copyists]]—the ages on either side
-- [[lore-mhndkngdm|The Kingdom of Mahanodi]]—the kingdom from founding to dissolution
-- [[lore-unburnford|The Unburned Ford]] · [[lore-kindlford|The Kindling at the Ford]]—the age's worst act and what it kindled
-- [[place-oluratarna|Oluratarana]]—the ford of the restless dead
+[[lore-foundingage|The Founding Age]] · [[lore-agecopyists|The Age of Copyists]]
+: the ages on either side
+
+[[lore-mhndkngdm|The Kingdom of Mahanodi]]
+: the kingdom from founding to dissolution
+
+[[lore-unburnford|The Unburned Ford]] · [[lore-kindlford|The Kindling at the Ford]]
+: the age's worst act and what it kindled
+
+[[place-oluratarna|Oluratarana]]
+: the ford of the restless dead

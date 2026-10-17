@@ -69,9 +69,20 @@ Linmut uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. Tolls on the frontie
 
 ## See Also
 
-- [[affiliation-borderselatu|The Border Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-linmut|Linmut]]—Selat capital
-- [[affiliation-wethur|Faith of Weth'ur]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-linmutselat|Linmut Selat]]—The land the selat holds
+[[affiliation-borderselatu|The Border Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-linmut|Linmut]]
+: Selat capital
+
+[[affiliation-wethur|Faith of Weth'ur]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-linmutselat|Linmut Selat]]
+: The land the selat holds

@@ -68,13 +68,26 @@ This note maps the languages spoken across [[place-worldthlrn|Thalorna]], the po
 
 The languages of Thalorna fall into several broad families:
 
-- **Pelwar Family:** Vylari, Élavendri, Áelendi, Nordmal, Varokhi, Tarveni, and Provenzal all descend from the ancient Pelwar tongue, brought by nomadic peoples who migrated across Ankaris millennia ago. Áelendi is the most conservative member of the family, preserving features that the other languages have lost. Élavendri descends directly from Áelendi. Speakers of Pelwar languages can sometimes catch fragments of each other's speech.
-- **Helonic Family:** Helonic, Bethuan, and Bizarian share a common ancestor. Helonic served as a prestige language across Mídhalión for centuries, and its influence can be found in the vocabularies of many other languages.
-- **Desert Family:** Dunhari and related dialects spoken across the Khazryn Desert and the Kingdom of Amradad. The Amradi courtly dialect is a refined register used in the courts of the Kingdom.
-- **Eastern Isolates:** Vedyari, Tantsou, and Khelathi are considered isolates or members of distinct families, with no close relationship to the western languages. Jurthati, the tongue of Jenchai, descends from Tantsou and is the one clear daughter-language among them. The [[skill-jurthatlng#lexicon|Jurthati Lexicon]] traces its words from their Tantsou roots.
-- **Elder Tongues:** Sinale and Khazari share a common ancestor that predates all human language on Thalorna. The two branches diverged long before human settlement.
-- **Ki'ichek:** An independent language family with no known relatives on other continents.
-- **Isolates:** Kalihari, Okharik, Grukar, Nyáluban, and Ekpelu each stand alone with no demonstrated relationship to other language families.
+Pelwar Family
+: Vylari, Élavendri, Áelendi, Nordmal, Varokhi, Tarveni, and Provenzal all descend from the ancient Pelwar tongue, brought by nomadic peoples who migrated across Ankaris millennia ago. Áelendi is the most conservative member of the family, preserving features that the other languages have lost. Élavendri descends directly from Áelendi. Speakers of Pelwar languages can sometimes catch fragments of each other's speech.
+
+Helonic Family
+: Helonic, Bethuan, and Bizarian share a common ancestor. Helonic served as a prestige language across Mídhalión for centuries, and its influence can be found in the vocabularies of many other languages.
+
+Desert Family
+: Dunhari and related dialects spoken across the Khazryn Desert and the Kingdom of Amradad. The Amradi courtly dialect is a refined register used in the courts of the Kingdom.
+
+Eastern Isolates
+: Vedyari, Tantsou, and Khelathi are considered isolates or members of distinct families, with no close relationship to the western languages. Jurthati, the tongue of Jenchai, descends from Tantsou and is the one clear daughter-language among them. The [[skill-jurthatlng#lexicon|Jurthati Lexicon]] traces its words from their Tantsou roots.
+
+Elder Tongues
+: Sinale and Khazari share a common ancestor that predates all human language on Thalorna. The two branches diverged long before human settlement.
+
+Ki'ichek
+: An independent language family with no known relatives on other continents.
+
+Isolates
+: Kalihari, Okharik, Grukar, Nyáluban, and Ekpelu each stand alone with no demonstrated relationship to other language families.
 
 ## Scripts
 
@@ -157,7 +170,8 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Trade Languages
 
-- **[[skill-valtarlng|Valtari]]:** The dominant pidgin of Mídhalión's harbors, trading houses, and ships. Spoken by merchants, sailors, dock workers, and anyone whose livelihood crosses language boundaries.
+[[skill-valtarlng|Valtari]]
+: The dominant pidgin of Mídhalión's harbors, trading houses, and ships. Spoken by merchants, sailors, dock workers, and anyone whose livelihood crosses language boundaries.
 
 ## Every Language Note
 

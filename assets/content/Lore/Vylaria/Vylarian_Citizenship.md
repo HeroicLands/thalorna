@@ -52,7 +52,14 @@ As the Empire's reach and revenue shrink, the citizenship has become a burden th
 
 ## See Also
 
-- [[affiliation-vylrnmltry|The Vylarian Military]]—the legions, and the twenty-year road to the citizenship
-- [[place-orzara|Orzara]]—where the citizen body concentrates; the right-of-residence rule and the dole in the capital
-- [[affiliation-verdanorzara|Verdan Orzara]]—the civic courts that register resident waivers (and quietly sell them)
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the state whose membership this is
+[[affiliation-vylrnmltry|The Vylarian Military]]
+: the legions, and the twenty-year road to the citizenship
+
+[[place-orzara|Orzara]]
+: where the citizen body concentrates; the right-of-residence rule and the dole in the capital
+
+[[affiliation-verdanorzara|Verdan Orzara]]
+: the civic courts that register resident waivers (and quietly sell them)
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the state whose membership this is

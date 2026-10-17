@@ -232,15 +232,32 @@ Rubbing the jaws together, the spider makes a harsh buzz heard thirty paces off,
 
 ## Attributes
 
-- **Strength:** 7-10 (1d4+6)
-- **Endurance:** 6-9 (1d4+5)
-- **Dexterity:** 13-18 (1d6+12)
-- **Agility:** 14-19 (1d6+13)
-- **Perception:** 11-16 (1d6+10)
-- **Aura:** 4-7 (1d4+3)
-- **Will:** 8-11 (1d4+7)
-- **Reasoning:** 4-7 (1d4+3)
-- **Creativity:** 3-6 (1d4+2)
+Strength
+: 7-10 (1d4+6)
+
+Endurance
+: 6-9 (1d4+5)
+
+Dexterity
+: 13-18 (1d6+12)
+
+Agility
+: 14-19 (1d6+13)
+
+Perception
+: 11-16 (1d6+10)
+
+Aura
+: 4-7 (1d4+3)
+
+Will
+: 8-11 (1d4+7)
+
+Reasoning
+: 4-7 (1d4+3)
+
+Creativity
+: 3-6 (1d4+2)
 
 ## Variant: Deep Desert Patriarch
 

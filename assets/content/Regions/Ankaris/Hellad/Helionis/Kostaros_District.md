@@ -20,6 +20,11 @@ The Kostaros District is the stretch of Helionite coast that the city-state of [
 
 ## See Also
 
-- [[affiliation-kostaros2|Kostaros]]—the city-state that holds this land
-- [[place-helionis|Helionis]]—the region
-- [[place-myrtillos|Mirtelos]]—the town within the district
+[[affiliation-kostaros2|Kostaros]]
+: the city-state that holds this land
+
+[[place-helionis|Helionis]]
+: the region
+
+[[place-myrtillos|Mirtelos]]
+: the town within the district

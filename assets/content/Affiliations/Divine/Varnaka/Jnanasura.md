@@ -50,10 +50,17 @@ sohl:
 
 ## Jnanasura—The Radiant Sage
 
-- **Domain:** Knowledge, learning, enlightenment, the discipline of study, the clarity granted before battle
-- **Symbol:** A radiant sun with an open book
-- **Pronunciation:** _GYAH-nah-soo-rah_
-- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
+Domain
+: Knowledge, learning, enlightenment, the discipline of study, the clarity granted before battle
+
+Symbol
+: A radiant sun with an open book
+
+Pronunciation
+: _GYAH-nah-soo-rah_
+
+Pantheon
+: [[affiliation-varakpnthn|Varnuka Pantheon]]
 
 "Touch the medallion before you sit down, not after, and read one line aloud from the stand by the door." The keeper of a school's shrine says it to a first-year on the evening before the examination. The line is whichever one the book lies open to, and nobody is excused it, scholar or soldier.
 
@@ -73,9 +80,14 @@ A Jnanasuran household keeps a reading-stand in its main room, with a book lying
 
 ### Ordeals for Favor
 
-- **[The Examination Beyond the Veil]{.name data-type="lore/custom"}**—seven days of examination on subjects the devotee was not told to prepare, before a council that includes at least one member of every scholarly specialization.
-- **[The Silent Year of Reading]{.name data-type="lore/custom"}**—a year of study in a temple library, speaking to no one and consuming only what the library provides.
-- **[The Contest of Open Questions]{.name data-type="lore/custom"}**—a public ordeal in which the devotee answers any question put by any member of the community, for a full day from dawn to sunset.
+[The Examination Beyond the Veil]{.name data-type="lore/custom"}
+: seven days of examination on subjects the devotee was not told to prepare, before a council that includes at least one member of every scholarly specialization.
+
+[The Silent Year of Reading]{.name data-type="lore/custom"}
+: a year of study in a temple library, speaking to no one and consuming only what the library provides.
+
+[The Contest of Open Questions]{.name data-type="lore/custom"}
+: a public ordeal in which the devotee answers any question put by any member of the community, for a full day from dawn to sunset.
 
 ### See Also
 

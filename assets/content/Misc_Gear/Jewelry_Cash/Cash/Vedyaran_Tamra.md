@@ -17,4 +17,5 @@ Its face carries the mark of the treasury that struck it, a temple mark here and
 
 ## See Also
 
-- [[lore-vdyrnbnkng|Vedyaran Banking]]—the currency's place in the Collective's system
+[[lore-vdyrnbnkng|Vedyaran Banking]]
+: the currency's place in the Collective's system

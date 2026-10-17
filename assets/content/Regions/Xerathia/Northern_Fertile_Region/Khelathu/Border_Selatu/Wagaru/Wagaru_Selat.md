@@ -25,11 +25,19 @@ This is the country of the southern gold-road, and everything on it is arranged 
 
 ## Settlements
 
-- [[place-wagaru|Wagaru]] (~14,000)—the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-psaqarudty|Saq'aru]].
-- The villages and estate-towns: a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
+[[place-wagaru|Wagaru]] (~14,000)
+: the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-psaqarudty|Saq'aru]].
+
+The villages and estate-towns
+: a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatwagaru|The Selat of Wagaru]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-wagaru|Wagaru]]—Selat capital
+[[affiliation-selatwagaru|The Selat of Wagaru]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-wagaru|Wagaru]]
+: Selat capital

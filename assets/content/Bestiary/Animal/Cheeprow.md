@@ -318,20 +318,29 @@ In the frenzy, a wounded Cheeprow keeps attacking until it cannot move. A dying 
 
 ## Attributes
 
-- **Strength:** 2-5 (1d4+1)
+Strength
+: 2-5 (1d4+1)
 
-- **Endurance:** 3-6 (1d4+2)
+Endurance
+: 3-6 (1d4+2)
 
-- **Dexterity:** 9-14 (1d6+8)
+Dexterity
+: 9-14 (1d6+8)
 
-- **Agility:** 10-15 (1d6+9)
+Agility
+: 10-15 (1d6+9)
 
-- **Perception:** 10-15 (1d6+9)
+Perception
+: 10-15 (1d6+9)
 
-- **Aura:** 6-9 (1d4+5)
+Aura
+: 6-9 (1d4+5)
 
-- **Will:** 7-12 (1d6+6)
+Will
+: 7-12 (1d6+6)
 
-- **Reasoning:** 4-7 (1d4+3)
+Reasoning
+: 4-7 (1d4+3)
 
-- **Creativity:** 5-8 (1d4+4)
+Creativity
+: 5-8 (1d4+4)

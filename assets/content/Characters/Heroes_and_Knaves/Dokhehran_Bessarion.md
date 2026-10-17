@@ -450,18 +450,34 @@ Dókhehran's deepest motivation flows from a conviction that the decline of the 
 
 ### Strengths
 
-- **Arcane Linguistics Mastery**: Few scholars living can decipher pre-Collapse written languages with Dókhehran's fluency. She reads the dead tongues of the ancient kingdoms as readily as her native speech, giving her access to knowledge sealed away for centuries.
-- **Thaumaturgical Theory**: Her understanding of magical resonance, ritual structure, and the underlying principles of spellcraft is of the first rank, allowing her to construct new rituals and sometimes achieve effects other mages consider impossible.
-- **Scholarly Authority**: Her publications and reputation grant her considerable influence within academic and magical circles throughout the Bizarian League and beyond.
-- **Perception and Analysis**: With sharp perception and reasoning, she notices patterns others miss and can synthesize seemingly unrelated information into deep insights.
-- **Ritual Precision**: Her command of complex ritual magic is flawless; she executes elaborate ceremonies with the perfection of a master musician performing a memorized composition.
+Arcane Linguistics Mastery
+: Few scholars living can decipher pre-Collapse written languages with Dókhehran's fluency. She reads the dead tongues of the ancient kingdoms as readily as her native speech, giving her access to knowledge sealed away for centuries.
+
+Thaumaturgical Theory
+: Her understanding of magical resonance, ritual structure, and the underlying principles of spellcraft is of the first rank, allowing her to construct new rituals and sometimes achieve effects other mages consider impossible.
+
+Scholarly Authority
+: Her publications and reputation grant her considerable influence within academic and magical circles throughout the Bizarian League and beyond.
+
+Perception and Analysis
+: With sharp perception and reasoning, she notices patterns others miss and can synthesize seemingly unrelated information into deep insights.
+
+Ritual Precision
+: Her command of complex ritual magic is flawless; she executes elaborate ceremonies with the perfection of a master musician performing a memorized composition.
 
 ### Weaknesses
 
-- **Physical Frailty**: Despite her powerful mind, Dókhehran possesses only modest physical strength and endurance. She would be quickly overcome in any direct combat.
-- **Obsessive Recklessness**: Her consuming passion for forbidden knowledge sometimes overrides prudent judgment. She has narrowly escaped several magical catastrophes through sheer fortune rather than wisdom.
-- **Isolation**: Her arrogant certainty and emotional distance have alienated many potential allies, leaving her dependent on a small circle of supporters.
-- **Magical Overreach**: Her confidence in her abilities can lead her to attempt rituals whose consequences she has not fully considered, risking not only her life but potentially those around her.
+Physical Frailty
+: Despite her powerful mind, Dókhehran possesses only modest physical strength and endurance. She would be quickly overcome in any direct combat.
+
+Obsessive Recklessness
+: Her consuming passion for forbidden knowledge sometimes overrides prudent judgment. She has narrowly escaped several magical catastrophes through sheer fortune rather than wisdom.
+
+Isolation
+: Her arrogant certainty and emotional distance have alienated many potential allies, leaving her dependent on a small circle of supporters.
+
+Magical Overreach
+: Her confidence in her abilities can lead her to attempt rituals whose consequences she has not fully considered, risking not only her life but potentially those around her.
 
 ## Social
 
@@ -488,12 +504,17 @@ The Keepers of the Sealed Archive
 
 ## Plot Hooks
 
-1. **The Sealed Vault Discovery**: While cataloging texts in a previously unexplored section of the sealed vaults beneath the Lizelas Temple in Bizaris, Dókhehran unearths a fragmentary text that appears to describe a mechanism for undoing the deliberate magical workings that fragmented the ancient Helionite kingdoms—a ritual that might allow communication with or even recovery of knowledge from the scattered predecessor civilization. However, the final pages are missing, and she has reason to believe they were deliberately removed by another scholar generations ago. The party must help her track down **Oravex Solemnios**, an elderly scholar now living in voluntary exile in the Khazryn Desert, who may possess the missing pages and the dangerous knowledge of why they were hidden from the Epistémion's leadership.
+The Sealed Vault Discovery
+: While cataloging texts in a previously unexplored section of the sealed vaults beneath the Lizelas Temple in Bizaris, Dókhehran unearths a fragmentary text that appears to describe a mechanism for undoing the deliberate magical workings that fragmented the ancient Helionite kingdoms—a ritual that might allow communication with or even recovery of knowledge from the scattered predecessor civilization. However, the final pages are missing, and she has reason to believe they were deliberately removed by another scholar generations ago. The party must help her track down **Oravex Solemnios**, an elderly scholar now living in voluntary exile in the Khazryn Desert, who may possess the missing pages and the dangerous knowledge of why they were hidden from the Epistémion's leadership.
 
-2. **Patron's Hidden Purpose**: **Lord Bufomazul Charzilzát** reveals to the party (but not initially to Dókhehran) that his support for her work is not purely academic—he is a representative of an exiled faction seeking to use recovered ancient magical knowledge to restructure power within the Bizarian League and potentially beyond. He demands that Dókhehran create a specific ritual from her research—one that could disrupt the carefully maintained balance between the five merchant cities and destabilize the entire League's structure. The party can warn Dókhehran and help her escape Bufomazul's influence, negotiate with Bufomazul to understand his true objectives, or undertake the dangerous task of investigating whether Bufomazul's ambitions might actually be justified by the truth of what happened to the ancient kingdoms.
+Patron's Hidden Purpose
+: **Lord Bufomazul Charzilzát** reveals to the party (but not initially to Dókhehran) that his support for her work is not purely academic—he is a representative of an exiled faction seeking to use recovered ancient magical knowledge to restructure power within the Bizarian League and potentially beyond. He demands that Dókhehran create a specific ritual from her research—one that could disrupt the carefully maintained balance between the five merchant cities and destabilize the entire League's structure. The party can warn Dókhehran and help her escape Bufomazul's influence, negotiate with Bufomazul to understand his true objectives, or undertake the dangerous task of investigating whether Bufomazul's ambitions might actually be justified by the truth of what happened to the ancient kingdoms.
 
-3. **The Heresy Trial**: _Marendos_ **Raghumon Kregokhash**, allied with the Keepers of the Sealed Archive, finally convinces the Epistémion's leadership to open a formal inquiry into Dókhehran's publications and research, claiming she has violated fundamental prohibitions against certain categories of inquiry and that her work risks breaching wards that seal away dangerous knowledge. Dókhehran asks the party to help her gather evidence and witnesses to her defense, but their investigation uncovers deeply uncomfortable truths: her latest ritual—conducted in a sealed vault beneath the Lizelas Temple—did accidentally destabilize a seal that has kept something imprisoned for centuries. That "something" may be a real threat, or merely what the Keepers want the Epistémion to believe. The party must deal with scholarly politics, forbidden magic, and the terrifying possibility that Dókhehran's work may have threatened something that the Epistémion's leadership has kept hidden.
+The Heresy Trial
+: _Marendos_ **Raghumon Kregokhash**, allied with the Keepers of the Sealed Archive, finally convinces the Epistémion's leadership to open a formal inquiry into Dókhehran's publications and research, claiming she has violated fundamental prohibitions against certain categories of inquiry and that her work risks breaching wards that seal away dangerous knowledge. Dókhehran asks the party to help her gather evidence and witnesses to her defense, but their investigation uncovers deeply uncomfortable truths: her latest ritual—conducted in a sealed vault beneath the Lizelas Temple—did accidentally destabilize a seal that has kept something imprisoned for centuries. That "something" may be a real threat, or merely what the Keepers want the Epistémion to believe. The party must deal with scholarly politics, forbidden magic, and the terrifying possibility that Dókhehran's work may have threatened something that the Epistémion's leadership has kept hidden.
 
-4. **Voices in the Archive**: Dókhehran begins to experience increasingly vivid and coherent psychic contact with an intelligence that claims to be the preserved consciousness of an ancient Helionite archivist—one of the great scholars of the kingdoms that fell. This entity offers her knowledge in exchange for performing a series of increasingly complex rituals to restore communication across the rifts that fragmented the ancient civilization. The party slowly realizes that the "archivist" may be something far older and far more alien, or that Dókhehran's interpretation of the contact may be dangerously distorted. She may have made binding agreements to something she doesn't fully understand. They must walk the fine line between supporting her scholarly breakthrough and breaking her free of a dangerous influence before she completes the final ritual—one that could have catastrophic consequences for the present order of the Bizarian League and beyond.
+Voices in the Archive
+: Dókhehran begins to experience increasingly vivid and coherent psychic contact with an intelligence that claims to be the preserved consciousness of an ancient Helionite archivist—one of the great scholars of the kingdoms that fell. This entity offers her knowledge in exchange for performing a series of increasingly complex rituals to restore communication across the rifts that fragmented the ancient civilization. The party slowly realizes that the "archivist" may be something far older and far more alien, or that Dókhehran's interpretation of the contact may be dangerously distorted. She may have made binding agreements to something she doesn't fully understand. They must walk the fine line between supporting her scholarly breakthrough and breaking her free of a dangerous influence before she completes the final ritual—one that could have catastrophic consequences for the present order of the Bizarian League and beyond.
 
-5. **Race for the Hidden Archive**: Dókhehran discovers that a crucial archive from the Helionite era, hidden since before the kingdoms' fragmentation, has been located by multiple factions—the Keepers of the Sealed Archive seek to keep it sealed and hidden, **Lord Bufomazul's** agents seek to claim its contents for his own purposes, and the [[affiliation-ordoarcanis|Thordimalon]] has taken sudden, suspicious interest. She hires the party to reach the archive first and secure critical texts, knowing that the knowledge contained within could either vindicate her theories about deliberate magical interference in history or prove her life's work based on delusion and wishful thinking. The expedition must cross treacherous terrain, rival expeditions, and the terrifying discovery that the archive's location has been deliberately concealed by multiple powerful factions for centuries—all of whom have invested enormous effort in keeping its secrets hidden.
+Race for the Hidden Archive
+: Dókhehran discovers that a crucial archive from the Helionite era, hidden since before the kingdoms' fragmentation, has been located by multiple factions—the Keepers of the Sealed Archive seek to keep it sealed and hidden, **Lord Bufomazul's** agents seek to claim its contents for his own purposes, and the [[affiliation-ordoarcanis|Thordimalon]] has taken sudden, suspicious interest. She hires the party to reach the archive first and secure critical texts, knowing that the knowledge contained within could either vindicate her theories about deliberate magical interference in history or prove her life's work based on delusion and wishful thinking. The expedition must cross treacherous terrain, rival expeditions, and the terrifying discovery that the archive's location has been deliberately concealed by multiple powerful factions for centuries—all of whom have invested enormous effort in keeping its secrets hidden.

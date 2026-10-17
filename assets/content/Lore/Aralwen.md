@@ -42,12 +42,11 @@ tallies its losses privately, and sends more agents.
 
 ## Named Aralwain
 
-- [Úkua-Arálwen]{.name data-type="place"}—a _slow_ aralwen of deep [Terrae]{.name data-type="lore/arcana"} resonance, all ancient trees and dryads, whose
-  time runs at its own rate: a day inside can be a month outside. Few who enter come out. Its flora
-  is not merely large but occasionally mobile and hostile.
-- [[lore-uronspr|The Uron Tekhi]]—not an aralwen itself but a Kindred that holds one: the
-  oldest the Áelendan deal with, counted fae-adjacent, and understood to have crossed the boundary
-  long ago or to have been fae-kin from before the tribes came.
+[Úkua-Arálwen]{.name data-type="place"}
+: a _slow_ aralwen of deep [Terrae]{.name data-type="lore/arcana"} resonance, all ancient trees and dryads, whose time runs at its own rate: a day inside can be a month outside. Few who enter come out. Its flora is not merely large but occasionally mobile and hostile.
+
+[[lore-uronspr|The Uron Tekhi]]
+: not an aralwen itself but a Kindred that holds one: the oldest the Áelendan deal with, counted fae-adjacent, and understood to have crossed the boundary long ago or to have been fae-kin from before the tribes came.
 
 ## The Name
 
@@ -58,7 +57,14 @@ places_.
 
 ## See Also
 
-- [[affiliation-alndnwrdns|The Áelendan Wardens]]—the order that guards them
-- [[lore-thekindred|The Kindred]]—the spirits met within them
-- [[affiliation-theoldway|The Old Way]]—the Áelendan spirit tradition
-- [[place-elavendre|Élavendre]]—the kingdom they lie in
+[[affiliation-alndnwrdns|The Áelendan Wardens]]
+: the order that guards them
+
+[[lore-thekindred|The Kindred]]
+: the spirits met within them
+
+[[affiliation-theoldway|The Old Way]]
+: the Áelendan spirit tradition
+
+[[place-elavendre|Élavendre]]
+: the kingdom they lie in

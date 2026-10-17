@@ -46,7 +46,14 @@ The Varokh villages of Vandstein that sent the host keep an empty place for each
 
 ## See Also
 
-- [[lore-blackmarshbtl|The Battle of the Black Marsh]]—the battle that made it
-- [[lore-bloodfield|Blood-fields]]—what a dread is
-- [[lore-hungerraids|The Hunger Raids]]—the host's own account
-- [[place-moktur|Moktur]]—the province it lies in
+[[lore-blackmarshbtl|The Battle of the Black Marsh]]
+: the battle that made it
+
+[[lore-bloodfield|Blood-fields]]
+: what a dread is
+
+[[lore-hungerraids|The Hunger Raids]]
+: the host's own account
+
+[[place-moktur|Moktur]]
+: the province it lies in

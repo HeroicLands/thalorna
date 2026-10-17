@@ -314,20 +314,29 @@ Rams are most aggressive during autumn rutting season and less so during other t
 
 ## Attributes
 
-- **Strength:** 14-19 (1d6+13)
+Strength
+: 14-19 (1d6+13)
 
-- **Endurance:** 12-17 (1d6+11)
+Endurance
+: 12-17 (1d6+11)
 
-- **Agility:** 12-17 (1d6+11)
+Agility
+: 12-17 (1d6+11)
 
-- **Perception:** 15-20 (1d6+14)
+Perception
+: 15-20 (1d6+14)
 
-- **Scent:** 3-6 (1d4+2)
+Scent
+: 3-6 (1d4+2)
 
-- **Aura:** 2-5 (1d4+1)
+Aura
+: 2-5 (1d4+1)
 
-- **Will:** 13-18 (1d6+12)
+Will
+: 13-18 (1d6+12)
 
-- **Reasoning:** 2-5 (1d4+1)
+Reasoning
+: 2-5 (1d4+1)
 
-- **Creativity:** 2-5 (1d4+1)
+Creativity
+: 2-5 (1d4+1)

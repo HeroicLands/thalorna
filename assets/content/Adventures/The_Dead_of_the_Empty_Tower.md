@@ -119,8 +119,17 @@ Hidden in the walls of the tower are the original shaft-deeds of Ashkarad's wate
 
 ## See Also
 
-- [[place-talbemsirvel|Tashbemsirvesh]]—the tower and what lies on it
-- [[place-ashkarad|Ashkarad]]—the city it serves and the water it holds
-- [[affiliation-azravan|Faith of Azravan]]—the rite the Expositor broke
-- [[lore-theshadow|The Shadow]]—what comes through a binding
-- [[lore-undead|Undead]]—the dead made to walk
+[[place-talbemsirvel|Tashbemsirvesh]]
+: the tower and what lies on it
+
+[[place-ashkarad|Ashkarad]]
+: the city it serves and the water it holds
+
+[[affiliation-azravan|Faith of Azravan]]
+: the rite the Expositor broke
+
+[[lore-theshadow|The Shadow]]
+: what comes through a binding
+
+[[lore-undead|Undead]]
+: the dead made to walk

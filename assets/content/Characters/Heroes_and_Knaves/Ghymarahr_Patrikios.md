@@ -453,22 +453,46 @@ Ghimaráhr is driven by a need to atone that he consciously recognizes can never
 
 ### Strengths
 
-- **Practical Combat Experience**: In the sword, the thrown weapon, and the weaponsmith's craft, Ghimaráhr possesses the kind of experience that comes only from three and a half decades of real warfare. He knows how to kill quickly, how to read an opponent's intentions, and how to maintain consciousness and function while wounded and exhausted.
-- **Willpower**: His will, combined with his survival skills and his quickness to act, makes him nearly impossible to break mentally or physically. He can function under extreme stress, maintain focus when others would break, and push through pain that would incapacitate normal people.
-- **Strength and Endurance**: His strength and endurance mean he can still perform feats of physical power despite his age. He can wield weapons that younger fighters cannot and maintain exertion over extended periods.
-- **Battlefield Awareness**: His sharp awareness allows him to read situations quickly and understand what's happening around him with tactical clarity. He notices threats before others and can anticipate danger.
-- **Teaching and Instruction**: His command of others and willingness to teach have proven surprisingly effective with young warriors. His experience, hard-won and nearly fatal, carries authenticity that cannot be faked.
-- **Skilled Craftwork**: His metalcraft, weaponcraft, and other craft skills allow him to maintain and improve equipment, making him largely self-sufficient.
-- **Wisdom of Age**: His knowledge of lore, his skill in argument, and his life experience give him a wisdom that young warriors respect, even if they sometimes struggle to understand his cautions.
+Practical Combat Experience
+: In the sword, the thrown weapon, and the weaponsmith's craft, Ghimaráhr possesses the kind of experience that comes only from three and a half decades of real warfare. He knows how to kill quickly, how to read an opponent's intentions, and how to maintain consciousness and function while wounded and exhausted.
+
+Willpower
+: His will, combined with his survival skills and his quickness to act, makes him nearly impossible to break mentally or physically. He can function under extreme stress, maintain focus when others would break, and push through pain that would incapacitate normal people.
+
+Strength and Endurance
+: His strength and endurance mean he can still perform feats of physical power despite his age. He can wield weapons that younger fighters cannot and maintain exertion over extended periods.
+
+Battlefield Awareness
+: His sharp awareness allows him to read situations quickly and understand what's happening around him with tactical clarity. He notices threats before others and can anticipate danger.
+
+Teaching and Instruction
+: His command of others and willingness to teach have proven surprisingly effective with young warriors. His experience, hard-won and nearly fatal, carries authenticity that cannot be faked.
+
+Skilled Craftwork
+: His metalcraft, weaponcraft, and other craft skills allow him to maintain and improve equipment, making him largely self-sufficient.
+
+Wisdom of Age
+: His knowledge of lore, his skill in argument, and his life experience give him a wisdom that young warriors respect, even if they sometimes struggle to understand his cautions.
 
 ### Weaknesses
 
-- **Haunted by Guilt**: His inner wounds run deep, and he is vulnerable to depression, dark thoughts, and moments of despair. He sometimes seems barely held together by will alone, and a fresh shock could shatter what remains of his mind.
-- **Limited Modern Influence**: His thirty-five years away from conventional society have left him somewhat isolated from current politics and power structures. He doesn't understand or fit well into court intrigue or formal hierarchies.
-- **Age and Wear**: At fifty, his reflexes are no longer what they once were. While still dangerous, he cannot match young warriors in pure speed. His dexterity and agility are adequate but far below his skill with a blade, so he relies more on experience than speed.
-- **Difficulty with Civility**: Years of military life have left him blunt and sometimes harsh in his communication. He can offend people through blunt honesty or apparent rudeness without intending to.
-- **Vulnerability to Betrayal**: Though he has learned caution, he can still be manipulated through appeals to his sense of honor or his desire to protect others. Those who understand his values can sometimes lead him into traps.
-- **No Magical Training or Resistance**: Like many lifelong warriors, he has no training in magic and is vulnerable to magical attacks or enchantments. Magic essentially terrifies him, as it represents a form of threat he cannot counter with skill.
+Haunted by Guilt
+: His inner wounds run deep, and he is vulnerable to depression, dark thoughts, and moments of despair. He sometimes seems barely held together by will alone, and a fresh shock could shatter what remains of his mind.
+
+Limited Modern Influence
+: His thirty-five years away from conventional society have left him somewhat isolated from current politics and power structures. He doesn't understand or fit well into court intrigue or formal hierarchies.
+
+Age and Wear
+: At fifty, his reflexes are no longer what they once were. While still dangerous, he cannot match young warriors in pure speed. His dexterity and agility are adequate but far below his skill with a blade, so he relies more on experience than speed.
+
+Difficulty with Civility
+: Years of military life have left him blunt and sometimes harsh in his communication. He can offend people through blunt honesty or apparent rudeness without intending to.
+
+Vulnerability to Betrayal
+: Though he has learned caution, he can still be manipulated through appeals to his sense of honor or his desire to protect others. Those who understand his values can sometimes lead him into traps.
+
+No Magical Training or Resistance
+: Like many lifelong warriors, he has no training in magic and is vulnerable to magical attacks or enchantments. Magic essentially terrifies him, as it represents a form of threat he cannot counter with skill.
 
 ## Social
 
@@ -504,12 +528,17 @@ The Village
 
 ## Plot Hooks
 
-1. **The Ghost from His Past**: One of Ghimaráhr's former comrades from the Iron Wolves Company, a warrior named **Anbarikos**, tracks him down with seemingly friendly intentions—a reunion of old soldiers. Yet Anbarikos carries orders from above to either recruit Ghimaráhr back into service or eliminate him as a liability. Ghimaráhr must get through the dangerous reunion without compromising the village and without becoming the killer he's spent five years trying to stop being.
+The Ghost from His Past
+: One of Ghimaráhr's former comrades from the Iron Wolves Company, a warrior named **Anbarikos**, tracks him down with seemingly friendly intentions—a reunion of old soldiers. Yet Anbarikos carries orders from above to either recruit Ghimaráhr back into service or eliminate him as a liability. Ghimaráhr must get through the dangerous reunion without compromising the village and without becoming the killer he's spent five years trying to stop being.
 
-2. **The Mercenary Company's Return**: The Iron Wolves Company, facing a decline in their fortunes, discovers that the massacre they conducted was illegal and the lord who hired them has disowned them to avoid scandal. Several company members recognize Ghimaráhr and believe he could be forced to testify against the lord, vindicating the company. They attempt to capture him to force his cooperation—or eliminate him if he refuses. The village becomes caught in crossfire between mercenary forces and local authorities investigating the ancient crime.
+The Mercenary Company's Return
+: The Iron Wolves Company, facing a decline in their fortunes, discovers that the massacre they conducted was illegal and the lord who hired them has disowned them to avoid scandal. Several company members recognize Ghimaráhr and believe he could be forced to testify against the lord, vindicating the company. They attempt to capture him to force his cooperation—or eliminate him if he refuses. The village becomes caught in crossfire between mercenary forces and local authorities investigating the ancient crime.
 
-3. **The Young Knight's Burden**: A young noble arrives in the village seeking training from the famed warrior Ghimaráhr, desperate to learn how to survive warfare. Yet Ghimaráhr recognizes in this youth a future version of himself—destined to become a mercenary unless something intervenes. He becomes invested in changing the youth's path, potentially putting himself in conflict with the youth's family, who view military service as the only honorable path.
+The Young Knight's Burden
+: A young noble arrives in the village seeking training from the famed warrior Ghimaráhr, desperate to learn how to survive warfare. Yet Ghimaráhr recognizes in this youth a future version of himself—destined to become a mercenary unless something intervenes. He becomes invested in changing the youth's path, potentially putting himself in conflict with the youth's family, who view military service as the only honorable path.
 
-4. **Redemption Through Skill**: An official from the Bizarian League's capital arrives with evidence that one of the major battles Ghimaráhr fought in, which he believed was a pointless atrocity, was actually essential to preventing a greater catastrophe. The official attempts to absolve Ghimaráhr of guilt for that campaign. Ghimaráhr has to face the possibility that some of his moral reckoning was wrong—that perhaps he's not as much a monster as he believes, which makes him question everything he's built his redemption around.
+Redemption Through Skill
+: An official from the Bizarian League's capital arrives with evidence that one of the major battles Ghimaráhr fought in, which he believed was a pointless atrocity, was actually essential to preventing a greater catastrophe. The official attempts to absolve Ghimaráhr of guilt for that campaign. Ghimaráhr has to face the possibility that some of his moral reckoning was wrong—that perhaps he's not as much a monster as he believes, which makes him question everything he's built his redemption around.
 
-5. **The Final Challenge**: A young, skilled warrior arrives seeking to challenge Ghimaráhr, hoping to defeat the famed retired mercenary and establish her own reputation. Ghimaráhr doesn't want to fight—he's trying to move beyond violence. Yet the young woman is relentless, and when he refuses repeatedly, she challenges him publicly, questioning his courage. The duel becomes inevitable, and Ghimaráhr must find whether he can still fight when he must, and whether he can do so without becoming the killer he was in his mercenary days.
+The Final Challenge
+: A young, skilled warrior arrives seeking to challenge Ghimaráhr, hoping to defeat the famed retired mercenary and establish her own reputation. Ghimaráhr doesn't want to fight—he's trying to move beyond violence. Yet the young woman is relentless, and when he refuses repeatedly, she challenges him publicly, questioning his courage. The duel becomes inevitable, and Ghimaráhr must find whether he can still fight when he must, and whether he can do so without becoming the killer he was in his mercenary days.

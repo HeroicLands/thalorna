@@ -70,9 +70,14 @@ Hénzhuo is not prayed to in the conventional sense—the Lord of the Unclassifi
 
 ### See Also
 
-- [[affiliation-nuotsourui|Nuotsou Rui]]—The cult whose foundational theological figure is the First Refusal
-- [[affiliation-youweng|Youwéng]]—The Demon Realm
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The Celestial Bureaucracy whose Great Sorting Hénzhuo refused
+[[affiliation-nuotsourui|Nuotsou Rui]]
+: The cult whose foundational theological figure is the First Refusal
+
+[[affiliation-youweng|Youwéng]]
+: The Demon Realm
+
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: The Celestial Bureaucracy whose Great Sorting Hénzhuo refused
 
 ## Outside the Ladder
 

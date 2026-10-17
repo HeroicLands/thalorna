@@ -342,20 +342,29 @@ Wet ground, standing water, deep rock and anything that grounds its charge bleed
 
 ## Attributes
 
-- **Strength:** 15-18 (1d4+14)
+Strength
+: 15-18 (1d4+14)
 
-- **Endurance:** 15-18 (1d4+14)
+Endurance
+: 15-18 (1d4+14)
 
-- **Dexterity:** 6-9 (1d4+5)
+Dexterity
+: 6-9 (1d4+5)
 
-- **Agility:** 7-10 (1d4+6)
+Agility
+: 7-10 (1d4+6)
 
-- **Perception:** 7-10 (1d4+6)
+Perception
+: 7-10 (1d4+6)
 
-- **Aura:** 9-12 (1d4+8)
+Aura
+: 9-12 (1d4+8)
 
-- **Will:** 11-14 (1d4+10)
+Will
+: 11-14 (1d4+10)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

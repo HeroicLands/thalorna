@@ -289,9 +289,20 @@ Here the hammer is given.
 
 ## See Also
 
-- [[lore-khazariclt|Khazari]]—the culture whose workshops these sayings are taught in
-- [[lore-flkkhazar|Khazár Folk]]—the people, their history and their holds
-- [[skill-khazarlng|Khazari Language]]—the frames the masters' names are built on
-- [[place-vorgald|Vorgald]]—the hold whose chain this is
-- [[lore-vardain|The Vardain]]—the people at the gate
-- [[lore-longnhrtnc|The Long Inheritance]]—what the holds taught the peoples they held in service
+[[lore-khazariclt|Khazari]]
+: the culture whose workshops these sayings are taught in
+
+[[lore-flkkhazar|Khazár Folk]]
+: the people, their history and their holds
+
+[[skill-khazarlng|Khazari Language]]
+: the frames the masters' names are built on
+
+[[place-vorgald|Vorgald]]
+: the hold whose chain this is
+
+[[lore-vardain|The Vardain]]
+: the people at the gate
+
+[[lore-longnhrtnc|The Long Inheritance]]
+: what the holds taught the peoples they held in service

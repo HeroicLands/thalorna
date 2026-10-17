@@ -452,27 +452,37 @@ Thefnuti's primary motivation is the creation of mechanical perfection—toys th
 
 ### Strengths
 
-- **Extraordinary Mechanical Aptitude**: His lockcraft, with five specializations, combined with his creativity, reasoning, drawing, and music, allows him to conceive and execute mechanisms of astonishing complexity. Few living craftsmen can match his precision with clockwork.
+Extraordinary Mechanical Aptitude
+: His lockcraft, with five specializations, combined with his creativity, reasoning, drawing, and music, allows him to conceive and execute mechanisms of astonishing complexity. Few living craftsmen can match his precision with clockwork.
 
-- **Multi-Disciplinary Mastery**: He possesses significant abilities across woodworking, metalcraft, ceramics, and textile craft. This allows him to create complete works integrating multiple materials and techniques as one whole.
+Multi-Disciplinary Mastery
+: He possesses significant abilities across woodworking, metalcraft, ceramics, and textile craft. This allows him to create complete works integrating multiple materials and techniques as one whole.
 
-- **Attention to Detail**: His sharp perception and dexterity allow him to work at scales and tolerances that would challenge lesser craftsmen. He can create gear teeth so fine they require magnification to observe clearly.
+Attention to Detail
+: His sharp perception and dexterity allow him to work at scales and tolerances that would challenge lesser craftsmen. He can create gear teeth so fine they require magnification to observe clearly.
 
-- **Inventor's Mind**: His creativity and reasoning combine to let him devise new solutions to mechanical problems while keeping to the traditional approach as a whole.
+Inventor's Mind
+: His creativity and reasoning combine to let him devise new solutions to mechanical problems while keeping to the traditional approach as a whole.
 
-- **Understanding of Motion**: His knowledge of how mechanisms function at deep levels allows him to design toys and sculptures that perform with seemingly impossible fluidity and precision.
+Understanding of Motion
+: His knowledge of how mechanisms function at deep levels allows him to design toys and sculptures that perform with seemingly impossible fluidity and precision.
 
 ### Weaknesses
 
-- **Intolerance of Modern Methods**: His creativity, while extraordinary for design, is constrained by his unwillingness to experiment with new materials or methods. He views any deviation from traditional methods as inherent compromise, blinding him to potential improvements.
+Intolerance of Modern Methods
+: His creativity, while extraordinary for design, is constrained by his unwillingness to experiment with new materials or methods. He views any deviation from traditional methods as inherent compromise, blinding him to potential improvements.
 
-- **Poor Business Acumen**: His modest eloquence and charm make him a poor negotiator and a worse salesman. He struggles to explain the value of his work to potential patrons and often prices his commissions far below what the market would bear, then resents that he is undercompensated.
+Poor Business Acumen
+: His modest eloquence and charm make him a poor negotiator and a worse salesman. He struggles to explain the value of his work to potential patrons and often prices his commissions far below what the market would bear, then resents that he is undercompensated.
 
-- **Social Isolation**: His endurance for company is limited. Long client meetings drain him, and he frequently offends patrons with brusque dismissals. This has limited his ability to build a strong body of patrons despite his renown.
+Social Isolation
+: His endurance for company is limited. Long client meetings drain him, and he frequently offends patrons with brusque dismissals. This has limited his ability to build a strong body of patrons despite his renown.
 
-- **Perfectionism Paralysis**: His desire for mechanical perfection sometimes prevents him from completing works. He has been known to spend months perfecting small components that patrons already considered adequate, delaying projects and increasing costs.
+Perfectionism Paralysis
+: His desire for mechanical perfection sometimes prevents him from completing works. He has been known to spend months perfecting small components that patrons already considered adequate, delaying projects and increasing costs.
 
-- **Declining Physical Capability**: His strength and endurance are declining with age, and his eyesight, while still precise for close work, deteriorates if forced to work for extended periods, requiring him to take more frequent breaks.
+Declining Physical Capability
+: His strength and endurance are declining with age, and his eyesight, while still precise for close work, deteriorates if forced to work for extended periods, requiring him to take more frequent breaks.
 
 ## Social
 
@@ -508,12 +518,17 @@ Toymaker Mavrik the Innovator
 
 ## Plot Hooks
 
-1. **The Rival's Theft**: Thefnuti discovers that his designs—exact reproductions of mechanisms and aesthetic approaches he developed—are being produced by Mavrik in bulk. Someone has stolen detailed plans or documented his work in sufficient detail that his unique approaches can be copied. Thefnuti must determine who is responsible, how extensive the theft is, and how to prove the designs are his under a law that gives craftsmen no such protection.
+The Rival's Theft
+: Thefnuti discovers that his designs—exact reproductions of mechanisms and aesthetic approaches he developed—are being produced by Mavrik in bulk. Someone has stolen detailed plans or documented his work in sufficient detail that his unique approaches can be copied. Thefnuti must determine who is responsible, how extensive the theft is, and how to prove the designs are his under a law that gives craftsmen no such protection.
 
-2. **The Mechanical Anomaly**: A patron brings Thefnuti a broken mechanical device—not his creation—from an ancient ruin, asking him to restore it. As he examines it, he becomes disturbed: the mechanisms are far too advanced for any known ancient civilization, and they use principles he doesn't fully understand. The patron warns him not to discuss the device with anyone, but Thefnuti becomes obsessed with understanding how it was created, potentially violating his patron's confidence to seek answers.
+The Mechanical Anomaly
+: A patron brings Thefnuti a broken mechanical device—not his creation—from an ancient ruin, asking him to restore it. As he examines it, he becomes disturbed: the mechanisms are far too advanced for any known ancient civilization, and they use principles he doesn't fully understand. The patron warns him not to discuss the device with anyone, but Thefnuti becomes obsessed with understanding how it was created, potentially violating his patron's confidence to seek answers.
 
-3. **The Apprentice Prodigy**: A young, brilliant craftsperson appears seeking apprenticeship with Thefnuti, demonstrating talent that exceeds anyone he's encountered in decades. However, Thefnuti quickly discovers the apprentice already possesses knowledge of advanced techniques—knowledge that should be impossible to acquire outside his family training. He must determine where this knowledge came from and whether accepting this apprentice will compromise seven generations of family secrets.
+The Apprentice Prodigy
+: A young, brilliant craftsperson appears seeking apprenticeship with Thefnuti, demonstrating talent that exceeds anyone he's encountered in decades. However, Thefnuti quickly discovers the apprentice already possesses knowledge of advanced techniques—knowledge that should be impossible to acquire outside his family training. He must determine where this knowledge came from and whether accepting this apprentice will compromise seven generations of family secrets.
 
-4. **The Cursed Commission**: A mysterious patron commissions an extraordinarily elaborate mechanical sculpture with very specific requirements that Thefnuti finds aesthetically unsatisfying but technically compelling. As he works, strange things begin occurring—pieces fit together incorrectly, mechanisms behave unpredictably, and workers in his shop report disturbing dreams. Thefnuti begins to suspect he is being asked to craft something impossible or actively harmful, but the patron has paid a substantial deposit and has significant leverage over him.
+The Cursed Commission
+: A mysterious patron commissions an extraordinarily elaborate mechanical sculpture with very specific requirements that Thefnuti finds aesthetically unsatisfying but technically compelling. As he works, strange things begin occurring—pieces fit together incorrectly, mechanisms behave unpredictably, and workers in his shop report disturbing dreams. Thefnuti begins to suspect he is being asked to craft something impossible or actively harmful, but the patron has paid a substantial deposit and has significant leverage over him.
 
-5. **The Imperial Inspection Crisis**: The imperial Treasury announces that Thefnuti's extraordinary mechanical gifts to the court will be examined and evaluated by foreign experts to potentially commission reproductions for diplomatic purposes. This threatens to expose Thefnuti's techniques to scrutiny and potential copying. Simultaneously, he receives a private message from the inspector claiming to possess documentary evidence of "unauthorized" imperial work—works he created but which cannot be publicly acknowledged. Someone is attempting to coerce him into cooperation through blackmail.
+The Imperial Inspection Crisis
+: The imperial Treasury announces that Thefnuti's extraordinary mechanical gifts to the court will be examined and evaluated by foreign experts to potentially commission reproductions for diplomatic purposes. This threatens to expose Thefnuti's techniques to scrutiny and potential copying. Simultaneously, he receives a private message from the inspector claiming to possess documentary evidence of "unauthorized" imperial work—works he created but which cannot be publicly acknowledged. Someone is attempting to coerce him into cooperation through blackmail.

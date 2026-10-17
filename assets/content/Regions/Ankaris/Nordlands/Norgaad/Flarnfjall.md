@@ -14,6 +14,11 @@ The high shoulders above Tvarnmark are summer grazing for caribou, and the scree
 
 ## See Also
 
-- [[place-norgaad|Norgaad]]—the region the mountains lie in
-- [[place-tvarnmark|Tvarnmark]]—the stone town on their southern edge
-- [[place-shtrdpks|Shattered Peaks]]—the frost-split massif in the high country
+[[place-norgaad|Norgaad]]
+: the region the mountains lie in
+
+[[place-tvarnmark|Tvarnmark]]
+: the stone town on their southern edge
+
+[[place-shtrdpks|Shattered Peaks]]
+: the frost-split massif in the high country

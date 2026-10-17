@@ -47,5 +47,8 @@ The alliance does its business where nobody keeps minutes: at banquets, on priva
 
 ## See Also
 
-- [[place-amqelger|Amqel-Ger]]—The **Great Quay**, where the alliance's merchant halls stand
-- [[affiliation-garhalzi|Gar-Hálzi]]—The temple treasuries whose banking houses stand beside the alliance's halls on the quay
+[[place-amqelger|Amqel-Ger]]
+: The **Great Quay**, where the alliance's merchant halls stand
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: The temple treasuries whose banking houses stand beside the alliance's halls on the quay

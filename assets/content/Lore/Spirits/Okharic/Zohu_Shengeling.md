@@ -8,10 +8,17 @@ tags: [draft, nkaruthar]
 data: {packFolder: lorespiritsokharic, culture: okharinclt}
 ---
 
-- **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
-- **Domain:** The blade
-- **Also called:** the Spirit of the Blade
-- **Met through:** [[skill-shengelsprt|Zohu Shéngeling Spirit Power]], in the [[affiliation-yenorzhrng|Yenor Zohiring]]
+Kind
+: [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
+
+Domain
+: The blade
+
+Also called
+: the Spirit of the Blade
+
+Met through
+: [[skill-shengelsprt|Zohu Shéngeling Spirit Power]], in the [[affiliation-yenorzhrng|Yenor Zohiring]]
 
 Zohu Shéngeling is the zohira of the blade, and is unusual among the zohira in that he is
 most often met not at a cairn but in an object: the **Spirit Blades** of the Magara, weapons in

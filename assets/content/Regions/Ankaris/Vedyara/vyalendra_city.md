@@ -48,9 +48,20 @@ The watch is two thousand men and is commanded by a graduate of the [[affiliatio
 
 ## See Also
 
-- [[affiliation-vyalendra2|Vyalendra]]—the city-state seated here
-- [[place-vyalendraland|Vyalendra Land]]—the land it holds
-- [[place-nilatira|Nilatira]]—the port the cloth leaves by
-- [[place-sandhyagrha|Sandyagriha]]—the house in the palace quarter
-- [[lore-vylndrcrwn|The Raising of the Vyalendri Crown]] · [[lore-vylndrkngs|The End of the Vyalendri Kingship]]—the kings who built the hall
-- [[affiliation-dhnrktjnpd|Danurkota Janapoda]]—where the watch commander is found
+[[affiliation-vyalendra2|Vyalendra]]
+: the city-state seated here
+
+[[place-vyalendraland|Vyalendra Land]]
+: the land it holds
+
+[[place-nilatira|Nilatira]]
+: the port the cloth leaves by
+
+[[place-sandhyagrha|Sandyagriha]]
+: the house in the palace quarter
+
+[[lore-vylndrcrwn|The Raising of the Vyalendri Crown]] · [[lore-vylndrkngs|The End of the Vyalendri Kingship]]
+: the kings who built the hall
+
+[[affiliation-dhnrktjnpd|Danurkota Janapoda]]
+: where the watch commander is found

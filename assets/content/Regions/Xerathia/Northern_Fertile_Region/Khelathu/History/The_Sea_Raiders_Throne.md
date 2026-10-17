@@ -68,7 +68,14 @@ The raiders ruled as the Khelathi priesthood let them, which was through the exi
 
 ## See Also
 
-- [[place-zelamqelu|Zel-Amqelu]]—the burned port
-- [[lore-seahouse|The Closing of the Sea House]]—what the next house built
-- [[lore-garauu|Gar-Auu]]—the king-list that entered them
-- [[lore-akhrestcrown|The Restored Crown]]—the age
+[[place-zelamqelu|Zel-Amqelu]]
+: the burned port
+
+[[lore-seahouse|The Closing of the Sea House]]
+: what the next house built
+
+[[lore-garauu|Gar-Auu]]
+: the king-list that entered them
+
+[[lore-akhrestcrown|The Restored Crown]]
+: the age

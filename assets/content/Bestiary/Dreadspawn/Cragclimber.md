@@ -315,20 +315,29 @@ Water softens its hardened scales and makes it let go. Soaked through, it cannot
 
 ## Attributes
 
-- **Strength:** 11-14 (1d4+10)
+Strength
+: 11-14 (1d4+10)
 
-- **Endurance:** 13-16 (1d4+12)
+Endurance
+: 13-16 (1d4+12)
 
-- **Dexterity:** 13-16 (1d4+12)
+Dexterity
+: 13-16 (1d4+12)
 
-- **Agility:** 15-18 (1d4+14)
+Agility
+: 15-18 (1d4+14)
 
-- **Perception:** 9-12 (1d4+8)
+Perception
+: 9-12 (1d4+8)
 
-- **Aura:** 7-10 (1d4+6)
+Aura
+: 7-10 (1d4+6)
 
-- **Will:** 9-12 (1d4+8)
+Will
+: 9-12 (1d4+8)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

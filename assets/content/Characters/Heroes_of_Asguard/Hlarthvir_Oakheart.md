@@ -401,8 +401,11 @@ Since his transformation, Hlarthvir can communicate with trees and forest creatu
 
 ## Plot Hooks
 
-1. **The Forest's Edge**—The Iron Consortium has brought in powerful sorcerers to counter Hlarthvir's influence, and the forest is being pushed back. Hlarthvir needs mortal allies who can act beyond the forest's boundaries.
+The Forest's Edge
+: The Iron Consortium has brought in powerful sorcerers to counter Hlarthvir's influence, and the forest is being pushed back. Hlarthvir needs mortal allies who can act beyond the forest's boundaries.
 
-2. **The Fading Man**—Hlarthvir's memories of his mortal life are slipping away faster than expected. He reaches out to his descendants, hoping that reconnecting with his human family can anchor his fading identity.
+The Fading Man
+: Hlarthvir's memories of his mortal life are slipping away faster than expected. He reaches out to his descendants, hoping that reconnecting with his human family can anchor his fading identity.
 
-3. **The Second Curse**—New fire-worms have appeared in a distant forest, and the pattern matches the original curse. Hlarthvir cannot leave his forest to investigate, so he must find agents willing to travel there and stop the corruption before it reaches his domain.
+The Second Curse
+: New fire-worms have appeared in a distant forest, and the pattern matches the original curse. Hlarthvir cannot leave his forest to investigate, so he must find agents willing to travel there and stop the corruption before it reaches his domain.

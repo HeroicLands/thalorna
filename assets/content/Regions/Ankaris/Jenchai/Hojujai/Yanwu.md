@@ -25,6 +25,11 @@ Rewei governs through judges the household appoints from among the retainers. Th
 
 ## See Also
 
-- [[affiliation-hojujaidmn|Hojujai Domain]]—the house and its regent
-- [[place-hojai|Hojai]]—the mountain
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[affiliation-hojujaidmn|Hojujai Domain]]
+: the house and its regent
+
+[[place-hojai|Hojai]]
+: the mountain
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

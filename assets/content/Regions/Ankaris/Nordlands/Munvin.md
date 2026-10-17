@@ -16,6 +16,11 @@ The unordained meet the birds as messengers, and some in the rune-hall keep that
 
 ## See Also
 
-- [[lore-hugvin|Hugvin]]—the raven of thought, who flies beside Munvin
-- [[lore-odvardty|Odvar]]—the god the ravens serve
-- [[affiliation-odvar|Faith of Odvar]]—the faith that takes the raven feather as its sign
+[[lore-hugvin|Hugvin]]
+: the raven of thought, who flies beside Munvin
+
+[[lore-odvardty|Odvar]]
+: the god the ravens serve
+
+[[affiliation-odvar|Faith of Odvar]]
+: the faith that takes the raven feather as its sign

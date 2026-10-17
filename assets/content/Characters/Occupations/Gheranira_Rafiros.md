@@ -433,12 +433,17 @@ None, but some traditionalists frown upon her use of ritual.
 
 ## Plot Hooks
 
-1. **The Embalmer's Dilemma**—A family forbids the rites Ghéranira believes protect the spirit of their dead, and she can do the work their way or not at all.
+The Embalmer's Dilemma
+: A family forbids the rites Ghéranira believes protect the spirit of their dead, and she can do the work their way or not at all.
 
-2. **Old Grudges**—A traditionalist in the Morticians' Guild has brought Ghéranira's use of ritual before the guild as a fault.
+Old Grudges
+: A traditionalist in the Morticians' Guild has brought Ghéranira's use of ritual before the guild as a fault.
 
-3. **Echoes of the Past**—Questions are raised about how Ghéranira's brother died, and she is the one who prepared his body.
+Echoes of the Past
+: Questions are raised about how Ghéranira's brother died, and she is the one who prepared his body.
 
-4. **Shifting Winds**—Political change in Helionis threatens the guild and the customs Ghéranira's trade rests on, and she can adapt, resist, or leave.
+Shifting Winds
+: Political change in Helionis threatens the guild and the customs Ghéranira's trade rests on, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—A wealthy family offers Ghéranira the care of all its dead, on condition that her rituals and herbs are kept out of it.
+The Opportunity
+: A wealthy family offers Ghéranira the care of all its dead, on condition that her rituals and herbs are kept out of it.

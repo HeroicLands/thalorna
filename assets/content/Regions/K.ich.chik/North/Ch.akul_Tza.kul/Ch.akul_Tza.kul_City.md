@@ -22,5 +22,8 @@ A few hardy guides make a living combining knowledge of desert routes with learn
 
 ## See Also
 
-- [[place-chakultzklrgn|Ch'akul Tsa'kul Region]]—the desert
-- [[place-nrthrnkchchk|Northern K'ich'chik]]—the northern frontier it separates from the south
+[[place-chakultzklrgn|Ch'akul Tsa'kul Region]]
+: the desert
+
+[[place-nrthrnkchchk|Northern K'ich'chik]]
+: the northern frontier it separates from the south

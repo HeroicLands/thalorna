@@ -50,7 +50,14 @@ At Mount Shofar we renew the Covenant before the Unconsuming Flame. The Toqel ke
 
 ## See Also
 
-- [[lore-turemrecital|The Recitation of the Breaking]]—the Tellumi account of the same war
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—the twelve tribes and the Promise they keep
-- [[lore-zargandfall|The Fall of Zargandur]]—the war-house's last ride
-- [[place-henhulpedin|Henhutpedin]]—the field beyond Zargandur's north wall
+[[lore-turemrecital|The Recitation of the Breaking]]
+: the Tellumi account of the same war
+
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: the twelve tribes and the Promise they keep
+
+[[lore-zargandfall|The Fall of Zargandur]]
+: the war-house's last ride
+
+[[place-henhulpedin|Henhutpedin]]
+: the field beyond Zargandur's north wall

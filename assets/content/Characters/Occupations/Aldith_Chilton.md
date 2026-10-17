@@ -435,12 +435,17 @@ Within Ashford's upper circles, she moves with ease and recognition. Merchants' 
 
 ## Plot Hooks
 
-1. **The Priestess's Prophecy**—A traveling oracle arrives in Ashford and attends one of Dunith's salons. She pulls Dunith aside and whispers that the goddess has shown her a vision of Dunith's beauty failing within the year—a curse, perhaps, or merely a warning of advancing age. Dunith, terrified, begins searching for ways to stave off this fate, drawing the oracle deeper into her world and potentially into conflict with the temple authorities.
+The Priestess's Prophecy
+: A traveling oracle arrives in Ashford and attends one of Dunith's salons. She pulls Dunith aside and whispers that the goddess has shown her a vision of Dunith's beauty failing within the year—a curse, perhaps, or merely a warning of advancing age. Dunith, terrified, begins searching for ways to stave off this fate, drawing the oracle deeper into her world and potentially into conflict with the temple authorities.
 
-2. **A Rival's Rise**—A younger priestess of Ólvenia, nearly as beautiful as Dunith but with spiritual conviction, begins establishing herself in Ashford and attracting Dunith's patrons with teachings of authentic connection rather than performative seduction. Dunith moves to discredit her rival, but the younger priestess's faith makes her difficult to undermine.
+A Rival's Rise
+: A younger priestess of Ólvenia, nearly as beautiful as Dunith but with spiritual conviction, begins establishing herself in Ashford and attracting Dunith's patrons with teachings of authentic connection rather than performative seduction. Dunith moves to discredit her rival, but the younger priestess's faith makes her difficult to undermine.
 
-3. **The Stolen Heart**—Dunith falls in love with someone for the first time—a wealthy merchant, a military officer, perhaps another priestess—only to discover they were playing the seduction game as skillfully as she was. The realization that she has been used as she uses others threatens her carefully constructed worldview.
+The Stolen Heart
+: Dunith falls in love with someone for the first time—a wealthy merchant, a military officer, perhaps another priestess—only to discover they were playing the seduction game as skillfully as she was. The realization that she has been used as she uses others threatens her carefully constructed worldview.
 
-4. **The Disgraced Noble**—A woman of considerable rank, publicly shamed through Dunith's negligence or malice at a salon, seeks revenge by carefully orchestrating Dunith's social downfall. She collects evidence of Dunith's more unethical manipulations and prepares to expose them to the temple authorities and the city magistrates.
+The Disgraced Noble
+: A woman of considerable rank, publicly shamed through Dunith's negligence or malice at a salon, seeks revenge by carefully orchestrating Dunith's social downfall. She collects evidence of Dunith's more unethical manipulations and prepares to expose them to the temple authorities and the city magistrates.
 
-5. **The Mirror**—An artifact surfaces in Aelwyth—a scrying mirror said to reveal one's true self beneath all illusions. Dunith becomes obsessed with obtaining it, terrified of what she might see, yet unable to resist the possibility of finally understanding who she actually is beneath the performance of beauty and seduction. The mirror may be real or may be a carefully constructed trap set by someone who knows her vulnerabilities.
+The Mirror
+: An artifact surfaces in Aelwyth—a scrying mirror said to reveal one's true self beneath all illusions. Dunith becomes obsessed with obtaining it, terrified of what she might see, yet unable to resist the possibility of finally understanding who she actually is beneath the performance of beauty and seduction. The mirror may be real or may be a carefully constructed trap set by someone who knows her vulnerabilities.

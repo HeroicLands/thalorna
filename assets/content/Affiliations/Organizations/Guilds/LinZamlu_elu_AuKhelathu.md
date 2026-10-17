@@ -60,5 +60,8 @@ Dues are the price of belonging, and the guild's name serves its members as a cr
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu]]—The empire across which a master's recommendation carries
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-aukhelathrgq|Au'Khelathu]]
+: The empire across which a master's recommendation carries
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

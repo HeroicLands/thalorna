@@ -449,19 +449,37 @@ Madurava is driven by a conviction that the careful maintenance of heraldic trad
 
 ### Strengths
 
-- **Encyclopedic Heraldic Knowledge**: Madurava's understanding of precedent, ceremony, and genealogical law has no equal across the city-states. He can cite obscure rulings from a century prior without consulting records.
-- **Diplomatic Acumen**: Though rigid in matters of formal ceremony, he is extraordinarily skilled in political disputes when they involve matters of precedence and legitimacy.
-- **Scholarly Authority**: His voice carries weight in matters of law and custom; other scholars and judges defer to his interpretations almost reflexively.
-- **Master Orator**: His eloquence and vocal control are of a high order; he can deliver formal pronouncements, genealogical recitations, and ceremonial speeches with compelling authority.
-- **Record-Keeping Excellence**: His personal archives are models of organization and accuracy; he possesses instantaneous recall of genealogical connections and historical precedent.
+Encyclopedic Heraldic Knowledge
+: Madurava's understanding of precedent, ceremony, and genealogical law has no equal across the city-states. He can cite obscure rulings from a century prior without consulting records.
+
+Diplomatic Acumen
+: Though rigid in matters of formal ceremony, he is extraordinarily skilled in political disputes when they involve matters of precedence and legitimacy.
+
+Scholarly Authority
+: His voice carries weight in matters of law and custom; other scholars and judges defer to his interpretations almost reflexively.
+
+Master Orator
+: His eloquence and vocal control are of a high order; he can deliver formal pronouncements, genealogical recitations, and ceremonial speeches with compelling authority.
+
+Record-Keeping Excellence
+: His personal archives are models of organization and accuracy; he possesses instantaneous recall of genealogical connections and historical precedent.
 
 ### Weaknesses
 
-- **Rigidity in Crisis**: When situations demand flexibility or improvisation outside the formal observances, Madurava becomes uncertain and potentially paralyzed by concern for precedent.
-- **Dismissiveness of Innovation**: He regards new methods of record-keeping, new interpretations of law, or departures from traditional ceremony as threats rather than potential improvements.
-- **Emotional Distance**: His devotion to order has made him distant from ordinary human emotion; he struggles to empathize with personal crises that do not fit neatly into his conceptual frameworks.
-- **Isolation and Insularity**: He has limited experience of the common people or the realities of life outside formal circles of the great houses, making his judgments sometimes naive regarding practical human concerns.
-- **Physical Vulnerability**: Despite his authority, he is physically unimposing and has never trained in combat; any direct physical confrontation would overwhelm him.
+Rigidity in Crisis
+: When situations demand flexibility or improvisation outside the formal observances, Madurava becomes uncertain and potentially paralyzed by concern for precedent.
+
+Dismissiveness of Innovation
+: He regards new methods of record-keeping, new interpretations of law, or departures from traditional ceremony as threats rather than potential improvements.
+
+Emotional Distance
+: His devotion to order has made him distant from ordinary human emotion; he struggles to empathize with personal crises that do not fit neatly into his conceptual frameworks.
+
+Isolation and Insularity
+: He has limited experience of the common people or the realities of life outside formal circles of the great houses, making his judgments sometimes naive regarding practical human concerns.
+
+Physical Vulnerability
+: Despite his authority, he is physically unimposing and has never trained in combat; any direct physical confrontation would overwhelm him.
 
 ## Social
 
@@ -494,12 +512,17 @@ House Sutrapala
 
 ## Plot Hooks
 
-1. **The Forged Heir**: A scandal erupts when evidence appears suggesting that a document in Madurava's own archive—one establishing the legitimacy of the current Samonta's line—is a forgery dating back forty years. The discovery threatens one political figure and, beyond him, the stability of the entire city governance structure. Madurava becomes both investigator and defendant as competing factions use the scandal to advance their positions. The party might be hired to discover who forged the document, when, and to what purpose—or to help Madurava manage the political aftermath while preserving what remains of the legal order he has maintained.
+The Forged Heir
+: A scandal erupts when evidence appears suggesting that a document in Madurava's own archive—one establishing the legitimacy of the current Samonta's line—is a forgery dating back forty years. The discovery threatens one political figure and, beyond him, the stability of the entire city governance structure. Madurava becomes both investigator and defendant as competing factions use the scandal to advance their positions. The party might be hired to discover who forged the document, when, and to what purpose—or to help Madurava manage the political aftermath while preserving what remains of the legal order he has maintained.
 
-2. **The Herald's Succession**: Madurava finally selects an heir: a brilliant but headstrong younger herald named Sarita who possesses the knowledge but lacks the reverence for tradition that Madurava considers essential. When Sarita begins immediately implementing reforms and reinterpreting precedents, Madurava finds himself facing opposition from his own chosen successor. The party becomes caught between the old herald's attempt to reassert authority and the new generation's desire to reshape the office for a changing age. The resolution will determine whether heraldic tradition survives in recognizable form.
+The Herald's Succession
+: Madurava finally selects an heir: a brilliant but headstrong younger herald named Sarita who possesses the knowledge but lacks the reverence for tradition that Madurava considers essential. When Sarita begins immediately implementing reforms and reinterpreting precedents, Madurava finds himself facing opposition from his own chosen successor. The party becomes caught between the old herald's attempt to reassert authority and the new generation's desire to reshape the office for a changing age. The resolution will determine whether heraldic tradition survives in recognizable form.
 
-3. **The Secret Archives**: Madurava discovers that his predecessor maintained a hidden archive—records of genealogical secrets, illegitimate children, falsified claims, and scandals deliberately omitted from the official record. The knowledge contained within could dismantle half the great houses currently in power. He can preserve secrecy and tradition, or expose truths that demand justice. The party may become his agents in either covering up the scandal or carefully releasing information to destabilize the corrupt power structures the false records have protected.
+The Secret Archives
+: Madurava discovers that his predecessor maintained a hidden archive—records of genealogical secrets, illegitimate children, falsified claims, and scandals deliberately omitted from the official record. The knowledge contained within could dismantle half the great houses currently in power. He can preserve secrecy and tradition, or expose truths that demand justice. The party may become his agents in either covering up the scandal or carefully releasing information to destabilize the corrupt power structures the false records have protected.
 
-4. **A Matter of Legitimacy**: A mysterious woman appears in the city claiming to be the true heir to the High Seat through a genealogical line that Madurava had presumed extinct. Her documentation is impeccable; her claim appears legitimate. Yet he suspects that she may be an impostor—and her revelation would overturn the current ruling structure. The party is hired to investigate her genealogy, travel to distant lands to verify family records, and determine whether she is who she claims or an elaborate deception. In the process, they discover far deeper conspiracies involving forged documents, hidden marriages, and political assassination.
+A Matter of Legitimacy
+: A mysterious woman appears in the city claiming to be the true heir to the High Seat through a genealogical line that Madurava had presumed extinct. Her documentation is impeccable; her claim appears legitimate. Yet he suspects that she may be an impostor—and her revelation would overturn the current ruling structure. The party is hired to investigate her genealogy, travel to distant lands to verify family records, and determine whether she is who she claims or an elaborate deception. In the process, they discover far deeper conspiracies involving forged documents, hidden marriages, and political assassination.
 
-5. **The Ritual of Succession**: A great Kulena of ancient family approaches death, and an elaborate ceremonial succession must be conducted according to traditions so archaic that only Madurava fully understands them. The ceremony requires the participation of various warring factions within the city, and maintaining order and propriety while honoring the dead becomes a complex diplomatic challenge. The party acts as ceremonial guards or investigators as various factions move to manipulate the succession through ritual interruption, revelation of damaging genealogical truths, or outright assassination. The success or failure of the ceremony will determine the power balance within the city-states for the next generation.
+The Ritual of Succession
+: A great Kulena of ancient family approaches death, and an elaborate ceremonial succession must be conducted according to traditions so archaic that only Madurava fully understands them. The ceremony requires the participation of various warring factions within the city, and maintaining order and propriety while honoring the dead becomes a complex diplomatic challenge. The party acts as ceremonial guards or investigators as various factions move to manipulate the succession through ritual interruption, revelation of damaging genealogical truths, or outright assassination. The success or failure of the ceremony will determine the power balance within the city-states for the next generation.

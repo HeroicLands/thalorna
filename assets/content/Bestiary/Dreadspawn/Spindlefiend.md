@@ -254,20 +254,29 @@ It has more than one venom. Some bites paralyze quickly, some cause terrible pai
 
 ## Attributes
 
-- **Strength:** 7-12 (1d6+6)
+Strength
+: 7-12 (1d6+6)
 
-- **Endurance:** 10-13 (1d4+9)
+Endurance
+: 10-13 (1d4+9)
 
-- **Dexterity:** 15-20 (1d6+14)
+Dexterity
+: 15-20 (1d6+14)
 
-- **Agility:** 17-22 (1d6+16)
+Agility
+: 17-22 (1d6+16)
 
-- **Perception:** 14-17 (1d4+13)
+Perception
+: 14-17 (1d4+13)
 
-- **Aura:** 11-16 (1d6+10)
+Aura
+: 11-16 (1d6+10)
 
-- **Will:** 10-13 (1d4+9)
+Will
+: 10-13 (1d4+9)
 
-- **Reasoning:** 11-16 (1d6+10)
+Reasoning
+: 11-16 (1d6+10)
 
-- **Creativity:** 14-17 (1d4+13)
+Creativity
+: 14-17 (1d4+13)

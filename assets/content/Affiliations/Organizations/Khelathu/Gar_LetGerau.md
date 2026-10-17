@@ -60,4 +60,5 @@ So when you commission a piece, say plainly whether you want the certificate or 
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The region it belongs to

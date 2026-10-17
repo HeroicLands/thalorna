@@ -23,6 +23,11 @@ outpost.
 
 ## See Also
 
-- [[affiliation-ekunda|Ékunda]]—the tribe that governs the village
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the confederation
-- [[place-sthrnsvnhs|Southern Savannahs]]—parent region
+[[affiliation-ekunda|Ékunda]]
+: the tribe that governs the village
+
+[[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
+: the confederation
+
+[[place-sthrnsvnhs|Southern Savannahs]]
+: parent region

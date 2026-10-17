@@ -447,31 +447,43 @@ Thirye is driven by an insatiable hunger to create beauty and truthfulness in ar
 
 ### Strengths
 
-- **Performance**: An actress of rare gifts, capable of inhabiting characters with such completeness that audiences report real emotional experiences; her performances have been known to leave spectators weeping or shaken for days afterward.
+Performance
+: An actress of rare gifts, capable of inhabiting characters with such completeness that audiences report real emotional experiences; her performances have been known to leave spectators weeping or shaken for days afterward.
 
-- **Emotional Acrobatics**: Possesses an almost superhuman ability to access and express the full spectrum of human emotion on demand, shifting between contradictory emotional states with disconcerting swiftness and authenticity.
+Emotional Acrobatics
+: Possesses an almost superhuman ability to access and express the full spectrum of human emotion on demand, shifting between contradictory emotional states with disconcerting swiftness and authenticity.
 
-- **Improvisation**: When scripts fail or circumstances demand spontaneity, Thirye's instincts are impeccable; she can construct coherent scenes on the fly, reading her fellow performers and audience with uncanny sensitivity.
+Improvisation
+: When scripts fail or circumstances demand spontaneity, Thirye's instincts are impeccable; she can construct coherent scenes on the fly, reading her fellow performers and audience with uncanny sensitivity.
 
-- **Physical Mastery**: Her body is an instrument of extraordinary precision and expressiveness; she moves with grace and control, capable of conveying complex states of mind through subtle physicality, dance, and spatial awareness.
+Physical Mastery
+: Her body is an instrument of extraordinary precision and expressiveness; she moves with grace and control, capable of conveying complex states of mind through subtle physicality, dance, and spatial awareness.
 
-- **Charismatic Presence**: Even at rest, Thirye commands attention; her bearing and energy naturally draw focus, making her a magnetic presence in any gathering.
+Charismatic Presence
+: Even at rest, Thirye commands attention; her bearing and energy naturally draw focus, making her a magnetic presence in any gathering.
 
-- **Multilingual Artistry**: Fluent in eight languages, she is capable of performing with nuance and cultural authenticity across diverse theatrical traditions.
+Multilingual Artistry
+: Fluent in eight languages, she is capable of performing with nuance and cultural authenticity across diverse theatrical traditions.
 
 ### Weaknesses
 
-- **Fragile Self-Concept**: Away from the stage, her sense of who she is becomes uncertain and permeable; without the structure of character and script, she experiences disorientation and a deep emptiness.
+Fragile Self-Concept
+: Away from the stage, her sense of who she is becomes uncertain and permeable; without the structure of character and script, she experiences disorientation and a deep emptiness.
 
-- **Paralysis by Self-Doubt**: Between performances, she is haunted by the conviction that she is a fraud—that her success is illusory and that close scrutiny would expose her as a talentless charlatan.
+Paralysis by Self-Doubt
+: Between performances, she is haunted by the conviction that she is a fraud—that her success is illusory and that close scrutiny would expose her as a talentless charlatan.
 
-- **Emotional Instability**: Her emotional life is volatile and extreme; she experiences depression, euphoria, and anxiety with theatrical intensity, making sustained rational decision-making challenging.
+Emotional Instability
+: Her emotional life is volatile and extreme; she experiences depression, euphoria, and anxiety with theatrical intensity, making sustained rational decision-making challenging.
 
-- **Isolation and Avoidance**: She tends to withdraw from real emotional intimacy, preferring the safety of performance to authentic vulnerability, which has sabotaged several relationships and prevented deep friendships.
+Isolation and Avoidance
+: She tends to withdraw from real emotional intimacy, preferring the safety of performance to authentic vulnerability, which has sabotaged several relationships and prevented deep friendships.
 
-- **Physical Vulnerability**: Despite her grace and strength, she lacks combat training and possesses little physical resilience; she tires easily and cannot sustain intensive physical exertion.
+Physical Vulnerability
+: Despite her grace and strength, she lacks combat training and possesses little physical resilience; she tires easily and cannot sustain intensive physical exertion.
 
-- **Spiritual Dependency**: Her connection to Thuba'i and her mystical practices can become obsessive; she is vulnerable to spiritual charlatans and may make decisions based on superstition rather than reason.
+Spiritual Dependency
+: Her connection to Thuba'i and her mystical practices can become obsessive; she is vulnerable to spiritual charlatans and may make decisions based on superstition rather than reason.
 
 ## Social
 
@@ -510,10 +522,14 @@ City Theater Company
 
 ## Plot Hooks
 
-1. **The Inheritance of Impossible Expectation**: Thirye receives word that her retired mother has fallen gravely ill and wishes to see her before death—but has also declared that she will disinherit Thirye unless the young woman agrees to abandon theater and marry a respectable merchant, settling into domestic life as is proper. Thirye must journey to her mother's home, facing family expectations, cultural pressures, and her own deep ambivalence. The situation grows complex when she discovers that her mother's illness may be financially motivated manipulation by relatives seeking to control the family estate, and that her mother may be using Thirye's stage work as leverage in family power struggles.
+The Inheritance of Impossible Expectation
+: Thirye receives word that her retired mother has fallen gravely ill and wishes to see her before death—but has also declared that she will disinherit Thirye unless the young woman agrees to abandon theater and marry a respectable merchant, settling into domestic life as is proper. Thirye must journey to her mother's home, facing family expectations, cultural pressures, and her own deep ambivalence. The situation grows complex when she discovers that her mother's illness may be financially motivated manipulation by relatives seeking to control the family estate, and that her mother may be using Thirye's stage work as leverage in family power struggles.
 
-2. **The Lost Script and the Dangerous Truth**: A mysterious collector approaches Thirye with a fragment of an ancient Khelathi text—portions of a sacred theatrical cycle that was officially suppressed centuries ago. The script is extraordinary, a piece of artistic genius, and the role it contains seems written specifically for Thirye's gifts. Yet performing it would violate religious taboo and invite powerful clerical opposition. As Thirye researches the text's origins, she uncovers disturbing historical truths about why the script was suppressed—it allegedly contained critiques of the priesthood and revelations about divine corruption that threatened institutional power.
+The Lost Script and the Dangerous Truth
+: A mysterious collector approaches Thirye with a fragment of an ancient Khelathi text—portions of a sacred theatrical cycle that was officially suppressed centuries ago. The script is extraordinary, a piece of artistic genius, and the role it contains seems written specifically for Thirye's gifts. Yet performing it would violate religious taboo and invite powerful clerical opposition. As Thirye researches the text's origins, she uncovers disturbing historical truths about why the script was suppressed—it allegedly contained critiques of the priesthood and revelations about divine corruption that threatened institutional power.
 
-3. **The Doppelgänger**: Thirye begins encountering a woman who looks nearly identical to her in the streets of the city—same face, same bearing, yet something fundamentally wrong about the presentation. The woman performs in a rival theater, giving increasingly acclaimed performances in roles Thirye was passed over for. Investigation suggests the woman may actually be Thirye's previously unknown twin sister, separated at birth and raised in different circumstances. The reunion is complicated by competing ambitions and the revelation that the rival theater may have deliberately engineered the deception to exploit the theatrical intrigue. If an identical person can achieve equal success, Thirye's sense of a special artistic destiny is in question.
+The Doppelgänger
+: Thirye begins encountering a woman who looks nearly identical to her in the streets of the city—same face, same bearing, yet something fundamentally wrong about the presentation. The woman performs in a rival theater, giving increasingly acclaimed performances in roles Thirye was passed over for. Investigation suggests the woman may actually be Thirye's previously unknown twin sister, separated at birth and raised in different circumstances. The reunion is complicated by competing ambitions and the revelation that the rival theater may have deliberately engineered the deception to exploit the theatrical intrigue. If an identical person can achieve equal success, Thirye's sense of a special artistic destiny is in question.
 
-4. **The Patron's Darker Commission**: The Merchant Prince Lahmes approaches Thirye with an extraordinary opportunity—a substantial fee to participate in a private performance for a select group of the empire's most powerful individuals. The role offered is supremely flattering, and the compensation would secure her financial independence. Yet as she begins rehearsals, she gradually realizes that the performance is not simply entertainment—it is a carefully constructed magical working, a ritual designed to influence the imperial succession through manipulated emotional states and subtle influence on the mind. Thirye discovers that her fellow performers may be unwitting participants in a conspiracy, and that Lahmes has been using his patronage to identify and exploit ambitious artists for darker purposes. She can expose the conspiracy and lose her most promising patron, or continue the performance knowing it serves dangerous political ends.
+The Patron's Darker Commission
+: The Merchant Prince Lahmes approaches Thirye with an extraordinary opportunity—a substantial fee to participate in a private performance for a select group of the empire's most powerful individuals. The role offered is supremely flattering, and the compensation would secure her financial independence. Yet as she begins rehearsals, she gradually realizes that the performance is not simply entertainment—it is a carefully constructed magical working, a ritual designed to influence the imperial succession through manipulated emotional states and subtle influence on the mind. Thirye discovers that her fellow performers may be unwitting participants in a conspiracy, and that Lahmes has been using his patronage to identify and exploit ambitious artists for darker purposes. She can expose the conspiracy and lose her most promising patron, or continue the performance knowing it serves dangerous political ends.

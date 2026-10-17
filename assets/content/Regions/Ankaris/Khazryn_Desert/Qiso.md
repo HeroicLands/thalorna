@@ -36,9 +36,20 @@ Thieves work the camp, and the moot's law is severe: a man caught stealing a cam
 
 ## See Also
 
-- [[place-hskrrgn|Khoshiqor]]—the central sands
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the enclosing region
-- [[place-dkrqrrgn|Diqraqor]]—the stone uplands on the southern spur
-- [[place-yemokwell|Yemok]]—the western hand-off well
-- [[place-sowidwell|Sovid]]—the eastern hand-off well
-- [[lore-celestialroad|The Celestial Road]]—the caravan road to Tantsou
+[[place-hskrrgn|Khoshiqor]]
+: the central sands
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the enclosing region
+
+[[place-dkrqrrgn|Diqraqor]]
+: the stone uplands on the southern spur
+
+[[place-yemokwell|Yemok]]
+: the western hand-off well
+
+[[place-sowidwell|Sovid]]
+: the eastern hand-off well
+
+[[lore-celestialroad|The Celestial Road]]
+: the caravan road to Tantsou

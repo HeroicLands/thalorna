@@ -53,10 +53,17 @@ sohl: {system: {commonSkills: []}}
 
 _Vedyaran: Sangra-Sabhra—"the Assembly of the [[lore-thirdcmpct|Compact]]"_
 
-- **Type:** Standing assembly of signatory polities
-- **Seats:** Five—[[affiliation-chandrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra]], [[affiliation-vindhyalay|Shikharalaya]], [[affiliation-rajaprjnpd|Rajepur]] and [[affiliation-dhnrktjnpd|Danurkota]]
-- **Sittings:** Twice yearly—spring at Chendrapur, autumn at Vyalendra
-- **Founded:** With the Compact itself, which tradition dates to the [[lore-thirdcmpct|Third Janapoda Compact]], sworn at the **Mahva-Melra** of 320 AF
+Type
+: Standing assembly of signatory polities
+
+Seats
+: Five—[[affiliation-chandrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra]], [[affiliation-vindhyalay|Shikharalaya]], [[affiliation-rajaprjnpd|Rajepur]] and [[affiliation-dhnrktjnpd|Danurkota]]
+
+Sittings
+: Twice yearly—spring at Chendrapur, autumn at Vyalendra
+
+Founded
+: With the Compact itself, which tradition dates to the [[lore-thirdcmpct|Third Janapoda Compact]], sworn at the **Mahva-Melra** of 320 AF
 
 ## Overview
 
@@ -99,7 +106,14 @@ The arrangement suits Suvarnageri and irritates everybody else. The Assembly wou
 
 ## See Also
 
-- [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]—the federation the Assembly governs
-- [[lore-vdyrnbnkng|Vedyaran Banking]]—the system the five seats hold in common
-- [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—the confederation the two temple-republic seats also belong to
-- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the polity that holds no seat
+[[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]
+: the federation the Assembly governs
+
+[[lore-vdyrnbnkng|Vedyaran Banking]]
+: the system the five seats hold in common
+
+[[affiliation-janpdsvdyr|Janapadas of Vedyara]]
+: the confederation the two temple-republic seats also belong to
+
+[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+: the polity that holds no seat

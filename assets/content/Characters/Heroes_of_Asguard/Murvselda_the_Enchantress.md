@@ -401,8 +401,11 @@ Murvselda's charisma is her most powerful weapon; her voice carries a subtle enc
 
 ## Plot Hooks
 
-1. **The Poisoned Court**—Someone is systematically turning the king's advisors against each other using enchanted drinks. Murvselda suspects a rival enchantress and must unmask them before the court descends into chaos.
+The Poisoned Court
+: Someone is systematically turning the king's advisors against each other using enchanted drinks. Murvselda suspects a rival enchantress and must unmask them before the court descends into chaos.
 
-2. **The Marriage Alliance**—A crucial peace treaty depends on a marriage between two powerful families, but both the bride and groom secretly love others. Murvselda must navigate the competing desires of duty, love, and politics.
+The Marriage Alliance
+: A crucial peace treaty depends on a marriage between two powerful families, but both the bride and groom secretly love others. Murvselda must navigate the competing desires of duty, love, and politics.
 
-3. **Solrún's Price**—Murvselda's enchanting abilities are growing stronger, but she has begun to notice that people she has influenced show signs of dependency. She must discover whether Solrún's gifts carry an addiction that could harm those she is trying to help.
+Solrún's Price
+: Murvselda's enchanting abilities are growing stronger, but she has begun to notice that people she has influenced show signs of dependency. She must discover whether Solrún's gifts carry an addiction that could harm those she is trying to help.

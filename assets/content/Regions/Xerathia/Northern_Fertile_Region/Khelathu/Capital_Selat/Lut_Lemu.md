@@ -20,4 +20,5 @@ data:
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The imperial city
+[[place-galezkara|Galezkara]]
+: The imperial city

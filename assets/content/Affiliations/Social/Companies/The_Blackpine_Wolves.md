@@ -49,12 +49,23 @@ The gang is led by [[being-dagulfvthr|Dagbán yra Vethar wur Thrareth]], a [[lor
 
 The current membership stands at six:
 
-- [[being-dagulfvthr|Dagbán]]—Balthár. Former shepherd turned brigand. Cold, watchful, and feared.
-- [[being-thrwldhldskrn|Thrawald]]—Muscle. A huge, dull-witted former deserter from the Vylarian garrison. Follows orders because thinking is harder.
-- [[being-skthldfrdbn|Skathilda yra Frodbán wur Vandgrund]]—Scout and knife-fighter. Small, fast, and the most dangerous member of the gang after Dagbán himself. Everyone is afraid of her.
-- [[being-vndrcgrwld|Vandarik yra Garwald wur Fródhaven]]—The talker. A confidence man and gambler who gathers intelligence in border taverns. Charming, dishonest, and loyal to nothing.
-- [[being-hrodrrnthl|Hrodar yra Arnthúl wur Erthhaven]]—Woodsman and fighter. A bitter former timber cutter who hates the [[affiliation-vylarinmpr|Vylarian Empire]] with a cold, personal fury.
-- [[being-brunjarskathhel|Brunjár yra Skathhelm wur Druthholt]]—Lookout. The youngest and most reluctant member, a freckle-faced boy with a guilty conscience and a good sling arm.
+[[being-dagulfvthr|Dagbán]]
+: Balthár. Former shepherd turned brigand. Cold, watchful, and feared.
+
+[[being-thrwldhldskrn|Thrawald]]
+: Muscle. A huge, dull-witted former deserter from the Vylarian garrison. Follows orders because thinking is harder.
+
+[[being-skthldfrdbn|Skathilda yra Frodbán wur Vandgrund]]
+: Scout and knife-fighter. Small, fast, and the most dangerous member of the gang after Dagbán himself. Everyone is afraid of her.
+
+[[being-vndrcgrwld|Vandarik yra Garwald wur Fródhaven]]
+: The talker. A confidence man and gambler who gathers intelligence in border taverns. Charming, dishonest, and loyal to nothing.
+
+[[being-hrodrrnthl|Hrodar yra Arnthúl wur Erthhaven]]
+: Woodsman and fighter. A bitter former timber cutter who hates the [[affiliation-vylarinmpr|Vylarian Empire]] with a cold, personal fury.
+
+[[being-brunjarskathhel|Brunjár yra Skathhelm wur Druthholt]]
+: Lookout. The youngest and most reluctant member, a freckle-faced boy with a guilty conscience and a good sling arm.
 
 ## Territory
 

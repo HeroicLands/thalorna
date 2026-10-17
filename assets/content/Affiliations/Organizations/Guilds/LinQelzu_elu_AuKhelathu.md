@@ -56,5 +56,8 @@ Say a temple orders a new strongbox for its treasury. The temple's steward asks 
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu]]—The empire whose vaults and locks the guild certifies
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-aukhelathrgq|Au'Khelathu]]
+: The empire whose vaults and locks the guild certifies
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

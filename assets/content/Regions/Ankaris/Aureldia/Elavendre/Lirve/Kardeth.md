@@ -18,6 +18,11 @@ Lady Áulirane is intelligent and ambitious, and she shares a certain pragmatism
 
 ## See Also
 
-- [[place-lirve|Lirve]]—the district the seat stands in
-- [[being-belrkflwyn|Melrik Salvin]]—the alchemist the lady patronizes
-- [[affiliation-aelndntrbs|Áelendan Tribes]]—the people of the lady's ancestry
+[[place-lirve|Lirve]]
+: the district the seat stands in
+
+[[being-belrkflwyn|Melrik Salvin]]
+: the alchemist the lady patronizes
+
+[[affiliation-aelndntrbs|Áelendan Tribes]]
+: the people of the lady's ancestry

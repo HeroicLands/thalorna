@@ -71,9 +71,14 @@ sohl:
 
 ## The Threshold-keepers
 
-- **Practice:** One question, put at the threshold, before the pyre
-- **Warranted for:** Inheritance and unwitnessed killing
-- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
+Practice
+: One question, put at the threshold, before the pyre
+
+Warranted for
+: Inheritance and unwitnessed killing
+
+Pantheon
+: [[affiliation-varakpnthn|Varnuka Pantheon]]
 
 "**Two Witnesses**, always two," a **Keeper of the Register** tells the court clerk who has come to ask what a consultation is worth. "One is worth nothing in any court."
 
@@ -111,7 +116,14 @@ The gap belongs to the household, not to the court. A family that will not have 
 
 ### See Also
 
-- [[lore-kalavratadty|Kalavrata]]—the Gatekeeper, who is not petitioned
-- [[affiliation-varakpnthn|Varnuka Pantheon]]—the cycle-gods
-- [[affiliation-trimurtisampradaya|Council of the Triyacharyas]]—which licenses the practice
-- [[affiliation-chayavrata|The Chaya-vreta]]—whose work the question is the likeliest thing to undo
+[[lore-kalavratadty|Kalavrata]]
+: the Gatekeeper, who is not petitioned
+
+[[affiliation-varakpnthn|Varnuka Pantheon]]
+: the cycle-gods
+
+[[affiliation-trimurtisampradaya|Council of the Triyacharyas]]
+: which licenses the practice
+
+[[affiliation-chayavrata|The Chaya-vreta]]
+: whose work the question is the likeliest thing to undo

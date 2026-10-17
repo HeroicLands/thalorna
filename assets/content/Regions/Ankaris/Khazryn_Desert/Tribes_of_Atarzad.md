@@ -115,11 +115,20 @@ The twelve tribes are descended (so the genealogies say) from the twelve childre
 
 The most prominent five tribes are:
 
-- **Zhoqarod**—the largest tribe, holding most of Zargandur and the great pasturelands to its north. Traditionally the war-tribe; the Zhudek has been chosen from Zhoqarod in five of the last seven elevations.
-- **Teghumod**—holders of Ashkarad and the gates where the caravan road from the steppe comes into the belt. The merchant-tribe; the wealthiest of the twelve and the most cosmopolitan, with substantial diaspora communities in Amradad and even in Taruzelian ports.
-- **Burqalod**—holders of the central highland country and the slopes of Mt. Shofar itself. The keeper-tribe; the Toqel (Keeper of the Unconsuming Flame) has by long custom always been a Burqalod.
-- **Tozhirod**—holders of Kethramír and the oases east of it. The scholar-tribe; their elders maintain the scriptural archive and the law-codes of Yotekhor.
-- **Teqemod**—holders of Shirvan and the western fringe. The militant tribe, considered most uncompromising on matters of theology and most likely to support the strict-observance party in inter-tribal politics.
+Zhoqarod
+: the largest tribe, holding most of Zargandur and the great pasturelands to its north. Traditionally the war-tribe; the Zhudek has been chosen from Zhoqarod in five of the last seven elevations.
+
+Teghumod
+: holders of Ashkarad and the gates where the caravan road from the steppe comes into the belt. The merchant-tribe; the wealthiest of the twelve and the most cosmopolitan, with substantial diaspora communities in Amradad and even in Taruzelian ports.
+
+Burqalod
+: holders of the central highland country and the slopes of Mt. Shofar itself. The keeper-tribe; the Toqel (Keeper of the Unconsuming Flame) has by long custom always been a Burqalod.
+
+Tozhirod
+: holders of Kethramír and the oases east of it. The scholar-tribe; their elders maintain the scriptural archive and the law-codes of Yotekhor.
+
+Teqemod
+: holders of Shirvan and the western fringe. The militant tribe, considered most uncompromising on matters of theology and most likely to support the strict-observance party in inter-tribal politics.
 
 The remaining seven (Gholutod, Kelumod, Zhimelod, Hozhirod, Noghezod, Bizhunod, Ghuzolod) are smaller, hold portions of the lesser oases or the herding-grounds between, and align variously with the larger five on inter-tribal questions.
 
@@ -198,13 +207,32 @@ The Atarzád live on the tolls of the caravan road where it enters Tellumel and 
 
 ## See Also
 
-- [[place-swoasisbelt|Tellumel]]—the oasis belt whose four cities the Tribes hold
-- [[place-khzryndsrtrgn|Khazryn Desert]]—the region
-- [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the eternal adversary
-- [[affiliation-ataros|Faith of Ataros]]—the patron deity
-- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the wider faith from which the Atarzád diverge
-- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the regional Ashaian power and host of the Tellumi exile community
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the place of bondage
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the people who provisioned the Exodus during its first leg
-- [[lore-twelveywar|The Twelve Years]]—the Atarzád account of the war
-- Atárzadi Language—the language of the Twelve Tribes
+[[place-swoasisbelt|Tellumel]]
+: the oasis belt whose four cities the Tribes hold
+
+[[place-khzryndsrtrgn|Khazryn Desert]]
+: the region
+
+[[affiliation-khzrncnfdrtn|Tellumi Confederation]]
+: the eternal adversary
+
+[[affiliation-ataros|Faith of Ataros]]
+: the patron deity
+
+[[affiliation-ashanpnthn|Ashaian Pantheon]]
+: the wider faith from which the Atarzád diverge
+
+[[affiliation-kngdmmrdd|Kingdom of Amradad]]
+: the regional Ashaian power and host of the Tellumi exile community
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: the place of bondage
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the people who provisioned the Exodus during its first leg
+
+[[lore-twelveywar|The Twelve Years]]
+: the Atarzád account of the war
+
+Atárzadi Language
+: the language of the Twelve Tribes

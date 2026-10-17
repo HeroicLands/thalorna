@@ -22,5 +22,8 @@ Two panning families work the bar below the bridge. It is thin ground and yields
 
 ## See Also
 
-- [[place-suvarnagirijnpd|Suvarnageri Janapoda]]—the land
-- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the temple-republic that holds it
+[[place-suvarnagirijnpd|Suvarnageri Janapoda]]
+: the land
+
+[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+: the temple-republic that holds it

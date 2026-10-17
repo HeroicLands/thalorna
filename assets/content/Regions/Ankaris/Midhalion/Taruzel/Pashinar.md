@@ -30,8 +30,17 @@ Pashinar is built for transit. Its largest buildings are caravanserais and wareh
 
 ## See Also
 
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the regional overview
-- [[place-taruzelrgn|Taruzel Region]]—the region
-- [[skill-taruzelilng|Taruzeli]]—the naming tradition
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the western religious tradition
-- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the eastern religious tradition
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the regional overview
+
+[[place-taruzelrgn|Taruzel Region]]
+: the region
+
+[[skill-taruzelilng|Taruzeli]]
+: the naming tradition
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the western religious tradition
+
+[[affiliation-ashanpnthn|Ashaian Pantheon]]
+: the eastern religious tradition

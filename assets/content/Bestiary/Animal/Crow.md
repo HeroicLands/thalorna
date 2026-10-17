@@ -299,20 +299,29 @@ Crows have been documented holding grudges against individual humans for years, 
 
 ## Attributes
 
-- **Strength:** 1-4 (1d4)
+Strength
+: 1-4 (1d4)
 
-- **Endurance:** 7-10 (1d4+6)
+Endurance
+: 7-10 (1d4+6)
 
-- **Agility:** 8-13 (1d6+7)
+Agility
+: 8-13 (1d6+7)
 
-- **Perception:** 20-25 (1d6+19)
+Perception
+: 20-25 (1d6+19)
 
-- **Scent:** 2-5 (1d4+1)
+Scent
+: 2-5 (1d4+1)
 
-- **Aura:** 5-8 (1d4+4)
+Aura
+: 5-8 (1d4+4)
 
-- **Will:** 8-13 (1d6+7)
+Will
+: 8-13 (1d6+7)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 8-13 (1d6+7)
+Creativity
+: 8-13 (1d6+7)

@@ -44,6 +44,11 @@ Markets in the great cities—particularly [[place-nepaxel|Ne' P'ashel]] and [[p
 
 ## See Also
 
-- [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]—The realm that holds this land
-- [[place-sthrnkchchk|Southern K'ich'chik]]—The enclosing region
-- [[place-ixbaltzaku2|Ish'bal Tsa'ku]]—Seat of Ish'bal Tsa'ku
+[[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]
+: The realm that holds this land
+
+[[place-sthrnkchchk|Southern K'ich'chik]]
+: The enclosing region
+
+[[place-ixbaltzaku2|Ish'bal Tsa'ku]]
+: Seat of Ish'bal Tsa'ku

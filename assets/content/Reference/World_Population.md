@@ -119,7 +119,14 @@ Vylaria divides between the [[affiliation-vylarinmpr|Vylarian Empire]]'s four co
 
 ### See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the anchor polity, worked out province by province
-- [[place-orzara|Orzara]]—the world's great western metropolis
-- [[affiliation-tantsouempr|Tantsou]] · [[place-vedyarargn|Vedyara]]—the eastern giants
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the great Zerathian river-civilization
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the anchor polity, worked out province by province
+
+[[place-orzara|Orzara]]
+: the world's great western metropolis
+
+[[affiliation-tantsouempr|Tantsou]] · [[place-vedyarargn|Vedyara]]
+: the eastern giants
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: the great Zerathian river-civilization

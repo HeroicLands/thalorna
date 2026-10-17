@@ -39,11 +39,19 @@ Legirusi grows grain for its granaries and owes labor to the canals and a share 
 
 ## Settlements
 
-- [[place-legirusi|Legirusi]] (~38,000)—the selat capital and the seat of the Halzi'a.
-- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+[[place-legirusi|Legirusi]] (~38,000)
+: the selat capital and the seat of the Halzi'a.
+
+The villages and estate-towns
+: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatlegirus|The Selat of Legirusi]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-legirusi|Legirusi]]—Selat capital
+[[affiliation-selatlegirus|The Selat of Legirusi]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-legirusi|Legirusi]]
+: Selat capital

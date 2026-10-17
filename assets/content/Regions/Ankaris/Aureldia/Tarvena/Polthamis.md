@@ -18,5 +18,8 @@ The Temple's reach outlasts the training. **The Árdavonian prelate at Polthamis
 
 ## See Also
 
-- [[affiliation-ardavon|Faith of Árdavon]]—the faith whose Great Temple stands here
-- [[being-frstrndrvs|Father Ostaran Dorvás]]—a priest trained at the Temple
+[[affiliation-ardavon|Faith of Árdavon]]
+: the faith whose Great Temple stands here
+
+[[being-frstrndrvs|Father Ostaran Dorvás]]
+: a priest trained at the Temple

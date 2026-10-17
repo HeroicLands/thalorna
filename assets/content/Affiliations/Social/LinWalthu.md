@@ -48,4 +48,5 @@ Plan a feast around the roads the Wanderers use, and leave the date open. A feas
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the region it belongs to
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the region it belongs to

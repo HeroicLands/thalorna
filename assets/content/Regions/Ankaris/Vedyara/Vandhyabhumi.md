@@ -79,8 +79,17 @@ The query names the settlements of the plateau. A herd walks between wells for m
 
 ## See Also
 
-- [[place-vedyarargn|Vedyara Region]]—parent region
-- [[affiliation-gomarga|Gomarga]]—the kingdom of the wells and the droveways
-- [[lore-mdhvndrcnt|The Madustana Count]]—the year-count dated from the capital on the plateau
-- [[place-mahanadi|The Mahanodi]] · [[place-sarvadarivr|The Sarveda]]—the valleys the plateau stands between
-- [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—the confederation the plateau's few sabhas sit in
+[[place-vedyarargn|Vedyara Region]]
+: parent region
+
+[[affiliation-gomarga|Gomarga]]
+: the kingdom of the wells and the droveways
+
+[[lore-mdhvndrcnt|The Madustana Count]]
+: the year-count dated from the capital on the plateau
+
+[[place-mahanadi|The Mahanodi]] · [[place-sarvadarivr|The Sarveda]]
+: the valleys the plateau stands between
+
+[[affiliation-janpdsvdyr|Janapadas of Vedyara]]
+: the confederation the plateau's few sabhas sit in

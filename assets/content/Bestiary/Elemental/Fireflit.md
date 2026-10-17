@@ -308,20 +308,29 @@ A splash of water or a touch of ice puts it out at once.
 
 ## Attributes
 
-- **Endurance:** 4-7 (1d4+3)
+Endurance
+: 4-7 (1d4+3)
 
-- **Dexterity:** 17-22 (1d6+16)
+Dexterity
+: 17-22 (1d6+16)
 
-- **Agility:** 19-24 (1d6+18)
+Agility
+: 19-24 (1d6+18)
 
-- **Perception:** 11-16 (1d6+10)
+Perception
+: 11-16 (1d6+10)
 
-- **Aura:** 10-13 (1d4+9)
+Aura
+: 10-13 (1d4+9)
 
-- **Will:** 9-12 (1d4+8)
+Will
+: 9-12 (1d4+8)
 
-- **Reasoning:** 7-12 (1d6+6)
+Reasoning
+: 7-12 (1d6+6)
 
-- **Creativity:** 11-16 (1d6+10)
+Creativity
+: 11-16 (1d6+10)
 
-- **Strength:** 1-4 (1d4)
+Strength
+: 1-4 (1d4)

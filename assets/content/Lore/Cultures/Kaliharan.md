@@ -176,12 +176,23 @@ The sin is the silence. The works are failing, and the silkan who carry the coun
 
 ## See Also
 
-- [[place-kaliharargn|Kalihara Region]]—the island's country, its interior and its coast
-- [[affiliation-kalihara|Kalihara]]—the polity, its councils and its wardens
-- [[affiliation-tharivaan|Thári'vaan]]—the Living Whole and what it asks
-- [[place-ilovanu|Ilovanu]]—the great port and the world it faces
-- [[skill-kalihrlng#lexicon|Kalihari Lexicon]]—the words of the keeping and the lineages
-- [[skill-kalihrlng|Kalihari]]—the tongue of the interior and the ports
+[[place-kaliharargn|Kalihara Region]]
+: the island's country, its interior and its coast
+
+[[affiliation-kalihara|Kalihara]]
+: the polity, its councils and its wardens
+
+[[affiliation-tharivaan|Thári'vaan]]
+: the Living Whole and what it asks
+
+[[place-ilovanu|Ilovanu]]
+: the great port and the world it faces
+
+[[skill-kalihrlng#lexicon|Kalihari Lexicon]]
+: the words of the keeping and the lineages
+
+[[skill-kalihrlng|Kalihari]]
+: the tongue of the interior and the ports
 
 ## Glossary {#glossary}
 

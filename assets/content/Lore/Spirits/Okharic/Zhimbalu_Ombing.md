@@ -8,10 +8,17 @@ tags: [draft, nkaruthar]
 data: {packFolder: lorespiritsokharic, culture: okharinclt}
 ---
 
-- **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
-- **Domain:** The hunt
-- **Also called:** the Shadow of the Forest
-- **Met through:** [[skill-zhimbalsprt|Zhimbalu Ombing Spirit Power]], in the [[affiliation-yenorzhrng|Yenor Zohiring]]
+Kind
+: [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
+
+Domain
+: The hunt
+
+Also called
+: the Shadow of the Forest
+
+Met through
+: [[skill-zhimbalsprt|Zhimbalu Ombing Spirit Power]], in the [[affiliation-yenorzhrng|Yenor Zohiring]]
 
 Zhimbalu Ombing is the zohira of the hunt, and the one every kwendari zohiring has a
 relationship with whether or not they sought it—because the guardian predator a candidate tracks in

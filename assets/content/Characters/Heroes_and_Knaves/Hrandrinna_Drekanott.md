@@ -464,27 +464,37 @@ She is also motivated by the persistent fear that her leg injury will eventually
 
 ### Strengths
 
-- **Technical Skill Combined with Innovation**: Hrandrinna has mastered traditional thatching techniques, but unlike more conventional practitioners, she is willing to experiment, to try new approaches, and to take up new methods that improve the craft. Her roofs are both technically sound and aesthetically superior.
+Technical Skill Combined with Innovation
+: Hrandrinna has mastered traditional thatching techniques, but unlike more conventional practitioners, she is willing to experiment, to try new approaches, and to take up new methods that improve the craft. Her roofs are both technically sound and aesthetically superior.
 
-- **Rapid Problem-Solving**: Her quick mind and willingness to think unconventionally mean she can adapt to unexpected challenges on the fly. When standard approaches fail, she finds alternatives that maintain quality while addressing new constraints.
+Rapid Problem-Solving
+: Her quick mind and willingness to think unconventionally mean she can adapt to unexpected challenges on the fly. When standard approaches fail, she finds alternatives that maintain quality while addressing new constraints.
 
-- **Reliability and Integrity**: Unlike some who accept more work than they can handle, Hrandrinna generally delivers what she promises, on time, in excellent condition. Her word is reliable, and this has built her reputation steadily.
+Reliability and Integrity
+: Unlike some who accept more work than they can handle, Hrandrinna generally delivers what she promises, on time, in excellent condition. Her word is reliable, and this has built her reputation steadily.
 
-- **Physical Capability**: Despite her injury, Hrandrinna remains very capable. Her climbing ability is superior to most men's, her strength is considerable, and her balance and coordination are superb. She has learned to work with her injury rather than against it.
+Physical Capability
+: Despite her injury, Hrandrinna remains very capable. Her climbing ability is superior to most men's, her strength is considerable, and her balance and coordination are superb. She has learned to work with her injury rather than against it.
 
-- **Independent Judgment**: She does not accept work she believes is compromised in quality, even when clients pressure her to rush or cut corners. She maintains her standards even when it costs her financially.
+Independent Judgment
+: She does not accept work she believes is compromised in quality, even when clients pressure her to rush or cut corners. She maintains her standards even when it costs her financially.
 
 ### Weaknesses
 
-- **Overcommitment**: Hrandrinna's ambitious nature and her difficulty saying no to clients means she regularly takes on too much work, leading to exhaustion, mistakes, and stress on her working relationships. She sometimes accepts projects without adequate time for planning or execution.
+Overcommitment
+: Hrandrinna's ambitious nature and her difficulty saying no to clients means she regularly takes on too much work, leading to exhaustion, mistakes, and stress on her working relationships. She sometimes accepts projects without adequate time for planning or execution.
 
-- **Perfectionist Paralysis on Major Projects**: While generally able to complete work, on larger or more prestigious commissions, Hrandrinna sometimes becomes obsessive about details, spending excessive time on refinements that may not justify their cost in terms of overall improvement.
+Perfectionist Paralysis on Major Projects
+: While generally able to complete work, on larger or more prestigious commissions, Hrandrinna sometimes becomes obsessive about details, spending excessive time on refinements that may not justify their cost in terms of overall improvement.
 
-- **Physical Vulnerability**: The injury to her right leg, while stable, is a constant concern. Repetitive strain, weight-bearing work, and the aging process all pose risks to the health of that leg. Any serious reinjury could threaten her ability to continue in the trade.
+Physical Vulnerability
+: The injury to her right leg, while stable, is a constant concern. Repetitive strain, weight-bearing work, and the aging process all pose risks to the health of that leg. Any serious reinjury could threaten her ability to continue in the trade.
 
-- **Difficulty with Delegation and Team Management**: Though she has apprentices and assistants, Hrandrinna struggles to fully trust their work and often ends up redoing portions of projects herself, undermining the point of having a team. This waste of effort frustrates both her and her workers.
+Difficulty with Delegation and Team Management
+: Though she has apprentices and assistants, Hrandrinna struggles to fully trust their work and often ends up redoing portions of projects herself, undermining the point of having a team. This waste of effort frustrates both her and her workers.
 
-- **Relationship Avoidance**: Hrandrinna's commitment to independence has left her without close personal connections or family ties. While this allows her freedom in her work, it also leaves her isolated and without the ties that give most people stability.
+Relationship Avoidance
+: Hrandrinna's commitment to independence has left her without close personal connections or family ties. While this allows her freedom in her work, it also leaves her isolated and without the ties that give most people stability.
 
 ## Social
 
@@ -511,12 +521,17 @@ The Craftspeople's Collective of Malagna
 
 ## Plot Hooks
 
-1. **The Commission from Across the Realm**: An emissary from a distant region, hearing of Hrandrinna's reputation for new methods, arrives with an unusual commission: to design and oversee the construction of a roof for a structure with architectural specifications completely outside her previous experience—perhaps a tower, a dome, or a structure designed for a climate dramatically different from her native region. The challenge excites her as a craftsperson, but accepting means leaving her established base and risking her reputation on unfamiliar ground.
+The Commission from Across the Realm
+: An emissary from a distant region, hearing of Hrandrinna's reputation for new methods, arrives with an unusual commission: to design and oversee the construction of a roof for a structure with architectural specifications completely outside her previous experience—perhaps a tower, a dome, or a structure designed for a climate dramatically different from her native region. The challenge excites her as a craftsperson, but accepting means leaving her established base and risking her reputation on unfamiliar ground.
 
-2. **The Injured Competitor**: Dvilgthann the Conventional suffers a serious injury that incapacitates him, and his family approaches Hrandrinna requesting assistance. Accepting would require her to temporarily take on his contracts and potentially even apply her own methods to his existing projects—which might be perceived as opportunistic or as the final blow against him. Refusing seems callous, but accepting means becoming entangled in a complex situation with real social consequences.
+The Injured Competitor
+: Dvilgthann the Conventional suffers a serious injury that incapacitates him, and his family approaches Hrandrinna requesting assistance. Accepting would require her to temporarily take on his contracts and potentially even apply her own methods to his existing projects—which might be perceived as opportunistic or as the final blow against him. Refusing seems callous, but accepting means becoming entangled in a complex situation with real social consequences.
 
-3. **The Structural Secret**: While working on the roof of an ancient building, Hrandrinna discovers evidence that the structure's thatch is part of an elaborate system designed to collect water, channel it through hidden pipes, or even (she suspects) contain some form of magical property or hidden chamber. Investigating further could expose her to danger or unwanted attention from whoever created the original system.
+The Structural Secret
+: While working on the roof of an ancient building, Hrandrinna discovers evidence that the structure's thatch is part of an elaborate system designed to collect water, channel it through hidden pipes, or even (she suspects) contain some form of magical property or hidden chamber. Investigating further could expose her to danger or unwanted attention from whoever created the original system.
 
-4. **The Degenerating Injury**: The scar on Hrandrinna's leg begins to trouble her more significantly. Pain, weakness, or signs of infection suggest that what she thought was fully healed may be deteriorating. She must consult a physician, who suggests her working life may be at risk if the condition worsens. Hrandrinna faces the possibility that her worst fear—losing the ability to work—is becoming real, and she can accept limits or push on recklessly.
+The Degenerating Injury
+: The scar on Hrandrinna's leg begins to trouble her more significantly. Pain, weakness, or signs of infection suggest that what she thought was fully healed may be deteriorating. She must consult a physician, who suggests her working life may be at risk if the condition worsens. Hrandrinna faces the possibility that her worst fear—losing the ability to work—is becoming real, and she can accept limits or push on recklessly.
 
-5. **The Apprentice's Dangerous Ambition**: One of Hrandrinna's most talented apprentices becomes impatient with the pace of their learning and secretly takes a major contract for a prestigious building, planning to complete it with techniques learned from Hrandrinna but executed independently. When the project faces structural problems that the apprentice cannot solve, the solution falls to Hrandrinna. She can salvage the project and uphold the standards of the craft, knowing it will benefit an apprentice who broke her trust, or let it fail and damage her own reputation.
+The Apprentice's Dangerous Ambition
+: One of Hrandrinna's most talented apprentices becomes impatient with the pace of their learning and secretly takes a major contract for a prestigious building, planning to complete it with techniques learned from Hrandrinna but executed independently. When the project faces structural problems that the apprentice cannot solve, the solution falls to Hrandrinna. She can salvage the project and uphold the standards of the craft, knowing it will benefit an apprentice who broke her trust, or let it fail and damage her own reputation.

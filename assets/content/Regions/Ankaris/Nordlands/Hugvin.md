@@ -16,6 +16,11 @@ The rune-hall holds two readings of the birds, and the newcomer learns the first
 
 ## See Also
 
-- [[lore-munvin|Munvin]]—the raven of memory, who flies beside Hugvin
-- [[lore-odvardty|Odvar]]—the god the ravens serve
-- [[affiliation-odvar|Faith of Odvar]]—the faith that takes the raven feather as its sign
+[[lore-munvin|Munvin]]
+: the raven of memory, who flies beside Hugvin
+
+[[lore-odvardty|Odvar]]
+: the god the ravens serve
+
+[[affiliation-odvar|Faith of Odvar]]
+: the faith that takes the raven feather as its sign

@@ -25,11 +25,19 @@ Travel south through the selat and watch the empire thin. The country is village
 
 ## Settlements
 
-- [[place-belgen|Belgen]] (~11,000)—the selat capital, the seat of the Halzi'a, and the home of the chief temple of [[lore-qeztudty|Qeztu]].
-- The villages and estate-towns: a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
+[[place-belgen|Belgen]] (~11,000)
+: the selat capital, the seat of the Halzi'a, and the home of the chief temple of [[lore-qeztudty|Qeztu]].
+
+The villages and estate-towns
+: a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatbelgnzl|The Selat of Belgen-Zalu]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-belgen|Belgen]]—Selat capital
+[[affiliation-selatbelgnzl|The Selat of Belgen-Zalu]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-belgen|Belgen]]
+: Selat capital

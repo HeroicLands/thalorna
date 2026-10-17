@@ -41,24 +41,47 @@ Alessa is the most densely settled of the provinces. A carter can leave one town
 
 **The cities.**
 
-- [[place-orzara|Orzara]] (something under 1,000,000)—the imperial capital, seat of the Orzas, the Senate and the Thordimalon (the Arcane Order), so vast it is kept as its own thing rather than filed under the province. See [[place-arvon|Arvon]] and [[place-pnthnrldnm|Sarkena Dorekis]].
-- [[place-alyssar|Alessar]] (about 45,000)—the provincial capital and administrative seat of Alessa proper.
-- [[place-lentora|Lentora]] (about 32,000)—the province's second city, market and governing hub of the inner farm-and-villa country.
-- [[place-belekos|Belekos]] (about 25,000)—a merchant city of the river valleys, grown rich on agricultural surplus and trade.
-- [[place-velysara|Velisara]] (about 20,000)—a secondary provincial city of columned forums and faded imperial grandeur.
+[[place-orzara|Orzara]] (something under 1,000,000)
+: the imperial capital, seat of the Orzas, the Senate and the Thordimalon (the Arcane Order), so vast it is kept as its own thing rather than filed under the province. See [[place-arvon|Arvon]] and [[place-pnthnrldnm|Sarkena Dorekis]].
+
+[[place-alyssar|Alessar]] (about 45,000)
+: the provincial capital and administrative seat of Alessa proper.
+
+[[place-lentora|Lentora]] (about 32,000)
+: the province's second city, market and governing hub of the inner farm-and-villa country.
+
+[[place-belekos|Belekos]] (about 25,000)
+: a merchant city of the river valleys, grown rich on agricultural surplus and trade.
+
+[[place-velysara|Velisara]] (about 20,000)
+: a secondary provincial city of columned forums and faded imperial grandeur.
 
 **Towns.**
 
-- [[place-delara|Delara]] (about 12,000)—a market town on a great road into the capital.
-- [[place-corvinus|Korvenara]] (about 9,000)—a garrison town anchoring the province's interior.
-- [[place-calvaris|Kalvaris]] (about 9,000)—a temple-and-market town around an ancient hilltop precinct.
-- [[place-ostenna|Ostenna]] (about 7,000)—a river-port town transshipping grain by barge.
-- [[place-vennara|Vennara]] (about 6,000)—a villa-town in the hills, favored for senatorial country estates.
+[[place-delara|Delara]] (about 12,000)
+: a market town on a great road into the capital.
+
+[[place-corvinus|Korvenara]] (about 9,000)
+: a garrison town anchoring the province's interior.
+
+[[place-calvaris|Kalvaris]] (about 9,000)
+: a temple-and-market town around an ancient hilltop precinct.
+
+[[place-ostenna|Ostenna]] (about 7,000)
+: a river-port town transshipping grain by barge.
+
+[[place-vennara|Vennara]] (about 6,000)
+: a villa-town in the hills, favored for senatorial country estates.
 
 **Villages and villa-estates.** Beyond the towns the heartland is a near-unbroken quilt of villages and country villas of 300–1,500 souls, among them **[Aventis]{.name data-type="place/settlement"}**, **[Caldera]{.name data-type="place/settlement"}**, **[Tibrenna]{.name data-type="place/settlement"}**, **[Sorrenza]{.name data-type="place/settlement"}**, **[Marvale]{.name data-type="place/settlement"}**, **[Corennis]{.name data-type="place/settlement"}**, **[Vellano]{.name data-type="place/settlement"}**, **[Pradio]{.name data-type="place/settlement"}**, **[Sennara]{.name data-type="place/settlement"}**, **[Olivetta]{.name data-type="place/settlement"}**, **[Tarsenna]{.name data-type="place/settlement"}**, **[Quirnis]{.name data-type="place/settlement"}**, **[Belluno]{.name data-type="place/settlement"}**, **[Castellis]{.name data-type="place/settlement"}**, **[Florenza]{.name data-type="place/settlement"}**, **[Nervia]{.name data-type="place/settlement"}**, **[Ostrella]{.name data-type="place/settlement"}** and **[Aravenna]{.name data-type="place/settlement"}**. Most lie within a half-day's road of a market town and a magistrate. These are only the named places; the great mass of Alessa's people live in countless smaller hamlets and farms between them.
 
 ## See Also
 
-- [[affiliation-provinclys|Province of Alessa]]—the province that holds this land
-- [[place-vylariargn|Vylaria Region]]—the enclosing region
-- [[place-alyssar|Alessar]]—the provincial capital
+[[affiliation-provinclys|Province of Alessa]]
+: the province that holds this land
+
+[[place-vylariargn|Vylaria Region]]
+: the enclosing region
+
+[[place-alyssar|Alessar]]
+: the provincial capital

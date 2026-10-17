@@ -96,9 +96,20 @@ What the truce does not say is what becomes of Hrandstead's seat when Glirvorv d
 
 ## See Also
 
-- [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the crown and the Thalmidrok
-- [[place-logstead|Logstead]]—where the truce was sworn
-- [[place-hrandstead|Hrandstead]] · [[place-thrunborg|Thrunborg]]—the two halves of the war
-- [[place-inthstead|Inthstead]]—the one night the kingdom remembers
-- [[affiliation-malldbndlg|Málalidabandalag]]—the companies that served both sides
-- [[lore-domseycount|The Domsey Count]]—the Stormveld Generation and the Present Reckoning
+[[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
+: the crown and the Thalmidrok
+
+[[place-logstead|Logstead]]
+: where the truce was sworn
+
+[[place-hrandstead|Hrandstead]] · [[place-thrunborg|Thrunborg]]
+: the two halves of the war
+
+[[place-inthstead|Inthstead]]
+: the one night the kingdom remembers
+
+[[affiliation-malldbndlg|Málalidabandalag]]
+: the companies that served both sides
+
+[[lore-domseycount|The Domsey Count]]
+: the Stormveld Generation and the Present Reckoning

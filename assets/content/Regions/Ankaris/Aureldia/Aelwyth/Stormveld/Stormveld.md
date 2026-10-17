@@ -39,7 +39,14 @@ Timber, thrall-worked produce and hides go north; iron, ships, men and quarrels 
 
 ## See Also
 
-- [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]—the Jarldom that holds this land
-- [[place-aelwyth|Aelwyth]]—the island
-- [[place-stormveil|Stormveil]]—the seat
-- [[place-stormplain|The Stormplain]], [[place-nordfells|The Nordfells]], [[place-sunderfells|The Sunderfells]]—its three countries
+[[affiliation-jrldmstrmvld|Jarldom of Stormveld]]
+: the Jarldom that holds this land
+
+[[place-aelwyth|Aelwyth]]
+: the island
+
+[[place-stormveil|Stormveil]]
+: the seat
+
+[[place-stormplain|The Stormplain]], [[place-nordfells|The Nordfells]], [[place-sunderfells|The Sunderfells]]
+: its three countries

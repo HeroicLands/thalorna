@@ -92,8 +92,17 @@ The peace was a settlement, not a victory. The estates agreed to a king, so that
 
 ## See Also
 
-- [[affiliation-kngdmprvnz|The Kingdom of Provenzia]]—the realm the Charter made
-- [[lore-bloodhillsbtl|The Battle of the Blood Hills]]—the Forge's quarrel with the Empire
-- [[lore-empirdclne|The Decline of the Vylarian Empire]]—the loosening grip
-- [[lore-crownssettle|The Settlement of the Crowns]]—the Empire's recognition of the Charter, set beside the other realms'
-- [[lore-warprinces|The War of the Princes]]—the first test of the Charter's crown
+[[affiliation-kngdmprvnz|The Kingdom of Provenzia]]
+: the realm the Charter made
+
+[[lore-bloodhillsbtl|The Battle of the Blood Hills]]
+: the Forge's quarrel with the Empire
+
+[[lore-empirdclne|The Decline of the Vylarian Empire]]
+: the loosening grip
+
+[[lore-crownssettle|The Settlement of the Crowns]]
+: the Empire's recognition of the Charter, set beside the other realms'
+
+[[lore-warprinces|The War of the Princes]]
+: the first test of the Charter's crown

@@ -20,5 +20,8 @@ data:
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The imperial city
-- [[affiliation-genzetpalu|Genzet'Palu]]—The council of the nobles
+[[place-galezkara|Galezkara]]
+: The imperial city
+
+[[affiliation-genzetpalu|Genzet'Palu]]
+: The council of the nobles

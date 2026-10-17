@@ -14,6 +14,11 @@ With [[lore-qeltnu|Qelt'nu]] it makes the pair on which the whole tradition turn
 
 ## See Also
 
-- [[affiliation-garrethzethu|Gar-Reth'zethu]]—the House that holds the domain
-- [[lore-qeltnu|Qelt'nu]]—the pair
-- [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
+[[affiliation-garrethzethu|Gar-Reth'zethu]]
+: the House that holds the domain
+
+[[lore-qeltnu|Qelt'nu]]
+: the pair
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the philosophy and the other seven domains

@@ -69,7 +69,14 @@ Half the company died in the valley. The muster took most of the rest alive, whi
 
 ## See Also
 
-- [[place-falkensten|Falkenstein]]—the hill fort the company came for
-- [[affiliation-malldbndlg|Malalidabandalag]]—the Compact that signed it and ransomed it
-- [[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]—the muster's other great field, and the talisman
-- [[lore-wintertally|The Tally of Winters]]—the Thrall Rivers as the forest counts them
+[[place-falkensten|Falkenstein]]
+: the hill fort the company came for
+
+[[affiliation-malldbndlg|Malalidabandalag]]
+: the Compact that signed it and ransomed it
+
+[[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]
+: the muster's other great field, and the talisman
+
+[[lore-wintertally|The Tally of Winters]]
+: the Thrall Rivers as the forest counts them

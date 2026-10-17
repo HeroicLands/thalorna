@@ -32,7 +32,14 @@ Balku is walled, watchful and built for control rather than comfort, and it is t
 
 ## See Also
 
-- [[affiliation-selatzuzlqtt|The Selat of Zu-Zel-Iaqtet]]—Parent selat
-- [[affiliation-borderselatu|The Border Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—Pantheon (Saq'aru)
+[[affiliation-selatzuzlqtt|The Selat of Zu-Zel-Iaqtet]]
+: Parent selat
+
+[[affiliation-borderselatu|The Border Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: Pantheon (Saq'aru)

@@ -198,10 +198,23 @@ Speaks the gathering.
 
 ## See Also
 
-- [[lore-goddreams|The God of Dreams]]—Aulveira, the Ansorun and the Ilthorin, and the Aulirarno that speaks until it agrees
-- [[lore-flksinale|Sinale]]—the people whose gathering this is
-- [[lore-sinalearrv|The Coming of the Sinale]]—the Age of Stars, in which it was called
-- [[place-ethalosse|Ethalosse]]—the enclave through which the question went up and the account came down
-- [[lore-aelendnppl|Áelendan People]]—the people who carry, and add nothing
-- [[place-haulonna|Haulonna]]—the valley the latest speaker stood at the edge of
-- [[lore-seventowers|The Seven Towers]]—another Sinale song held in Élavendre, broken off where the Sinale stop
+[[lore-goddreams|The God of Dreams]]
+: Aulveira, the Ansorun and the Ilthorin, and the Aulirarno that speaks until it agrees
+
+[[lore-flksinale|Sinale]]
+: the people whose gathering this is
+
+[[lore-sinalearrv|The Coming of the Sinale]]
+: the Age of Stars, in which it was called
+
+[[place-ethalosse|Ethalosse]]
+: the enclave through which the question went up and the account came down
+
+[[lore-aelendnppl|Áelendan People]]
+: the people who carry, and add nothing
+
+[[place-haulonna|Haulonna]]
+: the valley the latest speaker stood at the edge of
+
+[[lore-seventowers|The Seven Towers]]
+: another Sinale song held in Élavendre, broken off where the Sinale stop

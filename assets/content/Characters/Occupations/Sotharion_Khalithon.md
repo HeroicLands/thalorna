@@ -433,12 +433,17 @@ Few; he is generally respected but has made rivals in power struggles.
 
 ## Plot Hooks
 
-1. **The Nobility (Tenant-in-chief)'s Dilemma**—A vassal Sotharion trusts is found to have wronged the common folk on his land, and just rulership and the loyalty he has earned pull against each other.
+The Nobility (Tenant-in-chief)'s Dilemma
+: A vassal Sotharion trusts is found to have wronged the common folk on his land, and just rulership and the loyalty he has earned pull against each other.
 
-2. **Old Grudges**—A rival from an old power struggle on the Local Nobility Council has found allies enough to reopen it.
+Old Grudges
+: A rival from an old power struggle on the Local Nobility Council has found allies enough to reopen it.
 
-3. **Echoes of the Past**—A battle Sotharion led his men into years ago is raised again by the family of a man who did not come back from it.
+Echoes of the Past
+: A battle Sotharion led his men into years ago is raised again by the family of a man who did not come back from it.
 
-4. **Shifting Winds**—Political change in Helionis threatens the standing of the tenants-in-chief, and Sotharion can adapt, resist, or leave.
+Shifting Winds
+: Political change in Helionis threatens the standing of the tenants-in-chief, and Sotharion can adapt, resist, or leave.
 
-5. **The Opportunity**—Sotharion is offered command of a campaign beyond his own lands, and his domain would be left to his vassals while he is gone.
+The Opportunity
+: Sotharion is offered command of a campaign beyond his own lands, and his domain would be left to his vassals while he is gone.

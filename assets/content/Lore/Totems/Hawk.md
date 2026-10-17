@@ -16,9 +16,20 @@ Observant and swift, hawks use their sharp vision to spot prey from great distan
 
 A Hawk person sees both chances and dangers from far off and acts quickly. Fast movement and sharp focus make such a person effective.
 
-- **Physical:** Piercing eyes; quick, agile movements.
-- **Behavioral:** Observant, takes swift and decisive actions.
-- **Positive:** Highly observant, quick-witted, and effective.
-- **Negative:** May be impulsive and overly focused, potentially missing broader contexts.
-- **Minor Trait ([[sohl-none-doctrauma-focused|Focused]]):** Locks onto a task with intense concentration, sometimes becoming so absorbed that everything else fades into the background.
-- **Major Disorder ([[sohl-none-doctrauma-obsssv|Obsessive]]):** Locked into obsessive patterns of thought and behavior, unable to break free from compulsive rituals and fixations that consume their days.
+Physical
+: Piercing eyes; quick, agile movements.
+
+Behavioral
+: Observant, takes swift and decisive actions.
+
+Positive
+: Highly observant, quick-witted, and effective.
+
+Negative
+: May be impulsive and overly focused, potentially missing broader contexts.
+
+Minor Trait ([[sohl-none-doctrauma-focused|Focused]])
+: Locks onto a task with intense concentration, sometimes becoming so absorbed that everything else fades into the background.
+
+Major Disorder ([[sohl-none-doctrauma-obsssv|Obsessive]])
+: Locked into obsessive patterns of thought and behavior, unable to break free from compulsive rituals and fixations that consume their days.

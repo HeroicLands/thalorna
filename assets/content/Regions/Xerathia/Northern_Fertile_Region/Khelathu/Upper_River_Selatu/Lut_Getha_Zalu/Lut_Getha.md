@@ -23,7 +23,14 @@ data:
 
 ## See Also
 
-- [[affiliation-selatltgthzl|The Selat of Lut-Getha-Zalu]]—Parent selat
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-psaqaru|Faith of Saq'aru]]—Patron cult
+[[affiliation-selatltgthzl|The Selat of Lut-Getha-Zalu]]
+: Parent selat
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-psaqaru|Faith of Saq'aru]]
+: Patron cult

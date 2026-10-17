@@ -319,20 +319,29 @@ Fire damages its scales and loosens its grip, pains it, and drives it away from 
 
 ## Attributes
 
-- **Strength:** 15-20 (1d6+14)
+Strength
+: 15-20 (1d6+14)
 
-- **Endurance:** 15-20 (1d6+14)
+Endurance
+: 15-20 (1d6+14)
 
-- **Dexterity:** 14-17 (1d4+13)
+Dexterity
+: 14-17 (1d4+13)
 
-- **Agility:** 14-17 (1d4+13)
+Agility
+: 14-17 (1d4+13)
 
-- **Perception:** 15-20 (1d6+14)
+Perception
+: 15-20 (1d6+14)
 
-- **Aura:** 7-12 (1d6+6)
+Aura
+: 7-12 (1d6+6)
 
-- **Will:** 14-17 (1d4+13)
+Will
+: 14-17 (1d4+13)
 
-- **Reasoning:** 10-13 (1d4+9)
+Reasoning
+: 10-13 (1d4+9)
 
-- **Creativity:** 10-13 (1d4+9)
+Creativity
+: 10-13 (1d4+9)

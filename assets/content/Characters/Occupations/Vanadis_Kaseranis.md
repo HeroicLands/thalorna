@@ -428,12 +428,17 @@ Rival courtesans who envy her popularity.
 
 ## Plot Hooks
 
-1. **The Courtesan's Dilemma**—Vanadis faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+The Courtesan's Dilemma
+: Vanadis faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 
-2. **Old Grudges**—Rival courtesans who envy her popularity. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: Rival courtesans who envy her popularity. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Vanadis's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+Echoes of the Past
+: Something from Vanadis's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Vanadis depends upon. She must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Vylaria threaten to upend the social order that Vanadis depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Vanadis the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Vanadis the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

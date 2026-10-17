@@ -49,8 +49,17 @@ Everything. The counting-house on the square has a barred door and a stone vault
 
 ## See Also
 
-- [[lore-bloodfield|Blood-fields]]—what the silence is, and why a thin field kills
-- [[place-hskrrgn|Khoshiqor]]—the sand country the spur leaves
-- [[place-qisomrktcmp|Qiiso]]—the market-camp the spur starts from
-- [[place-dkrqrrgn|Diqraqor]]—the stone range the spur crosses
-- [[affiliation-shrzrtrb|Shirzari]]—the tribe that holds its well
+[[lore-bloodfield|Blood-fields]]
+: what the silence is, and why a thin field kills
+
+[[place-hskrrgn|Khoshiqor]]
+: the sand country the spur leaves
+
+[[place-qisomrktcmp|Qiiso]]
+: the market-camp the spur starts from
+
+[[place-dkrqrrgn|Diqraqor]]
+: the stone range the spur crosses
+
+[[affiliation-shrzrtrb|Shirzari]]
+: the tribe that holds its well

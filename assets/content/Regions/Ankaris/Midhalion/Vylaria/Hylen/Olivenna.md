@@ -22,6 +22,11 @@ Its prosperity rises and falls with the olive harvest and with the price of oil 
 
 ## See Also
 
-- [[affiliation-provnchyln|Province of Hilen]]—parent province
-- [[place-hylen|Hilen]]—the land of its olive country
-- [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview
+[[affiliation-provnchyln|Province of Hilen]]
+: parent province
+
+[[place-hylen|Hilen]]
+: the land of its olive country
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: imperial overview

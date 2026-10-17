@@ -64,6 +64,11 @@ If your party crosses the march, ask at the first fort which wells are open this
 
 ## See Also
 
-- [[place-khuqetmiglet|Khuqet-Miglet]]—The desert-march it holds
-- [[lore-dunhariclt|Dunhari]]—The tribes it keeps a nominal peace with
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to
+[[place-khuqetmiglet|Khuqet-Miglet]]
+: The desert-march it holds
+
+[[lore-dunhariclt|Dunhari]]
+: The tribes it keeps a nominal peace with
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The region it belongs to

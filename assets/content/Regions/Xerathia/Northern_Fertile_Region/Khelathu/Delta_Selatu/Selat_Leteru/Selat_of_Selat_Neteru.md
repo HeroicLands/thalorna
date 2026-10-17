@@ -71,9 +71,20 @@ Selat-Leteru uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chap
 
 ## See Also
 
-- [[affiliation-deltaselatu|The Delta Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-yathleteru|Yath-Leteru]]—Selat capital
-- [[affiliation-uznera|Faith of Uzn'era]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-selatleterunome|Selat-Leteru]]—The land the selat holds
+[[affiliation-deltaselatu|The Delta Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-yathleteru|Yath-Leteru]]
+: Selat capital
+
+[[affiliation-uznera|Faith of Uzn'era]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-selatleterunome|Selat-Leteru]]
+: The land the selat holds

@@ -61,7 +61,14 @@ The danger is common, and the elders have not agreed on it. The villages of the 
 
 ## See Also
 
-- [[affiliation-sonsmuspell|Sons of Eldheim]]—the order on the shore
-- [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]]—the hunter who wants the muster
-- [[place-falkhaven|Falkhaven]]—the western shore the Sons come ashore on
-- [[lore-wintertally|The Tally of Winters]]—the Posts at Hrindstead as the forest counts them
+[[affiliation-sonsmuspell|Sons of Eldheim]]
+: the order on the shore
+
+[[being-thrnkbldtscbr|Thornak Bludtusk Barsk]]
+: the hunter who wants the muster
+
+[[place-falkhaven|Falkhaven]]
+: the western shore the Sons come ashore on
+
+[[lore-wintertally|The Tally of Winters]]
+: the Posts at Hrindstead as the forest counts them

@@ -110,7 +110,14 @@ The Province of Moktur uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / 
 
 ## See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]]—parent polity
-- [[place-moktur|Moktur]]—the land the province holds
-- [[place-vrystwald|Vristwald]]—the northern frontier
-- [[affiliation-provinclys|Province of Alessa]], [[affiliation-provnchyln|Province of Hilen]], [[affiliation-provincvld|Province of Salkalon]]—sister provinces
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: parent polity
+
+[[place-moktur|Moktur]]
+: the land the province holds
+
+[[place-vrystwald|Vristwald]]
+: the northern frontier
+
+[[affiliation-provinclys|Province of Alessa]], [[affiliation-provnchyln|Province of Hilen]], [[affiliation-provincvld|Province of Salkalon]]
+: sister provinces

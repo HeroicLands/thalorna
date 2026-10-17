@@ -429,10 +429,14 @@ The decency officers of the market ward, who are paid to leave her alone and may
 
 ## Plot Hooks
 
-1. **A Place in a Household**—A hetairin of the Silver Veil has offered Nevarina a place as housekeeper: honest work, a roof for the children, and a mistress whose own trade is the one Nevarina is trying to leave.
+A Place in a Household
+: A hetairin of the Silver Veil has offered Nevarina a place as housekeeper: honest work, a roof for the children, and a mistress whose own trade is the one Nevarina is trying to leave.
 
-2. **The Kin**—Her husband's brother has petitioned the assembly for custody of the children, on the grounds of their mother's trade. Nevarina has no one to speak for her.
+The Kin
+: Her husband's brother has petitioned the assembly for custody of the children, on the grounds of their mother's trade. Nevarina has no one to speak for her.
 
-3. **A Regular**—One of the men who pays for her evenings has begun to talk of marriage, and of the children as his. He is kind, he has a wife and household already in another city, and Nevarina has begun to suspect it.
+A Regular
+: One of the men who pays for her evenings has begun to talk of marriage, and of the children as his. He is kind, he has a wife and household already in another city, and Nevarina has begun to suspect it.
 
-4. **The Purge**—The assembly has resolved to clear the market ward of vice before a festival. The decency officers have a list, Nevarina is on it, and the fine is more than a year's rent.
+The Purge
+: The assembly has resolved to clear the market ward of vice before a festival. The decency officers have a list, Nevarina is on it, and the fine is more than a year's rent.

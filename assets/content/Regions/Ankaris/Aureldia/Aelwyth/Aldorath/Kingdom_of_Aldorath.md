@@ -139,12 +139,23 @@ The Kingdom of Aldorath uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden /
 
 ## See Also
 
-- [[place-aelwyth|Aelwyth]]—The island
-- [[place-aldorathrgn|Aldorath Region]]—The land the kingdom holds
-- [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]—Southeastern rival
-- [[affiliation-repblcndrth|Republic of Ondareth]]—Southwestern republic
-- [[lore-flksinale|Sinale]]—Elder race with southern forest enclaves
-- [[affiliation-arldnpnthn|Aureldian]]—State pantheon
+[[place-aelwyth|Aelwyth]]
+: The island
+
+[[place-aldorathrgn|Aldorath Region]]
+: The land the kingdom holds
+
+[[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]
+: Southeastern rival
+
+[[affiliation-repblcndrth|Republic of Ondareth]]
+: Southwestern republic
+
+[[lore-flksinale|Sinale]]
+: Elder race with southern forest enclaves
+
+[[affiliation-arldnpnthn|Aureldian]]
+: State pantheon
 
 ## Population and Society
 

@@ -85,9 +85,14 @@ sohl: {system: {commonSkills: []}}
 
 ## Fawo—The Minister of Material Fortune
 
-- **Bureau:** Falou Sei, The Bureau of Allocation
-- **Domain:** Prosperity
-- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+Bureau
+: Falou Sei, The Bureau of Allocation
+
+Domain
+: Prosperity
+
+Parent
+: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
 In Fawo's teaching, prosperity is allocated, not granted. Falou Sei holds the schedules by which harvest quality and
 commercial fortune are distributed, and a merchant house's good years are its allocation rather than
@@ -100,11 +105,19 @@ when Falou Sei is winning.
 
 ### Lesser Spirits
 
-- **Nouwo**—Field Allocation Spirits, who distribute harvest quality to farming communities.
-- **Faléi**—Coin Spirits, who influence the flow of trade and commercial fortune.
+Nouwo
+: Field Allocation Spirits, who distribute harvest quality to farming communities.
+
+Faléi
+: Coin Spirits, who influence the flow of trade and commercial fortune.
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the mortal realm it administers
-- [[skill-tengchouscript|Teng Chou Script]]—the writing every petition is made in
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: the Celestial Bureaucracy this bureau belongs to
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the mortal realm it administers
+
+[[skill-tengchouscript|Teng Chou Script]]
+: the writing every petition is made in

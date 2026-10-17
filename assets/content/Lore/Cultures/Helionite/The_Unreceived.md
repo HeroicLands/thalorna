@@ -208,9 +208,20 @@ Next year the day comes round, and finds us standing.
 
 ## See Also
 
-- [[place-sourplain|The Sour Plain]]—the field no herald could cross, and the ring of stones the Temple's judge walks each year
-- [[lore-heladturnedwrk|The Turned Working]]—the afternoon on the plain
-- [[lore-bloodfield|Blood-fields]]—what a withering is, and why the unreceived dead stand on it
-- [[affiliation-korinthea|Korinthea]] and the [[place-korinthea2|Temple of Árdavon]]—the city that has not said it, and the temple that keeps its law
-- [[affiliation-kalydria|Kalidria]]—the city of the theater festivals
-- [[lore-helioniteclt|Helionite]]—the wrong the agorin cannot see
+[[place-sourplain|The Sour Plain]]
+: the field no herald could cross, and the ring of stones the Temple's judge walks each year
+
+[[lore-heladturnedwrk|The Turned Working]]
+: the afternoon on the plain
+
+[[lore-bloodfield|Blood-fields]]
+: what a withering is, and why the unreceived dead stand on it
+
+[[affiliation-korinthea|Korinthea]] and the [[place-korinthea2|Temple of Árdavon]]
+: the city that has not said it, and the temple that keeps its law
+
+[[affiliation-kalydria|Kalidria]]
+: the city of the theater festivals
+
+[[lore-helioniteclt|Helionite]]
+: the wrong the agorin cannot see

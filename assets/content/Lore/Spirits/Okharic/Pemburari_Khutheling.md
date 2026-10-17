@@ -8,10 +8,17 @@ tags: [draft, nkaruthar]
 data: {packFolder: lorespiritsokharic, culture: okharinclt}
 ---
 
-- **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
-- **Domain:** Fertility
-- **Also called:** the Begetter of the Earth
-- **Met through:** [[skill-pembursprt|Pemburari Khutheling Spirit Power]], in the [[affiliation-yenorzhrng|Yenor Zohiring]]
+Kind
+: [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
+
+Domain
+: Fertility
+
+Also called
+: the Begetter of the Earth
+
+Met through
+: [[skill-pembursprt|Pemburari Khutheling Spirit Power]], in the [[affiliation-yenorzhrng|Yenor Zohiring]]
 
 Pemburari Khutheling governs fertility without distinguishing its kinds: the sown field, the
 pregnant herd and the birthing-house are one domain, and the same cairn serves all three. This is

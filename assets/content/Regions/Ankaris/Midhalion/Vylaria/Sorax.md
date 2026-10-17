@@ -20,5 +20,8 @@ The end came through a commercial venture on borrowed money, faithless partners,
 
 ## See Also
 
-- [[being-klstrtsxrchds|Kalestratos Zarkedis]]—son of the fallen House Zarkedis
-- [[place-vylariargn|Vylaria]]—the empire's heartland
+[[being-klstrtsxrchds|Kalestratos Zarkedis]]
+: son of the fallen House Zarkedis
+
+[[place-vylariargn|Vylaria]]
+: the empire's heartland

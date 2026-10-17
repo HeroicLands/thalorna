@@ -182,8 +182,17 @@ Daughter, as long as you take it from me when I go.
 
 ## See Also
 
-- [[place-volsather|Volsater]]—the salt pans on the terraces the wind scours dry, and the harbor below
-- [[lore-lastshrine|The Song of the Last Shrine]]—the long sea song that quotes the lamp line
-- [[affiliation-pozeras|Faith of Pozeras]]—the Blessing at which the oath is sworn
-- [[place-zuravlenrgn|Zuravlen Region]]—the cold coast and its fishing
-- [[lore-provenzianclt|Provenzian]]—the patron, the advocate and the court a woman of the pans does not have
+[[place-volsather|Volsater]]
+: the salt pans on the terraces the wind scours dry, and the harbor below
+
+[[lore-lastshrine|The Song of the Last Shrine]]
+: the long sea song that quotes the lamp line
+
+[[affiliation-pozeras|Faith of Pozeras]]
+: the Blessing at which the oath is sworn
+
+[[place-zuravlenrgn|Zuravlen Region]]
+: the cold coast and its fishing
+
+[[lore-provenzianclt|Provenzian]]
+: the patron, the advocate and the court a woman of the pans does not have

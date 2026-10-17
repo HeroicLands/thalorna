@@ -28,5 +28,8 @@ The quarrel the kingdom's two great clans remember differently is called the Má
 
 ## See Also
 
-- [[affiliation-kingdomlgn|Kingdom of Malagna]]—the kingdom this market serves
-- [[place-malagna|Malagna]]—the land the kingdom holds
+[[affiliation-kingdomlgn|Kingdom of Malagna]]
+: the kingdom this market serves
+
+[[place-malagna|Malagna]]
+: the land the kingdom holds

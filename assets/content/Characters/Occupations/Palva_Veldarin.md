@@ -431,12 +431,17 @@ Few; most respect her work, but some junior servants resent her strictness.
 
 ## Plot Hooks
 
-1. **The Domestic Servant's Dilemma**—Palva learns something about the nobleman she serves that a loyal servant would keep and an honest one would not.
+The Domestic Servant's Dilemma
+: Palva learns something about the nobleman she serves that a loyal servant would keep and an honest one would not.
 
-2. **Old Grudges**—A junior servant Palva dismissed for laziness has found a place in a household that visits the estate.
+Old Grudges
+: A junior servant Palva dismissed for laziness has found a place in a household that visits the estate.
 
-3. **Echoes of the Past**—One of the prominent families Palva once served comes to the estate as guests, and one of them remembers her.
+Echoes of the Past
+: One of the prominent families Palva once served comes to the estate as guests, and one of them remembers her.
 
-4. **Shifting Winds**—Political change in Élavendre threatens the nobleman Palva serves, and she can adapt, resist, or leave.
+Shifting Winds
+: Political change in Élavendre threatens the nobleman Palva serves, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—A greater house offers Palva the running of its whole household, and taking it would mean leaving the employer she has given her loyalty to.
+The Opportunity
+: A greater house offers Palva the running of its whole household, and taking it would mean leaving the employer she has given her loyalty to.

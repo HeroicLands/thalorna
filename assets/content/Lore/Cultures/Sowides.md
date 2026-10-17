@@ -109,15 +109,32 @@ Nothing is owed to a tribe that is not your own, to a stranger without a sponsor
 
 ## See Also
 
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the steppe, the sands and the wells the tribes own
-- [[skill-sowideslng|Sovidur Language]]—the tongue, and the signs cut over the wells
-- [[affiliation-zrnshtrb|Zarnush]], [[affiliation-zrdntrb|Azardan]], [[affiliation-shrzrtrb|Shirzari]], [[affiliation-drmndtrb|Durmand]]—four neighboring tribes of the central steppe
-- [[affiliation-sahritrb|Sahri]] and [[affiliation-rwlstrb|Uruvolur]]—the bands that keep hidden water in the deep desert
-- [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]—the best-known orkunoq
-- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the twelve gods, as the steppe lays them over its older cults
-- [[lore-wemaqcalling|The Calling at Vomek]]—the names of a killed tribe, held and not said at the water
-- [[lore-waterunder|The Buried Water]]—the Sahri star-song of the lake under the sand
-- [[lore-roadnights|The Nights of the Road]]—the tales a caravan-master tells on the crossing
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the steppe, the sands and the wells the tribes own
+
+[[skill-sowideslng|Sovidur Language]]
+: the tongue, and the signs cut over the wells
+
+[[affiliation-zrnshtrb|Zarnush]], [[affiliation-zrdntrb|Azardan]], [[affiliation-shrzrtrb|Shirzari]], [[affiliation-drmndtrb|Durmand]]
+: four neighboring tribes of the central steppe
+
+[[affiliation-sahritrb|Sahri]] and [[affiliation-rwlstrb|Uruvolur]]
+: the bands that keep hidden water in the deep desert
+
+[[lore-hndrdbnnrs|The Storm of the Hundred Banners]]
+: the best-known orkunoq
+
+[[affiliation-ashanpnthn|Ashaian Pantheon]]
+: the twelve gods, as the steppe lays them over its older cults
+
+[[lore-wemaqcalling|The Calling at Vomek]]
+: the names of a killed tribe, held and not said at the water
+
+[[lore-waterunder|The Buried Water]]
+: the Sahri star-song of the lake under the sand
+
+[[lore-roadnights|The Nights of the Road]]
+: the tales a caravan-master tells on the crossing
 
 ## Glossary {#glossary}
 

@@ -99,18 +99,41 @@ The Tigh'Savaran is the tribe's last weapon, and Bahrazad knows it.
 
 The band currently musters twelve warriors—every fighting man the Zarnush can spare without leaving the wells undefended:
 
-- **Bahrazad Darush**—War Captain. Hard-eyed and economical with words, he radiates competence and danger in equal measure. The weight of the tribe's survival sits visibly on his shoulders.
-- **Shirvand Khorzand**—Second-in-command. Bahrazad's closest confidant and blood-brother. Equally skilled with bow and lance, but the kidnapping of his daughter Fazhina has made him reckless and volatile. He wants blood, not strategy.
-- **Razashar Varidan**—Master archer. Great accuracy from a galloping horse; prone to gambling and overconfidence. His debts to a Durmand horse-trader are a vulnerability the enemy could exploit.
-- **Torvash Kaviran**—Spear-specialist and tactician. Older warrior, once proposed for captain but content now as strategist. He was the one who argued for accepting the Shirzari ransom—Bahrazad overruled him, and the disagreement has not been forgotten.
-- **Kavezhan Mahvaran**—Cavalry scout and tracker. Fastest rider in the band, with an almost supernatural sense for water and hidden camps. He has been conducting solo reconnaissance of the Shirzari camps for months, and he knows their patrol patterns better than they do.
-- **Armanad Gazvan**—Heavy cavalry. Largest warrior in the band, prefers the lance to any other weapon. His wife and infant son were among those taken by the Shirzari—he is fighting for his family, and he will not accept any outcome that does not include their return.
-- **Rostadar Tavrud**—Horse-master and shaman's apprentice. Tends the war-steeds and interprets the spirits of the wind. Quietly influential—some warriors consult him more than they consult Bahrazad, and his readings of the wind-spirits have accurately predicted Shirzari movements twice.
-- **Ashudar Khavandar**—Scout and raider. Youngest and most reckless member, always pushing for more aggressive action. He wants to ride into the Shirzari camp at night with fire arrows and solve the problem with violence. Bahrazad tolerates his fire because the boy has talent.
-- **Darizhan Narshad**—Weapons-master and smith. Maintains the blades and composite bows; known for volatile temper. He lost a brother in the Durmand raid two years ago, and his hatred of the Durmand borders on obsession.
-- **Parvuzhan Sazadar**—Veteran scout and ranger. Scarred from a bad arrow wound, walks with a limp but still rides better than most. The band's best tracker after Kavezhan—and more cautious.
-- **Nersad Barkarin**—Cultural keeper and musician. Maintains the songs and traditions of the Zarnush; holds the war-band's history in memory. His role is not merely ceremonial—when morale falters, Nersad reminds them who they are and what they are fighting for.
-- **Jamaris Parvaran**—Newest member, barely initiated. Fierce and driven, determined to prove his worth. His mother was among the women taken by the Shirzari. He volunteered for the Tigh'Savaran the day after the raid.
+Bahrazad Darush
+: War Captain. Hard-eyed and economical with words, he radiates competence and danger in equal measure. The weight of the tribe's survival sits visibly on his shoulders.
+
+Shirvand Khorzand
+: Second-in-command. Bahrazad's closest confidant and blood-brother. Equally skilled with bow and lance, but the kidnapping of his daughter Fazhina has made him reckless and volatile. He wants blood, not strategy.
+
+Razashar Varidan
+: Master archer. Great accuracy from a galloping horse; prone to gambling and overconfidence. His debts to a Durmand horse-trader are a vulnerability the enemy could exploit.
+
+Torvash Kaviran
+: Spear-specialist and tactician. Older warrior, once proposed for captain but content now as strategist. He was the one who argued for accepting the Shirzari ransom—Bahrazad overruled him, and the disagreement has not been forgotten.
+
+Kavezhan Mahvaran
+: Cavalry scout and tracker. Fastest rider in the band, with an almost supernatural sense for water and hidden camps. He has been conducting solo reconnaissance of the Shirzari camps for months, and he knows their patrol patterns better than they do.
+
+Armanad Gazvan
+: Heavy cavalry. Largest warrior in the band, prefers the lance to any other weapon. His wife and infant son were among those taken by the Shirzari—he is fighting for his family, and he will not accept any outcome that does not include their return.
+
+Rostadar Tavrud
+: Horse-master and shaman's apprentice. Tends the war-steeds and interprets the spirits of the wind. Quietly influential—some warriors consult him more than they consult Bahrazad, and his readings of the wind-spirits have accurately predicted Shirzari movements twice.
+
+Ashudar Khavandar
+: Scout and raider. Youngest and most reckless member, always pushing for more aggressive action. He wants to ride into the Shirzari camp at night with fire arrows and solve the problem with violence. Bahrazad tolerates his fire because the boy has talent.
+
+Darizhan Narshad
+: Weapons-master and smith. Maintains the blades and composite bows; known for volatile temper. He lost a brother in the Durmand raid two years ago, and his hatred of the Durmand borders on obsession.
+
+Parvuzhan Sazadar
+: Veteran scout and ranger. Scarred from a bad arrow wound, walks with a limp but still rides better than most. The band's best tracker after Kavezhan—and more cautious.
+
+Nersad Barkarin
+: Cultural keeper and musician. Maintains the songs and traditions of the Zarnush; holds the war-band's history in memory. His role is not merely ceremonial—when morale falters, Nersad reminds them who they are and what they are fighting for.
+
+Jamaris Parvaran
+: Newest member, barely initiated. Fierce and driven, determined to prove his worth. His mother was among the women taken by the Shirzari. He volunteered for the Tigh'Savaran the day after the raid.
 
 ## Territory
 

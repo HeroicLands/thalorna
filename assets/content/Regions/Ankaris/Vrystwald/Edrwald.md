@@ -24,6 +24,11 @@ The conflict here concerns sacred ground. [[affiliation-alndnwrdns|Áelendan War
 
 ## See Also
 
-- [[place-vrystwald|Vristwald]]—the wider forest
-- [[place-elavendre|Elavendre]]—the settled country across the bay and to the south
-- [[place-falkhaven|Falkhaven]] and [[place-thornwald|Thornwald]]—the neighboring reaches
+[[place-vrystwald|Vristwald]]
+: the wider forest
+
+[[place-elavendre|Elavendre]]
+: the settled country across the bay and to the south
+
+[[place-falkhaven|Falkhaven]] and [[place-thornwald|Thornwald]]
+: the neighboring reaches

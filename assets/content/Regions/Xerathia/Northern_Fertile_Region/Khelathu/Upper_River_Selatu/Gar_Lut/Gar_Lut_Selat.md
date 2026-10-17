@@ -27,11 +27,19 @@ The shrines belong to [[lore-uzneradty|Uzn'era]], the mother goddess of fertilit
 
 ## Settlements
 
-- [[place-garlut|Gar-Lut]] (~18,000)—the selat capital and the seat of the Halzi'a, home of the chief temple of [[affiliation-uznera|Faith of Uzn'era]] and its estates.
-- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
+[[place-garlut|Gar-Lut]] (~18,000)
+: the selat capital and the seat of the Halzi'a, home of the chief temple of [[affiliation-uznera|Faith of Uzn'era]] and its estates.
+
+The villages and estate-towns
+: the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatgarlut|The Selat of Gar-Lut]]—the selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the enclosing region
-- [[place-garlut|Gar-Lut]]—selat capital
+[[affiliation-selatgarlut|The Selat of Gar-Lut]]
+: the selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the enclosing region
+
+[[place-garlut|Gar-Lut]]
+: selat capital

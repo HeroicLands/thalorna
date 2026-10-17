@@ -109,7 +109,14 @@ A Varokh child who finds a carved stone on the bay shore and brings it home brin
 
 ## See Also
 
-- [[lore-wintertally|The Tally of Winters]]—the ages of the forest, from this one on
-- [[lore-varkhadcnq|The Varkhad Conquest]]—the grassland conquest that made the host
-- [[lore-pelwarmigr|The Pelwar Migration]]—the displacement this was one stage of
-- [[place-edrwald|Edrwald]]—the bay shore the leavers took
+[[lore-wintertally|The Tally of Winters]]
+: the ages of the forest, from this one on
+
+[[lore-varkhadcnq|The Varkhad Conquest]]
+: the grassland conquest that made the host
+
+[[lore-pelwarmigr|The Pelwar Migration]]
+: the displacement this was one stage of
+
+[[place-edrwald|Edrwald]]
+: the bay shore the leavers took

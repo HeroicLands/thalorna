@@ -184,15 +184,32 @@ The sin is the sale of the road. The Osket remember in detail the two occasions 
 
 ## See Also
 
-- [[affiliation-osketguides|The Osket]]—the hearths, their ranks and their offices
-- [[skill-osketlng|The Osket Tongue]]—the language, its evidentials and its names
-- [[place-oskhelt|Oskhelt]]—the principal village and its common store
-- [[place-tsokhar|Tsokhar]]—the western village and the watch it keeps
-- [[place-pssshrines|The Pass-Shrines]]—the priests at the summits and the register they keep
-- [[lore-hvarnclt|Hvarn]]—the other guide-people of the wall
-- [[place-gudesroad|The Guides' Road]]—the sixth crossing and the opening on its col
-- [[place-meghadvara|Meghadvara]] · [[place-suryadvara|Suryadvara]]—the western and the greatest of the passes
-- [[miscgear-guidecord|The Guide-Cord]]—the knotted route-record
+[[affiliation-osketguides|The Osket]]
+: the hearths, their ranks and their offices
+
+[[skill-osketlng|The Osket Tongue]]
+: the language, its evidentials and its names
+
+[[place-oskhelt|Oskhelt]]
+: the principal village and its common store
+
+[[place-tsokhar|Tsokhar]]
+: the western village and the watch it keeps
+
+[[place-pssshrines|The Pass-Shrines]]
+: the priests at the summits and the register they keep
+
+[[lore-hvarnclt|Hvarn]]
+: the other guide-people of the wall
+
+[[place-gudesroad|The Guides' Road]]
+: the sixth crossing and the opening on its col
+
+[[place-meghadvara|Meghadvara]] · [[place-suryadvara|Suryadvara]]
+: the western and the greatest of the passes
+
+[[miscgear-guidecord|The Guide-Cord]]
+: the knotted route-record
 
 ## Glossary {#glossary}
 

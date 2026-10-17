@@ -26,6 +26,11 @@ The War Chief holds the strongest of the village's three seats, but the other tw
 
 ## See Also
 
-- [[place-vandstein|Vandstein]]—the reach around the village
-- [[place-vandgrund|Vandgrund]] and [[place-erthhaven|Erthhaven]]—neighboring villages reached by forest tracks
-- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—the wider web of independent villages
+[[place-vandstein|Vandstein]]
+: the reach around the village
+
+[[place-vandgrund|Vandgrund]] and [[place-erthhaven|Erthhaven]]
+: neighboring villages reached by forest tracks
+
+[[affiliation-vrystwldtrbs|Vristwald Tribes]]
+: the wider web of independent villages

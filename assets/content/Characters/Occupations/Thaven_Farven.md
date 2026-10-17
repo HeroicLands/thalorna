@@ -429,10 +429,14 @@ Nobody lasting, but there is always a sailor on any ship who thinks a bosun's ru
 
 ## Plot Hooks
 
-1. **The Captain Who Cuts Corners**—Taven's present captain has taken a cargo he should not and means to sail in weather he should not, and has told the bosun to keep the crew quiet about both. The crew will follow Taven, whichever way he goes.
+The Captain Who Cuts Corners
+: Taven's present captain has taken a cargo he should not and means to sail in weather he should not, and has told the bosun to keep the crew quiet about both. The crew will follow Taven, whichever way he goes.
 
-2. **The Crew Turns**—Half a crew of new men has decided that Taven's rules are tyranny and has stopped short of mutiny only because nobody has led it yet. The one who could lead it is the best sailor aboard.
+The Crew Turns
+: Half a crew of new men has decided that Taven's rules are tyranny and has stopped short of mutiny only because nobody has led it yet. The one who could lead it is the best sailor aboard.
 
-3. **A Winter Ashore**—Laid up for the winter at Durvalis with the passes shut, Taven has been asked by the [Winter Assize]{.name data-type="affiliation/governmental"} to say what he saw on a voyage two years ago.
+A Winter Ashore
+: Laid up for the winter at Durvalis with the passes shut, Taven has been asked by the [Winter Assize]{.name data-type="affiliation/governmental"} to say what he saw on a voyage two years ago.
 
-4. **A Green Crew**—A captain has hired Taven to make a crew out of thirty march boys who have never seen the sea, on a ship that sails in a month.
+A Green Crew
+: A captain has hired Taven to make a crew out of thirty march boys who have never seen the sea, on a ship that sails in a month.

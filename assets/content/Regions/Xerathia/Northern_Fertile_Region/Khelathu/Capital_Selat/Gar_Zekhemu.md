@@ -25,5 +25,8 @@ It shares its name with a distinct [[place-garzekhemu2|Gar-Zekhemu in Anlagh-Zet
 
 ## See Also
 
-- [[place-galezkaraslt|Galezkara Selat]]—The surrounding farm-and-market country
-- [[place-garzekhemu2|Gar-Zekhemu, Anlagh-Zetun Selat]]—The other village of the same name
+[[place-galezkaraslt|Galezkara Selat]]
+: The surrounding farm-and-market country
+
+[[place-garzekhemu2|Gar-Zekhemu, Anlagh-Zetun Selat]]
+: The other village of the same name

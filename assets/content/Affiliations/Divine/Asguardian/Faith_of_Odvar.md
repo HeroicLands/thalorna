@@ -75,11 +75,20 @@ A worshipper carries a raven feather for thought and memory, a runestone for the
 
 Every rung of the ladder belongs to a rune-hall:
 
-- Refused the Blet: denied the mead and rune-offering at a rune-hall, and cut from the clergy and from the hall's reckoning of him.
-- Bletmadr: attends the blet at a rune-hall and shares its mead and meal.
-- Hofsmadr: given to a rune-hall young, laboring at its rune-lore before any claim to the priesthood.
-- Gudi / Gudja: ordained to keep a rune-hall's rites and the rune-casting that guides its people.
-- Hofgudi / Hofgudja: consecrates rune-halls, ordains their gudar, and performs the great blet at a season's turning.
+Refused the Blet
+: denied the mead and rune-offering at a rune-hall, and cut from the clergy and from the hall's reckoning of him.
+
+Bletmadr
+: attends the blet at a rune-hall and shares its mead and meal.
+
+Hofsmadr
+: given to a rune-hall young, laboring at its rune-lore before any claim to the priesthood.
+
+Gudi / Gudja
+: ordained to keep a rune-hall's rites and the rune-casting that guides its people.
+
+Hofgudi / Hofgudja
+: consecrates rune-halls, ordains their gudar, and performs the great blet at a season's turning.
 
 The faith teaches rune casting and divination, shamanic journeying, poetic inspiration and storytelling, battle wisdom and strategic insight, intrigue and politics, and the arcane arts. Three kinds of servant belong to Odvar. The choosers of the slain select fallen warriors and bring them to Valsal. The [[lore-valdrengir|Valdrengir]] are the honored dead who live there, training for the final battle of [[lore-aldarlok|Aldarlok]]; half the honored dead are said to gho instead to [[lore-solrundty|Solrún]]'s field at [[place-solvangr|Solvangr]]. The ravens fly the world each day, Hugvin gathering knowledge and wisdom and Munvin traveling far to bring back insights from every corner of it.
 
@@ -97,5 +106,8 @@ Five ordeals are held to win the All-Father's favor. In the **[Trial of the Rune
 
 ## See Also
 
-- [[affiliation-hrafnrun|Hrafnrún]]—the Order of the Raven, priests devoted to rune-lore and divination
-- [[affiliation-hugaett|Hugaett]]—the Order of the All-Seeing Eye, keepers of Odvar's libraries and archives
+[[affiliation-hrafnrun|Hrafnrún]]
+: the Order of the Raven, priests devoted to rune-lore and divination
+
+[[affiliation-hugaett|Hugaett]]
+: the Order of the All-Seeing Eye, keepers of Odvar's libraries and archives

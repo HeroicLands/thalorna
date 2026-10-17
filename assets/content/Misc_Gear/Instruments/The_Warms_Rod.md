@@ -22,7 +22,14 @@ If the Warm stops, the rod goes cold in the hand and stays cold, looking and giv
 
 ## See Also
 
-- [[place-sulvaan|The Warm]]—the work the rod belongs to
-- [[affiliation-tharivaan|Thári'vaan]]—the custodians, and the office of the Bearer of the Crisis
-- [[place-veshvaan|Veshvaan]]—the sanctuary where the rod is kept and the archive holds the oldest account of the Warm
-- [[lore-itharisul|Ithasul]]—the substance of the works, and the living and dead held stones
+[[place-sulvaan|The Warm]]
+: the work the rod belongs to
+
+[[affiliation-tharivaan|Thári'vaan]]
+: the custodians, and the office of the Bearer of the Crisis
+
+[[place-veshvaan|Veshvaan]]
+: the sanctuary where the rod is kept and the archive holds the oldest account of the Warm
+
+[[lore-itharisul|Ithasul]]
+: the substance of the works, and the living and dead held stones

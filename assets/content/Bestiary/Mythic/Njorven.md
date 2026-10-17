@@ -97,21 +97,34 @@ And what it buys is a reprieve of the same kind the last one bought. Everyone wh
 
 ## Attributes
 
-- **Perception:** 19-24 (1d6+18)
+Perception
+: 19-24 (1d6+18)
 
-- **Scent:** 3-6 (1d4+2)
+Scent
+: 3-6 (1d4+2)
 
-- **Aura:** 24-34 (2d6+22)
+Aura
+: 24-34 (2d6+22)
 
-- **Will:** 22-32 (2d6+20)
+Will
+: 22-32 (2d6+20)
 
-- **Reasoning:** 17-22 (1d6+16)
+Reasoning
+: 17-22 (1d6+16)
 
-- **Creativity:** 13-18 (1d6+12)
+Creativity
+: 13-18 (1d6+12)
 
 ## See Also
 
-- [[affiliation-njorvencult|Njorven's Cult]]—the faction that wants it loose
-- [[lore-njordurritlbinding|The Ritual of Binding]]—the rite, its requirements and its shape
-- [[miscgear-sprsigrid|The Spear of Skraldthira]] · [[miscgear-crwnwyrm|The Crown of the Wyrm]] · [[miscgear-hornnjordur|The Horn of Hafvald]]—the three regalia
-- [[scenario-groascmpgn|Groa's Campaign]]—the campaign that ends at the coastal temple
+[[affiliation-njorvencult|Njorven's Cult]]
+: the faction that wants it loose
+
+[[lore-njordurritlbinding|The Ritual of Binding]]
+: the rite, its requirements and its shape
+
+[[miscgear-sprsigrid|The Spear of Skraldthira]] · [[miscgear-crwnwyrm|The Crown of the Wyrm]] · [[miscgear-hornnjordur|The Horn of Hafvald]]
+: the three regalia
+
+[[scenario-groascmpgn|Groa's Campaign]]
+: the campaign that ends at the coastal temple

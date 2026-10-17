@@ -24,6 +24,11 @@ The range is where Tarvenan barons and Áelendan clans meet. Frictions over stra
 
 ## See Also
 
-- [[place-alndntrblnds|Áelendan Tribal Lands]]—the Áelendan heartland and its diaspora
-- [[place-tarvenirgn|Tarvénia]]—the region whose northern border the range marks
-- [[place-drenavrspn|Drenavar Spine]]—the heart of the same sacred uplift
+[[place-alndntrblnds|Áelendan Tribal Lands]]
+: the Áelendan heartland and its diaspora
+
+[[place-tarvenirgn|Tarvénia]]
+: the region whose northern border the range marks
+
+[[place-drenavrspn|Drenavar Spine]]
+: the heart of the same sacred uplift

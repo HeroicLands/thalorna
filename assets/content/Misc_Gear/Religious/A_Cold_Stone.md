@@ -20,7 +20,14 @@ A true Cold Stone comes from a white work, and nearly every [Rite of Last Tendin
 
 ## See Also
 
-- [[lore-sarisul|The Tending-Stones]]—the village works, and the Rite of Last Tending that most dead held stones come from
-- [[lore-klhrsnctrs|The Sanctuaries of Kalihara]]—where every dead held stone is kept
-- [[place-ilovanu|Ilovanu]]—the port whose stalls sell them
-- [[lore-itharisul|Ithasul]]—the substance of the works, and the living and dead held stones
+[[lore-sarisul|The Tending-Stones]]
+: the village works, and the Rite of Last Tending that most dead held stones come from
+
+[[lore-klhrsnctrs|The Sanctuaries of Kalihara]]
+: where every dead held stone is kept
+
+[[place-ilovanu|Ilovanu]]
+: the port whose stalls sell them
+
+[[lore-itharisul|Ithasul]]
+: the substance of the works, and the living and dead held stones

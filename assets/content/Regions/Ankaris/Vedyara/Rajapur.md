@@ -32,5 +32,8 @@ There is no garrison and no armory. The janapoda has kept no soldiers since the 
 
 ## See Also
 
-- [[affiliation-rajaprjnpd|Rajepur Janapoda]]—the temple-republic seated here
-- [[place-rajapurjnpd|Rajepur Janapoda]]—the land
+[[affiliation-rajaprjnpd|Rajepur Janapoda]]
+: the temple-republic seated here
+
+[[place-rajapurjnpd|Rajepur Janapoda]]
+: the land

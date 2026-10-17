@@ -429,10 +429,14 @@ Inmates who have been through his hands more than once; and a jarl of the fjord 
 
 ## Plot Hooks
 
-1. **The Jarl's Kinsman**—A jarl's nephew is inside for a killing, his clan is outside demanding him, and the dead man's clan is outside demanding him too. Hrundmil will give him to nobody but the king.
+The Jarl's Kinsman
+: A jarl's nephew is inside for a killing, his clan is outside demanding him, and the dead man's clan is outside demanding him too. Hrundmil will give him to nobody but the king.
 
-2. **New Methods**—The reeve has appointed a younger warden over the prison, a man with ideas about informers and separate cells, and told Hrundmil to work under him.
+New Methods
+: The reeve has appointed a younger warden over the prison, a man with ideas about informers and separate cells, and told Hrundmil to work under him.
 
-3. **The Freed Man**—A prisoner Hrundmil held for five years and treated exactly like everyone else has come back to Knalthstead a rich man, and has asked to see him. He has not said why.
+The Freed Man
+: A prisoner Hrundmil held for five years and treated exactly like everyone else has come back to Knalthstead a rich man, and has asked to see him. He has not said why.
 
-4. **The Ting**—With the clans assembled for the ting, a purse has reached Hrundmil through his own steward: an hour's carelessness with one door on one night. He has not touched it and he knows which of his guards it came through.
+The Ting
+: With the clans assembled for the ting, a purse has reached Hrundmil through his own steward: an hour's carelessness with one door on one night. He has not touched it and he knows which of his guards it came through.

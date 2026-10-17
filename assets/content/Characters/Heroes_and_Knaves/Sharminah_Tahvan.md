@@ -454,27 +454,37 @@ Sharminah exists to expand the influence and power of Ataros, believing that the
 
 ### Strengths
 
-- **Commanding Presence and Eloquence**: With eloquence of 16 and command of 15, Sharminah can inspire warriors to fanatical devotion or terrify enemies with her words alone. Her ability to articulate her vision is outstanding and persuasive, particularly to those who share her worldview.
+Commanding Presence and Eloquence
+: With eloquence of 16 and command of 15, Sharminah can inspire warriors to fanatical devotion or terrify enemies with her words alone. Her ability to articulate her vision is outstanding and persuasive, particularly to those who share her worldview.
 
-- **Warrior's Mastery**: Her melee skill of 14 (with 5 expansions), archery of 16, and throwing of 15 make her a devastating combatant. She is trained in multiple weapons and fighting styles, with accuracy and devastating power.
+Warrior's Mastery
+: Her melee skill of 14 (with 5 expansions), archery of 16, and throwing of 15 make her a devastating combatant. She is trained in multiple weapons and fighting styles, with accuracy and devastating power.
 
-- **Divine Summoning and Ritual**: With summoning of 14 and ritual of 13, Sharminah can call upon the power of her god to aid her in combat and ritual purposes. She can purify spaces, commune with divine entities, and call forth supernatural aid.
+Divine Summoning and Ritual
+: With summoning of 14 and ritual of 13, Sharminah can call upon the power of her god to aid her in combat and ritual purposes. She can purify spaces, commune with divine entities, and call forth supernatural aid.
 
-- **Perception**: Her perception of 16 allows her to perceive threats and opportunities others miss. In combat, she can track multiple opponents and identify weakness in enemy formations.
+Perception
+: Her perception of 16 allows her to perceive threats and opportunities others miss. In combat, she can track multiple opponents and identify weakness in enemy formations.
 
-- **Willful Determination**: Her will of 15 makes her nearly impossible to intimidate, manipulate, or sway once she has committed to a course. She will pursue her goals relentlessly despite any opposition.
+Willful Determination
+: Her will of 15 makes her nearly impossible to intimidate, manipulate, or sway once she has committed to a course. She will pursue her goals relentlessly despite any opposition.
 
 ### Weaknesses
 
-- **Absolute Rigidity and Inability to Compromise**: Sharminah cannot negotiate or compromise on matters of principle, and her principles are rigid and absolute. This makes her a catastrophically bad diplomat and leaves no room for creative solutions or understanding other perspectives.
+Absolute Rigidity and Inability to Compromise
+: Sharminah cannot negotiate or compromise on matters of principle, and her principles are rigid and absolute. This makes her a catastrophically bad diplomat and leaves no room for creative solutions or understanding other perspectives.
 
-- **Lack of Empathy**: With empathy of only 8, Sharminah cannot understand or care about the emotional impact of her actions on others. She will cause tremendous suffering to others without any sense of regret or shame, making her dangerous to anyone under her command.
+Lack of Empathy
+: With empathy of only 8, Sharminah cannot understand or care about the emotional impact of her actions on others. She will cause tremendous suffering to others without any sense of regret or shame, making her dangerous to anyone under her command.
 
-- **Poor Reasoning and Creativity**: Her reasoning of 11 and creativity of 10 mean she struggles with complex problem-solving that requires thinking outside her framework. She is excellent at executing what she believes to be divine will, but terrible at adapting to situations her theology does not account for.
+Poor Reasoning and Creativity
+: Her reasoning of 11 and creativity of 10 mean she struggles with complex problem-solving that requires thinking outside her framework. She is excellent at executing what she believes to be divine will, but terrible at adapting to situations her theology does not account for.
 
-- **Limited Charm and Interpersonal Connection**: With charm of 11, Sharminah cannot build relationships based on mutual affection. People follow her from fear or fanatical belief, never from love or respect, which leaves her isolated despite her prominence.
+Limited Charm and Interpersonal Connection
+: With charm of 11, Sharminah cannot build relationships based on mutual affection. People follow her from fear or fanatical belief, never from love or respect, which leaves her isolated despite her prominence.
 
-- **Vulnerability to Moral Argument**: While she cannot be moved by emotional appeals or compassion, Sharminah is vulnerable to theological challenges. If someone can convince her that her interpretation of divine will is incorrect, she may shift her entire understanding of her purpose.
+Vulnerability to Moral Argument
+: While she cannot be moved by emotional appeals or compassion, Sharminah is vulnerable to theological challenges. If someone can convince her that her interpretation of divine will is incorrect, she may shift her entire understanding of her purpose.
 
 ## Social
 
@@ -510,12 +520,17 @@ The Order of the Eternal Flame
 
 ## Plot Hooks
 
-1. **The Heretical Priesthood**: Sharminah discovers that **High Priestess Valsuma**, her beloved mentor and the woman who shaped her entire worldview, may have been harboring doubts about the rigid orthodoxy they have both served. Among Valsuma's private possessions, Sharminah finds hidden writings suggesting that the High Priestess secretly believes compassion and mercy might be compatible with serving Ataros. This discovery strikes at the core of Sharminah's understanding of her purpose. Rather than abandoning her convictions, Sharminah must decide whether to suppress this evidence to preserve her faith or confront the possibility that she has fundamentally misunderstood what the god demands.
+The Heretical Priesthood
+: Sharminah discovers that **High Priestess Valsuma**, her beloved mentor and the woman who shaped her entire worldview, may have been harboring doubts about the rigid orthodoxy they have both served. Among Valsuma's private possessions, Sharminah finds hidden writings suggesting that the High Priestess secretly believes compassion and mercy might be compatible with serving Ataros. This discovery strikes at the core of Sharminah's understanding of her purpose. Rather than abandoning her convictions, Sharminah must decide whether to suppress this evidence to preserve her faith or confront the possibility that she has fundamentally misunderstood what the god demands.
 
-2. **The Child Survivor**: Sharminah leads a purge against what she believes is a heretical settlement, only to discover afterward that many of those she killed were innocent civilians. Among the ruins, she finds a young child—perhaps five years old—who miraculously survived. As the child grows under Sharminah's reluctant care, she begins to show signs of unusual spiritual power, speaking of visions and demonstrating uncanny abilities. Sharminah must confront the possibility that this child, product of her "righteous violence," might be a saint or chosen one, forcing her to re-evaluate whether her interpretations of divine will have been correct.
+The Child Survivor
+: Sharminah leads a purge against what she believes is a heretical settlement, only to discover afterward that many of those she killed were innocent civilians. Among the ruins, she finds a young child—perhaps five years old—who miraculously survived. As the child grows under Sharminah's reluctant care, she begins to show signs of unusual spiritual power, speaking of visions and demonstrating uncanny abilities. Sharminah must confront the possibility that this child, product of her "righteous violence," might be a saint or chosen one, forcing her to re-evaluate whether her interpretations of divine will have been correct.
 
-3. **The Diplomatic Envoy**: A foreign ambassador comes to the temple seeking a truce, bringing with them **Prince Gishur**, a young warrior of extraordinary charisma and diplomatic skill. The prince is tasked with finding common ground between the desert kingdoms and the foreign power, and he specifically requests Sharminah as the primary negotiator. Over the course of negotiations, the prince slowly erodes Sharminah's certainties not through compassion (which would not work on her) but through theological argument and reinterpretation of holy texts. She finds herself uncertain about her previous convictions for the first time in her adult life.
+The Diplomatic Envoy
+: A foreign ambassador comes to the temple seeking a truce, bringing with them **Prince Gishur**, a young warrior of extraordinary charisma and diplomatic skill. The prince is tasked with finding common ground between the desert kingdoms and the foreign power, and he specifically requests Sharminah as the primary negotiator. Over the course of negotiations, the prince slowly erodes Sharminah's certainties not through compassion (which would not work on her) but through theological argument and reinterpretation of holy texts. She finds herself uncertain about her previous convictions for the first time in her adult life.
 
-4. **The Rival Priestess**: A priestess of Ataros named **Yavenne** emerges in a rival temple, preaching a more moderate interpretation of the god's will that emphasizes purification through understanding rather than zealotry and violence. As Yavenne's following grows, Sharminah is dispatched to eliminate the heresy. However, the confrontation between them becomes increasingly difficult because Sharminah cannot entirely dismiss Yavenne's theological arguments, and she finds herself reluctantly respecting her rival's conviction, even as she plots her destruction.
+The Rival Priestess
+: A priestess of Ataros named **Yavenne** emerges in a rival temple, preaching a more moderate interpretation of the god's will that emphasizes purification through understanding rather than zealotry and violence. As Yavenne's following grows, Sharminah is dispatched to eliminate the heresy. However, the confrontation between them becomes increasingly difficult because Sharminah cannot entirely dismiss Yavenne's theological arguments, and she finds herself reluctantly respecting her rival's conviction, even as she plots her destruction.
 
-5. **The Burning Question**: Sharminah's faith is based on the belief that the god's flames protected her as a child while consuming everyone else in her settlement. She learns of an ancient text, hidden in a monastery in a far land, that might contain the truth about what really happened that night—whether it was divine protection or merely luck and chance. To retrieve the text, she must journey beyond the desert and question everything she has been taught. The journey itself begins to reveal contradictions in her theology that threaten to unravel her entire understanding of her purpose.
+The Burning Question
+: Sharminah's faith is based on the belief that the god's flames protected her as a child while consuming everyone else in her settlement. She learns of an ancient text, hidden in a monastery in a far land, that might contain the truth about what really happened that night—whether it was divine protection or merely luck and chance. To retrieve the text, she must journey beyond the desert and question everything she has been taught. The journey itself begins to reveal contradictions in her theology that threaten to unravel her entire understanding of her purpose.

@@ -26,6 +26,11 @@ The High King's seat is traditionally at [[place-lezkora|Lezkora]], a fortress-c
 
 ## See Also
 
-- [[affiliation-kngdmstrth|Kingdom of Asturath]]—The kingdom that holds this land
-- [[place-tarvenirgn|Tarvénia Region]]—The enclosing region
-- [[place-kavrenath|Kávrenath]]—A frontier town of the kingdom
+[[affiliation-kngdmstrth|Kingdom of Asturath]]
+: The kingdom that holds this land
+
+[[place-tarvenirgn|Tarvénia Region]]
+: The enclosing region
+
+[[place-kavrenath|Kávrenath]]
+: A frontier town of the kingdom

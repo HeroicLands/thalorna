@@ -25,6 +25,11 @@ The Speaking Road thins as the land climbs and falls, and it falls silent beyond
 
 ## See Also
 
-- [[place-kchchkcntnnt|K'ich'chik Continent]]—the continent
-- [[place-xelemchalix|Shelem Ch'alish]]—the last temple-fortress before the wastes
-- [[place-cntrlkchchk|Central K'ich'chik]]—the heartland to the north
+[[place-kchchkcntnnt|K'ich'chik Continent]]
+: the continent
+
+[[place-xelemchalix|Shelem Ch'alish]]
+: the last temple-fortress before the wastes
+
+[[place-cntrlkchchk|Central K'ich'chik]]
+: the heartland to the north

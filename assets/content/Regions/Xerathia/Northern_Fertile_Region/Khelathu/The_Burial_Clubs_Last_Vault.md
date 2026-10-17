@@ -57,9 +57,20 @@ The valley's guard, the Meglay, patrol only the river and the canal heads. Out h
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the valley and its desert margins
-- [[lore-khelathiclt|Khelathi]]—the burial clubs and the dread of the unspoken dead
-- [[lore-khelunulekha|Khelunu Lekhau]]—the Houses whose marks the vault carries
-- [[lore-theshadow|The Shadow]]—what fills the gap where a Name should be
-- [[place-zulaten|Zulaten]]—the realm the club's dead never reached
-- [[scenario-clublstvltadv|The Unwritten Vault]]—the adventure set here
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the valley and its desert margins
+
+[[lore-khelathiclt|Khelathi]]
+: the burial clubs and the dread of the unspoken dead
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the Houses whose marks the vault carries
+
+[[lore-theshadow|The Shadow]]
+: what fills the gap where a Name should be
+
+[[place-zulaten|Zulaten]]
+: the realm the club's dead never reached
+
+[[scenario-clublstvltadv|The Unwritten Vault]]
+: the adventure set here

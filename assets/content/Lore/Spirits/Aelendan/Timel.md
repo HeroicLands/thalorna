@@ -8,11 +8,20 @@ tags: [draft, first-gods]
 data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
-- **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]
-- **Seat:** [[place-drenavrspn|the Drenavar Spine]]
-- **Territory:** the high air over the Spine, and the crags the hawks nest in
-- **Posture:** Appeased
-- **Met through:** [[skill-tipelsprt|Timel Spirit Power]]
+Kind
+: Animal-kin, of [[lore-thekindred|the Kindred]]
+
+Seat
+: [[place-drenavrspn|the Drenavar Spine]]
+
+Territory
+: the high air over the Spine, and the crags the hawks nest in
+
+Posture
+: Appeased
+
+Met through
+: [[skill-tipelsprt|Timel Spirit Power]]
 
 Timel holds the high air over the Drenavar Spine and the crags its hawks nest in. Of the named
 animal-kin he is the most distant: he does not deal with the tribes at their lodges, he is not

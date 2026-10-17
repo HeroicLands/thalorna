@@ -106,6 +106,11 @@ The Province of Hilen uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / A
 
 ## See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]]—parent polity
-- [[place-hylen|Hilen]]—the land the province holds
-- [[affiliation-provinclys|Province of Alessa]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Salkalon]]—sister provinces
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: parent polity
+
+[[place-hylen|Hilen]]
+: the land the province holds
+
+[[affiliation-provinclys|Province of Alessa]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Salkalon]]
+: sister provinces

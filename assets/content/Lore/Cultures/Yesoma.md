@@ -79,7 +79,14 @@ Almost nothing. An outsider seldom meets a Yesoma band, and the ones who do meet
 
 ## See Also
 
-- [[lore-bikoclt|Biko]]—the forest peoples
-- [[place-cntrlrnfrsts|Central Rainforests]]—the forest
-- [[skill-ekpelulng|Ekpelu]]—the tongue
-- [[being-xrthnfrs|Zerathian Forest Elephant]]—whose trails are the roads
+[[lore-bikoclt|Biko]]
+: the forest peoples
+
+[[place-cntrlrnfrsts|Central Rainforests]]
+: the forest
+
+[[skill-ekpelulng|Ekpelu]]
+: the tongue
+
+[[being-xrthnfrs|Zerathian Forest Elephant]]
+: whose trails are the roads

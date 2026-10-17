@@ -39,6 +39,11 @@ Mahnreth raises its lament at the empty mound, [[place-mahnhrom|Mahnhrum]], and 
 
 ## See Also
 
-- [[lore-grimakburning|The Burning at Grimak]]—the waking, the burning and the empty mound
-- [[lore-bloodfield|Blood-fields]]—what a blood-field is, and the Varokh account of one
-- [[place-skathwald|Skathwald]]—the reach where the Grukar thicken
+[[lore-grimakburning|The Burning at Grimak]]
+: the waking, the burning and the empty mound
+
+[[lore-bloodfield|Blood-fields]]
+: what a blood-field is, and the Varokh account of one
+
+[[place-skathwald|Skathwald]]
+: the reach where the Grukar thicken

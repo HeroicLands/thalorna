@@ -449,20 +449,40 @@ Dorashkar is driven by the conviction that food is one of humanity's greatest jo
 
 ### Strengths
 
-- **Culinary Mastery**: With cookery skills at 13 base and multiplied 4 times, Dorashkar can create extraordinary meals from virtually any ingredients. He understands flavor theory at such a deep level that he can improvise dishes of excellence under any circumstances, transforming scraps into treasures.
-- **Ingredient Knowledge**: His herblore (13, ×4) and botany/agriculture skills (13, ×2) allow him to identify wild plants, understand their properties, and use them to enhance dishes or even provide subtle medicinal benefits.
-- **Creative Genius**: With creativity at 15, he possesses the kind of imaginative brilliance that allows him to envision entirely new dishes and flavor combinations that others would never conceive of, often surprising himself with his own innovations.
-- **Physical Endurance**: Endurance of 15 and strength of 13 allow him to work extremely long hours without fatigue, lifting heavy pots, maintaining the intense heat, and performing repetitive physical tasks that would exhaust others.
-- **Practical Woodcraft and Metalwork**: His timbercraft (13, ×4) and metalcraft (12, ×4) skills allow him to maintain his kitchen equipment, construct specialized tools, and even build upgrades to his workspace without needing to hire outside help.
-- **Singing and Performance**: An unexpected talent for singing (14, ×4) gives him a way to relax and to bring joy to others outside his cooking, and his singing in the tavern kitchen has become a beloved feature of the establishment.
+Culinary Mastery
+: With cookery skills at 13 base and multiplied 4 times, Dorashkar can create extraordinary meals from virtually any ingredients. He understands flavor theory at such a deep level that he can improvise dishes of excellence under any circumstances, transforming scraps into treasures.
+
+Ingredient Knowledge
+: His herblore (13, ×4) and botany/agriculture skills (13, ×2) allow him to identify wild plants, understand their properties, and use them to enhance dishes or even provide subtle medicinal benefits.
+
+Creative Genius
+: With creativity at 15, he possesses the kind of imaginative brilliance that allows him to envision entirely new dishes and flavor combinations that others would never conceive of, often surprising himself with his own innovations.
+
+Physical Endurance
+: Endurance of 15 and strength of 13 allow him to work extremely long hours without fatigue, lifting heavy pots, maintaining the intense heat, and performing repetitive physical tasks that would exhaust others.
+
+Practical Woodcraft and Metalwork
+: His timbercraft (13, ×4) and metalcraft (12, ×4) skills allow him to maintain his kitchen equipment, construct specialized tools, and even build upgrades to his workspace without needing to hire outside help.
+
+Singing and Performance
+: An unexpected talent for singing (14, ×4) gives him a way to relax and to bring joy to others outside his cooking, and his singing in the tavern kitchen has become a beloved feature of the establishment.
 
 ### Weaknesses
 
-- **Social Anxiety and Isolation**: His single-minded focus on cooking has left him socially awkward and somewhat isolated from broader community involvement. He struggles in situations requiring extensive social navigation or political finesse.
-- **Imposter Syndrome**: Despite his mastery, he chronically underestimates his own talent and remains convinced that true masters (like his beloved Master Valisar) were somehow superior to him. He is vulnerable to criticism and quick to blame himself for any imperfection.
-- **Limited Combat Training**: His sedentary kitchen work has left him without strength beyond the moderate level, and he has no training whatsoever in combat or self-defense. Physical confrontation would terrify him.
-- **Perfectionism and Rigidity**: His exacting standards can make him difficult to work with in the kitchen. He can become frustrated with others who don't share his commitment to perfection, leading to harsh words and alienation.
-- **Fear of Change**: Despite his creativity within cooking, he is surprisingly conservative about trying new approaches or leaving the comfortable structure of the **Copper Kettle**. He has turned down opportunities that might have advanced his reputation due to fear of the unknown.
+Social Anxiety and Isolation
+: His single-minded focus on cooking has left him socially awkward and somewhat isolated from broader community involvement. He struggles in situations requiring extensive social navigation or political finesse.
+
+Imposter Syndrome
+: Despite his mastery, he chronically underestimates his own talent and remains convinced that true masters (like his beloved Master Valisar) were somehow superior to him. He is vulnerable to criticism and quick to blame himself for any imperfection.
+
+Limited Combat Training
+: His sedentary kitchen work has left him without strength beyond the moderate level, and he has no training whatsoever in combat or self-defense. Physical confrontation would terrify him.
+
+Perfectionism and Rigidity
+: His exacting standards can make him difficult to work with in the kitchen. He can become frustrated with others who don't share his commitment to perfection, leading to harsh words and alienation.
+
+Fear of Change
+: Despite his creativity within cooking, he is surprisingly conservative about trying new approaches or leaving the comfortable structure of the **Copper Kettle**. He has turned down opportunities that might have advanced his reputation due to fear of the unknown.
 
 ## Social
 
@@ -498,12 +518,17 @@ Informal Network of Master Cooks
 
 ## Plot Hooks
 
-1. **The Lost Recipe of the Ages**: An elderly scholar arrives at the tavern claiming to possess fragments of a cookbook from the ancient era before the current kingdoms arose, describing dishes said to possess not merely nutritional and pleasure value but magical properties—meals that could heal wounds, sharpen minds, or even extend life. The scholar, **Ghupifazur**, seeks Dorashkar's help to reconstruct and test these ancient recipes. Success could elevate Dorashkar's reputation beyond anything he's imagined, but failure could result in harm if the ancient formulas contain unknown dangers.
+The Lost Recipe of the Ages
+: An elderly scholar arrives at the tavern claiming to possess fragments of a cookbook from the ancient era before the current kingdoms arose, describing dishes said to possess not merely nutritional and pleasure value but magical properties—meals that could heal wounds, sharpen minds, or even extend life. The scholar, **Ghupifazur**, seeks Dorashkar's help to reconstruct and test these ancient recipes. Success could elevate Dorashkar's reputation beyond anything he's imagined, but failure could result in harm if the ancient formulas contain unknown dangers.
 
-2. **The Culinary Competition**: The Council of the Bizarian League announces a grand culinary competition to be held in the capital, with the winner being named the League's official chef and receiving a massive stipend. Dorashkar's friends and the tavern proprietor urge him to enter, but he is paralyzed by self-doubt and fear of traveling to the capital. If he competes, he must journey away from his comfortable kitchen and face other masters of the craft—potentially to his humiliation, or potentially to a triumph that would change everything.
+The Culinary Competition
+: The Council of the Bizarian League announces a grand culinary competition to be held in the capital, with the winner being named the League's official chef and receiving a massive stipend. Dorashkar's friends and the tavern proprietor urge him to enter, but he is paralyzed by self-doubt and fear of traveling to the capital. If he competes, he must journey away from his comfortable kitchen and face other masters of the craft—potentially to his humiliation, or potentially to a triumph that would change everything.
 
-3. **The Plague's Cure**: A mysterious illness sweeps through the city, and the physicians are baffled. Dorashkar notices that patrons who eat his food seem to recover more quickly than others, and a desperate healer named **Priestess Zhevranela Aktikot** seeks his help in identifying what properties in his cooking might be therapeutic. Together, they must understand the nature of the plague and whether his culinary knowledge can contribute to a cure—potentially requiring him to work with alchemists and healers in ways that stretch his understanding of his own craft.
+The Plague's Cure
+: A mysterious illness sweeps through the city, and the physicians are baffled. Dorashkar notices that patrons who eat his food seem to recover more quickly than others, and a desperate healer named **Priestess Zhevranela Aktikot** seeks his help in identifying what properties in his cooking might be therapeutic. Together, they must understand the nature of the plague and whether his culinary knowledge can contribute to a cure—potentially requiring him to work with alchemists and healers in ways that stretch his understanding of his own craft.
 
-4. **The Restoration of the Master's Legacy**: A young, gifted cook named **Sudázion** arrives at the tavern claiming to be the distant relation of Dorashkar's beloved teacher, **Master Valisar**. Sudázion has fallen on hard times and asks Dorashkar to take him as an apprentice. Taking on a student would force Dorashkar to articulate and share the knowledge he's kept close, challenging his fear of diminishing his own mastery, and raising the question of whether he can truly be a teacher despite his self-doubts.
+The Restoration of the Master's Legacy
+: A young, gifted cook named **Sudázion** arrives at the tavern claiming to be the distant relation of Dorashkar's beloved teacher, **Master Valisar**. Sudázion has fallen on hard times and asks Dorashkar to take him as an apprentice. Taking on a student would force Dorashkar to articulate and share the knowledge he's kept close, challenging his fear of diminishing his own mastery, and raising the question of whether he can truly be a teacher despite his self-doubts.
 
-5. **The Poison in the Feast**: Dorashkar is commissioned to prepare a grand feast for a political summit between the **Bizarian League** and a rival power. During the event, a diplomat falls ill, apparently poisoned. Dorashkar becomes a suspect, and his reputation is threatened. He must investigate the poisoning while defending his integrity, potentially discovering that someone deliberately sabotaged him to create political chaos between the powers.
+The Poison in the Feast
+: Dorashkar is commissioned to prepare a grand feast for a political summit between the **Bizarian League** and a rival power. During the event, a diplomat falls ill, apparently poisoned. Dorashkar becomes a suspect, and his reputation is threatened. He must investigate the poisoning while defending his integrity, potentially discovering that someone deliberately sabotaged him to create political chaos between the powers.

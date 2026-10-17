@@ -28,6 +28,11 @@ The harbor-reeve who tolls the wharves and the landvordr who rides the king's du
 
 ## See Also
 
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—its seat and the king's hall
-- [[place-nordheim|Nordheim]]—the land the kingdom holds
-- [[affiliation-asguardian|Asguardian Pantheon]]—the gods of the north
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+: its seat and the king's hall
+
+[[place-nordheim|Nordheim]]
+: the land the kingdom holds
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: the gods of the north

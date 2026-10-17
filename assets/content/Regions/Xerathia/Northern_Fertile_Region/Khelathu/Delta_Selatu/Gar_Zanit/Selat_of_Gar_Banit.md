@@ -71,9 +71,20 @@ Gar-Zanit uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter
 
 ## See Also
 
-- [[affiliation-deltaselatu|The Delta Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-garzanit|Gar-Zanit]]—Selat capital
-- [[affiliation-psaqaru|Faith of Saq'aru]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-garzanitselt|Gar-Zanit Selat]]—The land the selat holds
+[[affiliation-deltaselatu|The Delta Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-garzanit|Gar-Zanit]]
+: Selat capital
+
+[[affiliation-psaqaru|Faith of Saq'aru]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-garzanitselt|Gar-Zanit Selat]]
+: The land the selat holds

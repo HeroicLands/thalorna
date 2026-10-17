@@ -106,10 +106,23 @@ When the tale is finished the oldest Ozethos asks the new one to read the fire i
 
 ## See Also
 
-- [[lore-twelfthloss|The Loss of the Twelfth]]—the march into the Kervaron and the eagle under the snow
-- [[place-twelfthcamp|The Twelfth's Last Camp]]—the fort at the foot of the passes
-- [[affiliation-vylrnmltry|Vylarian Military]]—the Omelars, the Thramezusos, the Holtakezos and the two tracks
-- [[affiliation-ordoarcanis|Thordimalon]]—the half of the Ozethos's license the legions do not hold
-- [[place-alndntrblnds|Áelendan Tribal Lands]]—the clans who let the legion climb
-- [[skill-vylarilng|Vylari]]—the subjunctive that says a reason is only alleged
-- [[lore-vylarianclt|Vylarian]]—the diviner, the oath and the eagle
+[[lore-twelfthloss|The Loss of the Twelfth]]
+: the march into the Kervaron and the eagle under the snow
+
+[[place-twelfthcamp|The Twelfth's Last Camp]]
+: the fort at the foot of the passes
+
+[[affiliation-vylrnmltry|Vylarian Military]]
+: the Omelars, the Thramezusos, the Holtakezos and the two tracks
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: the half of the Ozethos's license the legions do not hold
+
+[[place-alndntrblnds|Áelendan Tribal Lands]]
+: the clans who let the legion climb
+
+[[skill-vylarilng|Vylari]]
+: the subjunctive that says a reason is only alleged
+
+[[lore-vylarianclt|Vylarian]]
+: the diviner, the oath and the eagle

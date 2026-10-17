@@ -24,5 +24,8 @@ The quarrel between Atavel and Degavel is one of the long-standing rivalries amo
 
 ## See Also
 
-- [[place-degavel|Degavel]]—the earldom of the count's rival
-- [[place-provenzrgn|Provenzia Region]]—the kingdom's land
+[[place-degavel|Degavel]]
+: the earldom of the count's rival
+
+[[place-provenzrgn|Provenzia Region]]
+: the kingdom's land

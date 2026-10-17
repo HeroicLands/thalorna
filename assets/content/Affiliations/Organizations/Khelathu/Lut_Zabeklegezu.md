@@ -60,4 +60,5 @@ If the ring is lost, tell the master before you tell anyone else, and tell him t
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The region it belongs to

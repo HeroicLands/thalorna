@@ -450,19 +450,37 @@ Garlen's primary drive is the pursuit of perfection in his craft. He seeks to cr
 
 ### Strengths
 
-- **Hideworking Mastery**: Garlen can assess the quality of a hide with a glance, determine exactly which portions will work best for specific purposes, and execute repairs and transformations that seem impossible to lesser craftspeople. His work is universally recognized as superior in both durability and aesthetics.
-- **Creative Problem-Solving**: His creativity shows in an intuitive understanding of how to adapt standard techniques to unusual materials or unexpected requirements. Customers often bring him problems that other craftspeople declared impossible; he usually succeeds.
-- **Deep Practical Knowledge**: He understands animal husbandry, the characteristics of different creatures' hides, the properties of various tanning solutions, and the subtle interplay between materials. This knowledge extends to related crafts like textilework and basic leatherwork enhancement.
-- **Fair Dealing and Reputation**: His reputation for honesty and excellence creates a reliable stream of high-quality customers. People trust him implicitly and speak highly of his work to others.
-- **Physical Resilience**: Despite his injury, he possesses considerable strength and endurance, and his capacity for focused, repetitive labor is great.
+Hideworking Mastery
+: Garlen can assess the quality of a hide with a glance, determine exactly which portions will work best for specific purposes, and execute repairs and transformations that seem impossible to lesser craftspeople. His work is universally recognized as superior in both durability and aesthetics.
+
+Creative Problem-Solving
+: His creativity shows in an intuitive understanding of how to adapt standard techniques to unusual materials or unexpected requirements. Customers often bring him problems that other craftspeople declared impossible; he usually succeeds.
+
+Deep Practical Knowledge
+: He understands animal husbandry, the characteristics of different creatures' hides, the properties of various tanning solutions, and the subtle interplay between materials. This knowledge extends to related crafts like textilework and basic leatherwork enhancement.
+
+Fair Dealing and Reputation
+: His reputation for honesty and excellence creates a reliable stream of high-quality customers. People trust him implicitly and speak highly of his work to others.
+
+Physical Resilience
+: Despite his injury, he possesses considerable strength and endurance, and his capacity for focused, repetitive labor is great.
 
 ### Weaknesses
 
-- **Lingering Physical Vulnerability**: His right leg, while functional, never fully recovered from his injury. It aches predictably during damp weather, tires during extended physical activity, and occasionally threatens to give way unexpectedly. Anything requiring sustained running or climbing presents significant challenge.
-- **Marketing and Self-Promotion**: Garlen abhors selling himself. He prefers to let his work speak for itself, a philosophy that means he often loses commissions to more aggressive or charming competitors who oversell inferior products.
-- **Limited Business Acumen**: He struggles with the financial aspects of his trade—pricing, negotiation, maintaining margins—leaving him perpetually slightly less wealthy than his skill would suggest he should be.
-- **Social Awkwardness**: His reserve and focus on technical matters make him uncomfortable in social situations outside his craft. He is not rude, but he is clearly uncomfortable, making it difficult to entertain clients or cultivate acquaintances.
-- **Perfectionism as Paralysis**: His commitment to absolute quality sometimes prevents him from completing projects on schedule. He will redo work until he considers it perfect, sometimes frustrating customers with delays.
+Lingering Physical Vulnerability
+: His right leg, while functional, never fully recovered from his injury. It aches predictably during damp weather, tires during extended physical activity, and occasionally threatens to give way unexpectedly. Anything requiring sustained running or climbing presents significant challenge.
+
+Marketing and Self-Promotion
+: Garlen abhors selling himself. He prefers to let his work speak for itself, a philosophy that means he often loses commissions to more aggressive or charming competitors who oversell inferior products.
+
+Limited Business Acumen
+: He struggles with the financial aspects of his trade—pricing, negotiation, maintaining margins—leaving him perpetually slightly less wealthy than his skill would suggest he should be.
+
+Social Awkwardness
+: His reserve and focus on technical matters make him uncomfortable in social situations outside his craft. He is not rude, but he is clearly uncomfortable, making it difficult to entertain clients or cultivate acquaintances.
+
+Perfectionism as Paralysis
+: His commitment to absolute quality sometimes prevents him from completing projects on schedule. He will redo work until he considers it perfect, sometimes frustrating customers with delays.
 
 ## Social
 
@@ -492,12 +510,17 @@ The Independent Craftspeople's Association
 
 ## Plot Hooks
 
-1. **The Unknown Hide**: A wealthy merchant arrives with a mysterious material—a hide of extraordinary size and quality, allegedly from a creature that no one can identify. The merchant claims it will create the finest leather goods ever made and offers Garlen a substantial fee to work it into armor. However, the material subtly resists traditional tools and techniques. As Garlen works, he discovers the hide seems to possess strange properties—it appears to be learning from his touch, or perhaps it is attempting to guide his hands toward a specific purpose. Investigation reveals the hide is ancient, perhaps centuries old, and comes from a creature long thought mythical. The party must help determine whether the hide should be worked into the armor or whether its making is somehow dangerous.
+The Unknown Hide
+: A wealthy merchant arrives with a mysterious material—a hide of extraordinary size and quality, allegedly from a creature that no one can identify. The merchant claims it will create the finest leather goods ever made and offers Garlen a substantial fee to work it into armor. However, the material subtly resists traditional tools and techniques. As Garlen works, he discovers the hide seems to possess strange properties—it appears to be learning from his touch, or perhaps it is attempting to guide his hands toward a specific purpose. Investigation reveals the hide is ancient, perhaps centuries old, and comes from a creature long thought mythical. The party must help determine whether the hide should be worked into the armor or whether its making is somehow dangerous.
 
-2. **The Poisoned Batch**: Several of Garlen's recent customers fall mysteriously ill with a condition that no physician can identify—all the victims share only one connection: they purchased leather goods from Garlen's workshop within the past three months. Garlen is devastated and immediately suspects that his materials have been contaminated, but investigation suggests otherwise—someone has deliberately adulterated leather shipments intended for Garlen, trying to frame him and destroy his reputation. The party must uncover the culprit before Garlen's business is destroyed. The investigation leads to Torvin, his rival, who is willing to commit murder to eliminate competition.
+The Poisoned Batch
+: Several of Garlen's recent customers fall mysteriously ill with a condition that no physician can identify—all the victims share only one connection: they purchased leather goods from Garlen's workshop within the past three months. Garlen is devastated and immediately suspects that his materials have been contaminated, but investigation suggests otherwise—someone has deliberately adulterated leather shipments intended for Garlen, trying to frame him and destroy his reputation. The party must uncover the culprit before Garlen's business is destroyed. The investigation leads to Torvin, his rival, who is willing to commit murder to eliminate competition.
 
-3. **The Apprentice's Secret**: Garlen's talented apprentice Órina begins to act strangely, occasionally disappearing for entire days. When confronted, she reveals that she has been secretly meeting with a black-market fence who has been hiring her to create specialized leather containers for smuggled goods. She owes them a substantial debt and fears what they will do if she refuses. Garlen can turn her over to the authorities or help her escape her obligations. If he helps, the party becomes entangled in conflict with organized crime. If he turns her in, he may destroy the talented apprentice he hopes to train into a master craftsperson.
+The Apprentice's Secret
+: Garlen's talented apprentice Órina begins to act strangely, occasionally disappearing for entire days. When confronted, she reveals that she has been secretly meeting with a black-market fence who has been hiring her to create specialized leather containers for smuggled goods. She owes them a substantial debt and fears what they will do if she refuses. Garlen can turn her over to the authorities or help her escape her obligations. If he helps, the party becomes entangled in conflict with organized crime. If he turns her in, he may destroy the talented apprentice he hopes to train into a master craftsperson.
 
-4. **The Master's Masterwork**: As age begins to creep upon him, Garlen commits to creating one final masterwork—a complete set of ceremonial leather armor of breathtaking complexity and beauty. He offers the party a substantial commission: find him a specific material he requires—the hide of a **shadowreaver**, a nocturnal predator rumored to inhabit the deepest forests. The quest to hunt this creature becomes an adventure in itself, testing whether the party can obtain a hide worthy of a true master craftsman. Upon completion, the armor is so extraordinary that nobility and warlords begin bidding for it, potentially changing Garlen's life—or attracting dangerous attention.
+The Master's Masterwork
+: As age begins to creep upon him, Garlen commits to creating one final masterwork—a complete set of ceremonial leather armor of breathtaking complexity and beauty. He offers the party a substantial commission: find him a specific material he requires—the hide of a **shadowreaver**, a nocturnal predator rumored to inhabit the deepest forests. The quest to hunt this creature becomes an adventure in itself, testing whether the party can obtain a hide worthy of a true master craftsman. Upon completion, the armor is so extraordinary that nobility and warlords begin bidding for it, potentially changing Garlen's life—or attracting dangerous attention.
 
-5. **The Injured Warrior's Salvation**: A famous warrior or knight arrives at Garlen's workshop bearing a grievous wound on their dominant leg—one that threatens to end their fighting days. Cutheir, now very elderly, recommends that the warrior seek Garlen's help, suggesting that his experience of his own recovery might be of use, and that custom-crafted supportive leather garments might let the warrior return to active life. Garlen is initially reluctant—he is a craftsman, not a healer—but he begins designing specialized leather supports that allow the warrior graduated return to function. The party might need to protect Garlen from enemies of the warrior, or assist in testing his designs in the field.
+The Injured Warrior's Salvation
+: A famous warrior or knight arrives at Garlen's workshop bearing a grievous wound on their dominant leg—one that threatens to end their fighting days. Cutheir, now very elderly, recommends that the warrior seek Garlen's help, suggesting that his experience of his own recovery might be of use, and that custom-crafted supportive leather garments might let the warrior return to active life. Garlen is initially reluctant—he is a craftsman, not a healer—but he begins designing specialized leather supports that allow the warrior graduated return to function. The party might need to protect Garlen from enemies of the warrior, or assist in testing his designs in the field.

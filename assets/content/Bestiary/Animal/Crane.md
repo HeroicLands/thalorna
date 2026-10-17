@@ -291,12 +291,29 @@ In the empire, the crane's protected legal status creates a practical game mecha
 
 ## Attributes
 
-- **Strength:** 3-6 (1d4+2) — Minimal; a wading bird, not built for power
-- **Endurance:** 6-9 (1d4+5) — Decent migratory stamina; can fly long distances
-- **Dexterity:** 11-16 (1d6+10) — Precise beak strikes and delicate wading movements
-- **Agility:** 12-17 (1d6+11) — Graceful in air and on ground; the dance requires great coordination
-- **Perception:** 12-17 (1d6+11) — Alert sentinel; excellent vision and hearing
-- **Aura:** 10-15 (1d6+9) — Deep cultural and spiritual significance; symbol of cosmic order
-- **Will:** 7-10 (1d4+6) — Determined nest defenders; otherwise peaceful
-- **Reasoning:** 5-8 (1d4+4) — Intelligent bird; recognizes individual humans and remembers locations
-- **Creativity:** 4-7 (1d4+3) — Limited
+Strength
+: 3-6 (1d4+2) — Minimal; a wading bird, not built for power
+
+Endurance
+: 6-9 (1d4+5) — Decent migratory stamina; can fly long distances
+
+Dexterity
+: 11-16 (1d6+10) — Precise beak strikes and delicate wading movements
+
+Agility
+: 12-17 (1d6+11) — Graceful in air and on ground; the dance requires great coordination
+
+Perception
+: 12-17 (1d6+11) — Alert sentinel; excellent vision and hearing
+
+Aura
+: 10-15 (1d6+9) — Deep cultural and spiritual significance; symbol of cosmic order
+
+Will
+: 7-10 (1d4+6) — Determined nest defenders; otherwise peaceful
+
+Reasoning
+: 5-8 (1d4+4) — Intelligent bird; recognizes individual humans and remembers locations
+
+Creativity
+: 4-7 (1d4+3) — Limited

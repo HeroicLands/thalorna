@@ -297,16 +297,41 @@ That is the school. That is the field. That is the whole of it.
 
 ## See Also
 
-- [[affiliation-varakpnthn|Varnuka Pantheon]]—the gods the recitation names, and the schools that read them as three or as one
-- [[affiliation-vyalendra|Vyalendra]]—the shaper, his cord, compass and chisel
-- [[affiliation-mahajaya|Mahajaya]]—the sister whose scale weighs measure and not judgment
-- [[affiliation-rasikara|Rasikara]]—the brother who breaks what has seized, with the fire proper to the task
-- [[affiliation-kalavrata|Kalavrata]]—the Gatekeeper, who asked for nothing and was given the breath
-- [[affiliation-vyahrati|Vahrati]]—the gentle one, whose bowl takes what yields of itself
-- [[affiliation-trimurtisampradaya|Triyanga-sampradeya]] · [[affiliation-vyalendravada|Vyalendravada]]—the two readings the work carries
-- [[place-sandstonealtr|The Sandstone Altar]]—the stone the children stand before, "cut to the cord"
-- [[place-mahaprbhva|Mahaprabhava]] · [[place-chandrprbh|Chandraprabhava]] · [[place-sarvaprbhv|Sarvaprabhava]] · [[place-bhrvprbhav|Bharavaprabhava]]—the four doors
-- [[place-himashila|Himashila]]—the footstool the recitation will not name an owner for
-- [[affiliation-osketguides|The Osket]]—who hold the slab the mountain's own
-- [[lore-bloodfield|Blood-fields]]—the gap that did not close
-- [[lore-mdhvndrcnt|The Madustana Count]]—the reckoners who will give a nearer figure
+[[affiliation-varakpnthn|Varnuka Pantheon]]
+: the gods the recitation names, and the schools that read them as three or as one
+
+[[affiliation-vyalendra|Vyalendra]]
+: the shaper, his cord, compass and chisel
+
+[[affiliation-mahajaya|Mahajaya]]
+: the sister whose scale weighs measure and not judgment
+
+[[affiliation-rasikara|Rasikara]]
+: the brother who breaks what has seized, with the fire proper to the task
+
+[[affiliation-kalavrata|Kalavrata]]
+: the Gatekeeper, who asked for nothing and was given the breath
+
+[[affiliation-vyahrati|Vahrati]]
+: the gentle one, whose bowl takes what yields of itself
+
+[[affiliation-trimurtisampradaya|Triyanga-sampradeya]] · [[affiliation-vyalendravada|Vyalendravada]]
+: the two readings the work carries
+
+[[place-sandstonealtr|The Sandstone Altar]]
+: the stone the children stand before, "cut to the cord"
+
+[[place-mahaprbhva|Mahaprabhava]] · [[place-chandrprbh|Chandraprabhava]] · [[place-sarvaprbhv|Sarvaprabhava]] · [[place-bhrvprbhav|Bharavaprabhava]]
+: the four doors
+
+[[place-himashila|Himashila]]
+: the footstool the recitation will not name an owner for
+
+[[affiliation-osketguides|The Osket]]
+: who hold the slab the mountain's own
+
+[[lore-bloodfield|Blood-fields]]
+: the gap that did not close
+
+[[lore-mdhvndrcnt|The Madustana Count]]
+: the reckoners who will give a nearer figure

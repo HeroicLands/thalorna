@@ -436,10 +436,14 @@ Rival glassworkers of the port who want the guild houses' commissions and are be
 
 ## Plot Hooks
 
-1. **The Burned Hand**—Kusadan has taken a commission for a guild-warden's wedding, the largest of his life, and put his right hand in the furnace mouth a month before it is due. The piece is half-made and only he can finish it.
+The Burned Hand
+: Kusadan has taken a commission for a guild-warden's wedding, the largest of his life, and put his right hand in the furnace mouth a month before it is due. The piece is half-made and only he can finish it.
 
-2. **The Rival's Bid**—The house that has bought from Kusadan for ten years is being courted by a rival with a better ledger and a copy of Kusadan's best design. The house has asked him to match a price he cannot make glass at.
+The Rival's Bid
+: The house that has bought from Kusadan for ten years is being courted by a rival with a better ledger and a copy of Kusadan's best design. The house has asked him to match a price he cannot make glass at.
 
-3. **The Partner**—A merchant of the port has offered to take over the shop's books and its debts for a half share, which would keep the furnace lit and put a stranger's name on his father's door.
+The Partner
+: A merchant of the port has offered to take over the shop's books and its debts for a half share, which would keep the furnace lit and put a stranger's name on his father's door.
 
-4. **A Piece for the Compact**—An officer of the [[affiliation-auricompct|Auric Compact]] has commissioned a glass ship from Kusadan as a gift for the [Grand Council]{.name data-type="affiliation/governmental"} and has made clear that the Compact does not accept excuses.
+A Piece for the Compact
+: An officer of the [[affiliation-auricompct|Auric Compact]] has commissioned a glass ship from Kusadan as a gift for the [Grand Council]{.name data-type="affiliation/governmental"} and has made clear that the Compact does not accept excuses.

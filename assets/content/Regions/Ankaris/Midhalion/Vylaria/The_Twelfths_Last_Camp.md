@@ -40,6 +40,11 @@ The patrol found the dead in the barracks, in the formation of a watch change. T
 
 ## See Also
 
-- [[lore-twelfthloss|The Loss of the Twelfth]]—the campaign that ended here
-- [[place-vylariargn|Vylaria Region]]—the Kervaron Spine
-- [[affiliation-vylrnmltry|Vylarian Military]]—the eagle, and what a legion owes it
+[[lore-twelfthloss|The Loss of the Twelfth]]
+: the campaign that ended here
+
+[[place-vylariargn|Vylaria Region]]
+: the Kervaron Spine
+
+[[affiliation-vylrnmltry|Vylarian Military]]
+: the eagle, and what a legion owes it

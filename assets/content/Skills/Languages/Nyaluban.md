@@ -545,15 +545,25 @@ Nyáluban employs a rich consonantal inventory shaped by areal contact with neig
 
 **Stops:**
 
-- Unvoiced: p, t, k
-- Voiced: b, d, g
-- Affricate: j (as in "judge")
-- Implosive: b', d', g'—voiced stops drawn inward instead of released outward, giving them a hollow, popping quality
+Unvoiced
+: p, t, k
+
+Voiced
+: b, d, g
+
+Affricate
+: j (as in "judge")
+
+Implosive
+: b', d', g'—voiced stops drawn inward instead of released outward, giving them a hollow, popping quality
 
 **Fricatives:**
 
-- Unvoiced: f, s, sh (as in "ship"), h
-- Voiced: z, zh (as the "s" in "measure"), x (velar fricative)
+Unvoiced
+: f, s, sh (as in "ship"), h
+
+Voiced
+: z, zh (as the "s" in "measure"), x (velar fricative)
 
 **Nasals:** m, n, ny, ng
 
@@ -584,13 +594,26 @@ Nyáluban is a sophisticated **multi-level tone language** with four to seven co
 
 Pitch is numbered on a five-step scale, 1 the lowest register and 5 the highest—the notation Thaloran scribes use when transcribing drum-speech.
 
-1. **High Tone (5):** A high, level pitch
-2. **Mid-High Tone (4):** Between high and mid
-3. **Mid Tone (3):** A neutral, middle register
-4. **Mid-Low Tone (2):** Between mid and low
-5. **Low Tone (1):** A low, level pitch
-6. **Rising Tone (2–4 or 3–5):** Rises from a lower register to a higher one
-7. **Falling Tone (5–1 or 4–2):** Falls from a higher register to a lower one
+High Tone (5)
+: A high, level pitch
+
+Mid-High Tone (4)
+: Between high and mid
+
+Mid Tone (3)
+: A neutral, middle register
+
+Mid-Low Tone (2)
+: Between mid and low
+
+Low Tone (1)
+: A low, level pitch
+
+Rising Tone (2–4 or 3–5)
+: Rises from a lower register to a higher one
+
+Falling Tone (5–1 or 4–2)
+: Falls from a higher register to a lower one
 
 **Grammatical Functions of Tone:**
 
@@ -614,11 +637,20 @@ Different drum types (bass drums, talking drums, pitch-varying drums) produce di
 
 Analysis reveals:
 
-- **Initial Clusters:** Only a nasal followed by a stop or affricate: mb-, mp-, nd-, nt-, nk-, nj-, nz-. No word opens on a fricative and a stop (sp-, st-, sk-) or on a fricative and a nasal
-- **Syllable Structure:** Open: every syllable is a consonant and a vowel (CV) or a vowel alone (V). A nasal before a stop is the onset of the syllable that follows it, so mb, nd, nk and nj open syllables rather than close them. A consonant may take a glide (w or y) after it, as in bw or ly. No cluster joins a fricative to a stop
-- **Final Consonants:** None; every word closes on a vowel
-- **Word Length:** Moderate; compounds and affixed words create polysyllabic formations, but roots tend toward bisyllabic or monosyllabic forms
-- **Stress Patterns:** Primary stress typically falls on the initial syllable; secondary stress may occur on alternate syllables in longer words. Stress interacts complexly with tonal patterns.
+Initial Clusters
+: Only a nasal followed by a stop or affricate: mb-, mp-, nd-, nt-, nk-, nj-, nz-. No word opens on a fricative and a stop (sp-, st-, sk-) or on a fricative and a nasal
+
+Syllable Structure
+: Open: every syllable is a consonant and a vowel (CV) or a vowel alone (V). A nasal before a stop is the onset of the syllable that follows it, so mb, nd, nk and nj open syllables rather than close them. A consonant may take a glide (w or y) after it, as in bw or ly. No cluster joins a fricative to a stop
+
+Final Consonants
+: None; every word closes on a vowel
+
+Word Length
+: Moderate; compounds and affixed words create polysyllabic formations, but roots tend toward bisyllabic or monosyllabic forms
+
+Stress Patterns
+: Primary stress typically falls on the initial syllable; secondary stress may occur on alternate syllables in longer words. Stress interacts complexly with tonal patterns.
 
 ## Grammar Notes
 
@@ -628,9 +660,14 @@ Nyáluban exhibits **Subject-Verb-Object (SVO)** order in main clauses, though p
 
 ### Nominal System
 
-- **Number:** Singular and plural are marked through a prefix, and sometimes through vowel lengthening or vowel changes
-- **Definiteness:** Articles (demonstratives and identifiality markers) precede the noun
-- **Possession:** Inalienable possession (body parts, kinship relations) is marked through a prefix; alienable possession uses adpositional constructions
+Number
+: Singular and plural are marked through a prefix, and sometimes through vowel lengthening or vowel changes
+
+Definiteness
+: Articles (demonstratives and identifiality markers) precede the noun
+
+Possession
+: Inalienable possession (body parts, kinship relations) is marked through a prefix; alienable possession uses adpositional constructions
 
 ### Incorporation and Compounding
 
@@ -642,9 +679,11 @@ The language readily incorporates objects and modifiers directly into verbal and
 
 **Recent Written Systems:** In the last 300-400 years, contact with neighboring writing systems has led to sporadic attempts to write Nyáluban. Two systems have emerged:
 
-1. **Syllabic Adaptation:** Some scholars have adapted the scripts of neighboring peoples—chiefly [[skill-qalzscrscrpt|Qalezu Script]] and the voweled [[skill-okhthztscrpt|Okhatha-zethu Script]]—to represent Nyáluban on syllabic principles. This has met with limited adoption.
+Syllabic Adaptation
+: Some scholars have adapted the scripts of neighboring peoples—chiefly [[skill-qalzscrscrpt|Qalezu Script]] and the voweled [[skill-okhthztscrpt|Okhatha-zethu Script]]—to represent Nyáluban on syllabic principles. This has met with limited adoption.
 
-2. **Phonetic Innovations:** Merchants and some educated individuals have experimented with phonetic systems (approaching alphabetic principles) to record contracts, names, and trade information. These remain marginal.
+Phonetic Innovations
+: Merchants and some educated individuals have experimented with phonetic systems (approaching alphabetic principles) to record contracts, names, and trade information. These remain marginal.
 
 **Literacy:** Formal literacy in Nyáluban is extremely low, estimated at 1-3% of the population. The cultural emphasis on oral transmission has historically rendered writing unnecessary for the preservation of knowledge. However, as contact intensifies and trade demands increase, interest in written Nyáluban has grown.
 
@@ -666,9 +705,14 @@ In the last 500 years, intensifying contact with neighboring peoples (particular
 
 Contemporary Nyáluban shows some dialectal variation, though the oral tradition and cultural emphasis on standardized forms has maintained remarkable coherence across dispersed communities:
 
-- **Urban Dialects:** In larger settlements with more intensive contact, some tone merging and simplification has occurred; loanword frequencies are higher
-- **Rural Dialects:** More conservative; tonal distinctions are more precisely maintained; less extensive borrowing
-- **Merchant Dialects:** More extensively influenced by trade languages; showing some structural simplification and code-switching
+Urban Dialects
+: In larger settlements with more intensive contact, some tone merging and simplification has occurred; loanword frequencies are higher
+
+Rural Dialects
+: More conservative; tonal distinctions are more precisely maintained; less extensive borrowing
+
+Merchant Dialects
+: More extensively influenced by trade languages; showing some structural simplification and code-switching
 
 ## Regional Dialects
 
@@ -695,19 +739,33 @@ Contemporary Nyáluban shows some dialectal variation, though the oral tradition
 
 ## Sample Phrases
 
-1. **Nyalu mi-bóo**—_Greeting; literally "Nyáluba I-greet" (high tone on mi marks greeting register)_
-2. **Zherami le zhone**—_Blessing invocation; "Spirits good abide" (formulaic expression of peaceful greeting)_
-3. **Nkulu enyi-ki**—_Statement of respect; "Elder [you]-honor" (mid tone marks deference)_
-4. **Kabishi njira**—_Trade expression; "merchandise-precious bring-hither" (rising tone marks urgency)_
-5. **Jamba selemé**—_Oath formula; "Ancestors witness" (falling tone marks solemnity and finality)_
+Nyalu mi-bóo
+: _Greeting; literally "Nyáluba I-greet" (high tone on mi marks greeting register)_
+
+Zherami le zhone
+: _Blessing invocation; "Spirits good abide" (formulaic expression of peaceful greeting)_
+
+Nkulu enyi-ki
+: _Statement of respect; "Elder [you]-honor" (mid tone marks deference)_
+
+Kabishi njira
+: _Trade expression; "merchandise-precious bring-hither" (rising tone marks urgency)_
+
+Jamba selemé
+: _Oath formula; "Ancestors witness" (falling tone marks solemnity and finality)_
 
 ## Related Languages
 
 Nyáluban maintains linguistic contacts with several neighboring languages:
 
-- **Okharik:** Historical contact; some loanwords in trade and political vocabulary
-- **Trade Pidgins:** Nyáluban has been a substrate language in the development of maritime pidgins; some influence is visible in coastal dialects
-- **Distant Relationships:** Some scholars propose ancient connections to languages of the far south or east, but evidence is minimal
+Okharik
+: Historical contact; some loanwords in trade and political vocabulary
+
+Trade Pidgins
+: Nyáluban has been a substrate language in the development of maritime pidgins; some influence is visible in coastal dialects
+
+Distant Relationships
+: Some scholars propose ancient connections to languages of the far south or east, but evidence is minimal
 
 ## Naming Traditions
 

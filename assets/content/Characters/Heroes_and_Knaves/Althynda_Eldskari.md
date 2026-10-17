@@ -448,31 +448,43 @@ Althinda is driven by a need to create beauty and to contribute to others' spiri
 
 ### Strengths
 
-- **Aesthetic Vision**: Possesses an intuitive grasp of color, form, and spatial relationship that borders on the artistic genius; her candles are recognized as beautiful even by those with no particular interest in chandlery.
+Aesthetic Vision
+: Possesses an intuitive grasp of color, form, and spatial relationship that borders on the artistic genius; her candles are recognized as beautiful even by those with no particular interest in chandlery.
 
-- **Craftsmanship**: Works with extraordinary precision and attention to detail; each candle is a carefully considered composition, with a consistency and quality that are exemplary.
+Craftsmanship
+: Works with extraordinary precision and attention to detail; each candle is a carefully considered composition, with a consistency and quality that are exemplary.
 
-- **Botanical and Herbal Knowledge**: Understands plants, herbs, and aromatic compounds with real knowledge; she can harvest, prepare, and combine scents to create subtle blends that enhance both spirituality and function.
+Botanical and Herbal Knowledge
+: Understands plants, herbs, and aromatic compounds with real knowledge; she can harvest, prepare, and combine scents to create subtle blends that enhance both spirituality and function.
 
-- **Spiritual Authenticity**: Her commitment to Frodvin and to the sacred dimension of her work manifests in products that many report to have real spiritual power; her candles are particularly sought for religious observances and rituals.
+Spiritual Authenticity
+: Her commitment to Frodvin and to the sacred dimension of her work manifests in products that many report to have real spiritual power; her candles are particularly sought for religious observances and rituals.
 
-- **Creative Problem-Solving**: When approached as artistic challenge rather than business problem, she demonstrates impressive ingenuity; she has developed novel techniques for wax layering, color saturation, and botanical embedding that are unique to her practice.
+Creative Problem-Solving
+: When approached as artistic challenge rather than business problem, she demonstrates impressive ingenuity; she has developed novel techniques for wax layering, color saturation, and botanical embedding that are unique to her practice.
 
-- **Willingness to Innovate**: Despite her reverence for tradition, she is not bound to conventional chandlery; she constantly experiments with new materials, techniques, and applications, introducing real novelty to an ancient craft.
+Willingness to Innovate
+: Despite her reverence for tradition, she is not bound to conventional chandlery; she constantly experiments with new materials, techniques, and applications, introducing real novelty to an ancient craft.
 
 ### Weaknesses
 
-- **Business Incompetence**: Lacks any formal training in commerce; she cannot properly reckon what her work costs to make, consistently underprices her work, struggles with record-keeping, and has difficulty keeping coin in hand.
+Business Incompetence
+: Lacks any formal training in commerce; she cannot properly reckon what her work costs to make, consistently underprices her work, struggles with record-keeping, and has difficulty keeping coin in hand.
 
-- **Social Anxiety**: Becomes withdrawn and inarticulate in trade or company, particularly with authority figures or strangers; her inability to advocate effectively for herself undermines her trade.
+Social Anxiety
+: Becomes withdrawn and inarticulate in trade or company, particularly with authority figures or strangers; her inability to advocate effectively for herself undermines her trade.
 
-- **Perfectionism Paralysis**: Her commitment to artistic integrity can prevent her from completing work or delivering on deadlines; she struggles with "good enough" and can become frozen deciding between marginally different options.
+Perfectionism Paralysis
+: Her commitment to artistic integrity can prevent her from completing work or delivering on deadlines; she struggles with "good enough" and can become frozen deciding between marginally different options.
 
-- **Supplier Vulnerability**: Her limited business experience makes her vulnerable to exploitation by suppliers and competitors; she has been cheated, overcharged, and taken advantage of by those with greater cunning in trade.
+Supplier Vulnerability
+: Her limited business experience makes her vulnerable to exploitation by suppliers and competitors; she has been cheated, overcharged, and taken advantage of by those with greater cunning in trade.
 
-- **Market Ignorance**: She has little understanding of her market, cannot tell how prices are moving, fails to understand what buyers want, and buys on artistic impulse rather than on what will sell.
+Market Ignorance
+: She has little understanding of her market, cannot tell how prices are moving, fails to understand what buyers want, and buys on artistic impulse rather than on what will sell.
 
-- **Physical Frailty**: Despite her precision work, she lacks physical strength and stamina; extended labor causes fatigue, and she possesses no combat skill or defensive capability.
+Physical Frailty
+: Despite her precision work, she lacks physical strength and stamina; extended labor causes fatigue, and she possesses no combat skill or defensive capability.
 
 ## Social
 
@@ -511,10 +523,14 @@ Frodvin's Grove
 
 ## Plot Hooks
 
-1. **The Commission of Impossible Beauty**: A stranger arrives in the city offering an enormous commission—extraordinary compensation for a single, massive candle to be created according to highly specific (and unusual) requirements: specific herbs, specific color gradations, and specific symbolic elements that suggest esoteric knowledge. The stranger's appearance is peculiar, their questions oddly probing, and their manner of payment unusual. As Althinda works on the commission, she discovers that the specifications align with descriptions of ritual magic components. The stranger is increasingly secretive, the deadline increasingly urgent, and Althinda becomes convinced she is being commissioned to create something intended for magical purposes. The commission could provide financial security, but potentially at cost of spiritual integrity and possible danger.
+The Commission of Impossible Beauty
+: A stranger arrives in the city offering an enormous commission—extraordinary compensation for a single, massive candle to be created according to highly specific (and unusual) requirements: specific herbs, specific color gradations, and specific symbolic elements that suggest esoteric knowledge. The stranger's appearance is peculiar, their questions oddly probing, and their manner of payment unusual. As Althinda works on the commission, she discovers that the specifications align with descriptions of ritual magic components. The stranger is increasingly secretive, the deadline increasingly urgent, and Althinda becomes convinced she is being commissioned to create something intended for magical purposes. The commission could provide financial security, but potentially at cost of spiritual integrity and possible danger.
 
-2. **The Corrupted Craft**: Althinda begins to notice subtle symptoms in her work—finished candles that burn irregularly, colors that fail to match her intentions, scents that become malodorous without cause. Initially she attributes this to bad materials, but deeper investigation suggests something worse: someone may be deliberately sabotaging her materials or her process. She begins to suspect Merchant Dunred, her unscrupulous supplier, but investigation reveals the interference originates elsewhere—possibly from Master Chandler Draskorv, or even from someone within her own workshop. The sabotage threatens to destroy her reputation and her fragile business, and Althinda must discover the culprit and determine whether the motive is mere rivalry in trade or something darker.
+The Corrupted Craft
+: Althinda begins to notice subtle symptoms in her work—finished candles that burn irregularly, colors that fail to match her intentions, scents that become malodorous without cause. Initially she attributes this to bad materials, but deeper investigation suggests something worse: someone may be deliberately sabotaging her materials or her process. She begins to suspect Merchant Dunred, her unscrupulous supplier, but investigation reveals the interference originates elsewhere—possibly from Master Chandler Draskorv, or even from someone within her own workshop. The sabotage threatens to destroy her reputation and her fragile business, and Althinda must discover the culprit and determine whether the motive is mere rivalry in trade or something darker.
 
-3. **The Unexpected Inheritance**: An elderly distant relative whom Althinda has never met dies and inexplicably leaves her a substantial sum of money and a workshop facility in a different city. The inheritance comes with a condition: Althinda must travel to claim it and work the family workshop for a minimum of one year. The opportunity is too significant to refuse, yet it would require abandoning her established practice and spiritual community. When she arrives at the inherited workshop, she discovers it is in significantly worse condition than represented, comes with mysterious arrangements from the previous tenant that she must untangle, and is located in a trading town hostile to her artistic approach. The year-long commitment will show whether her art can thrive in different circumstances and whether she is ready to truly establish herself as a significant artisan rather than remaining a local craftsperson.
+The Unexpected Inheritance
+: An elderly distant relative whom Althinda has never met dies and inexplicably leaves her a substantial sum of money and a workshop facility in a different city. The inheritance comes with a condition: Althinda must travel to claim it and work the family workshop for a minimum of one year. The opportunity is too significant to refuse, yet it would require abandoning her established practice and spiritual community. When she arrives at the inherited workshop, she discovers it is in significantly worse condition than represented, comes with mysterious arrangements from the previous tenant that she must untangle, and is located in a trading town hostile to her artistic approach. The year-long commitment will show whether her art can thrive in different circumstances and whether she is ready to truly establish herself as a significant artisan rather than remaining a local craftsperson.
 
-4. **The Temple's Desperate Request**: Priestess Skraldthira approaches Althinda with a confidential request: the temple's primary sanctuary has been struck by curse or malevolent magic, and candles and light sources consistently fail or burn incorrectly within it, disrupting religious services. Skraldthira believes that Althinda's spiritually authentic candles might possess the capacity to counteract the curse, but creating such candles would require Althinda to develop new techniques, possibly study spiritual practices beyond her current knowledge, and work in collaboration with priestesses versed in theological magic. The project would be immensely prestigious and spiritually significant, but would also expose Althinda to forces and knowledge she does not fully understand, require her to work at the limits of her capacity, and potentially put her at risk if she becomes entangled in temple politics and spiritual conflicts.
+The Temple's Desperate Request
+: Priestess Skraldthira approaches Althinda with a confidential request: the temple's primary sanctuary has been struck by curse or malevolent magic, and candles and light sources consistently fail or burn incorrectly within it, disrupting religious services. Skraldthira believes that Althinda's spiritually authentic candles might possess the capacity to counteract the curse, but creating such candles would require Althinda to develop new techniques, possibly study spiritual practices beyond her current knowledge, and work in collaboration with priestesses versed in theological magic. The project would be immensely prestigious and spiritually significant, but would also expose Althinda to forces and knowledge she does not fully understand, require her to work at the limits of her capacity, and potentially put her at risk if she becomes entangled in temple politics and spiritual conflicts.

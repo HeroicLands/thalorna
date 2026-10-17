@@ -446,27 +446,37 @@ Prtimaja seeks to create lasting beauty that outlasts human years, objects that 
 
 ### Strengths
 
-- **Gem-Cutting Mastery**: Prtimaja's skill at identifying the best cut for any stone, understanding how light plays through facets and how to maximize a gem's inherent beauty, is acknowledged as the finest in the City-States. He can rescue gems other cutters would consider flawed, transforming them into pieces of great beauty.
+Gem-Cutting Mastery
+: Prtimaja's skill at identifying the best cut for any stone, understanding how light plays through facets and how to maximize a gem's inherent beauty, is acknowledged as the finest in the City-States. He can rescue gems other cutters would consider flawed, transforming them into pieces of great beauty.
 
-- **Innovative Metallurgical Knowledge**: Beyond cutting, he has experimented extensively with different alloys and metals, discovering combinations and treatments that achieve effects others believed impossible. His metalwork is as much alchemical achievement as craftsmanship.
+Innovative Metallurgical Knowledge
+: Beyond cutting, he has experimented extensively with different alloys and metals, discovering combinations and treatments that achieve effects others believed impossible. His metalwork is as much alchemical achievement as craftsmanship.
 
-- **And Precise**: His attention to detail is extraordinary and inhuman. He can perform delicate work for hours without fatigue or loss of concentration, and he notices flaws in others' work that would be invisible to most observers.
+And Precise
+: His attention to detail is extraordinary and inhuman. He can perform delicate work for hours without fatigue or loss of concentration, and he notices flaws in others' work that would be invisible to most observers.
 
-- **Observational Acuity**: In his craft, Prtimaja's perception is extraordinary—he perceives subtle color variations, light angles, and structural possibilities that others miss. This perception extends somewhat to people, though he is less skilled at reading emotional nuance.
+Observational Acuity
+: In his craft, Prtimaja's perception is extraordinary—he perceives subtle color variations, light angles, and structural possibilities that others miss. This perception extends somewhat to people, though he is less skilled at reading emotional nuance.
 
-- **Creator of Famed Artifacts**: Several of his pieces have become objects of veneration or legend. A gem he cut twenty years ago is said to grant the wearer clarity of vision; another supposedly brings peace to troubled minds. While Prtimaja credits the legends to the wearers' own minds, the belief in his work's power is strong.
+Creator of Famed Artifacts
+: Several of his pieces have become objects of veneration or legend. A gem he cut twenty years ago is said to grant the wearer clarity of vision; another supposedly brings peace to troubled minds. While Prtimaja credits the legends to the wearers' own minds, the belief in his work's power is strong.
 
 ### Weaknesses
 
-- **Obsessive Perfectionism**: Prtimaja's demand for perfection often paralyzes him. He may spend weeks deciding how to approach a stone, missing deadlines and disappointing patrons, or abandon pieces that are technically flawless because they fail to match his internal vision of perfection.
+Obsessive Perfectionism
+: Prtimaja's demand for perfection often paralyzes him. He may spend weeks deciding how to approach a stone, missing deadlines and disappointing patrons, or abandon pieces that are technically flawless because they fail to match his internal vision of perfection.
 
-- **Terrible at Business Management**: His workshops are frequently chaotic. Commissions are delayed, prices are inconsistent, and he often sells finished pieces at rates that barely cover materials, then regrets it and refuses future similar work. His economic survival depends largely on the high value of his pieces rather than sound business practice.
+Terrible at Business Management
+: His workshops are frequently chaotic. Commissions are delayed, prices are inconsistent, and he often sells finished pieces at rates that barely cover materials, then regrets it and refuses future similar work. His economic survival depends largely on the high value of his pieces rather than sound business practice.
 
-- **Emotional Repression and Isolation**: Prtimaja struggles to engage in ordinary company or put his feelings into words. This isolation has cost him friendships and romantic opportunities. He is prone to bottling emotions until they explode unexpectedly.
+Emotional Repression and Isolation
+: Prtimaja struggles to engage in ordinary company or put his feelings into words. This isolation has cost him friendships and romantic opportunities. He is prone to bottling emotions until they explode unexpectedly.
 
-- **Fragile Confidence Outside His Craft**: While supremely confident with gems and metals, Prtimaja is deeply self-doubting regarding his worth as a person, his attractiveness, his ability to contribute meaningfully to the world beyond his narrow specialty. He underestimates his own social skills and value.
+Fragile Confidence Outside His Craft
+: While supremely confident with gems and metals, Prtimaja is deeply self-doubting regarding his worth as a person, his attractiveness, his ability to contribute meaningfully to the world beyond his narrow specialty. He underestimates his own social skills and value.
 
-- **Vulnerability to Manipulation**: Because he craves connection and doubts his own judgment, Prtimaja is susceptible to being taken advantage of by those who offer friendship or recognition. Patrons sometimes exploit his desire to please, commissioning work at rates he cannot afford while convincing him it is an honor.
+Vulnerability to Manipulation
+: Because he craves connection and doubts his own judgment, Prtimaja is susceptible to being taken advantage of by those who offer friendship or recognition. Patrons sometimes exploit his desire to please, commissioning work at rates he cannot afford while convincing him it is an honor.
 
 ## Social
 
@@ -508,12 +518,17 @@ The Artisans' Collective
 
 ## Plot Hooks
 
-1. **The Impossible Commission**: A mysterious patron of unknown origin approaches Prtimaja with a commission for a piece of extraordinary ambition: a gem that must somehow contain and display light from a distant star, making the star's light visible to the naked eye even in daylight. The patron offers a price sufficient to retire Prtimaja for life—far more than the work should rationally be worth. The specification seems physically impossible, yet the patron seems certain it can be achieved. Investigation reveals that this patron may be connected to forces both powerful and dangerous, and the gem, if successfully created, would be sought by multiple factions for reasons Prtimaja cannot fully understand. Accepting the commission risks his life; refusing it means letting the greatest artistic challenge of his existence pass him by.
+The Impossible Commission
+: A mysterious patron of unknown origin approaches Prtimaja with a commission for a piece of extraordinary ambition: a gem that must somehow contain and display light from a distant star, making the star's light visible to the naked eye even in daylight. The patron offers a price sufficient to retire Prtimaja for life—far more than the work should rationally be worth. The specification seems physically impossible, yet the patron seems certain it can be achieved. Investigation reveals that this patron may be connected to forces both powerful and dangerous, and the gem, if successfully created, would be sought by multiple factions for reasons Prtimaja cannot fully understand. Accepting the commission risks his life; refusing it means letting the greatest artistic challenge of his existence pass him by.
 
-2. **The Stolen Masterpiece**: The famous gem that Prtimaja cut twenty years ago—the one he later heard brought clarity of vision to its wearer—is stolen from the maharava's treasury in a daring theft. Prtimaja is accused of orchestrating the theft, having maintained suspicious contact with the presumed thief, an adventurer of questionable reputation to whom he had once sold a piece at extraordinarily favorable terms. To clear his name and recover the gem, Prtimaja must make known his involvement with the thief, revealing a relationship he has kept carefully hidden from legitimate society, or he must conduct his own investigation to identify the true perpetrator.
+The Stolen Masterpiece
+: The famous gem that Prtimaja cut twenty years ago—the one he later heard brought clarity of vision to its wearer—is stolen from the maharava's treasury in a daring theft. Prtimaja is accused of orchestrating the theft, having maintained suspicious contact with the presumed thief, an adventurer of questionable reputation to whom he had once sold a piece at extraordinarily favorable terms. To clear his name and recover the gem, Prtimaja must make known his involvement with the thief, revealing a relationship he has kept carefully hidden from legitimate society, or he must conduct his own investigation to identify the true perpetrator.
 
-3. **The Flawed Foundation**: A piece Prtimaja created five years ago for a great temple is discovered to be structurally flawed in a way that is causing serious problems. The flaw was caused by Prtimaja's decision to use an inferior grade of metal in one section to preserve a fine gem and remain within the sum the temple set. The temple's high priests demand replacement, but Prtimaja's close examination reveals that the piece has actually become more beautiful over time as the flaw has worked in unexpected ways. The temple views this as excuse-making; Prtimaja faces public humiliation, potential sanctions from the shrena, and the spiritual weight of compromising his standards, even if inadvertently. He must either create a perfect replacement (costing him his financial security) or publicly defend a piece he knows was born from compromise.
+The Flawed Foundation
+: A piece Prtimaja created five years ago for a great temple is discovered to be structurally flawed in a way that is causing serious problems. The flaw was caused by Prtimaja's decision to use an inferior grade of metal in one section to preserve a fine gem and remain within the sum the temple set. The temple's high priests demand replacement, but Prtimaja's close examination reveals that the piece has actually become more beautiful over time as the flaw has worked in unexpected ways. The temple views this as excuse-making; Prtimaja faces public humiliation, potential sanctions from the shrena, and the spiritual weight of compromising his standards, even if inadvertently. He must either create a perfect replacement (costing him his financial security) or publicly defend a piece he knows was born from compromise.
 
-4. **The Dangerous Shrena Politics**: A power struggle erupts within the Jewelers' Shrena between the conservatives who oppose Prtimaja's methods and the reformers who champion his new methods. Both factions attempt to recruit him as their symbol and figurehead. Prtimaja discovers that the core of the conflict isn't actually about technique—it's about control of access to certain rare gems imported from distant lands. Taking sides will inevitably alienate powerful figures, yet remaining neutral is politically impossible. His choice will reshape the shrena's future and determine whether his methods are allowed to flourish or systematically suppressed.
+The Dangerous Shrena Politics
+: A power struggle erupts within the Jewelers' Shrena between the conservatives who oppose Prtimaja's methods and the reformers who champion his new methods. Both factions attempt to recruit him as their symbol and figurehead. Prtimaja discovers that the core of the conflict isn't actually about technique—it's about control of access to certain rare gems imported from distant lands. Taking sides will inevitably alienate powerful figures, yet remaining neutral is politically impossible. His choice will reshape the shrena's future and determine whether his methods are allowed to flourish or systematically suppressed.
 
-5. **The Love Entanglement**: Chandrika, Prtimaja's long-time patroness and confidant, reveals that she has come to love him and asks him to consider marriage. Simultaneously, Prtimaja receives a request from a young scholar and potential collaborator—someone whose creative vision matches his own—who has traveled across multiple realms specifically to study his techniques and who clearly admires him romantically as well. The two paths are very different: security and comfort with Chandrika, or excitement and shared creation with the scholar. His choice will affect his personal life, his art, and his working relationships, as both parties are deeply embedded in his world.
+The Love Entanglement
+: Chandrika, Prtimaja's long-time patroness and confidant, reveals that she has come to love him and asks him to consider marriage. Simultaneously, Prtimaja receives a request from a young scholar and potential collaborator—someone whose creative vision matches his own—who has traveled across multiple realms specifically to study his techniques and who clearly admires him romantically as well. The two paths are very different: security and comfort with Chandrika, or excitement and shared creation with the scholar. His choice will affect his personal life, his art, and his working relationships, as both parties are deeply embedded in his world.

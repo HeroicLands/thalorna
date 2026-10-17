@@ -401,11 +401,14 @@ Skalforv's strength is prodigious, and his skill with a warhammer is unmatched. 
 
 ## Plot Hooks
 
-1. **The Serpent's Return**—The sea serpent did not truly die. Fishermen report seeing its shadow beneath the waves, larger than before. Skalforv must prepare for a rematch he may not survive.
+The Serpent's Return
+: The sea serpent did not truly die. Fishermen report seeing its shadow beneath the waves, larger than before. Skalforv must prepare for a rematch he may not survive.
 
-2. **[[place-thrumufjall|Thrumufjall]] Under Siege**—An army of trolls has laid siege to the sacred mountain. The priests are trapped, and the storm blessing is fading. Skalforv must break the siege before Thrunvald's power wanes.
+[[place-thrumufjall|Thrumufjall]] Under Siege
+: An army of trolls has laid siege to the sacred mountain. The priests are trapped, and the storm blessing is fading. Skalforv must break the siege before Thrunvald's power wanes.
 
-3. **The Storm Child**—A child born during an unprecedented storm displays powers similar to Skalforv's own. Both the Storm Temple and darker forces seek to claim the child, and Skalforv must decide what is truly best for them.
+The Storm Child
+: A child born during an unprecedented storm displays powers similar to Skalforv's own. Both the Storm Temple and darker forces seek to claim the child, and Skalforv must decide what is truly best for them.
 
 ## Epic Recital
 

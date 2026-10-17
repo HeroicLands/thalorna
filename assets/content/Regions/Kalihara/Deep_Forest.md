@@ -32,6 +32,11 @@ No road crosses the Deep Forest. The forest lineages keep paths through their ow
 
 ## See Also
 
-- [[place-klhrbowl|The Great Bowl]]—the basin the forest covers in part
-- [[place-klhrwstsddl|The Western Saddle]]—the pass down into the forest from the west
-- [[place-klhrestrrc|The Eastern Terraces]]—the cleared land across the lake
+[[place-klhrbowl|The Great Bowl]]
+: the basin the forest covers in part
+
+[[place-klhrwstsddl|The Western Saddle]]
+: the pass down into the forest from the west
+
+[[place-klhrestrrc|The Eastern Terraces]]
+: the cleared land across the lake

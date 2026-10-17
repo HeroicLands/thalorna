@@ -82,8 +82,17 @@ The raid was the first of a long run of them, and the border families on both si
 
 ## See Also
 
-- [[place-bldfldmalnebris|The Blood-field of Malnebris]]—the ground the battle left
-- [[place-talothe|Talote]]—the march
-- [[place-tarvenirgn|Tarvénia Region]]—where the host came from
-- [[lore-tarvfallsawy|Tarvénia Falls Away]]—the election of the High Kings who sent it
-- [[place-durvalis|Durvalis]]—the town built to hold the road
+[[place-bldfldmalnebris|The Blood-field of Malnebris]]
+: the ground the battle left
+
+[[place-talothe|Talote]]
+: the march
+
+[[place-tarvenirgn|Tarvénia Region]]
+: where the host came from
+
+[[lore-tarvfallsawy|Tarvénia Falls Away]]
+: the election of the High Kings who sent it
+
+[[place-durvalis|Durvalis]]
+: the town built to hold the road

@@ -68,5 +68,8 @@ The order takes no fee for its readings. It asks for the year's prosperity throu
 
 ## See Also
 
-- [[lore-thubaidty|Thuba'i]]—The god the order serves
-- [[affiliation-lutthubai|Lut-Thuba'i]]—The temple, its river-readers and its granaries
+[[lore-thubaidty|Thuba'i]]
+: The god the order serves
+
+[[affiliation-lutthubai|Lut-Thuba'i]]
+: The temple, its river-readers and its granaries

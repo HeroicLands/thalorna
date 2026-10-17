@@ -7,8 +7,11 @@ description: "Ancestral nomadic peoples whose migrations across Ankaris gave ris
 data: {packFolder: ankaris}
 ---
 
-- **Type:** Ancestral people / language family
-- **Descendants:** [[place-elavendre|Élavendri]], [[lore-aelendnppl|Áelendan]], Vylari, Nordmal, Varokhi, Tarveni, Provenzal, and related peoples of [[place-ankrscntnnt|Ankaris Continent]]
+Type
+: Ancestral people / language family
+
+Descendants
+: [[place-elavendre|Élavendri]], [[lore-aelendnppl|Áelendan]], Vylari, Nordmal, Varokhi, Tarveni, Provenzal, and related peoples of [[place-ankrscntnnt|Ankaris Continent]]
 
 The **Pelwar** were ancient nomadic peoples who migrated across [[place-ankrscntnnt|Ankaris Continent]] in a great movement beginning **approximately 1400 BF**. They were not a single nation or polity but a loose cultural-linguistic grouping of related tribes that spread westward from an original homeland in the central or eastern interior of the continent. The westward movement ran roughly three centuries, to **approximately 1100 BF**, and over the centuries that followed the peoples it carried west settled their different regions and, in time, diverged into the distinct peoples and languages that today populate much of Ankaris.
 
@@ -68,13 +71,26 @@ The Áelendan of [[place-elavendre|Élavendre]] claim—and with considerable ju
 
 The languages of Pelwar descent share deep structural commonalities and a significant core vocabulary, though centuries of divergence have made most of them mutually unintelligible without study. Speakers of one Pelwar language can sometimes catch fragments of another. The principal surviving Pelwar languages are:
 
-- [[skill-elvndrlng|Áelendi]]—Spoken by the [[lore-aelendnppl|Áelendan]] of central Élavendre. The most conservative member of the family, preserving features lost elsewhere.
-- [[skill-elvndrlng|Élavendri]]—The modern language of [[place-elavendre|Élavendre]], descended directly from Áelendan with simplifications and absorbed outside influences.
-- **Vylari**—The language of the [[affiliation-vylarinmpr|Vylarian Empire]], heavily modified by contact with pre-Pelwar substrate languages.
-- **Nordmal**—The tongue of the northern Nordmen kingdoms.
-- **Varokhi**—Spoken by the Varokh tribes of [[place-vrystwald|Vristwald]], closely related to Nordmal but diverged significantly.
-- **Tarveni**—The language of [[place-tarvenirgn|Tarvénia Region]].
-- **Provenzal**—The refined tongue of [[place-provenzrgn|Provenzia Region]].
+[[skill-elvndrlng|Áelendi]]
+: Spoken by the [[lore-aelendnppl|Áelendan]] of central Élavendre. The most conservative member of the family, preserving features lost elsewhere.
+
+[[skill-elvndrlng|Élavendri]]
+: The modern language of [[place-elavendre|Élavendre]], descended directly from Áelendan with simplifications and absorbed outside influences.
+
+Vylari
+: The language of the [[affiliation-vylarinmpr|Vylarian Empire]], heavily modified by contact with pre-Pelwar substrate languages.
+
+Nordmal
+: The tongue of the northern Nordmen kingdoms.
+
+Varokhi
+: Spoken by the Varokh tribes of [[place-vrystwald|Vristwald]], closely related to Nordmal but diverged significantly.
+
+Tarveni
+: The language of [[place-tarvenirgn|Tarvénia Region]].
+
+Provenzal
+: The refined tongue of [[place-provenzrgn|Provenzia Region]].
 
 ## The Pelwar Peoples Today
 
@@ -91,7 +107,14 @@ The Varokh of Vristwald share Pelwar ancestry with both the Nordmen of the north
 
 ## See Also
 
-- [[skill-elvndrlng|Élavendri Language]]—The Pelwar descendant language with the deepest section on Áelendi and Proto-Pelwar
-- [[lore-aelendnppl|Áelendan]]—The most conservative Pelwar descendants
-- [[place-elavendre|Élavendre]]—Region where Pelwar heritage is most consciously preserved
-- [[place-vrystwald|Vristwald]]—The forest villages of the Varokh tribes
+[[skill-elvndrlng|Élavendri Language]]
+: The Pelwar descendant language with the deepest section on Áelendi and Proto-Pelwar
+
+[[lore-aelendnppl|Áelendan]]
+: The most conservative Pelwar descendants
+
+[[place-elavendre|Élavendre]]
+: Region where Pelwar heritage is most consciously preserved
+
+[[place-vrystwald|Vristwald]]
+: The forest villages of the Varokh tribes

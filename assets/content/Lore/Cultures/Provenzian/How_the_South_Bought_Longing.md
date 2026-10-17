@@ -148,9 +148,20 @@ Good. Now the fire.
 
 ## See Also
 
-- [[affiliation-olvenia|Faith of Ólvenia]]—the Bountiful One, the Golden Harvest and the temples built beside the Wayfarer's
-- [[affiliation-pozeras|Faith of Pozeras]]—the Wayfarer, the spring Blessing and the autumn Arrivals
-- [[affiliation-marendas|Faith of Marendas]]—the Keeper of Sacred Wisdom
-- [[affiliation-sacredforge|The Sacred Forge]]—the Festival of the Hearth, and the flame carried from the temple to every fire
-- [[place-elavendre|Élavendre]]—the north the tongue took its words for light, dream and song from
-- [[skill-provnzlng|Provenzal]]—the tongue of the south, and its loans from the north
+[[affiliation-olvenia|Faith of Ólvenia]]
+: the Bountiful One, the Golden Harvest and the temples built beside the Wayfarer's
+
+[[affiliation-pozeras|Faith of Pozeras]]
+: the Wayfarer, the spring Blessing and the autumn Arrivals
+
+[[affiliation-marendas|Faith of Marendas]]
+: the Keeper of Sacred Wisdom
+
+[[affiliation-sacredforge|The Sacred Forge]]
+: the Festival of the Hearth, and the flame carried from the temple to every fire
+
+[[place-elavendre|Élavendre]]
+: the north the tongue took its words for light, dream and song from
+
+[[skill-provnzlng|Provenzal]]
+: the tongue of the south, and its loans from the north

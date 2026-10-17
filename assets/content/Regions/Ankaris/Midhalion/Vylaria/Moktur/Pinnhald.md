@@ -22,6 +22,11 @@ The people are half-[[lore-varokhiclt|Varokh]]. They speak the border patois and
 
 ## See Also
 
-- [[affiliation-provncmktr|Province of Moktur]]—parent province
-- [[place-moktur|Moktur]]—the land of its forests
-- [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview
+[[affiliation-provncmktr|Province of Moktur]]
+: parent province
+
+[[place-moktur|Moktur]]
+: the land of its forests
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: imperial overview

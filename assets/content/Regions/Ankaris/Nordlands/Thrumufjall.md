@@ -252,7 +252,14 @@ carry the hands reaching backward.
 
 ## See Also
 
-- [[affiliation-ordrstrmspkrs|The Order of the Storm-Speakers]]—the order whose mother-hall stands on the summit
-- [[lore-thrunvalddty|Thrunvald]]—the god whose hov crowns it
-- [[lore-thrunhamarr|Thrúnhamarr]]—the hammer that struck the mountain
-- [[place-nordheim|Nordheim]]—the coast it stands on
+[[affiliation-ordrstrmspkrs|The Order of the Storm-Speakers]]
+: the order whose mother-hall stands on the summit
+
+[[lore-thrunvalddty|Thrunvald]]
+: the god whose hov crowns it
+
+[[lore-thrunhamarr|Thrúnhamarr]]
+: the hammer that struck the mountain
+
+[[place-nordheim|Nordheim]]
+: the coast it stands on

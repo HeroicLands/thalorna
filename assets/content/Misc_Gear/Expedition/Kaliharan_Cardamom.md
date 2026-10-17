@@ -18,6 +18,11 @@ The cardamom is the export that pays for what the ports bring in. Everything tha
 
 ## See Also
 
-- [[affiliation-housefactors|The House of Factors]]—the three families who hold the warehouses
-- [[place-ilovanu|Ilovanu]]—the port where the gourds are loaded
-- [[lore-klhrflora|The Flora of Kalihara]]—the plants the households tend
+[[affiliation-housefactors|The House of Factors]]
+: the three families who hold the warehouses
+
+[[place-ilovanu|Ilovanu]]
+: the port where the gourds are loaded
+
+[[lore-klhrflora|The Flora of Kalihara]]
+: the plants the households tend

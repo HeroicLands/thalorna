@@ -97,8 +97,17 @@ This meritocratic streak makes the Zulen Pirethos simultaneously one of the most
 
 ## See Also
 
-- [[affiliation-hexhodai|Zemor Hodhis]]—The Zemor Hodhis framework
-- [[affiliation-hydalis|Rhezin Hidalis]]—The opposing _rhezin_
-- [[affiliation-zepharis|Rhezin Zefaris]]—Adjacent _rhezin_ (dynamism)
-- [[affiliation-pneumenos|Rhezin Neumenos]]—Adjacent _rhezin_ (intensity)
-- [[affiliation-ordoarcanis|Thordimalon]]—The institution that teaches and regulates Pirethos magic
+[[affiliation-hexhodai|Zemor Hodhis]]
+: The Zemor Hodhis framework
+
+[[affiliation-hydalis|Rhezin Hidalis]]
+: The opposing _rhezin_
+
+[[affiliation-zepharis|Rhezin Zefaris]]
+: Adjacent _rhezin_ (dynamism)
+
+[[affiliation-pneumenos|Rhezin Neumenos]]
+: Adjacent _rhezin_ (intensity)
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: The institution that teaches and regulates Pirethos magic

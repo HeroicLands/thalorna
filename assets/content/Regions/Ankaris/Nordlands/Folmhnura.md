@@ -281,8 +281,17 @@ I go to the yard.
 
 ## See Also
 
-- [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—the grave-ale and its fixed order
-- [[place-nulthey|Nulthey]]—where the Ten's doctrine sends the sickness-dead
-- [[place-solvangrhall|Sólrunsholl]]—the hall whose seating the suit rests on
-- [[lore-nordheimnclt|Nordheimn]]—the reckoning after death, and hall credit
-- [[place-gnarthborg|Gnarthborg]]—the shipyards where it is sung
+[[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]
+: the grave-ale and its fixed order
+
+[[place-nulthey|Nulthey]]
+: where the Ten's doctrine sends the sickness-dead
+
+[[place-solvangrhall|Sólrunsholl]]
+: the hall whose seating the suit rests on
+
+[[lore-nordheimnclt|Nordheimn]]
+: the reckoning after death, and hall credit
+
+[[place-gnarthborg|Gnarthborg]]
+: the shipyards where it is sung

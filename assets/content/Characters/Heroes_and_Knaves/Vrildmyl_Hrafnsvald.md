@@ -443,19 +443,37 @@ Vrildmil is motivated by a desire that no one else should suffer what his family
 
 ### Strengths
 
-- **Agility and Reflexes**: Vrildmil's physical reactions are among the fastest in the militia. He can exploit openings in combat that others cannot perceive quickly enough to use.
-- **Melee Combat Mastery**: His skill with spear and shield is advanced for his age. He has trained obsessively under **Captain Bruldthann** and has extensive real combat experience.
-- **Tactical Flexibility**: Though he lacks the long view of older commanders, Vrildmil adapts rapidly to changing battlefield conditions and thinks creatively about problem-solving.
-- **Inspirational Presence**: Younger militia members naturally follow his lead, and common citizens respond positively to his straightforward manner and evident commitment to their protection.
-- **Quick Learning**: Vrildmil absorbs lessons rapidly, both from training and from field experience. Each encounter teaches him something new, and he integrates those lessons quickly.
+Agility and Reflexes
+: Vrildmil's physical reactions are among the fastest in the militia. He can exploit openings in combat that others cannot perceive quickly enough to use.
+
+Melee Combat Mastery
+: His skill with spear and shield is advanced for his age. He has trained obsessively under **Captain Bruldthann** and has extensive real combat experience.
+
+Tactical Flexibility
+: Though he lacks the long view of older commanders, Vrildmil adapts rapidly to changing battlefield conditions and thinks creatively about problem-solving.
+
+Inspirational Presence
+: Younger militia members naturally follow his lead, and common citizens respond positively to his straightforward manner and evident commitment to their protection.
+
+Quick Learning
+: Vrildmil absorbs lessons rapidly, both from training and from field experience. Each encounter teaches him something new, and he integrates those lessons quickly.
 
 ### Weaknesses
 
-- **Inexperience**: At twenty-nine, Vrildmil has significant combat experience but lacks the decades of perspective that true mastery requires. There are situations he has never encountered and pitfalls he cannot anticipate.
-- **Impulsiveness**: His earnestness sometimes becomes recklessness. He occasionally rushes into dangerous situations without fully considering alternatives or waiting for support.
-- **Limited Strategic Perspective**: While tactically sound in immediate situations, Vrildmil sometimes misses the larger consequences of his actions. He can be manipulated by those with longer-term designs.
-- **Naiveté about Politics**: Vrildmil tends to trust authority and has limited understanding of the political maneuvering that occurs at higher levels. He could be used as a pawn by ambitious nobles.
-- **Emotional Investment**: His care for the people he protects sometimes clouds judgment. He may take risks to save individuals that endanger larger objectives.
+Inexperience
+: At twenty-nine, Vrildmil has significant combat experience but lacks the decades of perspective that true mastery requires. There are situations he has never encountered and pitfalls he cannot anticipate.
+
+Impulsiveness
+: His earnestness sometimes becomes recklessness. He occasionally rushes into dangerous situations without fully considering alternatives or waiting for support.
+
+Limited Strategic Perspective
+: While tactically sound in immediate situations, Vrildmil sometimes misses the larger consequences of his actions. He can be manipulated by those with longer-term designs.
+
+Naiveté about Politics
+: Vrildmil tends to trust authority and has limited understanding of the political maneuvering that occurs at higher levels. He could be used as a pawn by ambitious nobles.
+
+Emotional Investment
+: His care for the people he protects sometimes clouds judgment. He may take risks to save individuals that endanger larger objectives.
 
 ## Social
 
@@ -497,12 +515,17 @@ The Followers of Eidgar
 
 ## Plot Hooks
 
-1. **The Coordinated Threat**: Vrildmil's investigations into bandit activity begin revealing patterns that suggest the raids are coordinated by a larger force—possibly a noble house, a religious faction, or something darker. **Captain Bruldthann** dismisses his concerns, but Vrildmil's evidence becomes increasingly difficult to ignore. Pursuing the truth might require him to act against his commander or to discover that superiors are complicit in what he has been investigating.
+The Coordinated Threat
+: Vrildmil's investigations into bandit activity begin revealing patterns that suggest the raids are coordinated by a larger force—possibly a noble house, a religious faction, or something darker. **Captain Bruldthann** dismisses his concerns, but Vrildmil's evidence becomes increasingly difficult to ignore. Pursuing the truth might require him to act against his commander or to discover that superiors are complicit in what he has been investigating.
 
-2. **The Impossible Choice**: A village under Vrildmil's protection is attacked by the **Crimson Raiders**, but at the same time a militia outpost requires urgent reinforcement. Vrildmil cannot save both. Whatever choice he makes will result in significant loss, and the decision haunts him. The experience forces him to confront the limits of individual heroism and to accept that sometimes good people die despite his best efforts.
+The Impossible Choice
+: A village under Vrildmil's protection is attacked by the **Crimson Raiders**, but at the same time a militia outpost requires urgent reinforcement. Vrildmil cannot save both. Whatever choice he makes will result in significant loss, and the decision haunts him. The experience forces him to confront the limits of individual heroism and to accept that sometimes good people die despite his best efforts.
 
-3. **The Recruitment**: An organization of mysterious power and resources approaches Vrildmil, claiming to be conducting a secret war against forces he has only partially perceived. They offer him resources, advanced training, and answers to questions he has been asking. The catch: joining would require operating outside militia authority and potentially deceiving **Captain Bruldthann**. Vrildmil must assess whether the group's claims are legitimate or if he is being recruited for purposes he does not understand.
+The Recruitment
+: An organization of mysterious power and resources approaches Vrildmil, claiming to be conducting a secret war against forces he has only partially perceived. They offer him resources, advanced training, and answers to questions he has been asking. The catch: joining would require operating outside militia authority and potentially deceiving **Captain Bruldthann**. Vrildmil must assess whether the group's claims are legitimate or if he is being recruited for purposes he does not understand.
 
-4. **The Succession Crisis**: **Captain Bruldthann** suffers a serious injury, forcing him to consider retirement. Vrildmil and another ambitious younger officer are both candidates to replace him. The promotion decision becomes embroiled in political considerations beyond either candidate's control. Vrildmil must play politics while remaining true to his principles, and must ask himself whether he wants leadership badly enough to compromise his ideals.
+The Succession Crisis
+: **Captain Bruldthann** suffers a serious injury, forcing him to consider retirement. Vrildmil and another ambitious younger officer are both candidates to replace him. The promotion decision becomes embroiled in political considerations beyond either candidate's control. Vrildmil must play politics while remaining true to his principles, and must ask himself whether he wants leadership badly enough to compromise his ideals.
 
-5. **The Dark Revelation**: Vrildmil discovers that his mother's death—which he believed to be the tragic result of a random bandit raid—was actually orchestrated by powerful interests as part of a larger scheme. His family's farm sat on land someone wanted, and the raid was no accident. The knowledge that his mother's death was deliberate, and that his father's absence was exploited by those who planned it, transforms Vrildmil's motivation from abstract idealism to personal vengeance. He must struggle to channel that rage toward justice rather than revenge—and must weigh whether to tell [[being-dvrnvrhrfnsvld|Dvarnvir]] the truth, knowing the guilt might destroy his father entirely.
+The Dark Revelation
+: Vrildmil discovers that his mother's death—which he believed to be the tragic result of a random bandit raid—was actually orchestrated by powerful interests as part of a larger scheme. His family's farm sat on land someone wanted, and the raid was no accident. The knowledge that his mother's death was deliberate, and that his father's absence was exploited by those who planned it, transforms Vrildmil's motivation from abstract idealism to personal vengeance. He must struggle to channel that rage toward justice rather than revenge—and must weigh whether to tell [[being-dvrnvrhrfnsvld|Dvarnvir]] the truth, knowing the guilt might destroy his father entirely.

@@ -469,19 +469,37 @@ More personally, he seeks to leave a legacy of trained sailors and officers who 
 
 ### Strengths
 
-- **Crew Mastery**: Has an unequaled ability to read a crew, assess individual capabilities, and organize people into cohesive, effective units that function even under extreme stress.
-- **Deck Expertise**: Thorough knowledge of every aspect of sailing, ship maintenance, and the working of a ship. Can diagnose problems and set them right with minimal consultation.
-- **Crisis Management**: In emergency situations, his calm clarity and immediate grasp of priorities make him indispensable. When disaster strikes, people instinctively look to him for direction.
-- **Training and Mentoring**: Can take green sailors and transform them into competent seamen through rigorous but fair training suited to each one's capability.
-- **Authority Without Coercion**: Commands respect and obedience not through threats but through demonstrated competence and consistent follow-through on his word.
+Crew Mastery
+: Has an unequaled ability to read a crew, assess individual capabilities, and organize people into cohesive, effective units that function even under extreme stress.
+
+Deck Expertise
+: Thorough knowledge of every aspect of sailing, ship maintenance, and the working of a ship. Can diagnose problems and set them right with minimal consultation.
+
+Crisis Management
+: In emergency situations, his calm clarity and immediate grasp of priorities make him indispensable. When disaster strikes, people instinctively look to him for direction.
+
+Training and Mentoring
+: Can take green sailors and transform them into competent seamen through rigorous but fair training suited to each one's capability.
+
+Authority Without Coercion
+: Commands respect and obedience not through threats but through demonstrated competence and consistent follow-through on his word.
 
 ### Weaknesses
 
-- **Resistance to Change**: His preference for proven methods sometimes blinds him to worthwhile new methods that could improve speed or safety, creating friction with captains eager for them.
-- **Interpersonal Rigidity**: His manner of speech, while effective for command, can come across as harsh or dismissive to those expecting more warmth or diplomacy.
-- **Limited Flexibility**: His adherence to standards and procedures can become problematic when circumstances truly require deviation or improvisation outside established practice.
-- **Age and Injury**: While still vigorous, he has accumulated various injuries over his decades at sea—creaky joints, old breaks, hearing loss—that occasionally limit his physical capability and make him acutely aware of his mortality.
-- **Vulnerability to Loyalty**: His strong bonds with crew members and captains can lead him into situations that conflict with his better judgment, particularly when someone he respects asks him to bend his principles.
+Resistance to Change
+: His preference for proven methods sometimes blinds him to worthwhile new methods that could improve speed or safety, creating friction with captains eager for them.
+
+Interpersonal Rigidity
+: His manner of speech, while effective for command, can come across as harsh or dismissive to those expecting more warmth or diplomacy.
+
+Limited Flexibility
+: His adherence to standards and procedures can become problematic when circumstances truly require deviation or improvisation outside established practice.
+
+Age and Injury
+: While still vigorous, he has accumulated various injuries over his decades at sea—creaky joints, old breaks, hearing loss—that occasionally limit his physical capability and make him acutely aware of his mortality.
+
+Vulnerability to Loyalty
+: His strong bonds with crew members and captains can lead him into situations that conflict with his better judgment, particularly when someone he respects asks him to bend his principles.
 
 ## Social
 
@@ -517,12 +535,17 @@ The Order of Mariners
 
 ## Plot Hooks
 
-1. **The Failed Innovation**: Senapavi is hired for a voyage aboard a vessel equipped with a novel rigging design meant to increase speed and reduce the hands needed. The captain is enthusiastic, the crew is eager, and the promised payment is generous. However, Senapavi quickly identifies critical flaws in the design that he believes make the ship dangerous, particularly in rough seas. The captain dismisses his concerns, insisting that the designer's calculations are sound and Senapavi is merely afraid of anything new. Senapavi can resign on principle, accept the risk and try to manage it, or force changes to the design that might make him appear an obstructionist while saving lives.
+The Failed Innovation
+: Senapavi is hired for a voyage aboard a vessel equipped with a novel rigging design meant to increase speed and reduce the hands needed. The captain is enthusiastic, the crew is eager, and the promised payment is generous. However, Senapavi quickly identifies critical flaws in the design that he believes make the ship dangerous, particularly in rough seas. The captain dismisses his concerns, insisting that the designer's calculations are sound and Senapavi is merely afraid of anything new. Senapavi can resign on principle, accept the risk and try to manage it, or force changes to the design that might make him appear an obstructionist while saving lives.
 
-2. **The Captaincy Offer**: A wealthy merchant approaches Senapavi with an unprecedented offer: command of his own vessel, with full authority over crew and operations, backed by substantial resources. This is the dream Senapavi has supposedly held throughout his working life—autonomy, authority, and the ability to carry out his vision of maritime excellence in full. However, accepting means leaving the mentoring role he has come to cherish and assuming administrative responsibilities that do not suit his temperament. The choice is between what he thought he wanted and what he has discovered he actually needs.
+The Captaincy Offer
+: A wealthy merchant approaches Senapavi with an unprecedented offer: command of his own vessel, with full authority over crew and operations, backed by substantial resources. This is the dream Senapavi has supposedly held throughout his working life—autonomy, authority, and the ability to carry out his vision of maritime excellence in full. However, accepting means leaving the mentoring role he has come to cherish and assuming administrative responsibilities that do not suit his temperament. The choice is between what he thought he wanted and what he has discovered he actually needs.
 
-3. **The Corrupt Captain's Loyalty**: Senapavi is hired as bosun aboard a merchant vessel and gradually discovers that the captain is involved in piracy and trafficking, using merchant voyages as cover for his crimes. Several crew members under Senapavi's care are being exploited or coerced into participation. Senapavi is trapped between his loyalty to crew members (including some he has trained in previous years) and his fundamental principles against lawlessness. He can report the captain and break up the operation, try to protect and extract the exploited crew members, or let the exploitation continue.
+The Corrupt Captain's Loyalty
+: Senapavi is hired as bosun aboard a merchant vessel and gradually discovers that the captain is involved in piracy and trafficking, using merchant voyages as cover for his crimes. Several crew members under Senapavi's care are being exploited or coerced into participation. Senapavi is trapped between his loyalty to crew members (including some he has trained in previous years) and his fundamental principles against lawlessness. He can report the captain and break up the operation, try to protect and extract the exploited crew members, or let the exploitation continue.
 
-4. **The Generational Clash**: A young, brilliant sailor—perhaps the most talented Senapavi has trained in years—comes to him with a revolutionary idea for restructuring the crew's chain of command and how decisions are made in ways that Senapavi believes would undermine discipline. However, the sailor presents evidence that the new approach could improve both the work and the crew's morale by listening to what they know. Senapavi faces the possibility that his absolute standards are obstacles rather than advantages, and that excellence might look different from the way he has always practiced it.
+The Generational Clash
+: A young, brilliant sailor—perhaps the most talented Senapavi has trained in years—comes to him with a revolutionary idea for restructuring the crew's chain of command and how decisions are made in ways that Senapavi believes would undermine discipline. However, the sailor presents evidence that the new approach could improve both the work and the crew's morale by listening to what they know. Senapavi faces the possibility that his absolute standards are obstacles rather than advantages, and that excellence might look different from the way he has always practiced it.
 
-5. **The Rescue Refusal**: Senapavi's ship encounters another vessel in distress—likely sinking, crew in mortal danger. However, assisting would involve significant risk to Senapavi's own ship and crew, and the vessel in distress appears to belong to Captain Darmeja, Senapavi's old enemy. The captain gives Senapavi the option: attempt a dangerous rescue or proceed safely onward. Senapavi has to weigh the brotherhood of the sea against his personal enmities.
+The Rescue Refusal
+: Senapavi's ship encounters another vessel in distress—likely sinking, crew in mortal danger. However, assisting would involve significant risk to Senapavi's own ship and crew, and the vessel in distress appears to belong to Captain Darmeja, Senapavi's old enemy. The captain gives Senapavi the option: attempt a dangerous rescue or proceed safely onward. Senapavi has to weigh the brotherhood of the sea against his personal enmities.

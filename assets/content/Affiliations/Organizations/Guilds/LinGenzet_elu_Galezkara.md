@@ -60,5 +60,8 @@ Say you owe a debt and are sued for it. You go to the roster, choose an advocate
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The city whose courts its advocates serve
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-galezkara|Galezkara]]
+: The city whose courts its advocates serve
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

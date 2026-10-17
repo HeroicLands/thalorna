@@ -54,7 +54,14 @@ Independent operators such as [[affiliation-thetamzir|The Tamzir]] live in a gra
 
 ## See Also
 
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the parent polity
-- [[affiliation-auricompct|Auric Compact]], [[affiliation-mrchntryvl|Merchantry of the Veil]]—the rival guilds
-- [[affiliation-yamuzel|Yamuzel]]—the headquarters
-- [[place-tamzirshoals|Tamzir Shoals]]—the battle its founders won
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the parent polity
+
+[[affiliation-auricompct|Auric Compact]], [[affiliation-mrchntryvl|Merchantry of the Veil]]
+: the rival guilds
+
+[[affiliation-yamuzel|Yamuzel]]
+: the headquarters
+
+[[place-tamzirshoals|Tamzir Shoals]]
+: the battle its founders won

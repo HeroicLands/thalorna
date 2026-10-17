@@ -31,16 +31,28 @@ Magic in Tantsou belongs to the Wánduo and to no one else. A person of any othe
 
 The [[lore-castelaws|Caste Laws]] protect the sorcerer as a treasure is protected:
 
-- **Protection**: a Wánduo's life is worth more in law than that of any caste below the Zhazho, and harming one is an offense against its owner and the throne.
-- **Magic**: the sole right to perform the rites, craft artifacts and give arcane counsel.
-- **Latitude**: within the task he is set, a Wánduo chooses his own methods, and his owner does not instruct him in his art.
+Protection
+: a Wánduo's life is worth more in law than that of any caste below the Zhazho, and harming one is an offense against its owner and the throne.
+
+Magic
+: the sole right to perform the rites, craft artifacts and give arcane counsel.
+
+Latitude
+: within the task he is set, a Wánduo chooses his own methods, and his owner does not instruct him in his art.
 
 And they bind him as property is bound:
 
-- **Bondage**: he belongs to his Zhazho owner and may not leave the estate without leave.
-- **Obedience**: disobedience is punished by death or by the permanent severing of his power, and the Wánduo count the second worse.
-- **No marriage**: Wánduo may lie together only with their owner's consent, and their children belong to the owner from birth.
-- **No property**: everything he makes or is given is his owner's.
+Bondage
+: he belongs to his Zhazho owner and may not leave the estate without leave.
+
+Obedience
+: disobedience is punished by death or by the permanent severing of his power, and the Wánduo count the second worse.
+
+No marriage
+: Wánduo may lie together only with their owner's consent, and their children belong to the owner from birth.
+
+No property
+: everything he makes or is given is his owner's.
 
 ## Sorcerers in Rebellion
 
@@ -52,9 +64,20 @@ No [[lore-flksinale|Sinalo]] or [[lore-flkkhazar|Khazár]] is ever classified W�
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]]—the testing of children and the magical monopoly
-- [[lore-zhazho|Zhazho]]—the owners the Wánduo serve
-- [[lore-wohou|Wohou]]—the warrior nobility, the caste below
-- [[lore-nouwen|Nouwén]]—the farmers who raise the children the testing does not keep
-- [[lore-tseising|Law and Honor]]—the penalties that enforce the monopoly
-- [[affiliation-tantsouempr|Empire of Tantsou]]—overview of imperial structure and governance
+[[lore-castelaws|Caste Laws]]
+: the testing of children and the magical monopoly
+
+[[lore-zhazho|Zhazho]]
+: the owners the Wánduo serve
+
+[[lore-wohou|Wohou]]
+: the warrior nobility, the caste below
+
+[[lore-nouwen|Nouwén]]
+: the farmers who raise the children the testing does not keep
+
+[[lore-tseising|Law and Honor]]
+: the penalties that enforce the monopoly
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: overview of imperial structure and governance

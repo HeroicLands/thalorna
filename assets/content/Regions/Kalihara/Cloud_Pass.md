@@ -38,7 +38,14 @@ From the last coastal valley the climb to the crest takes two days and the desce
 
 ## See Also
 
-- [[place-klhrring|The Ring]]—the mountains the pass crosses
-- [[place-klhrestrrc|The Eastern Terraces]]—the country at the foot of the inner face
-- [[place-ilovanu|Ilovanu]]—the port below the outer face
-- [[place-klhrwstsddl|The Western Saddle]], [[place-klhrsthstr|the Southern Stair]] and [[place-klhrkthrgap|the Kuethori Gap]]—the other ways through the Ring
+[[place-klhrring|The Ring]]
+: the mountains the pass crosses
+
+[[place-klhrestrrc|The Eastern Terraces]]
+: the country at the foot of the inner face
+
+[[place-ilovanu|Ilovanu]]
+: the port below the outer face
+
+[[place-klhrwstsddl|The Western Saddle]], [[place-klhrsthstr|the Southern Stair]] and [[place-klhrkthrgap|the Kuethori Gap]]
+: the other ways through the Ring

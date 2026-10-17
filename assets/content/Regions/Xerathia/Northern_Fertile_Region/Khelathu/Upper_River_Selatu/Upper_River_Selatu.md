@@ -123,8 +123,17 @@ The Upper River Selatu use the [[lore-aukhlthcrncy|Au'Khelathu currency]], but m
 
 ## See Also
 
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the empire
-- [[affiliation-deltaselatu|The Delta Selatu]], [[affiliation-borderselatu|The Border Selatu]], [[affiliation-capitalselat|The Capital Selat]]—the other classes of selat
-- [[place-zumeleshrvr|The Zumelesh]]—the river that floods these fields
-- [[place-zelgeru|The Zelgeru]]—the great temple-estates
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the gods · [[skill-khelathlng|Khelathi Language]]—naming
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: the empire
+
+[[affiliation-deltaselatu|The Delta Selatu]], [[affiliation-borderselatu|The Border Selatu]], [[affiliation-capitalselat|The Capital Selat]]
+: the other classes of selat
+
+[[place-zumeleshrvr|The Zumelesh]]
+: the river that floods these fields
+
+[[place-zelgeru|The Zelgeru]]
+: the great temple-estates
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: the gods · [[skill-khelathlng|Khelathi Language]]—naming

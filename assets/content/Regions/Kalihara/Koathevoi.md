@@ -37,7 +37,14 @@ The town is a day along the shore from [[place-ithorianu|Ithorianu]] by the path
 
 ## See Also
 
-- [[place-klhrestrrc|The Eastern Terraces]]—the country the town holds
-- [[place-klhrkthrgap|The Kuethori Gap]]—where the lake runs out
-- [[place-mirthaan|Mirthaan]]—the sanctuary of the valley
-- [[place-ithorianu|Ithorianu]]—the lake-shore town to the north
+[[place-klhrestrrc|The Eastern Terraces]]
+: the country the town holds
+
+[[place-klhrkthrgap|The Kuethori Gap]]
+: where the lake runs out
+
+[[place-mirthaan|Mirthaan]]
+: the sanctuary of the valley
+
+[[place-ithorianu|Ithorianu]]
+: the lake-shore town to the north

@@ -40,7 +40,14 @@ The approach is the hardest of the four source-pilgrimages. The last two days ar
 
 ## See Also
 
-- [[place-sarvaprbhv|Sarvaprabhava]]—the spring it stands on
-- [[affiliation-vyalendra|Vyalendra]]—the Shaper of Worlds, whose temple it is
-- [[place-sarvadarivr|The Sarveda]]—the river that begins here
-- [[place-sthrnwall|The Southern Wall]]—the escarpment above it
+[[place-sarvaprbhv|Sarvaprabhava]]
+: the spring it stands on
+
+[[affiliation-vyalendra|Vyalendra]]
+: the Shaper of Worlds, whose temple it is
+
+[[place-sarvadarivr|The Sarveda]]
+: the river that begins here
+
+[[place-sthrnwall|The Southern Wall]]
+: the escarpment above it

@@ -22,5 +22,8 @@ An estate steward from the interior, sent to Ashenmere with a wagon of tenants' 
 
 ## See Also
 
-- [[place-hylen|Hilen]]—the land the town stands in
-- [[affiliation-provnchyln|Province of Hilen]]—the province that holds it
+[[place-hylen|Hilen]]
+: the land the town stands in
+
+[[affiliation-provnchyln|Province of Hilen]]
+: the province that holds it

@@ -43,7 +43,14 @@ The temple's senior priest is one of the three who sit as the **Council of Three
 
 ## See Also
 
-- [[place-chandrprbh|Chandraprabhava]]—the spring the temple stands beside
-- [[place-suryashkhr|Suryashikhara]]—the peak above it
-- [[lore-mdhvndrcnt|The Madustana count]]—the year it declares
-- [[affiliation-trimurtisampradaya|Triyanga-sampradeya]]—the sect that keeps it
+[[place-chandrprbh|Chandraprabhava]]
+: the spring the temple stands beside
+
+[[place-suryashkhr|Suryashikhara]]
+: the peak above it
+
+[[lore-mdhvndrcnt|The Madustana count]]
+: the year it declares
+
+[[affiliation-trimurtisampradaya|Triyanga-sampradeya]]
+: the sect that keeps it

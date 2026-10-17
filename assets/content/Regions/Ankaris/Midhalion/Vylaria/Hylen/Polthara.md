@@ -22,5 +22,8 @@ That is the whole of Polthara's work: it is where the estate country's produce i
 
 ## See Also
 
-- [[place-hylen|Hilen]]—the land the town stands in
-- [[affiliation-provnchyln|Province of Hilen]]—the province that holds it
+[[place-hylen|Hilen]]
+: the land the town stands in
+
+[[affiliation-provnchyln|Province of Hilen]]
+: the province that holds it

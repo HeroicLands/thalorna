@@ -38,8 +38,17 @@ An exile house at Amradad has hired a party to find the passage to its ancestral
 
 ## See Also
 
-- [[place-graznmntns|The Grazian Mountains]]—the range it climbs into
-- [[place-wstrndscnt|The Western Descent]]—the other road the houses say they came down
-- [[being-crglrkr|Crag Lurker]]—the ceiling-hunter of the upper passages
-- [[being-glmhnd|Gloomhound]]—the hunter at the edge of the light
-- [[lore-comingdown|The Coming Down]]—the foundation legend, and the roll of the seven peaks
+[[place-graznmntns|The Grazian Mountains]]
+: the range it climbs into
+
+[[place-wstrndscnt|The Western Descent]]
+: the other road the houses say they came down
+
+[[being-crglrkr|Crag Lurker]]
+: the ceiling-hunter of the upper passages
+
+[[being-glmhnd|Gloomhound]]
+: the hunter at the edge of the light
+
+[[lore-comingdown|The Coming Down]]
+: the foundation legend, and the roll of the seven peaks

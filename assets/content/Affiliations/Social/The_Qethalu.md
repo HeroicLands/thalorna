@@ -46,4 +46,5 @@ A young priest who joins the Qethalu takes on no business and no fortune. He tak
 
 ## See Also
 
-- [[affiliation-lutqearet|Lut-Qe'aret]]—the temple they serve
+[[affiliation-lutqearet|Lut-Qe'aret]]
+: the temple they serve

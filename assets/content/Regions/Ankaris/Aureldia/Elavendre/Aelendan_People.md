@@ -7,10 +7,17 @@ description: "Mountain dwellers who preserve the ancestral Pelwar ways and hold 
 data: {packFolder: elavendre, culture: sinaleclt}
 ---
 
-- **Parent realm:** [[place-elavendre|Élavendre]]
-- **Related peoples:** [[lore-pelwarpepl|Pelwar People]] (ancestral), [[lore-flksinale|Sinale]] (neighbors)
-- **Language:** [[skill-aelendlng|Áelendi]]
-- **Pantheon:** [[affiliation-firstgods|The First Gods]] (via [[affiliation-theoldway|the Old Way]]; with strong fae/nature spirit traditions)
+Parent realm
+: [[place-elavendre|Élavendre]]
+
+Related peoples
+: [[lore-pelwarpepl|Pelwar People]] (ancestral), [[lore-flksinale|Sinale]] (neighbors)
+
+Language
+: [[skill-aelendlng|Áelendi]]
+
+Pantheon
+: [[affiliation-firstgods|The First Gods]] (via [[affiliation-theoldway|the Old Way]]; with strong fae/nature spirit traditions)
 
 The **Áelendan People**—also known as the **People of the Pact**—are a sub-people of [[place-elavendre|Élavendre]], the ancestor tribes of the [[lore-elavendrnppl|Élavendren People]] who never settled into the kingdom's cities and who have maintained the old ways since before the founding of the monarchy. They live in the mountainous interior of Élavendre, organized in tribal communities that follow traditions stretching back to the earliest [[lore-pelwarpepl|Pelwar People]] settlement of the region. They eschew the modern cities and the ways of the kingdom, living close to the land as their forebears did.
 
@@ -36,16 +43,24 @@ The Áelendan maintain a uniquely close neighborly relationship with the enclave
 
 ## Institutions
 
-- The [[affiliation-alndnwrdns|Áelendan Wardens]]—An ancient order tasked with protecting the sacred sites of the mountains and deep forests, particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior.
-- **Council of Elders**—The local governing bodies of each Áelendan tribe, composed of recognized elders from the community's leading families and lineages.
-- **Tradition Keepers**—Specialist memorizers who hold the unwritten Kindred Pact, the tribal songs, and the genealogies. Training to become a Tradition Keeper begins in childhood and continues across decades.
+The [[affiliation-alndnwrdns|Áelendan Wardens]]
+: An ancient order tasked with protecting the sacred sites of the mountains and deep forests, particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior.
+
+Council of Elders
+: The local governing bodies of each Áelendan tribe, composed of recognized elders from the community's leading families and lineages.
+
+Tradition Keepers
+: Specialist memorizers who hold the unwritten Kindred Pact, the tribal songs, and the genealogies. Training to become a Tradition Keeper begins in childhood and continues across decades.
 
 ## Territories
 
 Áelendan territory encompasses the mountainous interior of Élavendre, with particular concentration around sites sacred to the Kindred Pact:
 
-- [[place-drenavrspn|The Drenavar Spine]]—Sacred mountain range at the heart of Áelendan territory
-- [[place-eshalshldg|Ésalosa Lodge]]—The principal Áelendan settlement, a ceremonial and political center
+[[place-drenavrspn|The Drenavar Spine]]
+: Sacred mountain range at the heart of Áelendan territory
+
+[[place-eshalshldg|Ésalosa Lodge]]
+: The principal Áelendan settlement, a ceremonial and political center
 
 ## The Order
 
@@ -70,9 +85,20 @@ records of the northern interior are notably thin on what became of several of t
 
 ## See Also
 
-- [[place-elavendre|Élavendre]]—The kingdom within which Áelendan territory lies
-- [[skill-aelendlng|Áelendi]]—The ancestral Pelwar tongue of the Áelendan
-- [[lore-pelwarpepl|Pelwar People]]—The ancestral people from whom the Áelendan descend
-- [[affiliation-alndnwrdns|Áelendan Wardens]]—The order that protects sacred sites
-- [[lore-flksinale|Sinale]]—The elder race with whom the Áelendan maintain neighborly relations
-- [[lore-theasking|The Asking]]—The Sinalean lay of the Pelwar band, held by the Tradition Keepers
+[[place-elavendre|Élavendre]]
+: The kingdom within which Áelendan territory lies
+
+[[skill-aelendlng|Áelendi]]
+: The ancestral Pelwar tongue of the Áelendan
+
+[[lore-pelwarpepl|Pelwar People]]
+: The ancestral people from whom the Áelendan descend
+
+[[affiliation-alndnwrdns|Áelendan Wardens]]
+: The order that protects sacred sites
+
+[[lore-flksinale|Sinale]]
+: The elder race with whom the Áelendan maintain neighborly relations
+
+[[lore-theasking|The Asking]]
+: The Sinalean lay of the Pelwar band, held by the Tradition Keepers

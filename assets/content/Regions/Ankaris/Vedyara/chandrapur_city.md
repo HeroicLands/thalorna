@@ -50,9 +50,20 @@ A stone stair a quarter-mile long runs the whole of the city's river face, and t
 
 ## See Also
 
-- [[affiliation-chandrapur|Chendrapur]]—the city-state this city is the capital of
-- [[place-chandrapurland|Chendrapur Land]]—the land
-- [[place-chandrmukha|Chandramukha]]—the port at the river's mouth
-- [[place-chandrmahi|The Chandramahi]]—the river
-- [[place-lowercourses|The lower courses of Chendrapur]]—the older city under this one
-- [[lore-moonsettle|The Moon House Settlement]]—how the Nine Houses took their seats
+[[affiliation-chandrapur|Chendrapur]]
+: the city-state this city is the capital of
+
+[[place-chandrapurland|Chendrapur Land]]
+: the land
+
+[[place-chandrmukha|Chandramukha]]
+: the port at the river's mouth
+
+[[place-chandrmahi|The Chandramahi]]
+: the river
+
+[[place-lowercourses|The lower courses of Chendrapur]]
+: the older city under this one
+
+[[lore-moonsettle|The Moon House Settlement]]
+: how the Nine Houses took their seats

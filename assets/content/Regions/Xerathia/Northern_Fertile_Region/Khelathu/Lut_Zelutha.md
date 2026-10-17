@@ -14,5 +14,8 @@ Astrologers tell the story of **Lut-Zelutha** the way a teacher tells a lesson w
 
 ## See Also
 
-- [[place-lareshu|Lareshu]]—the waste of sand that holds it
-- [[place-anlaghura|Anlaghura]]—the monolith where the prophecy's road begins
+[[place-lareshu|Lareshu]]
+: the waste of sand that holds it
+
+[[place-anlaghura|Anlaghura]]
+: the monolith where the prophecy's road begins

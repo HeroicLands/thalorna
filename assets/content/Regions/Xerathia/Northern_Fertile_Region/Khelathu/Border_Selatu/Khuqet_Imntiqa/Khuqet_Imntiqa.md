@@ -25,11 +25,19 @@ Cross it with a caravan and you measure the country in forts rather than village
 
 ## Settlements
 
-- [[place-khuqet|Khuqet]] (~12,000)—the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-uqaadty|Uqa'a]].
-- The villages and estate-towns: a few hundred to a few thousand people each, clustered on the ground the water reaches and on the temple estates.
+[[place-khuqet|Khuqet]] (~12,000)
+: the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-uqaadty|Uqa'a]].
+
+The villages and estate-towns
+: a few hundred to a few thousand people each, clustered on the ground the water reaches and on the temple estates.
 
 ## See Also
 
-- [[affiliation-seltkhqtmntq|The Selat of Khuqet-Imntiqa]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-khuqet|Khuqet]]—Selat capital
+[[affiliation-seltkhqtmntq|The Selat of Khuqet-Imntiqa]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-khuqet|Khuqet]]
+: Selat capital

@@ -455,19 +455,37 @@ Svulthira seeks only to live with integrity in a world that grows increasingly d
 
 ### Strengths
 
-- **Master Trapper**: Possesses rare skill in creating snares, traps, and pitfalls that work through understanding the prey's habits rather than mere mechanical force; nearly all her traps succeed without causing unnecessary suffering
-- **Wilderness Mastery**: Can find her way, survive, and thrive in wild places where others perish; reads weather, animal behavior, and environmental signs with near-mystical precision
-- **Herbal Knowledge**: Possesses extensive understanding of plant lore, medicinal herbs, and their applications; could rival many healers in specific domains of botanical knowledge
-- **Ethical Hunting**: When killing is necessary, accomplishes it with minimal suffering and maximum respect; can process game animals completely, wasting no usable portion
-- **Perceptive Wisdom**: Demonstrates unusual insight into moral and philosophical questions; conversations with her often leave others with surprising clarity about complex issues
+Master Trapper
+: Possesses rare skill in creating snares, traps, and pitfalls that work through understanding the prey's habits rather than mere mechanical force; nearly all her traps succeed without causing unnecessary suffering
+
+Wilderness Mastery
+: Can find her way, survive, and thrive in wild places where others perish; reads weather, animal behavior, and environmental signs with near-mystical precision
+
+Herbal Knowledge
+: Possesses extensive understanding of plant lore, medicinal herbs, and their applications; could rival many healers in specific domains of botanical knowledge
+
+Ethical Hunting
+: When killing is necessary, accomplishes it with minimal suffering and maximum respect; can process game animals completely, wasting no usable portion
+
+Perceptive Wisdom
+: Demonstrates unusual insight into moral and philosophical questions; conversations with her often leave others with surprising clarity about complex issues
 
 ### Weaknesses
 
-- **Excessive Compassion**: Her increasing reluctance to kill has begun to undermine her effectiveness as a trapper; major contracts sometimes go unfulfilled because she cannot overcome moral resistance
-- **Social Dysfunction**: Severely uncomfortable in civilized settings; struggles with basic courtesies and often comes across as hostile when she merely feels anxious
-- **Communication Difficulty**: Expresses herself poorly in words; struggles to articulate complex thoughts verbally and tends toward monosyllabic responses that frustrate conversation
-- **Moral Paralysis**: Her increasing philosophical opposition to killing has created a paralyzing conflict with her livelihood; unable to reconcile earning her bread with her emerging conscience
-- **Isolation Dependency**: Thrives only in solitude; relationships are very difficult for her, and long spells around other people leave her visibly distressed
+Excessive Compassion
+: Her increasing reluctance to kill has begun to undermine her effectiveness as a trapper; major contracts sometimes go unfulfilled because she cannot overcome moral resistance
+
+Social Dysfunction
+: Severely uncomfortable in civilized settings; struggles with basic courtesies and often comes across as hostile when she merely feels anxious
+
+Communication Difficulty
+: Expresses herself poorly in words; struggles to articulate complex thoughts verbally and tends toward monosyllabic responses that frustrate conversation
+
+Moral Paralysis
+: Her increasing philosophical opposition to killing has created a paralyzing conflict with her livelihood; unable to reconcile earning her bread with her emerging conscience
+
+Isolation Dependency
+: Thrives only in solitude; relationships are very difficult for her, and long spells around other people leave her visibly distressed
 
 ## Social
 
@@ -500,12 +518,17 @@ The Frodvin's Circle
 
 ## Plot Hooks
 
-1. **The Illegal Hunt**: Svulthira discovers that Duke Skalforv has contracted poachers working under the command of Merchant Jorvik to slaughter entire herds of the rare silver elk—creatures that appear in Nordheim's territories only once per decade—in order to eliminate her competitive advantage and her trapping livelihood simultaneously. The slaughter is beginning, and Svulthira can respond with force, intervene covertly, or accept the loss as part of a changing world.
+The Illegal Hunt
+: Svulthira discovers that Duke Skalforv has contracted poachers working under the command of Merchant Jorvik to slaughter entire herds of the rare silver elk—creatures that appear in Nordheim's territories only once per decade—in order to eliminate her competitive advantage and her trapping livelihood simultaneously. The slaughter is beginning, and Svulthira can respond with force, intervene covertly, or accept the loss as part of a changing world.
 
-2. **The Sacred Sanctuary**: A mysterious priestess of the old faith, representing an ancient order dedicated to preserving wild places, approaches Svulthira with a revelation: she is the reincarnation of the order's founder, a trapper of legend named **Solvi the Wildborn** (her father's name is no coincidence). The order wishes to recruit her as a guardian of a hidden sanctuary—a place of extraordinary biodiversity and spiritual power that must be protected from exploitation. Accepting means abandoning her current life and dedicating herself entirely to this new purpose.
+The Sacred Sanctuary
+: A mysterious priestess of the old faith, representing an ancient order dedicated to preserving wild places, approaches Svulthira with a revelation: she is the reincarnation of the order's founder, a trapper of legend named **Solvi the Wildborn** (her father's name is no coincidence). The order wishes to recruit her as a guardian of a hidden sanctuary—a place of extraordinary biodiversity and spiritual power that must be protected from exploitation. Accepting means abandoning her current life and dedicating herself entirely to this new purpose.
 
-3. **The Fur Merchant's Fall**: Harvin Hvarnumak, Svulthira's longtime patron, approaches her with a request born of desperation. His business is failing due to competition from Merchant Jorvik, and he has fallen into debt with dangerous people. He asks Svulthira to deliver an enormous, unsustainable harvest within a short timeframe—a request that directly contradicts her emerging conscience. He promises it will be the last time he asks, and that afterward, he will retire and allow Svulthira to pursue whatever path she chooses. To refuse is to abandon a man who has treated her fairly; to accept is to violate her conscience.
+The Fur Merchant's Fall
+: Harvin Hvarnumak, Svulthira's longtime patron, approaches her with a request born of desperation. His business is failing due to competition from Merchant Jorvik, and he has fallen into debt with dangerous people. He asks Svulthira to deliver an enormous, unsustainable harvest within a short timeframe—a request that directly contradicts her emerging conscience. He promises it will be the last time he asks, and that afterward, he will retire and allow Svulthira to pursue whatever path she chooses. To refuse is to abandon a man who has treated her fairly; to accept is to violate her conscience.
 
-4. **The Wounded Creature**: Svulthira discovers an injured creature—neither entirely wolf nor entirely human—caught in a trap of her own making in a remote forest valley. The creature possesses human intelligence and can speak, though its language is ancient and nearly forgotten. It bears marks suggesting it has been hunted for generations by those who view it as abomination. Freeing it and nursing it to health makes Svulthira an accomplice to whatever the creature is, but refusing to help the wounded violates everything her conscience has recently settled on.
+The Wounded Creature
+: Svulthira discovers an injured creature—neither entirely wolf nor entirely human—caught in a trap of her own making in a remote forest valley. The creature possesses human intelligence and can speak, though its language is ancient and nearly forgotten. It bears marks suggesting it has been hunted for generations by those who view it as abomination. Freeing it and nursing it to health makes Svulthira an accomplice to whatever the creature is, but refusing to help the wounded violates everything her conscience has recently settled on.
 
-5. **The Winter's Reckoning**: In the depths of a particularly harsh winter, food becomes scarce and the settlement nearest Svulthira's territory faces starvation. She is approached by the settlement's leaders with a desperate request: trap and kill every large animal she can, creating a meat store sufficient to see them through the remaining season. The request is legitimate, the need real, yet fulfilling it would require unsustainable harvesting that would take years to recover from. Svulthira has to weigh compassion toward her own kind in their need against the long stewardship of the wilderness she has come to revere.
+The Winter's Reckoning
+: In the depths of a particularly harsh winter, food becomes scarce and the settlement nearest Svulthira's territory faces starvation. She is approached by the settlement's leaders with a desperate request: trap and kill every large animal she can, creating a meat store sufficient to see them through the remaining season. The request is legitimate, the need real, yet fulfilling it would require unsustainable harvesting that would take years to recover from. Svulthira has to weigh compassion toward her own kind in their need against the long stewardship of the wilderness she has come to revere.

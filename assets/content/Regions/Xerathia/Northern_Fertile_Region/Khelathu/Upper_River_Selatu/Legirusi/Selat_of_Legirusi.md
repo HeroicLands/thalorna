@@ -73,9 +73,20 @@ Legirusi uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The [[affiliation-
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-legirusi|Legirusi]]—Selat capital
-- [[affiliation-psaqaru|Faith of Saq'aru]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-legirusiselt|Legirusi Selat]]—The land the selat holds
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-legirusi|Legirusi]]
+: Selat capital
+
+[[affiliation-psaqaru|Faith of Saq'aru]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-legirusiselt|Legirusi Selat]]
+: The land the selat holds

@@ -831,14 +831,22 @@ Okharik employs a moderately-complex consonantal inventory influenced by areal c
 
 **Stops and Affricates:**
 
-- Unvoiced: p, t, k
-- Voiced: b, d, g
-- Affricates: ch (TS), j (DZH)
+Unvoiced
+: p, t, k
+
+Voiced
+: b, d, g
+
+Affricates
+: ch (TS), j (DZH)
 
 **Fricatives:**
 
-- Unvoiced: f, s, sh (as in "ship"), th (as in "thin"), kh (a rasp at the back of the throat, as when clearing it)
-- Voiced: v, z, zh (as the "s" in "measure")
+Unvoiced
+: f, s, sh (as in "ship"), th (as in "thin"), kh (a rasp at the back of the throat, as when clearing it)
+
+Voiced
+: v, z, zh (as the "s" in "measure")
 
 **Nasals:** m, n, ng (particularly in final position)
 
@@ -865,11 +873,20 @@ Okharik distinguishes five cardinal vowels, each occurring in short and long var
 
 Analysis of attested names reveals:
 
-- **Initial Clusters:** Less common than in Vedyari; typically restricted to obstruent + liquid or fricative + stop combinations
-- **Syllable Structure:** Predominantly CV; CVC structures appear frequently in medial positions
-- **Final Consonants:** Commonly -n, -ng, -l, -r, -t, -s; final vowels are common, particularly in nominal classes marked for definiteness
-- **Word Length:** Moderate; names are typically two to three morphemes, though some compounds extend to four or more syllables
-- **Stress Patterns:** Generally penultimate; in longer compounds, secondary stress appears on the first syllable
+Initial Clusters
+: Less common than in Vedyari; typically restricted to obstruent + liquid or fricative + stop combinations
+
+Syllable Structure
+: Predominantly CV; CVC structures appear frequently in medial positions
+
+Final Consonants
+: Commonly -n, -ng, -l, -r, -t, -s; final vowels are common, particularly in nominal classes marked for definiteness
+
+Word Length
+: Moderate; names are typically two to three morphemes, though some compounds extend to four or more syllables
+
+Stress Patterns
+: Generally penultimate; in longer compounds, secondary stress appears on the first syllable
 
 ## Grammar Notes
 
@@ -914,9 +931,14 @@ Unlike Vedyari and Khelathi, which have maintained relatively conservative class
 
 Regional speech shows considerable variation:
 
-- **Urban Okharik:** More conservative; maintains gender and some archaic forms; influenced by liturgical registers
-- **Rural Dialects:** More divergent; simplification of verbal morphology; loss of gender distinctions; greater borrowing from neighboring languages
-- **Trading Post Dialects:** Extreme simplification; approaching creolized structures; significant code-switching
+Urban Okharik
+: More conservative; maintains gender and some archaic forms; influenced by liturgical registers
+
+Rural Dialects
+: More divergent; simplification of verbal morphology; loss of gender distinctions; greater borrowing from neighboring languages
+
+Trading Post Dialects
+: Extreme simplification; approaching creolized structures; significant code-switching
 
 ## Regional Dialects
 
@@ -944,11 +966,20 @@ Regional speech shows considerable variation:
 
 ## Sample Phrases
 
-1. **Okharé, ne thalé**—_Greeting; literally "Okharik one, greetings"_
-2. **Zhondu en tharom**—_Blessing formula; "May the kingdom endure"_
-3. **Somba ren, ngem orung**—_Affirmation; "In the name of the ancestors, I stand firm"_
-4. **Mákoro en zarun**—_Trade expression; "May prosperity flow"_
-5. **Khuthel en shara tebu sembor**—_Sacred oath; "Let the earth witness this truth"_
+Okharé, ne thalé
+: _Greeting; literally "Okharik one, greetings"_
+
+Zhondu en tharom
+: _Blessing formula; "May the kingdom endure"_
+
+Somba ren, ngem orung
+: _Affirmation; "In the name of the ancestors, I stand firm"_
+
+Mákoro en zarun
+: _Trade expression; "May prosperity flow"_
+
+Khuthel en shara tebu sembor
+: _Sacred oath; "Let the earth witness this truth"_
 
 The [[skill-okharclng#lexicon|Okharik Lexicon]] holds the words these phrases are built from, the endings that make titles and names, and the register of every Okharik name in the setting.
 
@@ -956,9 +987,14 @@ The [[skill-okharclng#lexicon|Okharik Lexicon]] holds the words these phrases ar
 
 Okharik maintains linguistic contacts with several neighboring languages:
 
-- **Khelathi:** Ancient contact has left traces in sacred vocabulary and some archaic grammatical forms; modern contact is primarily through trade language
-- **Vedyari:** More distant contact; some mutual intelligibility in trade pidgins, but limited direct borrowing
-- **Maritime Pidgins:** Okharik has been both a substrate and source in the development of trade linguas
+Khelathi
+: Ancient contact has left traces in sacred vocabulary and some archaic grammatical forms; modern contact is primarily through trade language
+
+Vedyari
+: More distant contact; some mutual intelligibility in trade pidgins, but limited direct borrowing
+
+Maritime Pidgins
+: Okharik has been both a substrate and source in the development of trade linguas
 
 ## Naming Traditions
 

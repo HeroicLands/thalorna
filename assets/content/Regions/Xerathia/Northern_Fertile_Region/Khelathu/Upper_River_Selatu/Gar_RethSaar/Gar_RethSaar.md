@@ -32,11 +32,19 @@ The selat farms its share of upper-river grain like any other, but its distincti
 
 ## Settlements
 
-- [[place-khelunu|Khelunu]] (~85,000)—the selat capital and the empire's great temple-city of learning: the library-temple of Reth'Sa'ar, the scribal schools, the observatory, the archives and the pupil-and-scholar quarters that surround them, beside the seat of the Halzi'a.
-- The school-and-farm villages: the grain-country holds the usual scatter of villages of 500 to 2,500 people. Among them are [[place-gargezehuti|Gar-Gezehuti]], [[place-lutzethu2|Lut-Zethu]], [[place-yathkhelunu|Yath-Khelunu]] and [[place-zmathothu|Zma-Thothu]], several of them grown prosperous as lodging-towns for the families of pupils and for the lesser temple-schools that feed the great one at Khelunu.
+[[place-khelunu|Khelunu]] (~85,000)
+: the selat capital and the empire's great temple-city of learning: the library-temple of Reth'Sa'ar, the scribal schools, the observatory, the archives and the pupil-and-scholar quarters that surround them, beside the seat of the Halzi'a.
+
+The school-and-farm villages
+: the grain-country holds the usual scatter of villages of 500 to 2,500 people. Among them are [[place-gargezehuti|Gar-Gezehuti]], [[place-lutzethu2|Lut-Zethu]], [[place-yathkhelunu|Yath-Khelunu]] and [[place-zmathothu|Zma-Thothu]], several of them grown prosperous as lodging-towns for the families of pupils and for the lesser temple-schools that feed the great one at Khelunu.
 
 ## See Also
 
-- [[affiliation-selatgrrthsr|The Selat of Gar-Reth'Sa'ar]]—the selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the enclosing region
-- [[place-khelunu|Khelunu]]—selat capital
+[[affiliation-selatgrrthsr|The Selat of Gar-Reth'Sa'ar]]
+: the selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the enclosing region
+
+[[place-khelunu|Khelunu]]
+: selat capital

@@ -113,9 +113,20 @@ In the spring of 524, 238 HF, the _therkos_ (governor) of the [[affiliation-prov
 
 ## See Also
 
-- [[place-braldvik|Bralvik]]—the town, its smokehouses and its Coal Night
-- [[lore-southrnfleets|The Southern Fleets]]—the raids the crew sailed with
-- [[lore-compactsignd|The Signing of the Compact]]—the empire's later hiring of Nordmen
-- [[place-castamar|Kastamar]]—the naval city whose squadron burned the bay
-- [[affiliation-kingdomlgn|Kingdom of Malagna]]—the crew's kingdom
-- [[lore-domseycount|The Domsey Count]] · [[lore-commoncal|The Vylarian Calendar]]—the two reckonings these dates are given in
+[[place-braldvik|Bralvik]]
+: the town, its smokehouses and its Coal Night
+
+[[lore-southrnfleets|The Southern Fleets]]
+: the raids the crew sailed with
+
+[[lore-compactsignd|The Signing of the Compact]]
+: the empire's later hiring of Nordmen
+
+[[place-castamar|Kastamar]]
+: the naval city whose squadron burned the bay
+
+[[affiliation-kingdomlgn|Kingdom of Malagna]]
+: the crew's kingdom
+
+[[lore-domseycount|The Domsey Count]] · [[lore-commoncal|The Vylarian Calendar]]
+: the two reckonings these dates are given in

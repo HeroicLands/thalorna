@@ -20,5 +20,8 @@ It was Pirkelos who first encouraged Azendas to take up healing, and when the Te
 
 ## See Also
 
-- [[being-azendsdmtr|Azendas Damator]]—the healer-priest the village shelters
-- [[place-tyrellan|Tirellan]]—the city whose circuit the village lies on
+[[being-azendsdmtr|Azendas Damator]]
+: the healer-priest the village shelters
+
+[[place-tyrellan|Tirellan]]
+: the city whose circuit the village lies on

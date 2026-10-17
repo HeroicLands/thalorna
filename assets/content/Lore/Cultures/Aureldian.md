@@ -63,8 +63,11 @@ The year turns on the Feast of Thresholds, four days of oath-taking and covenant
 
 Ústaron embodies both aspects of flame, the forge that shapes and the inferno that consumes. Roughly five hundred years ago a faction of his clergy declared that his true nature is destruction, and his worship split into two faiths, each calling the other heretical. [[lore-ustaranschsm|The Ústaran Schism]] tells how the break came and why it did not heal.
 
-- [[affiliation-sacredforge|The Sacred Forge]] honors the creative aspect: craftsmanship, transformation, illumination and protection. Its temples are built around forges whose fires burn continuously, and letting one die is a catastrophe. It is the mainstream Ústaran faith in most of western Ankaris and is politically favored in Provenzia. Its Hamsarnor is checked by a council of senior Hammer-Priests.
-- [[affiliation-blackflame|The Black Flame]] honors the destructive aspect: fire as purifier, weapon and instrument of domination, and the rule of the strong. It is suppressed in most kingdoms and condemned by both the Sacred Forge and the Faith of Árdavon, and it operates through secretive orders and hidden shrines. The Empire of Vylaria is the exception: it has never formally proscribed the faith, which maintains temples and ordains clergy openly there.
+[[affiliation-sacredforge|The Sacred Forge]] honors the creative aspect
+: craftsmanship, transformation, illumination and protection. Its temples are built around forges whose fires burn continuously, and letting one die is a catastrophe. It is the mainstream Ústaran faith in most of western Ankaris and is politically favored in Provenzia. Its Hamsarnor is checked by a council of senior Hammer-Priests.
+
+[[affiliation-blackflame|The Black Flame]] honors the destructive aspect
+: fire as purifier, weapon and instrument of domination, and the rule of the strong. It is suppressed in most kingdoms and condemned by both the Sacred Forge and the Faith of Árdavon, and it operates through secretive orders and hidden shrines. The Empire of Vylaria is the exception: it has never formally proscribed the faith, which maintains temples and ordains clergy openly there.
 
 ### The Other Faiths
 
@@ -82,15 +85,31 @@ Two of the faiths field knightly orders that carry their doctrine where the civi
 
 Six peoples share the Aureldian culture. Each is a culture in its own right, and what it holds beyond the faiths, orders and gods above is its own.
 
-- [[lore-vylarianclt|Vylarian]]: the people of the Empire of Vylaria.
-- [[lore-elavendriclt|Élavendri]]: the people of Élavendre.
-- Kalipsan: the people of [[affiliation-calypsa|Kalipsa]], a free port city on a small island off Élavendre's northern coast. They have no culture note of their own.
-- [[lore-aelwythanclt|Aelwythan]]: the people of the island of Aelwyth. They are one people in three realms, [[place-aldorathrgn|Aldorath]], [[affiliation-kingdmdnvr|Dúnavarre]] and [[place-ondareth|Ondareth]], who share essentially one culture and are governed differently: Aldorath is a [[affiliation-kngdmldrth|feudal monarchy]] advised by a council of barons, Dúnavarre is ruled directly by a synod of Thordimalon (the Arcane Order) mages, and Ondareth is a [[affiliation-repblcndrth|senatorial republic]]. The realms share no political order.
-- [[lore-tarvenanclt|Tarvenan]]: the people of Tarvénia.
-- [[lore-provenzianclt|Provenzian]]: the people of Provenzia.
+[[lore-vylarianclt|Vylarian]]
+: the people of the Empire of Vylaria.
+
+[[lore-elavendriclt|Élavendri]]
+: the people of Élavendre.
+
+Kalipsan
+: the people of [[affiliation-calypsa|Kalipsa]], a free port city on a small island off Élavendre's northern coast. They have no culture note of their own.
+
+[[lore-aelwythanclt|Aelwythan]]
+: the people of the island of Aelwyth. They are one people in three realms, [[place-aldorathrgn|Aldorath]], [[affiliation-kingdmdnvr|Dúnavarre]] and [[place-ondareth|Ondareth]], who share essentially one culture and are governed differently: Aldorath is a [[affiliation-kngdmldrth|feudal monarchy]] advised by a council of barons, Dúnavarre is ruled directly by a synod of Thordimalon (the Arcane Order) mages, and Ondareth is a [[affiliation-repblcndrth|senatorial republic]]. The realms share no political order.
+
+[[lore-tarvenanclt|Tarvenan]]
+: the people of Tarvénia.
+
+[[lore-provenzianclt|Provenzian]]
+: the people of Provenzia.
 
 ## See Also
 
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]: the twelve gods and their faiths
-- [[lore-ustaranschsm|The Ústaran Schism]]: the split between the Sacred Forge and the Black Flame
-- [[place-aureldirgn|Aureldia]]: the region the peoples inhabit
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the twelve gods and their faiths
+
+[[lore-ustaranschsm|The Ústaran Schism]]
+: the split between the Sacred Forge and the Black Flame
+
+[[place-aureldirgn|Aureldia]]
+: the region the peoples inhabit

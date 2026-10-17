@@ -73,7 +73,14 @@ The [[lore-garauu|king-list]] enters nothing of it. The First Tablets enter a na
 
 ## See Also
 
-- [[lore-akhfirsttab|The First Tablets]]—the age in which the signs were fixed
-- [[skill-khelthzscrpt|Khelathi-zethu Script]] · [[skill-khelathlng|Khelathi Language]]—the sacred hand and the register
-- [[lore-rethsaardty|Reth'Sa'ar]] · [[affiliation-rethsaar|Faith of Reth'Sa'ar]]—the god and the priesthood that fixed it
-- [[lore-peopleshand|The People's Hand]]—the cursive cut from it
+[[lore-akhfirsttab|The First Tablets]]
+: the age in which the signs were fixed
+
+[[skill-khelthzscrpt|Khelathi-zethu Script]] · [[skill-khelathlng|Khelathi Language]]
+: the sacred hand and the register
+
+[[lore-rethsaardty|Reth'Sa'ar]] · [[affiliation-rethsaar|Faith of Reth'Sa'ar]]
+: the god and the priesthood that fixed it
+
+[[lore-peopleshand|The People's Hand]]
+: the cursive cut from it

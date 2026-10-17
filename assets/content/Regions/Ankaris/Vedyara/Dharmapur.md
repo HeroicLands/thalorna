@@ -30,5 +30,8 @@ Palm-leaf comes up from the forest country in bundles of five hundred. Lamp-blac
 
 ## See Also
 
-- [[place-vedyarargn|Vedyara]]—the enclosing region
-- [[place-sarvadarivr|The Sarveda]]—the river of the copying country
+[[place-vedyarargn|Vedyara]]
+: the enclosing region
+
+[[place-sarvadarivr|The Sarveda]]
+: the river of the copying country

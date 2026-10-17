@@ -69,9 +69,20 @@ Iaqet-Leqa uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. The [[affiliatio
 
 ## See Also
 
-- [[affiliation-borderselatu|The Border Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-iaqetleqa|Iaqet-Leqa]]—Selat capital
-- [[affiliation-tjelsuk|Faith of Tjelsur]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-iaqetleqaslt|Iaqet-Leqa Selat]]—The land the selat holds
+[[affiliation-borderselatu|The Border Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-iaqetleqa|Iaqet-Leqa]]
+: Selat capital
+
+[[affiliation-tjelsuk|Faith of Tjelsur]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-iaqetleqaslt|Iaqet-Leqa Selat]]
+: The land the selat holds

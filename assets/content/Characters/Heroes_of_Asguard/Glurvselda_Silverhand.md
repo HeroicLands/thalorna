@@ -401,8 +401,11 @@ Glurvselda is one of the wealthiest individuals in the northern lands, and her t
 
 ## Plot Hooks
 
-1. **The Golden Market**—Glurvselda has finally found evidence of the mythical Golden Market's next appearance. She needs an escort to reach its location, which lies in dangerous territory.
+The Golden Market
+: Glurvselda has finally found evidence of the mythical Golden Market's next appearance. She needs an escort to reach its location, which lies in dangerous territory.
 
-2. **The Dragon's Demand**—Glurvselda's dragon ally has changed its terms, demanding something she cannot easily provide. Renegotiation is necessary, but the dragon's patience has limits.
+The Dragon's Demand
+: Glurvselda's dragon ally has changed its terms, demanding something she cannot easily provide. Renegotiation is necessary, but the dragon's patience has limits.
 
-3. **The Trade War**—The Pirate Lords have blockaded a critical trade route, and Glurvselda must find a way to break the blockade—through force, negotiation, or cunning—before her trade network collapses.
+The Trade War
+: The Pirate Lords have blockaded a critical trade route, and Glurvselda must find a way to break the blockade—through force, negotiation, or cunning—before her trade network collapses.

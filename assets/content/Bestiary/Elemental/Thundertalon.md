@@ -314,20 +314,29 @@ It grows stronger in storms and draws power from every strike near it. In a full
 
 ## Attributes
 
-- **Strength:** 13-16 (1d4+12)
+Strength
+: 13-16 (1d4+12)
 
-- **Endurance:** 13-16 (1d4+12)
+Endurance
+: 13-16 (1d4+12)
 
-- **Dexterity:** 11-14 (1d4+10)
+Dexterity
+: 11-14 (1d4+10)
 
-- **Agility:** 15-18 (1d4+14)
+Agility
+: 15-18 (1d4+14)
 
-- **Perception:** 15-18 (1d4+14)
+Perception
+: 15-18 (1d4+14)
 
-- **Aura:** 13-16 (1d4+12)
+Aura
+: 13-16 (1d4+12)
 
-- **Will:** 11-14 (1d4+10)
+Will
+: 11-14 (1d4+10)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 11-14 (1d4+10)
+Creativity
+: 11-14 (1d4+10)

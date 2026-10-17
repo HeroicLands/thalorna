@@ -69,7 +69,14 @@ The navy grew large, and it stayed what the first reign made it. The [[place-vyl
 
 ## See Also
 
-- [[lore-searaiders|The Sea-Raiders' Throne]]—the house that closed
-- [[place-amqelmiglet|Amqel-Miglet]]—the quays the rule governs
-- [[affiliation-bethuanflt|Bethuan Fleet]]—the navy the Khelathi fleet is measured against
-- [[lore-akhcountmon|The Count of Months]]—the age the closing opened
+[[lore-searaiders|The Sea-Raiders' Throne]]
+: the house that closed
+
+[[place-amqelmiglet|Amqel-Miglet]]
+: the quays the rule governs
+
+[[affiliation-bethuanflt|Bethuan Fleet]]
+: the navy the Khelathi fleet is measured against
+
+[[lore-akhcountmon|The Count of Months]]
+: the age the closing opened

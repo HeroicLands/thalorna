@@ -28,5 +28,8 @@ The [[affiliation-grimvar|Grimvar]] keep [[miscgear-crwnwyrm|The Crown of the Wy
 
 ## See Also
 
-- [[affiliation-kingdomlgn|Kingdom of Malagna]]—the kingdom this district serves
-- [[place-malagna|Malagna]]—the land the kingdom holds
+[[affiliation-kingdomlgn|Kingdom of Malagna]]
+: the kingdom this district serves
+
+[[place-malagna|Malagna]]
+: the land the kingdom holds

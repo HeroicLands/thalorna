@@ -56,5 +56,8 @@ Say a Quantity Merchant orders two hundred bolts of linen from a weaver and lear
 
 ## See Also
 
-- [[place-aukhelathrgq|Au'Khelathu]]—Where the dealers trade
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[place-aukhelathrgq|Au'Khelathu]]
+: Where the dealers trade
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

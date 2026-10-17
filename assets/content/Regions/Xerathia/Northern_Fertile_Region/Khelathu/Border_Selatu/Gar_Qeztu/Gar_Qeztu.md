@@ -23,7 +23,14 @@ An instructor at the officer schools tells new cadets which buildings matter in 
 
 ## See Also
 
-- [[affiliation-selatgarqezt|The Selat of Gar-Qeztu]]—Parent selat
-- [[affiliation-borderselatu|The Border Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-qeztu|Faith of Qeztu]]—Patron cult
+[[affiliation-selatgarqezt|The Selat of Gar-Qeztu]]
+: Parent selat
+
+[[affiliation-borderselatu|The Border Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-qeztu|Faith of Qeztu]]
+: Patron cult

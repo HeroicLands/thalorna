@@ -47,10 +47,17 @@ A Green Warden newly come to a steading helps with the calving and stands in the
 
 The Green Wardens, _Gronverdir_, are a fighting order sworn to a god of peace, and the paradox is their doctrine. The peace of the [[affiliation-frodvin|Faith of Frodvin]] is the peace of the cultivated valley: the harvest stored, the herd unmolested, the household whole. In a region where raiders, wolves, hard winters and the casual cruelty of passing warbands are all standing threats, only people willing to stand against those things hold that peace. One does not protect peace by refusing to fight, the order teaches; one protects it by fighting only what threatens it.
 
-- Type: fighting religious order
-- Patron: [[affiliation-frodvin|Frodvin]], Asguardian god of peace, fertility, harvest and the sun
-- Region: [[place-nrdlndsrgn|the Nordlands]], with stations in rural valleys across the five kingdoms
-- Seat: none. The order has no single mother-hall; its annual chapter rotates between the three largest active halls
+Type
+: fighting religious order
+
+Patron
+: [[affiliation-frodvin|Frodvin]], Asguardian god of peace, fertility, harvest and the sun
+
+Region
+: [[place-nrdlndsrgn|the Nordlands]], with stations in rural valleys across the five kingdoms
+
+Seat
+: none. The order has no single mother-hall; its annual chapter rotates between the three largest active halls
 
 ## Settling In
 
@@ -64,9 +71,14 @@ A sitting Guardian sponsors a candidate and presents him at the annual chapter. 
 
 The order holds three ranks, and it admits nobody below its sworn rank: a candidate is sponsored and examined before he is anything.
 
-- Put from the Order (_Eidvargr_): cast out by vote of the Chapter, which closes every valley station's hospitality and every sibling order's recognition for good.
-- Sworn Guardian (_Gronvordr_): the working warden, assigned to a station or, occasionally, riding as a circuit relief.
-- Elder Guardian (_Eidhofding_): the senior member, called _Eldri Gronvordr_ among the Wardens themselves. An Elder Guardian may serve as station-warden for a more important valley, may oversee training, and sits on the order's Chapter.
+Put from the Order (_Eidvargr_)
+: cast out by vote of the Chapter, which closes every valley station's hospitality and every sibling order's recognition for good.
+
+Sworn Guardian (_Gronvordr_)
+: the working warden, assigned to a station or, occasionally, riding as a circuit relief.
+
+Elder Guardian (_Eidhofding_)
+: the senior member, called _Eldri Gronvordr_ among the Wardens themselves. An Elder Guardian may serve as station-warden for a more important valley, may oversee training, and sits on the order's Chapter.
 
 The chair is the Speaker of the Green, _Gronmál_, elected by the Chapter for a five-year term. There is one Speaker, who acts as an administrative coordinator rather than a commander. The present Speaker is **[Thulmrinna Gronmál]{.name data-type="being/npc"}**, a former station-warden of a contested [[place-vrystwald|Vristwald]] valley and widely regarded as the moral conscience of the order today. The standing Chapter is perhaps sixty Elder Guardians across the five kingdoms.
 

@@ -85,10 +85,23 @@ The harshness of the law follows from what the Tantsou believe is at stake. Ever
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]]—the castes, the Imperial Registry and the classification tablet
-- [[lore-celestlrdr|Celestial Order]]—the cosmology behind the law
-- [[lore-mandatehvn|Mandate of Heaven]]—the Emperor's appointment as the law's final judge
-- [[lore-ancstrwrshp|Ancestor Worship]]—the moral ledger that punishment writes on
-- [[lore-marriage|Marriage]]—family law and the household
-- [[lore-wohou|Wohou]]—the warrior caste and its code of honor
-- [[affiliation-tantsouempr|Empire of Tantsou]]—overview of imperial society
+[[lore-castelaws|Caste Laws]]
+: the castes, the Imperial Registry and the classification tablet
+
+[[lore-celestlrdr|Celestial Order]]
+: the cosmology behind the law
+
+[[lore-mandatehvn|Mandate of Heaven]]
+: the Emperor's appointment as the law's final judge
+
+[[lore-ancstrwrshp|Ancestor Worship]]
+: the moral ledger that punishment writes on
+
+[[lore-marriage|Marriage]]
+: family law and the household
+
+[[lore-wohou|Wohou]]
+: the warrior caste and its code of honor
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: overview of imperial society

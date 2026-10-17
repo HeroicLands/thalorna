@@ -64,6 +64,11 @@ The House keeps the ladder all seven entered Houses share: a Wazu of the House w
 
 ## See Also
 
-- [[lore-qarquzu|Qar'kuzu]]—the domain
-- [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
-- [[place-khelunu|Khelunu]]—where the Eight are taught
+[[lore-qarquzu|Qar'kuzu]]
+: the domain
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the philosophy and the other seven domains
+
+[[place-khelunu|Khelunu]]
+: where the Eight are taught

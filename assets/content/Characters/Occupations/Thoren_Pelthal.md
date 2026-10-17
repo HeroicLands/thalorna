@@ -437,12 +437,17 @@ Rival shipwrights undercut his prices.
 
 ## Plot Hooks
 
-1. **The Shipwright's Dilemma**—A merchant wants a ship from Thoren built faster and cheaper than he will build one, and the yard cannot go another season without the work.
+The Shipwright's Dilemma
+: A merchant wants a ship from Thoren built faster and cheaper than he will build one, and the yard cannot go another season without the work.
 
-2. **Old Grudges**—A rival shipwright who undercuts Thoren's prices has taken his oldest customer, and the ship he built for him is not sound.
+Old Grudges
+: A rival shipwright who undercuts Thoren's prices has taken his oldest customer, and the ship he built for him is not sound.
 
-3. **Echoes of the Past**—A ship Thoren built with his father comes back to his yard for repair after years at sea.
+Echoes of the Past
+: A ship Thoren built with his father comes back to his yard for repair after years at sea.
 
-4. **Shifting Winds**—Political change in Élavendre threatens the coastal trade Thoren's yard depends on, and he can adapt, resist, or leave.
+Shifting Winds
+: Political change in Élavendre threatens the coastal trade Thoren's yard depends on, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—A ship captain offers Thoren the building of a whole fleet, on terms that would mean building faster than he has ever agreed to.
+The Opportunity
+: A ship captain offers Thoren the building of a whole fleet, on terms that would mean building faster than he has ever agreed to.

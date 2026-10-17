@@ -10,10 +10,17 @@ data: {demonym: null, lore: [], parents: [alndntrblnds], population: null, packF
 # terran_analog: "The Swiss Alps and adjacent Savoyard Alpine massifs—the great Pelwar-sacred high country of the Élavendren interior, distinct from the contested Kervaron Spine that forms the Vylarian frontier further east."
 ---
 
-- **Type:** Sacred mountain range
-- **Region:** Interior [[place-elavendre|Élavendre]]
-- **Controlled by:** [[lore-aelendnppl|Áelendan]]
-- **Guardians:** [[affiliation-alndnwrdns|Áelendan Wardens]]
+Type
+: Sacred mountain range
+
+Region
+: Interior [[place-elavendre|Élavendre]]
+
+Controlled by
+: [[lore-aelendnppl|Áelendan]]
+
+Guardians
+: [[affiliation-alndnwrdns|Áelendan Wardens]]
 
 ## Overview
 
@@ -31,9 +38,14 @@ The mountains are home to unusual concentrations of wildlife—some common to th
 
 The Drenavar Spine contains many of the most significant sacred sites of the Áelendan tradition. The specific locations and protocols of these sites are not published, and outsiders are not permitted to seek them. What is known publicly is that the sites include:
 
-- **Ancient grove-shrines**—Old-growth groves that the Áelendan regard as places where the Kindred Pact is most fully present. Some of these groves are believed to predate the Pelwar settlement by uncertain duration.
-- **Mountain sanctuaries**—High-elevation sites on the peaks and ridges, often associated with particular fae beings or with specific Kindred Pact pledges.
-- **Sacred springs and lakes**—Water sources held to be especially sacred, around which certain Áelendan rituals are performed.
+Ancient grove-shrines
+: Old-growth groves that the Áelendan regard as places where the Kindred Pact is most fully present. Some of these groves are believed to predate the Pelwar settlement by uncertain duration.
+
+Mountain sanctuaries
+: High-elevation sites on the peaks and ridges, often associated with particular fae beings or with specific Kindred Pact pledges.
+
+Sacred springs and lakes
+: Water sources held to be especially sacred, around which certain Áelendan rituals are performed.
 
 [[place-silvrfrsts|The Silver Forests]] lie at the edge of the Drenavar range, in a transition zone where the mountains descend into the deepest forests of the interior.
 
@@ -53,10 +65,23 @@ The crown of Élavendre has recognized Áelendan sovereignty over the Drenavar S
 
 ## See Also
 
-- [[lore-aelendnppl|Áelendan]]—The people who inhabit and protect the mountains
-- [[affiliation-alndnwrdns|Áelendan Wardens]]—The order that patrols the sacred sites
-- [[place-eshalshldg|Ésalosa Lodge]]—The principal Áelendan settlement
-- [[place-silvrfrsts|The Silver Forests]]—The fae-touched woodland at the mountains' edge
-- [[place-elavendre|Élavendre]]—The kingdom whose interior contains the Drenavar
-- [[place-vylariargn#the-cervaron-spine|The Kervaron Spine]]—The contested eastern arm of the same Áelendan sacred uplift
-- [[place-graznmntns|The Grazian Mountains]]—A separate, far-eastern range between Vedyara and Khazryn (no relation to the Drenavar despite occasional Tellumi folk-confusion)
+[[lore-aelendnppl|Áelendan]]
+: The people who inhabit and protect the mountains
+
+[[affiliation-alndnwrdns|Áelendan Wardens]]
+: The order that patrols the sacred sites
+
+[[place-eshalshldg|Ésalosa Lodge]]
+: The principal Áelendan settlement
+
+[[place-silvrfrsts|The Silver Forests]]
+: The fae-touched woodland at the mountains' edge
+
+[[place-elavendre|Élavendre]]
+: The kingdom whose interior contains the Drenavar
+
+[[place-vylariargn#the-cervaron-spine|The Kervaron Spine]]
+: The contested eastern arm of the same Áelendan sacred uplift
+
+[[place-graznmntns|The Grazian Mountains]]
+: A separate, far-eastern range between Vedyara and Khazryn (no relation to the Drenavar despite occasional Tellumi folk-confusion)

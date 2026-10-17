@@ -56,10 +56,17 @@ sohl: {system: {commonSkills: []}}
 
 _Gar'Nuw—Khelathi: "The House of Hunters"—the guild of professional hunters of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]_
 
-- Type: Imperial chartered guild
-- Region: [[place-aukhelathrgq|Au'Khelathu Region]]—central guildhouse at the capital, with regional chapter halls along the [[place-zumeleshrvr|Zumelesh]] and at the desert edge
-- Charter: Granted by the seventh [[lore-garauu|Gar-Au]] of the present dynasty; renewed regularly since
-- Tevran Maldor status: Not a member; independent [[lore-khelathiclt|Khelathi]] institution. It has no standing credential equivalence with the [[affiliation-tevran|Tevran Maldor]], and a foreign hunter operating in Au'Khelathu needs a license granted case by case. The [[lore-taruzelianclt|Taruzelian]] [[affiliation-vezakuni|Vezakuni]] has approached **Gar'Nuw** with a proposal for an equivalence agreement covering desert and frontier work; the talks are at an early stage.
+Type
+: Imperial chartered guild
+
+Region
+: [[place-aukhelathrgq|Au'Khelathu Region]]—central guildhouse at the capital, with regional chapter halls along the [[place-zumeleshrvr|Zumelesh]] and at the desert edge
+
+Charter
+: Granted by the seventh [[lore-garauu|Gar-Au]] of the present dynasty; renewed regularly since
+
+Tevran Maldor status
+: Not a member; independent [[lore-khelathiclt|Khelathi]] institution. It has no standing credential equivalence with the [[affiliation-tevran|Tevran Maldor]], and a foreign hunter operating in Au'Khelathu needs a license granted case by case. The [[lore-taruzelianclt|Taruzelian]] [[affiliation-vezakuni|Vezakuni]] has approached **Gar'Nuw** with a proposal for an equivalence agreement covering desert and frontier work; the talks are at an early stage.
 
 ## Overview
 
@@ -89,20 +96,36 @@ A senior hunter would tell a new apprentice: "Your sponsor vouched for you. That
 
 The guild recognizes four working ranks.
 
-- Apprentice (_sba-nuw_)—admitted between fourteen and eighteen, usually introduced by a sponsoring journeyman or master, and trained for three to five years. The apprenticeship is an entered undertaking like any other in the empire: a master who works an apprentice as a laborer without teaching him has an open entry against him.
-- Journeyman (_nuw_)—qualified by examination and permitted to take paid commissions under a master's seal. This is the working rank of most members.
-- Master Hunter (_lem-nuw_)—promoted by senior vote after presenting a documented record of significant work. A master may seal independently, take apprentices and sit on chapter councils.
-- Great Hunter (_wer-nuw_)—the most senior masters, who convene as the **[Council of the Long Spear]{.name data-type="affiliation/governmental"}** at the central guildhouse, advise the imperial administration and adjudicate the highest guild disputes.
+Apprentice (_sba-nuw_)
+: admitted between fourteen and eighteen, usually introduced by a sponsoring journeyman or master, and trained for three to five years. The apprenticeship is an entered undertaking like any other in the empire: a master who works an apprentice as a laborer without teaching him has an open entry against him.
+
+Journeyman (_nuw_)
+: qualified by examination and permitted to take paid commissions under a master's seal. This is the working rank of most members.
+
+Master Hunter (_lem-nuw_)
+: promoted by senior vote after presenting a documented record of significant work. A master may seal independently, take apprentices and sit on chapter councils.
+
+Great Hunter (_wer-nuw_)
+: the most senior masters, who convene as the **[Council of the Long Spear]{.name data-type="affiliation/governmental"}** at the central guildhouse, advise the imperial administration and adjudicate the highest guild disputes.
 
 A member who falsifies game counts, returns or pricing is subject to revocation.
 
 Licensing runs by specialty. A journeyman is licensed in one specialty at elevation, and each further specialty needs a further examination. The specialty divisions follow the range of Khelathi game:
 
-- River-hunters: crocodile, hippopotamus, ibis and other riverine fauna.
-- Marsh-hunters: waterfowl and the rarer marsh-mammals.
-- Desert-hunters: falcons, gazelle, oryx and the desert serpent specialists.
-- Forest-hunters: the southern forest fringe, with lion, leopard and the great forest birds.
-- Specialists: raptor-trainers, hound-handlers and exotic animal procurers.
+River-hunters
+: crocodile, hippopotamus, ibis and other riverine fauna.
+
+Marsh-hunters
+: waterfowl and the rarer marsh-mammals.
+
+Desert-hunters
+: falcons, gazelle, oryx and the desert serpent specialists.
+
+Forest-hunters
+: the southern forest fringe, with lion, leopard and the great forest birds.
+
+Specialists
+: raptor-trainers, hound-handlers and exotic animal procurers.
 
 ### Who Leads
 
@@ -149,8 +172,17 @@ Foreign hunters stand outside all of this. The guild licenses them case by case 
 
 ## See Also
 
-- [[affiliation-garmelnu|Gar'Melnu]]—The smiths' guild, sibling imperial chartered guild
-- [[affiliation-zeghetnelgu|Zeghet'Nelgu]]—The Khetai family's sacred hunt
-- [[affiliation-linhur|Faith of Linhur]] and [[affiliation-linqur|Faith of Linkur]]—The gods of the hunt
-- [[affiliation-vezakuni|Vezakuni]]—The Taruzelian body proposing an equivalence agreement
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[affiliation-garmelnu|Gar'Melnu]]
+: The smiths' guild, sibling imperial chartered guild
+
+[[affiliation-zeghetnelgu|Zeghet'Nelgu]]
+: The Khetai family's sacred hunt
+
+[[affiliation-linhur|Faith of Linhur]] and [[affiliation-linqur|Faith of Linkur]]
+: The gods of the hunt
+
+[[affiliation-vezakuni|Vezakuni]]
+: The Taruzelian body proposing an equivalence agreement
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

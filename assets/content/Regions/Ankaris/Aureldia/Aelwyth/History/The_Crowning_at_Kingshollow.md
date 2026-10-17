@@ -53,7 +53,14 @@ The arrangement shaped the crown that followed. A king of Aldorath rules with th
 
 ## See Also
 
-- [[place-kingsholow|Kingshollow]]—the village and its hall
-- [[affiliation-kngdmldrth|The Kingdom of Aldorath]]—the crown that began here
-- [[place-dunmere|Dunmere]]—the seat the court moved to
-- [[lore-grukarcomes|The Grukar Come to Aelwyth]]—the war the barons wanted a king for
+[[place-kingsholow|Kingshollow]]
+: the village and its hall
+
+[[affiliation-kngdmldrth|The Kingdom of Aldorath]]
+: the crown that began here
+
+[[place-dunmere|Dunmere]]
+: the seat the court moved to
+
+[[lore-grukarcomes|The Grukar Come to Aelwyth]]
+: the war the barons wanted a king for

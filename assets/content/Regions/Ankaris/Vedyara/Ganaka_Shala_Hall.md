@@ -36,6 +36,11 @@ Anybody may stand in the hall and listen, and the college charges nothing for it
 
 ## See Also
 
-- [[place-chandrapur2|Chendrapur]]—the city
-- [[place-chandrmukha|Chandramukha]]—the bar whose tides it tables
-- [[place-suryatempl|The Surva temple]]—where the year is sighted instead
+[[place-chandrapur2|Chendrapur]]
+: the city
+
+[[place-chandrmukha|Chandramukha]]
+: the bar whose tides it tables
+
+[[place-suryatempl|The Surva temple]]
+: where the year is sighted instead

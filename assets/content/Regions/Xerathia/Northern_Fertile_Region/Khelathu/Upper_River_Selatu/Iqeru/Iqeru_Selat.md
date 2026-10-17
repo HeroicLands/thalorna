@@ -29,12 +29,22 @@ The wheatland holds a battlefield. In 1531 ST (580 BF) the war between the thron
 
 ## Settlements
 
-- [[place-iqeru|Iqeru]] (~33,000)—the selat capital and the seat of the Halzi'a, home of the chief temple of [[affiliation-uqaa|Faith of Uqa'a]] and its estates.
-- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
+[[place-iqeru|Iqeru]] (~33,000)
+: the selat capital and the seat of the Halzi'a, home of the chief temple of [[affiliation-uqaa|Faith of Uqa'a]] and its estates.
+
+The villages and estate-towns
+: the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[lore-twothrones|The War of the Two Thrones]]—the battle the wheatland remembers
-- [[affiliation-selatiqeru|The Selat of Iqeru]]—the selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—the enclosing region
-- [[place-iqeru|Iqeru]]—selat capital
+[[lore-twothrones|The War of the Two Thrones]]
+: the battle the wheatland remembers
+
+[[affiliation-selatiqeru|The Selat of Iqeru]]
+: the selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the enclosing region
+
+[[place-iqeru|Iqeru]]
+: selat capital

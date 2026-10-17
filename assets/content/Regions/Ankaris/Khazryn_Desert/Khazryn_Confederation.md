@@ -188,12 +188,29 @@ A person under an unsettled feud stands outside the confederation's protection u
 
 ## See Also
 
-- [[place-khzryndsrtrgn|Khazryn Desert]]—the waste that surrounds Tellumel
-- [[place-swoasisbelt|Tellumel]]—the oasis country the Confederation holds in part and claims whole
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—the adversary
-- [[affiliation-ahurdaen|Faith of Ahurdaen]]—the central object of Tellumi formal devotion
-- [[affiliation-zurathra|Faith of Zúrathra]]—the central object of Tellumi popular devotion
-- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the wider faith in its Tellumi-codified form
-- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—host of the exile community and its protector
-- [[skill-khazrilng|Tellumi Language]]—the Tellumi tongue
-- [[lore-khzrnclndr|The Tellumi Calendar]]—the Shekhulukhem's reckoning
+[[place-khzryndsrtrgn|Khazryn Desert]]
+: the waste that surrounds Tellumel
+
+[[place-swoasisbelt|Tellumel]]
+: the oasis country the Confederation holds in part and claims whole
+
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: the adversary
+
+[[affiliation-ahurdaen|Faith of Ahurdaen]]
+: the central object of Tellumi formal devotion
+
+[[affiliation-zurathra|Faith of Zúrathra]]
+: the central object of Tellumi popular devotion
+
+[[affiliation-ashanpnthn|Ashaian Pantheon]]
+: the wider faith in its Tellumi-codified form
+
+[[affiliation-kngdmmrdd|Kingdom of Amradad]]
+: host of the exile community and its protector
+
+[[skill-khazrilng|Tellumi Language]]
+: the Tellumi tongue
+
+[[lore-khzrnclndr|The Tellumi Calendar]]
+: the Shekhulukhem's reckoning

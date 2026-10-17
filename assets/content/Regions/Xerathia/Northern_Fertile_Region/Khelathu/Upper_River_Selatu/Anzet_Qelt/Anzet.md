@@ -25,7 +25,14 @@ Anzet is the capital of the [[affiliation-selatanztqlt|Selat of Anzet-Qelt]] and
 
 ## See Also
 
-- [[affiliation-selatanztqlt|The Selat of Anzet-Qelt]]—parent selat
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—the selat class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—imperial overview
-- [[affiliation-hezmuiri|Faith of Hezmu'iri]]—patron cult
+[[affiliation-selatanztqlt|The Selat of Anzet-Qelt]]
+: parent selat
+
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: the selat class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: imperial overview
+
+[[affiliation-hezmuiri|Faith of Hezmu'iri]]
+: patron cult

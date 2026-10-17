@@ -632,14 +632,22 @@ Khelathi possesses a distinctive consonantal inventory with several features tha
 
 **Stops and Affricates:**
 
-- Unvoiced: p, t, k
-- Voiced: b, d, g
-- Emphatic (pharyngealized): emphatic t, emphatic d, q (marked acoustically by uvular constriction)
+Unvoiced
+: p, t, k
+
+Voiced
+: b, d, g
+
+Emphatic (pharyngealized)
+: emphatic t, emphatic d, q (marked acoustically by uvular constriction)
 
 **Fricatives:**
 
-- Unvoiced: f, th (as in "thin"), s, sh (palatal), kh (velar), a pharyngeal h, h
-- Voiced: z, a pharyngeal fricative
+Unvoiced
+: f, th (as in "thin"), s, sh (palatal), kh (velar), a pharyngeal h, h
+
+Voiced
+: z, a pharyngeal fricative
 
 **Nasals:** m, n
 
@@ -678,9 +686,14 @@ Initial clusters are otherwise rare and restricted to consonant + semi-vowel
 (`y`, `w`) or fricative + stop: `Ps-` and `Tj-` are the licensed instances, as in
 `Saq'aru` and `Tjelsur`. Stop + stop is not Khelathi, so no word opens `Pt-`.
 
-- **Syllable Structure:** CV or CVC; a word may begin with a vowel, which the glottal marks
-- **Word Length:** Often moderate (two to three morphemes); compound names are less frequent than in Vedyari, though hieratic epithets create lengthy formal designations
-- **Stress Patterns:** Usually fall on the first or second syllable; later syllables receive weaker stress in polysyllabic words
+Syllable Structure
+: CV or CVC; a word may begin with a vowel, which the glottal marks
+
+Word Length
+: Often moderate (two to three morphemes); compound names are less frequent than in Vedyari, though hieratic epithets create lengthy formal designations
+
+Stress Patterns
+: Usually fall on the first or second syllable; later syllables receive weaker stress in polysyllabic words
 
 ## Grammar Notes
 
@@ -731,10 +744,17 @@ Around 800 years ago, the widening gap between the laborious sacred script and t
 
 The spoken vernaculars of contemporary Khelathi show considerable divergence from Classical Khelathi:
 
-- **Loss of Emphatics:** Younger speakers increasingly merge emphatic and non-emphatic stops
-- **Vowel Lengthening and Shortening:** Classical long/short distinctions are becoming phonetically eroded
-- **Simplification of Verbal Morphology:** Periphrastic constructions (auxiliary + infinitive) increasingly replace synthetic forms
-- **Lexical Borrowing:** Trade languages, particularly maritime pidgins, have introduced numerous loanwords
+Loss of Emphatics
+: Younger speakers increasingly merge emphatic and non-emphatic stops
+
+Vowel Lengthening and Shortening
+: Classical long/short distinctions are becoming phonetically eroded
+
+Simplification of Verbal Morphology
+: Periphrastic constructions (auxiliary + infinitive) increasingly replace synthetic forms
+
+Lexical Borrowing
+: Trade languages, particularly maritime pidgins, have introduced numerous loanwords
 
 Yet religious conservatism has resulted in Classical Khelathi being actively reinforced through education and ritual. The priesthood has successfully resisted reforms that would modernize the written system, maintaining the sanctity and untranslatability of the sacred texts.
 
@@ -763,11 +783,20 @@ Yet religious conservatism has resulted in Classical Khelathi being actively rei
 
 ## Sample Phrases
 
-1. **Khelathu elu anlagh**—_Greeting formula; literally "the Khelathi way upon life"_
-2. **Uqa'a, qamzet ezu gazlet**—_Ritual invocation; "Sun-lord, hidden in the sanctuary"_
-3. **Erlem ez luzet**—_Affirmation of loyalty; "I am bound to the throne"_
-4. **Zab melet agu khelath**—_Mercantile oath; "The lord's goods shall prosper"_
-5. **Shelmu zetem**—_Sacred command; "Let the followers hear" (used to introduce proclamations)_
+Khelathu elu anlagh
+: _Greeting formula; literally "the Khelathi way upon life"_
+
+Uqa'a, qamzet ezu gazlet
+: _Ritual invocation; "Sun-lord, hidden in the sanctuary"_
+
+Erlem ez luzet
+: _Affirmation of loyalty; "I am bound to the throne"_
+
+Zab melet agu khelath
+: _Mercantile oath; "The lord's goods shall prosper"_
+
+Shelmu zetem
+: _Sacred command; "Let the followers hear" (used to introduce proclamations)_
 
 The particles are _elu_ (of, upon), _ezu_ (in), _ez_ (to, toward) and _agu_
 (shall, marking what is undertaken rather than what is done).
@@ -776,8 +805,11 @@ The particles are _elu_ (of, upon), _ezu_ (in), _ez_ (to, toward) and _agu_
 
 Two Khelathi words are the learned world's names for the undead, taken from the funerary texts of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] by every scholarly tradition that copied them; see [[lore-undead|Undead]] for their use.
 
-- **terebu**—root _t-r-b_, to wear, to cloak: _the cloaked one_, the sentient undead ([[being-tereb|tereb]]). Invariant in number: one _terebu_, many _terebu_.
-- **dumatu**—root _d-m-t_, to drive, to goad: _the driven one_, the mindless undead ([[being-damut|damut]]). Invariant in number: one _dumatu_, many _dumatu_.
+terebu
+: root _t-r-b_, to wear, to cloak: _the cloaked one_, the sentient undead ([[being-tereb|tereb]]). Invariant in number: one _terebu_, many _terebu_.
+
+dumatu
+: root _d-m-t_, to drive, to goad: _the driven one_, the mindless undead ([[being-damut|damut]]). Invariant in number: one _dumatu_, many _dumatu_.
 
 The temple form is the word as Khelathi speak and write it, emphatics and all. _Tereb_ and _damut_ are what the rest of the world made of it: the international plural, _terebu_ and _damutu_, is the temple word heard without its emphatics, and the international singular, _tereb_ ("TEH-reb") and _damut_ ("dah-MOOT"), is a back-formation from that plural. A Khelathi priest says _terebu_ for one and for many; a Vylarian physician says _tereb_ and _terebu_.
 
@@ -785,9 +817,14 @@ The temple form is the word as Khelathi speak and write it, emphatics and all. _
 
 Khelathi remains an isolate, yet areal contacts have created zones of lexical and structural influence:
 
-- **Okharik:** Some mutual intelligibility in trade contexts; possible ancient contact is evidenced by certain cognates in ritual vocabulary
-- **Vedyari:** Possible borrowings in domains of royal administration and diplomatic terminology, though the directionality and depth of contact remain unclear
-- **Maritime Pidgins:** Khelathi has been a major substrate in the development of trade linguas along the Zerathian coast
+Okharik
+: Some mutual intelligibility in trade contexts; possible ancient contact is evidenced by certain cognates in ritual vocabulary
+
+Vedyari
+: Possible borrowings in domains of royal administration and diplomatic terminology, though the directionality and depth of contact remain unclear
+
+Maritime Pidgins
+: Khelathi has been a major substrate in the development of trade linguas along the Zerathian coast
 
 ## The Lexicon
 

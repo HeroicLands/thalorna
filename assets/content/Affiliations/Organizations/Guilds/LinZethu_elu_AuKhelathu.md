@@ -60,6 +60,11 @@ A certified scribe's document is what a court or ministry accepts as the origina
 
 ## See Also
 
-- [[affiliation-lutzethu|Lut-Zethu]]—The Imperial Library
-- [[place-aukhelathrgq|Au'Khelathu]]—The empire whose administration the guild serves
-- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
+[[affiliation-lutzethu|Lut-Zethu]]
+: The Imperial Library
+
+[[place-aukhelathrgq|Au'Khelathu]]
+: The empire whose administration the guild serves
+
+[[lore-guldsthlrn|The Guilds of Thalorna]]
+: How guilds are organized across the realms

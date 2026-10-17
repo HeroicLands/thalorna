@@ -25,6 +25,11 @@ The ridge also has a season. The deep snows close it in early winter, and a part
 
 ## See Also
 
-- [[affiliation-wldjgrrndgrskld|Wuljagar of the Garskald]]—the hunting company that means to cross it
-- [[place-moldunriver|Moldún River]]—the Garskald's southern bound
-- [[place-vrystwald|Vristwald]]—the forest it divides
+[[affiliation-wldjgrrndgrskld|Wuljagar of the Garskald]]
+: the hunting company that means to cross it
+
+[[place-moldunriver|Moldún River]]
+: the Garskald's southern bound
+
+[[place-vrystwald|Vristwald]]
+: the forest it divides

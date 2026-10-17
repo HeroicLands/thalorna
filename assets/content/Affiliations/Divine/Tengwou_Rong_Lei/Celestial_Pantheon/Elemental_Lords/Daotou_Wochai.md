@@ -121,7 +121,14 @@ Mortals petition Daotou Wochai through formal offerings at temple shrines dedica
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The Celestial Bureaucracy that appointed Daotou Wochai as Elemental Lord
-- [[affiliation-wengdaozhouwo|Wéngdao Zhouwo]]—The Elemental Lord of Earth, with whom Daotou Wochai maintains constant jurisdictional coordination
-- [[affiliation-zhenho|Zhenho]]—Overseer of the Bureau of Transformation, whose claims over metalworking Daotou Wochai resists
-- [[lore-tanchei|Tanchéi]]—The priesthood who mediate petitions to the Elemental Lords and maintain the bureaucratic seal system
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: The Celestial Bureaucracy that appointed Daotou Wochai as Elemental Lord
+
+[[affiliation-wengdaozhouwo|Wéngdao Zhouwo]]
+: The Elemental Lord of Earth, with whom Daotou Wochai maintains constant jurisdictional coordination
+
+[[affiliation-zhenho|Zhenho]]
+: Overseer of the Bureau of Transformation, whose claims over metalworking Daotou Wochai resists
+
+[[lore-tanchei|Tanchéi]]
+: The priesthood who mediate petitions to the Elemental Lords and maintain the bureaucratic seal system

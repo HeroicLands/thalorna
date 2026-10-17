@@ -87,7 +87,14 @@ The north came through last winter on half rations. Tsuiwo will put 1,500 spears
 
 ## See Also
 
-- [[affiliation-jenchaiempr|Jenchai Empire]]—the realm, the court and the eight houses
-- [[place-zenjai|Zenjai]]—the mountain of the domain
-- [[place-buiwu|Buiwu]]—the castle town and seat
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[affiliation-jenchaiempr|Jenchai Empire]]
+: the realm, the court and the eight houses
+
+[[place-zenjai|Zenjai]]
+: the mountain of the domain
+
+[[place-buiwu|Buiwu]]
+: the castle town and seat
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

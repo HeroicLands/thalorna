@@ -25,6 +25,11 @@ Thornwald is where eastern [[place-vrystwald|Vristwald]] meets the [[place-velan
 
 ## See Also
 
-- [[place-vrystwald|Vristwald]]—the wider forest
-- [[place-velanthrgn|Velanthia]]—the neighboring grain country
-- [[place-edrwald|Edrwald]] and [[place-skathwald|Skathwald]]—the reaches on either side
+[[place-vrystwald|Vristwald]]
+: the wider forest
+
+[[place-velanthrgn|Velanthia]]
+: the neighboring grain country
+
+[[place-edrwald|Edrwald]] and [[place-skathwald|Skathwald]]
+: the reaches on either side

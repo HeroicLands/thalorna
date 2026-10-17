@@ -485,30 +485,43 @@ In daylight a tereb suffers −4 to all physical attributes and −2 to all ment
 
 ## Attributes
 
-- **Strength:** 14-17 (1d4+13)
+Strength
+: 14-17 (1d4+13)
 
-- **Endurance:** 14-17 (1d4+13)
+Endurance
+: 14-17 (1d4+13)
 
-- **Dexterity:** 14-17 (1d4+13)
+Dexterity
+: 14-17 (1d4+13)
 
-- **Agility:** 14-17 (1d4+13)
+Agility
+: 14-17 (1d4+13)
 
-- **Perception:** 14-17 (1d4+13)
+Perception
+: 14-17 (1d4+13)
 
-- **Shadow:** 14-17 (1d4+13)
+Shadow
+: 14-17 (1d4+13)
 
-- **Will:** 15-20 (1d6+14)
+Will
+: 15-20 (1d6+14)
 
-- **Reasoning:** 11-18 (1d8+10)
+Reasoning
+: 11-18 (1d8+10)
 
-- **Creativity:** 14-17 (1d4+13)
+Creativity
+: 14-17 (1d4+13)
 
 ## See Also
 
-- [[lore-undead|Undead]]—the undead as a class, the learned terms and the folk names, and how the undead differ from spirits
+[[lore-undead|Undead]]
+: the undead as a class, the learned terms and the folk names, and how the undead differ from spirits
 
-- [[being-damut|Damut]]—the driven one: the mindless undead
+[[being-damut|Damut]]
+: the driven one: the mindless undead
 
-- [[lore-nagengir|Nágengir]]—the Faith of Nahild's favored terebu
+[[lore-nagengir|Nágengir]]
+: the Faith of Nahild's favored terebu
 
-- [[lore-theshadow|The Shadow]]—the corrupting force from outside creation that every undead carries
+[[lore-theshadow|The Shadow]]
+: the corrupting force from outside creation that every undead carries

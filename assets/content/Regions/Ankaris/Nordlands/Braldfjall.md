@@ -24,5 +24,8 @@ The name suits the god's fire: _brald-_ is a fire banked to keep overnight, and 
 
 ## See Also
 
-- [[affiliation-svartbrandr|Faith of Svartbrandr]]—the faith whose most sacred temple stands here
-- [[being-vrthrvflmhrt|Vrithorv Flameheart]] and [[being-svlthsldashnmdn|Svilthselda Ashenmaiden]]—two of the god's chosen
+[[affiliation-svartbrandr|Faith of Svartbrandr]]
+: the faith whose most sacred temple stands here
+
+[[being-vrthrvflmhrt|Vrithorv Flameheart]] and [[being-svlthsldashnmdn|Svilthselda Ashenmaiden]]
+: two of the god's chosen

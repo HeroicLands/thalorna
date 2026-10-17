@@ -175,11 +175,26 @@ The rope is on our bank tonight, and the boat is tied. Nobody crosses. Put the c
 
 ## See Also
 
-- [[lore-mhndkngdm|The Kingdom of Mahanodi]]—the line the legend begins, and the library's silence on its first seat
-- [[lore-unburnford|The Unburned Ford]]—the night the villages went down to the ford, and why they do not gho down on its anniversary
-- [[place-puranasthana|Puranastana]]—the terraced hill, the empty hollow and the hill's new owner
-- [[place-oluratarna|Oluratarana]]—the ford, and the bones the village puts back in the river
-- [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]]—the ancestor "whose virtue is the tale," as Rajepur recites him
-- [[lore-fortydays|The Forty Days]]—the decree the villages do not quarrel with
-- [[place-sandstonealtr|The Sandstone Altar]]—the altar the kings moved the hallowing to
-- [[lore-janpdform|The Janapoda Form]]—the village and its temple, "the right size for everything except the things that are between the villages"
+[[lore-mhndkngdm|The Kingdom of Mahanodi]]
+: the line the legend begins, and the library's silence on its first seat
+
+[[lore-unburnford|The Unburned Ford]]
+: the night the villages went down to the ford, and why they do not gho down on its anniversary
+
+[[place-puranasthana|Puranastana]]
+: the terraced hill, the empty hollow and the hill's new owner
+
+[[place-oluratarna|Oluratarana]]
+: the ford, and the bones the village puts back in the river
+
+[[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]]
+: the ancestor "whose virtue is the tale," as Rajepur recites him
+
+[[lore-fortydays|The Forty Days]]
+: the decree the villages do not quarrel with
+
+[[place-sandstonealtr|The Sandstone Altar]]
+: the altar the kings moved the hallowing to
+
+[[lore-janpdform|The Janapoda Form]]
+: the village and its temple, "the right size for everything except the things that are between the villages"

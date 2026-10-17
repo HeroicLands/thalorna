@@ -599,8 +599,11 @@ To the untrained ear, Kalihari sounds exotic and flowing: vowel-heavy, with liqu
 
 Kalihari exists in two forms:
 
-- **Interior Kalihari**: The pure, classical form spoken in the island's interior, known to outsiders only in fragments
-- **Port Kalihari**: A hybrid variant used in cosmopolitan harbor cities, incorporating Valtari loanwords and simplified grammar to facilitate trade
+Interior Kalihari
+: The pure, classical form spoken in the island's interior, known to outsiders only in fragments
+
+Port Kalihari
+: A hybrid variant used in cosmopolitan harbor cities, incorporating Valtari loanwords and simplified grammar to facilitate trade
 
 Outsiders rarely encounter true Interior Kalihari; most know only the bastardized port variant.
 
@@ -657,7 +660,8 @@ Kalihari is often described as "musical" because pitch and rhythm are fundamenta
 
 Kalihari employs **Verb-Subject-Object (VSO)** word order, unusual among world languages but reflecting a philosophy where action comes first, then the actor, then the acted-upon:
 
-- _Ithavao Kulanei marivoel_—"Flows Kulanei the warm stone" (poetic: "Kulanei's warmth flows like stone")
+_Ithavao Kulanei marivoel_
+: "Flows Kulanei the warm stone" (poetic: "Kulanei's warmth flows like stone")
 
 This word order allows the verbal action to establish context before introducing participants—a stylistic choice reflected in Kaliharan storytelling traditions.
 
@@ -696,10 +700,17 @@ Kalihari employs the [[skill-luthrscrpt|Luaithari]], a **syllabic script**: each
 
 Key features:
 
-- **Syllabic principle**: CV-syllable = one glyph
-- **Ligatures**: Frequently connected glyphs form compound characters
-- **Diacritical marks**: Dots above or below indicate tone, emphasis, or poetic significance
-- **Decorative elements**: Sacred or formal texts employ ornate flourishes
+Syllabic principle
+: CV-syllable = one glyph
+
+Ligatures
+: Frequently connected glyphs form compound characters
+
+Diacritical marks
+: Dots above or below indicate tone, emphasis, or poetic significance
+
+Decorative elements
+: Sacred or formal texts employ ornate flourishes
 
 Every Kaliharan writes the syllabary well enough to keep a manual, and the scribal tradition is ancient and revered, but the full flourished hand is confined to the custodians and professional scribes. The island's long scribal heritage ensures a deep archive of written knowledge, but this knowledge is maintained by specialists, not the general population. Valtari has no script of its own, so port Kaliharans use a simplified Kalihari notation, or hire a scribe who sets the transaction down in whatever foreign letters he knows.
 
@@ -727,11 +738,20 @@ A trader from Ilovanu speaking Kalihari will sound notably different from an int
 
 ## Sample Phrases
 
-- _Kuethori rithan ithavanu-ia_—"The swift current flows from still water" (poetic observation about origins)
-- _Marivoel koathei naelithuri_—"Warm stone speaks to tall ferns" (metaphorical communication)
-- _Theiluori koruvei avaelith_—"Bright canopy shelters the graceful one" (blessing or welcome)
-- _Ithavanu rithan avaelith koamanu_—"Still water flows to shelter the deep root" (wisdom or philosophical statement)
-- _Naoluvethei korevani_—"Green wind dances with flowing water" (celebration or joy)
+_Kuethori rithan ithavanu-ia_
+: "The swift current flows from still water" (poetic observation about origins)
+
+_Marivoel koathei naelithuri_
+: "Warm stone speaks to tall ferns" (metaphorical communication)
+
+_Theiluori koruvei avaelith_
+: "Bright canopy shelters the graceful one" (blessing or welcome)
+
+_Ithavanu rithan avaelith koamanu_
+: "Still water flows to shelter the deep root" (wisdom or philosophical statement)
+
+_Naoluvethei korevani_
+: "Green wind dances with flowing water" (celebration or joy)
 
 ## Related Languages
 
@@ -754,9 +774,14 @@ Lineage names are **matrilineal in the interior**; port cities may follow either
 
 Personal names are chosen for their resonance and meaning:
 
-- _Kulanei_—"One who flows" (adaptability, fluidity)
-- _Mahitua_—"Great stone" (stability, strength)
-- _Avaelith_—"High shelter" (protection, grace)
+_Kulanei_
+: "One who flows" (adaptability, fluidity)
+
+_Mahitua_
+: "Great stone" (stability, strength)
+
+_Avaelith_
+: "High shelter" (protection, grace)
 
 Parents often name children to reflect circumstances of birth:
 

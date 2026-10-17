@@ -437,26 +437,38 @@ Its channeling floods the currents of magic round it, and near it a mage's worki
 
 ## Attributes
 
-- **Strength:** 46-51 (1d6+45)
+Strength
+: 46-51 (1d6+45)
 
-- **Endurance:** 34-39 (1d6+33)
+Endurance
+: 34-39 (1d6+33)
 
-- **Dexterity:** 6-9 (1d4+5)
+Dexterity
+: 6-9 (1d4+5)
 
-- **Agility:** 8-11 (1d4+7)
+Agility
+: 8-11 (1d4+7)
 
-- **Perception:** 13-18 (1d6+12)
+Perception
+: 13-18 (1d6+12)
 
-- **Scent:** 2-5 (1d4+1)
+Scent
+: 2-5 (1d4+1)
 
-- **Aura:** 11-16 (1d6+10)
+Aura
+: 11-16 (1d6+10)
 
-- **Will:** 17-22 (1d6+16)
+Will
+: 17-22 (1d6+16)
 
-- **Reasoning:** 11-16 (1d6+10)
+Reasoning
+: 11-16 (1d6+10)
 
-- **Creativity:** 9-14 (1d6+8)
+Creativity
+: 9-14 (1d6+8)
 
-- **Empathy:** 8-13 (1d6+7)
+Empathy
+: 8-13 (1d6+7)
 
-- **Eloquence:** 11-16 (1d6+10)
+Eloquence
+: 11-16 (1d6+10)

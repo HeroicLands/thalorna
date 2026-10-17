@@ -447,21 +447,43 @@ Rudavah is driven by a singular, almost obsessive goal: to reduce the suffering 
 
 ### Strengths
 
-- **Animal Whisperer:** Her animal craft, with five focuses, combined with her deep feeling for animals and her agility make her all but unequaled in calming, treating, and understanding horses. Animals respond to her in ways that seem almost mystical.
-- **Horsemanship:** Her riding skill, with five focuses, allows her to manage even wild or ill-used animals, to communicate nuance through subtle physical signals, and to understand a horse's capabilities and limitations with uncanny precision.
-- **Physical Specialist:** Her dexterity and her climbing and jumping allow her to move quickly and precisely in dangerous situations involving animals.
-- **Practical Diagnosis:** Her physician's training and attention to detail allow her to recognize illness and injury in animals before they become critical, potentially saving lives.
-- **Problem-Solver:** Her reasoning may be modest, but it is focused and practical; she solves animal-related problems through testing and observation rather than abstract thought, and her solutions are eminently sensible.
-- **Melee Competence:** Her melee skill, with two focuses, is strong, making her capable in direct physical conflict despite her reluctance to engage in violence.
+Animal Whisperer
+: Her animal craft, with five focuses, combined with her deep feeling for animals and her agility make her all but unequaled in calming, treating, and understanding horses. Animals respond to her in ways that seem almost mystical.
+
+Horsemanship
+: Her riding skill, with five focuses, allows her to manage even wild or ill-used animals, to communicate nuance through subtle physical signals, and to understand a horse's capabilities and limitations with uncanny precision.
+
+Physical Specialist
+: Her dexterity and her climbing and jumping allow her to move quickly and precisely in dangerous situations involving animals.
+
+Practical Diagnosis
+: Her physician's training and attention to detail allow her to recognize illness and injury in animals before they become critical, potentially saving lives.
+
+Problem-Solver
+: Her reasoning may be modest, but it is focused and practical; she solves animal-related problems through testing and observation rather than abstract thought, and her solutions are eminently sensible.
+
+Melee Competence
+: Her melee skill, with two focuses, is strong, making her capable in direct physical conflict despite her reluctance to engage in violence.
 
 ### Weaknesses
 
-- **Authority Dysphoria:** Her inability to accept orders that contradict her ethical judgments has cost her employment and relationships. She struggles to work under a chain of command, especially when superiors make decisions she considers harmful.
-- **Limited Eloquence:** Her low eloquence and discourse make her ineffective at persuading others through words; she relies on action and example rather than rhetoric, which limits her ability to influence policy or convince skeptics.
-- **Physical Vulnerability:** While competent with melee weapons, she carries none and has little strength, making her poor at sustained physical confrontation.
-- **Limited Reasoning:** Her reasoning is below average, meaning she sometimes misses subtle patterns or connections, making her vulnerable to deception or exploitation by clever antagonists.
-- **Emotional Constriction:** Her difficulty expressing emotion and connecting with humans beyond practical dealings creates barriers to relationships and makes her appear colder than she is.
-- **Moral Inflexibility:** Her unwillingness to compromise on animal welfare can put her in opposition to social norms or legal requirements, creating unnecessary conflict.
+Authority Dysphoria
+: Her inability to accept orders that contradict her ethical judgments has cost her employment and relationships. She struggles to work under a chain of command, especially when superiors make decisions she considers harmful.
+
+Limited Eloquence
+: Her low eloquence and discourse make her ineffective at persuading others through words; she relies on action and example rather than rhetoric, which limits her ability to influence policy or convince skeptics.
+
+Physical Vulnerability
+: While competent with melee weapons, she carries none and has little strength, making her poor at sustained physical confrontation.
+
+Limited Reasoning
+: Her reasoning is below average, meaning she sometimes misses subtle patterns or connections, making her vulnerable to deception or exploitation by clever antagonists.
+
+Emotional Constriction
+: Her difficulty expressing emotion and connecting with humans beyond practical dealings creates barriers to relationships and makes her appear colder than she is.
+
+Moral Inflexibility
+: Her unwillingness to compromise on animal welfare can put her in opposition to social norms or legal requirements, creating unnecessary conflict.
 
 ## Social
 
@@ -494,12 +516,17 @@ None formal
 
 ## Plot Hooks
 
-1. **The Cursed Stallion:** A beautiful but clearly suffering horse is brought to Rudavah's stable—no other ostler in the region will work with it, claiming it is cursed or demon-touched. Rudavah's senses tell her the horse is not cursed but rather magically sick, its distress caused by some magical condition beyond her experience. She must recruit adventurers to investigate the horse's origin, discover what magical condition afflicts it, and potentially journey to dangerous locations to find components or knowledge that will cure it. As she works to save the horse, she becomes convinced that its previous owner deliberately cursed it, and her moral crusade becomes increasingly personal.
+The Cursed Stallion
+: A beautiful but clearly suffering horse is brought to Rudavah's stable—no other ostler in the region will work with it, claiming it is cursed or demon-touched. Rudavah's senses tell her the horse is not cursed but rather magically sick, its distress caused by some magical condition beyond her experience. She must recruit adventurers to investigate the horse's origin, discover what magical condition afflicts it, and potentially journey to dangerous locations to find components or knowledge that will cure it. As she works to save the horse, she becomes convinced that its previous owner deliberately cursed it, and her moral crusade becomes increasingly personal.
 
-2. **The Animal Sanctuary Under Threat:** Local authorities plan to confiscate a sanctuary for rescued animals that Rudavah has been secretly supporting, claiming the facility violates new regulations. The sanctuary houses dozens of animals that would certainly be euthanized if discovered by authorities. Rudavah recruits adventurers to help her either hide the sanctuary, relocate the animals, or work through the officials and politics to change the rules. This forces her to learn the persuasion she has long avoided, or else to commit crimes in defense of her principles.
+The Animal Sanctuary Under Threat
+: Local authorities plan to confiscate a sanctuary for rescued animals that Rudavah has been secretly supporting, claiming the facility violates new regulations. The sanctuary houses dozens of animals that would certainly be euthanized if discovered by authorities. Rudavah recruits adventurers to help her either hide the sanctuary, relocate the animals, or work through the officials and politics to change the rules. This forces her to learn the persuasion she has long avoided, or else to commit crimes in defense of her principles.
 
-3. **The Plague in the Herds:** A mysterious disease begins spreading through the Kingdom's herds, afflicting horses with fever and causing deaths. Rudavah observes symptoms that suggest the plague has been deliberately introduced and turned against the cavalry as a weapon. She must work with adventurers to investigate the origin of the plague, identify the responsible parties (whether rival political factions, enemy nation, or something darker), and find a cure before the cavalry's effectiveness is destroyed. This plot touches on larger political conspiracies and forces Rudavah into a position of unexpected importance.
+The Plague in the Herds
+: A mysterious disease begins spreading through the Kingdom's herds, afflicting horses with fever and causing deaths. Rudavah observes symptoms that suggest the plague has been deliberately introduced and turned against the cavalry as a weapon. She must work with adventurers to investigate the origin of the plague, identify the responsible parties (whether rival political factions, enemy nation, or something darker), and find a cure before the cavalry's effectiveness is destroyed. This plot touches on larger political conspiracies and forces Rudavah into a position of unexpected importance.
 
-4. **The Wild Mustang Herd:** Rudavah learns of a herd of wild horses living in a remote mountain valley, managed by a reclusive herder who has refused all contact with civilization. Intrigued by rumors of unique bloodlines and animals of rare quality, she recruits adventurers to help her journey to meet this herder and potentially integrate his bloodlines into her breeding program. The journey is treacherous, the herder is protective and suspicious, and the horses themselves possess unusual characteristics suggesting long isolation and potential magical influence.
+The Wild Mustang Herd
+: Rudavah learns of a herd of wild horses living in a remote mountain valley, managed by a reclusive herder who has refused all contact with civilization. Intrigued by rumors of unique bloodlines and animals of rare quality, she recruits adventurers to help her journey to meet this herder and potentially integrate his bloodlines into her breeding program. The journey is treacherous, the herder is protective and suspicious, and the horses themselves possess unusual characteristics suggesting long isolation and potential magical influence.
 
-5. **The Burned Hand's Secret:** The chronic pain in Rudavah's burned hand intensifies, and she begins experiencing strange visions of the stable fire that scarred her. Memories surface suggesting the fire was not accidental but deliberately set—and that her survival and rescue were perhaps not accidental either. She recruits adventurers to investigate the fire's true cause, potentially uncovering that someone powerful has been watching her since childhood, possibly grooming her for a specific purpose related to her unique gift with animals.
+The Burned Hand's Secret
+: The chronic pain in Rudavah's burned hand intensifies, and she begins experiencing strange visions of the stable fire that scarred her. Memories surface suggesting the fire was not accidental but deliberately set—and that her survival and rescue were perhaps not accidental either. She recruits adventurers to investigate the fire's true cause, potentially uncovering that someone powerful has been watching her since childhood, possibly grooming her for a specific purpose related to her unique gift with animals.

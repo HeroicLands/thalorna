@@ -431,12 +431,17 @@ Few; respected among peers.
 
 ## Plot Hooks
 
-1. **The Bodyguard's Dilemma**—Visiza faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Taruzel.
+The Bodyguard's Dilemma
+: Visiza faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Taruzel.
 
-2. **Old Grudges**—Few; respected among peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: Few; respected among peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Visiza's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+Echoes of the Past
+: Something from Visiza's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Taruzel threaten to upend the social order that Visiza depends upon. She must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Taruzel threaten to upend the social order that Visiza depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Visiza the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Visiza the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

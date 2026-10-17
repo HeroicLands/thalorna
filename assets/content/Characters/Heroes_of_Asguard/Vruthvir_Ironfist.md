@@ -401,8 +401,11 @@ Vruthvir's smithing skill is famous; weapons and armor from his forge are prized
 
 ## Plot Hooks
 
-1. **The Masterwork**—Vruthvir has located a vein of star-metal deep in giant territory that could allow him to forge his ultimate creation. He needs an escort to reach the deposit and protect him while he works.
+The Masterwork
+: Vruthvir has located a vein of star-metal deep in giant territory that could allow him to forge his ultimate creation. He needs an escort to reach the deposit and protect him while he works.
 
-2. **The Forge-Curse**—Someone has placed a curse on Vruthvir's forge, causing every weapon he creates to shatter within days. The culprit could be Knirvmil, the stone giants, or something far more sinister.
+The Forge-Curse
+: Someone has placed a curse on Vruthvir's forge, causing every weapon he creates to shatter within days. The culprit could be Knirvmil, the stone giants, or something far more sinister.
 
-3. **The Last Battle**—Vruthvir's old wounds are worsening, and a healer has told him he has months to live. He seeks one final battle worthy of a servant of Svartbrandr—a death in fire and glory rather than a slow fade.
+The Last Battle
+: Vruthvir's old wounds are worsening, and a healer has told him he has months to live. He seeks one final battle worthy of a servant of Svartbrandr—a death in fire and glory rather than a slow fade.

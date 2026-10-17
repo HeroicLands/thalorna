@@ -483,20 +483,29 @@ Daylight weakens a cave troll at once and kills it if it stays in the light. It 
 
 ## Attributes
 
-- **Strength:** 26-31 (1d6+25)
+Strength
+: 26-31 (1d6+25)
 
-- **Endurance:** 28-33 (1d6+27)
+Endurance
+: 28-33 (1d6+27)
 
-- **Dexterity:** 6-9 (1d4+5)
+Dexterity
+: 6-9 (1d4+5)
 
-- **Agility:** 6-9 (1d4+5)
+Agility
+: 6-9 (1d4+5)
 
-- **Perception:** 9-12 (1d4+8)
+Perception
+: 9-12 (1d4+8)
 
-- **Aura:** 10-13 (1d4+9)
+Aura
+: 10-13 (1d4+9)
 
-- **Will:** 14-17 (1d4+13)
+Will
+: 14-17 (1d4+13)
 
-- **Reasoning:** 6-9 (1d4+5)
+Reasoning
+: 6-9 (1d4+5)
 
-- **Creativity:** 6-9 (1d4+5)
+Creativity
+: 6-9 (1d4+5)

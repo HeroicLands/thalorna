@@ -14,6 +14,11 @@ It is one half of the country itself, set against [[lore-gezrulutu|Gezru'lutu]],
 
 ## See Also
 
-- [[affiliation-garnlghkhlth|Gar-Anlagh'Khelathu]]—the House that holds the domain
-- [[lore-gezrulutu|Gezru'lutu]]—the Red half of the country
-- [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
+[[affiliation-garnlghkhlth|Gar-Anlagh'Khelathu]]
+: the House that holds the domain
+
+[[lore-gezrulutu|Gezru'lutu]]
+: the Red half of the country
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the philosophy and the other seven domains

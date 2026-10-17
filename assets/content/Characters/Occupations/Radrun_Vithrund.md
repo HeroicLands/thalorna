@@ -430,12 +430,17 @@ Few; she is well liked in her trade, but some rival Tide members may challenge h
 
 ## Plot Hooks
 
-1. **The Prostitute's Dilemma**—A client Radrún has come to trust says something in her hearing that the Gray Tide would pay for, and she can carry it to the Tide or keep it.
+The Prostitute's Dilemma
+: A client Radrún has come to trust says something in her hearing that the Gray Tide would pay for, and she can carry it to the Tide or keep it.
 
-2. **Old Grudges**—A rival in the Tide who doubts Radrún's loyalty has set a test for her that she is not meant to know is one.
+Old Grudges
+: A rival in the Tide who doubts Radrún's loyalty has set a test for her that she is not meant to know is one.
 
-3. **Echoes of the Past**—A message Radrún carried for the Tide in her first months is traced back to the brothel, and to her.
+Echoes of the Past
+: A message Radrún carried for the Tide in her first months is traced back to the brothel, and to her.
 
-4. **Shifting Winds**—Political change in Vristwald threatens the Gray Tide's hold on the coast, and Radrún can adapt, resist, or leave.
+Shifting Winds
+: Political change in Vristwald threatens the Gray Tide's hold on the coast, and Radrún can adapt, resist, or leave.
 
-5. **The Opportunity**—The Tide offers Radrún a place beyond the brothel, and a heavier share of the work she already doubts.
+The Opportunity
+: The Tide offers Radrún a place beyond the brothel, and a heavier share of the work she already doubts.

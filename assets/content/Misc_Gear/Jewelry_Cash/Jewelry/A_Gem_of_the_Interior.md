@@ -18,6 +18,11 @@ The stones reach the ports through the factors of [[place-nalurithan|Nalurithan]
 
 ## See Also
 
-- [[affiliation-housefactors|The House of Factors]]—the three families of Ilovanu who trade the stones
-- [[place-nalurithan|Nalurithan]]—the port whose factors hold the gem trade by right of the rivers
-- [[place-klhrring|The Ring]]—the mountains the stones come down from
+[[affiliation-housefactors|The House of Factors]]
+: the three families of Ilovanu who trade the stones
+
+[[place-nalurithan|Nalurithan]]
+: the port whose factors hold the gem trade by right of the rivers
+
+[[place-klhrring|The Ring]]
+: the mountains the stones come down from

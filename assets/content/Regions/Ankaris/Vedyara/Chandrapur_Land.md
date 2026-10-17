@@ -67,9 +67,20 @@ The river mouth is the other half of it. The fleet lies at [[place-chandrmukha|C
 
 ## See Also
 
-- [[affiliation-chandrapur|Chendrapur]]—the city-state that holds this land
-- [[place-chandrapur2|Chendrapur]]—the city itself
-- [[place-chandrmukha|Chandramukha]]—the port at the river's mouth
-- [[place-chandrmahi|The Chandramahi]]—the river the land is built along
-- [[place-vedyarargn|Vedyara Region]]—the enclosing region
-- [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]—the caravan and credit network the gem trade runs on
+[[affiliation-chandrapur|Chendrapur]]
+: the city-state that holds this land
+
+[[place-chandrapur2|Chendrapur]]
+: the city itself
+
+[[place-chandrmukha|Chandramukha]]
+: the port at the river's mouth
+
+[[place-chandrmahi|The Chandramahi]]
+: the river the land is built along
+
+[[place-vedyarargn|Vedyara Region]]
+: the enclosing region
+
+[[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]
+: the caravan and credit network the gem trade runs on

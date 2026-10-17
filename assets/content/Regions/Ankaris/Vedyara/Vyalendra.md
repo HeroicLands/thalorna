@@ -112,11 +112,26 @@ A person placed outside the tarona, by transgression or by birth, is excluded fr
 
 ## See Also
 
-- [[place-vyalendraland|Vyalendra Land]]—the land the city-state holds
-- [[place-vyalendra3|Vyalendra]]—the city itself
-- [[place-nilatira|Nilatira]]—the port the cloth leaves by
-- [[affiliation-chandrapur|Chendrapur]]—the rival whose galleys carry the cloth
-- [[affiliation-dhnrktjnpd|Danurkota Janapoda]]—where the watch commander is found
-- [[affiliation-varakpnthn|Varnuka Pantheon]]—religious tradition
-- [[place-vedyarargn|Vedyara Region]]—regional overview
-- [[skill-vedyarlng|Vedyari]]—language and naming
+[[place-vyalendraland|Vyalendra Land]]
+: the land the city-state holds
+
+[[place-vyalendra3|Vyalendra]]
+: the city itself
+
+[[place-nilatira|Nilatira]]
+: the port the cloth leaves by
+
+[[affiliation-chandrapur|Chendrapur]]
+: the rival whose galleys carry the cloth
+
+[[affiliation-dhnrktjnpd|Danurkota Janapoda]]
+: where the watch commander is found
+
+[[affiliation-varakpnthn|Varnuka Pantheon]]
+: religious tradition
+
+[[place-vedyarargn|Vedyara Region]]
+: regional overview
+
+[[skill-vedyarlng|Vedyari]]
+: language and naming

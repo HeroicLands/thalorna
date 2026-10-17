@@ -86,21 +86,32 @@ That is the post-imperial commonwealth's central bargain: the Tevran persists be
 
 ### Influenced but Independent
 
-- **The [[place-nrthrnfrtlrgn|Northern Fertile Region]]**—[[place-bethuargn|Bethua Region]], [[place-okharisrgn|Okharis Region]] and [[place-aukhelathrgq|Au'Khelathu Region]]. None was ever a Vylarian province and none is a Tevran member, yet all three have guild structures that visibly borrow from the Vylarian model: multi-tier ranks, formal examinations, registered seals and standing inter-guild councils. The Khelathi houses ([[affiliation-garmelnu|Gar'Melnu]], [[affiliation-garnuw|Gar'Nuw]] and the others) differ in religious framing, but their administrative procedures are plainly Tevran-derived, and so are those of [[affiliation-bthntrdhss|The Bethuan Trade-Houses]]. Where trades from the region meet the Tevran, in trade negotiations, embassies or a master traveling abroad, the institutions deal with one another as peers.
+The [[place-nrthrnfrtlrgn|Northern Fertile Region]]
+: [[place-bethuargn|Bethua Region]], [[place-okharisrgn|Okharis Region]] and [[place-aukhelathrgq|Au'Khelathu Region]]. None was ever a Vylarian province and none is a Tevran member, yet all three have guild structures that visibly borrow from the Vylarian model: multi-tier ranks, formal examinations, registered seals and standing inter-guild councils. The Khelathi houses ([[affiliation-garmelnu|Gar'Melnu]], [[affiliation-garnuw|Gar'Nuw]] and the others) differ in religious framing, but their administrative procedures are plainly Tevran-derived, and so are those of [[affiliation-bthntrdhss|The Bethuan Trade-Houses]]. Where trades from the region meet the Tevran, in trade negotiations, embassies or a master traveling abroad, the institutions deal with one another as peers.
 
 ### Untouched
 
-- **The regions south of [[place-nrthrnfrtlrgn|the Fertile crescent]], and the far north and west:** the Nordlands, Vristwald, Vedyara, Khazryn, Dunhara, K'ich'chik, Iseron, Aurionis, Kalihara and the Zerathian regions. The Tevran has no formal presence in any of them, and the occasional Vylarian merchant is the nearest thing to an institutional footprint. [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] runs a parallel federation, and for two generations the Tevran has tried without success to negotiate trade-recognition agreements with it.
+The regions south of [[place-nrthrnfrtlrgn|the Fertile crescent]], and the far north and west
+: the Nordlands, Vristwald, Vedyara, Khazryn, Dunhara, K'ich'chik, Iseron, Aurionis, Kalihara and the Zerathian regions. The Tevran has no formal presence in any of them, and the occasional Vylarian merchant is the nearest thing to an institutional footprint. [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] runs a parallel federation, and for two generations the Tevran has tried without success to negotiate trade-recognition agreements with it.
 
 ## Structure
 
 The Tevran's governing structure mirrors the empire's.
 
-- **Tevraks**—the chair, "First of the College." There is one, appointed by imperial edict for a ten-year term, renewable. He holds the imperial seal of office and presides over the Council. The current Tevraks is **[Marcus Velerianus]{.name data-type="being/npc"}**, a former Vylarian _tarkelos_ (treasury officer) of substantial political weight, who has served eight years and is presumed to be in line for renewal.
-- **The Council of the Tevran**—the standing council, with thirty-six seats, one for each major recognized trade-category (smiths, scribes, cartographers, builders, vintners, drapers, navigators and the rest). A _kelros_ (guild master), elected by the trade's senior masters in conclave, holds each seat for five years. The Council meets in continuous session at Orzara, with formal full convocations four times a year and standing committees that work between them.
-- **The Rozimoi of the Tevran**—the discipline arm, twelve appointed officers who conduct inspections, investigate charter violations and prosecute disciplinary cases before the Council. The _rozimoi_ (auditors) are widely feared and not always loved. The senior _rozimos_ is the **Holrozimos**, presently **[Lucia Praetoriana]{.name data-type="being/npc"}**, whose reputation for procedural rigor approaches the pathological.
-- **The Tarkelos of the Tevran**—the treasurer, who manages the Tevran's modest common fund, built from member-guild dues, ceremonial revenues and the Tevran's own commercial holdings. The office is administrative and limited. The [[affiliation-danvar|Danvar]] and ultimately the [[affiliation-tarmex|Tarmeks Orzan]] handle the commonwealth's much larger banking functions.
-- **The Therkalenoi**—twelve provincial deputies: one per Vylarian province, one per Aureldian kingdom and two for Hellád (one each for Bizaria and Helionis). They administer the Tevran's operations in their regions and report to the Tevraks.
+Tevraks
+: the chair, "First of the College." There is one, appointed by imperial edict for a ten-year term, renewable. He holds the imperial seal of office and presides over the Council. The current Tevraks is **[Marcus Velerianus]{.name data-type="being/npc"}**, a former Vylarian _tarkelos_ (treasury officer) of substantial political weight, who has served eight years and is presumed to be in line for renewal.
+
+The Council of the Tevran
+: the standing council, with thirty-six seats, one for each major recognized trade-category (smiths, scribes, cartographers, builders, vintners, drapers, navigators and the rest). A _kelros_ (guild master), elected by the trade's senior masters in conclave, holds each seat for five years. The Council meets in continuous session at Orzara, with formal full convocations four times a year and standing committees that work between them.
+
+The Rozimoi of the Tevran
+: the discipline arm, twelve appointed officers who conduct inspections, investigate charter violations and prosecute disciplinary cases before the Council. The _rozimoi_ (auditors) are widely feared and not always loved. The senior _rozimos_ is the **Holrozimos**, presently **[Lucia Praetoriana]{.name data-type="being/npc"}**, whose reputation for procedural rigor approaches the pathological.
+
+The Tarkelos of the Tevran
+: the treasurer, who manages the Tevran's modest common fund, built from member-guild dues, ceremonial revenues and the Tevran's own commercial holdings. The office is administrative and limited. The [[affiliation-danvar|Danvar]] and ultimately the [[affiliation-tarmex|Tarmeks Orzan]] handle the commonwealth's much larger banking functions.
+
+The Therkalenoi
+: twelve provincial deputies: one per Vylarian province, one per Aureldian kingdom and two for Hellád (one each for Bizaria and Helionis). They administer the Tevran's operations in their regions and report to the Tevraks.
 
 ## The Trade-Seats
 
@@ -173,10 +184,17 @@ The banking system holds together because the Tevran's power to charter is kept 
 
 ## Notable Members and Officers
 
-- **Tevraks Marcus Velerianus**—the current Tevraks, in the eighth year of his first term.
-- **Holrozimos Lucia Praetoriana**—the senior discipline officer, widely feared.
-- **The Council's thirty-six trade-seats**—among them [[affiliation-imprlscrblgld|The Imperial Scribal Guild]] seat (held by High Hand **[Iulia Verronius]{.name data-type="being/npc"}**, in a dual office), [[affiliation-crtgrphrsgldbyzrnlg|The Cartographers' Guild of the Bizarian League]] seat (held by Grand Cartographer **[Olara Marenies]{.name data-type="being/npc"}**) and the Smiths' seat (held by the Master of the Vylarian Smiths' federation). The Trade-Seats table lists the seats of consequence.
-- **The Therkalenoi**—the twelve regional deputies, whose identities matter a great deal in their own territories and rarely in any other.
+Tevraks Marcus Velerianus
+: the current Tevraks, in the eighth year of his first term.
+
+Holrozimos Lucia Praetoriana
+: the senior discipline officer, widely feared.
+
+The Council's thirty-six trade-seats
+: among them [[affiliation-imprlscrblgld|The Imperial Scribal Guild]] seat (held by High Hand **[Iulia Verronius]{.name data-type="being/npc"}**, in a dual office), [[affiliation-crtgrphrsgldbyzrnlg|The Cartographers' Guild of the Bizarian League]] seat (held by Grand Cartographer **[Olara Marenies]{.name data-type="being/npc"}**) and the Smiths' seat (held by the Master of the Vylarian Smiths' federation). The Trade-Seats table lists the seats of consequence.
+
+The Therkalenoi
+: the twelve regional deputies, whose identities matter a great deal in their own territories and rarely in any other.
 
 ## Relations
 

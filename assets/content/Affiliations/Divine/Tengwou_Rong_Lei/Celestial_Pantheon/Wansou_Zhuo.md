@@ -85,9 +85,14 @@ sohl: {system: {commonSkills: []}}
 
 ## Wánsou Zhuo—The Chief Auditor of Souls
 
-- **Bureau:** Singwou, The Ministry of Final Account
-- **Domain:** Death
-- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+Bureau
+: Singwou, The Ministry of Final Account
+
+Domain
+: Death
+
+Parent
+: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
 In Wánsou Zhuo's teaching, every soul passes through Singwou, which gives the ministry leverage no other bureau has and which it
 is not above using. At death the Chief Auditor reviews the moral ledger line by line—the running
@@ -102,11 +107,19 @@ desk eventually.
 
 ### Lesser Spirits
 
-- **Wai Singzhuo**—The Ten Magistrates of the Dead, each presiding over a different category of moral failing.
-- **Haléi**—Transit Spirits, who escort souls from death to processing.
+Wai Singzhuo
+: The Ten Magistrates of the Dead, each presiding over a different category of moral failing.
+
+Haléi
+: Transit Spirits, who escort souls from death to processing.
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the mortal realm it administers
-- [[skill-tengchouscript|Teng Chou Script]]—the writing every petition is made in
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: the Celestial Bureaucracy this bureau belongs to
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the mortal realm it administers
+
+[[skill-tengchouscript|Teng Chou Script]]
+: the writing every petition is made in

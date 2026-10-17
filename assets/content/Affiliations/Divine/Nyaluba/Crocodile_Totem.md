@@ -69,8 +69,17 @@ Each dangerous reach and each ford has its own protocols, its own required offer
 
 ## See Also
 
-- [[lore-crocodilekolembozispr|Crocodile Spirit]]—the guide as a being, apart from the practices of its cult
-- [[skill-crocodilekolembozisprt|Crocodile Spirit Power]]—the standing through which the guide is asked
-- [[affiliation-nyalbpnthn|The Nyáluba Way]]—the tradition this cult belongs to
-- [[lore-nyalbsprts|Nyáluba Spirits]]—the seven kinds of guide and the three postures
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the Kolembozi and the other four clans
+[[lore-crocodilekolembozispr|Crocodile Spirit]]
+: the guide as a being, apart from the practices of its cult
+
+[[skill-crocodilekolembozisprt|Crocodile Spirit Power]]
+: the standing through which the guide is asked
+
+[[affiliation-nyalbpnthn|The Nyáluba Way]]
+: the tradition this cult belongs to
+
+[[lore-nyalbsprts|Nyáluba Spirits]]
+: the seven kinds of guide and the three postures
+
+[[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
+: the Kolembozi and the other four clans

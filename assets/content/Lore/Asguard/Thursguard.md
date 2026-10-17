@@ -16,6 +16,11 @@ The rune-priests say that the giant-kin are confined there and that nothing has 
 
 ## See Also
 
-- [[lore-thursaett|Thursaett]]—the giant-kin confined in it
-- [[lore-aldarhringr|Aldarhringr]]—the war that filled it, and the void around it
-- [[lore-theshadow|The Shadow]]—the chaos that comes out of the void
+[[lore-thursaett|Thursaett]]
+: the giant-kin confined in it
+
+[[lore-aldarhringr|Aldarhringr]]
+: the war that filled it, and the void around it
+
+[[lore-theshadow|The Shadow]]
+: the chaos that comes out of the void

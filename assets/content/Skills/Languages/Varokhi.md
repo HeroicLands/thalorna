@@ -883,8 +883,11 @@ The absence of a written form may seem to place Varokhi at a disadvantage compar
 
 Varokhi has no writing, so almost nothing of ordinary speech reaches the page at all—a name, a clan's gloss, a handful of words a clan's dealings with outsiders have carried south. What survives whole is small:
 
-- **"Hrodar vird Frodbán."**—"Hrodar, and Frodbán." (Two names joined by _vird_, the particle a longer sentence would turn on the same way.)
-- **"Eth shal."**—"This, alone." (_eth_ and _shal_, the two ordinary words § _Openings and closings_ cites—neither a name, and _shal_ opening on a pair no name opens on.)
+"Hrodar vird Frodbán."
+: "Hrodar, and Frodbán." (Two names joined by _vird_, the particle a longer sentence would turn on the same way.)
+
+"Eth shal."
+: "This, alone." (_eth_ and _shal_, the two ordinary words § _Openings and closings_ cites—neither a name, and _shal_ opening on a pair no name opens on.)
 
 ## Related Languages
 

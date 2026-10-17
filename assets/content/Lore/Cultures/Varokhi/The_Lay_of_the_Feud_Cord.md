@@ -535,7 +535,14 @@ and it did not want to come, and the old fingers worked it, and the girl held th
 
 ## See Also
 
-- [[lore-varokhiclt|Varokhi]]—the oath before witnesses, restitution set above feud, and the cords the Skathár keeps
-- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—the three seats and the Skathár
-- [[lore-druthmundrnk|Druthmund]]—the standing whose full price the lay reckons
-- [[place-edrwald|Edrwald]]—the bay shore where Othholt, Domholt and Hildreth stand
+[[lore-varokhiclt|Varokhi]]
+: the oath before witnesses, restitution set above feud, and the cords the Skathár keeps
+
+[[affiliation-vrystwldtrbs|Vristwald Tribes]]
+: the three seats and the Skathár
+
+[[lore-druthmundrnk|Druthmund]]
+: the standing whose full price the lay reckons
+
+[[place-edrwald|Edrwald]]
+: the bay shore where Othholt, Domholt and Hildreth stand

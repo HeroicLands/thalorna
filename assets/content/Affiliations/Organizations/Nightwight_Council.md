@@ -46,6 +46,11 @@ Hvirnorv's ambition has drawn the suspicion of the other Nightwight lords, who f
 
 ## See Also
 
-- [[being-hvrnrvdthmg|Hvirnorv the Deathmage]]—the Council's most powerful member
-- [[being-hlskmylsvrtrnr|Hlusmil Svartrunar]]—the necromancer the Council feeds with information
-- [[affiliation-nahild|Faith of Nahild]]—the goddess its lords serve
+[[being-hvrnrvdthmg|Hvirnorv the Deathmage]]
+: the Council's most powerful member
+
+[[being-hlskmylsvrtrnr|Hlusmil Svartrunar]]
+: the necromancer the Council feeds with information
+
+[[affiliation-nahild|Faith of Nahild]]
+: the goddess its lords serve

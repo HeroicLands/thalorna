@@ -442,12 +442,17 @@ Her status as a Snarvumak noble gives her considerable insulation. Attacking her
 
 ## Plot Hooks
 
-1. **The Memory That Shouldn't Exist**—A scholar from southern lands arrives at a chapterhouse with documents that describe Gnildrselda's illusion work in precise detail—impossible documents, from sources that predate her research. He is being watched carefully, and soon others will notice him. Gnildrselda must determine if he is a threat, a potential ally, or something far worse, before interested parties move against him.
+The Memory That Shouldn't Exist
+: A scholar from southern lands arrives at a chapterhouse with documents that describe Gnildrselda's illusion work in precise detail—impossible documents, from sources that predate her research. He is being watched carefully, and soon others will notice him. Gnildrselda must determine if he is a threat, a potential ally, or something far worse, before interested parties move against him.
 
-2. **The Victim Who Remembers**—One of Gnildrselda's memory-veils, carefully constructed years ago to protect a client from dangerous knowledge, begins to unravel. The person involved is starting to remember things they were made to forget, and those memories are tearing them apart mentally. Gnildrselda must either repair the veil (risking discovery if she moves openly) or allow the person to break, potentially revealing her hand.
+The Victim Who Remembers
+: One of Gnildrselda's memory-veils, carefully constructed years ago to protect a client from dangerous knowledge, begins to unravel. The person involved is starting to remember things they were made to forget, and those memories are tearing them apart mentally. Gnildrselda must either repair the veil (risking discovery if she moves openly) or allow the person to break, potentially revealing her hand.
 
-3. **Jon's Challenge**—Jon the Iron has gathered evidence of Gnildrselda's systematic deviation from traditional seid and brings formal complaint before the High Velva, the spiritual authority of the northern mysteries. Gnildrselda is summoned to defend herself, knowing that if she is found in violation, she may lose her ability to practice openly—or worse. Yet admitting what she has made of the craft might brand her a heretic.
+Jon's Challenge
+: Jon the Iron has gathered evidence of Gnildrselda's systematic deviation from traditional seid and brings formal complaint before the High Velva, the spiritual authority of the northern mysteries. Gnildrselda is summoned to defend herself, knowing that if she is found in violation, she may lose her ability to practice openly—or worse. Yet admitting what she has made of the craft might brand her a heretic.
 
-4. **The Archivist's Fall**—The Collector of Amber is arrested by political rivals through means Gnildrselda does not understand. The texts they handle, the networks they maintain, could lead directly to her if interrogated. Gnildrselda must choose: rescue a contact that few people know she's connected to, potentially revealing her hand to powerful enemies, or abandon them to their fate.
+The Archivist's Fall
+: The Collector of Amber is arrested by political rivals through means Gnildrselda does not understand. The texts they handle, the networks they maintain, could lead directly to her if interrogated. Gnildrselda must choose: rescue a contact that few people know she's connected to, potentially revealing her hand to powerful enemies, or abandon them to their fate.
 
-5. **The Truth Behind the Veil**—An ancient inscription Gnildrselda uncovered in her scholarly work references seid practices that suggest someone, centuries ago, was doing what she is doing now—systematizing illusion into a formal magical discipline. The inscription points to a hidden cache of texts. The effort to reach it undetected will test every skill she possesses, and retrieving the texts will make her a target for every faction that deals in forbidden knowledge.
+The Truth Behind the Veil
+: An ancient inscription Gnildrselda uncovered in her scholarly work references seid practices that suggest someone, centuries ago, was doing what she is doing now—systematizing illusion into a formal magical discipline. The inscription points to a hidden cache of texts. The effort to reach it undetected will test every skill she possesses, and retrieving the texts will make her a target for every faction that deals in forbidden knowledge.

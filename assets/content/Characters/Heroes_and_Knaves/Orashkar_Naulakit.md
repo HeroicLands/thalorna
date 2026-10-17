@@ -449,29 +449,40 @@ He is a creature of ritual and habit, finding comfort in routine and excellence,
 
 ### Strengths
 
-- **Master Navigator**: Possesses an uncanny ability to read maps, weather patterns, and terrain, able to find the best routes through nearly any landscape and predict dangers with great accuracy.
+Master Navigator
+: Possesses an uncanny ability to read maps, weather patterns, and terrain, able to find the best routes through nearly any landscape and predict dangers with great accuracy.
 
-- **Skilled Craftsperson**: Expert in the repair and maintenance of wagons, harnesses, tools, and equipment—capable of fabricating functional solutions under field conditions that would normally require a proper workshop.
+Skilled Craftsperson
+: Expert in the repair and maintenance of wagons, harnesses, tools, and equipment—capable of fabricating functional solutions under field conditions that would normally require a proper workshop.
 
-- **Exemplary Animal Handler**: Unusually gifted with draft animals; his herds consistently outperform others', and animals respond to his commands with alacrity despite his advancing years.
+Exemplary Animal Handler
+: Unusually gifted with draft animals; his herds consistently outperform others', and animals respond to his commands with alacrity despite his advancing years.
 
-- **Seasoned Diplomat**: Years of negotiating with merchants, settling disputes, and managing relationships have given him an intuitive grasp of human nature and a sure hand with quarrelsome people.
+Seasoned Diplomat
+: Years of negotiating with merchants, settling disputes, and managing relationships have given him an intuitive grasp of human nature and a sure hand with quarrelsome people.
 
-- **Practical Knowledge**: Possesses encyclopedic understanding of trade routes, merchant practices, local customs, and the peculiarities of goods management across diverse territories.
+Practical Knowledge
+: Possesses encyclopedic understanding of trade routes, merchant practices, local customs, and the peculiarities of goods management across diverse territories.
 
-- **Reliable Judgment**: His reputation is built on consistent, sound decision-making; he is trusted implicitly by major merchant families to protect their interests and livelihood.
+Reliable Judgment
+: His reputation is built on consistent, sound decision-making; he is trusted implicitly by major merchant families to protect their interests and livelihood.
 
 ### Weaknesses
 
-- **Diminishing Stamina**: Age has caught up with him; he can no longer endure the grueling pace that once marked his journeys, struggling with extended periods of physical labor and limited rest.
+Diminishing Stamina
+: Age has caught up with him; he can no longer endure the grueling pace that once marked his journeys, struggling with extended periods of physical labor and limited rest.
 
-- **Resistance to Change**: While capable of adaptation, he tends toward conservatism, preferring proven methods and occasionally dismissing newer techniques as unnecessary complications.
+Resistance to Change
+: While capable of adaptation, he tends toward conservatism, preferring proven methods and occasionally dismissing newer techniques as unnecessary complications.
 
-- **Emotional Reserve**: His tendency toward quiet introspection can make him seem distant or uncommunicative, and he struggles to articulate deeper feelings, which can create misunderstandings with those seeking more open connection.
+Emotional Reserve
+: His tendency toward quiet introspection can make him seem distant or uncommunicative, and he struggles to articulate deeper feelings, which can create misunderstandings with those seeking more open connection.
 
-- **Physical Frailty**: The cumulative toll of decades on the road has left him with chronic aches, occasional stiffness, and reduced physical strength compared to younger years, limiting his capacity for direct physical confrontation.
+Physical Frailty
+: The cumulative toll of decades on the road has left him with chronic aches, occasional stiffness, and reduced physical strength compared to younger years, limiting his capacity for direct physical confrontation.
 
-- **Vulnerability to Manipulation**: His fundamental decency and habitual trust in those of good reputation can leave him vulnerable to cunning deception by those willing to exploit his faith in human virtue.
+Vulnerability to Manipulation
+: His fundamental decency and habitual trust in those of good reputation can leave him vulnerable to cunning deception by those willing to exploit his faith in human virtue.
 
 ## Social
 
@@ -507,10 +518,14 @@ The Order of Árdavon
 
 ## Plot Hooks
 
-1. **The Lost Caravan**: A major shipment from Merchant House Valdris vanished three weeks past on a route Órashkar has traveled safely a hundred times. The patrons initially assumed it was lost to Ravenswood brigands, but Órashkar's careful investigation suggests something far stranger—the caravan simply _disappeared_, leaving no trace of wreckage, bodies, or signs of struggle. Some of his younger proteges may have been traveling with that doomed convoy, and Órashkar is determined to discover what happened, even as darker possibilities surface: talk of sorcery, rumors of a rival merchant deliberately sabotaging competitors, or worse—suggestions that Órashkar himself may have been responsible for the loss, a final test of his faculties before his inevitable retirement.
+The Lost Caravan
+: A major shipment from Merchant House Valdris vanished three weeks past on a route Órashkar has traveled safely a hundred times. The patrons initially assumed it was lost to Ravenswood brigands, but Órashkar's careful investigation suggests something far stranger—the caravan simply _disappeared_, leaving no trace of wreckage, bodies, or signs of struggle. Some of his younger proteges may have been traveling with that doomed convoy, and Órashkar is determined to discover what happened, even as darker possibilities surface: talk of sorcery, rumors of a rival merchant deliberately sabotaging competitors, or worse—suggestions that Órashkar himself may have been responsible for the loss, a final test of his faculties before his inevitable retirement.
 
-2. **The Inheritance and the Imposter**: Órashkar's estranged sister, from whom he has been separated for over twenty years, has suddenly died and left him ownership of a remote inn and trading post at the edge of the Bizarian League's territory. When Órashkar travels to claim his inheritance, he discovers a man already entrenched as proprietor, claiming to be his sister's partner and asserting prior claims to the establishment. The situation becomes complicated when locals seem to know nothing of Órashkar's sister, and documents suggest she may have fabricated details about her family history. The true nature of the inheritance—and the mysterious stranger's claim—may require unraveling years of secrets.
+The Inheritance and the Imposter
+: Órashkar's estranged sister, from whom he has been separated for over twenty years, has suddenly died and left him ownership of a remote inn and trading post at the edge of the Bizarian League's territory. When Órashkar travels to claim his inheritance, he discovers a man already entrenched as proprietor, claiming to be his sister's partner and asserting prior claims to the establishment. The situation becomes complicated when locals seem to know nothing of Órashkar's sister, and documents suggest she may have fabricated details about her family history. The true nature of the inheritance—and the mysterious stranger's claim—may require unraveling years of secrets.
 
-3. **The Prodigy and the Crisis of Conscience**: A brilliant young teamster named Cassin, whom Órashkar trained and considered something of a protégé, has begun using Guild resources and knowledge to smuggle forbidden goods through merchant caravans. When Órashkar discovers the truth, he faces an agonizing choice: report Cassin and destroy a promising future (and perhaps the young man's life), or become complicit in criminal enterprise. Worse, Cassin threatens to reveal damaging truths about one of Órashkar's oldest patrons—truths that Órashkar himself may have deliberately overlooked for decades in the service of profitable arrangements. The reckoning forces Órashkar to confront how much of his reputation for reliability has rested on convenient blindness.
+The Prodigy and the Crisis of Conscience
+: A brilliant young teamster named Cassin, whom Órashkar trained and considered something of a protégé, has begun using Guild resources and knowledge to smuggle forbidden goods through merchant caravans. When Órashkar discovers the truth, he faces an agonizing choice: report Cassin and destroy a promising future (and perhaps the young man's life), or become complicit in criminal enterprise. Worse, Cassin threatens to reveal damaging truths about one of Órashkar's oldest patrons—truths that Órashkar himself may have deliberately overlooked for decades in the service of profitable arrangements. The reckoning forces Órashkar to confront how much of his reputation for reliability has rested on convenient blindness.
 
-4. **The Road That Wasn't There**: Órashkar is hired to guide a prestigious expedition of scholars and artificers to an ancient ruin deep in uncharted territory, using fragments of a map that predates even the oldest trade routes in the League's records. As the expedition progresses, Órashkar begins to realize that the landscape doesn't quite match what he remembers from other journeys to that region—geography seems subtly shifted, landmarks appear in unexpected locations, and distances prove incalculable. His navigational skills begin to fail him, an experience that shakes him deeply. The expedition faces increasing supernatural strangeness, and Órashkar must grapple with the horrifying possibility that his reputation and skills, the foundation of his whole life, may be meaningless in places where the normal rules of the world have been fundamentally altered.
+The Road That Wasn't There
+: Órashkar is hired to guide a prestigious expedition of scholars and artificers to an ancient ruin deep in uncharted territory, using fragments of a map that predates even the oldest trade routes in the League's records. As the expedition progresses, Órashkar begins to realize that the landscape doesn't quite match what he remembers from other journeys to that region—geography seems subtly shifted, landmarks appear in unexpected locations, and distances prove incalculable. His navigational skills begin to fail him, an experience that shakes him deeply. The expedition faces increasing supernatural strangeness, and Órashkar must grapple with the horrifying possibility that his reputation and skills, the foundation of his whole life, may be meaningless in places where the normal rules of the world have been fundamentally altered.

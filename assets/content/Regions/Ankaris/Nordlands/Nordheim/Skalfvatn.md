@@ -37,7 +37,14 @@ Gnirthorv's arm-ring lies under the lake, somewhere below the ring of stones. Th
 
 ## See Also
 
-- [[lore-nordkinwars|The Kin-Wars]]—the battle on the ice and the Peace of Asgarthul
-- [[affiliation-kingdomlgn|Kingdom of Malagna]]—the crown whose king lies under the lake
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—the crown that held the far shore
-- [[lore-bloodfield|Blood-fields]]—what a recurrence is, and what ends one
+[[lore-nordkinwars|The Kin-Wars]]
+: the battle on the ice and the Peace of Asgarthul
+
+[[affiliation-kingdomlgn|Kingdom of Malagna]]
+: the crown whose king lies under the lake
+
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+: the crown that held the far shore
+
+[[lore-bloodfield|Blood-fields]]
+: what a recurrence is, and what ends one

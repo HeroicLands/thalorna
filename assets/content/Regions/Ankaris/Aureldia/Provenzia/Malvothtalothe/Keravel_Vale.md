@@ -36,6 +36,11 @@ The family's deeds were walled up in the cellar before the manor was burned, and
 
 ## See Also
 
-- [[scenario-bldshscrvlvl|Blood and Ashes in Keravel Vale]]—the adventure set in the vale
-- [[place-talothe|Talote]]—the march the vale belongs to
-- [[place-caerceravel|Torvila Keravel]]—the castle town that anchors it
+[[scenario-bldshscrvlvl|Blood and Ashes in Keravel Vale]]
+: the adventure set in the vale
+
+[[place-talothe|Talote]]
+: the march the vale belongs to
+
+[[place-caerceravel|Torvila Keravel]]
+: the castle town that anchors it

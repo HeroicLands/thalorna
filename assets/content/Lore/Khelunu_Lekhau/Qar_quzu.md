@@ -14,6 +14,11 @@ It is not one domain among eight but the frame, with [[lore-zelgut|Zelgút]], in
 
 ## See Also
 
-- [[affiliation-garqarquzu|Gar-Qar'kuzu]]—the House that holds the domain
-- [[lore-zelgut|Zelgút]]—the unmaking the frame holds back
-- [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
+[[affiliation-garqarquzu|Gar-Qar'kuzu]]
+: the House that holds the domain
+
+[[lore-zelgut|Zelgút]]
+: the unmaking the frame holds back
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the philosophy and the other seven domains

@@ -25,6 +25,11 @@ The lord's castle town, [[place-hawu|Hawu]], stands on the mountain's shore.
 
 ## See Also
 
-- [[affiliation-shuiwojaidmn|Shuiwojai Domain]]—the house and its lord
-- [[place-hawu|Hawu]]—the castle town
-- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+[[affiliation-shuiwojaidmn|Shuiwojai Domain]]
+: the house and its lord
+
+[[place-hawu|Hawu]]
+: the castle town
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

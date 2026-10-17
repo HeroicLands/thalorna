@@ -22,6 +22,11 @@ In a hard winter the price of Volkemara's salt fish is felt as far inland as the
 
 ## See Also
 
-- [[affiliation-provincvld|Province of Salkalon]]—parent province
-- [[place-salkhalon|Salkalon]]—the coast it fishes
-- [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview
+[[affiliation-provincvld|Province of Salkalon]]
+: parent province
+
+[[place-salkhalon|Salkalon]]
+: the coast it fishes
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: imperial overview

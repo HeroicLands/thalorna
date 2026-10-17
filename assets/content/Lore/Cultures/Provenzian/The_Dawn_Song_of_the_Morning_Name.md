@@ -83,7 +83,14 @@ who heard it went on buying fish. And day.
 
 ## See Also
 
-- [[place-jalnazdal|Jalnasdal]]—the capital on the warm shore, its walls and its market
-- [[lore-karalzelmnt|The Lament for Karalze]]—the lament Sirrelure made for the patron who took him off the road
-- [[lore-provenzianclt|Provenzian]]—courtly love as a code of conduct, the love name, and the contract between two houses
-- [[skill-provnzlng|Provenzal]]—the tongue of the cities, and the tradition of the love name
+[[place-jalnazdal|Jalnasdal]]
+: the capital on the warm shore, its walls and its market
+
+[[lore-karalzelmnt|The Lament for Karalze]]
+: the lament Sirrelure made for the patron who took him off the road
+
+[[lore-provenzianclt|Provenzian]]
+: courtly love as a code of conduct, the love name, and the contract between two houses
+
+[[skill-provnzlng|Provenzal]]
+: the tongue of the cities, and the tradition of the love name

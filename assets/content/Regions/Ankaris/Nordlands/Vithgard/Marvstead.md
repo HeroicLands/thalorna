@@ -24,5 +24,8 @@ Marvstead's quarrel with its own hersvald runs on supply and not on law. Ivory i
 
 ## See Also
 
-- [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the kingdom this craft serves
-- [[place-vithgard|Vithgard]]—the land the kingdom holds
+[[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
+: the kingdom this craft serves
+
+[[place-vithgard|Vithgard]]
+: the land the kingdom holds

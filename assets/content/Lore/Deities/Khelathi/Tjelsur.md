@@ -21,6 +21,11 @@ On one stretch of [[place-zumeleshrvr|The Zumelesh]] the same god is held under 
 
 ## See Also
 
-- [[affiliation-tjelsuk|Faith of Tjelsur]]—the cult and its offices
-- [[lore-igelnarudty|Igelnaru]]—his local name on the southern reach of the Zumelesh, held under a noble family's charter
-- [[affiliation-garnuw|Gar'Nuw]]—the cullers who answer when the beasts take people
+[[affiliation-tjelsuk|Faith of Tjelsur]]
+: the cult and its offices
+
+[[lore-igelnarudty|Igelnaru]]
+: his local name on the southern reach of the Zumelesh, held under a noble family's charter
+
+[[affiliation-garnuw|Gar'Nuw]]
+: the cullers who answer when the beasts take people

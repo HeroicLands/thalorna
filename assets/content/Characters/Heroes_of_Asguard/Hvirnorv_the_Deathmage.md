@@ -404,8 +404,11 @@ Hvirnorv's necromantic powers are staggering: he can raise armies of the dead, b
 
 ## Plot Hooks
 
-1. **The Dark Resurrection**—Hvirnorv is attempting to raise an ancient dragon from death to serve as his ultimate weapon. The ritual requires components scattered across the northern lands, and agents of Eidgar race to destroy them before Hvirnorv can collect them all.
+The Dark Resurrection
+: Hvirnorv is attempting to raise an ancient dragon from death to serve as his ultimate weapon. The ritual requires components scattered across the northern lands, and agents of Eidgar race to destroy them before Hvirnorv can collect them all.
 
-2. **The Heart of Judgment**—The corrupted relic still contains a spark of its original divine power. A vision suggests that if it can be reclaimed and purified, it could be the key to destroying Hvirnorv permanently.
+The Heart of Judgment
+: The corrupted relic still contains a spark of its original divine power. A vision suggests that if it can be reclaimed and purified, it could be the key to destroying Hvirnorv permanently.
 
-3. **Nightwight Civil War**—Hvirnorv's ambition has drawn the suspicion of other Nightwight lords, who fear he plans to usurp Nahild's authority. A power struggle among the Helspawn could be exploited—or could make things far worse.
+Nightwight Civil War
+: Hvirnorv's ambition has drawn the suspicion of other Nightwight lords, who fear he plans to usurp Nahild's authority. A power struggle among the Helspawn could be exploited—or could make things far worse.

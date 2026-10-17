@@ -432,12 +432,17 @@ Few; while respected, some traditionalists doubt her abilities.
 
 ## Plot Hooks
 
-1. **The Huscarl's Dilemma**—Rakhimea faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Helionis.
+The Huscarl's Dilemma
+: Rakhimea faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Helionis.
 
-2. **Old Grudges**—Few; while respected, some traditionalists doubt her abilities. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Old Grudges
+: Few; while respected, some traditionalists doubt her abilities. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Rakhimea's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+Echoes of the Past
+: Something from Rakhimea's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Rakhimea depends upon. She must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Helionis threaten to upend the social order that Rakhimea depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Rakhimea the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Rakhimea the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

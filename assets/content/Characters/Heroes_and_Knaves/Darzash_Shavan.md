@@ -438,19 +438,37 @@ Darzash is animated by a belief that physical objects possess sacred significanc
 
 ### Strengths
 
-- **Artistry**: Her creative vision manifests in work of uncanny beauty, capable of inspiring awe and spiritual recognition in those who encounter it.
-- **Perceptual Mastery**: Her perception and awareness are honed to detect the inner structure of wood—grain patterns, hidden flaws, and the potential forms dwelling within each timber.
-- **Dexterous Precision**: Her hands are instruments of extraordinary control, capable of executing details of impossible fineness through hours of focused, meditative work.
-- **Integrity**: She cannot be swayed from artistic conviction by payment, threat, or appeal—a consistency that ultimately generates respect and trust.
-- **Comprehensive Craftwork**: Beyond carving, her expertise spans wood staining, varnishing, joinery, and the subtle art of finishing, making her work both beautiful and durable.
+Artistry
+: Her creative vision manifests in work of uncanny beauty, capable of inspiring awe and spiritual recognition in those who encounter it.
+
+Perceptual Mastery
+: Her perception and awareness are honed to detect the inner structure of wood—grain patterns, hidden flaws, and the potential forms dwelling within each timber.
+
+Dexterous Precision
+: Her hands are instruments of extraordinary control, capable of executing details of impossible fineness through hours of focused, meditative work.
+
+Integrity
+: She cannot be swayed from artistic conviction by payment, threat, or appeal—a consistency that ultimately generates respect and trust.
+
+Comprehensive Craftwork
+: Beyond carving, her expertise spans wood staining, varnishing, joinery, and the subtle art of finishing, making her work both beautiful and durable.
 
 ### Weaknesses
 
-- **Paralyzing Perfectionism**: Her refusal to consider any work complete until it achieves impossible standards often results in commissions delayed months beyond agreed timelines, risking her reputation.
-- **Economic Vulnerability**: Her artistic integrity comes at the cost of stable income, leaving her sometimes unable to meet basic needs during periods of creative drought.
-- **Interpersonal Distance**: Her intensity and selective nature with commissions alienate potential patrons who perceive her as difficult or contemptuous.
-- **Fixation and Tunnel Vision**: Once committed to a creative vision, she struggles to adapt to changing circumstances or shift attention to other concerns.
-- **Physical Fragility**: Her years of fine detail work have begun manifesting in hand tremors and eye strain, threatening the very precision upon which her craft depends.
+Paralyzing Perfectionism
+: Her refusal to consider any work complete until it achieves impossible standards often results in commissions delayed months beyond agreed timelines, risking her reputation.
+
+Economic Vulnerability
+: Her artistic integrity comes at the cost of stable income, leaving her sometimes unable to meet basic needs during periods of creative drought.
+
+Interpersonal Distance
+: Her intensity and selective nature with commissions alienate potential patrons who perceive her as difficult or contemptuous.
+
+Fixation and Tunnel Vision
+: Once committed to a creative vision, she struggles to adapt to changing circumstances or shift attention to other concerns.
+
+Physical Fragility
+: Her years of fine detail work have begun manifesting in hand tremors and eye strain, threatening the very precision upon which her craft depends.
 
 ## Social
 
@@ -480,12 +498,17 @@ Míthara's Circle of Creation
 
 ## Plot Hooks
 
-1. **The Commission of the Divine Loom**: A mysterious cloaked figure arrived at Darzash's workshop bearing an ancient codex and an impossibly detailed commission—a wooden frame for a sacred loom that the stranger claims can weave fate itself. The payment offered is obscene, but the work would require her to venture into the Whispering Forest to harvest wood from a tree that according to legend exists only in the dreams of the dying. The stranger vanishes after the initial meeting, leaving only the codex and a cryptic warning that those who have pursued this commission before have never returned. Darzash finds herself tormented by the project's significance and the terrible beauty embedded in its requirements.
+The Commission of the Divine Loom
+: A mysterious cloaked figure arrived at Darzash's workshop bearing an ancient codex and an impossibly detailed commission—a wooden frame for a sacred loom that the stranger claims can weave fate itself. The payment offered is obscene, but the work would require her to venture into the Whispering Forest to harvest wood from a tree that according to legend exists only in the dreams of the dying. The stranger vanishes after the initial meeting, leaving only the codex and a cryptic warning that those who have pursued this commission before have never returned. Darzash finds herself tormented by the project's significance and the terrible beauty embedded in its requirements.
 
-2. **The Theft at the Riverside Market**: One of Darzash's most celebrated creations—a meditation staff commissioned by the High Priestess—has been stolen from the Riverside Market during the night, seemingly from a locked merchant's stall where it was displayed. The thief left no trace except for a single carved wooden token of extraordinary craftsmanship, possibly surpassing her own work. The High Priestess, devastated, turns to Darzash not for a replacement but for investigation. As Darzash pursues the matter, she discovers a network of forged items appearing in noble collections—perfect imitations of her work created by someone with intimate knowledge of her techniques, possibly a former apprentice or spy within her workshop itself.
+The Theft at the Riverside Market
+: One of Darzash's most celebrated creations—a meditation staff commissioned by the High Priestess—has been stolen from the Riverside Market during the night, seemingly from a locked merchant's stall where it was displayed. The thief left no trace except for a single carved wooden token of extraordinary craftsmanship, possibly surpassing her own work. The High Priestess, devastated, turns to Darzash not for a replacement but for investigation. As Darzash pursues the matter, she discovers a network of forged items appearing in noble collections—perfect imitations of her work created by someone with intimate knowledge of her techniques, possibly a former apprentice or spy within her workshop itself.
 
-3. **The Alchemist's Proposition**: **Master [[being-dmrthsvshrds|Domrithas Vishardas]]**, the alchemist of Nartun, sends an emissary requesting a commission of extraordinary delicacy—wooden vessels capable of containing and preserving alchemical essences of such volatility that even ceramic fails. When Darzash attempts to research what these essences might be, she encounters resistance and fear. Further investigation suggests that [[being-dmrthsvshrds|Domrithas]] is attempting to create containers for materials that should not exist, substances banned by the religious authorities. Accepting the commission would compromise her spiritual principles; refusing it could make her a target for the alchemist's spite.
+The Alchemist's Proposition
+: **Master [[being-dmrthsvshrds|Domrithas Vishardas]]**, the alchemist of Nartun, sends an emissary requesting a commission of extraordinary delicacy—wooden vessels capable of containing and preserving alchemical essences of such volatility that even ceramic fails. When Darzash attempts to research what these essences might be, she encounters resistance and fear. Further investigation suggests that [[being-dmrthsvshrds|Domrithas]] is attempting to create containers for materials that should not exist, substances banned by the religious authorities. Accepting the commission would compromise her spiritual principles; refusing it could make her a target for the alchemist's spite.
 
-4. **The Curse of the Whispering Forest**: After completing a commission using timber harvested from the Whispering Forest (against her better judgment), Darzash discovers that her finished pieces begin to develop patterns of their own—carvings appearing in the wood as if carved by invisible hands, always in the shape of warning signs or desperate pleas. Terrified and fascinated, she realizes the timber itself is somehow inhabited or cursed, and that her work may be serving as a conduit for something trapped within the forest to communicate with the physical world. She must determine whether to continue using this extraordinary material or burn her entire inventory and break the cycle.
+The Curse of the Whispering Forest
+: After completing a commission using timber harvested from the Whispering Forest (against her better judgment), Darzash discovers that her finished pieces begin to develop patterns of their own—carvings appearing in the wood as if carved by invisible hands, always in the shape of warning signs or desperate pleas. Terrified and fascinated, she realizes the timber itself is somehow inhabited or cursed, and that her work may be serving as a conduit for something trapped within the forest to communicate with the physical world. She must determine whether to continue using this extraordinary material or burn her entire inventory and break the cycle.
 
-5. **The Master's Lost Heir**: An elderly wanderer arrives in Amradad claiming to be the last surviving student of **Shuvar Shavan**—Darzash's father. The stranger possesses intimate knowledge of her father's private theories and unfinished works, but also tells a tale of betrayal, a secret commission for a noble house that led to her father's death, and a cache of his materials hidden in the mountains. The stranger asks for Darzash's help recovering these works, but the journey would require weeks away from her workshop and would place her in direct conflict with the same noble house whose interests led to her father's mysterious end. The stranger's motivations, however, remain unclear and potentially dangerous.
+The Master's Lost Heir
+: An elderly wanderer arrives in Amradad claiming to be the last surviving student of **Shuvar Shavan**—Darzash's father. The stranger possesses intimate knowledge of her father's private theories and unfinished works, but also tells a tale of betrayal, a secret commission for a noble house that led to her father's death, and a cache of his materials hidden in the mountains. The stranger asks for Darzash's help recovering these works, but the journey would require weeks away from her workshop and would place her in direct conflict with the same noble house whose interests led to her father's mysterious end. The stranger's motivations, however, remain unclear and potentially dangerous.

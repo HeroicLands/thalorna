@@ -71,9 +71,20 @@ Gekhenu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter o
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—parent selat class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—imperial overview
-- [[place-gekhenu|Gekhenu]]—selat capital
-- [[affiliation-rethsaar|Faith of Reth'Sa'ar]]—patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—temple-treasuries
-- [[place-gekhenuselat|Gekhenu Selat]]—the land the selat holds
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: parent selat class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: imperial overview
+
+[[place-gekhenu|Gekhenu]]
+: selat capital
+
+[[affiliation-rethsaar|Faith of Reth'Sa'ar]]
+: patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: temple-treasuries
+
+[[place-gekhenuselat|Gekhenu Selat]]
+: the land the selat holds

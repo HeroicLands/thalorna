@@ -260,6 +260,11 @@ Kept.
 
 ## See Also
 
-- [[lore-tarvenanclt|Tarvenan]]—the muster roll, the earned name and the unnaming, the oath stone and the contract
-- [[affiliation-ardavon|Faith of Árdavon]]—the Feast of Thresholds and the god of the two faces
-- [[affiliation-ordrsldwrd|Order of the Sealed Word]]—the hearing on a broken oath
+[[lore-tarvenanclt|Tarvenan]]
+: the muster roll, the earned name and the unnaming, the oath stone and the contract
+
+[[affiliation-ardavon|Faith of Árdavon]]
+: the Feast of Thresholds and the god of the two faces
+
+[[affiliation-ordrsldwrd|Order of the Sealed Word]]
+: the hearing on a broken oath

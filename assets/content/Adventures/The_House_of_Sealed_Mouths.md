@@ -307,9 +307,20 @@ The steward stands at the second table with a curved needle in his hand, finishi
 
 ## See Also
 
-- [[place-lutithnet|Lut-Ithnet]]—the estate, and what is really there
-- [[being-tereb|Tereb]]—what the steward is, and why his Hallowed Ground matters
-- [[being-damut|Damut]]—what the household has become
-- [[lore-readingweigh|The Reading at the Weighing]]—the Asking the steward has sewn shut
-- [[lore-khelathiclt|Khelathi]]—the ledger-ethic, releases and false entries
-- [[lore-khelunulekha|Khelunu Lekhau]]—the Houses, and Gar-Ithnetáu's road for the dead
+[[place-lutithnet|Lut-Ithnet]]
+: the estate, and what is really there
+
+[[being-tereb|Tereb]]
+: what the steward is, and why his Hallowed Ground matters
+
+[[being-damut|Damut]]
+: what the household has become
+
+[[lore-readingweigh|The Reading at the Weighing]]
+: the Asking the steward has sewn shut
+
+[[lore-khelathiclt|Khelathi]]
+: the ledger-ethic, releases and false entries
+
+[[lore-khelunulekha|Khelunu Lekhau]]
+: the Houses, and Gar-Ithnetáu's road for the dead

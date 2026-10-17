@@ -20,5 +20,8 @@ A second telling gives the sickness a body: a woman called the **Grey Walker**, 
 
 ## See Also
 
-- [[place-hrandstead|Hrandstead]]—the ting that holds the dale for its dead
-- [[lore-vthgdhstry|Histories and Legends of Vithgard]]—the Emptying of Isdal
+[[place-hrandstead|Hrandstead]]
+: the ting that holds the dale for its dead
+
+[[lore-vthgdhstry|Histories and Legends of Vithgard]]
+: the Emptying of Isdal

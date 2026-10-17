@@ -24,5 +24,8 @@ The one argument Dvalgheim has needed to settle is who owes the watch when the r
 
 ## See Also
 
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—the kingdom whose riders change watch here
-- [[place-nordheim|Nordheim]]—the land the kingdom holds
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+: the kingdom whose riders change watch here
+
+[[place-nordheim|Nordheim]]
+: the land the kingdom holds

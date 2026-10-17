@@ -67,9 +67,14 @@ sohl: {system: {commonSkills: [griot, nyalbdrm]}}
 
 ## The Nyáluba Way
 
-- **Pronunciation**: _n'YAH-loo-bah_
-- **Region:** [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] (southern [[place-xerathia|Zerathia]])
-- **Principal language:** [[skill-nyalbnlng|Nyáluban]]
+Pronunciation
+: _n'YAH-loo-bah_
+
+Region
+: [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] (southern [[place-xerathia|Zerathia]])
+
+Principal language
+: [[skill-nyalbnlng|Nyáluban]]
 
 The Nyáluba Pantheon—the religious tradition of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—
 is not a pantheon in Nyáluba understanding, and the Nyáluba would not use the word. There is no council of named deities with defined
@@ -161,10 +166,23 @@ coherent of the documented forms.
 
 ### See Also
 
-- [[lore-nyalbsprts|Nyáluba Spirits]]—the guides, the seven kinds, the three postures, the pacts
-- [[lore-shorinyadty|Shorinya Ndafo]]—the source, which is acknowledged and never venerated
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the five clans whose faith this is
-- [[skill-nyalbnlng|Nyáluban]]—the language of its songs, drums and oral tradition
-- [[affiliation-nkaruthar|Nkaru'thar]]—the Okharik Eternal Flame, kin-tradition to its shamanic line
-- [[affiliation-firstgods|The First Gods]]—the Áelendan pantheon whose Kindred most closely parallel the guides
-- [[lore-pnthnrgnlmp|Pantheon Regional Map]]—regional index of pantheons
+[[lore-nyalbsprts|Nyáluba Spirits]]
+: the guides, the seven kinds, the three postures, the pacts
+
+[[lore-shorinyadty|Shorinya Ndafo]]
+: the source, which is acknowledged and never venerated
+
+[[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
+: the five clans whose faith this is
+
+[[skill-nyalbnlng|Nyáluban]]
+: the language of its songs, drums and oral tradition
+
+[[affiliation-nkaruthar|Nkaru'thar]]
+: the Okharik Eternal Flame, kin-tradition to its shamanic line
+
+[[affiliation-firstgods|The First Gods]]
+: the Áelendan pantheon whose Kindred most closely parallel the guides
+
+[[lore-pnthnrgnlmp|Pantheon Regional Map]]
+: regional index of pantheons

@@ -10,11 +10,20 @@ tags: [lore, lineage]
 data: {packFolder: settinglore, culture: sinaleclt}
 ---
 
-- **Common Names:** The Elder Folk, the Firstborn, the Star-Kindled, the Twilight People
-- **Self-Name:** Sinale (singular: Sinalo; adjective: _Sinalean_)
-- **Origins:** Unknown; arrived on Thalorna from an undisclosed prior realm roughly eight millennia ago (≈7500 BF, approximate)
-- **Population:** Vanishingly rare (<0.01% of world population). Most humans have never seen one.
-- **Enclaves:** Scattered throughout Thalorna, invariably in deep forests, hidden valleys, or island sanctuaries far from human settlement
+Common Names
+: The Elder Folk, the Firstborn, the Star-Kindled, the Twilight People
+
+Self-Name
+: Sinale (singular: Sinalo; adjective: _Sinalean_)
+
+Origins
+: Unknown; arrived on Thalorna from an undisclosed prior realm roughly eight millennia ago (≈7500 BF, approximate)
+
+Population
+: Vanishingly rare (<0.01% of world population). Most humans have never seen one.
+
+Enclaves
+: Scattered throughout Thalorna, invariably in deep forests, hidden valleys, or island sanctuaries far from human settlement
 
 The **Sinale** are the eldest of the speaking peoples—the Firstborn, whose presence in Thalorna predates the earliest human civilizations by millennia. They were ancient when the ancestors of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] were laying the first stones of their river cities; they were old when the Pelwar nomads first crossed into western [[place-ankrscntnnt|Ankaris Continent]]. Their presence on Thalorna stretches back roughly eight millennia—to approximately 7500 BF, a figure nobody holds more precisely than that, long before humans kept written records and long before the earliest human civilizations took shape. Their history as a people reaches further still, back into the prior realm from which they came; but of that time they tell outsiders nothing. The Sinale themselves do not share their reckoning of years with outsiders.
 
@@ -102,13 +111,26 @@ The Sinale also maintain some form of connection with the peoples of [[place-kch
 
 ## See Also
 
-- [[lore-flkkhazar|Khazari]]—The second elder race; the Deep Folk
-- [[place-elavendre|Élavendre]]—The human realm with the closest and most willing Sinalean contact
-- [[affiliation-tantsouempr|Empire of Tantsou]]—Formal contact, possibly coerced; see [[lore-elderraces|Elder Races]]
-- [[place-kchchkcntnnt|K'ich'chik]]—Some form of connection with K'ich'chik society
-- [[place-vrystwald|Vristwald Region]]—Known to contain Sinalean enclaves
-- [[place-aelwyth|Aelwyth Region]]—Known to contain Sinalean enclaves
-- [[place-haulonna|Haulonna]]—Destroyed Sinalean enclave in [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+[[lore-flkkhazar|Khazari]]
+: The second elder race; the Deep Folk
+
+[[place-elavendre|Élavendre]]
+: The human realm with the closest and most willing Sinalean contact
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: Formal contact, possibly coerced; see [[lore-elderraces|Elder Races]]
+
+[[place-kchchkcntnnt|K'ich'chik]]
+: Some form of connection with K'ich'chik society
+
+[[place-vrystwald|Vristwald Region]]
+: Known to contain Sinalean enclaves
+
+[[place-aelwyth|Aelwyth Region]]
+: Known to contain Sinalean enclaves
+
+[[place-haulonna|Haulonna]]
+: Destroyed Sinalean enclave in [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
 
 ## Glossary {#glossary}
 

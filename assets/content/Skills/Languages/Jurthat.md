@@ -1436,11 +1436,20 @@ Two island habits diverge. First, the reading of a character in Jurthati is freq
 
 ## Sample Phrases
 
-- **"Jen chai, kei te."**—"Nine mountains, one heaven." (Proverbial; the claim to an undivided Mandate.)
-- **"Ja ku wa."**—"The blade answers." (Of Ruising, the island form of ritual death, taken as a mode of speech.)
-- **"Chai ku jo bo?"**—"Does the mountain fall?" (Of patience under pressure; the question needs no answer.)
-- **"Kobei ku wanure."**—"This unworthy one humbly answers." (A formal acceptance, in the humble and polite forms.)
-- **"Tanzo ku wadan bo?"**—"Does my lord answer?" (The furthest a retainer may press a lord for a decision.)
+"Jen chai, kei te."
+: "Nine mountains, one heaven." (Proverbial; the claim to an undivided Mandate.)
+
+"Ja ku wa."
+: "The blade answers." (Of Ruising, the island form of ritual death, taken as a mode of speech.)
+
+"Chai ku jo bo?"
+: "Does the mountain fall?" (Of patience under pressure; the question needs no answer.)
+
+"Kobei ku wanure."
+: "This unworthy one humbly answers." (A formal acceptance, in the humble and polite forms.)
+
+"Tanzo ku wadan bo?"
+: "Does my lord answer?" (The furthest a retainer may press a lord for a decision.)
 
 ## Related Languages
 

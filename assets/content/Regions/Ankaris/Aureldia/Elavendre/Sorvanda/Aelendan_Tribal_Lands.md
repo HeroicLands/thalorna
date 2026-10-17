@@ -26,11 +26,20 @@ The Lands occupy the broad mountainous interior that rises behind the coastal pl
 
 The landscape is characterized by:
 
-- **Forested valleys**—narrow, stream-threaded, and densely wooded, connecting the high country to the lower slopes
-- **High pastures**—summer grazing for the small herds of sheep and goats that the tribal communities maintain
-- **Mountain sanctuaries**—natural features (peaks, passes, springs, caves) recognized as sacred sites of the Kindred Pact, each with its own protocols; the eastern pass, [[place-nelgan|Nelgan]], is the way the people first came in
-- **Grove shrines**—smaller sacred sites scattered through the forested belts, often tended by a single Tradition Keeper or Warden
-- **Ancient trackways**—unmarked paths through the mountains and forests, known to the Áelendan and to the Wardens, and largely impassable to outsiders who have not been shown the way
+Forested valleys
+: narrow, stream-threaded, and densely wooded, connecting the high country to the lower slopes
+
+High pastures
+: summer grazing for the small herds of sheep and goats that the tribal communities maintain
+
+Mountain sanctuaries
+: natural features (peaks, passes, springs, caves) recognized as sacred sites of the Kindred Pact, each with its own protocols; the eastern pass, [[place-nelgan|Nelgan]], is the way the people first came in
+
+Grove shrines
+: smaller sacred sites scattered through the forested belts, often tended by a single Tradition Keeper or Warden
+
+Ancient trackways
+: unmarked paths through the mountains and forests, known to the Áelendan and to the Wardens, and largely impassable to outsiders who have not been shown the way
 
 ### The Kervaron Frontier
 
@@ -73,10 +82,17 @@ A handful of chartered lowland settlements sit at the edge of the Lands, serving
 
 ## Notable Places
 
-- [[place-drenavrspn|The Drenavar Spine]]—The sacred mountain range at the heart of the Lands; the most densely Pact-bound territory and the largest concentration of Wardens
-- [[place-eshalshldg|Ésalosa Lodge]]—The principal Áelendan settlement, a ceremonial and political gathering place in a sheltered valley of the Drenavar Spine
-- **The Silver Forests**—An ancient fae-touched woodland under heavy Warden watch, shared in neighborly arrangement with the [[lore-flksinale|Sinale]]
-- **Mountain sanctuaries and grove shrines**—Scattered across the interior; each has its own standing in the Kindred Pact and its own customary protocols
+[[place-drenavrspn|The Drenavar Spine]]
+: The sacred mountain range at the heart of the Lands; the most densely Pact-bound territory and the largest concentration of Wardens
+
+[[place-eshalshldg|Ésalosa Lodge]]
+: The principal Áelendan settlement, a ceremonial and political gathering place in a sheltered valley of the Drenavar Spine
+
+The Silver Forests
+: An ancient fae-touched woodland under heavy Warden watch, shared in neighborly arrangement with the [[lore-flksinale|Sinale]]
+
+Mountain sanctuaries and grove shrines
+: Scattered across the interior; each has its own standing in the Kindred Pact and its own customary protocols
 
 ## Access and Travel
 
@@ -86,11 +102,26 @@ Those who have reason to travel the Lands are expected to take a tribal guide, t
 
 ## See Also
 
-- [[lore-aelendnppl|Áelendan]]—The people who inhabit these lands
-- [[affiliation-alndnwrdns|Áelendan Wardens]]—The order charged with protecting sacred territory
-- [[place-elavendre|Élavendre]]—The kingdom within which the Lands lie
-- [[place-drenavrspn|Drenavar Spine]]—The sacred range at the heart of the Lands
-- [[place-eshalshldg|Ésalosa Lodge]]—Principal Áelendan settlement
-- [[skill-aelendlng|Áelendi Language]]—The language spoken throughout the Lands
-- [[affiliation-theoldway|The Old Way]]—The religious tradition of the Áelendan (pantheon: [[affiliation-firstgods|The First Gods]])
-- [[lore-flksinale|Sinale]]—Neighboring elder race of the Silver Forests
+[[lore-aelendnppl|Áelendan]]
+: The people who inhabit these lands
+
+[[affiliation-alndnwrdns|Áelendan Wardens]]
+: The order charged with protecting sacred territory
+
+[[place-elavendre|Élavendre]]
+: The kingdom within which the Lands lie
+
+[[place-drenavrspn|Drenavar Spine]]
+: The sacred range at the heart of the Lands
+
+[[place-eshalshldg|Ésalosa Lodge]]
+: Principal Áelendan settlement
+
+[[skill-aelendlng|Áelendi Language]]
+: The language spoken throughout the Lands
+
+[[affiliation-theoldway|The Old Way]]
+: The religious tradition of the Áelendan (pantheon: [[affiliation-firstgods|The First Gods]])
+
+[[lore-flksinale|Sinale]]
+: Neighboring elder race of the Silver Forests

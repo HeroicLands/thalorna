@@ -451,19 +451,37 @@ Bokhenon seeks redemption through service to Lizelas, believing that only throug
 
 ### Strengths
 
-- **Ritual Mastery**: Bokhenon commands arcane knowledge of ceremonial fire magic and spirit communion, rivaling many monks in understanding the esoteric traditions.
-- **Martial Command**: His skill at directing troops and inspiring warriors remains unrivaled; soldiers under his blessing fight with ferocity and discipline.
-- **Physical Dominance**: Even at forty-five, his strength and endurance are outstanding, and he wields his warhammer with devastating precision.
-- **Charismatic Authority**: His voice carries weight; people listen, whether from respect or intimidation, and his oratory can sway crowds and convince the doubtful.
-- **Seamanship**: His decades at sea left him intimately knowledgeable about navigation, sail-craft, and the governance of vessels and crews.
+Ritual Mastery
+: Bokhenon commands arcane knowledge of ceremonial fire magic and spirit communion, rivaling many monks in understanding the esoteric traditions.
+
+Martial Command
+: His skill at directing troops and inspiring warriors remains unrivaled; soldiers under his blessing fight with ferocity and discipline.
+
+Physical Dominance
+: Even at forty-five, his strength and endurance are outstanding, and he wields his warhammer with devastating precision.
+
+Charismatic Authority
+: His voice carries weight; people listen, whether from respect or intimidation, and his oratory can sway crowds and convince the doubtful.
+
+Seamanship
+: His decades at sea left him intimately knowledgeable about navigation, sail-craft, and the governance of vessels and crews.
 
 ### Weaknesses
 
-- **Emotional Coldness**: His empathy is limited; he views suffering as weakness and struggle as purification, making him a harsh judge of human frailty.
-- **Dogmatic Fervor**: He interprets doctrine with little flexibility, viewing compromise as betrayal of the faith itself.
-- **Aggressive Impulse**: Though he channels his violence through the church, his first instinct in conflict remains overwhelming force rather than negotiation.
-- **Reputation for Cruelty**: His pirate past haunts him despite conversion; many fear his forgiveness is superficial, and some of his victims' families still hunger for vengeance.
-- **Limited Creativity**: Though skilled in established rituals, he struggles to adapt or improvise when tradition provides no answer.
+Emotional Coldness
+: His empathy is limited; he views suffering as weakness and struggle as purification, making him a harsh judge of human frailty.
+
+Dogmatic Fervor
+: He interprets doctrine with little flexibility, viewing compromise as betrayal of the faith itself.
+
+Aggressive Impulse
+: Though he channels his violence through the church, his first instinct in conflict remains overwhelming force rather than negotiation.
+
+Reputation for Cruelty
+: His pirate past haunts him despite conversion; many fear his forgiveness is superficial, and some of his victims' families still hunger for vengeance.
+
+Limited Creativity
+: Though skilled in established rituals, he struggles to adapt or improvise when tradition provides no answer.
 
 ## Social
 
@@ -499,12 +517,17 @@ The Order of the Sacred Flame
 
 ## Plot Hooks
 
-1. **The Pirate's Debt Calls**: A merchant vessel recently arrived in the Bizarian harbors bearing Kekhasin's colors—and word that the captain has grown tired of hunting. He sends a message to Bokhenon: surrender yourself for trial before the pirate assembly, or he will burn the ports themselves in siege. As military leaders call upon Bokhenon to lead the defense, he must decide whether his past truly has been absolved by faith, or whether some debts must be settled with steel rather than prayer. The party may find themselves hired to track down Kekhasin before he strikes, or forced to help Bokhenon face this specter from his corsair days.
+The Pirate's Debt Calls
+: A merchant vessel recently arrived in the Bizarian harbors bearing Kekhasin's colors—and word that the captain has grown tired of hunting. He sends a message to Bokhenon: surrender yourself for trial before the pirate assembly, or he will burn the ports themselves in siege. As military leaders call upon Bokhenon to lead the defense, he must decide whether his past truly has been absolved by faith, or whether some debts must be settled with steel rather than prayer. The party may find themselves hired to track down Kekhasin before he strikes, or forced to help Bokhenon face this specter from his corsair days.
 
-2. **A Crisis of Faith**: High Priestess Pazhurena discovers evidence suggesting that Bokhenon has been conducting unauthorized dark rituals in the temple's lower chambers—communing with ancient fire spirits of malevolent aspect rather than divine flame. Whether this is truth or elaborate fabrication by enemies within the priesthood, it threatens to destroy both the church's stability and Bokhenon's hard-won redemption. The party might be tasked by competing factions to either prove his guilt or uncover the conspiracy against him, delving into the shadowed politics of ecclesiastical power.
+A Crisis of Faith
+: High Priestess Pazhurena discovers evidence suggesting that Bokhenon has been conducting unauthorized dark rituals in the temple's lower chambers—communing with ancient fire spirits of malevolent aspect rather than divine flame. Whether this is truth or elaborate fabrication by enemies within the priesthood, it threatens to destroy both the church's stability and Bokhenon's hard-won redemption. The party might be tasked by competing factions to either prove his guilt or uncover the conspiracy against him, delving into the shadowed politics of ecclesiastical power.
 
-3. **The Resurrection of the Scarlet Reaver**: Bokhenon's old crew, scattered and aged, begins to reassemble on the docks. Led by his former first mate Gaspar—a scarred, one-eyed survivor who claims Bokhenon abandoned them all those years ago—they demand that he return to the seas and reclaim the piracy that made them rich. They hold the deed to his former ship, recently recovered from the depths, and they offer him a choice: sail with them one final time, or watch them use his secrets to burn the Bizarian League itself. The party becomes caught between honoring the transformation of a complex man and preventing catastrophe.
+The Resurrection of the Scarlet Reaver
+: Bokhenon's old crew, scattered and aged, begins to reassemble on the docks. Led by his former first mate Gaspar—a scarred, one-eyed survivor who claims Bokhenon abandoned them all those years ago—they demand that he return to the seas and reclaim the piracy that made them rich. They hold the deed to his former ship, recently recovered from the depths, and they offer him a choice: sail with them one final time, or watch them use his secrets to burn the Bizarian League itself. The party becomes caught between honoring the transformation of a complex man and preventing catastrophe.
 
-4. **The Heretic Within**: The Apostate Priests send an agent—a skilled assassin trained in shadow magic and priestly lore—who infiltrates the Church with the goal of killing Bokhenon during the Festival of Flames, the holiest day in the Bizarian calendar. The party may act as the priest's bodyguards, hunt the assassin before the festival arrives, or become entangled in the revelation that the heretics have sympathizers within the church hierarchy itself, forcing hard choices about justice and mercy.
+The Heretic Within
+: The Apostate Priests send an agent—a skilled assassin trained in shadow magic and priestly lore—who infiltrates the Church with the goal of killing Bokhenon during the Festival of Flames, the holiest day in the Bizarian calendar. The party may act as the priest's bodyguards, hunt the assassin before the festival arrives, or become entangled in the revelation that the heretics have sympathizers within the church hierarchy itself, forcing hard choices about justice and mercy.
 
-5. **Legacy of the Warhammer**: Bokhenon commissions a smith to forge him a warhammer from ore blessed by living fire spirits—a weapon that will be his final masterwork, to be passed to his chosen successor in the priesthood. The party is hired to gather the rare materials across dangerous lands: silver mined in volcanic caverns, wood from the oldest heartwood of a sacred grove, and stone taken from the core of a meteor that fell to earth. As they journey, they discover that Bokhenon's true plan may be far darker than mere legacy—perhaps a weapon intended to reshape the faith itself.
+Legacy of the Warhammer
+: Bokhenon commissions a smith to forge him a warhammer from ore blessed by living fire spirits—a weapon that will be his final masterwork, to be passed to his chosen successor in the priesthood. The party is hired to gather the rare materials across dangerous lands: silver mined in volcanic caverns, wood from the oldest heartwood of a sacred grove, and stone taken from the core of a meteor that fell to earth. As they journey, they discover that Bokhenon's true plan may be far darker than mere legacy—perhaps a weapon intended to reshape the faith itself.

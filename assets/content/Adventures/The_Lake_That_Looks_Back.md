@@ -120,9 +120,20 @@ Draskborg's wardens see the dark from the tower. The fortress is full of people 
 
 ## See Also
 
-- [[place-dvilgvatn|Dvilgvatn]]—the lake
-- [[place-driskborg|Draskborg]]—the fortress that watches the river and the north
-- [[lore-ginnauga|Ginnauga]]—the Eye of the Void
-- [[lore-theshadow|The Shadow]]—what comes through the leak
-- [[affiliation-nalok|Nalok]]—the order that keeps the hov
-- [[place-unthmylsfell|Unthmilsfell]]—a howe where a shard is set
+[[place-dvilgvatn|Dvilgvatn]]
+: the lake
+
+[[place-driskborg|Draskborg]]
+: the fortress that watches the river and the north
+
+[[lore-ginnauga|Ginnauga]]
+: the Eye of the Void
+
+[[lore-theshadow|The Shadow]]
+: what comes through the leak
+
+[[affiliation-nalok|Nalok]]
+: the order that keeps the hov
+
+[[place-unthmylsfell|Unthmilsfell]]
+: a howe where a shard is set

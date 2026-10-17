@@ -327,9 +327,20 @@ than a king of seventy-five thousand who has all of his. Every ruler on the isla
 
 ## See Also
 
-- [[place-elavendre|Élavendre]]—Nearest mainland region
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—Source of northern settlers
-- [[affiliation-arldnpnthn|Aureldian]]—Dominant pantheon
-- [[affiliation-asguardian|Asguardian Pantheon]]—Northern pantheon influence
-- [[lore-flksinale|Sinale]]—Elder race with southern forest enclaves
-- [[lore-flkkhazar|Khazari]]—Elder race with northeastern mountain holds
+[[place-elavendre|Élavendre]]
+: Nearest mainland region
+
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+: Source of northern settlers
+
+[[affiliation-arldnpnthn|Aureldian]]
+: Dominant pantheon
+
+[[affiliation-asguardian|Asguardian Pantheon]]
+: Northern pantheon influence
+
+[[lore-flksinale|Sinale]]
+: Elder race with southern forest enclaves
+
+[[lore-flkkhazar|Khazari]]
+: Elder race with northeastern mountain holds

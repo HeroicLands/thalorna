@@ -436,12 +436,17 @@ Crews who quarrel over a boat's share of the toll before he has finished buildin
 
 ## Plot Hooks
 
-1. **The Shipwright's Dilemma**—Wítharik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in [[place-vrystwald|Vristwald]].
+The Shipwright's Dilemma
+: Wítharik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in [[place-vrystwald|Vristwald]].
 
-2. **Old Grudges**—A boat crew blames Wítharik for a broken hull and refuses to pay, though its captain drove the boat onto the stones.
+Old Grudges
+: A boat crew blames Wítharik for a broken hull and refuses to pay, though its captain drove the boat onto the stones.
 
-3. **Echoes of the Past**—Something from Wítharik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+Echoes of the Past
+: Something from Wítharik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vristwald threaten to upend the social order that Wítharik depends upon. He must decide whether to adapt, resist, or flee.
+Shifting Winds
+: Political changes in Vristwald threaten to upend the social order that Wítharik depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Wítharik the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Opportunity
+: A chance encounter offers Wítharik the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

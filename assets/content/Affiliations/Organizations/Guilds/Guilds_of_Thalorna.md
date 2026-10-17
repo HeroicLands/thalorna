@@ -15,8 +15,11 @@ tags: []
 # terran_analog: the Vylarian tongue and institutions are the tongue of the Roman Empire.
 ---
 
-- **Type:** Overview note describing the guild system as a continent-spanning phenomenon
-- **Region:** All settled regions of [[place-ankrscntnnt|Ankaris]], [[place-xerathia|Zerathia]], [[affiliation-kalihara|Kalihara]], and trading enclaves elsewhere; form and authority vary substantially by region
+Type
+: Overview note describing the guild system as a continent-spanning phenomenon
+
+Region
+: All settled regions of [[place-ankrscntnnt|Ankaris]], [[place-xerathia|Zerathia]], [[affiliation-kalihara|Kalihara]], and trading enclaves elsewhere; form and authority vary substantially by region
 
 ## Overview
 

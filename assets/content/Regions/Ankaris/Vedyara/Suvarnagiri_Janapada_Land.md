@@ -63,6 +63,11 @@ The janapoda sells gold, iron and ironwork, fine jewelry, mountain produce, and 
 
 ## See Also
 
-- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the temple-republic that holds this land
-- [[place-vedyarargn|Vedyara Region]]—the enclosing region
-- [[place-suvarnagiri|Suvarnageri]]—the temple-seat
+[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+: the temple-republic that holds this land
+
+[[place-vedyarargn|Vedyara Region]]
+: the enclosing region
+
+[[place-suvarnagiri|Suvarnageri]]
+: the temple-seat

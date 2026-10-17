@@ -434,10 +434,14 @@ A younger master of the guild who lays reed the [[place-hylen|Hilen]] way, faste
 
 ## Plot Hooks
 
-1. **The Stores Roof**—The garrison's grain store has lost its roof in a gale a month before the legion marches, and the quartermaster needs it thatched in a week. Harekos cannot do that the old way, and the younger master can.
+The Stores Roof
+: The garrison's grain store has lost its roof in a gale a month before the legion marches, and the quartermaster needs it thatched in a week. Harekos cannot do that the old way, and the younger master can.
 
-2. **The Grandson**—The grandson Harekos has trained longest has gone to the garrison to take the legion's coin, and the recruiting serjeant is a man Harekos roofed a house for.
+The Grandson
+: The grandson Harekos has trained longest has gone to the garrison to take the legion's coin, and the recruiting serjeant is a man Harekos roofed a house for.
 
-3. **The Standard**—The guild votes next session on the Hilen method, and the younger masters have the numbers. If it passes, every roof Harekos lays after will be laid against the rule.
+The Standard
+: The guild votes next session on the Hilen method, and the younger masters have the numbers. If it passes, every roof Harekos lays after will be laid against the rule.
 
-4. **The Old Roof**—A roof Harekos laid forty years ago has come down on a family, and the farmer's son says it was laid badly. Harekos remembers the roof and the reed, and he does not think it was.
+The Old Roof
+: A roof Harekos laid forty years ago has come down on a family, and the farmer's son says it was laid badly. Harekos remembers the roof and the reed, and he does not think it was.

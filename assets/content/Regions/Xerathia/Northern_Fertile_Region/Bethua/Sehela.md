@@ -20,5 +20,8 @@ The village's best-known daughter is [[being-lmbhrpdhnn|Lámbira Pédhinion]], a
 
 ## See Also
 
-- [[being-lmbhrpdhnn|Lámbira Pédhinion]]—the village's best-known daughter
-- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—the realm the village belongs to
+[[being-lmbhrpdhnn|Lámbira Pédhinion]]
+: the village's best-known daughter
+
+[[affiliation-mtrrchybth|Matriarchy of Bethua]]
+: the realm the village belongs to

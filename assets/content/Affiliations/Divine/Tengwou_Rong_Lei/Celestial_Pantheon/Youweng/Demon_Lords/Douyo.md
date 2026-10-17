@@ -70,9 +70,14 @@ Douyo occupies a lesser but real place in the devotional life of the [[affiliati
 
 ### See Also
 
-- [[affiliation-nuotsourui|Nuotsou Rui]]—The cult that venerates Douyo for misdirection and escape
-- [[affiliation-youweng|Youwéng]]—The Demon Realm
-- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The Celestial Bureaucracy whose waymarks Douyo corrupted
+[[affiliation-nuotsourui|Nuotsou Rui]]
+: The cult that venerates Douyo for misdirection and escape
+
+[[affiliation-youweng|Youwéng]]
+: The Demon Realm
+
+[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: The Celestial Bureaucracy whose waymarks Douyo corrupted
 
 ## Outside the Ladder
 

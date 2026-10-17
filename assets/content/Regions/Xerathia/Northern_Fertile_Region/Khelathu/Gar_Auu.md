@@ -154,10 +154,23 @@ Only the houses that ruled from Galezkara lie in the royal necropolis across the
 
 ## See Also
 
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the state the throne heads
-- [[being-garaumeqesxv|Gar-Au Meqes XVI]]—the reigning Gar-Au
-- [[affiliation-garzinelrelu|Gar-Zin'el'Relu]]—the struck house
-- [[place-zugezer|Zu-Gezer]]—the royal necropolis, where each house that ruled from Galezkara has its Way
-- [[lore-khelathclndr|The Khelathi Calendar]]—regnal years beside the count from the [[lore-firstoccasion|First Occasion]], and the ages the Keepers divide the list into
-- [[lore-qettelgu|The Qet Telgu]]—where the king-list begins
-- [[affiliation-rethsaar|Faith of Reth'Sa'ar]]—the priesthood that keeps the list
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: the state the throne heads
+
+[[being-garaumeqesxv|Gar-Au Meqes XVI]]
+: the reigning Gar-Au
+
+[[affiliation-garzinelrelu|Gar-Zin'el'Relu]]
+: the struck house
+
+[[place-zugezer|Zu-Gezer]]
+: the royal necropolis, where each house that ruled from Galezkara has its Way
+
+[[lore-khelathclndr|The Khelathi Calendar]]
+: regnal years beside the count from the [[lore-firstoccasion|First Occasion]], and the ages the Keepers divide the list into
+
+[[lore-qettelgu|The Qet Telgu]]
+: where the king-list begins
+
+[[affiliation-rethsaar|Faith of Reth'Sa'ar]]
+: the priesthood that keeps the list

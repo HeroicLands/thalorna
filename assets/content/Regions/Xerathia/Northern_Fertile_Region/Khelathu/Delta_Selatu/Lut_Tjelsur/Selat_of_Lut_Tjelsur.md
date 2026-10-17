@@ -71,9 +71,20 @@ Lut-Tjelsur uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapt
 
 ## See Also
 
-- [[affiliation-deltaselatu|The Delta Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-luttjelsuk|Lut-Tjelsur]]—Selat capital
-- [[affiliation-tjelsuk|Faith of Tjelsur]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-luttjelskslt|Lut-Tjelsur Selat]]—The land the selat holds
+[[affiliation-deltaselatu|The Delta Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-luttjelsuk|Lut-Tjelsur]]
+: Selat capital
+
+[[affiliation-tjelsuk|Faith of Tjelsur]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-luttjelskslt|Lut-Tjelsur Selat]]
+: The land the selat holds

@@ -459,21 +459,43 @@ Dvarnvir is driven by a simple but deep conviction: good shelter saves lives. He
 
 ### Strengths
 
-- **Master Tentmaker**: His skill with heavy fabrics and complex construction is extraordinary. He understands fabric properties, weatherproofing techniques, and structural principles that keep people alive in brutal conditions.
-- **Problem-Solving**: Years of military experience combined with craftsmanship have given him the ability to see solutions others miss, to improve designs in subtle ways that yield major benefits.
-- **Practical Wisdom**: He possesses knowledge about survival, shelter, and the provisioning of extended journeys—skills useful far beyond tentmaking.
-- **Reliable and Trustworthy**: His word is gold; he completes work on time, to specification, and with care that borders on religious devotion.
-- **Strong Endurance**: Despite his age, he can work long hours without tiring, and his body retains the functional strength of his military days.
-- **Respected Among Soldiers**: His reputation in military circles opens doors and grants trust that others must earn laboriously.
+Master Tentmaker
+: His skill with heavy fabrics and complex construction is extraordinary. He understands fabric properties, weatherproofing techniques, and structural principles that keep people alive in brutal conditions.
+
+Problem-Solving
+: Years of military experience combined with craftsmanship have given him the ability to see solutions others miss, to improve designs in subtle ways that yield major benefits.
+
+Practical Wisdom
+: He possesses knowledge about survival, shelter, and the provisioning of extended journeys—skills useful far beyond tentmaking.
+
+Reliable and Trustworthy
+: His word is gold; he completes work on time, to specification, and with care that borders on religious devotion.
+
+Strong Endurance
+: Despite his age, he can work long hours without tiring, and his body retains the functional strength of his military days.
+
+Respected Among Soldiers
+: His reputation in military circles opens doors and grants trust that others must earn laboriously.
 
 ### Weaknesses
 
-- **Limited Production Capacity**: His refusal to cut corners means he cannot compete on volume with larger competitors. Lucrative contracts sometimes go to faster, cheaper makers.
-- **Poor Negotiation Skills**: He struggles with the business side of his work, often pricing too low or accepting unfavorable terms because he dislikes haggling.
-- **Aging and Injury**: His shoulder injury from military service acts up in cold weather, limiting his working hours during winter months. He is no longer young and cannot work at the pace he once did.
-- **Reluctance to Delegate**: He struggles to train apprentices or trust others with his work, preferring to handle everything personally, which limits his business growth.
-- **Old Soldier's Trauma**: Certain situations—the smell of smoke, loud noises at night, crowds—can trigger military memories that leave him shaken and unfocused.
-- **Limited Combat Ability**: Though he has some experience from his military days, he is out of practice and his shoulder would give him serious difficulty in any violent conflict.
+Limited Production Capacity
+: His refusal to cut corners means he cannot compete on volume with larger competitors. Lucrative contracts sometimes go to faster, cheaper makers.
+
+Poor Negotiation Skills
+: He struggles with the business side of his work, often pricing too low or accepting unfavorable terms because he dislikes haggling.
+
+Aging and Injury
+: His shoulder injury from military service acts up in cold weather, limiting his working hours during winter months. He is no longer young and cannot work at the pace he once did.
+
+Reluctance to Delegate
+: He struggles to train apprentices or trust others with his work, preferring to handle everything personally, which limits his business growth.
+
+Old Soldier's Trauma
+: Certain situations—the smell of smoke, loud noises at night, crowds—can trigger military memories that leave him shaken and unfocused.
+
+Limited Combat Ability
+: Though he has some experience from his military days, he is out of practice and his shoulder would give him serious difficulty in any violent conflict.
 
 ## Social
 
@@ -515,12 +537,17 @@ The Old Soldiers' Lodge
 
 ## Plot Hooks
 
-1. **The Expedition of the Doomed**: A famous explorer, **Lady Althselda Glarvidrok**, approaches Dvarnvir with an extraordinary commission: she seeks the finest tents ever made for an expedition into the [[place-shtrdpks|Shattered Peaks]], a mountain range of danger where previous expeditions have vanished. The pay is astronomical, but rumors suggest she seeks something forbidden in those peaks—perhaps the tomb of an ancient sorcerer, or the city of **Hulavath**. Dvarnvir must decide whether the money and the artistic challenge of creating shelter for extreme conditions justify the suspicion that he may be equipping a dangerous quest with sinister purposes.
+The Expedition of the Doomed
+: A famous explorer, **Lady Althselda Glarvidrok**, approaches Dvarnvir with an extraordinary commission: she seeks the finest tents ever made for an expedition into the [[place-shtrdpks|Shattered Peaks]], a mountain range of danger where previous expeditions have vanished. The pay is astronomical, but rumors suggest she seeks something forbidden in those peaks—perhaps the tomb of an ancient sorcerer, or the city of **Hulavath**. Dvarnvir must decide whether the money and the artistic challenge of creating shelter for extreme conditions justify the suspicion that he may be equipping a dangerous quest with sinister purposes.
 
-2. **The Sabotaged Supply**: Dvarnvir receives an urgent order from **Captain Hnurvthann Skalfidrok** for emergency tents to shelter troops caught in unexpected winter weather. He works frantically to deliver them on time, and the tents save lives. Days later, he learns that someone has planted evidence suggesting his materials were stolen from the Cloth Syndicate, and he is accused of receiving stolen goods. The real culprit may be **Krildthann**, trying to discredit him, or someone with deeper political aims. Dvarnvir must prove his innocence while uncovering who is orchestrating his ruin.
+The Sabotaged Supply
+: Dvarnvir receives an urgent order from **Captain Hnurvthann Skalfidrok** for emergency tents to shelter troops caught in unexpected winter weather. He works frantically to deliver them on time, and the tents save lives. Days later, he learns that someone has planted evidence suggesting his materials were stolen from the Cloth Syndicate, and he is accused of receiving stolen goods. The real culprit may be **Krildthann**, trying to discredit him, or someone with deeper political aims. Dvarnvir must prove his innocence while uncovering who is orchestrating his ruin.
 
-3. **The Talking Tent**: An old nomadic wanderer, **Zephyr the Unspeaking**, arrives at Dvarnvir's workshop requesting a specific tent design—one that matches a sketch the wanderer produces from memory. Dvarnvir realizes it matches designs described in fragments of old military records from before he was born. When he creates the tent according to specification, it seems to hum faintly in the wind, and people who sleep within it report vivid dreams of ancient times. The wanderer hints that this particular design contains subtle magical properties, and that **Zephyr** has been searching for someone capable of recreating it for years.
+The Talking Tent
+: An old nomadic wanderer, **Zephyr the Unspeaking**, arrives at Dvarnvir's workshop requesting a specific tent design—one that matches a sketch the wanderer produces from memory. Dvarnvir realizes it matches designs described in fragments of old military records from before he was born. When he creates the tent according to specification, it seems to hum faintly in the wind, and people who sleep within it report vivid dreams of ancient times. The wanderer hints that this particular design contains subtle magical properties, and that **Zephyr** has been searching for someone capable of recreating it for years.
 
-4. **The Apprentice's Betrayal and Redemption**: Dvarnvir's latest apprentice, a talented young woman named **Dagrun**, befriends the rival **Krildthann** and begins secretly documenting Dvarnvir's techniques to share with the competitor. When Dvarnvir discovers this betrayal, he is devastated—not angry, but deeply hurt. Dagrun, guilt-stricken, confesses that she needed money to care for her sick mother and Krildthann promised to pay her. Dvarnvir faces a choice: cast her out and prove that the craft world punishes ambition, or find a way to help her that honors both their needs and his own integrity.
+The Apprentice's Betrayal and Redemption
+: Dvarnvir's latest apprentice, a talented young woman named **Dagrun**, befriends the rival **Krildthann** and begins secretly documenting Dvarnvir's techniques to share with the competitor. When Dvarnvir discovers this betrayal, he is devastated—not angry, but deeply hurt. Dagrun, guilt-stricken, confesses that she needed money to care for her sick mother and Krildthann promised to pay her. Dvarnvir faces a choice: cast her out and prove that the craft world punishes ambition, or find a way to help her that honors both their needs and his own integrity.
 
-5. **The Expedition That Matters**: A ragged group of refugees fleeing persecution approach Dvarnvir requesting enough tents to shelter two hundred people—they will take them on a dangerous journey to the Free Lands. They have little coin, and the Cloth Syndicate has threatened to prosecute anyone helping them escape. The King's tax collectors are actively seeking to intercept this refugee group. Dvarnvir must decide whether to risk his reputation and safety to help people he'll never meet find freedom, and whether his craftsmanship is meant only for those who can afford it, or whether it has a higher purpose.
+The Expedition That Matters
+: A ragged group of refugees fleeing persecution approach Dvarnvir requesting enough tents to shelter two hundred people—they will take them on a dangerous journey to the Free Lands. They have little coin, and the Cloth Syndicate has threatened to prosecute anyone helping them escape. The King's tax collectors are actively seeking to intercept this refugee group. Dvarnvir must decide whether to risk his reputation and safety to help people he'll never meet find freedom, and whether his craftsmanship is meant only for those who can afford it, or whether it has a higher purpose.

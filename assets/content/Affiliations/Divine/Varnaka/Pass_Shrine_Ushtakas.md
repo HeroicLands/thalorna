@@ -71,9 +71,14 @@ sohl:
 
 ## The Pass-Shrine Ushtakas
 
-- **Practice:** Weather-rite and road-rite, worked at altitude
-- **Seat:** [[place-pssshrines|The Pass-Shrines]]
-- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
+Practice
+: Weather-rite and road-rite, worked at altitude
+
+Seat
+: [[place-pssshrines|The Pass-Shrines]]
+
+Pantheon
+: [[affiliation-varakpnthn|Varnuka Pantheon]]
 
 **The Pass-Shrine Ushtakas** are a hereditary line of **Retuja** who keep the temples at the high points of the crossing roads. They are born to the work, they marry inside the line, their children are raised on the cols, and one of them who comes down to the plains at forty is an old man there.
 
@@ -97,8 +102,17 @@ Their orthodoxy is exact and their practice is not. A great deal of what is done
 
 ### See Also
 
-- [[place-pssshrines|The Pass-Shrines]]—the five temples themselves
-- [[affiliation-varakpnthn|Varnuka Pantheon]]—the cycle-gods
-- [[affiliation-meghanatha|Meghonata]]—the weather-rite's god
-- [[affiliation-pavanajitras|Pavanajitras]]—the road-rite's
-- [[affiliation-osketguides|The Osket]] · [[affiliation-hvarnguides|The Hvarn]]—the guide-peoples who take the blessing seriously
+[[place-pssshrines|The Pass-Shrines]]
+: the five temples themselves
+
+[[affiliation-varakpnthn|Varnuka Pantheon]]
+: the cycle-gods
+
+[[affiliation-meghanatha|Meghonata]]
+: the weather-rite's god
+
+[[affiliation-pavanajitras|Pavanajitras]]
+: the road-rite's
+
+[[affiliation-osketguides|The Osket]] · [[affiliation-hvarnguides|The Hvarn]]
+: the guide-peoples who take the blessing seriously

@@ -442,8 +442,11 @@ The Vylarian merchant he cheated in Edrenburg has not forgotten. There may be ou
 
 ## Plot Hooks
 
-1. **The Friendly Stranger**—The party meets Vandarik in a tavern where he is posing as a traveling merchant. He is charming, helpful, and full of useful information about the road ahead—all of it carefully curated to steer the party into an ambush. If the party sees through him, he becomes a valuable source of information about the Blackpine Wolves, provided the price is right.
+The Friendly Stranger
+: The party meets Vandarik in a tavern where he is posing as a traveling merchant. He is charming, helpful, and full of useful information about the road ahead—all of it carefully curated to steer the party into an ambush. If the party sees through him, he becomes a valuable source of information about the Blackpine Wolves, provided the price is right.
 
-2. **The Double Cross**—Vandarik approaches a Vylarian merchant guild offering to betray the Blackpine Wolves for gold and safe passage. At the same time, he is feeding Dagbán information about the guild's caravan routes. He is playing both sides, and the party—hired by the guild—walks into a situation far more tangled than a simple bandit hunt.
+The Double Cross
+: Vandarik approaches a Vylarian merchant guild offering to betray the Blackpine Wolves for gold and safe passage. At the same time, he is feeding Dagbán information about the guild's caravan routes. He is playing both sides, and the party—hired by the guild—walks into a situation far more tangled than a simple bandit hunt.
 
-3. **The Gambler's Debt**—Vandarik has racked up a dangerous gambling debt with a criminal syndicate in a border town, and they have sent enforcers to collect. He is desperate enough to make an offer to the party: help him deal with the enforcers, and he will lead them to the Blackpine Wolves' hidden cache of stolen goods. The offer is real—but Vandarik always has a second plan.
+The Gambler's Debt
+: Vandarik has racked up a dangerous gambling debt with a criminal syndicate in a border town, and they have sent enforcers to collect. He is desperate enough to make an offer to the party: help him deal with the enforcers, and he will lead them to the Blackpine Wolves' hidden cache of stolen goods. The offer is real—but Vandarik always has a second plan.

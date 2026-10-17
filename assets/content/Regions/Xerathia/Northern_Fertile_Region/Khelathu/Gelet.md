@@ -18,6 +18,11 @@ The work is why the empire keeps so many men who can write, and why a village he
 
 ## See Also
 
-- [[lore-azletssn|Azlet]]—the flood that takes the markers
-- [[lore-khelathclndr|The Khelathi Calendar]]—the three seasons and the five days that close the year
-- [[lore-khelathiclt|Khelathi]]—the river's year as the people live it
+[[lore-azletssn|Azlet]]
+: the flood that takes the markers
+
+[[lore-khelathclndr|The Khelathi Calendar]]
+: the three seasons and the five days that close the year
+
+[[lore-khelathiclt|Khelathi]]
+: the river's year as the people live it

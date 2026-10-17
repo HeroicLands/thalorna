@@ -448,17 +448,31 @@ Sunati is driven by a complex mixture of desires: the pursuit of security and in
 
 ### Strengths
 
-- **Emotional Mastery and Perception**: Sunati can read emotions with great precision. She understands what people need emotionally before they do, and creates experiences that fulfill those needs perfectly. Few can manipulate social situations as effectively as she does.
-- **Masterful Performance**: Her skill in dance, music, poetry, and conversation has no equal in her circles. She is capable of creating moments of rare beauty that patrons remember for years.
-- **Cultivated Connections**: Sunati has carefully cultivated relationships with the most powerful figures in Vedyara's political and commercial landscape. She understands patronage networks and can navigate them with expert precision.
-- **Unarmed Combat and Concealed Weapons**: Beneath her elegance lies dangerous training in moving silently, fighting lethally with her concealed dagger, and self-defense. She is more dangerous than her appearance suggests.
+Emotional Mastery and Perception
+: Sunati can read emotions with great precision. She understands what people need emotionally before they do, and creates experiences that fulfill those needs perfectly. Few can manipulate social situations as effectively as she does.
+
+Masterful Performance
+: Her skill in dance, music, poetry, and conversation has no equal in her circles. She is capable of creating moments of rare beauty that patrons remember for years.
+
+Cultivated Connections
+: Sunati has carefully cultivated relationships with the most powerful figures in Vedyara's political and commercial landscape. She understands patronage networks and can navigate them with expert precision.
+
+Unarmed Combat and Concealed Weapons
+: Beneath her elegance lies dangerous training in moving silently, fighting lethally with her concealed dagger, and self-defense. She is more dangerous than her appearance suggests.
 
 ### Weaknesses
 
-- **Emotional Vulnerability**: The very sensitivity that makes her at understanding others makes her vulnerable to emotional manipulation. Real connection terrifies her because it threatens her carefully maintained control.
-- **Social Stigma and Isolation**: Despite her wealth and status, she is bound by the social position of her profession. She will never be accepted into the highest circles of respectability, and many wives of Kulinas view her with barely concealed hostility.
-- **The Trap of Beauty**: Her power is fundamentally rooted in beauty and youth. The knowledge that these assets are temporary creates an underlying anxiety about her future and a desperation to build something that will outlast her physical appeal.
-- **Ethical Complications**: Her profession sometimes requires her to manipulate powerful men in ways that blur the line between influence and corruption. She harbors moral uncertainty about the impact of her work.
+Emotional Vulnerability
+: The very sensitivity that makes her at understanding others makes her vulnerable to emotional manipulation. Real connection terrifies her because it threatens her carefully maintained control.
+
+Social Stigma and Isolation
+: Despite her wealth and status, she is bound by the social position of her profession. She will never be accepted into the highest circles of respectability, and many wives of Kulinas view her with barely concealed hostility.
+
+The Trap of Beauty
+: Her power is fundamentally rooted in beauty and youth. The knowledge that these assets are temporary creates an underlying anxiety about her future and a desperation to build something that will outlast her physical appeal.
+
+Ethical Complications
+: Her profession sometimes requires her to manipulate powerful men in ways that blur the line between influence and corruption. She harbors moral uncertainty about the impact of her work.
 
 ## Social
 
@@ -488,12 +502,17 @@ Worshippers of Vyalendra
 
 ## Plot Hooks
 
-1. **The Dangerous Secret**: A powerful client of a great house confesses to Sunati that he is planning to betray the merchant council in a trade agreement, with implications that could destabilize the entire city-state. He believes that his emotional intimacy with Sunati keeps her silent, but she is now caught between her loyalty to her patron system and knowledge of a conspiracy that could harm the city. Whom does she expose, and at what cost?
+The Dangerous Secret
+: A powerful client of a great house confesses to Sunati that he is planning to betray the merchant council in a trade agreement, with implications that could destabilize the entire city-state. He believes that his emotional intimacy with Sunati keeps her silent, but she is now caught between her loyalty to her patron system and knowledge of a conspiracy that could harm the city. Whom does she expose, and at what cost?
 
-2. **The Authentic Connection**: A scholar and philosopher, **the scholar and philosopher Kamasvamin Achorya**, begins visiting Sunati with no interest in the typical courtier-patron dynamic. Instead, he seeks conversation and intellectual companionship. For the first time in her life, Sunati encounters someone who seems interested in her authentic self rather than her performed self. This threatens everything she has built—because it forces her to confront what authenticity even means for someone whose life is fundamentally built on controlled performance.
+The Authentic Connection
+: A scholar and philosopher, **the scholar and philosopher Kamasvamin Achorya**, begins visiting Sunati with no interest in the typical courtier-patron dynamic. Instead, he seeks conversation and intellectual companionship. For the first time in her life, Sunati encounters someone who seems interested in her authentic self rather than her performed self. This threatens everything she has built—because it forces her to confront what authenticity even means for someone whose life is fundamentally built on controlled performance.
 
-3. **The Rescue Unwanted**: A young woman, barely twenty, is being groomed to enter the courtesan profession by coercive means rather than choice. She reaches out to Sunati, begging for help escaping her family's control. Saving her would expose Sunati to legal liability and could damage her reputation with the very clients whose patronage sustains her. Does she help, and if so, at what cost?
+The Rescue Unwanted
+: A young woman, barely twenty, is being groomed to enter the courtesan profession by coercive means rather than choice. She reaches out to Sunati, begging for help escaping her family's control. Saving her would expose Sunati to legal liability and could damage her reputation with the very clients whose patronage sustains her. Does she help, and if so, at what cost?
 
-4. **The Fading Beauty**: A debilitating illness strikes Sunati—nothing immediately life-threatening, but something that will gradually diminish her physical capabilities and perhaps leave visible marks. She must confront the reality that the asset upon which she has built her entire life is becoming compromised. Her response—whether to retire gracefully, fight to remain relevant, or seek a different path—will define the next phase of her life.
+The Fading Beauty
+: A debilitating illness strikes Sunati—nothing immediately life-threatening, but something that will gradually diminish her physical capabilities and perhaps leave visible marks. She must confront the reality that the asset upon which she has built her entire life is becoming compromised. Her response—whether to retire gracefully, fight to remain relevant, or seek a different path—will define the next phase of her life.
 
-5. **The Request for Betrayal**: The merchant council approaches Sunati with an explicit request: use her intimate access to rival traders to gather intelligence on their plans. The payment is substantial, the advantage to the council is enormous, but the request crosses a line from personal patronage into active espionage. Accepting would compromise her carefully maintained neutrality and make her a tool of political power. Refusing would anger the very people whose patronage sustains her independence.
+The Request for Betrayal
+: The merchant council approaches Sunati with an explicit request: use her intimate access to rival traders to gather intelligence on their plans. The payment is substantial, the advantage to the council is enormous, but the request crosses a line from personal patronage into active espionage. Accepting would compromise her carefully maintained neutrality and make her a tool of political power. Refusing would anger the very people whose patronage sustains her independence.

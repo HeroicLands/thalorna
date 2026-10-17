@@ -19,13 +19,26 @@ The bond runs both ways in law, if not in force. A family may not leave its land
 
 The [[lore-castelaws|Caste Laws]] give the Nouwén three rights and hold them to four restrictions.
 
-- **The right to the land**: protection from unlawful eviction, and the right to work assigned land in exchange for tribute.
-- **The right to the ancestors**: shrines, rites and the veneration of ancestral spirits are protected by law, and no lord may forbid them.
-- **The right to petition**: a household may bring a grievance or a plea for relief before the local magistrate.
-- **Tribute**: produce and labor are owed to the Zhazho and Wohou above; a household that fails to render them is flogged, and a headman who hides a village's shortfall may be put to death.
-- **No ownership**: the land belongs to the ruling castes, and a Nouwén is bound to his district and may not leave it without leave.
-- **No marriage**: a Nouwén couple may live together and raise children, and the law recognizes no bond between them.
-- **No personal name**: a Nouwén is known by clan, position and place, as "Second Son of the Ox-Herd of the Clan of Still Water, near Weichai."
+The right to the land
+: protection from unlawful eviction, and the right to work assigned land in exchange for tribute.
+
+The right to the ancestors
+: shrines, rites and the veneration of ancestral spirits are protected by law, and no lord may forbid them.
+
+The right to petition
+: a household may bring a grievance or a plea for relief before the local magistrate.
+
+Tribute
+: produce and labor are owed to the Zhazho and Wohou above; a household that fails to render them is flogged, and a headman who hides a village's shortfall may be put to death.
+
+No ownership
+: the land belongs to the ruling castes, and a Nouwén is bound to his district and may not leave it without leave.
+
+No marriage
+: a Nouwén couple may live together and raise children, and the law recognizes no bond between them.
+
+No personal name
+: a Nouwén is known by clan, position and place, as "Second Son of the Ox-Herd of the Clan of Still Water, near Weichai."
 
 ## The Ancestors
 
@@ -39,11 +52,20 @@ The Leigen (spirit masters) are Nouwén born with the gift of speaking with the 
 
 A Leigen is called for five kinds of work:
 
-- **Communion**: speaking with a household's dead to relay a petition, receive an instruction or learn what an ancestor lacks.
-- **Healing**: treating the sickness that comes from the spirit side, when an ancestor has withdrawn his advocacy, a ledger debit has fallen due as illness, or the Henléi, the unsorted chaos, has touched a house.
-- **Registration**: performing the rites that enter a birth, a union or a death with the celestial administration, the filings the higher castes make through the temples.
-- **Leading the rites**: the seasonal ceremonies, the rites of passage and the village festivals.
-- **Divination**: reading signs and omens to learn which bureau is ascendant, which petition will be heard and what the dead require.
+Communion
+: speaking with a household's dead to relay a petition, receive an instruction or learn what an ancestor lacks.
+
+Healing
+: treating the sickness that comes from the spirit side, when an ancestor has withdrawn his advocacy, a ledger debit has fallen due as illness, or the Henléi, the unsorted chaos, has touched a house.
+
+Registration
+: performing the rites that enter a birth, a union or a death with the celestial administration, the filings the higher castes make through the temples.
+
+Leading the rites
+: the seasonal ceremonies, the rites of passage and the village festivals.
+
+Divination
+: reading signs and omens to learn which bureau is ascendant, which petition will be heard and what the dead require.
 
 A Leigen is Nouwén by caste and treated in the village almost as the [[lore-tanchei|Tanchéi]] are treated in the cities. Warlords consult them, out of sight of their own scholars, on matters the Tanchéi cannot settle—a haunting, a curse on a line, an ancestor who will not rest. Their craft is not celestial scholarship and makes no claim to be: it is passed from teacher to apprentice in the villages, with a knowledge of plants, animals and the ways between the living and the dead that no temple library holds.
 
@@ -57,11 +79,26 @@ In the [[lore-phlsphyleiwo|Leiwo]] framework the Nouwén are the tenders of the 
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]]—rights and restrictions governing the Nouwén
-- [[lore-ancstrwrshp|Ancestor Worship]]—the faith of the household altar
-- [[lore-tsaihuo|Tsaihuo]]—artisans and soldiers, the caste above
-- [[lore-shuonong|Shuonong]]—merchants, the caste below
-- [[lore-noutsou|Noutsou]]—slaves and outcasts, the lowest of all
-- [[lore-wanduo|Wánduo]]—the sorcerer caste from which some adoptees come
-- [[lore-tseising|Law and Honor]]—the law that enforces tribute and protects the land-right
-- [[affiliation-tantsouempr|Empire of Tantsou]]—overview of imperial society and structure
+[[lore-castelaws|Caste Laws]]
+: rights and restrictions governing the Nouwén
+
+[[lore-ancstrwrshp|Ancestor Worship]]
+: the faith of the household altar
+
+[[lore-tsaihuo|Tsaihuo]]
+: artisans and soldiers, the caste above
+
+[[lore-shuonong|Shuonong]]
+: merchants, the caste below
+
+[[lore-noutsou|Noutsou]]
+: slaves and outcasts, the lowest of all
+
+[[lore-wanduo|Wánduo]]
+: the sorcerer caste from which some adoptees come
+
+[[lore-tseising|Law and Honor]]
+: the law that enforces tribute and protects the land-right
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: overview of imperial society and structure

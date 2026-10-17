@@ -20,5 +20,8 @@ data:
 
 ## See Also
 
-- [[place-garanlghtslt|Gar-Anlaghet Selat]]—The selat country that holds it
-- [[place-garanlaghet|Gar-Anlaghet]]—The port city of the selat
+[[place-garanlghtslt|Gar-Anlaghet Selat]]
+: The selat country that holds it
+
+[[place-garanlaghet|Gar-Anlaghet]]
+: The port city of the selat

@@ -46,4 +46,5 @@ Judge the locks, not the quarrel. Ask to see the work, and ask the person who ma
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—the city whose locksmiths it contests
+[[place-galezkara|Galezkara]]
+: the city whose locksmiths it contests

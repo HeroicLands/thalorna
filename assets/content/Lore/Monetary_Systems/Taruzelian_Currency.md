@@ -50,6 +50,11 @@ In casual commerce within Taruzelian territory the underweight Solden passes at 
 
 ## See Also
 
-- [[affiliation-vezakuni|Vezakuni]]—the chartering institution; full description of the Merazuni, the Kubasum's office, and the Taruzelian banking infrastructure
-- [[lore-vylrncrncy|Vylarian Currency]]—the parent denomination system from which the Taruzelian currency was derived
-- [[affiliation-tarmex|Tarmeks Orzan]]—the Vylarian institutional counterpart; structurally separate, politically non-recognizing
+[[affiliation-vezakuni|Vezakuni]]
+: the chartering institution; full description of the Merazuni, the Kubasum's office, and the Taruzelian banking infrastructure
+
+[[lore-vylrncrncy|Vylarian Currency]]
+: the parent denomination system from which the Taruzelian currency was derived
+
+[[affiliation-tarmex|Tarmeks Orzan]]
+: the Vylarian institutional counterpart; structurally separate, politically non-recognizing

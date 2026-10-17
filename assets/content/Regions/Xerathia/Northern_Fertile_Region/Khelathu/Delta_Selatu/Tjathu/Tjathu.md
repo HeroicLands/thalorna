@@ -25,8 +25,17 @@ The selat's coast is where the sea-raiders landed in 1960 ST (151 BF); the port 
 
 ## See Also
 
-- [[affiliation-selattjathu|The Selat of Tjathu]]—Parent selat
-- [[affiliation-deltaselatu|The Delta Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[affiliation-wethur|Faith of Weth'ur]]—Patron cult
-- [[place-zelamqelu|Zel-Amqelu]]—the port the sea-raiders burned
+[[affiliation-selattjathu|The Selat of Tjathu]]
+: Parent selat
+
+[[affiliation-deltaselatu|The Delta Selatu]]
+: Selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[affiliation-wethur|Faith of Weth'ur]]
+: Patron cult
+
+[[place-zelamqelu|Zel-Amqelu]]
+: the port the sea-raiders burned

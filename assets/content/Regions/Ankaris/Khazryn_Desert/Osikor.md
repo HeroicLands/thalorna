@@ -32,7 +32,14 @@ The son of an Atarzád elder has been robbing the tombs. A rival herd-chief foun
 
 ## See Also
 
-- [[lore-basinbldrs|The Basin Builders]]—the people who cut the tombs
-- [[being-damut|Damut]]—the dead in the deepest chambers
-- [[place-ewod|Evod]]—the lake bed they left
-- [[affiliation-tribestrzd|Tribes of Atarzád]]—who graze the range's southern edge
+[[lore-basinbldrs|The Basin Builders]]
+: the people who cut the tombs
+
+[[being-damut|Damut]]
+: the dead in the deepest chambers
+
+[[place-ewod|Evod]]
+: the lake bed they left
+
+[[affiliation-tribestrzd|Tribes of Atarzád]]
+: who graze the range's southern edge

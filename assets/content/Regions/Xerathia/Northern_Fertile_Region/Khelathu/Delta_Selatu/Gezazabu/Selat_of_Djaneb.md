@@ -69,9 +69,20 @@ Gezazabu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter 
 
 ## See Also
 
-- [[affiliation-deltaselatu|The Delta Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-gezazabu|Gezazabu]]—Selat capital
-- [[affiliation-thubai|Faith of Thuba'i]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-gezazabuselt|Gezazabu Selat]]—The land the selat holds
+[[affiliation-deltaselatu|The Delta Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-gezazabu|Gezazabu]]
+: Selat capital
+
+[[affiliation-thubai|Faith of Thuba'i]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-gezazabuselt|Gezazabu Selat]]
+: The land the selat holds

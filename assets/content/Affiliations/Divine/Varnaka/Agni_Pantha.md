@@ -68,11 +68,20 @@ sohl:
 
 ## Agmi-pantra—The Path of the Flame
 
-- **Tradition:** **Agmi-pantra**—_The Path of the Flame_
-- **Deities Venerated:** [[affiliation-rasikara|Rasikara]] as primary focus; [[affiliation-vyahrati|Vahrati]] honored as the gentle complement of the purging fire
-- **Emphasis:** Ascetic, reformist, mendicant; personal and communal purification through the fire proper to each task
-- **Pronunciation:** _AHG-nee PAN-thah_
-- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
+Tradition:** **Agmi-pantra
+: _The Path of the Flame_
+
+Deities Venerated
+: [[affiliation-rasikara|Rasikara]] as primary focus; [[affiliation-vyahrati|Vahrati]] honored as the gentle complement of the purging fire
+
+Emphasis
+: Ascetic, reformist, mendicant; personal and communal purification through the fire proper to each task
+
+Pronunciation
+: _AHG-nee PAN-thah_
+
+Pantheon
+: [[affiliation-varakpnthn|Varnuka Pantheon]]
 
 "Sit before the vessel and tell me what has settled in your house." A **Jvelita** (Kindled One) says it at the door of whatever household has called him, with a clay vessel in the crook of his arm and the ember inside it still alive. He has come on foot, because somebody sent for him. Most of the Agmi-pantra meets its public this way: one priest, sometimes two, at a door.
 
@@ -108,9 +117,14 @@ The **[Night of the Kindled Road]{.name data-type="lore/gathering"}** falls at t
 
 ### Ordeals for Favor
 
-- **[The Walk of Coals]{.name data-type="lore/custom"}**—shared with the wider Rasikaran tradition; in the Agmi-pantra form, the coals are drawn from the aspirant's own carried ember-vessel.
-- The Firebrand's Year—a year spent traveling, carrying a lit torch from settlement to settlement and kindling purgation-fires wherever the priest is asked.
-- **[The Vigil at the Threshold]{.name data-type="lore/custom"}**—a three-day fast at the threshold of a community that has refused to receive the priest, seated in silent witness until the community's decision is reconsidered or the period elapses.
+[The Walk of Coals]{.name data-type="lore/custom"}
+: shared with the wider Rasikaran tradition; in the Agmi-pantra form, the coals are drawn from the aspirant's own carried ember-vessel.
+
+The Firebrand's Year
+: a year spent traveling, carrying a lit torch from settlement to settlement and kindling purgation-fires wherever the priest is asked.
+
+[The Vigil at the Threshold]{.name data-type="lore/custom"}
+: a three-day fast at the threshold of a community that has refused to receive the priest, seated in silent witness until the community's decision is reconsidered or the period elapses.
 
 ### Orders
 

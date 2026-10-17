@@ -123,10 +123,23 @@ A person placed outside the tarona, by transgression or by birth, is barred from
 
 ## See Also
 
-- [[lore-hghlndfndn|The Highland Foundations]]—the first forest gift, dated
-- [[place-bharavavana|Bharavavana]]—the forest the estates hold
-- [[place-bharavarivr|The Bharava]]—the river, the timber road and the pilgrim road
-- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the gold highlands above, and the hostels' other endowment
-- [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—the confederation whose roll has no entry here
-- [[place-vedyarargn|Vedyara Region]]—parent region
-- [[skill-vedyarlng|Vedyari]]—language and naming conventions
+[[lore-hghlndfndn|The Highland Foundations]]
+: the first forest gift, dated
+
+[[place-bharavavana|Bharavavana]]
+: the forest the estates hold
+
+[[place-bharavarivr|The Bharava]]
+: the river, the timber road and the pilgrim road
+
+[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+: the gold highlands above, and the hostels' other endowment
+
+[[affiliation-janpdsvdyr|Janapadas of Vedyara]]
+: the confederation whose roll has no entry here
+
+[[place-vedyarargn|Vedyara Region]]
+: parent region
+
+[[skill-vedyarlng|Vedyari]]
+: language and naming conventions

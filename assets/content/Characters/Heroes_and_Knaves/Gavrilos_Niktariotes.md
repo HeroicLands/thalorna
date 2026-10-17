@@ -449,19 +449,37 @@ Sedikon is driven by two conflicting forces: the desire to cement his legacy as 
 
 ### Strengths
 
-- **Mastery of Melee Combat**: His skill with a broadsword is famous, each movement economical and devastating. His technique remains flawless even as his strength diminishes—he overcomes opponents through superior positioning and timing rather than raw power.
-- **Tactical Intelligence**: He reads opponents with uncanny precision, identifying weaknesses and exploiting them with minimal wasted effort. He has the authority to direct complex tactical maneuvers.
-- **Teaching Excellence**: He possesses an extraordinary ability to identify the inherent talents and limitations in individual students, crafting personalized training regimens that unlock potential others miss. Several of his former students now command military units.
-- **Enduring Reputation**: His name carries weight in noble circles and military hierarchies. Nobles compete for his tutelage; garrison commanders seek his counsel; enemies sometimes hesitate, knowing they face a legend.
-- **Weapon Craftsmanship**: His deep knowledge of swords—their balance, weight distribution, and the techniques best suited to different blade designs—allows him to evaluate weapons and even craft specialized training pieces.
+Mastery of Melee Combat
+: His skill with a broadsword is famous, each movement economical and devastating. His technique remains flawless even as his strength diminishes—he overcomes opponents through superior positioning and timing rather than raw power.
+
+Tactical Intelligence
+: He reads opponents with uncanny precision, identifying weaknesses and exploiting them with minimal wasted effort. He has the authority to direct complex tactical maneuvers.
+
+Teaching Excellence
+: He possesses an extraordinary ability to identify the inherent talents and limitations in individual students, crafting personalized training regimens that unlock potential others miss. Several of his former students now command military units.
+
+Enduring Reputation
+: His name carries weight in noble circles and military hierarchies. Nobles compete for his tutelage; garrison commanders seek his counsel; enemies sometimes hesitate, knowing they face a legend.
+
+Weapon Craftsmanship
+: His deep knowledge of swords—their balance, weight distribution, and the techniques best suited to different blade designs—allows him to evaluate weapons and even craft specialized training pieces.
 
 ### Weaknesses
 
-- **Declining Physical Capacity**: His endurance, while still considerable, no longer permits the extended, intense bouts he once dominated. Extended combat fatigues him in ways younger swordmasters never experience.
-- **Psychological Fragility Regarding Age**: He struggles deeply with the reality of aging, sometimes pushing himself to dangerous extremes to prove his continued dominance. This pride occasionally blinds him to tactical reality.
-- **Limited Social Flexibility**: His rigid adherence to traditional forms and values makes him uncomfortable with the changing styles of combat emerging among younger practitioners. He dismisses new styles as undisciplined even when they prove tactically superior.
-- **Empathetic Gaps**: His focus on excellence makes him occasionally harsh with students who lack natural talent but show dedication. He struggles to remember that not everyone takes failure the same way.
-- **Vulnerability to Schemes**: His reputation and pride make him susceptible to manipulation; rivals can bait him into disadvantageous situations by challenging his status.
+Declining Physical Capacity
+: His endurance, while still considerable, no longer permits the extended, intense bouts he once dominated. Extended combat fatigues him in ways younger swordmasters never experience.
+
+Psychological Fragility Regarding Age
+: He struggles deeply with the reality of aging, sometimes pushing himself to dangerous extremes to prove his continued dominance. This pride occasionally blinds him to tactical reality.
+
+Limited Social Flexibility
+: His rigid adherence to traditional forms and values makes him uncomfortable with the changing styles of combat emerging among younger practitioners. He dismisses new styles as undisciplined even when they prove tactically superior.
+
+Empathetic Gaps
+: His focus on excellence makes him occasionally harsh with students who lack natural talent but show dedication. He struggles to remember that not everyone takes failure the same way.
+
+Vulnerability to Schemes
+: His reputation and pride make him susceptible to manipulation; rivals can bait him into disadvantageous situations by challenging his status.
 
 ## Social
 
@@ -497,12 +515,17 @@ The Scholars of Ólvenia
 
 ## Plot Hooks
 
-1. **The Challenge from Beyond the Sea**: A famed swordmaster from a distant Bizarian colony arrives in Chrisamar, claiming to have defeated all challengers across three continents. He specifically requests to duel Sedikon Manedes, challenging the aging master's reputation before the gathered nobility. The adventurers might be hired by Sedikon to investigate this challenger's true background, only to discover he is not a trained warrior at all but a warrior-servant bound by dark magic to an ancient curse, doomed to defeat every master swordsman he faces. Only by breaking the curse can Sedikon gain a truly honorable victory.
+The Challenge from Beyond the Sea
+: A famed swordmaster from a distant Bizarian colony arrives in Chrisamar, claiming to have defeated all challengers across three continents. He specifically requests to duel Sedikon Manedes, challenging the aging master's reputation before the gathered nobility. The adventurers might be hired by Sedikon to investigate this challenger's true background, only to discover he is not a trained warrior at all but a warrior-servant bound by dark magic to an ancient curse, doomed to defeat every master swordsman he faces. Only by breaking the curse can Sedikon gain a truly honorable victory.
 
-2. **The Stolen Techniques**: Sedikon discovers that Swordmaster Vesazáhr Brirorash has somehow obtained detailed notes of his most advanced fighting forms—techniques Sedikon has never written down and only teaches to elite students after years of trust-building. Someone has betrayed him. Sedikon hires the party to identify the traitor and recover the stolen knowledge before it spreads among the city's swordmasters, diluting his edge. The investigation might reveal that the leak comes from a beloved former student now fallen into desperate circumstances, forcing Sedikon to confront his own rigidity.
+The Stolen Techniques
+: Sedikon discovers that Swordmaster Vesazáhr Brirorash has somehow obtained detailed notes of his most advanced fighting forms—techniques Sedikon has never written down and only teaches to elite students after years of trust-building. Someone has betrayed him. Sedikon hires the party to identify the traitor and recover the stolen knowledge before it spreads among the city's swordmasters, diluting his edge. The investigation might reveal that the leak comes from a beloved former student now fallen into desperate circumstances, forcing Sedikon to confront his own rigidity.
 
-3. **The Tournament of Ascension**: A prestigious martial tournament is announced in a neighboring city, promising enormous prize money and the title of "Supreme Master of the Bizarian Realms." Sedikon sees this as a final opportunity to prove his dominance against the best warriors of his age, but his declining condition worries his patrons and students. Alternatively, the party might be hired as his escorts and bodyguards, discovering that other competitors are employing supernatural enhancements, poisoning, and sabotage. The heroes can support Sedikon through fair means or alert him to the cheating taking place around him.
+The Tournament of Ascension
+: A prestigious martial tournament is announced in a neighboring city, promising enormous prize money and the title of "Supreme Master of the Bizarian Realms." Sedikon sees this as a final opportunity to prove his dominance against the best warriors of his age, but his declining condition worries his patrons and students. Alternatively, the party might be hired as his escorts and bodyguards, discovering that other competitors are employing supernatural enhancements, poisoning, and sabotage. The heroes can support Sedikon through fair means or alert him to the cheating taking place around him.
 
-4. **The Cursed Blade**: A young student of rare talent approaches Sedikon with a strange weapon—a beautiful broadsword of unknown origin that seems to enhance the user's reflexes and strength. Sedikon is tempted; the blade could restore his lost youth for one final contest. The party might be hired to investigate the blade's origin and discover it is bound to the soul of a warrior who died tragically, imprisoned by a malevolent mage. Using it would mean carrying a damned soul into every duel. Sedikon is torn between the temptation of restored youth and his deepest principles.
+The Cursed Blade
+: A young student of rare talent approaches Sedikon with a strange weapon—a beautiful broadsword of unknown origin that seems to enhance the user's reflexes and strength. Sedikon is tempted; the blade could restore his lost youth for one final contest. The party might be hired to investigate the blade's origin and discover it is bound to the soul of a warrior who died tragically, imprisoned by a malevolent mage. Using it would mean carrying a damned soul into every duel. Sedikon is torn between the temptation of restored youth and his deepest principles.
 
-5. **The Failing Student**: A promising young swordsman, the son of a powerful patron, shows every sign of becoming an outstanding warrior—except he secretly suffers from a degenerative joint condition that will cripple him within five years. The young man's father hires adventurers to keep the condition secret while pressuring Sedikon to accelerate the training, intensifying the damage. Sedikon, recognizing his own battle with mortality in the boy, can honor the father's wishes or risk his prestigious patronage by insisting the boy receive proper medical treatment instead of martial conditioning. The party becomes entangled in this conflict, and may become the unwitting instruments of either salvation or tragedy.
+The Failing Student
+: A promising young swordsman, the son of a powerful patron, shows every sign of becoming an outstanding warrior—except he secretly suffers from a degenerative joint condition that will cripple him within five years. The young man's father hires adventurers to keep the condition secret while pressuring Sedikon to accelerate the training, intensifying the damage. Sedikon, recognizing his own battle with mortality in the boy, can honor the father's wishes or risk his prestigious patronage by insisting the boy receive proper medical treatment instead of martial conditioning. The party becomes entangled in this conflict, and may become the unwitting instruments of either salvation or tragedy.

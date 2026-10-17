@@ -32,6 +32,11 @@ Neither clan has ever brought the difference to the [Great Lubemo]{.name data-ty
 
 ## See Also
 
-- [[lore-nyalbsprts|Nyáluba Spirits]]—the guides beneath the Brightness, and the three postures
-- [[affiliation-nyalbpnthn|Nyáluba Pantheon]]—the Nyáluba Way and its keepers
-- [[lore-nyalubaclt|Nyáluba]]—the five clans and the Pact
+[[lore-nyalbsprts|Nyáluba Spirits]]
+: the guides beneath the Brightness, and the three postures
+
+[[affiliation-nyalbpnthn|Nyáluba Pantheon]]
+: the Nyáluba Way and its keepers
+
+[[lore-nyalubaclt|Nyáluba]]
+: the five clans and the Pact

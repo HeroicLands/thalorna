@@ -43,19 +43,32 @@ The selat's settlement pattern is a single great metropolis ringed by temple-tow
 
 The metropolis:
 
-- [[place-galezkara|Galezkara]] (~450,000)—the imperial city and seat of the Gar-Au, by far the largest city in the empire: palace, great temples, bureaus, and the polyglot crowd of a capital that draws in the whole realm.
-- [[place-yathtelgu|Yath-Telgu]] (~4,000)—the sacred island in the river at its center, with the **Great Temple of Uqa'a** and the palace.
+[[place-galezkara|Galezkara]] (~450,000)
+: the imperial city and seat of the Gar-Au, by far the largest city in the empire: palace, great temples, bureaus, and the polyglot crowd of a capital that draws in the whole realm.
+
+[[place-yathtelgu|Yath-Telgu]] (~4,000)
+: the sacred island in the river at its center, with the **Great Temple of Uqa'a** and the palace.
 
 The bank of the dead and the temple-towns:
 
-- [[place-zugezer|Zu-Gezer]] (~40,000)—"the **Sacred Land**," the necropolis-city on the western bank: the embalmers, tomb-builders, funerary artists and mortuary priests who serve the royal dead, and the tomb-workers' settlements behind them.
-- [[place-khelautithnt|Khelaut-Ithnet]]—the burial fields on either side of Zu-Gezer, where everyone below the throne is laid to rest.
-- [[place-garlegulu|Gar-Legulu]] (~30,000)—a temple-estate town east of the capital: the granaries, workshops and tenant-villages of one of the great cult-temples, a town that exists to feed and serve its god.
+[[place-zugezer|Zu-Gezer]] (~40,000)
+: "the **Sacred Land**," the necropolis-city on the western bank: the embalmers, tomb-builders, funerary artists and mortuary priests who serve the royal dead, and the tomb-workers' settlements behind them.
+
+[[place-khelautithnt|Khelaut-Ithnet]]
+: the burial fields on either side of Zu-Gezer, where everyone below the throne is laid to rest.
+
+[[place-garlegulu|Gar-Legulu]] (~30,000)
+: a temple-estate town east of the capital: the granaries, workshops and tenant-villages of one of the great cult-temples, a town that exists to feed and serve its god.
 
 The hinterland villages: the dense farm-and-market country around the capital holds scores of villages, many of 500–3,000 people. Among them are [[place-iuguleri|Iugu-Leri]], [[place-garzekhemu|Gar-Zekhemu]] (180), [[place-zmabelgen|Zma-Belgen]], [[place-khelutathen|Khelut-Thelqen]], [[place-yathzabes|Yath-Zabes]], [[place-garger|Gar-Ger]], [[place-sheluzu|Shelu-Zu]], [[place-anlaghthawu|Anlagh-Thawu]], [[place-amqelagefu|Amqel-Agefu]] and [[place-lutregyt|Lut-Regyt]]. Each renders grain, beer and labor to the capital and the temples, and each lies within a half-day's barge of the great city's markets.
 
 ## See Also
 
-- [[affiliation-capitalselat|The Capital Selat]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-galezkara|Galezkara]]—Selat capital
+[[affiliation-capitalselat|The Capital Selat]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-galezkara|Galezkara]]
+: Selat capital

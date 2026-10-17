@@ -20,6 +20,11 @@ The [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]] share the shrine. At 
 
 ## See Also
 
-- [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]—the pan-tribal circle that meets here
-- [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]—the cults whose elders sit here
-- [[place-dunhardsrtrgn|Dunhara]]—the desert whose tribes share the shrine
+[[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]
+: the pan-tribal circle that meets here
+
+[[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]
+: the cults whose elders sit here
+
+[[place-dunhardsrtrgn|Dunhara]]
+: the desert whose tribes share the shrine

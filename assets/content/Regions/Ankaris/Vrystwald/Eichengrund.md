@@ -24,6 +24,11 @@ Eichengrund's tension is the one that follows its War Chief rather than the vill
 
 ## See Also
 
-- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—The independent villages and their shared customs
-- [[place-vethwald|Vethwald]]—The Deepwood it stands in
-- [[being-athlwvthrnd|Athalwa]]—War Chief of Eichengrund, seated here
+[[affiliation-vrystwldtrbs|Vristwald Tribes]]
+: The independent villages and their shared customs
+
+[[place-vethwald|Vethwald]]
+: The Deepwood it stands in
+
+[[being-athlwvthrnd|Athalwa]]
+: War Chief of Eichengrund, seated here

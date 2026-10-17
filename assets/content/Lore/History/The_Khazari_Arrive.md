@@ -61,13 +61,26 @@ seven clans head for head and holds no entry for anyone else.
 They came as **seven clans**, and the number has never lost its significance to them. Each clan is named
 for the master craft it holds, in the mastery frame of [[skill-khazarlng|the language]]:
 
-- **Summágh**—listening to stone. The finders, who choose where a hold is cut.
-- **Dullák**—cutting stone.
-- **Rummák**—laying courses: halls, stairs and made roads.
-- **Gullád**—fire: the forge and smithing.
-- **Vurrán**—the true line, following the rock's run. Miners and prospectors.
-- **Gurráz**—guarding: the gates and the approaches.
-- **Lummáv**—the record: the archive and the account.
+Summágh
+: listening to stone. The finders, who choose where a hold is cut.
+
+Dullák
+: cutting stone.
+
+Rummák
+: laying courses: halls, stairs and made roads.
+
+Gullád
+: fire: the forge and smithing.
+
+Vurrán
+: the true line, following the rock's run. Miners and prospectors.
+
+Gurráz
+: guarding: the gates and the approaches.
+
+Lummáv
+: the record: the archive and the account.
 
 The houses of a clan hold crafts within its own, and each clan later held one of the seven towers of
 [[lore-khazarturn|Khazartúrn]]. Clan and house names are patrilineal, the genealogies are kept as

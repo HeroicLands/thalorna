@@ -16,6 +16,11 @@ A manual fixes where its keeper stood at dawn on a given day, because every sigh
 
 ## See Also
 
-- [[lore-kaliharanclt|The Kaliharans]]—the people whose daily looking fills the manuals
-- [[affiliation-tharivaan|Thári'vaan]]—the faith that holds the daily record to be sacred
-- [[skill-luthrscrpt|Luaithari Script]]—the hand the manuals are written in
+[[lore-kaliharanclt|The Kaliharans]]
+: the people whose daily looking fills the manuals
+
+[[affiliation-tharivaan|Thári'vaan]]
+: the faith that holds the daily record to be sacred
+
+[[skill-luthrscrpt|Luaithari Script]]
+: the hand the manuals are written in

@@ -22,6 +22,11 @@ A smelt-master, taking on a new hand, explains where the loyalty in the town lie
 
 ## See Also
 
-- [[affiliation-provncmktr|Province of Moktur]]—parent province
-- [[place-moktur|Moktur]]—the land of its heights
-- [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview
+[[affiliation-provncmktr|Province of Moktur]]
+: parent province
+
+[[place-moktur|Moktur]]
+: the land of its heights
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: imperial overview

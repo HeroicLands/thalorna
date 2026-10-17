@@ -32,6 +32,11 @@ A Vylarian official arrives in a Bizarian port with money and no explanation. He
 
 ## See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]]—who built it
-- [[place-eastrnmrch|Eastern March]]—the League's frontier above it
-- [[place-hekardesert|Desert of Hek'ar]]—the barren tract on the same margin
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: who built it
+
+[[place-eastrnmrch|Eastern March]]
+: the League's frontier above it
+
+[[place-hekardesert|Desert of Hek'ar]]
+: the barren tract on the same margin

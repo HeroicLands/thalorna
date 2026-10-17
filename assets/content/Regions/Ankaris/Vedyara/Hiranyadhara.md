@@ -22,5 +22,8 @@ A sabhra guard of twenty men is quartered at the head of the village the year ro
 
 ## See Also
 
-- [[place-suvarnagirijnpd|Suvarnageri Janapoda]]—the land
-- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the temple-republic that holds it
+[[place-suvarnagirijnpd|Suvarnageri Janapoda]]
+: the land
+
+[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+: the temple-republic that holds it

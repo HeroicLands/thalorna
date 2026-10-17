@@ -192,15 +192,32 @@ The manners are formal, precise, and conscious of rank at every moment. A Vylari
 
 ## See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the state, its Senate and its provinces
-- [[place-vylariargn|Vylaria Region]]—the heartland
-- [[place-orzara|Orzara]]—the capital, where the forms are kept best
-- [[doc-vylrnctznshp|Vylarian Citizenship]]—the citizen, the resident, and the bargain between them
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the gods and the imperial cult
-- [[affiliation-selmoros|Faith of Sélmoros]]—the Silent Judge, the dying and the dead
-- [[affiliation-ordoarcanis|Thordimalon]]—the chartered arcane order
-- [[lore-vylariages|The Vylarian Ages]]—how the historians divide the years
-- [[skill-vylarilng|Vylari]]—the tongue the Vylarian Calendar and the law are written in
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the state, its Senate and its provinces
+
+[[place-vylariargn|Vylaria Region]]
+: the heartland
+
+[[place-orzara|Orzara]]
+: the capital, where the forms are kept best
+
+[[doc-vylrnctznshp|Vylarian Citizenship]]
+: the citizen, the resident, and the bargain between them
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the gods and the imperial cult
+
+[[affiliation-selmoros|Faith of Sélmoros]]
+: the Silent Judge, the dying and the dead
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: the chartered arcane order
+
+[[lore-vylariages|The Vylarian Ages]]
+: how the historians divide the years
+
+[[skill-vylarilng|Vylari]]
+: the tongue the Vylarian Calendar and the law are written in
 
 ## Glossary {#glossary}
 

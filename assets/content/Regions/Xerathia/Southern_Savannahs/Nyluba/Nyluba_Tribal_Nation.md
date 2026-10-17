@@ -220,10 +220,23 @@ The Nyáluba trade almost entirely by [[lore-bartercnmy|barter]] and [[lore-kinh
 
 ## See Also
 
-- [[place-sthrnsvnhs|Southern Savannahs]]—parent region
-- [[affiliation-nyalbpnthn|Nyáluba Pantheon]]—the totemic faith
-- [[lore-nyalbsprts|Nyáluba Spirits]]—the spirits venerated, appeased, and warded against
-- [[skill-nyalbnlng|Nyáluban Language]]—the Nyáluban tongue and the drum-language
-- [[place-cntrlrnfrsts|Central Rainforests]]—northern neighbors and trade-intermediaries
-- [[place-nrthrnfrtlrgn|Northern Fertile Region]]—distant civilizations known only by rumor
-- [[place-xerathia|Zerathia]]—parent continent
+[[place-sthrnsvnhs|Southern Savannahs]]
+: parent region
+
+[[affiliation-nyalbpnthn|Nyáluba Pantheon]]
+: the totemic faith
+
+[[lore-nyalbsprts|Nyáluba Spirits]]
+: the spirits venerated, appeased, and warded against
+
+[[skill-nyalbnlng|Nyáluban Language]]
+: the Nyáluban tongue and the drum-language
+
+[[place-cntrlrnfrsts|Central Rainforests]]
+: northern neighbors and trade-intermediaries
+
+[[place-nrthrnfrtlrgn|Northern Fertile Region]]
+: distant civilizations known only by rumor
+
+[[place-xerathia|Zerathia]]
+: parent continent

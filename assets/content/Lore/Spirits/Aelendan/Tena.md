@@ -8,11 +8,20 @@ tags: [draft, first-gods]
 data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
-- **Kind:** Hearth-kin, of [[lore-thekindred|the Kindred]]
-- **Seat:** the great ceremonial hall at [[place-eshalshldg|Ésalosa Lodge]]
-- **Territory:** the hall, its fire, and everyone under its roof
-- **Posture:** Venerated
-- **Met through:** [[skill-tenasprt|Tena Spirit Power]]
+Kind
+: Hearth-kin, of [[lore-thekindred|the Kindred]]
+
+Seat
+: the great ceremonial hall at [[place-eshalshldg|Ésalosa Lodge]]
+
+Territory
+: the hall, its fire, and everyone under its roof
+
+Posture
+: Venerated
+
+Met through
+: [[skill-tenasprt|Tena Spirit Power]]
 
 Tena is the hearth-kin of the great hall at Ésalosa, and the oldest continuously tended fire
 in Áelendan country—the Lodge has been inhabited since the earliest Pelwar settlement of the

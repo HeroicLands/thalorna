@@ -41,7 +41,14 @@ The **House of Vahurdash** was revived with the settlement. Its head, **Khorsád
 
 ## See Also
 
-- [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the council of the seven houses
-- [[place-swoasisbelt|Tellumel]]—the belt the town stands in
-- [[place-kethramir|Kethramír]]—the nearest city and the town's market for everything it cannot grow
-- [[place-mehrnagord|Mernagord]] and [[place-ushtraber|Ushtra-ber]]—the other two cities still under Tellumi princes
+[[affiliation-khzrncnfdrtn|Tellumi Confederation]]
+: the council of the seven houses
+
+[[place-swoasisbelt|Tellumel]]
+: the belt the town stands in
+
+[[place-kethramir|Kethramír]]
+: the nearest city and the town's market for everything it cannot grow
+
+[[place-mehrnagord|Mernagord]] and [[place-ushtraber|Ushtra-ber]]
+: the other two cities still under Tellumi princes

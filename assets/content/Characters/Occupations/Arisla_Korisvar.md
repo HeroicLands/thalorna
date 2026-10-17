@@ -431,12 +431,17 @@ Traditionalists believe she is too informal for a herald.
 
 ## Plot Hooks
 
-1. **The Herald's Dilemma**—Arisla is given a proclamation to deliver that she knows to be false, and her office and her conscience ask different things of her.
+The Herald's Dilemma
+: Arisla is given a proclamation to deliver that she knows to be false, and her office and her conscience ask different things of her.
 
-2. **Old Grudges**—A traditionalist herald brings a complaint against Arisla's manner before the guild.
+Old Grudges
+: A traditionalist herald brings a complaint against Arisla's manner before the guild.
 
-3. **Echoes of the Past**—A dispute Arisla mediated in her early years comes apart, and both sides blame her.
+Echoes of the Past
+: A dispute Arisla mediated in her early years comes apart, and both sides blame her.
 
-4. **Shifting Winds**—Political change in Provenzia threatens the standing Arisla's noble patrons give her, and she can adapt, resist, or leave.
+Shifting Winds
+: Political change in Provenzia threatens the standing Arisla's noble patrons give her, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—Arisla is offered the post of herald to a great house, and its price is not named up front.
+The Opportunity
+: Arisla is offered the post of herald to a great house, and its price is not named up front.

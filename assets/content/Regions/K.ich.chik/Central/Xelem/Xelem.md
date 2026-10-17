@@ -101,8 +101,17 @@ Most crucially, Shelem is the source of stability and prestige goods through whi
 
 ## See Also
 
-- [[affiliation-ixilankul|Ish'ilankul]]—The paramount northern realm that depends on Shelem's luxury goods
-- [[affiliation-kankul|K'ankul]]—The trading power connected to Shelem through maritime and overland routes
-- [[affiliation-neokbaate|Ne'ok Ba'ate]]—The isthmus region that forms the buffer between Shelem and the central heartland
-- [[affiliation-itzanpnthn|Itsani Pantheon]]—The faith framework that Shelem inhabits distinctly, with notable local variations and synthesis with indigenous practices
-- [[place-xelemrgn|Shelem Region]]—The land Shelem holds
+[[affiliation-ixilankul|Ish'ilankul]]
+: The paramount northern realm that depends on Shelem's luxury goods
+
+[[affiliation-kankul|K'ankul]]
+: The trading power connected to Shelem through maritime and overland routes
+
+[[affiliation-neokbaate|Ne'ok Ba'ate]]
+: The isthmus region that forms the buffer between Shelem and the central heartland
+
+[[affiliation-itzanpnthn|Itsani Pantheon]]
+: The faith framework that Shelem inhabits distinctly, with notable local variations and synthesis with indigenous practices
+
+[[place-xelemrgn|Shelem Region]]
+: The land Shelem holds

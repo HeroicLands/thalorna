@@ -451,17 +451,31 @@ Zerofon is motivated fundamentally by the belief that order is a prerequisite fo
 
 ### Strengths
 
-- **Authoritative Presence**: Zerofon's bearing and voice command immediate respect and obedience. His ability to establish and maintain control over potentially dangerous populations is rare and relies primarily on consistency rather than excessive force.
-- **Knowledge of Human Nature**: His nearly two decades managing confined populations have given him deep insight into how people think, into deception, and into the subtle indicators of danger or instability.
-- **Systematic Competence**: He excels at organizing complex systems, managing hierarchies, maintaining records, and establishing routines that allow large numbers of people to coexist in close quarters without disorder.
-- **Unquestionable Integrity**: No one—from the highest official to the lowest prisoner—questions Zerofon's commitment to his stated principles. His word is considered absolutely reliable.
+Authoritative Presence
+: Zerofon's bearing and voice command immediate respect and obedience. His ability to establish and maintain control over potentially dangerous populations is rare and relies primarily on consistency rather than excessive force.
+
+Knowledge of Human Nature
+: His nearly two decades managing confined populations have given him deep insight into how people think, into deception, and into the subtle indicators of danger or instability.
+
+Systematic Competence
+: He excels at organizing complex systems, managing hierarchies, maintaining records, and establishing routines that allow large numbers of people to coexist in close quarters without disorder.
+
+Unquestionable Integrity
+: No one—from the highest official to the lowest prisoner—questions Zerofon's commitment to his stated principles. His word is considered absolutely reliable.
 
 ### Weaknesses
 
-- **Inflexibility**: Zerofon's commitment to consistent application of rules sometimes prevents him from recognizing when situations call for flexibility or when circumstances have changed enough to justify different approaches.
-- **Emotional Distance**: His discipline and reserve, while useful in his work, can prevent close connection with others. He struggles to communicate in ways that acknowledge emotional reality or individual human complexity.
-- **Resistance to Innovation**: He views new systems and methods with suspicion, believing that proven approaches are inherently superior to untested novelty, sometimes preventing adoption of changes that would help.
-- **Limited Vision Beyond Duty**: Zerofon has organized his entire life around his role as Jailer. He has little idea of who he is or what he is for beyond this function, and faces real uncertainty as he contemplates eventual retirement or diminishment of his position.
+Inflexibility
+: Zerofon's commitment to consistent application of rules sometimes prevents him from recognizing when situations call for flexibility or when circumstances have changed enough to justify different approaches.
+
+Emotional Distance
+: His discipline and reserve, while useful in his work, can prevent close connection with others. He struggles to communicate in ways that acknowledge emotional reality or individual human complexity.
+
+Resistance to Innovation
+: He views new systems and methods with suspicion, believing that proven approaches are inherently superior to untested novelty, sometimes preventing adoption of changes that would help.
+
+Limited Vision Beyond Duty
+: Zerofon has organized his entire life around his role as Jailer. He has little idea of who he is or what he is for beyond this function, and faces real uncertainty as he contemplates eventual retirement or diminishment of his position.
 
 ## Social
 
@@ -494,12 +508,17 @@ The City Watch of Moktur
 
 ## Plot Hooks
 
-1. **The Political Prisoner**: A high-status prisoner of unclear guilt is placed under Zerofon's custody, with covert instructions from government officials to see to the prisoner's "safety" while also effectively removing them from political relevance. Zerofon begins to suspect that the prisoner is innocent and that corruption exists at the highest levels of government. The party becomes entangled when they discover that the prisoner actually committed the crime they're charged with, but other powerful people have orchestrated the imprisonment to consolidate power. Zerofon can maintain order and follow orders, or act on suspicions that challenge the legitimacy of his entire system.
+The Political Prisoner
+: A high-status prisoner of unclear guilt is placed under Zerofon's custody, with covert instructions from government officials to see to the prisoner's "safety" while also effectively removing them from political relevance. Zerofon begins to suspect that the prisoner is innocent and that corruption exists at the highest levels of government. The party becomes entangled when they discover that the prisoner actually committed the crime they're charged with, but other powerful people have orchestrated the imprisonment to consolidate power. Zerofon can maintain order and follow orders, or act on suspicions that challenge the legitimacy of his entire system.
 
-2. **The Brotherhood's Infiltration**: The Brotherhood of the Freed successfully places an agent inside the prison disguised as a guard. This agent slowly begins to organize a coordinated escape attempt and to subtly undermine Zerofon's control without making it obvious. Zerofon becomes increasingly aware that something is wrong but cannot identify the source of the problem. The party must help him investigate and identify the infiltrator before a major uprising occurs, all while Zerofon struggles with the realization that his control was not as complete as he believed.
+The Brotherhood's Infiltration
+: The Brotherhood of the Freed successfully places an agent inside the prison disguised as a guard. This agent slowly begins to organize a coordinated escape attempt and to subtly undermine Zerofon's control without making it obvious. Zerofon becomes increasingly aware that something is wrong but cannot identify the source of the problem. The party must help him investigate and identify the infiltrator before a major uprising occurs, all while Zerofon struggles with the realization that his control was not as complete as he believed.
 
-3. **The Innocence Revelation**: Zerofon discovers irrefutable evidence that a prisoner he has overseen for eight years is actually innocent of the crime for which they were imprisoned, imprisoned through judicial error or deliberate framing. The prisoner is long resigned to their fate, but Zerofon becomes obsessed with securing their release or pardon. This personal quest puts him in conflict with the legal system he has served his entire life, forcing him to either undermine his own role or compromise his integrity.
+The Innocence Revelation
+: Zerofon discovers irrefutable evidence that a prisoner he has overseen for eight years is actually innocent of the crime for which they were imprisoned, imprisoned through judicial error or deliberate framing. The prisoner is long resigned to their fate, but Zerofon becomes obsessed with securing their release or pardon. This personal quest puts him in conflict with the legal system he has served his entire life, forcing him to either undermine his own role or compromise his integrity.
 
-4. **The Reformer's Challenge**: A reforming new administrator is appointed to manage the prison system and introduces sweeping changes to Zerofon's carefully maintained routines—new ways of watching the cells, different approaches to discipline, altered hierarchies designed to reduce guard authority. Zerofon is convinced these changes will result in chaos and bloodshed, and he is partially correct, though not entirely in the ways he anticipates. The party is caught between Zerofon's proven experience and the real value of reform, helping both the old systems and new approaches to coexist or resolve their contradiction.
+The Reformer's Challenge
+: A reforming new administrator is appointed to manage the prison system and introduces sweeping changes to Zerofon's carefully maintained routines—new ways of watching the cells, different approaches to discipline, altered hierarchies designed to reduce guard authority. Zerofon is convinced these changes will result in chaos and bloodshed, and he is partially correct, though not entirely in the ways he anticipates. The party is caught between Zerofon's proven experience and the real value of reform, helping both the old systems and new approaches to coexist or resolve their contradiction.
 
-5. **The Escape Conspiracy**: A particularly dangerous and charismatic prisoner, recognized to have significant support among the general population, is discovered to be planning an elaborate escape. However, the party and Zerofon gradually realize that the escape is actually a cover for a larger conspiracy—possibly involving officials outside the prison, possibly involving external organizations with stakes in the prisoner's freedom or death. As they unravel the conspiracy, they have to decide whether to prevent the escape, allow it and track the prisoner, or treat the conspiracy as a threat to the city itself that outweighs the prisoner's own importance.
+The Escape Conspiracy
+: A particularly dangerous and charismatic prisoner, recognized to have significant support among the general population, is discovered to be planning an elaborate escape. However, the party and Zerofon gradually realize that the escape is actually a cover for a larger conspiracy—possibly involving officials outside the prison, possibly involving external organizations with stakes in the prisoner's freedom or death. As they unravel the conspiracy, they have to decide whether to prevent the escape, allow it and track the prisoner, or treat the conspiracy as a threat to the city itself that outweighs the prisoner's own importance.

@@ -312,20 +312,29 @@ Cold makes the toad sluggish, and hard frost cracks its soft, wet skin. It is ea
 
 ## Attributes
 
-- **Strength:** 10-13 (1d4+9)
+Strength
+: 10-13 (1d4+9)
 
-- **Endurance:** 15-20 (1d6+14)
+Endurance
+: 15-20 (1d6+14)
 
-- **Dexterity:** 7-12 (1d6+6)
+Dexterity
+: 7-12 (1d6+6)
 
-- **Agility:** 5-10 (1d6+4)
+Agility
+: 5-10 (1d6+4)
 
-- **Perception:** 14-17 (1d4+13)
+Perception
+: 14-17 (1d4+13)
 
-- **Aura:** 7-12 (1d6+6)
+Aura
+: 7-12 (1d6+6)
 
-- **Will:** 10-13 (1d4+9)
+Will
+: 10-13 (1d4+9)
 
-- **Reasoning:** 5-10 (1d6+4)
+Reasoning
+: 5-10 (1d6+4)
 
-- **Creativity:** 6-11 (1d6+5)
+Creativity
+: 6-11 (1d6+5)

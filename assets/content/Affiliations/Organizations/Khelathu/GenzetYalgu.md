@@ -56,4 +56,5 @@ A newcomer who wants to know whether the court has taken an interest should watc
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The capital where it sits
+[[place-galezkara|Galezkara]]
+: The capital where it sits

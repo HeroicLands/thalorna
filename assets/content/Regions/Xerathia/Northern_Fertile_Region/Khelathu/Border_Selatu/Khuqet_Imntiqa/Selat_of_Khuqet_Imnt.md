@@ -69,9 +69,20 @@ Khuqet-Imntiqa uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. The [[affili
 
 ## See Also
 
-- [[affiliation-borderselatu|The Border Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
-- [[place-khuqet|Khuqet]]—Selat capital
-- [[affiliation-uqaa|Faith of Uqa'a]]—Patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
-- [[place-khuqetimntiqnome|Khuqet-Imntiqa]]—The land the selat holds
+[[affiliation-borderselatu|The Border Selatu]]
+: Parent selat-class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: Imperial overview
+
+[[place-khuqet|Khuqet]]
+: Selat capital
+
+[[affiliation-uqaa|Faith of Uqa'a]]
+: Patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: Temple-treasuries
+
+[[place-khuqetimntiqnome|Khuqet-Imntiqa]]
+: The land the selat holds

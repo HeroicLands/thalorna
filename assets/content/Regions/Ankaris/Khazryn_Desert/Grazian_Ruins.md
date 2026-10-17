@@ -40,8 +40,17 @@ A guide of the Osket, old and dying, wants one last crossing of the Eastern Reac
 
 ## See Also
 
-- [[place-vurdil|Vurdish]]—the labyrinth above the Tellumi belt
-- [[place-graznmntns|The Grazian Mountains]]—the range
-- [[being-clffstlk|Cliff Stalker]]—the ledge hunter
-- [[being-crglrkr|Crag Lurker]]—the crack hunter
-- [[being-stoneram|Stone Ram]]—the ridge-defender
+[[place-vurdil|Vurdish]]
+: the labyrinth above the Tellumi belt
+
+[[place-graznmntns|The Grazian Mountains]]
+: the range
+
+[[being-clffstlk|Cliff Stalker]]
+: the ledge hunter
+
+[[being-crglrkr|Crag Lurker]]
+: the crack hunter
+
+[[being-stoneram|Stone Ram]]
+: the ridge-defender

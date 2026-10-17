@@ -21,7 +21,14 @@ West of the mountains lies the [[place-khzryndsrtrgn|Khazryn]], a waste of ruins
 
 ## See Also
 
-- [[being-wogenhenzhuo|Wogen Henzhuo]]—the northern warlord
-- [[place-jenchairgn|Jenchai Region]]—the archipelago across the strait
-- [[doc-intrnlsbvrsvthrts|Internal Subversive Threats]]—the enemies within the empire
-- [[affiliation-tantsouempr|Empire of Tantsou]]—the empire under pressure
+[[being-wogenhenzhuo|Wogen Henzhuo]]
+: the northern warlord
+
+[[place-jenchairgn|Jenchai Region]]
+: the archipelago across the strait
+
+[[doc-intrnlsbvrsvthrts|Internal Subversive Threats]]
+: the enemies within the empire
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: the empire under pressure

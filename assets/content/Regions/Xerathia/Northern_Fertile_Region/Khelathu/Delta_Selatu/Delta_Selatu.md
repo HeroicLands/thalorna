@@ -121,9 +121,20 @@ The Delta Selatu use the [[lore-aukhlthcrncy|Au'Khelathu currency]] of temple-at
 
 ## See Also
 
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the empire
-- [[affiliation-upperrivrslt|The Upper River Selatu]], [[affiliation-borderselatu|The Border Selatu]], [[affiliation-capitalselat|The Capital Selat]]—the other classes of selat
-- [[place-zumeleshrvr|The Zumelesh]]—the river whose mouths these are
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—chief trading partner
-- [[place-vylarianse|Vylarian Sea]]—the delta's sea
-- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the gods · [[skill-khelathlng|Khelathi Language]]—naming
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: the empire
+
+[[affiliation-upperrivrslt|The Upper River Selatu]], [[affiliation-borderselatu|The Border Selatu]], [[affiliation-capitalselat|The Capital Selat]]
+: the other classes of selat
+
+[[place-zumeleshrvr|The Zumelesh]]
+: the river whose mouths these are
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: chief trading partner
+
+[[place-vylarianse|Vylarian Sea]]
+: the delta's sea
+
+[[affiliation-khelathpnthn|Khelathi Pantheon]]
+: the gods · [[skill-khelathlng|Khelathi Language]]—naming

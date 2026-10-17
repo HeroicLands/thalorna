@@ -63,8 +63,17 @@ The Tantsou draw no line between health of the body and health of the spirit. Bo
 
 ## See Also
 
-- [[lore-tsaihuo|Tsaihuo]]—the caste the healers belong to
-- [[lore-phlsphyleiwo|Philosophy of Leiwo]]—the theory of Lei behind the medicine
-- [[lore-celestlrdr|Celestial Order]]—the cosmology medicine serves
-- [[lore-ancstrwrshp|Ancestor Worship]]—spirit-caused sickness and the Leigen
-- [[affiliation-tantsouempr|Empire of Tantsou]]—overview of imperial society
+[[lore-tsaihuo|Tsaihuo]]
+: the caste the healers belong to
+
+[[lore-phlsphyleiwo|Philosophy of Leiwo]]
+: the theory of Lei behind the medicine
+
+[[lore-celestlrdr|Celestial Order]]
+: the cosmology medicine serves
+
+[[lore-ancstrwrshp|Ancestor Worship]]
+: spirit-caused sickness and the Leigen
+
+[[affiliation-tantsouempr|Empire of Tantsou]]
+: overview of imperial society

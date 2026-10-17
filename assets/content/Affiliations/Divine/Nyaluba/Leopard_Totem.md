@@ -67,8 +67,17 @@ Because Sengala parties travel, the leopard is the Nyáluba guide most often add
 
 ## See Also
 
-- [[lore-leopardsengalaspr|Leopard Spirit]]—the guide as a being, apart from the practices of its cult
-- [[skill-leopardsengalasprt|Leopard Spirit Power]]—the standing through which the guide is asked
-- [[affiliation-nyalbpnthn|The Nyáluba Way]]—the tradition this cult belongs to
-- [[lore-nyalbsprts|Nyáluba Spirits]]—the seven kinds of guide and the three postures
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the Sengala and the other four clans
+[[lore-leopardsengalaspr|Leopard Spirit]]
+: the guide as a being, apart from the practices of its cult
+
+[[skill-leopardsengalasprt|Leopard Spirit Power]]
+: the standing through which the guide is asked
+
+[[affiliation-nyalbpnthn|The Nyáluba Way]]
+: the tradition this cult belongs to
+
+[[lore-nyalbsprts|Nyáluba Spirits]]
+: the seven kinds of guide and the three postures
+
+[[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
+: the Sengala and the other four clans

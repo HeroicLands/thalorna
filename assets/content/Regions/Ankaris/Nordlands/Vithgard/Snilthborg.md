@@ -24,11 +24,19 @@ That death has outlived the boy. If a young warrior ever turned up in Vithgard's
 
 ## At a Glance
 
-- Kind: a fortress-barracks on a height.
-- Trains: boys into warriors-for-hire, under a regime built to strip away softness.
-- Sword-master: Glarvorv Mirvaruk.
+Kind
+: a fortress-barracks on a height.
+
+Trains
+: boys into warriors-for-hire, under a regime built to strip away softness.
+
+Sword-master
+: Glarvorv Mirvaruk.
 
 ## See Also
 
-- [[being-thrldrvvrnhm|Thraldorv Vornheim]]—a warrior trained at the fortress
-- [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the kingdom whose border wars the fortress feeds
+[[being-thrldrvvrnhm|Thraldorv Vornheim]]
+: a warrior trained at the fortress
+
+[[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
+: the kingdom whose border wars the fortress feeds

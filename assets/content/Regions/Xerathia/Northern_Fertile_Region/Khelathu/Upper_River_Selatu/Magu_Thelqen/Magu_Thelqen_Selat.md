@@ -37,11 +37,19 @@ The selat runs on the flood, the harvest and the render like every [[lore-khelat
 
 ## Settlements
 
-- [[place-maguathen|Magu-Thelqen]] (~22,000)—the selat capital and the seat of the Halzi'a.
-- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+[[place-maguathen|Magu-Thelqen]] (~22,000)
+: the selat capital and the seat of the Halzi'a.
+
+The villages and estate-towns
+: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatmaguthn|The Selat of Magu-Thelqen]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-maguathen|Magu-Thelqen]]—Selat capital
+[[affiliation-selatmaguthn|The Selat of Magu-Thelqen]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-maguathen|Magu-Thelqen]]
+: Selat capital

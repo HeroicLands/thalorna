@@ -62,9 +62,14 @@ Mídhalión is the densest trading economy in Thalorna, and its commerce runs on
 
 Every major class of goods in Thalorna moves through the region:
 
-- **From the northern shore:** Vylarian steel, Helionite wisdom and oil, Taruzelian spice and cloth, Provenzian art, Tarvenan grain.
-- **From the southern shore:** Khelathi grain, papyrus and gold, Okhárian bronzework, Bethuan leather and textiles.
-- **From beyond:** far-eastern silk, porcelain and tea, Dunhari salt and camels, Vedyari gems and manuscripts.
+From the northern shore
+: Vylarian steel, Helionite wisdom and oil, Taruzelian spice and cloth, Provenzian art, Tarvenan grain.
+
+From the southern shore
+: Khelathi grain, papyrus and gold, Okhárian bronzework, Bethuan leather and textiles.
+
+From beyond
+: far-eastern silk, porcelain and tea, Dunhari salt and camels, Vedyari gems and manuscripts.
 
 All of it is taxed, transshipped and marked up on the way, and the port cities are rich because they stand in the middle of the known world's exchange.
 
@@ -78,20 +83,53 @@ Mídhalión dates by [[lore-commoncal|The Vylarian Calendar]]: years counted Aft
 
 ## See Also
 
-- [[place-vylarianse|Vylarian Sea]]—the water the region is built around
-- [[affiliation-vylarinmpr|Vylarian Empire]]—the declining imperial power
-- [[place-vylariargn|Vylaria Region]]—the empire's heartland
-- [[lore-commoncal|The Vylarian Calendar]]—the reckoning the region dates by
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the ascendant eastern maritime rival
-- [[place-helionis|Helionis]]—philosophical and intellectual center
-- [[place-provenzrgn|Provenzia Region]]—artistic heartland of the northern shore
-- [[place-tarvenirgn|Tarvénia]]—independent western peninsula
-- [[place-elavendre|Élavendre]]—woodland kingdom where Sinale and humans live as equals
-- [[place-aelwyth|Aelwyth]]—the Misty Isle
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—dominant southern imperial power
-- [[affiliation-okharis|Okharis]]—southwestern three-flamed kingdom
-- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—matriarchal kingdom of the central southern shore
-- [[affiliation-ordoarcanis|Thordimalon]]—cross-border arcane institution
-- [[skill-valtarlng|Valtari]]—the trade pidgin
-- [[place-ankrscntnnt|Ankaris Continent]]—northern continent
-- [[place-xerathia|Zerathia]]—southern continent
+[[place-vylarianse|Vylarian Sea]]
+: the water the region is built around
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: the declining imperial power
+
+[[place-vylariargn|Vylaria Region]]
+: the empire's heartland
+
+[[lore-commoncal|The Vylarian Calendar]]
+: the reckoning the region dates by
+
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the ascendant eastern maritime rival
+
+[[place-helionis|Helionis]]
+: philosophical and intellectual center
+
+[[place-provenzrgn|Provenzia Region]]
+: artistic heartland of the northern shore
+
+[[place-tarvenirgn|Tarvénia]]
+: independent western peninsula
+
+[[place-elavendre|Élavendre]]
+: woodland kingdom where Sinale and humans live as equals
+
+[[place-aelwyth|Aelwyth]]
+: the Misty Isle
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: dominant southern imperial power
+
+[[affiliation-okharis|Okharis]]
+: southwestern three-flamed kingdom
+
+[[affiliation-mtrrchybth|Matriarchy of Bethua]]
+: matriarchal kingdom of the central southern shore
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: cross-border arcane institution
+
+[[skill-valtarlng|Valtari]]
+: the trade pidgin
+
+[[place-ankrscntnnt|Ankaris Continent]]
+: northern continent
+
+[[place-xerathia|Zerathia]]
+: southern continent

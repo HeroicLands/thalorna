@@ -445,11 +445,20 @@ Her relationship with [[being-torniskbry|Tornis Kubri]] has recently added an un
 
 ### Skills and Abilities
 
-- **Healing**: Élithe's core expertise. She is skilled in wound treatment, herbal remedies, poultices, surgical stitching, and the management of battlefield injuries. She is the reason the Silent Talon's casualty rate is low.
-- **Alchemy**: Formally trained in the preparation of potions, tonics, and elixirs. She can identify and process rare herbs and compounds, and is always experimenting with new formulations.
-- **Herbalism**: An expert botanist with an encyclopedic knowledge of medicinal plants. She gathers specimens wherever the band travels, building a growing collection of rare ingredients.
-- **Hidden Arcane Talent**: Élithe possesses magical ability that she keeps carefully concealed. The nature and extent of this talent is known only to herself.
-- **Charm**: Élithe has a bubbly, disarming manner that makes people trust her instinctively. This is not an act—she is warm—but it also is effective camouflage for the things she chooses not to reveal.
+Healing
+: Élithe's core expertise. She is skilled in wound treatment, herbal remedies, poultices, surgical stitching, and the management of battlefield injuries. She is the reason the Silent Talon's casualty rate is low.
+
+Alchemy
+: Formally trained in the preparation of potions, tonics, and elixirs. She can identify and process rare herbs and compounds, and is always experimenting with new formulations.
+
+Herbalism
+: An expert botanist with an encyclopedic knowledge of medicinal plants. She gathers specimens wherever the band travels, building a growing collection of rare ingredients.
+
+Hidden Arcane Talent
+: Élithe possesses magical ability that she keeps carefully concealed. The nature and extent of this talent is known only to herself.
+
+Charm
+: Élithe has a bubbly, disarming manner that makes people trust her instinctively. This is not an act—she is warm—but it also is effective camouflage for the things she chooses not to reveal.
 
 ## Psyche
 
@@ -471,10 +480,17 @@ Her relationship with [[being-torniskbry|Tornis Kubri]] has recently added an un
 
 ## Companions
 
-- [[being-branwldrgr|Branval Dorgal]]: Captain of the Silent Talon.
-- [[being-torniskbry|Tornis Kubri]]: Fellow band member; a developing romantic relationship.
-- [[being-chlbrhydyn|Chelebe Riddin]]: Fellow band member.
-- [[being-dornsyndlr|Doren Sindalre]]: Fellow band member.
+[[being-branwldrgr|Branval Dorgal]]
+: Captain of the Silent Talon.
+
+[[being-torniskbry|Tornis Kubri]]
+: Fellow band member; a developing romantic relationship.
+
+[[being-chlbrhydyn|Chelebe Riddin]]
+: Fellow band member.
+
+[[being-dornsyndlr|Doren Sindalre]]
+: Fellow band member.
 
 ### Patrons
 
@@ -486,8 +502,11 @@ Those who seek to control or exploit her knowledge—particularly anyone who mig
 
 ## Plot Hooks
 
-1. **The Hidden Gift**: Someone discovers—or suspects—Élithe's concealed arcane talent. Whether it is a fellow mage who senses her power, an old acquaintance from Péravel, or an enemy who witnessed something she thought no one saw, Élithe must decide whether to flee, fight, or finally reveal what she has been hiding.
+The Hidden Gift
+: Someone discovers—or suspects—Élithe's concealed arcane talent. Whether it is a fellow mage who senses her power, an old acquaintance from Péravel, or an enemy who witnessed something she thought no one saw, Élithe must decide whether to flee, fight, or finally reveal what she has been hiding.
 
-2. **The Plague Contract**: The Silent Talon is hired to escort supplies to a plague-stricken town. Élithe's skills are put to the ultimate test as she must identify the cause, develop a treatment, and keep the band healthy—all while someone in the town may be deliberately spreading the sickness.
+The Plague Contract
+: The Silent Talon is hired to escort supplies to a plague-stricken town. Élithe's skills are put to the ultimate test as she must identify the cause, develop a treatment, and keep the band healthy—all while someone in the town may be deliberately spreading the sickness.
 
-3. **The Rare Ingredient**: Élithe learns of an extraordinarily rare herb growing deep in dangerous territory. Obtaining it could be the breakthrough she needs for a remedy she has been developing for years—but the expedition would put the entire band at risk for the sake of her personal ambition.
+The Rare Ingredient
+: Élithe learns of an extraordinarily rare herb growing deep in dangerous territory. Obtaining it could be the breakthrough she needs for a remedy she has been developing for years—but the expedition would put the entire band at risk for the sake of her personal ambition.

@@ -22,5 +22,8 @@ The floods deposit rich sediment on the bottomlands, and in spring the bottomlan
 
 ## See Also
 
-- [[place-hanalxilanrgn|Ha'nal Shi'lan Region]]—the contested river lands
-- [[place-nrthrnkchchk|Northern K'ich'chik]]—the northern frontier it serves
+[[place-hanalxilanrgn|Ha'nal Shi'lan Region]]
+: the contested river lands
+
+[[place-nrthrnkchchk|Northern K'ich'chik]]
+: the northern frontier it serves

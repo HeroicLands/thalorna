@@ -78,11 +78,20 @@ sohl:
 
 ## Triyanga-sampradeya—The Tradition of the Three Forms
 
-- **Tradition:** **Triyanga-sampradeya**—_Tradition of the Three Forms_
-- **Deities Venerated:** [[affiliation-vyalendra|Vyalendra]], [[affiliation-mahajaya|Mahajaya]], [[affiliation-rasikara|Rasikara]]—as three faces of a single cosmic truth; lesser gods observed as occasion requires
-- **Emphasis:** Orthodox, balanced veneration of the cosmic triad; civic religion; the foundational tradition of most Vedyaran city-states
-- **Pronunciation:** _Tri-MOOR-tee sum-pra-DAH-yah_
-- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
+Tradition:** **Triyanga-sampradeya
+: _Tradition of the Three Forms_
+
+Deities Venerated
+: [[affiliation-vyalendra|Vyalendra]], [[affiliation-mahajaya|Mahajaya]], [[affiliation-rasikara|Rasikara]]—as three faces of a single cosmic truth; lesser gods observed as occasion requires
+
+Emphasis
+: Orthodox, balanced veneration of the cosmic triad; civic religion; the foundational tradition of most Vedyaran city-states
+
+Pronunciation
+: _Tri-MOOR-tee sum-pra-DAH-yah_
+
+Pantheon
+: [[affiliation-varakpnthn|Varnuka Pantheon]]
 
 "Before you ask the council for anything, come and ask us," an **Achorya** tells the shrena clerk who has come to the temple with a plan for a new water-gate. "We do not decide your gate. We tell you which chamber to bring it to, and whether it will be blessed when the shovels gho in." The clerk had come for a signature and has been given a lesson in how the city works. In [[affiliation-vyalendra2|Vyalendra City-State]] the senior priest of the Triyanga temple sanctions the Council's acts, and a decision the temples will not sanction does not take effect, so the Council has learned to ask beforehand.
 
@@ -112,8 +121,11 @@ A **Sevoka** ("Servant") is an acolyte or assistant, who trains at least five ye
 
 ### Ordeals for Favor
 
-- **[The Triple Year]{.name data-type="lore/custom"}**—three successive years of service, one in each form's chamber, with the aspirant required to keep the full liturgical calendar of each.
-- **[The Architect's Ordeal]{.name data-type="lore/custom"}**—the aspirant designs and helps construct a small three-chambered shrine in a place that lacks one, with no assistance from other clergy and no payment from the community.
+[The Triple Year]{.name data-type="lore/custom"}
+: three successive years of service, one in each form's chamber, with the aspirant required to keep the full liturgical calendar of each.
+
+[The Architect's Ordeal]{.name data-type="lore/custom"}
+: the aspirant designs and helps construct a small three-chambered shrine in a place that lacks one, with no assistance from other clergy and no payment from the community.
 
 ### Orders
 

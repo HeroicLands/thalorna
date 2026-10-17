@@ -426,23 +426,56 @@ Nari and [[being-lmbhrpdhnn|Lámbira]] crossed paths far from the Khazryn, in th
 
 ### Skills and Abilities
 
-- **Strength**: Nari is not physically strong, as her skills lie more in spiritual and healing practices rather than physical combat.
-- **Endurance**: Nari is accustomed to the harsh desert climate and has developed a steady endurance for long journeys and difficult environments.
-- **Dexterity**: Nari has precise, deft hands, particularly when it comes to handling herbs and performing delicate healing tasks, though she is not an acrobat.
-- **Agility**: Her movements are fluid and light, reflecting her grace and ability to move easily through harsh desert terrain.
-- **Perception**: Nari’s sharp senses allow her to read both people and the environment with clarity. She is skilled at noticing subtle changes in nature and human behavior.
-- **Comeliness**: Nari possesses a quiet beauty that reflects her inner peace and wisdom. She doesn’t rely on physical beauty but carries herself with calm confidence.
-- **Aura**: Nari’s spiritual connection to the world is deep, and her mystical presence is strong. She can influence the spiritual world through her rituals and healing magic.
-- **Will**: Nari is calm and steadfast in her beliefs. While she may seem gentle, her inner strength and conviction are unshakeable.
-- **Reasoning**: Nari’s intellect is sharp, and her ability to reason through complex situations, both practical and spiritual, is highly developed.
-- **Creativity**: Nari’s understanding of the natural world and her mystical practices allow her to think creatively, especially when healing or solving problems.
-- **Empathy**: Nari is deeply attuned to the emotions of others and can read people with great insight. Her role as a healer requires a high level of emotional intelligence.
-- **Eloquence**: Nari speaks in a calm, measured way, offering wisdom and guidance. She is not a flamboyant speaker, but her words carry weight.
-- **Morality**: Nari is guided by a deep spiritual connection and the desire to maintain balance in the natural and spiritual world. She upholds her tribe’s sacred values and practices rigorously.
-- **Voice**: Nari’s voice is calm and soothing, perfect for spiritual chants and rituals. Her connection to the spirit world is reflected in her soft, melodious tone.
-- **Healer and Herbalist**: Nari is an expert in herbal medicine, able to treat wounds and illnesses with a combination of traditional remedies and mystical healing techniques.
-- **Mystical Abilities**: Nari possesses a deep connection to the elemental forces of the desert. She can call upon the wind and sand in minor spells to assist the group, and she is skilled in divination, using the stars and elements to provide guidance.
-- **Nomadic Knowledge**: Nari’s intimate knowledge of the desert and steppe and their tribes makes her a valuable guide in harsh, arid country—including Bethua's southern marches, so like and unlike her own Khazryn home. She can handle treacherous terrain, find hidden water, and treat with nomad leaders whom Bethuans cannot.
+Strength
+: Nari is not physically strong, as her skills lie more in spiritual and healing practices rather than physical combat.
+
+Endurance
+: Nari is accustomed to the harsh desert climate and has developed a steady endurance for long journeys and difficult environments.
+
+Dexterity
+: Nari has precise, deft hands, particularly when it comes to handling herbs and performing delicate healing tasks, though she is not an acrobat.
+
+Agility
+: Her movements are fluid and light, reflecting her grace and ability to move easily through harsh desert terrain.
+
+Perception
+: Nari’s sharp senses allow her to read both people and the environment with clarity. She is skilled at noticing subtle changes in nature and human behavior.
+
+Comeliness
+: Nari possesses a quiet beauty that reflects her inner peace and wisdom. She doesn’t rely on physical beauty but carries herself with calm confidence.
+
+Aura
+: Nari’s spiritual connection to the world is deep, and her mystical presence is strong. She can influence the spiritual world through her rituals and healing magic.
+
+Will
+: Nari is calm and steadfast in her beliefs. While she may seem gentle, her inner strength and conviction are unshakeable.
+
+Reasoning
+: Nari’s intellect is sharp, and her ability to reason through complex situations, both practical and spiritual, is highly developed.
+
+Creativity
+: Nari’s understanding of the natural world and her mystical practices allow her to think creatively, especially when healing or solving problems.
+
+Empathy
+: Nari is deeply attuned to the emotions of others and can read people with great insight. Her role as a healer requires a high level of emotional intelligence.
+
+Eloquence
+: Nari speaks in a calm, measured way, offering wisdom and guidance. She is not a flamboyant speaker, but her words carry weight.
+
+Morality
+: Nari is guided by a deep spiritual connection and the desire to maintain balance in the natural and spiritual world. She upholds her tribe’s sacred values and practices rigorously.
+
+Voice
+: Nari’s voice is calm and soothing, perfect for spiritual chants and rituals. Her connection to the spirit world is reflected in her soft, melodious tone.
+
+Healer and Herbalist
+: Nari is an expert in herbal medicine, able to treat wounds and illnesses with a combination of traditional remedies and mystical healing techniques.
+
+Mystical Abilities
+: Nari possesses a deep connection to the elemental forces of the desert. She can call upon the wind and sand in minor spells to assist the group, and she is skilled in divination, using the stars and elements to provide guidance.
+
+Nomadic Knowledge
+: Nari’s intimate knowledge of the desert and steppe and their tribes makes her a valuable guide in harsh, arid country—including Bethua's southern marches, so like and unlike her own Khazryn home. She can handle treacherous terrain, find hidden water, and treat with nomad leaders whom Bethuans cannot.
 
 ## Psyche
 
@@ -463,14 +496,26 @@ Nari is driven by her spiritual quest to maintain the balance of the natural wor
 
 ## Plot Hooks
 
-1. **The Weight of the Rolls**: Long before the company corners their quarry, Nari's sight troubles her: she dreams of a sealed thing carried north that will, if it reaches the wrong hands, drown the southern sea in fire. As they hunt the renegade **Rashira** and her stolen [[affiliation-bethuanflt|Warrant-register]], Nari alone grasps that the prize is not a person but a truth—and that catching it for the [[affiliation-mtrrchybth|Veil]] may bury the truth as surely as losing it would unleash the war. Her counsel pulls against [[being-lmbhrpdhnn|Lámbira]]'s contract and [[being-tlnrzyghrs|Tálanira]]'s instinct for advantage, and she presses Lámbira to ask not whether she can take the register, but who is served when she does.
-   - **Nari's Sight**: Her divinations give the company leads no tracker could find—and warnings no patron wants to hear.
-   - **The Healer's Objection**: To Nari, balance is not the crown's secret kept but the bloodshed prevented; she argues for the harder road of the truth, even against the woman who saved her life by hunting.
+The Weight of the Rolls
+: Long before the company corners their quarry, Nari's sight troubles her: she dreams of a sealed thing carried north that will, if it reaches the wrong hands, drown the southern sea in fire. As they hunt the renegade **Rashira** and her stolen [[affiliation-bethuanflt|Warrant-register]], Nari alone grasps that the prize is not a person but a truth—and that catching it for the [[affiliation-mtrrchybth|Veil]] may bury the truth as surely as losing it would unleash the war. Her counsel pulls against [[being-lmbhrpdhnn|Lámbira]]'s contract and [[being-tlnrzyghrs|Tálanira]]'s instinct for advantage, and she presses Lámbira to ask not whether she can take the register, but who is served when she does.
 
-2. **What Bethua Does to Its Men**: As an outsider, Nari sees plainly what Bethuans have stopped seeing—the bound men, the watched men, the oar-slaves chained to the benches of the very [[affiliation-bethuanflt|galley]] that carries the company on its hunt. When she treats a beaten servant or a dying rower against custom and without asking leave, she draws the cold attention of the ship's mistress and the suspicion of the Houses. [[being-lmbhrpdhnn|Lámbira]], a peasant's daughter who has never questioned the order she rose through, is forced to see her own country through a stranger's eyes; [[being-tlnrzyghrs|Tálanira]] must decide whether to shield her foreign friend or protect her House's good name.
-   - **A Foreigner's License**: A foreign woman may do much in Bethua that a Bethuan would not dare—but only so far, and the line is sharper at sea than on the docks.
-   - **The Mutiny's Spark**: Nari's compassion, in the wrong hold at the wrong moment, could be the small kindness that lights a rising among men with nothing left to lose.
+    Nari's Sight
+    : Her divinations give the company leads no tracker could find—and warnings no patron wants to hear.
 
-3. **The Marches and the Jackals**: When the chase swings into Bethua's arid southern marches, it is Nari—not the Bethuans—who can read the country and treat with the tribute-paying nomads who hold it, peoples not so unlike her own. But the exiled raider-queen [[being-argyrirjckl|Argirira the Jackal]] and her Jackals have been paid to bleed the company's time away, and old desert law, hospitality, and blood-debt tangle with [[being-lmbhrpdhnn|Lámbira]]'s hunt. Nari can open doors among the nomads that would stay shut to a Bethuan thief-taker—if she is willing to spend her own standing among kindred peoples to do it.
+    The Healer's Objection
+    : To Nari, balance is not the crown's secret kept but the bloodshed prevented; she argues for the harder road of the truth, even against the woman who saved her life by hunting.
 
-4. **The Thread Home**: A vision reaches Nari from the deep [[place-khzryndsrtrgn|Khazryn]]—kin in trouble, or a calling she cannot ignore—at the very moment the hunt for Rashira reaches its knife-edge. She must weigh the thread that drew her across the world to [[being-lmbhrpdhnn|Lámbira]]'s side against the pull of the home and people she left behind, and decide whether her place in the balance is here, in another nation's smoldering war, or back among her own.
+What Bethua Does to Its Men
+: As an outsider, Nari sees plainly what Bethuans have stopped seeing—the bound men, the watched men, the oar-slaves chained to the benches of the very [[affiliation-bethuanflt|galley]] that carries the company on its hunt. When she treats a beaten servant or a dying rower against custom and without asking leave, she draws the cold attention of the ship's mistress and the suspicion of the Houses. [[being-lmbhrpdhnn|Lámbira]], a peasant's daughter who has never questioned the order she rose through, is forced to see her own country through a stranger's eyes; [[being-tlnrzyghrs|Tálanira]] must decide whether to shield her foreign friend or protect her House's good name.
+
+    A Foreigner's License
+    : A foreign woman may do much in Bethua that a Bethuan would not dare—but only so far, and the line is sharper at sea than on the docks.
+
+    The Mutiny's Spark
+    : Nari's compassion, in the wrong hold at the wrong moment, could be the small kindness that lights a rising among men with nothing left to lose.
+
+The Marches and the Jackals
+: When the chase swings into Bethua's arid southern marches, it is Nari—not the Bethuans—who can read the country and treat with the tribute-paying nomads who hold it, peoples not so unlike her own. But the exiled raider-queen [[being-argyrirjckl|Argirira the Jackal]] and her Jackals have been paid to bleed the company's time away, and old desert law, hospitality, and blood-debt tangle with [[being-lmbhrpdhnn|Lámbira]]'s hunt. Nari can open doors among the nomads that would stay shut to a Bethuan thief-taker—if she is willing to spend her own standing among kindred peoples to do it.
+
+The Thread Home
+: A vision reaches Nari from the deep [[place-khzryndsrtrgn|Khazryn]]—kin in trouble, or a calling she cannot ignore—at the very moment the hunt for Rashira reaches its knife-edge. She must weigh the thread that drew her across the world to [[being-lmbhrpdhnn|Lámbira]]'s side against the pull of the home and people she left behind, and decide whether her place in the balance is here, in another nation's smoldering war, or back among her own.

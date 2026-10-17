@@ -34,7 +34,14 @@ That reign standardized Classical Vedyari and produced the commentaries, the leg
 
 ## See Also
 
-- [[place-vandhyabhumi|Vandyabhumi]]—the plateau it stands on
-- [[lore-mdhvndrcnt|The Madustana Count]]—the year-count dated from the reign
-- [[affiliation-gomarga|Gomarga]]—the kingdom whose crown holds the plateau's wells
-- [[skill-vedyarlng|Vedyari]]—the language the reign standardized
+[[place-vandhyabhumi|Vandyabhumi]]
+: the plateau it stands on
+
+[[lore-mdhvndrcnt|The Madustana Count]]
+: the year-count dated from the reign
+
+[[affiliation-gomarga|Gomarga]]
+: the kingdom whose crown holds the plateau's wells
+
+[[skill-vedyarlng|Vedyari]]
+: the language the reign standardized

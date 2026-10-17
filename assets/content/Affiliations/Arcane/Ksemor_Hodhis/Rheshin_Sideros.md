@@ -99,8 +99,17 @@ Politically, the Zulen Sideris tends toward conservatism—it defends existing s
 
 ## See Also
 
-- [[affiliation-hexhodai|Zemor Hodhis]]—The Zemor Hodhis framework
-- [[affiliation-zepharis|Rhezin Zefaris]]—The opposing _rhezin_
-- [[affiliation-hydalis|Rhezin Hidalis]]—Adjacent _rhezin_ (patience)
-- [[affiliation-pneumenos|Rhezin Neumenos]]—Adjacent _rhezin_ (binding)
-- [[affiliation-ordoarcanis|Thordimalon]]—The institution that teaches and regulates Sideris magic
+[[affiliation-hexhodai|Zemor Hodhis]]
+: The Zemor Hodhis framework
+
+[[affiliation-zepharis|Rhezin Zefaris]]
+: The opposing _rhezin_
+
+[[affiliation-hydalis|Rhezin Hidalis]]
+: Adjacent _rhezin_ (patience)
+
+[[affiliation-pneumenos|Rhezin Neumenos]]
+: Adjacent _rhezin_ (binding)
+
+[[affiliation-ordoarcanis|Thordimalon]]
+: The institution that teaches and regulates Sideris magic

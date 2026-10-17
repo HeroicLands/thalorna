@@ -453,27 +453,37 @@ Kuztar's primary motivation is the preservation of craft excellence in an age in
 
 ### Strengths
 
-- **Technical Mastery**: Kuztar's thatch work is traditional technique at its highest. His roofs are engineered to last a century or more with only minimal maintenance, and the quality of his work is immediately apparent even to untrained eyes in the perfect slope and flawless finish.
+Technical Mastery
+: Kuztar's thatch work is traditional technique at its highest. His roofs are engineered to last a century or more with only minimal maintenance, and the quality of his work is immediately apparent even to untrained eyes in the perfect slope and flawless finish.
 
-- **Mentorship and Teaching Skill**: Despite his reserve, or perhaps because of it, Kuztar is an excellent teacher. He understands how to break down complex techniques into components that students can master progressively, and his patience with learners is matched only by his intolerance of carelessness.
+Mentorship and Teaching Skill
+: Despite his reserve, or perhaps because of it, Kuztar is an excellent teacher. He understands how to break down complex techniques into components that students can master progressively, and his patience with learners is matched only by his intolerance of carelessness.
 
-- **Deep Knowledge of Materials**: Kuztar understands reeds, grasses, and binding materials in their subtlest aspects. He can assess a reed bundle by sight and touch, determine its lifespan, and select from his suppliers so exactingly that only the finest materials arrive at his work sites.
+Deep Knowledge of Materials
+: Kuztar understands reeds, grasses, and binding materials in their subtlest aspects. He can assess a reed bundle by sight and touch, determine its lifespan, and select from his suppliers so exactingly that only the finest materials arrive at his work sites.
 
-- **Innovative Problem-Solving**: Though traditional in his philosophy, Kuztar is not rigid in his practice. When faced with unusual architectural challenges or environmental conditions, his deep understanding of principles allows him to devise solutions that preserve quality while addressing novel circumstances.
+Innovative Problem-Solving
+: Though traditional in his philosophy, Kuztar is not rigid in his practice. When faced with unusual architectural challenges or environmental conditions, his deep understanding of principles allows him to devise solutions that preserve quality while addressing novel circumstances.
 
-- **Physical Endurance**: Despite his age, Kuztar maintains the strength and balance necessary for roof work. His movements, though slightly slower than in youth, remain economical and safe, and he has never suffered a serious fall or injury in all his working years.
+Physical Endurance
+: Despite his age, Kuztar maintains the strength and balance necessary for roof work. His movements, though slightly slower than in youth, remain economical and safe, and he has never suffered a serious fall or injury in all his working years.
 
 ### Weaknesses
 
-- **Resistance to Innovation**: Kuztar's respect for tradition sometimes calcifies into an inability to accept that newer techniques might offer real advantages in certain contexts. This has caused some clients to seek younger thatchers for projects where speed or cost is a consideration.
+Resistance to Innovation
+: Kuztar's respect for tradition sometimes calcifies into an inability to accept that newer techniques might offer real advantages in certain contexts. This has caused some clients to seek younger thatchers for projects where speed or cost is a consideration.
 
-- **Limited Physical Capacity for Heavy Labor**: As he ages, Kuztar finds himself unable to undertake the most demanding jobs—those involving extremely steep pitches, complex multi-level roofs, or projects that demand extended periods of continuous labor. He must now decline work or hire younger craftsmen to handle the physically taxing components, diminishing his autonomy.
+Limited Physical Capacity for Heavy Labor
+: As he ages, Kuztar finds himself unable to undertake the most demanding jobs—those involving extremely steep pitches, complex multi-level roofs, or projects that demand extended periods of continuous labor. He must now decline work or hire younger craftsmen to handle the physically taxing components, diminishing his autonomy.
 
-- **Economic Vulnerability**: His insistence on traditional, time-intensive methods means his rates are substantially higher than competitors. As economic pressure increases among property owners, fewer can afford his services, gradually eroding his opportunities and income.
+Economic Vulnerability
+: His insistence on traditional, time-intensive methods means his rates are substantially higher than competitors. As economic pressure increases among property owners, fewer can afford his services, gradually eroding his opportunities and income.
 
-- **Emotional Distance from His Children**: Kuztar's complete dedication to his craft left limited space for family relationships. His own children, who inherited his surname but not his passion for the trade, view him with respect but also distance. He has no close family relationships to sustain him in his later years.
+Emotional Distance from His Children
+: Kuztar's complete dedication to his craft left limited space for family relationships. His own children, who inherited his surname but not his passion for the trade, view him with respect but also distance. He has no close family relationships to sustain him in his later years.
 
-- **Perfectionism That Borders on Obsession**: Kuztar cannot accept work from his students that he considers substandard, even after they have become accomplished craftsmen themselves. This has created tensions with former apprentices who view his persistent criticism as undermining rather than educational.
+Perfectionism That Borders on Obsession
+: Kuztar cannot accept work from his students that he considers substandard, even after they have become accomplished craftsmen themselves. This has created tensions with former apprentices who view his persistent criticism as undermining rather than educational.
 
 ## Social
 
@@ -500,12 +510,17 @@ Lord [[being-gezhtymnkhz2|Gezehutyu Menkhezerre]]
 
 ## Plot Hooks
 
-1. **The Temple's Silent Roof**: Kuztar is commissioned for what should be a routine maintenance project on the great Lut-Uzn'era, but he discovers subtle damage that suggests the structure has been subjected to forces far beyond normal settling or wear. Investigation reveals that someone has been deliberately weakening the roof from below, and discovering why—and for what purpose—becomes a matter of personal honor and concern for the hundreds of pilgrims who gather beneath that roof.
+The Temple's Silent Roof
+: Kuztar is commissioned for what should be a routine maintenance project on the great Lut-Uzn'era, but he discovers subtle damage that suggests the structure has been subjected to forces far beyond normal settling or wear. Investigation reveals that someone has been deliberately weakening the roof from below, and discovering why—and for what purpose—becomes a matter of personal honor and concern for the hundreds of pilgrims who gather beneath that roof.
 
-2. **The Apprentice's Betrayal and Redemption**: One of Kuztar's most talented students, a young man named [[being-aqasi|Aqasi]], secretly takes a lucrative contract with a wealthy merchant known for cutting corners on quality. When one of Aqasi's roofs fails catastrophically in a storm, injuring multiple people, Kuztar can distance himself from the scandal or risk his own reputation by publicly supporting his student through the consequences.
+The Apprentice's Betrayal and Redemption
+: One of Kuztar's most talented students, a young man named [[being-aqasi|Aqasi]], secretly takes a lucrative contract with a wealthy merchant known for cutting corners on quality. When one of Aqasi's roofs fails catastrophically in a storm, injuring multiple people, Kuztar can distance himself from the scandal or risk his own reputation by publicly supporting his student through the consequences.
 
-3. **The Architectural Secret**: While working on repairs to an ancient temple, Kuztar discovers evidence that the original builders encoded mathematical and astronomical knowledge into the structure and angles of their roofwork. This discovery suggests that traditional thatch-making may have sacred or mystical dimensions lost to time. Kuztar becomes obsessed with decoding this knowledge, believing it represents a direct connection to the masters who preceded him.
+The Architectural Secret
+: While working on repairs to an ancient temple, Kuztar discovers evidence that the original builders encoded mathematical and astronomical knowledge into the structure and angles of their roofwork. This discovery suggests that traditional thatch-making may have sacred or mystical dimensions lost to time. Kuztar becomes obsessed with decoding this knowledge, believing it represents a direct connection to the masters who preceded him.
 
-4. **The Trade War Over Resources**: A conflict between different reed suppliers in the delta threatens the supply of reed that has served Kuztar for decades. When one supplier allies with younger thatchers to monopolize the finest reed stock, Kuztar is drawn into the politics he has always avoided, and may have to take a side in a trade dispute to preserve his craft.
+The Trade War Over Resources
+: A conflict between different reed suppliers in the delta threatens the supply of reed that has served Kuztar for decades. When one supplier allies with younger thatchers to monopolize the finest reed stock, Kuztar is drawn into the politics he has always avoided, and may have to take a side in a trade dispute to preserve his craft.
 
-5. **The Final Masterwork**: A distant noble, hearing of Kuztar's age and skill, offers him an extraordinary commission—to design and oversee the construction of the most ambitious thatched structure ever attempted, a hybrid temple-palace that would represent the apex of the art form. The project would occupy the last years of his life and cement his legacy forever—but success is not guaranteed, and failure could tarnish his reputation, while refusal means accepting that his greatest work has already been created.
+The Final Masterwork
+: A distant noble, hearing of Kuztar's age and skill, offers him an extraordinary commission—to design and oversee the construction of the most ambitious thatched structure ever attempted, a hybrid temple-palace that would represent the apex of the art form. The project would occupy the last years of his life and cement his legacy forever—but success is not guaranteed, and failure could tarnish his reputation, while refusal means accepting that his greatest work has already been created.

@@ -90,8 +90,17 @@ Chendrapur's settlement between its crown and its **Nine Houses** has held since
 
 ## See Also
 
-- [[affiliation-assmblycmpct|Assembly of the Compact]]—the body the signatures constitute
-- [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]—the federation that operates the law
-- [[lore-vdyrnbnkng|Vedyaran Banking]]—the system the five seats share
-- [[place-melaground|The Melra Ground]]—where it was sworn
-- [[lore-hndrdbnnrs|The Storm of the Hundred Banners]] · [[lore-conchdoor|The Conch-Door Incursion]]—the crisis it answered
+[[affiliation-assmblycmpct|Assembly of the Compact]]
+: the body the signatures constitute
+
+[[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]
+: the federation that operates the law
+
+[[lore-vdyrnbnkng|Vedyaran Banking]]
+: the system the five seats share
+
+[[place-melaground|The Melra Ground]]
+: where it was sworn
+
+[[lore-hndrdbnnrs|The Storm of the Hundred Banners]] · [[lore-conchdoor|The Conch-Door Incursion]]
+: the crisis it answered

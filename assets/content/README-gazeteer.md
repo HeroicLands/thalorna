@@ -22,13 +22,26 @@ Cover the detail appropriate to the subject. Use a table, field, map, or concise
 
 A broad checklist helps develop and check the setting. Different notes give these subjects the space they need:
 
-- **History:** origins, turning points, recent events, timelines, and the myths people tell about them. History explains present customs and conflicts; recent events give people something to argue about and adventurers something to do.
-- **Place:** landforms, climate, seasons, ecology, resources, waterways, routes, settlements, and maps. Geography should shape where people live, trade, travel, and build defenses. If magic changes the expected pattern, show its consequences. Where a feature defies the land around it—a desert between forest and sea—give the reason, even in a sentence.
-- **Livelihood:** population, rural and urban life, resources, production, trade, wealth, currency, and the practical effects of technology or magic.
-- **Society:** how locals see themselves and how outsiders see them; law, faith, family life, festivals, language, names, symbols, art, and attitudes toward death and ancestors. For law, ask where a shopkeeper goes after a night burglary: most order rests on custom and the pressure of neighbors, force escalates only when those fail, and an armed patrol is rarely the first answer.
-- **Power:** rulers, courts, diplomacy, military forces, institutions, and organizations. Give groups goals, motives, allies, opponents, and meaningful points of friction. Name what kind of body a group is and make it behave as one, since a guild, an order, a brotherhood and a criminal ring work differently; say how a person joins, what the rite of entry asks, whether there is an inner circle, and what happens to a member who betrays it.
-- **People, places, and creatures:** select figures and sites that reveal how the setting works. Give characters more than offices or titles; give creatures a place in the environment and culture rather than treating them as interchangeable encounters. Ground a people's traits in their own culture and nature, never in a genre's stock version of them: a people who work stone or keep old woods are not therefore the familiar dwarves or elves. The most convincing creatures exploit their habitat better than anything else in it, often out of sight.
-- **Story potential:** connect current tensions, competing aims, unusual places, and local beliefs to situations that players or writers can act on.
+History
+: origins, turning points, recent events, timelines, and the myths people tell about them. History explains present customs and conflicts; recent events give people something to argue about and adventurers something to do.
+
+Place
+: landforms, climate, seasons, ecology, resources, waterways, routes, settlements, and maps. Geography should shape where people live, trade, travel, and build defenses. If magic changes the expected pattern, show its consequences. Where a feature defies the land around it—a desert between forest and sea—give the reason, even in a sentence.
+
+Livelihood
+: population, rural and urban life, resources, production, trade, wealth, currency, and the practical effects of technology or magic.
+
+Society
+: how locals see themselves and how outsiders see them; law, faith, family life, festivals, language, names, symbols, art, and attitudes toward death and ancestors. For law, ask where a shopkeeper goes after a night burglary: most order rests on custom and the pressure of neighbors, force escalates only when those fail, and an armed patrol is rarely the first answer.
+
+Power
+: rulers, courts, diplomacy, military forces, institutions, and organizations. Give groups goals, motives, allies, opponents, and meaningful points of friction. Name what kind of body a group is and make it behave as one, since a guild, an order, a brotherhood and a criminal ring work differently; say how a person joins, what the rite of entry asks, whether there is an inner circle, and what happens to a member who betrays it.
+
+People, places, and creatures
+: select figures and sites that reveal how the setting works. Give characters more than offices or titles; give creatures a place in the environment and culture rather than treating them as interchangeable encounters. Ground a people's traits in their own culture and nature, never in a genre's stock version of them: a people who work stone or keep old woods are not therefore the familiar dwarves or elves. The most convincing creatures exploit their habitat better than anything else in it, often out of sight.
+
+Story potential
+: connect current tensions, competing aims, unusual places, and local beliefs to situations that players or writers can act on.
 
 The authors stress cause and effect. A resource changes trade; trade changes roads and ports; roads and ports change political power. Likewise, common magic or a distinctive climate should have visible effects on ordinary life. Show these connections in the relevant notes, so readers understand a living system rather than a collection of unrelated facts. Research into real places can supply believable detail, provided the resulting setting has its own logic and identity.
 
@@ -345,21 +358,50 @@ TBD.
 
 **Archetypes** describe characters in broad terms and help match them to an adventure. The list is:
 
-- warrior: Can hold a line and win a fight.
-- skirmisher: Fights light—ambush, missile, mobility.
-- infiltrator: Gets in unseen—locks, stealth, disguise.
-- mage: Commands arcane practice.
-- cleric: Commands religious practice and standing.
-- healer: Treats wounds and illness.
-- scholar: Reads, researches, and knows things.
-- courtier: Navigates rank, negotiation, and intrigue.
-- woodsman: Travels and survives wild country.
-- mariner: Handles boats and blue water.
-- artisan: Builds, repairs, and appraises craft work.
-- trader: Moves goods, values them, and knows markets.
-- commoner: Fits no more specific archetype; handles ordinary work and daily life.
-- entertainer: Performs for an audience through acting, music, comedy, or similar arts.
-- guildsperson: Has professional training, standing, or connections that open doors.
+warrior
+: Can hold a line and win a fight.
+
+skirmisher
+: Fights light—ambush, missile, mobility.
+
+infiltrator
+: Gets in unseen—locks, stealth, disguise.
+
+mage
+: Commands arcane practice.
+
+cleric
+: Commands religious practice and standing.
+
+healer
+: Treats wounds and illness.
+
+scholar
+: Reads, researches, and knows things.
+
+courtier
+: Navigates rank, negotiation, and intrigue.
+
+woodsman
+: Travels and survives wild country.
+
+mariner
+: Handles boats and blue water.
+
+artisan
+: Builds, repairs, and appraises craft work.
+
+trader
+: Moves goods, values them, and knows markets.
+
+commoner
+: Fits no more specific archetype; handles ordinary work and daily life.
+
+entertainer
+: Performs for an audience through acting, music, comedy, or similar arts.
+
+guildsperson
+: Has professional training, standing, or connections that open doors.
 
 Note that archetypes are descriptive, not proscriptive, and a character may be described by multiple archetypes at once.
 `commoner` stands alone: a being with another fitting archetype does not also carry `commoner`.
@@ -775,10 +817,17 @@ TBD.
 
 **Voice:** Match the kind of knowledge and identify whose understanding is presented. A scholar or sage can explain history, cosmology, economy, law, or theology; practitioners and ordinary residents can show how that knowledge affects life. Where accounts conflict, attribute them and state what is established. Use the subtype to decide what readers need:
 
-- **Cosmology, deity, theology, arcana, spirit:** Explain beliefs, evidence, practice, and consequences. Distinguish a believer's interpretation from known workings of the world.
-- **Economy, law, calendar, history:** Present the structure or chronology clearly, then show its effect on a household, journey, dispute, festival, or trade. Dates, procedures, and figures stay accessible.
-- **Material, bestiary:** Describe physical properties, habitat or sources, uses, and regional variation. A craftsperson, hunter, or naturalist can illuminate them.
-- **Folk, culture, custom, gathering:** Let people demonstrate a practice, story, or gathering while explaining who participates, what it means, and how it varies. A single speaker does not stand for everyone.
+Cosmology, deity, theology, arcana, spirit
+: Explain beliefs, evidence, practice, and consequences. Distinguish a believer's interpretation from known workings of the world.
+
+Economy, law, calendar, history
+: Present the structure or chronology clearly, then show its effect on a household, journey, dispute, festival, or trade. Dates, procedures, and figures stay accessible.
+
+Material, bestiary
+: Describe physical properties, habitat or sources, uses, and regional variation. A craftsperson, hunter, or naturalist can illuminate them.
+
+Folk, culture, custom, gathering
+: Let people demonstrate a practice, story, or gathering while explaining who participates, what it means, and how it varies. A single speaker does not stand for everyone.
 
 #### Lore template
 
@@ -817,10 +866,17 @@ TBD.
 
 **Voice:** An informed guide to a physical place. Begin with what a traveler can locate and experience, then explain why the place exists and how its people use it. Keep boundaries, routes, population, governance, resources, weather, maps, and nearby places easy to find. Tune the account to the subtype:
 
-- **World and celestial:** Explain the physical cycles and observable effects that shape calendars, seasons, travel, or belief. Put measurements in a form readers can retrieve.
-- **Region:** Show terrain, climate, resources, routes, borders, peoples, and internal contrasts. A guide crossing it can reveal change from one district to another.
-- **Settlement:** Show arrival, street or village life, livelihoods, authority, services, local tensions, and connections to its hinterland. Interpret yields, market size, and population through what people produce and need.
-- **Site, structure, and feature:** Give a clear location and physical description, purpose or origin, present use, access, and relevant dangers or beliefs. A local custodian or traveler may supply a revealing account.
+World and celestial
+: Explain the physical cycles and observable effects that shape calendars, seasons, travel, or belief. Put measurements in a form readers can retrieve.
+
+Region
+: Show terrain, climate, resources, routes, borders, peoples, and internal contrasts. A guide crossing it can reveal change from one district to another.
+
+Settlement
+: Show arrival, street or village life, livelihoods, authority, services, local tensions, and connections to its hinterland. Interpret yields, market size, and population through what people produce and need.
+
+Site, structure, and feature
+: Give a clear location and physical description, purpose or origin, present use, access, and relevant dangers or beliefs. A local custodian or traveler may supply a revealing account.
 
 **A place note is about appearance; its secrets carry the truth.** Players read the setting's places, so a place's open text is what anyone there can see—the tangible facts apparent to a visitor or a passer-by—and what the locals say of it: their tellings, rumors, local names and explanations, whether true or false. A telling is reported as said ("the pass guides say…") and the note never suggests whether it holds. The place exists before and after any particular person is there, so the open text does not depend on one adventure's cast. The truth goes in secret sections: what is really there, which tellings are false leads or half-truths and why, the dangers, the hidden passages and mechanisms, and the hidden meaning of what the open text describes. Put the main body of it in a top-level `.secret` section, which in Foundry is a page the GM alone sees, and a single truth in a titled `:::secret` block beside the appearance it explains. An alert inside a secret can tell the GM how to present the hidden fact. On the website a secret is a spoiler, not a lock; anything that must never be published belongs in a YAML comment.
 

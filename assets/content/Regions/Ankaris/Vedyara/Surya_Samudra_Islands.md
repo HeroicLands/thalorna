@@ -50,6 +50,11 @@ The query names the settlements of the chain. A merchant colony is a quarter of 
 
 ## See Also
 
-- [[place-suryasamdra|The Surva-samedra]]—the sea the chain lies in
-- [[place-vedyarargn|Vedyara Region]]—the mainland the colonies trade to
-- [[skill-vedyarlng|Vedyari]]—the language and its Eastern Outlier dialect
+[[place-suryasamdra|The Surva-samedra]]
+: the sea the chain lies in
+
+[[place-vedyarargn|Vedyara Region]]
+: the mainland the colonies trade to
+
+[[skill-vedyarlng|Vedyari]]
+: the language and its Eastern Outlier dialect

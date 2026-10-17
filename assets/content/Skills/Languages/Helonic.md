@@ -1928,11 +1928,20 @@ Helonic is the tongue of drama and argument. It is clear-voweled and fond of bre
 
 Helonic employs a rich vowel system with both short and long phonetic variants:
 
-- **a**—short and open, the "a" of "father" cut short; long, an open "ah"; and a low, rounded "aw" as in "law", deeper than short a
-- **e**—short, as in "bet"; long, as in "fete"
-- **i**—short, as in "bit"; long, as in "machine"
-- **o**—short, as in "for"; long, as in "note"
-- **u**—short, as in "put"; long, as in "boot"
+a
+: short and open, the "a" of "father" cut short; long, an open "ah"; and a low, rounded "aw" as in "law", deeper than short a
+
+e
+: short, as in "bet"; long, as in "fete"
+
+i
+: short, as in "bit"; long, as in "machine"
+
+o
+: short, as in "for"; long, as in "note"
+
+u
+: short, as in "put"; long, as in "boot"
 
 The language is naturally rich in diphthongs, particularly -ia, -io, -ea, and -eo combinations, which create fluent transitions between phonemes. The vowel inventory is one reason Helonic achieves its melodic quality.
 
@@ -1940,11 +1949,20 @@ The language is naturally rich in diphthongs, particularly -ia, -io, -ea, and -e
 
 Helonic maintains a moderate consonant inventory with some distinctive features:
 
-- **Stops:** p, b, t, d, k, g
-- **Fricatives:** f, th (as in "thin"), s, kh (a rasp at the back of the throat, as when clearing it), gh (that same rasp voiced, softer than "g")
-- **Nasals:** m, n
-- **Liquids:** r, l
-- **Semivowels:** y (as in "yes"), w
+Stops
+: p, b, t, d, k, g
+
+Fricatives
+: f, th (as in "thin"), s, kh (a rasp at the back of the throat, as when clearing it), gh (that same rasp voiced, softer than "g")
+
+Nasals
+: m, n
+
+Liquids
+: r, l
+
+Semivowels
+: y (as in "yes"), w
 
 The fricative system is distinctive: theta (th) and kh are particularly marked, appearing primarily in educated or formal speech. The voiced throaty rasp written **gh** is unique to Helonic among western languages—a guttural sound that is distinctly non-trivial to produce correctly.
 
@@ -1954,9 +1972,14 @@ Helonic uses a pitch-accent system inherited from its Proto-Helonic ancestor. St
 
 Characteristic patterns from the names:
 
-- _Aferion_ (AF-er-ee-on)—paroxytone, with long vowel on the accented syllable
-- _Kalidrás_ (KAL-ee-dras)—paroxytone, opening accent
-- _Ghanides_ (gah-NEE-des)—paroxytone with clear secondary stress
+_Aferion_ (AF-er-ee-on)
+: paroxytone, with long vowel on the accented syllable
+
+_Kalidrás_ (KAL-ee-dras)
+: paroxytone, opening accent
+
+_Ghanides_ (gah-NEE-des)
+: paroxytone with clear secondary stress
 
 ## Grammar Notes
 
@@ -1966,14 +1989,22 @@ Helonic is fundamentally a Subject-Verb-Object language, though word order is re
 
 Example constructions:
 
-- **Sothira thásirin ésarin**—"Wisdom is god"
-- **Ath sothiran dhidakhir**—"He teaches the wise-one"
+Sothira thásirin ésarin
+: "Wisdom is god"
+
+Ath sothiran dhidakhir
+: "He teaches the wise-one"
 
 ### Notable Grammatical Features
 
-- **Gender system:** Three genders (masculine, feminine, neuter) marked throughout nouns, adjectives, and determiners
-- **Articles:** Definite article _as/âs/ath_ (the); indefinite article _fom_ (a/an)
-- **Participial constructions:** Helonic is famous for its flexible use of participles, allowing compact and elegant subordinate clauses
+Gender system
+: Three genders (masculine, feminine, neuter) marked throughout nouns, adjectives, and determiners
+
+Articles
+: Definite article _as/âs/ath_ (the); indefinite article _fom_ (a/an)
+
+Participial constructions
+: Helonic is famous for its flexible use of participles, allowing compact and elegant subordinate clauses
 
 The grammar reflects philosophical precision, and the language's flexibility supports the construction of elaborate, nested arguments.
 
@@ -1997,10 +2028,17 @@ Helonic descended from **Proto-Helonic**, spoken by the ancient maritime peoples
 
 While Helonic is relatively standardized through written tradition and the schools of rhetoric, several regional variants exist:
 
-- **Helionis City Dialect:** The prestige standard, the speech of the stage and of formal writing. Clear vowels, careful articulation of the velar fricatives.
-- **Coastal Dialects:** Influenced by maritime trade and contact with Bizarian speakers. Some softening of harsh consonants, occasional vocabulary borrowing.
-- **Interior Highland Dialect:** More conservative, preserving some ancient forms lost in the city speech. Stronger stress accent, more guttural pronunciation of kh and gh.
-- **Literary Register:** An artificial, hyper-classical form used in formal writing and in the recitation of verse and drama, deliberately archaic.
+Helionis City Dialect
+: The prestige standard, the speech of the stage and of formal writing. Clear vowels, careful articulation of the velar fricatives.
+
+Coastal Dialects
+: Influenced by maritime trade and contact with Bizarian speakers. Some softening of harsh consonants, occasional vocabulary borrowing.
+
+Interior Highland Dialect
+: More conservative, preserving some ancient forms lost in the city speech. Stronger stress accent, more guttural pronunciation of kh and gh.
+
+Literary Register
+: An artificial, hyper-classical form used in formal writing and in the recitation of verse and drama, deliberately archaic.
 
 ## Core Vocabulary
 
@@ -2080,18 +2118,30 @@ Bizarian contracts _ash/ath_ to enclitics, and eastern particles (_zhe, vezh, ch
 
 ## Sample Phrases
 
-- **Sothira ésarin arkhidhin plumon**—"Wisdom is the beginning of all things" (philosophical maxim)
-- **Ath kéliran théradhin ésarin thásiron**—"To behold beauty is divine" (aesthetic principle)
-- **Rhéthasin, dhidakhir!**—"Speak, teach!" (rhetorical exhortation)
-- **Métharin thoir plumon ésarin ánthimor**—"Man is the measure of all things" (philosophical principle)
-- **Olasin kosamir in lékhisir**—"The entire cosmos in a single word" (poetic compression)
+Sothira ésarin arkhidhin plumon
+: "Wisdom is the beginning of all things" (philosophical maxim)
+
+Ath kéliran théradhin ésarin thásiron
+: "To behold beauty is divine" (aesthetic principle)
+
+Rhéthasin, dhidakhir!
+: "Speak, teach!" (rhetorical exhortation)
+
+Métharin thoir plumon ésarin ánthimor
+: "Man is the measure of all things" (philosophical principle)
+
+Olasin kosamir in lékhisir
+: "The entire cosmos in a single word" (poetic compression)
 
 ## Related Languages
 
 Helonic is the ancient progenitor and prestige member of the **Helonic language family**, which includes:
 
-- **Bizarian**—A crossroads language blending Helonic grammar with eastern vocabulary and phonetic influence, spoken in the Bizarian League
-- **Bethuan**—A distinct evolution spoken in the Matriarchy of Bethua, preserving older Helonic features but with significant innovation in its register system
+Bizarian
+: A crossroads language blending Helonic grammar with eastern vocabulary and phonetic influence, spoken in the Bizarian League
+
+Bethuan
+: A distinct evolution spoken in the Matriarchy of Bethua, preserving older Helonic features but with significant innovation in its register system
 
 Despite centuries of separation and contact with other language families, all three remain mutually intelligible to educated speakers, though not to common folk.
 
@@ -2099,10 +2149,17 @@ Despite centuries of separation and contact with other language families, all th
 
 Helonic names reflect the culture's embrace of distinctive, sonorous personal identity. The naming tradition emphasizes:
 
-- **Patronymic honor:** Family names often derive from ancestors or founding figures, with the suffix _-os_ (for clans) preserving this genealogical link
-- **Euphony:** Names are chosen partly for how they sound in speech and dramatic contexts—a child of philosophers or actors receives a name that will resonate in the assembly
-- **Mythic resonance:** Names often evoke legendary figures, qualities of the gods, or philosophical concepts
-- **Feminine sophistication:** Female names tend toward longer, more vowel-rich forms (Afriya, Timaritha, Jumina), which are considered more graceful; masculine names show greater diversity
+Patronymic honor
+: Family names often derive from ancestors or founding figures, with the suffix _-os_ (for clans) preserving this genealogical link
+
+Euphony
+: Names are chosen partly for how they sound in speech and dramatic contexts—a child of philosophers or actors receives a name that will resonate in the assembly
+
+Mythic resonance
+: Names often evoke legendary figures, qualities of the gods, or philosophical concepts
+
+Feminine sophistication
+: Female names tend toward longer, more vowel-rich forms (Afriya, Timaritha, Jumina), which are considered more graceful; masculine names show greater diversity
 
 Given names are typically paired with clan names (derived from family ancestry), and a full formal address includes both, often with titles of honor or achievement appended.
 

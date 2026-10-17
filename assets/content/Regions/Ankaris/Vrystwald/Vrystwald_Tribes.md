@@ -98,7 +98,14 @@ The Vristwald Tribes use the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ard
 
 ## See Also
 
-- [[place-vrystwald|Vristwald]]—Regional overview
-- [[affiliation-vylarinmpr|Vylarian Empire]]—Southern enemy
-- [[affiliation-provncmktr|Province of Moktur]]—Frontier neighbor
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—Kin by blood, not by liking
+[[place-vrystwald|Vristwald]]
+: Regional overview
+
+[[affiliation-vylarinmpr|Vylarian Empire]]
+: Southern enemy
+
+[[affiliation-provncmktr|Province of Moktur]]
+: Frontier neighbor
+
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+: Kin by blood, not by liking

@@ -81,6 +81,11 @@ The works of [[lore-jointcrown|The Joint Crown of Aelwyth]] stood on that ground
 
 ## See Also
 
-- [[lore-threesistrs|The Battle of the Three Sisters]]—the field the war was lost on
-- [[lore-jointcrown|The Joint Crown of Aelwyth]]—the kingdom whose roads the Pelwar inherited
-- [[place-vardanreach|Vardanreach]] · [[lore-vardain|The Vardain]]—what the Khazari kept
+[[lore-threesistrs|The Battle of the Three Sisters]]
+: the field the war was lost on
+
+[[lore-jointcrown|The Joint Crown of Aelwyth]]
+: the kingdom whose roads the Pelwar inherited
+
+[[place-vardanreach|Vardanreach]] · [[lore-vardain|The Vardain]]
+: what the Khazari kept

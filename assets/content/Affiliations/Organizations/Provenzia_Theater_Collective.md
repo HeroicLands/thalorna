@@ -56,10 +56,17 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-- **Type:** Cultural federation
-- **Region:** [[place-provenzrgn|Provenzia]]—based at the great theater quarter in the capital, with affiliated companies in every Provenzian city of consequence
-- **Founded:** Formally constituted twenty-three years ago; informal predecessor traditions stretch back centuries
-- **Tevran Maldor status:** Chartered member as the trade body covering theatrical production in Provenzia; holds the Performers' seat (jointly with the senior Aureldian bardic guilds) on the [[affiliation-tevran|Tevran Maldor's]] Council of the Tevran. The _rozimoi_ (auditors) of the Tevran's interest in Collective productions is sporadic and has, to date, never produced a formal disciplinary action—a forbearance that the Collective is aware of and cultivates.
+Type
+: Cultural federation
+
+Region
+: [[place-provenzrgn|Provenzia]]—based at the great theater quarter in the capital, with affiliated companies in every Provenzian city of consequence
+
+Founded
+: Formally constituted twenty-three years ago; informal predecessor traditions stretch back centuries
+
+Tevran Maldor status
+: Chartered member as the trade body covering theatrical production in Provenzia; holds the Performers' seat (jointly with the senior Aureldian bardic guilds) on the [[affiliation-tevran|Tevran Maldor's]] Council of the Tevran. The _rozimoi_ (auditors) of the Tevran's interest in Collective productions is sporadic and has, to date, never produced a formal disciplinary action—a forbearance that the Collective is aware of and cultivates.
 
 ## Overview
 
@@ -73,18 +80,30 @@ The Collective's central political function is the management of risk. A staged 
 
 The Collective recognizes three categories of member:
 
-- **Companies**—the working theater troupes. Each company holds a single vote in Collective decisions, regardless of its size or prominence. There are presently thirty-one companies of Collective standing across Provenzia, ranging from established institutions like the **[Teatro della Luna]{.name data-type="affiliation/venture"}** in the capital to small touring troupes that perform in market squares.
-- **Performers, playwrights, and designers**—individuals of established reputation, admitted by acclamation of the existing membership. There are perhaps two hundred at any given time. Individuals do not vote but are entitled to speak at Collective gatherings and to participate in the informal discussions that shape decisions.
-- **Patrons**—wealthy supporters who fund productions. Admission is by sponsorship of an existing member. Patrons do not vote but their views carry the weight their contributions confer. There are presently about forty patrons of standing, several of them noble, several of them mercantile, two of them rumored to be foreign agents quietly supporting productions favorable to their employers' interests.
+Companies
+: the working theater troupes. Each company holds a single vote in Collective decisions, regardless of its size or prominence. There are presently thirty-one companies of Collective standing across Provenzia, ranging from established institutions like the **[Teatro della Luna]{.name data-type="affiliation/venture"}** in the capital to small touring troupes that perform in market squares.
+
+Performers, playwrights, and designers
+: individuals of established reputation, admitted by acclamation of the existing membership. There are perhaps two hundred at any given time. Individuals do not vote but are entitled to speak at Collective gatherings and to participate in the informal discussions that shape decisions.
+
+Patrons
+: wealthy supporters who fund productions. Admission is by sponsorship of an existing member. Patrons do not vote but their views carry the weight their contributions confer. There are presently about forty patrons of standing, several of them noble, several of them mercantile, two of them rumored to be foreign agents quietly supporting productions favorable to their employers' interests.
 
 Day-to-day administration is conducted by the **[Convocation of Companies]{.name data-type="affiliation/governmental"}**, which meets every two months at the Teatro della Luna. The Convocation's standing officers—the **First Speaker**, the **Master of the Stage**, the **Mistress of the Patrons**, and the **Keeper of the Repertoire**—are elected annually and serve renewable terms. The current First Speaker is the playwright **[Léonardo Castiranni]{.name data-type="being/npc"}**, a man celebrated for his political comedies and feared for the precision of his satire.
 
 ## Notable Members
 
-- [[being-kelnstylgn|Kelena Estilgon]]—a founding figure of the present Collective; she helped formalize the federation twenty-three years ago and continues to wield substantial influence through it, even as her primary work has shifted to high society. The Collective treats her counsel as senior even when she does not attend gatherings.
-- **Léonardo Castiranni**—current First Speaker; playwright; political operator.
-- The **Teatro della Luna** company—most prestigious of the standing companies, with its own permanent venue in the capital.
-- The **[Compagnia delle Maschere]{.name data-type="affiliation/venture"}**—the leading touring troupe; specializes in commedia and the political mask traditions.
+[[being-kelnstylgn|Kelena Estilgon]]
+: a founding figure of the present Collective; she helped formalize the federation twenty-three years ago and continues to wield substantial influence through it, even as her primary work has shifted to high society. The Collective treats her counsel as senior even when she does not attend gatherings.
+
+Léonardo Castiranni
+: current First Speaker; playwright; political operator.
+
+The **Teatro della Luna** company
+: most prestigious of the standing companies, with its own permanent venue in the capital.
+
+The **[Compagnia delle Maschere]{.name data-type="affiliation/venture"}**
+: the leading touring troupe; specializes in commedia and the political mask traditions.
 
 ## Doctrine and Practice
 
@@ -103,10 +122,17 @@ The Convocation's deliberations on whether to endorse are conducted with theatri
 
 ## Relations
 
-- **The Crown of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]]**—careful mutual tolerance. The crown patronizes the major companies and accepts the Collective's commentary up to a point; the Collective's prudence-of-the-season doctrine generally keeps performance well clear of that point.
-- **The merchant houses**—patrons and targets. The relationship is symbiotic; the houses fund productions that mock their rivals and tolerate productions that mock themselves provided the mockery is witty rather than damaging.
-- **[[affiliation-velvethand|The Velvet Hand]]**—quiet, active. The Hand uses theatrical troupes as cover for operatives; the Collective is aware of this and tolerates it within limits. Several touring companies are quietly understood to include Hand operatives among their members.
-- **[[affiliation-bardicolgs|The Bardic Colleges]]**—cordial, distant. The Bardic tradition produces some playwrights of distinction who occasionally bring work to the Collective; the Colleges' more solemn artistic concerns and the Collective's more profane ones coexist without intimacy.
+The Crown of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+: careful mutual tolerance. The crown patronizes the major companies and accepts the Collective's commentary up to a point; the Collective's prudence-of-the-season doctrine generally keeps performance well clear of that point.
+
+The merchant houses
+: patrons and targets. The relationship is symbiotic; the houses fund productions that mock their rivals and tolerate productions that mock themselves provided the mockery is witty rather than damaging.
+
+[[affiliation-velvethand|The Velvet Hand]]
+: quiet, active. The Hand uses theatrical troupes as cover for operatives; the Collective is aware of this and tolerates it within limits. Several touring companies are quietly understood to include Hand operatives among their members.
+
+[[affiliation-bardicolgs|The Bardic Colleges]]
+: cordial, distant. The Bardic tradition produces some playwrights of distinction who occasionally bring work to the Collective; the Colleges' more solemn artistic concerns and the Collective's more profane ones coexist without intimacy.
 
 ## Identifying Marks
 

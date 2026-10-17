@@ -24,6 +24,11 @@ The battle is the founding myth of the [[affiliation-cnfdrtntrzlnstts|Confederat
 
 ## See Also
 
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the state the battle founded
-- [[place-yamuzel2|Yamuzel]]—the city whose fleet won it
-- [[affiliation-corsairleg|Corsair League]]—the cartel its captains founded
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+: the state the battle founded
+
+[[place-yamuzel2|Yamuzel]]
+: the city whose fleet won it
+
+[[affiliation-corsairleg|Corsair League]]
+: the cartel its captains founded

@@ -446,19 +446,37 @@ Vusukes is motivated by a desire to preserve the balance of the wild places he h
 
 ### Strengths
 
-- **Master Tracker**: Vusukes can follow a trail through brush and stone that others would deem impossible. His understanding of animal behavior is encyclopedic, allowing him to predict movement and location with uncanny accuracy.
-- **Awareness**: Years of reading subtle environmental clues have honed his senses to near-supernatural levels. He notices what others miss—the snap of a twig, the shift of wind, the displacement of undergrowth.
-- **Expert Craftsman**: His knowledge of trapping, snare-craft, and leatherworking is extensive. He can fashion specialized tools and equipment for specific hunting challenges.
-- **Survival Mastery**: Vusukes can sustain himself indefinitely in wilderness. He knows which plants nourish and which poison, how to find water, how to predict weather.
-- **Physical Endurance**: Decades of work have made him resilient, capable of forced marches and back-breaking labor without complaint.
+Master Tracker
+: Vusukes can follow a trail through brush and stone that others would deem impossible. His understanding of animal behavior is encyclopedic, allowing him to predict movement and location with uncanny accuracy.
+
+Awareness
+: Years of reading subtle environmental clues have honed his senses to near-supernatural levels. He notices what others miss—the snap of a twig, the shift of wind, the displacement of undergrowth.
+
+Expert Craftsman
+: His knowledge of trapping, snare-craft, and leatherworking is extensive. He can fashion specialized tools and equipment for specific hunting challenges.
+
+Survival Mastery
+: Vusukes can sustain himself indefinitely in wilderness. He knows which plants nourish and which poison, how to find water, how to predict weather.
+
+Physical Endurance
+: Decades of work have made him resilient, capable of forced marches and back-breaking labor without complaint.
 
 ### Weaknesses
 
-- **Social Isolation**: Vusukes struggles in urban environments and with the elaborate courtesies of city society. He finds small talk exhausting and formal negotiations almost unbearable.
-- **Commercial Inexperience**: His lack of bargaining skill has cost him dearly. He often accepts the first price offered, unable to handle the politics of trade.
-- **Emotional Distance**: His reserve can be mistaken for coldness. He finds it difficult to express affection, concern, or gratitude in ways others readily understand.
-- **Prejudice Against Change**: Vusukes resists innovations and prefers the methods he knows. He can be stubborn about adopting new techniques, even when they might prove useful.
-- **Vulnerability to Civilization**: While supreme in the wild, Vusukes is somewhat helpless in urban settings, making him uncomfortable and slightly suspicious in cities.
+Social Isolation
+: Vusukes struggles in urban environments and with the elaborate courtesies of city society. He finds small talk exhausting and formal negotiations almost unbearable.
+
+Commercial Inexperience
+: His lack of bargaining skill has cost him dearly. He often accepts the first price offered, unable to handle the politics of trade.
+
+Emotional Distance
+: His reserve can be mistaken for coldness. He finds it difficult to express affection, concern, or gratitude in ways others readily understand.
+
+Prejudice Against Change
+: Vusukes resists innovations and prefers the methods he knows. He can be stubborn about adopting new techniques, even when they might prove useful.
+
+Vulnerability to Civilization
+: While supreme in the wild, Vusukes is somewhat helpless in urban settings, making him uncomfortable and slightly suspicious in cities.
 
 ## Social
 
@@ -490,12 +508,17 @@ The Hunters' Fraternity
 
 ## Plot Hooks
 
-1. **The Disappearing Animals**: Over the past season, the normal migrations have ceased entirely. Herds that should pass through the foothills never arrive. Vusukes begins to suspect something far larger than poaching—perhaps a territorial shift among apex predators, or the influence of something unnatural. **Master Iskandor's** old journals contain fragmented references to a previous occurrence three centuries past, hinting at catastrophe. Investigating the cause would require venturing into territories Vusukes has never explored, following signs only he can read.
+The Disappearing Animals
+: Over the past season, the normal migrations have ceased entirely. Herds that should pass through the foothills never arrive. Vusukes begins to suspect something far larger than poaching—perhaps a territorial shift among apex predators, or the influence of something unnatural. **Master Iskandor's** old journals contain fragmented references to a previous occurrence three centuries past, hinting at catastrophe. Investigating the cause would require venturing into territories Vusukes has never explored, following signs only he can read.
 
-2. **The Mysterious Commission**: A well-dressed stranger arrives at Vusukes' lodge with an extraordinary offer: track a specific person moving through the wild lands, report their location, and receive a sum of gold that would secure his retirement. The description is vague—a young scholar in dark robes, possibly injured. Vusukes' pursuit leads him to discover the target is fleeing the **Bizarian Inquisition**, forcing him to decide whether to collect a fortune or protect an innocent from persecution.
+The Mysterious Commission
+: A well-dressed stranger arrives at Vusukes' lodge with an extraordinary offer: track a specific person moving through the wild lands, report their location, and receive a sum of gold that would secure his retirement. The description is vague—a young scholar in dark robes, possibly injured. Vusukes' pursuit leads him to discover the target is fleeing the **Bizarian Inquisition**, forcing him to decide whether to collect a fortune or protect an innocent from persecution.
 
-3. **The Beast in the Deep Forest**: A farmer's entire flock vanishes without blood or struggle. Vusukes' investigation reveals traces of something that should not exist—a predator unlike any in the natural order, leaving spoor that confounds his understanding. Tracking it leads into the deepest, most ancient parts of the forest, where **old magic** may still linger and forgotten dangers lurk.
+The Beast in the Deep Forest
+: A farmer's entire flock vanishes without blood or struggle. Vusukes' investigation reveals traces of something that should not exist—a predator unlike any in the natural order, leaving spoor that confounds his understanding. Tracking it leads into the deepest, most ancient parts of the forest, where **old magic** may still linger and forgotten dangers lurk.
 
-4. **The Apprentice**: A young, idealistic ranger named **Faridena Kassandazur** seeks Vusukes out, claiming to have been sent by the spirit of **Master Iskandor** himself. Whether this is real mysticism or elaborate deception, she demonstrates uncommon skill and patience. Training her could be Vusukes' greatest contribution to the wild—or a distraction from something far darker stirring in the forest that requires his full attention.
+The Apprentice
+: A young, idealistic ranger named **Faridena Kassandazur** seeks Vusukes out, claiming to have been sent by the spirit of **Master Iskandor** himself. Whether this is real mysticism or elaborate deception, she demonstrates uncommon skill and patience. Training her could be Vusukes' greatest contribution to the wild—or a distraction from something far darker stirring in the forest that requires his full attention.
 
-5. **The Poacher's Betrayal**: **Shabrikos the Scarred** approaches with an unlikely proposition: join forces against a mutual enemy—a mysterious lord buying up forests to convert them to farmland. Vusukes must decide whether a temporary alliance is possible, and whether his methods can work alongside such morally questionable partners. The conspiracy runs deeper than mere logging, reaching into the highest levels of **Bizarian League** politics.
+The Poacher's Betrayal
+: **Shabrikos the Scarred** approaches with an unlikely proposition: join forces against a mutual enemy—a mysterious lord buying up forests to convert them to farmland. Vusukes must decide whether a temporary alliance is possible, and whether his methods can work alongside such morally questionable partners. The conspiracy runs deeper than mere logging, reaching into the highest levels of **Bizarian League** politics.

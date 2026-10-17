@@ -27,7 +27,14 @@ The city is renowned for its goldsmiths, its bankers and its silk markets. Centu
 
 ## See Also
 
-- [[affiliation-khryshteikhos|Krusteikhos]]—the city-state and its council
-- [[place-byzariargn|Bizaria Region]]—the League's country
-- [[affiliation-byzarianlg|Bizarian League]]—the confederation whose council meets here
-- [[place-nesthiros2|Nesthiros]]—the port that ships what Krusteikhos banks
+[[affiliation-khryshteikhos|Krusteikhos]]
+: the city-state and its council
+
+[[place-byzariargn|Bizaria Region]]
+: the League's country
+
+[[affiliation-byzarianlg|Bizarian League]]
+: the confederation whose council meets here
+
+[[place-nesthiros2|Nesthiros]]
+: the port that ships what Krusteikhos banks

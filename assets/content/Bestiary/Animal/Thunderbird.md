@@ -339,20 +339,29 @@ A thunderbird heals wounds that would kill any other creature, and a bird shot a
 
 ## Attributes
 
-- **Strength:** 33-38 (1d6+32)
+Strength
+: 33-38 (1d6+32)
 
-- **Endurance:** 28-33 (1d6+27)
+Endurance
+: 28-33 (1d6+27)
 
-- **Dexterity:** 14-19 (1d6+13)
+Dexterity
+: 14-19 (1d6+13)
 
-- **Agility:** 12-17 (1d6+11)
+Agility
+: 12-17 (1d6+11)
 
-- **Perception:** 14-19 (1d6+13)
+Perception
+: 14-19 (1d6+13)
 
-- **Aura:** 10-15 (1d6+9)
+Aura
+: 10-15 (1d6+9)
 
-- **Will:** 13-18 (1d6+12)
+Will
+: 13-18 (1d6+12)
 
-- **Reasoning:** 7-10 (1d4+6)
+Reasoning
+: 7-10 (1d4+6)
 
-- **Creativity:** 5-8 (1d4+4)
+Creativity
+: 5-8 (1d4+4)

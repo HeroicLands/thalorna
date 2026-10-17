@@ -71,9 +71,20 @@ Anzet-Qelt uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The Gar-Hálzi c
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—parent selat class
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—imperial overview
-- [[place-anzet|Anzet]]—selat capital
-- [[affiliation-hezmuiri|Faith of Hezmu'iri]]—patron cult
-- [[affiliation-garhalzi|Gar-Hálzi]]—temple-treasuries
-- [[place-anzetqeltnome|Anzet-Qelt]]—the land the selat holds
+[[affiliation-upperrivrslt|The Upper River Selatu]]
+: parent selat class
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: imperial overview
+
+[[place-anzet|Anzet]]
+: selat capital
+
+[[affiliation-hezmuiri|Faith of Hezmu'iri]]
+: patron cult
+
+[[affiliation-garhalzi|Gar-Hálzi]]
+: temple-treasuries
+
+[[place-anzetqeltnome|Anzet-Qelt]]
+: the land the selat holds

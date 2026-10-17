@@ -30,6 +30,11 @@ Aldorath's proximity to the great central lake gives it a mystical character tha
 
 ## See Also
 
-- [[place-aelwyth|Aelwyth]]—the island this region is part of
-- [[affiliation-kngdmldrth|Kingdom of Aldorath]]—the realm that holds it
-- [[place-dunmere|Dunmere]]—its seat
+[[place-aelwyth|Aelwyth]]
+: the island this region is part of
+
+[[affiliation-kngdmldrth|Kingdom of Aldorath]]
+: the realm that holds it
+
+[[place-dunmere|Dunmere]]
+: its seat

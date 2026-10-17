@@ -174,14 +174,29 @@ The sin is the Unhoused. A person put out of the winter house for a fault the co
 
 ## See Also
 
-- [[affiliation-hvarnguides|The Hvarn]]—the hearths, the winter council and its offices
-- [[skill-hvarnlng|The Hvarn Tongue]]—the language, its paired forms and its names
-- [[place-nurvhrn|Nurvharn]]—the winter house and the council that sits in it
-- [[place-estrnreach|The Eastern Reach]]—the two crossings and the weather on them
-- [[place-sanghafort|The Fort]]—the garrison the pack-trains feed
-- [[lore-osketclt|Osket]]—the other guide-people of the wall
-- [[place-pssshrines|The Pass-Shrines]]—the summit temples whose road-rite the guide-peoples respect
-- [[place-ushtraber|Ushtra-ber]]—the lowland city where the hearths buy grain in autumn
+[[affiliation-hvarnguides|The Hvarn]]
+: the hearths, the winter council and its offices
+
+[[skill-hvarnlng|The Hvarn Tongue]]
+: the language, its paired forms and its names
+
+[[place-nurvhrn|Nurvharn]]
+: the winter house and the council that sits in it
+
+[[place-estrnreach|The Eastern Reach]]
+: the two crossings and the weather on them
+
+[[place-sanghafort|The Fort]]
+: the garrison the pack-trains feed
+
+[[lore-osketclt|Osket]]
+: the other guide-people of the wall
+
+[[place-pssshrines|The Pass-Shrines]]
+: the summit temples whose road-rite the guide-peoples respect
+
+[[place-ushtraber|Ushtra-ber]]
+: the lowland city where the hearths buy grain in autumn
 
 ## Glossary {#glossary}
 

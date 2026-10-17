@@ -33,16 +33,34 @@ No one rules the open desert. Perhaps a dozen great confederations and many smal
 
 ## Places
 
-- [[place-ghavulavad|Ghavulavad]]—the oasis seat of the tribes, where caravans hire their guides
-- [[place-stoneofranaz|Stone of Ranaz]]—the hill-shrine where three tribal territories meet
-- [[place-oasistvrzvd|Oasis of Tevrazavad]]—a spring that has never failed
-- [[place-kherzulakhem|Kherzulakhem]]—a hunters' camp near the Khazryn frontier
-- [[place-twrlghtnmrkd|Tower of the Lightning-Marked]]—a storm-blasted spire on the Pale Floor
-- [[place-mezhvadez|Mezhvadez]]—a vault buried under the dunes
-- [[place-vzhmvd|Vazhmavad]]—the weighing-place of the poets
+[[place-ghavulavad|Ghavulavad]]
+: the oasis seat of the tribes, where caravans hire their guides
+
+[[place-stoneofranaz|Stone of Ranaz]]
+: the hill-shrine where three tribal territories meet
+
+[[place-oasistvrzvd|Oasis of Tevrazavad]]
+: a spring that has never failed
+
+[[place-kherzulakhem|Kherzulakhem]]
+: a hunters' camp near the Khazryn frontier
+
+[[place-twrlghtnmrkd|Tower of the Lightning-Marked]]
+: a storm-blasted spire on the Pale Floor
+
+[[place-mezhvadez|Mezhvadez]]
+: a vault buried under the dunes
+
+[[place-vzhmvd|Vazhmavad]]
+: the weighing-place of the poets
 
 ## See Also
 
-- [[place-dunharargn|Dunhara Region]]—the parent region
-- [[affiliation-dunhartrbs|Dunhara Tribes]]—the confederations that range this desert
-- [[place-amradadrgn|Amradad Region]]—the settled cities at the desert's northwestern corner
+[[place-dunharargn|Dunhara Region]]
+: the parent region
+
+[[affiliation-dunhartrbs|Dunhara Tribes]]
+: the confederations that range this desert
+
+[[place-amradadrgn|Amradad Region]]
+: the settled cities at the desert's northwestern corner

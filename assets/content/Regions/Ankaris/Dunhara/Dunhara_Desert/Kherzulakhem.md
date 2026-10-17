@@ -20,6 +20,11 @@ It is the camp [[being-atenhershr|Atazkharu]], the Silent Jackal, calls home bet
 
 ## See Also
 
-- [[place-dunhardsrtrgn|Dunhara Desert Region]]—the open desert around the camp
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the northern desert beyond the frontier
-- [[affiliation-dunhartrbs|Dunhara Tribes]]—the confederations that range the country
+[[place-dunhardsrtrgn|Dunhara Desert Region]]
+: the open desert around the camp
+
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
+: the northern desert beyond the frontier
+
+[[affiliation-dunhartrbs|Dunhara Tribes]]
+: the confederations that range the country

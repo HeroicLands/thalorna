@@ -454,12 +454,17 @@ The Imperial College of Heralds (his public affiliation), the imperial intellige
 
 ## Plot Hooks
 
-1. **The Discreet Errand**—An intermediary hires the party to shadow a certain individual through the streets of the Vylarian capital for three days and report their every movement. The pay is generous, the instructions precise, and no questions are to be asked. If the party succeeds without being detected, more lucrative work follows—drawing them deeper into Lord Aimilon's network without ever meeting the man himself.
+The Discreet Errand
+: An intermediary hires the party to shadow a certain individual through the streets of the Vylarian capital for three days and report their every movement. The pay is generous, the instructions precise, and no questions are to be asked. If the party succeeds without being detected, more lucrative work follows—drawing them deeper into Lord Aimilon's network without ever meeting the man himself.
 
-2. **The Clan Obligation**—One of the party members learns that their clan owes an old and binding debt to an unnamed benefactor. When a stranger presents the agreed-upon sign, the character is honor-bound to comply—even if the task puts them at odds with their companions. The trail leads back, eventually, to Lord Aimilon.
+The Clan Obligation
+: One of the party members learns that their clan owes an old and binding debt to an unnamed benefactor. When a stranger presents the agreed-upon sign, the character is honor-bound to comply—even if the task puts them at odds with their companions. The trail leads back, eventually, to Lord Aimilon.
 
-3. **Too Much Knowledge**—The party is hired to uncover certain information about Taruzelian merchant operations and dutifully reports what they find. Shortly afterward, they are declared outlaws. Someone powerful wants them silenced, and Lord Aimilon must decide whether to protect useful assets or let them burn to preserve the network's secrecy.
+Too Much Knowledge
+: The party is hired to uncover certain information about Taruzelian merchant operations and dutifully reports what they find. Shortly afterward, they are declared outlaws. Someone powerful wants them silenced, and Lord Aimilon must decide whether to protect useful assets or let them burn to preserve the network's secrecy.
 
-4. **The Heir Apparent**—Lord Aimilon approaches the party through intermediaries to evaluate a young woman he believes could succeed him as the empire's next spymaster. He wants them to test her—discreetly—by placing her in situations that reveal her judgment, loyalty, and resourcefulness. The woman has no idea she is being assessed.
+The Heir Apparent
+: Lord Aimilon approaches the party through intermediaries to evaluate a young woman he believes could succeed him as the empire's next spymaster. He wants them to test her—discreetly—by placing her in situations that reveal her judgment, loyalty, and resourcefulness. The woman has no idea she is being assessed.
 
-5. **The Old Spy's Gambit**—Lord Aimilon has uncovered a conspiracy that threatens the imperial throne, but his usual channels have been compromised. He must rely on outsiders—the party—to deliver critical intelligence to the Emperor before the conspirators act. The catch: Lord Aimilon himself may be the target of an assassination attempt before the delivery can be made.
+The Old Spy's Gambit
+: Lord Aimilon has uncovered a conspiracy that threatens the imperial throne, but his usual channels have been compromised. He must rely on outsiders—the party—to deliver critical intelligence to the Emperor before the conspirators act. The catch: Lord Aimilon himself may be the target of an assassination attempt before the delivery can be made.

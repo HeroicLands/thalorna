@@ -455,29 +455,40 @@ At a deeper level, Bazia seeks to create beauty in a world filled with suffering
 
 ### Strengths
 
-- **Preternatural Empathy**: Bazia possesses the ability to perceive emotional states in others with unusual accuracy, to understand the sources of their pain, and to respond with interventions precisely calibrated to their needs.
+Preternatural Empathy
+: Bazia possesses the ability to perceive emotional states in others with unusual accuracy, to understand the sources of their pain, and to respond with interventions precisely calibrated to their needs.
 
-- **Ritual Mastery**: Her skill in the performance of sacred ceremonies is very high, and she has developed new rites that effectively address emotional and spiritual wounds in ways that traditional ceremonies sometimes miss.
+Ritual Mastery
+: Her skill in the performance of sacred ceremonies is very high, and she has developed new rites that effectively address emotional and spiritual wounds in ways that traditional ceremonies sometimes miss.
 
-- **Healing Knowledge**: Her understanding of herbs, medicines, and the physical aspects of healing is extensive, and she combines this practical knowledge with spiritual understanding to provide comprehensive care.
+Healing Knowledge
+: Her understanding of herbs, medicines, and the physical aspects of healing is extensive, and she combines this practical knowledge with spiritual understanding to provide comprehensive care.
 
-- **Authentic Presence**: When Bazia is with someone, they feel attended to in a way that is rare; this capacity to be fully present to another person's experience is itself a form of healing.
+Authentic Presence
+: When Bazia is with someone, they feel attended to in a way that is rare; this capacity to be fully present to another person's experience is itself a form of healing.
 
-- **Creative Adaptation**: Bazia is capable of understanding the deeper principles underlying tradition and then adapting those principles to new circumstances and new needs; this allows her to evolve practices while remaining true to their essential purpose.
+Creative Adaptation
+: Bazia is capable of understanding the deeper principles underlying tradition and then adapting those principles to new circumstances and new needs; this allows her to evolve practices while remaining true to their essential purpose.
 
-- **Eloquence and Charm**: Her ability to communicate with both words and silence, to move people's hearts, and to inspire hope through language is considerable, making her an effective speaker and counselor.
+Eloquence and Charm
+: Her ability to communicate with both words and silence, to move people's hearts, and to inspire hope through language is considerable, making her an effective speaker and counselor.
 
 ### Weaknesses
 
-- **Idealism and Naïveté**: Bazia's belief in human goodness and her conviction that people are fundamentally capable of healing and growth sometimes cause her to misjudge situations and to extend trust to those who do not deserve it.
+Idealism and Naïveté
+: Bazia's belief in human goodness and her conviction that people are fundamentally capable of healing and growth sometimes cause her to misjudge situations and to extend trust to those who do not deserve it.
 
-- **Emotional Vulnerability**: Her capacity for fellow-feeling, while a strength, also makes her vulnerable to absorbing others' pain, leading to periods of depression and emotional exhaustion that she sometimes fails to notice until they become serious.
+Emotional Vulnerability
+: Her capacity for fellow-feeling, while a strength, also makes her vulnerable to absorbing others' pain, leading to periods of depression and emotional exhaustion that she sometimes fails to notice until they become serious.
 
-- **Lack of Political Awareness**: Bazia's focus on individual healing and spiritual growth has left her relatively naive about institutional politics and the workings of power, making her easy to manipulate by those with political sophistication.
+Lack of Political Awareness
+: Bazia's focus on individual healing and spiritual growth has left her relatively naive about institutional politics and the workings of power, making her easy to manipulate by those with political sophistication.
 
-- **Willpower Limitation**: Though her will is strong in matters of compassion and healing, Bazia sometimes lacks the will to enforce difficult decisions; she may know what needs to be done and still struggle to do it.
+Willpower Limitation
+: Though her will is strong in matters of compassion and healing, Bazia sometimes lacks the will to enforce difficult decisions; she may know what needs to be done and still struggle to do it.
 
-- **Physical Fragility**: Her scarring and the injury that caused it left her with a somewhat compromised right leg; while she has recovered full function, she tires more easily than others and is more vulnerable to certain forms of injury.
+Physical Fragility
+: Her scarring and the injury that caused it left her with a somewhat compromised right leg; while she has recovered full function, she tires more easily than others and is more vulnerable to certain forms of injury.
 
 ## Social
 
@@ -522,12 +533,17 @@ The Order of Compassion
 
 ## Plot Hooks
 
-1. **The Impossible Healing**: A person comes to Bazia seeking healing from a spiritual or emotional wound that seems beyond even her abilities. The person's wound is severe, their defenses are strong, and their resistance to healing is rooted in a conviction that they do not deserve healing. As Bazia works with them over time, she discovers that the wound connects to a larger pattern of institutional cruelty or corruption that extends beyond this one person. She can remain focused on individual healing or become involved in exposing and opposing the institution responsible for so much suffering.
+The Impossible Healing
+: A person comes to Bazia seeking healing from a spiritual or emotional wound that seems beyond even her abilities. The person's wound is severe, their defenses are strong, and their resistance to healing is rooted in a conviction that they do not deserve healing. As Bazia works with them over time, she discovers that the wound connects to a larger pattern of institutional cruelty or corruption that extends beyond this one person. She can remain focused on individual healing or become involved in exposing and opposing the institution responsible for so much suffering.
 
-2. **The Corrupted Colleague**: A fellow priest begins demonstrating healing abilities that seem to surpass even Bazia's own capacity, working with great speed and apparent success. However, Bazia begins to notice subtle signs suggesting that the colleague's healings may be based on manipulation or on promises of spiritual benefits that cannot be delivered. Her suspicions may or may not be justified, and confronting her colleague will create conflict within the priesthood.
+The Corrupted Colleague
+: A fellow priest begins demonstrating healing abilities that seem to surpass even Bazia's own capacity, working with great speed and apparent success. However, Bazia begins to notice subtle signs suggesting that the colleague's healings may be based on manipulation or on promises of spiritual benefits that cannot be delivered. Her suspicions may or may not be justified, and confronting her colleague will create conflict within the priesthood.
 
-3. **The Heretical Offer**: A group of people from outside the established church approaches Bazia with a revolutionary theological proposition. They claim to have discovered an alternative spiritual path that could provide healing more effectively and more quickly than the traditional approach, and they invite her to participate in developing this new practice. The offer is tempting because Bazia does sometimes feel constrained by institutional orthodoxy. The path may be a true spiritual advance or a heretical corruption.
+The Heretical Offer
+: A group of people from outside the established church approaches Bazia with a revolutionary theological proposition. They claim to have discovered an alternative spiritual path that could provide healing more effectively and more quickly than the traditional approach, and they invite her to participate in developing this new practice. The offer is tempting because Bazia does sometimes feel constrained by institutional orthodoxy. The path may be a true spiritual advance or a heretical corruption.
 
-4. **The Love That Complicates**: Bazia develops a romantic attachment to someone who comes to her seeking healing. The person is not in the temple community and begins to suggest that Bazia should leave the priesthood to be with them. This presents Bazia with a real choice: between the calling she has devoted her life to and the possibility of human love and partnership. The complication is that the person may be emotionally vulnerable or may be taken advantage of if she, in her compassion, fails to keep a proper distance.
+The Love That Complicates
+: Bazia develops a romantic attachment to someone who comes to her seeking healing. The person is not in the temple community and begins to suggest that Bazia should leave the priesthood to be with them. This presents Bazia with a real choice: between the calling she has devoted her life to and the possibility of human love and partnership. The complication is that the person may be emotionally vulnerable or may be taken advantage of if she, in her compassion, fails to keep a proper distance.
 
-5. **The Ritual Gone Wrong**: During an important healing ceremony, something goes badly wrong. The ritual, which has always been safe and effective, instead seems to cause further harm to the participants. Bazia must investigate what happened, determine whether the ritual itself is flawed, whether someone sabotaged it, or whether the participants brought something into the space that the ritual could not safely contain.
+The Ritual Gone Wrong
+: During an important healing ceremony, something goes badly wrong. The ritual, which has always been safe and effective, instead seems to cause further harm to the participants. Bazia must investigate what happened, determine whether the ritual itself is flawed, whether someone sabotaged it, or whether the participants brought something into the space that the ritual could not safely contain.

@@ -26,6 +26,11 @@ The Shaman holds the strongest of the village's three seats, but the other two e
 
 ## See Also
 
-- [[place-skathwald|Skathwald]]—the reach around the village
-- [[place-skathburg|Skathburg]] and [[place-hildholt|Hildholt]]—neighboring villages reached by forest tracks
-- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—the wider web of independent villages
+[[place-skathwald|Skathwald]]
+: the reach around the village
+
+[[place-skathburg|Skathburg]] and [[place-hildholt|Hildholt]]
+: neighboring villages reached by forest tracks
+
+[[affiliation-vrystwldtrbs|Vristwald Tribes]]
+: the wider web of independent villages

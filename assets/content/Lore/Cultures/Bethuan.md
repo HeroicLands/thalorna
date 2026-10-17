@@ -201,15 +201,32 @@ The sin is the Spadai. The realm takes boys young, unmakes them, binds them by o
 
 ## See Also
 
-- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—the realm, its two pillars and its sovereign
-- [[place-bethuargn|Bethua Region]]—the coast and the country behind it
-- [[place-bethura|Bethura]]—the capital, its water and its two councils
-- [[affiliation-bethuanflt|Bethuan Fleet]]—the navy and the privateer war
-- [[affiliation-bthntrdhss|Bethuan Trade-Houses]]—the commercial federation and the third power
-- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the gods, and the three goddess-orders that govern
-- [[skill-bethunlng|Bethuan]]—the tongue and its Helonic kinship
-- [[skill-helonclng#lexicon|Helonic Lexicon]]—the words of the House, the water and the island
-- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the patron
+[[affiliation-mtrrchybth|Matriarchy of Bethua]]
+: the realm, its two pillars and its sovereign
+
+[[place-bethuargn|Bethua Region]]
+: the coast and the country behind it
+
+[[place-bethura|Bethura]]
+: the capital, its water and its two councils
+
+[[affiliation-bethuanflt|Bethuan Fleet]]
+: the navy and the privateer war
+
+[[affiliation-bthntrdhss|Bethuan Trade-Houses]]
+: the commercial federation and the third power
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the gods, and the three goddess-orders that govern
+
+[[skill-bethunlng|Bethuan]]
+: the tongue and its Helonic kinship
+
+[[skill-helonclng#lexicon|Helonic Lexicon]]
+: the words of the House, the water and the island
+
+[[affiliation-empireakhlth|Empire of Au'Khelathu]]
+: the patron
 
 ## Glossary {#glossary}
 

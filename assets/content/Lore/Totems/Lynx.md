@@ -16,9 +16,20 @@ Elusive and watchful, lynxes are solitary and nocturnal hunters that use their k
 
 A Lynx person is at ease in the quiet of night, watchful and alone. Sharp senses guide the person while staying out of sight.
 
-- **Physical:** Sharp features; keen, watchful eyes, agile.
-- **Behavioral:** Highly elusive, prefers night-time activity, secretive.
-- **Positive:** Highly aware, observant, and strategic.
-- **Negative:** Secretive, reclusive, and may avoid daytime engagement.
-- **Minor Trait ([[sohl-none-doctrauma-watchful|Watchful]]):** Observes from the edges, taking in everything while revealing little, preferring to understand a situation fully before stepping into it.
-- **Major Disorder ([[sohl-none-doctrauma-avoidant|Avoidant]]):** Retreats ever deeper into isolation, avoiding all companionship and becoming a ghost-like presence on the edges of the world.
+Physical
+: Sharp features; keen, watchful eyes, agile.
+
+Behavioral
+: Highly elusive, prefers night-time activity, secretive.
+
+Positive
+: Highly aware, observant, and strategic.
+
+Negative
+: Secretive, reclusive, and may avoid daytime engagement.
+
+Minor Trait ([[sohl-none-doctrauma-watchful|Watchful]])
+: Observes from the edges, taking in everything while revealing little, preferring to understand a situation fully before stepping into it.
+
+Major Disorder ([[sohl-none-doctrauma-avoidant|Avoidant]])
+: Retreats ever deeper into isolation, avoiding all companionship and becoming a ghost-like presence on the edges of the world.

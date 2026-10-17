@@ -26,6 +26,11 @@ The threshold was once guarded by [[lore-pikultzumaqdty|Pik'ul Ts'umaq]], the ce
 
 ## See Also
 
-- [[affiliation-tzuqilixbal|Faith of Ts'uqil Ish'bal]]—the faith whose god holds the underworld
-- [[lore-pikultzumaqdty|Pik'ul Ts'umaq]]—the fallen warden of its threshold
-- [[affiliation-xaqikhanal|Faith of Shaq'ik Ha'nal]]—the goddess whose waters are its mouths
+[[affiliation-tzuqilixbal|Faith of Ts'uqil Ish'bal]]
+: the faith whose god holds the underworld
+
+[[lore-pikultzumaqdty|Pik'ul Ts'umaq]]
+: the fallen warden of its threshold
+
+[[affiliation-xaqikhanal|Faith of Shaq'ik Ha'nal]]
+: the goddess whose waters are its mouths

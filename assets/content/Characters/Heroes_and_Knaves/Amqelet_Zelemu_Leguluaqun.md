@@ -469,9 +469,14 @@ The culmination of his journey will lead to a dramatic confrontation with the fo
 
 ### Potential Story Hooks for the Character
 
-- **Allies and Foes:** Other astrologers or mystics may view the Convergence differently, offering different interpretations or actively working against Amqelet-Zelemu.
-- **Political Intrigue:** The imperial court’s internal power struggles could affect his journey, as different factions may want to control the outcome of the Convergence.
-- **Mystical Encounters:** The journey allows for encounters with otherworldly beings tied to the stars or ancient prophecies, some who might aid Amqelet-Zelemu, others who could hinder him.
+Allies and Foes
+: Other astrologers or mystics may view the Convergence differently, offering different interpretations or actively working against Amqelet-Zelemu.
+
+Political Intrigue
+: The imperial court’s internal power struggles could affect his journey, as different factions may want to control the outcome of the Convergence.
+
+Mystical Encounters
+: The journey allows for encounters with otherworldly beings tied to the stars or ancient prophecies, some who might aid Amqelet-Zelemu, others who could hinder him.
 
 ### Companions
 
@@ -481,20 +486,47 @@ The culmination of his journey will lead to a dramatic confrontation with the fo
 
 ### Skills and Abilities
 
-- **Strength**: Amqelet-Zelemu is not particularly strong physically, as his pursuits are mainly scholarly.
-- **Endurance**: Long hours of study and travel have given him a decent level of stamina.
-- **Dexterity**: He is careful and precise, especially when handling delicate astrological instruments.
-- **Agility**: While not especially agile, he moves with a purposeful grace.
-- **Perception**: His ability to observe celestial patterns and subtle details is highly developed.
-- **Comeliness**: His dignified appearance and composed demeanor make him pleasantly notable.
-- **Aura**: Amqelet-Zelemu possesses a strong spiritual presence, enhancing his connection to cosmic forces.
-- **Will**: His determination to fulfill his quest demonstrates considerable willpower.
-- **Reasoning**: A brilliant mind adept at complex calculations and interpretations of celestial events.
-- **Creativity**: His novel approaches to astrology show a high level of creativity.
-- **Empathy**: He understands and feels with others, aiding in his role as a guide.
-- **Eloquence**: Communicates his thoughts clearly, making complex ideas accessible.
-- **Morality**: As an astrologer deeply connected to his culture’s beliefs about the cosmos and destiny, Amqelet-Zelemu upholds his society’s mores with strong conviction.
-- **Voice**: While not a trained singer, Amqelet-Zelemu’s voice carries the weight of his knowledge, delivering chants and incantations with clear precision.
+Strength
+: Amqelet-Zelemu is not particularly strong physically, as his pursuits are mainly scholarly.
+
+Endurance
+: Long hours of study and travel have given him a decent level of stamina.
+
+Dexterity
+: He is careful and precise, especially when handling delicate astrological instruments.
+
+Agility
+: While not especially agile, he moves with a purposeful grace.
+
+Perception
+: His ability to observe celestial patterns and subtle details is highly developed.
+
+Comeliness
+: His dignified appearance and composed demeanor make him pleasantly notable.
+
+Aura
+: Amqelet-Zelemu possesses a strong spiritual presence, enhancing his connection to cosmic forces.
+
+Will
+: His determination to fulfill his quest demonstrates considerable willpower.
+
+Reasoning
+: A brilliant mind adept at complex calculations and interpretations of celestial events.
+
+Creativity
+: His novel approaches to astrology show a high level of creativity.
+
+Empathy
+: He understands and feels with others, aiding in his role as a guide.
+
+Eloquence
+: Communicates his thoughts clearly, making complex ideas accessible.
+
+Morality
+: As an astrologer deeply connected to his culture’s beliefs about the cosmos and destiny, Amqelet-Zelemu upholds his society’s mores with strong conviction.
+
+Voice
+: While not a trained singer, Amqelet-Zelemu’s voice carries the weight of his knowledge, delivering chants and incantations with clear precision.
 
 ## Psyche
 
@@ -506,9 +538,14 @@ His journey is one of discovery and of self-knowledge. Along the way, Amqelet-Ze
 
 ### Strengths
 
-- **Astrology**: Expert in reading celestial signs and star charts.
-- **Mystical Knowledge**: Understanding of ancient prophecies and magic.
-- **Diplomacy**: Skilled in the political intrigue of the empire.
+Astrology
+: Expert in reading celestial signs and star charts.
+
+Mystical Knowledge
+: Understanding of ancient prophecies and magic.
+
+Diplomacy
+: Skilled in the political intrigue of the empire.
 
 ## Social
 
@@ -518,10 +555,14 @@ Rival astrologers and courtiers
 
 ## Plot Hooks
 
-1. **The Eclipse of the Nine Moons**: As Amqelet-Zelemu charts an upcoming celestial alignment, he notices discrepancies in the ancient star charts he relies on. Consulting other astrologers reveals that someone has deliberately altered these records centuries ago, obscuring the alignment’s true meaning. To uncover the truth, Amqelet-Zelemu must follow a trail of hidden knowledge, even as rival scholars and imperial agents seek to stop him.
+The Eclipse of the Nine Moons
+: As Amqelet-Zelemu charts an upcoming celestial alignment, he notices discrepancies in the ancient star charts he relies on. Consulting other astrologers reveals that someone has deliberately altered these records centuries ago, obscuring the alignment’s true meaning. To uncover the truth, Amqelet-Zelemu must follow a trail of hidden knowledge, even as rival scholars and imperial agents seek to stop him.
 
-2. **The Celestial Herald**: During a public astrological reading, Amqelet-Zelemu predicts a celestial event that will bring great prosperity to the empire. However, when the event occurs, it is followed by strange and devastating natural phenomena instead. Accused of heresy and manipulation, Amqelet-Zelemu must defend his reputation while investigating who or what twisted his prediction into a calamity.
+The Celestial Herald
+: During a public astrological reading, Amqelet-Zelemu predicts a celestial event that will bring great prosperity to the empire. However, when the event occurs, it is followed by strange and devastating natural phenomena instead. Accused of heresy and manipulation, Amqelet-Zelemu must defend his reputation while investigating who or what twisted his prediction into a calamity.
 
-3. **The Starblade Prophecy**: An ancient noble family approaches Amqelet-Zelemu with a request: decipher an inscription on a relic tied to their lineage. The artifact speaks of a blade forged under the light of a rare constellation, said to grant its wielder power beyond any other. As Amqelet-Zelemu deciphers the riddle, he uncovers a warning that using the blade comes with dire consequences—ones the noble family is eager to ignore.
+The Starblade Prophecy
+: An ancient noble family approaches Amqelet-Zelemu with a request: decipher an inscription on a relic tied to their lineage. The artifact speaks of a blade forged under the light of a rare constellation, said to grant its wielder power beyond any other. As Amqelet-Zelemu deciphers the riddle, he uncovers a warning that using the blade comes with dire consequences—ones the noble family is eager to ignore.
 
-4. **The Missing Constellation**: While examining the night sky, Amqelet-Zelemu notices that a once-prominent constellation has vanished without explanation. His investigation leads him to a temple abandoned centuries ago, where he discovers clues pointing to the constellation’s significance in ancient rituals. What begins as a scholarly pursuit turns into a race to prevent the awakening of a forgotten power tied to the stars.
+The Missing Constellation
+: While examining the night sky, Amqelet-Zelemu notices that a once-prominent constellation has vanished without explanation. His investigation leads him to a temple abandoned centuries ago, where he discovers clues pointing to the constellation’s significance in ancient rituals. What begins as a scholarly pursuit turns into a race to prevent the awakening of a forgotten power tied to the stars.

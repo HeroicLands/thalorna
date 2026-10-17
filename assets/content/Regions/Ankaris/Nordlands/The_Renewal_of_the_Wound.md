@@ -26,7 +26,14 @@ Holafell also ties the rite to the famine of [[lore-threewinters|The Three Winte
 
 ## See Also
 
-- [[place-holafell|Holafell]]—the oldest hov of Hrimthur, where the cut is made
-- [[affiliation-hrimthur|Faith of Hrimthur]]—the faith that keeps the wound open
-- [[lore-thursblot|Thursblet]]—the making of the world from the giant's body
-- [[affiliation-thursborn|The Giant's Children]]—the order that stands by the cutting
+[[place-holafell|Holafell]]
+: the oldest hov of Hrimthur, where the cut is made
+
+[[affiliation-hrimthur|Faith of Hrimthur]]
+: the faith that keeps the wound open
+
+[[lore-thursblot|Thursblet]]
+: the making of the world from the giant's body
+
+[[affiliation-thursborn|The Giant's Children]]
+: the order that stands by the cutting

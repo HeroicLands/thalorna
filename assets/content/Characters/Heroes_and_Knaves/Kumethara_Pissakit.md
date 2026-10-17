@@ -446,19 +446,37 @@ Kumethara is driven by a love for the forests of her homeland and a determinatio
 
 ### Strengths
 
-- **Master Timbercraftsman**: Kumethara's understanding of wood—its properties, growth patterns, and potential—is encyclopedic. She can assess a forest and know immediately which trees should be harvested and which preserved.
-- **Strength and Skill**: Her ability to fell a tree exactly as intended, to judge its fall with precision, and to maximize usable timber from each cut is extraordinary. She has never had an accident in decades of work.
-- **Forest Navigation and Knowledge**: She knows the forests of the **Bizarian League** intimately. She can navigate by landmarks invisible to others and can predict seasonal changes and hazards.
-- **Sustainable Practices Expertise**: Her knowledge of forest management and sustainable harvesting is advanced and continually evolving. Architects and builders specifically seek her timber because of its quality and ethical provenance.
-- **Resilience and Endurance**: Decades of hard physical labor have made her durable. She can work in harsh conditions and recover quickly from exertion.
+Master Timbercraftsman
+: Kumethara's understanding of wood—its properties, growth patterns, and potential—is encyclopedic. She can assess a forest and know immediately which trees should be harvested and which preserved.
+
+Strength and Skill
+: Her ability to fell a tree exactly as intended, to judge its fall with precision, and to maximize usable timber from each cut is extraordinary. She has never had an accident in decades of work.
+
+Forest Navigation and Knowledge
+: She knows the forests of the **Bizarian League** intimately. She can navigate by landmarks invisible to others and can predict seasonal changes and hazards.
+
+Sustainable Practices Expertise
+: Her knowledge of forest management and sustainable harvesting is advanced and continually evolving. Architects and builders specifically seek her timber because of its quality and ethical provenance.
+
+Resilience and Endurance
+: Decades of hard physical labor have made her durable. She can work in harsh conditions and recover quickly from exertion.
 
 ### Weaknesses
 
-- **Stubbornness**: Kumethara's principles are admirable but can make her inflexible. She will refuse lucrative contracts on moral grounds, costing herself and potentially her family financially.
-- **Limited Negotiation Skills**: She struggles with business negotiations, often accepting less favorable terms rather than haggle. Her bluntness can offend potential clients in cities where subtlety is valued.
-- **Overexertion Tendency**: In her dedication to completing work properly, Kumethara sometimes pushes herself beyond wise limits, risking injury or illness.
-- **Difficulty with Urban Environments**: She is uncomfortable in cities and formal settings, feeling out of place and slightly contemptuous of those she views as soft or disconnected from honest work.
-- **Risk of Burnout**: The constant weight of sustaining both her livelihood and her principles can be exhausting. She occasionally struggles with despair about the larger forces destroying forests regardless of her efforts.
+Stubbornness
+: Kumethara's principles are admirable but can make her inflexible. She will refuse lucrative contracts on moral grounds, costing herself and potentially her family financially.
+
+Limited Negotiation Skills
+: She struggles with business negotiations, often accepting less favorable terms rather than haggle. Her bluntness can offend potential clients in cities where subtlety is valued.
+
+Overexertion Tendency
+: In her dedication to completing work properly, Kumethara sometimes pushes herself beyond wise limits, risking injury or illness.
+
+Difficulty with Urban Environments
+: She is uncomfortable in cities and formal settings, feeling out of place and slightly contemptuous of those she views as soft or disconnected from honest work.
+
+Risk of Burnout
+: The constant weight of sustaining both her livelihood and her principles can be exhausting. She occasionally struggles with despair about the larger forces destroying forests regardless of her efforts.
 
 ## Social
 
@@ -494,12 +512,17 @@ The Forest Stewards' Council
 
 ## Plot Hooks
 
-1. **The Ancient Grove**: A developer seeks to purchase rights to harvest timber from the oldest forest in the region—a grove so ancient that **druids** are rumored to guard it. Kumethara is approached both by the developer and by forest advocates. Her investigation reveals the grove may contain answers to environmental catastrophes and that powerful forces—both commercial and magical—are manipulating the situation.
+The Ancient Grove
+: A developer seeks to purchase rights to harvest timber from the oldest forest in the region—a grove so ancient that **druids** are rumored to guard it. Kumethara is approached both by the developer and by forest advocates. Her investigation reveals the grove may contain answers to environmental catastrophes and that powerful forces—both commercial and magical—are manipulating the situation.
 
-2. **The Poisoned Forest**: Trees in the northern region begin dying inexplicably. The **Logging Consortium** blames natural causes and seeks to harvest dying trees before they rot. Kumethara's investigation suggests intentional poisoning and discovers evidence pointing toward industrial sabotage or darker forces. Exposing the truth might devastate the region's economy.
+The Poisoned Forest
+: Trees in the northern region begin dying inexplicably. The **Logging Consortium** blames natural causes and seeks to harvest dying trees before they rot. Kumethara's investigation suggests intentional poisoning and discovers evidence pointing toward industrial sabotage or darker forces. Exposing the truth might devastate the region's economy.
 
-3. **The Apprentice Question**: A young woman, **Nargizán Fulunáhr**, seeks to apprentice with Kumethara, claiming spiritual calling and skill. Kumethara would be pleased to teach her, but investigation reveals **Nargizán** may be an infiltrator sent by the **Logging Consortium** to spy on sustainable practices or potentially sabotage Kumethara's work.
+The Apprentice Question
+: A young woman, **Nargizán Fulunáhr**, seeks to apprentice with Kumethara, claiming spiritual calling and skill. Kumethara would be pleased to teach her, but investigation reveals **Nargizán** may be an infiltrator sent by the **Logging Consortium** to spy on sustainable practices or potentially sabotage Kumethara's work.
 
-4. **The Lost Technique**: An old woodcutter claims to have knowledge of an ancient **joinery technique** from before the current age—methods that make timber bonds stronger than any current practice. He will only teach Kumethara, but his asking price is that she agree to a dangerous expedition into forbidden forest where these techniques were supposedly lost.
+The Lost Technique
+: An old woodcutter claims to have knowledge of an ancient **joinery technique** from before the current age—methods that make timber bonds stronger than any current practice. He will only teach Kumethara, but his asking price is that she agree to a dangerous expedition into forbidden forest where these techniques were supposedly lost.
 
-5. **The Sanctuary Controversy**: The **Monastery of Silent Waters** reveals that they cannot continue financially sustaining the forest without increased logging operations. Kumethara must either find alternative funding, negotiate with the monastery's leadership to change their economic model, or compromise her principles. Meanwhile, a mysterious benefactor offers to fund the monastery—but with strings attached that Kumethara must discover before accepting.
+The Sanctuary Controversy
+: The **Monastery of Silent Waters** reveals that they cannot continue financially sustaining the forest without increased logging operations. Kumethara must either find alternative funding, negotiate with the monastery's leadership to change their economic model, or compromise her principles. Meanwhile, a mysterious benefactor offers to fund the monastery—but with strings attached that Kumethara must discover before accepting.

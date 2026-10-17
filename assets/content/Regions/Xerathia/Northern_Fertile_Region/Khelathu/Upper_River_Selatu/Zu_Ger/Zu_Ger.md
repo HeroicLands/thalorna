@@ -37,12 +37,22 @@ Grain goes to the granaries, labor to the canals and a share of everything to th
 
 ## Settlements
 
-- [[place-tjegu|Tjegu]] (~39,000)—the selat capital and the seat of the Halzi'a.
-- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+[[place-tjegu|Tjegu]] (~39,000)
+: the selat capital and the seat of the Halzi'a.
+
+The villages and estate-towns
+: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatzuger|The Selat of Zu-Ger]]—The selat that holds this land
-- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
-- [[place-tjegu|Tjegu]]—Selat capital
-- [[place-firsttablets|The Ground of the First Tablets]]—The burial-ground of the first two houses
+[[affiliation-selatzuger|The Selat of Zu-Ger]]
+: The selat that holds this land
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: The enclosing region
+
+[[place-tjegu|Tjegu]]
+: Selat capital
+
+[[place-firsttablets|The Ground of the First Tablets]]
+: The burial-ground of the first two houses

@@ -2167,12 +2167,23 @@ Provenzal's distinctive character owes much to centuries of contact with [[skill
 
 **Borrowed Vocabulary:** Provenzal has absorbed Élavendri words wholesale in the domains of art, emotion, magic, and nature—areas where the Pelwar southern tongues had limited vocabulary. Key borrowings include:
 
-- _tel_ (light, beauty—from Élavendri _thel_)—used in poetry and courtly speech where the native Pelwar _lucherne_ sounds too prosaic
-- _sil_ (song, enchantment—from Élavendri _-síl_)—the sílador tradition uses this word rather than the Pelwar _chanvor_
-- _daren_ (memory, deep-knowing—from Élavendri _daren_)—no Pelwar equivalent exists for this concept of embodied memory
-- _ael_ (light, radiance—from Élavendri _-ael_)—appears in personal names and poetic compounds: _aelcore_ "radiant heart," _aelvois_ "bright voice"
-- _thal_ (shadow, mystery—from Élavendri _-thal_)—used in literary and magical contexts: _thalnuit_ "shadow-night," _thalrev_ "mystery-dream"
-- _ve_ (truly, in truth—from Élavendri particle _ve_)—an emphatic particle used in oaths and poetry
+_tel_ (light, beauty
+: from Élavendri _thel_)—used in poetry and courtly speech where the native Pelwar _lucherne_ sounds too prosaic
+
+_sil_ (song, enchantment
+: from Élavendri _-síl_)—the sílador tradition uses this word rather than the Pelwar _chanvor_
+
+_daren_ (memory, deep-knowing
+: from Élavendri _daren_)—no Pelwar equivalent exists for this concept of embodied memory
+
+_ael_ (light, radiance
+: from Élavendri _-ael_)—appears in personal names and poetic compounds: _aelcore_ "radiant heart," _aelvois_ "bright voice"
+
+_thal_ (shadow, mystery
+: from Élavendri _-thal_)—used in literary and magical contexts: _thalnuit_ "shadow-night," _thalrev_ "mystery-dream"
+
+_ve_ (truly, in truth
+: from Élavendri particle _ve_)—an emphatic particle used in oaths and poetry
 
 **Phonological Traces:** The Élavendri nasal vowels entered Provenzal through these borrowings and spread to native words by analogy—this is the origin of Provenzal's distinctive nasalization, which sets it apart from Vylari and Tarveni.
 
@@ -2194,11 +2205,20 @@ Unlike Vylari's imperial standardization, Provenzal evolved through artistic and
 
 ## Sample Phrases
 
-- **"L'athor en le tel de l'anvre."**—"Love is the light of the soul." (From a famous sílador poem; note the Élavendri borrowing _tel_ "light/beauty" preferred over native _luerne_, and the poetic copula _en_ from Élavendri rather than native _ez_.)
-- **"Brave jhorne, genthe korthe; que la preja soie talv vei."**—"Good day, noble companion; may peace be with you." (Formal greeting; _jhorne_ "day," _preja_ "peace," _soie_ "be" (from _evren_ "to be"), _talv_ "with." Pure Provenzal—no Élavendri borrowings in everyday speech.)
-- **"Me vei athore d'un aelcore verdhen."**—"I love you with a sincere radiant heart." (Courtly declaration; _aelcore_ is a hybrid compound—Élavendri _ael-_ "radiance" + Provenzal _core_ "heart." This kind of compound is characteristic of the sílador register.)
-- **"Narthe-me de vei thraves!"**—"Tell me of your travels!" (Invitation to conversation, common in merchant settings; _narthe_ imperative of _narthen_ "to tell," _thraves_ "travels." Plain commercial Provenzal, no Élavendri influence.)
-- **"Le sil en daren, le thalrev en tel."**—"Song is memory, shadow-dream is light." (High poetic register, heavily Élavendri-influenced; _sil_ "song/enchantment," _daren_ "deep-knowing," _thalrev_ "shadow-dream," _tel_ "light"—all borrowed from Élavendri. The copula _en_ and balanced structure echo Élavendri poetic forms.)
+"L'athor en le tel de l'anvre."
+: "Love is the light of the soul." (From a famous sílador poem; note the Élavendri borrowing _tel_ "light/beauty" preferred over native _luerne_, and the poetic copula _en_ from Élavendri rather than native _ez_.)
+
+"Brave jhorne, genthe korthe; que la preja soie talv vei."
+: "Good day, noble companion; may peace be with you." (Formal greeting; _jhorne_ "day," _preja_ "peace," _soie_ "be" (from _evren_ "to be"), _talv_ "with." Pure Provenzal—no Élavendri borrowings in everyday speech.)
+
+"Me vei athore d'un aelcore verdhen."
+: "I love you with a sincere radiant heart." (Courtly declaration; _aelcore_ is a hybrid compound—Élavendri _ael-_ "radiance" + Provenzal _core_ "heart." This kind of compound is characteristic of the sílador register.)
+
+"Narthe-me de vei thraves!"
+: "Tell me of your travels!" (Invitation to conversation, common in merchant settings; _narthe_ imperative of _narthen_ "to tell," _thraves_ "travels." Plain commercial Provenzal, no Élavendri influence.)
+
+"Le sil en daren, le thalrev en tel."
+: "Song is memory, shadow-dream is light." (High poetic register, heavily Élavendri-influenced; _sil_ "song/enchantment," _daren_ "deep-knowing," _thalrev_ "shadow-dream," _tel_ "light"—all borrowed from Élavendri. The copula _en_ and balanced structure echo Élavendri poetic forms.)
 
 ## Related Languages
 

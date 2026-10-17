@@ -445,19 +445,37 @@ Fakhrad's primary motivation is to prove that wisdom and utility need not come w
 
 ### Strengths
 
-- **Practical Astronomical Knowledge**: Fakhrad's understanding of celestial patterns, particularly as they relate to weather and seasons, is comprehensive and accurate.
-- **Herbal Mastery**: His mother's legacy includes extensive knowledge of medicinal and practical herbs; he combines this with his astronomical knowledge to create remedies timed to seasonal and celestial cycles.
-- **Rapport with Common Folk**: He speaks their language, understands their concerns, and possesses the empathy to provide counsel that is useful rather than merely impressive.
-- **Mathematical and Logical Reasoning**: Despite his lack of formal education, he possesses a mind for pattern recognition and logical analysis.
-- **Resilience and Adaptability**: Years of living modestly in rural areas have made him resourceful and capable of thriving with minimal material comfort.
+Practical Astronomical Knowledge
+: Fakhrad's understanding of celestial patterns, particularly as they relate to weather and seasons, is comprehensive and accurate.
+
+Herbal Mastery
+: His mother's legacy includes extensive knowledge of medicinal and practical herbs; he combines this with his astronomical knowledge to create remedies timed to seasonal and celestial cycles.
+
+Rapport with Common Folk
+: He speaks their language, understands their concerns, and possesses the empathy to provide counsel that is useful rather than merely impressive.
+
+Mathematical and Logical Reasoning
+: Despite his lack of formal education, he possesses a mind for pattern recognition and logical analysis.
+
+Resilience and Adaptability
+: Years of living modestly in rural areas have made him resourceful and capable of thriving with minimal material comfort.
 
 ### Weaknesses
 
-- **Limited Formal Education**: His lack of academic training in some areas leaves him vulnerable to dismissal by scholars and court officials, and there are real gaps in his knowledge.
-- **Social Insecurity**: Despite his success among commoners, he harbors deep insecurity about his lack of formal credentials and his status within the astrological establishment.
-- **Overconfidence in Interpretation**: He sometimes sees patterns in the stars that may not be there, and his certainty about his interpretations can border on arrogance.
-- **Poor Combat Training**: His build and strength are moderate, and he has virtually no martial training or combat experience.
-- **Vulnerability to Temptation**: His appetite for drink, pleasurable company, and excitement sometimes leads him into unwise situations or compromises his judgment.
+Limited Formal Education
+: His lack of academic training in some areas leaves him vulnerable to dismissal by scholars and court officials, and there are real gaps in his knowledge.
+
+Social Insecurity
+: Despite his success among commoners, he harbors deep insecurity about his lack of formal credentials and his status within the astrological establishment.
+
+Overconfidence in Interpretation
+: He sometimes sees patterns in the stars that may not be there, and his certainty about his interpretations can border on arrogance.
+
+Poor Combat Training
+: His build and strength are moderate, and he has virtually no martial training or combat experience.
+
+Vulnerability to Temptation
+: His appetite for drink, pleasurable company, and excitement sometimes leads him into unwise situations or compromises his judgment.
 
 ## Social
 
@@ -493,12 +511,17 @@ The Herblore Practitioners' Guild
 
 ## Plot Hooks
 
-1. **The Celestial Warning**: For months, Fakhrad has noticed a pattern in the stars that terrifies him—something is wrong with the great cycles, and his calculations suggest an approaching catastrophe. However, his interpretations are different from those of the formal astrologers, and no one in authority will listen. When strange phenomena begin to manifest—crop failures, unusual weather, celestial oddities—people finally come to him for answers. He must help the party understand and prevent the approaching disaster while proving his methods correct.
+The Celestial Warning
+: For months, Fakhrad has noticed a pattern in the stars that terrifies him—something is wrong with the great cycles, and his calculations suggest an approaching catastrophe. However, his interpretations are different from those of the formal astrologers, and no one in authority will listen. When strange phenomena begin to manifest—crop failures, unusual weather, celestial oddities—people finally come to him for answers. He must help the party understand and prevent the approaching disaster while proving his methods correct.
 
-2. **The Stolen Instruments**: Valuable astronomical instruments are stolen from a merchant caravan Fakhrad regularly works with, and he is suspected of the theft. Investigation reveals that someone is collecting instruments for a purpose—perhaps to perform a ritual or to conduct secret observations. Fakhrad must help trace the instruments and uncover who is behind the theft and why.
+The Stolen Instruments
+: Valuable astronomical instruments are stolen from a merchant caravan Fakhrad regularly works with, and he is suspected of the theft. Investigation reveals that someone is collecting instruments for a purpose—perhaps to perform a ritual or to conduct secret observations. Fakhrad must help trace the instruments and uncover who is behind the theft and why.
 
-3. **The Convergence of Signs**: Fakhrad realizes that the current celestial configuration matches descriptions found in an ancient text he has studied—a rare alignment that occurs only once every thousand years. According to the text, this convergence unleashes forces or opens doors that should remain closed. The party must help him uncover what the ancients feared and whether those dangers are real.
+The Convergence of Signs
+: Fakhrad realizes that the current celestial configuration matches descriptions found in an ancient text he has studied—a rare alignment that occurs only once every thousand years. According to the text, this convergence unleashes forces or opens doors that should remain closed. The party must help him uncover what the ancients feared and whether those dangers are real.
 
-4. **The Charlatan's Challenge**: A charismatic and convincing false astrologer arrives in the region, performing impressive tricks and making bold predictions that initially prove accurate. He begins to overshadow Fakhrad's reputation, and common folk flock to him instead. Fakhrad must prove the fraud while maintaining his own credibility—and discovering what the false astrologer really wants.
+The Charlatan's Challenge
+: A charismatic and convincing false astrologer arrives in the region, performing impressive tricks and making bold predictions that initially prove accurate. He begins to overshadow Fakhrad's reputation, and common folk flock to him instead. Fakhrad must prove the fraud while maintaining his own credibility—and discovering what the false astrologer really wants.
 
-5. **The Secret Observatory**: Fakhrad discovers evidence that there exists a hidden astronomical observatory in the mountains, built and maintained by an organization of astrologers who have made discoveries that the formal establishment would suppress. He receives a cryptic invitation to join them, but the path to the observatory is dangerous, and its inhabitants may have motives far from purely scientific.
+The Secret Observatory
+: Fakhrad discovers evidence that there exists a hidden astronomical observatory in the mountains, built and maintained by an organization of astrologers who have made discoveries that the formal establishment would suppress. He receives a cryptic invitation to join them, but the path to the observatory is dangerous, and its inhabitants may have motives far from purely scientific.

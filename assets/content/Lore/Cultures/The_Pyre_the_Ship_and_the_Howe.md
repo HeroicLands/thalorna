@@ -50,9 +50,20 @@ The gudja of Solrún tells newcomers why the grave-ale cannot be skipped. The de
 
 ## See Also
 
-- [[lore-gnumborinn|Gnúmborinn]]—the first death and the first grave-ale
-- [[lore-jol|Jel]]—the midwinter season, and the Jel-Ride of the unmourned dead
-- [[lore-nordheimnclt|Nordheimn]]—the reckoning after death and the dead near home
-- [[lore-haugverdir|Hrúmverdir]]—the howe-wardens
-- [[place-asguard|Asguard]]—the halls the honored dead are gathered into
-- [[skill-nordmalng|Nordmal Language]]—the words for the body and the grave
+[[lore-gnumborinn|Gnúmborinn]]
+: the first death and the first grave-ale
+
+[[lore-jol|Jel]]
+: the midwinter season, and the Jel-Ride of the unmourned dead
+
+[[lore-nordheimnclt|Nordheimn]]
+: the reckoning after death and the dead near home
+
+[[lore-haugverdir|Hrúmverdir]]
+: the howe-wardens
+
+[[place-asguard|Asguard]]
+: the halls the honored dead are gathered into
+
+[[skill-nordmalng|Nordmal Language]]
+: the words for the body and the grave

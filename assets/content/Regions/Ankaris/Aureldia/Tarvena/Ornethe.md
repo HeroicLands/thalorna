@@ -22,6 +22,11 @@ Galváreni are seafarers, fishermen and storytellers, and the harbor is where th
 
 ## See Also
 
-- [[affiliation-kngdmglvrn|Kingdom of Galvaren]]—the kingdom and its council
-- [[place-galvaren|Galvaren]]—the land
-- [[place-tarvenirgn|Tarvénia Region]]—the enclosing region
+[[affiliation-kngdmglvrn|Kingdom of Galvaren]]
+: the kingdom and its council
+
+[[place-galvaren|Galvaren]]
+: the land
+
+[[place-tarvenirgn|Tarvénia Region]]
+: the enclosing region

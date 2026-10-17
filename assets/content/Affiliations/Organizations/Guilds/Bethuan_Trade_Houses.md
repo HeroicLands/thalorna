@@ -47,9 +47,14 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-- **Type:** Federation of matriarchal trading clans; commercial institution
-- **Region:** [[affiliation-mtrrchybth|The Matriarchy of Bethua]]—principal houses concentrated in the coastal trading ports of the northern Vylarian Sea coast; lesser houses operate inland and at the southern frontier
-- **Founded:** The individual houses are ancient; their formal federation as a recognized commercial body dates to roughly two centuries ago
+Type
+: Federation of matriarchal trading clans; commercial institution
+
+Region
+: [[affiliation-mtrrchybth|The Matriarchy of Bethua]]—principal houses concentrated in the coastal trading ports of the northern Vylarian Sea coast; lesser houses operate inland and at the southern frontier
+
+Founded
+: The individual houses are ancient; their formal federation as a recognized commercial body dates to roughly two centuries ago
 
 ## Overview
 
@@ -87,9 +92,14 @@ Day-to-day federation administration is handled by a small staff of clerks and t
 
 ## Notable Matriarchs
 
-- **Matriarch [Aselia]{.name data-type="being/npc"} of House Khalath-Mara**—current senior matriarch by age and clan-precedence; thirty-five years in her position; widely regarded as the most politically capable Bethuan trade-house figure of her generation; presumed to be the dominant voice on the Council when she chooses to speak.
-- **Matriarch [Bera]{.name data-type="being/npc"} of House Bera-Sehel**—eponymous matriarch of her clan; rising figure; substantial military-supply contracts with the Khelathi selat administrations; politically aligned with the reformist priestesses of the [Court of the Veil]{.name data-type="affiliation/governmental"}.
-- **Matriarch [Othris]{.name data-type="being/npc"} of House Othris-Khanu**—head of the principal Bethuan maritime house; conducts substantial business with Vylarian Sea ports; the Bethuan-side counterparty most familiar to Vylarian merchant captains.
+Matriarch [Aselia]{.name data-type="being/npc"} of House Khalath-Mara
+: current senior matriarch by age and clan-precedence; thirty-five years in her position; widely regarded as the most politically capable Bethuan trade-house figure of her generation; presumed to be the dominant voice on the Council when she chooses to speak.
+
+Matriarch [Bera]{.name data-type="being/npc"} of House Bera-Sehel
+: eponymous matriarch of her clan; rising figure; substantial military-supply contracts with the Khelathi selat administrations; politically aligned with the reformist priestesses of the [Court of the Veil]{.name data-type="affiliation/governmental"}.
+
+Matriarch [Othris]{.name data-type="being/npc"} of House Othris-Khanu
+: head of the principal Bethuan maritime house; conducts substantial business with Vylarian Sea ports; the Bethuan-side counterparty most familiar to Vylarian merchant captains.
 
 ## The Bethuan Use of Khelathi Currency
 
@@ -103,11 +113,20 @@ This arrangement gives the Great Houses a substantial economic role even though 
 
 ## Relations
 
-- **The [[affiliation-mtrrchybth|Metrissa]] and the Sacred College**—overlapping but distinguishable from the Houses. Many high priestesses of the Sacred College are also matriarchs of trading houses; many royal officials are drawn from trade-house families. The political and commercial spheres are personally interconnected but institutionally separate; the Court of the Veil does not direct the Houses' commercial decisions, and the Houses do not (formally) direct state policy.
-- **The [[affiliation-garhalzi|Gar-Hálzi]]**—the Houses' principal foreign-banking counterparty. Each Great House maintains correspondent accounts with one or more Khelathi temples; the strongest such relationships (House Khalath-Mara with Galezkara, House Bera-Sehel with Gar-Anlaghet) are the principal channels through which Bethuan commerce reaches the broader Northern Fertile Region. The relationships are private and vary by individual arrangement.
-- **[[affiliation-crwntrdskhrs|The Crown Trades of Okharis]]**—Okhárian commercial peer. The Houses maintain modest correspondent relationships with the principal Okhárian crown-trade offices; cross-territory commerce between Bethua and Okharis flows through these arrangements as well as through direct Khelathi-mediated routes.
-- **The Vylarian [[affiliation-danvar|Danvar]]**—formal trade-recognition arrangement at the port cities. Vylarian merchant captains operating out of Heliónite ports trade regularly with Bethuan houses; the Danvar honors Bethuan letters of credit at trading-port chapters by standing arrangement (rare and political; not all Danvar chapters participate). Bethuan letters not bearing such arrangement are exchanged for physical metal at the port changers.
-- **The [[affiliation-vezakuni|Vezakuni]]**—Taruzelian counterpart since the secession. Post-secession trade re-routing has brought substantial new Taruzelian-Bethuan commerce; several Great Houses have made significant fortunes facilitating goods that previously moved through Vylarian channels and now must move through alternative routes.
+The [[affiliation-mtrrchybth|Metrissa]] and the Sacred College
+: overlapping but distinguishable from the Houses. Many high priestesses of the Sacred College are also matriarchs of trading houses; many royal officials are drawn from trade-house families. The political and commercial spheres are personally interconnected but institutionally separate; the Court of the Veil does not direct the Houses' commercial decisions, and the Houses do not (formally) direct state policy.
+
+The [[affiliation-garhalzi|Gar-Hálzi]]
+: the Houses' principal foreign-banking counterparty. Each Great House maintains correspondent accounts with one or more Khelathi temples; the strongest such relationships (House Khalath-Mara with Galezkara, House Bera-Sehel with Gar-Anlaghet) are the principal channels through which Bethuan commerce reaches the broader Northern Fertile Region. The relationships are private and vary by individual arrangement.
+
+[[affiliation-crwntrdskhrs|The Crown Trades of Okharis]]
+: Okhárian commercial peer. The Houses maintain modest correspondent relationships with the principal Okhárian crown-trade offices; cross-territory commerce between Bethua and Okharis flows through these arrangements as well as through direct Khelathi-mediated routes.
+
+The Vylarian [[affiliation-danvar|Danvar]]
+: formal trade-recognition arrangement at the port cities. Vylarian merchant captains operating out of Heliónite ports trade regularly with Bethuan houses; the Danvar honors Bethuan letters of credit at trading-port chapters by standing arrangement (rare and political; not all Danvar chapters participate). Bethuan letters not bearing such arrangement are exchanged for physical metal at the port changers.
+
+The [[affiliation-vezakuni|Vezakuni]]
+: Taruzelian counterpart since the secession. Post-secession trade re-routing has brought substantial new Taruzelian-Bethuan commerce; several Great Houses have made significant fortunes facilitating goods that previously moved through Vylarian channels and now must move through alternative routes.
 
 ## Identifying Marks
 

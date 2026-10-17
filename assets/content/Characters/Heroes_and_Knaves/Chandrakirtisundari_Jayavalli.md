@@ -444,19 +444,37 @@ Chandrakirtisundari seeks escape from her current circumstances: she wants to ac
 
 ### Strengths
 
-- **Perception and Intuition**: With perception among her sharpest gifts, Chandrakirtisundari reads people with extraordinary accuracy. She notes the minute details of behavior, tone, and presentation that reveal truth beneath polished surfaces.
-- **Physical Grace and Agility**: Her dexterity and agility make her highly skilled at climbing, dancing, and moving through confined or dangerous spaces. She can enter or exit locations via routes that seem impossible.
-- **Stealth and Concealment**: Her training in stealth is thorough; she can move through crowded rooms, guard posts, or private chambers without drawing attention, becoming nearly invisible through a combination of movement, timing, and awareness of where attention falls.
-- **Weaponry and Close Combat**: Trained in both archery and melee combat from her youth, her skill with both makes her dangerous in direct confrontation. Her dagger work is particularly lethal.
-- **Seduction and Intrigue**: Her skill in charm, intrigue, and guile allows her to manipulate people into revealing secrets, taking actions against their own interest, or providing opportunities for information gathering. She is equally skilled at extracting secrets through intimacy or through casual conversation.
+Perception and Intuition
+: With perception among her sharpest gifts, Chandrakirtisundari reads people with extraordinary accuracy. She notes the minute details of behavior, tone, and presentation that reveal truth beneath polished surfaces.
+
+Physical Grace and Agility
+: Her dexterity and agility make her highly skilled at climbing, dancing, and moving through confined or dangerous spaces. She can enter or exit locations via routes that seem impossible.
+
+Stealth and Concealment
+: Her training in stealth is thorough; she can move through crowded rooms, guard posts, or private chambers without drawing attention, becoming nearly invisible through a combination of movement, timing, and awareness of where attention falls.
+
+Weaponry and Close Combat
+: Trained in both archery and melee combat from her youth, her skill with both makes her dangerous in direct confrontation. Her dagger work is particularly lethal.
+
+Seduction and Intrigue
+: Her skill in charm, intrigue, and guile allows her to manipulate people into revealing secrets, taking actions against their own interest, or providing opportunities for information gathering. She is equally skilled at extracting secrets through intimacy or through casual conversation.
 
 ### Weaknesses
 
-- **Moral Deterioration and Guilt**: The deep conflict between her actions and her values creates a crushing weight of guilt and self-condemnation. She carries the burden of every betrayal, every manipulation, every time she has used intimacy as a weapon.
-- **Emotional Fragility**: Her carefully maintained personas cover emotional vulnerability. Real kindness or concern from others can destabilize her carefully constructed defenses, leading to inappropriate emotional response or impulsive decisions.
-- **Weak Will and Limited Endurance**: Her weak will and limited endurance mean she struggles with sustained resistance to manipulation, pain, or extended physical exertion. She is easily broken under torture or extreme pressure.
-- **Inability to Trust**: Her lifetime of deception makes authentic connection nearly impossible. She assumes everyone is manipulating her as thoroughly as she manipulates them, leaving her isolated and paranoid.
-- **Limited Legitimate Options**: Her history of work makes her unemployable in respectable occupations. If either the shrena or the Twilight House turns against her, she will have few legitimate options for survival.
+Moral Deterioration and Guilt
+: The deep conflict between her actions and her values creates a crushing weight of guilt and self-condemnation. She carries the burden of every betrayal, every manipulation, every time she has used intimacy as a weapon.
+
+Emotional Fragility
+: Her carefully maintained personas cover emotional vulnerability. Real kindness or concern from others can destabilize her carefully constructed defenses, leading to inappropriate emotional response or impulsive decisions.
+
+Weak Will and Limited Endurance
+: Her weak will and limited endurance mean she struggles with sustained resistance to manipulation, pain, or extended physical exertion. She is easily broken under torture or extreme pressure.
+
+Inability to Trust
+: Her lifetime of deception makes authentic connection nearly impossible. She assumes everyone is manipulating her as thoroughly as she manipulates them, leaving her isolated and paranoid.
+
+Limited Legitimate Options
+: Her history of work makes her unemployable in respectable occupations. If either the shrena or the Twilight House turns against her, she will have few legitimate options for survival.
 
 ## Social
 
@@ -495,12 +513,17 @@ Vyalendra's Temple
 
 ## Plot Hooks
 
-1. **The Blackmailer's Gambit**: A mysterious figure contacts Chandrakirtisundari with comprehensive documentation of her work for both the Adanashreni and the Twilight House, including dates, targets, methods, and outcomes. The blackmailer—whose identity she cannot determine—offers her a choice: she can either become their agent, using her position and skills to spy on the shrena and the house for this unknown third party, or the documentation will be delivered to **Master Thief Gorran** and **Madame Siralina**, which would mean her execution by one organization and betrayal by the other. She has five days to decide and only incomplete information about who is manipulating her.
+The Blackmailer's Gambit
+: A mysterious figure contacts Chandrakirtisundari with comprehensive documentation of her work for both the Adanashreni and the Twilight House, including dates, targets, methods, and outcomes. The blackmailer—whose identity she cannot determine—offers her a choice: she can either become their agent, using her position and skills to spy on the shrena and the house for this unknown third party, or the documentation will be delivered to **Master Thief Gorran** and **Madame Siralina**, which would mean her execution by one organization and betrayal by the other. She has five days to decide and only incomplete information about who is manipulating her.
 
-2. **The Patricide Commission**: The Adanashreni assigns her a new task: assassinate a wealthy merchant whose daughter is an admirer and friend of one of the shrena's leadership. The target is her own biological father—the Bizarian merchant who visited her mother once before vanishing from her life. She has spent years never knowing his identity, and the shrena conveniently discovered it and assigned it to her deliberately, either to test her loyalty or to be rid of her by making her too compromised to remain useful. Her choices are to betray the shrena, to commit patricide, or to find a third path that allows her to escape both organizations.
+The Patricide Commission
+: The Adanashreni assigns her a new task: assassinate a wealthy merchant whose daughter is an admirer and friend of one of the shrena's leadership. The target is her own biological father—the Bizarian merchant who visited her mother once before vanishing from her life. She has spent years never knowing his identity, and the shrena conveniently discovered it and assigned it to her deliberately, either to test her loyalty or to be rid of her by making her too compromised to remain useful. Her choices are to betray the shrena, to commit patricide, or to find a third path that allows her to escape both organizations.
 
-3. **The Servant's Secrets**: A slave belonging to one of her regular clients is found dead under mysterious circumstances. The death appears accidental, but **Apothecary [[being-cndrthrchrymkhysvr|Chandratar]]** is suspected of involvement, and the city guard begins investigating. Chandrakirtisundari realizes that [[being-cndrthrchrymkhysvr|Chandratar]] may be testing his poison on vulnerable targets, and that she herself may be next. Yet if she reveals her knowledge to authorities, she will expose her connection to intelligence networks and become a liability to both the shrena and the Twilight House. She can approach [[being-cndrthrchrymkhysvr|Chandratar]] directly, attempt to have him apprehended through covert means, or simply accelerate her plans to escape the city.
+The Servant's Secrets
+: A slave belonging to one of her regular clients is found dead under mysterious circumstances. The death appears accidental, but **Apothecary [[being-cndrthrchrymkhysvr|Chandratar]]** is suspected of involvement, and the city guard begins investigating. Chandrakirtisundari realizes that [[being-cndrthrchrymkhysvr|Chandratar]] may be testing his poison on vulnerable targets, and that she herself may be next. Yet if she reveals her knowledge to authorities, she will expose her connection to intelligence networks and become a liability to both the shrena and the Twilight House. She can approach [[being-cndrthrchrymkhysvr|Chandratar]] directly, attempt to have him apprehended through covert means, or simply accelerate her plans to escape the city.
 
-4. **The Twilight House's Fall**: **Madame Siralina** is arrested on charges of human trafficking and forced servitude, a scandal that threatens the entire operation of the Twilight House. The house's protection is stripped away, and its employees become vulnerable to whatever creditors, enemies, or abusive clients wish to inflict. Chandrakirtisundari discovers that the arrest was orchestrated by a powerful rival merchant faction intending to seize control of the house's operations and its wealth. She can either assist in the house's restoration (reinforcing her entrapment), abandon the house and its inhabitants to their fate, or attempt to negotiate a position with the new controllers, thereby securing her survival at the cost of complicity in the house's transformation into something potentially worse.
+The Twilight House's Fall
+: **Madame Siralina** is arrested on charges of human trafficking and forced servitude, a scandal that threatens the entire operation of the Twilight House. The house's protection is stripped away, and its employees become vulnerable to whatever creditors, enemies, or abusive clients wish to inflict. Chandrakirtisundari discovers that the arrest was orchestrated by a powerful rival merchant faction intending to seize control of the house's operations and its wealth. She can either assist in the house's restoration (reinforcing her entrapment), abandon the house and its inhabitants to their fate, or attempt to negotiate a position with the new controllers, thereby securing her survival at the cost of complicity in the house's transformation into something potentially worse.
 
-5. **The Shrena's Final Test**: The Adanashreni decides Chandrakirtisundari's divided loyalties have become a liability. They issue her a final test of commitment: steal something impossible (a sacred artifact from a heavily guarded temple, a document from the royal archive, a specific gem from a Shroshtin's personal chambers) within a lunar cycle. If she succeeds, she is proven loyal and given a rank within the shrena's upper structure. If she fails or refuses, she is marked for elimination. She undertakes the theft and succeeds—but in doing so, she uncovers evidence that the shrena's leadership is engaged in far darker activities than theft: orchestrating slavery networks, conducting ritual murders, and accumulating power through terror. She is now inside the shrena's most dangerous secrets and cannot escape without becoming a threat they must eliminate.
+The Shrena's Final Test
+: The Adanashreni decides Chandrakirtisundari's divided loyalties have become a liability. They issue her a final test of commitment: steal something impossible (a sacred artifact from a heavily guarded temple, a document from the royal archive, a specific gem from a Shroshtin's personal chambers) within a lunar cycle. If she succeeds, she is proven loyal and given a rank within the shrena's upper structure. If she fails or refuses, she is marked for elimination. She undertakes the theft and succeeds—but in doing so, she uncovers evidence that the shrena's leadership is engaged in far darker activities than theft: orchestrating slavery networks, conducting ritual murders, and accumulating power through terror. She is now inside the shrena's most dangerous secrets and cannot escape without becoming a threat they must eliminate.

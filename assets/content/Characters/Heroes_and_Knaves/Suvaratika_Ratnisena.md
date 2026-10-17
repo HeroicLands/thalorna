@@ -459,17 +459,31 @@ As she approaches forty, she is increasingly aware that her vision could die wit
 
 ### Strengths
 
-- **Extraordinary Creative Vision**: Suvaratika's ability to envision toys that engage children's imagination has no equal in the city-states. Her designs are innovative while remaining true to traditional forms, and she instinctively understands what children at different developmental stages need.
-- **Masterful Craftsmanship**: Her execution matches her vision. Every toy that leaves her workshop is technically flawless, structurally sound, and aesthetically elegant. Parents recognize that her toys become family heirlooms.
-- **Insight into Children**: Her understanding of how children grow, how they play, and how they learn is deep. She can articulate precisely why a particular toy serves a developmental purpose.
-- **Resilience and Physical Adaptation**: Despite chronic pain from her leg injury, Suvaratika has adapted her techniques and continues producing work at high quality through modified methods and carefully planned rest.
+Extraordinary Creative Vision
+: Suvaratika's ability to envision toys that engage children's imagination has no equal in the city-states. Her designs are innovative while remaining true to traditional forms, and she instinctively understands what children at different developmental stages need.
+
+Masterful Craftsmanship
+: Her execution matches her vision. Every toy that leaves her workshop is technically flawless, structurally sound, and aesthetically elegant. Parents recognize that her toys become family heirlooms.
+
+Insight into Children
+: Her understanding of how children grow, how they play, and how they learn is deep. She can articulate precisely why a particular toy serves a developmental purpose.
+
+Resilience and Physical Adaptation
+: Despite chronic pain from her leg injury, Suvaratika has adapted her techniques and continues producing work at high quality through modified methods and carefully planned rest.
 
 ### Weaknesses
 
-- **Business Acumen Deficit**: Suvaratika struggles with marketing, pricing, and business expansion. She undersells her work consistently and fails to capitalize on opportunities for growth that would be obvious to merchants.
-- **Perfectionism and Productivity Tension**: Her drive for perfection sometimes outweighs her productivity. She will spend weeks refining a detail that most customers would never notice, limiting her output.
-- **Resistance to Collaboration**: Her insistence on maintaining absolute creative control and her reluctance to take on apprentices means her work remains limited by her own capacity. She refuses offers of partnership that could expand her reach.
-- **Chronic Pain and Physical Limitation**: The lingering effects of her injury limit her ability to work extended hours. Periods of intensive work sometimes trigger pain flares that force her to cease working for days.
+Business Acumen Deficit
+: Suvaratika struggles with marketing, pricing, and business expansion. She undersells her work consistently and fails to capitalize on opportunities for growth that would be obvious to merchants.
+
+Perfectionism and Productivity Tension
+: Her drive for perfection sometimes outweighs her productivity. She will spend weeks refining a detail that most customers would never notice, limiting her output.
+
+Resistance to Collaboration
+: Her insistence on maintaining absolute creative control and her reluctance to take on apprentices means her work remains limited by her own capacity. She refuses offers of partnership that could expand her reach.
+
+Chronic Pain and Physical Limitation
+: The lingering effects of her injury limit her ability to work extended hours. Periods of intensive work sometimes trigger pain flares that force her to cease working for days.
 
 ## Social
 
@@ -499,12 +513,17 @@ The Order of Meghonata's Children
 
 ## Plot Hooks
 
-1. **The Impossible Commission**: A foreign man of high rank, of wealth and eccentricity arrives in Vedyara seeking a bespoke toy of extraordinary specification—a mechanical marvel that will require Suvaratika to learn entirely new techniques, work with materials unfamiliar to her, and collaborate with specialized craftspeople. The commission offers enough wealth to transform her life, but accepting it would require abandoning her principles about what constitutes craft and working on a scale she has always resisted.
+The Impossible Commission
+: A foreign man of high rank, of wealth and eccentricity arrives in Vedyara seeking a bespoke toy of extraordinary specification—a mechanical marvel that will require Suvaratika to learn entirely new techniques, work with materials unfamiliar to her, and collaborate with specialized craftspeople. The commission offers enough wealth to transform her life, but accepting it would require abandoning her principles about what constitutes craft and working on a scale she has always resisted.
 
-2. **The Inheritance of Legacy**: A gifted young orphan, **Kavi**, arrives at Suvaratika's workshop seeking apprenticeship with a desperation born of need. Kavi is talented, dedicated, and seems to understand Suvaratika's philosophy instinctively—everything Suvaratika has always wanted in an apprentice. Yet accepting Kavi as an apprentice would require Suvaratika to overcome her fear of mentorship and face the vulnerability of truly teaching someone else. The relationship becomes transformative for both.
+The Inheritance of Legacy
+: A gifted young orphan, **Kavi**, arrives at Suvaratika's workshop seeking apprenticeship with a desperation born of need. Kavi is talented, dedicated, and seems to understand Suvaratika's philosophy instinctively—everything Suvaratika has always wanted in an apprentice. Yet accepting Kavi as an apprentice would require Suvaratika to overcome her fear of mentorship and face the vulnerability of truly teaching someone else. The relationship becomes transformative for both.
 
-3. **The Scholarly Validation**: Researchers from the House of Childhood Wisdom approach Suvaratika with a proposition: participate in a comprehensive academic study of her methods and philosophy, which would formalize her understanding of toy design and potentially lead to her work being studied in centers of learning across the known world. This offers her the legacy she seeks—but requires her to articulate and codify things she has always done intuitively, and to accept scrutiny of her work.
+The Scholarly Validation
+: Researchers from the House of Childhood Wisdom approach Suvaratika with a proposition: participate in a comprehensive academic study of her methods and philosophy, which would formalize her understanding of toy design and potentially lead to her work being studied in centers of learning across the known world. This offers her the legacy she seeks—but requires her to articulate and codify things she has always done intuitively, and to accept scrutiny of her work.
 
-4. **The Accident and Aftermath**: A child is injured while playing with one of Suvaratika's toys—not through any fault of design or craftsmanship, but through a unforeseen circumstance. The child's family sues for damages, and the city-states' legal system becomes involved. Suvaratika must defend both her work and her philosophy while confronting the reality that even the most carefully crafted object cannot prevent all harm. The trial becomes a referendum on the value of artisanship itself.
+The Accident and Aftermath
+: A child is injured while playing with one of Suvaratika's toys—not through any fault of design or craftsmanship, but through a unforeseen circumstance. The child's family sues for damages, and the city-states' legal system becomes involved. Suvaratika must defend both her work and her philosophy while confronting the reality that even the most carefully crafted object cannot prevent all harm. The trial becomes a referendum on the value of artisanship itself.
 
-5. **The Expansion Dilemma**: Arghika Ghotranyasa proposes that Suvaratika license her designs to mass producers, allowing her vision to reach thousands of children while generating passive income that would allow her to focus entirely on her most ambitious creative work. This offers everything Suvaratika has claimed to want—broader impact and financial security—yet accepting would mean surrendering control of her designs to commercial interests, seeing them manufactured cheaply, and fundamentally compromising her principles. Her decision forces her to confront what she actually values most: purity of craft or authentic impact.
+The Expansion Dilemma
+: Arghika Ghotranyasa proposes that Suvaratika license her designs to mass producers, allowing her vision to reach thousands of children while generating passive income that would allow her to focus entirely on her most ambitious creative work. This offers everything Suvaratika has claimed to want—broader impact and financial security—yet accepting would mean surrendering control of her designs to commercial interests, seeing them manufactured cheaply, and fundamentally compromising her principles. Her decision forces her to confront what she actually values most: purity of craft or authentic impact.

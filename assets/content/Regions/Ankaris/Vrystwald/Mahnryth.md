@@ -22,7 +22,14 @@ The village sings its lament at the turning of the seasons beside [[place-mahnhr
 
 ## See Also
 
-- [[place-skathwald|Skathwald]]—the reach around the village
-- [[place-mahnhrom|Mahnhrum]]—the kinsmen's mound beside it
-- [[place-weskstein|Weskstein]]—the village that grew up round a lost village's totem stone
-- [[lore-grimakburning|The Burning at Grimak]]—the war that made the clearing
+[[place-skathwald|Skathwald]]
+: the reach around the village
+
+[[place-mahnhrom|Mahnhrum]]
+: the kinsmen's mound beside it
+
+[[place-weskstein|Weskstein]]
+: the village that grew up round a lost village's totem stone
+
+[[lore-grimakburning|The Burning at Grimak]]
+: the war that made the clearing

@@ -145,8 +145,17 @@ Something is taking the dead out of the villages at the edge of the forest, and 
 
 ## See Also
 
-- [[place-sorhupura|Sorhupura]]—the city and what the forest says of it
-- [[lore-theshadow|The Shadow]]—the chaos from which every undead thing stems
-- [[lore-bloodfield|Blood-fields]]—what the unburned dead make of ground
-- [[affiliation-kalavrata|Kalavrata]]—the warden of the gate the sect refused
-- [[affiliation-agnipantha|Agmi-pantra]]—the sect that burns what the temples will not
+[[place-sorhupura|Sorhupura]]
+: the city and what the forest says of it
+
+[[lore-theshadow|The Shadow]]
+: the chaos from which every undead thing stems
+
+[[lore-bloodfield|Blood-fields]]
+: what the unburned dead make of ground
+
+[[affiliation-kalavrata|Kalavrata]]
+: the warden of the gate the sect refused
+
+[[affiliation-agnipantha|Agmi-pantra]]
+: the sect that burns what the temples will not

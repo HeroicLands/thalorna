@@ -463,22 +463,46 @@ Rethute is motivated by her vision of her inn as a sanctuary—a place where peo
 
 ### Strengths
 
-- **Culinary Mastery:** Rethute is an artist with food and drink; her creations are among the finest in the empire, and her knowledge of cuisines, ingredients, and flavor combinations is extensive and refined. She has trained numerous cooks who now run their own establishments.
-- **Memory for People:** She remembers the names, histories, families, and preferences of hundreds of patrons; this gift makes guests feel valued and gives her a rare ability to bring people together.
-- **Management of Complex Operations:** Despite her reputation for being less detail-oriented, she runs her inn well; she understands stores, staffing, accounts, and standards well enough to maintain a thriving business across decades.
-- **Warmth and Charisma:** Her capacity to make people feel welcome and valued is authentic rather than performed; she has a gift for creating atmosphere and comfort that goes beyond mere hospitality.
-- **Sound Judgment of Character:** She can assess a person's integrity and trustworthiness quickly; her instincts about people have proven reliable across decades, making her a good source of judgment about someone's reliability or danger.
-- **Substantial Physical Strength:** She is stronger than most people would assume from looking at her; she can handle herself in physical confrontation if necessary, though she prefers to avoid it.
-- **Political Savvy:** She handles guild politics and city governance with considerable skill, using her position on the Innkeepers' Association to advocate effectively for her interests and values.
+Culinary Mastery
+: Rethute is an artist with food and drink; her creations are among the finest in the empire, and her knowledge of cuisines, ingredients, and flavor combinations is extensive and refined. She has trained numerous cooks who now run their own establishments.
+
+Memory for People
+: She remembers the names, histories, families, and preferences of hundreds of patrons; this gift makes guests feel valued and gives her a rare ability to bring people together.
+
+Management of Complex Operations
+: Despite her reputation for being less detail-oriented, she runs her inn well; she understands stores, staffing, accounts, and standards well enough to maintain a thriving business across decades.
+
+Warmth and Charisma
+: Her capacity to make people feel welcome and valued is authentic rather than performed; she has a gift for creating atmosphere and comfort that goes beyond mere hospitality.
+
+Sound Judgment of Character
+: She can assess a person's integrity and trustworthiness quickly; her instincts about people have proven reliable across decades, making her a good source of judgment about someone's reliability or danger.
+
+Substantial Physical Strength
+: She is stronger than most people would assume from looking at her; she can handle herself in physical confrontation if necessary, though she prefers to avoid it.
+
+Political Savvy
+: She handles guild politics and city governance with considerable skill, using her position on the Innkeepers' Association to advocate effectively for her interests and values.
 
 ### Weaknesses
 
-- **Aversion to Detail Work:** While she manages her business adequately, she struggles with careful record-keeping, complex accounting, and the fine administrative details that separate adequate management from excellence. She relies on capable staff members to compensate for this weakness.
-- **Overconfidence in Her Judgment:** Her generally accurate assessment of people can occasionally lead her to misjudge someone, particularly if they appeal to her sympathies or if she is emotionally invested in believing in their integrity.
-- **Loud and Sometimes Inappropriate:** Her boisterous nature and tendency toward colorful language can be jarring in more refined settings; she sometimes lacks the filter to recognize when her exuberance is unwelcome.
-- **Vulnerability to Emotional Manipulation:** Those who appeal to her loyalty or her desire to help can occasionally manipulate her into providing assistance that she later regrets or that compromises her business interests.
-- **Protective Impulsiveness:** Her fierce loyalty to her staff and regular patrons can cause her to act without full consideration of consequences; she has been known to shelter fugitives or become involved in disputes that endanger her business.
-- **Age and Stamina:** While still strong and vital, she is no longer young; sustained physical exertion tires her, and she recovers from injuries more slowly than she once did.
+Aversion to Detail Work
+: While she manages her business adequately, she struggles with careful record-keeping, complex accounting, and the fine administrative details that separate adequate management from excellence. She relies on capable staff members to compensate for this weakness.
+
+Overconfidence in Her Judgment
+: Her generally accurate assessment of people can occasionally lead her to misjudge someone, particularly if they appeal to her sympathies or if she is emotionally invested in believing in their integrity.
+
+Loud and Sometimes Inappropriate
+: Her boisterous nature and tendency toward colorful language can be jarring in more refined settings; she sometimes lacks the filter to recognize when her exuberance is unwelcome.
+
+Vulnerability to Emotional Manipulation
+: Those who appeal to her loyalty or her desire to help can occasionally manipulate her into providing assistance that she later regrets or that compromises her business interests.
+
+Protective Impulsiveness
+: Her fierce loyalty to her staff and regular patrons can cause her to act without full consideration of consequences; she has been known to shelter fugitives or become involved in disputes that endanger her business.
+
+Age and Stamina
+: While still strong and vital, she is no longer young; sustained physical exertion tires her, and she recovers from injuries more slowly than she once did.
 
 ## Social
 
@@ -520,12 +544,17 @@ The Harbor Community
 
 ## Plot Hooks
 
-1. **The Mysterious Inheritance:** A wealthy patron whom Rethute knew casually decades ago arrives at her inn and announces that she has been named in his will as the inheritor of a substantial estate and fortune. The catch: the estate is located far from the city, in a region she has never visited, and accepting it would require her to leave the Reenfré for an extended period or permanently. The patron's family also contests the will, suggesting that Rethute somehow manipulated him. The party becomes involved in traveling to the estate to investigate the situation, potentially defending Rethute's character while discovering what the deceased patron's true intentions were.
+The Mysterious Inheritance
+: A wealthy patron whom Rethute knew casually decades ago arrives at her inn and announces that she has been named in his will as the inheritor of a substantial estate and fortune. The catch: the estate is located far from the city, in a region she has never visited, and accepting it would require her to leave the Reenfré for an extended period or permanently. The patron's family also contests the will, suggesting that Rethute somehow manipulated him. The party becomes involved in traveling to the estate to investigate the situation, potentially defending Rethute's character while discovering what the deceased patron's true intentions were.
 
-2. **The Missing Supplier Crisis:** Several of Rethute's key suppliers—a grain merchant, a fisherman, a vintner—suddenly disappear or become unavailable, causing her ability to maintain the Reenfré's quality and reputation to suffer. Investigation suggests they have been pressured or threatened to cease dealing with the Reenfré as part of a coordinated effort to undermine her business. The party is hired to discover who is orchestrating this campaign and to either convince the suppliers to return or find replacements that meet Rethute's standards.
+The Missing Supplier Crisis
+: Several of Rethute's key suppliers—a grain merchant, a fisherman, a vintner—suddenly disappear or become unavailable, causing her ability to maintain the Reenfré's quality and reputation to suffer. Investigation suggests they have been pressured or threatened to cease dealing with the Reenfré as part of a coordinated effort to undermine her business. The party is hired to discover who is orchestrating this campaign and to either convince the suppliers to return or find replacements that meet Rethute's standards.
 
-3. **The Trouble the Reenfré Brings:** A dangerous criminal organization uses the Reenfré as a neutral meeting ground for negotiations, assuming Rethute's reputation for discretion means she will not interfere with their business. When the party discovers this, they pressure Rethute to deny the criminals access or to inform the authorities about their meetings. Rethute is torn between her loyalty to her inn's openness and her moral obligation to prevent crime, and she involves the party in a delicate situation where she must balance community values with justice.
+The Trouble the Reenfré Brings
+: A dangerous criminal organization uses the Reenfré as a neutral meeting ground for negotiations, assuming Rethute's reputation for discretion means she will not interfere with their business. When the party discovers this, they pressure Rethute to deny the criminals access or to inform the authorities about their meetings. Rethute is torn between her loyalty to her inn's openness and her moral obligation to prevent crime, and she involves the party in a delicate situation where she must balance community values with justice.
 
-4. **The Recipe Worth Killing For:** A mysterious visitor approaches Rethute with an extraordinary claim: one of her signature dishes—a particular seafood preparation or spiced wine blend—is actually based on a recipe stolen centuries ago from a noble house, and that house's descendants are now demanding she surrender the recipe and compensation. Alternatively, the recipe is based on ingredients or knowledge that are forbidden by religious or legal authorities, and the mysterious visitor is a representative of that authority. Rethute weighs whether the recipe is worth legal trouble, and the party becomes involved in either defending her right to use the recipe or discovering whether there is actual foundation to the claim.
+The Recipe Worth Killing For
+: A mysterious visitor approaches Rethute with an extraordinary claim: one of her signature dishes—a particular seafood preparation or spiced wine blend—is actually based on a recipe stolen centuries ago from a noble house, and that house's descendants are now demanding she surrender the recipe and compensation. Alternatively, the recipe is based on ingredients or knowledge that are forbidden by religious or legal authorities, and the mysterious visitor is a representative of that authority. Rethute weighs whether the recipe is worth legal trouble, and the party becomes involved in either defending her right to use the recipe or discovering whether there is actual foundation to the claim.
 
-5. **The Legacy Moment:** After decades of running the Reenfré, Rethute is presented with an opportunity to sell her establishment to a larger hospitality organization that would offer her substantial wealth and retirement but would fundamentally change the character of her inn. Simultaneously, a promising staff member expresses interest in taking over the business and continuing it according to Rethute's values, but lacks the capital to buy it. The party becomes involved in helping Rethute through what amounts to a decision about her legacy and the future of a beloved community institution.
+The Legacy Moment
+: After decades of running the Reenfré, Rethute is presented with an opportunity to sell her establishment to a larger hospitality organization that would offer her substantial wealth and retirement but would fundamentally change the character of her inn. Simultaneously, a promising staff member expresses interest in taking over the business and continuing it according to Rethute's values, but lacks the capital to buy it. The party becomes involved in helping Rethute through what amounts to a decision about her legacy and the future of a beloved community institution.
