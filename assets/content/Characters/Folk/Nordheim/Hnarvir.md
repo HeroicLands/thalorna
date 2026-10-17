@@ -36,4 +36,4 @@ Hnarvir is a 24-year-old man who stands 5'9" tall with a heavy build. He has tan
 
 # Dossier {#dossier}
 
-Hnarvir is a promising young warrior raised in the fortress and treated as [[being-gnrthsldhfrngr|Gnurthselda Hafringr]]'s unofficial successor. Knarvmil holds his younger sister's debt-contract.
+Hnarvir is a promising young warrior raised in the fortress and treated as [[being-gnrthsldhfrngr|Gnurthselda Hafringr]]'s unofficial successor. [[being-knarvmylkral|Knarvmil Kraldendik]] holds his younger sister's debt-contract.

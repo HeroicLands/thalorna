@@ -36,4 +36,4 @@ Gnuldrthira is an 18-year-old woman who stands 5'6" tall with a medium build. Sh
 
 # Dossier {#dossier}
 
-Gnuldrthira is a priest of Frodvin's Temple who has taken an interest in [[being-svlthyrslvrgr|Svulthira Solvargr]]. She takes an interest in Svulthira's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings.
+Gnuldrthira is a priest of [Frodvin's Temple]{.name data-type="place/structure"} who has taken an interest in [[being-svlthyrslvrgr|Svulthira Solvargr]]. She takes an interest in Svulthira's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings.

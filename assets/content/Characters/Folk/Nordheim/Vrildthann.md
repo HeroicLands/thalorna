@@ -36,4 +36,4 @@ Vrildthann is a 32-year-old man who stands 5'9" tall with a medium build. He has
 
 # Dossier {#dossier}
 
-Vrildthann is the king of the Northern Court, whom [[being-mrvsldenchntrs|Murvselda the Enchantress]] saved from his corrupt advisor. He relies heavily on Murvselda's counsel and has granted her considerable political authority.
+Vrildthann is the king of the [Northern Court]{.name data-type="affiliation/governmental"}, whom [[being-mrvsldenchntrs|Murvselda the Enchantress]] saved from his corrupt advisor. He relies heavily on Murvselda's counsel and has granted her considerable political authority.

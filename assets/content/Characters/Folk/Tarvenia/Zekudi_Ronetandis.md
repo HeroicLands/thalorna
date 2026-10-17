@@ -36,4 +36,4 @@ Zekudi Ornetis is a 34-year-old man who stands 6'0" tall with a medium build. He
 
 # Dossier {#dossier}
 
-Zekudi Ornetis is a guard captain, skilled and praised for his work, and a trusted subordinate of [[being-hldndrgn|Haldena Durgana]]. He accepts bribes from the smuggling magnate Garrutsa Galtsuris in exchange for letting contraband through the gates.
+Zekudi Ornetis is a guard captain, skilled and praised for his work, and a trusted subordinate of [[being-hldndrgn|Haldena Durgana]]. He accepts bribes from the smuggling magnate [[being-garratsagalt|Garrutsa Galtsuris]] in exchange for letting contraband through the gates.

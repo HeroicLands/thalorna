@@ -36,4 +36,4 @@ Hvirnorv is a 52-year-old man who stands 5'11" tall with a massive build. He has
 
 # Dossier {#dossier}
 
-Hvirnorv is an alderman of the Guildhall and strict moralist who views jesters as dangerous corruptors of virtue. He has publicly questioned the Duke's patronage of Tvalgthann. Hvirnorv is named in [[being-tvlgthnblthl|Tvalgthann Bletholl]].
+Hvirnorv is an alderman of the [Guildhall]{.name data-type="affiliation"} and strict moralist who views jesters as dangerous corruptors of virtue. He has publicly questioned Duke [[being-thruldmyl|Thruldmil]]'s patronage of [[being-tvlgthnblthl|Tvalgthann Bletholl]]. Hvirnorv is named in Tvalgthann Bletholl.

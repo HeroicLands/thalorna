@@ -36,4 +36,4 @@ Gnirthvir the Vengeful is a 38-year-old man who stands 6'0" tall with a heavy bu
 
 # Dossier {#dossier}
 
-Gnirthvir the Vengeful is the jarl from whom [[being-dvlgyndshdwwlkr|Dvulginda Shadow-Walker]] stole the Crown of Ages. He has dedicated considerable resources to finding and punishing Dvulginda.
+Gnirthvir the Vengeful is the jarl from whom [[being-dvlgyndshdwwlkr|Dvulginda Shadow-Walker]] stole the [Crown of Ages]{.name data-type="miscgear"}. He has dedicated considerable resources to finding and punishing Dvulginda.

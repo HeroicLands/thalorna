@@ -36,4 +36,4 @@ Ninuri Shamiru is a 32-year-old woman who stands 5'11" tall with a medium build.
 
 # Dossier {#dossier}
 
-Ninuri Shamiru is a merchant-mother and one of the more enlightened members of the Auric Compact. Ninuri quietly steers resources toward the clinic of [[being-ytlshpshtm|Yutalush Pushutum]] and has never demanded anything in return beyond his discretion.
+Ninuri Shamiru is a merchant-mother and one of the more enlightened members of the [[affiliation-auricompct|Auric Compact]]. Ninuri quietly steers resources toward the clinic of [[being-ytlshpshtm|Yutalush Pushutum]] and has never demanded anything in return beyond his discretion.

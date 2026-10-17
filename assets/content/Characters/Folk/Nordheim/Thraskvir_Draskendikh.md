@@ -36,4 +36,4 @@ Thraskvir Draskendik is a 33-year-old man who stands 6'0" tall with a light buil
 
 # Dossier {#dossier}
 
-Thraskvir Draskendik is a merchant captain who commands the vessel _Gyllir's Fortune_. [[being-hvrnthnstrmrt|Hvarnthann Stormrót]] has worked with him before and joins his crew.
+Thraskvir Draskendik is a merchant captain who commands the vessel _[Gyllir's Fortune]{.name data-type="vehicle"}_. [[being-hvrnthnstrmrt|Hvarnthann Stormrót]] has worked with him before and joins his crew.

@@ -36,4 +36,4 @@ Gaimelo Korvathandis is a 63-year-old man who stands 5'9" tall with a medium bui
 
 # Dossier {#dossier}
 
-Gaimelo Korvathandis is an older priest of the Aureldian faith with austere views of spirituality. He regards [[being-palnsnrcth|Pálina Sánriseth]] as a corruptor of proper religious order and has been agitating for stricter oversight of her.
+Gaimelo Korvathandis is an older priest of one of the twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] with austere views of spirituality. He regards [[being-palnsnrcth|Pálina Sánriseth]] as a corruptor of proper religious order and has been agitating for stricter oversight of her.

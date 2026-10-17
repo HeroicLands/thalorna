@@ -36,4 +36,4 @@ Ralthann is a 48-year-old man who stands 6'2" tall with a medium build. He has l
 
 # Dossier {#dossier}
 
-Ralthann is a traveling priest of Eidgar who once stayed at the estate of [[being-thrskrvjrnskl|Thraskorv Jarnskel]]'s master. He spoke with Thraskorv of divine justice and left him a hidden talisman and words of encouragement.
+Ralthann is a traveling priest of the [[affiliation-eidgar|Faith of Eidgar]] who once stayed at the estate of [[being-thrskrvjrnskl|Thraskorv Jarnskel]]'s master. He spoke with Thraskorv of divine justice and left him a hidden talisman and words of encouragement.

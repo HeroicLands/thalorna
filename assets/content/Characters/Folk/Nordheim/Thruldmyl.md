@@ -36,4 +36,4 @@ Thruldmil is a 52-year-old man who stands 5'11" tall with a medium build. He has
 
 # Dossier {#dossier}
 
-Thruldmil is the duke of Vithgard and the primary patron who employs [[being-tvlgthnblthl|Tvalgthann Bletholl]] for court entertainment. He employs Tvalgthann's talents for court entertainment and subtle political messaging.
+Thruldmil is the duke of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] and the primary patron who employs [[being-tvlgthnblthl|Tvalgthann Bletholl]] for court entertainment. He employs Tvalgthann's talents for court entertainment and subtle political messaging.

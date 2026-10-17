@@ -36,4 +36,4 @@ Flarnthann Braldaruk is a 50-year-old man who stands 6'0" tall with a medium bui
 
 # Dossier {#dossier}
 
-Flarnthann Braldaruk is a merchant-prince and wealthy leader of trading expeditions who has used [[being-brldthnvtrdmr|Braldthann Vetrdómr]]'s tents for three decades. He credits the craftsman's work with saving his life during a catastrophic storm in the Northern Peaks.
+Flarnthann Braldaruk is a merchant-prince and wealthy leader of trading expeditions who has used [[being-brldthnvtrdmr|Braldthann Vetrdómr]]'s tents for three decades. He credits the craftsman's work with saving his life during a catastrophic storm in the [Northern Peaks]{.name data-type="place/feature"}.

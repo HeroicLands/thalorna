@@ -36,4 +36,4 @@ Ilthira is a 54-year-old woman who stands 5'9" tall with a heavy build. She has 
 
 # Dossier {#dossier}
 
-Ilthira is a woman known for her excellence in textile dying and pattern design, mother of [[being-glrvrnstrmrt|Glirvrinna Snarvumak]]. She is artistic, and made patterns that made functional items beautiful.
+Ilthira is a woman known for her excellence in textile dyeing and pattern design, mother of [[being-glrvrnstrmrt|Glirvrinna Snarvumak]]. She is artistic, and made patterns that made functional items beautiful.

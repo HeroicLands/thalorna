@@ -36,4 +36,4 @@ Kolsame Linthimis is a 46-year-old woman who stands 5'8" tall with a heavy build
 
 # Dossier {#dossier}
 
-Kolsame Linthimis is the commander of the City Watch and the official responsible for investigating underground apothecary operations. Kolsame views [[being-hrkhsbrmyds|Harkis Baremides]] as a personal obsession and has dedicated significant resources to apprehending him.
+Kolsame Linthimis is the commander of the [City Watch]{.name data-type="affiliation"} and the official responsible for investigating underground apothecary operations. Kolsame views [[being-hrkhsbrmyds|Harkis Baremides]] as a personal obsession and has dedicated significant resources to apprehending him.

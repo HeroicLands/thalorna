@@ -36,4 +36,4 @@ Dorándaro Orthemandis is a 50-year-old man who stands 5'11" tall with a heavy b
 
 # Dossier {#dossier}
 
-Dorándaro Orthemandis is an alderman and the leader of the fishing cooperative that represents the common fishermen of Nebralis. He has served alongside [[being-althrtrvlth|Alethra Torvaleth]] in the communal assembly for six years and trusts her absolutely.
+Dorándaro Orthemandis is an alderman and the leader of the fishing cooperative that represents the common fishermen of [[place-nebralis|Nebralis]]. He has served alongside [[being-althrtrvlth|Alethra Torvaleth]] in the communal assembly for six years and trusts her absolutely.

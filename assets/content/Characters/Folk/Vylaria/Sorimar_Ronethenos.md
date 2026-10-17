@@ -36,4 +36,4 @@ Sorimar Ronethen is a 55-year-old woman who stands 5'8" tall with a heavy build.
 
 # Dossier {#dossier}
 
-Sorimar Ronethen is the head of the Woodworkers' Guild. Sorimar has kept [[being-brnksksrns|Bránakis Kaseranis]]'s membership in the guild despite pressure from younger, more pliable members.
+Sorimar Ronethen is the head of the [Woodworkers' Guild]{.name data-type="affiliation/guild"}. Sorimar has kept [[being-brnksksrns|Branakis Kaseranis]]'s membership in the guild despite pressure from younger, more pliable members.

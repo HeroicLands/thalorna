@@ -36,4 +36,4 @@ Dvalgmil is a 46-year-old man who stands 5'11" tall with a heavy build. He has t
 
 # Dossier {#dossier}
 
-Dvalgmil is the captain of the City Watch, a dogged lawman who has pursued [[being-dvrnmyldcvr|Dvirnmil the Deceiver]] for years. He has come closer to catching [[being-dvrnmyldcvr|Dvirnmil the Deceiver]] than anyone else.
+Dvalgmil is the captain of the [City Watch]{.name data-type="affiliation"}, a dogged lawman who has pursued [[being-dvrnmyldcvr|Dvirnmil the Deceiver]] for years. He has come closer to catching Dvirnmil than anyone else.

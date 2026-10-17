@@ -36,4 +36,4 @@ Snarvthira is a 48-year-old woman who stands 5'4" tall with a heavy build. She h
 
 # Dossier {#dossier}
 
-Snarvthira is the high priestess of Thrunvald in the nearest settlement, who views [[being-krldmylvtrdmr|Kralmil Vetrdómr]] as a genuine worshipper. She sees Kralmil as a worshipper of the storm god.
+Snarvthira is the high priestess of the [[affiliation-thrunvald|Faith of Thrunvald]] in the nearest settlement, who views [[being-krldmylvtrdmr|Kralmil Vetrdómr]] as a genuine worshipper. She sees Kralmil as a worshipper of the storm god.

@@ -36,4 +36,4 @@ Rilthorv is a 39-year-old man who stands 6'1" tall with a light build. He has pa
 
 # Dossier {#dossier}
 
-Rilthorv is the bishop of the Thrunvald Temple, which commissions work from [[being-hrndrndrknt|Hrandrinna Drekanótt]]. The temple commissions Hrandrinna for specialized high-pitched roofing work designed to shed snow and endure harsh weather, and the bishop values her skill.
+Rilthorv is the bishop of the [Thrunvald Temple]{.name data-type="place/structure"}, which commissions work from [[being-hrndrndrknt|Hrandrinna Drekanótt]]. The temple commissions Hrandrinna for specialized high-pitched roofing work designed to shed snow and endure harsh weather, and the bishop values her skill.

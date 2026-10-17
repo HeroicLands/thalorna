@@ -36,4 +36,4 @@ Svilthmil is a 41-year-old man who stands 6'2" tall with a heavy build. He has p
 
 # Dossier {#dossier}
 
-Svilthmil is the overseer who replaced Gnaldrmil and treats [[being-thrskrvjrnskl|Thraskorv Jarnskel]] with particular savagery. He replaced Gnaldrmil as overseer and is no less cruel.
+Svilthmil is the overseer who replaced [Gnaldrmil]{.name data-type="being/npc"} and treats [[being-thrskrvjrnskl|Thraskorv Jarnskel]] with particular savagery. He replaced Gnaldrmil as overseer and is no less cruel.

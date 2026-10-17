@@ -36,4 +36,4 @@ Nelama Pirkelis is a 59-year-old woman who stands 5'10" tall with a medium build
 
 # Dossier {#dossier}
 
-Nelama Pirkelis is a wealthy merchant of considerable influence. Nelama employs [[being-ailemkrmys|Ailema Keramyes]] to handle her personal correspondence and record-keeping. Nelama appreciates [[being-ailemkrmys|Ailema Keramyes]]'s discretion and has become something of a patron to her.
+Nelama Pirkelis is a wealthy merchant of considerable influence. Nelama employs [[being-ailemkrmys|Ailema Keramyes]] to handle her personal correspondence and record-keeping. Nelama appreciates Ailema's discretion and has become something of a patron to her.

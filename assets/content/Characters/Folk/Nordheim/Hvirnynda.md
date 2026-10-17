@@ -36,4 +36,4 @@ Hvirninda is a 48-year-old woman who stands 5'7" tall with a medium build. She h
 
 # Dossier {#dossier}
 
-Hvirninda is a wealthy scholar who commissions [[being-hvrnthnstrmrt|Hvarnthann Stormrót]] to sail to the Shattered Archipelago in search of ancient ruins of the Old Kingdom. She is willing to pay extraordinary sums for the voyage.
+Hvirninda is a wealthy scholar who commissions [[being-hvrnthnstrmrt|Hvarnthann Stormrót]] to sail to the [Shattered Archipelago]{.name data-type="place/feature"} in search of ancient ruins of the [Old Kingdom]{.name data-type="affiliation/polity"}. She is willing to pay extraordinary sums for the voyage.

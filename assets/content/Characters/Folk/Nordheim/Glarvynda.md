@@ -36,4 +36,4 @@ Glarvinda is a 22-year-old woman who stands 5'9" tall with a heavy build. She ha
 
 # Dossier {#dossier}
 
-Glarvinda is the high priestess of the Asguardian Temple, who hires [[being-thrldrvvrnhm|Thraldorv Vornheim]] for sacred protection work. She is a spiritual authority at the Asguardian Temple.
+Glarvinda is the high priestess of the [Asguardian Temple]{.name data-type="place/structure"}, who hires [[being-thrldrvvrnhm|Thraldorv Vornheim]] for sacred protection work. She is a spiritual authority at the Asguardian Temple.

@@ -36,4 +36,4 @@ Hlaskinda is a 55-year-old woman who stands 5'9" tall with a medium build. She h
 
 # Dossier {#dossier}
 
-Hlaskinda is the jarl of Hvulgdal, a farming dale of the Nordlands, known as a wise ruler. She has given Bruldorv authority over the management of her lands' harvests. Hlaskinda is named in [[being-brldrvgrnshld|Bruldorv Greenshield]] and [[place-hvulgdal|Hvulgdal]].
+Hlaskinda is the jarl of [[place-hvulgdal|Hvulgdal]], a farming dale of the [[place-nrdlndsrgn|Nordlands Region]], known as a wise ruler. She has given [[being-brldrvgrnshld|Bruldorv Greenshield]] authority over the management of her lands' harvests. Hlaskinda is named in Bruldorv Greenshield and Hvulgdal.

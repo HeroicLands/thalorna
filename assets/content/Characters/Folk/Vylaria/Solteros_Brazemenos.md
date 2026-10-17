@@ -36,4 +36,4 @@ Solteros Brazemen is a 34-year-old man who stands 5'7" tall with a medium build.
 
 # Dossier {#dossier}
 
-Solteros Brazemen is a merchant vessel captain who regularly seeks out [[being-brnlnsbrkls|Branalenis Bárkalas]] for contracts, recognizing her value despite her difficult personality. He hopes that, given time, she might accept permanent crew status.
+Solteros Brazemen is a merchant vessel captain who regularly seeks out [[being-brnlnsbrkls|Branalenis Barkalas]] for contracts, recognizing her value despite her difficult personality. He hopes that, given time, she might accept permanent crew status.

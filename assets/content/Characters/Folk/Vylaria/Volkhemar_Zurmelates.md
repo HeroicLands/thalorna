@@ -36,4 +36,4 @@ Volkemar Zurmelates is a 29-year-old man who stands 5'9" tall with a medium buil
 
 # Dossier {#dossier}
 
-Volkemar Zurmelates is a wealthy trader who has begun running charcoal works on a great scale with lower standards. He has systematically undercut the prices and reputation of [[being-brnksksrns|Bránakis Kaseranis]].
+Volkemar Zurmelates is a wealthy trader who has begun running charcoal works on a great scale with lower standards. He has systematically undercut the prices and reputation of [[being-brnksksrns|Branakis Kaseranis]].

@@ -36,4 +36,4 @@ Anthinda Thraskaruk is a 31-year-old woman who stands 5'6" tall with a medium bu
 
 # Dossier {#dossier}
 
-Anthinda Thraskaruk is a merchant captain who has become entangled with Svaltharuk's operation through trading partnerships. She did not realize that the trading partnerships were connected to slavery. Anthinda Thraskaruk is named in [[being-gnrthnvtrdmr|Gnirthann Vetrdómr]].
+Anthinda Thraskaruk is a merchant captain who has become entangled with [[being-hvalgmylsval|Hvalgmil Svaltharuk]]'s operation through trading partnerships. She did not realize that the trading partnerships were connected to slavery. Anthinda Thraskaruk is named in [[being-gnrthnvtrdmr|Gnirthann Vetrdómr]].

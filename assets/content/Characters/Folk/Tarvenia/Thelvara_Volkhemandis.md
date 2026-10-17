@@ -36,4 +36,4 @@ Thélvara Volkemis is a 57-year-old woman who stands 5'8" tall with a heavy buil
 
 # Dossier {#dossier}
 
-Thélvara Volkemis is the priestess-keeper of the temple of Ólvenia. She considers the work of the shipwright [[being-domthgrvth|Dometh Graveth]] a form of worship and sees to it that the temple's ships are always commissioned from him.
+Thélvara Volkemis is the priestess-keeper of the temple of the [[affiliation-olvenia|Faith of Ólvenia]]. She considers the work of the shipwright [[being-domthgrvth|Dometh Graveth]] a form of worship and sees to it that the temple's ships are always commissioned from him.

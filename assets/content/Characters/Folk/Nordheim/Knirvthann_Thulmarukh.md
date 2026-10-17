@@ -36,4 +36,4 @@ Knirvthann Thulmaruk is a 43-year-old man who stands 6'2" tall with a medium bui
 
 # Dossier {#dossier}
 
-Knirvthann Thulmaruk is the duke of the Southern Marches, a nobleman whose secret ambitions the jester [[being-anthrvasgrnd|Anthorv Asgrind]] publicly mocked. The mockery came through elaborate theatrical sequences.
+Knirvthann Thulmaruk is the duke of the [Southern Marches]{.name data-type="place/region"}, a nobleman whose secret ambitions the jester [[being-anthrvasgrnd|Anthorv Asgrind]] publicly mocked. The mockery came through elaborate theatrical sequences.
