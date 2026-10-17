@@ -57,9 +57,10 @@ anywhere else.
 
 ## The Lordeme
 
-Every fifth year Hárivren hosts the **Lordeme**, the Provenzian Grand Games: the realm's
-greatest festival of martial prowess and athletic excellence, drawing competitors and spectators from
-across Provenzia and well beyond it.
+Every fifth year Hárivren hosts the **[Lordeme]{.name data-type="lore/gathering"}**, the Provenzian Grand Games,
+also called the Grand Games: the realm's greatest festival of martial prowess and athletic excellence,
+drawing competitors and spectators from across Provenzia and well beyond it. A season of Provenzia's
+politics arranges itself around the Games.
 
 For the months around the Games the city triples. Nobles negotiate alliances, debts and revenge in the
 open; enormous sums are wagered; the [[affiliation-ordoarcanis|Thordimalon]] keeps an official

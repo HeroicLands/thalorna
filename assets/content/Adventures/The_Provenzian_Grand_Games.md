@@ -14,7 +14,7 @@ data:
   packFolder: adventures
 ---
 
-The Lordeme (Provenzian Grand Games), the realm's greatest athletic and martial competition, is held in the City of Hárivren. The party may compete, investigate corruption, or become entangled in plots and assassinations that threaten the event and those attending.
+The [Lordeme]{.name data-type="lore/gathering"} (Provenzian Grand Games), the realm's greatest athletic and martial competition, is held in the City of Hárivren. The party may compete, investigate corruption, or become entangled in plots and assassinations that threaten the event and those attending.
 
 ## Overview
 
