@@ -49,7 +49,7 @@ data:
       unresolved: [whether the Orzas knew the report before it leaked]
 ---
 
-A senior centurion of a northern legion, asked by a young Lusel why the camp prefect's rank is so hard to reach, answers without looking up from his tablets. "Because someone in Orzara read a report. I do not know his name. I know that when I was a Hundar Maldor the Vandraks's recommendation was enough, and that now it is not."
+In The Commission Compromise, a senior centurion of a northern legion, asked by a young Lusel why the camp prefect's rank is so hard to reach, answers without looking up from his tablets. "Because someone in [[place-orzara|Orzara City]] read a report. I do not know his name. I know that when I was a Hundar Maldor the Vandraks's recommendation was enough, and that now it is not."
 
 ## The Report
 
@@ -59,19 +59,19 @@ The report leaked to the senatorial houses within months of its filing. It produ
 
 ## The Factions
 
-The Reformist Faction argued for compulsory examinations as a precondition for any commission above Lusel. A coalition of _ankren_ (Silver) houses, whose sons had served merit-route careers in the war, stood behind it in private.
+The [Reformist Faction]{.name data-type="affiliation"} argued for compulsory examinations as a precondition for any commission above Lusel. A coalition of _ankren_ (Silver) houses, whose sons had served merit-route careers in the war, stood behind it in private.
 
-The Conservative Faction included most of the _ethlen_ (Gilded) estate, most of the great commission-holding families and every officeholder whose career depended on the system as it stood. It blocked the reform. The Dukran, the senior _ethlen_ of his generation, led it and then brokered the compromise.
+The [Conservative Faction]{.name data-type="affiliation"} included most of the _ethlen_ (Gilded) estate, most of the great commission-holding families and every officeholder whose career depended on the system as it stood. It blocked the reform. The Dukran, the senior _ethlen_ of his generation, led it and then brokered the compromise.
 
 ## The Compromise
 
 About 710 the two sides settled.
 
 - **Vallar.** A candidate raised from the commoner track must pass an examination set jointly by the Dukran and a panel of serving Magnars. The examination is rigorous, and the rate of elevation fell.
-- **The strongroom audit.** The Reformist Faction took a seat on the panel that audits the Tarmeks's strongroom each year ([[affiliation-tarmex|Tarmeks Orzan]]).
+- **The strongroom audit.** The Reformist Faction took a seat on the panel that audits the strongroom of [[affiliation-tarmex|The Tarmeks Orzan]] each year.
 - **Noble commissions.** They remained purchasable on the earlier basis, and no examination is required for any noble rank.
 
-[[affiliation-lethunu2|The Lethunu]] regard the compromise as a partial victory. The Conservative Faction regards it as the price of preserving the rest. The career centurions regard it as a calculated insult, because the only path the reform tightened is the one their own track has always used to cross into the officers.
+[The Lethunu]{.name data-type="affiliation"} regard the compromise as a partial victory. The Conservative Faction regards it as the price of preserving the rest. The career centurions regard it as a calculated insult, because the only path the reform tightened is the one their own track has always used to cross into the officers.
 
 The Orzas's position is that the matter is "under continuing review." It stays there until the next major war exposes the system or the balance at court changes.
 

@@ -65,25 +65,25 @@ data:
         - which edict closed the western conquests, and whether it was one edict or several
 ---
 
-A junior clerk of the Tevran Maldor, copying the preamble of the guilds' charter for the hundredth time, is stopped by an older colleague at the line that names the Orzas. "Read the date aloud," the older clerk says. "Three centuries and a few years. Everything in this building, the building itself and the Seldan down the corridor, was put there by one Orzas in seven years."
+In The Edicts of Arzanas, a junior clerk of [[affiliation-tevran|The Tevran Maldor]], copying the preamble of the guilds' charter for the hundredth time, is stopped by an older colleague at the line that names the Orzas. "Read the date aloud," the older clerk says. "Three centuries and a few years. Everything in this building, the building itself and [[affiliation-seldan|Seldan]] down the corridor, was put there by one Orzas in seven years."
 
 ## The Closing of the Conquests
 
-About 418 the second Orzas of the Restoration house, **Arzanas**, ended the wars of three centuries ([[lore-westernwars|The Western Wars]]) by edict. The legions held what they held, and the chancery's maps held the rest. Arzanas was the first Orzas of his house to rule long enough to build, and the edict that closed the frontier opened the work.
+About 418 the second Orzas of the Restoration house ([[lore-restorehouse|The Restoration]]), **[Arzanas]{.name data-type="being/npc"}**, ended the wars of three centuries ([[lore-westernwars|The Western Wars]]) by edict. The legions held what they held, and the chancery's maps held the rest. Arzanas was the first Orzas of his house to rule long enough to build, and the edict that closed the frontier opened the work.
 
 ## The Machinery
 
-Over seven years he gave the Empire its present institutions.
+Over seven years he gave the [[affiliation-vylarinmpr|Vylarian Empire]] its present institutions.
 
 - **The Tevran Maldor.** Arzanas put the guilds of every conquered city under one charter, so that the Empire could regulate, tax and rely on them as a single system ([[affiliation-tevran|Tevran Maldor]]).
-- **The Tolvan.** He constituted the Fiscal Court and the Tolari who collect for it ([[affiliation-tolvan|Tolvan]]).
-- **The Tarmeks.** He made the treasury the central bank of the note system and built the strongroom that has held the bullion since ([[affiliation-tarmex|Tarmeks Orzan]]).
-- **The Palvar.** He rebuilt the palace on the hill ([[place-palvar|Palvar]]).
-- **The Paldor.** He lined the rebuilt avenue with the trophies of three centuries of conquest, so that every embassy walks the length of the Empire's boast.
+- **[[affiliation-tolvan|The Tolvan]].** He constituted the Fiscal Court and the Tolari who collect for it.
+- **[[affiliation-tarmex|The Tarmeks Orzan]].** He made the treasury the central bank of the note system and built the strongroom that has held the bullion since.
+- **The [[place-palvar|Palvar]].** He rebuilt the palace on the hill.
+- **The [Paldor]{.name data-type="place/feature"}.** He lined the rebuilt avenue with the trophies of three centuries of conquest, so that every embassy walks the length of the Empire's boast.
 
 ## What Paid for It
 
-The treasury Makandas had spent on peace was empty, and the rebuilding was banked. The **House of Calventian**, founded in Orzara to carry the debt, lent the Orzas the money and has been the largest of the great banking houses since ([[affiliation-danvar|Danvar]]).
+The treasury [Makandas]{.name data-type="being/npc"} had spent on peace was empty, and the rebuilding was banked. The **[House of Calventian]{.name data-type="affiliation/venture"}**, founded in [[place-orzara|Orzara City]] to carry the debt, lent the Orzas the money and has been the largest of the great banking houses since ([[affiliation-danvar|The Danvar]]).
 
 ## What It Left
 

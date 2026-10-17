@@ -63,11 +63,11 @@ data:
       unresolved: [how many of the dead on the field were never buried by anyone]
 ---
 
-A steward on the Olkassa estate, walking a grain factor's mule along the headland on a May evening, stops where the track meets the wheat and does not step into it. "We cut round," he says. "Everyone cuts round. It is the best wheat in Hilen, and I have never seen the factor's mule go into it."
+In The Battle of Olkassa, a steward on the Olkassa estate ([[place-olcassafld|The Blood-field of Olkassa]]), walking a grain factor's mule along the headland on a May evening, stops where the track meets the wheat and does not step into it. "We cut round," he says. "Everyone cuts round. It is the best wheat in [[place-hylen|Hilen]], and I have never seen the factor's mule go into it."
 
 ## The Field
 
-[[place-hylen|Hilen]] feeds the capital. Its estates grow the grain that is milled into the dole, and whoever holds the granaries of Hilen holds Orzara's bread. The Senate knew it, and so did Makandas ([[lore-brkensuccsn|The Broken Succession]]). About 401 the Senate sent its army to hold the estates, and the Moktur legions came south to take them.
+Hilen feeds the capital. Its estates grow the grain that is milled into the dole, and whoever holds the granaries of Hilen holds [[place-orzara|Orzara City]]'s bread. [[affiliation-seldan|Seldan]] (the Senate) knew it, and so did [Makandas]{.name data-type="being/npc"} ([[lore-brkensuccsn|The Broken Succession]]). About 401 the Senate sent its army to hold the estates, and the [[place-moktur|Moktur]] legions came south to take them.
 
 The two armies met on the **Olkassa** estate, one of the great holdings of the province. Both carried the same eagle, cast to the same pattern in the same arsenal, and men who had served in the same garrisons stood in the opposing lines. Neither side gave quarter. The Senate's army had the better ground and the Moktur legions had the better discipline, and by dusk the Senate's army lay in the standing grain and the Moktur line was half what it had been at dawn.
 

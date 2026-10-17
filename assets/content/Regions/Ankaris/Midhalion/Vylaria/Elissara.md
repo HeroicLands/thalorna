@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Three marks tell you whose city Elissara is: the master's seal of the potters' guild, the mark of the Seamen's Guild on a sailor's right arm, and the chapterhouse of the [[affiliation-danvar|Danvar]]. It is a trade city of about 40,000 in [[place-vylariargn|Vylaria]], one of the larger cities of [[place-midhalnrgn|Mídhalión]], and a working city of ships, kilns and counting rooms.
+Three marks tell you whose city Elissara is: the master's seal of the potters' guild, the mark of the [Seamen's Guild]{.name data-type="affiliation/guild"} on a sailor's right arm, and the chapterhouse of [[affiliation-danvar|The Danvar]]. It is a trade city of about 40,000 in the [[place-vylariargn|Vylaria Region]], one of the larger cities of the [[place-midhalnrgn|Mídhalión Region]], and a working city of ships, kilns and counting rooms.
 
 A supercargo who has made landfall here more times than he can count briefs a young partner on his first call: "Keep your eyes on the quays. The ships out of Elissara run grain to the capital, and the men who sail them are on the roll of the Seamen's Guild, so you hire by the voyage, from the roll. Behind the quays is the market, and the market is full of pots. The potters have a tevran of their own, and a master's seal on a bowl is worth more than the bowl. And when you need a draft cashed, the Danvar keep one of their largest chapterhouses in the city. Say who you are when you walk in."
 

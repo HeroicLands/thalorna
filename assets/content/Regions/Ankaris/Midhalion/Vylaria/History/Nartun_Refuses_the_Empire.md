@@ -60,25 +60,25 @@ data:
       unresolved: [whether the legions were ordered to take the city or to withdraw]
 ---
 
-The secretary of a Nartunese priest-noble, briefing an envoy from Orzara before an audience, gives the kingdom's version in one sentence: "Your throne was asked to choose between the fire that makes and the fire that takes, and he said that both were welcome in his capital." It is the whole of the quarrel, and neither side has found a way to add to it.
+In Nartun Refuses the Empire, the secretary of a Nartunese priest-noble, briefing an envoy from [[place-orzara|Orzara City]] before an audience, gives the kingdom's version in one sentence: "Your throne was asked to choose between the fire that makes and the fire that takes, and he said that both were welcome in his capital." It is the whole of the quarrel, and neither side has found a way to add to it.
 
 ## The Request
 
-The [[lore-ustaranschsm|Ústaran Schism]] split the Forge-Lord's faith into the [[affiliation-sacredforge|Sacred Forge]] and the [[affiliation-blackflame|Black Flame]] about 220. The orthodox clergy of the Empire went to the Orzas **Karomfos** and asked him to proscribe the new faith. He refused. The Black Flame had temples in his capital and officers in his legions, and the Empire's law permitted every faith that did not threaten the stability of the state.
+[[lore-ustaranschsm|The Ústaran Schism]] split the faith of [[lore-ustarondty|Ústaron]], the Forge-Lord, into [[affiliation-sacredforge|The Sacred Forge]] and [[affiliation-blackflame|The Black Flame]] about 220. The orthodox clergy of the [[affiliation-vylarinmpr|Vylarian Empire]] went to the Orzas **[Karomfos]{.name data-type="being/npc"}** and asked him to proscribe the new faith. He refused. The Black Flame had temples in his capital and officers in his legions, and the Empire's law permitted every faith that did not threaten the stability of the state.
 
 ## The Withdrawal
 
-The high priesthood of [[place-nartum|Nartun]], the oldest sacred city of the heartland, did not accept the answer. About 224 it withdrew from imperial obedience. It anointed a king of its own, **Daronos**, the first to take the throne from the priesthood's hand, and raised the Order of the Sacred Flame, a body of knights, to hold the city's walls and the land around it.
+The high priesthood of [[place-nartum|Nartun]], the oldest sacred city of the heartland, did not accept the answer. About 224 it withdrew from imperial obedience. It anointed a king of its own, **[Daronos]{.name data-type="being/npc"}**, the first to take the throne from the priesthood's hand, and raised the [Order of the Sacred Flame]{.name data-type="affiliation/order"}, a body of knights, to hold the city's walls and the land around it.
 
 The Orzas sent legions to bring the city back. They reached Nartun in the autumn, found its gates shut and its knights on the walls, and turned back at the first winter. No Orzas has sent a second army.
 
 ## What It Left
 
-- **The Holy Kingdom.** An independent theocratic monarchy in the heartland of the Empire, whose king is anointed by the priesthood and has been deposed by it.
+- **The [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]].** An independent theocratic monarchy in the heartland of the Empire, whose king is anointed by the priesthood and has been deposed by it.
 - **Two verdicts.** Nartun calls the Empire a corrupted institution that has strayed, and the Empire calls Nartun a wayward province that will come back. Both are said politely, in the same language.
-- **An archaic dialect.** Nartun's people speak an older form of Vylari as a mark of the break, and Vylarian envoys learn it before they go.
-- **No Arcane Order.** The Thordimalon (the Arcane Order) has no presence in the kingdom, where mages who work answer to the priesthood.
-- **The open temples of the Black Flame.** In Orzara and in the commercial cities of Alessa, where the Night of Ashes is a public festival.
+- **An archaic dialect.** Nartun's people speak an older form of the [[skill-vylarilng|Vylari Language]] as a mark of the break, and Vylarian envoys learn it before they go.
+- **No Arcane Order.** [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) has no presence in the kingdom, where mages who work answer to the priesthood.
+- **The open temples of the Black Flame.** In Orzara and in the commercial cities of [[place-alyssa|Alessa]], where the [Night of Ashes]{.name data-type="lore/gathering"} is a public festival.
 
 ## See Also
 

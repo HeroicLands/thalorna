@@ -51,50 +51,50 @@ data:
   packFolder: vylaria
 ---
 
-A temple calendar-keeper teaches a novice the Vylarian Calendar in one afternoon, and starts with what never moves: "Learn the four days that stand still, child. The year can slip anywhere else, but the sky does not. Everything else is arithmetic."
+The Vylarian Calendar takes a temple calendar-keeper one afternoon to teach a novice, starting with what never moves: "Learn the four days that stand still, child. The year can slip anywhere else, but the sky does not. Everything else is arithmetic."
 
-The **Vylarian Calendar** counts twelve months from Lizelandi to Kalpezandi, running thirty and thirty-one days by turns and breaking that turn once, where Elthezandi and Karnavar both run thirty. The twelve sum to a full solar year. Lizelandi opens on the vernal equinox, and the calendar's own name for that day is **1 Lizelandi**.
+The **Vylarian Calendar** counts twelve months from [Lizelandi]{.name data-type="lore/calendar"} to [Kalpezandi]{.name data-type="lore/calendar"}, running thirty and thirty-one days by turns and breaking that turn once, where [Elthezandi]{.name data-type="lore/calendar"} and [Karnavar]{.name data-type="lore/calendar"} both run thirty. The twelve sum to a full solar year. Lizelandi opens on the vernal equinox, and the calendar's own name for that day is **1 Lizelandi**.
 
-Four days in the year are fixed and never move: the vernal equinox on **1 Lizelandi**, the summer solstice on **1 Thumbandi**, the autumnal equinox on **1 Karnavar**, and the winter solstice on **1 Kalmethandi**. Each quarter opens a month rather than falling inside one, and nothing in the calendar drifts, so the same four dates carry the same four events in every year.
+Four days in the year are fixed and never move: the vernal equinox on **1 Lizelandi**, the summer solstice on **1 [Thumbandi]{.name data-type="lore/calendar"}**, the autumnal equinox on **1 Karnavar**, and the winter solstice on **1 [Kalmethandi]{.name data-type="lore/calendar"}**. Each quarter opens a month rather than falling inside one, and nothing in the calendar drifts, so the same four dates carry the same four events in every year.
 
 The seasons are a different division from the quarter days, and confusing the two is the commonest error in reading a Vylarian date. A season is a plain quarter of the year's days, counted off from **1 Lizelandi**: spring takes the first ninety-one, summer the next ninety-one, fall the ninety-one after that, winter the rest. A quarter day is an event of the sky, and it lands where the sky puts it—**1 Thumbandi** three weeks into summer, **1 Karnavar** three weeks into fall. The tax year runs on the seasons, the temple year on the quarter days. "Midsummer" therefore names two different weeks depending on which office says it.
 
-Years are reckoned **After the Founding (AF)**, from the year [[affiliation-vylarinmpr|Vylaria]]'s Senate gave way to its first Emperor. That year is **1 AF**; the present year is **720 AF**. An event before it is dated **Before the Founding (BF)**.
+Years are reckoned **[After the Founding]{.name data-type="lore/calendar"} (AF)**, from the year [[affiliation-seldan|Seldan]], the Senate of the [[affiliation-vylarinmpr|Vylarian Empire]], gave way to its first Emperor. That year is **1 AF**; the present year is **720 AF**. An event before it is dated **[Before the Founding]{.name data-type="lore/calendar"} (BF)**.
 
 ## Who Keeps It
 
-The Vylarian Calendar is the working calendar of [[place-midhalnrgn|Mídhalión Region]], [[place-aureldirgn|Aureldia]], and every land the Vylarian Empire's cultural sphere still reaches: [[place-helionis|Helionis]], [[place-byzariargn|Bizaria]], [[affiliation-cnfdrtntrzlnstts|Taruzel]], [[place-provenzrgn|Provenzia Region]], [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]] all date by it. Vylarian political authority made the calendar, and the lands that still keep it mark where that authority is still felt.
+The Vylarian Calendar is the working calendar of the [[place-midhalnrgn|Mídhalión Region]], the [[place-aureldirgn|Aureldia Region]], and every land the Vylarian Empire's cultural sphere still reaches: [[place-helionis|Helionis]], the [[place-byzariargn|Bizaria Region]], the [[place-taruzelrgn|Taruzel Region]], the [[place-provenzrgn|Provenzia Region]], the [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]] all date by it. Vylarian political authority made the calendar, and the lands that still keep it mark where that authority is still felt.
 
-Beyond that sphere, other peoples keep their own count and do not translate into this one in ordinary use. [[affiliation-empireakhlth|Empire of Au'Khelathu]] and [[affiliation-okharis|Okharis]] reckon from the [[lore-qettelgu|Qet Telgu]] (the First Occasion); [[place-vedyarargn|Vedyara]] and the [[affiliation-tantsouempr|Empire of Tantsou]] keep independent dating systems of their own.
+Beyond that sphere, other peoples keep their own count and do not translate into this one in ordinary use. The [[affiliation-empireakhlth|Empire of Au'Khelathu]] and [[affiliation-okharis|Okharis]] reckon from [[lore-qettelgu|The Qet Telgu]] (the First Occasion); the [[place-vedyarargn|Vedyara Region]] and the [[affiliation-tantsouempr|Empire of Tantsou]] keep independent dating systems of their own.
 
 ## The Months
 
-Each month belongs to one of the Twelve. Three carry an old form of the god's name, and nine are named in [[skill-vylarilng|Vylari]] with the hallowed ending _-andi_, "in the keeping of": five for their gods, and four for the god's gift.
+Each month belongs to one of the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]]. Three carry an old form of the god's name, and nine are named in the [[skill-vylarilng|Vylari Language]] with the hallowed ending _-andi_, "in the keeping of": five for their gods, and four for the god's gift.
 
-1. **Lizelandi** (30 days)—in the keeping of Lizelas, the Nurturer; the year opens here, on the vernal equinox.
-2. **Lusenar** (31 days)
-3. **Pozerandi** (30 days)—in the keeping of Pozeras, the Wayfarer.
-4. **Brazemandi** (31 days)—in the keeping of Brazemas, the Thunderer.
-5. **Thumbandi** (30 days)—the forge's month, for Ústaron; the summer solstice falls on its first day.
-6. **Marendandi** (31 days)—in the keeping of Marendas, Keeper of Sacred Wisdom.
-7. **Elthezandi** (30 days)—the gold's month, for Ólvenia.
+1. **Lizelandi** (30 days)—in the keeping of [[lore-lizelasdty|Lizelas]], the Nurturer; the year opens here, on the vernal equinox.
+2. **[Lusenar]{.name data-type="lore/calendar"}** (31 days)
+3. **[Pozerandi]{.name data-type="lore/calendar"}** (30 days)—in the keeping of [[lore-pozerasdty|Pozeras]], the Wayfarer.
+4. **[Brazemandi]{.name data-type="lore/calendar"}** (31 days)—in the keeping of [[lore-brazemasdty|Brazemas]], the Thunderer.
+5. **Thumbandi** (30 days)—the forge's month, for [[lore-ustarondty|Ústaron]]; the summer solstice falls on its first day.
+6. **[Marendandi]{.name data-type="lore/calendar"}** (31 days)—in the keeping of [[lore-marendasdty|Marendas]], Keeper of Sacred Wisdom.
+7. **Elthezandi** (30 days)—the gold's month, for [[lore-olveniadty|Ólvenia]].
 8. **Karnavar** (30 days)—the autumnal equinox falls on its first day.
-9. **Morvanandi** (31 days)
-10. **Kalmethandi** (30 days)—the month of going to the ancestors, for Sélmoros; the winter solstice falls on its first day.
-11. **Zunelandi** (31 days)—in the keeping of Zunelas, the Veiled Dreamer.
-12. **Kalpezandi** (30 days)—the gate's month, for Árdavon, the Keeper of the Gates, and the last month of the year.
+9. **[Morvanandi]{.name data-type="lore/calendar"}** (31 days)
+10. **Kalmethandi** (30 days)—the month of going to the ancestors, for [[lore-selmorosdty|Sélmoros]]; the winter solstice falls on its first day.
+11. **[Zunelandi]{.name data-type="lore/calendar"}** (31 days)—in the keeping of [[lore-zunelasdty|Zunelas]], the Veiled Dreamer.
+12. **Kalpezandi** (30 days)—the gate's month, for [[lore-ardavondty|Árdavon]], the Keeper of the Gates, and the last month of the year.
 
 ## The Week
 
 Seven days run on through the months without a break, so a weekday belongs to no date and the two are looked up together. The names are a farming year in miniature—the ground broken, the crop up, the crop in, and the work put down—and the Vylarian courts and counting-houses that have never held a plow use them without remark.
 
-1. **Newday**—the week's first, and the day a piece of work is begun on.
-2. **Tillday**—the ground worked.
-3. **Growday**—the crop left to stand.
-4. **Harvestday**—the crop taken.
-5. **Reapday**—the field cleared behind it.
-6. **Slowday**—the week running down, and the day accounts are settled on.
-7. **Setday**—the week set down, and nothing begun on it.
+1. **[Newday]{.name data-type="lore/calendar"}**—the week's first, and the day a piece of work is begun on.
+2. **[Tillday]{.name data-type="lore/calendar"}**—the ground worked.
+3. **[Growday]{.name data-type="lore/calendar"}**—the crop left to stand.
+4. **[Harvestday]{.name data-type="lore/calendar"}**—the crop taken.
+5. **[Reapday]{.name data-type="lore/calendar"}**—the field cleared behind it.
+6. **[Slowday]{.name data-type="lore/calendar"}**—the week running down, and the day accounts are settled on.
+7. **[Setday]{.name data-type="lore/calendar"}**—the week set down, and nothing begun on it.
 
 Nothing divides the year evenly into weeks, so the seven run across the turn of the year as they run across the turn of a month. A date keeps its place in the calendar and does not keep its weekday, and a Vylarian who wants both consults an almanac like everybody else.
 

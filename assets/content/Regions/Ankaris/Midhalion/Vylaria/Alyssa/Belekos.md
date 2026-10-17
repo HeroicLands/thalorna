@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Belekos is a city of wealthy merchant families, with opulent townhouses and manicured gardens that look down on the fertile river valleys supplying much of Alessa's grain. It makes nothing that anyone travels to buy. Its prosperity comes from controlling the agricultural surplus of the valleys and the trade that carries it away.
+Belekos is a city of wealthy merchant families, with opulent townhouses and manicured gardens that look down on the fertile river valleys supplying much of [[place-alyssa|Alessa]]'s grain. It makes nothing that anyone travels to buy. Its prosperity comes from controlling the agricultural surplus of the valleys and the trade that carries it away.
 
 A grain factor of one of the great houses, walking a newly hired clerk through the city on his first morning, makes the point at the first gate he comes to: "You came in by the front door, and you are standing in the counting room. Here the family sleeps upstairs, the sacks are stored behind, and the ledger is read in the hall where the guests are received. A house in Belekos does not keep its business out of sight, and you should not be surprised to find how much of the family's life you are expected to keep out of the ledger."
 

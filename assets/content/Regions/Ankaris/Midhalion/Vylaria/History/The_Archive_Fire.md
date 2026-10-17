@@ -46,17 +46,17 @@ data:
         - which of the Republic's rolls were lost, and which had been copied out elsewhere
 ---
 
-A third-year scribe of the Imperial Scribal Guild, set to indexing the archive, is taught the rule on his first morning: "Nothing on these shelves is older than the year the old archive burned. If a citation says otherwise, it is a copy, and your first duty is to say whose."
+In The Archive Fire, a third-year scribe of [[affiliation-imprlscrblgld|The Imperial Scribal Guild]], set to indexing the archive, is taught the rule on his first morning: "Nothing on these shelves is older than the year the old archive burned. If a citation says otherwise, it is a copy, and your first duty is to say whose."
 
 ## The Fire
 
-The imperial archive stood on [[place-arvel|Arvel]], in the compound of the Offices inside the [[place-arvon|Inner City]]. When the Senate moved up the hill ([[lore-eaglecityrse|The Raising of the Eagle City]]) it carried the rolls of the Republic with it, and the archive grew by every edict the Founder's line and their successors issued. About 318 it burned. The fire took most of the first three centuries of imperial edicts and the greater part of the Republic's rolls, and with them the dockets of the Kandral.
+The imperial archive stood on [[place-arvel|Arvel]], in the compound of the [Imperial Offices]{.name data-type="place/structure"} inside [[place-arvon|Arvon]] (the Inner City). When [[affiliation-seldan|Seldan]] (the Senate) moved up the hill ([[lore-eaglecityrse|The Raising of the Eagle City]]) it carried the rolls of the Republic with it, and the archive grew by every edict the Founder's line and their successors issued. About 318 it burned. The fire took most of the first three centuries of imperial edicts and the greater part of the Republic's rolls, and with them the dockets of the [Kandral]{.name data-type="affiliation/governmental"}.
 
 The cause was never established, and the question was never put in public. A house of paper burns. The Senate recorded the loss and turned to its replacement.
 
 ## The Guild
 
-The Imperial Scribal Guild had been chartered in the first century of the Empire to write the Empire's documents. After the fire the Empire gave it the custody of what was written next. The archive the Guild keeps in Orzara begins in 318, and every original in it was written after the fire. The Guild keeps provincial archives at each chapterhouse as well, and many of the copies by which the Republic is now read were made from those. The Guild's charter is renewed by imperial edict in the eighty-third year of the present dynasty, about 489 AF.
+The Imperial Scribal Guild had been chartered in the first century of the [[affiliation-vylarinmpr|Vylarian Empire]] to write the Empire's documents. After the fire the Empire gave it the custody of what was written next. The archive the Guild keeps in [[place-orzara|Orzara City]] begins in 318, and every original in it was written after the fire. The Guild keeps provincial archives at each chapterhouse as well, and many of the copies by which the Republic is now read were made from those. The Guild's charter is renewed by imperial edict in the eighty-third year of the present dynasty, about 489 AF.
 
 ## What It Left
 

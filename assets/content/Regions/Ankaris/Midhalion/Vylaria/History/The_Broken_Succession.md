@@ -65,19 +65,19 @@ data:
       unresolved: [whether Barnakis left a will that the Guard Camp suppressed]
 ---
 
-A junior officer of the Sorvan, shown the Guard Camp's long gallery of Orzoi' busts on his first day, is told that one niche is empty and two are crowded. "The empty one is the Sorvan's man," his sergeant says, "and the crowded ones are what the Senate and the legions say. Ask nobody which is which. The gallery was hung by the winner."
+In The Broken Succession, a junior officer of [[affiliation-sorvan|The Sorvan]], shown the long gallery of Orzoi' busts at [[place-thaurzurgalis|Thaurzurgalis]] (the Guard Camp) on his first day, is told that one niche is empty and two are crowded. "The empty one is the Sorvan's man," his sergeant says, "and the crowded ones are what [[affiliation-seldan|Seldan]] (the Senate) and the legions say. Ask nobody which is which. The gallery was hung by the winner."
 
 ## Three Claims
 
-Barnakis died in 389 with no heir named. A reigning Orzas names his successor in his lifetime, and the Empire had never needed to settle the matter any other way. His strongest army was across the sea ([[lore-deltaexped|The Delta Expedition]]), and the men left at home had to choose among themselves.
+[Barnakis]{.name data-type="being/npc"} died in 389 with no heir named. A reigning Orzas names his successor in his lifetime, and the [[affiliation-vylarinmpr|Vylarian Empire]] had never needed to settle the matter any other way. His strongest army was across the sea ([[lore-deltaexped|The Delta Expedition]]), and the men left at home had to choose among themselves.
 
-The [[affiliation-sorvan|Sorvan]] chose first. Within the day the gates of the [[place-thaurzurgalis|Thaurzurgalis]] opened to its own candidate, **Kadelos**, and the guard held the palace hill. The [[affiliation-seldan|Senate]] met in the Eagle City and acclaimed **Sylarion**, a _kurthos_ (senator) of an old house with no army and a great deal of precedent. In the north the legions of [[place-moktur|Moktur]] acclaimed their _felzos_ (legate), **Makandas**, and began to march.
+The Sorvan chose first. Within the day the gates of Thaurzurgalis opened to its own candidate, **[Kadelos]{.name data-type="being/npc"}**, and the guard held the palace hill. The Senate met in [[place-arvon|Arvon]] (the Eagle City) and acclaimed **[Sylarion]{.name data-type="being/npc"}**, a _kurthos_ (senator) of an old house with no army and a great deal of precedent. In the north the legions of [[place-moktur|Moktur]] acclaimed their _felzos_ (legate), **[Makandas]{.name data-type="being/npc"}**, and began to march.
 
 Each claimant carried an eagle and held a part of the Empire's revenue, and none could take the others'. For sixteen years the Empire had three Orzoi.
 
 ## What the Years Taught
 
-The Guard Camp learned that the gate decides a reign, and every Orzas since has paid the guard in donatives on accession and at intervals after. The Senate learned how to make an Orzas and how little a made one is worth without a legion. The legions learned that the Senate, the guard and the throne could all be walked over by an army that held the right granaries. The war that settled the claims ([[lore-olcassabtl|The Battle of Olkassa]]) was fought over Hilen's granaries.
+The Guard Camp learned that the gate decides a reign, and every Orzas since has paid the guard in donatives on accession and at intervals after. The Senate learned how to make an Orzas and how little a made one is worth without a legion. The legions learned that the Senate, the guard and the throne could all be walked over by an army that held the right granaries. The war that settled the claims ([[lore-olcassabtl|The Battle of Olkassa]]) was fought over [[place-hylen|Hilen]]'s granaries.
 
 ## What It Left
 
