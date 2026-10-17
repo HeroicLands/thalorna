@@ -51,17 +51,17 @@ data:
         - why the Arcane Order wanted a kingdom here when it already advised every court on the island
 ---
 
-The last king of **Dúnavarre** is remembered, in so far as he is remembered, for his chair. **Yenral** was set aside about 490 AF without a blow and lived out his life in comfort at [[place-ravenmoor|Ravenmoor]]. The chair he sat in at the head of the hall is still there, kept and dusted, and no one has sat in it since.
+In The Mages Take Dúnavarre, the last king of the **[[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]** is remembered, in so far as he is remembered, for his chair. **[Yenral]{.name data-type="being/npc"}** was set aside about 490 AF without a blow and lived out his life in comfort at [[place-ravenmoor|Ravenmoor]]. The chair he sat in at the head of the hall is still there, kept and dusted, and no one has sat in it since.
 
 ## Three Reigns
 
-The [[affiliation-ordoarcanis|Thordimalon]] came to Dúnavarre as advisors, as it came to every Aelwythan court, and the advisors at Ravenmoor were more capable than the kings they served. The first king lost his treasury to an advisor who kept it solvent. The second lost the courts to a _marendos_ (master) who kept them honest. The third lost the harbors and the host, each to a mage who held it better, and the last held nothing that had to be done. The crown became ceremonial a reign at a time, and the day it was set aside was a day on which nothing changed. The Synod governed the day before, and it governed the day after.
+[[affiliation-ordoarcanis|Thordimalon]] came to Dúnavarre as advisors, as it came to every Aelwythan court, and the advisors at Ravenmoor were more capable than the kings they served. The first king lost his treasury to an advisor who kept it solvent. The second lost the courts to a _marendos_ (master) who kept them honest. The third lost the harbors and the host, each to a mage who held it better, and the last held nothing that had to be done. The crown became ceremonial a reign at a time, and the day it was set aside was a day on which nothing changed. The [[affiliation-dunavarsynod|Dúnavarre Synod]] governed the day before, and it governed the day after.
 
-The kingdom's own chronicles tell this as a natural evolution, and the account is consistent with the facts as far as they are recorded. [[affiliation-kngdmldrth|Aldorath]] and [[affiliation-repblcndrth|Ondareth]] tell it as a coercion, and the account is consistent with the same facts. The Synod's records do not decide between them and the Synod has never been asked to open them.
+The kingdom's own chronicles tell this as a natural evolution, and the account is consistent with the facts as far as they are recorded. The [[affiliation-kngdmldrth|Kingdom of Aldorath]] and the [[affiliation-repblcndrth|Republic of Ondareth]] tell it as a coercion, and the account is consistent with the same facts. The Synod's records do not decide between them and the Synod has never been asked to open them.
 
 ## The Synod and Its Arm
 
-The Synod governs from Ravenmoor, with no head named outside its closed session. Its arm is the [[affiliation-justbladeordr|Order of the Just Blade]], whose Knight-Captains command the realm's forces under the Synod's authority and carry [[affiliation-ardavon|Árdavon's]] principles into the field. The arrangement gave the Arcane Order the one kingdom in the world where it holds direct power, and it gave the island's other courts a neighbor that can withdraw their advisors.
+The Synod governs from Ravenmoor, with no head named outside its closed session. Its arm is the [[affiliation-justbladeordr|Order of the Just Blade]], whose Knight-Captains command the realm's forces under the Synod's authority and carry the principles of the [[affiliation-ardavon|Faith of Árdavon]] into the field. The arrangement gave the Arcane Order the one kingdom in the world where it holds direct power, and it gave the island's other courts a neighbor that can withdraw their advisors.
 
 ## What It Left
 

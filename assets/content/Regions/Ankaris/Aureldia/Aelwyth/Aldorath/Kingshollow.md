@@ -14,12 +14,12 @@ data:
   government: kngdmldrth
 ---
 
-**Kingshollow** is a village of perhaps fourteen hundred in a sheltered fold of Aldorath's eastern
+**Kingshollow** is a village of perhaps fourteen hundred in a sheltered fold of the [[place-aldorathrgn|Aldorath Region]]'s eastern
 country, and it would be of no consequence at all except for what stands in it.
 
 ## The Old Seat
 
-The kings of Aldorath came from here: the first of them, Drethar, was crowned in the chapel about 120 AF ([[lore-kingshlwcrwn|the Crowning at Kingshollow]]). The hall at Kingshollow is the dynasty's original seat, kept in
+The kings of the [[affiliation-kngdmldrth|Kingdom of Aldorath]] came from here: the first of them, [Drethar of Kingshollow]{.name data-type="being/npc"}, was crowned in the chapel about 120 AF ([[lore-kingshlwcrwn|The Crowning at Kingshollow]]). The hall at Kingshollow is the dynasty's original seat, kept in
 repair for six centuries, and though the court moved to [[place-dunmere|Dunmere]] long ago the hall has
 never been given up. Kings are still crowned in the chapel beside it, still keep the midwinter feast
 there when they can, and are still buried in the ground behind it.

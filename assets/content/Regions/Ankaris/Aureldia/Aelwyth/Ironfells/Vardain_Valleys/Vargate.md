@@ -15,16 +15,16 @@ data:
 ---
 
 **Vargate** stands at the foot of the road that climbs to [[place-vorgald|Vorgald]], and it is the only
-reason anyone outside the [[place-vardainvalleys|valleys]] has heard of the
-[[lore-vardain|Vardain]]. Fifteen hundred people—much the largest settlement in the Ironfells, and
-larger than anything in [[affiliation-jrldmstrmvld|Stormveld]] but its seat.
+reason anyone outside [[place-vardainvalleys|The Vardain Valleys]] has heard of
+[[lore-vardain|The Vardain]]. Fifteen hundred people—much the largest settlement in [[place-ironfells|The Ironfells]], and
+larger than anything in the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] but its seat.
 
 ## The Gate
 
-The town's name is its function. **Everything the Khazari send down comes through Vargate, and
+The town's name is its function. **Everything the [[lore-flkkhazar|Khazár Folk]] send down comes through Vargate, and
 everything they receive goes up from it**, and there is no second route.
 
-The exchange happens at the **Weighing Yard** at the top of the town: Vardain factors bring up what has
+The exchange happens at the **[Weighing Yard]{.name data-type="place/site"}** at the top of the town: Vardain factors bring up what has
 been contracted—grain, cheese, fodder, fuel, worked timber—and take down what has been made. No
 outsider is admitted to the yard and no Khazár is seen below it. What passes between the yard and the
 Gate above is Vardain business, conducted by a small number of families who have done it for
@@ -49,7 +49,7 @@ Vardain factors answer with the same three sentences every year.
 ## The Market
 
 Below the yard is an ordinary and rather good mountain market, and this is where outsiders come. Buyers
-from [[place-ashford|Ashford]] and [[place-greywater|Greywater]] climb up two or three times a year for
+from Ashford and Greywater climb up two or three times a year for
 the Khazari goods—instruments, fine tools, wire, springs, worked stone, and metalwork of a quality
 that makes mainland smiths ask uncomfortable questions about who really made it.
 

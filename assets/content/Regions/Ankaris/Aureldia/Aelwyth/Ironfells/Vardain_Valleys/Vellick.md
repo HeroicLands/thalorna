@@ -14,11 +14,11 @@ data:
   packFolder: aelwyth
 ---
 
-**Vellik** sits where the beck drops enough to drive hammers, and it is where the
-[[lore-vardain|Vardain]] work metal. Seven hundred people, most of them in the trade or
+**Vellik** sits where the beck drops enough to drive hammers, and it is where
+[[lore-vardain|The Vardain]] work metal. Seven hundred people, most of them in the trade or
 married into it.
 
-Vellik's smiths are the best human smiths in Aelwyth by a distance nobody bothers to dispute, and the
+Vellik's smiths are the best human smiths in [[place-aelwyth|Aelwyth]] by a distance nobody bothers to dispute, and the
 reason is not secret: some part of Khazari technique has been taught here, deliberately, over a very
 long time. Not the deep craft—the Vardain are clear that what they have is the shallow end of it—but enough that a Vellik blade or a Vellik spring is a different order of object from anything made at
 [[place-dunmere|Dunmere]].

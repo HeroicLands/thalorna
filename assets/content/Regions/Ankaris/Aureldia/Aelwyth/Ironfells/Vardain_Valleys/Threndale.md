@@ -27,7 +27,7 @@ At the lower end is ground opened sixty years ago and still in use. It holds tho
 out of the plain during the conquest, and since then the refugees who reached the valleys and did not
 live long after, and now their children.
 
-The Vardain call it the **new ground**, and its existence is the plainest statement in the valleys of
+[[lore-vardain|The Vardain]] call it the **new ground**, and its existence is the plainest statement in the valleys of
 what happened to [[place-vardanreach|Vardanreach]]—plainer than anything anybody says aloud. It is
 also, pointedly, still being added to, because people still come over the mountains—and a good many
 of those buried in the new ground are the ones who very nearly did. It is a climb of nearly six

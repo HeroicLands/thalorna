@@ -14,18 +14,18 @@ data:
   packFolder: aelwyth
 ---
 
-The **Greylevels** are the low, wet, tidal country where eastern Aldorath drains to the sea: flat
+The **Greylevels** are the low, wet, tidal country where the eastern part of the [[place-aldorathrgn|Aldorath Region]] drains to the sea: flat
 grazing, drained marsh, winding channels and extensive mudflats, with [[place-greywater|Greywater]] at
 the head of navigation. Twenty-four thousand people live on them, most within sight of water.
 
 ## The Outlet
 
 The Levels are Aldorath's connection to everywhere else. Everything the kingdom sells—grain from the
-[[place-aldorvale|Aldorvale]], wool off [[place-brynwold|Brynwold]], the wine of
+[[place-aldorvale|The Aldorvale]], wool off [[place-brynwold|Brynwold]], the wine of
 [[place-sunnerslade|Sunnerslade]]—comes down the river and out through Greywater, and everything the
 kingdom buys comes back the same way.
 
-Which means, since the Synod's requirement, that all of it calls at [[place-ravenmoor|Ravenmoor]] first.
+Which means, since the [[affiliation-dunavarsynod|Dúnavarre Synod]]'s requirement, that all of it calls at [[place-ravenmoor|Ravenmoor]] first.
 The Levels' shipmasters have views about this that they express freely at home and never in writing.
 
 ## The Ground

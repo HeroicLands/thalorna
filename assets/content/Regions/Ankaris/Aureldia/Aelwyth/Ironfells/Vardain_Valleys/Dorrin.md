@@ -18,7 +18,7 @@ data:
 east toward the sea cliffs. Four hundred people, and the view.
 
 That view is the village's function. From Dorrin one can see the eastern approaches, the coast below,
-and a long stretch of water—and the Vardain have watched from here for as long as they have been in
+and a long stretch of water—and [[lore-vardain|The Vardain]] have watched from here for as long as they have been in
 the mountains. A beacon stands above the village, laid ready, and has been lit four times in six
 hundred years.
 

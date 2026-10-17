@@ -14,17 +14,17 @@ data:
   packFolder: aelwyth
 ---
 
-Beneath [[place-vorgald|Vorgald]], in the eastern heights of the [[place-ironfells|Ironfells]], a
-system of high valleys runs down toward the sea cliffs. They hold about **eight thousand five hundred [[lore-vardain|Vardain]]**—one town and eight villages—and they are not part of any Aelwythan
+The Vardain Valleys are a system of high valleys running down toward the sea cliffs beneath [[place-vorgald|Vorgald]], in the eastern heights of [[place-ironfells|The Ironfells]].
+They hold about **eight thousand five hundred [[lore-vardain|Vardain]]**—one town and eight villages—and they are not part of any Aelwythan
 kingdom.
 
 No map made at [[place-dunmere|Dunmere]] or [[place-ravenmoor|Ravenmoor]] shows a border here, because
-neither realm has ever been in a position to draw one. The valleys are the Khazari's, and everyone
+neither realm has ever been in a position to draw one. The valleys are the [[lore-flkkhazar|Khazár Folk]]'s, and everyone
 concerned has found it easier not to raise the question.
 
 They are also all that is left free of [[place-vardanreach|Vardanreach]]—and the valleys were part of it. The Vardain
-nation held the whole of what is now [[affiliation-jrldmstrmvld|Stormveld]], something like a fifth of
-Aelwyth's land, and these mountains with it. When the Nordmen came in 660 AF ([[lore-stormveldtkn|the Taking of Stormveld]]) they devastated the lowlands and
+nation held the whole of what is now [[place-stormveld|Stormveld]], something like a fifth of
+[[place-aelwyth|Aelwyth]]'s land, and these mountains with it. When the Nordmen came in 660 AF ([[lore-stormveldtkn|The Taking of Stormveld]]) they devastated the lowlands and
 enslaved the people; a hundred and twenty thousand Vardain are thralls down there now, and what reached
 the high valleys was a remnant of a remnant.
 
@@ -39,13 +39,13 @@ hundred people can live here at all.
 
 The proportion matters and the Vardain never forget it. This is **one basin**: perhaps twenty miles from
 end to end and a few across at its widest, with two or three side valleys hanging off it. Below and
-north lies [[affiliation-jrldmstrmvld|Stormveld]]—an immense expanse, something like a fifth of
+north lies Stormveld—an immense expanse, something like a fifth of
 Aelwyth, all of it Vardanreach once and all of it conquered. The free Vardain hold a pocket in the
 mountains above a country they used to own.
 
 Within that pocket the ground is good. The floor is open and gently rolling: grass, scattered oak and
 thorn, becks running through it, with room for real fields and a great deal of grazing. It sits high, ringed on every side by the higher
-peaks of the [[place-ironfells|Ironfells]], and the ring is what makes it habitable—the bulk of the
+peaks of the Ironfells, and the ring is what makes it habitable—the bulk of the
 range takes the worst of the western weather, and the basin lies in its lee, cooler and wetter than the
 plain below and drier than the coast, though the wind funnels through it in a way the Vardain build
 against as a matter of course.
@@ -55,7 +55,7 @@ up the valley sides in courses a mainland engineer would stop and stare at. The 
 
 ## Six Thousand Feet
 
-The basin floor lies at about **six thousand feet**. The [[place-stormplain|Stormplain]] below is a
+The basin floor lies at about **six thousand feet**. [[place-stormplain|The Stormplain]] below is a
 couple of hundred feet above the sea. Everything about the Vardain follows from those two numbers.
 
 It is high, cold country with a **short season**—perhaps four months in which anything grows—and
@@ -64,8 +64,8 @@ hardy barley, and even those are a gamble in a bad year; the real living is **li
 moved, wintered and eaten, and hay, which is cut with an urgency outsiders find comic until they have
 seen a season fail.
 
-The basin is **shut by snow for months**. The road down to the lowlands closes, the passes over the
-[[place-sunderfells|Sunderfells]] close, and the valleys spend a third of the year entirely alone. The
+The basin is **shut by snow for months**. The road down to the lowlands closes, the passes over
+[[place-sunderfells|The Sunderfells]] close, and the valleys spend a third of the year entirely alone. The
 Vardain build, store and reckon accordingly, and their famous exactness with tallies is not a
 temperament—it is what you become when a miscount in autumn is discovered in February.
 
@@ -75,7 +75,7 @@ Farming this basin should not be possible. At six thousand feet, in a cool marit
 months of season and frost possible in any of them, an unaided human community would starve here inside
 a decade.
 
-It works because the [[lore-flkkhazar|Khazari]] have **engineered the valley**, and the scale of what
+It works because the Khazari have **engineered the valley**, and the scale of what
 they have done has no match among human works.
 
 ### The Water
@@ -144,7 +144,7 @@ happen if it did not. When something breaks they do not attempt it: they report 
 [[place-barakth|Hudhakal]] and wait, and an engineer comes down in a day or a week and it is dealt with.
 
 **And it is dealt with**, which is the part outsiders get wrong when they hear how dependent these
-people are. The dependence runs both ways and the [[lore-flkkhazar|Khazari]] have no more margin than
+people are. The dependence runs both ways and the Khazari have no more margin than
 the Vardain do: a failed conduit means a failed harvest, a failed harvest means an empty granary, and an
 empty granary in this basin means **nobody eats—Deep Folk included**. Vorgald cannot import its food
 and will not try. A request for repair is therefore not a petition to a lord who may or may not feel
@@ -154,7 +154,7 @@ Requests are refused only for a reason, and reasons are rare enough that the val
 occasions. What such a reason might be, the Vardain do not speculate about in front of strangers.
 
 The consequence for the Vardain is that they are the only humans in the world for whom the
-[[lore-flkkhazar|Khazari]] are an **ordinary sight**. Children in these valleys grow up seeing Deep Folk
+Khazari are an **ordinary sight**. Children in these valleys grow up seeing Deep Folk
 at work in the channels and on the walls. They are taught not to interrupt, not to follow, and not to
 ask what anything is for—and they mostly do not, because it has never occurred to them that a person
 might.
@@ -183,11 +183,11 @@ economic purpose of the district.
 
 ## Outside the Realms
 
-The Vardain pay no tax to Aldorath, send no levy to anyone, and appear in no realm's population. The
-Synod at Ravenmoor knows exactly how many of them there are and has never published the figure.
+The Vardain pay no tax to the [[affiliation-kngdmldrth|Kingdom of Aldorath]], send no levy to anyone, and appear in no realm's population. The
+[[affiliation-dunavarsynod|Dúnavarre Synod]] at Ravenmoor knows exactly how many of them there are and has never published the figure.
 
 On rare occasions—a handful of times in a century—the Khazari deal directly with
-[[affiliation-kngdmldrth|Aldorath]] or [[affiliation-kingdmdnvr|Dúnavarre]]. Every other transaction in
+Aldorath or the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]. Every other transaction in
 the history of the two realms with the Deep Folk has gone through Vardain hands.
 
 ## See Also

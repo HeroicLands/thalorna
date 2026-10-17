@@ -8,7 +8,7 @@ tags: [town, river, inland]
 data: {demonym: null, lore: [], parents: [aldorvale], population: 3200, packFolder: aelwyth}
 ---
 
-**Ashford** grew where the drove roads out of Aldorath's manorial country meet the ford, and it is the
+**Ashford** grew where the drove roads out of the [[place-aldorathrgn|Aldorath Region]]'s manorial country meet the ford, and it is the
 kingdom's principal market for what that country produces.
 
 Wool above all—Aldorath's estates run enormous flocks, and the clip is gathered, graded and sold at

@@ -8,7 +8,7 @@ tags: [town, hill, inland]
 data: {demonym: null, lore: [], parents: [brynwold], population: 1800, packFolder: aelwyth}
 ---
 
-**Brynhallow** sits high in Aldorath's upland country, where the manorial arable gives out and the land
+**Brynhallow** sits high in the [[place-aldorathrgn|Aldorath Region]]'s upland country, where the manorial arable gives out and the land
 is good for sheep, stone and very little else. Eighteen hundred people, and a reputation in the lowlands
 for being difficult.
 
@@ -24,7 +24,7 @@ back up.
 
 ## The Observances
 
-Brynhallow keeps the [[affiliation-arldnpnthn|Twelve]] and keeps something else as well, at the old
+Brynhallow honors the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] and keeps something else as well, at the old
 stones above the town, at the turnings of the year. The priest sent up from
 [[place-dunmere|Dunmere]] attends both and reports the parish devout, which is true, and complete, which
 it is not.

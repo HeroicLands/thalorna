@@ -14,9 +14,9 @@ data:
   government: jrldmstrmvld
 ---
 
-The **Sunderfells** are Stormveld's southern march: the northern arm of the [[place-ironfells|Ironfells]]
-where the range walls the Jarldom off from [[affiliation-kngdmldrth|Aldorath]]. Sixteen thousand people
-in high, wet, difficult country, and the most strategically important ground on Aelwyth.
+The **Sunderfells** are [[place-stormveld|Stormveld]]'s southern march: the northern arm of [[place-ironfells|The Ironfells]]
+where the range walls the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] off from the [[affiliation-kngdmldrth|Kingdom of Aldorath]]. Sixteen thousand people
+in high, wet, difficult country, and the most strategically important ground on [[place-aelwyth|Aelwyth]].
 
 ## The Passes
 

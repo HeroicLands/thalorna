@@ -35,4 +35,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A militant order of the [[affiliation-ardavon|Faith of Árdavon]], god of order and justice. Its Knight-Captains carry his principles into the field, and one of them, [[being-toradhtaravren|Dame Torad Taravren]], secretly holds the crusade against the Saelvri to be a betrayal of them. The Synod sent the Order against the Saelvri in the [[lore-saelvricrusade|Saelvri Crusade]].
+The Order of the Just Blade is a militant order of the [[affiliation-ardavon|Faith of Árdavon]], whose god represents order and justice. Its Knight-Captains carry his principles into the field, and one of them, [[being-toradhtaravren|Dame Torad Taravren]], secretly holds the crusade against the [[affiliation-saelvri|Saelvri]] to be a betrayal of them. The [[affiliation-dunavarsynod|Dúnavarre Synod]] sent the Order against the Saelvri in [[lore-saelvricrusade|The Saelvri Crusade]].

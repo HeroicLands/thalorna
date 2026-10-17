@@ -8,8 +8,8 @@ tags: [town, port, river]
 data: {demonym: null, lore: [], parents: [greylevels], population: 2900, packFolder: aelwyth}
 ---
 
-**Greywater** stands on the tidal reach of the river that drains eastern Aldorath, at the point where
-sea-going hulls can come up and no further. It is the kingdom's outlet: what Ashford gathers, Greywater
+**Greywater** stands on the tidal reach of the river that drains the eastern part of the [[place-aldorathrgn|Aldorath Region]], at the point where
+sea-going hulls can come up and no further. It is the kingdom's outlet: what [[place-ashford|Ashford]] gathers, Greywater
 ships.
 
 ## The Trade
@@ -21,7 +21,7 @@ routes their grandfathers used.
 Every one of those routes now runs through [[place-ravenmoor|Ravenmoor]] first. Greywater hulls
 bound for the mainland must call at the Dúnavarren capital to be inspected before they may leave, and
 must call again on the way home; Greywater regards this as an imposition, has regarded it so for
-generations, and complies without exception. The town's opinion of the Synod is unprintable and entirely
+generations, and complies without exception. The town's opinion of the [[affiliation-dunavarsynod|Dúnavarre Synod]] is unprintable and entirely
 private.
 
 ## The Water

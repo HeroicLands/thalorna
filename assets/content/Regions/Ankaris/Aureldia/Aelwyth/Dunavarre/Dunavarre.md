@@ -16,13 +16,13 @@ data:
 
 ## Overview
 
-Dúnavarre is the land of [[affiliation-kingdmdnvr|The Kingdom of Dúnavarre]], and lies on the southeastern coast of [[place-aelwyth|Aelwyth]].
+Dúnavarre is the land of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and lies on the southeastern coast of [[place-aelwyth|Aelwyth]].
 
 Its sheltered harbors, fertile coastal plains, and proximity to the mainland have made it the island's gateway to the wider world.
 
 ## Notable Places
 
-- **Celivren:** Site of the prestigious Royal Celivren Tournament of Chivalry, one of the foremost martial competitions on the island.
+- **[Celivren]{.name data-type="place"}:** Site of the prestigious [Royal Celivren Tournament of Chivalry]{.name data-type="lore/gathering"}, one of the foremost martial competitions on the island.
 
 ## Population and Settlement
 

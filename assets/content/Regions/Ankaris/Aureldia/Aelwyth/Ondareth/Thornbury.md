@@ -14,7 +14,7 @@ data:
   government: repblcndrth
 ---
 
-**Thornbury** is the seat of the [[affiliation-repblcndrth|Republic of Ondareth]], on Aelwyth's western
+**Thornbury** is the seat of the [[affiliation-repblcndrth|Republic of Ondareth]], on [[place-aelwyth|Aelwyth]]'s western
 coast: fourteen thousand people, the republic's chief harbor, and the stage on which its entire
 political performance is mounted.
 
@@ -26,17 +26,17 @@ seen—and it is where the Senate meets, in bordered mantles of the wrong cut, t
 of a hundred and fifty thousand people with the ceremony of an empire of twenty-one million.
 
 Around it stand the offices, the courts and the assembly ground, laid out on a plan copied from an
-account of [[place-orzara|Orzara]] and adapted, without acknowledgement, to a much smaller and
+account of [[place-orzara|Orzara City]] and adapted, without acknowledgement, to a much smaller and
 considerably wetter site.
 
 ## The Tyrant's Rock
 
-Above the harbor stands the rock where **Tralkar**, the last king of the coast, had his castle until [[lore-ondarethfall|the rising]] threw it down. What is left is a course of foundation stones and a gap where the gate stood. The republic raised no monument to
+Above the harbor stands the rock where **[Tralkar]{.name data-type="being/npc"}**, the last king of the coast, had his castle until [[lore-ondarethfall|The Fall of the Last King of Ondareth]] threw it down. What is left is a course of foundation stones and a gap where the gate stood. The republic raised no monument to
 its liberation. It climbs the rock instead: once a year the Senate walks up from the Senate house in its bordered
 mantles, in procession and in order of precedence, and stands for the length of an oration among the stones.
 
-The shrines of the [[affiliation-blackflame|Black Flame]] send a delegation, as every interest in Thornbury does.
-The clergy of [[affiliation-selmoros|Sélmoros]] do not attend: they accept no civic office and take no part in the
+The shrines of [[affiliation-blackflame|The Black Flame]] send a delegation, as every interest in Thornbury does.
+The clergy of the [[affiliation-selmoros|Faith of Sélmoros]] do not attend: they accept no civic office and take no part in the
 Senate's observances, and the procession is one.
 
 The rock is a recurring ambition. A senator who wants to build wants it as the site of his house, and the

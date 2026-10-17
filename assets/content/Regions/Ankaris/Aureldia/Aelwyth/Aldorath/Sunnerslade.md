@@ -15,8 +15,8 @@ data:
 ---
 
 **Sunnerslade** is the strip of south- and west-facing slope where the
-[[place-ironfells|Ironfells]] foothills come down into the [[place-aldorvale|Aldorvale]], and it is the
-warmest, driest and most improbable ground on Aelwyth.
+foothills of [[place-ironfells|The Ironfells]] come down into [[place-aldorvale|The Aldorvale]], and it is the
+warmest, driest and most improbable ground on [[place-aelwyth|Aelwyth]].
 
 ## Why the Wine Exists
 

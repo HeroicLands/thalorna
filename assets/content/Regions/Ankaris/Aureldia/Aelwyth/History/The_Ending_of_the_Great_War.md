@@ -60,22 +60,22 @@ data:
         - whether the Khazari meant to leave the island to the humans, or merely stopped wanting it
 ---
 
-The saying in the Vardain valleys is short: the Khazari finished it, and then they went home. It is a complete account of how the **Great War** ended on [[place-aelwyth|Aelwyth]], and it leaves out only the question of why a people who had just won would go home.
+The Ending of the Great War is recalled by a short saying in [[place-vardainvalleys|The Vardain Valleys]]: the [[lore-flkkhazar|Khazár Folk]] finished it, and then they went home. It is a complete account of how the **[Great War]{.name data-type="lore/history"}** ended on [[place-aelwyth|Aelwyth]], and it leaves out only the question of why a people who had just won would go home.
 
 ## A War With Nobody Left to Fight It
 
-The Great War had been two centuries of arrival and reprisal between the [[lore-pelwarpepl|Pelwar]] refugees of the island and the elder kingdom that could not absorb them. When the Sinale king fell at the [[place-threesisters|Three Sisters]] in 984 BF the [[lore-flksinale|Sinale]] left the field and the crown, and the [[lore-flkkhazar|Khazari]] stayed to finish a war they had joined as one half of a government. They did it in a few seasons, as they do anything that has been decided, and then they stopped.
+The Great War had been two centuries of arrival and reprisal between the refugees of the [[lore-pelwarpepl|Pelwar People]] on the island and the elder kingdom that could not absorb them. When the Sinale king fell at [[place-threesisters|The Three Sisters]] in 984 BF the [[lore-flksinale|Sinale Folk]] left the field and the crown, and the Khazari stayed to finish a war they had joined as one half of a government. They did it in a few seasons, as they do anything that has been decided, and then they stopped.
 
-They did not take the island. A hold grows nothing and needs farmers within reach of its gate, and the Khazari had never wanted the lowlands, only the people on them who fed [[place-vorgald|Vorgald]]. So they kept what a hold needs: the [[place-ironfells|Ironfells]] and the north-east plain, with the high valleys, held for the [[lore-vardain|Vardain]] who farmed it. Everything else, from the interior and the coast to the western uplands and the forest edge, they left to the Pelwar who had fought them. No oath was sworn and no line was drawn; the garrisons went back inside the mountain, and the Pelwar found that nobody remained to dispute the ground.
+They did not take the island. A hold grows nothing and needs farmers within reach of its gate, and the Khazari had never wanted the lowlands, only the people on them who fed [[place-vorgald|Vorgald]]. So they kept what a hold needs: [[place-ironfells|The Ironfells]] and the north-east plain, with the high valleys, held for [[lore-vardain|The Vardain]] who farmed it. Everything else, from the interior and the coast to the western uplands and the forest edge, they left to the Pelwar who had fought them. No oath was sworn and no line was drawn; the garrisons went back inside the mountain, and the Pelwar found that nobody remained to dispute the ground.
 
 ## Whose Roads
 
-The works of the [[lore-jointcrown|Joint Crown]] stood on that ground and had no keepers. The Sinale did not return for their avenues and the Khazari did not send masons to repair their roadbeds. The Pelwar settled beside them, used the roads, quarried the footings for their first walls, and forgot who had laid them. The realms that rose on the island in the following centuries stand on this settlement, and none of their charters mentions it.
+The works of [[lore-jointcrown|The Joint Crown of Aelwyth]] stood on that ground and had no keepers. The Sinale did not return for their avenues and the Khazari did not send masons to repair their roadbeds. The Pelwar settled beside them, used the roads, quarried the footings for their first walls, and forgot who had laid them. The realms that rose on the island in the following centuries stand on this settlement, and none of their charters mentions it.
 
 ## What It Left
 
-- **The bounds of Vardanreach.** A fifth of the island, kept by the one hold that never claimed to rule it.
-- **A friendship of thousands of years.** The Vardain's standing with Vorgald, which lasts until the [[lore-stormveldtkn|Nordmen take the plain]] in 660 AF.
+- **The bounds of [[place-vardanreach|Vardanreach]].** A fifth of the island, kept by the one hold that never claimed to rule it.
+- **A friendship of thousands of years.** The Vardain's standing with Vorgald, which lasts until [[lore-stormveldtkn|The Taking of Stormveld]] by the Nordmen in 660 AF.
 - **Every Aelwythan realm's ground.** Land that came to the humans because the elder races stopped, and not because anyone gave it.
 - **An unwritten ending.** The Khazari archive records the war and its end in the same entry, and the entry is two lines long.
 

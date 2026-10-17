@@ -62,19 +62,19 @@ data:
         - whether any Saelvri survived the three days, and whether a child was carried out of the wood
 ---
 
-Dúnavarre's own records call the **Saelvri** its nemesis. The crusade that ended them is the thing the Order of the Just Blade is least willing to describe and the Synod is most willing to describe briefly, as a necessary campaign against raiders. Neither account says why a people who raided could not be answered with a garrison.
+In The Saelvri Crusade, the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]'s own records call the **[[affiliation-saelvri|Saelvri]]** its nemesis. The crusade that ended them is the thing the [[affiliation-justbladeordr|Order of the Just Blade]] is least willing to describe and the [[affiliation-dunavarsynod|Dúnavarre Synod]] is most willing to describe briefly, as a necessary campaign against raiders. Neither account says why a people who raided could not be answered with a garrison.
 
 ## Nine Years
 
-The Saelvri lived in the valleys and woods of Aelwyth's south-east, among the forest peoples of the island, with their own speech, their own rites and their own dead. The Synod declared them a danger to the island in about 694 AF, and the [[affiliation-justbladeordr|Order of the Just Blade]] took the field. The Knight-Captains drove them out valley by valley, burning steadings and taking the passes, and the Saelvri withdrew toward the oldest of their woods. By the turn of the year about 703 AF the last of them, several thousand with their children, were gathered in it, and the Order went in. The killing took three days.
+The Saelvri lived in the valleys and woods of [[place-aelwyth|Aelwyth]]'s south-east, among the forest peoples of the island, with their own speech, their own rites and their own dead. The Synod declared them a danger to the island in about 694 AF, and the Order of the Just Blade took the field. The Knight-Captains drove them out valley by valley, burning steadings and taking the passes, and the Saelvri withdrew toward the oldest of their woods. By the turn of the year about 703 AF the last of them, several thousand with their children, were gathered in it, and the Order went in. The killing took three days.
 
 ## What the Knights Heard
 
-The stated reason was raiding, and the Order's knights, who were sent to answer raids, found little to support it. The knights heard others from the Synod's _marendoi_ (masters) and from one another: that the Saelvri held a thing the Synod wanted, that they had refused it and that they were dangerous for it. The accounts did not agree and none was confirmed. Most of the Order's Knight-Captains did their duty and have not spoken of it. One of them, [[being-toradhtaravren|Dame Torad Taravren]], fought in the crusade as a decorated warrior of several campaigns and holds it contrary to the principles of the Order and of [[affiliation-ardavon|Árdavon]], the god it serves. She has said so to no one.
+The stated reason was raiding, and the Order's knights, who were sent to answer raids, found little to support it. The knights heard others from the Synod's _marendoi_ (masters) and from one another: that the Saelvri held a thing the Synod wanted, that they had refused it and that they were dangerous for it. The accounts did not agree and none was confirmed. Most of the Order's Knight-Captains did their duty and have not spoken of it. One of them, [[being-toradhtaravren|Dame Torad Taravren]], fought in the crusade as a decorated warrior of several campaigns and holds it contrary to the principles of the Order and of the [[affiliation-ardavon|Faith of Árdavon]], whose god the Order serves. She has said so to no one.
 
 ## The Wood
 
-The ground where the last of them fell is the [[place-hushwood|Hushwood]], the newest blood-field in Aureldia. The Saelvri's own rite for their dead is unknown to the living, and their dead are not the Synod's to settle.
+The ground where the last of them fell is [[place-hushwood|The Hushwood]], the newest blood-field in the [[place-aureldirgn|Aureldia Region]]. The Saelvri's own rite for their dead is unknown to the living, and their dead are not the Synod's to settle.
 
 ## What It Left
 

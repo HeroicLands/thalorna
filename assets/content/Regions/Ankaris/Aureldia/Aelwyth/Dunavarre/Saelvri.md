@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A people of Aelwyth against whom the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] prosecuted a crusade of extermination. The [[lore-saelvricrusade|Saelvri Crusade]] ran from about 694 to 703 AF and ended in the [[place-hushwood|Hushwood]].
+The Saelvri are a people of [[place-aelwyth|Aelwyth]] against whom the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] prosecuted a crusade of extermination. [[lore-saelvricrusade|The Saelvri Crusade]] ran from about 694 to 703 AF and ended in [[place-hushwood|The Hushwood]].

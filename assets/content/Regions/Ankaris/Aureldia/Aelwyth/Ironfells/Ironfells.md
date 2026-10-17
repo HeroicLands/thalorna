@@ -14,10 +14,10 @@ data:
   culture: khazariclt
 ---
 
-The **Ironfells** are the spine of eastern Aelwyth. They rise along the southern border of
-[[affiliation-jrldmstrmvld|Stormveld]], run eastward to the coast, and then turn **south down the
+The **Ironfells** are the spine of eastern [[place-aelwyth|Aelwyth]]. They rise along the southern border of
+[[place-stormveld|Stormveld]], run eastward to the coast, and then turn **south down the
 eastern seaboard**, falling away by degrees into the foothills and at last into the lowlands of
-[[affiliation-kingdmdnvr|Dúnavarre]].
+[[place-dunavarre|Dúnavarre]].
 
 They are not high by continental standards and they do not need to be. Aelwyth is a **cool, wet
 island**, and the Ironfells are steep, sodden, thickly weathered and snow-covered for a third of the
@@ -25,9 +25,9 @@ year—country that is crossed at two places and otherwise gone round.
 
 ## The Two Passes
 
-Only **two passes** carry traffic between the Stormveld plain and Aldorath, and both run through deep
-wilderness on either approach. They are the reason the Jarldom's expansion southward has never happened
-and the reason Aldorath has never seriously attempted to take the north-east back: an army can get
+Only **two passes** carry traffic between the Stormveld plain and the [[place-aldorathrgn|Aldorath Region]], and both run through deep
+wilderness on either approach. They are the reason the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]'s expansion southward has never happened
+and the reason the [[affiliation-kngdmldrth|Kingdom of Aldorath]] has never seriously attempted to take the north-east back: an army can get
 through, but only in single file, only in summer, and only if nobody is holding the far end.
 
 The passes are watched from the south at [[place-caerwynd|Kaerwynd]] and from the north by whichever
@@ -46,20 +46,20 @@ them, and why Aldorath's wine is worth carrying to the mainland.
 ## The Khazari
 
 Somewhere in the eastern heights, where the range meets the sea cliffs, is
-[[place-vorgald|Vorgald]]—a hold of the [[lore-flkkhazar|Khazari]], the Deep Folk. That it exists
+[[place-vorgald|Vorgald]]—a hold of the [[lore-flkkhazar|Khazár Folk]], the Deep Folk. That it exists
 is known. Very little else is.
 
-They came to this range **around 3100 BF**, while [[lore-khazarturn|Khazartúrn]] still stood and its
+They came to this range **around 3100 BF**, before [[lore-khazarturn|The Fall of Khazartúrn]], when the city's
 people were still carrying holds outward from it. Vorgald is the far western end of that reach: a hold
 on an island, across open water, at the edge of the country its founders knew. A hold cannot import
-what it eats, so making one here meant first making farmers beneath it, and the [[lore-vardain|Vardain]]
+what it eats, so making one here meant first making farmers beneath it, and [[lore-vardain|The Vardain]]
 of the valleys below have fed this mountain ever since.
 
 The date is approximate and it is the Khazari's; no Aelwythan record goes anywhere near it. What it
 settles is the ground everything else in the island's elder history stands on. Khazartúrn fell seven
 centuries later and the two elder races stopped dealing with one another everywhere in the world—except here, where they had been living on the same ground for seven hundred years already. That is why
-the [[miscgear-secondvoice|Second Voice]] was to be held in trust on Aelwyth by both races together,
-and why the [[lore-flksinale|Sinale]] and Khazari of this island attempted a joint kingdom that no
+[[miscgear-secondvoice|The Second Voice]] was to be held in trust on Aelwyth by both races together,
+and why the [[lore-flksinale|Sinale Folk]] and Khazari of this island attempted a joint kingdom that no
 others of their kind have ever tried.
 
 ## See Also

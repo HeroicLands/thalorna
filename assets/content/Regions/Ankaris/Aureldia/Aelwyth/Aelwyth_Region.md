@@ -15,35 +15,35 @@ data:
 # terran_analog: "The British Isles, but with Ireland and Britain joined into a single landmass shaped like an inverted V. The western arm is trackless deep forest (the Peshtar Wilderness); the eastern arm is the British-analog kingdom belt (Stormveld in northeastern Scotland, the southern Aelwythan kingdoms in England-analog territory). The two arms meet at the misty northern apex."
 ---
 
-Off the western coast of [[place-ankrscntnnt|Ankaris Continent]], some two hundred and thirty miles out across the cold sea from the [[place-elavendre|Élavendri]] coast, Aelwyth is the island containing both [[place-aldorathrgn|Aldorath]] and [[place-dunavarre|Dúnavarre]], as well as Stormveld and Ondareth. Often called "the Misty Isle," it is a land of mystery where ancient ruins, lost temples, and forgotten cities stand as remnants of civilizations that have long since passed into legend.
+Off the western coast of the [[place-ankrscntnnt|Ankaris Continent]], some two hundred and thirty miles out across the cold sea from the [[place-elavendre|Élavendri]] coast, Aelwyth is the island containing both the [[place-aldorathrgn|Aldorath Region]] and [[place-dunavarre|Dúnavarre]], as well as [[place-stormveld|Stormveld]] and [[place-ondareth|Ondareth]]. Often called "the Misty Isle," it is a land of mystery where ancient ruins, lost temples, and forgotten cities stand as remnants of civilizations that have long since passed into legend.
 
 ## Geography
 
 Aelwyth is a large island of markedly unequal country, and its shape governs its politics.
 
-**The east** is mountain. The [[place-ironfells|Ironfells]] rise along the southern edge of
-[[affiliation-jrldmstrmvld|Stormveld]], run eastward to the sea, then turn **south down the coast**,
+**The east** is mountain. [[place-ironfells|The Ironfells]] rise along the southern edge of
+Stormveld, run eastward to the sea, then turn **south down the coast**,
 descending by degrees into foothills and at last into the lowlands of
-[[affiliation-kingdmdnvr|Dúnavarre]] in the south-east. Only **two passes** cross them, both through deep
+Dúnavarre in the south-east. Only **two passes** cross them, both through deep
 wilderness, and in their eastern heights is [[place-vorgald|Vorgald]], a hold of the
-[[lore-flkkhazar|Khazari]].
+[[lore-flkkhazar|Khazár Folk]].
 
-**The north-east** is [[affiliation-jrldmstrmvld|Stormveld]]: a great central plain, the
-[[place-stormplain|Stormplain]], walled by the [[place-nordfells|Nordfells]] to the north—perhaps half
-the Jarldom's ground—and the [[place-sunderfells|Sunderfells]] to the south.
+**The north-east** is Stormveld: a great central plain,
+[[place-stormplain|The Stormplain]], walled by [[place-nordfells|The Nordfells]] to the north—perhaps half
+the Jarldom's ground—and [[place-sunderfells|The Sunderfells]] to the south.
 
 **The north-west and much of the northern coast** is the forest of the
 [[place-pshtrwldrns|Peshtar Wilderness]], which runs east until it meets the Nordfells.
 
-**The center-east**, west of the Ironfells, is [[affiliation-kngdmldrth|Aldorath]]—the lush and fertile
+**The center-east**, west of the Ironfells, is the Aldorath Region—the lush and fertile
 country that is the **breadbasket of Aelwyth**, whose grain feeds the island and whose wool and wine are
 known as far as the mainland.
 
-**The west** is open: the [[place-cntrlhghlnds|Central Highlands]] at the island's middle, falling to the
-western coastal country of [[affiliation-repblcndrth|Ondareth]], and reaching north to the Peshtar forests.
+**The west** is open: [[place-cntrlhghlnds|The Central Highlands]] at the island's middle, falling to the
+western coastal country of Ondareth, and reaching north to the Peshtar forests.
 
-**The south**, below Aldorath and west of Dúnavarre, is the [[place-hallowwood|Hallowwood]]—deep
-fae forest where the [[lore-flksinale|Sinale]] of Aelwyth live, and which does not welcome visitors.
+**The south**, below Aldorath and west of Dúnavarre, is [[place-hallowwood|The Hallowwood]]—deep
+fae forest where the [[lore-flksinale|Sinale Folk]] of Aelwyth live, and which does not welcome visitors.
 
 ## Climate
 
@@ -53,7 +53,7 @@ The **western coast** has the worst of it. Wind comes off the ocean unbroken, fo
 condition of a great many days, and chill is the year-round expectation rather than the winter one. The
 northern coast is little better and the mountains are worse.
 
-The exceptions are two and both are sheltered. The [[place-cntrlhghlnds|Central Highlands]] stand
+The exceptions are two and both are sheltered. The Central Highlands stand
 above the coastal fog, which is a low thing, and are clearer and warmer than anywhere else—relative to
 Aelwyth, which is to say a Provenzian would still want his cloak. And the slopes of
 [[place-sunnerslade|Sunnerslade]], in the Ironfells' rain-shadow, are dry and warm enough to ripen
@@ -80,7 +80,7 @@ ORDER BY p.name.full COLLATE NOCASE
 
 ### Elder Race Enclaves
 
-The southern forests shelter ancient communities of [[lore-flksinale|Sinale]] (elves), who maintain a distant but real relationship with the crown of [[affiliation-kngdmldrth|Aldorath]]. The mountains northeast of Aldorath—the range separating the central lowlands from the [[affiliation-jrldmstrmvld|Stormveld]] coast—contain holds of the [[lore-flkkhazar|Khazari]] (dwarves), which few humans have seen and which are among the most reclusive of their kind anywhere in [[place-ankrscntnnt|Ankaris Continent]].
+The southern forests shelter ancient communities of Sinale (elves), who maintain a distant but real relationship with the crown of the [[affiliation-kngdmldrth|Kingdom of Aldorath]]. The mountains northeast of Aldorath—the range separating the central lowlands from the Stormveld coast—contain holds of the Khazari (dwarves), which few humans have seen and which are among the most reclusive of their kind anywhere on Ankaris.
 
 ### Minor Polities
 
@@ -88,41 +88,41 @@ Scattered between the major realms are smaller kingdoms, free cities, and indepe
 
 ## Religion
 
-The [[affiliation-arldnpnthn|Aureldian Pantheon]] is dominant in the southern and eastern kingdoms, with [[affiliation-arldnpnthn|Zunelas]], [[affiliation-arldnpnthn|Lusinia]], and [[affiliation-arldnpnthn|Karnavos]] being particularly prominent. [[affiliation-arldnpnthn|Árdavon]] holds special importance in Dúnavarre. The Nordmen of the Stormveld worship the [[affiliation-asguardian|Asguardian Pantheon]] gods. Local folk traditions—spirits of the lake, guardians of crossroads, ancestral ghosts—layer additional beliefs atop the formal pantheons.
+The twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] are dominant in the southern and eastern kingdoms, with the [[affiliation-zunelas|Faith of Zunelas]], the [[affiliation-lusinia|Faith of Lusinia]], and the [[affiliation-karnavos|Faith of Karnavos]] being particularly prominent. The [[affiliation-ardavon|Faith of Árdavon]] holds special importance in Dúnavarre. The Nordmen of the Stormveld worship the [[affiliation-asguardian|Asguardian Pantheon]] gods. Local folk traditions—spirits of the lake, guardians of crossroads, ancestral ghosts—layer additional beliefs atop the formal pantheons.
 
-The [[affiliation-repblcndrth|Republic of Ondareth]] in the west is the exception on the island and something of an exception in the Aureldian world. The [[affiliation-blackflame|Black Flame]]—suppressed nearly everywhere else—carries enormous influence there, for the straightforward reason that suppression requires magistrates and Ondareth's magistracies are for sale. So does [[affiliation-selmoros|Sélmoros]], the Silent Judge, for the opposite reason: in a republic whose courts work for whoever pays them, a god who cannot be bought is the only judge most Ondarethan will ever meet on equal terms with their betters.
+The [[affiliation-repblcndrth|Republic of Ondareth]] in the west is the exception on the island and something of an exception in the Aureldian world. [[affiliation-blackflame|The Black Flame]]—suppressed nearly everywhere else—carries enormous influence there, for the straightforward reason that suppression requires magistrates and Ondareth's magistracies are for sale. So does the [[affiliation-selmoros|Faith of Sélmoros]], whose god is known as the Silent Judge, for the opposite reason: in a republic whose courts work for whoever pays them, a god who cannot be bought is, to believers, the only judge most Ondarethans will ever meet on equal terms with their betters.
 
 ## Magic
 
-Aelwyth is one of the most magically active regions in the known world. The great central bay is believed to be a nexus of mystical energy, and the veil between the mortal world and other realms is thinner here than anywhere outside of Élavendre.
+Aelwyth is one of the most magically active regions in the known world. The great central bay is believed to be a nexus of mystical energy, and the veil between the mortal world and other realms is thinner here than anywhere outside of [[place-elavendre|Élavendre]].
 
-The [[affiliation-panepistmm|the Epistémion]] maintains chapterhouses in each of Aelwyth's five great cities, functioning as they do everywhere—as houses of knowledge and learning, teaching all subjects and hosting sages of every philosophical discipline. As on the mainland, the [[affiliation-ordoarcanis|Thordimalon]] operates through these chapterhouses, using them to extend its influence over arcane practice. In [[affiliation-kingdmdnvr|Dúnavarre]], this influence has reached its logical extreme: the Arcane Order governs the kingdom outright through a Synod of mages, the only polity anywhere in [[place-ankrscntnnt|Ankaris Continent]] where the Arcane Order holds direct political power.
+The Epistémion maintains chapterhouses in each of Aelwyth's five great cities, functioning as they do everywhere—as houses of knowledge and learning, teaching all subjects and hosting sages of every philosophical discipline. As on the mainland, [[affiliation-ordoarcanis|Thordimalon]] operates through these chapterhouses, using them to extend its influence over arcane practice. In the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], this influence has reached its logical extreme: the Arcane Order governs the kingdom outright through the [[affiliation-dunavarsynod|Dúnavarre Synod]] of mages, the only polity anywhere on Ankaris where the Arcane Order holds direct political power.
 
-Elsewhere on the island, the relationship between the local rulers and their Epistémion (the Academy of Knowledge) chapterhouses varies—[[affiliation-kngdmldrth|Aldorath's]] feudal lords defer to their own seers on matters of prophecy, [[affiliation-repblcndrth|Ondareth's]] senate insists on civic oversight, and the Nordmen of [[affiliation-jrldmstrmvld|Stormveld]] are culturally indifferent to scholarly institutions. But even where the Epistémion (the Academy) is viewed with suspicion, the chapterhouses are respected and their presence tolerated. The Epistémion's power is not military but intellectual: its scholars educate the gentry's children, its sages provide expertise no local tradition can match, and its libraries hold knowledge available nowhere else. A polity that earns the Epistémion's sanction—losing access to its teachers, its specialists, and its accumulated wisdom—finds life considerably harder for its ruling class. This quiet leverage ensures that chapterhouse doors remain open across the island, whatever the local rulers may think of the Arcane Order lurking behind them.
+Elsewhere on the island, the relationship between the local rulers and their Epistémion (the Academy of Knowledge) chapterhouses varies—Aldorath's feudal lords defer to their own seers on matters of prophecy, Ondareth's senate insists on civic oversight, and the Nordmen of Stormveld are culturally indifferent to scholarly institutions. But even where the Epistémion (the Academy) is viewed with suspicion, the chapterhouses are respected and their presence tolerated. The Epistémion's power is not military but intellectual: its scholars educate the gentry's children, its sages provide expertise no local tradition can match, and its libraries hold knowledge available nowhere else. A polity that earns the Epistémion's sanction—losing access to its teachers, its specialists, and its accumulated wisdom—finds life considerably harder for its ruling class. This quiet leverage ensures that chapterhouse doors remain open across the island, whatever the local rulers may think of the Arcane Order lurking behind them.
 
 ## Relations
 
-Aelwyth's closest ties are with [[place-elavendre|Élavendre]] on the nearby mainland. Dúnavarre's southeastern harbors maintain trading relationships across the cold sea. The Nordmen of Stormveld maintain connections to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]. Ondareth has cultivated diplomatic channels with the [[affiliation-vylarinmpr|Vylarian Empire]].
+Aelwyth's closest ties are with [[place-elavendre|Élavendre]] on the nearby mainland. Dúnavarre's southeastern harbors maintain trading relationships across the cold sea. The Nordmen of Stormveld maintain connections to the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]. Ondareth has cultivated diplomatic channels with the [[affiliation-vylarinmpr|Vylarian Empire]].
 
 ## The Elder Kingdom
 
 Before there were kingdoms on Aelwyth there was one, and both elder races held it.
 
-After [[lore-khazarturn|Khazartúrn]] fell in 2427 BF the [[lore-flksinale|Sinale]] and
-[[lore-flkkhazar|Khazari]] ceased dealing with one another everywhere in the world—except on this
+After [[lore-khazarturn|The Fall of Khazartúrn]] in 2427 BF the Sinale and
+Khazari ceased dealing with one another everywhere in the world—except on this
 island, where instead they attempted to repair it. In time they united Aelwyth under a **single crown** held by a
 Sinale king and governed it together for **six centuries**: the only reconciliation either race has ever
-tried. The [[lore-jointcrown|Joint Crown]] was founded about 1585 BF.
+tried. [[lore-jointcrown|The Joint Crown of Aelwyth]] was founded about 1585 BF.
 
-It was ended by refugees. The **Pelwar**, driven off the mainland by the [[lore-varkhadcnq|Varkhad]],
+It was ended by refugees. The **[[lore-pelwarpepl|Pelwar People]]**, driven off the mainland by the [Varkhad]{.name data-type="lore/folk"} ([[lore-varkhadcnq|The Varkhad Conquest]]),
 reached Aelwyth around **1200 BF** with nowhere else to go, and an island has a fixed amount of good
-land. Two centuries of arrival and pressure and reprisal became the **Great War**, and in **984 BF** the
-king was killed by the Varkhad among them at the [[place-threesisters|Three Sisters]] in what is now the
-[[place-cntrlhghlnds|Central Highlands]]. The Sinale withdrew into the [[place-hallowwood|Hallowwood]];
+land. Two centuries of arrival and pressure and reprisal became the **[Great War]{.name data-type="lore/history"}**, and in **984 BF** the
+king was killed by the Varkhad among them at [[place-threesisters|The Three Sisters]] in what is now the
+Central Highlands. The Sinale withdrew into the Hallowwood;
 the Khazari finished the war alone and have not spoken to them since. How the war ended, and what it left
-to the humans who stayed, is told in [[lore-endgreatwar|the Ending of the Great War]].
+to the humans who stayed, is told in [[lore-endgreatwar|The Ending of the Great War]].
 
-Nearly every human on Aelwyth today descends from those refugees, the Peshtar among them. The exception is the Vardain, who descend from the humans the Khazari brought across before them, a much older line that is not Pelwar.
+Nearly every human on Aelwyth today descends from those refugees, the Peshtar among them. The exception is [[lore-vardain|The Vardain]], who descend from the humans the Khazari brought across before them, a much older line that is not Pelwar.
 
 ## The Crown Roads
 
@@ -140,7 +140,7 @@ them that way, and the [[lore-vardain|Vardain]], who know the stone better than 
 asked.
 
 Two of the roads are known for what they do. One stretch runs straight from the highland grazing to the edge
-of the [[place-hallowwood|Hallowwood]] and stops there at a bank of oaks, with no gate, no marker and no road
+of the Hallowwood and stops there at a bank of oaks, with no gate, no marker and no road
 beyond. A cellar in Veldareth has a door cut into its footing that does not open, and the household that owns the
 house does not say whether it has been tried.
 
@@ -150,7 +150,7 @@ Two things are true about Aelwyth at once, and neither of the people concerned b
 
 **Aelwythans think of themselves as the world.** Seven hundred thousand people on one island conduct
 their affairs with the entire seriousness of continental powers: the rivalry between
-[[affiliation-kngdmldrth|Aldorath]] and [[affiliation-kingdmdnvr|Dúnavarre]] is followed as great
+Aldorath and Dúnavarre is followed as great
 politics, the standing of the realms is weighed and argued, and a good Aelwythan family knows its
 position in an order it has never occurred to them is local. A single Vylarian province holds ten times
 as many people as the whole island. Most Aelwythans have no functional idea of this, and those who are
@@ -164,25 +164,25 @@ elsewhere_—and there has not been for generations.
 
 So every Aelwythan institution is conducted with total seriousness and no external measure. Aldorath's
 lords hold court as though their precedence mattered beyond the next valley; Dúnavarre's Synod deliberates
-as a great power; Stormveld's jarls reckon themselves conquerors of consequence. The most florid case is
-[[affiliation-repblcndrth|Ondareth]], which has built an entire imitation Vylarian republic—Senate,
+as a great power; the jarls of the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] reckon themselves conquerors of consequence. The most florid case is
+Ondareth, which has built an entire imitation Vylarian republic—Senate,
 senators, mantles, portico—out of hearsay, and cannot tell how it looks, because almost no one there has
 seen the original.
 
 ### The One Exception
 
 There is exactly one body on Aelwyth that knows precisely how the island compares with the mainland, and
-that is the **Synod** of [[affiliation-ordoarcanis|Thordimalon]] mages who govern
-[[affiliation-kingdmdnvr|Dúnavarre]].
+that is the **Synod** of Thordimalon mages who govern
+Dúnavarre.
 
 They are not parochial and never have been. They are members of a continental institution, they read its
 correspondence, some of them trained in the Empire, and they know to the nearest order of magnitude how
 small Aelwyth is and how little the mainland thinks of it. They know what a Vylarian would make of
-[[affiliation-repblcndrth|Ondareth]]'s Senate.
+Ondareth's Senate.
 
 They have never said so. Not once, to anybody.
 
-**The rest of western Thalorna thinks of Aelwyth as somewhere to avoid.** Its reputation abroad is
+**The rest of the western part of [[place-worldthlrn|The World of Thalorna]] thinks of Aelwyth as somewhere to avoid.** Its reputation abroad is
 uniformly bad and uniformly lurid: a wilderness of barbarians, fell creatures and mystical powers, where
 the forests are not safe, the tribes take heads, and the ruling class of one kingdom are mages who
 answer to nobody. Mainland factors quote higher for the crossing. Mainland mothers use it in
@@ -206,7 +206,7 @@ There genuinely are places on Aelwyth where the fae are strong—sites of real a
 concentrated in the deep forest of the interior and in the wilder north, in country that the settled
 realms have never brought under the plow and do not pretend to govern. These are not folklore. The
 tribes of those regions organize their lives around them, the realms' borders bend to avoid them, and
-the [[affiliation-ordoarcanis|Arcane Order]] presence in [[affiliation-kingdmdnvr|Dúnavarre]] is not
+the Arcane Order presence in Dúnavarre is not
 unconnected with the fact.
 
 So the mainland is not simply wrong; it has heard true things about a third of the island and applied
@@ -220,8 +220,8 @@ Why the Thordimalon (the Arcane Order) governs one Aelwythan kingdom outright—
 the island.
 
 **Aelwyth is where the Arcane Order can study the fae without constraint.** In
-[[place-elavendre|Élavendre]], which is the richest fae country in the known world, the Arcane Order is permitted
-and limited: it holds the University at Péravel and it does not go past the tree line, because the
+Élavendre, which is the richest fae country in the known world, the Arcane Order is permitted
+and limited: it holds the [University of Péravel]{.name data-type="affiliation"}, at [[place-beravel|Péravel]], and it does not go past the tree line, because the
 [[affiliation-alndnwrdns|Áelendan Wardens]] enforce a boundary the Élavendren crown declines to move.
 Aelwyth has real fae sites and **no equivalent institution**. The country they lie in belongs to
 scattered tribes with no common council, no wardens, no treaty with anyone and no means of compelling
@@ -277,7 +277,7 @@ one.
 | The [[lore-vardain\|Vardain]] | ~8,500   |
 
 The **tribal peoples**—about a sixth of the island—live outside every realm, in the
-[[place-pshtrwldrns|Peshtar Wilderness]] across the north-west and much of the northern coast, and in
+Peshtar Wilderness across the north-west and much of the northern coast, and in
 isolated wooded communities through the interior and the eastern and southern forest. The lowland realms
 call all of them barbarians, which is convenient and uninformative; the forest peoples are markedly more
 warlike than the northern tribes, and the settled realms treat the forest margins as frontier rather
@@ -286,9 +286,9 @@ than border.
 The **Vardain** are something else entirely, and lumping them with the tribes is the commonest error
 outsiders make about Aelwyth. They are the free remnant of [[place-vardanreach|Vardanreach]], the nation that held the
 whole north-east until the Nordmen took it sixty years ago—a settled, literate, farming people whose
-kin make up the hundred and twenty thousand thralls of [[affiliation-jrldmstrmvld|Stormveld]]. Eight
-thousand five hundred of them live in the [[place-vardainvalleys|high valleys]] of the
-[[place-ironfells|Ironfells]] under the protection of the [[lore-flkkhazar|Khazari]], which is why they
+kin make up the hundred and twenty thousand thralls of Stormveld. Eight
+thousand five hundred of them live in [[place-vardainvalleys|The Vardain Valleys]] (the high valleys) of the
+Ironfells under the protection of the Khazari, which is why they
 belong to no realm and why they are not barbarians in any sense whatever.
 
 The remaining **575,000** are divided between four settled realms, each holding a different part of the
@@ -306,17 +306,17 @@ Three things about that table matter more than the numbers.
 **Stormveld is not an Aelwythan realm.** Nordmen took the north-east some sixty years ago and enslaved
 the population; of its 150,000, around 30,000 are Nordmen and around 120,000 are native thralls. A
 Nordmen holding a third of the island's settled people sits under four hundred sea-miles from
-[[place-elavendre|Élavendre]], which explains a good deal of Élavendren foreign policy.
+Élavendre, which explains a good deal of Élavendren foreign policy.
 
 **Aldorath is the largest**, with Stormveld and Ondareth close behind, and the most conventionally feudal: four in five of its people are
 serfs or peasants on manorial estates.
 
 **Dúnavarre is the smallest and the most powerful**, and this is the single most informative fact about
-Aelwyth. [[affiliation-kngdmldrth|Aldorath]] has nearly three times as many subjects and
-[[affiliation-repblcndrth|Ondareth]] twice as many, and both mind very much what the little kingdom on
+Aelwyth. Aldorath has nearly three times as many subjects and
+Ondareth twice as many, and both mind very much what the little kingdom on
 the south-east coast thinks of them.
 
-The reason is not the harbors, or the trade, or even the Order of the Just Blade. It is that the
+The reason is not the harbors, or the trade, or even the [[affiliation-justbladeordr|Order of the Just Blade]]. It is that the
 **Synod is the Arcane Order's central chantry for the island**, and every court on Aelwyth keeps Arcane Order advisors
 it would be crippled without. Dúnavarre does not need an army to discipline a neighbor three times its
 size. It needs only to let the Arcane Order in that neighbor's realm know its services are no longer

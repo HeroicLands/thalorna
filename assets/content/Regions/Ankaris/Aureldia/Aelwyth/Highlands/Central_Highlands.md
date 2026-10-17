@@ -14,8 +14,8 @@ data:
   government: repblcndrth
 ---
 
-The **Central Highlands** occupy the middle of Aelwyth between the western coast and the farmland of
-[[affiliation-kngdmldrth|Aldorath]]: open, rolling, largely treeless upland, held by the
+The **Central Highlands** occupy the middle of [[place-aelwyth|Aelwyth]] between the western coast and the farmland of
+the [[place-aldorathrgn|Aldorath Region]]: open, rolling, largely treeless upland, held by the
 [[affiliation-repblcndrth|Republic of Ondareth]] and home to some fifty-eight thousand of its people.
 
 ## Above the Weather
@@ -31,7 +31,7 @@ republic, and the difference is the first thing any Ondarethan will tell an outs
 
 All of which is thoroughly relative. This is still Aelwyth: a cool island in a cold sea, where _warm_
 means the wind has dropped and one can see the far side of the valley. A visitor from
-[[place-provenzrgn|Provenzia]], taken up into the Highlands at the height of summer and told this is the
+the [[place-provenzrgn|Provenzia Region]], taken up into the Highlands at the height of summer and told this is the
 finest weather the island affords, would put his cloak back on and say something polite.
 
 ## The Living
@@ -41,7 +41,7 @@ breeding—the Highlands supply most of the island's riding stock. It is prosper
 unspectacular way and is not where the republic's money is made.
 
 It is, however, where a great many senators keep country houses, for reasons of climate that everyone
-understands and nobody in Thornbury will admit to.
+understands and nobody in [[place-thornbury|Thornbury]] will admit to.
 
 ## See Also
 

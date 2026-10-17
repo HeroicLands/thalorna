@@ -14,7 +14,7 @@ data:
   packFolder: aelwyth
 ---
 
-**Brynwold** is Aldorath's upland country, rising west and north of the [[place-aldorvale|Aldorvale]]
+**Brynwold** is the [[place-aldorathrgn|Aldorath Region]]'s upland country, rising west and north of [[place-aldorvale|The Aldorvale]]
 into hills too high and thin-soiled for grain. Twenty-six thousand people, and a great many more sheep.
 
 ## The Wool
@@ -33,7 +33,7 @@ rents in kind, and customs that predate the kingdom and have never been rewritte
 correspondingly harder to command and appreciably freer, which the lowlands consider a standing
 irregularity and the uplands consider the natural order.
 
-They keep the [[affiliation-arldnpnthn|Twelve]] and rather more besides, at the old stones above
+They honor the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] and keep rather more besides, at the old stones above
 [[place-brynhallow|Brynhallow]] and elsewhere, and their parish priests report them devout and leave it
 there.
 

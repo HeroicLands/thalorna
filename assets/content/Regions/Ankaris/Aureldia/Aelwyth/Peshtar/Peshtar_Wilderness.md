@@ -19,7 +19,7 @@ The Peshtar Wilderness is the ungoverned highland quarter of [[place-aelwyth|Ael
 
 ## Geography
 
-The Peshtar Wilderness occupies the northwestern quarter of [[place-aelwyth|Aelwyth]], the largest island of the [[place-aureldirgn|Aureldian]] sphere. Its physical character is defined by highland terrain—granite ridges, glacial valleys, cold fast rivers, and peat-soaked upland moor—with dense forests of oak, pine, and ancient hazel covering everything below the treeline. Fog is a near-constant presence: the lowlanders call the region "the cloud-country," and travelers report that one can climb for a full day without seeing the sun through the mist.
+The Peshtar Wilderness occupies the northwestern quarter of Aelwyth, the largest island of the [[place-aureldirgn|Aureldian]] sphere. Its physical character is defined by highland terrain—granite ridges, glacial valleys, cold fast rivers, and peat-soaked upland moor—with dense forests of oak, pine, and ancient hazel covering everything below the treeline. Fog is a near-constant presence: the lowlanders call the region "the cloud-country," and travelers report that one can climb for a full day without seeing the sun through the mist.
 
 The coastline is cliff-bound, broken by a handful of rocky inlets that the tribes use for fishing and occasional coastal raids but that support no real harbors. The one or two natural anchorages that might have made good ports have never been developed—the Peshtar have no interest in concentrated settlement of any kind, and any outsider who has tried to build a port has had his workers harassed, his materials burned, and his stockade overrun within a season.
 
@@ -46,7 +46,7 @@ ORDER BY p.name.full COLLATE NOCASE
 
 ## Peoples and Culture
 
-The Peshtar are a fierce and fractious highland people, descended from the [[lore-pelwarpepl|Pelwar]] refugees who reached Aelwyth around 1200 BF, as is nearly every human on the island. What sets them apart is not an older origin but their way of life: their clans took no crown and no lowland holding, and kept the wilderness as it was when the refugees first came to it, while the southern kingdoms and the Nordmen settlers of the eastern coasts took their land later. They are not a single tribe but a constellation of related clans—the [[place-pshtrwldrns|accounts vary widely]] on how many clans there are and which have lineal relationships with which—who share a language family, a ritual complex, and a common contempt for the lowlands.
+The Peshtar are a fierce and fractious highland people, descended from the refugees of the [[lore-pelwarpepl|Pelwar People]] who reached Aelwyth around 1200 BF, as is nearly every human on the island. What sets them apart is not an older origin but their way of life: their clans took no crown and no lowland holding, and kept the wilderness as it was when the refugees first came to it, while the southern kingdoms and the Nordmen settlers of the eastern coasts took their land later. They are not a single tribe but a constellation of related clans—the accounts vary widely on how many clans there are and which have lineal relationships with which—who share a language family, a ritual complex, and a common contempt for the lowlands.
 
 Peshtar society is organized around the clan, which is in turn organized around the war-chief and the druid. The war-chief is the martial leader—typically the foremost warrior of his lineage, chosen by the acclamation of the clan's warriors and holding his position only as long as he remains the foremost warrior. The druid is the spiritual and legal authority—trained from childhood in the clan's mysteries and the landscape's lore, invested with authority over questions of ritual and inheritance and dispute. The two offices balance one another; neither alone can rule, and clans whose war-chief and druid openly quarrel tend to fission.
 
@@ -56,9 +56,9 @@ Peshtar diet is simple: cattle, sheep, goats, and pigs herded through the highla
 
 ## Religion
 
-The Peshtar worship a mix of [[affiliation-arldnpnthn|Aureldian]] gods and older animistic traditions that may predate any organized pantheon on Thalorna. Their druids maintain the ritual practice; their holy places are natural features—ancient trees, springs, stone circles, the high shoulders of specific mountains—rather than temples or churches.
+The Peshtar combine worship of the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] with older animistic traditions that may predate any organized pantheon in [[place-worldthlrn|The World of Thalorna]]. Their druids maintain the ritual practice; their holy places are natural features—ancient trees, springs, stone circles, the high shoulders of specific mountains—rather than temples or churches.
 
-The relationship between the Peshtar version of the Aureldian gods and the version recognized in mainstream Aureldian theology is ambiguous. The names are recognizable: Peshtar druids invoke something they call Calmara, something they call Veyrael, something they call Vharoth. But the stories they tell, the faces they assign to these gods, and the rituals they use to approach them bear only a distant resemblance to the Aureldian liturgical tradition. A handful of Aureldian theologians have proposed that the Peshtar practice is not a corruption of the true faith but an older stratum of it, preserving what the continent has forgotten. This proposition is not popular in ecclesiastical circles; the theologians who have made it most vigorously have generally ended their careers in obscurity.
+The relationship between the Peshtar version of the Aureldian gods and the version recognized in mainstream Aureldian theology is ambiguous. The names are recognizable: Peshtar druids invoke something they call [Calmara]{.name data-type="lore/deity"}, something they call [Veyrael]{.name data-type="lore/deity"}, something they call [Vharoth]{.name data-type="lore/deity"}. But the stories they tell, the faces they assign to these gods, and the rituals they use to approach them bear only a distant resemblance to the Aureldian liturgical tradition. A handful of Aureldian theologians have proposed that the Peshtar practice is not a corruption of the true Aureldian traditions but an older stratum of them, preserving what the continent has forgotten. This proposition is not popular in ecclesiastical circles; the theologians who have made it most vigorously have generally ended their careers in obscurity.
 
 Beneath and around the Aureldian names, the Peshtar also maintain a set of explicitly animistic practices—the recognition of landscape-spirits, ancestor-spirits, and the named spirits of specific rivers, specific groves, specific stones. These traditions have no counterpart in mainstream Aureldian practice and are, almost certainly, the older stratum of the Peshtar faith.
 
@@ -123,7 +123,7 @@ It is not a war in any sense that admits of campaigns, victories or an end. It i
 it has shaped these peoples completely: the forest communities of the interior and the south are
 markedly more warlike than the northern herders because twenty generations of them have lived beside
 something that breeds faster than it can be killed. Frontier settlements of
-[[affiliation-kngdmldrth|Aldorath]] find them impossible to deal with and put it down to savagery.
+the [[place-aldorathrgn|Aldorath Region]] find them impossible to deal with and put it down to savagery.
 
 The lowland realms use the word _barbarian_ for all of them indiscriminately, which is convenient and
 tells you nothing.

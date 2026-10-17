@@ -16,21 +16,21 @@ data:
 
 ## Overview
 
-The southern approach to the more easterly of the two [[place-ironfells|Ironfells]] passes climbs for a day through steep, sodden forest and then enters a gorge, a narrow cleft with a torrent at the bottom and a trail cut along one wall. At the gorge's upper end, on a crag that overhangs the trail, stands **Sunderwynd**: a square stone tower, a walled yard, a gatehouse and a barrack range with arrow-slits on the gorge side. The name is the gorge's, the split way between the hills. Every pack-pony that crosses the pass from the south goes under the post's walls, and the post collects the crown's toll on it.
+The southern approach to the more easterly of the two passes of [[place-ironfells|The Ironfells]] climbs for a day through steep, sodden forest and then enters a gorge, a narrow cleft with a torrent at the bottom and a trail cut along one wall. At the gorge's upper end, on a crag that overhangs the trail, stands **Sunderwynd**: a square stone tower, a walled yard, a gatehouse and a barrack range with arrow-slits on the gorge side. The name is the gorge's, the split way between the hills. Every pack-pony that crosses the pass from the south goes under the post's walls, and the post collects the crown's toll on it.
 
-Sunderwynd is an outpost of [[place-caerwynd|Kaerwynd]], which watches the southern ends of the passes. Its garrison is a captain and a score of men, relieved by a patrol up from Kaerwynd at intervals, and its life is weather, smugglers and the occasional skirmish with the jarl's men at the pass-head ([[place-sunderfells|the Sunderfells]]).
+Sunderwynd is an outpost of [[place-caerwynd|Kaerwynd]], which watches the southern ends of the passes. Its garrison is a captain and a score of men, relieved by a patrol up from Kaerwynd at intervals, and its life is weather, smugglers and the occasional skirmish with the jarl's men at the pass-head ([[place-sunderfells|The Sunderfells]]).
 
 ## The Post
 
 The tower holds the captain's room and, above it, the signal platform; between the two, under the platform's timbers, is a low roof-room reached by a ladder and a trap in the captain's ceiling. The barrack range holds the men, the kitchen and the stores. Beneath the yard is a cistern, a vault on squat pillars cut into the crag, which takes the rain off the roofs and holds the post's water through a siege. A drainage tunnel runs from the cistern's low end through the crag and out onto the gorge face below the trail. Behind the cistern's far wall is the pay vault, which holds the toll and the garrison's silver; a captain walled it up during a raid from over the pass and died in the fighting. The daybooks record every search the garrison has made for its door, and none of them records finding it. An old mason's mark is cut on the cistern's far wall, and the same mark is on the tower's foundation stone.
 
 :::secret {title="The pay vault's door"}
-The door is a single dressed slab in the cistern's far wall, beside the mason's mark, set dry and faced with a skin of lime mortar so that it reads as newer stonework. A bar under its lower edge lifts it out. Broken through instead, the facing takes an hour of noisy work. Captain Aldmund Hardwick found it on the afternoon before he was taken, and the only record of it is the last line of his daybook, which ends mid-word.
+The door is a single dressed slab in the cistern's far wall, beside the mason's mark, set dry and faced with a skin of lime mortar so that it reads as newer stonework. A bar under its lower edge lifts it out. Broken through instead, the facing takes an hour of noisy work. Captain [Aldmund Hardwick]{.name data-type="being/npc"} found it on the afternoon before he was taken, and the only record of it is the last line of his daybook, which ends mid-word.
 :::
 
 ## The Thing in the Heights
 
-Something lives in the post now. The garrison's last daybook calls it **the Hangman**, after what it does with the men it takes.
+Something lives in the post now. The garrison's last daybook calls it **the [Hangman]{.name data-type="being/creature"}**, after what it does with the men it takes.
 
 Its work shows from the gorge trail. A dead pine leans out over the drop below the crag, and men hang from its branches, out of reach of anything that walks. Inside the post, deep gouges run across the plaster and the beams of every ceiling, sets of long parallel scores as if something heavy hung there by hooks and dragged itself along, and there are none on any floor.
 
@@ -52,13 +52,13 @@ The Hangman has no voice. The voices from the heights are the taken, alive, hung
 
 :::
 
-It is a [[lore-dreadspawncrtr|dreadspawn]], made and not born, and there is nothing else like it on Aelwyth. A band of dark metal is sunk into one of its limbs, grown over at the edges, cut with marks nobody at the post could read. What it was made for, who made it and why it came down to Sunderwynd are not known.
+It is a [[lore-dreadspawncrtr|dreadspawn]], made and not born, and there is nothing else like it on [[place-aelwyth|Aelwyth]]. A band of dark metal is sunk into one of its limbs, grown over at the edges, cut with marks nobody at the post could read. What it was made for, who made it and why it came down to Sunderwynd are not known.
 
 ## Who Knows, and What They Say
 
 - **Kaerwynd** knows the post has sent no signal for some days and has sent a relief patrol up the gorge.
 - **The smugglers** who cross the pass know that something took a string of ponies off the trail in the gorge a season ago, and have used the other pass since. They say the trail-men of the far side tell of a long thing in the high rocks that calls down in the voices of the men it took, and that nobody there goes up alone or answers a voice from above.
-- **The Vardain of the valleys** below the range have a word for a made thing that walks where it should not, and they will not say it in the post's direction.
+- **[[lore-vardain|The Vardain]] of the valleys** below the range have a word for a made thing that walks where it should not, and they will not say it in the post's direction.
 
 ## Reaching It
 
@@ -86,8 +86,8 @@ The gorge trail is the only road to Sunderwynd. It is a day's climb from the las
 
 **The hung now.** This is the post on the afternoon a rockslide closes the upper gorge below it, the day the relief patrol from [[place-caerwynd|Kaerwynd]] reaches the gate.
 
-- **Captain Aldmund Hardwick** hangs in the tower's roof-room under the signal platform, above the table where he was writing when he was taken, three nights before the slide. A rafter cracked as the rope took his weight. He is weak and lucid at dusk, after the watering, and he calls down the trap and through the platform's slits for **Kenric Brandley**, the one man of the garrison left on the ground, by name.
-- **The dead pine** holds three. Two are men of the garrison taken on the wall in the first nights, dead and dry. The third is a patrolman of that relief, taken at the gate that afternoon and dipped within the hour, alive. When he wakes he calls for his sergeant, **Wilrik**.
+- **Captain Aldmund Hardwick** hangs in the tower's roof-room under the signal platform, above the table where he was writing when he was taken, three nights before the slide. A rafter cracked as the rope took his weight. He is weak and lucid at dusk, after the watering, and he calls down the trap and through the platform's slits for **[Kenric Brandley]{.name data-type="being/npc"}**, the one man of the garrison left on the ground, by name.
+- **The dead pine** holds three. Two are men of the garrison taken on the wall in the first nights, dead and dry. The third is a patrolman of that relief, taken at the gate that afternoon and dipped within the hour, alive. When he wakes he calls for his sergeant, **[Wilrik]{.name data-type="being/npc"}**.
 - **The cistern's vault** holds the rest: the garrison's dead, a smuggler and his pony, the relief patrol's sergeant Wilrik and three of his men alive, and two men of the garrison taken in the last week, alive. One of the relief patrol broke his neck in the taking and hangs dead with the others.
 
 **The garrison's end.** The Hangman came down out of the high country some weeks ago. It took men on watch on the wall first, then men from their bunks with their mates asleep in the next, and three nights before the slide it took the captain from his table in the tower with Kenric on the stair below. The lamp went over and a crack sounded in the dark, and the captain's chair was empty. That night his voice called from above for Kenric to come up and help. The captain's last entry, a single line saying he had found something at last, ends mid-word, written under the beams he now hangs from.

@@ -51,4 +51,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Synod of Dúnavarre, often called simply "The Synod", is the governing council of mages of Dúnavarre.
+The Dúnavarre Synod, often called simply "The Synod", is the governing council of mages of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]].

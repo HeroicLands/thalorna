@@ -14,10 +14,10 @@ data:
   government: kingdmdnvr
 ---
 
-**Wraymouth** stands where the Wray comes down to the sea on Aelwyth's south-eastern coast, and is the
+**Wraymouth** stands where the [Wray]{.name data-type="place/feature"} comes down to the sea on [[place-aelwyth|Aelwyth]]'s south-eastern coast, and is the
 second city of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] at about twenty-five hundred people.
 
-[[place-ravenmoor|Ravenmoor]] is the seat and holds the Synod; Wraymouth does the work. These are the
+[[place-ravenmoor|Ravenmoor]] is the seat and holds the [[affiliation-dunavarsynod|Dúnavarre Synod]]; Wraymouth does the work. These are the
 best natural harbors on the island, facing open water toward [[place-elavendre|Élavendre]] and the
 mainland beyond, and effectively all of Dúnavarre's trade—and a good share of Aelwyth's—passes over
 its quays.
@@ -30,7 +30,7 @@ extremely regular: Dúnavarre is an orderly realm and its port reflects it, with
 office that keeps records the Synod actually reads.
 
 The city is also where Dúnavarre's diplomacy physically happens. Embassies to and from Élavendre,
-Provenzia and the Vylarian ports land here, and the mission to Tantsou sailed from these quays.
+the [[place-provenzrgn|Provenzia Region]] and the Vylarian ports land here, and the mission to the [[affiliation-tantsouempr|Empire of Tantsou]] sailed from these quays.
 
 ## Character
 

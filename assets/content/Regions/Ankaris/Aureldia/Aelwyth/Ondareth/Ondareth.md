@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Ondareth is the land of [[affiliation-repblcndrth|The Republic of Ondareth]], along the western coast of [[place-aelwyth|Aelwyth]].
+Ondareth is the land of the [[affiliation-repblcndrth|Republic of Ondareth]], along the western coast of [[place-aelwyth|Aelwyth]].
 
 ## Extent
 

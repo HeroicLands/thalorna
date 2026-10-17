@@ -14,7 +14,7 @@ data:
   government: kngdmldrth
 ---
 
-**Kaerwynd** stands where Aldorath's settled country runs out and the interior forest begins, and it is a
+**Kaerwynd** stands where the [[place-aldorathrgn|Aldorath Region]]'s settled country runs out and the interior forest begins, and it is a
 fortress before it is anything else: a stone keep, a walled bailey, a garrison maintained at the crown's
 expense, and a town that exists because the garrison does.
 
@@ -26,7 +26,7 @@ are raided, and they have long memories about which is owed. Kaerwynd is where A
 is organized.
 
 It is also the kingdom's forward position in its long rivalry with
-[[affiliation-kingdmdnvr|Dúnavarre]] over the interior—a rivalry that has never come to open war and
+the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] over the interior—a rivalry that has never come to open war and
 is conducted, on this side, largely by the placing of garrisons in country neither realm actually
 controls.
 
