@@ -36,4 +36,4 @@ Mahvarad Parvaran is a 44-year-old man who stands 6'1" tall with a medium build.
 
 # Dossier {#dossier}
 
-Mahvarad Parvaran is the chieftain of the Soltrev Clan, one of the clans that [[being-shadznkmrz|Shadezan Kamruz]] defeated. He harbors deep resentment and plots constant rebellion, seeking alliances with other displaced chieftains to overthrow Shadezan's rule.
+Mahvarad Parvaran is the chieftain of the [Soltrev Clan]{.name data-type="affiliation/polity"}, one of the clans that [[being-shadznkmrz|Shadezan Kamruz]] defeated. He harbors deep resentment and plots constant rebellion, seeking alliances with other displaced chieftains to overthrow Shadezan's rule.

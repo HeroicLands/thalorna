@@ -36,4 +36,4 @@ Kenrel Kardeth was a 39-year-old man who stood 6'1" tall with a light build. He 
 
 # Dossier {#dossier}
 
-Kenrel Kardeth was the husband of [[being-glyencrdth|Lyenna Kardeth]] and fifteen years her senior. He held the family's estates and its seat on the regional council, a decent, well-liked and politically moderate man content to manage his lands. He was killed on the road between his estates and Elanmere in what was reported as a bandit raid.
+Kenrel Kardeth was the husband of [[being-glyencrdth|Lyenna Kardeth]] and fifteen years her senior. He held the family's estates and its seat on the regional council, a decent, well-liked and politically moderate man content to manage his lands. He was killed on the road between his estates and [[place-elanmere|Elanmere]] in what was reported as a bandit raid.

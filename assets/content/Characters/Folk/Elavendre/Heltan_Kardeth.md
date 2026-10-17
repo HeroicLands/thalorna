@@ -36,4 +36,4 @@ Heltan Kardeth is a 27-year-old man who stands 5'11" tall with a light build. He
 
 # Dossier {#dossier}
 
-Heltan Kardeth is a young nobleman and the cousin of Kenrel Kardeth, newly returned from service abroad. He asks pointed questions about the circumstances of his cousin's death, with a soldier's eye for details that do not add up. His inquiries are social rather than formal, in conversation at gatherings and in letters to relatives, and they trouble [[being-glyencrdth|Lyenna Kardeth]].
+Heltan Kardeth is a young nobleman and the cousin of [[being-kenrelkardet|Kenrel Kardeth]], newly returned from service abroad. He asks pointed questions about the circumstances of his cousin's death, with a soldier's eye for details that do not add up. His inquiries are social rather than formal, in conversation at gatherings and in letters to relatives, and they trouble [[being-glyencrdth|Lyenna Kardeth]].

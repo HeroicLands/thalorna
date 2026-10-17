@@ -36,4 +36,4 @@ Thérores Safithos is a 61-year-old man who stands 6'6" tall with a heavy build.
 
 # Dossier {#dossier}
 
-Thérores Safithos is the Arsir of the Council of Korinthea and the primary political support of [[being-dumarsrfrs|Dumares Rafiros]].
+Thérores Safithos is the Arsir of the [Council of Korinthea]{.name data-type="affiliation/governmental"} and the primary political support of [[being-dumarsrfrs|Dumares Rafiros]].

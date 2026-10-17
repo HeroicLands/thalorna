@@ -36,4 +36,4 @@ Tavura Kamruz is a 78-year-old woman who stands 6'0" tall with a medium build. S
 
 # Dossier {#dossier}
 
-Tavura Kamruz is a shaman and the mother of [[being-shadznkmrz|Shadezan Kamruz]]. She blessed her son with rituals dedicated to Báhramis, the god of storms, asking the deity to give him strength and fury.
+Tavura Kamruz is a shaman and the mother of [[being-shadznkmrz|Shadezan Kamruz]]. She blessed her son with rituals dedicated to [[lore-bahramisdty|Báhramis]], the god of storms, asking the deity to give him strength and fury.

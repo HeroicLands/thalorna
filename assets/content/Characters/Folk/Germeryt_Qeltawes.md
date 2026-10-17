@@ -36,4 +36,4 @@ Germeryt Qeltawes is a 41-year-old woman who stands 6'0" tall with a medium buil
 
 # Dossier {#dossier}
 
-Germeryt Qeltawes holds the post of First Hunter of the Gar-Au out of [[place-galezkara|Galezkara]], and chairs the [[affiliation-garnuw|Council of the Long Spear]] besides. The licences by which the empire's game is taken pass through this one office. Anyone wanting to hunt the Gar-Au's preserves legally starts there and nowhere else.
+Germeryt Qeltawes holds the post of First Hunter of the Gar-Au out of [[place-galezkara|Galezkara]], and chairs the [Council of the Long Spear]{.name data-type="affiliation/governmental"} of [[affiliation-garnuw|Gar'Nuw]] besides. The licences by which the empire's game is taken pass through this one office. Anyone wanting to hunt the Gar-Au's preserves legally starts there and nowhere else.

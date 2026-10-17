@@ -36,4 +36,4 @@ Deyena Shamayan is a 44-year-old woman who stands 5'7" tall with a medium build.
 
 # Dossier {#dossier}
 
-Deyena Shamayan, styled Captain, is the commander of the Kingdom's cavalry forces and of its Royal Cavalry. She contracts with [[being-rudavahfrd|Rudavah Farrud]] for the care and training of elite cavalry mounts; their relationship is complicated, since Deyena demands results but respects Rudavah's insistence on treating animals well.
+Deyena Shamayan, styled Captain, is the commander of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]'s cavalry forces and of its [Royal Cavalry]{.name data-type="affiliation"}. She contracts with [[being-rudavahfrd|Rudavah Farrud]] for the care and training of elite cavalry mounts; their relationship is complicated, since Deyena demands results but respects Rudavah's insistence on treating animals well.

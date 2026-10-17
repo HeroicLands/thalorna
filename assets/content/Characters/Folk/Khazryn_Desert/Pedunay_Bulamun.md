@@ -36,4 +36,4 @@ Pedunay Bulamun is a 54-year-old man who stands 6'0" tall with a heavy build. He
 
 # Dossier {#dossier}
 
-Pedunay Bulamun is the favored elder statesman of alchemical research at the University of [[place-caldar|Kaldar]]. A longtime colleague and rival of [[being-kayvondzrd|Kayvonad Zarid]], he published a paper showing mathematical errors in Kayvonad's foundational work; Kayvonad answered with accusations of plagiarism, and the scandal divided the department and damaged both reputations.
+Pedunay Bulamun is the favored elder statesman of alchemical research at the [University of Kaldar]{.name data-type="affiliation"} in [[place-caldar|Kaldar]]. A longtime colleague and rival of [[being-kayvondzrd|Kayvonad Zarid]], he published a paper showing mathematical errors in Kayvonad's foundational work; Kayvonad answered with accusations of plagiarism, and the scandal divided the department and damaged both reputations.

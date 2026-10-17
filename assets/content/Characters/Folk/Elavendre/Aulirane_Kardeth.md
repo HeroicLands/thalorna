@@ -36,4 +36,4 @@ data:
 
 # Dossier {#dossier}
 
-Áulirane Kardeth is a young noblewoman of Áelendan ancestry who holds the noble seat of Kardeth near Liranel. She is intelligent and ambitious, and she seeks out the alchemist [[being-belrkflwyn|Melrik Salvin]] for discreet remedies.
+Áulirane Kardeth is a young noblewoman with ancestry among the [[lore-aelendnppl|Áelendan People]] who holds the noble seat of [[place-cardeth|Kardeth]] near [[place-liranel|Liranel]]. She is intelligent and ambitious, and she seeks out the alchemist [[being-belrkflwyn|Melrik Salvin]] for discreet remedies.

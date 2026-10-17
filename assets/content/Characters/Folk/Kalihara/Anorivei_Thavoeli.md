@@ -36,4 +36,4 @@ Anorivei Thavoeli is a 54-year-old man who stands 5'8" tall with a light build. 
 
 # Dossier {#dossier}
 
-Anorivei Thavoeli is the merchant-prince of House Thavoeli, an Ilovanu merchant house in rare spice and cut stones. His house has hired [[being-tvnrthr|Tavonei Reithuri]] for its three richest trains each year for over a decade, and he asks for Tavonei by name for any cargo bound to a foreign hull, trusting no one else with goods worth a fortune.
+Anorivei Thavoeli is the merchant-prince of [House Thavoeli]{.name data-type="affiliation/venture"}, a merchant house of [[place-ilovanu|Ilovanu]] in rare spice and cut stones. His house has hired [[being-tvnrthr|Tavonei Reithuri]] for its three richest trains each year for over a decade, and he asks for Tavonei by name for any cargo bound to a foreign hull, trusting no one else with goods worth a fortune.

@@ -36,4 +36,4 @@ Lofiria Ghaliros is a 47-year-old woman who stands 5'8" tall with a medium build
 
 # Dossier {#dossier}
 
-Lofiria Ghaliros is an arsir, a minor ruler on the empire's borders. She was once an ally of House Zarkedis and turned against it in its moment of need, hastening its downfall. She views [[being-klstrtsxrchds|Kalestratos Zarkedis]] as the insignificant remnant of a dead house.
+Lofiria Ghaliros is an arsir, a minor ruler on the [[affiliation-vylarinmpr|Vylarian Empire]]'s borders. She was once an ally of [House Zarkedis]{.name data-type="affiliation/lineage"} and turned against it in its moment of need, hastening its downfall. She views [[being-klstrtsxrchds|Kalestratos Zarkedis]] as the insignificant remnant of a dead house.

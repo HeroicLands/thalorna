@@ -36,4 +36,4 @@ Navatei Koathevoi is a 56-year-old man who stands 5'9" tall with a heavy build. 
 
 # Dossier {#dossier}
 
-Navatei Koathevoi is the master of the Scribes' Guild, who grows rich on high fees from wealthy clients and discourages scribes from working for the poor. The success of [[being-ilmnnlr|Ilumanei Naoliru]] outside his control is a standing rebuke to him, and he means to end it.
+Navatei Koathevoi is the master of the [Scribes' Guild]{.name data-type="affiliation/guild"}, who grows rich on high fees from wealthy clients and discourages scribes from working for the poor. The success of [[being-ilmnnlr|Ilumanei Naoliru]] outside his control is a standing rebuke to him, and he means to end it.

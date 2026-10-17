@@ -36,4 +36,4 @@ Harumaz Baravi is a 59-year-old man who stands 6'3" tall with a heavy build. He 
 
 # Dossier {#dossier}
 
-Harumaz Baravi is a senior figure in the Jewelers' Guild and the conservative guild master of its traditionalist faction. He views the experimental approaches of [[being-prynbrmndn|Paryan Barmandan]] as disrespectful to established conventions, has subtly opposed her rise within the guild, and spreads criticism that her work, while beautiful, lacks true classical foundation.
+Harumaz Baravi is a senior figure in the [Jewelers' Guild]{.name data-type="affiliation/guild"} and the conservative guild master of its traditionalist faction. He views the experimental approaches of [[being-prynbrmndn|Paryan Barmandan]] as disrespectful to established conventions, has subtly opposed her rise within the guild, and spreads criticism that her work, while beautiful, lacks true classical foundation.

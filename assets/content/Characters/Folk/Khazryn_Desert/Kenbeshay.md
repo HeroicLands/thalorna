@@ -36,4 +36,4 @@ Kenbeshay is a 49-year-old man who stands 5'11" tall with a medium build. He has
 
 # Dossier {#dossier}
 
-Kenbeshay is a priest of Ataros at the Northern Temple. He broke with orthodox teaching to advocate compassion and mercy, which [[being-shrmnhthvn|Sharminah Tahvan]] despises as weakness in faith; she would eagerly destroy him to keep his teachings from corrupting others.
+Kenbeshay is a priest of the [[affiliation-ataros|Faith of Ataros]] at the [Northern Temple]{.name data-type="place/structure"}. He broke with orthodox teaching to advocate compassion and mercy, which [[being-shrmnhthvn|Sharminah Tahvan]] despises as weakness in faith; she would eagerly destroy him to keep his teachings from corrupting others.

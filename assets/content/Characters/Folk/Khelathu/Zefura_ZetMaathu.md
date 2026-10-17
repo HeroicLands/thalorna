@@ -36,4 +36,4 @@ Zefura Zet'Maathu is a 64-year-old man who stands 5'10" tall with a heavy build.
 
 # Dossier {#dossier}
 
-Zefura Zet'Maathu is a master perfumer of considerable reputation of the Guild Quarter of Galezkara and the father of [[being-gatnefrztmth|Gatnefur Zet'Maathu]]. He was a demanding teacher, but also a visionary one, who encouraged his son to experiment and to combine scents in ways that seemed almost heretical to the conservative guild masters.
+Zefura Zet'Maathu is a master perfumer of considerable reputation of the [Guild Quarter]{.name data-type="place/site"} of [[place-galezkara|Galezkara]] and the father of [[being-gatnefrztmth|Gatnefur Zet'Maathu]]. He was a demanding teacher, but also a visionary one, who encouraged his son to experiment and to combine scents in ways that seemed almost heretical to the conservative guild masters.

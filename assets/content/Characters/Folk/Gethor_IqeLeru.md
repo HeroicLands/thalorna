@@ -36,4 +36,4 @@ Gethor Iqe'Leru is a 44-year-old man who stands 5'11" tall with a medium build. 
 
 # Dossier {#dossier}
 
-Gethor Iqe'Leru holds Legha'lutu rank out of [[place-amqelulegez|Amqelu-Legez]], and is husband to the Thaz'Lekhau of [[lore-qearetdty|Qe'aret]]. The temple brokered the marriage, and both of them have made it work regardless of how it began. Anyone dealing with the temple through her now deals with him as well, whether the temple intended that or not.
+Gethor Iqe'Leru holds Legha'lutu rank out of [[place-amqelulegez|Amqelu-Legez]], and is husband to the Thaz'Lekhau of the [[affiliation-qearet|Faith of Qe'aret]]. The temple brokered the marriage, and both of them have made it work regardless of how it began. Anyone dealing with the temple through her now deals with him as well, whether the temple intended that or not.

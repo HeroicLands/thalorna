@@ -36,4 +36,4 @@ Mahitua Theiluori is a 59-year-old man who stands 5'10" tall with a medium build
 
 # Dossier {#dossier}
 
-Mahitua Theiluori is the present head of the Kubasari, the eldest of the three merchant families of the House of Factors, and presides at the House as Eldest Factor. His family has consulted [[being-olvlthlr|Olivael Ithaluori]] before every great venture for thirty years and paid her well. He counts her essential to his plans, and she thinks most of his plans foolish.
+Mahitua Theiluori is the present head of the [Kubasari]{.name data-type="affiliation/lineage"}, the eldest of the three merchant families of [[affiliation-housefactors|The House of Factors]], and presides at the House as Eldest Factor. His family has consulted [[being-olvlthlr|Olivael Ithaluori]] before every great venture for thirty years and paid her well. He counts her essential to his plans, and she thinks most of his plans foolish.

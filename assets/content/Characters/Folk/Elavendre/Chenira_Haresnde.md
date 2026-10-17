@@ -36,4 +36,4 @@ Chénira Háresnde is a 42-year-old woman who stands 5'9" tall with a heavy buil
 
 # Dossier {#dossier}
 
-Chénira Háresnde is a decorated captain of the Kingdom of Élavendre's forces and the liaison between those forces and the tribes. She keeps a formal relationship with [[being-rnthrprdln|Ranthor Párdalen]], with hints of deeper mutual respect and perhaps unresolved personal history.
+Chénira Háresnde is a decorated captain of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]]'s forces and the liaison between those forces and the tribes. She keeps a formal relationship with [[being-rnthrprdln|Ranthor Párdalen]], with hints of deeper mutual respect and perhaps unresolved personal history.

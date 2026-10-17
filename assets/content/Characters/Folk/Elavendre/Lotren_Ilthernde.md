@@ -36,4 +36,4 @@ Lotren Ílthernde is a 58-year-old man who stands 5'10" tall with a light build.
 
 # Dossier {#dossier}
 
-Lotren Ílthernde is a city councilor of Valdun. He intervened to win [[being-prthnblthl|Parthun Pelthal]] a place in the City Administration at twenty, and remains technically his patron.
+Lotren Ílthernde is a city councilor of [[place-valdun|Valdun]]. He intervened to win [[being-prthnblthl|Parthun Pelthal]] a place in the [City Administration]{.name data-type="affiliation"} at twenty, and remains technically his patron.

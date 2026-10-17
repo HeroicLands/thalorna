@@ -36,4 +36,4 @@ Bákion Jamiros is a 46-year-old man who stands 6'0" tall with a medium build. H
 
 # Dossier {#dossier}
 
-Bákion Jamiros is a seagoing merchant and explorer of Pelagora. He brings rare herbs and unusual specimens back from coastal expeditions and contracts with [[being-talirbshrn|Talira Basiron]] for custom remedies.
+Bákion Jamiros is a seagoing merchant and explorer of [[place-pelagora2|Pelagora]]. He brings rare herbs and unusual specimens back from coastal expeditions and contracts with [[being-talirbshrn|Talira Basiron]] for custom remedies.

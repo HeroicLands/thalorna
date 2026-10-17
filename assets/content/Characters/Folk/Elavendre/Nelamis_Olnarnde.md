@@ -36,4 +36,4 @@ Nélamis Ólnarnde is a 40-year-old woman who stands 5'9" tall with a medium bui
 
 # Dossier {#dossier}
 
-Nélamis Ólnarnde is a noblewoman of House Valorant, of considerable wealth and refined taste. She is the patron of [[being-veldrblthl|Veldor Pelthal]] and of the theater, a patronage that serves as cover for her part in a network of rebel agents.
+Nélamis Ólnarnde is a noblewoman of [House Valorant]{.name data-type="affiliation/lineage"}, of considerable wealth and refined taste. She is the patron of [[being-veldrblthl|Veldor Pelthal]] and of the theater, a patronage that serves as cover for her part in a network of rebel agents.

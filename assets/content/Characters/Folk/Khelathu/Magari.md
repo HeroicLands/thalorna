@@ -36,4 +36,4 @@ Magari is a 39-year-old man who stands 6'1" tall with a medium build. He has dar
 
 # Dossier {#dossier}
 
-Magari is a captain and rival pilot of the Kestrel, whose ship was damaged in an incident in which [[being-zekhmtglzkhn|Zekhemet Gul'Zekhenu]] claims foul play occurred. Magari blames Zekhemet directly, creating a blood feud in the merchant community.
+Magari is a captain and rival pilot of the [Kestrel]{.name data-type="vehicle"}, whose ship was damaged in an incident in which [[being-zekhmtglzkhn|Zekhemet Gul'Zekhenu]] claims foul play occurred. Magari blames Zekhemet directly, creating a blood feud in the merchant community.

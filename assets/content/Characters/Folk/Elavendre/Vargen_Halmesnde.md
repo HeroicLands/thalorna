@@ -36,4 +36,4 @@ Vargen Hálmesnde is a 44-year-old man who stands 5'11" tall with a light build.
 
 # Dossier {#dossier}
 
-Vargen Hálmesnde is an ambitious noble of the Obsidian Order, with ties to dark magic and to military ambition. He treats the peace-brokering of [[being-rnthrprdln|Ranthor Párdalen]] as an obstacle to his plans for territorial expansion, and has twice tried to have him discredited or eliminated.
+Vargen Hálmesnde is an ambitious noble of the [Obsidian Order]{.name data-type="affiliation/order"}, with ties to dark magic and to military ambition. He treats the peace-brokering of [[being-rnthrprdln|Ranthor Párdalen]] as an obstacle to his plans for territorial expansion, and has twice tried to have him discredited or eliminated.

@@ -36,4 +36,4 @@ Délitha Kélvasnde is a 60-year-old woman who stands 5'5" tall with a light bui
 
 # Dossier {#dossier}
 
-Délitha Kélvasnde is the senior priestess of the temple at Liranel. She respects the work of [[being-velarithrl|Velthra Othral]] but has warned that the temple cannot support her ministry indefinitely.
+Délitha Kélvasnde is the senior priestess of the temple at [[place-liranel|Liranel]]. She respects the work of [[being-velarithrl|Velthra Othral]] but has warned that the temple cannot support her ministry indefinitely.

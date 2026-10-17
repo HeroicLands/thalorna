@@ -36,4 +36,4 @@ Sálvurne Áulirnde is a 32-year-old woman who stands 5'8" tall with a light bui
 
 # Dossier {#dossier}
 
-Sálvurne Áulirnde is the foreman of the Deepmine Consortium, a ruthless operative. She regards the safety rules of [[being-arevynlydr|Árevin Lidren]] as expensive obstacles to profit, and the two have clashed repeatedly over Árevin's warnings about unstable shafts.
+Sálvurne Áulirnde is the foreman of the [Deepmine Consortium]{.name data-type="affiliation/venture"}, a ruthless operative. She regards the safety rules of [[being-arevynlydr|Árevin Lidren]] as expensive obstacles to profit, and the two have clashed repeatedly over Árevin's warnings about unstable shafts.

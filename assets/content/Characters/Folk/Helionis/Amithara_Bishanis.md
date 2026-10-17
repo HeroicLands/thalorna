@@ -36,4 +36,4 @@ Amithara Bisanis is a 48-year-old woman who stands 5'9" tall with a medium build
 
 # Dossier {#dossier}
 
-Amithara Bisanis is a _marendos_ (master) of the Thordimalon (the Arcane Order) and the official who arranged the removal of [[being-talirbshrn|Talira Basiron]] from active training and has since kept her safe by keeping certain eyes averted. The two share a cold clarity: each knows what the other is capable of and understands the cost of visibility.
+Amithara Bisanis is a _marendos_ (master) of the [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) and the official who arranged the removal of [[being-talirbshrn|Talira Basiron]] from active training and has since kept her safe by keeping certain eyes averted. The two share a cold clarity: each knows what the other is capable of and understands the cost of visibility.

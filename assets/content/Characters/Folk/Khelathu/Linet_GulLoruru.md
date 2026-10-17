@@ -36,4 +36,4 @@ Linet Gul'Loruru is a 52-year-old man who stands 5'6" tall with a light build. H
 
 # Dossier {#dossier}
 
-Linet Gul'Loruru is a merchant prince and wealthy spice trader from the eastern provinces, a member of the Zebeku'Zut. He depended on the Iqe'Leru network long before the death of Gethor and now relies on the combined temple-and-commercial authority of [[being-thaluraiqelr|Thalura Iqe'Leru]] for political protection, providing exotic goods and useful intelligence from foreign ports in return.
+Linet Gul'Loruru is a merchant prince and wealthy spice trader from the eastern provinces, a member of the [[affiliation-zebequzut|Zebeku'Zut]]. He depended on the [Iqe'Leru]{.name data-type="affiliation/lineage"} network long before the death of [[being-gethoriqeler|Gethor Iqe'Leru]] and now relies on the combined temple-and-commercial authority of [[being-thaluraiqelr|Thalura Iqe'Leru]] for political protection, providing exotic goods and useful intelligence from foreign ports in return.

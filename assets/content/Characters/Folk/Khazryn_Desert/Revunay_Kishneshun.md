@@ -36,4 +36,4 @@ Revunay Kishneshun is a 57-year-old man who stands 5'10" tall with a medium buil
 
 # Dossier {#dossier}
 
-Revunay Kishneshun is a duke and an unscrupulous collector who is assembling an expedition to a crumbling monastery in the Kuran Mountains to find the lost formula of a perfumer of the ancient age. [[being-kharnhkhfr|Kharanah Khafur]] learns of the expedition and can let the formula remain lost or seek it first.
+Revunay Kishneshun is a duke and an unscrupulous collector who is assembling an expedition to a crumbling monastery in the [Kuran Mountains]{.name data-type="place/feature"} to find the lost formula of a perfumer of the ancient age. [[being-kharnhkhfr|Kharanah Khafur]] learns of the expedition and can let the formula remain lost or seek it first.

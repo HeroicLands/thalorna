@@ -36,4 +36,4 @@ Etherita Zarukhét is a 56-year-old woman who stands 5'7" tall with a medium bui
 
 # Dossier {#dossier}
 
-Etherita Zarukhét once held the office of Thaz'Lekhau of [[lore-qearetdty|Qe'aret]], out of [[place-amqelulegez|Amqelu-Legez]], and has since retired from it. Retirement has not ended the consultations: those who remember how she held the office still bring her the questions it used to answer. The office changed hands; the judgment behind it did not leave with the title.
+Etherita Zarukhét once held the office of Thaz'Lekhau of the [[affiliation-qearet|Faith of Qe'aret]], out of [[place-amqelulegez|Amqelu-Legez]], and has since retired from it. Retirement has not ended the consultations: those who remember how she held the office still bring her the questions it used to answer. The office changed hands; the judgment behind it did not leave with the title.

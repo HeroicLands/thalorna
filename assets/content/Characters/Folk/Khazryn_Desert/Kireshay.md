@@ -36,4 +36,4 @@ Kireshay is a 44-year-old man who stands 6'1" tall with a light build. He has ta
 
 # Dossier {#dossier}
 
-Kireshay is a captain of the City Guard and the local garrison commander. He has made begging and vagrancy a personal crusade, and views [[being-kamdkhvndr|Kamid Khavandar]] specifically as a troublemaker and vagrant to be driven out or arrested.
+Kireshay is a captain of the [City Guard]{.name data-type="affiliation"} and the local garrison commander. He has made begging and vagrancy a personal crusade, and views [[being-kamdkhvndr|Kamid Khavandar]] specifically as a troublemaker and vagrant to be driven out or arrested.

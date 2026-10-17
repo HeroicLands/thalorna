@@ -36,4 +36,4 @@ Nyevasa Úrthavnde is a 40-year-old woman who stands 5'6" tall with a medium bui
 
 # Dossier {#dossier}
 
-Nyevasa Úrthavnde is a sorcerer and the former master of Selon. She has been destroying enchanted objects throughout the realm, seemingly hunting for something specific, as [[being-alyrklmrth|Álira Kálmereth]] learns. In the account of [[being-afzndhprnzr|Afzandah Parnazar]] she is a sorcerer-lord who seeks mithral for a dark ritual.
+Nyevasa Úrthavnde is a sorcerer and the former master of [Selon Brightheart]{.name data-type="being/npc"}. She has been destroying enchanted objects throughout the realm, seemingly hunting for something specific, as [[being-alyrklmrth|Álira Kálmereth]] learns. In the account of [[being-afzndhprnzr|Afzandah Parnazar]] she is a sorcerer-lord who seeks mithral for a dark ritual.
