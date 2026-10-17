@@ -16,13 +16,13 @@ data:
   packFolder: adventures
 ---
 
-The dunes of the Khoshiqor have scoured open again the street of [[place-wilud|Vulud]] that Uruvolun sold twice four years ago, and at its end the counting-house tower of the [[lore-towercities|Tower League]] whose door the Tantsou collector's men forced then, the first to enter it in two thousand years. An Uruvol guide brings the party to it a day behind a rival crew. A sandstorm drives the party inside, where it finds the rival crew's work half done, one of them crushed flat with nothing on top of him, and a stone watchman at the foot of the stair that is never quite where the party left it. The watchman is not hunting the party. It keeps the house's goods, and it comes for whatever the party carries.
+The dunes of [[place-hskrrgn|Khoshiqor]] have scoured open again the street of [[place-wilud|Vulud]] that [Uruvolun]{.name data-type="being/npc"} sold twice four years ago, and at its end the counting-house tower of the league of [[lore-towercities|The Tower Cities]] whose door the [[lore-tantsouclt|Tantsou]] collector's men forced then, the first to enter it in two thousand years. A guide of the [[affiliation-rwlstrb|Uruvolur]] brings the party to it a day behind a rival crew. A sandstorm drives the party inside, where it finds the rival crew's work half done, one of them crushed flat with nothing on top of him, and a stone watchman at the foot of the stair that is never quite where the party left it. The watchman is not hunting the party. It keeps the house's goods, and it comes for whatever the party carries.
 
 ## Overview
 
 The adventure runs over one storm, from noon to the next dawn. Its clock is the sand: from the moment the storm breaks, sand pours through the doorways and windows of the ground floor, the shaded entrance fills by nightfall, and the lower passages fill after it, until the only ways out are the service door, which the watchman is blocking, and the roof, which is in the storm.
 
-Vulud was abandoned, not massacred, and nothing in [[place-bolidqiso|Bolidqiiso]] is a ghost. The danger is the **watchman**, a [[lore-golemcrtr|construct]] of the league that still keeps the house by orders nobody can read. It cannot be frightened or bargained with. It can be understood, and every scene below hands the party a piece of how it works. Every scene gives several ways through and says how play carries on if the party skips, fails or cuts short what the scene offers.
+Vulud was abandoned, not massacred, and nothing in [[place-bolidqiso|Bolidqiiso]] is a ghost. The danger is the **watchman**, one of the [[lore-golemcrtr|Constructs]] of the league that still keeps the house by orders nobody can read. It cannot be frightened or bargained with. It can be understood, and every scene below hands the party a piece of how it works. Every scene gives several ways through and says how play carries on if the party skips, fails or cuts short what the scene offers.
 
 **The essential clues** the party needs to meet the watchman prepared, and where each can be found:
 
@@ -65,7 +65,7 @@ The reveal belongs in Scene Three, when the house closes and the watchman moves 
 - **A party that has pocketed weights or glass.** It walks past the nearest of the party, past Uruvolun in its path, to the one with the weights. Uruvolun steps aside and it does not look at her.
 - **A party that has taken nothing.** It walks past them all to the dead hunter, lifts him with his pack and carries both through to the great balance.
 - **A party that laid the decoy.** It walks past them to the counting-floor pan where it put the decoy's weights, gathers them, and then goes for the dead hunter.
-- **A party freeing Kesukenod.** The blocks go home on the service door, the watchman turns from the niche without a glance at the people round it, and goes to whoever carries anything.
+- **A party freeing [Kesukenod]{.name data-type="being/npc"}.** The blocks go home on the service door, the watchman turns from the niche without a glance at the people round it, and goes to whoever carries anything.
 
 > [!TIP]
 > Land the reveal on its walk. Describe it coming straight at the party, and then describe it going past them: past the first, past Uruvolun, past the second, to the pack. Say nothing about why. The players who turn to look at their own packs have found it.
@@ -86,7 +86,7 @@ Once the reveal lands, the treasure is the danger, and the greed that brought th
 ## Hooks
 
 - **The thief.** A Tantsou collector paid Uruvolun for the news of the street and is a day behind. Four years ago his men were the first into this house and came home with seals and weights, and he has paid the party to go ahead of him and bring out the seals before anyone else does. He tells the party his men worked a whole day in the house and the stone figure never moved.
-- **The mercenary or common soldier.** A Bizarian factor bought the same news, and his own crew went in ahead. Four years ago he paid for this street and reached it a day too late, and this time he sent his crew the hour he paid. He hires the party to follow, find out why his crew has not come back, and bring out what they found.
+- **The mercenary or common soldier.** A [[lore-byzarianclt|Bizarian]] factor bought the same news, and his own crew went in ahead. Four years ago he paid for this street and reached it a day too late, and this time he sent his crew the hour he paid. He hires the party to follow, find out why his crew has not come back, and bring out what they found.
 - **The leader.** The party's company needs money, and Uruvolun sells it the news cheap because she has already sold it twice. She guides whoever arrives first, and the party is first of the paying buyers, but not the first into the street.
 - **The lone wanderer.** One of the rival crew is the wanderer's kin, or owes the wanderer money, and went in two days ago without saying goodbye.
 
@@ -114,13 +114,13 @@ Read or paraphrase:
 
 > Inside the doorway the air is cool for the first time since dawn. A long vaulted hall runs back into the dark, its walls pocked with hollows, and from somewhere along them comes a dry rattle like seed in a gourd. At the far end a broad stair goes up. Behind you the storm comes over the street with a sound like surf.
 
-**Situation.** The storm arrives within the hour. The party goes in past the watchman at the doorway. The shaded entrance is a long vaulted hall, the only cool in the street, and in its hollow walls [[being-bnscrpn|bone scorpions]] wait in the shade. At the far end of the hall the inner stair goes up. When the party reaches it, with the scorpions behind it, the watchman is standing at the stair foot, facing the doorway, hands out, palms up. Back at the doorway, where it stood, there is a hollow in the drift the shape of its legs, and a line of square, deep footprints runs up the hall past the scorpions, which did not stir, and past the party's own line of march without a step out of its way.
+**Situation.** The storm arrives within the hour. The party goes in past the watchman at the doorway. The shaded entrance is a long vaulted hall, the only cool in the street, and in its hollow walls bone scorpions (the [[being-bnscrpn|Bone Scorpion]] kind) wait in the shade. At the far end of the hall the inner stair goes up. When the party reaches it, with the scorpions behind it, the watchman is standing at the stair foot, facing the doorway, hands out, palms up. Back at the doorway, where it stood, there is a hollow in the drift the shape of its legs, and a line of square, deep footprints runs up the hall past the scorpions, which did not stir, and past the party's own line of march without a step out of its way.
 
 The watchman has gone to its stair because the wind has turned, and it means to close the house. It touched nobody on the way because nobody carries anything of the house's.
 
 **NPCs and threats.**
 
-- **Uruvolun** is small and quick, with a face burned nearly black and a cord of tokens round her neck. She keeps the whole bargain: the party arrives, or she stays with it until it cannot. She knows the Khoshiqor, and she has been in one counting-house before: this one, four years ago, when she guided the Tantsou's men to its door. She tells the party that league buildings have doors their guardians will not pass, and she does not know which doors those are in this one. Asked about the figure, she says it stood by the doorway then too, and that the Tantsou's men carried their caskets out past it all day and it never moved. She takes nothing in a dead city, and says so if a party member pockets anything: nothing taken from inside has ever stayed anyone's.
+- Uruvolun is small and quick, with a face burned nearly black and a cord of tokens round her neck. She keeps the whole bargain: the party arrives, or she stays with it until it cannot. She knows the Khoshiqor, and she has been in one counting-house before: this one, four years ago, when she guided the Tantsou's men to its door. She tells the party that league buildings have doors their guardians will not pass, and she does not know which doors those are in this one. Asked about the figure, she says it stood by the doorway then too, and that the Tantsou's men carried their caskets out past it all day and it never moved. She takes nothing in a dead city, and says so if a party member pockets anything: nothing taken from inside has ever stayed anyone's.
 - **The bone scorpions**, two or three, lie in the cool along the walls. Their dry rattle carries under the wind.
 - **The watchman** does not move while anyone is looking at it. It walked up the hall while every eye in the party was on the scorpions.
 
@@ -194,8 +194,8 @@ When the last block goes home, the house is closed, and the watchman moves in pl
 
 **NPCs and threats.**
 
-- **Kesukenod**, the second looter, a Sovidur hired hand of the rival crew. He is a broad man with a broken rib and a whole seal of dark wax in his fist, which he pried from the strongroom's door-frame. Once he can breathe he says two things, and little else that the party has not seen for itself: "It passed me because I held the seal. My partner had the sack." He dropped the seal to drag his partner out of the pan, and he woke in the niche. He has been there since yesterday, and he does not know what became of the hunter.
-- **Uruvolun**, who goes to the lamp-stair door at the first scrape of the blocks and stands on its threshold. When the watchman walks past her she watches it go, and then looks at the party's packs.
+- Kesukenod, the second looter, a [[lore-sowidesclt|Sovidur]] hired hand of the rival crew. He is a broad man with a broken rib and a whole seal of dark wax in his fist, which he pried from the strongroom's door-frame. Once he can breathe he says two things, and little else that the party has not seen for itself: "It passed me because I held the seal. My partner had the sack." He dropped the seal to drag his partner out of the pan, and he woke in the niche. He has been there since yesterday, and he does not know what became of the hunter.
+- Uruvolun, who goes to the lamp-stair door at the first scrape of the blocks and stands on its threshold. When the watchman walks past her she watches it go, and then looks at the party's packs.
 - **The watchman**, closing the house.
 - **The sand**, now waist-deep in the entrance hall, closing the front door.
 
@@ -215,7 +215,7 @@ When the last block goes home, the house is closed, and the watchman moves in pl
 > [!WARNING]
 > Taking Kesukenod's seal from him closes a route. A man with nothing in his hands and no seal in a closed house is stock, and the watchman files him again once the thieves are dealt with. A party that takes the seal and leaves him in the open has put him back in the niche.
 
-**Consequences.** The house is closed. From now on the watchman moves in plain sight, and it comes for whatever of the house's is carried without a whole seal over it. The front entrance is full of sand to the vault, and the only ways out are the service door past the weighing hall, the strongroom's goods-chute to the court, and the roof by the lamp-stair, which is in the storm and full of numaq at dusk.
+**Consequences.** The house is closed. From now on the watchman moves in plain sight, and it comes for whatever of the house's is carried without a whole seal over it. The front entrance is full of sand to the vault, and the only ways out are the service door past the weighing hall, the strongroom's goods-chute to the court, and the roof by the lamp-stair, which is in the storm and full of [[being-numek|Numaq]] at dusk.
 
 **If bypassed, failed or cut short.** A party that never doubles back and never sees the watchman change its place meets it standing in a doorway behind them, between the party and the stair, facing whoever carries the most. A party that never finds the niche hears Kesukenod's breathing through the wall of the counting floor; if it still does not look, he is found in Scene Four, filed in a niche of the weighing hall, alive and unable to move. A party that hurries ahead to the service door before the blocks are set reaches it as the last block goes into place, with the watchman on the far side of it.
 
@@ -267,8 +267,8 @@ The man in the pan is Kesukenod's partner. His chest carries the same palm marks
 
 **NPCs and threats.**
 
-- **Uruvolun**, who keeps the whole bargain, and wants her fee.
-- **Kesukenod**, if he lives, who wants a share for the seal.
+- Uruvolun, who keeps the whole bargain, and wants her fee.
+- Kesukenod, if he lives, who wants a share for the seal.
 - **The watchman**, if it still walks, which comes for any load lifted here without a seal over it.
 - **The rival buyer**, whose men may still be on the far side of the dune, or the party's own employer, a day behind.
 

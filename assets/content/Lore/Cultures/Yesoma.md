@@ -18,7 +18,7 @@ data:
 # terran_analog: "The Mbuti and BaAka foragers of the Congo basin. Carries over: small mobile bands, net-hunting, honey, leaf huts, the forest as a parent, strict sharing, a light and easily abandoned leadership, and the night song that wakes the forest. Departs: one tongue shared with every other forest tradition, no dependence on farming villages, and the dead left in an abandoned camp."
 ---
 
-The **Yesoma** are the canopy foragers, one of the four traditions of the [[lore-bikoclt|forest peoples]], and the largest. Their name is _yeso_, the forest, with the ending of a child: they are the forest's children, and they say so of themselves before anything else.
+The Yesoma are the canopy foragers, one of the four traditions of the [[lore-bikoclt|Biko]] forest peoples, and the largest. Their name is _yeso_, the forest, with the ending of a child: they are the forest's children, and they say so of themselves before anything else.
 
 ## Where They Live
 
@@ -28,7 +28,7 @@ Yesoma tribes live in the deep interior of the [[place-cntrlrnfrsts|Central Rain
 
 A Yesoma band is a few families, and it moves. It camps in domed huts of bent saplings and leaves, built in an afternoon, and moves on when the game thins, when the honey season calls it elsewhere, or when the camp quarrels. It keeps no gardens and no stores.
 
-The band lives by the net-hunt, the honey and the nut. In a net-hunt the men string their nets in a long curve across the forest floor and the women and children drive the game into them with shouting and beaten branches. In the honey season the bands of a tribe gather, climb for the combs, and eat little else for weeks. Women gather nuts, fruit, mushrooms, grubs and roots the year round. What the band cannot find it trades for at a Luwando landing, honey and ivory for fish, salt and metal.
+The band lives by the net-hunt, the honey and the nut. In a net-hunt the men string their nets in a long curve across the forest floor and the women and children drive the game into them with shouting and beaten branches. In the honey season the bands of a tribe gather, climb for the combs, and eat little else for weeks. Women gather nuts, fruit, mushrooms, grubs and roots the year round. What the band cannot find it trades for at a [[lore-luwandoclt|Luwando]] landing, honey and ivory for fish, salt and metal.
 
 Everything is shared. Every member of the band is owed a _kpeti_, a share, of every kill and every comb, and the hunter whose net took the animal does the dividing and keeps nothing more than anyone else. Keeping back food is the worst thing a Yesoma can do, worse than violence, and a person who does it is mocked until the band laughs it out of them.
 
@@ -56,7 +56,7 @@ Young people meet and marry at the honey gatherings, and a couple lives with eit
 
 The dead are left to the forest. When someone dies, the band lays the body in their own hut, closes the doorway with leaves, and leaves the camp that day. The abandoned camp is _hewo_, and no band camps on it again. The dead person's name is not spoken until a child is born who is given it.
 
-The Yesoma do not speak to the dead as the other traditions do. The dead have gone back to the parent, and that is all there is to say.
+The Yesoma do not speak to the dead as the other traditions do. In their teaching, the dead have gone back to the parent, and that is all there is to say.
 
 ## Their Own Words
 
@@ -69,9 +69,11 @@ The Yesoma do not speak to the dead as the other traditions do. The dead have go
 
 ## The Other Three
 
-- **The [[lore-luwandoclt|Luwando]]** sold their mother. They sit in one place, scratch gardens into the forest's skin and hand its gifts to strangers for metal. The Yesoma trade with them all the same, because the metal is good.
-- **The [[lore-kubindoclt|Kubindo]]** are afraid of the forest. They serve one corner of it like servants serving a stranger's house, and never trust the rest. The Yesoma find their manners tiring and their spirit-places worth avoiding.
-- **The [[lore-pewayeclt|Pewaye]]** are hardly forest people at all. They hold the forest as a thing that belongs to them, which no child says of a parent, and they talk like outsiders.
+In the Yesoma's account:
+
+- The Luwando sold their mother. They sit in one place, scratch gardens into the forest's skin and hand its gifts to strangers for metal. The Yesoma trade with them all the same, because the metal is good.
+- The [[lore-kubindoclt|Kubindo]] are afraid of the forest. They serve one corner of it like servants serving a stranger's house, and never trust the rest. The Yesoma find their manners tiring and their spirit-places worth avoiding.
+- The [[lore-pewayeclt|Pewaye]] are hardly forest people at all. They hold the forest as a thing that belongs to them, which no child says of a parent, and they talk like outsiders.
 
 ## What an Outsider Sees
 

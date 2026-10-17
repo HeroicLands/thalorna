@@ -18,22 +18,22 @@ data:
 
 ## The Unwritten Vault
 
-In the dry margin west of the river lies a rock-cut common tomb that no temple roll mentions. Its dead were walled in unspoken, and a struck priest of the Houses now raises them at dusk and sets them to hauling stone. The party goes in for loot, for a debt, for a refuge or for a widow's sake, and finds out why a place unwritten is a dangerous place. The adventure runs in five scenes, each of which can be met with force, stealth, guile or parley, and each of which states how play carries on if the party skips it.
+In the dry margin west of the river lies a rock-cut common tomb that no temple roll mentions. Its dead were walled in unspoken, and a struck priest of the Houses of [[lore-khelunulekha|Khelunu Lekhau]] now raises them at dusk and sets them to hauling stone. The party goes in for loot, for a debt, for a refuge or for a widow's sake, and finds out why a place unwritten is a dangerous place. The adventure runs in five scenes, each of which can be met with force, stealth, guile or parley, and each of which states how play carries on if the party skips it.
 
 Read [[place-clublstvlt|The Burial Club's Last Vault]] first. The adventure assumes the [[lore-khelathiclt|Khelathi]] ledger-ethic: an open entry follows a person into the [[place-zulaten|Zulaten]], a person's real protection is whoever will stand for them, and the poor fear nothing so much as dying unspoken.
 
 ### The Truth Behind the Vault
 
-**What happened.** The quarrymen of Zel-Qedlu paid a club that bought each of them the third grade of burial. The club's master, **Wazlegir**, spent the club's last purse on a gifted boy of the village, **Qeltzin**, sending him to the temple school and from there into [[affiliation-garqeltnu|Gar-Qelt'nu]], so that the club would one day have a lector of its own and none of its dead would lie unspoken. Qeltzin rose to the rank of Lekhau. He was struck from the House, for reasons the House does not give and keeps no record of, before he could return. The club failed, a fever came, and its dead were walled up with no rite said.
+**What happened.** The quarrymen of [Zel-Qedlu]{.name data-type="place/settlement"} paid a club that bought each of them the third grade of burial. The club's master, [Wazlegir]{.name data-type="being/creature"}, spent the club's last purse on a gifted boy of the village, [Qeltzin]{.name data-type="being/npc"}, sending him to the temple school and from there into [[affiliation-garqeltnu|Gar-Qelt'nu]], so that the club would one day have a lector of its own and none of its dead would lie unspoken. Qeltzin rose to the rank of Lekhau. He was struck from the House, for reasons the House does not give and keeps no record of, before he could return. The club failed, a fever came, and its dead were walled up with no rite said.
 
-**What Qeltzin believes.** Qeltzin came home to a hill of unspoken dead and could not speak the rite, because a struck man's words carry no House authority. He has convinced himself of a grievance: the club's last purse paid for his schooling, so the club's own accounts are not closed, and the dead owe the labor. He raises them at dusk and cuts a tomb for himself, because a man struck from the House's roll has no Name on any record and fears the Weighing. His working reads: _rise at dusk and work until the entry is closed._
+**What Qeltzin believes.** Qeltzin came home to a hill of unspoken dead and could not speak the rite, because a struck man's words carry no House authority. He has convinced himself of a grievance: the club's last purse paid for his schooling, so the club's own accounts are not closed, and the dead owe the labor. He raises them at dusk and cuts a tomb for himself, because a man struck from the House's roll has no Name on any record and fears [The Weighing]{.name data-type="lore/theology"}. His working reads: _rise at dusk and work until the entry is closed._
 
-**What is true.** The roll in the sealed chamber shows that the schooling was a prepaid fee. Every account in the club is closed, the dead owe nothing, and the only open entry in the whole roll is Qeltzin's own promise to come home. His working is looser than he knows. Because the Names of the dead were never set, the Shadow fills the gaps where Names should be, and every season the Unwrapped are less themselves. The vault is on its way to becoming a _zelalgit_, a thin blood-field, the Devourer's place.
+**What is true.** The roll in the sealed chamber shows that the schooling was a prepaid fee. Every account in the club is closed, the dead owe nothing, and the only open entry in the whole roll is Qeltzin's own promise to come home. His working is looser than he knows. Because the Names of the dead were never set, [[lore-theshadow|The Shadow]] fills the gaps where Names should be, and every season the [Unwrapped]{.name data-type="being/creature"} are less themselves. The vault is on its way to becoming a _zelalgit_, a thin blood-field, [Algit]{.name data-type="being/creature"} the Devourer's place.
 
 ### Hooks
 
 - **The thief.** A drover sells the rumor that a poor club's savings lie in the sealed chamber at the back of its vault and that nobody has ever robbed it. The party takes the caravan road west to find out why.
-- **The soldier or the deserter.** A soldier in flight from the Meglay is told the margin is empty. A mercenary hired to escort a temple's captain finds that three watch-priests walked west and did not return. Either way the one place with a roof and a door is the vault.
+- **The soldier or the deserter.** A soldier in flight from the [Meglay]{.name data-type="affiliation/governmental"} is told the margin is empty. A mercenary hired to escort a temple's captain finds that three watch-priests walked west and did not return. Either way the one place with a roof and a door is the vault.
 - **The leader.** A herder-chieftain of the western margin holds grazing under arrangement with the Halzi'a, and three of his men have gone to the red hills in a season. He offers pasture-rights in exchange for the matter being closed, and he cannot pay in anything else.
 - **The wanderer.** A widow in a river town holds her husband's dues receipt in a clay jar and has been refused the rite at two temples, because the club's roll is not in the temples' hands. She asks to be taken to his niche.
 
@@ -45,7 +45,7 @@ Read [[place-clublstvlt|The Burial Club's Last Vault]] first. The adventure assu
 
 **NPCs and threats.**
 
-- **The Unwrapped.** Quarrymen dead for years, still in the cheap brown linen of the third grade, rotted at the hem. Their hands are the same hands, scarred and blunt, and their faces are slack and turned a little aside. They haul in step to a work-song nobody sings, and their lips move on the second line. They do not run, do not tire and do not pursue past the foot of the ramp. They strike whoever breaks the line of work, and they ignore whoever works with them. A gang of six moves at a time.
+- The Unwrapped. Quarrymen dead for years, still in the cheap brown linen of the third grade, rotted at the hem. Their hands are the same hands, scarred and blunt, and their faces are slack and turned a little aside. They haul in step to a work-song nobody sings, and their lips move on the second line. They do not run, do not tire and do not pursue past the foot of the ramp. They strike whoever breaks the line of work, and they ignore whoever works with them. A gang of six moves at a time.
 - **The cornerstone.** A block at the ramp's head carries a half-cut sign in the sacred hand, repeated down the face, and is the cornerstone of the thing being built below.
 
 **Player choices.**
@@ -69,7 +69,7 @@ Read [[place-clublstvlt|The Burial Club's Last Vault]] first. The adventure assu
 
 **NPCs and threats.**
 
-- **Wazlegir.** The club's master, dead with his accounts closed and his wits partly intact, because no working could bind a man who had entered his own Name in the roll. He is one of the few things in the vault not entirely Qeltzin's. He keeps the hall as he kept it in life and remembers his office better than his face. His jaw is bound with a linen strip, and his speech is slow and exact. He wants dues from every visitor, a copper gezan a head, or a member's word. He does not fight unless the hall is robbed, and then he fights as a man whose purse is being taken: without art, with no sense of mercy, with total persistence.
+- Wazlegir. The club's master, dead with his accounts closed and his wits partly intact, because no working could bind a man who had entered his own Name in the roll. He is one of the few things in the vault not entirely Qeltzin's. He keeps the hall as he kept it in life and remembers his office better than his face. His jaw is bound with a linen strip, and his speech is slow and exact. He wants dues from every visitor, a copper gezan a head, or a member's word. He does not fight unless the hall is robbed, and then he fights as a man whose purse is being taken: without art, with no sense of mercy, with total persistence.
 - **The tally.** Wazlegir's stick is notched and the shelves are full. A character who reads the jars finds one stamped _Qeltzin_ with the seal broken.
 
 **Player choices.**
@@ -118,7 +118,7 @@ Read [[place-clublstvlt|The Burial Club's Last Vault]] first. The adventure assu
 
 **NPCs and threats.**
 
-- **Qeltzin.** A struck Lekhau of Gar-Qelt'nu, grey with lime-dust, thin in the way of a man who has not eaten for the work. His hands are black to the wrist, and a close look shows the black is not dirt and does not rub off. He speaks the formal diction of the House, precise, tired, and slightly wrong in a way that is hard to name: the voice comes out a half-beat behind his lips. He holds the Unwrapped by speech and by a knotted cord at his belt, and they stop when he stops. He can seal a threshold against the party, bind a tongue to silence and strike a name from a person's hearing, so that those who give their names freely to him find that they are not remembered by anyone for an hour. He is not a coward and not a fool. He is a man who has been right about everything except one thing.
+- Qeltzin. A struck Lekhau of Gar-Qelt'nu, grey with lime-dust, thin in the way of a man who has not eaten for the work. His hands are black to the wrist, and a close look shows the black is not dirt and does not rub off. He speaks the formal diction of the House, precise, tired, and slightly wrong in a way that is hard to name: the voice comes out a half-beat behind his lips. He holds the Unwrapped by speech and by a knotted cord at his belt, and they stop when he stops. He can seal a threshold against the party, bind a tongue to silence and strike a name from a person's hearing, so that those who give their names freely to him find that they are not remembered by anyone for an hour. He is not a coward and not a fool. He is a man who has been right about everything except one thing.
 - **The hall's Unwrapped.** Twenty or thirty, hauling and setting, who turn on his word and fight as a block, without hurry.
 
 **Player choices.**
@@ -146,7 +146,7 @@ Read [[place-clublstvlt|The Burial Club's Last Vault]] first. The adventure assu
 **Player choices.**
 
 - _Read the roll aloud._ The first column holds the members and the sum each paid. Every entry has a closing stroke. The last entry is not a member's. It records the sum paid for the education of a boy of the village _to be the club's lector_, with a closing stroke already made, and under it Wazlegir's note: _Paid in full. Open entry: the boy's coming home._ The working's condition is _until the entry is closed_, and a character who closes Qeltzin's entry by saying _he is home_ ends it. The Unwrapped lie down.
-- _Take the roll._ A temple of Weth'ur or a House that wants to prove a lector was schooled at a club's expense pays for it.
+- _Take the roll._ A temple of the [[affiliation-wethur|Faith of Weth'ur]] or a House that wants to prove a lector was schooled at a club's expense pays for it.
 - _Take the chest._ A few silver qelu and a mass of copper tokens, a lector's contract, and the club's amulet-mold.
 - _Speak the rite._ A priest of [[lore-wethurdty|Weth'ur]] or a Lekhau of Gar-Ithnetáu who reads the Names and says the Westward words puts the dead to their rest. Without one, the Unwrapped lie still and the vault remains unspoken.
 

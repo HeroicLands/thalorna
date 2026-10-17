@@ -16,18 +16,18 @@ data:
   packFolder: adventures
 ---
 
-A jarl who could not put down his drowned sons has learned the names of the sea from a Helspawn lord, and his sea-cave hall now holds the drowned of a whole coast at the oars of a ship that never sails. At midwinter the lord comes to collect what the jarl owes. The party goes in on the ebb to take the dead out, or to take what the jarl has gathered.
+A jarl who could not put down his drowned sons has learned the names of the sea from a lord of the [[lore-undead|Undead]], and his sea-cave hall now holds the drowned of a whole coast at the oars of a ship that never sails. At midwinter the lord comes to collect what the jarl owes. The party goes in on the ebb to take the dead out, or to take what the jarl has gathered.
 
 ## Overview
 
-Under the stones of the cape, half a day's row from [[place-vrathavn|Vrathavn]], the sea-cave of [[place-thraldholl|Thraldholl]] opens at the lowest ebb. Inside, **Jarl Svilthmil** keeps a ship on a cradle of whale-ribs, and at its oars he keeps the drowned: his three sons, the crews of lost Vrathavn ships and the bodies the coast gave up to him as it gave up the rest. He calls them by the names cut on the stones above the cave. His teacher is **Thilmorv**, the Reeve of Quiet, a [[being-tereb|nightwight]] lord of the [[affiliation-nghtwghtcncl|Nightwight Council]]. The price was a hall of the dead, and Thilmorv comes on the longest night of [[lore-jol|Jel]] to take delivery.
+Under the stones of the cape, half a day's row from [[place-vrathavn|Vrathavn]], the sea-cave of [[place-thraldholl|Thraldholl]] opens at the lowest ebb. Inside, Jarl [Svilthmil]{.name data-type="being/npc"} keeps a ship on a cradle of whale-ribs, and at its oars he keeps the drowned: his three sons, the crews of lost Vrathavn ships and the bodies the coast gave up to him as it gave up the rest. He calls them by the names cut on the stones above the cave. His teacher is [Thilmorv]{.name data-type="being/creature"}, the Reeve of Quiet, a lord of the [[being-tereb|Tereb]] of the [[affiliation-nghtwghtcncl|Nightwight Council]]. The price was a hall of the dead, and Thilmorv comes on the longest night of [[lore-jol|Jel]] to take delivery.
 
-All of this is [[lore-theshadow|the Shadow]] working on the drowned, and on a grieving man who would not let them go.
+All of this is [[lore-theshadow|The Shadow]] working on the drowned, and on a grieving man who would not let them go.
 
 ## Hooks
 
 - **The thief.** A Vrathavn ship-chandler says a southern factor's strongbox went down off the cape three winters back and was never found. A drowned man's skiff, the fishermen say, was seen going in at the cave with something heavy. The chandler wants the box and will pay for it.
-- **The mercenary or common soldier.** The shield-maiden of the [[place-shieldhall|Shield-Hall]] needs three hard people to go down to the cape. A crew-bond she sealed was broken when a crew's dead were taken from their stones, and the bereaved are asking her what became of them. She cannot send her own warriors, who are sworn to the town.
+- **The mercenary or common soldier.** The shield-maiden of [[place-shieldhall|The Shield-Hall]] needs three hard people to go down to the cape. A crew-bond she sealed was broken when a crew's dead were taken from their stones, and the bereaved are asking her what became of them. She cannot send her own warriors, who are sworn to the town.
 - **The leader.** A skipstjori whose brother drowned with his ship and whose stone has been defaced by his own kin wants his crew's dead brought home for the grave-ale they never got. He will pay in silver and the loan of his longship.
 - **The lone wanderer.** The wanderer's brother is a name on the cape. Late at night, a voice outside the wanderer's door, in the brother's speech, says the wanderer's own name.
 
@@ -51,7 +51,7 @@ All of this is [[lore-theshadow|the Shadow]] working on the drowned, and on a gr
 
 **Purpose.** Let the party speak to the dead, and learn what the cave is for.
 
-**Situation.** The great vault is lined with lamps. The ship on its whale-rib cradle stands in the middle, with its oars manned by the drowned, who sit stiff and wet with their eyes open. There are more than thirty. A woman at the third oar turns her head as the party passes. Her name is **Skilfrinna**, and she is a Vrathavn shipmaster's daughter, drowned in the autumn. She has kept more of herself than the others, because her stone was never raised.
+**Situation.** The great vault is lined with lamps. The ship on its whale-rib cradle stands in the middle, with its oars manned by the drowned, who sit stiff and wet with their eyes open. There are more than thirty. A woman at the third oar turns her head as the party passes. Her name is [Skilfrinna]{.name data-type="being/creature"}, and she is a Vrathavn shipmaster's daughter, drowned in the autumn. She has kept more of herself than the others, because her stone was never raised.
 
 **NPCs and threats.** The hafnár do not move against the party while the jarl is at his table. Skilfrinna speaks in the voice of a person underwater. She tells the party that the jarl calls them by their stones and that the ones with no stones, the stoneless, are the ones he cannot call, so they are the ones who can still speak. She wants someone to speak her name at her mother's hearth. The jarl's living servants, six thralls from a failed stead, bring the lamp-oil and keep their eyes down.
 
@@ -83,9 +83,9 @@ All of this is [[lore-theshadow|the Shadow]] working on the drowned, and on a gr
 
 **Purpose.** The confrontation with the sorcerer-jarl and the Helspawn lord.
 
-**Situation.** On the longest night of Jel, a ship with no sail comes into the cave on the flood and the Reeve of Quiet walks across its gunwale into the hall. **Thilmorv** looks like a courteous old steward in a gray cloak, with his hands folded and his eyes lowered, and the cloak of his living face frays in the lamp-light. The jarl rises from his high seat. Behind him, at the oars, the drowned stir.
+**Situation.** On the longest night of Jel, a ship with no sail comes into the cave on the flood and the Reeve of Quiet walks across its gunwale into the hall. Thilmorv looks like a courteous old steward in a gray cloak, with his hands folded and his eyes lowered, and the cloak of his living face frays in the lamp-light. The jarl rises from his high seat. Behind him, at the oars, the drowned stir.
 
-**NPCs and threats.** **Svilthmil** is a tall cold man the color of tallow with a jarl's ring-mail rusted to him. He is not mad. He is a father, and he is willing to pay any price for the dead he has. **Thilmorv** is the Reeve of Quiet, a tereb of the Council, polite as a clerk and without mercy. He holds a ledger of hazel tally-sticks. He needs the drowned of the cave for the Council's debt, and he is willing to leave the jarl alive to be useful or kill him to be tidy.
+**NPCs and threats.** Svilthmil is a tall cold man the color of tallow with a jarl's ring-mail rusted to him. He is not mad. He is a father, and he is willing to pay any price for the dead he has. Thilmorv is the Reeve of Quiet, a tereb of the Council, polite as a clerk and without mercy. He holds a ledger of hazel tally-sticks. He needs the drowned of the cave for the Council's debt, and he is willing to leave the jarl alive to be useful or kill him to be tidy.
 
 **Player choices.** Force: attack the Reeve in the lamp-light, where the cloak of his life frays and his Helspawn nature shows. Stealth: cut the tally-sticks and burn the ledger while he talks. Guile: offer Thilmorv something he wants more than the cave, a sacrifice or a secret. Parley: stand before the jarl and speak the names of his three sons, and ask him to let them go.
 
@@ -116,7 +116,7 @@ All of this is [[lore-theshadow|the Shadow]] working on the drowned, and on a gr
 - **If the sons were freed and the ledger burned.** The jarl dies on the ebb, a man at last, and the bereaved of Vrathavn raise their stones again. The cave floods and does not clear.
 - **If Thilmorv escaped.** The Council has a new debtor, and the hafnár that remain are his.
 - **If the drowned were freed.** The kin of Vrathavn hold a grave-ale on the cape. The Shield-Hall seals a new bond in the party's honor, and the shield-maiden asks them to find the captain named in the ledger.
-- **If the party failed.** The cave keeps its hall, the Reeve leaves with the jarl's debt paid, and the Jel-Ride has more riders than the coast can name.
+- **If the party failed.** The cave keeps its hall, the Reeve leaves with the jarl's debt paid, and the [Jel-Ride]{.name data-type="lore/spirit"} has more riders than the coast can name.
 
 ## See Also
 

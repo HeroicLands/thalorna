@@ -21,6 +21,6 @@ data:
 
 **Role.** Manages the household and logistics of the embassy.
 
-**Background.** Known for his organisational skill and his loyalty to Dúnavarre and its Synod.
+**Background.** Known for his organisational skill and his loyalty to the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] and its [[affiliation-dunavarsynod|Dúnavarre Synod]].
 
 **Intrigue.** Secretly resents the Ambassador's authority, believing his own loyalty and hard work earned him a higher place. Susceptible to bribery or to conspiring against him.

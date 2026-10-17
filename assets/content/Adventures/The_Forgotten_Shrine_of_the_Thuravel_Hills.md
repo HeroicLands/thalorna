@@ -16,21 +16,21 @@ data:
 
 ## The Forgotten Shrine of the Túravel Hills
 
-A shrine hidden in the Túravel Hills holds secrets of pre-Aureldían traditions. The party must locate and explore it, uncovering what knowledge or power the ancients left behind—and what prices came with it.
+The [[place-shrinethuravelhills|Shrine of Túravel Hills]], hidden in the [[place-thuravelhills|Túravel Hills]], holds secrets of pre-Aureldían traditions. The party must locate and explore it, uncovering what knowledge or power the ancients left behind—and what prices came with it.
 
 ### Overview
 
-Deep in the Túravel Hills of southern [[place-provenzrgn|Provenzia Region]] stands a shrine forgotten by official history but remembered in old songs and fragmentary records. Built long before the [[affiliation-arldnpnthn|Aureldian]] faith took root in the region, the shrine was dedicated to deities and traditions that predate human civilization or were supplanted centuries ago. Local legends speak of the shrine as a place of great power and terrible danger, where those who worship there gain favor or incur wrath from forces beyond human comprehension. The party is hired to locate the shrine, document its contents, and recover any artifacts or knowledge it contains.
+Deep in the Túravel Hills of southern [[place-provenzrgn|Provenzia Region]] stands a shrine forgotten by official history but remembered in old songs and fragmentary records. Built long before worship of the [[affiliation-arldnpnthn|Aureldian Pantheon]] took root in the region, the shrine was dedicated to deities and traditions that predate human civilization or were supplanted centuries ago. Local legends speak of the shrine as a place of great power and terrible danger, where those who worship there gain favor or incur wrath from forces beyond human comprehension. The party is hired to locate the shrine, document its contents, and recover any artifacts or knowledge it contains.
 
 ### Stage One: The Commission & Research
 
 The party is approached by:
 
 - A scholar or antiquarian seeking pre-Aureldían knowledge
-- An agent of the [[affiliation-ordoarcanis|Thordimalon]] claiming authority over arcane sites
+- An agent of [[affiliation-ordoarcanis|Thordimalon]] claiming authority over arcane sites
 - A noble seeking to expand personal power through ancient practices
-- An Áelendi guide or fae-touched individual with family memory of the shrine
-- A priestess or priest of the Aureldian faith concerned about the shrine's influence
+- A guide of the [[affiliation-aelndntrbs|Áelendan Tribes]] or fae-touched individual with family memory of the shrine
+- A priestess or priest of one of the Aureldian faiths concerned about the shrine's influence
 
 **Initial Information:**
 
@@ -72,7 +72,7 @@ The party must locate the shrine, a journey that may prove challenging:
 As the party draws near, they discover:
 
 - A clearing or hidden valley containing the shrine
-- Architecture that predates Provenzian settlement (possibly connected to the Sinale or other ancients)
+- Architecture that predates Provenzian settlement (possibly connected to the [[lore-flksinale|Sinale Folk]] or other ancients)
 - Inscriptions in archaic languages and pre-Aureldían symbols
 - Weathered statues or idols of forgotten deities
 - Signs of both religious veneration and deliberate damage (the shrine was likely desecrated or sealed)
@@ -123,7 +123,7 @@ Preserve & Protect
 : Seal the shrine again, keeping it hidden from those who would exploit it
 
 Document & Report
-: Share findings with scholars, the [[affiliation-arldnpnthn|Aureldian]] Church, or the [[affiliation-ordoarcanis|Thordimalon]]
+: Share findings with scholars, the Aureldian churches, or Thordimalon
 
 Claim & Exploit
 : Attempt to use the shrine's power for personal benefit or to advance the party's agenda
@@ -137,8 +137,8 @@ Leave & Warn
 **Complications & Consequences:**
 
 - The shrine is sacred to hidden worshippers, who oppose its disturbance
-- The [[affiliation-arldnpnthn|Aureldian]] Church demands the shrine be desecrated or brought under their control
-- The [[affiliation-ordoarcanis|Thordimalon]] insists on studying any artifacts or magical sites discovered
+- The Aureldian churches demand the shrine be desecrated or brought under their control
+- Thordimalon insists on studying any artifacts or magical sites discovered
 - Possession of items from the shrine draws unwanted attention (fae entities, ancient spirits, cults)
 - The shrine's power cannot be fully contained; knowledge of its existence spreads
 - The party is bound by oath or curse to protect or further the shrine's original purposes

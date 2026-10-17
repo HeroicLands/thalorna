@@ -16,18 +16,18 @@ data:
   packFolder: adventures
 ---
 
-A hall-lord of the Age of Halls sits in his high seat under a bare fell, with his dead war-band at the benches and the grave-ale owed to him still undrunk. A hidden servant of the corpse-goddess has set a shard of black glass in his ship to hold him there, and means to turn the oldest oath on the pass into a weapon. The party climbs to the howe to find out what the dead man wants and what it will cost to give it to him.
+A hall-lord of the [Age of Halls]{.name data-type="lore/calendar"} sits in his high seat under a bare fell, with his dead war-band at the benches and the grave-ale owed to him still undrunk. A hidden servant of [[lore-nahilddty|Nahild]], the corpse-goddess, has set a shard of black glass in his ship to hold him there, and means to turn the oldest oath on the pass into a weapon. The party climbs to the howe to find out what the dead man wants and what it will cost to give it to him.
 
 ## Overview
 
-Above the farms of [[place-horgsvangr|Horgsvangr]], the pass road runs under the fell of [[place-unthmylsfell|Unthmilsfell]]. Under the turf lies the ship of **Unthmil**, who held the pass before there were kings. His heir died beside him, nobody drank the grave-ale, and in the north's reckoning he is a dead man still in his chair. That was a sorrow and not a danger until a **Drottmadr of [[affiliation-nalok|Nalok]]**, **Knirvthann**, climbed the fell in the autumn and set a shard of black glass cut from the ice of [[place-dvilgvatn|Dvilgvatn]] into the ship's prow-post. The glass gives [[lore-theshadow|the Shadow]] a place to grip. The dead hall now wakes by night, the war-band stands at the toll-cairns on the pass road, and Knirvthann means to bind the hall-lord as a [[lore-nagengir|nágengir]] and the war-band as [[lore-haugverdir|hrúmverdir]] for a hidden hov.
+Above the farms of [[place-horgsvangr|Horgsvangr]], the pass road runs under the fell of [[place-unthmylsfell|Unthmilsfell]]. Under the turf lies the ship of [Unthmil]{.name data-type="being/creature"}, who held the pass before there were kings. His heir died beside him, nobody drank the grave-ale, and in the north's reckoning he is a dead man still in his chair. That was a sorrow and not a danger until a **Drottmadr of [[affiliation-nalok|Nalok]]**, [Knirvthann]{.name data-type="being/npc"}, climbed the fell in the autumn and set a shard of black glass cut from the ice of [[place-dvilgvatn|Dvilgvatn]] into the ship's prow-post. The glass gives [[lore-theshadow|The Shadow]] a place to grip. The dead hall now wakes by night, the war-band stands at the toll-cairns on the pass road, and Knirvthann means to bind the hall-lord as a [[lore-nagengir|Nágengir]] and the war-band as [[lore-haugverdir|Hrúmverdir]] for a hidden hov.
 
 The [[affiliation-ravenguard|Raven Guard]] of [[place-odholm|Odholm]] have heard of it and cannot spare the warriors.
 
 ## Hooks
 
 - **The thief.** A fence in the trading stead below Horgsvangr will pay for hack-silver of the old make, which the traders say lies in the ship of Unthmil. He does not mention the toll-stones. Taking goods from a howe is theft from the dead and the line together, and the thief knows it. The fence knows it too, and pays well enough to be forgiven.
-- **The mercenary or common soldier.** **Hrandinda**, a sworn warrior of the Raven Guard, needs strong arms to carry the baggage and hold the road behind her while she sets a ward on the howe. The Guard cannot send a company, and she has the pay of three men in her own purse.
+- **The mercenary or common soldier.** [Hrandinda]{.name data-type="being/npc"}, a sworn warrior of the Raven Guard, needs strong arms to carry the baggage and hold the road behind her while she sets a ward on the howe. The Guard cannot send a company, and she has the pay of three men in her own purse.
 - **The leader.** A hersvald of the district, whose last two trade caravans vanished on the pass road, wants a captain to clear it. He has the muster for the work and no stomach for the pass after dark.
 - **The lone wanderer.** The wanderer has a grandmother's song of an empty chair on a high pass, and the song's last line names the wanderer's own clan. A wanderer of the old odel-line of Unthmil is owed the cup, and is the only one who can drink it without having to be forgiven.
 
@@ -41,7 +41,7 @@ The [[affiliation-ravenguard|Raven Guard]] of [[place-odholm|Odholm]] have heard
 
 **Player choices.** Force: cut a way through the line, which wakes the whole war-band and every cairn above. Stealth: climb the scree beside the road in the dark, where the dead do not look. Guile: answer with a false oath sworn on a true spear, which the Eidnár accept until they feel the lie in it. Parley: say that the pass is held by the dead man who holds it and that the party comes to relieve him, which is the answer they have waited for.
 
-**Clues and rewards.** A herder at the last stead tells the party about the door-seat share at Vetrnetr and that the dead have grown restless since the harvest. A rim of black glass shows on the nearest cairn, a chip fallen from something carried up the fell.
+**Clues and rewards.** A herder at the last stead tells the party about the door-seat share at [[lore-vetrnaetr|Vetrnetr]] and that the dead have grown restless since the harvest. A rim of black glass shows on the nearest cairn, a chip fallen from something carried up the fell.
 
 **Consequences.** A party that fights arrives at the howe with the war-band awake behind it. A party that swears truly is let through and is watched from the cairns as it climbs.
 
@@ -51,7 +51,7 @@ The [[affiliation-ravenguard|Raven Guard]] of [[place-odholm|Odholm]] have heard
 
 **Purpose.** Learn what the dead man wants and what is owed to him.
 
-**Situation.** The wake must be sat on the crown of the fell, awake, from dusk to dawn on Vetrnetr or on the ninth night of Jel. A velva's leave is customary and seldom given. **Hrumrún**, the seeress of Horgsvangr who knows the fell, listens to the party's reasons in the cold of the altar-field and gives leave to one of them, the one she judges can bear a question. She warns that the dead may ask a truthful answer in return.
+**Situation.** The wake must be sat on the crown of the fell, awake, from dusk to dawn on Vetrnetr or on the ninth night of [[lore-jol|Jel]]. A velva's leave is customary and seldom given. [Hrumrún]{.name data-type="being/npc"}, the seeress of Horgsvangr who knows the fell, listens to the party's reasons in the cold of the altar-field and gives leave to one of them, the one she judges can bear a question. She warns that the dead may ask a truthful answer in return.
 
 **NPCs and threats.** Hrumrún is a gaunt old woman with a voice like a wind in a doorway. She will not go up the fell herself and tells the party plainly why: she has seen what the Shadow does to the ones who listen too long. At the wake, the thing in the howe speaks. Unthmil is courteous, confused and very tired. He does not know that he is dead. He asks his questions as a host asks a guest, and each one is a test: _has my seat been filled? who drank for me? who holds the pass?_
 
@@ -85,7 +85,7 @@ The [[affiliation-ravenguard|Raven Guard]] of [[place-odholm|Odholm]] have heard
 
 **Situation.** At the stern, in the carved high seat, sits Unthmil, a tall grey man rimed to the beard, with a broken sword across his knees. Beside the seat stands Knirvthann with a bowl of black glass shards in his hands. He has come to bind the hall-lord. A rune-circle is scratched around the seat and lit with lamps burning grave-fat. When the party arrives, Knirvthann is in the middle of the rite.
 
-**NPCs and threats.** **Unthmil** is the oath-bound lord of the pass, courteous to the last, and capable of killing a person who offers him an insult. **Knirvthann** is a Drottmadr of Nalok, a middle-aged man with soot-black fingernails and the quiet voice of a clerk, who serves the hidden hov at [[place-dvilgvatn|Dvilgvatn]]. He is not a fighter. He believes that the dead of this howe are owed rest and that Nahild will give it to them, and he is half right and wholly sure. The war-band wakes at his word.
+**NPCs and threats.** Unthmil is the oath-bound lord of the pass, courteous to the last, and capable of killing a person who offers him an insult. Knirvthann is a Drottmadr of Nalok, a middle-aged man with soot-black fingernails and the quiet voice of a clerk, who serves the hidden hov at Dvilgvatn. He is not a fighter. He believes that the dead of this howe are owed rest and that Nahild will give it to them, and he is half right and wholly sure. The war-band wakes at his word.
 
 **Player choices.** Force: kill Knirvthann before he finishes. The rite leaves Unthmil a nágengir if it completes and a broken corpse if it is interrupted by violence. Stealth: slip the shard from the prow-post while the Drottmadr's back is turned, which frees the hall-lord to rest and has the war-band on the party. Guile: persuade Knirvthann that his Dróttstjori will take his work for her own, which turns his fear against his orders. Parley: stand at the foot of the high seat, drink the grave-ale, and swear the hall-lord's oath. The party's odel-claimant, or any volunteer who is willing to answer for the dead man's debts, takes the horn.
 

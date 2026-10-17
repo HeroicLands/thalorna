@@ -16,13 +16,13 @@ data:
   packFolder: adventures
 ---
 
-At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between rival recitations. A poet named **Melkhur** now holds the oasis, trades stolen names to a hollow in the well, and sends raiders who have no names of their own onto the southern circuit. The party must learn what he is buying, and with what.
+At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between rival recitations. A poet named [Melkhur]{.name data-type="being/npc"} now holds the oasis, trades stolen names to a hollow in the well, and sends raiders who have no names of their own onto the southern circuit. The party must learn what he is buying, and with what.
 
 ## Hooks
 
 - **The thief.** A sheikh's steward pays a thief to break into Vazhmavad and bring out one recitation, a single line of his lord's genealogy, before the common council sits.
 - **The mercenary or soldier.** A caravan-master hires the party as guards for the southern circuit. Three caravans have vanished on it, and the survivors of the fourth cannot say whom they were hired by.
-- **The leader.** **Torvash Shiradar** at the oasis of Tevrazavad sends a trusted man to the party's chieftain. His poets have gone to Vazhmavad and have not returned, and the tribes' quarrels have nowhere to be heard.
+- **The leader.** [[being-trvshshrdr|Torvash Shiradar]] at [[place-oasistvrzvd|Oasis of Tevrazavad]] sends a trusted man to the party's chieftain. His poets have gone to Vazhmavad and have not returned, and the tribes' quarrels have nowhere to be heard.
 - **The wanderer.** A traveler is found at a wayside well reciting a stranger's pedigree. He does not know his own, and he is frightened.
 
 ## Scene One: The Southern Circuit
@@ -31,7 +31,7 @@ At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between riv
 
 **Situation.** The party travels the southern circuit with a caravan or alone. At a dry wadi in the afternoon the raiders strike from a dune's crest.
 
-**NPCs and threats.** The **Unrecited** are twenty riders in plain brown, with no tribal marks, no clan beads and no vast-bahar on any arm. They ride in silence, and the leader, **Doshav**, a tall, scarred woman whose voice has no accent at all, calls out a challenge in verse but cannot finish it. They ask each captive one question: _Who are you?_ A prisoner who answers loses the answer.
+**NPCs and threats.** The **Unrecited** are twenty riders in plain brown, with no tribal marks, no clan beads and no vast-bahar on any arm. They ride in silence, and the leader, [Doshav]{.name data-type="being/npc"}, a tall, scarred woman whose voice has no accent at all, calls out a challenge in verse but cannot finish it. They ask each captive one question: _Who are you?_ A prisoner who answers loses the answer.
 
 **Player choices.**
 
@@ -40,7 +40,7 @@ At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between riv
 - _Lie._ A false name is taken in the true name's place, and the liar is stuck with it.
 - _Parley._ Doshav can be made to hesitate by a recited genealogy, because a line recited is a line she cannot take.
 
-**Clues and rewards.** A fallen raider carries nothing of value except a pouch of date-stones, one for each person whose name was taken. A captive freed from the Unrecited, a caravan-guard named **Nahrid**, remembers the road to the oasis but not his own tribe.
+**Clues and rewards.** A fallen raider carries nothing of value except a pouch of date-stones, one for each person whose name was taken. A captive freed from the Unrecited, a caravan-guard named [Nahrid]{.name data-type="being/npc"}, remembers the road to the oasis but not his own tribe.
 
 **Consequences.** Those who answer lose themselves. The party sees at once what the raiders are.
 
@@ -52,7 +52,7 @@ At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between riv
 
 **Situation.** Vazhmavad lies under the palms, green and apparently at peace. The benches are filled with poets in dyed blue sashes who stand, sit and recite. The Truce-Warden's staff is planted in the ground at the oasis edge, and its peace still holds: the party can enter as guests, and no one will raise a hand against them. The poets recite the genealogies of the tribes in even voices without end.
 
-**NPCs and threats.** Forty or so poets stand around the oasis. They do not look at visitors, but their recitations adjust: a listener's own name is woven into the line. One of them, an old woman, **Khezmin**, speaks in her own voice for an instant when she hears the oasis of Tevrazavad named, and then loses it.
+**NPCs and threats.** Forty or so poets stand around the oasis. They do not look at visitors, but their recitations adjust: a listener's own name is woven into the line. One of them, an old woman, [Khezmin]{.name data-type="being/npc"}, speaks in her own voice for an instant when she hears the oasis of Tevrazavad named, and then loses it.
 
 **Player choices.**
 
@@ -61,7 +61,7 @@ At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between riv
 - _Take a poet away._ They follow willingly, reciting, and are unable to tell the party anything.
 - _Recite._ A party member who recites their own genealogy aloud finds their voice supported by the whole oasis and feels the hollow notice them.
 
-**Clues and rewards.** Khezmin's moment of clarity gives the party a word: _Bazuran_, the name of a tribe the desert has forgotten. The party learns that Melkhur is neither a madman nor a conqueror, and that he keeps no guard on the poets because none is needed.
+**Clues and rewards.** Khezmin's moment of clarity gives the party a word: [Bazuran]{.name data-type="affiliation/polity"}, the name of a tribe the desert has forgotten. The party learns that Melkhur is neither a madman nor a conqueror, and that he keeps no guard on the poets because none is needed.
 
 **Consequences.** Reciting aloud draws Melkhur's attention.
 
@@ -73,7 +73,7 @@ At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between riv
 
 **Situation.** Melkhur receives the party at a table in the shade of the largest palm, with salt and bread on a clean cloth. He greets them as guests, breaks the bread, presses the salt into the torn edge, and holds it out. The law of salt binds both ways. He offers his help.
 
-**NPCs and threats.** **Melkhur** is a thin, gentle-faced man in a poet's sash, courteous to the point of tenderness. He is a sorcerer of the Shadow, and a worse thing, he is honest: he says exactly what he does. He lost something, and the hollow in the well returned it, and he has been paying since. His counters are conversation, hospitality and the party's own names.
+**NPCs and threats.** Melkhur is a thin, gentle-faced man in a poet's sash, courteous to the point of tenderness. He is a sorcerer of [[lore-theshadow|The Shadow]], and a worse thing, he is honest: he says exactly what he does. He lost something, and the hollow in the well returned it, and he has been paying since. His counters are conversation, hospitality and the party's own names.
 
 **Player choices.**
 
@@ -82,9 +82,9 @@ At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between riv
 - _Bargain._ He offers anything he has: a recited line, a lost debt, a genealogy for a sheikh. The price is a name.
 - _Challenge him to a recitation._ By the old custom, a dispute is judged by poets. The poets of the oasis cannot judge, which is his defense.
 
-**Clues and rewards.** If the party eats the salt, Melkhur tells them the story of Bazuran: a tribe in the south, swallowed by its neighbors when the Warrior's Circle refused to act against them. Its poets came to Vazhmavad seeking a judgment, the weighing-place weighed in their favor, and nobody enforced it. When the tribe was gone, so were the recitations that proved it had ever been wronged. He keeps them. He is the last place the tribe exists.
+**Clues and rewards.** If the party eats the salt, Melkhur tells them the story of Bazuran: a tribe in the south, swallowed by its neighbors when [[affiliation-wrrscrcldnhrtrbs|The Warrior's Circle of the Dunhara Tribes]] refused to act against them. Its poets came to Vazhmavad seeking a judgment, the weighing-place weighed in their favor, and nobody enforced it. When the tribe was gone, so were the recitations that proved it had ever been wronged. He keeps them. He is the last place the tribe exists.
 
-**Consequences.** The party now knows why Melkhur does what he does. They also know that the Circle, and every Dunhari who keeps the Old Promise, is complicit.
+**Consequences.** The party now knows why Melkhur does what he does. They also know that the Circle, and every member of the [[lore-dunhariclt|Dunhari]] who keeps the [Old Promise]{.name data-type="lore/custom"}, is complicit.
 
 **If bypassed.** A party that evades the table meets Melkhur in the well-house, below, with the hollow open behind him.
 
@@ -98,7 +98,7 @@ At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between riv
 
 **Player choices.**
 
-- _Break Melkhur's recitation._ Speak louder, in unison, with a line that cannot be taken: the first verse of the Laws of the Well.
+- _Break Melkhur's recitation._ Speak louder, in unison, with a line that cannot be taken: the first verse of the [Laws of the Well]{.name data-type="lore/law"}.
 - _Fight the Unrecited._ Doshav and her riders are numerous and know the party's names.
 - _Close the well._ Stone, salt and a rite of fire seal the water, at the cost of everything below.
 - _Take the names back._ A party member who goes into the hollow can retrieve one name at a time, and is changed by it.
@@ -115,13 +115,13 @@ At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between riv
 
 **Situation.** With the hollow closed or emptied, the poets stir. They know their names and tribes. They sit on the benches and begin, in their own voices, the recitation of Bazuran, which names the tribe that swallowed it and the chieftain who gave the order.
 
-**NPCs and threats.** **Melkhur**, old and quiet, sits among the poets. The oasis's peace holds. **Khezmin** gives the verse and **Nahrid**, if he lived, joins her. Two tribes of the southern circuit, the neighbors who swallowed Bazuran, have heard the poets begin.
+**NPCs and threats.** Melkhur, old and quiet, sits among the poets. The oasis's peace holds. Khezmin gives the verse and Nahrid, if he lived, joins her. Two tribes of the southern circuit, the neighbors who swallowed Bazuran, have heard the poets begin.
 
 **Player choices.**
 
 - _Let it be recited._ The tribe of Bazuran is remembered, the neighbors are named, and a feud that the Circle refused to touch starts again.
 - _Bury it._ The poets are persuaded to forget the verse. Melkhur's crime is erased with Bazuran's wrong.
-- _Carry it to Ghavulavad._ The common council's Lawkeeper hears it, and the tribes decide.
+- _Carry it to [[place-ghavulavad|Ghavulavad]]._ The common council's Lawkeeper hears it, and the tribes decide.
 - _Take Melkhur to Torvash._ The man who ended his brothers' war knows an exit when one is shown him.
 
 **Clues and rewards.** The reward is the oasis restored and the poets' gratitude, a recitation that proves the claim of any sheikh the party names, and a modest gift: a purse of salt, a cloth of the poet-sash blue and a promise of a verse.

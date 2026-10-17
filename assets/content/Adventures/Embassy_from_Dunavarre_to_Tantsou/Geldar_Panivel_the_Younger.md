@@ -378,4 +378,4 @@ sohl:
 
 **Background.** Well known for his culinary skill.
 
-**Intrigue.** Secretly a [[affiliation-selmoros|Sélmoran]] acolyte and spy. In 717 he took part in the kidnapping and murder of the Senator [[being-balothnemirina|Baloth Nemirina]]—a past that can be used against him, and that he may use himself, as a bargaining chip or to raise his standing among the Sélmorans. May be planning poisonings or sabotage.
+**Intrigue.** Secretly an acolyte and spy for the [[affiliation-selmoros|Faith of Sélmoros]]. In 717 he took part in the kidnapping and murder of the Senator [[being-balothnemirina|Baloth Nemirina]]—a past that can be used against him, and that he may use himself, as a bargaining chip or to raise his standing among the Sélmorans. May be planning poisonings or sabotage.

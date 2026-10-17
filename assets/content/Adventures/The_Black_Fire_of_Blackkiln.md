@@ -16,18 +16,18 @@ data:
   packFolder: adventures
 ---
 
-A fire that needs no fuel burns in a kiln in the dead pines, tended by the dead of a Black Flame cell. A Republic that paid for the priory wants it quietly silenced, and a Peshtar chief wants it left alone. The party goes in for the iron the fire has made, and must decide what to do with the fire.
+A fire that needs no fuel burns in a kiln in the dead pines, tended by the dead of a cell of [[affiliation-blackflame|The Black Flame]]. The [[affiliation-repblcndrth|Republic of Ondareth]] that paid for the priory wants it quietly silenced, and a Peshtar chief wants it left alone. The party goes in for the iron the fire has made, and must decide what to do with the fire.
 
 ## Overview
 
-[[place-blackkilnpriory|Blackkiln Priory]] is the ruin of a cell of the [[affiliation-blackflame|Black Flame]] raised with Ondarethan money to burn out Peshtar raiders. Its Flame-Warden, **Gerolt Sarne**, fed the first raiders he caught to his kiln, and the [[lore-theshadow|Shadow]] came in with them. The fire burns black and the cell's dead tend it, because the Shadow still uses them to carry offerings. Beneath the chapel is a crypt of the cell and, beyond it, the iron the fire has made.
+[[place-blackkilnpriory|Blackkiln Priory]] is the ruin of a cell of the Black Flame raised with Ondarethan money to burn out Peshtar raiders. Its Flame-Warden, [Gerolt Sarne]{.name data-type="being/creature"}, fed the first raiders he caught to his kiln, and [[lore-theshadow|The Shadow]] came in with them. The fire burns black and the cell's dead tend it, because the Shadow still uses them to carry offerings. Beneath the chapel is a crypt of the cell and, beyond it, the iron the fire has made.
 
 ## Hooks
 
-- **The thief.** A Thornbury factor who deals in odd metal will pay well for the black iron that is said to cool in the old kilns, and gives a map of the charcoal road.
+- **The thief.** A [[place-thornbury|Thornbury]] factor who deals in odd metal will pay well for the black iron that is said to cool in the old kilns, and gives a map of the charcoal road.
 - **The mercenary or common soldier.** An Ondarethan border magistrate hires a squad to carry out a night patrol that ends at the kilns. He does not say whose money is buried there.
 - **The leader.** A Peshtar war-chief whose clan burned the priory sends a chieftain to see whether the fire has spread. The clan's dead lie in the dead pines.
-- **The lone wanderer.** The wanderer carries a brand or an old burn that has begun to ache, and a priest of the Sacred Forge says the cure lies at Blackkiln.
+- **The lone wanderer.** The wanderer carries a brand or an old burn that has begun to ache, and a priest of [[affiliation-sacredforge|The Sacred Forge]] says the cure lies at Blackkiln.
 
 ## Scene One: The Dead Pines
 
@@ -49,9 +49,9 @@ A fire that needs no fuel burns in a kiln in the dead pines, tended by the dead 
 
 **Purpose.** Give the party the priory's history and a hard choice about the one living thing in it.
 
-**Situation.** In the chapel's nave, under a patch of surviving roof, a man in a grey robe sits on a stool beside a cold brazier. **Tamsen Orlick** is a lay brother of Sélmoros who has kept a vigil at the priory for eleven years, sent by his order to see that the fire does not spread. He has a sack of salt, a bell, and a half-written record.
+**Situation.** In the chapel's nave, under a patch of surviving roof, a man in a grey robe sits on a stool beside a cold brazier. [Tamsen Orlick]{.name data-type="being/npc"} is a lay brother of the [[affiliation-selmoros|Faith of Sélmoros]] who has kept a vigil at the priory for eleven years, sent by his order to see that the fire does not spread. He has a sack of salt, a bell, and a half-written record.
 
-**NPCs and threats.** **Tamsen Orlick** is gaunt, courteous and tired. He fears the fire and feels responsible for the dead, who he believes can be released if the fire is quenched. He is lying about one thing: he has been feeding the fire himself, small offerings of his own blood, to keep the dead quiet, and the fire has begun to answer him.
+**NPCs and threats.** Tamsen Orlick is gaunt, courteous and tired. He fears the fire and feels responsible for the dead, who he believes can be released if the fire is quenched. He is lying about one thing: he has been feeding the fire himself, small offerings of his own blood, to keep the dead quiet, and the fire has begun to answer him.
 
 **Player choices.** Force: seize the priest and leave him bound. Stealth: leave him sitting and go past. Guile: question him until the lie breaks. Parley: ask him honestly what he has done.
 
@@ -83,7 +83,7 @@ A fire that needs no fuel burns in a kiln in the dead pines, tended by the dead 
 
 **Situation.** The stair opens into the largest kiln, a stone dome with a pit at its center. The black fire burns in the pit. In its heart stands a figure in a Flame-Warden's mail, glowing as iron glows. Sarne has been burning for two generations.
 
-**NPCs and threats.** **Gerolt Sarne** is a vast, heat-wavering shape of black mail and white-hot bone. He speaks in a voice like a bellows. The Shadow has taken his god's name and given him back a worse one, and he believes he is feeding the Forge-Lord. He fights by touch: where he strikes, the air ignites. The cell's dead stand around the pit and feed the fire.
+**NPCs and threats.** Gerolt Sarne is a vast, heat-wavering shape of black mail and white-hot bone. He speaks in a voice like a bellows. The Shadow has taken his god's name and given him back a worse one, and he believes he is feeding [[lore-ustarondty|Ústaron]], the Forge-Lord. He fights by touch: where he strikes, the air ignites. The cell's dead stand around the pit and feed the fire.
 
 **Player choices.** Force: fight the Warden at the pit's rim. Stealth: starve the fire by breaking the cell's offerings. Guile: offer the Warden an offering that is not a life, such as the iron of his own forge. Parley: tell him the Republic has abandoned him.
 
@@ -112,7 +112,7 @@ A fire that needs no fuel burns in a kiln in the dead pines, tended by the dead 
 ## Aftermath
 
 - **If the fire is quenched.** The pines begin to green over the following years. The Peshtar clans leave the kilns alone and the Sacred Forge asks for the stones.
-- **If the contract reaches the Senate's enemies.** A Senator falls, and the Black Flame's shrines in Ondareth lose a patron.
+- **If the contract reaches the Senate's enemies.** A Senator falls, and the Black Flame's shrines in [[place-ondareth|Ondareth]] lose a patron.
 - **If the fire is kept.** The Black Flame sends a Scorchmaster for the iron.
 - **If the party fails.** The fire spreads along the pines to the border farms.
 

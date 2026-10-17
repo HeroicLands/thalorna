@@ -18,7 +18,7 @@ data:
 
 ## The Hearth Without Light
 
-On the grazing lands east of [[place-zarhanis|Zarhanis]] stands a ruined temple estate that the clans avoid and the temple does not name. A fire burns beneath its granary that gives no light, and the cattle that stray near it come out as ash on four legs. The party goes in for gold, for a hire, for a captain's order or for a herd, and finds that the wrong done at Shuremis is older than the fire, and that the fire is only the wrong's answer.
+On the grazing lands east of [[place-zarhanis|Zarhanis]] stands a ruined temple estate that the clans avoid and the temple does not name. A fire burns beneath its granary that gives no light, and the cattle that stray near it come out as ash on four legs. The party goes in for gold, for a hire, for a captain's order or for a herd, and finds that the wrong done at [[place-shuremis|Shuremis]] is older than the fire, and that the fire is only the wrong's answer.
 
 Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [[lore-okharinclt|Okharin]]: the Flame renews only what is given to it, a person put out of the Flame is a shurem, and the worst a family can say of a grazing right is that it was yielded once.
 
@@ -26,15 +26,15 @@ Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [
 
 **What happened.** In a famine year the temple of Zarhanis held the estate of Shuremis, with grain in its pits and a yard of bondsmen. Those who had declined the Flame, and taken up other gods or none, were gathered into the yard as shurem, and when the stores ran short the order came to seal the pens beneath the granary with the shurem inside. The Granary-Keeper's office of that year sealed them. One ordained priest of Zarhanis, sent to witness the closing, lit a three-wick lamp at the granary niche and went down with them. The estate was struck from the rolls the next season.
 
-**What Talitho believes.** **Talitho**, once a Talithari Nkaring of Zarhanis and a reader of its registers, found the order in the temple's records. He said so aloud, in the moot-hall, and was put out of the Flame for saying it. He rode to the ruin. In the pens he found a banked hearth that had never gone cold, and the voices of the dead asked him to be given what they were denied. He kindled a fire from their ash, and he feeds it, and he believes it will be the shurem's hearth.
+**What [Talitho]{.name data-type="being/npc"} believes.** Talitho, once a Talithari Nkaring of Zarhanis and a reader of its registers, found the order in the temple's records. He said so aloud, in the moot-hall, and was put out of the Flame for saying it. He rode to the ruin. In the pens he found a banked hearth that had never gone cold, and the voices of the dead asked him to be given what they were denied. He kindled a fire from their ash, and he feeds it, and he believes it will be the shurem's hearth.
 
-**What is true.** The ash has no descent from the First Ember and no one to give it back. Those who died in the pens died with no ashmark, no hearth and no name spoken. The Shadow fills the gaps, and the voice Talitho hears is the dead wearing the Shadow's mouth. The fire takes whatever it is fed and renews none of it. Talitho is cold to the bone and grey to the wrist and cannot tell it. The living shurem of the yard are the descendants of those sealed in the pens, and they are afraid of the fire and fed by it.
+**What is true.** The ash has no descent from the [First Ember]{.name data-type="miscgear"} and no one to give it back. Those who died in the pens died with no ashmark, no hearth and no name spoken. [[lore-theshadow|The Shadow]] fills the gaps, and the voice Talitho hears is the dead wearing the Shadow's mouth. The fire takes whatever it is fed and renews none of it. Talitho is cold to the bone and grey to the wrist and cannot tell it. The living shurem of the yard are the descendants of those sealed in the pens, and they are afraid of the fire and fed by it.
 
 ### Hooks
 
 - **The thief.** A drover sells the story of the estate's tribute-chest, lost when Shuremis was struck from the rolls, and says the temple would pay quietly to have it returned.
 - **The soldier.** A warrior of [[place-vuthraka|Vuthraka]] on a watch over a clan's cattle-ground reports lights in the pens and a herd that moves in step. His captain orders the watch kept, and gives him no more men.
-- **The leader.** **Ndumbo**, a chieftain of a herding clan, has lost the best of his herd to the ground and fears what the moot will say of his clan's neglect. He offers grazing and a seat at his fire for the matter closed.
+- **The leader.** [Ndumbo]{.name data-type="being/npc"}, a chieftain of a herding clan, has lost the best of his herd to the ground and fears what the moot will say of his clan's neglect. He offers grazing and a seat at his fire for the matter closed.
 - **The wanderer.** A shaman of the [[affiliation-yenorzhrng|Yenor Zohiring]] has been told by a cairn to go to the ruin and told nothing else. She wants an escort through the cattle-ground and cannot say why.
 
 ### Scene One: The Cattle-Ground
@@ -46,15 +46,15 @@ Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [
 **NPCs and threats.**
 
 - **The ash-kine.** Cattle burnt without burning: horn, hide and hoof gone grey, and a dull red seam showing under the skin of the flank. They do not eat, and they make no sound. They walk in step and press into whatever stands in the way, and a struck one comes apart in a cloud of fine ash that blinds and scorches. A cow's weight is on a man when a dozen press.
-- **The Cinder Bull.** The lead animal, bigger than the rest, with a three-wick lamp of black iron hung on a cord from the horns. Its wicks burn cold. The herd goes where the bull goes, and it charges at the sight of an open flame.
-- **Zhonko.** A young herder who lost his father's cattle to the ground and watches from the wall at noon. He knows the herd's habits and will lead a party across for a share.
+- [The Cinder Bull]{.name data-type="being/creature"}. The lead animal, bigger than the rest, with a three-wick lamp of black iron hung on a cord from the horns. Its wicks burn cold. The herd goes where the bull goes, and it charges at the sight of an open flame.
+- [Zhonko]{.name data-type="being/npc"}. A young herder who lost his father's cattle to the ground and watches from the wall at noon. He knows the herd's habits and will lead a party across for a share.
 
 **Player choices.**
 
 - _Force._ A running fight with the ash-kine leaves a party blinded and scorched.
 - _Stealth._ The herd is slow in the afternoon, when it drifts toward the granary, and nearly still at noon. A party that moves between the animals with its lamps covered and its breath held reaches the pens.
 - _Guile._ Count the herd. Okharin herders count what they own, and the ash-kine were the temple's herd. A character who counts them aloud in the herders' manner, one stroke to each, finds the beasts stand for the length of the count.
-- _Parley._ Re-cut the flame-mark on the cairn with a chisel and set an ashmark on the stone. The cairn answers. A Keeper of a Cairn or a shaman does it best, and the herd goes still while the zohira's warning stands again at the gate.
+- _Parley._ Re-cut the flame-mark on the cairn with a chisel and set an ashmark on the stone. The cairn answers. A Keeper of a Cairn or a shaman does it best, and the herd goes still while the [[lore-zohira|Zohira]]'s warning stands again at the gate.
 
 **Clues and rewards.** The bull's lamp is a temple lamp, of the kind issued to a granary, and bears a Zarhanis steward's mark. Zhonko will say that a man with a cold lamp counts the herd at dusk. A re-cut cairn marks the way back as a refuge.
 
@@ -70,7 +70,7 @@ Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [
 
 **NPCs and threats.**
 
-- **Kwenda.** A woman of age, the yard's elder. She keeps the hearth, speaks for the yard and holds the soured-milk bowl that is the Okharin test of a stranger. She is lean, direct and tired, and does not say what she thinks of Talitho. She fears him, and he feeds them.
+- [Kwenda]{.name data-type="being/npc"}. A woman of age, the yard's elder. She keeps the hearth, speaks for the yard and holds the soured-milk bowl that is the Okharin test of a stranger. She is lean, direct and tired, and does not say what she thinks of Talitho. She fears him, and he feeds them.
 - **The yard's people.** Frightened, proud and reserved. They give nothing and take nothing, except from those who stand by the soured milk.
 - **Talitho's watchers.** Two or three of the yard's young men, who carry the fire's cold lamp from the pens at dusk. They are not dangerous alone. They run to Talitho the moment a stranger is proved hostile.
 
@@ -80,7 +80,7 @@ Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [
 - _Guile._ A false name or a feigned faith is met by a people with nothing to lose and long practice at hearing it. A feigned priest is a priest of the temple that did this, and is received as one.
 - _Stealth._ The yard sleeps at midday. A party that crosses it without waking a hearth-keeper reaches the granary stair.
 - _Force._ The yard has no warriors. Killing one of them closes every door in it and sends the young men to Talitho at a run.
-- _Puzzle._ The granary's front door is a wall with three niches, each holding a lamp-bowl. The niches are lit in the order the culture reads the Flame, faith, then abundance, then war: Zarhanis, Kaljekor, Vuthraka. Lit in that order the door swings open. Lit in any other order it stays shut and the ash-kine are drawn to the wall.
+- _Puzzle._ The granary's front door is a wall with three niches, each holding a lamp-bowl. The niches are lit in the order the culture reads the Flame, faith, then abundance, then war: Zarhanis, [[place-kaljekor|Kaljekor]], Vuthraka. Lit in that order the door swings open. Lit in any other order it stays shut and the ash-kine are drawn to the wall.
 
 **Clues and rewards.** Kwenda asks one thing: the ashmark that the yard's dead were denied. If the party promises to bring it, she leads them by the back stair, which skips the granary door's three niches. She also says that the man below is not as he was, and that the fire speaks in his voice more often than he does.
 
@@ -121,7 +121,7 @@ Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [
 
 **NPCs and threats.**
 
-- **Talitho.** A former priest of Zarhanis, grey to the elbow and cold to the touch, with the forehead of a man who has scraped his own ashmark off with a stone. He speaks in the cadence of a scholar of the temple and thinks in registers. He is terribly courteous, and he is dying. His touch turns warmth to ash, and fire brought near him leans and is lost. He does not want to fight. He wants the dead named.
+- Talitho. A former priest of Zarhanis, grey to the elbow and cold to the touch, with the forehead of a man who has scraped his own ashmark off with a stone. He speaks in the cadence of a scholar of the temple and thinks in registers. He is terribly courteous, and he is dying. His touch turns warmth to ash, and fire brought near him leans and is lost. He does not want to fight. He wants the dead named.
 - **The ash-kine at the walls.** Dozens, still until he speaks, and then moving in step.
 - **The fire.** It does not move and has no shape. It takes what it is fed, and it answers in the voices of the dead, in a murmur, low and many.
 
@@ -162,7 +162,7 @@ Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [
 ### Aftermath
 
 - **The names read, the ashmark set.** The fire sinks to ordinary ash and is still. Talitho, if he lives, is cold for a season and then warm. The yard buries its dead at the cairn with proper rites, and Kwenda's people become a household of the grazing, outside the temple's roll. The clan's herd is its own again.
-- **The names unread, the fire quieted.** The ash-kine stand still and the cattle-ground is quiet. At the Night of Ashes the dead walk, and the yard is afraid.
+- **The names unread, the fire quieted.** The ash-kine stand still and the cattle-ground is quiet. At the [Night of Ashes]{.name data-type="lore/gathering"} the dead walk, and the yard is afraid.
 - **Talitho dead and the fire unfed.** The kine fall. The pens go cold. The dead stay unmarked, and the Shadow keeps its foothold in the gaps, a thin and quiet field at the edge of the grazing.
 - **The tablet taken.** A temple office pays for it or buries it. Whichever does, [[place-zarhanis|Zarhanis]] learns that the order was found and who found it.
 - **The party bypassed Shuremis.** The cattle-ground widens. A clan loses a valley, and the moot hears of it as neglect.

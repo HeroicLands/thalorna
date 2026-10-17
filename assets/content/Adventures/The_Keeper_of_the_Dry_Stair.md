@@ -16,13 +16,13 @@ data:
   packFolder: adventures
 ---
 
-The wind has uncovered the Dry Stair. [[place-mezhvadez|Mezhvadez]] is a vault the Dunhari do not claim, built by a people whose king's name is chiseled from every wall, and the woman who kept his household lies at its center. The party must reach her, learn what she keeps, and carry out what they can.
+The wind has uncovered [[place-mezhvadez|Mezhvadez]], the Dry Stair. It is a vault the [[lore-dunhariclt|Dunhari]] do not claim, built by a people whose king's name is chiseled from every wall, and the woman who kept his household lies at its center. The party must reach her, learn what she keeps, and carry out what they can.
 
 ## Hooks
 
-- **The thief.** A tagemader of the Kingdom of [[affiliation-kngdmmrdd|Amradad]], a polished man named **Ghezrun**, pays well for the king's signet and says he does not care how it is taken.
+- **The thief.** A tagemader of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], a polished man named [Ghezrun]{.name data-type="being/npc"}, pays well for the king's signet and says he does not care how it is taken.
 - **The mercenary or soldier.** A merchant's caravan is short a guard. The caravan-master wants an escort to the dune that covers the stair, and his two foreign clients carry a map.
-- **The leader.** A bahar of the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] hears that something has been walking from the Dry Stair toward the southern pastures. The Circle gathers against an enemy none of the tribes could face alone, and the leader must see whether this is one.
+- **The leader.** A bahar of [[affiliation-wrrscrcldnhrtrbs|The Warrior's Circle of the Dunhara Tribes]] hears that something has been walking from the Dry Stair toward the southern pastures. The Circle gathers against an enemy none of the tribes could face alone, and the leader must see whether this is one.
 - **The wanderer.** A desert mystic returning from a vigil speaks of a voice beneath the sand, calling in the speech of her mother. He asks the party to make it stop.
 
 ## Scene One: The Sealed Gate
@@ -31,7 +31,7 @@ The wind has uncovered the Dry Stair. [[place-mezhvadez|Mezhvadez]] is a vault t
 
 **Situation.** The stair is open at the dune's flank. Wind-polished steps run down into shadow between rows of veiled women carved in the pale stone, and the lowest landing is sealed by a slab of the same stone. A drift of fine sand lies over the threshold, unmarked by any foot.
 
-**NPCs and threats.** The vault's first guardians are the **sand-veils**, strips of grey cloth that hang in the gate-arch and drift upright when a living thing draws near. They are thin and quiet, and they move toward warmth. Where one lands on bare skin it clings, and a body wrapped in them is slowly emptied of breath and water. They fear fire and the glare of a mirror held to the light. A **guide**, **Zirvash**, a lean man who has seen the stair open twice and been below once, waits at the top with the caravan's camels. He will not go down.
+**NPCs and threats.** The vault's first guardians are the **sand-veils**, strips of grey cloth that hang in the gate-arch and drift upright when a living thing draws near. They are thin and quiet, and they move toward warmth. Where one lands on bare skin it clings, and a body wrapped in them is slowly emptied of breath and water. They fear fire and the glare of a mirror held to the light. A **guide**, [Zirvash]{.name data-type="being/npc"}, a lean man who has seen the stair open twice and been below once, waits at the top with the caravan's camels. He will not go down.
 
 **Player choices.**
 
@@ -50,7 +50,7 @@ The wind has uncovered the Dry Stair. [[place-mezhvadez|Mezhvadez]] is a vault t
 
 **Purpose.** A puzzle and roleplay encounter in the vault's inner court.
 
-**Situation.** The stair opens into a long hall whose pillars carry a continuous band of figures. In the hall's center stands a basin of dry stone with three jars beside it: one of salt, one of ash, one of clean sand. The air hums faintly, as if a voice is speaking at the edge of hearing, and the whispers are in Dunhari.
+**Situation.** The stair opens into a long hall whose pillars carry a continuous band of figures. In the hall's center stands a basin of dry stone with three jars beside it: one of salt, one of ash, one of clean sand. The air hums faintly, as if a voice is speaking at the edge of hearing, and the whispers are in [[skill-dunharlng|Dunhari Language]].
 
 **NPCs and threats.** The hall is guarded by **whisper-moths**, large grey insects with pale, human-shaped markings on their wings. They settle on a visitor's shoulder and speak in the voice of the listener's own dead, answering questions and offering to help. They are honest in nothing. They lead travelers off the safe path with the voices of friends. A single bright flame makes them dissolve.
 
@@ -74,7 +74,7 @@ The wind has uncovered the Dry Stair. [[place-mezhvadez|Mezhvadez]] is a vault t
 
 **Situation.** Beyond the hall lie the household's alcoves, row on row, each with a sealed slab and a jar of grave-goods on a shelf beside it. Heaped on the shelves are silver bangles, lapis beads, amber, folded cloth that has kept its color through the centuries. Much of it is worth a camel.
 
-**NPCs and threats.** The dust-sworn rise in order. Each is a dry, light-boned figure in a veil of stiff silk, with a face that is only skin on bone. They are quick and quiet and carry curved knives of green bronze. They do not strike a party that touches nothing. They wake in numbers for each piece of grave-goods lifted. Their leader, the **Warden of Jars**, is taller than the others and wears a necklace of dried keys. It speaks, once, in a dry whisper: _put it back._
+**NPCs and threats.** The dust-sworn rise in order. Each is a dry, light-boned figure in a veil of stiff silk, with a face that is only skin on bone. They are quick and quiet and carry curved knives of green bronze. They do not strike a party that touches nothing. They wake in numbers for each piece of grave-goods lifted. Their leader, the [Warden of Jars]{.name data-type="being/creature"}, is taller than the others and wears a necklace of dried keys. It speaks, once, in a dry whisper: _put it back._
 
 **Player choices.**
 
@@ -95,7 +95,7 @@ The wind has uncovered the Dry Stair. [[place-mezhvadez|Mezhvadez]] is a vault t
 
 **Situation.** The innermost chamber holds a dais, a stone bed, and a woman lying on it with her hands crossed on her chest. She is whole and brown and dry as a cut date. Behind her, set in the wall, is a door of black stone with no handle. It is cold to look at, and the air in front of it does not move.
 
-**NPCs and threats.** The **Keeper** wakes when the party arrives. She is tall, with a face of great composure, wrapped in the veils of her office and hung with keys of a dozen metals. She is bound to the Shadow as the dead of the vault are, and she was bound willingly, to hold a door that her king's bargain had opened and that nothing else could close. She is courteous and implacable. She wants nothing taken from the chamber and nothing let through. She fights with the door's cold: a touch that stills the hand, a word that sets the lungs to dust. She does not hunt. She is not wrong.
+**NPCs and threats.** The **Keeper** wakes when the party arrives. She is tall, with a face of great composure, wrapped in the veils of her office and hung with keys of a dozen metals. She is bound to [[lore-theshadow|The Shadow]] as the dead of the vault are, and she was bound willingly, to hold a door that her king's bargain had opened and that nothing else could close. She is courteous and implacable. She wants nothing taken from the chamber and nothing let through. She fights with the door's cold: a touch that stills the hand, a word that sets the lungs to dust. She does not hunt. She is not wrong.
 
 **Player choices.**
 
@@ -116,7 +116,7 @@ The wind has uncovered the Dry Stair. [[place-mezhvadez|Mezhvadez]] is a vault t
 
 **Situation.** Whatever the party chooses in the chamber, the stair above them shudders. The dune is closing. The way out is a race against sand.
 
-**NPCs and threats.** If the door has been opened, the **Hollow King** steps through: a tall figure in an unmarked robe with no face, only the suggestion of where a face should be. He is the king whose name is struck, not as a man, but as a place the Shadow wears. He asks the party for a name and a debt, and he is polite. If the door has been left shut, the Keeper herself speaks the last words of her office and the vault collapses gently over her, closing itself.
+**NPCs and threats.** If the door has been opened, the [Hollow King]{.name data-type="being/creature"} steps through: a tall figure in an unmarked robe with no face, only the suggestion of where a face should be. He is the king whose name is struck, not as a man, but as a place the Shadow wears. He asks the party for a name and a debt, and he is polite. If the door has been left shut, the Keeper herself speaks the last words of her office and the vault collapses gently over her, closing itself.
 
 **Player choices.**
 
@@ -133,7 +133,7 @@ The wind has uncovered the Dry Stair. [[place-mezhvadez|Mezhvadez]] is a vault t
 
 ## Aftermath
 
-- **The door sealed.** The southern pastures are quiet and the poets add a stanza to the recitation. A _tagemader_ in Qarvelakhend stops paying anyone to dig.
+- **The door sealed.** The southern pastures are quiet and the poets add a stanza to the recitation. A _tagemader_ in [[place-qarvelakhend|Qarvelakhend]] stops paying anyone to dig.
 - **The Keeper laid to rest in the open.** Zirvash and the guides say her fire was seen across the dune sea. The tribes' account of what came before the Dunhara gets a new line.
 - **The door opened.** The Hollow King walks the southern pastures and the dead begin to stand. The Warrior's Circle meets in an extra gathering.
 - **The signet in Amradad.** The tagemader has the proof he wanted and a debt he does not know about.

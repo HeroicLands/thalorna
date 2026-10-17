@@ -20,10 +20,10 @@ Something is taking the dead out of the villages at the edge of the forest, and 
 
 ## Hooks
 
-- **The thief.** An Arghakara of the [[affiliation-adanasreni|Adanashreni]], a careful man named **Satyarava**, lays a bronze lamp on the table. It burns without oil. A cell of the Chinnasutra carried it out of the forest and has not come back, and the shrena wants to know whether more of the same lies where it came from. He cannot be seen asking.
-- **The mercenary or soldier.** An ordained keeper of a lac estate on the Bharava is paying double to guard a felling crew. The crew has cut into a road of dressed stone where his survey shows nothing, and three of the crew have walked off at night to visit their mothers, who are dead.
-- **The leader.** A woman of the gathering peoples named **Valsi** asks the chief of a company or a household to bring her people's dead home. Last season's dead were not in their graves when the rains ended, and her grandmother says where they went.
-- **The wanderer.** A Jvelita of the [[affiliation-agnipantha|Agmi-pantra]], **Dahanadasa**, whose ember-vessel burns low whenever he turns toward the forest, asks a traveler to walk the interior with him. He does not say what he thinks is there.
+- **The thief.** An Arghakara of [[affiliation-adanasreni|The Adanashreni]], a careful man named [Satyarava]{.name data-type="being/npc"}, lays a bronze lamp on the table. It burns without oil. A cell of the [Chinnasutra]{.name data-type="affiliation/criminal"} carried it out of the forest and has not come back, and the shrena wants to know whether more of the same lies where it came from. He cannot be seen asking.
+- **The mercenary or soldier.** An ordained keeper of a lac estate on [[place-bharavarivr|The Bharava]] is paying double to guard a felling crew. The crew has cut into a road of dressed stone where his survey shows nothing, and three of the crew have walked off at night to visit their mothers, who are dead.
+- **The leader.** A woman of the gathering peoples named [Valsi]{.name data-type="being/npc"} asks the chief of a company or a household to bring her people's dead home. Last season's dead were not in their graves when the rains ended, and her grandmother says where they went.
+- **The wanderer.** A Jvelita of the [[affiliation-agnipantha|Agmi-pantra]], [Dahanadasa]{.name data-type="being/npc"}, whose ember-vessel burns low whenever he turns toward the forest, asks a traveler to walk the interior with him. He does not say what he thinks is there.
 
 ## Scene One: The Causeway of Lamps
 
@@ -31,19 +31,19 @@ Something is taking the dead out of the villages at the edge of the forest, and 
 
 **Situation.** The path ends at a flight of moss-covered steps, and a straight causeway of dressed stone runs on into the dusk. Lamp-posts line it on both sides, each with a bronze bowl and a steady flame. The light is the colour of a threshold lamp and does not flicker. Birds do not call here.
 
-**NPCs and threats.** The **Standing** are the city's first guardians. They are kept dead, dry and brown in cord-wrapped silk, who stand among the posts as lamp-tenders. They do not hurry and do not strike. They hold out a lit lamp, hand first, with a courtesy a traveler cannot fault. A lamp taken from them cannot be set down or put out by its bearer, and its bearer walks toward the Gate. Every flame on the causeway is a kept soul, and the Standing tend them. **Valsi**, a gatherer who has lost kin to the forest, guides the party this far and not beyond. She knows the first rule: no flame carried in may be lit from the city's, and none carried out burns true.
+**NPCs and threats.** The [Standing]{.name data-type="being/creature"} are the city's first guardians. They are kept dead, dry and brown in cord-wrapped silk, who stand among the posts as lamp-tenders. They do not hurry and do not strike. They hold out a lit lamp, hand first, with a courtesy a traveler cannot fault. A lamp taken from them cannot be set down or put out by its bearer, and its bearer walks toward the Gate. Every flame on the causeway is a kept soul, and the Standing tend them. Valsi, a gatherer who has lost kin to the forest, guides the party this far and not beyond. She knows the first rule: no flame carried in may be lit from the city's, and none carried out burns true.
 
 **Player choices.**
 
 - _Gho dark._ A party without a flame of its own passes between the posts unoffered, if it moves slowly and keeps to the center.
-- _Refuse the lamp._ A courteous refusal in Vedyari manner, hand to heart, turns a Standing aside. A hurried one does not.
+- _Refuse the lamp._ A courteous refusal in the manner of the [[lore-vedyariclt|Vedyari]], hand to heart, turns a Standing aside. A hurried one does not.
 - _Snuff a lamp._ A flame put out frees the soul in it, and the Standing nearest turn together. It is mercy, and it is also an alarm.
 - _Fire of their own._ A Jvelita's ember closes the Standing's hold on whatever it touches, and costs the ember a day of its life.
 - _Force._ The Standing are brittle and numerous, and each broken one leaves its lamp burning in the road.
 
 **Clues and rewards.** The base of every bowl is stamped with the sign of a household. Rubbings of a handful of them are the names the party needs in Scene Two. A Standing's mantle carries a dead sect-priest's cord, knotted in the sect's own fashion and unreadable to anyone who has not seen the knots.
 
-**Consequences.** A bearer who has taken a lamp is drawn to the Gate of Lamps at nightfall, and cannot sleep elsewhere until the lamp is dealt with. Snuffing lamps wakes the Hall.
+**Consequences.** A bearer who has taken a lamp is drawn to the [Gate of Lamps]{.name data-type="place/structure"} at nightfall, and cannot sleep elsewhere until the lamp is dealt with. Snuffing lamps wakes the Hall.
 
 **If bypassed.** A party that crosses the terraces by the stream bank avoids the causeway and arrives at the Gate of Lamps without any names, in the middle of Scene Two.
 
@@ -51,9 +51,9 @@ Something is taking the dead out of the villages at the edge of the forest, and 
 
 **Purpose.** A roleplay and a puzzle: the sect's last assembly, and a vote the party must survive.
 
-**Situation.** The Hall of Seats is a roofless floor with ranks of stone chairs rising on three sides. The seated dead fill them: hundreds of brown, still figures with their hands in their laps. A dais at the open end carries a tall chair, and the chair is occupied. A sourceless light, the same colour as the lamps', lies evenly on everything. The guest-row at the front is empty and swept.
+**Situation.** The [Hall of Seats]{.name data-type="place/site"} is a roofless floor with ranks of stone chairs rising on three sides. The seated dead fill them: hundreds of brown, still figures with their hands in their laps. A dais at the open end carries a tall chair, and the chair is occupied. A sourceless light, the same colour as the lamps', lies evenly on everything. The guest-row at the front is empty and swept.
 
-**NPCs and threats.** The **Speaker of the Seats** is the last Sabhapavi of the sect, a tall dry figure in cloth-of-silver gone the colour of tea. He is courteous, dignified, and entirely mad in one respect: he is certain that the assembly has not ended. He seats guests, hears their business, and puts motions to the Hall in a voice like paper. The motion tonight is whether the Gate of Lamps should be opened to the villages' new dead. The Hall votes by silence. An unanswered motion carries. The seated dead are not hostile; they are the electorate, and a motion that carries sends the Standing out.
+**NPCs and threats.** The [Speaker of the Seats]{.name data-type="being/creature"} is the last Sabhapavi of the sect, a tall dry figure in cloth-of-silver gone the colour of tea. He is courteous, dignified, and entirely mad in one respect: he is certain that the assembly has not ended. He seats guests, hears their business, and puts motions to the Hall in a voice like paper. The motion tonight is whether the Gate of Lamps should be opened to the villages' new dead. The Hall votes by silence. An unanswered motion carries. The seated dead are not hostile; they are the electorate, and a motion that carries sends the Standing out.
 
 **Player choices.**
 
@@ -63,7 +63,7 @@ Something is taking the dead out of the villages at the edge of the forest, and 
 - _Bribe and bargain._ The Speaker takes gifts for his Hall, and a gift of salt is the first one it asks for.
 - _Disrupt._ Overturning the guest-row or breaking a seat ends the sitting. The Hall remembers.
 
-**Clues and rewards.** The sect's rule, as the Speaker recites it, is that no member leaves while a hearth is cold. He tells the party where the Mother of the Kept sits and what she wants: more hearths, filled. A name freed from a seat gives the party its first ally, a dead household that guides one of them on the way to the Hearth.
+**Clues and rewards.** The sect's rule, as the Speaker recites it, is that no member leaves while a hearth is cold. He tells the party where [The Mother of the Kept]{.name data-type="being/creature"} sits and what she wants: more hearths, filled. A name freed from a seat gives the party its first ally, a dead household that guides one of them on the way to the [Hearth]{.name data-type="place/structure"}.
 
 **Consequences.** A carried motion sends the Standing into the nearest villages by the next dawn. A delayed one gives the party a night.
 
@@ -73,9 +73,9 @@ Something is taking the dead out of the villages at the edge of the forest, and 
 
 **Purpose.** A trick and a setback: the city turns the party's greed against them.
 
-**Situation.** Behind the Hall, steps lead down to the Offering Vaults, low chambers of the sect where every household that kept a dead one deposited a lamp. They are stacked with bronze bowls chased with gold, small gilded figures of the dead in their seats, strings of beads in jade and carnelian. Much of it would pay a caravan's wage. A pale light comes from every lamp at once.
+**Situation.** Behind the Hall, steps lead down to the [Offering Vaults]{.name data-type="place/structure"}, low chambers of the sect where every household that kept a dead one deposited a lamp. They are stacked with bronze bowls chased with gold, small gilded figures of the dead in their seats, strings of beads in jade and carnelian. Much of it would pay a caravan's wage. A pale light comes from every lamp at once.
 
-**NPCs and threats.** The **Chinnasutra cell** that preceded the party came here. Its leader, **Orgha**, a former appraiser with a precise hand, is sitting among the figures on a shelf, a lamp in his lap. He is one of the kept now. His dead face still wears the look of a man pricing something. The rest of his cell stands along the wall, wrapped in the sect's silk. They carry the lamps that pulled them down and cannot set them down. They attack whoever carries another lamp out, to take it from them. The vault itself is the threat: any lamp lifted lights in its bearer's pack and cannot be extinguished, and the Standing from the causeway follow it.
+**NPCs and threats.** The Chinnasutra cell that preceded the party came here. Its leader, [Orgha]{.name data-type="being/creature"}, a former appraiser with a precise hand, is sitting among the figures on a shelf, a lamp in his lap. He is one of the kept now. His dead face still wears the look of a man pricing something. The rest of his cell stands along the wall, wrapped in the sect's silk. They carry the lamps that pulled them down and cannot set them down. They attack whoever carries another lamp out, to take it from them. The vault itself is the threat: any lamp lifted lights in its bearer's pack and cannot be extinguished, and the Standing from the causeway follow it.
 
 **Player choices.**
 
@@ -97,7 +97,7 @@ Something is taking the dead out of the villages at the edge of the forest, and 
 
 **Situation.** The Hearth is a low dome, and its door is open. Inside is a round chamber of black stone with a hearth in the center, cold, and around it the lamps of the sect's first dead. A woman sits at the hearth's edge. Behind her is an arch in the dome's wall, and the air in the arch does not move. Cold comes out of it.
 
-**NPCs and threats.** The **Mother of the Kept** is a terebu: a learned term for an undead made by an elaborate rite during life, ending in the candidate's death and a delayed rising. She prepared herself for it. She is slight and ancient and her eyes are two flames, and she speaks in a voice that shifts between the sect's first Sabhapavi and her own. She is a grieving mother. Her children drowned in a flood in the age before the count, and she founded the sect to keep them from the gate. She keeps every kept soul so that none of them can be lost, as hers were. The arch behind her is the way the [[lore-theshadow|Shadow]] came in, through the opening her holding made, and her hold on the city is also her hold on the arch. She is sad, patient and implacable. She fights with the lamps: the Standing, the Seated, and the chill.
+**NPCs and threats.** The Mother of the Kept is one of the [[being-tereb|Tereb]]: a learned term for an undead made by an elaborate rite during life, ending in the candidate's death and a delayed rising. She prepared herself for it. She is slight and ancient and her eyes are two flames, and she speaks in a voice that shifts between the sect's first Sabhapavi and her own. She is a grieving mother. Her children drowned in a flood in the age before the count, and she founded the sect to keep them from the gate. She keeps every kept soul so that none of them can be lost, as hers were. The arch behind her is the way [[lore-theshadow|The Shadow]] came in, through the opening her holding made, and her hold on the city is also her hold on the arch. She is sad, patient and implacable. She fights with the lamps: the Standing, the [Seated]{.name data-type="being/creature"}, and the chill.
 
 **Player choices.**
 

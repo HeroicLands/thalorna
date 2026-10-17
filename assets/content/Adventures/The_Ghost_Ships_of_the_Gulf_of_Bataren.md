@@ -14,7 +14,7 @@ data:
   packFolder: adventures
 ---
 
-Ghost ships appear in the Gulf of Bataren, crewed by the [[lore-undead|undead]] and carrying no cargo but dread. The party must investigate their origin, uncover what they seek, and determine whether they are a natural phenomenon or a deliberate curse.
+Ghost ships appear in the [[place-batarengulf|Gulf of Bataren]], crewed by the [[lore-undead|Undead]] and carrying no cargo but dread. The party must investigate their origin, uncover what they seek, and determine whether they are a natural phenomenon or a deliberate curse.
 
 ## Overview
 
@@ -24,7 +24,7 @@ Merchant vessels traveling through the Gulf of Bataren report encounters with gh
 
 The party becomes aware of the ghost ship phenomenon through:
 
-- Arriving in a port (Bataren or another coastal city) where recent encounters are being discussed
+- Arriving in a port ([[place-batarencity|Bataren City]] or another coastal city) where recent encounters are being discussed
 - Being hired by a merchant guild or maritime authority
 - Witnessing an encounter firsthand
 - Interviewing survivors of ghost ship encounters
@@ -56,7 +56,7 @@ The party must gather information about the ghost ships' identities and origins:
 - Investigate the locations and patterns of appearances (do they follow routes, circle areas, seek ports?)
 - Determine if there's a connection between the ships (same era, same fate, same crew)
 - Uncover if someone recently disturbed a graveyard, tomb, or wreck (triggering the haunting)
-- Check whether the [[affiliation-ordoarcanis|Thordimalon]] or a practitioner of dark magic is involved
+- Check whether [[affiliation-ordoarcanis|Thordimalon]] or a practitioner of dark magic is involved
 
 **Complications:**
 
@@ -163,14 +163,14 @@ The party must decide how to address the ghost ships. Options include:
 - Survivors and merchants are grateful and provide rewards
 - The party may recover valuable cargo or treasure from the ships
 - Knowledge of what happened is preserved or revealed
-- The [[affiliation-arldnpnthn|Aureldian]] faith or local priesthood gains closure and reputation
+- One of the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] or a local priesthood gains closure and reputation
 
 **Complications:**
 
 - Not all ghosts are appeased; some may continue to haunt specific locations
 - The party may be bound by oath to fulfill the ghosts' final wishes
 - The ghost ships' origins reveal larger historical or political secrets
-- If the [[affiliation-ordoarcanis|Thordimalon]] was involved, they may seek to continue their work or eliminate the party
+- If Thordimalon was involved, they may seek to continue their work or eliminate the party
 
 **If the party fails:**
 

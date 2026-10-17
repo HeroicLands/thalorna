@@ -16,13 +16,13 @@ data:
   packFolder: adventures
 ---
 
-A dust storm strips the party from its caravan in the Long Dry, and their guide brings them by the stars to the one water he knows: [[place-qelodwatri|Kelodvootri]], an owned spring of twelve palms whose well lies under a stone wrapped in chains. Its owners are two exhausted riders who forbid anyone to go near the well, and their water-warden went down the shaft three days ago and has not come up. Something lives in the cistern under the palms, and every sign the party meets says it is hunting. It is not. It is the true owner of the water, and it is collecting the debt that every tribe of the sand range collects from a trespasser: one person held until the debt is paid, a beast for each skin of water drawn, and the stranger's rope laid by the stone as proof.
+A dust storm strips the party from its caravan in the [Long Dry]{.name data-type="place/feature"}, and their guide brings them by the stars to the one water he knows: [[place-qelodwatri|Kelodvootri]], an owned spring of twelve palms whose well lies under a stone wrapped in chains. Its owners are two exhausted riders who forbid anyone to go near the well, and their water-warden went down the shaft three days ago and has not come up. Something lives in the cistern under the palms, and every sign the party meets says it is hunting. It is not. It is the true owner of the water, and it is collecting the debt that every tribe of the sand range collects from a trespasser: one person held until the debt is paid, a beast for each skin of water drawn, and the stranger's rope laid by the stone as proof.
 
 ## Overview
 
-The adventure runs from one dusk to the second dawn. Its clock is thirst: the party arrives with a day's water, the owners' spare skins are nearly empty, and the next water is three days off across open sand. The only water within reach is in the cistern, and the cistern belongs to the **Bodekud**, a [[lore-dreadspawncrtr|dreadspawn]] that the owners have called a [[being-qelodud|kelodud]] for generations. Their own word for it means "the one who owns the water", and they have forgotten that the word is meant plainly.
+The adventure runs from one dusk to the second dawn. Its clock is thirst: the party arrives with a day's water, the owners' spare skins are nearly empty, and the next water is three days off across open sand. The only water within reach is in the cistern, and the cistern belongs to the [Bodekud]{.name data-type="being/creature"}, one of the [[lore-dreadspawncrtr|Dreadspawn]] that the owners have called a [[being-qelodud|Kelodud]] for generations. Their own word for it means "the one who owns the water", and they have forgotten that the word is meant plainly.
 
-The adventure follows the customs of [[lore-ownedoasis|the owned oasis]] throughout, twice over. The riders are the owners the party can see, and a party that asks for guest-right and keeps it is protected by them. The Bodekud is the owner the party cannot see, and it keeps the same custom more strictly than the tribe does. Every scene below gives several ways through and says how play carries on if the party skips, fails or cuts short what the scene offers.
+The adventure follows the customs of [[lore-ownedoasis|The Owned Oasis]] throughout, twice over. The riders are the owners the party can see, and a party that asks for guest-right and keeps it is protected by them. The Bodekud is the owner the party cannot see, and it keeps the same custom more strictly than the tribe does. Every scene below gives several ways through and says how play carries on if the party skips, fails or cuts short what the scene offers.
 
 **The essential clues** the party needs to meet the Bodekud prepared, and where each can be found:
 
@@ -63,8 +63,8 @@ The full truth of the spring—what the Bodekud is, the custom it keeps, what it
 
 The reveal lands in Scene Three, and it reaches the party by whichever route it took.
 
-- **At the palms.** When the tethered camel is reeled in and Gorenghakhiq's riding camel beside it is left standing, Gorenghakhiq counts aloud. Six skins on the warden's cord; two of the riders' camels taken before the party came; one tonight; and tonight the winding stopped at three. He says it plainly: the thing is collecting, and it keeps the custom.
-- **In the cleft or below.** Budaqtoliz leads the party down the steps by moonlight to the first turning, where the lamp reaches across the water to the air pocket under the south ledge. The riders' two camels stand in it alive, tied to stones in the warden's hitch. Numaqlun, seeing them, says the word the tribe does not use in front of strangers, and says what it means.
+- **At the palms.** When the tethered camel is reeled in and [Gorenghakhiq]{.name data-type="being/npc"}'s riding camel beside it is left standing, Gorenghakhiq counts aloud. Six skins on the warden's cord; two of the riders' camels taken before the party came; one tonight; and tonight the winding stopped at three. He says it plainly: the thing is collecting, and it keeps the custom.
+- **In the cleft or below.** [Budaqtoliz]{.name data-type="being/npc"} leads the party down the steps by moonlight to the first turning, where the lamp reaches across the water to the air pocket under the south ledge. The riders' two camels stand in it alive, tied to stones in the warden's hitch. [Numaqlun]{.name data-type="being/npc"}, seeing them, says the word the tribe does not use in front of strangers, and says what it means.
 - **Already in the cistern at midnight.** The party watches an arm bring the warden's rope down the overflow channel, coil it on the ledge beside the drawing-basin, and lay his knife beside it, its blade dark with blood. It is the proof of the drawing and the proof of the fight, set out together as an owner sets them before the eldest.
 
 > [!TIP]
@@ -78,7 +78,7 @@ The reveal lands in Scene Three, and it reaches the party by whichever route it 
 
 ### What the party wants afterward
 
-Once the reveal lands, the party wants to settle a debt, not win a fight. The way to bring Budaqtoliz up is to pay for him: a beast or a weight given into the water for each skin still owed. The way to drink is to ask, by pouring water back into the pool first. The trap and the kill stay possible, and they now cost the tribe its water and the party its standing, because killing an owner at its own water is the one act the custom answers with blood, and the Kuuyoyur reckon by the same custom. Scene Five's reckoning gains a party the tribe never counted on: the owner below.
+Once the reveal lands, the party wants to settle a debt, not win a fight. The way to bring Budaqtoliz up is to pay for him: a beast or a weight given into the water for each skin still owed. The way to drink is to ask, by pouring water back into the pool first. The trap and the kill stay possible, and they now cost the tribe its water and the party its standing, because killing an owner at its own water is the one act the custom answers with blood, and the [Kuuyoyur]{.name data-type="affiliation"} reckon by the same custom. Scene Five's reckoning gains a party the tribe never counted on: the owner below.
 
 > [!WARNING]
 > A party that has already set its heart on the trap may carry on with it after the reveal. That closes the courteous route for good. Let it, and let the consequences in Scene Five and the Aftermath follow from what the party knew when it chose.
@@ -115,9 +115,9 @@ Read or paraphrase:
 
 **NPCs and threats.**
 
-- **Numaqlun** is the elder of the two, a lean woman in a dusty black wrap, the wife of the tribe's water-warden. She offers salt and guest-right at once, because the custom requires it and because she has not spoken to anyone but the boy for three days. Her voice is level and her hands shake. She forbids anyone to go within ten paces of the well, and she says, before anyone asks, that the warden is below at the cleaning.
-- **Budaqtoliz** is her nephew, sixteen, with a bow he keeps strung. He says nothing. Throughout the evening he watches the palms instead of the desert, and when the winding starts he turns his head toward the palm roots, not the well.
-- **Gorenghakhiq**, the party's guide, is a gray, careful man of the grass, who has crossed the Khoshiqor fourteen times and has never lost a string. He knows the custom to the letter and keeps it. He knows the [[being-qelodud|kelodud]], and he has never heard a lidded well sound like this. While the party waits at the pole he says, to nobody in particular, what the guides of the grass say at every owned water: that the tribes hold the wells of the road in trust until the owners return.
+- Numaqlun is the elder of the two, a lean woman in a dusty black wrap, the wife of the tribe's water-warden. She offers salt and guest-right at once, because the custom requires it and because she has not spoken to anyone but the boy for three days. Her voice is level and her hands shake. She forbids anyone to go within ten paces of the well, and she says, before anyone asks, that the warden is below at the cleaning.
+- Budaqtoliz is her nephew, sixteen, with a bow he keeps strung. He says nothing. Throughout the evening he watches the palms instead of the desert, and when the winding starts he turns his head toward the palm roots, not the well.
+- Gorenghakhiq, the party's guide, is a gray, careful man of the grass, who has crossed [[place-hskrrgn|Khoshiqor]] fourteen times and has never lost a string. He knows the custom to the letter and keeps it. He knows the kelodud, and he has never heard a lidded well sound like this. While the party waits at the pole he says, to nobody in particular, what the guides of the grass say at every owned water: that the tribes hold the wells of the road in trust until the owners return.
 
 > [!TIP]
 > Give Gorenghakhiq his saying as a proverb, said once while the light goes, the way a man says something he has said at every well for forty years. Do not repeat it and do not dwell on it. It comes back in Scene Three with its second meaning.
@@ -149,9 +149,9 @@ Read or paraphrase:
 
 **NPCs and threats.**
 
-- **Numaqlun** answers what she is asked and offers nothing on the night. Her husband is **Voghalkenod**. She will say that the old lid cracked across its middle as he went down, with a sound like a struck pot, and that she will not talk about the rest.
-- **Gorenghakhiq** looks at the rope a long while. He says, low, that among the grass tribes an owner who catches a stranger drawing lays the stranger's rope by the well-stone for the eldest to see, and that he has never seen it done to an owner's own warden. He is now frightened, which he has never been on the road.
-- **A [[being-bnscrpn|bone scorpion]]** lies in the shade at the mouth of the cleft in the mesa foot, where a cold breath comes up out of the rock. The riders camp on the far side of the cleft from it and have not gone near the passage.
+- Numaqlun answers what she is asked and offers nothing on the night. Her husband is [Voghalkenod]{.name data-type="being/npc"}. She will say that the old lid cracked across its middle as he went down, with a sound like a struck pot, and that she will not talk about the rest.
+- Gorenghakhiq looks at the rope a long while. He says, low, that among the grass tribes an owner who catches a stranger drawing lays the stranger's rope by the well-stone for the eldest to see, and that he has never seen it done to an owner's own warden. He is now frightened, which he has never been on the road.
+- **A [[being-bnscrpn|Bone Scorpion]]** lies in the shade at the mouth of the cleft in the mesa foot, where a cold breath comes up out of the rock. The riders camp on the far side of the cleft from it and have not gone near the passage.
 
 > [!TIP]
 > Let the table take Gorenghakhiq's remark as the thing below mocking the riders with the dead man's habits. That is the first reading, and it is the frightening one. Do not correct it.
@@ -184,10 +184,10 @@ Read or paraphrase:
 
 **NPCs and threats.**
 
-- **The Bodekud**, seen for the first time: a pale arm comes up out of the palm roots in the dark, jointed in too many places, longer than the palm is tall, and draws back down the hole like a hand into a sleeve. It passes over Gorenghakhiq's camel to reach the one beside it.
-- **Budaqtoliz** breaks. He saw the arms two nights ago in the palm roots and said nothing, because Numaqlun would not hear that the warden was anything but lost. Now he admits that the thing has learned to leave by the old overflow channel.
-- **Numaqlun**, if anyone suggests the thing is still holding her husband, wants to go down at once.
-- **Gorenghakhiq** stands by his untouched camel with his hand on its neck, and counts.
+- The Bodekud, seen for the first time: a pale arm comes up out of the palm roots in the dark, jointed in too many places, longer than the palm is tall, and draws back down the hole like a hand into a sleeve. It passes over Gorenghakhiq's camel to reach the one beside it.
+- Budaqtoliz breaks. He saw the arms two nights ago in the palm roots and said nothing, because Numaqlun would not hear that the warden was anything but lost. Now he admits that the thing has learned to leave by the old overflow channel.
+- Numaqlun, if anyone suggests the thing is still holding her husband, wants to go down at once.
+- Gorenghakhiq stands by his untouched camel with his hand on its neck, and counts.
 
 > [!IMPORTANT]
 > This scene must establish that the takings follow the debt. The beast taken is one that drank drawn water, the one left standing is the guide's, and the winding is one shorter than it was at dusk. Whatever else happens tonight, describe those three things.
@@ -202,7 +202,7 @@ Read or paraphrase:
 
 **The reveal, at the palms.** Gorenghakhiq asks Numaqlun how many skins her husband drew, or takes the tally-cord from the party, and counts aloud. Six skins. Two camels before the party came. One tonight, and never his, because he drank nothing drawn and watered his beast from his own skin. Four pulls at dusk, three now. Then he says it: the thing is collecting, and it keeps the custom. The wells are held in trust until the owners return, and this owner never left.
 
-**The reveal, in the cleft.** Numaqlun, at the first turning, sees the camels alive in the air pocket and stops on the step. She says the tribe's word for the thing in the well, **Bodekud**, and what it means: the one who owns the water. Then she says that the tribe has said it as a name since her grandmother's grandmother, and that an owner keeps the beasts he takes alive.
+**The reveal, in the cleft.** Numaqlun, at the first turning, sees the camels alive in the air pocket and stops on the step. She says the tribe's word for the thing in the well, Bodekud, and what it means: the one who owns the water. Then she says that the tribe has said it as a name since her grandmother's grandmother, and that an owner keeps the beasts he takes alive.
 
 **The reveal, below.** A party already in the cistern at midnight hears the chains clatter down through the crack in the roof above the pool, and watches the camel come down the overflow channel past its lamp, dragged by an arm, without a sound, to be tied in the air pocket beside the riders' two. Then an arm brings the warden's rope down the channel, coils it on the ledge beside the drawing-basin, and lays his knife beside it, its blade dark with blood. Budaqtoliz's voice calls the party's names down the shaft from above, then stops.
 
@@ -232,8 +232,8 @@ Under the south ledge, half in the water, is the air pocket. In it, tied to ston
 
 **NPCs and threats.**
 
-- **The Bodekud** hangs beneath the ledges with its arms spread over the pool. Its body is never fully seen: a pale bulk under the stone, wet, larger than a camel, from which the arms come. It does not hurry. It holds one person at a time, draws him under the ledge and ties him in the air pocket, and lets him go when the debt is paid. It leaves alone anyone who has poured water from the pool back into it before drawing, while that person stays at the pool. Dry heat makes it go still, and fire on its arms makes it pull them under. It does not climb the passage into the dry air and does not follow anyone up the shaft into daylight.
-- **Numaqlun**, if she came, goes to the air pocket for her husband and cannot be stopped from it.
+- The Bodekud hangs beneath the ledges with its arms spread over the pool. Its body is never fully seen: a pale bulk under the stone, wet, larger than a camel, from which the arms come. It does not hurry. It holds one person at a time, draws him under the ledge and ties him in the air pocket, and lets him go when the debt is paid. It leaves alone anyone who has poured water from the pool back into it before drawing, while that person stays at the pool. Dry heat makes it go still, and fire on its arms makes it pull them under. It does not climb the passage into the dry air and does not follow anyone up the shaft into daylight.
+- Numaqlun, if she came, goes to the air pocket for her husband and cannot be stopped from it.
 
 > [!TIP]
 > Play the Bodekud as an owner receiving debtors. It waits. When the party pours back, the arms draw aside; when a beast or a weight goes into the water, one arm takes it under without haste and the next arm draws back from the air pocket. Let the players feel the transaction before anyone names it.
@@ -269,8 +269,8 @@ At dawn on the fourth day, if not before, a dozen riders of the Kuuyoyur come do
 **NPCs and threats.**
 
 - **The Kuuyoyur riders**, who ask what happened and compare it with what Numaqlun says. They are not in a hurry.
-- **Numaqlun** speaks for the party or against it, according to what it did.
-- **The Bodekud**, below, whose debt was the tribe's before it was anyone's.
+- Numaqlun speaks for the party or against it, according to what it did.
+- The Bodekud, below, whose debt was the tribe's before it was anyone's.
 
 **Player choices.**
 

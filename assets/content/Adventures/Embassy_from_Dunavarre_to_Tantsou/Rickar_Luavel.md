@@ -23,4 +23,4 @@ data:
 
 **Background.** Expert in animal care and handling.
 
-**Intrigue.** Holds secret sympathies for a rival faction within Dúnavarre. His divided loyalties make him a potential mole.
+**Intrigue.** Holds secret sympathies for a rival faction within the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]. His divided loyalties make him a potential mole.

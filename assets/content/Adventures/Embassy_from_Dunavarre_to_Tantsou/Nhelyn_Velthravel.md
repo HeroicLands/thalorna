@@ -21,6 +21,6 @@ data:
 
 **Role.** Provides medical care to the party.
 
-**Background.** Reckoned among the best physicians and healers in Dúnavarre.
+**Background.** Reckoned among the best physicians and healers in the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]].
 
 **Intrigue.** Experiments with dangerous potions and elixirs, risking the health of the party. His obsession with the research could be exploited.

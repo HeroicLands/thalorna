@@ -23,4 +23,4 @@ data:
 
 **Background.** Kidnapped and murdered in 717.
 
-**Intrigue.** His death binds [[being-geldarpanivel|Geldar Panivel]] to a criminal past, and is the lever by which Geldar can be exposed or can bargain.
+**Intrigue.** His death binds [[being-geldarpanivel|Geldar Panivel, the Younger]] to a criminal past, and is the lever by which Geldar can be exposed or can bargain.

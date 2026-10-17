@@ -20,11 +20,11 @@ data:
 # terran_analog: "The Roman jurists as the Digest preserves them, in fragments excerpted from books that are otherwise lost; the regulae iuris collected at the end of the Digest; the medieval glossators who wrote their commentary in the margins and disagreed with one another there; and the Roman habit of arguing law from maxims."
 ---
 
-**The Words Kept from the Fire** are the rules of **Varelis Korvelis**, a jurist of [[lore-vylarirpbl|the Republic]] whose books were in the imperial archive on Arvel when it burned ([[lore-archivefire|The Archive Fire]]). Not one of the books survived. What survives is what other people had copied out of them before the fire: rules quoted in pleadings, rules a teacher had set his pupils to learn, rules cut over the door of a court. The law schools gathered the quotations into one teaching book, the _Lambizar_, "the words", and the book has been copied for the schools ever since with the masters' gloss beneath each rule, so that a student of law learns the rule and the quarrel about it on the same page.
+The Words Kept from the Fire are the rules of [Varelis Korvelis]{.name data-type="being/npc"}, a jurist of the [Vylarian Republic]{.name data-type="affiliation/polity"} whose books were in the imperial archive on [[place-arvel|Arvel]] when it burned ([[lore-archivefire|The Archive Fire]]). Not one of the books survived. What survives is what other people had copied out of them before the fire: rules quoted in pleadings, rules a teacher had set his pupils to learn, rules cut over the door of a court. The law schools gathered the quotations into one teaching book, the _Lambizar_, "the words", and the book has been copied for the schools ever since with the masters' gloss beneath each rule, so that a student of law learns the rule and the quarrel about it on the same page.
 
 The book keeps the rules in the order of the old law-books, under heads, and it keeps the masters' quarrels where they fall. A rule quoted in two pleadings in two forms stands in both. A rule known only from a later writer who reported it in the reported-speech construction stands that way too, and the masters have argued for centuries whether a rule Varelis is only said to have said binds as one he said: the reported construction keeps the reporter at arm's length, and the student is taught to hear the distance. The rendering marks those rules "Varelis is reported to have held." The gloss is in many hands, and the book does not name them. A gloss that answers another begins "Another master."
 
-The house name of Varelis is built on _korvela_, a roll, and the schools hold that his house were keepers of the Senate's roll under the Republic. The record that would settle it was in the archive.
+The house name of Varelis is built on _korvela_, a roll, and the schools hold that his house were keepers of the roll of the [[affiliation-seldan|Seldan]], the Senate, under the Republic. The record that would settle it was in the archive.
 
 ## Of the Roll
 
@@ -36,7 +36,7 @@ _Gloss._ The rule is the first in every copy, and the schools teach it first. A 
 
 _Gloss._ One keeper, so that the roll cannot be written by two men who disagree. Every reader, so that the keeper cannot write what no one sees.
 
-_Another master._ The rule is the Republic's. Under the Orzoi the roll is kept by the Guild and read by the Guild, and the second half of the rule is kept in the schools.
+_Another master._ The rule is the Republic's. Under the Orzoi the roll is kept by [[affiliation-imprlscrblgld|The Imperial Scribal Guild]] and read by the Guild, and the second half of the rule is kept in the schools.
 
 **3. Strike nothing. Write the correction below, and date it.**
 
@@ -84,7 +84,7 @@ _Gloss._ The master of a household answers at law for everyone under his roof: w
 
 **13. A hand that cannot answer cannot hold.**
 
-_Gloss._ A guardian who wastes a ward's estate loses the ward. The province of Hilen keeps a case on this rule that the schools teach as its proof, in which a widow took her son's guardianship from his uncle by sitting at a patron's door until she was heard.
+_Gloss._ A guardian who wastes a ward's estate loses the ward. The [[affiliation-provnchyln|Province of Hilen]] keeps a case on this rule that the schools teach as its proof, in which a widow took her son's guardianship from his uncle by sitting at a patron's door until she was heard.
 
 **14. The hand opens once.**
 
@@ -110,7 +110,7 @@ _Gloss._ Quoted in every speech the Senate has heard against the north since the
 
 **18. The living within the line, the dead without.**
 
-_Gloss._ The rule is older than the line around the six hills and was applied to every city of the Republic. A tomb inside the boundary is a crime against the dead as much as against the living, because the dead inside the line are counted among the living, and the dead may not be counted among the living.
+_Gloss._ The rule is older than the line around [[place-sixhillsvyl|The Six Hills]] and was applied to every city of the Republic. A tomb inside the boundary is a crime against the dead as much as against the living, because the dead inside the line are counted among the living, and the dead may not be counted among the living.
 
 **19. A will speaks the day it is read and not the day it is written.**
 
@@ -130,7 +130,7 @@ _Gloss._ Given at birth; raised into the hallowed when a house is raised; lowere
 
 **23. Varelis is reported to have held that a name struck from the roll is still owed its tomb.**
 
-_Gloss._ Reported. The unnaming forbids the name to be said, and the schools teach that Varelis meant the tomb is kept without the name, as the priests of the Silent Judge keep the unclaimed. The masters of the Senate's schools teach that the rule is not his, and that a struck name has no tomb because it has no person.
+_Gloss._ Reported. The unnaming forbids the name to be said, and the schools teach that Varelis meant the tomb is kept without the name, as the priests of [[lore-selmorosdty|Sélmoros]], the Silent Judge, keep the unclaimed. The masters of the Senate's schools teach that the rule is not his, and that a struck name has no tomb because it has no person.
 
 _Another master._ Both schools agree that it is not in the pleadings. Both schools agree that it is in the book.
 

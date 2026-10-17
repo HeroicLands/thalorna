@@ -20,13 +20,13 @@ A witch in a forest dell sells cures at the price of years, and the years feed t
 
 ## Overview
 
-[[place-nethermootholw|Nethermoot Hollow]] is ringed with oaks into which a witch, **Nanwyth Crake**, bound the dead of the clan of the nine fords. She did it ten years ago at the war-chief's request, to make the clan's dead fight for the living in a feud, and the binding held after the feud ended. The dead are awake in the trees. They do not rest and she feeds them years, which she takes in payment from those who come to her. The [[lore-theshadow|Shadow]] has found the hollow through the binding, and what stands in the oaks is not wholly the clan's dead.
+[[place-nethermootholw|Nethermoot Hollow]] is ringed with oaks into which a witch, [Nanwyth Crake]{.name data-type="being/npc"}, bound the dead of the clan of the nine fords. She did it ten years ago at the war-chief's request, to make the clan's dead fight for the living in a feud, and the binding held after the feud ended. The dead are awake in the trees. They do not rest and she feeds them years, which she takes in payment from those who come to her. [[lore-theshadow|The Shadow]] has found the hollow through the binding, and what stands in the oaks is not wholly the clan's dead.
 
 ## Hooks
 
-- **The thief.** A Thornbury apothecary has a client dying of a wasting fever and will pay a thief to bring back a jar of the witch's cure. He does not say what the cure costs the one who fetches it.
-- **The mercenary or common soldier.** A border steading of Aldorath hires guards to carry a sick child through the forest to the hollow, and it is a three-day march through Grukar country.
-- **The leader.** The war-chief **Haldrec Vane** sends a chieftain who owes him a debt to fetch his daughter from the hollow, where she has gone to bargain for her mother's life. He says nothing of the oaks.
+- **The thief.** A [[place-thornbury|Thornbury]] apothecary has a client dying of a wasting fever and will pay a thief to bring back a jar of the witch's cure. He does not say what the cure costs the one who fetches it.
+- **The mercenary or common soldier.** A border steading of the [[place-aldorathrgn|Aldorath Region]] hires guards to carry a sick child through the forest to the hollow, and it is a three-day march through the country of [[lore-grukaraelwyth|The Grukar of Aelwyth]].
+- **The leader.** The war-chief [Haldrec Vane]{.name data-type="being/npc"} sends a chieftain who owes him a debt to fetch his daughter from the hollow, where she has gone to bargain for her mother's life. He says nothing of the oaks.
 - **The lone wanderer.** The wanderer's own sickness, a failing hand, a fading eye, has a cure rumored in the forest, and a trackstone path leads to it.
 
 ## Scene One: The Ring of Oaks
@@ -37,7 +37,7 @@ A witch in a forest dell sells cures at the price of years, and the years feed t
 
 **NPCs and threats.** The **root-sworn** are the clan's dead, bound into the oaks and called out to stand at the rim. They are grey, slow-spoken, patient and stiff with age, and they carry spears that have rotted to the color of bark. They speak as a clan council speaks, asking each stranger name, lineage and business. A stranger who lies is held in the roots. The oaks themselves move if disturbed: a branch comes down, or a root rises across the path.
 
-**Player choices.** Force: cut a way through the root-sworn, who are slow but rise again if the trees stand. Stealth: crawl under the roots at the dell's rim. Guile: answer the question with a clan name from the Peshtar country and a plausible lineage. Parley: ask them what they are guarding and whom.
+**Player choices.** Force: cut a way through the root-sworn, who are slow but rise again if the trees stand. Stealth: crawl under the roots at the dell's rim. Guile: answer the question with a clan name from the [[place-pshtrwldrns|Peshtar Wilderness]] and a plausible lineage. Parley: ask them what they are guarding and whom.
 
 **Clues and rewards.** A root-sworn warrior will say, if asked well, that the clan lies in the trees and has not been told it is free to go. One of them carries a wooden token, a clan-mark, which he will give to a party that speaks to him as a kinsman.
 
@@ -49,9 +49,9 @@ A witch in a forest dell sells cures at the price of years, and the years feed t
 
 **Purpose.** Meet the witch and learn her bargain.
 
-**Situation.** The cottage is warm and low, with a loom in the corner and a long table of stoppered jars. A black cat watches from the lintel. **Nanwyth Crake** is at the loom when the party comes in, weaving something grey, and she sets it aside.
+**Situation.** The cottage is warm and low, with a loom in the corner and a long table of stoppered jars. A black cat watches from the lintel. Nanwyth Crake is at the loom when the party comes in, weaving something grey, and she sets it aside.
 
-**NPCs and threats.** **Nanwyth Crake** is a spare woman with white hands and a quiet voice. She is not cruel and she does not haggle. She says what each thing costs in years and from whom, and she keeps her word. She is afraid of something she does not name, and she hides it behind courtesy. The cat is a watcher: it goes to the dell when the witch calls and returns with the oaks' answer.
+**NPCs and threats.** Nanwyth Crake is a spare woman with white hands and a quiet voice. She is not cruel and she does not haggle. She says what each thing costs in years and from whom, and she keeps her word. She is afraid of something she does not name, and she hides it behind courtesy. The cat is a watcher: it goes to the dell when the witch calls and returns with the oaks' answer.
 
 **Player choices.** Force: seize the witch, which brings the root-sworn down on the cottage. Stealth: take a jar while she weaves. Guile: bargain, offering someone else's years or a different payment. Parley: ask her why she binds the dead.
 
@@ -83,7 +83,7 @@ A witch in a forest dell sells cures at the price of years, and the years feed t
 
 **Situation.** At the dell's lowest point stands the oldest oak, its trunk split by a seam of black that smokes in cold air. The witch's first binding was made here, in the roots of the clan's first chief. The seam is the Shadow's door. A thing is coming up through it that wears the clan's first chief like a cloak.
 
-**NPCs and threats.** The **Rooted Chief** is a huge, grey, antlered shape of wood and bone that was the clan's founder. The Shadow speaks through him, in his voice, and what it says is not his. It calls the root-sworn to arms against the party and against the witch. The witch is at the roots, working to hold the seam shut.
+**NPCs and threats.** The [Rooted Chief]{.name data-type="being/creature"} is a huge, grey, antlered shape of wood and bone that was the clan's founder. The Shadow speaks through him, in his voice, and what it says is not his. It calls the root-sworn to arms against the party and against the witch. The witch is at the roots, working to hold the seam shut.
 
 **Player choices.** Force: cut down the old oak, which wounds the Rooted Chief and the whole grove. Stealth: break the witch's binding at the seam and let the dead walk out. Guile: speak the clan's rite for the dead at the chief's feet, if the party has the token. Parley: ask the first chief himself, under the Shadow's voice, what he wants.
 
@@ -99,7 +99,7 @@ A witch in a forest dell sells cures at the price of years, and the years feed t
 
 **Situation.** In the cottage the witch, if she lives, gives the party what she has: a chest of her own making and the loom's cloth. The names woven in it run back ten years. The first thread is the war-chief's.
 
-**NPCs and threats.** If the witch is dead, her cat sits on the chest and watches. **Haldrec Vane** arrives within the day, with six warriors, to see what became of his debt.
+**NPCs and threats.** If the witch is dead, her cat sits on the chest and watches. Haldrec Vane arrives within the day, with six warriors, to see what became of his debt.
 
 **Player choices.** Force: confront the war-chief with the cloth. Stealth: take the cloth and the chest and leave him ignorant. Guile: trade the cloth to the war-chief for the sum he owes. Parley: take it to the druids of the neighboring clans and let them judge him.
 

@@ -16,13 +16,13 @@ data:
   packFolder: adventures
 ---
 
-A rockslide shuts the gorge behind the party below [[place-sunderwynd|Sunderwynd]], a watch-post on the southern approach to an [[place-ironfells|Ironfells]] pass. The garrison hangs in a dead pine and from the post's own beams, and the one man left on the ground holds the door with a crossbow. The thing that took them is a [[lore-dreadspawncrtr|dreadspawn]] that lives in the heights of the stonework and never sets foot on the ground, and at dusk the heights fill with the voices of the men it took. The garrison's daybook says the voices are its own. They are not: the hung are alive, and the captain has been calling his last man by name for three nights.
+A rockslide shuts the gorge behind the party below [[place-sunderwynd|Sunderwynd]], a watch-post on the southern approach to a pass of [[place-ironfells|The Ironfells]]. The garrison hangs in a dead pine and from the post's own beams, and the one man left on the ground holds the door with a crossbow. The thing that took them is a [[lore-dreadspawncrtr|Dreadspawn]] that lives in the heights of the stonework and never sets foot on the ground, and at dusk the heights fill with the voices of the men it took. The garrison's daybook says the voices are its own. They are not: the hung are alive, and the captain has been calling his last man by name for three nights.
 
 ## Overview
 
-Some weeks ago a made thing came down out of the high country and into Sunderwynd. The garrison called it the **Hangman**. It takes men from overhead, by reach or by rope, carries them up, and hangs them in high places: the dead pine above the gorge, the tower's beams, the vault of the cistern beneath the yard. It keeps to the heights, moves across walls, ceilings, beams and the hollow places in the masonry, and does not touch the ground. On open ground, with nothing above it to climb, it does not come.
+Some weeks ago a made thing came down out of the high country and into Sunderwynd. The garrison called it the [Hangman]{.name data-type="being/creature"}. It takes men from overhead, by reach or by rope, carries them up, and hangs them in high places: the dead pine above the gorge, the tower's beams, the vault of the cistern beneath the yard. It keeps to the heights, moves across walls, ceilings, beams and the hollow places in the masonry, and does not touch the ground. On open ground, with nothing above it to climb, it does not come.
 
-The relief patrol from [[place-caerwynd|Kaerwynd]] passed the party on the gorge trail this morning, going up. The party reaches the post's crag in the afternoon. The garrison is gone except for **Kenric Brandley**, a patrolman who has survived three nights by lying flat in the open yard after dark. He watched his captain taken, and since then he has heard his captain call him by name from the tower every night. He has not answered.
+The relief patrol from [[place-caerwynd|Kaerwynd]] passed the party on the gorge trail this morning, going up. The party reaches the post's crag in the afternoon. The garrison is gone except for [Kenric Brandley]{.name data-type="being/npc"}, a patrolman who has survived three nights by lying flat in the open yard after dark. He watched his captain taken, and since then he has heard his captain call him by name from the tower every night. He has not answered.
 
 The way down is shut by the slide. The way up is the pass, under snow by nightfall. The way out is the post's drainage tunnel, which runs from the cistern's low end through the crag to the gorge face below the slide, and the cistern is where the Hangman feeds. Beyond the cistern's far wall lies the pay vault, walled up by an earlier captain during a raid and never opened since.
 
@@ -30,7 +30,7 @@ What the Hangman was made for, and by whom, stays unknown.
 
 ## What Is Really Happening
 
-The full truth of the post—what the Hangman keeps, why the hung call, who is still alive and where, and where the pay vault's door is—is in [[place-sunderwynd#truth|the truth of Sunderwynd]]. In short: the Hangman has no voice. The voices in the heights are the taken, living, hung by ropes under the arms and watered in the cistern every dusk so that they last, and it lets them call because calling brings rescuers within reach. **Captain Aldmund Hardwick** hangs in the tower's roof-room above his own table, and the voice Kenric has refused for three nights is his.
+The full truth of the post—what the Hangman keeps, why the hung call, who is still alive and where, and where the pay vault's door is—is in [[place-sunderwynd#truth|the truth of Sunderwynd]]. In short: the Hangman has no voice. The voices in the heights are the taken, living, hung by ropes under the arms and watered in the cistern every dusk so that they last, and it lets them call because calling brings rescuers within reach. Captain [Aldmund Hardwick]{.name data-type="being/npc"} hangs in the tower's roof-room above his own table, and the voice Kenric has refused for three nights is his.
 
 This section covers what that truth does at the table: where the party can find it, how it lands on each route, and what the party wants once it knows.
 
@@ -56,7 +56,7 @@ The reveal belongs in Scene Three, at dusk, when the Hangman makes its round of 
 
 - **In the yard.** The captain calls for Kenric again. Anyone who asks the voice a question gets an answer to it, true and new. Asked anything about the post, the captain answers it and then says what he found on the afternoon before he was taken: "The vault door lieth beside the mason's mark. 'Tis set dry. Tell Kaerwynd."
 - **On the cistern route.** By lamplight, a man hanging over the water opens his eyes. His chest rises. The rope runs under his arms.
-- **On the wall.** A patrolman in the pine calls for his sergeant: "Wilrik! Wilrik, art thou there?" Nobody in the party has heard the name. From the grating over the cistern, below the yard, a weak voice answers: "Here, lad. Hold on."
+- **On the wall.** A patrolman in the pine calls for his sergeant: "[Wilrik]{.name data-type="being/npc"}! Wilrik, art thou there?" Nobody in the party has heard the name. From the grating over the cistern, below the yard, a weak voice answers: "Here, lad. Hold on."
 - **If a companion was taken.** The companion's own voice calls from above, answers the party by name, and asks for a knife.
 
 > [!TIP]
@@ -81,7 +81,7 @@ Pick the entry that suits the hero. Each puts the party on the gorge trail below
 
 - **The thief.** Every smuggler who crosses the pass knows the post keeps the toll, and one of them has heard that a captain walled up the pay vault in a raid and died without telling anyone where. The thief goes up the gorge to look, behind the relief patrol.
 - **The mercenary or common soldier.** Kaerwynd sends the party up with dispatches and a mule of stores, a day behind the relief patrol, to be signaled back with the post's news.
-- **The leader.** The post's captain, **Aldmund Hardwick**, is the leader's kinsman or old comrade, and his signals have stopped. The leader goes to see why, and takes companions.
+- **The leader.** The post's captain, Aldmund Hardwick, is the leader's kinsman or old comrade, and his signals have stopped. The leader goes to see why, and takes companions.
 - **The lone wanderer.** The wanderer is crossing the Ironfells by the eastern pass, alone, late in the season, when the slide comes down behind.
 
 ## The Opening
@@ -99,9 +99,9 @@ Read or paraphrase:
 
 > The trail climbs out of the gorge under the dead pine and ends at a gatehouse with its gate standing open. Beyond it is a walled yard, a square stone tower and a long barrack range. Nothing moves in the yard but a cart lying on its side. From behind the cart a voice says, quite steadily, "Stop there."
 
-**Situation.** In the yard, behind the overturned cart, **Kenric Brandley** crouches with a loaded crossbow leveled at the gate. It is late afternoon and the light is going. He will not let anyone come closer until he is sure they are alive.
+**Situation.** In the yard, behind the overturned cart, Kenric Brandley crouches with a loaded crossbow leveled at the gate. It is late afternoon and the light is going. He will not let anyone come closer until he is sure they are alive.
 
-**NPCs and threats.** **Kenric** is a patrolman of the garrison, young, filthy, hollow-eyed and steady-handed. He gives his test in the older speech: "Stand ye where the light is, every one, and show me your feet upon the stones. Speak your names, and tell me what ye ate this morn." A sound from above sends him flat to the ground.
+**NPCs and threats.** Kenric is a patrolman of the garrison, young, filthy, hollow-eyed and steady-handed. He gives his test in the older speech: "Stand ye where the light is, every one, and show me your feet upon the stones. Speak your names, and tell me what ye ate this morn." A sound from above sends him flat to the ground.
 
 Once he trusts the party he tells what he saw, briefly. He was on the tower stair three nights ago with the captain at his table above, writing. Something scraped overhead, the lamp went over, there was a crack in the dark, and when Kenric got up the stair the chair was empty. That night the captain's voice called him by name from the tower, asking him to come up and help. Since then the voice has called every night, and it says things the captain never said: that the snow is starting on the pass, that the lamp in the barracks has gone out. "It watcheth us," Kenric says, "and it learneth." He has not answered it, and he has not been inside a roofed room since.
 
@@ -178,7 +178,7 @@ Once he trusts the party he tells what he saw, briefly. He was on the tower stai
 
 As the round goes on, the voices begin, one after another as each hung man is watered and wakes. The captain calls Kenric from the tower, and says the snow has started. From the pine over the gorge a younger voice calls for someone named Wilrik. Up the cistern stair come other voices, fainter, asking for water, for light, for a knife.
 
-**NPCs and threats.** The **Hangman**, glimpsed but not seen whole: a long dark shape, too many joints, hooked limbs, quick and silent. It can reach any room with a roof, a beam, a shaft or a gap in the stone. It cannot reach the open yard. It makes no sound but the scrape of its hooks. When anyone moves toward a voice, the scrape in the masonry moves the same way.
+**NPCs and threats.** The Hangman, glimpsed but not seen whole: a long dark shape, too many joints, hooked limbs, quick and silent. It can reach any room with a roof, a beam, a shaft or a gap in the stone. It cannot reach the open yard. It makes no sound but the scrape of its hooks. When anyone moves toward a voice, the scrape in the masonry moves the same way.
 
 **Kenric, after the voice answers.** He goes white, then gets up from the stones. He says, once, "Three nights," and then he wants to answer, and to go up. He does not wait for permission unless someone holds him.
 
@@ -211,9 +211,9 @@ As the round goes on, the voices begin, one after another as each hung man is wa
 
 > The stair goes down wet into the dark. At the bottom is a long low vault on squat pillars, black water at the far end and shallow water at the near, and from every rib and pillar hang men on ropes, their feet a little above the water. Some of them are turning. One of them, near the stair, lifts his head.
 
-**Situation.** The cistern is half-full of black water at the high end and shallow at the low end, where the drainage tunnel opens. The vault is hung with the taken: men of the garrison, the relief patrol, a smuggler and his pony, strung by ropes under the arms from the pillars and the ribs, their feet over the water. Some are dead. Some breathe: the relief patrol's sergeant **Wilrik** and three of his men, and two men of the garrison. Some of the stones of the vault are cracked and loose; the Hangman's weight, night after night, has worked them free of their mortar. In the far wall, by the mason's mark, the stone looks newer. The Hangman is overhead. The captain is not here; he hangs in the tower.
+**Situation.** The cistern is half-full of black water at the high end and shallow at the low end, where the drainage tunnel opens. The vault is hung with the taken: men of the garrison, the relief patrol, a smuggler and his pony, strung by ropes under the arms from the pillars and the ribs, their feet over the water. Some are dead. Some breathe: the relief patrol's sergeant Wilrik and three of his men, and two men of the garrison. Some of the stones of the vault are cracked and loose; the Hangman's weight, night after night, has worked them free of their mortar. In the far wall, by the mason's mark, the stone looks newer. The Hangman is overhead. The captain is not here; he hangs in the tower.
 
-**NPCs and threats.** The **Hangman**, seen at last as it unfolds from among the vault's ribs: longer than three men, jointed like a stick insect and a man at once, its limbs ending in hooks, a band of dark metal sunk into one of them and cut with marks nobody can read. It makes no sound at all. It attacks from above, across walls, beams and narrow openings, drops, lifts and climbs away. On the floor it is slow and its reach is short. It goes after anything that falls from its ropes, living or dead, at once.
+**NPCs and threats.** The Hangman, seen at last as it unfolds from among the vault's ribs: longer than three men, jointed like a stick insect and a man at once, its limbs ending in hooks, a band of dark metal sunk into one of them and cut with marks nobody can read. It makes no sound at all. It attacks from above, across walls, beams and narrow openings, drops, lifts and climbs away. On the floor it is slow and its reach is short. It goes after anything that falls from its ropes, living or dead, at once.
 
 > [!WARNING]
 > Cutting a living man's rope drops him into the deep end with his arms bound to his sides. Make that plain the first time a blade goes to a rope, before it cuts, never after. Bringing the living down alive means lowering them, which needs two pairs of hands and the time the Hangman allows.
@@ -263,7 +263,7 @@ As the round goes on, the voices begin, one after another as each hung man is wa
 - The **garrison's pay**, a chest of crown silver.
 - The **toll chests**, in coin and in kind: spice, amber and a bolt of fine cloth taken from a smuggler's ponies.
 - The **captain's sword**, a fine blade given by the crown to the captain who walled the vault, with his name and the crown's mark on the blade. His family wants it back, and pays.
-- From the Hangman, if it died: the band of dark metal, cut with marks no scholar on Aelwyth has read.
+- From the Hangman, if it died: the band of dark metal, cut with marks no scholar on [[place-aelwyth|Aelwyth]] has read.
 - From Kaerwynd: a reward for every man of the garrison and the relief brought down alive.
 
 **Consequences.** The party comes out on the gorge face below the slide, with the forest below and the snow above.
@@ -277,7 +277,7 @@ As the round goes on, the voices begin, one after another as each hung man is wa
 - **If the captain was brought down,** the first thing he asks for is Kenric, and what he says to him nobody else hears. He names Kenric in his report as the man who held the post.
 - **If the captain was left,** Kenric goes back up the gorge with the first party Kaerwynd sends in the spring, whatever the orders.
 - **If living men were left in the cistern,** Kaerwynd hears it from the ones who came out, and asks the party why.
-- **If the band of metal is taken to a scholar,** the marks on it match nothing in any library on Aelwyth. The Synod at Ravenmoor asks to see it.
+- **If the band of metal is taken to a scholar,** the marks on it match nothing in any library on Aelwyth. The [[affiliation-dunavarsynod|Dúnavarre Synod]] at [[place-ravenmoor|Ravenmoor]] asks to see it.
 - **If Kenric lives,** he does not serve under a roof again.
 
 ## See Also

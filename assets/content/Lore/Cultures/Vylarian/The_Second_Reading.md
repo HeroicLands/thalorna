@@ -22,19 +22,19 @@ data:
 # terran_analog: "Livy's annalistic history, with its year-by-year lists of prodigies reported and expiated and its omens disregarded before a disaster; the Roman augurs and the sacred chickens that would not eat before the battle of Drepana, and the consul who drowned them; and Varus's legions lost in the Teutoburg forest, whose eagles were not all recovered."
 ---
 
-**The Second Reading** is the tale the **Omelars** of the legions tell a chaplain on the night of his licensing. An Ozethos is licensed jointly by the legions and the [[affiliation-ordoarcanis|Thordimalon]] to read the signs for an army, in a bird or a flame, and his licensing ends at night in the camp shrine with the Omelars of the legion around the fire. The oldest of them tells the tale while the new one keeps the fire. It is set down here in the manner the Omelars use, which is the manner of the annals: the year, its signs, and then what was done, in that order, with no word given to what anyone felt, because the annals give none.
+The Second Reading is the tale the **Omelars** of the legions tell a chaplain on the night of his licensing. An Ozethos is licensed jointly by the legions and [[affiliation-ordoarcanis|Thordimalon]] to read the signs for an army, in a bird or a flame, and his licensing ends at night in the camp shrine with the Omelars of the legion around the fire. The oldest of them tells the tale while the new one keeps the fire. It is set down here in the manner the Omelars use, which is the manner of the annals: the year, its signs, and then what was done, in that order, with no word given to what anyone felt, because the annals give none.
 
-The tale is about [[lore-twelfthloss|the Loss of the Twelfth]], and its Ozethos is **Silkimar**, the chaplain of the Doreken Hiltheren. The army's record names no chaplain of the Twelfth, and the Omelars hold that this proves nothing either way, since the record names no chaplain of any legion. The tale turns on a vowel. A second reading ordered by a commander is given in the subjunctive, which in Vylari makes a reason something alleged and not vouched for, and the tale's whole matter is a man who did that and a man who did not hear it. The rendering marks the moved vowel "so it is said."
+The tale is about [[lore-twelfthloss|The Loss of the Twelfth]], and its Ozethos is [Silkimar]{.name data-type="being/npc"}, the chaplain of the [Doreken Hiltheren]{.name data-type="affiliation"}. The army's record names no chaplain of the Twelfth, and the Omelars hold that this proves nothing either way, since the record names no chaplain of any legion. The tale turns on a vowel. A second reading ordered by a commander is given in the subjunctive, which in the [[skill-vylarilng|Vylari Language]] makes a reason something alleged and not vouched for, and the tale's whole matter is a man who did that and a man who did not hear it. The rendering marks the moved vowel "so it is said."
 
 ## The Signs of the Year
 
-In the year the council of the regency sent the Doreken Hiltheren into the Kervaron, these signs were reported to the chaplains of the western legions and entered in their books.
+In the year the council of the regency sent the Doreken Hiltheren into the [Kervaron Spine]{.name data-type="place/feature"}, these signs were reported to the chaplains of the western legions and entered in their books.
 
 At the Twelfth's winter quarters, the kept fire of the legion's shrine was found out in the morning, though the watch swore it had been fed in the night. It was relit from the fire of the Vallar's house, as the rite requires, and the Ozethos entered it.
 
 The pole of the Twelfth's eagle, which stands in the shrine on a stone socket, was found leaning toward the west. It was set upright. In the morning it was leaning west again. It was wedged, and the wedge held.
 
-A recruit of the third cohort, a boy of fifteen not yet sworn, dreamed three nights running of snow in the summer, and reported it to his Kamezos, who reported it to his centurion, who reported it to the Ozethos, who entered it, because the Veiled Dreamer sends the dreams of the young and the Omelars are licensed to hear them.
+A recruit of the third cohort, a boy of fifteen not yet sworn, dreamed three nights running of snow in the summer, and reported it to his Kamezos, who reported it to his centurion, who reported it to the Ozethos, who entered it, because the Omelars hold that [[lore-zunelasdty|Zunelas]], the Veiled Dreamer, sends the dreams of the young, and the Omelars are licensed to hear them.
 
 In the spring the swallows came late to the eaves of the quarters, and fewer than in other years, and they built on the eastern side of the roofs and none on the western.
 
@@ -48,11 +48,11 @@ On the evening the fort's gate was hung, the Thramezusos called the Ozethos to r
 
 ## The First Reading
 
-Silkimar built the fire in the fort's shrine as the rite prescribes, of dry wood and laurel on the bare stone, before the eagle, with the Thramezusos standing on the eagle's right and the Holtakezos on its left, and the Lusari behind. He lit it from the kept fire the legion carried with it in its clay pot. He fed it three times. A flame read for a march is read for its lean: a flame that leans the way the army means to go is the gods walking ahead of it, and a flame that leans back toward the army is the gods standing in its road.
+Silkimar built the fire in the fort's shrine as the rite prescribes, of dry wood and laurel on the bare stone, before the eagle, with the Thramezusos standing on the eagle's right and the Holtakezos on its left, and the Lusari behind. He lit it from the kept fire the legion carried with it in its clay pot. He fed it three times. A flame read for a march is read for its lean: a flame that leans the way the army means to go is read as the gods walking ahead of it, and a flame that leans back toward the army is read as the gods standing in its road.
 
 The flame leaned east, back down the valley the legion had come up, toward the quarters and the river and the capital.
 
-He fed it again, as the rite allows, and it leaned east. He waited the time the rite prescribes, which is as long as it takes to say the names of the Twelve slowly, and it leaned east. The wind that evening was out of the east, and it blew up the valley into the passes, and the flame leaned against it.
+He fed it again, as the rite allows, and it leaned east. He waited the time the rite prescribes, which is as long as it takes to say the names of the Twelve gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] slowly, and it leaned east. The wind that evening was out of the east, and it blew up the valley into the passes, and the flame leaned against it.
 
 Then Silkimar stood up from the fire and spoke the reading in High Vylari, as a reading is spoken, in the indicative, which is the mood a man uses for what he vouches for: "The flame stands in the road. The gods do not go up the pass, because they do not go up the pass." And he entered it in the book.
 

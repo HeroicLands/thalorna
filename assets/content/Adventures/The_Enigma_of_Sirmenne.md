@@ -14,11 +14,11 @@ data:
   packFolder: adventures
 ---
 
-Ancient ruins in the borderlands hold secrets from before human memory, guarded by the reclusive [[skill-aelendlng|Áelendi]] tribes and their [[lore-flksinale|Sinale]] allies. The artifacts within could reshape Provenzian power—if the party can uncover them without awakening what guards them.
+Ancient ruins in the borderlands hold secrets from before human memory, guarded by the reclusive [[affiliation-aelndntrbs|Áelendan Tribes]] and their [[lore-flksinale|Sinale Folk]] allies. The artifacts within could reshape Provenzian power—if the party can uncover them without awakening what guards them.
 
 ## Overview
 
-Deep in the borderlands between [[place-provenzrgn|Provenzia Region]] and [[place-elavendre|Élavendre]], the crumbling ruins of Sirmenne stand—a sacred site shared between the [[affiliation-aelndntrbs|Áelendan Tribes]] (the reclusive human tribes who are the original people of Élavendre) and the [[lore-flksinale|Sinale]] who dwell in the hidden forests nearby. Sirmenne predates any Provenzian or even Élavendren settlement by centuries, and its purpose remains a mystery to outsiders. Local legends speak of artifacts of incredible power left behind when the Sinale withdrew deeper into their enclaves. The party is contracted to explore the ruins, document findings, and retrieve anything of value. But the Áelendan have guarded this place for generations, and the Sinale did not leave their creations unprotected.
+Deep in the borderlands between the [[place-provenzrgn|Provenzia Region]] and [[place-elavendre|Élavendre]], the crumbling ruins of [[place-sirmenne|Sirmenne]] stand—a sacred site shared between the Áelendan Tribes (the reclusive human tribes who are the original people of Élavendre) and the Sinale who dwell in the hidden forests nearby. Sirmenne predates any Provenzian or even Élavendren settlement by centuries, and its purpose remains a mystery to outsiders. Local legends speak of artifacts of incredible power left behind when the Sinale withdrew deeper into their enclaves. The party is contracted to explore the ruins, document findings, and retrieve anything of value. But the Áelendan have guarded this place for generations, and the Sinale did not leave their creations unprotected.
 
 ## Stage One: The Commission & Preparation
 
@@ -26,7 +26,7 @@ The party is hired by:
 
 - A scholar or antiquarian seeking knowledge of the ancients
 - A noble seeking to expand Provenzian prestige and power
-- The [[affiliation-ordoarcanis|Thordimalon]], claiming authority to study arcane artifacts
+- [[affiliation-ordoarcanis|Thordimalon]], claiming authority to study arcane artifacts
 - A mysterious patron with their own hidden agenda
 
 **Initial Information:**
@@ -105,7 +105,7 @@ A Final Guardian
 - The artifact is secured (but what to do with it remains the question)
 - Knowledge of the ancient partnership between Áelendi and Sinale is recovered
 - The party may have awakened attention from the Sinale themselves (who may not appreciate disturbance)
-- Possession of the artifact brings interest from the [[affiliation-ordoarcanis|Thordimalon]], foreign powers, and hidden factions
+- Possession of the artifact brings interest from Thordimalon, foreign powers, and hidden factions
 - The Áelendan tribes' reaction depends on how the party treated them and what was disturbed
 
 **Consequences of the Artifact:**

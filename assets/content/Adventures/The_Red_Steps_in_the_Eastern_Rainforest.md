@@ -16,11 +16,11 @@ data:
   packFolder: adventures
 ---
 
-A landslide strands the party below a forgotten binding temple in the eastern rainforest of Ne'ok Ba'ate. A priestess of the storm-serpent's serpent-keepers has opened the temple's sealed chamber to recover a seal-stone, trusting a register that calls its guardian dead. The guardian is a Living Work of the Builder, one of a kind, and it is awake, and it is hungry. The priestess says she never reached the seal-stone. The guardian, which goes wherever the seal-stone goes, says otherwise.
+A landslide strands the party below a forgotten binding temple in the eastern rainforest of the [[place-neokbaatergn|Ne'ok Ba'ate Region]]. A priestess of the serpent-keepers of the [[affiliation-puqilchaqun|Faith of P'uqil Ch'akun]] has opened the temple's sealed chamber to recover a seal-stone, trusting a register that calls its guardian dead. The guardian, held by the builder-priests to be a Living Work of [[lore-piqalkulqatdty|P'iqal Kul'qat]], the Builder, is one of a kind, and it is awake, and it is hungry. The priestess says she never reached the seal-stone. The guardian, which goes wherever the seal-stone goes, says otherwise.
 
 ## Overview
 
-[[place-kulqattzumul|Kul'qat Ts'umul]], the Red Steps, is a binding temple of [[affiliation-puqilchaqun|P'uqil Ch'akun]] raised by the builder-priests of [[affiliation-piqalkulqat|P'iqal Kul'qat]] and shut so long ago that the forest has taken its road. The serpent-keepers of Ne' Ts'umul have sent **Ish'mel Ts'uma Ch'upul**, a Warden of the Sealed Chambers, to bring back its seal-stone, the Storm's Eye, and its codices before the seals are next inspected. The Warden of the Ruins records the temple's guardian as failed. It is not. **Ch'al Kul'iq**, the strength beneath, is a [[lore-dreadspawncrtr|dreadspawn]] set over the sealed chamber, and when Ish'mel went down for the Eye it came up the stair behind her.
+[[place-kulqattzumul|Kul'qat Ts'umul]], the Red Steps, is a binding temple of P'uqil Ch'akun raised by the builder-priests of the [[affiliation-piqalkulqat|Faith of P'iqal Kul'qat]] and shut so long ago that the forest has taken its road. The serpent-keepers of [Ne' Ts'umul]{.name data-type="place/settlement"} have sent [Ish'mel Ts'uma Ch'upul]{.name data-type="being/npc"}, a Warden of the Sealed Chambers, to bring back its seal-stone, the [Storm's Eye]{.name data-type="miscgear"}, and its codices before the seals are next inspected. The Warden of the Ruins records the temple's guardian as failed. It is not. [Ch'al Kul'iq]{.name data-type="being/creature"}, the strength beneath, is a [[lore-dreadspawncrtr|Dreadspawn]] set over the sealed chamber, and when Ish'mel went down for the Eye it came up the stair behind her.
 
 The party learns how the guardian works from several sources, and each fact can be had more than one way:
 
@@ -57,7 +57,7 @@ The reveal belongs in Scene Three, and it comes from the guardian's own conduct.
 
 - **In the gallery.** The scrape answers from beyond the barrier and then from the foot of the service stair, closing on the room where Ish'mel kneels. A party that lays a blood trail away from the gallery hears the scrape pass the end of the trail and keep coming.
 - **In the sanctuary.** A party that never went down hears Ish'mel coming up the service stair, and every lamp flame in the hall leans toward the stair door before she reaches it, then turns to follow her across the floor.
-- **With Ts'ilil.** The boy, coaxed out and fed, or frightened by the lean of the flames, says what she told him not to: when she came up the stair she had it in her hand, the round green one.
+- **With [Ts'ilil Nal'ik]{.name data-type="being/npc"}.** The boy, coaxed out and fed, or frightened by the lean of the flames, says what she told him not to: when she came up the stair she had it in her hand, the round green one.
 - **By the culvert.** A party that crawled the culvert in Scene Two has already seen the empty jade box. Ish'mel's denial lands on people who know better.
 
 If the reveal has not landed by Scene Four, the guardian makes it: between the lightning flashes it goes for whichever group holds the satchel, every time, and passes the others by.
@@ -83,7 +83,7 @@ Once the reveal lands, the party is no longer only trying to live through the ni
 - **The thief.** A Ne' Ts'umul jade-dealer has heard that the serpent-keepers sent a Warden into the eastern forest with porters and an empty chest, and wants to know what she is bringing back.
 - **The mercenary or common soldier.** A master merchant hires the party to escort two baggage animals of cacao and feather-work over the eastern trail to the coast before the worst of the rains.
 - **The leader.** A Ha'nalmah of the eastern valleys sends the party to find out why the serpent-keepers' party has not come back down the trail, because his district supplied its porters.
-- **The lone wanderer.** One of the Warden's guards, **Ch'imik Ha'nal**, is the wanderer's cousin, or friend, or debtor, and has not come home.
+- **The lone wanderer.** One of the Warden's guards, [Ch'imik Ha'nal]{.name data-type="being/npc"}, is the wanderer's cousin, or friend, or debtor, and has not come home.
 
 > [!TIP]
 > The thief's hook gives one player a reason to watch the satchel from the first scene with Ish'mel. Let that player watch it, and answer every question about it with what can be seen: a leather satchel, heavy, held by the strap, never set down.
@@ -105,7 +105,7 @@ The rain has not stopped for three days. Read or paraphrase:
 
 **Situation.** The red stair climbs a stepped platform eight times a person's height to a temple doorway. Halfway up, under the stair's overhang, sits a wounded temple guard with a spear across his knees. Beside the gate at the top of the first flight lies his companion in a cuirass of hardened hide and wooden slats, face down. The guard's orders are to keep the stair, and he keeps it.
 
-**NPCs and threats.** **Ts'okum Ne'ok** is a guard of the serpent-keepers' household, with a broken arm bound in his belt and a fever coming on. He bars the stair, threatens, then bargains. His companion, **Ch'imik Ha'nal**, is dead. Something moves through the forest below the platform while the party argues: a long line of ferns bending flat, steadily, the way grass bends under a dragged weight, and the smell of wet stone. Nothing can be seen making it. The guard looks at it and lets the party up.
+**NPCs and threats.** [Ts'okum Ne'ok]{.name data-type="being/npc"} is a guard of the serpent-keepers' household, with a broken arm bound in his belt and a fever coming on. He bars the stair, threatens, then bargains. His companion, Ch'imik Ha'nal, is dead. Something moves through the forest below the platform while the party argues: a long line of ferns bending flat, steadily, the way grass bends under a dragged weight, and the smell of wet stone. Nothing can be seen making it. The guard looks at it and lets the party up.
 
 > [!IMPORTANT]
 > The line of moving ferns must go along the buried paving and nowhere else. It is the party's first sight of the stone rule, and the first sight of the guardian moving toward the temple.
@@ -135,7 +135,7 @@ The rain has not stopped for three days. Read or paraphrase:
 
 **Situation.** The sanctuary is open to the stair. In the middle of the floor is a square shaft under a pivoting stone lid. The barrier slab hangs a hand short of the floor, and splinters of black obsidian lie at its foot. A carved band runs around the hall at eye height.
 
-**NPCs and threats.** **Ts'ilil Nal'ik**, a boy attendant of the serpent-keepers, is wedged into a niche between two pillars and will not come out. He answers almost nothing. He says the Warden went down for the Storm's Eye, because the register said the guardian was dead; that it came up the stair behind her; that the porters dropped the wall. Pressed for more, he puts his face against the stone. He thinks the Warden is inside the wall, where the pin goes.
+**NPCs and threats.** Ts'ilil Nal'ik, a boy attendant of the serpent-keepers, is wedged into a niche between two pillars and will not come out. He answers almost nothing. He says the Warden went down for the Storm's Eye, because the register said the guardian was dead; that it came up the stair behind her; that the porters dropped the wall. Pressed for more, he puts his face against the stone. He thinks the Warden is inside the wall, where the pin goes.
 
 > [!WARNING]
 > Ts'ilil does not say whether the Warden reached the Eye, and a GM who lets him answer that question here gives the reversal away. He has been told to say nothing about it. If asked straight out, he says he did not see, and looks at the floor.
@@ -169,9 +169,9 @@ The rain has not stopped for three days. Read or paraphrase:
 
 > The service stair winds down inside the wall to a narrow stone room. A counterweight hangs in a slot; a beam crosses it, and a pin socket gapes empty in the beam. A woman kneels at it with a lamp beside her, hammering a stick of hardwood into the socket with the flat of a stone. A leather satchel hangs from her shoulder, and her other hand never lets go of its strap.
 
-**Situation.** The gate gallery holds the barrier's counterweight, the beam and pin that hold it, the levers for the shaft lid and the pit gate, and a squint that looks down onto the descending stair beyond the barrier. **Ish'mel Ts'uma Ch'upul** kneels at the beam, trying to drive a hardwood pin into a socket where the obsidian pin broke off. She has a bad cut on her forearm. Beyond the barrier something heavy scrapes, once, and stops. Then the same scrape answers from behind the party, from the passages at the foot of the service stair. The sealed chamber has a second way out, and the culvert at the foot of the platform is it.
+**Situation.** The gate gallery holds the barrier's counterweight, the beam and pin that hold it, the levers for the shaft lid and the pit gate, and a squint that looks down onto the descending stair beyond the barrier. Ish'mel Ts'uma Ch'upul kneels at the beam, trying to drive a hardwood pin into a socket where the obsidian pin broke off. She has a bad cut on her forearm. Beyond the barrier something heavy scrapes, once, and stops. Then the same scrape answers from behind the party, from the passages at the foot of the service stair. The sealed chamber has a second way out, and the culvert at the foot of the platform is it.
 
-**NPCs and threats.** **Ish'mel Ts'uma Ch'upul**, Ish'mel to her household, is proud, frightened and quick. She says she opened the chamber because the register told her the guardian had failed, and that she did not tell her porters what the carvings showed because she did not believe them. Both are true. She says she never reached the Storm's Eye: the thing came up the stair while she was still going down, and she ran. That is false. The Eye is in her satchel. She wants to live, and she wants to reach the river landing with the satchel. **Ch'al Kul'iq** is in the passages and on the stair, and it does not hurry. Up in the sanctuary, Ts'okum, if he is still alive, begins to shout and then stops.
+**NPCs and threats.** Ish'mel Ts'uma Ch'upul, Ish'mel to her household, is proud, frightened and quick. She says she opened the chamber because the register told her the guardian had failed, and that she did not tell her porters what the carvings showed because she did not believe them. Both are true. She says she never reached the Storm's Eye: the thing came up the stair while she was still going down, and she ran. That is false. The Eye is in her satchel. She wants to live, and she wants to reach the river landing with the satchel. Ch'al Kul'iq is in the passages and on the stair, and it does not hurry. Up in the sanctuary, Ts'okum, if he is still alive, begins to shout and then stops.
 
 > [!TIP]
 > Play Ish'mel as someone the party wants on its side. She knows the machinery, she is brave at the beam, and she is right about everything except the satchel. When she rebinds her arm, do it in front of the lamp.
@@ -204,7 +204,7 @@ The rain has not stopped for three days. Read or paraphrase:
 
 **Situation.** The sanctuary is dark between flashes, and each flash shows a different piece of the hall. The guardian enters from the barrier stair, the service stair or the culvert, wherever is nearest the satchel. It is seen only in fragments: a curve of gray hide plated like river-stone, wider than the doorway it came through; a weight settling; a pillar shifting on its base.
 
-**NPCs and threats.** **Ch'al Kul'iq** goes for whichever group holds the satchel, every time. It takes whoever is in its way, lies upon them, and draws back into a passage too narrow for anyone to follow, dragging the victim with it. It returns, toward the satchel. It is drawn to blood on stone and to a tread it can feel, and it has wits of its own: it will not cross the shaft lid twice in the same way. **Ish'mel** works the gallery levers if the party asks her to and has kept her trust, and runs for the river landing with the satchel if it has not.
+**NPCs and threats.** Ch'al Kul'iq goes for whichever group holds the satchel, every time. It takes whoever is in its way, lies upon them, and draws back into a passage too narrow for anyone to follow, dragging the victim with it. It returns, toward the satchel. It is drawn to blood on stone and to a tread it can feel, and it has wits of its own: it will not cross the shaft lid twice in the same way. Ish'mel works the gallery levers if the party asks her to and has kept her trust, and runs for the river landing with the satchel if it has not.
 
 > [!TIP]
 > If the party splits up in the dark, move the guardian toward the group with the satchel between every flash, and say so in what the flash shows. Two flashes are usually enough.
@@ -236,7 +236,7 @@ The rain has not stopped for three days. Read or paraphrase:
 
 **Situation.** The sealed chamber is a low vault cut into the bedrock beneath the sanctuary, reached by the barrier stair or the culvert. It is full. Generations of offerings lie in it where they were thrown down the shaft or carried in: jade, gold, obsidian, cloth rotted to dust, bones. On a shelf in the back wall, in a stone box, are the serpent-keepers' codices, bound in serpent skin. Beside them stands a smaller box under a lid of jade, empty.
 
-**NPCs and threats.** If the guardian was sent home by the Eye, this is where it lies, on the Eye, and the party goes quietly or not at all. **Ish'mel** knows the offerings. Some of what lies here is wealth; some of it runs the temple. The rack of long obsidian blades by the stair are spare pins for the barrier and the lid, and the jade weights in the wall niches are the counterweights' trim. A party that takes those leaves the barrier and the pit gate unable to hold.
+**NPCs and threats.** If the guardian was sent home by the Eye, this is where it lies, on the Eye, and the party goes quietly or not at all. Ish'mel knows the offerings. Some of what lies here is wealth; some of it runs the temple. The rack of long obsidian blades by the stair are spare pins for the barrier and the lid, and the jade weights in the wall niches are the counterweights' trim. A party that takes those leaves the barrier and the pit gate unable to hold.
 
 **Player choices.**
 
@@ -248,7 +248,7 @@ The rain has not stopped for three days. Read or paraphrase:
 
 **Clues and rewards.** Jade ear-spools, pendants and plaques of ritual quality; gold ritual vessels, heavy and old; obsidian blades of fine work that are not pins; and the codices, which are the serpent-keepers' calculations of the end of the age. They are worth more to the branch than the rest of the chamber together, and more again to the heretics the branch hunts. The Storm's Eye, a jade disk the size of a palm with the serpent's eye cut through it, is wherever Scene Four left it.
 
-**Consequences.** A party that hands the codices to Ish'mel earns her branch's gratitude, which is real and watchful. A party that keeps them has something the serpent-keepers will want back and the Ts'umaq K'alanil will kill for. A party that took the pins has left Ch'al Kul'iq a way out.
+**Consequences.** A party that hands the codices to Ish'mel earns her branch's gratitude, which is real and watchful. A party that keeps them has something the serpent-keepers will want back and [[affiliation-tzumaqkalanil|Ts'umaq K'alanil]] will kill for. A party that took the pins has left Ch'al Kul'iq a way out.
 
 **If bypassed, failed or cut short.** A party that fled to the landing without the chamber can come back by the culvert on a later night, when the guardian has fed and lies still. The processional stair leads from the platform down to a sheltered landing on the river, where a canoe left by the Warden's party is drawn up under the trees, and the river runs down to the coast.
 

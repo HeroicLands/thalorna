@@ -18,14 +18,14 @@ data:
 
 ## Hands That Never Stop Turning
 
-A serpent-cult died in the deep forest and its priests did not. At the [[place-drwndzgrt|Drowned Ziggurat]], mummified hands turn bronze prayer-wheels without rest, and the [[lore-theshadow|Shadow]] that keeps them turning has begun to want more than hands. The party must cross a flooded temple, survive its rising water, and decide what to do with the wheels. Victory here is partial at best: the wheels can be stopped, but the thing they hold shut does not stay shut.
+A serpent-cult died in the deep forest and its priests did not. At [[place-drwndzgrt|The Drowned Ziggurat]], mummified hands turn bronze prayer-wheels without rest, and [[lore-theshadow|The Shadow]] that keeps them turning has begun to want more than hands. The party must cross a flooded temple, survive its rising water, and decide what to do with the wheels. Victory here is partial at best: the wheels can be stopped, but the thing they hold shut does not stay shut.
 
 ### Hook
 
 Offer the entry that suits the hero.
 
 - **The thief.** A drunken river-factor in a northern port sells a map to a temple roofed in green stone. The roof is root and moss, but the bronze inside is real, and so is the jade at the heart of it.
-- **The mercenary or soldier.** A Khelathi salt-factor, who lost two salvage crews to the Ziggurat, hires guards for a third. His pay is good and his reasons are thin.
+- **The mercenary or soldier.** A [[lore-khelathiclt|Khelathi]] salt-factor, who lost two salvage crews to the Ziggurat, hires guards for a third. His pay is good and his reasons are thin.
 - **The leader.** The chieftain of a river-tribe has watched the drowned plain's fish die and its water turn black. The tribe's eldest says the serpent-patron is troubled. The chieftain needs someone to go upriver who is not of the tribe, because no one of the tribe can break the taboo.
 - **The lone wanderer.** The wanderer has a fever-dream of a bronze wheel turning, and has dreamed it for a month. A river-guide who knows the way owes the wanderer a life and offers to pay.
 
@@ -39,7 +39,7 @@ The place note is [[place-drwndzgrt|The Drowned Ziggurat]].
 
 **NPCs and threats.**
 
-- **Old Coil.** A river-python as long as a dugout, half blind and starved, coiled around the stair-foot in a nest of drowned roots. It is the last living remnant of the cult's patron, and the Shadow has not touched it, only left it hungry. It strikes at movement in the water and does not pursue far. It wants food more than blood: a cut of meat thrown to it draws it off.
+- [Old Coil]{.name data-type="being/creature"}. A river-python as long as a dugout, half blind and starved, coiled around the stair-foot in a nest of drowned roots. It is believed to be the last living remnant of the cult's patron, and the Shadow has not touched it, only left it hungry. It strikes at movement in the water and does not pursue far. It wants food more than blood: a cut of meat thrown to it draws it off.
 - **The salt-factor's second crew,** if the hook uses them: three ragged survivors camped on the causeway, afraid to go on and afraid to leave. They know the first terrace and will sell what they know.
 
 **Player choices.**
@@ -47,7 +47,7 @@ The place note is [[place-drwndzgrt|The Drowned Ziggurat]].
 - _Force:_ kill the python from the causeway with spears. It takes a wound badly and thrashes the stair into rubble.
 - _Stealth:_ cross at the stair's edge on the roots, keeping out of the water.
 - _Guile:_ draw Old Coil off with bait cast on the far side.
-- _Parley:_ a Kubindo keeper or any elder of the river can recognise the python as the patron's kin and offer the old river-offerings. It lets them pass and does not follow.
+- _Parley:_ a keeper of the [[lore-kubindoclt|Kubindo]] or any elder of the river can honour the python as the patron's kin and offer the old river-offerings. It lets them pass and does not follow.
 
 **Clues and rewards.** Serpent-coils carved into the stair-risers show the way: the coils lead up. A drowned offering-bowl in the nest holds a handful of river-gold dust.
 
@@ -63,7 +63,7 @@ The place note is [[place-drwndzgrt|The Drowned Ziggurat]].
 
 **NPCs and threats.**
 
-- **The Wheel-Keepers.** [[being-damut|Damutu]] of the lesser priests, driven by a binding that gives each body one task. They turn the wheels. They do not leave their niches, and they do not respond to the living unless the rhythm breaks. A wheel stopped by force sends the nearest Keeper out of its niche in a lurching rush, its free hand clawing, while the other hand keeps turning.
+- **The Wheel-Keepers.** [[being-damut|Damut]] of the lesser priests, driven by a binding that gives each body one task. They turn the wheels. They do not leave their niches, and they do not respond to the living unless the rhythm breaks. A wheel stopped by force sends the nearest Keeper out of its niche in a lurching rush, its free hand clawing, while the other hand keeps turning.
 
 **Player choices.**
 
@@ -86,7 +86,7 @@ The place note is [[place-drwndzgrt|The Drowned Ziggurat]].
 
 **NPCs and threats.**
 
-- **Black-Oar.** A river-ferryman and tomb-robber who came in by the back channel with four crewmen and a crowbar. He is lean, scarred and practical, and he offers a plain bargain: share the sanctum's treasure or drown in the shaft together. He has a rope.
+- [Black-Oar]{.name data-type="being/npc"}. A river-ferryman and tomb-robber who came in by the back channel with four crewmen and a crowbar. He is lean, scarred and practical, and he offers a plain bargain: share the sanctum's treasure or drown in the shaft together. He has a rope.
 - **The rising water,** which fills the shaft in a short time. Anything heavy slows the climb.
 
 **Player choices.**
@@ -110,7 +110,7 @@ The place note is [[place-drwndzgrt|The Drowned Ziggurat]].
 
 **NPCs and threats.**
 
-- **The Serpent's Bride.** A [[being-tereb|tereb]], the cult's last high priestess, who persists past death by deliberate ritual. She wears her former self like a garment, and the Shadow behind her looks out of her eyes. She is courteous, patient and persuasive. She wants the wheel turned until the patron wakes, and she believes it will wake as it was, whole and sane. It will not. Her tactics are to speak first, offer a place beside her, and strike only when refused. She drives the Keepers with a gesture. She cannot leave the sanctum, because her binding is anchored to the wheel.
+- [The Serpent's Bride]{.name data-type="being/creature"}. One of the [[being-tereb|Tereb]], the cult's last high priestess, who persists past death by deliberate ritual. She wears her former self like a garment, and the Shadow behind her looks out of her eyes. She is courteous, patient and persuasive. She wants the wheel turned until the patron wakes, and she believes it will wake as it was, whole and sane. It will not. Her tactics are to speak first, offer a place beside her, and strike only when refused. She drives the Keepers with a gesture. She cannot leave the sanctum, because her binding is anchored to the wheel.
 
 **Player choices.**
 
@@ -123,7 +123,7 @@ The place note is [[place-drwndzgrt|The Drowned Ziggurat]].
 
 **Consequences.** Stopping the wheel also stops whatever the wheels were holding shut. See Scene Five.
 
-**If bypassed.** If the party flees the Ziggurat without confronting her, the wheels speed. The next season, the river-tribes find the drowned plain full of the Quiet Dead.
+**If bypassed.** If the party flees the Ziggurat without confronting her, the wheels speed. The next season, the river-tribes find the drowned plain full of the [Quiet Dead]{.name data-type="being/creature"}.
 
 ## Scene Five: What the Wheels Held
 
@@ -140,7 +140,7 @@ The place note is [[place-drwndzgrt|The Drowned Ziggurat]].
 - _Guile:_ leave a false map for any who come after.
 - _Parley:_ carry the bark-books to a river-tribe elder who may be able to read the cult's last words.
 
-**Clues and rewards.** The treasure is modest: river-gold dust, bronze tools, and the jade signet, which a river-tribe will buy or kill for. The map shows the circle of [[place-slntclrng|the Silent Clearing]]. The prayers on the last bark-book say the cult's wheels were also meant to hold the Clearing shut.
+**Clues and rewards.** The treasure is modest: river-gold dust, bronze tools, and the jade signet, which a river-tribe will buy or kill for. The map shows the circle of [[place-slntclrng|The Silent Clearing]]. The prayers on the last bark-book say the cult's wheels were also meant to hold the Clearing shut.
 
 **Consequences.** The twist: the Ziggurat's cult did not only seek to keep a patron alive. Its priests found the Clearing's wound and tried to bind it with prayer. They failed in the way the Shadow makes everything fail. Stopping the wheels frees the wound's pull.
 
@@ -151,5 +151,5 @@ The place note is [[place-drwndzgrt|The Drowned Ziggurat]].
 - **If the wheels are stopped,** the Keepers collapse, the Bride is gone, and the river-tribes reopen the drowned plain within a season. The Quiet Dead walk farther from the Clearing than they did.
 - **If the wheels still turn,** the Bride's plan goes on, and the river-water darkens another stretch downstream.
 - **If the party robs the Ziggurat and leaves,** salvage crews follow within a year, and the Bride's offer reaches another ear.
-- **If Old Coil is dead,** the river-tribes remember who killed the patron's kin.
+- **If Old Coil is dead,** the river-tribes remember it as the killing of the patron's kin.
 - **If the signet is sold in the north,** a Khelathi scholar asks where it came from.

@@ -14,11 +14,11 @@ data:
   packFolder: adventures
 ---
 
-The coastal City of Válaren lies under blockade by forces unknown. Adventurers must break the siege and uncover who benefits from the city's starvation.
+The coastal [[place-valarencity|Válaren City]] lies under blockade by forces unknown. Adventurers must break the siege and uncover who benefits from the city's starvation.
 
 ## Overview
 
-Válaren, a crucial trading port on the [[affiliation-kngdmprvnz|Provenzian]] coast, has been cut off from supply routes by a mysterious naval blockade. The city's defenders are few, supplies dwindling, and morale cracking. Local nobles blame foreign powers—some whisper of [[affiliation-vylarinmpr|Vylarian]] imperial intrigue, others suspect [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] raiders seeking plunder. The truth may be far more complex.
+Válaren, a crucial trading port on the coast of the [[place-provenzrgn|Provenzia Region]], has been cut off from supply routes by a mysterious naval blockade. The city's defenders are few, supplies dwindling, and morale cracking. Local nobles blame foreign powers—some whisper of intrigue by the [[affiliation-vylarinmpr|Vylarian Empire]], others suspect raiders from the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] seeking plunder. The truth may be far more complex.
 
 ## Stage One: Initial Investigation
 
@@ -52,7 +52,7 @@ The party must investigate the blockading ships and gather intelligence. They mi
 
 ## Stage Three: Uncovering the Conspiracy
 
-Investigation reveals that a powerful Provenzian noble—seeking to drive down grain prices or consolidate power—hired mercenaries to blockade the city. Alternatively, foreign agents have orchestrated the blockade to weaken [[place-provenzrgn|Provenzia Region]]'s economy.
+Investigation reveals that a powerful Provenzian noble—seeking to drive down grain prices or consolidate power—hired mercenaries to blockade the city. Alternatively, foreign agents have orchestrated the blockade to weaken Provenzia Region's economy.
 
 **Key Revelation:**
 

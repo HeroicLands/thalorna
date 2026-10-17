@@ -15,13 +15,13 @@ Vetrnetr, the Winter Nights, marks the turn toward winter. It is the most somber
 
 A capable household mistress earns her standing by keeping people and stores safe, and Vetrnetr is where the storehouse tests it: the tally says how many animals the hall can feed through the dark, and the blet takes the rest.
 
-The gods receive their shares by the season's custom. [[lore-solrundty|Solrún]] receives the greatest portion, because she keeps half of the honored dead. [[lore-odvardty|Odvar]] is invoked as the wanderer of the coming long dark. [[lore-nahilddty|Nahild]]'s name is spoken with caution.
+The gods receive their shares by the season's custom. [[lore-solrundty|Solrún]] receives the greatest portion, because she is held to keep half of the honored dead. [[lore-odvardty|Odvar]] is invoked as the wanderer of the coming long dark. [[lore-nahilddty|Nahild]]'s name is spoken with caution.
 
 ## The Door-Seat
 
-The hall's buvordr (steward) seats its honored old by the door and serves them first. The place nearest the way out is the place of honor. A household that cannot provision its elders must seek help from other kin and halls, and the obligation can enter [[lore-kinhalcrdt|hall credit]] and weigh on a house that leaves it unpaid.
+The hall's buvordr (steward) seats its honored old by the door and serves them first. The place nearest the way out is the place of honor. A household that cannot provision its elders must seek help from other kin and halls, and the obligation can enter [[lore-kinhalcrdt|Kin and Hall Credit]] and weigh on a house that leaves it unpaid.
 
-Tellers connect the door-seat to the [[lore-threewinters|Three Winters]], the famine remembered in the kin-fell tale: a place near the way out became a place of honor when people swore they would feed the old. The tellers differ over the oath. The custom is plain to every guest, and no one at the door waits for the argument to finish.
+Tellers connect the door-seat to [[lore-threewinters|The Three Winters]], the famine remembered in the kin-fell tale: a place near the way out became a place of honor when people swore they would feed the old. The tellers differ over the oath. The custom is plain to every guest, and no one at the door waits for the argument to finish.
 
 ## The Howe-Wake
 

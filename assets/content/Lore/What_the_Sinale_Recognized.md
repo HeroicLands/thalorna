@@ -8,11 +8,11 @@ tags: [lore, kalihara, ithari-work]
 data: {packFolder: settinglore, culture: kaliharanclt}
 ---
 
-When the [[lore-flksinale|Sinale]] first reached [[place-klhrcntnnt|Kalihara]] and sought to settle there, the Kaliharans received them with courtesy and refused them. The custodians' record keeps one thing more of that visit: the Sinale recognized something familiar in [[affiliation-tharivaan|Thári'vaan]]. No Kaliharan source says what it was, and whatever it was, it did not persuade the custodians to open their door any wider.
+When the [[lore-flksinale|Sinale Folk]] first reached [[place-klhrcntnnt|Kalihara Continent]] and sought to settle there, the [[lore-kaliharanclt|Kaliharan]] people received them with courtesy and refused them. The custodians' record keeps one thing more of that visit: the Sinale recognized something familiar in [[affiliation-tharivaan|Thári'vaan]]. No Kaliharan source says what it was, and whatever it was, it did not persuade the custodians to open their door any wider.
 
 ## What It Was
 
-What the Sinale recognized on Kalihara was [[lore-itharisul|ithasul]], the substance of the works of the [[lore-theithari|Ithari]]. The record sets the recognition in Thári'vaan, and to a Kaliharan the works and the stone they are made of are part of the Living Whole like a reef or a river, so the record and the stone do not disagree. The Sinale have never said why the stone was familiar to them.
+What the Sinale recognized on Kalihara was [[lore-itharisul|Ithasul]], the substance of the works of [[lore-theithari|The Ithari]]. The record sets the recognition in Thári'vaan, and to a Kaliharan the works and the stone they are made of are part of the Living Whole like a reef or a river, so the record and the stone do not disagree. The Sinale have never said why the stone was familiar to them.
 
 ## What the Sinale Say
 
@@ -20,7 +20,7 @@ Nothing. They have given no public account of their visit to the island, and the
 
 ## What Nobody Knows
 
-- Where the Sinale had met the stone before: at the afternoon they met the Ithari, at a work standing somewhere else on Thalorna, or somewhere no record names.
+- Where the Sinale had met the stone before: at the afternoon they met the Ithari, at a work standing somewhere else on [[place-worldthlrn|The World of Thalorna]], or somewhere no record names.
 - Whether they ever put that afternoon together with the builders of Kalihara's works, and the stone was how they did it.
 - Why they will not say.
 - Why the custodians' record kept the recognition and not what was recognized.

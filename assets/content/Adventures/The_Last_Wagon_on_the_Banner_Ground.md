@@ -22,7 +22,7 @@ A small caravan carrying cut gems and a merchant's strongbox leaves [[place-ashv
 
 The adventure runs from sunset to the next morning in five scenes, and the last adversary is the field itself. Each scene can be met with force, stealth, talk, cleverness with the ground or a sacrifice, and each states how play carries on if the party skips it, fails it or cuts it short.
 
-Read [[place-lanthusthli|Lantustali]] and [[lore-bloodfield|Blood-fields]] first. The adventure takes the field as canon gives it: a thin _shorukshetra_ of the dread kind, whose panic comes on anyone who lingers, and across which the hunters of the unreceived dead come in a form half made of the place, seen close to, able to take hold of a man and kill him. Every Vedyari on the march knows the saying: _cross where the sun can see you, and do not answer anything that calls._
+Read [[place-lanthusthli|Lantustali]] and [[lore-bloodfield|Blood-fields]] first. The adventure takes the field as canon gives it: a thin _shorukshetra_ of the dread kind, whose panic comes on anyone who lingers, and across which the hunters of the unreceived dead come in a form half made of the place, seen close to, able to take hold of a man and kill him. Every one of the [[lore-vedyariclt|Vedyari]] on the march knows the saying: _cross where the sun can see you, and do not answer anything that calls._
 
 > [!TIP]
 > Pace the night by the light. Scene One runs in the last of the sun, Scene Two at dusk, Scene Three in the first dark, Scene Four from midnight to the gray before dawn, and Scene Five at sunrise. Say where the light is at the start of every scene.
@@ -40,7 +40,7 @@ Read [[place-lanthusthli|Lantustali]] and [[lore-bloodfield|Blood-fields]] first
 
 ## What Is Really Happening
 
-The full truth of the field—the company's racket, the false line, what crosses after dark, Pallivata's caravan and the court's commission—is in [[place-lanthusthli#truth|the truth of Lantustali]]. In short: Krtiraya's company sells caravans to the field through its guide, Karasha, and a stretch of moved stones, and its riders collect the goods at dawn as the field's leavings. Sundarka, whose gems were lost in Pallivata's caravan, carries the court's commission to be caught in the same trap and come out of it alive. He asked for Karasha by name and hired the party because holding the wagons until the collectors come needs blades. He told nobody, and he does not know that the southern stones were moved. This section covers what that does at the table.
+The full truth of the field—the company's racket, the false line, what crosses after dark, [Pallivata]{.name data-type="being/npc"}'s caravan and the court's commission—is in [[place-lanthusthli#truth|the truth of Lantustali]]. In short: [Krtiraya]{.name data-type="being/npc"}'s company sells caravans to the field through its guide, [Karasha]{.name data-type="being/npc"}, and a stretch of moved stones, and its riders collect the goods at dawn as the field's leavings. [Sundarka]{.name data-type="being/npc"}, whose gems were lost in Pallivata's caravan, carries the court's commission to be caught in the same trap and come out of it alive. He asked for Karasha by name and hired the party because holding the wagons until the collectors come needs blades. He told nobody, and he does not know that the southern stones were moved. This section covers what that does at the table.
 
 > [!IMPORTANT]
 > The party must reach Scene Three believing that the company betrayed it and nobody else, and that Sundarka is a stubborn, frightened merchant guarding his gems. By the end of Scene Four it must be able to see that he brought it onto the field on purpose. Every act of his has two readings: play each one as the first.
@@ -64,8 +64,8 @@ The reveal lands in Scene Three or Scene Four, when the party wants to move, and
 
 - **At the wagons.** When the party moves for the shelter or the cleft, Sundarka refuses to leave the wagons, and says why before he can stop himself: they hold here until dawn, because the collectors come at dawn and must find him alive with the box.
 - **In his papers.** A party that searches him closely, or takes his coat from him when he is hurt, finds a second paper folded under the receipt and sealed with the court's seal at [[place-sandhyapur|Sandyapur]]: a commission to ride the stage and take whoever comes to collect.
-- **At the shelter or the cleft.** Vijesa, at his fire, asks the first of the party to reach him whether the court's man is alive.
-- **From Dulaka.** Feverish on the litter, he says that he heard Sundarka ask the captain at Ashvapada for Karasha by name, and thought it odd at the time.
+- **At the shelter or the cleft.** [Vijesa]{.name data-type="being/npc"}, at his fire, asks the first of the party to reach him whether the court's man is alive.
+- **From [Dulaka]{.name data-type="being/npc"}.** Feverish on the litter, he says that he heard Sundarka ask the captain at Ashvapada for Karasha by name, and thought it odd at the time.
 
 > [!TIP]
 > Land the reveal on one line, then stop. Let the players go back over the night themselves: the receipt he showed them, the oil, the eyes on the north track, the box he would not leave. Then let them look at Senata.
@@ -78,14 +78,14 @@ The reveal lands in Scene Three or Scene Four, when the party wants to move, and
 
 ### What the party wants afterward
 
-Once the reveal lands, the party is torn between surviving the night by the cleft and finishing a sting it never agreed to, at the false line where Senata died. Dulaka's broken leg and Senata's death sit on Sundarka's account, and the party knows it. The ways open to it are plain: leave him and the box and run for the cleft; carry him through against his will; name a price, since the court's silver is in the box; or finish the sting on its own terms. The dawn collectors are now a known target, and Scene Five's ambush is planned, not lucky.
+Once the reveal lands, the party is torn between surviving the night by the cleft and finishing a sting it never agreed to, at the false line where [Senata]{.name data-type="being/npc"} died. Dulaka's broken leg and Senata's death sit on Sundarka's account, and the party knows it. The ways open to it are plain: leave him and the box and run for the cleft; carry him through against his will; name a price, since the court's silver is in the box; or finish the sting on its own terms. The dawn collectors are now a known target, and Scene Five's ambush is planned, not lucky.
 
 > [!WARNING]
 > A party that abandons Sundarka on the field closes the court's route to the captain: the collectors find a living merchant with no blades round him, and the court never hears from him. The ledger and the receipt still make a case if the party carries them out. Let the party choose, and let the Aftermath follow from what it knew when it chose.
 
 ## Hooks
 
-**Sundarka**, a gem merchant of the river country, is taking a small caravan west to the Dunhari oases: three wagons, his drivers, two guards of his own and a strongbox chained to the bed of the lead wagon. He hires the party at Ashvapada to ride with it, because the company escort he paid for is only a guide and a promise that the company's riders patrol the stage. The guide is Karasha, a lean, cheerful man with a good horse, who knows a way round that saves half a day and brings the wagons to the chain post before sunset.
+Sundarka, a gem merchant of the river country, is taking a small caravan west to the oases of the [[lore-dunhariclt|Dunhari]]: three wagons, his drivers, two guards of his own and a strongbox chained to the bed of the lead wagon. He hires the party at Ashvapada to ride with it, because the company escort he paid for is only a guide and a promise that the company's riders patrol the stage. The guide is Karasha, a lean, cheerful man with a good horse, who knows a way round that saves half a day and brings the wagons to the chain post before sunset.
 
 > [!TIP]
 > Play Sundarka at Ashvapada as a careful man, not a nervous one. He pays the party well and promptly, he asks how they fight in the dark, and he buys oil.
@@ -94,7 +94,7 @@ Other entries suit other heroes:
 
 - **The investigator.** The court at Sandyapur has heard that a company captain drives caravans onto the field at dusk. Its witnesses are dead. It asks a character to ride the stage and see, and to ride with a gem merchant named Sundarka who leaves Ashvapada that week. The court does not say why that caravan.
 - **The debtor.** A character owes Sundarka money, and riding his escort settles the debt.
-- **The kinsman.** A character's brother rode as a driver for **Pallivata**, a cloth factor whose caravan vanished on this stage last dry season.
+- **The kinsman.** A character's brother rode as a driver for Pallivata, a cloth factor whose caravan vanished on this stage last dry season.
 
 ## The Opening
 
@@ -116,9 +116,9 @@ Read or paraphrase this as the wheel goes:
 
 - **The panic.** It comes on everyone who lingers, the party included, and it feels like one's own fear. It makes people want to run, alone, in any direction, and run now.
 - **The animals.** The oxen bolt in the first minutes unless they are blindfolded or cut loose. A team that bolts drags its wagon over in the gully.
-- **Dulaka.** The lead wagon's driver, an old hand, pinned when the wagon lurched. His leg is broken below the knee. He cannot walk and he knows it. He knows the field by reputation and the saying, and he says the saying aloud.
-- **Sundarka.** A soft-spoken, stubborn man. His strongbox is chained to the wagon bed with a lock to which only he has the key, and he will not leave it. While everyone else stares at the hills, he stands on the wagon tongue and looks north, along the track Karasha took, and he does not look away for long. His wagons carry six jars of lamp-oil.
-- **Vijesa.** A young company soldier at the chain post, too far away to be heard more than in pieces. He shouts and waves: leave the wagons, run. The wind takes most of it. Two things carry clearly: the merchant's name, and _not those stones_.
+- Dulaka. The lead wagon's driver, an old hand, pinned when the wagon lurched. His leg is broken below the knee. He cannot walk and he knows it. He knows the field by reputation and the saying, and he says the saying aloud.
+- Sundarka. A soft-spoken, stubborn man. His strongbox is chained to the wagon bed with a lock to which only he has the key, and he will not leave it. While everyone else stares at the hills, he stands on the wagon tongue and looks north, along the track Karasha took, and he does not look away for long. His wagons carry six jars of lamp-oil.
+- Vijesa. A young company soldier at the chain post, too far away to be heard more than in pieces. He shouts and waves: leave the wagons, run. The wind takes most of it. Two things carry clearly: the merchant's name, and _not those stones_.
 
 > [!TIP]
 > If a player asks how the post knows the merchant's name, Sundarka answers at once, a little sharply: the stage sends word to the posts of every caravan it takes money from. That is true of the stage, and it is not why Vijesa knows.
@@ -149,8 +149,8 @@ Read or paraphrase this as the wheel goes:
 
 - **The dead man.** Pallivata, the cloth factor who vanished last dry season. Prying the spoke from his grip is hard. His fingers do not give until they break.
 - **The panic.** It is stronger now the light is going. People start to argue in whispers and to look over their shoulders at the slopes.
-- **Dulaka.** Feverish and lucid by turns. He knows what the drivers at Ashvapada said: that nobody came out of Pallivata's caravan, and that its guide came back alone. He knows no more than that.
-- **Sundarka.** He knows the dead man's name before anyone reads it, and goes quiet. Asked, he says he knew Pallivata from the river country.
+- Dulaka. Feverish and lucid by turns. He knows what the drivers at Ashvapada said: that nobody came out of Pallivata's caravan, and that its guide came back alone. He knows no more than that.
+- Sundarka. He knows the dead man's name before anyone reads it, and goes quiet. Asked, he says he knew Pallivata from the river country.
 
 **Player choices.**
 
@@ -180,10 +180,10 @@ Read or paraphrase this as the wheel goes:
 **NPCs and threats.**
 
 - **The hunters.** The predators of the unreceived dead, crossing in a form half made of the field. They come close, they take hold and they drag a person off into the dark. They come thickest round anyone who is bleeding, and Dulaka is bleeding. Steel and fire hurt them. Neither hurts them the way it hurts a man.
-- **The field's own dead.** The running men, Marupala's beaten host, worn down to the one thing they still do: running for the road. They do not attack. They draw the eye away from what does.
+- **The field's own dead.** The running men, [Marupala]{.name data-type="affiliation/polity"}'s beaten host, worn down to the one thing they still do: running for the road. They do not attack. They draw the eye away from what does.
 - **The voices.** Out of the dark come voices the party knows: a companion's voice, a mother's, Pallivata's, the merchant's, calling a name and asking for help.
-- **Senata.** Sundarka's younger guard, steady until now. He hears his brother's voice calling from the stones, and he answers it, and he goes.
-- **Sundarka.** He will hold the wagons. When anyone proposes to move, he refuses, and if pressed he says why: they hold here until dawn, because the collectors come at dawn and must find him alive with the box.
+- Senata. Sundarka's younger guard, steady until now. He hears his brother's voice calling from the stones, and he answers it, and he goes.
+- Sundarka. He will hold the wagons. When anyone proposes to move, he refuses, and if pressed he says why: they hold here until dawn, because the collectors come at dawn and must find him alive with the box.
 
 > [!IMPORTANT]
 > This scene must establish two things: the stones round Senata's body are the loose, new ones, and Sundarka will not leave the wagons for any reason the party can give him. Whatever else happens tonight, describe both.
@@ -193,7 +193,7 @@ Read or paraphrase this as the wheel goes:
 - _Hold the wagons._ Circle them, build up the fire with the merchant's oil and fight from the wagon beds. The hunters come in and go out of the light and take what they can reach. This is what Sundarka wants.
 - _Move for the shelter._ Carry Dulaka on the moving wagon or on a litter, roped together, lamps out or lamps lit. Sundarka refuses to come; this is where he says the line about the collectors.
 - _Go after Senata._ His scream comes back across the slope and ends. A party that follows the sound finds him at the line of white stones, laid along it with his face to the road, dead. The stones that should have saved him are around his body.
-- _Burn the grass._ The dry grass takes at once in the wind off the Descent, and faster with oil. The hunters do not come through a burning line. The fire does not last, and if the wind turns it comes back at the wagons.
+- _Burn the grass._ The dry grass takes at once in the wind off [[place-wstrndscnt|The Western Descent]], and faster with oil. The hunters do not come through a burning line. The fire does not last, and if the wind turns it comes back at the wagons.
 - _Do not answer._ A party that has learned the saying, from the spoke, from Dulaka or from any Vedyari among them, can hold its tongue and keep its people from answering. Roping people together, singing, counting aloud and holding hands all help.
 
 > [!TIP]
@@ -217,16 +217,16 @@ Read or paraphrase this as the wheel goes:
 
 - **The field.** The panic is at its worst on the rise. People want to scatter, each certain that their own way out is the only one. The voices are close now, under the parapet. The hunters come up the rise in numbers.
 - **The cleft.** The real line runs through a narrow break between two rocks, wide enough for two people side by side. The hunters can get into it, and in the cleft they can hold a person bodily and pull.
-- **Dulaka.** He has to be carried. He is weakening, and the hunters know it.
-- **Sundarka**, if he came. On the roof, with the field in his head, he demands that the party hold the rise until first light and then go back down to the wagons with the box, so that the collectors find him there. He is ready to fight for it.
-- **Vijesa**, if he came, at his fire on the road side of the cleft.
+- Dulaka. He has to be carried. He is weakening, and the hunters know it.
+- Sundarka, if he came. On the roof, with the field in his head, he demands that the party hold the rise until first light and then go back down to the wagons with the box, so that the collectors find him there. He is ready to fight for it.
+- Vijesa, if he came, at his fire on the road side of the cleft.
 
 **Player choices.**
 
 - _Read the ring._ From the roof, the true line is plain to anyone who looks for the shape rather than the nearest stone. The cleft is the nearest point of it.
 - _Search the shelter._ Pallivata's satchel holds his caravan ledger: the escort fee paid to Krtiraya's company, Karasha's hire entered on the captain's word, and a consignment of cut gems carried for the house of Sundarka. On the roof beams, scratched with a knife, are the same words as the spoke.
 - _Follow the dead._ Marupala's running men cross the slope below toward the road. They pass the false line without pausing and stop at the true one, and stand there, looking at the road they cannot reach. Following them is true. It also takes the party down among them, where the hunters are.
-- _Follow the offerings._ The Khazryn leave cups, knotted cloths and bowls at the stones for their own dead. They are at the true stones and nowhere along the bite.
+- _Follow the offerings._ The people of the [[place-khzryndsrtrgn|Khazryn Desert Region]] leave cups, knotted cloths and bowls at the stones for their own dead. They are at the true stones and nowhere along the bite.
 - _Look for the soldier's fire._ If the party signaled Vijesa in Scene One or burned grass in Scene Three, a fire burns now on the road side of the cleft, where he has carried it against his captain's orders and sits by it with a horn. Other lights move on the field too. His is the one that stays still. If the party did neither, his fire is there anyway by midnight, later and smaller.
 - _Fight the retreat._ Down the rise and across the slope, with Dulaka carried, the party in a close knot, fire at the back. The hunters press hardest at the cleft, where the rocks give them hold.
 - _Burn a line._ Fire set across the slope behind the retreat holds the hunters back for as long as it burns. The wind decides how long that is.
@@ -254,8 +254,8 @@ Read or paraphrase this as the wheel goes:
 **NPCs and threats.**
 
 - **Karasha and the collectors.** They expect the dead. They are armed and in a hurry to be off the field before the panic gets into them, and they do not want a fight on it.
-- **Sundarka.** He wants them taken with the goods in their hands and himself alive beside the goods, which is the one thing that makes them robbers at law and not salvagers. If he is with the party, he says so, and his commission makes the taking lawful.
-- **Vijesa.** A witness. He saw the guide ride away, and he has seen the dead of three caravans found at the southern stones.
+- Sundarka. He wants them taken with the goods in their hands and himself alive beside the goods, which is the one thing that makes them robbers at law and not salvagers. If he is with the party, he says so, and his commission makes the taking lawful.
+- Vijesa. A witness. He saw the guide ride away, and he has seen the dead of three caravans found at the southern stones.
 
 **Player choices.**
 
@@ -278,11 +278,11 @@ Read or paraphrase this as the wheel goes:
 
 - **The captain brought to court.** The march loses a captain and a company goes unpaid for a season, and the crown's officer at Ashvapada has to answer for what he passed. The stones are reset on their old line, and the companies say nothing about it.
 - **The captain warned.** The false line is gone within the week. The guide is not seen again on the road, and another one, as cheerful, takes his place.
-- **Sundarka.** The court has its case and recovers his loss out of the captain's goods. Whether it asks how many of the caravan came out alive depends on whether the party tells it. Senata's family hears from the party, or from nobody.
+- Sundarka. The court has its case and recovers his loss out of the captain's goods. Whether it asks how many of the caravan came out alive depends on whether the party tells it. Senata's family hears from the party, or from nobody.
 - **Dulaka carried out.** He walks with a stick by the next caravan season and tells the story at every well, and in his telling the merchant asked for the guide by name. Lost, he lies on the field and is not received, and his family asks the [[affiliation-agnipantha|Agmi-pantra]] to burn the ground for him, which the orthodox temples forbid.
-- **Senata.** If his body was burned on the field, his family is told he went with a pyre. If it was left, it is found at the edge of the stones in the morning, as the march expects.
-- **Pallivata.** His family learns where he died. A character who brings his spoke home brings them the last thing he wrote.
-- **Vijesa.** His captain knows who carried a fire to the cleft. The court can take him into its service, or leave him at the post.
+- Senata. If his body was burned on the field, his family is told he went with a pyre. If it was left, it is found at the edge of the stones in the morning, as the march expects.
+- Pallivata. His family learns where he died. A character who brings his spoke home brings them the last thing he wrote.
+- Vijesa. His captain knows who carried a fire to the cleft. The court can take him into its service, or leave him at the post.
 
 ## See Also
 

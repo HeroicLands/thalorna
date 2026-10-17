@@ -8,7 +8,7 @@ tags: [nkaruthar, religion]
 data: {packFolder: settinglore}
 ---
 
-Between [[affiliation-nkaruthar|Nkaru'thar]] and the mortal world stand the **zohira**—demi-gods
+In the traditions of the [[lore-okharinclt|Okharin]], between [[lore-nkaruthardty|Nkaru'thar]] and the mortal world stand the Zohira—demi-gods
 or intermediary spirits tied to specific aspects of life such as fertility, storms, rivers, death,
 and the hunt. Their shrines are scattered across the kingdom, from the pyramidal complexes of the
 city-states to simple stone cairns in tribal territories.
@@ -20,7 +20,7 @@ spirits, interpret their will, and intercede on behalf of their people.
 
 ## Two Traditions, One People
 
-An Okharik villager keeps both [[affiliation-nkaruthar|the Eternal Flame]] and the zohira, and
+An Okharik villager keeps both the faith of [[affiliation-nkaruthar|Nkaru'thar]] and the zohira, and
 sees no tension in it. But the two are not the same kind of thing, and the difference matters more
 than the coexistence does.
 
@@ -28,7 +28,7 @@ than the coexistence does.
 received among them; an Okharik is of the spirits from birth, the way they are of their mother's
 kin. There is no membership, so there is nothing to leave.
 
-**The Flame is worshipped.** It is a deity, with doctrine to assent to, temples, an ordained
+**The Flame is worshipped.** It is a deity; its faith has doctrine to assent to, temples, an ordained
 priesthood and a hierarchy—a religion that arrived among people who already had their cairns and
 did not displace them.
 
@@ -54,19 +54,18 @@ purchase.
 They do contradict each other, and often. The two spheres make overlapping claims about the same
 events, and neither defers.
 
-- **The dead.** The Spirit Flame of Zarhanis governs the passage of the soul after death, and the
-  temple has a full doctrine of where a soul goes and what carries it. The
-  [[lore-orclbonesspr|Oracle of Bones]] is a zohira of death, and Bone-Readers read what it has
+- **The dead.** In temple teaching, the Spirit Flame of [[place-zarhanis|Zarhanis]] governs the passage of the soul after death, and the
+  temple has a full doctrine of where a soul goes and what carries it. [[lore-orclbonesspr|The Oracle of Bones]] is a zohira of death, and Bone-Readers read what it has
   written in the body. A widow may have both rites performed over the same husband, a week apart,
   by people who would give incompatible accounts of where he now is.
-- **The harvest.** The Golden Flame governs harvest and abundance; [[lore-pemburspr|Pemburari Khutheling]]
+- **The harvest.** In temple teaching, the Golden Flame governs harvest and abundance; [[lore-pemburspr|Pemburari Khutheling]]
   is the zohira of fertility. Both are thanked for the same grain, in the same season, by the same
   household.
-- **The blade.** The Wild Flame governs strength and the battlefield, and its warrior-priests are
-  the kingdom's soldiers. [[lore-shengelspr|Zohu Shéngeling]] is seated in the Magara Spirit Blades,
+- **The blade.** In temple teaching, the Wild Flame governs strength and the battlefield, and its warrior-priests are
+  the kingdom's soldiers. [[lore-shengelspr|Zohu Shéngeling]] is seated in the [Magara Spirit Blades]{.name data-type="weapongear"},
   which choose their own bearers. Where the temple would appoint, the blade decides, and the temple
   has never found a way to say the blade is wrong.
-- **Rank.** A High Pyremant outranks every priest in Okharis and does not outrank a shaman, because
+- **Rank.** A High Pyremant outranks every priest in the [[place-okharisrgn|Okharis Region]] and does not outrank a shaman, because
   they are not on the same ladder at all—which means there is no procedure for what happens when
   the two disagree in a frontier village, and there never has been.
 
@@ -75,13 +74,13 @@ made with some force by Au'Khelathu priests, by Vylarian factors, and by every f
 has written the Okharics up. It does not concern the people it is addressed to in the slightest.
 
 The widow does not think she has a problem. She had the temple rite and she had the Bone-Reader,
-her husband is where the Flame takes him and also what the bones say of him, and the visitor
+she holds that her husband is where the Flame takes him and also what the bones say of him, and the visitor
 pressing her on the point is being obscurely rude. Ask a shaman and he will agree cheerfully that
 the accounts do not match and see no consequence in it. Ask a Talithari Nkaring and she will say the
 zohira are the Flame's own emissaries and that what a Bone-Reader does is therefore not a rival
 rite, which does not actually answer the contradiction and is not offered as though it did.
 
-The contradictions are not felt as a problem awaiting a theologian. They are how the world is
+The contradictions are not felt as a problem awaiting a theologian. They are how Okharics understand the world to be
 arranged. Foreign scholars have repeatedly mistaken this for an unfinished synthesis and predicted
 that one sphere will absorb the other; neither shows the least sign of it, because neither is
 under any pressure to.
@@ -90,7 +89,7 @@ under any pressure to.
 
 Zohira differ from the spirit-guides of other peoples in one respect worth naming: they are
 addressed by **domain** first and place second. A river zohira is the spirit of rivers as such,
-met at this river; the same is not said of an Áelendan [[lore-thekindred|river-mother]], who is
+met at this river; the same is not said of a river-mother of the [[lore-aelendnppl|Áelendan People]], one of [[lore-thekindred|The Kindred]], who is
 the spirit of one stretch of one water and nothing beyond it.
 
 This is why a shaman who leaves their own country is not left helpless, as an Áelendan shaman

@@ -13,33 +13,33 @@ data:
   packFolder: setting
 ---
 
-**Vaelith** is Thalorna's only moon, 3,800 kilometers across on a circular and inclined orbit some 388,600 kilometers out. It is a large moon, nearly thirty percent of the planet's own diameter, and it hangs visibly bigger in the sky than a moon of ordinary size would. Its orbit never varies, so its distance never varies either, and the world has no notion of a moon that looms larger at some times than others.
+Vaelith is the only moon of [[place-worldthlrn|The World of Thalorna]], 3,800 kilometers across on a circular and inclined orbit some 388,600 kilometers out. It is a large moon, nearly thirty percent of the planet's own diameter, and it hangs visibly bigger in the sky than a moon of ordinary size would. Its orbit never varies, so its distance never varies either, and the world has no notion of a moon that looms larger at some times than others.
 
 ## The Cycle
 
-Vaelith turns new to new in exactly thirty days, and it was new on **720/1/1**, the same day the [[lore-commoncal|Vylarian Calendar]] opens its year and the day the setting's present begins.
+Vaelith turns new to new in exactly thirty days, and it was new on **720/1/1**, the same day [[lore-commoncal|The Vylarian Calendar]] opens its year and the day the setting's present begins.
 
 :::secret
 **For the GM:** A campaign that opens on that date begins under a new moon, on the first morning of spring.
 :::
 
-The orbit's circularity keeps the tides regular—no month runs a stronger tide than any other—though a moon this large pulls harder than a smaller one would: roughly a quarter again the strength a smaller moon would raise. The same orbit is inclined, so Vaelith does not cross the sun's path or the world's shadow at every turn, and eclipses are rare. Nobody has charted when the next one falls; the corpus is consistent that this is knowledge closely held and hard-won, never a table to consult. What is settled is the shape of one when it comes: at 388,600 kilometers a 3,800-kilometer disc is a hair wider in the sky than an ordinary sun, so a solar eclipse on Thalorna is always total. Nothing here is ever merely a ring of fire, and the priesthood of [[affiliation-tzenultqan|Ts'en'ul Tq'an]] rests its authority on predicting exactly that kind of rare and total darkness.
+The orbit's circularity keeps the tides regular—no month runs a stronger tide than any other—though a moon this large pulls harder than a smaller one would: roughly a quarter again the strength a smaller moon would raise. The same orbit is inclined, so Vaelith does not cross the sun's path or the world's shadow at every turn, and eclipses are rare. Nobody has charted when the next one falls; the corpus is consistent that this is knowledge closely held and hard-won, never a table to consult. What is settled is the shape of one when it comes: at 388,600 kilometers a 3,800-kilometer disc is a hair wider in the sky than an ordinary sun, so a solar eclipse on Thalorna is always total. Nothing here is ever merely a ring of fire, and the priesthood of the [[affiliation-tzenultqan|Faith of Ts'en'ul Tq'an]] rests its authority on predicting exactly that kind of rare and total darkness.
 
 ## The Five Days, Three Times Over
 
-Twelve lunations of thirty days come to 360 days. The solar year is 365. The five days left over are precisely the five days the [[lore-khzrnclndr|Khazryn]], the [[lore-khelathclndr|Khelathi Calendar]] and the Itsani each keep outside their twelve months—three peoples, three unrelated calendars, and one astronomical fact observed three times rather than three coincidences.
+Twelve lunations of thirty days come to 360 days. The solar year is 365. The five days left over are precisely the five days [[lore-khzrnclndr|The Tellumi Calendar]], [[lore-khelathclndr|The Khelathi Calendar]] and the [Itsani]{.name data-type="lore/culture"} each keep outside their twelve months—three peoples, three unrelated calendars, and one astronomical fact observed three times rather than three coincidences.
 
 The same five-day remainder, carried across years instead of months, gives Thalorna a six-year lunar cycle. The moon's phase on any calendar date advances five days each year and returns to where it started after six. A new moon opens year 720; three years later, at the cycle's midpoint, the first day of spring falls under a full moon; three years after that, the cycle closes on a new moon again, on the first day of spring once more. Nobody had to design this. It falls out of a thirty-day moon turning against a 365-day year.
 
 ## What Each People Calls It
 
-**Vaelith** is the Vylarian name for the moon, met first in this corpus because it is the name these pages use—not because it is more correct than any other name. Every people that watches the sky has its own word for the same body.
+Vaelith is the Vylarian name for the moon, met first in this corpus because it is the name these pages use—not because it is more correct than any other name. Every people that watches the sky has its own word for the same body.
 
-**Ts'uqal** is Itsani for moonlight, glossed beside _K'inish_ (Sunlight) and _Ish'ilan_ (Star) in the [[skill-kicheklng|Ki'ichek]] celestial lexicon. It also names a goddess, the [[affiliation-naliktzuqal|Dreamer in Moonlight]], whose faith holds dreams, visions and prophecy as well as the moon itself; and it names a count, one of four kept running at once by the [[skill-chlxplmscrpt|Chalix Tsib]] script.
+**Ts'uqal** is Itsani for moonlight, glossed beside _K'inish_ (Sunlight) and _Ish'ilan_ (Star) in the [[skill-kicheklng|Ki'ichek Language]] celestial lexicon. It also names a goddess, [[lore-naliktzuqaldty|Nal'ik Ts'uqal]], the Dreamer in Moonlight, whose faith holds dreams, visions and prophecy as well as the moon itself; and it names a count, one of four kept running at once by [[skill-chlxplmscrpt|Ch'alish P'ilam Script]].
 
-**Youwéi** is a Tantsou deity, [[affiliation-youwei|Youwéi Téngyou]], Moon Jade of the Heavenly Court, the Minister of the Moon in the celestial bureaucracy the [[lore-clndrstrlgy|Calendar and Astrology]] describes. It is also an ordinary given name for a Tantsou woman, meaning Moon Jade.
+[[lore-youweidty|Youwéi]] is a [[lore-tantsouclt|Tantsou]] deity, Youwéi Téngyou, Moon Jade of the [Heavenly Court]{.name data-type="affiliation"}, held to be the Minister of the Moon in the celestial bureaucracy the [[lore-clndrstrlgy|Calendar and Astrology]] describes. It is also an ordinary given name for a Tantsou woman, meaning Moon Jade.
 
-The **Court of the Nine Moons**, met in the dossier of [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]], names no second moon. It is a council of the nine most powerful clans of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and "the Convergence of the Nine Moons" and "the Eclipse of the Nine Moons" describe that council's fortunes, not an event in the sky. Thalorna has one moon, without qualification, and nothing else in this corpus describes a second.
+[[affiliation-genzetyalgu|Genzet'Yalgu]], the Court of the Nine Moons, met in the dossier of [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]], names no second moon. It is a council of the nine most powerful clans of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and "the Convergence of the Nine Moons" and "the Eclipse of the Nine Moons" describe that council's fortunes, not an event in the sky. Thalorna has one moon, without qualification, and nothing else in this corpus describes a second.
 
 ## See Also
 

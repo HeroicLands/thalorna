@@ -15,7 +15,7 @@ data:
 # terran_analog: "Antarctica—the frozen southernmost continent: desolate, largely unexplored, rumored to hold ancient ruins beneath the ice and tiny reclusive communities adapted to its extremes."
 ---
 
-Iseron is the southernmost continent of [[place-worldthlrn|Thalorna]]—a vast ice-bound landmass at the southern pole, desolate and almost entirely unexplored. It is the least-known of Thalorna's continents by a wide margin. What is reported of Iseron is reported by a vanishingly small number of returned expeditions, and much of what the rest of the world believes about the place is informed as much by legend as by documented observation. It is rumored to hold ancient ruins beneath the ice, small reclusive communities adapted to its extremes, and knowledge that predates every other civilization on Thalorna.
+The Iseron Continent is the southernmost continent of [[place-worldthlrn|The World of Thalorna]]—a vast ice-bound landmass at the southern pole, desolate and almost entirely unexplored. It is the least-known of Thalorna's continents by a wide margin. What is reported of Iseron is reported by a vanishingly small number of returned expeditions, and much of what the rest of the world believes about the place is informed as much by legend as by documented observation. It is rumored to hold ancient ruins beneath the ice, small reclusive communities adapted to its extremes, and knowledge that predates every other civilization on Thalorna.
 
 ## Geography
 
@@ -54,7 +54,7 @@ One thread of commentary comes from [[affiliation-kalihara|Kalihara]], and from 
 
 ## Relations with the Wider World
 
-For practical purposes, Iseron stands outside the trade and diplomatic networks of the rest of Thalorna. The occasional expedition reaches it; the occasional Iseronian artifact reaches the cabinets of Ankarian collectors; nothing resembling regular commerce has ever been established. The Elder Races are effectively absent. The Vylarian Empire at its height did not attempt Iseronian voyages. Even the most ambitious Ankarian maritime traditions treat the southern continent as a destination for obsession rather than for business.
+For practical purposes, Iseron stands outside the trade and diplomatic networks of the rest of Thalorna. The occasional expedition reaches it; the occasional Iseronian artifact reaches the cabinets of Ankarian collectors; nothing resembling regular commerce has ever been established. The Elder Races are effectively absent. The [[affiliation-vylarinmpr|Vylarian Empire]] at its height did not attempt Iseronian voyages. Even the most ambitious Ankarian maritime traditions treat the southern continent as a destination for obsession rather than for business.
 
 What draws the occasional expedition south is not trade but the ruins—and the conviction, never quite proven and never quite dispelled, that Iseron holds something the rest of Thalorna has forgotten.
 

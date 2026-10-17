@@ -16,17 +16,17 @@ data:
   packFolder: adventures
 ---
 
-A relay house on a road older than any realm lights its lamps every dusk, takes in every traveler and lets none go. The keeper is a dead road-reeve whose oath was caught by the Shadow, and he serves supper to the living with perfect courtesy. The party goes in to find what lies in the strong-room, and must find a way to leave.
+A relay house on a road older than any realm lights its lamps every dusk, takes in every traveler and lets none go. The keeper is a dead road-reeve whose oath was caught by [[lore-theshadow|The Shadow]], and he serves supper to the living with perfect courtesy. The party goes in to find what lies in the strong-room, and must find a way to leave.
 
 ## Overview
 
-[[place-wenlornestage|Wenlorne Stage]] stands halfway along a whole stretch of Crown Road between the [[place-wyndmarch|Wyndmarch]] and the [[place-hallowwood|Hallowwood]]. Its keeper, the **Reeve**, is the dead officer of the elder kingdom, held to his post by an oath the [[lore-theshadow|Shadow]] reads as a command to keep every guest under his roof until the road is safe. He lights the road to the gate, feeds those who come, writes their names on a board and does not open the gate again. His **porters** are the dead of the last night of the Great War, and they serve him because they believe he is protecting them.
+[[place-wenlornestage|Wenlorne Stage]] stands halfway along a whole stretch of [Crown Road]{.name data-type="place/feature"} between [[place-wyndmarch|The Wyndmarch]] and [[place-hallowwood|The Hallowwood]]. Its keeper, the **Reeve**, is the dead officer of the elder kingdom, held to his post by an oath the Shadow reads as a command to keep every guest under his roof until the road is safe. He lights the road to the gate, feeds those who come, writes their names on a board and does not open the gate again. His **porters** are the dead of the last night of the [Great War]{.name data-type="lore/history"}, and they serve him because they believe he is protecting them.
 
 ## Hooks
 
-- **The thief.** A Kaerwynd quartermaster who has lost his nerve offers a purse for the crown strongbox the old reeves kept. He has a copy of the stage's plan from a surveyor's book and says it is under the tower.
+- **The thief.** A [[place-caerwynd|Kaerwynd]] quartermaster who has lost his nerve offers a purse for the crown strongbox the old reeves kept. He has a copy of the stage's plan from a surveyor's book and says it is under the tower.
 - **The mercenary or common soldier.** The commander at Kaerwynd needs men to find the ninth patrol, which took the old road in the autumn and did not return. He cannot spare his own.
-- **The leader.** A Vardain elder from the valleys below the Ironfells wants the stage's ledger. The Khazari say it carries a list of the Vardain who passed the gate in the last year of the war, and the elder's family is on it.
+- **The leader.** An elder of [[lore-vardain|The Vardain]] from the valleys below [[place-ironfells|The Ironfells]] wants the stage's ledger. The [[lore-khazariclt|Khazari]] say it carries a list of the Vardain who passed the gate in the last year of the war, and the elder's family is on it.
 - **The lone wanderer.** The wanderer is caught on the old road at dusk, with the forest dark on either side and a line of pale lamps showing the way.
 
 ## Scene One: The Lit Mile
@@ -43,7 +43,7 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 **Consequences.** The porters remember every name. A party that gives true names is addressed by them for the rest of the night, and a false name is written on the board all the same.
 
-**If bypassed.** A party that skirts the stage on the forest side meets the Grukar who hunt the road at night. The lamps remain in sight behind them wherever they go, and the road to the south is the only way out of the trees.
+**If bypassed.** A party that skirts the stage on the forest side meets the [[lore-grukarfolk|Grukar Folk]] who hunt the road at night. The lamps remain in sight behind them wherever they go, and the road to the south is the only way out of the trees.
 
 ## Scene Two: Supper in the Common Room
 
@@ -55,7 +55,7 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 **Player choices.** Force: attack the Reeve in his chair. Stealth: take no food, take notes and slip away. Guile: tell the Reeve the war is over and the road is safe, in terms he will believe. Parley: ask what the Reeve needs to be released from his office.
 
-**Clues and rewards.** The Reeve will say what he owes the crown. The oath can be undone by a proper officer of the crown, by the king's writ or by a reeve of equal rank. No such person exists. The ledger records the names of the last night's guests in a clerk's hand: Khazari, Vardain and small Pelwar parties, with the sum paid. The rooms the Reeve will not enter are the north-west tower and the strong-room under it.
+**Clues and rewards.** The Reeve will say what he owes the crown. The oath can be undone by a proper officer of the crown, by the king's writ or by a reeve of equal rank. No such person exists. The ledger records the names of the last night's guests in a clerk's hand: Khazari, Vardain and small parties of the [[lore-pelwarpepl|Pelwar People]], with the sum paid. The rooms the Reeve will not enter are the north-west tower and the strong-room under it.
 
 **Consequences.** A party that eats is held by the oath. A party that tells the Reeve the war is over wins his attention and his doubt, which is dangerous in its own way.
 
@@ -103,9 +103,9 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 **Player choices.** Force: break the box and carry the silver. Stealth: copy the ledgers and leave the silver. Guile: take the stage's seal ring, which every Crown Road gate will recognize. Parley: bring the ledgers to the Vardain and the Khazari.
 
-**Clues and rewards.** The box holds a modest sum in silver bars stamped with the crown mark, worth a few dozen Ardin in all, and a roll of writs that once authorized a rider to take horses from any stage. The last ledger records the final entries of the war: the reeve of Wenlorne wrote, on the last night, that a Sinale envoy had come down the road from the Hallowwood to ask for the king's body and been turned away at the gate because the reeve would not open to anyone. The road that stops at the Hallowwood's edge was a road someone expected to be opened.
+**Clues and rewards.** The box holds a modest sum in silver bars stamped with the crown mark, worth a few dozen Ardin in all, and a roll of writs that once authorized a rider to take horses from any stage. The last ledger records the final entries of the war: the reeve of Wenlorne wrote, on the last night, that an envoy of the [[lore-flksinale|Sinale Folk]] had come down the road from the Hallowwood to ask for the king's body and been turned away at the gate because the reeve would not open to anyone. The road that stops at the Hallowwood's edge was a road someone expected to be opened.
 
-**Consequences.** The ledger is wanted by the Vardain, who want their dead named, and by the Khazari of Vorgald, who want the list of who passed the gate. The envoy's entry is not wanted by anyone, and the Sinale, if they learn it was written down, will want it least.
+**Consequences.** The ledger is wanted by the Vardain, who want their dead named, and by the Khazari of [[place-vorgald|Vorgald]], who want the list of who passed the gate. The envoy's entry is not wanted by anyone, and the Sinale, if they learn it was written down, will want it least.
 
 **If bypassed.** A party that leaves the strong-room unopened hears of the silver from a Wyndmarch drover within the year.
 

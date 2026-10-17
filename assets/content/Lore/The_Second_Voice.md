@@ -8,16 +8,16 @@ data: {templatePriority: null, packFolder: settinglore}
 sohl: {system: {weightBase: 2, valueBase: 0, durabilityBase: 20}}
 ---
 
-The **Second Voice** is the most dangerous object known to have existed on Thalorna. It has been missing
+The Second Voice is the most dangerous object known to have existed on [[place-worldthlrn|The World of Thalorna]]. It has been missing
 for a very long time, and the two peoples who know what it is have spent that time not discussing it.
 
-The [[lore-flkkhazar|Khazari]] call it **Zughán**. The [[lore-flksinale|Sinale]] do not name it aloud.
+The [[lore-flkkhazar|Khazár Folk]] call it Zughán. The [[lore-flksinale|Sinale Folk]] do not name it aloud.
 
 ## Where It Came From
 
 Unknown, and the silence on the point is total.
 
-The [[lore-flksinale|Sinale]] knew of it before Khazartúrn—that much is established, because their
+The Sinale knew of it before [[lore-khazarturn|The Fall of Khazartúrn]]—that much is established, because their
 failure to mention it is half the Khazari case against them. They have never said who made it, how it
 was found, how long they had known, or what they understood it to be. They have equally never given the
 renegade's name, said what became of him, or offered any account of what drove him.
@@ -27,7 +27,7 @@ demonstrably achieved.
 
 ## What It Does
 
-A [[lore-grukarfolk|Grukar]] tribe is held together by its Ahk. The spawner's chemical suppression keeps
+A tribe of the [[lore-grukarfolk|Grukar Folk]] is held together by its [[being-grkrahk|Grukar-ahk]]. The spawner's chemical suppression keeps
 rival proto-Ahks barren, and its authority over its own spawn is not obedience but something closer to
 physiology. This is also the single constraint that keeps the Grukar a nuisance rather than a
 catastrophe: **Ahks do not cooperate.** They cannot. Two tribes cannot combine, and so the Grukar have
@@ -46,7 +46,7 @@ afterward.
 ## Khazartúrn
 
 In **2427 BF** the Second Voice was taken up by a **Sinale outlaw**, and used to destroy
-[[lore-khazarturn|Khazartúrn]]—the greatest city the Khazari ever built, and at that date the greatest
+Khazartúrn—the greatest city the Khazari ever built, and at that date the greatest
 work of any people on Thalorna.
 
 It was not a war and not a siege. It was a single act of genocide against a city of thirty thousand,

@@ -18,14 +18,14 @@ data:
 
 ## The Hush at the Heart of the Wood
 
-In the deep forest there is a circle where nothing grows and no bird calls, and the forest's dead come out of it at dusk. The party must cross the [[place-slntclrng|Silent Clearing]], reach its heart, and face what sits there. The wound cannot be closed. It can only be held, and the cost of holding it is paid by someone.
+In the deep forest there is a circle where nothing grows and no bird calls, and the forest's dead come out of it at dusk. The party must cross [[place-slntclrng|The Silent Clearing]], reach its heart, and face what sits there. The wound cannot be closed. It can only be held, and the cost of holding it is paid by someone.
 
 ### Hook
 
 Offer the entry that suits the hero.
 
 - **The thief.** A dead hunter's tally-cord, sold in a river-port, lists a cache of ivory and trade-iron left at the rim of a place where the birds stopped. The hunter did not come back for it.
-- **The mercenary or soldier.** A river-tribe's war-leader has lost three villages to the Quiet Dead and hires spears to go to the source. The pay is in dyes, hardwood and a promise of tribute.
+- **The mercenary or soldier.** A river-tribe's war-leader has lost three villages to the [Quiet Dead]{.name data-type="being/creature"} and hires spears to go to the source. The pay is in dyes, hardwood and a promise of tribute.
 - **The leader.** The chieftain's own scouts came back silent: they could speak but not hear, and they cannot say what they saw. The chieftain must decide whether to take the party's counsel or the shamans'.
 - **The lone wanderer.** The wanderer has walked a ten-day trail toward a silence no map shows. Behind them a forest tribe has been moved on by something at night.
 
@@ -39,14 +39,14 @@ The place note is [[place-slntclrng|The Silent Clearing]].
 
 **NPCs and threats.**
 
-- **The Ash-Warden.** A gaunt, soot-streaked forest shaman who keeps the rim. He burns the Quiet Dead when they rise and renews the ash-paths each season. He is half mad from long silence, fiercely protective, and suspicious of anyone who wishes to go in. He speaks little and hits first.
+- [The Ash-Warden]{.name data-type="being/npc"}. A gaunt, soot-streaked forest shaman who keeps the rim. He burns the Quiet Dead when they rise and renews the ash-paths each season. He is half mad from long silence, fiercely protective, and suspicious of anyone who wishes to go in. He speaks little and hits first.
 - **Bone-grey carrion-lizards,** which feed on the leavings of the dead at the rim.
 
 **Player choices.**
 
 - _Force:_ fight the Ash-Warden. He is tough, knows the ground and burns what he fights.
 - _Stealth:_ circle the rim and cross at a gap in the bells.
-- _Guile:_ claim to be the Leopard King's men. The Warden knows the Court's hunters and may know the lie.
+- _Guile:_ claim to be the [Leopard King]{.name data-type="being/npc"}'s men. The Warden knows the hunters of [[place-lpdkngcrt|The Leopard King's Court]] and may know the lie.
 - _Parley:_ the Warden answers gesture. He has lived for years among those who do not speak, and he shows the safe paths to a party that signs honestly.
 
 **Clues and rewards.** The ash-paths run in spiral lines, each one marked at its end with a skull. The Warden's tally-cord records the dead he has burned: more than a person can count.
@@ -87,7 +87,7 @@ The place note is [[place-slntclrng|The Silent Clearing]].
 
 **NPCs and threats.**
 
-- **The Quiet Dead.** [[being-damut|Damutu]] of every kind of person the forest has lost: hunters, children, a Khelathi factor in a rotted coat. They are slow in the open and fast in the dark. They fight in silence, grasping and dragging, and their bites and scratches leave a cold in the wound. They hunt by sight and are drawn to light, though they cannot be turned by it.
+- The Quiet Dead. [[being-damut|Damut]] of every kind of person the forest has lost: hunters, children, a factor of the [[lore-khelathiclt|Khelathi]] in a rotted coat. They are slow in the open and fast in the dark. They fight in silence, grasping and dragging, and their bites and scratches leave a cold in the wound. They hunt by sight and are drawn to light, though they cannot be turned by it.
 - **Any party member who died** in earlier scenes. They rise among the others.
 
 **Player choices.**
@@ -111,7 +111,7 @@ The place note is [[place-slntclrng|The Silent Clearing]].
 
 **NPCs and threats.**
 
-- **The Listener.** A [[being-tereb|tereb]] who sat down at the wound long ago and listened to the void until he became more of it than of himself. He was a priest or a sorcerer; no living person knows. He speaks without sound, in the party's own voices. He offers bargains: a lost child returned, a dead partner's name, knowledge of the Shadow. His tactics are temptation first and a surge of the dead second. He cannot leave the wound's edge. He is not the wound, only its keeper, and killing him does not close it.
+- [The Listener]{.name data-type="being/creature"}. One of the [[being-tereb|Tereb]] who sat down at the wound long ago and listened to the void until he became more of it than of himself. He was a priest or a sorcerer; no living person knows. He speaks without sound, in the party's own voices. He offers bargains: a lost child returned, a dead partner's name, knowledge of [[lore-theshadow|The Shadow]]. His tactics are temptation first and a surge of the dead second. He cannot leave the wound's edge. He is not the wound, only its keeper, and killing him does not close it.
 
 **Player choices.**
 
