@@ -14,8 +14,7 @@ sohl:
     charges: {value: null, max: null}
 ---
 
-The deepest layer of tomb defense, worked jointly with Gar-Qelt'nu, which makes the body and Gar-
-Zulaten, which sets the waking. The bound thing is a [[being-damut|damutu]]: it is not intelligent and does not judge, but performs
+Zaglu's Waking is the deepest layer of tomb defense, worked jointly with [[affiliation-garqeltnu|Gar-Qelt'nu]], which makes the body and [[affiliation-garithnetau|Gar-Ithnetáu]] (Gar-Zulaten), which sets the waking. The bound thing is a [[being-damut|damutu]]: it is not intelligent and does not judge, but performs
 the condition as written, and the House's catalog of disasters is drawn almost entirely from
 conditions that were written loosely. A zaglu set to strike whoever breaks the seal will strike
 the priest sent to repair it.

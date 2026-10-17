@@ -14,7 +14,7 @@ sohl:
     charges: {value: null, max: null}
 ---
 
-Not a map and not a route—a direction, held steady through sandstorm, night and featureless
+The Wanderer's Star is not a map and not a route—a direction, held steady through sandstorm, night and featureless
 waste. Caravan-masters carry one inscribed for each station on their circuit. Its famous
 limitation is that it points at where the named place is, not at how to get there, and the desert
 between is full of things that a straight line runs into.

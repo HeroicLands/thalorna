@@ -14,7 +14,7 @@ sohl:
     charges: {value: null, max: null}
 ---
 
-The formal cleansing worked on those who have killed, on practitioners returning from a term at
-Gar-Zelgút, and on anyone believed to have been exposed to a working of Chaos. It is unpleasant, it
+Purifying Heat is the formal cleansing worked on those who have killed, on practitioners returning from a term at
+[[affiliation-garzelgut|Gar-Zelgút]], and on anyone believed to have been exposed to a working of [[lore-zelgut|Zelgút]] (Chaos). It is unpleasant, it
 takes hours, and it is entirely sincere: the House does not regard it as ceremonial, and a
 Purifier who judges the cleansing incomplete will say so and repeat it.

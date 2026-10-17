@@ -14,9 +14,9 @@ sohl:
     charges: {value: null, max: null}
 ---
 
-The tradition's most famous working and the one it is least willing to perform. Both halves must
+The Returned Breath is the tradition's most famous working and the one it is least willing to perform. Both halves must
 be intact and the interval must be short, and even then the House's position is that what returns
 is the same person only if the working was exact—a claim it states in that form deliberately. A
 form that is wrong does not fail. It returns something, and the something is what was actually
-written. Gar-Ithnetáu requires three lectors to agree the wording before it is spoken, and refuses far
+written. [[affiliation-garithnetau|Gar-Ithnetáu]] requires three lectors to agree the wording before it is spoken, and refuses far
 more often than it consents.

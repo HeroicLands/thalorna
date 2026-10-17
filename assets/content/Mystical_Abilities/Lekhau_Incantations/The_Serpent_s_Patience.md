@@ -14,7 +14,7 @@ sohl:
     charges: {value: null, max: null}
 ---
 
-The House's characteristic form and its worst problem. The working does nothing at all until the
+The Serpent's Patience is the House's characteristic form and its worst problem. The working does nothing at all until the
 condition it names occurs, and it does not decay while it waits; there are inscriptions six
 centuries old that are still, technically, in progress. Detecting one requires reading the whole
 form and understanding what it is waiting for, which is why the Wardens of the Treatises are the

@@ -14,7 +14,7 @@ sohl:
     charges: {value: null, max: null}
 ---
 
-Worked once a year at most, by consent of the selat's Halzi'a and its temples, and after a formal
+Abundance of the Black Land is worked once a year at most, by consent of the selat's Halzi'a and its temples, and after a formal
 accounting of what the district owes. The House's insistence on the accounting is not piety: a
 season of abundance changes the tax assessment, and a district blessed without the record is a
 district that will be assessed as though it had not been.

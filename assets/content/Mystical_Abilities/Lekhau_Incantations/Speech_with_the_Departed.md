@@ -14,7 +14,7 @@ sohl:
     charges: {value: null, max: null}
 ---
 
-The requirement is the doctrine in miniature: a person is their Name and their Form, so a soul
+For Speech with the Departed, the requirement is the doctrine in miniature: a person is their Name and their Form, so a soul
 whose body was destroyed or whose name was struck cannot be reached at all. What can be reached is
 often less useful than families hope—the dead are held to answer truthfully and to have no
 particular interest in doing so at length.

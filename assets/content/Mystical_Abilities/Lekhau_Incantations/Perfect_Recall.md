@@ -14,7 +14,7 @@ sohl:
     charges: {value: null, max: null}
 ---
 
-The scribal foundation, taught to every Wazu of the House in their first season and to a good many
+Perfect Recall is the scribal foundation, taught to every Wazu of the House in their first season and to a good many
 temple scribes who never go further. It fixes the record and not the understanding—a lekhau can
 recover a page of a treatise word for word without having any idea what it means, and the House
 considers pointing this out to be a required part of the lesson.

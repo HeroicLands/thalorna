@@ -14,7 +14,7 @@ sohl:
     charges: {value: null, max: null}
 ---
 
-The standard protection on restricted material, including the treatises at Gar-Zelgút and the
-closed shelf of Gar-Reth'zethu itself. Its weakness is structural and known: the naming is part of the
+The Silent Page is the standard protection on restricted material, including the treatises at [[affiliation-garzelgut|Gar-Zelgút]] and the
+closed shelf of [[affiliation-garrethzethu|Gar-Reth'zethu]] itself. Its weakness is structural and known: the naming is part of the
 working, so a page that can be read by a named person can be read by anyone who obtains the name,
 which is precisely the commodity this House exists to guard.

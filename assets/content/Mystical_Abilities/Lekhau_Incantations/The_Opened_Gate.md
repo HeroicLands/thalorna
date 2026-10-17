@@ -14,7 +14,7 @@ sohl:
     charges: {value: null, max: null}
 ---
 
-A working of passage rather than of travel: it does not carry the practitioner anywhere, it makes
+The Opened Gate is a working of passage rather than of travel: it does not carry the practitioner anywhere, it makes
 a boundary passable in both directions for as long as it is held. Holding it is the entire
 discipline, and the House's instruction consists mostly of closing gates under conditions that
 make closing them difficult. Every apprentice is told the same thing, which is that the interval

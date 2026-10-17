@@ -14,7 +14,7 @@ sohl:
     charges: {value: null, max: null}
 ---
 
-The commonest working in the empire by a wide margin, taught in reduced form to anyone who asks
+Offering at the Threshold is the commonest working in the empire by a wide margin, taught in reduced form to anyone who asks
 and performed daily at every offering-chapel and household shrine. The endowed cult-priest who
 lays bread and beer at a tomb is doing this, and the reason a lapsed endowment matters so much is
 that the offerings continue to be left and stop being received.
