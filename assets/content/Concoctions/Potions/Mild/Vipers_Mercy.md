@@ -19,7 +19,7 @@ sohl:
 #   name: "Potion, Antivenin, Mild"
 ---
 
-A murky greenish-brown draft that settles into grainy layers when left to stand, the mild antivenin smells faintly of burned herbs and river stones. On the tongue, it tastes acrid and metallic, with a lingering numbing sensation that spreads across the gums. Herbalists prize this preparation for its steadying effect on the venom-stricken, though its benefit takes patience to manifest.
+A murky greenish-brown draft that settles into grainy layers when left to stand, Viper's Mercy, the mild antivenin, smells faintly of burned herbs and river stones. On the tongue, it tastes acrid and metallic, with a lingering numbing sensation that spreads across the gums. Herbalists prize this preparation for its steadying effect on the venom-stricken, though its benefit takes patience to manifest.
 
 When swallowed following a venomous bite or sting, the potion's ingredients begin their slow work within ten minutes. The victim's pulse gradually normalizes as the preparation aids the body's Course Rolls against the poison's progression. The antidote grants a bonus equal to its Success Value, helping the wounded resist the venom's darkening path through blood and flesh. Those who have felt the numbing spread of venom report that the potion's arrival feels less like a sudden cure and more like a merciful slowdown—the creeping paralysis and organ failure stabilize long enough for the victim's own fortitude to reassert itself, buying time for herbalist or physician to intervene further.
 

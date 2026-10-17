@@ -19,7 +19,7 @@ sohl:
 #   name: "Potion, Stimulant, Mild"
 ---
 
-A bright, energetic liquid—usually clear with a faint amber or reddish tint, sometimes with visible suspension of herbs and seeds. The smell is sharp and invigorating: citrus, pepper, and stimulating botanicals like elfroot or wakefast leaf. When tasted, it is bright and almost metallic, causing an immediate tingling in the mouth and throat. The first sip induces a prickling sensation that spreads across the body. Merchants and scouts swear by this draft for long journeys and the grind of repetitive labor.
+Ember Draft is a bright, energetic liquid—usually clear with a faint amber or reddish tint, sometimes with visible suspension of herbs and seeds. The smell is sharp and invigorating: citrus, pepper, and stimulating botanicals like elfroot or wakefast leaf. When tasted, it is bright and almost metallic, causing an immediate tingling in the mouth and throat. The first sip induces a prickling sensation that spreads across the body. Merchants and scouts swear by this draft for long journeys and the grind of repetitive labor.
 
 About ten minutes after swallowing, the stimulant takes hold. The imbiber's heart quickens noticeably. Fatigue that seemed overwhelming moments before fades into irrelevance. One receives a bonus to Initiative and Awareness equal to the preparation's Success Value, and this enhancement persists for roughly one hour as the potion's effects gradually wear off. The heightened state is not without cost—once the hour passes, many experience a crash of exhaustion and irritability.
 

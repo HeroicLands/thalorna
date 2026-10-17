@@ -17,4 +17,4 @@ sohl:
 #   name: ""
 ---
 
-Extratemporality perceives an event at a remove in time rather than in distance. Where Clairvoyance reaches across space, this talent reaches across time. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thordimalon]] looks for in the children it registers.
+Extratemporality perceives an event at a remove in time rather than in distance. Where [[mysticalability-clrv|Clairvoyance]] reaches across space, this talent reaches across time. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thordimalon]] looks for in the children it registers.

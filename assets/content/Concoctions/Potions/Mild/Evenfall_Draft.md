@@ -19,7 +19,7 @@ sohl:
 #   name: "Potion, Soporific, Mild"
 ---
 
-A milky white or pale gray liquid that smells faintly of lavender, chamomile, and valerian—the scents of an herbalist's sleep remedy. The potion coats the cup or glass with a faint residue. When tasted, it is bitter but not unpleasant, with subtle floral notes that soften the flavor. Those who drink it often report a heaviness in the limbs almost immediately, and a drowsiness that becomes impossible to resist. Mothers use this potion to help fretful infants sleep through the night; physicians use it before setting bones or lancing wounds.
+Evenfall Draft is a milky white or pale gray liquid that smells faintly of lavender, chamomile, and valerian—the scents of an herbalist's sleep remedy. The potion coats the cup or glass with a faint residue. When tasted, it is bitter but not unpleasant, with subtle floral notes that soften the flavor. Those who drink it often report a heaviness in the limbs almost immediately, and a drowsiness that becomes impossible to resist. Mothers use this potion to help fretful infants sleep through the night; physicians use it before setting bones or lancing wounds.
 
 The imbiber makes an Endurance Success Value test. If they succeed, they accrue weariness fatigue equal to the preparation's SV × 2. The weariness accumulates over roughly as many minutes as equal to the END SV achieved—a narrow window during which the potion's sluggish onset is evident. The effect is gentle and predictable, allowing time for the victim (if drugged against their will) to find shelter or safety before succumbing.
 

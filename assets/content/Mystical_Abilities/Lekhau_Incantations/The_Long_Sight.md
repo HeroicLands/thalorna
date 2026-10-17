@@ -14,7 +14,7 @@ sohl:
     charges: {value: null, max: null}
 ---
 
-Distance is not the constraint; light is. The practitioner sees what the sun sees, so the working
+For The Long Sight, distance is not the constraint; light is. The practitioner sees what the sun sees, so the working
 reaches anywhere the day has reached and nowhere else, and a room with the shutters closed is as
 opaque as the far side of the world. Caravan-masters and generals pay well for it and are
 regularly frustrated by it.

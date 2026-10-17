@@ -14,6 +14,6 @@ sohl:
     charges: {value: null, max: null}
 ---
 
-Worked on smelters, glassmakers, and anyone who must go into a fire, and on the vessels themselves
+Kiln-Heart is worked on smelters, glassmakers, and anyone who must go into a fire, and on the vessels themselves
 as often as on people. It is the House's most common commercial commission and the foundation of
-its uneasy prosperity: Gar-Gezru'lutu is disliked and constantly hired.
+its uneasy prosperity: [[affiliation-gargezrulutu|Gar-Gezru'lutu]] is disliked and constantly hired.

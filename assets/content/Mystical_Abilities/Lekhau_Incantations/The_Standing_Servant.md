@@ -14,7 +14,7 @@ sohl:
     charges: {value: null, max: null}
 ---
 
-Distinct from a zaglu, which is bound and wakes alone: a standing servant does only what it is
-being told, stops when the telling stops, and cannot be left. Gar-Qelt'nu prefers it for exactly that
+The Standing Servant is distinct from a zaglu, which is bound and wakes alone: a standing servant does only what it is
+being told, stops when the telling stops, and cannot be left. [[affiliation-garqeltnu|Gar-Qelt'nu]] prefers it for exactly that
 reason, and points out that no standing servant has ever killed the priest sent to repair the
 chamber it was in.

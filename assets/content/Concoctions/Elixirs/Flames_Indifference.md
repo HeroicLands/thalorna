@@ -19,7 +19,7 @@ sohl:
 #   name: Fireshield
 ---
 
-A rippling scarlet liquid that seems to contain dancing flames in miniature, smelling of sulfur and hot iron. Bound to the Principle of Fire (Pirethos), this elixir offers the imbiber protection against the ravages of heat and flame. When drunk, the drinker receives a bonus to their Armor Value against Fire impact in all body locations—a bonus equal to half the Aural Shock multiplied by five. This protection extends to area-effect fire damage, where the increase applies as a reduction to the Armor Value used in Heat Hazard Rolls, potentially negating damage entirely if the bonus is large enough.
+Flame's Indifference is a rippling scarlet liquid that seems to contain dancing flames in miniature, smelling of sulfur and hot iron. Bound to the Principle of Fire ([[affiliation-pyrethos|Pirethos]]), this elixir offers the imbiber protection against the ravages of heat and flame. When drunk, the drinker receives a bonus to their Armor Value against Fire impact in all body locations—a bonus equal to half the Aural Shock multiplied by five. This protection extends to area-effect fire damage, where the increase applies as a reduction to the Armor Value used in Heat Hazard Rolls, potentially negating damage entirely if the bonus is large enough.
 
 Beyond passive defense, the elixir grants a bonus equal to half Aural Shock multiplied by five to Heat Exposure Advance tests, representing the body's growing tolerance to infernal temperatures. Yet the price is weariness fatigue equal to base Aural Shock multiplied by five—the imbiber becomes lethargic and heat-worn as the elixir protects them, a creeping exhaustion that mirrors the flames they resist.
 
