@@ -214,7 +214,7 @@ The kennel yard erupts into noise as the huntsman opens the gate, a dozen lean r
 
 # Dossier {#dossier}
 
-The Hunting Dog is the tracking and holding hound of the hunting companies, twenty-four to twenty-eight inches at the shoulder and forty-five to seventy pounds, bred over generations to follow a scent, pursue and bring down quarry. Packs are kept by the hunting companies of [[place-vrystwald|Vristwald]], the river-prince courts and estates of [[place-velanthrgn|Velanthia]], the hunt-lords of [[place-byzariargn|Bizaria]] and the noble houses of [[place-aureldirgn|Aureldia]]. They are far more intelligent than wild dogs.
+The Hunting Dog is the tracking and holding hound of the hunting companies, twenty-four to twenty-eight inches at the shoulder and forty-five to seventy pounds, bred over generations to follow a scent, pursue and bring down quarry. Packs are kept by the hunting companies of [[place-vrystwald|Vristwald]], the river-prince courts and estates of [[place-velanthrgn|Velanthia Region]], the hunt-lords of [[place-byzariargn|Bizaria Region]] and the noble houses of [[place-aureldirgn|Aureldia Region]]. They are far more intelligent than wild dogs.
 
 ## Presentation
 
@@ -222,7 +222,7 @@ A medium-sized, powerful dog, lean and muscular, built for endurance and short b
 
 ## In the Land
 
-Hunting dogs are kept by the hunting companies of [[place-vrystwald|Vristwald]], the river-prince courts and the estates of [[place-velanthrgn|Velanthia]], the hunt-lords of [[place-byzariargn|Bizaria]] and the noble houses of [[place-aureldirgn|Aureldia]]. A pack is kept in a kennel beside the huntsman's house, fed on offal and meal, and run on the hunting days and exercised on the others. A good hound follows a scent for dozens of miles.
+Hunting dogs are kept by the hunting companies of Vristwald, the river-prince courts and the estates of Velanthia, the hunt-lords of Bizaria and the noble houses of Aureldia. A pack is kept in a kennel beside the huntsman's house, fed on offal and meal, and run on the hunting days and exercised on the others. A good hound follows a scent for dozens of miles.
 
 ## Key Behaviors
 
@@ -230,7 +230,7 @@ Hunting dogs are disciplined and focused, able to follow a scent for dozens of m
 
 ## What the Huntsmen Do
 
-A huntsman chooses his dogs by nose, voice and temper and trains them from a puppy to follow a scent, hold a quarry and stand off from it until the spears come up. The Varokh use dogs to hold boar in the winter hunts. The lords of the Southern March ride after boar and gazelle with their hounds, and the kennel is a point of pride for a house. A man's pack is passed to his heir with the horses. Hounds are named, and a great hound is mourned when it dies.
+A huntsman chooses his dogs by nose, voice and temper and trains them from a puppy to follow a scent, hold a quarry and stand off from it until the spears come up. The Varokh use dogs to hold boar in the winter hunts. The lords of the [[place-southrnmrch|Southern March]] ride after boar and gazelle with their hounds, and the kennel is a point of pride for a house. A man's pack is passed to his heir with the horses. Hounds are named, and a great hound is mourned when it dies.
 
 ## Signs
 

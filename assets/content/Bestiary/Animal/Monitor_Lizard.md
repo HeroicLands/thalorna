@@ -236,7 +236,7 @@ A slab of the sun-heated rock moves. It is a lizard, yellow-brown and gray, with
 
 # Dossier {#dossier}
 
-The Monitor Lizard is the five- to seven-foot lizard of the dry margins, fifteen to thirty-five pounds, found at the desert edge of [[place-aukhelathrgq|Au'Khelathu]], in the river margins and hot forest of [[place-vedyarargn|Vedyara]] and in the scrub of the [[place-dunhardsrtrgn|Dunhara Desert]] near the wells. It hunts on the ground, climbs after birds' eggs and dives after fish, and eats carrion.
+The Monitor Lizard is the five- to seven-foot lizard of the dry margins, fifteen to thirty-five pounds, found at the desert edge of [[place-aukhelathrgq|Au'Khelathu Region]], in the river margins and hot forest of [[place-vedyarargn|Vedyara Region]] and in the scrub of the [[place-dunhardsrtrgn|Dunhara Desert Region]] near the wells. It hunts on the ground, climbs after birds' eggs and dives after fish, and eats carrion.
 
 ## Presentation
 
@@ -244,7 +244,7 @@ A large, agile lizard with rough, knobbed scales in yellow, brown and gray with 
 
 ## In the Land
 
-Monitor lizards live on the dry scrub and rocky ground at the edge of the desert in [[place-aukhelathrgq|Au'Khelathu]], in the river margins and hot forest of [[place-vedyarargn|Vedyara]] and in the scrub of the [[place-dunhardsrtrgn|Dunhara Desert]] near the wells. A lizard keeps a burrow under a rock or in a bank and ranges a few miles. It climbs into trees after eggs, swims after fish and runs down rats, and several will meet at a carcass.
+Monitor lizards live on the dry scrub and rocky ground at the edge of the desert in Au'Khelathu, in the river margins and hot forest of Vedyara and in the scrub of the Dunhara Desert near the wells. A lizard keeps a burrow under a rock or in a bank and ranges a few miles. It climbs into trees after eggs, swims after fish and runs down rats, and several will meet at a carcass.
 
 ## Key Behaviors
 

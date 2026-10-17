@@ -429,7 +429,7 @@ Fruit-skins and seeds drop through the leaves onto the forest floor in front of 
 
 # Dossier {#dossier}
 
-The Orangutan is the red forest ape of the southern forests of [[place-vedyarargn|Vedyara]], five to six feet tall with arms that span up to ten feet, living alone in the high canopy. It is gentle, thoughtful and very intelligent, and violent only when it is attacked or its young are in danger. It spends nearly its whole life in the trees and comes to the ground only to cross between patches of forest or to drink.
+The Orangutan is the red forest ape of the southern forests of [[place-vedyarargn|Vedyara Region]], five to six feet tall with arms that span up to ten feet, living alone in the high canopy. It is gentle, thoughtful and very intelligent, and violent only when it is attacked or its young are in danger. It spends nearly its whole life in the trees and comes to the ground only to cross between patches of forest or to drink.
 
 ## Presentation
 
@@ -437,7 +437,7 @@ A big ape that looks bigger because of the arms, which can span up to ten feet f
 
 ## In the Land
 
-Orangutans live high in the canopy of the great forests of southern [[place-vedyarargn|Vedyara]], where the fig, the durian and the jackfruit fruit in turn through the year. An animal keeps a large range, alone, moves from tree to tree by swinging and climbing and rarely comes to the ground. Each evening it builds a new nest of folded branches in a fork, high up, and it rests through the rains under a roof of leaves.
+Orangutans live high in the canopy of the great forests of southern Vedyara, where the fig, the durian and the jackfruit fruit in turn through the year. An animal keeps a large range, alone, moves from tree to tree by swinging and climbing and rarely comes to the ground. Each evening it builds a new nest of folded branches in a fork, high up, and it rests through the rains under a roof of leaves.
 
 ## Key Behaviors
 

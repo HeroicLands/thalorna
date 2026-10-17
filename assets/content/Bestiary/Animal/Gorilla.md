@@ -437,7 +437,7 @@ A silverback is seven to eight feet tall and several hundred pounds, nearly all 
 
 ## In the Land
 
-Gorillas live in the montane forest and the cool, wet slopes of the [[place-cntrlrnfrsts|Central Rainforests]]. A troop of eight to fifteen, led by a silverback, ranges over a few square miles of forest in a day, feeding on leaves, stems and fruit, and building a fresh nest of bent branches each night. They move to the lower forest in the dry season. They keep away from the river-bottoms, where the leopards and the tribes are.
+Gorillas live in the montane forest and the cool, wet slopes of the Central Rainforests. A troop of eight to fifteen, led by a silverback, ranges over a few square miles of forest in a day, feeding on leaves, stems and fruit, and building a fresh nest of bent branches each night. They move to the lower forest in the dry season. They keep away from the river-bottoms, where the leopards and the tribes are.
 
 ## Key Behaviors
 

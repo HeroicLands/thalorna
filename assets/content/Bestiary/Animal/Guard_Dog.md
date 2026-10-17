@@ -214,7 +214,7 @@ The dog lies across the gate of the yard, a big, short-coated animal the color o
 
 # Dossier {#dossier}
 
-The Guard Dog is the big protection dog of the villages and strongholds, about two feet at the shoulder and a hundred twenty to a hundred eighty pounds. It is kept in the villages of [[place-vrystwald|Vristwald]], on the estates of [[place-velanthrgn|Velanthia]], at the gates of the cities of [[place-byzariargn|Bizaria]] and in the keeps of [[place-aelwyth|Aelwyth]], and it guards a fold, a granary, a wall or a person. A dog like this is worth several armed men in defence.
+The Guard Dog is the big protection dog of the villages and strongholds, about two feet at the shoulder and a hundred twenty to a hundred eighty pounds. It is kept in the villages of [[place-vrystwald|Vristwald]], on the estates of [[place-velanthrgn|Velanthia Region]], at the gates of the cities of [[place-byzariargn|Bizaria Region]] and in the keeps of [[place-aelwyth|Aelwyth]], and it guards a fold, a granary, a wall or a person. A dog like this is worth several armed men in defence.
 
 ## Presentation
 
@@ -222,7 +222,7 @@ A powerfully built dog with broad shoulders and a deep chest. The coat is short 
 
 ## In the Land
 
-Guard dogs are kept in the villages of [[place-vrystwald|Vristwald]], on the farms and estates of [[place-velanthrgn|Velanthia]], at the gates of the walled cities of [[place-byzariargn|Bizaria]] and in the keeps of [[place-aelwyth|Aelwyth]]. A dog lives with its handler's household, sleeps at the door or in the yard, and works a fixed beat around a fold, a granary or a wall. It is fed well and trained from a puppy to answer a few words and hand-signs.
+Guard dogs are kept in the villages of Vristwald, on the farms and estates of Velanthia, at the gates of the walled cities of Bizaria and in the keeps of Aelwyth. A dog lives with its handler's household, sleeps at the door or in the yard, and works a fixed beat around a fold, a granary or a wall. It is fed well and trained from a puppy to answer a few words and hand-signs.
 
 ## Key Behaviors
 

@@ -238,7 +238,7 @@ In the soft earth below the ledge a line of round prints crosses the stream, fou
 
 # Dossier {#dossier}
 
-The Mountain Lion is the large lone cat of the mountains and scrub, six to eight feet long and eighty to two hundred twenty pounds. It hunts the forested mountains of [[place-ixbalkiahkrgn|Ish'bal Ki'ahk]], the piedmont and mesa country of the northern reaches, the scrub at the edge of [[place-chakultzklrgn|Ch'akul Tsa'kul]] and the highlands of [[place-ixilankulrgn|Ish'ilankul]], taking deer and wild goats. It avoids people and larger threats and prefers to hunt unseen.
+The Mountain Lion is the large lone cat of the mountains and scrub, six to eight feet long and eighty to two hundred twenty pounds. It hunts the forested mountains of [[place-ixbalkiahkrgn|Ish'bal Ki'ahk Region]], the piedmont and mesa country of the northern reaches, the scrub at the edge of [[place-chakultzklrgn|Ch'akul Tsa'kul Region]] and the highlands of [[place-ixilankulrgn|Ish'ilankul Region]], taking deer and wild goats. It avoids people and larger threats and prefers to hunt unseen.
 
 ## Presentation
 
@@ -246,7 +246,7 @@ A sleek, aerodynamic cat, lean and muscular, with long, powerful hind legs for j
 
 ## In the Land
 
-Mountain lions hunt the forested mountains of [[place-ixbalkiahkrgn|Ish'bal Ki'ahk]], the piedmont and mesa country of the northern reaches, the scrub at the edge of [[place-chakultzklrgn|Ch'akul Tsa'kul]] and the highlands of [[place-ixilankulrgn|Ish'ilankul]]. A lion holds a range of forty square miles or more with several lying-up places in rock or thick cover, and it follows the deer and the wild goats through the seasons. It hunts at dusk and dawn and covers its kills with leaves.
+Mountain lions hunt the forested mountains of Ish'bal Ki'ahk, the piedmont and mesa country of the northern reaches, the scrub at the edge of Ch'akul Tsa'kul and the highlands of Ish'ilankul. A lion holds a range of forty square miles or more with several lying-up places in rock or thick cover, and it follows the deer and the wild goats through the seasons. It hunts at dusk and dawn and covers its kills with leaves.
 
 ## Key Behaviors
 
@@ -266,7 +266,7 @@ Hunters follow a lion's track to learn where the deer have been taken and keep a
 
 ## Combat Strategy
 
-Mountain lions employ stealth, speed, and devastating first strikes. They stalk from a distance until within striking range, then launch a explosive pounce from behind or above, attempting to land on the prey's back and deliver a killing bite to the neck or spine. Against opponents in direct combat, they use their agility and speed to dodge attacks while delivering rapid strikes with claws and teeth. They target the throat, neck, and belly—vulnerable areas—with preference. If an opponent proves too dangerous, they use their climbing ability to escape to places pursuers cannot easily follow.
+Mountain lions employ stealth, speed, and devastating first strikes. They stalk from a distance until within striking range, then launch an explosive pounce from behind or above, attempting to land on the prey's back and deliver a killing bite to the neck or spine. Against opponents in direct combat, they use their agility and speed to dodge attacks while delivering rapid strikes with claws and teeth. They target the throat, neck, and belly—vulnerable areas—with preference. If an opponent proves too dangerous, they use their climbing ability to escape to places pursuers cannot easily follow.
 
 ## Attack Methods
 

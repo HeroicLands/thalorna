@@ -236,7 +236,7 @@ A thin line of bright metal runs across the warm rock, copper in one angle of th
 
 # Dossier {#dossier}
 
-The Glass Lizard is a long, legless lizard of ten feet or more, found in the rocky scrub and mesa country of the [[place-dunhardsrtrgn|Dunhara Desert]], the dry chaparral of the [[place-sthmrchsrgn|South Marches]] and the stony ridges at the edge of the savanna. It basks on warm rock and cliff by day, hunts small mammals, birds and other reptiles at dawn and dusk, and keeps a small territory that it defends fiercely.
+The Glass Lizard is a long, legless lizard of ten feet or more, found in the rocky scrub and mesa country of the [[place-dunhardsrtrgn|Dunhara Desert Region]], the dry chaparral of the [[place-sthmrchsrgn|South Marches]] and the stony ridges at the edge of the savanna. It basks on warm rock and cliff by day, hunts small mammals, birds and other reptiles at dawn and dusk, and keeps a small territory that it defends fiercely.
 
 ## Presentation
 
@@ -244,7 +244,7 @@ A long, slender, legless lizard, more like a snake than a lizard. The scales are
 
 ## In the Land
 
-Glass lizards live in the rocky scrub and mesa country of the [[place-dunhardsrtrgn|Dunhara Desert]], the dry chaparral of the [[place-sthmrchsrgn|South Marches]] and the stony ridges at the edge of the savanna. A lizard basks on a warm rock in the morning, hunts at dawn and dusk and shelters in a crack in the rock through the heat. It lies along a ledge or a branch, and its polished scales break the sunlight into flashes that make it hard to follow against stone.
+Glass lizards live in the rocky scrub and mesa country of the Dunhara Desert, the dry chaparral of the South Marches and the stony ridges at the edge of the savanna. A lizard basks on a warm rock in the morning, hunts at dawn and dusk and shelters in a crack in the rock through the heat. It lies along a ledge or a branch, and its polished scales break the sunlight into flashes that make it hard to follow against stone.
 
 ## Key Behaviors
 

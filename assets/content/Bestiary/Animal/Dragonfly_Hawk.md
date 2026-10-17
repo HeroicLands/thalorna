@@ -212,7 +212,7 @@ The boat is halfway across the lake when the whine starts, high and thin, like a
 
 # Dossier {#dossier}
 
-The Dragonfly Hawk is a dragonfly five to seven feet long with a wingspan of six to eight, a hunter of the open water of [[place-vrystwldrvrs|Vristwald's rivers and lakes]] and the marshes of [[place-grkrhlmrgn|Grukarholm]], which takes birds, fish and small animals on the wing and from the surface and will take a child or a dog from a landing. It weighs fifteen pounds, most of it wing-muscle, and it is the fastest thing in the air over the northern forest. The Varokh fishing villages along the rivers know each one that hunts their stretch of water by its perch.
+The Dragonfly Hawk is a dragonfly five to seven feet long with a wingspan of six to eight, a hunter of the open water of [[place-vrystwldrvrs|Vristwald Rivers]] and lakes and the marshes of [[place-grkrhlmrgn|Grukarholm Region]], which takes birds, fish and small animals on the wing and from the surface and will take a child or a dog from a landing. It weighs fifteen pounds, most of it wing-muscle, and it is the fastest thing in the air over the northern forest. The Varokh fishing villages along the rivers know each one that hunts their stretch of water by its perch.
 
 It is dangerous to a grown man only when he is in a boat or on a bank with nowhere to go. There it comes in again and again, and nothing a man carries reaches it.
 
@@ -222,7 +222,7 @@ A long, slim body of jointed chitin that shows blue, green or violet by the ligh
 
 ## In the Land
 
-Dragonfly Hawks hunt the slow brown rivers, the lake systems and the flooded margins of the central forest belt, and the great marsh of Grukarholm to the east, and they are found down the Vristwald rivers as far as the landings. Each holds a stretch of water from a perch over it, a dead snag or an overhanging branch, and returns to the same perch every evening. They are commonest where the water is broad and open, at the lake mouths and the river bends, and absent from the deep forest and the dry uplands. They hunt by day and roost by night, and the first cold of autumn puts them down until the thaw.
+Dragonfly Hawks hunt the slow brown rivers, the lake systems and the flooded margins of the central forest belt, and the great marsh of Grukarholm to the east, and they are found down the rivers of [[place-vrystwald|Vristwald]] as far as the landings. Each holds a stretch of water from a perch over it, a dead snag or an overhanging branch, and returns to the same perch every evening. They are commonest where the water is broad and open, at the lake mouths and the river bends, and absent from the deep forest and the dry uplands. They hunt by day and roost by night, and the first cold of autumn puts them down until the thaw.
 
 ## Key Behaviors
 

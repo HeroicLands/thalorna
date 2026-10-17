@@ -237,7 +237,7 @@ A shadow slides over the scree, much faster than any cloud, and you look up. The
 
 # Dossier {#dossier}
 
-The Eagle is the great raptor of the high ridges, four feet tall with a wingspan of six feet or more, hunting small mammals, fish and anything it can take from the ground or the water. It nests on crags and rock spires in the [[place-graznmntns|Grazian Mountains]], the [[place-nrdlndsrgn|Nordlands]] and above the forests of [[place-vrystwald|Vristwald]], where a pair keeps several valleys to itself. A road that crosses a pair's range crosses their hunting ground, and a parent at the eyrie strikes at anything that climbs toward it.
+The Eagle is the great raptor of the high ridges, four feet tall with a wingspan of six feet or more, hunting small mammals, fish and anything it can take from the ground or the water. It nests on crags and rock spires in [[place-graznmntns|The Grazian Mountains]], the [[place-nrdlndsrgn|Nordlands Region]] and above the forests of [[place-vrystwald|Vristwald]], where a pair keeps several valleys to itself. A road that crosses a pair's range crosses their hunting ground, and a parent at the eyrie strikes at anything that climbs toward it.
 
 ## Presentation
 
@@ -245,7 +245,7 @@ A big raptor, dark brown to black, with pale plumage on the head and neck that g
 
 ## In the Land
 
-Eagles nest on the cliffs and crags of the [[place-graznmntns|Grazian Mountains]], on the rock spires of the [[place-nrdlndsrgn|Nordlands]] and above the forests of [[place-vrystwald|Vristwald]]. A pair keeps one range of several valleys and one nest on a ledge, adding sticks to it each spring until it is as wide as a cart. They hunt in the morning and the evening and soar over open slopes at midday.
+Eagles nest on the cliffs and crags of the Grazian Mountains, on the rock spires of the Nordlands and above the forests of Vristwald. A pair keeps one range of several valleys and one nest on a ledge, adding sticks to it each spring until it is as wide as a cart. They hunt in the morning and the evening and soar over open slopes at midday.
 
 ## Key Behaviors
 
@@ -253,7 +253,7 @@ Eagles hunt alone, and a mated pair defends its nesting range through the breedi
 
 ## What the Mountain People Do
 
-The eagle is the wesk of Vristwald villages such as Arnholt, Arnwald and Arngrund, who keep a watch on the cliff where it nests and take a pair's flights as omens. The Nyáluba eagle-clan, the Ngonzi, count the eagle guide as their ancestral presence and not as the bird alone. Shepherds in the passes pen their lambs under the crags in spring and keep dogs near the flock. An eyrie holds the bones of every kill, and a feather from it is worth a good knife. Falconers do not take eagles, which are too heavy for the wrist and too fierce to train.
+The eagle is the wesk of Vristwald villages such as [[place-arnholt|Arnholt]], [Arnwald]{.name data-type="place/settlement"} and [Arngrund]{.name data-type="place/settlement"}, who keep a watch on the cliff where it nests and take a pair's flights as omens. The [[lore-nyalubaclt|Nyáluba]] eagle-clan, the [Ngonzi]{.name data-type="affiliation/polity"}, count the [[lore-eaglengonzispr|Eagle Spirit]], their guide, as their ancestral presence and not as the bird alone. Shepherds in the passes pen their lambs under the crags in spring and keep dogs near the flock. An eyrie holds the bones of every kill, and a feather from it is worth a good knife. Falconers do not take eagles, which are too heavy for the wrist and too fierce to train.
 
 ## Signs
 

@@ -246,7 +246,7 @@ The cart-track through the chestnut wood is torn up in a long, dark furrow, and 
 
 # Dossier {#dossier}
 
-The Wild Boar is the wild pig of the forests, scrub and rough ground of the temperate lands, two to three feet at the shoulder and 200 to 400 pounds. It roots through the oak and chestnut woods of [[place-aureldirgn|Aureldia]], the gorges of the Bizarian [[place-southrnmrch|Southern March]] and the river thickets of [[place-velanthrgn|Velanthia]]. It is dangerous mainly when defending itself or its young, though a mature male is aggressive all year.
+The Wild Boar is the wild pig of the forests, scrub and rough ground of the temperate lands, two to three feet at the shoulder and 200 to 400 pounds. It roots through the oak and chestnut woods of [[place-aureldirgn|Aureldia Region]], the gorges of the Bizarian [[place-southrnmrch|Southern March]] and the river thickets of [[place-velanthrgn|Velanthia Region]]. It is dangerous mainly when defending itself or its young, though a mature male is aggressive all year.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A stocky, barrel-shaped pig with a dark bristly coat from brown to black, short,
 
 ## In the Land
 
-Wild boar root in the oak and chestnut woods of [[place-aureldirgn|Aureldia]], the gorges of the Bizarian [[place-southrnmrch|Southern March]], the river thickets of [[place-velanthrgn|Velanthia]] and the scrub of many lowland valleys. A sow with her sounder keeps a few square miles around a wallow, and a boar lives alone outside the rut. They root at dusk, at night and at dawn, and lie up by day in a thicket.
+Wild boar root in the oak and chestnut woods of Aureldia, the gorges of the Bizarian Southern March, the river thickets of Velanthia and the scrub of many lowland valleys. A sow with her sounder keeps a few square miles around a wallow, and a boar lives alone outside the rut. They root at dusk, at night and at dawn, and lie up by day in a thicket.
 
 ## Key Behaviors
 

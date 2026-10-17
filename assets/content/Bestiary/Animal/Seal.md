@@ -183,7 +183,7 @@ The skerry off the point is crowded with dark, glistening bodies, humped on the 
 
 # Dossier {#dossier}
 
-The Seal is the common seal of the cold northern coasts, fjords and island chains of the [[place-nrdlndsrgn|Nordlands]] and [[place-vithgard|Vithgard]], a fish-eating swimmer of one hundred fifty to six hundred pounds. It is the everyday subsistence animal of the coast: meat, blubber for lamp oil and waterproofing, hides for clothing and boat-skins, and bone and sinew for a hundred uses. Where the reindeer defines the tundra, the seal defines the coast. Its breathing-holes in the sea ice are where the polar bear hunts it.
+The Seal is the common seal of the cold northern coasts, fjords and island chains of the [[place-nrdlndsrgn|Nordlands Region]] and [[place-vithgard|Vithgard]], a fish-eating swimmer of one hundred fifty to six hundred pounds. It is the everyday subsistence animal of the coast: meat, blubber for lamp oil and waterproofing, hides for clothing and boat-skins, and bone and sinew for a hundred uses. Where the reindeer defines the tundra, the seal defines the coast. Its breathing-holes in the sea ice are where the polar bear hunts it.
 
 ## Presentation
 
@@ -191,7 +191,7 @@ A smooth, tapered cylinder with no external ears and a close coat of dense fur o
 
 ## In the Land
 
-Seals swim the cold coasts, fjords and island chains of the [[place-nrdlndsrgn|Nordlands]] and [[place-vithgard|Vithgard]]. A colony hauls out on a rocky island or a skerry to breed in spring and pup, and the animals fish singly in the water, taking cod and herring. In winter they follow the fish into the fjords and rest on the ice.
+Seals swim the cold coasts, fjords and island chains of the Nordlands and Vithgard. A colony hauls out on a rocky island or a skerry to breed in spring and pup, and the animals fish singly in the water, taking cod and herring. In winter they follow the fish into the fjords and rest on the ice.
 
 ## Key Behaviors
 

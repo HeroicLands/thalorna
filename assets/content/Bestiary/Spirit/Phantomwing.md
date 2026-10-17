@@ -221,7 +221,7 @@ The well is a day behind and the next one four days ahead, and the camp in the s
 
 # Dossier {#dossier}
 
-The Phantomwing is the spirit of a winged creature that died far from home, a great bird, most often, that fell over a foreign land with every tie to its own country cut, and whose soul was never received anywhere. It is pale, nearly transparent, and endlessly searching, and it follows the living in the hope of a companionship it cannot have. It is not a predator, and it is dangerous only when cornered, and to those who stay near it too long. On [[lore-celestialroad|the Celestial Road]] across the Khazryn, the phantomwings haunt the last stage, the stone desert and cold high steppe of [[place-idwkrrgn|Idvaqor]] before Tantsou's western passes, and the caravans know them.
+The Phantomwing is the spirit of a winged creature that died far from home, a great bird, most often, that fell over a foreign land with every tie to its own country cut, and whose soul was never received anywhere. It is pale, nearly transparent, and endlessly searching, and it follows the living in the hope of a companionship it cannot have. It is not a predator, and it is dangerous only when cornered, and to those who stay near it too long. On [[lore-celestialroad|The Celestial Road]] across the [[place-khzryndsrtrgn|Khazryn Desert Region]], the phantomwings haunt the last stage, the stone desert and cold high steppe of [[place-idwkrrgn|Idvaqor]] before [[place-tantsouregin|Tantsou Region]]'s western passes, and the caravans know them.
 
 ## Presentation
 

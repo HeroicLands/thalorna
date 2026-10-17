@@ -198,7 +198,7 @@ The seal colony on the skerry has stopped barking. Every animal is crowded to th
 
 # Dossier {#dossier}
 
-The Great White Shark is the largest of the sharks, over twenty feet and several tons, a lone hunter of the cold and temperate seas. It follows the seal colonies and whale grounds off the fjord coast of the [[place-nrdlndsrgn|Nordlands]], the open Vylarian Sea and the western ocean, in shallow water and deep, and kills whatever enters its range. A single shark may be seen once in a lifetime in any given bay, and an encounter at sea or in the water is rarely survived.
+The Great White Shark is the largest of the sharks, over twenty feet and several tons, a lone hunter of the cold and temperate seas. It follows the seal colonies and whale grounds off the fjord coast of the [[place-nrdlndsrgn|Nordlands Region]], the open [[place-vylarianse|Vylarian Sea]] and the western ocean, in shallow water and deep, and kills whatever enters its range. A single shark may be seen once in a lifetime in any given bay, and an encounter at sea or in the water is rarely survived.
 
 ## Presentation
 
@@ -206,7 +206,7 @@ A streamlined fish tapering from broad shoulders to a powerful tail, smooth gray
 
 ## In the Land
 
-Great white sharks patrol the cold and temperate seas: the fjord coast of the [[place-nrdlndsrgn|Nordlands]], the open water of the Vylarian Sea and the seal rocks and whale grounds of the western ocean. A shark follows the seal colonies and the schools of tuna, cruises the shallows at dawn and dusk, and rises from the depths under its prey. They are rare and wide-ranging, and a single shark may be seen once in a lifetime in any given bay.
+Great white sharks patrol the cold and temperate seas: the fjord coast of the Nordlands, the open water of the Vylarian Sea and the seal rocks and whale grounds of the western ocean. A shark follows the seal colonies and the schools of tuna, cruises the shallows at dawn and dusk, and rises from the depths under its prey. They are rare and wide-ranging, and a single shark may be seen once in a lifetime in any given bay.
 
 ## Key Behaviors
 

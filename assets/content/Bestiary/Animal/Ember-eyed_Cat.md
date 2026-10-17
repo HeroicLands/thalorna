@@ -240,7 +240,7 @@ The lamp on the porter's pole throws its light a few yards up the ridge path and
 
 # Dossier {#dossier}
 
-The Ember-eyed Cat, _naokalo_ in [[skill-kalihrlng|Kalihari]], "green ember", for the glow of its eyes in torchlight, is a heavy, dark-coated forest cat the size of a leopard. It lives in the steep forest between the lowland villages and the terraces and on the lower slopes of the ring of mountains, and it is the apex of the island's forest. It hunts pigs, deer and the lowland herds by dropping from low branches, and it takes the carcass of a [[being-mngbhmth|Mangrove Behemoth]]'s bitten victim if it finds it first. It is the one beast of the forest that takes grown people.
+The Ember-eyed Cat, _naokalo_ in the [[skill-kalihrlng|Kalihari Language]], "green ember", for the glow of its eyes in torchlight, is a heavy, dark-coated forest cat the size of a leopard. It lives in the steep forest between the lowland villages and the terraces and on the lower slopes of [[place-klhrring|The Ring]], the ring of mountains, and it is the apex of the island's forest. It hunts pigs, deer and the lowland herds by dropping from low branches, and it takes the carcass of a [[being-mngbhmth|Mangrove Behemoth]]'s bitten victim if it finds it first. It is the one beast of the forest that takes grown people.
 
 ## Presentation
 
@@ -248,7 +248,7 @@ A heavy, deep-chested cat, dark-coated, with a faint broken green dapple that sh
 
 ## In the Land
 
-A naokalo keeps a range of many miles in the steep forest above the lowland villages and below the terraces, and on the lower slopes of the ring. It leaves the range only in Deepwater, when the ridge paths flood. It shares the forest with the gliders overhead and the pigs and deer below, and it shares the carcasses of the shore with the behemoth, which holds the mangrove while the cat holds everything above the mud.
+A naokalo keeps a range of many miles in the steep forest above the lowland villages and below the terraces, and on the lower slopes of the ring. It leaves the range only in [Deepwater]{.name data-type="lore/calendar"}, when the ridge paths flood. It shares the forest with the gliders overhead and the pigs and deer below, and it shares the carcasses of the shore with the behemoth, which holds the mangrove while the cat holds everything above the mud.
 
 ## Key Behaviors
 

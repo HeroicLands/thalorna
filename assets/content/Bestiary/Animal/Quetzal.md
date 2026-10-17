@@ -214,7 +214,7 @@ In the green dimness of the cloud forest a flash of emerald catches the light, h
 
 # Dossier {#dossier}
 
-The Quetzal is the sacred bird of the cloud forest, a trogon about twelve inches long with a male's tail streamers adding two or three feet and weighing half a pound. It lives in the mist forests between the lowland jungle and the highland plateau above [[place-xelemrgn|Shelem]], [[place-neokbaatergn|Ne'ok Ba'ate]] and [[place-ixbaltzakurgn|Ish'bal Tsa'ku]]. Its tail feathers are the most valuable natural material of the highland civilizations of [[place-kchchkcntnnt|K'ich'chik]], worth more than their weight in gold. The bird is tied to the wind god and to freedom, and it is said to die in a cage.
+The Quetzal is the sacred bird of the cloud forest, a trogon about twelve inches long with a male's tail streamers adding two or three feet and weighing half a pound. It lives in the mist forests between the lowland jungle and the highland plateau above [[place-xelemrgn|Shelem Region]], [[place-neokbaatergn|Ne'ok Ba'ate Region]] and [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]]. Its tail feathers are the most valuable natural material of the highland civilizations of [[place-kchchkcntnnt|K'ich'chik Continent]], worth more than their weight in gold. The bird is tied to the wind god and to freedom, and it is said to die in a cage.
 
 ## Presentation
 
@@ -222,7 +222,7 @@ A small bird of dazzling beauty. The male's head, back and upper breast are irid
 
 ## In the Land
 
-Quetzals live in the mist-wrapped cloud forest between the hot lowland jungle and the highland plateau, above [[place-xelemrgn|Shelem]], [[place-neokbaatergn|Ne'ok Ba'ate]] and [[place-ixbaltzakurgn|Ish'bal Tsa'ku]]. A bird sits quietly in the middle canopy and plucks small fruit on the wing, hovering. A male has a green tail-streamer two or three feet long. In the breeding season it leaps from the tree-tops and spirals down, trailing it.
+Quetzals live in the mist-wrapped cloud forest between the hot lowland jungle and the highland plateau, above Shelem, Ne'ok Ba'ate and Ish'bal Tsa'ku. A bird sits quietly in the middle canopy and plucks small fruit on the wing, hovering. A male has a green tail-streamer two or three feet long. In the breeding season it leaps from the tree-tops and spirals down, trailing it.
 
 ## Key Behaviors
 

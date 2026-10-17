@@ -246,7 +246,7 @@ The mule-track over the pass is full of llamas, tall and slender-necked, with ba
 
 # Dossier {#dossier}
 
-The Llama is the pack animal of the high plateau, five to six feet at the head and two hundred fifty to four hundred pounds, kept in the mountain valleys of [[place-kuxiixbalrgn|K'ushi Ish'bal]] and [[place-ixilankulrgn|Ish'ilankul]]. It carries goods on the roads between the highland city-states, gives fiber, meat, leather and dung fuel, and guards smaller stock. No wild herds remain. A smaller, finer-coated relative gives the luxury fiber prized by the priest-kings. A llama carries loads at altitudes where horses cannot breathe, steady, sure-footed and given to sudden spite.
+The Llama is the pack animal of the high plateau, five to six feet at the head and two hundred fifty to four hundred pounds, kept in the mountain valleys of [[place-kuxiixbalrgn|K'ushi Ish'bal Region]] and [[place-ixilankulrgn|Ish'ilankul Region]]. It carries goods on the roads between the highland city-states, gives fiber, meat, leather and dung fuel, and guards smaller stock. No wild herds remain. A smaller, finer-coated relative gives the luxury fiber prized by the priest-kings. A llama carries loads at altitudes where horses cannot breathe, steady, sure-footed and given to sudden spite.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A tall, slender animal with the height of a small horse and the build of a deer.
 
 ## In the Land
 
-Llamas are kept on the high plateau and in the mountain valleys of [[place-kuxiixbalrgn|K'ushi Ish'bal]] and [[place-ixilankulrgn|Ish'ilankul]], where the highland city-states lie a week apart over passes no wheel can cross. A herd grazes the thin plateau grass by day and is penned in stone corrals at night. Feral llamas are rare; nearly every animal belongs to a herding family and is known by its ear-tags.
+Llamas are kept on the high plateau and in the mountain valleys of K'ushi Ish'bal and Ish'ilankul, where the highland city-states lie a week apart over passes no wheel can cross. A herd grazes the thin plateau grass by day and is penned in stone corrals at night. Feral llamas are rare; nearly every animal belongs to a herding family and is known by its ear-tags.
 
 ## Key Behaviors
 

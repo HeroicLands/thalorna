@@ -293,7 +293,7 @@ The Zerathian forest elephant is the elephant of the [[place-cntrlrnfrsts|Centra
 
 ## Presentation
 
-A compact elephant, built lower and narrower than the great elephant of the [[place-sthrnsvnhs|savannahs]] to the south, with dark skin that is usually wet and stained with red forest mud. The ears are round and small, the back level, and the head carries a high, rounded brow. Both bulls and cows carry tusks: straight, slender, pinkish-white and pointing down and forward, harder and denser than the savanna elephant's. The trunk ends in two fingerlike tips. It moves through the forest with a care that makes it nearly silent, and on a dim trail its outline is lost among the trunks.
+A compact elephant, built lower and narrower than the great elephant of the [[place-sthrnsvnhs|Southern Savannahs]] to the south, with dark skin that is usually wet and stained with red forest mud. The ears are round and small, the back level, and the head carries a high, rounded brow. Both bulls and cows carry tusks: straight, slender, pinkish-white and pointing down and forward, harder and denser than the savanna elephant's. The trunk ends in two fingerlike tips. It moves through the forest with a care that makes it nearly silent, and on a dim trail its outline is lost among the trunks.
 
 ## In the Land
 
@@ -305,7 +305,7 @@ A family is a few cows and their calves, led by the oldest cow; bulls go alone. 
 
 ## What the Forest Tribes Do
 
-The rainforest tribes walk the elephant trails as their own roads, and they walk them talking, so that the elephants hear them coming and step off. A village keeps its gardens fenced with thorn and its drums ready, because a family that finds a banana garden comes back to it. The tribes take a lone bull for its ivory only seldom, and with ceremony. Forest ivory, hard, straight and fine-grained, is the most valued ivory that comes out of Zerathia, and the tribes who trade with the north carry it to the cities of [[place-okharisrgn|Okharis]] and beyond along with the other goods of the forest, at a price the carriers set.
+The rainforest tribes walk the elephant trails as their own roads, and they walk them talking, so that the elephants hear them coming and step off. A village keeps its gardens fenced with thorn and its drums ready, because a family that finds a banana garden comes back to it. The tribes take a lone bull for its ivory only seldom, and with ceremony. Forest ivory, hard, straight and fine-grained, is the most valued ivory that comes out of [[place-xerathia|Zerathia]], and the tribes who trade with the north carry it to the cities of [[place-okharisrgn|Okharis Region]] and beyond along with the other goods of the forest, at a price the carriers set.
 
 ## Signs
 

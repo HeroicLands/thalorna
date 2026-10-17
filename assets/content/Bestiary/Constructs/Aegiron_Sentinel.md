@@ -99,7 +99,7 @@ The inner gate of the treasury court stands open, and in the middle of the gatew
 
 # Dossier {#dossier}
 
-The Aegiron Sentinel is a construct: an eight-foot figure of interlocking iron plates, as heavy as a laden cart, cut all over with binding characters, which a mage has worked into motion to stand guard over a door, a treasure or a person. It has no will. It does what it was ordered, in the words it was ordered, and it strikes with a crushing iron fist and with a beam of light from its eyes. The finest are the work of the [[lore-wanduo|Wánduo]] artificers of [[affiliation-tantsouempr|Tantsou]], the sorcerer caste that forges the empire's enchanted arms, and they stand at the treasuries, tombs and inner gates of the great houses of the empire. A sentinel stops where its orders stop, and the first thing a party learns about one is where that line runs.
+The Aegiron Sentinel is a construct: an eight-foot figure of interlocking iron plates, as heavy as a laden cart, cut all over with binding characters, which a mage has worked into motion to stand guard over a door, a treasure or a person. It has no will. It does what it was ordered, in the words it was ordered, and it strikes with a crushing iron fist and with a beam of light from its eyes. The finest are the work of the [[lore-wanduo|Wánduo]] artificers of the [[affiliation-tantsouempr|Empire of Tantsou]], the sorcerer caste that forges the empire's enchanted arms, and they stand at the treasuries, tombs and inner gates of the great houses of the empire. A sentinel stops where its orders stop, and the first thing a party learns about one is where that line runs.
 
 ## Presentation
 

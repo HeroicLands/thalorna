@@ -212,7 +212,7 @@ The ruin is a ring of fallen stones on a rise in the desert, and on the largest 
 
 # Dossier {#dossier}
 
-The Starcrawler is a rare and strange spirit-being of the night sky: a small, many-legged creature with a clear body full of points of light, that appears where earth and sky come close and watches the stars with a purpose no one has fathomed. It is harmless unless threatened, and it is wholly alien. It does not breed; each is single, and perhaps very old. The place it is met is [[place-beshakan|Beshakan]], the desert of Au'Khelathu whose ruins hold the star maps the empire's earliest astronomers carved in the age of the First Tablets, and whose ruins, the astrologers say, hold spirits of the desert and creatures bound to the stars.
+The Starcrawler is a rare and strange spirit-being of the night sky: a small, many-legged creature with a clear body full of points of light, that appears where earth and sky come close and watches the stars with a purpose no one has fathomed. It is harmless unless threatened, and it is wholly alien. It does not breed; each is single, and perhaps very old. The place it is met is [[place-beshakan|Beshakan]], the desert of [[place-aukhelathrgq|Au'Khelathu Region]] whose ruins hold the star maps the empire's earliest astronomers carved in the age of [[lore-akhfirsttab|The First Tablets]], and whose ruins, the astrologers say, hold spirits of the desert and creatures bound to the stars.
 
 ## Presentation
 
@@ -228,7 +228,7 @@ A starcrawler watches the sky. It climbs to a high point and holds still for hou
 
 ## What the Astrologers Do
 
-The astrologers who make the pilgrimage into Beshakan regard a starcrawler as an omen and a colleague. They do not harm one, and they copy its patterns onto their tablets when it rearranges its lights into a shape that is not in the sky, because some of them hold that those are skies that have been or will be. Several of the temple-schools' star-tables rest on copies of starcrawler patterns, and the schools that do not use them call those tables worthless. The desert rangers who guide pilgrims through Beshakan warn them not to touch one, because its bite numbs a hand for days. Followers of the old cults who see in the **Convergence of the Nine Moons** the chance to begin an age of chaos are said to hunt starcrawlers for their lights, and the astrologers count that among the cults' crimes.
+The astrologers who make the pilgrimage into Beshakan regard a starcrawler as an omen and a colleague. They do not harm one, and they copy its patterns onto their tablets when it rearranges its lights into a shape that is not in the sky, because some of them hold that those are skies that have been or will be. Several of the temple-schools' star-tables rest on copies of starcrawler patterns, and the schools that do not use them call those tables worthless. The desert rangers who guide pilgrims through Beshakan warn them not to touch one, because its bite numbs a hand for days. Followers of the old cults who see in **[The Convergence of the Nine Moons]{.name data-type="lore/history"}** the chance to begin an age of chaos are said to hunt starcrawlers for their lights, and the astrologers count that among the cults' crimes.
 
 ## Signs
 

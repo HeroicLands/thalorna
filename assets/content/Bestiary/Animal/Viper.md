@@ -154,7 +154,7 @@ The dry-stone wall is warm from the afternoon sun, and a line of dark diamonds s
 
 # Dossier {#dossier}
 
-The Viper is the thick-bodied venomous snake of the grassland, rock and forest edge, three to eight feet long, found in the dry hills of the Bizarian [[place-southrnmrch|Southern March]], on the farms of [[place-velanthrgn|Velanthia]] and across the warmer lands. It relies entirely on venom and a precise strike to bring down prey larger than itself, and it is among the deadliest of snakes for its size.
+The Viper is the thick-bodied venomous snake of the grassland, rock and forest edge, three to eight feet long, found in the dry hills of the Bizarian [[place-southrnmrch|Southern March]], on the farms of [[place-velanthrgn|Velanthia Region]] and across the warmer lands. It relies entirely on venom and a precise strike to bring down prey larger than itself, and it is among the deadliest of snakes for its size.
 
 ## Presentation
 
@@ -162,7 +162,7 @@ A sinuous snake in patterns that make it very hard to see, each region's snakes 
 
 ## In the Land
 
-Vipers lie in the grassland, rocky hills and forest edges of the warm and temperate lands, from the dry hills of the Bizarian [[place-southrnmrch|Southern March]] to the farms of [[place-velanthrgn|Velanthia]] and the hot country of the south. A viper lies coiled under a rock, in a stone wall or in a grass tussock, motionless for hours, and strikes at anything that comes within reach. It is most active at dusk and on warm nights.
+Vipers lie in the grassland, rocky hills and forest edges of the warm and temperate lands, from the dry hills of the Bizarian Southern March to the farms of Velanthia and the hot country of the south. A viper lies coiled under a rock, in a stone wall or in a grass tussock, motionless for hours, and strikes at anything that comes within reach. It is most active at dusk and on warm nights.
 
 ## Key Behaviors
 

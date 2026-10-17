@@ -244,7 +244,7 @@ The cliff above the high meadow is sheer and wet with cloud, and a patch of it m
 
 # Dossier {#dossier}
 
-The Cloud Goat, _sulkula_ in [[skill-kalihrlng|Kalihari]], "the one that goes round the stone", is a white-coated mountain goat, heavier than an ibex, with long back-swept horns and wide splayed hooves. It lives on the cliffs and high slopes of [[place-klhrring|the Ring]], at and above the cloud line. It lives on faces a person cannot cross, in small herds led by an old female, and comes down to the high meadows only in Stillwater.
+The Cloud Goat, _sulkula_ in the [[skill-kalihrlng|Kalihari Language]], "the one that goes round the stone", is a white-coated mountain goat, heavier than an ibex, with long back-swept horns and wide splayed hooves. It lives on the cliffs and high slopes of [[place-klhrring|The Ring]], at and above the cloud line. It lives on faces a person cannot cross, in small herds led by an old female, and comes down to the high meadows only in [Stillwater]{.name data-type="lore/calendar"}.
 
 ## Presentation
 

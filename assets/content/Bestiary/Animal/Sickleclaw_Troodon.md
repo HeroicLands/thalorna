@@ -237,7 +237,7 @@ A lean, feathered hunter with a body made for balance and precision. The head is
 
 ## In the Land
 
-Sickleclaw troodons haunt the scrub and ruins of the [[place-sthmrchsrgn|South Marches]], the ruined stonework of the [[place-sthrnsvnhs|Southern Savannahs]] and the broken ground at the edge of the forests. A pack hunts at dusk and through the night, and shelters by day in a ruin or a thicket. They are three or four feet tall, run on two legs and hold their long, curved claws off the ground.
+Sickleclaw troodons haunt the scrub and ruins of the South Marches, the ruined stonework of the Southern Savannahs and the broken ground at the edge of the forests. A pack hunts at dusk and through the night, and shelters by day in a ruin or a thicket. They are three or four feet tall, run on two legs and hold their long, curved claws off the ground.
 
 ## Key Behaviors
 

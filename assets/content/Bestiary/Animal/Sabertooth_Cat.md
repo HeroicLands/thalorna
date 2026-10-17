@@ -238,7 +238,7 @@ The wounded carcass of a bison lies in a trampled hollow at the edge of the long
 
 # Dossier {#dossier}
 
-The Sabertooth Cat is the big stabbing cat of the grassland and woodland edge, eight to ten feet long and four to five feet at the shoulder. It hunts the grassland of [[place-penqalchaklrgn|P'enqal Ch'akal]], where the herds migrate, and the savanna and forest fringe of the [[place-sthrnsvnhs|Southern Savannahs]], taking animals much larger than itself by a leap and a stab of the long canines. One that has hunted people may take to them.
+The Sabertooth Cat is the big stabbing cat of the grassland and woodland edge, eight to ten feet long and four to five feet at the shoulder. It hunts the grassland of [[place-penqalchaklrgn|P'enqal Ch'akal Region]], where the herds migrate, and the savanna and forest fringe of the [[place-sthrnsvnhs|Southern Savannahs]], taking animals much larger than itself by a leap and a stab of the long canines. One that has hunted people may take to them.
 
 ## Presentation
 
@@ -246,7 +246,7 @@ A heavily muscled, compact cat with a short coat of tawny gold or faint red, mar
 
 ## In the Land
 
-Sabertooth cats hunt the open grassland and woodland edge of [[place-penqalchaklrgn|P'enqal Ch'akal]], where the migrating herds pass, and the savanna and forest fringe of the [[place-sthrnsvnhs|Southern Savannahs]]. A cat holds a range of many miles around a lying-up place in rock or thick cover, and takes animals much larger than itself with a leap and a stab of its long canines. It hunts at dawn and dusk and drags a kill into cover.
+Sabertooth cats hunt the open grassland and woodland edge of P'enqal Ch'akal, where the migrating herds pass, and the savanna and forest fringe of the Southern Savannahs. A cat holds a range of many miles around a lying-up place in rock or thick cover, and takes animals much larger than itself with a leap and a stab of its long canines. It hunts at dawn and dusk and drags a kill into cover.
 
 ## Key Behaviors
 

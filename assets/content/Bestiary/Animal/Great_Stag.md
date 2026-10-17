@@ -246,7 +246,7 @@ A line of bark has been stripped from the oak at the height of your head, in lon
 
 # Dossier {#dossier}
 
-The Great Stag is the giant red deer of the deep woods, over six feet at the shoulder, with antlers spanning nine to ten feet. A herd of does and young animals under one dominant stag lives in the old oak and beech woods of [[place-vrystwald|Vristwald]], the woodland of [[place-aureldirgn|Aureldia]] and the Silver Forests of Élavendre. The stag is peaceful until he has a territory, a doe or his standing to defend, and then he fights with total determination.
+The Great Stag is the giant red deer of the deep woods, over six feet at the shoulder, with antlers spanning nine to ten feet. A herd of does and young animals under one dominant stag lives in the old oak and beech woods of [[place-vrystwald|Vristwald]], the woodland of [[place-aureldirgn|Aureldia Region]] and [[place-silvrfrsts|The Silver Forests]] of [[place-elavendre|Élavendre]]. The stag is peaceful until he has a territory, a doe or his standing to defend, and then he fights with total determination.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A large, noble deer, muscular but refined, built for speed as well as power. The
 
 ## In the Land
 
-Great stags hold the old oak and beech woods of [[place-vrystwald|Vristwald]], the temperate woodland of [[place-aureldirgn|Aureldia]] and the Silver Forests of Élavendre. A herd of does and young animals keeps to a stretch of woodland, a glade for grazing and a thicket for lying up, and the master stag stays with them through the autumn rut. In winter the herd yards up in a sheltered valley and browses the bark and twigs.
+Great stags hold the old oak and beech woods of Vristwald, the temperate woodland of Aureldia and the Silver Forests of Élavendre. A herd of does and young animals keeps to a stretch of woodland, a glade for grazing and a thicket for lying up, and the master stag stays with them through the autumn rut. In winter the herd yards up in a sheltered valley and browses the bark and twigs.
 
 ## Key Behaviors
 
@@ -262,7 +262,7 @@ Herds are made up of does and their young, and the dominant stag has the breedin
 
 ## What the Villages Do
 
-The stag is the wesk of Vristwald villages such as Eichwald, Thragrund and Dagstein, and a stag's hunt there is a rite, led by the Weskár. The lords of the Aureldian kingdoms keep woods for the chase, and take a great stag with hounds, a horn and a mounted party. The Sinale call the stag by a name of its own, and treat its kill as a theft from the wood. A stag's antlers are carved into hilts and combs, and the hide is made into gloves. A village that kills the master stag in its own woods loses the herd for several seasons.
+The stag is the wesk of Vristwald villages such as [Eichwald]{.name data-type="place/settlement"}, [Thragrund]{.name data-type="place/settlement"} and [Dagstein]{.name data-type="place/settlement"}, and a stag's hunt there is a rite, led by the Weskár. The lords of the Aureldian kingdoms keep woods for the chase, and take a great stag with hounds, a horn and a mounted party. The Sinale call the stag by a name of its own, and treat its kill as a theft from the wood. A stag's antlers are carved into hilts and combs, and the hide is made into gloves. A village that kills the master stag in its own woods loses the herd for several seasons.
 
 ## Signs
 

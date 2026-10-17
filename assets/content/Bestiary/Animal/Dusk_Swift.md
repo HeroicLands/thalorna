@@ -239,7 +239,7 @@ The light on the terrace wall goes from gold to grey, and a thread of dark speck
 
 # Dossier {#dossier}
 
-The Dusk Swift, _olithuri_ in [[skill-kalihrlng|Kalihari]], "star wind", for the flock that comes home as the first stars show, is a sparrow-sized bird with a slate back and a white throat. It feeds in the forest by day and flies home to the village gardens in a single streaming flock as the light fails. It is found in gardens, on terraces and at the forest edge across the island, and it roosts in the gardens of the lowlands and the valleys. The flock holds its shape, and a household sees it come over the same ridge at the same hour for years. A single bird is no danger to anyone. Only a flock in numbers is a hazard, and then only to a face.
+The Dusk Swift, _olithuri_ in the [[skill-kalihrlng|Kalihari Language]], "star wind", for the flock that comes home as the first stars show, is a sparrow-sized bird with a slate back and a white throat. It feeds in the forest by day and flies home to the village gardens in a single streaming flock as the light fails. It is found in gardens, on terraces and at the forest edge across the island, and it roosts in the gardens of the lowlands and the valleys. The flock holds its shape, and a household sees it come over the same ridge at the same hour for years. A single bird is no danger to anyone. Only a flock in numbers is a hazard, and then only to a face.
 
 ## Presentation
 

@@ -246,7 +246,7 @@ The mule at the head of the string stops on the narrow ledge, ears swiveling, an
 
 # Dossier {#dossier}
 
-The Mule is the pack animal of the hard roads, the offspring of a jack donkey and a mare, four to five feet at the shoulder and four hundred fifty to six hundred pounds. It carries loads over steep and broken country on the passes of the [[place-graznmntns|Grazian Mountains]], the hill roads of the Bizarian [[place-southrnmrch|Southern March]], the gorges of [[place-aelwyth|Aelwyth]] and the mountain tracks of [[place-ixilankulrgn|Ish'ilankul]]. It has a donkey's compact build and a horse's muscle and agility, and a long memory and good judgement.
+The Mule is the pack animal of the hard roads, the offspring of a jack donkey and a mare, four to five feet at the shoulder and four hundred fifty to six hundred pounds. It carries loads over steep and broken country on the passes of [[place-graznmntns|The Grazian Mountains]], the hill roads of the Bizarian [[place-southrnmrch|Southern March]], the gorges of [[place-aelwyth|Aelwyth]] and the mountain tracks of [[place-ixilankulrgn|Ish'ilankul Region]]. It has a donkey's compact build and a horse's muscle and agility, and a long memory and good judgement.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A compact, sturdy animal with the muscle and agility of a horse and the frame of
 
 ## In the Land
 
-Mules are bred and worked wherever the roads are hard: the passes of the [[place-graznmntns|Grazian Mountains]], the hill roads of the Bizarian [[place-southrnmrch|Southern March]], the gorges of [[place-aelwyth|Aelwyth]] and the mountain tracks of [[place-ixilankulrgn|Ish'ilankul]]. A mule lives in a muleteer's yard, grazes the verges and works six days in seven. It cannot breed, so every mule is the product of a mare and a jack kept for the purpose.
+Mules are bred and worked wherever the roads are hard: the passes of the Grazian Mountains, the hill roads of the Bizarian Southern March, the gorges of Aelwyth and the mountain tracks of Ish'ilankul. A mule lives in a muleteer's yard, grazes the verges and works six days in seven. It cannot breed, so every mule is the product of a mare and a jack kept for the purpose.
 
 ## Key Behaviors
 

@@ -238,7 +238,7 @@ The grass on the knoll is pressed flat in a long oval, and the rock beside it is
 
 # Dossier {#dossier}
 
-The Steppe Lion is the lone maned lion of the grass and rocky steppe, four to five feet at the shoulder and ten to twelve feet long, hunting dozens of square miles of the [[place-khzryndsrtrgn|Khazryn]] steppe, the open forest of the [[place-velanthrgn|Velanthian]] steppe margin and the dry uplands of the Bizarian March. Unlike the lions of the south it does not live in prides. Each cat holds its range alone, resting in a thicket or a rock-pile and watching the herds from cover.
+The Steppe Lion is the lone maned lion of the grass and rocky steppe, four to five feet at the shoulder and ten to twelve feet long, hunting dozens of square miles of the [[place-khzryndsrtrgn|Khazryn Desert Region]] steppe, the open forest of the steppe margin of [[place-velanthrgn|Velanthia Region]] and the dry uplands of the Bizarian [[place-southrnmrch|Southern March]]. Unlike the lions of the south it does not live in prides. Each cat holds its range alone, resting in a thicket or a rock-pile and watching the herds from cover.
 
 ## Presentation
 
@@ -246,7 +246,7 @@ A massive, heavily muscled cat with a golden-tan to pale-brown coat, darker mott
 
 ## In the Land
 
-Steppe lions hunt the grass and rocky country of the [[place-khzryndsrtrgn|Khazryn]] steppe, the open forest of the [[place-velanthrgn|Velanthian]] steppe margin and the dry uplands of the Bizarian March. Unlike the lions of the south they live alone, each cat holding a range of dozens of square miles, resting in a thicket or a rock-pile and watching the herds from cover. It marks its ground with scent and claw-marks and hunts at night and in the cool of the day.
+Steppe lions hunt the grass and rocky country of the Khazryn steppe, the open forest of the Velanthian steppe margin and the dry uplands of the Bizarian March. Unlike the lions of the south they live alone, each cat holding a range of dozens of square miles, resting in a thicket or a rock-pile and watching the herds from cover. It marks its ground with scent and claw-marks and hunts at night and in the cool of the day.
 
 ## Key Behaviors
 
