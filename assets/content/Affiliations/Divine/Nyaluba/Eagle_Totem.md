@@ -57,7 +57,7 @@ data:
 sohl: {system: {commonSkills: [eaglengonzisprt]}}
 ---
 
-The **Eagle Totem** is the guide of the [[affiliation-nylbtrblntn|Ngonzi]], the highlanders of the southeastern escarpment—vision, distance, and the carrying of word between one world and another. The Ngonzi are goldsmiths and herders, the only Nyáluba clan that regularly works stone, and the only one that claims direct ancestral connection to the lost civilization whose dry-stone walls and oval enclosures stand across their country.
+The **Eagle Totem** centers on the [[lore-eaglengonzispr|Eagle Spirit]], the guide of the [[affiliation-nylbtrblntn|Ngonzi]], the highlanders of the southeastern escarpment—vision, distance, and the carrying of word between one world and another. The Ngonzi are goldsmiths and herders, the only Nyáluba clan that regularly works stone, and the only one that claims direct ancestral connection to the lost civilization whose dry-stone walls and oval enclosures stand across their country.
 
 They do not call those places ruins. They call them the **Old Hetos**, and they hold them to be inhabited—which makes the eagle's veneration unlike the other four. The guide is venerated as a messenger, and what it carries word to is not only the spirit world in general but the stone-builder dead in particular. Whether those dead are Ngonzi ancestors, as the clan maintains, or the ancestors of some other people entirely, as the Lobwezi griots will say when pressed, is the longest-running dispute in Nyáluba country.
 

@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [], population: 0, packFolder: settingl
 
 ## Overview
 
-Ch'al Ts'umaq—"beneath the night sky"—is the underworld of the [[affiliation-itzanpnthn|Itsani]] faith, and its mouths are everywhere in [[place-kchchkcntnnt|K'ich'chik]]. It lies beneath every cenote, cave and sacred spring, and the [[place-kankulrgn|K'ankul]] priesthood teaches that the sun itself passes through it each night on its way to rebirth at dawn. It is the domain of [[lore-tzuqilixbaldty|Ts'uqil Ish'bal]], the death god, and a priest of that faith explains it to a newcomer before anything else: it is not a place of punishment but of passage.
+Ch'al Ts'umaq—"beneath the night sky"—is the underworld of the [[affiliation-itzanpnthn|Itsani Pantheon]], and its mouths are everywhere in the [[place-kchchkcntnnt|K'ich'chik Continent]]. It lies beneath every cenote, cave and sacred spring, and the [[place-kankulrgn|K'ankul]] priesthood teaches that the sun itself passes through it each night on its way to rebirth at dawn. It is the domain of [[lore-tzuqilixbaldty|Ts'uqil Ish'bal]], the death god, and a priest of that faith explains it to a newcomer before anything else: it is not a place of punishment but of passage.
 
 ## The Passage
 
@@ -20,9 +20,9 @@ That is why the gravest sentence the faith can pass is exclusion from the funera
 
 ## The Cenotes and the Threshold
 
-Every cenote is at once a mouth of Ch'al Ts'umaq and the body of [[affiliation-xaqikhanal|Shaq'ik Ha'nal]], goddess of living waters, and the two priesthoods have settled city by city, over centuries and not without acrimony, which waters serve which rite on which nights. At the turning of the Ts'uqal Cycle, whole communities gather at the cenote mouths through the night for **the Taq'tsuqalil**, the Calling of the Dead, to welcome the recently dead into the underworld, and they bring their children so the children grow up unafraid of the mouth of the world.
+In this theology, every cenote is at once a mouth of Ch'al Ts'umaq and the body of [[lore-xaqikhanaldty|Shaq'ik Ha'nal]], goddess of living waters, and the two priesthoods have settled city by city, over centuries and not without acrimony, which waters serve which rite on which nights. At the turning of the [Ts'uqal Cycle]{.name data-type="lore/calendar"}, whole communities gather at the cenote mouths through the night for **the [Taq'tsuqalil]{.name data-type="lore/custom"}**, the Calling of the Dead, to welcome the recently dead into the underworld, and they bring their children so the children grow up unafraid of the mouth of the world.
 
-The threshold was once guarded by [[lore-pikultzumaqdty|Pik'ul Ts'umaq]], the celestial owl, who concluded that the underworld was a trap rather than a passage and began pulling souls back out of it. The heretics who follow it, the [[affiliation-tzumaqkalanil|Serpent Awakeners]], can draw the newly dead back from Ch'al Ts'umaq, and they do; a soul reversed before its trials are done comes back damaged, and the damage cannot be undone.
+The threshold was once guarded by [[lore-pikultzumaqdty|Pik'ul Ts'umaq]], the celestial owl, who concluded that the underworld was a trap rather than a passage and began pulling souls back out of it. The heretics who follow it, the [[affiliation-tzumaqkalanil|Ts'umaq K'alanil]] (Serpent Awakeners), can draw the newly dead back from Ch'al Ts'umaq, and they do; a soul reversed before its trials are done comes back damaged, and the damage cannot be undone.
 
 ## See Also
 

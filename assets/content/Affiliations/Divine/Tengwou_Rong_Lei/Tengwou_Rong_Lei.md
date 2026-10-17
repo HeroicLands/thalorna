@@ -305,7 +305,7 @@ occurs to anyone that the god declined.
 
 ---
 
-## Hierarchy in Summary
+## Hierarchy in Summary {#hierarchy-in-summary}
 
 1.  **Tanzho**—The First Classifier. Not an administrator but the _principle of classification itself_. Does not hear petitions or manage bureaus. Exists as the cosmic authority from which all administrative legitimacy derives.
 2.  **Wéizhuo Daonéi**—The Jade Sovereign. Chief administrator of the celestial bureaucracy. Processes all inter-bureau business and maintains the master registry.

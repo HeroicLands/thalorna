@@ -17,4 +17,4 @@ He belongs to no one landscape. The [[lore-khelathiclt|Khelathi]] understand him
 
 To worship him is to acknowledge that not all divine power flows through gentle channels, and that his tempests remind people nature runs on its own logic and not on human convenience. His worship is solemn and formal, with constant awareness of invoking a dangerous power, and his temples stand on high ground where lightning is likeliest to fall.
 
-The priesthoods of Chaq'ur and [[lore-qearetdty|Qe'aret]] are on tense terms, and the quarrel is doctrinal. A storm-god's lightning strikes the just and the unjust alike, which Qe'aret's priests hold to be an insult to the scale.
+The priesthoods of Chaq'ur and [[lore-qearetdty|Qe'aret]] are on tense terms, and the quarrel is doctrinal. Lightning attributed to the storm-god strikes the just and the unjust alike, which Qe'aret's priests hold to be an insult to the scale.

@@ -51,15 +51,15 @@ sohl: {system: {commonSkills: [vyahrati, sohl-sohl-skill-agri]}}
 - **Pronunciation:** _VYAH-hrah-tee_
 - **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
 
-"Not the whole garland. Just what has faded." A woman who keeps the alcove beside a louder god's temple says it to the child sent to empty the household's flowers into her bowl, and shows her where the faded ones begin. [[lore-vyahratidty|Vahrati]]'s veneration is small and quiet. Her shrines are modest alcoves beside the larger temples of other Varnakan gods, her formal priesthood is few, and her rites are kept in every household. She is venerated for her necessity.
+"Not the whole garland. Just what has faded." A woman who keeps the alcove beside a louder god's temple says it to the child sent to empty the household's flowers into her bowl, and shows her where the faded ones begin. Vahrati, the veneration of [[lore-vyahratidty|Vahrati]], is small and quiet. Her shrines are modest alcoves beside the larger temples of other Varnakan gods, her formal priesthood is few, and her rites are kept in every household. She is venerated for her necessity.
 
-Vahrati is the goddess of endings and of the quiet change by which what has reached its term gives itself back to the world. Without decay there is no soil, and without endings there are no beginnings. A house, a garden and a soul all turn stale when what must be released is not released. [[affiliation-rasikara|Rasikara]] breaks what will not yield, and Vahrati receives what yields of itself.
+Vahrati is the goddess of endings and of the quiet change by which what has reached its term gives itself back to the world. Without decay there is no soil, and without endings there are no beginnings. A house, a garden and a soul all turn stale when what must be released is not released. In Varnakan theology, [[lore-rasikaradty|Rasikara]] breaks what will not yield, and Vahrati receives what yields of itself.
 
 ### What You See at Her Alcoves
 
 She is pictured as a serene older woman crowned with wilting blossoms and not fresh ones, holding a shallow bowl into which petals and dew are gathered. Her presence is quiet and unhurried. Her colors are the bronze of autumn and the soft violet of deep twilight.
 
-Three objects carry the cult. **The Petal Bowl** is a small shallow bowl kept in every Vyahratan household shrine, and the faded flowers of each day are placed in it. **The Dew-Phial** is a small glass phial of dew-water, gathered at the autumn equinox and used in the **Rite of Releasing**. The withered garland is deliberately wilted and worn at the rites of decay, as a sign of willing acceptance.
+Three objects carry the cult. **The Petal Bowl** is a small shallow bowl kept in every Vyahratan household shrine, and the faded flowers of each day are placed in it. **The Dew-Phial** is a small glass phial of dew-water, gathered at the autumn equinox and used in the **[Rite of Releasing]{.name data-type="lore/custom"}**. The withered garland is deliberately wilted and worn at the rites of decay, as a sign of willing acceptance.
 
 ### What the Devout Do
 
@@ -69,8 +69,8 @@ A household passing through a change of state sets out withered flowers at its t
 
 ### Ordeals for Favor
 
-- **The Year of Gentle Release**—a year receiving at a temple garden whatever is brought for composting (kitchen waste, household refuse, the petals of weddings and funerals) and returning each to the ground with the proper rite.
-- **The Walk of the Empty House**—three days of silent witness inside a house emptied by death or dissolution, before the property passes to its new keeping.
+- **[The Year of Gentle Release]{.name data-type="lore/custom"}**—a year receiving at a temple garden whatever is brought for composting (kitchen waste, household refuse, the petals of weddings and funerals) and returning each to the ground with the proper rite.
+- **[The Walk of the Empty House]{.name data-type="lore/custom"}**—three days of silent witness inside a house emptied by death or dissolution, before the property passes to its new keeping.
 
 ### See Also
 

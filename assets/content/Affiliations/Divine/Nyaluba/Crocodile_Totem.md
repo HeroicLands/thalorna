@@ -57,7 +57,7 @@ data:
 sohl: {system: {commonSkills: [crocodilekolembozisprt]}}
 ---
 
-The **Crocodile Totem** is the guide of the [[affiliation-nylbtrblntn|Kolembozi]], the river-people of the eastern wetlands. Of the five guides it is the one most often **appeased** rather than venerated—approached with exact observance and formal gift, its protocols followed without error, because the river-spirits of Kolembozi country are numerous and unforgiving and the crocodile is first among them.
+The **Crocodile Totem** centers on the [[lore-crocodilekolembozispr|Crocodile Spirit]], the guide of the [[affiliation-nylbtrblntn|Kolembozi]], the river-people of the eastern wetlands. Of the five guides it is the one most often **appeased** rather than venerated—approached with exact observance and formal gift, its protocols followed without error, because the river-spirits of Kolembozi country are numerous and unforgiving and the crocodile is first among them.
 
 The Kolembozi maintain the most elaborate shamanic practice of any Nyáluba clan, and it is the crocodile that requires it. Their _kwendari zohiring_ are sought across the savannahs for matters of judgment, healing, and the negotiation of difficult spirits, and their standing rests on a simple demonstration: they deal daily with a guide that kills, and they keep their people alive doing it.
 

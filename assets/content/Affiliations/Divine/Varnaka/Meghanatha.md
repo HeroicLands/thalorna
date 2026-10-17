@@ -55,9 +55,9 @@ sohl:
 - **Pronunciation:** _MEG-ha-nah-tha_
 - **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
 
-"When you hear the first drum, you grab the biggest pot you own and a spoon, and you hit it as hard as you can." The priest who keeps the drum at a coastal village temple says it to the new schoolmaster's family in the last dry week, with a grin that tells them he means it. He is also telling them something about the god. [[lore-meghanathadty|Meghonata]] is not gentle, and his rites are the frank bargaining of a people whose prosperity rides on the weather. The drums are loud, the festivals are raucous, and the clergy are forthright to a degree that more decorous traditions find uncomfortable.
+"When you hear the first drum, you grab the biggest pot you own and a spoon, and you hit it as hard as you can." The priest who keeps the drum at a coastal village temple says it to the new schoolmaster's family in the last dry week, with a grin that tells them he means it. He is also telling them something about the god. The devotion known as Meghonata honors [[lore-meghanathadty|Meghonata]], who is not gentle, and his rites are the frank bargaining of a people whose prosperity rides on the weather. The drums are loud, the festivals are raucous, and the clergy are forthright to a degree that more decorous traditions find uncomfortable.
 
-He is revered throughout [[place-vedyarargn|Vedyara Region]], most of all along the coasts and in the river-valleys, and he protects those who live at the mercy of the sky: the farmer waiting on the rains, the fisherman at sea, and the traveler whose road the great storms cut. His anger can destroy a village in a night, and his favor can keep a region prosperous for a generation.
+He is revered throughout the [[place-vedyarargn|Vedyara Region]], most of all along the coasts and in the river-valleys, and is held to protect those who live at the mercy of the sky: the farmer waiting on the rains, the fisherman at sea, and the traveler whose road the great storms cut. In the devotion's teaching, his anger can destroy a village in a night, and his favor can keep a region prosperous for a generation.
 
 ### What You See at His Temples
 
@@ -73,9 +73,9 @@ Sailors and caravan-masters bless their craft and their beasts with a palmful of
 
 ### Ordeals for Favor
 
-- **The Storm Watch**—the devotee stands atop a high place during the passage of a named storm, sounding a hand-drum through the worst of the rain and wind.
-- **The Fisher's Voyage**—a voyage undertaken in the first days of the monsoon, on a fishing boat the devotee has helped to build.
-- **The Silent Year of Thunder**—a year in which the devotee speaks only the chants of the temple, and only while the drum is sounding.
+- **[The Storm Watch]{.name data-type="lore/custom"}**—the devotee stands atop a high place during the passage of a named storm, sounding a hand-drum through the worst of the rain and wind.
+- **[The Fisher's Voyage]{.name data-type="lore/custom"}**—a voyage undertaken in the first days of the monsoon, on a fishing boat the devotee has helped to build.
+- **[The Silent Year of Thunder]{.name data-type="lore/custom"}**—a year in which the devotee speaks only the chants of the temple, and only while the drum is sounding.
 
 ### See Also
 

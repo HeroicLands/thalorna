@@ -53,9 +53,9 @@ sohl: {system: {commonSkills: [rasikara, sohl-sohl-skill-srvl]}}
 - **Pronunciation:** _RAH-see-kah-rah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
 
-"Carry the ember in with both hands and do not stop on the way. It came off your hearth, and it has one place to gho." The keeper of a cremation ground says this to a young man about to light his father's pyre, and says it flatly, as a man tells a newcomer where to put his feet. [[lore-rasikaradty|Rasikara]]'s cult is not comfortable, and its keepers do not pretend it is. Its shrines stand at a city's edge and at its cremation grounds, and its devotees are ascetics, warriors, healers of wasting diseases and the keepers of the cremation-fires.
+"Carry the ember in with both hands and do not stop on the way. It came off your hearth, and it has one place to gho." The keeper of a cremation ground says this to a young man about to light his father's pyre, and says it flatly, as a man tells a newcomer where to put his feet. The devotion called Rasikara honors [[lore-rasikaradty|Rasikara]], and its cult is not comfortable. Its keepers do not pretend it is. Its shrines stand at a city's edge and at its cremation grounds, and its devotees are ascetics, warriors, healers of wasting diseases and the keepers of the cremation-fires.
 
-Rasikara is the god of fire and of the change fire compels, the burning that strips away corruption and the kindling that starts new growth. [[affiliation-mahajaya|Mahajaya]] preserves and [[affiliation-vyalendra|Vyalendra]] shapes; Rasikara breaks. The Varnakan faith holds the breaking sacred, and he is venerated for courage: the courage to meet what must be destroyed with the fire proper to the task. The [[affiliation-trimurtisampradaya|Triyanga-sampradeya]] keeps him in balance with the other two forms, and the [[affiliation-agnipantha|Agmi-pantra]] carries his purification onto the road.
+In Varnakan theology, Rasikara is the god of fire and of the change fire compels, the burning that strips away corruption and the kindling that starts new growth. [[lore-mahajayadty|Mahajaya]] preserves and [[lore-vyalendradty|Vyalendra]] shapes; Rasikara breaks. The Varnakan faith holds the breaking sacred, and he is venerated for courage: the courage to meet what must be destroyed with the fire proper to the task. The [[affiliation-trimurtisampradaya|Triyanga-sampradeya]] keeps him in balance with the other two forms, and the [[affiliation-agnipantha|Agmi-pantra]] carries his purification onto the road.
 
 ### What You See at His Shrines
 
@@ -71,9 +71,9 @@ Rasikaran households keep an unbroken hearth-flame, carried forward from parent 
 
 ### Ordeals for Favor
 
-- **The Walk of Coals**—the devotee walks barefoot across a bed of coals drawn from a consecrated fire. An inch of uninjured skin is a sign of the god's favor, and a burn is a sign of the work yet to be done.
-- **The Vigil in Ashes**—a three-day fast beside the cooling ashes of a cremation, meditating on the transformation the fire has performed.
-- **The Firebrand's Year**—a year spent in itinerant service, carrying a lit torch from settlement to settlement and kindling purgation-fires wherever asked.
+- **[The Walk of Coals]{.name data-type="lore/custom"}**—the devotee walks barefoot across a bed of coals drawn from a consecrated fire. An inch of uninjured skin is a sign of the god's favor, and a burn is a sign of the work yet to be done.
+- **[The Vigil in Ashes]{.name data-type="lore/custom"}**—a three-day fast beside the cooling ashes of a cremation, meditating on the transformation the fire has performed.
+- **[The Firebrand's Year]{.name data-type="lore/custom"}**—a year spent in itinerant service, carrying a lit torch from settlement to settlement and kindling purgation-fires wherever asked.
 
 ### See Also
 

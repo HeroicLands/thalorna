@@ -8,4 +8,4 @@ tags: [draft]
 data: {packFolder: deitiestengwouronglei, culture: tantsouclt}
 ---
 
-Tanzho is the First Classifier of the [[affiliation-tengwouronglei|Téngwou Rong Lei]]. He set the categories the celestial bureaucracy sorts the world into. His standing is recorded in the [[affiliation-tanzho|Tanzho]] affiliation.
+Tanzho is the First Classifier of the [[affiliation-tengwouronglei|Téngwou Rong Lei]]. He is said to have set the categories the celestial bureaucracy sorts the world into. His standing is recorded in the [[affiliation-tanzho|Tanzho]] affiliation.

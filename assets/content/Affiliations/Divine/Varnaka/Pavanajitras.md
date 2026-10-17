@@ -51,7 +51,7 @@ sohl: {system: {commonSkills: [pavanajitras, sohl-sohl-skill-srvl, sohl-sohl-ski
 - **Pronunciation:** _PAH-vah-nah-jee-trahs_
 - **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
 
-"A coin if you have one, a pinch of millet if you do not, and a scrap of cloth on the tree if you have neither." The keeper of a crossroads shrine says it to a carter who has pulled up only to ask the way. The [[lore-pvnjtrsdty|Pavanajitras]] are the **Wandering Wind**, a company of minor wind-spirits who guide travelers, carry merchant-ships before favorable gales and whisper the road's omens to those who have learned to listen.
+"A coin if you have one, a pinch of millet if you do not, and a scrap of cloth on the tree if you have neither." The keeper of a crossroads shrine says it to a carter who has pulled up only to ask the way. The devotion called Pavanajitras honors the [[lore-pvnjtrsdty|Pavanajitras]], the **Wandering Wind**, a company of minor wind-spirits who guide travelers, carry merchant-ships before favorable gales and whisper the road's omens to those who have learned to listen.
 
 They are not gods in the full sense. They stand between the celestial deities of the Varnuka and the local spirits of the land, and the Varnuka revere them as exactly that. Their cult is wherever travelers meet: the crossroads shrine, the caravanserai altar, and the small chapels at harbor-mouths and at the passes of the high roads. The devotion is simple, widely observed and enormously popular. Few Vedyarans undertake a long journey without leaving a coin or a pinch of millet at a Pavanajitran shrine, and fewer still arrive safely without leaving one at the other end.
 
@@ -67,8 +67,8 @@ The Pavanajitras are honored everywhere by gesture and at no fixed household shr
 
 ### Ordeals for Favor
 
-- **The Pilgrim's Year**—the devotee travels continuously for a year, visiting every Pavanajitran shrine within a named region and keeping a record of the offerings left.
-- **The Silent Caravan**—the devotee accompanies a merchant caravan through its full season, speaking only the ceremonial words of the rites and serving the company as directed.
+- **[The Pilgrim's Year]{.name data-type="lore/custom"}**—the devotee travels continuously for a year, visiting every Pavanajitran shrine within a named region and keeping a record of the offerings left.
+- **[The Silent Caravan]{.name data-type="lore/custom"}**—the devotee accompanies a merchant caravan through its full season, speaking only the ceremonial words of the rites and serving the company as directed.
 
 ### See Also
 

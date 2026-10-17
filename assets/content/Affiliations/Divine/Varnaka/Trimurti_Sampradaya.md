@@ -84,15 +84,15 @@ sohl:
 - **Pronunciation:** _Tri-MOOR-tee sum-pra-DAH-yah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
 
-"Before you ask the council for anything, come and ask us," an **Achorya** tells the shrena clerk who has come to the temple with a plan for a new water-gate. "We do not decide your gate. We tell you which chamber to bring it to, and whether it will be blessed when the shovels gho in." The clerk had come for a signature and has been given a lesson in how the city works. In [[affiliation-vyalendra2|Vyalendra]] the senior priest of the Triyanga temple sanctions the Council's acts, and a decision the temples will not sanction does not take effect, so the Council has learned to ask beforehand.
+"Before you ask the council for anything, come and ask us," an **Achorya** tells the shrena clerk who has come to the temple with a plan for a new water-gate. "We do not decide your gate. We tell you which chamber to bring it to, and whether it will be blessed when the shovels gho in." The clerk had come for a signature and has been given a lesson in how the city works. In [[affiliation-vyalendra2|Vyalendra City-State]] the senior priest of the Triyanga temple sanctions the Council's acts, and a decision the temples will not sanction does not take effect, so the Council has learned to ask beforehand.
 
-It is the largest and most orthodox of the Varnakan schools. For most Vedyarans the word "Varnuka" and the word "Triyanga" are almost interchangeable. It is the tradition of the great city-temples and the royal courts. Its calendar sets the public year, its high priests advise the city councils, and its rites are invoked at every civic occasion of consequence.
+Triyanga-sampradeya is the largest and most orthodox of the Varnakan schools. For most Vedyarans the word "Varnuka" and the word "Triyanga" are almost interchangeable. It is the tradition of the great city-temples and the royal courts. Its calendar sets the public year, its high priests advise the city councils, and its rites are invoked at every civic occasion of consequence.
 
 ### The Doctrine of Three Forms
 
-The doctrine is the _triyanga_ itself, the three bodies of one divine work. [[affiliation-vyalendra|Vyalendra]]'s shaping, [[affiliation-mahajaya|Mahajaya]]'s preserving and [[affiliation-rasikara|Rasikara]]'s transforming are three aspects of one divine work. No aspect is lesser, and none is complete without the other two. Devotion to any one of the three carries the others in observance.
+The doctrine is the _triyanga_ itself, the three bodies of one divine work. [[lore-vyalendradty|Vyalendra]]'s shaping, [[lore-mahajayadty|Mahajaya]]'s preserving and [[lore-rasikaradty|Rasikara]]'s transforming are three aspects of one divine work. No aspect is lesser, and none is complete without the other two. Devotion to any one of the three carries the others in observance.
 
-The lesser gods are honored as occasion calls. Nobody neglects [[affiliation-kalavrata|Kalavrata]] at a death or [[affiliation-meghanatha|Meghonata]] at the onset of the monsoon, and the backbone of practice is the triad.
+The lesser gods are honored as occasion calls. Nobody neglects [[lore-kalavratadty|Kalavrata]] at a death or [[lore-meghanathadty|Meghonata]] at the onset of the monsoon, and the backbone of practice is the triad.
 
 Its temples are large three-chambered complexes, each chamber given over to one of the three forms. In the greatest of them the proportions carry the doctrine: the central chamber holds the form most beloved of the city's founding, and the other two stand in balanced wings.
 
@@ -104,35 +104,35 @@ A **Sevoka** ("Servant") is an acolyte or assistant, who trains at least five ye
 
 ### Rites and Festivals
 
-The **Morning of the Three** is the daily opening rite at a temple: each chamber is opened in turn, its form is greeted in the proper formula, and the day's first offering is shared among the three. The **Triple Blessing** is performed at every civic opening, groundbreaking and seasonal transition, when the three Acharyas (or their deputies) speak the formulas of shaping, preserving and transforming in sequence.
+**[The Morning of the Three]{.name data-type="lore/custom"}** is the daily opening rite at a temple: each chamber is opened in turn, its form is greeted in the proper formula, and the day's first offering is shared among the three. **[The Triple Blessing]{.name data-type="lore/custom"}** is performed at every civic opening, groundbreaking and seasonal transition, when the three Acharyas (or their deputies) speak the formulas of shaping, preserving and transforming in sequence.
 
-The **Sealing of the Triad** is an annual rite at each temple in which the three forms are ceremonially reconciled after the year's observances, and the Triyacharya resolves any friction between their partisans. The **Consecration of a City** is performed at the founding of a new settlement or the rebuilding of one destroyed, and a temple of the three forms is dedicated in a single rite that may last a full season.
+**[The Sealing of the Triad]{.name data-type="lore/custom"}** is an annual rite at each temple in which the three forms are ceremonially reconciled after the year's observances, and the Triyacharya resolves any friction between their partisans. **[The Consecration of a City]{.name data-type="lore/custom"}** is performed at the founding of a new settlement or the rebuilding of one destroyed, and a temple of the three forms is dedicated in a single rite that may last a full season.
 
-The **Procession of the Three** is a week-long festival at midsummer in every Vedyaran city where a Triyanga temple stands. A procession of each form moves through the streets, and all converge at the central temple for a combined dedication. The **Reconciliation of the Year** falls at the winter solstice: community disputes left unresolved are brought before the Triyacharya, who mediates with the three forms as witnesses.
+**[The Procession of the Three]{.name data-type="lore/gathering"}** is a week-long festival at midsummer in every Vedyaran city where a Triyanga temple stands. A procession of each form moves through the streets, and all converge at the central temple for a combined dedication. **[The Reconciliation of the Year]{.name data-type="lore/gathering"}** falls at the winter solstice: community disputes left unresolved are brought before the Triyacharya, who mediates with the three forms as witnesses.
 
 ### Ordeals for Favor
 
-- **The Triple Year**—three successive years of service, one in each form's chamber, with the aspirant required to keep the full liturgical calendar of each.
-- **The Architect's Ordeal**—the aspirant designs and helps construct a small three-chambered shrine in a place that lacks one, with no assistance from other clergy and no payment from the community.
+- **[The Triple Year]{.name data-type="lore/custom"}**—three successive years of service, one in each form's chamber, with the aspirant required to keep the full liturgical calendar of each.
+- **[The Architect's Ordeal]{.name data-type="lore/custom"}**—the aspirant designs and helps construct a small three-chambered shrine in a place that lacks one, with no assistance from other clergy and no payment from the community.
 
 ### Orders
 
-The **Order of the Balanced Temple** is the senior administrative order of the sect, which adjudicates disputes between temples and sets the liturgical calendar. The **Council of the Triyacharyas** is its ruling council, made up of the senior Triyacharya of each great Vedyaran city.
+The **[Order of the Balanced Temple]{.name data-type="affiliation/order"}** is the senior administrative order of the sect, which adjudicates disputes between temples and sets the liturgical calendar. The **[Council of the Triyacharyas]{.name data-type="affiliation/governmental"}** is its ruling council, made up of the senior Triyacharya of each great Vedyaran city.
 
 ### The Council of the Triyacharyas
 
-The Council decides which practices may be worked in the open, in a god's name, before people who did not ask to be present. It teaches no practice of its own. It is also, by an authority nobody granted it and nobody has successfully contested, the licensing authority for public working throughout [[place-vedyarargn|Vedyara]].
+The Council decides which practices may be worked in the open, in a god's name, before people who did not ask to be present. It teaches no practice of its own. It is also, by an authority nobody granted it and nobody has successfully contested, the licensing authority for public working throughout the [[place-vedyarargn|Vedyara Region]].
 
 _The rule it enforces is the school rule._ A Varnakan ordains into a school and never to a god. A working done inside a school is the school's business, and the Council's only if the school asks. A working done outside every school is folk magic: the village charm, the herb-woman, the knot against a fever. The Council tolerates it completely, on the understanding that it claims nothing. A working done outside every school _in a god's name_ is neither, and the answer to it is **Patuta**. The working is stopped, the worker is put out of Varnakan observance, and the face is branded. Every house and school recognizes the brand. The sentence can be forgiven, and the forgiven person carries proof of the forgiveness for the rest of their life.
 
 That single rule is why Vedyara looks, to an outsider, as though its priests hold a monopoly on power they have never actually claimed. What they hold is a monopoly on speaking for a god, which is a smaller thing and a much more defensible one.
 
-**What it licenses.** The [[affiliation-thresholdkeepers|Threshold-keepers]] hold their license from the Council and their warrants from the polities, and the Council has never issued a license for a third use beyond inheritance and unwitnessed killing. The [[affiliation-passshrineushtakas|Pass-Shrine Ushtakas]] are licensed without ever having been examined, and for as long as anyone can find a record of the question, the Council has declined to send anyone up to examine them.
+**What it licenses.** [[affiliation-thresholdkeepers|The Threshold-keepers]] hold their license from the Council and their warrants from the polities, and the Council has never issued a license for a third use beyond inheritance and unwitnessed killing. [[affiliation-passshrineushtakas|The Pass-Shrine Ushtakas]] are licensed without ever having been examined, and for as long as anyone can find a record of the question, the Council has declined to send anyone up to examine them.
 
-**What it condemns without pursuing.** The [[affiliation-chayavrata|Chaya-vreta]] works outside the schools and in no god's name at all, which is exactly what makes the sanction unusable: the vow claims nothing, so there is nothing to strike at. The Council states the condemnation and leaves the pursuit to courts that cannot find anyone to try.
+**What it condemns without pursuing.** [[affiliation-chayavrata|The Chaya-vreta]] works outside the schools and in no god's name at all, which is exactly what makes the sanction unusable: the vow claims nothing, so there is nothing to strike at. The Council states the condemnation and leaves the pursuit to courts that cannot find anyone to try.
 
-**What it has no reach over.** The [[affiliation-ganakashala|Ganoka-shalda]] computes and does not work, and the Council has no ground to license a calculation. The two bodies disagree about the year instead, and the disagreement is durable because authority cannot resolve it. The Council sights the year at the [[place-suryatempl|Surva temple]], the college computes it, the figures differ by a day often enough to matter, and each court declares which it follows.
+**What it has no reach over.** The [[affiliation-ganakashala|Ganoka-shalda]] computes and does not work, and the Council has no ground to license a calculation. The two bodies disagree about the year instead, and the disagreement is durable because authority cannot resolve it. The Council sights the year at [[place-suryatempl|The Surva temple]], the college computes it, the figures differ by a day often enough to matter, and each court declares which it follows.
 
 ### Geographic Presence
 
-The Triyanga-sampradeya is the dominant school throughout the city-states of [[place-vedyarargn|Vedyara Region]] and along the major river-valleys. It is less influential in the uplands and in the more remote villages, where older folk traditions and minor sects persist. Its greatest temples stand at the capitals of the large city-states, where the school is inseparable from civic authority.
+The Triyanga-sampradeya is the dominant school throughout the city-states of Vedyara and along the major river-valleys. It is less influential in the uplands and in the more remote villages, where older folk traditions and minor sects persist. Its greatest temples stand at the capitals of the large city-states, where the school is inseparable from civic authority.

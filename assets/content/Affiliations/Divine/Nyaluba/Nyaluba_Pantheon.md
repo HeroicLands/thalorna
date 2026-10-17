@@ -71,17 +71,17 @@ sohl: {system: {commonSkills: [griot, nyalbdrm]}}
 - **Region:** [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] (southern [[place-xerathia|Zerathia]])
 - **Principal language:** [[skill-nyalbnlng|Nyáluban]]
 
-The religious tradition of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] is not a pantheon,
-and the Nyáluba would not use the word. There is no council of named deities with defined
+The Nyáluba Pantheon—the religious tradition of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—
+is not a pantheon in Nyáluba understanding, and the Nyáluba would not use the word. There is no council of named deities with defined
 portfolios, no ordered hierarchy of gods, and no priesthood serving a unified creed. It is a
 **shamanic tradition**, and it is built in three layers.
 
-Above everything is a single diffuse source: [[lore-shorinyadty|Shorinya Ndafo]], the Great
+In this tradition, above everything is a single diffuse source: [[lore-shorinyadty|Shorinya Ndafo]], the Great
 Brightness, from which all spirits emerged and into which all will return. It receives nothing.
 No offering is made to it, no song is sung to it, and no shrine houses it. It is acknowledged,
 not venerated.
 
-Beneath it are the [[lore-nyalbsprts|spirit guides]]—totem, land, water, hunt, weather,
+Beneath it are the [[lore-nyalbsprts|Nyáluba Spirits]]—spirit guides of totem, land, water, hunt, weather,
 ancestor and hearth—and it is the guides, not the source, that religious life is directed at.
 Each is **venerated, appeased, or warded against** according to its character. Every clan holds
 standing pacts with the guides whose territory or lineage overlaps its own.
@@ -125,7 +125,7 @@ function is distributed across four roles, and individuals commonly hold more th
   standing pacts, and the songs that mark every significant occasion. A people who do not write
   keep their entire record in this office.
 - **Drum-speakers**—trained in the long-distance drum register of the
-  [[skill-nyalbnlng|Nyáluban tongue]]. They call a clan to assembly, summon a distant shaman, and
+  [[skill-nyalbnlng|Nyáluban Language]]. They call a clan to assembly, summon a distant shaman, and
   carry announcement across many miles; in religious life they keep the ceremonial drumming
   without which the rites do not begin.
 - **Spirit-Speakers** (_kwendari zohiring_, "teachers of the spirit")—those taken through the
@@ -137,19 +137,19 @@ function is distributed across four roles, and individuals commonly hold more th
 There is no hierarch and no single voice. Where the tradition must decide something, a council of
 Spirit-Speakers and Elder Shamans decides it, the elders' word carrying the greater weight, and
 consensus is sought rather than imposed. Where the tradition must decide something that touches
-all five clans, it goes instead to the Great Lubemo, which is a political body and not a
+all five clans, it goes instead to the [Great Lubemo]{.name data-type="affiliation/governmental"}, which is a political body and not a
 religious one.
 
 ### Relationship to Other Faiths
 
 Northern contact with the Okharik worship of [[affiliation-nkaruthar|Nkaru'thar]] has produced
-overlaps in the vocabulary of shamanism—the Spirit Hunt, the _kwendari zohiring_, the
-Ashmark-adjacent purification rites—but the foundations differ. Where the Okharik faith centers
+overlaps in the vocabulary of shamanism—the [Spirit Hunt]{.name data-type="lore/custom"}, the _kwendari zohiring_, the
+[Ashmark]{.name data-type="lore/custom"}-adjacent purification rites—but the foundations differ. Where the Okharik faith centers
 on a singular Eternal Flame whose aspects the city-states embody, the Nyáluba Way is plural,
 lineage-bound, and oriented to the specific territory of each clan.
 
 Contact with the major Ankarian pantheons—[[affiliation-khelathpnthn|Khelathi Pantheon]] solar worship to
-the north, the [[affiliation-arldnpnthn|Aureldian]] faith of the western trade cities—has
+the north, the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] in the western trade cities—has
 produced no syncretism. Nyáluba traders conduct themselves respectfully in foreign temples as
 courtesy demands, but do not take foreign gods into their own religious life. Those gods are
 understood as the spirits of other peoples, bound to other lands.

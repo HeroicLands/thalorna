@@ -15,9 +15,9 @@ His great cult sits in the eastern marsh among the river-beast hunters. He is pa
 
 The working out of the tension is visible in [[affiliation-zeghetnelgu|Zeghet'Nelgu]], whose sacred hunt culls the river-beasts under temple dispensation and commends every kill to the river god for judgment.
 
-The crocodile is the god's creature and not the god. A cull is therefore a service commended to him under a rite, and the dispensation under which [[affiliation-zeghetnelgu|Zeghet'Nelgu]] hunts governs the manner of killing, not the killing itself.
+The crocodile is the god's creature and not the god. A cull is therefore a service commended to him under a rite, and the dispensation under which Zeghet'Nelgu hunts governs the manner of killing, not the killing itself.
 
-On one stretch of the Zumelesh the same god is held under a noble family's charter and goes by the name [[lore-igelnarudty|Igelnaru]].
+On one stretch of [[place-zumeleshrvr|The Zumelesh]] the same god is held under a noble family's charter and goes by the name [[lore-igelnarudty|Igelnaru]].
 
 ## See Also
 

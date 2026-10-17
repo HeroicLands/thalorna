@@ -10,9 +10,9 @@ data: {packFolder: deitiesvarnaka, culture: vedyariclt}
 
 _The Flame of Renewal—a lean, burning figure standing within a ring of broken chains._
 
-Rasikara is fire and the change fire compels. He is the burning that strips corruption away and the kindling that starts new growth.
+In Vedyari theology, Rasikara is fire and the change fire compels. He is the burning that strips corruption away and the kindling that starts new growth.
 
-[[affiliation-mahajaya|Mahajaya]] preserves and [[affiliation-vyalendra|Vyalendra]] shapes; Rasikara breaks. Vedyari theology holds the breaking sacred. Without the forest-fire there is no green flush of new shoots, without the fever's crisis no end to the sickness, without the cremation no release of the soul from what it has been.
+In this theology, [[lore-mahajayadty|Mahajaya]] preserves and [[lore-vyalendradty|Vyalendra]] shapes; Rasikara breaks. Vedyari theology holds the breaking sacred. Without the forest-fire there is no green flush of new shoots, without the fever's crisis no end to the sickness, without the cremation no release of the soul from what it has been.
 
 He is venerated for courage and not for comfort. The courage asked is to meet what must be destroyed with the fire proper to the task, no more and no less.
 
@@ -20,6 +20,6 @@ A fire-brand of consecrated wood is carried in every rite of purging. A fragment
 
 Rasikaran households keep an unbroken hearth-flame, carried from parent to child at each marriage. To let it gho out is a grave omen. An ember from it lights the pyre at a death in the family.
 
-His shrines stand at a city's edge and at its cremation grounds, and not at its center. Two are named where his fire has gone specifically to work: the cremation shrine outside Danurkota, and the shrine at [[place-mukteshvara|Muktoshvara]], Rajepur's downstream village, which receives the dead of the janapoda.
+His shrines stand at a city's edge and at its cremation grounds, and not at its center. Two are named where his fire has gone specifically to work: the cremation shrine outside [[affiliation-dhnrktjnpd|Danurkota Janapoda]], and the shrine at [[place-mukteshvara|Muktoshvara]], [[affiliation-rajaprjnpd|Rajepur Janapoda]]'s downstream village, which receives the dead of the janapoda.
 
-At Suvarnageri a whole stream on the mountain's back slope is his and is never panned. Not every part of the mountain's wealth belongs to Mahajaya's order, and the stream says so.
+At [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]] a whole stream on the mountain's back slope is his and is never panned. Not every part of the mountain's wealth belongs to Mahajaya's order, and the stream says so.

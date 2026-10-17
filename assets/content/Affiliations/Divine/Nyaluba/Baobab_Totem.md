@@ -57,7 +57,7 @@ data:
 sohl: {system: {commonSkills: [baobablobwezisprt]}}
 ---
 
-The **Baobab Totem** is the guide of the [[affiliation-nylbtrblntn|Lobwezi]], the settled cultivators of the perennial-water districts—long-rootedness, the gathering-place, and the keeping of stories. The Lobwezi are the smallest of the five clans and the ritually senior one, because it is Lobwezi griots who carry the official memory of the Long Pact and the genealogies of all five clans. They speak last in any council, and what they say is generally remembered.
+The **Baobab Totem** centers on the [[lore-baobablobwezispr|Baobab Spirit]], the guide of the [[affiliation-nylbtrblntn|Lobwezi]], the settled cultivators of the perennial-water districts—long-rootedness, the gathering-place, and the keeping of stories. The Lobwezi are the smallest of the five clans and the ritually senior one, because it is Lobwezi griots who carry the official memory of the [Long Pact]{.name data-type="lore/law"} and the genealogies of all five clans. They speak last in any council, and what they say is generally remembered.
 
 Each Lobwezi town centers on an ancient tree—some a thousand years old or more—and the senior griot of the town is also that tree's custodian. The guide is unlike the other four in that it does not move and does not hunt. It holds a place, and the people gather in it. Where the lion is venerated for its bearing and the crocodile appeased for its hunger, the baobab is venerated for its patience, and for the fact that it was there before the clan and will be there after.
 

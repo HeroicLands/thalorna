@@ -14,11 +14,11 @@ Vahrati is endings, and the quiet change by which what has reached its term give
 
 Without decay, the theology holds, there is no soil, and without an ending no beginning. A house, a garden and a soul all turn stale in the keeping when what must be released is not released.
 
-[[affiliation-rasikara|Rasikara]] breaks what will not yield; Vahrati receives what yields of itself. Her worshippers count that gentleness her particular strength.
+In this theology, [[lore-rasikaradty|Rasikara]] breaks what will not yield; Vahrati receives what yields of itself. Her worshippers count that gentleness her particular strength.
 
-The petal bowl on the kitchen windowsill is the one shrine every household in Vedyara keeps, whatever its chief devotion. The day's faded garland goes into it, and a fallen leaf tracked in on a sandal, and a spent seed-head. Each month the bowl is emptied onto the compost with the formula of release.
+The petal bowl on the kitchen windowsill is the one shrine every household in the [[place-vedyarargn|Vedyara Region]] keeps, whatever its chief devotion. The day's faded garland goes into it, and a fallen leaf tracked in on a sandal, and a spent seed-head. Each month the bowl is emptied onto the compost with the formula of release.
 
-The dew-phial is a small glass vessel of water gathered at the autumn equinox and kept for the Rite of Releasing. A withered garland, wilted on purpose, is worn at rites of decay as a sign of willing acceptance. A household passing through a change of state, a child grown and gone, a partnership ended, a business sold, sets withered flowers at its threshold for a full day.
+The dew-phial is a small glass vessel of water gathered at the autumn equinox and kept for the [Rite of Releasing]{.name data-type="lore/custom"}. A withered garland, wilted on purpose, is worn at rites of decay as a sign of willing acceptance. A household passing through a change of state, a child grown and gone, a partnership ended, a business sold, sets withered flowers at its threshold for a full day.
 
 Her formal devotion asks little, and asks little of a devotee who wants more of it. One observance is a year received at a temple garden, taking in whatever is brought for composting and returning it to the ground with the proper rite. The other is three days of silent witness inside a house emptied by death or dissolution, before it passes to new keeping.
 

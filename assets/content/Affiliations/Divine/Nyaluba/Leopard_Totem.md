@@ -57,7 +57,7 @@ data:
 sohl: {system: {commonSkills: [leopardsengalasprt]}}
 ---
 
-The **Leopard Totem** is the guide of the [[affiliation-nylbtrblntn|Sengala]], the northern trade-tribe—stealth, patience, and solitude. The Sengala are the outward-facing clan: intermediaries with the rainforest peoples to the north and, through them, with civilizations the other four clans know only as rumor. They are the most polyglot of the Nyáluba and the most stratified, with a class of professional traders whose standing approaches a hereditary specialist caste, an arrangement the other clans regard with a mixture of admiration and unease.
+The **Leopard Totem** centers on the [[lore-leopardsengalaspr|Leopard Spirit]], the guide of the [[affiliation-nylbtrblntn|Sengala]], the northern trade-tribe—stealth, patience, and solitude. The Sengala are the outward-facing clan: intermediaries with the rainforest peoples to the north and, through them, with civilizations the other four clans know only as rumor. They are the most polyglot of the Nyáluba and the most stratified, with a class of professional traders whose standing approaches a hereditary specialist caste, an arrangement the other clans regard with a mixture of admiration and unease.
 
 The leopard suits them, and they say so. It is the guide that works alone, moves without being seen, waits as long as waiting takes, and is present in country it does not obviously hold. A Sengala trader far from the savannah is understood to be doing exactly what the guide does.
 

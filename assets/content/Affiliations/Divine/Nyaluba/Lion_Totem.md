@@ -57,11 +57,11 @@ data:
 sohl: {system: {commonSkills: [lionruwozisprt]}}
 ---
 
-The **Lion Totem** is the guide of the [[affiliation-nylbtrblntn|Ruwozi]], the cattle-herding clan of the central grasslands and the most numerous of the five. The Ruwozi do not admire the lion; they understand themselves to be _of_ it. They do not hunt lions, do not eat lion flesh, and are held to the bearing the guide embodies—courage, sovereignty, and challenge made in the open rather than from cover.
+The **Lion Totem** centers on the [[lore-lionruwozispr|Lion Spirit]], the guide of the [[affiliation-nylbtrblntn|Ruwozi]], the cattle-herding clan of the central grasslands and the most numerous of the five. The Ruwozi do not admire the lion; they understand themselves to be _of_ it. They do not hunt lions, do not eat lion flesh, and are held to the bearing the guide embodies—courage, sovereignty, and challenge made in the open rather than from cover.
 
 The lion is **venerated**, in the first of the tradition's three postures: honored with regular offering, greeted at the turning of the cattle-seasons, and sung of in the clan's memory-songs. It is not a god and is not worshipped. It is a kinsman whose kinship crosses both species and the border between the living and the spirit world.
 
-The guide holds a seniority the other four acknowledge without resenting, because the Long Pact was sworn in Ruwozi country, under a baobab, by Nyoli Ruwozi—and the lion was witness to it. That witness is why the Ruwozi paramount convenes the Great Lubemo and speaks last when consensus is sought.
+The guide holds a seniority the other four acknowledge without resenting, because the [Long Pact]{.name data-type="lore/law"} was sworn in Ruwozi country, under a baobab, by Nyoli Ruwozi—and the lion was witness to it. That witness is why the Ruwozi paramount convenes the [Great Lubemo]{.name data-type="affiliation/governmental"} and speaks last when consensus is sought.
 
 The cult's memory-song, [[lore-swearbaobab|The Swearing Under the Baobab]], holds the witness to a single word:
 

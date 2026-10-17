@@ -15,8 +15,8 @@ A master embalmer who has worked the drying beds for forty years will tell you t
 
 The symbol carries the argument. The jackal is a scavenger of the wild margins that moves through the night with quiet dignity, and the Khelathi see it as a participant in the natural cycle, a creature that knows bodies must return to the earth. The crescent moon is night and also renewal, the old becoming new.
 
-His domain and [[lore-wethurdty|Weth'ur]]'s divide cleanly. Hezmu'iri holds the physical process: the natron and the resins, the seventy days, the linen and the amulet at every joint. Weth'ur holds the soul's journey and the sanctity of the tomb.
+In temple theology, his domain and [[lore-wethurdty|Weth'ur]]'s divide cleanly. Hezmu'iri holds the physical process: the natron and the resins, the seventy days, the linen and the amulet at every joint. Weth'ur holds the soul's journey and the sanctity of the tomb.
 
 Nearly everyone will one day need his services, so he is honored more universally than almost any other god. That universality is also an industry, and it has made his priesthood one of the largest and most powerful in the empire.
 
-Hezmu'iri taught embalming once and left the technique to the families that keep it. He is present in the rite and not at the table.
+Temple tradition holds that Hezmu'iri taught embalming once and left the technique to the families that keep it. He is understood as present in the rite and not at the table.

@@ -11,7 +11,7 @@ _The River-God._
 
 "There is no temple to point you to," a river pilot of the southern reach tells a passenger who has asked where the god lives. "He lives in the water you are floating on."
 
-**Igelnaru** is the local name of [[lore-tjelsukdty|Tjelsur]] on one stretch of the [[place-zumeleshrvr|Zumelesh]], where the god is held under a noble family's charter. The sacred waters of its southern reach belong to the Halzi'a in law and to Igelnaru in spirit, and the difference is enforced: boundary shrines and sacred stones mark his reach, and unauthorized hunting or fishing inside them is punishable by death. Of the valley gods he is the odd one. He has no great temple and no Thaz'Lekhau of his own.
+**Igelnaru** is the local name of [[lore-tjelsukdty|Tjelsur]] on one stretch of [[place-zumeleshrvr|The Zumelesh]], where the god is held under a noble family's charter. The sacred waters of its southern reach belong to the Halzi'a in law and to Igelnaru in spirit, and the difference is enforced: boundary shrines and sacred stones mark his reach, and unauthorized hunting or fishing inside them is punishable by death. Of the valley gods he is the odd one. He has no great temple and no Thaz'Lekhau of his own.
 
 ## Who Carries the Cult
 

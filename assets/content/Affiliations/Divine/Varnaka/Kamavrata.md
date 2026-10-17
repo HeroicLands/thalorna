@@ -51,9 +51,9 @@ sohl: {system: {commonSkills: [kamavrata, sohl-sohl-skill-sing, sohl-sohl-skill-
 - **Pronunciation:** _KAH-mah-vrah-tah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
 
-"Sit down. Nobody here will ask you what you believe." The gardener-priest of a Kamavratan temple says this to the nervous young groom who has come to buy the garlands for his wedding, and puts a clipping from the lotus pond in his hand before he can answer. It is a fair introduction to the cult. [[lore-kamavratadty|Kamavrata]] is the most widely loved god in [[place-vedyarargn|Vedyara Region]], his shrines stand near gardens and rivers, and his festivals are among the most popular of the year. The clergy are famous for their welcome, and many people who would not call themselves Kamavratan keep one of his festivals anyway.
+"Sit down. Nobody here will ask you what you believe." The gardener-priest of a Kamavratan temple says this to the nervous young groom who has come to buy the garlands for his wedding, and puts a clipping from the lotus pond in his hand before he can answer. It is a fair introduction to Kamavrata, the cult of [[lore-kamavratadty|Kamavrata]], the most widely loved god in the [[place-vedyarargn|Vedyara Region]]. His shrines stand near gardens and rivers, and his festivals are among the most popular of the year. The clergy are famous for their welcome, and many people who would not call themselves Kamavratan keep one of his festivals anyway.
 
-He is the patron of lovers, the newly married and those hoping for a child, and also of poetry, music, dance, sculpture, the preparation of scented oils and the keeping of gardens. Where [[affiliation-vyalendra|Vyalendra]] gives the world its form, Kamavrata gives it its delight.
+He is the patron of lovers, the newly married and those hoping for a child, and also of poetry, music, dance, sculpture, the preparation of scented oils and the keeping of gardens. In Varnakan theology, where [[lore-vyalendradty|Vyalendra]] gives the world its form, Kamavrata gives it its delight.
 
 ### What You See at His Temples
 
@@ -67,8 +67,8 @@ Households hang fresh garlands on the doorpost each morning through spring and s
 
 ### Ordeals for Favor
 
-- **The Garden Year**—a year spent tending a temple garden from first planting to final harvest, undertaken by devotees seeking deeper mysteries.
-- **The Silent Flute**—a year lived by playing an instrument for whoever requests it, accepting only the food and shelter the listeners freely give.
+- **[The Garden Year]{.name data-type="lore/custom"}**—a year spent tending a temple garden from first planting to final harvest, undertaken by devotees seeking deeper mysteries.
+- **[The Silent Flute]{.name data-type="lore/custom"}**—a year lived by playing an instrument for whoever requests it, accepting only the food and shelter the listeners freely give.
 
 ### See Also
 

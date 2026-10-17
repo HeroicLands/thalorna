@@ -75,15 +75,15 @@ sohl:
 - **Seat:** [[place-pssshrines|The Pass-Shrines]]
 - **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
 
-The **Pass-Shrine Ushtakas** are a hereditary line of **Retuja** who keep the temples at the high points of the crossing roads. They are born to the work, they marry inside the line, their children are raised on the cols, and one of them who comes down to the plains at forty is an old man there.
+**The Pass-Shrine Ushtakas** are a hereditary line of **Retuja** who keep the temples at the high points of the crossing roads. They are born to the work, they marry inside the line, their children are raised on the cols, and one of them who comes down to the plains at forty is an old man there.
 
-They are the only body in [[place-vedyarargn|Vedyara]] that works a Varnuka rite where a lowland priest cannot breathe, and that fact settles almost everything else about them.
+They are the only body in the [[place-vedyarargn|Vedyara Region]] that works a Varnuka rite where a lowland priest cannot breathe, and that fact settles almost everything else about them.
 
 ### The Two Rites
 
 The weather-rite is [[affiliation-meghanatha|Meghonata]]'s, worked for what the mountain does rather than for what the monsoon does: the shift in the wind at the col, the hour the cloud comes up the valley, the night the snow begins in earnest. It is petition and not command, and a shrine that has worked it and been wrong says so in the register.
 
-The road-rite is the [[affiliation-pavanajitras|Pavanajitras]]', worked at a height where the [[affiliation-pavanajitras|Wandering Wind]] is not a figure of speech. A caravan takes it at the summit before it begins the descent and pays what it chooses. This is the one Varnuka practice the [[affiliation-osketguides|Osket]] and the [[affiliation-hvarnguides|Hvarn]] respect, and they respect it because they have watched it work in weather they know better than anyone alive.
+The road-rite is the [[affiliation-pavanajitras|Pavanajitras]]', worked at a height where, in the keepers' understanding, [[lore-pvnjtrsdty|Pavanajitras]], the Wandering Wind, are not a figure of speech. A caravan takes it at the summit before it begins the descent and pays what it chooses. This is the one Varnuka practice [[affiliation-osketguides|The Osket]] and [[affiliation-hvarnguides|The Hvarn]] respect, and they respect it because they have watched it work in weather they know better than anyone alive.
 
 ### The Refusal
 
@@ -93,7 +93,7 @@ The shrines also refuse to bless certain days that no almanac marks, and they wi
 
 ### Orthodoxy, and What Is Done Anyway
 
-Their orthodoxy is exact and their practice is not. A great deal of what is done at a Pass-Shrine has no warrant in any text a lowland academy would accept—the fire-watch through the closed months, the count of the dead kept by name on the cistern wall, the refusals. The [[affiliation-trimurtisampradaya|Council of the Triyacharyas]] has never pressed the point, and the reason is the reason it always is: these are the only priests willing to do the job.
+Their orthodoxy is exact and their practice is not. A great deal of what is done at a Pass-Shrine has no warrant in any text a lowland academy would accept—the fire-watch through the closed months, the count of the dead kept by name on the cistern wall, the refusals. The [Council of the Triyacharyas]{.name data-type="affiliation/governmental"} ([[affiliation-trimurtisampradaya|Triyanga-sampradeya]]) has never pressed the point, and the reason is the reason it always is: these are the only priests willing to do the job.
 
 ### See Also
 

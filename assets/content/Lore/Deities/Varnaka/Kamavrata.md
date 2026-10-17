@@ -8,11 +8,11 @@ tags: []
 data: {packFolder: deitiesvarnaka, culture: vedyariclt}
 ---
 
-_[[affiliation-kamavrata|The Celestial Lover]]—a youth garlanded with flowers, a sugarcane bow strung with five flower-arrows._
+_The Celestial Lover—a youth garlanded with flowers, a sugarcane bow strung with five flower-arrows._
 
-[[affiliation-kamavrata|Kamavrata]] is desire and the creative joy that issues from it. He is the god of lovers, of the newly married and of those hoping for a child. He is also the god of poetry, music, dance, sculpture, the preparation of scented oils and the keeping of gardens, the arts by which the beauty of the world is drawn out and celebrated.
+In Vedyari theology, Kamavrata is desire and the creative joy that issues from it. He is the god of lovers, of the newly married and of those hoping for a child. He is also the god of poetry, music, dance, sculpture, the preparation of scented oils and the keeping of gardens, the arts by which the beauty of the world is drawn out and celebrated.
 
-The pantheon reckons his work the counterpart of [[affiliation-vyalendra|Vyalendra]]'s. Vyalendra gives the world its form and Kamavrata gives it its delight. Vedyari theology holds the two necessary to each other, and no worshipper is asked to choose between them.
+The pantheon reckons his work the counterpart of [[lore-vyalendradty|Vyalendra]]'s. Vyalendra gives the world its form and Kamavrata gives it its delight. Vedyari theology holds the two necessary to each other, and no worshipper is asked to choose between them.
 
 A floral garland hangs on his households' doorposts, fresh through spring and summer and dried through the dry season. A garland, and neither a crown nor a ring, goes on the shoulders of a newly married couple. A phial of scented oil consecrated in his temples anoints them on the wedding night and on each anniversary after.
 

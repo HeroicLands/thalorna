@@ -68,7 +68,7 @@ sohl:
 ---
 
 The **Yenor Zohiring**—the Spirit Path—is the shamanic tradition of the Okharik tribes: the
-practice of standing in relationship with the [[lore-zohira|zohira]], the intermediary spirits
+practice of standing in relationship with the [[lore-zohira|Zohira]], the intermediary spirits
 that govern rivers, storms, the hunt, fertility and death.
 
 It is not a branch of [[affiliation-nkaruthar|Nkaru'thar]] and it is not a rival to it, and the
@@ -104,7 +104,7 @@ ground—and consume its heart in a rite that binds their soul more closely to t
 and to the zohira.
 
 Candidates die. The tradition is direct about this and does not soften it, and the Elder's
-judgment about who may attempt the Hunt is the most consequential thing the tradition asks anyone
+judgment about who may attempt [The Spirit Hunt]{.name data-type="lore/custom"} is the most consequential thing the tradition asks anyone
 to do. Those who return are **kwendari zohiring**, and are so for life.
 
 The Hunt confers no rank in any temple. A High Pyremant outranks every priest in Okharis and does
@@ -132,8 +132,8 @@ a matter in a frontier village—never about whether the other is true.
 The two make plainly incompatible claims about the dead, the harvest and the blade (see
 [[lore-zohira|Zohira]]), and nobody on either side treats this as a problem requiring a solution.
 
-The **Shókuma** are the tribe most associated with the Hunt and with spirit communion; the
-**Magara** with the Spirit Blades, weapons in which a zohira of the blade is seated. Both practice
+The **[[affiliation-shokumatrb|Shókuma Tribe]]** is the tribe most associated with the Hunt and with spirit communion; the
+**[[affiliation-magaratrb|Magara Tribe]]** with the Spirit Blades, weapons in which a zohira of the blade is seated. Both practice
 the same tradition, and both regard the other's emphasis as slightly eccentric.
 
 ## See Also

@@ -78,13 +78,13 @@ sohl:
 
 "Twenty years you laid courses of stone and never asked why the joints were staggered. Here you will be asked to say why, and then to say it to a council." An **Antevosin** ("One who dwells near") of some seasons' standing says this to the newly arrived mason of mature age who has traded the yard for the academy. The new acolyte is typical of the order: many Antevasins come from the building trades and the academies, and they arrive with their hands already trained.
 
-The Vyalendravada is a monistic sect and one of the oldest philosophical schools in the Varnakan tradition. It holds [[affiliation-vyalendra|Vyalendra]] to be the single supreme deity from whom the whole pantheon emanates, and it reads the other gods as particular expressions of his shaping work. [[affiliation-mahajaya|Mahajaya]] is the shape sustained, [[affiliation-rasikara|Rasikara]] the shape broken for reshaping, and [[affiliation-kalavrata|Kalavrata]] the shape released at its term. To worship the pantheon honestly, in this doctrine, is to worship Vyalendra through whichever aspect the occasion asks for.
+The Vyalendravada is a monistic sect and one of the oldest philosophical schools in the Varnakan tradition. It holds [[lore-vyalendradty|Vyalendra]] to be the single supreme deity from whom the whole pantheon emanates, and it reads the other gods as particular expressions of his shaping work. [[lore-mahajayadty|Mahajaya]] is the shape sustained, [[lore-rasikaradty|Rasikara]] the shape broken for reshaping, and [[lore-kalavratadty|Kalavrata]] the shape released at its term. To worship the pantheon honestly, in this doctrine, is to worship Vyalendra through whichever aspect the occasion asks for.
 
 ### The Sect and Its Neighbors
 
-The sect is strongest among the building trades, the great shrenis of masons and architects, and the philosophical academies of [[place-vedyarargn|Vedyara Region]]. Its temples are fewer than the [[affiliation-trimurtisampradaya|Triyanga-sampradeya]]'s, and they are magnificent buildings. A well-proportioned temple, the sect holds, is the fullest argument the doctrine has. Its priests are often trained as deeply in geometry and engineering as in theology, and several of the great public works of the Vedyaran cities are the sect's.
+The sect is strongest among the building trades, the great shrenis of masons and architects, and the philosophical academies of the [[place-vedyarargn|Vedyara Region]]. Its temples are fewer than the [[affiliation-trimurtisampradaya|Triyanga-sampradeya]]'s, and they are magnificent buildings. A well-proportioned temple, the sect holds, is the fullest argument the doctrine has. Its priests are often trained as deeply in geometry and engineering as in theology, and several of the great public works of the Vedyaran cities are the sect's.
 
-Relations with the orthodox [[affiliation-trimurtisampradaya|Triyanga-sampradeya]] are cordial and not without friction. Orthodox priests call the Vyalendravada's reading of the lesser gods reductive. Its scholars call the orthodox triad a teaching convenience mistaken for the deepest truth. Most Vedyarans move freely between the temples of both.
+Relations with the orthodox Triyanga-sampradeya are cordial and not without friction. Orthodox priests call the Vyalendravada's reading of the lesser gods reductive. Its scholars call the orthodox triad a teaching convenience mistaken for the deepest truth. Most Vedyarans move freely between the temples of both.
 
 ### Clergy
 
@@ -94,20 +94,20 @@ An Antevosin is an acolyte, often of mature age, drawn from the building trades 
 
 ### Rites and Festivals
 
-The **Tracing of the Pattern** is a daily rite in which the temple's central diagram is refreshed in chalk on the sanctum floor and the priest walks its lines, naming the aspects as he passes each. The **Student's Dialectic** is held weekly: Acharyas and senior Antevasins gather for a formal philosophical exchange on a chosen point of doctrine, with the Parema-Achorya presiding.
+The **[Tracing of the Pattern]{.name data-type="lore/custom"}** is a daily rite in which the temple's central diagram is refreshed in chalk on the sanctum floor and the priest walks its lines, naming the aspects as he passes each. The **[Student's Dialectic]{.name data-type="lore/custom"}** is held weekly: Acharyas and senior Antevasins gather for a formal philosophical exchange on a chosen point of doctrine, with the Parema-Achorya presiding.
 
-The **Consecration of the Pattern** is performed at the completion of a temple or major civic work. The proportions of the work are shown to conform to the canonical cosmic diagram, and the work is dedicated as an offering. The **Great Dialectic** is an annual philosophical assembly at the chief temple of each large city. It lasts three days and ends with the public statement of the sect's position on any question of the year.
+The **[Consecration of the Pattern]{.name data-type="lore/custom"}** is performed at the completion of a temple or major civic work. The proportions of the work are shown to conform to the canonical cosmic diagram, and the work is dedicated as an offering. The **[Great Dialectic]{.name data-type="lore/gathering"}** is an annual philosophical assembly at the chief temple of each large city. It lasts three days and ends with the public statement of the sect's position on any question of the year.
 
-The **Founder's Day** falls at the spring equinox and commemorates the semi-legendary first articulation of the doctrine. New works are dedicated and new Antevasins formally admitted.
+The **[Founder's Day]{.name data-type="lore/gathering"}** falls at the spring equinox and commemorates the semi-legendary first articulation of the doctrine. New works are dedicated and new Antevasins formally admitted.
 
 ### Ordeals for Favor
 
-- **The Geometer's Ordeal**—the aspirant designs a small temple from first principles, holds every proportion to the canonical diagram, and defends the design in public before a council of Acharyas.
-- **The Silent Reading**—a year of philosophical study in the temple library, without speech and without the company of any other living soul but the librarian.
+- **[The Geometer's Ordeal]{.name data-type="lore/custom"}**—the aspirant designs a small temple from first principles, holds every proportion to the canonical diagram, and defends the design in public before a council of Acharyas.
+- **[The Silent Reading]{.name data-type="lore/custom"}**—a year of philosophical study in the temple library, without speech and without the company of any other living soul but the librarian.
 
 ### Orders
 
-The **Academy of the Shining Pattern** is the philosophical arm of the sect, the premier school of architecture and theology in [[place-vedyarargn|Vedyara Region]], with branches in every major city. The **Shrena of the Scholar-Builders** is an order of architect-priests who take the doctrine into the field, designing and supervising the construction of the sect's great works.
+The **[Academy of the Shining Pattern]{.name data-type="affiliation"}** is the philosophical arm of the sect, the premier school of architecture and theology in Vedyara, with branches in every major city. The **[Shrena of the Scholar-Builders]{.name data-type="affiliation/order"}** is an order of architect-priests who take the doctrine into the field, designing and supervising the construction of the sect's great works.
 
 ### Geographic Presence
 

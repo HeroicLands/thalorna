@@ -57,11 +57,11 @@ sohl:
 
 "Touch the medallion before you sit down, not after, and read one line aloud from the stand by the door." The keeper of a school's shrine says it to a first-year on the evening before the examination. The line is whichever one the book lies open to, and nobody is excused it, scholar or soldier.
 
-[[lore-jnanasuradty|Jnanasura]] is the god of wisdom and of the work of the mind, and his cult is the most widely housed in [[place-vedyarargn|Vedyara]]. Every major Vedyaran school, library and academy keeps a shrine to him. Those who serve there are among the most learned people in the world, trained as deeply in the sciences and the poetic arts as in theology, and they teach and advise at royal courts, in temple hierarchies and on shrena councils. He is also the patron of warriors, because clarity of thought before the blow counts as much as strength of arm.
+The devotion known as Jnanasura centers on [[lore-jnanasuradty|Jnanasura]], the god of wisdom and of the work of the mind, and his cult is the most widely housed in the [[place-vedyarargn|Vedyara Region]]. Every major Vedyaran school, library and academy keeps a shrine to him. Those who serve there are among the most learned people in the world, trained as deeply in the sciences and the poetic arts as in theology, and they teach and advise at royal courts, in temple hierarchies and on shrena councils. He is also the patron of warriors, because clarity of thought before the blow counts as much as strength of arm.
 
 ### The Shrine
 
-The image at a school shrine is a serene figure seated in the posture of teaching, one hand raised in the gesture of instruction and the other holding the open book. A golden sun blazes behind him, and the whole image is the gold of morning light. Stand before it and you feel a quiet radiance, the steady light by which a page can be read, with none of the heat of [[affiliation-rasikara|Rasikara]]'s fire.
+The image at a school shrine is a serene figure seated in the posture of teaching, one hand raised in the gesture of instruction and the other holding the open book. A golden sun blazes behind him, and the whole image is the gold of morning light. Stand before it and you feel a quiet radiance, the steady light by which a page can be read, with none of the heat of [[lore-rasikaradty|Rasikara]]'s fire.
 
 Three objects furnish the shrine. The **Open Book** is its central relic, and households and temples compete to produce the finest illuminated and bound sacred texts. The **Sun-medallion** is a small golden disc incised with the opening lines of a chosen sutva, worn by scholars and teachers. The **Reading-stand** is a carved wooden lectern, often a work of art in its own right, on which the day's sacred text is placed.
 
@@ -73,9 +73,9 @@ A Jnanasuran household keeps a reading-stand in its main room, with a book lying
 
 ### Ordeals for Favor
 
-- **The Examination Beyond the Veil**—seven days of examination on subjects the devotee was not told to prepare, before a council that includes at least one member of every scholarly specialization.
-- **The Silent Year of Reading**—a year of study in a temple library, speaking to no one and consuming only what the library provides.
-- **The Contest of Open Questions**—a public ordeal in which the devotee answers any question put by any member of the community, for a full day from dawn to sunset.
+- **[The Examination Beyond the Veil]{.name data-type="lore/custom"}**—seven days of examination on subjects the devotee was not told to prepare, before a council that includes at least one member of every scholarly specialization.
+- **[The Silent Year of Reading]{.name data-type="lore/custom"}**—a year of study in a temple library, speaking to no one and consuming only what the library provides.
+- **[The Contest of Open Questions]{.name data-type="lore/custom"}**—a public ordeal in which the devotee answers any question put by any member of the community, for a full day from dawn to sunset.
 
 ### See Also
 

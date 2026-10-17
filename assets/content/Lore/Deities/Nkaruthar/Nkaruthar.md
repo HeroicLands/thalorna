@@ -8,4 +8,4 @@ tags: [draft]
 data: {packFolder: deitiesnkaruthar, culture: okharinclt}
 ---
 
-Nkaru'thar is the Eternal Flame, the single god of the [[affiliation-nkaruthar|Okharik faith]]. Creation, destruction and renewal are held together in three interlocking flames, one white, one gold and one red, each aspect embodied by one of the kingdom's three great city-states.
+Nkaru'thar is the Eternal Flame, the single god of [[affiliation-nkaruthar|Nkaru'thar]], the Okharik faith. In its theology, creation, destruction and renewal are held together in three interlocking flames, one white, one gold and one red, each aspect embodied by one of the kingdom's three great city-states.

@@ -8,4 +8,4 @@ tags: [draft]
 data: {packFolder: deitiesitzani}
 ---
 
-K'ayik Ch'alish is the Sacred Flame of the [[affiliation-itzanpnthn|Itsani Pantheon]]. He alone turns the blood-offering into divine substance, and his fires are never allowed to die. He holds fire, transformation and sacrifice, and is served by the [[affiliation-kayikchalix|Faith of K'ayik Ch'alish]].
+K'ayik Ch'alish is the Sacred Flame of the [[affiliation-itzanpnthn|Itsani Pantheon]]. He alone is held to turn the blood-offering into divine substance, and his fires are never allowed to die. He holds fire, transformation and sacrifice, and is served by the [[affiliation-kayikchalix|Faith of K'ayik Ch'alish]].
