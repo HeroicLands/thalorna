@@ -53,11 +53,11 @@ sohl: {system: {commonSkills: []}}
 
 "Taking the beast cleanly is half of it," a master hunter of [[affiliation-garnuw|Gar'Nuw]] tells a journeyman who is about to be raised. "The other half is who you were while you did it, and [[lore-linhurdty|Linhur]] is the god who asks."
 
-Linhur is one of the two hunt-patrons of [[affiliation-empireakhlth|Au'Khelathu]], and nobody invokes him alone. His patronage does not end at the kill. The god's concern is understood to reach the conduct of the hunter, which is the religious weight behind the guild's **Hunter's Respect**: the beast belongs to the [[lore-garauu|Gar-Au]]'s lands, and wantonness in killing it offends the gods as much as the imperial order. The **Scrutineer of the Hunt** holds that scrutiny as an office.
+The Faith of Linhur honors one of the two hunt-patrons of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and nobody invokes him alone. His patronage does not end at the kill. The god's concern is understood to reach the conduct of the hunter, which is the religious weight behind the guild's **[Hunter's Respect]{.name data-type="lore/custom"}**: the beast belongs to the [[lore-garauu|Gar-Au]]'s lands, and wantonness in killing it is held to offend the gods as much as the imperial order. The **Scrutineer of the Hunt** holds that scrutiny as an office.
 
 ## The Elevation
 
-[[affiliation-garnuw|Gar'Nuw]], the Gar-Au's chartered guild of hunters, keeps this cult and [[affiliation-linqur|Linkur's]] as its religious foundation. Its senior elevations are rites at both temples, performed in tandem, and neither counts without the other. The **Witness of the Elevation** conducts the Linhur half; the Linkur half has a witness of its own. A hunter who has been raised at one temple and not the other has not been raised.
+Gar'Nuw, the Gar-Au's chartered guild of hunters, keeps this cult and the [[affiliation-linqur|Faith of Linkur]] as its religious foundation. Its senior elevations are rites at both temples, performed in tandem, and neither counts without the other. The **Witness of the Elevation** conducts the Linhur half; the Linkur half has a witness of its own. A hunter who has been raised at one temple and not the other has not been raised.
 
 Like every selat god's cult, this one keeps the shared temple ladder of Wazu, Lem'Nelgir and Thaz'Lekhau. A selat god's Thaz'Lekhau carries real weight inside the selat and very little outside it.
 

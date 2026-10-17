@@ -68,11 +68,11 @@ The temple stands at the center of a small constellation of bodies, each holding
 - [[affiliation-linrethrthsr|Lin'Rethu elu Reth'Sa'ar]]—The scholars the temple has certified to handle its deeper texts. They hold those texts apart from the general archive, and the temple defers to them on who may read.
 - [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'ar]]—The scribal schools under the temple's patronage, which supply the scribes the administration depends on.
 
-The temple keeps a polite distance from the festivals of Thuba'i, whom it regards as a lesser pursuit than truth, though a prosperous merchant's household often keeps a shrine to each. Pleasure rewards what knowledge builds, and the temple does not mind being thanked in that order.
+The temple keeps a polite distance from the festivals of the [[affiliation-thubai|Faith of Thuba'i]], whose pursuit it regards as lesser than truth, though a prosperous merchant's household often keeps a shrine to each god. Pleasure rewards what knowledge builds, and the temple does not mind being thanked in that order.
 
 ## Commerce and Currency
 
-The temple's holdings are its records, and what it sells is the work of keeping them. A clerk from a ministry in the Gar-Medjatozo quarter arrives with a scroll to be placed in the archive; a Lem'Nelgir catalogues it, assigns it a place, and the scroll is, from that day, a thing the empire knows it has. The observatory's reckonings of the stars are the calendar the administration runs on, and the temple supplies both the regnal and temple counts. The schools supply scribes to the state.
+The temple's holdings are its records, and what it sells is the work of keeping them. A clerk from a ministry in the [[place-garmedjatozo|Gar-Medjatozo]] quarter arrives with a scroll to be placed in the archive; a Lem'Nelgir catalogues it, assigns it a place, and the scroll is, from that day, a thing the empire knows it has. The observatory's reckonings of the stars are the calendar the administration runs on, and the temple supplies both the regnal and temple counts. The schools supply scribes to the state.
 
 The temple is paid in the god's own coin. Visitors leave fine papyrus, inks made from rare minerals, and copies of important texts; a scholar of means commissions a copy and gives it to the shelves. Say a visiting scholar is turned away from the deeper texts: he leaves a commissioned copy of a treatise, as courtesy and as hope, and the Keeper of the Archives enters it. The collective that holds the deeper texts is not moved by the gift.
 

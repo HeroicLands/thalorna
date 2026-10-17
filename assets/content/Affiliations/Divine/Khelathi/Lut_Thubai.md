@@ -56,7 +56,7 @@ Lut-Thuba'i is the temple of [[lore-thubaidty|Thuba'i]], god of the flood and of
 
 The great festival comes at the height of the inundation, when the river swells and the temples organize banquets that run from sunset to sunrise. Masquerades loosen the rank of the valley for a night; merchants close their shops; farmers put down their tools; even the Gar-Au takes part. The temple is not frivolous. Its priests read the river's rise each year, and its granaries stand behind the year's account. The music, the beer and the dancing are a form of gratitude, and the people who run them, the Wazu (acolytes) trained as brewmasters, cooks and musicians, have learned the practical craft along with the doctrine.
 
-Hold one warning in mind. The god's anger falls on the merchant who hoards while his workers starve, and a high priest who piles up wealth without spending it on feasts finds the donations thinning. Wealth is meant to move through the temple like water through a riverbed.
+Hold one warning in mind. The god's anger is held to fall on the merchant who hoards while his workers starve, and a high priest who piles up wealth without spending it on feasts finds the donations thinning. Wealth is meant to move through the temple like water through a riverbed.
 
 ## Relations
 
@@ -66,7 +66,7 @@ The temple's weight reaches into the state's accounts and the city's amusements.
 - [[affiliation-lemthubai|Lem'Thuba'i]]—The priesthood of the same god, which keeps the flood-records the granaries and the tax rolls are set against.
 - [[affiliation-linshelunthb|Lin'Shelun elu Thuba'i]]—The performers and artists the temple funds. They sing, play and paint at its feasts and carry its name into the city.
 
-Reth'Sa'ar's temple and this one keep a courteous distance. Educated households often keep a shrine to both gods and see no contradiction in the pair.
+[[affiliation-lutrethsaar|Lut-Reth'Sa'ar]] and this temple keep a courteous distance. Educated households often keep a shrine to both gods and see no contradiction in the pair.
 
 ## Commerce and Currency
 

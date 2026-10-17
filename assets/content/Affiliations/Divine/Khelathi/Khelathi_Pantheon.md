@@ -72,17 +72,17 @@ Pronunciation: _kheh-LAH-thee_, the _kh_ a rasp at the back of the throat, as wh
 
 "Leave the contract at the archive," a priest tells a merchant who has come to the temple forecourt to pray about a debt. "The scribe will read it back to you for a fee, and nothing I say changes a word of it. Come in here when you want to ask whether you have been a good son. That one only the gods are keeping."
 
-The **Khelathi Pantheon** is the faith of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], the oldest continuously existing civilization in [[place-worldthlrn|Thalorna]], and that priest's advice is the shortest way into it. A [[lore-khelathiclt|Khelathi]] keeps two accounts. The temple holds the written one—contracts, leases, debts, everything a witness saw and a scribe entered—and the gods keep the unwritten one: what a person owes a parent, a teacher, the dead and the house that raised them. _Attest the written and petition the unwritten_, the priests teach, and the error they correct most often is confusing the two. Asking a god to set aside a contract is impiety. Asking a god whether you have failed your father is the whole of religion. The [[lore-khelathiclt|culture note]] follows the doctrine through a life and a death.
+The **Khelathi Pantheon** is the faith of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], the oldest continuously existing civilization in [[place-worldthlrn|The World of Thalorna]], and that priest's advice is the shortest way into it. A [[lore-khelathiclt|Khelathi]] keeps two accounts. The temple holds the written one—contracts, leases, debts, everything a witness saw and a scribe entered—and the gods are held to keep the unwritten one: what a person owes a parent, a teacher, the dead and the house that raised them. _Attest the written and petition the unwritten_, the priests teach, and the error they correct most often is confusing the two. Asking a god to set aside a contract is impiety. Asking a god whether you have failed your father is the whole of religion. The [[lore-khelathiclt|culture note]] follows the doctrine through a life and a death.
 
-The pantheon has twelve great gods, each governing a fundamental part of existence. They hold the same twelve domains as the [[affiliation-arldnpnthn|Aureldian Pantheon]] of western [[place-ankrscntnnt|Ankaris]], and the Khelathi observe, with characteristic equanimity, that their gods were ancient before the **Aureldian** names were spoken.
+The pantheon has twelve great gods, each governing a fundamental part of existence. They hold the same twelve domains as the [[affiliation-arldnpnthn|Aureldian Pantheon]] of the western part of the [[place-ankrscntnnt|Ankaris Continent]], and the Khelathi observe, with characteristic equanimity, that their gods were ancient before the **Aureldian** names were spoken.
 
 The faith cannot be separated from the civilization it serves. Government, law, farming, war, trade, art and above all the vast mortuary industry that prepares the dead for eternal life are all organized around principles the temples maintain. The great temples are places of worship, landlords, employers, schools and courts at once, and they rival the [[lore-garauu|Gar-Au]]'s palace in wealth and influence. One three-rank priesthood—Thaz'Lekhau, Lem'Nelgir and Wazu—shapes religious life from the capital to the remotest village.
 
 ## The Weighing
 
-The central doctrine of the end is **the Weighing**. After death both of a person's accounts are opened before the assembled gods: the temple account a scribe took, and the account [[affiliation-qearet|Qe'aret]] kept where no scribe was present. A soul short on either is taken by **Algit**, the **Devourer of the Dead**; a soul whose entries close passes into the blessed [[place-zulaten|Zulaten]]. The doctrine shapes daily life. Even the powerful fear the verdict, and the knowledge that wealth cannot buy a favorable one is a check, however imperfect, on the worst abuses of power.
+The central doctrine of the end is **[The Weighing]{.name data-type="lore/theology"}**. After death both of a person's accounts are opened before the assembled gods: the temple account a scribe took, and the account [[lore-qearetdty|Qe'aret]] kept where no scribe was present. A soul short on either is taken by **[Algit]{.name data-type="being/creature"}**, the **Devourer of the Dead**; a soul whose entries close passes into the blessed [[place-zulaten|Zulaten]]. The doctrine shapes daily life. Even the powerful fear the verdict, and the knowledge that wealth cannot buy a favorable one is a check, however imperfect, on the worst abuses of power.
 
-So the gods are present at the moments that bind people. They witness promises, and no offering erases an entry left open; when an entry closes, a god is asked to be present at the closing. Between those moments the faith is visible everywhere: in household offerings at the family shrine, in the crowded festivals of the year, and in the temple schools that train the scribes and physicians a town needs as often as it needs a priest.
+So the gods are held to be present at the moments that bind people. They witness promises, and no offering erases an entry left open; when an entry closes, a god is asked to be present at the closing. Between those moments the faith is visible everywhere: in household offerings at the family shrine, in the crowded festivals of the year, and in the temple schools that train the scribes and physicians a town needs as often as it needs a priest.
 
 ## The Twelve
 
@@ -103,13 +103,13 @@ So the gods are present at the moments that bind people. They witness promises, 
 
 ## Temple Hierarchy
 
-Every major temple in [[affiliation-empireakhlth|Au'Khelathu]] keeps the same three ranks, a structure so ancient that the Khelathi hold it divinely ordained. The Gar-Au stands above all three as nominal supreme priest of every god, and all temple authority is claimed to flow down from that office.
+Every major temple in Au'Khelathu keeps the same three ranks, a structure so ancient that the Khelathi hold it divinely ordained. The Gar-Au stands above all three as nominal supreme priest of every god, and all temple authority is claimed to flow down from that office.
 
 - Thaz'Lekhau ("Great of Sacred Power")—the High Priest or High Priestess of a major temple and the supreme religious authority of one cult. Each major temple has one, who manages its holdings, speaks with the voice of the god and conducts the great seasonal rites. The title carries great political weight, and in the great temples only the Thaz'Lekhau and the Gar-Au may enter the innermost sanctuary where the god's image dwells.
 - Lem'Nelgir ("Servant of the God")—the ordained priesthood and the working body of the temple. Lem'Nelgir conduct the daily rites, manage temple lands and finances, teach in the temple schools, perform divinations, and carry out the temple's part in local government.
 - Wazu ("Purified One")—the acolytes of the long temple education. A Wazu enters the temple school as a child or youth and studies sacred texts, ritual, history, mathematics, medicine and the reading of omens for years before ordination.
 
-The cults are separate and often rivals. The one body where their high priests sit together is the **Sedjet Halzi**, the **Council of the High Priests**, which governs the [[affiliation-garhalzi|Gar-Hálzi]] temple-treasuries.
+The cults are separate and often rivals. The one body where their high priests sit together is the **[Sedjet Halzi]{.name data-type="affiliation/governmental"}**, the **Council of the High Priests**, which governs the [[affiliation-garhalzi|Gar-Hálzi]] temple-treasuries.
 
 ## The Selat Gods
 
@@ -127,16 +127,16 @@ An ordinary person keeps every layer at once: the Twelve at the great festivals,
 | [[affiliation-linhur\|Faith of Linhur]]     | The hunt                       | Paired with [[lore-linqurdty\|Linkur]] as the religious foundation of [[affiliation-garnuw\|Gar'Nuw]] |
 | [[affiliation-linqur\|Faith of Linkur]]     | The hunt                       | Paired with [[lore-linhurdty\|Linhur]]; neither temple's rite counts without the other                |
 
-Three of these show how the local cults work. [[lore-qeztudty|Qeztu]]'s strength is geographic rather than doctrinal: the war-god is patron of four of the ten border selatu and rare in the gentler valley, and his worship is strongest exactly where the empire's writ is thinnest. [[lore-tjelsukdty|Tjelsur]] carries the sharpest tension, because the crocodile is sacred to the god and is also the beast that takes farmers and children along the river, so the cull is a religious act before it is a commercial one. [[lore-igelnarudty|Igelnaru]] holds the river and no province, so his cult has no patch of ground to sit on and travels with the water instead.
+Three of these show how the local cults work. [[lore-qeztudty|Qeztu]]'s strength is geographic rather than doctrinal: the war-god is patron of four of the ten border selatu and rare in the gentler valley, and his worship is strongest exactly where the empire's writ is thinnest. [[lore-tjelsukdty|Tjelsur]] carries the sharpest tension, because the crocodile is sacred to the god and is also the beast that takes farmers and children along the river, so the cull is a religious act before it is a commercial one. [[lore-igelnarudty|Igelnaru]] is held to govern the river and no province, so his cult has no patch of ground to sit on and travels with the water instead.
 
 ## The Cosmic Order
 
-The pantheon turns on one opposition, _order against chaos_. [[affiliation-qearet|Qe'aret]] is cosmic order, the principle that holds reality together. [[affiliation-azuathis|Azu'athis]] is primordial chaos, the dissolution that came before creation and constantly threatens to reclaim it. Every other god has a place in that frame:
+The pantheon's theology turns on one opposition, _order against chaos_. Qe'aret is cosmic order, the principle that holds reality together. [[lore-azuathisdty|Azu'athis]] is primordial chaos, the dissolution that came before creation and constantly threatens to reclaim it. Every other god has a place in that frame:
 
-- [[affiliation-uqaa|Uqa'a]] battles Azu'athis every night so that the sun rises;
-- [[affiliation-wethur|Weth'ur]] and [[affiliation-hezmuiri|Hezmu'iri]] keep the passage from life to death orderly;
-- [[affiliation-uznera|Uzn'era]] sustains the renewal of life that chaos would put out;
-- [[affiliation-psaqaru|Saq'aru]] makes the material structures that give form to the formless.
+- [[lore-uqaadty|Uqa'a]] battles Azu'athis every night so that the sun rises;
+- [[lore-wethurdty|Weth'ur]] and [[lore-hezmuiridty|Hezmu'iri]] keep the passage from life to death orderly;
+- [[lore-uzneradty|Uzn'era]] sustains the renewal of life that chaos would put out;
+- [[lore-psaqarudty|Saq'aru]] makes the material structures that give form to the formless.
 
 The coherence of the scheme impressed the [[place-helionis|Helionite]] philosophers who studied it. The gods are parts of a cosmic system, each with a defined role in keeping existence going. The annual flood of the river—the land drowned and reborn each year—is the living image of that cycle of destruction and renewal, and the whole Khelathi calendar of festivals, rites and observances is arranged around it.
 

@@ -51,7 +51,7 @@ sohl: {system: {commonSkills: []}}
 
 "Before you push off, ask whose water you are on," a **Warden of the Sacred Stones** tells a boatman new to the southern reach. "The Halzi'a hold it in law. [[lore-igelnarudty|Igelnaru]] holds it in spirit, and the boundary shrines and stones mark where his water begins. Hunt or fish inside them without leave and the penalty is death."
 
-Igelnaru is a river god, not a selat's god. He holds the [[place-zumeleshrvr|Zumelesh]] itself, so his cult has no great temple and no Thaz'Lekhau of its own. The hunting companies that work the river carry it, above all the [[affiliation-zeghetnelgu|Zeghet'Nelgu]], and the faith lives inside the hunt rather than beside it. Even its acolyte rank, Wazu of the Hunt, is the temple's own title borrowed into a hunting company.
+The Faith of Igelnaru honors a river god, not a selat's god. He is held to govern [[place-zumeleshrvr|The Zumelesh]] itself, so his cult has no great temple and no Thaz'Lekhau of its own. The hunting companies that work the river carry it, above all the [[affiliation-zeghetnelgu|Zeghet'Nelgu]], and the faith lives inside the hunt rather than beside it. Even its acolyte rank, Wazu of the Hunt, is the temple's own title borrowed into a hunting company.
 
 ## What the River Asks
 

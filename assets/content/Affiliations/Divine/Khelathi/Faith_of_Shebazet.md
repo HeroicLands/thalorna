@@ -53,13 +53,13 @@ sohl: {system: {commonSkills: []}}
 
 "Every tax roll in the empire started in a bed like this one," a fowler tells a passenger poling through the reeds of the delta, and he lifts a hand toward the green wall on either side. "The scribes forget it. [[lore-shebazetdty|Shebazet]] does not."
 
-Shebazet, the cobra-goddess, is the goddess of the papyrus marshes. Her cult belongs to the [[affiliation-selatgrshbzt|Selat of Gar-Shebazet]], a delta selat that lives by fowling, reed-craft and the empire's paper-cutting, whose capital is [[place-garshebazet|Gar-Shebazet]]. Her reach is quiet and very long. In a civilization that runs on records, the reed-beds her priests bless supply the paper for every tax roll, contract and temple record in [[affiliation-empireakhlth|Au'Khelathu]].
+The Faith of Shebazet honors the cobra-goddess of the papyrus marshes. Her cult belongs to [[affiliation-selatgrshbzt|The Selat of Gar-Shebazet]], a delta selat that lives by fowling, reed-craft and the empire's paper-cutting, whose capital is [[place-garshebazet|Gar-Shebazet]]. Her reach is quiet and very long. In a civilization that runs on records, the reed-beds her priests bless supply the paper for every tax roll, contract and temple record in the [[affiliation-empireakhlth|Empire of Au'Khelathu]].
 
 ## Two Offices of the Marsh
 
 The cult's work is the marsh's two livelihoods. The **Warden of the Papyrus Harvest** blesses and oversees the cutting of the reed-beds. The **Priest of the Fowling-Grounds** keeps the rites of the marsh, where fowling and reed-craft are the whole of the local livelihood.
 
-The ladder above and below them is the shared one: lay faithful who keep the observances, Wazu, Lem'Nelgir, and a Thaz'Lekhau whose standing is real inside the selat and slight outside it. A goddess with no imperial standing therefore holds a local temple, a local priesthood and, through the paper, the physical basis of [[affiliation-rethsaar|Reth'Sa'ar's]] whole domain.
+The ladder above and below them is the shared one: lay faithful who keep the observances, Wazu, Lem'Nelgir, and a Thaz'Lekhau whose standing is real inside the selat and slight outside it. The worship of a goddess with no imperial standing therefore supports a local temple, a local priesthood and, through the paper, the physical basis of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]]'s whole domain.
 
 ## See Also
 
