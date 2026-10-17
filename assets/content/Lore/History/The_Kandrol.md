@@ -63,17 +63,17 @@ data:
         - why the Order's most absolute anathema is the binding of a soul, which it has never explained
 ---
 
-A Senate that had just lost control of its own generals discovered it had also lost every man who
-could tell it whether [[lore-recensio|Alessa]] would happen again. The survivors drafted their own
+The [[affiliation-seldan|Seldan]] (the Senate), having just lost control of its own generals, discovered it had also lost every man who
+could tell it whether [[lore-recensio|The Therona of Alessa]] would happen again. The survivors drafted their own
 terms and the Senate took them.
 
-_The bargain is the Order's politics for the nearly eight centuries since._ It accepts the duties—the
+_The bargain is [[affiliation-ordoarcanis|Thordimalon]]'s politics for the nearly eight centuries since._ It accepts the duties—the
 monopoly and its enforcement, mandatory registration of every talent, war service on demand—and in
 exchange holds its own property, elects its own head, tries its own members in its own court, and
-answers to the state as a body and never as men. It is a corporation chartered by a Republic that no longer exists, and every Orzas since has inherited a
+answers to the state as a body and never as men. It is a corporation chartered by the [Vylarian Republic]{.name data-type="affiliation/polity"}, which no longer exists, and every Orzas since has inherited a
 privilege he did not grant and cannot withdraw.
 
-_Why it is still a college of the Epistémion._ The Kandrol chartered the Order inside the
+_Why it is still a college of [[affiliation-panepistmm|Epistémion]]._ The Kandrol chartered the Order inside the
 Epistémion (the Academy of Knowledge), not beside it: on paper the Thordimalon (the Arcane Order) is the College of Arcane Philosophy within the Epistémion (the Academy) to this
 day, and the sign over every chapter-house door is the Epistémion's because the legal right to the
 door is. What the Lex took out of the Epistémion's hands was the work. The philosophers would not
@@ -84,7 +84,7 @@ province it had sacked. So the police power went to the college directly from th
 federation kept the college on its rolls with no say in what it does, with relief on both sides
 that neither has ever admitted to.
 
-_Why a college has an inquisition._ It does not. The inquisition has a college. The Sekran is
+_Why a college has an inquisition._ It does not. The inquisition has a college. The [Sekran]{.name data-type="affiliation"} is
 constituted a clause earlier, and its commission is not the suppression of unsanctioned magic—that
 is its second clause. Its first is to establish what happened at Alessa and who did it, and it has
 never been closed. The enforcement remit is the inquiry's corollary: the founding working theory is

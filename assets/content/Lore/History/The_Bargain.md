@@ -54,12 +54,12 @@ data:
         - whether the dragons hold the Republic's successors to an agreement the Republic never recorded
 ---
 
-The Republic had the jars and nothing else the dragons wanted. What it offered was the one thing only
+In The Bargain, the [Vylarian Republic]{.name data-type="affiliation/polity"} had the jars and nothing else the dragons wanted. What it offered was the one thing only
 it could offer: the return of the bound to the pool that is the dragons' totem and afterlife at once.
 The dragons' price was the war.
 
 The shape of the agreement is the part that matters, and it is visible from the outside without any
-of the terms being known. It was not made for the war's duration. It was a _term of years, renewed_—which is why the Dragon Riders were a standing corps for more than two and a half centuries after the last
+of the terms being known. It was not made for the war's duration. It was a _term of years, renewed_—which is why the [Dragon Riders]{.name data-type="affiliation"} were a standing corps for more than two and a half centuries after the last
 Helionite city-state fell, instead of disbanding with the legions that raised them, and why a
 Republican magistrate renewed a standing appropriation every year for the keeping of a thing his
 docket named only by a number. The chancery put a description on the line so that nobody would query
@@ -72,4 +72,4 @@ dragons' dead is held, where it is kept, and who keeps it—still cannot produce
 because it was never anywhere to be produced.
 
 Nearly three centuries later the term was not renewed and the return was refused, and
-[[lore-ridersdisb|what followed]] was a default rather than an ambush. The hold is still in force.
+[[lore-ridersdisb|The Lease Refused]] was a default rather than an ambush. The hold is still in force.

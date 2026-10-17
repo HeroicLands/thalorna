@@ -45,20 +45,20 @@ data:
         - the Common year is a conversion of the Celestial Order's own count and is stated in no note
 ---
 
-The Celestial Calendar begins at the **Great Convergence**, which the
+The Celestial Calendar, the reckoning set out in [[lore-clndrstrlgy|Calendar and Astrology]], begins at **The Great Convergence**, which the
 [[lore-celestlrdr|Celestial Order]] reckons exactly. The figure is exact because the zero of a calendar
 is exact, and inside the empire it is not offered as tradition or as a way of speaking: it is the date
-every bureau files against, the date a Tanchéi computes a Generation from, and the date a household
+every bureau files against, the date a [[lore-tanchei|Tanchéi]] computes a Generation from, and the date a household
 names when it burns the year's spirit money.
 
 The dynastic record is a separate instrument and does not reach anything like so far—see
-[[lore-tantsoudyn|the oldest dynasty the archive can date]]. Both figures are current in Tantsou and they
+[[lore-tantsoudyn|The Opening of the Tantsou Record]]. Both figures are current in the [[affiliation-tantsouempr|Empire of Tantsou]] and they
 are not rivals. One is the epoch of cosmic time, held as revelation and stated as fact. The other is
 the earliest point at which the empire's filing cabinets can produce an emperor, a dynasty and a year
 together.
 
-The [[lore-clndrstrlgy|Tanchéi]] account for the interval as a matter of jurisdiction rather than of
-history: the mortal Bureau of Records was not staffed at the Convergence, and the filings of the
+The Tanchéi account for the interval as a matter of jurisdiction rather than of
+history: the mortal [Bureau of Records]{.name data-type="affiliation/governmental"} was not staffed at the Convergence, and the filings of the
 earliest dynasties went upward into the celestial archive. That doctrine does precisely the work the
 empire needs done, and the scholars positioned to notice as much leave it where it lies.
 

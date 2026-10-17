@@ -60,9 +60,9 @@ should be and cannot get to where it should be.
 
 A dragon cannot be threatened with its body. It can be threatened with its dead.
 
-In the early years of [[lore-helionscnq|the Helionite war]] a mage-warlord of
-[[affiliation-theradon|Theradon]] did the thing that follows from those two facts. He killed dragons,
-took their souls at the transit, and bound them. The Republic took his city in 330 BF, took his
+In The Dragon Dead at Theradon, during the early years of [[lore-helionscnq|The Conquest of Helionis]], a mage-warlord of
+[[place-theradon2|Theradon]] did the thing that follows from those two facts. He killed dragons,
+took their souls at the transit, and bound them. The [Vylarian Republic]{.name data-type="affiliation/polity"} took his city in 330 BF, took his
 workshop with it, and found the jars: bronze, lead-sealed, lettered in Helonic with an inventory
 number and nothing else.
 

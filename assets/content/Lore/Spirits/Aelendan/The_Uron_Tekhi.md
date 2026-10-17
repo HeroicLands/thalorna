@@ -9,7 +9,7 @@ data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 Kind
-: Place-kin, of [[lore-thekindred|the Kindred]]
+: Place-kin, of [[lore-thekindred|The Kindred]]
 
 Seat
 : [[place-urontekhi|The Uron Tekhi]]
@@ -23,11 +23,11 @@ Posture
 Met through
 : [[skill-uronsprt|The Uron Tekhi Spirit Power]]
 
-The Uron Tekhi is the oldest Kindred the Áelendan deal with, and the one they are least
+The Uron Tekhi is the oldest Kindred the [[lore-aelendnppl|Áelendan People]] deal with, and the one they are least
 certain about. Shamen count it place-kin, since it holds a clearing and does not leave it. They
 also count it fae-adjacent—one of the very old spirits understood to have crossed the boundary
 long ago, or to have been fae-kin since before the tribes came—and the protocols for approaching
-it borrow from the Kindred Pact rather than from ordinary practice.
+it borrow from the [Kindred Pact]{.name data-type="lore/law"} rather than from ordinary practice.
 
 It is not venerated, because nobody is confident what would be accepted. It is not straightforwardly
 warded against either, because it has never harmed anyone who kept to the forms. What the tradition

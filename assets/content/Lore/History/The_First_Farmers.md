@@ -55,11 +55,11 @@ data:
         - the record dates this only as within a few centuries of the arrival
 ---
 
-**The Deep Folk could not feed themselves.** A hold grows nothing and cannot be supplied from outside—a people dependent on an outside larder can be starved by whoever holds the road, which the
-[[lore-flkkhazar|Khazari]] have never been willing to accept. They arrived into a world whose humans
+**The [[lore-flkkhazar|Khazár Folk]], the Deep Folk, could not feed themselves.** A hold grows nothing and cannot be supplied from outside—a people dependent on an outside larder can be starved by whoever holds the road, which the
+Khazari have never been willing to accept. They arrived into a world whose humans
 were hunter-gatherers, and hunter-gatherers cannot provision a hold.
 
-So in the uplands around their first holds they taught the nearest peoples to farm: water-works,
+The Making of the First Farmers took place in the uplands around their first holds, where they taught the nearest peoples to farm: water-works,
 drainage, terracing, seed-storage, the granary—precisely the crafts the Khazari are best at, and
 precisely what turns thin mountain ground into a food supply.
 
@@ -69,7 +69,7 @@ larder. They would have done the same for any creature that could be taught to h
 What those people subsequently became was everything. The knowledge did not stay in the hills: it ran
 downhill and outward over centuries, into the great river valleys where soil and water made it
 explode. No human record reaches within two thousand years of the event, and the surviving trace of
-the arrangement is the [[lore-vardain|Vardain]], who still farm for a hold and still cannot say why
+the arrangement is [[lore-vardain|The Vardain]], who still farm for a hold and still cannot say why
 they were taught to.
 
 See [[lore-longnhrtnc|The Long Inheritance]] for the rest of what passed the same way, and for the

@@ -82,14 +82,14 @@ data:
         - where the Second Voice is now, having never been recovered a second time
 ---
 
-[[lore-khazarturn|Khazartúrn]] was the greatest city the [[lore-flkkhazar|Khazari]] ever built, and
-in 2427 BF it was destroyed with every soul in it. Nothing before or since has come near it in the
+The Fall of Khazartúrn destroyed the greatest city the [[lore-flkkhazar|Khazár Folk]] ever built, with every soul in it,
+in 2427 BF (see [[lore-khazarturn|The Fall of Khazartúrn]]). Nothing before or since has come near it in the
 reckoning of the Deep Folk.
 
 It was not a war and it was not a siege. It was a single act against a city built against every threat
 anyone had ever imagined, carried out by an army that should not have been able to exist: **Ahks do not
-cooperate**, which is the constraint that has always kept the [[lore-grukarfolk|Grukar]] a frontier
-nuisance. The [[miscgear-secondvoice|Second Voice]] removes it, reaching the hatched directly and
+cooperate**, which is the constraint that has always kept the [[lore-grukarfolk|Grukar Folk]] a frontier
+nuisance. [[miscgear-secondvoice|The Second Voice]] removes it, reaching the hatched directly and
 displacing the spawner's claim, so that Grukar of any number of tribes answer one will.
 
 Afterward the Khazari went back in. There were not remotely enough tombs, so they laid the dead in
@@ -99,7 +99,7 @@ blocked the skylights with granite dressed to the surrounding rock, shut the fou
 source, put the birds out, and sealed it. Khazartúrn is not a ruin. It is intact, in good order, and
 full of its people.
 
-The breach that followed is the one the world half-knows and cannot date. The Sinale knew the relic
+The breach that followed is the one the world half-knows and cannot date. The [[lore-flksinale|Sinale Folk]] knew the relic
 existed and had never thought a weapon against cities worth mentioning, since they build none; one of
 theirs used it; and they hunted him down themselves, took a long time about it, and handed over
 nothing. Both positions are defensible and neither survives contact with the other. Only on

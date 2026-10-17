@@ -46,4 +46,4 @@ Vonthas, the Helm, tempers its children for endurance and the clash of arms. Str
 | Spirit  | Lore, Mystical            | —   |
 | Water   | Language, Social          | −10 |
 
-The wheel of signs, and what the six elements of the Iltheron (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the [[affiliation-astrokyklos|Iltheron]] (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

@@ -8,9 +8,9 @@ tags: []
 data: {banner: creaturebnr}
 ---
 
-_Nágengir_ is the [[affiliation-nahild|Faith of Nahild]]'s name for its favored [[being-tereb|terebu]]: powerful, self-directed dead bound back into their bodies by necrotic force. The faith raises them through [[lore-nahilddty|Nahild]]'s dark magic and prizes them as warriors and sorcerers. They guard her temples and lead her undead armies, the mindless [[lore-haugverdir|hrúmverdir]] among them. Like every undead, they carry [[lore-theshadow|the Shadow]], and Nahild draws on it through [[lore-ginnauga|Ginnauga]], the Eye of the Void.
+_Nágengir_ is the [[affiliation-nahild|Faith of Nahild]]'s name for its favored dead of the [[being-tereb|Tereb]] kind: powerful, self-directed dead bound back into their bodies by necrotic force. The faith raises them through what it holds to be [[lore-nahilddty|Nahild]]'s dark magic and prizes them as warriors and sorcerers. They guard her temples and lead her undead armies, the mindless [[lore-haugverdir|Hrúmverdir]] among them. Like every undead, they carry [[lore-theshadow|The Shadow]], and the faith holds that Nahild draws on it through [[lore-ginnauga|Ginnauga]], the Eye of the Void.
 
-This name marks a particular kind of [[lore-undead|undead]], not every dead presence feared in the [[place-nrdlndsrgn|Nordlands]]. A spirit that remains near a place is not thereby a nágengir. The broader bestiary explains the difference between an immaterial haunting and a body made to walk after death.
+This name marks a particular kind of [[lore-undead|Undead]], not every dead presence feared in the [[place-nrdlndsrgn|Nordlands Region]]. A spirit that remains near a place is not thereby a nágengir. The broader bestiary explains the difference between an immaterial haunting and a body made to walk after death.
 
 ## See Also
 
@@ -31,7 +31,7 @@ This name marks a particular kind of [[lore-undead|undead]], not every dead pres
 
 ## The Watch Beneath the Hidden Roof
 
-One northern warning tale follows an unnamed traveler past a hidden hov of [[affiliation-nahild|Nahild]]. Its terror lies in a guardian that thinks, speaks, and commands the driven dead. The teller leaves its fate unanswered and carries the warning back to a living hearth.
+One northern warning tale follows an unnamed traveler past a hidden hov of the Faith of Nahild. Its terror lies in a guardian that thinks, speaks, and commands the driven dead. The teller leaves its fate unanswered and carries the warning back to a living hearth.
 
 : The Watch Beneath the Hidden Roof {#hidden-roof}
 

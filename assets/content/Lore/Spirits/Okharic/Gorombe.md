@@ -9,7 +9,7 @@ data: {packFolder: lorespiritsokharic, culture: okharinclt}
 ---
 
 Kind
-: [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
+: [[lore-zohira|Zohira]], held to be an emissary of [[lore-nkaruthardty|Nkaru'thar]], the Eternal Flame
 
 Domain
 : Storms
@@ -30,5 +30,5 @@ informed—so that what he breaks he breaks knowing. Shamans concede that outsid
 distinction thin, and hold to it anyway.
 
 He is credited with the first rains and with the ends of droughts, and is therefore not resented in
-the way a purely destructive spirit would be. The Okharik saying is that Gorombe has never taken
+the way a purely destructive spirit would be. The [[lore-okharinclt|Okharin]] saying is that Gorombe has never taken
 anything he did not also give first.

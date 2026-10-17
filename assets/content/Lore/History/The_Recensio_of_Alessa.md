@@ -49,9 +49,9 @@ data:
         - why the masters who kept the Kandral's holdings are not on the roll of the dead
 ---
 
-The Therona was an audit. Every registered practitioner in the Republic was ordered to bring their
+The Therona of Alessa was an audit. Every registered practitioner in the [Vylarian Republic]{.name data-type="affiliation/polity"} was ordered to bring their
 working-books to one place in the Alessan country, a day's ride from what is now [[place-velysara|Velisara]], to be
-copied into a single register the Senate could hold—and for a season it put the whole of the
+copied into a single register the [[affiliation-seldan|Seldan]], the Senate, could hold—and for a season it put the whole of the
 Republic's arcane knowledge, and very nearly the whole of its arcane manpower, inside one set of
 walls.
 
@@ -61,11 +61,11 @@ survive, and a large release levels buildings, depopulates villages and blights 
 generations.
 
 The books burned. Most of the Republic's senior arcanists died. A tract of good Alessan land is bare
-nearly eight centuries later and is fenced at the [[affiliation-ordoarcanis|Arcane Order]]'s charge.
+nearly eight centuries later and is fenced at the [[affiliation-ordoarcanis|Thordimalon]]'s charge.
 
 A deliberate release is the kind of thing that ends sieges, which is precisely why nobody has ever
-been able to say whether this was an accident or an act—and why that question is the Sekran's
+been able to say whether this was an accident or an act—and why that question is the [Sekran]{.name data-type="affiliation"}'s
 whole reason for existing.
 
-The audit did one other thing that is not in any account of it. It counted what the Kandral held,
+The audit did one other thing that is not in any account of it. It counted what the [Kandral]{.name data-type="affiliation/governmental"} held,
 and when the count was taken again afterward it came up short.

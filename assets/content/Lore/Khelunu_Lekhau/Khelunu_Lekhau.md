@@ -13,7 +13,7 @@ data: {packFolder: regkharc, culture: khelathiclt}
 
 "A working is an address," a lekhau master tells a novice in the first week at [[place-khelunu|Khelunu]]. "Get the name wrong and it goes somewhere else. Get the form wrong and it does not fail; it does what you actually wrote." The rest of the tradition is the consequence of that sentence.
 
-The [[lore-khelunulekha|Khelunu Lekhau]]—the **Eight Powers**—is the arcane philosophy of
+Khelunu Lekhau—the **Eight Powers**—is the arcane philosophy of
 the [[affiliation-empireakhlth|Empire of Au'Khelathu]], which the [[lore-khelathiclt|Khelathi]] hold to be the oldest continuously taught account of
 magical practice in the known world. It holds that the arcane divides into eight _domains_, each a
 region of the cosmic order over which a correctly known name has authority. Its practitioners are the
@@ -26,10 +26,10 @@ incompatible accounts of the same thing.
 ### The Same Ocean, Cut Differently
 
 Both traditions agree on the underlying fact. There is one undifferentiated reservoir of arcane
-force permeating existence—what the **Arcane Order** names the **Dynaris**—and all practice consists of
+force permeating existence—what the **[[affiliation-ordoarcanis|Thordimalon]]** names the [Dynaris]{.name data-type="lore/arcana"}—and all practice consists of
 reaching into it. The disagreement is about where its divisions lie.
 
-The [[affiliation-ordoarcanis|Thordimalon]] partitions the ocean by _substance_: fire, water, air,
+The Arcane Order partitions the ocean by _substance_: fire, water, air,
 earth, metal, spirit. Its doctrine is not that this is a serviceable model but that it is the
 structure of arcane reality, that the Dynaris is _always already_ one of the Six in every place and
 at every moment, and that the Six exhaust the arcane.
@@ -77,7 +77,7 @@ restricted forms; and Wer Khel-Gebu, chief lector at a temple and answerable for
 practitioners set down. Below them all is Name Struck: expelled, and the record of the teaching
 erased, which in this tradition is the whole of the sentence.
 
-_Reth'zethu and Qelt'nu are named for the two soul-components the funerary rites already preserve_—the _reth_ that is inscribed and the _qelt_ that is embalmed, the one written on every surface and the
+_[[lore-rethzethu|Reth'zethu]] and [[lore-qeltnu|Qelt'nu]] are named for the two soul-components the funerary rites already preserve_—the _reth_ that is inscribed and the _qelt_ that is embalmed, the one written on every surface and the
 other wrapped in linen. The pairing was not invented for the philosophy; the philosophy noticed it.
 
 ### The Frame: Qar'kuzu and Zelgút
@@ -92,7 +92,7 @@ and what he never stops trying to restore: decay, curses, the serpent, entropy. 
 moral sense so much as _prior_—the state that obtained before the world and would obtain again.
 
 Every other domain occupies a position within that framework, and the tradition teaches them as such.
-A lekhau does not learn Thelqen'Uqa as a subject and Qar'kuzu as another subject; they learn Thelqen'Uqa as one
+A lekhau does not learn [[lore-athenuqa|Thelqen'Uqa]] as a subject and Qar'kuzu as another subject; they learn Thelqen'Uqa as one
 of the ways in which order is maintained against the alternative.
 
 #### Zelgút is taught, and Zelgút is proscribed
@@ -104,12 +104,12 @@ what you cannot describe_, and Au'Khelathu is a civilization whose most valuable
 the seals on the tombs, the curses at the thresholds, the wards worked into the glyphs, and above all
 the binding that holds the cursed Way at [[place-zugezer|Zu-Gezer]] shut. Every one of those is a
 Qar'kuzu working built around an exact understanding of what it is built against. The temples of
-[[lore-uqaadty|Uqa'a]] and [[lore-rethsaardty|Reth'Sa'ar]] keep the treatises on the chaos god for precisely this
+the [[affiliation-uqaa|Faith of Uqa'a]] and the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] keep the treatises on the chaos god for precisely this
 reason—his nature, his manifestations, his methods of attack—so the priesthood can counsel the
 throne and prepare the realm.
 
 To _practice_ it is a capital matter. The line is not knowledge but use, and the tradition polices it
-with the temple-inquisitors and the **Meglay**, who hunt the forbidden cults without rest. A lekhau found
+with the temple-inquisitors and the [Meglay]{.name data-type="affiliation"}, who hunt the forbidden cults without rest. A lekhau found
 to have worked Zelgút is not disciplined; a person found maintaining a shrine to the chaos god faces
 execution, on the reasoning that their existence invites catastrophe on the realm.
 
@@ -126,20 +126,20 @@ The six working domains are three pairs, and the pairing is not opposition. In e
 halves are _both required_, and a practitioner who holds one without the other is not a specialist
 but an incomplete one.
 
-Thelqen'Uqa and Ithnetáu—the two halves of one circuit. [[lore-athenuqa|Thelqen'Uqa]], the disk in its heat, is light,
-sight, kingship, vitality, the day. [[lore-ithnetau|Ithnetáu]], the westward road, is the dead, passage, gates,
-resurrection, the night. The tradition insists they are a single road: Uqa'a crosses the sky by day and
+Thelqen'Uqa and [[lore-ithnetau|Ithnetáu]]—the two halves of one circuit. Thelqen'Uqa, the disk in its heat, is light,
+sight, kingship, vitality, the day. Ithnetáu, the westward road, is the dead, passage, gates,
+resurrection, the night. The tradition insists they are a single road: [[lore-uqaadty|Uqa'a]] crosses the sky by day and
 the underworld by night, and neither half of the journey is the whole of it. A lekhau who commands the
 day and not the night can work only until sundown, in every sense the tradition cares about.
 
-Anlagh'Khelathu and Gezru'lutu—the Black Land and the Red, the two halves of the country itself.
-[[lore-anlaghkhlth|Anlagh'Khelathu]], the living black land, is water, fertility, growth, healing, abundance. [[lore-gezrulutu|Gezru'lutu]],
+[[lore-anlaghkhlth|Anlagh'Khelathu]] and [[lore-gezrulutu|Gezru'lutu]]—the Black Land and the Red, the two halves of the country itself.
+Anlagh'Khelathu, the living black land, is water, fertility, growth, healing, abundance. Gezru'lutu,
 the red waste, is fire, drought, storm, endurance, plague, and the wandering. The valley is not the
 good half and the waste the bad one; the flood that makes the Black Land is measured against the Red
 every year, and the empire's gold, stone and roads all come out of the Red.
 
 Reth'zethu and Qelt'nu—the two halves of a being, and the pair on which the whole tradition turns.
-[[lore-rethzethu|Reth'zethu]], the name set down, is speech, writing, true names, knowledge, memory, mind. [[lore-qeltnu|Qelt'nu]],
+Reth'zethu, the name set down, is speech, writing, true names, knowledge, memory, mind. Qelt'nu,
 the made body, is craft, stone, flesh, shaping, animation, transformation. Khelathi funerary practice
 already treats these as inseparable: the soul has several components, each needing its own rites, and
 the dead are preserved twice over—the body by embalming and the name by inscription on every

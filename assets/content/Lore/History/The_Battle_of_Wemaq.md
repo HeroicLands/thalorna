@@ -30,7 +30,7 @@ data:
       unresolved: [the name of the dovaq made to watch, which tribe the dead belonged to]
 ---
 
-The best water on [[lore-celestialroad|the Celestial Road]] is [[place-wemaq|Vomek]], and nobody camps at it. The reason is the morning in 312 AF when the second great orkun came to it.
+The best water on [[lore-celestialroad|The Celestial Road]] is [[place-wemaq|Vomek]], and nobody camps at it. The Battle of Vomek is the reason: on the morning in 312 AF, the second great orkun came to it.
 
 ## The Last Refusal
 
@@ -38,7 +38,7 @@ The orkun did not have the steppe yet. He or she had the tribes already sworn, a
 
 ## What Followed
 
-Three years later the union went round the western end of the Grazian wall and became [[lore-hndrdbnnrs|the Storm of the Hundred Banners]]. The year the orkun came to Vomek is year 1 of the Hundred Banners in the [[lore-swdsclndr|steppe reckoning]].
+Three years later the union went round the western end of the Grazian wall and became [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]. The year the orkun came to Vomek is year 1 of the Hundred Banners in [[lore-swdsclndr|The Sovidur Reckoning]].
 
 The oasis is a moderate blood-field of the quickening kind: the palms fruit twice a year, a sleeper dreams the battle, and no tribe claims the water. It is the one oasis on the road that is nobody's.
 

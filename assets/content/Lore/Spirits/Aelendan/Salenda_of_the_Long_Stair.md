@@ -9,7 +9,7 @@ data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 Kind
-: Water-kin, of [[lore-thekindred|the Kindred]]
+: Water-kin, of [[lore-thekindred|The Kindred]]
 
 Seat
 : [[place-longstair|The Long Stair]]
@@ -23,7 +23,7 @@ Posture
 Met through
 : [[skill-salendasprt|Sálenda of the Long Stair Spirit Power]]
 
-Sálenda is a river-mother of the old kind: her power runs the length of the seven falls and the
+Sálenda of the Long Stair is a river-mother of the old kind: her power runs the length of the seven falls and the
 gorge beneath them, and stops where the water slows. She is not malicious and she is not kind.
 She has requirements, they are specific, and she does not accept an approximation of them.
 
@@ -32,6 +32,6 @@ giver made with their own hands and would rather have kept. What is given is not
 who have dealt with her a long time say she is more interested in the making than the losing.
 
 She permits fishing in the lower water and forbids it above the third fall. She permits crossing
-and forbids swimming. The prohibition Áelendan children learn first is that nobody climbs the
+and forbids swimming. The prohibition children of the [[lore-aelendnppl|Áelendan People]] learn first is that nobody climbs the
 Stair by daylight; what the prohibition is protecting is not agreed on, and Sálenda has never been
 asked directly, because asking would require climbing.

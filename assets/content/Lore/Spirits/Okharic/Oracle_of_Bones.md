@@ -9,7 +9,7 @@ data: {packFolder: lorespiritsokharic, culture: okharinclt}
 ---
 
 Kind
-: [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
+: [[lore-zohira|Zohira]], held to be an emissary of [[lore-nkaruthardty|Nkaru'thar]], the Eternal Flame
 
 Domain
 : Death and prophecy

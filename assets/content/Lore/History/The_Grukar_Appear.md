@@ -40,9 +40,9 @@ data:
         - where the Grukar came from, which the only contemporary record declines to speculate about
 ---
 
-The [[lore-grukarfolk|Grukar]] have not always been on Thalorna.
+The [[lore-grukarfolk|Grukar Folk]] have not always been on [[place-worldthlrn|The World of Thalorna]].
 
-They are first recorded in the Khazari archive at [[lore-khazarturn|Khazartúrn]]—the Deep Folk
+The Appearing of the Grukar is marked by their first records in the archive of the [[lore-flkkhazar|Khazár Folk]] at Khazartúrn (see [[lore-khazarturn|The Fall of Khazartúrn]])—the Deep Folk
 having both the habit of writing things down and, at that date, the finest archive in the world.
 Nothing written there in its first twenty-one centuries mentions them. Then, within a generation, a
 great deal does.

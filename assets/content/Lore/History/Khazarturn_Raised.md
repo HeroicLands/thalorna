@@ -36,11 +36,11 @@ data:
         - where the valley stands, which appears on no map the Khazari have let out of their hands
 ---
 
-[[lore-khazarturn|Khazartúrn]] was not a buried hold. It was cut into the cliff face of a mountain
+The Raising of Khazartúrn made a city that was not a buried hold (see [[lore-khazarturn|The Fall of Khazartúrn]]). It was cut into the cliff face of a mountain
 valley—a city in a wall of rock with the valley open in front of it, which is why its halls could
 take daylight at all and why anyone thought to try. Standing out from that cliff were seven great
 towers, because there were **seven clans**, and each tower was that clan's. They were spurs the cliff
-already held, and the Khazari finished them until they could not be told from the rock.
+already held, and the [[lore-flkkhazar|Khazár Folk]] finished them until they could not be told from the rock.
 
 Every one of the seven was finished to be indistinguishable from a natural feature of the valley, and
 outsiders almost always read that as concealment. It is not. A Khazari work is finished to belong to

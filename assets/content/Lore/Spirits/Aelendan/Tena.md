@@ -9,7 +9,7 @@ data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 Kind
-: Hearth-kin, of [[lore-thekindred|the Kindred]]
+: Hearth-kin, of [[lore-thekindred|The Kindred]]
 
 Seat
 : the great ceremonial hall at [[place-eshalshldg|Ésalosa Lodge]]
@@ -23,8 +23,8 @@ Posture
 Met through
 : [[skill-tenasprt|Tena Spirit Power]]
 
-Tena is the hearth-kin of the great hall at Ésalosa, and the oldest continuously tended fire
-in Áelendan country—the Lodge has been inhabited since the earliest Pelwar settlement of the
+Tena, the Hearth of Ésalosa, is the hearth-kin of the great hall at Ésalosa, and the oldest continuously tended fire
+in the country of the [[lore-aelendnppl|Áelendan People]]—the Lodge has been inhabited since the earliest settlement of the [[lore-pelwarpepl|Pelwar People]] of the
 interior, and the shamen hold that the fire has not gone out in all of it. She is the only one of
 the named Kindred that is met indoors, and the only one every Áelendan meets, because every tribe
 comes to Ésalosa to gather.
@@ -82,7 +82,7 @@ the ember came from Ésalosa, the new hall's hearth-kin is held to be Tena's own
 of that village stands in a particular relation to the Lodge ever afterward. This is as close as
 the Áelendan come to a political hierarchy, and they would not call it one.
 
-The Dhárgandi are the tribe whose hall was kindled from Ésalosa: they hold that Dhargan, the founder of their line, died at the Lodge, and that their fire came from its hearth.
+The [Dhárgandi]{.name data-type="affiliation/polity"} are the tribe whose hall was kindled from Ésalosa: they hold that [Dhargan]{.name data-type="being/npc"}, the founder of their line, died at the Lodge, and that their fire came from its hearth.
 
 The relation obliges three things, and it is precedence and never command:
 

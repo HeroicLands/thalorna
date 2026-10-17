@@ -71,7 +71,7 @@ data:
         - who kept what the Republic took at Theradon, which no war ministry roll names
 ---
 
-In 335 BF the Vylarian Republic turned its legions against the Helionite city-states, and twenty-three years later it took
+The Conquest of Helionis began in 335 BF when the [Vylarian Republic]{.name data-type="affiliation/polity"} turned its legions against the [[affiliation-ctysttshlns|City-States of Helionis]], and twenty-three years later it took
 the last of them. The city-states fought back with the most devastating weapon at their disposal: their mages. Desperate to resist
 superior conventional forces, they unleashed sorceries that shattered formations, poisoned the land
 and killed on a scale that swords could not. Some of the most powerful became mage-warlords their own
@@ -79,20 +79,20 @@ city-states could not fully control. The [[affiliation-panepistmm|Epistémion]],
 about the ethical limits of arcane power for generations, proved helpless to stop its own members
 weaponizing the knowledge it had helped systematize.
 
-The Republic's answer was the **Dragon Riders**, near whom spells misfired, wards collapsed and
+The Republic's answer was the [Dragon Riders]{.name data-type="affiliation"}, near whom spells misfired, wards collapsed and
 arcane energy turned back on its wielder. The mage-generals who had shattered legions with a word
 found their own sorceries detonating in their hands. The city-states fell. What the Republic gave for
-that arm is [[lore-thebargain|a separate matter]], and it is not in any account of the war.
+that arm is [[lore-thebargain|The Bargain]], and it is not in any account of the war.
 
 The last city fell in 312 BF.
 
-What the Senate made afterward was a _magistracy_. The
-**Kandral** held the conquered Helionite masters and, in time, every arcanist born inside
+What the [[affiliation-seldan|Seldan]] (the Senate) made afterward was a _magistracy_. The
+[Kandral]{.name data-type="affiliation/governmental"} held the conquered Helionite masters and, in time, every arcanist born inside
 the Republic, under an _usos_ (prefect) who changed with the year's magistracies. It had a register and a
 garrison and no doctrine. Its registered mages were state property—all but a few, who were never lent—and the rest were lent out to whoever the Senate
 owed, and as the Republic's own last century turned violent the register became a weapon: factions
 borrowed mages from each other's _usoi_, and a man's name on the roll was a thing that could be
 sold.
 
-Two and a third centuries stand between that year and [[lore-kandrol|the charter]] that produced
-the Thordimalon (the Arcane Order), and the institution that fills them is the one the world's records are thinnest about.
+Two and a third centuries stand between that year and the charter [[lore-kandrol|The Kandrol]] that produced
+[[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order), and the institution that fills them is the one the world's records are thinnest about.

@@ -8,13 +8,13 @@ tags: [draft, nyaluba]
 data: {packFolder: lorespiritsnyaluba, culture: nyalubaclt}
 ---
 
-The totemic being venerated by the [[affiliation-nylbtrblntn|Ngonzi]]. For the cult, its
+Eagle Spirit is the totemic being venerated by the [Ngonzi]{.name data-type="affiliation/polity"} of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. For the cult, its
 offices and its observances, see [[affiliation-nyalbeagl|Eagle Totem]]; for the kinds of guide
 and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].
 
-The [[being-eagle|eagle]]-guide is a carrier. Where the other four hold ground or hold a lineage, this one
+The eagle-guide is a carrier (see [[being-eagle|Eagle]] for the animal). Where the other four hold ground or hold a lineage, this one
 crosses between—between the highland and the plain, between the living clan and the dead who
-built in stone, and between the Nyáluba guides and whatever the Old Hetos contain. It is the
+built in stone, and between the Nyáluba guides and whatever the [Old Hetos]{.name data-type="place/site"} contain. It is the
 messenger, and the tradition treats its manifestations as errands rather than visits.
 
 Its temperament is distant and exact. It carries what it is given and reports what it is told;
@@ -27,4 +27,4 @@ spirits, are not party to the Long Pact, and are not certainly ancestors of anyo
 The eagle deals with them anyway. Whether it does so on the Ngonzi's behalf or on theirs is a
 question the clan does not answer to outsiders.
 
-The Lobwezi say the eagle-guide was in the highlands first and the Ngonzi came under it. The Ngonzi say it came with them, and they do not discuss the point with outsiders.
+The [Lobwezi]{.name data-type="affiliation/polity"} say the eagle-guide was in the highlands first and the Ngonzi came under it. The Ngonzi say it came with them, and they do not discuss the point with outsiders.

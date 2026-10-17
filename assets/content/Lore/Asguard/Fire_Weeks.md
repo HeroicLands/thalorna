@@ -8,11 +8,11 @@ tags: [asguardian]
 data: {culture: nordheimnclt}
 ---
 
-The **Fire-Weeks** are the defining ordeal of [[affiliation-svartbrandr|Svartbrandr's faith]], kept at its forge-hovs and led at a season's turning by the hov's Hofgudi or Hofgudja alongside the great blet. The Asguardian calendar counts them among the faith's high rites.
+The **Fire-Weeks** are the defining ordeal of the [[affiliation-svartbrandr|Faith of Svartbrandr]], kept at its forge-hovs and led at a season's turning by the hov's Hofgudi or Hofgudja alongside the great blet. The Asguardian calendar counts them among the faith's high rites.
 
 ## The Ordeal
 
-"You walk it on your own feet," a forge-hov's Hofgudi tells a postulant, "or you do not walk it again." A postulant proves devotion here. The [[lore-svartbrandrdty|Svartbrandr]] account of the rite names the **Ashen Walk** across hot coals as its trial: the postulant either survives it on his own feet or does not undertake it again. The faith's ceremonies describe the same walk as the rite in which high priests cross coals or flames to show their devotion and their immunity to fire.
+"You walk it on your own feet," a forge-hov's Hofgudi tells a postulant, "or you do not walk it again." A postulant proves devotion here. The faith's account of the rite names the [Ashen Walk]{.name data-type="lore/custom"} across hot coals as its trial: the postulant either survives it on his own feet or does not undertake it again. The faith's ceremonies describe the same walk as the rite in which high priests cross coals or flames to show their devotion and their immunity to fire.
 
 ## Who Keeps Them
 
@@ -23,7 +23,7 @@ The **Fire-Weeks** are the defining ordeal of [[affiliation-svartbrandr|Svartbra
 
 ## Refusal
 
-A man whose offering the hov's gudi declines during the Fire-Weeks is a [[lore-blotrefusedrnk|Bletlok]]. The refusal cuts him from Svartbrandr's clergy and from the ordeal that proves devotion there.
+A man whose offering the hov's gudi declines during the Fire-Weeks holds [[lore-blotrefusedrnk|Refused the Blet]] standing, called Bletlok. The refusal cuts him from Svartbrandr's clergy and from the ordeal that proves devotion there.
 
 ## The Orders
 

@@ -37,11 +37,11 @@ data:
       unresolved: [how many riders the war-house put on the field]
 ---
 
-[[place-zargandur|Zargandur]] was the war-city of the Tellumi, and it was the first the Atarzád took.
+[[place-zargandur|Zargandur]] was the war-city of the [[lore-khazrynclt|Tellumi]], and it was the first the [[affiliation-tribestrzd|Tribes of Atarzád]] took in The Fall of Zargandur.
 
 ## The Last Morning
 
-In the second year of the Breaking, about 620 AF, the war-house's cavalry rode out of the north gate to meet the Zhoqarod host on the pasture. It was the strongest cavalry in the belt. It was killed there to the last rider, the house's princes among them, and the city fell by noon.
+In the second year of [Turem]{.name data-type="lore/history"}, the Breaking, about 620 AF, the war-house's cavalry rode out of the north gate to meet the [Zhoqarod]{.name data-type="affiliation/polity"} host on the pasture. It was the strongest cavalry in the belt. It was killed there to the last rider, the house's princes among them, and the city fell by noon.
 
 ## What Was Left
 

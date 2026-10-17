@@ -8,11 +8,11 @@ tags: [draft, nyaluba]
 data: {packFolder: lorespiritsnyaluba, culture: nyalubaclt}
 ---
 
-The totemic being venerated by the [[affiliation-nylbtrblntn|Ruwozi]]. For the cult, its
+Lion Spirit is the totemic being venerated by the [Ruwozi]{.name data-type="affiliation/polity"} of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. For the cult, its
 offices and its observances, see [[affiliation-nyalblion|Lion Totem]]; for the kinds of guide
 and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].
 
-The [[being-lion|lion]]-guide is the eldest of the five clan totems in standing if not in age, because it
+The lion-guide is the eldest of the five clan totems in standing if not in age, because it
 was present when the Long Pact was sworn and is held to have witnessed it. Spirit-Speakers
 describe it as met rather than summoned: it arrives, it is already looking at you, and the
 encounter is conducted face to face. It does not appear from behind, and a manifestation that
@@ -22,10 +22,10 @@ Its temperament is sovereign rather than kind. It does not comfort and it does n
 capriciously; it holds those who bear its name to a standard and withdraws from them when they
 fail it. The withdrawal is the sanction—there is no lion-guide that strikes its own people.
 
-Prohibitions it is understood to enforce upon the Ruwozi: not to hunt lions, not to eat their
+Prohibitions it is understood to enforce upon the Ruwozi: not to hunt [[being-lion|Lion]]s, not to eat their
 flesh, not to take by ambush what could be taken by open challenge, and not to abandon a herd
 under threat.
 
-The Ruwozi and Lobwezi griots tell differently what the lion-guide witnessed at the Pact-baobab, and each clan's telling makes its own ancestor the one the Lion favoured.
+The Ruwozi and [Lobwezi]{.name data-type="affiliation/polity"} griots tell differently what the lion-guide witnessed at the [Pact-baobab]{.name data-type="place/feature"}, and each clan's telling makes its own ancestor the one the Lion favoured.
 
 In the Ruwozi telling the Lion looked first at the Ruwozi ancestor, who stood in the open and did not flinch, and the Pact was sworn under that look. In the Lobwezi telling the Lion turned to the Lobwezi ancestor, who spoke the oath before the others had finished gathering at the baobab, and it witnessed the Pact because his was the first voice raised.

@@ -8,7 +8,7 @@ tags: [lore, legend]
 data: {packFolder: settinglore}
 ---
 
-**Hulavath** is a legend. It is told that Hulavath was an ancient city of the [[lore-flkkhazar|Khazari]], built somewhere in the far north, and that its people delved too deep. They broke into something better left sealed, and what they let out destroyed the city.
+**Hulavath** is a legend. It is told that Hulavath was an ancient city of the [[lore-flkkhazar|Khazár Folk]], built somewhere in the far north, and that its people delved too deep. They broke into something better left sealed, and what they let out destroyed the city.
 
 That is the whole of the tale as it travels. Nobody has confirmed any part of it: not that the city stood, not that it fell, not what came out of the deep.
 
@@ -20,7 +20,7 @@ The legend names no direction beyond the far north and no range or coast, and ev
 
 ## The Fragment
 
-**Lady Althselda Glarvidrok**, an explorer, has uncovered a fragment of a poem that hints at the city's location. The manuscript is damaged by fire and by water. Whole stretches are lost and most lines break off mid-phrase. One phrase survives whole.
+**Lady [[being-althseldagla|Althselda Glarvidrok]]**, an explorer, has uncovered a fragment of a poem that hints at the city's location. The manuscript is damaged by fire and by water. Whole stretches are lost and most lines break off mid-phrase. One phrase survives whole.
 
 ```poetry {form=fragment lang=en}
 […] burnt […] the deep delvers […]

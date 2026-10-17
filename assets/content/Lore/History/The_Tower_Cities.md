@@ -67,7 +67,7 @@ A caravan that leaves a well at dusk and marches through the cool of the night n
 
 ## When
 
-The league rises about 1000 BF, four centuries after the Varkhad send their kin south into the deserts, and with [[affiliation-tantsouempr|Tantsou]] old enough to have silk worth carrying west. Its cities are traders' towns, strung along the first road across the waste, each a march of several days from the next. They hold together for some eight centuries by one interest, the safe passage of goods, and by one rule, that a city's light is never allowed to go out. The league ends about 190 BF, when the steppe tribes are forced into the first of their great unions and the cities that refused to pay it are taken one after another. The span, in the Vylarian Calendar, is about 1000 BF to 190 BF; the Vylarian Republic is founded 350 years into it.
+The league rises about 1000 BF, four centuries after the [Varkhad]{.name data-type="lore/folk"} send their kin south into the deserts, and with the [[affiliation-tantsouempr|Empire of Tantsou]] old enough to have silk worth carrying west. Its cities are traders' towns, strung along the first road across the waste, each a march of several days from the next. They hold together for some eight centuries by one interest, the safe passage of goods, and by one rule, that a city's light is never allowed to go out. The league ends about 190 BF, when the steppe tribes are forced into the first of their great unions and the cities that refused to pay it are taken one after another. The span, in [[lore-commoncal|The Vylarian Calendar]], is about 1000 BF to 190 BF; the [Vylarian Republic]{.name data-type="affiliation/polity"} is founded 350 years into it.
 
 ## What They Built
 
@@ -77,7 +77,7 @@ The league rises about 1000 BF, four centuries after the Varkhad send their kin 
 
 ## What Is Left
 
-The great ruins sit in three places. [[place-wilud|Vulud]], in the sands of the Khoshiqor, is the city a moving dune sea drowned when its well failed. [[place-ruinsarkor|Bolid, the Ruins of Arkor]], at the western margin, is the city the league founded closest to the Eastern March, and lies buried. [[place-jilaq|Jilaq]], the league's chief city, stands in the central waste, and the road bends three days round it. Beyond those three, a hundred miles of the road are lined with fallen light-towers that serve now as landmarks, and the tribes who water at their wells still leave a lamp at the foot of the tower on the night the last city fell.
+The great ruins sit in three places. [[place-wilud|Vulud]], in the sands of [[place-hskrrgn|Khoshiqor]], is the city a moving dune sea drowned when its well failed. [[place-ruinsarkor|Ruins of Arkor]], also called Bolid, at the western margin, is the city the league founded closest to the [[place-eastrnmrch|Eastern March]], and lies buried. [[place-jilaq|Jilaq]], the league's chief city, stands in the central waste, and the road bends three days round it. Beyond those three, a hundred miles of the road are lined with fallen light-towers that serve now as landmarks, and the tribes who water at their wells still leave a lamp at the foot of the tower on the night the last city fell.
 
 ## What the League Left Unanswered
 

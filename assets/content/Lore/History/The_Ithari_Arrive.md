@@ -44,9 +44,9 @@ data:
         - the record gives a bound and not a date—the Ithari were here before 10,000 BF, and nothing says how long before
 ---
 
-The Kaliharan record opens with the coming of the Ithari and says nothing of what preceded it. They
-arrived from somewhere that is not Thalorna, settled the island, and did not conquer it: the first
-humans they met there were scattered bands in the most rudimentary conditions, and the Ithari took
+The record of [[affiliation-kalihara|Kalihara]] opens with The Coming of the Ithari and says nothing of what preceded it. They
+arrived from somewhere that is not [[place-worldthlrn|The World of Thalorna]], settled the island, and did not conquer it: the first
+humans they met there were scattered bands in the most rudimentary conditions, and [[lore-theithari|The Ithari]] took
 them in.
 
 Everything anyone knows of them is one island's testimony, and the island has never published. Outside

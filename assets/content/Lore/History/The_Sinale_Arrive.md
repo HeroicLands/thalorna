@@ -65,8 +65,8 @@ data:
         - the figure is approximate and nobody holds it more closely than that
 ---
 
-The [[lore-flksinale|Sinale]] hold themselves to be the first of the speaking peoples to walk
-Thalorna, and by their own telling they are. They came from a prior realm whose nature they do not
+In The Coming of the Sinale, the [[lore-flksinale|Sinale Folk]] hold themselves to be the first of the speaking peoples to walk
+[[place-worldthlrn|The World of Thalorna]], and by their own telling they are. They came from a prior realm whose nature they do not
 disclose, and for a time they walked with only the creatures and spirits humans would later call fae,
 and with scattered bands of humans who lived then without cities or letters or settled tongues.
 

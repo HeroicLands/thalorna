@@ -67,20 +67,20 @@ data:
       unresolved: ["the kurthos's name, which no record gives"]
 ---
 
-In what is now reckoned as **Year 1**, a powerful _kurthos_ (senator)—backed by loyal legions and by the newly
+The Founding took place in what is now reckoned as **Year 1**: a powerful _kurthos_ (senator)—backed by loyal legions and by the newly
 chartered [[affiliation-ordoarcanis|Thordimalon]]—seized supreme power and declared himself
-Emperor. The Senate survived but was reduced from a governing body to an advisory one.
+Emperor. The [[affiliation-seldan|Seldan]] (the Senate) survived but was reduced from a governing body to an advisory one.
 
 The transformation was not a sudden revolution but the culmination of decades of political erosion.
-The late Republic had been wracked by civil wars, factional violence and the dangerous concentration
+The late [Vylarian Republic]{.name data-type="affiliation/polity"} had been wracked by civil wars, factional violence and the dangerous concentration
 of power in the hands of successful generals; the Emperor simply formalized what had already become
 reality.
 
-The calendar is the part of it that outlived the Empire. Events before this year are reckoned **Before
+The calendar is the part of it that outlived the [[affiliation-vylarinmpr|Vylarian Empire]]. Events before this year are reckoned **Before
 the Founding**, events after it **After the Founding**, and the reckoning is the working calendar of
-Mídhalión, Aureldia, Helionis, Taruzel, Provenzia, Tarvénia, Élavendre and Aelwyth—including the
+[[place-midhalnrgn|Mídhalión Region]], [[place-aureldirgn|Aureldia Region]], [[place-helionis|Helionis]], [[place-taruzelrgn|Taruzel Region]], [[place-provenzrgn|Provenzia Region]], [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]]—including the
 provinces that have long since gone their own way. Beyond that sphere other civilizations keep their
-own, and the Vylarian Calendar's reach is itself a visible measure of where the Empire's cultural
+own, and [[lore-commoncal|The Vylarian Calendar]]'s reach is itself a visible measure of where the Empire's cultural
 gravity still holds even where its legions no longer do.
 
 The record does not give the _kurthos_'s name.

@@ -46,4 +46,4 @@ Tavemas, the Twins, is a sign of quick wit and quicker fingers. Scribes, artisan
 | Spirit  | Lore, Mystical            | −15 |
 | Water   | Language, Social          | −5  |
 
-The wheel of signs, and what the six elements of the Iltheron (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the [[affiliation-astrokyklos|Iltheron]] (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

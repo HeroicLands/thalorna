@@ -9,7 +9,7 @@ data: {packFolder: lorespiritsokharic, culture: okharinclt}
 ---
 
 Kind
-: [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
+: [[lore-zohira|Zohira]], held to be an emissary of [[lore-nkaruthardty|Nkaru'thar]], the Eternal Flame
 
 Domain
 : Rivers
@@ -21,7 +21,7 @@ Met through
 : [[skill-yombelsprt|Yombel Ngoriring Spirit Power]], in the [[affiliation-yenorzhrng|Yenor Zohiring]]
 
 Yombel Ngoriring is the zohira of rivers as such, and she is met at whichever river a person
-stands beside. The Shókuma country, where the rivers twist through rainforest toward Au'Khelathu, holds
+stands beside. The country of the [[affiliation-shokumatrb|Shókuma Tribe]], where the rivers twist through rainforest toward the [[place-aukhelathrgq|Au'Khelathu Region]], holds
 more of her cairns than anywhere else, but a cairn on a nameless stream a thousand miles off is
 hers as surely.
 
@@ -30,6 +30,6 @@ consistent across her whole domain, which shamans regard as her chief mercy. Wha
 ford will be accepted at another. What is forbidden at one—fouling the water above a village,
 crossing in silence without announcing yourself—is forbidden at all of them.
 
-She takes drownings and does not apologize for them. The Okharik position is that a river is not
+She takes drownings and does not apologize for them. The [[lore-okharinclt|Okharin]] position is that a river is not
 safe and has never claimed to be, and that a family which loses someone at a ford has been given
 the same warnings as everyone else.

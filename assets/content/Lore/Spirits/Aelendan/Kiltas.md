@@ -9,10 +9,10 @@ data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 Kind
-: Animal-kin, of [[lore-thekindred|the Kindred]]
+: Animal-kin, of [[lore-thekindred|The Kindred]]
 
 Seat
-: [[place-silvrfrsts|the Silver Forests]]
+: [[place-silvrfrsts|The Silver Forests]]
 
 Territory
 : the lower wood, the field-edges and the middens
@@ -23,8 +23,8 @@ Posture
 Met through
 : [[skill-kiltassprt|Kiltas Spirit Power]]
 
-Kiltas holds the lower wood where the forest thins into field-edge and midden, which is to say
-the ground where the Áelendan and the wild are most mixed up with one another. He is
+Kiltas, the Red Fox of the Lower Wood, holds the lower wood where the forest thins into field-edge and midden, which is to say
+the ground where the [[lore-aelendnppl|Áelendan People]] and the wild are most mixed up with one another. He is
 correspondingly the least dignified of the named Kindred and the most frequently dealt with.
 
 He takes. Poultry, cached meat, small worked things left outside—these go, and the tradition does

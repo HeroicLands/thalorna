@@ -37,9 +37,9 @@ data:
         - whether the Sinale ever put that afternoon together with the builders of Kalihara's works
 ---
 
-The one crack in the silence is an afternoon, and almost nothing came through it.
+The Sinale Meet the Ithari records the one crack in the silence: an afternoon, and almost nothing came through it.
 
-The [[lore-flksinale|Sinale]] did not seek the [[lore-theithari|Ithari]] out; by their own account they
+The [[lore-flksinale|Sinale Folk]] did not seek [[lore-theithari|The Ithari]] out; by their own account they
 came upon them. They were received. They were not rebuffed, threatened, questioned or taken seriously.
 No exchange was proposed and no further meeting was arranged. The others returned to whatever they had
 been doing, and the Sinale went away.
@@ -47,6 +47,6 @@ been doing, and the Sinale went away.
 The limit of it is worth stating plainly. The Sinale met someone and learned nothing—not who they
 had met, not where those people had come from, not that there was any connection between them and
 anything else in the world. They do not use the name Ithari, because they were never given it. Nobody
-told the Kaliharans either, and Kalihara has never told them.
+told the Kaliharans either, and [[affiliation-kalihara|Kalihara]] has never told them.
 
 Both peoples will confirm that it occurred, and that is the end of what either will give.

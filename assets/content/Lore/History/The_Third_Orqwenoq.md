@@ -56,20 +56,20 @@ data:
       unresolved: [how many were in the town on the night]
 ---
 
-The third of the steppe's great unions is named for a town that was full of strangers and then silent.
+The Third Orkunoq is the third of the steppe's great unions, named for a town that was full of strangers and then silent.
 
 ## The Union
 
-About 548 AF an orkun forced the independent tribes of the [[place-khzryndsrtrgn|Khazryn]] together for the third time. The union overran the eastern fringe of [[place-velanthrgn|Velanthia]], as the steppe has done more than once, and it never came near enough to [[place-tantsouregin|Tantsou]] to threaten it. It broke up when its orkun died, and the tribes went back to their wells.
+About 548 AF an orkun forced the independent tribes of the [[place-khzryndsrtrgn|Khazryn Desert Region]] together for the third time. The union overran the eastern fringe of [[place-velanthrgn|Velanthia Region]], as the steppe has done more than once, and it never came near enough to [[place-tantsouregin|Tantsou Region]] to threaten it. It broke up when its orkun died, and the tribes went back to their wells.
 
 ## The Fair
 
-[[place-qimod|Qiimod]] stands on the southern spur, and in the week of the autumn market it was full. Tellumi horse-dealers, Vedyari spice factors, a Bizarian wine-agent, Tantsou silk-brokers and Sovidur herdsmen had come to trade, and the gate stood open for the fair. The orkun rode down the spur and by nightfall nobody in the walls was alive. The host took the stock and rode on at dawn. The dead lay where they fell, each belonging to a people whose rite was not performed.
+[[place-qimod|Qiimod]] stands on the southern spur, and in the week of the autumn market it was full. [[lore-khazrynclt|Tellumi]] horse-dealers, [[lore-vedyariclt|Vedyari]] spice factors, a [[lore-byzarianclt|Bizarian]] wine-agent, Tantsou silk-brokers and [[lore-sowidesclt|Sovidur]] herdsmen had come to trade, and the gate stood open for the fair. The orkun rode down the spur and by nightfall nobody in the walls was alive. The host took the stock and rode on at dawn. The dead lay where they fell, each belonging to a people whose rite was not performed.
 
 ## What It Left
 
 - **The town.** Qiimod's walls stand whole, with no one in them, over a thin blood-field of silence.
-- **The count.** The year the union rose is year 1 of the Silent Market in the [[lore-swdsclndr|steppe reckoning]], and the count is still running.
+- **The count.** The year the union rose is year 1 of the Silent Market in [[lore-swdsclndr|The Sovidur Reckoning]], and the count is still running.
 
 ## See Also
 

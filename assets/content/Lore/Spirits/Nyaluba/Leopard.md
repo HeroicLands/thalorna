@@ -10,11 +10,11 @@ tags: [draft, nyaluba]
 data: {packFolder: lorespiritsnyaluba, culture: nyalubaclt}
 ---
 
-The totemic being venerated by the [[affiliation-nylbtrblntn|Sengala]]. For the cult, its
+Leopard Spirit is the totemic being venerated by the [Sengala]{.name data-type="affiliation/polity"} of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. For the cult, its
 offices and its observances, see [[affiliation-nyalbleop|Leopard Totem]]; for the kinds of guide
 and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].
 
-The [[being-leopard|leopard]]-guide is the anomaly of the five. Nyáluba spirits are territorial by nature—powerful on their ground and nowhere else—and this one is not. It accompanies Sengala parties
+The leopard-guide is the anomaly of the five. Nyáluba spirits are territorial by nature—powerful on their ground and nowhere else—and this one is not. It accompanies Sengala parties
 far beyond the savannah, into the rainforest margin and, the traders say, further still.
 
 The Sengala explanation is that the ordeal binds the person rather than the ground, and that the
@@ -26,7 +26,7 @@ Its temperament is watchful and unhurried. It is described as already present ra
 arriving—in the tree above the camp before anyone thought to look up—and as indifferent to
 being acknowledged. It is the only guide the tradition holds may be addressed silently.
 
-Prohibitions it enforces upon the Sengala: not to hunt leopards, not to break a bargain struck
+Prohibitions it enforces upon the Sengala: not to hunt [[being-leopard|Leopard]]s, not to break a bargain struck
 under its notice, and not to reveal the route by which a party came.
 
-The rainforest holds many peoples, and those among them who speak Okharik know the leopard-guide under a name of their own, _Ndawelari Thakwaring_, the Hunter's Rival. They hold it a hunter's rival and not a guide: a presence that contests the kill and keeps a hunter honest.
+The rainforest holds many peoples, and those among them who speak [[skill-okharclng|Okharik Language]] know the leopard-guide under a name of their own, _Ndawelari Thakwaring_, the Hunter's Rival. They hold it a hunter's rival and not a guide: a presence that contests the kill and keeps a hunter honest.

@@ -36,18 +36,18 @@ data:
         - how long after the Sinale they followed, which the oldest mountain traditions put at roughly two thousand years and nobody holds more closely
 ---
 
-The [[lore-flkkhazar|Khazari]] came after the [[lore-flksinale|Sinale]]—the Second People, as some
-traditions call them. They came from another realm, which they call **Humadhan**, "the middle place".
+The [[lore-flkkhazar|Khazár Folk]] came after the [[lore-flksinale|Sinale Folk]]—the Second People, as some
+traditions call them. They came from another realm, which they call [Humadhan]{.name data-type="place/world"}, "the middle place".
 They seldom speak of it, and what they say is a tale rather than a record.
 
 The tale tells of a great war in Humadhan between the powers of good and evil. Rings were forged in
-that war that warp the mind and the soul, and the Khazari call them **Dagarakurágh**, "the
+that war that warp the mind and the soul, and the Khazari call them [Dagarakurágh]{.name data-type="miscgear"}, "the
 ringing-round of forcing": rings that force a mind and a soul against their grain, as a bad mason forces rock. One ring is a _kirghath_, and rings are
 _kirghathez_. Some were given to the Khazari's ancestors, and the rings corrupted them. Seven clans fled
-to Thalorna with their god [[lore-goddreams|Luváth]], and that flight is the crossing, the _khadhal_,
+to [[place-worldthlrn|The World of Thalorna]] with [[lore-goddreams|The God of Dreams]], their god Luváth, and The Coming of the Khazari is that flight, the crossing, the _khadhal_,
 of about 5300 BF.
 
-The flight had a leader, and the Khazari hold him to be the one who saved their people. **Puthakun**,
+The flight had a leader, and the Khazari hold him to be the one who saved their people. [Puthakun]{.name data-type="being/npc"},
 a servant of Luváth, led the seven clans out of Humadhan, and his name carries the charge "to open a
 way". Before the crossing he had every one of the clans swear before the god.
 When pursuit came after them, he stood at the passage and held the pursuers there until the last of
@@ -59,34 +59,34 @@ as the light kept below. The deed is carried in the tellings; the record of the 
 seven clans head for head and holds no entry for anyone else.
 
 They came as **seven clans**, and the number has never lost its significance to them. Each clan is named
-for the master craft it holds, in the mastery frame of [[skill-khazarlng|the language]]:
+for the master craft it holds, in the mastery frame of the [[skill-khazarlng|Khazari Language]]:
 
-Summágh
+[Summágh]{.name data-type="affiliation/lineage"}
 : listening to stone. The finders, who choose where a hold is cut.
 
-Dullák
+[Dullák]{.name data-type="affiliation/lineage"}
 : cutting stone.
 
-Rummák
+[Rummák]{.name data-type="affiliation/lineage"}
 : laying courses: halls, stairs and made roads.
 
-Gullád
+[Gullád]{.name data-type="affiliation/lineage"}
 : fire: the forge and smithing.
 
-Vurrán
+[Vurrán]{.name data-type="affiliation/lineage"}
 : the true line, following the rock's run. Miners and prospectors.
 
-Gurráz
+[Gurráz]{.name data-type="affiliation/lineage"}
 : guarding: the gates and the approaches.
 
-Lummáv
+[Lummáv]{.name data-type="affiliation/lineage"}
 : the record: the archive and the account.
 
-The houses of a clan hold crafts within its own, and each clan later held one of the seven towers of
-[[lore-khazarturn|Khazartúrn]]. Clan and house names are patrilineal, the genealogies are kept as
+The houses of a clan hold crafts within its own, and each clan later held one of the seven towers of the city described in
+[[lore-khazarturn|The Fall of Khazartúrn]]. Clan and house names are patrilineal, the genealogies are kept as
 carefully as the craft-records, and every line on Thalorna traces to one of the seven.
 
 For a long span afterward the two Elder Races lived and worked together, under what fragmentary
-tradition calls the Old Compact: the Sinale crafting in forest and starlight, the Khazari in stone and
+tradition calls [[lore-oldcompact|The Old Compact]]: the Sinale crafting in forest and starlight, the Khazari in stone and
 flame, and between them wonders neither could have made alone. Neither people will say when it began,
 and one of them will not say anything at all.

@@ -54,9 +54,9 @@ data:
         - where the joint works stand, how many of them there are, and which of them are still doing what they were made to do
 ---
 
-For twenty-eight centuries the [[lore-flksinale|Sinale]] and the [[lore-flkkhazar|Khazari]] held
+For twenty-eight centuries The Old Compact let the [[lore-flksinale|Sinale Folk]] and the [[lore-flkkhazar|Khazár Folk]] hold
 ground together. The accord opens within a generation of the Khazari arriving as seven clans, before
-[[lore-khazturnrsd|Khazartúrn was cut]], and it closes on the single day in 2427 BF when that city
+[[lore-khazturnrsd|The Raising of Khazartúrn]], and it closes on the single day in 2427 BF when that city
 was killed. Nothing in the world has ever recorded what its terms were.
 
 The Khazari account opens the accord with a refusal. Soon after the two peoples first met, a Sinale
@@ -71,15 +71,15 @@ Khazárian craft. Humans meet these as ruins and as priceless curiosities from a
 humanity, and cannot reproduce either half of one. They are not usually recognized as the work of two
 hands.
 
-It reached further than craft. Both peoples honored [[lore-goddreams|the god of dreams]] together, or at
+It reached further than craft. Both peoples honored [[lore-goddreams|The God of Dreams]] together, or at
 least in parallel, under the accord's terms—and when the accord shattered, the shared rites shattered
 with it. The Khazari also venerate the god's servant
-[[lore-khazararrv|Puthakun]], who led the seven clans out of Humadhan and saved their people, and the
+[Puthakun]{.name data-type="being/npc"}, who led the seven clans out of [Humadhan]{.name data-type="place/world"} and saved their people (see [[lore-khazararrv|The Coming of the Khazari]]), and the
 Sinale give him no honor at all. The two traditions have diverged so completely since that whether the Sinale's
 Aulveira and the Khazari's Luváth would recognize each other's rites is an
 open question, and one neither race has any interest in answering.
 
-The end is not gradual. It is [[lore-fallkhazturn|the Fall of Khazartúrn]], and the two events are
+The end is not gradual. It is [[lore-fallkhazturn|The Fall of Khazartúrn]], and the two events are
 one moment seen from two sides: the Khazari lose their greatest city and thirty thousand of their
 people, and the world loses the only arrangement the Elder Races ever made with one another. They do
 not speak. They do not trade. They do not enter each other's territories. On

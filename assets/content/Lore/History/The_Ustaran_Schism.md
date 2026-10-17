@@ -55,12 +55,12 @@ data:
       unresolved: []
 ---
 
-**Ústaron** the Forge-Lord holds both aspects of flame at once—the forge that shapes and the inferno
+In Ústaran belief, [[lore-ustarondty|Ústaron]] the Forge-Lord holds both aspects of flame at once—the forge that shapes and the inferno
 that consumes—and for most of the [[affiliation-arldnpnthn|Aureldian Pantheon]]'s history that
 duality was carried without difficulty. A god of fire was understood to be a god of both what fire
 makes and what it takes.
 
-The claim that split it could not be accommodated, because it was not a claim about emphasis. It was a
+The claim that caused The Ústaran Schism could not be accommodated, because it was not a claim about emphasis. It was a
 claim about which half of the god is real. Schisms over practice can be papered over; this one could
 not, because each faith's central claim is that the other worships half a god and calls it whole.
 

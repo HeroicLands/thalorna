@@ -46,4 +46,4 @@ Sirethas, the River, carries its children toward company and speech. Persuasive 
 | Spirit  | Lore, Mystical            | +5  |
 | Water   | Language, Social          | +15 |
 
-The wheel of signs, and what the six elements of the Iltheron (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the [[affiliation-astrokyklos|Iltheron]] (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

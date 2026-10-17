@@ -48,7 +48,7 @@ data:
       unresolved: []
 ---
 
-The most significant of the [[place-helionis|Helionite]] institutions was the
+The Founding of the Epistémion established the most significant of the institutions of [[place-helionis|Helionis]]: the
 [[affiliation-panepistmm|Epistémion]]—the _place of all knowledge_, a Helonic name
 the Vylarians kept when the schools came under their rule, and which these pages also call the Academy of Knowledge.
 
@@ -58,10 +58,10 @@ Epistémion was an attempt to unite them under a shared framework of standards a
 It was not a guild or a government body: it maintained its standards through peer reputation and
 scholarly consensus rather than legal authority, and it had no power to compel anyone.
 
-For roughly a century the arrangement flourished, and the colleges were roughly equal. Its College of
-Arcane Philosophy developed the foundational theories of elemental classification, oppositional
+For roughly a century the arrangement flourished, and the colleges were roughly equal. Its [College of
+Arcane Philosophy]{.name data-type="affiliation"} developed the foundational theories of elemental classification, oppositional
 forces and structured magical practice—but the arcane was one college among many, and in its
 original form the Epistémion gave equal standing to the study of ethics, logic, law, the nature of
 mind and the workings of the natural world.
 
-Then came [[lore-helionscnq|the wars]].
+Then came [[lore-helionscnq|The Conquest of Helionis]].

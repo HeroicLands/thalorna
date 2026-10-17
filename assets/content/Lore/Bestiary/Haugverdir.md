@@ -8,13 +8,13 @@ tags: []
 data: {banner: creaturebnr}
 ---
 
-Two kinds of hrúmverdir lie in the northern howes, and the first question to ask of one is which kind it is. The goddess raises one kind and sends it against the living; the other keeps its own mound and its own tale, and nobody can tell you ahead of time what it wants.
+Two kinds of Hrúmverdir lie in the northern howes, and the first question to ask of one is which kind it is. The faith’s accounts say the goddess raises one kind and sends it against the living; the other keeps its own mound and its own tale, and nobody can tell you ahead of time what it wants.
 
-_Hrúmverdir_, the howe-wardens, is a northern word for [[lore-undead|undead]] put to two uses. Both name a body that moves after death, and both name something touched by [[lore-theshadow|the Shadow]], which binds every undead to every other across every belief and culture. The two uses keep their own meanings, and the word does not make one of the other.
+_Hrúmverdir_, the howe-wardens, is a northern word for [[lore-undead|Undead]] put to two uses. Both name a body that moves after death, and both name something touched by [[lore-theshadow|The Shadow]], which binds every undead to every other across every belief and culture. The two uses keep their own meanings, and the word does not make one of the other.
 
 ## Nahild's Raised Dead
 
-The [[affiliation-nahild|Faith of Nahild]] calls its mindless reanimated corpses hrúmverdir: [[being-damut|damutu]] raised by [[lore-nahilddty|Nahild]]'s dark magic, chiefly from the bodies of the weak, of cowards and of the dishonored. They serve as servants and soldiers in her legions, under the command of her favored [[lore-nagengir|nágengir]]. Nahild draws the power that raises them from [[lore-ginnauga|Ginnauga]], the Eye of the Void, a powerful source of the Shadow.
+The [[affiliation-nahild|Faith of Nahild]] calls its mindless reanimated corpses hrúmverdir: members of the [[being-damut|Damut]] kind raised through what the faith holds to be [[lore-nahilddty|Nahild]]'s dark magic, chiefly from the bodies of the weak, of cowards and of the dishonored. They serve as servants and soldiers in her legions, under the command of her favored [[lore-nagengir|Nágengir]]. The faith holds that Nahild draws the power that raises them from [[lore-ginnauga|Ginnauga]], the Eye of the Void, a powerful source of the Shadow.
 
 ## The Dead in Their Mounds
 

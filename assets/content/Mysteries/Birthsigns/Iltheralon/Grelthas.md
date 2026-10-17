@@ -46,4 +46,4 @@ Grelthas, the Stag, gives an eloquent tongue and a searching mind. Born orators,
 | Spirit  | Lore, Mystical            | +10 |
 | Water   | Language, Social          | +10 |
 
-The wheel of signs, and what the six elements of the Iltheron (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the [[affiliation-astrokyklos|Iltheron]] (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

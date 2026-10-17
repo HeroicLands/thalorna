@@ -84,26 +84,26 @@ data:
       unresolved: []
 ---
 
-The decline was driven by a combination of overextension, internal corruption, barbarian pressure from
+The Decline of the Vylarian Empire was driven by a combination of overextension, internal corruption, barbarian pressure from
 [[place-vrystwald|Vristwald]] and the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], and the gradual
-independence of provinces. [[place-provenzrgn|Provenzia]] and [[place-tarvenirgn|Tarvénia]] are long
+independence of provinces. The [[affiliation-kngdmprvnz|Kingdom of Provenzia]] and the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] are long
 since successor states; [[place-helionis|Helionis]] has regained practical independence while
 maintaining formal ties.
 
-The most humiliating blow came twelve years ago. The Taruzelian merchant princes, grown rich as
+The most humiliating blow came twelve years ago. The [[lore-taruzelianclt|Taruzelian]] merchant princes, grown rich as
 intermediaries in the eastern trade, had chafed for generations under imperial taxation imposed
-without any representation in the Senate. When the empire answered their growing power with heavier
+without any representation in the [[affiliation-seldan|Seldan]] (the Senate). When the [[affiliation-vylarinmpr|Vylarian Empire]] answered their growing power with heavier
 levies, the merchants bankrolled a revolution and recruited the common people with promises of
 liberty.
 
 The imperial response was effective on land—until
-[[affiliation-empireakhlth|Empire of Au'Khelathu]], seeing an opportunity to weaken a northern rival, covertly
-supplied the rebels with gold, weapons and military advisors. Khelathi gold kept the rebellion solvent
+the [[affiliation-empireakhlth|Empire of Au'Khelathu]], seeing an opportunity to weaken a northern rival, covertly
+supplied the rebels with gold, weapons and military advisors. [[lore-khelathiclt|Khelathi]] gold kept the rebellion solvent
 and Khelathi naval expertise turned a ragtag flotilla into a fighting force; the destruction of a
-Vylarian squadron at the Battle of [[place-tamzirshoals|Tamzir Shoals]] broke the empire's ability to sustain its eastern
-garrisons, and Taruzel's independence was recognized within the year.
+Vylarian squadron in the [Battle of Tamzir Shoals]{.name data-type="lore/history"}, at [[place-tamzirshoals|Tamzir Shoals]], broke the empire's ability to sustain its eastern
+garrisons, and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]' independence was recognized within the year.
 
-Today the empire has retreated to its core territories around the Vylarian peninsula, though it still
+Today the empire has retreated to its core territories around the peninsula of the [[place-vylariargn|Vylaria Region]], though it still
 claims nominal authority over regions that have long since gone their own way. The loss of Taruzel's
 trade revenues has accelerated the fiscal decline, made worse by the explosion of direct
 Taruzelian–Khelathi commerce that now bypasses Vylarian intermediaries entirely.

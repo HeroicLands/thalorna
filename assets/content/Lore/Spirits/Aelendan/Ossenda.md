@@ -9,13 +9,13 @@ data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 Kind
-: Animal-kin, of [[lore-thekindred|the Kindred]]
+: Animal-kin, of [[lore-thekindred|The Kindred]]
 
 Seat
 : [[place-owlhollow|The Owl Hollow]]
 
 Territory
-: the hollow and the wood immediately about it, in the Áelendan Tribal Lands
+: the hollow and the wood immediately about it, in the [[place-alndntrblnds|Áelendan Tribal Lands]]
 
 Posture
 : Venerated
@@ -23,8 +23,8 @@ Posture
 Met through
 : [[skill-ossendasprt|Óssenda Spirit Power]]
 
-Óssenda presides over the owls of the wood in the Owl Hollow, and over a narrower thing
-besides: what is said aloud at night within her territory. The Áelendan of the surrounding country are careful
+Óssenda, the White Owl of the Hollow, presides over the owls of the wood in the Owl Hollow, and over a narrower thing
+besides: what is said aloud at night within her territory. The [[lore-aelendnppl|Áelendan People]] of the surrounding country are careful
 speakers after dark, not from fear of her but because she is understood to be listening and to
 remember.
 
