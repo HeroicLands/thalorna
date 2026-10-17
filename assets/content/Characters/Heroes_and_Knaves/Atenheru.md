@@ -423,13 +423,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Atazkharu stands 6'2\" tall with a medium build. He has olive-tanned skin, dark hair, and brown eyes. His features include an oval face, a long nose, a pointed chin, full lips, arched brows.
+Atazkharu Sahri stands 6'2\" tall with a medium build. He has olive-tanned skin, dark hair, and brown eyes. His features include an oval face, a long nose, a pointed chin, full lips, arched brows.
 
 # Dossier {#dossier}
 
-Atazkharu, called Chuyelqiimod, “the Silent Jackal,” on the steppe, and Chuel by those who know him, was a desert ranger from the **[[affiliation-sahritrb|Sahri]]** nomads, a tribe living in the remote reaches of the [[place-khzryndsrtrgn|Khazryn Desert]]. Skilled in tracking and surviving in one of the harshest environments in the world, Atazkharu developed a connection with the desert and its spiritual forces. During one of his routine desert patrols, Atazkharu stumbled upon [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]], who had wandered deep into the desert after the first of his celestial visions. At the time, [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]] was lost, dehydrated, and struggling to interpret the significance of the stars guiding him into the unknown.
+Atazkharu, called Chuyelqiimod, “the Silent Jackal,” on the steppe, and Chuel by those who know him, was a desert ranger from the [[affiliation-sahritrb|Sahri]] nomads, a tribe living in the remote reaches of the [[place-khzryndsrtrgn|Khazryn Desert Region]]. Skilled in tracking and surviving in one of the harshest environments in the world, Atazkharu developed a connection with the desert and its spiritual forces. During one of his routine desert patrols, Atazkharu stumbled upon [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]], who had wandered deep into the desert after the first of his celestial visions. At the time, Amqelet-Zelemu Legulu’akun was lost, dehydrated, and struggling to interpret the significance of the stars guiding him into the unknown.
 
-Atazkharu, guided by an instinctual pull from the **Jackal Spirit**—a protector of wanderers in the desert—rescued [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]] and brought him to a hidden oasis. It was there, as [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]] shared his visions of celestial upheaval, that Atazkharu realized their fates were entwined. The same stars that guided [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]] through his visions also aligned with the Sahri’s ancient prophecies. Believing that [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]]’s quest might hold the key to understanding the mysteries of the desert and its spiritual protectors, Atazkharu pledged his assistance, convinced that the Jackal Spirit had chosen him to guide the astrologer through the perils of both the desert and his destiny.
+Atazkharu, guided by an instinctual pull from the [Jackal Spirit]{.name data-type="lore/spirit"}—a protector of wanderers in the desert—rescued Amqelet-Zelemu Legulu’akun and brought him to a hidden oasis. It was there, as Amqelet-Zelemu Legulu’akun shared his visions of celestial upheaval, that Atazkharu realized their fates were entwined. The same stars that guided Amqelet-Zelemu Legulu’akun through his visions also aligned with the Sahri’s ancient prophecies. Believing that Amqelet-Zelemu Legulu’akun’s quest might hold the key to understanding the mysteries of the desert and its spiritual protectors, Atazkharu pledged his assistance, convinced that the Jackal Spirit had chosen him to guide the astrologer through the perils of both the desert and his destiny.
 
 ## Background
 
@@ -449,19 +449,19 @@ Atazkharu, guided by an instinctual pull from the **Jackal Spirit**—a protecto
 - **Eloquence**: He prefers silence over speaking, communicating only when necessary.
 - **Morality**: Atazkharu’s actions are driven by duty and survival in the harsh desert, but he adheres to the codes of his people when necessary, often balancing pragmatism with tradition.
 - **Voice**: Atazkharu’s voice is quiet and often soft-spoken, better suited for stealth and secrecy than for singing. He avoids singing when possible.
-- **Desert Survivalist**: Atazkharu’s mastery of the **[[place-khzryndsrtrgn|Khazryn Desert]]** allows him to navigate the harsh environment with ease, so the group can find shelter, water, and food even in the most desolate areas.
+- **Desert Survivalist**: Atazkharu’s mastery of the Khazryn Desert allows him to navigate the harsh environment with ease, so the group can find shelter, water, and food even in the most desolate areas.
 - **Silent Tracker**: As a ranger, Atazkharu can move unnoticed through almost any terrain, making him useful as a scout and guide. His ability to follow tracks, both physical and spiritual, helps the group avoid danger.
-- **Spiritual Connection to the Jackal Spirit**: Atazkharu feels a deep bond with the **Jackal Spirit**, which guides him through intuition and dreams. This connection allows him to sense spiritual disturbances or approaching threats, protecting the group from dangers both seen and unseen.
+- **Spiritual Connection to the Jackal Spirit**: Atazkharu feels a deep bond with the Jackal Spirit, which guides him through intuition and dreams. This connection allows him to sense spiritual disturbances or approaching threats, protecting the group from dangers both seen and unseen.
 
 ## Psyche
 
 ### Personality
 
-Atazkharu is quiet, observant, and deeply spiritual, drawing his strength from the desert and the ancient spirits that guide his people. He is a calm, reassuring presence, grounded by his connection to the land and its spiritual energies. Atazkharu believes in fate and destiny, but he tempers this with practicality, focusing on survival and on keeping [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]] safe as they journey into the unknown.
+Atazkharu is quiet, observant, and deeply spiritual, drawing his strength from the desert and the ancient spirits that guide his people. He is a calm, reassuring presence, grounded by his connection to the land and its spiritual energies. Atazkharu believes in fate and destiny, but he tempers this with practicality, focusing on survival and on keeping Amqelet-Zelemu Legulu’akun safe as they journey into the unknown.
 
 ### Motivation
 
-Atazkharu believes that [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]]’s visions are tied to the prophecies of his people and that by assisting him, he will fulfill his own spiritual purpose as the Jackal Spirit’s chosen protector. He feels destiny in helping [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]] navigate the challenges of the desert and beyond.
+Atazkharu believes that Amqelet-Zelemu Legulu’akun’s visions are tied to the prophecies of his people and that by assisting him, he will fulfill his own spiritual purpose as the Jackal Spirit’s chosen protector. He feels destiny in helping Amqelet-Zelemu Legulu’akun navigate the challenges of the desert and beyond.
 
 ### Strengths
 

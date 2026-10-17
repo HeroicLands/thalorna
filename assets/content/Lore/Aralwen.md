@@ -32,8 +32,8 @@ a river is a road with one end in each world, and it goes somewhere.
 The [[affiliation-alndnwrdns|Áelendan Wardens]] exist for these. Their charge is the sacred geography
 of the interior, and their doctrine is graduated: a trespasser who blunders in is warned once and
 escorted out, and one who returns, or who desecrates, is dealt with finally. Their authority over an
-aralwen is recognized both by tribal custom and by the crown of Élavendre, and it is older than
-either—it descends from the Kindred Pact, the compact between the Áelendan and the land itself.
+aralwen is recognized both by tribal custom and by the crown of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], and it is older than
+either—it descends from the [Kindred Pact]{.name data-type="lore/law"}, the compact between the Áelendan and the land itself.
 
 That has put them in open conflict with the [[affiliation-ordoarcanis|Thordimalon]], which regards
 the aralwain as the most interesting arcane phenomena in the west and has spent decades sending
@@ -42,17 +42,17 @@ tallies its losses privately, and sends more agents.
 
 ## Named Aralwain
 
-- **Úkua-Arálwen**—a _slow_ aralwen of deep Terrae resonance, all ancient trees and dryads, whose
+- [Úkua-Arálwen]{.name data-type="place"}—a _slow_ aralwen of deep [Terrae]{.name data-type="lore/arcana"} resonance, all ancient trees and dryads, whose
   time runs at its own rate: a day inside can be a month outside. Few who enter come out. Its flora
   is not merely large but occasionally mobile and hostile.
-- [[place-urontekhi|The Uron Tekhi]]—not an aralwen itself but a Kindred that holds one: the
+- [[lore-uronspr|The Uron Tekhi]]—not an aralwen itself but a Kindred that holds one: the
   oldest the Áelendan deal with, counted fae-adjacent, and understood to have crossed the boundary
   long ago or to have been fae-kin from before the tribes came.
 
 ## The Name
 
-_Aralwen_ is the [[affiliation-theoldway|Old Way]]'s word, worn down from an older **arallwyn**—"the other place." The doubled consonant simplified, the ending fronted as it does in Tena and
-Timel, and the stress settled where the acute now marks it. Áelendan shamen use the plural
+_Aralwen_ is [[affiliation-theoldway|The Old Way]]'s word, worn down from an older **arallwyn**—"the other place." The doubled consonant simplified, the ending fronted as it does in the names of [[lore-tenaspr|Tena, the Hearth of Ésalosa]] (_Tena_) and
+[[lore-tipelspr|Timel, the Hawk of the Spine]] (_Timel_), and the stress settled where the acute now marks it. Áelendan shamen use the plural
 **aralwain**; the Élavendren court, which prefers not to name such things precisely, says _the thin
 places_.
 

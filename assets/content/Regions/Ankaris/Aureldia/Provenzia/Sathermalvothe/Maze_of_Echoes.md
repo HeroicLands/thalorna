@@ -8,7 +8,7 @@ tags: [woodland, mountain, inland]
 data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFolder: provenzia}
 ---
 
-A maze encountered within [[lore-aralwen|Úkua-Arálwen]], where sound does not behave as it should—the
+A maze encountered within [Úkua-Arálwen]{.name data-type="place"}, where sound does not behave as it should—the
 obstacle that stands between a party and the [[miscgear-heartofdhirikri|Heart of Dirikri]].
 
 ## Where Úkua-Arálwen Is
@@ -22,14 +22,14 @@ treated. Neither crown administers it; neither crown has ever seriously tried. T
 [[affiliation-alndnwrdns|Áelendan Wardens]], who guard the aralwain as a matter of duty rather than of
 sovereignty and who are entirely indifferent to which kingdom's map the trespasser is carrying.
 
-Úkua-Arálwen is a **slow** aralwen of deep Terrae resonance—ancient trees, dryads, flora both gigantic
+Úkua-Arálwen is a **slow** aralwen of deep [Terrae]{.name data-type="lore/arcana"} resonance—ancient trees, dryads, flora both gigantic
 and occasionally mobile—and it is temporally unreliable enough that few of the humans who enter it
 return. A [[miscgear-temprlcmpss|Temporal Compass]] makes the passage survivable and does nothing about
 anything else.
 
 ## The Maze
 
-The Maze itself is a labyrinth of living wood and vine that shifts and rearranges, and it answers to
+The Maze of Echoes itself is a labyrinth of living wood and vine that shifts and rearranges, and it answers to
 **sound**. Echoes reveal the paths: the correct way returns a crystalline resonance, resonant crystals
 set through the maze must be struck in sequence, and a party that listens carefully to how the echoes
 change can tell when it is nearing the Heart—or nearing a trap.

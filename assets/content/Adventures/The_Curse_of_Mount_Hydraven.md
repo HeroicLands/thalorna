@@ -16,7 +16,7 @@ data:
 
 ## The Curse of Mount Hidraven
 
-Mount Hidraven, a peak in the Provenzian highlands, has become a place of dread. Travelers vanish, livestock sicken, and villages at its base report terrible dreams and ill fortune. The party must investigate the curse and uncover its source.
+[[place-hydravenmnt|Mount Hidraven]], a peak in the Provenzian highlands, has become a place of dread. Travelers vanish, livestock sicken, and villages at its base report terrible dreams and ill fortune. The party must investigate the curse and uncover its source.
 
 ### Overview
 
@@ -64,7 +64,7 @@ The party gathers information about the mountain, the curse, and its potential s
 - The priesthood is divided and may hinder or help based on their theories
 - A party member becomes affected by the curse (nightmares, visions, weakness)
 - Someone in the village actively works to prevent investigation (protecting a secret)
-- The [[affiliation-ordoarcanis|Thordimalon]] may attempt to monopolize the investigation
+- The Thordimalon may attempt to monopolize the investigation
 
 ### Stage Three: Approaching the Mountain
 
@@ -90,7 +90,7 @@ As the party reaches higher elevations, they discover the curse's origin:
 **Possible Sources:**
 
 - **Desecrated Pre-Aureldían Shrine:** A sacred site was disturbed or destroyed, angering the spiritual essence or power bound within
-- **Awakened Entity:** An ancient being (demon, spirit, forgotten god, nature entity) was released or disturbed and now lashes out
+- **Awakened Entity:** An ancient being (demon, spirit, or nature entity) was released or disturbed and now lashes out
 - **Cursed Artifact:** An object of power was brought down the mountain by a previous expedition, and the curse is an effect of its disturbance or theft
 - **Human Conspiracy:** Someone deliberately cursed the mountain to achieve a goal (power, control, revenge)
 - **Forgotten Compact:** The mountain was protected by an old agreement that has been broken
@@ -123,13 +123,13 @@ The party must resolve the curse by addressing its root cause. Options include:
 - The party discovers knowledge about pre-Aureldían traditions or the true nature of the mountain
 - Gratitude and rewards flow from affected villages and the hiring authority
 - The mountain may become a site of pilgrimage or renewed sanctity
-- The [[affiliation-ordoarcanis|Thordimalon]] may be interested in studying what was found or learned
+- The Thordimalon may be interested in studying what was found or learned
 
 **Complications:**
 
 - The curse may not be fully broken, merely suppressed (returning later)
 - The party may have to maintain a vigil or perform periodic rituals
-- The source of the curse reveals larger threats (demonic activity, dying ancient gods, etc.)
+- The source of the curse reveals larger threats, such as demonic activity
 - Someone profits from or supports the curse's continuation and may oppose its lifting
 
 ### See Also

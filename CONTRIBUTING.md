@@ -59,6 +59,32 @@ Kelestia Productions' Hârn properties never enters this repository — it lives
 separate licence. Under no circumstances commit copyrighted text, art, maps, or
 trade dress belonging to a third party.
 
+## Names in prose
+
+Follow [Mark every name](assets/content/README-gazeteer.md#mark-every-name):
+introduce a proper name in full with a wikilink to its surviving indexed note,
+or `[Full Name]{.name data-type="type/subType"}` where no note exists. Use a
+typed name instead of creating an empty placeholder note. The note's own
+subject is plain text; later mentions may use plain natural aliases. Bold is
+emphasis and never identifies a name for tooling.
+
+A named person defaults to `being/npc` unless the owner explicitly designates
+them as playable; `being/character` requires that designation. Prominence,
+protagonist status, a possible player takeover or a part in a play does not
+establish it. Creatures use `being/creature`.
+
+Resolve institutions separately from the figures or states associated with
+them. A governing council and its polity have distinct identities. Mortal
+religious teachings, observances, temples, hierarchy and political power refer
+to the faith or tradition. A deity's name usually stands for the religion: use
+the faith as the usual target, and a deity link only when the context clearly
+concerns the divine figure, its myths or cosmological roles. Context establishes which is meant: a god's name or a mention
+of priests alone does not decide the target. All deities may or may not exist;
+none interacts directly in the World of Thalorna. Their worldly actions take
+place through mortal agents. An event can be established while its divine
+cause remains uncertain. Attribute that belief without confirming a miracle or
+dismissing it as necessarily coincidence or fraud.
+
 ## Nordmal names
 
 A generic membership title in the reader's tongue can use a concordance `keep`
@@ -110,7 +136,7 @@ where it names the wrong kind of standing, where it is out of its period, or
 where the culture's own notes already name the standing natively.
 
 A rank note's full name is never a bare common English word such as _King_ or
-_Thrall_: a bold use of that word anywhere in the setting would match it. The
+_Thrall_: the full name must identify the culture's particular standing. The
 note takes the culture's own word, entered in that language's dictionary, and
 the English word stays in its description.
 

@@ -246,7 +246,7 @@ The note types below are those in `package-build/docs/reference/note-types.md`. 
 
 **Voice:** A close, observant profile for an individual; an account of a recognizable role for a template; a field observer or local witness for a creature when that viewpoint adds information. Show what the being does and how others experience it. A telling action or brief encounter can reveal more than a string of adjectives. The prose follows a consistent section structure for the kind of being described.
 
-Use `subType: character` for one fully developed, playable individual. Use `subType: npc` for a being meant to be encountered rather than necessarily played; an NPC may be an individual or a reusable template such as a town guard. Use `subType: creature` for any being that is neither a character nor an NPC. These subtypes classify the being's role in the content regardless of species, intelligence, or appearance.
+Use `subType: character` only for an individual the owner explicitly designates as playable. A named person defaults to `subType: npc`; an NPC may be an individual or a reusable template such as a town guard. Prominence, protagonist status, a possible player takeover or a part in a play does not establish playable status. Creatures use `subType: creature`. These subtypes classify the being's role in the content regardless of species, intelligence, or appearance.
 
 Every being uses this format:
 
@@ -520,18 +520,18 @@ For a reusable NPC template, describe the role rather than inventing one person'
 
 **A roster entry names its person first.** Under `Patrons` and `Enemies`, and
 under any other list of people or bodies a being stands with or against, each
-entry is one bullet: the full name, in bold, then a colon, then what the
-relationship is and why it matters.
+entry is one bullet: the full name, marked on first prose use as described in
+_Mark every name_, then a colon, then what the relationship is and why it matters.
 
 ```markdown
-- **Merchant-Lord Davos the Uncouth**: A wealthy merchant with smuggling
+- [Merchant-Lord Davos the Uncouth]{.name data-type="being/npc"}: A wealthy merchant with smuggling
   interests along the coast, who commissions maps of hidden coves.
 ```
 
-The colon sits **outside** the bold, so the bold span is the name and nothing
-else. A title or epithet belongs inside it where that is how the person is
-named. A name written as a wikilink needs no bold, as _Mark every name_ sets
-out, and takes the colon after the link.
+The colon sits **outside** the name span. A title or epithet belongs inside
+where that is how the person is named. Use a full-name wikilink instead where
+the person has a surviving indexed note, as _Mark every name_ sets out, and
+put the colon after the link.
 
 **`creature`—a being outside the other two roles.** [Abyssal Silt](../assets/content/Bestiary/Dreadspawn/Abyssal_Silt.md) illustrates a predatory creature. Use `Appearance` to make the first encounter sensory and recognizable without revealing what the creature intends or can secretly do. Use `Dossier` for the runner's account, which opens with a short passage on what the creature is and where it is found, then runs through `Presentation`, `In the Land`, `Key Behaviors`, `What the … Do`, `Signs`, `Combat Strategy`, `Attack Methods`, `Special Abilities`, and `Attributes`, in that order.
 
@@ -951,25 +951,49 @@ TBD.
 
 ## Mark every name
 
-Bold is the mark of a name that would be a link if its note existed. That makes
-the two marks one system: a reader sees at once which names lead somewhere and
-which are still waiting for a note, and the inventories that find missing notes
-read the bold spans. A name has a note when it is the `name.full` or one of the
-`aliases` of a note in the content index.
+Bold is emphasis, never a machine-readable name marker. A name has a surviving
+indexed note when it is the `name.full` or one of the `aliases` of that note;
+resolve shared names by their meaning in context.
 
-1. **A name's first use in a note's prose is its full name.** That keeps every
-   later short form unambiguous. A possessive or other inflected form counts as
-   a use: "Hvilgthann's holdings" is a use of Hvilgthann. Headings, frontmatter,
-   tables and infoboxes are not prose, so a name there is not its first use.
-2. **If the name has a note, its first use is a link to that note, labelled with
-   the full name.**
-3. **If the name has no note, its first use is a bold span whose whole text is
-   the name.** It may sit inside italics, never inside a longer bold span.
-4. **After the first use, no bold span is exactly the name.** A bold span with
-   other words in it is emphasis, not a name mark, and stays as written.
-5. **A note links to another note, or to one heading of it, at most once.** Every
-   later use is plain text. Links to two different headings of one note are two
-   destinations.
+A governing council and the polity it governs are distinct entities. Link a
+council's decisions, officers and authority to the governing body, and the state
+to its polity note. The Dúnavarre Synod is the council; the Kingdom of Dúnavarre
+is the state.
+
+Mortal religious teachings, ceremonies, practices, temples, hierarchy and
+political power refer to the faith or tradition. Myths, divine figures and
+cosmological roles may refer to a deity where the passage is about that figure.
+A deity's name usually stands for the religion; use the faith as the usual
+target, and a deity link only when the context clearly concerns the divine
+figure.
+A god's name or a mention of priests alone does not establish the target;
+read the surrounding account. All deities may or may not exist, and none
+interacts directly in the World of Thalorna; their worldly actions take place
+through mortal agents. Describe divine figures and cosmological roles as
+theology where their existence or action is a matter of belief. An event can
+be established while its divine cause remains uncertain; attribute that belief
+without confirming a miracle or dismissing it as necessarily coincidence or
+fraud.
+
+1. **A name's first use in a note's prose is its full canonical name.** A
+   possessive or other inflected form counts as a use, with the ending outside
+   the link or span. Read the whole note in order; section boundaries do not
+   reset first use. Headings, tables, infoboxes, code, frontmatter, comments,
+   embeds and navigation are outside this prose scope.
+2. **If a surviving indexed note exists, link the first use to it with its
+   `name.full`.** An empty label that resolves to the full name also works.
+3. **If no surviving note exists, mark the first use with a typed name span:**
+   `[Full Name]{.name data-type="type/subType"}`. Use the declared type and
+   subtype, or a bare type where appropriate; do not invent an unknown full
+   name or classification.
+4. **The note's own proper-name subject first appears in full as plain text,**
+   without a self-link or name span. Common-noun subjects stay ordinary nouns.
+5. **Later name mentions are plain text, with natural aliases allowed.** Remove
+   repeated semantic name marks or links, while judging useful structural,
+   topic and navigation links by their role.
+6. **Preserve genuine emphasis.** A name inside longer bold or italic emphasis
+   receives its own link or typed span within that emphasis. Generic attribute
+   labels such as **Strength** may remain bold for emphasis.
 
 After the first use, a short name may stand in for the full one: the calling
 name, nickname or other short form the person's culture uses, wherever it reads
@@ -985,18 +1009,16 @@ epithet that stands for a person or a god, such as `The All-Father` or
 `Dagmar the Skaald`, and so is a name carrying a possessive or a regnal
 number.
 
-Three things are not names, and none of them takes bold:
+Three things are not names:
 
 - **A common noun**, however important the thing is.
 - **A rank, office or title used as the common word for it**—the gudi who
   keeps a hall, the hersvald who comes up from the valley. Such a word is a
   name only where the phrase names one specific post, the way
   `the Hersvald of the coastal district` names a seat.
-- **Emphasis on a word, a sentence or a clause.** Emphasis is set in italics:
-  bold on a statement reads as a name. Where bold emphasis does occur, rule 4
-  reads any bold span longer than a name as emphasis, never as a name mark.
+- **Emphasis on a word, a sentence or a clause.** Bold and italics carry
+  emphasis independently of name marking.
 
-Taking the bold off a common noun or a rank leaves it **plain**, not italic.
 Italics have two uses and no others: an in-world word that is not a name, and
 stress a speaker would actually give, which is rare in prose. An ordinary word
 set in italics because it seemed important—_the mountains_, _the coast_, _eight
@@ -1004,8 +1026,7 @@ million_—is as distracting as a stray bold, and it is the commonest mark of
 careless prose.
 
 **An in-world word that is not a name is italic every time:** _tob_, _havadh_,
-_filnath_. **A name is never italic**—a person, place, god, house, clan or named
-work: Sarghafudhál, Lakamamulán, The Crossing of the Clans.
+_filnath_.
 
 **A culture's common words are set in roman.** The in-world terms, a dozen at most, that
 players and GMs are expected to know are listed in the **Glossary** of that
@@ -1073,8 +1094,8 @@ verse and its caption exactly as they stand.
 - **Show consequences.** Explain what a measurement, custom, law, resource, or belief changes in everyday life.
 - **Keep perspectives identifiable.** Attribute a local's words or beliefs, especially where accounts disagree.
 - **Use maps and related notes.** Locate places and show routes between them; link to the adjacent region, settlement, institution, person, creature, or event when the relationship helps readers continue exploring.
-- **Keep names findable.** Bold a name on its first use unless it is a
-  wikilink, as _Mark every name_ sets out.
+- **Keep names findable.** Use a full-name wikilink or typed name span on first
+  prose use, as _Mark every name_ sets out.
 - **Use space according to importance.** A major settlement can support a substantial account. A minor site still needs enough detail to distinguish it and make its links useful.
 
 The aim is a reference that rewards both kinds of use: a GM looking up a precise fact during preparation, and a player following their curiosity through the world. The facts stay dependable. The prose makes them matter.

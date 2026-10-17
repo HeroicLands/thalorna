@@ -8,10 +8,10 @@ data: {templatePriority: null, packFolder: provenzia}
 sohl: {system: {weightBase: 1, valueBase: 0, durabilityBase: 8}}
 ---
 
-The **Temporal Compass** is an ornate enchanted instrument made for one purpose: to get a living person
-through [[lore-aralwen|Úkua-Arálwen]] and out again in something close to the time they expected.
+The Temporal Compass is an ornate enchanted instrument made for one purpose: to get a living person
+through [Úkua-Arálwen]{.name data-type="place"} and out again in something close to the time they expected.
 
-Úkua-Arálwen is a _slow_ zone of deep Terrae resonance, and its temporal anomalies are the reason so
+Úkua-Arálwen is a _slow_ zone of deep [Terrae]{.name data-type="lore/arcana"} resonance, and its temporal anomalies are the reason so
 few who enter it return. A day inside is not a day outside, the discrepancy is not constant, and a
 traveler who simply walks in and walks out may emerge to find that the season has changed or that
 years have. The Compass does not remove this. It **stabilizes time in a slight field around the
