@@ -14,15 +14,15 @@ data:
   culture: elavendriclt
 ---
 
-Where the [[place-auldalon|Áuldalon]] hills climb toward the mountains and the oak gives way to birch, a fold of ground holds a hill with a door in it. The door is fitted stone, cut square in the manner of the Vylarian legions, and behind it a hall is lit by a fire that has burned since the war at Valdun. The hill-drovers name it **the Kept Fire**, in [[skill-elvndrlng|Élavendri]] _Káralson_, the hearth of a hall. They drive their flocks round it by a half-day's detour and do not say why.
+Where the [[place-auldalon|Áuldalon]] hills climb toward the mountains and the oak gives way to birch, a fold of ground holds a hill with a door in it. The door is fitted stone, cut square in the manner of the Vylarian legions, and behind it a hall is lit by a fire that has burned since the war at [[place-valdun|Valdun]]. The hill-drovers name it **The Kept Fire**, in the [[skill-elvndrlng|Élavendri Language]] _Káralson_, the hearth of a hall. They drive their flocks round it by a half-day's detour and do not say why.
 
 ## The Cohort
 
-When the Vylarian legions came north-west into the hills and [[lore-elvtribute|the war at Valdun]] was fought, a cohort that followed a path at the forest margin was not seen again. The hill levy tells it as a victory of the ground. The cohort's _Lusar_, **Solkimos**, led it on a winter night into the fold, and found a hall with a lit door.
+When the Vylarian legions came north-west into the hills and the war at Valdun recounted in [[lore-elvtribute|The Tribute of Élavendre]] was fought, a cohort that followed a path at the forest margin was not seen again. The hill levy tells it as a victory of the ground. The cohort's _Lusar_, **[Solkimos]{.name data-type="being/npc"}**, led it on a winter night into the fold, and found a hall with a lit door.
 
-He did not ask. A Vylarian _Lusar_ with frostbitten men at his back and a legion's name behind him demanded shelter for the Sovereign's soldiers. The one within, whom the Áelendan name _dáimela_, the Giver, answered in the manner of its kind: exactly. It gave a hall, a fire and bread. The _Lusar_ swore that his cohort would hold the place against all comers for as long as the Sovereign's name stood, and the Giver took him at his word.
+He did not ask. A Vylarian _Lusar_ with frostbitten men at his back and a legion's name behind him demanded shelter for the Sovereign's soldiers. The one within, whom the [[lore-aelendnppl|Áelendan People]] name _[dáimela]{.name data-type="lore/spirit"}_, the Giver, answered in the manner of its kind: exactly. It gave a hall, a fire and bread. The _Lusar_ swore that his cohort would hold the place against all comers for as long as the Sovereign's name stood, and the Giver took him at his word.
 
-The cohort holds it still. Its men are not dead and not of the Shadow. They are kept: they do not age, they do not sleep, they eat the hall's bread and drink its wine, and they cannot leave. The legion's name still stands.
+The cohort holds it still. Its men are not dead and not of [[lore-theshadow|The Shadow]]. They are kept: they do not age, they do not sleep, they eat the hall's bread and drink its wine, and they cannot leave. The legion's name still stands.
 
 ## Guest-Right
 
@@ -33,8 +33,8 @@ The _Lusar_ enforces the rule as a soldier does: with courtesy, with force when 
 ## Who Knows, and What They Say
 
 - **The drovers** of the southern hills say the hall is full of old soldiers and that you do not accept bread from them. The older ones add that they are the ones who stayed.
-- **The Colleges** keep a bard's lament of a cohort lost in the forest margin, and the last verse is sung only to a bardic student who has asked to hear it.
-- **The felzos's house at Péravel** keeps a muster-roll showing the cohort as deserted, its banner unaccounted for and its pay-chest lost with it. A clerk there keeps the file open for reasons nobody cares to explain.
+- **[[affiliation-bardicolgs|The Bardic Colleges]]** keep a bard's lament of a cohort lost in the forest margin, and the last verse is sung only to a bardic student who has asked to hear it.
+- **The felzos's house at [[place-beravel|Péravel]]** keeps a muster-roll showing the cohort as deserted, its banner unaccounted for and its pay-chest lost with it. A clerk there keeps the file open for reasons nobody cares to explain.
 - **The Áelendan** call it _Dáimela's door_. They do not enter, and they do not forbid anyone else to.
 
 ## Reaching It

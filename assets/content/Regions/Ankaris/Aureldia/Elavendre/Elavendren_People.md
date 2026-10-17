@@ -8,13 +8,13 @@ tags: []
 data: {packFolder: elavendre, culture: elavendriclt}
 ---
 
-The **Élavendren** are the settled, courtly people of [[place-elavendre|Élavendre]]—the kingdom's
-cities, its farms and its court—and the kin of the [[lore-aelendnppl|Áelendan]], with whom they
+The **Élavendren People** are the settled, courtly people of [[place-elavendre|Élavendre]]—the kingdom's
+cities, its farms and its court—and the kin of the [[lore-aelendnppl|Áelendan People]], with whom they
 share a common Pelwar ancestry. The two peoples are the two halves of one inheritance: the Élavendren
 cultivated and literate, the Áelendan tribal and forest-dwelling. Both are unusually attuned to magic,
 and that attunement is the thing an outsider notices first about either of them.
 
-Their language, [[skill-elvndrlng|Élavendri]], descends directly from Áelendan with simplifications
+Their language, the [[skill-elvndrlng|Élavendri Language]], descends directly from the [[skill-aelendlng|Áelendi Language]] with simplifications
 and absorbed outside influences—which is the relationship between the peoples in miniature.
 
 ## Faith

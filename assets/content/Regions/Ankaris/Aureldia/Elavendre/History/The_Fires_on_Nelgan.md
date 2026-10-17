@@ -65,21 +65,21 @@ data:
         - what became of Dulthan
 ---
 
-The Áelendan mothers have a name that quiets a child. It is **Dulthan**, the Deep Dark, and it is the name of the chief who came over [[place-nelgan|Nelgan]] with fire.
+In The Fires on Nelgan, the Áelendan mothers have a name that quiets a child. It is **[Dulthan]{.name data-type="being/npc"}**, the Deep Dark, and it is the name of the chief who came over [[place-nelgan|Nelgan]] with fire.
 
 ## The Fires
 
-One spring there were fires on the pass at night. They belonged to the folk who had pushed the Áelendan's fathers west, late but come, for grass, for sheep and for a fight. A war-band of the host that was then taking the forest east of the mountains ([[lore-takingwood|the Taking of the Wood]]) had burned two valleys to the bark behind it, and the chief at its head was Dulthan.
+One spring there were fires on the pass at night. They belonged to the folk who had pushed the [[lore-aelendnppl|Áelendan People]]'s fathers west, late but come, for grass, for sheep and for a fight. A war-band of the host that was then taking the forest east of the mountains ([[lore-takingwood|The Taking of the Wood]]) had burned two valleys to the bark behind it, and the chief at its head was Dulthan.
 
-A Dhargan led the Áelendan then, a descendant of the first, with the first one's name and face. He stood the people at the edge of the trees below the pass with their spears up and did not send the children past the line. He went forward alone with his hands bare, to where Haulera could hear, and asked her to take the children in. The people would stay outside and keep the fire away from the wood, he said, and they did not ask to come in.
+A [Dhargan]{.name data-type="being/npc"} led the Áelendan then, a descendant of the first, with the first one's name and face. He stood the people at the edge of the trees below the pass with their spears up and did not send the children past the line. He went forward alone with his hands bare, to where [Haulera]{.name data-type="being/npc"} could hear, and asked her to take the children in. The people would stay outside and keep the fire away from the wood, he said, and they did not ask to come in.
 
-Haulera had set this task to the first Dhargan lives before and had not known what it would come to: to stand with fire behind them and ask, and not to drive. She turned the whole wood for the Áelendan's sake, which she had once refused to do, so that the paths ran straight for the Áelendan and in rings for the raiders. The children went into the wood and heard nothing of the people outside, no shout and no word, and the silence was worse than fire.
+Haulera had set this task to the first [Dhargan]{.name data-type="being/npc"} lives before and had not known what it would come to: to stand with fire behind them and ask, and not to drive. She turned the whole wood for the Áelendan's sake, which she had once refused to do, so that the paths ran straight for the Áelendan and in rings for the raiders. The children went into the wood and heard nothing of the people outside, no shout and no word, and the silence was worse than fire.
 
 ## The Brands
 
 The raiders came at dusk with brands. The Áelendan held the edge and the first spears flew. The brands passed over the line and into the birch, and a stand of it caught.
 
-The Sinale do not fight, and no song puts out a fire. Haulera looked at the burning for a long time and raised her hand. She walked out through the fire, and the whole of the Sinale came out of the wood after her into the light of the raiders' own fire, in sight of men who had never seen them. Half the raiders ran. The rest stood like stones, and the brands dropped.
+The [[lore-flksinale|Sinale Folk]] do not fight, and no song puts out a fire. Haulera looked at the burning for a long time and raised her hand. She walked out through the fire, and the whole of the Sinale came out of the wood after her into the light of the raiders' own fire, in sight of men who had never seen them. Half the raiders ran. The rest stood like stones, and the brands dropped.
 
 Dulthan stayed. He threw one brand at the nearest tree, and it caught. Dhargan went up to it and took it out bare-handed, and it burned through his hand. Dulthan's spear took him in the side. Dhargan stood, held the brand until it died in his burned hand, and then sat down where the trees thin. Haulera looked at him, and that was all she did. He turned and ran, and his men ran after him. No man of them came back that year, or since.
 

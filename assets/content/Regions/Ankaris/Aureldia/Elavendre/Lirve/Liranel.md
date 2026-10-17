@@ -21,8 +21,8 @@ and its business is timber and everything that follows from timber.
 ## The Edge
 
 Liranel matters because of where it stops. East and north of the town the managed coppice and oak give
-way to the old forest, and the old forest is [[lore-flksinale|Sinale]] country and
-[[affiliation-alndnwrdns|Warden]]-patrolled. Liranel is where the licenses to cut are issued, recorded,
+way to the old forest, and the old forest is the country of the [[lore-flksinale|Sinale Folk]] and
+patrolled by the [[affiliation-alndnwrdns|Áelendan Wardens]]. Liranel is where the licenses to cut are issued, recorded,
 disputed and—often enough—quietly exceeded.
 
 The town holds the Crown's forest court, the tally-house where every licensed stem is measured, and the
@@ -38,7 +38,7 @@ tolerate. The other version does not stop at the margins, is very well paid, and
 respectable share of the people who do not come back out of the wood.
 
 Liranel is also where the **crown's** guides are found—the courteous, capable, officially provided
-escorts who conduct [[affiliation-ordoarcanis|Arcane Order]] expeditions into the interior and see to it that
+escorts who conduct [[affiliation-ordoarcanis|Thordimalon]] expeditions into the interior and see to it that
 the expedition returns having seen a great deal and found nothing. Half the town knows which of its
 guides are the crown's and which are for hire, and nobody explains the difference to visitors.
 

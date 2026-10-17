@@ -17,21 +17,21 @@ data:
 # terran_analog: "Northern France and Switzerland—the temperate-and-Alpine northern Aureldian heartland of forest and river-valley farming."
 ---
 
-On the western shores of [[place-ankrscntnnt|Ankaris Continent]], Élavendre stands as a beacon of culture and magic. Rich in history and tradition, Élavendre is a land where ancient forests meet rolling plains, and towering mountains overlook tranquil lakes. It is a place steeped in the arcane, where magic flows freely through the air and the people are deeply attuned to the land's mystical energies.
+On the western shores of the [[place-ankrscntnnt|Ankaris Continent]], Élavendre stands as a beacon of culture and magic. Rich in history and tradition, Élavendre is a land where ancient forests meet rolling plains, and towering mountains overlook tranquil lakes. It is a place steeped in the arcane, where magic flows freely through the air and the people are deeply attuned to the land's mystical energies.
 
 ## Geography
 
-Élavendre occupies the western coast of Ankaris, sheltered by mountain ranges to the southeast and south, rolling hills to the east, and open to the sea on the north and west. Kalipsa lies a day-and-a-night's sail off the western portion of the northern coastline. The landscape is lush and varied: primeval forests of silver birch and ancient oak, rolling green plains crossed by winding rivers, and dramatic coastal cliffs battered by cold ocean swells. Inland, crystal-clear lakes fill glacial valleys, and the mountains are perpetually shrouded in mist. The climate is mild and wet, with frequent rains that keep the land eternally green.
+Élavendre occupies the western coast of Ankaris, sheltered by mountain ranges to the southeast and south, rolling hills to the east, and open to the sea on the north and west. [[place-calypsacity|Kalipsa]] lies a day-and-a-night's sail off the western portion of the northern coastline. The landscape is lush and varied: primeval forests of silver birch and ancient oak, rolling green plains crossed by winding rivers, and dramatic coastal cliffs battered by cold ocean swells. Inland, crystal-clear lakes fill glacial valleys, and the mountains are perpetually shrouded in mist. The climate is mild and wet, with frequent rains that keep the land eternally green.
 
 ## Peoples
 
-Élavendre is home to two related but distinct peoples who share a common Pelwar ancestry: the **Élavendri** and the **Áelendan**.
+Élavendre is home to two related but distinct peoples who share a common Pelwar ancestry: the **[[lore-elavendrnppl|Élavendren People]]** and the **[[lore-aelendnppl|Áelendan People]]**.
 
 ### The Élavendri
 
 The Élavendri are the settled, urbanized majority—the people of the kingdom, its cities, farms, and coastal towns. Descendants of the Pelwar nomads who migrated from the east, they developed over centuries into a refined and deeply spiritual culture that blends ancient traditions with a profound respect for the natural world. Their cities are renowned for their beauty and enchanting architecture—soaring towers of pale stone, bridges woven with living vines, and gardens that blur the line between the cultivated and the wild.
 
-Élavendri society is aristocratic, organized around ancient noble houses. The nobility are expected to be patrons of the arts, stewards of the land, and practitioners (or at least appreciators) of magic. Commoners are farmers, craftspeople, and merchants who enjoy a relatively high standard of living compared to many other Ankarian cultures. The Élavendri are renowned across [[place-midhalnrgn|Mídhalión Region]] as artists, poets, musicians, and scholars of the arcane. Their bards are legendary, and the tradition of oral poetry and storytelling is deeply embedded in the culture.
+Élavendri society is aristocratic, organized around ancient noble houses. The nobility are expected to be patrons of the arts, stewards of the land, and practitioners (or at least appreciators) of magic. Commoners are farmers, craftspeople, and merchants who enjoy a relatively high standard of living compared to many other Ankarian cultures. The Élavendri are renowned across the [[place-midhalnrgn|Mídhalión Region]] as artists, poets, musicians, and scholars of the arcane. Their bards are legendary, and the tradition of oral poetry and storytelling is deeply embedded in the culture.
 
 Noble houses go to great lengths to trace their ancestry back to the Áelendan, and a demonstrable connection to the old blood is a source of immense prestige. Whether all such claims are genuine is another matter entirely.
 
@@ -39,25 +39,25 @@ Noble houses go to great lengths to trace their ancestry back to the Áelendan, 
 
 The **Áelendan**—also known as the **People of the Pact**—are the ancestor people of the Élavendri: tribes who never settled into the kingdom's cities and who have maintained the old ways since before the founding of the monarchy. They live in the mountainous interior of Élavendre, organized in tribal communities that follow traditions stretching back to the earliest Pelwar settlement of the region. They eschew the modern cities and the ways of the kingdom, living close to the land as their forebears did.
 
-The Áelendan speak **Áelendi**, an older tongue from which modern Élavendri descends. The two languages are related but distinct—an Élavendri speaker can catch fragments and occasional phrases of Áelendi, but sustained conversation requires genuine study.
+The Áelendan speak the **[[skill-aelendlng|Áelendi Language]]**, an older tongue from which the modern [[skill-elvndrlng|Élavendri Language]] descends. The two languages are related but distinct—an Élavendri speaker can catch fragments and occasional phrases of Áelendi, but sustained conversation requires genuine study.
 
-The relationship between the two peoples is one of mutual respect. The Élavendri recognize the Áelendan as their ancestor people and the crown protects the Áelendan tribal areas by law. Áelendan ways and sacred sites are respected, and the kingdom's courts will act against anyone who encroaches on tribal lands. The Áelendan, for their part, acknowledge the kingdom without submitting to it—they govern themselves by their own customs and answer to their own elders.
+The relationship between the two peoples is one of mutual respect. The Élavendri recognize the Áelendan as their ancestor people and the crown of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] protects the Áelendan tribal areas by law. Áelendan ways and sacred sites are respected, and the kingdom's courts will act against anyone who encroaches on tribal lands. The Áelendan, for their part, acknowledge the kingdom without submitting to it—they govern themselves by their own customs and answer to their own elders.
 
 #### The Áelendan Wardens
 
-The most widely known Áelendan institution are the [[affiliation-alndnwrdns|Áelendan Wardens]]—an ancient order tasked with protecting the sacred sites of the mountains and deep forests, particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior, and they take their charge seriously. Trespassers who stumble into sacred territory are warned once and escorted out; those who persist or who desecrate a site are dealt with harshly. The Wardens are skilled trackers, archers, and survivalists, and they know the mountain passes and forest paths with an intimacy that no outsider can match.
+The most widely known Áelendan institution is the [[affiliation-alndnwrdns|Áelendan Wardens]]—an ancient order tasked with protecting the sacred sites of the mountains and deep forests, particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior, and they take their charge seriously. Trespassers who stumble into sacred territory are warned once and escorted out; those who persist or who desecrate a site are dealt with harshly. The Wardens are skilled trackers, archers, and survivalists, and they know the mountain passes and forest paths with an intimacy that no outsider can match.
 
 The kingdom's authorities accept the Wardens' jurisdiction over sacred sites without question. Even the most ambitious Élavendri noble knows better than to challenge a Warden on their own ground.
 
 ## Religion
 
-The [[lore-elavendrnppl|Élavendren]] worship the [[affiliation-arldnpnthn|Aureldian Pantheon]], but their practice is heavily inflected by older fae traditions. [[affiliation-arldnpnthn|Lusinia]] (The World-Weaver), goddess of life and creation, holds special prominence, as does [[affiliation-arldnpnthn|Zunelas]] (The Veiled Dreamer), goddess of dreams and visions. The Élavendren believe the veil between the mortal world and the fae realm is especially thin in their land, and many of their religious practices involve communion with fae spirits and nature entities.
+The Élavendren worship the [[affiliation-arldnpnthn|Aureldian Pantheon]], but their practice is heavily inflected by older fae traditions. The [[affiliation-lusinia|Faith of Lusinia]] (whose goddess is known as the World-Weaver and represents life and creation) holds special prominence, as does the [[affiliation-zunelas|Faith of Zunelas]] (whose goddess is known as the Veiled Dreamer and represents dreams and visions). The Élavendren believe the veil between the mortal world and the fae realm is especially thin in their land, and many of their religious practices involve communion with fae spirits and nature entities.
 
 Sacred groves, standing stones, and holy wells serve as places of worship alongside more formal temples. The turning of the seasons is marked by elaborate festivals that honor both the Aureldian gods and the older spirits of the land.
 
 ## Magic
 
-Magic is woven into the fabric of Élavendren life in a way that is unique in western Ankaris. The [[affiliation-ordoarcanis|Thordimalon]] maintains a substantial presence in the kingdom's cities—the **University of Péravel** is the largest [[affiliation-panepistmm|Epistémion]] campus outside of [[affiliation-vylarinmpr|Vylarian Empire]], with multiple Zulen (fellowship) chapterhouses—but its authority is bitterly contested by the kingdom's own traditions. The Bardic Circle, the Grove Council, and the Áelendan guard magical practices that predate the Order by centuries, and the struggle between these institutions and the Order for influence over the kingdom's supernatural life is the defining tension of Élavendren politics. The crown's settled position is that the Order is **permitted and limited**: it may hold its houses, teach, and practice within the cities, and it may not extend that reach into the tribal lands, the sacred sites or the deep forest. Where the limit runs is not the Order's to argue—the [[affiliation-alndnwrdns|Wardens]] enforce it, and the courts back them. In the cities the contest is accordingly conducted through civilized rivalry; beyond the walls it turns deadly (see [[affiliation-kngdmlvndr|The Thordimalon in Élavendre]]).
+Magic is woven into the fabric of Élavendren life in a way that is unique in western Ankaris. [[affiliation-ordoarcanis|Thordimalon]] maintains a substantial presence in the kingdom's cities—the **[University of Péravel]{.name data-type="affiliation"}** is the largest [[affiliation-panepistmm|Epistémion]] campus outside of the [[affiliation-vylarinmpr|Vylarian Empire]], with multiple Zulen (fellowship) chapterhouses—but its authority is bitterly contested by the kingdom's own traditions. [[affiliation-bardicolgs|The Bardic Colleges]] (the Bardic Circle), [[affiliation-groveconcl|The Grove Council]], and the Áelendan guard magical practices that predate the Order by centuries, and the struggle between these institutions and the Order for influence over the kingdom's supernatural life is the defining tension of Élavendren politics. The crown's settled position is that the Order is **permitted and limited**: it may hold its houses, teach, and practice within the cities, and it may not extend that reach into the tribal lands, the sacred sites or the deep forest. Where the limit runs is not the Order's to argue—the [[affiliation-alndnwrdns|Wardens]] enforce it, and the courts back them. In the cities the contest is accordingly conducted through civilized rivalry; beyond the walls it turns deadly (see [[affiliation-kngdmlvndr|The Thordimalon in Élavendre]]).
 
 The fae influence that makes Élavendre so magically rich is real and tangible: strange lights in the forest, paths that shift between visits, and encounters with beings that are neither fully mortal nor fully divine. It is precisely this richness that draws the Order's relentless interest—and that the traditional institutions are determined to keep beyond its grasp.
 
@@ -68,7 +68,7 @@ simply have their way.
 
 **The Order wants a great deal from Élavendre**, and makes no secret of it. There is nowhere else in the
 known world where the veil is this thin over this much ground: aralwain by the score, seated spirits,
-living fae sites, a documented relationship with the [[lore-flksinale|Sinale]], and arcane materials—the gemstone of [[place-sorvanda|Sórvanda]] above all—in quantities that exist nowhere the Order can
+living fae sites, a documented relationship with the [[lore-flksinale|Sinale Folk]], and arcane materials—the gemstone of [[place-sorvanda|Sórvanda]] above all—in quantities that exist nowhere the Order can
 reach. Everything the Order most wishes to study is here, and most of it is behind a line it is not
 allowed to cross.
 
@@ -78,7 +78,7 @@ scholars, the standing in Vylarian eyes, and the goodwill of institutions that c
 diplomacy much easier. Élavendre's monarchs have never been willing to expel the Order, and are unlikely
 to become so.
 
-**The [[lore-aelendnppl|Áelendan]] regard the Order as thieves**, and are not being rhetorical. Order
+**The Áelendan regard the Order as thieves**, and are not being rhetorical. Order
 expeditions have been taking artifacts out of the sacred sites for as long as they have been permitted
 into the kingdom, and no crown has ever meaningfully stopped them.
 
@@ -107,7 +107,7 @@ the royal house is genuinely warm, and means the warmth.
 
 Movement **inward** is where the welcome quietly stops. It is never refused outright. It is deferred,
 complicated, and above all _discouraged on grounds of safety_—the interior is dangerous, the
-[[lore-aelendnppl|Áelendan]] are proud and unpredictable, the crown could not answer for what might
+Áelendan are proud and unpredictable, the crown could not answer for what might
 happen to a distinguished visitor beyond the tree line. And since the crown would not dream of leaving
 its guests to chance, it provides **guides** to mediate any contact with the tribes.
 
@@ -132,13 +132,13 @@ the crown takes considerable care not to ask.
 
 The Áelendan fae traditions—the sacred groves, the nature spirits, the bardic magic—are not superstition. They reflect genuine contact with the Sinale and with the other fae beings that inhabit these ancient forests. The bardic colleges preserve songs and stories that the Sinale have shared with them, and Áelendan druids practice forms of magic that bear a distant, diluted resemblance to Sinalean arts. The Sinale tolerate this—perhaps even encourage it—in a way they do not elsewhere.
 
-Why the Sinale have opened themselves to the Áelendan is a question that has puzzled scholars, diplomats, and envious monarchs for centuries. The Sinale have never explained, and the Áelendan do not discuss it.. Whatever the reason, this unique relationship gives Élavendre a quality that few other human realms possess: a living connection to the eldest age of the world.
+Why the Sinale have opened themselves to the Áelendan is a question that has puzzled scholars, diplomats, and envious monarchs for centuries. The Sinale have never explained, and the Áelendan do not discuss it. Whatever the reason, this unique relationship gives Élavendre a quality that few other human realms possess: a living connection to the eldest age of the world.
 
 ## Relations
 
-Élavendre has close cultural ties with [[place-provenzrgn|Provenzia Region]] to the east, sharing the Pelwar heritage and a love of the arts. Its relationship with [[affiliation-vylarinmpr|Vylarian Empire]] is more complicated—while never fully conquered by the Vylarian Empire, Élavendre was long a vassal state ([[lore-elvtribute|The Tribute of Élavendre]]) and retains some Vylarian cultural influence. The island of [[place-aelwyth|Aelwyth]] lies to the **north-west**, some two hundred and thirty sea-miles off the Élavendren coast—almost due west of [[place-vrystwald|Vristwald]] and south-west of the [[place-nrdlndsrgn|Nordlands]]—and the two have deep historical and cultural connections. [[affiliation-kingdmdnvr|Dúnavarre]] occupies the island's south-eastern shore, the side that faces Élavendre, and relations are **very cordial**: the mage **Synod** that governs Dúnavarre has kept close relations with the Élavendren royal house for generations—a striking thing in a kingdom that permits the Order only on a short leash.
+Élavendre has close cultural ties with the [[place-provenzrgn|Provenzia Region]] to the east, sharing the Pelwar heritage and a love of the arts. Its relationship with the [[affiliation-vylarinmpr|Vylarian Empire]] is more complicated—while never fully conquered by the Vylarian Empire, Élavendre was long a vassal state ([[lore-elvtribute|The Tribute of Élavendre]]) and retains some Vylarian cultural influence. The island of [[place-aelwyth|Aelwyth]] lies to the **north-west**, some two hundred and thirty sea-miles off the Élavendren coast—almost due west of [[place-vrystwald|Vristwald]] and south-west of the [[place-nrdlndsrgn|Nordlands Region]]—and the two have deep historical and cultural connections. The [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] occupies the island's south-eastern shore, the side that faces Élavendre, and relations are **very cordial**: the mage **[[affiliation-dunavarsynod|Dúnavarre Synod]]** that governs Dúnavarre has kept close relations with the Élavendren royal house for generations—a striking thing in a kingdom that permits the Order only on a short leash.
 
-Relations with the [[place-nrdlndsrgn|Nordlands]] are the exception to Élavendre's general diplomacy, and a long-standing one. **Nordmen** raiders have struck the northern coast for centuries, and the kingdom's memory of them is unforgiving. King **Thélmoren** swore, when [[lore-southrnfleets|the Southern Fleets]] burned the north shore, that the crown would make no treaty with the Nordmen, and there has been no treaty, no embassy and no appetite for either since. To the north across [[place-liserebay|Lísere Bay]] lie the Varokh tribes of [[place-vrystwald|Vristwald]] and the [[lore-grukarfolk|Grukar]] bands ranging out of [[place-grkrhlmrgn|Grukarholm]], whose raiding on the northern shore and the eastern hills is a fact of every generation rather than a crisis of any one of them.
+Relations with the [[place-nrdlndsrgn|Nordlands]] are the exception to Élavendre's general diplomacy, and a long-standing one. **Nordmen** raiders have struck the northern coast for centuries, and the kingdom's memory of them is unforgiving. King **[Thélmoren]{.name data-type="being/npc"}** swore, when [[lore-southrnfleets|The Southern Fleets]] burned the north shore, that the crown would make no treaty with the Nordmen, and there has been no treaty, no embassy and no appetite for either since. To the north across [[place-liserebay|Lísere Bay]] lie the Varokh tribes of [[place-vrystwald|Vristwald]] and the [[lore-grukarfolk|Grukar]] bands ranging out of the [[place-grkrhlmrgn|Grukarholm Region]], whose raiding on the northern shore and the eastern hills is a fact of every generation rather than a crisis of any one of them.
 
 ## Regions
 
@@ -153,7 +153,7 @@ Relations with the [[place-nrdlndsrgn|Nordlands]] are the exception to Élavendr
 | [[place-sorvanda\|Sórvanda]] | 180,000 | the eastern and southern mountains—Áelendan country, and mineral wealth the kingdom may not take |
 
 The kingdom's economy runs inward and then out again: raw material from the four margins, worked in
-Éllive, exported through Péravel and the coastal ports.
+[[place-ellive|Éllive]], exported through [[place-beravel|Péravel]] and the coastal ports.
 
 ## Notable Features
 
@@ -163,7 +163,7 @@ The kingdom's economy runs inward and then out again: raw material from the four
 
 ## Character
 
-The forests are old—genuinely ancient in a way that the cleared, farmed landscapes of [[affiliation-vylarinmpr|Vylaria]] and [[place-provenzrgn|Provenzia Region]] are not—and the boundary between the mortal world and the fae realm is thin.
+The forests are old—genuinely ancient in a way that the cleared, farmed landscapes of the [[place-vylariargn|Vylaria Region]] and the Provenzia Region are not—and the boundary between the mortal world and the fae realm is thin.
 
 ## See Also
 

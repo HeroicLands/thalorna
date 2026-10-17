@@ -21,7 +21,7 @@ wool, herbs, and the small, closely-watched quantity of worked silver and rough 
 release by arrangement ([[lore-sorvandaclose|The Sórvanda Closing]]).
 
 The autumn fair is the event of the year. For a fortnight the lake shore fills with tribal families who
-will not enter a walled town, Péravel factors who have traveled a week to meet them, and a great deal
+will not enter a walled town, [[place-beravel|Péravel]] factors who have traveled a week to meet them, and a great deal
 of careful, ceremonious, extremely slow negotiation.
 
 ## The Lake

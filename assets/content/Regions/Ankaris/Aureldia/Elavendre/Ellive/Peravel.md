@@ -14,9 +14,9 @@ data:
   government: kngdmlvndr
 ---
 
-**Péravel** stands on the [[place-beravriver|Berav]] some **fifteen miles up from the western sea**, at
+**Péravel** stands on [[place-beravriver|The Berav]] some **fifteen miles up from the western sea**, at
 the point where the tide stops and sea-going hulls must give way to barges. It is the capital of
-[[affiliation-kngdmlvndr|Élavendre]], the largest city in the kingdom at around fifty-five thousand
+the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], the largest city in the kingdom at around fifty-five thousand
 people, and the reason [[place-ellive|Éllive]] is arranged the way it is.
 
 The city takes its name from the river, not the other way about.
@@ -33,12 +33,12 @@ always mention and residents never do.
 
 ## The University
 
-The **University of Péravel** is the largest [[affiliation-panepistmm|Epistémion]] campus outside
+The **[University of Péravel]{.name data-type="affiliation"}** is the largest [[affiliation-panepistmm|Epistémion]] campus outside
 the [[affiliation-vylarinmpr|Vylarian Empire]], with several Zulen (fellowship) chapterhouses, and it makes the
-capital the center of the [[affiliation-ordoarcanis|Thordimalon]]'s presence in the kingdom. The University's oldest court is the house the Empire's _felzos_ (legate) took after the treaty ([[lore-elvtribute|The Tribute of Élavendre]]).
+capital the center of [[affiliation-ordoarcanis|Thordimalon]]'s presence in the kingdom. The University's oldest court is the house the Empire's _felzos_ (legate) took after the treaty ([[lore-elvtribute|The Tribute of Élavendre]]).
 
-It also makes Péravel the field on which the kingdom's central quarrel is fought. The
-[[affiliation-bardicolgs|Bardic Colleges]], the Grove Council and the Áelendan tradition all keep
+It also makes Péravel the field on which the kingdom's central quarrel is fought.
+[[affiliation-bardicolgs|The Bardic Colleges]], [[affiliation-groveconcl|The Grove Council]] and the Áelendan tradition all keep
 establishments here, all dispute the Arcane Order's authority over Élavendre's supernatural life, and all
 conduct that dispute—in the capital—through patronage, appointment and the placing of students
 rather than through anything worse. The city's booksellers do very well out of the argument.

@@ -15,8 +15,8 @@ data:
 ---
 
 **Éllive**—_the bright land_—is the heartland of [[place-elavendre|Élavendre]]: the broad, green,
-well-watered basin of the [[place-beravriver|Berav]], running from the northwestern uplands down to the
-sea. It holds roughly nine hundred thousand people, the capital, the University, and the great majority
+well-watered basin of [[place-beravriver|The Berav]], running from the northwestern uplands down to the
+sea. It holds roughly nine hundred thousand people, the capital, the [University of Péravel]{.name data-type="affiliation"}, and the great majority
 of the kingdom's wealth.
 
 It is also the only quarter of Élavendre that is not a frontier of some kind, which is the whole
@@ -47,8 +47,8 @@ noble houses have competed for four centuries to make picturesque.
 
 ## The Contest
 
-Éllive is where the kingdom's central argument is conducted. The [[affiliation-ordoarcanis|Thordimalon]] holds the University of Péravel—the largest [[affiliation-panepistmm|Epistémion]] campus
-outside the Vylarian Empire—and the [[affiliation-bardicolgs|Bardic Colleges]], the Grove Council and
+Éllive is where the kingdom's central argument is conducted. [[affiliation-ordoarcanis|Thordimalon]] holds the University of Péravel—the largest [[affiliation-panepistmm|Epistémion]] campus
+outside the [[affiliation-vylarinmpr|Vylarian Empire]]—and [[affiliation-bardicolgs|The Bardic Colleges]], [[affiliation-groveconcl|The Grove Council]] and
 the Áelendan tradition contest its authority over the kingdom's supernatural life. In Éllive that
 contest is polite, institutional and conducted through patronage. Beyond it, it is not.
 

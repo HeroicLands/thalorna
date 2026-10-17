@@ -72,29 +72,29 @@ data:
         - whether the deepest adit was sealed with more than stone
 ---
 
-The first Warden a prospector meets in Sórvanda takes his map of the old workings, reads it, and hands it back. The map is accurate. It shows the cuts of a king who tried.
+After The Sórvanda Closing, the first Warden a prospector meets in [[place-sorvanda|Sórvanda]] takes his map of the old workings, reads it, and hands it back. The map is accurate. It shows the cuts of a king who tried.
 
 ## The Bad Harvests
 
-The tribute that Queen Réidane agreed at [[lore-elvtribute|Valdun]] was a yearly sum in silver, and the crown paid it for generations without trouble. Then came a run of bad harvests in the basin and the hills, and the crown could not meet the sum from its own revenue. King **Hóuradel**, of the house of **Kírethel**, the Circle's choice when the line of Orethan ended without an heir, looked at the mountains. Sórvanda was rich in silver, gold and stone, and the tribes were not mining it.
+The tribute that Queen [Réidane]{.name data-type="being/npc"} agreed at [[place-valdun|Valdun]] ([[lore-elvtribute|The Tribute of Élavendre]]) was a yearly sum in silver, and the crown paid it for generations without trouble. Then came a run of bad harvests in the basin and the hills, and the crown could not meet the sum from its own revenue. King **[Hóuradel]{.name data-type="being/npc"}**, of the house of **[Kírethel]{.name data-type="affiliation/lineage"}**, the choice of [[affiliation-bardicolgs|The Bardic Colleges]] (the Bardic Circle) when the line of [Orethan]{.name data-type="affiliation/lineage"} ended without an heir, looked at the mountains. Sórvanda was rich in silver, gold and stone, and the tribes were not mining it.
 
-He sent miners and engineers above the tree line and opened workings in the Spine. They were royal workings, ordered by a king acting inside his rights in the lowlands and outside his oath in the mountains.
+He sent miners and engineers above the tree line and opened workings in [[place-drenavrspn|The Drenavar Spine]]. They were royal workings, ordered by a king acting inside his rights in the lowlands and outside his oath in the mountains.
 
 ## One Season
 
-The Wardens did not fight. They closed the workings in a single season, adit by adit. Some of the miners did not come out. The tribes withdrew their guides from the whole interior, and the withdrawal did the rest. The royal surveyors could not find a ford, a trail or a pass without a guide. No road in the mountains was the crown's own.
+The [[affiliation-alndnwrdns|Áelendan Wardens]] did not fight. They closed the workings in a single season, adit by adit. Some of the miners did not come out. The tribes withdrew their guides from the whole interior, and the withdrawal did the rest. The royal surveyors could not find a ford, a trail or a pass without a guide. No road in the mountains was the crown's own.
 
-Hóuradel went up to [[place-eshalshldg|Ésalosa]] himself, uninvited. He was turned back at the outer ridge. No monarch has come to the Lodge unasked, and the Lodge did not make an exception for the king who had asked least.
+Hóuradel went up to [[place-eshalshldg|Ésalosa Lodge]] himself, uninvited. He was turned back at the outer ridge. No monarch has come to the Lodge unasked, and the Lodge did not make an exception for the king who had asked least.
 
 He came down, closed the workings, and renewed the Tree-Line oath on the Lodge's terms ([[lore-firstcrown|The First Crowning of Élavendre]]). The crown learned what it rules. It rules the interior only through the people who live there.
 
 ## The Old Blood
 
-The cost of the closing outlasted the king. The lesson of the Cut was that the crown's legitimacy runs through the old blood, since only the Áelendan's word opens the mountains, and a house of the lowlands that wished to be heard in the Lodge had to be of the Áelendan's blood. Every noble house set the [[affiliation-bardicolgs|Bardic Colleges]] to prove its descent. The Colleges keep the proofs, and for four hundred years the claims have been maintained gracefully.
+The cost of the closing outlasted the king. The lesson of the Cut was that the crown's legitimacy runs through the old blood, since only the [[lore-aelendnppl|Áelendan People]]'s word opens the mountains, and a house of the lowlands that wished to be heard in the Lodge had to be of the Áelendan's blood. Every noble house set the [[affiliation-bardicolgs|Bardic Colleges]] to prove its descent. The Colleges keep the proofs, and for four hundred years the claims have been maintained gracefully.
 
 ## What It Left
 
-- **The King's Cut.** Sealed adits above the tree line, spoil heaps under birch, and a broken ore-road down to Elanmere ([[place-sorvanda|Sórvanda]]).
+- **The King's Cut.** Sealed adits above the tree line, spoil heaps under birch, and a broken ore-road down to [[place-elanmere|Elanmere]] ([[place-sorvanda|Sórvanda]]).
 - **Release by arrangement.** Sórvanda's metal reaches the autumn fair at [[place-elanmere|Elanmere]] on terms the tribes set, a generation of negotiation at a time.
 - **The price of Élavendren goldwork.** The scarcity is political, and everyone in the trade knows it.
 - **A ban tested exactly far enough.** Every crown since has pushed the prohibition to find where it ends, and has found each time that it ends where the Lodge says.

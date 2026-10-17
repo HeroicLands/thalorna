@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [lirve], packFolder: elavendre}
 
 ## Overview
 
-Hélithron is a settlement of [[place-lirve|Lirve]], in the country around [[place-liranel|Liranel]] where the alchemist [[being-sevnmyrkls|Sevren Mírkelis]] does his work. It is an ordinary place with an unordinary watch on it: the men of **Jarl Kervan Redblade**, a notorious warlord and privateer, have been seen lurking around Hélithron.
+Hélithron is a settlement of [[place-lirve|Lirve]], in the country around [[place-liranel|Liranel]] where the alchemist [[being-sevnmyrkls|Sevren Mírkelis]] does his work. It is an ordinary place with an unordinary watch on it: the men of **Jarl [Kervan Redblade]{.name data-type="being/npc"}**, a notorious warlord and privateer, have been seen lurking around Hélithron.
 
 ## Why They Are Watching
 

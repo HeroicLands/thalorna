@@ -14,7 +14,7 @@ data:
   packFolder: elavendre
 ---
 
-**Lísere** is Élavendre's northern coast: a quarter of a million people along the southern shore of
+**Lísere** is [[place-elavendre|Élavendre]]'s northern coast: a quarter of a million people along the southern shore of
 [[place-liserebay|Lísere Bay]], from which the region takes its name.
 
 The climate is **cold but temperate**—gray, wet, windy, and never quite as hard as its latitude
@@ -29,7 +29,7 @@ frontier; it is a crossing, and it is crossed.
 
 [[place-vrystwald|Vristwald]] lies on the far shore—wild forest country held by the Varokh
 tribes, with large bands of [[lore-grukarfolk|Grukar]] ranging through it out of
-[[place-grkrhlmrgn|Grukarholm]] to its east and south. Neither is a kingdom that could invade
+the [[place-grkrhlmrgn|Grukarholm Region]] to its east and south. Neither is a kingdom that could invade
 Élavendre. Both raid it constantly, and Lísere is where they land.
 
 The consequence is a coast that is settled defensively: villages set back from the water, beacon
@@ -41,7 +41,7 @@ export problem.
 
 The bay is the nearer threat; the older one comes from the open sea.
 
-**Nordmen** raiders out of the [[place-nrdlndsrgn|Nordlands]] have worked this coast for centuries, in
+**Nordmen** raiders out of the [[place-nrdlndsrgn|Nordlands Region]] have worked this coast for centuries, in
 seagoing ships that have no need of narrows and no interest in a thirty-mile crossing. Where a Varokh
 war-party takes cattle and goes home, a Nordmen fleet arrives without warning, strikes anywhere on the
 northern shore, and is gone before a levy can be raised.
@@ -50,13 +50,13 @@ There is accordingly **no warmth whatever between Élavendre and the Nordmen**, 
 in living memory or in any memory the chroniclers preserve. It is the one foreign question on which the
 courtly, conciliatory, endlessly diplomatic Élavendri have never been willing to be reasonable, and
 Lísere is the reason: the north has been paying for that history for a very long time, and paid most of
-it before Péravel took much notice.
+it before [[place-beravel|Péravel]] took much notice.
 
 ## The Economy
 
 - **Fish, and a great deal of it.** Cold northern water and a sheltered bay make the best fishery in
-  Élavendre. Salt-fish and oil go south to Éllive and out through Kalipsa.
-- **Kalipsan transit.** [[affiliation-calypsa|Kalipsa]] lies some seventy-five miles off the coast
+  Élavendre. Salt-fish and oil go south to Éllive and out through [[place-calypsacity|Kalipsa]].
+- **Kalipsan transit.** Kalipsa lies some seventy-five miles off the coast
   to the north, just outside the mouth of the bay, and a great deal of Élavendre's northern trade is handled
   through it—including goods nobody wishes to declare.
 - **Timber and pitch** from the coastal forest, for the shipyards.

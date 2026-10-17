@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [lirve], packFolder: elavendre}
 
 ## Overview
 
-Kardeth is a noble seat in [[place-lirve|Lirve]], within reach of the forest town of [[place-liranel|Liranel]], and it is held by **Lady Áulirane of Kardeth**, a young noblewoman with Áelendan ancestry. Kardeth is an Élavendri name, and it is also borne as a family name by Élavendri households as far apart as [[place-portaelion|Port Aelion]] and [[place-sourimael|Sóurimel]].
+Kardeth is a noble seat in [[place-lirve|Lirve]], within reach of the forest town of [[place-liranel|Liranel]], and it is held by **Lady [[being-auliranekard|Áulirane Kardeth]] of Kardeth**, a young noblewoman with Áelendan ancestry. Kardeth is an Élavendri name, and it is also borne as a family name by Élavendri households as far apart as [[place-portaelion|Port Aelion]] and [[place-sourimael|Sóurimel]].
 
 ## The Lady and Her Physician
 

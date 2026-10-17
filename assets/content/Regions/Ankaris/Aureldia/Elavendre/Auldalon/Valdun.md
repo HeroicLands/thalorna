@@ -36,7 +36,7 @@ who would in any case have been the ones to worry about.
 
 The road that reaches Valdun from the east is marked with imperial milestones, and the milestones stop at the gate. They were set when the legions marched into the hills and the queen treated with the _felzos_ (legate) in the town ([[lore-elvtribute|The Tribute of Élavendre]]), and the Empire laid no road beyond the treaty town. The town's first wall was raised in that year, and it has been rebuilt three times since.
 
-- **A helmet that has not rusted.** A hill hunter brings one back from the woods, of an imperial pattern, and the Arcane Order's antiquarians want to know where it was found.
+- **A helmet that has not rusted.** A hill hunter brings one back from the woods, of an imperial pattern, and [[affiliation-ordoarcanis|Thordimalon]]'s antiquarians want to know where it was found.
 
 ## See Also
 

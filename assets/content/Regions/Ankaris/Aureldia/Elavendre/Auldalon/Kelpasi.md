@@ -25,11 +25,11 @@ and its memory all older than the walls of [[place-valdun|Valdun]].
 ## The Observances
 
 Kélpasi is named for the cold spring at its head, and what is done at that spring is not, strictly, part of
-the [[affiliation-arldnpnthn|Aureldian]] calendar. The village keeps the Twelve properly and keeps
+the calendar of the [[affiliation-arldnpnthn|Aureldian Pantheon]]. The village honors its gods properly and keeps
 something else besides, and has never seen a contradiction in this.
 
 Priests sent up from the lowlands have generally reported the village devout and left it alone.
-[[lore-aelendnppl|Áelendan]] passing through the hills are received here in a way that suggests an
+The [[lore-aelendnppl|Áelendan People]] passing through the hills are received here in a way that suggests an
 older acquaintance than either side discusses.
 
 ## Life

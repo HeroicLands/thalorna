@@ -8,9 +8,9 @@ data: {templatePriority: null, packFolder: elavendre}
 sohl: {system: {weightBase: 1, valueBase: 0, durabilityBase: 10}}
 ---
 
-A crystalline artifact believed to hold the essence of the powerful elemental spirits known as the
+The Heart of Dirikri is a crystalline artifact believed to hold the essence of the powerful elemental spirits known as the
 **Dirikri**. It emanates an aura that enhances natural growth, and it can manipulate time within a
-time-zone aralwen—which is very probably why [[lore-aralwen|Úkua-Arálwen]] is a slow zone at all,
+time-zone [[lore-aralwen|aralwen]]—which is very probably why [Úkua-Arálwen]{.name data-type="place"} is a slow zone at all,
 rather than the Heart being merely a thing that happens to lie inside one.
 
 It sits at the center of Úkua-Arálwen, and reaching it means passing the

@@ -8,7 +8,7 @@ tags: [river, inland]
 data: {demonym: null, lore: [], parents: [ellive], population: null, packFolder: elavendre}
 ---
 
-The **Berav** is Élavendre's principal river and the axis of [[place-ellive|Éllive]]. It rises in the
+The **Berav** is [[place-elavendre|Élavendre]]'s principal river and the axis of [[place-ellive|Éllive]]. It rises in the
 northwestern uplands and runs southwest across the heartland basin to the western sea, gathering the
 tributaries of the whole interior as it goes.
 
