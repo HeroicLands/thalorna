@@ -419,7 +419,7 @@ sohl:
 
 ![[vsvmbhrkhlrtngdvds|Vishvambharakhila Ratnangadevadasa]]{float=top-left}
 
-Vishvambharakhila stands 5'10" tall with a medium build. He has deep brown skin, dark brown hair, and warm brown eyes. His features include a full face, a narrow nose, a small chin, full lips, deep brows.
+Vishvambharakhila Ratnangadevadasa stands 5'10" tall with a medium build. He has deep brown skin, dark brown hair, and warm brown eyes. His features include a full face, a narrow nose, a small chin, full lips, deep brows.
 
 # Dossier {#dossier}
 
@@ -427,7 +427,7 @@ Vishvambharakhila stands 5'10" tall with a medium build. He has deep brown skin,
 
 ### The Rise of the Chandler
 
-Vishvambharakhila was born the son of a modest candle-maker named **Ratnanga** in one of the [[place-vedyarargn|Vedyara]] city-states. His father was a competent craftsman but a poor businessman, whose products were of good quality yet whose enterprise remained perpetually on the edge of financial survival. Young Vishvambharakhila grew up watching his father struggle, watching the family's fortunes rise and fall with the seasons and the whims of patrons of the great houses. This instilled in him two contradictory impulses: a deep appreciation for craftsmanship and a hunger for financial security that bordered on obsession.
+Vishvambharakhila was born the son of a modest candle-maker named **[Ratnanga]{.name data-type="being/npc"}** in one of the city-states of the [[place-vedyarargn|Vedyara Region]]. His father was a competent craftsman but a poor businessman, whose products were of good quality yet whose enterprise remained perpetually on the edge of financial survival. Young Vishvambharakhila grew up watching his father struggle, watching the family's fortunes rise and fall with the seasons and the whims of patrons of the great houses. This instilled in him two contradictory impulses: a deep appreciation for craftsmanship and a hunger for financial security that bordered on obsession.
 
 At sixteen, Vishvambharakhila took over his father's workshop upon **Ratnanga's** death. Rather than continuing in the traditional manner, however, Vishvambharakhila revolutionized the enterprise. He began experimenting with scent combinations, creating signature fragrances that Kulinas craved. More importantly, he understood something his father never grasped: the power of marketing and reputation. He began commissioning poets to write verses praising his candles, cultivated relationships with influential women of the great houses, and created a sense of luxury around his products that far exceeded their material cost.
 
@@ -437,7 +437,7 @@ By his late twenties, Vishvambharakhila's enterprise had become enormously succe
 
 ### Current Status
 
-Now, at thirty-eight, Vishvambharakhila has become one of the wealthier merchants in the Vedyara city-states. He holds significant influence within the Urban Craft Shrena and has begun investing in other commercial enterprises, lending money at favorable rates to other craftspeople and, in some cases, acquiring their businesses when they fall into debt. He maintains his chandlery as something of a showplace, but the real work of running his commercial empire occupies his attention. His reputation among the common craftspeople is mixed—some view him as a visionary who demonstrated how skill could be transformed into wealth, while others see him as a predatory merchant who has used superior capital to crush artisans. He himself has adopted the self-image of a visionary and entrepreneur, regarding his acquisition of other businesses and his cost-cutting measures as necessary adaptations to changing market conditions.
+Now, at thirty-eight, Vishvambharakhila has become one of the wealthier merchants in the Vedyara city-states. He holds significant influence within the [Urban Craft Shrena]{.name data-type="affiliation/guild"} and has begun investing in other commercial enterprises, lending money at favorable rates to other craftspeople and, in some cases, acquiring their businesses when they fall into debt. He maintains his chandlery as something of a showplace, but the real work of running his commercial empire occupies his attention. His reputation among the common craftspeople is mixed—some view him as a visionary who demonstrated how skill could be transformed into wealth, while others see him as a predatory merchant who has used superior capital to crush artisans. He himself has adopted the self-image of a visionary and entrepreneur, regarding his acquisition of other businesses and his cost-cutting measures as necessary adaptations to changing market conditions.
 
 ## Psyche
 
@@ -489,7 +489,7 @@ Arrogance and Blindness
 
 ### Patrons
 
-Oshira of the great house Deshani
+[Oshira]{.name data-type="being/npc"} of the great [House Deshani]{.name data-type="affiliation/lineage"}
 : A woman of a great house, of considerable taste and influence who has championed Vishvambharakhila's products among the great houses. Her endorsement has been essential to his business success, and he cultivates this relationship carefully.
 
 The Urban Craft Shrena Leadership
@@ -497,13 +497,13 @@ The Urban Craft Shrena Leadership
 
 ### Enemies
 
-Master Ramanava Karthik
+Master [Ramanava Karthik]{.name data-type="being/npc"}
 : A skilled candle-maker whom Vishvambharakhila drove into bankruptcy through aggressive undercutting and market manipulation. Ramanava now works as a mere employee in another workshop and harbors fierce resentment, plotting subtle revenge.
 
-The Artisan Collective
+[The Artisan Collective]{.name data-type="affiliation"}
 : An emerging organization of craftspeople attempting to create a cooperative market free from merchants like Vishvambharakhila. They view him as the exemplar of predatory capitalism and have made his downfall a symbolic goal.
 
-Shroshtin Chendruka
+Shroshtin [Chendruka]{.name data-type="being/npc"}
 : A rival merchant whose economic interests frequently conflict with Vishvambharakhila's. Their competition has occasionally turned vicious, with each attempting to undercut the other's trade routes and relationships.
 
 ### Affiliations
@@ -517,13 +517,13 @@ The Quality Problem
 : Vishvambharakhila discovers that his cost-cutting measures have resulted in structural problems with his candles—they release toxic fumes when burned, a quality that could cause widespread illness if discovered. He must decide whether to publicly recall the products and damage both his reputation and profits, attempt to quietly fix future production while leaving dangerous candles in circulation, or find some middle path that involves covering up the problem. Meanwhile, a child of a great house becomes ill, apparently from candle exposure, and investigators begin looking into his operation.
 
 The Desperate Supplier
-: A craftsperson named **Dipanava**, who supplies Vishvambharakhila with rare scenting oils, faces financial ruin and approaches him with a proposal: invest in Dipanava's operation and become partners rather than merchant-supplier. Vishvambharakhila's instinct is to let Dipanava fail and acquire the operation at bankruptcy prices. However, Dipanava possesses secrets about Vishvambharakhila's previous business dealings that, if revealed, could damage his reputation and legal standing. The negotiation becomes a dangerous game of manipulation and blackmail.
+: A craftsperson named **[Dipanava]{.name data-type="being/npc"}**, who supplies Vishvambharakhila with rare scenting oils, faces financial ruin and approaches him with a proposal: invest in Dipanava's operation and become partners rather than merchant-supplier. Vishvambharakhila's instinct is to let Dipanava fail and acquire the operation at bankruptcy prices. However, Dipanava possesses secrets about Vishvambharakhila's previous business dealings that, if revealed, could damage his reputation and legal standing. The negotiation becomes a dangerous game of manipulation and blackmail.
 
 The Counterfeit Crisis
 : Vishvambharakhila discovers that someone is manufacturing counterfeit versions of his signature candles—cheap, inferior copies that are nonetheless being sold under his mark. The counterfeits are damaging his reputation while enriching an unknown rival. Investigation reveals a complex smuggling operation that involves members of the Urban Craft Shrena and possibly even some of his own employees. Protecting his business requires navigating shrena politics, criminal underworlds, and the possibility that those he trusts are complicit.
 
 The Reformer's Challenge
-: A charismatic young merchant reformer named **Sarvath** arrives in the Vedyara city-states, preaching against exactly the kind of exploitative practices Vishvambharakhila has built his fortune upon. Sarvath's movement gains considerable following among craftspeople and Karmija. Rather than viewing this as a threat to be crushed, Vishvambharakhila sees an opportunity: if he could convert Sarvath or discredit him, he could inoculate his position against reform movements. He sets out to either co-opt the reformer or destroy his credibility, only to discover that Sarvath is far more strong than expected.
+: A charismatic young merchant reformer named **[Sarvath]{.name data-type="being/npc"}** arrives in the Vedyara city-states, preaching against exactly the kind of exploitative practices Vishvambharakhila has built his fortune upon. Sarvath's movement gains considerable following among craftspeople and Karmija. Rather than viewing this as a threat to be crushed, Vishvambharakhila sees an opportunity: if he could convert Sarvath or discredit him, he could inoculate his position against reform movements. He sets out to either co-opt the reformer or destroy his credibility, only to discover that Sarvath is far stronger than expected.
 
 The Inheritance Trap
 : Vishvambharakhila's younger brother, estranged for years due to their father's favoritism of Vishvambharakhila's commerce-focused approach, unexpectedly appears with evidence that their father left a second will—one that Vishvambharakhila is unaware of. The brother offers to keep the will secret in exchange for a substantial share of Vishvambharakhila's current fortune and a position in his enterprise. Vishvambharakhila must either submit to extortion, attempt to suppress the will through corruption, or confront the possibility that his entire understanding of his father's relationship to him is false.

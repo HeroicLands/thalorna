@@ -421,7 +421,7 @@ sohl:
 
 ![[svlthyrslvrgr|Svulthira Solvargr]]{float=top-left}
 
-Svulthira stands 5'11" tall with a light build. She has light fair skin, brown hair, and green eyes. Her features include an angular face, a long nose, a strong jawline, a slightly downturned mouth, heavy brows, and flat cheeks. She has a tattoo of a skull on her upper arm.
+Svulthira Solvargr stands 5'11" tall with a light build. She has light fair skin, brown hair, and green eyes. Her features include an angular face, a long nose, a strong jawline, a slightly downturned mouth, heavy brows, and flat cheeks. She has a tattoo of a skull on her upper arm.
 
 # Dossier {#dossier}
 
@@ -429,7 +429,7 @@ Svulthira stands 5'11" tall with a light build. She has light fair skin, brown h
 
 ### The Trapper's Daughter
 
-Svulthira was born in [[place-nordheim|Nordheim]]'s northern reaches to **Solvi Solvargr**, a trapper of wide fame whose knowledge of wilderness survival and animal behavior had no equal in three kingdoms. Her mother died bringing her into the world, and Solvi raised his daughter in a solitary trapping settlement far from the comforts of civilization. He taught her not through formal instruction but through living—showing her how to read animal signs in snow and mud, how to construct traps that worked through understanding prey rather than brute force, how to harvest the creatures she caught with respect for the gift of their bodies.
+Svulthira was born in [[place-nordheim|Nordheim]]'s northern reaches to **[Solvi Solvargr]{.name data-type="being/npc"}**, a trapper of wide fame whose knowledge of wilderness survival and animal behavior had no equal in three kingdoms. Her mother died bringing her into the world, and Solvi raised his daughter in a solitary trapping settlement far from the comforts of civilization. He taught her not through formal instruction but through living—showing her how to read animal signs in snow and mud, how to construct traps that worked through understanding prey rather than brute force, how to harvest the creatures she caught with respect for the gift of their bodies.
 
 ### The Inheritance of Knowledge
 
@@ -491,30 +491,30 @@ Isolation Dependency
 
 ### Patrons
 
-House Nordthorne
+[House Nordthorne]{.name data-type="affiliation/lineage"}
 : A noble family that has maintained standing contracts with Svulthira for the finest furs and wilderness supplies; they pay well and respect her skill
 
-Harvin's Fur Trading Company
-: The primary commercial outlet for Svulthira's work, run by an aging merchant named **Harvin Hvarnumak** who has worked with her for over a decade and views her as indispensable
+[Harvin's Fur Trading Company]{.name data-type="affiliation/venture"}
+: The primary commercial outlet for Svulthira's work, run by an aging merchant named **[Harvin Hvarnumak]{.name data-type="being/npc"}** who has worked with her for over a decade and views her as indispensable
 
-Priest Gnuldrthira of the Frodvin's Temple
+Priest [[being-gnuldrthyra|Gnuldrthira]] of [Frodvin's Temple]{.name data-type="place/structure"}
 : A spiritual authority who has taken interest in Svulthira's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings
 
 ### Enemies
 
-The Blackpelt Poachers
+[The Blackpelt Poachers]{.name data-type="affiliation/criminal"}
 : A criminal organization that kills game indiscriminately for quick profit; Svulthira actively interferes with their operations and has destroyed snares and traps to prevent their predatory harvesting
 
-Duke Skalforv
+Duke [[being-skalforv|Skalforv]]
 : A noble of the neighboring realm who believes all wilderness should be exploited for maximum profit; he has openly declared his intention to destroy Svulthira's trapping territories and put hunting in Nordheim on a great and ruinous scale
 
-Merchant Jorvik the Merciless
+Merchant [Jorvik the Merciless]{.name data-type="being/npc"}
 : A fur trader who views Svulthira's recent reluctance to fulfill contracts as betrayal; he has begun spreading rumors that she has gone mad from isolation and is stealing from her patrons
 
 ### Affiliations
 
-The Frodvin's Circle
-: An informal fellowship of individuals devoted to the fertility aspect of Frodvin and the preservation of natural abundance; Svulthira has recently begun attending their gatherings and exploring deeper spiritual connection
+[The Frodvin's Circle]{.name data-type="affiliation"}
+: An informal fellowship of individuals devoted to the fertility aspect of [[lore-frodvindty|Frodvin]] and the preservation of natural abundance; Svulthira has recently begun attending their gatherings and exploring deeper spiritual connection
 
 ## Plot Hooks
 
@@ -522,7 +522,7 @@ The Illegal Hunt
 : Svulthira discovers that Duke Skalforv has contracted poachers working under the command of Merchant Jorvik to slaughter entire herds of the rare silver elk—creatures that appear in Nordheim's territories only once per decade—in order to eliminate her competitive advantage and her trapping livelihood simultaneously. The slaughter is beginning, and Svulthira can respond with force, intervene covertly, or accept the loss as part of a changing world.
 
 The Sacred Sanctuary
-: A mysterious priestess of the old faith, representing an ancient order dedicated to preserving wild places, approaches Svulthira with a revelation: she is the reincarnation of the order's founder, a trapper of legend named **Solvi the Wildborn** (her father's name is no coincidence). The order wishes to recruit her as a guardian of a hidden sanctuary—a place of extraordinary biodiversity and spiritual power that must be protected from exploitation. Accepting means abandoning her current life and dedicating herself entirely to this new purpose.
+: A mysterious priestess of the old faith, representing an ancient order dedicated to preserving wild places, approaches Svulthira with a revelation: she is the reincarnation of the order's founder, a trapper of legend named **[Solvi the Wildborn]{.name data-type="being/npc"}** (her father's name is no coincidence). The order wishes to recruit her as a guardian of a hidden sanctuary—a place of extraordinary biodiversity and spiritual power that must be protected from exploitation. Accepting means abandoning her current life and dedicating herself entirely to this new purpose.
 
 The Fur Merchant's Fall
 : Harvin Hvarnumak, Svulthira's longtime patron, approaches her with a request born of desperation. His business is failing due to competition from Merchant Jorvik, and he has fallen into debt with dangerous people. He asks Svulthira to deliver an enormous, unsustainable harvest within a short timeframe—a request that directly contradicts her emerging conscience. He promises it will be the last time he asks, and that afterward, he will retire and allow Svulthira to pursue whatever path she chooses. To refuse is to abandon a man who has treated her fairly; to accept is to violate her conscience.

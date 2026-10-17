@@ -421,13 +421,13 @@ sohl:
 
 ![[farazunfrn|Farazun Afrun]]{float=top-left}
 
-Farazun stands 5'10" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an oval face, a hawkish nose, a narrow chin, a firm-set mouth, dark brows.
+Farazun Afrun stands 5'10" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an oval face, a hawkish nose, a narrow chin, a firm-set mouth, dark brows.
 
 # Dossier {#dossier}
 
 Farazun was born the second son of a herder family in the borderlands of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], in country where the line between settled civilization and wild frontier remains deliberately thin. His childhood was spent learning to manage livestock, to understand the temperament and needs of draft animals, and to navigate the unpredictable terrain of his homeland. When his older brother inherited the family's herds, Farazun, at eighteen, sought his fortune on the trade roads, joining a merchant caravan as an assistant teamster.
 
-For twenty-four years, he has traveled the routes connecting the major cities of the Kingdom and beyond, driving supply wagons and managing the animals that pulled them. Over time, his expertise and reliability won him respect within the caravan trade; merchants began to specifically request him, and rival teamsters came to respect his skill. Fourteen years ago, he earned his place in the Teamsters' Guild and began accepting independent contracts. Since then, he has built a modest but reputation as a teamster of uncommon skill and total integrity—a man who will deliver his cargo safely regardless of circumstances, and who treats his animals with care.
+For twenty-four years, he has traveled the routes connecting the major cities of the Kingdom and beyond, driving supply wagons and managing the animals that pulled them. Over time, his expertise and reliability won him respect within the caravan trade; merchants began to specifically request him, and rival teamsters came to respect his skill. Fourteen years ago, he earned his place in [The Teamsters' Guild of Amradad]{.name data-type="affiliation/guild"} and began accepting independent contracts. Since then, he has built a modest reputation as a teamster of uncommon skill and total integrity—a man who will deliver his cargo safely regardless of circumstances, and who treats his animals with care.
 
 ## Psyche
 
@@ -477,24 +477,24 @@ Weariness
 
 ### Patrons
 
-Merchant Lord Valhamin
+Merchant Lord [[being-valhamingora|Valhamin Goravan]]
 : One of the most prominent trading masters in the Kingdom has employed Farazun repeatedly and trusts him with valuable cargo; Valhamin actively recommends him to other merchants.
 
-The Merchants' Consortium of the Eastern Roads
+[The Merchants' Consortium of the Eastern Roads]{.name data-type="affiliation/venture"}
 : A formal organization of wealthy traders maintains Farazun on contract for important shipments and considers him one of their most valued contractors.
 
-Stablemaster Khorvan
+Stablemaster [Khorvan]{.name data-type="being/npc"}
 : The master of the central waystation relies on Farazun to bring in animals and goods, and the two have developed a friendship despite their different temperaments.
 
 ### Enemies
 
-The Crimson Crag Bandits
-: A well-organized band of brigands that operates along the eastern routes has repeatedly targeted Farazun's wagons; their leader, a scarred woman called **Kela the Knife**, has marked him as a particular enemy for foiling her ambushes.
+[The Crimson Crag Bandits]{.name data-type="affiliation/criminal"}
+: A well-organized band of brigands that operates along the eastern routes has repeatedly targeted Farazun's wagons; their leader, a scarred woman called **[Kela the Knife]{.name data-type="being/npc"}**, has marked him as a particular enemy for foiling her ambushes.
 
-Rival Teamster Gazren
-: A unscrupulous competitor who undercuts prices through unsafe practices and harbors deep resentment toward Farazun's success and reputation. Gazren occasionally sabotages Farazun's wagons or spreads lies about his reliability.
+Rival Teamster [Gazren]{.name data-type="being/npc"}
+: An unscrupulous competitor who undercuts prices through unsafe practices and harbors deep resentment toward Farazun's success and reputation. Gazren occasionally sabotages Farazun's wagons or spreads lies about his reliability.
 
-Merchant Overlord Shassik
+Merchant Overlord [Shassik]{.name data-type="being/npc"}
 : A wealthy trader whom Farazun once refused to transport goods for (due to suspicions about their nature) has harbored a grudge and occasionally works to interfere with Farazun's contracts.
 
 ### Affiliations
@@ -502,7 +502,7 @@ Merchant Overlord Shassik
 The Teamsters' Guild of Amradad
 : Farazun maintains an active position within this organization and is respected for his adherence to its codes and standards.
 
-The Waystation Keepers' Brotherhood
+[The Waystation Keepers' Brotherhood]{.name data-type="affiliation"}
 : An informal network of those who maintain rest stops and supply depots along the major routes; Farazun networks with this group and assists them when possible.
 
 ## Plot Hooks

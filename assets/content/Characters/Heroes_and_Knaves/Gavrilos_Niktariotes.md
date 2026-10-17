@@ -419,13 +419,13 @@ sohl:
 
 ![[gvrlsnktrts|Sedikon Manedes]]{float=top-left}
 
-Sedikon stands 6'1" tall with a medium build. He has light tanned skin, greying black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, arched brows, and hollow cheeks.
+Sedikon Manedes stands 6'1" tall with a medium build. He has light tanned skin, greying black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, arched brows, and hollow cheeks.
 
 # Dossier {#dossier}
 
 **The Rising Star**
 
-Born to a minor merchant house in the port city of [[place-chrysamar|Chrisamar]], Sedikon showed early aptitude with steel. At fifteen, he was apprenticed to **Master Duvon of the Silver Halls**, the most celebrated swordmaster in the Bizarian League. For seven years he trained with obsessive devotion, drilling combinations until his shoulders screamed and his palms bled. His breakthrough came at twenty-two, when he bested Duvon himself in a ceremonial bout, a victory that scandalized the traditional hierarchy and elevated him to independent master status.
+Born to a minor merchant house in the port city of [[place-chrysamar|Chrisamar]], Sedikon showed early aptitude with steel. At fifteen, he was apprenticed to **Master [Duvon of the Silver Halls]{.name data-type="being/npc"}**, the most celebrated swordmaster in the [[affiliation-byzarianlg|Bizarian League]]. For seven years he trained with obsessive devotion, drilling combinations until his shoulders screamed and his palms bled. His breakthrough came at twenty-two, when he bested Duvon himself in a ceremonial bout, a victory that scandalized the traditional hierarchy and elevated him to independent master status.
 
 **Years of Ascendancy**
 
@@ -439,7 +439,7 @@ Now at forty-five, Sedikon has begun to confront a truth that no champion wishes
 
 ### Personality
 
-Sedikon lives by the Bizarian martial virtue of _sophrosyne_—measured wisdom wedded to perfect discipline. He speaks deliberately, his words chosen with the same economy he brings to swordplay, never wasting motion or breath. His humor is rare and cutting, deployed with exact aim to humble students who grow arrogant. He treats even his most trivial students with the respect due to serious practitioners; he despises dilettantes and those who seek swordsmanship as decoration.
+Sedikon lives by the [[lore-byzarianclt|Bizarian]] martial virtue of _sophrosyne_—measured wisdom wedded to perfect discipline. He speaks deliberately, his words chosen with the same economy he brings to swordplay, never wasting motion or breath. His humor is rare and cutting, deployed with exact aim to humble students who grow arrogant. He treats even his most trivial students with the respect due to serious practitioners; he despises dilettantes and those who seek swordsmanship as decoration.
 
 His composure covers a competitive fire that borders on the obsessive. He reviews his own duels constantly, analyzing moments of weakness with the pitiless severity he brings to critiquing his students. He has difficulty accepting compliments, deflecting praise toward his teachers or his students' dedication. His relationship with joy is complex—he experiences deep satisfaction in executing a perfect technique or in witnessing a student achieve mastery, but these moments of fulfillment are accompanied by melancholy as he recognizes them as increasingly rare.
 
@@ -485,21 +485,21 @@ Vulnerability to Schemes
 
 ### Patrons
 
-House Markedon
-: A wealthy merchant dynasty that has employed Sedikon as a private weapons master for fifteen years. Their eldest son, **Fruves Markedon**, now commands the garrison, a position Sedikon helped him prepare for.
+[House Markedon]{.name data-type="affiliation/lineage"}
+: A wealthy merchant dynasty that has employed Sedikon as a private weapons master for fifteen years. Their eldest son, **[Fruves Markedon]{.name data-type="being/npc"}**, now commands the garrison, a position Sedikon helped him prepare for.
 
-Captain-General Ruzhvelana Korikot of the City Guard
+Captain-General [[being-ruzhvelanakh|Ruzhvelana Korikot]] of the [City Guard]{.name data-type="affiliation"}
 : The supreme military commander of Chrisamar personally consults with Sedikon on matters of combat doctrine and maintains him on an annual retainer.
 
-Arsir Rabekara Neorikot
+Arsir [[being-rabekaraneor|Rabekara Neorikot]]
 : A senior political figure who guards Sedikon jealously, seeing that he receives prominent civic positions and shielding him from rivals' schemes—in exchange for advice on matters requiring decisive action.
 
 ### Enemies
 
-Swordmaster Vesazáhr Brirorash
+Swordmaster [[being-vesazahrbrir|Vesazáhr Brirorash]]
 : An ambitious rival twenty years Sedikon's junior who has begun publicly questioning whether the aging master still deserves his reputation. Vesazáhr has cultivated alliances among newer swordmasters and has won several public bouts against Sedikon's former students, building confidence and a following.
 
-The Merchants' Syndicate Faction
+[The Merchants' Syndicate Faction]{.name data-type="affiliation"}
 : A group of mercantile powers who resent Sedikon's alliance with noble houses and have begun recruiting alternative weapons masters, seeking to dilute his monopoly on quality training.
 
 His own reputation, an inner enemy
@@ -507,10 +507,10 @@ His own reputation, an inner enemy
 
 ### Affiliations
 
-Bizarian Swordmasters' Guild
-: A prestigious organization to which only masters of proven excellence are admitted. Sedikon sits on the Council of Masters that adjudicates disputes and sets standards.
+[Bizarian Swordmasters' Guild]{.name data-type="affiliation/guild"}
+: A prestigious organization to which only masters of proven excellence are admitted. Sedikon sits on the [Council of Masters]{.name data-type="affiliation"} that adjudicates disputes and sets standards.
 
-The Scholars of Ólvenia
+[The Scholars of Ólvenia]{.name data-type="affiliation"}
 : A philosophical circle devoted to the goddess of prosperity and martial excellence. Sedikon attends their quarterly meetings, where swordmasters debate technique and history.
 
 ## Plot Hooks

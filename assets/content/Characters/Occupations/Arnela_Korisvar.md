@@ -404,13 +404,13 @@ Lady Arnela Kórisvar is a 42-year-old woman who stands 5'6" tall and is of mode
 
 ### The Kórisvar Name
 
-The Kórisvars are a minor noble house of [[place-lizela|Lizela]], their wealth built on coastal trade and the salt flats east of the town. Arnela's father, Lord Lordeme Kórisvar, was a cautious man who kept his head down during the last decades of political maneuvering between the crown and the Council of Peers. He died when Arnela was twenty-six, leaving her an estate that was solvent but unremarkable—a manor house on the hill above Lizela's harbor, a handful of tenant farms, fishing rights along a stretch of coast, and a seat on the town's charter council that no one particularly coveted.
+[House Kórisvar]{.name data-type="affiliation/lineage"} is a minor noble house of [[place-lizela|Lizela]], their wealth built on coastal trade and the salt flats east of the town. Arnela's father, Lord [[being-lordhemekoris|Lordeme Kórisvar]], was a cautious man who kept his head down during the last decades of political maneuvering between the crown and the [Council of Peers]{.name data-type="affiliation/governmental"}. He died when Arnela was twenty-six, leaving her an estate that was solvent but unremarkable—a manor house on the hill above Lizela's harbor, a handful of tenant farms, fishing rights along a stretch of coast, and a seat on the town's charter council that no one particularly coveted.
 
 ### A Different Kind of Ambition
 
-Arnela possessed in abundance what her father lacked in vision. Within a year of inheriting, she had used the estate's modest income to establish a small academy in Lizela—not a grand institution, but a practical school of navigation, natural philosophy, and commercial law, aimed at the sons and daughters of merchants and skilled tradesmen. In [[place-provenzrgn|Provenzia]], where noble prestige is measured by patronage, this was a shrewd move. The academy cost relatively little to maintain, attracted goodwill from the merchant class, and gave Arnela a reputation as a reform-minded patron of learning—precisely the currency that matters on the Council of Peers.
+Arnela possessed in abundance what her father lacked in vision. Within a year of inheriting, she had used the estate's modest income to establish a small academy in Lizela—not a grand institution, but a practical school of navigation, natural philosophy, and commercial law, aimed at the sons and daughters of merchants and skilled tradesmen. In the [[place-provenzrgn|Provenzia Region]], where noble prestige is measured by patronage, this was a shrewd move. The academy cost relatively little to maintain, attracted goodwill from the merchant class, and gave Arnela a reputation as a reform-minded patron of learning—precisely the currency that matters on the Council of Peers.
 
-She has since leveraged that reputation into a position of real influence. She brokered the current fishing rights compact between Lizela and [[place-kalveza|Kalveza]], chairs the town's harbor commission, and has twice been selected to represent Lizela's interests before the royal court. She is not wealthy by the standards of the great Provenzian houses, but she is effective, and in a kingdom that values negotiation over force, effectiveness counts for more than gold.
+She has since leveraged that reputation into a position of real influence. She brokered the current fishing rights compact between Lizela and [[place-kalveza|Kalveza]], chairs the town's harbor commission, and has twice been selected to represent Lizela's interests before the royal court. She is not wealthy by the standards of the great [[lore-provenzianclt|Provenzian]] houses, but she is effective, and in a kingdom that values negotiation over force, effectiveness counts for more than gold.
 
 ### Present Circumstances
 
@@ -422,7 +422,7 @@ At forty-two, Arnela manages her estate, her academy, and her political obligati
 
 Arnela is precise, composed, and relentlessly practical. She listens more than she speaks and chooses her words with the care of someone who has learned that in Provenzian politics, a careless sentence can undo a year's work. She can be charming when it serves her purposes, but her natural mode is directness—she prefers to state what she wants and negotiate from there. Those who mistake her calm for passivity discover their error quickly.
 
-She has a real interest in education and ideas beyond their use as tools of political advancement. She reads widely, corresponds with scholars at [[affiliation-panepistmm|the Epistémion]] chapterhouse in [[place-durvalis|Durvalis]], and has been known to spend an evening debating natural philosophy with her academy's instructors when she should be reviewing accounts. This intellectual curiosity is both a strength and an indulgence she cannot always afford.
+She has a real interest in education and ideas beyond their use as tools of political advancement. She reads widely, corresponds with scholars at the [[affiliation-panepistmm|Epistémion]] chapterhouse in [[place-durvalis|Durvalis]], and has been known to spend an evening debating natural philosophy with her academy's instructors when she should be reviewing accounts. This intellectual curiosity is both a strength and an indulgence she cannot always afford.
 
 ### Motivation
 
@@ -442,18 +442,18 @@ Arnela holds a seat on Lizela's charter council and chairs the harbor commission
 
 ### Patrons
 
-Countess Kirama Iltoris
+Countess [[being-kiramailthor|Kirama Iltoris]]
 : A senior member of the Council of Peers and leader of the reformist faction. She sees Arnela as a useful ally—capable, ambitious, and expendable enough that the Countess can use her as a stalking horse for policies too controversial to champion directly. Arnela is aware of this and accepts it as the cost of access.
 
-Master Lucen Fáravel
+Master [Lucen Fáravel]{.name data-type="being/npc"}
 : The elderly head of the Epistémion (the Academy of Knowledge) chapterhouse in Durvalis. He helped Arnela establish her academy in Lizela and continues to provide instructors and texts in exchange for her political support on matters affecting the Epistémion's chartered rights.
 
 ### Enemies
 
-Lord Aurente Ortemandis
+Lord [[being-aurentheorth|Aurente Ortemandis]]
 : Head of one of Lizela's older noble families and a staunch traditionalist who views Arnela's academy as an insult to the proper order—educating commoners above their station, he says, weakens the order of society. He has blocked several of her proposals on the charter council and is quietly working to undermine her influence at court. The rivalry is conducted with impeccable Provenzian courtesy, and is dangerous all the same.
 
-The Syndics of Kalveza
+[The Syndics of Kalveza]{.name data-type="affiliation/governmental"}
 : The merchant guild that governs Kalveza resents the fishing compact that Arnela brokered, believing she gave Lizela's fishermen too generous a share. They have retained a litigant to challenge the compact's terms, and there are rumors they have also hired less legitimate agents to gather information about Arnela's finances and political dealings.
 
 ## Plot Hooks
@@ -465,10 +465,10 @@ The Countess's Gambit
 : Countess Iltoris asks Arnela to publicly champion a controversial reform—extending chartered rights to two more towns—knowing it will draw fierce opposition from traditionalists. If Arnela succeeds, the reform advances and her standing rises. If she fails, the Countess loses nothing while Arnela absorbs the political damage. The reward may or may not justify the risk of becoming the Countess's sacrificial piece.
 
 A Scholar's Disappearance
-: One of the academy's most promising instructors vanishes without notice. Investigation reveals he was conducting research into pre-Vylarian ruins in the hills above Lizela—research that may have drawn the attention of [[affiliation-ordoarcanis|the Thordimalon]]. Arnela has to handle the delicate politics of the Arcane Order's relationship with the Provenzian crown while finding her missing scholar before the Arcane Order's Sekran does.
+: One of the academy's most promising instructors vanishes without notice. Investigation reveals he was conducting research into pre-Vylarian ruins in the hills above Lizela—research that may have drawn the attention of the [[affiliation-ordoarcanis|Thordimalon]]. Arnela has to handle the delicate politics of the Arcane Order's relationship with the Provenzian crown while finding her missing scholar before the Arcane Order's [Sekran]{.name data-type="affiliation"} does.
 
 The Ortemandis Marriage
 : Lord Aurente proposes a marriage alliance between his eldest son and Arnela, framing it as a reconciliation between the traditional and reform factions in Lizela. The offer is politically astute and personally revolting. Refusing outright would insult a powerful family; accepting would yoke her to a man who despises everything she has built. She needs a third option.
 
 Debts of the Father
-: A merchant from Taruzel arrives in Lizela with documents suggesting that Lord Lordeme Kórisvar borrowed heavily near the end of his life to cover losses that Arnela never knew about. The debts were sold and resold, and the current holder wants payment—or the estate. The documents may be authentic, or they may be a forgery designed to destroy her. Either way, she must resolve the matter before her enemies learn of it.
+: A merchant from the [[place-taruzelrgn|Taruzel Region]] arrives in Lizela with documents suggesting that Lord Lordeme Kórisvar borrowed heavily near the end of his life to cover losses that Arnela never knew about. The debts were sold and resold, and the current holder wants payment—or the estate. The documents may be authentic, or they may be a forgery designed to destroy her. Either way, she must resolve the matter before her enemies learn of it.

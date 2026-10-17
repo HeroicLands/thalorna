@@ -415,7 +415,7 @@ sohl:
 
 ![[hlskthnvtrdmr|Hliskthann Vetrdómr]]{float=top-left}
 
-Hliskthann stands 6'1" tall with a medium build. He has tanned weathered skin, dark brown hair, and hazel eyes. His features include a long face, a slightly upturned nose, a strong jawline, laugh lines around the mouth, and dark brows.
+Hliskthann Vetrdómr stands 6'1" tall with a medium build. He has tanned weathered skin, dark brown hair, and hazel eyes. His features include a long face, a slightly upturned nose, a strong jawline, laugh lines around the mouth, and dark brows.
 
 # Dossier {#dossier}
 
@@ -423,11 +423,11 @@ Hliskthann stands 6'1" tall with a medium build. He has tanned weathered skin, d
 
 ### The Thatchers' Path
 
-Hliskthann was born in [[place-malagna|Malagna]] as the youngest son of **Vetrarr the Roofman**, a thatcher of modest reputation but unquestionable skill. Unlike his siblings who sought fortune in distant cities, Hliskthann remained in the countryside, learning the mechanics of thatching and the intimate knowledge of his region's climate, materials, and needs. He mastered the art of reading weather patterns, understanding that a roof built in spring must account for the specific challenges of the following winter. His father taught him that thatching was not merely technical work—it was a promise of protection made between craftsman and family.
+Hliskthann was born in [[place-malagna|Malagna]] as the youngest son of **[Vetrarr the Roofman]{.name data-type="being/npc"}**, a thatcher of modest reputation but unquestionable skill. Unlike his siblings who sought fortune in distant cities, Hliskthann remained in the countryside, learning the mechanics of thatching and the intimate knowledge of his region's climate, materials, and needs. He mastered the art of reading weather patterns, understanding that a roof built in spring must account for the specific challenges of the following winter. His father taught him that thatching was not merely technical work—it was a promise of protection made between craftsman and family.
 
 ### The Years of Mastery
 
-For the past twenty-eight years, Hliskthann has been the preeminent thatcher across three provinces. He has built roofs that have sheltered families through catastrophic storms, has repaired ancient structures threatened by decay, and has trained younger craftspeople in his methodical approach. The Kingdom of Malagna's regional houses trust his name implicitly; there is often a waiting list of several months for his services. He has never rushed a job, never cut corners, and has maintained relationships with the families he served in his youth—now coming to him for repairs to roofs he thatched decades ago.
+For the past twenty-eight years, Hliskthann has been the preeminent thatcher across three provinces. He has built roofs that have sheltered families through catastrophic storms, has repaired ancient structures threatened by decay, and has trained younger craftspeople in his methodical approach. The [[affiliation-kingdomlgn|Kingdom of Malagna]]'s regional houses trust his name implicitly; there is often a waiting list of several months for his services. He has never rushed a job, never cut corners, and has maintained relationships with the families he served in his youth—now coming to him for repairs to roofs he thatched decades ago.
 
 ### Present Life
 
@@ -477,40 +477,40 @@ Stubbornness in Small Matters
 
 ### Patrons
 
-Jarl Hrindrinna Gnildrendik
+Jarl [[being-hrindrinnagn|Hrindrinna Gnildrendik]]
 : A regional noble whose family estate Hliskthann has maintained for twenty-three years. Hrindrinna trusts Hliskthann absolutely and has commissioned numerous repairs and renovations. The relationship is one of real mutual respect.
 
-The Covenant of Malagna Farmers
+[The Covenant of Malagna Farmers]{.name data-type="affiliation"}
 : An informal association of agricultural communities who, collectively, finance Hliskthann's annual maintenance work, since their collective prosperity depends on sound storage structures with weather-proof roofing.
 
 ### Enemies
 
-No true enemies, though **Dvulgorv Swiftthatch**, an ambitious younger craftsman, has begun undercutting Hliskthann's prices.
+No true enemies, though **[Dvulgorv Swiftthatch]{.name data-type="being/npc"}**, an ambitious younger craftsman, has begun undercutting Hliskthann's prices.
 
 Dvulgorv Swiftthatch
 : An ambitious younger craftsman who has begun undercutting Hliskthann's prices by taking jobs Hliskthann has declined or delayed due to age. The two maintain a craftsman's courtesy but represent opposing philosophies.
 
-The New Methods Coalition
+[The New Methods Coalition]{.name data-type="affiliation"}
 : Forward-looking builders and nobles experimenting with novel roofing materials and techniques sometimes view Hliskthann's traditionalism as an impediment to progress, though he has never actively opposed them.
 
 ### Affiliations
 
-The Rural Craftsmen's Guild of Malagna
+[The Rural Craftsmen's Guild of Malagna]{.name data-type="affiliation/guild"}
 : Hliskthann holds senior membership and is frequently consulted on matters of craft standards, though his votes are increasingly overridden by younger members seeking speed over durability.
 
-Mótefnir's rural faithful
+Rural faithful of the [[affiliation-motefnir|Faith of Mótefnir]]
 : A loose association of country craftspeople who hold their work to be sacred practice and keep no hov between them. Hliskthann is among the most respected of them.
 
 ## Plot Hooks
 
 The Inheritance of Knowledge
-: A scholar and collector of traditional wisdom, **Lady Dvurnthira of the Archives**, travels throughout Malagna documenting dying crafts before their knowledge vanishes. She approaches Hliskthann, asking him to become the subject of a comprehensive written record of his techniques. The question is whether his knowledge belongs to history or should die with him—and whether preserving it means surrendering his independence to a noble patron.
+: A scholar and collector of traditional wisdom, **Lady [[being-dvurnthyra|Dvurnthira]] of the [Archives]{.name data-type="affiliation"}**, travels throughout Malagna documenting dying crafts before their knowledge vanishes. She approaches Hliskthann, asking him to become the subject of a comprehensive written record of his techniques. The question is whether his knowledge belongs to history or should die with him—and whether preserving it means surrendering his independence to a noble patron.
 
 The Impossible Commission
 : The ancient capital cathedral's roof—a magnificent structure from the age of legends—has developed catastrophic damage. The nobility demands restoration, but the original techniques are lost, the structure is geometrically complex beyond modern standards, and the timeline is impossible. Only Hliskthann is thought capable of tackling it. He can attempt the work (which might destroy his reputation if he fails) or refuse and watch the sacred building fall into ruin.
 
 The Apprentice Problem
-: A talented young woman, **Signy Stormborn**, repeatedly seeks Hliskthann out, begging to be his apprentice. She claims that her family will lose their farm if she cannot learn a trade that pays better than farming. Hliskthann's resistance softens as he realizes she represents the future—but teaching her will require adapting his solitary methods and confronting his own mortality.
+: A talented young woman, **[Signy Stormborn]{.name data-type="being/npc"}**, repeatedly seeks Hliskthann out, begging to be his apprentice. She claims that her family will lose their farm if she cannot learn a trade that pays better than farming. Hliskthann's resistance softens as he realizes she represents the future—but teaching her will require adapting his solitary methods and confronting his own mortality.
 
 The Rival's Sabotage
 : Mysteriously, roofs Hliskthann thatched begin failing prematurely—developing leaks and structural weaknesses far before their time. The failures damage his reputation among rural communities. Hliskthann must investigate whether Dvulgorv Swiftthatch is deliberately sabotaging his work to take his custom, or whether something worse is at work.

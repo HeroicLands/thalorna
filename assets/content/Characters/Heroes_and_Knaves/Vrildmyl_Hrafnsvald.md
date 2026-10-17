@@ -415,7 +415,7 @@ sohl:
 
 ![[vrldmylhrfnsvld|Vrildmil Hrafnsvald]]{float=top-left}
 
-Vrildmil stands 6'0" tall with a medium build. He has light fair skin, brown hair, and grey eyes. His features include a rectangular face, a slightly upturned nose, a square jawline, a firm-set mouth, thick brows, and hollow cheeks.
+Vrildmil Hrafnsvald stands 6'0" tall with a medium build. He has light fair skin, brown hair, and grey eyes. His features include a rectangular face, a slightly upturned nose, a square jawline, a firm-set mouth, thick brows, and hollow cheeks.
 
 # Dossier {#dossier}
 
@@ -423,9 +423,9 @@ Vrildmil was born in a rural settlement of the [[affiliation-kngdmvthgrd|Kingdom
 
 At fifteen, his family's lands were attacked by a raider band. Vrildmil's mother died defending the property, and his younger brothers were too small to help. By the time word reached [[being-dvrnvrhrfnsvld|Dvarnvir]], it was over. The experience crystallized something in the young man: a burning desire to become strong enough to protect others from similar suffering—and a quiet resentment toward the father who had not been there when it mattered most.
 
-At eighteen, Vrildmil joined the local militia, impressing his commander almost immediately with his dedication and aptitude. **Captain Bruldthann Stonefist**, a grizzled veteran of thirty years' service, recognized something in the earnest young warrior and took him under personal tutelage. In many ways, Bruldthann became the father figure Vrildmil had lacked growing up. For the past eleven years, Vrildmil has served with distinction, progressing from raw recruit to one of the militia's most capable fighters. He has become known for his quick thinking in chaotic situations, his willingness to volunteer for dangerous assignments, and an almost self-sacrificial approach to protecting the people he serves.
+At eighteen, Vrildmil joined the local militia, impressing his commander almost immediately with his dedication and aptitude. **Captain [Bruldthann Stonefist]{.name data-type="being/npc"}**, a grizzled veteran of thirty years' service, recognized something in the earnest young warrior and took him under personal tutelage. In many ways, Bruldthann became the father figure Vrildmil had lacked growing up. For the past eleven years, Vrildmil has served with distinction, progressing from raw recruit to one of the militia's most capable fighters. He has become known for his quick thinking in chaotic situations, his willingness to volunteer for dangerous assignments, and an almost self-sacrificial approach to protecting the people he serves.
 
-[[being-dvrnvrhrfnsvld|Dvarnvir]], meanwhile, returned from military service around the same time, settling in Vithgard as a tentmaker. The two live in the same kingdom now but their relationship remains complicated—marked by unspoken guilt on [[being-dvrnvrhrfnsvld|Dvarnvir]]'s part and unresolved anger on Vrildmil's. They see each other occasionally, and there is love beneath the tension, but neither man finds it easy to bridge the years of absence.
+[[being-dvrnvrhrfnsvld|Dvarnvir]], meanwhile, returned from military service around the same time, settling in [[place-vithgard|Vithgard]] as a tentmaker. The two live in the same kingdom now but their relationship remains complicated—marked by unspoken guilt on Dvarnvir's part and unresolved anger on Vrildmil's. They see each other occasionally, and there is love beneath the tension, but neither man finds it easy to bridge the years of absence.
 
 Recently promoted to the rank of sergeant, Vrildmil stands at a crossroads. **Captain Bruldthann** has suggested he could rise further, perhaps eventually assume leadership of the militia itself. Yet Vrildmil feels the weight of something larger stirring—hints that bandit activity is coordinated by unseen powers, suggestions that the relative peace of the region may be ending.
 
@@ -482,16 +482,16 @@ Emotional Investment
 Captain Bruldthann Stonefist
 : Vrildmil's commanding officer and mentor. Bruldthann became the father figure Vrildmil lacked growing up, and his opinion matters more to Vrildmil than almost anyone else's.
 
-The Farming Council of Vithgard
+[The Farming Council of Vithgard]{.name data-type="affiliation"}
 : The communities Vrildmil's militia protects recognize him as their primary defender. They advocate for his promotions and provide support for militia operations.
 
-The Village Elder Dvarnselda Stonekeeper
+The Village Elder [Dvarnselda Stonekeeper]{.name data-type="being/npc"}
 : An influential elder who sees potential in Vrildmil and has been mentoring him in aspects of leadership beyond combat.
 
 ### Enemies
 
-The Crimson Raiders
-: A particularly organized bandit gang that has proven difficult to eliminate. Their leader, **Skraldaruk**, has specifically marked Vrildmil, seeing him as an obstacle to their plans.
+[The Crimson Raiders]{.name data-type="affiliation/criminal"}
+: A particularly organized bandit gang that has proven difficult to eliminate. Their leader, **[Skraldaruk]{.name data-type="being/npc"}**, has specifically marked Vrildmil, seeing him as an obstacle to their plans.
 
 Corrupt Local Officials
 : Some magistrates profit from allowing banditry to continue unchecked. Vrildmil's aggressive pursuit of raiders threatens their arrangements.
@@ -501,17 +501,17 @@ Ambitious Militia Rivals
 
 ### Affiliations
 
-The Militia of Vithgard
+[The Militia of Vithgard]{.name data-type="affiliation"}
 : Vrildmil's primary affiliation. He is a dedicated member and now a sergeant with increasing responsibility.
 
-The Followers of Eidgar
+Followers of the [[affiliation-eidgar|Faith of Eidgar]]
 : Vrildmil actively participates in worship of the god of order and justice, and his faith is sincere, not mere ritual.
 
 [[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]] (Father)
 : Vrildmil's father, a former soldier turned tentmaker in Vithgard. Their relationship is complicated by years of absence during Vrildmil's childhood and the unspoken weight of his mother's death. They see each other from time to time, and there is love beneath the tension, but reconciliation remains a work in progress.
 
 [[being-skrldthnhrfnsvld|Skraldthann Hrafnsvald]] (Uncle)
-: Vrildmil's uncle, a well-known clothier in the [[affiliation-kingdmnrgd|Kingdom of Norgaad]]. Though they live in different realms and lead very different lives, the family bond remains. [[being-skrldthnhrfnsvld|Skraldthann]]'s connections among nobility have occasionally proven useful, and Vrildmil's martial reputation lends a certain rugged credibility to the Hrafnsvald name that his uncle quietly appreciates.
+: Vrildmil's uncle, a well-known clothier in the [[affiliation-kingdmnrgd|Kingdom of Norgaad]]. Though they live in different realms and lead very different lives, the family bond remains. Skraldthann's connections among nobility have occasionally proven useful, and Vrildmil's martial reputation lends a certain rugged credibility to the Hrafnsvald name that his uncle quietly appreciates.
 
 ## Plot Hooks
 

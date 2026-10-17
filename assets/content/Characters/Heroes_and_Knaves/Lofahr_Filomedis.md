@@ -414,7 +414,7 @@ sohl:
 
 ![[lofrflmds|Lofáhr Vuzaghios]]{float=top-left}
 
-Lofáhr stands 6'4" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a serpent on the back.
+Lofáhr Vuzaghios stands 6'4" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a serpent on the back.
 
 # Dossier {#dossier}
 
@@ -422,11 +422,11 @@ Lofáhr stands 6'4" tall with a heavy build. He has tanned weathered skin, black
 
 ### Blood and Training
 
-Born to a modest trading family in the [[affiliation-byzarianlg|Bizarian League]], Lofáhr showed early aptitude for violence—an unfortunate gift in a peaceful child. At fourteen, his parents, despairing of his tendency to solve every problem through physical domination, contracted him to the Silver Vipers as an apprentice. The company refined his raw ferocity into disciplined lethality, and Lofáhr discovered that mercenary life suited his nature perfectly. No moral ambiguity here—kill those you're hired to kill, protect those you're paid to protect, and ask no unnecessary questions.
+Born to a modest trading family in the [[affiliation-byzarianlg|Bizarian League]], Lofáhr showed early aptitude for violence—an unfortunate gift in a peaceful child. At fourteen, his parents, despairing of his tendency to solve every problem through physical domination, contracted him to the [Silver Vipers]{.name data-type="affiliation"} as an apprentice. The company refined his raw ferocity into disciplined lethality, and Lofáhr discovered that mercenary life suited his nature perfectly. No moral ambiguity here—kill those you're hired to kill, protect those you're paid to protect, and ask no unnecessary questions.
 
 ### The Rise of the Silver Vipers
 
-For twenty years, Lofáhr rose through the Vipers' ranks, distinguishing himself through an almost supernatural combination of courage and strategic brilliance. He commanded the Viper Guard, an elite unit of fifty warriors who never suffered a contracted defeat. Battles were won not through superior numbers but through Lofáhr's capacity to identify a foe's psychological weaknesses and exploit them ruthlessly. He became known as "the Serpent's Head"—the decisive instrument of the Vipers' will.
+For twenty years, Lofáhr rose through the Vipers' ranks, distinguishing himself through an almost supernatural combination of courage and strategic brilliance. He commanded the [Viper Guard]{.name data-type="affiliation"}, an elite unit of fifty warriors who never suffered a contracted defeat. Battles were won not through superior numbers but through Lofáhr's capacity to identify a foe's psychological weaknesses and exploit them ruthlessly. He became known as "the Serpent's Head"—the decisive instrument of the Vipers' will.
 
 ### The Dissolution and After
 
@@ -482,21 +482,21 @@ Isolation
 
 ### Patrons
 
-Lord Commander Mazitos of the [[place-eastrnmrch|Eastern March]]
+Lord Commander [[being-mazitosrekha|Mazitos Rekhazur]] of the [[place-eastrnmrch|Eastern March]]
 : A powerful nobleman who contracts Lofáhr whenever border security becomes critical. They maintain a relationship of mutual respect spanning two decades.
 
-Merchant Consortium of the Golden Coast
+[Merchant Consortium of the Golden Coast]{.name data-type="affiliation/venture"}
 : Several trading families maintain Lofáhr under retainer for protection against piracy and rival merchant houses. The payments are generous but steady.
 
-Duke Dekheghash Pilikot
+Duke [[being-dekheghashpy|Dekheghash Pilikot]]
 : An aging but still-powerful aristocrat who employs Lofáhr for sensitive security work, often involving protection from internal conspiracies within the court.
 
 ### Enemies
 
-Nishánikos the Dirge, Captain of the Crimson Wolves
+[Nishánikos the Dirge]{.name data-type="being/npc"}, Captain of the [Crimson Wolves]{.name data-type="affiliation"}
 : A rival mercenary company leader whose contract was chosen over his own by a major client. Nishánikos harbors deep resentment and seeks opportunities to undermine Lofáhr's reputation.
 
-The Shadow Syndicate
+[The Shadow Syndicate]{.name data-type="affiliation/criminal"}
 : A criminal organization whose operations Lofáhr destroyed on behalf of a client five years ago. Several high-ranking members survive and hunger for vengeance.
 
 ### Affiliations
@@ -504,10 +504,10 @@ The Shadow Syndicate
 The Bizarian League
 : Citizen in good standing, though his mercenary status makes him somewhat of an outsider in traditional society.
 
-The Independent Mercenary Council
+[The Independent Mercenary Council]{.name data-type="affiliation"}
 : A loose association of mercenary captains who keep common standards and negotiate pay. Lofáhr holds significant influence.
 
-The Order of Árdavon (Order Aspect)
+The [[affiliation-ardavon|Faith of Árdavon]] (Order Aspect)
 : A practicing worshipper who attends temples regularly, finding the god's emphasis on structure and discipline spiritually resonant with his own worldview.
 
 ## Plot Hooks
@@ -516,7 +516,7 @@ The Contract Nobody Should Take
 : A mysterious client offers Lofáhr an astronomical sum—enough to retire in absolute luxury—for a contract so vague and suspicious that every instinct screams danger. The target's identity remains deliberately obscured. As Lofáhr investigates, he discovers the true nature of the contract: assassination of a political figure that would trigger a regional war. He must decide whether to accept and execute the contract that would finally provide financial security, or reject it and maintain the moral line he has desperately tried to hold.
 
 The Deserter's Daughter
-: A young woman approaches Lofáhr claiming to be the daughter of **Langárion Votash**, a soldier he fought alongside in the Silver Vipers who deserted the company under mysterious circumstances decades ago. She carries a letter purportedly from her father, begging Lofáhr to investigate something hidden in the Vipers' old fortress. Investigation leads to the discovery of a conspiracy that goes to the highest levels of the League—one that both he and Vex were manipulated into participating.
+: A young woman approaches Lofáhr claiming to be the daughter of **[Langárion Votash]{.name data-type="being/npc"}**, a soldier he fought alongside in the Silver Vipers who deserted the company under mysterious circumstances decades ago. She carries a letter purportedly from her father, begging Lofáhr to investigate something hidden in the Vipers' old fortress. Investigation leads to the discovery of a conspiracy that goes to the highest levels of the League—one that both he and [Vex]{.name data-type="being/npc"} were manipulated into participating in.
 
 The Redemption Contract
 : A noble priest of Árdavon approaches Lofáhr with a contract: protect a refugee camp of displaced civilians from raiders and warlords—with no payment, only spiritual counsel about the possibility of redemption. The contract becomes personal when Lofáhr discovers that the camp shelters women and children from a faction he himself once fought for, and his presence there creates dangerous division among the refugees who fear him.

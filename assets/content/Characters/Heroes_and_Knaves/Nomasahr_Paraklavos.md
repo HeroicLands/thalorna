@@ -413,11 +413,11 @@ sohl:
 
 ![[nmshrprklvs|Nomasáhr Paraklavos]]{float=top-left}
 
-Nomasáhr stands 5'7" tall with a medium build. He has light weathered skin, grey hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a pointed chin, well-defined lips, strong brows, and prominent cheeks.
+Nomasáhr Paraklavos stands 5'7" tall with a medium build. He has light weathered skin, grey hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a pointed chin, well-defined lips, strong brows, and prominent cheeks.
 
 # Dossier {#dossier}
 
-Born the son of a successful merchant, Nomasáhr showed early aptitude for rhetoric and logic. His family secured him apprenticeship with **Advocate Kezvunena Nomismakit**, the most feared litigant in the Bizarian League's commercial courts. Kezvunena was a harsh master but brilliant, training Nomasáhr in the arts of argumentation, negotiation, and the complex web of commercial law that governed the League.
+Born the son of a successful merchant, Nomasáhr showed early aptitude for rhetoric and logic. His family secured him apprenticeship with **Advocate [[being-kezvunenanom|Kezvunena Nomismakit]]**, the most feared litigant in the [[affiliation-byzarianlg|Bizarian League]]'s commercial courts. Kezvunena was a harsh master but brilliant, training Nomasáhr in the arts of argumentation, negotiation, and the complex web of commercial law that governed the League.
 
 By his early twenties, Nomasáhr had established himself as a feared advocate, known for his ability to find previously unnoticed clauses in contracts and his uncanny ability to sway juries through precise logic presented with devastating eloquence. Over the next two decades, he built an empire of influence, representing major merchant houses, shipping concerns, and craftsmen's guilds. He accumulated wealth, power, and knowledge of the League's secrets—information that could destroy lesser figures.
 
@@ -476,18 +476,18 @@ Isolation
 [[affiliation-lingnztglzkr|Lin'Genzet elu Galezkara]]
 : Official organization that still employs him in advisory capacity, though his role is more limited than in his glory days.
 
-Lord Merchant Yevotash Nomismakit
+Lord Merchant [[being-yevotashnomi|Yevotash Nomismakit]]
 : A major trader whose commercial interests Nomasáhr has protected through countless suits at law, maintaining a mutually beneficial relationship of considerable depth.
 
-The Bizarian Consortium of Shipping Merchants
+[The Bizarian Consortium of Shipping Merchants]{.name data-type="affiliation"}
 : A trade organization that regularly seeks his counsel on the League's trade rules and how to turn them against rivals.
 
 ### Enemies
 
-Advocate Sturash Tulvazát
+Advocate [[being-sturashtulva|Sturash Tulvazát]]
 : Younger, more charismatic rival who has been slowly taking Nomasáhr's clients and position. Sturash orchestrated the scandal that forced Nomasáhr's reduction.
 
-House Malassian
+[House Malassian]{.name data-type="affiliation/lineage"}
 : A merchant dynasty Nomasáhr once defeated decisively in court, causing them significant financial harm. They have long memories and resources for vengeance.
 
 ### Affiliations
@@ -495,7 +495,7 @@ House Malassian
 Lin'Genzet elu Galezkara of Bizaria
 : Official organization governing advocates and pleaders in commercial law.
 
-The Council of Master Advocates
+[The Council of Master Advocates]{.name data-type="affiliation"}
 : Informal organization of senior litigants who meet to discuss precedent and strategy, though Nomasáhr's position within it has weakened.
 
 ## Plot Hooks

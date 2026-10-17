@@ -420,11 +420,11 @@ sohl:
 
 ![[thamiyragezz|Thamiyra Geza'Uzu]]{float=top-left}
 
-Thamiyra stands 5'3" tall with a light build. She has warm bronze skin, jet black hair, and black eyes. Her features include a diamond-shaped face, a tapered chin, and fine brows. She has a faint scar on the left side of her neck.
+Thamiyra Geza'Uzu stands 5'3" tall with a light build. She has warm bronze skin, jet black hair, and black eyes. Her features include a diamond-shaped face, a tapered chin, and fine brows. She has a faint scar on the left side of her neck.
 
 # Dossier {#dossier}
 
-Thamiyra was born into the house of a minor imperial scribe during the reign of prosperity in the Empire of [[affiliation-empireakhlth|Au'Khelathu]]. Her childhood was spent among ledgers and ceremonial robes, learning the unspoken language of power before she could read formal script. At fourteen, her family's fortunes shifted when her father's loyalty to a disgraced official was discovered. Rather than accept ruin, her mother positioned young Thamiyra in the household of a wealthy merchant lord, where she learned the arts of charm, conversation, and influence. What was meant as a temporary refuge became permanent when Thamiyra discovered she possessed a talent far exceeding expectation—she could make men and women alike believe she understood their deepest desires.
+Thamiyra was born into the house of a minor imperial scribe during the reign of prosperity in the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. Her childhood was spent among ledgers and ceremonial robes, learning the unspoken language of power before she could read formal script. At fourteen, her family's fortunes shifted when her father's loyalty to a disgraced official was discovered. Rather than accept ruin, her mother positioned young Thamiyra in the household of a wealthy merchant lord, where she learned the arts of charm, conversation, and influence. What was meant as a temporary refuge became permanent when Thamiyra discovered she possessed a talent far exceeding expectation—she could make men and women alike believe she understood their deepest desires.
 
 By twenty-eight, Thamiyra had become the most prized courtesan in the imperial capital, not for beauty alone but for an intelligence that rivaled scribes and a wit that could wound or heal with equal precision. She collected patrons like scholars collect texts, each relationship carefully cultivated and maintained. Her apparent scandal—a messy affair involving a high-ranking military officer and forged diplomatic correspondence that nearly destabilized a trade agreement—nearly destroyed her reputation, though careful maneuvering and well-placed allies saw her emerge, if cautiously, intact.
 
@@ -486,18 +486,18 @@ Lord [[being-uqetirakugz2|Uqetiraku Gazemu]]
 Lady [[being-themeritshl2|Themerit Shaluku]]
 : An aging widow and powerful political matriarch who has taken Thamiyra under her wing as a protégée and potential heir to her network of influence. Lady Shaluku sees in Thamiyra the ambitious mind she once possessed.
 
-Merchant Prince Veithari Kuethori
-: A wealthy foreign trader who visits Au'Khelathu regularly for business. He pays handsomely for her companionship and, more importantly, for intelligence about imperial politics and trade agreements. He believes she holds the key to expanding his influence.
+Merchant Prince [[being-veitharikuet|Veithari Kuethori]]
+: A wealthy foreign trader who visits the [[place-aukhelathrgq|Au'Khelathu Region]] regularly for business. He pays handsomely for her companionship and, more importantly, for intelligence about imperial politics and trade agreements. He believes she holds the key to expanding his influence.
 
 High Scribe [[being-zentikhlmgth|Zenti Khelemu'Gathau]]
 : A learned man of letters who employs her to transcribe rare texts and discuss philosophy. He is one of the few patrons with whom she shares a true meeting of minds rather than merely performing companionship.
 
 ### Enemies
 
-Lord Commander Zahura Anlaghet'Zaru
+Lord Commander [[being-zahuraanlagh|Zahura Anlaghet'Zaru]]
 : The military officer involved in her scandal, now openly resentful of her continued elevation while his own advancement stalled following the incident. He harbors fantasies of somehow destroying her reputation thoroughly enough that she cannot recover. He spreads rumors about her whenever possible and has hired informants to discover new scandals he might use against her.
 
-Merchant Rival Selena Moros
+Merchant Rival [Selena Moros]{.name data-type="being/npc"}
 : A younger courtesan who rose to prominence in the years following Thamiyra's scandal, positioning herself as the fresh alternative to Thamiyra's potentially dangerous history. She actively poaches Thamiyra's patrons and spreads insinuations that Thamiyra is aging out of her prime appeal.
 
 ### Affiliations

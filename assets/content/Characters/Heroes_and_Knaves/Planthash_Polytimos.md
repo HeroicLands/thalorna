@@ -415,11 +415,11 @@ sohl:
 
 ![[plnthshplytms|Planthash Tredis]]{float=top-left}
 
-Planthash stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, a wide mouth, dark brows, sculpted cheeks.
+Planthash Tredis stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, a wide mouth, dark brows, sculpted cheeks.
 
 # Dossier {#dossier}
 
-Planthash was born a tradesman's son in the port districts of the [[affiliation-byzarianlg|Bizarian League]], where the smell of tar and hemp was his first scent. At twelve, his father apprenticed him to **Captain Krozerazur Pazhurzát**, a gruff merchant vessel commander who saw potential in the lean boy's willingness to work beyond his strength. For fourteen years, Planthash learned every aspect of seamanship—rigging sails in shrieking gales, navigating by stars when compasses failed, coaxing damaged hulls to stay afloat through sheer determination.
+Planthash was born a tradesman's son in the port districts of the [[affiliation-byzarianlg|Bizarian League]], where the smell of tar and hemp was his first scent. At twelve, his father apprenticed him to **Captain [[being-krozerazurpa|Krozerazur Pazhurzát]]**, a gruff merchant vessel commander who saw potential in the lean boy's willingness to work beyond his strength. For fourteen years, Planthash learned every aspect of seamanship—rigging sails in shrieking gales, navigating by stars when compasses failed, coaxing damaged hulls to stay afloat through sheer determination.
 
 By his twenty-fourth year, Planthash had become a specialist in ship repair and fishing harvest management, taking charge of preservation techniques and crew victuals. His reputation for tireless work and honest dealing spread through the port, making captains and merchants want him; his name was known to captains and merchants alike. He has never taken command of his own vessel, content instead to remain the reliable hand upon whom others depend, though whispers suggest he possesses the capability for greater things.
 
@@ -481,7 +481,7 @@ Emotional Reticence
 Captain Krozerazur
 : The merchant captain who trained him in youth and remains his closest contact in the trade, regularly requesting Planthash for important commissions and vouching for his reliability to other vessel owners.
 
-Merchant House Tredis
+[Merchant House Tredis]{.name data-type="affiliation/venture"}
 : A trading concern that occasionally employs him for high-value cargo transport, respecting the family name connection and the competence he represents.
 
 The Harbor Master of [[place-thessalon|Thessalon]]
@@ -489,15 +489,15 @@ The Harbor Master of [[place-thessalon|Thessalon]]
 
 ### Enemies
 
-Pirate Captain Vorios
+Pirate Captain [Vorios]{.name data-type="being/npc"}
 : A former rival from years past who commands a small corsair band preying on League merchant vessels. Vorios views Planthash as the one who got away from his crew, and harbors resentment over a failed recruitment attempt.
 
-The Shipwright's Consortium
+[The Shipwright's Consortium]{.name data-type="affiliation"}
 : A loosely organized group of established timber workers and shipwrights who view independent specialists like Planthash as undercutting their guild-negotiated wages.
 
 ### Affiliations
 
-Bizarian Seafarers' Loose Network
+[Bizarian Seafarers' Loose Network]{.name data-type="affiliation"}
 : Not a formal guild, but an informal association of merchant sailors and shipworkers who share information about reliable captains, dangerous routes, and available work.
 
 ## Plot Hooks

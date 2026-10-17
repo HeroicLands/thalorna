@@ -418,11 +418,11 @@ sohl:
 
 ![[alykosmpsn|Alikos Bridutis]]{float=top-left}
 
-Alikos stands 5'7" tall with a medium build. He has light tanned skin, grey hair, and dark hazel eyes. His features include a long face, a strong nose, a pronounced chin, full lips, and expressive brows.
+Alikos Bridutis stands 5'7" tall with a medium build. He has light tanned skin, grey hair, and dark hazel eyes. His features include a long face, a strong nose, a pronounced chin, full lips, and expressive brows.
 
 # Dossier {#dossier}
 
-Alikos was born into a merchant family of the [[affiliation-byzarianlg|Bizarian League]], the younger son of a silk trader who expected him to eventually manage family commerce. Yet from childhood, Alikos demonstrated an obsessive fascination with the mechanisms of the body and the nature of disease. At sixteen, against his father's strong objections, he apprenticed himself to **Physician Theordos**, a respected healer whose small practice operated from a converted storehouse near the harbor district.
+Alikos was born into a merchant family of the [[affiliation-byzarianlg|Bizarian League]], the younger son of a silk trader who expected him to eventually manage family commerce. Yet from childhood, Alikos demonstrated an obsessive fascination with the mechanisms of the body and the nature of disease. At sixteen, against his father's strong objections, he apprenticed himself to **Physician [Theordos]{.name data-type="being/npc"}**, a respected healer whose small practice operated from a converted storehouse near the harbor district.
 
 Theordos recognized immediately that Alikos possessed, beyond intelligence, a rare combination of precise observation, logical reasoning, and compassion for the suffering. For twelve years, Alikos worked as apprentice, then journeyman, absorbing medical knowledge both from formal study of inherited texts and from the relentless practice of treating diverse patients. At twenty-eight, he completed his training and established his own practice, which quickly became known throughout the League's merchant and noble circles.
 
@@ -488,19 +488,19 @@ Social Isolation
 
 ### Patrons
 
-House Tredis
+[House Tredis]{.name data-type="affiliation/lineage"}
 : A noble merchant family that has engaged Alikos for decades as their personal physician, providing stable income and access to their extensive private library for research purposes.
 
-The Physicians' Guild of the Bizarian League
+[The Physicians' Guild of the Bizarian League]{.name data-type="affiliation/guild"}
 : Both as member and occasional consultant, the Guild provides Alikos with referrals, research materials, and standing among his peers. However, his sometimes heterodox approaches occasionally create friction with more traditionalist guild members.
 
-The Temple of Pozeras
+[The Temple of Pozeras]{.name data-type="affiliation"}
 : The religious institution has engaged Alikos to advise on public health matters and the treatment of pilgrims afflicted with various ailments, providing both financial support and access to the temple's historical medical archives.
 
 ### Enemies
 
-The Traditionalist Faction of the Physicians' Guild
-: Conservative healers who view Alikos's experimental approaches and willingness to question inherited medical doctrine as dangerous and disrespectful. Led by the elderly physician **Gekisash**, they regularly oppose his positions within the Guild and spread rumors that his new methods have resulted in patient deaths—a charge with just enough truth to be damaging.
+[The Traditionalist Faction of the Physicians' Guild]{.name data-type="affiliation"}
+: Conservative healers who view Alikos's experimental approaches and willingness to question inherited medical doctrine as dangerous and disrespectful. Led by the elderly physician **[Gekisash]{.name data-type="being/npc"}**, they regularly oppose his positions within the Guild and spread rumors that his new methods have resulted in patient deaths—a charge with just enough truth to be damaging.
 
 Charlatan Healers
 : Various fraudulent practitioners throughout the League whom Alikos has publicly exposed or reported to authorities, resulting in lost income for them. Some have threatened retaliation.
@@ -510,7 +510,7 @@ Charlatan Healers
 The Physicians' Guild of the Bizarian League
 : A formal organization maintaining standards for medical practice and licensing. Alikos holds high standing despite occasional controversy.
 
-The Circle of Medical Scholars
+[The Circle of Medical Scholars]{.name data-type="affiliation"}
 : An informal association of physicians and natural philosophers who share research and meet periodically to discuss advances in medical knowledge.
 
 ## Plot Hooks
@@ -519,13 +519,13 @@ The Plague
 : A mysterious illness begins spreading through the League's port cities, bearing symptoms Alikos has never encountered before. The disease progresses rapidly and proves resistant to standard treatments. As the affliction spreads, panic grows, and desperate patients flock to Alikos seeking a cure. He becomes locked in an intellectual race against the disease itself, attempting to understand its nature before it claims thousands. The investigation reveals that the plague may not be natural—someone or something may have deliberately unleashed it.
 
 The Unethical Experiment
-: Alikos discovers evidence that another physician, **Yenaze**, has been conducting unauthorized medical experiments on prison inmates and the desperately poor, seemingly attempting to replicate or understand the mechanisms of a rare disease. When Alikos threatens to expose her, she counters that her work has advanced medical knowledge more than a century of conventional practice—and that some discoveries require sacrifices. She offers Alikos the choice to join her research or watch as she uses her considerable influence to destroy his reputation.
+: Alikos discovers evidence that another physician, **[Yenaze]{.name data-type="being/npc"}**, has been conducting unauthorized medical experiments on prison inmates and the desperately poor, seemingly attempting to replicate or understand the mechanisms of a rare disease. When Alikos threatens to expose her, she counters that her work has advanced medical knowledge more than a century of conventional practice—and that some discoveries require sacrifices. She offers Alikos the choice to join her research or watch as she uses her considerable influence to destroy his reputation.
 
 The Impossible Patient
 : A patient is brought to Alikos bearing a condition so bizarre, so contradictory to all medical knowledge, that he cannot begin to understand what he is observing. The patient is simultaneously fevered and hypothermic, displays symptoms of diseases that should not occur together, and seems to exist in a state of bodily contradiction. As Alikos struggles to understand the case, he begins to suspect that conventional medicine will not provide answers—that something beyond the natural world may be involved.
 
 The Apprentice's Tragedy
-: Alikos's most promising student, **Young Kylis**, comes to him desperate for help after making a terrible mistake—a patient under the apprentice's care has been poisoned, and Kylis suspects his own preparation of medicine was at fault. The situation is complicated by the fact that the patient is the child of a powerful noble, and if the truth is discovered, Kylis will be executed. Alikos can protect his student or investigate the truth, and may discover that the poisoning was deliberate—perhaps even intended to frame Kylis.
+: Alikos's most promising student, **Young [Kylis]{.name data-type="being/npc"}**, comes to him desperate for help after making a terrible mistake—a patient under the apprentice's care has been poisoned, and Kylis suspects his own preparation of medicine was at fault. The situation is complicated by the fact that the patient is the child of a powerful noble, and if the truth is discovered, Kylis will be executed. Alikos can protect his student or investigate the truth, and may discover that the poisoning was deliberate—perhaps even intended to frame Kylis.
 
 The Healer's Dilemma
 : A wealthy merchant seeks Alikos's care for a condition that, while treatable, will require months of expensive treatment and significant lifestyle changes. The merchant, however, is willing to pay triple Alikos's normal fees for a "quicker solution"—poison disguised as medicine that will appear to be a natural death, allowing the merchant's heir to claim inheritance. The merchant reveals that he is terminally ill regardless, simply tired of lingering in pain, and offers the money not for himself but as compensation for Alikos's trouble.

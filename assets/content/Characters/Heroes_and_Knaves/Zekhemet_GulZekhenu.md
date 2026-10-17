@@ -438,7 +438,7 @@ sohl:
 
 ![[zekhmtglzkhn|Zekhemet Gul'Zekhenu]]{float=top-left}
 
-Zekhemet stands 5'9" tall with a light build. She has dark brown skin, very dark brown hair, and dark amber eyes. Her features include a diamond-shaped face, a slightly arched nose, a smooth jawline, generous lips, dark brows. A distinguishing mark is a scar running down the right leg.
+Zekhemet Gul'Zekhenu stands 5'9" tall with a light build. She has dark brown skin, very dark brown hair, and dark amber eyes. Her features include a diamond-shaped face, a slightly arched nose, a smooth jawline, generous lips, dark brows. A distinguishing mark is a scar running down the right leg.
 
 # Dossier {#dossier}
 
@@ -454,7 +454,7 @@ She answers to no single master, instead maintaining relationships with dozens o
 
 Zekhemet is fundamentally practical and results-oriented, a woman who measures value in cargo delivered safely and promises kept. She speaks with measured authority, her eloquence lending weight to even simple statements, and she possesses the rare gift of making complex logistical explanations comprehensible to non-specialists. Her humor is warm and inclusive, and she has a gift for making those around her feel valued and understood—a quality that has earned her fierce loyalty from crews and merchants alike.
 
-Beneath her competent exterior lies unexpected depths: a philosophical bent that occasionally surprises those who know her only as a shrewd businesswoman. She can speak with passion about the ethics of commerce, the relationship between risk and responsibility, and the way that managing physical cargo teaches one essential truths about managing people and communities. She is less guarded than many powerful women, apparently confident enough in her position that she does not feel the need to maintain distant formality.
+Beneath her competent exterior lie unexpected depths: a philosophical bent that occasionally surprises those who know her only as a shrewd businesswoman. She can speak with passion about the ethics of commerce, the relationship between risk and responsibility, and the way that managing physical cargo teaches one essential truths about managing people and communities. She is less guarded than many powerful women, apparently confident enough in her position that she does not feel the need to maintain distant formality.
 
 Her most defining trait is her absolute integrity. She keeps her word with an almost religious fervor, viewing a broken promise as a kind of moral death. This has made her reputation as inviolable as stone.
 
@@ -508,12 +508,12 @@ Merchant-Prince [[being-gezebari2|Gezebari]]
 [[affiliation-lingthrglzkr|Lin'Githar elu Galezkara]]
 : A collective of textile producers who depend on Zekhemet to transport their goods to distant markets, and who have publicly praised her reliability.
 
-Gar-Qelti's Trading Interests
+[[affiliation-garqelti|Gar-Qelti]]'s Trading Interests
 : A noble family with commercial holdings that value Zekhemet's discretion and reliability for sensitive shipments.
 
 ### Enemies
 
-Captain Magari of the Kestrel
+Captain [[being-magari|Magari]] of the [Kestrel]{.name data-type="vehicle"}
 : A rival pilot whose ship was damaged in an incident where Zekhemet claims foul play occurred. Magari blames Zekhemet directly, creating a blood feud in the merchant community.
 
 [[affiliation-garzulemu|Gar-Zulemu]]
@@ -530,7 +530,7 @@ Market Pressures
 [[affiliation-linzwrtglzk3|Lin'Zuwaret elu Galezkara]]
 : An informal association of independent traders who meet to share information and coordinate against larger commercial entities attempting to monopolize trade routes.
 
-[[affiliation-lutthubai|The Lut-Thuba'i]]
+The [[affiliation-lutthubai|Lut-Thuba'i]]
 : Devoted worshipper and regular contributor to the temple's charitable work supporting injured or disabled sailors.
 
 ## Plot Hooks

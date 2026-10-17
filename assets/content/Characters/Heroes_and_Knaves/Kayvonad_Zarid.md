@@ -420,7 +420,7 @@ sohl:
 
 ![[kayvondzrd|Kayvonad Zarid]]{float=top-left}
 
-Kayvonad stands 5'4" tall with a medium build. He has light olive skin, a shaved head, and dark amber eyes. His features include an oblong face, a long nose, a sharp jawline, a firm-set mouth, heavy brows, and high cheeks.
+Kayvonad Zarid stands 5'4" tall with a medium build. He has light olive skin, a shaved head, and dark amber eyes. His features include an oblong face, a long nose, a sharp jawline, a firm-set mouth, heavy brows, and high cheeks.
 
 # Dossier {#dossier}
 
@@ -428,11 +428,11 @@ Kayvonad stands 5'4" tall with a medium build. He has light olive skin, a shaved
 
 ### The Promising Scholar
 
-Born to a merchant family of moderate wealth in the [[place-khzryndsrtrgn|Khazryn Desert]], Kayvonad demonstrated early aptitude for mathematics and the theory of matter. He studied at the University of [[place-caldar|Kaldar]] from age fifteen, where he rapidly became the favored student of the famous alchemist Master Aldrin Kovoss. Under Kovoss's tutelage, he mastered the fundamental principles of mineral transmutation—the stable conversion of base metals and common stones into substances of greater rarity and value. His thesis on the principles of heat underlying successful copper-to-silver transmutation was hailed as groundbreaking, and he was invited to join the University's prestigious research faculty at an unusually young age.
+Born to a merchant family of moderate wealth in the [[place-khzryndsrtrgn|Khazryn Desert Region]], Kayvonad demonstrated early aptitude for mathematics and the theory of matter. He studied at the [University of Kaldar]{.name data-type="affiliation"} in [[place-caldar|Kaldar]] from age fifteen, where he rapidly became the favored student of the famous alchemist Master [Aldrin Kovoss]{.name data-type="being/npc"}. Under Kovoss's tutelage, he mastered the fundamental principles of mineral transmutation—the stable conversion of base metals and common stones into substances of greater rarity and value. His thesis on the principles of heat underlying successful copper-to-silver transmutation was hailed as groundbreaking, and he was invited to join the University's prestigious research faculty at an unusually young age.
 
 ### The Fall from Grace
 
-For nearly two decades, Kayvonad published extensively and achieved considerable renown throughout the academic world. His new catalytic crystalline matrices allowed for higher-yield transmutations and more stable results. However, his fortunes shifted dramatically when his longtime colleague and rival, **Pedunay Bulamun**, published a paper demonstrating mathematical errors in Kayvonad's foundational work. Rather than acknowledging the corrections gracefully, Kayvonad publicly attacked Bulamun's methodology and character, claiming his rival had plagiarized from stolen notes. The resulting scandal divided the department, damaged both their reputations, and led to an acrimonious split. Though Kayvonad retained his position, he was stripped of his leadership role and relegated to diminished research funding.
+For nearly two decades, Kayvonad published extensively and achieved considerable renown throughout the academic world. His new catalytic crystalline matrices allowed for higher-yield transmutations and more stable results. However, his fortunes shifted dramatically when his longtime colleague and rival, **[[being-pedunaybulam|Pedunay Bulamun]]**, published a paper demonstrating mathematical errors in Kayvonad's foundational work. Rather than acknowledging the corrections gracefully, Kayvonad publicly attacked Bulamun's methodology and character, claiming his rival had plagiarized from stolen notes. The resulting scandal divided the department, damaged both their reputations, and led to an acrimonious split. Though Kayvonad retained his position, he was stripped of his leadership role and relegated to diminished research funding.
 
 ### Present Isolation
 
@@ -491,7 +491,7 @@ Rigid Methodology
 University of Kaldar Administration
 : The institution that employs him, though their support is increasingly perfunctory and administrative rather than real intellectual backing.
 
-The Mineral Consortium of Khazryn
+[The Mineral Consortium of Khazryn]{.name data-type="affiliation/venture"}
 : A loose association of wealthy merchants dealing in rare minerals who fund some of his research in exchange for first option on any transmutation breakthroughs with commercial applications.
 
 ### Enemies
@@ -499,7 +499,7 @@ The Mineral Consortium of Khazryn
 Pedunay Bulamun
 : His former colleague whose mathematical critique became the basis for Kayvonad's fall from prominence. Bulamun has since become the favored elder statesman of the University's alchemical research, a position Kayvonad considers his by right.
 
-The Cabal of New Theorists
+[The Cabal of New Theorists]{.name data-type="affiliation"}
 : A faction of younger scholars at the University who have openly criticized Kayvonad's methodology as outdated and advocated for embracing newer theoretical frameworks that he views as intellectually corrupt.
 
 ### Affiliations
@@ -507,7 +507,7 @@ The Cabal of New Theorists
 University of Kaldar
 : His institutional home, though his status has diminished considerably over the years.
 
-The Alchemists' Society
+[The Alchemists' Society]{.name data-type="affiliation"}
 : An academic organization where he maintains membership but rarely participates in official functions.
 
 ## Plot Hooks

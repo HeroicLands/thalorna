@@ -414,11 +414,11 @@ sohl:
 
 ![[torvshmznd|Torvash Mazanid]]{float=top-left}
 
-Torvash stands 6'1" tall with a medium build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a narrow face, a hawkish nose, a sharp jawline, dark brows, a small scar on one cheeks.
+Torvash Mazanid stands 6'1" tall with a medium build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a narrow face, a hawkish nose, a sharp jawline, dark brows, a small scar on one cheek.
 
 # Dossier {#dossier}
 
-Torvash was born into the Mazanid clan, a family of herders whose flocks have grazed the steppes of [[affiliation-kngdmmrdd|Amradad]] for generations beyond counting. His childhood was spent in the company of sheep and goats, learning the language of animals before he fully mastered human speech. His father, a herder of some reputation, recognized early that Torvash possessed an unusual gift—an almost preternatural understanding of animal nature and the ability to manage large flocks with minimal violence or coercion.
+Torvash was born into the [Mazanid clan]{.name data-type="affiliation/lineage"}, a family of herders whose flocks have grazed the steppes of the [[place-amradadrgn|Amradad Region]] for generations beyond counting. His childhood was spent in the company of sheep and goats, learning the language of animals before he fully mastered human speech. His father, a herder of some reputation, recognized early that Torvash possessed an unusual gift—an almost preternatural understanding of animal nature and the ability to manage large flocks with minimal violence or coercion.
 
 At sixteen, Torvash began managing his own flock, gradually expanding it through careful breeding and wise grazing management. Over twenty years, he has built one of the largest independent herds in the region, producing wool of quality and cheese known for its subtle complexity. He has never married, though several families have offered daughters, finding no one whose company he prefers to that of his animals. His relationship with the land and his flocks is his primary passion, perhaps his only passion.
 
@@ -434,7 +434,7 @@ He is extraordinarily stubborn, rooted in the belief that the old ways—the tra
 
 ### Motivation
 
-Torvash is motivated by a simple, desire: to steward his flocks well and to maintain the integrity of his craft across generations. He works because work is the natural expression of his being. He has no ambition to wealth beyond sufficiency, no desire for status or recognition. He is driven by a deep, almost religious conviction that the relationship between herder and herd is sacred, and that his duty is to honor that relationship perfectly. He serves Zúrathra, god of fertility, not through grand gestures but through the daily care that keeps his animals thriving.
+Torvash is motivated by a simple desire: to steward his flocks well and to maintain the integrity of his craft across generations. He works because work is the natural expression of his being. He has no ambition to wealth beyond sufficiency, no desire for status or recognition. He is driven by a deep, almost religious conviction that the relationship between herder and herd is sacred, and that his duty is to honor that relationship perfectly. He serves [[lore-zurathradty|Zúrathra]], god of fertility, not through grand gestures but through the daily care that keeps his animals thriving.
 
 ### Strengths
 
@@ -477,20 +477,20 @@ Isolation
 The Farming Communities of Amradad
 : Various farmers and landholders purchase his wool and cheese regularly and value his reliability and quality.
 
-The Temple of Zúrathra
+[The Temple of Zúrathra]{.name data-type="affiliation/order"}
 : He donates a portion of his yield to the temple's fertility rituals and receives their blessing in return.
 
 ### Enemies
 
-Bashiman the Merchant
+[Bashiman the Merchant]{.name data-type="being/npc"}
 : A merchant trader who attempted to pressure Torvash into exclusive supply agreements. When Torvash refused, Bashiman began spreading rumors about the quality of his products and has attempted to undercut his prices.
 
-The Zanavi Herding Clan
+[The Zanavi Herding Clan]{.name data-type="affiliation/lineage"}
 : A rival herding family whose grazing lands border Torvash's territory. Several disputes over water rights and grazing boundaries have created lasting tension.
 
 ### Affiliations
 
-The Independent Herders of the Amradad Steppes
+[The Independent Herders of the Amradad Steppes]{.name data-type="affiliation"}
 : An informal association of herders who share knowledge about weather, grazing, and market prices.
 
 The Temple of Zúrathra
@@ -505,7 +505,7 @@ The Stranger with the Wounded Beast
 : A stranger arrives at Torvash's territory, riding a magnificent horse that has been badly wounded—a wound that bears the marks of a predator that shouldn't exist in this region. The stranger begs Torvash's assistance in saving the animal and offers extraordinary payment. As Torvash works to heal the beast, he realizes that it is not entirely natural—it bears markings and proportions that don't quite match any breed he knows. The stranger becomes evasive when questioned about its origins, and more riders begin searching the region. Torvash must decide whether to honor his commitment to heal the animal, protect the stranger, or surrender them to the increasingly aggressive searchers.
 
 The Merchant's Proposition
-: A wealthy merchant from the capital of the Kingdom arrives with a proposition: Torvash's wool and cheese are of such quality that they could command prices many times their current rate in the great cities. The merchant wants to establish an exclusive supply agreement, providing capital for expansion in exchange for Torvash's entire output. The offer is more wealth than Torvash could earn in a lifetime—but it would require him to abandon his traditional methods, expand his herds beyond what he considers sustainable, and subject himself to the merchant's control. Torvash must weigh the security such wealth would offer against the loss of his independence and traditional practices.
+: A wealthy merchant from the capital of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] arrives with a proposition: Torvash's wool and cheese are of such quality that they could command prices many times their current rate in the great cities. The merchant wants to establish an exclusive supply agreement, providing capital for expansion in exchange for Torvash's entire output. The offer is more wealth than Torvash could earn in a lifetime—but it would require him to abandon his traditional methods, expand his herds beyond what he considers sustainable, and subject himself to the merchant's control. Torvash must weigh the security such wealth would offer against the loss of his independence and traditional practices.
 
 The Cursed Spring
 : Torvash discovers that the water spring that serves his herds—a spring that has been reliable for generations—is becoming poisoned. The water takes on an odd discoloration and a metallic taste, and animals begin refusing to drink it. Investigation reveals that someone upstream has been deliberately introducing substances into the water supply, possibly to force Torvash to sell his lands. But the culprit is someone Torvash never considered an enemy, and discovering their involvement will force him to handle complex social politics that he is unprepared to handle.

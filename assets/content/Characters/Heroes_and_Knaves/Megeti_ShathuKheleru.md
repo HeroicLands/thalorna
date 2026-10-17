@@ -423,15 +423,15 @@ sohl:
 
 ![[megtshthkhlr|Megeti Shathu'Kheleru]]{float=top-left}
 
-Megeti stands 5'5" tall with a light build. She has ebony skin, deep black hair, and brown eyes. Her features include a long face, a slightly arched nose, a narrow chin, full lips, and elegantly curved brows.
+Megeti Shathu'Kheleru stands 5'5" tall with a light build. She has ebony skin, deep black hair, and brown eyes. Her features include a long face, a slightly arched nose, a narrow chin, full lips, and elegantly curved brows.
 
 # Dossier {#dossier}
 
-Megeti was born into the merchant-class Shapkher clan, known for their integrity in trade. Her father, a trader in fine linens, instilled in her an obsessive attention to detail and a belief that honesty was the only practice that lasts. At fourteen, she entered the service of a minor official in the Treasury, initially as a scribe's assistant. Her gift for spotting inconsistencies became apparent within months, and she was promoted through the bureaucratic ranks with unusual swiftness.
+Megeti was born into the merchant-class [Shapkher clan]{.name data-type="affiliation/lineage"}, known for their integrity in trade. Her father, a trader in fine linens, instilled in her an obsessive attention to detail and a belief that honesty was the only practice that lasts. At fourteen, she entered the service of a minor official in [The Imperial Treasury]{.name data-type="affiliation/governmental"}, initially as a scribe's assistant. Her gift for spotting inconsistencies became apparent within months, and she was promoted through the bureaucratic ranks with unusual swiftness.
 
 Over two decades, Megeti rose to the position of Senior Accountant and Principal Auditor, becoming the right hand of [[being-khelassetepu|Khelassetepu]], the current Treasury Minister. Her investigations have dismantled at least three major embezzlement rings, exposing corrupt officials whose families had occupied their posts for generations. She is said to hold secrets enough to bring down a third of the court, and she never destroys a ledger until its usefulness has been thoroughly extracted.
 
-Today, Megeti works almost exclusively on the gravest audits and the quiet reordering of troubled accounts, trusted with the Empire's most guarded monetary secrets. Few dare cross her, and fewer still can match her in a game of numbers and inference.
+Today, Megeti works almost exclusively on the gravest audits and the quiet reordering of troubled accounts, trusted with the [[affiliation-empireakhlth|Empire of Au'Khelathu]]'s most guarded monetary secrets. Few dare cross her, and fewer still can match her in a game of numbers and inference.
 
 ## Psyche
 
@@ -486,7 +486,7 @@ Obsessive Tendency
 Khelassetepu, Treasury Minister
 : The powerful minister who discovered Megeti's talents and shields her from political enemies. Their partnership is mutually beneficial—she provides him the evidence to consolidate power, he provides her with protection and authority.
 
-The Inspector General's Office
+[The Inspector General's Office]{.name data-type="affiliation/governmental"}
 : Various officials in this body turn to her for sensitive audits when they need conclusions they can absolutely trust.
 
 ### Enemies
@@ -494,7 +494,7 @@ The Inspector General's Office
 [[affiliation-gargezru|Gar-Gezru]]
 : A network of corrupt officials and merchant-lords who lost hundreds of thousands of dinars to her investigations. They have placed a quiet bounty on her, though none have dared act openly.
 
-Methisi the Iron
+[[being-methisi|Methisi]] the Iron
 : A disgraced former Treasury Minister whose embezzlement Megeti exposed seven years ago. He now works in exile, spreading rumors that she fabricated evidence against him.
 
 [[affiliation-genzethalzia|Genzet'Halzi'a]]
@@ -502,14 +502,14 @@ Methisi the Iron
 
 ### Affiliations
 
-[[affiliation-tarmex|The Imperial Treasury]]
+The Imperial Treasury
 : Her primary institution and the source of her authority.
 
-The Scribes' Guild of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]
+[[affiliation-linzethkhlth|Lin'Zethu elu Au'Khelathu]], the scribes' guild of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]
 : She maintains formal membership, though she rarely participates in guild activities.
 
 [[affiliation-lemthubai|Lem'Thuba'i]]
-: A religious devotional order dedicated to Thuba'i, god of prosperity and the inundation. She maintains private worship and donates portions of her stipend to their works.
+: A religious devotional order dedicated to [[lore-thubaidty|Thuba'i]], god of prosperity and the inundation. She maintains private worship and donates portions of her stipend to their works.
 
 ## Plot Hooks
 

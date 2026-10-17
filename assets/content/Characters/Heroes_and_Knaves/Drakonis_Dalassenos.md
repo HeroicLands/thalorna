@@ -416,7 +416,7 @@ sohl:
 
 ![[drknsdlsns|Mivios Zapemes]]{float=top-left}
 
-Mivios stands 6'0" tall with a heavy build. He has tanned ruddy skin, greying brown hair, and green eyes. His features include a long face, a hawkish nose, a sharp jawline, well-defined lips, and greying brows.
+Mivios Zapemes stands 6'0" tall with a heavy build. He has tanned ruddy skin, greying brown hair, and green eyes. His features include a long face, a hawkish nose, a sharp jawline, well-defined lips, and greying brows.
 
 # Dossier {#dossier}
 
@@ -478,24 +478,24 @@ Dangerous Amorality
 
 ### Patrons
 
-Lord Belzurion Vughash of the frontier
+Lord [[being-belzurionvug|Belzurion Vughash]] of the frontier
 : A regional noble who maintains vast estates and regularly contracts Mivios to eliminate predators threatening livestock and hunting preserves; their relationship is one of business but carries unusual mutual respect.
 
-The Kozna Collective of Woodsmen
+[The Kozna Collective of Woodsmen]{.name data-type="affiliation"}
 : A loose association of trappers and hunters who, while maintaining distance from Mivios, regularly defer difficult contracts to him and pay extraordinary rates for his skill.
 
-Brother Lifizin Kregokhash of Marendas's Monastery
+Brother [[being-lifizinkrego|Lifizin Kregokhash]] of the monastery of the [[affiliation-marendas|Faith of Marendas]]
 : A monk keeper who acknowledges that Mivios's work, while violent, serves a necessary function in maintaining the balance that the knowledge-goddess requires.
 
 ### Enemies
 
-Provincial Warden Tevik
+Provincial Warden [Tevik]{.name data-type="being/npc"}
 : An official tasked with enforcing hunting regulations and game laws, Tevik views Mivios's disregard for these restrictions as insufferable and has made his arrest a personal mission despite the political complications his capture would create.
 
-The Poacher's Syndicate
+[The Poacher's Syndicate]{.name data-type="affiliation"}
 : A criminal organization that controls illegal hunting operations and views Mivios as a threat to their profits; they have attempted to eliminate him multiple times.
 
-Merchant-Lord Pazhurikos Plekolidek
+Merchant-Lord [[being-pazhurikospl|Pazhurikos Plekolidek]]
 : A wealthy trader whose hunting party was decimated by a great predator; Pazhurikos blames Mivios for failing to eliminate the beast beforehand and has sworn vendetta against him.
 
 ### Affiliations

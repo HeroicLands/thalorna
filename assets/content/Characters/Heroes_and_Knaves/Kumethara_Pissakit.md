@@ -422,15 +422,15 @@ sohl:
 
 ![[kmthrpsskt|Kumethara Pissakit]]{float=top-left}
 
-Kumethara stands 5'10" tall with a medium build. She has golden-toned skin, auburn hair, and green eyes. Her features include a diamond-shaped face, a straight nose, a narrow chin, an expressive mouth, arched brows, prominent cheeks.
+Kumethara Pissakit stands 5'10" tall with a medium build. She has golden-toned skin, auburn hair, and green eyes. Her features include a diamond-shaped face, a straight nose, a narrow chin, an expressive mouth, arched brows, prominent cheeks.
 
 # Dossier {#dossier}
 
-Kumethara was born into the Pissakit family in the heavily forested regions of the [[affiliation-byzarianlg|Bizarian League]], in a village built literally within the forest itself. Her father, **Khodegahran Pissakit**, was a respected woodcutter of modest renown, skilled but not ambitious. Her mother died when Kumethara was young, leaving her father to raise three children with only the forest for support. Where her brothers sought other livelihoods—one became a stonemason, the other a merchant—Kumethara showed early aptitude for woodcraft.
+Kumethara was born into the [Pissakit family]{.name data-type="affiliation/lineage"} in the heavily forested regions of the [[affiliation-byzarianlg|Bizarian League]], in a village built literally within the forest itself. Her father, **[Khodegahran Pissakit]{.name data-type="being/npc"}**, was a respected woodcutter of modest renown, skilled but not ambitious. Her mother died when Kumethara was young, leaving her father to raise three children with only the forest for support. Where her brothers sought other livelihoods—one became a stonemason, the other a merchant—Kumethara showed early aptitude for woodcraft.
 
 Her father initially resisted teaching her, believing the work unsuitable for a woman. When she was fourteen, he fell from a tree and broke his leg. With no other option and no money for hired help, Kumethara took up his axe and worked the contracts herself. By the time her father healed, she had proven she could do the work as well as any man. Grudgingly, then with pride, her father became her mentor.
 
-Now thirty-four, Kumethara has established herself as a master of her craft. She specializes in the selective harvesting of timber—taking only mature trees and in patterns that sustain the forest rather than strip it. Her reputation for both skill and forestry wisdom has made her by builders, furniture makers, and increasingly by those concerned with preserving woodland resources. She maintains membership in the **Woodcutters' Guild** but often works independently on specialized contracts.
+Now thirty-four, Kumethara has established herself as a master of her craft. She specializes in the selective harvesting of timber—taking only mature trees and in patterns that sustain the forest rather than strip it. Her reputation for both skill and forestry wisdom has made her by builders, furniture makers, and increasingly by those concerned with preserving woodland resources. She maintains membership in **[The Woodcutters' Guild of the Bizarian League]{.name data-type="affiliation/guild"}** but often works independently on specialized contracts.
 
 ## Psyche
 
@@ -442,7 +442,7 @@ Her stubbornness is famous among woodcutters, but it is a principled stubbornnes
 
 ### Motivation
 
-Kumethara is driven by a love for the forests of her homeland and a determination to prove that harvesting timber and preserving forests are not inherently opposed goals. She wants to demonstrate that a woman can master a trade traditionally dominated by men, and that doing so with integrity and wisdom is more valuable than any amount of unethical profit. She also carries a personal mission: to stop the practices of careless woodcutters do not destroy the forests her descendants will inherit.
+Kumethara is driven by a love for the forests of her homeland and a determination to prove that harvesting timber and preserving forests are not inherently opposed goals. She wants to demonstrate that a woman can master a trade traditionally dominated by men, and that doing so with integrity and wisdom is more valuable than any amount of unethical profit. She also carries a personal mission: to ensure that the practices of careless woodcutters do not destroy the forests her descendants will inherit.
 
 ### Strengths
 
@@ -482,19 +482,19 @@ Risk of Burnout
 
 ### Patrons
 
-Master Carpenter Eustrátiash Pimokhkar
+Master Carpenter [Eustrátiash Pimokhkar]{.name data-type="being/npc"}
 : A furniture maker who commissions Kumethara specifically for rare wood projects. He values her craftsmanship and has become a trusted colleague and occasional confidant.
 
-The Architects' Collective of the Bizarian League
+[The Architects' Collective of the Bizarian League]{.name data-type="affiliation"}
 : A group of builders committed to lasting construction. They seek Kumethara's timber for high-profile projects and trust her judgment on material selection.
 
-The Monastery of Silent Waters
-: A religious community in the forest that employs Kumethara to manage their woodlands sustainably while generating income. The head priest, **Father Trokhazul Petrikot**, shares her conservation philosophy.
+[The Monastery of Silent Waters]{.name data-type="affiliation"}
+: A religious community in the forest that employs Kumethara to manage their woodlands sustainably while generating income. The head priest, **Father [[being-trokhazulpet|Trokhazul Petrikot]]**, shares her conservation philosophy.
 
 ### Enemies
 
-The Logging Consortium of the Bizarian League
-: A commercial enterprise that prioritizes profit over sustainability. Their operation manager, **Master Harvester Zarránikos**, views Kumethara as an irritant and has attempted to undercut her contracts.
+[The Logging Consortium of the Bizarian League]{.name data-type="affiliation/venture"}
+: A commercial enterprise that prioritizes profit over sustainability. Their operation manager, **Master Harvester [Zarránikos]{.name data-type="being/npc"}**, views Kumethara as an irritant and has attempted to undercut her contracts.
 
 Corrupt Guild Officials
 : Some members of the **Woodcutters' Guild** resent her for raising standards and are occasionally hostile toward her work practices.
@@ -507,7 +507,7 @@ Unscrupulous Competing Woodcutters
 The Woodcutters' Guild of the Bizarian League
 : Kumethara maintains membership and serves informally as an advocate for sustainable practices.
 
-The Forest Stewards' Council
+[The Forest Stewards' Council]{.name data-type="affiliation"}
 : An informal association of woodworkers, builders, and conservationists dedicated to balancing timber harvesting with forest preservation.
 
 ## Plot Hooks
@@ -519,7 +519,7 @@ The Poisoned Forest
 : Trees in the northern region begin dying inexplicably. The **Logging Consortium** blames natural causes and seeks to harvest dying trees before they rot. Kumethara's investigation suggests intentional poisoning and discovers evidence pointing toward industrial sabotage or darker forces. Exposing the truth might devastate the region's economy.
 
 The Apprentice Question
-: A young woman, **Nargizán Fulunáhr**, seeks to apprentice with Kumethara, claiming spiritual calling and skill. Kumethara would be pleased to teach her, but investigation reveals **Nargizán** may be an infiltrator sent by the **Logging Consortium** to spy on sustainable practices or potentially sabotage Kumethara's work.
+: A young woman, **[Nargizán Fulunáhr]{.name data-type="being/npc"}**, seeks to apprentice with Kumethara, claiming spiritual calling and skill. Kumethara would be pleased to teach her, but investigation reveals **Nargizán** may be an infiltrator sent by the **Logging Consortium** to spy on sustainable practices or potentially sabotage Kumethara's work.
 
 The Lost Technique
 : An old woodcutter claims to have knowledge of an ancient **joinery technique** from before the current age—methods that make timber bonds stronger than any current practice. He will only teach Kumethara, but his asking price is that she agree to a dangerous expedition into forbidden forest where these techniques were supposedly lost.

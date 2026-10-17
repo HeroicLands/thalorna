@@ -403,11 +403,11 @@ sohl:
 
 ![[kamdkhvndr|Kamid Khavandar]]{float=top-left}
 
-Kamid stands 6'0" tall with a medium build. He has tanned ruddy skin, black hair, and dark brown eyes. His features include a narrow face, a prominent nose, a pointed chin, full lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a phoenix on the chest.
+Kamid Khavandar stands 6'0" tall with a medium build. He has tanned ruddy skin, black hair, and dark brown eyes. His features include a narrow face, a prominent nose, a pointed chin, full lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a phoenix on the chest.
 
 # Dossier {#dossier}
 
-Kamid was born to farming families in the borderlands of the [[place-khzryndsrtrgn|Khazryn Desert]], one of twelve children in a household where survival was never guaranteed. From childhood, he learned the hard work of coaxing sustenance from unforgiving soil, managing water resources, and reading the desert's moods. By his twenties, he had become the foreman of a productive farm, overseeing dozens of workers and managing the complex work of desert farming.
+Kamid was born to farming families in the borderlands of the [[place-khzryndsrtrgn|Khazryn Desert Region]], one of twelve children in a household where survival was never guaranteed. From childhood, he learned the hard work of coaxing sustenance from unforgiving soil, managing water resources, and reading the desert's moods. By his twenties, he had become the foreman of a productive farm, overseeing dozens of workers and managing the complex work of desert farming.
 
 At thirty-five, Kamid's life changed irrevocably when a severe drought struck the region. For two seasons, the rains did not come, and water sources dried. His farm failed along with dozens of others. He attempted to hold the operation together, selling off livestock and equipment to maintain wages for his workers. By the time the drought broke and rains returned, he had nothing left—the farm was seized by creditors, and his workers were scattered.
 
@@ -419,7 +419,7 @@ For the past thirteen years, Kamid has lived as a vagrant, begging in the street
 
 Kamid is a man of few words and hard pride. He speaks little unless directly addressed, and his words are generally practical and unemotional. Despite his circumstances, he maintains dignity and refuses—sometimes violently—to be treated as less than human. He is capable of kindness, particularly toward other vagrants and those society has discarded, though his generosity comes from understanding their pain rather than from warmth.
 
-Beneath the stoicism lies deep frustration and bitterness. He views his circumstances as a betrayal by the gods themselves, and his faith in **Báhramis** (god of storms) has become complicated—anger mixed with desperate hope that some storm will come to sweep away the current order and restore what he has lost. He is prone to bouts of dark introspection and has contemplated ending his suffering, though something—possibly the phoenix tattoo's symbolism—prevents final despair.
+Beneath the stoicism lies deep frustration and bitterness. He views his circumstances as a betrayal by the gods themselves, and his faith in **[[lore-bahramisdty|Báhramis]]** (god of storms) has become complicated—anger mixed with desperate hope that some storm will come to sweep away the current order and restore what he has lost. He is prone to bouts of dark introspection and has contemplated ending his suffering, though something—possibly the phoenix tattoo's symbolism—prevents final despair.
 
 ### Motivation
 
@@ -437,7 +437,7 @@ Practical Skills
 : His knowledge of farming, animal husbandry, basic construction, and managing supplies makes him useful in creating temporary settlements or managing supplies.
 
 Combat Readiness
-: Despite his apparent poverty, his Initiative score of 13 and practical combat training with his wooden club mean he is more strong in a street fight than his appearance suggests.
+: Despite his apparent poverty, his Initiative score of 13 and practical combat training with his wooden club mean he is stronger in a street fight than his appearance suggests.
 
 Street Sense
 : His Stealth and Awareness scores of 13 each, honed by years of navigating hostile streets and avoiding authorities, make him difficult to catch or surprise.
@@ -445,7 +445,7 @@ Street Sense
 ### Weaknesses
 
 Stubborn Pride
-: He refuses assistance that comes with conditions or that he perceives as charity, limiting his options for improvement. His pride has prevented him from accepting jobs that he considers beneath former station.
+: He refuses assistance that comes with conditions or that he perceives as charity, limiting his options for improvement. His pride has prevented him from accepting jobs that he considers beneath his former station.
 
 Limited Combat Training
 : While street-smart, his Melee score of only 11 and lack of proper weapons training mean he will be outmatched by trained fighters.
@@ -463,23 +463,23 @@ Minimal Resources
 
 ### Patrons
 
-Old Merchant Khalib
+Old Merchant [Khalib]{.name data-type="being/npc"}
 : A spice trader who knew Kamid's family decades ago, occasionally employs him for temporary work and sees that he doesn't starve, though he is careful not to patronize.
 
-The Desert Monks
-: Wandering spiritual practitioners who sometimes provide shelter and accept him as fellow pilgrims in the desert's harshness.
+[The Desert Monks]{.name data-type="affiliation"}
+: Wandering spiritual practitioners who sometimes provide shelter and accept him as a fellow pilgrim in the desert's harshness.
 
 ### Enemies
 
-Captain Kireshay and the City Guard
+Captain [[being-kireshay|Kireshay]] and the [City Guard]{.name data-type="affiliation"}
 : The local garrison commander has made begging and vagrancy a personal crusade, and views Kamid specifically as a troublemaker and vagrant to be driven out or arrested.
 
-The Creditor's Guild
+[The Creditor's Guild]{.name data-type="affiliation/guild"}
 : The organization that seized his farm decades ago, though they no longer actively pursue him, he views them as the architects of his destruction and failure.
 
 ### Affiliations
 
-The Vagrant Collective
+[The Vagrant Collective]{.name data-type="affiliation"}
 : An informal network of beggars and homeless in the desert settlements who share information, resources, and protection.
 
 ## Plot Hooks

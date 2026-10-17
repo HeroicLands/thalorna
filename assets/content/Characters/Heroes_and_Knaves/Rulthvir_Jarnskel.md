@@ -416,7 +416,7 @@ sohl:
 
 ![[rlthvrjrnskl|Rulthvir Jarnskel]]{float=top-left}
 
-Rulthvir stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and grey eyes. His features include an oblong face, a straight nose, a heavy jawline, a small mouth, and low-set brows.
+Rulthvir Jarnskel stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and grey eyes. His features include an oblong face, a straight nose, a heavy jawline, a small mouth, and low-set brows.
 
 # Dossier {#dossier}
 
@@ -424,11 +424,11 @@ Rulthvir stands 6'1" tall with a heavy build. He has tanned weathered skin, blac
 
 ### Origins Among the Herds
 
-Rulthvir was born into the Jarnskel clan, a family of herders whose bloodline extends back generations among the pastoral valleys of [[place-norgaad|Norgaad]]. His earliest memories are of following his father across windswept highlands, learning to read the moods of livestock and the moods of the weather with equal attentiveness. Where most children played with toys, Rulthvir practiced herding techniques with the family's mixed flocks. No one forced this education on him; it was simply the texture of his life.
+Rulthvir was born into the [Jarnskel clan]{.name data-type="affiliation/lineage"}, a family of herders whose bloodline extends back generations among the pastoral valleys of [[place-norgaad|Norgaad]]. His earliest memories are of following his father across windswept highlands, learning to read the moods of livestock and the moods of the weather with equal attentiveness. Where most children played with toys, Rulthvir practiced herding techniques with the family's mixed flocks. No one forced this education on him; it was simply the texture of his life.
 
 ### The Settling Years
 
-By his late teens, Rulthvir had proven himself a fine herder, commanding respect from livestock and shepherds alike. He established a personal holding in the high valleys that the Jarnskel family claimed, a region of dramatic seasonal variation where only the most dedicated herders could maintain successful flocks. He married **Marvthira Hlarthendik**, a healer's daughter, and together they built what became an increasingly prosperous pastoral operation. Their children—two daughters and a son—were raised in the same tradition, though only the youngest, **Snilthann the Younger**, showed the passion for herding that defines the Jarnskel line.
+By his late teens, Rulthvir had proven himself a fine herder, commanding respect from livestock and shepherds alike. He established a personal holding in the high valleys that the Jarnskel family claimed, a region of dramatic seasonal variation where only the most dedicated herders could maintain successful flocks. He married **[Marvthira Hlarthendik]{.name data-type="being/npc"}**, a healer's daughter, and together they built what became an increasingly prosperous pastoral operation. Their children—two daughters and a son—were raised in the same tradition, though only the youngest, **[[being-snilthannthe|Snilthann the Younger]]**, showed the passion for herding that defines the Jarnskel line.
 
 ### The Current Era
 
@@ -485,7 +485,7 @@ None formally, though there are subtle tensions with younger herders who view Ru
 The Jarnskel Clan
 : - He remains bound to his family, though his primary emotional investment is in his herds rather than in clan politics.
 
-The Norgaad Pastoral Association
+[The Norgaad Pastoral Association]{.name data-type="affiliation"}
 : - An informal network of herders across the region who gather seasonally to share knowledge and address common challenges. Rulthvir is a respected elder and keeper of traditional wisdom.
 
 ## Plot Hooks

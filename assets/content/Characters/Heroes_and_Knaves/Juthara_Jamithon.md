@@ -420,15 +420,15 @@ sohl:
 
 ![[juthrjmthn|Júthara Jamithon]]{float=top-left}
 
-Júthara stands 5'11" tall with a medium build. She has warm amber skin, black hair, and brown eyes. Her features include a narrow face, a noble nose, a smooth jawline, elegantly curved brows. A distinguishing mark is a scar running across the stomach.
+Júthara Jamithon stands 5'11" tall with a medium build. She has warm amber skin, black hair, and brown eyes. Her features include a narrow face, a noble nose, a smooth jawline, elegantly curved brows. A distinguishing mark is a scar running across the stomach.
 
 # Dossier {#dossier}
 
-Born into the Jamithon family during the height of the Matriarchy's intellectual renaissance, Júthara was destined for scholarly pursuits from birth. Her childhood was spent in vast libraries of the capital, where she devoured texts on mathematics, medicine, and the arcane arts with an insatiable hunger. Under the tutelage of the physician **Tabira the Wise**, she mastered the complexities of herbal medicine and natural philosophy, earning her credentials as a healer by her early twenties.
+Born into the [Jamithon family]{.name data-type="affiliation/lineage"} during the height of the [[affiliation-mtrrchybth|Matriarchy of Bethua]]'s intellectual renaissance, Júthara was destined for scholarly pursuits from birth. Her childhood was spent in vast libraries of the capital, where she devoured texts on mathematics, medicine, and the arcane arts with an insatiable hunger. Under the tutelage of the physician **[[being-tabirathamid|Tabira Thamidon]], called the Wise**, she mastered the complexities of herbal medicine and natural philosophy, earning her credentials as a healer by her early twenties.
 
-Her career took a darker turn when she accepted a commission from the ruling council to investigate a plague spreading through the outer provinces. During fieldwork in a remote village, she was attacked by infected victims who had turned feral—the source of her abdominal scar. She survived, but the experience transformed her from a clinical scholar into one obsessed with understanding the boundary between disease and corruption of the soul. For five years she disappeared from public life, conducting controversial experiments that earned her considerable censure.
+Her career took a darker turn when she accepted a commission from [The Matriarch's Council]{.name data-type="affiliation/governmental"}, the ruling council, to investigate a plague spreading through the outer provinces. During fieldwork in a remote village, she was attacked by infected victims who had turned feral—the source of her abdominal scar. She survived, but the experience transformed her from a clinical scholar into one obsessed with understanding the boundary between disease and corruption of the soul. For five years she disappeared from public life, conducting controversial experiments that earned her considerable censure.
 
-Now at thirty-four years of age, Júthara has emerged as a controversial but respected voice in Bethuian scholarship. She maintains her own research laboratory in the capital and teaches select apprentices, blending traditional knowledge with radical new methodologies. Despite—or perhaps because of—her checkered past, she has become instrumental in advancing the Matriarchy's understanding of medicine and natural philosophy.
+Now at thirty-four years of age, Júthara has emerged as a controversial but respected voice in [[lore-bethuanclt|Bethuan]] scholarship. She maintains her own research laboratory in the capital and teaches select apprentices, blending traditional knowledge with radical new methodologies. Despite—or perhaps because of—her checkered past, she has become instrumental in advancing the Matriarchy's understanding of medicine and natural philosophy.
 
 ## Psyche
 
@@ -454,7 +454,7 @@ Skilled Communicator
 : Her Discourse and Theatrics at 17 allow her to present complex ideas with compelling eloquence, making her an effective teacher and public speaker.
 
 Disciplined Researcher
-: High scores in Script, Mathematics, and Ritual reflection a methodical approach to investigation; she leaves no stone unturned in her scholarly pursuits.
+: High scores in Script, Mathematics, and Ritual reflect a methodical approach to investigation; she leaves no stone unturned in her scholarly pursuits.
 
 Perceptive Observer
 : With Perception at 16, she notices subtle signs in both nature and human behavior that guide her research and diagnoses.
@@ -481,28 +481,28 @@ Emotional Reticence
 ### Patrons
 
 The Matriarch's Council
-: Officially, she serves the ruling body of [[affiliation-mtrrchybth|Bethua]], conducting investigations and providing medical consultation on matters of state health.
+: Officially, she serves the ruling body of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], conducting investigations and providing medical consultation on matters of state health.
 
 Tabira the Wise
 : Her elderly mentor and former primary teacher, though now retired, continues to provide guidance and occasionally supplies rare components for her experiments.
 
-Master Archivist Solene
-: The keeper of the Great Library, who has protected Júthara's reputation and provided her with access to restricted texts in exchange for her discoveries.
+Master Archivist [Solene]{.name data-type="being/npc"}
+: The keeper of the [Great Library]{.name data-type="place/structure"}, who has protected Júthara's reputation and provided her with access to restricted texts in exchange for her discoveries.
 
 ### Enemies
 
-The Traditionalist Cabal
+[The Traditionalist Cabal]{.name data-type="affiliation"}
 : A loose coalition of conservative scholars who view her methods as heretical, actively working to discredit her findings and block her publications.
 
-Herald-Priest Matthias
+Herald-Priest [Matthias]{.name data-type="being/npc"}
 : A religious authority who considers her research blasphemous and has publicly condemned her medical practices as sorcery.
 
 ### Affiliations
 
-The Scholars' Guild of Bethua
+[The Scholars' Guild of Bethua]{.name data-type="affiliation/guild"}
 : The primary organization of her profession, though her relationship with it is contentious—she frequently challenges their orthodoxies.
 
-The Circle of Natural Philosophy
+[The Circle of Natural Philosophy]{.name data-type="affiliation"}
 : A secret society of reform-minded scholars who meet to discuss radical new ideas beyond the scrutiny of traditionalists.
 
 ## Plot Hooks

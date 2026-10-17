@@ -420,11 +420,11 @@ sohl:
 
 ![[eldrtrvlth|Eldira Torvaleth]]{float=top-left}
 
-Eldira stands 5'10" tall with a light build. She has warm olive skin, dark brown hair, and green eyes. Her features include a diamond-shaped face, a hawkish nose, a pronounced chin, slightly pursed lips, and dark brows. She has a tattoo of a wolf on her shoulder.
+Eldira Torvaleth stands 5'10" tall with a light build. She has warm olive skin, dark brown hair, and green eyes. Her features include a diamond-shaped face, a hawkish nose, a pronounced chin, slightly pursed lips, and dark brows. She has a tattoo of a wolf on her shoulder.
 
 # Dossier {#dossier}
 
-Eldira Torvaleth was born in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] to a family with established but not distinguished ties to craftsmanship. Her father was a metalworker of modest reputation, and her mother kept a small herb garden and cultivated rare plants. From childhood, Eldira was fascinated by light and color—particularly the way sunlight transformed when passing through colored glass in the windows of the local cathedral. By age twelve, she had begun seeking out the cathedral's glassworker, Master Gerdan, begging him to teach her his craft.
+Eldira Torvaleth was born in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] to a family with established but not distinguished ties to craftsmanship. Her father was a metalworker of modest reputation, and her mother kept a small herb garden and cultivated rare plants. From childhood, Eldira was fascinated by light and color—particularly the way sunlight transformed when passing through colored glass in the windows of the local cathedral. By age twelve, she had begun seeking out the cathedral's glassworker, Master [Gerdan]{.name data-type="being/npc"}, begging him to teach her his craft.
 
 Gerdan, having no children of his own and recognizing unusual talent, agreed to take her on as an informal apprentice. For the next eight years, she learned traditional glasswork: cutting, leading, soldering, the practical creation of functional windows. However, even as a young apprentice, Eldira's inclinations diverged from the conventional. She experimented with color combinations that her mentor considered garish, designed patterns that deviated from ecclesiastical tradition, and pushed the boundaries of what glass could express.
 
@@ -480,13 +480,13 @@ Lack of Patrons and Institutional Support
 
 ### Patrons
 
-Bishop Matthias of Riverside Cathedral
+Bishop [Matthias]{.name data-type="being/npc"} of [Riverside Cathedral]{.name data-type="place/structure"}
 : A reform-minded religious leader who commissioned Eldira to create unconventional windows that express spiritual concepts beyond literal religious imagery. He has become her primary patron and most vocal advocate, defending her work against criticism from more conservative ecclesiastical figures.
 
-Merchant Collector Lady Oltrema Lizelis
+Merchant Collector Lady [[being-oltremalizel|Oltrema Lizelis]]
 : A wealthy widow with refined aesthetic tastes who has commissioned several major pieces for her private manor. She appreciates Eldira's originality and has paid premium prices for original works.
 
-Artist-Patrons the Ravencroft Collective
+Artist-Patrons the [Ravencroft Collective]{.name data-type="affiliation"}
 : A loose association of artists, musicians, and intellectual rebels who admire Eldira's work and frequently commission pieces from her. They represent her artistic peer group and provide emotional support for her unconventional approach.
 
 Master Gerdan's Estate
@@ -494,18 +494,18 @@ Master Gerdan's Estate
 
 ### Enemies
 
-Master Glassworker Helmut Thorne
+Master Glassworker [Helmut Thorne]{.name data-type="being/npc"}
 : A traditionalist of great reputation who views Eldira's work as a corruption of the glassmaker's craft. He has publicly criticized her work, called her a charlatan, and actively encourages clients and institutions to hire more "authentic" traditionalist glassworkers instead. He views her success as a personal threat to the integrity of his life's work.
 
-Rival Artisan Cassian Darkglass
+Rival Artisan [Cassian Darkglass]{.name data-type="being/npc"}
 : A younger glassworker who initially studied under Eldira but left her workshop in bitter circumstances, feeling inadequate compared to her natural talents. Cassian has adopted traditional methods specifically to distance himself from her influence and publicly portrays her as a fraud whose novelties are merely abandonment of proper technique.
 
 ### Affiliations
 
-the Glassworkers' Guild of Tarvénia
+the [Glassworkers' Guild of Tarvénia]{.name data-type="affiliation/guild"}
 : Eldira maintains formal membership but exists in uneasy relationship with the organization, which leans conservative and has several times suggested she adopt more traditional practices. She attends meetings sporadically and resists their authority.
 
-the Ravencroft Artistic Circle
+the [Ravencroft Artistic Circle]{.name data-type="affiliation"}
 : An informal community of forward-looking artists, philosophers, and others pushing at the bounds of custom, who see Eldira as a key member and a voice for artistic freedom and new work.
 
 ## Plot Hooks

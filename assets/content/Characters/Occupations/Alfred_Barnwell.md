@@ -397,13 +397,13 @@ Wilred Barnwell cuts an unassuming figure—a lean man of moderate height with t
 
 # Dossier {#dossier}
 
-Wilred Barnwell was born in [[place-kingsholow|Kingshollow]], a smaller settlement in the wilder reaches of [[place-aelwyth|Aelwyth]], to a freeman's family with no connections to [[affiliation-ordoarcanis|the Thordimalon]] or any formal magical institution. His early aptitude for herbalism and mineral lore was unremarkable until a wandering scholar from the Epistémion (the Academy of Knowledge) recognized something deeper—a gift for understanding the old ways of making, the marriage of folk tradition and systematic inquiry. By his mid-twenties, he had secured a place as a lay apprentice within the Epistémion's eastern chapter, and for ten years he immersed himself in the Zulen (fellowship) Fisera, the Earth school of alchemy.
+Wilred Barnwell was born in [[place-kingsholow|Kingshollow]], a smaller settlement in the wilder reaches of [[place-aelwyth|Aelwyth]], to a freeman's family with no connections to the [[affiliation-ordoarcanis|Thordimalon]] or any formal magical institution. His early aptitude for herbalism and mineral lore was unremarkable until a wandering scholar from the [[affiliation-panepistmm|Epistémion]] (the Academy of Knowledge) recognized something deeper—a gift for understanding the old ways of making, the marriage of folk tradition and systematic inquiry. By his mid-twenties, he had secured a place as a lay apprentice within the Epistémion's eastern chapter, and for ten years he immersed himself in the Zulen (fellowship) [[affiliation-physera|Fisera]], the Earth school of alchemy.
 
-In his mid-thirties, Wilred's course took a sudden turn. The Order's demands for doctrinal purity and monopolistic control over all magical practice began to feel suffocating to a man raised on Aelwyth's foggy, liminal shores where the boundary between folk magic and learned sorcery had always been permeable. He began quietly gathering forbidden texts—records of pre-Order alchemy, techniques preserved by village cunning-folk, runecraft inscribed in stones. When the Sekran began investigating unauthorized practitioners in the borderlands, Wilred made his choice: he left the Epistémion (the Academy) quietly, taking with him his accumulated knowledge and his considerable arsenal of herbal recipes, mineral elixirs, and enchanted stones.
+In his mid-thirties, Wilred's course took a sudden turn. The Order's demands for doctrinal purity and monopolistic control over all magical practice began to feel suffocating to a man raised on Aelwyth's foggy, liminal shores where the boundary between folk magic and learned sorcery had always been permeable. He began quietly gathering forbidden texts—records of pre-Order alchemy, techniques preserved by village cunning-folk, runecraft inscribed in stones. When the [Sekran]{.name data-type="affiliation"} began investigating unauthorized practitioners in the borderlands, Wilred made his choice: he left the Epistémion (the Academy) quietly, taking with him his accumulated knowledge and his considerable arsenal of herbal recipes, mineral elixirs, and enchanted stones.
 
 For the past seven years, he has lived as what most know him as: a traveling healer and scholar named Thalos Graymoor, moving through the less-settled regions of Aelwyth—the deep forests, the misty moorlands, the fishing villages that the Order's reach only touches lightly. He supplies remedies, crafts bespoke alchemical aids for local craftsfolk and hunters, reads old texts for those who need guidance with the unseen, and conducts his deeper work in candlelit cellars and forest clearings where few ask questions. His knowledge of folklore makes him a trusted advisor on matters of local tradition, and he keeps a careful awareness of political currents that might threaten his precarious independence.
 
-He is faithful to Marendas—the goddess of knowledge and wisdom—not the communal faith of his birth, but a personal devotion born from his conviction that true understanding does not stop at an institution's walls.
+He is faithful to [[lore-marendasdty|Marendas]]—the goddess of knowledge and wisdom—not the communal faith of his birth, but a personal devotion born from his conviction that true understanding does not stop at an institution's walls.
 
 ## Psyche
 
@@ -415,25 +415,25 @@ His weaknesses are equally real. His physical frailty is no liability for an alc
 
 ## Social
 
-Wilred's official affiliation is formally severed from the Epistémion, though he maintains clandestine correspondence with one of its more liberal-minded archivists in the [[affiliation-kingdmdnvr|Dúnavarre]] chapterhouse. Should he ever be discovered, he would be considered a lapsed Adept operating without sanction—a serious violation in Dúnavarre's Order-dominated society.
+Wilred's official affiliation is formally severed from the Epistémion, though he maintains clandestine correspondence with one of its more liberal-minded archivists in the [[place-dunavarre|Dúnavarre]] chapterhouse. Should he ever be discovered, he would be considered a lapsed Adept operating without sanction—a serious violation in the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]'s Order-dominated society.
 
 Locally, in the scattered settlements and forest communities of the borderlands where he now works, he is known as a valuable resource. Village chieftains, hedge witches, master craftsfolk, and respected elders know him as someone who can be trusted with a problem and whose discretion is absolute. He has also cultivated selective relationships with other independent practitioners—smugglers of forbidden texts, practitioners of older seid traditions, scholars of the natural world who work outside the institutions. These are not friendships so much as networks of mutual aid, held together by shared wariness of the Order's expanding reach.
 
-His status as a freeman and an outsider to formal Aelwythan power structures actually provides him protection; he is too minor to interest the nobility, and too useful to the common folk to simply disappear.
+His status as a freeman and an outsider to formal [[lore-aelwythanclt|Aelwythan]] power structures actually provides him protection; he is too minor to interest the nobility, and too useful to the common folk to simply disappear.
 
 ## Companions
 
 ### Patrons and Allies
 
-**Aldus Thorne**, elderly master craftsfolk of Kingshollow and the closest thing Wilred has to a patron, provides shelter and discreet access to his extensive workshop. Their relationship predates Wilred's departure from the Epistémion; Aldus has long been sympathetic to folk practitioners and quietly funded Wilred's research into traditional methods. The bond is strong but carefully maintained.
+**[Aldus Thorne]{.name data-type="being/npc"}**, elderly master craftsfolk of Kingshollow and the closest thing Wilred has to a patron, provides shelter and discreet access to his extensive workshop. Their relationship predates Wilred's departure from the Epistémion; Aldus has long been sympathetic to folk practitioners and quietly funded Wilred's research into traditional methods. The bond is strong but carefully maintained.
 
-**The Archivist**, a mysterious figure within the Epistémion's Dúnavarre chapter known only to Wilred by coded letters, supplies carefully laundered copies of restricted texts and is a backstop—someone who, should the worst occur, might provide refuge or warning. This relationship is fragile, held together only by shared intellectual conviction and the Archivist's own private doubts about the Order's direction.
+**[The Archivist]{.name data-type="being/npc"}**, a mysterious figure within the Epistémion's Dúnavarre chapter known only to Wilred by coded letters, supplies carefully laundered copies of restricted texts and is a backstop—someone who, should the worst occur, might provide refuge or warning. This relationship is fragile, held together only by shared intellectual conviction and the Archivist's own private doubts about the Order's direction.
 
 ### Enemies and Threats
 
-**Marendos Teremos**, an austere enforcer for the Sekran's western investigations, has taken particular interest in "irregular practices" in the Aelwyth borderlands. He does not yet know Wilred by name, but he is asking the right questions. The tension between them is building steadily.
+**Marendos [[being-teremoszenot|Teremos Zenothenos]]**, an austere enforcer for the Sekran's western investigations, has taken particular interest in "irregular practices" in the Aelwyth borderlands. He does not yet know Wilred by name, but he is asking the right questions. The tension between them is building steadily.
 
-**The Jealous Circle**, a coterie of independent practitioners in the larger towns who resent Wilred's discretion and growing reputation. They would not hesitate to betray him to the Order if they believed it would eliminate a rival—or at minimum, to undercut his standing with shared clients.
+**[The Jealous Circle]{.name data-type="affiliation"}**, a coterie of independent practitioners in the larger towns who resent Wilred's discretion and growing reputation. They would not hesitate to betray him to the Order if they believed it would eliminate a rival—or at minimum, to undercut his standing with shared clients.
 
 ## Plot Hooks
 

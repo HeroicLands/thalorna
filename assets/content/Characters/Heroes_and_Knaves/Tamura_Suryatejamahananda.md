@@ -420,13 +420,13 @@ sohl:
 
 ![[tmrsrytjmhnnd|Tamura Suryatejamahananda]]{float=top-left}
 
-Tamura stands 6'0" tall with a medium build. He has golden brown skin, greying black hair, and honey brown eyes. His features include a soft-featured face, a straight nose, a gentle jawline, an expressive mouth, golden brows, and full cheeks. He has a tattoo of a butterfly on his neck.
+Tamura Suryatejamahananda stands 6'0" tall with a medium build. He has golden brown skin, greying black hair, and honey brown eyes. His features include a soft-featured face, a straight nose, a gentle jawline, an expressive mouth, golden brows, and full cheeks. He has a tattoo of a butterfly on his neck.
 
 # Dossier {#dossier}
 
-Tamura was born into the Karmija station, in a kulra of woodcrafters, in the City-States of [[affiliation-janpdsvdyr|Vedyara]], the second son of a master carpenter who had built his reputation on the creation of lasting structures and functional beauty. From childhood, Tamura's relationship with wood was almost spiritual—he claimed he could hear what each piece wished to become, could sense the grain's direction before ever touching chisel to surface. Where his older brother pursued elaborate decorative work, Tamura found his calling in structures that would last centuries: barn frames, ship keels, the massive gate timbers that stood against storm and siege.
+Tamura was born into the Karmija station, in a kulra of woodcrafters, in the city-states of the [[place-vedyarargn|Vedyara Region]], the second son of a master carpenter who had built his reputation on the creation of lasting structures and functional beauty. From childhood, Tamura's relationship with wood was almost spiritual—he claimed he could hear what each piece wished to become, could sense the grain's direction before ever touching chisel to surface. Where his older brother pursued elaborate decorative work, Tamura found his calling in structures that would last centuries: barn frames, ship keels, the massive gate timbers that stood against storm and siege.
 
-In his youth, Tamura apprenticed under the celebrated craftsman Maharaj Tanavarna Shuravana, a figure of near-mythical status in Vedyaran woodcraft traditions. For thirteen years, he learned technique and philosophy—the belief that every wooden creation was a covenant with future generations, a promise that it would bear its intended weight without failure. This philosophy shaped him entirely. While his contemporaries chased profitable commissions from wealthy merchants seeking ornate furniture, Tamura established himself as the craftsman one employed when one's survival depended on quality.
+In his youth, Tamura apprenticed under the celebrated craftsman Maharaj [[being-tanavarnashu|Tanavarna Shuravana]], a figure of near-mythical status in the woodcraft traditions of the [[lore-vedyariclt|Vedyari]]. For thirteen years, he learned technique and philosophy—the belief that every wooden creation was a covenant with future generations, a promise that it would bear its intended weight without failure. This philosophy shaped him entirely. While his contemporaries chased profitable commissions from wealthy merchants seeking ornate furniture, Tamura established himself as the craftsman one employed when one's survival depended on quality.
 
 At fifty-four, Tamura has achieved something far more valuable than wealth: he has become indispensable. His reputation extends across multiple city-states, and armies of agricultural workers have built their livelihoods around the tools and implements he crafts. More recently, he has taken on a role as mentor to younger craftsmen, though he admits he finds this frustrating—the younger generation seems more interested in quick profits than in the integrity of their work.
 
@@ -480,29 +480,29 @@ Inflexibility in Thought
 
 ### Patrons
 
-Landholder Kestin Haroway
+Landholder [Kestin Haroway]{.name data-type="being/npc"}
 : A wealthy landowner who employs Tamura exclusively for all structural work on his sprawling estates. Kestin considers Tamura's work to be an investment in the permanence of his properties and pays handsomely for first call on his time.
 
-the Vedyaran Shrena Hall Commission
+the [Vedyaran Shrena Hall Commission]{.name data-type="affiliation"}
 : The official body overseeing craftsman standards frequently contracts with Tamura to evaluate the work of other craftsmen or to handle the most important public works. His reputation lends legitimacy to their assessments.
 
-Shipbuilder Master Alden Coursewright
+Shipbuilder Master [Alden Coursewright]{.name data-type="being/npc"}
 : A celebrated builder of merchant vessels who employs Tamura for keel and frame work on his most important commissions, knowing his structural integrity will make the difference between a ship that lasts twenty years and one that lasts a century.
 
 ### Enemies
 
-Merchant Grayson Thrift
+Merchant [Grayson Thrift]{.name data-type="being/npc"}
 : A merchant who has turned much of the wood-working trade over to mills, creating cheaper, faster work at the cost of quality. Grayson views Tamura's insistence on traditional methods as an impediment to progress and has publicly derided his approach as antiquated. Grayson actively seeks to undercut Tamura's prices and steal his commissions.
 
-Rival Craftsman Marden the Swift
+Rival Craftsman [Marden the Swift]{.name data-type="being/npc"}
 : A younger woodcrafter who has made a name for himself by producing fashionable, ornate pieces quickly and cheaply. Marden sees Tamura as a relic of the old ways, and he actively courts the younger patrons Tamura alienates with his refusal to adapt.
 
 ### Affiliations
 
-The Rural Craftsmen's Shrena of Vedyara
+[The Rural Craftsmen's Shrena of Vedyara]{.name data-type="affiliation/guild"}
 : The primary organization governing craftsmen standards in the agricultural regions. Tamura serves on their council and acts as one of their primary arbiters of quality and technique standards.
 
-The Shuravana Lineage
+[The Shuravana Lineage]{.name data-type="affiliation"}
 : An informal but deeply respected chain of apprenticeship and mentorship stretching back three hundred years, of which Tamura is a senior member. The lineage emphasizes that wood-craft is a calling rather than a trade alone.
 
 ## Plot Hooks
@@ -511,7 +511,7 @@ The Haunted Commission
 : A mysterious man of rank from the far borders approaches Tamura with a commission to craft a specific type of wooden structure—one that matches descriptions from ancient texts that Tamura has never shared with anyone. The stranger seems to know precisely what Tamura builds in secret, in his own time, projects he has never shown to clients. When Tamura refuses, the stranger produces a document suggesting that these same structures appear in sealed architectural records from the imperial archives. Tamura must determine how this stranger knows his private work and what they intend to do with such knowledge.
 
 The Apprentice's Betrayal
-: A young apprentice of rare talent whom Tamura took under his wing as a potential heir to the Shuravana lineage disappears after three years of study. Months later, Tamura discovers that the apprentice has been producing cheap imitations of his signature techniques, flooding the market and damaging Tamura's reputation. When Tamura confronts the apprentice, he discovers the young craftsman was coerced into this by the merchant Grayson Thrift, but the apprentice is now too frightened to break free. Tamura can help his former student risk Grayson's wrath or allow his own reputation to gho on deteriorating.
+: A young apprentice of rare talent whom Tamura took under his wing as a potential heir to the Shuravana lineage disappears after three years of study. Months later, Tamura discovers that the apprentice has been producing cheap imitations of his signature techniques, flooding the market and damaging Tamura's reputation. When Tamura confronts the apprentice, he discovers the young craftsman was coerced into this by the merchant Grayson Thrift, but the apprentice is now too frightened to break free. Tamura can help his former student risk Grayson's wrath or allow his own reputation to go on deteriorating.
 
 The Living Wood
 : An elderly scholar approaches Tamura with a fragment of wood that behaves impossibly—it never rots, grows in strange directions, and seems to be almost alive. The scholar claims that Tamura is the only craftsman with the skill to work with such material and requests he create something specific from it, though the scholar is reluctant to reveal what. Tamura discovers that this wood is somehow connected to an ancient curse or blessing affecting the region, and that both good and dark forces seek it.

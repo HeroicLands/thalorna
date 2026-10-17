@@ -434,11 +434,11 @@ sohl:
 
 ![[smrnorenkt|Samarina Oreinikot]]{float=top-left}
 
-Samarina stands 5'10" tall with a light build. She has light olive skin, very dark brown hair, and green eyes. Her features include an oval face, a prominent nose, a narrow chin, well-defined lips, very dark brows, and hollow cheeks.
+Samarina Oreinikot stands 5'10" tall with a light build. She has light olive skin, very dark brown hair, and green eyes. Her features include an oval face, a prominent nose, a narrow chin, well-defined lips, very dark brows, and hollow cheeks.
 
 # Dossier {#dossier}
 
-**Pastoral Heritage:** Samarina was born the youngest daughter of a respected herding family in the Bizarian highlands, where sheep and goat herding is the mainstay of livelihood and custom. From childhood, she was immersed in the rhythms of pastoral life—learning to read weather patterns, to identify individual animals from subtle distinctions, and to understand the social order within flocks. Her family taught her that herding is a sacred trust, a covenant with the animals under one's care.
+**Pastoral Heritage:** Samarina was born the youngest daughter of a respected herding family in the highlands of the [[place-byzariargn|Bizaria Region]], where sheep and goat herding is the mainstay of livelihood and custom. From childhood, she was immersed in the rhythms of pastoral life—learning to read weather patterns, to identify individual animals from subtle distinctions, and to understand the social order within flocks. Her family taught her that herding is a sacred trust, a covenant with the animals under one's care.
 
 **Early Challenges and Growth:** At sixteen, Samarina attempted to establish her own herd independently, a common practice among young herders. However, an unusual drought year combined with predator losses and a fall in prices threatened the survival of both her animals and her livelihood. Rather than give up, she spent three years rebuilding through careful selective breeding, new grazing methods, and the development of fine wool that commanded higher prices. This early hardship taught her resilience while also revealing her caution—she learned to make conservative decisions, to put security before growth.
 
@@ -500,21 +500,21 @@ Social Isolation Risk
 
 ### Patrons
 
-Elder Chelvazeon Pedinikot
+Elder [[being-tchelvazeonp|Chelvazeon Pedinikot]]
 : The respected elder of her herding commune and unofficial keeper of pastoral traditions, Chelvazeon has mentored Samarina throughout her life and provides guidance on both practical and cultural matters, though he sometimes expresses concern about her caution.
 
-The Wool Merchant Zenobarzan Kalvestris
+The Wool Merchant [Zenobarzan Kalvestris]{.name data-type="being/npc"}
 : A fair-dealing trader who buys Samarina's wool at high prices and speaks for it in distant markets, giving her a reliable income whatever the season's prices.
 
-The Veterinary Herbalist Zenonikash
+The Veterinary Herbalist [Zenonikash]{.name data-type="being/npc"}
 : A semi-retired healer who specializes in animal care and has become a friend and occasional mentor, sharing knowledge about herbal remedies and the care of the whole animal.
 
 ### Enemies
 
-Landowner Ghazos Vaspas
+Landowner [Ghazos Vaspas]{.name data-type="being/npc"}
 : A wealthy landowner whose territories border Samarina's grazing lands, Ghazos has repeatedly attempted to purchase her land or pressure her into heavier grazing that ruins the land. Her refusal has earned his enmity.
 
-The Competitive Herders Collective
+[The Competitive Herders Collective]{.name data-type="affiliation"}
 : Younger herders in the region, frustrated with what they see as outdated practices and conservative thinking, have begun ostracizing Samarina and spreading rumors about the inferior quality of her animals, despite evidence to the contrary.
 
 Her own doubts, an inner enemy

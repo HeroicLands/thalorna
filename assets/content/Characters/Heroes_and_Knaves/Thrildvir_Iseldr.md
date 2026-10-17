@@ -419,7 +419,7 @@ sohl:
 
 ![[thrldvrisldr|Thrildvir Iseldr]]{float=top-left}
 
-Thrildvir stands 5'8" tall with a medium build. He has light fair skin, dark brown hair, and brown eyes. His features include a rectangular face, a straight nose, a strong jawline, a small mouth, and dark brows. He has a scar above his left eyebrow.
+Thrildvir Iseldr stands 5'8" tall with a medium build. He has light fair skin, dark brown hair, and brown eyes. His features include a rectangular face, a straight nose, a strong jawline, a small mouth, and dark brows. He has a scar above his left eyebrow.
 
 # Dossier {#dossier}
 
@@ -427,11 +427,11 @@ Thrildvir stands 5'8" tall with a medium build. He has light fair skin, dark bro
 
 ### Humble Beginnings
 
-Born into the family of a dyer in [[place-vithgard|Vithgard]]'s cloth district, young **Thrildvir** showed early aptitude for the textile crafts despite his parents' modest circumstances. At seven years old, he could already identify quality fabrics and demonstrated an almost preternatural understanding of how cloth draped on the human form. His parents apprenticed him to **Master Thorne Velwick**, a master tailor of considerable renown, when he was twelve. Under Velwick's stern but fair tutelage, Thrildvir spent a decade mastering the mechanics of tailoring and the deeper philosophy—that clothing should respond to the body, enhance its natural lines, and express something of the wearer.
+Born into the family of a dyer in [[place-vithgard|Vithgard]]'s cloth district, young **Thrildvir** showed early aptitude for the textile crafts despite his parents' modest circumstances. At seven years old, he could already identify quality fabrics and demonstrated an almost preternatural understanding of how cloth draped on the human form. His parents apprenticed him to **Master [Thorne Velwick]{.name data-type="being/npc"}**, a master tailor of considerable renown, when he was twelve. Under Velwick's stern but fair tutelage, Thrildvir spent a decade mastering the mechanics of tailoring and the deeper philosophy—that clothing should respond to the body, enhance its natural lines, and express something of the wearer.
 
 ### The Journeyman's Wandering
 
-Upon completing his apprenticeship at twenty-two, Thrildvir took the road as a journeyman, as was customary, seeking out master tailors throughout the kingdom and beyond. He spent five years traveling to cities across Vithgard and the neighboring realms, working in prestigious ateliers and learning the regional variations of his craft. In the capital, he studied under the celebrated **Duchess's Court Tailor, Lavinia Thorne**; in the merchant cities, he learned the practical demands of outfitting nobility; in smaller towns, he discovered how to create elegance within modest constraints. It was during this period that he acquired the scar above his eyebrow—the result of a violent dispute over a commissioned gown that he refuses to discuss in detail, though it clearly marked him deeply.
+Upon completing his apprenticeship at twenty-two, Thrildvir took the road as a journeyman, as was customary, seeking out master tailors throughout the kingdom and beyond. He spent five years traveling to cities across the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] and the neighboring realms, working in prestigious ateliers and learning the regional variations of his craft. In the capital, he studied under the celebrated **Duchess's Court Tailor, [Lavinia Thorne]{.name data-type="being/npc"}**; in the merchant cities, he learned the practical demands of outfitting nobility; in smaller towns, he discovered how to create elegance within modest constraints. It was during this period that he acquired the scar above his eyebrow—the result of a violent dispute over a commissioned gown that he refuses to discuss in detail, though it clearly marked him deeply.
 
 ### Master Craftsman and Merchant
 
@@ -489,7 +489,7 @@ Chronic Self-Doubt
 
 ### Patrons
 
-Lord Gnaldrvir Vrathumak
+Lord [[being-gnaldrvirvra|Gnaldrvir Vrathumak]]
 : A powerful noble and patron of the arts who regularly commissions elaborate ceremonial garments from Thrildvir and has been instrumental in establishing his reputation among the kingdom's elite. Their relationship is cordial in business but personally distant.
 
 The Royal Costume Master
@@ -497,21 +497,21 @@ The Royal Costume Master
 
 ### Enemies
 
-Merchant-Tailor Halvin Greye
+Merchant-Tailor [Halvin Greye]{.name data-type="being/npc"}
 : A successful clothier who operates a larger, more commercially-focused atelier. Greye views Thrildvir as pretentious and haughty, while Thrildvir considers Greye's work mass-produced mediocrity. They compete fiercely for commissions from the lesser nobility.
 
-The Dyers' Consortium
+[The Dyers' Consortium]{.name data-type="affiliation/venture"}
 : A commercial organization that controls much of the fabric supply in the region. Thrildvir's insistence on seeking out specific weavers and naturally-dyed fabrics has put him at odds with their pricing and availability demands.
 
 ### Affiliations
 
-City Tailors' Guild
+[City Tailors' Guild]{.name data-type="affiliation/guild"}
 : He holds a senior position within the guild and serves on its governing council, though his idealistic standards sometimes put him at odds with the more pragmatic membership.
 
 ## Plot Hooks
 
 The Fabled Loom
-: Thrildvir becomes obsessed with locating a fabled loom said to have belonged to the fabled weaver **Isendra the Colorist**, a master craftsperson from before the Collapse whose work is described in near-mystical terms in ancient texts. He hires the party to search for evidence of its location, convinced that working at such a loom would allow him to create his masterwork—a garment that would be the summit of his artistic vision. The search takes them to hidden places where fragments of the old world remain preserved, but also reveals that others seek the loom for reasons less pure than artistic achievement.
+: Thrildvir becomes obsessed with locating a fabled loom said to have belonged to the fabled weaver **[Isendra the Colorist]{.name data-type="being/npc"}**, a master craftsperson from before the [Collapse]{.name data-type="lore"} whose work is described in near-mystical terms in ancient texts. He hires the party to search for evidence of its location, convinced that working at such a loom would allow him to create his masterwork—a garment that would be the summit of his artistic vision. The search takes them to hidden places where fragments of the old world remain preserved, but also reveals that others seek the loom for reasons less pure than artistic achievement.
 
 The Garment of Legends
 : A mysterious client commissions Thrildvir to create a specific garment based on a centuries-old description—a coat said to grant the wearer protection from harm and enhance their natural abilities. Thrildvir initially dismisses this as fantasy, but as he researches the commission, he discovers references to this garment across multiple historical sources and evidence suggesting it was real. Creating it requires materials that are nearly impossible to obtain and techniques he's never before attempted. The party must help him source materials and face dangers as his creation begins to show signs of real supernatural properties.

@@ -418,7 +418,7 @@ sohl:
 
 ![[knlthrnhfrngr|Knalthrinna Hafringr]]{float=top-left}
 
-Knalthrinna stands 5'11" tall with a medium build. She has pale fair skin, blonde hair, and green eyes. Her features include an oval face, a prominent nose, an angular jawline, a small mouth, heavy brows, and angular cheeks.
+Knalthrinna Hafringr stands 5'11" tall with a medium build. She has pale fair skin, blonde hair, and green eyes. Her features include an oval face, a prominent nose, an angular jawline, a small mouth, heavy brows, and angular cheeks.
 
 # Dossier {#dossier}
 
@@ -426,7 +426,7 @@ Knalthrinna stands 5'11" tall with a medium build. She has pale fair skin, blond
 
 ### The Teamster's Inheritance
 
-Knalthrinna was born into the Hafringr clan of [[place-norgaad|Norgaad]], a family of modest means whose primary wealth lay in a small string of reliable draft horses and two heavy-laden wagons. Her father, **Kruldmil Hafringr**, was a respected if unexceptional teamster whose reputation rested upon consistency and honest dealing rather than ambition. From her earliest childhood, Knalthrinna worked alongside her father, learning to gauge road conditions, manage animals, and read the subtle signs of mechanical failure before it crippled a wagon mid-journey. While her older brother pursued his father's dream of minor merchant status, Knalthrinna became obsessed with the work itself and how to do it faster.
+Knalthrinna was born into the [Hafringr clan]{.name data-type="affiliation/lineage"} of [[place-norgaad|Norgaad]], a family of modest means whose primary wealth lay in a small string of reliable draft horses and two heavy-laden wagons. Her father, **[Kruldmil Hafringr]{.name data-type="being/npc"}**, was a respected if unexceptional teamster whose reputation rested upon consistency and honest dealing rather than ambition. From her earliest childhood, Knalthrinna worked alongside her father, learning to gauge road conditions, manage animals, and read the subtle signs of mechanical failure before it crippled a wagon mid-journey. While her older brother pursued his father's dream of minor merchant status, Knalthrinna became obsessed with the work itself and how to do it faster.
 
 ### Building an Empire of Wheels
 
@@ -488,32 +488,32 @@ Vulnerability to Debt
 
 ### Patrons
 
-Merchant House Threnwick
+[Merchant House Threnwick]{.name data-type="affiliation/venture"}
 : A major trading consortium that has contracted Knalthrinna's services exclusively for three years, providing a steady foundation of income
 
-The Brewers' Collective of Norgaad
+[The Brewers' Collective of Norgaad]{.name data-type="affiliation/guild"}
 : Guild of brewing operations that rely entirely on Knalthrinna to deliver their product to distant markets; they have become her most vocal advocates
 
-Lady Margery Ashford
+Lady [Margery Ashford]{.name data-type="being/npc"}
 : A minor noble woman who has contracted Knalthrinna to manage the complex carriage of her rural estates; their relationship has grown into something approaching true friendship
 
 ### Enemies
 
-The Blackwheel Consortium
+[The Blackwheel Consortium]{.name data-type="affiliation/venture"}
 : A rival teamster operation that has begun aggressive price-cutting and sabotage to undermine Knalthrinna's contracts; open warfare between the organizations seems imminent
 
-Tobias Sallow and Associates
+[Tobias Sallow and Associates]{.name data-type="affiliation/criminal"}
 : A merchant gang that attempted to strongarm Knalthrinna into paying "protection fees"; she refused and has since blocked their access to reliable transport, creating a dangerous enmity
 
-The City Constabulary Commander Darch
+The [City Constabulary]{.name data-type="affiliation"} Commander [Darch]{.name data-type="being/npc"}
 : The official responsible for road permits and checkpoint enforcement has taken Knalthrinna's straightforward refusal to accept corruption as a personal offense; he creates official obstacles at every opportunity
 
 ### Affiliations
 
-City Teamsters' Guild
+[City Teamsters' Guild]{.name data-type="affiliation/guild"}
 : Trade organization that Knalthrinna participates in reluctantly, viewing most of its traditions as wasteful but recognizing the political value of membership
 
-The Hafringr Company
+[The Hafringr Company]{.name data-type="affiliation/venture"}
 : Her personal merchant enterprise, the organizational center of her identity and primary focus
 
 ## Plot Hooks
@@ -522,10 +522,10 @@ The Impossible Delivery
 : A mysterious patron, paying in advance with coin of unusual purity from a source Knalthrinna cannot identify, contracts her to deliver a sealed cargo to a remote location within an impossibly short time. The patron provides no information about the cargo's contents, origin, or destination beyond a general heading into dangerous, unmapped territory. The payment is enough to triple her annual income, but the conditions are bizarre enough to trigger every instinct warning of danger. Either it is an opportunity or it is a trap.
 
 The Blackwheel Rising
-: The Blackwheel Consortium, facing ruin from Knalthrinna's faster and cheaper service, makes a shocking move—they hire Tobias Sallow's merchant gang to actively sabotage her deliveries, hiring brigands to ambush her wagons and corrupt her clients through false allegations. With her reputation under systematic attack and her contracts threatened, Knalthrinna's choices are to respond with ruthless force, to trust her reputation to withstand the assault, or to seek an alliance with former rivals. Each path carries significant risk.
+: The Blackwheel Consortium, facing ruin from Knalthrinna's faster and cheaper service, makes a shocking move—they hire [Tobias Sallow]{.name data-type="being/npc"}'s merchant gang to actively sabotage her deliveries, hiring brigands to ambush her wagons and corrupt her clients through false allegations. With her reputation under systematic attack and her contracts threatened, Knalthrinna's choices are to respond with ruthless force, to trust her reputation to withstand the assault, or to seek an alliance with former rivals. Each path carries significant risk.
 
 The Lady's Secret
-: Lady Margery Ashford, her closest thing to a true friend, confides in Knalthrinna that she requires immediate, covert transport of a substantial shipment of weapons and provisions to a rebel force building an independent settlement in defiance of the King. Margery asks Knalthrinna to keep the knowledge secret and transport the materials. Accepting means betraying the Kingdom and the law; refusing means abandoning the woman who has shown her real kindness. The decision threatens to shatter Knalthrinna's carefully constructed moral framework.
+: Lady Margery Ashford, her closest thing to a true friend, confides in Knalthrinna that she requires immediate, covert transport of a substantial shipment of weapons and provisions to a rebel force building an independent settlement in defiance of the King. Margery asks Knalthrinna to keep the knowledge secret and transport the materials. Accepting means betraying the [[affiliation-kingdmnrgd|Kingdom of Norgaad]] and the law; refusing means abandoning the woman who has shown her real kindness. The decision threatens to shatter Knalthrinna's carefully constructed moral framework.
 
 The Inherited Claim
 : An elderly merchant from a distant city arrives bearing legal documents proving that Knalthrinna's distant relative—a side branch of the Hafringr line she has never heard of—left her a substantial fleet of wagons and trading rights to an entirely new region. The inheritance is real, the opportunity immense, but accepting it requires Knalthrinna to travel to this foreign city to take possession and establish operations there. It represents everything she has worked toward, yet leaving her established enterprise risks losing it to the Blackwheel Consortium or other competitors.

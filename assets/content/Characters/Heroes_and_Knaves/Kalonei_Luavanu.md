@@ -420,7 +420,7 @@ sohl:
 
 ![[klnlvn|Kalonei Luavanu]]{float=top-left}
 
-Kalonei stands 6'1" tall with a medium build. He has deep ebony skin, black hair, and dark amber eyes. His features include an angular face, a straight nose, a refined jawline, full lips, fine brows, sculpted cheeks.
+Kalonei Luavanu stands 6'1" tall with a medium build. He has deep ebony skin, black hair, and dark amber eyes. His features include an angular face, a straight nose, a refined jawline, full lips, fine brows, sculpted cheeks.
 
 # Dossier {#dossier}
 
@@ -436,7 +436,7 @@ In his early twenties he began to experiment beyond his father's ways, learning 
 
 ### The God of the Forge
 
-Like many port Kaliharans, Kalonei keeps the faith of the foreigners he grew up among. His devotion to Ústaron, the fire-god of [[affiliation-sacredforge|the Sacred Forge]] in the [[affiliation-arldnpnthn|Aureldian Pantheon]], is less a duty than a part of his work: in a well-tended kiln he sees a small, holy act of transformation, an echo of the god's own fire.
+Like many port [[lore-kaliharanclt|Kaliharan]] islanders, Kalonei keeps the faith of the foreigners he grew up among. His devotion to [[lore-ustarondty|Ústaron]], the fire-god of [[affiliation-sacredforge|The Sacred Forge]] in the [[affiliation-arldnpnthn|Aureldian Pantheon]], is less a duty than a part of his work: in a well-tended kiln he sees a small, holy act of transformation, an echo of the god's own fire.
 
 ## Psyche
 
@@ -490,33 +490,33 @@ Pride
 
 ### Patrons
 
-Master Smith Melovai
+Master Smith [Melovai]{.name data-type="being/npc"}
 : a famous Ilovanu smith whose forges burn nothing but Kalonei's charcoal, and whose public praise has sent other smiths looking for the same edge.
 
-The Wardens' Armory
-: the armory of the Wardens of the Approaches, which forges the blades and boat-fittings of the pilots and the harbor watch and buys his charcoal for the purpose, steadily if not always promptly.
+[The Wardens' Armory]{.name data-type="place/structure"}
+: the armory of [[affiliation-wardensapproaches|The Wardens of the Approaches]], which forges the blades and boat-fittings of the pilots and the harbor watch and buys his charcoal for the purpose, steadily if not always promptly.
 
-Merchant-Artificer Sornak
+Merchant-Artificer [Sornak]{.name data-type="being/npc"}
 : a dealer in fine tools and materials who holds the sole right to sell Kalonei's best charcoal in the three smaller ports.
 
 ### Enemies
 
-The Bulk Producers
+[The Bulk Producers]{.name data-type="affiliation"}
 : an association of larger charcoaling yards that sees his prices and methods as a threat. They spread rumors about his reliability and try to lure away his best buyers.
 
 The harbor factors
 : the port's smiths and the foreign hulls that load charcoal for the voyage home want ever more of it, and the factors who broker it count Kalonei's refusal to burn more as an obstruction to trade.
 
-Rival Craftsman Olunavi
+Rival Craftsman [Olunavi]{.name data-type="being/npc"}
 : a charcoaler who tried to copy Kalonei's methods and failed, and who tells the quarter that Kalonei hoards secrets, sooner than admit his own work is worse.
 
 ### Affiliations
 
 [[affiliation-kalihara|Kalihara]]
-: an islander's standing among the port Kaliharans, and the standard-bearer of quality in the Charcoalers' Guild of the port, increasingly at odds with its push to burn more and burn faster.
+: an islander's standing among the port Kaliharans, and the standard-bearer of quality in the [Charcoalers' Guild]{.name data-type="affiliation/guild"} of the port, increasingly at odds with its push to burn more and burn faster.
 
 [[affiliation-sacredforge|The Sacred Forge]]
-: a quiet member of the Order of Ústaron's Flame, the fellowship of fire-workers—smiths, brewers, potters and charcoalers—attached to the god's temple in the foreign quarter.
+: a quiet member of the [Order of Ústaron's Flame]{.name data-type="affiliation/order"}, the fellowship of fire-workers—smiths, brewers, potters and charcoalers—attached to the god's temple in the foreign quarter.
 
 ## Plot Hooks
 

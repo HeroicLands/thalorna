@@ -415,13 +415,13 @@ sohl:
 
 ![[thlmslddrknt|Thilmselda Drekanótt]]{float=top-left}
 
-Thilmselda stands 5'10" tall with a medium build. She has light weathered skin, brown hair, and green eyes. Her features include an oval face, a straight nose, a strong jawline, a firm-set mouth, thick brows, hollow cheeks.
+Thilmselda Drekanótt stands 5'10" tall with a medium build. She has light weathered skin, brown hair, and green eyes. Her features include an oval face, a straight nose, a strong jawline, a firm-set mouth, thick brows, hollow cheeks.
 
 # Dossier {#dossier}
 
-Thilmselda was born the third daughter of a minor landowner in the [[affiliation-kingdmtrgd|Kingdom of Targud]], in those borderlands where the Asguardian Pantheon's influence mingles with older, earthier traditions. Her childhood was spent largely in the kitchens of her father's modest estate, where she learned not merely to cook but to understand the chemistry of flavor, the rhythm of seasons, and the satisfaction of feeding people well. When her father died under circumstances never fully explained—some say in a dispute over land rights—her mother struggled to maintain the household, and Thilmselda, then barely twenty, was apprenticed to the kitchens of a great inn on the trade road.
+Thilmselda was born the third daughter of a minor landowner in the [[affiliation-kingdmtrgd|Kingdom of Targud]], in those borderlands where the [[affiliation-asguardian|Asguardian Pantheon]]'s influence mingles with older, earthier traditions. Her childhood was spent largely in the kitchens of her father's modest estate, where she learned not merely to cook but to understand the chemistry of flavor, the rhythm of seasons, and the satisfaction of feeding people well. When her father died under circumstances never fully explained—some say in a dispute over land rights—her mother struggled to maintain the household, and Thilmselda, then barely twenty, was apprenticed to the kitchens of a great inn on the trade road.
 
-For thirty years, she served that inn faithfully, rising from scullery to head cook, until she had saved enough coin and earned enough reputation to purchase her own establishment. The Drekanótt Inn, which bears her family name, has stood for two decades now as a place of warmth and outstanding hospitality in an often harsh world. She has weathered everything—poor harvests, bandit raids, the vagaries of trade wars—with an iron will and an unflinching commitment to maintaining the highest standards for her guests.
+For thirty years, she served that inn faithfully, rising from scullery to head cook, until she had saved enough coin and earned enough reputation to purchase her own establishment. The [Drekanótt Inn]{.name data-type="place/structure"}, which bears her family name, has stood for two decades now as a place of warmth and outstanding hospitality in an often harsh world. She has weathered everything—poor harvests, bandit raids, the vagaries of trade wars—with an iron will and an unflinching commitment to maintaining the highest standards for her guests.
 
 ## Psyche
 
@@ -471,32 +471,32 @@ Stress-Related Ailments
 
 ### Patrons
 
-Jarl Knalthann Hrandidrok
+Jarl [[being-knalthannhra|Knalthann Hrandidrok]]
 : The regional noble whose lands surround her inn depends on her for hospitality during his frequent hunting expeditions; he has granted her a charter protecting her establishment.
 
-Lin'Zuwaret elu Au'Khelathu of Targud
+[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]] of Targud
 : Several wealthy merchant families use her inn as a neutral meeting ground for negotiations; they value both her discretion and her excellent wine cellars.
 
-Braldvir Thalmumak
+[Braldvir Thalmumak]{.name data-type="being/npc"}
 : The head of the regional brewers' guild maintains a close relationship with Thilmselda, supplying her with the finest ales and meads, and relying on her recommendations to advance his reputation.
 
 ### Enemies
 
-Halgar Stonefist
+[Halgar Stonefist]{.name data-type="being/npc"}
 : A rival innkeeper who runs a disreputable establishment nearby and views Thilmselda's success as a personal affront; he spreads rumors about her business and occasionally orchestrates minor sabotage.
 
-The Crimson Road Bandits
+[The Crimson Road Bandits]{.name data-type="affiliation/criminal"}
 : A loose confederation of brigands operating in the borderlands sees her well-stocked inn as both a target and a gathering place; they have robbed her twice in past years.
 
-Lord Marvorv's Agent
+Lord [[being-marvorv|Marvorv]]'s Agent
 : A nobleman's representative who attempted to purchase her inn by any means necessary, including coercion; they harbor considerable resentment over her refusal.
 
 ### Affiliations
 
-Innkeepers' Guild of Targud
+[Innkeepers' Guild of Targud]{.name data-type="affiliation/guild"}
 : Thilmselda maintains an active, respected position within this association and serves on its council, advocating for fair trade practices and safe roads.
 
-The Brewers' Circle
+[The Brewers' Circle]{.name data-type="affiliation"}
 : She networks with master brewers and vintners across the region, helping to establish quality standards and fair pricing.
 
 ## Plot Hooks

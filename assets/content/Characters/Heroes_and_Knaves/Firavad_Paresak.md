@@ -420,21 +420,21 @@ sohl:
 
 ![[firavdprsk|Firavad Paresak]]{float=top-left}
 
-Firavad stands 5'6" tall with a medium build. He has tanned weathered skin, white hair, and dark brown eyes. His features include a diamond-shaped face, a hawkish nose, a strong jawline, full lips, dark brows, angular cheeks.
+Firavad Paresak stands 5'6" tall with a medium build. He has tanned weathered skin, white hair, and dark brown eyes. His features include a diamond-shaped face, a hawkish nose, a strong jawline, full lips, dark brows, angular cheeks.
 
 # Dossier {#dossier}
 
 **Early Life and Calling**
 
-Born beneath a thunderstorm—a sign the [[place-dunharargn|Dunhara]] elders recognized as the touch of Báhramis himself—Firavad was designated at birth as a shaman-child. His youth passed in service to the elder shamans, learning the secret languages of herbs and storms, the names of spirits older than mountains. At thirty-two summers, during a vision-trance lasting three days and nights, he received the full mantle of shamanic power, his spirit bonded forever to the tempests that sweep across the tribal lands.
+Born beneath a thunderstorm—a sign the elders of the [[place-dunharargn|Dunhara Region]] recognized as the touch of [[lore-bahramisdty|Báhramis]] himself—Firavad was designated at birth as a shaman-child. His youth passed in service to the elder shamans, learning the secret languages of herbs and storms, the names of spirits older than mountains. At thirty-two summers, during a vision-trance lasting three days and nights, he received the full mantle of shamanic power, his spirit bonded forever to the tempests that sweep across the tribal lands.
 
 **Training and Mastery**
 
-For forty years, Firavad has been the Paresak tribe's primary spiritual intermediary, conducting harvest rituals, mediating disputes through divination, and using his knowledge of herbal medicine to heal both body and soul. He trained three apprentices in the sacred arts, though only one proved worthy of the deeper mysteries—his protégé **Yuzhvad**, now forty summers old and master of the tribe's second vision-circle.
+For forty years, Firavad has been the [Paresak tribe]{.name data-type="affiliation/polity"}'s primary spiritual intermediary, conducting harvest rituals, mediating disputes through divination, and using his knowledge of herbal medicine to heal both body and soul. He trained three apprentices in the sacred arts, though only one proved worthy of the deeper mysteries—his protégé **[Yuzhvad]{.name data-type="being/npc"}**, now forty summers old and master of the tribe's second vision-circle.
 
 **Current Station**
 
-Now in his twilight years, Firavad feels the weight of his long communion with the spirit realm. His influence over the tribe has never been greater, yet his physical strength wanes with each passing season. He is primary advisor to Chieftain **Vethak Stormborn**, shaping tribal policy and settling disputes that resist ordinary judgment. Increasingly, he spends his evenings alone at the Sacred Stones, conversing with voices only he can hear.
+Now in his twilight years, Firavad feels the weight of his long communion with the spirit realm. His influence over the tribe has never been greater, yet his physical strength wanes with each passing season. He is primary advisor to Chieftain **[Vethak Stormborn]{.name data-type="being/npc"}**, shaping tribal policy and settling disputes that resist ordinary judgment. Increasingly, he spends his evenings alone at the [Sacred Stones]{.name data-type="place/site"}, conversing with voices only he can hear.
 
 ## Psyche
 
@@ -486,12 +486,12 @@ Limited Practical Skills
 Chieftain Vethak Stormborn
 : The tribe's war leader seeks Firavad's counsel on matters both spiritual and practical, often deferring major decisions until consulting with the aged shaman. Their relationship spans twenty-three winters.
 
-Kulveth the Healer's Daughter
+[Kulveth the Healer's Daughter]{.name data-type="being/npc"}
 : An herbalist who studied under Firavad and now seeks his approval for new medicinal techniques she wishes to integrate into tribal healing practices.
 
 ### Enemies
 
-Shaman Throkum of the Eastern Grounds
+Shaman [Throkum]{.name data-type="being/npc"} of the [Eastern Grounds]{.name data-type="place"}
 : A rival practitioner who questions Firavad's methods and has gathered a following among younger tribal members. Throkum practices a more aggressive, combat-focused shamanism that Firavad considers spiritually dangerous.
 
 The Silent Conspiracy
@@ -499,11 +499,11 @@ The Silent Conspiracy
 
 ### Affiliations
 
-Tribal Spiritual Council
-: Firavad is High Shaman and holds a permanent seat on the Council of Elders.
+[Tribal Spiritual Council]{.name data-type="affiliation/governmental"}
+: Firavad is High Shaman and holds a permanent seat on the [Council of Elders]{.name data-type="affiliation/governmental"}.
 
-The Order of Storm-Speakers
-: An ancient, informal order of shamans devoted to Báhramis, scattered across the northern lands. Firavad maintains correspondence with a handful of distant brothers and sisters through mystical communion.
+[The Order of Storm-Speakers]{.name data-type="affiliation/order"}
+: An ancient, informal order of shamans devoted to the [[affiliation-bahramis|Faith of Báhramis]], scattered across the northern lands. Firavad maintains correspondence with a handful of distant brothers and sisters through mystical communion.
 
 ## Plot Hooks
 
@@ -517,7 +517,7 @@ The Theft of the Spirit-Stones
 : Sacred stone tokens, each containing the bound essence of an ancestral spirit, vanish from the tribe's sacred circle during a moonless night. Firavad cannot divine their location through ordinary means, suggesting their thief possesses knowledge of anti-shamanic wards. He seeks adventurers to recover the stones before the detached spirits grow angry at their confinement. The investigation might reveal that the thief is neither enemy nor criminal, but a desperate parent attempting to recover their child's soul, which Firavad's own rituals accidentally trapped within a stone during a past ceremony gone wrong.
 
 The Prophecy of the Storm King
-: Firavad has received a vivid prophecy of a warrior destined to unite the scattered Dunhara tribes under a banner of thunder and lightning—but the prophecy is ambiguous about whether this "Storm King" will bring salvation or catastrophic war. He believes he has glimpsed fragments of the destined one, possibly among a group of traveling adventurers, and he cautiously tests them to determine their nature. The party might discover they are being manipulated by a well-meaning but flawed prophecy, one that could lead to their transformation into instruments of either terrible destiny or unprecedented peace.
+: Firavad has received a vivid prophecy of a warrior destined to unite the scattered [[lore-dunhariclt|Dunhari]] tribes under a banner of thunder and lightning—but the prophecy is ambiguous about whether this "Storm King" will bring salvation or catastrophic war. He believes he has glimpsed fragments of the destined one, possibly among a group of traveling adventurers, and he cautiously tests them to determine their nature. The party might discover they are being manipulated by a well-meaning but flawed prophecy, one that could lead to their transformation into instruments of either terrible destiny or unprecedented peace.
 
-The Haunting of Widow Shupa
+The Haunting of Widow [Shupa]{.name data-type="being/npc"}
 : A young widow comes to Firavad claiming her late husband's spirit refuses to journey to the afterlife, instead haunting their lodge and driving her toward madness with spectral touches and midnight wails. Firavad's initial attempts at a binding ritual fail mysteriously, causing him to believe the spirit may be trapped by forces stronger than shamanic will. He seeks allies brave enough to descend into the spirit realm itself—or to investigate the husband's death more thoroughly—to discover that the man was murdered under false pretenses, and his spirit's restlessness reflects his need for justice rather than a mystical entanglement.

@@ -421,7 +421,7 @@ sohl:
 
 ![[lnntshdkt|Bokhenon Hodikot]]{float=top-left}
 
-Bokhenon stands 6'3" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oblong face, a prominent nose, a pointed chin, a wide mouth, heavy brows. A distinguishing mark is a tattoo of a skill and crossbones on the chest.
+Bokhenon Hodikot stands 6'3" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oblong face, a prominent nose, a pointed chin, a wide mouth, heavy brows. A distinguishing mark is a tattoo of a skull and crossbones on the chest.
 
 # Dossier {#dossier}
 
@@ -429,11 +429,11 @@ Bokhenon stands 6'3" tall with a heavy build. He has light tanned skin, black ha
 
 ### Early Years
 
-Bokhenon was born to a merchant family in the ports of the Bizarian League, where the salt wind carried tales of distant lands and the sea held no mercy for the weak. Unlike his father, who sought profit in trade, young Bokhenon felt the call of something greater—a hunger for battle and dominion. He sought employment as a soldier-for-hire, signing on with coastal mercenary bands that preyed upon merchant vessels and rival settlements. For two decades, he climbed the ranks through cunning and brutality, becoming captain of the _Scarlet Reaver_, a ship feared across the shipping lanes. The skull and crossbones upon his chest was earned in those years, marked upon his flesh as a pirate's bond to his crew.
+Bokhenon was born to a merchant family in the ports of the [[affiliation-byzarianlg|Bizarian League]], where the salt wind carried tales of distant lands and the sea held no mercy for the weak. Unlike his father, who sought profit in trade, young Bokhenon felt the call of something greater—a hunger for battle and dominion. He sought employment as a soldier-for-hire, signing on with coastal mercenary bands that preyed upon merchant vessels and rival settlements. For two decades, he climbed the ranks through cunning and brutality, becoming captain of the _[Scarlet Reaver]{.name data-type="vehicle"}_, a ship feared across the shipping lanes. The skull and crossbones upon his chest was earned in those years, marked upon his flesh as a pirate's bond to his crew.
 
 ### The Calling
 
-Yet the sea's endless thirst for blood could never satisfy the deeper yearning in his soul. In his fortieth year, during a tempest that split the heavens and rained fire upon the waves, Bokhenon experienced a revelation. The priests of Lizelas emerged from the storm's chaos to rescue his dying crew, speaking of divine purpose and the purifying flame of the fire god's aspect. Rather than face judgment for his crimes, Bokhenon underwent a transformation, surrendering his corsair's life for the priesthood. His warlord's prowess became the Church's instrument, his command of men redirected toward religious authority rather than lawless conquest. Many questioned the sincerity of his conversion, yet none could deny the ferocity with which he now pursued the god's will.
+Yet the sea's endless thirst for blood could never satisfy the deeper yearning in his soul. In his fortieth year, during a tempest that split the heavens and rained fire upon the waves, Bokhenon experienced a revelation. The priests of the [[affiliation-lizelas|Faith of Lizelas]] emerged from the storm's chaos to rescue his dying crew, speaking of divine purpose and the purifying flame of the fire god's aspect. Rather than face judgment for his crimes, Bokhenon underwent a transformation, surrendering his corsair's life for the priesthood. His warlord's prowess became the Church's instrument, his command of men redirected toward religious authority rather than lawless conquest. Many questioned the sincerity of his conversion, yet none could deny the ferocity with which he now pursued the god's will.
 
 ### Present Standing
 
@@ -447,7 +447,7 @@ Bokhenon is a man of paradox: brutal honesty wed to calculated charm, the ferven
 
 ### Motivation
 
-Bokhenon seeks redemption through service to Lizelas, believing that only through perfect obedience and absolute commitment can he expiate the blood on his hands. He also remains convinced that strength, not gentleness, will bring true enlightenment to the masses. His authority over the military and his influence with the priesthood grow year by year, and he harbors ambitions to reshape the Bizarian League's religious and martial character according to his vision of divine order. The fire god has claimed his body; now he seeks to claim the region's soul.
+Bokhenon seeks redemption through service to Lizelas, believing that only through perfect obedience and absolute commitment can he expiate the blood on his hands. He also remains convinced that strength, not gentleness, will bring true enlightenment to the masses. His authority over the military and his influence with the priesthood grow year by year, and he harbors ambitions to reshape the Bizarian League's religious and martial character according to his vision of divine order. He believes the fire god has claimed his body; now he seeks to claim the region's soul.
 
 ### Strengths
 
@@ -487,21 +487,21 @@ Limited Creativity
 
 ### Patrons
 
-Thálassios of the Bizarian Council
+[Thálassios]{.name data-type="being/npc"} of the [Bizarian Council]{.name data-type="affiliation/governmental"}
 : A military governor who relies on Bokhenon's blessings and counsel to maintain his authority and morale among his troops.
 
-High Priestess Pazhurena Gefirikot
+High Priestess [[being-pazhurenagef|Pazhurena Gefirikot]]
 : The supreme ecclesiastical authority in the region, who has come to trust—though not entirely comfort—Bokhenon's brutal effectiveness.
 
 ### Enemies
 
-Captain Kekhasin Rekhazur
+Captain [[being-kekhasinrekh|Kekhasin Rekhazur]]
 : A rival corsair from Bokhenon's pirate days, now commanding his own fleet and seeking to end his former comrade before divine luck can claim vengeance for all Kekhasin has lost.
 
-House of Maríanos
+[House of Maríanos]{.name data-type="affiliation/lineage"}
 : An aristocratic family whose merchant fleet Bokhenon systematically destroyed during his years as the Scarlet Reaver's captain; the surviving heirs have sworn blood oaths to see him burned.
 
-The Apostate Priests of Darkness
+[The Apostate Priests of Darkness]{.name data-type="affiliation"}
 : A heretical sect believes Bokhenon's conversion was false and that he works to corrupt the church from within; they have marked him for assassination.
 
 ### Affiliations
@@ -509,10 +509,10 @@ The Apostate Priests of Darkness
 Church of Lizelas (Fire Aspect)
 : High-ranking priest and architect of military-religious cooperation
 
-Bizarian Military Council
+[Bizarian Military Council]{.name data-type="affiliation/governmental"}
 : Spiritual advisor to commanders and overseer of pre-battle rituals
 
-The Order of the Sacred Flame
+[The Order of the Sacred Flame]{.name data-type="affiliation/order"}
 : An elite cadre of warrior-monks trained in both priestly and martial disciplines under his direct mentorship
 
 ## Plot Hooks
@@ -524,10 +524,10 @@ A Crisis of Faith
 : High Priestess Pazhurena discovers evidence suggesting that Bokhenon has been conducting unauthorized dark rituals in the temple's lower chambers—communing with ancient fire spirits of malevolent aspect rather than divine flame. Whether this is truth or elaborate fabrication by enemies within the priesthood, it threatens to destroy both the church's stability and Bokhenon's hard-won redemption. The party might be tasked by competing factions to either prove his guilt or uncover the conspiracy against him, delving into the shadowed politics of ecclesiastical power.
 
 The Resurrection of the Scarlet Reaver
-: Bokhenon's old crew, scattered and aged, begins to reassemble on the docks. Led by his former first mate Gaspar—a scarred, one-eyed survivor who claims Bokhenon abandoned them all those years ago—they demand that he return to the seas and reclaim the piracy that made them rich. They hold the deed to his former ship, recently recovered from the depths, and they offer him a choice: sail with them one final time, or watch them use his secrets to burn the Bizarian League itself. The party becomes caught between honoring the transformation of a complex man and preventing catastrophe.
+: Bokhenon's old crew, scattered and aged, begins to reassemble on the docks. Led by his former first mate [Gaspar]{.name data-type="being/npc"}—a scarred, one-eyed survivor who claims Bokhenon abandoned them all those years ago—they demand that he return to the seas and reclaim the piracy that made them rich. They hold the deed to his former ship, recently recovered from the depths, and they offer him a choice: sail with them one final time, or watch them use his secrets to burn the Bizarian League itself. The party becomes caught between honoring the transformation of a complex man and preventing catastrophe.
 
 The Heretic Within
-: The Apostate Priests send an agent—a skilled assassin trained in shadow magic and priestly lore—who infiltrates the Church with the goal of killing Bokhenon during the Festival of Flames, the holiest day in the Bizarian calendar. The party may act as the priest's bodyguards, hunt the assassin before the festival arrives, or become entangled in the revelation that the heretics have sympathizers within the church hierarchy itself, forcing hard choices about justice and mercy.
+: The Apostate Priests send an agent—a skilled assassin trained in shadow magic and priestly lore—who infiltrates the Church with the goal of killing Bokhenon during the [Festival of Flames]{.name data-type="lore/gathering"}, the holiest day in the Bizarian calendar. The party may act as the priest's bodyguards, hunt the assassin before the festival arrives, or become entangled in the revelation that the heretics have sympathizers within the church hierarchy itself, forcing hard choices about justice and mercy.
 
 Legacy of the Warhammer
 : Bokhenon commissions a smith to forge him a warhammer from ore blessed by living fire spirits—a weapon that will be his final masterwork, to be passed to his chosen successor in the priesthood. The party is hired to gather the rare materials across dangerous lands: silver mined in volcanic caverns, wood from the oldest heartwood of a sacred grove, and stone taken from the core of a meteor that fell to earth. As they journey, they discover that Bokhenon's true plan may be far darker than mere legacy—perhaps a weapon intended to reshape the faith itself.

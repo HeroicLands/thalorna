@@ -415,17 +415,17 @@ sohl:
 
 ![[knlthnskrldmkh|Knilthann Skraldumak]]{float=top-left}
 
-Knilthann stands 5'10" tall with a medium build. He has light fair skin, dark blonde hair, and blue eyes. His features include a rectangular face, a prominent nose, a heavy jawline, a small mouth, and heavy brows. He has a scar on his right hand.
+Knilthann Skraldumak stands 5'10" tall with a medium build. He has light fair skin, dark blonde hair, and blue eyes. His features include a rectangular face, a prominent nose, a heavy jawline, a small mouth, and heavy brows. He has a scar on his right hand.
 
 # Dossier {#dossier}
 
 **The Wandering Years**
 
-Knilthann was born into the Skraldumak clan during an age when the old ways still held dominion over the hearts of the northern peoples. His father, a respected warrior-poet, recognized early the boy's gift for memorization and the peculiar cadence of his voice—a voice that could carry across mead-halls and mountainous valleys alike. At seven years, Knilthann was apprenticed to the Master Skald Hvarnmil Hrafnsbane, a famed storyteller whose repertoire encompassed the entire history of the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the exploits of its greatest heroes. For thirty years, he learned the words of the ancient sagas and their spirit—the pauses that make hearts quicken, the inflections that bring tears to hardened warriors' eyes, the rhythms that echo in memory long after the final verse.
+Knilthann was born into the [Skraldumak clan]{.name data-type="affiliation/lineage"} during an age when the old ways still held dominion over the hearts of the northern peoples. His father, a respected warrior-poet, recognized early the boy's gift for memorization and the peculiar cadence of his voice—a voice that could carry across mead-halls and mountainous valleys alike. At seven years, Knilthann was apprenticed to the Master Skald [Hvarnmil Hrafnsbane]{.name data-type="being/npc"}, a famed storyteller whose repertoire encompassed the entire history of the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the exploits of its greatest heroes. For thirty years, he learned the words of the ancient sagas and their spirit—the pauses that make hearts quicken, the inflections that bring tears to hardened warriors' eyes, the rhythms that echo in memory long after the final verse.
 
 **The Skald's Mastery**
 
-As a young man, Knilthann earned his scar defending the honor of the Skalds' Guild against a rival skald who sought to corrupt the ancient stories with borrowed foreign tales. That duel of hands—before the duel of voices could commence—left him marked but victorious, and his reputation thereafter was unassailable. He rose through the ranks of the Nordland Skalds' Guild with steady determination, eventually becoming the Guild's Master of Lore and keeper of the most sacred sagas. For the past twenty years, his performances have been commissioned by the greatest noble houses of Targud, his voice commanding fees that secure his comfort in the winter of his life.
+As a young man, Knilthann earned his scar defending the honor of [[affiliation-skaldscrcl|The Skalds' Circle]] against a rival skald who sought to corrupt the ancient stories with borrowed foreign tales. That duel of hands—before the duel of voices could commence—left him marked but victorious, and his reputation thereafter was unassailable. He rose through the ranks of the Nordland Skalds' Guild with steady determination, eventually becoming the Guild's Master of Lore and keeper of the most sacred sagas. For the past twenty years, his performances have been commissioned by the greatest noble houses of Targud, his voice commanding fees that secure his comfort in the winter of his life.
 
 **The Current Twilight**
 
@@ -475,25 +475,25 @@ Vulnerability to Irrelevance
 
 ### Patrons
 
-House of Bergvorn
+[House of Bergvorn]{.name data-type="affiliation/lineage"}
 : A noble family of great conservatism and wealth who commission Knilthann annually for their great winter festival, honoring the deeds of their ancestors as recounted through his voice.
 
-[[affiliation-kingdmtrgd|The King of Targud]]
+The King of the [[affiliation-kingdmtrgd|Kingdom of Targud]]
 : The kingdom's ruler has relied upon Knilthann to authenticate historical claims and validate dynastic narratives, making him an informal advisor on matters of cultural importance.
 
-Jarl Vrithorv the Unyielding
+Jarl [[being-vrithorvtheu|Vrithorv the Unyielding]]
 : A provincial ruler who views Knilthann as the keeper of his family's honor and commissions performances that serve to elevate his status among rival jarls.
 
 ### Enemies
 
-Sindri the Innovator
+[Sindri the Innovator]{.name data-type="being/npc"}
 : A young skald of real talent who has begun introducing foreign musical traditions into traditional sagas, attracting patronage from forward-looking nobles and earning Knilthann's bitter enmity.
 
-The Modern Skalds' Collective
+[The Modern Skalds' Collective]{.name data-type="affiliation"}
 : A loose association of younger performers who view traditional methods as restrictive and seek to establish alternative traditions based on individual creativity rather than historical accuracy.
 
-Kveld of the Eastern Reaches
-: A rival skald who publically challenged Knilthann's interpretations of certain sagas, claiming the elder has distorted ancient stories to suit noble patrons—a wound that has never fully healed.
+[Kveld of the Eastern Reaches]{.name data-type="being/npc"}
+: A rival skald who publicly challenged Knilthann's interpretations of certain sagas, claiming the elder has distorted ancient stories to suit noble patrons—a wound that has never fully healed.
 
 ### Affiliations
 

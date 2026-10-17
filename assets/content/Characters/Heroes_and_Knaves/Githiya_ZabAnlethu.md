@@ -432,15 +432,15 @@ sohl:
 
 ![[githiyzbnlth|Githiya Zab'Anlethu]]{float=top-left}
 
-Githiya stands 6'0" tall with a medium build. She has ebony skin, black hair, and hazel eyes. Her features include an oval face, a noble nose, a gentle jawline, and high-set brows.
+Githiya Zab'Anlethu stands 6'0" tall with a medium build. She has ebony skin, black hair, and hazel eyes. Her features include an oval face, a noble nose, a gentle jawline, and high-set brows.
 
 # Dossier {#dossier}
 
-Githiya Zab'Anlethu was born into the free classes of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], neither enslaved nor nobility, but precisely placed in that careful middle where service becomes the foundation of survival. Her mother was a cook, her father a minor functionary in the temple of Uzn'era. From childhood, Githiya showed an almost obsessive need for order, and by her late teens, she had already begun managing the household of a moderately wealthy merchant. That position lasted seventeen years until the merchant's death, when Githiya found herself without patronage and with many rivals for the next place.
+Githiya Zab'Anlethu was born into the free classes of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], neither enslaved nor nobility, but precisely placed in that careful middle where service becomes the foundation of survival. Her mother was a cook, her father a minor functionary in [[affiliation-lutuznera|Lut-Uzn'era]], the temple of Uzn'era. From childhood, Githiya showed an almost obsessive need for order, and by her late teens, she had already begun managing the household of a moderately wealthy merchant. That position lasted seventeen years until the merchant's death, when Githiya found herself without patronage and with many rivals for the next place.
 
-For the past four years, she has served in the household of Master Lenti, a wealthy intellectual and collector of antiquities. Lenti values her genius for order and the way she has transformed his somewhat chaotic holdings into a model of good management. Yet Lenti, like many employers, takes her service for granted, referring to her competence as simply "what Githiya does" rather than acknowledging it as anything out of the ordinary. She manages the physical household, deals with merchants, oversees the preparation of elaborate entertainments, and acts as Lenti's informal advisor on matters of domestic stability.
+For the past four years, she has served in the household of Master [[being-lenti|Lenti]], a wealthy intellectual and collector of antiquities. Lenti values her genius for order and the way she has transformed his somewhat chaotic holdings into a model of good management. Yet Lenti, like many employers, takes her service for granted, referring to her competence as simply "what Githiya does" rather than acknowledging it as anything out of the ordinary. She manages the physical household, deals with merchants, oversees the preparation of elaborate entertainments, and acts as Lenti's informal advisor on matters of domestic stability.
 
-Her spiritual devotion to Uzn'era, goddess of fertility and the domestic sphere, runs deep—though some might argue it borders on obsession. Githiya sees her work not as mere service but as sacred duty, maintaining the fertile, ordered space from which all civilization springs.
+Her spiritual devotion to [[lore-uzneradty|Uzn'era]], goddess of fertility and the domestic sphere, runs deep—though some might argue it borders on obsession. Githiya sees her work not as mere service but as sacred duty, maintaining the fertile, ordered space from which all civilization springs.
 
 ## Psyche
 
@@ -492,10 +492,10 @@ Vulnerability to Manipulation
 
 ### Patrons
 
-Master Lenti of Gar-Zekhemulu
+Master Lenti of [[affiliation-garzekhemulu|Gar-Zekhemulu]]
 : Her current employer, a wealthy antiquarian who, despite his obliviousness to her resentment, depends on her and would be lost without her.
 
-[[affiliation-lutuznera|The Lut-Uzn'era]]
+The [[affiliation-lutuznera|Lut-Uzn'era]]
 : Githiya performs volunteer ritual work at the main temple and is recognized there as a keeper of proper domestic observances.
 
 [[affiliation-linlmzbglzk2|Lin'Lemzabu elu Galezkara]]
@@ -506,7 +506,7 @@ Master Lenti of Gar-Zekhemulu
 Young Servant [[being-amqelitefu2|Amqelitefu]]
 : A charming but lazy kitchen worker whose sloppiness Githiya has repeatedly corrected, creating mutual contempt. Amqelitefu spreads rumors that Githiya is cruel and joyless.
 
-The Competing Steward Akhoku
+The Competing Steward [[being-akhoqu|Akhoku]]
 : Another highly competent household manager working for a rival noble family, with whom Githiya competed years ago. Akhoku beat her for a prestigious position, and Githiya has never forgotten or forgiven.
 
 Master Lenti, Her Employer

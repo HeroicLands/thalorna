@@ -423,13 +423,13 @@ sohl:
 
 ![[alyksdrymkt|Alikos Drimikot]]{float=top-left}
 
-Alikos stands 6'0" tall with a medium build. He has light weathered skin, greying brown hair, and hazel eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, an expressive mouth, and greying brows.
+Alikos Drimikot stands 6'0" tall with a medium build. He has light weathered skin, greying brown hair, and hazel eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, an expressive mouth, and greying brows.
 
 # Dossier {#dossier}
 
-Alikos was born into the timber-working tradition of the [[affiliation-byzarianlg|Bizarian League]], son of a master craftsman whose reputation was built on the quality of ships' frames and architectural beams. From age eight, Alikos worked alongside his father **Drimikot the Elder**, learning to read the grain of timber as one reads text, understanding which trees would yield which properties of wood, and mastering the traditional techniques passed through generations of his family line.
+Alikos was born into the timber-working tradition of the [[affiliation-byzarianlg|Bizarian League]], son of a master craftsman whose reputation was built on the quality of ships' frames and architectural beams. From age eight, Alikos worked alongside his father **[Drimikot the Elder]{.name data-type="being/npc"}**, learning to read the grain of timber as one reads text, understanding which trees would yield which properties of wood, and mastering the traditional techniques passed through generations of his family line.
 
-At twenty-two, he completed his formal apprenticeship and became a journeyman, traveling throughout the League to work on prestigious projects—the reinforced beams of merchant halls, the masts of noble vessels, the ornamental woodwork of temple interiors. At thirty, he established his own workshop and took the title of Master when his improvements in joinery earned recognition from the Timberwrights' Guild. For the next twenty-three years, he built a reputation as a craftsman of the first skill, his work commissioned by the most demanding clients, his designs influencing standards throughout the trade.
+At twenty-two, he completed his formal apprenticeship and became a journeyman, traveling throughout the League to work on prestigious projects—the reinforced beams of merchant halls, the masts of noble vessels, the ornamental woodwork of temple interiors. At thirty, he established his own workshop and took the title of Master when his improvements in joinery earned recognition from [The Timberwrights' Guild of the Bizarian League]{.name data-type="affiliation/guild"}. For the next twenty-three years, he built a reputation as a craftsman of the first skill, his work commissioned by the most demanding clients, his designs influencing standards throughout the trade.
 
 Now, at fifty-three, Alikos operates a successful workshop while increasingly training apprentices and consulting on major projects. Yet the passing decades have made him aware that his way of working—the traditional methods that have served him well—may not survive into the next generation. Younger timberwrights increasingly employ new techniques, newer tools, and ever faster methods that put speed before the patience of masterful craft.
 
@@ -496,18 +496,18 @@ Limited Combat Ability
 The Timberwrights' Guild
 : His guild affiliation provides him with regular commissions, referrals, and standing. However, his occasional criticism of newer techniques creates some tension with the guild's forward-looking members.
 
-The Noble House of Theodakis
+[The Noble House of Theodakis]{.name data-type="affiliation/lineage"}
 : A merchant-noble family that has commissioned Alikos for three major projects over two decades, including the beams for their primary residence. They value his reliability and quality.
 
-The Master Builders' Association
+[The Master Builders' Association]{.name data-type="affiliation"}
 : An informal group of architects and master craftspeople who value his consultation on projects requiring skill with timber, particularly those where traditional aesthetics are desired.
 
 ### Enemies
 
-The Modernist Faction
-: A loosely organized group of younger timberwrights and craftspeople who view traditional methods as wasteful and who actively undercut Alikos's commissions by offering faster, cheaper alternatives. Their leader, **Vektor the Innovator**, has directly challenged Alikos's design choices on several projects.
+[The Modernist Faction]{.name data-type="affiliation"}
+: A loosely organized group of younger timberwrights and craftspeople who view traditional methods as wasteful and who actively undercut Alikos's commissions by offering faster, cheaper alternatives. Their leader, **[Vektor the Innovator]{.name data-type="being/npc"}**, has directly challenged Alikos's design choices on several projects.
 
-His Own Son, Charzilikon Drimikot
+His Own Son, [[being-tcharzilikon|Charzilikon Drimikot]]
 : Once apprenticed to Alikos, Charzilikon rejected his father's teachings and became a champion of faster, newer techniques. The two have been estranged for fifteen years, a source of deep private pain for Alikos. Charzilikon's success with the new methods feels like a personal repudiation of everything Alikos values.
 
 ### Affiliations
@@ -515,7 +515,7 @@ His Own Son, Charzilikon Drimikot
 The Timberwrights' Guild of the Bizarian League
 : A formal organization maintaining standards for timber-working and managing guild commissions. Alikos holds status as a Master, the highest rank.
 
-The Master Craftspeople's Association
+[The Master Craftspeople's Association]{.name data-type="affiliation"}
 : An informal group meeting quarterly to share techniques and discuss the future of craft trades in the League.
 
 ## Plot Hooks
@@ -524,7 +524,7 @@ The Ancient Wood
 : A mysterious merchant brings a single log of timber of extraordinary beauty and unknown origin to Alikos, requesting consultation on its properties and potential uses. The wood appears impossibly old, yet shows no signs of rot; its grain patterns seem to shift in different light; and it carries a faint aroma Alikos cannot identify. Investigation into the wood's origin leads him into contact with ancient traditions and forces that suggest timber-working may be far more significant than he ever imagined.
 
 The Apprentice's Secret
-: A talented young apprentice, **Elara**, seeks training under Alikos specifically, impressing him with a real understanding of traditional methods. However, Alikos gradually discovers that Elara has a hidden purpose—she has been sent by the Modernist Faction to sabotage his reputation by learning his techniques and then publicly demonstrating that newer tools and methods can replicate his results in a fraction of the time. Alikos can expose her, keep her as an apprentice and hope to turn her, or allow her deception to continue while using the situation to his advantage.
+: A talented young apprentice, **[Elara]{.name data-type="being/npc"}**, seeks training under Alikos specifically, impressing him with a real understanding of traditional methods. However, Alikos gradually discovers that Elara has a hidden purpose—she has been sent by the Modernist Faction to sabotage his reputation by learning his techniques and then publicly demonstrating that newer tools and methods can replicate his results in a fraction of the time. Alikos can expose her, keep her as an apprentice and hope to turn her, or allow her deception to continue while using the situation to his advantage.
 
 The Impossible Commission
 : A wealthy noble approaches Alikos with a commission unlike any he has encountered: construct a building frame that can be rapidly assembled and disassembled for multiple relocations, matching the aesthetics and durability of a permanent structure. The design challenges everything he believes about timber-working—speed and portability contradicting his philosophy of permanent craftsmanship. Yet the commission would be his largest payday, potentially securing his workshop's future and proving to younger craftspeople that traditional methods can answer present needs.

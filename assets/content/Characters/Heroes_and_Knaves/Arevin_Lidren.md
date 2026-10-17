@@ -420,7 +420,7 @@ sohl:
 
 ![[arevynlydr|Árevin Lidren]]{float=top-left}
 
-Árevin stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and grey eyes. His features include a broad face, a button nose, a narrow chin, light brows, rosy cheeks.
+Árevin Lidren stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and grey eyes. His features include a broad face, a button nose, a narrow chin, light brows, rosy cheeks.
 
 # Dossier {#dossier}
 
@@ -428,7 +428,7 @@ sohl:
 
 ### Early Years in Stone
 
-Árevin was born the third son of a mining family whose lineage stretched back generations into the deep shafts beneath the Kingdom of [[affiliation-kngdmlvndr|Élavendre]]. From childhood, he descended into darkness where his father and uncles worked, learning the songs of stone and the subtle signatures that betrayed precious metals and gems. By fifteen, he had mapped more ore veins than many experienced miners ever would, his Mineralogy surpassing even his father's considerable expertise.
+Árevin was born the third son of a mining family whose lineage stretched back generations into the deep shafts beneath the [[affiliation-kngdmlvndr|Kingdom of Élavendre]]. From childhood, he descended into darkness where his father and uncles worked, learning the songs of stone and the subtle signatures that betrayed precious metals and gems. By fifteen, he had mapped more ore veins than many experienced miners ever would, his Mineralogy surpassing even his father's considerable expertise.
 
 ### Mastery and Mentorship
 
@@ -488,32 +488,32 @@ Stubborn Pride
 
 ### Patrons
 
-Merchant House Kallinthiros
+[Merchant House Kallinthiros]{.name data-type="affiliation/lineage"}
 : The wealthy gem-trading family relies on Árevin for prospecting expeditions and authentication services. They pay handsomely for his continued consultation.
 
-Master Jeweler Selyndor the Exquisite
+Master Jeweler [Selyndor the Exquisite]{.name data-type="being/npc"}
 : A master craftsperson who learned her trade partly under Árevin's instruction. She remains his most loyal patron and friend.
 
-The Royal Engineering Corps of Élavendre
+[The Royal Engineering Corps of Élavendre]{.name data-type="affiliation"}
 : The Kingdom occasionally contracts Árevin for important mining projects and tunnel assessments for works of state.
 
 ### Enemies
 
-Foreman Sálvurne of the Deepmine Consortium
+Foreman [[being-salvurneauli|Sálvurne Áulirnde]] of the [Deepmine Consortium]{.name data-type="affiliation/venture"}
 : A ruthless operative who views Árevin's safety rules as expensive obstacles to profit. They have clashed repeatedly over his warnings about unstable shafts.
 
-The Industrialists' Council
+[The Industrialists' Council]{.name data-type="affiliation"}
 : A growing faction of younger mine owners who see Árevin's traditionalism as a threat to their plans to dig faster and expand.
 
 ### Affiliations
 
-Miners' Union of Élavendre
-: Árevin holds the rank of Senior Advisor and chairs the Safety Committee.
+[Miners' Union of Élavendre]{.name data-type="affiliation"}
+: Árevin holds the rank of Senior Advisor and chairs the [Safety Committee]{.name data-type="affiliation"}.
 
-Craftspeople's Guild
+[Craftspeople's Guild]{.name data-type="affiliation/guild"}
 : Membership in multiple specialized circles including Jewelcrafters and Metallurgists.
 
-The Order of Árdavon (Order Aspect)
+The [[affiliation-ardavon|Faith of Árdavon]] (Order Aspect)
 : A devout follower who attends ceremonies regularly, finding spiritual meaning in the order inherent in mineral formations.
 
 ## Plot Hooks
@@ -531,4 +531,4 @@ The Forbidden Depths
 : Árevin discovers references in old mining records to a chamber deep beneath the known mines—a place deliberately sealed off and forgotten by his predecessors. The cryptic warnings suggest catastrophe if the seals were ever breached. When strange geological disturbances suggest the seals may be failing, Árevin faces a terrible choice: risk descending to inspect the seals, or remain silent and hope the danger passes.
 
 The Apprentice's Betrayal
-: Árevin's most gifted apprentice, **Kenrel Elarven**, begins secretly selling Árevin's prospecting charts to the Bizarian League, seeking personal wealth and advancement. When Árevin discovers the betrayal, he must decide between crushing an ambitious young man or understanding the desperation that drives him—a choice that forces him to confront how his own inflexibility may have pushed a promising student toward corruption.
+: Árevin's most gifted apprentice, **[Kenrel Elarven]{.name data-type="being/npc"}**, begins secretly selling Árevin's prospecting charts to the Bizarian League, seeking personal wealth and advancement. When Árevin discovers the betrayal, he must decide between crushing an ambitious young man or understanding the desperation that drives him—a choice that forces him to confront how his own inflexibility may have pushed a promising student toward corruption.

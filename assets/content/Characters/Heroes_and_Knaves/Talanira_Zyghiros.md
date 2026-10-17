@@ -411,13 +411,13 @@ sohl:
 
 ![[tlnrzyghrs|Tálanira Zighiros]]{float=top-left}
 
-Tálanira stands 5'6" tall with a light build. She has light golden skin, dark brown hair, and brown eyes. Her features include a narrow face, a noble nose, a narrow chin, well-shaped lips, thin brows.
+Tálanira Zighiros stands 5'6" tall with a light build. She has light golden skin, dark brown hair, and brown eyes. Her features include a narrow face, a noble nose, a narrow chin, well-shaped lips, thin brows.
 
 # Dossier {#dossier}
 
-Tálanira Zighiros is the eldest daughter—and heir-presumptive—of **House Zighiros**, a prosperous Lesser House of the [[affiliation-bthntrdhss|Bethuan Trade-Houses]], whose trade reaches from the orchard-ports of the [[affiliation-mtrrchybth|Bethuan]] coast across the [[place-vylarianse|Vylarian Sea]] to the [[affiliation-empireakhlth|Empire of Au'Khelathu]] and the wider Northern Fertile Region. As is the Bethuan way, the House is led by its matriarch—Tálanira's mother—and it is Tálanira, the eldest daughter, who is meant one day to take the bench and the seal. She was trained from childhood in the arts of negotiation, trade, reckoning, and diplomacy, and she is strong at all of them; her sharp mind and quicker tongue have already won the House deals and clients beyond its station. But the prospect of a life spent on the matriarch's bench, marrying for advantage and counting another generation's coin, stifles her. She wants the world, not the ledger.
+Tálanira Zighiros is the eldest daughter—and heir-presumptive—of **[House Zighiros]{.name data-type="affiliation/lineage"}**, a prosperous Lesser House of [[affiliation-bthntrdhss|The Bethuan Trade-Houses]], whose trade reaches from the orchard-ports along the coast of the [[place-bethuargn|Bethua Region]] across the [[place-vylarianse|Vylarian Sea]] to the [[affiliation-empireakhlth|Empire of Au'Khelathu]] and the wider [[place-nrthrnfrtlrgn|Northern Fertile Region]]. As is the [[lore-bethuanclt|Bethuan]] way, the House is led by its matriarch—Tálanira's mother—and it is Tálanira, the eldest daughter, who is meant one day to take the bench and the seal. She was trained from childhood in the arts of negotiation, trade, reckoning, and diplomacy, and she is strong at all of them; her sharp mind and quicker tongue have already won the House deals and clients beyond its station. But the prospect of a life spent on the matriarch's bench, marrying for advantage and counting another generation's coin, stifles her. She wants the world, not the ledger.
 
-Tálanira and [[being-lmbhrpdhnn|Lámbira]] met when House Zighiros hired the bounty hunter to run down a thief who had robbed one of the family's caravans. Taken with Lámbira's nerve and skill, Tálanira talked her mother into letting her ride along "to learn the trade-roads first-hand"—and never quite came back to the counting-house. She brings to Lámbira's hunts a web of mercantile contacts, an intimate grasp of the trade-routes and the credit that moves along them, and a reading of people and politics as sharp as any blade in the company.
+Tálanira and [[being-lmbhrpdhnn|Lámbira Pédhinion]] met when House Zighiros hired the bounty hunter to run down a thief who had robbed one of the family's caravans. Taken with Lámbira's nerve and skill, Tálanira talked her mother into letting her ride along "to learn the trade-roads first-hand"—and never quite came back to the counting-house. She brings to Lámbira's hunts a web of mercantile contacts, an intimate grasp of the trade-routes and the credit that moves along them, and a reading of people and politics as sharp as any blade in the company.
 
 ## Background
 
@@ -454,7 +454,7 @@ Creativity
 : Tálanira is imaginative and resourceful, often coming up with creative solutions to complex problems.
 
 Empathy
-: Though she can be calculating, Tálanira has a understanding of the emotions and motives of others, which helps her in negotiations.
+: Though she can be calculating, Tálanira has an understanding of the emotions and motives of others, which helps her in negotiations.
 
 Eloquence
 : Tálanira’s way with words is one of her greatest assets, allowing her to persuade, charm, and outmaneuver opponents in any social or business setting.
@@ -494,13 +494,13 @@ Tálanira is driven by a desire for freedom and adventure. She views her allianc
 ## Plot Hooks
 
 The Rival House
-: House Zighiros falls into a bitter commercial war with **House Hannares**, a larger and better-connected rival clan that means to choke Zighiros out of a lucrative coastal route. When the feud turns ugly and Tálanira's younger sister **Sufira** is seized as leverage, Tálanira must handle the treacherous politics of the [[affiliation-bthntrdhss|Council of Matriarchs]] and balance her wanderer's freedom against her duty to her House—all while uncovering how far Hannares has bought influence among the federation's matriarchs.
+: House Zighiros falls into a bitter commercial war with **[House Hannares]{.name data-type="affiliation/lineage"}**, a larger and better-connected rival clan that means to choke Zighiros out of a lucrative coastal route. When the feud turns ugly and Tálanira's younger sister **[Sufira]{.name data-type="being/npc"}** is seized as leverage, Tálanira must handle the treacherous politics of the [Council of Matriarchs]{.name data-type="affiliation"} and balance her wanderer's freedom against her duty to her House—all while uncovering how far Hannares has bought influence among the federation's matriarchs.
 
 The Correspondent's Price
-: A chance opens for House Zighiros to take its first **[[affiliation-garhalzi|Gar-Hálzi]] correspondent account** at Galezkara—the credit relationship that could begin the House's climb toward Great House standing. But the account comes through a Khelathi temple-factor who wants more than fees in return, and a Great House that does not wish to see Zighiros rise is quietly working to spoil the deal. Tálanira must decide how much of herself, and of her House's independence, the dream is worth.
+: A chance opens for House Zighiros to take its first **[[affiliation-garhalzi|Gar-Hálzi]] correspondent account** at [[place-galezkara|Galezkara]]—the credit relationship that could begin the House's climb toward Great House standing. But the account comes through a [[lore-khelathiclt|Khelathi]] temple-factor who wants more than fees in return, and a Great House that does not wish to see Zighiros rise is quietly working to spoil the deal. Tálanira must decide how much of herself, and of her House's independence, the dream is worth.
 
 The Silent Caravan
 : One of House Zighiros's inland caravans vanishes in the dry country toward the southern marches, along with a shipment of premium goods. When a single surviving drover staggers back with a story that does not hold together, Tálanira follows the trail into the borderlands—where the signs point to either a rival House's dirty work or the southern raiders who answer to no Dómissa. She must decide whether to confront the threat head-on or unravel it through her network before it bleeds the House dry.
 
 The Foreign Suitor
-: A wealthy _ethlen_ (Gilded) noble of [[affiliation-vylarinmpr|Vylaria]]—**Ethlen Tavius**—makes discreet overtures, through intermediaries, for Tálanira's hand. Bethuan matriarchal custom does not permit a foreign husband to alter a House's inheritance, so the proposal is less a marriage than a gambit: an alliance and an opening into Vylarian markets, dangled before an ambitious Lesser House. Tálanira's mother is tempted; the [[affiliation-mtrrchybth|Council of Priestesses]] is uneasy at any Vylarian entanglement while the privateer war smolders; and Tálanira—who was not consulted—must decide whether to be a pawn, a player, or gone.
+: A wealthy _ethlen_ (Gilded) noble of the [[affiliation-vylarinmpr|Vylarian Empire]]—**Ethlen [Tavius]{.name data-type="being/npc"}**—makes discreet overtures, through intermediaries, for Tálanira's hand. Bethuan matriarchal custom does not permit a foreign husband to alter a House's inheritance, so the proposal is less a marriage than a gambit: an alliance and an opening into Vylarian markets, dangled before an ambitious Lesser House. Tálanira's mother is tempted; the [Council of Priestesses]{.name data-type="affiliation/governmental"} of the [[affiliation-mtrrchybth|Matriarchy of Bethua]] is uneasy at any Vylarian entanglement while the privateer war smolders; and Tálanira—who was not consulted—must decide whether to be a pawn, a player, or gone.

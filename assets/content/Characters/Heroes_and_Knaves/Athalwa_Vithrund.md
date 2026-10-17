@@ -417,7 +417,7 @@ sohl:
 
 ![[athlwvthrnd|Athalwa yra Vithrúnd wur Eichengrund]]{float=top-left}
 
-Athalwa stands 5'10" tall with a medium build. She has pale fair skin, blonde hair, and blue eyes. Her features include an oval face, a long nose, a strong jawline, a slightly downturned mouth, straight brows, high cheeks. A distinguishing mark is a tattoo of an eagle on the back.
+Athalwa yra Vithrúnd wur Eichengrund stands 5'10" tall with a medium build. She has pale fair skin, blonde hair, and blue eyes. Her features include an oval face, a long nose, a strong jawline, a slightly downturned mouth, straight brows, high cheeks. A distinguishing mark is a tattoo of an eagle on the back.
 
 # Dossier {#dossier}
 
@@ -425,19 +425,19 @@ Athalwa stands 5'10" tall with a medium build. She has pale fair skin, blonde ha
 
 ### Born to Unorthodoxy
 
-Athalwa was the second child of **Vorthgar yra Vithrúnd**, War Chief of Eichengrund, born during an unusual winter when the omens were considered ambiguous at best. Unlike her older brother Domrik, who showed early aptitude for a War Chief's role—leading hunts, training for the warband's acclaim—Athalwa demonstrated an unusual combination of mystical sensitivity and tactical brilliance. As a child, she experienced visions of battles not yet fought and landscapes beyond the [[affiliation-vrystwldtrbs|Vristwald]] borders. The elders debated whether she was blessed or cursed.
+Athalwa was the second child of **[Vorthgar yra Vithrúnd]{.name data-type="being/npc"}**, War Chief of [[place-eichengrnd|Eichengrund]], born during an unusual winter when the omens were considered ambiguous at best. Unlike her older brother [[being-domricyravit|Domrik yra Vithrúnd wur Eichengrund]], who showed early aptitude for a War Chief's role—leading hunts, training for the warband's acclaim—Athalwa demonstrated an unusual combination of mystical sensitivity and tactical brilliance. As a child, she experienced visions of battles not yet fought and landscapes beyond the [[place-vrystwald|Vristwald]] borders. The elders debated whether she was blessed or cursed.
 
 ### The Warrior's Calling
 
-Rather than surrender to the role of priestess-advisor that the conservative elders pushed upon her, Athalwa demanded to be trained as a warrior. Her father, recognizing potential that went beyond tradition, allowed it. She trained with the best hunters and raiders of Eichengrund, surpassing most of them by her early twenties. Her tactical visions, once considered mystical quirks, proved to be accurate predictions of enemy movements and environmental dangers. She led three successful raids against the Tzar Kingdom's southern outposts and returned with no losses to her war band—an unprecedented achievement.
+Rather than surrender to the role of priestess-advisor that the conservative elders pushed upon her, Athalwa demanded to be trained as a warrior. Her father, recognizing potential that went beyond tradition, allowed it. She trained with the best hunters and raiders of Eichengrund, surpassing most of them by her early twenties. Her tactical visions, once considered mystical quirks, proved to be accurate predictions of enemy movements and environmental dangers. She led three successful raids against the [Tzar Kingdom]{.name data-type="affiliation/polity"}'s southern outposts and returned with no losses to her war band—an unprecedented achievement.
 
 ### The Unexpected Succession
 
-When her brother Domrik died mysteriously while hunting at age thirty-eight, the path to leadership became complicated. The elder council, bound by tradition to prefer a male leader, suggested her cousin Harthak should take the War Chief's seat. Athalwa challenged this decision not through overt rebellion but through demonstrated merit. When raiders from the Shadowpine Clan threatened the borders, Athalwa organized a devastating counteroffensive that repelled the invasion and secured Eichengrund’s woodland approaches. The warriors who fought alongside her demanded she be acclaimed War Chief. After months of negotiation and ritual, the elders relented, creating unprecedented conditions: Athalwa could lead, but only under enhanced scrutiny and with certain traditional privileges revoked.
+When her brother Domrik died mysteriously while hunting at age thirty-eight, the path to leadership became complicated. The elder council, bound by tradition to prefer a male leader, suggested her cousin [Harthak Orossun]{.name data-type="being/npc"} should take the War Chief's seat. Athalwa challenged this decision not through overt rebellion but through demonstrated merit. When raiders from the [Shadowpine Clan]{.name data-type="affiliation/lineage"} threatened the borders, Athalwa organized a devastating counteroffensive that repelled the invasion and secured Eichengrund’s woodland approaches. The warriors who fought alongside her demanded she be acclaimed War Chief. After months of negotiation and ritual, the elders relented, creating unprecedented conditions: Athalwa could lead, but only under enhanced scrutiny and with certain traditional privileges revoked.
 
 ### Present Challenges
 
-Athalwa directs Eichengrund’s war-band as one of its three coequal elders. She favors aggressive defense and closer ties with neighboring villages, and has cultivated contacts with Bizarian merchants and eastern envoys. Trade agreements belong to the village’s Other Chief, and those contacts give her no authority over another village. Her hope of drawing neighboring clans into lasting allegiance is her own political project. Only imminent danger permits their elders to acclaim a common War Chief, whose wider command ends with the response. Many Eichengrund households welcome her victories and contacts. But the conservative elders grow increasingly restless, and whispers suggest that some among the clan believe her visions are demonic rather than divine, that she leads them away from ancient truths toward ruin.
+Athalwa directs Eichengrund’s war-band as one of its three coequal elders. She favors aggressive defense and closer ties with neighboring villages, and has cultivated contacts with [[lore-byzarianclt|Bizarian]] merchants and eastern envoys. Trade agreements belong to the village’s Other Chief, and those contacts give her no authority over another village. Her hope of drawing neighboring clans into lasting allegiance is her own political project. Only imminent danger permits their elders to acclaim a common War Chief, whose wider command ends with the response. Many Eichengrund households welcome her victories and contacts. But the conservative elders grow increasingly restless, and whispers suggest that some among the clan believe her visions are demonic rather than divine, that she leads them away from ancient truths toward ruin.
 
 ## Psyche
 
@@ -449,7 +449,7 @@ Despite her power and status, Athalwa remains somewhat isolated. Her visions and
 
 ### Motivation
 
-Athalwa's primary motivation is the survival and flourishing of the Vristwald Tribes in a changing world. She perceives that the old ways, while honorable and containing wisdom, are insufficient for the challenges ahead. She sees the Bizarian League expanding, the southern kingdoms consolidating power, the world becoming more connected and complex. Her visions show her paths where the Vristwald remain independent and strong, but only if they adapt. She drives forward not from personal ambition but from a conviction born in visions: her people will either evolve under guided leadership, or be swept away by forces they do not understand. Everything she does, however controversial, aims toward this singular goal. Her conviction that the villages need continuing guided leadership challenges their custom; her visions confer no common office or right to govern them.
+Athalwa's primary motivation is the survival and flourishing of the [[affiliation-vrystwldtrbs|Vristwald Tribes]] in a changing world. She perceives that the old ways, while honorable and containing wisdom, are insufficient for the challenges ahead. She sees the [[affiliation-byzarianlg|Bizarian League]] expanding, the southern kingdoms consolidating power, the world becoming more connected and complex. Her visions show her paths where the Vristwald remain independent and strong, but only if they adapt. She drives forward not from personal ambition but from a conviction born in visions: her people will either evolve under guided leadership, or be swept away by forces they do not understand. Everything she does, however controversial, aims toward this singular goal. Her conviction that the villages need continuing guided leadership challenges their custom; her visions confer no common office or right to govern them.
 
 ### Strengths
 
@@ -489,10 +489,10 @@ Dependence on Visions
 
 ### Patrons
 
-The War Band of Eichengrund
+[The War Band of Eichengrund]{.name data-type="affiliation"}
 : Young warriors and ambitious raiders who benefit from Athalwa's expansionist policies and see in her a leader who can elevate them to power within the broader world.
 
-Merchant Prince Druzes of the Bizarian League
+Merchant Prince [[being-druzesxylaki|Druzes Zilakit]] of the Bizarian League
 : A canny trader who has secured access to Eichengrund’s furs and amber through village trade agreements and his relationship with Athalwa. They maintain a respectful commercial and diplomatic relationship.
 
 ### Enemies
@@ -500,18 +500,18 @@ Merchant Prince Druzes of the Bizarian League
 Harthak Orossun (Cousin and Rival Claimant)
 : Athalwa's cousin was denied the War Chief's seat she claimed. He maintains a competing claim and leads a faction of conservative warriors who would gladly see her deposed.
 
-Elder Council Speaker Vorthrim
+Elder Council Speaker [Vorthrim]{.name data-type="being/npc"}
 : The most influential of the conservative elders, **Vorthrim** views Athalwa's innovations as a betrayal of ancient tradition. He orchestrates political challenges to her authority.
 
-Shadow Throne Empire
+[Shadow Throne Empire]{.name data-type="affiliation/polity"}
 : A distant but expanding southern empire that views the Vristwald Tribes as an obstacle to continental domination. They have begun secretly funding Athalwa's internal enemies.
 
 ### Affiliations
 
-Eichengrund’s Three Elders
+[Eichengrund’s Three Elders]{.name data-type="affiliation/governmental"}
 : Athalwa is the village’s War Chief alongside its Weskár and Other Chief, with one vote among the three. Her seat remains contested within Eichengrund. A council of several villages can give her wider command only for an agreed response to imminent danger; it disperses and that command ends with the response.
 
-The Eastern Trade Consortium
+[The Eastern Trade Consortium]{.name data-type="affiliation/venture"}
 : Athalwa has recently been instrumental in establishing formal trading relationships with merchants from eastern kingdoms, creating new economic dependencies and opportunities.
 
 ## Plot Hooks

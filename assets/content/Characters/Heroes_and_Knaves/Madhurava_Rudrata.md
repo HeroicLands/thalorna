@@ -419,7 +419,7 @@ sohl:
 
 ![[madhurvrdr|Madurava Sutrapala]]{float=top-left}
 
-Madurava stands 5'10" tall with a medium build. He has medium brown skin, greying dark brown hair, and honey brown eyes. His features include a diamond-shaped face, a narrow nose, a narrow chin, a wide mouth, medium brows, and soft cheeks. He has a scar on his left foot.
+Madurava Sutrapala stands 5'10" tall with a medium build. He has medium brown skin, greying dark brown hair, and honey brown eyes. His features include a diamond-shaped face, a narrow nose, a narrow chin, a wide mouth, medium brows, and soft cheeks. He has a scar on his left foot.
 
 # Dossier {#dossier}
 
@@ -427,15 +427,15 @@ Madurava stands 5'10" tall with a medium build. He has medium brown skin, greyin
 
 ### The Scholar's Calling
 
-Madurava was born into **House Sutrapala**, a minor but respected family in the City-States of Vedyara known for their mastery of written records and genealogical study. His father, a scribe of some renown, taught young Madurava the sacred discipline of heraldry—as the art of rendering arms and blazonry, and as a language of political authority, ancestral legitimacy, and divine right. Where other youths his age pursued martial glory or mercantile wealth, Madurava devoted himself to the study of lineages, precedences, and the elaborate ceremonial forms that governed the complex relationships between the city's competing factions of the great houses. By his twentieth year, he had begun to establish himself as an authority on matters of succession and genealogical claim.
+Madurava was born into **[House Sutrapala]{.name data-type="affiliation/lineage"}**, a minor but respected family in the city-states of the [[place-vedyarargn|Vedyara Region]] known for their mastery of written records and genealogical study. His father, a scribe of some renown, taught young Madurava the sacred discipline of heraldry—as the art of rendering arms and blazonry, and as a language of political authority, ancestral legitimacy, and divine right. Where other youths his age pursued martial glory or mercantile wealth, Madurava devoted himself to the study of lineages, precedences, and the elaborate ceremonial forms that governed the complex relationships between the city's competing factions of the great houses. By his twentieth year, he had begun to establish himself as an authority on matters of succession and genealogical claim.
 
 ### The Rise to Authority
 
-His true ascension came at age twenty-two, when he successfully arbitrated a succession dispute that threatened to tear apart the northern districts of the city. Through painstaking genealogical research and masterful interpretation of obscure heraldic precedent, Madurava determined the legitimate heir to a disputed Shroshtin title. The case established his reputation as both scholar and diplomat, and the City Heralds' Shrena recognized his genius by offering him full membership—an extraordinary honor rarely extended to one so young. Over the ensuing decades, his counsel was sought by increasingly powerful Kulinas, his interpretations of ceremony became authority, and his voice shaped the very structure of succession and legitimacy within the city-states.
+His true ascension came at age twenty-two, when he successfully arbitrated a succession dispute that threatened to tear apart the northern districts of the city. Through painstaking genealogical research and masterful interpretation of obscure heraldic precedent, Madurava determined the legitimate heir to a disputed Shroshtin title. The case established his reputation as both scholar and diplomat, and [The City Heralds' Shrena]{.name data-type="affiliation/guild"} recognized his genius by offering him full membership—an extraordinary honor rarely extended to one so young. Over the ensuing decades, his counsel was sought by increasingly powerful Kulinas, his interpretations of ceremony became authority, and his voice shaped the very structure of succession and legitimacy within the city-states.
 
 ### The Keeper of Tradition
 
-Now, at fifty, Madurava has become something of a living institution. He has served under four different Samantas, advised the appointments of countless heirs of the great houses, and witnessed the rise and fall of three major houses through carefully documented genealogical records. His chambers in the Herald's Archive contain records dating back two centuries, all carefully maintained and cross-referenced by his own hand. Younger heralds regard him with a mixture of reverence and resentment—he is the keeper of the old ways, the guardian of tradition against the modernizing impulses that increasingly threaten to undermine the formal structures of governance by the great houses. He has trained fewer than a dozen successors in his long service, preferring to maintain absolute control over the most sensitive genealogical records and precedential interpretations.
+Now, at fifty, Madurava has become something of a living institution. He has served under four different Samantas, advised the appointments of countless heirs of the great houses, and witnessed the rise and fall of three major houses through carefully documented genealogical records. His chambers in the [Herald's Archive]{.name data-type="place/structure"} contain records dating back two centuries, all carefully maintained and cross-referenced by his own hand. Younger heralds regard him with a mixture of reverence and resentment—he is the keeper of the old ways, the guardian of tradition against the modernizing impulses that increasingly threaten to undermine the formal structures of governance by the great houses. He has trained fewer than a dozen successors in his long service, preferring to maintain absolute control over the most sensitive genealogical records and precedential interpretations.
 
 ## Psyche
 
@@ -485,18 +485,18 @@ Physical Vulnerability
 
 ### Patrons
 
-Maharani Savia of the Central House
+Maharani [Savia]{.name data-type="being/npc"} of the [Central House]{.name data-type="affiliation/lineage"}
 : The most powerful figure of the great houses in the city-states, who has relied on Madurava's counsel for thirty years to maintain her family's dominance and resolve succession questions in her favor.
 
-The Council of Samantas
+[The Council of Samantas]{.name data-type="affiliation/governmental"}
 : The executive body of the city collectively seeks his counsel on matters affecting the governance and legitimacy of their collective rule.
 
 ### Enemies
 
-Herald Kalyanika the Modernizer
+Herald [[being-kalyanikakal|Kalyanika Kalira]] the Modernizer
 : A younger herald of considerable talent who advocates for streamlined heraldic processes and argues that many of Madurava's "sacred traditions" are merely outdated bureaucratic theater, directly challenging his authority.
 
-House Vakhara
+[House Vakhara]{.name data-type="affiliation/lineage"}
 : An ambitious merchant family whose genealogical claims Madurava has repeatedly denied in favor of more established houses; they are rumored to be sponsoring forged genealogical documents to discredit him.
 
 ### Affiliations
@@ -504,7 +504,7 @@ House Vakhara
 The City Heralds' Shrena
 : Senior member and de facto keeper of the archive; wields enormous influence over the shrena's direction and standards.
 
-The Council of Historical Scholars
+[The Council of Historical Scholars]{.name data-type="affiliation"}
 : Founding member of an elite academic circle devoted to the preservation and study of the city-states' historical records.
 
 House Sutrapala
@@ -516,7 +516,7 @@ The Forged Heir
 : A scandal erupts when evidence appears suggesting that a document in Madurava's own archive—one establishing the legitimacy of the current Samonta's line—is a forgery dating back forty years. The discovery threatens one political figure and, beyond him, the stability of the entire city governance structure. Madurava becomes both investigator and defendant as competing factions use the scandal to advance their positions. The party might be hired to discover who forged the document, when, and to what purpose—or to help Madurava manage the political aftermath while preserving what remains of the legal order he has maintained.
 
 The Herald's Succession
-: Madurava finally selects an heir: a brilliant but headstrong younger herald named Sarita who possesses the knowledge but lacks the reverence for tradition that Madurava considers essential. When Sarita begins immediately implementing reforms and reinterpreting precedents, Madurava finds himself facing opposition from his own chosen successor. The party becomes caught between the old herald's attempt to reassert authority and the new generation's desire to reshape the office for a changing age. The resolution will determine whether heraldic tradition survives in recognizable form.
+: Madurava finally selects an heir: a brilliant but headstrong younger herald named [Sarita]{.name data-type="being/npc"} who possesses the knowledge but lacks the reverence for tradition that Madurava considers essential. When Sarita begins immediately implementing reforms and reinterpreting precedents, Madurava finds himself facing opposition from his own chosen successor. The party becomes caught between the old herald's attempt to reassert authority and the new generation's desire to reshape the office for a changing age. The resolution will determine whether heraldic tradition survives in recognizable form.
 
 The Secret Archives
 : Madurava discovers that his predecessor maintained a hidden archive—records of genealogical secrets, illegitimate children, falsified claims, and scandals deliberately omitted from the official record. The knowledge contained within could dismantle half the great houses currently in power. He can preserve secrecy and tradition, or expose truths that demand justice. The party may become his agents in either covering up the scandal or carefully releasing information to destabilize the corrupt power structures the false records have protected.

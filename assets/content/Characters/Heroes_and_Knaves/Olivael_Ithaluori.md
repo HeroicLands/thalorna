@@ -424,7 +424,7 @@ sohl:
 
 ![[olvlthlr|Olivael Ithaluori]]{float=top-left}
 
-Olivael stands 5'4" tall with a medium build. She has rich brown skin, white hair, and dark brown eyes. Her features include a high-cheekboned face, an aquiline nose, a tapered chin, generous lips, and rich brows.
+Olivael Ithaluori stands 5'4" tall with a medium build. She has rich brown skin, white hair, and dark brown eyes. Her features include a high-cheekboned face, an aquiline nose, a tapered chin, generous lips, and rich brows.
 
 # Dossier {#dossier}
 
@@ -436,9 +436,9 @@ Olivael was born in [[place-ilovanu|Ilovanu]], the principal port of [[affiliati
 
 ### The Pilots' Observatory
 
-At fifteen she ran away to [[place-telvari|Telvari]], the pilots' islet off the eastern approaches, where the pilots keep an observatory to reckon tides, currents and the stars they steer by. Its keeper was an old scholar the port called **Olitelinei**, the star-reckoner, who had come out from the west half a lifetime before and never gone home. He took her in, and for twelve years she lived on the islet, learning the practical astronomy of navigation and timekeeping by day and, by night, the art he valued more: astrology, the conviction that the heavens move the affairs of people as surely as the moon moves the tide.
+At fifteen she ran away to [[place-telvari|Telvari]], the pilots' islet off the eastern approaches, where the pilots keep an observatory to reckon tides, currents and the stars they steer by. Its keeper was an old scholar the port called **[Olitelinei]{.name data-type="being/npc"}**, the star-reckoner, who had come out from the west half a lifetime before and never gone home. He took her in, and for twelve years she lived on the islet, learning the practical astronomy of navigation and timekeeping by day and, by night, the art he valued more: astrology, the conviction that the heavens move the affairs of people as surely as the moon moves the tide.
 
-Where other astrologers memorized the traditional correspondences, Olivael understood the mechanics of the heavens by instinct and reasoned from them to their meanings. When Olitelinei died she was twenty-seven, and her name had already crossed the water. Foreign factors had their voyages charted by her, merchant houses timed their contracts by her, and the [[affiliation-panepistmm|Epistémion]], the scholarly federation of western Ankaris, offered her membership by letter.
+Where other astrologers memorized the traditional correspondences, Olivael understood the mechanics of the heavens by instinct and reasoned from them to their meanings. When Olitelinei died she was twenty-seven, and her name had already crossed the water. Foreign factors had their voyages charted by her, merchant houses timed their contracts by her, and the [[affiliation-panepistmm|Epistémion]], the scholarly federation of the western part of the [[place-ankrscntnnt|Ankaris Continent]], offered her membership by letter.
 
 ### Present Circumstances
 
@@ -500,10 +500,10 @@ Paralysis
 
 ### Patrons
 
-The Kubasari
-: the eldest of the three merchant families of the [[affiliation-housefactors|House of Factors]], which has consulted Olivael before every great venture for thirty years and paid her well. Its present head, whom the port calls **Lord Mahitua**, presides at the House as Eldest Factor and counts her essential to his plans, and she thinks most of his plans foolish.
+The [Kubasari]{.name data-type="affiliation/lineage"}
+: the eldest of the three merchant families of [[affiliation-housefactors|The House of Factors]], which has consulted Olivael before every great venture for thirty years and paid her well. Its present head, whom the port calls **Lord [[being-mahituatheil|Mahitua Theiluori]]**, presides at the House as Eldest Factor and counts her essential to his plans, and she thinks most of his plans foolish.
 
-The Council of the Epistémion
+[The Council of the Epistémion]{.name data-type="affiliation"}
 : Olivael's relations with the federation's leadership are uneasy, but several senior scholars are devoted to her work and send her money, rare texts and instruments across the water.
 
 The Telvari observatory
@@ -514,11 +514,11 @@ The Telvari observatory
 
 ### Enemies
 
-Yalonei
+[Yalonei]{.name data-type="being/npc"}
 : a rival astrologer of the foreign quarter, whom the port calls the gainsayer, who has spent twenty years trying to prove her predictions are luck, coincidence and careful vagueness. He has discredited a few of her failed predictions and is working to have her expelled from the Epistémion (the Academy of Knowledge).
 
 The Ozeli of the quarter
-: priests of [[affiliation-zunelas|Zunelas]] in the foreign quarter's Aureldian temple, who hold that what is to come is shown only in the goddess's dreams, so that reading it in the stars is impiety, and who campaign to have her work suppressed.
+: priests of the [[affiliation-zunelas|Faith of Zunelas]] in the foreign quarter's Aureldian temple, who hold that what is to come is shown only in the goddess's dreams, so that reading it in the stars is impiety, and who campaign to have her work suppressed.
 
 The ruined merchant
 : a foreign merchant whom she warned against a venture thirty years ago. He went ahead and lost everything exactly as she foretold, and he has concluded that she caused the loss by sorcery. He is obsessed with having her brought before the harbor-wardens as a witch.
@@ -526,7 +526,7 @@ The ruined merchant
 ### Affiliations
 
 [[affiliation-kalihara|Kalihara]]
-: she holds an islander's standing among the port Kaliharans, as a master of the reckoning the pilots depend on.
+: she holds an islander's standing among the port [[lore-kaliharanclt|Kaliharan]] islanders, as a master of the reckoning the pilots depend on.
 
 [[affiliation-brazemas|Faith of Brazemas]]
 : not ordained, she serves the storm god's priests as an advisor on the heavens, and keeps the faith herself.

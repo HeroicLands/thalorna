@@ -417,7 +417,7 @@ sohl:
 
 ![[arshzrktkls|Árshazur Gavios]]{float=top-left}
 
-Árshazur stands 6'0" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a sharp jawline, an expressive mouth, and strong brows. He has a tattoo of a rose vine on his leg.
+Árshazur Gavios stands 6'0" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a sharp jawline, an expressive mouth, and strong brows. He has a tattoo of a rose vine on his leg.
 
 # Dossier {#dossier}
 
@@ -425,7 +425,7 @@ sohl:
 
 ### The Farmer's Son Drafted
 
-Árshazur was born in a rural agricultural district of the Bizarian League, third son of a moderately successful farmer. His childhood held the ordinary rhythms of rural life—planting seasons, harvest, seasonal festivals, and local religious observances dedicated to Lizelas. This peaceful existence ended abruptly at eighteen when the levy officers came to his village seeking healthy young men for the League's expanding military campaigns. Unlike his two older brothers, who managed to negotiate exemptions through various means, Árshazur found himself conscripted without alternative.
+Árshazur was born in a rural agricultural district of the [[affiliation-byzarianlg|Bizarian League]], third son of a moderately successful farmer. His childhood held the ordinary rhythms of rural life—planting seasons, harvest, seasonal festivals, and local religious observances dedicated to the [[affiliation-lizelas|Faith of Lizelas]]. This peaceful existence ended abruptly at eighteen when the levy officers came to his village seeking healthy young men for the League's expanding military campaigns. Unlike his two older brothers, who managed to negotiate exemptions through various means, Árshazur found himself conscripted without alternative.
 
 ### The Long War
 
@@ -433,7 +433,7 @@ What was meant to be two years of service became a life. Árshazur discovered th
 
 ### Present Circumstances
 
-Now a veteran soldier with a decade remaining until he can expect retirement, Árshazur maintains his position with exemplary discipline and bearing. He serves under **Lord Commander Mazitos of the [[place-eastrnmrch|Eastern March]]**, whom he respects greatly. He trains younger soldiers, many of whom remind him uncomfortably of his younger self. He participates in the endless cycle of training exercises, garrison duty, and occasional military campaigns. His service is respected but his personal life has become compressed into the margins—brief romantic encounters, strained relationships with his family who view military service as abandonment, friendships limited to other soldiers who understand the weight he carries.
+Now a veteran soldier with a decade remaining until he can expect retirement, Árshazur maintains his position with exemplary discipline and bearing. He serves under **Lord Commander [[being-mazitosrekha|Mazitos Rekhazur]] of the [[place-eastrnmrch|Eastern March]]**, whom he respects greatly. He trains younger soldiers, many of whom remind him uncomfortably of his younger self. He participates in the endless cycle of training exercises, garrison duty, and occasional military campaigns. His service is respected but his personal life has become compressed into the margins—brief romantic encounters, strained relationships with his family who view military service as abandonment, friendships limited to other soldiers who understand the weight he carries.
 
 ## Psyche
 
@@ -490,29 +490,29 @@ Declining Physical Peak
 Lord Commander Mazitos of the Eastern March
 : The military commander who has overseen Árshazur's service for the past decade. Mazitos respects Árshazur's judgment and frequently seeks his counsel on tactical matters.
 
-Lady Merchant Mazhrelena Olkadakit
+Lady Merchant [[being-mazhrelenaol|Mazhrelena Olkadakit]]
 : A wealthy merchant widow who provides supplies to the garrison and has developed a private relationship with Árshazur. She offers both material support and emotional companionship.
 
-The Monastery of Saint Florantine
+[The Monastery of Saint Florantine]{.name data-type="affiliation"}
 : A religious order that provides counsel and spiritual support to soldiers scarred by war. Árshazur attends irregularly but finds their refusal to judge helpful.
 
 ### Enemies
 
-Captain Zhambelikos Kitvarzát of the Rival Legion
+Captain [[being-zhambelikosk|Zhambelikos Kitvarzát]] of the Rival Legion
 : A competitor from a neighboring military unit whose unit was chosen for a prestigious campaign over Árshazur's. Zhambelikos harbors deep resentment and seeks opportunities to undermine Árshazur's reputation.
 
-The Bandit Lord Thessarios
+The Bandit Lord [Thessarios]{.name data-type="being/npc"}
 : A criminal leader whose network Árshazur's unit destroyed several years ago. Thessarios survived and harbors lethal grudges against Árshazur personally.
 
 ### Affiliations
 
-The Bizarian League Military
+[The Bizarian League Military]{.name data-type="affiliation"}
 : Serving as a commissioned captain in the League's Eastern March garrison.
 
 The Order of Lizelas (Fertility Aspect)
 : A nominal adherent who maintains the faith of his childhood, though his military service has complicated his relationship with the goddess of growth and creation.
 
-The Veterans' Society
+[The Veterans' Society]{.name data-type="affiliation"}
 : An informal association of long-service soldiers who support each other through the transitions away from active military life.
 
 ## Plot Hooks
@@ -521,13 +521,13 @@ The Impossible Order
 : Árshazur receives orders from a superior officer to carry out an action that he recognizes as dishonorable—attacking a civilian settlement to secure the border, or executing prisoners under the guise of military necessity. Refusing would end his service; compliance would shatter something fundamental in his character. He must make this impossible choice while determining whether the order is legitimate or originates from someone with darker motives.
 
 The Recruit with a Secret
-: A promising young recruit in Árshazur's unit proves to be **Polykarin**, the illegitimate son of an enemy general from a previous conflict. When Árshazur discovers the connection, he can report Polykarin and potentially destroy a promising soldier's prospects, or protect him while risking the garrison's safety and his own authority if discovered.
+: A promising young recruit in Árshazur's unit proves to be **[Polykarin]{.name data-type="being/npc"}**, the illegitimate son of an enemy general from a previous conflict. When Árshazur discovers the connection, he can report Polykarin and potentially destroy a promising soldier's prospects, or protect him while risking the garrison's safety and his own authority if discovered.
 
 The Monastery's Message
 : Clergy from the Monastery of Saint Florantine approach Árshazur with evidence that a significant portion of the military leadership is being covertly influenced or manipulated by hidden powers with interests contrary to the League's declared aims. They ask him to investigate and expose the conspiracy, which would require him to betray his own commanders.
 
 The Retired Warrior's Appeal
-: An aging veteran named **Valen**, who trained Árshazur twenty years ago, appears with a request: help him investigate and execute vengeance against officers who, decades past, sacrificed an entire unit unnecessarily. Árshazur recognizes the truth in Valen's accusations, but agreeing to help would constitute rebellion against military authority.
+: An aging veteran named **[Valen]{.name data-type="being/npc"}**, who trained Árshazur twenty years ago, appears with a request: help him investigate and execute vengeance against officers who, decades past, sacrificed an entire unit unnecessarily. Árshazur recognizes the truth in Valen's accusations, but agreeing to help would constitute rebellion against military authority.
 
 The War That Never Ends
 : Árshazur discovers that his own retirement, long anticipated as the conclusion of his military obligation, has been quietly canceled by a clerk's hand. The army, recognizing his value, has marked him for service without end. Trapped in an order that no longer permits exit, Árshazur can attempt escape, accept permanent captivity to the army, or find a way to force it to honor its original commitments.

@@ -414,7 +414,7 @@ sohl:
 
 ![[tvlgthnblthl|Tvalgthann Bletholl]]{float=top-left}
 
-Tvalgthann stands 5'7" tall with a light build. He has light fair skin, red hair, and blue eyes. His features include an oblong face, an aquiline nose, a square jawline, a small mouth, heavy brows.
+Tvalgthann Bletholl stands 5'7" tall with a light build. He has light fair skin, red hair, and blue eyes. His features include an oblong face, an aquiline nose, a square jawline, a small mouth, heavy brows.
 
 # Dossier {#dossier}
 
@@ -422,7 +422,7 @@ Tvalgthann stands 5'7" tall with a light build. He has light fair skin, red hair
 
 ### Early Life and the Jester's Gift
 
-Tvalgthann was born during the tempestuous month of spring winds in a riverside town of [[place-vithgard|Vithgard]]'s eastern provinces. His mother, **Skraldthira the Brewmaster**, kept an inn where merchants and wanderers gathered; his father, a traveling performer himself, remained only long enough to pass on his gift for performance before departing for other horizons. From his earliest years, Tvalgthann learned to read faces as others read scrolls—understanding the hidden griefs, the secret joys, the careful calculations behind every expression. He apprenticed under **Master Skruldvir**, a jester whose wit was said to have averted wars through sheer cleverness, learning that the craft of laughter is perhaps the most dangerous art of all.
+Tvalgthann was born during the tempestuous month of spring winds in a riverside town of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]'s eastern provinces. His mother, **[Skraldthira Bletholl]{.name data-type="being/npc"}, the Brewmaster**, kept an inn where merchants and wanderers gathered; his father, a traveling performer himself, remained only long enough to pass on his gift for performance before departing for other horizons. From his earliest years, Tvalgthann learned to read faces as others read scrolls—understanding the hidden griefs, the secret joys, the careful calculations behind every expression. He apprenticed under **Master [Skruldvir]{.name data-type="being/npc"}**, a jester whose wit was said to have averted wars through sheer cleverness, learning that the craft of laughter is perhaps the most dangerous art of all.
 
 ### The Court Years
 
@@ -466,7 +466,7 @@ Tvalgthann seeks to discover whether his talents for performance and persuasion 
 
 ### Patrons
 
-Duke Thruldmil of Vithgard
+Duke [[being-thruldmyl|Thruldmil]] of [[place-vithgard|Vithgard]]
 : The primary patron who employs Tvalgthann's talents for court entertainment and subtle political messaging; their relationship is cordial but transactional
 
 Skraldthira Bletholl
@@ -477,18 +477,18 @@ Master Skruldvir
 
 ### Enemies
 
-Jorvald the Red
+[Jorvald the Red]{.name data-type="being/npc"}
 : A rival jester whose cruder humor once dominated the Vithgard court; he schemes constantly to discredit Tvalgthann's wit and expose his methods
 
-The Whispered Syndicate
+[The Whispered Syndicate]{.name data-type="affiliation"}
 : A network of information brokers who view Tvalgthann's access to noble secrets as either an asset to control or a threat to eliminate
 
-Alderman Hvirnorv of the Guildhall
+Alderman [[being-hvirnorv|Hvirnorv]] of the [Guildhall]{.name data-type="affiliation"}
 : A strict moralist who views jesters as dangerous corruptors of virtue and has publicly questioned the Duke's patronage of Tvalgthann
 
 ### Affiliations
 
-The Wandering Minstrels' Collective
+[The Wandering Minstrels' Collective]{.name data-type="affiliation"}
 : - An informal network of traveling performers who share stories, techniques, and intelligence gathered from their various courts and commissions
 
 ## Plot Hooks

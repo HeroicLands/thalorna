@@ -425,7 +425,7 @@ sohl:
 
 ![[flrnthyrstnblt|Flarnthira Steinblet]]{float=top-left}
 
-Flarnthira stands 5'11" tall with a medium build. She has light fair skin, dark brown hair, and hazel eyes. Her features include an oblong face, a slightly upturned nose, a strong jawline, a firm-set mouth, dark brows, angular cheeks.
+Flarnthira Steinblet stands 5'11" tall with a medium build. She has light fair skin, dark brown hair, and hazel eyes. Her features include an oblong face, a slightly upturned nose, a strong jawline, a firm-set mouth, dark brows, angular cheeks.
 
 # Dossier {#dossier}
 
@@ -433,7 +433,7 @@ Flarnthira stands 5'11" tall with a medium build. She has light fair skin, dark 
 
 ### Early Life
 
-Born to the Steinblet clan, stonemasons in the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], Flarnthira was expected to follow her family into monumental masonry. Instead, at age fourteen, she became fascinated with her grandmother's pottery wheel and the ancient techniques of glaze-making. Her father's disapproval was thunderous, but her mother's quiet support gave her courage to pursue the clay arts. She apprenticed with Master Jorun Graywick, a potter whose workshop overlooked the River Vith, and spent ten years learning not merely the mechanics of her craft, but its philosophy.
+Born to the [Steinblet clan]{.name data-type="affiliation/lineage"}, stonemasons in the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], Flarnthira was expected to follow her family into monumental masonry. Instead, at age fourteen, she became fascinated with her grandmother's pottery wheel and the ancient techniques of glaze-making. Her father's disapproval was thunderous, but her mother's quiet support gave her courage to pursue the clay arts. She apprenticed with Master [Jorun Graywick]{.name data-type="being/npc"}, a potter whose workshop overlooked the [River Vith]{.name data-type="place/feature"}, and spent ten years learning not merely the mechanics of her craft, but its philosophy.
 
 ### Training and Craft
 
@@ -441,7 +441,7 @@ Now in her prime at thirty-two, Flarnthira has established herself as one of the
 
 ### Current Circumstances
 
-Flarnthira maintains a modest pottery studio in the artisan quarter of Vithgard's capital, powered by the steady force of her creativity and an equally steady obsession with perfection. She lives above her workshop with her apprentice and an ornery cat named Styrrir. Recently, she has begun experimenting with relief work and narrative scenes inspired by the sagas, leading her toward a new artistic direction that has captured the attention of wealthy patrons and jealous rivals alike.
+Flarnthira maintains a modest pottery studio in the artisan quarter of Vithgard's capital, powered by the steady force of her creativity and an equally steady obsession with perfection. She lives above her workshop with her apprentice and an ornery cat named [Styrrir]{.name data-type="being/creature"}. Recently, she has begun experimenting with relief work and narrative scenes inspired by the sagas, leading her toward a new artistic direction that has captured the attention of wealthy patrons and jealous rivals alike.
 
 ## Psyche
 
@@ -499,10 +499,10 @@ Slow to Trust
 
 ### Patrons
 
-Merchant-Lord Thilmorv the Elder
+Merchant-Lord [[being-thilmorvthee|Thilmorv the Elder]]
 : A wealthy trader who has commissioned five major pieces and pays handsomely for work that takes her fancy. He seeks her favor for political reasons as much as aesthetic ones.
 
-Lady Skilfrinna Anthidrok
+Lady [[being-skilfrinnaan|Skilfrinna Anthidrok]]
 : A minor noblewoman of impeccable taste who has become Flarnthira's closest thing to a confidante, regularly commissioning decorative ware and providing commissions to others based on her recommendation.
 
 Master Jorun Graywick (Former Master)
@@ -510,21 +510,21 @@ Master Jorun Graywick (Former Master)
 
 ### Enemies
 
-Kalf Stonebrow
+[Kalf Stonebrow]{.name data-type="being/npc"}
 : A rival potter of lesser skill who has begun spreading rumors that Flarnthira's success derives from her family name rather than talent. His jealousy has led him to undercut her prices and poach apprentices.
 
-Her Father, Vikingr Steinblet
+Her Father, [Vikingr Steinblet]{.name data-type="being/npc"}
 : Though he lives in distant lands, the memory of his disapproval and the knowledge that she has succeeded despite his wishes creates an ongoing internal conflict; she occasionally hears rumors of his grudging pride.
 
-The Graystone Collective
+[The Graystone Collective]{.name data-type="affiliation/guild"}
 : A guild of conservative craftspeople who view her innovative techniques and artistic pretensions as threats to traditional stoneworking values and have attempted to restrict her access to certain materials.
 
 ### Affiliations
 
-The Artisans' Guild of Vithgard
-: A prestigious organization where she serves on the Council of Masters, though her uncompromising nature has made her unpopular with some members.
+[The Artisans' Guild of Vithgard]{.name data-type="affiliation/guild"}
+: A prestigious organization where she serves on the [Council of Masters]{.name data-type="affiliation"}, though her uncompromising nature has made her unpopular with some members.
 
-The River Market Cooperative
+[The River Market Cooperative]{.name data-type="affiliation"}
 : An informal association of independent craftspeople and merchants who support one another's work and share resources.
 
 ## Plot Hooks
@@ -532,14 +532,14 @@ The River Market Cooperative
 The Shattered Masterpiece
 : Flarnthira has received an anonymous commission for a ceremonial urn said to contain the ashes of a long-dead king—work that could secure her legacy. However, the specifications are impossible: the piece must be both structurally perfect and fragile enough to shatter ceremonially at a specific moment. When the patron is revealed to be a conspiracy of nobles planning to use the urn's destruction as a signal for a coup, Flarnthira must decide whether to complete the work that will define her career or refuse and face the consequences of defying nobility.
 
-The Lost Glaze of Ástvaldur
+The Lost Glaze of [Ástvaldur the Wise]{.name data-type="being/npc"}
 : An elderly merchant brings Flarnthira a single fragment of pottery bearing a glaze of impossible beauty—ash-blue threaded with gold that seems to contain starlight. The merchant claims it comes from the potter **Ástvaldur the Wise**, said to have disappeared centuries ago. Flarnthira becomes obsessed with recreating the formula, but her investigations lead her into dangerous territory: the glaze may have been created using ingredients now forbidden by the Church, or worse, techniques involving arts that lie beyond the mortal realm.
 
 The Apprentice's Secret
-: Flarnthira's promising young apprentice, **Tvalginda**, confesses that she has been secretly creating copies of Flarnthira's designs and selling them at lower prices to supplement her meager wages. Rather than dismiss her, Flarnthira recognizes herself in the girl's hunger to improve her station. She must balance two aims: mentoring Tvalginda toward skill while teaching her that true artistry cannot be rushed or compromised, all while the girl's impudent actions threaten both their reputations.
+: Flarnthira's promising young apprentice, **[Tvalginda]{.name data-type="being/npc"}**, confesses that she has been secretly creating copies of Flarnthira's designs and selling them at lower prices to supplement her meager wages. Rather than dismiss her, Flarnthira recognizes herself in the girl's hunger to improve her station. She must balance two aims: mentoring Tvalginda toward skill while teaching her that true artistry cannot be rushed or compromised, all while the girl's impudent actions threaten both their reputations.
 
 The Kiln That Burns Wrong
-: One morning, Flarnthira's grand kiln—built stone by stone by her own hands—ceases to function properly. Fires that once reached perfect temperature now burn too hot or not hot enough, and pieces emerge warped or ruined. A visiting scholar suggests the kiln may have been subtly sabotaged by someone using methods both physical and magical. As Flarnthira investigates, she uncovers that **Kalf Stonebrow** has been employing a hedge-witch named **Brynhildra Braldaruk** to curse his competitor's tools. Flarnthira must decide whether to seek revenge, pursue justice, or find a way to transform curse into creation.
+: One morning, Flarnthira's grand kiln—built stone by stone by her own hands—ceases to function properly. Fires that once reached perfect temperature now burn too hot or not hot enough, and pieces emerge warped or ruined. A visiting scholar suggests the kiln may have been subtly sabotaged by someone using methods both physical and magical. As Flarnthira investigates, she uncovers that **Kalf Stonebrow** has been employing a hedge-witch named **[Brynhildra Braldaruk]{.name data-type="being/npc"}** to curse his competitor's tools. Flarnthira must decide whether to seek revenge, pursue justice, or find a way to transform curse into creation.
 
 The Royal Commission Nobody Wants
 : The King himself summons Flarnthira to craft commemorative vessels for an unpopular diplomatic marriage. The honor is immense, but the match is politically toxic—rumors suggest the bride was chosen through coercion, and her family is known for violence. Completing the work will elevate Flarnthira's status to national prominence but may entangle her in court intrigues that threaten not just her career but her life. Meanwhile, a clandestine group of nobles opposed to the marriage approaches her with an offer: create a flaw in the pieces that will humiliate the bride and sabotage the union.

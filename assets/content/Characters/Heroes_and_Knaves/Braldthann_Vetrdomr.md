@@ -418,7 +418,7 @@ sohl:
 
 ![[brldthnvtrdmr|Braldthann Vetrdómr]]{float=top-left}
 
-Braldthann stands 6'0" tall with a medium build. He has light ruddy skin, grey hair, and grey eyes. His features include a long face, a straight nose, a square jawline, narrow lips, heavy brows, hollow cheeks. A distinguishing mark is a tattoo of a falcon on the right arm.
+Braldthann Vetrdómr stands 6'0" tall with a medium build. He has light ruddy skin, grey hair, and grey eyes. His features include a long face, a straight nose, a square jawline, narrow lips, heavy brows, hollow cheeks. A distinguishing mark is a tattoo of a falcon on the right arm.
 
 # Dossier {#dossier}
 
@@ -426,11 +426,11 @@ Braldthann stands 6'0" tall with a medium build. He has light ruddy skin, grey h
 
 ### Early Years and Training
 
-Braldthann was born into craft and hardship, the third son of a widowed tentmaker in the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]. His father, Vetrarr, had learned the trade in the service of the old jarl's warband, and passed the knowledge to his children with the same rigor as a drill sergeant teaches battle formations. Where others saw mere fabric and stitching, Braldthann learned to see the shelter that stands between a warrior and death in the mountain passes. His apprenticeship was merciless—his hands scarred and callused long before his sixteenth year, his eyes trained to spot the tiniest flaw that might admit wind or water.
+Braldthann was born into craft and hardship, the third son of a widowed tentmaker in the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]. His father, [Vetrarr]{.name data-type="being/npc"}, had learned the trade in the service of the old jarl's warband, and passed the knowledge to his children with the same rigor as a drill sergeant teaches battle formations. Where others saw mere fabric and stitching, Braldthann learned to see the shelter that stands between a warrior and death in the mountain passes. His apprenticeship was merciless—his hands scarred and callused long before his sixteenth year, his eyes trained to spot the tiniest flaw that might admit wind or water.
 
 ### The Craftsman's Rise
 
-At the age of twenty-five, Braldthann earned his falcon tattoo and full membership in the Tentmakers' Guild. For the next twenty-eight years, he has been the Guild's most reliable master, known throughout the realm for tents that endure storms that would tear lesser work to shreds. He perfected the art of the double-weave, a technique that locks water on the outside while sealing heat within—a method passed down through his family, jealously guarded from rivals. His workshop in the market square of Nordheim's capital became the place where military quartermaster-generals placed orders, where merchants seeking supplies for trading expeditions knew to pay a premium for quality.
+At the age of twenty-five, Braldthann earned his falcon tattoo and full membership in the [Tentmakers' Guild of Nordheim]{.name data-type="affiliation/guild"}. For the next twenty-eight years, he has been the Guild's most reliable master, known throughout the realm for tents that endure storms that would tear lesser work to shreds. He perfected the art of the double-weave, a technique that locks water on the outside while sealing heat within—a method passed down through his family, jealously guarded from rivals. His workshop in the market square of Nordheim's capital became the place where military quartermaster-generals placed orders, where merchants seeking supplies for trading expeditions knew to pay a premium for quality.
 
 ### Present Circumstances
 
@@ -442,7 +442,7 @@ Now, as the fifth decade of his life nears its close, Braldthann faces a changin
 
 Braldthann is a man of few words and deep convictions. He speaks with the authority of someone who has proven himself through decades of uncompromising labor. There is no bombast in him, no need for flattery or recognition—his tents speak louder than any boast. He views the younger generation with a mixture of paternalism and disdain, believing that shortcuts and expediency have no place in honest work. Yet beneath his gruff exterior lies a steadfast loyalty to those he considers worthy; customers who return year after year find him capable of surprising generosity, and he has been known to repair defective work at no charge if the fault was his own.
 
-He is deeply religious, invoking **Svartbrandr** before major projects, believing the fire-god guides his hands through the hottest work—the application of fireproofing compounds and the sealing of seams. His workshop always contains an altar of stones, and he makes offerings whenever a commission is completed successfully.
+He is deeply religious, invoking **[[lore-svartbrandrdty|Svartbrandr]]** before major projects, believing the fire-god guides his hands through the hottest work—the application of fireproofing compounds and the sealing of seams. His workshop always contains an altar of stones, and he makes offerings whenever a commission is completed successfully.
 
 ### Motivation
 
@@ -457,7 +457,7 @@ Uncompromising Standards
 : Every piece that leaves his workshop meets exacting specifications. His reputation for reliability is absolute—military officers and merchants place standing orders with complete confidence.
 
 Fire Ritualist
-: His knowledge of fireproofing techniques and flame-resistant compounds is deep, and he combines practical chemistry with spiritual practice dedicated to Svartbrandr.
+: His knowledge of fireproofing techniques and flame-resistant compounds is deep, and he combines practical chemistry with spiritual practice dedicated to the [[affiliation-svartbrandr|Faith of Svartbrandr]].
 
 Leadership and Authority
 : Though he commands respect more through competence than charisma, those in the craft world recognize his authority. Younger makers, despite their dismissal of his methods, often secretly consult his work.
@@ -480,18 +480,18 @@ Emotional Isolation
 
 ### Patrons
 
-Magistrate-Commander Svulthann Knarvendik
+Magistrate-Commander [[being-svulthannkna|Svulthann Knarvendik]]
 : The military quartermaster of the Nordheim garrison places annual orders for campaign tents. He values Braldthann's work so highly that he has never sought alternatives, though Svulthann privately worries about the aging craftsman's future reliability.
 
-Merchant-Prince Flarnthann Braldaruk
-: A wealthy trading expedition leader who has used Braldthann's tents for three decades. Flarnthann credits the craftsman's work with saving his life during a catastrophic storm in the Northern Peaks.
+Merchant-Prince [[being-flarnthannbr|Flarnthann Braldaruk]]
+: A wealthy trading expedition leader who has used Braldthann's tents for three decades. Flarnthann credits the craftsman's work with saving his life during a catastrophic storm in the [Northern Peaks]{.name data-type="place/feature"}.
 
 ### Enemies
 
-Snurvmil Fastworker
+[Snurvmil Fastworker]{.name data-type="being/npc"}
 : A talented younger tentmaker who undercuts Braldthann's prices by thirty percent while maintaining adequate quality. To Braldthann, Snurvmil represents everything wrong with the new generation. The tension between them has created a rivalry in the Guild.
 
-The Young Apprentices' Coalition
+[The Young Apprentices' Coalition]{.name data-type="affiliation"}
 : A group of journeymen seeking to reform the Tentmakers' Guild's rigid apprenticeship system. They view Braldthann as an obstacle to progress and modernization.
 
 ### Affiliations
@@ -505,13 +505,13 @@ The Commission of Legend
 : A powerful jarl's daughter commissions a tent unlike anything ever requested—a portable temple to Svartbrandr that must incorporate ritual spaces, special colorings, and materials from across the known world. The commission is enormous and prestigious, but requires Braldthann to innovate beyond his comfort and work with materials he has never handled. Will he rise to the challenge, or refuse and watch the contract go to Snurvmil? Either choice could reshape his legacy.
 
 The Apprentice's Return
-: Years ago, Braldthann turned away a gifted but headstrong apprentice, **Knarvselda Ringbinder**, claiming she lacked discipline. Now she returns as a master craftsperson trained abroad, having developed revolutionary techniques that combine Braldthann's family methods with foreign innovation. She offers to collaborate with him, but her success stings his pride. Can two stubborn masters find common ground, or will ego destroy a partnership that could save the old traditions?
+: Years ago, Braldthann turned away a gifted but headstrong apprentice, **[Knarvselda Ringbinder]{.name data-type="being/npc"}**, claiming she lacked discipline. Now she returns as a master craftsperson trained abroad, having developed revolutionary techniques that combine Braldthann's family methods with foreign innovation. She offers to collaborate with him, but her success stings his pride. Can two stubborn masters find common ground, or will ego destroy a partnership that could save the old traditions?
 
 The Conspiracy of Quality
 : Military investigators approach Braldthann with evidence that someone has been deliberately sabotaging his tents—introducing flaws that barely manifest until soldiers are in the field. Someone wants to damage his reputation and open market share. Braldthann must investigate whether the culprit is **Snurvmil Fastworker**, a jealous rival, or someone else entirely—perhaps even a competitor being hired by foreign powers to weaken Nordheim's military supply.
 
 The Master's Illness
-: Braldthann's arthritic hands worsen dramatically. His physician, **Healer Knarvrinna Bondswoman**, warns that within a year he may lose the dexterity that defines his art. Desperate, Braldthann seeks a solution—perhaps a pilgrimage to a shrine of Svartbrandr rumored to grant miraculous healing, or a dangerous ritual that might preserve his abilities at great cost. His journey becomes a race against time and infirmity.
+: Braldthann's arthritic hands worsen dramatically. His physician, **Healer [Knarvrinna Bondswoman]{.name data-type="being/npc"}**, warns that within a year he may lose the dexterity that defines his art. Desperate, Braldthann seeks a solution—perhaps a pilgrimage to a shrine of Svartbrandr rumored to grant miraculous healing, or a dangerous ritual that might preserve his abilities at great cost. His journey becomes a race against time and infirmity.
 
 Preserving the Legacy
 : With no worthy heir to his methods, Braldthann faces a mortality crisis. A noble patron offers to fund a comprehensive record of his techniques—a master work that would preserve his family's knowledge forever. But the project requires collaboration with scribes and scholars, constant explanation, and admission that his way may not be eternal. Can he accept that immortality through documentation might be all that remains available to him?

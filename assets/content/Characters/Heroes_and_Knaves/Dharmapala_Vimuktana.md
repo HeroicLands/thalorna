@@ -413,15 +413,15 @@ sohl:
 
 ![[dhrmplvmkt|Darmapalda Vimuktana]]{float=top-left}
 
-Darmapalda stands 6'1" tall with a medium build. He has warm golden brown skin, dark black hair, and dark brown eyes. His features include an oval face, a broad nose, a narrow chin, an expressive mouth, warm golden brows, and high cheeks. He has a tattoo of a flower on his ankle.
+Darmapalda Vimuktana stands 6'1" tall with a medium build. He has warm golden brown skin, dark black hair, and dark brown eyes. His features include an oval face, a broad nose, a narrow chin, an expressive mouth, warm golden brows, and high cheeks. He has a tattoo of a flower on his ankle.
 
 # Dossier {#dossier}
 
-Darmapalda emerged from the lower stations of [[place-vedyarargn|Vedyara]]'s allied city-states, where survival and advancement required more than talent—it required ruthlessness, adaptability, and an ability to read human intention faster than others could act. His early years remain obscured by deliberate obscurity, though rumors suggest he was orphaned young and entered service to a Shroshtin known for employing street-born fighters. By his early twenties, Darmapalda had distinguished himself as a bodyguard, accumulating a reputation for keeping his employers alive through situations that should have proven fatal.
+Darmapalda emerged from the lower stations of the [[place-vedyarargn|Vedyara Region]]'s allied city-states, where survival and advancement required more than talent—it required ruthlessness, adaptability, and an ability to read human intention faster than others could act. His early years remain obscured by deliberate obscurity, though rumors suggest he was orphaned young and entered service to a Shroshtin known for employing street-born fighters. By his early twenties, Darmapalda had distinguished himself as a bodyguard, accumulating a reputation for keeping his employers alive through situations that should have proven fatal.
 
-The flower tattoo appeared around the time he entered the Mercenaries Shrena proper, marking either a binding oath or a commemoration of personal loss—Darmapalda offers no explanation. Over the next decade, he refined himself from street-fighter to bodyguard of the first rank, developing the foresight and eye for threats that set him apart from merely competent soldiers. He studied the ways of multiple city-states, learning their hierarchies and vulnerabilities, and began taking commissions that demanded not brute force but insight into people and inventive thinking.
+The flower tattoo appeared around the time he entered [The Mercenaries Shrena of Vedyara]{.name data-type="affiliation/guild"} proper, marking either a binding oath or a commemoration of personal loss—Darmapalda offers no explanation. Over the next decade, he refined himself from street-fighter to bodyguard of the first rank, developing the foresight and eye for threats that set him apart from merely competent soldiers. He studied the ways of multiple city-states, learning their hierarchies and vulnerabilities, and began taking commissions that demanded not brute force but insight into people and inventive thinking.
 
-Now he operates from the margins of Vedyaran society, available to those wealthy and discrete enough to seek him through proper channels. Though nominally affiliated with the Mercenaries Shrena, Darmapalda maintains fierce independence and careful separation from entanglements with other shrena members or formal power structures.
+Now he operates from the margins of [[lore-vedyariclt|Vedyari]] society, available to those wealthy and discreet enough to seek him through proper channels. Though nominally affiliated with the Mercenaries Shrena, Darmapalda maintains fierce independence and careful separation from entanglements with other shrena members or formal power structures.
 
 ## Psyche
 
@@ -473,24 +473,24 @@ Dangerous Unpredictability
 
 ### Patrons
 
-Shroshtin Ashera of eastern Vedyara
+Shroshtin [Ashera]{.name data-type="being/npc"} of eastern Vedyara
 : A widow and trader in luxury goods who regularly contracts Darmapalda's services and has developed a real (though carefully unspoken) affection for him.
 
-Shroshtin Kavindra the Banker
+Shroshtin [Kavindra the Banker]{.name data-type="being/npc"}
 : An elderly financier who values Darmapalda's discretion and tactical thinking as much as his combat abilities, and has kept him on quasi-retainer for sensitive commissions.
 
-Master Surgeon Devak
+Master Surgeon [Devak]{.name data-type="being/npc"}
 : A healer of some renown who once treated Darmapalda for a near-fatal wound and has since become one of the few individuals he considers a friend, and one of the fewer still who call him Dharmu.
 
 ### Enemies
 
-Captain Nagarita of the City Guard
+Captain [[being-nagarithagaj|Nagarita Gajavira]] of the [City Guard]{.name data-type="affiliation"}
 : A corrupt official who views Darmapalda's independence from his authority as insult and has made his removal a personal crusade, generating false charges and attempting to cut off his legitimate work.
 
 [[affiliation-gargezru|Gar-Gezru]]
 : A criminal organization that attempted to hire Darmapalda for unforgivable purposes; when he refused and reported them to city authorities, they marked him for death and have pursued this vendetta with cold determination.
 
-Kandura the Knife
+[Kandura the Knife]{.name data-type="being/npc"}
 : A rival bodyguard and occasional shreni-mate who views Darmapalda as having stolen commissions that should have been his, and who harbors deep resentment over a past failure to protect a client where Darmapalda succeeded.
 
 ### Affiliations

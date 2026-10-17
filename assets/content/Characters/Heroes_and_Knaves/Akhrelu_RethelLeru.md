@@ -423,11 +423,11 @@ sohl:
 
 ![[akhrelrthllr|Akhrelu Reth'el'Leru]]{float=top-left}
 
-Akhrelu stands 6'1" tall with a heavy build. He has dark brown skin, jet black hair, and brown eyes. His features include a long face, a prominent nose, a narrow chin, full lips, dark brows, and sculpted cheeks. He has a scar on the back of his left arm.
+Akhrelu Reth'el'Leru stands 6'1" tall with a heavy build. He has dark brown skin, jet black hair, and brown eyes. His features include a long face, a prominent nose, a narrow chin, full lips, dark brows, and sculpted cheeks. He has a scar on the back of his left arm.
 
 # Dossier {#dossier}
 
-Akhrelu was born in the Empire of [[affiliation-empireakhlth|Au'Khelathu]], where the vast grasslands and savannas demanded respect for the creatures that inhabited them. His family had been animal handlers for generations, a lineage stretching back to his great-grandfather who trained the sacred beasts for temple ceremonies. As a child, Akhrelu displayed an almost preternatural ability to communicate with animals—horses would calm in his presence, wild dogs would lower their hackles, and even venomous serpents seemed to sense his lack of fear combined with his lack of malice.
+Akhrelu was born in the [[affiliation-empireakhlth|Empire of Au'Khelathu]], where the vast grasslands and savannas demanded respect for the creatures that inhabited them. His family had been animal handlers for generations, a lineage stretching back to his great-grandfather who trained the sacred beasts for temple ceremonies. As a child, Akhrelu displayed an almost preternatural ability to communicate with animals—horses would calm in his presence, wild dogs would lower their hackles, and even venomous serpents seemed to sense his lack of fear combined with his lack of malice.
 
 At fifteen, he apprenticed formally to Master [[being-latari2|Latari]], the Empire's foremost animal trainer, learning not through books or doctrine but through intuition and practice. Latari taught him that animals respond to intention and respect, not dominance and cruelty. For twenty-three years, Akhrelu worked beside Latari, specializing in the training of exotic beasts for noble hunts, military campaigns, and ceremonial purposes. When Latari grew too aged to continue, Akhrelu inherited both his knowledge and his responsibilities.
 
@@ -493,7 +493,7 @@ Aging Frame
 Lord [[being-vaskan|Vaskan]] of the [[place-southrnmrch|Southern March]]
 : A noble who has contracted Akhrelu for decades, providing both animal resources and payment in exchange for trained beasts for noble hunts and the occasional military campaign. Vaskan is one of the few humans Akhrelu respects, as the lord treats animals with consideration.
 
-The Temple of Sacred Beasts
+[The Temple of Sacred Beasts]{.name data-type="affiliation"}
 : A religious institution that occasionally seeks Akhrelu's skill for the training and care of sacred creatures used in ceremonies, offering both prestige and reasonable compensation.
 
 [[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]]
@@ -501,7 +501,7 @@ The Temple of Sacred Beasts
 
 ### Enemies
 
-Khelarven the Brutal
+[[being-khelarven|Khelarven]] the Brutal
 : A rival animal trainer who believes in domination and fear as training methods. Khelarven has sabotaged several of Akhrelu's commissions, poisoned animals in his care, and spread rumors about Akhrelu's competence. The enmity is personal; years ago, Lord Vaskan chose to employ Akhrelu over Khelarven, a choice Khelarven has never forgiven. Recently, Khelarven has been working with darker patrons, suggesting his malice toward Akhrelu may escalate.
 
 [[affiliation-zeghetzulun|Zeghet'Zulun]]

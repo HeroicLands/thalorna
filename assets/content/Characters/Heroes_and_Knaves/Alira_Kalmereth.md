@@ -422,7 +422,7 @@ sohl:
 
 ![[alyrklmrth|Álira Kálmereth]]{float=top-left}
 
-Álira stands 5'9" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a heart-shaped face, a snub nose, a strong jawline, full lips, dark brows, and full cheeks.
+Álira Kálmereth stands 5'9" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a heart-shaped face, a snub nose, a strong jawline, full lips, dark brows, and full cheeks.
 
 # Dossier {#dossier}
 
@@ -430,7 +430,7 @@ sohl:
 
 ### Early Years
 
-Álira was born to a minor merchant family in the Kingdom of [[affiliation-kngdmlvndr|Élavendre]], where her father traded in exotic woods and her mother preserved rare plants. As the youngest of five children, she was initially destined for marriage or service, yet her obsessive fascination with creating miniature worlds from scraps and wood shavings could not be ignored. By age twelve, she had apprenticed herself informally to the traveling toymaker Valdyn Nareth, trading household labor for knowledge of joinery, painting, and the ancient art of bringing inanimate forms to life.
+Álira was born to a minor merchant family in the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], where her father traded in exotic woods and her mother preserved rare plants. As the youngest of five children, she was initially destined for marriage or service, yet her obsessive fascination with creating miniature worlds from scraps and wood shavings could not be ignored. By age twelve, she had apprenticed herself informally to the traveling toymaker [Valdyn Nareth]{.name data-type="being/npc"}, trading household labor for knowledge of joinery, painting, and the ancient art of bringing inanimate forms to life.
 
 ### Training and Growth
 
@@ -488,18 +488,18 @@ Obsessive Perfectionism
 
 ### Patrons
 
-Mistress Lirien Clearbrook
+Mistress [Lirien Clearbrook]{.name data-type="being/npc"}
 : The local schoolmistress purchases toys in bulk for the children's lessons. She has become something of a mentor figure, gently pushing Álira toward higher prices and introducing her to noble families seeking commissioned work.
 
-Tralkar the Wanderer
+[Tralkar the Wanderer]{.name data-type="being/npc"}
 : A traveling storyteller who has taken Álira's figures on tour across three kingdoms. He credits her creations with enhancing his performances and has become her most reliable champion.
 
-The Kálmereth Family
+[The Kálmereth Family]{.name data-type="affiliation/lineage"}
 : Despite early estrangement, Álira's mother and elder siblings now purchase her work regularly and have begun commissioning pieces as marriage gifts for their own children and grandchildren.
 
 ### Enemies
 
-Master Galric Sarneth
+Master [Galric Sarneth]{.name data-type="being/npc"}
 : The established toymaker of Élavendre, whose family has dominated the craft for three generations. He views Álira as an unwelcome upstart and has begun spreading rumors that her dyes are toxic, her craftsmanship mediocre, and her prices represent a predatory undercutting of established artisans. In truth, his own work has grown stale and his prices inflated.
 
 [[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]]
@@ -507,16 +507,16 @@ Master Galric Sarneth
 
 ### Affiliations
 
-The Artisan's Path
+[The Artisan's Path]{.name data-type="affiliation"}
 : An informal collective of independent craftspeople—woodworkers, potters, weavers, and others—who share knowledge, materials, and occasionally commission work. Álira is one of their youngest members but increasingly its heart, often mediating disputes and organizing collaborative works.
 
 ## Plot Hooks
 
 The Countess's Heir
-: The young Countess Íthrola, whose domain lies three days' ride from Álira's cottage, has heard extraordinary tales of a toymaker who captures the essence of her daughter's nightmares and transforms them into beloved companions. The Countess has commissioned a suite of twelve figures representing the months of the year, each accompanied by a cryptic instruction. As Álira researches ancient festival traditions to get them right, she discovers her commission may be connected to a dark family curse, and the toys themselves may be ritual anchors. Completing this work could either break the curse or bind it more tightly—and completing it will demand she venture into territories both geographical and magical that terrify her.
+: The young Countess [[being-ithrolasemro|Íthrola Sémrothnde]], whose domain lies three days' ride from Álira's cottage, has heard extraordinary tales of a toymaker who captures the essence of her daughter's nightmares and transforms them into beloved companions. The Countess has commissioned a suite of twelve figures representing the months of the year, each accompanied by a cryptic instruction. As Álira researches ancient festival traditions to get them right, she discovers her commission may be connected to a dark family curse, and the toys themselves may be ritual anchors. Completing this work could either break the curse or bind it more tightly—and completing it will demand she venture into territories both geographical and magical that terrify her.
 
 The Enchanter's Apprentice
-: A mysterious wanderer named **Selon Brightheart** arrives at Álira's workshop, claiming to be an apprentice enchanter seeking to learn the principles of physical craft to complement magical theory. In exchange for knowledge about the subtle art of animate objects, Selon hints they can teach Álira to infuse her toys with true animation—a technique that would revolutionize her work. Yet Selon's past is shadowed, and their former master, **the Sorcerer Nyevasa**, has been destroying enchanted objects throughout the realm, seemingly hunting for something specific. Selon may be a true ally, or bait to draw Álira into a conflict that could destroy her life's work.
+: A mysterious wanderer named **[Selon Brightheart]{.name data-type="being/npc"}** arrives at Álira's workshop, claiming to be an apprentice enchanter seeking to learn the principles of physical craft to complement magical theory. In exchange for knowledge about the subtle art of animate objects, Selon hints they can teach Álira to infuse her toys with true animation—a technique that would revolutionize her work. Yet Selon's past is shadowed, and their former master, **the Sorcerer [[being-nyevasaurtha|Nyevasa Úrthavnde]]**, has been destroying enchanted objects throughout the realm, seemingly hunting for something specific. Selon may be a true ally, or bait to draw Álira into a conflict that could destroy her life's work.
 
 The Stolen Commission
 : A wealthy nobleman contracts Álira for an elaborate mechanical toy—a silver bird that sings and dances—offering an unprecedented fee. Before completion, the piece is stolen by a master thief operating in the Kingdom. The noble blames Álira for the loss and demands either a replacement at no cost or compensation she cannot afford. Desperate, Álira discovers the thief was hired to steal it for a competing artisan in a distant city. The theft spirals into a dangerous game of intrigue, forgery, and dangerous secrets that forces Álira to choose between her reputation and her conscience.

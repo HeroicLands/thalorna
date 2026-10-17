@@ -414,7 +414,7 @@ sohl:
 
 ![[vrldrvdrtgr|Vruldorv Drottgar]]{float=top-left}
 
-Vruldorv stands 5'11" tall with a medium build. He has light fair skin, red hair, and hazel eyes. His features include an angular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, and thick brows. He has a scar on his left shoulder.
+Vruldorv Drottgar stands 5'11" tall with a medium build. He has light fair skin, red hair, and hazel eyes. His features include an angular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, and thick brows. He has a scar on his left shoulder.
 
 # Dossier {#dossier}
 
@@ -422,11 +422,11 @@ Vruldorv stands 5'11" tall with a medium build. He has light fair skin, red hair
 
 ### The Boy from Nordheim
 
-Vruldorv was born in the remote northern settlements of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], where the winters are merciless and survival itself is victory. His father, **Inthvir Drottgar**, was a militia captain; his mother, **Snilthrinna Ironhand**, kept their small homestead functioning through brutal seasons. At fourteen, following his clan's traditions, Vruldorv began his formal training with the city guard, apprenticed under the stern but capable **Commander Gnurthmil**, learning the mechanics of combat and the philosophy of protection—that the warrior's true purpose is to bear the burden of safety so others may live without fear.
+Vruldorv was born in the remote northern settlements of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], where the winters are merciless and survival itself is victory. His father, **[Inthvir Drottgar]{.name data-type="being/npc"}**, was a militia captain; his mother, **[Snilthrinna Ironhand]{.name data-type="being/npc"}**, kept their small homestead functioning through brutal seasons. At fourteen, following his clan's traditions, Vruldorv began his formal training with the city guard, apprenticed under the stern but capable **Commander [[being-gnurthmyl|Gnurthmil]]**, learning the mechanics of combat and the philosophy of protection—that the warrior's true purpose is to bear the burden of safety so others may live without fear.
 
 ### The Long Wars
 
-In his early twenties, Vruldorv distinguished himself during the Frontier Conflicts, defending the northern passes against raiders from the Wastes. It was during these campaigns that he received the shoulder scar that nearly killed him—a wound that saw him bedridden for three months, learning the patience required for healing. Upon recovery, he had earned both a reputation for reliability and the recognition that he was no mere soldier but a leader of men. He rose steadily through the ranks of the Mercenaries' Guild, commanding caravan protection details and small garrison forces. His specialty became the escort of merchant caravans through treacherous terrain—a role that demanded not only martial prowess but intimate knowledge of geography, of provisioning, and of the careful weighing of risk.
+In his early twenties, Vruldorv distinguished himself during the [Frontier Conflicts]{.name data-type="lore"}, defending the northern passes against raiders from the [Wastes]{.name data-type="place/region"}. It was during these campaigns that he received the shoulder scar that nearly killed him—a wound that saw him bedridden for three months, learning the patience required for healing. Upon recovery, he had earned both a reputation for reliability and the recognition that he was no mere soldier but a leader of men. He rose steadily through the ranks of the [Nordheim Mercenaries' Guild]{.name data-type="affiliation/guild"}, commanding caravan protection details and small garrison forces. His specialty became the escort of merchant caravans through treacherous terrain—a role that demanded not only martial prowess but intimate knowledge of geography, of provisioning, and of the careful weighing of risk.
 
 ### The Current Path
 
@@ -467,23 +467,23 @@ Vruldorv seeks meaningful work—a cause or purpose greater than the mere accumu
 ### Patrons
 
 The Nordheim Mercenaries' Guild
-: His official employer and the organization that provides most of his contracts; the guild master, **Arnthor Knalthumak**, values his reliability and occasionally consults him on matters of planning
+: His official employer and the organization that provides most of his contracts; the guild master, **[Arnthor Knalthumak]{.name data-type="being/npc"}**, values his reliability and occasionally consults him on matters of planning
 
-Merchant House Alderthor
-: A prominent trading company that specifically requests Vruldorv for major caravans; their agent, **Lady Hlarthrinna**, has developed respect for his workmanlike approach
+[Merchant House Alderthor]{.name data-type="affiliation/venture"}
+: A prominent trading company that specifically requests Vruldorv for major caravans; their agent, **Lady [[being-hlarthrinna|Hlarthrinna]]**, has developed respect for his workmanlike approach
 
 Commander Gnurthmil
 : His aging former mentor, now retired from active service, whom Vruldorv visits regularly and whose counsel he seeks on matters of honor and purpose
 
 ### Enemies
 
-Jarl Snalthselda Gnarthidrok
+Jarl [[being-snalthseldag|Snalthselda Gnarthidrok]]
 : A rival warrior within the guild who views Vruldorv's success as a personal affront and spreads rumors that his reputation is exaggerated; they have not yet come to open conflict
 
-The Blackthorn Bandits
+[The Blackthorn Bandits]{.name data-type="affiliation/criminal"}
 : An organized band of mountain raiders whose operations Vruldorv has disrupted multiple times, causing significant losses; they have sworn vengeance against the "Northern Ox"
 
-Merchant Lord Snalthmil the Greedy
+Merchant Lord [[being-snalthmylthe|Snalthmil the Greedy]]
 : A crooked trader whose smuggling operations Vruldorv once refused to protect; Snalthmil now uses his considerable wealth to undermine Vruldorv's reputation
 
 ### Affiliations

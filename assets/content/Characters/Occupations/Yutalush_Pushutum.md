@@ -398,11 +398,11 @@ At thirty-nine, Yutalush Pushutum appears a decade older than his actual age, wo
 
 # Dossier {#dossier}
 
-Yutalush was born twenty years after [[affiliation-cnfdrtntrzlnstts|Taruzel]]'s declaration of independence from [[affiliation-vylarinmpr|the Vylarian Empire]], born into a freeman family of modest means in [[place-bazunel2|Bazunel]]. His early years coincided with a time of cautious optimism—the new oligarchy had not yet consolidated its control, and there remained hope that Taruzel's revolutionary sacrifice might yield real freedom and prosperity for common people. He was apprenticed to an older healer at fourteen and showed immediate aptitude: his perception was sharp, his feeling for the sick real, and his hands steady in crisis.
+Yutalush was born twenty years after the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]'s declaration of independence from the [[affiliation-vylarinmpr|Vylarian Empire]], born into a freeman family of modest means in [[place-bazunel2|Bazunel]]. His early years coincided with a time of cautious optimism—the new oligarchy had not yet consolidated its control, and there remained hope that Taruzel's revolutionary sacrifice might yield real freedom and prosperity for common people. He was apprenticed to an older healer at fourteen and showed immediate aptitude: his perception was sharp, his feeling for the sick real, and his hands steady in crisis.
 
-The last fifteen years have been grinding. [[affiliation-auricompct|The Auric Compact]]'s consolidation of power meant that wealth concentrated upward while common people discovered that independence meant only that their oppressors were local rather than distant. [[affiliation-corsairleg|The Corsair League]]'s rise created periodic violence. [[affiliation-mrchntryvl|The Merchantry of the Veil]] operated in shadows. Yutalush treated the consequences: wound infections, poverty-related illness, malnutrition, complications from unsafe births. He also treated soldiers—sometimes soldiers of the oligarchy's forces, sometimes wounded corsairs or resistance fighters. Over years, his clinic became a de facto neutral ground, and through his work, he accumulated knowledge that no one person should carry alone.
+The last fifteen years have been grinding. The [[affiliation-auricompct|Auric Compact]]'s consolidation of power meant that wealth concentrated upward while common people discovered that independence meant only that their oppressors were local rather than distant. The [[affiliation-corsairleg|Corsair League]]'s rise created periodic violence. The [[affiliation-mrchntryvl|Merchantry of the Veil]] operated in shadows. Yutalush treated the consequences: wound infections, poverty-related illness, malnutrition, complications from unsafe births. He also treated soldiers—sometimes soldiers of the oligarchy's forces, sometimes wounded corsairs or resistance fighters. Over years, his clinic became a de facto neutral ground, and through his work, he accumulated knowledge that no one person should carry alone.
 
-He came to the priesthood of Lizelas almost incidentally, recognizing that the goddess of growth and fertility encompassed the healing he performed. The temple gave him some legitimacy and minor protection, though everyone in Bazunel knew that his true authority came not from hierarchy but from the fact that everyone—oligarch, corsair, common laborer—might eventually need his ministrations. His gray hair is the visible cost of this knowledge: information that could destabilize the city, secrets that could end lives, the accumulated weight of knowing exactly how fragile the oligarchy's control truly is.
+He came to the priesthood of the [[affiliation-lizelas|Faith of Lizelas]] almost incidentally, recognizing that the goddess of growth and fertility encompassed the healing he performed. The temple gave him some legitimacy and minor protection, though everyone in Bazunel knew that his true authority came not from hierarchy but from the fact that everyone—oligarch, corsair, common laborer—might eventually need his ministrations. His gray hair is the visible cost of this knowledge: information that could destabilize the city, secrets that could end lives, the accumulated weight of knowing exactly how fragile the oligarchy's control truly is.
 
 ## Psyche
 
@@ -416,7 +416,7 @@ His great strength is his absolute trustworthiness and his skilled hands. His gr
 
 ## Social
 
-Yutalush's formal affiliation is with the Temple of Lizelas in Bazunel, a position that offers him some legitimacy and minimal resources. Yet his actual social authority derives not from the temple hierarchy but from his indispensable position in Bazunel's tangled politics. The oligarchs view him as a resource to be protected. The corsair networks know him as trustworthy. The merchant families consult him regarding family matters. The dispossessed and the desperate know him as the one person who will treat them without judgment or exploitation.
+Yutalush's formal affiliation is with the [Temple of Lizelas]{.name data-type="affiliation"} in Bazunel, a position that offers him some legitimacy and minimal resources. Yet his actual social authority derives not from the temple hierarchy but from his indispensable position in Bazunel's tangled politics. The oligarchs view him as a resource to be protected. The corsair networks know him as trustworthy. The merchant families consult him regarding family matters. The dispossessed and the desperate know him as the one person who will treat them without judgment or exploitation.
 
 This positions him as uniquely isolated. He has no peers in Bazunel's priesthood—the other temple clergy view him with a mixture of reverence and resentment. He cannot socialize openly with either oligarchs or resistance figures without raising questions about his loyalties. His personal relationships are minimal; people approach him as a healer, not as a friend. The emotional cost of this role, however necessary it is, accumulates daily.
 
@@ -426,13 +426,13 @@ His status as a Freeman rather than a member of the formal nobility or merchant 
 
 **Patrons:**
 
-- **Captain Beshura Tarmumi**, a corsair captain with an old wound that Yutalush healed years ago. Tarmumi considers him a friend and owes him life-debt, but this association is dangerous if discovered by the oligarchs.
-- **Merchant-Mother Ninuri Shamiru**, one of the more enlightened members of the Auric Compact who quietly steers resources toward Yutalush's clinic and has never demanded anything in return beyond his discretion.
+- **Captain [[being-beshuratarmu|Beshura Tarmumi]]**, a corsair captain with an old wound that Yutalush healed years ago. Tarmumi considers him a friend and owes him life-debt, but this association is dangerous if discovered by the oligarchs.
+- **Merchant-Mother [[being-ninurishamir|Ninuri Shamiru]]**, one of the more enlightened members of the Auric Compact who quietly steers resources toward Yutalush's clinic and has never demanded anything in return beyond his discretion.
 
 **Enemies:**
 
-- **Magistrate Tarruk Eshkarum**, a rising figure in Bazunel's oligarchic hierarchy who views Yutalush's neutrality as insufficiently committed to their rule. He has been slowly pressuring the temple authorities to exert more control over the clinic's operations.
-- **The Shadow Broker**, a mysterious figure who operates in the interstices of Bazunel's resistance networks and who has been attempting to pressure or leverage Yutalush into providing information about the oligarchs' health vulnerabilities—a request Yutalush has thus far refused at considerable personal risk.
+- **Magistrate [[being-tarrukeshkar|Tarruk Eshkarum]]**, a rising figure in Bazunel's oligarchic hierarchy who views Yutalush's neutrality as insufficiently committed to their rule. He has been slowly pressuring the temple authorities to exert more control over the clinic's operations.
+- **[The Shadow Broker]{.name data-type="being/npc"}**, a mysterious figure who operates in the interstices of Bazunel's resistance networks and who has been attempting to pressure or leverage Yutalush into providing information about the oligarchs' health vulnerabilities—a request Yutalush has thus far refused at considerable personal risk.
 
 ## Plot Hooks
 

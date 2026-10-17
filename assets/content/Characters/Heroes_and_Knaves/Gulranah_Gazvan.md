@@ -414,7 +414,7 @@ sohl:
 
 ![[gulrnhgzvn|Gulranah Gazvan]]{float=top-left}
 
-Gulranah stands 6'1" tall with a light build. She has light olive skin, dark brown hair, and warm brown eyes. Her features include a long face, a hawkish nose, an angular jawline, full lips, dark brows, angular cheeks. A distinguishing mark is a scar on the right wrist.
+Gulranah Gazvan stands 6'1" tall with a light build. She has light olive skin, dark brown hair, and warm brown eyes. Her features include a long face, a hawkish nose, an angular jawline, full lips, dark brows, angular cheeks. A distinguishing mark is a scar on the right wrist.
 
 # Dossier {#dossier}
 
@@ -422,7 +422,7 @@ Gulranah stands 6'1" tall with a light build. She has light olive skin, dark bro
 
 ### Early Years
 
-Born to the Gazvan clan in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] during a season of great drought, Gulranah showed an unusual affinity for fire and ash from her earliest years. While other children played at merchant games, she watched the charcoalers work, mesmerized by the transformation of wood into black treasure. Her mother, a respected herbalist named **Pezhinah Gazvan**, recognized the girl's calling and, rather than resist it as unseemly, arranged apprenticeship with the master charcoaler **Zalmor of the Northern Kiln**—a rare honor for a child of noble guild-standing.
+Born to the [Gazvan clan]{.name data-type="affiliation/lineage"} in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] during a season of great drought, Gulranah showed an unusual affinity for fire and ash from her earliest years. While other children played at merchant games, she watched the charcoalers work, mesmerized by the transformation of wood into black treasure. Her mother, a respected herbalist named **[Pezhinah Gazvan]{.name data-type="being/npc"}**, recognized the girl's calling and, rather than resist it as unseemly, arranged apprenticeship with the master charcoaler **[Zalmor Ashenthorn]{.name data-type="being/npc"} of the [Northern Kiln]{.name data-type="place/structure"}**—a rare honor for a child of noble guild-standing.
 
 ### Training and Mastery
 
@@ -430,7 +430,7 @@ Under Zalmor's exacting tutelage for twelve seasons, Gulranah learned how air, h
 
 ### Present Standing
 
-Now twenty-nine winters old, Gulranah operates her kilns with renown throughout Amradad's trading districts. Her charcoal is sought by the realm's finest smiths for its purity and the metalsmiths for its control of heat. The herbalists—particularly the disciples of **Zúrathra's Fertility Rites**—prize her product for ceremonial fires. Yet success has cost her a measure of ease; the weight of reputation and the demands of quality work have drawn her into a solitary existence that outsiders sometimes mistake for arrogance.
+Now twenty-nine winters old, Gulranah operates her kilns with renown throughout Amradad's trading districts. Her charcoal is sought by the realm's finest smiths for its purity and the metalsmiths for its control of heat. The herbalists—particularly the disciples of **[Zúrathra's Fertility Rites]{.name data-type="lore/custom"}**—prize her product for ceremonial fires. Yet success has cost her a measure of ease; the weight of reputation and the demands of quality work have drawn her into a solitary existence that outsiders sometimes mistake for arrogance.
 
 ## Psyche
 
@@ -442,7 +442,7 @@ Beneath the distance lies an integrity. Gulranah's word is law; she will not com
 
 ### Motivation
 
-Gulranah seeks only to produce the finest charcoal the Kingdom has ever known—a legacy that will outlast her body and be remembered long after her name fades. She takes no pride in wealth, though her independence demands it, and no pride in reputation, though it naturally follows excellence. What drives her is the pursuit of perfection in her art, the knowledge that her kiln's smoke carries the essence of her discipline skyward. In her most secret heart, she wonders if perfecting her craft might somehow earn her a place in the cycles of Zúrathra's eternal fertility—a way to make her work feed the world's growth beyond the material plane.
+Gulranah seeks only to produce the finest charcoal the Kingdom has ever known—a legacy that will outlast her body and be remembered long after her name fades. She takes no pride in wealth, though her independence demands it, and no pride in reputation, though it naturally follows excellence. What drives her is the pursuit of perfection in her art, the knowledge that her kiln's smoke carries the essence of her discipline skyward. In her most secret heart, she wonders if perfecting her craft might somehow earn her a place in the cycles of [[lore-zurathradty|Zúrathra]]'s eternal fertility—a way to make her work feed the world's growth beyond the material plane.
 
 ### Strengths
 
@@ -485,32 +485,32 @@ Vulnerability to Obsession
 Master Zalmor Ashenthorn
 : Her retired mentor, now a wealthy merchant. Though he no longer practices the craft himself, he champions her work and occasionally contracts for specialty batches
 
-The Apothecary Collective of Amradad
-: Guild of ritual herbalists who have made her the exclusive supplier of ceremonial charcoal for fertility rites of Zúrathra
+[The Apothecary Collective of Amradad]{.name data-type="affiliation/guild"}
+: Guild of ritual herbalists who have made her the exclusive supplier of ceremonial charcoal for fertility rites of the [[affiliation-zurathra|Faith of Zúrathra]]
 
-House Ferringhold
+[House Ferringhold]{.name data-type="affiliation/lineage"}
 : A minor noble house of merchants who commission her finest work exclusively and pay handsomely to keep competitors deprived of her product
 
 ### Enemies
 
-Rozhvan Durmand and the Ash-Brothers Guild
+[Rozhvan Durmand]{.name data-type="being/npc"} and the [Ash-Brothers Guild]{.name data-type="affiliation/guild"}
 : A collective of male charcoalers who publicly declaim that women have no place in the trade and actively undermine her reputation with potential customers
 
-The Durvesh Syndicate
+[The Durvesh Syndicate]{.name data-type="affiliation/criminal"}
 : Smugglers and gray-market traders who resent her refusal to supply them with specialized charcoal for alchemical purposes they consider unsavory
 
-Tormund Blacksmoke
+[Tormund Blacksmoke]{.name data-type="being/npc"}
 : A rival charcoaler whose inferior product's lower price undercuts hers; he spreads rumors that her seclusion masks madness or curse
 
 ### Affiliations
 
-The Kiln-Keepers of Amradad
+[The Kiln-Keepers of Amradad]{.name data-type="affiliation/guild"}
 : Independent guild of craftspeople devoted to maintaining quality standards in the charcoal trade (though she remains mostly inactive in their politics)
 
 ## Plot Hooks
 
 The Fire's Fading
-: A severe drought threatens the very wood supply that sustains Gulranah's livelihood. She receives word from a traveling merchant that an ancient forest deep in the southern reaches of the Kingdom—sacred to Zúrathra and off-limits to mortals for generations—has mysteriously shifted, its protective enchantments wavering. The wood there is said to burn hotter and cleaner than any earthly timber, and would allow her to create charcoal of legends. But to harvest it, she must either negotiate with the priestesses of **Temple Ashenfire** or find another path; the risks are immense, and her seclusion has left her without allies to undertake such a journey.
+: A severe drought threatens the very wood supply that sustains Gulranah's livelihood. She receives word from a traveling merchant that an ancient forest deep in the southern reaches of the Kingdom—sacred to Zúrathra and off-limits to mortals for generations—has mysteriously shifted, its protective enchantments wavering. The wood there is said to burn hotter and cleaner than any earthly timber, and would allow her to create charcoal of legends. But to harvest it, she must either negotiate with the priestesses of **[Temple Ashenfire]{.name data-type="place/structure"}** or find another path; the risks are immense, and her seclusion has left her without allies to undertake such a journey.
 
 The Poisoned Batch
 : Gulranah discovers that someone has tampered with a shipment of her charcoal meant for the apothecary collective—introducing a mineral compound that, when burned in ritual, produces subtle traces of toxins. If discovered, it will destroy her reputation entirely. She must trace the sabotage back to its source before the corrupted batch reaches the ceremonial fires, and uncover whether this is the work of **Rozhvan Durmand** and his Ash-Brothers, or something worse—perhaps a power seeking to poison the very fertility rituals that sustain the kingdom's prosperity.
@@ -522,4 +522,4 @@ The Kiln-Master's Successor
 : As Zalmor's wealth grows and his age advances, he begins to court Gulranah with an unexpected proposition: partnership in a grand expansion of the Northern Kiln into a regional empire of production. He speaks of training other apprentices under her guidance, establishing subsidiary kilns across the kingdom, and securing her legacy far beyond her lifetime. It is everything she should want, yet it would require her to abandon the solitary, intimate relationship with her own single kiln that has defined her entire life. She must choose between growth and purity, ambition and authenticity.
 
 The Curse of Zúrathra's Gift
-: Strange visions begin plaguing Gulranah during her work—fleeting glimpses of other worlds, other kilns, other selves engaged in the same craft. A priestess of **Temple Ashenffire** eventually seeks her out, revealing that her gift with fire may mark her as touched by Zúrathra herself, and that the deity intends to draw her into service for a great working. The visions are a call, and refusing will bring consequences. Accepting means surrendering the last remnants of her independence to something greater, and possibly terrible, than herself.
+: Strange visions begin plaguing Gulranah during her work—fleeting glimpses of other worlds, other kilns, other selves engaged in the same craft. A priestess of **Temple Ashenfire** eventually seeks her out, telling her that her gift with fire may mark her as touched by Zúrathra herself, and that the deity intends to draw her into service for a great working. According to the priestess, the visions are a call, and refusing will bring consequences. Accepting means surrendering the last remnants of her independence to something greater, and possibly terrible, than herself.

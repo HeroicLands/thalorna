@@ -416,15 +416,15 @@ sohl:
 
 ![[dmrthsvshrds|Domrithas Vishardas]]{float=top-left}
 
-Domrithas stands 5'4" tall with a medium build. He has pale fair skin, greying brown hair, and green eyes. His features include a long face, a straight nose, a rounded chin, rosy lips, greying brows, and full cheeks.
+Domrithas Vishardas stands 5'4" tall with a medium build. He has pale fair skin, greying brown hair, and green eyes. His features include a long face, a straight nose, a rounded chin, rosy lips, greying brows, and full cheeks.
 
 # Dossier {#dossier}
 
-Domrithas emerged from minor nobility in Nartun with a gift for understanding chemical transformation. As a young man, he appeared destined for conventional success—formal training in the Alchemist Guild, eventually inheriting his family's modest estate and living a comfortable if unremarkable life. But when his beloved sister **Luvetha** contracted the Withering—an incurable disease that slowly transformed victims into husks—his entire trajectory shifted.
+Domrithas emerged from minor nobility in [[place-nartum|Nartun]] with a gift for understanding chemical transformation. As a young man, he appeared destined for conventional success—formal training in the [Alchemist Guild of Nartun]{.name data-type="affiliation/guild"}, eventually inheriting his family's modest estate and living a comfortable if unremarkable life. But when his beloved sister **[[being-luvethaholim|Luvetha Holimandis]]** contracted the [Withering]{.name data-type="lore"}—an incurable disease that slowly transformed victims into husks—his entire trajectory shifted.
 
 He became obsessed with curing her condition and in the process, began to suspect that the boundary between life and death was not absolute but permeable, that with sufficient knowledge of transformation and chemistry, one might cross it. He began conducting experiments in secret, reading texts the guild considered forbidden and creating substances that produced results contradicting official alchemical doctrine. Despite his efforts, Luvetha died—but not before she seemed, in her final moments, to recognize something in Domrithas's work that suggested he was approaching some terrible truth.
 
-Since her death fifteen years ago, Domrithas has devoted himself with singular purpose to the pursuit of immortality. He has secured patronage from **Baron Kalmethar of Nartun**, who is himself elderly and afraid of death, providing him resources and protection from guild scrutiny. His work has produced substances and discoveries that exist at the boundary of poison and cure, corruption and transformation. He is becoming increasingly unstable, increasingly willing to test his creations on unwilling subjects, increasingly convinced that he is approaching a breakthrough that will revolutionize human existence itself.
+Since her death fifteen years ago, Domrithas has devoted himself with singular purpose to the pursuit of immortality. He has secured patronage from **Baron [[being-kalmethartha|Kalmethar Tharkis]] of Nartun**, who is himself elderly and afraid of death, providing him resources and protection from guild scrutiny. His work has produced substances and discoveries that exist at the boundary of poison and cure, corruption and transformation. He is becoming increasingly unstable, increasingly willing to test his creations on unwilling subjects, increasingly convinced that he is approaching a breakthrough that will revolutionize human existence itself.
 
 ## Psyche
 
@@ -483,18 +483,18 @@ Dangerous Patronage
 Baron Kalmethar of Nartun
 : An aging nobleman of considerable wealth and power who has become increasingly obsessed with his own mortality and views Domrithas's work as his best hope for extended life or outright immortality. Kalmethar provides resources, protection from guild scrutiny, and unwilling test subjects from his estate's servile population.
 
-Master Physician Bryakos
+Master Physician [Bryakos]{.name data-type="being/npc"}
 : A healer of real reputation who, while publicly maintaining distance from Domrithas's more questionable work, secretly purchases certain of his creations for use in his own practice, generating income and intellectual exchange.
 
 ### Enemies
 
-Master Alchemist Akethrynas
+Master Alchemist [Akethrynas]{.name data-type="being/npc"}
 : The guild-master of Nartun's Alchemist Guild views Domrithas as a corruption of their craft and has spent years gathering evidence of his unethical practices with intent to expose him and have him expelled or worse.
 
-Priestess Zetima of Árdavon's Temple
+Priestess [[being-zetimakholsa|Zetima Kolsamis]] of the temple of the [[affiliation-ardavon|Faith of Árdavon]]
 : The keeper of the order-god's temple views Domrithas's work as corruption of natural order and has declared his pursuit of immortality heretical. She actively works to discredit him and protect innocents from his experiments.
 
-The Widow Selene
+The Widow [Selene]{.name data-type="being/npc"}
 : The former lover of Domrithas who realized the depth of his moral corruption and left him, she now operates a secret network providing sanctuary to those who have escaped his experiments.
 
 ### Affiliations
@@ -502,7 +502,7 @@ The Widow Selene
 Alchemist Guild of Nartun
 : Nominally affiliated but increasingly shunned by mainstream guild members.
 
-The Hidden Cabal
+The hidden cabal
 : Rumored to be part of a secret society of researchers pursuing similar goals of transcendence and immortality, though his actual membership status is unclear.
 
 ## Plot Hooks

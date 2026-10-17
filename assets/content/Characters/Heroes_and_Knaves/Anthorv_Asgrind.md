@@ -431,13 +431,13 @@ sohl:
 
 ![[anthrvasgrnd|Anthorv Asgrind]]{float=top-left}
 
-Anthorv stands 6'0" tall with a medium build. He has light weathered skin, greying black hair, and brown eyes. His features include a rectangular face, a straight nose, an angular jawline, a firm-set mouth, and straight brows.
+Anthorv Asgrind stands 6'0" tall with a medium build. He has light weathered skin, greying black hair, and brown eyes. His features include a rectangular face, a straight nose, an angular jawline, a firm-set mouth, and straight brows.
 
 # Dossier {#dossier}
 
 **Humble Beginnings:** Anthorv was born fifty winters ago in the common quarters of [[place-targud|Targud]]'s capital, the son of a street performer and a tavern keeper. From childhood, he was immersed in performance—his mother taught him to read crowds, his father to move with confidence, and the streets themselves taught him timing and ruthlessness. While other children learned trades, Anthorv learned the subtle art of making people see what he wanted them to see, feel what he wanted them to feel, and spend what they otherwise intended to keep.
 
-**Rise to Prominence:** He first gained notice at twenty-three, when his elaborate performance sequence at the Festival of [[lore-solrundty|Solrún]] so delighted King [[affiliation-kingdmtrgd|Skruldmil III]] that he was invited to the royal court as a permanent jester. For more than a quarter-century, he has remained the primary court entertainer, surviving the reigns of three monarchs through an uncanny ability to understand what each ruler needed from him—to Skruldmil, he was a witty observer of folly; to his successor [[affiliation-kingdmtrgd|Thraldvir]], a trusted confidant hidden in plain sight; to the current King [[affiliation-kingdmtrgd|Braldmil II]], he is an occasionally dangerous reminder of inconvenient truths wrapped in humor.
+**Rise to Prominence:** He first gained notice at twenty-three, when his elaborate performance sequence at the [Festival of Solrún]{.name data-type="lore/gathering"} so delighted King [Skruldmil III]{.name data-type="being/npc"} that he was invited to the royal court as a permanent jester. For more than a quarter-century, he has remained the primary court entertainer, surviving the reigns of three monarchs through an uncanny ability to understand what each ruler needed from him—to Skruldmil, he was a witty observer of folly; to his successor [Thraldvir]{.name data-type="being/npc"}, a trusted confidant hidden in plain sight; to the current King [Braldmil II]{.name data-type="being/npc"}, he is an occasionally dangerous reminder of inconvenient truths wrapped in humor.
 
 **Mastery Earned:** Over the decades, Anthorv has become an unofficial advisor, a subtle intelligence gatherer, and a keeper of secrets. Nobles and merchants alike seek his company, knowing that a jester can speak truths that courtiers dare not voice. His skill at surviving court politics has granted him security and influence unusual for someone of his class. Yet this very success has bred a deep cynicism; he has seen too much deception, too much cruelty masked by silk, too many promises broken for personal gain.
 
@@ -498,17 +498,17 @@ Aging Jester Syndrome
 ### Patrons
 
 King Braldmil II
-: The current monarch of Targud, who values Anthorv's ability to speak uncomfortable truths while maintaining plausible deniability. Braldmil has publicly denied ever taking the jester's advice, but privately relies on his insights.
+: The current monarch of the [[affiliation-kingdmtrgd|Kingdom of Targud]], who values Anthorv's ability to speak uncomfortable truths while maintaining plausible deniability. Braldmil has publicly denied ever taking the jester's advice, but privately relies on his insights.
 
-Lady Tvirnrinna Dvarnaruk, Court Mistress
+Lady [[being-tvirnrinnadv|Tvirnrinna Dvarnaruk]], Court Mistress
 : The wife of a powerful noble and one of the few people with whom Anthorv maintains something approaching true friendship; she values his honesty disguised as mockery.
 
-The Innkeeper Hvilgvir
-: His oldest friend, who manages the _Silver Wyvern_ tavern where Anthorv performs regularly and keeps a private room where the jester can remove his mask, though he rarely does.
+The Innkeeper [Hvilgvir]{.name data-type="being/npc"}
+: His oldest friend, who manages the _[Silver Wyvern]{.name data-type="place/structure"}_ tavern where Anthorv performs regularly and keeps a private room where the jester can remove his mask, though he rarely does.
 
 ### Enemies
 
-Lord Knirvthann Thulmaruk, Duke of the Southern Marches
+Lord [[being-knirvthannth|Knirvthann Thulmaruk]], Duke of the [Southern Marches]{.name data-type="place/region"}
 : A nobleman whose secret ambitions Anthorv publicly mocked through elaborate theatrical sequences that were obviously directed at him. Thulmaruk has sworn vengeance, though he dare not move openly against the king's favored jester.
 
 [[affiliation-wazulu|The Wazulu]]
@@ -522,7 +522,7 @@ His own reflection, an inner enemy
 None formal
 : Anthorv maintains independence from official guilds and organizations, preferring to be beholden to no one but the king.
 
-The Performers' Underground (unofficial)
+[The Performers' Underground]{.name data-type="affiliation"} (unofficial)
 : He maintains loose connections with other entertainers, acrobats, and performers throughout the realm, creating an informal intelligence network.
 
 ## Plot Hooks

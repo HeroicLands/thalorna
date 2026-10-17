@@ -422,13 +422,13 @@ sohl:
 
 ![[klnksprfrkt|Bazebos Porfirakit]]{float=top-left}
 
-Bazebos stands 5'9" tall with a medium build. He has warm tanned skin, dark brown hair, and warm brown eyes. His features include an oval face, a strong nose, an angular jawline, an expressive mouth, dark brows, prominent cheeks. A distinguishing mark is a scar on the left thigh.
+Bazebos Porfirakit stands 5'9" tall with a medium build. He has warm tanned skin, dark brown hair, and warm brown eyes. His features include an oval face, a strong nose, an angular jawline, an expressive mouth, dark brows, prominent cheeks. A distinguishing mark is a scar on the left thigh.
 
 # Dossier {#dossier}
 
-Born into the Porfirakit family of minor nobility within the Bizarian League, Bazebos was trained in the traditional scholarly arts—mathematics, heraldry, classical texts. He showed early aptitude for drawing, and his family eventually allowed him to apprentice with the cartographer **Master Kyrillazur** rather than forcing him into administrative service. Under Kyrillazur's tutelage, he mastered both the technical precision required of military and merchant cartography and the artistic rendering that transforms maps into objects of beauty.
+Born into the [Porfirakit family]{.name data-type="affiliation/lineage"} of minor nobility within the [[affiliation-byzarianlg|Bizarian League]], Bazebos was trained in the traditional scholarly arts—mathematics, heraldry, classical texts. He showed early aptitude for drawing, and his family eventually allowed him to apprentice with the cartographer **Master [Kyrillazur]{.name data-type="being/npc"}** rather than forcing him into administrative service. Under Kyrillazur's tutelage, he mastered both the technical precision required of military and merchant cartography and the artistic rendering that transforms maps into objects of beauty.
 
-By his early thirties, Bazebos had established himself as the League's finest cartographer, creating detailed maps commissioned by traders and military commanders. But charts of known territories no longer satisfied him. At thirty-five, he began funding his own expeditions into unmapped regions, often at significant personal expense. Each expedition brought him closer to the edges of the known world—and closer to danger. The thigh scar came during an expedition to the Shadowpeak Mountains five years ago, when he was ambushed by something that should not exist according to any of his sources.
+By his early thirties, Bazebos had established himself as the League's finest cartographer, creating detailed maps commissioned by traders and military commanders. But charts of known territories no longer satisfied him. At thirty-five, he began funding his own expeditions into unmapped regions, often at significant personal expense. Each expedition brought him closer to the edges of the known world—and closer to danger. The thigh scar came during an expedition to the [Shadowpeak Mountains]{.name data-type="place/feature"} five years ago, when he was ambushed by something that should not exist according to any of his sources.
 
 Now at thirty-nine, Bazebos is something of a legend—part explorer, part artist, part reckless adventurer. He maintains a workshop in the Bizarian capital but spends at least a third of each year on expedition, mapping uncharted lands and returning with stories as intriguing as his maps.
 
@@ -482,21 +482,21 @@ Divided Loyalties
 
 ### Patrons
 
-The Royal Cartographers' Society
+[The Royal Cartographers' Society]{.name data-type="affiliation"}
 : Official patron organization that grants him access to resources, archive materials, and occasionally funding for expeditions of importance to the Order.
 
-Lord Commander Dalveshikos Brirorash
+Lord Commander [[being-dalveshikosb|Dalveshikos Brirorash]]
 : A military leader who has commissioned numerous military maps and occasionally funds expeditions specifically to gather information on potential threats or expansion opportunities.
 
-Lady Investress Dezhbalea Argirakit
+Lady Investress [[being-dezhbaleaarg|Dezhbalea Argirakit]]
 : A wealthy collector of fine maps and geographical art who has become increasingly invested in funding his expeditions, ostensibly for the beauty of his work.
 
 ### Enemies
 
-The Orthodox Cartographers' Alliance
+[The Orthodox Cartographers' Alliance]{.name data-type="affiliation"}
 : Conservative practitioners who view Bazebos's artistic approach as compromising precision and his expeditions as wasteful spending on unnecessary discovery.
 
-The Faceless Warden
+[The Faceless Warden]{.name data-type="being"}
 : An entity or individual Bazebos encountered during his Shadowpeak expedition, something that clearly does not want him—or anyone—mapping the deep mountain regions. They have tried multiple times to kill him.
 
 ### Affiliations
@@ -504,16 +504,16 @@ The Faceless Warden
 The Royal Cartographers' Society
 : Official membership providing resources and legitimacy, though his maverick approach creates occasional friction.
 
-The Explorers' Fellowship
+[The Explorers' Fellowship]{.name data-type="affiliation"}
 : An informal network of adventurers and naturalists dedicated to expanding geographical knowledge.
 
 ## Plot Hooks
 
 The Disappearing Expedition
-: Bazebos's latest expedition to the western wastes simply vanishes—no contact, no return, no bodies. Three months overdue, sponsors demand answers. When another group sent to investigate reports finds evidence that Bazebos deliberately eluded them and continued deeper into unmapped territory, the question becomes urgent: did he discover something so important he was willing to fake his expedition's disappearance? Is he alive, dead, or transformed into something else entirely?
+: Bazebos's latest expedition to the western wastes simply vanishes—no contact, no return, no bodies. Three months overdue, sponsors demand answers. When another group sent to investigate finds evidence that Bazebos deliberately eluded them and continued deeper into unmapped territory, the question becomes urgent: did he discover something so important he was willing to fake his expedition's disappearance? Is he alive, dead, or transformed into something else entirely?
 
 Maps That Shouldn't Exist
-: Bazebos discovers in an old archive a collection of extraordinarily detailed maps of regions he has never seen, drawn in a style that predates the current age by centuries. The territories depicted no longer exist—or have been lost to time. Among them is a map of his beloved Shadowpeak Mountains, showing a structure or location marked only as "The Forbidden Archive." He must decide whether to attempt to locate the archive, knowing it may be the source of these mysterious maps and possibly the lair of the entity that attacked him.
+: Bazebos discovers in an old archive a collection of extraordinarily detailed maps of regions he has never seen, drawn in a style that predates the current age by centuries. The territories depicted no longer exist—or have been lost to time. Among them is a map of his beloved Shadowpeak Mountains, showing a structure or location marked only as "[The Forbidden Archive]{.name data-type="place"}." He must decide whether to attempt to locate the archive, knowing it may be the source of these mysterious maps and possibly the lair of the entity that attacked him.
 
 Rival Mapmakers
 : A wealthy merchant house begins employing expeditions specifically to beat Bazebos to unexplored territory, creating rival maps they plan to publish simultaneously. What appears as simple commercial rivalry slowly reveals darker elements—the merchants' expeditions are searching for something specific, and they don't care who dies in the process. Bazebos must either collaborate with his commercial rivals or race against them toward a discovery he doesn't fully understand.

@@ -423,7 +423,7 @@ sohl:
 
 ![[suvrtkrtns|Suvaratika Ratnisena]]{float=top-left}
 
-Suvaratika stands 5'6" tall with a light build. She has warm bronze skin, deep black hair, and black eyes. Her features include a full face, a prominent nose, a narrow chin, expressive brows, rounded cheeks. A distinguishing mark is a scar running down the right leg.
+Suvaratika Ratnisena stands 5'6" tall with a light build. She has warm bronze skin, deep black hair, and black eyes. Her features include a full face, a prominent nose, a narrow chin, expressive brows, rounded cheeks. A distinguishing mark is a scar running down the right leg.
 
 # Dossier {#dossier}
 
@@ -431,7 +431,7 @@ Suvaratika stands 5'6" tall with a light build. She has warm bronze skin, deep b
 
 ### The Child of the Craftsmith Quarter
 
-Suvaratika was born in the Craftsmith Quarter of [[place-vedyarargn|Vedyara]]'s largest city-state to parents both devoted to artisanship—her father a woodworker and her mother a textile artist. From earliest childhood, she was surrounded by the sounds and smells of creation: wood shavings, paint solvents, the crackle of dying fabric dyes. Rather than view this as constraint, she embraced it as the natural order of existence. By age six, she was sketching designs. By twelve, she was creating toys under her father's guidance, and the whole workshop called her Suvi.
+Suvaratika was born in the [Craftsmith Quarter]{.name data-type="place/site"} of the [[place-vedyarargn|Vedyara Region]]'s largest city-state to parents both devoted to artisanship—her father a woodworker and her mother a textile artist. From earliest childhood, she was surrounded by the sounds and smells of creation: wood shavings, paint solvents, the crackle of dying fabric dyes. Rather than view this as constraint, she embraced it as the natural order of existence. By age six, she was sketching designs. By twelve, she was creating toys under her father's guidance, and the whole workshop called her Suvi.
 
 ### The Tragedy and Transformation
 
@@ -449,7 +449,7 @@ Yet her success remains modest by the standards of larger merchants, and she has
 
 Suvaratika is a woman of few words and deep creative vision. She speaks only when she has something to communicate, and her thoughts tend toward the abstract and philosophical. She is fascinated by the nature of play, the relationship between form and function, and the ways in which objects can encode meaning and wisdom for those perceptive enough to receive it. She has a gentle sense of humor, often making dry observations about the ironies of her work—how the most valuable toys are often the simplest, how children often prefer boxes to the elaborate toys within them.
 
-She is spiritual in a personal way, devoted to Meghonata, the storm-goddess, viewing the chaotic power of storms as metaphor for the creative force that flows through her work. She views her toys not as commercial products but as offerings—small pieces of intentional beauty released into the world to inspire wonder in those who receive them.
+She is spiritual in a personal way, devoted to [[lore-meghanathadty|Meghonata]], the storm-goddess, viewing the chaotic power of storms as metaphor for the creative force that flows through her work. She views her toys not as commercial products but as offerings—small pieces of intentional beauty released into the world to inspire wonder in those who receive them.
 
 ### Motivation
 
@@ -489,26 +489,26 @@ Chronic Pain and Physical Limitation
 
 ### Patrons
 
-Arghika Ghotranyasa of a great house
+[Arghika Ghotranyasa]{.name data-type="being/npc"} of a great house
 : A wealthy merchant's wife and dedicated patron of Vedyara's craftspeople who has commissioned numerous toys for her children and grandchildren. She has become Suvaratika's de facto advocate, recommending her work to other great houses and occasionally commissioning custom pieces.
 
-The House of Childhood Wisdom
+[The House of Childhood Wisdom]{.name data-type="affiliation"}
 : A scholarly institution dedicated to understanding child development and education that has acquired several of Suvaratika's toys for study, viewing them as both functional objects and philosophical texts about learning and play.
 
 ### Enemies
 
-The Merchant Collective of Mass Producers
+[The Merchant Collective of Mass Producers]{.name data-type="affiliation"}
 : Large-scale toy manufacturers who view Suvaratika's insistence on handcrafted quality as an obstacle to progress and quick sales. They have occasionally attempted to undercut her prices and capture her customers.
 
-Darika Vyavaharika
+[Darika Vyavaharika]{.name data-type="being/npc"}
 : A competitive toymaker and a merchant-craftsperson who produces trendy, fashionable toys in high volume. She views Suvaratika's philosophical approach as pretentious and her resistance to mass production as economically naive. The two have engaged in passive-aggressive competition for the same elite clientele.
 
 ### Affiliations
 
-The City Artisans' Shrena of Vedyara
+[The City Artisans' Shrena of Vedyara]{.name data-type="affiliation/guild"}
 : Suvaratika holds full membership and is respected for her commitment to craft standards, though her resistance to shrena efforts toward collective marketing and quicker output sometimes creates friction.
 
-The Order of Meghonata's Children
+[The Order of Meghonata's Children]{.name data-type="affiliation/order"}
 : A spiritual organization devoted to the storm-goddess that Suvaratika maintains loose affiliation with, viewing her creative work as part of a larger spiritual practice of world-making.
 
 ## Plot Hooks
@@ -517,13 +517,13 @@ The Impossible Commission
 : A foreign man of high rank, of wealth and eccentricity arrives in Vedyara seeking a bespoke toy of extraordinary specification—a mechanical marvel that will require Suvaratika to learn entirely new techniques, work with materials unfamiliar to her, and collaborate with specialized craftspeople. The commission offers enough wealth to transform her life, but accepting it would require abandoning her principles about what constitutes craft and working on a scale she has always resisted.
 
 The Inheritance of Legacy
-: A gifted young orphan, **Kavi**, arrives at Suvaratika's workshop seeking apprenticeship with a desperation born of need. Kavi is talented, dedicated, and seems to understand Suvaratika's philosophy instinctively—everything Suvaratika has always wanted in an apprentice. Yet accepting Kavi as an apprentice would require Suvaratika to overcome her fear of mentorship and face the vulnerability of truly teaching someone else. The relationship becomes transformative for both.
+: A gifted young orphan, **[Kavi]{.name data-type="being/npc"}**, arrives at Suvaratika's workshop seeking apprenticeship with a desperation born of need. Kavi is talented, dedicated, and seems to understand Suvaratika's philosophy instinctively—everything Suvaratika has always wanted in an apprentice. Yet accepting Kavi as an apprentice would require Suvaratika to overcome her fear of mentorship and face the vulnerability of truly teaching someone else. The relationship becomes transformative for both.
 
 The Scholarly Validation
 : Researchers from the House of Childhood Wisdom approach Suvaratika with a proposition: participate in a comprehensive academic study of her methods and philosophy, which would formalize her understanding of toy design and potentially lead to her work being studied in centers of learning across the known world. This offers her the legacy she seeks—but requires her to articulate and codify things she has always done intuitively, and to accept scrutiny of her work.
 
 The Accident and Aftermath
-: A child is injured while playing with one of Suvaratika's toys—not through any fault of design or craftsmanship, but through a unforeseen circumstance. The child's family sues for damages, and the city-states' legal system becomes involved. Suvaratika must defend both her work and her philosophy while confronting the reality that even the most carefully crafted object cannot prevent all harm. The trial becomes a referendum on the value of artisanship itself.
+: A child is injured while playing with one of Suvaratika's toys—not through any fault of design or craftsmanship, but through an unforeseen circumstance. The child's family sues for damages, and the city-states' legal system becomes involved. Suvaratika must defend both her work and her philosophy while confronting the reality that even the most carefully crafted object cannot prevent all harm. The trial becomes a referendum on the value of artisanship itself.
 
 The Expansion Dilemma
 : Arghika Ghotranyasa proposes that Suvaratika license her designs to mass producers, allowing her vision to reach thousands of children while generating passive income that would allow her to focus entirely on her most ambitious creative work. This offers everything Suvaratika has claimed to want—broader impact and financial security—yet accepting would mean surrendering control of her designs to commercial interests, seeing them manufactured cheaply, and fundamentally compromising her principles. Her decision forces her to confront what she actually values most: purity of craft or authentic impact.

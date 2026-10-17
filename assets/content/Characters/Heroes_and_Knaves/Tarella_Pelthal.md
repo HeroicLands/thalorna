@@ -423,13 +423,13 @@ sohl:
 
 ![[tarelblthl|Tárella Pelthal]]{float=top-left}
 
-Tárella stands 5'6" tall with a light build. She has light fair skin, dark brown hair, and blue eyes. Her features include a soft-featured face, a narrow nose, a gentle jawline, and dark brows.
+Tárella Pelthal stands 5'6" tall with a light build. She has light fair skin, dark brown hair, and blue eyes. Her features include a soft-featured face, a narrow nose, a gentle jawline, and dark brows.
 
 # Dossier {#dossier}
 
-Tárella Pelthal was born in a coastal trading city of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] to a merchant family with interests in maritime commerce. Her father, recognizing her aptitude for mathematics and observation, arranged for her to study with an aging astrologer named Meridian the Far-Seeing, a woman of considerable reputation who had been advisor to merchant captains and the kingdom's navies. Where others found astrology mystical and obscure, Tárella approached it as a complex system of pattern recognition and mathematical correlation—a way of reading the future through the language of stars, cycles, and celestial mechanics.
+Tárella Pelthal was born in a coastal trading city of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] to a merchant family with interests in maritime commerce. Her father, recognizing her aptitude for mathematics and observation, arranged for her to study with an aging astrologer named [Meridian the Far-Seeing]{.name data-type="being/npc"}, a woman of considerable reputation who had been advisor to merchant captains and the kingdom's navies. Where others found astrology mystical and obscure, Tárella approached it as a complex system of pattern recognition and mathematical correlation—a way of reading the future through the language of stars, cycles, and celestial mechanics.
 
-By her early twenties, Tárella had already surpassed most of her contemporaries in her understanding of nautical astrology, the specific practices of predicting weather patterns, tides, and journeys by sea. She began consulting for major merchant ventures and, eventually, for the Mariners' Guild itself. Her predictions—particularly regarding seasonal trade winds, storm patterns, and auspicious departure dates—became famous for their accuracy. An early mistake left a merchant vessel caught in an unexpected winter storm, resulting in significant loss of life. Though investigation showed the error was caused by the ship's captain ignoring her specific warnings, Tárella took the responsibility deeply to heart, and it has shaped her cautious, precise approach to her work ever since.
+By her early twenties, Tárella had already surpassed most of her contemporaries in her understanding of nautical astrology, the specific practices of predicting weather patterns, tides, and journeys by sea. She began consulting for major merchant ventures and, eventually, for the [Mariners' Guild of Port Aelion]{.name data-type="affiliation/guild"} itself. Her predictions—particularly regarding seasonal trade winds, storm patterns, and auspicious departure dates—became famous for their accuracy. An early mistake left a merchant vessel caught in an unexpected winter storm, resulting in significant loss of life. Though investigation showed the error was caused by the ship's captain ignoring her specific warnings, Tárella took the responsibility deeply to heart, and it has shaped her cautious, precise approach to her work ever since.
 
 At thirty-nine, she has become the preeminent astrological advisor for maritime concerns in Élavendre. She maintains a small study in the coastal city of [[place-portaelion|Port Aelion]], where merchants and captains come seeking her guidance on everything from trade route timing to the auspiciousness of various ventures. She has never married, dedicating herself entirely to her craft, though this has not prevented certain romantic complications from shaping her personal life.
 
@@ -483,24 +483,24 @@ Limited Combat Capability
 
 ### Patrons
 
-Merchant Prince Naldor Kardeth
+Merchant Prince [[being-naldorkardet|Naldor Kardeth]]
 : A wealthy trader whose fortune was significantly increased by consistently following Tárella's advice regarding trade routes and departure timing. He pays handsomely for her exclusive consultation and considers her his secret advantage against competitors.
 
-Captain-Commander Tenral Salthar
+Captain-Commander [[being-tenralsaltha|Tenral Salthar]]
 : The supreme naval commander of Élavendre's maritime forces, who employs Tárella for predictions regarding weather, enemy movements, and auspicious timing for naval operations. His trust in her has made her recommendations carry official weight.
 
-the Mariners' Guild Council
+the [Mariners' Guild Council]{.name data-type="affiliation"}
 : The official governing body of the guild that has engaged Tárella as the primary consultant for matters of celestial navigation and maritime astrology. They pay her retainer and frequently consult her on matters affecting guild interests.
 
-Scholar-Collector Lóriena Mírkelis
+Scholar-Collector [Lóriena Mírkelis]{.name data-type="being/npc"}
 : An elderly woman of learning who maintains a private library of rare astrological texts and who employs Tárella to help authenticate, organize, and study new acquisitions. Their relationship is more that of fellow scholars than of patron and adviser.
 
 ### Enemies
 
-Captain Tralkar Hérselnde
+Captain [[being-tralkarherse|Tralkar Hérselnde]]
 : A successful merchant captain who publicly blamed Tárella for the naval disaster that occurred when his ship ignored her warnings. Though investigation absolved her, Tralkar continues to view her as responsible for his lost crew and missing cargo. He actively spreads the story that her predictions are unreliable and that her caution is nothing more than excessive fear.
 
-Charlatan Astrologer Malachai the False
+Charlatan Astrologer [Malachai the False]{.name data-type="being/npc"}
 : A rival astrologer who employs theatrical presentation and ambiguous prophecy to charm wealthy clients. He views Tárella as a threat to his livelihood and has actively worked to undermine her credibility, spreading claims that her success is due to luck rather than skill.
 
 ### Affiliations
@@ -508,7 +508,7 @@ Charlatan Astrologer Malachai the False
 the Mariners' Guild of Port Aelion
 : The chief body governing maritime interests in the region. Tárella is an official advisor and maintains guild standing that enhances her credibility.
 
-the Aureldian Academy of Celestial Studies
+the [Aureldian Academy of Celestial Studies]{.name data-type="affiliation"}
 : A scholarly institution focused on the study of astrology and celestial mechanics. Though she operates independently, Tárella maintains membership and occasionally lectures there on maritime applications of her knowledge.
 
 ## Plot Hooks

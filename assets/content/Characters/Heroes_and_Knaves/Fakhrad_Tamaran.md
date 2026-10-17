@@ -425,7 +425,7 @@ sohl:
 
 ![[fakhrdtmrn|Fakhrad Tamaran]]{float=top-left}
 
-Fakhrad stands 5'11" tall with a medium build. He has tanned ruddy skin, jet black hair, and green eyes. His features include a long face, a long nose, an angular jawline, a firm-set mouth, prominent brows, sculpted cheeks. A distinguishing mark is a scar on the right hand.
+Fakhrad Tamaran stands 5'11" tall with a medium build. He has tanned ruddy skin, jet black hair, and green eyes. His features include a long face, a long nose, an angular jawline, a firm-set mouth, prominent brows, sculpted cheeks. A distinguishing mark is a scar on the right hand.
 
 # Dossier {#dossier}
 
@@ -481,32 +481,32 @@ Vulnerability to Temptation
 
 ### Patrons
 
-Farmer Torvan of the Eastern Fields
+Farmer [Torvan]{.name data-type="being/npc"} of the [Eastern Fields]{.name data-type="place/feature"}
 : A wealthy and influential grain merchant who has relied on Fakhrad's astronomical counsel for harvesting decisions for nearly two decades; Torvan actively defends Fakhrad against criticism.
 
 The Village Elders of [[place-sorvadakhend|Sorvadakhend]]
 : The collective leadership of a significant rural settlement maintains Fakhrad on retainer as their adviser regarding seasonal matters and longer-term planning.
 
-Merchant Caravan Master Yelmad
+Merchant Caravan Master [Yelmad]{.name data-type="being/npc"}
 : A trader who conducts seasonal journeys across the kingdom uses Fakhrad's predictions to time his routes and often brings news and new knowledge to the astrologer.
 
 ### Enemies
 
-Master Astrologer Navresh Tahvan
+Master Astrologer [Navresh Tahvan]{.name data-type="being/npc"}
 : A prominent court astrologer who views Fakhrad as a charlatan undoing the serious work of true scholars. Navresh has attempted to publicly discredit him on several occasions.
 
-Inquisitor Mazinan
+Inquisitor [[being-mazinanshirz|Mazinan Shirzari]]
 : A religious authority who sees Fakhrad's unconventional relationship with astronomical knowledge as heretical and has begun building a case against him.
 
-The Skeptical Merchants' Council
+[The Skeptical Merchants' Council]{.name data-type="affiliation"}
 : A faction of urban merchants who view Fakhrad's methods as superstition and actively work to undermine his reputation among those who might hire him.
 
 ### Affiliations
 
-Rural Astrologers' Circle
+[Rural Astrologers' Circle]{.name data-type="affiliation"}
 : Fakhrad maintains membership in this loose, informal association of practitioners who share his practical approach and his distance from academic establishments.
 
-The Herblore Practitioners' Guild
+[The Herblore Practitioners' Guild]{.name data-type="affiliation/guild"}
 : Though unofficial, he networks with other healers and herbalists who combine their knowledge with astronomical timing.
 
 ## Plot Hooks

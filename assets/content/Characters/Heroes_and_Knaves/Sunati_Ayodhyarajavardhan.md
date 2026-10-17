@@ -414,7 +414,7 @@ sohl:
 
 ![[sntydhyrjvrdhn|Sunati Jayarajavardana]]{float=top-left}
 
-Sunati stands 5'7" tall with a medium build. She has rich brown skin, black hair, and honey brown eyes. Her features include a soft-featured face, a rounded chin, elegantly curved brows, rounded cheeks.
+Sunati Jayarajavardana stands 5'7" tall with a medium build. She has rich brown skin, black hair, and honey brown eyes. Her features include a soft-featured face, a rounded chin, elegantly curved brows, rounded cheeks.
 
 # Dossier {#dossier}
 
@@ -422,7 +422,7 @@ Sunati stands 5'7" tall with a medium build. She has rich brown skin, black hair
 
 ### The House of Jayarajavardana
 
-Sunati was born into the **House of Jayarajavardana**, one of the city-states of [[affiliation-janpdsvdyr|Vedyara]]'s most prestigious courtier families. Her family has produced celebrated courtesans for four generations, each woman refined through intensive training in the arts of music, dance, conversation, and courtship. Rather than viewing this legacy as constraining, Sunati embraced it as her path to freedom—the courtier's trade being one of the few avenues through which women of Vedyara could accumulate wealth and independence.
+Sunati was born into the **[House of Jayarajavardana]{.name data-type="affiliation/lineage"}**, one of the most prestigious courtier families in the city-states of the [[place-vedyarargn|Vedyara Region]]. Her family has produced celebrated courtesans for four generations, each woman refined through intensive training in the arts of music, dance, conversation, and courtship. Rather than viewing this legacy as constraining, Sunati embraced it as her path to freedom—the courtier's trade being one of the few avenues through which women of Vedyara could accumulate wealth and independence.
 
 ### The Education
 
@@ -440,7 +440,7 @@ Now, at twenty-eight, Sunati has moved beyond simply accepting patronage to cont
 
 Sunati is a paradox: deeply known and hidden. She possesses warmth and affection for those in her circle, yet maintains absolute control over which aspects of herself she reveals. Her conversation is luminous with intelligence, humor, and insight—she is never merely decorative but always a presence that elevates any gathering. Yet this very excellence creates distance; most of those who encounter her are aware that what they are experiencing is, in some sense, a performance—exquisitely crafted, but performance nonetheless.
 
-She is introspective and melancholic when alone, prone to philosophical reflection on the nature of connection and authenticity. She practices the worship of Vyalendra, the creation-goddess, and views her work as a form of creation—the creation of beauty, meaning, and lasting experiences in the lives of those who seek her company. She is neither cynical nor naive about her work; she understands fully both its value and its limitations.
+She is introspective and melancholic when alone, prone to philosophical reflection on the nature of connection and authenticity. She practices the worship of [[lore-vyalendradty|Vyalendra]], the creation-goddess, and views her work as a form of creation—the creation of beauty, meaning, and lasting experiences in the lives of those who seek her company. She is neither cynical nor naive about her work; she understands fully both its value and its limitations.
 
 ### Motivation
 
@@ -463,7 +463,7 @@ Unarmed Combat and Concealed Weapons
 ### Weaknesses
 
 Emotional Vulnerability
-: The very sensitivity that makes her at understanding others makes her vulnerable to emotional manipulation. Real connection terrifies her because it threatens her carefully maintained control.
+: The very sensitivity that helps her understand others makes her vulnerable to emotional manipulation. Real connection terrifies her because it threatens her carefully maintained control.
 
 Social Stigma and Isolation
 : Despite her wealth and status, she is bound by the social position of her profession. She will never be accepted into the highest circles of respectability, and many wives of Kulinas view her with barely concealed hostility.
@@ -478,26 +478,26 @@ Ethical Complications
 
 ### Patrons
 
-Shroshtin Chandipala Vyavaharika
+Shroshtin [Chandipala Vyavaharika]{.name data-type="being/npc"}
 : A powerful trader in textiles and spices who has maintained a consistent patronage of Sunati for the past four years. Though he is married, his relationship with Sunati is explicitly financial and social rather than romantic. He values her counsel on matters of business and politics.
 
-The Council of Shreshthins
+[The Council of Shreshthins]{.name data-type="affiliation/governmental"}
 : Collectively, Sunati has been an informal consultant and companion to multiple members of Vedyara's ruling merchant council, making her privy to significant political and commercial secrets.
 
 ### Enemies
 
-Sharvi Kalanjanasundari
+[Sharvi Kalanjanasundari]{.name data-type="being/npc"}
 : A rival courtesan of equal talent who views Sunati as having stolen patrons and prestige that should rightfully be hers. Their competition is a matter of trade but bitter, and Sharvi has attempted various forms of sabotage and social exclusion.
 
-The Traditionalist Faction
+[The Traditionalist Faction]{.name data-type="affiliation"}
 : A coalition of religious conservatives in Vedyara who view courtesans as corrupting influences and have begun advocating for restrictions on their freedoms. Sunati has become their symbolic target.
 
 ### Affiliations
 
-The Circle of Free Courtesans
+[The Circle of Free Courtesans]{.name data-type="affiliation"}
 : An informal association of independent courtesans (as opposed to those bound to houses) who provide mutual support, share information about patrons, and collectively maintain standards. Sunati holds considerable influence within this circle.
 
-Worshippers of Vyalendra
+Worshippers of the [[affiliation-vyalendra|Vyalendra]] faith
 : While not formally organized, Sunati maintains connections with other devotees of the creation-goddess, viewing her work as a sacred practice of creation and meaning-making.
 
 ## Plot Hooks
@@ -506,7 +506,7 @@ The Dangerous Secret
 : A powerful client of a great house confesses to Sunati that he is planning to betray the merchant council in a trade agreement, with implications that could destabilize the entire city-state. He believes that his emotional intimacy with Sunati keeps her silent, but she is now caught between her loyalty to her patron system and knowledge of a conspiracy that could harm the city. Whom does she expose, and at what cost?
 
 The Authentic Connection
-: A scholar and philosopher, **the scholar and philosopher Kamasvamin Achorya**, begins visiting Sunati with no interest in the typical courtier-patron dynamic. Instead, he seeks conversation and intellectual companionship. For the first time in her life, Sunati encounters someone who seems interested in her authentic self rather than her performed self. This threatens everything she has built—because it forces her to confront what authenticity even means for someone whose life is fundamentally built on controlled performance.
+: A scholar and philosopher, **[Kamasvamin Achorya]{.name data-type="being/npc"}**, begins visiting Sunati with no interest in the typical courtier-patron dynamic. Instead, he seeks conversation and intellectual companionship. For the first time in her life, Sunati encounters someone who seems interested in her authentic self rather than her performed self. This threatens everything she has built—because it forces her to confront what authenticity even means for someone whose life is fundamentally built on controlled performance.
 
 The Rescue Unwanted
 : A young woman, barely twenty, is being groomed to enter the courtesan profession by coercive means rather than choice. She reaches out to Sunati, begging for help escaping her family's control. Saving her would expose Sunati to legal liability and could damage her reputation with the very clients whose patronage sustains her. Does she help, and if so, at what cost?

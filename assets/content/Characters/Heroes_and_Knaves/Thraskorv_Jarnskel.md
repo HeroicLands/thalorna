@@ -420,7 +420,7 @@ sohl:
 
 ![[thrskrvjrnskl|Thraskorv Jarnskel]]{float=top-left}
 
-Thraskorv stands 6'3" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an oval face, a narrow nose, a broad chin, a slightly downturned mouth, dark brows. A distinguishing mark is a scar on the right cheek.
+Thraskorv Jarnskel stands 6'3" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an oval face, a narrow nose, a broad chin, a slightly downturned mouth, dark brows. A distinguishing mark is a scar on the right cheek.
 
 # Dossier {#dossier}
 
@@ -428,17 +428,17 @@ Thraskorv stands 6'3" tall with a heavy build. He has tanned weathered skin, dar
 
 ### Born into Chains
 
-Thraskorv was born to unfreedom. His parents were thralls on the estate of **Jarl Hrandorv Hlirthendik**, a minor noble of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] whose lands produced little of value except grain and suffering. Thraskorv's father died when he was eight, worked to death in the harvest season, and his mother disappeared five years later—sold to another jarl to settle debts. From his earliest memory, Thraskorv knew only the rhythms of agricultural labor, the constant threat of punishment, and the weight of absolute powerlessness.
+Thraskorv was born to unfreedom. His parents were thralls on the estate of **Jarl [[being-hrandorvhlir|Hrandorv Hlirthendik]]**, a minor noble of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] whose lands produced little of value except grain and suffering. Thraskorv's father died when he was eight, worked to death in the harvest season, and his mother disappeared five years later—sold to another jarl to settle debts. From his earliest memory, Thraskorv knew only the rhythms of agricultural labor, the constant threat of punishment, and the weight of absolute powerlessness.
 
 ### The Stirring of Rebellion
 
-At seventeen, something broke inside Thraskorv. An overseer named **Gnaldrmil the Cruel** ordered him to work through a fever that nearly killed him, then beat him for slowing his pace. When Thraskorv recovered, he waited for his moment. One evening, he caught Gnaldrmil unaware and beat him so severely that the overseer never fully regained his faculties. The beating was attributed to bandits, but everyone knew the truth. Thraskorv received thirty lashes for the "suspicion" of involvement, and the scar on his cheek is a permanent reminder of his defiance—and the price of resistance.
+At seventeen, something broke inside Thraskorv. An overseer named **[Gnaldrmil the Cruel]{.name data-type="being/npc"}** ordered him to work through a fever that nearly killed him, then beat him for slowing his pace. When Thraskorv recovered, he waited for his moment. One evening, he caught Gnaldrmil unaware and beat him so severely that the overseer never fully regained his faculties. The beating was attributed to bandits, but everyone knew the truth. Thraskorv received thirty lashes for the "suspicion" of involvement, and the scar on his cheek is a permanent reminder of his defiance—and the price of resistance.
 
 Since that day, Thraskorv has been marked as a troublemaker, assigned the worst tasks, watched constantly. Yet his determination has only hardened. He studies the skills the jarl's farmhands use, learns metalworking from stolen time near the smithy, and practices with weapons whenever possible. He has spoken to other thralls about the possibility of escape, has learned the names of free peoples in distant lands, and has begun to believe that unfreedom is not inevitable.
 
 ### Present Bondage
 
-Now thirty-one years old, Thraskorv represents an unique threat to his masters—strong enough to be valuable, intelligent enough to be dangerous, and rebellious enough to be constantly suspect. Jarl Hrandorv would have sold him years ago, but Thraskorv's productivity remains too high to easily replace. Instead, he is watched, controlled, and kept perpetually on the edge of severe punishment. Yet something in his spirit remains unbroken.
+Now thirty-one years old, Thraskorv represents a unique threat to his masters—strong enough to be valuable, intelligent enough to be dangerous, and rebellious enough to be constantly suspect. Jarl Hrandorv would have sold him years ago, but Thraskorv's productivity remains too high to easily replace. Instead, he is watched, controlled, and kept perpetually on the edge of severe punishment. Yet something in his spirit remains unbroken.
 
 ## Psyche
 
@@ -446,7 +446,7 @@ Now thirty-one years old, Thraskorv represents an unique threat to his masters�
 
 Thraskorv is a man of contained fury and dangerous eloquence. He speaks little, having learned that words often precede punishment, but when he does speak, his observations cut through pretense with the clarity of a well-honed blade. He possesses a grim humor, finding dark comedy in the absurdity and cruelty of his situation. Those who know him well recognize that his silence masks an extraordinary mind—one that observes, catalogs, and strategizes constantly. He is not cruel by nature, and his anger is not misdirected at his fellow thralls; rather, it burns with singular focus toward his masters and the system that enslaves him.
 
-He is spiritually devoted to **Eidgar**, the god of order and law, though his faith has evolved into something complex and defiant. He believes that true order demands justice, and that the false order imposed by his enslavers is a perversion of divine law. He prays in secret, asking Eidgar to grant him strength and clarity, and to make him an instrument of the reordering that must come.
+He is spiritually devoted to **[[lore-eidgardty|Eidgar]]**, the god of order and law, though his faith has evolved into something complex and defiant. He believes that true order demands justice, and that the false order imposed by his enslavers is a perversion of divine law. He prays in secret, asking Eidgar to grant him strength and clarity, and to make him an instrument of the reordering that must come.
 
 ### Motivation
 
@@ -484,14 +484,14 @@ Dangerous Attention
 
 ### Patrons
 
-Thraskorv has no patrons in the traditional sense. His masters view him as property, not as a person worthy of patronage. However, a few figures in his world show him kindness: **Thilminda the Healer**, a free woman who treats thrall injuries in secret, has become a quiet ally. She provides him with medical care and information, though both know the risks of their contact. **Father Ralthann**, a traveling priest of Eidgar, once stayed at the estate and spoke with Thraskorv of divine justice—leaving him with a hidden talisman and words of encouragement that sustained him through dark years.
+Thraskorv has no patrons in the traditional sense. His masters view him as property, not as a person worthy of patronage. However, a few figures in his world show him kindness: **[Thilminda the Healer]{.name data-type="being/npc"}**, a free woman who treats thrall injuries in secret, has become a quiet ally. She provides him with medical care and information, though both know the risks of their contact. **Father [[being-ralthann|Ralthann]]**, a traveling priest of the [[affiliation-eidgar|Faith of Eidgar]], once stayed at the estate and spoke with Thraskorv of divine justice—leaving him with a hidden talisman and words of encouragement that sustained him through dark years.
 
 ### Enemies
 
 Jarl Hrandorv Hlirthendik
 : His nominal master, a man more interested in profit than cruelty, but nonetheless the embodiment of the system that enslaves him. Jarl Hrandorv views Thraskorv as a potentially valuable asset that is becoming too dangerous.
 
-Svilthmil, the New Overseer
+[[being-svilthmyl|Svilthmil]], the New Overseer
 : The replacement for Gnaldrmil, and no less cruel. Svilthmil treats Thraskorv with particular savagery, viewing him as a threat that must be constantly suppressed.
 
 The System Itself
@@ -507,13 +507,13 @@ The Chance of Escape
 : A merchant caravan arrives at the estate, and Thraskorv recognizes one of the drivers as a former thrall who achieved freedom. That night, he is offered an opportunity to escape—a hidden cart, a route to safety, and a life of freedom. But the escape would require leaving others behind, abandoning his dream of systematic change, and accepting that he alone survives while the system continues. His choice will define whether he is a revolutionary or a survivor.
 
 The Forbidden Education
-: **Halla Wordsmith**, an old slave brought to the estate, begins secretly teaching Thraskorv to read and write. If discovered, both would be executed. As Thraskorv's literacy grows, he begins to understand documents, ledgers, and correspondence—revealing corruption and cruelty that could be used as evidence. The knowledge becomes a weapon, but using it would require him to expose himself.
+: **[Halla Wordsmith]{.name data-type="being/npc"}**, an old slave brought to the estate, begins secretly teaching Thraskorv to read and write. If discovered, both would be executed. As Thraskorv's literacy grows, he begins to understand documents, ledgers, and correspondence—revealing corruption and cruelty that could be used as evidence. The knowledge becomes a weapon, but using it would require him to expose himself.
 
 The Raid of the Unfree
 : Rumors speak of a band of escaped thralls forming a guerrilla force in the mountain passes, striking at caravans and freeing enslaved peoples by force. They seek Thraskorv, believing his tactical mind and strength could transform their band from a nuisance into a threat. He is approached with an offer to join—but doing so would sign his death warrant if captured, and would violate the sacred law in ways that might curse him with Eidgar.
 
 The Jarl's Ambitious Son
-: Jarl Hrandorv's younger son, **Hlirthmil the Scholar**, returns from studies in distant cities with revolutionary ideas about agricultural reform and labor management. He views Thraskorv not as property but as a potential collaborator and teacher. His interest in Thraskorv is real but dangerous—it could lead either to transformation of the estate or to Thraskorv being executed as a corrupting influence on the heir.
+: Jarl Hrandorv's younger son, **[Hlirthmil the Scholar]{.name data-type="being/npc"}**, returns from studies in distant cities with revolutionary ideas about agricultural reform and labor management. He views Thraskorv not as property but as a potential collaborator and teacher. His interest in Thraskorv is real but dangerous—it could lead either to transformation of the estate or to Thraskorv being executed as a corrupting influence on the heir.
 
 The Slave's Justice
 : When a thrall woman is executed for theft (a piece of bread taken in desperation), Thraskorv reaches his breaking point. An opportunity presents itself: the evidence against her was falsified by the overseer in an act of personal cruelty. Thraskorv could expose this, potentially creating a legal precedent for thrall defense, but doing so would require him to become visible in the system—a move that would either destroy that system or destroy him.

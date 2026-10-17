@@ -424,11 +424,11 @@ sohl:
 
 ![[domthgrvth|Dometh Graveth]]{float=top-left}
 
-Dometh stands 5'11" tall with a heavy build. He has tanned weathered skin, greying black hair, and brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, and prominent brows. He has a tattoo of a snake on his chest.
+Dometh Graveth stands 5'11" tall with a heavy build. He has tanned weathered skin, greying black hair, and brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, and prominent brows. He has a tattoo of a snake on his chest.
 
 # Dossier {#dossier}
 
-Dometh was born to shipwrights in the coastal district of [[place-tarvenirgn|Tarvénia]], where the sea determines all things and timber is the only true currency. His father, **Master Toren Graveth**, was considered the kingdom's finest builder of ocean-going vessels, and Dometh inherited the trade and with it a philosophy of absolute dedication to the craft. For thirty-one years, Dometh worked beside his father, learning that ships are not products but living things—entities that must be honored, understood, and negotiated with rather than imposed upon.
+Dometh was born to shipwrights in the coastal district of the [[place-tarvenirgn|Tarvénia Region]], where the sea determines all things and timber is the only true currency. His father, **Master [Toren Graveth]{.name data-type="being/npc"}**, was considered the kingdom's finest builder of ocean-going vessels, and Dometh inherited the trade and with it a philosophy of absolute dedication to the craft. For thirty-one years, Dometh worked beside his father, learning that ships are not products but living things—entities that must be honored, understood, and negotiated with rather than imposed upon.
 
 When his father passed—drowning in the very sea that had always been his realm—Dometh inherited both his workshop and his reputation. Rather than expand or capitalize on his inheritance, he deliberately restricted his output, accepting only commissions that met his personal standards. Over the next two decades, he became known not for productivity but for creating ships of such durability and elegance that captains would wait years for a Graveth vessel and pay premiums without complaint.
 
@@ -444,7 +444,7 @@ Yet those rare individuals who have penetrated his reserve report discovering un
 
 ### Motivation
 
-Dometh is animated by a conviction that approaches religious fervor: that excellence in craft is an act of respect toward both the materials and the individuals who will depend upon the finished work. Every ship he builds is created with consciousness that it may carry families across treacherous waters, or carry merchants to distant lands, or serve warriors in naval warfare. To compromise on quality is to betray these people and dishonor the wood that gave its life to serve them. He builds as an act of devotion to **Ólvenia** and to the unspoken compact between craftsperson and world.
+Dometh is animated by a conviction that approaches religious fervor: that excellence in craft is an act of respect toward both the materials and the individuals who will depend upon the finished work. Every ship he builds is created with consciousness that it may carry families across treacherous waters, or carry merchants to distant lands, or serve warriors in naval warfare. To compromise on quality is to betray these people and dishonor the wood that gave its life to serve them. He builds as an act of devotion to the **[[affiliation-olvenia|Faith of Ólvenia]]** and to the unspoken compact between craftsperson and world.
 
 A deeper motivation underlies this: Dometh builds ships because they are permanent. In a world of flux and change, a well-built vessel can outlast nations, can be repaired and renewed for generations. In creating ships, he creates something that approaches immortality, and through these vessels, some fragment of himself will persist when he is dust.
 
@@ -474,7 +474,7 @@ Inflexible Quality Standards
 : His inability to compromise even when circumstances demand it has lost him major commissions and left him unable to adapt to changing market realities.
 
 Interpersonal Isolation
-: His distance from human connection and inability to engage in political or social maneuvering has left him without powerful patrons or allies in the Shipwrights' Guild.
+: His distance from human connection and inability to engage in political or social maneuvering has left him without powerful patrons or allies in the [Coastal Shipwrights' Guild]{.name data-type="affiliation/guild"}.
 
 Age and Declining Capacity
 : Physical decline has begun to manifest—his hands occasionally tremble, his stamina has diminished, and he is acutely aware that his working life is entering its final chapter.
@@ -486,21 +486,21 @@ Unwillingness to Delegate
 
 ### Patrons
 
-Captain-Admiral Brazema
+Captain-Admiral [[being-brazemabetsu|Brazema Betsuris]]
 : A celebrated naval commander who has commissioned multiple vessels from Dometh over two decades and would speak of his craftsmanship as the only reason certain campaigns succeeded.
 
-Lin'Zuwaret elu Au'Khelathu of Tarvénia's Harbor
+[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]] of Tarvénia's Harbor
 : A collective of wealthy traders who have maintained standing orders for Graveth vessels despite the expense and delays, understanding that his ships provide competitive advantages that justify premium pricing.
 
-Priestess-Keeper Thélvara of Ólvenia's Temple
+Priestess-Keeper [[being-thelvaravolk|Thélvara Volkemis]] of Ólvenia's Temple
 : The keeper of the ocean-goddess's temple considers Dometh's work a form of worship and sees to it that the temple's ships are always commissioned from him, providing him with steady work during lean years.
 
 ### Enemies
 
-Master-Craftsman Tazek the Swift
+Master-Craftsman [Tazek the Swift]{.name data-type="being/npc"}
 : A rival shipwright who has built his reputation on fast, cheap construction and views Dometh's premium work as market distortion; Tazek actively spreads rumors that Graveth vessels are overpriced relics and works to capture Dometh's would-be customers.
 
-The Merchant's Association Reform Faction
+[The Merchant's Association Reform Faction]{.name data-type="affiliation"}
 : A segment of the merchant class seeking to modernize and standardize shipbuilding practices views Dometh's stubborn individualism as an impediment to progress and has launched campaigns to discredit him.
 
 ### Affiliations
@@ -508,16 +508,16 @@ The Merchant's Association Reform Faction
 Coastal Shipwrights' Guild
 : Nominally a member, though increasingly at odds with the guild's direction toward industrialized production.
 
-The Keepers of Ólvenia's Temple
+The keepers of Ólvenia's temple
 : Informal but deep connection through shared devotion to the prosperity-goddess and reverence for maritime traditions.
 
 ## Plot Hooks
 
 The Impossible Commission
-: The Kingdom of Tarvénia's young crown-prince arrives unannounced at Dometh's workshop with a proposition: build a warship unlike any constructed before, incorporating advanced design principles that the prince has been researching in secret. The design contradicts everything Dometh has learned about proper shipbuilding—it seems reckless, wrong, ultimately doomed. Yet the prince claims the design comes from ancient manuscripts and is desperately needed to counter a naval threat from abroad. Either Dometh violates his principles on the prince's assurance of authenticity, or he refuses and potentially dooms the kingdom to naval defeat.
+: The [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]'s young crown-prince arrives unannounced at Dometh's workshop with a proposition: build a warship unlike any constructed before, incorporating advanced design principles that the prince has been researching in secret. The design contradicts everything Dometh has learned about proper shipbuilding—it seems reckless, wrong, ultimately doomed. Yet the prince claims the design comes from ancient manuscripts and is desperately needed to counter a naval threat from abroad. Either Dometh violates his principles on the prince's assurance of authenticity, or he refuses and potentially dooms the kingdom to naval defeat.
 
 The Ghost Ship's Resurrection
-: A famed vessel known as the **Stormchaser**, reputed to be a Graveth masterpiece built by his father, has been discovered wrecked on a remote coast. The king offers Dometh an extraordinary sum to restore it to seaworthiness. The voyage to the wreck is itself dangerous, but the greater complication emerges when Dometh discovers that the ship bears evidence of deliberate sabotage—someone destroyed it with calculated intent. As he begins restoration, he uncovers a pattern: multiple Graveth vessels have been systematically destroyed over the past decades, suggesting that someone harbors an ancient vendetta against his family.
+: A famed vessel known as the **[Stormchaser]{.name data-type="vehicle"}**, reputed to be a Graveth masterpiece built by his father, has been discovered wrecked on a remote coast. The king offers Dometh an extraordinary sum to restore it to seaworthiness. The voyage to the wreck is itself dangerous, but the greater complication emerges when Dometh discovers that the ship bears evidence of deliberate sabotage—someone destroyed it with calculated intent. As he begins restoration, he uncovers a pattern: multiple Graveth vessels have been systematically destroyed over the past decades, suggesting that someone harbors an ancient vendetta against his family.
 
 The Timber's Curse
 : A merchant brings Dometh the wood from an ancient temple—supposedly the finest timber in the kingdom, capable of creating an extraordinary vessel. But Dometh discovers that the wood is haunted, or cursed, or somehow spiritually compromised. Every ship built from this timber has been lost at sea with all hands. Despite the timber's quality and the merchant's desperation and substantial payment offer, accepting it would violate everything Dometh believes about honoring his craft. Yet refusing means condemning the wood to burning, destroying something precious, and losing the commission that might sustain him through several lean years.

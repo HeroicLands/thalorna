@@ -415,21 +415,21 @@ sohl:
 
 ![[raiaquuznera|Raiaku Uzner'Au]]{float=top-left}
 
-Raiaku stands 6'0" tall with a heavy build. He has ebony skin, greying black hair, and brown eyes. His features include a diamond-shaped face, a slightly arched nose, a narrow chin, well-shaped lips, and arched brows.
+Raiaku Uzner'Au stands 6'0" tall with a heavy build. He has ebony skin, greying black hair, and brown eyes. His features include a diamond-shaped face, a slightly arched nose, a narrow chin, well-shaped lips, and arched brows.
 
 # Dossier {#dossier}
 
 **Early Mastery**
 
-Raiaku was born into the Zekmeta family, a lineage whose name had been whispered among the smiths and bladewrights of the Empire of [[affiliation-empireakhlth|Au'Khelathu]] for three generations. His father, [[being-zekenarezkmt|Zekenare Zekmeta]], was himself a craftsman of note, and from age seven, young Raiaku spent every waking hour in the workshop, learning the sacred geometry of tempering and the ancient songs the smiths sang to guide their hammer strikes. By his twentieth year, he had surpassed his father in technique, earning the notice of the city's noble houses and the military's elite orders.
+Raiaku was born into the [Zekmeta family]{.name data-type="affiliation/lineage"}, a lineage whose name had been whispered among the smiths and bladewrights of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] for three generations. His father, [[being-zekenarezkmt|Zekenare Zekmeta]], was himself a craftsman of note, and from age seven, young Raiaku spent every waking hour in the workshop, learning the sacred geometry of tempering and the ancient songs the smiths sang to guide their hammer strikes. By his twentieth year, he had surpassed his father in technique, earning the notice of the city's noble houses and the military's elite orders.
 
 **The Guild and Renown**
 
-Four decades of painstaking work transformed Raiaku from a talented artisan into the preeminent weaponcrafter of Au'Khelathu. He joined the City Blacksmiths' Guild and became its conscience—enforcing standards that others found restrictive, insisting that every blade bear the mark of perfection or bear no mark at all. His refusal to compromise for profit or pressure has earned him the loyalty of those who commission his work and the enmity of competitors whose inferior craft he openly disdains. As a man of faith, he dedicates every seventh day's work to Uzn'era, goddess of fertility and renewal, believing that the strength in his blades comes ultimately from divine blessing.
+Four decades of painstaking work transformed Raiaku from a talented artisan into the preeminent weaponcrafter of Au'Khelathu. He joined [[affiliation-linmelnglzkr|Lin'Melnu elu Galezkara]], the City Blacksmiths' Guild, and became its conscience—enforcing standards that others found restrictive, insisting that every blade bear the mark of perfection or bear no mark at all. His refusal to compromise for profit or pressure has earned him the loyalty of those who commission his work and the enmity of competitors whose inferior craft he openly disdains. As a man of faith, he dedicates every seventh day's work to [[lore-uzneradty|Uzn'era]], goddess of fertility and renewal, believing that the strength in his blades comes ultimately from divine blessing.
 
 **The Present Master**
 
-Now at fifty-five, Raiaku operates from his spacious forge near the Temple Quarter, where nobles and generals still journey to commission arms of the finest quality. Though he moves with slightly less speed than in his youth, his accumulated knowledge and exactness of hand have only deepened. He trains a handful of apprentices—a privilege he grants rarely and only to those of rare character and aptitude. He lives modestly, pouring his considerable wealth back into his craft: acquiring rare metals, paying for trials of new tempering techniques, and collecting the finest whetstones and tools available across the known world.
+Now at fifty-five, Raiaku operates from his spacious forge near the [Temple Quarter]{.name data-type="place/site"}, where nobles and generals still journey to commission arms of the finest quality. Though he moves with slightly less speed than in his youth, his accumulated knowledge and exactness of hand have only deepened. He trains a handful of apprentices—a privilege he grants rarely and only to those of rare character and aptitude. He lives modestly, pouring his considerable wealth back into his craft: acquiring rare metals, paying for trials of new tempering techniques, and collecting the finest whetstones and tools available across the known world.
 
 ## Psyche
 
@@ -455,7 +455,7 @@ Deep Knowledge
 : Beyond metalcraft, Raiaku possesses deep knowledge of geology, mineral composition, weapon design principles, and the historical techniques of ancient masters—knowledge accumulated across five decades of intensive study.
 
 Ritual Expertise
-: His devotion to Uzn'era has made him skilled in ceremonial craft and ritual metalworking; weapons blessed through his hands are said to carry divine favor.
+: His devotion to the [[affiliation-uznera|Faith of Uzn'era]] has made him skilled in ceremonial craft and ritual metalworking; weapons blessed through his hands are said to carry divine favor.
 
 Leadership and Command
 : Despite his age, Raiaku commands immediate respect and loyalty from those in his sphere, acting as a moral anchor and arbiter in disputes among craftspeople.
@@ -481,13 +481,13 @@ Vulnerability to Manipulation
 
 ### Patrons
 
-Lord Commander Gari
+Lord Commander [[being-gariazletqut|Gari Azlet'Kutu]]
 : The military's chief weapons officer who commissions custom arms for elite guard units and prestigious officer candidates. He trusts Raiaku implicitly and often vouches for the smith's uncompromising standards to impatient nobles.
 
-The Gar-Gul'Thakétu
+The [[affiliation-gargulthaket|Gar-Gul'Thakétu]]
 : A noble family known for their warrior traditions; Raiaku has forged the ancestral blades of this house for thirty years, creating works that are as much heirloom as weapon.
 
-Master Architect Mathaku
+Master Architect [[being-zezabu2|Mathaku]]
 : A celebrated builder and engineer who has learned to commission weapons of precise specifications that align with his exacting vision; he respects Raiaku as a peer in the pursuit of structural perfection.
 
 Captain [[being-thema2|Thema]]
@@ -495,10 +495,10 @@ Captain [[being-thema2|Thema]]
 
 ### Enemies
 
-Theqas the Swift
+[Theqas the Swift]{.name data-type="being/npc"}
 : A rival blacksmith of middling talent who has built a lucrative business by undercutting Raiaku's prices and using mass production techniques. Raiaku openly denounces his work as dangerous and inferior, damaging Theqas's reputation among informed patrons.
 
-The Foundry Collective
+[The Foundry Collective]{.name data-type="affiliation/guild"}
 : A guild of lesser smiths operating on the city's southern dock, jealous of Raiaku's prestige and monopoly on high-profile commissions. They have attempted to spread rumors that his age is affecting his work quality.
 
 Lord [[being-lekhebur2|Lekhebur]]

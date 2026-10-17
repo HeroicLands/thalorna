@@ -417,7 +417,7 @@ sohl:
 
 ![[arkhekrkss|Arkhea Kourkásios]]{float=top-left}
 
-Arkhea stands 5'5" tall with a scant build. She has pale weathered and wrinkled skin, grey hair, and brown eyes. Her features include a long face, an aquiline nose, a pronounced chin, slightly pursed lips, thick dark brows. A distinguishing mark is a limp.
+Arkhea Kourkásios stands 5'5" tall with a scant build. She has pale weathered and wrinkled skin, grey hair, and brown eyes. Her features include a long face, an aquiline nose, a pronounced chin, slightly pursed lips, thick dark brows. A distinguishing mark is a limp.
 
 # Dossier {#dossier}
 
@@ -485,29 +485,29 @@ Accumulated Trauma
 
 ### Patrons
 
-Mother Superior Hezogeze Sogipidek of the House of Lizelas
+Mother Superior [[being-hezogezesogi|Hezogeze Sogipidek]] of the [House of Lizelas]{.name data-type="affiliation"}
 : The abbess of a local convent dedicated to fertility, growth, and mercy periodically provides shelter and food to Arkhea. They share a spiritual understanding despite their vastly different circumstances.
 
-Merchant's Widow Kraria Margikos
+Merchant's Widow [Kraria Margikos]{.name data-type="being/npc"}
 : A wealthy woman whose sense of guilt over her comfortable life occasionally manifests as support for street-dwellers. She knows Arkhea by name and sometimes provides coin or shelter.
 
-Young Scholar Dmitris
+Young Scholar [Dmitris]{.name data-type="being/npc"}
 : A university student who trades philosophical conversation and occasional bread for Arkhea's stories and hard-won wisdom about the human condition.
 
 ### Enemies
 
-The Brass Knuckles
-: A crew of street thugs led by a brutal enforcer named **Rahvárion** who run extortion rackets against beggars. They have beaten Arkhea multiple times for "protection" money she could not pay.
+[The Brass Knuckles]{.name data-type="affiliation/criminal"}
+: A crew of street thugs led by a brutal enforcer named **[Rahvárion]{.name data-type="being/npc"}** who run extortion rackets against beggars. They have beaten Arkhea multiple times for "protection" money she could not pay.
 
-Zerarzan
+[Zerarzan]{.name data-type="being/npc"}
 : An official who views beggars as urban blight to be removed. He has had Arkhea arrested multiple times for vagrancy, each arrest more brutal than the last.
 
 ### Affiliations
 
-The Unseen Community
+[The Unseen Community]{.name data-type="affiliation"}
 : Arkhea is an elder figure among the city's street-dwellers, respected for her longevity and wisdom.
 
-The Order of Lizelas (Fertility Aspect)
+The [[affiliation-lizelas|Faith of Lizelas]] (Fertility Aspect)
 : Despite her poverty, she maintains spiritual practice and occasional participation in informal worship gatherings.
 
 ## Plot Hooks
@@ -519,7 +519,7 @@ The Overheard Secret
 : While sitting unnoticed in a merchant house vestibule, Arkhea overhears a conspiracy involving poisoning of a city official. She knows enough to recognize the plot but is trapped in the terrible position of having evidence that no one would believe a beggar could possess. She must find a way to warn the target without exposing the conspiracy to those who would use it for their own purposes.
 
 The Lost Apprentice
-: A young merchant's apprentice, **Shahrikos**, confides in Arkhea that he has witnessed his master murdering a rival. The boy is paralyzed by fear—coming forward would mean losing his livelihood and possibly his life. Arkhea must decide whether to help expose the crime, knowing that her involvement would never actually be believed, or help the boy escape with his conscience intact.
+: A young merchant's apprentice, **[Shahrikos]{.name data-type="being/npc"}**, confides in Arkhea that he has witnessed his master murdering a rival. The boy is paralyzed by fear—coming forward would mean losing his livelihood and possibly his life. Arkhea must decide whether to help expose the crime, knowing that her involvement would never actually be believed, or help the boy escape with his conscience intact.
 
 The Curse in the Beggar's Market
 : A strange illness begins spreading through the beggar community—victims fall into delirium and fever. Arkhea, with her knowledge of herbalism and her network of invisible informants, begins to suspect the illness is no accident but deliberate poisoning. She must investigate without drawing the attention of authorities who would blame the victims rather than seek justice for them.

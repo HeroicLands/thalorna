@@ -419,7 +419,7 @@ sohl:
 
 ![[morzhrxylkt|Morzáhr Zilakit]]{float=top-left}
 
-Morzáhr stands 6'3" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a prominent nose, a pointed chin, an expressive mouth, dark brows.
+Morzáhr Zilakit stands 6'3" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a prominent nose, a pointed chin, an expressive mouth, dark brows.
 
 # Dossier {#dossier}
 
@@ -427,7 +427,7 @@ Morzáhr stands 6'3" tall with a heavy build. He has tanned weathered skin, dark
 
 ### The Woodwright's Inheritance
 
-Morzáhr was born into the Zilakit family timber operation, one of three sons destined to carry on the craft that had sustained the family for five generations. Unlike his brothers, who sought advancement through the merchants' guilds and political connections, young Morzáhr felt most at home among the ancient forests of the Bizarian League's northern reaches. His father recognized in him a purity of purpose—the boy did not work with wood to gain wealth or status, but because the work itself called to something fundamental in his nature. By his twentieth year, Morzáhr had already become known as a master of felling technique, able to read a tree's grain and structure to predict how it would fall with uncanny precision.
+Morzáhr was born into the [Zilakit family]{.name data-type="affiliation/lineage"} timber operation, one of three sons destined to carry on the craft that had sustained the family for five generations. Unlike his brothers, who sought advancement through the merchants' guilds and political connections, young Morzáhr felt most at home among the ancient forests of the [[affiliation-byzarianlg|Bizarian League]]'s northern reaches. His father recognized in him a purity of purpose—the boy did not work with wood to gain wealth or status, but because the work itself called to something fundamental in his nature. By his twentieth year, Morzáhr had already become known as a master of felling technique, able to read a tree's grain and structure to predict how it would fall with uncanny precision.
 
 ### The Catastrophe and Reclamation
 
@@ -485,34 +485,34 @@ Limited Combat Ability
 
 ### Patrons
 
-Master Castellan Atashikon
+Master Castellan [Atashikon]{.name data-type="being/npc"}
 : The governor of the northern territories values Morzáhr's timber for both fortification work and shipbuilding, and tacitly protects him from guild persecution in exchange for preferential contracts.
 
-Lady Serena of House Thálassos
+Lady [Serena]{.name data-type="being/npc"} of [House Thálassos]{.name data-type="affiliation/lineage"}
 : A wealthy widow who has commissioned Morzáhr to restore and rebuild her ancestral estate using only timber that meets his exacting standards, earning his respect through her patience and refusal to rush his work.
 
 ### Enemies
 
-The Zilakit Family Enterprise
+[The Zilakit Family Enterprise]{.name data-type="affiliation/venture"}
 : His own blood relatives, now wealthy guild magnates, view him as both a moral rebuke and an economic competitor whose existence challenges their monopoly on timber contracts.
 
-Guild Master Frolázira Fabidek
-: The current head of the Timberwrights' Guild marked Morzáhr for subtle destruction long ago; his independent success is an open wound to guild authority and profit.
+Guild Master [[being-frolazirafab|Frolázira Fabidek]]
+: The current head of [The Timberwrights' Guild]{.name data-type="affiliation/guild"} marked Morzáhr for subtle destruction long ago; his independent success is an open wound to guild authority and profit.
 
 ### Affiliations
 
 The Timberwrights' Guild
 : (estranged member): Though technically still registered, he operates independently and refuses all guild obligations and contracts.
 
-The Order of the Green Sentinel
+[The Order of the Green Sentinel]{.name data-type="affiliation"}
 : An informal network of environmentally-minded craftspeople and forest wardens who share his philosophy of sustainable harvesting.
 
-The Independent Craftspeople's League
+[The Independent Craftspeople's League]{.name data-type="affiliation"}
 : A loose alliance of artisans who have separated from guild control to maintain quality and principle.
 
 ## Plot Hooks
 
-The Ancient Wood of Akkrath
+The Ancient Wood of [Akkrath]{.name data-type="place"}
 : A caravan is assembling to journey to the deep forests of Akkrath, where a tree of impossible age and size is said to grow—wood so rare and perfect that a single beam could forge a weapon or construct an artifact of power. Morzáhr is the only master timberwright with the skill to harvest it without destroying its inherent magical properties, but accepting such a commission would require him to venture into unexplored wilderness while working with a party of adventurers who may not share his values. The journey itself becomes a test of whether his principles can survive contact with temptation.
 
 The Guild's Conspiracy

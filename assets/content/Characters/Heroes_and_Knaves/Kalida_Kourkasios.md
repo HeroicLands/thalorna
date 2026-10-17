@@ -420,11 +420,11 @@ sohl:
 
 ![[kalidkrkss|Kalida Kourkásios]]{float=top-left}
 
-Kalida stands 5'7" tall with a light build. She has light tanned skin, black hair, and green eyes. Her features include a narrow face, a aquiline nose, a pronounced chin, slightly pursed lips, strong brows.
+Kalida Kourkásios stands 5'7" tall with a light build. She has light tanned skin, black hair, and green eyes. Her features include a narrow face, an aquiline nose, a pronounced chin, slightly pursed lips, strong brows.
 
 # Dossier {#dossier}
 
-Born to the Kourkásios family, prosperous wine merchants of the Bizarian League, Kalida was expected to marry advantageously and manage household affairs. Instead, at age sixteen, she became obsessed with the ancient pottery techniques of the Old Kingdom, studying under the aging master potter **Timolkar the Glazemaster** against her family's wishes. Her early works were technically flawless but cold, perfect imitations of classical forms. The true breakthrough came when a kiln fire damaged a batch of her work, causing the glazes to run and blend in unexpected ways—what she initially saw as catastrophic failure became the seed of her revolutionary technique.
+Born to the [Kourkásios family]{.name data-type="affiliation/lineage"}, prosperous wine merchants of the [[affiliation-byzarianlg|Bizarian League]], Kalida was expected to marry advantageously and manage household affairs. Instead, at age sixteen, she became obsessed with the ancient pottery techniques of the [Old Kingdom]{.name data-type="affiliation/polity"}, studying under the aging master potter **[Timolkar the Glazemaster]{.name data-type="being/npc"}** against her family's wishes. Her early works were technically flawless but cold, perfect imitations of classical forms. The true breakthrough came when a kiln fire damaged a batch of her work, causing the glazes to run and blend in unexpected ways—what she initially saw as catastrophic failure became the seed of her revolutionary technique.
 
 Within five years, her work had become known throughout the League and beyond. She established her own atelier, deliberately choosing a studio in the artisan quarter rather than accepting wealthy patronage that would have confined her. At twenty-nine, she has amassed a small fortune from commissions, though she pours most of her earnings back into experimentation and materials. Her greatest achievement is the development of a novel glaze formula that achieves unprecedented depth of color and a liquid-like quality that appears to move across the vessel's surface.
 
@@ -432,7 +432,7 @@ Within five years, her work had become known throughout the League and beyond. S
 
 ### Personality
 
-Kalida is animated and vivacious in social settings, with a charm that is entirely rather than calculated. She is quick to laugh, passionate in her enthusiasms, and interested in people—particularly in understanding what drives them. However, beneath this warmth lies an ambitious core; she carefully cultivates relationships with wealthy collectors and influential patrons, always conscious of how each connection might serve her artistic vision. She is not cold or manipulative, but rather pragmatically aware that artistic genius alone does not guarantee success or resources.
+Kalida is animated and vivacious in social settings, with a charm that is not calculated. She is quick to laugh, passionate in her enthusiasms, and interested in people—particularly in understanding what drives them. However, beneath this warmth lies an ambitious core; she carefully cultivates relationships with wealthy collectors and influential patrons, always conscious of how each connection might serve her artistic vision. She is not cold or manipulative, but rather pragmatically aware that artistic genius alone does not guarantee success or resources.
 
 In her studio, she is a different person—intensely focused, sometimes to the point of losing track of time and neglecting sleep and meals. She can become frustrated when work does not match her mental vision, and her perfectionism occasionally manifests as harsh self-criticism. Yet these moments pass quickly, and she possesses a rare ability to laugh at her own failures and treat them as learning opportunities.
 
@@ -478,10 +478,10 @@ Weak Combat Skills
 
 ### Patrons
 
-Lord Arsir Krorighos Gharazur
+Lord Arsir [[being-krorighosgha|Krorighos Gharazur]]
 : A wealthy collector and patron of the arts who has commissioned several major pieces and provides her with occasional capital for experiments.
 
-The Bizarian Merchant Consortium
+[The Bizarian Merchant Consortium]{.name data-type="affiliation/venture"}
 : Her family's organization, which, despite initial disapproval, now takes pride in her success and occasionally sponsors commissions for diplomatic gifts.
 
 Master Timolkar
@@ -489,18 +489,18 @@ Master Timolkar
 
 ### Enemies
 
-The Conservative Artisans' Guild Faction
+[The Conservative Artisans' Guild Faction]{.name data-type="affiliation"}
 : Traditional potters view her revolutionary techniques as a threat to established standards and have worked to exclude her from certain prestigious exhibitions.
 
-Rival Artist Andronash
+Rival Artist [Andronash]{.name data-type="being/npc"}
 : A jealous sculptor who was once romantically involved with Kalida and now actively spreads rumors about her methods being "mere trickery" rather than true art.
 
 ### Affiliations
 
-The Artisans' Guild of Bizaria
+[The Artisans' Guild of Bizaria]{.name data-type="affiliation/guild"}
 : Despite occasional friction with traditionalists, she maintains official membership and participates in guild exhibitions.
 
-The Circle of Innovators
+[The Circle of Innovators]{.name data-type="affiliation"}
 : A loose association of artists, craftspeople, and patrons committed to new techniques and challenging classical orthodoxy.
 
 ## Plot Hooks

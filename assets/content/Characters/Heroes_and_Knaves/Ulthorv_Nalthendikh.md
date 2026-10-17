@@ -426,7 +426,7 @@ sohl:
 
 ![[ulthrvnlthndkh|Ulthorv Nalthendik]]{float=top-left}
 
-Ulthorv stands 6'1" tall with a medium build. He has tanned ruddy skin, grey hair, and blue eyes. His features include an angular face, a slightly upturned nose, an angular jawline, narrow lips, thick brows, and hollow cheeks. He has a tattoo of a tiger on his forearm.
+Ulthorv Nalthendik stands 6'1" tall with a medium build. He has tanned ruddy skin, grey hair, and blue eyes. His features include an angular face, a slightly upturned nose, an angular jawline, narrow lips, thick brows, and hollow cheeks. He has a tattoo of a tiger on his forearm.
 
 # Dossier {#dossier}
 
@@ -482,13 +482,13 @@ None formally, though older miners and fellow laborers view him as a de facto le
 
 ### Enemies
 
-Overseer Knalthira the Merciless
+Overseer [[being-knalthyrathe|Knalthira the Merciless]]
 : The brutal taskmaster directly responsible for most of Ulthorv's torments. Knalthira takes personal pleasure in crushing the spirit of the enslaved and has specifically targeted Ulthorv for additional punishment because of his refusal to break.
 
-Lord Magistrate Gnarthorv
+Lord Magistrate [[being-gnarthorv|Gnarthorv]]
 : The corrupt official who orchestrated Ulthorv's enslavement, initially to silence him about the tunnel collapse, and who now maintains vested financial interest in keeping him enslaved and controllable.
 
-The Nordheim Mining Consortium
+[The Nordheim Mining Consortium]{.name data-type="affiliation/venture"}
 : The collective enterprise that profits from slave labor and has institutional interest in maintaining Ulthorv's subjugation.
 
 ### Affiliations
@@ -505,10 +505,10 @@ The Tunnel Collapse Opportunity
 : - Ulthorv discovers evidence of structural weakness in one of the primary mine shafts—the very same tunnel system used by the overseers for quick movement and treasure transport. He realizes that a deliberate collapse at exactly the right moment could cut off the guards' retreat route, but it would also risk the lives of enslaved workers still in the upper levels. He can attempt a mass breakout despite the danger, or wait for a less risky opportunity that might never come.
 
 The Visiting Dignitary's Judgment
-: - A representative from Nordheim's central government arrives to conduct an "inspection" of the mines. Ulthorv recognizes that this could be his single opportunity to formally present evidence of corruption and illegal enslavement—if he can reach the dignitary and convince them of the truth without being silenced first. The risk is enormous: if **Lord Magistrate Gnarthorv** learns of his intentions, Ulthorv might "disappear" into the deep mines permanently. His companions can help him stage a desperate appeal to authority or push for a more violent solution.
+: - A representative from the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]'s central government arrives to conduct an "inspection" of the mines. Ulthorv recognizes that this could be his single opportunity to formally present evidence of corruption and illegal enslavement—if he can reach the dignitary and convince them of the truth without being silenced first. The risk is enormous: if **Lord Magistrate Gnarthorv** learns of his intentions, Ulthorv might "disappear" into the deep mines permanently. His companions can help him stage a desperate appeal to authority or push for a more violent solution.
 
 The Revolution in the Depths
-: - Other enslaved groups in nearby mines begin coordinating, inspired by rumors of Ulthorv's unbreakable spirit and refusals to submit. A charismatic escaped slave named **Ketta Frostborn** contacts him with a plan: coordinate a simultaneous uprising across multiple mines to overwhelm the guards through sheer numbers. Ulthorv must weigh the possibility of liberation for thousands against the near-certainty that the attempt will be crushed and thousands will die in the attempt.
+: - Other enslaved groups in nearby mines begin coordinating, inspired by rumors of Ulthorv's unbreakable spirit and refusals to submit. A charismatic escaped slave named **[Ketta Frostborn]{.name data-type="being/npc"}** contacts him with a plan: coordinate a simultaneous uprising across multiple mines to overwhelm the guards through sheer numbers. Ulthorv must weigh the possibility of liberation for thousands against the near-certainty that the attempt will be crushed and thousands will die in the attempt.
 
 The Artifact in the Deep
 : - Miners working in the deepest levels uncover something extraordinary—the ruins of an ancient dwarven structure, far older than the current mines, containing artifacts and knowledge that could reshape the politics of Nordheim. Both adventurers seeking treasure and government forces seeking to contain dangerous knowledge converge on the location. Ulthorv finds himself at the center of competing factions, each wanting to use him either as a laborer or as a tool. His knowledge of the deep tunnels makes him necessary to all of them, forcing him to decide which faction, if any, might represent his path to freedom—or whether freedom lies only in seizing control of the discovery for himself.

@@ -412,17 +412,17 @@ sohl:
 
 ![[grmdnshrndns|Goremadanis Herendanis]]{float=top-left}
 
-Goremadanis stands 5'8" tall with a medium build. She has light olive skin, light brown hair, and brown eyes. Her features include a diamond-shaped face, an aquiline nose, a sharp jawline, an expressive mouth, light brows, high cheeks.
+Goremadanis Herendanis stands 5'8" tall with a medium build. She has light olive skin, light brown hair, and brown eyes. Her features include a diamond-shaped face, an aquiline nose, a sharp jawline, an expressive mouth, light brows, high cheeks.
 
 # Dossier {#dossier}
 
 **Orphaned Beginnings**
 
-Goremadanis was born to a sailor's widow in the port city of [[place-mercavia|Delalara]] in the [[affiliation-vylarinmpr|Empire of Vylaria]]. Her mother, a former ship's cook, died of lung fever when **Goremadanis** was only seven summers old, leaving her alone and resourceless in a city where orphans had few options beyond servitude or thievery. A kindly captain named **Nebralen Elthezis** found her stealing bread from the docks and, instead of turning her in to the city watch, offered her work aboard his merchant vessel—cleaning, hauling, running messages between crew members.
+Goremadanis was born to a sailor's widow in the port city of [[place-mercavia|Delalara]] in the [[affiliation-vylarinmpr|Vylarian Empire]]. Her mother, a former ship's cook, died of lung fever when **Goremadanis** was only seven summers old, leaving her alone and resourceless in a city where orphans had few options beyond servitude or thievery. A kindly captain named **[[being-nebralenelth|Nebralen Elthezis]]** found her stealing bread from the docks and, instead of turning her in to the city watch, offered her work aboard his merchant vessel—cleaning, hauling, running messages between crew members.
 
 **Coming of Age at Sea**
 
-For fifteen years, the sea has been Goremadanis's home and her education. She served aboard **Elthezis's** ship, the _Tempest's Mercy_, learning seamanship through exposure and imitation. Her quick intelligence and physical grace made her valuable; by age sixteen, she was assisting with piloting, learning to read stars and currents. By age nineteen, she could navigate by celestial observation alone and handle any task aboard a merchant vessel. More importantly, she won the respect of **Elthezis's** crew through her reliability, her willingness to work harder than circumstance demanded, and her good spirits even during the hardest voyages.
+For fifteen years, the sea has been Goremadanis's home and her education. She served aboard **Elthezis's** ship, the _[Tempest's Mercy]{.name data-type="vehicle"}_, learning seamanship through exposure and imitation. Her quick intelligence and physical grace made her valuable; by age sixteen, she was assisting with piloting, learning to read stars and currents. By age nineteen, she could navigate by celestial observation alone and handle any task aboard a merchant vessel. More importantly, she won the respect of **Elthezis's** crew through her reliability, her willingness to work harder than circumstance demanded, and her good spirits even during the hardest voyages.
 
 **Current Station**
 
@@ -486,7 +486,7 @@ The Crews of Various Merchant Vessels
 
 ### Enemies
 
-Slave Trader Devorin
+Slave Trader [Devorin]{.name data-type="being/npc"}
 : A merchant of human suffering who operates out of hidden docks in **Delalara**, **Devorin** has attempted multiple times to capture **Goremadanis**, viewing her as a valuable commodity. **Captain Elthezis** has protected her thus far, but the threat remains.
 
 The Stern Order of Naval Tradition

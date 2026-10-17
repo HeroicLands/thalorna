@@ -418,13 +418,13 @@ sohl:
 
 ![[fylzstnkt|Fileze Stenikot]]{float=top-left}
 
-Fileze stands 5'10" tall with a medium build. She has sun-tanned skin, brown hair, and green eyes. Her features include an oval face, a strong nose, a sharp jawline, well-defined lips, arched brows, hollow cheeks.
+Fileze Stenikot stands 5'10" tall with a medium build. She has sun-tanned skin, brown hair, and green eyes. Her features include an oval face, a strong nose, a sharp jawline, well-defined lips, arched brows, hollow cheeks.
 
 # Dossier {#dossier}
 
 Fileze was born into a merchant family of middling prosperity in the [[affiliation-byzarianlg|Bizarian League]], the third of four daughters. Where her sisters were groomed for advantageous marriages, Fileze showed an early talent for the martial arts—a transgression her father initially forbade. When she was fourteen, bandits attacked a merchant convoy that included her aunt. Fileze's mother, a woman of unexpected steel, taught her daughter in secret, and by sixteen, Fileze had proven her worth beyond argument by helping defend a village against raiders.
 
-Rather than accept a husband or business partnership, Fileze formally joined the **Mercenaries' Guild** at eighteen, much to her father's dismay. She spent her twenties undertaking increasingly dangerous contracts: guarding caravans through bandit-infested regions, protecting settlements threatened by brigands, and slowly building a reputation as someone with both skill and an uncommon moral compass. Unlike many mercenaries, Fileze refuses contracts that would harm innocents, has never accepted a job involving slavery or trafficking, and actively works against those who exploit the weak.
+Rather than accept a husband or business partnership, Fileze formally joined **[The Mercenaries' Guild of the Bizarian League]{.name data-type="affiliation/guild"}** at eighteen, much to her father's dismay. She spent her twenties undertaking increasingly dangerous contracts: guarding caravans through bandit-infested regions, protecting settlements threatened by brigands, and slowly building a reputation as someone with both skill and an uncommon moral compass. Unlike many mercenaries, Fileze refuses contracts that would harm innocents, has never accepted a job involving slavery or trafficking, and actively works against those who exploit the weak.
 
 Now twenty-nine, she maintains her guild membership but operates with unusual independence, selecting clients based on merit rather than payment. She has become something between a mercenary and a hero-for-hire, drawing both respect and resentment from her peers.
 
@@ -478,24 +478,24 @@ Emotional Exhaustion
 
 ### Patrons
 
-The Village Council of [[place-marshfeld|Marshfeld]]
-: A agrarian community that hires Fileze annually to protect against bandits and raiders. **Elder Magistrate Raza** has become a mentor figure, offering wisdom and support.
+[The Village Council of Marshfeld]{.name data-type="affiliation/governmental"}
+: An agrarian community in [[place-marshfeld|Marshfeld]] that hires Fileze annually to protect against bandits and raiders. **Elder Magistrate [[being-razaagorikot|Raza Agorikot]]** has become a mentor figure, offering wisdom and support.
 
-Lady Tulvazea Melitakit
+Lady [[being-tulvazeameli|Tulvazea Melitakit]]
 : A noblewoman of conscience who uses her influence to connect Fileze with communities in need of protection. She asks only that Fileze help those who cannot afford formal mercenary rates.
 
-The Scholars' Collective of the Archive
-: Dangerous knowledge sometimes requires protection. The head archivist, **Master Scholarch Menandáhr**, retains Fileze for sensitive operations involving recovered texts or persecuted scholars.
+[The Scholars' Collective of the Archive]{.name data-type="affiliation"}
+: Dangerous knowledge sometimes requires protection. The head archivist, **Master Scholarch [Menandáhr]{.name data-type="being/npc"}**, retains Fileze for sensitive operations involving recovered texts or persecuted scholars.
 
 ### Enemies
 
-The Crimson Brotherhood
-: A slavering organization operating throughout the **Bizarian League**. Their leader, **Captain Chirnaleon Validek**, has marked Fileze for death after she dismantled two of their trafficking operations.
+[The Crimson Brotherhood]{.name data-type="affiliation/criminal"}
+: A slavering organization operating throughout the **Bizarian League**. Their leader, **Captain [[being-tchirnaleonv|Chirnaleon Validek]]**, has marked Fileze for death after she dismantled two of their trafficking operations.
 
-Mercenary Lord Ruzhvelis Sapipidek
+Mercenary Lord [[being-ruzhvelissap|Ruzhvelis Sapipidek]]
 : A rival who views her moral stance as weakness and profit-loss. He has actively worked to undermine her contracts and damage her reputation.
 
-The Corrupt House of Magistrates
+The corrupt [House of Magistrates]{.name data-type="affiliation/governmental"}
 : City officials who profit from allowing crime to flourish. They view Fileze as a threat to their comfortable arrangements.
 
 ### Affiliations
@@ -503,16 +503,16 @@ The Corrupt House of Magistrates
 The Mercenaries' Guild of the Bizarian League
 : Fileze maintains full membership, though she operates with unusual independence.
 
-The Protectors' Circle
+[The Protectors' Circle]{.name data-type="affiliation"}
 : An informal network of conscientious mercenaries who share information about dangerous criminals and support one another's defensive operations.
 
 ## Plot Hooks
 
 The Impossible Contract
-: A young scholar offers Fileze an extraordinary sum to protect someone for one week—with the catch that she cannot know who they are protecting or why they are in danger. The mystery deepens when she realizes her client may be **prophetically gifted** and the danger comes from the **Bizarian Inquisition** itself, forcing her into direct conflict with official authority.
+: A young scholar offers Fileze an extraordinary sum to protect someone for one week—with the catch that she cannot know who they are protecting or why they are in danger. The mystery deepens when she realizes her client may be **prophetically gifted** and the danger comes from the **[Bizarian Inquisition]{.name data-type="affiliation"}** itself, forcing her into direct conflict with official authority.
 
 The Ghost Brigade
-: Fileze encounters a group of former soldiers—women mostly—who have begun conducting vigilante operations against violent criminals the official justice system refuses to prosecute. Their leader, **Captain Drelia Petrikot**, asks Fileze to join formally or at minimum to train them. Accepting means becoming an outlaw; refusing means abandoning those who could do tremendous good.
+: Fileze encounters a group of former soldiers—women mostly—who have begun conducting vigilante operations against violent criminals the official justice system refuses to prosecute. Their leader, **Captain [[being-dreliapetrik|Drelia Petrikot]]**, asks Fileze to join formally or at minimum to train them. Accepting means becoming an outlaw; refusing means abandoning those who could do tremendous good.
 
 The Infiltration
 : Lady Tulvazea asks Fileze to accomplish something previously thought impossible: infiltrate the **Crimson Brotherhood** as a criminal-for-hire, identify their actual leadership structure, and gather evidence for prosecution. The operation would require Fileze to commit heinous acts as cover—forcing her to question whether her moral code can bend without breaking.

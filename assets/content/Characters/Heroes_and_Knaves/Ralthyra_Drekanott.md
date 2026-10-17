@@ -413,7 +413,7 @@ sohl:
 
 ![[rlthyrdrknt|Ralthira Drekanótt]]{float=top-left}
 
-Ralthira stands 5'3" tall with a light build. She has fair pale skin, dark brown hair, and green eyes. Her features include an oblong face, a prominent nose, a broad chin, a slightly downturned mouth, dark brows, hollow cheeks. A distinguishing mark is a tattoo of a crescent moon on the neck.
+Ralthira Drekanótt stands 5'3" tall with a light build. She has fair pale skin, dark brown hair, and green eyes. Her features include an oblong face, a prominent nose, a broad chin, a slightly downturned mouth, dark brows, hollow cheeks. A distinguishing mark is a tattoo of a crescent moon on the neck.
 
 # Dossier {#dossier}
 
@@ -421,7 +421,7 @@ Ralthira stands 5'3" tall with a light build. She has fair pale skin, dark brown
 
 ### Early Years
 
-Ralthira was born to a fisher's family in the coastal settlements of [[place-nordheim|Nordheim]], where the howling wind and crashing waves formed the soundtrack of her childhood. When she was but seven winters old, a devastating storm claimed both her parents at sea. She was taken in by a monastery dedicated to Thrunvald, where the monks recognized in her a gift for song that seemed to go beyond mortal origin. For fifteen years, she learned to weave melodies into prayers, channeling her grief into sacred music that moved even the stoniest hearts to tears. The crescent moon was marked upon her neck at her coming-of-age, a blessing and a burden both.
+Ralthira was born to a fisher's family in the coastal settlements of [[place-nordheim|Nordheim]], where the howling wind and crashing waves formed the soundtrack of her childhood. When she was but seven winters old, a devastating storm claimed both her parents at sea. She was taken in by a monastery dedicated to the [[affiliation-thrunvald|Faith of Thrunvald]], where the monks recognized in her a gift for song that seemed to go beyond mortal origin. For fifteen years, she learned to weave melodies into prayers, channeling her grief into sacred music that moved even the stoniest hearts to tears. The crescent moon was marked upon her neck at her coming-of-age, a blessing and a burden both.
 
 ### The Breaking
 
@@ -441,7 +441,7 @@ Yet this very openness is both her greatest strength and her fatal weakness. She
 
 ### Motivation
 
-Ralthira seeks not fortune nor fame, but redemption—both her own and that of others. She bears an unshakeable conviction that she was spared from the storm that claimed her parents for a purpose: to be a voice for the voiceless, a song of hope in the darkness that threatens to consume the forgotten. In her quiet moments, she whispers prayers to Thrunvald, not asking for deliverance, but asking how she might best serve those the gods seem to have abandoned. Every coin given to a hungry child, every tale preserved in song, every moment of human connection forged in the cold streets feels to her like a small victory against the encroaching tide of despair.
+Ralthira seeks not fortune nor fame, but redemption—both her own and that of others. She bears an unshakeable conviction that she was spared from the storm that claimed her parents for a purpose: to be a voice for the voiceless, a song of hope in the darkness that threatens to consume the forgotten. In her quiet moments, she whispers prayers to [[lore-thrunvalddty|Thrunvald]], not asking for deliverance, but asking how she might best serve those the gods seem to have abandoned. Every coin given to a hungry child, every tale preserved in song, every moment of human connection forged in the cold streets feels to her like a small victory against the encroaching tide of despair.
 
 ### Strengths
 
@@ -481,38 +481,38 @@ Conflict Aversion
 
 ### Patrons
 
-Brother Nilthorv
+Brother [Nilthorv]{.name data-type="being/npc"}
 : A sympathetic former monk from her monastery who occasionally slips her coin and information, though he himself risks punishment for maintaining the connection.
 
-Magistrate Driskthira Snurvaruk
+Magistrate [[being-driskthyrasn|Driskthira Snurvaruk]]
 : A widow who fell in love with Ralthira's voice years ago and has quietly seen that she survives each harsh winter, though few know of their association.
 
-The Wayfarers' Council
+[The Wayfarers' Council]{.name data-type="affiliation"}
 : An informal collective of street folk who provide protection and shelter to Ralthira in exchange for her songs, which preserve their histories.
 
 ### Enemies
 
-The Copper Syndicate
+[The Copper Syndicate]{.name data-type="affiliation/criminal"}
 : A gang of organized pickpockets and con artists who view Ralthira's easy trust as an exploitable resource. They have repeatedly victimized her, and she has recently begun to recognize the pattern.
 
-Father Unthmil
+Father [[being-unthmyl|Unthmil]]
 : Her former monastery's new priest, a zealot who views her as a heretic whose very existence challenges the theological authority he seeks to establish. He has forbidden anyone from assisting her.
 
-Merchant House Drak
+[Merchant House Drak]{.name data-type="affiliation/lineage"}
 : A trading family whose wayward son she spurned; his wounded pride has translated into a vendetta, spreading lies about her character.
 
 ### Affiliations
 
-The Street Chorus
+[The Street Chorus]{.name data-type="affiliation"}
 : An informal network of street performers, buskers, and wandering minstrels who share information, performance spaces, and resources.
 
-The Devotees of Thrunvald's Storm
+[The Devotees of Thrunvald's Storm]{.name data-type="affiliation"}
 : Though she no longer affiliates with any formal temple, she maintains loose spiritual bonds with independent worshippers who honor the storm god.
 
 ## Plot Hooks
 
 The Singing Stone
-: A scholar seeking Ralthira claims that ancient texts describe an artifact—the Singing Stone of Asguard—whose power can only be awakened through a voice of perfect purity. He believes Ralthira is the key to recovering it from a temple buried beneath Nordheim's oldest districts. What he doesn't know is that darker forces have also caught wind of this rumor, and they would sacrifice far more than ancient stone to possess such power. Ralthira must navigate the intersection of faith, greed, and ancient magic.
+: A scholar seeking Ralthira claims that ancient texts describe an artifact—the [Singing Stone of Asguard]{.name data-type="miscgear"}—whose power can only be awakened through a voice of perfect purity. He believes Ralthira is the key to recovering it from a temple buried beneath Nordheim's oldest districts. What he doesn't know is that darker forces have also caught wind of this rumor, and they would sacrifice far more than ancient stone to possess such power. Ralthira must navigate the intersection of faith, greed, and ancient magic.
 
 Memory in Melody
 : A mysterious figure approaches Ralthira, offering substantial coin to help recover a stolen musical score said to contain encrypted messages crucial to a political uprising. The requester claims the oppressed people of a neighboring kingdom depend on her aid. Yet accepting this task would make Ralthira an unwitting pawn in a conflict between nobles, and the true contents of the score—and the true intended use of its decryption—remain obscure and potentially devastating.

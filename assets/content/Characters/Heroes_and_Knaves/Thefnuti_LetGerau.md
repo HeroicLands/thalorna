@@ -426,13 +426,13 @@ sohl:
 
 ![[thefnutiltgr|Thefnuti Let'Gerau]]{float=top-left}
 
-Thefnuti stands 5'10" tall with a medium build. He has warm amber skin, grey hair, and brown eyes. His features include an oval face, a noble nose, a smooth jawline, an expressive mouth, fine brows, and angular cheeks.
+Thefnuti Let'Gerau stands 5'10" tall with a medium build. He has warm amber skin, grey hair, and brown eyes. His features include an oval face, a noble nose, a smooth jawline, an expressive mouth, fine brows, and angular cheeks.
 
 # Dossier {#dossier}
 
-Thefnuti was born into a family of toymakers in the Empire of [[affiliation-empireakhlth|Au'Khelathu]], in a tradition stretching back seven generations. His great-grandfather had been commissioned by an imperial prince to create mechanical toys of extraordinary ingenuity, work that established the family's reputation for invention and precision. Thefnuti's own father, Gakhoti, had expanded the family trade significantly, introducing mechanisms of increasing complexity while maintaining a commitment to beauty and craftsmanship.
+Thefnuti was born into a family of toymakers in the [[affiliation-empireakhlth|Empire of Au'Khelathu]], in a tradition stretching back seven generations. His great-grandfather had been commissioned by an imperial prince to create mechanical toys of extraordinary ingenuity, work that established the family's reputation for invention and precision. Thefnuti's own father, [Gakhoti]{.name data-type="being/npc"}, had expanded the family trade significantly, introducing mechanisms of increasing complexity while maintaining a commitment to beauty and craftsmanship.
 
-From earliest childhood, Thefnuti was trained in the family traditions. Unlike some toymakers who view their work as frivolous entertainment, the Let'Gerau family understood that toys were miniature worlds—opportunities to teach mechanics, aesthetics, and imagination. Thefnuti exceeded even his father's capabilities, developing new techniques for creating clockwork mechanisms of breathtaking intricacy. By his thirties, his toys were so much in demand among wealthy families and collectors that his wait list extended years into the future.
+From earliest childhood, Thefnuti was trained in the family traditions. Unlike some toymakers who view their work as frivolous entertainment, the [[affiliation-garletgerau|Gar-Let'Gerau]] family understood that toys were miniature worlds—opportunities to teach mechanics, aesthetics, and imagination. Thefnuti exceeded even his father's capabilities, developing new techniques for creating clockwork mechanisms of breathtaking intricacy. By his thirties, his toys were so much in demand among wealthy families and collectors that his wait list extended years into the future.
 
 However, beginning in his forties, Thefnuti became increasingly troubled by what he perceived as the cheapening of the craft. Simpler toys turned out in bulk began undercutting the market, and younger toymakers enthusiastically adopted new materials and methods that Thefnuti viewed as compromising quality. Rather than adapt, he doubled down on his traditional techniques and began work on increasingly elaborate creations that became less toys and more works of engineering art. This shift in focus—away from practical toys children could play with and toward elaborate mechanical sculptures meant for display—has simultaneously enhanced his prestige among collectors and left him increasingly isolated from the rest of the toymaking trade.
 
@@ -494,15 +494,15 @@ Lady [[being-uznerashkag2|Uzner Ashkagar]]
 Scholar-Collector [[being-kheladenthlt|Kheladen Itha'Letu]]
 : A historian and antiquarian who employs Thefnuti to create accurate mechanical reproductions of ancient devices based on historical records and archaeological findings. Their collaboration has produced some of Thefnuti's most celebrated works.
 
-[[affiliation-tarmex|the Imperial Treasury]]
+[The Imperial Treasury]{.name data-type="affiliation/governmental"}
 : Thefnuti has several standing commissions from the imperial court to create elaborate gifts for diplomatic purposes and state ceremonies. These are highly visible works that enhance his reputation significantly.
 
-Merchant Prince Zassor the Learned
+Merchant Prince [Zassor the Learned]{.name data-type="being/npc"}
 : A collector of mechanical curiosities who maintains a private museum and commissions elaborate pieces specifically for display. Zassor pays handsomely and allows Thefnuti complete creative freedom, though he can be demanding about timelines.
 
 ### Enemies
 
-Toymaker Mavrik the Innovator
+Toymaker [Mavrik the Innovator]{.name data-type="being/npc"}
 : A successful younger toymaker who has built wealth by turning out toys in bulk with newer materials that Thefnuti views as inferior. Mavrik has directly challenged Thefnuti's supremacy by advertising his toys as "superior because they are affordable" and has actively poached several of Thefnuti's potential clients. Mavrik sees Thefnuti as an arrogant relic and publicly questions whether his work is worth the extraordinary cost.
 
 [[being-rethekuthght|Retheku Iuthi'Gehtiu]]
@@ -510,10 +510,10 @@ Toymaker Mavrik the Innovator
 
 ### Affiliations
 
-[[affiliation-linzaglkhlth|the Toymakers' Guild of Au'Khelathu]]
+[[affiliation-linzaglkhlth|Lin'Zaglu elu Au'Khelathu]], the Toymakers' Guild
 : Thefnuti holds membership and retains significant prestige within the guild, though he frequently clashes with guild leadership over standards and methods. He serves on the guild's standards committee, where he advocates for stricter quality requirements.
 
-[[affiliation-garletgerau|the Gar-Let'Gerau]]
+[[affiliation-garletgerau|Gar-Let'Gerau]]
 : An informal family legacy and tradition spanning seven generations, of which Thefnuti is the current master. He has become increasingly protective of family techniques and secretive about his methods.
 
 ## Plot Hooks

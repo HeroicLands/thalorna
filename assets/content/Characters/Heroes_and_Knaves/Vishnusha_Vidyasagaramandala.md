@@ -422,7 +422,7 @@ sohl:
 
 ![[vshnshvdysgrml|Shilavira Vidyasagaramandala]]{float=top-left}
 
-Shilavira stands 6'3" tall with a heavy build. He has warm honey skin, black hair, and brown eyes. His features include a full face, a slightly arched nose, a soft jawline, generous lips, and expressive brows.
+Shilavira Vidyasagaramandala stands 6'3" tall with a heavy build. He has warm honey skin, black hair, and brown eyes. His features include a full face, a slightly arched nose, a soft jawline, generous lips, and expressive brows.
 
 # Dossier {#dossier}
 
@@ -430,9 +430,9 @@ Shilavira stands 6'3" tall with a heavy build. He has warm honey skin, black hai
 
 ### From Surface Laborer to Craftsman
 
-Shilavira was born to the miners of the [[place-vedyarargn|Vedyara]] city-states, the son of a man named **Rasikesh** who had worked the deep mines for forty years before a collapse took his life when Shilavira was merely nine years old. His mother, **Devani**, took in washing and mending to survive, but Shilavira knew early that his destiny lay in the mines—not as a means of perpetuating family tradition, but as a way of understanding and honoring the circumstances that had shaped his life. At twelve, he began as a water-carrier and ore-hauler, working in the copper and silver mines of the **Merchant Collective's** extensive operations.
+Shilavira was born to the miners of the city-states of the [[place-vedyarargn|Vedyara Region]], the son of a man named **[Rasikesh]{.name data-type="being/npc"}** who had worked the deep mines for forty years before a collapse took his life when Shilavira was merely nine years old. His mother, **[Devani]{.name data-type="being/npc"}**, took in washing and mending to survive, but Shilavira knew early that his destiny lay in the mines—not as a means of perpetuating family tradition, but as a way of understanding and honoring the circumstances that had shaped his life. At twelve, he began as a water-carrier and ore-hauler, working in the copper and silver mines of **[[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]'s** extensive operations.
 
-By his late teens, having demonstrated unusual strength, reliability, and a natural aptitude for understanding the stone itself, Shilavira apprenticed under **Master Koshna**, an elderly miner known for his ability to read seams of ore and predict collapses with uncanny accuracy. Over more than a decade of training, Shilavira learned the mechanics of mining—the pickaxe techniques, the use of levers and pulleys, the reading of rock formation—and something deeper: a kind of communion with the earth, an ability to sense where the most precious metals lay hidden and how to extract them with minimal loss.
+By his late teens, having demonstrated unusual strength, reliability, and a natural aptitude for understanding the stone itself, Shilavira apprenticed under **Master [Koshna]{.name data-type="being/npc"}**, an elderly miner known for his ability to read seams of ore and predict collapses with uncanny accuracy. Over more than a decade of training, Shilavira learned the mechanics of mining—the pickaxe techniques, the use of levers and pulleys, the reading of rock formation—and something deeper: a kind of communion with the earth, an ability to sense where the most precious metals lay hidden and how to extract them with minimal loss.
 
 ### The Middle Years
 
@@ -440,7 +440,7 @@ At twenty-five, Shilavira became a master himself and began taking on oversight 
 
 ### Current Circumstances
 
-Now at thirty-six, Shilavira occupies a complex position. He is a senior foreman for the Merchant Collective but maintains his membership in the Miners' Union, understanding the importance of solidarity with ordinary workers. He oversees one of the most productive mines in the Vedyara territories and has trained numerous younger miners in his methods. He lives modestly despite the reasonable income his position provides, contributing much of his earnings to a fund that supports miners who have been injured or displaced by accidents or hard times. Yet recent changes in the mining trade—the introduction of new, more dangerous extraction techniques and pressure from the Merchant Collective to put profit before safety—have troubled him deeply.
+Now at thirty-six, Shilavira occupies a complex position. He is a senior foreman for the Merchant Collective but maintains his membership in the [Miners' Union]{.name data-type="affiliation"}, understanding the importance of solidarity with ordinary workers. He oversees one of the most productive mines in the Vedyara territories and has trained numerous younger miners in his methods. He lives modestly despite the reasonable income his position provides, contributing much of his earnings to a fund that supports miners who have been injured or displaced by accidents or hard times. Yet recent changes in the mining trade—the introduction of new, more dangerous extraction techniques and pressure from the Merchant Collective to put profit before safety—have troubled him deeply.
 
 ## Psyche
 
@@ -500,10 +500,10 @@ The Miners' Union Leadership
 
 ### Enemies
 
-Overseer Tarvika
+Overseer [[being-tarikatamrak|Tarvika Tamraksha]]
 : A ruthless administrator dispatched by the Merchant Collective to increase profits. Tarvika views safety measures as unnecessary expense and has repeatedly overridden Shilavira's safety recommendations, creating dangerous conditions and tension between them.
 
-The Industrial Consortium
+[The Industrial Consortium]{.name data-type="affiliation/venture"}
 : A rival merchant organization that seeks to undercut the Collective's mining operations. They have attempted to poach Shilavira's workers and techniques, and have even offered him substantial sums to switch his allegiance.
 
 ### Affiliations
@@ -523,7 +523,7 @@ The Forbidden Depths
 : During excavation of a new mine shaft, workers discover ancient structures far deeper than previously thought possible—ruins suggesting a vast underground civilization of unknown origin. The Merchant Collective orders the discovery concealed and mining continued, but Shilavira becomes convinced that digging further risks awakening something dangerous. He must either obey orders, pursue the mystery in secret, or defy the Collective entirely to prevent what may be catastrophic.
 
 The Cooperative Dream
-: A visionary named **Saranda** approaches Shilavira with a proposal: lead a cooperative effort to establish a miner-owned mine, breaking the Collective's monopoly. This would require Shilavira to openly defy his current employers, risk his security, and stake everything on an untested model of organization. Success would change the mining trade; failure would leave him ruined.
+: A visionary named **[Saranda]{.name data-type="being/npc"}** approaches Shilavira with a proposal: lead a cooperative effort to establish a miner-owned mine, breaking the Collective's monopoly. This would require Shilavira to openly defy his current employers, risk his security, and stake everything on an untested model of organization. Success would change the mining trade; failure would leave him ruined.
 
 Darkness Rising
 : Strange phenomena begin occurring in the mines—equipment mysteriously breaks, workers report shadowy figures in the deep shafts, and several miners go missing in sections of mines that were previously considered safe. Shilavira must investigate these mysteries, which seem to point toward either supernatural forces or a saboteur working within his operation. The investigation threatens to expose secrets that powerful people wish to keep hidden.

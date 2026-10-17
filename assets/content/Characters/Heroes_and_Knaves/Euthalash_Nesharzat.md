@@ -429,13 +429,13 @@ sohl:
 
 ![[euthlshnshrzt|Euthalash Nesharzát, The Diplomatic Blade Dancer]]{float=top-left}
 
-Euthalash stands 6'0" tall with a light build. He has dark skin, black hair, and dark eyes. His features include an oval face, an aquiline nose, a tapered chin, generous lips, prominent cheeks.
+Euthalash Nesharzát, The Diplomatic Blade Dancer, stands 6'0" tall with a light build. He has dark skin, black hair, and dark eyes. His features include an oval face, an aquiline nose, a tapered chin, generous lips, prominent cheeks.
 
 # Dossier {#dossier}
 
-Euthalash Nesharzát was born to a merchant-diplomat house of [[place-orashion2|Órashion]], in the mountainous interior of [[place-byzariargn|Bizaria]], whose trade runs up into the Vezhnur holds in the high passes above the city, where [[affiliation-blackflame|The Black Flame]] burns openly. His family brokers between the [[affiliation-byzarianlg|Bizarian League]] and the holds, and Euthalash grew up on the Black Flame’s teachings—that strength is virtue, that the strong shape the world, and that fire is the truest expression of Ústaron’s will. For Euthalash, the faith is not merely spiritual; it is a practical philosophy that governs how he conducts business, forges alliances, and reads the intentions of others.
+Euthalash Nesharzát was born to a merchant-diplomat house of [[place-orashion2|Órashion]], in the mountainous interior of the [[place-byzariargn|Bizaria Region]], whose trade runs up into the [Vezhnur holds]{.name data-type="place/region"} in the high passes above the city, where [[affiliation-blackflame|The Black Flame]] burns openly. His family brokers between the [[affiliation-byzarianlg|Bizarian League]] and the holds, and Euthalash grew up on the Black Flame’s teachings—that strength is virtue, that the strong shape the world, and that fire is the truest expression of [[lore-ustarondty|Ústaron]]’s will. For Euthalash, the faith is not merely spiritual; it is a practical philosophy that governs how he conducts business, forges alliances, and reads the intentions of others.
 
-Euthalash met Kalestratos during a diplomatic mission in [[place-velysara|Velisara]], where he immediately recognized a kindred spirit in the young mage. Euthalash was drawn to Kalestratos’s fiery ambition and saw in him Ústaron’s power at work—a man capable of wielding fire to shape the future. Eager to expand his own influence and advance the Black Flame’s reach, Euthalash offered his services as a diplomat and political advisor, knowing that Kalestratos’s rise would serve both their ambitions and the faith.
+Euthalash met [[being-klstrtsxrchds|Kalestratos Zarkedis]] during a diplomatic mission in [[place-velysara|Velisara]], where he immediately recognized a kindred spirit in the young mage. Euthalash was drawn to Kalestratos’s fiery ambition and saw in him Ústaron’s power at work—a man capable of wielding fire to shape the future. Eager to expand his own influence and advance the Black Flame’s reach, Euthalash offered his services as a diplomat and political advisor, knowing that Kalestratos’s rise would serve both their ambitions and the faith.
 
 ## Background
 
@@ -487,7 +487,7 @@ Silver-Tongued Diplomat
 : Euthalash is a master of negotiation, able to broker deals and forge alliances with even the most difficult parties. His charm and charisma make him an excellent diplomat, smoothing over conflicts and gaining favor with powerful figures.
 
 Follower of the Black Flame
-: Euthalash’s devotion to Ústaron and the Black Flame gives him an intuitive understanding of the god’s will. He interprets events through the lens of the faith’s core doctrine—that might makes right, that strength is the only honest measure of worth—and uses this framework to read people, assess power dynamics, and decide whom to trust. His faith also grants him a deep understanding of the rituals and practices of Ústaron’s worship.
+: Euthalash believes his devotion to Ústaron and the Black Flame gives him an intuitive understanding of the god’s will. He interprets events through the lens of the faith’s core doctrine—that might makes right, that strength is the only honest measure of worth—and uses this framework to read people, assess power dynamics, and decide whom to trust. His faith also grants him a deep understanding of the rituals and practices of Ústaron’s worship.
 
 Manipulator of Circumstance
 : Euthalash excels at turning situations to his advantage. Whether it’s through diplomacy or subtle manipulation, he knows how to make events unfold in ways that benefit him and Kalestratos.
@@ -500,7 +500,7 @@ Euthalash is charismatic, charming, and always thinking ahead. While he reveres 
 
 ### Motivation
 
-Euthalash is motivated by his desire to expand his influence and advance the Black Flame’s reach. He believes that by helping Kalestratos harness the power of fire, he can secure a place for himself among the most powerful figures in both [[place-vylariargn|Vylaria]] and Bizaria. He sees Kalestratos’s quest as a means to elevate both of them to positions of great power—and to prove, in the process, that the Black Flame’s philosophy is simply the way the world works.
+Euthalash is motivated by his desire to expand his influence and advance the Black Flame’s reach. He believes that by helping Kalestratos harness the power of fire, he can secure a place for himself among the most powerful figures in both the [[place-vylariargn|Vylaria Region]] and Bizaria. He sees Kalestratos’s quest as a means to elevate both of them to positions of great power—and to prove, in the process, that the Black Flame’s philosophy is simply the way the world works.
 
 ### Strengths
 
@@ -522,19 +522,19 @@ rival faction
 The Burning Blade: A Diplomatic Mission Turned Deadly
 : Euthalash is tasked with a diplomatic mission to a rival noble house within Vylaria, where tensions are high. Kalestratos needs their support—or at least their neutrality—but the rival house is known for its unpredictable and aggressive tendencies. Things quickly turn hostile when the rival house accuses Kalestratos of secretly supporting insurgents who have been using fire to terrorize their lands. Euthalash’s role becomes critical as he must navigate a volatile situation where a single misstep could mean war.
 
-    Diffuse the Situation
+    Defuse the Situation
     : Using his silver tongue, Euthalash must calm the situation and prevent an all-out conflict. He’ll need to handle the complex politics of Vylaria, using his diplomatic skills to clear Kalestratos’ name.
 
     Uncovering the True Culprit
-    : Through negotiation and investigation, Euthalash uncovers that the real insurgents are agents of the **Ashen Circle**, trying to turn the rival house against Kalestratos. He must use this information carefully, deciding whether to expose the Ashen Circle or manipulate events to secure the house’s loyalty.
+    : Through negotiation and investigation, Euthalash uncovers that the real insurgents are agents of the **[Ashen Circle]{.name data-type="affiliation"}**, trying to turn the rival house against Kalestratos. He must use this information carefully, deciding whether to expose the Ashen Circle or manipulate events to secure the house’s loyalty.
 
     Negotiating a Truce
     : Once the truth is revealed, Euthalash must broker a truce between the rival house and Kalestratos, turning what could have been a deadly conflict into a political victory.
 
-The [[place-khzryndsrtrgn|Khazryn Desert]]: Lost Relics of Ústaron
-: Word reaches Euthalash that a powerful relic of Ústaron—the **Torch of Fury**, said to grant its wielder immense destructive power—has been discovered in the **Khazryn Desert**. The relic is a sacred object tied to both the worship of Ústaron and the political power of desert tribes. Recovering it could rally the desert lords behind Kalestratos, strengthening his position.
+The [[place-khzryndsrtrgn|Khazryn Desert Region]]: Lost Relics of Ústaron
+: Word reaches Euthalash that a powerful relic of Ústaron—the **[Torch of Fury]{.name data-type="miscgear"}**, said to grant its wielder immense destructive power—has been discovered in the **Khazryn Desert Region**. The relic is a sacred object tied to both the worship of Ústaron and the political power of desert tribes. Recovering it could rally the desert lords behind Kalestratos, strengthening his position.
 
-    However, several factions are also interested in the relic, including rival desert lords and the Guilded Talon. Euthalash could help secure it.
+    However, several factions are also interested in the relic, including rival desert lords and [The Guilded Talon]{.name data-type="affiliation"}. Euthalash could help secure it.
 
     Negotiating with Tribes
     : Euthalash must handle the complex relationships between the desert tribes, using his diplomacy to secure their loyalty or at least permission to seek the relic.
@@ -543,7 +543,7 @@ The [[place-khzryndsrtrgn|Khazryn Desert]]: Lost Relics of Ústaron
     : Guilded Talon and rival desert lords are also searching for the relic. Euthalash must stay ahead of them, using both negotiation and subterfuge to gain an advantage.
 
 Flames of Ambition: A Rival Diplomat
-: A rival diplomat from Vylaria—**Ponakar Drachenos**, a former acquaintance of Euthalash—has risen to prominence within the empire and is now working for a faction that opposes Kalestratos’ efforts. Ponakar’s charm and wit rival Euthalash’s own, and the two diplomats often find themselves at odds, trying to outmaneuver one another in political negotiations.
+: A rival diplomat from Vylaria—**[Ponakar Drachenos]{.name data-type="being/npc"}**, a former acquaintance of Euthalash—has risen to prominence within the [[affiliation-vylarinmpr|Vylarian Empire]] and is now working for a faction that opposes Kalestratos’ efforts. Ponakar’s charm and wit rival Euthalash’s own, and the two diplomats often find themselves at odds, trying to outmaneuver one another in political negotiations.
 
     Ponakar’s latest mission is to turn key Vylarian nobles against Kalestratos, convincing them that his pursuit of fire magic is dangerous. Euthalash must confront his old rival in a series of political and diplomatic engagements, where every word could shift the balance of power.
 

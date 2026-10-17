@@ -418,7 +418,7 @@ sohl:
 
 ![[zenskpkt|Ghofa Kepikot]]{float=top-left}
 
-Ghofa stands 5'7" tall with a light build. She has fair freckled skin, auburn hair, and green eyes. Her features include a narrow face, a hawkish nose, a sharp jawline, full lips, expressive brows, and sculpted cheeks. She has a tattoo of a bird on her forearm.
+Ghofa Kepikot stands 5'7" tall with a light build. She has fair freckled skin, auburn hair, and green eyes. Her features include a narrow face, a hawkish nose, a sharp jawline, full lips, expressive brows, and sculpted cheeks. She has a tattoo of a bird on her forearm.
 
 # Dossier {#dossier}
 
@@ -426,9 +426,9 @@ Ghofa stands 5'7" tall with a light build. She has fair freckled skin, auburn ha
 
 ### The Merchant's Daughter and the Silent Language
 
-Ghofa was born in the busy ports of the [[affiliation-byzarianlg|Bizarian League]], daughter of a merchant family with vast trading interests spanning three continents. Her father, **Grolazul Kepikot**, was a prosperous spice merchant whose ships regularly departed for distant lands; her mother, **Futoneze**, was known for her cultivation of exotic plants in the family's famous gardens. From her earliest childhood, Ghofa demonstrated an inexplicable affinity for animals, particularly birds—she could calm panicked falcons with a whisper, encourage reluctant songbirds to perform, and read the subtle languages of body and feather that others found inscrutable.
+Ghofa was born in the busy ports of the [[affiliation-byzarianlg|Bizarian League]], daughter of a merchant family with vast trading interests spanning three continents. Her father, **[Grolazul Kepikot]{.name data-type="being/npc"}**, was a prosperous spice merchant whose ships regularly departed for distant lands; her mother, **[Futoneze]{.name data-type="being/npc"}**, was known for her cultivation of exotic plants in the family's famous gardens. From her earliest childhood, Ghofa demonstrated an inexplicable affinity for animals, particularly birds—she could calm panicked falcons with a whisper, encourage reluctant songbirds to perform, and read the subtle languages of body and feather that others found inscrutable.
 
-Rather than follow her family into mercantilism, Ghofa apprenticed with **Master Badvárion**, the great animal trainer of the Bizarian League, whose methods were new for his time. Badvárion taught her that training animals was not domination but conversation—a learning of the creature's nature, desires, and fears, and a mutual agreement to work in harmony. This philosophy shaped everything about Ghofa's approach to her craft.
+Rather than follow her family into mercantilism, Ghofa apprenticed with **Master [Badvárion]{.name data-type="being/npc"}**, the great animal trainer of the Bizarian League, whose methods were new for his time. Badvárion taught her that training animals was not domination but conversation—a learning of the creature's nature, desires, and fears, and a mutual agreement to work in harmony. This philosophy shaped everything about Ghofa's approach to her craft.
 
 ### The Rise of the Trainer
 
@@ -476,32 +476,32 @@ Ghofa is driven by a sense that her understanding of animals might represent som
 
 ### Patrons
 
-House Ambarzát
-: A prominent noble family of the Bizarian League who employ her regularly to train and maintain their falconry birds; **Lady Kiladehran Ambarzát** has become something of a mentor figure
+[House Ambarzát]{.name data-type="affiliation/lineage"}
+: A prominent noble family of the Bizarian League who employ her regularly to train and maintain their falconry birds; **Lady [[being-kiladehranam|Kiladehran Ambarzát]]** has become something of a mentor figure
 
 Master Badvárion
 : Her former teacher, now elderly and semi-retired, who continues to advise her and vouches for her methods and integrity
 
-The Bizarian Merchants' Consortium
+[The Bizarian Merchants' Consortium]{.name data-type="affiliation/venture"}
 : A powerful trading organization that occasionally contracts her services for managing animals used in commercial expeditions
 
 ### Enemies
 
-Kezvunikos the Cruel
+[Kezvunikos the Cruel]{.name data-type="being/npc"}
 : A brutal animal trader who views Ghofa's ethical standards as threats to his profit margins; he has spread rumors that her methods are ineffective and that she is unreliable for serious work
 
-The Feathered Syndicate
+[The Feathered Syndicate]{.name data-type="affiliation/criminal"}
 : A mysterious criminal organization involved in smuggling rare and exotic birds for black market operations; they view Ghofa's knowledge as either an asset to control or a liability to eliminate
 
-Gohárikos the Beast Master
+[Gohárikos the Beast Master]{.name data-type="being/npc"}
 : A rival trainer whose brutal methods stand in direct opposition to Ghofa's philosophy; he views her success as evidence that his approach is inferior and has challenged her reputation publicly
 
 ### Affiliations
 
-Urban Animal Trainers' Guild
+[Urban Animal Trainers' Guild]{.name data-type="affiliation/guild"}
 : - Her guild, where she sits on the committee that sets standards of care for trained animals
 
-The Sanctuary of Ólvenia
+[The Sanctuary of Ólvenia]{.name data-type="affiliation"}
 : - A spiritual fellowship devoted to the goddess of prosperity and natural harmony, which sponsors rehabilitation work with injured and mistreated animals
 
 ## Plot Hooks

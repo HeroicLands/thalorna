@@ -424,7 +424,7 @@ sohl:
 
 ![[venradzrdn|Venrad Azardan]]{float=top-left}
 
-Venrad stands 5'7" tall with a light build. He has warm olive skin, dark black hair, and green eyes. His features include an oval face, a hawkish nose, a well-defined jawline, full lips, prominent brows, and hollow cheeks. He has a scar on his lower abdomen.
+Venrad Azardan stands 5'7" tall with a light build. He has warm olive skin, dark black hair, and green eyes. His features include an oval face, a hawkish nose, a well-defined jawline, full lips, prominent brows, and hollow cheeks. He has a scar on his lower abdomen.
 
 # Dossier {#dossier}
 
@@ -436,11 +436,11 @@ Venrad was born in the coastal settlements of the [[affiliation-kngdmmrdd|Kingdo
 
 ### The Pilot's Apprenticeship
 
-Rather than follow the merchant trade, Venrad insisted upon becoming a pilot—a profession that demanded the ability to guide vessels through impossible circumstances and dangerous passages. He apprenticed under an aging master navigator named Tulvesh Gorgaz, learning the practical techniques of piloting and the deeper understanding of weather and water that separated masters from competent technicians. The apprenticeship was brutal; Tulvesh tested Venrad constantly, often deliberately placing him in dangerous situations to see if his instinct would overcome his inexperience. By his early twenties, Venrad had become one of the most requested pilots in the kingdom, able to navigate passages that other captains considered impassable.
+Rather than follow the merchant trade, Venrad insisted upon becoming a pilot—a profession that demanded the ability to guide vessels through impossible circumstances and dangerous passages. He apprenticed under an aging master navigator named [Tulvesh Gorgaz]{.name data-type="being/npc"}, learning the practical techniques of piloting and the deeper understanding of weather and water that separated masters from competent technicians. The apprenticeship was brutal; Tulvesh tested Venrad constantly, often deliberately placing him in dangerous situations to see if his instinct would overcome his inexperience. By his early twenties, Venrad had become one of the most requested pilots in the kingdom, able to navigate passages that other captains considered impassable.
 
 ### The Present Zenith
 
-Now, at thirty-five, Venrad has achieved the status of a famous pilot while remaining dangerously young for such fame. He has earned significant wealth through piloting fees, contracts with merchant consortiums, and the patronage of those who seek his talents for increasingly dangerous and exotic voyages. Yet his success has come at personal cost—his recklessness in taking dangerous contracts has earned him a reputation as much for audacity as for competence, and several competitors have attempted to discredit him or recruit him away from independent work. He maintains membership in the Local Mariners' Guild but operates largely independently, selecting only contracts that interest him and refusing far more than he accepts. In recent years, he has begun to accept commissions from adventurers and explorers seeking to venture into uncharted waters, suggesting that his thirst for challenge and danger may be evolving toward something more ambitious than merely excellent sailing.
+Now, at thirty-five, Venrad has achieved the status of a famous pilot while remaining dangerously young for such fame. He has earned significant wealth through piloting fees, contracts with merchant consortiums, and the patronage of those who seek his talents for increasingly dangerous and exotic voyages. Yet his success has come at personal cost—his recklessness in taking dangerous contracts has earned him a reputation as much for audacity as for competence, and several competitors have attempted to discredit him or recruit him away from independent work. He maintains membership in the [Local Mariners' Guild]{.name data-type="affiliation/guild"} but operates largely independently, selecting only contracts that interest him and refusing far more than he accepts. In recent years, he has begun to accept commissions from adventurers and explorers seeking to venture into uncharted waters, suggesting that his thirst for challenge and danger may be evolving toward something more ambitious than merely excellent sailing.
 
 ## Psyche
 
@@ -490,18 +490,18 @@ Inability to Surrender
 
 ### Patrons
 
-Merchant Consortium of the Eastern Trade
+[Merchant Consortium of the Eastern Trade]{.name data-type="affiliation/venture"}
 : A powerful merchant collective that has contracted Venrad's services repeatedly for particularly difficult voyages between kingdom ports and distant trading partners.
 
-Captain Tahruz the Venerable
+Captain [[being-tahruzgirani|Tahruz Girani]], the Venerable
 : An aging merchant captain and Venrad's closest friend, who continues to offer him navigation contracts and is one of the few people Venrad trusts.
 
 ### Enemies
 
-Bezdun Vahdrak (The Cruel Tide)
+[Bezdun Vahdrak]{.name data-type="being/npc"} (The Cruel Tide)
 : A rival pilot of similar age whose jealousy of Venrad's greater success has festered into open enmity. Bezdun has begun spreading rumors regarding the safety of Venrad's methods and competing for contracts to deliberately undermine his reputation.
 
-The Corsairs of the Burning Coast
+[The Corsairs of the Burning Coast]{.name data-type="affiliation/criminal"}
 : A pirate collective that Venrad humiliated several years ago by piloting a merchant vessel directly through their territory without allowing them a chance at plunder. The corsairs have placed a substantial bounty on Venrad's head.
 
 ### Affiliations
@@ -509,10 +509,10 @@ The Corsairs of the Burning Coast
 The Local Mariners' Guild
 : Member in good standing, though frequently at odds with the guild's safety rules and conservative approach to navigation.
 
-The Kingdom's Merchant Fleet
+[The Kingdom's Merchant Fleet]{.name data-type="affiliation"}
 : Occasional contractor for government trade missions and sensitive vessel movements.
 
-The Adventurers' Collective
+[The Adventurers' Collective]{.name data-type="affiliation"}
 : (informal): An emerging association of explorers and risk-takers seeking to chart new waters and discover undocumented lands.
 
 ## Plot Hooks
