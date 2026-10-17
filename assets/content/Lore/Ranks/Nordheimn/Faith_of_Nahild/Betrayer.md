@@ -8,11 +8,11 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-The cult of [[affiliation-nahild|Nahild]] lives on silence: hers is the one worship the pantheon itself holds heretical, her clergy are suppressed in every kingdom and her hovs are kept hidden. Of everything a member can do, giving the cult away ends them fastest.
+The [[affiliation-nahild|Faith of Nahild]] lives on silence: hers is the one worship the pantheon itself holds heretical, her clergy are suppressed in every kingdom and her hovs are kept hidden. Of everything a member can do, giving the cult away ends them fastest.
 
 ## What This Standing Is
 
-A man who betrays the cult's secrecy—naming a hidden hov, an initiate, or a gudi to outsiders—is cast from it and marked as the reason its secrecy failed. The community around a hidden hov refuses Nahild's offerings.
+The Betrayer is a man who betrays the cult's secrecy—naming a hidden hov, an initiate, or a gudi to outsiders—and is cast from it and marked as the reason its secrecy failed. The community around a hidden hov refuses Nahild's offerings.
 
 ## How the Law Treats a Person Here
 

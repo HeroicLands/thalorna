@@ -8,11 +8,11 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-The Circle has broken a skald's silver arm-ring perhaps seven times in living memory, and the offense is the same: reciting falsely what the skald was summoned to witness.
+[[affiliation-skaldscrcl|The Skalds' Circle]] has broken a skald's silver arm-ring perhaps seven times in living memory, and the offense is the same: reciting falsely what the skald was summoned to witness.
 
 ## What This Standing Is
 
-A skald formally accused and convicted of breaking the truth of the recital has his silver arm-ring broken in his presence at the next [[lore-skaldating|Skaldating]], the [[affiliation-skaldscrcl|Skalds' Circle]]'s annual gathering. The rarity of the punishment measures how seldom a sworn skald's word is doubted.
+A skald becomes Ring-Broken when formally accused and convicted of breaking the truth of the recital and has his silver arm-ring broken in his presence at the next [[lore-skaldating|Skaldating]], the Skalds' Circle's annual gathering. The rarity of the punishment measures how seldom a sworn skald's word is doubted.
 
 ## How the Law Treats a Person Here
 

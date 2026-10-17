@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-Anyone may come to Bjart's rites. An ilthorin has been called to more, and the calling comes with a teacher: an [[lore-calathirrnk|Ansorun]] admits the ilthorin, teaches dream-reading, healing and the tending of sacred groves, and the standing rests on that teacher.
+Anyone may come to the rites of the [[affiliation-bjartr|Faith of Bjart]]. An Ilthorin has been called to more, and the calling comes with a teacher: an [[lore-calathirrnk|Ansorun]] admits the ilthorin, teaches dream-reading, healing and the tending of sacred groves, and the standing rests on that teacher.
 
 ## What This Standing Is
 
@@ -16,7 +16,7 @@ An ilthorin ("seer") is newly called to the faith's service and learns dream-rea
 
 ## How the Law Treats a Person Here
 
-He is called and taught rather than merely faithful: he stands apart from those who come only for the **Blessing of Light** or the **Night of Dreams**, and his standing rests on the Ansorun who guides him rather than on attendance alone.
+He is called and taught rather than merely faithful: he stands apart from those who come only for the [Blessing of Light]{.name data-type="lore/custom"} or the [Night of Dreams]{.name data-type="lore/gathering"}, and his standing rests on the Ansorun who guides him rather than on attendance alone.
 
 ## Privileges
 

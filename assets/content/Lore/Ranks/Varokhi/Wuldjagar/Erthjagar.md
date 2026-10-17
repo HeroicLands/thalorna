@@ -8,7 +8,7 @@ tags: []
 data: {culture: varokhiclt}
 ---
 
-One of the company, carrying a charge and a share of the kill, in Wuljagar erund Garskald.
+An Erthjagár is one of the company, carrying a charge and a share of the kill, in [[affiliation-wldjgrrndgrskld|Wuljagar erund Garskald]].
 
 ## What This Standing Is
 

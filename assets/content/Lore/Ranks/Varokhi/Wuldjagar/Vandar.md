@@ -8,11 +8,11 @@ tags: []
 data: {culture: varokhiclt}
 ---
 
-Recently inducted and still learning the ways, watched for signs of weakness, in Wuljagar erund Garskald.
+A Vandár is recently inducted and still learning the ways, watched for signs of weakness, in [[affiliation-wldjgrrndgrskld|Wuljagar erund Garskald]].
 
 ## What This Standing Is
 
-A Vandár is recently inducted into the company and still learning its ways—carrying, skinning, hauling, and watching the Wurlár and the proven [[lore-erthjagarrnk|Erthjagár]]s at their work. Varokh hunters cannot afford squeamishness, and a Vandár is watched by the others for any sign that he cannot yet meet that standard.
+A Vandár is recently inducted into the company and still learning its ways—carrying, skinning, hauling, and watching the Wurlár and the proven [[lore-erthjagarrnk|Erthjagár]]s at their work. [[lore-varokhiclt|Varokhi]] hunters cannot afford squeamishness, and a Vandár is watched by the others for any sign that he cannot yet meet that standard.
 
 ## How the Law Treats a Person Here
 

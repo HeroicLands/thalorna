@@ -7,9 +7,9 @@ description: "Bound for life by a vow completed in the ordeal a god sets, in a d
 tags: []
 ---
 
-A woman comes to the door of a Mahajayan household and says she has finished the **Fair Measure**, a year of public weighing with no complaint of short weight from anyone. "You take her word," the keeper of the village shrine tells the householder's son, who has never met a **Vretin** and is wondering where the proof is kept. "There is no register. There is no priest who watched. If she says she is under vow, she is, and you receive her as you would a guest the god sent."
+A woman comes to the door of a household of the [[affiliation-mahajaya|Mahajaya]] faith and says she has finished [The Fair Measure]{.name data-type="lore/custom"}, a year of public weighing with no complaint of short weight from anyone. "You take her word," the keeper of the village shrine tells the householder's son, who has never met a Vow-Bound Devotee, or Vretin, and is wondering where the proof is kept. "There is no register. There is no priest who watched. If she says she is under vow, she is, and you receive her as you would a guest the god sent."
 
-Bound for life by a vow completed in the ordeal a god sets, in a devotion that confers no office: that is the standing of a **Vow-Bound Devotee**.
+Bound for life by a vow completed in the ordeal a god sets, in a devotion that confers no office: that is the standing of a Vow-Bound Devotee.
 
 ## What This Standing Is
 

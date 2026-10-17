@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-"Your life is mine until I judge you fit to compose your first saga," a master tells the pupil he has chosen. "Until the assembled skalds accept it, the Circle owes you nothing. If they reject it three times, we part without recrimination and without rank."
+"Your life is mine until I judge you fit to compose your first saga," a master tells the Geldrir, the pupil he has chosen. "Until the assembled skalds accept it, [[affiliation-skaldscrcl|The Skalds' Circle]] owes you nothing. If they reject it three times, we part without recrimination and without rank."
 
 ## What This Standing Is
 
@@ -20,7 +20,7 @@ He is entitled to nothing of the Circle's own—not its hospitality, not the bin
 
 ## Privileges
 
-He may present a _geldra_ at a [[lore-skaldating|Skaldating]], and if it is accepted he is sworn into the Circle by his own master and becomes a sworn skald in his own right.
+He may present a _geldra_ at a Skaldating, and if it is accepted he is sworn into the Circle by his own master and becomes a sworn skald in his own right.
 
 ## Obligations
 

@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-"I keep this hov's rites and I answer for the people who gather at it," says a gudi who keeps a farm hov in the Norgaad passes. "If I refuse a man the blet, he is out of the faith's law, the way a ting's sentence puts a man out of his clan. That much of the ting's power I hold over the people of this hov."
+"I keep this hov's rites and I answer for the people who gather at it," says a priest holding Gudi / Gudja standing who keeps a farm hov in the passes of the [[affiliation-kingdmnrgd|Kingdom of Norgaad]]. "If I refuse a man the blet, he is out of the faith's law, the way a ting's sentence puts a man out of his clan. That much of the ting's power I hold over the people of this hov."
 
 ## What This Standing Is
 
@@ -28,8 +28,8 @@ He keeps his hov's rites at their proper times, offers for the people who gather
 
 ## Offices Open at This Standing
 
-The gudi of a named hov—[[place-thrumufjall|Thrumufjall]], [[place-odholm|Odholm]], [[place-logstead|Logstead]], or **Horgsvík** among them—the rune-caster, the coast's Sea Warden, the oracle, and the seid-worker, none of which raises him above this rank.
+The gudi of a named hov—[[place-thrumufjall|Thrumufjall]], [[place-odholm|Odholm]], [[place-logstead|Logstead]], or [Horgsvík]{.name data-type="place/structure"} among them—the rune-caster, the coast's Sea Warden, the oracle, and the seid-worker, none of which raises him above this rank.
 
 ## Where This Standing Is Held
 
-The faiths of the Ten that keep the blet, each under its own hov. The standing belongs to that hov's rites and clergy; it does not extend to devotions whose admission and authority rest on other observances.
+The faiths of the [[affiliation-asguardian|Asguardian Pantheon]] that keep the blet, each under its own hov. The standing belongs to that hov's rites and clergy; it does not extend to devotions whose admission and authority rest on other observances.

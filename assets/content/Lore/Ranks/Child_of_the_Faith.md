@@ -7,7 +7,7 @@ description: "Consecrated to a faith at birth and counted among its faithful bef
 tags: []
 ---
 
-Consecrated to a faith at birth and counted among its faithful before reaching an age to keep its duties.
+A Child of the Faith is consecrated to a faith at birth and counted among its faithful before reaching an age to keep its duties.
 
 ## What This Standing Is
 

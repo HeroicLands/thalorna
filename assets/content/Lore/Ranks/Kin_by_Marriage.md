@@ -7,7 +7,7 @@ description: "Married into a house, holding its name and its standing without it
 tags: []
 ---
 
-Married into a house, holding its name and its standing without its blood.
+Kin by Marriage means being married into a house, holding its name and its standing without its blood.
 
 ## What This Standing Is
 

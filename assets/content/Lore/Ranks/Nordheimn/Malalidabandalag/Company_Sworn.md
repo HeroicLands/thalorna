@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-A warrior leaving one signed company for another holds no ring and no standing of his own before the **Council of the Hall**; at the Compact-Hall in [[place-hringstead|Hringstead]] his old captain's oath and his new captain's are all he has. The captain testifies to the standing; the warrior does not swear it.
+A warrior with Sworn of a Signed Company standing who leaves one signed company for another holds no ring and no standing of his own before [[affiliation-malldbndlg|Málalidabandalag]]'s [Council of the Hall]{.name data-type="affiliation/governmental"}; at the [Compact-Hall]{.name data-type="place/structure"} in [[place-hringstead|Hringstead]] his old captain's oath and his new captain's are all he has. The captain testifies to the standing; the warrior does not swear it.
 
 ## What This Standing Is
 

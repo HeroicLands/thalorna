@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-"Long-watcher is what the word means, and it describes the work," an Ansorun tells the ilthorin newly come to learn in the grove. "We keep the rites, we look after the faithful and we stand over the sacred places. Every Ansorun stands level with every other, so when two of us disagree nobody settles it for us. Any of us may call the **Aulirarno**, the council of radiance, and we talk until we agree."
+"Long-watcher is what the word means, and it describes the work," an Ansorun tells the ilthorin newly come to learn in the grove. "We keep the rites, we look after the faithful and we stand over the sacred places. Every Ansorun stands level with every other, so when two of us disagree nobody settles it for us. Any of us may call the [Aulirarno]{.name data-type="affiliation/governmental"}, the council of radiance, and we talk until we agree."
 
 ## What This Standing Is
 

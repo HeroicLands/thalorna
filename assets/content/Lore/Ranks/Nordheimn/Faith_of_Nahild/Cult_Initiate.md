@@ -8,11 +8,11 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-The cult of [[affiliation-nahild|Nahild]] admits by teaching. A hidden hov's gudi shows an offerer it has come to trust the secret observances only the cult's own initiates know, and the teaching is the admission.
+The [[affiliation-nahild|Faith of Nahild]] admits by teaching. A hidden hov's gudi shows an offerer it has come to trust the secret observances only the cult's own initiates know, and the teaching is the admission.
 
 ## What This Standing Is
 
-An initiate keeps the secret observances of Nahild's worship, known to the cult's own initiates and to nobody outside it. The hidden hov's gudi confers the teaching on an offerer it has come to trust, and that act is the cult's own admission.
+Her Initiate keeps the secret observances of Nahild's worship, known to the cult's own initiates and to nobody outside it. The hidden hov's gudi confers the teaching on an offerer it has come to trust, and that act is the cult's own admission.
 
 ## How the Law Treats a Person Here
 
@@ -28,7 +28,7 @@ He guards the secrecy of the observances he has been taught and the hov that tau
 
 ## Offices Open at This Standing
 
-None short of ordination as [[lore-cultgodirnk|Her Gudi or Gudja]].
+None short of ordination as [[lore-cultgodirnk|Her Gudi / Gudja]].
 
 ## Where This Standing Is Held
 

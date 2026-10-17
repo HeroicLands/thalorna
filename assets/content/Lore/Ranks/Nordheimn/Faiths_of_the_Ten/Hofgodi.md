@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-No hov of the faith stands unless a hofgudi has consecrated it, and no gudi keeps the blet unless a hofgudi has ordained him. That is the whole reach of the standing, and nothing in the faith sits over it.
+No hov of the faith stands unless a priest of Hofgudi / Hofgudja standing has consecrated it, and no gudi keeps the blet unless a hofgudi has ordained him. That is the whole reach of the standing, and nothing in the faith sits over it.
 
 ## What This Standing Is
 
@@ -32,4 +32,4 @@ None above it within the faith; the Landsgudi who hallows the ting island at [[p
 
 ## Where This Standing Is Held
 
-The faiths of the Ten that keep the blet, each under its own hov. The standing belongs to that hov's rites and clergy; it does not extend to devotions whose admission and authority rest on other observances.
+The faiths of the [[affiliation-asguardian|Asguardian Pantheon]] that keep the blet, each under its own hov. The standing belongs to that hov's rites and clergy; it does not extend to devotions whose admission and authority rest on other observances.

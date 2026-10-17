@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-A stóraldstjori is one of the skalds whose sagas the [[affiliation-skaldscrcl|Skalds' Circle]] teaches every apprentice: perhaps a dozen at any time, across all the kingdoms.
+A Stóraldstjori is one of the skalds whose sagas [[affiliation-skaldscrcl|The Skalds' Circle]] teaches every apprentice: perhaps a dozen at any time, across all the kingdoms.
 
 ## What This Standing Is
 
@@ -20,7 +20,7 @@ His compositions are what the Circle itself now stands on: the repertoire he has
 
 ## Privileges
 
-His sagas stand in the repertoire taught to every apprentice, and his standing among the senior skalds gives his judgment particular weight when a [[lore-skaldating|Skaldating]] resolves a disputed recitation.
+His sagas stand in the repertoire taught to every apprentice, and his standing among the senior skalds gives his judgment particular weight when a Skaldating resolves a disputed recitation.
 
 ## Obligations
 

@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-A High Jarl is first among the jarls of Stormveld and is not their king: each jarl holds his jarldom himself and owes the High Jarl nominal allegiance, no more, and the jarls chose him from among themselves and can choose another.
+A High Jarl is first among the jarls of the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] and is not their king: each jarl holds his jarldom himself and owes the High Jarl nominal allegiance, no more, and the jarls chose him from among themselves and can choose another.
 
 ## What This Standing Is
 

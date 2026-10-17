@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-At [[place-raltholm|Raltholm]] the hersvald's horn calls the levy, and the men who answer it are the same men whose consent keeps him in his hall. That is the standing in one picture: a hersvald leads a district because the district agrees to be led.
+At [[place-raltholm|Raltholm]] the Hersvald's horn calls the levy, and the men who answer it are the same men whose consent keeps him in his hall. That is the standing in one picture: a hersvald leads a district because the district agrees to be led.
 
 ## What This Standing Is
 
@@ -32,4 +32,4 @@ The Lawspeaker's seat at a kingdom's ting, the Hirvstjori's command of the king'
 
 ## Where This Standing Is Held
 
-The five kingdoms—[[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vithgard]]—hold this standing under one Nordmal law, and the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] holds it under the same name.
+The five kingdoms—[[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—hold this standing under one Nordmal law, and the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] holds it under the same name.

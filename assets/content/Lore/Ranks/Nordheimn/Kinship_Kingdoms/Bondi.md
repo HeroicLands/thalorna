@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-A bundi's odel land is his because his father's was. No jarl granted it, so no jarl can take it back at will, and when the ting rules, the ruling binds the jarl over him as it binds him.
+A Bundi's odel land is his because his father's was. No jarl granted it, so no jarl can take it back at will, and when the ting rules, the ruling binds the jarl over him as it binds him.
 
 ## What This Standing Is
 
@@ -24,7 +24,7 @@ He bears arms, speaks at the ting in his own name, and his odel land is his by i
 
 ## Obligations
 
-He answers the muster when it is called and pays the dues his kingdom sets. Where a kingdom holds a standing watch—the rotating fort-duty of [[affiliation-kingdmtrgd|Targud]] against the [[place-grkrhlmrgn|Grukar]] is the worked case—the muster this rank owes is that watch.
+He answers the muster when it is called and pays the dues his kingdom sets. Where a kingdom holds a standing watch—the rotating fort-duty of [[affiliation-kingdmtrgd|Kingdom of Targud]] against the [[lore-grukarfolk|Grukar Folk]] is the worked case—the muster this rank owes is that watch.
 
 ## Offices Open at This Standing
 
@@ -32,4 +32,4 @@ A hersvald's muster, a landvordr's witness at a mark-walk, and a hirvman's oath�
 
 ## Where This Standing Is Held
 
-The five kingdoms—[[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vithgard]]—hold this standing under one Nordmal law, and the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] holds it under the same name.
+The five kingdoms—[[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—hold this standing under one Nordmal law, and the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] holds it under the same name.

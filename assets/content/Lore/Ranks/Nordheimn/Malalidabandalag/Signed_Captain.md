@@ -8,15 +8,15 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-A captain who swears a company into the Compact at [[place-hringstead|Hringstead]] learns the weight of it at once: his oath is the company's oath, and the Compact holds him answerable for whatever the company does.
+A Signed Captain who swears a company into [[affiliation-malldbndlg|Málalidabandalag]] at [[place-hringstead|Hringstead]] learns the weight of it at once: his oath is the company's oath, and the Compact holds him answerable for whatever the company does.
 
 ## What This Standing Is
 
-A signed captain swears his company into the Compact before the **Council of the Hall**, binding it to accept the Compact's rulings, honor sworn terms, declare any contract against another signed company, and pay the Hall's annual due. He wears the bandlagshringr, a bronze ring on the right thumb bearing the Compact's mark and his own sigil, awarded at the swearing.
+A signed captain swears his company into the Compact before the [Council of the Hall]{.name data-type="affiliation/governmental"}, binding it to accept the Compact's rulings, honor sworn terms, declare any contract against another signed company, and pay the Hall's annual due. He wears the bandlagshringr, a bronze ring on the right thumb bearing the Compact's mark and his own sigil, awarded at the swearing.
 
 ## How the Law Treats a Person Here
 
-His oath is the company's oath: the Compact holds him answerable for his company's conduct under the **Sworn Word**, the **Quiet Withdrawal**, the **Open Field**, and the **Hall's Due**, and it is his ring—not any mark on his warriors—that the Council can take back to end the standing.
+His oath is the company's oath: the Compact holds him answerable for his company's conduct under the [Sworn Word]{.name data-type="lore/law"}, the [Quiet Withdrawal]{.name data-type="lore/law"}, the [Open Field]{.name data-type="lore/law"}, and the [Hall's Due]{.name data-type="lore/law"}, and it is his ring—not any mark on his warriors—that the Council can take back to end the standing.
 
 ## Privileges
 

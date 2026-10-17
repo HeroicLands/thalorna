@@ -8,7 +8,7 @@ tags: []
 data: {culture: varokhiclt}
 ---
 
-Bears a charge on the renown a deed has already won, assisting the elders in everyday duties, in the Vristwald Tribes.
+A Hrodthúl bears a charge on the renown a deed has already won, assisting the elders in everyday duties, in the [[affiliation-vrystwldtrbs|Vristwald Tribes]].
 
 ## What This Standing Is
 

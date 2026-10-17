@@ -8,11 +8,11 @@ tags: []
 data: {culture: varokhiclt}
 ---
 
-Cast out by their own kin and claimed by none, in the Vristwald Tribes.
+A Vristrith is cast out by their own kin and claimed by none, in the [[affiliation-vrystwldtrbs|Vristwald Tribes]].
 
 ## What This Standing Is
 
-A Varokh becomes a Vristrith by being cast out by his own kin and claimed by none—typically an oath-breaker, since a Varokh's word spoken before a war-band is the whole of his security and breaking it removes him from the economy of trust the society runs on rather than merely wronging one party to it.
+A member of the [[lore-varokhiclt|Varokhi]] people becomes a Vristrith by being cast out by his own kin and claimed by none—typically an oath-breaker, since a Varokh's word spoken before a war-band is the whole of his security and breaking it removes him from the economy of trust the society runs on rather than merely wronging one party to it.
 
 ## How the Law Treats a Person Here
 
@@ -32,4 +32,4 @@ None.
 
 ## Where This Standing Is Held
 
-The [[affiliation-vrystwldtrbs|Vristwald Tribes]] alone. Every member of [[lore-grimmundrnk|the Blackpine Wolves]] also holds this standing, since full membership in that band is exclusion from the tribes around it.
+The [[affiliation-vrystwldtrbs|Vristwald Tribes]] alone. Every member of [[affiliation-blckpnwlvs|The Blackpine Wolves]] also holds this standing, since full membership in that band is exclusion from the tribes around it.

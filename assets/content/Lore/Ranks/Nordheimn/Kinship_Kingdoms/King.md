@@ -8,11 +8,11 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-A king keeps his arm-ring on the ting's consent. The assembly that acclaims him can decline to hand it back, and a king who loses that consent loses the throne with it.
+A Hringsveld, a king, keeps his arm-ring on the ting's consent. The assembly that acclaims him can decline to hand it back, and a king who loses that consent loses the throne with it.
 
 ## What This Standing Is
 
-A king is chosen from the royal clans and acclaimed at the ting, holding the realm by the assembly's consent as much as by his descent. Nordheim, Malagna, Norgaad, Targud, and Vithgard each acclaim their own.
+A king is chosen from the royal clans and acclaimed at the ting, holding the realm by the assembly's consent as much as by his descent. [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] each acclaim their own.
 
 ## How the Law Treats a Person Here
 

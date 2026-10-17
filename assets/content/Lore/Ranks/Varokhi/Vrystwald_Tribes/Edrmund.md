@@ -8,7 +8,7 @@ tags: []
 data: {culture: varokhiclt}
 ---
 
-Free and of no kin, sheltered by a household without being of its blood, in the Vristwald Tribes.
+An Edrmund is free and of no kin, sheltered by a household without being of its blood, in the [[affiliation-vrystwldtrbs|Vristwald Tribes]].
 
 ## What This Standing Is
 
@@ -16,7 +16,7 @@ An Edrmund is sheltered by a household without being of its blood—a freed [[lo
 
 ## How the Law Treats a Person Here
 
-He has no war-band to swear before, so nobody can take his word the way a kinsman's oath is taken: the household that shelters him vouches for him as it can, but the security a Varokh's spoken oath carries belongs to blood-kin and not yet to him.
+He has no war-band to swear before, so nobody can take his word the way a kinsman's oath is taken: the household that shelters him vouches for him as it can, but the security a member of the [[lore-varokhiclt|Varokhi]] people's spoken oath carries belongs to blood-kin and not yet to him.
 
 ## Privileges
 

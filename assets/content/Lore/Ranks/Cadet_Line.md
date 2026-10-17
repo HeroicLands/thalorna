@@ -7,7 +7,7 @@ description: "Head of a junior line of a house, holding lands or offices of its 
 tags: []
 ---
 
-Head of a junior line of a house, holding lands or offices of its own and standing behind the senior line.
+Cadet Line is the standing of the head of a junior line of a house, holding lands or offices of its own and standing behind the senior line.
 
 ## What This Standing Is
 

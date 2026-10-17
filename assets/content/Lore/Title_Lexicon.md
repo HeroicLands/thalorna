@@ -6,8 +6,8 @@ subType: reference
 data: {banner: null}
 ---
 
-Thalorna's peoples do the same things and call them by different words. A
-Nordman and a Khelathi both have a man who holds a province for the king; one is
+The Title Lexicon sets out how [[place-worldthlrn|The World of Thalorna]]'s peoples do the same things and call them by different words. A
+member of the [[lore-nordheimnclt|Nordheimn]] people and a [[lore-khelathiclt|Khelathi]] both have a man who holds a province for the king; one is
 a Jarl and the other a Halzi'a. This note sets those words beside each other, so
 that a name met in play can be placed, and a name needed in play can be found.
 
@@ -15,8 +15,7 @@ that a name met in play can be placed, and a name needed in play can be found.
 
 **Standing** is where a person stands—what the law and the neighbors reckon
 them, whether or not they hold any post. **Office** is the job: a charge held,
-exercised, and one day handed on. They move independently. Three of the Nine
-Houses of Chendrapur share a standing and hold no office at all between them,
+exercised, and one day handed on. They move independently. Three of the [Nine Houses of Chendrapur]{.name data-type="affiliation"} share a standing and hold no office at all between them,
 while the man who keeps the canal has an office and very little standing.
 
 So the tables below are two kinds, and they are read differently. Standing is a
@@ -42,7 +41,7 @@ is.
 
 Where a people is absent, none of its polities states a ladder. An absence is not
 always a silence: the Khelathi run their selatu without a treasurer and read no
-omens at court, and both are facts about Au'Khelathu rather than gaps in the
+omens at court, and both are facts about the [[affiliation-empireakhlth|Empire of Au'Khelathu]] rather than gaps in the
 account of it.
 
 ```sql {section-level=3}
@@ -193,11 +192,11 @@ particular idea of what that means—thrown out of the kindred, struck from the
 citizen roll, unnamed, or cut away. The word is the argument.
 
 **The same word can mean two things in two places.** `Shekhul` is the chief priest
-of the Ashalan faiths and an office among the Khazryn; `Elder` is a standing, an
+of the Ashalan faiths and an office among the [[lore-khazariclt|Khazari]]; `Elder` is a standing, an
 office in six peoples, and a courtesy anyone may use. Nothing prevents it, and
 the setting is older than its vocabulary.
 
-**Standing does not sort peoples against each other.** A Vedyari `Samanta` and a
+**Standing does not sort peoples against each other.** A [[lore-vedyariclt|Vedyari]] `Samanta` and a
 Nordmal `Jarl` occupy the same rung of their own ladders. That says they stand
 in the same relation to their sovereign, and nothing at all about which of them
 is the greater man.

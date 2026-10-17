@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-Here is how a senior of the [[affiliation-eidhond|Order of the Sworn Hand]] puts it to a new Hand-Squire: "You wear nothing yet. You eat the order's bread, you learn at my elbow, and a senior can send you home, because you have sworn nothing that a council would have to try you under." The [[affiliation-ordrstrmspkrs|Storm-Speakers]] say the same to a Storm-Aspirant and the [[affiliation-thursborn|Giant's Children]] to a Frost-Touched, each in its own words. A candidate is the one standing in a sworn order that the order can set aside at will.
+Here is how a senior of [[affiliation-eidhond|The Order of the Sworn Hand]] puts it to a new Candidate of a Sworn Order, called a Hand-Squire: "You wear nothing yet. You eat the order's bread, you learn at my elbow, and a senior can send you home, because you have sworn nothing that a council would have to try you under." [[affiliation-ordrstrmspkrs|The Order of the Storm-Speakers]] says the same to a Storm-Aspirant and [[affiliation-thursborn|The Giant's Children]] to a Frost-Touched, each in its own words. A candidate is the one standing in a sworn order that the order can set aside at will.
 
 ## What This Standing Is
 
@@ -32,4 +32,4 @@ None.
 
 ## Where This Standing Is Held
 
-Asguardian fighting orders that admit a candidate before the sworn standing. The [[affiliation-gronverdir|Order of the Green Wardens]] admits no member below its sworn rank. Each admitting order sets its own trials; candidacy gives no authority to act as a sworn member.
+Asguardian fighting orders that admit a candidate before the sworn standing. [[affiliation-gronverdir|The Green Wardens]] admit no member below its sworn rank. Each admitting order sets its own trials; candidacy gives no authority to act as a sworn member.

@@ -8,7 +8,7 @@ tags: []
 data: {culture: varokhiclt}
 ---
 
-One of the six who follow Dagbán yra Vethar wur Thrareth, held by fear of the leader and the absence of better options, in the Blackpine Wolves.
+A Grimmund is one of the six who follow [[being-dagulfvthr|Dagbán yra Vethar wur Thrareth]], held by fear of the leader and the absence of better options, in [[affiliation-blckpnwlvs|The Blackpine Wolves]].
 
 ## What This Standing Is
 
@@ -16,7 +16,7 @@ The Blackpine Wolves hold no formal hierarchy below their leader, Dagbán, who r
 
 ## How the Law Treats a Person Here
 
-There is no second-in-command the gang recognizes as such: Thrawald yra Hildskorn wur Thrastein is deferred to only by seniority and sheer size, and Skathilda yra Frodbán wur Vandgrund is the most dangerous member after Dagbán while holding no standing above the others at all—the tension between what a member is worth to the band and what the band's own law says he holds is never resolved by any rank.
+There is no second-in-command the gang recognizes as such: [[being-thrwldhldskrn|Thrawald yra Hildskorn wur Thrastein]] is deferred to only by seniority and sheer size, and [[being-skthldfrdbn|Skathilda yra Frodbán wur Vandgrund]] is the most dangerous member after Dagbán while holding no standing above the others at all—the tension between what a member is worth to the band and what the band's own law says he holds is never resolved by any rank.
 
 ## Privileges
 
@@ -28,7 +28,7 @@ He follows Dagbán's word, since no formal hierarchy exists to appeal to or to s
 
 ## Offices Open at This Standing
 
-None. Every member also holds [[lore-vrystrithrnk|Vristrith]] in the Vristwald Tribes around the band, full membership here being exclusion from the tribes at once.
+None. Every member also holds [[lore-vrystrithrnk|Vristrith]] in the [[affiliation-vrystwldtrbs|Vristwald Tribes]] around the band, full membership here being exclusion from the tribes at once.
 
 ## Where This Standing Is Held
 

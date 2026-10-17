@@ -8,15 +8,15 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-Nobody enrolls in the faith of [[affiliation-bjartr|Bjart]]. You come to a rite, and from that night you are counted among the faith's people.
+Nobody enrolls in the [[affiliation-bjartr|Faith of Bjart]]. You come to a rite, and from that night you are counted among the faith's people.
 
 ## What This Standing Is
 
-The faithful are those who come to the **Blessing of Light**, a ceremony held preferably in a forest where the priests bless those gathered against darkness and despair, and to the **Night of Dreams**, where they share their dreams and visions and seek Bjart's guidance. Coming to these rites is the whole of what admits a person to this standing.
+The Faithful are those who come to the [Blessing of Light]{.name data-type="lore/custom"}, a ceremony held preferably in a forest where the priests bless those gathered against darkness and despair, and to the [Night of Dreams]{.name data-type="lore/gathering"}, where they share their dreams and visions and seek Bjart's guidance. Coming to these rites is the whole of what admits a person to this standing.
 
 ## How the Law Treats a Person Here
 
-He is counted among the faith's people once he has received the Blessing of Light or joined the Night of Dreams, and is reckoned so until the **Aulirarno**, the faith's council, withholds its accord from him and leaves him [[lore-unaccordedrnk|Unaccorded]] instead.
+He is counted among the faith's people once he has received the Blessing of Light or joined the Night of Dreams, and is reckoned so until the [Aulirarno]{.name data-type="affiliation/governmental"}, the faith's council, withholds its accord from him and leaves him [[lore-unaccordedrnk|Hluskmadr]] instead.
 
 ## Privileges
 

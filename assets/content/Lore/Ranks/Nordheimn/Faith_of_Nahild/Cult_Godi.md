@@ -8,11 +8,11 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-Outsiders cannot name the person who keeps one of [[affiliation-nahild|Nahild]]'s hidden hovs, and that is what the secrecy is for. A gudi or gudja takes the sacrifices of a hov in hiding, and every initiate and offerer keeps silent chiefly to protect that one person and the rite they keep.
+Outsiders cannot name the person who keeps one of the hidden hovs of the [[affiliation-nahild|Faith of Nahild]], and that is what the secrecy is for. Her Gudi / Gudja takes the sacrifices of a hov in hiding, and every initiate and offerer keeps silent chiefly to protect that one person and the rite they keep.
 
 ## What This Standing Is
 
-In a worship every other faith of the Ten holds heretical, no rank sits above this one: a hidden hov has no keeper anyone outside may name, and there is no great public blet for a higher standing to perform.
+In a worship every other faith of the [[affiliation-asguardian|Asguardian Pantheon]] holds heretical, no rank sits above this one: a hidden hov has no keeper anyone outside may name, and there is no great public blet for a higher standing to perform.
 
 ## How the Law Treats a Person Here
 

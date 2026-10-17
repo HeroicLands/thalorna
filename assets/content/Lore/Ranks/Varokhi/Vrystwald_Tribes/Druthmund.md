@@ -8,11 +8,11 @@ tags: []
 data: {culture: varokhiclt}
 ---
 
-Of a kindred's blood, entitled to its protection, its feud and its share, in the Vristwald Tribes.
+A Druthmund is of a kindred's blood, entitled to its protection, its feud and its share, in the [[affiliation-vrystwldtrbs|Vristwald Tribes]].
 
 ## What This Standing Is
 
-A Druthmund is of a kindred's blood, entitled to its protection, its feud, and its share, and holds a true name earned by a deed of significance at eth-kethrun, the rite that marks a Varokh's passage to adulthood. This is the same standing for a man and a woman alike: the man's voice at the moot and the woman's hand on the household, its stores, its stock, and its [[lore-othmundrnk|Othmund]]s are two halves of one full membership.
+A Druthmund is of a kindred's blood, entitled to its protection, its feud, and its share, and holds a true name earned by a deed of significance at [eth-kethrun]{.name data-type="lore/custom"}, the rite that marks a member of the [[lore-varokhiclt|Varokhi]] people's passage to adulthood. This is the same standing for a man and a woman alike: the man's voice at the moot and the woman's hand on the household, its stores, its stock, and its [[lore-othmundrnk|Othmund]]s are two halves of one full membership.
 
 ## How the Law Treats a Person Here
 

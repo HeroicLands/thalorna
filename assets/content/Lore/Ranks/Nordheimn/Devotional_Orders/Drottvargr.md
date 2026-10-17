@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-Ask how a devotional order puts a devotee out and the answer is nearly always the bare fact: each order words its own expulsion, and most record only that it happens. What the orders share is the result. A devotee who is cast out loses the order's shelter and its purpose together.
+Ask how a devotional order makes a devotee a Drottvargr by putting him out and the answer is nearly always the bare fact: each order words its own expulsion, and most record only that it happens. What the orders share is the result. A devotee who is cast out loses the order's shelter and its purpose together.
 
 ## What This Standing Is
 
@@ -32,4 +32,4 @@ None.
 
 ## Where This Standing Is Held
 
-The devotional orders of the faiths of the Ten that confer this standing. Each order gives it the obligations of its own devotion; it is standing within that order, rather than authority over the other orders.
+The devotional orders of the faiths of the [[affiliation-asguardian|Asguardian Pantheon]] that confer this standing. Each order gives it the obligations of its own devotion; it is standing within that order, rather than authority over the other orders.

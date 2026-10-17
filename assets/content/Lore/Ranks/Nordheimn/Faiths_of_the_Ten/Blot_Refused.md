@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-A gudi at the door of his hov can refuse a man the offering and a place at the meal. The blet ties a man to his clan as well as to his god, so the refusal cuts both at once.
+Refused the Blet is the standing a man holds when a gudi at the door of his hov refuses him the offering and a place at the meal. The blet ties a man to his clan as well as to his god, so the refusal cuts both at once.
 
 ## What This Standing Is
 
@@ -32,4 +32,4 @@ None.
 
 ## Where This Standing Is Held
 
-The faiths of the Ten that keep the blet, each under its own hov. The standing belongs to that hov's rites and clergy; it does not extend to devotions whose admission and authority rest on other observances.
+The faiths of the [[affiliation-asguardian|Asguardian Pantheon]] that keep the blet, each under its own hov. The standing belongs to that hov's rites and clergy; it does not extend to devotions whose admission and authority rest on other observances.

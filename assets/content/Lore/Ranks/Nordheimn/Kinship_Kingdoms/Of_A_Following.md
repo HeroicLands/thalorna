@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-A free person with no clan has nobody to answer for them, so the law finds someone else. A lidmadr is vouched for by a following in place of kin, whether that is a former master, a company under a captain or the terms on which a settler was welcomed.
+A free person with no clan has nobody to answer for them, so the law finds someone else. A Lidmadr is vouched for by a following in place of kin, whether that is a former master, a company under a captain or the terms on which a settler was welcomed.
 
 ## What This Standing Is
 
@@ -32,4 +32,4 @@ None. A lidmadr's obligations run to the man or company he follows, not to an of
 
 ## Where This Standing Is Held
 
-The five kingdoms—[[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vithgard]]—hold this standing under one Nordmal law, and the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] holds it under the same name.
+The five kingdoms—[[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—hold this standing under one Nordmal law, and the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] holds it under the same name.

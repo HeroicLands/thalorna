@@ -16,7 +16,7 @@ The ting casts a man out for an offense grave enough that the assembly refuses h
 
 ## How the Law Treats a Person Here
 
-Harm done to a niding is answered for by nobody. Killing him carries no wergild, hiding him is itself an offense, and no hall may feed him without answering to the ting that cast him out.
+Harm done to a Niding is answered for by nobody. Killing him carries no wergild, hiding him is itself an offense, and no hall may feed him without answering to the ting that cast him out.
 
 ## Privileges
 
@@ -32,4 +32,4 @@ None.
 
 ## Where This Standing Is Held
 
-The five kingdoms—[[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vithgard]]—hold this standing under one Nordmal law, and the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] holds it under the same name.
+The five kingdoms—[[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—hold this standing under one Nordmal law, and the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] holds it under the same name.

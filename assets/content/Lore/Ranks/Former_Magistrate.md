@@ -7,7 +7,7 @@ description: "Having held a body's chief magistracy and laid it down, and keepin
 tags: []
 ---
 
-Having held a body's chief magistracy and laid it down, and keeping the weight of it ever after.
+A Former Magistrate has held a body's chief magistracy and laid it down, and keeps the weight of it ever after.
 
 ## What This Standing Is
 

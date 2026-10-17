@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-Every other faith of the Ten treats [[affiliation-nahild|Nahild]]'s worship as heresy, so turning to her is already an act. An offerer has turned and brings a hidden hov the offering it asks, and holds none of the cult's secret observances yet.
+Every other faith of the [[affiliation-asguardian|Asguardian Pantheon]] treats the worship of the [[affiliation-nahild|Faith of Nahild]] as heresy, so turning to her is already an act. Her Offerer has turned and brings a hidden hov the offering it asks, and holds none of the cult's secret observances yet.
 
 ## What This Standing Is
 

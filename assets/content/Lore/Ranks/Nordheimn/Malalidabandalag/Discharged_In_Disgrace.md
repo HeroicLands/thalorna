@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-When the **Council of the Hall** votes a captain out of the Compact, the bronze thumb-ring is the first thing he gives up and his company's contracts are the next.
+A captain is Discharged in Disgrace when the [Council of the Hall]{.name data-type="affiliation/governmental"} votes him out of [[affiliation-malldbndlg|Málalidabandalag]]; the bronze thumb-ring is the first thing he gives up and his company's contracts are the next.
 
 ## What This Standing Is
 
@@ -16,7 +16,7 @@ A captain is expelled by vote of the Council for breaking one of the Compact's s
 
 ## How the Law Treats a Person Here
 
-Expulsion is functionally a death sentence in the Nordlands trade: an expelled company finds its contracts dishonored, its members refused service at sworn hostels, and its rivals encouraged to settle old debts, none of which the Compact will intervene to prevent once its ring is surrendered.
+Expulsion is functionally a death sentence in the [[place-nrdlndsrgn|Nordlands Region]] trade: an expelled company finds its contracts dishonored, its members refused service at sworn hostels, and its rivals encouraged to settle old debts, none of which the Compact will intervene to prevent once its ring is surrendered.
 
 ## Privileges
 

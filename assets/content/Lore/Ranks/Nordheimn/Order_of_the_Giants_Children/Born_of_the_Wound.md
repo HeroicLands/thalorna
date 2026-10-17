@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-The ordeal exists because the order holds that a fight properly fought shares in the violence that cut the world from [[lore-hrimthurspr|Hrimthur]]'s body, so its members fight at the order's call and nowhere else, never for pay, crown, jarl or grudge: sacred strength is not for sale.
+The ordeal exists because [[affiliation-thursborn|The Giant's Children]] hold that a fight properly fought shares in the violence that cut the world from [[lore-hrimthurspr|Hrimthur]]'s body, so its members fight at the order's call and nowhere else, never for pay, crown, jarl or grudge: sacred strength is not for sale.
 
 ## What This Standing Is
 
@@ -24,11 +24,11 @@ He wears the order's mark, fights at the order's call believing the act sacred, 
 
 ## Obligations
 
-He keeps the **Renewal of Founding**, the **Cultivation of the Body**, and the **Refusal of Hire**: he trains without allowing his body to weaken, fights only at the order's call and never for payment, and holds the order's doctrine with the seriousness it demands.
+He keeps the [Renewal of Founding]{.name data-type="lore/law"}, the [Cultivation of the Body]{.name data-type="lore/law"}, and the [Refusal of Hire]{.name data-type="lore/law"}: he trains without allowing his body to weaken, fights only at the order's call and never for payment, and holds the order's doctrine with the seriousness it demands.
 
 ## Offices Open at This Standing
 
-None above the rank itself short of advancement to [[lore-ordrseniorrnk|Hand of the Host]].
+None above the rank itself short of advancement to [[lore-ordrseniorrnk|Senior of a Sworn Order]] as Hand of the Host.
 
 ## Where This Standing Is Held
 
