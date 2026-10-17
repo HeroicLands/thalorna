@@ -10,11 +10,11 @@ data: {demonym: null, lore: [], parents: [vylariargn], population: null, packFol
 
 ## Overview
 
-The River Vylaris gave the heartland its name, and it runs through it. It crosses the [[affiliation-provinclys|Province of Alessa]], flows past the eastern flank of [[place-orzara|Orzara]], and reaches the sea in the [[affiliation-provincvld|Province of Salkalon]]. For a land that lives on hauled goods, it is the one road that carries a cargo without a team.
+The River Vylaris gave the heartland its name, and it runs through it. It crosses the [[affiliation-provinclys|Province of Alessa]], flows past the eastern flank of [[place-orzara|Orzara City]], and reaches the sea in the [[affiliation-provincvld|Province of Salkalon]]. For a land that lives on hauled goods, it is the one road that carries a cargo without a team.
 
-A barge-master on the lower river puts it to the passengers who come aboard at the capital: "Every sack you saw in the gate-yards this morning came the long way round, by water or by road. We are the water. We bring the grain in to the city's wharves under Nerval in the dark, so the bakers have flour at dawn, and we take the empties back. The river does not care about the Senate. It cares about the rains in the hills."
+A barge-master on the lower river puts it to the passengers who come aboard at the capital: "Every sack you saw in the gate-yards this morning came the long way round, by water or by road. We are the water. We bring the grain in to the city's wharves under [Nerval]{.name data-type="place/feature"} in the dark, so the bakers have flour at dawn, and we take the empties back. The river does not care about [[affiliation-seldan|Seldan]], the Senate. It cares about the rains in the hills."
 
-Orzara stands on the river's eastern bank, beneath the [[place-sixhillsvyl|Six Hills]], and its Wharves and the River Circle lie along the water.
+Orzara stands on the river's eastern bank, beneath the [[place-sixhillsvyl|Six Hills]], and its [Wharves]{.name data-type="place/site"} and the [River Circle]{.name data-type="place/site"} lie along the water.
 
 ## See Also
 

@@ -79,13 +79,13 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 The Province of Hilen holds the land of [[place-hylen|Hilen]], and its landed aristocracy is the most conservative faction in Vylarian politics: traditionalist, suspicious of change, and deeply invested in the old social order. The _therkos_ (governor) sits at [[place-aravantia|Aravantara]].
 
-A steward of one of the great estates, asked by a visiting _gulmen_ (equestrian) what Hilen makes of the [[affiliation-ordoarcanis|Thordimalon]] and its growing weight at court, does not trouble to be polite: "The empire was built on soldiers and farmers. The mages and the money-changers came afterward, and they will be gone before the vines are."
+A steward of one of the great estates, asked by a visiting _gulmen_ (equestrian) what Hilen makes of [[affiliation-ordoarcanis|Thordimalon]] and its growing weight at court, does not trouble to be polite: "The [[affiliation-vylarinmpr|Vylarian Empire]] was built on soldiers and farmers. The mages and the money-changers came afterward, and they will be gone before the vines are."
 
 ## Character
 
 The estate lords live well, though not with the ostentatious wealth of the capital. Theirs is the quiet confidence of people who know that everyone else depends on what they grow.
 
-They resist the growing influence of the merchant class and of the Arcane Order alike, and they see themselves as the true guardians of Vylarian tradition. That makes Hilen a bastion of the **Imperial Cult** and of traditional [[affiliation-arldnpnthn|Aureldian]] practice. The estates have a horror of civil war that the Empire's other provinces do not share, because the one battle the Empire fought between its own legions was fought on an estate of this province ([[lore-olcassabtl|The Battle of Olkassa]]). The field itself is the [[place-olcassafld|Blood-field of Olkassa]].
+They resist the growing influence of the merchant class and of the Arcane Order alike, and they see themselves as the true guardians of Vylarian tradition. That makes Hilen a bastion of the **[Imperial Cult]{.name data-type="affiliation/faithtradition"}** and of the traditional practices of the [[affiliation-arldnpnthn|Aureldian Pantheon]]. The estates have a horror of civil war that the Empire's other provinces do not share, because the one battle the Empire fought between its own legions was fought on an estate of this province ([[lore-olcassabtl|The Battle of Olkassa]]). The field itself is [[place-olcassafld|The Blood-field of Olkassa]].
 
 ## Notable Features
 
@@ -102,7 +102,7 @@ What is abundant is food, wine and labor. What is scarce is hard coin, news, and
 
 ## Commerce and Currency
 
-The Province of Hilen uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through the [[affiliation-danvar|Danvar]] moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Imperial taxation is administered by the [[affiliation-tolvan|Tolvan]] and revenues flow to the [[affiliation-tarmex|Tarmeks Orzan]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+The Province of Hilen uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]] moneylenders chartered under [[affiliation-tevran|The Tevran Maldor]]. Imperial taxation is administered by [[affiliation-tolvan|The Tolvan]] and revenues flow to [[affiliation-tarmex|The Tarmeks Orzan]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

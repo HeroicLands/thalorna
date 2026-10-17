@@ -54,13 +54,13 @@ data:
         - whether Arkanamos meant the dole to be a standing charge or a gift for the generation that first drew it
 ---
 
-A centurion puts the bargain to each year's recruits on the morning they swear the oath. He does not know that the words come from a statute, and nobody has told him: the law is more than six hundred years old, and the speech has been handed from centurion to centurion until it sounds like a proverb. "There is one door," he finishes, "and the army holds it open." The Senate can open another for a single man by grant, and a grantee stands exactly as a veteran does.
+In The Veterans' Law, a centurion puts the bargain to each year's recruits on the morning they swear the oath. He does not know that the words come from a statute, and nobody has told him: the law is more than six hundred years old, and the speech has been handed from centurion to centurion until it sounds like a proverb. "There is one door," he finishes, "and the army holds it open." [[affiliation-seldan|Seldan]] (the Senate) can open another for a single man by grant, and a grantee stands exactly as a veteran does.
 
 ## The Statute
 
-Arkanamos was the second of the Founder's line. About 34 AF he put an end to the arrangement by which the Republic's citizen body had renewed itself by birth and patronage. The citizenship became a personal status won by service: twenty years under the eagles, counted from the recruit's fifteenth year, so that a commoner who survives his term is a citizen at thirty-five. The nobility keep it by station and transmit it heir to heir. Everyone else renews the citizen body each generation out of those who have served or been granted it by the Senate. A citizen's wife holds the status permanently, widowhood included, and his children are honorary citizens only while they are his dependents.
+[Arkanamos]{.name data-type="being/npc"} was the second of the Founder's line. About 34 AF he put an end to the arrangement by which the [Vylarian Republic]{.name data-type="affiliation/polity"}'s citizen body had renewed itself by birth and patronage. The citizenship became a personal status won by service: twenty years under the eagles, counted from the recruit's fifteenth year, so that a commoner who survives his term is a citizen at thirty-five. The nobility keep it by station and transmit it heir to heir. Everyone else renews the citizen body each generation out of those who have served or been granted it by the Senate. A citizen's wife holds the status permanently, widowhood included, and his children are honorary citizens only while they are his dependents.
 
-The statute bound three things to the status together. The grain dole was a citizen's. The right to live inside the thrima, which the Founder had consecrated around the Six Hills, was a citizen's by right and everyone else's by waiver. And a citizen had standing at law, with an appeal to the imperial tribunals. Each of the three was a reason to enlist, and the three together were the reason to enlist for twenty years.
+The statute bound three things to the status together. The grain dole was a citizen's. The right to live inside the thrima, which the Founder had consecrated around the [[place-sixhillsvyl|Six Hills]], was a citizen's by right and everyone else's by waiver. And a citizen had standing at law, with an appeal to the imperial tribunals. Each of the three was a reason to enlist, and the three together were the reason to enlist for twenty years.
 
 ## What Arkanamos Got
 
@@ -69,7 +69,7 @@ Recruits in numbers the Republic's levy never gave. A legion filled by men who w
 ## What It Left
 
 - **An old soldiers' city.** The capital's citizen body is a veterans' class at its core, and the dole is the thing every Orzas fears to miss.
-- **A charge the treasury can neither afford nor cut.** The dole began as the reward for the first generation of veterans and is now the largest standing charge on the Empire.
+- **A charge the treasury can neither afford nor cut.** The dole began as the reward for the first generation of veterans and is now the largest standing charge on the [[affiliation-vylarinmpr|Vylarian Empire]].
 - **The waiver and its clerks.** A resident needs a registered waiver to sleep inside the thrima, and the clerks who register them sell them.
 - **The nobility's exemption.** The only citizens by birth, which is part of what makes them the nobility.
 

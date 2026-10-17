@@ -64,13 +64,13 @@ data:
       unresolved: [how Sylarion died in the Offices]
 ---
 
-A restoration guild's master mason, asked who built the Circle of Triumph's colonnade, answers without looking up from the stone. "Nobody remembers who raised it. Every column carries the same line: Makandas restored it. He did not touch a stone of it, but his house paid for every one."
+In The Restoration, a restoration guild's master mason, asked who built the colonnade of the [Circle of Triumph]{.name data-type="place/site"}, answers without looking up from the stone. "Nobody remembers who raised it. Every column carries the same line: [Makandas]{.name data-type="being/npc"} restored it. He did not touch a stone of it, but his house paid for every one."
 
 ## The City Taken
 
-By 405 [[place-orzara|Orzara]] was a burned city under a hungry Senate, and the Senate's Orzas, Sylarion, had an empty treasury and no legions. Makandas marched south from the north with the army that had won at Olkassa ([[lore-olcassabtl|The Battle of Olkassa]]). About 406 he took the city.
+By 405 [[place-orzara|Orzara City]] was a burned city under a hungry [[affiliation-seldan|Seldan]] (the Senate), and the Senate's Orzas, [Sylarion]{.name data-type="being/npc"}, had an empty treasury and no legions. Makandas marched south from the north with the army that had won [[lore-olcassabtl|The Battle of Olkassa]]. About 406 he took the city.
 
-The Senate acclaimed him within the week. The [[affiliation-sorvan|Sorvan]] handed over its claimant, Kadelos, and Sylarion died in the Offices, in a room whose door was not opened for two days. The three eagles were reduced to one.
+The Senate acclaimed him within the week. [[affiliation-sorvan|The Sorvan]] handed over its claimant, [Kadelos]{.name data-type="being/npc"}, and Sylarion died in the [Imperial Offices]{.name data-type="place/structure"}, in a room whose door was not opened for two days. The three eagles were reduced to one.
 
 ## The Forgiveness
 
@@ -78,7 +78,7 @@ Makandas did the unusual thing and forgave the legions that had fought him. He p
 
 ## What He Built
 
-The first Orzas of the Restoration repaired the city's walls, the granaries and the aqueducts. The great rebuilding of the Empire's institutions came under his successor ([[lore-arzanasedict|The Edicts of Arzanas]]), and it came on the foundation Makandas laid by paying for peace.
+The first Orzas of the Restoration repaired the city's walls, the granaries and the aqueducts. The great rebuilding of the [[affiliation-vylarinmpr|Vylarian Empire]]'s institutions came under his successor ([[lore-arzanasedict|The Edicts of Arzanas]]), and it came on the foundation Makandas laid by paying for peace.
 
 ## What It Left
 

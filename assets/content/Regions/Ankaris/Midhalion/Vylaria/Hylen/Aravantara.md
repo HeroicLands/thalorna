@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Come to Aravantara in the weeks after harvest and you will find a city that works like a scale. Wagons from a hundred aristocratic estates queue at its yards to have their grain, wine and oil weighed, taxed, and sent on toward the capital, and the whole of [[affiliation-provnchyln|Hilen]]'s wealth passes through the town on its way to someone else. It is the seat of the province's administration and the clearing-house of the breadbasket, with twenty-eight thousand people living off the traffic.
+Come to Aravantara in the weeks after harvest and you will find a city that works like a scale. Wagons from a hundred aristocratic estates queue at its yards to have their grain, wine and oil weighed, taxed, and sent on toward the capital, and the whole of [[place-hylen|Hilen]]'s wealth passes through the town on its way to someone else. It is the administrative seat of the [[affiliation-provnchyln|Province of Hilen]] and the clearing-house of the breadbasket, with twenty-eight thousand people living off the traffic.
 
 The forums hold fewer _kurthoi_ (senators) than a province so full of senatorial families might lead you to expect. The voices belong to estate-factors and grain-brokers, and the city's calendar turns on the harvest rather than on any festival. The old landed families keep townhouses here. A broker tells a new clerk where the real conversation is: "The _therkos_ (governor) holds the audience, but the councils decide what is said at it, and the councils are the houses." Hilen's conservative temper, traditionalist and suspicious of merchants and mages alike, is nowhere stronger than in those councils.
 

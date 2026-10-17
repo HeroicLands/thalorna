@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Most of Moktur's towns are garrisons, mines or timber camps. Ulthora is a temple town, about two thousand people among the heights of [[place-moktur|Moktur]], the mountainous northern shield of the [[affiliation-vylarinmpr|Vylarian Empire]], a land of mines, timber and fortified valleys on the Vristwald march.
+Most of [[place-moktur|Moktur]]'s towns are garrisons, mines or timber camps. Ulthora is a temple town, about two thousand people among the heights of Moktur, the mountainous northern shield of the [[affiliation-vylarinmpr|Vylarian Empire]], a land of mines, timber and fortified valleys on the [[place-vrystwald|Vristwald]] march.
 
 A watchtower sergeant on the high road, asked which of the province's towns he would choose to be posted to, names Ulthora without hesitating. Everything else on his list is a place to hold or a place to dig, and Ulthora is the one where a soldier's work is not the first thing anyone thinks of.
 

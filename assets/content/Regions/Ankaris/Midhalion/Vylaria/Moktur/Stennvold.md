@@ -18,7 +18,7 @@ data:
 
 Stennvold is a high mining-and-smelting town of about four thousand in the Mokturan heights, its furnaces working the ore that [[place-ferrovan|Zargonara]] and the lesser camps send down to it. Smoke hangs over its valley the year round.
 
-A smelt-master, taking on a new hand, explains where the loyalty in the town lies: "The _therkos_ (governor) has the garrison, the tax-farmers have their ledgers, and I have the men who tend the furnaces. When the metal goes out under guard, it goes because they stayed at the fires." The workforce is half-[[lore-varokhiclt|Varokh]], hard and insular, and loyal first to the smelt-masters who pay them. The metal that leaves Stennvold is among the empire's most jealously taxed.
+A smelt-master, taking on a new hand, explains where the loyalty in the town lies: "The _therkos_ (governor) has the garrison, the tax-farmers have their ledgers, and I have the men who tend the furnaces. When the metal goes out under guard, it goes because they stayed at the fires." The workforce is half-[[lore-varokhiclt|Varokh]], hard and insular, and loyal first to the smelt-masters who pay them. The metal that leaves Stennvold is among the most jealously taxed in the [[affiliation-vylarinmpr|Vylarian Empire]].
 
 ## See Also
 

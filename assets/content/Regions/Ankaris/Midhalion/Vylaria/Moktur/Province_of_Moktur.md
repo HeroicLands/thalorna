@@ -77,13 +77,13 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 ## Overview
 
-In the Province of Moktur the _therkos_ (governor) is a soldier, and some _therkoi_ behave as semi-independent warlords whose loyalty to the capital is a matter of convenience as much as conviction. The province is mountainous, lies on the [[place-vrystwald|Vristwald]] border and answers for the defense of the frontier against Varokh raids and incursions, and its military _therkoi_ command wide autonomy. The Province of Moktur holds the land of [[place-moktur|Moktur]], and its _therkos_ sits at [[place-tyrellan|Tirellan]]. The Empire organized the province as a march when it cut the [[lore-legionsroad|Legions' Road]] north into the Vristwald, and the marshes below its passes saw the [[lore-blackmarshbtl|Battle of the Black Marsh]].
+In the Province of Moktur the _therkos_ (governor) is a soldier, and some _therkoi_ behave as semi-independent warlords whose loyalty to the capital is a matter of convenience as much as conviction. The province is mountainous, lies on the [[place-vrystwald|Vristwald]] border and answers for the defense of the frontier against Varokh raids and incursions, and its military _therkoi_ command wide autonomy. The Province of Moktur holds the land of [[place-moktur|Moktur]], and its _therkos_ sits at [[place-tyrellan|Tirellan]]. The [[affiliation-vylarinmpr|Vylarian Empire]] organized the province as a march when it cut [[lore-legionsroad|The Legions' Road]] north into the Vristwald, and the marshes below its passes saw [[lore-blackmarshbtl|The Battle of the Black Marsh]].
 
 ## Character
 
-Moktur is the most martial province of the empire. Its people are proud, self-reliant and faintly contemptuous of the soft southerners of [[affiliation-provinclys|Alessa]] and [[affiliation-provnchyln|Hilen]]. Military service here is expected as well as honored, and the province produces the empire's best soldiers: its legions are the most battle-tested in the [[affiliation-vylrnmltry|Vylarian military]].
+Moktur is the most martial province of the empire. Its people are proud, self-reliant and faintly contemptuous of the soft southerners of [[place-alyssa|Alessa]] and [[place-hylen|Hilen]]. Military service here is expected as well as honored, and the province produces the empire's best soldiers: its legions are the most battle-tested in [[affiliation-vylrnmltry|The Vylarian Military]].
 
-The frontier is not a clean line. Varokh communities sit within Moktur's nominal borders, and some Mokturan border lords have more in common with the chiefs across the line than with the _kurthoi_ (senators) in Orzara. Intermarriage, trade and occasional truces make a border culture that neither side fully controls. A militia elder explains it to a new magistrate: "You will be told the Varokh are on the other side. Some of them are, and some are your neighbors, and the ones across the line have cousins on this side. Learn who is whose before you pass a judgment."
+The frontier is not a clean line. Varokh communities sit within Moktur's nominal borders, and some Mokturan border lords have more in common with the chiefs across the line than with the _kurthoi_ (senators) in [[place-orzara|Orzara City]]. Intermarriage, trade and occasional truces make a border culture that neither side fully controls. A militia elder explains it to a new magistrate: "You will be told the Varokh are on the other side. Some of them are, and some are your neighbors, and the ones across the line have cousins on this side. Learn who is whose before you pass a judgment."
 
 ## Economy
 
@@ -98,7 +98,7 @@ Beyond the mines and timber described under [[place-moktur|Moktur]], the provinc
 
 Moktur is the wild end of the empire: mountains, forested hills, fast cold rivers and a short, hard growing season. It is the province for mines, logging, hunting and frontier soldiering, and the one place inside the empire where the wilderness, and the people who live by it, lie beyond the capital's reach.
 
-Power belongs to the military _therkoi_ and the border lords, some little better than warlords, and their loyalty to [[place-orzara|Orzara]] is a matter of convenience. A settlement here is walled, watchful, and loyal first to whoever can defend it.
+Power belongs to the military _therkoi_ and the border lords, some little better than warlords, and their loyalty to Orzara is a matter of convenience. A settlement here is walled, watchful, and loyal first to whoever can defend it.
 
 Trouble in Moktur is frontier trouble: raids and reprisals across the Vristwald march, feuds between border lords, contested mining claims, smuggling over the passes, monsters and Varokh war-bands in the high country, and the murky politics of a half-Vylarian, half-Varokh borderland. Where the Varokh tribes themselves are meant, rather than the communities inside the border, see [[affiliation-vrystwldtrbs|the tribes of Vristwald]].
 
@@ -106,7 +106,7 @@ What is abundant is metal, timber, game and danger. What is scarce is imperial a
 
 ## Commerce and Currency
 
-The Province of Moktur uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through the [[affiliation-danvar|Danvar]] moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Imperial taxation is administered by the [[affiliation-tolvan|Tolvan]] and revenues flow to the [[affiliation-tarmex|Tarmeks Orzan]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+The Province of Moktur uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]] moneylenders chartered under [[affiliation-tevran|The Tevran Maldor]]. Imperial taxation is administered by [[affiliation-tolvan|The Tolvan]] and revenues flow to [[affiliation-tarmex|The Tarmeks Orzan]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

@@ -17,7 +17,7 @@ data:
 
 A deserter from a Mokturan garrison, caught by a patrol that would not follow him the last mile, explained where he had been sleeping. "The marsh," he said. "Nobody comes for you in the marsh. You lie in the reeds and you want to run, and you cannot say why, and in the morning you are glad of a wall."
 
-The **Black Marsh** is a [[lore-bloodfield|blood-field]] in the valleys of northern [[place-moktur|Moktur]], below the passes of the [[place-vandstein|Vandstein]]. It is where a Varokh host of the hunger raids was driven into the water and died to the last man in 520 AF ([[lore-blackmarshbtl|The Battle of the Black Marsh]]). Its kind is a **dread**, and it runs thin.
+The **Blood-field of the Black Marsh** is a [[lore-bloodfield|blood-field]] in the valleys of northern [[place-moktur|Moktur]], below the passes of [[place-vandstein|Vandstein]]. It is where a Varokh host of the hunger raids was driven into the water and died to the last man in 520 AF ([[lore-blackmarshbtl|The Battle of the Black Marsh]]). Its kind is a **dread**, and it runs thin.
 
 ## The Dread
 
@@ -37,11 +37,11 @@ The Varokh villages of Vandstein that sent the host keep an empty place for each
 
 - **Varokh Shamans**, who would call their dead home and need a safe-conduct to do it.
 - **Deserters**, who hide in the reeds because the patrols will not follow.
-- **Arcane Order surveyors**, who want to measure it.
+- **[[affiliation-ordoarcanis|Thordimalon]] surveyors**, who want to measure it.
 
 ## Hooks
 
-- A Varokh Shaman of Gargrund asks a party bound north to carry her to the marsh, and a garrison officer would rather the dead stay where they are.
+- A Varokh Shaman of [Gargrund]{.name data-type="place/settlement"} asks a party bound north to carry her to the marsh, and a garrison officer would rather the dead stay where they are.
 - A deserter's account of the reeds names a place where the ground is firm, and the firm ground is where the host stood last.
 
 ## See Also

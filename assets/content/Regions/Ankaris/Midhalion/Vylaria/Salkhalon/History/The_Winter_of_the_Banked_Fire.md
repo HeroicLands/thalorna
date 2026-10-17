@@ -88,28 +88,28 @@ data:
         - whether these rowers were the first Nordmen in imperial pay, which the town claims and the empire's chroniclers date otherwise
 ---
 
-The **Winter of the Banked Fire** is the reason a fishing town on the warm Vylarian coast carries a northern name. It is a small event in the history of the [[lore-southrnfleets|Southern Fleets]], forty men out of the hirvs of three kingdoms, and the only time those fleets touched the Vylarian heartland.
+**The Winter of the Banked Fire** is the reason a fishing town on the warm Vylarian coast carries a northern name. It is a small event in the history of [[lore-southrnfleets|The Southern Fleets]], forty men out of the hirvs of three kingdoms, and the only time those fleets touched the Vylarian heartland.
 
 ## The Door-Faring
 
-In the summer of 523 AF, 237 HF by the [[lore-domseycount|Domsey count]], a Malagna captain named **Hvirnmil** took a Provenzian merchant galley in the Gulf of Bataren, and her pilot told him what lay beyond the western strait. Malagna's skalds call the voyage that followed his Door-Faring, after the sailors' name for the strait, the one door of the warm sea. The crew sailed the galley south down the ocean coast, passed the strait forts under her imperial colors, and worked east along the northern shore through the end of summer. They came ashore at a fishing village on a deep bay in [[place-salkhalon|Salkalon]], took its stores and its smokehouse, and held it.
+In the summer of 523 AF, 237 HF by [[lore-domseycount|The Domsey Count]], a Malagna captain named **[Hvirnmil]{.name data-type="being/npc"}** took a Provenzian merchant galley in the [[place-batarengulf|Gulf of Bataren]], and her pilot told him what lay beyond the western strait. The skalds of the [[affiliation-kingdomlgn|Kingdom of Malagna]] call the voyage that followed his Door-Faring, after the sailors' name for the strait, the one door of the warm sea. The crew sailed the galley south down the ocean coast, passed the strait forts under her imperial colors, and worked east along the northern shore through the end of summer. They came ashore at a fishing village on a deep bay in [[place-salkhalon|Salkalon]], took its stores and its smokehouse, and held it.
 
-On the ninth night, the eve of the autumn equinox and of [[lore-vetrnaetr|Vetrnetr]] by the crew's own count, a squadron from [[place-castamar|Kastamar]] under **Holvethos Marendates** fired the galley at her moorings. The wind carried the fire up the shingle into the village's forty-one boats and its net-lofts, and by morning the bay had burned. The crew went up the north headland with what they could carry.
+On the ninth night, the eve of the autumn equinox and of [[lore-vetrnaetr|Vetrnetr]] by the crew's own count, a squadron from [[place-castamar|Kastamar]] under **[Holvethos Marendates]{.name data-type="being/npc"}** fired the galley at her moorings. The wind carried the fire up the shingle into the village's forty-one boats and its net-lofts, and by morning the bay had burned. The crew went up the north headland with what they could carry.
 
 ## The Winter
 
-The _felzos_ (legate) chose to starve the headland rather than storm it, and the village, with no boats and no stores, starved below it. The crew kept a fire banked under a smoke-rack every night, as northern halls keep a winter's fish, and in the first month of winter a widow of the village, **Ilthera Salken**, carried a basket of fish up the slope and brought it down smoked. The trade went on all winter under the eyes of the pickets. Nine of the crew died before spring.
+The _felzos_ (legate) chose to starve the headland rather than storm it, and the village, with no boats and no stores, starved below it. The crew kept a fire banked under a smoke-rack every night, as northern halls keep a winter's fish, and in the first month of winter a widow of the village, **[Ilthera Salken]{.name data-type="being/npc"}**, carried a basket of fish up the slope and brought it down smoked. The trade went on all winter under the eyes of the pickets. Nine of the crew died before spring.
 
 ## The Terms
 
-In the spring of 524, 238 HF, the _therkos_ (governor) of Salkalon, **Zenothas Varelis**, offered terms rather than an assault: seven years at the oars of the Kastamar fleet, the captain rowing with his men, and passage home at the end of them. Twenty-eight went to the oars and three stayed in the village by the _therkos_'s leave. One of the three, **Dvilgvir**, who had kept the fire, married Ilthera the next year. About eighteen of the rowers, Hvirnmil among them, came home to Malagna in 532 AF, the year of the thirty-sixth sitting on Domsey, with imperial pay in their purses and the first account the north had of the empire's own coast.
+In the spring of 524, 238 HF, the _therkos_ (governor) of the [[affiliation-provincvld|Province of Salkalon]], **[Zenothas Varelis]{.name data-type="being/npc"}**, offered terms rather than an assault: seven years at the oars of the Kastamar fleet, the captain rowing with his men, and passage home at the end of them. Twenty-eight went to the oars and three stayed in the village by the _therkos_'s leave. One of the three, **[Dvilgvir]{.name data-type="being/npc"}**, who had kept the fire, married Ilthera the next year. About eighteen of the rowers, Hvirnmil among them, came home to Malagna in 532 AF, the year of the thirty-sixth sitting on [[place-domsey|Domsey]], with imperial pay in their purses and the first account the north had of the [[affiliation-vylarinmpr|Vylarian Empire]]'s own coast.
 
 ## What It Left
 
-- **A name.** The crew called the bay [[place-braldvik|Bralvik]], the inlet of the banked fire, and the village kept the name because the Delalara factors bought its first smoke-fish under it.
-- **A fire.** The Old Coal, banked in the Salken smokehouse and carried in Hvirnmil's helm on the eve of 1 Karnavar, lights every smokehouse in the town.
+- **A name.** The crew called the bay [[place-braldvik|Bralvik]], the inlet of the banked fire, and the village kept the name because the [[place-mercavia|Delalara]] factors bought its first smoke-fish under it.
+- **A fire.** The [Old Coal]{.name data-type="miscgear"}, banked in the Salken smokehouse and carried in Hvirnmil's helm on the eve of 1 [Karnavar]{.name data-type="lore/calendar"}, lights every smokehouse in the town.
 - **A bill.** Bralvik has sent the Kastamar admiralty a bill for its forty-one boats every autumn since 524, and the admiralty has paid none of them.
-- **A claim.** The town holds that the crew off Hvirnmil's Head were the first Nordmen the empire ever paid, a generation before [[lore-compactsignd|the hiring of the Nordmen]]. The rowers drew pay for their seven years; whether a term of oars set as a surrender counts as hire is a question the empire's chroniclers answer differently.
+- **A claim.** The town holds that the crew off [Hvirnmil's Head]{.name data-type="place/feature"} were the first Nordmen the empire ever paid, a generation before [[lore-compactsignd|The Signing of the Compact]] (the hiring of the Nordmen). The rowers drew pay for their seven years; whether a term of oars set as a surrender counts as hire is a question the empire's chroniclers answer differently.
 
 ## See Also
 

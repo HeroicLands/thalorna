@@ -10,7 +10,7 @@ data: {demonym: null, lore: [varokhiclt], parents: [moktur], packFolder: vylaria
 
 ## Overview
 
-Edrenburg is a town of [[place-moktur|Moktur]] on the edge of [[place-vrystwald|Vristwald]], where the forest meets the roads to [[place-vylariargn|Vylaria]], and its name states what it is: _edr-_, a hedge, the bound set about a holding, joined by _-en-_ to _-burg_, a stronghold. Vristwald has no towns, and Edrenburg is not one of its villages: it is one of the half-Varokh border towns inside the province, like [[place-pinnhald|Pinnhald]], where Varokh families kept the name their ground already had and the empire built a garrison beside it. Varokh and Vylarian business meet there, and a Vylarian merchant can count on friends in the garrison.
+Edrenburg is a town of [[place-moktur|Moktur]] on the edge of [[place-vrystwald|Vristwald]], where the forest meets the roads to the [[place-vylariargn|Vylaria Region]], and its name states what it is: _edr-_, a hedge, the bound set about a holding, joined by _-en-_ to _-burg_, a stronghold. Vristwald has no towns, and Edrenburg is not one of its villages: it is one of the half-Varokh border towns inside the province, like [[place-pinnhald|Pinnhald]], where Varokh families kept the name their ground already had and the empire built a garrison beside it. Varokh and Vylarian business meet there, and a Vylarian merchant can count on friends in the garrison.
 
 ## The Town's Trade
 

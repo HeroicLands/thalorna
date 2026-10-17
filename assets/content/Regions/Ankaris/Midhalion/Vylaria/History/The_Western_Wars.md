@@ -70,32 +70,32 @@ data:
         - how many of the stones at the Kervaron passes were planted by the same expedition
 ---
 
-A chancery clerk, copying a map of the western provinces for the fourth time, runs his finger down the legend. "It is marked with what the Empire has held," he says. "There is a second map in a locked drawer, marked with what it said it held, and the two have not agreed since the second century."
+In The Western Wars, a chancery clerk, copying a map of the western provinces for the fourth time, runs his finger down the legend. "It is marked with what the [[affiliation-vylarinmpr|Vylarian Empire]] has held," he says. "There is a second map in a locked drawer, marked with what it said it held, and the two have not agreed since the second century."
 
 ## The Lowlands and Lienrik
 
-The legions came west in earnest about the middle of the second century. They took the lowlands of [[place-tarvenirgn|Tarvénia]] and the southern coast, and held [[place-leonrik|Lienrik]] as an occupied march with walled towns and a chain of watchtowers to give warning of risings. [[affiliation-kngdmstrth|Asturath]] they never took. Four expeditions went into its mountains, and the worst of them, in the reign of the Orzas Zoranthos, was lost in the mountains. After that the Empire held the lowland approaches and left the mountains alone.
+The legions came west in earnest about the middle of the second century. They took the lowlands of the [[place-tarvenirgn|Tarvénia Region]] and the southern coast, and held [[place-leonrik|Lienrik]] as an occupied march with walled towns and a chain of watchtowers to give warning of risings. [[place-asturath|Asturath]] they never took. Four expeditions went into its mountains, and the worst of them, in the reign of the Orzas [Zoranthos]{.name data-type="being/npc"}, was lost in the mountains. After that the Empire held the lowland approaches and left the mountains alone.
 
 ## Provenzia and Élavendre
 
-[[place-provenzrgn|Provenzia]] became a province of the Empire, and the legions that held it left Vylarian law and Vylarian building behind in it. [[place-elavendre|Élavendre]] fared differently. The legions entered the outer territories and fought the hill levy and the [[place-alndntrblnds|Áelendan]] to a standstill, and the kingdom came to terms as a tributary, long a vassal in name and never a province.
+The [[place-provenzrgn|Provenzia Region]] became a province of the Empire, and the legions that held it left Vylarian law and Vylarian building behind in it. The [[affiliation-kngdmlvndr|Kingdom of Élavendre]] fared differently. The legions entered the outer territories and fought the hill levy and the [[lore-aelendnppl|Áelendan People]] to a standstill, and the kingdom came to terms as a tributary, long a vassal in name and never a province.
 
 ## The Kervaron
 
-Expeditions in the same decades climbed the principal passes of the Kervaron and planted boundary-stones at each. The Áelendan let each column climb deep into the range and sealed the passes behind it, and the columns sent to enforce the stones were turned back. The chancery lists the range as Vylarian on the strength of the stones, and the clans treat the stones as ritual objects of obscure foreign meaning.
+Expeditions in the same decades climbed the principal passes of the [Kervaron Spine]{.name data-type="place/feature"} and planted boundary-stones at each. The Áelendan let each column climb deep into the range and sealed the passes behind it, and the columns sent to enforce the stones were turned back. The chancery lists the range as Vylarian on the strength of the stones, and the clans treat the stones as ritual objects of obscure foreign meaning.
 
 ## The Strait
 
-The western strait is the sea's only door to the ocean. The Empire fortified the northern shore in these years, and the forts have changed hands, been rebuilt and been garrisoned by whoever holds that shore since. Every serious naval plan for the Vylarian Sea has turned on them.
+The western strait is the sea's only door to the ocean. The Empire fortified the northern shore in these years, and the forts have changed hands, been rebuilt and been garrisoned by whoever holds that shore since. Every serious naval plan for the [[place-vylarianse|Vylarian Sea]] has turned on them.
 
 ## What It Left
 
 - **Lienrik's watchtowers.** The chain of towers along the march, kept up by whichever lord holds the ground.
-- **Asturath's boast.** A kingdom that was never conquered, and says so.
+- **The [[affiliation-kngdmstrth|Kingdom of Asturath]]'s boast.** A kingdom that was never conquered, and says so.
 - **The boundary-stones.** At the Kervaron passes, listed by the chancery and honored by the clans on the clans' terms.
-- **The Paldor.** Orzara's avenue of the wars' trophies, the longest boast in the city.
+- **The [Paldor]{.name data-type="place/feature"}.** [[place-orzara|Orzara City]]'s avenue of the wars' trophies, the longest boast in the city.
 - **The strait forts.** The northern shore's fortifications, still garrisoned by whoever holds them.
-- **Provenzia's Vylarian law.** The architecture and the legal forms of the western province, which the kingdom kept after it left.
+- **Provenzia's Vylarian law.** The architecture and the legal forms of the western province, which the [[affiliation-kngdmprvnz|Kingdom of Provenzia]] kept after it left.
 
 ## See Also
 

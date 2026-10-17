@@ -54,23 +54,23 @@ data:
       unresolved: [whether the first fire was set]
 ---
 
-A Watch sergeant, showing a new recruit round the lanes of the Old Hill's lower wards, stops at a blank stone wall that rises three storeys with no window in it. "Fire-wall," he says. "Every one in the city is a fire-wall for something that burned, and this one is for the six days. The district law was written by men who watched the Warrens go up."
+In The Great Burning, a Watch sergeant, showing a new recruit round the lanes of the lower wards of [[place-antel|Antel]] (the Old Hill), stops at a blank stone wall that rises three storeys with no window in it. "Fire-wall," he says. "Every one in the city is a fire-wall for something that burned, and this one is for the six days. The district law was written by men who watched the [Warrens]{.name data-type="place/site"} go up."
 
 ## The Failed Dole
 
-[[place-orzara|Orzara]] is fed from [[place-hylen|Hilen]], and Hilen's harvests were lost to the war ([[lore-olcassabtl|The Battle of Olkassa]]). About 403 the dole did not come. A citizen's bread is the bargain at the heart of the Empire ([[lore-veteranslaw|The Veterans' Law]]), and the capital's poor had no other.
+[[place-orzara|Orzara City]] is fed from [[place-hylen|Hilen]], and Hilen's harvests were lost to the war ([[lore-olcassabtl|The Battle of Olkassa]]). About 403 the dole did not come. A citizen's bread is the bargain at the heart of the [[affiliation-vylarinmpr|Vylarian Empire]] ([[lore-veteranslaw|The Veterans' Law]]), and the capital's poor had no other.
 
 ## The Fire
 
-The Circles riot first. The Watch, which keeps the city beyond the Inner Wall, held the main avenues and lost the valley wards, and a fire started in the Warrens climbed the lanes of **Antel** and burned for six days. The tenements are timber above their ground storeys, the hill-lanes are narrow, and no brigade in the city had water to spare for a ward that was already lost. The Old Hill's upper houses, the Republic's own, burned with the lower.
+The Circles riot first. The Watch, which keeps the city beyond the [Inner Wall]{.name data-type="place/structure"}, held the main avenues and lost the valley wards, and a fire started in the Warrens climbed the lanes of **Antel** and burned for six days. The tenements are timber above their ground storeys, the hill-lanes are narrow, and no brigade in the city had water to spare for a ward that was already lost. The Old Hill's upper houses, the [Vylarian Republic]{.name data-type="affiliation/polity"}'s own, burned with the lower.
 
 ## The Move to the Laurel
 
-The great families of the Old Hill did not rebuild where their houses had stood. They moved to the newer slopes of **Selvin**, which the fire had not reached, and did not go back. The old Senate hall stood on the crown of the hill and the cellars under it survived. The Old Hill has been a plain hill since, and the Laurel has been the address of the rising.
+The great families of the Old Hill did not rebuild where their houses had stood. They moved to the newer slopes of **[[place-selvin|Selvin]]**, which the fire had not reached, and did not go back. The old hall of [[affiliation-seldan|Seldan]] (the Senate) stood on the crown of the hill and the cellars under it survived. The Old Hill has been a plain hill since, and the Laurel has been the address of the rising.
 
 ## The Rebuilding
 
-The Senate and the guild-masters rebuilt. They passed the decree of the Clearance, which set the open ground that rings the city, and the district law that banishes the forges and the foul trades from the walls. Both were written for the next fire, and both are in force.
+The Senate and the guild-masters rebuilt. They passed the decree of the [Clearance]{.name data-type="place/feature"}, which set the open ground that rings the city, and the district law that banishes the forges and the foul trades from the walls. Both were written for the next fire, and both are in force.
 
 ## What It Left
 

@@ -16,9 +16,9 @@ data:
 
 ## Overview
 
-The coast of [[place-vylariargn|Vylaria Region]] along the [[place-vylarianse|Vylarian Sea]] is a working shore of shipyards, naval bases and fishing towns, with agrarian estate-country behind it. This is Salkalon, the whole shore, the land of the [[affiliation-provincvld|Province of Salkalon]] of the [[affiliation-vylarinmpr|Vylarian Empire]], and five million people live here. Its seat is [[place-mercavia|Delalara]].
+The coast of the [[place-vylariargn|Vylaria Region]] along the [[place-vylarianse|Vylarian Sea]] is a working shore of shipyards, naval bases and fishing towns, with agrarian estate-country behind it. This is Salkalon, the whole shore, the land of the [[affiliation-provincvld|Province of Salkalon]] of the [[affiliation-vylarinmpr|Vylarian Empire]], and five million people live here. Its seat is [[place-mercavia|Delalara]].
 
-A Delalara sailing master, taking a new mate along the quays on his first morning, gives him the lay of the province in one pass: "Warships that way, at Kastamar. Merchantmen here. Fishing boats everywhere in between, and every one of them is feeding somebody in Orzara who has never seen the sea. Learn which harbor you're in before you talk to anyone, because the three of them want different things from you."
+A Delalara sailing master, taking a new mate along the quays on his first morning, gives him the lay of the province in one pass: "Warships that way, at [[place-castamar|Kastamar]]. Merchantmen here. Fishing boats everywhere in between, and every one of them is feeding somebody in [[place-orzara|Orzara City]] who has never seen the sea. Learn which harbor you're in before you talk to anyone, because the three of them want different things from you."
 
 ## Economy
 
@@ -46,7 +46,7 @@ Geography sets Salkalon's pattern: two great cities and a working coast of fishi
 - [[place-tholkezora|Tholkezora]] (~7,000)—deep-water crews and sea-beast oil.
 - [[place-thremuzara|Thremuzara]] (~6,000)—salt-pans and the curing of the lesser villages' catch.
 
-**The lesser fishing villages.** Some dozen small communities of 500–1,500 people line the coast between the great towns, each living by its boats, its nets, and the curing-houses of [[place-thremuzara|Thremuzara]] and [[place-volkhemara|Volkemara]]. Among them are **Nizelenna**, **Satherenna**, **Zambelenna**, **Thersolenna**, **Tholmarenna**, **Talothenna**, **Ornethenna**, **Palgezenna**, **Huradenna**, **Kedrilenna**, **Lenthizenna** and **Iltherenna**.
+**The lesser fishing villages.** Some dozen small communities of 500–1,500 people line the coast between the great towns, each living by its boats, its nets, and the curing-houses of [[place-thremuzara|Thremuzara]] and [[place-volkhemara|Volkemara]]. Among them are **[Nizelenna]{.name data-type="place/settlement"}**, **[Satherenna]{.name data-type="place/settlement"}**, **[Zambelenna]{.name data-type="place/settlement"}**, **[Thersolenna]{.name data-type="place/settlement"}**, **[Tholmarenna]{.name data-type="place/settlement"}**, **[Talothenna]{.name data-type="place/settlement"}**, **[Ornethenna]{.name data-type="place/settlement"}**, **[Palgezenna]{.name data-type="place/settlement"}**, **[Huradenna]{.name data-type="place/settlement"}**, **[Kedrilenna]{.name data-type="place/settlement"}**, **[Lenthizenna]{.name data-type="place/settlement"}** and **[Iltherenna]{.name data-type="place/settlement"}**.
 
 **The inland country.**
 

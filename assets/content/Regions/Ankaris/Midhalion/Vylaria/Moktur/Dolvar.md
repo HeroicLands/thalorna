@@ -18,7 +18,7 @@ data:
 
 A frontier garrison drills against Varokh raids behind the walls of Dolvar, a legion fortress-town of about six thousand on the [[place-vrystwald|Vristwald]] march, the hard edge of the northern frontier. Before them lies a debatable land of watchtowers, truces and border-clans whose loyalties shift with the season.
 
-The town lives by the legion: its taverns, smiths and traders all serve the soldiers. A smith who has shod the garrison's horses for twenty years can tell a new arrival how things stand: "The commander answers to the capital, and the capital is a long way south. Up here he is a small king, and his word carries further than any letter from Orzara does." That is the practical meaning of the military _therkoi_' autonomy in [[affiliation-provncmktr|Moktur]].
+The town lives by the legion: its taverns, smiths and traders all serve the soldiers. A smith who has shod the garrison's horses for twenty years can tell a new arrival how things stand: "The commander answers to the capital, and the capital is a long way south. Up here he is a small king, and his word carries further than any letter from [[place-orzara|Orzara City]] does." That is the practical meaning of the military _therkoi_' autonomy in the [[affiliation-provncmktr|Province of Moktur]].
 
 ## See Also
 

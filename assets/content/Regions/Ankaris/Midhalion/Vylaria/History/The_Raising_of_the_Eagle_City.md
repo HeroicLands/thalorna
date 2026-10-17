@@ -60,28 +60,28 @@ data:
         - why the statue's crowned rune encloses a smoothed patch where the script's rule puts a name
 ---
 
-A tour-guide of the Inner City, taking a group of petitioners from the provinces up the Paldor, stops them at the foot of the Founder's statue and points past it at the gate. "Everything you are about to see was built on the second try," she says. "The first try is the hill you walked past on the way in, and it is still standing."
+In The Raising of the Eagle City, a tour-guide of [[place-arvon|Arvon]] (the Inner City), taking a group of petitioners from the provinces up the [Paldor]{.name data-type="place/feature"}, stops them at the foot of the Founder's statue and points past it at the gate. "Everything you are about to see was built on the second try," she says. "The first try is the hill you walked past on the way in, and it is still standing."
 
 ## The Old City
 
-Before the Empire, the city of the Republic stood on [[place-sixhillsvyl|Antel]], the Old Hill. Its Senate met there in a hall of its own, it had a Circle of its own, and [[place-arvel|Arvel]] rose beside it as the higher and emptier hill, with the Eyrie of the Dragon Riders in galleries cut under its crown ([[lore-ridersdisb|The Lease Refused]] tells how they were sealed). The Republic never walled the Eagle Hill. It had nothing to put on the crown of it that it wished to be seen.
+Before the [[affiliation-vylarinmpr|Vylarian Empire]], the city of the [Vylarian Republic]{.name data-type="affiliation/polity"} stood on [[place-antel|Antel]], the Old Hill. Its Senate, [[affiliation-seldan|Seldan]], met there in a hall of its own, it had a Circle of its own, and [[place-arvel|Arvel]] rose beside it as the higher and emptier hill, with the [Eyrie of the Dragon Riders]{.name data-type="place/site"} in galleries cut under its crown ([[lore-ridersdisb|The Lease Refused]] tells how they were sealed). The Republic never walled the Eagle Hill. It had nothing to put on the crown of it that it wished to be seen.
 
 ## The Walling
 
-The first Orzas ([[lore-thefounding|The Founding]]) took the opposite view. Within the first dozen years of his reign his engineers walled the crown of Arvel in the ring that stands there now, and built the Seldan and the Guard Camp inside it. The galleries beneath were left sealed, and the palace was founded over them. When the wall closed, the Senate walked up from the Old Hill in procession, carrying its forms and its records with it. It has sat on the Eagle Hill since, and a _kurthos_ (senator) reading the Seldan's rules of debate is reading the Republic's, set down in the same words and carried uphill.
+The first Orzas ([[lore-thefounding|The Founding]]) took the opposite view. Within the first dozen years of his reign his engineers walled the crown of Arvel in the ring that stands there now, and built the Seldan and [[place-thaurzurgalis|Thaurzurgalis]] (the Guard Camp) inside it. The galleries beneath were left sealed, and the palace was founded over them. When the wall closed, the Senate walked up from the Old Hill in procession, carrying its forms and its records with it. It has sat on the Eagle Hill since, and a _kurthos_ (senator) reading the Seldan's rules of debate is reading the Republic's, set down in the same words and carried uphill.
 
-He then had the thrima walked and consecrated, the sacred line that bounds the city in law, so that it ran around all six hills, and he gave the whole the name **Orzara**. From this point the name covers everything the line encloses.
+He then had the thrima walked and consecrated, the sacred line that bounds the city in law, so that it ran around all of the [[place-sixhillsvyl|Six Hills]], and he gave the whole the name **Orzara** ([[place-orzara|Orzara City]]). From this point the name covers everything the line encloses.
 
 ## The Statue
 
-The colossus of the Founder stands in the Orzas's Circle before the Inner City's gate, and every accession and triumph passes it. On the plinth, in the Tharavarkon letters, a crowned rune stands where the script's rule puts the name of a god, a founder or a reigning Orzas. The rune encloses a patch of the stone that has been worked smooth. Nobody who works in the Circle can say when it was done, and the Seldan's clerks, asked whose name it was meant to hold, refer the question to the record, which does not give the Founder's name.
+The colossus of the Founder stands in the [Orzas's Circle]{.name data-type="place/site"} before the Inner City's gate, and every accession and triumph passes it. On the plinth, in the letters of the [[skill-thrvrknscrpt|Tharavarkon Script]], a crowned rune stands where the script's rule puts the name of a god, a founder or a reigning Orzas. The rune encloses a patch of the stone that has been worked smooth. Nobody who works in the Circle can say when it was done, and the Seldan's clerks, asked whose name it was meant to hold, refer the question to the record, which does not give the Founder's name.
 
 ## What It Left
 
-- **The Inner Wall.** The ring on the crown of Arvel, the only wall Orzara has.
+- **The [Inner Wall]{.name data-type="place/structure"}.** The ring on the crown of Arvel, the only wall Orzara has.
 - **The Old Hill.** Antel, left to the families too proud or too poor to leave it, its early monuments weathering unrepaired.
 - **The Seldan's forms.** The Republic's debate carried uphill, which the Senate offers as its proof of continuity and the throne as its proof of ownership.
-- **A palace over sealed rooms.** The Palvar stands on the hill whose galleries nobody opens, and the Sorvan holds its doors and do not say why.
+- **A palace over sealed rooms.** The [[place-palvar|Palvar]] stands on the hill whose galleries nobody opens, and [[affiliation-sorvan|The Sorvan]] holds its doors and does not say why.
 
 ## See Also
 
