@@ -15,9 +15,9 @@ data:
   government: varakpnthn
 ---
 
-**Bharavaprabhava** is the source of the [[place-bharavarivr|Bharava]], under the Vedyari shoulder of [[place-estrnreach|the Eastern Reach]] above the [[place-slvrgorges|Silver Gorges]]. It is the smallest of the four glacier-mouths and the coldest approach, and the pilgrim road took its shape from the source and not the source from the road.
+**Bharavaprabhava** is the source of [[place-bharavarivr|The Bharava]], under the Vedyari shoulder of [[place-estrnreach|The Eastern Reach]] above [[place-slvrgorges|The Silver Gorges]]. It is the smallest of the four glacier-mouths and the coldest approach, and the pilgrim road took its shape from the source and not the source from the road.
 
-The Bharava's pilgrimage is long—the full observance walks the river from the sea to the ice—and the chain of hostels that makes it possible is the reason a poor pilgrim can attempt it at all. The hostels are endowed, staffed and provisioned by the temple-domains of the forest country downstream, and the arrangement is the largest piece of organized charity in Vedyara.
+The Bharava's pilgrimage is long—the full observance walks the river from the sea to the ice—and the chain of hostels that makes it possible is the reason a poor pilgrim can attempt it at all. The hostels are endowed, staffed and provisioned by the temple-domains of the forest country downstream, and the arrangement is the largest piece of organized charity in the [[place-vedyarargn|Vedyara Region]].
 
 ## The Ice Above
 

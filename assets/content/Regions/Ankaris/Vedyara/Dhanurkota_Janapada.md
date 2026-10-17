@@ -74,11 +74,11 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 # terran_analog: "Medieval South Indian temple-republic with a martial-caste specialty—Chola-era brahmadeya village federation centered on a fortified temple complex, distinguished by hereditary archery training traditions"
 ---
 
-The **Danurkota Janapoda** trains the archers of every kingdom in [[place-vedyarargn|Vedyara]], and it will train a student of any station, the lowest included. It is the federation of the villages of the upper [[place-sarvadarivr|Sarveda]] valley, governed jointly through the great hall of the **Mahajaya temple** inside the [[place-bowfort|bow-fort]] at [[place-dhanurkota|Danurkota]], the "Bow-Fort" the janapoda takes its name from. The janapoda holds the land of [[place-dhanurkotajnpd|Danurkota Janapoda]].
+The **Danurkota Janapoda** trains the archers of every kingdom in the [[place-vedyarargn|Vedyara Region]], and it will train a student of any station, the lowest included. It is the federation of the villages of the upper valley of [[place-sarvadarivr|The Sarveda]], governed jointly through the great hall of **[[place-dhnrktemple|The Mahajaya Temple at Danurkota]]** inside [[place-bowfort|The Bow-Fort]] at [[place-dhanurkota|Danurkota]], the "Bow-Fort" the janapoda takes its name from. The janapoda holds the land of [[place-dhanurkotajnpd|Danurkota Janapoda]].
 
-By any measure but one, Danurkota is ordinary. It is one of perhaps eighty janapadas of the upper Sarveda, in a **Sarveda circuit** of more than a thousand, which is the reckoning that matters at the **Melra**, where a janapoda is counted with the others that drink the same river and not with the whole of the [[affiliation-janpdsvdyr|Mahva-Sangra]]. It is neither large nor wealthy by Vedyari standards. What it has, and what it is known for across the region, is the **Bow**: four ancient archery academies whose graduates have staffed the elite missile companies of every major Vedyari kingdom for fifteen centuries.
+By any measure but one, Danurkota is ordinary. It is one of perhaps eighty janapadas of the upper Sarveda, in a **Sarveda circuit** of more than a thousand, which is the reckoning that matters at the **[Mahva-Melra]{.name data-type="lore/gathering"}**, where a janapoda is counted with the others that drink the same river and not with the whole of the [[affiliation-janpdsvdyr|Janapadas of Vedyara]]. It is neither large nor wealthy by Vedyari standards. What it has, and what it is known for across the region, is the **Bow**: four ancient archery academies whose graduates have staffed the elite missile companies of every major Vedyari kingdom for fifteen centuries.
 
-At the **Festival of the Drawn Bow** each spring, an instructor of the [[place-highdraw|High Draw]] lines up the year's new students in the temple court and gives them the first lesson before anyone touches a stave. "Look at the man beside you. He may be a **Senaja**'s son and he may be a cultivator's, and inside these walls it changes nothing about how either of you is taught. Outside them, the people who hire you will care a great deal. Learn to shoot first. The rest you will learn on the road."
+At the **[Festival of the Drawn Bow]{.name data-type="lore/gathering"}** each spring, an instructor of [[place-highdraw|The Academy of the High Draw]] lines up the year's new students in the temple court and gives them the first lesson before anyone touches a stave. "Look at the man beside you. He may be a **Senaja**'s son and he may be a cultivator's, and inside these walls it changes nothing about how either of you is taught. Outside them, the people who hire you will care a great deal. Learn to shoot first. The rest you will learn on the road."
 
 ## The Four Academies
 
@@ -91,7 +91,7 @@ Each academy keeps its own master, its own hereditary teaching lineages and its 
 | [[place-patienteye\|The Patient Eye]]     | Accuracy at extreme range                 | Scouts, hunters, fortress sharpshooters, and the personal bowmen of the nobility |
 | [[place-hiddenstring\|The Hidden String]] | Ambush and concealment                    | Scouts and raiders, hard to recruit and bound by a vow of selectivity            |
 
-The academies cooperate loosely within the janapoda and compete fiercely for students, for prestige and for the reserved seats they hold between them on the sabhra. The Hidden String's vow is the one a hirer must know about in advance: it refuses any contract it considers dishonorable.
+The academies cooperate loosely within the janapoda and compete fiercely for students, for prestige and for the reserved seats they hold between them on the sabhra. [[place-hiddenstring|The Academy of the Hidden String]]'s vow is the one a hirer must know about in advance: it refuses any contract it considers dishonorable.
 
 ## The Sabhra
 
@@ -107,15 +107,15 @@ Danurkota allows more social mobility than most Vedyari polities. The academies 
 
 ## Religion
 
-The Mahajaya temple at Danurkota is the religious heart of the janapoda and one of the major Mahajaya temples of inland Vedyara. Mahajaya is the preserver-goddess of the [[affiliation-varakpnthn|Varnuka pantheon]], mistress of order, of prosperity and of the keeping of dorma, and she suits a janapoda whose identity is disciplined martial training in the service of legitimate authority.
+The Mahajaya temple at Danurkota is the religious heart of the janapoda and one of the major [[affiliation-mahajaya|Mahajaya]] temples of inland Vedyara. In the tradition of the [[affiliation-varakpnthn|Varnuka Pantheon]], [[lore-mahajayadty|Mahajaya]] is the preserver-goddess, mistress of order, of prosperity and of the keeping of dorma, and she suits a janapoda whose identity is disciplined martial training in the service of legitimate authority.
 
 The temple keeps the standard Mahajaya cycle of daily, weekly, seasonal and annual rites and adds three observances of its own:
 
 - The Festival of the Drawn Bow, at the spring equinox, when each year's incoming students present themselves at the temple for blessing.
-- **The Festival of the Returning**, in autumn, when graduates back from service abroad ritually re-enter the janapoda and are welcomed home. It was first kept for the graduates who answered the masters' recall in [[lore-hghlndwar|the Highland War]].
-- **The Watch of the Bow-String**, the night before any major engagement involving Dhanurkoti graduates anywhere in Vedyara, when the temple's bowmen-priests keep vigil for their own.
+- **The [Festival of the Returning]{.name data-type="lore/gathering"}**, in autumn, when graduates back from service abroad ritually re-enter the janapoda and are welcomed home. It was first kept for the graduates who answered the masters' recall in [[lore-hghlndwar|The Highland War]].
+- **The [Watch of the Bow-String]{.name data-type="lore/custom"}**, the night before any major engagement involving Dhanurkoti graduates anywhere in Vedyara, when the temple's bowmen-priests keep vigil for their own.
 
-Shrines to the other Varnuka gods stand throughout the villages. [[place-vyalsrctmp|The temple of Vyalendra]] at the Sarveda source-spring is a popular pilgrimage for those seeking children, and the [[affiliation-rasikara|Rasikara]] shrine in the cremation-ground outside the town receives the dead.
+Shrines to the other Varnuka gods stand throughout the villages. [[place-vyalsrctmp|The Vyalendra Source-Temple]] at the Sarveda source-spring is a popular pilgrimage for those seeking children, and the [[affiliation-rasikara|Rasikara]] shrine in the cremation-ground outside the town receives the dead.
 
 ## Economy
 
@@ -125,7 +125,7 @@ The janapoda is moderately wealthy by janapoda standards and not rich by a city-
 
 Danurkota is defended far better than a janapoda of its size usually is. The four academies keep their own training-corps, which field eight hundred elite archers between them on short notice, and the villages can muster another two thousand fighting men of the Senaja households. The bow-fort stands on megalithic foundations that no siege technique short of sustained heavy magic will breach, and in extremity it shelters the whole janapoda.
 
-Danurkota has not been seriously threatened in three centuries. Its reputation is its first defense, since no neighboring kingdom wants to learn what eight hundred elite archers cost on their own ground, and every Dhanurkoti engagement in recent memory has been fought by academy graduates serving abroad in the wars of patron kingdoms. The last threat was [[lore-hghlndwar|the Highland War]], about 415, stopped at [[place-sharamukha|Sharamukha]].
+Danurkota has not been seriously threatened in three centuries. Its reputation is its first defense, since no neighboring kingdom wants to learn what eight hundred elite archers cost on their own ground, and every Dhanurkoti engagement in recent memory has been fought by academy graduates serving abroad in the wars of patron kingdoms. The last threat was [[lore-hghlndwar|The Highland War]], about 415, stopped at [[place-sharamukha|Sharamukha]].
 
 ## Relations
 
@@ -135,7 +135,7 @@ Within the [[affiliation-janpdsvdyr|Mahva-Sangra]], Danurkota's standing is high
 
 ## Commerce and Currency
 
-Danurkota holds one of the five seats in the [[affiliation-assmblycmpct|Assembly of the Compact]], and the bow trade and the academies' retainers run through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s letters as readily as through coin. Like every janapoda it strikes no coin of its own. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+Danurkota holds one of the five seats in the [[affiliation-assmblycmpct|Assembly of the Compact]], and the bow trade and the academies' retainers run through [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]'s letters as readily as through coin. Like every janapoda it strikes no coin of its own. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 
 ## Outside the Ladder
 

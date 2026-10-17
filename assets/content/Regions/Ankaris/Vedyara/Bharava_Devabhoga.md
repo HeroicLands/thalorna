@@ -79,7 +79,7 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 # terran_analog: "Temple-estate tenure of the medieval Indian forest belt—devadana holdings under ordained managers, worked by forest-dwelling communities under license and yielding resin, lac, hardwood and spice instead of land revenue"
 ---
 
-The **Bharava-Devabhona** is the government of [[place-bharavavana|Bharavavana]], the forest country of the lower [[place-bharavarivr|Bharava]]. _Devabhona_ is the god's portion: land given to a temple in perpetuity, out of which the temple is fed. Here the land given was forest, the gift was made many times over across fifteen centuries, and what accumulated is the only country in [[place-vedyarargn|Vedyara]] where no assembly sits and no sabhra meets.
+The **Bharava-Devabhona** is the government of [[place-bharavavana|Bharavavana]], the forest country of the lower reaches of [[place-bharavarivr|The Bharava]]. _Devabhona_ is the god's portion: land given to a temple in perpetuity, out of which the temple is fed. Here the land given was forest, the gift was made many times over across fifteen centuries, and what accumulated is the only country in the [[place-vedyarargn|Vedyara Region]] where no assembly sits and no sabhra meets.
 
 It is counted among the polities of Vedyara because it governs. It fits none of the three forms, and every Vedyari treatise that reaches it says so and moves on.
 
@@ -103,19 +103,19 @@ The arrangement is stable and nobody defends it in writing. A keeper asked to ju
 
 ## What It Pays For
 
-The first charge on every estate is its own temple. The second is the road. The [[place-bhrvdvsthna|free hostels]] along the pilgrim route are endowed out of these forests together with the gold of [[affiliation-suvrgrjnpd|Suvarnageri]] above them, and between the two endowments a pilgrim walks six hundred miles of the Bharava fed by other people's charity. The Devabhona's keepers regard that charge as the one part of their work the plains understand.
+The first charge on every estate is its own temple. The second is the road. The [[place-bhrvdvsthna|free hostels]] along the pilgrim route are endowed out of these forests together with the gold of [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]] above them, and between the two endowments a pilgrim walks six hundred miles of the Bharava fed by other people's charity. The Devabhona's keepers regard that charge as the one part of their work the plains understand.
 
-What is left goes down the river as timber on the flood and out through the coastal houses as resin, lac, dyewood, wax and spice. It arrives with no sabhra's tithe on it, which is why the coastal buyers prefer it and why the [[affiliation-mrchntclctvvdyr|Merchant Collective]] has spent two centuries trying to get a weighing-house onto the lower river and has been refused by every mother-temple it has asked.
+What is left goes down the river as timber on the flood and out through the coastal houses as resin, lac, dyewood, wax and spice. It arrives with no sabhra's tithe on it, which is why the coastal buyers prefer it and why [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] has spent two centuries trying to get a weighing-house onto the lower river and has been refused by every mother-temple it has asked.
 
 ## The Standing Quarrel
 
 The orthodox temples of the plains hold that a country without a sabhra is a country without law, and that an arrangement which leaves a whole people unmarked, uncounted and outside the tarona is not a lapse but a policy.
 
-The Devabhona's reply is that the forest was given to the gods before the [[affiliation-janpdsvdyr|Mahva-Sangra]] kept a roll at all, that an endowment cannot be revoked by a body the endowment predates, and that the plains are welcome to send a sabhra into the forest and see how far it gets. Nobody has sent one.
+The Devabhona's reply is that the forest was given to the gods before the [[affiliation-janpdsvdyr|Janapadas of Vedyara]] kept a roll at all, that an endowment cannot be revoked by a body the endowment predates, and that the plains are welcome to send a sabhra into the forest and see how far it gets. Nobody has sent one.
 
 ## Commerce and Currency
 
-The Bharava-Devabhona uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]], and uses it at arm's length. Its tribute is rendered in goods to a temple and not in coin to a treasury, and the coin enters only where the estates sell, at the coastal end of the river, where a Khelathi buyer's metal is assayed and discounted like anyone else's. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+The Bharava-Devabhona uses [[lore-vdyrnbnkng|Vedyaran Banking]], administered through the Merchant Collective, and uses it at arm's length. Its tribute is rendered in goods to a temple and not in coin to a treasury, and the coin enters only where the estates sell, at the coastal end of the river, where a Khelathi buyer's metal is assayed and discounted like anyone else's. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 
 ## Outside the Ladder
 

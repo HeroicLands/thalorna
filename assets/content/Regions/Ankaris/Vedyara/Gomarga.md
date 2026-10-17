@@ -80,7 +80,7 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 # terran_analog: "Transhumant pastoral kingship of the semi-arid Indian interior—a crown whose revenue is watering dues and droveway tolls rather than land tax, and whose court is itinerant for most of the year"
 ---
 
-**Gomarga** is the kingdom of [[place-vandhyabhumi|Vandyabhumi]], the arid central plateau of [[place-vedyarargn|Vedyara]]. Its name is the thing it holds: _gho_ (cattle) _margha_ (road), the droveways that cross the plateau between wells, and the crown's claim runs along them and stops at their edges.
+**Gomarga** is the kingdom of [[place-vandhyabhumi|Vandyabhumi]], the arid central plateau of the [[place-vedyarargn|Vedyara Region]]. Its name is the thing it holds: _gho_ (cattle) _margha_ (road), the droveways that cross the plateau between wells, and the crown's claim runs along them and stops at their edges.
 
 It is a kingdom in form and a water authority in fact, and the people who run it are the keepers of the wells.
 
@@ -92,7 +92,7 @@ Gomarga holds the wells and the droveways and does not hold the grazing. The dis
 
 It adjudicates everything else, because everything else happens at a well. A herd that does not drink does not move, and a herd that does not move is dead by the end of the dry season, so a crown that sets what a herd pays to drink sets the terms of every journey on the plateau without ever claiming an acre. Neighboring kingdoms that measure a realm in plowland read Gomarga as a small power and are corrected the first time they try to move cattle across it.
 
-The wells themselves are not the crown's. Each was cut by a named lineage, is heritable and divisible among that lineage's households, and is kept by a Kupapala the lineage names and the crown confirms. The crown takes a share of what the well earns and guarantees the lineage against anyone who tries to take the well. Both halves of that bargain have been broken, and the kingdom's worst century followed the second time. The crown broke the first half about 265 to pay for a war on the river ([[lore-wellbrk1|the First Breaking of the Well Bargain]]); a king failed the second about 440, and the herds stayed off the circuit for a century ([[lore-emptycrct|the Empty Circuit]]), which is why the Rojni's standing camp keeps the hostages.
+The wells themselves are not the crown's. Each was cut by a named lineage, is heritable and divisible among that lineage's households, and is kept by a Kupapala the lineage names and the crown confirms. The crown takes a share of what the well earns and guarantees the lineage against anyone who tries to take the well. Both halves of that bargain have been broken, and the kingdom's worst century followed the second time. The crown broke the first half about 265 to pay for a war on the river ([[lore-wellbrk1|The First Breaking of the Well Bargain]]); a king failed the second about 440, and the herds stayed off the circuit for a century ([[lore-emptycrct|The Second Breaking and the Empty Circuit]]), which is why the Rojni's standing camp keeps the hostages.
 
 ## The Moving Court
 
@@ -108,13 +108,13 @@ Orthodox opinion in the river kingdoms finds the arrangement improper. Plateau u
 
 ## Beyond the Plateau
 
-Gomarga sells into the river valleys and the coast and buys grain, cloth and iron back. The [[affiliation-mrchntclctvvdyr|Merchant Collective]] has wanted a factor at the winter wells for a century and has not been given one: the crown's revenue is counted in stock and in watering dues, neither of which a letter of credit values well, and a Collective factor who could lend against a herd would be lending against the kingdom's only security. The Collective's houses buy plateau cattle at the edge of the plateau instead, from brokers who are usually the crown's own envoys.
+Gomarga sells into the river valleys and the coast and buys grain, cloth and iron back. [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] has wanted a factor at the winter wells for a century and has not been given one: the crown's revenue is counted in stock and in watering dues, neither of which a letter of credit values well, and a Collective factor who could lend against a herd would be lending against the kingdom's only security. The Collective's houses buy plateau cattle at the edge of the plateau instead, from brokers who are usually the crown's own envoys.
 
-The [[affiliation-janpdsvdyr|Mahva-Sangra]]'s roll carries the few plateau janapadas and not the kingdom, which is ordinary; a rajya is not a janapoda. What is not ordinary is that Gomarga sends nobody to the **Melra** at all in most cycles. The assembly meets on the [[place-mahanadi|Mahanodi]] in the season the herds move, and the crown is on its circuit.
+The roll of the [[affiliation-janpdsvdyr|Janapadas of Vedyara]] carries the few plateau janapadas and not the kingdom, which is ordinary; a rajya is not a janapoda. What is not ordinary is that Gomarga sends nobody to the **[Mahva-Melra]{.name data-type="lore/gathering"}** at all in most cycles. The assembly meets on [[place-mahanadi|The Mahanodi]] in the season the herds move, and the crown is on its circuit.
 
 ## Commerce and Currency
 
-Gomarga uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. It is an inland kingdom with no frontier of its own, so foreign coin reaches it only after passing a Vedyari frontier first—weighed rather than counted beyond the northern passes, assayed at the southern ports—and by the time it is on the plateau it is Vedyaran coin, or it is metal. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+Gomarga uses [[lore-vdyrnbnkng|Vedyaran Banking]], administered through the Merchant Collective. It is an inland kingdom with no frontier of its own, so foreign coin reaches it only after passing a Vedyari frontier first—weighed rather than counted beyond the northern passes, assayed at the southern ports—and by the time it is on the plateau it is Vedyaran coin, or it is metal. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 
 ## Outside the Ladder
 

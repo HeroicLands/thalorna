@@ -8,7 +8,7 @@ tags: [ruin, hill, fortified]
 data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
 ---
 
-On the ridges above the upper [[place-sarvadarivr|Sarveda]], the [[place-bharavarivr|Bharava]] and the upper [[place-mahanadi|Mahanodi]] there are forts that belong to nobody. Each was the seat of a small kingdom of the [[lore-hundredcrwn|Hundred Crowns]], or of one of the mountain dynasties "whose names change as their dynasties rise and fall," and each was left when its kingdom stopped. The janapadas below call them the **Crownless Forts**, and they have never counted them.
+On the ridges above the upper reaches of [[place-sarvadarivr|The Sarveda]], [[place-bharavarivr|The Bharava]] and the upper reaches of [[place-mahanadi|The Mahanodi]] there are forts that belong to nobody. Each was the seat of a small kingdom of [[lore-hundredcrwn|The Hundred Crowns]], or of one of the mountain dynasties "whose names change as their dynasties rise and fall," and each was left when its kingdom stopped. The janapadas below call them **The Crownless Forts**, and they have never counted them.
 
 ## What Is There
 
@@ -17,7 +17,7 @@ A typical one is a ring of dry-stone wall on a spur, with a gate-tower, a cister
 ## Who Goes
 
 - **Shepherds**, who use the outer walls as folds in the summer pasture and do not gho inside.
-- **Bandits**, who break a gate open when they want a hold. The fort above Rajepur's fields was cleared by Rajepur and two neighbors eighty-three years ago, the last armed conflict on Rajapuri ground, and walled up again afterward.
+- **Bandits**, who break a gate open when they want a hold. The fort above the [[affiliation-rajaprjnpd|Rajepur Janapoda]]'s fields was cleared by Rajepur and two neighbors eighty-three years ago, the last armed conflict on Rajapuri ground, and walled up again afterward.
 - **Heirs**, who come with old genealogies and a clan name written in a dead kingdom's charter, and stand outside the gate.
 
 The forts are not _shorukshetras_ (blood-fields). Their kingdoms ended in successions, debts and lost wars fought elsewhere, and their dead were burned. The hill villages keep away from them at night all the same, because a fort with its gate walled up is a place someone wanted shut.

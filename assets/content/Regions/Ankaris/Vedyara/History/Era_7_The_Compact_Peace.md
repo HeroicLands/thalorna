@@ -8,33 +8,33 @@ tags: [history, vedyara]
 data: {packFolder: vedyara, culture: vedyariclt}
 ---
 
-The **Compact Peace** is two centuries in which no Vedyari polity destroyed another, and they were not quiet centuries. The [[lore-thirdcmpct|Third Compact]] made unification unnecessary: the seats built roads, caravanserai and watch posts in common, and the [[affiliation-mrchntclctvvdyr|Merchant Collective]] learned to be the thing that crossed every border. Wars went on. They stopped ending kingdoms.
+**The Compact Peace** is two centuries in which no Vedyari polity destroyed another, and they were not quiet centuries. [[lore-thirdcmpct|The Third Compact]] made unification unnecessary: the seats built roads, caravanserai and watch posts in common, and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] learned to be the thing that crossed every border. Wars went on. They stopped ending kingdoms.
 
 ## What Happened
 
-About 415 AF the mountain kingdom of **Dhaunapur** marched on Suvarnageri with Dhanurkoti graduates in its companies. The four academy masters recalled every graduate in its service, and those who came home rode with Bharyastan's horse to the gorge-mouth below the gold road and stopped the host there ([[lore-hghlndwar|the Highland War]]). It is the last time either janapoda was seriously threatened.
+About 415 AF the mountain kingdom of **[Dhaunapur]{.name data-type="affiliation/polity"}** marched on [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]] with Dhanurkoti graduates in its companies. The four academy masters recalled every graduate in its service, and those who came home rode with the horse of [[affiliation-bharyastan|The Kingdom of Bharyastan]] to the gorge-mouth below the gold road and stopped the host there ([[lore-hghlndwar|The Highland War]]). It is the last time either janapoda was seriously threatened.
 
-About 440 a raid out of the river country took a great lineage's wells on the plateau and the king of [[affiliation-gomarga|Gomarga]] did not ride to them. The lineages walked their herds off the circuit, and for a century the moving court arrived at empty wells ([[lore-emptycrct|the Second Breaking and the Empty Circuit]]).
+About 440 a raid out of the river country took a great lineage's wells on the plateau and the king of [[affiliation-gomarga|Gomarga]] did not ride to them. The lineages walked their herds off the circuit, and for a century the moving court arrived at empty wells ([[lore-emptycrct|The Second Breaking and the Empty Circuit]]).
 
-About 470 the Council of the Dream condemned the dream-line that works on the waking ([[lore-chayacondm|the Condemnation of the Chaya-vreta]]), and the vow went on outside the monasteries, one student at a time.
+About 470 the [Council of the Dream]{.name data-type="affiliation/governmental"} condemned the dream-line that works on the waking ([[lore-chayacondm|The Condemnation of the Chaya-vreta]]), and the vow went on outside the monasteries, one student at a time.
 
 ## Rulers
 
 Gomarga
-: **Vishanapala**, who did not ride.
+: **[Vishanapala]{.name data-type="being/npc"}**, who did not ride.
 
 Bharyastan
-: the council passed over an heir who had not ridden to Sharamukha, one of the kingdom's two acclamations in four centuries.
+: the council passed over an heir who had not ridden to [[place-sharamukha|Sharamukha]], one of the kingdom's two acclamations in four centuries.
 
-Shikharalaya
-: the Martial Council acclaimed a cousin over the heir about 450.
+[[affiliation-vindhyalay|Shikharalaya]]
+: the [Martial Council]{.name data-type="affiliation/governmental"} acclaimed a cousin over the heir about 450.
 
-Chendrapur
+[[affiliation-chandrapur|Chendrapur]]
 : about 450 the crown refused a House's succession for the first time, and that House lost its seat within a generation.
 
 ## Its End
 
-The age ends in 524 AF, 190 CP, the year before a kingdom up the river took Rajepur's head-gate and the janapoda went under Chendrapur's protection. The [[lore-agepatrons|Age of Patrons]] opens with that protection. The plateau's empty century outlasted the peace by fifteen years: the great lineages walked back onto Gomarga's circuit about 540, in the new age.
+The age ends in 524 AF, 190 CP, the year before a kingdom up the river took [[affiliation-rajaprjnpd|Rajepur Janapoda]]'s head-gate and the janapoda went under Chendrapur's protection. [[lore-agepatrons|The Age of Patrons]] opens with that protection. The plateau's empty century outlasted the peace by fifteen years: the great lineages walked back onto Gomarga's circuit about 540, in the new age.
 
 ## See Also
 

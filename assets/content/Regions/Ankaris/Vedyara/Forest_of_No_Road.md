@@ -8,13 +8,13 @@ tags: [forest, frontier, strange, inland]
 data: {demonym: null, lore: [], parents: [estrnreach], population: null, packFolder: vedyara}
 ---
 
-The **Forest of No Road** is the country below [[place-estrnreach|the Eastern Reach]], at the headwaters of [[place-bharavarivr|the Bharava]] above the gold highlands. No janapoda has ever sent an assembly into it. No sabhra meets in it, no temple-domain claims it, and the name is what the pilgrim road's hostel-keepers call the ground the road does not enter.
+The **Forest of No Road** is the country below [[place-estrnreach|The Eastern Reach]], at the headwaters of [[place-bharavarivr|The Bharava]] above the gold highlands. No janapoda has ever sent an assembly into it. No sabhra meets in it, no temple-domain claims it, and the name is what the pilgrim road's hostel-keepers call the ground the road does not enter.
 
 There are ways through it. There is no road.
 
 ## The Rumor
 
-Enclaves of [[lore-flksinale|Sinale]] are rumored there, and [[lore-flkkhazar|Khazari]] halls above the tree line on the far side of the same range. The rumors are old, consistent and entirely unconfirmed, which is the condition in which such rumors are most useful to the people who repeat them.
+Enclaves of [[lore-flksinale|Sinale Folk]] are rumored there, and [[lore-flkkhazar|Khazari]] halls above the tree line on the far side of the same range. The rumors are old, consistent and entirely unconfirmed, which is the condition in which such rumors are most useful to the people who repeat them.
 
 What is repeated is always the same: lights at a distance that do not move as a camp's fire moves, a path that is clear for a day and gone the next, and a traveler who came out at a different place from the one he expected. Nobody produces a Sinale. Nobody produces a body, an artifact or a name.
 

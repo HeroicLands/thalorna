@@ -16,15 +16,15 @@ data:
 # terran_analog: "Central and peninsular Indian forest belt under temple-estate tenure—hardwood, resin, lac and spice country worked by forest-dwelling communities and held as endowed land by temples rather than by village federations"
 ---
 
-**Bharavavana** is the forest country of the lower [[place-bharavarivr|Bharava]]: six hundred miles of closed canopy between the foot of the gold-bearing highlands and the coastal farmland, and the largest single stretch of [[place-vedyarargn|Vedyara]] that no janapoda has ever federated.
+**Bharavavana** is the forest country of the lower reaches of [[place-bharavarivr|The Bharava]]: six hundred miles of closed canopy between the foot of the gold-bearing highlands and the coastal farmland, and the largest single stretch of the [[place-vedyarargn|Vedyara Region]] that no janapoda has ever federated.
 
-The [[place-vedyarargn|region's]] own reckoning counts it as the southern tropical interior, a third country beside the river valleys and the coast, and it runs on a tenure the rest of the subcontinent does not use. The forest is held in estates endowed to temples. No sabhra meets in it, no assembly sits in it, and the roll the [[affiliation-janpdsvdyr|Mahva-Sangra]] keeps has no entry for any part of it.
+The region's own reckoning counts it as the southern tropical interior, a third country beside the river valleys and the coast, and it runs on a tenure the rest of the subcontinent does not use. The forest is held in estates endowed to temples. No sabhra meets in it, no assembly sits in it, and the roll the [[affiliation-janpdsvdyr|Janapadas of Vedyara]] keeps has no entry for any part of it.
 
 ## The Bounds
 
-The forest begins where the Bharava leaves [[place-suvarnagirijnpd|Suvarnageri]]'s panning grounds and slows, and it ends where the last of the canopy gives out among the rice ground of the coastal plain. It is bounded north and east by the shoulder of the [[place-graznmntns|Grazian]] foothills and west by the drier scrub of the [[place-mahanadi|Mahanodi]]'s eastern watershed, where the trees thin out over about thirty miles and the janapadas begin again.
+The forest begins where the Bharava leaves [[place-suvarnagirijnpd|Suvarnageri Janapoda]]'s panning grounds and slows, and it ends where the last of the canopy gives out among the rice ground of the coastal plain. It is bounded north and east by the shoulder of the [[place-graznmntns|Grazian]] foothills and west by the drier scrub of [[place-mahanadi|The Mahanodi]]'s eastern watershed, where the trees thin out over about thirty miles and the janapadas begin again.
 
-Above the highlands the river runs out of the mountain through country of a different kind. That upper forest, [[place-forestnoroad|the Forest of No Road]] below [[place-estrnreach|the Eastern Reach]], is not endowed to anybody. No estate has ever been cut there, no temple has claimed it, and the boundary between the two forests is exactly the boundary of the last estate on the upper river.
+Above the highlands the river runs out of the mountain through country of a different kind. That upper forest, [[place-forestnoroad|The Forest of No Road]] below [[place-estrnreach|The Eastern Reach]], is not endowed to anybody. No estate has ever been cut there, no temple has claimed it, and the boundary between the two forests is exactly the boundary of the last estate on the upper river.
 
 ## What the Forest Yields
 

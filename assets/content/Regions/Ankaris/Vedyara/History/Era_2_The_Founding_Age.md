@@ -8,21 +8,21 @@ tags: [history, vedyara]
 data: {packFolder: vedyara, culture: vedyariclt}
 ---
 
-The oldest things in [[place-vedyarargn|Vedyara]] that carry a date are temples, and that is the whole character of the **Founding Age**. Its states are hardly remembered. Its institutions are still running.
+The oldest things in the [[place-vedyarargn|Vedyara Region]] that carry a date are temples, and that is the whole character of **The Founding Age**. Its states are hardly remembered. Its institutions are still running.
 
 ## What Happened
 
-About 780 BF the highland villages laid down what [[lore-hghlndfndn|the Highland Foundations]] name: the three gold temples round [[place-goldmountain|the Gold Mountain]], the four archery academies inside [[place-bowfort|the Bow-Fort]], and the first forest of [[place-bharavavana|Bharavavana]] given to a temple as the god's portion. Each still runs on the terms it was founded on.
+About 780 BF the highland villages laid down what [[lore-hghlndfndn|The Highland Foundations]] name: the three gold temples round [[place-goldmountain|The Gold Mountain]], the four archery academies inside [[place-bowfort|The Bow-Fort]], and the first forest of [[place-bharavavana|Bharavavana]] given to a temple as the god's portion. Each still runs on the terms it was founded on.
 
-About 640 BF the [[lore-mhndkngdm|Kingdom of Mahanodi]] took the upper river and its fields. Its library does not record where its first kings sat. The upper-river villages call a terraced hill on the pilgrim road [[place-puranasthana|Puranastana]], the old seat, and graze goats on it; that is legend, and the library keeps it as legend.
+About 640 BF [[lore-mhndkngdm|The Kingdom of Mahanodi]] took the upper river and its fields. Its library does not record where its first kings sat. The upper-river villages call a terraced hill on the pilgrim road [[place-puranasthana|Puranastana]], the old seat, and graze goats on it; that is legend, and the library keeps it as legend.
 
 ## Rulers
 
-The Mahanodi line traces itself to a heroic ancestor the recitation names only as legend. The kings of the old seat follow him, unnamed in any record the library holds, until the move to Rajepur.
+The Mahanodi line traces itself to a heroic ancestor the recitation names only as legend. The kings of the old seat follow him, unnamed in any record the library holds, until the move to [[place-rajapur|Rajepur]].
 
 ## Its End
 
-The age ends with the reign of the philosopher-kings of Madustana, who fix the classical tongue and start [[lore-mdhvndrcnt|the count]] that every Vedyari court still keeps. Their first year, 1 AK, opens the [[lore-agekingdoms|Age of Kingdoms]], the first age of the count.
+The age ends with the reign of the philosopher-kings of [[place-madhavendra|Madustana]], who fix the classical tongue and start [[lore-mdhvndrcnt|The Madustana Count]] that every Vedyari court still keeps. Their first year, 1 AK, opens [[lore-agekingdoms|The Age of Kingdoms]], the first age of the count.
 
 ## See Also
 

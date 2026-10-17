@@ -40,27 +40,27 @@ data:
         - which of the two kings died on the field; every chronicle of the period records the battle and none agrees on that
 ---
 
-Every chronicle of the Hundred Crowns records the **Field of Elephants**, and none of them records a winner. That is the point a Vedyari teacher makes first: both armies came off the field broken, and the age's Shreshthins took the lesson the kings could not.
+Every chronicle of [[lore-hundredcrwn|The Hundred Crowns]] records **The Field of Elephants**, and none of them records a winner. That is the point a Vedyari teacher makes first: both armies came off the field broken, and the age's Shreshthins took the lesson the kings could not.
 
 ## The War
 
-About 265 AF the king of [[affiliation-gomarga|Gomarga]], **Vrishasura**, wanted a war on the river. The plateau's wealth is herds and watering dues, and neither pays a host, so he took three great lineages' wells into the crown's own hand and spent their earnings ([[lore-wellbrk1|the First Breaking of the Well Bargain]]). His coalition was the plateau kingdom and the smaller crowns that followed it for a share.
+About 265 AF the king of [[affiliation-gomarga|Gomarga]], **[Vrishasura]{.name data-type="being/npc"}**, wanted a war on the river. The plateau's wealth is herds and watering dues, and neither pays a host, so he took three great lineages' wells into the crown's own hand and spent their earnings ([[lore-wellbrk1|The First Breaking of the Well Bargain]]). His coalition was the plateau kingdom and the smaller crowns that followed it for a share.
 
-Its enemy was **Purnatira**, a river kingdom of the middle [[place-mahanadi|Mahanodi]] with good fields and a stable of [[being-vdyrnelphnt|war-elephants]]. Gomarga had elephants too, bought out of the river valleys for the purpose.
+Its enemy was **[Purnatira]{.name data-type="affiliation/polity"}**, a river kingdom of the middle reaches of [[place-mahanadi|The Mahanodi]] with good fields and a stable of [[being-vdyrnelphnt|war-elephants]]. Gomarga had elephants too, bought out of the river valleys for the purpose.
 
 ## The Field
 
 About 270 the two hosts met on the long slope where the plateau comes down to the Mahanodi plain. The chroniclers agree on the elephants. Both lines put them in front, both lines' elephants were driven mad by the noise and the wounds, and both lines broke under their own beasts as much as under the enemy's. The fighting went on into the first storms of the monsoon, and when it ended there were more dead on the slope than the villages below could carry home or burn. The rains came, and the dead stayed where they were.
 
-The slope became [[place-gajasthali|Gajastali]], the elephant ground, the second _shorukshetra_ (blood-field) in Vedyara. It is the shallowest of the three.
+The slope became [[place-gajasthali|Gajastali]], the elephant ground, the second _shorukshetra_ (blood-field) in the [[place-vedyarargn|Vedyara Region]]. It is the shallowest of the three.
 
 ## What It Left
 
 - **The field.** Gajastali is a recurrence: in the first storms of the monsoon, drums sound along the slope at dusk and elephants trumpet for miles. No elephant will set foot on it at any season.
-- **The river.** Purnatira never recovered its strength. Within a generation its villages had passed to janapadas, and those janapadas still share one circuit-speaker at the Melra by habit, which is all that remains of the kingdom.
+- **The river.** Purnatira never recovered its strength. Within a generation its villages had passed to janapadas, and those janapadas still share one circuit-speaker at the [Mahva-Melra]{.name data-type="lore/gathering"} by habit, which is all that remains of the kingdom.
 - **The plateau.** The war was lost and Gomarga returned the wells. The accession oath gained its clause about wells, and every Maharava has sworn it since.
-- **The Compact.** The [[affiliation-mrchntclctvvdyr|Merchant Collective]] counts its third generation of Shreshthins from the year after the field, and the law they worked toward became [[lore-thirdcmpct|the Third Compact]].
-- **The ban.** About 280 the kings of the age forbade the [[affiliation-agnipantha|Agmi-pantra]] to burn the field, and the sect went anyway ([[lore-agnipartng|the Three Partings]]).
+- **[[lore-thirdcmpct|The Third Compact]].** [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] counts its third generation of Shreshthins from the year after the field, and the law they worked toward became the Third Compact.
+- **The ban.** About 280 the kings of the age forbade [[affiliation-agnipantha|Agmi-pantra]] to burn the field, and the sect went anyway ([[lore-agnipartng|The Three Partings of the Agmi-pantra]]).
 
 ## See Also
 

@@ -25,11 +25,11 @@ data:
           agrees: full
 ---
 
-The [[affiliation-adanasreni|Adanashreni]] works under taboos, and the first of them is that nobody is killed during a taking. Two generations ago some of its craft-lines decided that taboo was a luxury. The shrena cut them off, and the **Cut Thread** is what the shrena calls that night.
+[[affiliation-adanasreni|The Adanashreni]] works under taboos, and the first of them is that nobody is killed during a taking. Two generations ago some of its craft-lines decided that taboo was a luxury. The shrena cut them off, and **The Cut Thread** is what the shrena calls that night.
 
 ## The Schism
 
-About 660 AF the craft-lines that rejected the taboos, chiefly the prohibition on killing, were cut off from the shrena by its own rite. The lines cut off kept their skills, their contacts and their knowledge of how the shrena works, and they took a name from what had been done to them: the **Chinnasutra**, the cut thread.
+About 660 AF the craft-lines that rejected the taboos, chiefly the prohibition on killing, were cut off from the shrena by its own rite. The lines cut off kept their skills, their contacts and their knowledge of how the shrena works, and they took a name from what had been done to them: the **[Chinnasutra]{.name data-type="affiliation/criminal"}**, the cut thread.
 
 ## Why It Matters
 

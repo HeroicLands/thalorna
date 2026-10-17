@@ -8,7 +8,7 @@ tags: [fortress, fortified, river, inland]
 data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: null, packFolder: vedyara}
 ---
 
-Nobody in [[affiliation-dhnrktjnpd|Danurkota]] can tell you who laid the foundations of the **Bow-Fort**, and nobody there pretends to. It stands on the low hill where the [[place-sarvadarivr|Sarveda]] bends west round an outcrop of red rock, and [[place-dhanurkota|Danurkota]] is the town that grew below it and took its name. The fort holds the [[affiliation-mahajaya|Mahajaya]] temple, the four academy halls, the sabhra chamber and the granary. In extremity it takes the whole janapoda, and the granary is stocked against that year by year.
+Nobody in the [[affiliation-dhnrktjnpd|Danurkota Janapoda]] can tell you who laid the foundations of **The Bow-Fort**, and nobody there pretends to. It stands on the low hill where [[place-sarvadarivr|The Sarveda]] bends west round an outcrop of red rock, and [[place-dhanurkota|Danurkota]] is the town that grew below it and took its name. The fort holds the [[affiliation-mahajaya|Mahajaya]] temple, the four academy halls, the sabhra chamber and the granary. In extremity it takes the whole janapoda, and the granary is stocked against that year by year.
 
 ## The Foundations
 
@@ -18,7 +18,7 @@ Nobody claims the foundations. The temple does not say the goddess laid them and
 
 ## What It Is Worth
 
-No siege technique short of sustained heavy magic will breach the place. Danurkota has not been seriously threatened in three centuries, and the fort shares the credit with the janapoda's reputation: no neighboring kingdom wants to learn what eight hundred elite archers cost on their own ground. The last kingdom to try sent a column here in [[lore-hghlndwar|the Highland War]], about 415, and it turned back at the sight of the walls.
+No siege technique short of sustained heavy magic will breach the place. Danurkota has not been seriously threatened in three centuries, and the fort shares the credit with the janapoda's reputation: no neighboring kingdom wants to learn what eight hundred elite archers cost on their own ground. The last kingdom to try sent a column here in [[lore-hghlndwar|The Highland War]], about 415, and it turned back at the sight of the walls.
 
 The fort's value to the janapoda is not only military. It is where the sabhra sits, where the students are examined and where the temple keeps the granary that carries the villages through a bad year.
 

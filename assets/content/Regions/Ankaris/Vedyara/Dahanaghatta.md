@@ -15,13 +15,13 @@ data:
   packFolder: vedyara
 ---
 
-**Dahanaghatta**, the burning landing, is a broad stone stair on the north bank of the [[place-sarvadarivr|Sarveda]], a mile above [[place-naughatta|Naughatta]] where the river bends, and it is where the dead of the [[affiliation-srvdmthjnpd|Sarveda Mouth Janapoda]] are carried to be burned. A household that lives within a day's cart of it brings its dead here. Beside the stair stands the janapoda's temple of the passage, and the river carries away what the pyres leave.
+**Dahanaghatta**, the burning landing, is a broad stone stair on the north bank of [[place-sarvadarivr|The Sarveda]], a mile above [[place-naughatta|Naughatta]] where the river bends, and it is where the dead of the [[affiliation-srvdmthjnpd|Sarveda Mouth Janapoda]] are carried to be burned. A household that lives within a day's cart of it brings its dead here. Beside the stair stands the janapoda's temple of the passage, and the river carries away what the pyres leave.
 
 ## What Is There
 
 Twelve stone slabs, each a _dahanashila_ for a single pyre, stand in a row along the foot of the stair, with a drain behind each for the river to take the ash. Above them a roofed gallery shelters the mourners, and at its head stands the shrine of [[affiliation-kalavrata|Kalavrata]], a plain stone room with a black conch on a pedestal and a bowl of blank-filed copper coins beside it. The gallery has a bench for the pyre-keeper's family and a long table for the weighing of urns.
 
-The hereditary keeper of the ground is **Kholu**, a heavy, soft-spoken man of the third generation of his house, who tends the pyres, sounds the conch, hands the coin to the household and gives the ash back in an urn. His family's work is old and respected. The household of the dead sits in the gallery until it is done, then goes home with the urn.
+The hereditary keeper of the ground is **[Kholu]{.name data-type="being/npc"}**, a heavy, soft-spoken man of the third generation of his house, who tends the pyres, sounds the conch, hands the coin to the household and gives the ash back in an urn. His family's work is old and respected. The household of the dead sits in the gallery until it is done, then goes home with the urn.
 
 ## What Is Said of It
 
@@ -35,18 +35,18 @@ The river villages say that something is wrong at the Landing. They say it quiet
 
 ## What It Is
 
-Between the sounding of the conch and the lighting of the pyre there is a gap, and the Vedyari know it. It is the space in which the way a soul has just gone is still open behind it. [[affiliation-thresholdkeepers|Threshold-keepers]] work in that gap by warrant. At Dahanaghatta, someone else does.
+Between the sounding of the conch and the lighting of the pyre there is a gap, and the Vedyari know it. It is the space in which the way a soul has just gone is still open behind it. [[affiliation-thresholdkeepers|The Threshold-keepers]] work in that gap by warrant. At Dahanaghatta, someone else does.
 
-A fallen Retuja, **Dhakunatha**, uses the gap. He has learned that a body not burned within the day, with its coin withheld and the conch held back, stays in the gap, and that what stays can be asked a good deal more than one question. He pays Kholu to set certain bodies aside, and Kholu, who is in debt to a lender with no name, does. The bodies gho down a stair under the cenotaph beyond the gallery, where a cell of the **Chinnasutra**, the craft-lines the [[affiliation-adanasreni|Adanashreni]] cut away, keeps its takings. Its sentries are the unburned dead.
+A fallen Retuja, **[Dhakunatha]{.name data-type="being/npc"}**, uses the gap. He has learned that a body not burned within the day, with its coin withheld and the conch held back, stays in the gap, and that what stays can be asked a good deal more than one question. He pays Kholu to set certain bodies aside, and Kholu, who is in debt to a lender with no name, does. The bodies gho down a stair under the cenotaph beyond the gallery, where a cell of the **[Chinnasutra]{.name data-type="affiliation/criminal"}**, the craft-lines [[affiliation-adanasreni|The Adanashreni]] cut away, keeps its takings. Its sentries are the unburned dead.
 
-The gap, left open too often in one place, stops closing. The ground at the Landing is becoming a [[lore-bloodfield|_shorukshetra_]]. The [[lore-theshadow|Shadow]] has found a place where the way behind the souls is wide.
+The gap, left open too often in one place, stops closing. The ground at the Landing is becoming a [[lore-bloodfield|_shorukshetra_]]. [[lore-theshadow|The Shadow]] has found a place where the way behind the souls is wide.
 
 ## Who Comes
 
 - **Households** of the janapoda, with their dead and their small coin.
 - **A Threshold-keeper**, now and then, under warrant from a court, to put the one question.
-- **The Agmi-pantra**, who have been asked to purge the ground and have not been told why.
-- **Factors of the [[affiliation-twilighths|Twilight House]]**, who attend the funerals of the rich as mourners and buy the news of the gallery.
+- **The [[affiliation-agnipantha|Agmi-pantra]]**, who have been asked to purge the ground and have not been told why.
+- **Factors of [[affiliation-twilighths|The Twilight House]]**, who attend the funerals of the rich as mourners and buy the news of the gallery.
 
 ## Reaching It
 

@@ -8,7 +8,7 @@ tags: [inland, frontier]
 data: {demonym: null, lore: [], parents: [vandhyabhumi], population: null, packFolder: vedyara}
 ---
 
-**Gajastali**, the elephant ground, is the long slope of coarse grass where [[place-vandhyabhumi|Vandyabhumi]]'s plateau comes down to the plain of the [[place-mahanadi|Mahanodi]]. About 270 AF the coalition of [[affiliation-gomarga|Gomarga]] and the river kingdom of **Purnatira** met here with their war-elephants, both lines broke, and the dead were left to the rains ([[lore-fieldelephnt|the Field of Elephants]]). It is the second _shorukshetra_ (blood-field) in [[place-vedyarargn|Vedyara]], and the shallowest: a recurrence, slight, and wide.
+**Gajastali**, the elephant ground, is the long slope of coarse grass where [[place-vandhyabhumi|Vandyabhumi]]'s plateau comes down to the plain of [[place-mahanadi|The Mahanodi]]. About 270 AF the coalition of [[affiliation-gomarga|Gomarga]] and the river kingdom of **[Purnatira]{.name data-type="affiliation/polity"}** met here with their war-elephants, both lines broke, and the dead were left to the rains ([[lore-fieldelephnt|The Field of Elephants]]). It is the second _shorukshetra_ (blood-field) in the [[place-vedyarargn|Vedyara Region]], and the shallowest: a recurrence, slight, and wide.
 
 ## What Is There
 
@@ -32,7 +32,7 @@ Nobody tends the field. The [[affiliation-agnipantha|Agmi-pantra]] tried to burn
 
 ## Hooks
 
-- **The tusks under the cairn.** A Kulena's house in Chendrapur wants the tusks of a famous war-elephant said to lie under a cairn at the center of the slope. Digging there takes more than one day, and the house wants it done by night, when nobody will see the hole.
+- **The tusks under the cairn.** A Kulena's house in [[place-chandrapur2|Chendrapur]] wants the tusks of a famous war-elephant said to lie under a cairn at the center of the slope. Digging there takes more than one day, and the house wants it done by night, when nobody will see the hole.
 - **The war-chest.** A court asks for a Threshold-keeper's warrant to question a dead general about the war-chest Purnatira lost on the field. The warrant is refused on both its grounds at once, war and trade, and the claimant starts looking for someone less particular.
 - **A night's wages.** A droveway keeper offers good money to anyone who will spend nine nights on the slope counting what passes, because a lineage claims the field has grown.
 
