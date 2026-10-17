@@ -11,7 +11,7 @@ sohl:
   system: {weightBase: 0.02, valueBase: 8, qualityBase: 0, durabilityBase: 3}
 ---
 
-The **chendra** is silver, struck at [[affiliation-chandrapur|Chendrapur]] under the Moon House's seal, and reckoned at eight [[miscgear-tamra|tomra]]. It is the coin of ordinary formal commerce: a craftsman's contract, a caravan's toll, a season's rent. A purse of copper would be too heavy to carry for any of them, and a suvorna too large to make change for.
+The **chendra** is silver, struck at [[place-chandrapur2|Chendrapur]] under the seal of [[place-moonhouse|The Moon House]], and reckoned at eight [[miscgear-tamra|tomra]]. It is the coin of ordinary formal commerce: a craftsman's contract, a caravan's toll, a season's rent. A purse of copper would be too heavy to carry for any of them, and a suvorna too large to make change for.
 
 Only the Moon House strikes it, and it carries its silver: abroad a chendra is assayed and exchanged for its metal, which comes to its face. Its mint mark is trusted well past Chendrapur's own borders, and where the mark is unfamiliar the coin is weighed rather than refused.
 

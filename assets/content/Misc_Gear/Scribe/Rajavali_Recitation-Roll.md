@@ -8,6 +8,6 @@ data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 2, valueBase: 0, qualityBase: 0, durabilityBase: 5}}
 ---
 
-A single long roll, added to at the head of every generation by the current [[affiliation-rajaprjnpd|Memory-Keeper]] with the "what would have been" name of whoever would have inherited the dissolved kingdom had the line continued. On the Day of the Dissolution the Memory-Keeper unrolls it before the whole population and recites the full dynastic history and the dissolution decree from the roll's beginning to its current end, a recitation that takes most of a day.
+A single long roll, added to at the head of every generation by the current Memory-Keeper of [[affiliation-rajaprjnpd|Rajepur Janapoda]] with the "what would have been" name of whoever would have inherited the dissolved kingdom had the line continued. On the [Day of the Dissolution]{.name data-type="lore/custom"} the Memory-Keeper unrolls it before the whole population and recites the full dynastic history and the dissolution decree from the roll's beginning to its current end, a recitation that takes most of a day.
 
 There is one roll, held in continuous succession by a single family since the dissolution, and it is never copied in full—only the newest entry is ever extracted for reference. Its authority rests entirely on the unbroken hand that has kept it; a duplicate would settle nothing, because what the roll proves is precisely that it never left the keeping it claims to have been in.

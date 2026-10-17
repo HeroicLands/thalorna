@@ -11,7 +11,7 @@ sohl:
   system: {weightBase: 0.05, valueBase: 2, qualityBase: 0, durabilityBase: 3}
 ---
 
-A bronze piece struck to the gezan weight and sealed by the temple. Unlike the gold and silver pieces it is **not** worth the metal in it: the bronze alone comes to little more than a twentieth of the face the seal attests. The face is backed by silver. The Gar-Hálzi issues copper pieces only in exchange for silver, and any of its chapters redeems a copper gezan for a silver qelu on demand.
+A bronze piece struck to the gezan weight and sealed by the temple. Unlike the gold and silver pieces it is **not** worth the metal in it: the bronze alone comes to little more than a twentieth of the face the seal attests. The face is backed by silver. The [[affiliation-garhalzi|Gar-Hálzi]] issues copper pieces only in exchange for silver, and any of its chapters redeems a copper gezan for a silver qelu on demand.
 
 That gap is deliberate and understood. Melting the pieces down returns a fraction of their value, so they stay in circulation as money instead of draining away as metal, and only the Gar-Hálzi can make more. Foreign copper and bronze carry no seal; the temples buy them by weight at the price of the metal, about one copper gezan for a pound.
 

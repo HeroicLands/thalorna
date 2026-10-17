@@ -8,7 +8,7 @@ data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 0.3, valueBase: 1, qualityBase: 0, durabilityBase: 3}}
 ---
 
-At each of the four Seasonal Recitations the custodians assigned to a work gather, re-speak its full procedure before witnesses, and write the procedure out again from memory on fresh sheets of palm-leaf. These are the procedure sheets.
+At each of the four [Seasonal Recitations]{.name data-type="lore/custom"} the custodians assigned to a work gather, re-speak its full procedure before witnesses, and write the procedure out again from memory on fresh sheets of palm-leaf. These are the procedure sheets.
 
 ## What It Does
 

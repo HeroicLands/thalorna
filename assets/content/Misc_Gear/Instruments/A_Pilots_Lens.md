@@ -10,7 +10,7 @@ sohl:
   system: {weightBase: 0.2, valueBase: 0, qualityBase: 0, durabilityBase: 20}
 ---
 
-A Pilot's Lens is a disc of [[lore-itharisul|ithasul]] the size of a palm and the thickness of a finger, gray and giving, set in a hardwood rim. It belongs to the current-stone off [[place-vaelukoa|Vaelukoa]] as a living held stone (_kaan'sul_), and the lineage Vaelukoa keeps it with the village's boats.
+A Pilot's Lens is a disc of [[lore-itharisul|ithasul]] the size of a palm and the thickness of a finger, gray and giving, set in a hardwood rim. It belongs to the current-stone off [[place-vaelukoa|Vaelukoa]] as a living held stone (_kaan'sul_), and the [lineage Vaelukoa]{.name data-type="affiliation/lineage"} keeps it with the village's boats.
 
 ## What It Does
 

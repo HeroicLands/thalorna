@@ -20,7 +20,7 @@ Fever-bark draught is a bitter brown draught steeped from the bark of the forest
 
 ## What It Does
 
-Islanders differ on whether those whom [[place-sulvaan|the Warm]] answers ever take a fever at all. The answering reports the state of a work and nothing else, and the physicians of the ports privately doubt that it keeps any illness off. The apothecaries brew the draught for everyone alike and sell it to the answered and the unanswered at one price.
+Islanders differ on whether those whom [[place-sulvaan|The Warm]] answers ever take a fever at all. The answering reports the state of a work and nothing else, and the physicians of the ports privately doubt that it keeps any illness off. The apothecaries brew the draught for everyone alike and sell it to the answered and the unanswered at one price.
 
 ## See Also
 

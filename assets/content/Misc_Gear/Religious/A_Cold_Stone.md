@@ -16,7 +16,7 @@ Most of the stones in the stalls are white marble cut to the size of a fist. A c
 
 ## The Work It Came From
 
-A true Cold Stone comes from a white work, and nearly every Rite of Last Tending has been spoken over a white [[lore-sarisul|tending-stone]]. Every dead held stone belongs in a sanctuary: the custodians take one at the Rite from a cracked white work, and a lineage whose living stone died with its work gives the stone up. A true Cold Stone in a stall has left a sanctuary or a lineage's keeping by theft. It does nothing, and it is bone-white and hard because the work it came from is dead.
+A true Cold Stone comes from a white work, and nearly every [Rite of Last Tending]{.name data-type="lore/custom"} has been spoken over a white [[lore-sarisul|tending-stone]]. Every dead held stone belongs in a sanctuary: the custodians take one at the Rite from a cracked white work, and a lineage whose living stone died with its work gives the stone up. A true Cold Stone in a stall has left a sanctuary or a lineage's keeping by theft. It does nothing, and it is bone-white and hard because the work it came from is dead.
 
 ## See Also
 

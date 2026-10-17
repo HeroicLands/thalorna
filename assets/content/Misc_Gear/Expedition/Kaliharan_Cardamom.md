@@ -14,7 +14,7 @@ Kaliharan cardamom travels in a gourd sealed with resin and stamped with the sea
 
 ## What It Does
 
-The cardamom is the export that pays for what the ports bring in. Everything that foreign hulls land at the quays is bought with it and with the cloves and colored stones beside it. The warehouses along the quay belong to the three families of the [[affiliation-housefactors|House of Factors]], and a gourd leaves the island only with a factor's seal on it.
+The cardamom is the export that pays for what the ports bring in. Everything that foreign hulls land at the quays is bought with it and with the cloves and colored stones beside it. The warehouses along the quay belong to the three families of [[affiliation-housefactors|The House of Factors]], and a gourd leaves the island only with a factor's seal on it.
 
 ## See Also
 

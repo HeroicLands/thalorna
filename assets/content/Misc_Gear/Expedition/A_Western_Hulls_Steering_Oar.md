@@ -10,7 +10,7 @@ sohl:
   system: {weightBase: 6, valueBase: 40, qualityBase: 0, durabilityBase: 10}
 ---
 
-On the mainland coast a hull out of Kalihara is called a western hull, and she is known by her steering oar: a broad blade of pale hardwood on a long loom, cut by the shipwrights of [[place-nalurithan|Nalurithan]] with their mark let into the loom above the grip. The mark is a shipwright's, and the hull's flag is not needed to know her.
+On the mainland coast a hull out of the [[place-klhrcntnnt|Kalihara Continent]] is called a western hull, and she is known by her steering oar: a broad blade of pale hardwood on a long loom, cut by the shipwrights of [[place-nalurithan|Nalurithan]] with their mark let into the loom above the grip. The mark is a shipwright's, and the hull's flag is not needed to know her.
 
 ## What It Does
 

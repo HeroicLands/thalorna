@@ -16,7 +16,7 @@ sohl:
     strength: 0
 ---
 
-Still-water is a pale green sleeping draught made from the weed of [[place-klhrlake|the Bowl Lake]], gathered at the shore and steeped by the physicians of [[place-ithorianu|Ithorianu]]. A cup brings sleep within the hour that lasts until morning and leaves a slow head.
+Still-water is a pale green sleeping draught made from the weed of [[place-klhrlake|The Bowl Lake]], gathered at the shore and steeped by the physicians of [[place-ithorianu|Ithorianu]]. A cup brings sleep within the hour that lasts until morning and leaves a slow head.
 
 ## What It Does
 

@@ -14,7 +14,7 @@ A pilot's tally-cord is a length of knotted fiber that records the currents of t
 
 ## What It Does
 
-Pilots are drawn from the young a current-stone answers, and a cord is cut by its pilot and read by that pilot alone. In the hand of anyone else, a foreign master or a clerk of the House of Factors, it is knotted string. Since the current-stones began to run intermittently, the cords are recut more often, and a cord recut in one season does not always hold the next.
+Pilots are drawn from the young a current-stone answers, and a cord is cut by its pilot and read by that pilot alone. In the hand of anyone else, a foreign master or a clerk for [[affiliation-housefactors|The House of Factors]], it is knotted string. Since the current-stones began to run intermittently, the cords are recut more often, and a cord recut in one season does not always hold the next.
 
 ## See Also
 
