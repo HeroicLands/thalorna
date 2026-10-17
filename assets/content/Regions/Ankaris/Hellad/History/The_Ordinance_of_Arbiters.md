@@ -55,7 +55,7 @@ data:
         - which of the two houses set the fire, which the arbiter's ruling does not say and the houses' own records dispute
 ---
 
-A Bizarian asked why his country has so little feud answers that it is cheaper not to, and tells the story of the yards.
+A Bizarian asked why his country has so little feud answers that it is cheaper not to, and tells the story of the yards that led to The Ordinance of Arbiters.
 
 ## The Fire
 
@@ -63,7 +63,7 @@ About 584 two shipping houses of [[place-nesthiros2|Nesthiros]] fell out over a 
 
 ## The Ordinance
 
-The League council met in the Merchant Hall of Krusteikhos to count the cost, and answered with an ordinance in three parts.
+The council of the [[affiliation-byzarianlg|Bizarian League]] met in the [Merchant Hall]{.name data-type="place/structure"} of [[place-khryshteikhos2|Krusteikhos]] to count the cost, and answered with an ordinance in three parts.
 
 - **The arbiter.** A dispute between chartered men goes to an arbiter whom both sides name, and the ruling is made on the clause and not on the man.
 - **The guilds.** A ruling is enforced by the guilds and not by the city. A man who defies it is answerable to his guild's seal.
@@ -71,12 +71,12 @@ The League council met in the Merchant Hall of Krusteikhos to count the cost, an
 
 ## The First Arbiter
 
-The first named arbiter, **Sáfireze Dorashidek**, sat in the yards when they were rebuilt in stone, and her first ruling was between the two houses that had burned them. The ruling names which of the two broke the contract, what the damages were and who paid for the stone, and neither house contested it. The stone yards stand on the same ground.
+The first named arbiter, **[Sáfireze Dorashidek]{.name data-type="being/npc"}**, sat in the yards when they were rebuilt in stone, and her first ruling was between the two houses that had burned them. The ruling names which of the two broke the contract, what the damages were and who paid for the stone, and neither house contested it. The stone yards stand on the same ground.
 
 ## What the Ordinance Left
 
 - **The professional arbitrators**, who are named by both sides and paid by the quarrel.
-- **Bizaria's "very little feud"**, a calm that the League's council counts as a saving.
+- **The [[place-byzariargn|Bizaria Region]]'s "very little feud"**, a calm that the League's council counts as a saving.
 - **Nesthiros's stone yards**, rebuilt after the fire.
 - **A tolerance** for rival houses that began as arithmetic and has become a manner.
 

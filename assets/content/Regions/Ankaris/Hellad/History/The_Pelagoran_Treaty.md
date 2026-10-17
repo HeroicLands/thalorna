@@ -60,20 +60,20 @@ data:
         - what the Treaty's secret articles, if it had any, gave the Republic besides the blockade
 ---
 
-The bronze copy of the **Pelagoran Treaty** stands in Pelagora's agorin, and a Thirenaean visitor spits on the pavement beside it. A Pelagoran spits back, and the argument over whether the Treaty was a betrayal or a rescue goes on from there.
+The bronze copy of **The Pelagoran Treaty** stands in [[place-pelagora2|Pelagora]]'s agorin, and a Thirenaean visitor spits on the pavement beside it. A Pelagoran spits back, and the argument over whether the Treaty was a betrayal or a rescue goes on from there.
 
 ## The Vote
 
-By 314 BF Theradon had been taken and [[affiliation-korinthea|Korinthea]] had opened its gates after the [[lore-heladturnedwrk|Turned Working]], and the Dragon Riders were over the coast. Pelagora's assembly met in the agorin and voted by show of hands to treat alone. The strátimor **Dokharos Ársides** made the terms.
+By 314 BF [[affiliation-theradon|Theradon]] had been taken and [[affiliation-korinthea|Korinthea]] had opened its gates after [[lore-heladturnedwrk|The Turned Working]], and the [Dragon Riders]{.name data-type="affiliation"} were over the coast. [[affiliation-pelagora|Pelagora]]'s assembly met in the agorin and voted by show of hands to treat alone. The strátimor **[Dokharos Ársides]{.name data-type="being/npc"}** made the terms.
 
 ## The Terms
 
-Pelagora became the Republic's naval ally and not its subject. It kept its fleet, its walls and its overseas daughter-cities, [[place-bethuargn|Bethua]] among them, and its assembly went on sitting. In return its ships joined the blockade of the cities that were still fighting, and Pelagoran squadrons began to serve in Vylarian fleets. The bronze copy was cast that year.
+Pelagora became the [Vylarian Republic]{.name data-type="affiliation/polity"}'s naval ally and not its subject. It kept its fleet, its walls and its overseas daughter-cities, the [[place-bethuargn|Bethua Region]] among them, and its assembly went on sitting. In return its ships joined the blockade of the cities that were still fighting, and Pelagoran squadrons began to serve in Vylarian fleets. The bronze copy was cast that year.
 
 ## What the Treaty Left
 
 - **The rivalry between [[affiliation-thyrenae|Thirenae]] and Pelagora**, which Thirenaeans date to this year. Each city needs the other, and neither forgives it.
-- **Pelagora's hold on Bethua**, kept as an allied city's colony through the imperial age and lost only in the separation of 615 AF.
+- **Pelagora's hold on Bethua**, kept as an allied city's colony through the imperial age and lost only in [[lore-bethuasep|The Separation of Bethua]] of 615 AF.
 - **The Pelagoran squadrons in Vylarian service**, the root of the Heliónite captains now hired across the sea against Bethuan privateers.
 - **Pelagora's boast** that it has never been conquered.
 - **The bronze copy** in the agorin, one line of which a Thirenaean student has chiselled away.

@@ -63,7 +63,7 @@ data:
         - what the working was, which no surviving record describes
 ---
 
-The carters who take the western road into Helionis leave the highway at a cairn and rejoin it a day later on the far side of a long bend. The bend is the **Turned Working**, and what it goes round is [[place-sourplain|the Sour Plain]].
+The carters who take the western road into [[place-helionis|Helionis]] leave the highway at a cairn and rejoin it a day later on the far side of a long bend. The bend is **The Turned Working**, and what it goes round is [[place-sourplain|The Sour Plain]].
 
 ## The Road and the Plain
 
@@ -71,7 +71,7 @@ In the eighth year of the war the legion that came down the western road into He
 
 ## The Riders
 
-A wing of the new [[lore-dragondead|Dragon Riders]] came over the field within the hour. Near them wards collapse and spells misfire, and the working the warlord had loosed did what workings do in that case. It turned back along its own line and ran through the Korinthean levy drawn up behind him, killing it in its ranks. Legion and levy lay on the plain together by evening.
+A wing of the new [Dragon Riders]{.name data-type="affiliation"} came over the field within the hour (see [[lore-dragondead|The Dragon Dead at Theradon]]). Near them wards collapse and spells misfire, and the working the warlord had loosed did what workings do in that case. It turned back along its own line and ran through the Korinthean levy drawn up behind him, killing it in its ranks. Legion and levy lay on the plain together by evening.
 
 ## The Dead
 
@@ -81,7 +81,7 @@ No herald could cross the ground to take the dead home, for either army. The [[l
 
 - **The Sour Plain**, the region's worst [[lore-bloodfield|blood-field]], a withering that has spread a few yards in each bad decade.
 - **The bend in the western road**, which carters, couriers and the imperial post all follow.
-- **Korinthea's shame**, and with it the loss of standing of its assembly. The city's law has been kept at the [[place-korinthea2|Temple of Árdavon]] since, under a line of High Judges that begins with Nomason in the year of the battle.
+- **[[place-korinthea2|Korinthea]]'s shame**, and with it the loss of standing of its assembly. The city's law has been kept at the temple of the [[affiliation-ardavon|Faith of Árdavon]] since, under a line of High Judges that begins with [Nomason]{.name data-type="being/npc"} in the year of the battle.
 - **The Helionite reading** that magic failing on a battlefield is exactly what a large working does, which the cities formed on this plain and still repeat.
 
 ## See Also

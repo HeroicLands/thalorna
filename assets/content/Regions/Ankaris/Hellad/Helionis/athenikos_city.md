@@ -14,13 +14,13 @@ data: {demonym: null, lore: [], parents: [helionis], population: 55000, governme
 
 ## Who Governs
 
-Athenikos is held by an oligarchy of its wealthy patron families, working inside the forms every Helionite city-state keeps. Citizens by descent vote in the assembly and serve in the militia. A council chosen by lot prepares the assembly's business for one year, and no one sits on it twice. Every magistrate's accounts go to an auditor at the end of his term, and without the auditor's clearance he may not leave the city. The one officer the citizens elect rather than allot is the _strátimor_, who commands the city's forces by land and sea and may be re-elected without limit.
+[[affiliation-athenikos|Athenikos]] is held by an oligarchy of its wealthy patron families, working inside the forms every Helionite city-state keeps. Citizens by descent vote in the assembly and serve in the militia. A council chosen by lot prepares the assembly's business for one year, and no one sits on it twice. Every magistrate's accounts go to an auditor at the end of his term, and without the auditor's clearance he may not leave the city. The one officer the citizens elect rather than allot is the _strátimor_, who commands the city's forces by land and sea and may be re-elected without limit.
 
 A visitor meets the city through two offices. The _agóranir_, warden of the market, rules on weights, coin, quality and disputes, so a stranger who buys or sells in the agorin answers to him first. A foreigner who stays is a metic: taxed, liable to the levy, with no vote and no right to own land.
 
 ## Character
 
-Athenikos shares the Helonic tongue, the [[affiliation-arldnpnthn|Aureldian]] gods and the festivals and games of its sister city-states, and competes with them in everything else. Its agorin works as every Helionite agorin does. A claim made there is examined on the spot, before witnesses, and a reputation is something a citizen performs rather than inherits. A newcomer who wants to be taken seriously says something and defends it.
+Athenikos shares the [[skill-helonclng|Helonic Language]], the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] and the festivals and games of its sister city-states, and competes with them in everything else. Its agorin works as every Helionite agorin does. A claim made there is examined on the spot, before witnesses, and a reputation is something a citizen performs rather than inherits. A newcomer who wants to be taken seriously says something and defends it.
 
 ## See Also
 

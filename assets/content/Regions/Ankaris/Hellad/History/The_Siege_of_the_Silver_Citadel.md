@@ -55,15 +55,15 @@ data:
         - how the city was fed through two winters, and which of the mine tunnels carried the grain
 ---
 
-The children of Argirteikhos play on a mountainside below the walls, on a ramp and two level camps that the garrison calls **the Vylarian Steps**, and they call it what their parents do.
+The children of [[place-argyrteikhos2|Argirteikhos]] play on a mountainside below the walls, on a ramp and two level camps left by The Siege of the Silver Citadel that the garrison calls **the [Vylarian Steps]{.name data-type="place/site"}**, and they call it what their parents do.
 
 ## The Siege
 
-When the legions came over the pass the commander of the citadel, **Mathirkar Gheranikot**, shut the gates and cut the road behind him. The legions built their ramp up the mountain below the walls and their two camps beside it, and for two years they did not move. The city lay above them with its silver mines. The mines ran in tunnels under the mountain, and the tunnels carried grain and water into the city and, some say, the sick out of it. The tunnels are why a siege that should have ended in one winter ended in the third.
+When the legions came over the pass the commander of the citadel, **[Mathirkar Gheranikot]{.name data-type="being/npc"}**, shut the gates and cut the road behind him. The legions built their ramp up the mountain below the walls and their two camps beside it, and for two years they did not move. The city lay above them with its silver mines. The mines ran in tunnels under the mountain, and the tunnels carried grain and water into the city and, some say, the sick out of it. The tunnels are why a siege that should have ended in one winter ended in the third.
 
 ## The Terms
 
-The Citadel surrendered on terms. The city kept its walls and its own garrison, and the Empire placed over it an imperial _usos_ (prefect) of the pass, who sat with the city council and spoke for the Orzas. The _usos_'s office outlasted the Empire's rule: when the legions marched away it became the **military governor**, and the governor sits to this day on the council of the League beside the merchant-princes.
+The Citadel surrendered on terms. The city kept its walls and its own garrison, and the [[affiliation-vylarinmpr|Vylarian Empire]] placed over it an imperial _usos_ (prefect) of the pass, who sat with the city council and spoke for the Orzas. The _usos_'s office outlasted the Empire's rule: when the legions marched away it became the **military governor**, and the governor sits to this day on the council of the [[affiliation-byzarianlg|Bizarian League]] beside the merchant-princes.
 
 ## What the Siege Left
 

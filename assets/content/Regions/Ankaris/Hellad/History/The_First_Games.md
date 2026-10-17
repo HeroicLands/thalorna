@@ -41,11 +41,11 @@ data:
         - where the founding sanctuary lay before the oldest stadium was built on it
 ---
 
-The Games are held in the oldest stadium in Helionis, at the **Sanctuary of the Games**, and every Helionite city sends athletes and a herald. A runner from [[affiliation-thyrenae|Thirenae]] and a runner from [[affiliation-pelagora|Pelagora]] race side by side there, and a season later their cities may be at war. The First Games are why both of those are true.
+The Games are held in the oldest stadium in [[place-helionis|Helionis]], at **[[place-gamessanct|The Sanctuary of the Games]]**, and every Helionite city sends athletes and a herald. A runner from [[place-thyrenae2|Thirenae]] and a runner from [[place-pelagora2|Pelagora]] race side by side there, and a season later their cities may be at war. The First Games are why both of those are true.
 
 ## The Meeting
 
-The cities of the peninsulas, a few generations past the [[lore-heladlandngs|Landings]], were close enough to raid one another's flocks and far enough apart that nobody could say who began it. Somewhere about 880 BF they agreed to meet at one sanctuary and settle their quarrels over the year in contests: running, wrestling and the chariot. The gods of the sanctuary were asked to witness, and the heralds of each city proclaimed a truce for the days of the meeting.
+The cities of the peninsulas, a few generations past [[lore-heladlandngs|The Landings]], were close enough to raid one another's flocks and far enough apart that nobody could say who began it. Somewhere about 880 BF they agreed to meet at one sanctuary and settle their quarrels over the year in contests: running, wrestling and the chariot. The gods of the sanctuary were asked to witness, and the heralds of each city proclaimed a truce for the days of the meeting.
 
 ## The Herald's Person
 
@@ -53,7 +53,7 @@ For the length of the truce a herald could not be touched, and the cities found 
 
 ## The Dead Come Home
 
-After a battle between two cities the loser's herald walks onto the field under truce and asks for the dead. The winner gives them up, the herald takes them home, and the cities fight again when the Games allow. This custom is why the wars between Helionite cities leave no [[lore-bloodfield|blood-field]]: every city's dead are carried home to their own rites. The one field no herald could cross is [[place-sourplain|the Sour Plain]].
+After a battle between two cities the loser's herald walks onto the field under truce and asks for the dead. The winner gives them up, the herald takes them home, and the cities fight again when the Games allow. This custom is why the wars between Helionite cities leave no [[lore-bloodfield|blood-field]]: every city's dead are carried home to their own rites. The one field no herald could cross is [[place-sourplain|The Sour Plain]].
 
 ## What the Meeting Left
 

@@ -61,21 +61,21 @@ data:
         - whether any colony of these years lies behind the tradition at the Old Mole of Kalipsa
 ---
 
-A Pelagoran ship's master, asked where Bethua lies, answers by pointing across the water and adding that the council of Pelagora governed it for twelve centuries. The **Daughter-Cities** are the colonies that Helionite cities planted over the sea in the two and a half centuries after the [[lore-firstgames|First Games]], when the valleys were full and younger sons had no land.
+A Pelagoran ship's master, asked where the [[place-bethuargn|Bethua Region]] lies, answers by pointing across the water and adding that the council of [[affiliation-pelagora|Pelagora]] governed it for twelve centuries. **The Daughter-Cities** are the colonies that Helionite cities planted over the sea in the two and a half centuries after [[lore-firstgames|The First Games]], when the valleys were full and younger sons had no land.
 
 ## Bethua
 
-[[affiliation-pelagora|Pelagora]] sends its colonists south to a shore it has seen from its own harbor, and plants [[place-bethuargn|Bethua]] there about 650 BF. A council in Pelagora governs the colony, appoints the officers who keep its harbor and collects its dues, and the arrangement lasts through the republic, the empire and the age of the legions. Bethua takes the Helonic tongue and the Aureldian faith with it, and in time makes both its own.
+[[affiliation-pelagora|Pelagora]] sends its colonists south to a shore it has seen from its own harbor, and plants [[place-bethuargn|Bethua]] there about 650 BF. A council in Pelagora governs the colony, appoints the officers who keep its harbor and collects its dues, and the arrangement lasts through the republic, the empire and the age of the legions. Bethua takes the [[skill-helonclng|Helonic Language]] and the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] with it, and in time makes both its own.
 
 ## The Eastern Straits
 
-Colonists and traders from several cities found the harbors of the eastern straits, among them the fortress isle of [[affiliation-nesthiros|Nesthiros]], and settle the coast on either side. From the harbors they climb the escarpments to the plateau, where the Landings had left a burial ground and little else. The east becomes Helonic at root: the Bizarians are of Helonic stock and carry the tongue in a shape that the harbors clipped.
+Colonists and traders from several cities found the harbors of the eastern straits, among them the fortress isle of [[place-nesthiros2|Nesthiros]], and settle the coast on either side. From the harbors they climb the escarpments to the plateau, where [[lore-heladlandngs|The Landings]] had left a burial ground and little else. The east becomes Helonic at root: the [[lore-byzarianclt|Bizarian]] people are of Helonic stock and carry the tongue in a shape that the harbors clipped.
 
-[[affiliation-kostaros2|Kostaros]] sends a daughter-port that keeps its mother's name, and the two have been taken for one another since. A [[place-kostaros|Bizarian port]] of that name still stands on the coast, and a debt contracted at one is sometimes sued for at the other.
+[[affiliation-kostaros2|Kostaros]] sends a daughter-port that keeps its mother's name, and the two have been taken for one another since. A Bizarian port of that name, [[place-kostaros|Kostaros]], still stands on the coast, and a debt contracted at one is sometimes sued for at the other.
 
 ## What the Colonies Left
 
-- **Bethua's Helonic tongue and faith**, and the long tie between the island city and Pelagora.
+- **Bethua's Helonic tongue and faiths**, and the long tie between the island city and Pelagora.
 - **The two Kostaros**, a Helionite city-state and a Bizarian port of one name.
 - **The Bizarian stock**, Helonic at root, which centuries of trade across the straits have hardened into a people of its own.
 - **Nesthiros's sea-trade**, which the eastern harbors have kept for as long as there have been captains to keep it.

@@ -60,11 +60,11 @@ data:
         - where the line between theory and practice falls in a single lesson, which the Concordat leaves to the teacher's judgment
 ---
 
-A teacher of the Epistémion (the Academy of Knowledge) at Thirenae will tell a student that a lesson on the nature of the elements is philosophy, and that the same lesson with the student's hand held out over a flame is a matter for the Order. Where one lesson turns into the other is the oldest argument of the Concordat.
+A teacher of the [[affiliation-panepistmm|Epistémion]] (the Academy of Knowledge) at [[place-thyrenae2|Thirenae]] will tell a student that a lesson on the nature of the elements is philosophy, and that the same lesson with the student's hand held out over a flame is a matter for the [[affiliation-ordoarcanis|Thordimalon]]. Where one lesson turns into the other is the oldest argument of The Concordat of Theory.
 
 ## The Occasion
 
-The Settlement of the Crowns left Helionis on the chancery's roll as a province whose cities kept their own magistrates. The Order's chapter in Helionis, among the most prestigious in the order, now treated with the cities' councils and not with an imperial _therkos_ (governor). In the years that followed, about 625, the councils of [[place-thyrenae2|Thirenae]] and [[place-theradon2|Theradon]], the cities with the oldest colleges, sat down with the chapter and wrote out terms.
+[[lore-crownssettle|The Settlement of the Crowns]] left [[place-helionis|Helionis]] on the chancery's roll as a province whose cities kept their own magistrates. The Order's chapter in Helionis, among the most prestigious in the order, now treated with the cities' councils and not with an imperial _therkos_ (governor). In the years that followed, about 625, the councils of [[affiliation-thyrenae|Thirenae]] and [[affiliation-theradon|Theradon]], the cities with the oldest colleges, sat down with the chapter and wrote out terms.
 
 ## The Terms
 
@@ -78,7 +78,7 @@ The Concordat says nothing about the line between the first two. Both sides know
 
 The line between theory and practice is blurred, and both the councils and the Order exploit the blur. A student of the colleges learns what a working is, how it is classified and why it succeeds, and stops where the practice would begin. A man who goes on is an unlicensed practitioner, and there are more of them in Helionis than anywhere else the Order reaches.
 
-The Order's Sekran treads more carefully in Helionis than elsewhere, in the land that gave the Order its foundations.
+The Order's [Sekran]{.name data-type="affiliation"} treads more carefully in Helionis than elsewhere, in the land that gave the Order its foundations.
 
 ## What the Concordat Left
 

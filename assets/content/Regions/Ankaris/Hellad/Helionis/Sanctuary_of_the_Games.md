@@ -8,11 +8,11 @@ tags: [sacred, games, hellad]
 data: {demonym: null, lore: [], parents: [helionis], population: null, packFolder: helionis}
 ---
 
-A traveler who asks the way to the **Sanctuary of the Games** is told the road by a man from every city he asks, and each gives a different road, since each city's road to the sanctuary is the one that does not pass through another's land. The sanctuary lies in the hills where the territories of several cities meet, a long day's walk from none of them in particular, and it is the oldest sacred ground in [[place-helionis|Helionis]] that the cities hold in common.
+A traveler who asks the way to **The Sanctuary of the Games** is told the road by a man from every city he asks, and each gives a different road, since each city's road to the sanctuary is the one that does not pass through another's land. The sanctuary lies in the hills where the territories of several cities meet, a long day's walk from none of them in particular, and it is the oldest sacred ground in [[place-helionis|Helionis]] that the cities hold in common.
 
 ## The Stadium
 
-The oldest stadium in the region lies in the sanctuary's valley, a long cut of packed earth with banks of stone benches on one side and turf on the other. It was cut for the [[lore-firstgames|First Games]] about 880 BF and is still the seat of the Games, which every Helionite city sends athletes and a herald to. Running, wrestling and the chariot are run here, with a truce proclaimed for the days of the meeting.
+The oldest stadium in the region lies in the sanctuary's valley, a long cut of packed earth with banks of stone benches on one side and turf on the other. It was cut for [[lore-firstgames|The First Games]] about 880 BF and is still the seat of the Games, which every Helionite city sends athletes and a herald to. Running, wrestling and the chariot are run here, with a truce proclaimed for the days of the meeting.
 
 ## The Heralds' Altar
 

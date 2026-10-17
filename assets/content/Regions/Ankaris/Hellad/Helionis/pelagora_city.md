@@ -14,7 +14,7 @@ data: {demonym: null, lore: [], parents: [helionis], population: 40000, governme
 
 ## The Harbor
 
-The city is built around its great harbor, a natural bay sheltered by rocky headlands, one of the finest anchorages in the central sea. The waterfront is a forest of masts—warships, merchant vessels, and fishing boats packed together in organized chaos. Pelagora commands the most important harbors in Helionis and controls the sea lanes of the eastern [[place-vylarianse|Vylarian Sea]]. Its shipwrights build the fastest galleys on that sea, and its fleet is the largest in the region.
+The city is built around its great harbor, a natural bay sheltered by rocky headlands, one of the finest anchorages in the central sea. The waterfront is a forest of masts—warships, merchant vessels, and fishing boats packed together in organized chaos. [[affiliation-pelagora|Pelagora]] commands the most important harbors in Helionis and controls the sea lanes of the eastern [[place-vylarianse|Vylarian Sea]]. Its shipwrights build the fastest galleys on that sea, and its fleet is the largest in the region.
 
 ## Making a Living
 
@@ -22,7 +22,7 @@ Pelagora is more commercial than scholarly [[place-thyrenae2|Thirenae]]. Its mer
 
 ## The Treaty
 
-The bronze copy of the [[lore-heladpelagtrty|Pelagoran Treaty]] stands in the agorin. Thirenaean visitors spit beside it, and a Thirenaean student has chiselled one line off it.
+The bronze copy of [[lore-heladpelagtrty|The Pelagoran Treaty]] stands in the agorin. Thirenaean visitors spit beside it, and a Thirenaean student has chiselled one line off it.
 
 ## Neighbors
 

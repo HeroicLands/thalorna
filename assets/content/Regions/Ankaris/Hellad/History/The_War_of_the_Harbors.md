@@ -69,30 +69,30 @@ data:
         - where the dead were exchanged after the last battle, which the Pelagoran and Thirenaean heralds place on different sides of the same ridge
 ---
 
-At the edge of a ridge in the Helionite hills there is a stone that heralds touch before every war season, and the heralds of two cities disagree about which side of the ridge it stands on.
+At the edge of a ridge in the Helionite hills there is a stone, left by The War of the Harbors, that heralds touch before every war season, and the heralds of two cities disagree about which side of the ridge it stands on.
 
 ## The Dues
 
-When the legions went north in the years after [[lore-threewinters|the Three Winters]], the cities of Helionis found that nobody was left to forbid them to fight. The Empire kept its name on the chancery's roll and took its soldiers home, and the councils of the cities took up their own levies for the first time since the Republic's conquest.
+When the legions went north in the years after [[lore-threewinters|The Three Winters]], the cities of [[place-helionis|Helionis]] found that nobody was left to forbid them to fight. The [[affiliation-vylarinmpr|Vylarian Empire]] kept its name on the chancery's roll and took its soldiers home, and the councils of the cities took up their own levies for the first time since the [Vylarian Republic]{.name data-type="affiliation/polity"}'s conquest.
 
-Pelagora held the harbors, and since its separate peace it had held them as the Republic's naval ally, with no one to ask what it charged. In about 548 its assembly, led by the strátimor **Rhézamos Férandides**, voted a schedule of dues on every hull that used a Pelagoran harbor, and closed the coast to the Thirenaean and Kalidrian ships that would not pay it.
+[[affiliation-pelagora|Pelagora]] held the harbors, and since its separate peace it had held them as the Republic's naval ally, with no one to ask what it charged. In about 548 its assembly, led by the strátimor **[Rhézamos Férandides]{.name data-type="being/npc"}**, voted a schedule of dues on every hull that used a Pelagoran harbor, and closed the coast to the Thirenaean and Kalidrian ships that would not pay it.
 
 ## The Three Summers
 
-The war lasted from about 548 to about 551 and was fought in the summers. Pelagora's fleet held the coast, Thirenae and Kalidria raised levies and marched on the Pelagoran hinterland, and the armies met twice in the hills and once on the coast road. The first battle went to the fleet's marines and the second to the levies. The third was a draw in which neither side could hold the ground it won.
+The war lasted from about 548 to about 551 and was fought in the summers. Pelagora's fleet held the coast, [[affiliation-thyrenae|Thirenae]] and [[affiliation-kalydria|Kalidria]] raised levies and marched on the Pelagoran hinterland, and the armies met twice in the hills and once on the coast road. The first battle went to the fleet's marines and the second to the levies. The third was a draw in which neither side could hold the ground it won.
 
-It was the first war among the Helionite cities in the eight and a half centuries since the conquest, and nobody knew how to fight it. Both sides sent their heralds across the field after each battle to ask for the dead, as the custom of [[lore-firstgames|the First Games]] required, and both sides gave the dead up. The custom held with no imperial officer present to enforce it.
+It was the first war among the Helionite cities in the eight and a half centuries since the conquest, and nobody knew how to fight it. Both sides sent their heralds across the field after each battle to ask for the dead, as the custom of [[lore-firstgames|The First Games]] required, and both sides gave the dead up. The custom held with no imperial officer present to enforce it.
 
 No border moved. Pelagora cut its dues to a third and kept the third, and Thirenae and Kalidria paid it and reopened their harbors. The assembly of Pelagora counted the war a success and the assemblies of the other two counted it a lesson.
 
 ## The Heralds' Stone
 
-After the last battle the heralds of the three cities met on the field and exchanged the dead across a ridge, and a stone was set where they met. Heralds touch it before each war season begins. Because every city takes its dead home, the war left no blood-field, which is why the Helionite hills have only the [[place-sourplain|Sour Plain]]: the one battle in Helionis where no herald could cross.
+After the last battle the heralds of the three cities met on the field and exchanged the dead across a ridge, and a stone was set where they met. Heralds touch it before each war season begins. Because every city takes its dead home, the war left no blood-field, which is why the Helionite hills have only [[place-sourplain|The Sour Plain]]: the one battle in Helionis where no herald could cross.
 
 ## What the War Left
 
 - **Pelagora's dues**, cut to a third and paid to this day.
-- **The Heralds' Stone**, where the dead were exchanged, touched before each war season.
+- **The [Heralds' Stone]{.name data-type="place/structure"}**, where the dead were exchanged, touched before each war season.
 - **The sharper quarrel** between Thirenae and Pelagora, which now has a price as well as a grievance.
 - **[[lore-heladtruce|The Truce of the Games]]**, the rules the cities wrote at the next meeting so that their next war would be smaller.
 

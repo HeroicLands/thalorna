@@ -82,7 +82,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview
 
-Never call a graduate of the **Academy of the Silver Veil** a courtesan in Kalidria. She is a hetairin, an educated companion trained in music, philosophy, rhetoric and the social arts, and Helionites are impatient with the confusion. The Academy is the most distinctive institution of a city-state that is renowned across [[place-midhalnrgn|Mídhalión]] for its artists, playwrights and musicians. Where [[affiliation-thyrenae|Thirenae]] pursues truth and [[affiliation-pelagora|Pelagora]] pursues power, Kalidria pursues beauty. About 460,000 people live under its patron families, and 45,000 of them in the city of [[place-kalydria2|Kalidria]].
+Never call a graduate of the **[Academy of the Silver Veil]{.name data-type="affiliation"}** a courtesan in Kalidria. She is a hetairin, an educated companion trained in music, philosophy, rhetoric and the social arts, and Helionites are impatient with the confusion. The Academy is the most distinctive institution of a city-state that is renowned across the [[place-midhalnrgn|Mídhalión Region]] for its artists, playwrights and musicians. Where [[affiliation-thyrenae|Thirenae]] pursues truth and [[affiliation-pelagora|Pelagora]] pursues power, Kalidria pursues beauty. About 460,000 people live under its patron families, and 45,000 of them in the city of [[place-kalydria2|Kalidria]].
 
 - **Patron deity:** [[lore-zunelasdty|Zunelas]], goddess of dreams and visions
 - **Government:** oligarchy of wealthy patron families
@@ -103,11 +103,11 @@ The patron families of Kalidria founded the Academy about 260 BF, half a century
 
 The city's theater festivals draw audiences from across the [[place-vylarianse|Vylarian Sea]]. Playwrights premiere their tragedies and comedies here, and a Kalidrian prize is the highest honor a dramatist can receive. Kalidrian sculptors and painters are sought by wealthy patrons across Mídhalión, and Kalidrian training is considered the finest available.
 
-Kalidria's strength lies in influence and not in arms. The patron families use art and social connection as instruments of soft power, and Kalidrian taste shapes fashion, entertainment and courtly manners across western Ankaris.
+Kalidria's strength lies in influence and not in arms. The patron families use art and social connection as instruments of soft power, and Kalidrian taste shapes fashion, entertainment and courtly manners across the western part of the [[place-ankrscntnnt|Ankaris Continent]].
 
 ## Commerce and Currency
 
-Kalidria uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through the [[affiliation-danvar|Danvar]] moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. The [[affiliation-tolvan|Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Kalidria uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]] moneylenders chartered under [[affiliation-tevran|The Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

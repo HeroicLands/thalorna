@@ -61,22 +61,22 @@ data:
         - what the commissioners carried out of the college's rooms, which no inventory the city kept survives to name
 ---
 
-Thirenae's walls have a long scar on the western side where a gate was walled up and never reopened. It is the **Commissioners' Gate**, and it marks where the last free city of Helionis let the Republic in.
+[[place-thyrenae2|Thirenae]]'s walls have a long scar on the western side where a gate was walled up and never reopened. It is the **[Commissioners' Gate]{.name data-type="place/structure"}**, and it marks where the last free city of [[place-helionis|Helionis]] let the [Vylarian Republic]{.name data-type="affiliation/polity"} in during The Siege of Thirenae.
 
 ## The Siege
 
-By 313 BF Thirenae was the last city of Helionis that had not yielded. The legions drew their lines on the landward side, and Pelagoran ships, bought by the [[lore-heladpelagtrty|Pelagoran Treaty]] a year before, held the coast. The city had its walls, its academies and a council of senior scholars who had never planned for a war with the legions of a republic, and it held out through the winter.
+By 313 BF [[affiliation-thyrenae|Thirenae]] was the last city of Helionis that had not yielded. The legions drew their lines on the landward side, and Pelagoran ships, bought by [[lore-heladpelagtrty|The Pelagoran Treaty]] a year before, held the coast. The city had its walls, its academies and a council of senior scholars who had never planned for a war with the legions of a republic, and it held out through the winter.
 
 ## The Terms
 
-The Arsir of the year, **Sothanos Kosamides**, sent to the _felzos_ (legate) and came back with terms. The walls would be breached at one gate and no other. The libraries and the colleges would stand untouched. The Republic's commissioners would enter through the breach the same month. The council voted for them, and in 312 BF the gate came down and the commissioners went in. They took the College of Arcane Philosophy out of the [[affiliation-panepistmm|Epistémion]] that same month, and the Senate placed it under the Kandral.
+The Arsir of the year, **[Sothanos Kosamides]{.name data-type="being/npc"}**, sent to the _felzos_ (legate) and came back with terms. The walls would be breached at one gate and no other. The libraries and the colleges would stand untouched. The Republic's commissioners would enter through the breach the same month. The council voted for them, and in 312 BF the gate came down and the commissioners went in. They took the [[affiliation-ordoarcanis|College of Arcane Philosophy]] out of the [[affiliation-panepistmm|Epistémion]] that same month, and [[affiliation-seldan|Seldan]], the Senate, placed it under the [Kandral]{.name data-type="affiliation/governmental"}.
 
 ## What the Siege Left
 
 - **The Commissioners' Gate**, walled up in the days after and never reopened. Antiquarians go to see it, and nobody else uses the street.
-- **The Library of Thirenae**, whole, and the colleges around it, which are the reason the city still teaches.
+- **The [Library of Thirenae]{.name data-type="place/structure"}**, whole, and the colleges around it, which are the reason the city still teaches.
 - **The day of the extraction**, which the colleges keep as a day of silence.
-- **Thirenae's claim** to be the birthplace of the Arcane Order and its first victim.
+- **Thirenae's claim** to be the birthplace of the [[affiliation-ordoarcanis|Thordimalon]] and its first victim.
 
 ## See Also
 
