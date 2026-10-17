@@ -17,27 +17,27 @@ data:
 
 ## Overview
 
-"My grandfather plowed round the stones, and so do I," a farmer of **Zu-Ger** says, turning his team at the end of a furrow beside a row of old marker stones.
+"My grandfather plowed round the stones, and so do I," a farmer of Zu-Ger says, turning his team at the end of a furrow beside a row of old marker stones.
 
-Zu-Ger is the land of the [[affiliation-selatzuger|Selat of Zu-Ger]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is a different place from [[place-zugezer|Zu-Gezer]], the royal necropolis across the river from the capital.
+Zu-Ger is the land of [[affiliation-selatzuger|The Selat of Zu-Ger]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is a different place from [[place-zugezer|Zu-Gezer]], the royal necropolis across the river from the capital.
 
 ## Character
 
-The land is "the **Great Land**," an ancient royal selat and the old burial-ground of the first dynasties. Fields and villages fill the river strip between the canals and the dry uplands, and the burial-ground lies in the desert edge above them, with high desert and chaparral beyond. The villages are ordinary [[lore-khelathiclt|Khelathi]] villages and the estates are ordinary estates, working ground that is very old.
+The land is "the Great Land," an ancient royal selat and the old burial-ground of the first dynasties. Fields and villages fill the river strip between the canals and the dry uplands, and the burial-ground lies in the desert edge above them, with high desert and chaparral beyond. The villages are ordinary [[lore-khelathiclt|Khelathi]] villages and the estates are ordinary estates, working ground that is very old.
 
 ## Economy
 
-Grain goes to the granaries, labor to the canals and a share of everything to the temples and the crown, as in every Khelathi selat. What the selat adds is its age and its dead: the old burial-ground of the first dynasties lies in its desert edge, and its patron is [[lore-hezmuiridty|Hezmu'iri]], the [[affiliation-hezmuiri|Keeper of Transitions]].
+Grain goes to the granaries, labor to the canals and a share of everything to the temples and the crown, as in every Khelathi selat. What the selat adds is its age and its dead: the old burial-ground of the first dynasties lies in its desert edge, and its patron is [[lore-hezmuiridty|Hezmu'iri]], the Keeper of Transitions.
 
 ## Notable Features
 
 - [[place-tjegu|Tjegu]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-hezmuiri|Faith of Hezmu'iri]] and its estates
-- The old burial-ground of the first dynasties, [[place-firsttablets|the Ground of the First Tablets]]
+- The chief temple of the [[affiliation-hezmuiri|Faith of Hezmu'iri]] and its estates
+- The old burial-ground of the first dynasties, [[place-firsttablets|The Ground of the First Tablets]]
 
 ## Settlements
 
-[[place-tjegu|Tjegu]] (~39,000)
+Tjegu (~39,000)
 : the selat capital and the seat of the Halzi'a.
 
 The villages and estate-towns

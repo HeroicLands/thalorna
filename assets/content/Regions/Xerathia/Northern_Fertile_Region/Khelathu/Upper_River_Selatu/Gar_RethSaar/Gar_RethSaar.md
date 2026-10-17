@@ -19,7 +19,7 @@ data:
 
 "We grow two crops here," a lodging-house keeper tells a traveler on the road to [[place-khelunu|Khelunu]]. "The wheat comes up in [[lore-geletssn|Gelet]] like everyone's wheat. The other crop walks in at seven years old, holding its mother's hand and a reed pen it has never used."
 
-**Gar-Reth'Sa'ar** is the land of the [[affiliation-selatgrrthsr|Selat of Gar-Reth'Sa'ar]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. At its center stands Khelunu, the foremost temple-city of [[lore-rethsaardty|Reth'Sa'ar]], keeper of sacred wisdom. Its library-temple holds the deepest archive in the empire, and its priest-scribes maintain the meticulous king-lists that run back, unbroken, to the [[affiliation-empireakhlth#the-khelathi-calendar-and-dating|Qet Telgu]]. The selat's worldly produce is ordinary upper-river grain. Its real export is literate, numerate, learned men, and the records by which the empire knows itself.
+Gar-Reth'Sa'ar is the land of [[affiliation-selatgrrthsr|The Selat of Gar-Reth'Sa'ar]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. At its center stands Khelunu, the foremost temple-city of [[lore-rethsaardty|Reth'Sa'ar]], keeper of sacred wisdom. Its library-temple holds the deepest archive in the empire, and its priest-scribes maintain the meticulous king-lists that run back, unbroken, to [[lore-qettelgu|The Qet Telgu]]. The selat's worldly produce is ordinary upper-river grain. Its real export is literate, numerate, learned men, and the records by which the empire knows itself.
 
 ## Economy
 
@@ -27,12 +27,12 @@ The selat farms its share of upper-river grain like any other, but its distincti
 
 ## Notable Features
 
-- The great library-temple of [[lore-rethsaardty|Reth'Sa'ar]] at [[place-khelunu|Khelunu]], the deepest archive in the empire
+- The great library-temple of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] at Khelunu, the deepest archive in the empire
 - The astronomers' observatory and the calendar-service that keeps the realm's time
 
 ## Settlements
 
-[[place-khelunu|Khelunu]] (~85,000)
+Khelunu (~85,000)
 : the selat capital and the empire's great temple-city of learning: the library-temple of Reth'Sa'ar, the scribal schools, the observatory, the archives and the pupil-and-scholar quarters that surround them, beside the seat of the Halzi'a.
 
 The school-and-farm villages

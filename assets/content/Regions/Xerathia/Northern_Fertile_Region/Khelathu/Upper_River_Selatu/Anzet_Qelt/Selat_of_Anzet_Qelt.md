@@ -59,11 +59,11 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 "Two things get weighed in [[place-anzetqeltnome|Anzet-Qelt]]," the assayer of the [[affiliation-garhalzi|Gar-Hálzi]] chapter tells a clerk newly posted from the capital. "The metal that crosses this counter, and the heart at the end. The second is not my office."
 
-The **Selat of Anzet-Qelt** is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], a selat of jackal-cult and desert-edge tombs, embalmers and tomb-guards, with about 320,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. Its patron is [[affiliation-hezmuiri|Faith of Hezmu'iri]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-anzetqeltnome|Anzet-Qelt]].
+The Selat of Anzet-Qelt is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], a selat of jackal-cult and desert-edge tombs, embalmers and tomb-guards, with about 320,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. Its patron is [[lore-hezmuiridty|Hezmu'iri]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is Anzet-Qelt.
 
 ## Character
 
-The seat is [[place-anzet|Anzet]], where the Halzi'a keeps his court and the chief temple of [[lore-hezmuiridty|Hezmu'iri]] stands. In a selat of embalmers and tomb-guards the two authorities sit close together: the Halzi'a holds the levies, the taxes and the courts, and the temple holds the dead. The priesthood of Hezmu'iri is among the largest and most powerful in the empire, and every household in the selat will need its services in the end.
+The seat is [[place-anzet|Anzet]], where the Halzi'a keeps his court and the chief temple of the [[affiliation-hezmuiri|Faith of Hezmu'iri]] stands. In a selat of embalmers and tomb-guards the two authorities sit close together: the Halzi'a holds the levies, the taxes and the courts, and the temple holds the dead. The priesthood of Hezmu'iri is among the largest and most powerful in the empire, and every household in the selat will need its services in the end.
 
 ## Commerce and Currency
 

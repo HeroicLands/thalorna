@@ -17,13 +17,13 @@ data:
 
 ## Overview
 
-"Look at that," a caravan driver says to the boy beside him on the last descent from the eastern hills, as the green strip of **Selat-Pelgun** comes into sight below. "Days of sand, and then this. The animals smell the water before we do."
+"Look at that," a caravan driver says to the boy beside him on the last descent from the eastern hills, as the green strip of Selat-Pelgun comes into sight below. "Days of sand, and then this. The animals smell the water before we do."
 
-Selat-Pelgun is the land of the [[affiliation-selatsltplgn|Selat of Selat-Pelgun]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
+Selat-Pelgun is the land of [[affiliation-selatsltplgn|The Selat of Selat-Pelgun]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 
-The land lies where the eastern desert meets the river. To the east the ground rises into rugged, mineral-rich hills and runs out into the semi-desert beyond, and the roads come down out of it to the green strip of flood-silt fields, canals and villages along the water. Estates and temple lands share the strip with the villages, and at harvest the festivals of [[lore-pelgundty|Pelgun]] fill them.
+The land lies where the eastern desert meets the river. To the east the ground rises into rugged, mineral-rich hills and runs out into the semi-desert beyond, and the roads come down out of it to the green strip of flood-silt fields, canals and villages along the water. Estates and temple lands share the strip with the villages, and at harvest the festivals of the [[affiliation-pelgun|Faith of Pelgun]] fill them.
 
 ## Economy
 
@@ -32,12 +32,12 @@ The selat feeds its granaries from the flood like every [[lore-khelathiclt|Khela
 ## Notable Features
 
 - [[place-iqu|Iku]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-pelgun|Faith of Pelgun]] and its estates
+- The chief temple of the Faith of Pelgun and its estates
 - The caravan-roads from the eastern desert and the harvest-festivals of Pelgun
 
 ## Settlements
 
-[[place-iqu|Iku]] (~34,000)
+Iku (~34,000)
 : the selat capital and the seat of the Halzi'a.
 
 The villages and estate-towns

@@ -60,15 +60,15 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Where the [[place-zumeleshrvr|Zumelesh]] reaches the [[place-vylarianse|Vylarian Sea]] it breaks into a fan of channels, marshes and silt-islands, and that fan is the Delta: the richest and most worldly land in the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. The ten **Delta Selatu** are the empire's face to the sea and its purse. They hold the international ports, the garden strip that grows the empire's luxury crops, and the densest farmland in the known world, and their Halzi'a are merchants and diplomats as much as governors. Their estates and counting-houses make them, together, the wealthiest aristocracy in the empire.
+Where [[place-zumeleshrvr|The Zumelesh]] reaches the [[place-vylarianse|Vylarian Sea]] it breaks into a fan of channels, marshes and silt-islands, and that fan is the Delta: the richest and most worldly land in the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. The Delta Selatu—ten provinces—are the empire's face to the sea and its purse. They hold the international ports, the garden strip that grows the empire's luxury crops, and the densest farmland in the known world, and their Halzi'a are merchants and diplomats as much as governors. Their estates and counting-houses make them, together, the wealthiest aristocracy in the empire.
 
 "Everything that comes into this empire by water comes past my table first," a customs scribe on the quays of [[place-garanlaghet|Gar-Anlaghet]] tells a ship's factor fresh off a [[lore-taruzelianclt|Taruzelian]] hull. "Upriver they will tell you the Delta is half foreign. It is. That is what it is for."
 
 ## Character
 
-The Delta is where [[affiliation-empireakhlth|Au'Khelathu]] meets the wider world, and it shows. The port cities are crowded and polyglot: [[affiliation-cnfdrtntrzlnstts|Taruzelian]] trading factors keep permanent quarters along the docks, merchants from [[place-midhalnrgn|Mídhalión]] haggle in the markets, and the houses of the [[affiliation-zebequzut|Zebeku'Zut]] do their quiet business at delta banquets.
+The Delta is where Au'Khelathu meets the wider world, and it shows. The port cities are crowded and polyglot: trading factors from the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] keep permanent quarters along the docks, merchants from the [[place-midhalnrgn|Mídhalión Region]] haggle in the markets, and the houses of the [[affiliation-zebequzut|Zebeku'Zut]] do their quiet business at delta banquets.
 
-The conservative landowners of the [[affiliation-upperrivrslt|Upper River Selatu]] think delta-folk cosmopolitan, sharp-tongued and faintly suspect, and they regard an easy familiarity with foreigners as one short step from disloyalty. The delta Halzi'a return the contempt with interest. That rivalry, between river conservatives and delta cosmopolitans, is one of the steady tensions of [[lore-khelathiclt|Khelathi]] politics.
+The conservative landowners of [[affiliation-upperrivrslt|The Upper River Selatu]] think delta-folk cosmopolitan, sharp-tongued and faintly suspect, and they regard an easy familiarity with foreigners as one short step from disloyalty. The delta Halzi'a return the contempt with interest. That rivalry, between river conservatives and delta cosmopolitans, is one of the steady tensions of [[lore-khelathiclt|Khelathi]] politics.
 
 The land shapes the people who work it:
 
@@ -111,13 +111,13 @@ Delta total: about 6,000,000.
 
 ## For the Worldbuilder
 
-Run the Delta as the empire's seafront and its money: a country of trade, customs, smuggling and foreign intrigue, closer in temper to a [[lore-vylarianclt|Vylarian]] port province such as [[affiliation-provincvld|Salkalon]] than to the temple-bound interior. Three powers share it, and all three are wealthy, jealous and watchful: the merchant houses, the [[affiliation-garhalzi|Gar-Hálzi]] temple-treasuries that bank their gold, and the [[lore-garauu|Gar-Au]]'s customs men who tax it all.
+Run the Delta as the empire's seafront and its money: a country of trade, customs, smuggling and foreign intrigue, closer in temper to a [[lore-vylarianclt|Vylarian]] port province such as the [[affiliation-provincvld|Province of Salkalon]] than to the temple-bound interior. Three powers share it, and all three are wealthy, jealous and watchful: the merchant houses, the [[affiliation-garhalzi|Gar-Hálzi]] temple-treasuries that bank their gold, and the [[lore-garauu|Gar-Au]]'s customs men who tax it all.
 
 Adventure here is mercantile and maritime—shipping intrigue and insurance fraud, customs-running through the marsh channels, foreign agents working the quays, Taruzelian and Vylarian factors playing both ends, papyrus and salt monopolies worth killing over, and the constant low friction between the delta's outward-facing Halzi'a and the suspicious river-lords upstream. Fish, fowl, salt, paper, wine and foreign news are abundant. Grain is scarce, because it comes from upriver, and so is any love for the tax-farmer.
 
 ## Commerce and Currency
 
-The Delta Selatu use the [[lore-aukhlthcrncy|Au'Khelathu currency]] of temple-attested weight-pieces in copper, silver and gold, reckoned in gezan and qelu. The delta ports are also where foreign coin circulates most freely, and where the [[affiliation-garhalzi|Gar-Hálzi]] treasuries do their heaviest banking and letter-of-credit business with foreign houses. A factor paying in Vylarian coin has it weighed and discounted at the quay before it buys anything.
+The Delta Selatu use the [[lore-aukhlthcrncy|Au'Khelathu Currency]] of temple-attested weight-pieces in copper, silver and gold, reckoned in gezan and qelu. The delta ports are also where foreign coin circulates most freely, and where the Gar-Hálzi treasuries do their heaviest banking and letter-of-credit business with foreign houses. A factor paying in Vylarian coin has it weighed and discounted at the quay before it buys anything.
 
 ## See Also
 

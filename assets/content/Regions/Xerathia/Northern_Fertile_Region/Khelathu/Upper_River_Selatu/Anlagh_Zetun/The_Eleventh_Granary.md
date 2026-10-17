@@ -16,11 +16,11 @@ data:
 
 "Ten you open and one you do not," a granary steward tells a new tally-clerk as they walk the row of domes. "Count them all the same, and when the sum will not close, do not look for the error in the eleventh."
 
-The **Eleventh Granary** stands at the end of the granary row of [[place-anlaghzetun|Anlagh-Zetun]], a dome like the others, with its door bricked and plastered over. It is a _zelqezat_ (a blood-field, "the place of a battle left unread"), the second in Khelathi memory, and it is a withering one: the grain around it spoils.
+The Eleventh Granary stands at the end of the granary row of [[place-anlaghzetun|Anlagh-Zetun]], a dome like the others, with its door bricked and plastered over. It is a _zelqezat_ (a blood-field, "the place of a battle left unread"), the second in Khelathi memory, and it is a withering one: the grain around it spoils.
 
 ## How It Was Made
 
-In 2378 ST (268 AF) the Halzi'a of the selat broke the god-king's guard at the granary gates ([[lore-sealedgran|the Battle of the Sealed Granaries]]). Several thousand lay dead between the domes, the guard and the levies together, and the living had no grain to pay the embalmers. One granary had been emptied to feed the guard, and the dead of both sides were thrown into it and shut in, with no rite said and no name entered. The selat meant to open it when the rites could be paid for. It never has.
+In 2378 ST (268 AF) the Halzi'a of the selat broke the god-king's guard at the granary gates ([[lore-sealedgran|The Battle of the Sealed Granaries]]). Several thousand lay dead between the domes, the guard and the levies together, and the living had no grain to pay the embalmers. One granary had been emptied to feed the guard, and the dead of both sides were thrown into it and shut in, with no rite said and no name entered. The selat meant to open it when the rites could be paid for. It never has.
 
 ## What Is There
 
@@ -30,7 +30,7 @@ Its thinness is **moderate**, and it follows hunger and not the season. In a ful
 
 ## The Bread for the Gate
 
-Each anniversary the selat throws bread over the wall of the Eleventh Granary, and the festival has its name from that: the **Bread for the Gate**. The Halzi'a's house of **Anlaghet'Zaru** keeps the granary shut by order, and the bread is the house's offering at the edge. The poor of [[place-amqelulegez|Amqelu-Legez]] eat what lands outside.
+Each anniversary the selat throws bread over the wall of the Eleventh Granary, and the festival has its name from that: the [Bread for the Gate]{.name data-type="lore/custom"}. The Halzi'a's house of [Anlaghet'Zaru]{.name data-type="affiliation/lineage"} keeps the granary shut by order, and the bread is the house's offering at the edge. The poor of [[place-amqelulegez|Amqelu-Legez]] eat what lands outside.
 
 A Reading held for the unnamed at the edge quiets the field for the night it is held. It cannot end it, because no roll of the dead was kept and a Reading closes on a name.
 

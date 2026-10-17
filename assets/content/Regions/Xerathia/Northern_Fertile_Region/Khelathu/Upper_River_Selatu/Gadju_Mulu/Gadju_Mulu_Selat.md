@@ -17,9 +17,9 @@ data:
 
 ## Overview
 
-"The maps call it **Green Waters**," a fowler says as he poles a passenger between the reed-beds, "and for once the maps have it right. Most of the upper river is a ribbon of green with desert behind it. Here the water spreads out, and it stays."
+"The maps call it Green Waters," a fowler says as he poles a passenger between the reed-beds, "and for once the maps have it right. Most of the upper river is a ribbon of green with desert behind it. Here the water spreads out, and it stays."
 
-**Gadju-Mulu Selat** is the land of the [[affiliation-selatgadjuml|Selat of Gadju-Mulu]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. Its name is "Green Waters," and about 360,000 people live in its marshy flood-basin, the wettest country of the upper selatu.
+Gadju-Mulu Selat is the land of [[affiliation-selatgadjuml|The Selat of Gadju-Mulu]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. Its name is "Green Waters," and about 360,000 people live in its marshy flood-basin, the wettest country of the upper selatu.
 
 ## Character
 
@@ -30,7 +30,7 @@ Its patron is [[lore-thubaidty|Thuba'i]], the god of plenty, and a wet, abundant
 ## Settlements
 
 [[place-gadjumulu|Gadju-Mulu]] (~27,000)
-: the selat capital and the seat of the Halzi'a, home of the chief temple of [[affiliation-thubai|Faith of Thuba'i]] and its estates.
+: the selat capital and the seat of the Halzi'a, home of the chief temple of the [[affiliation-thubai|Faith of Thuba'i]] and its estates.
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

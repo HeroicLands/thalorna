@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-**Gar-Irezu** stands in the marshes of [[place-garanlghtslt|Gar-Anlaghet Selat]], where the channels are too small for the great port of [[place-garanlaghet|Gar-Anlaghet]] to trouble with. A few hundred to a couple of thousand people live on the ferry-traffic and water-work the harbor leaves behind. What the port will not carry, Gar-Irezu usually will, at a price the port would never charge, and a shipper in a hurry learns to ask at the village landing before he asks at the quay.
+Gar-Irezu stands in the marshes of [[place-garanlghtslt|Gar-Anlaghet Selat]], where the channels are too small for the great port of [[place-garanlaghet|Gar-Anlaghet]] to trouble with. A few hundred to a couple of thousand people live on the ferry-traffic and water-work the harbor leaves behind. What the port will not carry, Gar-Irezu usually will, at a price the port would never charge, and a shipper in a hurry learns to ask at the village landing before he asks at the quay.
 
 ## See Also
 

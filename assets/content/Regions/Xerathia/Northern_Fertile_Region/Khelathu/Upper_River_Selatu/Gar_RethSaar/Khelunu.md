@@ -17,9 +17,9 @@ data:
 
 ## Overview
 
-"Before we go in," a schoolmaster of [[lore-rethsaardty|Reth'Sa'ar]] tells the family of a seven-year-old at the city gate, "understand what this place is for. The schools do not teach your son to be clever. They teach him to be exact, and exactness is what the empire pays for."
+"Before we go in," a schoolmaster of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] tells the family of a seven-year-old at the city gate, "understand what this place is for. The schools do not teach your son to be clever. They teach him to be exact, and exactness is what the empire pays for."
 
-**Khelunu** is the empire's city of learning: capital of the [[affiliation-selatgrrthsr|Selat of Gar-Reth'Sa'ar]], home to about 85,000 people, and seat of the foremost temple of [[lore-rethsaardty|Reth'Sa'ar]], keeper of sacred knowledge. Its great library-temple holds the deepest archive in the [[affiliation-empireakhlth|Empire of Au'Khelathu]]: the priestly records, the medical, astronomical and legal texts, and the meticulous king-lists that reach back, unbroken, to the [[affiliation-empireakhlth#the-khelathi-calendar-and-dating|Qet Telgu]].
+Khelunu is the empire's city of learning: capital of [[affiliation-selatgrrthsr|The Selat of Gar-Reth'Sa'ar]], home to about 85,000 people, and seat of the foremost temple of [[lore-rethsaardty|Reth'Sa'ar]], keeper of sacred knowledge. Its great library-temple holds the deepest archive in the [[affiliation-empireakhlth|Empire of Au'Khelathu]]: the priestly records, the medical, astronomical and legal texts, and the meticulous king-lists that reach back, unbroken, to [[lore-qettelgu|The Qet Telgu]].
 
 Around the library-temple cluster the institutions that make the city what it is:
 
@@ -28,7 +28,7 @@ Around the library-temple cluster the institutions that make the city what it is
 - The scriptoria, which copy and sell the texts the empire runs on.
 - The quarters of scholars, pupils and lodging-houses, which make Khelunu feel less like a provincial city than a vast and ancient university.
 
-The city also gives its name to the [[lore-khelunulekha|Khelunu Lekhau]], the arcane tradition of the [[lore-khelunulekha|Eight Powers]], which is taught here in its fullest form. The two are not the same body: the scribal schools make scribes, and the Lekhau train the practice of sacred power.
+The city also gives its name to the [[lore-khelunulekha|Khelunu Lekhau]], the arcane tradition of the Eight Powers, which is taught here in its fullest form. The two are not the same body: the scribal schools make scribes, and the Lekhau train the practice of sacred power.
 
 The Thaz'Lekhau of Reth'Sa'ar is less wealthy than the heads of the great solar and mortuary cults, and more influential than his purse. He governs the word and the number here, and in a civilization that runs on records that is power enough.
 
@@ -38,7 +38,7 @@ The Thaz'Lekhau of Reth'Sa'ar is less wealthy than the heads of the great solar 
 - The scribal schools, the gold standard of literate training
 - The observatory and the calendar-service that keeps the realm's time
 - The priestly archives and the unbroken king-lists since the Qet Telgu
-- A sealed chamber of the library-temple, walled up since the house of the sun was closed and its doctrine declared heretical ([[lore-sunhouse|the Sun-House at Magu-Thelqen]])
+- A sealed chamber of the library-temple, walled up since the house of the sun was closed and its doctrine declared heretical ([[lore-sunhouse|The Sun-House at Magu-Thelqen]])
 - The scriptoria and the medical, legal and mathematical learning of the temple
 
 ## See Also

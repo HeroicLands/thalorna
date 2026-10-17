@@ -59,13 +59,13 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of [[place-lenennezut|Lenen-Nezut]] rules from a town that once held a throne, and the town remembers it.
 
-"We keep the ram, we keep the horses and we keep our manners," a priest of [[lore-uqaadty|Uqa'a]] tells a visitor from the capital, "which is what an old capital has to keep."
+"We keep the ram, we keep the horses and we keep our manners," a priest of the [[affiliation-uqaa|Faith of Uqa'a]] tells a visitor from the capital, "which is what an old capital has to keep."
 
-The **Selat of Lenen-Nezut** is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and about 340,000 people live on its land, [[place-lenenneztslt|Lenen-Nezut Selat]]. It is an old capital of a former dynasty, proud and faded, with a ram-cult and horse-pasture to its name. The patron is [[affiliation-uqaa|Faith of Uqa'a]], the god of the sun, and the cult's chief temple and estates anchor the selat's religious life.
+The Selat of Lenen-Nezut is one of the eighteen provinces of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and about 340,000 people live on its land, [[place-lenenneztslt|Lenen-Nezut Selat]]. It is an old capital of a former dynasty, proud and faded, with a ram-cult and horse-pasture to its name. The patron is [[lore-uqaadty|Uqa'a]], the god of the sun, and the cult's chief temple and estates anchor the selat's religious life.
 
 ## Character
 
-The authority of the Halzi'a here has an older pedigree than his office. The dynasty that ruled from Lenen-Nezut is gone, and the pride of having been the center stays with the Halzi'a, the temple and the town. The Halzi'a's house is **Geze'el'Anlaghu**, descended from the Lenen-Nezut Gar-Auu ([[lore-thronelnz|the Throne at Lenen-Nezut]]), and it keeps their tombs, [[place-lnzways|the Lenen-Nezut Ways]], and the claim of royal blood that sits awkwardly beside the question of the next succession. The seat is [[place-lenennezut|Lenen-Nezut]], where the Halzi'a keeps his court and the chief temple of Uqa'a stands.
+The authority of the Halzi'a here has an older pedigree than his office. The dynasty that ruled from Lenen-Nezut is gone, and the pride of having been the center stays with the Halzi'a, the temple and the town. The Halzi'a's house is [Geze'el'Anlaghu]{.name data-type="affiliation/lineage"}, descended from the Lenen-Nezut Gar-Auu ([[lore-thronelnz|The Throne at Lenen-Nezut]]), and it keeps their tombs, [[place-lnzways|The Lenen-Nezut Ways]], and the claim of royal blood that sits awkwardly beside the question of the next succession. The seat is Lenen-Nezut, where the Halzi'a keeps his court and the chief temple of Uqa'a stands.
 
 ## Commerce and Currency
 

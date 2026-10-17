@@ -14,19 +14,19 @@ data:
   banner: khelathubnr
 ---
 
-"Mind the third step, it has been loose since my father's day," the steward of the Halzi'a's house says to a visitor at the foot of the scarp, and puts a hand under the visitor's elbow as though the visitor were old. The **Lenen-Nezut Ways** are three tombs on the desert edge above the town, and the steward's house is all that holds them up.
+"Mind the third step, it has been loose since my father's day," the steward of the Halzi'a's house says to a visitor at the foot of the scarp, and puts a hand under the visitor's elbow as though the visitor were old. The Lenen-Nezut Ways are three tombs on the desert edge above the town, and the steward's house is all that holds them up.
 
 ## The Ways
 
-A single short road climbs from the cultivated edge to a shelf of pale rock above [[place-lenennezut|Lenen-Nezut]]. It crosses the shelf once, and the three royal tombs of the house of **Geze'el'Anlaghu** stand along it, each cut into the rock of the scarp and fronted with a chapel of mud-brick. The road is laid out in imitation of a dynasty's Way at [[place-zugezer|Zu-Gezer]]: a crossing-road off a spine, with the tombs of the Gar-Auu ranked along it. There is no spine and no necropolis for it to cross; the Way is the whole of the place.
+A single short road climbs from the cultivated edge to a shelf of pale rock above [[place-lenennezut|Lenen-Nezut]]. It crosses the shelf once, and the three royal tombs of the house of [Geze'el'Anlaghu]{.name data-type="affiliation/lineage"} stand along it, each cut into the rock of the scarp and fronted with a chapel of mud-brick. The road is laid out in imitation of a dynasty's Way at [[place-zugezer|Zu-Gezer]]: a crossing-road off a spine, with the tombs of the Gar-Auu ranked along it. There is no spine and no necropolis for it to cross; the Way is the whole of the place.
 
 ## How It Was Made
 
-The three tombs are those of the Gar-Auu who reigned from Lenen-Nezut for sixty-nine years and were buried at home, outside the row at the capital ([[lore-thronelnz|the Throne at Lenen-Nezut]]). The first was cut for Zab'el'Psaqa I, crowned in 1462 ST (649 BF), and the last holds Zab'el'Psaqa III, killed in the wheat at Iqeru in 1531 ST (580 BF) ([[lore-twothrones|the War of the Two Thrones]]). The road was meant to be the first of a long row, and it is the whole of it, because the house that built it lost its throne before it could lay a fourth tomb.
+The three tombs are those of the Gar-Auu who reigned from Lenen-Nezut for sixty-nine years and were buried at home, outside the row at the capital ([[lore-thronelnz|The Throne at Lenen-Nezut]]). The first was cut for [Zab'el'Psaqa I]{.name data-type="being/npc"}, crowned in 1462 ST (649 BF), and the last holds [Zab'el'Psaqa III]{.name data-type="being/npc"}, killed in the wheat at [[place-iqeru|Iqeru]] in 1531 ST (580 BF) ([[lore-twothrones|The War of the Two Thrones]]). The road was meant to be the first of a long row, and it is the whole of it, because the house that built it lost its throne before it could lay a fourth tomb.
 
 ## What Is There Now
 
-The crown keeps no endowment here. The mortuary priests of the capital's necropolis are paid to tend the Ways of the houses that ruled from Galezkara, and the Ways of Lenen-Nezut are not in their ledgers. The Halzi'a's house, descended from the three, keeps them, and keeps them as a house with a small estate can: a steward, a few families of tomb-servants, a mason hired for a season when the roof of a chapel comes down. The gilding on the outer doorways is gone, the lintel of the third tomb has cracked, and wind drifts sand into the second chapel faster than the servants sweep it. The wards are intact. The names are cut deep, and the house reads them aloud once a year.
+The crown keeps no endowment here. The mortuary priests of the capital's necropolis are paid to tend the Ways of the houses that ruled from [[place-galezkara|Galezkara]], and the Ways of Lenen-Nezut are not in their ledgers. The Halzi'a's house, descended from the three, keeps them, and keeps them as a house with a small estate can: a steward, a few families of tomb-servants, a mason hired for a season when the roof of a chapel comes down. The gilding on the outer doorways is gone, the lintel of the third tomb has cracked, and wind drifts sand into the second chapel faster than the servants sweep it. The wards are intact. The names are cut deep, and the house reads them aloud once a year.
 
 ## Who Goes
 

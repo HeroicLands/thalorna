@@ -19,7 +19,7 @@ data:
 
 "They are small. Everyone says so, and nobody who has driven one up a dyke in flood says it twice," a horse-breeder of [[place-lenennezut|Lenen-Nezut]] tells a buyer who has come to look over a string of colts at the edge of the pasture.
 
-**Lenen-Nezut Selat** is the land of the [[affiliation-selatlennnzt|Selat of Lenen-Nezut]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
+Lenen-Nezut Selat is the land of [[affiliation-selatlennnzt|The Selat of Lenen-Nezut]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 
@@ -27,18 +27,18 @@ The land is the valley at its margins. Flood-fed fields lie along the river, and
 
 ## Economy
 
-Grain goes to the granaries, labor to the canals and a share of everything to the temples and the crown, as everywhere in the valley. What the selat adds is its pasture: the small, sturdy horses of the chariot corps are bred on margins like these, and the ram-cult of [[lore-uqaadty|Uqa'a]] is the selat's other distinction.
+Grain goes to the granaries, labor to the canals and a share of everything to the temples and the crown, as everywhere in the valley. What the selat adds is its pasture: the small, sturdy horses of the chariot corps are bred on margins like these, and the ram-cult of the [[affiliation-uqaa|Faith of Uqa'a]] is the selat's other distinction.
 
 ## Notable Features
 
-- [[place-lenennezut|Lenen-Nezut]]—the selat capital and the Halzi'a's seat
-- [[place-lnzways|The Lenen-Nezut Ways]]—the royal tombs of the house of Geze'el'Anlaghu, the Halzi'a's line
-- The chief temple of [[affiliation-uqaa|Faith of Uqa'a]] and its estates
+- Lenen-Nezut—the selat capital and the Halzi'a's seat
+- [[place-lnzways|The Lenen-Nezut Ways]]—the royal tombs of the house of [Geze'el'Anlaghu]{.name data-type="affiliation/lineage"}, the Halzi'a's line
+- The chief temple of the Faith of Uqa'a and its estates
 - The ram-cult of Uqa'a and the horse-pastures of the margins
 
 ## Settlements
 
-[[place-lenennezut|Lenen-Nezut]] (~26,000)
+Lenen-Nezut (~26,000)
 : the selat capital and the seat of the Halzi'a.
 
 The villages and estate-towns

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-**Yath-Khelenet** tends vines and olives in the garden country of [[place-gaulegirunome|Gau-Legiru]]. Once the crush is done, the village sends the year's oil and wine down to the harbor, where the buyer pays by the jar. A family here measures a good year the same way the buyer does.
+Yath-Khelenet tends vines and olives in the garden country of [[place-gaulegirunome|Gau-Legiru]]. Once the crush is done, the village sends the year's oil and wine down to the harbor, where the buyer pays by the jar. A family here measures a good year the same way the buyer does.
 
 ## See Also
 

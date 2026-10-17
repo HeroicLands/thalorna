@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-**Gar-Iuget** stands in the garden strip of [[place-gaulegirunome|Gau-Legiru]], a ribbon of orchard and vineyard along the selat's better-watered ground. The village lives by the grove and the press, and sends oil, wine and fruit down to the market-towns each season. A family here reckons its year by the olive and the vine instead of by the grain-flood that every other village in the empire answers to.
+Gar-Iuget stands in the garden strip of [[place-gaulegirunome|Gau-Legiru]], a ribbon of orchard and vineyard along the selat's better-watered ground. The village lives by the grove and the press, and sends oil, wine and fruit down to the market-towns each season. A family here reckons its year by the olive and the vine instead of by the grain-flood that every other village in the empire answers to.
 
 ## See Also
 

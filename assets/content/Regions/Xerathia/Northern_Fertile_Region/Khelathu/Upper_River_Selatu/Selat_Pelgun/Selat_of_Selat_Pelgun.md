@@ -57,13 +57,13 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-"At harvest the whole selat comes in to thank the god, and nobody is shy about it," a priest of [[affiliation-pelgun|Pelgun]] tells a newcomer to the temple at [[place-iqu|Iku]]. "Pelgun keeps the fields and the desert roads, and his cult keeps the household too. Ask me about the rites before you ask the neighbors."
+"At harvest the whole selat comes in to thank the god, and nobody is shy about it," a priest of the [[affiliation-pelgun|Faith of Pelgun]] tells a newcomer to the temple at [[place-iqu|Iku]]. "[[lore-pelgundty|Pelgun]] keeps the fields and the desert roads, and his cult keeps the household too. Ask me about the rites before you ask the neighbors."
 
-The **Selat of Selat-Pelgun** is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and about 460,000 people live on its land, [[place-selatpelgunnome|Selat-Pelgun]]. It is the caravan-head for the eastern desert roads, with harvest-festivals and the virility cults of its god. The patron is [[affiliation-pelgun|Faith of Pelgun]], and the cult's chief temple and estates anchor the selat's religious life.
+The Selat of Selat-Pelgun is one of the eighteen provinces of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and about 460,000 people live on its land, [[place-selatpelgunnome|Selat-Pelgun]]. It is the caravan-head for the eastern desert roads, with harvest-festivals and the virility cults of its god. The patron is Pelgun, and the cult's chief temple and estates anchor the selat's religious life.
 
 ## Character
 
-The caravans come down from the eastern roads and the harvest comes in from the fields, and the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] has both to govern. His seat is [[place-iqu|Iku]], where he keeps his court and where the chief temple of Pelgun stands, and the selat's year runs between the arrival of the loads and the festivals that thank the god for the grain.
+The caravans come down from the eastern roads and the harvest comes in from the fields, and the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] has both to govern. His seat is Iku, where he keeps his court and where the chief temple of Pelgun stands, and the selat's year runs between the arrival of the loads and the festivals that thank the god for the grain.
 
 ## Commerce and Currency
 

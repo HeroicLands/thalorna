@@ -59,11 +59,11 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 "If you want a date, go to the astronomers. If you want a tax, go to the bureau. If you want either of them to move, come to me," the Halzi'a's steward tells a clerk newly posted to [[place-gekhenu|Gekhenu]]. "The Halzi'a signs for all three."
 
-The **Selat of Gekhenu** is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], a selat of library-temples and astronomers, the calendar-keepers of the middle river, with about 400,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. Its patron is [[affiliation-rethsaar|Faith of Reth'Sa'ar]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-gekhenuselat|Gekhenu Selat]].
+The Selat of Gekhenu is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], a selat of library-temples and astronomers, the calendar-keepers of the middle river, with about 400,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. Its patron is [[lore-rethsaardty|Reth'Sa'ar]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-gekhenuselat|Gekhenu Selat]].
 
 ## Character
 
-The seat is [[place-gekhenu|Gekhenu]], where the Halzi'a keeps his court and the chief temple of [[lore-rethsaardty|Reth'Sa'ar]] stands. The steward administers the selat's revenue, its granaries and its corvée, and beside him the temple keeps the count of the year. A selat whose patron is the scribe of the gods keeps its authority in writing: the tax rolls, the granary accounts and the calendar all pass through scribal hands.
+The seat is Gekhenu, where the Halzi'a keeps his court and the chief temple of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] stands. The steward administers the selat's revenue, its granaries and its corvée, and beside him the temple keeps the count of the year. A selat whose patron is the scribe of the gods keeps its authority in writing: the tax rolls, the granary accounts and the calendar all pass through scribal hands.
 
 ## Commerce and Currency
 

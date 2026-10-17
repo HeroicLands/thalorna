@@ -60,13 +60,13 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-The **Selat of Gau-Legiru** holds the land of [[place-gaulegirunome|Gau-Legiru]], and it is the prettiest country in the empire. The merchant-princes of the [[affiliation-selatgrnlght|Selat of Gar-Anlaghet]] and the other ports keep their country villas here, so the selat is at once a working farm-belt and the leisured retreat of the delta's rich. Its patron is [[lore-uzneradty|Uzn'era]], goddess of fertility and abundance, which suits a land that exists to grow good things.
+The Selat of Gau-Legiru holds the land of [[place-gaulegirunome|Gau-Legiru]], and it is the prettiest country in the empire. The merchant-princes of [[affiliation-selatgrnlght|The Selat of Gar-Anlaghet]] and the other ports keep their country villas here, so the selat is at once a working farm-belt and the leisured retreat of the delta's rich. Its patron is [[lore-uzneradty|Uzn'era]], goddess of fertility and abundance, which suits a land that exists to grow good things.
 
 "You will want to understand who is who before the first dinner," a villa steward tells the new secretary of a merchant house, while a boy sets out the cups on the terrace. "The family at the head of the table owns the villa. The family at the foot rents the orchard below it. The man pouring the wine is hired by the day. Nobody here will tell you any of that, and everybody will notice if you get it wrong."
 
 ## Character
 
-The working population is a broad class of orchard smallholders, tenant farmers, and the pressmen, coopers and carters who turn the harvest into oil and wine. Above them sits a leisured gentry of merchant-villa owners who treat the selat as a retreat from the noise of the ports. It is a devout, festival-loving country, with Uzn'era's birth-shrines and the harvest-feasts of [[lore-thubaidty|Thuba'i]] filling its calendar, and it has the lowest opinion of hard work and the highest opinion of a good vintage of any selat in the empire.
+The working population is a broad class of orchard smallholders, tenant farmers, and the pressmen, coopers and carters who turn the harvest into oil and wine. Above them sits a leisured gentry of merchant-villa owners who treat the selat as a retreat from the noise of the ports. It is a devout, festival-loving country, with the birth-shrines of the [[affiliation-uznera|Faith of Uzn'era]] and the harvest-feasts of the [[affiliation-thubai|Faith of Thuba'i]] filling its calendar, and it has the lowest opinion of hard work and the highest opinion of a good vintage of any selat in the empire.
 
 ## For the Worldbuilder
 

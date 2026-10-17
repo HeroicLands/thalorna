@@ -19,7 +19,7 @@ data:
 
 "Cut it from the left," a natron-cutter at [[place-zebtrelepet|Zebt-Relepet]] tells the new hand beside him, as the crust on the flat breaks into gray plates under their picks. "The embalmers will have it by evening, and the first thing they will ask is whether it is dry."
 
-**Zebt-Relepet Selat** is the land of the [[affiliation-selatzbtrlpt|Selat of Zebt-Relepet]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
+Zebt-Relepet Selat is the land of [[affiliation-selatzbtrlpt|The Selat of Zebt-Relepet]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 
@@ -31,13 +31,13 @@ The selat runs on the flood, the harvest and the render like every Khelathi sela
 
 ## Notable Features
 
-- [[place-zebtrelepet|Zebt-Relepet]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-wethur|Faith of Weth'ur]] and its estates
+- Zebt-Relepet—the selat capital and the Halzi'a's seat
+- The chief temple of the [[affiliation-wethur|Faith of Weth'ur]] and its estates
 - The cavern-tombs and the natron workings of the mortuary trade
 
 ## Settlements
 
-[[place-zebtrelepet|Zebt-Relepet]] (~28,000)
+Zebt-Relepet (~28,000)
 : the selat capital and the seat of the Halzi'a.
 
 The villages and estate-towns

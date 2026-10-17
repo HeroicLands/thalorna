@@ -8,17 +8,17 @@ tags: [ruin, coast]
 data: {demonym: null, lore: [], parents: [tjathuselat], population: null, packFolder: regkhsite}
 ---
 
-"That pylon was the temple door," a salt-cutter of [[place-tjathu|Tjathu]] says, pointing across the flat at a stump of stone in the reeds, "and everything else you can see is the town, under the mud." The town was **Zel-Amqelu**, and it has not had a roof since the day the sea-raiders landed.
+"That pylon was the temple door," a salt-cutter of [[place-tjathu|Tjathu]] says, pointing across the flat at a stump of stone in the reeds, "and everything else you can see is the town, under the mud." The town was Zel-Amqelu, and it has not had a roof since the day the sea-raiders landed.
 
 ## How It Was Made
 
-Zel-Amqelu was a trading port on one of the silt-islands where the river's mouths spread into the sea. In 1960 ST (151 BF) the raiders of [[lore-searaiders|the Sea-Raiders' Throne]] landed within sight of it and burned it the same day. The port was not rebuilt. Its channel shifted soon after, the island silted to the mainland side, and the trade that had used its quays went to the ports whose water stayed deep.
+Zel-Amqelu was a trading port on one of the silt-islands where the river's mouths spread into the sea. In 1960 ST (151 BF) the raiders of [[lore-searaiders|The Sea-Raiders' Throne]] landed within sight of it and burned it the same day. The port was not rebuilt. Its channel shifted soon after, the island silted to the mainland side, and the trade that had used its quays went to the ports whose water stayed deep.
 
 The place is not a blood-field. The town burned and its dead were burned with it, and the raiders buried their own. Its dead were received, and the town's rites were said for them.
 
 ## What Is There Now
 
-A broad reed-grown mound stands in the flats of the [[place-tjathuselat|Selat of Tjathu]]. The burned temple's pylon still stands out of the mound, with the lower courses of the temple walls round it, and the old quay line shows as a pale seam in the reeds at low water. Everything else is silt over ash.
+A broad reed-grown mound stands in the flats of the [[place-tjathuselat|Tjathu Selat]]. The burned temple's pylon still stands out of the mound, with the lower courses of the temple walls round it, and the old quay line shows as a pale seam in the reeds at low water. Everything else is silt over ash.
 
 A smugglers' landing lies behind the mound, where a creek still reaches the water. Salt-cutters work the pans on its edges. A customs patrol of the weigh-houses ([[place-amqelmiglet|Amqel-Miglet]]) calls at the landing at irregular intervals and always finds nothing, and the smugglers keep using it on the strength of that record.
 

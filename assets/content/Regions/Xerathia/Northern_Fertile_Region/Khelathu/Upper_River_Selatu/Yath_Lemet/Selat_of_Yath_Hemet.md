@@ -57,13 +57,13 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-"Do not wash at the low steps after dusk," a priest of [[affiliation-tjelsuk|Tjelsur]] tells a newcomer to [[place-yathlemet|Yath-Lemet]] on the first evening, "and do not let a child go down to the water alone. The crocodile is the god's, and the crocodile is also what takes them. We keep both facts in the same head."
+"Do not wash at the low steps after dusk," a priest of the [[affiliation-tjelsuk|Faith of Tjelsur]] tells a newcomer to [[place-yathlemet|Yath-Lemet]] on the first evening, "and do not let a child go down to the water alone. The crocodile is the god's, and the crocodile is also what takes them. We keep both facts in the same head."
 
-The **Selat of Yath-Lemet** is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and about 80,000 people live on its land, [[place-yathlemetslt|Yath-Lemet Selat]]. It is the smallest of the upper selatu, a narrow gorge-stretch where the valley pinches to almost nothing. The patron is [[affiliation-tjelsuk|Faith of Tjelsur]], the crocodile-god, and the cult's chief temple and estates anchor the selat's religious life.
+The Selat of Yath-Lemet is one of the eighteen provinces of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and about 80,000 people live on its land, [[place-yathlemetslt|Yath-Lemet Selat]]. It is the smallest of the upper selatu, a narrow gorge-stretch where the valley pinches to almost nothing. The patron is [[lore-tjelsukdty|Tjelsur]], the crocodile-god, and the cult's chief temple and estates anchor the selat's religious life.
 
 ## Character
 
-The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Yath-Lemet governs fewer people than anyone else on the upper river, in a valley so narrow that farmers, villages and river-beasts share the same banks. His seat is [[place-yathlemet|Yath-Lemet]], where he keeps his court and the chief temple of Tjelsur stands.
+The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Yath-Lemet governs fewer people than anyone else on the upper river, in a valley so narrow that farmers, villages and river-beasts share the same banks. His seat is Yath-Lemet, where he keeps his court and the chief temple of Tjelsur stands.
 
 ## Commerce and Currency
 

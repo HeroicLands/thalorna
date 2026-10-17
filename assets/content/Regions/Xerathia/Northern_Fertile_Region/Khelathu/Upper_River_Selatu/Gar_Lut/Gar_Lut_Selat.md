@@ -19,7 +19,7 @@ data:
 
 "Everything in this bed is somebody's cure," a herb-gardener of one of the shrines tells a novice, nodding at the rows. "Learn what the goddess has planted before you learn what the healers ask of it."
 
-**Gar-Lut Selat** is the land of the [[affiliation-selatgarlut|Selat of Gar-Lut]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is a small, devout selat of about 240,000 people, and its healing-shrines and herb-gardens are what the rest of the empire knows it for.
+Gar-Lut Selat is the land of [[affiliation-selatgarlut|The Selat of Gar-Lut]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is a small, devout selat of about 240,000 people, and its healing-shrines and herb-gardens are what the rest of the empire knows it for.
 
 ## Character
 
@@ -28,7 +28,7 @@ The shrines belong to [[lore-uzneradty|Uzn'era]], the mother goddess of fertilit
 ## Settlements
 
 [[place-garlut|Gar-Lut]] (~18,000)
-: the selat capital and the seat of the Halzi'a, home of the chief temple of [[affiliation-uznera|Faith of Uzn'era]] and its estates.
+: the selat capital and the seat of the Halzi'a, home of the chief temple of the [[affiliation-uznera|Faith of Uzn'era]] and its estates.
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

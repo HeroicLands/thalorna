@@ -17,13 +17,13 @@ data:
 
 ## Overview
 
-**Khelaga Selat** is the land of the [[affiliation-selatkhelaga|Selat of Khelaga]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is the delta apex, the place where the river first divides.
+Khelaga Selat is the land of [[affiliation-selatkhelaga|The Selat of Khelaga]], one of [[affiliation-deltaselatu|The Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is the delta apex, the place where the river first divides.
 
 "Stand on the bank and you can watch the river make up its mind," says a river pilot, laying the tiller over to pick the western channel. "One bend above you it is a single stream. Here it splits, and the pilots who guess wrong spend the night on a bar."
 
 ## Character
 
-Old shrines and customs-stations mark the apex, and boats going down to the sea pass them. Away from the water the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-uqaa|Uqa'a]] and its estates hold much of the land. The forts and customs-stations date from the sea-raiders' going ([[lore-seahouse|the Closing of the Sea House]]), and the western channel below the apex runs past [[place-chariotfld|the Chariot Field]], a blood-field from the Vylarian conquest of 377 AF.
+Old shrines and customs-stations mark the apex, and boats going down to the sea pass them. Away from the water the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of the [[affiliation-uqaa|Faith of Uqa'a]] and its estates hold much of the land. The forts and customs-stations date from the sea-raiders' going ([[lore-seahouse|The Closing of the Sea House]]), and the western channel below the apex runs past [[place-chariotfld|The Chariot Field]], a blood-field from the Vylarian conquest of 377 AF.
 
 ## Settlements
 

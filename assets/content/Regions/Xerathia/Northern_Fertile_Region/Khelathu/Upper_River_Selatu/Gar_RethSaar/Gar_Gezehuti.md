@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-"Take the room by the term, not by the week," the keeper of a lodging-house in **Gar-Gezehuti** tells a mother who has come with her son for the lesser temple-school. "The terms are long, and a week-by-week lodger is a lodger who might leave." The village among the fields of [[place-garrethsaarnome|Gar-Reth'Sa'ar]] farms its own grain-land and lodges the families of pupils bound for the lesser temple-schools that in turn feed the great one at [[place-khelunu|Khelunu]]. The two trades feed each other, and the village has grown prosperous on both. A lean year for lodgers is still a good one, because a school sends its hardest cases here before it sends them home.
+"Take the room by the term, not by the week," the keeper of a lodging-house in Gar-Gezehuti tells a mother who has come with her son for the lesser temple-school. "The terms are long, and a week-by-week lodger is a lodger who might leave." The village among the fields of [[place-garrethsaarnome|Gar-Reth'Sa'ar]] farms its own grain-land and lodges the families of pupils bound for the lesser temple-schools that in turn feed the great one at [[place-khelunu|Khelunu]]. The two trades feed each other, and the village has grown prosperous on both. A lean year for lodgers is still a good one, because a school sends its hardest cases here before it sends them home.
 
 ## See Also
 

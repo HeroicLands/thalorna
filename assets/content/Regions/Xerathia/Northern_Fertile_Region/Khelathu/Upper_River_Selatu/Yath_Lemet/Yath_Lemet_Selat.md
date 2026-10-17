@@ -19,7 +19,7 @@ data:
 
 "Watch the banks, not the water," a river pilot tells a passenger entering the gorge of [[place-yathlemet|Yath-Lemet]]. "The cliffs come in until you could throw a stone across. The farms are on that thin strip under them, and so are the beasts."
 
-**Yath-Lemet Selat** is the land of the [[affiliation-selatyathlmt|Selat of Yath-Lemet]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
+Yath-Lemet Selat is the land of [[affiliation-selatyathlmt|The Selat of Yath-Lemet]], one of [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 
@@ -31,13 +31,13 @@ Yath-Lemet runs on the flood and the harvest on a smaller scale than any other u
 
 ## Notable Features
 
-- [[place-yathlemet|Yath-Lemet]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-tjelsuk|Faith of Tjelsur]] and its estates
+- Yath-Lemet—the selat capital and the Halzi'a's seat
+- The chief temple of the [[affiliation-tjelsuk|Faith of Tjelsur]] and its estates
 - The narrow gorge where the valley pinches to almost nothing
 
 ## Settlements
 
-[[place-yathlemet|Yath-Lemet]] (~6,000)
+Yath-Lemet (~6,000)
 : the selat capital and the seat of the Halzi'a.
 
 The villages and estate-towns
