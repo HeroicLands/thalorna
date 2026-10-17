@@ -361,11 +361,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Dvirnmil stands 5'9" with a medium, unremarkable frame, weighing about 170 pounds. His fair skin is neither notably pale nor tan, and his brown hair is cut in whatever style serves his current disguise—it has been every length and color at some point. His blue eyes are his one truly distinctive feature, sharp and quick, constantly cataloging exits, valuables, and weaknesses, though he has learned to mask their intensity behind a practiced look of dull pleasantness. His features are aggressively ordinary—a face that blends into any crowd, with no scars, no memorable marks, nothing to catch the eye or linger in memory, which is precisely the point. Dvirnmil dresses to fit whatever role he is playing; his real clothing, when he is being himself, tends toward dark practical garments with many hidden pockets. He carries no visible weapons, though a slim knife is always somewhere on his person.
+Dvirnmil the Deceiver stands 5'9" with a medium, unremarkable frame, weighing about 170 pounds. His fair skin is neither notably pale nor tan, and his brown hair is cut in whatever style serves his current disguise—it has been every length and color at some point. His blue eyes are his one truly distinctive feature, sharp and quick, constantly cataloging exits, valuables, and weaknesses, though he has learned to mask their intensity behind a practiced look of dull pleasantness. His features are aggressively ordinary—a face that blends into any crowd, with no scars, no memorable marks, nothing to catch the eye or linger in memory, which is precisely the point. Dvirnmil dresses to fit whatever role he is playing; his real clothing, when he is being himself, tends toward dark practical garments with many hidden pockets. He carries no visible weapons, though a slim knife is always somewhere on his person.
 
 # Dossier {#dossier}
 
-Dvirnmil was born into the unforgiving streets of the city's slums, where survival depended on cunning, not strength. Orphaned at a young age, Dvirnmil quickly became a master of deceit, learning how to manipulate others to get what he wanted. He had no interest in noble causes or grand ideals; his only goal was to claw his way out of poverty by any means necessary. Dvirnmil's talents caught the eye of Velgrímr, the god of thieves and the dispossessed, who delighted in the trouble Dvirnmil caused. With Velgrímr's subtle guidance, Dvirnmil honed his skills in trickery and thievery.
+Dvirnmil was born into the unforgiving streets of the city's slums, where survival depended on cunning, not strength. Orphaned at a young age, Dvirnmil quickly became a master of deceit, learning how to manipulate others to get what he wanted. He had no interest in noble causes or grand ideals; his only goal was to claw his way out of poverty by any means necessary. In the tales, Dvirnmil's talents caught the eye of [[lore-velgrimrdty|Velgrímr]], the god of thieves and the dispossessed, who delighted in the trouble Dvirnmil caused. In those accounts, with Velgrímr's subtle guidance, Dvirnmil honed his skills in trickery and thievery.
 
 The saga of Dvirnmil the Deceiver tells how he exploited the arrogance and greed of [[being-snrvthn|Jarl Snarvthann]], a wealthy and corrupt noble. Dvirnmil posed as a disgraced nobleman who had fallen on hard times, carefully forging documents and crafting a backstory. He infiltrated the jarl's court, convinced Snarvthann that he knew the location of hidden treasures, and then led the jarl to a remote mountain location where bandits Dvirnmil had hired were waiting. With Snarvthann stranded, Dvirnmil raided the jarl's estate and converted his assets into a personal fortune.
 
@@ -389,15 +389,15 @@ Dvirnmil is a master of disguise, forgery, and social engineering. He can talk h
 
 ### Patrons
 
-**The Underworld Guild of [[place-gnaldrholm|Gnaldrholm]]**—An organized crime network that uses Dvirnmil's talents for high-profile heists and cons in exchange for a share of the profits and protection from the law.
+**[The Underworld Guild of Gnaldrholm]{.name data-type="affiliation/criminal"}**—An organized crime network in [[place-gnaldrholm|Gnaldrholm]] that uses Dvirnmil's talents for high-profile heists and cons in exchange for a share of the profits and protection from the law.
 
-**Velgrímr's Whisper**—The god himself takes an intermittent interest in Dvirnmil, providing subtle guidance and occasional divine luck when the trickster is in particularly entertaining trouble.
+**Velgrímr's Whisper**—The tales say the god himself takes an intermittent interest in Dvirnmil, providing subtle guidance and occasional divine luck when the trickster is in particularly entertaining trouble.
 
 ### Enemies
 
 **[[being-snrvthn|Jarl Snarvthann]]'s Heirs**—The humiliated jarl's family has hired a relentless bounty hunter to track Dvirnmil down. They want both their wealth returned and Dvirnmil's head.
 
-**Captain Dvalgmil of the City Watch**—A dogged lawman who has been pursuing Dvirnmil for years and has come closer to catching him than anyone else.
+**Captain [[being-dvalgmyl|Dvalgmil]] of the [City Watch]{.name data-type="affiliation"}**—A dogged lawman who has been pursuing Dvirnmil for years and has come closer to catching him than anyone else.
 
 ## Plot Hooks
 

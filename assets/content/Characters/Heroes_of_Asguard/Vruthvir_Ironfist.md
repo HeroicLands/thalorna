@@ -361,7 +361,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Vruthvir stands 6'1" with a massive, heavily muscled frame, weighing around 240 pounds. His fair skin is mottled with old burn scars that web his arms and chest, and a deep wound scar runs from his left shoulder to his hip—a souvenir of the stone giants' war. His dark brown hair is cropped close, streaked with premature gray. His brown eyes are steady and appraising, the eyes of a man who measures everything he sees. His features are broad and blunt, with a heavy brow, a nose broken and reset more than once, a square jaw, and massive hands covered in heavy calluses from decades at the forge. Vruthvir wears a leather blacksmith's apron over mail when working, and full battle gear when he expects trouble. His warhammer—the same one he forged for the giant battle—hangs at his side, its head faintly glowing when enemies draw near.
+Vruthvir Ironfist stands 6'1" with a massive, heavily muscled frame, weighing around 240 pounds. His fair skin is mottled with old burn scars that web his arms and chest, and a deep wound scar runs from his left shoulder to his hip—a souvenir of the stone giants' war. His dark brown hair is cropped close, streaked with premature gray. His brown eyes are steady and appraising, the eyes of a man who measures everything he sees. His features are broad and blunt, with a heavy brow, a nose broken and reset more than once, a square jaw, and massive hands covered in heavy calluses from decades at the forge. Vruthvir wears a leather blacksmith's apron over mail when working, and full battle gear when he expects trouble. His warhammer—the same one he forged for the giant battle—hangs at his side, its head faintly glowing when enemies draw near.
 
 # Dossier {#dossier}
 
@@ -389,15 +389,15 @@ Vruthvir's smithing skill is famous; weapons and armor from his forge are prized
 
 ### Patrons
 
-**The Smiths' Brotherhood of Nordheim**—A guild of master craftsmen who revere Vruthvir as the finest smith of his generation. They provide him with rare materials and commissions.
+**[The Smiths' Brotherhood of Nordheim]{.name data-type="affiliation/guild"}**—A guild of master craftsmen who revere Vruthvir as the finest smith of his generation. They provide him with rare materials and commissions.
 
-[[being-brldrvmbrstl|Jarl Braldorv Embersteel]]—The same lord who patronizes Vrithorv also values Vruthvir for his smithing; the jarl's household guard bears Vruthvir's arms and armor.
+[[being-brldrvmbrstl|Jarl Braldorv Embersteel]]—The same lord who patronizes [[being-vrthrvflmhrt|Vrithorv Flameheart]] also values Vruthvir for his smithing; the jarl's household guard bears Vruthvir's arms and armor.
 
 ### Enemies
 
 **The Stone Giant remnants**—Survivors of the army Vruthvir defeated have placed a blood price on his head. They send raiding parties to destroy his forge and everything he has built.
 
-**Knirvmil the Envious**—A rival blacksmith who has spread rumors that Vruthvir's work is enchanted through forbidden rituals rather than skill, hoping to discredit him and steal his clients.
+**[Knirvmil the Envious]{.name data-type="being/npc"}**—A rival blacksmith who has spread rumors that Vruthvir's work is enchanted through forbidden rituals rather than skill, hoping to discredit him and steal his clients.
 
 ## Plot Hooks
 

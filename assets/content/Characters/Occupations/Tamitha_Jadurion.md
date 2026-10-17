@@ -399,7 +399,7 @@ Tamitha Jadurion is a 24-year-old woman who stands 5'11" tall and is slender. Sh
 
 # Dossier {#dossier}
 
-Tamitha Jadurion is a mason of Pelagora, the naval city of [[place-helionis|Helionis]], a Helionite freewoman who lays brick and stone on the city's harbor works and public buildings and is judged, when she is judged fairly, by her wall.
+Tamitha Jadurion is a mason of [[place-pelagora2|Pelagora]], the naval city of [[place-helionis|Helionis]], a [[lore-helioniteclt|Helionite]] freewoman who lays brick and stone on the city's harbor works and public buildings and is judged, when she is judged fairly, by her wall.
 
 Tamitha learned the trade on the scaffolds of her father, a respected stoneworker who had no son and did not see why that should stop the trade, and she served the guild's seven years under him and was examined on a harbor wall that stands. She works on what Pelagora builds most: the moles and quays the fleet needs, the ship-sheds, and the town-houses of the shipowning families. Her bricklaying is exact and her joints are tight, and a master who has watched her build knows it; a master who has not knows only that she is a woman on a scaffold. She takes every contract she is offered because she has had to prove herself on every one.
 
@@ -419,7 +419,7 @@ A first-rate bricklayer, tireless, exact in every detail.
 
 ## Social
 
-Tamitha holds her seal from the Masons' Guild of Pelagora, which examined her and passed her and has not yet given her a public work in her own name.
+Tamitha holds her seal from the [Masons' Guild of Pelagora]{.name data-type="affiliation/guild"}, which examined her and passed her and has not yet given her a public work in her own name.
 
 ## Companions
 

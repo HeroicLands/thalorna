@@ -418,11 +418,11 @@ sohl:
 
 ![[drkaranamn|Drksharana Manrshti]]{float=top-left}
 
-Drksharana stands 5'7" tall with a light build. He has warm honey skin, dark brown hair, and deep brown eyes. His features include a round face, a narrow nose, a soft jawline, a wide mouth, dark brows, soft cheeks. A distinguishing mark is a tattoo of a waterfall on the shoulder.
+Drksharana Manrshti stands 5'7" tall with a light build. He has warm honey skin, dark brown hair, and deep brown eyes. His features include a round face, a narrow nose, a soft jawline, a wide mouth, dark brows, soft cheeks. A distinguishing mark is a tattoo of a waterfall on the shoulder.
 
 # Dossier {#dossier}
 
-Born in the merchant quarters of a great city-state in [[place-vedyarargn|Vedyara]], Drksharana was the youngest of seven children to a textile weaver's family. His childhood was marked by modest comfort and the constant hum of looms, his mother's lullabies for her youngest, whom she called Driksha, layered beneath the rhythmic clacking of threads. At fourteen, he was apprenticed to the household of **Vedasthira**, a rising administrator in the city's merchant council, where his natural grace and keen observational abilities quickly earned him a position as personal attendant. It was during these formative years that he received the waterfall tattoo—a spiritual marker from a wandering priest of Rasikara who saw in the young Drksharana the fluidity and adaptability that would define his path.
+Born in the merchant quarters of a great city-state in the [[place-vedyarargn|Vedyara Region]], Drksharana was the youngest of seven children to a textile weaver's family. His childhood was marked by modest comfort and the constant hum of looms, his mother's lullabies for her youngest, whom she called Driksha, layered beneath the rhythmic clacking of threads. At fourteen, he was apprenticed to the household of **[Vedasthira]{.name data-type="being/npc"}**, a rising administrator in the city's merchant council, where his natural grace and keen observational abilities quickly earned him a position as personal attendant. It was during these formative years that he received the waterfall tattoo—a spiritual marker from a wandering priest of [[affiliation-rasikara|Rasikara]] who saw in the young Drksharana the fluidity and adaptability that would define his path.
 
 For the past decade, Drksharana has served his current employer with dedication, managing the social choreography that accompanies life in a great-house household. His duties range from ceremonial service at grand feasts to the subtle work of anticipating his master's needs before they are voiced. He has become indispensable to the household's smooth operation, yet he remains largely invisible—the way a truly skilled servant becomes part of the architecture of privilege itself.
 
@@ -459,12 +459,12 @@ Drksharana seeks neither power nor wealth, but rather a deeper sense of purpose 
 Vedasthira
 : The merchant administrator who first employed Drksharana now advocates for him as the finest house servant in the city-state. Their relationship is one of quiet mutual respect, though Drksharana often fears disappointing his patron.
 
-Chintaya
+[Chintaya]{.name data-type="being/npc"}
 : Vedasthira's wife has grown to rely on Drksharana's counsel in matters of household aesthetics and entertaining; she treats him with warmth rare in the great-house households.
 
 ### Enemies
 
-Kharan Manrshti (distant cousin)
+[Kharan Manrshti]{.name data-type="being/npc"} (distant cousin)
 : A fellow servant from a rival household who resents Drksharana's reputation and spreads subtle rumors about his competence and loyalty.
 
 The Hierarchy Itself
@@ -472,7 +472,7 @@ The Hierarchy Itself
 
 ### Affiliations
 
-The Servants' Shrena of Vedyara
+[The Servants' Shrena of Vedyara]{.name data-type="affiliation/guild"}
 : Drksharana maintains loose ties with this association, which advocates for fair treatment and standard wages across the city-states.
 
 ## Plot Hooks

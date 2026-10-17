@@ -411,7 +411,7 @@ sohl:
 
 ![[grlfdrthgr|Garulf yra Druthgar wur Edrgrund]]{float=top-left}
 
-Garulf yra Druthgar wur Edrgrund is an enormous man—six foot four, heavy-boned, and packed with the kind of functional muscle that comes from decades of hard use rather than deliberate training. His brown hair is shaggy and unkempt, his gray eyes are small and watchful beneath a heavy brow, and his nose has been broken so many times it sits at a permanent angle. His hands are massive, scarred across the knuckles, and he moves with the deliberate heaviness of a man who knows his own size and uses it as a weapon. He carries a heavy battleaxe he has named "Vara"—a beautifully crafted weapon that is by far the most valuable thing he owns and the only thing he treats with tenderness.
+Garulf yra Druthgar wur Edrgrund is an enormous man—six foot four, heavy-boned, and packed with the kind of functional muscle that comes from decades of hard use rather than deliberate training. His brown hair is shaggy and unkempt, his gray eyes are small and watchful beneath a heavy brow, and his nose has been broken so many times it sits at a permanent angle. His hands are massive, scarred across the knuckles, and he moves with the deliberate heaviness of a man who knows his own size and uses it as a weapon. He carries a heavy battleaxe he has named "[Vara]{.name data-type="weapongear"}"—a beautifully crafted weapon that is by far the most valuable thing he owns and the only thing he treats with tenderness.
 
 # Dossier {#dossier}
 
@@ -419,7 +419,7 @@ Garulf yra Druthgar wur Edrgrund is an enormous man—six foot four, heavy-boned
 
 ### Origin
 
-Garulf was born on a farmstead in the [[place-vrystwald|Vristwald]] frontier, the son of Varokh settlers who scratched a living from the dark soil at the forest's edge. Life was brutal and simple—plant, harvest, survive, repeat. Garulf was the largest child anyone in the settlement had ever seen, and by fifteen he was doing the work of two grown men. He had no education, no prospects, and no patience for farming.
+Garulf was born on a farmstead in the [[place-vrystwald|Vristwald]] frontier, the son of [[lore-varokhiclt|Varokhi]] settlers who scratched a living from the dark soil at the forest's edge. Life was brutal and simple—plant, harvest, survive, repeat. Garulf was the largest child anyone in the settlement had ever seen, and by fifteen he was doing the work of two grown men. He had no education, no prospects, and no patience for farming.
 
 ### Mercenary Life
 
@@ -427,11 +427,11 @@ At seventeen, Garulf walked away from the farm and sold the only thing he had—
 
 ### The Incident
 
-Garulf's career as a freelance thug came to an abrupt end when a robbery went catastrophically wrong. He and a partner tried to rob a tax collector traveling under guard. When the guards gave chase, Garulf's partner's horse was shot. Rather than slow down to share his mount, Garulf dumped his partner and galloped away alone. The partner was captured, talked, and Garulf became a wanted man in two provinces. He fled to the coast, signed onto the first ship that would take him, and eventually found his way aboard the Tamzir.
+Garulf's career as a freelance thug came to an abrupt end when a robbery went catastrophically wrong. He and a partner tried to rob a tax collector traveling under guard. When the guards gave chase, Garulf's partner's horse was shot. Rather than slow down to share his mount, Garulf dumped his partner and galloped away alone. The partner was captured, talked, and Garulf became a wanted man in two provinces. He fled to the coast, signed onto the first ship that would take him, and eventually found his way aboard [[affiliation-thetamzir|The Tamzir]].
 
 ### Aboard the Tamzir
 
-Garulf has been the Tamzir's muscle for eight years. He is not particularly loyal to Bu or to the crew—he is loyal to the coin, to regular meals, and to a place to sleep where nobody is trying to arrest him. But over the years, something has shifted. The crew has become, against his will and his better judgment, something resembling a family. He would never admit this, and he continues to grumble about pay and threaten to leave for better offers. But he has had better offers, and he is still here.
+Garulf has been the Tamzir's muscle for eight years. He is not particularly loyal to [[being-zbzmjkdn|Zabuzum Jakuduni]], known as Bu, or to the crew—he is loyal to the coin, to regular meals, and to a place to sleep where nobody is trying to arrest him. But over the years, something has shifted. The crew has become, against his will and his better judgment, something resembling a family. He would never admit this, and he continues to grumble about pay and threaten to leave for better offers. But he has had better offers, and he is still here.
 
 ## Psyche
 

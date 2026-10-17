@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Withrún has a riverboat crew member’s powerful shoulders, close-braided black hair and steady brown eyes. A burn has puckered the skin beside her left ear. She dresses in stout wool and patched leather, with an axe at her belt and a spear within reach. Her small ox token is worn smooth by her thumb. She tests a knot before leaning her weight on it and offers the same patient scrutiny to a stranger’s promise.
+Withrún yra Othvith wur Thornhaven has a riverboat crew member’s powerful shoulders, close-braided black hair and steady brown eyes. A burn has puckered the skin beside her left ear. She dresses in stout wool and patched leather, with an axe at her belt and a spear within reach. Her small ox token is worn smooth by her thumb. She tests a knot before leaning her weight on it and offers the same patient scrutiny to a stranger’s promise.
 
 # Dossier {#dossier}
 
@@ -403,7 +403,7 @@ The raiders came before dawn. Their boat approached like a trader's boat, and th
 
 Her kin could not provide another roof. The Other Chief arranged one within the clan, and households contributed food and clothing. The Shaman guided her family's funeral. She was fed even on the days she would not speak. Anyone telling this tale must remember the hands that pulled and the household that made room.
 
-She asked to train with the warband. Some said the boats needed her more. A veteran put a spear in her hands and showed her how easily anger could make a strong person fall. She learned. Through rain, mistakes and humiliating practice she learned. The Fox remained Thornhaven's wesk. Her personal bond was with the Ox, whose strength carries a load long after the first rush of anger has gone.
+She asked to train with the warband. Some said the boats needed her more. A veteran put a spear in her hands and showed her how easily anger could make a strong person fall. She learned. Through rain, mistakes and humiliating practice she learned. The [[lore-foxttm|Fox]] remained Thornhaven's wesk. Her personal bond was with the [[lore-oxttm|Ox]], whose strength carries a load long after the first rush of anger has gone.
 
 She took escort work and followed reports of the raiders from landing to landing. Every rumor became a weight she tried to carry herself. Companions learned to stop her taking the heaviest pack as well as the longest watch. She thanked them and did it again.
 

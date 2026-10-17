@@ -398,9 +398,9 @@ Leofith Chilwell is a 30-year-old woman who stands 5'11" tall and is slender. Sh
 
 # Dossier {#dossier}
 
-Leofith Chilwell is a trapper of Kingshollow, the old royal seat of Aldorath in [[place-aelwyth|Aelwyth]], an Aelwythan freewoman who traps on the tenants' land beside the king's forest and takes from it only what the land can spare.
+Leofith Chilwell is a trapper of [[place-kingsholow|Kingshollow]], the old royal seat of the [[affiliation-kngdmldrth|Kingdom of Aldorath]] in [[place-aelwyth|Aelwyth]], an [[lore-aelwythanclt|Aelwythan]] freewoman who traps on the tenants' land beside the king's forest and takes from it only what the land can spare.
 
-Leofith was raised in the woods above the village by a family that lived off them, and she learned the snare and the deadfall before she learned to read. The tenants of Kingshollow pay her to keep the fox from the hen-house and the rat from the barn, the fur-buyer from Dunmere pays her for pelts, and the crown's foresters allow her lines up to the forest bound and not a yard past it, since the wood above is royal forest and everything in it is the king's. She traps selectively, which the trade does not: she sets for what she is paid to take, lets go what she is not, and walks a line twice a day rather than leave a beast to suffer in it. The foresters take her for a poacher, the poachers for an informer, and both are wrong.
+Leofith was raised in the woods above the village by a family that lived off them, and she learned the snare and the deadfall before she learned to read. The tenants of Kingshollow pay her to keep the fox from the hen-house and the rat from the barn, the fur-buyer from [[place-dunmere|Dunmere]] pays her for pelts, and the crown's foresters allow her lines up to the forest bound and not a yard past it, since the wood above is royal forest and everything in it is the king's. She traps selectively, which the trade does not: she sets for what she is paid to take, lets go what she is not, and walks a line twice a day rather than leave a beast to suffer in it. The foresters take her for a poacher, the poachers for an informer, and both are wrong.
 
 ## Psyche
 

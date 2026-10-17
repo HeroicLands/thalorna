@@ -361,7 +361,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Skrilmil stands 6'1" with a heavy, solid frame, weighing around 220 pounds. His fair skin is weathered from decades of northern campaigning, and his dark blonde hair is worn long and braided in the fashion of a northern chieftain. His blue eyes carry quiet authority, and a faint haze of static seems to cling to him, causing his hair to rise slightly in dry weather. His features are strong and commanding, with a broad forehead, a straight nose, a heavy jaw shadowed with stubble, and deep-set eyes framed by crow's feet. His bearing is that of a man accustomed to being obeyed—not through bluster, but through the steady confidence of proven leadership. He wears a fine mail hauberk beneath a heavy fur cloak pinned with a silver thunderbolt brooch, and carries a warhammer and a round shield bearing his clan's emblem.
+Skrilmil Stormborn stands 6'1" with a heavy, solid frame, weighing around 220 pounds. His fair skin is weathered from decades of northern campaigning, and his dark blonde hair is worn long and braided in the fashion of a northern chieftain. His blue eyes carry quiet authority, and a faint haze of static seems to cling to him, causing his hair to rise slightly in dry weather. His features are strong and commanding, with a broad forehead, a straight nose, a heavy jaw shadowed with stubble, and deep-set eyes framed by crow's feet. His bearing is that of a man accustomed to being obeyed—not through bluster, but through the steady confidence of proven leadership. He wears a fine mail hauberk beneath a heavy fur cloak pinned with a silver thunderbolt brooch, and carries a warhammer and a round shield bearing his clan's emblem.
 
 # Dossier {#dossier}
 
@@ -377,7 +377,7 @@ Skrilmil is the epitome of a northern leader—charismatic, decisive, and unyiel
 
 ### Motivation
 
-Skrilmil seeks to unite the fractious northern clans under a common purpose, believing that their constant feuding weakens them all. He draws inspiration from the ancient alliance that Hnirmil's wisdom once forged and dreams of creating something lasting. He also struggles with the burden of leadership—every decision he makes affects his people's lives, and the weight of that responsibility grows heavier with each passing year.
+Skrilmil seeks to unite the fractious northern clans under a common purpose, believing that their constant feuding weakens them all. He draws inspiration from the ancient alliance that [[being-hnirvmylwise|Hnirmil the Wise]]'s wisdom once forged and dreams of creating something lasting. He also struggles with the burden of leadership—every decision he makes affects his people's lives, and the weight of that responsibility grows heavier with each passing year.
 
 ### Strengths
 
@@ -389,15 +389,15 @@ Skrilmil is a natural leader whose presence on the battlefield can turn the tide
 
 ### Patrons
 
-**The Council of Elders**—The governing body of his clan, who support Skrilmil's leadership and provide him with warriors, resources, and political backing.
+**[The Council of Elders]{.name data-type="affiliation/governmental"}**—The governing body of his clan, who support Skrilmil's leadership and provide him with warriors, resources, and political backing.
 
 [[being-hnirvmylwise|Hnirmil the Wise]]—The renowned seer is Skrilmil's advisor, providing prophetic guidance and diplomatic counsel that complements Skrilmil's martial approach.
 
 ### Enemies
 
-**Jarl Vrathann Skalfidrok**—A rival clan leader who views Skrilmil's unification efforts as a threat to his own power. Vrathann has been building alliances with other jarls to oppose Skrilmil.
+**Jarl [[being-vrathannskal|Vrathann Skalfidrok]]**—A rival clan leader who views Skrilmil's unification efforts as a threat to his own power. Vrathann has been building alliances with other jarls to oppose Skrilmil.
 
-The Winter Witch—A mysterious sorceress who claims the storms that beset Skrilmil's village were her doing, not Thrunvald's test. She hints at darker plans for the northern lands.
+[The Winter Witch]{.name data-type="being/npc"}—A mysterious sorceress who claims the storms that beset Skrilmil's village were her doing, not Thrunvald's test. She hints at darker plans for the northern lands.
 
 ## Plot Hooks
 
@@ -405,7 +405,7 @@ The Winter Witch—A mysterious sorceress who claims the storms that beset Skril
 
 2. **The Winter Witch**—The sorceress who claims responsibility for the devastating storms has issued a challenge to Skrilmil. She offers peace in exchange for something Skrilmil cannot give—and war if he refuses.
 
-3. **The Lightning Mark**—Skrilmil's son has been born with a lightning-shaped birthmark, and both the Storm Temple and rival clans interpret this as an omen. Some see it as a sign of divine favor; others as a curse that must be eliminated.
+3. **The Lightning Mark**—Skrilmil's son has been born with a lightning-shaped birthmark, and both [The Storm Temple of Thrumufjall]{.name data-type="place/structure"} and rival clans interpret this as an omen. Some see it as a sign of divine favor; others as a curse that must be eliminated.
 
 ## Epic Recital
 

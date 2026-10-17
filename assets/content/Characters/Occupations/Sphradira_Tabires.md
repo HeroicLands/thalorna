@@ -396,7 +396,7 @@ Sfradira Tabires is a 25-year-old woman who stands 5'11" tall and is of moderate
 
 # Dossier {#dossier}
 
-Sfradira Tabires is a scribe of Pelagora, the naval city of [[place-helionis|Helionis]], the daughter of a Helionite house of standing who chose a trade over a marriage and holds a scribe's seal registered with the Imperial Scribal Guild.
+Sfradira Tabires is a scribe of [[place-pelagora2|Pelagora]], the naval city of [[place-helionis|Helionis]], the daughter of a [[lore-helioniteclt|Helionite]] house of standing who chose a trade over a marriage and holds a scribe's seal registered with [[affiliation-imprlscrblgld|The Imperial Scribal Guild]].
 
 Sfradira comes of a family that sits in the citizen assembly and owns two ships, and a daughter of such a house is expected to marry into another. She read instead, and at fifteen entered the Guild's chapterhouse for the seven-year course, which her father allowed on the understanding that she would not finish it. She finished it. She keeps an office off the harbor and writes for the shipowning families and the courts: contracts, wills, pleadings, and the fair copies of assembly decrees that are worth nothing in a Helionite court without a sealed hand at the foot of them. Her copies are exact, and they are also beautiful, which the Guild does not require and the families pay for. She reads the old poets at night, and she has begun a book of her own that nobody has seen.
 
@@ -434,6 +434,6 @@ A master scribe of the chapterhouse who was passed over for the assembly's work 
 
 2. **The Forged Seal**—A will has surfaced in a court of Pelagora in a hand very like Sfradira's, under a seal that is hers to the last mark. The Guild's penalty for a counterfeited seal falls first on the seal's owner.
 
-3. **The Thirenae Text**—A philosopher of Thirenae has asked Sfradira for a fair copy of a work on the founding of the Arcane Order, for private circulation. The chapterhouse's senior officer has asked her, the same week, to tell him of any such commission.
+3. **The Thirenae Text**—A philosopher of [[place-thyrenae2|Thirenae]] has asked Sfradira for a fair copy of a work on the founding of [[affiliation-ordoarcanis|Thordimalon]], for private circulation. The chapterhouse's senior officer has asked her, the same week, to tell him of any such commission.
 
 4. **The Late Commission**—A marriage contract must be sealed before the fleet sails in four days, and Sfradira has three days' work on it and a book that will not leave her alone.

@@ -398,9 +398,9 @@ Chinara Kórisvar is a 29-year-old woman who stands 6'1" tall and is of moderate
 
 # Dossier {#dossier}
 
-Chinara Kórisvar is a salter of Durvalis, the fortress town of the eastern march of [[place-provenzrgn|Provenzia]], a Provenzian freewoman who salts down the meat and fish that feed the garrison through the winter and the levies through the campaign season.
+Chinara Kórisvar is a salter of [[place-durvalis|Durvalis]], the fortress town of the eastern march of [[place-provenzrgn|Provenzia Region]], a [[lore-provenzianclt|Provenzian]] freewoman who salts down the meat and fish that feed the garrison through the winter and the levies through the campaign season.
 
-Chinara learned the trade as a child in the salting-house inside the walls that her parents kept before her, packing fish from Lake Tiravel in brine and beef from the march's herds in coarse salt that comes up by cart through Pirnebris. From the thaw the town fills with soldiers and carters who must be fed on the road, and through the winter, when the passes close, everyone eats what was salted in the autumn. A salter who cuts her salt or hurries her cure kills people in the second month of the snow, and Chinara has never done either. The garrison's victualers buy from her by preference and the lake fishermen sell to her first, because a Kórisvar barrel opens in spring the way it was closed.
+Chinara learned the trade as a child in the salting-house inside the walls that her parents kept before her, packing fish from [[place-tiravellake|Lake Tiravel]] in brine and beef from the march's herds in coarse salt that comes up by cart through [[place-pirnebris|Pirnebris]]. From the thaw the town fills with soldiers and carters who must be fed on the road, and through the winter, when the passes close, everyone eats what was salted in the autumn. A salter who cuts her salt or hurries her cure kills people in the second month of the snow, and Chinara has never done either. The garrison's victualers buy from her by preference and the lake fishermen sell to her first, because a Kórisvar barrel opens in spring the way it was closed.
 
 ## Psyche
 
@@ -418,7 +418,7 @@ Knowledgeable about curing and salt, hardworking, resourceful.
 
 ## Social
 
-Chinara belongs to no guild and works for herself, as her parents did. The garrison quartermaster knows her name and the Winter Assize has taken her word on a barrel.
+Chinara belongs to no guild and works for herself, as her parents did. The garrison quartermaster knows her name and the [Winter Assize]{.name data-type="affiliation/governmental"} has taken her word on a barrel.
 
 ## Companions
 

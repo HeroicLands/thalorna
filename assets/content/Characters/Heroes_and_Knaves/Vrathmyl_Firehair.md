@@ -421,7 +421,7 @@ sohl:
 
 ![[vrthmylfrhr|Vrathmil Firehair]]{float=top-left}
 
-Stands 6'1" tall with a light build. He has weather-roughened skin, fiery red hair, and blue eyes. His features include an oval face, a straight nose, a prominent chin, a firm-set mouth, prominent brows.
+Vrathmil Firehair stands 6'1" tall with a light build. He has weather-roughened skin, fiery red hair, and blue eyes. His features include an oval face, a straight nose, a prominent chin, a firm-set mouth, prominent brows.
 
 # Dossier {#dossier}
 

@@ -361,13 +361,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Hvulgselda stands 5'8" with a strong, athletic frame, weighing about 155 pounds. Her light skin has a permanent weathered sheen from years of salt spray and sea wind, and her red hair is cut short and practical, often plastered to her face by rain or ocean mist. Her green eyes are restless and alert, always scanning the horizon. Her features are sharp and wind-chapped, with prominent cheekbones, a straight nose, a pointed chin, and thin lips often pressed together in concentration. Her hands are rough and calloused from years of working ropes and oars, and a sailor's knot tattoo marks her right wrist. Hvulgselda wears a salt-stained leather jerkin over a linen tunic, with her battleaxe slung across her back and a short knife at her belt. She moves with the easy balance of someone accustomed to rolling decks.
+Hvulgselda Sea-Bane stands 5'8" with a strong, athletic frame, weighing about 155 pounds. Her light skin has a permanent weathered sheen from years of salt spray and sea wind, and her red hair is cut short and practical, often plastered to her face by rain or ocean mist. Her green eyes are restless and alert, always scanning the horizon. Her features are sharp and wind-chapped, with prominent cheekbones, a straight nose, a pointed chin, and thin lips often pressed together in concentration. Her hands are rough and calloused from years of working ropes and oars, and a sailor's knot tattoo marks her right wrist. Hvulgselda wears a salt-stained leather jerkin over a linen tunic, with her battleaxe slung across her back and a short knife at her belt. She moves with the easy balance of someone accustomed to rolling decks.
 
 # Dossier {#dossier}
 
 Hvulgselda was the daughter of a renowned shipbuilder, raised among the fjords and taught the ways of the sea from a young age. Her father often spoke of [[lore-thrunvalddty|Thrunvald]], the protector of sailors, and instilled in her a deep respect for the god of thunder. As she grew, Hvulgselda became a formidable sailor and warrior, known for her skill with both oar and axe. She took it upon herself to protect her people from the dangers of the sea, believing that Thrunvald had chosen her to defend them against the giants and monsters that lurked beneath the waves.
 
-Hvulgselda's most famous saga tells of her journey to reclaim the lost Ship of Thunder, a legendary vessel said to be blessed by Thrunvald himself. The ship had been stolen by a band of marauding sea giants, who sought to use its power to conquer the coastal villages. Undeterred, Hvulgselda set sail in a small longboat, determined to reclaim the ship for Thrunvald. She tracked the giants to their lair on a storm-lashed island, where she single-handedly fought her way through their ranks, her axe striking with the force of a thunderbolt. Finally, she reached the Ship of Thunder and called upon Thrunvald's power to drive the giants into the sea. With the ship reclaimed, Hvulgselda sailed it back to her people, where it became a symbol of Thrunvald's protection and her own unyielding courage.
+Hvulgselda's most famous saga tells of her journey to reclaim the lost [Ship of Thunder]{.name data-type="vehicle"}, a legendary vessel said to be blessed by Thrunvald himself. The ship had been stolen by a band of marauding sea giants, who sought to use its power to conquer the coastal villages. Undeterred, Hvulgselda set sail in a small longboat, determined to reclaim the ship for Thrunvald. She tracked the giants to their lair on a storm-lashed island, where she single-handedly fought her way through their ranks, her axe striking with the force of a thunderbolt. Finally, she reached the Ship of Thunder and called upon Thrunvald's power to drive the giants into the sea. With the ship reclaimed, Hvulgselda sailed it back to her people, where it became a symbol of Thrunvald's protection and her own unyielding courage.
 
 ## Psyche
 
@@ -389,15 +389,15 @@ Hvulgselda is a skilled sailor and navigator who can read the weather, currents,
 
 ### Patrons
 
-**Hvilgmil the Shipwright**—Her father, who maintains a prosperous shipyard and provides Hvulgselda with repairs, supplies, and crew for her voyages.
+**[Hvilgmil the Shipwright]{.name data-type="being/npc"}**—Her father, who maintains a prosperous shipyard and provides Hvulgselda with repairs, supplies, and crew for her voyages.
 
-**The Coastal Watch**—An informal alliance of fishing villages that pool resources to fund Hvulgselda's patrols of the shipping lanes in exchange for her protection.
+**[The Coastal Watch]{.name data-type="affiliation"}**—An informal alliance of fishing villages that pool resources to fund Hvulgselda's patrols of the shipping lanes in exchange for her protection.
 
 ### Enemies
 
-**Jarl Gnaldrinna the Reaver**—A pirate queen who views Hvulgselda's patrols as an obstacle to her raiding operations. Gnaldrinna has placed a substantial bounty on Hvulgselda's head.
+**Jarl [[being-gnaldrinnath|Gnaldrinna the Reaver]]**—A pirate queen who views Hvulgselda's patrols as an obstacle to her raiding operations. Gnaldrinna has placed a substantial bounty on Hvulgselda's head.
 
-**The Deep Ones**—Mysterious creatures from beneath the waves who have taken a personal interest in Hvulgselda since she reclaimed the Ship of Thunder. They send storms and sea monsters to test and torment her.
+**[The Deep Ones]{.name data-type="being/creature"}**—Mysterious creatures from beneath the waves who have taken a personal interest in Hvulgselda since she reclaimed the Ship of Thunder. They send storms and sea monsters to test and torment her.
 
 ## Plot Hooks
 

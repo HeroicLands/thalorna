@@ -413,15 +413,15 @@ Dámasun Gholaron—known to most simply as Kléandir—is a tall, dark-skinned 
 
 ### Origin
 
-Kléandir is a Helionite from the southern reaches of that great republic, born to a family of modest farmers in the hill country. He claims to have spent his youth in quiet contemplation, drawn to philosophy and theology from an early age. He entered religious service young, devoting himself to the study of the divine mysteries and the welfare of the common folk. This much is true, as far as anyone can verify.
+Kléandir is a [[lore-helioniteclt|Helionite]] from the southern reaches of that great republic, born to a family of modest farmers in the hill country. He claims to have spent his youth in quiet contemplation, drawn to philosophy and theology from an early age. He entered religious service young, devoting himself to the study of the divine mysteries and the welfare of the common folk. This much is true, as far as anyone can verify.
 
 ### The Missing Years
 
-What is not easily verified is anything about the thirty years between Kléandir's youth and his arrival aboard the Tamzir. He speaks of theological study, of pilgrimages to holy sites, of years spent in contemplative communities. But the gaps in his story are conspicuous, and the details he provides are carefully curated. He is suspiciously well-traveled for a rural cleric. He speaks multiple languages with native fluency. He handles a blade and bow with a proficiency that no amount of "youthful military service" can adequately explain. And when violence erupts, Kléandir's first instinct is not to pray but to position himself for a clear field of fire.
+What is not easily verified is anything about the thirty years between Kléandir's youth and his arrival aboard [[affiliation-thetamzir|The Tamzir]]. He speaks of theological study, of pilgrimages to holy sites, of years spent in contemplative communities. But the gaps in his story are conspicuous, and the details he provides are carefully curated. He is suspiciously well-traveled for a rural cleric. He speaks multiple languages with native fluency. He handles a blade and bow with a proficiency that no amount of "youthful military service" can adequately explain. And when violence erupts, Kléandir's first instinct is not to pray but to position himself for a clear field of fire.
 
 ### A Man of Contradictions
 
-Kléandir arrived aboard the Tamzir five years ago, presenting himself as a wandering cleric seeking passage between ports. Bu was suspicious—the man was too capable, too calm, too comfortable with the ship's illegal activities to be what he claimed. But Kléandir proved useful. His theological knowledge earned trust in ports where the crew had none. His quiet counsel helped navigate interpersonal conflicts. And on the three occasions when the Tamzir was boarded by hostile forces, Kléandir proved devastatingly effective in a fight. Bu stopped asking questions. Some mysteries, he decided, were better left alone.
+Kléandir arrived aboard the Tamzir five years ago, presenting himself as a wandering cleric seeking passage between ports. [[being-zbzmjkdn|Zabuzum Jakuduni]], known as Bu, was suspicious—the man was too capable, too calm, too comfortable with the ship's illegal activities to be what he claimed. But Kléandir proved useful. His theological knowledge earned trust in ports where the crew had none. His quiet counsel helped navigate interpersonal conflicts. And on the three occasions when the Tamzir was boarded by hostile forces, Kléandir proved devastatingly effective in a fight. Bu stopped asking questions. Some mysteries, he decided, were better left alone.
 
 ### Inner Turmoil
 
@@ -453,7 +453,7 @@ Kléandir has mysterious contacts who occasionally provide him with information 
 
 ### Enemies
 
-Unknown, but clearly present. Kléandir avoids certain ports, certain people, and certain topics with the practiced ease of a man who has spent years managing his exposure. He is particularly cautious around Vylarian imperial officials.
+Unknown, but clearly present. Kléandir avoids certain ports, certain people, and certain topics with the practiced ease of a man who has spent years managing his exposure. He is particularly cautious around [[lore-vylarianclt|Vylarian]] imperial officials.
 
 ### Affiliations
 

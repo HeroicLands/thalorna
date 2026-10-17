@@ -402,11 +402,11 @@ Vandarik yra Garwald wur Fródhaven does not look like a bandit, which is precis
 
 # Dossier {#dossier}
 
-Vandarik was born to a Varokh family that operated a roadside inn on the imperial trade road—a legitimate business, or so it appeared. In truth, his father worked as a fence for stolen goods, his mother ran a confidence game on wealthy travelers, and young Vandarik grew up learning that every interaction was a transaction and every smile was a tool. He was charming, clever, and without scruple by the time he was twelve.
+Vandarik was born to a [[lore-varokhiclt|Varokhi]] family that operated a roadside inn on the imperial trade road—a legitimate business, or so it appeared. In truth, his father worked as a fence for stolen goods, his mother ran a confidence game on wealthy travelers, and young Vandarik grew up learning that every interaction was a transaction and every smile was a tool. He was charming, clever, and without scruple by the time he was twelve.
 
-He left home at eighteen—not fleeing, but seeking bigger marks. He spent a decade drifting through the border towns between [[place-vrystwald|Vristwald]] and [[place-vylariargn|Vylaria]], running scams, selling fraudulent goods, impersonating minor officials, and always staying one step ahead of the consequences. He was good enough that he might have made a comfortable living indefinitely, but he had a weakness for gambling and a worse one for drink, and both caught up with him in a border town called [[place-edrenburg|Edrenburg]]. He cheated the wrong man at dice—a Vylarian merchant with connections to the local garrison—and fled into the pines with soldiers on his heels and a price on his head.
+He left home at eighteen—not fleeing, but seeking bigger marks. He spent a decade drifting through the border towns between [[place-vrystwald|Vristwald]] and the [[place-vylariargn|Vylaria Region]], running scams, selling fraudulent goods, impersonating minor officials, and always staying one step ahead of the consequences. He was good enough that he might have made a comfortable living indefinitely, but he had a weakness for gambling and a worse one for drink, and both caught up with him in a border town called [[place-edrenburg|Edrenburg]]. He cheated the wrong man at dice—a [[lore-vylarianclt|Vylarian]] merchant with connections to the local garrison—and fled into the pines with soldiers on his heels and a price on his head.
 
-He found the Blackpine Wolves a year ago and attached himself to Dagbán through sheer usefulness. He is the gang's voice—the one who scouts potential targets in taverns, learns caravan schedules, identifies which merchants carry the most coin, and occasionally talks guards into looking the other way. Dagbán dislikes him personally but recognizes that Vandarik brings in more intelligence in a week of tavern talk than the rest of the gang manages in a month of skulking.
+He found [[affiliation-blckpnwlvs|The Blackpine Wolves]] a year ago and attached himself to [[being-dagulfvthr|Dagbán yra Vethar wur Thrareth]] through sheer usefulness. He is the gang's voice—the one who scouts potential targets in taverns, learns caravan schedules, identifies which merchants carry the most coin, and occasionally talks guards into looking the other way. Dagbán dislikes him personally but recognizes that Vandarik brings in more intelligence in a week of tavern talk than the rest of the gang manages in a month of skulking.
 
 # Skills and Abilities
 
@@ -420,7 +420,7 @@ Vandarik is glib, charming, and fundamentally hollow. He relates to other people
 
 ### Motivation
 
-Vandarik wants comfort, excitement, and the satisfaction of outwitting others. He has no loyalty to the gang, to Vristwald, or to any cause larger than himself. He stays with the Blackpine Wolves because it currently suits him, but he is always calculating his next move. He dreams of pulling off one magnificent score—enough to buy a new identity and a comfortable life in a Provenzian city far from the pines.
+Vandarik wants comfort, excitement, and the satisfaction of outwitting others. He has no loyalty to the gang, to Vristwald, or to any cause larger than himself. He stays with the Blackpine Wolves because it currently suits him, but he is always calculating his next move. He dreams of pulling off one magnificent score—enough to buy a new identity and a comfortable life in a [[lore-provenzianclt|Provenzian]] city far from the pines.
 
 ### Strengths
 
@@ -430,7 +430,7 @@ His social skills are outstanding. He can talk his way into guarded camps, extra
 
 ## Companions
 
-The Blackpine Wolves, by convenience. He maintains a surface friendliness with everyone and closeness with no one. Skathilda sees through him completely, which makes him nervous.
+The Blackpine Wolves, by convenience. He maintains a surface friendliness with everyone and closeness with no one. [[being-skthldfrdbn|Skathilda yra Frodbán wur Vandgrund]] sees through him completely, which makes him nervous.
 
 ### Patrons
 

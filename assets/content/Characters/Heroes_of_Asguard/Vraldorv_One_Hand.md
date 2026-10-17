@@ -361,11 +361,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Vraldorv stands 5'11" with a lean, disciplined frame, weighing about 185 pounds. His fair skin shows the wear of a hard life lived outdoors, and his brown hair is streaked with gray and tied back from a face marked by gravity and purpose. His gray eyes are steady and penetrating—the eyes of a man who weighs every soul he meets. His features are gaunt and angular, with a long nose, sunken cheeks, a strong jaw, and thin lips that tighten when he disapproves, which is often. The stump of his right hand is cleanly healed and wrapped in worn leather bindings, displayed openly as a badge of sacrifice rather than hidden as a mark of shame. Vraldorv wears plain but well-made garments—a dark woolen tunic, leather breeches, and a heavy cloak—with a longsword worn on his left hip for cross-draw. A small iron pendant of Eidgar's rune hangs at his throat.
+Vraldorv One-Hand stands 5'11" with a lean, disciplined frame, weighing about 185 pounds. His fair skin shows the wear of a hard life lived outdoors, and his brown hair is streaked with gray and tied back from a face marked by gravity and purpose. His gray eyes are steady and penetrating—the eyes of a man who weighs every soul he meets. His features are gaunt and angular, with a long nose, sunken cheeks, a strong jaw, and thin lips that tighten when he disapproves, which is often. The stump of his right hand is cleanly healed and wrapped in worn leather bindings, displayed openly as a badge of sacrifice rather than hidden as a mark of shame. Vraldorv wears plain but well-made garments—a dark woolen tunic, leather breeches, and a heavy cloak—with a longsword worn on his left hip for cross-draw. A small iron pendant of [[lore-eidgardty|Eidgar]]'s rune hangs at his throat.
 
 # Dossier {#dossier}
 
-Vraldorv was a renowned warrior known for his unyielding sense of justice and fairness. Born into a noble family, he was raised with a strong sense of duty and honor. His life took a dramatic turn when he lost his right hand in battle while defending a village from marauding raiders. Rather than seeing this as a defeat, Vraldorv took it as a sign from Eidgar, the god who had sacrificed his hand to bind the great wolf [[lore-vetrulfr|Vetrúlfr]]. Determined to continue his fight for justice, Vraldorv trained himself to fight with his left hand, becoming even more skilled and disciplined than before.
+Vraldorv was a renowned warrior known for his unyielding sense of justice and fairness. Born into a noble family, he was raised with a strong sense of duty and honor. His life took a dramatic turn when he lost his right hand in battle while defending a village from marauding raiders. Rather than seeing this as a defeat, Vraldorv took it as a sign from Eidgar, the god said to have sacrificed his hand to bind the great wolf [[lore-vetrulfr|Vetrúlfr]]. Determined to continue his fight for justice, Vraldorv trained himself to fight with his left hand, becoming even more skilled and disciplined than before.
 
 The saga of Vraldorv One-Hand tells of his confrontation with a corrupt jarl who oppressed his people with unjust laws and cruel punishments. Despite his injury, Vraldorv challenged the jarl to single combat, invoking the right of trial by combat to decide the fate of the jarl's rule. Armed with his sword and shield, Vraldorv fought with the precision and honor that Eidgar himself embodied. In a fierce battle that lasted until dusk, Vraldorv defeated the jarl, sparing his life but demanding that he step down and restore justice to the land.
 
@@ -381,7 +381,7 @@ Vraldorv seeks to establish a code of justice that transcends the petty feuds an
 
 ### Strengths
 
-Vraldorv's left-handed fighting style is unorthodox and catches many opponents off guard. His reputation for absolute fairness makes him the most trusted arbiter in the northern lands, and his judgments carry weight even among rival clans. His missing hand, rather than being a weakness, has become a symbol of his devotion to Eidgar and inspires those who witness his resolve.
+Vraldorv's left-handed fighting style is unorthodox and catches many opponents off guard. His reputation for absolute fairness makes him the most trusted arbiter in the northern lands, and his judgments carry weight even among rival clans. His missing hand, rather than being a weakness, has become a symbol of his devotion to the [[affiliation-eidgar|Faith of Eidgar]] and inspires those who witness his resolve.
 
 ## Social
 
@@ -389,15 +389,15 @@ Vraldorv's left-handed fighting style is unorthodox and catches many opponents o
 
 ### Patrons
 
-**The Court of Justice at [[place-logthul|Logthul]]**—The oldest seat of law in the northern territories, where Vraldorv has been granted permanent standing as an itinerant judge with authority across clan boundaries.
+**[The Court of Justice at Logthul]{.name data-type="affiliation/governmental"}**—The oldest seat of law in the northern territories, in [[place-logthul|Logthul]], where Vraldorv has been granted permanent standing as an itinerant judge with authority across clan boundaries.
 
 [[being-knlthnlwgvr|Knalthann Lawgiver]]—A fellow devotee of Eidgar who works alongside Vraldorv, providing legal expertise to complement Vraldorv's martial authority.
 
 ### Enemies
 
-**The former Jarl Skruldthann**—The corrupt lord Vraldorv defeated in combat has never forgiven the humiliation. Though stripped of his title, Skruldthann still commands loyal followers and plots revenge.
+**The former Jarl [[being-skruldthann|Skruldthann]]**—The corrupt lord Vraldorv defeated in combat has never forgiven the humiliation. Though stripped of his title, Skruldthann still commands loyal followers and plots revenge.
 
-**The Blood Eagle Clan**—A raider clan that follows the old ways of blood-vengeance and views Vraldorv's legal reforms as an attack on their traditions and honor.
+**[The Blood Eagle Clan]{.name data-type="affiliation/lineage"}**—A raider clan that follows the old ways of blood-vengeance and views Vraldorv's legal reforms as an attack on their traditions and honor.
 
 ## Plot Hooks
 

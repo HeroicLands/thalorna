@@ -361,15 +361,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Gnuldrthira stands 5'5" with a lithe, predatory frame, weighing about 130 pounds. Her fair skin is smooth and unblemished in a way that seems slightly wrong—too perfect, as though sculpted rather than grown. Her auburn hair is bound in warrior's braids, and her amber eyes are striking and unsettling, with pupils that occasionally catch the light like a cat's. Her features are sharp and beautiful, with high cheekbones, a narrow nose, full lips, and a pointed chin—but subtle signs of her hybrid nature are visible to careful observers. Her canine teeth are slightly too pronounced, her movements too fluid, her reflexes faster than any human's should be. She wears dark leather armor fitted close to her body, allowing maximum freedom of movement, and carries no visible weapons, relying on the inhuman strength that Mótefnir's transformation has given her.
+Gnuldrthira the Forsaken stands 5'5" with a lithe, predatory frame, weighing about 130 pounds. Her fair skin is smooth and unblemished in a way that seems slightly wrong—too perfect, as though sculpted rather than grown. Her auburn hair is bound in warrior's braids, and her amber eyes are striking and unsettling, with pupils that occasionally catch the light like a cat's. Her features are sharp and beautiful, with high cheekbones, a narrow nose, full lips, and a pointed chin—but subtle signs of her hybrid nature are visible to careful observers. Her canine teeth are slightly too pronounced, her movements too fluid, her reflexes faster than any human's should be. She wears dark leather armor fitted close to her body, allowing maximum freedom of movement, and carries no visible weapons, relying on the inhuman strength that the tales attribute to [[lore-motefnirdty|Mótefnir]]'s transformation.
 
 # Dossier {#dossier}
 
-Gnuldrthira was one of [[lore-motefnirdty|Mótefnir]]'s early creations, a being of both human and monstrous traits. She was born in one of Mótefnir's laboratories, a fusion of different beings, but was quickly abandoned by her creator when he deemed her unworthy of his attention. Left to wander the world, Gnuldrthira struggled with her identity, torn between her human emotions and her monstrous nature. Despite the rejection, she never lost faith in Mótefnir, believing that her existence had a purpose, even if Mótefnir had not yet seen it. Gnuldrthira became known as the Forsaken, a title she wore with pride as she sought to prove her worth to her creator.
+According to her saga, Gnuldrthira was one of [[lore-motefnirdty|Mótefnir]]'s early creations, a being of both human and monstrous traits. She was born in one of Mótefnir's laboratories, a fusion of different beings, but was quickly abandoned by her creator when he deemed her unworthy of his attention. Left to wander the world, Gnuldrthira struggled with her identity, torn between her human emotions and her monstrous nature. Despite the rejection, she never lost faith in Mótefnir, believing that her existence had a purpose, even if Mótefnir had not yet seen it. Gnuldrthira became known as the Forsaken, a title she wore with pride as she sought to prove her worth to her creator.
 
-A hero made directly by a god is a celestial, a retainer of the god itself and set above all mortals. Gnuldrthira is a celestial of Mótefnir by her making, so she holds no rank in the mortal ladder of his faith or of any other.
+In this tradition, a hero made directly by a god is a celestial, a retainer of the god itself and set above all mortals. Gnuldrthira is a celestial of Mótefnir by her making, so she holds no rank in the mortal ladder of his faith or of any other.
 
-The saga of Gnuldrthira the Forsaken tells of her journey to reclaim her place in Mótefnir's creation. She heard rumors of the Heart of the Firstborn, hidden deep within one of Mótefnir's oldest and most dangerous laboratories. This relic was said to hold the essence of Mótefnir's first and most beloved creation. The journey was perilous, filled with traps and hostile Dreadspawn, but Gnuldrthira's determination drove her forward. In the heart of the laboratory, she faced a guardian created by Mótefnir himself. In a fierce battle, Gnuldrthira defeated the guardian, claiming the Heart of the Firstborn. Rather than offering it to Mótefnir, she absorbed its essence into herself, transforming into a being of immense power and beauty—a champion of Mótefnir's path.
+The saga of Gnuldrthira the Forsaken tells of her journey to reclaim her place in Mótefnir's creation. She heard rumors of the [Heart of the Firstborn]{.name data-type="miscgear"}, hidden deep within one of Mótefnir's oldest and most dangerous laboratories. This relic was said to hold the essence of Mótefnir's first and most beloved creation. The journey was perilous, filled with traps and hostile [[lore-dreadspawncrtr|Dreadspawn]], but Gnuldrthira's determination drove her forward. In the heart of the laboratory, she faced a guardian created by Mótefnir himself. In a fierce battle, Gnuldrthira defeated the guardian, claiming the Heart of the Firstborn. Rather than offering it to Mótefnir, she absorbed its essence into herself, transforming into a being of immense power and beauty—a champion of Mótefnir's path.
 
 ## Psyche
 
@@ -393,13 +393,13 @@ Since absorbing the Heart of the Firstborn, Gnuldrthira possesses strength and r
 
 [[being-dvrnvrshpr|Dvurnvir the Shaper]]—The only person who has ever treated Gnuldrthira as a fellow being rather than a curiosity or monster. Their relationship is complicated by Dvurnvir's scientific interest in her unique nature, but his respect is real.
 
-**The Forsaken Ones**—A loose community of Mótefnir's abandoned creations who recognize Gnuldrthira as a champion since she absorbed the Heart of the Firstborn.
+**[The Forsaken Ones]{.name data-type="affiliation"}**—A loose community of Mótefnir's abandoned creations who recognize Gnuldrthira as a champion since she absorbed the Heart of the Firstborn.
 
 ### Enemies
 
-**The Purity Crusade**—A fanatical movement that views all of Mótefnir's creations as abominations that must be destroyed. They consider Gnuldrthira an especially dangerous target and have mobilized significant resources to hunt her.
+**[The Purity Crusade]{.name data-type="affiliation"}**—A fanatical movement that views all of Mótefnir's creations as abominations that must be destroyed. They consider Gnuldrthira an especially dangerous target and have mobilized significant resources to hunt her.
 
-**Mótefnir's Warden**—A powerful entity left behind to guard Mótefnir's laboratories. It views Gnuldrthira's theft of the Heart of the Firstborn as an unforgivable transgression and relentlessly pursues her.
+**[Mótefnir's Warden]{.name data-type="being/creature"}**—A powerful entity left behind to guard Mótefnir's laboratories. It views Gnuldrthira's theft of the Heart of the Firstborn as an unforgivable transgression and relentlessly pursues her.
 
 ## Plot Hooks
 

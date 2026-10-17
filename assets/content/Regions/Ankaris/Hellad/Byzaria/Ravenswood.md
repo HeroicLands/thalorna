@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [byzariargn], population: 0, packFolder
 
 ## Overview
 
-Ravenswood lies along the eastern trade routes of the [[place-byzariargn|Bizaria Region]], and it gives its name to the men who live off those routes: **the [Ravenswood Brigands]{.name data-type="affiliation"}**, a loose confederation of bandits who target merchant caravans and demand tribute for safe passage. A teamster who drives the eastern roads either pays them or plans around them.
+Ravenswood lies along the eastern trade routes of the [[place-byzariargn|Bizaria Region]], and it gives its name to the men who live off those routes: **the [Ravenswood Brigands]{.name data-type="affiliation/criminal"}**, a loose confederation of bandits who target merchant caravans and demand tribute for safe passage. A teamster who drives the eastern roads either pays them or plans around them.
 
 ## The Vendetta
 

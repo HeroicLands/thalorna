@@ -370,7 +370,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Thorir is an enormous man, standing 6'1" and carrying 256 pounds of heavy bone and packed muscle on a massive frame. His black hair is graying at the temples and cropped close to his skull, and his dark amber eyes are deep-set beneath a heavy brow that bears a long, pale scar running from his left temple to just above his right eye—a souvenir from a quarry accident in his youth. His golden, tanned skin is thick and weathered, his jaw broad, his hands like shovels. He moves with the slow deliberation of a man who knows his own strength and has learned not to break things accidentally. His [[place-stormveil|Stormveil]] garrison armor is scale over quilted padding, reinforced at the shoulders and forearms, and he carries a warhammer that most men would need two hands to lift.
+Thorir Eldskari is an enormous man, standing 6'1" and carrying 256 pounds of heavy bone and packed muscle on a massive frame. His black hair is graying at the temples and cropped close to his skull, and his dark amber eyes are deep-set beneath a heavy brow that bears a long, pale scar running from his left temple to just above his right eye—a souvenir from a quarry accident in his youth. His golden, tanned skin is thick and weathered, his jaw broad, his hands like shovels. He moves with the slow deliberation of a man who knows his own strength and has learned not to break things accidentally. His [[place-stormveil|Stormveil]] garrison armor is scale over quilted padding, reinforced at the shoulders and forearms, and he carries a warhammer that most men would need two hands to lift.
 
 # Dossier {#dossier}
 
@@ -402,11 +402,11 @@ Thorir is respected by guards and soldiers, invisible to most nobility, and rega
 
 ### Patrons
 
-**Commander Wilrith Thornwell**—The captain of Stormveil castle guard for the past fifteen years. Wilrith is a soldier by trade who recognizes Thorir's value and has explicitly protected him from reassignment. She has also quietly agreed to write a strong recommendation for Thorir's retirement, which will secure him the fullest pension. Their relationship is built on practical respect.
+**Commander [[being-wilriththorn|Wilrith Thornwell]]**—The captain of Stormveil castle guard for the past fifteen years. Wilrith is a soldier by trade who recognizes Thorir's value and has explicitly protected him from reassignment. She has also quietly agreed to write a strong recommendation for Thorir's retirement, which will secure him the fullest pension. Their relationship is built on practical respect.
 
 ### Enemies
 
-**Lord Dunwald Ravenwell**—A younger noble who arrived at Stormveil five years ago as the regional lord's military advisor. Ravenwell is ambitious, aristocratic, and disdainful of soldiers who serve for pay. He has attempted to force Thorir into increasingly harsh discipline, and when Thorir did not comply, Ravenwell began spreading rumors that Thorir is "soft" and "a relic of the old guard." Thorir ignores this, which infuriates Ravenwell more than direct confrontation would.
+**Lord [[being-dunwaldraven|Dunwald Ravenwell]]**—A younger noble who arrived at Stormveil five years ago as the regional lord's military advisor. Ravenwell is ambitious, aristocratic, and disdainful of soldiers who serve for pay. He has attempted to force Thorir into increasingly harsh discipline, and when Thorir did not comply, Ravenwell began spreading rumors that Thorir is "soft" and "a relic of the old guard." Thorir ignores this, which infuriates Ravenwell more than direct confrontation would.
 
 ## Plot Hooks
 
@@ -416,4 +416,4 @@ Thorir is respected by guards and soldiers, invisible to most nobility, and rega
 
 3. **The Inheritance Dispute**—The regional lord dies unexpectedly, and the succession becomes contested. Two of his children claim legitimate right to inherit. Neither is suitable; both want Thorir's personal guard loyalty to strengthen their claim. Both offer promises of early retirement, increased pension, or positions of honor. Thorir is suddenly political, whether he wants to be or not. Commander Wilrith is caught between the two factions and asks Thorir to choose sides, knowing that his physical loyalty will influence other guards. Thorir's choice will determine who rules the territory.
 
-4. **The Dying Guard**—A younger guard under Thorir's command, **Ser Mildwin**, is diagnosed with a wasting illness. Mildwin is married with children, and his military pension will not support them adequately after his death. Mildwin asks Thorir privately to help him fake his death so he can disappear and pursue hidden work as a mercenary, allowing him to earn higher wages and leave his family better-positioned. The request puts Thorir in a position to either help his subordinate commit fraud (and desertion) or watch a man die knowing he could have helped. The garrison would certainly investigate Mildwin's "death," making false documentation extremely difficult to pull off.
+4. **The Dying Guard**—A younger guard under Thorir's command, **Ser [[being-alfwinstormw|Mildwin Stormwell]]**, is diagnosed with a wasting illness. Mildwin is married with children, and his military pension will not support them adequately after his death. Mildwin asks Thorir privately to help him fake his death so he can disappear and pursue hidden work as a mercenary, allowing him to earn higher wages and leave his family better-positioned. The request puts Thorir in a position to either help his subordinate commit fraud (and desertion) or watch a man die knowing he could have helped. The garrison would certainly investigate Mildwin's "death," making false documentation extremely difficult to pull off.

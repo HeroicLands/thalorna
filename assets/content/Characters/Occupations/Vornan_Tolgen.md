@@ -397,9 +397,9 @@ Vornan Tolgen is a 46-year-old man who stands 5'8" tall and is broad and solidly
 
 # Dossier {#dossier}
 
-Vornan Tolgen is a self-taught philosopher of Pirnebris, the cherry town of the eastern march of [[place-provenzrgn|Provenzia]], a Provenzian freeman of a carter's family who never saw the inside of an academy and lectures on ethics in the taverns of a town that lives on the frontier war.
+Vornan Tolgen is a self-taught philosopher of [[place-pirnebris|Pirnebris]], the cherry town of the eastern march of [[place-provenzrgn|Provenzia Region]], a [[lore-provenzianclt|Provenzian]] freeman of a carter's family who never saw the inside of an academy and lectures on ethics in the taverns of a town that lives on the frontier war.
 
-Vornan was a carter's son and a carter, hauling garrison supply up the road to the passes, and he taught himself to read from a book of Helionite dialogues that came up in a load and was never claimed. Twenty years of buying, borrowing and copying followed, until he knew the philosophers of Aurelane's academies better than most of their students. He gave up the cart at forty. He lives on very little and talks for his keep, in the taverns of Pirnebris, to whoever will sit, on justice and on whether a good life can be built on a trade that needs the war to go on. Pirnebris sells the frontier its boots and carts and nobody there wants a lasting peace, and Vornan asks, plainly and repeatedly, what that makes them.
+Vornan was a carter's son and a carter, hauling garrison supply up the road to the passes, and he taught himself to read from a book of [[lore-helioniteclt|Helionite]] dialogues that came up in a load and was never claimed. Twenty years of buying, borrowing and copying followed, until he knew the philosophers of [[place-aureliane|Aurelane]]'s academies better than most of their students. He gave up the cart at forty. He lives on very little and talks for his keep, in the taverns of Pirnebris, to whoever will sit, on justice and on whether a good life can be built on a trade that needs the war to go on. Pirnebris sells the frontier its boots and carts and nobody there wants a lasting peace, and Vornan asks, plainly and repeatedly, what that makes them.
 
 ## Psyche
 
@@ -435,6 +435,6 @@ The supply merchants of Pirnebris, whose trade he has described in public as pro
 
 2. **The Academic**—A master of rhetoric from Aurelane has come to hear the tavern philosopher, and has offered him a chair—a room, a stipend and students—on condition he stops talking about the war.
 
-3. **The Officer Who Listened**—A junior officer who took Vornan's questions seriously has refused an order in the field and is to be tried at the Winter Assize. His defense is what Vornan taught him, and the court has sent for the teacher.
+3. **The Officer Who Listened**—A junior officer who took Vornan's questions seriously has refused an order in the field and is to be tried at the [Winter Assize]{.name data-type="affiliation/governmental"}. His defense is what Vornan taught him, and the court has sent for the teacher.
 
 4. **Shut In**—The alarm has sounded and Pirnebris has shut its gates with the flocks and the outlying families inside. Vornan is inside with the merchants he has spent ten years accusing.

@@ -403,7 +403,7 @@ sohl:
 
 ![[fethardhrl|Fetar Darel]]{float=top-left}
 
-Fetar Darel is a man who looks like he wandered off a Provenzian promenade and somehow ended up at the helm of a disreputable trading vessel. He is six feet tall with a mop of unruly red hair, a constellation of freckles, and blue eyes that perpetually carry the gleam of a man enjoying a private joke, and an infectious grin. His most notable feature is his wardrobe—he favors elaborately patterned tunics and embroidered tabards that clash spectacularly with the grimy reality of shipboard life. He is gangly and loose-limbed, without the hardened look of a fighter, but his hands on the helm are sure and steady as stone.
+Fetar Darel is a man who looks like he wandered off a [[lore-provenzianclt|Provenzian]] promenade and somehow ended up at the helm of a disreputable trading vessel. He is six feet tall with a mop of unruly red hair, a constellation of freckles, and blue eyes that perpetually carry the gleam of a man enjoying a private joke, and an infectious grin. His most notable feature is his wardrobe—he favors elaborately patterned tunics and embroidered tabards that clash spectacularly with the grimy reality of shipboard life. He is gangly and loose-limbed, without the hardened look of a fighter, but his hands on the helm are sure and steady as stone.
 
 # Dossier {#dossier}
 
@@ -411,7 +411,7 @@ Fetar Darel is a man who looks like he wandered off a Provenzian promenade and s
 
 ### Origin
 
-Fetar grew up in a landlocked river town in northern [[place-provenzrgn|Provenzia]], the son of a dyer. From childhood he had an inexplicable fascination with water and boats, spending every spare hour messing about on the river in whatever craft he could borrow or build. He was an excellent fisherman, supplementing his family's income, but there was always something restless in him—a pull toward horizons he could not see from the riverbank.
+Fetar grew up in a landlocked river town in the northern [[place-provenzrgn|Provenzia Region]], the son of a dyer. From childhood he had an inexplicable fascination with water and boats, spending every spare hour messing about on the river in whatever craft he could borrow or build. He was an excellent fisherman, supplementing his family's income, but there was always something restless in him—a pull toward horizons he could not see from the riverbank.
 
 ### Finding the Sea
 
@@ -419,7 +419,7 @@ At seventeen, Fetar left home with his family's reluctant blessing, traveling so
 
 ### Aboard the Tamzir
 
-Fetar joined the Tamzir seven years ago, hired as a replacement pilot after the previous one was arrested for smuggling (independently of the Tamzir's own smuggling). Bu was skeptical of the cheerful Provenzian with the ridiculous clothing, but Fetar's first demonstration of his skills—threading the Tamzir through a reef passage at night during a storm to escape an imperial patrol—ended all debate. He is, by any measure, a crackerjack pilot. If anyone can navigate the Tamzir through impossible waters, it is Fetar.
+Fetar joined [[affiliation-thetamzir|The Tamzir]] seven years ago, hired as a replacement pilot after the previous one was arrested for smuggling (independently of the Tamzir's own smuggling). [[being-zbzmjkdn|Zabuzum Jakuduni]], known as Bu, was skeptical of the cheerful Provenzian with the ridiculous clothing, but Fetar's first demonstration of his skills—threading the Tamzir through a reef passage at night during a storm to escape an imperial patrol—ended all debate. He is, by any measure, a crackerjack pilot. If anyone can navigate the Tamzir through impossible waters, it is Fetar.
 
 ### Marriage
 
@@ -463,4 +463,4 @@ Pilot of the **Tamzir**. Husband of **Sélvara Valskir**. He maintains occasiona
 
 2. **River and Sea**: Fetar receives word that his hometown is threatened by flooding after a dam collapse upriver. His family needs help, and his intimate knowledge of the river system could save lives—but reaching them means leaving the Tamzir at a critical moment.
 
-3. **The Uncharted Passage**: An ancient chart surfaces suggesting a hidden sea passage through a treacherous archipelago that could cut weeks off the journey between Taruzel and the northern ports. Only a pilot of extraordinary skill could navigate it. The potential profit is enormous, but the chart may be incomplete—or a trap.
+3. **The Uncharted Passage**: An ancient chart surfaces suggesting a hidden sea passage through a treacherous archipelago that could cut weeks off the journey between the [[place-taruzelrgn|Taruzel Region]] and the northern ports. Only a pilot of extraordinary skill could navigate it. The potential profit is enormous, but the chart may be incomplete—or a trap.

@@ -361,11 +361,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Murvselda stands 5'7" with a slender, graceful frame, weighing about 130 pounds. Her fair skin is flawless and luminous, and her dark blonde hair is arranged in an elaborate style that appears effortless but takes considerable art. Her blue eyes are large and expressive, shifting between warmth and calculation so smoothly that few notice the transition. Her features are striking—high cheekbones, a delicate nose, full lips that curve in an enigmatic smile, and perfectly arched brows that can convey a dozen meanings with a single rise. Her bearing is poised and courtly, every gesture deliberate and graceful, and she carries herself with the quiet confidence of someone accustomed to being the most important person in any room. Murvselda wears gowns of fine silk and soft wool in rich jewel tones, accented with subtle gold embroidery and a necklace of amber beads sacred to Solrún. Her hands are soft and adorned with slender rings, the hands of a woman who has never wielded anything heavier than a quill.
+Murvselda the Enchantress stands 5'7" with a slender, graceful frame, weighing about 130 pounds. Her fair skin is flawless and luminous, and her dark blonde hair is arranged in an elaborate style that appears effortless but takes considerable art. Her blue eyes are large and expressive, shifting between warmth and calculation so smoothly that few notice the transition. Her features are striking—high cheekbones, a delicate nose, full lips that curve in an enigmatic smile, and perfectly arched brows that can convey a dozen meanings with a single rise. Her bearing is poised and courtly, every gesture deliberate and graceful, and she carries herself with the quiet confidence of someone accustomed to being the most important person in any room. Murvselda wears gowns of fine silk and soft wool in rich jewel tones, accented with subtle gold embroidery and a necklace of amber beads sacred to [[lore-solrundty|Solrún]]. Her hands are soft and adorned with slender rings, the hands of a woman who has never wielded anything heavier than a quill.
 
 # Dossier {#dossier}
 
-Murvselda was a woman of extraordinary beauty and charm, blessed by Solrún with a voice that could captivate even the coldest of hearts. From a young age, she showed an uncanny ability to influence those around her, using her wits and allure to navigate the complexities of courtly life. Murvselda became known as the Enchantress, a woman whose mere presence could sway the most hardened warriors and shrewd merchants. She was not only a master of seduction but also a wise counselor, helping those who sought her advice to find love, success, and prosperity.
+The tales describe Murvselda as a woman of extraordinary beauty and charm, blessed by Solrún with a voice that could captivate even the coldest of hearts. From a young age, she showed an uncanny ability to influence those around her, using her wits and allure to navigate the complexities of courtly life. Murvselda became known as the Enchantress, a woman whose mere presence could sway the most hardened warriors and shrewd merchants. She was not only a master of seduction but also a wise counselor, helping those who sought her advice to find love, success, and prosperity.
 
 The saga of Murvselda the Enchantress tells of how she saved her homeland from ruin through her wit and charm. The king of her land had fallen under the influence of a cruel advisor who sought to strip the kingdom of its wealth. Murvselda used her charm to gain the advisor's trust, feigning loyalty while secretly working to undermine his power. She gathered allies within the court and turned the king against the advisor. In a dramatic confrontation, Murvselda exposed the advisor's treachery. The king placed Murvselda in a position of great power, where she used her wisdom and connection to Solrún to restore prosperity to the land.
 
@@ -389,9 +389,9 @@ Murvselda's charisma is her most powerful weapon; her voice carries a subtle enc
 
 ### Patrons
 
-**King Vrildthann of the Northern Court**—The monarch who Murvselda saved from his corrupt advisor. He relies heavily on her counsel and has granted her considerable political authority.
+**King [[being-vrildthann|Vrildthann]] of the [Northern Court]{.name data-type="affiliation/governmental"}**—The monarch who Murvselda saved from his corrupt advisor. He relies heavily on her counsel and has granted her considerable political authority.
 
-**The Solrún Sisterhood**—A secret order of women devoted to Solrún who use their influence to shape events from behind the scenes. Murvselda is one of their most prominent members.
+**[The Solrún Sisterhood]{.name data-type="affiliation"}**—A secret order of women devoted to the [[affiliation-solrun|Faith of Solrún]] who use their influence to shape events from behind the scenes. Murvselda is one of their most prominent members.
 
 ### Enemies
 

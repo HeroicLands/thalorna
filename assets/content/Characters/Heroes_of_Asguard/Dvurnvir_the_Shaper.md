@@ -361,11 +361,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Dvurnvir stands 5'7" with a thin, almost gaunt frame, weighing about 140 pounds. His pale skin has an unhealthy pallor, and his dark blonde hair is wild and uncombed, sticking out at odd angles. His green eyes have a feverish intensity, darting constantly as though tracking things invisible to others. His features are sharp and pinched, with a narrow face, a pointed nose, hollow cheeks, thin lips that move constantly in muttered calculations, and brows knit in perpetual concentration. His hands are stained with alchemical reagents in a dozen different colors, and chemical burns dot his fingers. Dvurnvir wears a stained leather apron over threadbare scholar's robes, with pouches and vials dangling from every available surface. He smells faintly of sulfur and something metallic. The Forsaken Guardian—his created companion—is often lurking nearby, casting a monstrous shadow that contrasts sharply with Dvurnvir's slight form.
+Dvurnvir the Shaper stands 5'7" with a thin, almost gaunt frame, weighing about 140 pounds. His pale skin has an unhealthy pallor, and his dark blonde hair is wild and uncombed, sticking out at odd angles. His green eyes have a feverish intensity, darting constantly as though tracking things invisible to others. His features are sharp and pinched, with a narrow face, a pointed nose, hollow cheeks, thin lips that move constantly in muttered calculations, and brows knit in perpetual concentration. His hands are stained with alchemical reagents in a dozen different colors, and chemical burns dot his fingers. Dvurnvir wears a stained leather apron over threadbare scholar's robes, with pouches and vials dangling from every available surface. He smells faintly of sulfur and something metallic. [The Forsaken Guardian]{.name data-type="being/creature"}—his created companion—is often lurking nearby, casting a monstrous shadow that contrasts sharply with Dvurnvir's slight form.
 
 # Dossier {#dossier}
 
-Dvurnvir was born to a clan of wanderers who revered [[lore-motefnirdty|Mótefnir]] for his creative genius, despite the god's indifference. From an early age, Dvurnvir was fascinated by the Dreadspawn—creations of Mótefnir that were both awe-inspiring and terrifying. While others feared these beings, Dvurnvir saw them as manifestations of Mótefnir's brilliance and sought to understand their nature. As he grew older, Dvurnvir became known as the Shaper for his ability to manipulate and alter these creations, seeking to perfect what Mótefnir had left incomplete. His experiments were dangerous and often led to disaster, but Dvurnvir was relentless in his pursuit of Mótefnir's ideals.
+Dvurnvir was born to a clan of wanderers who revered [[lore-motefnirdty|Mótefnir]] for his creative genius, despite the god's indifference. From an early age, Dvurnvir was fascinated by the [[lore-dreadspawncrtr|Dreadspawn]]—creations of Mótefnir that were both awe-inspiring and terrifying. While others feared these beings, Dvurnvir saw them as manifestations of Mótefnir's brilliance and sought to understand their nature. As he grew older, Dvurnvir became known as the Shaper for his ability to manipulate and alter these creations, seeking to perfect what Mótefnir had left incomplete. His experiments were dangerous and often led to disaster, but Dvurnvir was relentless in his pursuit of Mótefnir's ideals.
 
 The saga of Dvurnvir the Shaper tells of his most ambitious experiment, where he attempted to combine the essence of two powerful Dreadspawn to create a new, more perfect being. The process was fraught with peril, as the Dreadspawn were unpredictable and volatile. Dvurnvir spent weeks preparing for the fusion, using ancient texts and forbidden knowledge to guide him. When the time came, he succeeded in merging the two beings, creating a new Dreadspawn that was both beautiful and terrifying—the Forsaken Guardian. This creation became a symbol of Dvurnvir's devotion to Mótefnir and his ability to bring order to chaos.
 
@@ -389,15 +389,15 @@ Dvurnvir's understanding of the Dreadspawn is unparalleled; he can predict their
 
 ### Patrons
 
-**The Wanderers of Mótefnir**—The scattered followers of the Maker who abandons his work, who see Dvurnvir as the most promising practitioner of Mótefnir's creative arts and supply him with rare materials and forbidden texts.
+**[The Wanderers of Mótefnir]{.name data-type="affiliation"}**—The scattered followers of the Maker who abandons his work, who see Dvurnvir as the most promising practitioner of Mótefnir's creative arts and supply him with rare materials and forbidden texts.
 
-**Arkalís of the [[affiliation-panepistmm|Epistémion]]**—A Epistémion (the Academy of Knowledge) scholar who secretly funds Dvurnvir's research, fascinated by the practical applications of his work with the Dreadspawn despite the ethical concerns.
+**[Arkalís]{.name data-type="being/npc"} of the [[affiliation-panepistmm|Epistémion]]**—An Epistémion (the Academy of Knowledge) scholar who secretly funds Dvurnvir's research, fascinated by the practical applications of his work with the Dreadspawn despite the ethical concerns.
 
 ### Enemies
 
-[[affiliation-ordoarcanis|The Thordimalon]]—The Arcane Order views Dvurnvir's unsanctioned manipulation of magical creatures as a serious threat and has dispatched _sekeroi_ (inquirers) to investigate his activities.
+[[affiliation-ordoarcanis|Thordimalon]]—The Arcane Order views Dvurnvir's unsanctioned manipulation of magical creatures as a serious threat and has dispatched _sekeroi_ (inquirers) to investigate his activities.
 
-**The Dreadspawn Hunters**—A vigilante group dedicated to destroying all Dreadspawn, who view Dvurnvir as a dangerous madman whose work creates more monsters for the world to suffer.
+**[The Dreadspawn Hunters]{.name data-type="affiliation"}**—A vigilante group dedicated to destroying all Dreadspawn, who view Dvurnvir as a dangerous madman whose work creates more monsters for the world to suffer.
 
 ## Plot Hooks
 

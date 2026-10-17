@@ -361,11 +361,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Tvilgorv stands 6'2" with a massive, unnaturally muscled frame, weighing about 260 pounds. His medium-toned skin shifts unsettlingly between human flesh and something harder and darker, particularly along his arms and spine, where strange ridges protrude beneath the surface. His dark brown hair is lank and unkempt, and his amber eyes occasionally flash with an inhuman light that makes others flinch. His features are heavy and brutish—a broad, flat face, a crushed nose, a heavy brow, and a jaw too wide for a normal man—bearing the unmistakable marks of [[lore-motefnirdty|Mótefnir]]'s transformation. His voice carries a resonance that is not entirely human. Tvilgorv wears crude armor of boiled leather and salvaged plate, held together with sinew and iron wire, and carries a massive axe that he wields one-handed. He covers his most inhuman features with a hooded cloak, though the attempt at concealment fools no one up close.
+Tvilgorv the Reforged stands 6'2" with a massive, unnaturally muscled frame, weighing about 260 pounds. His medium-toned skin shifts unsettlingly between human flesh and something harder and darker, particularly along his arms and spine, where strange ridges protrude beneath the surface. His dark brown hair is lank and unkempt, and his amber eyes occasionally flash with an inhuman light that makes others flinch. His features are heavy and brutish—a broad, flat face, a crushed nose, a heavy brow, and a jaw too wide for a normal man—bearing the unmistakable marks of a transformation attributed in his saga to [[lore-motefnirdty|Mótefnir]]. His voice carries a resonance that is not entirely human. Tvilgorv wears crude armor of boiled leather and salvaged plate, held together with sinew and iron wire, and carries a massive axe that he wields one-handed. He covers his most inhuman features with a hooded cloak, though the attempt at concealment fools no one up close.
 
 # Dossier {#dossier}
 
-Tvilgorv was once a powerful warrior, known for his strength and bravery, but he was mortally wounded in a great battle. On the brink of death, his soul was drawn into one of Mótefnir's laboratories, where the god of creation saw potential in his broken body. Mótefnir, in a rare moment of interest, decided to experiment on Tvilgorv, merging his soul with the essence of several failed Dreadspawn. The process was agonizing, and Tvilgorv's body was twisted and reshaped into a form that was both human and monstrous. When the experiment was complete, Tvilgorv was left discarded, but he emerged with a new purpose.
+Tvilgorv was once a powerful warrior, known for his strength and bravery, but he was mortally wounded in a great battle. According to his saga, on the brink of death, his soul was drawn into one of Mótefnir's laboratories, where the god of creation saw potential in his broken body. Mótefnir, in a rare moment of interest, decided to experiment on Tvilgorv, merging his soul with the essence of several failed [[lore-dreadspawncrtr|Dreadspawn]]. The process was agonizing, and Tvilgorv's body was twisted and reshaped into a form that was both human and monstrous. When the experiment was complete, Tvilgorv was left discarded, but he emerged with a new purpose.
 
 The saga of Tvilgorv the Reforged tells of his quest to reclaim his lost humanity while embracing the monstrous power that Mótefnir had bestowed upon him. Cast out from his homeland and feared by those who once knew him, Tvilgorv wandered the wilderness, grappling with his new identity. He encountered a village under siege by a powerful Dreadspawn. Tvilgorv confronted the beast, using both his human strength and his monstrous abilities. He emerged victorious, not by destroying the Dreadspawn, but by subduing it and bringing it under his control—an act of dominance over Mótefnir's creation that marked Tvilgorv as one of the god's favored.
 
@@ -389,15 +389,15 @@ Tvilgorv's reforged body is extraordinarily powerful, combining human martial sk
 
 ### Patrons
 
-[[being-gnldrthyrfrskn|Gnuldrthira the Forsaken]]—A fellow being transformed by Mótefnir who understands Tvilgorv's struggle better than anyone. She offers companionship and the kind of acceptance he cannot find elsewhere.
+[[being-gnldrthyrfrskn|Gnuldrthira the Forsaken]]—A fellow being whose saga attributes her transformation to Mótefnir and who understands Tvilgorv's struggle better than anyone. She offers companionship and the kind of acceptance he cannot find elsewhere.
 
-**Elder Hrundmil**—The leader of the village Tvilgorv saved, who has declared Tvilgorv a friend of his people despite the warrior's monstrous appearance. He provides shelter and supplies when needed.
+**Elder [[being-hrundmyl|Hrundmil]]**—The leader of the village Tvilgorv saved, who has declared Tvilgorv a friend of his people despite the warrior's monstrous appearance. He provides shelter and supplies when needed.
 
 ### Enemies
 
 **His Former Clan**—The clan Tvilgorv once fought for has declared him dead and his current form an abomination wearing their kinsman's face. They hunt him with the same ferocity they would show any Dreadspawn.
 
-The Collector—A mysterious figure who captures and studies Mótefnir's transformed creations. The Collector has been tracking Tvilgorv and intends to add him to their collection, dead or alive.
+[The Collector]{.name data-type="lore"}—A mysterious figure who captures and studies Mótefnir's transformed creations. The Collector has been tracking Tvilgorv and intends to add him to their collection, dead or alive.
 
 ## Plot Hooks
 

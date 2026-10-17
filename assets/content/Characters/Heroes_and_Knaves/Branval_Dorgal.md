@@ -421,13 +421,13 @@ sohl:
 
 ![[branwldrgr|Branval Dorgal]]{float=top-left}
 
-Branval is a weathered, sharp-eyed man of thirty-four with a medium frame, fair skin worn by years of battle, dark brown hair streaked with gray, and steady brown eyes. His bearing still carries traces of the noble upbringing he lost long ago. He moves with the easy confidence of a seasoned commander who has survived more battles than he cares to count.
+Branval Dorgal is a weathered, sharp-eyed man of thirty-four with a medium frame, fair skin worn by years of battle, dark brown hair streaked with gray, and steady brown eyes. His bearing still carries traces of the noble upbringing he lost long ago. He moves with the easy confidence of a seasoned commander who has survived more battles than he cares to count.
 
 # Dossier {#dossier}
 
-Branval Dorgal is the founder and captain of the [[affiliation-slntlncmpny|Silent Talon]], a tight-knit mercenary band operating out of [[place-provenzrgn|Provenzia Region]]. Born into a minor noble family that had lost its lands and standing when House Dorgal chose the wrong side in [[lore-warprinces|the War of the Princes]], he inherited the loss and none of the estate. Rather than fade into obscurity, Branval turned his strategic mind and martial skill to the mercenary trade, building a reputation in the Blood Lands as a commander who brings his people home alive.
+Branval Dorgal is the founder and captain of [[affiliation-slntlncmpny|The Silent Talon Company]], a tight-knit mercenary band operating out of [[place-provenzrgn|Provenzia Region]]. Born into a minor noble family that had lost its lands and standing when [House Dorgal]{.name data-type="affiliation/lineage"} chose the wrong side in [[lore-warprinces|The War of the Princes]], he inherited the loss and none of the estate. Rather than fade into obscurity, Branval turned his strategic mind and martial skill to the mercenary trade, building a reputation in the [Blood Lands]{.name data-type="place"} as a commander who brings his people home alive.
 
-He has led men for more than a decade, and his philosophy is simple: war is a game of wits as much as steel. He prefers to stay two steps ahead of his enemies, and while he has swung a sword plenty of times, he wins his battles before they begin. His charismatic leadership and sharp tactical instincts have attracted a loyal core of companions—Élithe, Tornis, Chelebe, and Doren—who together form the Silent Talon.
+He has led men for more than a decade, and his philosophy is simple: war is a game of wits as much as steel. He prefers to stay two steps ahead of his enemies, and while he has swung a sword plenty of times, he wins his battles before they begin. His charismatic leadership and sharp tactical instincts have attracted a loyal core of companions—[[being-elyseskyrn|Élithe Sarneth]], [[being-torniskbry|Tornis Kubri]], [[being-chlbrhydyn|Chelebe Riddin]], and [[being-dornsyndlr|Doren Sindalre]]—who together form the Silent Talon.
 
 Beneath his practical, sometimes cold exterior, Branval cares deeply for his people. He sees the band as the family that replaced the one he lost, and he will take considerable risks to protect them—though he would never admit to sentimentality.
 
@@ -462,7 +462,7 @@ Branval seeks to restore his family's honor and reclaim their lost lands by amas
 
 - [[being-elyseskyrn|Élithe Sarneth]]: The band's healer and alchemist.
 - [[being-torniskbry|Tornis Kubri]]: Scout, spy, and infiltrator.
-- [[being-chlbrhydyn|Chelebe Riddin]]: Áelendan tracker and archer.
+- [[being-chlbrhydyn|Chelebe Riddin]]: Tracker and archer of the [[lore-aelendnppl|Áelendan People]].
 - [[being-dornsyndlr|Doren Sindalre]]: Frontline fighter and axeman.
 
 ### Patrons

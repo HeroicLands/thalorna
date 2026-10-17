@@ -412,7 +412,7 @@ Belgina Rusakuni is a young woman whose appearance perfectly reflects her profes
 
 ### Origin
 
-Belgina was born in the port of [[place-pashinar|Pashinar]], a harbor in the [[affiliation-cnfdrtntrzlnstts|Taruzelian Confederation]], the daughter of a master shipwright. She grew up in his yard, surrounded by the smell of fresh-cut timber and hot pitch, and from the time she could walk she was underfoot—watching, touching, learning. Her father never formally apprenticed her (the shipwrights' guild resists women in the craft, and Belgina is the exception), but she shadowed him so constantly and so eagerly that by twelve she could identify any wood by touch and tell you where it should go in a hull.
+Belgina was born in the port of [[place-pashinar|Pashinar]], a harbor in the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], the daughter of a master shipwright. She grew up in his yard, surrounded by the smell of fresh-cut timber and hot pitch, and from the time she could walk she was underfoot—watching, touching, learning. Her father never formally apprenticed her (the [Taruzelian Shipwrights' Guild]{.name data-type="affiliation/guild"} resists women in the craft, and Belgina is the exception), but she shadowed him so constantly and so eagerly that by twelve she could identify any wood by touch and tell you where it should go in a hull.
 
 ### The Gift
 
@@ -420,7 +420,7 @@ Belgina possesses something she cannot easily explain—an intuitive sense for h
 
 ### Joining the Tamzir
 
-Belgina came aboard the Tamzir two years ago when the ship limped into Pashinar with a cracked keel and her previous carpenter dead of fever. Bu was desperate—the Tamzir needed repairs he could not afford, in a yard that would ask too many questions. Belgina's father owed debts to men who owed debts to Bu, and through that chain of obligation, Belgina was offered up as a temporary carpenter. She took one look at the Tamzir's battered hull, fell in love with the old ship's stubborn refusal to sink, and never left. She has since performed miracles of repair that have kept the vessel seaworthy far beyond any reasonable expectation.
+Belgina came aboard [[affiliation-thetamzir|The Tamzir]] two years ago when the ship limped into Pashinar with a cracked keel and her previous carpenter dead of fever. [[being-zbzmjkdn|Zabuzum Jakuduni]], known as Bu, was desperate—the Tamzir needed repairs he could not afford, in a yard that would ask too many questions. Belgina's father owed debts to men who owed debts to Bu, and through that chain of obligation, Belgina was offered up as a temporary carpenter. She took one look at the Tamzir's battered hull, fell in love with the old ship's stubborn refusal to sink, and never left. She has since performed miracles of repair that have kept the vessel seaworthy far beyond any reasonable expectation.
 
 ## Psyche
 
@@ -444,7 +444,7 @@ Belgina is naïve about the darker aspects of the crew's work. She knows they sm
 
 ### Patrons
 
-Her father, **Jiraman Rusakuni**, remains in Pashinar and worries about her constantly. He is a respected shipwright with connections in the Taruzelian maritime guilds.
+Her father, **[Jiraman Rusakuni]{.name data-type="being/npc"}**, remains in Pashinar and worries about her constantly. He is a respected shipwright with connections in the [[lore-taruzelianclt|Taruzelian]] maritime guilds.
 
 ### Enemies
 

@@ -398,9 +398,9 @@ Alvarik Árenthar is a 41-year-old man who stands 6'2" tall and is broad and sol
 
 # Dossier {#dossier}
 
-Alvarik Árenthar is a farmer of the country above Nebralis, a port town of [[place-tarvenirgn|Tarvénia]], a Tarvenan freeman who grows wheat and barley on land his family has held for longer than anyone has a record of.
+Alvarik Árenthar is a farmer of the country above [[place-nebralis|Nebralis]], a port town of [[place-tarvenirgn|Tarvénia Region]], a [[lore-tarvenanclt|Tarvenan]] freeman who grows wheat and barley on land his family has held for longer than anyone has a record of.
 
-Alvarik holds a few fields and a run of pasture on the slope above the town that came to him from his father and will go to his son. He grows wheat and barley for the town's millers and keeps enough stock to manure the fields and feed the house. He is a good farmer by the old measure: his grain is clean, his fields are in heart, and his beasts are sound. He is a poor one by the new, because he will not change a rotation his father used or buy the Provenzian seed the millers ask for, and has borrowed against two harvests to keep from doing either. The lord whose land marches with his has been trying for years to move the boundary stone and the water-course, and Alvarik has spent money he did not have to keep both where they are.
+Alvarik holds a few fields and a run of pasture on the slope above the town that came to him from his father and will go to his son. He grows wheat and barley for the town's millers and keeps enough stock to manure the fields and feed the house. He is a good farmer by the old measure: his grain is clean, his fields are in heart, and his beasts are sound. He is a poor one by the new, because he will not change a rotation his father used or buy the [[lore-provenzianclt|Provenzian]] seed the millers ask for, and has borrowed against two harvests to keep from doing either. The lord whose land marches with his has been trying for years to move the boundary stone and the water-course, and Alvarik has spent money he did not have to keep both where they are.
 
 ## Psyche
 
@@ -418,7 +418,7 @@ Skilled in grain farming, strong and tireless, experienced with stock.
 
 ## Social
 
-Alvarik sits in the Freemen's Assembly of Nebralis, the communal assembly of the town and its country, where he has a voice and uses it.
+Alvarik sits in the [Freemen's Assembly of Nebralis]{.name data-type="affiliation/governmental"}, the communal assembly of the town and its country, where he has a voice and uses it.
 
 ## Companions
 

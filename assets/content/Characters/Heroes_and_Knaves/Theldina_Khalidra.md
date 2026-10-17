@@ -403,7 +403,7 @@ sohl:
 
 ![[theldnkhldr|Théldina Khalidra]]{float=top-left}
 
-Théldina Khalidra is beautiful in the way that a finely crafted instrument is beautiful—with purpose and precision behind every line. She is tall and slender, with rich brown hair that falls in carefully maintained waves, hazel eyes that shift between warmth and calculation with mercurial speed, and a complexion that seems untouched by the harshness of shipboard life. She moves with a dancer's grace, carries herself with effortless poise, and possesses a speaking voice of extraordinary beauty—low, musical, and commanding. She dresses in silk and velvet even aboard the Tamzir, maintaining an island of elegance amid the ship's general squalor. A superb dagger, its handle set with semiprecious stones, is the only concession to her surroundings.
+Théldina Khalidra is beautiful in the way that a finely crafted instrument is beautiful—with purpose and precision behind every line. She is tall and slender, with rich brown hair that falls in carefully maintained waves, hazel eyes that shift between warmth and calculation with mercurial speed, and a complexion that seems untouched by the harshness of shipboard life. She moves with a dancer's grace, carries herself with effortless poise, and possesses a speaking voice of extraordinary beauty—low, musical, and commanding. She dresses in silk and velvet even aboard [[affiliation-thetamzir|The Tamzir]], maintaining an island of elegance amid the ship's general squalor. A superb dagger, its handle set with semiprecious stones, is the only concession to her surroundings.
 
 # Dossier {#dossier}
 
@@ -411,7 +411,7 @@ Théldina Khalidra is beautiful in the way that a finely crafted instrument is b
 
 ### Origin
 
-Théldina was born in the Helionite city of [[place-theradon2|Theradon]], one of the great intellectual and cultural centers of the western world. The daughter of a minor noble family with more prestige than wealth, she was identified at a young age as possessing the combination of beauty, intelligence, and charm that the Helionite courtesan academies prize. At twelve, she entered the Academy of the Silver Veil, one of the most prestigious training institutions for companions in all of Ankaris.
+Théldina was born in the [[lore-helioniteclt|Helionite]] city of [[place-theradon2|Theradon]], one of the great intellectual and cultural centers of the western world. The daughter of a minor noble family with more prestige than wealth, she was identified at a young age as possessing the combination of beauty, intelligence, and charm that the Helionite courtesan academies prize. At twelve, she entered the [Academy of the Silver Veil]{.name data-type="affiliation"}, one of the most prestigious training institutions for companions in all of the [[place-ankrscntnnt|Ankaris Continent]].
 
 ### Training
 
@@ -419,7 +419,7 @@ The Academy of the Silver Veil does not produce common escorts. It produces arti
 
 ### Aboard the Tamzir
 
-Théldina's motives for choosing to travel aboard the Tamzir remain opaque, and even Captain Zabuzum does not know what a woman of her refinement is doing on a ship full of petty criminals. She claims to be traveling between clients, using the Tamzir's flexible itinerary to visit ports where her services are in demand. This is plausible but incomplete. Something drove Théldina from [[place-helionis|Helionis]], and she carries a quiet tension beneath her polished exterior that suggests she is running from something—or toward something she has not yet disclosed.
+Théldina's motives for choosing to travel aboard the Tamzir remain opaque, and even Captain [[being-zbzmjkdn|Zabuzum Jakuduni]] does not know what a woman of her refinement is doing on a ship full of petty criminals. She claims to be traveling between clients, using the Tamzir's flexible itinerary to visit ports where her services are in demand. This is plausible but incomplete. Something drove Théldina from [[place-helionis|Helionis]], and she carries a quiet tension beneath her polished exterior that suggests she is running from something—or toward something she has not yet disclosed.
 
 ### Position Aboard
 
@@ -429,7 +429,7 @@ Théldina rents a private cabin aboard the Tamzir and maintains her independence
 
 ### Personality
 
-Théldina is poised, witty, and socially devastating. She navigates conversation the way Fetar navigates reefs—with instinctive precision and a deceptive appearance of ease. She is cultured, deeply intelligent, and capable of making anyone feel like the most important person in the room. But beneath the charm is a fierce independence and a will of steel. She does not tolerate being talked down to, she maintains strict boundaries around her profession, and she can deliver a cutting remark with a smile that does not reach her eyes.
+Théldina is poised, witty, and socially devastating. She navigates conversation the way [[being-fethardhrl|Fetar Darel]] navigates reefs—with instinctive precision and a deceptive appearance of ease. She is cultured, deeply intelligent, and capable of making anyone feel like the most important person in the room. But beneath the charm is a fierce independence and a will of steel. She does not tolerate being talked down to, she maintains strict boundaries around her profession, and she can deliver a cutting remark with a smile that does not reach her eyes.
 
 ### Motivation
 
@@ -461,6 +461,6 @@ Licensed companion of the **Academy of the Silver Veil** (Helionis). Passenger a
 
 1. **The Silver Veil's Reach**: A message arrives for Théldina from the Academy—a summons she cannot easily refuse. The Academy wants something from her, and their request may conflict with the Tamzir's interests. Théldina must choose between the institution that made her and the ragged family she has unexpectedly found.
 
-2. **A Client's Dangerous Secret**: One of Théldina's former clients contacts her desperately, claiming to possess information about the Thordimalon (the Arcane Order) that could protect [[being-cibelasrnt|Kivella Serenthis]]—but only if Théldina agrees to a meeting in a Vylarian port city crawling with imperial agents. The information may be real, a trap, or both.
+2. **A Client's Dangerous Secret**: One of Théldina's former clients contacts her desperately, claiming to possess information about [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) that could protect [[being-cibelasrnt|Kivella Serenthis]]—but only if Théldina agrees to a meeting in a [[lore-vylarianclt|Vylarian]] port city crawling with imperial agents. The information may be real, a trap, or both.
 
 3. **The Mask Slips**: During a crisis aboard the Tamzir, Théldina reveals combat skills and tactical knowledge that go far beyond what a courtesan—even a well-trained one—should possess. The crew begins to question who Théldina really is, and whether her presence aboard the ship is truly coincidental.

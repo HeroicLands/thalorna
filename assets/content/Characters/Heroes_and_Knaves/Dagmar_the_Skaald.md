@@ -417,11 +417,11 @@ sohl:
 
 ![[dagmrskaald|Dagmar the Skaald]]{float=top-left}
 
-Dagmar stands 5'7\" tall with a light build. He has light skin, brown hair, and green eyes. His features include a prominent nose, a firm-set mouth, heavy brows, flat cheeks.
+Dagmar the Skaald stands 5'7\" tall with a light build. He has light skin, brown hair, and green eyes. His features include a prominent nose, a firm-set mouth, heavy brows, flat cheeks.
 
 # Dossier {#dossier}
 
-Dagmar is a skald from the far northern reaches of [[place-norgaad|Norgaad]], where he wandered from clan to clan, composing songs and telling tales of great heroes and battles. He is clanless, having been exiled for an unknown crime—though some whisper that he had an affair with a powerful lord’s wife, others say he was involved in a conspiracy against his clan. [[being-grosdrnrgd|Groa]] met Dagmar at a village blet, where the skald’s sharp wit and knowledge of ancient lore impressed her. Dagmar’s songs often contain veiled warnings and prophecies, hinting at the deeper wisdom he possesses.
+Dagmar is a skald from the far northern reaches of [[place-norgaad|Norgaad]], where he wandered from clan to clan, composing songs and telling tales of great heroes and battles. He is clanless, having been exiled for an unknown crime—though some whisper that he had an affair with a powerful lord’s wife, others say he was involved in a conspiracy against his clan. [[being-grosdrnrgd|Groa the Seid of Norgaad]] met Dagmar at a village blet, where the skald’s sharp wit and knowledge of ancient lore impressed her. Dagmar’s songs often contain veiled warnings and prophecies, hinting at the deeper wisdom he possesses.
 
 ## Background
 

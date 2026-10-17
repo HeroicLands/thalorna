@@ -402,7 +402,7 @@ Kusadan Yushudum is a 38-year-old man who stands 6'0" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Kusadan Yushudum is a glassworker of Sharimun, in Taruzel, a Taruzelian freeman who has worked his father's furnace-house since he was a boy.
+Kusadan Yushudum is a glassworker of [[place-sharimun|Sharimun]], in the [[place-taruzelrgn|Taruzel Region]], a [[lore-taruzelianclt|Taruzelian]] freeman who has worked his father's furnace-house since he was a boy.
 
 Kusadan learned window panes and bottles from his father and then went past them, into blown vessels, figured lamps and the glass sculptures—birds, ships, a hand—that the guild families of Sharimun buy to stand in their halls. He loves the making and is bad at everything else about a shop. The books are behind, the apprentices are paid late, and the price he names is usually less than the work is worth. The furnace has burned him a dozen times and his hands are scarred from wrist to fingertip; a bad burn costs the shop a month, and the shop cannot always afford a month.
 
@@ -422,7 +422,7 @@ Skilled in glassblowing and sculpture, inventive, painstaking with a piece once 
 
 ## Social
 
-Kusadan holds his license from the Glassworkers' Guild of Sharimun and is behind on its dues.
+Kusadan holds his license from the [Glassworkers' Guild of Sharimun]{.name data-type="affiliation/guild"} and is behind on its dues.
 
 ## Companions
 
@@ -442,4 +442,4 @@ Rival glassworkers of the port who want the guild houses' commissions and are be
 
 3. **The Partner**—A merchant of the port has offered to take over the shop's books and its debts for a half share, which would keep the furnace lit and put a stranger's name on his father's door.
 
-4. **A Piece for the Compact**—An officer of the Auric Compact has commissioned a glass ship from Kusadan as a gift for the Grand Council and has made clear that the Compact does not accept excuses.
+4. **A Piece for the Compact**—An officer of the [[affiliation-auricompct|Auric Compact]] has commissioned a glass ship from Kusadan as a gift for the [Grand Council]{.name data-type="affiliation/governmental"} and has made clear that the Compact does not accept excuses.

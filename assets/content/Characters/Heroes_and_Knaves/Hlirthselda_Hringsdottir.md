@@ -422,11 +422,11 @@ sohl:
 
 ![[hlrthsldhrngsdtr|Hlirthselda Hringsdottir]]{float=top-left}
 
-Hlirthselda is 5’10" with a strong, athletic build, weighing about 180 pounds. Her fiery red hair is kept short, and her green eyes burn with the passion of a seasoned warrior. Her facial features are rugged but attractive, with a square jaw and a broad nose. Her scarred cheek adds to her warlike appearance. She wears chainmail and carries her round shield and axe.
+Hlirthselda Hringsdottir is 5’10" with a strong, athletic build, weighing about 180 pounds. Her fiery red hair is kept short, and her green eyes burn with the passion of a seasoned warrior. Her facial features are rugged but attractive, with a square jaw and a broad nose. Her scarred cheek adds to her warlike appearance. She wears chainmail and carries her round shield and axe.
 
 # Dossier {#dossier}
 
-Hlirthselda is a fierce warrior from the trading town of [[place-vrathavn|Vrathavn]], a town known for its warlike traditions and its ships of raiders. Born into a warrior clan, Hlirthselda was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting [[place-norgaad|Norgaad]]’s coastlines from invaders and raiders. Hlirthselda first encountered [[being-grosdrnrgd|Groa]] during a battle with [[affiliation-kingdmtrgd|Targud]] raiders. [[being-grosdrnrgd|Groa]]’s strange powers and ability to foresee the movements of the enemy saved Hlirthselda’s warband and won her respect.
+Hlirthselda is a fierce warrior from the trading town of [[place-vrathavn|Vrathavn]], a town known for its warlike traditions and its ships of raiders. Born into a warrior clan, Hlirthselda was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting [[place-norgaad|Norgaad]]’s coastlines from invaders and raiders. Hlirthselda first encountered [[being-grosdrnrgd|Groa the Seid of Norgaad]] during a battle with raiders from the [[affiliation-kingdmtrgd|Kingdom of Targud]]. [[being-grosdrnrgd|Groa]]’s strange powers and ability to foresee the movements of the enemy saved Hlirthselda’s warband and won her respect.
 
 ## Background
 

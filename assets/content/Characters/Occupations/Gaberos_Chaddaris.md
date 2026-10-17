@@ -369,11 +369,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Gáberos stands 5'9" with a light, lean build—narrow in the shoulders and spare in the limbs, the frame of a runner rather than a brawler. His dark brown hair is thinning at the crown and kept cropped close, and his warm brown eyes are set in a bronzed, warm-skinned face that carries the permanent squint of a man who has spent decades patrolling sun-baked Helionite streets. His features are sharp and angular: a hawkish nose, prominent cheekbones, a thin-lipped mouth above a clean-shaven chin. At thirty-nine, he moves with a careful economy that suggests old injuries he does not discuss. He wears a light linen tunic over padded armor, sandals rather than boots in the Helionite fashion, and carries a short sword and wooden truncheon on a worn leather belt.
+Gáberos Chaddaris stands 5'9" with a light, lean build—narrow in the shoulders and spare in the limbs, the frame of a runner rather than a brawler. His dark brown hair is thinning at the crown and kept cropped close, and his warm brown eyes are set in a bronzed, warm-skinned face that carries the permanent squint of a man who has spent decades patrolling sun-baked [[lore-helioniteclt|Helionite]] streets. His features are sharp and angular: a hawkish nose, prominent cheekbones, a thin-lipped mouth above a clean-shaven chin. At thirty-nine, he moves with a careful economy that suggests old injuries he does not discuss. He wears a light linen tunic over padded armor, sandals rather than boots in the Helionite fashion, and carries a short sword and wooden truncheon on a worn leather belt.
 
 # Dossier {#dossier}
 
-Gáberos was born into a scholarly family in [[place-helionis|Helionis]] and spent his early years surrounded by philosophy, rhetoric, and intellectual discourse. His father was a minor scholar at [[affiliation-panepistmm|the Epistémion]]. Gáberos was educated beyond most soldiers' expectations but discovered early that pure intellectual work did not satisfy him—he wanted to apply knowledge to practical problems. At twenty, he joined the agorin patrol, the city guard detail responsible for maintaining order in Helionis's central marketplace and intellectual gathering spaces.
+Gáberos was born into a scholarly family in [[place-helionis|Helionis]] and spent his early years surrounded by philosophy, rhetoric, and intellectual discourse. His father was a minor scholar at [[affiliation-panepistmm|Epistémion]]. Gáberos was educated beyond most soldiers' expectations but discovered early that pure intellectual work did not satisfy him—he wanted to apply knowledge to practical problems. At twenty, he joined the agorin patrol, the city guard detail responsible for maintaining order in Helionis's central marketplace and intellectual gathering spaces.
 
 The agorin patrol is different from other city guard work. It requires the ability to understand complex commercial disputes, recognize when intellectual debate is beginning to shift into incitement to violence, manage both merchants and philosophers with equal authority. Gáberos thrived in this role. He became known as the guard who would explain the law instead of merely enforcing it, who would engage in actual discussion rather than wielding authority blindly.
 
@@ -401,11 +401,11 @@ Gáberos is fully integrated into Helionis's intellectual and commercial establi
 
 ### Patrons
 
-**Master Academician Theron Philosophos**—A senior scholar at the Epistémion (the Academy of Knowledge) who has mentored Gáberos intellectually and has become his patron within the academy. Theron sees that Gáberos has access to scholarly resources and support for his continued intellectual development alongside his guard work.
+**Master Academician [Theron Philosophos]{.name data-type="being/npc"}**—A senior scholar at the Epistémion (the Academy of Knowledge) who has mentored Gáberos intellectually and has become his patron within the academy. Theron sees that Gáberos has access to scholarly resources and support for his continued intellectual development alongside his guard work.
 
 ### Enemies
 
-**Merchant Lord Dókhares Fadiros**—A wealthy merchant who has been engaged in systematic fraud within the agorin marketplace—misrepresenting goods and engaging in deceptive practices. Gáberos has been aware of the fraud but lacks sufficient evidence for legal prosecution. Dókhares views Gáberos as an obstacle and has begun working to discredit him through rumors of bias and prejudicial treatment.
+**Merchant Lord [[being-dokharesfadi|Dókhares Fadiros]]**—A wealthy merchant who has been engaged in systematic fraud within the agorin marketplace—misrepresenting goods and engaging in deceptive practices. Gáberos has been aware of the fraud but lacks sufficient evidence for legal prosecution. Dókhares views Gáberos as an obstacle and has begun working to discredit him through rumors of bias and prejudicial treatment.
 
 ## Plot Hooks
 
@@ -413,7 +413,7 @@ Gáberos is fully integrated into Helionis's intellectual and commercial establi
 
 2. **The Philosophical Extremist**—A charismatic philosopher begins gathering followers in the agorin and delivering speeches that are technically legal but are clearly inciting social unrest and potentially violence against the merchant community. Gáberos cannot arrest him for speech alone, but he can see that the situation is escalating toward actual conflict. He is in a difficult position: prevent speech to maintain order, or maintain free expression and risk violence.
 
-3. **The Student's Tragedy**—A young scholar, **Kevia**, becomes involved with a merchant involved in slavery. Gáberos recognizes the situation but the student is an adult and technically making choices freely. He attempts to warn Kevia, but she resents his interference and begins spreading rumors that he is abusing his authority to prevent her from making personal choices. Gáberos is caught between warning her against actual danger and respecting her autonomy.
+3. **The Student's Tragedy**—A young scholar, **[Kevia]{.name data-type="being/npc"}**, becomes involved with a merchant involved in slavery. Gáberos recognizes the situation but the student is an adult and technically making choices freely. He attempts to warn Kevia, but she resents his interference and begins spreading rumors that he is abusing his authority to prevent her from making personal choices. Gáberos is caught between warning her against actual danger and respecting her autonomy.
 
 4. **The Merchant Council's Pressure**—The merchant council approaches Gáberos with pressure to be more aggressive in suppressing protesting workers and philosophers who are criticizing merchant practices. They are using political pressure and threatening to have him reassigned if he does not comply. Gáberos believes the protesters have legitimate grievances but is being pressured to silence them through guard authority.
 

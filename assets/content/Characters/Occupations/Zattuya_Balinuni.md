@@ -395,7 +395,7 @@ Zattuya Balinuni is a 31-year-old woman who stands 6'0" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Zattuya Balinuni is a timberwright of Sazumun, the port city at the mouth of the [[place-alzriver|Alz River]] in Taruzel, a Taruzelian freewoman who chooses the standing trees that become the city's ships and furniture.
+Zattuya Balinuni is a timberwright of [[place-sazumun2|Sazumun]], the port city at the mouth of the [[place-alzriver|Alz River]] in the [[place-taruzelrgn|Taruzel Region]], a [[lore-taruzelianclt|Taruzelian]] freewoman who chooses the standing trees that become the city's ships and furniture.
 
 Zattuya was born to timberwrights in the hill woods up the Alz valley, where the family has cut for three generations. Her work begins before the axe: she walks a stand, reads the lean of a trunk and the run of its grain, and marks which tree will make a keel, which a mast, which a chest, and which will split in the seasoning. The shipwrights of Sazumun have learned that a stem with her mark on it does not surprise them on the saw-bench. She will not mark a tree she has doubts about, which the shipwrights value and the timber-dealers do not.
 
@@ -417,7 +417,7 @@ Skilled at choosing and working timber, knows the trees of the Alz woods.
 
 ## Social
 
-Zattuya is registered as a master with the Timberwrights' Compact of Sazumun, chartered under the Vezakuni, and sits at the bottom of its seniority.
+Zattuya is registered as a master with the [Timberwrights' Compact of Sazumun]{.name data-type="affiliation/guild"}, chartered under the [[affiliation-vezakuni|Vezakuni]], and sits at the bottom of its seniority.
 
 ## Companions
 
@@ -437,4 +437,4 @@ The vezakum of the compact, an old timber-dealer who has said in council that a 
 
 3. **The Examination**—The compact has called Zattuya to re-examination on a complaint about her marks. The complaint is the vezakum's, and the examiners are his.
 
-4. **The Factors' Timber**—The House of Factors has contracted for cheap ship-timber from over the sea, and the shipwrights have been told to use it. Zattuya would not mark a tree like it.
+4. **The Factors' Timber**—The [House of Factors]{.name data-type="affiliation/governmental"} has contracted for cheap ship-timber from over the sea, and the shipwrights have been told to use it. Zattuya would not mark a tree like it.

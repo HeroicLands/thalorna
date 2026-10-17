@@ -414,15 +414,15 @@ sohl:
 
 ![[dornsyndlr|Doren Sindalre]]{float=top-left}
 
-Doren is a towering man of twenty-eight, standing six foot four with a heavy, muscular frame and olive-toned skin marked by battle scars. A deep, ragged scar runs diagonally across his left cheek. His short black hair and gray eyes give him a hard, uncompromising look. There is nothing subtle about him, and he would not want there to be.
+Doren Sindalre is a towering man of twenty-eight, standing six foot four with a heavy, muscular frame and olive-toned skin marked by battle scars. A deep, ragged scar runs diagonally across his left cheek. His short black hair and gray eyes give him a hard, uncompromising look. There is nothing subtle about him, and he would not want there to be.
 
 # Dossier {#dossier}
 
-Doren hails from the rugged highlands of [[place-provenzrgn|Provenzia]], where he was once a farmer. That life ended when his village was raided and destroyed during a border skirmish. With nothing left—no home, no family, no reason to stay—he joined a local militia to seek vengeance. He quickly rose through the ranks on the strength of his raw physical power and his utter fearlessness in battle.
+Doren hails from the rugged highlands of the [[place-provenzrgn|Provenzia Region]], where he was once a farmer. That life ended when his village was raided and destroyed during a border skirmish. With nothing left—no home, no family, no reason to stay—he joined a local militia to seek vengeance. He quickly rose through the ranks on the strength of his raw physical power and his utter fearlessness in battle.
 
-His reputation as a fighter drew the attention of Branval, who recruited him into the [[affiliation-slntlncmpny|Silent Talon]] for his resilience and brute force. Doren has been with the band ever since, finding in it the family he lost. He fights with an axe and shield in the old highland style—direct, brutal, and unrelenting.
+His reputation as a fighter drew the attention of [[being-branwldrgr|Branval Dorgal]], who recruited him into [[affiliation-slntlncmpny|The Silent Talon Company]] for his resilience and brute force. Doren has been with the band ever since, finding in it the family he lost. He fights with an axe and shield in the old highland style—direct, brutal, and unrelenting.
 
-Doren is not a complicated man. He does not care for politics, subtlety, or the kind of scheming that occupies people like Tornis. War is simple: protect those who fight with you, kill those who stand against you. He says what he means, does what he says, and asks nothing more of the world than a place to stand and someone worth standing beside.
+Doren is not a complicated man. He does not care for politics, subtlety, or the kind of scheming that occupies people like [[being-torniskbry|Tornis Kubri]]. War is simple: protect those who fight with you, kill those who stand against you. He says what he means, does what he says, and asks nothing more of the world than a place to stand and someone worth standing beside.
 
 ## Background
 
@@ -453,9 +453,9 @@ Doren seeks stability after losing his family and home. He has little desire for
 
 ## Companions
 
-- [[being-branwldrgr|Branval Dorgal]]: Captain of the Silent Talon. Koris respects Branval's competence and follows his orders without question.
-- [[being-elyseskyrn|Élithe Sarneth]]: Fellow band member. Koris is protective of her.
-- [[being-torniskbry|Tornis Kubri]]: Fellow band member. Koris finds Tornis's evasiveness mildly irritating but trusts him in the field.
+- [[being-branwldrgr|Branval Dorgal]]: Captain of the Silent Talon. Doren respects Branval's competence and follows his orders without question.
+- [[being-elyseskyrn|Élithe Sarneth]]: Fellow band member. Doren is protective of her.
+- [[being-torniskbry|Tornis Kubri]]: Fellow band member. Doren finds Tornis's evasiveness mildly irritating but trusts him in the field.
 - [[being-chlbrhydyn|Chelebe Riddin]]: Fellow band member. A quiet mutual respect between two men who prefer actions to words.
 
 ### Patrons

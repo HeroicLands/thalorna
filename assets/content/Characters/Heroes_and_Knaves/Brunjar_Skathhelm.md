@@ -400,11 +400,11 @@ sohl:
 
 ![[brunjarskathhel|Brunjár yra Skathhelm wur Druthholt]]{float=top-left}
 
-Brunjár yra Skathhelm wur Druthholt looks like what he is: a boy who ended up in a bad place and is in over his head. He has a round, freckled face that makes him look sixteen rather than twenty-two, with hazel eyes that dart nervously and never quite meet anyone's gaze. His brown hair is shaggy and unkempt, and he has the soft, unfinished look of someone who has not yet grown fully into his frame. He wears a homespun tunic and leather shoes—the worst-equipped member of the gang—and carries a club, a dagger, and a sling with a pouch of stones. He fidgets constantly, picking at his nails, shifting his weight, tugging at his sleeves. He is the member of the Blackpine Wolves that victims remember as "the one who looked like he didn't want to be there."
+Brunjár yra Skathhelm wur Druthholt looks like what he is: a boy who ended up in a bad place and is in over his head. He has a round, freckled face that makes him look sixteen rather than twenty-two, with hazel eyes that dart nervously and never quite meet anyone's gaze. His brown hair is shaggy and unkempt, and he has the soft, unfinished look of someone who has not yet grown fully into his frame. He wears a homespun tunic and leather shoes—the worst-equipped member of the gang—and carries a club, a dagger, and a sling with a pouch of stones. He fidgets constantly, picking at his nails, shifting his weight, tugging at his sleeves. He is the member of [[affiliation-blckpnwlvs|The Blackpine Wolves]] that victims remember as "the one who looked like he didn't want to be there."
 
 # Dossier {#dossier}
 
-Brunjár grew up in a small Varokh village not far from Dagbán's own birthplace, the son of a herdsman and a weaver. His was an unremarkable childhood—poor but not desperate, with parents who tried their best and an older sister who looked out for him. He was never strong or brave, but he was observant, good with animals, and a fair hand with a sling from years of chasing crows out of the barley fields.
+Brunjár grew up in a small [[lore-varokhiclt|Varokhi]] village not far from [[being-dagulfvthr|Dagbán yra Vethar wur Thrareth]]'s own birthplace, the son of a herdsman and a weaver. His was an unremarkable childhood—poor but not desperate, with parents who tried their best and an older sister who looked out for him. He was never strong or brave, but he was observant, good with animals, and a fair hand with a sling from years of chasing crows out of the barley fields.
 
 His trouble began when his father was accused of stealing a neighbor's ram—a charge that was true, as it happened, though born of desperation during a hard winter. The village's Other Chief ordered a beating that left his father crippled, and the family's small holding was forfeit. Brunjár's mother died of fever the following spring, and his sister married into another village to survive. At seventeen, alone and landless, Brunjár drifted into poaching, then petty theft, and finally stumbled into Dagbán's orbit when the gang raided a caravan Brunjár happened to be robbing at the same time.
 
@@ -418,7 +418,7 @@ Brunjár is the gang's primary lookout and scout. His perception is good, he mov
 
 ### Personality
 
-Brunjár is anxious, guilt-ridden, and desperately unhappy. He is not a bad person—he has empathy, a functioning conscience, and the moral awareness to know that what the gang does is wrong. He simply lacks the will to leave and the courage to resist. He is eager to please and quick to obey, which makes him useful to Dagbán but contemptible to Skathilda. He talks too much when nervous, apologizes compulsively, and sleeps badly.
+Brunjár is anxious, guilt-ridden, and desperately unhappy. He is not a bad person—he has empathy, a functioning conscience, and the moral awareness to know that what the gang does is wrong. He simply lacks the will to leave and the courage to resist. He is eager to please and quick to obey, which makes him useful to Dagbán but contemptible to [[being-skthldfrdbn|Skathilda yra Frodbán wur Vandgrund]]. He talks too much when nervous, apologizes compulsively, and sleeps badly.
 
 ### Motivation
 
@@ -432,7 +432,7 @@ His perception and stealth make him a useful scout. His empathy, though it torme
 
 ## Companions
 
-The Blackpine Wolves, reluctantly. Thrawald ignores him. Skathilda openly despises him. Dagbán uses him. He finds the company of the gang's dogs and horses more tolerable than the company of its men.
+The Blackpine Wolves, reluctantly. [[being-thrwldhldskrn|Thrawald yra Hildskorn wur Thrastein]] ignores him. Skathilda openly despises him. Dagbán uses him. He finds the company of the gang's dogs and horses more tolerable than the company of its men.
 
 ### Patrons
 
@@ -440,7 +440,7 @@ None.
 
 ### Enemies
 
-No personal enemies beyond those the gang has made collectively. His sister, Hildara, married into a village two days' walk south and does not know what her brother has become.
+No personal enemies beyond those the gang has made collectively. His sister, [Hildara]{.name data-type="being/npc"}, married into a village two days' walk south and does not know what her brother has become.
 
 ## Plot Hooks
 

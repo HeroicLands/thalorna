@@ -361,7 +361,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Krildthann stands 6'0" with a broad, solidly built frame, weighing about 210 pounds. His light skin is ruddy and weather-beaten, and his brown hair is kept short and practical. His hazel eyes are gentle and steady, surprisingly soft for a man of his martial reputation. His features are plain and honest, with a wide face, a blunt nose, a square chin, and a mouth that settles naturally into a mild, approachable expression. His arms and the backs of his hands are scarred from deflecting countless blows, and his shoulders are visibly overdeveloped from years of bearing his massive iron-bound shield. He wears a well-maintained mail byrnie over a padded gambeson and carries the great shield—nearly as tall as he is—strapped to his left arm at almost all times. A simple sword hangs at his hip, clearly secondary to the shield that defines him.
+Krildthann Shieldbearer stands 6'0" with a broad, solidly built frame, weighing about 210 pounds. His light skin is ruddy and weather-beaten, and his brown hair is kept short and practical. His hazel eyes are gentle and steady, surprisingly soft for a man of his martial reputation. His features are plain and honest, with a wide face, a blunt nose, a square chin, and a mouth that settles naturally into a mild, approachable expression. His arms and the backs of his hands are scarred from deflecting countless blows, and his shoulders are visibly overdeveloped from years of bearing his massive iron-bound shield. He wears a well-maintained mail byrnie over a padded gambeson and carries the great shield—nearly as tall as he is—strapped to his left arm at almost all times. A simple sword hangs at his hip, clearly secondary to the shield that defines him.
 
 # Dossier {#dossier}
 
@@ -395,13 +395,13 @@ Krildthann's defensive combat style is nearly impenetrable; his ability to read 
 
 ### Enemies
 
-**The Blackfang Company**—The remnants of the mercenary band whose leader Krildthann slew. They have reorganized under new leadership and seek revenge.
+**[The Blackfang Company]{.name data-type="affiliation/venture"}**—The remnants of the mercenary band whose leader Krildthann slew. They have reorganized under new leadership and seek revenge.
 
-**Jarl Vruldorv the Cruel**—A tyrant who views Krildthann's protection of the weak as an implicit challenge to his authority and has declared him an outlaw in his territory.
+**Jarl [[being-vruldorvthec|Vruldorv the Cruel]]**—A tyrant who views Krildthann's protection of the weak as an implicit challenge to his authority and has declared him an outlaw in his territory.
 
 ## Plot Hooks
 
-1. **The Unbreakable Shield**—Krildthann's blessed shield has developed a crack for the first time. The priests of Eidgar believe it is a sign that the god is testing Krildthann's faith, or that a great evil is approaching that even divine protection cannot fully withstand.
+1. **The Unbreakable Shield**—Krildthann's blessed shield has developed a crack for the first time. The priests of the [[affiliation-eidgar|Faith of Eidgar]] believe it is a sign that the god is testing Krildthann's faith, or that a great evil is approaching that even divine protection cannot fully withstand.
 
 2. **The Siege of [[place-driskborg|Draskborg]]**—A fortress protecting refugees has come under siege by a vastly superior force. Krildthann must organize the defense and hold the walls long enough for reinforcements to arrive—if they come at all.
 

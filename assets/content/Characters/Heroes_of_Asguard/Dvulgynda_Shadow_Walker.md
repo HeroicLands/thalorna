@@ -361,13 +361,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Dvulginda stands 5'4" with a slight, compact frame, weighing about 115 pounds. Her pale skin rarely sees full sunlight, and her dark brown hair is cropped close to her skull for practicality. Her gray eyes are watchful and still, revealing nothing—the eyes of someone who has spent a lifetime observing without being observed. Her features are fine and unremarkable, with a narrow face, a small nose, thin lips, and dark brows set in a permanently neutral expression that gives away nothing of her thoughts. She moves with preternatural silence, each step placed with the precision of a cat stalking prey, and her small stature makes her easy to overlook, which suits her perfectly. Dvulginda wears dark, close-fitting leather armor designed for silence rather than protection, with soft-soled boots and a hooded cloak of deep charcoal. She carries no visible weapons, though blades are concealed in at least four places on her person.
+Dvulginda Shadow-Walker stands 5'4" with a slight, compact frame, weighing about 115 pounds. Her pale skin rarely sees full sunlight, and her dark brown hair is cropped close to her skull for practicality. Her gray eyes are watchful and still, revealing nothing—the eyes of someone who has spent a lifetime observing without being observed. Her features are fine and unremarkable, with a narrow face, a small nose, thin lips, and dark brows set in a permanently neutral expression that gives away nothing of her thoughts. She moves with preternatural silence, each step placed with the precision of a cat stalking prey, and her small stature makes her easy to overlook, which suits her perfectly. Dvulginda wears dark, close-fitting leather armor designed for silence rather than protection, with soft-soled boots and a hooded cloak of deep charcoal. She carries no visible weapons, though blades are concealed in at least four places on her person.
 
 # Dossier {#dossier}
 
-Dvulginda was born with a talent for stealth and misdirection, traits that served her well in a world where strength was often valued above all else. She learned early on that her sharp mind and quick reflexes could be just as powerful as any sword, and she honed her skills as a thief and spy. Dvulginda's natural affinity for slipping unnoticed through the shadows and her ability to play people against one another caught the attention of Velgrímr, who saw in her a kindred spirit and began to guide her toward greater and more daring exploits.
+Dvulginda was born with a talent for stealth and misdirection, traits that served her well in a world where strength was often valued above all else. She learned early on that her sharp mind and quick reflexes could be just as powerful as any sword, and she honed her skills as a thief and spy. The tales tell how Dvulginda's natural affinity for slipping unnoticed through the shadows and her ability to play people against one another caught the attention of [[lore-velgrimrdty|Velgrímr]], who saw in her a kindred spirit and began to guide her toward greater and more daring exploits.
 
-The saga of Dvulginda Shadow-Walker tells of her greatest heist, in which she stole the Crown of Ages from the well-guarded vault of a powerful jarl. The crown, said to grant its wearer immense wisdom and longevity, was kept under constant watch. Dvulginda infiltrated the jarl's keep, bypassing every obstacle with Velgrímr's cunning, played the guards against one another, and used the jarl's own weaknesses to reach the vault. When she finally had the Crown of Ages, she did not keep it—she left it with a rival jarl, knowing the resulting conflict would plunge the region into chaos. As the two jarls fought for control of the crown, Dvulginda vanished into the shadows.
+The saga of Dvulginda Shadow-Walker tells of her greatest heist, in which she stole the [Crown of Ages]{.name data-type="miscgear"} from the well-guarded vault of a powerful jarl. The crown, said to grant its wearer immense wisdom and longevity, was kept under constant watch. Dvulginda infiltrated the jarl's keep, bypassing every obstacle with Velgrímr's cunning, played the guards against one another, and used the jarl's own weaknesses to reach the vault. When she finally had the Crown of Ages, she did not keep it—she left it with a rival jarl, knowing the resulting conflict would plunge the region into chaos. As the two jarls fought for control of the crown, Dvulginda vanished into the shadows.
 
 ## Psyche
 
@@ -389,13 +389,13 @@ Dvulginda's stealth abilities border on the supernatural; she can move through g
 
 ### Patrons
 
-**The Shadow Market**—An underground network of thieves, fences, and information brokers who provide Dvulginda with contracts, intelligence, and a market for her acquisitions.
+**[The Shadow Market]{.name data-type="affiliation/criminal"}**—An underground network of thieves, fences, and information brokers who provide Dvulginda with contracts, intelligence, and a market for her acquisitions.
 
-[[lore-velgrimrdty|Velgrímr]]—The god of cunning takes a personal interest in Dvulginda's exploits, occasionally providing supernatural aid in the form of enhanced stealth or lucky coincidences.
+[[lore-velgrimrdty|Velgrímr]]—In the tales, the god of cunning takes a personal interest in Dvulginda's exploits, occasionally providing supernatural aid in the form of enhanced stealth or lucky coincidences.
 
 ### Enemies
 
-**Jarl Gnirthvir the Vengeful**—The jarl from whom Dvulginda stole the Crown of Ages. He has dedicated considerable resources to finding and punishing her, including hiring the most skilled trackers in the north.
+**Jarl [[being-gnirthvirthe|Gnirthvir the Vengeful]]**—The jarl from whom Dvulginda stole the Crown of Ages. He has dedicated considerable resources to finding and punishing her, including hiring the most skilled trackers in the north.
 
 **The Crown of Ages itself**—The artifact is rumored to be semi-sentient and to bear a grudge against those who steal it. Strange misfortunes have plagued Dvulginda since the heist.
 

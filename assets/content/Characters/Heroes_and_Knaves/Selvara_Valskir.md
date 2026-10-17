@@ -416,19 +416,19 @@ Sélvara Valskir is a striking woman—tall, dark-skinned, and built with the le
 
 ### Origin
 
-Sélvara was born in a coastal village in northern [[place-tarvenirgn|Tarvénia]], the daughter of fishermen. Life was hard but stable until she was fourteen, when Vylarian imperial forces raided her village searching for Tarvenan rebels. Zabuzum Jakuduni—then a young rebel scout—was hiding in her father's boathouse. When Sélvara went to warn him, an imperial soldier followed. What happened next forged a bond between them that neither war nor the years since have broken. She killed the soldier with a gutting knife. She was fourteen years old.
+Sélvara was born in a coastal village in the northern [[place-tarvenirgn|Tarvénia Region]], the daughter of fishermen. Life was hard but stable until she was fourteen, when [[lore-vylarianclt|Vylarian]] imperial forces raided her village searching for [[lore-tarvenanclt|Tarvenan]] rebels. [[being-zbzmjkdn|Zabuzum Jakuduni]], known as Bu—then a young rebel scout—was hiding in her father's boathouse. When Sélvara went to warn him, an imperial soldier followed. What happened next forged a bond between them that neither war nor the years since have broken. She killed the soldier with a gutting knife. She was fourteen years old.
 
 ### The War
 
-Sélvara joined the Taruzelian rebellion the same night, following Bu into a conflict that would consume the next four years of her life. She proved to be a natural warrior—disciplined, fearless, and relentlessly competent. Where Bu led with charisma and tactical cunning, Sélvara was the steady hand that turned his plans into reality. She fought in the brutal Battle of [[place-tamzirshoals|Tamzir Shoals]], where she earned a reputation for cold-blooded steadiness under fire. By the war's end, she was a hardened veteran at eighteen.
+Sélvara joined the [[lore-taruzelianclt|Taruzelian]] rebellion the same night, following Bu into a conflict that would consume the next four years of her life. She proved to be a natural warrior—disciplined, fearless, and relentlessly competent. Where Bu led with charisma and tactical cunning, Sélvara was the steady hand that turned his plans into reality. She fought in the brutal [Battle of Tamzir Shoals]{.name data-type="lore/history"} at [[place-tamzirshoals|Tamzir Shoals]], where she earned a reputation for cold-blooded steadiness under fire. By the war's end, she was a hardened veteran at eighteen.
 
 ### After the War
 
-When the merchant guilds seized power and the revolution's ideals collapsed, Sélvara followed Bu without hesitation. She had no illusions about politics and never had—she fought for people, not causes. When Bu bought the Tamzir and offered her the position of first mate, she accepted with a single nod. She has held the position for twelve years, running the ship with authority and serving as the crew's anchor when Bu's temper or recklessness threatens to capsize them all.
+When the merchant guilds seized power and the revolution's ideals collapsed, Sélvara followed Bu without hesitation. She had no illusions about politics and never had—she fought for people, not causes. When Bu bought [[affiliation-thetamzir|The Tamzir]] and offered her the position of first mate, she accepted with a single nod. She has held the position for twelve years, running the ship with authority and serving as the crew's anchor when Bu's temper or recklessness threatens to capsize them all.
 
 ### Marriage
 
-Three years ago, Sélvara married [[being-fethardhrl|Fetar Darel]], the Tamzir's pilot, in a dockside ceremony in [[place-provenzrgn|Provenzia]]. The match surprised everyone except Bu, who had seen it coming for years. Fetar's irreverent humor and warmth complement Sélvara's reserve, and the marriage is a happy one—a rare point of softness in her otherwise hard-edged life.
+Three years ago, Sélvara married [[being-fethardhrl|Fetar Darel]], the Tamzir's pilot, in a dockside ceremony in the [[place-provenzrgn|Provenzia Region]]. The match surprised everyone except Bu, who had seen it coming for years. Fetar's irreverent humor and warmth complement Sélvara's reserve, and the marriage is a happy one—a rare point of softness in her otherwise hard-edged life.
 
 ## Psyche
 
@@ -442,7 +442,7 @@ Sélvara's motivations are simple and fierce: protect the people she loves. The 
 
 ### Strengths
 
-She is one of the finest fighters on the Vylarian Sea—a devastating close-quarters combatant with sword, axe, or bare hands. Her tactical awareness is superb, and she manages the crew with a firmness that keeps the Tamzir running. She is virtually unshakeable under pressure.
+She is one of the finest fighters on the [[place-vylarianse|Vylarian Sea]]—a devastating close-quarters combatant with sword, axe, or bare hands. Her tactical awareness is superb, and she manages the crew with a firmness that keeps the Tamzir running. She is virtually unshakeable under pressure.
 
 ### Weaknesses
 

@@ -361,11 +361,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Skalforv stands 6'3" with a broad, powerfully built frame, weighing about 230 pounds. His fair skin is ruddy from a life spent in the open, and his dark blonde hair falls to his shoulders, often loose and wind-tangled. His blue eyes are bright and direct, holding a warmth that belies his fearsome reputation. His features are strong and open, with a square jaw, a broad nose, deep-set eyes, and a wide mouth that breaks easily into a booming laugh. A jagged scar resembling a lightning bolt runs down his left arm from shoulder to wrist, and the air around him seems to crackle faintly during storms. Skalforv wears a byrnie of heavy mail over quilted padding, with a wolfskin cloak thrown across his shoulders. He carries a massive warhammer that most men could not lift with two hands, and a round shield bearing the thunderbolt sigil of [[lore-thrunvalddty|Thrunvald]].
+Skalforv Thunderstrike stands 6'3" with a broad, powerfully built frame, weighing about 230 pounds. His fair skin is ruddy from a life spent in the open, and his dark blonde hair falls to his shoulders, often loose and wind-tangled. His blue eyes are bright and direct, holding a warmth that belies his fearsome reputation. His features are strong and open, with a square jaw, a broad nose, deep-set eyes, and a wide mouth that breaks easily into a booming laugh. A jagged scar resembling a lightning bolt runs down his left arm from shoulder to wrist, and the air around him seems to crackle faintly during storms. Skalforv wears a byrnie of heavy mail over quilted padding, with a wolfskin cloak thrown across his shoulders. He carries a massive warhammer that most men could not lift with two hands, and a round shield bearing the thunderbolt sigil of [[lore-thrunvalddty|Thrunvald]].
 
 # Dossier {#dossier}
 
-Skalforv was born during a ferocious thunderstorm, a sign that Thrunvald had blessed him from birth. As a child, he displayed an unnatural affinity for storms, often climbing the tallest hills to watch lightning dance across the sky. By the time he was a man, Skalforv had become a warrior of unmatched strength and ferocity, his hammer blows echoing like thunder across the battlefield. He was known for his fearlessness in the face of danger and his unwavering dedication to Thrunvald, whom he believed guided his every action.
+Skalforv was born during a ferocious thunderstorm, taken as a sign that Thrunvald had blessed him from birth. As a child, he displayed an unnatural affinity for storms, often climbing the tallest hills to watch lightning dance across the sky. By the time he was a man, Skalforv had become a warrior of unmatched strength and ferocity, his hammer blows echoing like thunder across the battlefield. He was known for his fearlessness in the face of danger and his unwavering dedication to Thrunvald, whom he believed guided his every action.
 
 The most famous saga of Skalforv Thunderstrike tells of his battle against the Sea Serpent [[lore-heimsormr|Heimsormr]], a creature so large it could encircle the earth. When the serpent threatened to flood the coastal villages with its thrashing, Skalforv took to the sea in a small boat, armed only with his hammer and the blessings of Thrunvald. For three days and nights, he battled the serpent amid a raging storm, each strike of his hammer sending lightning crashing down. On the fourth day, Skalforv finally landed a blow so powerful that it split the serpent's head in two, sending it sinking back into the depths. Exhausted but victorious, Skalforv returned to the shore, where the people hailed him as Thrunvald's chosen champion.
 
@@ -389,15 +389,15 @@ Skalforv's strength is prodigious, and his skill with a warhammer is unmatched. 
 
 ### Patrons
 
-**The Storm Temple of [[place-thrumufjall|Thrumufjall]]**—The priests of Thrunvald's sacred mountain recognize Skalforv as their god's champion and provide him with blessings, healing, and the finest weapons they can offer.
+**[The Storm Temple of Thrumufjall]{.name data-type="place/structure"}**—The priests of the [[affiliation-thrunvald|Faith of Thrunvald]] at the sacred mountain of [[place-thrumufjall|Thrumufjall]] recognize Skalforv as their god's champion and provide him with blessings, healing, and the finest weapons they can offer.
 
-**Widow Hvarnselda of [[place-ralthvik|Ralthvík]]**—A wealthy fisherwoman whose village Skalforv saved from sea raiders. She supplies him with provisions, a ship, and crew whenever he needs them.
+**Widow [Hvarnselda]{.name data-type="being/npc"} of [[place-ralthvik|Ralthvík]]**—A wealthy fisherwoman whose village Skalforv saved from sea raiders. She supplies him with provisions, a ship, and crew whenever he needs them.
 
 ### Enemies
 
-**The Serpent Cult**—Worshippers of the great sea serpent who view Skalforv as a blasphemer for his legendary battle. They seek revenge through poison, sabotage, and ambush rather than open combat.
+**[The Serpent Cult]{.name data-type="affiliation/faithtradition"}**—Worshippers of the great sea serpent who view Skalforv as a blasphemer for his legendary battle. They seek revenge through poison, sabotage, and ambush rather than open combat.
 
-**Jarl Skraldvir Snarvumak**—A prideful lord who once challenged Skalforv to a holmgang and was humiliated. He now works to undermine Skalforv's reputation and deny him shelter in his lands.
+**Jarl [[being-skraldvirsna|Skraldvir Snarvumak]]**—A prideful lord who once challenged Skalforv to a holmgang and was humiliated. He now works to undermine Skalforv's reputation and deny him shelter in his lands.
 
 ## Plot Hooks
 

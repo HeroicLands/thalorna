@@ -403,11 +403,11 @@ Skathilda yra Frodbán wur Vandgrund is small, pale, and terrifying. She stands 
 
 # Dossier {#dossier}
 
-Skathilda was born the youngest of four children in a woodcutter's family deep in the [[place-vrystwald|Vristwald]] pines. Her father drank, her mother died young, and her three older brothers treated her as a servant and a target. She endured it until she was thirteen, when her eldest brother came home drunk and tried to sell her to a passing Vylarian merchant for a cask of wine. She stabbed her brother in the thigh with his own belt knife, fled into the forest, and never went back.
+Skathilda was born the youngest of four children in a woodcutter's family deep in the [[place-vrystwald|Vristwald]] pines. Her father drank, her mother died young, and her three older brothers treated her as a servant and a target. She endured it until she was thirteen, when her eldest brother came home drunk and tried to sell her to a passing [[lore-vylarianclt|Vylarian]] merchant for a cask of wine. She stabbed her brother in the thigh with his own belt knife, fled into the forest, and never went back.
 
 She survived alone in the pines for nearly a year—stealing from traplines, raiding smokehouse stores, sleeping in hollowed logs. A roving band of poachers took her in when they found her half-starved in a snowdrift, and she repaid their charity by learning everything they could teach her about moving unseen, picking pockets, and cutting throats. When the poachers' leader tried to force himself on her two years later, she opened his belly with a skinning knife while he slept and vanished before dawn.
 
-She joined Dagbán's gang three years ago, drawn by the practical arrangement: safety in numbers, a share of the takings, and no one stupid enough to lay a hand on her twice. Dagbán recognized her value immediately—she is the gang's best scout, its most reliable killer in close quarters, and the member most likely to slit his throat if he ever shows weakness. They maintain a wary mutual respect built on the understanding that each is dangerous to the other.
+She joined [[being-dagulfvthr|Dagbán yra Vethar wur Thrareth]]'s gang three years ago, drawn by the practical arrangement: safety in numbers, a share of the takings, and no one stupid enough to lay a hand on her twice. Dagbán recognized her value immediately—she is the gang's best scout, its most reliable killer in close quarters, and the member most likely to slit his throat if he ever shows weakness. They maintain a wary mutual respect built on the understanding that each is dangerous to the other.
 
 # Skills and Abilities
 
@@ -417,11 +417,11 @@ Skathilda is extraordinarily fast and agile, with a natural gift for stealth and
 
 ### Personality
 
-Skathilda is cold, calculating, and deeply mistrustful of everyone. She speaks little, watches constantly, and has a memory for slights that stretches back years. She does not bluster or threaten—she simply acts, suddenly and without warning, which is why even Thrawald, who outweighs her by fifty kilograms, gives her space. She has a dark, cutting humor that she deploys rarely and to devastating effect. She despises weakness in others because she cannot afford it in herself, and she has no patience for self-pity, excuses, or sentimentality.
+Skathilda is cold, calculating, and deeply mistrustful of everyone. She speaks little, watches constantly, and has a memory for slights that stretches back years. She does not bluster or threaten—she simply acts, suddenly and without warning, which is why even [[being-thrwldhldskrn|Thrawald yra Hildskorn wur Thrastein]], who outweighs her by fifty kilograms, gives her space. She has a dark, cutting humor that she deploys rarely and to devastating effect. She despises weakness in others because she cannot afford it in herself, and she has no patience for self-pity, excuses, or sentimentality.
 
 ### Motivation
 
-Survival. Skathilda learned early that the world is divided into predators and prey, and she will never be prey again. Beyond that, she craves autonomy—the freedom to come and go as she chooses, beholden to no one. She stays with the Blackpine Wolves because the arrangement serves her, and she will leave or take over the moment it doesn't. She harbors a cold, patient ambition that Dagbán senses but cannot quite pin down.
+Survival. Skathilda learned early that the world is divided into predators and prey, and she will never be prey again. Beyond that, she craves autonomy—the freedom to come and go as she chooses, beholden to no one. She stays with [[affiliation-blckpnwlvs|The Blackpine Wolves]] because the arrangement serves her, and she will leave or take over the moment it doesn't. She harbors a cold, patient ambition that Dagbán senses but cannot quite pin down.
 
 ### Strengths
 
@@ -431,7 +431,7 @@ Her speed, stealth, and ruthlessness make her the most dangerous fighter in the 
 
 ## Companions
 
-The Blackpine Wolves. She maintains a functional working relationship with Dagbán based on mutual wariness. She tolerates Thrawald because he is predictable. She openly despises Brunjár for his cowardice and considers the younger members beneath her notice.
+The Blackpine Wolves. She maintains a functional working relationship with Dagbán based on mutual wariness. She tolerates Thrawald because he is predictable. She openly despises [[being-brunjarskathhel|Brunjár yra Skathhelm wur Druthholt]] for his cowardice and considers the younger members beneath her notice.
 
 ### Patrons
 

@@ -361,13 +361,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Hlarthvir stands 6'5" with a massive, towering frame, weighing well over 260 pounds. Since his transformation by [[lore-frodvindty|Frodvin]], his weathered skin has taken on a bark-like texture in places, particularly across his shoulders and forearms, and leaves sometimes sprout unbidden from his thick brown hair. His green eyes carry the deep, ancient quality of forest canopy—patient, watchful, and faintly luminous in dim light. His features are craggy and broad, with a heavy brow, a wide flat nose, a square jaw, and a mouth that has grown increasingly silent as his humanity fades. His hands are enormous, gnarled like old roots, and the scent of loam and green wood clings to him. Hlarthvir wears no armor, only simple garments of rough-spun cloth and leather that seem to blend with the forest around him. He carries a staff of living oak that has begun to put out green shoots in his grip.
+Hlarthvir Oakheart stands 6'5" with a massive, towering frame, weighing well over 260 pounds. Since his transformation, attributed in his saga to [[lore-frodvindty|Frodvin]], his weathered skin has taken on a bark-like texture in places, particularly across his shoulders and forearms, and leaves sometimes sprout unbidden from his thick brown hair. His green eyes carry the deep, ancient quality of forest canopy—patient, watchful, and faintly luminous in dim light. His features are craggy and broad, with a heavy brow, a wide flat nose, a square jaw, and a mouth that has grown increasingly silent as his humanity fades. His hands are enormous, gnarled like old roots, and the scent of loam and green wood clings to him. Hlarthvir wears no armor, only simple garments of rough-spun cloth and leather that seem to blend with the forest around him. He carries a staff of living oak that has begun to put out green shoots in his grip.
 
 # Dossier {#dossier}
 
 Hlarthvir was born into a family of woodsmen, surrounded by the vast and ancient forests that his people revered as sacred. From a young age, he showed a deep connection to the trees and the creatures that dwelled within them. He spent his childhood learning the secrets of the forest—how to find water in the driest seasons, how to call to the animals, and how to heal the trees themselves. Hlarthvir grew into a giant of a man, both in stature and in spirit, earning the name Oakheart for his unwavering loyalty to the forest and his people.
 
-The saga of Hlarthvir Oakheart is one of courage and sacrifice. The forest he loved was threatened by fire-worms—creatures that burrowed into the heart of the trees, setting them ablaze from within. Hlarthvir called upon Frodvin and journeyed deep into the forest to the ancient Tree of Life, said to be the first tree ever planted by Frodvin. There he found the source of the fire-worms: a cursed artifact buried beneath the roots. Hlarthvir knew that removing the artifact would kill him, as the roots were intertwined with his own spirit. Without hesitation, he uprooted the cursed artifact, and the fire-worms vanished. Frodvin transformed him into a guardian spirit of the forest, ensuring his presence would protect the trees for all time.
+The saga of Hlarthvir Oakheart is one of courage and sacrifice. The forest he loved was threatened by fire-worms—creatures that burrowed into the heart of the trees, setting them ablaze from within. Hlarthvir called upon Frodvin and journeyed deep into the forest to the ancient [Tree of Life]{.name data-type="place/feature"}, said to be the first tree ever planted by Frodvin. There he found the source of the fire-worms: a cursed artifact buried beneath the roots. Hlarthvir knew that removing the artifact would kill him, as the roots were intertwined with his own spirit. Without hesitation, he uprooted the cursed artifact, and the fire-worms vanished. Frodvin transformed him into a guardian spirit of the forest, ensuring his presence would protect the trees for all time.
 
 ## Psyche
 
@@ -377,7 +377,7 @@ Hlarthvir is quiet and gentle, a towering man whose soft-spoken manner belies hi
 
 ### Motivation
 
-Hlarthvir exists now as something between man and spirit, bound to the forest by Frodvin's transformation. He seeks to protect the ancient woodlands from all threats while struggling with the gradual loss of his humanity. He remembers his mortal life with increasing difficulty and fears that one day he will forget entirely what it meant to be human. He also seeks to understand the cursed artifact he destroyed and whether its creator might return with something worse.
+Hlarthvir exists now as something between man and spirit, bound to the forest by a transformation that his saga attributes to Frodvin. He seeks to protect the ancient woodlands from all threats while struggling with the gradual loss of his humanity. He remembers his mortal life with increasing difficulty and fears that one day he will forget entirely what it meant to be human. He also seeks to understand the cursed artifact he destroyed and whether its creator might return with something worse.
 
 ### Strengths
 
@@ -389,15 +389,15 @@ Since his transformation, Hlarthvir can communicate with trees and forest creatu
 
 ### Patrons
 
-**The Forest of Hlarthmark**—The ancient forest itself sustains Hlarthvir and responds to his will. It is both his home and his charge.
+**[The Forest of Hlarthmark]{.name data-type="place/feature"}**—The ancient forest itself sustains Hlarthvir and responds to his will. It is both his home and his charge.
 
-**The Woodcutters' Guild**—The local woodsmen who knew Hlarthvir in life still leave offerings at his shrine and follow his guidance on which trees may be harvested and which must be spared.
+**[The Woodcutters' Guild]{.name data-type="affiliation/guild"}**—The local woodsmen who knew Hlarthvir in life still leave offerings at his shrine and follow his guidance on which trees may be harvested and which must be spared.
 
 ### Enemies
 
-**The Iron Consortium**—A mining and logging operation that seeks to clear-cut vast tracts of ancient forest. They have hired mercenaries to deal with the 'forest spirit' that has been disrupting their operations.
+**[The Iron Consortium]{.name data-type="affiliation/venture"}**—A mining and logging operation that seeks to clear-cut vast tracts of ancient forest. They have hired mercenaries to deal with the 'forest spirit' that has been disrupting their operations.
 
-The Curse-Maker—The unknown creator of the artifact that spawned the fire-worms. Hlarthvir senses that this entity is aware of him and planning something new.
+[The Curse-Maker]{.name data-type="lore"}—The unknown creator of the artifact that spawned the fire-worms. Hlarthvir senses that this entity is aware of him and planning something new.
 
 ## Plot Hooks
 

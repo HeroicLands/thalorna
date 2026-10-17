@@ -389,7 +389,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Vethar is a lean, gray-haired man with a river worker’s cracked hands and a gaze that settles on a thing until everyone else has looked away. His dark wool cloak smells of smoke and damp reeds. An owl carved from fallen wood hangs beside a small sturgeon on his cord; he distinguishes his personal bond from the wesk he keeps for the whole clan. He carries a walking staff, a knife and a plain wooden bowl for his rites.
+Vethar yra Thalruvan wur Grimholt is a lean, gray-haired man with a river worker’s cracked hands and a gaze that settles on a thing until everyone else has looked away. His dark wool cloak smells of smoke and damp reeds. An owl carved from fallen wood hangs beside a small sturgeon on his cord; he distinguishes his personal bond from the wesk he keeps for the whole clan. He carries a walking staff, a knife and a plain wooden bowl for his rites.
 
 # Dossier {#dossier}
 
@@ -397,7 +397,7 @@ Vethar is a lean, gray-haired man with a river worker’s cracked hands and a ga
 
 Put another stick on the fire. This is the tale of the man who went farther than any boat, and the empty bowl that followed him home.
 
-Vethar kept the Sturgeon for [[place-grimholt|Grimholt]], and he kept silence well. His predecessor had chosen him because he heard what others missed. At the landing the women reckoned grain and furs, the War Chief watched the wall, and Vethar tended the grove. Each held a seat beside the others. Yet a busy landing can hear a hammer more readily than a warning, and Vethar made his warnings so quiet that they were easily missed.
+Vethar kept the [[lore-sturgeonttm|Sturgeon]] for [[place-grimholt|Grimholt]], and he kept silence well. His predecessor had chosen him because he heard what others missed. At the landing the women reckoned grain and furs, the War Chief watched the wall, and Vethar tended the grove. Each held a seat beside the others. Yet a busy landing can hear a hammer more readily than a warning, and Vethar made his warnings so quiet that they were easily missed.
 
 First the reeds whispered when no wind moved them. Then sleepers woke with river mud beneath their nails. Vethar waited to understand. The third night a child walked into the water and was pulled back by her grandmother. At morning the grandmother laid the child's wet blanket across his threshold. He could find no words small enough to hide behind.
 
@@ -423,7 +423,7 @@ The dates and the returning bowl differ between tellings. The sheet portrays Vet
 
 ### Personality and Motivation
 
-Patient and observant, Vethar has the Owl's quiet attention and its temptation to withdraw. He wants the clan to hear a warning soon enough to act. He now states uncertainty aloud and asks for help before his patience becomes neglect. Keeping the Sturgeon belongs to his village office; Owl is a personal bond.
+Patient and observant, Vethar has the [[lore-owlttm|Owl]]'s quiet attention and its temptation to withdraw. He wants the clan to hear a warning soon enough to act. He now states uncertainty aloud and asks for help before his patience becomes neglect. Keeping the Sturgeon belongs to his village office; Owl is a personal bond.
 
 ### Strengths and Limits
 

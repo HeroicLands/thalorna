@@ -396,7 +396,7 @@ Balden Estilgon is a 51-year-old man who stands 6'0" tall and is broad and solid
 
 # Dossier {#dossier}
 
-Balden Estilgon is a sworn skald of the Skalds' Circle living at Aurelane, in [[place-provenzrgn|Provenzia]], a Provenzian by birth and a skald by thirty years' training and service in the halls of the Nordlands.
+Balden Estilgon is a sworn skald of [[affiliation-skaldscrcl|The Skalds' Circle]] living at [[place-aureliane|Aurelane]], in [[place-provenzrgn|Provenzia Region]], a [[lore-provenzianclt|Provenzian]] by birth and a skald by thirty years' training and service in the halls of the [[place-nrdlndsrgn|Nordlands Region]].
 
 Balden was taken as an apprentice young and made the Circle's way, and he spent most of his life reciting in the halls of Nordland chieftains, where a skald is the hall's record and his recitation is evidence, and came back to Aurelane past forty with a voice that carries over a feast. Aurelane lives on its past, and its old families found that a man who could recite their lineages exactly as received, and would not improve them, was worth keeping. He has trained a handful of Provenzian apprentices, and Balden does not compose to please. He holds that a story remembered wrongly is a story lost, and he has ended friendships over a line.
 
@@ -416,7 +416,7 @@ Experienced reciter, powerful voice, respected by the old families.
 
 ## Social
 
-Balden is a sworn skald of the Skalds' Circle, which gives him standing in Aurelane under the Circle's recognition with the Tevran.
+Balden is a sworn skald of the Skalds' Circle, which gives him standing in Aurelane under the Circle's recognition with [[affiliation-tevran|The Tevran Maldor]].
 
 ## Companions
 

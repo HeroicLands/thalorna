@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Domvith is a broad man with graying hair, a flattened nose and a pale scar across one palm. He wears repaired leather over a wool tunic and carries a spear whose shaft has been replaced many times. A wolf token rests beneath his collar. His old command torc is absent; he touches the bare place at his throat when someone addresses him as a leader.
+Domvith yra Harskorn wur Falkenstein is a broad man with graying hair, a flattened nose and a pale scar across one palm. He wears repaired leather over a wool tunic and carries a spear whose shaft has been replaced many times. A wolf token rests beneath his collar. His old command torc is absent; he touches the bare place at his throat when someone addresses him as a leader.
 
 # Dossier {#dossier}
 
@@ -399,7 +399,7 @@ Domvith is a broad man with graying hair, a flattened nose and a pale scar acros
 
 At [[place-falkensten|Falkenstein]] they tell of Domvith twice. The first tale is quick, because a young man's triumph takes little breath. The second takes the length of a winter fire.
 
-He won his first renown at the crossing below the crag. His band stood shield to shield while the river rose around their knees. He knew each man's step and each man's fear, and he brought them home together. The Falcon was the village's wesk; the Wolf was the shape he found for himself. He was given charge of the crossing and men who would follow him gladly.
+He won his first renown at the crossing below the crag. His band stood shield to shield while the river rose around their knees. He knew each man's step and each man's fear, and he brought them home together. The [[lore-falconttm|Falcon]] was the village's wesk; the [[lore-wolfttm|Wolf]] was the shape he found for himself. He was given charge of the crossing and men who would follow him gladly.
 
 Then came a raid and a retreating enemy with stolen cattle. His companions saw the chance for a greater song. Domvith had orders to hold the crossing until the households behind it were safe. He listened to the men beside him, and their eagerness sounded like courage. They pursued.
 

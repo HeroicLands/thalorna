@@ -395,9 +395,9 @@ Hálira Nareth is a 22-year-old woman who stands 5'9" tall and is slender. She h
 
 # Dossier {#dossier}
 
-Hálira Nareth is a scribe of Valdun, the walled market town of the eastern march of [[place-elavendre|Élavendre]], an Élavendri freewoman who writes for the drovers and the pack-trains and draws in the margins of everything she writes.
+Hálira Nareth is a scribe of [[place-valdun|Valdun]], the walled market town of the eastern march of [[place-elavendre|Élavendre]], an [[lore-elavendriclt|Élavendri]] freewoman who writes for the drovers and the pack-trains and draws in the margins of everything she writes.
 
-Hálira learned her letters from a chapterhouse scholar who wintered in the town, and she has kept herself since with a pen: drove contracts for the families bringing cattle down out of the hills, tallies for the stock fairs, escort bonds for the pack-masters crossing the march. She writes a clean, quick hand, and she cannot leave a page plain. A drove contract from her comes back with a border of bramble and a cow in the capital, and the drovers have grown fond of it, though the town's old muster-clerk has not. She practices at night on scraps, copying the one illuminated book she has seen, which a Péravel factor showed her at a fair. Péravel has a whole quarter that makes such books. She has never been there.
+Hálira learned her letters from a chapterhouse scholar who wintered in the town, and she has kept herself since with a pen: drove contracts for the families bringing cattle down out of the hills, tallies for the stock fairs, escort bonds for the pack-masters crossing the march. She writes a clean, quick hand, and she cannot leave a page plain. A drove contract from her comes back with a border of bramble and a cow in the capital, and the drovers have grown fond of it, though the town's old muster-clerk has not. She practices at night on scraps, copying the one illuminated book she has seen, which a [[place-beravel|Péravel]] factor showed her at a fair. Péravel has a whole quarter that makes such books. She has never been there.
 
 ## Psyche
 
@@ -415,7 +415,7 @@ Inventive and artistic, skilled with a pen and brush, quick at holding several t
 
 ## Social
 
-Hálira belongs to no guild. The Guild of the Book at Péravel, which governs the work she wants to do, takes members by examination, and she has neither the fee nor the journey yet.
+Hálira belongs to no guild. The [Guild of the Book at Péravel]{.name data-type="affiliation/guild"}, which governs the work she wants to do, takes members by examination, and she has neither the fee nor the journey yet.
 
 ## Companions
 
@@ -433,6 +433,6 @@ The town's muster-clerk, an old man who keeps the levy's roll and holds that a b
 
 2. **The Factor**—The Péravel factor who showed her the book is at the autumn fair again, and has offered to take her back as an apprentice colorist. The fair ends in three days, and her mother is ill.
 
-3. **The Warning**—Word of a Varokh war-party has come to Valdun at dusk and must go to every steading by dawn, in as many copies as there are riders. Hálira is the fastest pen in the town, and the muster-clerk will not have her.
+3. **The Warning**—Word of a [[lore-varokhiclt|Varokhi]] war-party has come to Valdun at dusk and must go to every steading by dawn, in as many copies as there are riders. Hálira is the fastest pen in the town, and the muster-clerk will not have her.
 
 4. **The Bond**—An escort bond has been presented in Hálira's hand for a pack-train she never wrote for, and the escort it hired has vanished with the train.

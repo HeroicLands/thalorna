@@ -396,9 +396,9 @@ Nubaris Jadiros is a 36-year-old woman who stands 5'7" tall and is slender. She 
 
 # Dossier {#dossier}
 
-Nubaris Jadiros is a courtier of Theradon, in [[place-helionis|Helionis]], a Helionite noblewoman of a minor house with a seat in the city's assembly, who has made herself the person the greater houses send for when they need something settled quietly.
+Nubaris Jadiros is a courtier of [[place-theradon2|Theradon]], in [[place-helionis|Helionis]], a [[lore-helioniteclt|Helionite]] noblewoman of a minor house with a seat in the city's assembly, who has made herself the person the greater houses send for when they need something settled quietly.
 
-The city is governed by an assembly of its wealthiest and most educated citizens. The Jadiros seat is an old one and a small one, and Nubaris inherited it with the debts attached. She mediates. When two houses fall out over a marriage, a tax farm or a philosopher's chair, Nubaris is the one who knows what each side actually wants, carries the messages neither will send directly, and proposes the settlement both can accept. She takes a fee from both. Her contacts run through every house in Theradon and several in Thirenae and she has never been caught telling anyone what she was told. That reputation for discretion is her whole capital.
+The city is governed by an assembly of its wealthiest and most educated citizens. The Jadiros seat is an old one and a small one, and Nubaris inherited it with the debts attached. She mediates. When two houses fall out over a marriage, a tax farm or a philosopher's chair, Nubaris is the one who knows what each side actually wants, carries the messages neither will send directly, and proposes the settlement both can accept. She takes a fee from both. Her contacts run through every house in Theradon and several in [[place-thyrenae2|Thirenae]] and she has never been caught telling anyone what she was told. That reputation for discretion is her whole capital.
 
 ## Psyche
 
@@ -434,6 +434,6 @@ Rival courtiers who see a small house grown too useful and would like to prove h
 
 2. **A Secret of Her Own**—Something Nubaris has kept from everyone—the true state of the Jadiros debts, and who holds them—has reached a rival.
 
-3. **The Envoy**—A Vylarian envoy wants to know which houses of the assembly would welcome a firmer imperial hand, and has heard that Nubaris knows every house's mind. He has offered a great deal, and the assembly would call the sale treason.
+3. **The Envoy**—A [[lore-vylarianclt|Vylarian]] envoy wants to know which houses of the assembly would welcome a firmer imperial hand, and has heard that Nubaris knows every house's mind. He has offered a great deal, and the assembly would call the sale treason.
 
 4. **The Feud**—Two of the oldest houses in Theradon have quarreled past the point of mediation, and each has told Nubaris that neutrality will be taken as enmity.

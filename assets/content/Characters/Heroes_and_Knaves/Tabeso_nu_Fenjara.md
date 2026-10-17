@@ -426,15 +426,15 @@ sohl:
 
 ![[tabesnfnjr|Tabeso nu Fénjara]]{float=top-left}
 
-Tabeso stands 6'2" tall with a heavy build. He has dark skin, dark hair, and dark eyes. His features include a square face, a strong nose, a wide jawline, an expressive mouth, thick brows, high cheeks.
+Tabeso nu Fénjara stands 6'2" tall with a heavy build. He has dark skin, dark hair, and dark eyes. His features include a square face, a strong nose, a wide jawline, an expressive mouth, thick brows, high cheeks.
 
 # Dossier {#dossier}
 
-Tabeso nu Fénjara is a well known **tracker and hunter** from the Fénjara tribe of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], whose people live on the forest's southern edge, where the savannah closes into gallery forest. The Nyáluba are famous for their tracking skills, often said to be able to follow prey across both the physical and spirit realms. Tabeso grew up surrounded by dense jungle and spiritual traditions, learning early on how to read the signs of the land and the messages of the spirits. His family line was blessed with the ability to “track the unseen”—a mystical sense that allowed them to follow spiritual disturbances or beings.
+Tabeso nu Fénjara is a well known **tracker and hunter** from the [[affiliation-fenjara|Fénjara]] tribe of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], whose people live on the forest's southern edge, where the savannah closes into gallery forest. The [[lore-nyalubaclt|Nyáluba]] are famous for their tracking skills, often said to be able to follow prey across both the physical and spirit realms. Tabeso grew up surrounded by dense jungle and spiritual traditions, learning early on how to read the signs of the land and the messages of the spirits. His family line was blessed with the ability to “track the unseen”—a mystical sense that allowed them to follow spiritual disturbances or beings.
 
-Tabeso's reputation spread far and wide when he tracked down and defeated a dangerous **spirit panther** that had been terrorizing his people. The panther was not a simple physical predator, but a spiritual creature capable of phasing between the spirit world and the material plane. Tabeso was able to pursue the creature through the use of his family’s secret rituals, tracking it through dreams and visions as well as through physical trails. This made him one of the most trackers in Zerathia.
+Tabeso's reputation spread far and wide when he tracked down and defeated a dangerous **spirit panther** that had been terrorizing his people. The panther was not a simple physical predator, but a spiritual creature capable of phasing between the spirit world and the material plane. Tabeso was able to pursue the creature through the use of his family’s secret rituals, tracking it through dreams and visions as well as through physical trails. This made him one of the foremost trackers in [[place-xerathia|Zerathia]].
 
-When [[being-kirobashkm|Kiroba]]’s quest to restore balance reached the Nyáluba lands, Tabeso was drawn to the spiritual nature of the disturbance. Sensing that this imbalance threatened all of Zerathia, Tabeso joined [[being-kirobashkm|Kiroba]]’s cause, believing that his skills would be instrumental in navigating the spirit-infused jungle and the spiritual threats ahead.
+When [[being-kirobashkm|Kiroba of the Shókuma]]’s quest to restore balance reached the Nyáluba lands, Tabeso was drawn to the spiritual nature of the disturbance. Sensing that this imbalance threatened all of Zerathia, Tabeso joined [[being-kirobashkm|Kiroba]]’s cause, believing that his skills would be instrumental in navigating the spirit-infused jungle and the spiritual threats ahead.
 
 ## Background
 
@@ -479,4 +479,4 @@ Tabeso is quiet, reserved, and deeply in tune with the world around him. His cal
 
 3. **The Panther’s Return**: The spirit panther Tabeso defeated years ago begins to appear in his dreams, warning him of an impending spiritual imbalance. This time, the creature is not his adversary but a guide, leading him toward a hidden temple that holds the key to stabilizing the jungle’s fragile harmony. Along the way, Tabeso faces challengers who see his connection to the panther as a sign of weakness, testing his leadership and resolve.
 
-4. **The Spear of Ishuara**: An artifact, the Spear of Ishuara, is said to possess the power to destroy even the most dangerous spiritual creatures. When an outsider attempts to claim the spear for personal gain, Tabeso must protect the artifact while confronting his tribe’s mistrust of outsiders. The journey to secure the spear leads him to uncover the truth about his family’s lineage and their role as guardians of the spiritual world.
+4. **The Spear of Ishuara**: An artifact, the [Spear of Ishuara]{.name data-type="weapongear"}, is said to possess the power to destroy even the most dangerous spiritual creatures. When an outsider attempts to claim the spear for personal gain, Tabeso must protect the artifact while confronting his tribe’s mistrust of outsiders. The journey to secure the spear leads him to uncover the truth about his family’s lineage and their role as guardians of the spiritual world.

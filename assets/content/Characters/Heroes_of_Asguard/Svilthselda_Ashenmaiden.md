@@ -361,13 +361,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Svilthselda stands 5'6" with a lean, sinewy frame, weighing about 140 pounds. Her pale skin is marked with fine ash-gray patterns—remnants of the fire from which she was pulled as an infant—giving her an otherworldly appearance. Her black hair is bound in a single intricate plait that reaches her waist. Her gray eyes are calm and distant, as though focused on something beyond the visible world. Her features are sharp and delicate, with high cheekbones, a narrow nose, thin lips, and dark brows that contrast strikingly with her pallid complexion. Her movements carry an unnatural stillness, as if the flames that forged her burned away all unnecessary motion. She wears layered robes of deep charcoal and rust, with a cuirass of blackened kurbul beneath, and carries a slender sword at her hip. An ember-shaped amulet of red gold hangs at her throat.
+Svilthselda Ashenmaiden stands 5'6" with a lean, sinewy frame, weighing about 140 pounds. Her pale skin is marked with fine ash-gray patterns—remnants of the fire from which she was pulled as an infant—giving her an otherworldly appearance. Her black hair is bound in a single intricate plait that reaches her waist. Her gray eyes are calm and distant, as though focused on something beyond the visible world. Her features are sharp and delicate, with high cheekbones, a narrow nose, thin lips, and dark brows that contrast strikingly with her pallid complexion. Her movements carry an unnatural stillness, as if the flames that forged her burned away all unnecessary motion. She wears layered robes of deep charcoal and rust, with a cuirass of blackened kurbul beneath, and carries a slender sword at her hip. An ember-shaped amulet of red gold hangs at her throat.
 
 # Dossier {#dossier}
 
-Svilthselda was found as a child amid the ashes of a great fire that had consumed her village. The only survivor, she was taken in by followers of [[lore-svartbrandrdty|Svartbrandr]] who saw her survival as a sign of divine favor. Raised in the harsh, fiery environment of Svartbrandr's worshippers, Svilthselda grew into a fierce and determined warrior, her skin forever marked by the ash from which she had emerged. She became known for her ability to move through fire unscathed, and for her calm, almost detached demeanor in the face of the most terrifying dangers.
+Svilthselda was found as a child amid the ashes of a great fire that had consumed her village. The only survivor, she was taken in by followers of the [[affiliation-svartbrandr|Faith of Svartbrandr]] who saw her survival as a sign of divine favor. Raised in the harsh, fiery environment of Svartbrandr's worshippers, Svilthselda grew into a fierce and determined warrior, her skin forever marked by the ash from which she had emerged. She became known for her ability to move through fire unscathed, and for her calm, almost detached demeanor in the face of the most terrifying dangers.
 
-Svilthselda's most famous saga tells of the time she led a band of warriors into the depths of a volcano to retrieve the Ember of Eternity, a powerful relic of Svartbrandr. The volcano was said to be guarded by a massive fire serpent, a creature born of Svartbrandr's own flames. Many had attempted the journey before, but none had returned. Undeterred, Svilthselda led her warriors through rivers of lava and walls of flame, her presence calming their fears. When they finally confronted the fire serpent, Svilthselda alone stepped forward to face it. Calling upon Svartbrandr's power, she absorbed the serpent's flames into her own body, leaving the creature weakened and allowing her warriors to strike it down. With the Ember of Eternity in hand, Svilthselda returned home, her skin glowing with the power of the flames she had conquered.
+Svilthselda's most famous saga tells of the time she led a band of warriors into the depths of a volcano to retrieve the [Ember of Eternity]{.name data-type="miscgear"}, a powerful relic of [[lore-svartbrandrdty|Svartbrandr]]. The volcano was said to be guarded by a massive fire serpent, a creature born of Svartbrandr's own flames. Many had attempted the journey before, but none had returned. Undeterred, Svilthselda led her warriors through rivers of lava and walls of flame, her presence calming their fears. When they finally confronted the fire serpent, Svilthselda alone stepped forward to face it. Calling upon Svartbrandr's power, she absorbed the serpent's flames into her own body, leaving the creature weakened and allowing her warriors to strike it down. With the Ember of Eternity in hand, Svilthselda returned home, her skin glowing with the power of the flames she had conquered.
 
 ## Psyche
 
@@ -389,15 +389,15 @@ Svilthselda's ability to absorb and redirect fire is extraordinary, making her n
 
 ### Patrons
 
-**The Ember Sisterhood**—A secretive order of Svartbrandr's priestesses who recognized Svilthselda's gifts and trained her in the deeper mysteries of fire magic. They provide her with sacred knowledge and ritual support.
+**[The Ember Sisterhood]{.name data-type="affiliation"}**—A secretive order of Svartbrandr's priestesses who recognized Svilthselda's gifts and trained her in the deeper mysteries of fire magic. They provide her with sacred knowledge and ritual support.
 
-**Hofgudi Brildmil of [[place-braldfjall|Braldfjall]]**—The ranking priest at Svartbrandr's primary temple, who views Svilthselda as a potential successor and protects her from political enemies within the faith.
+**Hofgudi [[being-brildmyl|Brildmil]] of [[place-braldfjall|Braldfjall]]**—The ranking priest at Svartbrandr's primary temple, who views Svilthselda as a potential successor and protects her from political enemies within the faith.
 
 ### Enemies
 
 [[being-vrthrvflmhrt|Vrithorv Flameheart]]—A fellow devotee of Svartbrandr whose reckless interpretation of the god's will Svilthselda considers heretical. Their rivalry threatens to split the faithful.
 
-**The Verdant Order**—A druidic circle that views all fire worship as an existential threat to the natural world. They have attempted to assassinate Svilthselda twice, seeing her growing power as particularly dangerous.
+**[The Verdant Order]{.name data-type="affiliation"}**—A druidic circle that views all fire worship as an existential threat to the natural world. They have attempted to assassinate Svilthselda twice, seeing her growing power as particularly dangerous.
 
 ## Plot Hooks
 

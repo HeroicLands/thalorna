@@ -370,11 +370,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Sigrún stands 5'11" with a heavy, broad-shouldered build that would not look out of place on a blacksmith's apprentice. Her black hair is thick and wiry, pulled back in a tight knot that keeps it from her face during patrols. Her dark amber eyes are fierce and direct in a dark-skinned, ruddy face that flushes darker still when her temper rises, which is not infrequently. Her features are strong and blunt: a wide jaw, a flat nose, a mouth that sets into a hard line when she is displeased. A burn mark on her left wrist—a crescent of shiny, puckered skin—is the result of a forge accident in her youth, before she left her family's smithy for the watch. She wears a mail shirt over quilted padding, leather gauntlets, and heavy boots, and carries a mace at her hip with the casual grip of someone who has used it.
+Sigrún Hafringr stands 5'11" with a heavy, broad-shouldered build that would not look out of place on a blacksmith's apprentice. Her black hair is thick and wiry, pulled back in a tight knot that keeps it from her face during patrols. Her dark amber eyes are fierce and direct in a dark-skinned, ruddy face that flushes darker still when her temper rises, which is not infrequently. Her features are strong and blunt: a wide jaw, a flat nose, a mouth that sets into a hard line when she is displeased. A burn mark on her left wrist—a crescent of shiny, puckered skin—is the result of a forge accident in her youth, before she left her family's smithy for the watch. She wears a mail shirt over quilted padding, leather gauntlets, and heavy boots, and carries a mace at her hip with the casual grip of someone who has used it.
 
 # Dossier {#dossier}
 
-Sigrún was born in a poor [[place-aelwyth|Aelwythan]] community where her family kept a small weaving shop. She grew up in relative poverty but among people who knew and looked after each other. At sixteen, her family's shop failed, undercut by larger weavers, and her parents fell into debt. At eighteen, Sigrún joined the market square guard partially for employment and partially for reasons she would not articulate clearly: a need to protect her community from the kind of predatory dealing that destroyed her family.
+Sigrún was born in a poor [[lore-aelwythanclt|Aelwythan]] community where her family kept a small weaving shop. She grew up in relative poverty but among people who knew and looked after each other. At sixteen, her family's shop failed, undercut by larger weavers, and her parents fell into debt. At eighteen, Sigrún joined the market square guard partially for employment and partially for reasons she would not articulate clearly: a need to protect her community from the kind of predatory dealing that destroyed her family.
 
 At twenty-six, during a fire that consumed a warehouse in the market district, Sigrún was on patrol nearby. She heard a child screaming from the building and without conscious decision, she ran in. She rescued the child but was severely burned on her wrist in the process. The scar tissue there is substantial and painful on cold mornings. The incident made her locally famous and raised her from ordinary guard to the community's guardian.
 
@@ -402,11 +402,11 @@ Sigrún is beloved by the laboring folk of the market square and deeply trusted 
 
 ### Patrons
 
-**Market Master Elyric Kírindi**—The administrator responsible for the market square. Elyric is a fair-minded merchant himself who respects Sigrún's commitment to community protection. He has supported her and seen that her authority is recognized and backed by his office.
+**Market Master [Elyric Kírindi]{.name data-type="being/npc"}**—The administrator responsible for the market square. Elyric is a fair-minded merchant himself who respects Sigrún's commitment to community protection. He has supported her and seen that her authority is recognized and backed by his office.
 
 ### Enemies
 
-**Merchant Magnate Verath Ronondi**—A wealthy merchant who has been systematically buying up small shops in the market district and consolidating them under his control. Sigrún recognizes this process as similar to what destroyed her family and has actively opposed him. Verath views her as an obstacle and is working to have her reassigned or dismissed from the market square.
+**Merchant Magnate [Verath Ronondi]{.name data-type="being/npc"}**—A wealthy merchant who has been systematically buying up small shops in the market district and consolidating them under his control. Sigrún recognizes this process as similar to what destroyed her family and has actively opposed him. Verath views her as an obstacle and is working to have her reassigned or dismissed from the market square.
 
 ## Plot Hooks
 

@@ -361,13 +361,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Vrithorv stands 6'0" with a powerful, barrel-chested frame, weighing around 210 pounds. His tanned skin is deeply weathered and marked with faint burn scars that trace patterns across his forearms and hands. His brown hair is cropped short and singed at the edges, and his amber eyes burn with an unsettling intensity. His features are blunt and aggressive, with a broad, flat nose, a heavy jaw, thick brows, and a wide mouth set in a perpetual snarl or grin—it is often hard to tell which. His skin radiates an unnatural warmth that others can feel from paces away. Vrithorv wears blackened leather armor reinforced with iron studs, scorched and pitted from proximity to flame. A heavy warhammer hangs from his belt, its head discolored from heat, and his cloak is made from the hide of some great beast, charred at the hems.
+Vrithorv Flameheart stands 6'0" with a powerful, barrel-chested frame, weighing around 210 pounds. His tanned skin is deeply weathered and marked with faint burn scars that trace patterns across his forearms and hands. His brown hair is cropped short and singed at the edges, and his amber eyes burn with an unsettling intensity. His features are blunt and aggressive, with a broad, flat nose, a heavy jaw, thick brows, and a wide mouth set in a perpetual snarl or grin—it is often hard to tell which. His skin radiates an unnatural warmth that others can feel from paces away. Vrithorv wears blackened leather armor reinforced with iron studs, scorched and pitted from proximity to flame. A heavy warhammer hangs from his belt, its head discolored from heat, and his cloak is made from the hide of some great beast, charred at the hems.
 
 # Dossier {#dossier}
 
 Vrithorv was born in the shadow of an active volcano, where his clan believed that [[lore-svartbrandrdty|Svartbrandr]]'s flames shaped the land and their destiny. From a young age, he was fascinated by fire, often sneaking away to watch the molten lava flow and the sparks dance in the night sky. As he grew, Vrithorv became a warrior of unmatched ferocity, known for his ability to withstand intense heat and his love for the chaos of battle. His heart, it was said, burned with the very fire of Svartbrandr, driving him to seek out ever greater challenges.
 
-The saga of Vrithorv Flameheart tells of his battle against the Frost Giants, ancient enemies of Svartbrandr who sought to extinguish the flames of the world. When the Frost Giants descended upon his homeland, freezing rivers and shattering mountains, Vrithorv knew that only the fire of Svartbrandr could stop them. He journeyed to the heart of the volcano that had shaped his life, praying to Svartbrandr for the strength to defeat these icy foes. In response, Svartbrandr blessed him with the power of the Eternal Flame, a burning aura that surrounded him in battle. With his newfound strength, Vrithorv faced the Frost Giants alone, melting their icy weapons and turning their bodies to steam. His victory ensured the survival of his people and the continuation of Svartbrandr's fiery reign.
+The saga of Vrithorv Flameheart tells of his battle against the Frost Giants, ancient enemies of Svartbrandr who sought to extinguish the flames of the world. When the Frost Giants descended upon his homeland, freezing rivers and shattering mountains, Vrithorv knew that only the fire of Svartbrandr could stop them. He journeyed to the heart of the volcano that had shaped his life, praying to Svartbrandr for the strength to defeat these icy foes. In response, Svartbrandr blessed him with the power of the [Eternal Flame]{.name data-type="lore"}, a burning aura that surrounded him in battle. With his newfound strength, Vrithorv faced the Frost Giants alone, melting their icy weapons and turning their bodies to steam. His victory ensured the survival of his people and the continuation of Svartbrandr's fiery reign.
 
 ## Psyche
 
@@ -389,13 +389,13 @@ Vrithorv's resistance to heat and fire borders on the supernatural, allowing him
 
 ### Patrons
 
-**The Flame Temple of [[place-braldfjall|Braldfjall]]**—The high priests of Svartbrandr's most sacred temple recognize Vrithorv as blessed by the god and provide him with arms, provisions, and spiritual guidance.
+**[The Flame Temple of Braldfjall]{.name data-type="place/structure"}**—The high priests of the [[affiliation-svartbrandr|Faith of Svartbrandr]] at its most sacred temple in [[place-braldfjall|Braldfjall]] recognize Vrithorv as blessed by the god and provide him with arms, provisions, and spiritual guidance.
 
 [[being-brldrvmbrstl|Jarl Braldorv Embersteel]]—A warlike jarl who keeps Vrithorv close as both champion and bodyguard, knowing that the warrior's reputation alone deters many would-be challengers.
 
 ### Enemies
 
-**The Frost Wardens**—Survivors of the Frost Giant clans who have sworn a blood oath against Vrithorv for the destruction of their kin. They send assassins armed with enchanted ice weapons.
+**[The Frost Wardens]{.name data-type="affiliation"}**—Survivors of the Frost Giant clans who have sworn a blood oath against Vrithorv for the destruction of their kin. They send assassins armed with enchanted ice weapons.
 
 [[being-svlthsldashnmdn|Svilthselda Ashenmaiden]]—Though both serve Svartbrandr, their interpretations of the god's will differ sharply. Svilthselda sees Vrithorv's reckless aggression as a perversion of Svartbrandr's purifying flame, and the tension between them has nearly erupted into open conflict.
 

@@ -369,7 +369,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Pazasan stands 5'11" with a medium build—rangy and loose-limbed, with the easy posture of a man comfortable in his own skin. His dark brown hair is thick and slightly curling, worn to his ears in the Taruzelian style, and his dark amber eyes are sharp and calculating beneath a left eyebrow bisected by a thin white scar—the only visible evidence of a dockside altercation three years past. His medium-toned skin is clear and unblemished, and his face is long and narrow, with a straight nose and a neatly trimmed beard that follows his jawline. He wears the warehouse district guard uniform: a light padded tunic, leather bracers, and soft-soled boots designed for quiet movement on wooden dock planking. He carries a short sword, but his hands—long-fingered and precise—seem better suited to counting coins than drawing steel.
+Pazasan Khidizum stands 5'11" with a medium build—rangy and loose-limbed, with the easy posture of a man comfortable in his own skin. His dark brown hair is thick and slightly curling, worn to his ears in the [[lore-taruzelianclt|Taruzelian]] style, and his dark amber eyes are sharp and calculating beneath a left eyebrow bisected by a thin white scar—the only visible evidence of a dockside altercation three years past. His medium-toned skin is clear and unblemished, and his face is long and narrow, with a straight nose and a neatly trimmed beard that follows his jawline. He wears the warehouse district guard uniform: a light padded tunic, leather bracers, and soft-soled boots designed for quiet movement on wooden dock planking. He carries a short sword, but his hands—long-fingered and precise—seem better suited to counting coins than drawing steel.
 
 # Dossier {#dossier}
 
@@ -401,11 +401,11 @@ Pazasan occupies an unusual role within the port warehouse district—respected 
 
 ### Patrons
 
-**Warehouse Master Zazurush Bunituni**—The administrator of the port warehouse district. Zazurush has come to rely on Pazasan absolutely for maintaining order and preventing theft. He pays Pazasan substantially above standard guard wages and has made his position secure and protected from reassignment.
+**Warehouse Master [Zazurush Bunituni]{.name data-type="being/npc"}**—The administrator of the port warehouse district. Zazurush has come to rely on Pazasan absolutely for maintaining order and preventing theft. He pays Pazasan substantially above standard guard wages and has made his position secure and protected from reassignment.
 
 ### Enemies
 
-**Merchant Prince Ashuraz Hitusuni**—A wealthy merchant whose operation Pazasan has documented engaged in systematic smuggling and tax evasion. Ashuraz is intelligent and politically connected, and his operations are complex enough that legal prosecution has been difficult. Ashuraz recognizes Pazasan as a threat and has begun working to undermine him through allegations of corruption and bias.
+**Merchant Prince [[being-ashurazhitus|Ashuraz Hitusuni]]**—A wealthy merchant whose operation Pazasan has documented engaged in systematic smuggling and tax evasion. Ashuraz is intelligent and politically connected, and his operations are complex enough that legal prosecution has been difficult. Ashuraz recognizes Pazasan as a threat and has begun working to undermine him through allegations of corruption and bias.
 
 ## Plot Hooks
 

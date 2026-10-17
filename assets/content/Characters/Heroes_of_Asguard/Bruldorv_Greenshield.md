@@ -361,13 +361,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Bruldorv stands 6'0" with a heavy, broad-shouldered frame, weighing about 210 pounds. His fair skin is deeply tanned from a lifetime working outdoors in all seasons, and his brown hair is thick and unruly, kept back with a simple leather cord. His green eyes are warm and steady, crinkling at the corners when he smiles, which is often. His features are broad and open, with a wide face, a blunt nose, full lips, and heavy brows above honest, uncomplicated eyes. Earth is always under his fingernails and worked into the creases of his weathered hands. Bruldorv wears practical farmer's clothing—a heavy linen tunic, leather breeches, and sturdy boots—with a green-painted wooden shield slung across his back and a worn oak staff in hand. Sprigs of fresh herbs are tucked into his belt, and the scent of turned earth follows him wherever he goes.
+Bruldorv Greenshield stands 6'0" with a heavy, broad-shouldered frame, weighing about 210 pounds. His fair skin is deeply tanned from a lifetime working outdoors in all seasons, and his brown hair is thick and unruly, kept back with a simple leather cord. His green eyes are warm and steady, crinkling at the corners when he smiles, which is often. His features are broad and open, with a wide face, a blunt nose, full lips, and heavy brows above honest, uncomplicated eyes. Earth is always under his fingernails and worked into the creases of his weathered hands. Bruldorv wears practical farmer's clothing—a heavy linen tunic, leather breeches, and sturdy boots—with a green-painted wooden shield slung across his back and a worn oak staff in hand. Sprigs of fresh herbs are tucked into his belt, and the scent of turned earth follows him wherever he goes.
 
 # Dossier {#dossier}
 
-Bruldorv was born into a family of farmers who lived in harmony with the land. From an early age, he showed an innate connection to nature, able to coax life from even the most barren soil. As he grew, he became known as Greenshield, a protector of the fields and forests, ensuring that the land remained fertile and that his people prospered. Bruldorv's dedication to Frodvin, the god of fertility, agriculture, peace, and healing, was evident in all he did. He became a leader in his community, teaching others to respect the earth and to live in harmony with it.
+Bruldorv was born into a family of farmers who lived in harmony with the land. From an early age, he showed an innate connection to nature, able to coax life from even the most barren soil. As he grew, he became known as Greenshield, a protector of the fields and forests, ensuring that the land remained fertile and that his people prospered. Bruldorv's dedication to [[lore-frodvindty|Frodvin]], the god of fertility, agriculture, peace, and healing, was evident in all he did. He became a leader in his community, teaching others to respect the earth and to live in harmony with it.
 
-The saga of Bruldorv Greenshield tells of his battle against a terrible drought that threatened to starve his people. For months, no rain fell, and the crops withered. Bruldorv journeyed deep into the ancient forest to find the Heart of the Wild, a sacred grove where Frodvin himself had once walked. He found the grove guarded by a fearsome beast—a manifestation of the drought's anger. Unarmed, Bruldorv faced the beast with nothing but his faith in Frodvin, calming its rage with words of peace. In a final act of devotion, Bruldorv offered his own life in exchange for the return of the rains. Moved by his selflessness, Frodvin granted him the power to heal the land without sacrifice.
+The saga of Bruldorv Greenshield tells of his battle against a terrible drought that threatened to starve his people. For months, no rain fell, and the crops withered. Bruldorv journeyed deep into the ancient forest to find the [Heart of the Wild]{.name data-type="place/site"}, a sacred grove where Frodvin himself had once walked. He found the grove guarded by a fearsome beast—a manifestation of the drought's anger. Unarmed, Bruldorv faced the beast with nothing but his faith in Frodvin, calming its rage with words of peace. In a final act of devotion, Bruldorv offered his own life in exchange for the return of the rains. Moved by his selflessness, Frodvin granted him the power to heal the land without sacrifice.
 
 ## Psyche
 
@@ -389,15 +389,15 @@ Bruldorv's connection to the earth gives him an intuitive understanding of agric
 
 ### Patrons
 
-**The Grove-Keepers of Frodvin**—A network of priests and druids who tend sacred groves throughout the northern lands. They recognize Bruldorv's special connection to Frodvin and provide him with knowledge, supplies, and ritual support.
+**[The Grove-Keepers of Frodvin]{.name data-type="affiliation"}**—A network of priests and druids who tend sacred groves throughout the northern lands. They recognize Bruldorv's special connection to Frodvin and provide him with knowledge, supplies, and ritual support.
 
-**Jarl Hlaskinda of [[place-hvulgdal|Hvulgdal]]**—A wise ruler who values Bruldorv's counsel on agricultural matters and has given him authority over the management of her lands' harvests.
+**Jarl [[being-hlaskynda|Hlaskinda]] of [[place-hvulgdal|Hvulgdal]]**—A wise ruler who values Bruldorv's counsel on agricultural matters and has given him authority over the management of her lands' harvests.
 
 ### Enemies
 
-**The Ash Reavers**—Raiders who practice scorched earth tactics, burning fields and salting the land as they go. Bruldorv has sworn to stop them.
+**[The Ash Reavers]{.name data-type="affiliation"}**—Raiders who practice scorched earth tactics, burning fields and salting the land as they go. Bruldorv has sworn to stop them.
 
-[[being-svlthsldashnmdn|Svilthselda Ashenmaiden]]—Though Svilthselda serves [[lore-svartbrandrdty|Svartbrandr]] with nobler intentions than most, her belief in purifying fire is antithetical to Bruldorv's dedication to growth and nurture. Their philosophical conflict has led to tense confrontations.
+[[being-svlthsldashnmdn|Svilthselda Ashenmaiden]]—Though Svilthselda serves the [[affiliation-svartbrandr|Faith of Svartbrandr]] with nobler intentions than most, her belief in purifying fire is antithetical to Bruldorv's dedication to growth and nurture. Their philosophical conflict has led to tense confrontations.
 
 ## Plot Hooks
 

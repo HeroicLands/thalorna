@@ -361,7 +361,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Mirvrinna stands 5'7" with a sturdy, strong-limbed frame, weighing about 165 pounds. Her fair skin is sun-darkened and freckled across the nose and cheeks, and her dark blonde hair is kept in a practical braid wound around her head to keep it out of her way while working. Her brown eyes are shrewd and appraising, the eyes of a woman who judges people by what they produce. Her features are plain and honest, with a round face, a snub nose, a firm chin, full lips, and sun-bleached brows. Her forearms are strong and brown from fieldwork, and her calloused hands are rarely idle. Mirvrinna dresses in practical homespun—a linen tunic, a heavy apron, leather shoes worn thin at the soles—with dried herbs hanging from her belt, filling the air around her with the scent of lavender and thyme. She carries a pruning knife and a leather pouch of seeds as naturally as a warrior carries a sword.
+Mirvrinna Harvest-Blessed stands 5'7" with a sturdy, strong-limbed frame, weighing about 165 pounds. Her fair skin is sun-darkened and freckled across the nose and cheeks, and her dark blonde hair is kept in a practical braid wound around her head to keep it out of her way while working. Her brown eyes are shrewd and appraising, the eyes of a woman who judges people by what they produce. Her features are plain and honest, with a round face, a snub nose, a firm chin, full lips, and sun-bleached brows. Her forearms are strong and brown from fieldwork, and her calloused hands are rarely idle. Mirvrinna dresses in practical homespun—a linen tunic, a heavy apron, leather shoes worn thin at the soles—with dried herbs hanging from her belt, filling the air around her with the scent of lavender and thyme. She carries a pruning knife and a leather pouch of seeds as naturally as a warrior carries a sword.
 
 # Dossier {#dossier}
 
@@ -381,7 +381,7 @@ Mirvrinna's goal is simple: to ensure that no one goes hungry. She seeks to spre
 
 ### Strengths
 
-Mirvrinna's agricultural knowledge combines practical expertise with divine blessing; crops she tends grow faster, stronger, and more abundant. She can sense the health of soil and diagnose blight before it becomes visible. Her standing at the stones of Vuldvangr gave her the ability to call rain once per season, a power she uses sparingly and only in real emergencies. Her practical skills make her invaluable to any settlement, and her network of farming communities gives her access to food, shelter, and information across the north.
+Mirvrinna's agricultural knowledge combines practical expertise with what she believes to be divine blessing; crops she tends grow faster, stronger, and more abundant. She can sense the health of soil and diagnose blight before it becomes visible. Her standing at the stones of Vuldvangr gave her the ability to call rain once per season, a power she uses sparingly and only in real emergencies. Her practical skills make her invaluable to any settlement, and her network of farming communities gives her access to food, shelter, and information across the north.
 
 ## Social
 
@@ -391,13 +391,13 @@ Mirvrinna's agricultural knowledge combines practical expertise with divine bles
 
 **The Standing Stones of [[place-vyldvangr|Vuldvangr]]**—This sacred site and its keepers provide Mirvrinna with spiritual power and a place to perform her most important rituals.
 
-**The Northern Farmers' Alliance**—A cooperative of farming communities that funds Mirvrinna's travels and implements her agricultural innovations across their lands.
+**[The Northern Farmers' Alliance]{.name data-type="affiliation"}**—A cooperative of farming communities that funds Mirvrinna's travels and implements her agricultural innovations across their lands.
 
 ### Enemies
 
-The Blight-Bringer—A mysterious entity or person responsible for the increasing frequency of crop failures across the north. Mirvrinna has been investigating and is getting dangerously close to the truth.
+[The Blight-Bringer]{.name data-type="lore"}—A mysterious entity or person responsible for the increasing frequency of crop failures across the north. Mirvrinna has been investigating and is getting dangerously close to the truth.
 
-**Jarl Glirvir's Tax Collectors**—A lord who imposes crushing taxes on the villages Mirvrinna serves, deliberately keeping them dependent and hungry. He views Mirvrinna's efforts to improve their harvests as a threat to his control.
+**Jarl [[being-glirvir|Glirvir]]'s Tax Collectors**—A lord who imposes crushing taxes on the villages Mirvrinna serves, deliberately keeping them dependent and hungry. He views Mirvrinna's efforts to improve their harvests as a threat to his control.
 
 ## Plot Hooks
 

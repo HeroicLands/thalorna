@@ -370,7 +370,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Haldena is a tall woman—6'0"—with a medium build that has been hardened by twenty-one years of gate watch duty into something resembling old leather over iron. Her dark blonde hair is shot through with gray and worn in a single heavy braid coiled at the nape of her neck. Her green eyes are arresting—bright and sharp beneath sun-darkened brows—and they miss nothing that passes through her gate. Her olive skin is deeply tanned, lined at the eyes and mouth, and a missing lower tooth on the right side gives her smile a slightly rakish quality that she has never bothered to correct. She wears the Ornetho gate watch uniform: a leather surcoat over quilted padding, leather knee boots, a broadsword on her hip, and a heavy iron ring of gate keys that jangles with every step.
+Haldena Durgana is a tall woman—6'0"—with a medium build that has been hardened by twenty-one years of gate watch duty into something resembling old leather over iron. Her dark blonde hair is shot through with gray and worn in a single heavy braid coiled at the nape of her neck. Her green eyes are arresting—bright and sharp beneath sun-darkened brows—and they miss nothing that passes through her gate. Her olive skin is deeply tanned, lined at the eyes and mouth, and a missing lower tooth on the right side gives her smile a slightly rakish quality that she has never bothered to correct. She wears the [[place-ronetho|Ornetho]] gate watch uniform: a leather surcoat over quilted padding, leather knee boots, a broadsword on her hip, and a heavy iron ring of gate keys that jangles with every step.
 
 # Dossier {#dossier}
 
@@ -402,17 +402,17 @@ Haldena is respected and feared alike. She has few friends outside her work fami
 
 ### Patrons
 
-**City Governor Kekhebon Yegis**—The official administrator of Ornetho city. Kekhebon has held power for twelve years and has come to rely on Haldena's intelligence about who is entering the city and what they are bringing with them. He has supported her advancement in the gate watch and has made it clear that she can request assistance for major operations.
+**City Governor [Kekhebon Yegis]{.name data-type="being/npc"}**—The official administrator of Ornetho city. Kekhebon has held power for twelve years and has come to rely on Haldena's intelligence about who is entering the city and what they are bringing with them. He has supported her advancement in the gate watch and has made it clear that she can request assistance for major operations.
 
 ### Enemies
 
-**Smuggling Magnate Garrutsa Galtsuris**—A merchant of questionable legitimacy who has been running contraband through Ornetho's gates for decades. Haldena has prevented his operations repeatedly, seized contraband, even temporarily arrested his agents. But Galtsuris is wealthy enough to work through the courts, and his seized property has been returned through appeals. The man is her direct rival, and they have come to respect and deeply resent each other in the same degree.
+**Smuggling Magnate [[being-garratsagalt|Garrutsa Galtsuris]]**—A merchant of questionable legitimacy who has been running contraband through Ornetho's gates for decades. Haldena has prevented his operations repeatedly, seized contraband, even temporarily arrested his agents. But Galtsuris is wealthy enough to work through the courts, and his seized property has been returned through appeals. The man is her direct rival, and they have come to respect and deeply resent each other in the same degree.
 
 ## Plot Hooks
 
 1. **The Impossible Choice**—Haldena detects a significant smuggling operation coming through the gates: weapons destined for what she later learns is a separatist faction. She has evidence to arrest the operatives and seize the weapons. But investigation reveals that the separatists are actually a group of refugees fleeing political persecution in a neighboring state, and the weapons are for self-defense against those pursuing them. Arresting them sends them back to execution. Allowing them through violates the city's neutrality policy. The law and her conscience point opposite ways.
 
-2. **The Traitor in Her Ranks**—Haldena discovers that one of her trusted subordinates, **Guard Captain Zekudi**, has been accepting bribes from Garrutsa Galtsuris in exchange for allowing contraband through the gates. Zekudi is skilled and has been praised for his work. The betrayal is personal as well as a breach of duty. Haldena can arrest Zekudi, ending his service in disgrace, or give him a chance to resign and disappear, which allows Galtsuris to win this round but preserves the life of a man who made a terrible mistake.
+2. **The Traitor in Her Ranks**—Haldena discovers that one of her trusted subordinates, **Guard Captain [[being-zekudironeta|Zekudi Ornetis]]**, has been accepting bribes from Garrutsa Galtsuris in exchange for allowing contraband through the gates. Zekudi is skilled and has been praised for his work. The betrayal is personal as well as a breach of duty. Haldena can arrest Zekudi, ending his service in disgrace, or give him a chance to resign and disappear, which allows Galtsuris to win this round but preserves the life of a man who made a terrible mistake.
 
 3. **The Governor's Secret**—City Governor Kekhebon approaches Haldena privately with a request: allow a specific individual to enter the city without inspection and with minimal documentation. The individual is a foreign agent with whom Kekhebon is secretly negotiating. Haldena is being asked to compromise her integrity and position for the governor's political ends. Refusing means losing her patron and probably her position. Accepting makes her complicit in whatever political scheme Kekhebon is conducting.
 

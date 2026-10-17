@@ -401,7 +401,7 @@ sohl:
 
 ![[lucernsrnt|Lukeros Serenthis]]{float=top-left}
 
-Lukeros Serenthis is a handsome young man whose appearance screams wealth and education in an environment that has neither. His brown hair is neatly trimmed, his green eyes are sharp and analytical behind an expression of perpetual, slightly anxious alertness, and his clothing—though travel-worn—is of noticeably finer quality than anything else aboard the Tamzir. He maintains his grooming with fastidious care, a habit his crewmates find equal parts admirable and irritating. He carries a large leather medical bag of exquisite craftsmanship, containing surgical instruments of the finest quality and an extensive supply of drugs and herbs. He also carries an eating fork, which the crew considers the height of pretension.
+Lukeros Serenthis is a handsome young man whose appearance screams wealth and education in an environment that has neither. His brown hair is neatly trimmed, his green eyes are sharp and analytical behind an expression of perpetual, slightly anxious alertness, and his clothing—though travel-worn—is of noticeably finer quality than anything else aboard [[affiliation-thetamzir|The Tamzir]]. He maintains his grooming with fastidious care, a habit his crewmates find equal parts admirable and irritating. He carries a large leather medical bag of exquisite craftsmanship, containing surgical instruments of the finest quality and an extensive supply of drugs and herbs. He also carries an eating fork, which the crew considers the height of pretension.
 
 # Dossier {#dossier}
 
@@ -409,15 +409,15 @@ Lukeros Serenthis is a handsome young man whose appearance screams wealth and ed
 
 ### Origin
 
-Lukeros was born in the Vylarian city of [[place-belekos|Belekos]], the son of a wealthy and successful guild merchant. His family occupied the comfortable upper tiers of Vylarian society—not nobility, but close enough to move in those circles. Lukeros was brilliant from childhood, excelling in every academic pursuit, and his parents had every expectation that he would enter the imperial civil service or perhaps the university. Instead, at sixteen, he chose medicine.
+Lukeros was born in the [[lore-vylarianclt|Vylarian]] city of [[place-belekos|Belekos]], the son of a wealthy and successful guild merchant. His family occupied the comfortable upper tiers of Vylarian society—not nobility, but close enough to move in those circles. Lukeros was brilliant from childhood, excelling in every academic pursuit, and his parents had every expectation that he would enter the imperial civil service or perhaps the university. Instead, at sixteen, he chose medicine.
 
 ### Training
 
-Lukeros apprenticed to a surgeon-physician in Azerya, the intellectual capital of the southern coast, where medical training is considered the finest in the known world. He proved to be a prodigy—his hands were supernaturally steady, his mind was sharp as a scalpel, and his capacity for absorbing complex medical knowledge was extraordinary. By twenty-two he had completed his training and was poised for a brilliant career in the Vylarian medical establishment.
+Lukeros apprenticed to a surgeon-physician in [Azerya]{.name data-type="place/settlement"}, the intellectual capital of the southern coast, where medical training is considered the finest in the known world. He proved to be a prodigy—his hands were supernaturally steady, his mind was sharp as a scalpel, and his capacity for absorbing complex medical knowledge was extraordinary. By twenty-two he had completed his training and was poised for a brilliant career in the Vylarian medical establishment.
 
 ### The Rescue
 
-Everything changed when Lukeros's younger sister, Kivella, was taken by the [[affiliation-ordoarcanis|Thordimalon]].
+Everything changed when Lukeros's younger sister, [[being-cibelasrnt|Kivella Serenthis]], was taken by the [[affiliation-ordoarcanis|Thordimalon]].
 
 Kivella had always been different—brilliant, mercurial, with an extraordinary arcane aura that drew attention from the moment it manifested. The Order identified her at thirteen and invited her to study at one of their academies. The family was honored. For two years, Kivella wrote glowing letters home. Then the letters stopped. When Lukeros finally gained access to the academy, what he found destroyed his world. The Order had been experimenting on his sister, pushing her abilities beyond safe limits, and the process had left her damaged—erratic, traumatized, and partially broken.
 
@@ -425,7 +425,7 @@ Lukeros sacrificed everything to get her out. He used his family's wealth, calle
 
 ### Aboard the Tamzir
 
-Lukeros and Kivella boarded the Tamzir eighteen months ago in a desperate arrangement brokered through Bu's network of contacts. Lukeros pays well for their passage and provides the crew with medical care they could never otherwise afford. In return, the Tamzir's constant movement and the crew's discretion keep the siblings one step ahead of the Order's agents. It is a fragile arrangement, and Lukeros lives in constant fear that it will collapse.
+Lukeros and Kivella boarded the Tamzir eighteen months ago in a desperate arrangement brokered through the contact network of [[being-zbzmjkdn|Zabuzum Jakuduni]], known as Bu. Lukeros pays well for their passage and provides the crew with medical care they could never otherwise afford. In return, the Tamzir's constant movement and the crew's discretion keep the siblings one step ahead of the Order's agents. It is a fragile arrangement, and Lukeros lives in constant fear that it will collapse.
 
 ## Psyche
 

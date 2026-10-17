@@ -396,9 +396,9 @@ Hrodar yra Arnthúl wur Erthhaven is a tall, gaunt man with the angular look of 
 
 # Dossier {#dossier}
 
-Hrodar was a timber cutter's son from a logging settlement in the deep pine country. His family worked the imperial timber concession—felling and dragging pine logs to a river depot where Vylarian agents paid a fraction of their worth and called it fair. It was a hard, honest life, and Hrodar might have lived it without complaint had the concession not been sold to a Vylarian _kurthos_'s factor who halved the already miserable wages and doubled the quotas.
+Hrodar was a timber cutter's son from a logging settlement in the deep pine country. His family worked the imperial timber concession—felling and dragging pine logs to a river depot where [[lore-vylarianclt|Vylarian]] agents paid a fraction of their worth and called it fair. It was a hard, honest life, and Hrodar might have lived it without complaint had the concession not been sold to a Vylarian _kurthos_'s factor who halved the already miserable wages and doubled the quotas.
 
-When Hrodar's father was killed by a falling tree—exhausted, rushing to meet an impossible deadline—the twenty-year-old confronted the factor and broke his jaw. He fled into the forest that same day, knowing the garrison would come. He spent years drifting between illegal logging camps, poaching outfits, and seasonal labor, growing harder and more bitter with each passing winter. He joined the Blackpine Wolves eighteen months ago, recruited by Vandarik in a border tavern, and has proven himself a dependable fighter and woodsman—silent, tough, and willing to do what needs doing without being asked twice.
+When Hrodar's father was killed by a falling tree—exhausted, rushing to meet an impossible deadline—the twenty-year-old confronted the factor and broke his jaw. He fled into the forest that same day, knowing the garrison would come. He spent years drifting between illegal logging camps, poaching outfits, and seasonal labor, growing harder and more bitter with each passing winter. He joined [[affiliation-blckpnwlvs|The Blackpine Wolves]] eighteen months ago, recruited by [[being-vndrcgrwld|Vandarik yra Garwald wur Fródhaven]] in a border tavern, and has proven himself a dependable fighter and woodsman—silent, tough, and willing to do what needs doing without being asked twice.
 
 He is the gang member most driven by grievance. He hates the [[affiliation-vylarinmpr|Vylarian Empire]] with a focused, personal fury that the others—motivated by greed, desperation, or indifference—cannot match. Every merchant he robs is a proxy for the factor who killed his father through negligence, and every Vylarian soldier he fights is an agent of the system that ground his family into the dirt.
 
@@ -410,7 +410,7 @@ Hrodar is a solid, workmanlike fighter—not brilliant, but reliable and hard to
 
 ### Personality
 
-Hrodar is bitter, taciturn, and consumed by resentment. He is not chaotic or unpredictable like Dagbán—his anger is cold, steady, and aimed squarely at the Vylarian Empire and everyone who profits from it. He does the work of banditry with grim thoroughness and takes no pleasure in cruelty for its own sake, though he shows no mercy to Vylarian soldiers or imperial officials. Among the gang he is quiet and dependable, does his share without complaint, and neither seeks nor offers friendship. He occasionally mutters to himself in Varokhi when he thinks no one is listening.
+Hrodar is bitter, taciturn, and consumed by resentment. He is not chaotic or unpredictable like [[being-dagulfvthr|Dagbán yra Vethar wur Thrareth]]—his anger is cold, steady, and aimed squarely at the Vylarian Empire and everyone who profits from it. He does the work of banditry with grim thoroughness and takes no pleasure in cruelty for its own sake, though he shows no mercy to Vylarian soldiers or imperial officials. Among the gang he is quiet and dependable, does his share without complaint, and neither seeks nor offers friendship. He occasionally mutters to himself in the [[skill-varokhlng|Varokhi Language]] when he thinks no one is listening.
 
 ### Motivation
 
@@ -424,7 +424,7 @@ His reliability, toughness, and forest skills make him a valuable gang member. H
 
 ## Companions
 
-The Blackpine Wolves. He respects Thrawald's steadiness and tolerates Vandarik's usefulness. He is wary of Skathilda and indifferent to Brunjár. He follows Dagbán's orders because the gang serves his purpose, not out of loyalty.
+The Blackpine Wolves. He respects [[being-thrwldhldskrn|Thrawald yra Hildskorn wur Thrastein]]'s steadiness and tolerates Vandarik's usefulness. He is wary of [[being-skthldfrdbn|Skathilda yra Frodbán wur Vandgrund]] and indifferent to [[being-brunjarskathhel|Brunjár yra Skathhelm wur Druthholt]]. He follows Dagbán's orders because the gang serves his purpose, not out of loyalty.
 
 ### Patrons
 
@@ -438,6 +438,6 @@ The Vylarian timber concession's current operators. The garrison that pursued hi
 
 1. **The Factor's Return**—The Vylarian factor whose jaw Hrodar broke nine years ago has returned to Vristwald as part of a new imperial delegation. Hrodar learns of his presence and abandons the gang to pursue a personal vendetta. Dagbán sends the party—or the party is independently hired—to find the missing bandit before he does something that brings the full weight of the garrison down on the Blackpine Wolves.
 
-2. **The Timber War**—A Varokh logging settlement is being squeezed by the same exploitative imperial concession system that destroyed Hrodar's family. The loggers are considering armed resistance and have sent word into the forest looking for men willing to fight. Hrodar is eager to join them, which would pull him away from the gang and potentially spark a broader conflict. The party arrives in the middle of escalating tensions.
+2. **The Timber War**—A [[lore-varokhiclt|Varokhi]] logging settlement is being squeezed by the same exploitative imperial concession system that destroyed Hrodar's family. The loggers are considering armed resistance and have sent word into the forest looking for men willing to fight. Hrodar is eager to join them, which would pull him away from the gang and potentially spark a broader conflict. The party arrives in the middle of escalating tensions.
 
 3. **The Silent Guide**—The party needs a guide through a particularly treacherous stretch of the Vristwald interior. Hrodar, separated from the gang after a botched robbery, is the only person in the area who knows the route. He will help—for a price, and only if the party is not traveling with Vylarian soldiers or imperial merchants. His knowledge of the forest is real, but his hatred of the empire could make him a dangerous companion if the party's allegiances are not what they seem.

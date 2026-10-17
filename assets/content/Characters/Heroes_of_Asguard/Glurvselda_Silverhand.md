@@ -361,7 +361,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Glurvselda stands 5'6" with a medium, well-proportioned frame, weighing about 145 pounds. Her light skin is smooth and well-maintained, and her silver hair—prematurely colored, not from age—is her most distinctive feature, kept in a neat coil at the nape of her neck. Her hazel eyes are sharp and assessing, with the practiced warmth of someone who knows exactly what her smile is worth. Her features are attractive and shrewd, with an oval face, an aquiline nose, a pointed chin, and lips that purse thoughtfully when she is calculating. Her hands are adorned with rings of silver and trade-metal, each one a memento of a deal successfully closed. Glurvselda dresses in practical but expensive clothing—fine wool, good leather, discreet jewelry—projecting wealth without ostentation. She carries a ledger in a leather case and a weighted purse at her belt, and her boots are always immaculate despite constant travel.
+Glurvselda Silverhand stands 5'6" with a medium, well-proportioned frame, weighing about 145 pounds. Her light skin is smooth and well-maintained, and her silver hair—prematurely colored, not from age—is her most distinctive feature, kept in a neat coil at the nape of her neck. Her hazel eyes are sharp and assessing, with the practiced warmth of someone who knows exactly what her smile is worth. Her features are attractive and shrewd, with an oval face, an aquiline nose, a pointed chin, and lips that purse thoughtfully when she is calculating. Her hands are adorned with rings of silver and trade-metal, each one a memento of a deal successfully closed. Glurvselda dresses in practical but expensive clothing—fine wool, good leather, discreet jewelry—projecting wealth without ostentation. She carries a ledger in a leather case and a weighted purse at her belt, and her boots are always immaculate despite constant travel.
 
 # Dossier {#dossier}
 
@@ -377,7 +377,7 @@ Glurvselda is shrewd and charismatic, with an eye for value that extends beyond 
 
 ### Motivation
 
-Glurvselda believes that prosperity is the foundation of peace and that trade connects people in ways that treaties and marriages cannot. She seeks to build a trade network that spans the known world, believing that mutual economic dependence will make war unprofitable and therefore unlikely. She also searches for the mythical Golden Market, a legendary bazaar said to appear once every century where anything can be bought or sold.
+Glurvselda believes that prosperity is the foundation of peace and that trade connects people in ways that treaties and marriages cannot. She seeks to build a trade network that spans the known world, believing that mutual economic dependence will make war unprofitable and therefore unlikely. She also searches for the mythical [Golden Market]{.name data-type="place/site"}, a legendary bazaar said to appear once every century where anything can be bought or sold.
 
 ### Strengths
 
@@ -389,15 +389,15 @@ Glurvselda is one of the wealthiest individuals in the northern lands, and her t
 
 ### Patrons
 
-**The Merchant Guild of the Northern Coast**—The most powerful trade organization in the north, which Glurvselda effectively controls through a combination of investment, alliance, and strategic favors.
+**[The Merchant Guild of the Northern Coast]{.name data-type="affiliation/guild"}**—The most powerful trade organization in the north, which Glurvselda effectively controls through a combination of investment, alliance, and strategic favors.
 
-**The Dragon of the Northern Mountains**—The dragon she negotiated with has become an unlikely ally, providing protection for her most valuable caravans in exchange for a share of the profits.
+**[The Dragon of the Northern Mountains]{.name data-type="being/creature"}**—The dragon she negotiated with has become an unlikely ally, providing protection for her most valuable caravans in exchange for a share of the profits.
 
 ### Enemies
 
-**The Pirate Lords of the Eastern Seas**—Maritime raiders who target Glurvselda's trade ships and view her growing trade network as a threat to their control of the sea lanes.
+**[The Pirate Lords of the Eastern Seas]{.name data-type="affiliation/criminal"}**—Maritime raiders who target Glurvselda's trade ships and view her growing trade network as a threat to their control of the sea lanes.
 
-**Jarl Kralmil the Miser**—A lord who has built his power on controlling trade through his territory and views Glurvselda's alternative trade routes as an existential threat to his wealth.
+**Jarl [[being-kraldmylthem|Kralmil the Miser]]**—A lord who has built his power on controlling trade through his territory and views Glurvselda's alternative trade routes as an existential threat to his wealth.
 
 ## Plot Hooks
 

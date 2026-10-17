@@ -394,9 +394,9 @@ Kuthmund Sherwin is a 52-year-old man who stands 5'11" tall and is broad and sol
 
 # Dossier {#dossier}
 
-Kuthmund Sherwin is a woodcutter of Thornbury, the harbor seat of the Republic of Ondareth in [[place-aelwyth|Aelwyth]], an Aelwythan freeman who has cut timber in the woods behind the town for thirty-five years and planted more trees than he has felled.
+Kuthmund Sherwin is a woodcutter of [[place-thornbury|Thornbury]], the harbor seat of the [[affiliation-repblcndrth|Republic of Ondareth]] in [[place-aelwyth|Aelwyth]], an [[lore-aelwythanclt|Aelwythan]] freeman who has cut timber in the woods behind the town for thirty-five years and planted more trees than he has felled.
 
-The harbor at Thornbury is the busiest thing in the republic, and its carrying trade eats timber: hulls, masts, wharf-piling, warehouse frames. Kuthmund has supplied it since he was a boy, working the oak and ash on the slopes above the town, first for his father's crew and then for his own. He replants every stand he clears with saplings from his own nursery, on the reasoning that his father's wood fed him and his own should feed somebody, and he will not use the two-man saws that came in from Vylaria a decade ago, which are faster, more dangerous, and leave a stump that will not coppice. Half the younger cutters in Thornbury learned their axe from him, and most of them have since bought a saw, which he takes personally.
+The harbor at Thornbury is the busiest thing in the republic, and its carrying trade eats timber: hulls, masts, wharf-piling, warehouse frames. Kuthmund has supplied it since he was a boy, working the oak and ash on the slopes above the town, first for his father's crew and then for his own. He replants every stand he clears with saplings from his own nursery, on the reasoning that his father's wood fed him and his own should feed somebody, and he will not use the two-man saws that came in from the [[place-vylariargn|Vylaria Region]] a decade ago, which are faster, more dangerous, and leave a stump that will not coppice. Half the younger cutters in Thornbury learned their axe from him, and most of them have since bought a saw, which he takes personally.
 
 In Thornbury, cutters know Kuthmund as the old man with the saplings.
 
@@ -416,7 +416,7 @@ Experienced, physically strong, resilient, committed to keeping the woods in gro
 
 ## Social
 
-Kuthmund is a member of the Woodcutters' Guild of Thornbury and has been its warden twice.
+Kuthmund is a member of the [Woodcutters' Guild of Thornbury]{.name data-type="affiliation/guild"} and has been its warden twice.
 
 ## Companions
 

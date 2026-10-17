@@ -400,9 +400,9 @@ Frodwin yra Domhár wur Dunkelwald is a 34-year-old woman who stands 5'8" tall a
 
 # Dossier {#dossier}
 
-Frodwin is a scholar of plants and their uses at Dunkelwald, a deep-forest settlement of [[place-vrystwald|Vristwald]], a Varokhi woman of a War Chief's house who has written the forest's healing lore down.
+Frodwin is a scholar of plants and their uses at [[place-dunkelwald|Dunkelwald]], a deep-forest settlement of [[place-vrystwald|Vristwald]], a [[lore-varokhiclt|Varokhi]] woman of a War Chief's house who has written the forest's healing lore down.
 
-Frodwin was sent as a girl to the border towns of Moktur, where she learned letters from a Vylarian physician's wife, and came home with the idea that what the wise-women carry in their heads could be set down. She has spent fifteen years doing it, walking the forest with the wise-women of a dozen villages and writing what they know out in Varokhi, in books that have gone down the rivers with the fur-boats to villages she has never visited. She teaches it to any woman who will sit with her, and she means it to be used; knowledge not put to work, she holds, is not knowledge.
+Frodwin was sent as a girl to the border towns of [[place-moktur|Moktur]], where she learned letters from a [[lore-vylarianclt|Vylarian]] physician's wife, and came home with the idea that what the wise-women carry in their heads could be set down. She has spent fifteen years doing it, walking the forest with the wise-women of a dozen villages and writing what they know out in the [[skill-varokhlng|Varokhi Language]], in books that have gone down the rivers with the fur-boats to villages she has never visited. She teaches it to any woman who will sit with her, and she means it to be used; knowledge not put to work, she holds, is not knowledge.
 
 ## Psyche
 
