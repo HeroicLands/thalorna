@@ -13,18 +13,18 @@ data:
   packFolder: provenzia
 ---
 
-**Zuravlen** is a barony of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]], in the
+The **[[affiliation-brnyzrvln|Barony of Zuravlen]]** is a barony of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]], in the
 [[place-provenzrgn|Provenzia Region]]—a short, cliff-bound coast and the long river valley behind
-it, and the source of the finest peaches in Ankaris and some of its more highly regarded wine.
+it, and the source of the finest peaches on the [[place-ankrscntnnt|Ankaris Continent]] and some of its more highly regarded wine.
 
-The barony is held of the Crown at [[place-jalnazdal|Jalnasdal]] by **Álegar alrí Zuravel**, who is
+The barony is held of the Crown at [[place-jalnazdal|Jalnasdal]] by **[Selvare Zuravel]{.name data-type="being/npc"}**, who is
 also Baron of [[place-kyvarel|Kivarel]], and who sits at [[place-elthrembis|Eltrembis]]. His clan's prominent support of
-the Order of the Burning Brand gives a small agricultural barony rather more weight in Provenzian
+the [Order of the Burning Brand]{.name data-type="affiliation/order"} gives a small agricultural barony rather more weight in Provenzian
 affairs than its size would suggest.
 
 ## The Region and the Barony
 
-**Zuravlen** names two things, and Provenzians rarely bother to distinguish them.
+The **Zuravlen Region** shares its name with the barony, and Provenzians rarely bother to distinguish them.
 
 The **region** is the whole of Provenzia's western seaboard—some three-quarters of a million people
 along a long cliff coast and the valleys behind it, facing the cold ocean. It is the poorest and
@@ -32,7 +32,7 @@ hardest-used quarter of the kingdom: thin soils, few harbors, weather off the wa
 Vylarian trade that made the south rich. Its living is fishing, salt, wool, timber and small mixed
 farming, and its people are regarded in the south as dour and in the north as provincial.
 
-The **barony** is one valley of it—Álegar alrí Zuravel's holding, some twelve thousand souls—and it
+The **barony** is one valley of it—Selvare Zuravel's holding, some twelve thousand souls—and it
 is why the region has the name at all. Fruit and wine out of that valley are known in every market in
 Ankaris, and no other thing produced on the western coast is known anywhere. So the whole seaboard is
 called after it, which the rest of the seaboard finds by turns convenient and irritating.
@@ -94,7 +94,7 @@ is done in winter by men whose families have done nothing else for generations. 
 bearing in its fourth year and is finished by its twentieth, so a third of the barony's orchards are
 always young, and the Zuravlen describe an orchard by its age before anything else.
 
-**Fresh fruit does not travel**—overland. A peach picked at Palnebris is worth a fortune in Válaren
+**Fresh fruit does not travel**—overland. A peach picked at [[place-palnebris|Palnebris]] is worth a fortune in [[place-valarencity|Válaren City]]
 and worthless four days later, which for most of the barony's history meant the fresh trade was a
 prestige trade and nothing more. What left the valley in quantity was preserved:
 
@@ -176,16 +176,16 @@ Volsater are not called to it and do not come. The valley has never entirely for
 distinction neither side chose.
 
 The vigil is a religious occasion as much as an agricultural one. Priests of
-[[affiliation-lizelas|Lizelas]] walk the rows through the night, and it is bad luck and worse manners
-to refuse a call. Baron Álegar's people note, without ever quite saying it, how well the practice sits
+the [[affiliation-lizelas|Faith of Lizelas]] walk the rows through the night, and it is bad luck and worse manners
+to refuse a call. Baron Selvare's people note, without ever quite saying it, how well the practice sits
 with the Order of the Burning Brand.
 
 ## Faith
 
-Provenzia is [[affiliation-arldnpnthn|Aureldian]], and Zuravlen's devotion falls naturally to two of
-the Twelve: [[affiliation-olvenia|Ólvenia]], the Bountiful One, whose symbol is a tree hung with
+Provenzia follows the [[affiliation-arldnpnthn|Aureldian Pantheon]], and Zuravlen's devotion falls naturally to two of
+the Twelve: [[lore-olveniadty|Ólvenia]], the Bountiful One, whose symbol is a tree hung with
 golden fruit and who is honored at harvest with the first-picked basket of every orchard; and
-[[affiliation-lizelas|Lizelas]], the Nurturer, who owns the blossom and the vigil. The Zuravlen
+[[lore-lizelasdty|Lizelas]], the Nurturer, to whom the blossom and the vigil are dedicated. The Zuravlen
 hold that the two goddesses divide the year between them, and that Ólvenia gets the credit for what
 Lizelas saved.
 

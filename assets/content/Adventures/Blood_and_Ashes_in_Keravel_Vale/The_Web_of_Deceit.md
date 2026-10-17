@@ -30,7 +30,7 @@ In this part, the adventurers track down Kilan's true motives and confront him. 
 ## Key Players
 
 - **Darisen al Olrun**: An erudite and seemingly benign individual with deep knowledge of Black Flame history. Darisen offers assistance in understanding Kilan, his motives, deciphering the cryptic clues, and tracking the shrine's location. Unbeknownst to everyone, Darisen is actually a Sélmoran with his own designs to acquire the artifact for Sélmoros.
-- **Kilan alrí Ilovrel na Ilovren**: Lord of [[place-ilovren|Ilovren]]
+- **Kilan Ilovrel na Ilovren**: Lord of [[place-ilovren|Ilovren]]
 - **Kaldin al Lénavel na Leravren**: Lord of Leravren, and member of the Zuravel clan of the Black Flame.
 
 ## Key Events

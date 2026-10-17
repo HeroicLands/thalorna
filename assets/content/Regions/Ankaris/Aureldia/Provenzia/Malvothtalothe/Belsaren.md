@@ -25,7 +25,7 @@ The village is divided accordingly. Every peasant of Belsaren supports Tarlas op
 
 ## The Hand Behind It
 
-The quarrel between the two lords serves a third. **Kilan alrí Ilovrel**, lord of neighboring [[place-ilovren|Ilovren]], wants Belsaren's timber, its minerals and its road into the Blood Hills, and he has been feeding Thárion resources and false intelligence to keep the raids going until the Marshal loses patience with Tarlas. Neither lord of Belsaren knows it.
+The quarrel between the two lords serves a third. **Kilan Ilovrel**, lord of neighboring [[place-ilovren|Ilovren]], wants Belsaren's timber, its minerals and its road into the Blood Hills, and he has been feeding Thárion resources and false intelligence to keep the raids going until the Marshal loses patience with Tarlas. Neither lord of Belsaren knows it.
 
 ## See Also
 

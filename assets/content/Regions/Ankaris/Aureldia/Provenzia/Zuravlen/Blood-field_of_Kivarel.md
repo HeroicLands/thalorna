@@ -8,8 +8,7 @@ tags: [valley, inland]
 data: {demonym: null, lore: [], parents: [zuravlenrgn], population: null, packFolder: provenzia}
 ---
 
-In the western valleys, in the barony of [[place-kyvarel|Kivarel]]—held with [[place-zuravlenrgn|Zuravlen]] by Álegar
-alrí Zuravel—lies a **quickening**: a [[lore-bloodfields|blood-field]] where the ground grows too
+In the western valleys, in the barony of [[place-kyvarel|Kivarel]]—held with the [[affiliation-brnyzrvln|Barony of Zuravlen]] by [Selvare Zuravel]{.name data-type="being/npc"}—lies the Blood-field of Kivarel, a **quickening**: a [[lore-bloodfields|blood-field]] where the ground grows too
 well.
 
 ## The Quickening
@@ -25,11 +24,11 @@ table is answered politely and not answered again.
 ## The Difficulty
 
 The awkwardness is not superstition, and everyone involved knows exactly what it is. The produce is
-excellent, it is sold across Provenzia under no particular name, and a good deal of it goes into the
+excellent, it is sold across the [[place-provenzrgn|Provenzia Region]] under no particular name, and a good deal of it goes into the
 preserving trades of Zuravlen—which is to say that some meaningful share of the finest fruit
-conserves in Ankaris is grown on a battlefield.
+conserves on the [[place-ankrscntnnt|Ankaris Continent]] is grown on a battlefield.
 
-The clergy of [[affiliation-selmoros|Sélmoros]] have twice offered to perform the rite of settlement
+The clergy of the [[affiliation-selmoros|Faith of Sélmoros]] have twice offered to perform the rite of settlement
 here. They were refused both times, courteously, by the tenants rather than the lord—on the grounds
 that nobody knows whether settling a quickened field would end the quickening, and that the district
 cannot afford to find out.

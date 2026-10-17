@@ -8,12 +8,12 @@ tags: [village, river]
 data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 240, packFolder: provenzia}
 ---
 
-**Blavera** lies on the flat ground where the Zuravlen river slows, and grows wheat, barley, beans and
+**Blavera** lies on the flat ground where the [Zuravlen river]{.name data-type="place/feature"} slows, and grows wheat, barley, beans and
 a modest strip of orchard along its northern edge. It is neither rich nor poor, exports nothing under
 its own name, and feeds a good deal of the barony.
 
-Use Blavera as the model of an **ordinary mixed manor**. Most of [[place-zuravlenrgn|Zuravlen]] looks
-like this; Palnebris is the exception that gets talked about.
+Use Blavera as the model of an **ordinary mixed manor**. Most of the [[place-zuravlenrgn|Zuravlen Region]] looks
+like this; [[place-palnebris|Palnebris]] is the exception that gets talked about.
 
 ## The Manor
 
@@ -25,7 +25,7 @@ like this; Palnebris is the exception that gets talked about.
   ordinary way and neither is seriously contested.
 - **The fold.** Blavera's own flock is folded on the fallow at night, which is where its yields come
   from. Its surplus dung is sold up the valley, and this is Blavera's quiet second income.
-- **Orchard.** Perhaps four hectares, dried in the baron's yards at Eltrembis like everybody else's.
+- **Orchard.** Perhaps four hectares, dried in the baron's yards at [[place-elthrembis|Eltrembis]] like everybody else's.
   Enough to matter in a good year and not enough to ruin the manor in a bad one, which is precisely
   the point.
 

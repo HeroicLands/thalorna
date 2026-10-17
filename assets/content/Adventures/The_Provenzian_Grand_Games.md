@@ -14,11 +14,11 @@ data:
   packFolder: adventures
 ---
 
-The [Lordeme]{.name data-type="lore/gathering"} (Provenzian Grand Games), the realm's greatest athletic and martial competition, is held in the City of Hárivren. The party may compete, investigate corruption, or become entangled in plots and assassinations that threaten the event and those attending.
+The [Lordeme]{.name data-type="lore/gathering"} (Provenzian Grand Games), the realm's greatest athletic and martial competition, is held in [[place-harivrencity|Hárivren City]]. The party may compete, investigate corruption, or become entangled in plots and assassinations that threaten the event and those attending.
 
 ## Overview
 
-Every five years, the City of Hárivren hosts the Lordeme—a festival of martial prowess, athletic excellence, and elaborate ceremonies that draws competitors and spectators from across [[place-provenzrgn|Provenzia Region]] and beyond. Nobles prove their worth, commoners rise to glory, merchants deal in spectacular wagers, and the [[affiliation-arldnpnthn|Aureldian]] faith is honored through sacred games. The event is also a nexus of political intrigue, as factions maneuver for influence and rivals settle scores. The party may be competitors, investigators, or unwilling participants in machinations that threaten the games themselves.
+Every five years, the City of Hárivren hosts the Lordeme—a festival of martial prowess, athletic excellence, and elaborate ceremonies that draws competitors and spectators from across [[place-provenzrgn|Provenzia Region]] and beyond. Nobles prove their worth, commoners rise to glory, merchants deal in spectacular wagers, and the twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] are honored through sacred games. The event is also a nexus of political intrigue, as factions maneuver for influence and rivals settle scores. The party may be competitors, investigators, or unwilling participants in machinations that threaten the games themselves.
 
 ## Stage One: Arrival & Opportunity
 
@@ -70,12 +70,12 @@ The party's involvement (whether as competitors or investigators) inevitably dee
 - A spectacular assassination or poisoning occurs during the games
 - Evidence implicates a powerful noble or unexpected figure
 - Multiple conspiracies are revealed to be overlapping or connected
-- The [[affiliation-ordoarcanis|Thordimalon]] begins their own investigation (potentially conflicting with the party's)
+- The Thordimalon begins their own investigation (potentially conflicting with the party's)
 - Threats escalate: the party receives warnings, is physically attacked, or faces magical compulsion
 
 **Key Discoveries:**
 
-- The assassination plot targets the ruler of [[place-provenzrgn|Provenzia Region]] or another prominent dignitary
+- The assassination plot targets the ruler of Provenzia Region or another prominent dignitary
 - Cheating is far more widespread than initially suspected
 - An outside power (the [[affiliation-vylarinmpr|Vylarian Empire]], [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] agents, etc.) is manipulating events
 - One of the party members is recognized or identified as a threat by conspirators
@@ -87,7 +87,7 @@ The party must decide how to act. Options include:
 
 - **Expose the Conspirators:** Publicly reveal the truth, risking the games' cancellation and potential violence
 - **Disrupt the Assassination:** Prevent the assassination through intervention or warning the target
-- **Work with Authorities:** Alert the city guard or [[affiliation-ordoarcanis|Thordimalon]] and coordinate response
+- **Work with Authorities:** Alert the city guard or Thordimalon and coordinate response
 - **Confront the Conspirators Directly:** Attempt to stop them through negotiation, magic, or combat
 - **Exploit the Chaos:** Use the confusion and attention of the games as cover for their own investigation or agenda
 
@@ -95,7 +95,7 @@ The party must decide how to act. Options include:
 
 - Confrontation with assassins in the crowded stadium
 - Combat in the streets as conspirators flee
-- Magical duels if the [[affiliation-ordoarcanis|Thordimalon]] is involved
+- Magical duels if the Thordimalon is involved
 - Chase sequences through Hárivren's streets and the games' venues
 
 ## Stage Five: Aftermath & Legacy
@@ -111,11 +111,11 @@ The party must decide how to act. Options include:
 
 **If the party fails or is compromised:**
 
-- The assassination succeeds, throwing [[place-provenzrgn|Provenzia Region]] into chaos
+- The assassination succeeds, throwing Provenzia Region into chaos
 - The conspirators consolidate power, using the disruption to their advantage
 - The games are canceled or severely disrupted
 - The party may be blamed for the failure or exposed as complicit
-- Political upheaval in [[place-provenzrgn|Provenzia Region]] creates both danger and opportunity
+- Political upheaval in Provenzia Region creates both danger and opportunity
 
 **Ongoing Consequences:**
 

@@ -20,7 +20,7 @@ Leravren lies northeast of [[place-ceravelvale|Keravel Vale]] in the [[place-tal
 
 ## Its Lord and His Faith
 
-That lord is **Kaldin al Lénavel na Leravren**, a member of the Zuravel clan and a fierce adherent of [[affiliation-blackflame|the Black Flame]], and through him the region is closely associated with the faith. Kaldin is a key player in the frontier's political and religious conflicts, and his ties to the Zuravel clan make him the link between local intrigue and organized Black Flame power: he is the ally of **Kilan alrí Ilovrel** of [[place-ilovren|Ilovren]] and has supplied him with loyal Black Flame soldiers. In a kingdom where the Church of the [[affiliation-sacredforge|Sacred Forge]] grows more dominant every year, Leravren is one of the places its rivals still hold.
+That lord is **Kaldin al Lénavel na Leravren**, a member of the Zuravel clan and a fierce adherent of [[affiliation-blackflame|the Black Flame]], and through him the region is closely associated with the faith. Kaldin is a key player in the frontier's political and religious conflicts, and his ties to the Zuravel clan make him the link between local intrigue and organized Black Flame power: he is the ally of **Kilan Ilovrel** of [[place-ilovren|Ilovren]] and has supplied him with loyal Black Flame soldiers. In a kingdom where the Church of the [[affiliation-sacredforge|Sacred Forge]] grows more dominant every year, Leravren is one of the places its rivals still hold.
 
 ## See Also
 

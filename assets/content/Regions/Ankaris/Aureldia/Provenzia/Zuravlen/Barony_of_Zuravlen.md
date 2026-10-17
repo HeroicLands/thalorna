@@ -3,7 +3,7 @@ shortcode: brnyzrvln
 name: {full: Barony of Zuravlen, aliases: []}
 type: affiliation
 subType: polity
-description: "The barony of the Zuravlen valley, held of the Crown of Provenzia by Baron Álegar alrí Zuravel from his seat at Eltrembis."
+description: "The barony of the Zuravlen valley, held of the Crown of Provenzia by Baron Selvare Zuravel from his seat at Eltrembis."
 data:
   templatePriority: null
   demonym: null
@@ -33,4 +33,4 @@ data:
 sohl: {system: {commonSkills: [provnzlng]}}
 ---
 
-The **Barony of Zuravlen** is the valley holding of Baron **Álegar alrí Zuravel**, who holds it of the [[affiliation-kngdmprvnz|Crown of Provenzia]] and sits at [[place-elthrembis|Eltrembis]], the market town where the grading records, water-rolls and manor customs are kept. His overlord in the western march is the Earl of [[place-harivrencity|Hárivren]]. The barony governs [[place-elthrembis|Eltrembis]] and the harbor of [[place-volsather|Volsater]]; the manors of the valley answer to lords of their own.
+The **Barony of Zuravlen** is the valley holding of Baron **[Selvare Zuravel]{.name data-type="being/npc"}**, who holds it of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]] and sits at [[place-elthrembis|Eltrembis]], the market town where the grading records, water-rolls and manor customs are kept. His overlord in the western march is the Earl of Hárivren. The barony governs Eltrembis and the harbor of [[place-volsather|Volsater]]; the manors of the valley answer to lords of their own.

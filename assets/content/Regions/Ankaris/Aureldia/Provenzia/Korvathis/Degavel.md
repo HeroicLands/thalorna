@@ -3,7 +3,7 @@ shortcode: degavel
 name: {full: Degavel, aliases: []}
 type: place
 subType: region
-description: "An earldom of southern Provenzia held by Rutal alrí Pélanvri, one of the kingdom's leading magnates and the Count of Atavel's rival."
+description: "An earldom of southern Provenzia held by Rutal Pélanvri, one of the kingdom's leading magnates and the Count of Atavel's rival."
 tags: [draft]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Degavel is an earldom of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]] in the kingdom's southern country, the [[place-korvathis|Korvatis]], and its earl is one of the magnates who decide how Provenzia's court leans. The present **Earl of Degavel**, **Rutal alrí Pélanvri**, is prominent and influential, and his leadership in the south gives him real weight in both court politics and military strategy.
+Degavel is an earldom of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]] in the kingdom's southern country, the [[place-korvathis|Korvatis]], and its earl is one of the magnates who decide how Provenzia's court leans. The present **Earl of Degavel**, **Rutal Pélanvri**, is prominent and influential, and his leadership in the south gives him real weight in both court politics and military strategy.
 
 ## The Pélanvri and Their Rival
 

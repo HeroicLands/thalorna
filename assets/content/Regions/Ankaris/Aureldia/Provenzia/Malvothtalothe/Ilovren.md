@@ -3,7 +3,7 @@ shortcode: ilovren
 name: {full: Ilovren, aliases: []}
 type: place
 subType: settlement
-description: "A lordship of Keravel Vale and stronghold of Kilan alrí Ilovrel, who secretly feeds the vale's bandits for his own ends and the Black Flame's."
+description: "A lordship of Keravel Vale and stronghold of Kilan Ilovrel, who secretly feeds the vale's bandits for his own ends and the Black Flame's."
 tags: [draft]
 data:
   demonym: null
@@ -15,7 +15,7 @@ data:
 
 ## Overview
 
-Ilovren is a lordship of [[place-ceravelvale|Keravel Vale]] and the seat of **Nalor Kilan alrí Ilovrel na Ilovren**, a calculating noble with a fortified stronghold and ambitions that reach well past his own borders. To the rest of the vale he is a local lord like any other.
+Ilovren is a lordship of [[place-ceravelvale|Keravel Vale]] and the seat of **Nalor Kilan Ilovrel na Ilovren**, a calculating noble with a fortified stronghold and ambitions that reach well past his own borders. To the rest of the vale he is a local lord like any other.
 
 ## Its Lord's Game
 

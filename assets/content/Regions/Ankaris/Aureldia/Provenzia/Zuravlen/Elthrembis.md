@@ -18,8 +18,8 @@ data:
 valley grows. Some fourteen hundred people live there—more in August, very many more during the
 fair—and almost none of them farm.
 
-It is the seat of **Baron Álegar alrí Zuravel**, who holds Zuravlen of the
-[[affiliation-kngdmprvnz|Crown of Provenzia]] and whose hall stands above the town rather than in it,
+It is the seat of **Baron [Selvare Zuravel]{.name data-type="being/npc"}**, who holds the [[affiliation-brnyzrvln|Barony of Zuravlen]] of the
+[[affiliation-kngdmprvnz|Kingdom of Provenzia]] and whose hall stands above the town rather than in it,
 and the administrative center of the barony: the water-rolls, the manor customs and the grading
 records are all kept here.
 
@@ -47,7 +47,7 @@ weeks.
 ## The Fair
 
 The **autumn fair** runs eight days after the harvest is in. Factors come up from
-[[place-batarencity|Bataren]] and the coastal ports to buy the dried fruit and the honey-crocks;
+[[place-batarencity|Bataren City]] and the coastal ports to buy the dried fruit and the honey-crocks;
 the wool clip is sold; the cheese comes down from the uplands; the year's rents, debts and disputes are
 settled, and the manor courts hold their most crowded sessions of the year.
 
@@ -57,7 +57,7 @@ For those eight days Eltrembis is one of the wealthiest small towns in Provenzia
 
 - **The market hall**, open-sided, with the grading table at its center and the water-rolls in the
   chamber above.
-- **The shrine of [[affiliation-olvenia|Ólvenia]]**, which receives the first-picked basket from every
+- **The shrine of the [[affiliation-olvenia|Faith of Ólvenia]]**, which receives the first-picked basket from every
   orchard in the barony and is the richest building in the town.
 - **The bell**, rung for frost. It is rung for nothing else, and every soul in the valley knows what
   it means.

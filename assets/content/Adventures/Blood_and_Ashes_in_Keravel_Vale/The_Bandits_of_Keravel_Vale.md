@@ -29,7 +29,7 @@ The Vale of Keravel is a rugged, isolated region in Provenzia plagued by bandit 
 
 - **Elgar Tarlas al Pélanvri na Belsaren**: Tarlas, who now rules Belsaren, wants the bandit threat extinguished to secure his position and avoid scrutiny from his liege Khirata Jarvel al Pélanvri na [[place-caerceravel|Torvila Keravel]]. Tarlas is a harsh ruler, and his oppressive treatment of the Tanevar peasants has driven many to support Thárion.
 
-- **Nalor Kilan alrí Ilovrel na [[place-ilovren|Ilovren]]**: Although Kilan plays no overt role in Part 1, his hidden hand is at work. He has been manipulating the conflict between Thárion and Tarlas, subtly supporting the chaos to weaken Tarlas’ control Belsaren and further his own agenda. However, this connection remains unknown to all, including Thárion, until after the bandit leader’s defeat.
+- **Nalor Kilan Ilovrel na [[place-ilovren|Ilovren]]**: Although Kilan plays no overt role in Part 1, his hidden hand is at work. He has been manipulating the conflict between Thárion and Tarlas, subtly supporting the chaos to weaken Tarlas’ control Belsaren and further his own agenda. However, this connection remains unknown to all, including Thárion, until after the bandit leader’s defeat.
 
 - **Tanevar and Provenzian Peasants of Belsaren**: The peasants of Belsaren are divided. While all of the peasants are openly supportive of Tarlas, the Tanevar majority secretly supports Thárion, while the Provenzian minority remains loyal to Tarlas. This division complicates the adventurers’ task, as the Tanevar villagers may resist their efforts, while the Provenzian peasants offer information and assistance.
 
@@ -671,7 +671,7 @@ _(His tone shifts, defensive now.)_
 During the final confrontation, Tharion and his lieutenants fight fiercely. If things start going poorly for him, he will call a truce, and speak his final plea:
 
 **Thárion (Bloodied but Defiant):**  
-_"You fools! You think this rebellion is about me? It’s not. I was a tool, a pawn, manipulated by Kilan alrí Ilovrel! That cunning devil is playing a game far bigger than this village—than all of us! He whispered promises of a free Belsaren, but his true goal has nothing to do with the Tanevar cause. If you’re smart, you’ll want to know what he’s really after. Let me go, and I’ll give you the name of the informant who knows everything."_
+_"You fools! You think this rebellion is about me? It’s not. I was a tool, a pawn, manipulated by Kilan Ilovrel! That cunning devil is playing a game far bigger than this village—than all of us! He whispered promises of a free Belsaren, but his true goal has nothing to do with the Tanevar cause. If you’re smart, you’ll want to know what he’s really after. Let me go, and I’ll give you the name of the informant who knows everything."_
 
 ##### Outcome
 
@@ -735,7 +735,7 @@ Thárion is an experienced swordsman and tactician, with a knack for setting dea
 
 ##### The Local Noble Manipulating the Bandit Leader
 
-**Kilan alrí Ilovrel** is the local noble behind the manipulation of Thárion. Kilan is a calculating man with aspirations to control the resources of Belsaren, particularly its valuable timber and minerals. By secretly supporting Thárion’s bandit activities, he hopes to weaken Tarlas’s grip on Belsaren, destabilizing it enough for him to make a claim for power.
+**Kilan Ilovrel** is the local noble behind the manipulation of Thárion. Kilan is a calculating man with aspirations to control the resources of Belsaren, particularly its valuable timber and minerals. By secretly supporting Thárion’s bandit activities, he hopes to weaken Tarlas’s grip on Belsaren, destabilizing it enough for him to make a claim for power.
 
 Kilan’s primary goal is to leverage the chaos created by the bandits to convince Jarvel that Tarlas is unfit to govern. Kilan has been arguing to Jarvel that he could do a better job of eliminating the bandits, and the longer the bandit situation persists, the more Jarvel is likely to consider it. If Tarlas were removed or replaced, Kilan could step in to claim Belsaren, using his wealth and influence to secure a new title. He manipulates Thárion by feeding him false intelligence about Tarlas’s movements while providing material support to Thárion through intermediaries. Thárion believes Kilan is an ally in his cause, unaware that the noble is merely using him as a pawn.
 

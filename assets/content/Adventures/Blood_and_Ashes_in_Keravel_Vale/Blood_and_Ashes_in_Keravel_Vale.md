@@ -21,7 +21,7 @@ data:
 
 ## Campaign Summary
 
-The campaign focuses on the power struggles within the Vale of Keravel, where Thárion al Dracaen, a deposed noble-turned-bandit, must be defeated. However, this is only the surface conflict. Kilan alrí Ilovrel, a secret Black Flame sympathizer, manipulates events for his own gain, seeking a powerful Black Flame artifact—the [[scenario-maulgashng|Maul of Gashang]]—hidden in the Blood Hills east of Belsaren.
+The campaign focuses on the power struggles within the Vale of Keravel, where Thárion al Dracaen, a deposed noble-turned-bandit, must be defeated. However, this is only the surface conflict. Kilan Ilovrel, a secret Black Flame sympathizer, manipulates events for his own gain, seeking a powerful Black Flame artifact—the [[scenario-maulgashng|Maul of Gashang]]—hidden in the Blood Hills east of Belsaren.
 
 What begins as a straightforward bandit-hunting job gradually reveals layers of political manipulation, religious conspiracy, and ancient evil. The adventurers are drawn from mercenary work into noble intrigue and finally into a confrontation with forces older and darker than any of the human factions involved.
 
@@ -30,7 +30,7 @@ What begins as a straightforward bandit-hunting job gradually reveals layers of 
 - **Thárion al Dracaen**—Deposed former lord of Belsaren, now a charismatic bandit leader fighting for the Tanevar peasants. Sympathetic but increasingly desperate and violent.
 - **Elgar Tarlas al Pélanvri na Belsaren**—Current lord of Belsaren. Harsh, self-interested, and oppressive toward the Tanevar. Hires the adventurers.
 - **Khirata Jarvel al Pélanvri na [[place-caerceravel|Torvila Keravel]]**—Tarlas's liege lord. Installed Tarlas after deposing Thárion's family on fabricated treason charges.
-- **Nalor Kilan alrí Ilovrel na [[place-ilovren|Ilovren]]**—The true antagonist. A calculating noble and secret Black Flame sympathizer who manipulates the bandit conflict to destabilize Belsaren and pursue the artifact.
+- **Nalor Kilan Ilovrel na [[place-ilovren|Ilovren]]**—The true antagonist. A calculating noble and secret Black Flame sympathizer who manipulates the bandit conflict to destabilize Belsaren and pursue the artifact.
 - **Kaldin al Lénavel na [[place-leravren|Leravren]]**—Lord of Leravren, member of the Zuravel clan of the Black Flame. Kilan's ally and the connection to organized Black Flame power.
 - **Darisen al Olrun**—An erudite scholar who offers help understanding the Black Flame and tracking the shrine. Secretly a Sélmoran with his own designs on the artifact.
 
