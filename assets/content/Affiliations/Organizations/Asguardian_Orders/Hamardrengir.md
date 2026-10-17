@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-When raiders come to a coastal hov of [[affiliation-thrunvald|Thrunvald]], the war-hammers that meet them belong to the Hammer of Thrunvald.
+When raiders come to a coastal hov of the [[affiliation-thrunvald|Faith of Thrunvald]], the war-hammers that meet them belong to the Hammer of Thrunvald.
 
 Hamardrengir are the faith's fighting order: elite warriors who wield mighty war-hammers and carry the thunder-god's strength into battle. Their members defend his coastal hovs and the ships that sail under his blessing, and stand apart from the ordinary clergy as the faith's answer to raiders and worse.

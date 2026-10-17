@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Those who seek [[affiliation-solrun|Solrún]]'s favor and have power to lose often take counsel from the Order of the Enchanted Rose.
+Those who seek the favor of [[lore-solrundty|Solrún]] and have power to lose often take counsel from Sólvinir, the Order of the Enchanted Rose.
 
 Sólvinir trains priests in the arts of love and beauty, and advises the powerful and the influential. A member is as likely to be found counseling a jarl's court as attending the rites of a feast-hall. A Dróttstjori advises jarls and others of influence in Solrún's name; a Drottmadr trains in those arts at a feast-hall's hov and does not yet counsel the powerful.

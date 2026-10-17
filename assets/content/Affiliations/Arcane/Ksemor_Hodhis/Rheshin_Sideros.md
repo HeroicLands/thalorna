@@ -63,7 +63,7 @@ sohl: {system: {commonSkills: []}}
 #   school: metal
 ---
 
-Rhezin **Sideris** is the current of craft, precision, binding, and the material world made orderly. It occupies the lower-right vertex of the [[affiliation-hexhodai|Thizaron]], directly opposite [[affiliation-zepharis|Rhezin Zefaris]]. Where Air dissolves and obscures, Metal defines and clarifies. Where Air deals in the intangible, Metal deals in the unyielding. Sideris is the school of the artificer, the ward-maker, the enchanter, and the lawgiver—the mage who believes that the world has a structure and that magic's highest purpose is to discover, reinforce, and perfect it.
+Rhezin **Sideris** is the current of craft, precision, binding, and the material world made orderly. It occupies the lower-right vertex of the [[affiliation-hexhodai|Thizaron]], directly opposite Rhezin [[affiliation-zepharis|Zefaris]]. Where Air dissolves and obscures, Metal defines and clarifies. Where Air deals in the intangible, Metal deals in the unyielding. Sideris is the school of the artificer, the ward-maker, the enchanter, and the lawgiver—the mage who believes that the world has a structure and that magic's highest purpose is to discover, reinforce, and perfect it.
 
 ## Philosophy
 
@@ -77,13 +77,13 @@ The deeper principle of Sideris is _the power of form_. A sword is steel given p
 
 ## The Opposition: Zefaris
 
-Rhezin Sideris stands directly opposite [[affiliation-zepharis|Rhezin Zefaris]] on the Thizaron (the Seal), and their opposition cuts to the bone of how each school understands reality. Metal insists that the world has structure—real, discoverable, and reliable. Air insists that apparent structure is a projection of the observer's mind—useful perhaps, but not fundamental. A Sideris mage attempting Air magic finds the experience disorienting: the magic _refuses to hold still_. It shifts, it blurs, it slides out of the precise categories the Metal mage needs in order to work. It is like trying to build with fog.
+Rhezin Sideris stands directly opposite Rhezin Zefaris on the Thizaron (the Seal), and their opposition cuts to the bone of how each school understands reality. Metal insists that the world has structure—real, discoverable, and reliable. Air insists that apparent structure is a projection of the observer's mind—useful perhaps, but not fundamental. A Sideris mage attempting Air magic finds the experience disorienting: the magic _refuses to hold still_. It shifts, it blurs, it slides out of the precise categories the Metal mage needs in order to work. It is like trying to build with fog.
 
 The rivalry between the two Zulethalar (fellowships) is cold rather than hot—a disagreement between the meticulous and the mercurial. Sideris practitioners view Air mages as slippery, unreliable, and fundamentally unserious: if nothing is fixed and everything is mutable, what is the point of building anything? Zefaris practitioners view Metal mages as brittle, dogmatic, and so enamored of their own categories that they mistake the cage for the bird. The two rarely come into open conflict—their interests diverge too sharply for direct competition—but when a Sideris _marendos_ (master) and a Zefaris _marendos_ find themselves on opposite sides of a debate, the argument often becomes a proxy war for a much deeper philosophical disagreement that neither side can win.
 
 ## Adjacencies
 
-Rhezin Sideris shares its edges of the Thizaron with [[affiliation-hydalis|Rhezin Hidalis]] and [[affiliation-pneumenos|Rhezin Neumenos]].
+Rhezin Sideris shares its edges of the Thizaron with Rhezin [[affiliation-hydalis|Hidalis]] and Rhezin [[affiliation-pneumenos|Neumenos]].
 
 The sympathy with Rhezin Hidalis is one of _patience_. Both _rheza_ value careful, sustained effort over dramatic action. Water shapes through persistence; Metal shapes through precision. A Sideris enchanter working for months to craft a single artifact and a Hidalis healer spending weeks coaxing a patient back to health share an understanding that the most meaningful work cannot be rushed. Their collaboration is quiet but productive—Hidalis mages frequently consult Sideris practitioners on the structural aspects of healing magic, and Sideris enchanters rely on Hidalis diviners to test whether their creations will endure.
 
@@ -91,7 +91,7 @@ The sympathy with Neumenos is more unexpected, but it runs deep. Both schools de
 
 ## The Zulen Sideris
 
-The **Zulen Sideris**—the Fellowship of Metal—is precise, disciplined, and deeply invested in the [[affiliation-ordoarcanis|College of Enchantment]] (which it dominates, though not without competition from other schools). Its members tend toward institutional loyalty and organizational thinking—Sideris mages believe in systems, and the Order is, at its best, a very good system.
+The **Zulen Sideris**—the Fellowship of Metal—is precise, disciplined, and deeply invested in [The College of Enchantment]{.name data-type="affiliation"} ([[affiliation-ordoarcanis|Thordimalon]]), which it dominates, though not without competition from other schools. Its members tend toward institutional loyalty and organizational thinking—Sideris mages believe in systems, and the Order is, at its best, a very good system.
 
 The fellowship's internal culture prizes rigor and craftsmanship. A Sideris mage's reputation rests on the quality of their work—the durability of their wards, the elegance of their enchantments, the precision of their bindings. Sloppy work is the fellowship's cardinal sin, and a Metal mage whose enchantment fails under stress faces a harder judgment from their own Zulen (fellowship) than from any external critic.
 

@@ -87,18 +87,18 @@ sohl: {system: {commonSkills: []}}
 - **Domain:** Continuity
 - **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
-Tsai Sei resists change, which is its function and not its failing. It ensures that things continue
+In Neitsai's teaching, Tsai Sei resists change, which is its function and not its failing. It ensures that things continue
 to be what they were classified as: that a lineage breeds true, that a craft is transmitted intact,
-that a boundary drawn in the Great Sorting is still where it was drawn.
+that a boundary drawn in [Dao Zhaoléi]{.name data-type="lore/cosmology"}, the Great Sorting, is still where it was drawn.
 
-It is the natural rival of the [[affiliation-zhenho|Bureau of Transformation]], and the rivalry is
+It is the natural rival of [[affiliation-zhenho|Zhenho]], the Bureau of Transformation, and the rivalry is
 the sharpest in the administration—one bureau exists to change things and the other to prevent
 it, and both are correct. Petitions for a difficult birth, an unbroken inheritance or the survival
 of a craft gho here.
 
 ### Lesser Spirits
 
-- **Wouchéi**—The Instructor, associated with the transmission of knowledge and technique across generations; where Neitsai preserves biological continuity, Wouchéi preserves cultural continuity.
+- **[Wouchéi]{.name data-type="lore/spirit"}**—The Instructor, associated with the transmission of knowledge and technique across generations; where Neitsai preserves biological continuity, Wouchéi preserves cultural continuity.
 - **Zhawo**—Continuity Spirits, who ensure that living things reproduce according to their classification.
 
 ### See Also

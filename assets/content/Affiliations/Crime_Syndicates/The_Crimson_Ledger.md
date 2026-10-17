@@ -75,25 +75,25 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-A financial crime network rooted in the shadows of Taruzel's post-independence banking boom. When the Auric Compact consolidated power after the War of Independence, it squeezed out smaller money changers, loan brokers, and trade factors who had operated in the margins of the old Vylarian colonial economy. Some went legitimate under the new order. Others went underground.
+A financial crime network rooted in the shadows of the [[place-taruzelrgn|Taruzel Region]]'s post-independence banking boom. When the [[affiliation-auricompct|Auric Compact]] consolidated power after the [Taruzelian War of Independence]{.name data-type="lore/history"}, it squeezed out smaller money changers, loan brokers, and trade factors who had operated in the margins of the old Vylarian colonial economy. Some went legitimate under the new order. Others went underground.
 
 The Crimson Ledger is what emerged—a network of financial criminals who understand money the way a surgeon understands anatomy. They don't rob banks; they become banks. They don't steal cargo; they own the warehouses where cargo goes missing, collect the insurance, and sell the "lost" goods through a different subsidiary.
 
 ## Territory
 
-**Primary:** Besikar, Yamuzel, Kudumel—the three major Taruzelian cities
+**Primary:** [[place-besikar2|Besikar]], [[place-yamuzel2|Yamuzel]], [[place-qudumel2|Kudumel]]—the three major Taruzelian cities
 
-**Secondary:** Agents in every significant Vylarian Sea port. Wherever ships dock and customs officials can be bribed, the Ledger has a presence. Particularly strong in Bazunel (cultural capital, where art theft and forgery generate laundering opportunities) and in the Taruzelian archipelago islands (where shell companies and offshore counting houses operate beyond easy scrutiny).
+**Secondary:** Agents in every significant [[place-vylarianse|Vylarian Sea]] port. Wherever ships dock and customs officials can be bribed, the Ledger has a presence. Particularly strong in [[place-bazunel2|Bazunel]] (cultural capital, where art theft and forgery generate laundering opportunities) and in the Taruzelian archipelago islands (where shell companies and offshore counting houses operate beyond easy scrutiny).
 
 ## Operations
 
 **Debt bondage:** In polities where formal slavery is outlawed, the Ledger provides loans to desperate workers at extortionate rates, then seizes their labor when they inevitably default. The borrower technically chose this freely. The legal system, which the Ledger has spent years cultivating, agrees.
 
-**Money laundering:** The Ledger's core business. Revenue from the Gray Tide's smuggling, the Ash Road's drug trade, and the Velvet Hand's contract killings all flow through Ledger-controlled counting houses, emerging as clean profit from "trade ventures" and "commodity investments." The Ledger charges 15-25% for this service, which the other syndicates pay through gritted teeth.
+**Money laundering:** The Ledger's core business. Revenue from [[affiliation-graytide|The Gray Tide]]'s smuggling, [[affiliation-theashroad|The Ash Road]]'s drug trade, and [[affiliation-velvethand|The Velvet Hand]]'s contract killings all flow through Ledger-controlled counting houses, emerging as clean profit from "trade ventures" and "commodity investments." The Ledger charges 15-25% for this service, which the other syndicates pay through gritted teeth.
 
 **Customs fraud:** Port officials throughout the Vylarian Sea are on the Ledger's payroll. Manifests are altered, tariffs reduced, inspections waived. Honest officials who can't be bought are framed for corruption and replaced with ones who can.
 
-**Political bribery:** The Ledger doesn't merely bribe politicians—it owns them. Loans to ambitious council members, campaign financing for pliable candidates, and discreet payments to ensure favorable legislation. In Besikar, at least three members of the Grand Council owe the Ledger enough that their votes are effectively purchased.
+**Political bribery:** The Ledger doesn't merely bribe politicians—it owns them. Loans to ambitious council members, campaign financing for pliable candidates, and discreet payments to ensure favorable legislation. In Besikar, at least three members of the [Grand Council]{.name data-type="affiliation/governmental"} owe the Ledger enough that their votes are effectively purchased.
 
 ## Organization
 

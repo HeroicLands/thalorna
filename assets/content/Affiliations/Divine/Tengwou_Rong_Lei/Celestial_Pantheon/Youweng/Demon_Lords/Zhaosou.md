@@ -58,11 +58,11 @@ sohl: {system: {commonSkills: []}}
 
 ## Zhaosou—The Unsorted
 
-Zhaosou is the paradox the Tanchéi cannot resolve: an entity that possesses coherent identity and will—the hallmarks of a classified being—yet defies every category the celestial administration has attempted to assign it. It is not fire or water, not living or dead, not spirit or flesh. Every bureau that has claimed jurisdiction over Zhaosou has found its classification systems failing. It registers simultaneously as a natural phenomenon, an ancestor spirit, a lesser demon, and a geographic feature. Filing it under one category causes the other categories to reject their own contents.
+In the Zhaosou cultus, [[lore-zhaosoudty|Zhaosou]] is the paradox the [[lore-tanchei|Tanchéi]] cannot resolve: an entity that possesses coherent identity and will—the hallmarks of a classified being—yet defies every category the celestial administration has attempted to assign it. It is not fire or water, not living or dead, not spirit or flesh. Every bureau that has claimed jurisdiction over Zhaosou has found its classification systems failing. It registers simultaneously as a natural phenomenon, an ancestor spirit, a lesser demon, and a geographic feature. Filing it under one category causes the other categories to reject their own contents.
 
-The Tanchéi believe Zhaosou emerged during the Great Sorting itself—a thing that was in the process of being classified when the sorting moved on, leaving it permanently between states. It is, in bureaucratic terms, an open case that was never closed: a petition filed with every bureau and accepted by none.
+The Tanchéi believe Zhaosou emerged during [Dao Zhaoléi]{.name data-type="lore/cosmology"}, the Great Sorting itself—a thing that was in the process of being classified when the sorting moved on, leaving it permanently between states. It is, in bureaucratic terms, an open case that was never closed: a petition filed with every bureau and accepted by none.
 
-Zhaosou does not destroy. It _confuses_. Regions where its influence is felt experience categorical breakdown: crops grow in wrong seasons, rivers change direction, social hierarchies invert without apparent cause. The Bureau of Order (Téngwou Dao) considers Zhaosou the single greatest administrative embarrassment in the celestial system—proof that the Great Sorting was not, in fact, perfect. This is an opinion they do not share publicly.
+Zhaosou does not destroy. It _confuses_. Regions where its influence is believed to be felt experience categorical breakdown: crops grow in wrong seasons, rivers change direction, social hierarchies invert without apparent cause. [Téngwou Dao]{.name data-type="affiliation/governmental"} (the Bureau of Order) considers Zhaosou the single greatest administrative embarrassment in the celestial system—proof that the Great Sorting was not, in fact, perfect. This is an opinion they do not share publicly.
 
 ### Mortal Cultus: The Nuotsou Rui
 
@@ -76,4 +76,4 @@ Zhaosou is the celestial patron of those whom the [[affiliation-nuotsourui|Nuots
 
 ## Outside the Ladder
 
-A person the Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.
+A person [[affiliation-wantou|Wántou]]'s Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.

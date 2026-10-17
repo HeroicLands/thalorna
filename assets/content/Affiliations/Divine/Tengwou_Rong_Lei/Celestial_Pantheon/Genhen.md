@@ -87,7 +87,7 @@ sohl: {system: {commonSkills: []}}
 - **Domain:** Entropy
 - **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
-Somebody must be responsible for things ending, and the Great Sorting appointed Genhén. Huen Sei
+In Genhén's teaching, somebody must be responsible for things ending, and [Dao Zhaoléi]{.name data-type="lore/cosmology"}, the Great Sorting, appointed Genhén. Huen Sei
 conducts _authorized_ unraveling: the collapse of a structure that has outlived its classification,
 the failure of a lineage that should not continue, the flood that clears ground.
 
@@ -100,7 +100,7 @@ of jurisdictional gaps in the administration.
 ### Lesser Spirits
 
 - **Henwo**—Controlled Dissolution Spirits, who execute authorized unraveling.
-- **Yoléi**—Trickster Spirits, who inhabit the boundary between classified order and the Henléi. Technically under Genhén's authority and notoriously difficult to administer.
+- **Yoléi**—Trickster Spirits, who inhabit the boundary between classified order and the [Henléi]{.name data-type="lore/cosmology"}. Technically under Genhén's authority and notoriously difficult to administer.
 
 ### See Also
 

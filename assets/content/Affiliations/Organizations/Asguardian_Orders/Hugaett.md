@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A devotee of [[affiliation-odvar|Odvar]] who wants to learn for the sake of learning goes to the Order of the All-Seeing Eye.
+A devotee of the [[affiliation-odvar|Faith of Odvar]] who wants to learn for the sake of learning goes to Hugaett, the Order of the All-Seeing Eye.
 
 Hugaett keeps Odvar's pursuit of knowledge, wisdom and learning for its own sake. Its members, called Hugfadir and Hugmodir, are reckoned the most learned of the god's faithful, and the order keeps the vast libraries and archives housed at its temples, open to any devotee willing to study there. A Dróttstjori keeps a temple's libraries and archives, and a Drottmadr studies under the order.

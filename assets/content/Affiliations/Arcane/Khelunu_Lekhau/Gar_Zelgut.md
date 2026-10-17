@@ -56,7 +56,7 @@ sohl: {system: {commonSkills: []}}
 
 "You will read everything we hold on him and work none of it," a **Warden of the Treatises** tells a lekhau newly seconded to the college. "Both halves are the post. The second half is a capital matter."
 
-**Gar-Zelgút**, the **House of the Unmaking**, is the House nobody joins. It is the warded college seated inside the temples of [[lore-uqaadty|Uqa'a]] and [[lore-rethsaardty|Reth'Sa'ar]] that holds the treatises on the chaos god [[lore-azuathisdty|Azu'athis]], and its members are seconded to it from the other Houses rather than admitted.
+**Gar-Zelgút**, the **House of the Unmaking**, is the House nobody joins. It is the warded college seated inside the temples of the [[affiliation-uqaa|Faith of Uqa'a]] and the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] that holds the treatises on the chaos god [[lore-azuathisdty|Azu'athis]], and its members are seconded to it from the other Houses rather than admitted.
 
 The House exists because you cannot ward what you cannot describe. Every seal, threshold-curse and tomb-binding in the empire is a [[lore-qarquzu|Qar'kuzu]] working built around an exact account of what it is built against, and this college keeps the account. To study the chaos god is lawful and closely watched. To work [[lore-zelgut|Zelgút]] is capital.
 

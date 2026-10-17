@@ -63,7 +63,7 @@ sohl: {system: {commonSkills: []}}
 #   school: water
 ---
 
-Rhezin **Hidalis** is the school of cold, flow, healing, and transformation through adaptation. It sits at the lower-left vertex of the [[affiliation-hexhodai|Thizaron]], directly opposite [[affiliation-pyrethos|Rhezin Pirethos]]. Where Fire transforms by destroying, Water transforms by _becoming_—by adapting, yielding, absorbing, and reshaping. Hidalis practitioners are the Order's healers, its diviners, and its most patient diplomats.
+Rhezin **Hidalis** is the school of cold, flow, healing, and transformation through adaptation. It sits at the lower-left vertex of the [[affiliation-hexhodai|Thizaron]], directly opposite Rhezin [[affiliation-pyrethos|Pirethos]]. Where Fire transforms by destroying, Water transforms by _becoming_—by adapting, yielding, absorbing, and reshaping. Hidalis practitioners are [[affiliation-ordoarcanis|Thordimalon]]'s healers, its diviners, and its most patient diplomats.
 
 ## Philosophy
 
@@ -75,11 +75,11 @@ The deeper principle of Hidalis is _transformation through adaptation_. Water do
 
 Healing is the school's most celebrated application. The body is a system of flows—blood, breath, humors, vital energy—and Hidalis magic works with these flows rather than against them, accelerating natural recovery, redirecting vitality to where it is needed, and restoring disrupted patterns to their proper courses. The best Hidalis healers do not impose health on the body but _invite_ the body to heal itself.
 
-Divination, too, falls naturally within Hidalis. The school's practitioners have a gift for reading currents—not only physical ones but temporal and causal. Scrying pools and water-gazing are not metaphors; for a trained Hidalis mage, still water becomes a lens through which currents of possibility can be perceived. The [[affiliation-ordoarcanis|College of Divination]] draws heavily from the Zulen (fellowship) Hidalis.
+Divination, too, falls naturally within Hidalis. The school's practitioners have a gift for reading currents—not only physical ones but temporal and causal. Scrying pools and water-gazing are not metaphors; for a trained Hidalis mage, still water becomes a lens through which currents of possibility can be perceived. [The College of Divination]{.name data-type="affiliation"} ([[affiliation-ordoarcanis|Thordimalon]]) draws heavily from the Zulen (fellowship) Hidalis.
 
 ## The Opposition: Pirethos
 
-Rhezin Hidalis stands directly opposite [[affiliation-pyrethos|Rhezin Pirethos]] on the Thizaron (the Seal), and their antagonism is elemental and instinctive. Fire acts; Water waits. Fire destroys to transform; Water adapts to transform. A Hidalis mage attempting Fire magic finds the experience almost physically repulsive—the instinct to _force_ a change, to impose will directly on matter, runs counter to every habit of perception the Water mage has cultivated. It feels like screaming when one has spent years learning to listen.
+Rhezin Hidalis stands directly opposite Rhezin Pirethos on the Thizaron (the Seal), and their antagonism is elemental and instinctive. Fire acts; Water waits. Fire destroys to transform; Water adapts to transform. A Hidalis mage attempting Fire magic finds the experience almost physically repulsive—the instinct to _force_ a change, to impose will directly on matter, runs counter to every habit of perception the Water mage has cultivated. It feels like screaming when one has spent years learning to listen.
 
 The rivalry between the two Zulethalar (fellowships) runs deep. Hidalis practitioners view Pirethos mages as brilliant but dangerous—too eager to act, too quick to reach for destruction when patience would serve better. They see Fire's political influence within the Order as a structural flaw, a consequence of institutional preference for dramatic results over quiet competence. Pirethos mages, for their part, view Hidalis practitioners as self-righteous pacifists who mistake inaction for wisdom and passivity for virtue.
 
@@ -87,7 +87,7 @@ In chapter councils, the two fellowships serve as natural checks on each other. 
 
 ## Adjacencies
 
-Hidalis shares its edges of the Thizaron with [[affiliation-physera|Rhezin Fisera]] and [[affiliation-sideros|Rhezin Sideris]].
+Hidalis shares its edges of the Thizaron with Rhezin [[affiliation-physera|Fisera]] and Rhezin [[affiliation-sideros|Sideris]].
 
 The sympathy with Fisera is one of _sustenance_. Earth nourishes and Water heals; both schools concern themselves with living things and the conditions that allow life to flourish. Hidalis and Fisera practitioners often collaborate on matters of agriculture, medicine, and the maintenance of communities. Their combined magic is the magic of the garden, the granary, and the sickroom—less dramatic than Fire and Air, but more essential to daily life.
 
@@ -97,7 +97,7 @@ The sympathy with Sideris is one of _patience_. Water adapts and Metal endures; 
 
 The **Zulen Hidalis**—the Fellowship of Water—is patient, adaptable, and valued as mediators in the Order's internal disputes. Its members are less politically ambitious than the Pirethos fellowship, but their influence runs deeper than their formal power might suggest: when two factions on a chapter council cannot agree, it is often a Hidalis _marendos_ (master) who brokers the compromise.
 
-The fellowship's internal culture prizes empathy, diagnostic skill, and the ability to read situations before acting. Advancement is less competitive than in Pirethos; the fellowship tends toward consensus and seniority. Its members serve disproportionately in the College of Divination and in healing roles, and many chapter houses rely on their Hidalis practitioners to manage relationships with local communities—the healer-mage who tends to the sick children of a provincial town does more for the Order's reputation than a dozen Sekran operations.
+The fellowship's internal culture prizes empathy, diagnostic skill, and the ability to read situations before acting. Advancement is less competitive than in Pirethos; the fellowship tends toward consensus and seniority. Its members serve disproportionately in the College of Divination and in healing roles, and many chapter houses rely on their Hidalis practitioners to manage relationships with local communities—the healer-mage who tends to the sick children of a provincial town does more for the Order's reputation than a dozen [Sekran]{.name data-type="affiliation"} operations.
 
 The Zulen Hidalis is not without its own ambitions, however. Its members understand power as well as anyone—they simply prefer to acquire it quietly, through networks of obligation and gratitude rather than through political confrontation. A Hidalis _holmarendos_ (prelate) who has spent decades healing the ailments of noble families across a region wields a kind of influence that no amount of Fire magic can match.
 

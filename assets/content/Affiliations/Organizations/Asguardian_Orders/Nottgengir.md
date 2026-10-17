@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A killing chosen to frighten a whole district as much as to remove one man is what people fear from the Nightstalkers.
+A killing chosen to frighten a whole district as much as to remove one man is what people fear from Nóttgengir, the Nightstalkers.
 
-Nóttgengir are [[lore-nahilddty|Nahild]]'s elite assassins, carrying out her will through killings chosen for the chaos and fear they spread as much as for the target. A member trains in a secrecy as rigorous as the cult's own hovs keep, and answers to no authority outside the cult's hidden chain.
+Nóttgengir are elite assassins of the [[affiliation-nahild|Faith of Nahild]], carrying out what they regard as her will through killings chosen for the chaos and fear they spread as much as for the target. A member trains in a secrecy as rigorous as the cult's own hovs keep, and answers to no authority outside the cult's hidden chain.

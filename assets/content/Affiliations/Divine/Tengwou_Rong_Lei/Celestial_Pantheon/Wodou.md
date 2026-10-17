@@ -87,13 +87,13 @@ sohl: {system: {commonSkills: []}}
 - **Domain:** Transit
 - **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
-Dou Sei administers movement between classified regions—which, in a cosmos where a boundary is a
+In Wodou's teaching, Dou Sei administers movement between classified regions—which, in a cosmos where a boundary is a
 real administrative object, means it administers the boundaries themselves. Its Douzhi keep the
 waymarks that say where one classification ends and the next begins.
 
 Travelers and merchants petition it for safe passage, and its filings are the cheapest routine
 business in the empire because so many are made. It is also the bureau most damaged by the
-Youwéng's Gap-Makers: every forged boundary is a waymark that no longer marks anything, and Dou Sei
+[[affiliation-youweng|Youwéng]]'s Gap-Makers: every forged boundary is a waymark that no longer marks anything, and Dou Sei
 is the office that has to discover this, usually when somebody fails to arrive.
 
 ### Lesser Spirits

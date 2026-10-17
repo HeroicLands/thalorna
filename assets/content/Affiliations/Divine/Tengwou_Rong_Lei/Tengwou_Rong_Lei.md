@@ -90,7 +90,7 @@ sohl: {system: {commonSkills: []}}
 
 _The Celestial Court of Ten Thousand Spirits_
 
-The **Celestial Order**—formally the Téngwou Rong Lei—is the religious and cosmological framework of the [[affiliation-tantsouempr|Empire of Tantsou]] and, in divergent regional forms, of [[affiliation-jenchaiempr|Jenchai]]. It is not a faith in the Western sense. There is no creed, no salvation, no personal relationship with a loving god. The Celestial Order is an _administration_—a vast, impersonal bureaucracy of spiritual officials who govern the cosmos through procedure, precedent, and the relentless accounting of obligation.
+**Téngwou Rong Lei** is the formal name of the Celestial Order, the religious and cosmological framework of the [[affiliation-tantsouempr|Empire of Tantsou]] and, in divergent regional forms, of the [[affiliation-jenchaiempr|Jenchai Empire]]. It is not a faith in the Western sense. There is no creed, no salvation, no personal relationship with a loving god. In its cosmology, the Celestial Order is an _administration_—a vast, impersonal bureaucracy of spiritual officials who govern the cosmos through procedure, precedent, and the relentless accounting of obligation.
 
 For details on how the Celestial Order functions within Tantsou society—including the [[lore-mandatehvn|Mandate of Heaven]], [[lore-ancstrwrshp|Ancestor Worship]], and the [[lore-infrnlrlms|Infernal Realms]]—see [[lore-celestlrdr|Celestial Order]].
 
@@ -100,11 +100,11 @@ For details on how the Celestial Order functions within Tantsou society—includ
 
 The Tantsou do not believe the world was _created_. They believe it was _organized_.
 
-In the beginning there was only **Henléi**—the Unclassified, a roiling chaos of undifferentiated cosmic energy where nothing had name, category, or boundary. There were no elements, no directions, no seasons—only raw potential without form. The Henléi was not evil; it was simply _unprocessed_.
+In this cosmology, in the beginning there was only **[Henléi]{.name data-type="lore/cosmology"}**—the Unclassified, a roiling chaos of undifferentiated cosmic energy where nothing had name, category, or boundary. There were no elements, no directions, no seasons—only raw potential without form. The Henléi was not evil; it was simply _unprocessed_.
 
-Then came **Tanzho**, the First Classifier. The Tantsou do not say Tanzho was born, or that he emerged from chaos, or that he was always there. They say he was the _first act of classification itself_—the moment when existence first distinguished between one thing and another. Tanzho drew the first boundary: between that-which-is-above and that-which-is-below. This was the **Wo Chou** (the First Distinction), and from it everything else followed.
+Then came **[[lore-tanzhodty|Tanzho]]**, the First Classifier. The Tantsou do not say Tanzho was born, or that he emerged from chaos, or that he was always there. They say he was the _first act of classification itself_—the moment when existence first distinguished between one thing and another. Tanzho drew the first boundary: between that-which-is-above and that-which-is-below. This was the **[Wo Chou]{.name data-type="lore/cosmology"}** (the First Distinction), and from it everything else followed.
 
-Tanzho then performed the **Dao Zhaoléi** (the Great Sorting): separating fire from water, wood from metal, earth from air, light from dark, motion from stillness. Each classification required a name, a category, a set of rules governing its behavior. Each set of rules required an administrator. And so the gods were not born—they were _appointed_. Tanzho did not create subordinate deities out of love or loneliness. He created _positions_ that needed to be filled.
+Tanzho then performed the **[Dao Zhaoléi]{.name data-type="lore/cosmology"}** (the Great Sorting): separating fire from water, wood from metal, earth from air, light from dark, motion from stillness. Each classification required a name, a category, a set of rules governing its behavior. Each set of rules required an administrator. And so the gods were not born—they were _appointed_. Tanzho did not create subordinate deities out of love or loneliness. He created _positions_ that needed to be filled.
 
 The Henléi was not destroyed by this process. It was merely pushed to the margins—contained but never eliminated. It persists at the edges of classification, in the spaces between categories, in paradoxes and contradictions. The [[lore-infrnlrlms|Infernal Realms]] are understood as regions where the Great Sorting was incomplete or has begun to unravel.
 
@@ -114,11 +114,11 @@ This origin story has implications for the Tantsou worldview: the universe is no
 
 ## The Nature of Divinity
 
-The gods of the Téngwou Rong Lei are not what Western cultures would recognize as gods. They are not eternal, not omniscient, not objects of devotion. They are **officials**—immensely powerful beings who hold posts within the celestial administration.
+In this cosmology, the gods of the Téngwou Rong Lei are not what Western cultures would recognize as gods. They are not eternal, not omniscient, not objects of devotion. They are **officials**—immensely powerful beings who hold posts within the celestial administration.
 
 A god's power derives not from inherent divinity but from the _authority of their office_. A Teng Gui (Celestial Minister) commanding the Bureau of Storms controls storms not because storms are part of their being, but because the Bureau's seal grants them jurisdiction over storm-related cosmic energy. If they were removed from their post, another being could be appointed, and the storms would answer to the new officeholder.
 
-This means gods can be—and historically have been—**promoted, demoted, reassigned, and dismissed**. A mortal who accumulates sufficient spiritual credit through the moral ledger (see [[lore-ancstrwrshp|Ancestor Worship]]) and demonstrates administrative competence can, after death, be appointed to a divine post. Several of the current bureau overseers are believed to have been mortal in a previous cosmic cycle. Conversely, a god who fails in their duties—who allows their domain to fall into disorder—can be stripped of their office and reduced to a lesser spirit.
+In this account, gods can be—and historically have been—**promoted, demoted, reassigned, and dismissed**. A mortal who accumulates sufficient spiritual credit through the moral ledger (see [[lore-ancstrwrshp|Ancestor Worship]]) and demonstrates administrative competence can, after death, be appointed to a divine post. Several of the current bureau overseers are believed to have been mortal in a previous cosmic cycle. Conversely, a god who fails in their duties—who allows their domain to fall into disorder—can be stripped of their office and reduced to a lesser spirit.
 
 The Tantsou do not pray to their gods. They **petition** them. A petition is a formal spiritual document, structured according to protocol, addressed to the correct bureau, stamped with the appropriate seals. The temple is not a church—it is a **celestial post office**. The priests are not pastors—they are **clerks** who know the correct forms.
 
@@ -126,13 +126,13 @@ The Tantsou do not pray to their gods. They **petition** them. A petition is a f
 
 ## The Celestial Politics
 
-The Great Sorting did not eliminate competition. It _classified_ it.
+In this cosmology, the Great Sorting did not eliminate competition. It _classified_ it.
 
-The eleven bureaus do not cooperate seamlessly. They **compete**—for jurisdiction, for resources, for the authority to reclassify domains that sit on the boundary between their portfolios. The Bureau of Transformation (Ho Sei) and the Bureau of Creation (Tsai Sei) are natural rivals: one manages change, the other resists it. The Bureau of Allocation (Falou Sei) and the Bureau of Returns (Nuo Sei) fight over whether resources should be distributed or reclaimed. Bureau overseers lobby the Jade Sovereign for expanded jurisdiction, maneuver to place their subordinates in rival bureaus, and occasionally attempt to reclassify an entire category of cosmic business under their own authority. The Ministry of Final Account (Singwou) wields disproportionate leverage because every soul must eventually pass through its offices—and it is not above using that position.
+The eleven bureaus do not cooperate seamlessly. They **compete**—for jurisdiction, for resources, for the authority to reclassify domains that sit on the boundary between their portfolios. [[affiliation-zhenho|Zhenho]]'s Bureau of Transformation (Ho Sei) and [[affiliation-neitsai|Neitsai]]'s Bureau of Creation (Tsai Sei) are natural rivals: one manages change, the other resists it. [[affiliation-fawo|Fawo]]'s Bureau of Allocation (Falou Sei) and [[affiliation-nuowo|Nuowo]]'s Bureau of Returns (Nuo Sei) fight over whether resources should be distributed or reclaimed. Bureau overseers lobby [[lore-weizhuodty|Wéizhuo]], the Jade Sovereign, for expanded jurisdiction, maneuver to place their subordinates in rival bureaus, and occasionally attempt to reclassify an entire category of cosmic business under their own authority. [[affiliation-wansouzhuo|Wánsou Zhuo]]'s Ministry of Final Account (Singwou) wields disproportionate leverage because every soul must eventually pass through its offices—and it is not above using that position.
 
 Even the ancestor spirits play the game. A powerful ancestor posted to a favorable position will advocate aggressively for their descendants, undermining rival families' petitions, redirecting bureau attention, and building alliances with other ancestor spirits to create spiritual voting blocs. The dead are no less ambitious than the living—they are simply operating in a different office.
 
-The Tanchéi teach that this is not corruption. It is the mechanism by which the classification system **tests its own boundaries**, discovers jurisdictional gaps, and adapts to conditions that the original Great Sorting did not anticipate. A system without internal tension is a system that cannot self-correct. Rivalry keeps the bureaus sharp, prevents any single overseer from accumulating unchecked authority, and ensures that when a classification fails, there is always a competing bureau ready to claim the territory.
+The [[lore-tanchei|Tanchéi]] teach that this is not corruption. It is the mechanism by which the classification system **tests its own boundaries**, discovers jurisdictional gaps, and adapts to conditions that the original Great Sorting did not anticipate. A system without internal tension is a system that cannot self-correct. Rivalry keeps the bureaus sharp, prevents any single overseer from accumulating unchecked authority, and ensures that when a classification fails, there is always a competing bureau ready to claim the territory.
 
 The mortal court's political intrigues—the deadly maneuvering that the Tantsou call the [[lore-weizhairui|Wei Zhai Rui]]—are understood as the natural reflection of this celestial dynamic. The empire's power struggles are not a failure of the cosmic order. They are the cosmic order, operating as designed.
 
@@ -148,7 +148,7 @@ The bureaucracy processes three types of cosmic business: **petitions** (request
 
 A petition is a document, and three things stand between an ordinary Tantsou and a filed one.
 
-The first is the **script**. Petitions are written in [[skill-tengchouscript|Teng Chou]], the Celestial
+The first is the **script**. Petitions are written in [[skill-tengchouscript|Teng Chou Script]], the Celestial
 Record—logographic, three to four thousand characters for educated reading, more to compose
 formally, ten to fifteen years for a full education in it. A villager who wishes to petition for
 rain cannot write the request, and that is before any question of protocol arises.

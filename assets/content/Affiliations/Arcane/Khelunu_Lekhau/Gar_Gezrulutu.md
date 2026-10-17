@@ -58,7 +58,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Two Offices
 
-The Warden of the Tracks sets and maintains the workings on the desert roads, water-stations and quarry-camps. The **Keeper of the Sealed Forms** holds the House's plague and drought formulae, which are kept under the same restriction as [[affiliation-garzelgut|Gar-Zelgút's]] treatises though they are not themselves chaos.
+The Warden of the Tracks sets and maintains the workings on the desert roads, water-stations and quarry-camps. The **Keeper of the Sealed Forms** holds the House's plague and drought formulae, which are kept under the same restriction as [[affiliation-garzelgut|Gar-Zelgút]]'s treatises though they are not themselves chaos.
 
 The House is the Red half of a pair. [[affiliation-garnlghkhlth|Gar-Anlagh'Khelathu]] holds the **Black Land** of the flood, and the valley is not the good half and the waste the bad one.
 

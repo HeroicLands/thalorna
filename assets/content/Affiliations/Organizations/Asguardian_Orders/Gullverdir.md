@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Every coin that passes through the doors of a feast-hall is somebody's to answer for, and in [[affiliation-solrun|Solrún]]'s temples that somebody is a Keeper of the Golden Veil.
+Every coin that passes through the doors of a feast-hall is somebody's to answer for, and in the temples of the [[affiliation-solrun|Faith of Solrún]] that somebody is a Keeper of the Golden Veil.
 
 Gullverdir guard Solrún's sacred wealth and see that her feast-hall temples stay prosperous and well kept. A member holds the gold given away at her rites in trust until the giving itself takes place, and answers for every coin that passes through a hov's doors. Holding that gold in trust is a Drottmadr's work; a Dróttstjori directs the order's keeping of the temples.

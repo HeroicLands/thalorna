@@ -58,11 +58,11 @@ sohl: {system: {commonSkills: []}}
 
 ## Douyo—The Lost Road
 
-A corrupted spirit of the Bureau of Passage (Dou Sei), Douyo was once a Waymark Spirit (Douzhi) tasked with maintaining the boundaries between classified regions. Its function was to ensure that travelers moving between places arrived at their intended destination—that the road from one classified space led to another classified space, and not into the gaps between.
+In the Douyo cultus, [[lore-douyodty|Douyo]] is described as a corrupted spirit of [[affiliation-wodou|Wodou]]'s Bureau of Passage (Dou Sei), once a Waymark Spirit (Douzhi) tasked with maintaining the boundaries between classified regions. Its function was to ensure that travelers moving between places arrived at their intended destination—that the road from one classified space led to another classified space, and not into the gaps between.
 
-At some point, Douyo began _redirecting_. Travelers who should have arrived at a neighboring village found themselves in places that appeared on no map. Trade caravans vanished from well-traveled routes and reappeared weeks later in locations hundreds of leagues away, their members confused and missing time. Pilgrims bound for holy sites arrived instead at the edges of the Infernal Realms, where things without proper classification whispered offers of assistance.
+At some point, Douyo is said to have begun _redirecting_. Travelers who should have arrived at a neighboring village found themselves in places that appeared on no map. Trade caravans vanished from well-traveled routes and reappeared weeks later in locations hundreds of leagues away, their members confused and missing time. Pilgrims bound for holy sites arrived instead at the edges of the [[lore-infrnlrlms|Infernal Realms]], where things without proper classification whispered offers of assistance.
 
-The Bureau of Passage has never explained how one of its waymark spirits became corrupted. The leading theory among the Tanchéi is that Douyo encountered something in the spaces between classified regions—something from the Henléi that offered it an alternative cartography, a map of roads that connect not places but _states of being_. Douyo now maintains a network of passages that exist outside the celestial administration's jurisdiction entirely: roads that lead from despair to madness, from grief to oblivion, from ambition to ruin. Those who travel Douyo's roads arrive somewhere, but it is never where they intended, and it is always where they feared.
+The Bureau of Passage has never explained how one of its waymark spirits became corrupted. The leading theory among the [[lore-tanchei|Tanchéi]] is that Douyo encountered something in the spaces between classified regions—something from the [Henléi]{.name data-type="lore/cosmology"} that offered it an alternative cartography, a map of roads that connect not places but _states of being_. Douyo is said to maintain a network of passages that exist outside the celestial administration's jurisdiction entirely: roads that lead from despair to madness, from grief to oblivion, from ambition to ruin. Those who travel Douyo's roads arrive somewhere, but it is never where they intended, and it is always where they feared.
 
 ### Mortal Cultus: The Nuotsou Rui
 
@@ -76,4 +76,4 @@ Douyo occupies a lesser but real place in the devotional life of the [[affiliati
 
 ## Outside the Ladder
 
-A person the Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.
+A person [[affiliation-wantou|Wántou]]'s Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.

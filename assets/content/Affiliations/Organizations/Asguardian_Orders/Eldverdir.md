@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-While a forge-hov keeps its [[lore-fireweeks|Fire-Weeks]], the Flameguard watch its gate, and a threat to the hov is answered with the same flame the rite uses.
+While a forge-hov keeps its [[lore-fireweeks|Fire-Weeks]], Eldverdir, the Flameguard, watch its gate, and a threat to the hov is answered with the same flame the rite uses.
 
-Eldverdir is a militant order sworn to protect [[lore-svartbrandrdty|Svartbrandr]]'s forge-hovs and his followers, fighting with fire-based techniques that carry the god's own ordeal into battle.
+Eldverdir is a militant order sworn to protect the forge-hovs and followers of the [[affiliation-svartbrandr|Faith of Svartbrandr]], fighting with fire-based techniques that carry the god's own ordeal into battle.

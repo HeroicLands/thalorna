@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-What outsiders fear most about a hidden hov of [[lore-nahilddty|Nahild]] is the person who guards it.
+What outsiders fear most about a hidden hov of the [[affiliation-nahild|Faith of Nahild]] is the person who guards it.
 
 Náverdir, the Keepers of the Abyss, guard the hidden hovs and the rituals kept inside them, and serve as the cult's own inquisitors against anyone who threatens its secrecy. A member protects a sacred site first and its congregation second, and treats the two duties as inseparable.

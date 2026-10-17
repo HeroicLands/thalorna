@@ -48,7 +48,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Vylari: **Thizarlambizon**—"The Order of the Sealed Word"_
+_"The Order of the Sealed Word"—Vylari: **Thizarlambizon**_
 
 - **Type:** Fighting religious order
 - **Patron:** [[affiliation-ardavon|Árdavon]]—Aureldian god of oaths, gates, beginnings, transitions, and the dualities that separate one state from another
@@ -56,13 +56,13 @@ _Vylari: **Thizarlambizon**—"The Order of the Sealed Word"_
 
 ## Overview
 
-In the Aureldian tradition, an oath sworn before Árdavon is the bond that holds the social order together. The merchant's contract sealed in Árdavon's name, the noble's pledge of fealty, the marriage vow, the treaty between rival cities—all rest on the assumption that the sworn word will be honored, and that some adequate remedy exists when it is not. The civil courts handle the routine: the contract dispute, the inheritance claim, the breached commercial covenant. When the civil courts cannot—when the oath-breaker is too powerful for the local magistracy, when the breach is so grievous that ordinary remedy fails, when the sworn matter is one the magistracy will not touch—Árdavon's faith provides the alternative. The Order of the Sealed Word is that alternative.
+In the Aureldian [[affiliation-ardavon|Faith of Árdavon]], an oath sworn before Árdavon is the bond that holds the social order together. The merchant's contract sealed in Árdavon's name, the noble's pledge of fealty, the marriage vow, the treaty between rival cities—all rest on the assumption that the sworn word will be honored, and that some adequate remedy exists when it is not. The civil courts handle the routine: the contract dispute, the inheritance claim, the breached commercial covenant. When the civil courts cannot—when the oath-breaker is too powerful for the local magistracy, when the breach is so grievous that ordinary remedy fails, when the sworn matter is one the magistracy will not touch—Árdavon's faith provides the alternative. The Order of the Sealed Word is that alternative.
 
 The order is, in effect, a knightly enforcement arm for Árdavon's covenant. Its sworn brothers ride to where a binding oath has been broken in a manner the petitioner has been unable to address through ordinary channels, hear the matter, and—if the breach is established—compel the oath-breaker to remedy, by trial-by-combat if required and by force if necessary. The order does not displace the civil law; it answers when the civil law has been unable to. Its decisions are not, formally, binding on any kingdom's courts, but in practice they are honored because the order has earned, over centuries, the reputation of refusing petitions it cannot substantiate and ruling without favor on those it can.
 
 ## Membership and Structure
 
-A candidate for the order must be a sworn devotee of Árdavon, must be of sound character (an examination the order takes seriously, including discreet inquiry into the candidate's prior dealings), and must pass the order's examinations: martial competence, the law of binding oaths in Aureldian tradition, the recognized procedures for trial-by-combat, the rhetorical conduct of an oath-hearing, and a personal interview before the **Council of the Seal**. The candidacy process typically takes three years, with substantial attrition.
+A candidate for the order must be a sworn devotee of Árdavon, must be of sound character (an examination the order takes seriously, including discreet inquiry into the candidate's prior dealings), and must pass the order's examinations: martial competence, the law of binding oaths in Aureldian tradition, the recognized procedures for trial-by-combat, the rhetorical conduct of an oath-hearing, and a personal interview before the **[Council of the Seal]{.name data-type="affiliation/governmental"}**. The candidacy process typically takes three years, with substantial attrition.
 
 There are two working ranks above the candidacy, and two offices drawn from them:
 
@@ -71,30 +71,30 @@ There are two working ranks above the candidacy, and two offices drawn from them
 - **Marendos of the Order**—chapter leader; one per chapter house; presides over chapter affairs and represents the chapter before the Council.
 - **First Marendos**—the order's chair; one position; chosen by conclave of the _marendoi_ (masters) for a fifteen-year term.
 
-The order has chapter houses in each Aureldian kingdom, but its operational presence concentrates where commercial life and oath-density are highest: the Tarvénian capital, the Provenzian merchant cities, the Élavendren judicial seats. The mother-house at Ólvestra holds the order's archives—including the master register of every contested oath the order has ruled on in its three-century history, which opens with a boundary oath between two Tarvénian lords ([[lore-sealedwordfnd|The Founding of the Sealed Word]]).
+The order has chapter houses in each Aureldian kingdom, but its operational presence concentrates where commercial life and oath-density are highest: the Tarvénian capital, the Provenzian merchant cities, the Élavendren judicial seats. The mother-house at [[place-olvestria|Ólvestra]] holds the order's archives—including the master register of every contested oath the order has ruled on in its three-century history, which opens with a boundary oath between two Tarvénian lords ([[lore-sealedwordfnd|The Founding of the Sealed Word]]).
 
 ## Doctrine and Practice
 
 The order swears three principles:
 
-- **The Word Holds**—that a sworn oath in Árdavon's name binds the swearer absolutely until released by the oath's terms, by the oathed-to party, or by Árdavon's faith. There are no other releases.
-- **The Hearing Is Rendered**—that an oath-hearing convened by the order proceeds to its conclusion regardless of the parties' rank, station, or political weight. A petitioner whose oath has been broken by a king is owed the same hearing as a petitioner whose oath has been broken by a merchant.
-- **The Combat Honored**—that where the law of the kingdom in question permits trial-by-combat, and where the matter is one in which combat is doctrinally appropriate, a sworn brother will offer combat on the petitioner's behalf if no other combatant is available. The order's brothers are trained for this work; the offer is not made lightly and is not declined without cause.
+- **[The Word Holds]{.name data-type="lore/custom"}**—that a sworn oath in Árdavon's name binds the swearer absolutely until released by the oath's terms, by the oathed-to party, or by Árdavon's faith. There are no other releases.
+- **[The Hearing Is Rendered]{.name data-type="lore/custom"}**—that an oath-hearing convened by the order proceeds to its conclusion regardless of the parties' rank, station, or political weight. A petitioner whose oath has been broken by a king is owed the same hearing as a petitioner whose oath has been broken by a merchant.
+- **[The Combat Honored]{.name data-type="lore/custom"}**—that where the law of the kingdom in question permits trial-by-combat, and where the matter is one in which combat is doctrinally appropriate, a sworn brother will offer combat on the petitioner's behalf if no other combatant is available. The order's brothers are trained for this work; the offer is not made lightly and is not declined without cause.
 
 The order's procedures are formal and ritualized. A petition is presented at a chapter house, examined for substance, and either accepted (and the petitioner's claim assigned a brother who will travel to the alleged oath-breaker), or rejected (with explanation). The accepted petition triggers a journey—the brother rides to the oath-breaker's location, presents the order's writ, and convenes an oath-hearing under the order's procedures. The hearing reviews the original oath, the alleged breach, and the offered defense. The ruling is delivered in Árdavon's name and recorded.
 
 ## Notable Members
 
-- **First Marendos Anselmo Veroniani**—current First Marendos; a man in his sixties; presiding over the order in a period of increasing tension between the order and several of the Aureldian crowns.
+- **First Marendos [Anselmo Veroniani]{.name data-type="being/npc"}**—current First Marendos; a man in his sixties; presiding over the order in a period of increasing tension between the order and several of the Aureldian crowns.
 - **The Council of the Seal**—twelve Senior Brothers drawn from the five kingdoms; meets quarterly at Ólvestra.
 
 ## Relations
 
-- **The Aureldian Pantheon's Priesthood**—religious foundation; the order is doctrinally subordinate to Árdavon's senior priesthood but operationally independent.
+- **The Aureldian faiths' priesthoods**—religious foundation; the order is doctrinally subordinate to Árdavon's senior priesthood but operationally independent.
 - **The five Aureldian Crowns**—the order operates in each kingdom under royal license, periodically renewed. The renewal has, in recent generations, become a political question; the order's rulings against powerful noble interests have made some crowns reluctant to confirm the order's standing.
-- **The [[affiliation-crtgrphrsgldbyzrnlg|Cartographers' Guild of the Bizarian League]]** and other professional guilds—clients in oath-disputes that the guild internal processes have been unable to resolve.
-- **The [[affiliation-twinbldrdr|Twinblade Order]]**—sister order, also sworn to Árdavon; the two orders coordinate on matters requiring both the Sealed Word's juridical authority and the Twinblade's threshold-guarding presence.
-- **The [[affiliation-ordershnvw|Order of the Ashen Vow]] and [[affiliation-ironcinder|Iron Cinder]]**—Black Flame orders; the relationship is mutually hostile but procedurally correct. The Black Flame's heresy is a matter for the religious courts of the Sacred Forge, not the order; the order does not pursue Black Flame members unless a specific oath-breach is at issue.
+- **[[affiliation-crtgrphrsgldbyzrnlg|The Cartographers' Guild of the Bizarian League]]** and other professional guilds—clients in oath-disputes that the guild internal processes have been unable to resolve.
+- **[[affiliation-twinbldrdr|The Twinblade Order]]**—sister order, also sworn to Árdavon; the two orders coordinate on matters requiring both the Sealed Word's juridical authority and the Twinblade's threshold-guarding presence.
+- **[[affiliation-ordershnvw|The Order of the Ashen Vow]] and [[affiliation-ironcinder|The Iron Cinder]]**—[[affiliation-blackflame|The Black Flame]]'s orders; the relationship is mutually hostile but procedurally correct. The Black Flame's heresy is a matter for the religious courts of [[affiliation-sacredforge|The Sacred Forge]], not the order; the order does not pursue Black Flame members unless a specific oath-breach is at issue.
 
 ## Identifying Marks
 

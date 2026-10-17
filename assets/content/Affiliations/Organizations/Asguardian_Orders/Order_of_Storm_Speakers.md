@@ -54,7 +54,7 @@ sohl: {system: {commonSkills: []}}
 
 A candidate for the order is stood on the exposed summit of [[place-thrumufjall|Thrumufjall]] as the thunderheads pile up over the sea, and asked whether he can feel the storm coming when everyone else on the rock can only hear the weather. The examiners watch for the trained signs that a candidate has registered the storm, and one who shows none is dismissed, whatever else he can do.
 
-The Order of the Storm-Speakers, _Stormmelendir_, is the warrior-shaman order of [[lore-thrunvalddty|Thrunvald]], the god whose hammer holds back the chaos beyond the walls of the world. Its members fight as the storm fights: they swing a heavy two-handed hammer with an order-bred warrior's skill, and they read the weather and, within the limits Thrunvald's faith allows, call it. A Speaker can call wind, read an approaching storm with great precision and, in certain circumstances, draw down a localized lightning strike. No other tradition in the Nordlands cultivates the combination, which is what the order is for.
+The Order of the Storm-Speakers, _Stormmelendir_, is the warrior-shaman order of [[lore-thrunvalddty|Thrunvald]], the god whose hammer is said to hold back the chaos beyond the walls of the world. Its members fight as the storm fights: they swing a heavy two-handed hammer with an order-bred warrior's skill, and they read the weather and, within the limits the [[affiliation-thrunvald|Faith of Thrunvald]] allows, call it. A Speaker can call wind, read an approaching storm with great precision and, in certain circumstances, draw down a localized lightning strike. No other tradition in the [[place-nrdlndsrgn|Nordlands Region]] cultivates the combination, which is what the order is for.
 
 - Type: fighting religious order
 - Patron: [[affiliation-thrunvald|Thrunvald]], Asguardian god of thunder, storm, lightning and the cosmic defense of the ordered world
@@ -78,16 +78,16 @@ The order holds four ranks:
 - Sworn Speaker (_Stormmelir_): the full member, permitted to act on the order's behalf and to draw on its hospitality across the Nordlands.
 - Storm-Captain (_Eidhofding_): the senior member, who leads tactical actions in the field and instructs Aspirants. A Storm-Captain who leads the storm-speech in an engagement, reading and calling the weather, is the _Stormhofding_ for as long as he holds that charge.
 
-The chair is the Voice of the Hammer, _Hamarsmál_, whom the conclave of the Storm-Captains chooses for life. There is one Voice. The present Voice is **Thrildmil Hamarsmál**, a Storm-Captain of substantial reputation before his elevation, presiding through a generation in which the order's coastal services have been in high demand. Twenty-three Storm-Captains stand at present, and the most prominent is **Skilfrinna Eldhrund**, who commands the Thrumufjall chapter and is regarded as the finest active practitioner of the order's weather-craft.
+The chair is the Voice of the Hammer, _Hamarsmál_, whom the conclave of the Storm-Captains chooses for life. There is one Voice. The present Voice is **[Thrildmil Hamarsmál]{.name data-type="being/npc"}**, a Storm-Captain of substantial reputation before his elevation, presiding through a generation in which the order's coastal services have been in high demand. Twenty-three Storm-Captains stand at present, and the most prominent is **[Skilfrinna Eldhrund]{.name data-type="being/npc"}**, who commands the Thrumufjall chapter and is regarded as the finest active practitioner of the order's weather-craft.
 
-Thrumufjall is a sheer seamount on the Nordheim coast, topped by an ancient temple of Thrunvald. The hall is the order's training ground, its administrative center and its spiritual heart, and weather-craft is taught on the exposed summit. Senior elevations include rites at Thrumufjall conducted by Thrunvald's high priesthood.
+Thrumufjall is a sheer seamount on the [[place-nordheim|Nordheim]] coast, topped by an ancient temple of Thrunvald. The hall is the order's training ground, its administrative center and its spiritual heart, and weather-craft is taught on the exposed summit. Senior elevations include rites at Thrumufjall conducted by Thrunvald's high priesthood.
 
 ## The Three Vows
 
 The order swears three principles in its working vow.
 
 - **The Hammer Held.** The order's weather-craft and arms are dedicated to defending the ordered world against the chaos beyond it. The Speaker fights where Thrunvald would fight, and not for personal gain, dynastic ambition or sectarian quarrel.
-- **The Storm Honored.** The weather is the god's own voice, and a Speaker may not summon it for a trivial reason. One who calls a squall for personal convenience or for sport has profaned his vow.
+- **The Storm Honored.** The order regards the weather as the god's own voice, and a Speaker may not summon it for a trivial reason. One who calls a squall for personal convenience or for sport has profaned his vow.
 - **The Reading and the Speaking.** In any engagement the Speaker's first duty is to read the weather accurately, and he intervenes in it only when the reading shows that intervention serves the engagement's just purpose. The order has produced a large body of practical lore on that judgment.
 
 The combat doctrine is built on heavy weapons: the two-handed hammer, the short axe and the round shield, with weather as a tactical aid. A Speaker on the line is a hard fighter. A Speaker who has maneuvered himself under open sky with weather to work with is more dangerous still.
@@ -95,18 +95,18 @@ The combat doctrine is built on heavy weapons: the two-handed hammer, the short 
 ## What the Order Does
 
 - **Coastal defense.** Most major Nordland coastal settlements keep standing arrangements for Speakers to be dispatched when raiders threaten. The arrangements are renewed every year and have reduced raiding losses where they are in force.
-- **Storm interpretation.** Shipowners, captains and the [[affiliation-skaldscrcl|Skalds' Circle]] consult Speakers routinely on the weather. The order charges nothing, and the goodwill it earns in return is considerable.
-- **Defense against chaos incursions.** The order counts Helspawn ([[lore-undead|undead]]) incursions, [[affiliation-blackflame|Black Flame]] infiltrations and the rarer outright cosmological breaches as part of Thrunvald's defensive mandate. When one is identified, the relevant Storm-Captain usually commits a unit of Speakers without waiting for the Voice of the Hammer to authorize it.
+- **Storm interpretation.** Shipowners, captains and [[affiliation-skaldscrcl|The Skalds' Circle]] consult Speakers routinely on the weather. The order charges nothing, and the goodwill it earns in return is considerable.
+- **Defense against chaos incursions.** The order counts Helspawn ([[lore-undead|undead]]) incursions, [[affiliation-blackflame|The Black Flame]] infiltrations and the rarer outright cosmological breaches as part of Thrunvald's defensive mandate. When one is identified, the relevant Storm-Captain usually commits a unit of Speakers without waiting for the Voice of the Hammer to authorize it.
 - **Training.** Aspirant training at Thrumufjall is famously rigorous and is conducted in all weather.
 
 ## Relations
 
 - **[[affiliation-thrunvald|Thrunvald's priesthood]]** is the order's religious foundation.
 - **[[place-nrdlndsrgn|The five Nordland crowns]]** grant coastal land for chapter halls and protect the order's movements. The order in turn keeps the coastal defense arrangements the crowns find indispensable.
-- **The [[affiliation-eidhond|Order of the Sworn Hand]]** is a peer, and the two cooperate when a matter needs both legal and tactical authority.
-- **The [[affiliation-gronverdir|Green Wardens]]** cooperate with the Speakers formally in winter, since weather and harvest are interrelated concerns.
-- **The [[affiliation-thursborn|Giant's Children]]** are the order's closest neighbors in belief, because both orders take an interest in primal forces. They cooperate in the field more often than the Speakers do with the more domestic orders.
-- **The [[affiliation-ordoarcanis|Thordimalon]]** has tried formal cooperation with no other Asguardian fighting order. It proposed joint research into weather-craft, the order politely declined, and the order regards Arcane Order interest in its weather-craft with grave suspicion.
+- **[[affiliation-eidhond|The Order of the Sworn Hand]]** is a peer, and the two cooperate when a matter needs both legal and tactical authority.
+- **[[affiliation-gronverdir|The Green Wardens]]** cooperate with the Speakers formally in winter, since weather and harvest are interrelated concerns.
+- **[[affiliation-thursborn|The Giant's Children]]** are the order's closest neighbors in belief, because both orders take an interest in primal forces. They cooperate in the field more often than the Speakers do with the more domestic orders.
+- **[[affiliation-ordoarcanis|Thordimalon]]** has tried formal cooperation with no other Asguardian fighting order. It proposed joint research into weather-craft, the order politely declined, and the order regards Arcane Order interest in its weather-craft with grave suspicion.
 
 ## How to Know a Speaker
 

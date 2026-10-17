@@ -87,10 +87,10 @@ sohl: {system: {commonSkills: []}}
 - **Domain:** Dissolution
 - **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
-Nuo Sei is the reclamation office. What has finished being one thing is broken down here and
+In Nuowo's teaching, Nuo Sei is the reclamation office. What has finished being one thing is broken down here and
 returned as material for something else, which is why it works so closely with the
-[[affiliation-neitsai|Bureau of Creation]] and quarrels so persistently with the
-[[affiliation-fawo|Bureau of Allocation]]—one wants resources distributed, the other wants them
+[[affiliation-neitsai|Neitsai]] bureau, the Bureau of Creation, and quarrels so persistently with
+[[affiliation-fawo|Fawo]], the Bureau of Allocation—one wants resources distributed, the other wants them
 back.
 
 Mortals rarely petition it directly and are wary when they must. A request to Nuo Sei is a request

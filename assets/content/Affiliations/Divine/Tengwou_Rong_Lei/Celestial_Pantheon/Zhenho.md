@@ -87,7 +87,7 @@ sohl: {system: {commonSkills: []}}
 - **Domain:** Fire
 - **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
-Ho Sei administers transformation, and therefore administers the entire postal system of the
+In Zhenho's teaching, Ho Sei administers transformation, and therefore administers the entire postal system of the
 cosmos: fire is the medium by which a document passes from the mortal plane to the celestial one,
 so every petition filed to every bureau is carried by this one. Burning a correctly addressed
 petition actually files it; burning spirit money actually credits an account; burning offerings for

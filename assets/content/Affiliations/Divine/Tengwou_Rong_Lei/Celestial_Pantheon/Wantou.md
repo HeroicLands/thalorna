@@ -89,13 +89,13 @@ sohl: {system: {commonSkills: []}}
 - **Domain:** Knowledge
 - **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
-Chou Sei holds the record of the Great Sorting and every amendment since. It does not decide
+Wántou teaches that Chou Sei holds the record of [Dao Zhaoléi]{.name data-type="lore/cosmology"}, the Great Sorting, and every amendment since. It does not decide
 anything; it establishes what is true, which in an administration of precedent is a great deal more
 powerful than deciding.
 
 Scholars petition the archive for citations, and clerks preparing a difficult filing hire them to
 do so. The bureau's authority rests on the assumption that its records are accurate—an assumption
-[[affiliation-watsai|Watsai]] falsified from the inside while employed here as a Chougen, and
+[[lore-watsaidty|Watsai]] is said to have falsified from the inside while employed here as a Chougen, and
 which the archive has been quietly re-verifying ever since without admitting the scale of the
 problem.
 

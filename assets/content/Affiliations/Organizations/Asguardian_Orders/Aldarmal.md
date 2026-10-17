@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-"Who speaks for the elder races?" a pilgrim asks the Ansorun who tends a grove of [[affiliation-bjartr|Bjart]]. "Usually no one," comes the answer. "The standing is claimed when it arises, not filled on a schedule."
+"Who speaks for the elder races?" a pilgrim asks the Ansorun who tends a grove of the [[affiliation-bjartr|Faith of Bjart]]. "Usually no one," comes the answer. "The standing is claimed when it arises, not filled on a schedule."
 
 Aldarmál, the Elder's Voice, is that standing: the one who speaks between the elder races and mortals in Bjart's name, preserving ancient knowledge and keeping harmony between the two. No more than one or two members hold it at once, and the faith is often served by none. The Dróttstjori speaks between the elder races and mortals; the Drottmadr beneath him is still learning the ancient knowledge and does not yet speak for them.

@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A priest of [[affiliation-svartbrandr|Svartbrandr]] in the Order of the Inferno is judged on the work he turns out of the fire as much as on the devotion behind it.
+A priest of the [[affiliation-svartbrandr|Faith of Svartbrandr]] in Smideldr, the Order of the Inferno, is judged on the work he turns out of the fire as much as on the devotion behind it.
 
 Smideldr trains priests in the mastery of fire, serving the forge-hovs as blacksmiths and forge-masters through the [[lore-fireweeks|Fire-Weeks]] and beyond them. A member tends the bellows that keep a forge-hov's ordeals burning. Tending the bellows through the Fire-Weeks, a Drottmadr learns the mastery of fire, and the order's forge-masters are led by a Dróttstjori.

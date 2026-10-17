@@ -75,13 +75,13 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-Born from the intersection of Helionite mystery cults and the Vylarian court's insatiable appetite for intrigue, the Velvet Hand trades in the most valuable commodity of all: secrets. Where the Crimson Ledger follows the money and the Gray Tide follows the cargo, the Velvet Hand follows the whisper—the unguarded word in a bedchamber, the letter left unsealed on a _kurthos_'s desk, the confession extracted from a dying man by a sympathetic healer who happens to have a very good memory.
+Born from the intersection of Helionite mystery cults and the Vylarian court's insatiable appetite for intrigue, the Velvet Hand trades in the most valuable commodity of all: secrets. Where [[affiliation-crimsnldgr|The Crimson Ledger]] follows the money and [[affiliation-graytide|The Gray Tide]] follows the cargo, the Velvet Hand follows the whisper—the unguarded word in a bedchamber, the letter left unsealed on a _kurthos_'s desk, the confession extracted from a dying man by a sympathetic healer who happens to have a very good memory.
 
-The organization grew in Helionis, where the Academy of the Silver Veil already trained sophisticated political agents—educated courtesans, philosophical companions, and social intermediaries. The Velvet Hand recruited from its graduates and dropouts alike, recognizing that the same skills that make an excellent hetairin also make an excellent spy. From Helionis, the network spread to Vylaria's rigid, faction-ridden court, where information is currency and a _kurthos_'s valet hears more than the Senate itself. In Provenzia, theatrical troupes and artistic salons provide perfect cover for operatives who can adopt any persona.
+The organization grew in [[place-helionis|Helionis]], where the [Academy of the Silver Veil]{.name data-type="affiliation"} already trained sophisticated political agents—educated courtesans, philosophical companions, and social intermediaries. The Velvet Hand recruited from its graduates and dropouts alike, recognizing that the same skills that make an excellent hetairin also make an excellent spy. From Helionis, the network spread to the [[affiliation-vylarinmpr|Vylarian Empire]]'s rigid, faction-ridden court, where information is currency and a _kurthos_'s valet hears more than [[affiliation-seldan|Seldan]] (the Vylarian Senate) itself. In the [[place-provenzrgn|Provenzia Region]], theatrical troupes and artistic salons provide perfect cover for operatives who can adopt any persona.
 
 ## Territory
 
-**Primary:** Vylarian cities (especially Orzara and Alessa), Provenzian courts and cultural centers, Helionite city-states (Thirenae, Pelagora, Kalidria)
+**Primary:** Vylarian cities (especially [[place-orzara|Orzara City]] and [[place-alyssa|Alessa]]), Provenzian courts and cultural centers, Helionite city-states ([[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalidria]])
 
 **Secondary:** The Velvet Hand maintains small cells in every major city where powerful people gather. A single agent in a Taruzelian guild hall or a Ta.Khelathi court can be worth more than a dozen enforcers.
 
@@ -93,7 +93,7 @@ The organization grew in Helionis, where the Academy of the Silver Veil already 
 
 **Political assassination:** The Velvet Hand's most feared service. Kills are designed to look natural—poison in wine, a fall from a balcony, a sudden illness. Blade work is considered crude and is reserved for messages. The organization maintains a small cadre of specialist poisoners, some trained in Helionite pharmaceutical traditions, others in Ta.Khelathi embalming arts.
 
-**Theft of sensitive documents:** State secrets, trade agreements, military plans, Thordimalon (the Arcane Order) research notes—anything written down can be copied or stolen. The Velvet Hand's document forgers are among the best in the world, capable of producing copies indistinguishable from originals.
+**Theft of sensitive documents:** State secrets, trade agreements, military plans, [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) research notes—anything written down can be copied or stolen. The Velvet Hand's document forgers are among the best in the world, capable of producing copies indistinguishable from originals.
 
 ## Organization
 
@@ -105,11 +105,11 @@ Legitimate fronts include pleasure houses, theaters, art dealerships, and a hand
 
 ## Relations with Other Syndicates
 
-The Velvet Hand sells information to everyone, including about the other syndicates. This makes it both indispensable and universally loathed. The Crimson Ledger buys financial intelligence from the Hand, knowing full well that the Hand is also selling intelligence about the Ledger to the Auric Compact. The Gray Tide has standing orders to kill confirmed Velvet Hand agents found operating in Tide territory without prior arrangement—orders enforced about half the time, depending on whether the agent has something useful to trade first.
+The Velvet Hand sells information to everyone, including about the other syndicates. This makes it both indispensable and universally loathed. The Crimson Ledger buys financial intelligence from the Hand, knowing full well that the Hand is also selling intelligence about the Ledger to the [[affiliation-auricompct|Auric Compact]]. The Gray Tide has standing orders to kill confirmed Velvet Hand agents found operating in Tide territory without prior arrangement—orders enforced about half the time, depending on whether the agent has something useful to trade first.
 
 The Velvet Hand considers itself more sophisticated than its rivals and cultivates an air of aristocratic disdain for the "crude commerce" of the other syndicates. This attitude masks fear—the Hand has no enforcers, no ships, no fighters. If a rival syndicate decided to wage open war, the Velvet Hand would be destroyed. Its survival depends on being too useful to kill and too dangerous to ignore.
 
-The Ash Road is the Hand's most reliable client for assassination contracts, particularly when the Road needs a political obstacle in a coastal city quietly removed. The Hand charges premium rates for these services and has never been caught—a track record it guards jealously.
+[[affiliation-theashroad|The Ash Road]] is the Hand's most reliable client for assassination contracts, particularly when the Road needs a political obstacle in a coastal city quietly removed. The Hand charges premium rates for these services and has never been caught—a track record it guards jealously.
 
 ## Identifying Marks
 

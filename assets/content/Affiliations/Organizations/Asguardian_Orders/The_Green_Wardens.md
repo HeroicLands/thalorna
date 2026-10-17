@@ -45,7 +45,7 @@ sohl: {system: {commonSkills: []}}
 
 A Green Warden newly come to a steading helps with the calving and stands in the gate if raiders come, and takes no side in the household's inheritance quarrels, a rule the household is wise to learn the first night, since it will be tempted to forget it before spring. The Guardian means all three parts of it.
 
-The Green Wardens, _Gronverdir_, are a fighting order sworn to a god of peace, and the paradox is their doctrine. [[lore-frodvindty|Frodvin]]'s peace is the peace of the cultivated valley: the harvest stored, the herd unmolested, the household whole. In a region where raiders, wolves, hard winters and the casual cruelty of passing warbands are all standing threats, only people willing to stand against those things hold that peace. One does not protect peace by refusing to fight, the order teaches; one protects it by fighting only what threatens it.
+The Green Wardens, _Gronverdir_, are a fighting order sworn to a god of peace, and the paradox is their doctrine. The peace of the [[affiliation-frodvin|Faith of Frodvin]] is the peace of the cultivated valley: the harvest stored, the herd unmolested, the household whole. In a region where raiders, wolves, hard winters and the casual cruelty of passing warbands are all standing threats, only people willing to stand against those things hold that peace. One does not protect peace by refusing to fight, the order teaches; one protects it by fighting only what threatens it.
 
 - Type: fighting religious order
 - Patron: [[affiliation-frodvin|Frodvin]], Asguardian god of peace, fertility, harvest and the sun
@@ -54,7 +54,7 @@ The Green Wardens, _Gronverdir_, are a fighting order sworn to a god of peace, a
 
 ## Settling In
 
-The Sworn Hands ride, and the Green Wardens settle. A Guardian is attached to a valley or a cluster of farmsteads for years at a time, working beside the household and serving as its armed presence against bandits, beasts, raiding parties and the occasional warband whose discipline has slipped. The Guardian helps with the harvest and helps with the calving. The Guardian also kills when called to, with the trained competence of a sworn warrior whose vows say exactly which kinds of killing fall within his calling and which do not.
+[[affiliation-eidhond|The Order of the Sworn Hand]] rides, and the Green Wardens settle. A Guardian is attached to a valley or a cluster of farmsteads for years at a time, working beside the household and serving as its armed presence against bandits, beasts, raiding parties and the occasional warband whose discipline has slipped. The Guardian helps with the harvest and helps with the calving. The Guardian also kills when called to, with the trained competence of a sworn warrior whose vows say exactly which kinds of killing fall within his calling and which do not.
 
 The order's training matches what the work needs: defensive infantry standing before a steading's gate, polearm work in narrow spaces, archery from a barn loft, and the suppression of dangerous beasts such as wolves, bears and the occasional incursion of Helspawn, the [[lore-undead|undead]]. Against raiders, a Guardian answers in escalating steps that begin with a show of force and end, when necessary, with practical lethality.
 
@@ -68,7 +68,7 @@ The order holds three ranks, and it admits nobody below its sworn rank: a candid
 - Sworn Guardian (_Gronvordr_): the working warden, assigned to a station or, occasionally, riding as a circuit relief.
 - Elder Guardian (_Eidhofding_): the senior member, called _Eldri Gronvordr_ among the Wardens themselves. An Elder Guardian may serve as station-warden for a more important valley, may oversee training, and sits on the order's Chapter.
 
-The chair is the Speaker of the Green, _Gronmál_, elected by the Chapter for a five-year term. There is one Speaker, who acts as an administrative coordinator rather than a commander. The present Speaker is **Thulmrinna Gronmál**, a former station-warden of a contested [[place-vrystwald|Vristwald]] valley and widely regarded as the moral conscience of the order today. The standing Chapter is perhaps sixty Elder Guardians across the five kingdoms.
+The chair is the Speaker of the Green, _Gronmál_, elected by the Chapter for a five-year term. There is one Speaker, who acts as an administrative coordinator rather than a commander. The present Speaker is **[Thulmrinna Gronmál]{.name data-type="being/npc"}**, a former station-warden of a contested [[place-vrystwald|Vristwald]] valley and widely regarded as the moral conscience of the order today. The standing Chapter is perhaps sixty Elder Guardians across the five kingdoms.
 
 The Chapter meets in late autumn, after the harvest is stored, in rotation between the three largest active halls. A major harvest rite is part of it. Administration between chapters is light and mostly conducted by correspondence among Elder Guardians.
 
@@ -84,9 +84,9 @@ The Guardian swears three things.
 
 - **[[affiliation-frodvin|Frodvin's priesthood]]** is the order's religious foundation, and many Guardians are also lay priests of Frodvin.
 - **[[place-nrdlndsrgn|The five Nordland crowns]]** grant the stations land-use rights and informal exemption from levy, since a stationed Guardian's value to a crown is that he is not in the field with the king's host. The relationship is generally cordial and sometimes strained when a crown wants to raise a levy that includes valley folk under Guardian protection.
-- **The [[affiliation-malldbndlg|Málalidabandalag]]** and the Guardians keep a wary mutual respect. A signed company and a Guardian are sometimes on opposite sides of the same raid, the company hired to take a farmstead and the Guardian sworn to defend it. The standing convention is that both sides honor the rules of warfare under which they operate, and that captured wounded are returned for ransom or care.
+- **[[affiliation-malldbndlg|Málalidabandalag]]** and the Guardians keep a wary mutual respect. A signed company and a Guardian are sometimes on opposite sides of the same raid, the company hired to take a farmstead and the Guardian sworn to defend it. The standing convention is that both sides honor the rules of warfare under which they operate, and that captured wounded are returned for ransom or care.
 - **The [[affiliation-eidhond|Order of the Sworn Hand]]** is a sibling order. The two recognize each other and sometimes cooperate when a matter of contested harvest or steading involves judgment.
-- **The [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]]** cooperate with the Wardens formally in winter, when the Speakers' weather-craft and the Guardians' practical valley defense overlap.
+- **[[affiliation-ordrstrmspkrs|The Order of the Storm-Speakers]]** cooperate with the Wardens formally in winter, when the Speakers' weather-craft and the Guardians' practical valley defense overlap.
 
 ## What a Guardian Wears
 

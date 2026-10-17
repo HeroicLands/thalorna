@@ -84,17 +84,17 @@ sohl:
 
 "State your method before you state your figure," the examiner tells the candidate at the slate in the open hall at [[place-chandrapur2|Chendrapur]]. "The college stands behind a figure for as long as it names the method that produced it, and not a day longer."
 
-The **Ganoka-shalda** is the college the Vedyari mathematicians and astronomers come out of. Every court between the wall and the southern sea keeps a **Ganoka** to fix its auspicious hours, and almost every one of them was examined in the hall at [[place-chandrapur2|Chendrapur]] before he was hired.
+The **Ganoka-shalda** is the college the Vedyari mathematicians and astronomers come out of. Every court between the wall and the southern sea keeps a **Ganoka** to fix its auspicious hours, and almost every one of them was examined in the hall at Chendrapur before he was hired.
 
 What the college does is compute rather than observe. It holds the tables, and the tables are the point: an ephemeris carried forward by calculation, tide-tables for every harbor of consequence, and the assay constants the gold-weighing at [[place-suvarnagiri|Suvarnageri]] is checked against. A figure the college has published is a figure a court can be held to, and a court that has been held to one has generally paid for it.
 
-The work is written in the mathematical and astronomical notation that is taught beside the [[skill-vdykshrscrpt|Vedyakshara]] and is unreadable without it. That is not secrecy and the college does not pretend it is. It is simply that a page of the tables conveys nothing whatever to a literate person who never learned the notation, which is most literate people, and the college has never felt any pressure to fix this.
+The work is written in the mathematical and astronomical notation that is taught beside the [[skill-vdykshrscrpt|Vedyakshara Script]] and is unreadable without it. That is not secrecy and the college does not pretend it is. It is simply that a page of the tables conveys nothing whatever to a literate person who never learned the notation, which is most literate people, and the college has never felt any pressure to fix this.
 
 ### The Year, and the Day the Two Methods Differ
 
-The public year of the [[lore-mdhvndrcnt|Madustana count]] is sighted—by the [[affiliation-trimurtisampradaya|Triyanga-sampradeya]], at the [[place-suryatempl|Surva temple]] above [[place-chandrprbh|Chandraprabhava]], where the [[place-chandrmahi|Chandramahi]] comes out of the ice. The college computes the same year instead, and the two figures are not always the same figure.
+The public year of [[lore-mdhvndrcnt|The Madustana Count]] is sighted—by the [[affiliation-trimurtisampradaya|Triyanga-sampradeya]], at [[place-suryatempl|The Surva temple]] above [[place-chandrprbh|Chandraprabhava]], where [[place-chandrmahi|The Chandramahi]] comes out of the ice. The college computes the same year instead, and the two figures are not always the same figure.
 
-A single day is enough to move a Weighing, a coronation or a festival, and neither method is dropped for the other. A court declares which it follows and lives with the consequence, and the declaration is a political act disguised as an administrative one: to follow the computation is to say the temple's sighting is a ceremony, and to follow the sighting is to say the college is a trade.
+A single day is enough to move a [Weighing]{.name data-type="lore/custom"}, a coronation or a festival, and neither method is dropped for the other. A court declares which it follows and lives with the consequence, and the declaration is a political act disguised as an administrative one: to follow the computation is to say the temple's sighting is a ceremony, and to follow the sighting is to say the college is a trade.
 
 ### Who Is Admitted
 

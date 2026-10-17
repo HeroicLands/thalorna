@@ -78,7 +78,7 @@ employed doing something entirely respectable, and the two facts are not in tens
 What such a person holds is a small and specific inheritance: the forms of address for one or two
 classes of lesser demon, the appeasements each expects, and the knowledge of which requests are
 worth making. It is taught by one practitioner to one other, rarely written, and lost constantly.
-The Tanchéi consider the resulting variation the reason lesser-demon petitions gho wrong so much
+The [[lore-tanchei|Tanchéi]] consider the resulting variation the reason lesser-demon petitions gho wrong so much
 more often than Demon Lord petitions, which are drafted by professionals.
 
 They gho wrong in the same direction as everything else in the Youwéng. A ledger-gnawer asked to
@@ -99,11 +99,11 @@ The Tanchéi have identified several broad classes of lesser demon, though they 
 
 #### **Ledger-Gnawers** (Chounuoyo)
 
-Lesser demons specialized in the corruption and destruction of celestial records. A ledger-gnawer will infiltrate archives, devour pages, or alter entries in order to obscure accounts or create false trails. They serve the Demon Lord [[affiliation-watsai|Watsai]], the Forger of False Records, though many operate independently. Mortals in league with ledger-gnawers often become scribes, monks, or bureaucratic officials—positions from which a demon can most effectively damage the celestial record-keeping apparatus.
+Lesser demons specialized in the corruption and destruction of celestial records. A ledger-gnawer will infiltrate archives, devour pages, or alter entries in order to obscure accounts or create false trails. They serve the Demon Lord [[lore-watsaidty|Watsai]], the Forger of False Records, though many operate independently. Mortals in league with ledger-gnawers often become scribes, monks, or bureaucratic officials—positions from which a demon can most effectively damage the celestial record-keeping apparatus.
 
 #### **Seal-Thieves** (Zhuoréi)
 
-Demons whose function is the theft, counterfeiting, and improper deployment of celestial seals and stamps. These beings understand bureaucratic authentication as a form of power and extract authority from the celestial system by acquiring documents or seal-implements. Seal-thieves are closely affiliated with [[affiliation-yozhuo|Yozhuo]], the Custodian of Lost Seals, and access to Yozhuo's archive is typically controlled by seal-thieves who guard the infernal repository.
+Demons whose function is the theft, counterfeiting, and improper deployment of celestial seals and stamps. These beings understand bureaucratic authentication as a form of power and extract authority from the celestial system by acquiring documents or seal-implements. Seal-thieves are closely affiliated with [[lore-yozhuodty|Yozhuo]], the Custodian of Lost Seals, and access to Yozhuo's archive is typically controlled by seal-thieves who guard the infernal repository.
 
 #### **Threshold-Whispers** (Hameiyo)
 
@@ -115,15 +115,15 @@ Lesser demons specialized in the inhabitation and control of mortal vessels. A p
 
 #### **Archive-Shadows** (Chouwo)
 
-Demons whose domain is the hidden spaces between records, the forgotten marginal notes in celestial documents, the erased corrections that still leave traces. An archive-shadow consumes the _substance_ of archives—not the visible text but the authority and coherence that holds a record system together. They are parasites on the celestial bureaucracy itself, and they are particularly valued by entities like [[affiliation-watsai|Watsai]] who wish to poison the archive without leaving obvious evidence of tampering.
+Demons whose domain is the hidden spaces between records, the forgotten marginal notes in celestial documents, the erased corrections that still leave traces. An archive-shadow consumes the _substance_ of archives—not the visible text but the authority and coherence that holds a record system together. They are parasites on the celestial bureaucracy itself, and they are particularly valued by entities like Watsai who wish to poison the archive without leaving obvious evidence of tampering.
 
 #### **Entropy-Vermin** (Hénsingyo)
 
-Lesser demons that serve the Demon Lord [[affiliation-nuoho|Nuoho]] and embody his principle of annihilation without remainder. These beings specialize in the complete erasure of classified things—objects, persons, memories, administrative categories. Wherever an entropy-vermin feeds, what it consumes does not decompose or recycle. It is simply gone, falling back into the Henléi as undifferentiated potential.
+Lesser demons that serve the Demon Lord [[lore-nuohodty|Nuoho]] and embody his principle of annihilation without remainder. These beings specialize in the complete erasure of classified things—objects, persons, memories, administrative categories. Wherever an entropy-vermin feeds, what it consumes does not decompose or recycle. It is simply gone, falling back into the [Henléi]{.name data-type="lore/cosmology"} as undifferentiated potential.
 
 #### **Wayward Spirits** (Douzhawo)
 
-Demons of passage and misdirection, affiliated with the Demon Lord [[affiliation-douyo|Douyo]]. These lesser demons maintain the hidden roads of the Infernal Realms and guide (or mislead) those who seek passage. Some wayward spirits are conscripted into serving [[affiliation-douyo|Douyo]] by circumstance; others prefer the role of guide, as it grants them singular power over the spaces they maintain.
+Demons of passage and misdirection, affiliated with the Demon Lord [[lore-douyodty|Douyo]]. These lesser demons maintain the hidden roads of the Infernal Realms and guide (or mislead) those who seek passage. Some wayward spirits are conscripted into serving Douyo by circumstance; others prefer the role of guide, as it grants them singular power over the spaces they maintain.
 
 ### Mortal Engagement
 
@@ -145,4 +145,4 @@ Lesser demons can be exorcized through properly performed celestial rituals that
 
 ## Outside the Ladder
 
-A person the Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.
+A person [[affiliation-wantou|Wántou]]'s Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.

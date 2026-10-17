@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 "If you ever see the work of Nalok," says a gudi who keeps a farm hov in the [[place-norgaad|Norgaad]] passes, "you will not see it done."
 
-Nalok, the Order of the Void, serves [[affiliation-nahild|Nahild]]'s hidden cult in secret, working to widen the influence of the [[lore-ginnauga|Eye of the Void]] over whatever ground its members can reach. A member answers only to a hidden hov's own gudi. The order's work is never done where an outsider can see it, and what outsiders know of it is what they fear.
+Nalok, the Order of the Void, serves the hidden cult of the [[affiliation-nahild|Faith of Nahild]] in secret, working to widen the influence of [[lore-ginnauga|Ginnauga]] (the Eye of the Void) over whatever ground its members can reach. A member answers only to a hidden hov's own gudi. The order's work is never done where an outsider can see it, and what outsiders know of it is what they fear.

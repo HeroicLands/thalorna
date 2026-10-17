@@ -58,11 +58,11 @@ sohl: {system: {commonSkills: []}}
 
 ## Hénzhuo—The Lord of the Unclassified
 
-The eldest and most feared of the Demon Lords, Hénzhuo is not a fallen official but something older—a coherence that formed within the **Henléi** itself during the Great Sorting. When Tanzho drew the first boundaries, most of the primordial chaos submitted to classification. Hénzhuo did not. It is the refusal given form: the part of the Henléi that looked at the Great Sorting and _disagreed_.
+In the Hénzhuo cultus, [[lore-henzhuodty|Hénzhuo]] is the eldest and most feared of the Demon Lords, not a fallen official but something older—a coherence that formed within the **[Henléi]{.name data-type="lore/cosmology"}** itself during [Dao Zhaoléi]{.name data-type="lore/cosmology"}, the Great Sorting. When [[lore-tanzhodty|Tanzho]] drew the first boundaries, most of the primordial chaos submitted to classification. Hénzhuo did not. It is the refusal given form: the part of the Henléi that looked at the Great Sorting and _disagreed_.
 
-The Tanchéi describe Hénzhuo not as a being with shape or personality, but as an _anti-classification_—a force that dissolves categories in its presence. Things near Hénzhuo lose their names. Metals forget whether they are iron or copper. Rivers run in directions that have no word. Mortals exposed to its influence begin to lose the distinctions that make thought possible: the difference between self and other, between past and future, between waking and sleep.
+The [[lore-tanchei|Tanchéi]] describe Hénzhuo not as a being with shape or personality, but as an _anti-classification_—a force that dissolves categories in its presence. Things near Hénzhuo lose their names. Metals forget whether they are iron or copper. Rivers run in directions that have no word. Mortals exposed to its influence begin to lose the distinctions that make thought possible: the difference between self and other, between past and future, between waking and sleep.
 
-The Bureau of Entropy (Huen Sei) was created, in part, to manage the boundary between controlled dissolution and Hénzhuo's domain. The Tanchéi consider any discussion of Hénzhuo dangerous—not because the name has power, but because thinking too precisely about anti-classification tends to erode the thinker's own categories. Scholars who study the Henléi too deeply have been known to forget their own names.
+In this account, [[affiliation-genhen|Genhén]]'s Bureau of Entropy (Huen Sei) was created, in part, to manage the boundary between controlled dissolution and Hénzhuo's domain. The Tanchéi consider any discussion of Hénzhuo dangerous—not because the name has power, but because thinking too precisely about anti-classification tends to erode the thinker's own categories. Scholars who study the Henléi too deeply have been known to forget their own names.
 
 ### Mortal Cultus: The Nuotsou Rui
 
@@ -76,4 +76,4 @@ Hénzhuo is not prayed to in the conventional sense—the Lord of the Unclassifi
 
 ## Outside the Ladder
 
-A person the Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.
+A person [[affiliation-wantou|Wántou]]'s Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.

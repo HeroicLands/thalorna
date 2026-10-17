@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Aboard a ship that carries [[affiliation-thrunvald|Thrunvald]]'s faithful, nobody outranks the captain, and no one else in the crew outranks a Seaforged.
+Aboard a ship that carries the faithful of the [[affiliation-thrunvald|Faith of Thrunvald]], nobody outranks the captain, and no one else in the crew outranks a Seaforged.
 
 Hafskel, the Seaforged, trains fighters of the faith at sea rather than ashore, drilling them into masters of naval combat and of a ship's defense under way. A member serves aboard the vessels that carry the faithful, where the order's own standing counts for more than any crew rank but the captain's.

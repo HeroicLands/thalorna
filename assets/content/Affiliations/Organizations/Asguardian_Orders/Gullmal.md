@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Where a dispute turns on charm rather than force, [[affiliation-solrun|Solrún]]'s temple sends a Gilded Voice.
+Where a dispute turns on charm rather than force, a temple of the [[affiliation-solrun|Faith of Solrún]] sends a Gilded Voice.
 
 Gullmál, the Gilded Voices, are priests prized for their persuasiveness, serving the faith as diplomats, negotiators and ambassadors. A member speaks for a feast-hall's temple in dealings no blunter envoy could carry. In minor dealings the temple is spoken for by a Drottmadr, who is not yet a full diplomat; negotiation and the carrying of embassies belong to the Dróttstjori.

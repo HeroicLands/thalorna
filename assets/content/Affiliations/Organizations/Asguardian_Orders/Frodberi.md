@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Say two neighbors are quarrelling over a strayed heifer. Before it reaches the ting, either can send for a Herald of Peace, and both will accept him, because [[affiliation-frodvin|Frodvin]]'s peace is understood to serve neither party over the other.
+Say two neighbors are quarrelling over a strayed heifer. Before it reaches the ting, either can send for a Herald of Peace, and both will accept him, because the peace of the [[affiliation-frodvin|Faith of Frodvin]] is understood to serve neither party over the other.
 
 Fródberi, the Heralds of Peace, mediate disputes in Frodvin's name, keeping harmony within a household and between neighboring ones. Both sides seek out a Dróttstjori to mediate; a Drottmadr carries word between the households and does not yet settle a quarrel alone.

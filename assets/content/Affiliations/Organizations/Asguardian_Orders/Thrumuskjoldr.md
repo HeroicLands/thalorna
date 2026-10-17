@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-At a coastal hov of [[affiliation-thrunvald|Thrunvald]], the priest minding the stores may be the one minding the gate.
+At a coastal hov of the [[affiliation-thrunvald|Faith of Thrunvald]], the priest minding the stores may be the one minding the gate.
 
 Thrumuskjoldr, the Order of the Hammer, trains priests in combat and protection, and its members serve the coastal hovs and the crews that sail from them as warriors as readily as clergy. A member guards a hov's stores and its people, and takes up arms where the blessing of the sea-rites alone will not hold a threat off. The faith's warrior order is [[affiliation-hamardrengir|Hamardrengir]]; the Order of the Hammer stays priests first.

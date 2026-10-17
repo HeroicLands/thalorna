@@ -69,18 +69,18 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The **Umbral Court** is the criminal power of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and
+**The Umbral Court** is the criminal power of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and
 it is not organized as a criminal enterprise. It is organized as a **royal household**—with a
 sovereign, a chamberlain, great officers, peers, presentations and petitions—because that is exactly
 what it is the remains of.
 
 ## The Set-Aside Crown
 
-Dúnavarre is the only polity in Ankaris governed directly by mages: the Synod of the
+Dúnavarre is the only polity on the [[place-ankrscntnnt|Ankaris Continent]] governed directly by mages: the [[affiliation-dunavarsynod|Dúnavarre Synod]] of
 [[affiliation-ordoarcanis|Thordimalon]] sets policy, administers justice and commands the kingdom's
 forces. The kingdom's own chronicles describe how this came about gently—generations of mage-advisors
 assuming duties that incompetent kings could not, until the crown was ceremonial and was at length set
-aside. Its critics in [[affiliation-kngdmldrth|Aldorath]] and [[affiliation-repblcndrth|Ondareth]] tell
+aside. Its critics in the [[affiliation-kngdmldrth|Kingdom of Aldorath]] and the [[affiliation-repblcndrth|Republic of Ondareth]] tell
 a darker version involving coercion.
 
 Either way, a thing was left behind that nobody accounted for. A crown can be set aside; a **court**
@@ -121,7 +121,7 @@ The Court's income is leverage before it is money.
   **debt**, which is an instrument, and which the Master of the Rolls will hold for years without
   pressing before spending it once on something that matters.
 - **The purse.** Debts, rents, protection and smuggled cargo move through chartered
-  [[affiliation-danvar|Danvar]] moneylenders and the
+  moneylenders of [[affiliation-danvar|The Danvar]] and the
   [[lore-vylrncrncy|paper-script]] system, none of it appearing to be the Court's. A kingdom with
   sophisticated banking and a secretive government is an ideal place to be quietly rich.
 - **Contraband and passage.** Anything the Synod restricts—proscribed texts and components above
@@ -170,7 +170,7 @@ position that it does not exist is the least embarrassing one available.
   greatest danger. The Order is Árdavonian, sworn to order and justice, answerable to the Synod, and
   commands enormous respect in its own right—and a knight sworn to _justice_ serving a state where
   the governed have no voice is a man with a private difficulty. The Court has sympathizers among the
-  Knight-Captains. It also has enemies there who regard it as everything Árdavon abhors, and who are
+  Knight-Captains. It also has enemies there who regard it as everything the [[affiliation-ardavon|Faith of Árdavon]] abhors, and who are
   correct.
 - **[[affiliation-kngdmldrth|Aldorath]] and [[affiliation-repblcndrth|Ondareth]].** Foreign money.
   Aldorath's feudal lords find the restoration of a Dúnavarran monarchy an agreeable idea and fund it
@@ -183,7 +183,7 @@ position that it does not exist is the least embarrassing one available.
 
 ## The Second Face
 
-Dúnavarre is devoutly [[affiliation-arldnpnthn|Aureldian]] and honors **Árdavon** above the rest—Keeper of the Gates, whose symbol is a mask with two faces, one serene and one stern. The Court has
+Dúnavarre is devoutly [[affiliation-arldnpnthn|Aureldian]] and honors **[[lore-ardavondty|Árdavon]]** above the rest—Keeper of the Gates, whose symbol is a mask with two faces, one serene and one stern. The Court has
 taken this for its own with some relish. It calls itself the **Second Face**: the argument being that
 Árdavon's stern aspect looks upon a kingdom whose rulers were never granted their office, and that the
 Court is what order looks like when the lawful form of it has been set aside.
@@ -194,7 +194,7 @@ Every priest of Árdavon in Dúnavarre has denounced this. Not all of them have 
 
 The Court holds [[being-laradhluavel|Larad Lúavel]], Steward of the mission to the
 [[affiliation-tantsouempr|Empire of Tantsou]], through gambling debts and the embezzlement he committed
-to cover them—and through his daughter [[being-ilaraluavel|Ilara]], whose safety is his first
+to cover them—and through his daughter Lady [[being-ilaraluavel|Ilara Lúavel]], whose safety is his first
 concern and the Court's best instrument.
 
 The motive is not money. The embassy is the Synod's boldest assertion of Dúnavarren independence, and a

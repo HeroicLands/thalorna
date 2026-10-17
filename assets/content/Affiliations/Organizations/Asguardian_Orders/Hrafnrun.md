@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 A blet asks the gods for a good year; it does not tell a warband whether to sail this week. For that, send for a Raven.
 
-Hrafnrún, the Order of the Raven, gathers priests of [[affiliation-odvar|Odvar]] who give their working lives to rune-lore and divination, casting the staves for warbands, jarls and households who need counsel a blet alone does not supply. A member studies under a rune-hall's own gudar and acts as advisor and seer wherever Odvar's faithful call for one.
+Hrafnrún, the Order of the Raven, gathers priests of the [[affiliation-odvar|Faith of Odvar]] who give their working lives to rune-lore and divination, casting the staves for warbands, jarls and households who need counsel a blet alone does not supply. A member studies under a rune-hall's own gudar and acts as advisor and seer wherever Odvar's faithful call for one.

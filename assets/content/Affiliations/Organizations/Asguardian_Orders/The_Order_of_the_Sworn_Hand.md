@@ -50,7 +50,7 @@ sohl: {system: {commonSkills: []}}
 
 "The wand opens a ting," an Elder Hand tells the Hand-Squire riding at his stirrup, "and nothing else. It does not make a man right, and it does not make him safe. If you have not understood that by the time we reach the next hall, give it back." The squire carries the heavy white wand wrapped in dyed leather at his saddle, and in a hall where a jarl sits in judgment over his own quarrel, that wand is the only reason anyone will hear a ruling he did not choose.
 
-The Order of the Sworn Hand, _Eidhond_, the "Oath-Hand," is the fighting order of [[lore-eidgardty|Eidgar]]'s faith: a brotherhood and sisterhood of warrior-judges who ride to where a judgment is needed, hear the matter at the local ting, render or enforce the ruling and leave. An outsider remembers the order for one thing, that it will not soften a hard ruling to spare a powerful man.
+The Order of the Sworn Hand, _Eidhond_, the "Oath-Hand," is the fighting order of the [[affiliation-eidgar|Faith of Eidgar]]: a brotherhood and sisterhood of warrior-judges who ride to where a judgment is needed, hear the matter at the local ting, render or enforce the ruling and leave. An outsider remembers the order for one thing, that it will not soften a hard ruling to spare a powerful man.
 
 - Type: fighting religious order
 - Patron: [[affiliation-eidgar|Eidgar]], Asguardian god of law, oath and just war
@@ -59,15 +59,15 @@ The Order of the Sworn Hand, _Eidhond_, the "Oath-Hand," is the fighting order o
 
 ## Why the Order Rides
 
-The order claims no sovereign authority. It works inside the law of each Nordlands kingdom and submits to that law's structures. What it supplies is the trained, impartial, unbribed presence those structures often lack, and no knight of the order has been bought in living memory.
+The order claims no sovereign authority. It works inside the law of each kingdom of the [[place-nrdlndsrgn|Nordlands Region]] and submits to that law's structures. What it supplies is the trained, impartial, unbribed presence those structures often lack, and no knight of the order has been bought in living memory.
 
 It exists because local justice in the Nordlands can be corrupted. A ting convened in the hall of the jarl whose interests are at issue is not always able to rule against him. Over centuries the kings of the five kingdoms have found it useful to keep an institution to which contested matters can be referred, and from which their own subjects can demand referral when their faith in the local ting has run out. The order does not displace local justice. It stands behind it and steps forward when called.
 
-By tradition the knights ride alone or in pairs. They wear the broken-handed sigil of Eidgar, who sacrificed his right hand to bind [[lore-vetrulfr|Vetrúlfr]], and they carry at the saddle the white wand that marks their authority to convene a ting in his name.
+By tradition the knights ride alone or in pairs. They wear the broken-handed sigil of [[lore-eidgardty|Eidgar]], who is said to have sacrificed his right hand to bind [[lore-vetrulfr|Vetrúlfr]], and they carry at the saddle the white wand that marks their authority to convene a ting in his name.
 
 ## Becoming a Hand
 
-Any sworn devotee of Eidgar who can pass the examinations may join. The examinations are long and have several parts: martial competence; legal memory, which means the laws of all five kingdoms and the principal precedents of inter-kingdom dispute; the rules of judgment by combat; the conduct of a ting, its rhetoric and its procedure; and a final personal interview before the Council of Hands at Logstead. The order admits women on the same terms as men and has done so since the third generation of its existence, and the surviving founders' rolls record several women among the first members.
+Any sworn devotee of Eidgar who can pass the examinations may join. The examinations are long and have several parts: martial competence; legal memory, which means the laws of all five kingdoms and the principal precedents of inter-kingdom dispute; the rules of judgment by combat; the conduct of a ting, its rhetoric and its procedure; and a final personal interview before the [Council of Hands]{.name data-type="affiliation/governmental"} at [[place-logstead|Logstead]]. The order admits women on the same terms as men and has done so since the third generation of its existence, and the surviving founders' rolls record several women among the first members.
 
 The order holds four ranks:
 
@@ -76,7 +76,7 @@ The order holds four ranks:
 - Sworn Hand (_Eidhond_): the working knight. He takes contracts from the order or rides his own circuit by elder permission, convening a ting under the white wand to render and enforce a ruling.
 - Elder Hand (_Eidhofding_): the senior member, called _Eldri Eidhond_ among the knights themselves, recognized for many years of service or for notable rulings. An Elder Hand may take apprentices, strip a knight of rank on the spot pending trial, and sit on the Council of Hands.
 
-The order's chair is the Voice of Logstead, _Logstadar Mal_, elected for life from the Council of Hands. There is one Voice, and he acts as first among equals rather than as a commander. The present Voice is **Knilthvir Logstadar**, a man in his late sixties, regarded as the finest pure judicial mind the order has produced in two generations. The Council itself is twelve Elder Hands drawn from the five kingdoms, and it meets quarterly at Logstead.
+The order's chair is the Voice of Logstead, _Logstadar Mal_, elected for life from the Council of Hands. There is one Voice, and he acts as first among equals rather than as a commander. The present Voice is **[Knilthvir Logstadar]{.name data-type="being/npc"}**, a man in his late sixties, regarded as the finest pure judicial mind the order has produced in two generations. The Council itself is twelve Elder Hands drawn from the five kingdoms, and it meets quarterly at Logstead.
 
 ## The Unblunted Ruling
 
@@ -92,8 +92,8 @@ A knight works in three forms:
 
 - **[[affiliation-eidgar|Eidgar's priesthood]]** stands over the order in religion and leaves it independent in operation. The priesthood does not direct the order's rulings, and the order does not preach. The Hofgudi of Logstead puts the division in a sentence: the knight enforces with his own sword, and the gudi binds the oath the ruling rests on.
 - **[[place-nrdlndsrgn|The five Nordland crowns]]** are served alike. The kings maintain the order's chapter halls and grant the wand of office passage through their territories, and tension arises when a knight's ruling runs against a crown's interest.
-- **The [[affiliation-malldbndlg|Málalidabandalag]]** and the order have a standing agreement that any signed company member subject to the order's judgment is surrendered to its custody on demand. The agreement holds.
-- **The [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]]** is a religious peer. The two orders sometimes cooperate when a matter needs both legal and ritual authority.
+- **[[affiliation-malldbndlg|Málalidabandalag]]** and the order have a standing agreement that any signed company member subject to the order's judgment is surrendered to its custody on demand. The agreement holds.
+- **[[affiliation-ordrstrmspkrs|The Order of the Storm-Speakers]]** is a religious peer. The two orders sometimes cooperate when a matter needs both legal and ritual authority.
 - **Foreign powers and the [[affiliation-ordoarcanis|Thordimalon]]** get nothing from the order, which keeps no relations with foreign jurisdictions. An Arcane Order agent who tries to invoke the order's authority in a Nordlands matter is politely told that it serves only the kingdoms in which it is chartered.
 
 ## How to Know a Hand

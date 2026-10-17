@@ -87,13 +87,13 @@ sohl: {system: {commonSkills: []}}
 - **Domain:** Dreams
 - **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
-Mei Sei processes dream-petitions, delivers omens, and files night-counsel reports. A Tantsou who
+Meiwo teaches that Mei Sei processes dream-petitions, delivers omens, and files night-counsel reports. A Tantsou who
 wishes to be answered in sleep files for it, and a dream that arrives unbidden is understood to be
 a memo from a clerk rather than a message from a god.
 
-The bureau is the Téngwou Rong Lei's expression of [[lore-goddreams|the God of Dreams]]—the same
-entity the Asguardians call **Bjart**, the Aureldians Zunelas, the Ki'ichek Nal'ik Ts'uqal and the
-Khelathi Nehle'at. In the Tantsou framework this is not a coincidence but a bureaucratic anomaly: one
+The bureau is the [[affiliation-tengwouronglei|Téngwou Rong Lei]]'s expression of [[lore-goddreams|The God of Dreams]]—the same
+entity the Asguardians call **[[lore-bjartrdty|Bjart]]**, the Aureldians [[lore-zunelasdty|Zunelas]], the Ki'ichek [[lore-naliktzuqaldty|Nal'ik Ts'uqal]] and the
+Khelathi [[lore-nehleatdty|Nehle'at]]. In the Tantsou framework this is not a coincidence but a bureaucratic anomaly: one
 being appears to hold the Dream portfolio across several celestial administrations at once, which
 no procedure accounts for and which the Tanchéi find deeply troubling.
 

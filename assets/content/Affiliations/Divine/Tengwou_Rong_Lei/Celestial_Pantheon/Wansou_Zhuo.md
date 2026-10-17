@@ -89,7 +89,7 @@ sohl: {system: {commonSkills: []}}
 - **Domain:** Death
 - **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
-Every soul passes through Singwou, which gives the ministry leverage no other bureau has and which it
+In Wánsou Zhuo's teaching, every soul passes through Singwou, which gives the ministry leverage no other bureau has and which it
 is not above using. At death the Chief Auditor reviews the moral ledger line by line—the running
 account of credits and debits that the household's Tsaikén has been filing on all along—and what
 the audit finds determines the quality of the afterlife and the power the spirit will have to

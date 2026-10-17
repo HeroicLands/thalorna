@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Come to one of [[affiliation-frodvin|Frodvin]]'s valley infirmaries in the growing season and you find the Green Hand in the herb-beds and the sacred groves as often as at a bedside.
+Come to one of the valley infirmaries of the [[affiliation-frodvin|Faith of Frodvin]] in the growing season and you find Gronhond, the Green Hand, in the herb-beds and the sacred groves as often as at a bedside.
 
 Gronhond, the Order of the Green Hand, trains priests as herbalists and as caretakers of the groves attached to the infirmaries. A member tends the sick alongside the hov's own clergy and keeps the herb-lore that Frodvin's healing depends on, laboring in the fields as readily as at a bedside. The herbalists and caretakers of the infirmaries' groves are led by a Dróttstjori, and a Drottmadr tends the sick and the groves and learns the herb-lore.

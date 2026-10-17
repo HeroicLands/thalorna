@@ -89,11 +89,11 @@ sohl: {system: {commonSkills: []}}
 - **Domain:** Prosperity
 - **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
-Prosperity is allocated, not granted. Falou Sei holds the schedules by which harvest quality and
+In Fawo's teaching, prosperity is allocated, not granted. Falou Sei holds the schedules by which harvest quality and
 commercial fortune are distributed, and a merchant house's good years are its allocation rather than
 its luck—a distinction the Tantsou consider obvious and foreigners find bleak.
 
-The bureau is in perpetual conflict with the [[affiliation-nuowo|Bureau of Returns]] over whether
+The bureau is in perpetual conflict with [[affiliation-nuowo|Nuowo]], the Bureau of Returns, over whether
 a given resource should be distributed or reclaimed, and the two file counter-petitions against one
 another as a matter of routine. Merchants who understand this pay to have their filings timed for
 when Falou Sei is winning.
