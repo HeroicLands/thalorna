@@ -36,4 +36,4 @@ Aqenmose is a 37-year-old man who stands 5'10" tall with a medium build. He has 
 
 # Dossier {#dossier}
 
-Aqenmose is a cleric of middling rank in the house of [[lore-psaqarudty|Saq'aru]], out of [[place-anlaghzetun|Anlagh-Zetun]]. Competence without distinction describes the service, and Aqenmose is content with both halves of that description. Nobody expects advancement here, least of all the cleric holding the post.
+Aqenmose is a cleric of middling rank in the house of the [[affiliation-psaqaru|Faith of Saq'aru]], out of [[place-anlaghzetun|Anlagh-Zetun]]. Competence without distinction describes the service, and Aqenmose is content with both halves of that description. Nobody expects advancement here, least of all the cleric holding the post.

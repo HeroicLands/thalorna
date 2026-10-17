@@ -36,4 +36,4 @@ Karvashikos Margarakit is a 55-year-old man who stands 5'10" tall with a heavy b
 
 # Dossier {#dossier}
 
-Karvashikos Margarakit is the patriarch of House Margarakit, a wealthy merchant dynasty that has commissioned multiple high-speed merchant vessels and naval support ships. He personally negotiates with [[being-grgrsfthympls|Trufios Veghekos]] and values his counsel on maritime matters.
+Karvashikos Margarakit is the patriarch of [House Margarakit]{.name data-type="affiliation/lineage"}, a wealthy merchant dynasty that has commissioned multiple high-speed merchant vessels and naval support ships. He personally negotiates with [[being-grgrsfthympls|Trufios Veghekos]] and values his counsel on maritime matters.

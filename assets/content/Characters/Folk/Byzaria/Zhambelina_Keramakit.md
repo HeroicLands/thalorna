@@ -36,4 +36,4 @@ Zhambelina Keramakit is a 57-year-old woman who stands 5'10" tall with a light b
 
 # Dossier {#dossier}
 
-Zhambelina Keramakit is the current head of the Teamsters' Guild. She values [[being-orshkrnlkt|Órashkar Naulakit]] as an unofficial advisor on standards and practices and consults him on disputes and policy.
+Zhambelina Keramakit is the current head of the [Teamsters' Guild]{.name data-type="affiliation/guild"}. She values [[being-orshkrnlkt|Órashkar Naulakit]] as an unofficial advisor on standards and practices and consults him on disputes and policy.

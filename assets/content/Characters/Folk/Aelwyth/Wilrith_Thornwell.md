@@ -36,4 +36,4 @@ Wilrith Thornwell is a 44-year-old woman who stands 5'3" tall with a heavy build
 
 # Dossier {#dossier}
 
-Wilrith Thornwell is the commander and captain of the Stormveil castle guard, a soldier by trade. She recognizes the value of [[being-thorrldskr|Thorir Eldskari]], has protected him from reassignment and has agreed to write a strong recommendation for his retirement. Their relationship is built on practical respect.
+Wilrith Thornwell is the commander and captain of the [[place-stormveil|Stormveil]] castle guard, a soldier by trade. She recognizes the value of [[being-thorrldskr|Thorir Eldskari]], has protected him from reassignment and has agreed to write a strong recommendation for his retirement. Their relationship is built on practical respect.

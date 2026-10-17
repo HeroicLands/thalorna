@@ -36,4 +36,4 @@ Raghumon Kregokhash is a 58-year-old man who stands 6'2" tall with a heavy build
 
 # Dossier {#dossier}
 
-Raghumon Kregokhash is a conservative _marendos_ (master) of the Zulen Fisera, a fellowship of the Order, allied with the Keepers of the Sealed Archive. [[being-dkhhrnbsrn|Dókhehran Fefes]] publicly discredited his theoretical work on the stability of ancient magical foundations, and he has spent the years since cultivating allies within the Epistémion's leadership against her.
+Raghumon Kregokhash is a conservative _marendos_ (master) of the [[affiliation-physera|Fisera]] fellowship of the [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order), allied with the [Keepers of the Sealed Archive]{.name data-type="affiliation"}. [[being-dkhhrnbsrn|Dókhehran Fefes]] publicly discredited his theoretical work on the stability of ancient magical foundations, and he has spent the years since cultivating allies within the [[affiliation-panepistmm|Epistémion]]'s leadership against her.

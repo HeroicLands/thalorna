@@ -36,4 +36,4 @@ Vokhiásh Loridek is a 55-year-old woman who stands 6'0" tall with a heavy build
 
 # Dossier {#dossier}
 
-Vokhiásh Loridek is the current head of the Maritime Shipwrights' Guild. She acts as a political buffer between [[being-grgrsfthympls|Trufios Veghekos]] and government bureaucracies, smoothing over the conflicts his abrasive manner causes.
+Vokhiásh Loridek is the current head of the [Maritime Shipwrights' Guild]{.name data-type="affiliation/guild"}. She acts as a political buffer between [[being-grgrsfthympls|Trufios Veghekos]] and government bureaucracies, smoothing over the conflicts his abrasive manner causes.

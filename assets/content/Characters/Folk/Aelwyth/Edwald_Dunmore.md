@@ -36,4 +36,4 @@ Edwald Dunmore is a 51-year-old man who stands 6'0" tall with a light build. He 
 
 # Dossier {#dossier}
 
-Edwald Dunmore is a priest of the Temple of Ólvenia in Ashford, addressed as Father. He views [[being-aldthchltn|Dunith Chilton]] as a useful asset but no more than that. Their relationship is cordial but tense, and his spiritual authority stands in implicit competition with her charismatic power.
+Edwald Dunmore is a priest of the [Temple of Ólvenia]{.name data-type="place/structure"} in [[place-ashford|Ashford]], addressed as Father. He views [[being-aldthchltn|Dunith Chilton]] as a useful asset but no more than that. Their relationship is cordial but tense, and his spiritual authority stands in implicit competition with her charismatic power.

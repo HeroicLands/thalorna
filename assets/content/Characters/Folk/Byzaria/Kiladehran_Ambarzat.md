@@ -36,4 +36,4 @@ Kiladehran Ambarzát is a 60-year-old woman who stands 5'10" tall with a heavy b
 
 # Dossier {#dossier}
 
-Kiladehran Ambarzát is a lady of House Ambarzát, a prominent noble family of the Bizarian League. She has become something of a mentor to [[being-zenskpkt|Ghofa Kepikot]], whom the family employs regularly to train and maintain its falconry birds.
+Kiladehran Ambarzát is a lady of [House Ambarzát]{.name data-type="affiliation/lineage"}, a prominent noble family of the [[affiliation-byzarianlg|Bizarian League]]. She has become something of a mentor to [[being-zenskpkt|Ghofa Kepikot]], whom the family employs regularly to train and maintain its falconry birds.

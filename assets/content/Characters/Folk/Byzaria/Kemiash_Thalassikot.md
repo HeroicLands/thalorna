@@ -38,4 +38,4 @@ Kemiásh Thalassikot is a 47-year-old woman who stands 5'5" tall with a medium b
 
 # Dossier {#dossier}
 
-Kemiásh Thalassikot is a merchant captain and new crime boss moving into the bazaar and encroaching on the territory of Khasrikon Damakláhr. The result is an escalating war that threatens legitimate merchants, as the note on [[being-dmtrnpdnkt|Ghorigios Pedinikot]] records.
+Kemiásh Thalassikot is a merchant captain and new crime boss moving into the bazaar and encroaching on the territory of [Khasrikon Damakláhr]{.name data-type="being/npc"}. The result is an escalating war that threatens legitimate merchants, as the note on [[being-dmtrnpdnkt|Ghorigios Pedinikot]] records.

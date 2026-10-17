@@ -36,4 +36,4 @@ Krusidade Plavidek is a 49-year-old woman who stands 5'9" tall with a medium bui
 
 # Dossier {#dossier}
 
-Krusidade Plavidek is the captain of the Harbor Guard, a gruff military officer. She has relied on [[being-ftnshdkt|Stemios Hodikot]] for word of smuggling.
+Krusidade Plavidek is the captain of the [Harbor Guard]{.name data-type="affiliation"}, a gruff military officer. She has relied on [[being-ftnshdkt|Stemios Hodikot]] for word of smuggling.

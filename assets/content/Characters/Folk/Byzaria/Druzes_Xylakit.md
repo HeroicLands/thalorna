@@ -36,4 +36,4 @@ Druzes Zilakit is a 56-year-old man who stands 6'3" tall with a medium build. He
 
 # Dossier {#dossier}
 
-Druzes Zilakit is a merchant prince of the Bizarian League and a canny trader. He has secured access to the furs and amber of Eichengrund through village trade agreements and his relationship with [[being-athlwvthrnd|Athalwa yra Vithrúnd wur Eichengrund]], with whom he keeps a respectful commercial and diplomatic relationship.
+Druzes Zilakit is a merchant prince of the [[affiliation-byzarianlg|Bizarian League]] and a canny trader. He has secured access to the furs and amber of [[place-eichengrnd|Eichengrund]] through village trade agreements and his relationship with [[being-athlwvthrnd|Athalwa yra Vithrúnd wur Eichengrund]], with whom he keeps a respectful commercial and diplomatic relationship.

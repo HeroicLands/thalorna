@@ -36,4 +36,4 @@ Dunwald Ravenwell is a 29-year-old man who stands 5'11" tall with a medium build
 
 # Dossier {#dossier}
 
-Dunwald Ravenwell is a younger noble who arrived at Stormveil as the regional lord's military advisor. He is ambitious and aristocratic, and disdainful of soldiers who serve for pay. He pressed [[being-thorrldskr|Thorir Eldskari]] toward harsher discipline and, when refused, began spreading rumors that Thorir is soft and a relic of the old guard.
+Dunwald Ravenwell is a younger noble who arrived at [[place-stormveil|Stormveil]] as the regional lord's military advisor. He is ambitious and aristocratic, and disdainful of soldiers who serve for pay. He pressed [[being-thorrldskr|Thorir Eldskari]] toward harsher discipline and, when refused, began spreading rumors that Thorir is soft and a relic of the old guard.

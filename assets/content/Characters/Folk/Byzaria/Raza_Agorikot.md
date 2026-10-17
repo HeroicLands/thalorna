@@ -36,4 +36,4 @@ Raza Agorikot is a 64-year-old woman who stands 5'7" tall with a massive build. 
 
 # Dossier {#dossier}
 
-Raza Agorikot is the senior figure of the council of Marshfeld, an elder magistrate. Over the years of her contract she has become a mentor to [[being-fylzstnkt|Fileze Stenikot]], and offers her wisdom and support beyond the business of the season.
+Raza Agorikot is the senior figure of the council of [[place-marshfeld|Marshfeld]], an elder magistrate. Over the years of her contract she has become a mentor to [[being-fylzstnkt|Fileze Stenikot]], and offers her wisdom and support beyond the business of the season.

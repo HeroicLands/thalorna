@@ -36,4 +36,4 @@ Lopebáz Halikot is a 60-year-old man who stands 5'9" tall with a medium build. 
 
 # Dossier {#dossier}
 
-Lopebáz Halikot is the ruthless owner of several of the largest mining operations in the Bizarian League. [[being-agapevrzns|Agápeia Varzanes]] names him as the baron whose operations control the territory of a possible mineral deposit.
+Lopebáz Halikot is the ruthless owner of several of the largest mining operations in the [[affiliation-byzarianlg|Bizarian League]]. [[being-agapevrzns|Agápeia Varzanes]] names him as the baron whose operations control the territory of a possible mineral deposit.

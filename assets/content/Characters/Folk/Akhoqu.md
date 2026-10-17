@@ -36,4 +36,4 @@ Akhoku is a 40-year-old man who stands 6'0" tall with a medium build. He has dar
 
 # Dossier {#dossier}
 
-Akhoku keeps a household steward's post in the capital while his home stays in [[place-amqelulegez|Amqelu-Legez]]. He competes for the same appointments as Githiya Zab'Anlethu, and the competition is not entirely professional. Anyone who asks him about her hears more about her temper than about the post in question.
+Akhoku keeps a household steward's post in the capital while his home stays in [[place-amqelulegez|Amqelu-Legez]]. He competes for the same appointments as [[being-githiyzbnlth|Githiya Zab'Anlethu]], and the competition is not entirely professional. Anyone who asks him about her hears more about her temper than about the post in question.

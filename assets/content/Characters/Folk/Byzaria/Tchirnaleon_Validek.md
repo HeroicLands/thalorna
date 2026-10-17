@@ -36,4 +36,4 @@ Chirnaleon Validek is a 46-year-old man who stands 6'0" tall with a light build.
 
 # Dossier {#dossier}
 
-Chirnaleon Validek is the captain and leader of a slavering organization operating throughout the Bizarian League. He has marked [[being-fylzstnkt|Fileze Stenikot]] for death after she dismantled two of its trafficking operations.
+Chirnaleon Validek is the captain and leader of a slaving organization operating throughout the [[affiliation-byzarianlg|Bizarian League]]. He has marked [[being-fylzstnkt|Fileze Stenikot]] for death after she dismantled two of its trafficking operations.

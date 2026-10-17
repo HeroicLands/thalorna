@@ -36,4 +36,4 @@ Artavin Kaviran is a 73-year-old man who stands 6'2" tall with a medium build. H
 
 # Dossier {#dossier}
 
-Artavin Kaviran, addressed as Father, is the elderly priest of the Míthara Temple. He recognized a spiritual dimension in the work of [[being-darzshshvn|Darzash Shavan]] and provides her with both commissions and spiritual counsel.
+Artavin Kaviran, addressed as Father, is the elderly priest of the [Míthara Temple]{.name data-type="place/structure"}. He recognized a spiritual dimension in the work of [[being-darzshshvn|Darzash Shavan]] and provides her with both commissions and spiritual counsel.

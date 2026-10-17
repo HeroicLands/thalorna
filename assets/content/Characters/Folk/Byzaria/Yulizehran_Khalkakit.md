@@ -36,4 +36,4 @@ Yulizehran Kalkakit is a 60-year-old woman who stands 5'10" tall with a heavy bu
 
 # Dossier {#dossier}
 
-Yulizehran Kalkakit is the Admiral of the Bizarian Fleet and supreme naval commander of the [[affiliation-byzarianlg|Bizarian League]]. She holds a permanent contract with [[being-grgrsfthympls|Trufios Veghekos]] for advanced warship design and construction and shields him from bureaucratic interference.
+Yulizehran Kalkakit is the Admiral of the [Bizarian Fleet]{.name data-type="affiliation"} and supreme naval commander of the [[affiliation-byzarianlg|Bizarian League]]. She holds a permanent contract with [[being-grgrsfthympls|Trufios Veghekos]] for advanced warship design and construction and shields him from bureaucratic interference.

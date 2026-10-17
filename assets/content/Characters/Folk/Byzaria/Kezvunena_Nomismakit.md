@@ -36,4 +36,4 @@ Kezvunena Nomismakit is a 60-year-old woman who stands 6'1" tall with a medium b
 
 # Dossier {#dossier}
 
-Kezvunena Nomismakit is the most feared litigant in the commercial courts of the Bizarian League. She was a harsh but brilliant master to [[being-nmshrprklvs|Nomasáhr Paraklavos]], who was apprenticed to her in the arts of argumentation, negotiation and commercial law.
+Kezvunena Nomismakit is the most feared litigant in the commercial courts of the [[affiliation-byzarianlg|Bizarian League]]. She was a harsh but brilliant master to [[being-nmshrprklvs|Nomasáhr Paraklavos]], who was apprenticed to her in the arts of argumentation, negotiation and commercial law.

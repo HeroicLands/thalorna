@@ -36,4 +36,4 @@ Bugon Vodidek was a 52-year-old man who stood 5'11" tall with a massive build. H
 
 # Dossier {#dossier}
 
-Bugon Vodidek was the proprietor of the celebrated inn called the Starlight Crown. He was the mother's brother of [[being-ftnshdkt|Stemios Hodikot]], who apprenticed with him and inherited the inn at his death.
+Bugon Vodidek was the proprietor of the celebrated inn called the [Starlight Crown]{.name data-type="place/structure"}. He was the mother's brother of [[being-ftnshdkt|Stemios Hodikot]], who apprenticed with him and inherited the inn at his death.

@@ -36,4 +36,4 @@ Mazhrelion Ghotidek is a 40-year-old man who stands 6'0" tall with a heavy build
 
 # Dossier {#dossier}
 
-Mazhrelion Ghotidek is a Bizarian officer, a lieutenant who served under [[being-aghrzrpyrgkt|Ághrazur Pirgikot]] in the Black Serpent Company and survived its dissolution. He was reported killed in action five years ago and reappears claiming that the official report was false.
+Mazhrelion Ghotidek is a Bizarian officer, a lieutenant who served under [[being-aghrzrpyrgkt|Ághrazur Pirgikot]] in the [Black Serpent Company]{.name data-type="affiliation/venture"} and survived its dissolution. He was reported killed in action five years ago and reappears claiming that the official report was false.

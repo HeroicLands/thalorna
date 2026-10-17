@@ -36,4 +36,4 @@ Zevidin Zhevranzát is a 70-year-old man who stands 5'11" tall with a light buil
 
 # Dossier {#dossier}
 
-Zevidin Zhevranzát is a _marendos_ (master) of the Hidalis Zulen (fellowship) and a scholar of theoretical thaumaturgy, known for his adherence to orthodox magical principle and his mastery of the water-school traditions. [[being-angldsptrks|Fodios Rores]] was apprenticed to him at fourteen and has since been his most bitter opponent.
+Zevidin Zhevranzát is a _marendos_ (master) of the [[affiliation-hydalis|Hidalis]] fellowship and a scholar of theoretical thaumaturgy, known for his adherence to orthodox magical principle and his mastery of the water-school traditions. [[being-angldsptrks|Fodios Rores]] was apprenticed to him at fourteen and has since been his most bitter opponent.

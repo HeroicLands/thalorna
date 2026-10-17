@@ -36,4 +36,4 @@ Godrun Winley is a 55-year-old woman who stands 5'6" tall with a heavy build. Sh
 
 # Dossier {#dossier}
 
-Godrun Winley is the high priestess of the Temple of Ólvenia in Ashford. She tolerates [[being-aldthchltn|Dunith Chilton]] because Dunith's salons generate substantial coin and her piety, however self-interested, brings prestige to the order.
+Godrun Winley is the high priestess of the [Temple of Ólvenia]{.name data-type="place/structure"} in [[place-ashford|Ashford]]. She tolerates [[being-aldthchltn|Dunith Chilton]] because Dunith's salons generate substantial coin and her piety, however self-interested, brings prestige to the order.

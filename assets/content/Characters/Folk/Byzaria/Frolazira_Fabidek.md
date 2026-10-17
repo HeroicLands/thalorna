@@ -36,4 +36,4 @@ Frolázira Fabidek is a 54-year-old woman who stands 5'9" tall with a heavy buil
 
 # Dossier {#dossier}
 
-Frolázira Fabidek is the current head of the Timberwrights' Guild. The note on [[being-morzhrxylkt|Morzáhr Zilakit]] names her.
+Frolázira Fabidek is the current head of the [Timberwrights' Guild]{.name data-type="affiliation/guild"}. The note on [[being-morzhrxylkt|Morzáhr Zilakit]] names her.

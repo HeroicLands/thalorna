@@ -36,4 +36,4 @@ Aqenhofis is a 40-year-old woman who stands 5'11" tall with a heavy build. She h
 
 # Dossier {#dossier}
 
-Aqenhofis practices as a famed advocate out of [[place-amqelulegez|Amqelu-Legez]], and was once mentor to Thotkar Let'Gerau. The mentor's return to the city unsettles the pupil more than the pupil is willing to admit. Old debts of training have a way of outlasting the training itself.
+Aqenhofis practices as a famed advocate out of [[place-amqelulegez|Amqelu-Legez]], and was once mentor to [[being-thotkarletgr|Thotkar Let'Gerau]]. The mentor's return to the city unsettles the pupil more than the pupil is willing to admit. Old debts of training have a way of outlasting the training itself.

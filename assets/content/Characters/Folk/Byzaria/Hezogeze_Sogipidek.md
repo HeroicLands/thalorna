@@ -38,4 +38,4 @@ Hezogeze Sogipidek is a 58-year-old woman who stands 5'9" tall with a medium bui
 
 # Dossier {#dossier}
 
-Hezogeze Sogipidek is the Mother Superior of a local convent of the House of Lizelas, dedicated to fertility, growth and mercy. The note on [[being-arkhekrkss|Arkhea Kourkásios]] names her.
+Hezogeze Sogipidek is the Mother Superior of a local convent of the [[affiliation-lizelas|Faith of Lizelas]], dedicated to fertility, growth and mercy. The note on [[being-arkhekrkss|Arkhea Kourkásios]] names her.

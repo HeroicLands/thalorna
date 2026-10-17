@@ -36,4 +36,4 @@ Belzurela Chrisakit is a 52-year-old woman who stands 5'5" tall with a heavy bui
 
 # Dossier {#dossier}
 
-Belzurela Chrisakit is the current governor of Bizaris. The governor values the knowledge of ceremonial matters held by [[being-flndrsbldds|Sakozes Bulides]] and relies on his judgment about proper form and precedent in official functions.
+Belzurela Chrisakit is the current governor of [[place-byzaris|Bizaris]]. The governor values the knowledge of ceremonial matters held by [[being-flndrsbldds|Sakozes Bulides]] and relies on his judgment about proper form and precedent in official functions.

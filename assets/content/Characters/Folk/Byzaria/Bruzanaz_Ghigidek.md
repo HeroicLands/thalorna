@@ -36,4 +36,4 @@ Bruzanaz Ghigidek is a 34-year-old woman who stands 5'9" tall with a heavy build
 
 # Dossier {#dossier}
 
-Bruzanaz Ghigidek is a younger merchant whose family was personally helped by [[being-orshkrnlkt|Órashkar Naulakit]] in her youth. She has grown into one of the League's major traders and remains fiercely loyal to the old teamster.
+Bruzanaz Ghigidek is a younger merchant whose family was personally helped by [[being-orshkrnlkt|Órashkar Naulakit]] in her youth. She has grown into one of the [[affiliation-byzarianlg|Bizarian League]]'s major traders and remains fiercely loyal to the old teamster.

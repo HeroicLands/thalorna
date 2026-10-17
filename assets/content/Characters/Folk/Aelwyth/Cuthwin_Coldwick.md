@@ -36,4 +36,4 @@ Mildwald Koldwik is a 40-year-old man who stands 5'9" tall with a heavy build. H
 
 # Dossier {#dossier}
 
-Mildwald Koldwik is a captain and a southern military commander who leads expeditions into Vristwald territory. He regards the Vristwalds as backward savages in the way of civilization's progress, and his raids are destructive, with captured Vristwalds often executed to instill fear. He is an enemy of [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]].
+Mildwald Koldwik is a captain and a southern military commander who leads expeditions into [[place-vrystwald|Vristwald]] territory. He regards the Vristwalds as backward savages in the way of civilization's progress, and his raids are destructive, with captured Vristwalds often executed to instill fear. He is an enemy of [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]].

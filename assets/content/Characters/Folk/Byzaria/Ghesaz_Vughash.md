@@ -38,4 +38,4 @@ Ghesáz Vughash is a 46-year-old man who stands 5'10" tall with a medium build. 
 
 # Dossier {#dossier}
 
-Ghesáz Vughash is a _sekeros_ (inquirer) and aggressive _marendos_ (master) of the Thordimalon (the Arcane Order). He has filed an official inquiry into whether [[being-angldsptrks|Fodios Rores]] is an unlicensed magical practitioner.
+Ghesáz Vughash is a _sekeros_ (inquirer) and aggressive _marendos_ (master) of the [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order). He has filed an official inquiry into whether [[being-angldsptrks|Fodios Rores]] is an unlicensed magical practitioner.

@@ -36,4 +36,4 @@ Kelilazul Frizipáhr was a 64-year-old man who stood 5'9" tall with a light buil
 
 # Dossier {#dossier}
 
-Kelilazul Frizipáhr was a master cartographer of the Cartographers' Guild of the Bizarian League and is deceased. He mentored [[being-damklsmpsn|Damáklios Bridutis]] and demanded precision to the point of obsession, absolute fidelity to source material and the integration of artistic sensibility with mathematical accuracy.
+Kelilazul Frizipáhr was a master cartographer of [[affiliation-crtgrphrsgldbyzrnlg|The Cartographers' Guild of the Bizarian League]] and is deceased. He mentored [[being-damklsmpsn|Damáklios Bridutis]] and demanded precision to the point of obsession, absolute fidelity to source material and the integration of artistic sensibility with mathematical accuracy.

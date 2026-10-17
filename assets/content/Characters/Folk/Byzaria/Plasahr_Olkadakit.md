@@ -36,4 +36,4 @@ Plasáhr Olkadakit is a 49-year-old man who stands 6'0" tall with a light build.
 
 # Dossier {#dossier}
 
-Plasáhr Olkadakit is a rival merchant-broker operating in the central territories of the Bizarian League. He has undercut the pricing of [[being-chrysntssdrkt|Fibakon Siderakit]] on several commissions, and the two are in undeclared but intense commercial warfare.
+Plasáhr Olkadakit is a rival merchant-broker operating in the central territories of the [[affiliation-byzarianlg|Bizarian League]]. He has undercut the pricing of [[being-chrysntssdrkt|Fibakon Siderakit]] on several commissions, and the two are in undeclared but intense commercial warfare.
