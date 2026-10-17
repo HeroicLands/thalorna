@@ -36,4 +36,4 @@ Aurente Ortemandis is a 37-year-old man who stands 5'7" tall with a light build.
 
 # Dossier {#dossier}
 
-Aurente Ortemandis is the head of one of Lizela's older noble families and a staunch traditionalist. He views the academy of [[being-arnelkrsvr|Arnela Kórisvar]] as an insult to the proper order and has blocked several of her proposals on the charter council. The rivalry is conducted with impeccable Provenzian courtesy.
+Aurente Ortemandis is the head of one of [[place-lizela|Lizela]]'s older noble families and a staunch traditionalist. He views the academy of [[being-arnelkrsvr|Arnela Kórisvar]] as an insult to the proper order and has blocked several of her proposals on the charter council. The rivalry is conducted with impeccable [[lore-provenzianclt|Provenzian]] courtesy.

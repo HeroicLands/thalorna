@@ -36,4 +36,4 @@ Jayarsha Padmadiksha is a 74-year-old man who stands 6'1" tall with a light buil
 
 # Dossier {#dossier}
 
-Kulena Jayarsha is the father of [[being-prtrkpdmdksh|Pritarika Padmadiksha]] and of the great house of Padmadiksha, one of the most ancient and respected lineages of the City-States of Vedyara. He believed that women of great-house blood should receive an education equal to men's in law, rhetoric, natural philosophy and martial studies, and he was powerful enough to defend his daughter's unusual preparation against the traditional great houses that resisted it.
+Kulena Jayarsha is the father of [[being-prtrkpdmdksh|Pritarika Padmadiksha]] and of the great house of [Padmadiksha]{.name data-type="affiliation/lineage"}, one of the most ancient and respected lineages of the [[affiliation-janpdsvdyr|Janapadas of Vedyara]]. He believed that women of great-house blood should receive an education equal to men's in law, rhetoric, natural philosophy and martial studies, and he was powerful enough to defend his daughter's unusual preparation against the traditional great houses that resisted it.

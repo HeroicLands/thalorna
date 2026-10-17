@@ -36,4 +36,4 @@ Tholmaro Gútharen is a 44-year-old man who stands 5'11" tall with a heavy build
 
 # Dossier {#dossier}
 
-Tholmaro Gútharen is a captain commanding the garrison sector next to that of [[being-tarstrvlth|Társila Torvaleth]]. He is ambitious and politically connected, and resents that she, younger and a Torvaleth, was given the more valuable Kávrenath posting. He documents her minor decisions and spreads rumors that her unit's success comes from brutality toward refugees.
+Tholmaro Gútharen is a captain commanding the garrison sector next to that of [[being-tarstrvlth|Társila Torvaleth]]. He is ambitious and politically connected, and resents that she, younger and a [Torvaleth]{.name data-type="affiliation/lineage"}, was given the more valuable [[place-kavrenath|Kávrenath]] posting. He documents her minor decisions and spreads rumors that her unit's success comes from brutality toward refugees.

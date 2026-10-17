@@ -36,4 +36,4 @@ Melvaris Tharkis is a 69-year-old man who stands 5'10" tall with a light build. 
 
 # Dossier {#dossier}
 
-Melvaris Tharkis is a veteran of the Zulen Pirethos, a former Sekran operative and a senior _marendos_ (master) on the council of the Velisara chapter. He was the mentor of [[being-klstrtsxrchds|Kalestratos Zarkedis]] during his years as a _galethos_ (student) and still guides his career. He encourages his research quietly and with plausible deniability.
+Melvaris Tharkis is a veteran of the [[affiliation-pyrethos|Pirethos]] fellowship, a former [Sekran]{.name data-type="affiliation"} operative and a senior _marendos_ (master) on the council of the [[place-velysara|Velisara]] chapter. He was the mentor of [[being-klstrtsxrchds|Kalestratos Zarkedis]] during his years as a _galethos_ (student) and still guides his career. He encourages his research quietly and with plausible deniability.

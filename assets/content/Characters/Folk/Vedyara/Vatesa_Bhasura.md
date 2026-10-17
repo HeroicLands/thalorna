@@ -36,4 +36,4 @@ Vatesa Bhasura is a 57-year-old man who stands 6'0" tall with a light build. He 
 
 # Dossier {#dossier}
 
-Vatesa Bhasura is a high-ranking priest of the Temple of Ashkanti, offended by a performance of [[being-vishalblry|Vishali Balarnaya]] in which she mocked certain temple practices as superstitious theater. He has used his influence to have her banned from several religious festivals and counts her an offender against the temple.
+Vatesa Bhasura is a high-ranking priest of the [Temple of Ashkanti]{.name data-type="place/structure"}, offended by a performance of [[being-vishalblry|Vishali Balarnaya]] in which she mocked certain temple practices as superstitious theater. He has used his influence to have her banned from several religious festivals and counts her an offender against the temple.

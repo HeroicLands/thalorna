@@ -36,4 +36,4 @@ Wahrethu Meykhathi is a 40-year-old man who stands 5'9" tall with a medium build
 
 # Dossier {#dossier}
 
-Wahrethu Meykhathi tracks for the Meykhathi clan out of [[place-anlaghzetun|Anlagh-Zetun]], and keeps the clan's sacred hunting grounds besides. He is the most respected tracker the clan has, a title his daughter has already begun to challenge: she outshot him by thirteen. The clan now measures both trackers against each other, whatever his record was before that.
+Wahrethu Meykhathi tracks for the [Meykhathi]{.name data-type="affiliation/lineage"} clan out of [[place-anlaghzetun|Anlagh-Zetun]], and keeps the clan's sacred hunting grounds besides. He is the most respected tracker the clan has, a title his daughter has already begun to challenge: she outshot him by thirteen. The clan now measures both trackers against each other, whatever his record was before that.

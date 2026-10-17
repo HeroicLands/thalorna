@@ -36,4 +36,4 @@ Darmeja Daranira is a 44-year-old man who stands 6'1" tall with a medium build. 
 
 # Dossier {#dossier}
 
-Darmeja Daranira is captain of the Crimson Sail, a merchant captain whom [[being-senptvkrmd|Senapavi Vikramada]] once refused to serve because of what he saw as grossly inadequate safety standards and crew abuse. He has since built his reputation for speed and profit and views Senapavi as a rival whose standards are outdated and cost-prohibitive.
+Darmeja Daranira is captain of the [Crimson Sail]{.name data-type="vehicle"}, a merchant captain whom [[being-senptvkrmd|Senapavi Vikramada]] once refused to serve because of what he saw as grossly inadequate safety standards and crew abuse. He has since built his reputation for speed and profit and views Senapavi as a rival whose standards are outdated and cost-prohibitive.

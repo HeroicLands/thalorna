@@ -38,4 +38,4 @@ Ashuraz Hitusuni is a 49-year-old man who stands 5'9" tall with a heavy build. H
 
 # Dossier {#dossier}
 
-Ashuraz Hitusuni is a wealthy merchant prince whose operation [[being-pzsnkhdzm|Pazasan Khidizum]] has documented engaged in systematic smuggling and tax evasion. He is intelligent and politically connected, and his operations are complex enough that legal prosecution has been difficult. He recognizes [[being-pzsnkhdzm|Pazasan Khidizum]] as a threat and has begun working to undermine him through allegations of corruption and bias.
+Ashuraz Hitusuni is a wealthy merchant prince whose operation [[being-pzsnkhdzm|Pazasan Khidizum]] has documented as engaged in systematic smuggling and tax evasion. He is intelligent and politically connected, and his operations are complex enough that legal prosecution has been difficult. He recognizes Pazasan as a threat and has begun working to undermine him through allegations of corruption and bias.

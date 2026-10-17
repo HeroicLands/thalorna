@@ -36,4 +36,4 @@ Zurgade Ugarris is a 33-year-old man who stands 5'11" tall with a heavy build. H
 
 # Dossier {#dossier}
 
-Zurgade Ugarris is the Tarvenan lord of Thornhill Manor in the country around Valthari, known to his neighbors for its hunting. He hunts often and with guests, among them greater lords than himself, and relies on his huntswoman [[being-zoriladmvr|Zórila Dómivar]]. His standing rests on Tarvénian politics, and a change at court that threatens him threatens everyone at Thornhill.
+Zurgade Ugarris is the [[lore-tarvenanclt|Tarvenan]] lord of [[place-thornhillmnr|Thornhill Manor]] in the country around [[place-valthari|Valthari]], known to his neighbors for its hunting. He hunts often and with guests, among them greater lords than himself, and relies on his huntswoman [[being-zoriladmvr|Zórila Dómivar]]. His standing rests on the politics of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], and a change at court that threatens him threatens everyone at Thornhill.

@@ -36,4 +36,4 @@ Viduliya Danasura is a 61-year-old woman who stands 5'7" tall with a medium buil
 
 # Dossier {#dossier}
 
-Viduliya Danasura is the high priestess of the Temple of Jnanasura, the grand temple of the knowledge deity. The temple has commissioned [[being-nrvsrytjmhnnd|Narava Suryatejamahananda]] for its sacred stained glass installations; she views his work as a form of religious expression and provides him with a stipend that gives his workshop basic financial stability.
+Viduliya Danasura is the high priestess of the [Temple of Jnanasura]{.name data-type="place/structure"}, the grand temple of the knowledge deity. The temple has commissioned [[being-nrvsrytjmhnnd|Narava Suryatejamahananda]] for its sacred stained glass installations; she views his work as a form of religious expression and provides him with a stipend that gives his workshop basic financial stability.

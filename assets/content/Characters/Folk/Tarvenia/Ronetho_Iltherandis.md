@@ -36,4 +36,4 @@ Ornetho Iltheris is a 55-year-old man who stands 5'11" tall with a heavy build. 
 
 # Dossier {#dossier}
 
-Ornetho Iltheris is a bishop and a high-ranking member of the formal priesthood. He visited Nebralis and was scandalized by the informal, unstructured approach of [[being-althrtrvlth|Alethra Torvaleth]], and has recommended closer oversight of her and the redirection of her temple's funding toward formally trained clergy. He proposes consolidating the temple's informal healing and mediation roles into formal positions.
+Ornetho Iltheris is a bishop and a high-ranking member of the formal priesthood. He visited [[place-nebralis|Nebralis]] and was scandalized by the informal, unstructured approach of [[being-althrtrvlth|Alethra Torvaleth]], and has recommended closer oversight of her and the redirection of her temple's funding toward formally trained clergy. He proposes consolidating the temple's informal healing and mediation roles into formal positions.

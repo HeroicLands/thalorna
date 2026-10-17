@@ -36,4 +36,4 @@ Ganothis Dorandates is a 58-year-old man who stands 5'11" tall with a heavy buil
 
 # Dossier {#dossier}
 
-Ganothis Dorandates is the senior guard captain and sergeant commanding the capital district patrols, an older man nearing retirement. Ganothis recognized the sincerity of [[being-xenoksbrds|Zénokos Bardas]] and has taken him under his wing as an unofficial mentor. He protects him from the more cynical guards who would teach him to accept bribes and overlook crimes for coin.
+Ganothis Dorandates is the senior guard captain and sergeant commanding the capital district patrols, an older man nearing retirement. Ganothis recognized the sincerity of [[being-xenoksbrds|Zenokos Bardas]] and has taken him under his wing as an unofficial mentor. He protects him from the more cynical guards who would teach him to accept bribes and overlook crimes for coin.

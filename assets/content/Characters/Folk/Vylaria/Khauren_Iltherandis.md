@@ -36,4 +36,4 @@ Kauren Iltheris is a 51-year-old man who stands 5'7" tall with a medium build. H
 
 # Dossier {#dossier}
 
-Kauren Iltheris is the garrison's senior irregular-war officer, a grizzled professional who values competence above all. He has said that he will protect [[being-brakshrlns|Brakos Harlanis]] from court-martial as long as [[being-brakshrlns|Brakos Harlanis]] delivers accurate intelligence. He sees the empire's decline clearly and treats it as fact rather than heresy.
+Kauren Iltheris is the garrison's senior irregular-war officer, a grizzled professional who values competence above all. He has said that he will protect [[being-brakshrlns|Brakos Harlanis]] from court-martial as long as Brakos delivers accurate intelligence. He sees the [[affiliation-vylarinmpr|Vylarian Empire]]'s decline clearly and treats it as fact rather than heresy.

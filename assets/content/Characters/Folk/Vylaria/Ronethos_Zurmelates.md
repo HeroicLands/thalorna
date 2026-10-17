@@ -36,4 +36,4 @@ Ronethos Zurmelates is a 58-year-old man who stands 5'10" tall with a light buil
 
 # Dossier {#dossier}
 
-Ronethos Zurmelates is a field investigator of the Sekran with a reputation for dogged persistence. He has taken interest in certain mineral thefts from the academy's stores and in novel alchemical compounds in black-market channels. He has no direct evidence against [[being-azatodmzns|Azato Damzanis]], but their paths have begun to cross with uncomfortable frequency.
+Ronethos Zurmelates is a field investigator of the [Sekran]{.name data-type="affiliation"} with a reputation for dogged persistence. He has taken interest in certain mineral thefts from the [[affiliation-panepistmm|Epistémion]]'s stores and in novel alchemical compounds in black-market channels. He has no direct evidence against [[being-azatodmzns|Azato Damzanis]], but their paths have begun to cross with uncomfortable frequency.
