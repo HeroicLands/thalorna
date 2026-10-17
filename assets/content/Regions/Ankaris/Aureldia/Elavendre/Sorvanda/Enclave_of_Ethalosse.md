@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The **Enclave of Ethalosse** is the Sinale community of [[place-ethalosse|Ethalosse]], at the eastern margin of the [[place-alndntrblnds|Áelendan Tribal Lands]]. Sinale have kings, queens and lords, but these do not work as human ones do, and the enclave is governed by its lord. It is the point through which the [[lore-flksinale|Sinale]] deal with the rest of humanity, by way of [[lore-aelendnppl|Áelendan]] intermediaries who carry what is said and do not speak for the enclave.
+The **Enclave of Ethalosse** is the community of the [[lore-flksinale|Sinale Folk]] at [[place-ethalosse|Ethalosse]], at the eastern margin of the [[place-alndntrblnds|Áelendan Tribal Lands]]. Sinale have kings, queens and lords, but these do not work as human ones do, and the enclave is governed by its lord. It is the point through which the Sinale deal with the rest of humanity, by way of [[lore-aelendnppl|Áelendan]] intermediaries who carry what is said and do not speak for the enclave.

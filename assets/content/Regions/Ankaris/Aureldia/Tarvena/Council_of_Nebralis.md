@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: [tarvenlng]}}
 ---
 
-The **Council of Nebralis** governs [[place-nebralis|Nebralis]], a port town in [[place-tarvenirgn|Tarvénia]].
+The **Council of Nebralis** governs [[place-nebralis|Nebralis]], a port town in the [[place-tarvenirgn|Tarvénia Region]].

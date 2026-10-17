@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Asturath is the land of [[affiliation-kngdmstrth|The Kingdom of Asturath]], the mountainous interior of [[place-tarvenirgn|Tarvénia Region]].
+Asturath is the land of the [[affiliation-kngdmstrth|Kingdom of Asturath]], the mountainous interior of the [[place-tarvenirgn|Tarvénia Region]].
 
 ## Character
 

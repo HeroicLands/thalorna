@@ -13,19 +13,19 @@ the kingdom's eastern and southern borders: perhaps a hundred and eighty thousan
 that could hold far more and does not, because most of it is not the kingdom's to settle.
 
 Mist-shrouded peaks, glacial valleys with lakes in them, high pasture, and the deep old woods below the
-tree line. The [[place-drenavrspn|Drenavar Spine]] is its central range and its sacred heart.
+tree line. [[place-drenavrspn|The Drenavar Spine]] is its central range and its sacred heart.
 
 ## Áelendan Country
 
-Sórvanda is where the [[lore-aelendnppl|Áelendan]] live—the ancestor people of the Élavendri, who
-never came down into the cities and who keep the Old Way in tribal communities under their own elders.
+Sórvanda is where the [[lore-aelendnppl|Áelendan People]] live—the ancestor people of the [[lore-elavendrnppl|Élavendren People]], who
+never came down into the cities and who keep [[affiliation-theoldway|The Old Way]] in tribal communities under their own elders.
 The [[place-alndntrblnds|Áelendan Tribal Lands]] within Sórvanda are sovereign in practice and
-protected by crown law in principle: the courts of Élavendre will act against anyone who encroaches, and
+protected by crown law in principle: the courts of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] will act against anyone who encroaches, and
 generally do not have to, because the [[affiliation-alndnwrdns|Áelendan Wardens]] get there first.
 
-This is the densest concentration of fae sites in Ankaris. The [[lore-aralwen|aralwain]], the sacred
-groves, the seated spirits—the [[place-urontekhi|Uron Tekhi]] in the
-[[place-silvrfrsts|Silver Forests]], the river-mother [[lore-salendaspr|Sálenda]] at the [[place-longstair|Long Stair]], the owl-spirit of the [[place-owlhollow|Owl Hollow]]—are all here,
+This is the densest concentration of fae sites on the [[place-ankrscntnnt|Ankaris Continent]]. The [[lore-aralwen|aralwain]], the sacred
+groves, the seated spirits—[[place-urontekhi|The Uron Tekhi]] in
+[[place-silvrfrsts|The Silver Forests]], the river-mother [[lore-salendaspr|Sálenda of the Long Stair]] at [[place-longstair|The Long Stair]], the owl-spirit of [[place-owlhollow|The Owl Hollow]]—are all here,
 and all watched.
 
 ## The Wealth That Cannot Be Taken
@@ -47,7 +47,7 @@ What extraction exists is therefore:
 - **Ruinously expensive**—which is why Élavendren gold and gemwork are worth what they are. The
   scarcity is not geological. It is political, and everyone in the trade knows it.
 
-Prospectors, speculators and agents of the [[affiliation-ordoarcanis|Thordimalon]] come anyway, in
+Prospectors, speculators and agents of [[affiliation-ordoarcanis|Thordimalon]] come anyway, in
 numbers, every year—and the Arcane Order's people are the least welcome of the three. The Áelendan hold the
 Arcane Order in flat contempt as meddlesome intruders who come to study what the tribes exist to keep, and a
 Warden who finds a licensed surveyor above the line treats the license as an aggravation rather than a
@@ -64,7 +64,7 @@ Above the tree line in the Spine lie the sealed adits of the workings a king ope
 
 - **High pasture**—cattle, sheep, and the mountain cheeses that come down at the autumn fairs.
 - **Furs and hides** from the tree line.
-- **Herbs and simples**, gathered by Áelendan and traded down; the physicians of Péravel will pay for
+- **Herbs and simples**, gathered by Áelendan and traded down; the physicians of [[place-beravel|Péravel]] will pay for
   what only grows above the passes.
 - **Timber**, sparingly and by arrangement.
 

@@ -14,18 +14,18 @@ data:
 ---
 
 **The Asking** is a [[lore-flksinale|Sinalean]] song held in [[place-elavendre|Élavendre]]. The
-[[lore-aelendnppl|Áelendan]] Tradition Keepers hold it with the tribal songs and count it, with
+Tradition Keepers of the [[lore-aelendnppl|Áelendan People]] hold it with the tribal songs and count it, with
 [[lore-seventowers|The Seven Towers]], among the songs first heard at [[place-aelirosse|Aelirosse]]
-and carried out of the [[place-silvrfrsts|Silver Forests]] by people to whom it was given freely; the
-[[affiliation-bardicolgs|Bardic Colleges]] sing it to the harp in nine turnings, each named for what
-stands out in it. The song is the Sinale's own account of the [[lore-pelwarpepl|Pelwar]] band that came
-over the eastern pass into the interior, of the herdsman Dhargan who sat four days at the wood's edge and
-asked, and of the generations after him: the Pact sung at the lowest pool of [[place-longstair|the Long
-Stair]], the watch set at the fog-hollow, the chief made Kinless at [[lore-tenaspr|Tena]]'s fire in the
+and carried out of [[place-silvrfrsts|The Silver Forests]] by people to whom it was given freely;
+[[affiliation-bardicolgs|The Bardic Colleges]] sing it to the harp in nine turnings, each named for what
+stands out in it. The song is the [[lore-flksinale|Sinale Folk]]'s own account of the band of the [[lore-pelwarpepl|Pelwar People]] that came
+over the eastern pass into the interior, of the herdsman [Dhargan]{.name data-type="being/npc"} who sat four days at the wood's edge and
+asked, and of the generations after him: the [Kindred Pact]{.name data-type="lore/law"} sung at the lowest pool of [[place-longstair|The Long Stair]],
+the watch set at the fog-hollow, the chief made Kinless at the fire of [[lore-tenaspr|Tena, the Hearth of Ésalosa]] in the
 Black Snow year, the fires on the pass, and the giving-over at the stone court of
 [[place-ethalosse|Ethalosse]].
 
-The Dhárgandi hold that the Dhargan of the song is the founder of their line, and the Kháldendi are the
+The [Dhárgandi]{.name data-type="affiliation/lineage"} hold that the Dhargan of the song is the founder of their line, and the [Kháldendi]{.name data-type="affiliation/lineage"} are the
 line the song calls cold-handed. The Sinale have confirmed neither claim and corrected neither, and the
 Tradition Keepers sing the song as it was received, adding nothing. The Sinale names in it, for the wood,
 the pool, the clearing, the fog-hollow and the epithet the song gives Dhargan at its close, are sung as

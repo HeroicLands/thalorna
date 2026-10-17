@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [tarvenirgn], packFolder: tarvenia}
 
 ## Overview
 
-Polthamis is a city of [[place-tarvenirgn|Tarvénia]] and the home of **the Great Temple of Árdavon**, where the [[affiliation-ardavon|Faith of Árdavon]] trains the priests it sends out across the kingdom. A boy who comes to the Great Temple as an acolyte studies theology, law and combat together, because the Árdavonian faith expects its priests to be both protectors and spiritual guides, and he leaves it ordained to serve Árdavon on the battlefield and in the courts.
+Polthamis is a city of the [[place-tarvenirgn|Tarvénia Region]] and the home of **the [Great Temple of Árdavon]{.name data-type="place/structure"}**, where the [[affiliation-ardavon|Faith of Árdavon]] trains the priests it sends out across the kingdom. A boy who comes to the Great Temple as an acolyte studies theology, law and combat together, because the Árdavonian faith expects its priests to be both protectors and spiritual guides, and he leaves it ordained to serve Árdavon on the battlefield and in the courts.
 
 ## The Prelate's Seal
 

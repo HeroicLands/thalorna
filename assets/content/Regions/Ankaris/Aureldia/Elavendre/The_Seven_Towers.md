@@ -14,9 +14,9 @@ data:
 ---
 
 **The Seven Towers** is a [[lore-flksinale|Sinalean]] song held in [[place-elavendre|Élavendre]]. The
-[[lore-aelendnppl|Áelendan]] count it among the songs first heard at [[place-aelirosse|Aelirosse]] and
-carried out of the [[place-silvrfrsts|Silver Forests]] by people to whom it was given freely, and their
-Tradition Keepers hold it with the tribal songs. The [[affiliation-bardicolgs|Bardic Colleges]] sing it to
+[[lore-aelendnppl|Áelendan People]] count it among the songs first heard at [[place-aelirosse|Aelirosse]] and
+carried out of [[place-silvrfrsts|The Silver Forests]] by people to whom it was given freely, and their
+Tradition Keepers hold it with the tribal songs. [[affiliation-bardicolgs|The Bardic Colleges]] sing it to
 the harp as a Sinalean gift, at three and four removes from any Sinale who ever sang it. Some Áelendan songs
 set the enclave at the edge of what the Sinale call the deeper places, and the Tradition Keepers sing what
 comes out of it as it was received, adding nothing.

@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [valthari], population: 0, packFolder: 
 
 ## Overview
 
-Thornhill Manor is the seat of **Lord Zurgade of Thornhill Manor**, a Tarvenan lord in the country around [[place-valthari|Valthari]], and it is known to its neighbors for its hunting. The lord hunts often and with guests, and those guests include greater lords than he is.
+Thornhill Manor is the seat of **Lord [[being-zurgadeugarr|Zurgade Ugarris]] of Thornhill Manor**, a Tarvenan lord in the country around [[place-valthari|Valthari]], and it is known to its neighbors for its hunting. The lord hunts often and with guests, and those guests include greater lords than he is.
 
 ## The Huntswoman
 

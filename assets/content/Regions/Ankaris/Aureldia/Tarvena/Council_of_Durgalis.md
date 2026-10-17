@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: [tarvenlng]}}
 ---
 
-The **Council of Dúrgalis** governs [[place-durgalis|Dúrgalis]], a castle town in [[place-tarvenirgn|Tarvénia]].
+The **Council of Dúrgalis** governs [[place-durgalis|Dúrgalis]], a castle town in the [[place-tarvenirgn|Tarvénia Region]].

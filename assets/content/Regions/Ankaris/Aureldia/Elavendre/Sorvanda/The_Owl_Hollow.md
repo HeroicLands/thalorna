@@ -13,9 +13,9 @@ data:
   packFolder: elavendre
 ---
 
-A steep wooded fold in the lower [[place-drenavrspn|Drenavar]] country, dark under its canopy at
-midday and quiet in a way visitors remark on before they are told why. The [[lore-aelendnppl|Áelendan]]
-named it for what is seated in it—[[lore-ossendaspr|Óssenda]], the White Owl—and the tribes of the
+The Owl Hollow is a steep wooded fold in the lower reaches of [[place-drenavrspn|The Drenavar Spine]], dark under its canopy at
+midday and quiet in a way visitors remark on before they are told why. The [[lore-aelendnppl|Áelendan People]]
+named it for what is seated in it—[[lore-ossendaspr|Óssenda, the White Owl of the Hollow]]—and the tribes of the
 surrounding country are careful speakers within it after dark.
 
 ## The Ground
@@ -64,7 +64,7 @@ asked twice—that this has mattered.
 ## Outsiders
 
 The Hollow is deep in the [[place-alndntrblnds|Áelendan Tribal Lands]] and the
-[[affiliation-alndnwrdns|Wardens]] treat it as they treat any seated ground. Visitors are not
+[[affiliation-alndnwrdns|Áelendan Wardens]] treat it as they treat any seated ground. Visitors are not
 impossible; the tribes have brought outsiders here, for the asking, when someone's dead were involved.
 Visitors who arrive on their own account are turned back at the upper path, and the offering-stone is
 as far as most will ever get.

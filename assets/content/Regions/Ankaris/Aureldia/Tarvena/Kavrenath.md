@@ -14,4 +14,4 @@ data:
   government: kngdmstrth
 ---
 
-Kávrenath is a frontier town in the mountainous land of [[place-asturath|Asturath]], within [[place-tarvenirgn|Tarvénia]]. It is ruled as part of the [[affiliation-kngdmstrth|Kingdom of Asturath]], the mountain realm whose narrow passes and hidden valleys have never been held by an invader.
+Kávrenath is a frontier town in the mountainous land of [[place-asturath|Asturath]], within the [[place-tarvenirgn|Tarvénia Region]]. It is ruled as part of the [[affiliation-kngdmstrth|Kingdom of Asturath]], the mountain realm whose narrow passes and hidden valleys have never been held by an invader.

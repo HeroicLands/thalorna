@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: [tarvenlng]}}
 ---
 
-The **Council of Herthema** governs [[place-herthema|Herthema]], a fortified town in [[place-tarvenirgn|Tarvénia]].
+The **Council of Herthema** governs [[place-herthema|Herthema]], a fortified town in the [[place-tarvenirgn|Tarvénia Region]].

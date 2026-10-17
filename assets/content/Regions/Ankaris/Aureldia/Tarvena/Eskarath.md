@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Eskarath is the land of [[affiliation-frtrtryskrth|The Free Territory of Eskarath]], the highlands along the northern edge of [[place-tarvenirgn|Tarvénia Region]].
+Eskarath is the land of the [[affiliation-frtrtryskrth|Free Territory of Eskarath]], the highlands along the northern edge of the [[place-tarvenirgn|Tarvénia Region]].
 
 Eskarath is the highland territory along Tarvénia's northern border with [[place-elavendre|Élavendre]], home to a people who predate the Tarveni migration by centuries.
 

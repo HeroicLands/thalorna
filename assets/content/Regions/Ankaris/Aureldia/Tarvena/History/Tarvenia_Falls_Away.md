@@ -66,17 +66,17 @@ data:
       unresolved: [how many of the lords who voted for Garvaneth had been paid in advance]
 ---
 
-The election of a High King of Tarvénia is half ceremony and half brawl, and the first one set the pattern. The lords of the mountains met at Lezkora, and the ones who voted for **Garvaneth** of Asturath voted for the man who would drive out the garrisons.
+The election of a High King of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] is half ceremony and half brawl, and the first one, during Tarvénia Falls Away, set the pattern. The lords of the mountains met at [[place-lezkora|Lezkora]], and the ones who voted for **[Garvaneth]{.name data-type="being/npc"}** of [[place-asturath|Asturath]] voted for the man who would drive out the garrisons.
 
 ## The Coin Fixed
 
-The lowlands had been paying the Empire since about 140 AF, in taxes and in the upkeep of the garrisons that sat on them ([[lore-lowlandstaken|The Lowlands Taken]]). When the Three Winters ran together in the north ([[lore-threewinters|The Three Winters]]), the Empire drew its legions toward the hunger raids and cut the pay of the soldiers it left behind. The garrisons in the Tarvénian lowlands were under-strength and underpaid, and the lowlands stopped paying them.
+The lowlands had been paying the [[affiliation-vylarinmpr|Vylarian Empire]] since about 140 AF, in taxes and in the upkeep of the garrisons that sat on them ([[lore-lowlandstaken|The Lowlands Taken]]). When the Three Winters ran together in the north ([[lore-threewinters|The Three Winters]]), the Empire drew its legions toward the hunger raids and cut the pay of the soldiers it left behind. The garrisons in the Tarvénian lowlands were under-strength and underpaid, and the lowlands stopped paying them.
 
 ## The Election
 
-The mountain lords had never had a king over them, and now they had a reason to elect one: the lowlands were falling away from the Empire, and somebody would take them. They met at [[place-lezkora|Lezkora]], elected Garvaneth, an Astúrathi lord with the largest following, and pledged him their levies for as long as it took to drive the garrisons out. The Liénriki, who had kept the Empire's watchtowers for four centuries, turned them from the highlands to the coast.
+The mountain lords had never had a king over them, and now they had a reason to elect one: the lowlands were falling away from the Empire, and somebody would take them. They met at Lezkora, elected Garvaneth, an Astúrathi lord with the largest following, and pledged him their levies for as long as it took to drive the garrisons out. The Liénriki, who had kept the Empire's watchtowers for four centuries, turned them from the highlands to the coast.
 
-The garrisons were out within seven years, and the High King found he had no silver to pay the lords who had elected him. He sold **Valthari** a charter of self-government: the free city would pay him a yearly tribute and govern itself, with its own courts and its own council, the Consejarath. The port had been the Empire's, and it was now the High King's, on terms the merchants could live with.
+The garrisons were out within seven years, and the High King found he had no silver to pay the lords who had elected him. He sold the **[[affiliation-frctyvlthr|Free City of Valthari]]** a charter of self-government: the free city would pay him a yearly tribute and govern itself, with its own courts and its own council, the [Consejarath]{.name data-type="affiliation/governmental"}. The port had been the Empire's, and it was now the High King's, on terms the merchants could live with.
 
 ## What It Left
 

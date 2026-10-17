@@ -13,7 +13,7 @@ data:
   packFolder: elavendre
 ---
 
-A single vast tree standing alone in a clearing of the Silver Forests that nothing else grows in.
+The Uron Tekhi is a single vast tree standing alone in a clearing of [[place-silvrfrsts|The Silver Forests]] that nothing else grows in.
 It is older than any Áelendan tribe and older, the shamen say, than the tribes' arrival in the
-land. The tree and the spirit are not distinguished: [[lore-uronspr|the Uron Tekhi]] is what
+land. The tree and the spirit are not distinguished: [[lore-uronspr|The Uron Tekhi]] is what
 stands there, and what is spoken to is the tree.

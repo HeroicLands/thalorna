@@ -139,7 +139,7 @@ The kingdom is divided into five semi-autonomous regions, each with its own gove
 ### The Three Kingdoms
 
 - [[affiliation-kngdmstrth|Kingdom of Asturath]]—The mountainous heartland of Tarvénia, seat of the High King, and the spiritual core of Tarvenan independence. Asturath's mountain fortresses were never conquered by the [[affiliation-vylarinmpr|Vylarian Empire]], and the kingdom's lords consider themselves the truest heirs of the ancient Tarveni warrior tradition. The High King is traditionally (though not always) drawn from the Astúrathi nobility.
-- [[affiliation-kngdmglvrn|Kingdom of Galvaren]]—The green, mist-shrouded western coast. Galvaren's people are seafarers, fishermen, and dreamers, with a reputation for mysticism that sits uneasily with mainstream Tarvenan skepticism of the arcane. The kingdom's fishing fleets are the largest in western [[place-ankrscntnnt|Ankaris Continent]], and its sailors are legendarily fearless—or foolhardy, depending on who you ask.
+- [[affiliation-kngdmglvrn|Kingdom of Galvaren]]—The green, mist-shrouded western coast. Galvaren's people are seafarers, fishermen, and dreamers, with a reputation for mysticism that sits uneasily with mainstream Tarvenan skepticism of the arcane. The kingdom's fishing fleets are the largest in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and its sailors are legendarily fearless—or foolhardy, depending on who you ask.
 - [[affiliation-kingdmlnrk|Kingdom of Lienrik]]—The largest and most fertile of the three kingdoms, occupying the central-southern lowlands. Lienrik has the most conventional feudal structure, the richest farmland, and the largest population. Its lords are wealthier and more politically ambitious than their mountain and coastal counterparts, and Liénriki nobles have contested the High Kingship more often than anyone.
 
 ### The Free City
@@ -148,17 +148,17 @@ The kingdom is divided into five semi-autonomous regions, each with its own gove
 
 ### The Free Territory
 
-- [[affiliation-frtrtryskrth|Free Territory of Eskarath]]—The highland territory along the northern border with [[place-elavendre|Élavendre]], home to an ancient people who predate the Tarveni migration. The Eskárathi speak their own language alongside Tarveni, maintain their own customs and legal traditions, and acknowledge the High King only in the loosest sense. They are fiercely independent even by Tarvenan standards—which is saying something.
+- [[affiliation-frtrtryskrth|Free Territory of Eskarath]]—The highland territory along the northern border with [[place-elavendre|Élavendre]], home to an ancient people who predate the Tarveni migration. The Eskárathi speak their own language alongside the [[skill-tarvenlng|Tarveni Language]], maintain their own customs and legal traditions, and acknowledge the High King only in the loosest sense. They are fiercely independent even by Tarvenan standards—which is saying something.
 
 ## Character
 
-Tarvénia's culture prizes individual courage, personal honor, and independence above all else. The Tarvenan mercenary tradition is famous across [[place-ankrscntnnt|Ankaris Continent]]—Tarveni swordsmen and crossbowmen serve in armies from [[affiliation-vylarinmpr|Vylaria]] to [[affiliation-cnfdrtntrzlnstts|Taruzel]], and mercenary service is considered an honorable career rather than a mark of desperation.
+Tarvénia's culture prizes individual courage, personal honor, and independence above all else. The Tarvenan mercenary tradition is famous across Ankaris—Tarveni swordsmen and crossbowmen serve in armies from [[affiliation-vylarinmpr|Vylaria]] to the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and mercenary service is considered an honorable career rather than a mark of desperation.
 
-The Tarvenans are deeply skeptical of magic and of the [[affiliation-ordoarcanis|Thordimalon]] in particular. The Arcane Order maintains a few chapters in the larger cities but operates cautiously; mages who throw their weight around in Tarvénia tend to end up with a knife between their ribs. Folk healers, hedge witches, and village wise-women are tolerated and even respected, but institutionalized arcane power is viewed as just another form of tyranny.
+The Tarvenans are deeply skeptical of magic and of [[affiliation-ordoarcanis|Thordimalon]] in particular. The Arcane Order maintains a few chapters in the larger cities but operates cautiously; mages who throw their weight around in Tarvénia tend to end up with a knife between their ribs. Folk healers, hedge witches, and village wise-women are tolerated and even respected, but institutionalized arcane power is viewed as just another form of tyranny.
 
 ## Commerce and Currency
 
-Kingdom of Tarvénia uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Kingdom of Tarvénia is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+The Kingdom of Tarvénia uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under [[affiliation-tevran|The Tevran Maldor]]. The Kingdom of Tarvénia is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

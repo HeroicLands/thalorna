@@ -59,11 +59,11 @@ data:
       unresolved: [how many of Lienrik's lords took the Empire's offices and how many refused them]
 ---
 
-Lienrik's lords keep an order of precedence the occupation taught them, and the kingdom does not acknowledge where it came from. The watchtowers across the lowlands are the other half of the lesson.
+The Lowlands Taken left the lords of the [[affiliation-kingdmlnrk|Kingdom of Lienrik]] with an order of precedence the occupation taught them, and the kingdom does not acknowledge where it came from. The watchtowers across the lowlands are the other half of the lesson.
 
 ## The Coast and the Lowlands
 
-The legions came west about 140 AF, the first great wave of [[lore-westernwars|the Western Wars]], and took the southern coast of the Tarvénian peninsula first. The harbors there were the best on the western side of the Vylarian Sea, and the Empire made one of them, [[place-valthari|Valthari]], an imperial port. The central lowlands followed, farm country the legions could march across and keep. The mountain kingdom of [[affiliation-kngdmstrth|Asturath]] was beyond them, and the legions did not go into it ([[lore-horngorgebtl|the Horn Gorge]]).
+The legions came west about 140 AF, the first great wave of [[lore-westernwars|The Western Wars]], and took the southern coast of the Tarvénian peninsula first. The harbors there were the best on the western side of the [[place-vylarianse|Vylarian Sea]], and the [[affiliation-vylarinmpr|Vylarian Empire]] made one of them, [[place-valthari|Valthari]], an imperial port. The central lowlands followed, farm country the legions could march across and keep. The mountainous [[affiliation-kngdmstrth|Kingdom of Asturath]] was beyond them, and the legions did not go into it ([[lore-horngorgebtl|The Battle of the Horn Gorge]]).
 
 ## Lienrik
 

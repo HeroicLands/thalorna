@@ -58,19 +58,19 @@ data:
         - the name of the felzos who led the fourth expedition
 ---
 
-The shepherds of Asturath do not drive their flocks through the gorge below Lezkora, and they do not say why. On autumn nights the sound of horns comes down the rocks and the echo comes back from a wall at the far end, and the horns are blowing a recall.
+Since The Battle of the Horn Gorge, the shepherds of [[place-asturath|Asturath]] do not drive their flocks through the gorge below [[place-lezkora|Lezkora]], and they do not say why. On autumn nights the sound of horns comes down the rocks and the echo comes back from a wall at the far end, and the horns are blowing a recall.
 
 ## The Fourth Expedition
 
-The legions had taken the lowlands ([[lore-lowlandstaken|The Lowlands Taken]]) and they wanted the mountains above them. Three expeditions had gone into the ranges of [[place-asturath|Asturath]] and come out again with nothing. The fourth went up in the reign of the Orzas Zoranthos about 143 AF, under his _felzos_ (legate), with the intention of climbing to the plateau of [[place-lezkora|Lezkora]] and putting a garrison on it.
+The legions had taken the lowlands ([[lore-lowlandstaken|The Lowlands Taken]]) and they wanted the mountains above them. Three expeditions had gone into the ranges of Asturath and come out again with nothing. The fourth went up in the reign of the Orzas [Zoranthos]{.name data-type="being/npc"} about 143 AF, under his _felzos_ (legate), with the intention of climbing to the plateau of Lezkora and putting a garrison on it.
 
 ## The Gorge
 
-The mountain lord **Tórsaro** knew that a legion would take the road that was easiest to climb. He let it come to the gorge, a long cleft in the rock below the plateau where the ground favors a defender absolutely, and he waited for the last of its baggage to enter. He then closed both ends. The legion was in a trench with its sides lined with archers and its ends full of fallen stone, and it died there over two days among the rocks. The Astúrathi counted the dead afterward and found the _felzos_'s standard.
+The mountain lord **[Tórsaro]{.name data-type="being/npc"}** knew that a legion would take the road that was easiest to climb. He let it come to the gorge, a long cleft in the rock below the plateau where the ground favors a defender absolutely, and he waited for the last of its baggage to enter. He then closed both ends. The legion was in a trench with its sides lined with archers and its ends full of fallen stone, and it died there over two days among the rocks. The Astúrathi counted the dead afterward and found the _felzos_'s standard.
 
 ## What the Empire Did
 
-Vylaria never sent a fifth expedition. The legion was struck off the rolls, and the chancery's account of the Western Wars says that the worst of the four was lost in the mountains and says no more. The Empire held the lowland approaches thereafter and left the mountains alone, which the Astúrathi take as the Empire's acknowledgement.
+The [[affiliation-vylarinmpr|Vylarian Empire]] never sent a fifth expedition. The legion was struck off the rolls, and the chancery's account of [[lore-westernwars|The Western Wars]] says that the worst of the four was lost in the mountains and says no more. The Empire held the lowland approaches thereafter and left the mountains alone, which the Astúrathi take as the Empire's acknowledgement.
 
 ## What It Left
 

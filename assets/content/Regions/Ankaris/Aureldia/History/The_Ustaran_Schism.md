@@ -8,7 +8,7 @@ tags: []
 data: {packFolder: aureldia, culture: aureldianclt}
 ---
 
-**Ústaron** the Forge-Lord holds both aspects of flame at once—the forge that shapes and the inferno
+The Ústaran Schism divided worshippers of **[[lore-ustarondty|Ústaron]]** the Forge-Lord. In their tradition, he holds both aspects of flame at once—the forge that shapes and the inferno
 that consumes—and for most of the [[affiliation-arldnpnthn|Aureldian Pantheon]]'s history that
 duality was carried without difficulty. A god of fire was understood to be a god of both what fire
 makes and what it takes. Roughly **five hundred years ago** a faction within the Ústaran clergy
@@ -24,7 +24,7 @@ which half of the god was real.
 The schism produced two bitterly opposed faiths, each holding the other heretical:
 
 - [[affiliation-sacredforge|The Sacred Forge]]—the creative aspect: craftsmanship,
-  transformation, illumination and protection. The mainstream faith across most of western Ankaris,
+  transformation, illumination and protection. The mainstream Ústaran faith across most of the western part of the [[place-ankrscntnnt|Ankaris Continent]],
   and the one that kept the temples, the endowments and the name.
 - [[affiliation-blackflame|The Black Flame]]—the destructive aspect: fire as purifier, as weapon
   and as instrument of domination. Suppressed in most kingdoms, and surviving through secretive orders

@@ -16,15 +16,15 @@ data:
 
 ## Overview
 
-Lienrik is the land of [[affiliation-kingdmlnrk|The Kingdom of Lienrik]], the central-southern lowlands of [[place-tarvenirgn|Tarvénia Region]].
+Lienrik is the land of the [[affiliation-kingdmlnrk|Kingdom of Lienrik]], the central-southern lowlands of the [[place-tarvenirgn|Tarvénia Region]].
 
-Lienrik is the largest, most populous, and most fertile of the three Tarvenan kingdoms, occupying the central-southern lowlands between the mountains of [[affiliation-kngdmstrth|Asturath]] and the coast of [[affiliation-kngdmglvrn|Galvaren]].
+Lienrik is the largest, most populous, and most fertile of the three Tarvenan kingdoms, occupying the central-southern lowlands between the mountains of [[place-asturath|Asturath]] and the coast of [[place-galvaren|Galvaren]].
 
 ## Character
 
 The kingdom's lowland terrain makes it more accessible—and more vulnerable—than mountainous Asturath.
 
-The capital, **Torvaleth**, is the largest town in Tarvénia—a prosperous market center surrounded by some of the richest farmland in western [[place-ankrscntnnt|Ankaris Continent]]. Its annual harvest fair draws merchants from across the [[place-vylarianse|Vylarian Sea]], and its cattle markets are legendary.
+The capital, **[Torvaleth]{.name data-type="place/settlement"}**, is the largest town in Tarvénia—a prosperous market center surrounded by some of the richest farmland in the western part of the [[place-ankrscntnnt|Ankaris Continent]]. Its annual harvest fair draws merchants from across the [[place-vylarianse|Vylarian Sea]], and its cattle markets are legendary.
 
 ## See Also
 

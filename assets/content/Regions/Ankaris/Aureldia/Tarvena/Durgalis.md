@@ -14,4 +14,4 @@ data:
   packFolder: tarvenia
 ---
 
-Dúrgalis is a castle town in the [[place-tarvenirgn|Tarvénia]] region of Aureldia, a modest settlement. It belongs to the patchwork of independent fiefdoms and free territories that Tarvénia is made of, and several of its residents are named in the character notes.
+Dúrgalis is a castle town in the [[place-tarvenirgn|Tarvénia Region]] of the [[place-aureldirgn|Aureldia Region]], a modest settlement. It belongs to the patchwork of independent fiefdoms and free territories that Tarvénia is made of, and several of its residents are named in the character notes.

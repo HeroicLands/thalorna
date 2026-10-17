@@ -56,21 +56,21 @@ data:
       unresolved: [which two lords swore the oath that opened the register]
 ---
 
-The first entry in the master register at Ólvestra is a boundary oath between two lords of Tarvénia. The order that keeps the register was founded to hear exactly that kind of dispute, and the register has not stopped growing.
+In The Founding of the Sealed Word, the first entry in the master register at [[place-olvestria|Ólvestra]] is a boundary oath between two lords of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]. [[affiliation-ordrsldwrd|The Order of the Sealed Word]], which keeps the register, was founded to hear exactly that kind of dispute, and the register has not stopped growing.
 
 ## The Gap
 
-For three centuries the legions had kept the peace between the crowns of Aureldia, in the sense that no crown could break an oath with another without the Empire noticing. The Edicts of Arzanas closed the western wars about 418 AF ([[lore-arzanasedict|The Edicts of Arzanas]]), and with them closed the Empire's willingness to be the court of last appeal. Oaths sworn between lords, between cities and between crowns were now guaranteed by nothing except the swearer's honor, and the swearers knew it.
+For three centuries the legions had kept the peace between the crowns of the [[place-aureldirgn|Aureldia Region]], in the sense that no crown could break an oath with another without the [[affiliation-vylarinmpr|Vylarian Empire]] noticing. The Edicts of Arzanas closed the western wars about 418 AF ([[lore-arzanasedict|The Edicts of Arzanas]]), and with them closed the Empire's willingness to be the court of last appeal. Oaths sworn between lords, between cities and between crowns were now guaranteed by nothing except the swearer's honor, and the swearers knew it.
 
 ## The Charter
 
-The priesthood of [[affiliation-ardavon|Árdavon]], the god of oaths and gates, saw the gap before the crowns did. It chartered a sworn order at [[place-olvestria|Ólvestra]], the city of oaths and gates, with a rule that was simple to state: a brother of the order would ride to where a binding oath had been broken, hear the matter, and compel the oath-breaker to make it good, by trial-by-combat if no other remedy answered. The order's brothers were knights, so that a petitioner whose oath-breaker was too strong for the local magistrates could still be answered.
+The priesthood of the [[affiliation-ardavon|Faith of Árdavon]], which honors [[lore-ardavondty|Árdavon]] as the god of oaths and gates, saw the gap before the crowns did. It chartered a sworn order at Ólvestra, the city of oaths and gates, with a rule that was simple to state: a brother of the order would ride to where a binding oath had been broken, hear the matter, and compel the oath-breaker to make it good, by trial-by-combat if no other remedy answered. The order's brothers were knights, so that a petitioner whose oath-breaker was too strong for the local magistrates could still be answered.
 
 The first petition the order accepted was a boundary oath between two Tarvénian lords, sworn on a stone and broken within the year. The brother who rode to hear it ruled in a day and was obeyed. Neither lord had expected the order to rule against the stronger.
 
 ## The Register
 
-The order keeps a master register at Ólvestra of every contested oath it has ruled on, and its **Council of the Seal** meets there every quarter. It is licensed by each of the Aureldian crowns to hold hearings in their courts, and the license is renewed as a political matter. Its rulings bind nobody in law and are obeyed in practice, because the order refuses petitions it cannot substantiate and does not favor the powerful.
+The order keeps a master register at Ólvestra of every contested oath it has ruled on, and its **[Council of the Seal]{.name data-type="affiliation/governmental"}** meets there every quarter. It is licensed by each of the Aureldian crowns to hold hearings in their courts, and the license is renewed as a political matter. Its rulings bind nobody in law and are obeyed in practice, because the order refuses petitions it cannot substantiate and does not favor the powerful.
 
 ## What It Left
 
