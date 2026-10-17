@@ -61,9 +61,9 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A Storm-Speaker who watches from a ledge of [[place-thrumufjall|Thrumufjall]] while the hov there blesses a ship describes what she sees first, which is the stone. The hammer stone is lifted over the bow, the crew bows, and the ship goes out through the harbor mouth under the god's protection. "I read the weather and the hov does something I do not," she says. "It asks the god to stand at the bow. Neither of us is lying about what the sea can do."
+A member of [[affiliation-ordrstrmspkrs|The Order of the Storm-Speakers]] who watches from a ledge of [[place-thrumufjall|Thrumufjall]] while the hov of the Faith of Thrunvald there blesses a ship describes what she sees first, which is the stone. The hammer stone is lifted over the bow, the crew bows, and the ship goes out through the harbor mouth under what the faithful regard as the god's protection. "I read the weather and the hov does something I do not," she says. "It asks the god to stand at the bow. Neither of us is lying about what the sea can do."
 
-[[lore-thrunvalddty|Thrunvald]] is the thunderous god of war, reavers and the sea, a formidable protector and champion of both gods and humans. He is known for immense strength and unyielding courage, a force of nature who defends the worlds from the chaos of giants and other threats. His domain extends over the seas, which makes him the patron of sailors and reavers, who call on his name for safe passage and victory in their raids.
+[[lore-thrunvalddty|Thrunvald]] is the thunderous god of war, reavers and the sea, a formidable protector and champion of both gods and humans. In its mythology, he is known for immense strength and unyielding courage, a force of nature who defends the worlds from the chaos of giants and other threats. His domain extends over the seas, which makes him the patron of sailors and reavers, who call on his name for safe passage and victory in their raids.
 
 ## The God of Hammer and Storm
 
@@ -213,7 +213,7 @@ over those sailing onward.
 
 ## Objects, Relics and Servants
 
-A worshipper carries a hammer stone for strength and protection, which stands for Thrúnhamarr; an iron nail for the hardiness and resilience of warriors; a sea shell for the god's dominion over the seas; or stormwater, collected during a thunderstorm, for his power over storms. Three relics belong to the faith. **Thrúnhamarr's Fragment** is a shard of the god's hammer that crackles with energy within a faint aura of lightning, and those who carry it into battle are granted great might and the power to summon storms. The **Stormcaller's Amulet** is a pendant of polished sky iron, worn by priests and warriors and said to bolster their strength in battle. The **Thunderstruck Ring** is a plain iron band said to be infused with the essence of lightning and forged during a thunderstorm, and it gives the wearer greater speed and reflexes.
+A worshipper carries a hammer stone for strength and protection, which stands for Thrúnhamarr; an iron nail for the hardiness and resilience of warriors; a sea shell for the god's dominion over the seas; or stormwater, collected during a thunderstorm, for his power over storms. Three relics belong to the faith. **[Thrúnhamarr's Fragment]{.name data-type="miscgear"}** is a shard said to come from the god's hammer that crackles with energy within a faint aura of lightning, and those who carry it into battle are granted great might and the power to summon storms. The **[Stormcaller's Amulet]{.name data-type="miscgear"}** is a pendant of polished sky iron, worn by priests and warriors and said to bolster their strength in battle. The **[Thunderstruck Ring]{.name data-type="miscgear"}** is a plain iron band said to be infused with the essence of lightning and forged during a thunderstorm, and it gives the wearer greater speed and reflexes.
 
 Two kinds of servant belong to Thrunvald. The **Storm Giants** are massive beings who command storms and wield great power over the seas. The **Thunderbears** are massive, imposing bears whose fur shimmers like storm clouds and whose eyes glow with the light of distant lightning; their roars echo like thunder and their footsteps make the ground tremble, and they serve as the god's guardians and enforcers.
 
@@ -231,11 +231,11 @@ The faith teaches weather manipulation and storm calling, combat training and we
 
 ## Ceremonies and Festivals
 
-The low ceremony is the **Hammer's Blessing**, in which the faithful receive a blessing for strength and protection in their daily lives. There are two high ceremonies. At the **Hammer's Vigil** high priests stand guard over sacred relics through the night and call on Thrunvald's protection. The **Reaver's Thanksgiving** is the high rite of Thrunvald's own calendar, kept between the four great seasonal blets of the Asguardian year. The festival is the **Ocean's Roar**, given to seafaring and exploration, with races, competitions and rites that honor his dominion over the seas.
+The low ceremony is the **[Hammer's Blessing]{.name data-type="lore/custom"}**, in which the faithful receive a blessing for strength and protection in their daily lives. There are two high ceremonies. At the **[Hammer's Vigil]{.name data-type="lore/custom"}** high priests stand guard over sacred relics through the night and call on Thrunvald's protection. The **[Reaver's Thanksgiving]{.name data-type="lore/custom"}** is the high rite of Thrunvald's own calendar, kept between the four great seasonal blets of the Asguardian year. The festival is the **[Ocean's Roar]{.name data-type="lore/gathering"}**, given to seafaring and exploration, with races, competitions and rites that honor his dominion over the seas.
 
 ## Ordeals for Favor
 
-Three ordeals win the god's favor. In the **Hammer's Trial** the faithful lift and carry a heavy hammer a great distance and dedicate their strength to Thrunvald. In the **Ocean's Challenge** participants navigate treacherous waters, trusting the god to guide them safely. In the **Iron Vigil** they remain watchful through a stormy night and protect a sacred site from any threat.
+Three ordeals are held to win the god's favor. In the **[Hammer's Trial]{.name data-type="lore/custom"}** the faithful lift and carry a heavy hammer a great distance and dedicate their strength to Thrunvald. In the **[Ocean's Challenge]{.name data-type="lore/custom"}** participants navigate treacherous waters, trusting the god to guide them safely. In the **[Iron Vigil]{.name data-type="lore/custom"}** they remain watchful through a stormy night and protect a sacred site from any threat.
 
 ## See Also
 

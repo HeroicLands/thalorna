@@ -12,7 +12,7 @@ One of the **three regalia** required to seal away [[being-njorven|Njorven]], wi
 [[miscgear-crwnwyrm|Crown of the Wyrm]] and the [[miscgear-sprsigrid|Spear of Skraldthira]]. All three are
 needed for the [[lore-njordurritlbinding|Ritual of Binding]].
 
-## Hafvald
+## Hafvald {#hafvald}
 
 The name is a difficulty, and the sagas do not resolve it.
 

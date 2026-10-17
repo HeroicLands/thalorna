@@ -59,15 +59,15 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-[[lore-motefnirdty|Mótefnir]] is the god of making. He invents, he builds, and what he builds that is alive comes out of his hands once and never breeds; the faith that keeps his name is kept almost entirely by people who make things for a living, and it reads his work as the standard theirs is measured against.
+The Faith of Mótefnir honors [[lore-motefnirdty|Mótefnir]] as the god of making. In its teaching, he invents, he builds, and what he builds that is alive comes out of his hands once and never breeds; the faith that keeps his name is kept almost entirely by people who make things for a living, and it reads his work as the standard theirs is measured against.
 
 ## Aspects
 
 The faith teaches three things about him and holds that everything else is speculation. He makes each living thing he makes exactly once. He releases much of it unfinished. And he does not come back for any of it. Where he works is not known: his hovs preserve several accounts of vast laboratories, agree on none of them, and teach that the question matters less than the answer walking around in the world.
 
-He is therefore the only god of the [[affiliation-asguardian|Ten]] whose work a traveler can meet on a road. The [[lore-dreadspawncrtr|Dreadspawn]] are his, and the faith names them his without hedging—a troll on a ford, a drake in a high valley, a thing assembled out of parts that do not belong together. None of them reproduces. Many of them were set down mid-project. His clergy teach the abandonment as doctrine: he is finished with a thing the moment it has taught him what it had to teach, which is neither cruelty nor mercy but the whole of his temper.
+In this teaching, he is therefore the only god of the [[affiliation-asguardian|Asguardian Pantheon]] (the Ten) whose work a traveler can meet on a road. The [[lore-dreadspawncrtr|Dreadspawn]] are his, and the faith names them his without hedging—a troll on a ford, a drake in a high valley, a thing assembled out of parts that do not belong together. None of them reproduces. Many of them were set down mid-project. His clergy teach the abandonment as doctrine: he is finished with a thing the moment it has taught him what it had to teach, which is neither cruelty nor mercy but the whole of his temper.
 
-He is not a destroyer and his clergy will not have him confused with one. [[affiliation-svartbrandr|Svartbrandr]] unmakes on purpose; Mótefnir unmakes nothing at all. He stops, and what he stopped working on keeps going.
+He is not a destroyer and his clergy will not have him confused with one. [[lore-svartbrandrdty|Svartbrandr]] unmakes on purpose; Mótefnir unmakes nothing at all. He stops, and what he stopped working on keeps going.
 
 Depictions give him hands and little else that is fixed—a pair of hands over a mould, or a bench seen from above with the work still on it. His hovs are workshops as much as halls, and a hov that has no bench in it is held to be a hov in name only.
 
@@ -93,11 +93,11 @@ The faith names none, and holds that it does not need to: what Mótefnir has sen
 
 ## High Ceremonies
 
-- **The Swearing of the First Work:** A craftsman brings the first thing he ever made, swears it at the hov, and leaves it on the shelf behind the altar. Nothing he makes afterward is reckoned his own until this is done.
-- **The Pour:** Performed at a season's turning by a Hofgudi or Hofgudja, who casts a single piece from a mould broken open before the assembly and breaks the mould after it.
+- **[The Swearing of the First Work]{.name data-type="lore/custom"}:** A craftsman brings the first thing he ever made, swears it at the hov, and leaves it on the shelf behind the altar. Nothing he makes afterward is reckoned his own until this is done.
+- **[The Pour]{.name data-type="lore/custom"}:** Performed at a season's turning by a Hofgudi or Hofgudja, who casts a single piece from a mould broken open before the assembly and breaks the mould after it.
 
 ## Ordeals for Favor
 
-- **The Work Unshown:** A piece made alone over a winter and brought to the hov unfinished, judged on what the maker says he still meant to do with it.
-- **The Bad Work Named:** The postulant brings a piece of his own he knows to be unsound and states its faults aloud before the hov.
-- **The Long Commission:** A piece taken on that cannot be finished inside a year, and carried to the end without the hov asking after it.
+- **[The Work Unshown]{.name data-type="lore/custom"}:** A piece made alone over a winter and brought to the hov unfinished, judged on what the maker says he still meant to do with it.
+- **[The Bad Work Named]{.name data-type="lore/custom"}:** The postulant brings a piece of his own he knows to be unsound and states its faults aloud before the hov.
+- **[The Long Commission]{.name data-type="lore/custom"}:** A piece taken on that cannot be finished inside a year, and carried to the end without the hov asking after it.

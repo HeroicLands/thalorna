@@ -59,9 +59,9 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A forge-hov keeps its altar as plain as its forge: a block of stone or metal, with an ember laid on it. A Bletmadr who forges nails for a living and shares the ember-offering at his hov's blet explains the bargain over his bench: "I give the fire a piece of itself and it gives me back one that has been blessed. Neither of us is pretending the other is tame."
+A forge-hov of the Faith of Svartbrandr keeps its altar as plain as its forge: a block of stone or metal, with an ember laid on it. A Bletmadr who forges nails for a living and shares the ember-offering at his hov's blet explains the bargain over his bench: "I give the fire a piece of itself and it gives me back one that has been blessed. Neither of us is pretending the other is tame."
 
-[[lore-svartbrandrdty|Svartbrandr]] is the fire giant and god of savage battle, and he is the raw, destructive force of fire and the fury of war. He is a fearsome figure who towers over his enemies, his body wreathed in flames that consume what they touch. His presence is a harbinger of destruction, a sign of the end of worlds foretold in the prophecies of [[lore-aldarlok|Aldarlok]].
+In its teaching, [[lore-svartbrandrdty|Svartbrandr]] is the fire giant and god of savage battle, and he is the raw, destructive force of fire and the fury of war. He is a fearsome figure who towers over his enemies, his body wreathed in flames that consume what they touch. His presence is a harbinger of destruction, a sign of the end of worlds foretold in the prophecies of [[lore-aldarlok|Aldarlok]].
 
 ## The God of the Forge Fire
 
@@ -69,13 +69,13 @@ Images show Svartbrandr as a massive, menacing figure whose skin has been blacke
 
 His followers are warriors who embrace the chaos and brutality of battle. They see war as a purifying force that burns away the weak and the unworthy and leaves the strong to claim victory. Worship is intense and often involves acts of ritual violence or symbolic destruction. His altars are simple and are usually made of stone or metal, set in places associated with fire: volcanoes, forges, and the aftermath of a great fire.
 
-A worshipper carries an ember for the destructive power of fire, a charred bone for what remains of battle and destruction, volcanic rock for the primal force of fire and earth, or ash for what the flames leave. Three relics belong to the faith. The **Heart of Aldarlok** is unique, a molten core said to be part of Svartbrandr's fiery essence, held in a blackened iron vessel and radiating intense heat; anyone who touches it directly is said to be consumed. The **Ashen Gauntlets** are a pair of gloves forged from volcanic ash and steeped in the god's essence, giving the wearer greater strength and the ability to withstand extreme heat. The **Emberstone Amulet** is a small, fiery gem set in a simple iron pendant, said to hold a fragment of his eternal flame; it protects against fire and lets the wearer ignite flames at will.
+A worshipper carries an ember for the destructive power of fire, a charred bone for what remains of battle and destruction, volcanic rock for the primal force of fire and earth, or ash for what the flames leave. Three relics belong to the faith. The **[Heart of Aldarlok]{.name data-type="miscgear"}** is unique, a molten core said to be part of Svartbrandr's fiery essence, held in a blackened iron vessel and radiating intense heat; anyone who touches it directly is said to be consumed. The **[Ashen Gauntlets]{.name data-type="armorgear"}** are a pair of gloves forged from volcanic ash and said to be steeped in the god's essence, giving the wearer greater strength and the ability to withstand extreme heat. The **[Emberstone Amulet]{.name data-type="miscgear"}** is a small, fiery gem set in a simple iron pendant, said to hold a fragment of his eternal flame; it protects against fire and lets the wearer ignite flames at will.
 
 ## The Clergy
 
 Every rung belongs to a forge-hov:
 
-- Refused the Blet: denied the offering at a forge-hov during its Fire-Weeks, and cut from the clergy and from the ordeal that proves devotion there.
+- Refused the Blet: denied the offering at a forge-hov during its [[lore-fireweeks|Fire-Weeks]], and cut from the clergy and from the ordeal that proves devotion there.
 - Bletmadr: attends the blet at a forge-hov and shares its ember-offering.
 - Hofsmadr: given to a forge-hov young, laboring at its bellows and its Fire-Weeks before any claim to the priesthood.
 - Gudi / Gudja: ordained to keep a forge-hov's rites and its Fire-Weeks.
@@ -85,13 +85,13 @@ The faith teaches fire manipulation and pyromancy, battle tactics and warfare, t
 
 ## Ceremonies and Festivals
 
-The low ceremony is the **Ash Offering**, in which the faithful give burned sacrifices to Svartbrandr and ask for strength and conquest of their enemies. The high ceremony is the **Ashen Walk**, where high priests cross hot coals or pass through flames to show their devotion and their immunity to fire.
+The low ceremony is the **[Ash Offering]{.name data-type="lore/custom"}**, in which the faithful give burned sacrifices to Svartbrandr and ask for strength and conquest of their enemies. The high ceremony is the **[Ashen Walk]{.name data-type="lore/custom"}**, where high priests cross hot coals or pass through flames to show their devotion and their immunity to fire.
 
-Three festivals mark the year. The [[lore-fireweeks|Fire-Weeks]] are the faith's defining ordeal, kept at a forge-hov and led at a season's turning by its Hofgudi or Hofgudja. The **Pyre's Awakening** is an annual celebration of fire and destruction, with great bonfires and spectacles of gladiatorial battle and ritual combat, sometimes involving wild beasts or captured thralls; enemies are often burned alive at these festivals. The **Forge's Fury** is dedicated to the making of weapons and armor, with competitions to see who can forge the finest pieces under Svartbrandr's guidance.
+Three festivals mark the year. The Fire-Weeks are the faith's defining ordeal, kept at a forge-hov and led at a season's turning by its Hofgudi or Hofgudja. The **[Pyre's Awakening]{.name data-type="lore/gathering"}** is an annual celebration of fire and destruction, with great bonfires and spectacles of gladiatorial battle and ritual combat, sometimes involving wild beasts or captured thralls; enemies are often burned alive at these festivals. The **[Forge's Fury]{.name data-type="lore/gathering"}** is dedicated to the making of weapons and armor, with competitions to see who can forge the finest pieces under Svartbrandr's guidance.
 
 ## Ordeals for Favor
 
-Two ordeals win his favor. In the **Firewalk** participants cross a bed of hot coals barefoot to prove their devotion. In the **Flame's Trial** the faithful must survive in a volcanic region, relying on Svartbrandr's protection to endure its heat and danger.
+Two ordeals are held to win his favor. In the **[Firewalk]{.name data-type="lore/custom"}** participants cross a bed of hot coals barefoot to prove their devotion. In the **[Flame's Trial]{.name data-type="lore/custom"}** the faithful must survive in a volcanic region, relying on Svartbrandr's protection to endure its heat and danger.
 
 ## See Also
 
