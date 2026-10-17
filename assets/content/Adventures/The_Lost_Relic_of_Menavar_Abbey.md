@@ -16,18 +16,18 @@ data:
 
 ## The Lost Relic of Ménavar Abbey
 
-An ancient relic of the Aureldian faith has been lost in the ruins of Ménavar Abbey, and both the Church and shadowy interests seek to recover it before the other.
+In The Lost Relic of Menavar Abbey, an ancient relic of one of the Aureldian faiths has been lost in the ruins of [[place-menavarabbey|Ménavar Abbey]], and both the church and shadowy interests seek to recover it before the other.
 
 ### Overview
 
-Ménavar Abbey, once a center of Aureldian learning and spiritual practice in [[place-provenzrgn|Provenzia Region]], was damaged centuries ago during the Nordheim raids and subsequently abandoned. A relic kept within its walls—rumored to have healing properties or arcane significance—has drawn the attention of both the formal Church hierarchy and the [[affiliation-ordoarcanis|Thordimalon]]. The party is hired (or compelled) to recover it before either institution monopolizes its power.
+Ménavar Abbey, once a center of Aureldian learning and spiritual practice in the [[place-provenzrgn|Provenzia Region]], was damaged centuries ago during [[lore-southrnfleets|The Southern Fleets]] (the Nordheim raids) and subsequently abandoned. A relic kept within its walls—rumored to have healing properties or arcane significance—has drawn the attention of both the formal church hierarchy and the [[affiliation-ordoarcanis|Thordimalon]]. The party is hired (or compelled) to recover it before either institution monopolizes its power.
 
 ### Stage One: The Commission
 
 The party is approached by one of several factions seeking the relic:
 
-- An Aureldian bishop or abbott who believes the relic belongs to the Church
-- An agent of the [[affiliation-ordoarcanis|Thordimalon]] tasked with "studying" the artifact
+- An Aureldian bishop or abbot who believes the relic belongs to the church
+- An agent of the Thordimalon tasked with "studying" the artifact
 - A noble house that claims historical custody of the relic
 - A mysterious collector who makes a substantial offer
 
@@ -35,7 +35,7 @@ The party is approached by one of several factions seeking the relic:
 
 - The relic's location within the abbey is uncertain (old maps conflict)
 - The abbey's ruins are dangerous—both from structural instability and other guardians
-- Previous expedition failed; some members returned mad or not at all
+- A previous expedition failed; some members returned mad or not at all
 - The abbey is said to be haunted by monks who died protecting it
 
 **NPCs:**
@@ -93,7 +93,7 @@ The party must navigate the abbey to locate the relic's chamber. Challenges incl
 
 - If the party succeeds, they must decide what to do with the relic
   - Return it to the hiring faction (creates enemies among rivals)
-  - Claim it (brings the [[affiliation-ordoarcanis|Thordimalon]] and Church down on them)
+  - Claim it (brings the Thordimalon and the church down on them)
   - Destroy or hide it (prevents anyone from misusing it, but angers the hiring authority)
 - The relic may be cursed, addictive, or carry unforeseen consequences
 - Previously hidden secrets of the abbey are revealed (historical knowledge, prophecies)
