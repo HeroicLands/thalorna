@@ -8,7 +8,7 @@ tags: [varokhi, epic, oral-tradition]
 data: {packFolder: vrystwald, culture: varokhiclt}
 ---
 
-_A fireside telling of [[being-vthargrmhlt|Vethar yra Thalruvan wur Grimholt]]. The singers of [[place-grimholt|Grimholt]] call this a tale, not a witness account; its details change from hearth to hearth._
+_The Sturgeon Road is a fireside telling of [[being-vthargrmhlt|Vethar yra Thalruvan wur Grimholt]]. The singers of [[place-grimholt|Grimholt]] call this a tale, not a witness account; its details change from hearth to hearth._
 
 ```prose {title="The Sturgeon Road"}
 At Grimholt, where the slow brown river bends,

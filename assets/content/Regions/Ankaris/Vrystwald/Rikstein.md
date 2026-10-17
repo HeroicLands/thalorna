@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-**Rikstein** (450 people) is a Varokh village of [[place-vandstein|Vandstein]] under the [[lore-hawkttm|hawk]], and its War Chief holds the leading seat. A ruined tower stands there among the stone shells the [[lore-legionsroad|Legions' Road]] left in the southern woods, and it tempts outsiders to claim the ground around it.
+**Rikstein** (450 people) is a Varokh village of [[place-vandstein|Vandstein]] under the [[lore-hawkttm|hawk]], and its War Chief holds the leading seat. A ruined tower stands there among the stone shells [[lore-legionsroad|The Legions' Road]] left in the southern woods, and it tempts outsiders to claim the ground around it.
 
 ## See Also
 

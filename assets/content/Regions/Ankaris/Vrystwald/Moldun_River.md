@@ -15,7 +15,7 @@ data:
 
 ## Overview
 
-The Moldún River is the southern bound of the [[affiliation-wldjgrrndgrskld|Garskald]] clan's hunting grounds in the central [[place-vrystwald|Vristwald]], with [[place-blackthornrdg|Blackthorn Ridge]] closing them to the north. Its crossings are where the clan hunts best: the [[place-swiftelkcamp|Swift-Elk Camp]], one of the Garskald's three seasonal camps, stands along the Moldún where the river crossings make good ambush points for the migrating herds.
+The Moldún River is the southern bound of the [Garskald]{.name data-type="affiliation/lineage"} clan's hunting grounds in the central [[place-vrystwald|Vristwald]], with [[place-blackthornrdg|Blackthorn Ridge]] closing them to the north. Its crossings are where the clan hunts best: the [[place-swiftelkcamp|Swift-Elk Camp]], one of the Garskald's three seasonal camps, stands along the Moldún where the river crossings make good ambush points for the migrating herds.
 
 ## The Logging Camp
 

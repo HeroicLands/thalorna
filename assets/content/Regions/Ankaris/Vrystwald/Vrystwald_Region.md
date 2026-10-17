@@ -26,18 +26,18 @@ data:
 
 ## Overview
 
-South and east of the [[place-nrdlndsrgn|Nordlands]] proper lies the roadless interior of Vristwald—the [[lore-varokhiclt|Varokh]] homeland of taiga, mixed forest, slow brown rivers, and lake systems. [[place-aureldirgn|Aureldia]] lies to its south and [[place-velanthrgn|Velanthia]] to its east. The Varokh, descendants of the Pelwar and of the Varkhad who conquered them, live in independent villages across the region: northern taiga clans whose lifeways are closer to the Nordmal than to their southern kindred; central forest-river villages that fish, farm in clearings, and trade along the rivers; and eastern frontier villages that deal with Velanthian grain-belt princes on terms ranging from cautious commerce to open raid. Vristwald is filled with dark pine and birch forests, fog-covered river valleys, and ancient ruins.
+South and east of the [[place-nrdlndsrgn|Nordlands Region]] proper lies the roadless interior of Vristwald—the [[lore-varokhiclt|Varokh]] homeland of taiga, mixed forest, slow brown rivers, and lake systems. The [[place-aureldirgn|Aureldia Region]] lies to its south and the [[place-velanthrgn|Velanthia Region]] to its east. The Varokh, descendants of the [[lore-pelwarpepl|Pelwar People]] and of the [Varkhad]{.name data-type="lore/folk"} who conquered them, live in independent villages across the region: northern taiga clans whose lifeways are closer to the Nordmal than to their southern kindred; central forest-river villages that fish, farm in clearings, and trade along the rivers; and eastern frontier villages that deal with Velanthian grain-belt princes on terms ranging from cautious commerce to open raid. Vristwald is filled with dark pine and birch forests, fog-covered river valleys, and ancient ruins.
 
 ## Geography
 
-Vristwald occupies the forest country between the Nordmal kingdoms of [[place-vithgard|Vithgard]] and [[place-nordheim|Nordheim]] to the north, Velanthia to the east, and [[place-tarvenirgn|Tarvénia]] and the [[affiliation-vylarinmpr|Vylarian Empire]]'s [[place-vylariargn|Vylaria]] to the south. It covers some eighty-five thousand square miles: a main block about 370 miles east to west and 300 north to south, and a western arm that runs another 250 miles along the north shore of the bay facing [[place-elavendre|Élavendre]]. The landscape is dominated by:
+Vristwald occupies the forest country between the Nordmal [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] and [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] to the north, Velanthia to the east, and the [[place-tarvenirgn|Tarvénia Region]] and the [[affiliation-vylarinmpr|Vylarian Empire]]'s [[place-vylariargn|Vylaria Region]] to the south. It covers some eighty-five thousand square miles: a main block about 370 miles east to west and 300 north to south, and a western arm that runs another 250 miles along the north shore of the bay facing [[place-elavendre|Élavendre]]. The landscape is dominated by:
 
 - The **northern taiga**—a belt of boreal forest of spruce, pine, fir, and birch along the Nordmal border, lightly populated by hunter-fisher-trapper Varokh clans whose lifeways look more taiga-clan than Nordmal. The taiga's furs are a major Vristwaldi export.
 - The **central mixed-forest belt**—the heartland: dense mixed woodlands of pine, spruce, oak, beech, and birch, broken by clearings, rivers, and the great inland lakes. Most of the Varokh population lives here, scattered across innumerable small forest-clearings and along the river-courses.
 - The [[place-vrystwldrvrs|great river systems]]—slow brown rivers that cross the interior and link its settlements. Some waters leave the forest to the west; others pass through neighboring lands toward the inland sea, which does not touch Vristwald. In winter the frozen rivers become highways for sleds and warbands.
-- The **eastern frontier**—the fluid border with [[place-velanthrgn|Velanthia]], where Vristwaldi forest gives way gradually to Velanthian grain-belt and the two cultures meet in mixed villages, intermarriage, and intermittent raids.
+- The **eastern frontier**—the fluid border with Velanthia, where Vristwaldi forest gives way gradually to Velanthian grain-belt and the two cultures meet in mixed villages, intermarriage, and intermittent raids.
 
-Five reaches describe the forest's different contacts: [[place-falkhaven|Falkhaven]] faces the western shore and Nordmal frontier; [[place-edrwald|Edrwald]] turns around the bay toward [[place-elavendre|Élavendre]]; [[place-thornwald|Thornwald]] meets Velanthia to the east; [[place-skathwald|Skathwald]] lies where Grukar nests grow more prevalent; and [[place-vandstein|Vandstein]] faces the southern highlands toward Vylaria. These are descriptions of ground and contact, not governments. [[place-vethwald|Vethwald]], the Deepwood, lies within the forest interior.
+Five reaches describe the forest's different contacts: [[place-falkhaven|Falkhaven]] faces the western shore and Nordmal frontier; [[place-edrwald|Edrwald]] turns around the bay toward Élavendre; [[place-thornwald|Thornwald]] meets Velanthia to the east; [[place-skathwald|Skathwald]] lies where Grukar nests grow more prevalent; and [[place-vandstein|Vandstein]] faces the southern highlands toward Vylaria. These are descriptions of ground and contact, not governments. [[place-vethwald|Vethwald]], the Deepwood, lies within the forest interior.
 
 The climate is harsh-continental: long bitter winters with deep snow, brief warm summers, distinct spring thaw and autumn freeze. Sunlight is filtered by the canopy through most of the year; the open river-valleys and the lake-shores get the direct sun the deep forest never sees.
 
@@ -46,15 +46,15 @@ The climate is harsh-continental: long bitter winters with deep snow, brief warm
 The Varokh call Vristwald their **primeval homeland** and defend it as one, and the claim is true—but
 it is true twice over, in two ways that ought to contradict each other and do not.
 
-The country was [[lore-pelwarpepl|Pelwar]] first. Those were peaceful people: herders and cultivators, tribal but not
+The country was Pelwar first. Those were peaceful people: herders and cultivators, tribal but not
 organized for conquest, and they had the forest and the rivers for a very long time before anyone
 disturbed them.
 
-Then the [[lore-varkhadcnq|Varkhad]] came out of the further east—a fierce people, kin to the
-ancestors of the [[place-khzryndsrtrgn|Khazryn]] desert folk—and took it. They did not exterminate the
+Then the Varkhad came out of the further east—a fierce people, kin to the
+ancestors of the desert folk of the [[place-khzryndsrtrgn|Khazryn Desert Region]]—and took it ([[lore-varkhadcnq|The Varkhad Conquest]]). They did not exterminate the
 Pelwar; over generations they **married into them**, until the two stocks could no longer be told apart
 and the result was the Varokh. The same process, further west and north, produced the
-[[place-nrdlndsrgn|Nordmen]].
+Nordmen.
 
 So a Varokh defending Vristwald against an invader is descended from the people who were here first
 **and** from the people who invaded them, and has no way of telling which ancestor is doing the
@@ -66,7 +66,7 @@ who conquered their other ancestors—which is the sort of observation an outsid
 Varokh hall, and does not make twice.
 
 It also explains a thing that puzzles Aureldian scholars: how the Varokh can be simultaneously descended from the people
-who **drove the [[lore-pelwarmigr|Pelwar Migration]]**—the great displacement that scattered Pelwar peoples across half a
+who **drove [[lore-pelwarmigr|The Pelwar Migration]]**—the great displacement that scattered Pelwar peoples across half a
 continent and eventually onto [[place-aelwyth|Aelwyth]]—and themselves descend from the Pelwar. Both are correct.
 The Varkhad drove out the Pelwar who would not stay, and the Varokh are the children of the Varkhad and the Pelwar who did.
 
@@ -74,12 +74,12 @@ The Varkhad drove out the Pelwar who would not stay, and the Varokh are the chil
 
 The Varokh keep no written history, and they count time by winters from the last thing every hearth remembers; [[lore-wintertally|The Tally of Winters]] sets out that count and the seven ages it divides into. The forest's past in brief:
 
-- **The Taking of the Wood (~1250 BF).** The mixed Varkhad–Pelwar host came in from the east and the Pelwar who would not stay were driven west along the bay ([[lore-takingwood|The Taking of the Wood]]).
-- **The Mound Centuries.** Twelve centuries of villages, totems and mounds, the custom of splitting at five hundred, and the first meeting with the Grukar in the country that has been called Skathwald since.
-- **The Legions' Road (~120–340 AF).** The Empire cut a road north out of Moktur, bought the War Chiefs nearest it, lost a legion at the Moldún ford in 291 and gave the road up ([[lore-legionsroad|The Legions' Road]], [[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]).
-- **The Southern Raiding (~340–660 AF).** The Three Winters sent the war-bands south for grain, one of them carried off a legion's eagle, and in the famine-emptied east the Skathwald villages burned a Grukar nest ([[lore-hungerraids|The Hunger Raids]], [[lore-grimakburning|The Burning at Grimak]], [[lore-princesfort|The Prince's Fort]]).
-- **The Thrall Rivers (660–708 AF).** Stormveld's demand for thralls made the rivers the forest's road to the world and Waldburg its market, and the western villages broke a Nordmal company of six hundred ([[lore-thrallrivers|The Thrall Rivers]], [[lore-stormhandfld|The Stormhand's Field]]).
-- **The Posts at Hrindstead (708 AF to now).** Nordheim settlers hold an Eichthúl grove, and the Sons of Eldheim burn villages on the western bay ([[lore-nalthmrktkng|The Nalthmark Land-Taking]], [[lore-westernshore|The Sons on the Western Shore]]).
+- **[[lore-takingwood|The Taking of the Wood]] (~1250 BF).** The mixed Varkhad–Pelwar host came in from the east and the Pelwar who would not stay were driven west along the bay ([[lore-takingwood|The Taking of the Wood]]).
+- **[The Mound Centuries]{.name data-type="lore/calendar"}.** Twelve centuries of villages, totems and mounds, the custom of splitting at five hundred, and the first meeting with the [[lore-grukarfolk|Grukar Folk]] in the country that has been called Skathwald since.
+- **[[lore-legionsroad|The Legions' Road]] (~120–340 AF).** The Empire cut a road north out of [[place-moktur|Moktur]], bought the War Chiefs nearest it, lost a legion at the [[place-moldunriver|Moldún River]] ford in 291 and gave the road up ([[lore-legionsroad|The Legions' Road]], [[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]).
+- **[The Southern Raiding]{.name data-type="lore/calendar"} (~340–660 AF).** [[lore-threewinters|The Three Winters]] sent the war-bands south for grain, one of them carried off a legion's eagle, and in the famine-emptied east the Skathwald villages burned a Grukar nest ([[lore-hungerraids|The Hunger Raids]], [[lore-grimakburning|The Burning at Grimak]], [[lore-princesfort|The Prince's Fort]]).
+- **[[lore-thrallrivers|The Thrall Rivers]] (660–708 AF).** The demand for thralls from the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] made the rivers the forest's road to the world and [[place-waldburg|Waldburg]] its market, and the western villages broke a Nordmal company of six hundred ([[lore-thrallrivers|The Thrall Rivers]], [[lore-stormhandfld|The Stormhand's Field]]).
+- **[The Posts at Hrindstead]{.name data-type="lore/calendar"} (708 AF to now).** Nordheim settlers hold an [Eichthúl]{.name data-type="affiliation/lineage"} grove, and [[affiliation-sonsmuspell|The Sons of Eldheim]] burn villages on the western bay ([[lore-nalthmrktkng|The Nalthmark Land-Taking]], [[lore-westernshore|The Sons on the Western Shore]]).
 
 The forest's two [[lore-bloodfield|blood-fields]] are [[place-skathhreth|Skathhreth]] and [[place-grimak|Grimak]].
 
@@ -92,14 +92,14 @@ forest and understand that the average is a lie in both directions.
 The taiga is sparsely inhabited by hunters, fishers and trappers; most people live in mixed-forest clearings and along river courses. The river landings and the [[place-thornwald|Velanthian reach]] draw more people than the deep interior. These patterns cross the five frontier reaches rather than defining village governments of their own.
 
 That is a **small** people by any standard an Aureldian would apply—a fraction of what the
-[[place-nrdlndsrgn|Nordlands]] carry, and a rounding error beside the grain kingdoms of the west. The
+Nordlands carry, and a rounding error beside the grain kingdoms of the west. The
 Varokh are not numerous. They have never been numerous.
 
 It is also, man for man, the most dangerous population in the north—and the people best placed to
-judge that say so themselves. The [[place-nrdlndsrgn|Nordmen]] are feared along every coast within
+judge that say so themselves. The Nordmen are feared along every coast within
 reach of a longship, and the [[lore-nordheimnclt|Nordmen]] regard the Varokh as **worse**: harder, less reachable, and less
 inclined to stop. That is not a concession Nordmen make about anybody, and they make it about these
-neighbors without argument. It is the [[lore-varkhadcnq|Varkhad]] half talking, two thousand years on.
+neighbors without argument. It is the Varkhad half talking, two thousand years on.
 
 And the numbers have never made the slightest difference, because numbers are not what has beaten every
 army sent in here. **There is nothing to capture.** No capital, no heartland, no field the Varokh have to hold and
@@ -123,7 +123,7 @@ Good trade draws people to a landing, portage, confluence or crossing, but a vil
 growing. Above 500, the three elders could no longer govern directly; someone would have to answer to
 someone between them and the people. The Varokh refuse that hierarchy. Instead the village splits, and
 a daughter village of its own kin takes ground the parent once used. That division often gives the two
-villages their first feud. [[place-waldburg|Waldburg]], with 800 people at its river crossing, is the
+villages their first feud. Waldburg, with 800 people at its river crossing, is the
 conspicuous exception whose strained triad must be understood on its own terms. The repeated split,
 rather than growth into towns, makes Vristwald a country of many villages and no urban centre.
 
@@ -211,20 +211,20 @@ It would be strange if they did not. They raid, and raiding produces captives as
 cattle; their northeastern frontier meets the [[place-velanthrgn|Velanthian]]
 grain-belt, which is full of villages worth raiding; the rivers that carry their furs run straight to
 markets in every direction; and the best customers in the world are their immediate neighbors. The
-[[place-nrdlndsrgn|Nordmen]] run a thrall economy—the Jarldom of
-[[affiliation-jrldmstrmvld|Stormveld]] alone works a hundred and twenty thousand of them—and they buy.
+Nordmen run a thrall economy—the Jarldom of
+Stormveld alone works a hundred and twenty thousand of them—and they buy.
 
 The shape of the trade follows from having no cities. The Varokh are not a plantation society and could
 not be: a village keeps a few captives to work and to marry into, and everything else goes **down the
 river**. Vristwald is a **conduit** rather than a destination—people taken on the Velanthian frontier or
 off a raided coast, moved by water, and sold on to Nordmen buyers, to eastern traders working up from the
-[[place-khzryndsrtrgn|Khazryn]] margins, and through enough intermediaries that the eventual purchaser is
+Khazryn margins, and through enough intermediaries that the eventual purchaser is
 seldom aware of where the goods entered the system.
 
 The Aureldian kingdoms deplore this and buy the furs, which travel the same rivers in the same boats.
 
 There is an irony in it that nobody in Vristwald has ever been in a position to appreciate. The Varokh
-exist because the [[lore-varkhadcnq|Varkhad]] conquered the Pelwar and drove the survivors west, south and east in the
+exist because the Varkhad conquered the Pelwar and drove the survivors west, south and east in the
 Migration. Two thousand years on, their descendants make a living moving displaced people down the same
 rivers.
 
@@ -240,7 +240,7 @@ good many, and they are worked hard and are not, in the ordinary case, going any
 practices it, is judged on it, and spends the working life an Aureldian peasant gives to the plow
 giving it to weapons instead—because there are slaves to do the plowing.
 
-This is the real answer to why the Varokh are fiercer than the [[place-nrdlndsrgn|Nordmen]], and it is
+This is the real answer to why the Varokh are fiercer than the Nordmen, and it is
 not temperament. A Nordman is a farmer and fisherman who raids in season. A Varokh warrior is a warrior,
 and has been since he was old enough to hold something. The difference is not courage. It is **hours**.
 
@@ -284,16 +284,16 @@ Neither half has ever managed without the other, and neither has ever been fooli
 The north holds three peoples who are all, in their different ways, frightening, and the difference
 between them is not courage. It is **how much of themselves they can bring to one place at one time**.
 
-- The [[lore-grukarfolk|Grukar]] of [[place-grkrhlmrgn|Grukarholm]] cannot concentrate at all. Ahks do
+- The Grukar of the [[place-grkrhlmrgn|Grukarholm Region]] cannot concentrate at all. Ahks do
   not cooperate, so fifty thousand of them are fifty thousand in scores of tribes that will never combine.
   Permanently terrifying at a frontier; permanently incapable of taking anything.
 - The [[lore-varokhiclt|Varokh]] concentrate as far as tribes and war-bands allow, and no further. They can put a
   frightening number of extremely dangerous people into a forest, and they cannot put an army into a field
   and keep it there for a season. So they are unconquerable and not expansionist—a people nobody can
   beat and who cannot, in the ordinary sense, win.
-- The [[place-nrdlndsrgn|Nordmen]] are less fierce than the Varokh and vastly more organized: five
+- The Nordmen are less fierce than the Varokh and vastly more organized: five
   kingdoms, jarls, a ting, and above all **fleets**. Which is why it is the Nordmen and not the Varokh who
-  crossed open water, took a fifth of [[place-aelwyth|Aelwyth]] and are still holding it sixty years later.
+  crossed open water, took a fifth of Aelwyth and are still holding it sixty years later.
 
 Ferocity decides who wins the fight. Concentration decides who keeps the ground. Vristwald has an
 abundance of the first and a permanent shortage of the second, and the result is a country that has

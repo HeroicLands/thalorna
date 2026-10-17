@@ -14,7 +14,7 @@ data:
 
 ## The Deepwood
 
-Vethwald is the Deepwood: an old stand within Vristwald's central mixed forest where the canopy admits little light even in midsummer. It is a forest feature rather than a province. Its trees and paths do not mark the reach of any council, and the ecological belt around it crosses the frontier regions rather than replacing them.
+Vethwald is the Deepwood: an old stand within [[place-vrystwald|Vristwald]]'s central mixed forest where the canopy admits little light even in midsummer. It is a forest feature rather than a province. Its trees and paths do not mark the reach of any council, and the ecological belt around it crosses the frontier regions rather than replacing them.
 
 [[place-dunkelwald|Dunkelwald]] lives under that canopy. Its old rites have lasted in part because a journey out through the trees takes time and neighboring villages cannot readily oversee what is kept here. People beyond the Deepwood speak of ancient powers within it; the people who live there know the practical cost of moving, hunting and finding a path without direct sun.
 

@@ -17,11 +17,11 @@ data:
 
 ## Roads of Water
 
-Vristwald's rivers cross the taiga and mixed-forest belts as well as the frontier reaches. Their slow water links clearings, lakes, landings and the markets beyond the forest. There is no single river authority and no one village at their center. Each landing answers to its own elders, while boats and traders connect them in practice.
+The Vristwald Rivers cross the taiga and mixed-forest belts of [[place-vrystwald|Vristwald]] as well as the frontier reaches. Their slow water links clearings, lakes, landings and the markets beyond the forest. There is no single river authority and no one village at their center. Each landing answers to its own elders, while boats and traders connect them in practice.
 
-Furs come down from sparse northern trap grounds. Goods from [[place-velanthrgn|Velanthia]] move back up toward river villages such as [[place-grimholt|Grimholt]] and the crossing at [[place-waldburg|Waldburg]]. A river party may cover ground much faster than walkers in summer. Spring thaw can stop both, and winter ice turns the same channels into sled and war-band roads.
+Furs come down from sparse northern trap grounds. Goods from the [[place-velanthrgn|Velanthia Region]] move back up toward river villages such as [[place-grimholt|Grimholt]] and the crossing at [[place-waldburg|Waldburg]]. A river party may cover ground much faster than walkers in summer. Spring thaw can stop both, and winter ice turns the same channels into sled and war-band roads.
 
-Some waters leave Vristwald to the west; others pass through neighboring lands and may ultimately reach the great inland sea. That sea lies beyond Velanthia and [[place-grkrhlmrgn|Grukarholm]]. Vristwald has no shore on it and no direct outlet within its own bounds.
+Some waters leave Vristwald to the west; others pass through neighboring lands and may ultimately reach the great inland sea. That sea lies beyond Velanthia and the [[place-grkrhlmrgn|Grukarholm Region]]. Vristwald has no shore on it and no direct outlet within its own bounds.
 
 ## See Also
 

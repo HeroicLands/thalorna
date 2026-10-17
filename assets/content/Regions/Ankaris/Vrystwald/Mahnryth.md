@@ -16,9 +16,9 @@ data:
 
 ## Overview
 
-**Mahnreth** (240 people) is a Varokh village of [[place-skathwald|Skathwald]], and its name means the clearing of the kinsmen. The survivors of three villages that a Grukar tribe took in one winter walked west under Mahnilda yra Erthrúnd wur Mahnreth, a household mistress of one of them, and cut the clearing a day's walk from the nearest village; [[lore-grimakburning|The Burning at Grimak]] tells the whole of it. The Other Chief holds its leading seat, and the village keeps the [[lore-rabbitttm|rabbit]] as its totem.
+**Mahnreth** (240 people) is a Varokh village of [[place-skathwald|Skathwald]], and its name means the clearing of the kinsmen. The survivors of three villages that a Grukar tribe took in one winter walked west under [Mahnilda yra Erthrúnd wur Mahnreth]{.name data-type="being/npc"}, a household mistress of one of them, and cut the clearing a day's walk from the nearest village; [[lore-grimakburning|The Burning at Grimak]] tells the whole of it. The Other Chief holds its leading seat, and the village keeps the [[lore-rabbitttm|rabbit]] as its totem.
 
-The village sings its lament at the turning of the seasons beside [[place-mahnhrom|Mahnhrum]], the empty mound it raised for the people the [[lore-grukarfolk|Grukar]] took, and it does not sing at [[place-grimak|Grimak]], the thicket a day's walk east. Its old people can still say which of the three lost villages their kindred came from.
+The village sings its lament at the turning of the seasons beside [[place-mahnhrom|Mahnhrum]], the empty mound it raised for the people the [[lore-grukarfolk|Grukar Folk]] took, and it does not sing at [[place-grimak|Grimak]], the thicket a day's walk east. Its old people can still say which of the three lost villages their kindred came from.
 
 ## See Also
 
