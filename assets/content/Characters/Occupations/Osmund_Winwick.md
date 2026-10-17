@@ -400,9 +400,9 @@ Hildstan Winwik is a 33-year-old man who stands 5'8" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Hildstan Winwik is a mercantyler (supercargo).
+Born in the [[place-aelwyth|Aelwyth]] region to a noble family of [[lore-aelwythanclt|Aelwythan]] heritage, Hildstan Winwik is a mercantyler (supercargo).
 
-Hildstan is a seasoned mercantyler specializing in ocean trade. As a supercargo, he oversees the cargo on ships, ensuring that goods are loaded, unloaded, and transported safely. With years of experience sailing between ports, Hildstan has developed a understanding of maritime laws and trade routes. He is respected in the mercantile community for his negotiation skills and ability to resolve disputes.
+Hildstan is a seasoned mercantyler specializing in ocean trade. As a supercargo, he oversees the cargo on ships, ensuring that goods are loaded, unloaded, and transported safely. With years of experience sailing between ports, Hildstan has developed an understanding of maritime laws and trade routes. He is respected in the mercantile community for his negotiation skills and ability to resolve disputes.
 
 ## Psyche
 
@@ -420,7 +420,7 @@ Knowledgeable about maritime trade, excellent negotiator, good leadership skills
 
 ## Social
 
-Hildstan is affiliated with Local Merchant's Guild.
+Hildstan is affiliated with the local [Merchant's Guild]{.name data-type="affiliation/guild"}.
 
 ## Companions
 

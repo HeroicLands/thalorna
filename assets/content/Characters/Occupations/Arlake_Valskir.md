@@ -399,9 +399,9 @@ Arlake Valskir is a 38-year-old man who stands 6'1" tall and is broad and solidl
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia]] region to a freeman family of Provenzian heritage, Arlake Valskir came into the world of the animal trainer through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia Region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Arlake Valskir came into the world of the animal trainer through a combination of circumstance and aptitude.
 
-A rugged animal trainer who works with hunting dogs. Braden has a talent for taming wild beasts and often participates in local hunts.
+A rugged animal trainer who works with hunting dogs. Arlake has a talent for taming wild beasts and often participates in local hunts.
 
 ## Psyche
 
@@ -419,7 +419,7 @@ Great rapport with animals, strong endurance.
 
 ## Social
 
-Arlake is affiliated with Hunter's Guild.
+Arlake is affiliated with the [Hunter's Guild]{.name data-type="affiliation/guild"}.
 
 As a Provenzian animal trainer, Arlake occupies a recognized social niche within Provenzia society.
 
@@ -427,7 +427,7 @@ As a Provenzian animal trainer, Arlake occupies a recognized social niche within
 
 ### Patrons
 
-Arlake's primary patron is Local lord who provides animals for training. This relationship provides both opportunity and obligation.
+Arlake's primary patron is a local lord who provides animals for training. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

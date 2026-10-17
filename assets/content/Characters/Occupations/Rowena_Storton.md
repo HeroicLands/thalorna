@@ -396,7 +396,7 @@ Rowena Storton is a 28-year-old woman who stands 5'7" tall and is slender. She h
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage, Rowena Storton is an animal trainer.
+Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of [[lore-aelwythanclt|Aelwythan]] heritage, Rowena Storton is an animal trainer.
 
 Rowena trains exotic birds for a noble family. She is skilled at teaching them tricks and mimicking sounds, and often accompanies her employers to social events.
 
@@ -416,7 +416,7 @@ Skilled with training small animals, particularly birds.
 
 ## Social
 
-Rowena is affiliated with Urban Animal Trainers' Guild.
+Rowena is affiliated with the [Urban Animal Trainers' Guild]{.name data-type="affiliation/guild"}.
 
 ## Companions
 
@@ -426,7 +426,7 @@ A noble family hires Rowena to train its exotic birds.
 
 ### Enemies
 
-Rowena has managed to avoid making serious enemies, though the nature of his work means this may not last.
+Rowena has managed to avoid making serious enemies, though the nature of her work means this may not last.
 
 ## Plot Hooks
 

@@ -397,7 +397,7 @@ Tanadan Helaruni is a 36-year-old man who stands 5'8" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the Taruzel region to a guilded family of Taruzelian heritage, Tanadan Helaruni came into the world of the locksmith through a combination of circumstance and aptitude.
+Born in the [[place-taruzelrgn|Taruzel Region]] to a guilded family of [[lore-taruzelianclt|Taruzelian]] heritage, Tanadan Helaruni came into the world of the locksmith through a combination of circumstance and aptitude.
 
 Tanadan is a skilled locksmith known for his craftsmanship and attention to detail. He has been in the business for over twenty years, specializing in creating high-security locks for nobles and wealthy merchants. Tanadan takes pride in his work and is known for his integrity, often refusing to create locks that can be easily picked.
 
@@ -417,7 +417,7 @@ Highly skilled craftsman, knowledgeable about security systems, trustworthy.
 
 ## Social
 
-Tanadan is affiliated with Local Locksmiths' Guild.
+Tanadan is affiliated with the local [Locksmiths' Guild]{.name data-type="affiliation/guild"}.
 
 As a Taruzelian locksmith, Tanadan occupies a recognized social niche within Taruzel society.
 
@@ -425,7 +425,7 @@ As a Taruzelian locksmith, Tanadan occupies a recognized social niche within Tar
 
 ### Patrons
 
-Tanadan's primary patron is Nobles and local businesses seeking secure locking mechanisms. This relationship provides both opportunity and obligation.
+Tanadan's primary patrons are nobles and local businesses seeking secure locking mechanisms. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

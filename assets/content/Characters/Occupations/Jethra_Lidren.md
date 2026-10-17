@@ -399,7 +399,7 @@ Jethra Lidren is a 39-year-old woman who stands 5'6" tall and is slender. She ha
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Jethra Lidren came into the world of the astrologer through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a guilded family of [[lore-elavendriclt|Élavendri]] heritage, Jethra Lidren came into the world of the astrologer through a combination of circumstance and aptitude.
 
 Jethra grew up in a port city, where she developed a fascination with the night sky while watching ships navigate by the stars. She became an astrologer to provide guidance to sailors and merchants. Known for her practical and down-to-earth readings, she is popular among the seafaring community. She sometimes assists in navigation for long voyages.
 
@@ -419,15 +419,15 @@ Excellent at interpreting omens related to travel and trade.
 
 ## Social
 
-Jethra is affiliated with Navigators' Guild.
+Jethra is affiliated with the [Navigators' Guild]{.name data-type="affiliation/guild"}.
 
-As a Élavendri astrologer, Jethra occupies a recognized social niche within Élavendre society.
+As an Élavendri astrologer, Jethra occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Jethra's primary patron is Merchants and sailors who seek her advice. This relationship provides both opportunity and obligation.
+Jethra's primary patrons are merchants and sailors who seek her advice. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

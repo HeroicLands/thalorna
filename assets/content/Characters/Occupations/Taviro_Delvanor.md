@@ -396,7 +396,7 @@ Taviro Delvanor is a 22-year-old man who stands 6'2" tall and is broad and solid
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Taviro Delvanor is a common seaman.
+Born in the [[place-tarvenirgn|Tarvénia Region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Taviro Delvanor is a common seaman.
 
 Taviro has always loved the sea, and has worked as a seaman since he was a teenager. Known for his strength and stamina, he excels at the heavy work of a ship, hoisting sails and loading cargo. He is a reliable crewman who values the fellowship of his shipmates. He dreams of one day sailing to distant lands and seeing other peoples.
 

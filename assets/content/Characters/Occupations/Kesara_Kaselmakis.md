@@ -392,7 +392,7 @@ Kesara Kaselmakis is a 29-year-old woman who stands 5'4" tall and is slender. Sh
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria]] region to a freeman family of Vylarian heritage, Kesara Kaselmakis came into the world of the thespian through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria Region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Kesara Kaselmakis came into the world of the thespian through a combination of circumstance and aptitude.
 
 Kesara began her acting career as a street performer before being discovered by a theater director. She quickly rose to prominence, known for her ability to shift seamlessly between comedic and dramatic roles. Her performances are marked by a raw intensity that draws audiences in, but offstage, she struggles with bouts of loneliness and self-doubt.
 
@@ -412,7 +412,7 @@ Versatile actress, skilled at improvisation, strong emotional range.
 
 ## Social
 
-Kesara is affiliated with City Theater Company.
+Kesara is affiliated with the [City Theater Company]{.name data-type="affiliation/venture"}.
 
 As a Vylarian thespian, Kesara occupies a recognized social niche within Vylaria society.
 
@@ -420,7 +420,7 @@ As a Vylarian thespian, Kesara occupies a recognized social niche within Vylaria
 
 ### Patrons
 
-Kesara's primary patron is Theater enthusiasts and local nobles who attend her performances. This relationship provides both opportunity and obligation.
+Kesara's primary patrons are theater enthusiasts and local nobles who attend her performances. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

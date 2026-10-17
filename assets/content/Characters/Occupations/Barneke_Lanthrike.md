@@ -396,7 +396,7 @@ Barneke Lantrike is a 40-year-old man who stands 5'11" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia]] region to a guilded family of Provenzian heritage, Barneke Lantrike came into the world of the bard through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia Region]] to a guilded family of [[lore-provenzianclt|Provenzian]] heritage, Barneke Lantrike came into the world of the bard through a combination of circumstance and aptitude.
 
 Barneke has been a bard for over twenty years, gaining a reputation for his adventurous spirit and compelling stories. He travels widely, seeking new tales and experiences to share in his performances. Barneke often acts as a mediator or diplomat, using his skills in persuasion to resolve disputes. Though respected, he sometimes exaggerates his stories for effect.
 
@@ -416,7 +416,7 @@ Charismatic, experienced traveler, skilled diplomat.
 
 ## Social
 
-Barneke is affiliated with Bardic College.
+Barneke is affiliated with the [Bardic College]{.name data-type="affiliation"}.
 
 As a Provenzian bard, Barneke occupies a recognized social niche within Provenzia society.
 
@@ -424,7 +424,7 @@ As a Provenzian bard, Barneke occupies a recognized social niche within Provenzi
 
 ### Patrons
 
-Barneke's primary patron is Nobles and merchants who appreciate his storytelling. This relationship provides both opportunity and obligation.
+Barneke's primary patrons are nobles and merchants who appreciate his storytelling. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

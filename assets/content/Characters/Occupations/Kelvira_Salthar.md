@@ -398,7 +398,7 @@ Kélvira Salthar is a 42-year-old woman who stands 5'5" tall and is slender. She
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Kélvira Salthar came into the world of the bureaucrat through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a guilded family of [[lore-elavendriclt|Élavendri]] heritage, Kélvira Salthar came into the world of the bureaucrat through a combination of circumstance and aptitude.
 
 Kélvira comes from a family of civil servants and followed in their footsteps, working in the city’s treasury department. Known for her sharp mind and eye for detail, she has uncovered several cases of embezzlement. Her dedication to rooting out corruption has made her a few enemies among the more unscrupulous officials.
 
@@ -418,15 +418,15 @@ Skilled in accounting and detecting financial irregularities.
 
 ## Social
 
-Kélvira is affiliated with Treasury Department.
+Kélvira is affiliated with the treasury department.
 
-As a Élavendri bureaucrat, Kélvira occupies a recognized social niche within Élavendre society.
+As an Élavendri bureaucrat, Kélvira occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Kélvira's primary patron is The head of the treasury department who values her skills. This relationship provides both opportunity and obligation.
+Kélvira's primary patron is the head of the treasury department who values her skills. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

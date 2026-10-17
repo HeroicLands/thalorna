@@ -399,7 +399,7 @@ Ilthvir Bletholl is a 32-year-old man who stands 6'1" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Ilthvir Bletholl is a yeoman archer.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of [[lore-nordheimnclt|Nordheimn]] heritage, Ilthvir Bletholl is a yeoman archer.
 
 Ilthvir has always had a knack for archery, learning to hunt with a bow from a young age. His skill with a longbow earned him a place among the local lord’s yeomen. Known for his accuracy and steady hand, he has made a name for himself as one of the best archers in the region. He often goes out as a scout and marksman, and prefers to keep his distance from the press of melee.
 

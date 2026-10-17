@@ -396,7 +396,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a noble family of Élavendri heritage, Émina Othral came into the world of the courtesan through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a noble family of [[lore-elavendriclt|Élavendri]] heritage, Émina Othral came into the world of the courtesan through a combination of circumstance and aptitude.
 
 Émina is the daughter of a minor noble, but scandal forced her to leave her family and seek a living on her own terms. She became a courtesan, known for her grace and intellect, often entertaining clients who appreciate her conversation as much as her beauty. Émina maintains connections with high society, though she is cautious not to overstep boundaries that could reignite the scandal.
 
@@ -416,15 +416,15 @@ Graceful, intelligent, skilled at handling social situations.
 
 ## Social
 
-Émina is affiliated with Informal network of high-society courtesans.
+Émina is affiliated with an informal network of high-society courtesans.
 
-As a Élavendri courtesan, Émina occupies a recognized social niche within Élavendre society.
+As an Élavendri courtesan, Émina occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Émina's primary patron is Wealthy intellectuals and nobles who enjoy her company. This relationship provides both opportunity and obligation.
+Émina's primary patrons are wealthy intellectuals and nobles who enjoy her company. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

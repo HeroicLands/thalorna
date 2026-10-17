@@ -397,7 +397,7 @@ Harwald Helmsley is a 45-year-old man who stands 6'3" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a peasant family of Aelwythan heritage, Harwald Helmsley is an animal trainer.
+Born in the [[place-aelwyth|Aelwyth]] region to a peasant family of [[lore-aelwythanclt|Aelwythan]] heritage, Harwald Helmsley is an animal trainer.
 
 Harwald grew up on a farm and has spent his life training draft animals. Known for his patience, he is called upon when unruly horses or oxen need breaking in.
 
@@ -417,7 +417,7 @@ Calm demeanor, knowledgeable about farm animals.
 
 ## Social
 
-Harwald is affiliated with Farmers' Cooperative.
+Harwald is affiliated with the [Farmers' Cooperative]{.name data-type="affiliation"}.
 
 ## Companions
 

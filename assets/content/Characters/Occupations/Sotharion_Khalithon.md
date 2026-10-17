@@ -399,7 +399,7 @@ Sotharion Khalithon is a 44-year-old man who stands 6'2" tall and is broad and s
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a noble family of Helionite heritage, Sotharion Khalithon is a lord who holds his lands as a tenant-in-chief.
+Born in the [[place-helionis|Helionis]] region to a noble family of [[lore-helioniteclt|Helionite]] heritage, Sotharion Khalithon is a lord who holds his lands as a tenant-in-chief.
 
 Lord Sotharion is a powerful lord who oversees vast lands and is known for his military prowess. He has earned the loyalty of his vassals through his just rulership and his skill in war. He is dedicated to protecting his domain from threats and is often seen leading his men into battle. His strong sense of duty and honor has made him a respected figure among both his peers and the common folk.
 
@@ -419,7 +419,7 @@ He is a strong military leader, a clear-headed planner, and a respected authorit
 
 ## Social
 
-Sotharion sits on the Local Nobility Council.
+Sotharion sits on the local [Nobility Council]{.name data-type="affiliation/governmental"}.
 
 ## Companions
 

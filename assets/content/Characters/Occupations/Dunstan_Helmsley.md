@@ -394,7 +394,7 @@ Harstan Helmsley is a 49-year-old man who stands 6'5" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Harstan Helmsley is a chieftain.
+Born in the [[place-aelwyth|Aelwyth]] region to a noble family of [[lore-aelwythanclt|Aelwythan]] heritage, Harstan Helmsley is a chieftain.
 
 Harstan, known as "Helmsley" for his immense strength, leads a clan that values martial prowess above all. He gained his title through numerous feats of strength and skill in combat. Though he is a fierce warrior, Harstan struggles with diplomacy, often letting his temper dictate his actions.
 
@@ -414,7 +414,7 @@ Exceptional strength and combat skills, commands respect from warriors.
 
 ## Social
 
-Harstan is affiliated with Warrior's Circle.
+Harstan is affiliated with the [Warrior's Circle]{.name data-type="affiliation"}.
 
 ## Companions
 

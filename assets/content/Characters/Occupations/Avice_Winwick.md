@@ -396,7 +396,7 @@ Avis Winwik is a 26-year-old woman who stands 5'10" tall and is slender. She has
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Avis Winwik is a mercantyler who sails as a supercargo.
+Born in the [[place-aelwyth|Aelwyth]] region to a noble family of [[lore-aelwythanclt|Aelwythan]] heritage, Avis Winwik is a mercantyler who sails as a supercargo.
 
 Avis has a background in maritime trade and has spent years as a supercargo for a major trading company. She is adept at managing cargo and seeing that every transaction goes smoothly. She is known for her head for business and her ability to adapt to changing markets. Clients and colleagues alike respect her for her honesty and reliability.
 
@@ -416,7 +416,7 @@ She is skilled in the management of cargo and in trade negotiation, adaptable, a
 
 ## Social
 
-Avis belongs to the Local Merchant's Guild.
+Avis belongs to the local [Merchant's Guild]{.name data-type="affiliation/guild"}.
 
 ## Companions
 

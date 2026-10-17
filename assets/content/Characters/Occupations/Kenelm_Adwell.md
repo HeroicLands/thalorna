@@ -395,7 +395,7 @@ Kenmund Adwell is a 36-year-old man who stands 6'2" tall and is broad and solidl
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Kenmund Adwell is a caravan guard.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Kenmund Adwell is a caravan guard.
 
 Kenmund is a seasoned caravan guard with decades of experience. He has seen many dangers on the road and has learned to anticipate threats. His strong leadership skills make him an excellent choice for overseeing caravan security. Kenmund believes in camaraderie and often shares stories and strategies with younger guards to help them grow in their roles.
 
@@ -415,7 +415,7 @@ Highly experienced, good leader, skilled in close combat.
 
 ## Social
 
-Kenmund is affiliated with Local Mercenaries' Guild.
+Kenmund is affiliated with the local [Mercenaries' Guild]{.name data-type="affiliation/guild"}.
 
 ## Companions
 

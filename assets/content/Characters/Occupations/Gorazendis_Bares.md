@@ -396,9 +396,9 @@ Gorazendis Bares is a 23-year-old woman who stands 5'10" tall and is slender. Sh
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria]] region to a freeman family of Vylarian heritage, Gorazendis Bares is a locksmith.
+Born in the [[place-vylariargn|Vylaria Region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Gorazendis Bares is a locksmith.
 
-Gorazendis is a talented locksmith with secret ties to the Velvet Hand. She uses her skills to make locks that are both beautiful and functional, often with hidden mechanisms that only a few know about. While she runs a legitimate locksmith's shop, her connections to the Velvet Hand let her provide unusual services to those in the underworld. She walks the line between legality and crime, using her talents to get by.
+Gorazendis is a talented locksmith with secret ties to [[affiliation-velvethand|The Velvet Hand]]. She uses her skills to make locks that are both beautiful and functional, often with hidden mechanisms that only a few know about. While she runs a legitimate locksmith's shop, her connections to the Velvet Hand let her provide unusual services to those in the underworld. She walks the line between legality and crime, using her talents to get by.
 
 ## Psyche
 

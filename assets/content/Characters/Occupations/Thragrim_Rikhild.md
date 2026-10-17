@@ -396,7 +396,7 @@ Thragrim yra Rikhild wur Falkenstein is a 48-year-old man who stands 6'3" tall a
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Thragrim is a timberwright.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Thragrim is a timberwright.
 
 Thragrim has spent most of his life working in the forests, felling trees and shaping timber for building. He learned the trade from his father and has a reputation for skill and quick work. He is a hardworking man who takes pride in his craft, but his rough manner can be off-putting. He often works alone, preferring the solitude of the woods to the bustle of the village.
 
@@ -416,7 +416,7 @@ He is skilled in felling trees, experienced in working timber, and physically st
 
 ## Social
 
-Thragrim chooses and shapes timber near Falkenstein for households that ask for his work. A carpenter may join him on a job, but no timberwrights’ guild owns the forest or judges his craft.
+Thragrim chooses and shapes timber near [[place-falkensten|Falkenstein]] for households that ask for his work. A carpenter may join him on a job, but no timberwrights’ guild owns the forest or judges his craft.
 
 ## Companions
 

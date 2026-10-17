@@ -397,7 +397,7 @@ Chánnaon Habiles is a 53-year-old man who stands 6'0" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Chánnaon Habiles came into the world of the timberwright through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Chánnaon Habiles came into the world of the timberwright through a combination of circumstance and aptitude.
 
 Chánnaon has been a timberwright for over three decades, providing wood for countless homes, bridges, and ships. Known for his storytelling as much as his woodwork, he often mentors younger timberwrights. Though age has slowed him down, his experience allows him to complete difficult tasks that others avoid. Chánnaon is stubborn about using traditional techniques and has little patience for newfangled methods.
 
@@ -417,7 +417,7 @@ Vast experience, skilled in traditional techniques, good teacher.
 
 ## Social
 
-Chánnaon is affiliated with Timberwrights' Guild.
+Chánnaon is affiliated with the [Timberwrights' Guild]{.name data-type="affiliation/guild"}.
 
 As a Helionite timberwright, Chánnaon occupies a recognized social niche within Helionis society.
 
@@ -425,7 +425,7 @@ As a Helionite timberwright, Chánnaon occupies a recognized social niche within
 
 ### Patrons
 
-Chánnaon's primary patron is Builders and craftsmen who value his expertise. This relationship provides both opportunity and obligation.
+Chánnaon's primary patrons are builders and craftsmen who value his expertise. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

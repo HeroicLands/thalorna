@@ -398,7 +398,7 @@ Murvir Hrafnsvald is a 44-year-old man who stands 5'10" tall and is broad and so
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a guilded family of Nordheimn heritage, Murvir Hrafnsvald is a jeweler.
+Born in the [[place-nordheim|Nordheim]] region to a guilded family of [[lore-nordheimnclt|Nordheimn]] heritage, Murvir Hrafnsvald is a jeweler.
 
 Murvir has spent more than two decades in the jewelry trade, honing his skill at both traditional and newer pieces. He has a reputation for valuing gemstones well and negotiating prices hard. He runs a successful shop that draws clients from nobles to common folk, and for all his success he enjoys teaching young apprentices the craft.
 
@@ -418,7 +418,7 @@ He is experienced, an excellent negotiator, and skilled in both design and craft
 
 ## Social
 
-Murvir belongs to the local Jewelers' Guild.
+Murvir belongs to the local [Jewelers' Guild]{.name data-type="affiliation/guild"}.
 
 ## Companions
 

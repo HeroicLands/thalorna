@@ -400,7 +400,7 @@ Rasunum Gatituni is a 53-year-old man who stands 5'4" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the Taruzel region to a guilded family of Taruzelian heritage, Rasunum Gatituni is a bureaucrat.
+Born in the [[place-taruzelrgn|Taruzel Region]] to a guilded family of [[lore-taruzelianclt|Taruzelian]] heritage, Rasunum Gatituni is a bureaucrat.
 
 Rasunum has worked in the city’s administrative offices for over three decades, climbing the ranks through diligence and a feel for the politics of the bureaucracy. He is known for his exact record-keeping and strict adherence to procedure, though the years have left him jaded and weary of corruption in the higher offices.
 

@@ -397,7 +397,7 @@ Othwin yra Domhár wur Falkholt is a 52-year-old man who stands 6'0" tall and is
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Othwin is a trapper.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Othwin is a trapper.
 
 Othwin has lived in the woods his entire life, learning to trap animals for food and furs from his grandfather. He is a grizzled veteran of the trade, well versed in the habits of forest creatures. His experience lets him find animals that others cannot, and he is often sent for to track dangerous predators. His gruff nature can be intimidating, but he is loyal to those who earn his trust.
 

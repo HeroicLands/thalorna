@@ -395,7 +395,7 @@ Hushaduya Kusaduni is a 33-year-old woman who stands 5'8" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the Taruzel region to a freeman family of Taruzelian heritage, Hushaduya Kusaduni is a weaponcrafter and armorer.
+Born in the [[place-taruzelrgn|Taruzel Region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Hushaduya Kusaduni is a weaponcrafter and armorer.
 
 Hushaduya is a talented weaponcrafter who grew up in a family of blacksmiths. She took a particular interest in making smaller, finer weapons such as daggers and throwing knives. She is known for her detailed work and the designs she works into her blades. Her weapons are beautiful, but some would-be customers see them as more decorative than useful, and she means to change that by proving them in combat.
 
@@ -415,7 +415,7 @@ She is skilled in detailed metalwork, inventive in her weapon designs, and resou
 
 ## Social
 
-Hushaduya belongs to the City Artisans' Guild.
+Hushaduya belongs to the [City Artisans' Guild]{.name data-type="affiliation/guild"}.
 
 ## Companions
 

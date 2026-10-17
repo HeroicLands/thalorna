@@ -396,9 +396,9 @@ Tabisa Marinades is a 34-year-old woman who stands 5'9" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Tabisa Marinades came into the world of the huscarl through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Tabisa Marinades came into the world of the huscarl through a combination of circumstance and aptitude.
 
-Tabisa is a skilled huscarl who has fought alongside her comrades for years. Serving Lady Nimaris, she is known for her bravery and determination in battle. Tabisa often leads scouting missions to ensure the safety of her lord's territory. While she is respected among her peers, she often faces challenges as a female warrior in a male-dominated field.
+Tabisa is a skilled huscarl who has fought alongside her comrades for years. Serving Lady [[being-nimaristabin|Nimaris Tabinides]], she is known for her bravery and determination in battle. Tabisa often leads scouting missions to ensure the safety of her lord's territory. While she is respected among her peers, she often faces challenges as a female warrior in a male-dominated field.
 
 ## Psyche
 
@@ -424,7 +424,7 @@ As a Helionite huscarl, Tabisa occupies a recognized social niche within Helioni
 
 ### Patrons
 
-Tabisa's primary patron is Lady Nimaris and her household. This relationship provides both opportunity and obligation.
+Tabisa's primary patrons are Lady Nimaris and her household. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

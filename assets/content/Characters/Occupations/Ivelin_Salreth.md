@@ -397,7 +397,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Ívelin Salreth is a woodcrafter.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Ívelin Salreth is a woodcrafter.
 
 Ívelin grew up near a dense forest and spent her childhood learning to carve simple wooden toys. As she grew older she took on larger and more detailed pieces, including furniture and decorative carvings. Her work is known for its natural motifs, often drawn from the local flora and fauna. She enjoys trying different woods to find the best material for each piece.
 

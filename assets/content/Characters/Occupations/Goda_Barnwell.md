@@ -395,7 +395,7 @@ Osrun Barnwell is a 25-year-old woman who stands 5'7" tall and is slender. She h
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Osrun Barnwell is a potter.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Osrun Barnwell is a potter.
 
 Osrun is a talented potter with a passion for creating vibrant and colorful pottery. She specializes in glazing techniques and often incorporates artistic designs into her work. Osrun enjoys experimenting with new colors and patterns, pushing the boundaries of traditional pottery. Her shop is a favorite among locals for its unique offerings, and she frequently collaborates with other artists for special projects.
 
@@ -415,7 +415,7 @@ Creative, skilled in glazing techniques, good at marketing her work.
 
 ## Social
 
-Osrun is affiliated with Local Artisans' Guild.
+Osrun is affiliated with the local [Artisans' Guild]{.name data-type="affiliation/guild"}.
 
 ## Companions
 

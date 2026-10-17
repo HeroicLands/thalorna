@@ -395,7 +395,7 @@ Kenrith Lewknor is a 28-year-old woman who stands 5'10" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Kenrith Lewknor is a farmer.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Kenrith Lewknor is a farmer.
 
 Kenrith grew up on her family's farm, where she learned to tend to animals and grow vegetables. After her parents passed away, she took over the management of the farm and has worked hard to maintain its productivity. Kenrith is innovative and open to new agricultural practices, often experimenting with different crops and techniques to improve yields.
 
@@ -415,7 +415,7 @@ Resourceful, skilled in animal care and crop rotation, adaptable.
 
 ## Social
 
-Kenrith is affiliated with Rural Farmers' Cooperative.
+Kenrith is affiliated with the [Rural Farmers' Cooperative]{.name data-type="affiliation"}.
 
 ## Companions
 

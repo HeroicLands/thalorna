@@ -395,9 +395,9 @@ Mildrun Harden is a 41-year-old woman who stands 5'10" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Mildrun Harden was born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage.
+Mildrun Harden was born in the [[place-aelwyth|Aelwyth]] region to a guilded family of [[lore-aelwythanclt|Aelwythan]] heritage.
 
-Mildrun has run the Harden Inn for more than twenty years. She takes pride in her ale and offers travelers a meal and a bed. Locals and travelers gather at the inn, where she often shares stories from her own travels.
+Mildrun has run the [Harden Inn]{.name data-type="place/structure"} for more than twenty years. She takes pride in her ale and offers travelers a meal and a bed. Locals and travelers gather at the inn, where she often shares stories from her own travels.
 
 ## Psyche
 
@@ -415,7 +415,7 @@ Excellent cook, skilled brewer, great communicator.
 
 ## Social
 
-Mildrun is affiliated with Local Innkeepers' Association.
+Mildrun is affiliated with the local [Innkeepers' Association]{.name data-type="affiliation"}.
 
 ## Companions
 

@@ -394,7 +394,7 @@ Aldwald Grayling is a 48-year-old man who stands 6'0" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Aldwald Grayling is a beggar.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Aldwald Grayling is a beggar.
 
 Aldwald once worked as a farmhand but lost his job after a poor harvest left the farm struggling to survive. He drifted to the nearest town in search of work but ended up living on the streets, begging for coin. Aldwald is determined to find his way back to a better life, though his pride sometimes prevents him from accepting help.
 

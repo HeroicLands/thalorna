@@ -397,7 +397,7 @@ Mildmund Dunwell is a 45-year-old man who stands 6'1" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Mildmund Dunwell is a herder.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Mildmund Dunwell is a herder.
 
 Mildmund comes from a family of herders, and has spent his life tending cattle and sheep. Known for his strength and resilience, he can handle the hardest work that herding brings. He has a deep understanding of the weather and what it does to livestock, and lets it guide his practice. For all his ruggedness he has a soft spot for his animals, and often talks to them as if they were companions.
 

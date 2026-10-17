@@ -398,7 +398,7 @@ Kalendris Korkalenis is a 30-year-old woman who stands 5'6" tall and is slender.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria]] region to a freeman family of Vylarian heritage, Kalendris Korkalenis came into the world of the clothier through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria Region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Kalendris Korkalenis came into the world of the clothier through a combination of circumstance and aptitude.
 
 Kalendris learned the craft of sewing from her grandmother, who was the village seamstress. When her grandmother passed away, she took over the role and now provides clothing repair and custom garments for the villagers. Kalendris has a natural eye for design and has started experimenting with incorporating local dyes into her fabrics.
 
@@ -418,7 +418,7 @@ Skilled with basic sewing techniques and natural dyes, good rapport with custome
 
 ## Social
 
-Kalendris is affiliated with None, works independently.
+Kalendris is affiliated with none; she works independently.
 
 As a Vylarian clothier, Kalendris occupies a recognized social niche within Vylaria society.
 
@@ -426,7 +426,7 @@ As a Vylarian clothier, Kalendris occupies a recognized social niche within Vyla
 
 ### Patrons
 
-Kalendris's primary patron is Local villagers who need durable and affordable clothing. This relationship provides both opportunity and obligation.
+Kalendris's primary patrons are local villagers who need durable and affordable clothing. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

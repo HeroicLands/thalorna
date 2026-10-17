@@ -394,7 +394,7 @@ Tázitha Ibarides is a 29-year-old woman who stands 6'1" tall and is slender. Sh
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Tázitha Ibarides is a charcoaler.
+Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Tázitha Ibarides is a charcoaler.
 
 Tázitha is one of the few women charcoalers in her area, having learned the trade from her uncle. She enjoys the solitude of the forest and takes great care in her work. Her charcoal is known for burning very clean, and she supplies local forges as well as herbalists who use it in remedies.
 

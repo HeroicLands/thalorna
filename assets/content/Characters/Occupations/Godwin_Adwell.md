@@ -399,7 +399,7 @@ Kenstan Adwell is a 38-year-old man who stands 6'1" tall and is of moderate buil
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Kenstan Adwell is a herder.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Kenstan Adwell is a herder.
 
 Kenstan comes from a long line of herders, and has spent his life tending sheep and goats in the hills. He knows the land like the back of his hand and can find his way over even the most treacherous paths. His quiet, calm manner suits him to the solitary life of a herder, though he can be protective when he needs to be. He is deeply attached to his animals and believes in treating them with care and respect.
 

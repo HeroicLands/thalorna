@@ -397,9 +397,9 @@ Hawise Ashby is a 44-year-old woman who stands 5'10" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Hawise Ashby is a huscarl.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Hawise Ashby is a huscarl.
 
-Hawise is a veteran huscarl who has fought alongside her comrades for many years. Known for her strength and loyalty, she serves Lord Erik and is often tasked with training younger warriors. Hawise has a wealth of knowledge about combat tactics and is respected for her insights and experience. She believes in the importance of honor and camaraderie among warriors.
+Hawise is a veteran huscarl who has fought alongside her comrades for many years. Known for her strength and loyalty, she serves Lord [Erik]{.name data-type="being/npc"} and is often tasked with training younger warriors. Hawise has a wealth of knowledge about combat tactics and is respected for her insights and experience. She believes in the importance of honor and camaraderie among warriors.
 
 ## Psyche
 

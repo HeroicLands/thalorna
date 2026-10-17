@@ -8,7 +8,7 @@ tags:
 data: {banner: characterbnr}
 ---
 
-Every being across the lands of Thalorna and beyond: the people whose choices shape the world's ongoing history, and the beasts, spirits, and monsters that share it with them.
+Every being across [[place-worldthlrn|The World of Thalorna]] and beyond: the people whose choices shape the world's ongoing history, and the beasts, spirits, and monsters that share it with them.
 
 ```sql
 SELECT address.slug AS _ref,

@@ -400,7 +400,7 @@ Hnarvinda Iseldr is a 34-year-old woman who stands 5'10" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Hnarvinda Iseldr is a woodcutter.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of [[lore-nordheimnclt|Nordheimn]] heritage, Hnarvinda Iseldr is a woodcutter.
 
 Hnarvinda grew up in a family of woodcutters and took to the trade naturally. She is known for her quick work and for finding her way through dense forest to the best trees for cutting. She works alongside her brothers, who have come to respect her skill and knowledge of the craft. Despite the physical demands of the job, she enjoys the work and feels free in the forest.
 
@@ -420,7 +420,7 @@ She is skilled in felling trees, a quick worker, and knows her way through the f
 
 ## Social
 
-Hnarvinda belongs to the Woodcutters' Guild.
+Hnarvinda belongs to the [Woodcutters' Guild]{.name data-type="affiliation/guild"}.
 
 ## Companions
 

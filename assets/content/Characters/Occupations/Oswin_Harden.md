@@ -399,9 +399,9 @@ Kuthstan Harden is a 46-year-old man who stands 6'2" tall and is broad and solid
 
 # Dossier {#dossier}
 
-Kuthstan Harden was born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage.
+Kuthstan Harden was born in the [[place-aelwyth|Aelwyth]] region to a guilded family of [[lore-aelwythanclt|Aelwythan]] heritage.
 
-Kuthstan left blacksmithing to run the Forge & Flame Inn. He serves hearty meals and strong drinks to passing adventurers and merchants. His humor helps make the inn lively.
+Kuthstan left blacksmithing to run the [Forge & Flame Inn]{.name data-type="place/structure"}. He serves hearty meals and strong drinks to passing adventurers and merchants. His humor helps make the inn lively.
 
 ## Psyche
 
@@ -419,7 +419,7 @@ Great cook, skilled at managing the inn, excellent storyteller.
 
 ## Social
 
-Kuthstan is affiliated with Local Innkeepers' Association.
+Kuthstan is affiliated with the local [Innkeepers' Association]{.name data-type="affiliation"}.
 
 ## Companions
 

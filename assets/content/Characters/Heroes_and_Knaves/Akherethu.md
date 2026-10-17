@@ -36,4 +36,4 @@ Akherethu is a 39-year-old woman who stands 6'0" tall with a medium build. She h
 
 # Dossier {#dossier}
 
-Akherethu commands the Imperial Guard out of [[place-anlaghzetun|Anlagh-Zetun]], answerable to the Gar-Au alone. Court factions are many, and this command is careful never to be seen favouring one of them. Anyone trying to read Akherethu's politics from the Guard's conduct is reading a text written specifically to give nothing away.
+Akherethu commands the [Imperial Guard]{.name data-type="affiliation"} out of [[place-anlaghzetun|Anlagh-Zetun]], answerable to the Gar-Au alone. Court factions are many, and this command is careful never to be seen favouring one of them. Anyone trying to read Akherethu's politics from the Guard's conduct is reading a text written specifically to give nothing away.

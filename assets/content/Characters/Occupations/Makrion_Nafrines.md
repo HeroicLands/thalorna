@@ -401,7 +401,7 @@ Mákrion Nafrines is a 46-year-old man who stands 5'11" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Mákrion Nafrines came into the world of the astrologer through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Mákrion Nafrines came into the world of the astrologer through a combination of circumstance and aptitude.
 
 Mákrion is a self-taught astrologer who began his practice by observing the stars from his farmstead. He eventually moved to a nearby town, where he now provides astrological advice to farmers regarding planting and harvest times. Though less educated than other astrologers, his practical insights have earned him a local following.
 
@@ -421,7 +421,7 @@ Practical approach to astrology, good rapport with common folk.
 
 ## Social
 
-Mákrion is affiliated with Rural Astrologers' Circle.
+Mákrion is affiliated with the [Rural Astrologers' Circle]{.name data-type="affiliation"}.
 
 As a Helionite astrologer, Mákrion occupies a recognized social niche within Helionis society.
 
@@ -429,7 +429,7 @@ As a Helionite astrologer, Mákrion occupies a recognized social niche within He
 
 ### Patrons
 
-Mákrion's primary patron is Local farmers and villagers. This relationship provides both opportunity and obligation.
+Mákrion's primary patrons are local farmers and villagers. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

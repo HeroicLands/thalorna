@@ -394,7 +394,7 @@ Tórsaro Thalidran is a 29-year-old man who stands 6'0" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Tórsaro Thalidran came into the world of the yeoman infantry through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia Region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Tórsaro Thalidran came into the world of the yeoman infantry through a combination of circumstance and aptitude.
 
 Tórsaro grew up on a farm, but his strength and eagerness to serve led him to the life of a yeoman infantryman. He is known for his agility and ability to adapt quickly in battle. While he lacks the years of experience of some of his comrades, his enthusiasm and quick learning have earned him respect among his peers.
 
@@ -416,13 +416,13 @@ Agile, quick learner, strong in close combat.
 
 Tórsaro is affiliated with Local Militia.
 
-As a Tarvenan yeoman infantry, Tórsaro occupies a recognized social niche within Tarvénia society.
+As a Tarvenan yeoman infantryman, Tórsaro occupies a recognized social niche within Tarvénia society.
 
 ## Companions
 
 ### Patrons
 
-Tórsaro's primary patron is Local militia leader who saw potential in him. This relationship provides both opportunity and obligation.
+Tórsaro's primary patron is a local militia leader who saw potential in him. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

@@ -395,7 +395,7 @@ Visiza Zupumi is a 25-year-old woman who stands 6'3" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the Taruzel region to a freeman family of Taruzelian heritage, Visiza Zupumi came into the world of the bodyguard through a combination of circumstance and aptitude.
+Born in the [[place-taruzelrgn|Taruzel Region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Visiza Zupumi came into the world of the bodyguard through a combination of circumstance and aptitude.
 
 Visiza has spent several years as a bodyguard, specializing in protecting merchants and minor nobility during travel and public appearances. Known for her keen instincts and outstanding combat skills, she has earned a reputation for being a reliable protector. Visiza values loyalty and dedication, often forming close bonds with those she protects. She is trained in both combat and negotiation, ensuring the safety of her clients while maintaining their dignity.
 
@@ -415,7 +415,7 @@ Skilled fighter, observant, good at reading situations.
 
 ## Social
 
-Visiza is affiliated with Local Mercenaries Guild.
+Visiza is affiliated with the local [Mercenaries Guild]{.name data-type="affiliation/guild"}.
 
 As a Taruzelian bodyguard, Visiza occupies a recognized social niche within Taruzel society.
 
@@ -423,7 +423,7 @@ As a Taruzelian bodyguard, Visiza occupies a recognized social niche within Taru
 
 ### Patrons
 
-Visiza's primary patron is Merchants and minor nobles seeking reliable protection. This relationship provides both opportunity and obligation.
+Visiza's primary patrons are merchants and minor nobles seeking reliable protection. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

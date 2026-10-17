@@ -398,7 +398,7 @@ Valaren Álvanar is a 37-year-old man who stands 5'9" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Valaren Álvanar came into the world of the bureaucrat through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia Region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Valaren Álvanar came into the world of the bureaucrat through a combination of circumstance and aptitude.
 
 Valaren began his career as a clerk and gradually climbed his way up in the city administration. He is known for his ability to find loopholes in regulations and for his ambition. While not particularly well-liked, his resourcefulness has earned him a place in some of the city’s higher circles.
 
@@ -418,7 +418,7 @@ Clever and resourceful, good at navigating red tape.
 
 ## Social
 
-Valaren is affiliated with City Administration.
+Valaren is affiliated with the city administration.
 
 As a Tarvenan bureaucrat, Valaren occupies a recognized social niche within Tarvénia society.
 
@@ -426,7 +426,7 @@ As a Tarvenan bureaucrat, Valaren occupies a recognized social niche within Tarv
 
 ### Patrons
 
-Valaren's primary patron is A powerful city councilor who appreciates Valaren's cunning. This relationship provides both opportunity and obligation.
+Valaren's primary patron is a powerful city councilor who appreciates Valaren's cunning. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

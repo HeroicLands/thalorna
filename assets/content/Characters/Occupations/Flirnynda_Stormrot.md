@@ -392,9 +392,9 @@ Flirninda Stormrót is a 23-year-old woman who stands 5'11" tall and is of moder
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Flirninda Stormrót is a ratter.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of [[lore-nordheimnclt|Nordheimn]] heritage, Flirninda Stormrót is a ratter.
 
-Flirninda grew up in the city and learned rat-catching from her father. She is known for her agility and cunning, and uses traps and her own quick reflexes together to catch rodents. She takes pride in her work and is dedicated to keeping the streets free of infestations. She has a strong bond with her trained cat, Whiskers, who works alongside her.
+Flirninda grew up in the city and learned rat-catching from her father. She is known for her agility and cunning, and uses traps and her own quick reflexes together to catch rodents. She takes pride in her work and is dedicated to keeping the streets free of infestations. She has a strong bond with her trained cat, [Whiskers]{.name data-type="being/creature"}, who works alongside her.
 
 ## Psyche
 

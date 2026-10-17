@@ -395,7 +395,7 @@ Edrun Wolford is a 25-year-old woman who stands 5'8" tall and is slender. She ha
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage, Edrun Wolford is a jeweler.
+Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of [[lore-aelwythanclt|Aelwythan]] heritage, Edrun Wolford is a jeweler.
 
 Edrun discovered her talent for jewelry making while working as an apprentice in her father’s shop. She specializes in crafting pieces that often incorporate unique designs inspired by nature. Edrun's work has gained attention for its originality, and she has a growing clientele who appreciate her artistic vision. Despite her success, she remains humble and dedicated to her craft.
 
@@ -415,7 +415,7 @@ Creative, skilled in design and metalwork, excellent customer service.
 
 ## Social
 
-Edrun is affiliated with Local Jewelers' Guild.
+Edrun is affiliated with the local [Jewelers' Guild]{.name data-type="affiliation/guild"}.
 
 ## Companions
 

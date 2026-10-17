@@ -397,7 +397,7 @@ Dorasia Rakhrides is a 30-year-old woman who stands 5'11" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a noble family of Helionite heritage, Dorasia Rakhrides is a mercantyler.
+Born in the [[place-helionis|Helionis]] region to a noble family of [[lore-helioniteclt|Helionite]] heritage, Dorasia Rakhrides is a mercantyler.
 
 Dorasia is a savvy mercantyler who specializes in the import of spices and exotic goods from distant lands. She has built a reputation for her skill in sourcing unique products and establishing fair trade agreements. She is well-connected in both local and foreign markets, which lets her handle the complexities of trade with ease.
 
@@ -417,7 +417,7 @@ She has a strong understanding of foreign trade, and is persuasive and well-conn
 
 ## Social
 
-Dorasia belongs to the local Merchant's Guild.
+Dorasia belongs to the local [Merchant's Guild]{.name data-type="affiliation/guild"}.
 
 ## Companions
 

@@ -399,7 +399,7 @@ Winrith Alverton is a 31-year-old woman who stands 5'2" tall and is slender. She
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Winrith Alverton is a cartographer/artist.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Winrith Alverton is a cartographer/artist.
 
 Winrith grew up in a small village where she developed a love for nature and art. Her skill in sketching landscapes attracted the attention of a traveling cartographer, who took her on as an apprentice. She now creates maps for local lords and travelers, infusing her artistic style into her work to create maps that are both functional and beautiful.
 
@@ -419,7 +419,7 @@ Talented in both art and mapmaking, excellent memory for details.
 
 ## Social
 
-Winrith is affiliated with Independent Cartographers.
+Winrith is affiliated with independent cartographers.
 
 ## Companions
 

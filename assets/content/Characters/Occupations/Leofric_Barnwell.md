@@ -398,7 +398,7 @@ Leofred Barnwell is a 38-year-old man who stands 5'7" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Leofred Barnwell is a physician.
+Born in the [[place-aelwyth|Aelwyth]] region to a noble family of [[lore-aelwythanclt|Aelwythan]] heritage, Leofred Barnwell is a physician.
 
 Leofred Barnwell is a respected physician known for his wide knowledge of medicine and healing. He has spent many years studying both the old remedies and the newer techniques, and is a trusted figure in the community. He is dedicated to his patients and often treats the poor without charge. His calm manner and kindness have made him well loved.
 
@@ -418,7 +418,7 @@ He is highly knowledgeable, has an excellent manner at the bedside, and is skill
 
 ## Social
 
-Leofred belongs to the Local Physicians' Guild.
+Leofred belongs to the local [Physicians' Guild]{.name data-type="affiliation/guild"}.
 
 ## Companions
 

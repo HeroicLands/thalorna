@@ -400,7 +400,7 @@ Ghérvanos Gharidís is a 50-year-old man who stands 6'0" tall and is broad and 
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Ghérvanos Gharidís is a hideworker.
+Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Ghérvanos Gharidís is a hideworker.
 
 Ghérvanos has been a hideworker for decades and is known for his skill with the tougher hides of larger animals. He mostly makes durable leather goods, such as armor and heavy bags. His experience keeps him in demand, though his blunt manner can be intimidating. He takes pride in his work and knows a great deal about the different methods of tanning.
 

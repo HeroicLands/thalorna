@@ -403,7 +403,7 @@ Thoren Pelthal is a 45-year-old man who stands 5'11" tall and is broad and solid
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Thoren Pelthal is a shipwright.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Thoren Pelthal is a shipwright.
 
 Thoren has spent his entire life by the sea, learning the craft of shipbuilding from his father. Over the years he has built and repaired countless ships for sailors and merchants. Known for his skill and attention to detail, he takes pride in his work but is often at odds with clients who want things done faster and cheaper. For all his gruffness, he has a deep respect for the sea and the ships that sail upon it.
 
@@ -423,7 +423,7 @@ He is skilled in shipbuilding, and understands maritime conditions well.
 
 ## Social
 
-Thoren belongs to the Coastal Shipwrights' Guild.
+Thoren belongs to the [Coastal Shipwrights' Guild]{.name data-type="affiliation/guild"}.
 
 ## Companions
 

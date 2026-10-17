@@ -398,7 +398,7 @@ Erthran yra Hildvith wur Waldburg is a 44-year-old man who stands 6'0" tall and 
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Erthran is a trapper.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Erthran is a trapper.
 
 Erthran has spent his entire life in the forest, trapping animals for their fur and meat. He learned the trade from his father, who taught him to respect the land and take only what is needed. He is a skilled tracker and has an intimate knowledge of the local wildlife. He is often hired to remove problem animals or gather furs for traders, though he avoids over-trapping out of respect for the land.
 

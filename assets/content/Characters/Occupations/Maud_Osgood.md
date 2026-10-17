@@ -394,7 +394,7 @@ Maud Osgood is a 62-year-old woman who stands 5'5" tall and is slight of build. 
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Maud Osgood is a beggar.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Maud Osgood is a beggar.
 
 Maud has been living on the streets for most of her life, begging for scraps and coins. Once a domestic servant, she fell into poverty after the death of her employer, leaving her with no family or means to survive. Maud is resourceful and has learned how to navigate the dangers of city life, relying on both charity and cunning to get by.
 

@@ -397,9 +397,9 @@ Kegan Zerazendis is a 28-year-old woman who stands 5'7" tall and is slender. She
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria]] region to a freeman family of Vylarian heritage, Kegan Zerazendis came into the world of the innkeeper through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria Region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Kegan Zerazendis came into the world of the innkeeper through a combination of circumstance and aptitude.
 
-Kegan inherited the Zerazendis Inn from her parents and has worked hard to keep it running smoothly. She is known for her hearty meals and warm hospitality. Kegan is passionate about creating a welcoming atmosphere, and her inn has become a beloved spot for local farmers and travelers alike. Despite her dedication, she often feels the weight of the responsibilities on her shoulders.
+Kegan inherited the [Zerazendis Inn]{.name data-type="place/structure"} from her parents and has worked hard to keep it running smoothly. She is known for her hearty meals and warm hospitality. Kegan is passionate about creating a welcoming atmosphere, and her inn has become a beloved spot for local farmers and travelers alike. Despite her dedication, she often feels the weight of the responsibilities on her shoulders.
 
 ## Psyche
 
@@ -417,7 +417,7 @@ Great cook, personable, good at managing the inn.
 
 ## Social
 
-Kegan is affiliated with Local Innkeepers' Association.
+Kegan is affiliated with the local [Innkeepers' Association]{.name data-type="affiliation"}.
 
 As a Vylarian innkeeper, Kegan occupies a recognized social niche within Vylaria society.
 
@@ -425,7 +425,7 @@ As a Vylarian innkeeper, Kegan occupies a recognized social niche within Vylaria
 
 ### Patrons
 
-Kegan's primary patron is Local farmers and traveling merchants. This relationship provides both opportunity and obligation.
+Kegan's primary patrons are local farmers and traveling merchants. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

@@ -393,7 +393,7 @@ Pórena Darel is a 24-year-old woman who stands 5'8" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Pórena Darel is a longshorewoman.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Pórena Darel is a longshorewoman.
 
 Pórena has worked as a longshorewoman since she was a girl, in a trade that has few women in it. She is known for her agility and for moving quickly through the crowded docks. She has earned respect among the other dock hands for her skill in cargo handling and is often called upon to train new workers. She takes pride in her work and is determined to show that a woman can do it as well as anyone.
 
@@ -413,7 +413,7 @@ She is agile and quick, good at ordering the loading of cargo, and speaks well.
 
 ## Social
 
-Pórena belongs to the local Longshorewomen's Union.
+Pórena belongs to the local [Longshorewomen's Union]{.name data-type="affiliation"}.
 
 ## Companions
 

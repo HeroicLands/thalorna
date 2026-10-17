@@ -398,7 +398,7 @@ Sáferus Gholaris is a 52-year-old man who stands 5'9" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a noble family of Helionite heritage, Sáferus Gholaris came into the world of the clothier through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a noble family of [[lore-helioniteclt|Helionite]] heritage, Sáferus Gholaris came into the world of the clothier through a combination of circumstance and aptitude.
 
 Sáferus is a master clothier whose shop has served the city’s nobility for decades. He is known for crafting luxurious garments and keeps up with the latest fashions from the capital. Sáferus's skills have earned him a reputation, but his demanding personality and high prices have also made him few friends among his peers.
 
@@ -418,7 +418,7 @@ Expertise in luxury fabrics, knowledge of fashion trends.
 
 ## Social
 
-Sáferus is affiliated with City Tailors' Guild, Upper-class social circles.
+Sáferus is affiliated with the [City Tailors' Guild]{.name data-type="affiliation/guild"} and upper-class social circles.
 
 As a Helionite clothier, Sáferus occupies a recognized social niche within Helionis society.
 
@@ -426,7 +426,7 @@ As a Helionite clothier, Sáferus occupies a recognized social niche within Heli
 
 ### Patrons
 
-Sáferus's primary patron is Wealthy nobles who seek the finest garments. This relationship provides both opportunity and obligation.
+Sáferus's primary patrons are wealthy nobles who seek the finest garments. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

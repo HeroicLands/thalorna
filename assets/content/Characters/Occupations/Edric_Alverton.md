@@ -398,7 +398,7 @@ Harrik Alverton is a 53-year-old man who stands 5'11" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Harrik Alverton is a farmer.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Harrik Alverton is a farmer.
 
 Harrik has worked his small farm for decades, growing a variety of vegetables and raising livestock. He values hard work and takes pride in his self-sufficiency. Known for his gruff but kind demeanor, Harrik often lends a hand to his neighbors when they are in need. While farming has taken a toll on his body, he refuses to give up the life he loves.
 
@@ -418,7 +418,7 @@ Experienced in farming and animal husbandry, resilient, helpful to others.
 
 ## Social
 
-Harrik is affiliated with Rural Farmers' Cooperative.
+Harrik is affiliated with the [Rural Farmers' Cooperative]{.name data-type="affiliation"}.
 
 ## Companions
 

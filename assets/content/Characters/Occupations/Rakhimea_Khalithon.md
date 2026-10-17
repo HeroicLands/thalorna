@@ -396,9 +396,9 @@ Rakhimea Khalithon is a 25-year-old woman who stands 6'1" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Rakhimea Khalithon came into the world of the huscarl through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Rakhimea Khalithon came into the world of the huscarl through a combination of circumstance and aptitude.
 
-Rakhimea has always been driven to prove herself in a male-dominated field. She trained as a huscarl alongside her brothers and quickly became known for her fierce combat skills and tactical mind. Serving Lady Lomaris, Rakhimea aims to show that women can be just as strong as men on the battlefield. Her confidence and determination inspire those around her.
+Rakhimea has always been driven to prove herself in a male-dominated field. She trained as a huscarl alongside her brothers and quickly became known for her fierce combat skills and tactical mind. Serving Lady [[being-lomarisumari|Lomaris Umarides]], Rakhimea aims to show that women can be just as strong as men on the battlefield. Her confidence and determination inspire those around her.
 
 ## Psyche
 
@@ -424,7 +424,7 @@ As a Helionite huscarl, Rakhimea occupies a recognized social niche within Helio
 
 ### Patrons
 
-Rakhimea's primary patron is Lady Lomaris and her household. This relationship provides both opportunity and obligation.
+Rakhimea's primary patrons are Lady Lomaris and her household. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

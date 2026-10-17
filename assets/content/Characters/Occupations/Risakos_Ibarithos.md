@@ -398,7 +398,7 @@ Rísakos Ibarithos is a 46-year-old man who stands 5'8" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Rísakos Ibarithos came into the world of the apothecary through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Rísakos Ibarithos came into the world of the apothecary through a combination of circumstance and aptitude.
 
 Rísakos began as an assistant to an apothecary who dealt with both legitimate medicine and more questionable practices. He learned a wide variety of skills, from crafting remedies to mixing poisons. He now runs a small apothecary shop on the outskirts of town, where he serves both the desperate and the morally dubious.
 
@@ -418,7 +418,7 @@ Extensive knowledge of toxins and antidotes.
 
 ## Social
 
-Rísakos is affiliated with Underground Apothecaries.
+Rísakos is affiliated with underground apothecaries.
 
 As a Helionite apothecary, Rísakos occupies a recognized social niche within Helionis society.
 
@@ -426,7 +426,7 @@ As a Helionite apothecary, Rísakos occupies a recognized social niche within He
 
 ### Patrons
 
-Rísakos's primary patron is Criminals, mercenaries, and desperate people. This relationship provides both opportunity and obligation.
+Rísakos's primary patrons are criminals, mercenaries, and desperate people. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

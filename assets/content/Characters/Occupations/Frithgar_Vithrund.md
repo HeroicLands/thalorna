@@ -395,9 +395,9 @@ Frithgár yra Vithrúnd wur Falkenstein is a 42-year-old man who stands 6'2" tal
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Frithgár came into the world of the huscarl through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Frithgár came into the world of the huscarl through a combination of circumstance and aptitude.
 
-Frithgár has fought with Falkenstein’s war-band for many years. He is respected for his tactical knowledge and for teaching younger warriors to hold the palisade when a raiding party is away. He aims to pass on what he knows so the next generation can defend the village.
+Frithgár has fought with [[place-falkensten|Falkenstein]]’s war-band for many years. He is respected for his tactical knowledge and for teaching younger warriors to hold the palisade when a raiding party is away. He aims to pass on what he knows so the next generation can defend the village.
 
 ## Psyche
 

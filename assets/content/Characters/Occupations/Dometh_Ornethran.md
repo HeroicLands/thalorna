@@ -396,7 +396,7 @@ Dometh Ornethran is a 36-year-old man who stands 5'9" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a guilded family of Tarvenan heritage, Dometh Ornethran came into the world of the thespian through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia Region]] to a guilded family of [[lore-tarvenanclt|Tarvenan]] heritage, Dometh Ornethran came into the world of the thespian through a combination of circumstance and aptitude.
 
 Dometh is a seasoned actor known for his dramatic performances in the city's most prestigious theater. He excels at tragic roles, captivating audiences with his deep voice and expressive mannerisms. While he enjoys fame and the company of admirers, he secretly struggles with self-doubt, fearing that he will one day be forgotten.
 
@@ -416,7 +416,7 @@ Skilled actor, talented at captivating an audience, strong stage presence.
 
 ## Social
 
-Dometh is affiliated with City Theater Company.
+Dometh is affiliated with the [City Theater Company]{.name data-type="affiliation/venture"}.
 
 As a Tarvenan thespian, Dometh occupies a recognized social niche within Tarvénia society.
 
@@ -424,7 +424,7 @@ As a Tarvenan thespian, Dometh occupies a recognized social niche within Tarvén
 
 ### Patrons
 
-Dometh's primary patron is Wealthy patrons who fund his theater. This relationship provides both opportunity and obligation.
+Dometh's primary patrons are wealthy patrons who fund his theater. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

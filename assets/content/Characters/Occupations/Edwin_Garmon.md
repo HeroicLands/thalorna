@@ -396,9 +396,9 @@ Wilwin Garmon is a 24-year-old man who stands 6'2" tall and is of moderate build
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Wilwin Garmon is a huscarl.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Wilwin Garmon is a huscarl.
 
-Wilwin is a promising young huscarl serving Lord Ragnar. He trained for years under the watchful eye of seasoned warriors and has a reputation for his quick reflexes and fierce loyalty. Wilwin dreams of one day leading his own band of warriors but knows he must first prove himself in battle. He is eager to face challenges head-on and earn glory for his lord.
+Wilwin is a promising young huscarl serving Lord [Ragnar]{.name data-type="being/npc"}. He trained for years under the watchful eye of seasoned warriors and has a reputation for his quick reflexes and fierce loyalty. Wilwin dreams of one day leading his own band of warriors but knows he must first prove himself in battle. He is eager to face challenges head-on and earn glory for his lord.
 
 ## Psyche
 

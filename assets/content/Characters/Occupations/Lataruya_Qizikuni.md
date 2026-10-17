@@ -397,9 +397,9 @@ Lataruya Qizikuni is a 28-year-old woman who stands 5'8" tall and is slender. Sh
 
 # Dossier {#dossier}
 
-Born in the Taruzel region to a noble family of Taruzelian heritage, Lataruya Qizikuni is a litigant.
+Born in the [[place-taruzelrgn|Taruzel Region]] to a noble family of [[lore-taruzelianclt|Taruzelian]] heritage, Lataruya Qizikuni is a litigant.
 
-Lataruya is a skilled litigant specializing in family law and inheritance disputes. As a respected member of the Litigant's Guild, she is known for her compassion and dedication to her clients. She understands the feelings in a case as well as the law, and handles difficult cases with care. She cares that justice is done and works tirelessly for her clients.
+Lataruya is a skilled litigant specializing in family law and inheritance disputes. As a respected member of the [Litigant's Guild]{.name data-type="affiliation/guild"}, she is known for her compassion and dedication to her clients. She understands the feelings in a case as well as the law, and handles difficult cases with care. She cares that justice is done and works tirelessly for her clients.
 
 ## Psyche
 

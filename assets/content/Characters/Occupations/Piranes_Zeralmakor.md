@@ -397,7 +397,7 @@ Piranes Zeralmakor is a 39-year-old man who stands 5'9" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria]] region to a noble family of Vylarian heritage, Piranes Zeralmakor came into the world of the cartographer/artist through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria Region]] to a noble family of [[lore-vylarianclt|Vylarian]] heritage, Piranes Zeralmakor came into the world of the cartographer/artist through a combination of circumstance and aptitude.
 
 Piranes hails from a wealthy family and pursued cartography out of a love for exploration. His maps are highly detailed and often feature embellishments that make them popular among collectors. However, his adventurous spirit sometimes gets him into dangerous situations, as he insists on personally surveying remote and uncharted areas.
 
@@ -417,7 +417,7 @@ Skilled at combining art and practical cartography, adventurous spirit.
 
 ## Social
 
-Piranes is affiliated with Royal Cartographers' Society.
+Piranes is affiliated with the [Royal Cartographers' Society]{.name data-type="affiliation"}.
 
 As a Vylarian cartographer/artist, Piranes occupies a recognized social niche within Vylaria society.
 
@@ -425,7 +425,7 @@ As a Vylarian cartographer/artist, Piranes occupies a recognized social niche wi
 
 ### Patrons
 
-Piranes's primary patron is Wealthy collectors and explorers. This relationship provides both opportunity and obligation.
+Piranes's primary patrons are wealthy collectors and explorers. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

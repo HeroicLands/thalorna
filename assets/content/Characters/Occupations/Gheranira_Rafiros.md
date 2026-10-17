@@ -399,7 +399,7 @@ Ghéranira Rafiros is a 33-year-old woman who stands 5'11" tall and is slender. 
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Ghéranira Rafiros is an embalmer.
+Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Ghéranira Rafiros is an embalmer.
 
 Ghéranira found her calling as an embalmer after losing her brother, taking comfort in preparing his body for burial. She sees the work as a way to help families bear their loss and to see that their dead are treated with dignity. Her gentle manner suits her to the work, though it sometimes takes a toll on her. She often uses rituals and herbs that are believed to protect the spirit of the dead.
 
@@ -419,7 +419,7 @@ She is gentle and compassionate, and skilled in funerary rites and herbal preser
 
 ## Social
 
-Ghéranira belongs to the Morticians' Guild.
+Ghéranira belongs to the [Morticians' Guild]{.name data-type="affiliation/guild"}.
 
 ## Companions
 

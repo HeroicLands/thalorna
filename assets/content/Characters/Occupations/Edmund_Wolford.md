@@ -400,7 +400,7 @@ Harred Wolford is a 44-year-old man who stands 5'8" tall and is of moderate buil
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage, Harred Wolford is a clothier.
+Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of [[lore-aelwythanclt|Aelwythan]] heritage, Harred Wolford is a clothier.
 
 Harred has been a clothier for over twenty years, running a small but reputable shop in the city that caters to both the nobility and common folk. His expertise lies in fine tailoring and embroidery, and he is known for his skill in creating custom garments for special occasions. Harred is meticulous about his work, often taking on fewer clients to ensure the highest quality.
 
@@ -420,7 +420,7 @@ Highly skilled in tailoring, embroidery, and working with fine fabrics.
 
 ## Social
 
-Harred is affiliated with City Tailors' Guild.
+Harred is affiliated with the [City Tailors' Guild]{.name data-type="affiliation/guild"}.
 
 ## Companions
 

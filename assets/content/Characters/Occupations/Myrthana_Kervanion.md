@@ -398,7 +398,7 @@ Mirthana Kervanion is a 22-year-old woman who stands 5'8" tall and is slender. S
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Mirthana Kervanion came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Mirthana Kervanion came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
 
 Mirthana grew up in the city and was drawn to the art of engineering. She has trained as a sapper and quickly gained a reputation for her skills in tunnel construction and demolition. Known for her quick thinking and resourcefulness, Mirthana often devises creative solutions to challenges. She aspires to become a master sapper and help design fortifications.
 
@@ -418,7 +418,7 @@ Creative problem solver, skilled in demolition, agile.
 
 ## Social
 
-Mirthana is affiliated with Local Engineers' Guild.
+Mirthana is affiliated with the local [Engineers' Guild]{.name data-type="affiliation/guild"}.
 
 As a Helionite man-at-arms (sapper), Mirthana occupies a recognized social niche within Helionis society.
 
@@ -426,7 +426,7 @@ As a Helionite man-at-arms (sapper), Mirthana occupies a recognized social niche
 
 ### Patrons
 
-Mirthana's primary patron is Local military leaders and builders. This relationship provides both opportunity and obligation.
+Mirthana's primary patrons are local military leaders and builders. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

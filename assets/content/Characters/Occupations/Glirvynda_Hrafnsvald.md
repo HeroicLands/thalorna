@@ -402,7 +402,7 @@ Glirvinda Hrafnsvald is a 31-year-old woman who stands 5'11" tall and is of mode
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Glirvinda Hrafnsvald is a shipwright.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of [[lore-nordheimnclt|Nordheimn]] heritage, Glirvinda Hrafnsvald is a shipwright.
 
 Glirvinda grew up in a family of fishermen, but she was more interested in building boats than sailing on them. She apprenticed with a well-known shipwright and quickly earned a reputation for designing fast and sturdy vessels. She is forever trying new methods, which sets her apart in a trade with few women in it.
 
@@ -422,7 +422,7 @@ She is inventive, skilled in ship design, and attentive to detail.
 
 ## Social
 
-Glirvinda belongs to the Coastal Shipwrights' Guild.
+Glirvinda belongs to the [Coastal Shipwrights' Guild]{.name data-type="affiliation/guild"}.
 
 ## Companions
 

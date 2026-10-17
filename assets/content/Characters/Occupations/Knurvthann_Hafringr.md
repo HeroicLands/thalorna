@@ -397,7 +397,7 @@ Knurvthann Hafringr is a 40-year-old man who stands 6'0" tall and is broad and s
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Knurvthann Hafringr came into the world of the longshoreman through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of [[lore-nordheimnclt|Nordheimn]] heritage, Knurvthann Hafringr came into the world of the longshoreman through a combination of circumstance and aptitude.
 
 Knurvthann is a veteran longshoreman with over twenty years of experience on the docks. He has seen the industry evolve and is known for his knowledge of shipping practices and safety rules. Knurvthann takes pride in mentoring younger workers and is often called upon to resolve disputes or oversee complex loading operations. He values hard work and camaraderie, making him a respected figure among his peers.
 
@@ -417,7 +417,7 @@ Highly experienced, knowledgeable about safety practices, strong leader.
 
 ## Social
 
-Knurvthann is affiliated with Local Longshoremen's Union.
+Knurvthann is affiliated with the local [Longshoremen's Union]{.name data-type="affiliation"}.
 
 As a Nordheimn longshoreman, Knurvthann occupies a recognized social niche within Nordheim society.
 
@@ -425,7 +425,7 @@ As a Nordheimn longshoreman, Knurvthann occupies a recognized social niche withi
 
 ### Patrons
 
-Knurvthann's primary patron is Shipping companies and local merchants. This relationship provides both opportunity and obligation.
+Knurvthann's primary patrons are shipping companies and local merchants. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

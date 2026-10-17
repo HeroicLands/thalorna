@@ -397,7 +397,7 @@ Harfos Orkarenis is a 38-year-old man who stands 5'10" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria]] region to a guilded family of Vylarian heritage, Harfos Orkarenis came into the world of the chandler through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria Region]] to a guilded family of [[lore-vylarianclt|Vylarian]] heritage, Harfos Orkarenis came into the world of the chandler through a combination of circumstance and aptitude.
 
 Harfos operates a candle shop in the city, catering to the demands of the local nobility as well as commoners. He uses a mix of beeswax and tallow to produce candles for different price ranges, often adding scents and colors for variety. Ambitious and entrepreneurial, Harfos is always looking for ways to expand his business.
 
@@ -417,7 +417,7 @@ Business savvy, skilled at marketing his products.
 
 ## Social
 
-Harfos is affiliated with Urban Craft Guild.
+Harfos is affiliated with the [Urban Craft Guild]{.name data-type="affiliation/guild"}.
 
 As a Vylarian chandler, Harfos occupies a recognized social niche within Vylaria society.
 
@@ -425,7 +425,7 @@ As a Vylarian chandler, Harfos occupies a recognized social niche within Vylaria
 
 ### Patrons
 
-Harfos's primary patron is Local nobles who purchase scented candles for their homes. This relationship provides both opportunity and obligation.
+Harfos's primary patrons are local nobles who purchase scented candles for their homes. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

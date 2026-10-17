@@ -398,7 +398,7 @@ Hildmund Chilton is a 41-year-old man who stands 5'7" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Hildmund Chilton is an embalmer.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Hildmund Chilton is an embalmer.
 
 Hildmund grew up in a family of undertakers, where he learned the art of embalming from his father. Known for his steady hands and careful nature, he has prepared many bodies for burial over the years. He takes his work seriously, seeing it as a final service to the deceased and their families. While his profession makes some people uneasy, he is dedicated to his craft and carries out his duties with a solemn respect for the dead.
 
@@ -418,7 +418,7 @@ He is skilled in embalming, calm under pressure, and careful in everything he do
 
 ## Social
 
-Hildmund belongs to the Morticians' Guild.
+Hildmund belongs to the [Morticians' Guild]{.name data-type="affiliation/guild"}.
 
 ## Companions
 

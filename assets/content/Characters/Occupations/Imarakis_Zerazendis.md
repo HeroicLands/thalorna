@@ -397,7 +397,7 @@ Imarakis Zerazendis is a 31-year-old woman who stands 5'11" tall and is of moder
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria]] region to a freeman family of Vylarian heritage, Imarakis Zerazendis came into the world of the musician (drums) through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria Region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Imarakis Zerazendis came into the world of the musician (drums) through a combination of circumstance and aptitude.
 
 Imarakis grew up in a traveling performers' troupe, learning to play various percussion instruments. She specializes in rhythmic drumming that accompanies dances and storytelling performances. Imarakis’s energetic and spirited playing has made her popular at festivals, though some consider her style to be too wild for refined tastes.
 
@@ -417,7 +417,7 @@ Skilled in various percussion techniques, energetic, captivating performer.
 
 ## Social
 
-Imarakis is affiliated with Minstrels' Guild.
+Imarakis is affiliated with the [Minstrels' Guild]{.name data-type="affiliation/guild"}.
 
 As a Vylarian musician (drums), Imarakis occupies a recognized social niche within Vylaria society.
 
@@ -425,7 +425,7 @@ As a Vylarian musician (drums), Imarakis occupies a recognized social niche with
 
 ### Patrons
 
-Imarakis's primary patron is Traveling performers and festival organizers. This relationship provides both opportunity and obligation.
+Imarakis's primary patrons are traveling performers and festival organizers. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

@@ -403,7 +403,7 @@ Holren Álvanar is a 31-year-old man who stands 6'0" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Holren Álvanar came into the world of the mason through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia Region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Holren Álvanar came into the world of the mason through a combination of circumstance and aptitude.
 
 Holren has been working as a mason for over fifteen years, specializing in stone carving and masonry for buildings and sculptures. He takes great pride in his work, often infusing his pieces with details and artistic flair. Holren is well-respected in his community for his craftsmanship and dedication to preserving traditional techniques, while also adapting to modern methods.
 
@@ -423,7 +423,7 @@ Highly skilled stone carver, creative, good problem solver.
 
 ## Social
 
-Holren is affiliated with Local Masons' Guild.
+Holren is affiliated with the local [Masons' Guild]{.name data-type="affiliation/guild"}.
 
 As a Tarvenan mason, Holren occupies a recognized social niche within Tarvénia society.
 
@@ -431,7 +431,7 @@ As a Tarvenan mason, Holren occupies a recognized social niche within Tarvénia 
 
 ### Patrons
 
-Holren's primary patron is Local builders and architects seeking quality craftsmanship. This relationship provides both opportunity and obligation.
+Holren's primary patrons are local builders and architects seeking quality craftsmanship. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
