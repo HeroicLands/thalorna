@@ -99,7 +99,7 @@ Bethua repays this with genuine reverence. The Spadai are praised in song and ce
 
 ## The Grace
 
-The Spear-Sisterhood trains from youth in arms and tactics and in the [Charissa]{.name data-type="skill/combat"}—the Grace—an open-hand and kicking art built to turn a woman's agility into a weapon and let her beat a larger, stronger opponent. It is neither a sport nor an ornament. The realm's security rests on the proposition that a trained woman defeats an untrained man, and Bethua intends to keep that proposition true.
+The Spear-Sisterhood trains from youth in arms and tactics and in the [[skill-charissa|Charissa]]—the Grace—an open-hand and kicking art built to turn a woman's agility into a weapon and let her beat a larger, stronger opponent. It is neither a sport nor an ornament. The realm's security rests on the proposition that a trained woman defeats an untrained man, and Bethua intends to keep that proposition true.
 
 Above the army stands the fleet, which is what Bethua is actually famous for: the best navy in the region, escorting its convoys, guarding its coast, and waging a deniable privateer war on [[affiliation-vylarinmpr|Vylarian shipping]] as the maritime proxy of its [[affiliation-empireakhlth|Khelathi patron]].
 

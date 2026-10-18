@@ -428,7 +428,7 @@ Koremdanis was born into [House Barkratis]{.name data-type="affiliation/lineage"
 
 ### Training and Ascension
 
-Under Pelerar's exacting instruction, Koremdanis proved to be talented beyond the ordinary. Where most duelists took decades to master the fundamental forms, she grasped them within years and moved quickly to advanced technique. At eighteen, she achieved her first formal recognition as a master swordsperson, but she knew she had barely begun. Over the following years, she traveled throughout the Empire and beyond, seeking out the finest duelists and military trainers, fighting in official competitions, studying ancient texts on swordsmanship, and eventually achieving mastery of the sacred [Path of Breath]{.name data-type="skill/combat"}—a meditative martial discipline that unites physical technique with spiritual discipline. The dragonfly tattoo on her neck marks her as one of only three living masters of this path. Her mastery brought her philosophical insight into the nature of conflict, honor, and the responsibility that comes with the ability to kill.
+Under Pelerar's exacting instruction, Koremdanis proved to be talented beyond the ordinary. Where most duelists took decades to master the fundamental forms, she grasped them within years and moved quickly to advanced technique. At eighteen, she achieved her first formal recognition as a master swordsperson, but she knew she had barely begun. Over the following years, she traveled throughout the Empire and beyond, seeking out the finest duelists and military trainers, fighting in official competitions, studying ancient texts on swordsmanship, and eventually achieving mastery of the sacred [[skill-pthbrth|Path of Breath]]—a meditative martial discipline that unites physical technique with spiritual discipline. The dragonfly tattoo on her neck marks her as one of only three living masters of this path. Her mastery brought her philosophical insight into the nature of conflict, honor, and the responsibility that comes with the ability to kill.
 
 ### Current Situation
 
@@ -521,7 +521,7 @@ Her own ambition, an inner enemy
 [The City Fencing Guild of Salkalon]{.name data-type="affiliation/guild"}
 : She is the Guild's acknowledged master and is the final arbiter in disputes over technique and conduct within the dueling circles.
 
-[The Path of Breath]{.name data-type="affiliation/order"}
+[[affiliation-pthbrthordr|The Path of Breath]]
 : The sacred martial order to which she belongs, comprising only the most accomplished warriors devoted to uniting technique with spiritual discipline.
 
 House Barkratis

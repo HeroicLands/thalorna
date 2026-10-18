@@ -54,7 +54,7 @@ The second warning is the one foreigners need most. In Bethua a man holds no pro
 
 A foreign man who comes to trade is served, his coin taken and his contracts honored, but he is met with a cool condescension and expected to defer to the women he deals with. A foreign woman trading on her own account is dealt with woman to woman, as any merchant would be. The one exception is an official representative of Au'Khelathu—envoy, factor, temple-agent or naval officer—who is received with marked deference whatever his or her sex. Bethuan officials make a point of that courtesy, because it shows everyone watching who the realm's patron is.
 
-Do not mistake an unarmed Bethuan woman for a defenseless one. The [Charissa]{.name data-type="skill/combat"} ("the Grace"), an open-hand and kicking art built on speed, is taught to every woman of the Spear-Sisterhood and widely among free women besides.
+Do not mistake an unarmed Bethuan woman for a defenseless one. The [[skill-charissa|Charissa]] ("the Grace"), an open-hand and kicking art built on speed, is taught to every woman of the Spear-Sisterhood and widely among free women besides.
 
 ## The Houses of the City
 

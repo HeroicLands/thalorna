@@ -427,7 +427,7 @@ Lámbira stands 5'7" tall with a heavy build. She has dark tanned skin, black ha
 
 Lámbira Pédhinion was born in [[place-sehela|Sehela]], a small grain-village of the dry southern interior of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], where the fields are kept alive only by the qanats and channels the engineer-priestesses maintain. Her family were peasants of the irrigated hinterland, working land held by the local House. As is the [[lore-bethuanclt|Bethuan]] way, the household turned on its women: Lámbira's mother and grandmother held what little the family owned and governed its affairs, while her father and the men of the house labored in the fields as the dependents they were under law. Lámbira, the eldest daughter, was raised from the first as one who would matter—for in Bethua it is daughters who inherit, carry the line, and answer for a household.
 
-Like every free Bethuan girl, Lámbira was trained young in arms and in the [[affiliation-mtrrchybth#the-martial-bridge-the-spear-sisterhood-and-the-fleet|Charissa]], the realm's lethal unarmed art that turns a woman's speed and agility into a weapon. She took to it as few do—by ten she was outfighting girls years older, and her unusual quickness, the very gift on which the Charissa depends, marked her out to the women who trained the village levy.
+Like every free Bethuan girl, Lámbira was trained young in arms and in the [[skill-charissa|Charissa]], the realm's lethal unarmed art that turns a woman's speed and agility into a weapon. She took to it as few do—by ten she was outfighting girls years older, and her unusual quickness, the very gift on which the Charissa depends, marked her out to the women who trained the village levy.
 
 ### Training and Rise to Prominence
 

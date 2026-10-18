@@ -14,7 +14,7 @@ Sehela is a small grain-village in the dry southern interior of the [[affiliatio
 
 ## A Bethuan Village
 
-Sehela is ordered the Bethuan way. A household turns on its women: the mothers and grandmothers hold what the family owns and govern its affairs, the men labor in the fields as the dependents they are under law, and the eldest daughter is raised from the first as the one who will inherit and answer for the household. Every free girl of the village is trained young in arms and in the [[affiliation-mtrrchybth#the-martial-bridge-the-spear-sisterhood-and-the-fleet|Charissa]], and the women who train the village levy watch for the quick ones.
+Sehela is ordered the Bethuan way. A household turns on its women: the mothers and grandmothers hold what the family owns and govern its affairs, the men labor in the fields as the dependents they are under law, and the eldest daughter is raised from the first as the one who will inherit and answer for the household. Every free girl of the village is trained young in arms and in the [[skill-charissa|Charissa]], and the women who train the village levy watch for the quick ones.
 
 The village's best-known daughter is [[being-lmbhrpdhnn|Lámbira Pédhinion]], a peasant's eldest daughter who outfought girls years older by the age of ten, was taken into the Dómissa's own household guard, and left it for a path that answered to her own judgment.
 
