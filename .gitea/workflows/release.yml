@@ -39,7 +39,7 @@ permissions:
 
 jobs:
     release:
-        uses: HeroicLands/.github/.gitea/workflows/release-foundry-package.yml@6ed646d38b0cf4f5eed4a31dcc44bfca2bfd0158 # main
+        uses: HeroicLands/.github/.gitea/workflows/release-foundry-package.yml@83bb0cd0af7db952098ef5fe2e8312e7f41040eb # main
         with:
             package-kind: module
         # The release bot opens the Version Packages pull request, so its

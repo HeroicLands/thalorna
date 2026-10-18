@@ -28,7 +28,7 @@ permissions:
 
 jobs:
     publish:
-        uses: HeroicLands/.github/.gitea/workflows/publish-package-cdn.yml@21aa8f0918bc3aa659801bdcafe9f085e297e485 # main
+        uses: HeroicLands/.github/.gitea/workflows/publish-package-cdn.yml@83bb0cd0af7db952098ef5fe2e8312e7f41040eb # main
         with:
             set: ${{ inputs.set }}
             name: ${{ inputs.name }}
