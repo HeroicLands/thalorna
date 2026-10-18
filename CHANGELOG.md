@@ -1,5 +1,15 @@
 # thalorna
 
+## 0.2.1
+
+### Patch Changes
+
+In the PDF books, a reference to another book names it by a short tag, such as (Aelw. p307), and term lists set the term in bold at the start of the line with the description running on after it.
+
+Chronology sections give each event's date first, in the Vylarian Calendar (such as ~10000 BF), print across the page in the PDF books, and leave out "Felt here" where nothing was felt. In the PDF books, lists are spaced and bulleted clearly, long profile boxes continue onto the next page, population figures read as 12,500 or 11 million, and the page number is set at body size.
+
+Lists that describe the Aureldian faiths, Khelâthi country, the Khazryn tongues, Grukar hearing, Bizarian names and the Kalihara adventure branches read as full sentences, and the Varnakan traditions name their path cleanly.
+
 ## 0.2.0
 
 ### Minor Changes
