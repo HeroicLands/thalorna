@@ -746,14 +746,11 @@ This is the word-hoard of the three tongues of the [[place-khzryndsrtrgn|Khazryn
 
 The three tongues sound nothing alike, and every stem carries sounds that only its own tongue allows:
 
-Tellumi, the tongue of the old oasis cities at the foot of the Grazian Mountains, is soft and hushed
-: _sh_ and _ts_, syllables closing on a sonorant or a quick stop, any single consonant doubled where two stems meet, no _o_ and no marks. _Tellumi_, _Tennelimash_, _Tashbemun_.
+- Tellumi, the tongue of the old oasis cities at the foot of the Grazian Mountains, is soft and hushed: _sh_ and _ts_, syllables closing on a sonorant or a quick stop, any single consonant doubled where two stems meet, no _o_ and no marks. _Tellumi_, _Tennelimash_, _Tashbemun_.
 
-[[skill-sowideslng|Sovidur]], the tongue of the steppe tribes, keeps two voices
-: every stem takes its vowels from a back group (_a_, _o_, _u_) or a front group (_e_, _ö_, _ü_), with a throaty _q_ and _gh_ in the back stems and a lighter _k_ and _g_ in the front, long vowels written double, and no word opening on _r_. _Orkunoq_, _Koduyur_, _Diqraqor_.
+- [[skill-sowideslng|Sovidur]], the tongue of the steppe tribes, keeps two voices: every stem takes its vowels from a back group (_a_, _o_, _u_) or a front group (_e_, _ö_, _ü_), with a throaty _q_ and _gh_ in the back stems and a lighter _k_ and _g_ in the front, long vowels written double, and no word opening on _r_. _Orkunoq_, _Koduyur_, _Diqraqor_.
 
-[[skill-atarzadilng|Atárzadi]], the tongue of the twelve tribes who took four of the Tellumi cities, is harsh and long-voweled
-: _kh_, _gh_, _sh_ and _zh_, long vowels, and every word closed by a consonant. _Zhoqarod_, _Shekhulez_, _Gherosor_.
+- [[skill-atarzadilng|Atárzadi]], the tongue of the twelve tribes who took four of the Tellumi cities, is harsh and long-voweled: _kh_, _gh_, _sh_ and _zh_, long vowels, and every word closed by a consonant. _Zhoqarod_, _Shekhulez_, _Gherosor_.
 
 Each language note sets out its tongue's sounds, its syllables, how its parts join and the suffixes names use. Each language page holds its tongue's stems, what has been built on them, and the register of the names the setting gives in that tongue; this page also holds the names that belong to none of the three.
 

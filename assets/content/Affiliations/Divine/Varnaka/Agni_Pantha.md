@@ -68,8 +68,8 @@ sohl:
 
 ## Agmi-pantra—The Path of the Flame
 
-Tradition:** **Agmi-pantra
-: _The Path of the Flame_
+Tradition
+: **Agmi-pantra**—_The Path of the Flame_
 
 Deities Venerated
 : [[affiliation-rasikara|Rasikara]] as primary focus; [[affiliation-vyahrati|Vahrati]] honored as the gentle complement of the purging fire

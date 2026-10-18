@@ -70,8 +70,8 @@ sohl:
 
 ## Vyalendravada—The Doctrine of Vyalendra
 
-Tradition:** **Vyalendravada
-: _The Doctrine of Vyalendra_
+Tradition
+: **Vyalendravada**—_The Doctrine of Vyalendra_
 
 Deities Venerated
 : [[affiliation-vyalendra|Vyalendra]] as supreme; all other Varnakan deities treated as emanations or aspects of the shaping power

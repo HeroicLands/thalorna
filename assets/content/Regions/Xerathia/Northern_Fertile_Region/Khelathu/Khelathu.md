@@ -87,11 +87,9 @@ The valley is lush to the point of near-tropical abundance. Its soil is deep and
 
 Away from the river the empire falls into two other kinds of country:
 
-The coastal strip. The delta and the lowlands flanking it east and west are wet-coastal. Citrus, grape, olive, date-palm and fig thrive on the sea air and the winter rains, and the coast is the empire's garden
-: it fills Khelathi tables and the foreign markets of [[place-midhalnrgn|Mídhalión]] with luxury produce, and the coastal villas of the delta Halzi'a and merchant-princes cluster along it.
+- The coastal strip. The delta and the lowlands flanking it east and west are wet-coastal. Citrus, grape, olive, date-palm and fig thrive on the sea air and the winter rains, and the coast is the empire's garden: it fills Khelathi tables and the foreign markets of [[place-midhalnrgn|Mídhalión]] with luxury produce, and the coastal villas of the delta Halzi'a and merchant-princes cluster along it.
 
-The dry country beyond the flood. Rainfall is sparse away from both river and coast, and the land beyond the valley is high desert and chaparral, with sand dunes on the approaches to the river. A millennia-old network of canals, stone aqueducts, qanats and cisterns, maintained by tens of thousands of workers year-round, carries river water out to the valley's edges, and where it reaches, the fields are dense with wheat, barley and millet. Where it cannot reach, the chaparral pastures sheep, cattle and the small, sturdy horses bred for the chariot corps. The Khelathi are proud of the network, and with reason
-: it turns country that would otherwise be thinly grazed into farmland.
+- The dry country beyond the flood. Rainfall is sparse away from both river and coast, and the land beyond the valley is high desert and chaparral, with sand dunes on the approaches to the river. A millennia-old network of canals, stone aqueducts, qanats and cisterns, maintained by tens of thousands of workers year-round, carries river water out to the valley's edges, and where it reaches, the fields are dense with wheat, barley and millet. Where it cannot reach, the chaparral pastures sheep, cattle and the small, sturdy horses bred for the chariot corps. The Khelathi are proud of the network, and with reason: it turns country that would otherwise be thinly grazed into farmland.
 
 The west broadens into open, dry plains that shade at the far frontier into herding country, where hill-peoples pasture their flocks. The east is steeper and more rugged, rising into hills that give the empire gold, copper, turquoise, iron and fine building stone.
 

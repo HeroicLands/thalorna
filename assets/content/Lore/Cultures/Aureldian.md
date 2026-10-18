@@ -63,11 +63,9 @@ The year turns on the [Feast of Thresholds]{.name data-type="lore/gathering"}, f
 
 Ústaron embodies both aspects of flame, the forge that shapes and the inferno that consumes. Roughly five hundred years ago a faction of his clergy declared that his true nature is destruction, and his worship split into two faiths, each calling the other heretical. [[lore-ustaranschsm|The Ústaran Schism]] tells how the break came and why it did not heal.
 
-[[affiliation-sacredforge|The Sacred Forge]] honors the creative aspect
-: craftsmanship, transformation, illumination and protection. Its temples are built around forges whose fires burn continuously, and letting one die is a catastrophe. It is the mainstream Ústaran faith in most of western Ankaris and is politically favored in Provenzia. Its Hamsarnor is checked by a council of senior Hammer-Priests.
+- [[affiliation-sacredforge|The Sacred Forge]] honors the creative aspect: craftsmanship, transformation, illumination and protection. Its temples are built around forges whose fires burn continuously, and letting one die is a catastrophe. It is the mainstream Ústaran faith in most of western Ankaris and is politically favored in Provenzia. Its Hamsarnor is checked by a council of senior Hammer-Priests.
 
-[[affiliation-blackflame|The Black Flame]] honors the destructive aspect
-: fire as purifier, weapon and instrument of domination, and the rule of the strong. It is suppressed in most kingdoms and condemned by both the Sacred Forge and the Faith of Árdavon, and it operates through secretive orders and hidden shrines. The [[affiliation-vylarinmpr|Empire of Vylaria]] is the exception: it has never formally proscribed the faith, which maintains temples and ordains clergy openly there.
+- [[affiliation-blackflame|The Black Flame]] honors the destructive aspect: fire as purifier, weapon and instrument of domination, and the rule of the strong. It is suppressed in most kingdoms and condemned by both the Sacred Forge and the Faith of Árdavon, and it operates through secretive orders and hidden shrines. The [[affiliation-vylarinmpr|Empire of Vylaria]] is the exception: it has never formally proscribed the faith, which maintains temples and ordains clergy openly there.
 
 ### The Other Faiths
 

@@ -26,8 +26,7 @@ Gezer'Kuru
 Amqelu'Gatau
 : the queen Gith'el'Retha I, crowned 2025 ST (86 BF).
 
-The age holds fourteen houses in all. The Keepers give the rest as the list gives them
-: a house, a run of reigns, and the months of each.
+The age holds fourteen houses in all. The Keepers give the rest as the list gives them: a house, a run of reigns, and the months of each.
 
 ## Its End
 

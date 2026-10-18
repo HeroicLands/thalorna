@@ -571,11 +571,9 @@ Educated speakers of all three Helonic-family languages can communicate with min
 
 Bizarian naming reflects the culture's hybrid heritage and mercantile values. A Bizarian carries a **given name** and a **house name**, and the tongue builds the two by different operations, so a clerk reading a contract aloud never has to ask which is which:
 
-A **given name** is a root with a personal ending. It runs two to five syllables and closes on a vowel or on a continuant
-: `-l`, `-n`, `-r`, `-s`, `-z`, `-sh`, `-zh`.
+1. A **given name** is a root with a personal ending. It runs two to five syllables and closes on a vowel or on a continuant—`-l`, `-n`, `-r`, `-s`, `-z`, `-sh`, `-zh`.
 
-A **house name** is a root with one of four **house-suffixes**
-: `-ákit`, `-íkot`, `-ídek`, `-zát`. Every one of them closes on the explosive stop that is Bizarian's loudest phonetic signature, and **no given name closes on a stop**.
+2. A **house name** is a root with one of four **house-suffixes**—`-ákit`, `-íkot`, `-ídek`, `-zát`. Every one of them closes on the explosive stop that is Bizarian's loudest phonetic signature, and **no given name closes on a stop**.
 
 The final sound therefore separates the two on hearing alone, which matters in a tongue whose bonds are read out before they are sealed.
 

@@ -66,8 +66,8 @@ sohl:
 
 ## Svapnasari-sameja—The Assembly of the Dream-Followers
 
-Tradition:** **Svapnasari-sameja
-: _The Assembly of the Dream-Followers_
+Tradition
+: **Svapnasari-sameja**—_The Assembly of the Dream-Followers_
 
 Deities Venerated
 : [[affiliation-svapnadevas|Svapnadevas]] (the [[affiliation-svapnadevas|Dreaming Host]]) as primary; through them, the elder [[lore-goddreams|the God of Dreams]] is revered but not named; [[affiliation-kalavrata|Kalavrata]] honored as a companion presence, since the dead and the dream share the threshold

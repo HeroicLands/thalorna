@@ -78,8 +78,8 @@ sohl:
 
 ## Triyanga-sampradeya—The Tradition of the Three Forms
 
-Tradition:** **Triyanga-sampradeya
-: _Tradition of the Three Forms_
+Tradition
+: **Triyanga-sampradeya**—_Tradition of the Three Forms_
 
 Deities Venerated
 : [[affiliation-vyalendra|Vyalendra]], [[affiliation-mahajaya|Mahajaya]], [[affiliation-rasikara|Rasikara]]—as three faces of a single cosmic truth; lesser gods observed as occasion requires
