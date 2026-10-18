@@ -64,6 +64,7 @@ pdf:
     books:
         - id: aelwyth
           title: Aelwyth
+          abbreviation: "Aelw."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -83,6 +84,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-aelwythanclt'
         - id: aukhelathu
           title: Aû'Khelathu
+          abbreviation: "Khel."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -102,6 +104,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-khelathiclt'
         - id: bethua
           title: Bethua
+          abbreviation: "Beth."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -121,6 +124,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-bethuanclt'
         - id: byzaria
           title: Byzaria
+          abbreviation: "Byz."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -140,6 +144,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-byzarianclt'
         - id: dunhara
           title: Dunhara
+          abbreviation: "Dun."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -159,6 +164,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-dunhariclt'
         - id: aureldia
           title: Aureldia
+          abbreviation: "Aurel."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -179,6 +185,7 @@ pdf:
                     - filter: type = 'lore' AND subType <> 'culture' AND data.culture = 'thalorna-note-lore-aureldianclt'
         - id: elavendre
           title: Élavendre
+          abbreviation: "Élav."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -198,6 +205,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-elavendriclt'
         - id: taruzel
           title: Tarûzel
+          abbreviation: "Tarûz."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -217,6 +225,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-taruzelianclt'
         - id: helionis
           title: Helionis
+          abbreviation: "Hel."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -236,6 +245,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-helioniteclt'
         - id: kalihara
           title: Kalihara
+          abbreviation: "Kal."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -255,6 +265,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-kaliharanclt'
         - id: khazari
           title: Khazari
+          abbreviation: "Khaz."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -274,6 +285,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-khazariclt'
         - id: khazryn
           title: Khazryn
+          abbreviation: "Sov."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -293,6 +305,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-sowidesclt'
         - id: nordlands
           title: Nordlands
+          abbreviation: "Nord."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -312,6 +325,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-nordheimnclt'
         - id: nyaluba
           title: Nyaluba
+          abbreviation: "Nyál."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -331,6 +345,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-nyalubaclt'
         - id: okharis
           title: Okháris
+          abbreviation: "Okh."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -350,6 +365,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-okharinclt'
         - id: provenzia
           title: Provènzia
+          abbreviation: "Prv."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -369,6 +385,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-provenzianclt'
         - id: sinale
           title: Sinalë
+          abbreviation: "Sin."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -388,6 +405,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-sinaleclt'
         - id: tantsou
           title: Tāntsou
+          abbreviation: "Tānt."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -407,6 +425,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-tantsouclt'
         - id: jenchai
           title: Jénchài
+          abbreviation: "Jür."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Places
@@ -420,6 +439,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-jenchaiclt'
         - id: tarvenia
           title: Tarvénia
+          abbreviation: "Tarv."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -439,6 +459,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-tarvenanclt'
         - id: tellumi
           title: Tellumi
+          abbreviation: "Tell."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -458,6 +479,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-khazrynclt'
         - id: vedyara
           title: Vedyara
+          abbreviation: "Ved."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -479,6 +501,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture IN ('thalorna-note-lore-vedyariclt', 'thalorna-note-lore-hvarnclt', 'thalorna-note-lore-osketclt')
         - id: vrystwald
           title: Vrystwald
+          abbreviation: "Var."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -498,6 +521,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-varokhiclt'
         - id: vylaria
           title: Vylaria
+          abbreviation: "Vyl."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -517,6 +541,7 @@ pdf:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-vylarianclt'
         - id: world
           title: The World of Thalorna
+          abbreviation: "Thal."
           subtitle: A Song of Heroic Lands Sourcebook
           out: thalorna
           contents:
@@ -540,6 +565,7 @@ pdf:
                     - filter: type = 'doc' AND subType IN ('reference','concept')
         - id: rules
           title: The Rules of Thalorna
+          abbreviation: "Rules"
           subtitle: A Song of Heroic Lands Sourcebook
           contents:
               - sectionName: Skills
@@ -565,6 +591,7 @@ pdf:
                     - filter: type IN ('miscgear','containergear','projectilegear','toolgear')
         - id: bestiary
           title: The Bestiary of Thalorna
+          abbreviation: "Bsty."
           subtitle: A Song of Heroic Lands Sourcebook
           contents:
               - sectionName: Creatures
