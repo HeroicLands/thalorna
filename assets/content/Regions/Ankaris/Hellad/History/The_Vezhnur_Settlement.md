@@ -36,7 +36,7 @@ data:
         - {ref: affiliation-blackflame, role: actor}
         - {ref: affiliation-vylarinmpr, role: author}
       follows:
-        - event: lore-ustaranschsm
+        - event: lore-ustaranschism
           how: caused
           note: the cohort's officers go over to the Black Flame after the schism
         - event: "lore-nartumrefuse#break"
@@ -62,7 +62,7 @@ The [[affiliation-byzarianlg|League]] tolerates the clans above [[place-orashion
 
 ## The Cohort
 
-About 226, six years after [[lore-ustaranschsm|the Ústaran Schism]] split the [[lore-ustarondty|Forge-Lord's faith]], a cohort of the legions stationed in the east lost its officers to [[affiliation-blackflame|the Black Flame]]. The officers were the kind of men a general disciplines or a throne proscribes. The Orzas [Karomfos]{.name data-type="being/npc"}, who would not proscribe the faith ([[lore-nartumrefuse|Nartun Refuses the Empire]]), would not discipline them either, and in the far passes above Órashion, at the edge of the province the legions had just won, he found a use for them.
+About 226, six years after [[lore-ustaranschism|the Ústaran Schism]] split the [[lore-ustarondty|Forge-Lord's faith]], a cohort of the legions stationed in the east lost its officers to [[affiliation-blackflame|the Black Flame]]. The officers were the kind of men a general disciplines or a throne proscribes. The Orzas [Karomfos]{.name data-type="being/npc"}, who would not proscribe the faith ([[lore-nartumrefuse|Nartun Refuses the Empire]]), would not discipline them either, and in the far passes above Órashion, at the edge of the province the legions had just won, he found a use for them.
 
 He settled the cohort on the high passes as frontier colonists under its centurion, **[Vezhnurikos]{.name data-type="being/npc"}**. The passes needed holding and the men needed a place, and no one in the capital asked how the two were being reconciled.
 
@@ -79,7 +79,7 @@ The cohort married into the pass villages. Its sons were raised to arms and its 
 
 ## See Also
 
-- [[lore-ustaranschsm|The Ústaran Schism]]—the schism the cohort's officers answered
+- [[lore-ustaranschism|The Ústaran Schism]]—the schism the cohort's officers answered
 - [[lore-nartumrefuse|Nartun Refuses the Empire]]—the refusal that left them undisciplined
 - [[place-eastrnmrch|Eastern March]] · [[affiliation-orashion|Órashion]]
 - [[place-hekardesert|Desert of Hek'ar]]

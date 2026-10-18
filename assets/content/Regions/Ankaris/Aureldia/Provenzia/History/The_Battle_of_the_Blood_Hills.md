@@ -41,7 +41,7 @@ data:
         - {ref: affiliation-sacredforge, role: actor}
         - {ref: affiliation-vylarinmpr, role: witness}
       follows:
-        - event: lore-ustaranschsm
+        - event: lore-ustaranschism
           how: caused
           note: the quarrel between the Forge-Lord's two faiths becomes a war in a province whose therkos will not choose
         - event: lore-westernwars
@@ -67,7 +67,7 @@ data:
         - whether the storm was the Flame's working or a storm
 ---
 
-The Battle of the Blood Hills was [[affiliation-blackflame|the Black Flame]]'s most infamous battle, fought in the hills east of [[place-ceravelvale|Keravel]], and the ground is still called **[[place-bloodhills|the Blood Hills]]**. The battle was the first great war between the two faiths of [[lore-ustarondty|Ústaron]], the Forge-Lord, and it was fought a generation after [[lore-ustaranschsm|the Schism]] had split them.
+The Battle of the Blood Hills was [[affiliation-blackflame|the Black Flame]]'s most infamous battle, fought in the hills east of [[place-ceravelvale|Keravel]], and the ground is still called **[[place-bloodhills|the Blood Hills]]**. The battle was the first great war between the two faiths of [[lore-ustarondty|Ústaron]], the Forge-Lord, and it was fought a generation after [[lore-ustaranschism|the Schism]] had split them.
 
 ## Two Faiths in One Province
 
@@ -97,5 +97,5 @@ The Forge made the battle its own. It had beaten the Flame at the cost of its kn
 
 - [[place-bloodhills|The Blood Hills]]—the ground the battle left
 - [[affiliation-sacredforge|The Sacred Forge]] · [[affiliation-blackflame|the Black Flame]]
-- [[lore-ustaranschsm|The Ústaran Schism]]—the split that made the two faiths
+- [[lore-ustaranschism|The Ústaran Schism]]—the split that made the two faiths
 - [[lore-charterwar|The War of the Charter]]—where the Forge's grievance came due

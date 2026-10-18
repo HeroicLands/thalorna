@@ -44,7 +44,7 @@ data:
         - {ref: affiliation-vylarinmpr, role: victim}
         - {ref: affiliation-blackflame, role: instrument}
       follows:
-        - event: lore-ustaranschsm
+        - event: lore-ustaranschism
           how: caused
           note: the orthodox clergy asked the throne to proscribe a faith that had not existed a generation earlier
       accounts:
@@ -64,7 +64,7 @@ The secretary of a Nartunese priest-noble, briefing an envoy from [[place-orzara
 
 ## The Request
 
-[[lore-ustaranschsm|The Ústaran Schism]] split the faith of [[lore-ustarondty|Ústaron]], the Forge-Lord, into [[affiliation-sacredforge|the Sacred Forge]] and [[affiliation-blackflame|the Black Flame]] about 220. The orthodox clergy of the [[affiliation-vylarinmpr|Empire]] went to the Orzas **[Karomfos]{.name data-type="being/npc"}** and asked him to proscribe the new faith. He refused. The Black Flame had temples in his capital and officers in his legions, and the Empire's law permitted every faith that did not threaten the stability of the state.
+[[lore-ustaranschism|The Ústaran Schism]] split the faith of [[lore-ustarondty|Ústaron]], the Forge-Lord, into [[affiliation-sacredforge|the Sacred Forge]] and [[affiliation-blackflame|the Black Flame]] about 220. The orthodox clergy of the [[affiliation-vylarinmpr|Empire]] went to the Orzas **[Karomfos]{.name data-type="being/npc"}** and asked him to proscribe the new faith. He refused. The Black Flame had temples in his capital and officers in his legions, and the Empire's law permitted every faith that did not threaten the stability of the state.
 
 ## The Withdrawal
 
@@ -82,7 +82,7 @@ The Orzas sent legions to bring the city back. They reached Nartun in the autumn
 
 ## See Also
 
-[[lore-ustaranschsm|The Ústaran Schism]]
+[[lore-ustaranschism|The Ústaran Schism]]
 : the quarrel the Orzas would not settle
 
 [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]

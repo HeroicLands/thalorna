@@ -61,7 +61,7 @@ The year turns on the [Feast of Thresholds]{.name data-type="lore/gathering"}, f
 
 ### The Ústaran Schism
 
-Ústaron embodies both aspects of flame, the forge that shapes and the inferno that consumes. Roughly five hundred years ago a faction of his clergy declared that his true nature is destruction, and his worship split into two faiths, each calling the other heretical. [[lore-ustaranschsm|The Ústaran Schism]] tells how the break came and why it did not heal.
+Ústaron embodies both aspects of flame, the forge that shapes and the inferno that consumes. Roughly five hundred years ago a faction of his clergy declared that his true nature is destruction, and his worship split into two faiths, each calling the other heretical. [[lore-ustaranschism|The Ústaran Schism]] tells how the break came and why it did not heal.
 
 - [[affiliation-sacredforge|The Sacred Forge]] honors the creative aspect: craftsmanship, transformation, illumination and protection. Its temples are built around forges whose fires burn continuously, and letting one die is a catastrophe. It is the mainstream Ústaran faith in most of western Ankaris and is politically favored in Provenzia. Its Hamsarnor is checked by a council of senior Hammer-Priests.
 
@@ -106,7 +106,7 @@ Kalipsan
 [[affiliation-arldnpnthn|Aureldian Pantheon]]
 : the twelve gods and their faiths
 
-[[lore-ustaranschsm|The Ústaran Schism]]
+[[lore-ustaranschism|The Ústaran Schism]]
 : the split between the Sacred Forge and the Black Flame
 
 [[place-aureldirgn|Aureldia]]
