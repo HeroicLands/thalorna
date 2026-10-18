@@ -290,16 +290,18 @@ function resolves(value, corpus) {
 }
 
 /**
- * The systems the package declares, read from its configuration.
+ * The systems the package declares, read from its configuration: the keys of
+ * `systems:`, then any `relationships.systems` entry not already named.
  *
  * @param {string} configText - The configuration file's contents.
  * @returns {string[]} The declared system ids, in the order declared.
  */
 function declaredSystems(configText) {
     const config = YAML.parse(configText);
-    const declared = config?.relationships?.systems;
-    if (!Array.isArray(declared)) return [];
-    return declared.map((entry) => String(entry?.id ?? "")).filter((id) => id !== "");
+    const ids = Object.keys(config?.systems ?? {});
+    const related = config?.relationships?.systems;
+    if (Array.isArray(related)) ids.push(...related.map((entry) => String(entry?.id ?? "")));
+    return [...new Set(ids)].filter((id) => id !== "");
 }
 
 /**
@@ -748,7 +750,7 @@ function main() {
     }
     if (systems.length === 0) {
         console.error(
-            `${CONFIG_FILE}: error: \`relationships.systems\` declares no system, and the rule that a reference person carries no system block is derived from that list`,
+            `${CONFIG_FILE}: error: neither \`systems\` nor \`relationships.systems\` declares a system, and the rule that a reference person carries no system block is derived from that list`,
         );
         return 1;
     }

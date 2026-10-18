@@ -6,8 +6,15 @@ compatibility:
     minimum: "14.359"
     verified: "14.364"
 
+# The Item and Actor packs are SoHL documents and stamp this version; declaring
+# it restricts no world, so the journals read under any system.
+systems:
+    sohl:
+        manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v0.8.8/system.json
+        compatibility: { minimum: "0.8.8", verified: "0.8.8" }
+
 relationships:
-    systems:
+    recommends:
         - id: sohl
           type: system
           manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v0.8.8/system.json
@@ -32,9 +39,9 @@ authors:
       discord: toasty#8538
 
 packs:
-    - { name: items, label: Items, type: Item }
+    - { name: items, label: Items, type: Item, system: sohl }
     - { name: journals, label: Journals, type: JournalEntry }
-    - { name: actors, label: Actors, type: Actor }
+    - { name: actors, label: Actors, type: Actor, system: sohl }
 
 publish:
     # This package's content is its site, so it mounts at the package root and
@@ -623,7 +630,6 @@ packageBuild:
     assets:
         - { from: src/thalorna.mjs, to: thalorna.mjs }
         - { from: lang, to: lang }
-        - { from: styles, to: styles }
         - { from: README.md, to: README.md }
         - { from: LICENSE.md, to: LICENSE.md }
         - { from: src/LICENSE, to: src/LICENSE }
@@ -654,9 +660,6 @@ packageBuild:
               path: lang/en.json
         esmodules:
             - thalorna.mjs
-        styles:
-            - src: styles/thalorna.css
-              layer: thalorna
         # Names every pack this package ships, so everything Thalorna adds
         # appears together in the compendium sidebar under one folder. Adding
         # a pack to `packs:` above means adding it here.
