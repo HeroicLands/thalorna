@@ -6,6 +6,7 @@ subType: culture
 description: "The Tantsou—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
+  calendar: lore-clndrstrlgy
   language: skill-tantsoulng
   glossary:
     - {name: "Noutsou", definition: "The eighth caste: slaves and outcasts", common: true}

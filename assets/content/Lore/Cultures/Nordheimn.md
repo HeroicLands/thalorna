@@ -6,6 +6,7 @@ subType: culture
 description: "The Nordheimn—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
+  calendar: lore-domseycount
   language: skill-nordmalng
   glossary:
     - name: "blet"

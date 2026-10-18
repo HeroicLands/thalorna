@@ -6,6 +6,7 @@ subType: culture
 description: "The Tellumi—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
+  calendar: lore-khzrnclndr
   language: skill-khazrilng
   glossary:
     - name: "neyin"

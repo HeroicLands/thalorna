@@ -6,6 +6,7 @@ subType: culture
 description: "The Sovidur, the independent herding tribes of the Khazryn steppe—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
+  calendar: lore-swdsclndr
   language: skill-sowideslng
   glossary:
     - name: "keedok"

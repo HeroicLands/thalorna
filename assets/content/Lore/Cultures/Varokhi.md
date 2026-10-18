@@ -6,6 +6,7 @@ subType: culture
 description: "The Varokh—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
+  calendar: lore-wintertally
   language: skill-varokhlng
   glossary:
     - name: "eth-kethrun"

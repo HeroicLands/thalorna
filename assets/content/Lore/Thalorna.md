@@ -10,7 +10,6 @@ data:
   population: 370000000
   world: {equatorialCircumferenceKm: 40000, surfaceGravityG: 1.0, axialTiltDegrees: 23.5}
   year: {days: 365, hoursPerDay: 24, minutesPerHour: 60, secondsPerMinute: 60}
-  calendar: lore-commoncal
   packFolder: setting
 
 # cascade:

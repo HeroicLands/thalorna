@@ -6,6 +6,7 @@ subType: culture
 description: "The Vedyari—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
+  calendar: lore-mdhvndrcnt
   language: skill-vedyarlng
   glossary:
     - name: "janapoda"

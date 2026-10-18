@@ -6,6 +6,7 @@ subType: culture
 description: "The Khelathi—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
+  calendar: lore-khelathclndr
   packFolder: regkhcult
   language: skill-khelathlng
   glossary:

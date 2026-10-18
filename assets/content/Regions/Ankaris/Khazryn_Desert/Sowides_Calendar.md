@@ -6,7 +6,7 @@ subType: calendar
 description: "How the steppe tribes count years: from the last orkunoq to rise, so that each great union opens a new count and the year is named for the banner it flew under."
 tags: [reference, calendar]
 data:
-  culture: khazrynclt
+  culture: sowidesclt
   epoch: "-190.1"
   months:
     - {name: Volket, abbreviation: Vol, days: 91}

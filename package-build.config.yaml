@@ -1,5 +1,6 @@
 contentPackage: thalorna
 currentDate: "720.1"
+defaultCalendar: commoncal
 packageKind: modules
 
 compatibility:

@@ -6,7 +6,7 @@ subType: calendar
 description: "The older count of the Hellád cities, kept beside the Vylarian Calendar by the old families, the Games, the temples and the farming country: twelve months named for the work and the festivals of the year, and seven ages, from the Landings to the Free Cities, each numbering its own years."
 tags: [reference, calendar, history, hellad]
 data:
-  culture: helioniteclt
+  culture: byzarianclt
   epoch: "-800.1"
   months:
     - {name: Anthir, abbreviation: Anth, days: 30}

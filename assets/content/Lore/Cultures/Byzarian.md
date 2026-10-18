@@ -6,6 +6,7 @@ subType: culture
 description: "The Bizarians—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
+  calendar: lore-helladcal
   language: skill-byzarnlng
   glossary:
     - name: "First of the Council"
