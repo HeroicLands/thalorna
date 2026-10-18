@@ -1,6 +1,6 @@
 ---
 shortcode: tarmex
-name: {full: The Tarmeks Orzan, aliases: [The Imperial Treasury, The Tarmeks]}
+name: {full: The Tarmeks Orzan, aliases: [The Tarmeks]}
 type: affiliation
 subType: governmental
 description: "Vylarian imperial treasury and central bank—holds the empire's bullion reserves, issues the master and traveler's notes that underwrite continental commerce, and extracts a 2% issuance fee from every note generated even in territories the empire no longer governs."
@@ -119,7 +119,7 @@ The fee is one reason the polite fiction holds. As long as the kingdoms can say 
 - **The [[affiliation-tevran|Tevran Maldor]]** is a sibling cross-realm institution. It charters the [[affiliation-danvar|moneylenders' guild]] that handles the Tarmeks's foreign operations, and the Tarmeks supplies the credit backing that makes the Danvar's clearing system work. The two coordinate constantly, and the Tevraks and the Imperial _Tarkelos_ meet weekly during their tenures.
 - **The [[affiliation-danvar|Danvar]]** is the operational interface, the visible face of the Tarmeks's banking system in non-imperial territory. Its chapter reserves belong to the wider Tarmeks-backed pool and its moneylenders clear through Tarmeks accounts. The relationship is described publicly as "honored guild standing," not subordination.
 - **The Orzas** is patron and ultimate authority. The Imperial _Tarkelos_ is one of perhaps six officeholders with direct standing access to the Orzas's privy presence.
-- **The [Merazuni]{.name data-type="affiliation"}**, the Taruzelian counterpart that the [[affiliation-vezakuni|Vezakuni]] runs, is formally unrecognized. The Tarmeks does not honor Vezakuni paper and the Merazuni does not honor Tarmeks paper. Cross-border arrangements run through the few Heliónite intermediary houses willing to operate in both systems.
+- **The [Merazuni]{.name data-type="affiliation/governmental"}**, the Taruzelian counterpart that the [[affiliation-vezakuni|Vezakuni]] runs, is formally unrecognized. The Tarmeks does not honor Vezakuni paper and the Merazuni does not honor Tarmeks paper. Cross-border arrangements run through the few Heliónite intermediary houses willing to operate in both systems.
 - **The Aureldian crowns and the Bizarian League** formally have no relationship with the Tarmeks, though its revenue depends on their continued participation. Diplomatic communications about the banking system go through the Dukran's office and not the Tarmeks, to keep up the fiction that the Tarmeks has no foreign-relations role.
 
 ## Identifying Marks

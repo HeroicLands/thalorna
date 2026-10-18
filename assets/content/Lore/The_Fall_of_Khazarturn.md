@@ -1,6 +1,6 @@
 ---
 shortcode: khazarturn
-name: {full: The Fall of Khazartúrn, aliases: [Khazartúrn, The Valley of Seven Towers]}
+name: {full: The Fall of Khazartúrn, aliases: [The Valley of Seven Towers]}
 type: lore
 subType: history
 description: "The destruction of the Khazari's greatest city and every soul in it in 2427 BF—Grukar driven by a renegade Sinale, the worst calamity the Deep Folk have known on Thalorna, and the sealing of the city afterward as a single tomb for thirty thousand."

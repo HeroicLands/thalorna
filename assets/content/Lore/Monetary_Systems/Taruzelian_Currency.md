@@ -1,6 +1,6 @@
 ---
 shortcode: trzlncrncy
-name: {full: Taruzelian Currency, aliases: [Taruzelian Currency System, Merazuni]}
+name: {full: Taruzelian Currency, aliases: [Taruzelian Currency System]}
 type: lore
 subType: economy
 description: "Post-secession Taruzelian monetary system—Vylarian-derived denominations (Solden, Ardin, Bit) issued and cleared through the Vezakuni's Merazuni rather than the Vylarian Tarmeks Orzan; uses Taruzelian-struck coin (slightly underweight Solden, standard-weight Ardin) and Taruzelian temple-of-treasury chits."

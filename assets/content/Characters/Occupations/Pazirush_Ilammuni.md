@@ -440,4 +440,4 @@ The Missing Silver
 : The steward has been selling the house's plate to the passing trade, and the factor has found the plate short and the footman's room searched. The steward searched it.
 
 The Master's Credit
-: The factor's credit at the [Merazuni]{.name data-type="affiliation"} has been questioned, and the caravan-masters who bank with him are asking Pazirush, at the door, whether the house is sound. It is not.
+: The factor's credit at the [Merazuni]{.name data-type="affiliation/governmental"} has been questioned, and the caravan-masters who bank with him are asking Pazirush, at the door, whether the house is sound. It is not.

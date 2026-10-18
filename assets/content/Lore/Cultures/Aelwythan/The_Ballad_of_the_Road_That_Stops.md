@@ -1,6 +1,6 @@
 ---
 shortcode: roadstops
-name: {full: The Ballad of the Road That Stops, aliases: [Edwald the Drover]}
+name: {full: The Ballad of the Road That Stops, aliases: []}
 type: lore
 subType: literature
 description: "The ballad the drovers of the Central Highlands sing on the road: a drover's lad lost in the fog who follows the old stone road south to the bank of oaks where it ends, the tall one among the trees who answers two questions with silence and the third with the fog, the three hills he wakes beneath, the answer he brings home, and the winter he brings the herds down by the road nobody else will take."

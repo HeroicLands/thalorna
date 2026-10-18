@@ -441,4 +441,4 @@ The Sickness
 : Three guests were ill after a dinner at the house, and the steward has said in the factor's hearing that the kitchen was the cause. Teshuda knows every dish that left it, and one she did not cook.
 
 The Empty Cellar
-: The house's credit at the [Merazuni]{.name data-type="affiliation"} has been stopped, quietly, and the tradesmen have begun asking for coin. The factor has said nothing to his kitchen, and there is a feast in ten days.
+: The house's credit at the [Merazuni]{.name data-type="affiliation/governmental"} has been stopped, quietly, and the tradesmen have begun asking for coin. The factor has said nothing to his kitchen, and there is a feast in ten days.

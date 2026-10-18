@@ -91,7 +91,7 @@ Sazumun's people are a polyglot mixture of Taruzeli merchants, Dunhari traders, 
 
 ## Commerce and Currency
 
-The tariffs the House of Factors sets are paid in the [[lore-trzlncrncy|Taruzelian currency]], issued under the **[Merazuni]{.name data-type="affiliation"}** of the [[affiliation-vezakuni|Vezakuni]]. Its denominations are the Vylarian ones—Solden, Ardin and Bit—on Taruzelian reserves rather than the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. The Merazuni's moneylenders carry the banking; Vylarian script goes unhonored on Sazumun's quays, as Taruzelian script does in Vylarian territory.
+The tariffs the House of Factors sets are paid in the [[lore-trzlncrncy|Taruzelian currency]], issued under the **[Merazuni]{.name data-type="affiliation/governmental"}** of the [[affiliation-vezakuni|Vezakuni]]. Its denominations are the Vylarian ones—Solden, Ardin and Bit—on Taruzelian reserves rather than the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. The Merazuni's moneylenders carry the banking; Vylarian script goes unhonored on Sazumun's quays, as Taruzelian script does in Vylarian territory.
 
 ## See Also
 

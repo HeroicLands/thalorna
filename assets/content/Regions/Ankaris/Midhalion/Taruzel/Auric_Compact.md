@@ -63,7 +63,7 @@ The Compact works through counting houses in every major Taruzelian city and mos
 
 ## The Debt That Rules Taruzel
 
-The Compact financed the [Taruzelian War of Independence]{.name data-type="lore/history"}. It was a calculated investment, and it paid off spectacularly when the post-war government fell under guild control. The Compact is the Confederation's creditor; the treasury and the mint belong to the [Merazuni]{.name data-type="affiliation"} of the [[affiliation-vezakuni|Vezakuni]], and the Compact holds only the debt. It uses that leverage to make government policy serve commercial interest: taxes stay low on guild operations, tariffs protect guild monopolies, and the courts enforce guild contracts with enthusiasm.
+The Compact financed the [Taruzelian War of Independence]{.name data-type="lore/history"}. It was a calculated investment, and it paid off spectacularly when the post-war government fell under guild control. The Compact is the Confederation's creditor; the treasury and the mint belong to the [Merazuni]{.name data-type="affiliation/governmental"} of the [[affiliation-vezakuni|Vezakuni]], and the Compact holds only the debt. It uses that leverage to make government policy serve commercial interest: taxes stay low on guild operations, tariffs protect guild monopolies, and the courts enforce guild contracts with enthusiasm.
 
 ## Methods
 

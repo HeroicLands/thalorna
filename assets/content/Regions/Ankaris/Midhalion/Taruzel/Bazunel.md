@@ -84,7 +84,7 @@ The city's academies are modest beside those of [[place-helionis|Helionis]] or t
 
 ## Commerce and Currency
 
-Bazunel's studios and yards are paid in the [[lore-trzlncrncy|Taruzelian currency]], the Confederation's own system under the **[Merazuni]{.name data-type="affiliation"}** of the [[affiliation-vezakuni|Vezakuni]]. It uses the Vylarian denominations (Solden, Ardin and Bit), but Taruzelian reserves back it rather than the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and its Solden is slightly underweight by the Vylarian standard. Merazuni-affiliated moneylenders do the city's banking. Neither side's script crosses the border: Vylarian paper is not honored here, and Taruzelian paper is not honored in Vylarian territory.
+Bazunel's studios and yards are paid in the [[lore-trzlncrncy|Taruzelian currency]], the Confederation's own system under the **[Merazuni]{.name data-type="affiliation/governmental"}** of the [[affiliation-vezakuni|Vezakuni]]. It uses the Vylarian denominations (Solden, Ardin and Bit), but Taruzelian reserves back it rather than the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and its Solden is slightly underweight by the Vylarian standard. Merazuni-affiliated moneylenders do the city's banking. Neither side's script crosses the border: Vylarian paper is not honored here, and Taruzelian paper is not honored in Vylarian territory.
 
 ## See Also
 

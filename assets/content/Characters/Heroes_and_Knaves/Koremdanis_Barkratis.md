@@ -530,7 +530,7 @@ House Barkratis
 ## Plot Hooks
 
 The Challenge from the East
-: Word arrives that a famed swordmaster from the distant [Eastern Kingdoms]{.name data-type="place"}, a figure named [Hiroshi the Unbound]{.name data-type="being/npc"}, wishes to challenge Koremdanis to a duel. This master is said to practice a form of swordsmanship completely unknown in Vylaria, based on principles fundamentally different from the Path of Breath. Accepting the challenge could result in either triumph or her first real defeat. The duel would draw attention from every court and could have diplomatic consequences; it would be no simple test of martial skill.
+: Word arrives that a famed swordmaster from distant [[place-jenchairgn|Jenchai]], a figure named [Weja the Unbound]{.name data-type="being/npc"}, wishes to challenge Koremdanis to a duel. This master is said to practice a form of swordsmanship completely unknown in Vylaria, based on principles fundamentally different from the Path of Breath. Accepting the challenge could result in either triumph or her first real defeat. The duel would draw attention from every court and could have diplomatic consequences; it would be no simple test of martial skill.
 
 The Poisoned Student
 : One of her most promising students, Lord [Cassian]{.name data-type="being/npc"}, falls mysteriously ill with a poison that no physician can identify or cure. As Koremdanis investigates, she discovers evidence suggesting he was poisoned not by an enemy but by a rival student jealous of his progress. The discovery raises the question of what her teaching, taken to extremes, can make of a student.

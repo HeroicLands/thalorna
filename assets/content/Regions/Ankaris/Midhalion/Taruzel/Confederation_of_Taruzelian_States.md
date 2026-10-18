@@ -242,7 +242,7 @@ The Kingdom of Amradad holds the mainland across the strait, and relations with 
 
 ## Commerce and Currency
 
-The Confederation pays in the [[lore-trzlncrncy|Taruzelian currency]], the system it built after secession and administers through the **[Merazuni]{.name data-type="affiliation"}**, the treasury of the [[affiliation-vezakuni|Vezakuni]]. Its denominations are the Vylarian ones (Solden, Ardin and Bit), but they are backed by Taruzelian reserves rather than by the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. A network of Merazuni-affiliated moneylenders carries the banking. Vylarian script is not honored in Taruzel, and Taruzelian script is not honored in Vylarian territory.
+The Confederation pays in the [[lore-trzlncrncy|Taruzelian currency]], the system it built after secession and administers through the **[Merazuni]{.name data-type="affiliation/governmental"}**, the treasury of the [[affiliation-vezakuni|Vezakuni]]. Its denominations are the Vylarian ones (Solden, Ardin and Bit), but they are backed by Taruzelian reserves rather than by the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. A network of Merazuni-affiliated moneylenders carries the banking. Vylarian script is not honored in Taruzel, and Taruzelian script is not honored in Vylarian territory.
 
 ## See Also
 
