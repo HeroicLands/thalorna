@@ -266,7 +266,7 @@ You did not ask. We did not say.
   before, and watched it fall behind
 the next bright thing, and pass away.
 
-Haulera, eldest of us, said,
+Hauletta, eldest of us, said,
   "I knew halls once." She stopped. "These came
   here pushed. A pushed thing does the same
 to what is next. And we're ahead.
@@ -288,10 +288,10 @@ you say they'll beg. He broke your rule.
 
 He had not got much. What he'd got
   he gave: himself. They're here. They'll stay
-  by us, Haulera, either way.
+  by us, Hauletta, either way.
 The sea, you say? And after, what?"
 
-Haulera: "Yes." And Lauva: "No."
+Hauletta: "Yes." And Lauva: "No."
   The rest of us said neither. We
   would not drive you off to the sea,
 nor let you in, nor let you go.
@@ -323,7 +323,7 @@ Not dead. Not back. No trace. No debt.
 
 One sat down in the snow, not old,
   and laid his head down. Lauva stood
-  to go to him. Haulera would
+  to go to him. Hauletta would
 not have it, and her hand took hold.
 
 "Go out to him, and they will come
@@ -341,7 +341,7 @@ A man was calling for his son.
   his two hands open, calling clear,
 "Ansel!" The snow had Dhargan's son.
 
-It was Haulera's choice. She could
+It was Hauletta's choice. She could
   have let the paths stay turned. She let
   them straighten. No one spoke. We set
 no word to it. We understood.
@@ -356,7 +356,7 @@ He turned to the dark trees, and spoke:
   fire, spear, nor bread. Alone." And so
 he went back down into the smoke.
 
-Haulera stood a long time there.
+Hauletta stood a long time there.
   Then: "Let him. We will see what's meant."
   And that was all. And so we went
 back in. We left the paths laid bare.
@@ -382,7 +382,7 @@ He sat. He had said: called, or no.
 
 The fourth dawn came. By then, the sun
   would find him dead, or find us there.
-  Haulera went out, did not bear
+  Hauletta went out, did not bear
 a word, nor food. She was the one.
 
 She said, "Why do you sit?" He said,
@@ -405,7 +405,7 @@ He asked us well. And so we said
   by any of your kind: the lore.
 And Dhargan took it in his head.
 
-Haulera gave him there a name
+Hauletta gave him there a name
   in our own tongue, for how he'd sat.
   No man has heard it. Not yet. That
 is at the end. Then it's your claim.
@@ -420,8 +420,8 @@ And there are places where it's thin
   at those, and turn them back by hand,
 or song, or fire. Or they come in.
 
-This wood is Lonvu." "Lonpu." "No.
-  Lonvu." He could not make the sound.
+This wood is Lonku." "Lonpu." "No.
+  Lonku." He could not make the sound.
   His children's children got it round.
 His mouth could not. We let it go.
 
@@ -495,7 +495,7 @@ One boy climbed up it in the sun,
 no diving got him back. Not one.
 
 Nela went up and sat, and asked.
-  Haulera said: "That is one thing,
+  Hauletta said: "That is one thing,
   seven falls, one water. In the spring
 it's loudest. Here's what you are tasked.
 
@@ -509,7 +509,7 @@ No fishing past the third fall. None
   the Stair by day." Nine thousand times
 you've asked us why. "Not in the sun."
 
-That is the whole Haulera said,
+That is the whole Hauletta said,
   then, or since then. You ask each year.
   The answer's what it was: not here,
 not in the sun. Go up instead.
@@ -530,8 +530,8 @@ We stood apart. It was not ours
 as Dhargan had. That Pact is yours.
 
 One spring he asked about the fog
-  that kept his son. Haulera told:
-  "Thalve. It's thin there, when the cold
+  that kept his son. Hauletta told:
+  "Talve. It's thin there, when the cold
 goes out in spring. Take spear and dog.
 
 Sit by it through the night, in twos.
@@ -550,11 +550,11 @@ He set a watch there that same spring:
 you keep. It's older than your king.
 
 Each spring he came and sat. Each year
-  Haulera went to him. They'd talk
+  Hauletta went to him. They'd talk
   of sheep, at first. They'd sit, or walk.
 Then more. She'd come back in. We'd hear.
 
-Haulera, who had said "the sea,"
+Hauletta, who had said "the sea,"
   began, each spring, to look for him.
   We saw. We said no word to him,
 nor her. His hair went white. Let be.
@@ -572,7 +572,7 @@ it. That was the last climb he had.
 Next year his daughter brought him, laid
   him down where he had sat before.
   He could not sit up any more.
-Haulera knelt by him, and stayed.
+Hauletta knelt by him, and stayed.
 
 We do not kneel. She knelt. And he
   said, "Come down. You have never come.
@@ -625,7 +625,7 @@ You did not ask. We did not say.
 same face, the first one's, gone half grey.
 
 "I'm Ghalmir, of his line," he said.
-  Haulera looked at him, and saw
+  Hauletta looked at him, and saw
   the first one's face, the same set jaw,
 and, under stone, the first one, dead.
 
@@ -648,7 +648,7 @@ The oak ran out. The ash ran out.
   around the Lodge, and said, "Cut these."
 You let him do it. None spoke out.
 
-He pulled the watch off Thalve, too.
+He pulled the watch off Talve, too.
   He needed hands to haul and split.
   "One spring," he said. "The fog can sit
 unwatched one spring." You thought so, too.
@@ -658,7 +658,7 @@ The birch came down—a stand—at dark.
   the stars came out that night, and then
 each night, no starlight lit the bark.
 
-And Thalve went unwatched. In spring
+And Talve went unwatched. In spring
   a thing came through it, made of fog,
   stag-shaped, with no eyes. First a dog
 died at the Lodge. Then anything.
@@ -688,23 +688,23 @@ Then Mogha brought you up. You sat
   hands bare—as he had, in the cold,
 three days. And no one begged. You sat.
 
-Haulera went to her. "Why do
+Hauletta went to her. "Why do
   you sit?" And Mogha said, "We broke
   it. We cut birch. We left the smoke
-on Thalve. We did not ask you.
+on Talve. We did not ask you.
 
 We have come back to ask. Not for
   the trees. They're gone. We ask to keep
   the wood again: the watch, the deep
 pool, fog. We'll fail, and ask once more."
 
-Haulera stood a long time there.
+Hauletta stood a long time there.
   She knew the cost: not this once. Each
   time after, when a face would reach
 the edge again and sit, hands bare.
 
 She said, "Keep it." No more. And we
-  went with you, once, to Thalve. In
+  went with you, once, to Talve. In
   the fog, you sang. We sang. The thin
 place took it back. We let you be.
 
@@ -742,7 +742,7 @@ His hands were bare. He said, "Take in
   outside, and keep the fire away
 from you. We don't ask to come in."
 
-Haulera heard. This was the task
+Hauletta heard. This was the task
   she'd set you, lives back, and not known:
   with fire behind you, and alone,
 to drive, or ask? He came and asked.
@@ -763,7 +763,7 @@ They came at dusk. They came with brands.
 into the birch. Into the stands.
 
 The birch caught. One. And then the stand.
-  We watched Haulera. She looked long.
+  We watched Hauletta. She looked long.
   We do not fight. We sing. No song
 puts out a fire. She raised her hand.
 
@@ -787,7 +787,7 @@ Then Dulthan's spear. It took him in
   until it died, in his burned hand.
 Then he sat down, where trees grow thin.
 
-Haulera looked at Dulthan. That
+Hauletta looked at Dulthan. That
   was all she did. He turned. He ran.
   His men ran after him. No man
 came back that year. Nor since. Mind that.
@@ -816,7 +816,7 @@ Ethalosse, we call it. You
   it badly; so did theirs. It spread,
 mouth to mouth, lives, till it came true.
 
-Haulera spoke, so all could hear—
+Hauletta spoke, so all could hear—
   a thing we do not do. You'd stood
   all night, your backs set to the wood,
 and asked, not driven. She came near.
@@ -859,7 +859,7 @@ it passed: no gift, no vow. For good.
 You stood inside it as a child
   stands in a coat cut large, and grew
   into it, lives on end. We knew
-no plan for that. Haulera smiled.
+no plan for that. Hauletta smiled.
 
 That day you set the watch again:
   his sons, and theirs, and theirs. You call
@@ -891,7 +891,7 @@ And here's a name we've kept, unheard
   he sat. It's his, in our tongue. Bring
 it down with you. Here is the word.
 
-"Vilme," it is—the one who sat.
+"Pilme," it is—the one who sat.
   Say it to children by the hearth,
   and at his cairn, and on the earth
 he's under. It is his. Keep that.
@@ -917,19 +917,19 @@ The song keeps the Áelendan names as the Áelendan say them and the Sinale name
 | **Nela**     | Dhargan's daughter, the lamb over Nelgan, who made the asking at the Stair and was the first Tradition Keeper after him                            |
 | **Silor**    | The band's shaman, whose grass-country forms fail on the fae, who makes the Pact at the lowest pool                                                |
 | **Ansel**    | Dhargan's son, who sat down in the snow and was called out                                                                                         |
-| **Dranketh** | Dhargan's other son, kept by the fog at Thalve in the Lean Year                                                                                    |
+| **Dranketh** | Dhargan's other son, kept by the fog at Talve in the Lean Year                                                                                     |
 | **Tala**     | Nela's grandchild, who enlarged the fox's share in the song                                                                                        |
 | **Ghalmir**  | The chief of the Black Snow year, who felled the stand and pulled the watch, and was made Kinless                                                  |
 | **Mogha**    | Ghalmir's sister, a Tradition Keeper, who led the return                                                                                           |
 | **Dulthan**  | The raiders' chief as the Áelendan name him, a name mothers use to still a child                                                                   |
 | **Nelgan**   | The eastern pass, also called the Snow-Gate                                                                                                        |
-| **Haulera**  | The eldest of the Sinale of Lonvu, she who said "the sea", once a guest in the makers' halls                                                       |
+| **Hauletta** | The eldest of the Sinale of Lonku, she who said "the sea", once a guest in the makers' halls                                                       |
 | **Lauva**    | The Sinale whose care is the pool, who ate the bread                                                                                               |
-| **Vilme**    | Dhargan's epithet in the Sinale tongue, "the one who sat", withheld until the song's close                                                         |
-| **Lonvu**    | The Silver Forests, as the Sinale name them                                                                                                        |
+| **Pilme**    | Dhargan's epithet in the Sinale tongue, "the one who sat", withheld until the song's close                                                         |
+| **Lonku**    | The Silver Forests, as the Sinale name them                                                                                                        |
 | **Mallonna** | The deep pool Lauva keeps, a thin place in water                                                                                                   |
 | **Tehy**     | The clearing round the one tree                                                                                                                    |
-| **Thalve**   | The fog-hollow thin place at the wood's edge                                                                                                       |
+| **Talve**    | The fog-hollow thin place at the wood's edge                                                                                                       |
 
 ## See Also
 

@@ -3,7 +3,7 @@ shortcode: sinalelng
 name: {full: Sinale Language, aliases: [Elder Tongue]}
 type: skill
 subType: language
-description: "The eldest of the Elder Tongues—vowel-heavy, soft-consonanted, and sung as often as spoken, older than any human settlement on Thalorna."
+description: "The eldest of the Elder Tongues—vowel-heavy, clean-consonanted, and sung as often as spoken, older than any human settlement on Thalorna."
 tags: []
 data:
   abbreviation: Sin.
@@ -36,9 +36,9 @@ data:
       holds: "The words that hold a sentence together."
   words:
     - {form: nuuva, class: n, field: "Light, stars, sky and the hours", gloss: "starlight"}
-    - {form: olvessa, class: "n", field: "Light, stars, sky and the hours", gloss: "the long dusk"}
+    - {form: oltessa, class: "n", field: "Light, stars, sky and the hours", gloss: "the long dusk"}
     - {form: eilava, class: "n", field: "Light, stars, sky and the hours", gloss: "the wide sky"}
-    - form: thilvai
+    - form: tilvai
       class: "n"
       field: "Light, stars, sky and the hours"
       gloss: "the seam of light"
@@ -46,50 +46,50 @@ data:
       class: "n"
       field: "Light, stars, sky and the hours"
       gloss: "the evening star"
-    - {form: selvi, class: "n", field: "Light, stars, sky and the hours", gloss: "the woven light"}
+    - {form: selki, class: "n", field: "Light, stars, sky and the hours", gloss: "the woven light"}
     - {form: aulira, class: "n", field: "Light, stars, sky and the hours", gloss: "light"}
-    - {form: hirvel, class: "n", field: "Light, stars, sky and the hours", gloss: "the sun"}
-    - {form: sorel, class: "n", field: "Light, stars, sky and the hours", gloss: "the moon"}
-    - {form: irvalo, class: "n", field: "Light, stars, sky and the hours", gloss: "dawn"}
-    - {form: rhosel, class: "n", field: "Light, stars, sky and the hours", gloss: "morning"}
-    - form: seiranda
+    - {form: hirkel, class: "n", field: "Light, stars, sky and the hours", gloss: "the sun"}
+    - {form: sotel, class: "n", field: "Light, stars, sky and the hours", gloss: "the moon"}
+    - {form: irvatto, class: "n", field: "Light, stars, sky and the hours", gloss: "dawn"}
+    - {form: rosel, class: "n", field: "Light, stars, sky and the hours", gloss: "morning"}
+    - form: seikanda
       class: "n"
       field: "Light, stars, sky and the hours"
       gloss: "noon, the full day"
-    - {form: theilan, class: "n", field: "Light, stars, sky and the hours", gloss: "daylight"}
-    - {form: olvarne, class: "n", field: "Light, stars, sky and the hours", gloss: "evening"}
+    - {form: teipan, class: "n", field: "Light, stars, sky and the hours", gloss: "daylight"}
+    - {form: oltarne, class: "n", field: "Light, stars, sky and the hours", gloss: "evening"}
     - {form: ossenda, class: "n", field: "Light, stars, sky and the hours", gloss: "night"}
-    - form: ulvessen
+    - form: ulkessen
       class: "n"
       field: "Light, stars, sky and the hours"
       gloss: "the deep of night"
     - {form: naldu, class: "n", field: "Light, stars, sky and the hours", gloss: "the dark"}
-    - {form: olthe, class: "n", field: "Light, stars, sky and the hours", gloss: "a cast shadow"}
-    - {form: ilthy, class: "n", field: "Light, stars, sky and the hours", gloss: "a gleam"}
-    - {form: sirva, class: v, field: "Light, stars, sky and the hours", gloss: "glow"}
+    - {form: olte, class: "n", field: "Light, stars, sky and the hours", gloss: "a cast shadow"}
+    - {form: ilty, class: "n", field: "Light, stars, sky and the hours", gloss: "a gleam"}
+    - {form: sirta, class: v, field: "Light, stars, sky and the hours", gloss: "glow"}
     - {form: seëlis, class: v, field: "Light, stars, sky and the hours", gloss: "shine"}
-    - {form: thirrel, class: v, field: "Light, stars, sky and the hours", gloss: "shimmer"}
-    - {form: ellyve, class: adj, field: "Light, stars, sky and the hours", gloss: "bright"}
-    - {form: olvas, class: adj, field: "Light, stars, sky and the hours", gloss: "dim"}
-    - {form: sielle, class: adj, field: "Light, stars, sky and the hours", gloss: "pale"}
-    - {form: selthis, class: adj, field: "Light, stars, sky and the hours", gloss: "silver"}
+    - {form: tikkel, class: v, field: "Light, stars, sky and the hours", gloss: "shimmer"}
+    - {form: ekkyve, class: adj, field: "Light, stars, sky and the hours", gloss: "bright"}
+    - {form: oltas, class: adj, field: "Light, stars, sky and the hours", gloss: "dim"}
+    - {form: siekke, class: adj, field: "Light, stars, sky and the hours", gloss: "pale"}
+    - {form: seltis, class: adj, field: "Light, stars, sky and the hours", gloss: "silver"}
     - form: hirsa
       class: adj
       field: "Light, stars, sky and the hours"
       gloss: "gold, sun-coloured"
-    - {form: helvi, class: adj, field: "Light, stars, sky and the hours", gloss: "white"}
+    - {form: helti, class: adj, field: "Light, stars, sky and the hours", gloss: "white"}
     - {form: olsel, class: adj, field: "Light, stars, sky and the hours", gloss: "grey"}
-    - form: ivessa
+    - form: ikkessa
       class: adj
       field: "Light, stars, sky and the hours"
       gloss: "blue, the colour of the high sky"
-    - {form: ylve, class: "n", field: "Light, stars, sky and the hours", gloss: "the high air"}
-    - {form: seive, class: "n", field: "Light, stars, sky and the hours", gloss: "a high cloud"}
-    - {form: irilla, class: "n", field: "Light, stars, sky and the hours", gloss: "the rainbow"}
-    - {form: ilthavi, class: "n", field: "Light, stars, sky and the hours", gloss: "the hour"}
-    - {form: vithel, class: "n", field: "Light, stars, sky and the hours", gloss: "the north"}
-    - {form: malesse, class: "n", field: "Light, stars, sky and the hours", gloss: "the south"}
-    - {form: elthis, class: "n", field: "Light, stars, sky and the hours", gloss: "the horizon"}
+    - {form: ylpe, class: "n", field: "Light, stars, sky and the hours", gloss: "the high air"}
+    - {form: seippe, class: "n", field: "Light, stars, sky and the hours", gloss: "a high cloud"}
+    - {form: irikka, class: "n", field: "Light, stars, sky and the hours", gloss: "the rainbow"}
+    - {form: iltatti, class: "n", field: "Light, stars, sky and the hours", gloss: "the hour"}
+    - {form: vittel, class: "n", field: "Light, stars, sky and the hours", gloss: "the north"}
+    - {form: matesse, class: "n", field: "Light, stars, sky and the hours", gloss: "the south"}
+    - {form: eltis, class: "n", field: "Light, stars, sky and the hours", gloss: "the horizon"}
     - form: nuuvanu
       class: "n"
       field: "Light, stars, sky and the hours"
@@ -110,56 +110,56 @@ data:
       field: "Light, stars, sky and the hours"
       gloss: "a ray of light"
       built: [aulira, "-nu"]
-    - form: auliralu
+    - form: aulirakki
       class: "n"
       field: "Light, stars, sky and the hours"
       gloss: "a glimmer"
-      built: [aulira, "-lu"]
-    - form: hirvelaulira
+      built: [aulira, "-kki"]
+    - form: hirkelaulira
       class: "n"
       field: "Light, stars, sky and the hours"
       gloss: "sunlight"
-      built: [hirvel, aulira]
-    - form: sorelaulira
+      built: [hirkel, aulira]
+    - form: sotelaulira
       class: "n"
       field: "Light, stars, sky and the hours"
       gloss: "moonlight"
-      built: [sorel, aulira]
-    - form: irvalosto
+      built: [sotel, aulira]
+    - form: irvattosto
       class: "n"
       field: "Light, stars, sky and the hours"
       gloss: "the east, where the dawn is"
-      built: [irvalo, "-sto"]
-    - form: olvessasto
+      built: [irvatto, "-sto"]
+    - form: oltessasto
       class: "n"
       field: "Light, stars, sky and the hours"
       gloss: "the west, where the dusk is"
-      built: [olvessa, "-sto"]
-    - form: irvalolta
+      built: [oltessa, "-sto"]
+    - form: irvattota
       class: v
       field: "Light, stars, sky and the hours"
       gloss: "dawn"
-      built: [irvalo, "-lta"]
-    - form: naldulta
+      built: [irvatto, "-ta"]
+    - form: nalduta
       class: v
       field: "Light, stars, sky and the hours"
       gloss: "darken"
-      built: [naldu, "-lta"]
-    - form: nuuvarno
+      built: [naldu, "-ta"]
+    - form: nuuvakko
       class: "n"
       field: "Light, stars, sky and the hours"
       gloss: "a cluster of stars"
-      built: [nuuva, "-rno"]
+      built: [nuuva, "-kko"]
     - form: seëlisse
       class: adj
       field: "Light, stars, sky and the hours"
       gloss: "shining"
       built: [seëlis, "-se"]
-    - form: ellyverse
+    - form: ekkyverse
       class: "n"
       field: "Light, stars, sky and the hours"
       gloss: "brightness"
-      built: [ellyve, "-rse"]
+      built: [ekkyve, "-rse"]
     - form: naldursa
       class: "n"
       field: "Light, stars, sky and the hours"
@@ -175,12 +175,9 @@ data:
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "the still surface"
-    - {form: lavuri, class: "n", field: "Water, weather and the seasons", gloss: "running water"}
-    - form: lanthavo
-      class: "n"
-      field: "Water, weather and the seasons"
-      gloss: "the slow river"
-    - form: kelvasi
+    - {form: lapuri, class: "n", field: "Water, weather and the seasons", gloss: "running water"}
+    - {form: lantavo, class: "n", field: "Water, weather and the seasons", gloss: "the slow river"}
+    - form: kelkasi
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "the cold spring"
@@ -188,7 +185,7 @@ data:
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "the smell of rain"
-    - {form: thalve, class: "n", field: "Water, weather and the seasons", gloss: "the low fog"}
+    - {form: talve, class: "n", field: "Water, weather and the seasons", gloss: "the low fog"}
     - {form: hallesi, class: "n", field: "Water, weather and the seasons", gloss: "white frost"}
     - {form: ilvy, class: "n", field: "Water, weather and the seasons", gloss: "thin ice"}
     - {form: nelyve, class: "n", field: "Water, weather and the seasons", gloss: "the first frost"}
@@ -196,41 +193,41 @@ data:
     - {form: sulme, class: "n", field: "Water, weather and the seasons", gloss: "the first thaw"}
     - {form: liseri, class: "n", field: "Water, weather and the seasons", gloss: "still water"}
     - {form: telvi, class: "n", field: "Water, weather and the seasons", gloss: "the falling drop"}
-    - {form: melve, class: "n", field: "Water, weather and the seasons", gloss: "water"}
-    - {form: rhavalo, class: n, field: "Water, weather and the seasons", gloss: "rain"}
-    - {form: nyve, class: n, field: "Water, weather and the seasons", gloss: "snow"}
-    - {form: iskeli, class: "n", field: "Water, weather and the seasons", gloss: "ice"}
-    - {form: wilvai, class: "n", field: "Water, weather and the seasons", gloss: "wind"}
-    - {form: rhaskel, class: "n", field: "Water, weather and the seasons", gloss: "storm"}
-    - {form: selmis, class: "n", field: "Water, weather and the seasons", gloss: "mist"}
+    - {form: melke, class: "n", field: "Water, weather and the seasons", gloss: "water"}
+    - {form: ravatto, class: n, field: "Water, weather and the seasons", gloss: "rain"}
+    - {form: nyke, class: n, field: "Water, weather and the seasons", gloss: "snow"}
+    - {form: isketti, class: "n", field: "Water, weather and the seasons", gloss: "ice"}
+    - {form: vilkai, class: "n", field: "Water, weather and the seasons", gloss: "wind"}
+    - {form: raskel, class: "n", field: "Water, weather and the seasons", gloss: "storm"}
+    - {form: selpis, class: "n", field: "Water, weather and the seasons", gloss: "mist"}
     - {form: eëvi, class: n, field: "Water, weather and the seasons", gloss: "dew"}
-    - {form: lanthevi, class: "n", field: "Water, weather and the seasons", gloss: "a river"}
+    - {form: lanteppi, class: "n", field: "Water, weather and the seasons", gloss: "a river"}
     - {form: rinnel, class: "n", field: "Water, weather and the seasons", gloss: "a brook"}
-    - form: uvenda
+    - form: ukkenda
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "a well, a source"
-    - {form: wainessa, class: "n", field: "Water, weather and the seasons", gloss: "a lake"}
-    - {form: ulvanne, class: "n", field: "Water, weather and the seasons", gloss: "the sea"}
-    - {form: rhulla, class: "n", field: "Water, weather and the seasons", gloss: "a wave"}
-    - {form: salenda, class: "n", field: "Water, weather and the seasons", gloss: "a waterfall"}
-    - {form: seiva, class: n, field: "Water, weather and the seasons", gloss: "foam"}
-    - {form: rhumma, class: "n", field: "Water, weather and the seasons", gloss: "thunder"}
-    - {form: rhiskalo, class: "n", field: "Water, weather and the seasons", gloss: "lightning"}
+    - {form: vainessa, class: "n", field: "Water, weather and the seasons", gloss: "a lake"}
+    - {form: ulpanne, class: "n", field: "Water, weather and the seasons", gloss: "the sea"}
+    - {form: rukko, class: "n", field: "Water, weather and the seasons", gloss: "a wave"}
+    - {form: sattenda, class: "n", field: "Water, weather and the seasons", gloss: "a waterfall"}
+    - {form: seitta, class: n, field: "Water, weather and the seasons", gloss: "foam"}
+    - {form: rumma, class: "n", field: "Water, weather and the seasons", gloss: "thunder"}
+    - {form: riskatto, class: "n", field: "Water, weather and the seasons", gloss: "lightning"}
     - {form: kestel, class: n, field: "Water, weather and the seasons", gloss: "hail"}
-    - form: leiren
+    - form: leiken
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "spring, the season"
-    - {form: auremel, class: "n", field: "Water, weather and the seasons", gloss: "summer"}
-    - {form: verranel, class: "n", field: "Water, weather and the seasons", gloss: "autumn"}
-    - {form: emmara, class: adj, field: "Water, weather and the seasons", gloss: "warm"}
+    - {form: autemel, class: "n", field: "Water, weather and the seasons", gloss: "summer"}
+    - {form: vekkanel, class: "n", field: "Water, weather and the seasons", gloss: "autumn"}
+    - {form: emmaka, class: adj, field: "Water, weather and the seasons", gloss: "warm"}
     - {form: hilsy, class: adj, field: "Water, weather and the seasons", gloss: "cold"}
-    - {form: melis, class: adj, field: "Water, weather and the seasons", gloss: "wet"}
+    - {form: mekkis, class: adj, field: "Water, weather and the seasons", gloss: "wet"}
     - {form: harsel, class: adj, field: "Water, weather and the seasons", gloss: "dry"}
-    - {form: irva, class: v, field: "Water, weather and the seasons", gloss: "flow"}
-    - {form: elvane, class: "n", field: "Water, weather and the seasons", gloss: "weather"}
-    - form: valmi
+    - {form: irpa, class: v, field: "Water, weather and the seasons", gloss: "flow"}
+    - {form: eltane, class: "n", field: "Water, weather and the seasons", gloss: "weather"}
+    - form: valki
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "a stone (in water, rounded)"
@@ -239,243 +236,247 @@ data:
       field: "Water, weather and the seasons"
       gloss: "depth"
       built: [mollu, "-rsa"]
-    - form: pelvailu
+    - form: pelvaikki
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "a wisp of cloud"
-      built: [pelvai, "-lu"]
-    - form: thalvelta
+      built: [pelvai, "-kki"]
+    - form: talveta
       class: v
       field: "Water, weather and the seasons"
       gloss: "fog over"
-      built: [thalve, "-lta"]
-    - form: rhavalonu
+      built: [talve, "-ta"]
+    - form: ravattonu
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "a raindrop"
-      built: [rhavalo, "-nu"]
-    - form: nyveny
+      built: [ravatto, "-nu"]
+    - form: nykeny
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "a snowflake"
-      built: [nyve, "-ny"]
+      built: [nyke, "-ny"]
     - form: eëviny
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "a dewdrop"
       built: [eëvi, "-ny"]
-    - form: rhavalolta
+    - form: ravattota
       class: v
       field: "Water, weather and the seasons"
       gloss: "rain"
-      built: [rhavalo, "-lta"]
-    - form: nyvelte
+      built: [ravatto, "-ta"]
+    - form: nykete
       class: v
       field: "Water, weather and the seasons"
       gloss: "snow"
-      built: [nyve, "-lte"]
-    - form: iskelilta
+      built: [nyke, "-te"]
+    - form: iskettita
       class: v
       field: "Water, weather and the seasons"
       gloss: "freeze"
-      built: [iskeli, "-lta"]
-    - form: mollulu
+      built: [isketti, "-ta"]
+    - form: mollukki
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "a little pool"
-      built: [mollu, "-lu"]
-    - form: lanthevilu
+      built: [mollu, "-kki"]
+    - form: lanteppikki
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "a stream, a little river"
-      built: [lanthevi, "-lu"]
-    - form: rhavalosa
+      built: [lanteppi, "-kki"]
+    - form: ravattosa
       class: adj
       field: "Water, weather and the seasons"
       gloss: "rainy"
-      built: [rhavalo, "-sa"]
-    - form: wilvaisto
+      built: [ravatto, "-sa"]
+    - form: vilkaisto
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "a windy place"
-      built: [wilvai, "-sto"]
+      built: [vilkai, "-sto"]
     - form: unturosa
       class: adj
       field: "Water, weather and the seasons"
       gloss: "wintry"
       built: [unturo, "-sa"]
-    - form: melvesa
+    - form: melkesa
       class: adj
       field: "Water, weather and the seasons"
       gloss: "watery"
-      built: [melve, "-sa"]
-    - {form: kalvi, class: "n", field: "Trees, plants and the living wood", gloss: "pale wood"}
+      built: [melke, "-sa"]
+    - {form: kalpi, class: "n", field: "Trees, plants and the living wood", gloss: "pale wood"}
     - form: haule
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "the unfallen leaf, the evergreen"
     - {form: olmasi, class: n, field: "Trees, plants and the living wood", gloss: "moss on stone"}
-    - {form: porvi, class: "n", field: "Trees, plants and the living wood", gloss: "the split log"}
-    - {form: lonvu, class: "n", field: "Trees, plants and the living wood", gloss: "the deep wood"}
+    - {form: porki, class: "n", field: "Trees, plants and the living wood", gloss: "the split log"}
+    - {form: lonku, class: "n", field: "Trees, plants and the living wood", gloss: "the deep wood"}
     - {form: rivy, class: n, field: "Trees, plants and the living wood", gloss: "the turning leaf"}
-    - {form: lenthi, class: n, field: "Trees, plants and the living wood", gloss: "the tall grass"}
-    - {form: nylvi, class: "n", field: "Trees, plants and the living wood", gloss: "the deep root"}
+    - {form: lenti, class: n, field: "Trees, plants and the living wood", gloss: "the tall grass"}
+    - {form: nylki, class: "n", field: "Trees, plants and the living wood", gloss: "the deep root"}
     - {form: kinsa, class: "n", field: "Trees, plants and the living wood", gloss: "the new shoot"}
     - form: olmarna
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "the heartwood"
-    - {form: salvu, class: "n", field: "Trees, plants and the living wood", gloss: "a tree"}
-    - form: orvalla
+    - {form: salpu, class: "n", field: "Trees, plants and the living wood", gloss: "a tree"}
+    - form: orvakka
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "the living wood"
-    - {form: lauvi, class: n, field: "Trees, plants and the living wood", gloss: "leaves"}
-    - {form: varrel, class: "n", field: "Trees, plants and the living wood", gloss: "a branch"}
+    - {form: lauppi, class: n, field: "Trees, plants and the living wood", gloss: "leaves"}
+    - {form: vattel, class: "n", field: "Trees, plants and the living wood", gloss: "a branch"}
     - {form: ruskel, class: "n", field: "Trees, plants and the living wood", gloss: "bark"}
-    - {form: aimeli, class: n, field: "Trees, plants and the living wood", gloss: "seed"}
-    - {form: sairi, class: "n", field: "Trees, plants and the living wood", gloss: "a flower"}
-    - form: levas
+    - {form: aimetti, class: n, field: "Trees, plants and the living wood", gloss: "seed"}
+    - {form: saiki, class: "n", field: "Trees, plants and the living wood", gloss: "a flower"}
+    - form: lettas
       class: n
       field: "Trees, plants and the living wood"
       gloss: "turf, short grass"
     - {form: syrne, class: n, field: "Trees, plants and the living wood", gloss: "fern"}
     - {form: ossel, class: "n", field: "Trees, plants and the living wood", gloss: "a reed"}
     - {form: kyske, class: "n", field: "Trees, plants and the living wood", gloss: "a thorn"}
-    - {form: morvel, class: n, field: "Trees, plants and the living wood", gloss: "berries"}
+    - {form: morpel, class: n, field: "Trees, plants and the living wood", gloss: "berries"}
     - {form: torvel, class: "n", field: "Trees, plants and the living wood", gloss: "an oak"}
     - {form: hersel, class: "n", field: "Trees, plants and the living wood", gloss: "a pine"}
-    - {form: eiva, class: "n", field: "Trees, plants and the living wood", gloss: "a yew"}
-    - {form: welise, class: "n", field: "Trees, plants and the living wood", gloss: "a willow"}
+    - {form: eikka, class: "n", field: "Trees, plants and the living wood", gloss: "a yew"}
+    - {form: vettise, class: "n", field: "Trees, plants and the living wood", gloss: "a willow"}
     - {form: rysse, class: "n", field: "Trees, plants and the living wood", gloss: "a rowan"}
-    - {form: elthes, class: "n", field: "Trees, plants and the living wood", gloss: "an ash tree"}
-    - {form: hanvel, class: "n", field: "Trees, plants and the living wood", gloss: "a hazel"}
+    - {form: elkes, class: "n", field: "Trees, plants and the living wood", gloss: "an ash tree"}
+    - {form: hantel, class: "n", field: "Trees, plants and the living wood", gloss: "a hazel"}
     - {form: lamaine, class: "n", field: "Trees, plants and the living wood", gloss: "an apple"}
-    - {form: ormel, class: "n", field: "Trees, plants and the living wood", gloss: "a mushroom"}
+    - {form: orkel, class: "n", field: "Trees, plants and the living wood", gloss: "a mushroom"}
     - {form: lirna, class: "n", field: "Trees, plants and the living wood", gloss: "a vine"}
-    - {form: alves, class: "n", field: "Trees, plants and the living wood", gloss: "sap"}
-    - {form: lirva, class: v, field: "Trees, plants and the living wood", gloss: "grow"}
+    - {form: alpes, class: "n", field: "Trees, plants and the living wood", gloss: "sap"}
+    - {form: lirta, class: v, field: "Trees, plants and the living wood", gloss: "grow"}
     - {form: valsai, class: adj, field: "Trees, plants and the living wood", gloss: "green"}
-    - form: kalvirno
+    - form: kalpikko
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "a stand of birch"
-      built: [kalvi, "-rno"]
-    - form: halvilonvu
+      built: [kalpi, "-kko"]
+    - form: halpilonku
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "a birch stand within the forest"
-      built: [kalvi, lonvu]
-    - form: salvurno
+      built: [kalpi, lonku]
+    - form: salpukko
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "a grove"
-      built: [salvu, "-rno"]
-    - form: salvulu
+      built: [salpu, "-kko"]
+    - form: salpukki
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "a sapling"
-      built: [salvu, "-lu"]
-    - form: lauvinu
+      built: [salpu, "-kki"]
+    - form: lauppinu
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "a single leaf"
-      built: [lauvi, "-nu"]
+      built: [lauppi, "-nu"]
     - form: rivyny
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "a single turning leaf"
       built: [rivy, "-ny"]
-    - form: aimelinu
+    - form: aimettinu
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "a single seed"
-      built: [aimeli, "-nu"]
-    - form: sairilta
+      built: [aimetti, "-nu"]
+    - form: saikita
       class: v
       field: "Trees, plants and the living wood"
       gloss: "bloom"
-      built: [sairi, "-lta"]
-    - form: lonvusa
+      built: [saiki, "-ta"]
+    - form: lonkusa
       class: adj
       field: "Trees, plants and the living wood"
       gloss: "of the deep wood"
-      built: [lonvu, "-sa"]
-    - form: lauvisa
+      built: [lonku, "-sa"]
+    - form: lauppisa
       class: adj
       field: "Trees, plants and the living wood"
       gloss: "leafy"
-      built: [lauvi, "-sa"]
-    - form: lonvuolmarna
+      built: [lauppi, "-sa"]
+    - form: lonkuolmarna
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "the heart of the deep wood"
-      built: [lonvu, olmarna]
+      built: [lonku, olmarna]
     - form: valsairsa
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "greenness"
       built: [valsai, "-rsa"]
-    - {form: urthaven, class: "n", field: Beasts and birds, gloss: "a wild beast"}
-    - {form: syrre, class: n, field: Beasts and birds, gloss: "birds"}
-    - {form: ilsevi, class: "n", field: Beasts and birds, gloss: "a deer"}
-    - {form: talmes, class: "n", field: Beasts and birds, gloss: "a stag"}
-    - {form: rhennas, class: "n", field: Beasts and birds, gloss: "a fox"}
+    - {form: urtappen, class: "n", field: Beasts and birds, gloss: "a wild beast"}
+    - {form: sytte, class: n, field: Beasts and birds, gloss: "birds"}
+    - {form: ilsetti, class: "n", field: Beasts and birds, gloss: "a deer"}
+    - {form: talkes, class: "n", field: Beasts and birds, gloss: "a stag"}
+    - {form: renkas, class: "n", field: Beasts and birds, gloss: "a fox"}
     - {form: vorsa, class: "n", field: Beasts and birds, gloss: "a wolf"}
     - {form: urnel, class: "n", field: Beasts and birds, gloss: "a bear"}
     - {form: lessan, class: "n", field: Beasts and birds, gloss: "a hare"}
     - {form: rissy, class: "n", field: Beasts and birds, gloss: "a squirrel"}
-    - {form: huvela, class: "n", field: Beasts and birds, gloss: "an owl"}
-    - {form: kaurel, class: "n", field: Beasts and birds, gloss: "a raven"}
-    - {form: sylve, class: "n", field: Beasts and birds, gloss: "a swan"}
+    - {form: huvetta, class: "n", field: Beasts and birds, gloss: "an owl"}
+    - {form: kaukel, class: "n", field: Beasts and birds, gloss: "a raven"}
+    - {form: sylke, class: "n", field: Beasts and birds, gloss: "a swan"}
     - {form: tihvel, class: "n", field: Beasts and birds, gloss: "a hawk"}
-    - {form: rhaumel, class: "n", field: Beasts and birds, gloss: "an eagle"}
+    - {form: raumel, class: "n", field: Beasts and birds, gloss: "an eagle"}
     - {form: lirsy, class: "n", field: Beasts and birds, gloss: "a songbird"}
-    - {form: hulma, class: n, field: Beasts and birds, gloss: "fish"}
-    - {form: eralde, class: "n", field: Beasts and birds, gloss: "a salmon"}
-    - {form: sylthe, class: "n", field: Beasts and birds, gloss: "a snake"}
+    - {form: hulka, class: n, field: Beasts and birds, gloss: "fish"}
+    - {form: etalde, class: "n", field: Beasts and birds, gloss: "a salmon"}
+    - {form: sylte, class: "n", field: Beasts and birds, gloss: "a snake"}
     - {form: harnel, class: "n", field: Beasts and birds, gloss: "a horse"}
     - {form: rennu, class: "n", field: Beasts and birds, gloss: "a dog"}
     - {form: meëry, class: n, field: Beasts and birds, gloss: "sheep"}
-    - {form: hylve, class: "n", field: Beasts and birds, gloss: "a moth"}
+    - {form: hylte, class: "n", field: Beasts and birds, gloss: "a moth"}
     - {form: vyrni, class: n, field: Beasts and birds, gloss: "bees"}
-    - {form: hialle, class: "n", field: Beasts and birds, gloss: "a feather"}
-    - {form: vailen, class: "n", field: Beasts and birds, gloss: "a wing"}
-    - {form: maulve, class: "n", field: Beasts and birds, gloss: "a nest"}
-    - {form: kirvas, class: "n", field: Beasts and birds, gloss: "an antler"}
+    - {form: hiakke, class: "n", field: Beasts and birds, gloss: "a feather"}
+    - {form: vaitten, class: "n", field: Beasts and birds, gloss: "a wing"}
+    - {form: maulpe, class: "n", field: Beasts and birds, gloss: "a nest"}
+    - {form: kirpas, class: "n", field: Beasts and birds, gloss: "an antler"}
     - {form: suldi, class: v, field: Beasts and birds, gloss: "hunt"}
-    - {form: sauvel, class: v, field: Beasts and birds, gloss: "fly"}
-    - form: syrreny
+    - {form: saukkel, class: v, field: Beasts and birds, gloss: "fly"}
+    - form: sytteny
       class: "n"
       field: Beasts and birds
       gloss: "a single bird"
-      built: [syrre, "-ny"]
-    - form: syrrerne
+      built: [sytte, "-ny"]
+    - form: syttekke
       class: "n"
       field: Beasts and birds
       gloss: "a flock"
-      built: [syrre, "-rne"]
-    - form: syrreluuro
+      built: [sytte, "-kke"]
+    - form: sytteluuro
       class: "n"
       field: Beasts and birds
       gloss: "birdsong"
-      built: [syrre, luuro]
-    - form: vorsarno
+      built: [sytte, luuro]
+    - form: vorsakko
       class: "n"
       field: Beasts and birds
       gloss: "a wolf pack"
-      built: [vorsa, "-rno"]
-    - form: ilsevilu
+      built: [vorsa, "-kko"]
+    - form: ilsettikki
       class: "n"
       field: Beasts and birds
       gloss: "a fawn"
-      built: [ilsevi, "-lu"]
-    - {form: meëryly, class: "n", field: Beasts and birds, gloss: "a lamb", built: [meëry, "-ly"]}
-    - form: hulmanu
+      built: [ilsetti, "-kki"]
+    - form: meërykki
+      class: "n"
+      field: Beasts and birds
+      gloss: "a lamb"
+      built: [meëry, "-kki"]
+    - form: hulkanu
       class: "n"
       field: Beasts and birds
       gloss: "a single fish"
-      built: [hulma, "-nu"]
+      built: [hulka, "-nu"]
     - form: vyrniny
       class: "n"
       field: Beasts and birds
@@ -498,7 +499,7 @@ data:
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "the deep ground"
-    - form: rhoveli
+    - form: ropeli
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "the lifted stone"
@@ -522,15 +523,15 @@ data:
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a hill"
-    - form: sorvanda
+    - form: sorkanda
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a mountain"
-    - form: aunelle
+    - form: aunekke
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a valley"
-    - form: lirvy
+    - form: lirty
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a shore"
@@ -554,15 +555,15 @@ data:
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a mountain pass"
-    - form: saulen
+    - form: sautten
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a meadow"
-    - form: hemmira
+    - form: hemmika
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a marsh"
-    - form: lenvas
+    - form: lentas
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a slope"
@@ -574,7 +575,7 @@ data:
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a peak"
-    - form: sallen
+    - form: sakken
       class: n
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "sand"
@@ -586,7 +587,7 @@ data:
       class: n
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "dust"
-    - form: evanne
+    - form: eppanne
       class: adj
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "far"
@@ -602,19 +603,19 @@ data:
       class: adj
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "low"
-    - form: ulvas
+    - form: ultas
       class: adj
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "deep"
-    - form: rhavan
+    - form: rappan
       class: adj
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "wide"
-    - form: polme
+    - form: polpe
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "the ground underfoot"
-    - form: vaulthi
+    - form: vaulti
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a ford"
@@ -622,50 +623,50 @@ data:
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "an edge, the margin where a wood thins"
-    - form: ommoli
+    - form: ommotti
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a hollow"
-    - form: valmilu
+    - form: valkikki
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a pebble"
-      built: [valmi, "-lu"]
-    - form: valmirno
+      built: [valki, "-kki"]
+    - form: valkikko
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a ring of standing stones"
-      built: [valmi, "-rno"]
-    - form: auldilu
+      built: [valki, "-kko"]
+    - form: auldikki
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a hillock"
-      built: [auldi, "-lu"]
-    - form: valmisa
+      built: [auldi, "-kki"]
+    - form: valkisa
       class: adj
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "stony"
-      built: [valmi, "-sa"]
-    - form: sorvandasa
+      built: [valki, "-sa"]
+    - form: sorkandasa
       class: adj
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "mountainous"
-      built: [sorvanda, "-sa"]
+      built: [sorkanda, "-sa"]
     - form: hepyrse
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "nearness"
       built: [hepy, "-rse"]
-    - form: evannersa
+    - form: eppannersa
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "distance"
-      built: [evanne, "-rsa"]
-    - form: tellavi
+      built: [eppanne, "-rsa"]
+    - form: tellaki
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "the small bell"
-    - form: kilve
+    - form: kilpe
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "the far call"
@@ -673,7 +674,7 @@ data:
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "the rising note"
-    - {form: olvenne, class: "n", field: "Song, speech, memory and the telling", gloss: "wearing"}
+    - {form: oltenne, class: "n", field: "Song, speech, memory and the telling", gloss: "wearing"}
     - {form: luuro, class: v, field: "Song, speech, memory and the telling", gloss: "sing"}
     - {form: olnaro, class: "n", field: "Song, speech, memory and the telling", gloss: "a song"}
     - form: tylne
@@ -682,42 +683,42 @@ data:
       gloss: "a line of verse"
     - {form: evesi, class: "n", field: "Song, speech, memory and the telling", gloss: "a word"}
     - {form: sirne, class: "n", field: "Song, speech, memory and the telling", gloss: "a name"}
-    - form: evalla
+    - form: evakka
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "speech, a tongue"
-    - {form: evelle, class: "n", field: "Song, speech, memory and the telling", gloss: "a voice"}
-    - {form: evathe, class: v, field: "Song, speech, memory and the telling", gloss: "speak"}
+    - {form: evette, class: "n", field: "Song, speech, memory and the telling", gloss: "a voice"}
+    - {form: evatte, class: v, field: "Song, speech, memory and the telling", gloss: "speak"}
     - {form: kelsa, class: v, field: "Song, speech, memory and the telling", gloss: "hear"}
-    - {form: wandel, class: v, field: "Song, speech, memory and the telling", gloss: "answer"}
+    - {form: vandel, class: v, field: "Song, speech, memory and the telling", gloss: "answer"}
     - {form: kessave, class: v, field: "Song, speech, memory and the telling", gloss: "ask"}
     - {form: hissel, class: "n", field: "Song, speech, memory and the telling", gloss: "silence"}
-    - {form: serdalo, class: "n", field: "Song, speech, memory and the telling", gloss: "memory"}
-    - {form: olvathe, class: v, field: "Song, speech, memory and the telling", gloss: "forget"}
+    - {form: serdatto, class: "n", field: "Song, speech, memory and the telling", gloss: "memory"}
+    - {form: olvatte, class: v, field: "Song, speech, memory and the telling", gloss: "forget"}
     - {form: ennedhi, class: "n", field: "Song, speech, memory and the telling", gloss: "a tale"}
-    - {form: kanthal, class: "n", field: "Song, speech, memory and the telling", gloss: "a harp"}
+    - {form: kantal, class: "n", field: "Song, speech, memory and the telling", gloss: "a harp"}
     - {form: hommas, class: "n", field: "Song, speech, memory and the telling", gloss: "a drum"}
     - form: sevis
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a note in music"
-    - form: ellanthe
+    - form: ellante
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a lay, a long song"
-    - {form: kilthe, class: "n", field: "Song, speech, memory and the telling", gloss: "laughter"}
+    - {form: kilte, class: "n", field: "Song, speech, memory and the telling", gloss: "laughter"}
     - {form: hylse, class: v, field: "Song, speech, memory and the telling", gloss: "whisper"}
     - form: veldi
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "writing, the written hand"
-    - form: tellire
+    - form: tekkire
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a written sign"
-    - {form: thennai, class: adj, field: "Song, speech, memory and the telling", gloss: "true"}
+    - {form: tennai, class: adj, field: "Song, speech, memory and the telling", gloss: "true"}
     - {form: kippel, class: "n", field: "Song, speech, memory and the telling", gloss: "a lie"}
-    - {form: olmis, class: "n", field: "Song, speech, memory and the telling", gloss: "meaning"}
+    - {form: olpis, class: "n", field: "Song, speech, memory and the telling", gloss: "meaning"}
     - {form: saumel, class: v, field: "Song, speech, memory and the telling", gloss: "teach"}
     - {form: ruvas, class: v, field: "Song, speech, memory and the telling", gloss: "learn"}
     - {form: elline, class: "n", field: "Song, speech, memory and the telling", gloss: "a tune"}
@@ -725,7 +726,7 @@ data:
       class: n
       field: "Song, speech, memory and the telling"
       gloss: "sayings, words kept whole and passed on"
-    - form: thellame
+    - form: tellame
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a praise-song"
@@ -733,12 +734,12 @@ data:
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a foretelling"
-    - {form: kaithel, class: "n", field: "Song, speech, memory and the telling", gloss: "a riddle"}
+    - {form: kaittel, class: "n", field: "Song, speech, memory and the telling", gloss: "a riddle"}
     - form: tunnevi
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a refrain, the line that comes again"
-    - form: aurenthe
+    - form: aurente
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a turning, one part of a long song"
@@ -760,106 +761,106 @@ data:
       field: "Song, speech, memory and the telling"
       gloss: "a pipe"
       built: [luuro, "-pi"]
-    - form: olnarolu
+    - form: olnarokki
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a little song"
-      built: [olnaro, "-lu"]
+      built: [olnaro, "-kki"]
     - form: ennedhinno
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a teller of tales"
       built: [ennedhi, "-nno"]
-    - form: evesirno
+    - form: evesikko
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a hoard of words, a speech"
-      built: [evesi, "-rno"]
-    - form: serdalolta
+      built: [evesi, "-kko"]
+    - form: serdattota
       class: v
       field: "Song, speech, memory and the telling"
       gloss: "remember"
-      built: [serdalo, "-lta"]
-    - form: serdalorno
+      built: [serdatto, "-ta"]
+    - form: serdattokko
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "lore, what memory holds together"
-      built: [serdalo, "-rno"]
-    - form: veldilta
+      built: [serdatto, "-kko"]
+    - form: veldita
       class: v
       field: "Song, speech, memory and the telling"
       gloss: "write"
-      built: [veldi, "-lta"]
+      built: [veldi, "-ta"]
     - form: veldinno
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a scribe"
       built: [veldi, "-nno"]
-    - form: veldirno
+    - form: veldikko
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "the gathered hand; the Sinale script"
-      built: [veldi, "-rno"]
-    - form: kilvely
+      built: [veldi, "-kko"]
+    - form: kilpekki
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "an echo"
-      built: [kilve, "-ly"]
-    - form: kilvelte
+      built: [kilpe, "-kki"]
+    - form: kilpete
       class: v
       field: "Song, speech, memory and the telling"
       gloss: "call"
-      built: [kilve, "-lte"]
-    - form: sirnelta
+      built: [kilpe, "-te"]
+    - form: sirneta
       class: v
       field: "Song, speech, memory and the telling"
       gloss: "name"
-      built: [sirne, "-lta"]
-    - form: thennairsa
+      built: [sirne, "-ta"]
+    - form: tennairsa
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "truth"
-      built: [thennai, "-rsa"]
+      built: [tennai, "-rsa"]
     - form: luurosa
       class: adj
       field: "Song, speech, memory and the telling"
       gloss: "singing"
       built: [luuro, "-sa"]
-    - form: evathenno
+    - form: evattenno
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a speaker"
-      built: [evathe, "-nno"]
+      built: [evatte, "-nno"]
     - form: saunarinu
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a saying"
       built: [saunari, "-nu"]
-    - form: tylnerne
+    - form: tylnekke
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a stanza, lines gathered"
-      built: [tylne, "-rne"]
-    - form: sirnerno
+      built: [tylne, "-kke"]
+    - form: sirnekko
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a roll of names"
-      built: [sirne, "-rno"]
-    - form: haltheveldi
+      built: [sirne, "-kko"]
+    - form: halteveldi
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "an inscription, writing cut into stone or wood"
-      built: [halthe, veldi]
-    - form: thellamelta
+      built: [halte, veldi]
+    - form: tellameta
       class: v
       field: "Song, speech, memory and the telling"
       gloss: "praise"
-      built: [thellame, "-lta"]
-    - form: orrisalta
+      built: [tellame, "-ta"]
+    - form: orrisata
       class: v
       field: "Song, speech, memory and the telling"
       gloss: "foretell"
-      built: [orrisa, "-lta"]
+      built: [orrisa, "-ta"]
     - form: orrisanno
       class: "n"
       field: "Song, speech, memory and the telling"
@@ -882,11 +883,11 @@ data:
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "the plaited mat"
-    - form: almen
+    - form: alken
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a hand"
-    - form: thirel
+    - form: tirel
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a finger"
@@ -906,7 +907,7 @@ data:
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "an axe"
-    - form: halthe
+    - form: halte
       class: v
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "carve"
@@ -918,19 +919,19 @@ data:
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "an arrow"
-    - form: kelmas
+    - form: kelpas
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a spear"
-    - form: maureli
+    - form: maurekki
       class: v
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "heal"
-    - form: nelme
+    - form: nelpe
       class: n
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "herbs"
-    - form: mellis
+    - form: mettis
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a salve"
@@ -938,15 +939,15 @@ data:
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "fire"
-    - form: seltha
+    - form: selta
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "an ember"
-    - form: kalven
+    - form: kalten
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a cup"
-    - form: tolva
+    - form: tolka
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a jar"
@@ -954,7 +955,7 @@ data:
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a cord"
-    - form: sarnoli
+    - form: sarnotti
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a knot"
@@ -970,11 +971,11 @@ data:
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "leather"
-    - form: vuulla
+    - form: vuukka
       class: n
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "wool"
-    - form: selmai
+    - form: selpai
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "colour"
@@ -982,7 +983,7 @@ data:
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "bread"
-    - form: irsalle
+    - form: irsatte
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a sword"
@@ -990,7 +991,7 @@ data:
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a shield"
-    - form: varnoli
+    - form: varnotti
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a staff"
@@ -998,7 +999,7 @@ data:
       class: v
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "build, set stone on stone"
-    - form: lanthoi
+    - form: lantoi
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a boat"
@@ -1006,7 +1007,7 @@ data:
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a wall"
-    - form: ovaile
+    - form: ovaikke
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a door"
@@ -1014,11 +1015,11 @@ data:
       class: v
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "plant, set in the ground"
-    - form: lorramilta
+    - form: lorramita
       class: v
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "weave"
-      built: [lorrami, "-lta"]
+      built: [lorrami, "-ta"]
     - form: lorraminno
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
@@ -1029,16 +1030,16 @@ data:
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a loom"
       built: [lorrami, "-pi"]
-    - form: maurelinno
+    - form: maurekkinno
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a healer"
-      built: [maureli, "-nno"]
-    - form: halthenno
+      built: [maurekki, "-nno"]
+    - form: haltenno
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a carver"
-      built: [halthe, "-nno"]
+      built: [halte, "-nno"]
     - form: irnarsa
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
@@ -1064,31 +1065,31 @@ data:
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a loaf"
       built: [tarnevi, "-nu"]
-    - form: tarnevilta
+    - form: tarnevita
       class: v
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "bake"
-      built: [tarnevi, "-lta"]
+      built: [tarnevi, "-ta"]
     - form: hyrreste
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a fire-pit"
       built: [hyrre, "-ste"]
-    - form: selmailta
+    - form: selpaita
       class: v
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "dye"
-      built: [selmai, "-lta"]
-    - form: nuuvavarnoli
+      built: [selpai, "-ta"]
+    - form: nuuvavarnotti
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a star-staff"
-      built: [nuuva, varnoli]
-    - form: ulvannelanthoi
+      built: [nuuva, varnotti]
+    - form: ulpannelantoi
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a ship"
-      built: [ulvanne, lanthoi]
+      built: [ulpanne, lantoi]
     - form: maskarinno
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
@@ -1102,18 +1103,21 @@ data:
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "the held breath"
-    - {form: aulessa, class: "n", field: "Kin, hearth, the person and the body", gloss: "a hearth"}
-    - {form: velmis, class: "n", field: "Kin, hearth, the person and the body", gloss: "a home"}
-    - {form: ninthe, class: "n", field: "Kin, hearth, the person and the body", gloss: "a house"}
-    - {form: ennave, class: "n", field: "Kin, hearth, the person and the body", gloss: "a mother"}
-    - {form: hauvel, class: "n", field: "Kin, hearth, the person and the body", gloss: "a father"}
+    - form: aukkessa
+      class: "n"
+      field: "Kin, hearth, the person and the body"
+      gloss: "a hearth"
+    - {form: velpis, class: "n", field: "Kin, hearth, the person and the body", gloss: "a home"}
+    - {form: ninte, class: "n", field: "Kin, hearth, the person and the body", gloss: "a house"}
+    - {form: ennakke, class: "n", field: "Kin, hearth, the person and the body", gloss: "a mother"}
+    - {form: hauttel, class: "n", field: "Kin, hearth, the person and the body", gloss: "a father"}
     - {form: nysse, class: "n", field: "Kin, hearth, the person and the body", gloss: "a child"}
-    - form: maldira
+    - form: maldika
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a sibling"
-    - {form: ernavi, class: n, field: "Kin, hearth, the person and the body", gloss: "kin"}
-    - {form: ansevi, class: "n", field: "Kin, hearth, the person and the body", gloss: "a friend"}
+    - {form: ernatti, class: n, field: "Kin, hearth, the person and the body", gloss: "kin"}
+    - {form: ansekki, class: "n", field: "Kin, hearth, the person and the body", gloss: "a friend"}
     - {form: ellevi, class: "n", field: "Kin, hearth, the person and the body", gloss: "a guest"}
     - {form: ulkas, class: "n", field: "Kin, hearth, the person and the body", gloss: "a stranger"}
     - {form: lirne, class: "n", field: "Kin, hearth, the person and the body", gloss: "a person"}
@@ -1121,29 +1125,29 @@ data:
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "one of the Sinale"
-    - {form: thaumel, class: n, field: "Kin, hearth, the person and the body", gloss: "the folk"}
+    - {form: taumel, class: n, field: "Kin, hearth, the person and the body", gloss: "the folk"}
     - {form: voldan, class: "n", field: "Kin, hearth, the person and the body", gloss: "an elder"}
     - {form: yemi, class: adj, field: "Kin, hearth, the person and the body", gloss: "young"}
     - {form: voonu, class: adj, field: "Kin, hearth, the person and the body", gloss: "old"}
-    - {form: rhamme, class: "n", field: "Kin, hearth, the person and the body", gloss: "a body"}
-    - {form: pauves, class: "n", field: "Kin, hearth, the person and the body", gloss: "a head"}
-    - {form: tylve, class: "n", field: "Kin, hearth, the person and the body", gloss: "an eye"}
-    - {form: lenvase, class: "n", field: "Kin, hearth, the person and the body", gloss: "an ear"}
+    - {form: ramme, class: "n", field: "Kin, hearth, the person and the body", gloss: "a body"}
+    - {form: pauttes, class: "n", field: "Kin, hearth, the person and the body", gloss: "a head"}
+    - {form: tylte, class: "n", field: "Kin, hearth, the person and the body", gloss: "an eye"}
+    - {form: lenkase, class: "n", field: "Kin, hearth, the person and the body", gloss: "an ear"}
     - {form: aumel, class: "n", field: "Kin, hearth, the person and the body", gloss: "a mouth"}
-    - {form: lalve, class: "n", field: "Kin, hearth, the person and the body", gloss: "a tongue"}
-    - {form: inthis, class: "n", field: "Kin, hearth, the person and the body", gloss: "a heart"}
-    - {form: haurre, class: n, field: "Kin, hearth, the person and the body", gloss: "blood"}
+    - {form: lalke, class: "n", field: "Kin, hearth, the person and the body", gloss: "a tongue"}
+    - {form: intis, class: "n", field: "Kin, hearth, the person and the body", gloss: "a heart"}
+    - {form: hautte, class: n, field: "Kin, hearth, the person and the body", gloss: "blood"}
     - {form: sorpe, class: "n", field: "Kin, hearth, the person and the body", gloss: "a bone"}
-    - {form: vessira, class: "n", field: "Kin, hearth, the person and the body", gloss: "skin"}
+    - {form: vessita, class: "n", field: "Kin, hearth, the person and the body", gloss: "skin"}
     - {form: lirsa, class: n, field: "Kin, hearth, the person and the body", gloss: "hair"}
     - {form: heëve, class: "n", field: "Kin, hearth, the person and the body", gloss: "breath"}
     - {form: nerve, class: "n", field: "Kin, hearth, the person and the body", gloss: "a face"}
     - {form: pauren, class: "n", field: "Kin, hearth, the person and the body", gloss: "a foot"}
-    - {form: nauli, class: v, field: "Kin, hearth, the person and the body", gloss: "sleep"}
+    - {form: naukki, class: v, field: "Kin, hearth, the person and the body", gloss: "sleep"}
     - {form: mairel, class: v, field: "Kin, hearth, the person and the body", gloss: "eat"}
     - {form: leval, class: v, field: "Kin, hearth, the person and the body", gloss: "drink"}
     - {form: neëre, class: v, field: "Kin, hearth, the person and the body", gloss: "love"}
-    - form: ronthavi
+    - form: rontatti
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a king, one who holds a crown"
@@ -1152,7 +1156,7 @@ data:
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "an ancestor, one of a hearth's first"
-    - form: tulvasi
+    - form: tultasi
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a mother's mother"
@@ -1160,7 +1164,7 @@ data:
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a spouse, the companion of a hearth"
-    - form: ithane
+    - form: ittane
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a foster-child, a child of another hearth kept at one's own"
@@ -1168,7 +1172,7 @@ data:
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a council, a gathering that speaks until it agrees"
-    - form: seimara
+    - form: seimaka
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "accord, what a council reaches"
@@ -1176,30 +1180,30 @@ data:
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a custom, the way a thing is done"
-    - form: pellasi
+    - form: pettasi
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a promise"
     - {form: oirava, class: "n", field: "Kin, hearth, the person and the body", gloss: "a debt"}
-    - form: aulenni
+    - form: aukkenni
       class: v
       field: "Kin, hearth, the person and the body"
       gloss: "welcome, take in"
-    - form: nyssely
+    - form: nyssekki
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a little one, a babe"
-      built: [nysse, "-ly"]
-    - form: ernavisa
+      built: [nysse, "-kki"]
+    - form: ernattisa
       class: adj
       field: "Kin, hearth, the person and the body"
       gloss: "related, of one kin"
-      built: [ernavi, "-sa"]
-    - form: ansevirsa
+      built: [ernatti, "-sa"]
+    - form: ansekkirsa
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "friendship"
-      built: [ansevi, "-rsa"]
+      built: [ansekki, "-rsa"]
     - form: ellevirsa
       class: "n"
       field: "Kin, hearth, the person and the body"
@@ -1210,11 +1214,11 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "fondness"
       built: [neëre, "-rse"]
-    - form: naulisto
+    - form: naukkisto
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a bed, a sleeping place"
-      built: [nauli, "-sto"]
+      built: [naukki, "-sto"]
     - form: voonursa
       class: "n"
       field: "Kin, hearth, the person and the body"
@@ -1225,41 +1229,41 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "youth"
       built: [yemi, "-rse"]
-    - form: ronthavirsa
+    - form: rontattirsa
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "kingship"
-      built: [ronthavi, "-rsa"]
-    - form: ithanersa
+      built: [rontatti, "-rsa"]
+    - form: ittanersa
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "fosterage"
-      built: [ithane, "-rsa"]
-    - form: seimaralta
+      built: [ittane, "-rsa"]
+    - form: seimakata
       class: v
       field: "Kin, hearth, the person and the body"
       gloss: "agree, come to accord"
-      built: [seimara, "-lta"]
-    - form: pellasilta
+      built: [seimaka, "-ta"]
+    - form: pettasita
       class: v
       field: "Kin, hearth, the person and the body"
       gloss: "promise"
-      built: [pellasi, "-lta"]
-    - form: eirandilta
+      built: [pettasi, "-ta"]
+    - form: eirandita
       class: v
       field: "Kin, hearth, the person and the body"
       gloss: "begin, found"
-      built: [eirandi, "-lta"]
+      built: [eirandi, "-ta"]
     - form: eirandinno
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a founder, one who begins a hearth"
       built: [eirandi, "-nno"]
-    - form: sendevinno
+    - form: sendeppinno
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "one who stays"
-      built: [sendevi, "-nno"]
+      built: [sendeppi, "-nno"]
     - form: toimu
       class: "n"
       field: "Time: age, season, waiting and the long view"
@@ -1280,11 +1284,11 @@ data:
       class: "n"
       field: "Time: age, season, waiting and the long view"
       gloss: "time"
-    - form: talvaro
+    - form: talkaro
       class: "n"
       field: "Time: age, season, waiting and the long view"
       gloss: "an age"
-    - form: kalmen
+    - form: kalken
       class: "n"
       field: "Time: age, season, waiting and the long view"
       gloss: "a month"
@@ -1296,7 +1300,7 @@ data:
       class: v
       field: "Time: age, season, waiting and the long view"
       gloss: "endure"
-    - form: aulven
+    - form: aulten
       class: adj
       field: "Time: age, season, waiting and the long view"
       gloss: "long"
@@ -1312,7 +1316,7 @@ data:
       class: "n"
       field: "Time: age, season, waiting and the long view"
       gloss: "the beginning"
-    - form: olvandi
+    - form: oltandi
       class: "n"
       field: "Time: age, season, waiting and the long view"
       gloss: "the end"
@@ -1324,11 +1328,11 @@ data:
       class: "n"
       field: "Time: age, season, waiting and the long view"
       gloss: "a moment"
-    - form: sylme
+    - form: sylpe
       class: "n"
       field: "Time: age, season, waiting and the long view"
       gloss: "a human lifetime"
-    - form: ullen
+    - form: ukken
       class: adj
       field: "Time: age, season, waiting and the long view"
       gloss: "slow"
@@ -1353,21 +1357,21 @@ data:
       field: "Time: age, season, waiting and the long view"
       gloss: "a single year"
       built: [toimu, "-nu"]
-    - form: theilannu
+    - form: teipannu
       class: "n"
       field: "Time: age, season, waiting and the long view"
       gloss: "a day"
-      built: [theilan, "-nu"]
+      built: [teipan, "-nu"]
     - form: sennevirsa
       class: "n"
       field: "Time: age, season, waiting and the long view"
       gloss: "patience"
       built: [sennevi, "-rsa"]
-    - form: nuuvatalvaro
+    - form: nuuvatalkaro
       class: "n"
       field: "Time: age, season, waiting and the long view"
       gloss: "the Age of Stars"
-      built: [nuuva, talvaro]
+      built: [nuuva, talkaro]
     - form: koustorsa
       class: "n"
       field: "Time: age, season, waiting and the long view"
@@ -1378,7 +1382,7 @@ data:
       field: "Time: age, season, waiting and the long view"
       gloss: "hopeful"
       built: [ivarra, "-sa"]
-    - form: olveira
+    - form: olpeira
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a dream"
@@ -1402,11 +1406,11 @@ data:
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "the far side, beyond"
-    - form: venalla
+    - form: venatta
       class: n
       field: "The fae, the thin places, dream and the god"
       gloss: "the fae"
-    - form: aithevi
+    - form: aittevi
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a spirit"
@@ -1414,15 +1418,15 @@ data:
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "the art, what humans call magic"
-    - form: orthi
+    - form: orti
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a ward"
-    - form: kielle
+    - form: kiette
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a charm"
-    - form: ilthori
+    - form: iltori
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a vision"
@@ -1434,15 +1438,15 @@ data:
       class: adj
       field: "The fae, the thin places, dream and the god"
       gloss: "hidden"
-    - form: veltha
+    - form: velta
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a pact"
-    - form: hallevi
+    - form: hakkevi
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a gift"
-    - form: lonthe
+    - form: lonte
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a rite"
@@ -1451,7 +1455,7 @@ data:
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "light and dream as one; the Sinale name of the God of Dreams"
-    - form: rhaivas
+    - form: raivas
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a god, one of the vast beings"
@@ -1463,111 +1467,111 @@ data:
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a blessing"
-    - form: olveiralta
+    - form: olpeirata
       class: v
       field: "The fae, the thin places, dream and the god"
       gloss: "dream"
-      built: [olveira, "-lta"]
-    - form: olveiranno
+      built: [olpeira, "-ta"]
+    - form: olpeiranno
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a dreamer"
-      built: [olveira, "-nno"]
+      built: [olpeira, "-nno"]
     - form: sirnasto
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a thin place, where the veil wears thin"
       built: [sirna, "-sto"]
-    - form: sirnalta
+    - form: sirnata
       class: v
       field: "The fae, the thin places, dream and the god"
       gloss: "wear thin"
-      built: [sirna, "-lta"]
-    - form: venallanu
+      built: [sirna, "-ta"]
+    - form: venattanu
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "one of the fae"
-      built: [venalla, "-nu"]
-    - form: aithevisto
+      built: [venatta, "-nu"]
+    - form: aittevisto
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "the spirit realm"
-      built: [aithevi, "-sto"]
-    - form: orthinno
+      built: [aittevi, "-sto"]
+    - form: ortinno
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a warden"
-      built: [orthi, "-nno"]
-    - form: orthilta
+      built: [orti, "-nno"]
+    - form: ortita
       class: v
       field: "The fae, the thin places, dream and the god"
       gloss: "ward"
-      built: [orthi, "-lta"]
-    - form: haundelta
+      built: [orti, "-ta"]
+    - form: haundeta
       class: v
       field: "The fae, the thin places, dream and the god"
       gloss: "hide"
-      built: [haunde, "-lta"]
-    - form: seirasalvurno
+      built: [haunde, "-ta"]
+    - form: seirasalpukko
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a sacred grove"
-      built: [seira, salvurno]
-    - form: ilthorin
+      built: [seira, salpukko]
+    - form: iltorin
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a seer"
-      built: [ilthori, "-nno"]
-    - form: aulirarno
+      built: [iltori, "-nno"]
+    - form: aulirakko
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "the gathering of light; the open convocation of the faith"
-      built: [aulira, "-rno"]
+      built: [aulira, "-kko"]
     - form: ansorun
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "one who keeps the long watch"
       built: [ansoru, "-nno"]
-    - form: lonthesto
+    - form: lontesto
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a place of rites"
-      built: [lonthe, "-sto"]
+      built: [lonte, "-sto"]
     - form: symmenne
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "one who works the art"
       built: [symme, "-nne"]
-    - form: aulirarhaivas
+    - form: auliraraivas
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a Being of Light"
-      built: [aulira, rhaivas]
-    - form: naldurhaivas
+      built: [aulira, raivas]
+    - form: nalduraivas
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a Being of Dark"
-      built: [naldu, rhaivas]
-    - form: ulvasaldevan
+      built: [naldu, raivas]
+    - form: ultasaldevan
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "the deeper places, where the fae are and no Sinalo has a claim"
-      built: [ulvas, aldevan]
-    - form: seiralta
+      built: [ultas, aldevan]
+    - form: seirata
       class: v
       field: "The fae, the thin places, dream and the god"
       gloss: "bless, make sacred"
-      built: [seira, "-lta"]
-    - {form: selvoro, class: "n", field: "Death, loss, grief and the Shadow", gloss: "death"}
-    - {form: ilvaro, class: "n", field: "Death, loss, grief and the Shadow", gloss: "grief"}
-    - {form: rhyve, class: n, field: "Death, loss, grief and the Shadow", gloss: "tears"}
-    - {form: nelthava, class: "n", field: "Death, loss, grief and the Shadow", gloss: "a lament"}
-    - {form: mylthe, class: "n", field: "Death, loss, grief and the Shadow", gloss: "loss"}
+      built: [seira, "-ta"]
+    - {form: selkoro, class: "n", field: "Death, loss, grief and the Shadow", gloss: "death"}
+    - {form: ilkaro, class: "n", field: "Death, loss, grief and the Shadow", gloss: "grief"}
+    - {form: ryve, class: n, field: "Death, loss, grief and the Shadow", gloss: "tears"}
+    - {form: neltava, class: "n", field: "Death, loss, grief and the Shadow", gloss: "a lament"}
+    - {form: mylte, class: "n", field: "Death, loss, grief and the Shadow", gloss: "loss"}
     - {form: talkevi, class: "n", field: "Death, loss, grief and the Shadow", gloss: "a wound"}
     - {form: rehte, class: "n", field: "Death, loss, grief and the Shadow", gloss: "a scar"}
-    - {form: ulthara, class: "n", field: "Death, loss, grief and the Shadow", gloss: "the Shadow"}
+    - {form: ultara, class: "n", field: "Death, loss, grief and the Shadow", gloss: "the Shadow"}
     - {form: aamas, class: "n", field: "Death, loss, grief and the Shadow", gloss: "the void"}
-    - form: rhendalo
+    - form: rendatto
       class: "n"
       field: "Death, loss, grief and the Shadow"
       gloss: "rot, corruption"
@@ -1577,12 +1581,12 @@ data:
     - {form: tahke, class: v, field: "Death, loss, grief and the Shadow", gloss: "break"}
     - {form: vierka, class: "n", field: "Death, loss, grief and the Shadow", gloss: "an outlaw"}
     - {form: nauldi, class: v, field: "Death, loss, grief and the Shadow", gloss: "bind"}
-    - {form: vailis, class: "n", field: "Death, loss, grief and the Shadow", gloss: "a farewell"}
+    - {form: vaikkis, class: "n", field: "Death, loss, grief and the Shadow", gloss: "a farewell"}
     - form: ollevi
       class: n
       field: "Death, loss, grief and the Shadow"
       gloss: "the dead, those gone from us"
-    - form: aivelo
+    - form: aivetto
       class: "n"
       field: "Death, loss, grief and the Shadow"
       gloss: "a lingering spirit, one who would not go"
@@ -1590,36 +1594,36 @@ data:
       class: v
       field: "Death, loss, grief and the Shadow"
       gloss: "loose, set free"
-    - form: oivalle
+    - form: oivakke
       class: v
       field: "Death, loss, grief and the Shadow"
       gloss: "forgive, let a wrong go"
     - {form: kaumis, class: "n", field: "Death, loss, grief and the Shadow", gloss: "shame"}
-    - form: selvorolta
+    - form: selkorota
       class: v
       field: "Death, loss, grief and the Shadow"
       gloss: "die"
-      built: [selvoro, "-lta"]
-    - form: selvorosa
+      built: [selkoro, "-ta"]
+    - form: selkorosa
       class: adj
       field: "Death, loss, grief and the Shadow"
       gloss: "dead"
-      built: [selvoro, "-sa"]
-    - form: ilvarolta
+      built: [selkoro, "-sa"]
+    - form: ilkarota
       class: v
       field: "Death, loss, grief and the Shadow"
       gloss: "mourn"
-      built: [ilvaro, "-lta"]
-    - form: rhyveny
+      built: [ilkaro, "-ta"]
+    - form: ryveny
       class: "n"
       field: "Death, loss, grief and the Shadow"
       gloss: "a single tear"
-      built: [rhyve, "-ny"]
-    - form: ultharasa
+      built: [ryve, "-ny"]
+    - form: ultarasa
       class: adj
       field: "Death, loss, grief and the Shadow"
       gloss: "of the Shadow"
-      built: [ulthara, "-sa"]
+      built: [ultara, "-sa"]
     - form: hekkyrse
       class: "n"
       field: "Death, loss, grief and the Shadow"
@@ -1635,11 +1639,11 @@ data:
       field: "Death, loss, grief and the Shadow"
       gloss: "a burial ground"
       built: [sauldi, "-sto"]
-    - form: talkevilta
+    - form: talkevita
       class: v
       field: "Death, loss, grief and the Shadow"
       gloss: "wound"
-      built: [talkevi, "-lta"]
+      built: [talkevi, "-ta"]
     - form: aamassa
       class: adj
       field: "Death, loss, grief and the Shadow"
@@ -1655,37 +1659,37 @@ data:
       field: "Death, loss, grief and the Shadow"
       gloss: "a place of binding, a prison"
       built: [nauldi, "-sto"]
-    - form: selvorosalvu
+    - form: selkorosalpu
       class: "n"
       field: "Death, loss, grief and the Shadow"
       gloss: "a tree planted for one of the dead"
-      built: [selvoro, salvu]
-    - form: sauldilonthe
+      built: [selkoro, salpu]
+    - form: sauldilonte
       class: "n"
       field: "Death, loss, grief and the Shadow"
       gloss: "a burial rite"
-      built: [sauldi, lonthe]
-    - form: olvairsa
+      built: [sauldi, lonte]
+    - form: olkairsa
       class: "n"
       field: "Death, loss, grief and the Shadow"
       gloss: "a walking away, a desertion"
-      built: [olvai, "-rsa"]
-    - form: ollevirno
+      built: [olkai, "-rsa"]
+    - form: ollevikko
       class: "n"
       field: "Death, loss, grief and the Shadow"
       gloss: "the gathering of the dead; the far realm where Aulveira takes the dead"
-      built: [ollevi, "-rno"]
+      built: [ollevi, "-kko"]
     - {form: muuvu, class: n, field: Other peoples, gloss: "humans"}
     - {form: kaulde, class: n, field: Other peoples, gloss: "the Khazari, named obliquely"}
-    - {form: rhukka, class: n, field: Other peoples, gloss: "the Grukar"}
+    - {form: rukke, class: n, field: Other peoples, gloss: "the Grukar"}
     - {form: tormal, class: "n", field: Other peoples, gloss: "a city"}
     - {form: koldi, class: "n", field: Other peoples, gloss: "a hall"}
     - {form: vyste, class: "n", field: Other peoples, gloss: "a tower"}
     - {form: kastai, class: "n", field: Other peoples, gloss: "war"}
     - {form: kirse, class: "n", field: Other peoples, gloss: "an enemy"}
     - {form: hurrava, class: "n", field: Other peoples, gloss: "a battle"}
-    - {form: rhauke, class: v, field: Other peoples, gloss: "kill"}
-    - {form: ullessi, class: v, field: Other peoples, gloss: "flee"}
+    - {form: raukke, class: v, field: Other peoples, gloss: "kill"}
+    - {form: uttessi, class: v, field: Other peoples, gloss: "flee"}
     - form: muuvunu
       class: "n"
       field: Other peoples
@@ -1702,85 +1706,85 @@ data:
       field: Other peoples
       gloss: "a warrior"
       built: [kastai, "-nno"]
-    - form: koldirno
+    - form: koldikko
       class: "n"
       field: Other peoples
       gloss: "a hold, halls gathered under stone"
-      built: [koldi, "-rno"]
-    - form: vysterne
+      built: [koldi, "-kko"]
+    - form: vystekke
       class: "n"
       field: Other peoples
       gloss: "a group of towers"
-      built: [vyste, "-rne"]
-    - {form: hurravalta, class: v, field: Other peoples, gloss: "fight", built: [hurrava, "-lta"]}
-    - form: kastairno
+      built: [vyste, "-kke"]
+    - {form: hurravata, class: v, field: Other peoples, gloss: "fight", built: [hurrava, "-ta"]}
+    - form: kastaikko
       class: "n"
       field: Other peoples
       gloss: "a war-host"
-      built: [kastai, "-rno"]
-    - {form: sely, class: v, field: "Motion, rest and being", gloss: "stand"}
-    - {form: tuve, class: v, field: "Motion, rest and being", gloss: "hold"}
+      built: [kastai, "-kko"]
+    - {form: setty, class: v, field: "Motion, rest and being", gloss: "stand"}
+    - {form: tupe, class: v, field: "Motion, rest and being", gloss: "hold"}
     - {form: pehe, class: v, field: "Motion, rest and being", gloss: "give"}
-    - {form: vauli, class: adj, field: "Motion, rest and being", gloss: "tall"}
+    - {form: vautti, class: adj, field: "Motion, rest and being", gloss: "tall"}
     - {form: eho, class: v, field: "Motion, rest and being", gloss: "be, exist"}
-    - {form: sarrai, class: v, field: "Motion, rest and being", gloss: "walk"}
+    - {form: sattai, class: v, field: "Motion, rest and being", gloss: "walk"}
     - {form: tenvas, class: v, field: "Motion, rest and being", gloss: "come"}
-    - {form: vaula, class: v, field: "Motion, rest and being", gloss: "go"}
-    - {form: rhessa, class: v, field: "Motion, rest and being", gloss: "run"}
+    - {form: vaukka, class: v, field: "Motion, rest and being", gloss: "go"}
+    - {form: ressa, class: v, field: "Motion, rest and being", gloss: "run"}
     - {form: leëvi, class: v, field: "Motion, rest and being", gloss: "sit"}
-    - {form: lauvessa, class: v, field: "Motion, rest and being", gloss: "rest"}
-    - {form: pelve, class: v, field: "Motion, rest and being", gloss: "fall"}
-    - {form: irthal, class: v, field: "Motion, rest and being", gloss: "rise"}
-    - {form: korve, class: v, field: "Motion, rest and being", gloss: "turn"}
-    - {form: sendevi, class: v, field: "Motion, rest and being", gloss: "stay"}
+    - {form: laukkessa, class: v, field: "Motion, rest and being", gloss: "rest"}
+    - {form: pelpe, class: v, field: "Motion, rest and being", gloss: "fall"}
+    - {form: irtal, class: v, field: "Motion, rest and being", gloss: "rise"}
+    - {form: korpe, class: v, field: "Motion, rest and being", gloss: "turn"}
+    - {form: sendeppi, class: v, field: "Motion, rest and being", gloss: "stay"}
     - {form: erdavi, class: v, field: "Motion, rest and being", gloss: "carry"}
-    - {form: pelan, class: v, field: "Motion, rest and being", gloss: "bring"}
-    - {form: rhalle, class: v, field: "Motion, rest and being", gloss: "take"}
-    - {form: olvai, class: v, field: "Motion, rest and being", gloss: "leave, depart"}
-    - {form: pallen, class: v, field: "Motion, rest and being", gloss: "return"}
-    - {form: rhemis, class: v, field: "Motion, rest and being", gloss: "follow"}
+    - {form: pettan, class: v, field: "Motion, rest and being", gloss: "bring"}
+    - {form: raakke, class: v, field: "Motion, rest and being", gloss: "take"}
+    - {form: olkai, class: v, field: "Motion, rest and being", gloss: "leave, depart"}
+    - {form: patten, class: v, field: "Motion, rest and being", gloss: "return"}
+    - {form: remis, class: v, field: "Motion, rest and being", gloss: "follow"}
     - {form: lemmes, class: v, field: "Motion, rest and being", gloss: "find"}
     - {form: meëve, class: v, field: "Motion, rest and being", gloss: "seek"}
     - {form: yinse, class: v, field: "Motion, rest and being", gloss: "see"}
     - {form: erni, class: v, field: "Motion, rest and being", gloss: "know"}
     - {form: kauve, class: v, field: "Motion, rest and being", gloss: "become"}
-    - {form: ylvi, class: v, field: "Motion, rest and being", gloss: "live"}
-    - {form: rauvu, class: v, field: "Motion, rest and being", gloss: "move"}
-    - {form: nelvis, class: adj, field: "Motion, rest and being", gloss: "still, unmoving"}
+    - {form: ylpi, class: v, field: "Motion, rest and being", gloss: "live"}
+    - {form: rauttu, class: v, field: "Motion, rest and being", gloss: "move"}
+    - {form: nelkis, class: adj, field: "Motion, rest and being", gloss: "still, unmoving"}
     - {form: paval, class: v, field: "Motion, rest and being", gloss: "open"}
     - {form: kalpe, class: v, field: "Motion, rest and being", gloss: "shut"}
-    - {form: ulves, class: v, field: "Motion, rest and being", gloss: "enter"}
+    - {form: ulpes, class: v, field: "Motion, rest and being", gloss: "enter"}
     - {form: ovanne, class: v, field: "Motion, rest and being", gloss: "dwell"}
-    - form: sarrainno
+    - form: sattainno
       class: "n"
       field: "Motion, rest and being"
       gloss: "a wanderer"
-      built: [sarrai, "-nno"]
+      built: [sattai, "-nno"]
     - form: meëvenne
       class: "n"
       field: "Motion, rest and being"
       gloss: "a seeker"
       built: [meëve, "-nne"]
-    - form: ansorulta
+    - form: ansoruta
       class: v
       field: "Motion, rest and being"
       gloss: "keep watch"
-      built: [ansoru, "-lta"]
-    - form: ylvise
+      built: [ansoru, "-ta"]
+    - form: ylpise
       class: adj
       field: "Motion, rest and being"
       gloss: "alive, living"
-      built: [ylvi, "-se"]
+      built: [ylpi, "-se"]
     - form: leëviste
       class: "n"
       field: "Motion, rest and being"
       gloss: "a seat"
       built: [leëvi, "-ste"]
-    - form: lauvessasto
+    - form: laukkessasto
       class: "n"
       field: "Motion, rest and being"
       gloss: "a resting place"
-      built: [lauvessa, "-sto"]
+      built: [laukkessa, "-sto"]
     - form: yinserse
       class: "n"
       field: "Motion, rest and being"
@@ -1791,11 +1795,11 @@ data:
       field: "Motion, rest and being"
       gloss: "knowledge"
       built: [erni, "-rsa"]
-    - form: rauvusa
+    - form: rauttusa
       class: adj
       field: "Motion, rest and being"
       gloss: "restless"
-      built: [rauvu, "-sa"]
+      built: [rauttu, "-sa"]
     - form: ehi
       class: pron
       field: "Grammar words: pronouns, particles, numbers and pointing words"
@@ -1868,7 +1872,7 @@ data:
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "four"
-    - form: lella
+    - form: letta
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "five"
@@ -1884,7 +1888,7 @@ data:
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "eight"
-    - form: thumi
+    - form: tumi
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "nine"
@@ -1892,11 +1896,11 @@ data:
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "ten"
-    - form: ilvo
+    - form: ilto
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "fifteen"
-    - form: elmi
+    - form: elki
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "twenty"
@@ -1940,7 +1944,7 @@ data:
       class: pron
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "some"
-    - form: uthes
+    - form: uttes
       class: pron
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "another"
@@ -1976,7 +1980,7 @@ data:
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "more"
-    - form: aulanda
+    - form: aukkanda
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "four hundred"
@@ -2015,11 +2019,11 @@ data:
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "because"
       built: [oso, "-tos"]
-    - form: iltelu
+    - form: iltettu
       class: part
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "only, the one alone"
-      built: [ilte, "-lu"]
+      built: [ilte, "-kki"]
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -2028,163 +2032,161 @@ data:
     given:
       female:
         - "Nuuvala"
-        - "Nuuvara"
-        - "Kalvila"
-        - "Kalvira"
+        - "Nuuvatta"
+        - "Kalpila"
+        - "Kalpitta"
         - "Toimula"
-        - "Olvessala"
-        - "Olvessara"
+        - "Oltessala"
+        - "Oltessatta"
         - "Olmasila"
         - "Unturola"
-        - "Esselira"
+        - "Esselitta"
         - "Hallesila"
-        - "Tirvalira"
-        - "Lavurila"
+        - "Tirvalitta"
+        - "Lapurila"
         - "Masserila"
-        - "Rhovelira"
+        - "Ropelitta"
         - "Lorramila"
-        - "Lorramira"
+        - "Lorramitta"
         - "Ansorula"
         - "Huomala"
-        - "Lanthavola"
-        - "Lanthavora"
-        - "Porvila"
-        - "Kelvasila"
+        - "Lantavola"
+        - "Lantavotta"
+        - "Porkila"
+        - "Kelkasila"
         - "Solmerila"
         - "Nelyvele"
-        - "Thalvela"
-        - "Thalvera"
-        - "Nuomira"
+        - "Talvela"
+        - "Talvetta"
+        - "Nuomitta"
         - "Loovala"
-        - "Loovara"
-        - "Lonvula"
-        - "Lonvura"
+        - "Loovatta"
+        - "Lonkula"
+        - "Lonkutta"
         - "Hyssele"
-        - "Hyssere"
-        - "Ilvyre"
-        - "Tellavila"
-        - "Tellavira"
+        - "Hyssette"
+        - "Ilvytte"
+        - "Tellakila"
+        - "Tellakitta"
         - "Eilavala"
         - "Rivyle"
-        - "Rivyre"
-        - "Nelyvere"
+        - "Rivytte"
+        - "Nelyvette"
         - "Pelvaila"
-        - "Thilvaila"
-        - "Thilvaira"
+        - "Tilvaila"
+        - "Tilvaitta"
         - "Elvyrile"
         - "Ilevala"
-        - "Ilevara"
-        - "Lenthila"
-        - "Lenthira"
-        - "Selvile"
-        - "Selvire"
-        - "Nylvile"
-        - "Nylvire"
-        - "Sulmera"
+        - "Ilevatta"
+        - "Lentila"
+        - "Selkile"
+        - "Selkitte"
+        - "Nylkile"
+        - "Nylkitte"
+        - "Sulmetta"
         - "Liserila"
         - "Kinsala"
-        - "Kinsara"
+        - "Kinsatta"
         - "Olmarnala"
-        - "Olmarnara"
+        - "Olmarnatta"
         - "Ressila"
       male:
-        - "Nuuvadhe"
-        - "Kalvidhe"
-        - "Molludhe"
+        - "Nuuvatti"
+        - "Kalpitti"
+        - "Mollutti"
         - "Molluvo"
-        - "Toimudhe"
+        - "Toimutti"
         - "Toimuvo"
-        - "Olvessavo"
-        - "Olmasidhe"
-        - "Unturodhe"
+        - "Oltessavo"
+        - "Olmasitti"
+        - "Unturotti"
         - "Unturovo"
-        - "Esselidhe"
-        - "Tirvalidhe"
+        - "Esselitti"
+        - "Tirvalitti"
         - "Tirvalivo"
-        - "Almaridhe"
+        - "Almaritti"
         - "Almarivo"
-        - "Lavurivo"
-        - "Masseridhe"
+        - "Lapurivo"
+        - "Masseritti"
         - "Masserivo"
-        - "Rhovelidhe"
-        - "Lorramidhe"
-        - "Ansorudhe"
+        - "Ropelitti"
+        - "Lorramitti"
+        - "Ansorutti"
         - "Ansoruvo"
         - "Huomavo"
-        - "Rhovelivo"
-        - "Porvidhe"
+        - "Ropelivo"
+        - "Porkitti"
         - "Lorramivo"
-        - "Kelvasidhe"
-        - "Kelvasivo"
+        - "Kelkasitti"
+        - "Kelkasivo"
         - "Solmerivo"
-        - "Thalvedhe"
-        - "Loovadhe"
-        - "Hallesidhe"
+        - "Talvetti"
+        - "Loovatti"
+        - "Hallesitti"
         - "Hallesivo"
-        - "Lonvudhe"
+        - "Lonkutti"
         - "Hysseve"
-        - "Ilvydhe"
-        - "Tellavidhe"
-        - "Eilavadhe"
-        - "Nelyvedhe"
-        - "Hyssedhe"
-        - "Pelvaidhe"
-        - "Thilvaidhe"
+        - "Ilvytti"
+        - "Tellakitti"
+        - "Eilavatti"
+        - "Nelyvetti"
+        - "Hyssetti"
+        - "Pelvaitti"
+        - "Tilvaitti"
         - "Esselivo"
-        - "Elvyridhe"
-        - "Ilevadhe"
-        - "Lenthidhe"
-        - "Lenthivo"
-        - "Kilvedhe"
-        - "Nuomidhe"
-        - "Selvidhe"
-        - "Nylvidhe"
-        - "Sulmedhe"
-        - "Liseridhe"
-        - "Kinsadhe"
+        - "Elvyritti"
+        - "Ilevatti"
+        - "Lentivo"
+        - "Kilpetti"
+        - "Nuomitti"
+        - "Selkitti"
+        - "Nylkitti"
+        - "Sulmetti"
+        - "Liseritti"
+        - "Kinsatti"
         - "Kinsavo"
-        - "Telvidhe"
+        - "Telvitti"
         - "Sulmevo"
-        - "Olmarnadhe"
+        - "Olmarnatti"
         - "Olmarnavo"
-        - "Ressidhe"
+        - "Ressitti"
     lineage:
       - "Nuuvanto"
-      - "Halvinto"
+      - "Kalpinto"
       - "Mollunto"
-      - "Soimunto"
-      - "Olvessanto"
+      - "Toimunto"
+      - "Oltessanto"
       - "Olmasinto"
       - "Unturonto"
       - "Esselinto"
-      - "Sirvalinto"
+      - "Tirvalinto"
       - "Almarinto"
-      - "Lavurinto"
+      - "Lapurinto"
       - "Masserinto"
-      - "Rhovelinto"
+      - "Ropelinto"
       - "Lorraminto"
       - "Ansorunto"
       - "Huomanto"
-      - "Vorvinto"
-      - "Helvasinto"
+      - "Porkinto"
+      - "Kelkasinto"
       - "Solmerinto"
-      - "Thalvento"
+      - "Talvento"
       - "Nuominto"
       - "Loovanto"
       - "Hallesinto"
-      - "Lonvunto"
+      - "Lonkunto"
       - "Hyssente"
       - "Ilvynte"
-      - "Sellavinto"
+      - "Tellakinto"
       - "Eilavanto"
       - "Rivynte"
       - "Nelyvente"
-      - "Velvainto"
+      - "Pelvainto"
       - "Elvyrinte"
       - "Ilevanto"
-      - "Hilvente"
-      - "Selvinte"
-      - "Nylvinte"
+      - "Kilpente"
+      - "Selkinte"
+      - "Nylkinte"
       - "Sulmento"
       - "Liserinto"
       - "Syllente"
@@ -2205,26 +2207,24 @@ data:
       groups:
         - {what: "a long liquid, nasal or _s_", clusters: [ll, nn, rr, mm, ss], use: common}
         - {what: a nasal and the stop of its own place, clusters: [nt, nd, mp, nk], use: common}
-        - what: a liquid and a tongue-tip sound
-          clusters: [lt, ld, lth, rt, rd, rth]
-          use: common
+        - {what: a liquid and a tongue-tip sound, clusters: [lt, ld, rt, rd], use: common}
         - what: "a liquid and a fricative, nasal or liquid"
           clusters: [lv, ls, lm, ln, rv, rs, rm, rn]
           use: common
-        - {what: a nasal and a fricative, clusters: [nv, ns, nth], use: common}
+        - {what: a nasal and a fricative, clusters: [nv, ns], use: common}
         - {what: _s_ and a stop, clusters: [st, sp, sk], use: sparing}
-        - {what: a liquid and a lip or back stop, clusters: [lp, lk, rp, rk], use: sparing}
-        - {what: a long stop, clusters: [pp, tt, kk], use: sparing}
+        - {what: a liquid and a lip or back stop, clusters: [lp, lk, rp, rk], use: common}
+        - {what: a long stop, clusters: [pp, tt, kk], use: common}
         - what: "_h_ and a stop, nasal, liquid or _v_"
           clusters: [hp, ht, hk, hv, hm, hn, hl, hr]
           use: sparing
     edges:
-      - {edge: openConsonant, sounds: [p, t, k, v, s, h, m, n, l, r, th, rh, w]}
+      - {edge: openConsonant, sounds: [p, t, k, v, s, h, m, n, l, r]}
       - {edge: closeConsonant, sounds: [n, r, l, s]}
     mutations:
       - {mutation: wearing, sound: p, becomes: v, example: _pelvai_ "low cloud" > _velvai_}
       - {mutation: wearing, sound: t, becomes: s, example: _tirvali_ "the long road" > _sirvali_}
-      - {mutation: wearing, sound: k, becomes: h, example: _kalvi_ "pale wood" > _halvi_}
+      - {mutation: wearing, sound: k, becomes: h, example: _kalpi_ "pale wood" > _halpi_}
   affixes:
     - form: -tos
       front: -tes
@@ -2261,32 +2261,32 @@ data:
       gloss: the thing to do it with
       kind: derivation
       examples: [_luuro_ > _luuropi_ "a pipe"]
-    - form: -lu
-      front: -ly
+    - form: -kki
+      front: -kki
       gloss: a small one
       kind: derivation
-      examples: [_pelvai_ > _pelvailu_ "a wisp of cloud"]
-    - form: -rno
-      front: -rne
+      examples: [_pelvai_ > _pelvaikki_ "a wisp of cloud"]
+    - form: -kko
+      front: -kke
       gloss: a stand or gathering of it
       kind: derivation
-      examples: [_kalvi_ > _kalvirno_ "a stand of birch"]
+      examples: [_kalpi_ > _kalpikko_ "a stand of birch"]
     - form: -sa
       front: -se
       gloss: a word describing by it
       kind: derivation
       examples: [_nuuva_ > _nuuvasa_ "starlit"]
-    - form: -lta
-      front: -lte
+    - form: -ta
+      front: -te
       gloss: a verb from a noun
       kind: derivation
-      examples: [_thalve_ > _thalvelta_ "to fog over"]
-    - form: -dhe
-      front: -dhe
+      examples: [_talve_ > _talveta_ "to fog over"]
+    - form: -tti
+      front: -tti
       gloss: a man's given name
       kind: name
       given: man
-      barredAfter: [dh]
+      barredAfter: [t]
     - {form: -vo, front: -ve, gloss: a man's given name, kind: name, given: man, barredAfter: [v]}
     - form: -la
       front: -le
@@ -2294,12 +2294,12 @@ data:
       kind: name
       given: woman
       barredAfter: [l]
-    - form: -ra
-      front: -re
+    - form: -tta
+      front: -tte
       gloss: a woman's given name
       kind: name
       given: woman
-      barredAfter: [r]
+      barredAfter: [t]
     - {form: -nto, front: -nte, gloss: lineage, kind: lineage, barredAfter: [n]}
   older:
     - {form: Sinale, gloss: the people's name for themselves and their tongue, layer: Primordial}
@@ -2327,18 +2327,18 @@ data:
     - {name: Sinalo, tongue: sinale, built: [sinalo]}
     - {name: Haulonna, tongue: older}
     - {name: Thalmdal, tongue: exonym:nordmal}
-    - {name: Ansorudhe Lonvunto, tongue: sinale, built: [ansoru, -dhe, lonvu, -nto]}
+    - {name: Ansorutti Lonkunto, tongue: sinale, built: [ansoru, -tti, lonku, -nto]}
     - {name: Sirmenne, tongue: older}
-    - {name: Veldirno, tongue: sinale, built: [veldi, -rno]}
+    - {name: Veldikko, tongue: sinale, built: [veldi, -kko]}
     - {name: The God of Dreams, tongue: translation}
     - {name: Aulveira, tongue: sinale, built: [aulveira]}
-    - {name: Aulirarno, tongue: sinale, built: [aulira, -rno]}
+    - {name: Aulirakko, tongue: sinale, built: [aulira, -kko]}
     - {name: Lubát, tongue: exonym:khazari}
     - {name: Bjart, tongue: exonym:nordmal}
     - {name: Zunelas, tongue: exonym}
     - {name: Ansorun, tongue: sinale, built: [ansoru, -nno]}
     - {name: Long-Watcher, tongue: translation}
-    - {name: Ilthorin, tongue: sinale, built: [ilthori, -nno]}
+    - {name: Iltorin, tongue: sinale, built: [iltori, -nno]}
     - {name: Seer, tongue: translation}
     - {name: The Faithful, tongue: translation}
     - {name: Unaccorded, tongue: translation}
@@ -2359,55 +2359,54 @@ data:
     - {name: Green Interior, tongue: translation}
     - {name: Guest-Right, tongue: translation}
     - {name: Ellevirsa, tongue: sinale, built: [ellevi, -rsa]}
-    - {name: Nylvidhe Esselinto, tongue: sinale, built: [nylvi, -dhe, esseli, -nto]}
+    - {name: Nylkitti Esselinto, tongue: sinale, built: [nylki, -tti, esseli, -nto]}
     - {name: The Long-Watcher's Sayings, tongue: translation}
     - {name: Ansorunnoren saunari, tongue: sinale, built: [ansorun, -ren, saunari]}
-    - name: Olmasidhe Rhovelinto Sorvelsa
+    - name: Olmasitti Ropelinto Torvelsa
       tongue: sinale
-      built: [olmasi, -dhe, rhoveli, -nto, torvel, -sa]
-      gloss: worn
+      built: [olmasi, -tti, ropeli, -nto, torvel, -sa]
     - {name: Ilevala Huomanto, tongue: sinale, built: [ileva, -la, huoma, -nto]}
-    - {name: Ollevirno, tongue: sinale, built: [ollevi, -rno]}
+    - {name: Ollevikko, tongue: sinale, built: [ollevi, -kko]}
     - {name: The Lament of Haulonna, tongue: translation}
-    - {name: Haulonnaren nelthava, tongue: sinale}
-    - {name: Pelvaila Velvainto, tongue: sinale, built: [pelvai, -la, pelvai, -nto]}
-    - {name: Velvaila, tongue: sinale, built: [pelvai, -la], gloss: worn}
-    - {name: Kinsadhe Hallesinto, tongue: sinale, built: [kinsa, -dhe, hallesi, -nto]}
-    - {name: Hinsadhe, tongue: sinale, built: [kinsa, -dhe], gloss: worn}
-    - {name: Kelvasira Nuominto, tongue: sinale, built: [kelvasi, -ra, nuomi, -nto]}
-    - {name: Helvasira, tongue: sinale, built: [kelvasi, -ra], gloss: worn}
+    - {name: Haulonnaren neltava, tongue: sinale}
+    - {name: Pelvaila Pelvainto, tongue: sinale, built: [pelvai, -la, pelvai, -nto]}
+    - {name: Pelvaila, tongue: sinale, built: [pelvai, -la]}
+    - {name: Kinsatti Hallesinto, tongue: sinale, built: [kinsa, -tti, hallesi, -nto]}
+    - {name: Kinsatti, tongue: sinale, built: [kinsa, -tti]}
+    - {name: Kelkasitta Nuominto, tongue: sinale, built: [kelkasi, -tta, nuomi, -nto]}
+    - {name: Kelkasitta, tongue: sinale, built: [kelkasi, -tta]}
     - {name: Toimuvo Sulmento, tongue: sinale, built: [toimu, -vo, sulme, -nto]}
-    - {name: Soimuvo, tongue: sinale, built: [toimu, -vo], gloss: worn}
-    - {name: Porvila Ilevanto, tongue: sinale, built: [porvi, -la, ileva, -nto]}
-    - {name: Vorvila, tongue: sinale, built: [porvi, -la], gloss: worn}
+    - {name: Toimuvo, tongue: sinale, built: [toimu, -vo]}
+    - {name: Porkila Ilevanto, tongue: sinale, built: [porki, -la, ileva, -nto]}
+    - {name: Porkila, tongue: sinale, built: [porki, -la]}
     - {name: The Gathering on the End, tongue: translation}
-    - {name: Olvandiren aulirarno, tongue: sinale, built: [olvandi, -ren, aulira, -rno]}
-    - {name: Tellavira Eilavanto, tongue: sinale, built: [tellavi, -ra, eilava, -nto]}
-    - {name: Sellavira, tongue: sinale, built: [tellavi, -ra], gloss: worn}
-    - {name: Rivydhe Syllente, tongue: sinale, built: [rivy, -dhe, sylle, -nte]}
-    - {name: Lenthila Thalvento, tongue: sinale, built: [lenthi, -la, thalve, -nto]}
-    - {name: Hyssedhe Soimunto, tongue: sinale, built: [hysse, -dhe, toimu, -nto]}
+    - {name: Oltandiren aulirakko, tongue: sinale, built: [oltandi, -ren, aulira, -kko]}
+    - {name: Tellakitta Eilavanto, tongue: sinale, built: [tellaki, -tta, eilava, -nto]}
+    - {name: Tellakitta, tongue: sinale, built: [tellaki, -tta]}
+    - {name: Rivytti Syllente, tongue: sinale, built: [rivy, -tti, sylle, -nte]}
+    - {name: Lentila Talvento, tongue: sinale, built: [lenti, -la, talve, -nto]}
+    - {name: Hyssetti Toimunto, tongue: sinale, built: [hysse, -tti, toimu, -nto]}
     - {name: The Long Road, tongue: translation}
     - {name: Tirvali, tongue: sinale, built: [tirvali]}
-    - {name: Tirvalira Solmerinto, tongue: sinale, built: [tirvali, -ra, solmeri, -nto]}
-    - {name: Sirvalira, tongue: sinale, built: [tirvali, -ra], gloss: worn}
-    - {name: Tirvalira Sirvali, tongue: sinale, built: [tirvali, -ra, tirvali], gloss: worn}
+    - {name: Tirvalitta Solmerinto, tongue: sinale, built: [tirvali, -tta, solmeri, -nto]}
+    - {name: Tirvalitta, tongue: sinale, built: [tirvali, -tta]}
+    - {name: Tirvalitta Tirvali, tongue: sinale, built: [tirvali, -tta, tirvali]}
     - {name: The Praise of the One Who Stays, tongue: translation}
-    - {name: Sendevinnoren thellame, tongue: sinale, built: [sendevinno, -ren, thellame]}
-    - {name: Lavurinto, tongue: sinale, built: [lavuri, -nto]}
-    - {name: Halvinto, tongue: sinale, built: [kalvi, -nto]}
+    - {name: Sendeppinnoren tellame, tongue: sinale, built: [sendeppinno, -ren, tellame]}
+    - {name: Lapurinto, tongue: sinale, built: [lapuri, -nto]}
+    - {name: Kalpinto, tongue: sinale, built: [kalpi, -nto]}
     - {name: Nuuvanto, tongue: sinale, built: [nuuva, -nto]}
     - {name: Unturonto, tongue: sinale, built: [unturo, -nto]}
     - {name: The Asking, tongue: translation}
-    - {name: Haulera, tongue: sinale, built: [haule, -ra]}
+    - {name: Hauletta, tongue: sinale, built: [haule, -tta]}
     - {name: Lauva, tongue: older}
-    - {name: Vilme, tongue: sinale, built: [pilme], gloss: worn}
-    - {name: Lonvu, tongue: sinale, built: [lonvu]}
+    - {name: Pilme, tongue: sinale, built: [pilme]}
+    - {name: Lonku, tongue: sinale, built: [lonku]}
     - {name: Mallonna, tongue: older}
     - {name: Tehy, tongue: sinale, built: [tehy]}
-    - {name: Thalve, tongue: sinale, built: [thalve]}
+    - {name: Talve, tongue: sinale, built: [talve]}
   negation: {particle: ahi, mutation: wearing}
-  naming: {shapes: [{of: given, syllables: {min: 3, max: 4}}]}
+  naming: {shapes: [{of: given, syllables: {min: 2, max: 4}}]}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -2425,23 +2424,25 @@ Sinale is a tongue of the Elder family. Fluency measures the sophistication of e
 
 Sinale is the language of the **[[lore-flksinale|Sinale]]** (known in human legends as "elves"; one of them is a **Sinalo**), the eldest of the Elder Races to settle on [[place-worldthlrn|Thalorna]]. The language predates all human tongues by millennia, surviving as living speech in scattered Sinale communities hidden in deep forests and remote valleys. The Sinale are vanishingly rare—fewer than one in ten thousand inhabitants of Thalorna—and their language is nearly as rare, known to outsiders only through legend and fragmentary encounter.
 
-To the human ear, Sinale is hauntingly beautiful: melodic and vowel-heavy, with open syllables and soft consonants that seem to flow like water. Its consonants are the liquids and the nasals—_l_, _r_ and _n_ above all, doubled and run together—with the breathed _th_ and _dh_ between them, and its vowels are the open _a_, _e_, _i_ and _o_, often held long. No word opens on a voiced stop and there are no guttural sounds. Nearly every syllable ends in a vowel, and the language slides from one to the next without ever stacking consonants at the front of a word. A Sinale speaker seems to be singing rather than speaking, and the song is a slow one: the language has the sound of a long memory, of starlight and twilight, and of things a long time lost.
+To the human ear, Sinale is hauntingly beautiful: melodic and vowel-heavy, with open syllables and consonants that seem to flow like water. Its consonants are clean and often long—_t_, _s_, _k_ and _n_ above all, with _l_ and _r_ running between them—and its vowels are the open _a_, _e_, _i_ and _o_, often held long. No word opens on a voiced stop and there are no guttural sounds. Nearly every syllable ends in a vowel, and the language slides from one to the next without ever stacking consonants at the front of a word. A Sinale speaker seems to be singing rather than speaking, and the song is a slow one: the language has the sound of a long memory, of starlight and twilight, and of things a long time lost.
 
 What a human listener never notices is where the grammar sits. The work of saying how one word bears on another is done at the **front** of a word: a word that leans on another **wears down** at its head, and the worn consonant is the grammar. A Sinale hears the relation before the word is finished. A human hears a pretty variation and misses it entirely.
 
 ## How Sinale sounds
 
-Sinale is the eldest tongue, sung as often as spoken. It is soft-consonanted and full of open vowels.
+Sinale is the eldest tongue, sung as often as spoken. Its words are long and open, full of vowels, and its consonants are clean: the stops _t_, _k_ and _p_ beside _s_, _n_, _l_ and _r_, and nothing harsh.
 
-**The vowels.** _a_, _e_, _i_, _o_ and _u_ are all common, and _ai_, _au_ and _oi_ are frequent. _ë_ marks a vowel sounded apart.
+**The vowels.** _a_ most often, then _i_, _e_, _u_ and _o_. A long vowel is written doubled (_nuuva_, _loova_, _aamas_), and _ai_, _ei_, _oi_, _au_, _ou_, _ie_ and _uo_ are frequent (_huoma_, _toimu_, _eilava_). _y_ is a front vowel, said _i_ (_rivy_, _nelyve_). _ë_ marks a vowel sounded apart (_leësy_).
 
-**The consonants.** _l_, _s_, _v_, _n_, _m_, _r_ and _t_, with _th_ inside a word.
+**The consonants.** _t_, _s_, _k_ and _n_ lead, then _l_, _r_, _p_, _m_, _v_ and _h_. A consonant is often long and written doubled: _tt_, _kk_, _ll_, _nn_, _ss_, _mm_ (_mollu_, _hekky_, _Kalpitti_).
 
-**Clusters.** _lm_, _lv_, _ls_, _rn_ and _nt_ meet inside a word.
+**Clusters.** Two consonants meet only inside a word: a long consonant, a nasal and its stop (_nt_, _nk_, _mp_), or a liquid and a stop (_lt_, _lk_, _lp_, _rt_, _rk_). No word opens on two.
 
-**Endings.** Sinale words end in _-sa_, _-el_, _-no_, _-vi_, _-ta_ or _-ra_.
+**Endings.** Most words end in a vowel. The rest end in _-n_, _-s_, _-l_ or _-r_.
 
 **Spelling.** Sinale writes a long _e_ and a long _o_ as _ee_ and _oo_, as [[doc-prnncthlrn|Pronouncing Thalorna]] allows for it.
+
+**What Sinale leaves out.** It has no _th_, _rh_ or _w_, no _b_, _g_, _f_, _z_, _sh_ or _ch_, and no _d_ except after _l_, _n_ or _r_. _dh_ is rare and stands only between vowels.
 
 ## Phonology
 
@@ -2449,7 +2450,7 @@ Sinale is the eldest tongue, sung as often as spoken. It is soft-consonanted and
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-_Rh_ is _r_ breathed rather than voiced; _th_ is the breathed sound between the teeth and _dh_ its voiced partner; _w_ is a glide, never a vowel. _D_ is the one voiced stop, and it stands only after a liquid or a nasal, where the tongue is already raised to it. There are no affricates and no back scrape—nothing a human would call harsh. _P_, _t_, _k_, _s_, _m_, _n_, _l_ and _r_ also have a **long** form, and the length is meaningful: _mollu_ is a deep pool and _molu_ is the colour of it.
+_Dh_ is the voiced sound between the teeth, rare, and only between vowels. _D_ is the one voiced stop, and it stands only after a liquid or a nasal, where the tongue is already raised to it. There are no affricates and no back scrape—nothing a human would call harsh. _P_, _t_, _k_, _s_, _m_, _n_, _l_ and _r_ also have a **long** form, and the length is meaningful: _mollu_ is a deep pool and _molu_ is the colour of it.
 
 ### Vowels
 
@@ -2486,7 +2487,7 @@ _uo_ and its front partner _ye_ open wide and close narrow, the reverse of every
 
 ### Medial clusters
 
-**No word begins with a cluster.** Inside a word two consonants may stand together, never more than two, and only in these pairings. A digraph—_th_, _dh_, _rh_, _ng_—is one consonant, so _lth_ is a pair:
+**No word begins with a cluster.** Inside a word two consonants may stand together, never more than two, and only in these pairings. A digraph—_dh_ or _ng_—is one consonant:
 
 ```sql
 SELECT what AS "Kind", array_to_string(list_transform(clusters, x -> '_' || x || '_'), ', ') AS "Clusters", use AS "Use"
@@ -2511,18 +2512,18 @@ The back nasal _ng_ stands only between vowels, and no word opens on it.
 
 ### Stress
 
-**Stress falls on the first syllable of every word, without exception.** So a Sinale word of any length can be said correctly on sight: _NUU-va_, _OL-ves-sa_, _SEL-vin-te_. Pitch does the work stress does in human tongues—rising for a question, falling to close a thought, held level through a list—and formal speech exaggerates it until it approaches singing. To speak Sinale in a monotone is not to speak it badly but to say something else.
+**Stress falls on the first syllable of every word, without exception.** So a Sinale word of any length can be said correctly on sight: _NUU-va_, _OL-tes-sa_, _SEL-kin-te_. Pitch does the work stress does in human tongues—rising for a question, falling to close a thought, held level through a list—and formal speech exaggerates it until it approaches singing. To speak Sinale in a monotone is not to speak it badly but to say something else.
 
 ### Wearing
 
-The device that carries Sinale's grammar is **wearing**, _olvenne_—the softening of the consonant a word begins with when that word leans on another. A stop wears to the fricative made in the same place, and nothing else moves:
+The device that carries Sinale's grammar is **wearing**, _oltenne_—the softening of the consonant a word begins with when that word leans on another. A stop wears to the fricative made in the same place, and nothing else moves:
 
 ```sql
 SELECT '_' || sound || '_' AS "Radical", '_' || becomes || '_' AS "Worn", example AS "Example"
 FROM mutations WHERE language = 'thalorna-note-skill-sinalelng' AND mutation = 'wearing' ORDER BY position
 ```
 
-Every other beginning—_v_, _s_, _h_, _m_, _n_, _l_, _r_, _th_, _rh_, _w_ and the vowels—is worn already and does not change. _Th_ is a sound of its own and not _t_ followed by another, so a word opening on it never wears. There is one grade of wearing and no other: a worn consonant never wears further.
+Every other beginning—_v_, _s_, _h_, _m_, _n_, _l_, _r_ and the vowels—is worn already and does not change. A name never wears. There is one grade of wearing and no other: a worn consonant never wears further.
 
 ### What wears
 
@@ -2530,16 +2531,14 @@ A word wears in these places, and it does not wear when it is the thing being sp
 
 | Where                                           | Example                                             |
 | ----------------------------------------------- | --------------------------------------------------- |
-| a modifier standing before what it modifies     | _kalvi_ before _lonvu_ gives _halvi lonvu_          |
-| a possessor, which is a modifier like any other | _kalvi_ gives _halvi eilava_ "sky of the pale wood" |
-| the first stem of a compound                    | _kalvi_ and _lonvu_ give _halvilonvu_               |
-| a lineage name                                  | _kalvi_ gives _Halvinto_                            |
-| an epithet                                      | an epithet stands worn after the name it follows    |
-| a name or a noun in direct address              | _Kalvidhe_, called, is _Halvidhe_                   |
-| a verb after the negative particle              | _tuve_ "holds" gives _ahi suve_ "does not hold"     |
-| a number multiplying the one after it           | _kevu_ "three" gives _hevu elmi_ "sixty"            |
+| a modifier standing before what it modifies     | _kalpi_ before _lonku_ gives _halpi lonku_          |
+| a possessor, which is a modifier like any other | _kalpi_ gives _halpi eilava_ "sky of the pale wood" |
+| the first stem of a compound                    | _kalpi_ and _lonku_ give _halpilonku_               |
+| a noun in direct address                        | _kalpi_, called, is _halpi_                         |
+| a verb after the negative particle              | _tupe_ "holds" gives _ahi supe_ "does not hold"     |
+| a number multiplying the one after it           | _kevu_ "three" gives _hevu elki_ "sixty"            |
 
-The consequence a reader can check by eye: **no worn form begins with _p_, _t_ or _k_.** A lineage name never does, and a verb after _ahi_ never does.
+The consequence a reader can check by eye: **no worn form begins with _p_, _t_ or _k_.** A verb after _ahi_ never does.
 
 A verb's object does not wear.
 
@@ -2575,7 +2574,7 @@ FROM affixes WHERE language = 'thalorna-note-skill-sinalelng' AND kind IN ('deri
 
 ### Compounds
 
-Two stems make one word: the first is the modifier and wears, the second is the head. _Kalvi_ "pale wood" and _lonvu_ "the deep wood" give _halvilonvu_, a birch stand within the forest. Each stem keeps its own harmony, so a compound may join a back stem to a front one, and the suffix follows the last.
+Two stems make one word: the first is the modifier and wears, the second is the head. _Kalpi_ "pale wood" and _lonku_ "the deep wood" give _halpilonku_, a birch stand within the forest. Each stem keeps its own harmony, so a compound may join a back stem to a front one, and the suffix follows the last.
 
 A **place name** is a compound of this kind, or a single stem with the place suffix. An enclave's own name is Sinale; the names human neighbours give enclaves are words in the neighbours' tongues.
 
@@ -2583,7 +2582,7 @@ A **place name** is a compound of this kind, or a single stem with the place suf
 
 A modifier stands before what it modifies and **wears**:
 
-_kalvi_ "pale wood" and _lonvu_ "the deep wood" give _halvi lonvu_
+_kalpi_ "pale wood" and _lonku_ "the deep wood" give _halpi lonku_
 : "the pale-wood deep-wood", a stand of birch within the forest
 
 _toimu_ "the turning year" and _liseri_ "still water" give _soimu liseri_
@@ -2593,7 +2592,7 @@ Poetry inverts the order, and the wearing goes with the word rather than the pos
 
 ### Address
 
-A name or a noun spoken to someone wears, so that a call can never be mistaken for a statement about its bearer: _Kalvidhe_ is the man spoken of, _Halvidhe_ the man called.
+A noun spoken to someone wears, so that a call can never be mistaken for a statement about the thing: _kalpi_ is the wood spoken of, _halpi_ the wood called. A name does not wear; the pitch of the call, falling at its end, tells it from talk about its bearer.
 
 ### Pronouns
 
@@ -2607,19 +2606,19 @@ The pronouns have three persons, each singular and collective, and no gender. A 
 
 ### Being
 
-There is no "is" in the present. Two words side by side, the one said of the other standing first as a verb would, make a statement: _lonvu ehi_ "I am of the deep wood". The verb _eho_ says that a thing exists—_eho mollu_ "there is a deep pool".
+There is no "is" in the present. Two words side by side, the one said of the other standing first as a verb would, make a statement: _lonku ehi_ "I am of the deep wood". The verb _eho_ says that a thing exists—_eho mollu_ "there is a deep pool".
 
 ### Negation
 
-The particle _ahi_ stands before the verb, and the verb wears: _tuve_ "holds" gives _ahi suve_ "does not hold". A negated verb therefore never begins with _p_, _t_ or _k_.
+The particle _ahi_ stands before the verb, and the verb wears: _tupe_ "holds" gives _ahi supe_ "does not hold". A negated verb therefore never begins with _p_, _t_ or _k_.
 
 ### Questions
 
-A question rises in pitch. Writing loses the pitch, so a written question opens with the particle _uvi_: _uvi tuve onsa_ "does it hold?".
+A question rises in pitch. Writing loses the pitch, so a written question opens with the particle _uvi_: _uvi tupe onsa_ "does it hold?".
 
 ### Joining words
 
-_Evi_ "and" joins words and clauses alike. _Oso_ opens a relative clause and stands at its head, whatever the clause says of its noun: _mollu oso tuve_ "the pool that holds".
+_Evi_ "and" joins words and clauses alike. _Oso_ opens a relative clause and stands at its head, whatever the clause says of its noun: _mollu oso tupe_ "the pool that holds".
 
 ### Demonstratives
 
@@ -2643,24 +2642,24 @@ Sinale counts in twenties, with ten and fifteen as resting points along the way:
 | 2     | _sipes_ |
 | 3     | _kevu_  |
 | 4     | _pemi_  |
-| 5     | _lella_ |
+| 5     | _letta_ |
 | 6     | _louti_ |
 | 7     | _ilpe_  |
 | 8     | _lerre_ |
-| 9     | _thumi_ |
+| 9     | _tumi_  |
 | 10    | _tova_  |
-| 15    | _ilvo_  |
-| 20    | _elmi_  |
+| 15    | _ilto_  |
+| 20    | _elki_  |
 
-Eleven to fourteen are a unit on ten, set on ten with _-ho_: _ilte tovaho_ "one on ten" is eleven. Sixteen to nineteen are a unit on fifteen, _ilte ilvoho_, except eighteen, which is _sipes thumi_ "two nines". Twenties are counted by a multiplier standing before _elmi_ and wearing as any modifier does: _sipes elmi_ is forty, _hevu elmi_ sixty, and _tova elmiho_ "ten on twenty" is thirty. A count follows the thing counted and does not wear: _mollu kevu_ "three deep pools", _nuuvanu sipes_ "two stars".
+Eleven to fourteen are a unit on ten, set on ten with _-ho_: _ilte tovaho_ "one on ten" is eleven. Sixteen to nineteen are a unit on fifteen, _ilte iltoho_, except eighteen, which is _sipes tumi_ "two nines". Twenties are counted by a multiplier standing before _elki_ and wearing as any modifier does: _sipes elki_ is forty, _hevu elki_ sixty, and _tova elkiho_ "ten on twenty" is thirty. A count follows the thing counted and does not wear: _mollu kevu_ "three deep pools", _nuuvanu sipes_ "two stars".
 
 ### Comparison
 
-The ending _-tos_ compares: what something exceeds is the place it stands out from. _Vauli kalvitos_ is "taller than the birch", tall from the pale wood.
+The ending _-tos_ compares: what something exceeds is the place it stands out from. _Vautti kalpitos_ is "taller than the birch", tall from the pale wood.
 
 ## Script and Literacy
 
-Sinale is written in the [[skill-clthndscrpt|Veldirno]], a **flowing script** that resembles calligraphy. Glyphs are organic, curved, and highly stylized—each letter is an artwork. The script is written left-to-right, top-to-bottom, but the flowing nature of the letters creates a visual impression of music.
+Sinale is written in the [[skill-clthndscrpt|Veldikko]], a **flowing script** that resembles calligraphy. Glyphs are organic, curved, and highly stylized—each letter is an artwork. The script is written left-to-right, top-to-bottom, but the flowing nature of the letters creates a visual impression of music.
 
 Key features:
 
@@ -2676,25 +2675,25 @@ Ligatures
 Ornate variants
 : Sacred texts employ extremely elaborate, decorated letter forms
 
-The Veldirno is the Sinale's own, made for this language and for no other, and the fit shows: each of the three places of articulation has its own family of letters, and within a family the stop, the fricative and the nasal are the same shape three times over, so a worn word looks worn. The [[lore-aelendnppl|Áelendi]] took the script from the Sinale, being the humans closest to them; the rest of [[place-aureldirgn|Aureldia Region]] writes in [[skill-semrnscrpt|Semaron Script]], the Vylarian alphabet, and always has.
+The Veldikko is the Sinale's own, made for this language and for no other, and the fit shows: each of the three places of articulation has its own family of letters, and within a family the stop, the fricative and the nasal are the same shape three times over, so a worn word looks worn. The [[lore-aelendnppl|Áelendi]] took the script from the Sinale, being the humans closest to them; the rest of [[place-aureldirgn|Aureldia Region]] writes in [[skill-semrnscrpt|Semaron Script]], the Vylarian alphabet, and always has.
 
 Literacy in Sinale is near-universal among the Sinale themselves—the language and written tradition are central to their culture. However, human literacy in Sinale is **extremely rare**. Only scholars, elves, and highly educated humans can read or write the language.
 
-### Setting a romanized word back in the Veldirno
+### Setting a romanized word back in the Veldikko
 
-Every Sinale word on these pages is a romanization, written in the romanization for readers who do not have the hand. Setting one back into the Veldirno is not a matter of taste: the mapping below is fixed, so that two scribes working from the same romanized spelling produce the same page. What may differ between one page and another is the cut of the letterforms—an everyday hand, the elaborated sacred one, a carved inscription—and never which sign is which.
+Every Sinale word on these pages is a romanization, written in the romanization for readers who do not have the hand. Setting one back into the Veldikko is not a matter of taste: the mapping below is fixed, so that two scribes working from the same romanized spelling produce the same page. What may differ between one page and another is the cut of the letterforms—an everyday hand, the elaborated sacred one, a carved inscription—and never which sign is which.
 
-**The consonants are the visible line.** One sign to each consonant of the inventory, arranged in three families by place of articulation—the lips, the tongue-tip and the back of the mouth—so that the stop, the fricative and the nasal of one family are the same shape at three grades. The liquids, the soft sounds and the glide—_l_, _r_, _rh_, _th_, _dh_, _d_ and _w_—stand outside the families and have signs of their own. Because wearing only ever moves a stop to the fricative of its own family, a worn word is the same shape one grade along—which is where the romanization is at its clumsiest, writing _t_ and _s_ as two unrelated letters for what the hand shows as one letter lowered. The back nasal has a sign like the rest, but no word opens on it and so it is never the first thing on a line.
+**The consonants are the visible line.** One sign to each consonant of the inventory, arranged in three families by place of articulation—the lips, the tongue-tip and the back of the mouth—so that the stop, the fricative and the nasal of one family are the same shape at three grades. The liquids and the soft sounds—_l_, _r_, _dh_ and _d_—stand outside the families and have signs of their own. Because wearing only ever moves a stop to the fricative of its own family, a worn word is the same shape one grade along—which is where the romanization is at its clumsiest, writing _t_ and _s_ as two unrelated letters for what the hand shows as one letter lowered. The back nasal has a sign like the rest, but no word opens on it and so it is never the first thing on a line.
 
-**A doubled consonant is one sign and a bar.** The romanization writes a long consonant twice—_mollu_, and the _tt_, _ss_ and _rr_ of the phonology—while the Veldirno writes the sign once and sets a bar beneath it. _Mollu_ and _molu_ therefore differ in the hand by a single stroke, and a damaged page that has lost its bars has lost the difference between a deep pool and the colour of it.
+**A doubled consonant is one sign and a bar.** The romanization writes a long consonant twice—_mollu_, and the _tt_, _ss_ and _rr_ of the phonology—while the Veldikko writes the sign once and sets a bar beneath it. _Mollu_ and _molu_ therefore differ in the hand by a single stroke, and a damaged page that has lost its bars has lost the difference between a deep pool and the colour of it.
 
 **The vowels ride above.** Seven marks, one each for _a_, _e_, _i_, _o_, _u_, _y_ and _ë_, set over the consonant they follow. A word that begins with a vowel carries its mark on a bare carrier stroke, the one sign in the script that stands for no sound of its own. A doubled vowel in the romanization—_aa_, _eë_—is a single mark drawn long rather than two marks; a diphthong is two marks over one carrier, in the order they are said.
 
-**What the romanization loses, and what it never needed.** Stress is not marked in the Veldirno, because it never moves: the first syllable of every word, without exception, so a mark over a later one is emphasis and is saying something else. Pitch is marked, and a romanized line drops it entirely, so a romanized line read aloud keeps every word and loses the tune that told how they were meant.
+**What the romanization loses, and what it never needed.** Stress is not marked in the Veldikko, because it never moves: the first syllable of every word, without exception, so a mark over a later one is emphasis and is saying something else. Pitch is marked, and a romanized line drops it entirely, so a romanized line read aloud keeps every word and loses the tune that told how they were meant.
 
 **The check that catches most copyists.** A word never holds a back vowel and a front vowel together, so every vowel mark in a word belongs to one set. A word carrying both is an error before it is anything else, and it is the first thing a Sinale reader sees.
 
-**This is Sinale's mapping and not [[skill-aelendlng|Áelendi Language]]'s.** The Áelendan write in the same hand, borrowed and much adapted, for a language carrying sounds the Veldirno was never cut for. A passage of Áelendi wants its own convention and does not follow this one.
+**This is Sinale's mapping and not [[skill-aelendlng|Áelendi Language]]'s.** The Áelendan write in the same hand, borrowed and much adapted, for a language carrying sounds the Veldikko was never cut for. A passage of Áelendi wants its own convention and does not follow this one.
 
 ## Historical Development
 
@@ -2723,7 +2722,7 @@ The singular, _Sinalo_ "one of the Sinale", is not among them. It holds back and
 
 Sinale is fragmented geographically, with scattered communities speaking distinct—though mutually intelligible—dialects, each named for the country it is spoken in:
 
-- **Lonvu** (the deep wood): The most conservative and archaic form, closest to ancient Sinale, and the slowest
+- **Lonku** (the deep wood): The most conservative and archaic form, closest to ancient Sinale, and the slowest
 - **Eilava** (the wide sky, the high valleys): Slightly more rapid speech, some flattening of pitch, subtly different vowel lengths
 - **Loova** (the far bank, the old coastal settlements): Long isolated; some unique vocabulary and archaic constructions
 
@@ -2734,13 +2733,13 @@ Deep-wood speech sounds archaic and formal beside the speech of the high valleys
 _Luuro nuuva liseriho_
 : "Starlight sings on still water" (a greeting between friends, and the commonest one)
 
-_Li-sely lenthi thalveho_
+_Li-setty lenti talveho_
 : "The tall grass stands in the low fog, as it always does" (patience under a difficulty that will pass)
 
-_Ha-tuve thilvai hyssen_
+_Ha-tupe tilvai hyssen_
 : "The seam of light has held the breath" (said when something long awaited has arrived)
 
-_Peheka huoman, peheka nylvin_
+_Peheka huoman, peheka nylkin_
 : "Give warmth, give root" (a blessing on a new house)
 
 _Luuro ileva, luuro rivy_
@@ -2750,7 +2749,7 @@ _Luuro ileva, luuro rivy_
 
 Sinale is one of the **two surviving Elder Tongues**, the other being [[skill-khazarlng|Khazari]]. Both descend from a **common Elder language** spoken before the Elder Races diverged. That ancestor is extinct and no text preserves it.
 
-The kinship is not audible. Sinale runs on open syllables, long vowels and a soft inventory; Khazari runs on clusters, short vowels and back fricatives. Nothing in the sound of either suggests the other.
+The kinship is not audible. Sinale runs on open syllables, long vowels and a clean inventory; Khazari runs on clusters, short vowels and back fricatives. Nothing in the sound of either suggests the other.
 
 What the two share is a habit no human tongue on Thalorna has: **both make a new word by altering the body of an old one rather than by hanging a piece on its end.** Sinale changes the consonant a word begins with according to the work the word is doing; Khazari pours a different vowel frame through a fixed skeleton of consonants. Suffixes are the shallow layer in both—the deep one is inside the word.
 
@@ -2762,12 +2761,12 @@ Scholars debate whether the Elder Races deliberately drove their languages apart
 
 ### Structure and Philosophy
 
-A Sinale carries a **given name** and a **lineage name**, and wearing separates them, so the two can never be confused:
+A Sinale carries a **given name** and a **lineage name**, and their endings separate them, so the two can never be confused:
 
-1. A **given name** is a stem in its **radical** form with a naming ending. **A given name runs three or four syllables**, stressed on the first.
-2. A **lineage name** is the same kind of stem **worn**, with the hearth ending. It means "the hearth of" the stem, and because it is worn it **never begins with _p_, _t_ or _k_**.
+1. A **given name** is a stem in its **radical** form with a naming ending. **A given name runs two to four syllables**, stressed on the first.
+2. A **lineage name** is a stem in its **radical** form with the hearth ending. It means "the hearth of" the stem.
 
-**The ending that would repeat the stem's own last consonant is not used**, so a stem ending in _-va_ takes _-dhe_ rather than _-vo_, and **a stem whose last consonant is _n_ takes no hearth ending** and cannot found a lineage. Sinale find this last fact funny and outsiders find it arbitrary.
+**The ending that would repeat the stem's own last consonant is not used**, so a stem ending in _-va_ takes _-tti_ rather than _-vo_, and **a stem whose last consonant is _n_ takes no hearth ending** and cannot found a lineage. Sinale find this last fact funny and outsiders find it arbitrary.
 
 Sinale hold that a name carries spiritual weight and shapes what the bearer becomes, so a name is chosen slowly, sometimes over years, and a child goes unnamed in the meantime without anyone thinking it strange.
 
@@ -2787,17 +2786,17 @@ FROM affixes WHERE language = 'thalorna-note-skill-sinalelng' AND kind IN ('line
 
 ### Given Names
 
-A stem is drawn from the world rather than from virtue: light, water, wood, weather, stone, the hours and the seasons. _Nuuva_ is starlight, _liseri_ still water, _rivy_ the turning leaf, _hysse_ the held breath, _thilvai_ the seam of light where a cloud parts. The name is that thing, with an ending that says who carries it:
+A stem is drawn from the world rather than from virtue: light, water, wood, weather, stone, the hours and the seasons. _Nuuva_ is starlight, _liseri_ still water, _rivy_ the turning leaf, _hysse_ the held breath, _tilvai_ the seam of light where a cloud parts. The name is that thing, with an ending that says who carries it:
 
-- _Nuuvadhe_ "starlight" (a man), _Nuuvala_ and _Nuuvara_ (women)
-- _Rivydhe_, _Rivyle_, _Rivyre_—"the turning leaf"
-- _Liseridhe_, _Liserivo_, _Liserila_—"still water"
+- _Nuuvatti_ "starlight" (a man), _Nuuvala_ and _Nuuvatta_ (women)
+- _Rivytti_, _Rivyle_, _Rivytte_—"the turning leaf"
+- _Liseritti_, _Liserivo_, _Liserila_—"still water"
 
-Two endings are available to each, and the choice is the namer's ear rather than a rule, so one household names a daughter _Selvire_ and another names a daughter _Selvile_ from the same stem.
+Two endings are available to each, and the choice is the namer's ear rather than a rule, so one household names a daughter _Selkitte_ and another names a daughter _Selkile_ from the same stem.
 
 ### Lineage Names
 
-A lineage is a **hearth**, and its name is the thing the hearth keeps, worn and closed with _-nto_ or _-nte_. _Kalvi_ "pale wood" gives **Halvinto**; _tirvali_ "the long road" gives **Sirvalinto**; _pelvai_ "the low cloud" gives **Velvainto**. The stem that is already worn passes through unchanged: _nuuva_ gives **Nuuvanto**, _selvi_ gives **Selvinte**.
+A lineage is a **hearth**, and its name is the thing the hearth keeps, closed with _-nto_ or _-nte_. _Kalpi_ "pale wood" gives **Kalpinto**; _tirvali_ "the long road" gives **Tirvalinto**; _pelvai_ "the low cloud" gives **Pelvainto**.
 
 Lineage names descend through the **maternal line**. They are not chosen and not changed. A Sinale whose deeds no existing hearth can account for may found one, which happens perhaps once in an age and is the most consequential thing a Sinale can do.
 
@@ -2811,25 +2810,25 @@ Lineage names have no gendered form.
 
 ### A Name Is Never Shortened
 
-A Sinale is called by the whole given name, all three or four syllables of it, by a mother and by a stranger alike. The language has no shorter form to call by. Take the ending away and what is left is the stem, and the stem is the thing itself: _kalvi_ is the pale wood of the birch, so a Sinale who says _Kalvi_ is talking about trees, and _Kalvidhe_ has not been called. Cut further and the syllable that remains names nothing at all. A name chosen slowly, sometimes over years, and held to shape what its bearer becomes is not trimmed for convenience, and four syllables stressed always on the first are no burden to a people who live as long as the Sinale do.
+A Sinale is called by the whole given name, all the syllables of it, by a mother and by a stranger alike. The language has no shorter form to call by. Take the ending away and what is left is the stem, and the stem is the thing itself: _kalpi_ is the pale wood of the birch, so a Sinale who says _Kalpi_ is talking about trees, and _Kalpitti_ has not been called. Cut further and the syllable that remains names nothing at all. A name chosen slowly, sometimes over years, and held to shape what its bearer becomes is not trimmed for convenience, and four syllables stressed always on the first are no burden to a people who live as long as the Sinale do.
 
-Closeness is heard in the call instead. A name spoken to its bearer wears—_Kalvidhe_ called is _Halvidhe_—so every call already sounds different from talk about a person, and the pitch the speaker lays over the worn name carries the warmth, the summons or the reproach.
+Closeness is heard in the call instead. A name spoken to its bearer takes the pitch of a call, falling at its end as a closed thought does, so every call already sounds different from talk about a person, and the pitch the speaker lays over the name carries the warmth, the summons or the reproach.
 
-A Sinale known for something more carries it as an epithet, which stands worn after the full name and adds to it without taking its place. Among the Sinale a name grows by addition and never by subtraction.
+A Sinale known for something more carries it as an epithet, which stands after the full name and adds to it without taking its place. Among the Sinale a name grows by addition and never by subtraction.
 
 ## Name Lists
 
 ### Male Given Names
 
-Nuuvadhe, Kalvidhe, Molludhe, Molluvo, Toimudhe, Toimuvo, Olvessavo, Olmasidhe, Olmasivo, Unturodhe, Unturovo, Esselidhe, Tirvalidhe, Tirvalivo, Almaridhe, Almarivo, Lavuridhe, Lavurivo, Masseridhe, Masserivo, Rhovelidhe, Lorramidhe, Ansorudhe, Ansoruvo, Huomavo, Lanthavodhe, Rhovelivo, Porvidhe, Lorramivo, Kelvasidhe, Kelvasivo, Solmerivo, Thalvedhe, Nuomivo, Loovadhe, Hallesidhe, Hallesivo, Lonvudhe, Hysseve, Ilvydhe, Tellavidhe, Eilavadhe, Rivydhe, Nelyvedhe, Hyssedhe, Pelvaidhe, Thilvaidhe, Esselivo, Elvyridhe, Ilevadhe, Solmeridhe, Lenthidhe, Lenthivo, Kilvedhe, Nuomidhe, Selvidhe, Nylvidhe, Sulmedhe, Liseridhe, Liserivo, Kinsadhe, Kinsavo, Telvidhe, Sulmevo, Olmarnadhe, Olmarnavo, Ressidhe, Ressivo
+Nuuvatti, Kalpitti, Mollutti, Molluvo, Toimutti, Toimuvo, Oltessavo, Olmasitti, Olmasivo, Unturotti, Unturovo, Esselitti, Tirvalitti, Tirvalivo, Almaritti, Almarivo, Lapuritti, Lapurivo, Masseritti, Masserivo, Ropelitti, Lorramitti, Ansorutti, Ansoruvo, Huomavo, Lantavotti, Ropelivo, Porkitti, Lorramivo, Kelkasitti, Kelkasivo, Solmerivo, Talvetti, Nuomivo, Loovatti, Hallesitti, Hallesivo, Lonkutti, Hysseve, Ilvytti, Tellakitti, Eilavatti, Rivytti, Nelyvetti, Hyssetti, Pelvaitti, Tilvaitti, Esselivo, Elvyritti, Ilevatti, Solmeritti, Lentivo, Kilpetti, Nuomitti, Selkitti, Nylkitti, Sulmetti, Liseritti, Liserivo, Kinsatti, Kinsavo, Telvitti, Sulmevo, Olmarnatti, Olmarnavo, Ressitti, Ressivo
 
 ### Female Given Names
 
-Nuuvala, Nuuvara, Kalvila, Kalvira, Mollura, Toimula, Olvessala, Olvessara, Olmasila, Olmasira, Unturola, Esselira, Hallesila, Tirvalira, Almarila, Lavurila, Masserila, Rhovelira, Porvira, Lorramila, Lorramira, Ansorula, Huomala, Huomara, Lanthavola, Lanthavora, Porvila, Kelvasila, Kelvasira, Solmerila, Nelyvele, Thalvela, Thalvera, Nuomila, Nuomira, Loovala, Loovara, Hallesira, Lonvula, Lonvura, Hyssele, Hyssere, Ilvyle, Ilvyre, Tellavila, Tellavira, Eilavala, Eilavara, Rivyle, Rivyre, Nelyvere, Pelvaila, Pelvaira, Thilvaila, Thilvaira, Elvyrile, Kilvele, Ilevala, Ilevara, Lenthila, Lenthira, Kilvere, Selvile, Selvire, Nylvile, Nylvire, Sulmela, Sulmera, Liserila, Kinsala, Kinsara, Telvire, Olmarnala, Olmarnara, Ressila, Ressira
+Nuuvala, Nuuvatta, Kalpila, Kalpitta, Mollutta, Toimula, Oltessala, Oltessatta, Olmasila, Olmasitta, Unturola, Esselitta, Hallesila, Tirvalitta, Almarila, Lapurila, Masserila, Ropelitta, Porkitta, Lorramila, Lorramitta, Ansorula, Huomala, Huomatta, Lantavola, Lantavotta, Porkila, Kelkasila, Kelkasitta, Solmerila, Nelyvele, Talvela, Talvetta, Nuomila, Nuomitta, Loovala, Loovatta, Hallesitta, Lonkula, Lonkutta, Hyssele, Hyssette, Ilvyle, Ilvytte, Tellakila, Tellakitta, Eilavala, Eilavatta, Rivyle, Rivytte, Nelyvette, Pelvaila, Pelvaitta, Tilvaila, Tilvaitta, Elvyrile, Kilpele, Ilevala, Ilevatta, Lentila, Kilpette, Selkile, Selkitte, Nylkile, Nylkitte, Sulmela, Sulmetta, Liserila, Kinsala, Kinsatta, Telvitte, Olmarnala, Olmarnatta, Ressila, Ressitta
 
 ### Lineage Names (Inherited Matrilineally)
 
-Nuuvanto—"starlight" Halvinto—"pale wood" Mollunto—"deep pool" Soimunto—"the turning year" Olvessanto—"the long dusk" Olmasinto—"moss on stone" Unturonto—"winter" Esselinto—"the still surface" Sirvalinto—"the long road" Almarinto—"the cupped hand" Lavurinto—"running water" Masserinto—"the deep ground" Rhovelinto—"the lifted stone" Lorraminto—"woven cloth" Ansorunto—"the long watch" Huomanto—"the first warmth" Vorvinto—"the split log" Helvasinto—"the cold spring" Solmerinto—"the smell of rain" Thalvento—"the low fog" Nuominto—"the still hour" Loovanto—"the far bank" Hallesinto—"white frost" Lonvunto—"the deep wood" Hyssente—"the held breath" Ilvynte—"thin ice" Sellavinto—"the small bell" Eilavanto—"the wide sky" Rivynte—"the turning leaf" Nelyvente—"the first frost" Velvainto—"the low cloud" Elvyrinte—"the evening star" Ilevanto—"the clear place" Hilvente—"the far call" Selvinte—"the woven light" Nylvinte—"the deep root" Sulmento—"the first thaw" Liserinto—"still water" Syllente—"the rising note" Ressinto—"the plaited mat"
+Nuuvanto—"starlight" Kalpinto—"pale wood" Mollunto—"deep pool" Toimunto—"the turning year" Oltessanto—"the long dusk" Olmasinto—"moss on stone" Unturonto—"winter" Esselinto—"the still surface" Tirvalinto—"the long road" Almarinto—"the cupped hand" Lapurinto—"running water" Masserinto—"the deep ground" Ropelinto—"the lifted stone" Lorraminto—"woven cloth" Ansorunto—"the long watch" Huomanto—"the first warmth" Porkinto—"the split log" Kelkasinto—"the cold spring" Solmerinto—"the smell of rain" Talvento—"the low fog" Nuominto—"the still hour" Loovanto—"the far bank" Hallesinto—"white frost" Lonkunto—"the deep wood" Hyssente—"the held breath" Ilvynte—"thin ice" Tellakinto—"the small bell" Eilavanto—"the wide sky" Rivynte—"the turning leaf" Nelyvente—"the first frost" Pelvainto—"the low cloud" Elvyrinte—"the evening star" Ilevanto—"the clear place" Kilpente—"the far call" Selkinte—"the woven light" Nylkinte—"the deep root" Sulmento—"the first thaw" Liserinto—"still water" Syllente—"the rising note" Ressinto—"the plaited mat"
 
 ## Lexicon
 
@@ -2867,11 +2866,11 @@ Three moves make every built word in this lexicon, and a new word made the same 
 
 **A suffix.** A word takes one of the derivational suffixes the language page lists, in the form its vowels call for. _Lorrami_ "woven cloth" holds back and neutral vowels and takes _-nno_ to give _lorraminno_ "a weaver"; _symme_ "the art" holds front vowels and takes _-nne_ to give _symmenne_ "one who works the art".
 
-**A compound.** Two words make one: the first describes the second and wears, the second keeps its own shape. _Kalvi_ "pale wood" and _lonvu_ "the deep wood" give _halvilonvu_ "a birch stand within the forest", the _k_ of the first worn to _h_. _Nuuva_ "starlight" and _talvaro_ "an age" give _nuuvatalvaro_ "the Age of Stars"; _nuuva_ opens on _n_, which is worn already, and does not change.
+**A compound.** Two words make one: the first describes the second and wears, the second keeps its own shape. _Kalpi_ "pale wood" and _lonku_ "the deep wood" give _halpilonku_ "a birch stand within the forest", the _k_ of the first worn to _h_. _Nuuva_ "starlight" and _talkaro_ "an age" give _nuuvatalkaro_ "the Age of Stars"; _nuuva_ opens on _n_, which is worn already, and does not change.
 
-**A name.** A given name is a word in its plain form with a naming ending; a lineage name is the same word worn, with the hearth ending. _Tirvali_ "the long road" gives the given names _Tirvalidhe_ and _Tirvalira_ and the lineage name _Sirvalinto_, "the hearth of the long road". The ending _-la_ is not used on _tirvali_, which already ends on _l_.
+**A name.** A given name is a word in its plain form with a naming ending; a lineage name is the same word with the hearth ending. _Tirvali_ "the long road" gives the given names _Tirvalitti_ and _Tirvalitta_ and the lineage name _Tirvalinto_, "the hearth of the long road". The ending _-la_ is not used on _tirvali_, which already ends on _l_.
 
-**No short name.** A given name has no short form. Taking the ending off leaves only the word for the thing—_Ilthoridhe_ without _-dhe_ is _ilthori_, a vision and not a person—so a Sinale is called by the whole name, worn in address, and the language page's naming section sets out why.
+**No short name.** A given name has no short form. Taking the ending off leaves only the word for the thing—_Iltoritti_ without _-tti_ is _iltori_, a vision and not a person—so a Sinale is called by the whole name, on the pitch of a call, and the language page's naming section sets out why.
 
 A new root word—one made from nothing in this lexicon—is a larger thing than a built one. It must keep every rule of sound and harmony, and it belongs in the table of its field with `—` in its Built from column.
 

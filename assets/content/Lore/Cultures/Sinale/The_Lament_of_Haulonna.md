@@ -1,14 +1,14 @@
 ---
 shortcode: lamenthaulonna
-name: {full: The Lament of Haulonna, aliases: [Haulonnaren nelthava]}
+name: {full: The Lament of Haulonna, aliases: [Haulonnaren neltava]}
 type: lore
 subType: literature
-description: "The Sinale lament sung in the Hallowwood when word comes from the north: five of the dead of Haulonna called by their worn names, the night the runes were cut told plainly, the long-watcher left uncalled at his watch, and the line that ends every lament left unsung until the valley is loosed."
+description: "The Sinale lament sung in the Hallowwood when word comes from the north: five of the dead of Haulonna called by name, the night the runes were cut told plainly, the long-watcher left uncalled at his watch, and the line that ends every lament left unsung until the valley is loosed."
 tags: [draft, sinale]
 data:
   culture: sinaleclt
   packFolder: settinglore
-  form: nelthava
+  form: neltava
   subjects:
     - place-haulonna
     - being-hlskmylsvrtrnr
@@ -20,11 +20,11 @@ data:
 # terran_analog: "Canu Heledd and the Llywarch Hen englynion, for the survivor's refrain over the empty hall; the Kalevala and the Kanteletar, for the line restated by the line that follows; Karelian lament-singing, which calls the dead by name and circumlocution; Finnic origin-charms, which tell how a harm was made so that it can be undone."
 ---
 
-**The Lament of Haulonna**, _Haulonnaren nelthava_, is the lament the [[lore-flksinale|Sinale]] of [[place-hallowwood|the Hallowwood]] sing on the evening word comes from the north. Word comes seldom and by one person at a time: a Sinalo who went up alone to the valley of [[place-haulonna|Haulonna]], the hearth of the unfallen leaf, comes back down to the wood and says what stands there, and when what stands there is what stood the morning after its fall, the wood sings this that night. A _nelthava_ is a lament that calls the dead by name, and it keeps one shape wherever Sinale sing: it opens on [[lore-goddreams|Aulveira]] coming for the one who has died, it calls each of the dead in turn, and it closes on one fixed line, known to every Sinalo, which says that the dead are gathered into [Ollevirno]{.name data-type="place"}, the god's hall, the gathering of the dead. The dead of Haulonna are not gathered. The runes cut into the valley hold their spirits in it, awake, and the god has not come for them, so the singers of the Hallowwood call five of them by name, tell plainly how the valley was shut, and stop where the closing line stands. A name spoken to its bearer wears in [[skill-sinalelng|Sinale]], so the name in the call is not the name in the telling—for [Pelvaila Velvainto]{.name data-type="being/npc"}, Pelvaila spoken of is Velvaila called—and the rendering keeps both forms, because the difference between them is the whole of what a call is. The one who had the long watch of the valley, [Ansorudhe Lonvunto]{.name data-type="being/npc"}, is never named in the verse: his name opens on a vowel and cannot wear, so to speak it is to call him, and the singers do not call him off his watch. An [[lore-aelendnppl|Áelendan embassy]] from across the water, received in the wood on a night word had come, heard the lament sung before anything else was said to it, and asked for it, and was given it together with the account of its shape; the Tradition Keepers hold it as it was given, with the stop where the Sinale stop, and the roll of the paths reached them one line short, so the gap is kept where it fell. It is sung by no human voice anywhere but theirs.
+**The Lament of Haulonna**, _Haulonnaren neltava_, is the lament the [[lore-flksinale|Sinale]] of [[place-hallowwood|the Hallowwood]] sing on the evening word comes from the north. Word comes seldom and by one person at a time: a Sinalo who went up alone to the valley of [[place-haulonna|Haulonna]], the hearth of the unfallen leaf, comes back down to the wood and says what stands there, and when what stands there is what stood the morning after its fall, the wood sings this that night. A _neltava_ is a lament that calls the dead by name, and it keeps one shape wherever Sinale sing: it opens on [[lore-goddreams|Aulveira]] coming for the one who has died, it calls each of the dead in turn, and it closes on one fixed line, known to every Sinalo, which says that the dead are gathered into [Ollevikko]{.name data-type="place"}, the god's hall, the gathering of the dead. The dead of Haulonna are not gathered. The runes cut into the valley hold their spirits in it, awake, and the god has not come for them, so the singers of the Hallowwood call five of them by name, tell plainly how the valley was shut, and stop where the closing line stands. A name spoken to its bearer takes the falling pitch of a call in [[skill-sinalelng|Sinale]], so the name in the call is not the name in the telling—for [Pelvaila Pelvainto]{.name data-type="being/npc"}, Pelvaila spoken of is Pelvaila called—and the rendering keeps both, the call alone on its line and the telling after it, because the difference between them is the whole of what a call is. The one who had the long watch of the valley, [Ansorutti Lonkunto]{.name data-type="being/npc"}, is never named in the verse: a name said in it is a name called, and the singers do not call him off his watch. An [[lore-aelendnppl|Áelendan embassy]] from across the water, received in the wood on a night word had come, heard the lament sung before anything else was said to it, and asked for it, and was given it together with the account of its shape; the Tradition Keepers hold it as it was given, with the stop where the Sinale stop, and the roll of the paths reached them one line short, so the gap is kept where it fell. It is sung by no human voice anywhere but theirs.
 
 : The Lament of Haulonna {#lament}
 
-```poetry {form=nelthava lang=en}
+```poetry {form=neltava lang=en}
 Word came down from the north today. One of us came down with it.
   She went up alone in the spring and came back in the leaf-fall, and she says: it stands.
 It stands as it stood the morning after. Nothing in it has moved.
@@ -36,7 +36,7 @@ When one of us dies, and it is seldom,
   Aulveira comes for the one who has died.
 We do not say how the god comes. We have seen it, and we do not say.
   The god takes the one who died to the god's hall,
-to Ollevirno, the gathering of the dead,
+to Ollevikko, the gathering of the dead,
   and the one who is taken is gathered there, and that is where they are,
 and it is not a bad hall. We have no better one to sing you.
   This is how a lament begins among us: it begins with the god,
@@ -52,7 +52,7 @@ This is the lament of Haulonna, the hearth of the unfallen leaf.
 Other hearths sing this with other names in it.
   Every hearth that had one of its own in the valley calls its own, and the valley had many hearths in it.
 We call five. We were far from it; few who sing this were further.
-  We sing it because one of the five was ours, **Porvila Ilevanto**, and the other four were hers.
+  We sing it because one of the five was ours, **Porkila Ilevanto**, and the other four were hers.
 
 Haulonna is a valley in the north, high, with the rock close on both sides,
   and the hearth-row along the water, and the trees above the hearth-row, and the pool above the trees.
@@ -75,7 +75,7 @@ There was a pool at the top of Haulonna, above the last of the trees,
   a high pool with a lip of stone, that the sky lay in.
 In the morning a low cloud came up the valley and sat on it,
   as a low cloud does on high water, every morning there is, out of the north.
-**Pelvaila Velvainto** kept the low cloud off the high pool.
+**Pelvaila Pelvainto** kept the low cloud off the high pool.
   She went up before the light and sang the cloud down off the water,
 down the slope, into the oaks, where it did no harm and was pretty among the trunks,
   so that the pool was clear when the first of us came up to it,
@@ -92,13 +92,13 @@ Then she came down wet to the hearth-row and ate standing, and said nothing abou
 Her hearth is the low cloud. Her name is the low cloud. The pool was clear.
   She kept her own name off the water every morning of her life.
 
-Velvaila.
-  Velvaila, who kept the cloud off the water.
+Pelvaila.
+  Pelvaila, who kept the cloud off the water.
 The call goes north over the water.
   The call goes north, and no one turns.
 
 No one found Haulonna twice who was not of it. That was not the valley's doing.
-  **Kinsadhe Hallesinto** walked the boundary paths and turned them.
+  **Kinsatti Hallesinto** walked the boundary paths and turned them.
 He went out at the still hour with nothing in his hands
   and walked each path to where it left the valley, and turned it there,
 so that a path which came in went out again a little further along,
@@ -107,7 +107,7 @@ with the sun on the wrong shoulder and his dog looking at him.
   A path is turned by walking it with the wish that it go elsewhere,
 and a path takes the wish if it is walked enough, and it takes a long while.
   A path is a slow thing to persuade. He was not in a hurry. He had the paths from his mother's brother.
-There were eleven paths. Kinsadhe said twelve. He counted the river.
+There were eleven paths. Kinsatti said twelve. He counted the river.
   The path by the rowans, that comes up from the hunters' country.
 The path under the crag, that comes down off the plateau.
   The path along the water, that the deer made and the hunters found.
@@ -126,15 +126,15 @@ His hearth is white frost. He walked the paths in every frost there was.
 and in the morning the hearth was facing the other way.
   He laughed at that. He said it every winter as if it were new, and laughed at it every winter.
 
-Hinsadhe.
-  Hinsadhe, who walked the paths and turned them.
+Kinsatti.
+  Kinsatti, who walked the paths and turned them.
 The call goes north over the water.
   The call goes north, and no one turns.
 
 There was a spring at the foot of the valley where the water came out of the hill,
   a cold spring, the coldest in Haulonna, and the whole hearth-row drank from it.
 In the north a spring like that shuts in the winter. The ice goes in at the mouth of it.
-  **Kelvasira Nuominto** sang the cold spring open.
+  **Kelkasitta Nuominto** sang the cold spring open.
 She went down at the still hour, which is her hearth's hour, with a cup,
   and sat by the shut mouth of the spring and sang to the water behind the ice,
 and the water remembered that it was running, and ran, and the ice let go of the stone,
@@ -150,8 +150,8 @@ and that she had earned it, and that she was the one who said she had earned it.
 On the fifth it opened. She said nothing to it. She filled the cup.
   Her name is the cold spring. The cold spring is her name. One of them was always running.
 
-Helvasira.
-  Helvasira, who sang the spring open.
+Kelkasitta.
+  Kelkasitta, who sang the spring open.
 The call goes north over the water.
   The call goes north, and no one turns.
 
@@ -170,12 +170,12 @@ and he knew which bird came first, and said so, and was right.
 That is the whole of what he tended.
   It is enough. It is what there was.
 
-Soimuvo.
-  Soimuvo, who had the seed for the birds.
+Toimuvo.
+  Toimuvo, who had the seed for the birds.
 The call goes north over the water.
   The call goes north, and no one turns.
 
-Porvila Ilevanto was ours. She was a guest there, and should not have been there.
+Porkila Ilevanto was ours. She was a guest there, and should not have been there.
   She went north from this wood with a basket of apple-seed
 for the hearth of the unfallen leaf, because they had asked for apple-seed,
   and one does not send seed by a stranger. She went to be a guest one winter.
@@ -185,15 +185,15 @@ by the ones who went up after her, and she sent this back: "The woodpile is badl
   I am coming when it is kept properly." She split the logs. Her name is the split log.
 She did not sit at a hearth where the wood was split wrong. We know it. We were that hearth.
   They gave her a word after her name, there, which is how a guest is told she is a guest no longer:
-Porvila of the woodpile. She wore it. She sent it home to us in a message, so that we knew she had taken it,
+Porkila of the woodpile. She wore it. She sent it home to us in a message, so that we knew she had taken it,
   and we laughed, and we were angry, and we sent nothing back, and she knew what that meant.
 Her hearth here is the clear place, and the clear place is here still,
   and her mother's mother sits in it, and the wood there is split properly, and her mother's mother splits it.
 She should not have been there. She was there. She was ours, and she was theirs by then.
   She would have said so herself, and did.
 
-Vorvila of the woodpile.
-  Vorvila of the woodpile, who went north with the seed, and stayed.
+Porkila of the woodpile.
+  Porkila of the woodpile, who went north with the seed, and stayed.
 The call goes north over the water.
   The call goes north, and no one turns.
 
@@ -289,19 +289,19 @@ His name is the long watch. He is at it.
 He is turning the signs over in the dark, one at a time, from the inside, as a root turns a stone.
   It is slow. It is a watch. A watch is slow, or it is not a watch.
 We do not call him off it. We do not say his name at all.
-  His name begins on a breath, and a breath does not wear, so it cannot be said here without calling him.
+  A name said in this song is a name called, so it cannot be said here without calling him.
 So it is not said. It is saved for the calling.
   When it is done, he comes down the valley with the others, and the god comes for them,
 and then we call him, and the call turns his head, and we see his face.
   We have the line for that.
 
-Velvaila. Hinsadhe. Helvasira. Soimuvo. Vorvila of the woodpile.
+Pelvaila. Kinsatti. Kelkasitta. Toimuvo. Porkila of the woodpile.
   Five. You five, and the count behind you.
 The call goes north over the water.
   The call goes north, and no one turns.
 
 Here stands the line that ends a lament.
-  Every one of us knows it. Soimuvo, you knew it, who had your name a year.
+  Every one of us knows it. Toimuvo, you knew it, who had your name a year.
 ```
 
 ## See Also

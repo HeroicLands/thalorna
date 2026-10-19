@@ -1,6 +1,6 @@
 ---
 shortcode: onewhostays
-name: {full: The Praise of the One Who Stays, aliases: [Sendevinnoren thellame]}
+name: {full: The Praise of the One Who Stays, aliases: [Sendeppinnoren tellame]}
 type: lore
 subType: literature
 description: "The Sinale praise-song of the unnamed king who held the joint crown of Aelwyth, one deed to a stanza and the king never named, kept by the Vardain and sung in the valleys beneath Vorgald on the night the road to the Gate closes."
@@ -8,7 +8,7 @@ tags: [draft, sinale]
 data:
   culture: sinaleclt
   packFolder: settinglore
-  form: thellame
+  form: tellame
   subjects:
     - lore-threesistrs
     - place-threesisters
@@ -21,7 +21,7 @@ data:
 # terran_analog: "The Welsh bardic praise-poem (Taliesin's songs to Urien, which praise the deed and the hall and keep the refrain), for the praise that counts deeds; the Kalevala's verb-leading restated line for the calque; Deor for a refrain that turns at the close; the Vardain's keeping of it draws on the way a conquered people keeps the songs of lords it has outlived."
 ---
 
-**The Praise of the One Who Stays**, _Sendevinnoren thellame_, is a [[lore-flksinale|Sinale praise-song]] (_thellame_) of the king who held the one crown of [[place-aelwyth|Aelwyth]] in the centuries when both elder peoples governed the island under it, made at his court and kept today by [[lore-vardain|the Vardain]] of [[place-vardainvalleys|the high valleys]] beneath [[place-vorgald|Vorgald]]. A Sinale praise-song praises the deed and withholds the doer, and this one withholds him entirely: the king is never named, and the song calls him only by what he does, _sendevinno_, "the one who stays." Most lines open on their verb, as a Sinale sentence does, so that the act is heard before the actor; each stanza carries one deed and closes on the same refrain; and the song is sung in the present throughout, as the Sinale sing what is long past. The Vardain sing it on the evening of the year's last delivery to the Gate, when the road up the mountain has closed behind the carts and the valleys are about to be alone until the thaw. Everyone sings; there is no singer. It is sung in the valley tongue, and the refrain and the promise alone stand in that tongue's own order.
+**The Praise of the One Who Stays**, _Sendeppinnoren tellame_, is a [[lore-flksinale|Sinale praise-song]] (_tellame_) of the king who held the one crown of [[place-aelwyth|Aelwyth]] in the centuries when both elder peoples governed the island under it, made at his court and kept today by [[lore-vardain|the Vardain]] of [[place-vardainvalleys|the high valleys]] beneath [[place-vorgald|Vorgald]]. A Sinale praise-song praises the deed and withholds the doer, and this one withholds him entirely: the king is never named, and the song calls him only by what he does, _sendeppinno_, "the one who stays." Most lines open on their verb, as a Sinale sentence does, so that the act is heard before the actor; each stanza carries one deed and closes on the same refrain; and the song is sung in the present throughout, as the Sinale sing what is long past. The Vardain sing it on the evening of the year's last delivery to the Gate, when the road up the mountain has closed behind the carts and the valleys are about to be alone until the thaw. Everyone sings; there is no singer. It is sung in the valley tongue, and the refrain and the promise alone stand in that tongue's own order.
 
 The gate-folk of the song are the humans the [[lore-flkkhazar|Khazari]] carried across to farm beneath [[place-vorgald|Vorgald]], an older people than the [[lore-pelwarpepl|Pelwar]], and the few who came after them and were taken in. They are the Vardain's own forebears, which no Vardain knows: the valleys sing the gate-folk and the boat-folk as other people, long gone, whom their lords once kept. The song came down to the valleys through no gift of the Sinale, and the Vardain hold it as they hold the rest of what happened to their lords: plainly, and with the counts kept exact. The names the king gave the island's places went with the Sinale tongue; the valley rendering keeps the deeds and not the names, and the three peaks he names last are the ones the island calls [[place-threesisters|the Three Sisters]]. The song gives the makers no name either; it says only that the king's people had stopped speaking to them, and that he had not.
 
@@ -29,7 +29,7 @@ The song stops before its own ending. Beneath the three peaks he named, in [[lor
 
 : The Praise of the One Who Stays {#song}
 
-```poetry {form=thellame lang=en}
+```poetry {form=tellame lang=en}
 Hear the deed. Ask not after the doer.
 Comes the doer late in a song, or never.
 Hear, you under the gate, who grind the bread;
@@ -77,8 +77,8 @@ Say it the hearths.
 He stays. We stay.
 
 Raise him the hearths, every voice, and no voice first.
-Raises him **Lavurinto**, the hearth of the running water.
-Raises him **Halvinto**, the hearth of the pale wood.
+Raises him **Lapurinto**, the hearth of the running water.
+Raises him **Kalpinto**, the hearth of the pale wood.
 Raises him **Nuuvanto**, the hearth of starlight.
 Raises him **Unturonto**, the hearth of winter.
 Shout the gate-folk from the field's edge,

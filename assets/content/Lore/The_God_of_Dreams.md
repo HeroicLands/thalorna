@@ -35,10 +35,10 @@ In their tradition, the Sinale do not "worship" Aulveira in any way a human woul
 
 The Sinalean tradition has no hierarchy. Its structure is flat, unhurried, and governed by consensus rather than authority. There are only two roles.
 
-- **Ilthorin** ("seer")—Acolyte. Those newly called to Aulveira's service, learning the arts of dream-reading, healing, and the tending of sacred groves. An Ilthorin serves under the guidance of an Ansorun, though the relationship is closer to apprentice and mentor than subordinate and superior.
+- **Iltorin** ("seer")—Acolyte. Those newly called to Aulveira's service, learning the arts of dream-reading, healing, and the tending of sacred groves. An Iltorin serves under the guidance of an Ansorun, though the relationship is closer to apprentice and mentor than subordinate and superior.
 - **Ansorun** ("long-watcher")—Priest. Entrusted with the rites, the care of the faithful, and the stewardship of sacred places. All Ansorun are equal in standing.
 
-When matters arise that affect the faith as a whole, the Ansorun gather in an [Aulirarno]{.name data-type="affiliation/governmental"} ("council of radiance"), an open convocation where decisions are reached by deliberation, not decree. An Aulirarno may be called by any Ansorun and has no presiding officer; the gathering speaks until it reaches accord.
+When matters arise that affect the faith as a whole, the Ansorun gather in an [Aulirakko]{.name data-type="affiliation/governmental"} ("council of radiance"), an open convocation where decisions are reached by deliberation, not decree. An Aulirakko may be called by any Ansorun and has no presiding officer; the gathering speaks until it reaches accord.
 
 ## The Khazari Tradition
 

@@ -14,20 +14,20 @@ data:
   governance:
     model: council
     summary: >-
-      Alone among the Asguardian faiths, Bjart's adherents took the Sinalean structure rather than the circles—and it is barely a hierarchy at all. There are three standings and no office above them: the faithful who come to its rites, the ilthorin it teaches, and the Ansorun who are all equal among themselves, and the Aulirarno that decides anything affecting the faith is an open convocation with no presiding officer, reaching accord by deliberation rather than decree.
+      Alone among the Asguardian faiths, Bjart's adherents took the Sinalean structure rather than the circles—and it is barely a hierarchy at all. There are three standings and no office above them: the faithful who come to its rites, the iltorin it teaches, and the Ansorun who are all equal among themselves, and the Aulirakko that decides anything affecting the faith is an open convocation with no presiding officer, reaching accord by deliberation rather than decree.
     ranks:
       - level: 0
         title: Bjartlok
         lore: unaccordedrnk
         description: >-
-          The light is closed to him: the convocation withholds the accord that would receive him. Refused the Aulirarno's accord by the convocation itself; rare here, and slower and harder to reverse than a single officer's decree would be.
+          The light is closed to him: the convocation withholds the accord that would receive him. Refused the Aulirakko's accord by the convocation itself; rare here, and slower and harder to reverse than a single officer's decree would be.
       - level: 1
         title: Bjartgengir
         lore: faithfulrnk
         description: >-
           Those who gho to the light, coming to its rites for the priests' blessing. Comes to the Blessing of Light or the Night of Dreams and receives the priests' blessing, holding nothing further the faith asks of him.
       - level: 2
-        title: Ilthorin
+        title: Iltorin
         lore: tindesarrnk
         description: >-
           Newly called to learn dream-reading, healing and the tending of groves under an Ansorun's guidance, in a bond closer to apprentice and mentor than to subordinate and superior.
@@ -35,7 +35,7 @@ data:
         title: Ansorun
         lore: calathirrnk
         description: >-
-          Entrusted with the rites, the care of the faithful and the stewardship of sacred places; every Ansorun stands equal, and any one of them may call the Aulirarno.
+          Entrusted with the rites, the care of the faithful and the stewardship of sacred places; every Ansorun stands equal, and any one of them may call the Aulirakko.
     offices:
       Dreamwarden: >-
         Keeper of the dream-rites and of those who sleep in the groves to receive them.
@@ -67,7 +67,7 @@ A worshipper carries one of four objects. A sunstone stands for light and clarit
 
 ## Who Keeps the Rites
 
-Human adherents of Bjart have taken the Sinalean clergy structure, the only faith of the Ten to do so; [[lore-goddreams|the God of Dreams]] sets out the whole of it. The structure is nearly flat. The faithful come to the rites and take the priests' blessing. An [[lore-tindesarrnk|Ilthorin]] ("seer") is newly called and learns dream-reading, healing and the tending of groves under an [[lore-calathirrnk|Ansorun]]'s guidance, in a bond closer to apprentice and mentor than to subordinate and superior. Every Ansorun ("long-watcher") keeps the rites, cares for the faithful and stewards the sacred places, and every Ansorun stands equal to every other. Any one of them may call the [Aulirarno]{.name data-type="affiliation/governmental"} ("council of radiance"), an open convocation with no presiding officer that decides what touches the whole faith by deliberation rather than decree.
+Human adherents of Bjart have taken the Sinalean clergy structure, the only faith of the Ten to do so; [[lore-goddreams|the God of Dreams]] sets out the whole of it. The structure is nearly flat. The faithful come to the rites and take the priests' blessing. An [[lore-tindesarrnk|Iltorin]] ("seer") is newly called and learns dream-reading, healing and the tending of groves under an [[lore-calathirrnk|Ansorun]]'s guidance, in a bond closer to apprentice and mentor than to subordinate and superior. Every Ansorun ("long-watcher") keeps the rites, cares for the faithful and stewards the sacred places, and every Ansorun stands equal to every other. Any one of them may call the [Aulirakko]{.name data-type="affiliation/governmental"} ("council of radiance"), an open convocation with no presiding officer that decides what touches the whole faith by deliberation rather than decree.
 
 The faith's skills are the ones a seer and a grove-keeper need: dream interpretation, archery, survival, tracking, trance, communication with the elder races and prophecy. Two kinds of servant belong to the god. The **Luminae**, beings of pure light, carry his messages, and the **Dreamwardens** are spirits who roam the spirit realm and guide souls through their dreams.
 

@@ -14,7 +14,7 @@ data:
     - name: The land in keeping
       holds: "The land a house keeps, the field and the store, the herds and the horse, the count and the harvest, and the duty of stewardship."
     - name: The bard and the word
-      holds: "Song and the singer, recitation and the record, memory and lore, the word and the stave, the Veldirno and the inscription."
+      holds: "Song and the singer, recitation and the record, memory and lore, the word and the stave, the Veldikko and the inscription."
     - name: The art and the thin places
       holds: "Magic and its practice, the veil and the places it wears thin, spirits, the fae, wards, dreams and visions, the seer, and the druid of the grove."
     - name: "The Pact, the oath and the judgment"
@@ -293,7 +293,7 @@ data:
     - form: példirne
       class: n
       field: The bard and the word
-      gloss: "the Veldirno; the Sinale hand, and anything written in it"
+      gloss: "the Veldikko; the Sinale hand, and anything written in it"
       source: {kind: borrowed, language: skill-aelendlng, form: példirno}
     - form: sírnerne
       class: n
@@ -2278,7 +2278,7 @@ The [[skill-elvndrlng#lexicon|Élavendri Lexicon]] gives the words with their so
 
 ## Script & Literacy
 
-Élavendri traditionally employs [[skill-thrvrdhscrpt|Thurarth]], the old [[lore-aelendnppl|Áelendan rune-row]], but this script has been largely supplemented by the [[skill-semrnscrpt|Semaron]]—the same alphabet used in Vylari and neighboring regions. Thurarth persists in magical texts, poetry, and items of great antiquity. The [[skill-clthndscrpt|Veldirno]] of the [[lore-flksinale|Sinale]] never came down the passes: the highlanders write Áelendi in it and the lowlands took imperial letters instead, so two peoples who can hold a conversation cannot read a word of each other.
+Élavendri traditionally employs [[skill-thrvrdhscrpt|Thurarth]], the old [[lore-aelendnppl|Áelendan rune-row]], but this script has been largely supplemented by the [[skill-semrnscrpt|Semaron]]—the same alphabet used in Vylari and neighboring regions. Thurarth persists in magical texts, poetry, and items of great antiquity. The [[skill-clthndscrpt|Veldikko]] of the [[lore-flksinale|Sinale]] never came down the passes: the highlanders write Áelendi in it and the lowlands took imperial letters instead, so two peoples who can hold a conversation cannot read a word of each other.
 
 A distinctive scribal tradition employs flowing, connected letterforms that reflect the language's musical nature. Decorative elements (flourishes, miniatures) are common in high-quality texts. True literacy is confined to the priesthood, professional scribes, those training for magical arts (for whom reading is an absolute necessity), and perhaps one noble in four. The common folk of Élavendre, like those elsewhere on [[place-worldthlrn|Thalorna]], are almost entirely non-literate and rely on scribes for any written communication.
 
@@ -2395,7 +2395,7 @@ FROM clusters WHERE language = 'thalorna-note-skill-elvndrlng'
 
 Thirteen changes, in this order, make an Élavendri word of an Áelendi one. The clicked stops merged with the plain ones. The breathed `kh` weakened to `h`; `gh` lost its breath at the start of a word and fell everywhere else, and the like vowels it had stood between ran together into one. A long vowel in the stressed open syllable broke into a diphthong, long `a` to `ae`, long `e` to `ei`, long `i` to `ie`, long `o` to `ou` and long `u` to `ye`, and every other long vowel shortened. Between vowels `p` softened to `v`, as it did after a nasal or a liquid, and `t`, `d` and `k` softened to `d`, `dh` and `g`. Before the new front diphthongs `k`, `g` and `s` became `ch`, `j` and `sh`. A final vowel other than _-a_ after a consonant was reduced to a weak vowel, and the stress stayed on the first syllable of the root.
 
-So the highland name _Khalden_ is _Halden_, _kuthresa_ (a forfeit) is _chyethresa_, _sirothathen_ (to seat a guest) is _shírothathen_, and the Sinale loan _kálpirno_, a stand of birch, comes back to _kálvirne_, close to the Sinale _kalvirno_ it started from.
+So the highland name _Khalden_ is _Halden_, _kuthresa_ (a forfeit) is _chyethresa_, _sirothathen_ (to seat a guest) is _shírothathen_, and the Sinale loan _kálpirno_, a stand of birch, comes back to _kálvirne_, close to the Sinale _kalpikko_ it started from.
 
 ### Sound changes
 

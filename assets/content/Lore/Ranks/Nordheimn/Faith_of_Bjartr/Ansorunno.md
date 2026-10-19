@@ -8,23 +8,23 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-"Long-watcher is what the word means, and it describes the work," an Ansorun tells the ilthorin newly come to learn in the grove. "We keep the rites, we look after the faithful and we stand over the sacred places. Every Ansorun stands level with every other, so when two of us disagree nobody settles it for us. Any of us may call the [Aulirarno]{.name data-type="affiliation/governmental"}, the council of radiance, and we talk until we agree."
+"Long-watcher is what the word means, and it describes the work," an Ansorun tells the iltorin newly come to learn in the grove. "We keep the rites, we look after the faithful and we stand over the sacred places. Every Ansorun stands level with every other, so when two of us disagree nobody settles it for us. Any of us may call the [Aulirakko]{.name data-type="affiliation/governmental"}, the council of radiance, and we talk until we agree."
 
 ## What This Standing Is
 
-An Ansorun is entrusted with the faith's rites, the care of its faithful and the stewardship of its sacred places. The faith's collective decisions are made in the Aulirarno, which any Ansorun may call.
+An Ansorun is entrusted with the faith's rites, the care of its faithful and the stewardship of its sacred places. The faith's collective decisions are made in the Aulirakko, which any Ansorun may call.
 
 ## How the Law Treats a Person Here
 
-He is entrusted with what an ilthorin only learns and the faithful only attend: the rites themselves, the sacred places, and a voice in the Aulirarno that decides the faith's course by deliberation rather than by any single officer's decree.
+He is entrusted with what an iltorin only learns and the faithful only attend: the rites themselves, the sacred places, and a voice in the Aulirakko that decides the faith's course by deliberation rather than by any single officer's decree.
 
 ## Privileges
 
-He performs the faith's rites, guides an ilthorin, and calls or sits in the Aulirarno, whose accord or refusal is the faith's own act of admission and exclusion.
+He performs the faith's rites, guides an iltorin, and calls or sits in the Aulirakko, whose accord or refusal is the faith's own act of admission and exclusion.
 
 ## Obligations
 
-He cares for the faithful and the sacred places entrusted to him, and answers to the Aulirarno's collective judgment rather than to any single superior.
+He cares for the faithful and the sacred places entrusted to him, and answers to the Aulirakko's collective judgment rather than to any single superior.
 
 ## Offices Open at This Standing
 

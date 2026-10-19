@@ -9,12 +9,12 @@ tags: [draft, sinale]
 data:
   culture: sinaleclt
   packFolder: settinglore
-  form: ellanthe
+  form: ellante
   subjects: [lore-sinalearrv, lore-flksinale, lore-longnhrtnc, place-sirmenne]
   language: sinalelng
 ---
 
-**Guest-Right**, _Ellevirsa_, is a [[lore-flksinale|Sinale origin song]]: how the Sinale came into a valley that was not theirs, what they found already in it, and what they decided there, which is where the custom its title names comes from. It is cut into a standing stone at [[place-sirmenne|Sirmenne]] in an old hand of the [[skill-clthndscrpt|Veldirno]], in the long paired lines of the Sinale long song, each line answered by the one beneath it. The stone is broken in two places, and where it is broken the reading is silent. The [[lore-aelendnppl|Áelendan]] Tradition Keepers hold the reading pair for pair and give it at the stone when they go to Sirmenne, and [[affiliation-bardicolgs|the Bardic Colleges]] sing what the Keepers read. The living song is the same song with one difference, set out below: the Áelendan hear it at [[place-aelirosse|Aelirosse]] on the night a guest of theirs first sleeps there, sung over the guest, who is what it is about.
+**Guest-Right**, _Ellevirsa_, is a [[lore-flksinale|Sinale origin song]]: how the Sinale came into a valley that was not theirs, what they found already in it, and what they decided there, which is where the custom its title names comes from. It is cut into a standing stone at [[place-sirmenne|Sirmenne]] in an old hand of the [[skill-clthndscrpt|Veldikko]], in the long paired lines of the Sinale long song, each line answered by the one beneath it. The stone is broken in two places, and where it is broken the reading is silent. The [[lore-aelendnppl|Áelendan]] Tradition Keepers hold the reading pair for pair and give it at the stone when they go to Sirmenne, and [[affiliation-bardicolgs|the Bardic Colleges]] sing what the Keepers read. The living song is the same song with one difference, set out below: the Áelendan hear it at [[place-aelirosse|Aelirosse]] on the night a guest of theirs first sleeps there, sung over the guest, who is what it is about.
 
 The song begins with a refusal. Its first line is "We came out of" and then a space the cutter left blank, dressed smooth and never filled; the living song holds the same place as a silence. Of what came before [[place-worldthlrn|Thalorna]] the Sinale say nothing to outsiders, and the song says so in the only way it can. What follows is a catalogue of what was already in the valley when they came: the fae (see [[lore-faecourts|the Fae Courts]]), at the thin places; the trees, by which the song tells its time, since it carries no dates; the waters; the beasts; and bands of the younger people, with fire and with words that changed every summer, who are the ancestors of everyone who hears it. Nobody asked the Sinale in and nobody turned them out, and the council that sits in the valley argues over what to do about the bands. Three voices are kept whole. The elder who kept the watch at the pass asks that the bands be kept out; the one the valley had raised, which is how the Sinale make a lord, by acclaim for what one has done, answers that a people who build nothing have no door to shut; and a third, who is never named, says the saying the custom comes from. _Ellevirsa_ is the ordinary Sinale word for the welcome a guest is owed; the song reads it from the other side, as the welcome a guest owes to whoever comes after. Where the song says "this valley", the Keepers take it to mean the one the stone stands in, and the Sinale have not said. The Keepers do not fill the two breaks from the living song, so what the stone lost is lost.
 
@@ -22,7 +22,7 @@ The stone and the living song differ by one pair. The stone closes on the name o
 
 : Guest-Right {#song}
 
-```poetry {form=ellanthe lang=en}
+```poetry {form=ellante lang=en}
 We came out of
   We came out. What we came out of is not cut here, and it is not sung.
 We came out at the head of the valley, where the yew is, and the valley was below us.
@@ -244,7 +244,7 @@ the two that stand over the birch at the thaw, when the crossing is;
 the one we named, and then found was two, standing close, and we kept the one name for both;
 and the first we named, the one that stands in the evening over the pass, where the watch was kept.
 
-The one who said keep them out, who kept the watch at the pass: **Nylvidhe Esselinto**.
+The one who said keep them out, who kept the watch at the pass: **Nylkitti Esselinto**.
   He was let in with the rest of us. He is cut here last, after the valley, which is the right order.
 ```
 

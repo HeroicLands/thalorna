@@ -108,7 +108,7 @@ data:
       class: "n"
       field: "Ship, sea and road"
       gloss: "salt; Helonic _duras_, natron"
-    - {form: ula, class: "n", field: "Ship, sea and road", gloss: "fish; Sinale _hulma_"}
+    - {form: ula, class: "n", field: "Ship, sea and road", gloss: "fish; Sinale _hulka_"}
     - form: anevo
       class: "n"
       field: "Ship, sea and road"
@@ -794,7 +794,7 @@ The following represents the stable core of Valtari—words understood in virtua
 
 **Goods & Money:** zazuru (H, from _zazurush_) "goods, wares, cargo" · ushadu (H, from _hushadu_) "gold, coin, money" · pashin (H, from _pashinu_) "price, value, worth" · etalu (He, from _euthalir_) "profit, gain" · telusu (H, from _telmush_) "deal, contract, bond"
 
-**Objects:** yakodu (H, from _jakudu_) "boat, ship" · idiro (He, from _hidhir_) "water" · vidu (N, from _vuld_ "grain") "bread" · durasu (He, from _duras_) "salt" · bazunu (H, from _bazunu_) "sail, canvas" · ula (O, from [[skill-sinalelng|Sinale]] _hulma_) "fish"
+**Objects:** yakodu (H, from _jakudu_) "boat, ship" · idiro (He, from _hidhir_) "water" · vidu (N, from _vuld_ "grain") "bread" · durasu (He, from _duras_) "salt" · bazunu (H, from _bazunu_) "sail, canvas" · ula (O, from [[skill-sinalelng|Sinale]] _hulka_) "fish"
 
 **Actions:** lokatu (V, from _lokathen_) "come, go, arrive" · kusadu (H, from _kusad-_) "bring, carry" · begi (H, from _belgin-_) "leave, depart" · dorasu (He, from _doras-_) "give, trade" · geniru (H, from _genir-_) "take, accept" · yepalu (V, from _yerpalon_ "duty") "need, must" · kubasu (H, from _kubas-_) "count, measure, reckon" · katusu (H, from _qatush_) "hold, keep, grip"
 

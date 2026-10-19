@@ -7168,7 +7168,7 @@ _Dalík bant, maríg bant_
 
 ## Related Languages
 
-Khazari is one of the **two surviving Elder Tongues**, descended from a **common Elder ancestor** shared with Sinale. The kinship is not audible. Sinale runs on open syllables, long vowels and a soft inventory; Khazari runs on clusters, short vowels and back fricatives, and nothing in the sound of either suggests the other.
+Khazari is one of the **two surviving Elder Tongues**, descended from a **common Elder ancestor** shared with Sinale. The kinship is not audible. Sinale runs on open syllables, long vowels and a clean inventory; Khazari runs on clusters, short vowels and back fricatives, and nothing in the sound of either suggests the other.
 
 What the two share is a habit no human tongue on Thalorna has: **both make a new word by altering the body of an old one rather than by hanging a piece on its end.** Khazari pours a different vowel frame through a fixed skeleton; Sinale changes the consonant a word begins with according to the work the word is doing. Suffixes are the shallow layer in both—the deep one is inside the word.
 

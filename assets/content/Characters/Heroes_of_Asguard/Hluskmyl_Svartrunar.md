@@ -368,7 +368,7 @@ Hlusmil stands 5'9" with a withered, skeletal frame. His pale skin has the waxy 
 
 Hlusmil Svartrunar was a feared and loathsome sorcerer, infamous for his dark rituals and vile practices. His heart was as black as the runes he carved into the flesh of his victims, and his insatiable hunger for power led him to delve into the most forbidden secrets of necromancy. His deeds were so wicked that even the darkest beings shunned him. According to his saga, his quest for power eventually drew the attention of [[lore-nahilddty|Nahild]], who transformed him into a Nightwight—a [[being-tereb|tereb]], in the learned word—a powerful [[lore-undead|Undead]] (Helspawn) sorcerer with mastery over death.
 
-The most notorious saga of Hlusmil Svartrunar involves his desecration of [[place-haulonna|Haulonna]], a hidden [[lore-flksinale|Sinale enclave]] nestled deep in the forested mountains of northern [[place-nordheim|Nordheim]]. For centuries the Sinale had maintained Haulonna as a sanctuary where their ancient magic intertwined with the living forest, concealed from human knowledge by wards older than the [[affiliation-vylarinmpr|Vylarian Empire]]. Nahild tasked Hlusmil with its destruction. Under cover of night, Hlusmil pierced the enclave's wards and entered the sanctuary, carving black runes into the earth that corrupted the natural energies binding the place together. The Sinale, led by [Ansorudhe Lonvunto]{.name data-type="being/npc"}, fought valiantly to defend their haven, but Hlusmil's dark magic was overwhelming. In a desperate final stand, Ansorudhe confronted Hlusmil directly, but the sorcerer drew upon Nahild's full power and shattered the Sinalo's star-staff. The once-lush sanctuary became a necropolis, the spirits of the fallen Sinale trapped in eternal torment. Among the Sinale, the name Hlusmil Svartrunar is still spoken with a grief and fury that has not dimmed in decades—a rare thing, for a people who measure time in centuries.
+The most notorious saga of Hlusmil Svartrunar involves his desecration of [[place-haulonna|Haulonna]], a hidden [[lore-flksinale|Sinale enclave]] nestled deep in the forested mountains of northern [[place-nordheim|Nordheim]]. For centuries the Sinale had maintained Haulonna as a sanctuary where their ancient magic intertwined with the living forest, concealed from human knowledge by wards older than the [[affiliation-vylarinmpr|Vylarian Empire]]. Nahild tasked Hlusmil with its destruction. Under cover of night, Hlusmil pierced the enclave's wards and entered the sanctuary, carving black runes into the earth that corrupted the natural energies binding the place together. The Sinale, led by [Ansorutti Lonkunto]{.name data-type="being/npc"}, fought valiantly to defend their haven, but Hlusmil's dark magic was overwhelming. In a desperate final stand, Ansorutti confronted Hlusmil directly, but the sorcerer drew upon Nahild's full power and shattered the Sinalo's star-staff. The once-lush sanctuary became a necropolis, the spirits of the fallen Sinale trapped in eternal torment. Among the Sinale, the name Hlusmil Svartrunar is still spoken with a grief and fury that has not dimmed in decades—a rare thing, for a people who measure time in centuries.
 
 ## Psyche
 
@@ -378,7 +378,7 @@ Hlusmil is vile and sadistic, taking pleasure in corruption and defilement. Wher
 
 ### Motivation
 
-Hlusmil seeks to corrupt and defile every place of beauty and life he can find, believing that in doing so he proves the supremacy of death over life. His ultimate ambition is to corrupt one of the Sinale enclaves themselves, which would be the greatest triumph of Nahild's power over the living world. He also seeks to break the spirit of Ansorudhe Lonvunto, whose soul remains defiant even in captivity.
+Hlusmil seeks to corrupt and defile every place of beauty and life he can find, believing that in doing so he proves the supremacy of death over life. His ultimate ambition is to corrupt one of the Sinale enclaves themselves, which would be the greatest triumph of Nahild's power over the living world. He also seeks to break the spirit of Ansorutti Lonkunto, whose soul remains defiant even in captivity.
 
 ### Strengths
 
@@ -398,7 +398,7 @@ Hlusmil's runic magic is devastatingly effective at corrupting natural and divin
 
 [[lore-flksinale|The Sinale]]—The Firstborn consider Hlusmil among the most hated names in their long memory. Their agents search tirelessly for a way to destroy him and free the spirits of [[place-haulonna|Haulonna]].
 
-**Ansorudhe Lonvunto's Spirit**—The bound spirit of the Sinalo guardian resists Hlusmil's control and works to undermine him from within the corrupted enclave.
+**Ansorutti Lonkunto's Spirit**—The bound spirit of the Sinalo guardian resists Hlusmil's control and works to undermine him from within the corrupted enclave.
 
 [[being-hnirvmylwise|Hnirmil the Wise]]—The seer has foreseen that Hlusmil's corruption will eventually threaten the entire northern land if left unchecked and has made the necromancer's destruction a personal mission.
 
@@ -410,5 +410,5 @@ The Cleansing of [[place-haulonna|Haulonna]]
 The Black Rune Plague
 : Hlusmil's runes have begun appearing in new locations, spreading corruption to farmland and water sources. Someone is helping him, and the trail leads to an unexpected source.
 
-Ansorudhe's Hope
+Ansorutti's Hope
 : The spirit of the fallen Sinalo guardian has managed to send a message beyond the corrupted enclave: he has found a weakness in Hlusmil's defenses, but he needs help from the outside to exploit it before the necromancer discovers what he's done.

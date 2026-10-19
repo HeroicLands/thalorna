@@ -24,9 +24,9 @@ data:
 
 **The Long Road**, _Tirvali_, is a tale (_ennedhi_) the [[lore-flksinale|Sinale]] who hold office in [[affiliation-tantsouempr|Tantsou]] tell one another, and they tell it on one occasion. Under the old arrangement between the imperial court and the forest enclaves, which neither side explains and both keep, the [[lore-tanchei|Tanchéi]] hall of a western prefecture holds one or two Sinale scholars at a time, and on the evening a new one is entered on the hall's roll the eldest Sinalo present tells the newest this story, after the entry is made and before the classification tablet is issued, in a plain voice and with no point drawn from it. The title is the clerk's entry: three signs of a four-syllable name, which in Sinale is the word for a long road. The tellers say the tale is funny and tell it as a funny story to the end.
 
-It is the one Sinale story that reached human hands without being given. A gloss in the [[skill-clthndscrpt|Veldirno]] hand stands against a single line of one prefecture's planting roll, written there by a Sinale scholar of that hall long after the line itself, and the empire re-files its rolls at every change of era and a copyist copies what stands on the page, so the gloss has gone up with its roll to the Warlord's archive and on to the chancellery in the hands of copyists who cannot read it. The rendering below is from the gloss, which is the tale written down, with what the tellers add in speech kept where they add it.
+It is the one Sinale story that reached human hands without being given. A gloss in the [[skill-clthndscrpt|Veldikko]] hand stands against a single line of one prefecture's planting roll, written there by a Sinale scholar of that hall long after the line itself, and the empire re-files its rolls at every change of era and a copyist copies what stands on the page, so the gloss has gone up with its roll to the Warlord's archive and on to the chancellery in the hands of copyists who cannot read it. The rendering below is from the gloss, which is the tale written down, with what the tellers add in speech kept where they add it.
 
-Under the arrangement, an enclave owes a prefecture a scholar. The enclave above the prefecture of this tale had sent one down for as long as the prefecture had kept a roll to enter one on, and when the scholar before went back up into the forest the enclave sent [Tirvalira Solmerinto]{.name data-type="being/npc"}. Her hearth was the hearth of the smell of rain. Her given name was the long road, with the ending that makes a word a woman's name. She had watched the sky for longer than the prefecture had stood, and she had never in her life been written down, because her people keep their names in mouths and an enclave has no roll.
+Under the arrangement, an enclave owes a prefecture a scholar. The enclave above the prefecture of this tale had sent one down for as long as the prefecture had kept a roll to enter one on, and when the scholar before went back up into the forest the enclave sent [Tirvalitta Solmerinto]{.name data-type="being/npc"}. Her hearth was the hearth of the smell of rain. Her given name was the long road, with the ending that makes a word a woman's name. She had watched the sky for longer than the prefecture had stood, and she had never in her life been written down, because her people keep their names in mouths and an enclave has no roll.
 
 The hall had held Sinale before her, one at a time, back past the oldest copy of its roll, and every one of them had gone onto the page without trouble. The scholar before her had carried a given name of three syllables, as it happened, and the three cells had taken it as if they had been cut for it. Nobody in the hall had ever had reason to count the cells.
 
@@ -40,7 +40,7 @@ The caste he wrote from the letter. The clan he asked for.
 
 Then the name.
 
-"Tirvalira," she said.
+"Tirvalitta," she said.
 
 He wrote _Tir_, and _va_, and _li_. The fourth cell was not there. He looked at the name he had written and at the woman who had said it, and he asked what the fourth syllable said.
 
@@ -64,13 +64,13 @@ The roll was not confused. The index was. The index clerks of a hall read the me
 
 Her stipend was drawn once from the roads allocation, because the allocation clerk followed the index. The [Bureau of Allocation]{.name data-type="affiliation/governmental"} queried it, as a bureau does, and the query came down to the hall, and the clerk answered it in the form a query is answered in: "The roll is correct as entered." It was, and the stipend was paid, from the roads, and in a year when a bridge had gone in the spring floods and the roads allocation was short, it was paid late, in Touyou with the gravel, the first time in the prefecture's memory that a Tanchéi's pay had waited on a bridge.
 
-Her letters came down from the enclave written in the Veldirno, which nobody in the hall could read, addressed to Tirvalira Solmerinto. The sorting clerk, finding no Tirvalira on the roll and a Tirvali of the right clan, sent them where the index sent everything of hers, and she read her hearth's letters in the Bureau of Passage's room, among the surveys, which she did not mind, since it was the quietest room in the hall.
+Her letters came down from the enclave written in the Veldikko, which nobody in the hall could read, addressed to Tirvalitta Solmerinto. The sorting clerk, finding no Tirvalitta on the roll and a Tirvali of the right clan, sent them where the index sent everything of hers, and she read her hearth's letters in the Bureau of Passage's room, among the surveys, which she did not mind, since it was the quietest room in the hall.
 
-Word of the roll went up into the forest, as words do, and in [Jingyou]{.name data-type="lore/calendar"} of her first year, when the inspector had been and gone, she went up after it. The tellers give the hearth scene short. Her mother's mother asked what the empire called her, and she took the tablet out of her sleeve and laid it on the hearthstone, caste up, and the hearth read the three syllables on it and said nothing for the length of time her people say nothing, and then laughed, and did what the Sinale do with a thing worth keeping, which is to add it. Among her own people she is Tirvalira Sirvali, which is the long road twice over, the clerk's three syllables standing worn after her name as an epithet stands, and the hearth of the smell of rain has called her so ever since. The empire took a syllable off her and her people put three on, and the hearth was content, and the roll was unchanged.
+Word of the roll went up into the forest, as words do, and in [Jingyou]{.name data-type="lore/calendar"} of her first year, when the inspector had been and gone, she went up after it. The tellers give the hearth scene short. Her mother's mother asked what the empire called her, and she took the tablet out of her sleeve and laid it on the hearthstone, caste up, and the hearth read the three syllables on it and said nothing for the length of time her people say nothing, and then laughed, and did what the Sinale do with a thing worth keeping, which is to add it. Among her own people she is Tirvalitta Tirvali, which is the long road twice over, the clerk's three syllables standing after her name as an epithet stands, and the hearth of the smell of rain has called her so ever since. The empire took a syllable off her and her people put three on, and the hearth was content, and the roll was unchanged.
 
 She did not leave it unchanged for want of trying. On the first day of [Juiyou]{.name data-type="lore/calendar"} (see [[lore-clndrstrlgy|Calendar and Astrology]]), which is the new year, when the Emperor opens the celestial filing and every bureau in the empire settles its ledgers and takes in the year's petitions, she filed hers. She had learned the imperial hand in her first winter, because a Tanchéi reads the sacred texts and the sacred texts are in it, and she wrote the petition herself, in the same words every year, which the tellers give exactly:
 
-"Tirvalira Solmerinto, entered on the roll of this hall in the clan of the hearth of the smell of rain under the hand of the second son of the keeper of the roll, is not a road. Let the fourth sign be entered."
+"Tirvalitta Solmerinto, entered on the roll of this hall in the clan of the hearth of the smell of rain under the hand of the second son of the keeper of the roll, is not a road. Let the fourth sign be entered."
 
 The clerk read it, as he read every petition, and ruled on it in the same words every year, which the tellers also give exactly:
 
@@ -102,9 +102,9 @@ In his thirty-fourth year the archivist of the hall, going into the records stor
 
 The illness came on him in Chiaoyou of the fortieth year, the month of winter, when the empire draws in and conserves and a sick man near sixty is expected to do the same. His household sent into the town for a physician, and the physician came and said what a physician says in that month. His elder son kept the roll in his place and entered nothing, since nothing had yet happened that the roll records. She went to the house the next day, down through the town with the tablet in her sleeve, and was asked for it at nobody's door. She was of his caste, and his household let her in and left her at the door of his room, which was a small room with a shrine shelf and a brazier and no paper in it anywhere.
 
-He said, "Sirvalira."
+He said, "Tirvalitta."
 
-It was the whole name, worn for calling, with the fall at the end that closes a thought.
+It was the whole name, called, with the fall at the end that closes a thought.
 
 She stood a long while, and then she went out.
 
@@ -112,7 +112,7 @@ He died before the month was out. His sons did what the empire's sons do: the ta
 
 In [Mouyou]{.name data-type="lore/calendar"}, the month of wood, when [[affiliation-neitsai|Neitsai]], the Bureau of Creation, is ascendant and everything planted in the empire is planted and registered, she came down from the roof at first light with a birch sapling wrapped at the root in wet cloth, which had come down out of the forest that week with her hearth's letters and had waited, as her letters waited, in the Bureau of Passage's room among the surveys, and she set it against the east wall of the records store, on the hall's ground, where the morning reaches first and the wall keeps the north wind off. Her people plant a tree for one of their dead and do it privately, and this was not private. Ground that belongs to a hall is classified ground, and a tree set in it is a classified living thing, and the planting roll must hold it, and the form requires the planter present and the planter's name taken at the time of planting. So the elder son came out of the store with the planting roll under his arm while she was still treading the earth down, and opened it on the wall, and asked her, as the form asks, the name of the planter.
 
-"Tirvalira Solmerinto," she said.
+"Tirvalitta Solmerinto," she said.
 
 He wrote what the roll held. The line is the one the gloss stands against, and the tellers end on it, in the roll's own order:
 
@@ -139,7 +139,7 @@ He wrote what the roll held. The line is the one the gloss stands against, and t
 : the months the tale keeps its years by
 
 [[skill-sinalelng|Sinale Language]]
-: the name that is never shortened, and the call that wears
+: the name that is never shortened, and the call that falls
 
 [[lore-longnhrtnc|The Long Inheritance]]
 : Tantsou as the one place that filed the Elder Races

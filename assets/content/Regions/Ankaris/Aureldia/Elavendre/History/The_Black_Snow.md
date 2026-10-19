@@ -80,9 +80,9 @@ The hall did not wait for the [[lore-flksinale|Sinale]]. It met at the hearth of
 
 ## The Return
 
-Mogha brought the people up to the wood's edge in the cold, the young and the old with their hands bare, and they sat three days as Dhargan had sat, and nobody begged. [Haulera]{.name data-type="being/npc"} went out to her and asked why they sat. Mogha said that they had broken it, that they had cut birch and left the smoke on the hollow and not asked, and that they had come back to ask. They did not ask for the trees, which were gone. They asked to keep the wood again: the watch, the deep pool, the fog. They said they would fail, and ask once more.
+Mogha brought the people up to the wood's edge in the cold, the young and the old with their hands bare, and they sat three days as Dhargan had sat, and nobody begged. [Hauletta]{.name data-type="being/npc"} went out to her and asked why they sat. Mogha said that they had broken it, that they had cut birch and left the smoke on the hollow and not asked, and that they had come back to ask. They did not ask for the trees, which were gone. They asked to keep the wood again: the watch, the deep pool, the fog. They said they would fail, and ask once more.
 
-Haulera stood a long time. She saw the cost: it would not be this once, since each time after, a face would come to the edge and sit with its hands bare. She said, "Keep it," and nothing more. The Sinale went with the people once to the hollow, and in the fog they sang together, and the thin place took the thing back.
+Hauletta stood a long time. She saw the cost: it would not be this once, since each time after, a face would come to the edge and sit with its hands bare. She said, "Keep it," and nothing more. The Sinale went with the people once to the hollow, and in the fog they sang together, and the thin place took the thing back.
 
 The silver came back to the bark of the birch that were left, slowly, over four lives. The men who had swung the axes and their sons were dead before it lit the dark.
 

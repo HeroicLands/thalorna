@@ -1,6 +1,6 @@
 ---
 shortcode: tindesarrnk
-name: {full: "Ilthorin", aliases: [Seer]}
+name: {full: "Iltorin", aliases: [Seer]}
 type: lore
 subType: law
 description: "Newly called to Bjart's service, learning dream-reading, healing and the tending of groves under an Ansorun, in the faith of Bjart."
@@ -8,11 +8,11 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-Anyone may come to the rites of the [[affiliation-bjartr|Faith of Bjart]]. An ilthorin has been called to more, and the calling comes with a teacher: an [[lore-calathirrnk|Ansorun]] admits the ilthorin, teaches dream-reading, healing and the tending of sacred groves, and the standing rests on that teacher.
+Anyone may come to the rites of the [[affiliation-bjartr|Faith of Bjart]]. An iltorin has been called to more, and the calling comes with a teacher: an [[lore-calathirrnk|Ansorun]] admits the iltorin, teaches dream-reading, healing and the tending of sacred groves, and the standing rests on that teacher.
 
 ## What This Standing Is
 
-An ilthorin ("seer") is newly called to the faith's service and learns dream-reading, healing, and the tending of sacred groves under an Ansorun's guidance. The bond is closer to apprentice and mentor than to subordinate and superior, though it is still the Ansorun who admits and teaches.
+An iltorin ("seer") is newly called to the faith's service and learns dream-reading, healing, and the tending of sacred groves under an Ansorun's guidance. The bond is closer to apprentice and mentor than to subordinate and superior, though it is still the Ansorun who admits and teaches.
 
 ## How the Law Treats a Person Here
 

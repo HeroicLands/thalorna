@@ -21,7 +21,7 @@ data:
 # terran_analog: "The Welsh gnomic englynion, an image from the weather or the wood answered by a rule; Hávamál's stanzas of counsel to a guest; the question-and-answer instructions of the Irish wisdom texts; the Kanteletar's habit of restating a line by the line after it."
 ---
 
-**The Long-Watcher's Sayings**, _Ansorunnoren saunari_, are the sayings of one [[lore-calathirrnk|Ansorun]] of [[place-aelirosse|Aelirosse]], [Olmasidhe Rhovelinto]{.name data-type="being/npc"}, to the [[lore-tindesarrnk|Ilthorin]] he taught, said to her one at a time across the years of her learning: in the grove, at the water-court, over whoever was sick, and once at the ford. _Saunari_ are words kept whole and passed on, and a saying becomes one the first time somebody other than its speaker says it; the stanza it is passed on in opens every time on the same line, _Uvi ha-kelsa ovu oson ha-evathe Ansorun Ilthorinnomen_, "Have you heard what the Long-Watcher said to the Seer?", then gives the thing he was looking at, then the rule. The [[lore-flksinale|Sinale]] of Aelirosse passed his sayings among themselves while he lived, and an [[lore-aelendnppl|Áelendan child]] fostered there heard them that way, in runs, as the grove was tended and the sick were sat with and the dreams held to be sent by [[lore-goddreams|the God of Dreams]] (Aulveira) were read; she carried them to the Tradition Keepers, who hold them with the tribal songs and say them, since nobody has set them to a harp. The near humans of the sayings are the Áelendan, under the name the Sinale of Aelirosse give them. The sayings stand here in the order the Keepers hold them, which is the order she learned them, which is roughly the order of a Seer's learning. One saying names a tree whose Sinale name she did not carry, and the Keepers leave the gap. The Long-Watcher is dead, and Aelirosse says his name now with an epithet after it, Sorvelsa, of the oak.
+**The Long-Watcher's Sayings**, _Ansorunnoren saunari_, are the sayings of one [[lore-calathirrnk|Ansorun]] of [[place-aelirosse|Aelirosse]], [Olmasitti Ropelinto]{.name data-type="being/npc"}, to the [[lore-tindesarrnk|Iltorin]] he taught, said to her one at a time across the years of her learning: in the grove, at the water-court, over whoever was sick, and once at the ford. _Saunari_ are words kept whole and passed on, and a saying becomes one the first time somebody other than its speaker says it; the stanza it is passed on in opens every time on the same line, _Uvi ha-kelsa ovu oson ha-evatte Ansorun Iltorinnomen_, "Have you heard what the Long-Watcher said to the Seer?", then gives the thing he was looking at, then the rule. The [[lore-flksinale|Sinale]] of Aelirosse passed his sayings among themselves while he lived, and an [[lore-aelendnppl|Áelendan child]] fostered there heard them that way, in runs, as the grove was tended and the sick were sat with and the dreams held to be sent by [[lore-goddreams|the God of Dreams]] (Aulveira) were read; she carried them to the Tradition Keepers, who hold them with the tribal songs and say them, since nobody has set them to a harp. The near humans of the sayings are the Áelendan, under the name the Sinale of Aelirosse give them. The sayings stand here in the order the Keepers hold them, which is the order she learned them, which is roughly the order of a Seer's learning. One saying names a tree whose Sinale name she did not carry, and the Keepers leave the gap. The Long-Watcher is dead, and Aelirosse says his name now with an epithet after it, Torvelsa, of the oak.
 
 : The Oak by the Water-Court {#oak}
 
@@ -219,8 +219,8 @@ Have you heard what the Long-Watcher said to the Seer?
   Choose the first part knowing it is the first part of something longer.
 
 Have you heard what the Long-Watcher said to the Seer?
-  Call the one you love by the whole name, and let it wear in your mouth as a call does.
-  She hears which it is before the word is finished; the wearing is so that she can.
+  Call the one you love by the whole name, and let it fall in your mouth as a call does.
+  She hears which it is before the word is finished; the fall is so that she can.
 
 Have you heard what the Long-Watcher said to the Seer?
   A human has sixty years, three twenties, which is about how long we take over the name of a child who is slow to show what it is.
@@ -311,11 +311,11 @@ Have you heard what the Long-Watcher said to the Seer?
 
 ```poetry {form=saunari lang=en}
 Have you heard what the Long-Watcher said to the Seer?
-  Aulveira takes the dead to the god's hall in **Ollevirno**. Of this we are sure.
+  Aulveira takes the dead to the god's hall in **Ollevikko**. Of this we are sure.
   We are sure of little. Hold this one with both hands.
 
 Have you heard what the Long-Watcher said to the Seer?
-  The living may go to Ollevirno too, and slip back, and many have.
+  The living may go to Ollevikko too, and slip back, and many have.
   They come back with the weather there and not much else. Do not ask them for more; they have not got it.
 
 Have you heard what the Long-Watcher said to the Seer?
@@ -343,8 +343,8 @@ Have you heard what the Long-Watcher said to the Seer?
 
 ```poetry {form=saunari lang=en}
 Have you heard what the Long-Watcher said to the Seer?
-  Nothing this year. He died the autumn the oak dropped acorns, and Aulveira took him to Ollevirno.
-  Aelirosse says Olmasidhe Rhovelinto Sorvelsa now, of the oak, and his name is one word longer.
+  Nothing this year. He died the autumn the oak dropped acorns, and Aulveira took him to Ollevikko.
+  Aelirosse says Olmasitti Ropelinto Torvelsa now, of the oak, and his name is one word longer.
   **Ilevala Huomanto**, who was the Seer, says this one, and it is hers.
   I have put four of the acorns in the ground by the water-court. They are grown when the child who watches us is a grandmother.
   I will have a saying by then, or I will have four oaks.
@@ -361,7 +361,7 @@ Have you heard what the Long-Watcher said to the Seer?
 [[lore-goddreams|The God of Dreams]]
 : Aulveira, whose dreams a Seer learns to read
 
-[[lore-calathirrnk|Ansorun]] · [[lore-tindesarrnk|Ilthorin]]
+[[lore-calathirrnk|Ansorun]] · [[lore-tindesarrnk|Iltorin]]
 : the Long-Watcher and the Seer
 
 [[lore-aelendnppl|The Áelendan]]
