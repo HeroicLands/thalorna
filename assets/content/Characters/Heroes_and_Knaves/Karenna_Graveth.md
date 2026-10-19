@@ -477,15 +477,15 @@ Dependence on Position
 King [[being-iltherozedim|Ilthero]] III
 : The aging monarch values Kárenna's counsel and has come to rely on her judgment in matters of diplomacy and internal realm politics. He has indicated subtle support for her continued advancement within the herald corps.
 
-Duke [[being-volkhemokald|Volkemo]] of the [Eastern Marches]{.name data-type="place/region"}
+Duke [[being-volkemokaldr|Volkemo]] of the [Eastern Marches]{.name data-type="place/region"}
 : A powerful regional lord who has engaged Kárenna's services repeatedly in mediating disputes with neighboring provinces. He views her as a valuable ally and occasional lover, though their relationship is carefully concealed.
 
-Lady [[being-hiltheratsol|Hilthera Tsoluris]], Master of Commerce
+Lady [[being-hiltheratsol|Hilthera Tsoluregi]], Master of Commerce
 : The crown's chief advisor on trade and mercantile matters has become Kárenna's closest confidant and patron within court, offering guidance on the political currents of the royal household.
 
 ### Enemies
 
-Lord [[being-revothotholm|Ervotho Tholmaris]], Herald Emeritus
+Lord [[being-ervothotholm|Ervotho Tholmaris]], Herald Emeritus
 : The previous chief herald, now retired, views Kárenna as an upstart who lacks the necessary gravitas for her position. He has begun subtly undermining her authority, questioning her decisions to the king and his allies among the older nobility.
 
 [The Canonist Orthodox]{.name data-type="affiliation"}

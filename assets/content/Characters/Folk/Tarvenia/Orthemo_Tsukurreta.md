@@ -1,6 +1,6 @@
 ---
 shortcode: orthemotsuku
-name: {full: Orthemo Tsukurris, aliases: [Captain Orthemo Tsukurris, Captain Orthemo]}
+name: {full: Orthemo Tsukurreta, aliases: [Captain Orthemo Tsukurreta, Captain Orthemo]}
 type: being
 subType: npc
 description: A merchant captain who credits Pálina Sánriseth's fertility blessing with his ability to father a child.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Orthemo Tsukurris is a 38-year-old man who stands 5'11" tall with a medium build. He has light skin, sun-kissed complexion, brown hair, and hazel eyes.
+Orthemo Tsukurreta is a 38-year-old man who stands 5'11" tall with a medium build. He has light skin, sun-kissed complexion, brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Orthemo Tsukurris is a merchant captain who credits the fertility blessing of [[being-palnsnrcth|Pálina Sánriseth]] with his ability to father a child after years of childlessness. His family's loyalty to her is fierce.
+Orthemo Tsukurreta is a merchant captain who credits the fertility blessing of [[being-palnsnrcth|Pálina Sánriseth]] with his ability to father a child after years of childlessness. His family's loyalty to her is fierce.

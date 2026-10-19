@@ -1,6 +1,6 @@
 ---
-shortcode: nizeloganota
-name: {full: Nizelo Ganotis, aliases: [Lord Nizelo Ganotis, Lord Nizelo]}
+shortcode: nizelganotis
+name: {full: Nizel Ganotis, aliases: [Lord Nizel Ganotis, Lord Nizel]}
 type: being
 subType: npc
 description: A corrupt noble who has been exploiting his people and ignoring the laws of the kingdom, named in Father Ostaran Dorvás.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Nizelo Ganotis is a 48-year-old man who stands 6'3" tall with a medium build. He has olive skin, sun-kissed complexion, black hair, and brown eyes.
+Nizel Ganotis is a 48-year-old man who stands 6'3" tall with a medium build. He has olive skin, sun-kissed complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Nizelo Ganotis is a corrupt noble who exploits his people and ignores the laws of the [[affiliation-kingdmtrvn|kingdom]]. He sees the investigation of [[being-frstrndrvs|Father Ostaran Dorvás]] as a direct threat to his power and would use bribery, manipulation and even violence to stop it.
+Nizel Ganotis is a corrupt noble who exploits his people and ignores the laws of the [[affiliation-kingdmtrvn|kingdom]]. He sees the investigation of [[being-frstrndrvs|Father Ostaran Dorvás]] as a direct threat to his power and would use bribery, manipulation and even violence to stop it.

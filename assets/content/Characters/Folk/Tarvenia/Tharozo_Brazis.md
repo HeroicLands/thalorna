@@ -1,6 +1,6 @@
 ---
-shortcode: tharozobraze
-name: {full: Tharozo Brazemis, aliases: [Lord Tharozo]}
+shortcode: tharozobrazi
+name: {full: Tharozo Brazis, aliases: [Lord Tharozo]}
 type: being
 subType: npc
 description: A wealthy merchant who approached Pálina Sánriseth for intimate counsel and was rebuffed.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Tharozo Brazemis is a 45-year-old man who stands 6'2" tall with a medium build. He has light skin, sun-kissed complexion, dark brown hair, and grey eyes.
+Tharozo Brazis is a 45-year-old man who stands 6'2" tall with a medium build. He has light skin, sun-kissed complexion, dark brown hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Tharozo Brazemis is a wealthy merchant who approached [[being-palnsnrcth|Pálina Sánriseth]] for intimate counsel and was rebuffed. He takes her refusal as an affront and has begun to undermine her reputation in higher circles, suggesting that her work is beneath her station.
+Tharozo Brazis is a wealthy merchant who approached [[being-palnsnrcth|Pálina Sánriseth]] for intimate counsel and was rebuffed. He takes her refusal as an affront and has begun to undermine her reputation in higher circles, suggesting that her work is beneath her station.

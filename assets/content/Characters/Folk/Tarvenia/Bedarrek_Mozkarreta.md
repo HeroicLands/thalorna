@@ -1,6 +1,6 @@
 ---
 shortcode: bedarrekmozk
-name: {full: Bedarrek Mozkarris, aliases: [Merchant-Lord Bedarrek]}
+name: {full: Bedarrek Mozkarreta, aliases: [Merchant-Lord Bedarrek]}
 type: being
 subType: npc
 description: A wealthy and politically connected trader whose interests Kárenna Graveth opposed in a recent negotiation.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Bedarrek Mozkarris is a 46-year-old man who stands 5'10" tall with a medium build. He has olive skin, sun-kissed complexion, black hair, and brown eyes.
+Bedarrek Mozkarreta is a 46-year-old man who stands 5'10" tall with a medium build. He has olive skin, sun-kissed complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Bedarrek Mozkarris is a wealthy and politically connected merchant-lord whose interests [[being-carengrvth|Kárenna Graveth]] opposed in a recent negotiation. He holds documented evidence of her conflicts of interest and offers her a choice between commercial concessions and exposure to the king's justice.
+Bedarrek Mozkarreta is a wealthy and politically connected merchant-lord whose interests [[being-carengrvth|Kárenna Graveth]] opposed in a recent negotiation. He holds documented evidence of her conflicts of interest and offers her a choice between commercial concessions and exposure to the king's justice.

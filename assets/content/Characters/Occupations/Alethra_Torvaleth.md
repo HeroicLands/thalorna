@@ -434,7 +434,7 @@ This position is increasingly precarious. As Nebralis grows wealthier and the me
 **Enemies:**
 
 - **Merchant-Captain [Lucien Vasquez]{.name data-type="being/npc"}**, whose family has been consolidating control of Nebralis's harbor trade. He views Alethra's influence over the common people as an obstacle to the changes he is bringing in and has been quietly working to undermine her authority.
-- **Bishop [[being-ronethoilthe|Ornetho]]**, a high-ranking member of the formal priesthood who visited Nebralis two years ago and was scandalized by what he perceived as Alethra's informal, unstructured approach to her duties. He has recommended that she be placed under closer oversight and that her temple funding be redirected toward more formally trained clergy.
+- **Bishop [[being-ornethoilthe|Ornetho]]**, a high-ranking member of the formal priesthood who visited Nebralis two years ago and was scandalized by what he perceived as Alethra's informal, unstructured approach to her duties. He has recommended that she be placed under closer oversight and that her temple funding be redirected toward more formally trained clergy.
 
 ## Plot Hooks
 

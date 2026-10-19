@@ -1,6 +1,6 @@
 ---
 shortcode: hiltheratsol
-name: {full: Hilthera Tsoluris, aliases: [Lady Hilthera Tsoluris, Master of Commerce]}
+name: {full: Hilthera Tsoluregi, aliases: [Lady Hilthera Tsoluregi, Master of Commerce]}
 type: being
 subType: npc
 description: Master of Commerce, the crown's chief advisor on trade and mercantile matters, named in Kárenna Graveth.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Hilthera Tsoluris is a 49-year-old woman who stands 5'10" tall with a heavy build. She has olive skin, smooth complexion, dark brown hair, and dark brown eyes.
+Hilthera Tsoluregi is a 49-year-old woman who stands 5'10" tall with a heavy build. She has olive skin, smooth complexion, dark brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Hilthera Tsoluris is the crown's Master of Commerce, its chief advisor on trade and mercantile matters. She is the closest confidant and patron of [[being-carengrvth|Kárenna Graveth]] at court, offering guidance on the political currents of the royal household.
+Hilthera Tsoluregi is the crown's Master of Commerce, its chief advisor on trade and mercantile matters. She is the closest confidant and patron of [[being-carengrvth|Kárenna Graveth]] at court, offering guidance on the political currents of the royal household.

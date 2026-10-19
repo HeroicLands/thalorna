@@ -408,7 +408,7 @@ Társila's social position is privileged and deeply uncomfortable. She is treate
 
 ### Enemies
 
-**Captain [[being-tholmaroguth|Tholmaro Gútharen]]**—A rival officer commanding the neighboring garrison sector. Gútharen is ambitious, politically connected, and seething with resentment that Társila (younger, female, and a Torvaleth) was given command of the more valuable Kávrenath posting. He has begun documenting every minor decision Társila makes, waiting for a mistake he can use. He spreads rumors that her unit's success comes from excessive brutality toward refugees and suspected collaborators.
+**Captain [[being-tholmargutha|Tholmar Gútharen]]**—A rival officer commanding the neighboring garrison sector. Gútharen is ambitious, politically connected, and seething with resentment that Társila (younger, female, and a Torvaleth) was given command of the more valuable Kávrenath posting. He has begun documenting every minor decision Társila makes, waiting for a mistake he can use. He spreads rumors that her unit's success comes from excessive brutality toward refugees and suspected collaborators.
 
 ## Plot Hooks
 

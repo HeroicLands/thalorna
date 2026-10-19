@@ -1,6 +1,6 @@
 ---
-shortcode: dalinavlrn
-name: {full: Dálina Valaron, aliases: []}
+shortcode: dalenavlrn
+name: {full: Dálena Valaron, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -397,23 +397,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Dálina Valaron is a 28-year-old woman who stands 5'9" tall and is slender. She has a long face with defined cheekbones, a prominent forehead, and a sharp jaw that leads to a square chin. Her large amber eyes sit beneath straight brows and give her an expressive gaze. She has a hawkish nose and thin lips. She has olive-tanned skin with a sun-tanned complexion. Her dark brown hair falls in dark cascades.
+Dálena Valaron is a 28-year-old woman who stands 5'9" tall and is slender. She has a long face with defined cheekbones, a prominent forehead, and a sharp jaw that leads to a square chin. Her large amber eyes sit beneath straight brows and give her an expressive gaze. She has a hawkish nose and thin lips. She has olive-tanned skin with a sun-tanned complexion. Her dark brown hair falls in dark cascades.
 
 # Dossier {#dossier}
 
-Dálina Valaron is a pilot of [[place-durgalis|Dúrgalis]], a castle town of [[place-tarvenirgn|Tarvénia]], a daughter of a [[lore-tarvenanclt|Tarvenan]] noble house who has the con of the family's cargo ship and keeps her house in the town when the ship is laid up.
+Dálena Valaron is a pilot of [[place-durgalis|Dúrgalis]], a castle town of [[place-tarvenirgn|Tarvénia]], a daughter of a [[lore-tarvenanclt|Tarvenan]] noble house who has the con of the family's cargo ship and keeps her house in the town when the ship is laid up.
 
-Dálina comes of a house that holds a small lordship at Dúrgalis and a ship at [[place-valthari|Valthari]], the free port on the southern coast, and the ship has paid for the lordship for two generations. She went aboard it at twelve because her father had no son who wanted the sea, and she has been its pilot for eight years: she sets the course, reads the coast and the sky, and brings its cargoes in whole and on the day they are due. The crews respect her, because she has never lost a man to weather she could have avoided. She has a talent for handling a crew and none for the sums, and she has made herself a nuisance to the ship-owners' council at Valthari by arguing for the crews' share and rations in a port where the owners set both.
+Dálena comes of a house that holds a small lordship at Dúrgalis and a ship at [[place-valthari|Valthari]], the free port on the southern coast, and the ship has paid for the lordship for two generations. She went aboard it at twelve because her father had no son who wanted the sea, and she has been its pilot for eight years: she sets the course, reads the coast and the sky, and brings its cargoes in whole and on the day they are due. The crews respect her, because she has never lost a man to weather she could have avoided. She has a talent for handling a crew and none for the sums, and she has made herself a nuisance to the ship-owners' council at Valthari by arguing for the crews' share and rations in a port where the owners set both.
 
 ## Psyche
 
 ### Personality
 
-Dálina is direct, confident and quick to decide, better at people than at figures. She has a noble's ease with authority and a seaman's contempt for anyone who has not stood a watch.
+Dálena is direct, confident and quick to decide, better at people than at figures. She has a noble's ease with authority and a seaman's contempt for anyone who has not stood a watch.
 
 ### Motivation
 
-Dálina wants the ship and every soul aboard it home whole on the day promised, and she wants the seamen who make that possible paid and fed as they should be. The owners' council has told her that her house's standing will not survive the second.
+Dálena wants the ship and every soul aboard it home whole on the day promised, and she wants the seamen who make that possible paid and fed as they should be. The owners' council has told her that her house's standing will not survive the second.
 
 ### Strengths
 
@@ -421,13 +421,13 @@ A fine leader of a crew, speaks well and plainly, skilled in the stowing and han
 
 ## Social
 
-Dálina holds her license from the [Pilots' Guild of Valthari]{.name data-type="affiliation/guild"}, chartered under [[affiliation-tevran|the Tevran Maldor]], which examines every pilot who takes a ship in over the port's bar.
+Dálena holds her license from the [Pilots' Guild of Valthari]{.name data-type="affiliation/guild"}, chartered under [[affiliation-tevran|the Tevran Maldor]], which examines every pilot who takes a ship in over the port's bar.
 
 ## Companions
 
 ### Patrons
 
-Dálina's patrons are the merchant houses of Valthari, who charter the Valaron ship for cargoes that must arrive.
+Dálena's patrons are the merchant houses of Valthari, who charter the Valaron ship for cargoes that must arrive.
 
 ### Enemies
 
@@ -439,10 +439,10 @@ The Storm Season
 : A merchant house has offered a charter that would clear her house's debts, for a run to [[place-helionis|Helionis]] in the month the pilots of Valthari do not sail.
 
 The Strike
-: The seamen of Valthari have refused to sign until the owners raise the share, and the owners' council has asked Dálina, whose crew is loyal, to sail and break it.
+: The seamen of Valthari have refused to sign until the owners raise the share, and the owners' council has asked Dálena, whose crew is loyal, to sail and break it.
 
 The Debt
 : Her father has borrowed against the ship to hold the lordship, and the lender is a house on the owners' council.
 
 The Cargo
-: A charter's manifest says wine, and the casks are the wrong weight. Dálina is at sea, and the port she is bound for hangs smugglers.
+: A charter's manifest says wine, and the casks are the wrong weight. Dálena is at sea, and the port she is bound for hangs smugglers.

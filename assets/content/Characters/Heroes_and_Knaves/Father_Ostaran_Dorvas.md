@@ -439,7 +439,7 @@ At the age of 20, Ostaran took his vows and was ordained as a priest dedicated t
 
 In recent years, the Kingdom of Tarvénia has faced increasing political unrest, with corruption spreading among the nobility. Several powerful lords have begun to use their influence to exploit the common people, disregarding the chivalric code and the teachings of Árdavon. As a priest, Ostaran has become a central figure in the church’s efforts to combat this rising tide of injustice. He is often called upon to investigate claims of corruption and arbitrate disputes, so that the kingdom’s laws of honor and protection are upheld.
 
-One of Ostaran’s most recent assignments involves investigating **Lord [[being-nizeloganota|Nizelo Ganotis]]**, a noble accused of abusing his power and oppressing the local peasantry. Nizelo has seized land unlawfully and has shown a blatant disregard for the kingdom’s laws, presenting Ostaran with one of his most difficult challenges yet. As Ostaran digs further into the investigation, he uncovers a web of corruption that extends beyond Lord Nizelo, threatening the very foundations of Tarvénia’s chivalric code.
+One of Ostaran’s most recent assignments involves investigating **Lord [[being-nizelganotis|Nizel Ganotis]]**, a noble accused of abusing his power and oppressing the local peasantry. Nizel has seized land unlawfully and has shown a blatant disregard for the kingdom’s laws, presenting Ostaran with one of his most difficult challenges yet. As Ostaran digs further into the investigation, he uncovers a web of corruption that extends beyond Lord Nizel, threatening the very foundations of Tarvénia’s chivalric code.
 
 ### Skills and Abilities
 
@@ -510,10 +510,10 @@ Archbishop [[being-thalurozenot|Thaluro Zenothis]]
 
 ### Enemies
 
-Lord Nizelo Ganotis
-: A corrupt noble who has been exploiting his people and ignoring the laws of the kingdom, Lord Nizelo sees Ostaran’s investigation as a direct threat to his power. Lord Nizelo will use every means at his disposal—bribery, manipulation, and even violence—to stop Ostaran from uncovering the full extent of his crimes.
+Lord Nizel Ganotis
+: A corrupt noble who has been exploiting his people and ignoring the laws of the kingdom, Lord Nizel sees Ostaran’s investigation as a direct threat to his power. Lord Nizel will use every means at his disposal—bribery, manipulation, and even violence—to stop Ostaran from uncovering the full extent of his crimes.
 
-Lady [[being-zenothaulmer|Zenotha Ulmeris]]
+Lady [[being-zenothaulmis|Zenotha Ulmis]]
 : A shrewd noblewoman who plays a dangerous political game, Lady Zenotha publicly supports the Árdavonian faith but has secretly allied herself with the corrupt elements within the kingdom. She views Ostaran as an obstacle to her ambitions and has begun to quietly work against him, spreading rumors and using her influence in the royal court to undermine his reputation.
 
 ### Affiliations
@@ -524,10 +524,10 @@ Sir [[being-srdlvnthrvkknghtwstrnmrchs|Dalven]] Thorvek
 ## Plot Hooks
 
 Investigating Corruption
-: Ostaran’s investigation into Lord Nizelo’s actions could lead to the discovery of a larger conspiracy within the kingdom. Players could assist him in gathering evidence, infiltrating noble circles, or protecting him from assassination attempts.
+: Ostaran’s investigation into Lord Nizel’s actions could lead to the discovery of a larger conspiracy within the kingdom. Players could assist him in gathering evidence, infiltrating noble circles, or protecting him from assassination attempts.
 
 A Knight’s Duel
-: Lord Nizelo, unwilling to face justice, may challenge Father Ostaran to a duel, forcing him to prove his martial skills in a high-stakes confrontation.
+: Lord Nizel, unwilling to face justice, may challenge Father Ostaran to a duel, forcing him to prove his martial skills in a high-stakes confrontation.
 
 Political Intrigue
 : As Father Ostaran navigates the complexities of the royal court, players may become entangled in the power struggles between the nobility and the church, with the fate of Tarvénia’s chivalric code hanging in the balance.

@@ -1,6 +1,6 @@
 ---
-shortcode: volkhemokald
-name: {full: Volkemo Kaldremis, aliases: [Duke Volkemo]}
+shortcode: volkemokaldr
+name: {full: Volkemo Kaldris, aliases: [Duke Volkemo]}
 type: being
 subType: npc
 description: A powerful regional lord of the Eastern Marches who has engaged Kárenna Graveth's services repeatedly.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Volkemo Kaldremis is a 52-year-old man who stands 5'11" tall with a medium build. He has olive skin, weathered complexion, dark brown hair, and hazel eyes.
+Volkemo Kaldris is a 52-year-old man who stands 5'11" tall with a medium build. He has olive skin, weathered complexion, dark brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Volkemo Kaldremis is a duke and a powerful regional lord of the [Eastern Marches]{.name data-type="place/region"}. He has engaged the services of [[being-carengrvth|Kárenna Graveth]] repeatedly in mediating disputes with neighboring provinces, and views her as a valuable ally and occasional lover, though the relationship is carefully concealed.
+Volkemo Kaldris is a duke and a powerful regional lord of the [Eastern Marches]{.name data-type="place/region"}. He has engaged the services of [[being-carengrvth|Kárenna Graveth]] repeatedly in mediating disputes with neighboring provinces, and views her as a valuable ally and occasional lover, though the relationship is carefully concealed.

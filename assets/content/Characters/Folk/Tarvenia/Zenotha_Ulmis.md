@@ -1,6 +1,6 @@
 ---
-shortcode: zenothaulmer
-name: {full: Zenotha Ulmeris, aliases: [Lady Zenotha Ulmeris, Lady Zenotha]}
+shortcode: zenothaulmis
+name: {full: Zenotha Ulmis, aliases: [Lady Zenotha Ulmis, Lady Zenotha]}
 type: being
 subType: npc
 description: A shrewd noblewoman who plays a dangerous political game, named in Father Ostaran Dorvás.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zenotha Ulmeris is a 59-year-old woman who stands 5'9" tall with a medium build. She has olive skin, sun-kissed complexion, dark brown hair, and brown eyes.
+Zenotha Ulmis is a 59-year-old woman who stands 5'9" tall with a medium build. She has olive skin, sun-kissed complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Zenotha Ulmeris is a shrewd noblewoman who plays a dangerous political game. She publicly supports the [[affiliation-ardavon|Árdavonian faith]] but has secretly allied herself with the corrupt elements within the [[affiliation-kingdmtrvn|kingdom]], and works against [[being-frstrndrvs|Father Ostaran Dorvás]] by spreading rumors and using her influence at court.
+Zenotha Ulmis is a shrewd noblewoman who plays a dangerous political game. She publicly supports the [[affiliation-ardavon|Árdavonian faith]] but has secretly allied herself with the corrupt elements within the [[affiliation-kingdmtrvn|kingdom]], and works against [[being-frstrndrvs|Father Ostaran Dorvás]] by spreading rumors and using her influence at court.

@@ -1,5 +1,5 @@
 ---
-shortcode: revothotholm
+shortcode: ervothotholm
 name: {full: Ervotho Tholmaris, aliases: [Lord Ervotho Tholmaris, Herald Emeritus]}
 type: being
 subType: npc

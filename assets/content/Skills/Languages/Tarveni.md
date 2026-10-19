@@ -45,56 +45,52 @@ data:
     - name: Numbers and grammar words
       holds: "The numbers, the pronouns, the article and the particles."
   words:
-    - form: semnalis
+    - form: semna
       class: n f
       field: The word given
       gloss: "a contract; above all, a company's contract for its service"
-      source: {kind: inherited}
+      source: {kind: worn}
     - form: daro
       class: n m
       field: The word given
       gloss: "a sworn man; a soldier under contract"
       source: {kind: inherited, form: dharos}
-    - form: thólmeza
+    - form: tholza
       class: n f
       field: The word given
       gloss: "a vow; a binding laid on oneself alone"
-      source: {kind: inherited}
-    - form: kelmaro
+      source: {kind: worn}
+    - form: kelmo
       class: n n
       field: The word given
       gloss: "a curse"
-      source: {kind: inherited, form: kelmaron}
-    - form: kelmartho
+      source: {kind: worn, form: kelmaron}
+    - form: keltho
       class: adj
       field: The word given
       gloss: "accursed; said of a man who broke his contract"
-      source: {kind: inherited, form: kelmarthos}
-    - form: orheno
+      source: {kind: worn, form: kelmarthos}
+    - form: orhen
       class: n n
       field: The word given
       gloss: "a debt of honor; an insult that must be answered before the same witnesses"
-      source: {kind: inherited, form: orfenon}
-    - form: orhenathen
+      source: {kind: worn, form: orfenon}
+    - form: orhenad
       class: v
       field: The word given
       gloss: "to owe; to stand under a debt of honor"
       source: {kind: inherited, form: orfenathen}
-    - form: kuthreza
+    - form: kuthra
       class: n f
       field: The word given
       gloss: "a penalty; what a broken contract costs"
-      source: {kind: inherited}
-    - form: damolis
+      source: {kind: worn}
+    - form: damla
       class: n f
       field: The word given
       gloss: "guilt; a stain on a company's name"
-      source: {kind: inherited, form: dhamolis}
-    - form: nazdis
-      class: n f
-      field: The word given
-      gloss: "a judgment"
-      source: {kind: inherited}
+      source: {kind: worn, form: dhamolis}
+    - {form: nazda, class: n f, field: The word given, gloss: "a judgment", source: {kind: worn}}
     - form: nazdo
       class: n m
       field: The word given
@@ -105,11 +101,11 @@ data:
       field: The word given
       gloss: "a speaker; one who argues another's case"
       source: {kind: inherited, form: lozos}
-    - form: thidaro
+    - form: thidro
       class: n m
       field: The word given
       gloss: "a keeper of seals; the notary who seals a contract"
-      source: {kind: inherited, form: thidharos}
+      source: {kind: worn, form: thidharos}
     - form: thizaro
       class: n n
       field: The word given
@@ -130,196 +126,184 @@ data:
       field: The word given
       gloss: "a debt in money"
       source: {kind: borrowed, language: skill-vylarilng, form: nezora}
-    - form: daktela
+    - form: dakta
       class: n f
       field: The word given
       gloss: "a charter; a grant written and sealed"
-      source: {kind: inherited, form: dhaktela}
-    - form: venthodis
+      source: {kind: worn, form: dhaktela}
+    - form: ventha
       class: n f
       field: The word given
       gloss: "banishment"
-      source: {kind: inherited, form: wenthodis}
-    - form: goitsara
+      source: {kind: worn, form: wenthodis}
+    - form: goitsa
       class: n f
       field: The word given
       gloss: "an oath stone; a standing stone sworn upon, older than any shrine"
       source: {kind: substrate}
-    - form: thrámezo
+    - form: thramo
       class: n m
       field: The company and the trade of arms
       gloss: "a company; a captain and the men sworn to him for a season"
-      source: {kind: inherited, form: thramezos}
-    - form: thramezo
+      source: {kind: worn, form: thramezos}
+    - form: thramzo
       class: n m
       field: The company and the trade of arms
       gloss: "a soldier of a company"
-      source: {kind: inherited, form: thramezan}
+      source: {kind: worn, form: thramezan}
     - form: thrumar
       class: n m
       field: The company and the trade of arms
       gloss: "a captain; the one a company swears to"
       source: {kind: inherited}
-    - form: thrumathen
+    - form: thrumad
       class: v
       field: The company and the trade of arms
       gloss: "to lead"
       source: {kind: inherited}
-    - form: takezo
+    - form: takzo
       class: n m
       field: The company and the trade of arms
       gloss: "a sergeant"
-      source: {kind: inherited, form: takezos}
-    - form: holvetho
+      source: {kind: worn, form: takezos}
+    - form: holvo
       class: n m
       field: The company and the trade of arms
       gloss: "a comrade; one who rides beside another, and is kin for it"
-      source: {kind: inherited, form: holwethos}
+      source: {kind: worn, form: holwethos}
     - form: zumbro
       class: n m
       field: The company and the trade of arms
       gloss: "a helper; a camp follower"
       source: {kind: inherited, form: zumbros}
-    - form: kádzimo
+    - form: kadzo
       class: n n
       field: The company and the trade of arms
       gloss: "a sword"
-      source: {kind: inherited, form: kadzimon}
-    - form: grédala
+      source: {kind: worn, form: kadzimon}
+    - form: gred
       class: n f
       field: The company and the trade of arms
       gloss: "a spear"
-      source: {kind: inherited, form: ghretala}
-    - form: gáimela
+      source: {kind: worn, form: ghretala}
+    - form: gaima
       class: n f
       field: The company and the trade of arms
       gloss: "a bow; the crossbow"
-      source: {kind: inherited}
-    - form: lírkeza
+      source: {kind: worn}
+    - form: lirka
       class: n f
       field: The company and the trade of arms
       gloss: "a sling"
-      source: {kind: inherited}
-    - form: selbora
+      source: {kind: worn}
+    - form: selba
       class: n f
       field: The company and the trade of arms
       gloss: "a breastplate"
-      source: {kind: inherited}
-    - form: gulmo
+      source: {kind: worn}
+    - form: gul
       class: n m
       field: The company and the trade of arms
       gloss: "a horseman"
-      source: {kind: inherited, form: ghulmandos}
-    - form: gúlmeza
+      source: {kind: worn, form: ghulmandos}
+    - form: gulma
       class: n f
       field: The company and the trade of arms
       gloss: "a troop of horse"
-      source: {kind: inherited}
-    - form: dúrgalis
+      source: {kind: worn}
+    - form: durga
       class: n f
       field: The company and the trade of arms
       gloss: "a camp"
-      source: {kind: inherited, form: dhurgalis}
-    - form: thúrgezo
+      source: {kind: worn, form: dhurgalis}
+    - form: thurgo
       class: n n
       field: The company and the trade of arms
       gloss: "a siege"
-      source: {kind: inherited, form: thurgezon}
-    - form: grúmeza
+      source: {kind: worn, form: thurgezon}
+    - form: gruma
       class: n f
       field: The company and the trade of arms
       gloss: "war"
-      source: {kind: inherited}
-    - form: kordathen
+      source: {kind: worn}
+    - form: kordad
       class: v
       field: The company and the trade of arms
       gloss: "to fight"
       source: {kind: inherited}
-    - form: haukela
+    - form: haukel
       class: n f
       field: The company and the trade of arms
       gloss: "a trumpet"
-      source: {kind: inherited, form: faukela}
-    - form: velzora
+      source: {kind: worn, form: faukela}
+    - form: velza
       class: n f
       field: The company and the trade of arms
       gloss: "a homecoming; the return from a contract with money in hand"
-      source: {kind: inherited, form: welzora}
-    - form: kembotho
+      source: {kind: worn, form: welzora}
+    - form: kemtho
       class: n m
       field: The company and the trade of arms
       gloss: "a wall"
-      source: {kind: inherited, form: kembothos}
-    - form: brúthega
+      source: {kind: worn, form: kembothos}
+    - form: brutha
       class: n f
       field: The company and the trade of arms
       gloss: "a bridge"
-      source: {kind: inherited, form: brutheka}
-    - form: kraunela
+      source: {kind: worn, form: brutheka}
+    - form: krauna
       class: n f
       field: The company and the trade of arms
       gloss: "a siege engine"
-      source: {kind: inherited}
-    - form: halvathen
+      source: {kind: worn}
+    - form: halvad
       class: v
       field: The company and the trade of arms
       gloss: "to be away; to be gone under contract"
       source: {kind: inherited, form: falwathen}
-    - form: zorko
+    - form: zork
       class: n m
       field: The household
       gloss: "the head of a household; whoever runs the holding while the men are away"
-      source: {kind: inherited, form: zorkos}
-    - form: sorethis
+      source: {kind: worn, form: zorkos}
+    - form: sora
       class: n m
       field: The household
       gloss: "kin; those of one household, blood or no"
-      source: {kind: inherited}
-    - form: semrotho
+      source: {kind: worn}
+    - form: sembro
       class: n m
       field: The household
       gloss: "a brother"
-      source: {kind: inherited, form: semrothos}
-    - form: semrotha
-      class: n f
-      field: The household
-      gloss: "a sister"
-      source: {kind: inherited}
-    - form: núrizo
+      source: {kind: worn, form: semrothos}
+    - {form: sembra, class: n f, field: The household, gloss: "a sister", source: {kind: worn}}
+    - form: nur
       class: n n
       field: The household
       gloss: "a child"
-      source: {kind: inherited, form: nurizon}
-    - form: kambetho
+      source: {kind: worn, form: nurizon}
+    - form: kambo
       class: n m
       field: The household
       gloss: "a husband"
-      source: {kind: inherited, form: kambethos}
-    - form: kámbeza
+      source: {kind: worn, form: kambethos}
+    - form: kamza
       class: n f
       field: The household
       gloss: "a marriage; arranged, and not dictated"
-      source: {kind: inherited}
-    - form: gébrina
-      class: n f
-      field: The household
-      gloss: "a dowry"
-      source: {kind: inherited}
-    - form: lémvisa
+      source: {kind: worn}
+    - {form: gebra, class: n f, field: The household, gloss: "a dowry", source: {kind: worn}}
+    - form: lemva
       class: n f
       field: The household
       gloss: "a will"
-      source: {kind: inherited, form: lemwisa}
-    - form: aipsena
+      source: {kind: worn, form: lemwisa}
+    - form: aipsa
       class: n f
       field: The household
       gloss: "a taking in; the receiving of a fosterling or a stranger into a household"
-      source: {kind: inherited}
-    - form: harlenis
-      class: n n
-      field: The household
-      gloss: "a house name"
-      source: {kind: inherited}
+      source: {kind: worn}
+    - {form: harla, class: n n, field: The household, gloss: "a house name", source: {kind: worn}}
     - form: kiramharlen
       class: n n
       field: The household
@@ -330,91 +314,91 @@ data:
       field: The household
       gloss: "an unnaming; the striking of a name from a company's roll"
       source: {kind: inherited, form: neharlon}
-    - form: dúmvaro
+    - form: dumvo
       class: n m
       field: The household
       gloss: "a guest"
-      source: {kind: inherited, form: dumwaros}
-    - form: haldetho
+      source: {kind: worn, form: dumwaros}
+    - form: haldo
       class: n m
       field: The household
       gloss: "a host"
-      source: {kind: inherited, form: haldethos}
+      source: {kind: worn, form: haldethos}
     - form: thelvaralo
       class: n n
       field: The household
       gloss: "a noble house"
       source: {kind: inherited, form: thelwaralon}
-    - form: orzalo
+    - form: orzo
       class: n n
       field: "Kings, councils and the free city"
       gloss: "a kingdom"
-      source: {kind: inherited, form: orzalon}
-    - form: orzathen
+      source: {kind: worn, form: orzalon}
+    - form: orzad
       class: v
       field: "Kings, councils and the free city"
       gloss: "to rule"
       source: {kind: inherited}
-    - form: harkema
+    - form: harka
       class: n f
       field: "Kings, councils and the free city"
       gloss: "a king's hall"
-      source: {kind: inherited}
-    - form: kurthema
+      source: {kind: worn}
+    - form: kurtha
       class: n f
       field: "Kings, councils and the free city"
       gloss: "the council of a free city"
-      source: {kind: inherited}
-    - form: kurtho
+      source: {kind: worn}
+    - form: kurth
       class: n m
       field: "Kings, councils and the free city"
       gloss: "a councillor"
-      source: {kind: inherited, form: kurthos}
-    - form: dilmara
+      source: {kind: worn, form: kurthos}
+    - form: dil
       class: n f
       field: "Kings, councils and the free city"
       gloss: "a vote"
-      source: {kind: inherited, form: dhilmara}
+      source: {kind: worn, form: dhilmara}
     - form: talkalo
       class: n n
       field: "Kings, councils and the free city"
       gloss: "a magistracy"
       source: {kind: inherited, form: talkalon}
-    - form: sókada
+    - form: sokda
       class: n f
       field: "Kings, councils and the free city"
       gloss: "a tax"
-      source: {kind: inherited, form: sokata}
+      source: {kind: worn, form: sokata}
     - form: sokedo
       class: n m
       field: "Kings, councils and the free city"
       gloss: "a tax farmer"
       source: {kind: inherited, form: sokatos}
-    - form: karezo
+    - form: karzo
       class: n m
       field: "Kings, councils and the free city"
       gloss: "a steward"
-      source: {kind: inherited, form: karezos}
-    - form: helzo
+      source: {kind: worn, form: karezos}
+    - form: hel
       class: n m
       field: "Kings, councils and the free city"
       gloss: "an envoy"
-      source: {kind: inherited, form: felzos}
-    - form: thauro
+      source: {kind: worn, form: felzos}
+    - form: thaur
       class: n m
       field: "Kings, councils and the free city"
       gloss: "a guard"
-      source: {kind: inherited, form: thauros}
-    - form: kalzotho
+      source: {kind: worn, form: thauros}
+    - form: kaltho
       class: n m
       field: "Kings, councils and the free city"
       gloss: "a herald"
-      source: {kind: inherited, form: kalzothos}
-    - form: therona
+      source: {kind: worn, form: kalzothos}
+    - form: therna
       class: n f
       field: "Kings, councils and the free city"
       gloss: "a muster roll"
-      source: {kind: inherited}
+      source: {kind: worn}
     - form: sokato
       class: n m
       field: "Kings, councils and the free city"
@@ -435,62 +419,62 @@ data:
       field: "Kings, councils and the free city"
       gloss: "the watch of a free city"
       source: {kind: borrowed, language: skill-vylarilng, form: zorala}
-    - form: daimela
+    - form: daima
       class: n m
       field: "Kings, councils and the free city"
       gloss: "a paymaster; whoever holds a company's contract"
-      source: {kind: inherited}
+      source: {kind: worn}
     - form: daimelalo
       class: n n
       field: "Kings, councils and the free city"
       gloss: "a paymaster's standing; the right to hire companies"
       source: {kind: inherited, form: daimelalon}
-    - form: anzirotho
+    - form: anziro
       class: adj
       field: "Kings, councils and the free city"
       gloss: "masterless; of a soldier with no contract and no captain"
-      source: {kind: inherited, form: anzirothos}
-    - form: zirotho
+      source: {kind: worn, form: anzirothos}
+    - form: zirtho
       class: n m
       field: "Kings, councils and the free city"
       gloss: "a rank; one step of a company's order"
-      source: {kind: inherited, form: zirothos}
+      source: {kind: worn, form: zirothos}
     - form: verosalo
       class: n n
       field: "Kings, councils and the free city"
       gloss: "the freedom of a free city; a share in it"
       source: {kind: inherited, form: werosalon}
-    - form: palvetho
+    - form: palvo
       class: n m
       field: "Kings, councils and the free city"
       gloss: "a resident; a free man living in another's town"
-      source: {kind: inherited, form: palwethos}
-    - form: gulmaleno
+      source: {kind: worn, form: palwethos}
+    - form: gulmal
       class: n m
       field: "Kings, councils and the free city"
       gloss: "a knight"
-      source: {kind: inherited, form: ghulmalen}
-    - form: sarkeno
+      source: {kind: worn, form: ghulmalen}
+    - form: sarko
       class: n m
       field: The village and its shrine
       gloss: "a priest; usually a man of the village"
-      source: {kind: inherited, form: sarkenandos}
+      source: {kind: worn, form: sarkenandos}
     - form: sarkenanda
       class: n f
       field: The village and its shrine
       gloss: "a priestess"
       source: {kind: inherited}
-    - form: nekaimo
+    - form: nekai
       class: n n
       field: The village and its shrine
       gloss: "a wayside shrine"
-      source: {kind: inherited, form: nekaimon}
-    - form: kurdalis
+      source: {kind: worn, form: nekaimon}
+    - form: kur
       class: n f
       field: The village and its shrine
       gloss: "an altar"
-      source: {kind: inherited, form: kurdhalis}
-    - form: ulthathen
+      source: {kind: worn, form: kurdhalis}
+    - form: ulthad
       class: v
       field: The village and its shrine
       gloss: "to hallow"
@@ -505,11 +489,11 @@ data:
       field: The village and its shrine
       gloss: "an altar of a great temple"
       source: {kind: borrowed, language: skill-vylarilng, form: kurzalis}
-    - form: odetho
+    - form: odeth
       class: n n
       field: The village and its shrine
       gloss: "an omen"
-      source: {kind: inherited, form: odhethon}
+      source: {kind: worn, form: odhethon}
     - form: delmaro
       class: adj
       field: The village and its shrine
@@ -525,11 +509,11 @@ data:
       field: The village and its shrine
       gloss: "the household gods; those of the hearth"
       source: {kind: inherited}
-    - form: díravo
+    - form: dir
       class: n n
       field: The village and its shrine
       gloss: "the soul"
-      source: {kind: inherited, form: dhirawon}
+      source: {kind: worn, form: dhirawon}
     - form: ziko
       class: n n
       field: The village and its shrine
@@ -540,12 +524,12 @@ data:
       field: The old mountain speech
       gloss: "the Mother; the goddess of the earth beneath the later gods"
       source: {kind: substrate}
-    - form: ikórrata
+    - form: ikorra
       class: n f
       field: The old mountain speech
       gloss: "a cave shrine; a cave where the Mother is kept"
       source: {kind: substrate}
-    - form: ukutsa
+    - form: ukuts
       class: n f
       field: The old mountain speech
       gloss: "a cave"
@@ -555,17 +539,17 @@ data:
       field: The old mountain speech
       gloss: "an offering left at a cave mouth"
       source: {kind: substrate}
-    - form: tsingarra
+    - form: tsinga
       class: n f
       field: The old mountain speech
       gloss: "a wise-woman; a village healer of the Mother's"
       source: {kind: substrate}
-    - form: gatsera
+    - form: gatsa
       class: n f
       field: The old mountain speech
       gloss: "the night procession; the dead of a valley walking the roads with a light before them"
       source: {kind: substrate}
-    - form: ardutse
+    - form: arduts
       class: n n
       field: The old mountain speech
       gloss: "a dead road; a road the procession walks"
@@ -580,17 +564,17 @@ data:
       field: The old mountain speech
       gloss: "the old ones; the dead of a house"
       source: {kind: substrate}
-    - form: motsare
+    - form: motsar
       class: n n
       field: The old mountain speech
       gloss: "a charm against the dead"
       source: {kind: substrate}
-    - form: urtsame
+    - form: urtsa
       class: n f
       field: The old mountain speech
       gloss: "a hearth stone"
       source: {kind: substrate}
-    - form: belartsa
+    - form: belarts
       class: n f
       field: The old mountain speech
       gloss: "a threshold"
@@ -605,87 +589,87 @@ data:
       field: The old mountain speech
       gloss: "a crag"
       source: {kind: substrate}
-    - form: kolzarra
+    - form: kolzar
       class: n f
       field: The old mountain speech
       gloss: "scree"
       source: {kind: substrate}
-    - form: itsurre
+    - form: itsur
       class: n n
       field: The old mountain speech
       gloss: "a gorge"
       source: {kind: substrate}
-    - form: ugarrek
+    - form: ugar
       class: n m
       field: The old mountain speech
       gloss: "a spring in the rock"
       source: {kind: substrate}
-    - form: galtsura
+    - form: galtsur
       class: n f
       field: The old mountain speech
       gloss: "a high meadow"
       source: {kind: substrate}
-    - form: zoldura
+    - form: zoldur
       class: n f
       field: The old mountain speech
       gloss: "a mountain storm"
       source: {kind: substrate}
-    - form: ozkarre
+    - form: ozkar
       class: n n
       field: The old mountain speech
       gloss: "hail"
       source: {kind: substrate}
-    - form: ozkura
+    - form: ozkur
       class: n f
       field: The old mountain speech
       gloss: "the wind off the peaks"
       source: {kind: substrate}
-    - form: dúrreka
+    - form: durka
       class: n f
       field: The old mountain speech
       gloss: "fog in the passes"
       source: {kind: substrate}
-    - form: mozkarra
+    - form: mozkar
       class: n f
       field: The old mountain speech
       gloss: "the snowmelt flood"
       source: {kind: substrate}
-    - form: átseka
+    - form: atsek
       class: n f
       field: The old mountain speech
       gloss: "a ewe"
       source: {kind: substrate}
-    - form: kanarrek
+    - form: kanrek
       class: n m
       field: The old mountain speech
       gloss: "a ram"
       source: {kind: substrate}
-    - form: uguzta
+    - form: guzta
       class: n f
       field: The old mountain speech
       gloss: "a goat"
       source: {kind: substrate}
-    - form: betsura
+    - form: betsur
       class: n f
       field: The old mountain speech
       gloss: "cheese"
       source: {kind: substrate}
-    - form: tsalaza
+    - form: tsalats
       class: n f
       field: The old mountain speech
       gloss: "a bell; the bell of a bellwether"
       source: {kind: substrate}
-    - form: ularrek
+    - form: ular
       class: n m
       field: The old mountain speech
       gloss: "a shepherd"
       source: {kind: substrate}
-    - form: tsáberra
+    - form: tsaber
       class: n f
       field: The old mountain speech
       gloss: "a sheepfold"
       source: {kind: substrate}
-    - form: bedarrek
+    - form: bedar
       class: n m
       field: The old mountain speech
       gloss: "a shepherd's hut"
@@ -695,12 +679,12 @@ data:
       field: The old mountain speech
       gloss: "the summer drive; the move of the flocks up to the high meadows"
       source: {kind: substrate}
-    - form: ekutsa
+    - form: ekuts
       class: n f
       field: The old mountain speech
       gloss: "a sheepdog"
       source: {kind: substrate}
-    - form: garrutsa
+    - form: garruts
       class: n f
       field: The old mountain speech
       gloss: "a wolf"
@@ -710,7 +694,7 @@ data:
       field: The old mountain speech
       gloss: "a vulture"
       source: {kind: substrate}
-    - form: zurgade
+    - form: zurga
       class: n f
       field: The old mountain speech
       gloss: "a cairn on a pass"
@@ -730,17 +714,17 @@ data:
       field: The old mountain speech
       gloss: "a winter byre"
       source: {kind: substrate}
-    - form: galdurre
+    - form: galdur
       class: n n
       field: The old mountain speech
       gloss: "an avalanche"
       source: {kind: substrate}
-    - form: tsukurra
+    - form: tsukur
       class: n f
       field: The old mountain speech
       gloss: "a beech wood"
       source: {kind: substrate}
-    - form: lezkora
+    - form: lezkor
       class: n f
       field: The old mountain speech
       gloss: "a rock shelter"
@@ -760,216 +744,208 @@ data:
       field: The old mountain speech
       gloss: "a holy well; a spring the Mother keeps"
       source: {kind: substrate}
-    - form: tsolura
+    - form: tsolur
       class: n f
       field: The old mountain speech
       gloss: "a hay meadow"
       source: {kind: substrate}
-    - form: udurtsa
+    - form: udurts
       class: n f
       field: The old mountain speech
       gloss: "the evil eye; harm laid by a look, which a wise-woman lifts"
       source: {kind: substrate}
-    - form: ormalis
+    - form: orma
       class: n f
       field: "Land, the high country and the weather"
       gloss: "land"
-      source: {kind: inherited, form: yormalis}
-    - form: polthamis
+      source: {kind: worn, form: yormalis}
+    - form: poltha
       class: n f
       field: "Land, the high country and the weather"
       gloss: "a field"
-      source: {kind: inherited}
+      source: {kind: worn}
     - form: kolsama
       class: n f
       field: "Land, the high country and the weather"
       gloss: "a harvest"
       source: {kind: inherited}
-    - form: kedrilis
+    - form: ked
       class: n f
       field: "Land, the high country and the weather"
       gloss: "a sheep"
-      source: {kind: inherited}
-    - form: tholmara
+      source: {kind: worn}
+    - form: thol
       class: n f
       field: "Land, the high country and the weather"
       gloss: "a lake"
-      source: {kind: inherited}
-    - form: nebralis
+      source: {kind: worn}
+    - form: nebra
       class: n f
       field: "Land, the high country and the weather"
       gloss: "a valley"
-      source: {kind: inherited}
-    - form: ornetho
+      source: {kind: worn}
+    - form: orneth
       class: n m
       field: "Land, the high country and the weather"
       gloss: "a mountain, as seen from below"
-      source: {kind: inherited, form: ronethos}
-    - form: ganotho
+      source: {kind: worn, form: ronethos}
+    - form: gando
       class: n m
       field: "Land, the high country and the weather"
       gloss: "a pass"
-      source: {kind: inherited, form: ganothos}
+      source: {kind: worn, form: ganothos}
     - form: kaldrema
       class: n f
       field: "Land, the high country and the weather"
       gloss: "a wood"
       source: {kind: inherited}
-    - form: tharozo
+    - form: tharzo
       class: n f
       field: "Land, the high country and the weather"
       gloss: "a cedar"
-      source: {kind: inherited, form: tharozos}
-    - form: nelamis
+      source: {kind: worn, form: tharozos}
+    - form: nelmis
       class: n f
       field: "Land, the high country and the weather"
       gloss: "snow"
-      source: {kind: inherited}
-    - form: nelámeza
+      source: {kind: worn}
+    - form: nelza
       class: n f
       field: "Land, the high country and the weather"
       gloss: "winter"
-      source: {kind: inherited}
-    - form: huradis
+      source: {kind: worn}
+    - form: hurdis
       class: n f
       field: "Land, the high country and the weather"
       gloss: "rain"
-      source: {kind: inherited}
-    - form: herthema
+      source: {kind: worn}
+    - form: herthe
       class: n f
       field: "Land, the high country and the weather"
       gloss: "summer"
-      source: {kind: inherited}
-    - form: ohrema
+      source: {kind: worn}
+    - form: ohra
       class: n f
       field: "Land, the high country and the weather"
       gloss: "autumn"
-      source: {kind: inherited, form: ofrema}
-    - form: korvathis
+      source: {kind: worn, form: ofrema}
+    - form: korvath
       class: n m
       field: "Land, the high country and the weather"
       gloss: "the sun"
-      source: {kind: inherited, form: korwathis}
-    - form: alzemis
+      source: {kind: worn, form: korwathis}
+    - form: als
       class: n f
       field: "Land, the high country and the weather"
       gloss: "the moon"
-      source: {kind: inherited, form: yalzemis}
-    - form: ilthera
+      source: {kind: worn, form: yalzemis}
+    - form: iltha
       class: n f
       field: "Land, the high country and the weather"
       gloss: "a star"
-      source: {kind: inherited}
-    - form: ulmera
+      source: {kind: worn}
+    - form: ulmer
       class: n f
       field: "Land, the high country and the weather"
       gloss: "water"
-      source: {kind: inherited}
-    - form: lizela
+      source: {kind: worn}
+    - form: lizel
       class: n f
       field: "Land, the high country and the weather"
       gloss: "a flower"
-      source: {kind: inherited}
-    - form: thórgila
+      source: {kind: worn}
+    - form: thorga
       class: n f
       field: "Land, the high country and the weather"
       gloss: "a tower"
-      source: {kind: inherited}
-    - form: brudamis
+      source: {kind: worn}
+    - form: brud
       class: n f
       field: "The body, life and death"
       gloss: "blood"
-      source: {kind: inherited, form: brudhamis}
-    - form: írthezo
+      source: {kind: worn, form: brudhamis}
+    - form: irtho
       class: n n
       field: "The body, life and death"
       gloss: "a wound"
-      source: {kind: inherited, form: rithezon}
+      source: {kind: worn, form: rithezon}
     - form: irthezo
       class: n m
       field: "The body, life and death"
       gloss: "a surgeon"
       source: {kind: inherited, form: rithezos}
-    - form: kolvazis
+    - form: kolva
       class: n f
       field: "The body, life and death"
       gloss: "death"
-      source: {kind: inherited, form: kholwazis}
-    - form: kalmethathen
+      source: {kind: worn, form: kholwazis}
+    - form: kalmad
       class: v
       field: "The body, life and death"
       gloss: "to die"
-      source: {kind: inherited}
-    - form: demrolo
+      source: {kind: worn}
+    - form: dembro
       class: n n
       field: "The body, life and death"
       gloss: "a tomb"
-      source: {kind: inherited, form: dhemrolon}
+      source: {kind: worn, form: dhemrolon}
     - form: zemrolo
       class: n n
       field: "The body, life and death"
       gloss: "a tomb of cut stone in a city"
       source: {kind: borrowed, language: skill-vylarilng, form: zemrolon}
-    - form: demrolara
+    - form: dembrolara
       class: n f
       field: "The body, life and death"
       gloss: "a field of tombs"
       source: {kind: inherited, form: dhemrolara}
-    - form: delamo
+    - form: delmo
       class: n m
       field: Coin and trade
       gloss: "a merchant"
-      source: {kind: inherited, form: delamos}
-    - form: verdagis
+      source: {kind: worn, form: delamos}
+    - form: verdo
       class: n f
       field: Coin and trade
       gloss: "a price"
-      source: {kind: inherited, form: werdakis}
+      source: {kind: worn, form: werdakis}
     - form: hezumalo
       class: n n
       field: Coin and trade
       gloss: "interest"
       source: {kind: inherited, form: fezumalon}
-    - form: hezumo
+    - form: hezmo
       class: n m
       field: Coin and trade
       gloss: "a moneylender"
-      source: {kind: inherited, form: fezumos}
-    - form: thrádina
-      class: n f
-      field: Coin and trade
-      gloss: "a scale"
-      source: {kind: inherited}
-    - form: selvaro
+      source: {kind: worn, form: fezumos}
+    - {form: thrada, class: n f, field: Coin and trade, gloss: "a scale", source: {kind: worn}}
+    - form: selvo
       class: n n
       field: Coin and trade
       gloss: "a warehouse"
-      source: {kind: inherited, form: selwaron}
+      source: {kind: worn, form: selwaron}
     - form: eltheza
       class: n n
       field: Coin and trade
       gloss: "the gold coin"
       source: {kind: inherited, form: ethla}
-    - form: sólkimo
+    - form: solko
       class: n n
       field: Coin and trade
       gloss: "a weight"
-      source: {kind: inherited, form: solkimon}
+      source: {kind: worn, form: solkimon}
     - form: kiézilo
       class: n n
       field: Coin and trade
       gloss: "a wedge; a small coin cut from a bar"
       source: {kind: inherited, form: kezilon}
-    - form: énthizo
+    - form: entho
       class: n n
       field: Coin and trade
       gloss: "wine"
-      source: {kind: inherited, form: yenthizon}
-    - form: thremuzis
-      class: n m
-      field: Coin and trade
-      gloss: "salt"
-      source: {kind: inherited}
+      source: {kind: worn, form: yenthizon}
+    - {form: thres, class: n m, field: Coin and trade, gloss: "salt", source: {kind: worn}}
     - form: lorrame
       class: n m
       field: Coin and trade
@@ -980,52 +956,52 @@ data:
       field: Craft and the forge
       gloss: "a craft"
       source: {kind: inherited}
-    - form: gartema
+    - form: garta
       class: n f
       field: Craft and the forge
       gloss: "a bench"
-      source: {kind: inherited, form: ghartema}
-    - form: kolmetho
+      source: {kind: worn, form: ghartema}
+    - form: kolme
       class: n m
       field: Craft and the forge
       gloss: "an apprentice"
-      source: {kind: inherited, form: kolmethos}
-    - form: thúmbalis
+      source: {kind: worn, form: kolmethos}
+    - form: thumba
       class: n f
       field: Craft and the forge
       gloss: "a forge"
-      source: {kind: inherited}
-    - form: thalbezo
+      source: {kind: worn}
+    - form: talbo
       class: n n
       field: Craft and the forge
       gloss: "steel"
-      source: {kind: inherited, form: thalbezon}
-    - form: ádzimo
+      source: {kind: worn, form: thalbezon}
+    - form: adzo
       class: n n
       field: Craft and the forge
       gloss: "copper"
-      source: {kind: inherited, form: radzimon}
-    - form: elthezo
+      source: {kind: worn, form: radzimon}
+    - form: els
       class: n n
       field: Craft and the forge
       gloss: "gold"
-      source: {kind: inherited, form: ethlon}
-    - form: ankrazo
+      source: {kind: worn, form: ethlon}
+    - form: ankro
       class: n n
       field: Craft and the forge
       gloss: "silver"
-      source: {kind: inherited, form: ankron}
-    - form: thúrdimo
+      source: {kind: worn, form: ankron}
+    - form: turdo
       class: n n
       field: Craft and the forge
       gloss: "bronze"
-      source: {kind: inherited, form: thurdimon}
-    - form: málkeza
+      source: {kind: worn, form: thurdimon}
+    - form: malka
       class: n f
       field: Craft and the forge
       gloss: "a hammer"
-      source: {kind: inherited}
-    - form: tambathen
+      source: {kind: worn}
+    - form: tambad
       class: v
       field: Craft and the forge
       gloss: "to make"
@@ -1035,31 +1011,31 @@ data:
       field: Craft and the forge
       gloss: "a work"
       source: {kind: inherited, form: tambandon}
-    - form: dokathen
+    - form: dokad
       class: v
       field: "Speech, song and the learned"
       gloss: "to speak"
       source: {kind: inherited}
-    - form: dokemo
+    - form: dokme
       class: n n
       field: "Speech, song and the learned"
       gloss: "a speech"
-      source: {kind: inherited, form: dokemon}
-    - form: sorimathen
+      source: {kind: worn, form: dokemon}
+    - form: sormad
       class: v
       field: "Speech, song and the learned"
       gloss: "to sing"
-      source: {kind: inherited}
+      source: {kind: worn}
     - form: tharlema
       class: n f
       field: "Speech, song and the learned"
       gloss: "a tongue"
       source: {kind: inherited}
-    - form: semarzo
+    - form: semzo
       class: n n
       field: "Speech, song and the learned"
       gloss: "a letter"
-      source: {kind: inherited, form: semarzon}
+      source: {kind: worn, form: semarzon}
     - form: oldemo
       class: n n
       field: "Speech, song and the learned"
@@ -1070,11 +1046,11 @@ data:
       field: "Speech, song and the learned"
       gloss: "a chronicle; a history written down"
       source: {kind: borrowed, language: skill-vylarilng, form: olzemon}
-    - form: galetho
+    - form: galtho
       class: n m
       field: "Speech, song and the learned"
       gloss: "a student"
-      source: {kind: inherited, form: ghalethos}
+      source: {kind: worn, form: ghalethos}
     - form: kosthemo
       class: n m
       field: "Speech, song and the learned"
@@ -1085,7 +1061,7 @@ data:
       field: "Speech, song and the learned"
       gloss: "wisdom"
       source: {kind: inherited}
-    - form: kezdathen
+    - form: kezdad
       class: v
       field: "Speech, song and the learned"
       gloss: "to know"
@@ -1130,26 +1106,26 @@ data:
       field: "Speech, song and the learned"
       gloss: "longing, as the Provenzians sing it"
       source: {kind: borrowed, language: skill-provnzlng, form: solmere}
-    - form: komrelalo
+    - form: kombrelalo
       class: n n
       field: "Towns, holdings and the road"
       gloss: "a holding; land and house together"
       source: {kind: inherited, form: komrelalon}
-    - form: komrela
+    - form: kombra
       class: n f
       field: "Towns, holdings and the road"
       gloss: "a manor; the house at the heart of a holding"
-      source: {kind: inherited}
+      source: {kind: worn}
     - form: thegaimo
       class: n m
       field: "Towns, holdings and the road"
       gloss: "a town house"
       source: {kind: inherited, form: thegaimos}
-    - form: embalis
+    - form: emba
       class: n f
       field: "Towns, holdings and the road"
       gloss: "a town square"
-      source: {kind: inherited, form: rembalis}
+      source: {kind: worn, form: rembalis}
     - form: thirúthrima
       class: n f
       field: "Towns, holdings and the road"
@@ -1160,11 +1136,11 @@ data:
       field: "Towns, holdings and the road"
       gloss: "an arch"
       source: {kind: inherited, form: kambelon}
-    - form: dórkima
+    - form: dorka
       class: n f
       field: "Towns, holdings and the road"
       gloss: "a column"
-      source: {kind: inherited}
+      source: {kind: worn}
     - form: ulmerpodera
       class: n f
       field: "Towns, holdings and the road"
@@ -1175,252 +1151,248 @@ data:
       field: "Towns, holdings and the road"
       gloss: "a cistern"
       source: {kind: inherited, form: dhumbezon}
-    - form: sodragis
+    - form: sodra
       class: n f
       field: "Towns, holdings and the road"
       gloss: "a drain"
-      source: {kind: inherited, form: sodhrakis}
-    - form: thubalis
+      source: {kind: worn, form: sodhrakis}
+    - form: thubla
       class: n f
       field: "Towns, holdings and the road"
       gloss: "a bathhouse"
-      source: {kind: inherited}
-    - form: selkora
+      source: {kind: worn}
+    - form: selka
       class: n f
       field: "Towns, holdings and the road"
       gloss: "a granary"
-      source: {kind: inherited}
-    - form: ithrola
+      source: {kind: worn}
+    - form: ithra
       class: n f
       field: "Towns, holdings and the road"
       gloss: "a lamp"
-      source: {kind: inherited}
-    - form: palthogis
+      source: {kind: worn}
+    - form: paltho
       class: n f
       field: "Towns, holdings and the road"
       gloss: "a brick"
-      source: {kind: inherited, form: palthokis}
+      source: {kind: worn, form: palthokis}
     - form: kálmezar
       class: n n
       field: "Towns, holdings and the road"
       gloss: "marble"
       source: {kind: inherited}
-    - form: grumbalo
+    - form: grumba
       class: n n
       field: "Towns, holdings and the road"
       gloss: "a quarry"
-      source: {kind: inherited, form: grumbalon}
-    - form: malkotho
+      source: {kind: worn, form: grumbalon}
+    - form: maltho
       class: n m
       field: "Towns, holdings and the road"
       gloss: "a hill"
-      source: {kind: inherited, form: malkothos}
+      source: {kind: worn, form: malkothos}
     - form: arthauna
       class: n f
       field: "Towns, holdings and the road"
       gloss: "a horse fair; the races and trading at the autumn fair"
       source: {kind: inherited, form: rathauna}
-    - form: ornethe
+    - form: orne
       class: n f
       field: The coast and the sea
       gloss: "the sea"
-      source: {kind: inherited}
-    - form: threnema
+      source: {kind: worn}
+    - form: threna
       class: n f
       field: The coast and the sea
       gloss: "a ship"
-      source: {kind: inherited}
+      source: {kind: worn}
     - form: volkema
       class: n f
       field: The coast and the sea
       gloss: "a harbor"
       source: {kind: inherited, form: wolkhema}
-    - form: pálgezo
+    - form: palgo
       class: n n
       field: The coast and the sea
       gloss: "an oar"
-      source: {kind: inherited, form: palgezon}
-    - form: lénthizo
+      source: {kind: worn, form: palgezon}
+    - form: lenzo
       class: n n
       field: The coast and the sea
       gloss: "a sail"
-      source: {kind: inherited, form: lenthizon}
-    - form: thersolis
+      source: {kind: worn, form: lenthizon}
+    - form: thersa
       class: n f
       field: The coast and the sea
       gloss: "an island"
-      source: {kind: inherited}
+      source: {kind: worn}
     - form: brazema
       class: n f
       field: The coast and the sea
       gloss: "a storm at sea"
       source: {kind: inherited}
-    - form: erzotho
+    - form: erzo
       class: n m
       field: The coast and the sea
       gloss: "a pirate"
-      source: {kind: inherited, form: rezothos}
-    - form: oltrema
-      class: n f
-      field: Time and the year
-      gloss: "a month"
-      source: {kind: inherited}
-    - form: prámiza
+      source: {kind: worn, form: rezothos}
+    - {form: oltra, class: n f, field: Time and the year, gloss: "a month", source: {kind: worn}}
+    - form: prama
       class: n f
       field: Time and the year
       gloss: "the morning"
-      source: {kind: inherited}
-    - form: hilthera
+      source: {kind: worn}
+    - form: hilta
       class: n f
       field: Time and the year
       gloss: "the evening"
-      source: {kind: inherited}
-    - form: lordemo
+      source: {kind: worn}
+    - form: lordo
       class: n n
       field: Time and the year
       gloss: "a festival"
-      source: {kind: inherited, form: lordemon}
-    - form: zerthazis
+      source: {kind: worn, form: lordemon}
+    - form: zertha
       class: n f
       field: Time and the year
       gloss: "the founding; the year the reckoning starts from"
-      source: {kind: inherited}
-    - form: thélvaro
+      source: {kind: worn}
+    - form: thelvar
       class: adj
       field: Qualities
       gloss: "high; noble"
-      source: {kind: inherited, form: thelwaros}
-    - form: nizelo
+      source: {kind: worn, form: thelwaros}
+    - form: nis
       class: adj
       field: Qualities
       gloss: "small"
-      source: {kind: inherited, form: nizelos}
-    - form: ervotho
+      source: {kind: worn, form: nizelos}
+    - form: ervo
       class: adj
       field: Qualities
       gloss: "free"
-      source: {kind: inherited, form: rewothos}
-    - form: zédimo
+      source: {kind: worn, form: rewothos}
+    - form: zed
       class: adj
       field: Qualities
       gloss: "whole"
-      source: {kind: inherited, form: zetimos}
-    - form: zenotho
+      source: {kind: worn, form: zetimos}
+    - form: zeno
       class: adj
       field: Qualities
       gloss: "wise"
-      source: {kind: inherited, form: zenothos}
+      source: {kind: worn, form: zenothos}
     - {form: dorandar, class: adj, field: Qualities, gloss: "enduring", source: {kind: inherited}}
-    - form: orthemo
+    - form: orthe
       class: adj
       field: Qualities
       gloss: "last"
-      source: {kind: inherited, form: orthemos}
-    - form: ilthero
+      source: {kind: worn, form: orthemos}
+    - form: ilto
       class: adj
       field: Qualities
       gloss: "white"
-      source: {kind: inherited, form: iltheros}
-    - form: thaluro
+      source: {kind: worn, form: iltheros}
+    - form: thal
       class: adj
       field: Qualities
       gloss: "red"
-      source: {kind: inherited, form: thaluros}
-    - form: lokathen
+      source: {kind: worn, form: thaluros}
+    - form: lokad
       class: v
       field: "Doing, going and being"
       gloss: "to come"
       source: {kind: inherited}
-    - form: tigathen
+    - form: tigad
       class: v
       field: "Doing, going and being"
       gloss: "to go"
       source: {kind: inherited}
-    - form: okethen
+    - form: oked
       class: v
       field: "Doing, going and being"
       gloss: "to see"
       source: {kind: inherited}
-    - form: vagathen
+    - form: vagad
       class: v
       field: "Doing, going and being"
       gloss: "to show"
       source: {kind: inherited, form: wakathen}
-    - form: daimathen
+    - form: daimad
       class: v
       field: "Doing, going and being"
       gloss: "to give"
       source: {kind: inherited}
-    - form: lozethen
+    - form: lozed
       class: v
       field: "Doing, going and being"
       gloss: "to carry"
       source: {kind: inherited}
-    - form: ombithen
+    - form: ombid
       class: v
       field: "Doing, going and being"
       gloss: "to sit"
       source: {kind: inherited}
-    - form: némbethen
+    - form: nembed
       class: v
       field: "Doing, going and being"
       gloss: "to fall"
       source: {kind: inherited}
-    - form: urzithen
+    - form: urzid
       class: v
       field: "Doing, going and being"
       gloss: "to rise"
       source: {kind: inherited}
-    - form: gaurathen
+    - form: gaurad
       class: v
       field: "Doing, going and being"
       gloss: "to build"
       source: {kind: inherited, form: ghaurathen}
-    - form: thaurathen
+    - form: thaurad
       class: v
       field: "Doing, going and being"
       gloss: "to keep"
       source: {kind: inherited}
-    - form: thernathen
+    - form: thernad
       class: v
       field: "Doing, going and being"
       gloss: "to live"
       source: {kind: inherited}
-    - form: távemer
+    - form: tavre
       class: num
       field: Numbers and grammar words
       gloss: "two"
-      source: {kind: inherited, form: tawemer}
-    - form: helzur
+      source: {kind: worn, form: tawemer}
+    - form: helza
       class: num
       field: Numbers and grammar words
       gloss: "four"
-      source: {kind: inherited, form: felzur}
-    - form: ólemiks
+      source: {kind: worn, form: felzur}
+    - form: olmi
       class: num
       field: Numbers and grammar words
       gloss: "five"
-      source: {kind: inherited, form: yolemiks}
-    - form: arnethur
+      source: {kind: worn, form: yolemiks}
+    - form: neth
       class: num
       field: Numbers and grammar words
       gloss: "seven"
-      source: {kind: inherited, form: ranethur}
-    - form: zórimaks
+      source: {kind: worn, form: ranethur}
+    - form: zorma
       class: num
       field: Numbers and grammar words
       gloss: "eight"
-      source: {kind: inherited}
-    - form: dorekis
+      source: {kind: worn}
+    - form: dorke
       class: num
       field: Numbers and grammar words
       gloss: "twelve"
-      source: {kind: inherited}
-    - form: thámbezur
+      source: {kind: worn}
+    - form: thamba
       class: num
       field: Numbers and grammar words
       gloss: "a thousand"
-      source: {kind: inherited}
+      source: {kind: worn}
     - form: en
       class: pron
       field: Numbers and grammar words
@@ -1441,7 +1413,7 @@ data:
       field: Numbers and grammar words
       gloss: "the; the article, the same for every gender"
       source: {kind: worn, form: alathos}
-    - {form: "drengako", class: n m, field: "The company and the trade of arms", gloss: "Warrior"}
+    - {form: "drenko", class: n m, field: "The company and the trade of arms", gloss: "Warrior"}
     - {form: "dun", class: "part", field: "Numbers and grammar words", gloss: "With"}
     - {form: "ek", class: "part", field: "Numbers and grammar words", gloss: "And"}
     - {form: "enthráth", class: "part", field: "Numbers and grammar words", gloss: "Between"}
@@ -1456,17 +1428,17 @@ data:
       female:
         - "Ilthera"
         - "Lizela"
-        - "Ulmera"
-        - "Kolsama"
-        - "Tholmara"
-        - "Kaldrema"
+        - "Ulma"
+        - "Kolsa"
+        - "Tholma"
+        - "Kaldra"
         - "Hilthera"
         - "Prámiza"
         - "Oltrema"
         - "Volkema"
         - "Brazema"
-        - "Nelama"
-        - "Hurada"
+        - "Nelma"
+        - "Hurda"
         - "Alzema"
         - "Thélvara"
         - "Ervotha"
@@ -1476,17 +1448,17 @@ data:
         - "Thalura"
         - "Nizela"
         - "Dorándara"
-        - "Galtsura"
+        - "Galtsa"
         - "Tsukurra"
-        - "Zoldura"
-        - "Ozkura"
-        - "Tsolura"
+        - "Zolta"
+        - "Ozka"
+        - "Tsola"
         - "Dúrreka"
         - "Ikentsa"
         - "Mozkarra"
         - "Itsurre"
-        - "Betsura"
-        - "Tsalaza"
+        - "Betsa"
+        - "Tsala"
         - "Átseka"
         - "Garrunda"
       male:
@@ -1496,32 +1468,32 @@ data:
         - "Bedarrek"
         - "Kotsude"
         - "Zurgade"
-        - "Thélvaro"
+        - "Thelvar"
         - "Ervotho"
-        - "Zédimo"
-        - "Zenotho"
+        - "Zedmo"
+        - "Zenoth"
         - "Orthemo"
         - "Ilthero"
         - "Thaluro"
-        - "Nizelo"
-        - "Korvatho"
+        - "Nizel"
+        - "Korvath"
         - "Ornetho"
-        - "Ganotho"
-        - "Oztuka"
+        - "Ganoth"
+        - "Oztuk"
         - "Garrutsa"
         - "Zekudi"
         - "Tharozo"
         - "Gulmaleno"
         - "Dorándaro"
-        - "Gaimelo"
-        - "Kaldremo"
+        - "Gaimel"
+        - "Kaldro"
         - "Brazemo"
         - "Volkemo"
-        - "Tholmaro"
+        - "Tholmar"
         - "Nebralo"
         - "Alzemo"
         - "Oltremo"
-        - "Hilthero"
+        - "Hilther"
     house:
       - "Ervothandis"
       - "Zedimis"
@@ -1533,30 +1505,30 @@ data:
       - "Ornetis"
       - "Ganotis"
       - "Thelvaris"
-      - "Kaldremis"
+      - "Kaldris"
       - "Tholmaris"
-      - "Brazemis"
+      - "Brazis"
       - "Volkemis"
       - "Lizelis"
-      - "Ulmeris"
+      - "Ulmis"
       - "Hiltheris"
-      - "Oltremis"
-      - "Garrundis"
-      - "Galtsuris"
-      - "Tsukurris"
-      - "Zolduris"
-      - "Ozkuris"
-      - "Tsoluris"
+      - "Oltris"
+      - "Garrundeta"
+      - "Galtsuregi"
+      - "Tsukurreta"
+      - "Zolduregi"
+      - "Ozkuregi"
+      - "Tsoluregi"
       - "Ikentsis"
-      - "Mozkarris"
+      - "Mozkarreta"
       - "Betsuris"
       - "Kanarris"
       - "Ularris"
-      - "Ugarris"
+      - "Ugarreta"
   sounds:
     edges:
-      - {edge: openCluster, sounds: [pr, tr, kr, br, dr, gr, thr, khr, hr]}
-      - {edge: closeConsonant, sounds: [k, ks, n, r, s, th]}
+      - {edge: openCluster, sounds: [pr, tr, kr, br, dr, gr, thr, hr]}
+      - {edge: closeConsonant, sounds: [d, k, l, n, r, s, th, ts]}
     clusters: {max: 3}
   soundChanges:
     - name: From ancient Vylari
@@ -1618,7 +1590,7 @@ data:
     - {name: Alvarik Árenthar, tongue: tarveni}
     - {name: Ánira Órseneth, tongue: tarveni}
     - {name: Banrik Káriselda, tongue: tarveni}
-    - {name: Dálina Valaron, tongue: tarveni}
+    - {name: Dálena Valaron, tongue: tarveni}
     - {name: Dometh Ornethran, tongue: tarveni}
     - {name: Élsaro Durgana, tongue: tarveni}
     - {name: Estara Sánriseth, tongue: tarveni}
@@ -1782,69 +1754,69 @@ data:
     - {name: The Calling of the Roll, tongue: translation}
     - {name: The Adept and the Hail, tongue: translation}
     - {name: How Dúrgalis Paid for Its Liars, tongue: translation}
-    - {name: Belartsa, tongue: tarveni, built: [belartsa]}
-    - {name: Lírkeza, tongue: tarveni, built: [lírkeza]}
-    - {name: Ozkarre, tongue: tarveni, built: [ozkarre]}
+    - {name: Belartsa, tongue: tarveni, built: [belarts]}
+    - {name: Lírkeza, tongue: tarveni, built: [lirka]}
+    - {name: Ozkarre, tongue: tarveni, built: [ozkar]}
     - {name: Kotsude, tongue: tarveni, built: [kotsude]}
-    - {name: Kanarrek, tongue: tarveni, built: [kanarrek]}
+    - {name: Kanarrek, tongue: tarveni, built: [kanrek]}
     - {name: Beruzta, tongue: tarveni, built: [beruzta]}
     - {name: Ornetho Iltheris, tongue: tarveni}
     - {name: Bishop Ornetho, tongue: translation}
     - {name: Ilthero Zedimis, tongue: tarveni}
     - {name: King Ilthero III, tongue: translation}
     - {name: King Ilthero, tongue: translation}
-    - {name: Gaimelo Korvathandis, tongue: tarveni}
-    - {name: Father Gaimelo, tongue: translation}
+    - {name: Gaimel Korvathandis, tongue: tarveni}
+    - {name: Father Gaimel, tongue: translation}
     - {name: Dorándaro Orthemandis, tongue: tarveni}
     - {name: Alderman Dorándaro Orthemandis, tongue: translation}
     - {name: Alderman Dorándaro, tongue: translation}
     - {name: Oltrema Lizelis, tongue: tarveni}
     - {name: Lady Oltrema Lizelis, tongue: translation}
-    - {name: Nizelo Ganotis, tongue: tarveni}
-    - {name: Lord Nizelo Ganotis, tongue: translation}
-    - {name: Lord Nizelo, tongue: translation}
+    - {name: Nizel Ganotis, tongue: tarveni}
+    - {name: Lord Nizel Ganotis, tongue: translation}
+    - {name: Lord Nizel, tongue: translation}
     - {name: Zekudi Ornetis, tongue: tarveni}
     - {name: Guard Captain Zekudi, tongue: translation}
-    - {name: Zenotha Ulmeris, tongue: tarveni}
-    - {name: Lady Zenotha Ulmeris, tongue: translation}
+    - {name: Zenotha Ulmis, tongue: tarveni}
+    - {name: Lady Zenotha Ulmis, tongue: translation}
     - {name: Lady Zenotha, tongue: translation}
     - {name: Ervotho Tholmaris, tongue: tarveni}
     - {name: Lord Ervotho Tholmaris, tongue: translation}
     - {name: Herald Emeritus, tongue: translation}
     - {name: Ilthera Hiltheris, tongue: tarveni}
     - {name: Magistrate Ilthera, tongue: translation}
-    - {name: Tharozo Brazemis, tongue: tarveni}
+    - {name: Tharozo Brazis, tongue: tarveni}
     - {name: Lord Tharozo, tongue: translation}
     - {name: Thélvara Volkemis, tongue: tarveni}
     - {name: Priestess-Keeper Thélvara, tongue: translation}
-    - {name: Volkemo Kaldremis, tongue: tarveni}
+    - {name: Volkemo Kaldris, tongue: tarveni}
     - {name: Duke Volkemo, tongue: translation}
-    - {name: Garrutsa Galtsuris, tongue: tarveni}
+    - {name: Garrutsa Galtsuregi, tongue: tarveni}
     - {name: Smuggling Magnate Garrutsa, tongue: translation}
-    - {name: Orthemo Tsukurris, tongue: tarveni}
-    - {name: Captain Orthemo Tsukurris, tongue: translation}
+    - {name: Orthemo Tsukurreta, tongue: tarveni}
+    - {name: Captain Orthemo Tsukurreta, tongue: translation}
     - {name: Captain Orthemo, tongue: translation}
-    - {name: Hilthera Tsoluris, tongue: tarveni}
-    - {name: Lady Hilthera Tsoluris, tongue: translation}
+    - {name: Hilthera Tsoluregi, tongue: tarveni}
+    - {name: Lady Hilthera Tsoluregi, tongue: translation}
     - {name: Master of Commerce, tongue: translation}
     - {name: Dúrreka Ikentsis, tongue: tarveni}
     - {name: Lady Merchant Dúrreka, tongue: translation}
     - {name: Zédima Zenothis, tongue: tarveni}
-    - {name: Bedarrek Mozkarris, tongue: tarveni}
+    - {name: Bedarrek Mozkarreta, tongue: tarveni}
     - {name: Merchant-Lord Bedarrek, tongue: translation}
     - {name: Thaluro Zenothis, tongue: tarveni}
     - {name: Archbishop Thaluro Zenothis, tongue: translation}
     - {name: Archbishop Thaluro, tongue: translation}
     - {name: Brazema Betsuris, tongue: tarveni}
     - {name: Captain-Admiral Brazema, tongue: translation}
-    - {name: Tholmaro Gútharen, tongue: tarveni}
-    - {name: Captain Tholmaro Gútharen, tongue: translation}
-    - {name: Captain Tholmaro, tongue: translation}
-    - {name: Zurgade Ugarris, tongue: tarveni}
+    - {name: Tholmar Gútharen, tongue: tarveni}
+    - {name: Captain Tholmar Gútharen, tongue: translation}
+    - {name: Captain Tholmar, tongue: translation}
+    - {name: Zurgade Ugarreta, tongue: tarveni}
     - {name: Lord Zurgade of Thornhill Manor, tongue: translation}
     - {name: Lord Zurgade, tongue: translation}
-    - {name: Nebralo Ozkuris, tongue: tarveni}
-    - {name: Sir Nebralo Ozkuris, tongue: translation}
+    - {name: Nebralo Ozkuregi, tongue: tarveni}
+    - {name: Sir Nebralo Ozkuregi, tongue: translation}
     - {name: Sir Nebralo, tongue: translation}
     - {name: Kotsude Kanarris, tongue: tarveni}
     - {name: Ser Kotsude, tongue: translation}
@@ -1950,7 +1922,7 @@ sohl:
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Pelwar}}
 
-# terran_analog: Tarveni is patterned on Castilian in tone (hard finals kept, stressed short vowels broken to ie and ue, consonants voiced between vowels, one acute on every word of two syllables or more) over an older mountain speech shaped like Basque (the trilled rr, the ts, no f, no initial r), in the way Castilian grew up against the Basque country. Its earth mother and the dead who walk the roads at night are patterned on Mari and on the Galician night procession; their words, like every substrate word, are coined to the old speech's shape and checked against Earth word lists, Basque among them. Every inherited word is derived by the tables below from an ancient Vylari root.
+# terran_analog: Tarveni is patterned on Castilian in tone (hard finals kept, stressed short vowels broken to ie, consonants voiced between vowels, an acute only where stress moves off the guide's rule) over an older mountain speech shaped like Basque (the trilled rr, the ts, no f, no initial r), in the way Castilian grew up against the Basque country. Its earth mother and the dead who walk the roads at night are patterned on Mari and on the Galician night procession; their words, like every substrate word, are coined to the old speech's shape and checked against Earth word lists, Basque among them. Every inherited word is derived by the tables below from an ancient Vylari root.
 ---
 
 Tarveni is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Tarveni, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
@@ -1967,23 +1939,23 @@ The language varies significantly across the kingdoms and city-states of [[place
 
 ## How Tarveni sounds
 
-Tarveni is blunt and hard-edged. It keeps its final consonants, trills its _rr_, and carries an older mountain speech under it.
+Tarveni is blunt and hard-edged. Its everyday words are short, two syllables most often and some only one; its learned and built words run to four and five, and its names to two or three. It keeps its final consonants, trills its _rr_, and carries an older mountain speech under it.
 
-**The vowels.** _a_, _e_, _o_, _i_ and _u_ are all short and firm. _ie_ and _ue_ stand where a stressed vowel breaks, with both letters sounded.
+**The vowels.** _a_, _e_ and _o_ lead; _i_ and _u_ are fewer. Each is short and firm. _ie_ stands where a stressed vowel breaks, said as one syllable, as in _kiézilo_ and _Lienrik_.
 
-**The consonants.** _rr_, _ts_, _z_, _k_, _d_, _b_, _g_ and _th_ are its mark. _th_ is the sound of _thin_, as in _ornetho_.
+**The consonants.** _r_, _n_, _l_ and _s_ are common, and the stops _d_, _k_, _t_, _b_ and _g_ carry the weight between them; _d_ stands between vowels and at the end of a verb (_odeth_, _lokad_). _th_ is the sound of _thin_ and is used sparingly, as in _korvath_. _z_, _ts_ and _rr_ belong above all to the mountain words and the old houses (_garrunda_, _ukuts_, _Tsukurreta_).
 
-**Clusters.** _rr_, _ts_, _nd_, _rk_ and _lth_ meet inside a word. A word may close on _-k_, _-th_, _-r_ or _-s_.
+**Clusters.** Two consonants meet inside a word: _rr_, _nd_, _mb_, _rk_, _ld_, _lt_, and a stop before _r_ (_sembro_, _tavre_, _thidro_). Where _m_ meets _r_ in an inherited word, a _b_ stands between them (_sembro_, _kombra_); the learned _zemrolo_ keeps the empire's spelling.
 
-**Endings.** Tarveni words end in _-o_, _-a_, _-ek_, _-ar_, _-is_ or _-eth_.
+**Endings.** A word ends on _-o_, _-a_ or _-e_ (_orne_, _tavre_), or on _-n_, _-r_, _-l_, _-s_, _-d_ or _-th_ (_orhen_, _ulmer_, _lizel_, _nelmis_, _lokad_, _korvath_). Verbs end in _-ad_, _-ed_ or _-id_. The mountain words also end on _-k_ and _-ts_ (_zork_, _ukuts_). Women's names end in _-a_; men's in _-o_, _-ek_ or a consonant (_Thelvar_, _Hilther_, _Oztuk_). Houses end in _-is_ or _-andis_, and the old mountain houses in _-eta_ or _-egi_ (_Ugarreta_, _Ozkuregi_).
 
-**What Tarveni leaves out.** It has no _f_, no _r_ at the start of a word, and no _kh_, _gh_ or _ph_. It has no acute except where stress moves off the guide's rule.
+**What Tarveni leaves out.** It has no _f_, no _r_ at the start of a word, and no _kh_, _gh_, _ph_ or _dh_. No word ends on _m_, _p_, _t_, _b_, _g_, _v_ or _z_. It has no acute except where stress moves off the guide's rule.
 
 ## Phonology
 
-Tarveni employs a rich inventory of consonants with strong distinctions between voiced and unvoiced, and particularly emphasizes uvular fricatives and strong rhotic consonants:
+Tarveni employs a rich inventory of consonants with strong distinctions between voiced and unvoiced, and particularly emphasizes strong rhotic consonants:
 
-**Consonants:** The language features a prominent rolled /r/ (rr represents the strongest form), a uvular fricative /kh/ that marks educated or emphatic speech, and a strong distinction between dental and alveolar stops (d/t). Initial consonant clusters are common and often pronounced with clarity (_tr-, dr-, kr-, gr-_). Word-final consonants are regularly preserved, unlike in Provenzal.
+**Consonants:** The language features a prominent rolled /r/ (rr represents the strongest form) and a strong distinction between dental and alveolar stops (d/t). Initial consonant clusters are common and often pronounced with clarity (_tr-, dr-, kr-, gr-_). Word-final consonants are regularly preserved, unlike in Provenzal.
 
 **Vowels:** Tarveni maintains five vowels (a, e, i, o, u) with less systematic length distinction than Vylari. Stress is phonemic—the placement of stress often distinguishes otherwise identical words. The language uses diphthongs sparingly and with specific meanings.
 
@@ -2025,20 +1997,20 @@ The political fragmentation of Tarvénia into competing kingdoms prevented the l
 
 ## Sample Phrases
 
-"Honrik vokath dun korath drengaken."
-: "Honrik speaks with a warrior's heart." (A compliment implying authenticity and strength; _vokath_ "speaks," _dun_ "with," _korath_ "heart," _drengaken_ "warrior's," from _drengako_ "warrior.")
+"Ath daro thaurad ath goitsa."
+: "The sworn man keeps the oath stone." (A compliment implying that a man can be trusted; _ath_ "the," _daro_ "a sworn man," _thaurad_ "to keep," _goitsa_ "an oath stone.")
 
-"Pra grandhen ek pra therrath!"
-: "For honor and for the land!" (Battle cry or oath; _pra_ "for," _grandhen_ acc. of _grandh_ "honor," _ek_ "and," _therrath_ acc. of _therrá_ "land.")
+"Orhen ek orma!"
+: "A debt of honor and the land!" (Battle cry or oath; _orhen_ "a debt of honor," _ek_ "and," _orma_ "land.")
 
-"Kothren meru, ath predhen est enthráth nos."
-: "My brother, peace is between us." (Formal reconciliation or alliance; _kothren_ "brother," _merro_ possessive, _predhen_ "peace," _enthráth_ "between.")
+"Kothren meru, en dokad dun ko."
+: "My brother, I speak with you." (Formal reconciliation or alliance; _kothren_ "brother," _meru_ "my," _en_ "I," _dokad_ "to speak," _dun_ "with," _ko_ "you.")
 
-"Don est ath verath?"
-: "Where is the truth?" (Philosophical question, also used ironically; _don_ "where," _verath_ "truth.")
+"Ath ked tigad enthráth ath thol ek ath orneth."
+: "The sheep goes between the lake and the mountain." (An everyday sentence of the high valleys; _ked_ "a sheep," _tigad_ "to go," _enthráth_ "between," _thol_ "a lake," _ek_ "and," _orneth_ "a mountain.")
 
-"Ath kavren thorren dath ath vilkrath nostren gárevarren."
-: "The river runs like the blood of our ancestors." (Poetic usage connecting land to people; _kavren_ "river," _thorren_ "runs," _vilkrath_ "blood," _gárevarren_ "ancestors.")
+"Ath ulmer tigad dun ath brud."
+: "The water goes with the blood." (Poetic usage connecting land to people; _ulmer_ "water," _tigad_ "to go," _dun_ "with," _brud_ "blood.")
 
 ## Related Languages
 
@@ -2056,19 +2028,19 @@ Tarvenan women frequently retain their birth names after marriage, and in some k
 
 ## Male Given Names
 
-Kanarrek, Ularrek, Ugarrek, Bedarrek, Kotsude, Zurgade, Thélvaro, Ervotho, Zédimo, Zenotho, Orthemo, Ilthero, Thaluro, Nizelo, Korvatho, Ornetho, Ganotho, Oztuka, Garrutsa, Zekudi, Tharozo, Gulmaleno, Dorándaro, Gaimelo, Kaldremo, Brazemo, Volkemo, Tholmaro, Nebralo, Alzemo, Oltremo, Hilthero
+Kanarrek, Ularrek, Ugarrek, Bedarrek, Kotsude, Zurgade, Thelvar, Ervotho, Zedmo, Zenoth, Orthemo, Ilthero, Thaluro, Nizel, Korvath, Ornetho, Ganoth, Oztuk, Garrutsa, Zekudi, Tharozo, Gulmaleno, Dorándaro, Gaimel, Kaldro, Brazemo, Volkemo, Tholmar, Nebralo, Alzemo, Oltremo, Hilther
 
 ## Female Given Names
 
-Ilthera, Lizela, Ulmera, Kolsama, Tholmara, Kaldrema, Hilthera, Prámiza, Oltrema, Volkema, Brazema, Nelama, Hurada, Alzema, Thélvara, Ervotha, Zédima, Zenotha, Orthema, Thalura, Nizela, Dorándara, Galtsura, Tsukurra, Zoldura, Ozkura, Tsolura, Dúrreka, Ikentsa, Mozkarra, Itsurre, Betsura, Tsalaza, Átseka, Garrunda
+Ilthera, Lizela, Ulma, Kolsa, Tholma, Kaldra, Hilthera, Prámiza, Oltrema, Volkema, Brazema, Nelma, Hurda, Alzema, Thélvara, Ervotha, Zédima, Zenotha, Orthema, Thalura, Nizela, Dorándara, Galtsa, Tsukurra, Zolta, Ozka, Tsola, Dúrreka, Ikentsa, Mozkarra, Itsurre, Betsa, Tsala, Átseka, Garrunda
 
 ## Clan Names
 
-Ervothandis, Zedimis, Zenothis, Orthemandis, Iltheris, Thaluris, Korvathandis, Ornetis, Ganotis, Thelvaris, Kaldremis, Tholmaris, Brazemis, Volkemis, Lizelis, Ulmeris, Hiltheris, Oltremis, Garrundis, Galtsuris, Tsukurris, Zolduris, Ozkuris, Tsoluris, Ikentsis, Mozkarris, Betsuris, Kanarris, Ularris, Ugarris
+Ervothandis, Zedimis, Zenothis, Orthemandis, Iltheris, Thaluris, Korvathandis, Ornetis, Ganotis, Thelvaris, Kaldris, Tholmaris, Brazis, Volkemis, Lizelis, Ulmis, Hiltheris, Oltris, Garrundeta, Galtsuregi, Tsukurreta, Zolduregi, Ozkuregi, Tsoluregi, Ikentsis, Mozkarreta, Betsuris, Kanarris, Ularris, Ugarreta
 
 ## Tarveni Lexicon {#lexicon}
 
-On the road down from the passes a company is coming home. The captain is _thrumar_ and the men are sworn to him for the season, _daro_, sworn men, by the contract, _semnalis_, that every one of them can recite. In the villages they pass, a lantern stands on each threshold, because it is the season when the dead walk the roads, and every word the villagers have for that is older than the tongue the company speaks.
+On the road down from the passes a company is coming home. The captain is _thrumar_ and the men are sworn to him for the season, _daro_, sworn men, by the contract, _semna_, that every one of them can recite. In the villages they pass, a lantern stands on each threshold, because it is the season when the dead walk the roads, and every word the villagers have for that is older than the tongue the company speaks.
 
 This is the word-hoard of Tarveni, the tongue of the Tarvenans. It is the daughter of ancient Vylari that kept the most of the ancestor's grammar after the empire's own speech: three genders. It kept them with help. Before the Pelwar came into the peninsula the mountains had a speech of their own, and that speech settled into Tarveni as the empire's never did, leaving its trilled _rr_, its _ts_, and a store of words for the high country, the flocks, and a goddess older than any of the Aureldian gods. This page gives every word with its source, the rules that make an ancient word Tarveni, the shape every word of the old speech keeps, and the few words taken back from the empire and from [[place-provenzrgn|Provenzia]].
 
@@ -2117,7 +2089,7 @@ FROM clusters WHERE language = 'thalorna-note-skill-tarvenlng'
 
 ## From ancient Vylari {#from-ancient-vylari}
 
-Tarveni takes each word from its ancient form, and ten changes, in this order, make a Tarveni word of it. The plain stops `p`, `t` and `k` were voiced between vowels, to `b`, `d` and `g`; only then did the clicked stops lose their click, becoming the plain `t` and `k` that had just been emptied, so the ancient difference between a plain stop and a clicked one survives as the difference between a voiced and a voiceless one. So _sokata_ (a tax) is _sókada_, and _k'aralzon_ (the kept fire) is _karalzo_ with its `k` hard. The breathed `ph` became `h`, `dh` and `gh` lost their breath, `x` became `ks`; `w` became `v`, and `y` fell at the start of a word and became `i` elsewhere. A short `e` or `o` that took the stress in an open syllable broke into `ie` or `ue`. The ancient endings lost their `s` and their length, and every long vowel shortened. The ancient stress stayed where it was.
+Tarveni takes each word from its ancient form, and ten changes, in this order, make a Tarveni word of it. The plain stops `p`, `t` and `k` were voiced between vowels, to `b`, `d` and `g`; only then did the clicked stops lose their click, becoming the plain `t` and `k` that had just been emptied, so the ancient difference between a plain stop and a clicked one survives as the difference between a voiced and a voiceless one. So _sokatos_ (a tax farmer) is _sokedo_, and _k'aralzon_ (the kept fire) is _karalzo_ with its `k` hard. The breathed `ph` became `h`, `dh` and `gh` lost their breath, `x` became `ks`; `w` became `v`, and `y` fell at the start of a word and became `i` elsewhere. A short `e` or `o` that took the stress in an open syllable broke into `ie` or `ue`. The ancient endings lost their `s` and their length, and every long vowel shortened. The ancient stress stayed where it was.
 
 ### Sound changes
 
@@ -2134,7 +2106,7 @@ The speech the Pelwar found in the mountains left no inscription and no name for
 
 ## The learned and borrowed words {#the-learned-and-borrowed-words}
 
-A few words came back into the tongue from the empire's schools and temples, in the empire's spelling, keeping the `z` the imperial tongue made of an ancient `dh` and the hard stops it never voiced: the inherited altar is _kurdalis_ and the learned one _kurzalis_. A handful more came up the coast from Provenzia with its songs and its silk.
+A few words came back into the tongue from the empire's schools and temples, in the empire's spelling, keeping the `z` the imperial tongue made of an ancient `dh` and the hard stops it never voiced: the inherited altar is _kur_ and the learned one _kurzalis_. A handful more came up the coast from Provenzia with its songs and its silk.
 
 ### Vylari loans
 
@@ -2158,61 +2130,61 @@ ORDER BY step_position
 
 ### The word given
 
-A Tarvenan owes the word he gave before he owes anything else, because it is the only thing about him another man can rely on, and the oath words are the oldest and plainest in the tongue. The contract a company signs is _semnalis_, the word the empire uses for any binding between two parties. A man under one is _daro_, a sworn man, and the ancient word for one under an oath is the word every Tarvenan mercenary is called by abroad.
+A Tarvenan owes the word he gave before he owes anything else, because it is the only thing about him another man can rely on, and the oath words are the oldest and plainest in the tongue. The contract a company signs is _semna_, the word the empire uses for any binding between two parties. A man under one is _daro_, a sworn man, and the ancient word for one under an oath is the word every Tarvenan mercenary is called by abroad.
 
-Breaking a contract is worse than cowardice, because cowardice is a fact about one man and a broken contract is a fact about everyone who marched with him. The penalty is _kuthreza_; the guilt is _damolis_, and it attaches to the company's name and not only to its captain's. The oath itself is sworn on a stone older than the tongue, a _goitsara_, and that word is not Pelwar at all.
+Breaking a contract is worse than cowardice, because cowardice is a fact about one man and a broken contract is a fact about everyone who marched with him. The penalty is _kuthra_; the guilt is _damla_, and it attaches to the company's name and not only to its captain's. The oath itself is sworn on a stone older than the tongue, a _goitsa_, and that word is not Pelwar at all.
 
 ### The company and the trade of arms
 
-Taking pay for arms carries no shame in Tarvénia, and the tongue's war words are the ones a hired company uses. _Thrámezo_, a legion in the empire's speech, is a company: a captain and the men who have sworn to him for a season. The captain is _thrumar_. The companion who rides beside him, _holvetho_, is kin in every way that operates day to day, whatever the blood.
+Taking pay for arms carries no shame in Tarvénia, and the tongue's war words are the ones a hired company uses. _Thramo_, a legion in the empire's speech, is a company: a captain and the men who have sworn to him for a season. The captain is _thrumar_. The companion who rides beside him, _holvo_, is kin in every way that operates day to day, whatever the blood.
 
-Most of the company's gear keeps its inherited name. The bow, _gáimela_, names the crossbow every Tarvenan company is known for abroad, and the sling, _lírkeza_, is still the herd boy's first weapon. The return from a contract with money in hand is _velzora_, the word the empire keeps for a general's triumph.
+Most of the company's gear keeps its inherited name. The bow, _gaima_, names the crossbow every Tarvenan company is known for abroad, and the sling, _lirka_, is still the herd boy's first weapon. The return from a contract with money in hand is _velza_, the word the empire keeps for a general's triumph.
 
 ### The household
 
-A household runs for years at a time without its men, and the word for the one who runs it, _zorko_, takes no notice of whether that is a husband or a wife. The household absorbs cousins, fosterlings and the veteran of a dead brother's company, and the tongue has words for all of them. _Aipsena_, which in the empire is a legal adoption, is the taking of anyone into a household, and _sorethis_, those of one blood, is used with a straight face of people who share none.
+A household runs for years at a time without its men, and the word for the one who runs it, _zork_, takes no notice of whether that is a husband or a wife. The household absorbs cousins, fosterlings and the veteran of a dead brother's company, and the tongue has words for all of them. _Aipsa_, which in the empire is a legal adoption, is the taking of anyone into a household, and _sora_, those of one blood, is used with a straight face of people who share none.
 
 ### Kings, councils and the free city
 
-A Tarvenan wants a king weak enough to be argued with, and the vocabulary of government is the empire's vocabulary with the edges filed off. The kingdom is _orzalo_ and to rule is _orzathen_, but the free city's council, _kurthema_, and its vote, _dilmara_, are the words a Tarvenan says with pride. The tax farmer, _sokado_, is no more welcome here than a mage.
+A Tarvenan wants a king weak enough to be argued with, and the vocabulary of government is the empire's vocabulary with the edges filed off. The kingdom is _orzo_ and to rule is _orzad_, but the free city's council, _kurtha_, and its vote, _dil_, are the words a Tarvenan says with pride. The tax farmer, _sokedo_, is no more welcome here than a mage.
 
 ### The village and its shrine
 
-A village keeps its shrine, its own priest who is usually a local man, and its own festival calendar, and resists any attempt to regularize any of the three. The shrine words are inherited and plain: _sarkeno_, a priest, _nekaimo_, a wayside shrine, _kurdalis_, an altar. The learned _kurzalis_, the same word in the empire's spelling, means an altar in a great temple, and a Tarvenan uses it of the temple establishments he is cool toward.
+A village keeps its shrine, its own priest who is usually a local man, and its own festival calendar, and resists any attempt to regularize any of the three. The shrine words are inherited and plain: _sarko_, a priest, _nekai_, a wayside shrine, _kur_, an altar. The learned _kurzalis_, the same word in the empire's spelling, means an altar in a great temple, and a Tarvenan uses it of the temple establishments he is cool toward.
 
 ### The old mountain speech
 
 Before the Pelwar came into the peninsula the mountains had a speech of their own, and the Tarvenans call it nothing more than the old mountain speech. Its people left no history that anyone has found, and their words are still in Tarveni, thickest in the high valleys of [[place-asturath|Asturath]] and the marches. They hold the trilled _rr_ and the _ts_ that no inherited word has, and they never open on _r_ or carry an _f_ or a _p_.
 
-Under the gods of the [[affiliation-arldnpnthn|Aureldian pantheon]] the mountain villages keep an older one, and every word for her is from this speech. She is _menutsa_, the Mother, and she is kept in caves, _ikórrata_, where offerings, _itsarde_, are left at the mouth. Her wise-women, _tsingarra_, are the village healers a Tarvenan tolerates and [[affiliation-ordoarcanis|Thordimalon]]'s mage he does not. On certain nights the dead of a valley walk the roads in a line with a light carried before them, the _gatsera_, and a house sets an _ezkobe_, a lantern for the dead, on its threshold, _belartsa_, so that they pass by.
+Under the gods of the [[affiliation-arldnpnthn|Aureldian pantheon]] the mountain villages keep an older one, and every word for her is from this speech. She is _menutsa_, the Mother, and she is kept in caves, _ikorra_, where offerings, _itsarde_, are left at the mouth. Her wise-women, _tsinga_, are the village healers a Tarvenan tolerates and [[affiliation-ordoarcanis|Thordimalon]]'s mage he does not. On certain nights the dead of a valley walk the roads in a line with a light carried before them, the _gatsa_, and a house sets an _ezkobe_, a lantern for the dead, on its threshold, _belarts_, so that they pass by.
 
 The high country's own words are here too: the peaks and the scree, the mountain storm and the hail, the ewe, the ram, the bell on the bellwether and the shepherd who drives the flock up to the summer meadow.
 
 ### Land, the high country and the weather
 
-The inherited land words are the lowland farmer's: field, harvest, valley, lake. The mountains have the old speech's words for their parts, and the inherited _ornetho_ is a mountain only as seen from below. A pass is _ganotho_, the word the Áelendan kept as the name element _gan_.
+The inherited land words are the lowland farmer's: field, harvest, valley, lake. The mountains have the old speech's words for their parts, and the inherited _orneth_ is a mountain only as seen from below. A pass is _gando_, the word the Áelendan kept as the name element _gan_.
 
 ### The body, life and death
 
-A people this heavily armed has a short and exact vocabulary for wounds, and a longer one, from the old mountain speech, for what the dead do afterward. The inherited words are the ones a company's surgeon uses: _brudamis_, blood, _írthezo_, a wound, _irthezo_, the man who closes one.
+A people this heavily armed has a short and exact vocabulary for wounds, and a longer one, from the old mountain speech, for what the dead do afterward. The inherited words are the ones a company's surgeon uses: _brud_, blood, _irtho_, a wound, _irthezo_, the man who closes one.
 
 ### Coin and trade
 
-Money flows home from other people's wars, and a village of no importance can be surprisingly well supplied. The trade words are inherited and few; the moneylender, _hezumo_, lends against a contract as readily as against land.
+Money flows home from other people's wars, and a village of no importance can be surprisingly well supplied. The trade words are inherited and few; the moneylender, _hezmo_, lends against a contract as readily as against land.
 
 ### Craft and the forge
 
-[[affiliation-sacredforge|The Sacred Forge]] is honored here, and the smith who makes a company's blades is a man of standing. _Thúmbalis_ is a forge and _thalbezo_ steel.
+[[affiliation-sacredforge|The Sacred Forge]] is honored here, and the smith who makes a company's blades is a man of standing. _Thumba_ is a forge and _talbo_ steel.
 
 ### Speech, song and the learned
 
-Tarveni is a language of assertion, and a speech, _dokemo_, is said plainly or not at all. The learned words keep the uvular _kh_ that marks an educated speaker, and a few came back from the empire's schools. Magic is _thórdima_ and a mage _thordimo_, a word said with the distaste kept for a tax farmer, _sokado_.
+Tarveni is a language of assertion, and a speech, _dokme_, is said plainly or not at all. A few learned words came back from the empire's schools. Magic is _thórdima_ and a mage _thordimo_, a word said with the distaste kept for a tax farmer, _sokedo_.
 
 The deeds of a company are recited in _oldemo_, a history, the word the empire uses for a book; in Tarvénia it is a long poem sung after supper by someone who was there. The learned _olzemo_, the same word in the empire's spelling, is a chronicle written down, and the two are not thought to be the same kind of thing.
 
 ### Towns, holdings and the road
 
-A Tarvenan holding is _komrelalo_, the land and the house together, run by whoever is home. The manor at its heart is _komrela_, which in the empire is a villa. The towns are smaller than Provenzia's and older, with an arch, _kambelo_, over the road in and a square, _embalis_, inside it where a free city's council meets in the open.
+A Tarvenan holding is _kombrelalo_, the land and the house together, run by whoever is home. The manor at its heart is _kombra_, which in the empire is a villa. The towns are smaller than Provenzia's and older, with an arch, _kambelo_, over the road in and a square, _emba_, inside it where a free city's council meets in the open.
 
 ### The coast and the sea
 
@@ -2220,15 +2192,15 @@ The [Galvari coast]{.name data-type="place/feature"} and the free port of [[plac
 
 ### Time and the year
 
-Every village keeps its own festival calendar, _lordemo_ by _lordemo_, and resists every attempt to make it agree with the next valley's.
+Every village keeps its own festival calendar, _lordo_ by _lordo_, and resists every attempt to make it agree with the next valley's.
 
 ### Qualities
 
-The quality a Tarvenan most wants named in him is _ervotho_, free.
+The quality a Tarvenan most wants named in him is _ervo_, free.
 
 ### Doing, going and being
 
-A verb is cited by its infinitive, and every inherited verb closes on the old infinitive ending.
+A verb is cited by its infinitive, and every verb closes on _-ad_, _-ed_ or _-id_.
 
 ### Numbers and grammar words
 

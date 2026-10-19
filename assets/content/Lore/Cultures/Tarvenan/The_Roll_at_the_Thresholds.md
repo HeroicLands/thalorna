@@ -15,7 +15,7 @@ data:
 # terran_analog: "The call-and-response of a military muster and of liturgy; the roll of the fallen answered by the living; the catalogue of the dead with a deed apiece; the oath renewed at the new year; and the blank kept in a list for a name erased, as on a monument where a name has been struck."
 ---
 
-**The Roll at the Thresholds** is said by a crossbow company of the valleys at its oath stone, the _goitsara_, on the first morning of the [Feast of Thresholds]{.name data-type="lore/gathering"} at the turning of the year ([[affiliation-ardavon|Faith of Árdavon]]), when the lords and vassals of the pantheon's faiths renew their bonds in the temples. The company keeps the feast the way its valley keeps it. The village priest stands by the stone as witness and says nothing until the end, and the captain calls the muster roll, the _therona_, from memory, because a company's roll is a thing carried in the captain's head and in the company's, and not in a book.
+**The Roll at the Thresholds** is said by a crossbow company of the valleys at its oath stone, the _goitsa_, on the first morning of the [Feast of Thresholds]{.name data-type="lore/gathering"} at the turning of the year ([[affiliation-ardavon|Faith of Árdavon]]), when the lords and vassals of the pantheon's faiths renew their bonds in the temples. The company keeps the feast the way its valley keeps it. The village priest stands by the stone as witness and says nothing until the end, and the captain calls the muster roll, the _therna_, from memory, because a company's roll is a thing carried in the captain's head and in the company's, and not in a book.
 
 The words are fixed and the names change. Each company says the roll of its own year: the living who marched, the dead who are answered for by the man who marched beside them, the names earned since the last feast and the boys who join. The roll below is the one the valleys teach a new captain, with the names of one company's year in it. A company that has struck a name from its roll, the _neharlo_, keeps the place where the name was and says nothing there, every year that anyone of the company who knew the name is still alive. The company in this roll had struck one.
 
@@ -62,26 +62,26 @@ Garrutsa, the Wolf.
 GARRUTSA
 Here, and kept.
 THE CAPTAIN
-Oztuka, the Crag.
-OZTUKA
+Oztuk, the Crag.
+OZTUK
 Here, and kept.
 THE CAPTAIN
 Átseka, the ewe, as the company has it, who is not gentle.
 ÁTSEKA
 Here, and kept.
 THE CAPTAIN
-Tsalaza, the Bell.
-TSALAZA
+Tsala, the Bell.
+TSALA
 Here. Kept. And loud.
 THE COMPANY
 And loud.
 THE CAPTAIN
-Ozkura, the Wind off the Peaks.
-OZKURA
+Ozka, the Wind off the Peaks.
+OZKA
 Here, and kept.
 THE CAPTAIN
-Betsura, the Cheese, who came home lighter than he went.
-BETSURA
+Betsa, the Cheese, who came home lighter than he went.
+BETSA
 Here, and kept, and lighter.
 THE CAPTAIN
 The sergeant.

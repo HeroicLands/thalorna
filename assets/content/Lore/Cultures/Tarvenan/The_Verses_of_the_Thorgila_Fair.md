@@ -223,7 +223,7 @@ The fair gave the bout to the Hail, and the Sling stamped for him with the rest.
 
 ## The Last Word {#last-word}
 
-At the end of a duel the theme-giver may set one word, and each singer sings one verse on it, and neither answers. The horse-judge gave the word _ervotho_, free, and the vowel of the word.
+At the end of a duel the theme-giver may set one word, and each singer sings one verse on it, and neither answers. The horse-judge gave the word _ervo_, free, and the vowel of the word.
 
 : The Last Word {#last-word-verses}
 

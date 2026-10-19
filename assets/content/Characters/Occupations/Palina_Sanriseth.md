@@ -426,12 +426,12 @@ Among the coastal nobility and merchant classes, Pálina is viewed as somewhat q
 **Patrons:**
 
 - [Magdalen Weaver]{.name data-type="being/npc"}, a widow who runs a small cloth-working shop employing a dozen women. She comes to Pálina monthly for blessings and counsel and has become something approaching a friend.
-- **Captain [[being-orthemotsuku|Orthemo Tsukurris]]**, a merchant captain who credits Pálina’s fertility blessing with his ability to father a child after years of childlessness. His family’s loyalty is fierce.
+- **Captain [[being-orthemotsuku|Orthemo Tsukurreta]]**, a merchant captain who credits Pálina’s fertility blessing with his ability to father a child after years of childlessness. His family’s loyalty is fierce.
 
 **Enemies:**
 
-- **Lord [[being-tharozobraze|Tharozo]]**, a wealthy merchant who approached Pálina for intimate counsel and was rebuffed. He views her rejection as an affront and has begun subtly undermining her reputation in higher circles, suggesting her work is beneath her station.
-- **Father [[being-gaimelokorva|Gaimelo]]**, an older priest of one of the twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] whose austere views of spirituality directly conflict with Ólvenia’s philosophy. He views Pálina as a corruptor of proper religious order and has been agitating for stricter oversight of temple activities in Herthema.
+- **Lord [[being-tharozobrazi|Tharozo]]**, a wealthy merchant who approached Pálina for intimate counsel and was rebuffed. He views her rejection as an affront and has begun subtly undermining her reputation in higher circles, suggesting her work is beneath her station.
+- **Father [[being-gaimelkorvat|Gaimel]]**, an older priest of one of the twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] whose austere views of spirituality directly conflict with Ólvenia’s philosophy. He views Pálina as a corruptor of proper religious order and has been agitating for stricter oversight of temple activities in Herthema.
 
 ## Plot Hooks
 

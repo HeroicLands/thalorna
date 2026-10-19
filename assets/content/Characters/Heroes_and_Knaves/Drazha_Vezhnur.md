@@ -519,7 +519,7 @@ High Blazewarden [Hadrik]{.name data-type="being/npc"}
 
 ### Enemies
 
-Sir [[being-nebraloozkuu|Nebralo Ozkuris]]
+Sir [[being-nebraloozkur|Nebralo Ozkuregi]]
 : A knight of the [[affiliation-ardavon|Faith of Árdavon]] in the [Order of the Righteous Path]{.name data-type="affiliation/order"}, sworn to protect the weak and uphold justice, Nebralo has crossed paths with Drazhan on several occasions. Their enmity began when Drazhan’s forces massacred an Árdavonian outpost, and Nebralo has since sworn to bring him to justice. The two are destined to clash again, as Nebralo sees in Drazhan everything he stands against.
 
 Sir [[being-zekaztrosusk|Zekáz Trosuskar]] of Nakarys the Scourge

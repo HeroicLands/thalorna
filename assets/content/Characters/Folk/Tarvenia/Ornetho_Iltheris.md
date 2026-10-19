@@ -1,5 +1,5 @@
 ---
-shortcode: ronethoilthe
+shortcode: ornethoilthe
 name: {full: Ornetho Iltheris, aliases: [Bishop Ornetho]}
 type: being
 subType: npc
