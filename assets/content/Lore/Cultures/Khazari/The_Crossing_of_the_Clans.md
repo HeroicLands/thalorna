@@ -1,6 +1,6 @@
 ---
 shortcode: clanscrossing
-name: {full: The Crossing of the Clans, aliases: [Sarghafudhál]}
+name: {full: The Crossing of the Clans, aliases: [Sargh-fudhál]}
 type: lore
 subType: literature
 description: "The Khazari deep song of their own beginning, sung below at the turning of the year: the lamp lit, the seven clans counted by name, the old realm named once, the crossing, a world found already standing, and the end left unknown."
@@ -8,22 +8,22 @@ tags: [draft, khazari]
 data:
   packFolder: settinglore
   culture: khazariclt
-  form: havadh
+  form: habad
   subjects: [lore-khazararrv, lore-flkkhazar, lore-goddreams, lore-khazariclt]
   language: khazarlng
 ---
 
-**The Crossing of the Clans**, _Sarghafudhál_, is the deep song (_havadh_) the [[lore-flkkhazar|Khazari]] sing of their own beginning, and a hold sings it once a year, below, on the night of the turning of the year (see [[lore-khazariclt|Khazari]]). The keepers of the archive read the year's craft-records first, and the lamps of the deepest hall are put out one at a time as the reading goes, so the song begins by the last lamp and ends when that lamp is put out and the hold climbs in the dark toward the face. The eldest masters sing it. The eldest present sings the courses of the lamp and the course of the old realm, and seven of the old sing the seven courses of the count, one clan each: [Summágh]{.name data-type="affiliation/lineage"}, [Dullák]{.name data-type="affiliation/lineage"}, [Rummák]{.name data-type="affiliation/lineage"}, [Gullád]{.name data-type="affiliation/lineage"}, [Vurrán]{.name data-type="affiliation/lineage"}, [Gurráz]{.name data-type="affiliation/lineage"} and [Lummáv]{.name data-type="affiliation/lineage"}, in that order, whether or not a house of that clan lives in the hold, so a hold with no house of Gurráz still hears Gurráz counted. A deep song is laid in courses, as a wall is, each line bonded to the line under it by taking up the same root in another shape, and the rendering below keeps that bond audible where it can. The song names the realm the seven left once, in the mouth of the eldest, and nobody younger says it that night; it gives the war there, and the rings forged in it, as the thing the clans fled; it says who went first through the crossing (see [[lore-khazararrv|the Coming of the Khazari]]) into [[place-worldthlrn|the World of Thalorna]], [Puthakun]{.name data-type="being/npc"}, who served [[lore-goddreams|the God of Dreams]] (Luváth) and had the seven swear before it, held the passage behind the last of them and sealed it, and which clan went last of the seven; and of the end of the world it says that nobody has read it.
+**The Crossing of the Clans**, _Sargh-fudhál_, is the deep song (_habad_) the [[lore-flkkhazar|Khazari]] sing of their own beginning, and a hold sings it once a year, below, on the night of the turning of the year (see [[lore-khazariclt|Khazari]]). The keepers of the archive read the year's craft-records first, and the lamps of the deepest hall are put out one at a time as the reading goes, so the song begins by the last lamp and ends when that lamp is put out and the hold climbs in the dark toward the face. The eldest masters sing it. The eldest present sings the courses of the lamp and the course of the old realm, and seven of the old sing the seven courses of the count, one clan each: [Summág]{.name data-type="affiliation/lineage"}, [Dullák]{.name data-type="affiliation/lineage"}, [Rummák]{.name data-type="affiliation/lineage"}, [Gullád]{.name data-type="affiliation/lineage"}, [Vurrán]{.name data-type="affiliation/lineage"}, [Gurráz]{.name data-type="affiliation/lineage"} and [Lummáv]{.name data-type="affiliation/lineage"}, in that order, whether or not a house of that clan lives in the hold, so a hold with no house of Gurráz still hears Gurráz counted. A deep song is laid in courses, as a wall is, each line bonded to the line under it by taking up the same root in another shape, and the rendering below keeps that bond audible where it can. The song names the realm the seven left once, in the mouth of the eldest, and nobody younger says it that night; it gives the war there, and the rings forged in it, as the thing the clans fled; it says who went first through the crossing (see [[lore-khazararrv|the Coming of the Khazari]]) into [[place-worldthlrn|the World of Thalorna]], [Puthakun]{.name data-type="being/npc"}, who served [[lore-goddreams|the God of Dreams]] (Lubát) and had the seven swear before it, held the passage behind the last of them and sealed it, and which clan went last of the seven; and of the end of the world it says that nobody has read it.
 
-The text is from a lead sheet in the hand form of [[skill-drthrkscrpt|Pirzath]], sold in a mountain market by a Khazár with no house name, which is how a song sung only below reaches a page at all: some exiles live by selling what a hold would not have sold. The sheet keeps the variant lines of more than one hold side by side, as the song itself does, and it is scored through in one place, where a line stood that the seller did not want read. No hold acknowledges the sheet. Luváth is the glow kept below, acknowledged in the song and not addressed by it; the veneration is Puthakun's, the one who brought the seven out alive, and the song pays it the way a hold pays anything, by counting. The song reckons the years since the crossing in its own count, a sixteen of great counts and great counts over that: more than 4,000 years, left unsummed on purpose. The whole hall answers each count with one word, and the indented lines in italics below are that answer; the indented lines that begin "Some holds sing" are the variant lines the sheet keeps side by side.
+The text is from a lead sheet in the hand form of [[skill-drthrkscrpt|Pirzath]], sold in a mountain market by a Khazár with no house name, which is how a song sung only below reaches a page at all: some exiles live by selling what a hold would not have sold. The sheet keeps the variant lines of more than one hold side by side, as the song itself does, and it is scored through in one place, where a line stood that the seller did not want read. No hold acknowledges the sheet. Lubát is the glow kept below, acknowledged in the song and not addressed by it; the veneration is Puthakun's, the one who brought the seven out alive, and the song pays it the way a hold pays anything, by counting. The song reckons the years since the crossing in its own count, a sixteen of great counts and great counts over that: more than 4,000 years, left unsummed on purpose. The whole hall answers each count with one word, and the indented lines in italics below are that answer; the indented lines that begin "Some holds sing" are the variant lines the sheet keeps side by side.
 
 : The Crossing of the Clans {#song}
 
-```poetry {form=havadh lang=en}
+```poetry {form=habad lang=en}
 The lamp is lit.
 Lit, the lamp is a lamp.
 Unlit, it is oil and a wick and a hand.
-Luváth is the glow, and the keeping.
+Lubát is the glow, and the keeping.
 Here it is kept. Here we are, below.
 The records are read. The year is read out.
 Now the song, laid as a course is laid,
@@ -41,9 +41,9 @@ Listening first. Record last. Between them, the work.
 That is the order of a day in the workings.
 That is the order of the count.
 
-Summágh.
+Summág.
 Listening, the listeners, the listened-for.
-Summágh listened before there was a stone here to listen to.
+Summág listened before there was a stone here to listen to.
 They went in front. In front of them went Puthakun.
 What they heard they did not say until they were sure.
 When they were sure they said one word: here.
@@ -150,7 +150,7 @@ The stone did not count us. We counted.
 Now the course under the first course.
 Under is where we did not cut. Under is where we were cut.
 We say the name once. The eldest says it.
-**Humadhan**. The middle place.
+**Humadan**. The middle place.
 It is said. It is not said again tonight,
 and next year it is not said by anyone younger.
 What is under that, we do not know.
@@ -162,7 +162,7 @@ and says no more of it than that, because we did not stay to the end of it.
 In that war, rings were forged.
 A ring, the ringing-round; what was ringed round was forced.
 Forced, the forcing; the forcing is the whole of what a ring does.
-**Dagarakurágh**: the ringing-round of forcing. One of them is a _kirghath_.
+**Dagar-kurág**: the ringing-round of forcing. One of them is a _kirgath_.
 Some of them were given to our forebears. Given.
 The forebears who were given them took them. The ones who took them were forced.
 We say forebears. We do not say the names.
@@ -177,12 +177,12 @@ The crossing. _Fadhal_.
 Crossed, the crossers, the crossing-place.
 The place was thin. Thin as the rock is thin
 where you can hear water on the far side of it.
-Summágh heard through it.
+Summág heard through it.
 Heard, the hearing; what was heard was a ring.
-Summágh tapped, and the wall rang thin, and rang hollow behind,
+Summág tapped, and the wall rang thin, and rang hollow behind,
 and the hollow behind rang long, as a hollow does that goes somewhere.
 A wall that rings long is a wall with a far side.
-Summágh tapped it the length of a day. The song says a day.
+Summág tapped it the length of a day. The song says a day.
 Nobody struck it. A struck wall is a wall you have decided about.
 Nobody had decided. Then Puthakun went in.
 Puthakun went in. Puthakun went first, and in front of the first, nothing.
@@ -206,7 +206,7 @@ Gurráz looked back and saw Puthakun, and saw nothing follow.
 When the last was through, Puthakun sealed the way.
 Sealed, the sealing, the sealed place; nothing was cut to shut it.
 Then Puthakun came through, after the last, and the way behind was wall.
-Summágh tapped it. It rang short.
+Summág tapped it. It rang short.
 
   Some holds sing: Puthakun carried the glow through,
   cupped, as a hand cups a lamp in a draught on a stair.
@@ -238,7 +238,7 @@ Slate, that flakes in the frost and is honest about it.
 A seep, where the rock sweats. A spring, where it weeps.
 Stone, with its grain. Water, with its course. Dark, with a glow kept in it.
 Puthakun read the face and said: here.
-Summágh heard it, and said it after: here.
+Summág heard it, and said it after: here.
 Those are the two words. The record has them in that order.
 
 We came in under the first overhang.
@@ -247,7 +247,7 @@ Lit, it was a lamp, as this one is.
 
 Before the second lamp, the deep.
 The deep, the deepening, the deepest place.
-Summágh went down before anyone slept twice,
+Summág went down before anyone slept twice,
 and found where the whole seven could be gathered and shut in,
 dry, with its own air moving, with water that came to it unasked.
 Found, it was readied. Readied, it was stocked.

@@ -74,9 +74,9 @@ hands.
 It reached further than craft. Both peoples honored [[lore-goddreams|the god of dreams]] together, or at
 least in parallel, under the accord's terms—and when the accord shattered, the shared rites shattered
 with it. The Khazari also venerate the god's servant
-[Puthakun]{.name data-type="being/npc"}, who led the seven clans out of [Humadhan]{.name data-type="place/world"} and saved their people (see [[lore-khazararrv|the Coming of the Khazari]]), and the
+[Puthakun]{.name data-type="being/npc"}, who led the seven clans out of [Humadan]{.name data-type="place/world"} and saved their people (see [[lore-khazararrv|the Coming of the Khazari]]), and the
 Sinale give him no honor at all. The two traditions have diverged so completely since that whether the Sinale's
-Aulveira and the Khazari's Luváth would recognize each other's rites is an
+Aulveira and the Khazari's Lubát would recognize each other's rites is an
 open question, and one neither race has any interest in answering.
 
 The end is not gradual. It is [[lore-fallkhazturn|the Fall of Khazartúrn]], and the two events are

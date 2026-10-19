@@ -11,7 +11,7 @@ data:
     - name: "fakar"
       definition: "A finding: a cave newly found, the first thing any hold has."
       common: true
-    - name: "famgadurákh"
+    - name: "bamg-durákh"
       definition: "A hold's refuge, deep in the rock, where its whole people can be sealed in."
       common: true
     - name: "gharp"
@@ -20,14 +20,14 @@ data:
     - name: "girm"
       definition: "Sixteen, the base of Khazari counting and its first round number."
       common: true
-    - name: "hutavar"
+    - name: "hutabar"
       definition: "A cistern, usually a hollow the rock already held."
       common: true
     - {name: "mullán", definition: "The silence kept over the dead.", common: true}
-    - name: "narvavutám"
+    - name: "narv-butám"
       definition: "A long tunnel cut along the grain that needs no prop; a miner's masterpiece."
       common: true
-    - name: "samgh"
+    - name: "samg"
       definition: "Listening, attention to stone, where every apprenticeship begins."
       common: true
     - {name: "tob", definition: "One.", common: true}
@@ -89,13 +89,13 @@ A hold aims at harmony with its mountain and makes no great effort to hide that 
 - **Smoke.** Flues follow natural fissures and let smoke disperse along the face, so a hold does not sit under a plume.
 - **Movement.** The passages are inside the rock, so the face carries no roads, switchbacks or tracks.
 - **Spoil.** Little is cut, so little spoil is made. What is removed is reused or carried away, never dumped as a scar on the mountain.
-- **Water.** Cisterns and natural seeps inside the mountain, fed by channels along existing watercourses. A hutavar, a cistern, is usually a hollow the rock already held.
+- **Water.** Cisterns and natural seeps inside the mountain, fed by channels along existing watercourses. A hutabar, a cistern, is usually a hollow the rock already held.
 
 ## Depth
 
 Depth carries weight. The deeper a space lies, the older, holier or more serious its purpose: shrines, tombs, mine workings, the _hukhard_ that is a hold's inmost hall, and the refuge all lie deep, and they are used less in daily life than the rooms near the light.
 
-Every hold keeps a **refuge**, a famgadurákh, deep in the rock, where the whole population can be gathered and sealed off from an attacker. It is provisioned with stored food and with shafts and channels for light and air, so the hold can hold out for a long time. Defense is always a consideration, and a hold's founding is not complete until its refuge is found and readied.
+Every hold keeps a **refuge**, a bamg-durákh, deep in the rock, where the whole population can be gathered and sealed off from an attacker. It is provisioned with stored food and with shafts and channels for light and air, so the hold can hold out for a long time. Defense is always a consideration, and a hold's founding is not complete until its refuge is found and readied.
 
 Ordinary life happens near the light, in the shallow homes and the courts between them. People go down into the mountain for funerals, festivals, oaths and worship, and in times of war or catastrophe. A Khazár who is asked to come down is being told that something serious is about to happen.
 
@@ -109,11 +109,11 @@ Before any cut, a worker listens. She taps the stone and hears how it rings, loo
 
 Mining is central to Khazari life. Ore and minerals are necessary and desirable, and freeing them from the stone is honorable work. It is done in an old and almost ritual manner, by techniques that do the stone as little harm as they can.
 
-Tunnels follow the rock's own lines, so the stone provides its own buttressing. That lets the Khazari drive long tunnels without timber or masonry supports, and a narvavutám, a long tunnel that needs no prop, is the miner's masterpiece. A mine that needs propping shows that the miners did not listen, and a prop, a _sakap_, is a mark of shame on the working and on the name in its record. The mines Khazari engineers lay out for [[affiliation-tantsouempr|Tantsou]] follow the rock in the same way and need no timber.
+Tunnels follow the rock's own lines, so the stone provides its own buttressing. That lets the Khazari drive long tunnels without timber or masonry supports, and a narv-butám, a long tunnel that needs no prop, is the miner's masterpiece. A mine that needs propping shows that the miners did not listen, and a prop, a _sakap_, is a mark of shame on the working and on the name in its record. The mines Khazari engineers lay out for [[affiliation-tantsouempr|Tantsou]] follow the rock in the same way and need no timber.
 
 ## Years of Listening
 
-Apprenticeship begins with listening, samgh. An apprentice, a _nabaf_, spends years learning to read stone (its kinds, its flaws, its stresses and its moods) before being trusted to strike it. The first years are spent sounding stone, following seams, watching masters decide where not to cut, and writing down what the stone did. An apprentice who asks too early for a hammer is told to listen another year, and taught the proverb _Dalkir sumágh-ak dalkam, dalkir khusáp-ak_: "the mason listens to the stone; the mason cuts little."
+Apprenticeship begins with listening, samg. An apprentice, a _nabaf_, spends years learning to read stone (its kinds, its flaws, its stresses and its moods) before being trusted to strike it. The first years are spent sounding stone, following seams, watching masters decide where not to cut, and writing down what the stone did. An apprentice who asks too early for a hammer is told to listen another year, and taught the proverb _Dalkir sumág dalk, dalkir khusáp_: "the mason listens to the stone; the mason cuts little."
 
 The ladder of a life follows the same order:
 
@@ -138,25 +138,25 @@ Her standing is her own. Khazari women carry beards as men do, hold the same cra
 
 ## Words for Stone, Two Forms of Letters
 
-The [[skill-khazarlng|Khazari tongue]] has a rich vocabulary for rock, fracture, water and the character of stone, as a seafaring people has many words for wind and sea. To follow a seam, _luváz_, is one verb, and the living rock, _madhak_, is one noun. The [[skill-khazarlng#lexicon|Khazari Lexicon]] holds the words. They count in sixteens, which halve to eight, four, two and one, so ore, stores and gate-shares divide among houses with no fraction left over.
+The [[skill-khazarlng|Khazari tongue]] has a rich vocabulary for rock, fracture, water and the character of stone, as a seafaring people has many words for wind and sea. To follow a seam, _lubáz_, is one verb, and the living rock, _madak_, is one noun. The [[skill-khazarlng#lexicon|Khazari Lexicon]] holds the words. They count in sixteens, which halve to eight, four, two and one, so ore, stores and gate-shares divide among houses with no fraction left over.
 
-[[skill-drthrkscrpt|Pirzath]] has two forms. **Carved Pirzath**, _dalkapuráz_, is for what must last: oaths, laws, tombs and the founding of a hold, cut in stone, metal or wood. Its strokes are short and angled across the grain, never along it, and its line of text follows a seam, bedding line or natural edge of the stone rather than a ruled baseline, so no inscription runs straight. Reading carved Pirzath well means reading the stone. **The hand form of Pirzath**, _milgath_, is the everyday writing, flowing, curved and joined: slate and chalk for teaching, tallies and notes; wax tablets for drafts and accounts; ink on hide or parchment for letters and books; and thin sheets of lead or copper cut with a stylus for records meant to last without being monumental.
+[[skill-drthrkscrpt|Pirzath]] has two forms. **Carved Pirzath**, _dalk-puráz_, is for what must last: oaths, laws, tombs and the founding of a hold, cut in stone, metal or wood. Its strokes are short and angled across the grain, never along it, and its line of text follows a seam, bedding line or natural edge of the stone rather than a ruled baseline, so no inscription runs straight. Reading carved Pirzath well means reading the stone. **The hand form of Pirzath**, _milgath_, is the everyday writing, flowing, curved and joined: slate and chalk for teaching, tallies and notes; wax tablets for drafts and accounts; ink on hide or parchment for letters and books; and thin sheets of lead or copper cut with a stylus for records meant to last without being monumental.
 
 The Khazari keep no single founding scripture. Their artifacts are records and objects:
 
 - **The craft-records** of every hold, which name each worker against each cut, warrant each finished piece, and are the standing account of who listened and who forced.
 - **The warrant on the work.** A finished piece is signed, dated, specified and warranted in carved Pirzath on the object itself.
-- **Oaths cut in the deep.** An oath sworn below is carved where it was sworn. _Dalkith vanth, margith vanth_, "oath of stone, oath of bone", is the strongest form of undertaking.
+- **Oaths cut in the deep.** An oath sworn below is carved where it was sworn. _Dalkith bant, margith bant_, "oath of stone, oath of bone", is the strongest form of undertaking.
 - **The memorial objects**: the preserved tools and weapons of ancestors, which no outsider may touch.
 - **The account of the fall of Khazartúrn**, kept in the working archive of every hold and read aloud at intervals.
 
 ## Craft as Prayer
 
-The Khazari are not much given to worship. The one they venerate is [Puthakun]{.name data-type="being/npc"} (see [[lore-khazararrv|the Coming of the Khazari]]), remembered as the servant of [[lore-goddreams|the God of Dreams]] (Luváth). Puthakun led the seven clans out of [Humadhan]{.name data-type="place/world"} alive: he is the savior of the Khazari, and every line on [[place-worldthlrn|Thalorna]] runs back to someone he brought through. They honor him the way they honor any worker whose deed outlasts him. His name is kept, his deed is remembered below, and good work is the thanks a Khazár gives him. Luváth they recognize as Puthakun's master, the light that endures in deep places and the wisdom found in patient craft, and they ask little of the god and say little to it.
+The Khazari are not much given to worship. The one they venerate is [Puthakun]{.name data-type="being/npc"} (see [[lore-khazararrv|the Coming of the Khazari]]), remembered as the servant of [[lore-goddreams|the God of Dreams]] (Lubát). Puthakun led the seven clans out of [Humadan]{.name data-type="place/world"} alive: he is the savior of the Khazari, and every line on [[place-worldthlrn|Thalorna]] runs back to someone he brought through. They honor him the way they honor any worker whose deed outlasts him. His name is kept, his deed is remembered below, and good work is the thanks a Khazár gives him. Lubát they recognize as Puthakun's master, the light that endures in deep places and the wisdom found in patient craft, and they ask little of the god and say little to it.
 
 Shaping stone and metal with skill and patience is itself a form of prayer: work offered in Puthakun's memory and in accord with the mountain, and an ordinary Khazár keeps faith chiefly by working well. Listening before a cut is the commonest act of devotion in a hold, and it is performed every working day.
 
-The remembering is done below. Each hold keeps its shrines, _huzafal_, and its deepest sanctuary, the _famgafudhán_, deep in the rock, where the light is the light of lamps, forges and deep crystal rather than the sun. Most Khazari go down to them a few times in a season and at every turning of the year. There is no priesthood apart from the masters and the elders: the eldest masters of a hold lead its rites, because the rites are about the same discipline the workshops teach.
+The remembering is done below. Each hold keeps its shrines, _huzafal_, and its deepest sanctuary, the _bamg-budán_, deep in the rock, where the light is the light of lamps, forges and deep crystal rather than the sun. Most Khazari go down to them a few times in a season and at every turning of the year. There is no priesthood apart from the masters and the elders: the eldest masters of a hold lead its rites, because the rites are about the same discipline the workshops teach.
 
 ## The Year Going Down
 
@@ -193,7 +193,7 @@ The Khazari hold that the dead go down into the mountain's keeping, to the light
 
 That belief makes the ordinary week. It is why every finished piece is signed and warranted, why a worker would rather leave a job undone than do it badly, why old work is repaired before new work is begun, and why the craft-records are kept with a care no human archive matches. It reaches inheritance: a house inherits its dead's tools as memorial objects and their unfinished work as an obligation. It reaches burial: the dead are laid deep, in tombs the hold prepares, with their names cut in carved Pirzath. And it reaches spending: a house spends its effort on keeping the dead's work sound and little on furnishing a tomb.
 
-At a funeral the hold goes down and keeps silence over the dead, mullán. The silence is broken only by the words also said over finished work: _Ramk kr-na-sumád, ramk na-thumár-aktor_, "the course has been raised; the course will be struck."
+At a funeral the hold goes down and keeps silence over the dead, mullán. The silence is broken only by the words also said over finished work: _Ramk samíd, ramk thamír_, "the course is raised; the course is struck."
 
 ## Keeping the Work of the Dead
 
@@ -278,7 +278,7 @@ The ethic that forbids a needless cut in stone does not reach people. The Khazar
 : the city of the seven towers
 
 [[lore-goddreams|The God of Dreams]]
-: Luváth
+: Lubát
 
 ## Glossary {#glossary}
 

@@ -149,47 +149,42 @@ data:
       gloss: "a copper vessel"
       root: "b-l-g"
       frame: done thing
-    - form: ravad
+    - form: rabad
       class: "n"
       field: Stone and metal
       gloss: "a vein of ore"
-      root: "r-v-d"
+      root: "r-b-d"
       frame: bare
-    - form: ruvád
+    - form: rubád
       class: v
       field: Stone and metal
       gloss: "to follow a vein"
-      root: "r-v-d"
+      root: "r-b-d"
       frame: deed
-    - form: huravad
+    - form: hurabad
       class: "n"
       field: Stone and metal
       gloss: "a lode, where the veins meet"
-      root: "r-v-d"
+      root: "r-b-d"
       frame: place
-    - form: malthev
-      class: "n"
-      field: Stone and metal
-      gloss: "salt"
-      root: "m-l-th"
-      frame: bare
-    - form: malíth
+    - {form: maltev, class: "n", field: Stone and metal, gloss: "salt", root: "m-l-t", frame: bare}
+    - form: malít
       class: adj
       field: Stone and metal
       gloss: "salt, salted"
-      root: "m-l-th"
+      root: "m-l-t"
       frame: adjective
-    - form: malthir
+    - form: maltir
       class: "n"
       field: Stone and metal
       gloss: "a salt-cutter"
-      root: "m-l-th"
+      root: "m-l-t"
       frame: worker
-    - form: humalth
+    - form: humalt
       class: "n"
       field: Stone and metal
       gloss: "a salt-working"
-      root: "m-l-th"
+      root: "m-l-t"
       frame: place
     - form: talv
       class: "n"
@@ -235,18 +230,18 @@ data:
       gloss: "a tin-working"
       root: "z-l-f"
       frame: place
-    - {form: pavak, class: "n", field: Stone and metal, gloss: "lead", root: "p-v-k", frame: bare}
-    - form: pavík
+    - {form: pabak, class: "n", field: Stone and metal, gloss: "lead", root: "p-b-k", frame: bare}
+    - form: pabík
       class: adj
       field: Stone and metal
       gloss: "leaden, heavy"
-      root: "p-v-k"
+      root: "p-b-k"
       frame: adjective
-    - form: pivakath
+    - form: pibakath
       class: "n"
       field: Stone and metal
       gloss: "a lead weight"
-      root: "p-v-k"
+      root: "p-b-k"
       frame: done thing
     - form: zaghar
       class: "n"
@@ -425,53 +420,53 @@ data:
       gloss: "to knap flint"
       root: "f-z-k"
       frame: deed
-    - form: lavaz
+    - form: labaz
       class: "n"
       field: Stone and metal
       gloss: "a seam, a stratum of rock"
-      root: "l-v-z"
+      root: "l-b-z"
       frame: bare
-    - form: lavíz
+    - form: labíz
       class: adj
       field: Stone and metal
       gloss: "layered, in strata"
-      root: "l-v-z"
+      root: "l-b-z"
       frame: adjective
-    - form: luváz
+    - form: lubáz
       class: v
       field: Stone and metal
       gloss: "to follow a seam"
-      root: "l-v-z"
+      root: "l-b-z"
       frame: deed
-    - form: latuváz
+    - form: latubáz
       class: v
       field: Stone and metal
       gloss: "to lie in layers one on another"
-      root: "l-v-z"
+      root: "l-b-z"
       frame: reflexive
-    - form: madhak
+    - form: madak
       class: "n"
       field: Stone and metal
       gloss: "living rock, the bedrock"
-      root: "m-dh-k"
+      root: "m-d-k"
       frame: bare
-    - form: madhík
+    - form: madík
       class: adj
       field: Stone and metal
       gloss: "rooted in the rock; unmoved"
-      root: "m-dh-k"
+      root: "m-d-k"
       frame: adjective
-    - form: mudhák
+    - form: mudák
       class: v
       field: Stone and metal
       gloss: "to cut into the living rock"
-      root: "m-dh-k"
+      root: "m-d-k"
       frame: deed
-    - form: humadhak
+    - form: humadak
       class: "n"
       field: Stone and metal
       gloss: "a working in living rock"
-      root: "m-dh-k"
+      root: "m-d-k"
       frame: place
     - form: bazath
       class: "n"
@@ -509,23 +504,23 @@ data:
       gloss: "quick, running like quicksilver"
       root: "dh-l-p"
       frame: adjective
-    - form: zavar
+    - form: zabar
       class: "n"
       field: Stone and metal
       gloss: "a ruby"
-      root: "z-v-r"
+      root: "z-b-r"
       frame: bare
-    - form: zavír
+    - form: zabír
       class: adj
       field: Stone and metal
       gloss: "deep red"
-      root: "z-v-r"
+      root: "z-b-r"
       frame: adjective
-    - form: zivarath
+    - form: zibarath
       class: "n"
       field: Stone and metal
       gloss: "a set ruby"
-      root: "z-v-r"
+      root: "z-b-r"
       frame: done thing
     - form: ghavath
       class: "n"
@@ -545,31 +540,31 @@ data:
       gloss: "a set sapphire"
       root: "gh-v-th"
       frame: done thing
-    - form: dalkathumár
+    - form: dalk-thumár
       class: "n"
       field: Stone and metal
       gloss: "the striking of stone"
       root: "d-l-k + th-m-r"
       frame: compound
-    - form: halbazumád
+    - form: halb-zumád
       class: "n"
       field: Stone and metal
       gloss: "the assay of silver"
       root: "h-l-b + z-m-d"
       frame: compound
-    - form: sakarapuláz
+    - form: sakar-puláz
       class: "n"
       field: Stone and metal
       gloss: "the folding of iron"
       root: "s-k-r + p-l-z"
       frame: compound
-    - form: dalkapuráz
+    - form: dalk-puráz
       class: "n"
       field: Stone and metal
       gloss: "the engraving of stone; carved Pirzath"
       root: "d-l-k + p-r-z"
       frame: compound
-    - form: zagharaputhák
+    - form: zaghar-puthák
       class: "n"
       field: Stone and metal
       gloss: "the freeing of ore"
@@ -689,29 +684,29 @@ data:
       gloss: "a fired piece"
       root: "g-l-d"
       frame: done thing
-    - form: dhank
+    - form: dank
       class: "n"
       field: Craft and the forge
       gloss: "the hammer-fall"
-      root: "dh-n-k"
+      root: "d-n-k"
       frame: bare
-    - form: dhunák
+    - form: dunák
       class: v
       field: Craft and the forge
       gloss: "to let the hammer fall"
-      root: "dh-n-k"
+      root: "d-n-k"
       frame: deed
-    - form: dhunnák
+    - form: dunnák
       class: v
       field: Craft and the forge
       gloss: "to let the hammer fall as a master does"
-      root: "dh-n-k"
+      root: "d-n-k"
       frame: mastery
-    - form: dhinkath
+    - form: dinkath
       class: "n"
       field: Craft and the forge
       gloss: "a hammer-mark"
-      root: "dh-n-k"
+      root: "d-n-k"
       frame: done thing
     - form: palz
       class: "n"
@@ -743,35 +738,35 @@ data:
       gloss: "a folded blade"
       root: "p-l-z"
       frame: done thing
-    - form: garf
+    - form: garp
       class: "n"
       field: Craft and the forge
       gloss: "an edge"
-      root: "g-r-f"
+      root: "g-r-p"
       frame: bare
-    - form: garíf
+    - form: garíp
       class: adj
       field: Craft and the forge
       gloss: "keen-edged"
-      root: "g-r-f"
+      root: "g-r-p"
       frame: adjective
-    - form: garfir
+    - form: garpir
       class: "n"
       field: Craft and the forge
       gloss: "a grinder"
-      root: "g-r-f"
+      root: "g-r-p"
       frame: worker
-    - form: guráf
+    - form: guráp
       class: v
       field: Craft and the forge
       gloss: "to whet"
-      root: "g-r-f"
+      root: "g-r-p"
       frame: deed
-    - form: hugarf
+    - form: hugarp
       class: "n"
       field: Craft and the forge
       gloss: "a grinding-house"
-      root: "g-r-f"
+      root: "g-r-p"
       frame: place
     - form: gasv
       class: "n"
@@ -953,29 +948,29 @@ data:
       gloss: "an anvil-floor"
       root: "m-r-p"
       frame: place
-    - form: dhamg
+    - form: damg
       class: "n"
       field: Craft and the forge
       gloss: "a hammer"
-      root: "dh-m-g"
+      root: "d-m-g"
       frame: bare
-    - form: dhamgir
+    - form: damgir
       class: "n"
       field: Craft and the forge
       gloss: "a hammer-wright"
-      root: "dh-m-g"
+      root: "d-m-g"
       frame: worker
-    - form: dhumág
+    - form: dumág
       class: v
       field: Craft and the forge
       gloss: "to hammer"
-      root: "dh-m-g"
+      root: "d-m-g"
       frame: deed
-    - form: dhummág
+    - form: dummág
       class: v
       field: Craft and the forge
       gloss: "to hammer as a master does"
-      root: "dh-m-g"
+      root: "d-m-g"
       frame: mastery
     - form: vagalev
       class: "n"
@@ -1013,131 +1008,131 @@ data:
       gloss: "to blow the fire"
       root: "n-f-r"
       frame: deed
-    - form: zadav
+    - form: zadab
       class: "n"
       field: Craft and the forge
       gloss: "a chisel"
-      root: "z-d-v"
+      root: "z-d-b"
       frame: bare
-    - form: zudáv
+    - form: zudáb
       class: v
       field: Craft and the forge
       gloss: "to chisel"
-      root: "z-d-v"
+      root: "z-d-b"
       frame: deed
-    - form: zuddáv
+    - form: zuddáb
       class: v
       field: Craft and the forge
       gloss: "to chisel as a master does"
-      root: "z-d-v"
+      root: "z-d-b"
       frame: mastery
-    - form: zidavath
+    - form: zidabath
       class: "n"
       field: Craft and the forge
       gloss: "a chiselled line"
-      root: "z-d-v"
+      root: "z-d-b"
       frame: done thing
-    - form: vamr
+    - form: bamr
       class: "n"
       field: Craft and the forge
       gloss: "craft, the work"
-      root: "v-m-r"
+      root: "b-m-r"
       frame: bare
-    - form: vamír
+    - form: bamír
       class: adj
       field: Craft and the forge
       gloss: "well-made"
-      root: "v-m-r"
+      root: "b-m-r"
       frame: adjective
-    - form: vamrir
+    - form: bamrir
       class: "n"
       field: Craft and the forge
       gloss: "a craftsman"
-      root: "v-m-r"
+      root: "b-m-r"
       frame: worker
-    - form: vumár
+    - form: bumár
       class: v
       field: Craft and the forge
       gloss: "to work, to make"
-      root: "v-m-r"
+      root: "b-m-r"
       frame: deed
-    - form: vummár
+    - form: bummár
       class: v
       field: Craft and the forge
       gloss: "to make as a master makes"
-      root: "v-m-r"
+      root: "b-m-r"
       frame: mastery
-    - form: huvamr
+    - form: hubamr
       class: "n"
       field: Craft and the forge
       gloss: "a workshop"
-      root: "v-m-r"
+      root: "b-m-r"
       frame: place
-    - form: vimrath
+    - form: bimrath
       class: "n"
       field: Craft and the forge
       gloss: "a made thing, a piece of work"
-      root: "v-m-r"
+      root: "b-m-r"
       frame: done thing
-    - form: ghalvev
+    - form: galbev
       class: "n"
       field: Craft and the forge
       gloss: "glass"
-      root: "gh-l-v"
+      root: "g-l-b"
       frame: bare
-    - form: ghalív
+    - form: galíb
       class: adj
       field: Craft and the forge
       gloss: "glassy, clear"
-      root: "gh-l-v"
+      root: "g-l-b"
       frame: adjective
-    - form: ghalvir
+    - form: galbir
       class: "n"
       field: Craft and the forge
       gloss: "a glassmaker"
-      root: "gh-l-v"
+      root: "g-l-b"
       frame: worker
-    - form: ghuláv
+    - form: guláb
       class: v
       field: Craft and the forge
       gloss: "to blow glass"
-      root: "gh-l-v"
+      root: "g-l-b"
       frame: deed
-    - form: ghilvath
+    - form: gilbath
       class: "n"
       field: Craft and the forge
       gloss: "a glass vessel"
-      root: "gh-l-v"
+      root: "g-l-b"
       frame: done thing
-    - form: zaval
+    - form: zabal
       class: "n"
       field: Craft and the forge
       gloss: "a smelt, a melt"
-      root: "z-v-l"
+      root: "z-b-l"
       frame: bare
-    - form: zavalir
+    - form: zabalir
       class: "n"
       field: Craft and the forge
       gloss: "a smelter"
-      root: "z-v-l"
+      root: "z-b-l"
       frame: worker
-    - form: zuvál
+    - form: zubál
       class: v
       field: Craft and the forge
       gloss: "to smelt"
-      root: "z-v-l"
+      root: "z-b-l"
       frame: deed
-    - form: huzaval
+    - form: huzabal
       class: "n"
       field: Craft and the forge
       gloss: "a smelting-house"
-      root: "z-v-l"
+      root: "z-b-l"
       frame: place
-    - form: zivalath
+    - form: zibalath
       class: "n"
       field: Craft and the forge
       gloss: "a bloom, smelted metal"
-      root: "z-v-l"
+      root: "z-b-l"
       frame: done thing
     - form: naghap
       class: "n"
@@ -1181,47 +1176,47 @@ data:
       gloss: "an engraving, an inscription"
       root: "p-r-z"
       frame: done thing
-    - form: latav
+    - form: latab
       class: "n"
       field: Craft and the forge
       gloss: "a joint, a seam of metal"
-      root: "l-t-v"
+      root: "l-t-b"
       frame: bare
-    - form: lutáv
+    - form: lutáb
       class: v
       field: Craft and the forge
       gloss: "to join metal"
-      root: "l-t-v"
+      root: "l-t-b"
       frame: deed
-    - form: latutáv
+    - form: latutáb
       class: v
       field: Craft and the forge
       gloss: "to join one to another"
-      root: "l-t-v"
+      root: "l-t-b"
       frame: reflexive
-    - form: vadak
+    - form: badak
       class: "n"
       field: Craft and the forge
       gloss: "a tool"
-      root: "v-d-k"
+      root: "b-d-k"
       frame: bare
-    - form: vadík
+    - form: badík
       class: adj
       field: Craft and the forge
       gloss: "handy, fit to the hand"
-      root: "v-d-k"
+      root: "b-d-k"
       frame: adjective
-    - form: vadakir
+    - form: badakir
       class: "n"
       field: Craft and the forge
       gloss: "a toolsmith"
-      root: "v-d-k"
+      root: "b-d-k"
       frame: worker
-    - form: huvadak
+    - form: hubadak
       class: "n"
       field: Craft and the forge
       gloss: "a tool-store"
-      root: "v-d-k"
+      root: "b-d-k"
       frame: place
     - form: tasp
       class: "n"
@@ -1241,53 +1236,53 @@ data:
       gloss: "to throw sparks"
       root: "t-s-p"
       frame: deed
-    - form: galdavulád
+    - form: gald-vulád
       class: "n"
       field: Craft and the forge
       gloss: "the binding of fire; the tempering of a blade"
       root: "g-l-d + v-l-d"
       frame: compound
-    - form: vamrapuvál
+    - form: bamr-pubál
       class: "n"
       field: Craft and the forge
       gloss: "the offering of craft"
-      root: "v-m-r + p-v-l"
+      root: "b-m-r + p-b-l"
       frame: compound
-    - form: ghalvakuvál
+    - form: galb-kuvál
       class: "n"
       field: Craft and the forge
       gloss: "the shaping of glass"
-      root: "gh-l-v + k-v-l"
+      root: "g-l-b + k-v-l"
       frame: compound
-    - form: sarvapuráz
+    - form: sarv-puráz
       class: "n"
       field: Craft and the forge
       gloss: "the engraving of slate"
       root: "s-r-v + p-r-z"
       frame: compound
-    - form: mandh
+    - form: mand
       class: "n"
       field: Craft and the forge
       gloss: "a mending"
-      root: "m-n-dh"
+      root: "m-n-d"
       frame: bare
-    - form: munádh
+    - form: munád
       class: v
       field: Craft and the forge
       gloss: "to mend"
-      root: "m-n-dh"
+      root: "m-n-d"
       frame: deed
-    - form: munnádh
+    - form: munnád
       class: v
       field: Craft and the forge
       gloss: "to mend as a master does"
-      root: "m-n-dh"
+      root: "m-n-d"
       frame: mastery
-    - form: mandhir
+    - form: mandir
       class: "n"
       field: Craft and the forge
       gloss: "a mender of old work"
-      root: "m-n-dh"
+      root: "m-n-d"
       frame: worker
     - {form: khalv, class: "n", field: The deep, gloss: "the unlit", root: "kh-l-v", frame: bare}
     - {form: khalív, class: adj, field: The deep, gloss: "unlit", root: "kh-l-v", frame: adjective}
@@ -1318,14 +1313,14 @@ data:
       root: "g-n-v"
       frame: mastery
     - {form: huganv, class: "n", field: The deep, gloss: "a mine", root: "g-n-v", frame: place}
-    - {form: famg, class: "n", field: The deep, gloss: "the deep", root: "f-m-g", frame: bare}
-    - {form: famíg, class: adj, field: The deep, gloss: "deep", root: "f-m-g", frame: adjective}
-    - {form: fumág, class: v, field: The deep, gloss: "to go deeper", root: "f-m-g", frame: deed}
-    - form: hufamg
+    - {form: bamg, class: "n", field: The deep, gloss: "the deep", root: "b-m-g", frame: bare}
+    - {form: bamíg, class: adj, field: The deep, gloss: "deep", root: "b-m-g", frame: adjective}
+    - {form: bumág, class: v, field: The deep, gloss: "to go deeper", root: "b-m-g", frame: deed}
+    - form: hubamg
       class: "n"
       field: The deep
       gloss: "the deepest working"
-      root: "f-m-g"
+      root: "b-m-g"
       frame: place
     - form: parn
       class: "n"
@@ -1345,15 +1340,15 @@ data:
       gloss: "a root-working, the lowest level of a hold"
       root: "p-r-n"
       frame: place
-    - {form: tavarod, class: "n", field: The deep, gloss: "deep water", root: "t-v-r", frame: bare}
-    - form: tavír
+    - {form: tabarod, class: "n", field: The deep, gloss: "deep water", root: "t-b-r", frame: bare}
+    - form: tabír
       class: adj
       field: The deep
       gloss: "drowned, water-filled"
-      root: "t-v-r"
+      root: "t-b-r"
       frame: adjective
-    - {form: hutavar, class: "n", field: The deep, gloss: "a cistern", root: "t-v-r", frame: place}
-    - {form: tuvár, class: v, field: The deep, gloss: "to flood", root: "t-v-r", frame: deed}
+    - {form: hutabar, class: "n", field: The deep, gloss: "a cistern", root: "t-b-r", frame: place}
+    - {form: tubár, class: v, field: The deep, gloss: "to flood", root: "t-b-r", frame: deed}
     - {form: lakamev, class: "n", field: The deep, gloss: "a lamp", root: "l-k-m", frame: bare}
     - form: lakamir
       class: "n"
@@ -1425,24 +1420,19 @@ data:
       gloss: "to echo one another"
       root: "v-l-gh"
       frame: reflexive
-    - form: lavath
+    - form: labat
       class: "n"
       field: The deep
       gloss: "a glow, the light kept below"
-      root: "l-v-th"
+      root: "l-b-t"
       frame: bare
-    - form: lavíth
-      class: adj
-      field: The deep
-      gloss: "glowing"
-      root: "l-v-th"
-      frame: adjective
-    - {form: luváth, class: v, field: The deep, gloss: "to glow", root: "l-v-th", frame: deed}
-    - form: hulavath
+    - {form: labít, class: adj, field: The deep, gloss: "glowing", root: "l-b-t", frame: adjective}
+    - {form: lubát, class: v, field: The deep, gloss: "to glow", root: "l-b-t", frame: deed}
+    - form: hulabat
       class: "n"
       field: The deep
       gloss: "a lit hall deep in the rock"
-      root: "l-v-th"
+      root: "l-b-t"
       frame: place
     - {form: rafas, class: "n", field: The deep, gloss: "a seep", root: "r-f-s", frame: bare}
     - form: rafís
@@ -1467,23 +1457,23 @@ data:
       gloss: "foul, airless"
       root: "v-t-gh"
       frame: adjective
-    - form: famgagunáv
+    - form: bamg-gunáv
       class: "n"
       field: The deep
       gloss: "the delving of the deep"
-      root: "f-m-g + g-n-v"
+      root: "b-m-g + g-n-v"
       frame: compound
-    - form: lakamazunáth
+    - form: lakam-zunáth
       class: "n"
       field: The deep
       gloss: "the brightening of the lamp"
       root: "l-k-m + z-n-th"
       frame: compound
-    - form: lavathavutám
+    - form: labat-butám
       class: "n"
       field: The deep
       gloss: "the enduring of the glow"
-      root: "l-v-th + v-t-m"
+      root: "l-b-t + b-t-m"
       frame: compound
     - {form: basr, class: "n", field: The deep, gloss: "a spring", root: "b-s-r", frame: bare}
     - {form: basír, class: adj, field: The deep, gloss: "welling", root: "b-s-r", frame: adjective}
@@ -1575,19 +1565,19 @@ data:
       gloss: "a rite-place, where a working is opened"
       root: "r-t-l"
       frame: place
-    - form: famgadurákh
+    - form: bamg-durákh
       class: "n"
       field: The deep
       gloss: "the refuge, the holding of the deep"
-      root: "f-m-g + d-r-kh"
+      root: "b-m-g + d-r-kh"
       frame: compound
-    - form: narvavutám
+    - form: narv-butám
       class: "n"
       field: The deep
       gloss: "a long tunnel that needs no prop, the tunnel that lasts"
-      root: "n-r-v + v-t-m"
+      root: "n-r-v + b-t-m"
       frame: compound
-    - form: ratalazughár
+    - form: ratal-zughár
       class: "n"
       field: The deep
       gloss: "the rite of winning ore"
@@ -1611,35 +1601,35 @@ data:
       gloss: "to crack"
       root: "h-l-gh"
       frame: deed
-    - form: maghar
+    - form: magar
       class: "n"
       field: The grain of the rock
       gloss: "the grain, the way the rock runs"
-      root: "m-gh-r"
+      root: "m-g-r"
       frame: bare
-    - form: maghír
+    - form: magír
       class: adj
       field: The grain of the rock
       gloss: "grained; running with the grain"
-      root: "m-gh-r"
+      root: "m-g-r"
       frame: adjective
-    - form: magharir
+    - form: magarir
       class: "n"
       field: The grain of the rock
       gloss: "a splitter, one who works along the grain"
-      root: "m-gh-r"
+      root: "m-g-r"
       frame: worker
-    - form: mughár
+    - form: mugár
       class: v
       field: The grain of the rock
       gloss: "to run with the grain"
-      root: "m-gh-r"
+      root: "m-g-r"
       frame: deed
-    - form: migharath
+    - form: migarath
       class: "n"
       field: The grain of the rock
       gloss: "a block parted along its grain"
-      root: "m-gh-r"
+      root: "m-g-r"
       frame: done thing
     - form: bakath
       class: "n"
@@ -1785,29 +1775,29 @@ data:
       gloss: "a headland of rock"
       root: "z-r-s"
       frame: place
-    - form: dhagab
+    - form: dagab
       class: "n"
       field: The grain of the rock
       gloss: "an overhang, a roof-ledge"
-      root: "dh-g-b"
+      root: "d-g-b"
       frame: bare
-    - form: dhagíb
+    - form: dagíb
       class: adj
       field: The grain of the rock
       gloss: "overhanging"
-      root: "dh-g-b"
+      root: "d-g-b"
       frame: adjective
-    - form: dhugáb
+    - form: dugáb
       class: v
       field: The grain of the rock
       gloss: "to overhang"
-      root: "dh-g-b"
+      root: "d-g-b"
       frame: deed
-    - form: hudhagab
+    - form: hudagab
       class: "n"
       field: The grain of the rock
       gloss: "a shelter beneath an overhang"
-      root: "dh-g-b"
+      root: "d-g-b"
       frame: place
     - form: gathagh
       class: "n"
@@ -2001,23 +1991,23 @@ data:
       gloss: "a creeping slope"
       root: "n-k-s"
       frame: place
-    - form: zarsakuvál
+    - form: zars-kuvál
       class: "n"
       field: The grain of the rock
       gloss: "the shaping of a spur: a spur finished as a tower"
       root: "z-r-s + k-v-l"
       frame: compound
-    - form: nalpahulágh
+    - form: nalp-hulágh
       class: "n"
       field: The grain of the rock
       gloss: "the splitting of the rock by cold"
       root: "n-l-p + h-l-gh"
       frame: compound
-    - form: padalavuráth
+    - form: padal-buráth
       class: "n"
       field: The grain of the rock
       gloss: "the bearing of a load by the rock's own buttress"
-      root: "p-d-l + v-r-th"
+      root: "p-d-l + b-r-th"
       frame: compound
     - form: gharm
       class: "n"
@@ -2055,83 +2045,83 @@ data:
       gloss: "to shudder, as a mountain does"
       root: "n-gh-l"
       frame: deed
-    - form: baghar
+    - form: bagar
       class: "n"
       field: Caves and their finding
       gloss: "a cave"
-      root: "b-gh-r"
+      root: "b-g-r"
       frame: bare
-    - form: baghír
+    - form: bagír
       class: adj
       field: Caves and their finding
       gloss: "cavernous"
-      root: "b-gh-r"
+      root: "b-g-r"
       frame: adjective
-    - form: bagharir
+    - form: bagarir
       class: "n"
       field: Caves and their finding
       gloss: "one who knows caves"
-      root: "b-gh-r"
+      root: "b-g-r"
       frame: worker
-    - form: bughár
+    - form: bugár
       class: v
       field: Caves and their finding
       gloss: "to enter a cave"
-      root: "b-gh-r"
+      root: "b-g-r"
       frame: deed
-    - form: hubaghar
+    - form: hubagar
       class: "n"
       field: Caves and their finding
       gloss: "a cave-mouth"
-      root: "b-gh-r"
+      root: "b-g-r"
       frame: place
-    - form: thalv
+    - form: thalb
       class: "n"
       field: Caves and their finding
       gloss: "limestone"
-      root: "th-l-v"
+      root: "th-l-b"
       frame: bare
-    - form: thalív
+    - form: thalíb
       class: adj
       field: Caves and their finding
       gloss: "of limestone, karstic"
-      root: "th-l-v"
+      root: "th-l-b"
       frame: adjective
-    - form: thuláv
+    - form: thuláb
       class: v
       field: Caves and their finding
       gloss: "to dissolve, to be eaten by water"
-      root: "th-l-v"
+      root: "th-l-b"
       frame: deed
-    - form: huthalv
+    - form: huthalb
       class: "n"
       field: Caves and their finding
       gloss: "a karst country, a land of limestone"
-      root: "th-l-v"
+      root: "th-l-b"
       frame: place
-    - form: tadhas
+    - form: tadas
       class: "n"
       field: Caves and their finding
       gloss: "a sinkhole"
-      root: "t-dh-s"
+      root: "t-d-s"
       frame: bare
-    - form: tadhís
+    - form: tadís
       class: adj
       field: Caves and their finding
       gloss: "sunken"
-      root: "t-dh-s"
+      root: "t-d-s"
       frame: adjective
-    - form: tudhás
+    - form: tudás
       class: v
       field: Caves and their finding
       gloss: "to fall in, to sink"
-      root: "t-dh-s"
+      root: "t-d-s"
       frame: deed
-    - form: hutadhas
+    - form: hutadas
       class: "n"
       field: Caves and their finding
       gloss: "a field of sinkholes"
-      root: "t-dh-s"
+      root: "t-d-s"
       frame: place
     - form: nask
       class: "n"
@@ -2157,29 +2147,29 @@ data:
       gloss: "a water-worn gallery"
       root: "n-s-k"
       frame: place
-    - form: ghadam
+    - form: gadam
       class: "n"
       field: Caves and their finding
       gloss: "a dripstone column"
-      root: "gh-d-m"
+      root: "g-d-m"
       frame: bare
-    - form: ghadím
+    - form: gadím
       class: adj
       field: Caves and their finding
       gloss: "hung with dripstone"
-      root: "gh-d-m"
+      root: "g-d-m"
       frame: adjective
-    - form: ghudám
+    - form: gudám
       class: v
       field: Caves and their finding
       gloss: "to grow by dripping"
-      root: "gh-d-m"
+      root: "g-d-m"
       frame: deed
-    - form: hughadam
+    - form: hugadam
       class: "n"
       field: Caves and their finding
       gloss: "a hall of columns"
-      root: "gh-d-m"
+      root: "g-d-m"
       frame: place
     - form: salh
       class: "n"
@@ -2229,29 +2219,29 @@ data:
       gloss: "a narrows, a tight passage"
       root: "t-n-p"
       frame: place
-    - form: dhalm
+    - form: dalm
       class: "n"
       field: Caves and their finding
       gloss: "a domed chamber"
-      root: "dh-l-m"
+      root: "d-l-m"
       frame: bare
-    - form: dhalím
+    - form: dalím
       class: adj
       field: Caves and their finding
       gloss: "domed"
-      root: "dh-l-m"
+      root: "d-l-m"
       frame: adjective
-    - form: dhulám
+    - form: dulám
       class: v
       field: Caves and their finding
       gloss: "to arch over, to dome"
-      root: "dh-l-m"
+      root: "d-l-m"
       frame: deed
-    - form: hudhalm
+    - form: hudalm
       class: "n"
       field: Caves and their finding
       gloss: "a great dome-hall"
-      root: "dh-l-m"
+      root: "d-l-m"
       frame: place
     - form: fakar
       class: "n"
@@ -2409,29 +2399,29 @@ data:
       gloss: "a court-quarter, the hidden courts of a hold"
       root: "h-d-n"
       frame: place
-    - form: dhafak
+    - form: dabak
       class: "n"
       field: The face and the light
       gloss: "a flue"
-      root: "dh-f-k"
+      root: "d-b-k"
       frame: bare
-    - form: dhafík
+    - form: dabík
       class: adj
       field: The face and the light
       gloss: "drawing"
-      root: "dh-f-k"
+      root: "d-b-k"
       frame: adjective
-    - form: dhufák
+    - form: dubák
       class: v
       field: The face and the light
       gloss: "to draw smoke away"
-      root: "dh-f-k"
+      root: "d-b-k"
       frame: deed
-    - form: hudhafak
+    - form: hudabak
       class: "n"
       field: The face and the light
       gloss: "a flue-head, where smoke leaves the face"
-      root: "dh-f-k"
+      root: "d-b-k"
       frame: place
     - form: thams
       class: "n"
@@ -2457,35 +2447,35 @@ data:
       gloss: "a smoke-fissure, where smoke disperses"
       root: "th-m-s"
       frame: place
-    - form: ghand
+    - form: gand
       class: "n"
       field: The face and the light
       gloss: "a dwelling set in the face"
-      root: "gh-n-d"
+      root: "g-n-d"
       frame: bare
-    - form: ghaníd
+    - form: ganíd
       class: adj
       field: The face and the light
       gloss: "lived in, dwelling"
-      root: "gh-n-d"
+      root: "g-n-d"
       frame: adjective
-    - form: ghandir
+    - form: gandir
       class: "n"
       field: The face and the light
       gloss: "a dweller of the face"
-      root: "gh-n-d"
+      root: "g-n-d"
       frame: worker
-    - form: ghunád
+    - form: gunád
       class: v
       field: The face and the light
       gloss: "to dwell on the face"
-      root: "gh-n-d"
+      root: "g-n-d"
       frame: deed
-    - form: hughand
+    - form: hugand
       class: "n"
       field: The face and the light
       gloss: "a face-quarter, a row of dwellings"
-      root: "gh-n-d"
+      root: "g-n-d"
       frame: place
     - form: palgh
       class: "n"
@@ -2535,71 +2525,71 @@ data:
       gloss: "open to the sky"
       root: "r-gh-l"
       frame: adjective
-    - form: samgh
+    - form: samg
       class: "n"
       field: Listening and the cut
       gloss: "listening, attention to stone"
-      root: "s-m-gh"
+      root: "s-m-g"
       frame: bare
-    - form: samígh
+    - form: samíg
       class: adj
       field: Listening and the cut
       gloss: "listening, attentive"
-      root: "s-m-gh"
+      root: "s-m-g"
       frame: adjective
-    - form: samghir
+    - form: samgir
       class: "n"
       field: Listening and the cut
       gloss: "a listener"
-      root: "s-m-gh"
+      root: "s-m-g"
       frame: worker
-    - form: sumágh
+    - form: sumág
       class: v
       field: Listening and the cut
       gloss: "to listen to stone"
-      root: "s-m-gh"
+      root: "s-m-g"
       frame: deed
-    - form: summágh
+    - form: summág
       class: v
       field: Listening and the cut
       gloss: "to listen as a master does"
-      root: "s-m-gh"
+      root: "s-m-g"
       frame: mastery
-    - form: husamgh
+    - form: husamg
       class: "n"
       field: Listening and the cut
       gloss: "a listening-place, where apprentices sit"
-      root: "s-m-gh"
+      root: "s-m-g"
       frame: place
-    - form: rakadh
+    - form: rakad
       class: "n"
       field: Listening and the cut
       gloss: "the reading of stone"
-      root: "r-k-dh"
+      root: "r-k-d"
       frame: bare
-    - form: rakídh
+    - form: rakíd
       class: adj
       field: Listening and the cut
       gloss: "readable, plain in the stone"
-      root: "r-k-dh"
+      root: "r-k-d"
       frame: adjective
-    - form: rakadhir
+    - form: rakadir
       class: "n"
       field: Listening and the cut
       gloss: "a reader of stone"
-      root: "r-k-dh"
+      root: "r-k-d"
       frame: worker
-    - form: rukádh
+    - form: rukád
       class: v
       field: Listening and the cut
       gloss: "to read stone"
-      root: "r-k-dh"
+      root: "r-k-d"
       frame: deed
-    - form: rukkádh
+    - form: rukkád
       class: v
       field: Listening and the cut
       gloss: "to read stone as a master does"
-      root: "r-k-dh"
+      root: "r-k-d"
       frame: mastery
     - form: fakan
       class: "n"
@@ -2997,29 +2987,29 @@ data:
       gloss: "to learn by watching"
       root: "v-b-k"
       frame: deed
-    - form: hamkarukádh
+    - form: hamk-rukád
       class: "n"
       field: Listening and the cut
       gloss: "the sounding of stone: reading it by its ring"
-      root: "h-m-k + r-k-dh"
+      root: "h-m-k + r-k-d"
       frame: compound
-    - form: banmasumágh
+    - form: banm-sumág
       class: "n"
       field: Listening and the cut
       gloss: "the listening that brings accord"
-      root: "b-n-m + s-m-gh"
+      root: "b-n-m + s-m-g"
       frame: compound
-    - form: dagaramughár
+    - form: dagar-mugár
       class: "n"
       field: Listening and the cut
       gloss: "the forcing of the grain: a cut against it"
-      root: "d-g-r + m-gh-r"
+      root: "d-g-r + m-g-r"
       frame: compound
-    - form: vadhalasumágh
+    - form: vadhal-sumág
       class: "n"
       field: Listening and the cut
       gloss: "the years of listening"
-      root: "v-dh-l + s-m-gh"
+      root: "v-dh-l + s-m-g"
       frame: compound
     - form: gathar
       class: "n"
@@ -3167,18 +3157,18 @@ data:
       gloss: "an upright, a set post"
       root: "g-k-l"
       frame: done thing
-    - {form: dharv, class: "n", field: The hold, gloss: "a tower", root: "dh-r-v", frame: bare}
-    - form: dharvir
+    - {form: darb, class: "n", field: The hold, gloss: "a tower", root: "d-r-b", frame: bare}
+    - form: darbir
       class: "n"
       field: The hold
       gloss: "a tower-warden"
-      root: "dh-r-v"
+      root: "d-r-b"
       frame: worker
-    - form: hudharv
+    - form: hudarb
       class: "n"
       field: The hold
       gloss: "a tower-court"
-      root: "dh-r-v"
+      root: "d-r-b"
       frame: place
     - {form: fanth, class: "n", field: The hold, gloss: "a hall", root: "f-n-th", frame: bare}
     - form: faníth
@@ -3193,24 +3183,24 @@ data:
       gloss: "to roof a hall"
       root: "f-n-th"
       frame: deed
-    - {form: tamv, class: "n", field: The hold, gloss: "a pillar", root: "t-m-v", frame: bare}
-    - form: tamív
+    - {form: tamb, class: "n", field: The hold, gloss: "a pillar", root: "t-m-b", frame: bare}
+    - form: tamíb
       class: adj
       field: The hold
       gloss: "pillared"
-      root: "t-m-v"
+      root: "t-m-b"
       frame: adjective
-    - form: tumáv
+    - form: tumáb
       class: v
       field: The hold
       gloss: "to bear up, as a pillar does"
-      root: "t-m-v"
+      root: "t-m-b"
       frame: deed
-    - form: timvath
+    - form: timbath
       class: "n"
       field: The hold
       gloss: "a carved pillar"
-      root: "t-m-v"
+      root: "t-m-b"
       frame: done thing
     - {form: satav, class: "n", field: The hold, gloss: "a stair", root: "s-t-v", frame: bare}
     - form: sutáv
@@ -3238,24 +3228,24 @@ data:
       gloss: "to open a door"
       root: "d-gh-l"
       frame: deed
-    - {form: vathal, class: "n", field: The hold, gloss: "a vault", root: "v-th-l", frame: bare}
-    - form: vathíl
+    - {form: bathal, class: "n", field: The hold, gloss: "a vault", root: "b-th-l", frame: bare}
+    - form: bathíl
       class: adj
       field: The hold
       gloss: "vaulted"
-      root: "v-th-l"
+      root: "b-th-l"
       frame: adjective
-    - form: vuthál
+    - form: buthál
       class: v
       field: The hold
       gloss: "to vault, to arch"
-      root: "v-th-l"
+      root: "b-th-l"
       frame: deed
-    - form: vutthál
+    - form: butthál
       class: v
       field: The hold
       gloss: "to vault as a master does"
-      root: "v-th-l"
+      root: "b-th-l"
       frame: mastery
     - {form: zald, class: "n", field: The hold, gloss: "a wall", root: "z-l-d", frame: bare}
     - {form: zalíd, class: adj, field: The hold, gloss: "walled", root: "z-l-d", frame: adjective}
@@ -3294,17 +3284,17 @@ data:
       gloss: "to make a road"
       root: "r-gh-v"
       frame: deed
-    - form: tanvaguráz
+    - form: tanv-guráz
       class: "n"
       field: The hold
       gloss: "the guarding of the gate"
       root: "t-n-v + g-r-z"
       frame: compound
-    - form: dharvasumád
+    - form: darb-sumád
       class: "n"
       field: The hold
       gloss: "the raising of a tower"
-      root: "dh-r-v + s-m-d"
+      root: "d-r-b + s-m-d"
       frame: compound
     - form: vagath
       class: "n"
@@ -3360,29 +3350,29 @@ data:
       gloss: "a genealogy, a written line"
       root: "n-s-v"
       frame: done thing
-    - form: pavar
+    - form: pabar
       class: "n"
       field: Kin and the house
       gloss: "an elder"
-      root: "p-v-r"
+      root: "p-b-r"
       frame: bare
-    - form: pavír
+    - form: pabír
       class: adj
       field: Kin and the house
       gloss: "elder, senior"
-      root: "p-v-r"
+      root: "p-b-r"
       frame: adjective
-    - form: puvár
+    - form: pubár
       class: v
       field: Kin and the house
       gloss: "to stand as elder"
-      root: "p-v-r"
+      root: "p-b-r"
       frame: deed
-    - form: hupavar
+    - form: hupabar
       class: "n"
       field: Kin and the house
       gloss: "the elders' hall"
-      root: "p-v-r"
+      root: "p-b-r"
       frame: place
     - form: lafad
       class: "n"
@@ -3438,29 +3428,29 @@ data:
       gloss: "to be siblings to one another"
       root: "s-p-v"
       frame: reflexive
-    - form: navadh
+    - form: nabad
       class: "n"
       field: Kin and the house
       gloss: "a husband"
-      root: "n-v-dh"
+      root: "n-b-d"
       frame: bare
-    - form: navadhev
+    - form: nabadev
       class: "n"
       field: Kin and the house
       gloss: "a wife"
-      root: "n-v-dh"
+      root: "n-b-d"
       frame: bare
-    - form: nuvádh
+    - form: nubád
       class: v
       field: Kin and the house
       gloss: "to wed"
-      root: "n-v-dh"
+      root: "n-b-d"
       frame: deed
-    - form: natuvádh
+    - form: natubád
       class: v
       field: Kin and the house
       gloss: "to wed one another"
-      root: "n-v-dh"
+      root: "n-b-d"
       frame: reflexive
     - form: vanr
       class: "n"
@@ -3564,47 +3554,47 @@ data:
       gloss: "to feast"
       root: "m-l-gh"
       frame: deed
-    - form: balvafunád
+    - form: balv-funád
       class: "n"
       field: Kin and the house
       gloss: "the going of the exile"
       root: "b-l-v + f-n-d"
       frame: compound
-    - form: vanth
+    - form: bant
       class: "n"
       field: "Oath, law and measure"
       gloss: "an oath"
-      root: "v-n-th"
+      root: "b-n-t"
       frame: bare
-    - form: vaníth
+    - form: banít
       class: adj
       field: "Oath, law and measure"
       gloss: "sworn"
-      root: "v-n-th"
+      root: "b-n-t"
       frame: adjective
-    - form: vanthir
+    - form: bantir
       class: "n"
       field: "Oath, law and measure"
       gloss: "an oath-taker"
-      root: "v-n-th"
+      root: "b-n-t"
       frame: worker
-    - form: vunáth
+    - form: bunát
       class: v
       field: "Oath, law and measure"
       gloss: "to swear"
-      root: "v-n-th"
+      root: "b-n-t"
       frame: deed
-    - form: vunnáth
+    - form: bunnát
       class: v
       field: "Oath, law and measure"
       gloss: "to swear before the elders"
-      root: "v-n-th"
+      root: "b-n-t"
       frame: mastery
-    - form: vatunáth
+    - form: batunát
       class: v
       field: "Oath, law and measure"
       gloss: "to swear to one another"
-      root: "v-n-th"
+      root: "b-n-t"
       frame: reflexive
     - form: vald
       class: "n"
@@ -3654,35 +3644,35 @@ data:
       gloss: "to set to the rock's line as a master does"
       root: "v-r-n"
       frame: mastery
-    - form: ranthod
+    - form: rantod
       class: "n"
       field: "Oath, law and measure"
       gloss: "a reckoning"
-      root: "r-n-th"
+      root: "r-n-t"
       frame: bare
-    - form: ranthir
+    - form: rantir
       class: "n"
       field: "Oath, law and measure"
       gloss: "a reckoner"
-      root: "r-n-th"
+      root: "r-n-t"
       frame: worker
-    - form: runáth
+    - form: runát
       class: v
       field: "Oath, law and measure"
       gloss: "to reckon"
-      root: "r-n-th"
+      root: "r-n-t"
       frame: deed
-    - form: runnáth
+    - form: runnát
       class: v
       field: "Oath, law and measure"
       gloss: "to reckon as a master does"
-      root: "r-n-th"
+      root: "r-n-t"
       frame: mastery
-    - form: rinthath
+    - form: rintath
       class: "n"
       field: "Oath, law and measure"
       gloss: "a sum"
-      root: "r-n-th"
+      root: "r-n-t"
       frame: done thing
     - form: tamk
       class: "n"
@@ -3708,53 +3698,53 @@ data:
       gloss: "to trust one another"
       root: "t-m-k"
       frame: reflexive
-    - form: khavan
+    - form: khaban
       class: "n"
       field: "Oath, law and measure"
       gloss: "a chant"
-      root: "kh-v-n"
+      root: "kh-b-n"
       frame: bare
-    - form: khavanir
+    - form: khabanir
       class: "n"
       field: "Oath, law and measure"
       gloss: "a reciter"
-      root: "kh-v-n"
+      root: "kh-b-n"
       frame: worker
-    - form: khuván
+    - form: khubán
       class: v
       field: "Oath, law and measure"
       gloss: "to chant, to recite"
-      root: "kh-v-n"
+      root: "kh-b-n"
       frame: deed
-    - form: khuvván
+    - form: khubbán
       class: v
       field: "Oath, law and measure"
       gloss: "to recite without fault"
-      root: "kh-v-n"
+      root: "kh-b-n"
       frame: mastery
-    - form: zadhar
+    - form: zadar
       class: "n"
       field: "Oath, law and measure"
       gloss: "law"
-      root: "z-dh-r"
+      root: "z-d-r"
       frame: bare
-    - form: zadhír
+    - form: zadír
       class: adj
       field: "Oath, law and measure"
       gloss: "lawful"
-      root: "z-dh-r"
+      root: "z-d-r"
       frame: adjective
-    - form: zadharir
+    - form: zadarir
       class: "n"
       field: "Oath, law and measure"
       gloss: "a lawspeaker"
-      root: "z-dh-r"
+      root: "z-d-r"
       frame: worker
-    - form: zudhár
+    - form: zudár
       class: v
       field: "Oath, law and measure"
       gloss: "to lay down the law"
-      root: "z-dh-r"
+      root: "z-d-r"
       frame: deed
     - form: lamv
       class: "n"
@@ -3822,29 +3812,29 @@ data:
       gloss: "a measuring-rod"
       root: "m-th-z"
       frame: done thing
-    - form: thakav
+    - form: thakab
       class: "n"
       field: "Oath, law and measure"
       gloss: "a weight"
-      root: "th-k-v"
+      root: "th-k-b"
       frame: bare
-    - form: thakív
+    - form: thakíb
       class: adj
       field: "Oath, law and measure"
       gloss: "weighty"
-      root: "th-k-v"
+      root: "th-k-b"
       frame: adjective
-    - form: thukáv
+    - form: thukáb
       class: v
       field: "Oath, law and measure"
       gloss: "to weigh"
-      root: "th-k-v"
+      root: "th-k-b"
       frame: deed
-    - form: huthakav
+    - form: huthakab
       class: "n"
       field: "Oath, law and measure"
       gloss: "a weighing-house"
-      root: "th-k-v"
+      root: "th-k-b"
       frame: place
     - form: vasg
       class: "n"
@@ -3918,29 +3908,29 @@ data:
       gloss: "to count"
       root: "k-m-v"
       frame: deed
-    - form: dhakal
+    - form: dakal
       class: "n"
       field: "Oath, law and measure"
       gloss: "a tally, a tally-stick"
-      root: "dh-k-l"
+      root: "d-k-l"
       frame: bare
-    - form: dhakalir
+    - form: dakalir
       class: "n"
       field: "Oath, law and measure"
       gloss: "a tally-keeper"
-      root: "dh-k-l"
+      root: "d-k-l"
       frame: worker
-    - form: dhukál
+    - form: dukál
       class: v
       field: "Oath, law and measure"
       gloss: "to keep tally"
-      root: "dh-k-l"
+      root: "d-k-l"
       frame: deed
-    - form: hudhakal
+    - form: hudakal
       class: "n"
       field: "Oath, law and measure"
       gloss: "a tally-house"
-      root: "dh-k-l"
+      root: "d-k-l"
       frame: place
     - form: sadhav
       class: "n"
@@ -3960,17 +3950,17 @@ data:
       gloss: "to witness for one another"
       root: "s-dh-v"
       frame: reflexive
-    - form: vanthavulád
+    - form: bant-vulád
       class: "n"
       field: "Oath, law and measure"
       gloss: "the binding of an oath"
-      root: "v-n-th + v-l-d"
+      root: "b-n-t + v-l-d"
       frame: compound
-    - form: lamvakhuván
+    - form: lamv-khubán
       class: "n"
       field: "Oath, law and measure"
       gloss: "the reciting of the records"
-      root: "l-m-v + kh-v-n"
+      root: "l-m-v + kh-b-n"
       frame: compound
     - form: zanp
       class: "n"
@@ -4110,29 +4100,29 @@ data:
       gloss: "a chalk mark, a tally in chalk"
       root: "s-b-z"
       frame: done thing
-    - form: vakas
+    - form: bakas
       class: "n"
       field: Letters and writing
       gloss: "wax"
-      root: "v-k-s"
+      root: "b-k-s"
       frame: bare
-    - form: vakís
+    - form: bakís
       class: adj
       field: Letters and writing
       gloss: "waxen"
-      root: "v-k-s"
+      root: "b-k-s"
       frame: adjective
-    - form: vukás
+    - form: bukás
       class: v
       field: Letters and writing
       gloss: "to write in wax"
-      root: "v-k-s"
+      root: "b-k-s"
       frame: deed
-    - form: vikasath
+    - form: bikasath
       class: "n"
       field: Letters and writing
       gloss: "a wax tablet, a draft in wax"
-      root: "v-k-s"
+      root: "b-k-s"
       frame: done thing
     - form: zatal
       class: "n"
@@ -4242,89 +4232,89 @@ data:
       gloss: "a thing written in the flowing hand, the hand form of Pirzath"
       root: "m-l-g"
       frame: done thing
-    - form: lanraluváz
+    - form: lanr-lubáz
       class: "n"
       field: Letters and writing
       gloss: "a line of carved text, which follows a seam"
-      root: "l-n-r + l-v-z"
+      root: "l-n-r + l-b-z"
       frame: compound
-    - form: paldhamulág
+    - form: paldh-mulág
       class: "n"
       field: Letters and writing
       gloss: "parchment, a skin written in the flowing hand"
       root: "p-l-dh + m-l-g"
       frame: compound
-    - form: pavakamulág
+    - form: pabak-mulág
       class: "n"
       field: Letters and writing
       gloss: "a lead sheet, written in the flowing hand"
-      root: "p-v-k + m-l-g"
+      root: "p-b-k + m-l-g"
       frame: compound
-    - form: balgamulág
+    - form: balg-mulág
       class: "n"
       field: Letters and writing
       gloss: "a copper sheet, written in the flowing hand"
       root: "b-l-g + m-l-g"
       frame: compound
-    - form: rakadhahurát
+    - form: rakad-hurát
       class: "n"
       field: Letters and writing
       gloss: "the reading of stone and letters together"
-      root: "r-k-dh + h-r-t"
+      root: "r-k-d + h-r-t"
       frame: compound
-    - form: havadh
+    - form: habad
       class: "n"
       field: Song and telling
       gloss: "a song, a deep song"
-      root: "h-v-dh"
+      root: "h-b-d"
       frame: bare
-    - form: huvádh
+    - form: hubád
       class: v
       field: Song and telling
       gloss: "to sing"
-      root: "h-v-dh"
+      root: "h-b-d"
       frame: deed
-    - form: huvvádh
+    - form: hubbád
       class: v
       field: Song and telling
       gloss: "to sing as a master does"
-      root: "h-v-dh"
+      root: "h-b-d"
       frame: mastery
-    - form: havadhir
+    - form: habadir
       class: "n"
       field: Song and telling
       gloss: "a singer"
-      root: "h-v-dh"
+      root: "h-b-d"
       frame: worker
-    - form: huhavadh
+    - form: huhabad
       class: "n"
       field: Song and telling
       gloss: "a singing-hall, where a song carries along the rock"
-      root: "h-v-dh"
+      root: "h-b-d"
       frame: place
-    - form: kamgh
+    - form: kamg
       class: "n"
       field: Song and telling
       gloss: "a lament"
-      root: "k-m-gh"
+      root: "k-m-g"
       frame: bare
-    - form: kumágh
+    - form: kumág
       class: v
       field: Song and telling
       gloss: "to keen, to lament"
-      root: "k-m-gh"
+      root: "k-m-g"
       frame: deed
-    - form: kamghir
+    - form: kamgir
       class: "n"
       field: Song and telling
       gloss: "a keener"
-      root: "k-m-gh"
+      root: "k-m-g"
       frame: worker
-    - form: kimghath
+    - form: kimgath
       class: "n"
       field: Song and telling
       gloss: "a set lament, one kept and sung again"
-      root: "k-m-gh"
+      root: "k-m-g"
       frame: done thing
     - form: faln
       class: "n"
@@ -4350,23 +4340,23 @@ data:
       gloss: "an account, a telling written and kept"
       root: "f-l-n"
       frame: done thing
-    - form: vazan
+    - form: bazan
       class: "n"
       field: Song and telling
       gloss: "a saying, a proverb"
-      root: "v-z-n"
+      root: "b-z-n"
       frame: bare
-    - form: vuzán
+    - form: buzán
       class: v
       field: Song and telling
       gloss: "to say a saying over a matter"
-      root: "v-z-n"
+      root: "b-z-n"
       frame: deed
-    - form: vazín
+    - form: bazín
       class: adj
       field: Song and telling
       gloss: "proverbial, said of old"
-      root: "v-z-n"
+      root: "b-z-n"
       frame: adjective
     - form: zalm
       class: "n"
@@ -4470,41 +4460,41 @@ data:
       gloss: "a speaker for a house"
       root: "g-n-dh"
       frame: worker
-    - form: havadharumák
+    - form: habad-rumák
       class: "n"
       field: Song and telling
       gloss: "a song laid in courses, a long song"
-      root: "h-v-dh + r-m-k"
+      root: "h-b-d + r-m-k"
       frame: compound
-    - form: falgahunáz
+    - form: falg-hunáz
       class: "n"
       field: Song and telling
       gloss: "the praise of the dead"
       root: "f-l-g + h-n-z"
       frame: compound
-    - form: kamghakhuván
+    - form: kamg-khubán
       class: "n"
       field: Song and telling
       gloss: "the chanting of the lament"
-      root: "k-m-gh + kh-v-n"
+      root: "k-m-g + kh-b-n"
       frame: compound
-    - form: vatam
+    - form: batam
       class: "n"
       field: "Time and the mountain's seasons"
       gloss: "duration, a long while"
-      root: "v-t-m"
+      root: "b-t-m"
       frame: bare
-    - form: vatím
+    - form: batím
       class: adj
       field: "Time and the mountain's seasons"
       gloss: "lasting, old"
-      root: "v-t-m"
+      root: "b-t-m"
       frame: adjective
-    - form: vutám
+    - form: butám
       class: v
       field: "Time and the mountain's seasons"
       gloss: "to last"
-      root: "v-t-m"
+      root: "b-t-m"
       frame: deed
     - form: nalp
       class: "n"
@@ -4524,23 +4514,23 @@ data:
       gloss: "to grow cold"
       root: "n-l-p"
       frame: deed
-    - form: thalg
+    - form: talg
       class: "n"
       field: "Time and the mountain's seasons"
       gloss: "snow"
-      root: "th-l-g"
+      root: "t-l-g"
       frame: bare
-    - form: thalíg
+    - form: talíg
       class: adj
       field: "Time and the mountain's seasons"
       gloss: "snowbound"
-      root: "th-l-g"
+      root: "t-l-g"
       frame: adjective
-    - form: thulág
+    - form: tulág
       class: v
       field: "Time and the mountain's seasons"
       gloss: "to snow"
-      root: "th-l-g"
+      root: "t-l-g"
       frame: deed
     - form: tanf
       class: "n"
@@ -4808,23 +4798,23 @@ data:
       root: "t-f-n"
       frame: bare
     - {form: tufán, class: v, field: Body and person, gloss: "to step", root: "t-f-n", frame: deed}
-    - form: zaghan
+    - form: zagan
       class: "n"
       field: Body and person
       gloss: "a voice"
-      root: "z-gh-n"
+      root: "z-g-n"
       frame: bare
-    - form: zaghín
+    - form: zagín
       class: adj
       field: Body and person
       gloss: "loud"
-      root: "z-gh-n"
+      root: "z-g-n"
       frame: adjective
-    - form: zughán
+    - form: zugán
       class: v
       field: Body and person
       gloss: "to call, to voice"
-      root: "z-gh-n"
+      root: "z-g-n"
       frame: deed
     - form: hazam
       class: "n"
@@ -4881,29 +4871,29 @@ data:
       gloss: "to withstand"
       root: "f-r-d"
       frame: deed
-    - form: vakath
+    - form: bakat
       class: "n"
       field: War and the guarding
       gloss: "war"
-      root: "v-k-th"
+      root: "b-k-t"
       frame: bare
-    - form: vakathir
+    - form: bakatir
       class: "n"
       field: War and the guarding
       gloss: "a fighter"
-      root: "v-k-th"
+      root: "b-k-t"
       frame: worker
-    - form: vukáth
+    - form: bukát
       class: v
       field: War and the guarding
       gloss: "to fight"
-      root: "v-k-th"
+      root: "b-k-t"
       frame: deed
-    - form: vatukáth
+    - form: batukát
       class: v
       field: War and the guarding
       gloss: "to fight one another"
-      root: "v-k-th"
+      root: "b-k-t"
       frame: reflexive
     - form: zardh
       class: "n"
@@ -4923,35 +4913,35 @@ data:
       gloss: "a Grukar warren"
       root: "z-r-dh"
       frame: place
-    - form: vaghan
+    - form: bagan
       class: "n"
       field: War and the guarding
       gloss: "a seal"
-      root: "v-gh-n"
+      root: "b-g-n"
       frame: bare
-    - form: vaghín
+    - form: bagín
       class: adj
       field: War and the guarding
       gloss: "sealed"
-      root: "v-gh-n"
+      root: "b-g-n"
       frame: adjective
-    - form: vughán
+    - form: bugán
       class: v
       field: War and the guarding
       gloss: "to seal"
-      root: "v-gh-n"
+      root: "b-g-n"
       frame: deed
-    - form: vugghán
+    - form: buggán
       class: v
       field: War and the guarding
       gloss: "to seal for all generations"
-      root: "v-gh-n"
+      root: "b-g-n"
       frame: mastery
-    - form: vighanath
+    - form: biganath
       class: "n"
       field: War and the guarding
       gloss: "a sealed door"
-      root: "v-gh-n"
+      root: "b-g-n"
       frame: done thing
     - form: dhalz
       class: "n"
@@ -5007,29 +4997,29 @@ data:
       gloss: "to kill without pause"
       root: "t-z-l"
       frame: mastery
-    - form: naghar
+    - form: nagar
       class: "n"
       field: War and the guarding
       gloss: "a lookout"
-      root: "n-gh-r"
+      root: "n-g-r"
       frame: bare
-    - form: nagharir
+    - form: nagarir
       class: "n"
       field: War and the guarding
       gloss: "a watcher"
-      root: "n-gh-r"
+      root: "n-g-r"
       frame: worker
-    - form: nughár
+    - form: nugár
       class: v
       field: War and the guarding
       gloss: "to keep watch"
-      root: "n-gh-r"
+      root: "n-g-r"
       frame: deed
-    - form: hunaghar
+    - form: hunagar
       class: "n"
       field: War and the guarding
       gloss: "a watch-post"
-      root: "n-gh-r"
+      root: "n-g-r"
       frame: place
     - form: khamz
       class: "n"
@@ -5043,17 +5033,17 @@ data:
       gloss: "to arm, to put on mail"
       root: "kh-m-z"
       frame: deed
-    - form: zardhatuzál
+    - form: zardh-tuzál
       class: "n"
       field: War and the guarding
       gloss: "the killing of vermin"
       root: "z-r-dh + t-z-l"
       frame: compound
-    - form: zardhazughán
+    - form: zardh-zugán
       class: "n"
       field: War and the guarding
       gloss: "the calling of the vermin"
-      root: "z-r-dh + z-gh-n"
+      root: "z-r-dh + z-g-n"
       frame: compound
     - form: makas
       class: "n"
@@ -5103,11 +5093,11 @@ data:
       gloss: "a refuge, the place where all are gathered"
       root: "kh-n-f"
       frame: place
-    - form: khanfavughán
+    - form: khanf-bugán
       class: "n"
       field: War and the guarding
       gloss: "the gathering in and sealing of the people"
-      root: "kh-n-f + v-gh-n"
+      root: "kh-n-f + b-g-n"
       frame: compound
     - form: maln
       class: "n"
@@ -5145,23 +5135,23 @@ data:
       gloss: "to die"
       root: "th-v-l"
       frame: deed
-    - form: fandh
+    - form: pand
       class: "n"
       field: Death and memory
       gloss: "a tomb"
-      root: "f-n-dh"
+      root: "p-n-d"
       frame: bare
-    - form: funádh
+    - form: punád
       class: v
       field: Death and memory
       gloss: "to lay in a tomb"
-      root: "f-n-dh"
+      root: "p-n-d"
       frame: deed
-    - form: hufandh
+    - form: hupand
       class: "n"
       field: Death and memory
       gloss: "a burial hall"
-      root: "f-n-dh"
+      root: "p-n-d"
       frame: place
     - form: hamdh
       class: "n"
@@ -5175,29 +5165,29 @@ data:
       gloss: "to mourn"
       root: "h-m-dh"
       frame: deed
-    - form: navath
+    - form: nabat
       class: "n"
       field: Death and memory
       gloss: "memory"
-      root: "n-v-th"
+      root: "n-b-t"
       frame: bare
-    - form: navíth
+    - form: nabít
       class: adj
       field: Death and memory
       gloss: "remembered"
-      root: "n-v-th"
+      root: "n-b-t"
       frame: adjective
-    - form: nuváth
+    - form: nubát
       class: v
       field: Death and memory
       gloss: "to remember"
-      root: "n-v-th"
+      root: "n-b-t"
       frame: deed
-    - form: nivathath
+    - form: nibatath
       class: "n"
       field: Death and memory
       gloss: "a memorial"
-      root: "n-v-th"
+      root: "n-b-t"
       frame: done thing
     - form: falg
       class: "n"
@@ -5265,35 +5255,35 @@ data:
       gloss: "grieving"
       root: "z-th-v"
       frame: adjective
-    - form: dhavaz
+    - form: dabaz
       class: "n"
       field: Death and memory
       gloss: "rest, stillness"
-      root: "dh-v-z"
+      root: "d-b-z"
       frame: bare
-    - form: dhavíz
+    - form: dabíz
       class: adj
       field: Death and memory
       gloss: "still"
-      root: "dh-v-z"
+      root: "d-b-z"
       frame: adjective
-    - form: dhuváz
+    - form: dubáz
       class: v
       field: Death and memory
       gloss: "to lie still"
-      root: "dh-v-z"
+      root: "d-b-z"
       frame: deed
-    - form: fandhavughán
+    - form: pand-bugán
       class: "n"
       field: Death and memory
       gloss: "the sealing of the tomb"
-      root: "f-n-dh + v-gh-n"
+      root: "p-n-d + b-g-n"
       frame: compound
-    - form: falgakhuván
+    - form: falg-khubán
       class: "n"
       field: Death and memory
       gloss: "the reciting of the dead"
-      root: "f-l-g + kh-v-n"
+      root: "f-l-g + kh-b-n"
       frame: compound
     - form: dhams
       class: "n"
@@ -5331,23 +5321,23 @@ data:
       gloss: "a shrine"
       root: "z-f-l"
       frame: place
-    - form: paval
+    - form: pabal
       class: "n"
       field: The god and devotion
       gloss: "an offering of work"
-      root: "p-v-l"
+      root: "p-b-l"
       frame: bare
-    - form: puvál
+    - form: pubál
       class: v
       field: The god and devotion
       gloss: "to offer work"
-      root: "p-v-l"
+      root: "p-b-l"
       frame: deed
-    - form: puvvál
+    - form: pubbál
       class: v
       field: The god and devotion
       gloss: "to offer one's best work"
-      root: "p-v-l"
+      root: "p-b-l"
       frame: mastery
     - form: sathav
       class: "n"
@@ -5367,23 +5357,23 @@ data:
       gloss: "a sage"
       root: "s-th-v"
       frame: worker
-    - form: fadhan
+    - form: badan
       class: "n"
       field: The god and devotion
       gloss: "hallowing"
-      root: "f-dh-n"
+      root: "b-d-n"
       frame: bare
-    - form: fadhín
+    - form: badín
       class: adj
       field: The god and devotion
       gloss: "hallowed"
-      root: "f-dh-n"
+      root: "b-d-n"
       frame: adjective
-    - form: fudhán
+    - form: budán
       class: v
       field: The god and devotion
       gloss: "to hallow"
-      root: "f-dh-n"
+      root: "b-d-n"
       frame: deed
     - form: dhazav
       class: "n"
@@ -5397,23 +5387,23 @@ data:
       gloss: "to pray"
       root: "dh-z-v"
       frame: deed
-    - form: vatadh
+    - form: batad
       class: "n"
       field: The god and devotion
       gloss: "a votive piece"
-      root: "v-t-dh"
+      root: "b-t-d"
       frame: bare
-    - form: vutádh
+    - form: butád
       class: v
       field: The god and devotion
       gloss: "to lay up a work"
-      root: "v-t-dh"
+      root: "b-t-d"
       frame: deed
-    - form: huvatadh
+    - form: hubatad
       class: "n"
       field: The god and devotion
       gloss: "a votive vault"
-      root: "v-t-dh"
+      root: "b-t-d"
       frame: place
     - form: thazam
       class: "n"
@@ -5433,35 +5423,35 @@ data:
       gloss: "to dream"
       root: "th-z-m"
       frame: deed
-    - form: famgafudhán
+    - form: bamg-budán
       class: "n"
       field: The god and devotion
       gloss: "a sanctuary in the deep, the deep hallowed"
-      root: "f-m-g + f-dh-n"
+      root: "b-m-g + b-d-n"
       frame: compound
-    - form: hafadh
+    - form: hapad
       class: "n"
       field: The god and devotion
       gloss: "hope"
-      root: "h-f-dh"
+      root: "h-p-d"
       frame: bare
-    - form: hafídh
+    - form: hapíd
       class: adj
       field: The god and devotion
       gloss: "hopeful"
-      root: "h-f-dh"
+      root: "h-p-d"
       frame: adjective
-    - form: hufádh
+    - form: hupád
       class: v
       field: The god and devotion
       gloss: "to hope"
-      root: "h-f-dh"
+      root: "h-p-d"
       frame: deed
-    - form: hafadhadurákh
+    - form: hapad-durákh
       class: "n"
       field: The god and devotion
       gloss: "the holding fast of hope"
-      root: "h-f-dh + d-r-kh"
+      root: "h-p-d + d-r-kh"
       frame: compound
     - form: naghath
       class: "n"
@@ -5571,13 +5561,13 @@ data:
       gloss: "to forbid"
       root: "th-gh-m"
       frame: deed
-    - form: naghathasugháv
+    - form: naghath-sugháv
       class: "n"
       field: The Shadow and what rises
       gloss: "the rising of the void"
       root: "n-gh-th + s-gh-v"
       frame: compound
-    - form: thaghamagunáv
+    - form: thagham-gunáv
       class: "n"
       field: The Shadow and what rises
       gloss: "the delving into the forbidden"
@@ -5595,29 +5585,29 @@ data:
       gloss: "dreadful, to be dreaded"
       root: "kh-g-l"
       frame: adjective
-    - form: kargh
+    - form: karg
       class: "n"
       field: The Shadow and what rises
       gloss: "a ring of the old realm"
-      root: "k-r-gh"
+      root: "k-r-g"
       frame: bare
-    - form: kurágh
+    - form: kurág
       class: v
       field: The Shadow and what rises
       gloss: "to forge a ring of the old realm"
-      root: "k-r-gh"
+      root: "k-r-g"
       frame: deed
-    - form: kirghath
+    - form: kirgath
       class: "n"
       field: The Shadow and what rises
       gloss: "a ring of the old realm, a thing forged to bend a mind and a soul"
-      root: "k-r-gh"
+      root: "k-r-g"
       frame: done thing
-    - form: dagarakurágh
+    - form: dagar-kurág
       class: "n"
       field: The Shadow and what rises
       gloss: "the ringing-round of forcing, the rings that warp mind and soul"
-      root: "d-g-r + k-r-gh"
+      root: "d-g-r + k-r-g"
       frame: compound
     - {form: zagath, class: "n", field: Khazartúrn, gloss: "a city", root: "z-g-th", frame: bare}
     - form: zagíth
@@ -5664,19 +5654,19 @@ data:
       gloss: "to sing as a bird"
       root: "f-l-th"
       frame: deed
-    - {form: khavaz, class: "n", field: Khazartúrn, gloss: "paint", root: "kh-v-z", frame: bare}
-    - form: khavazir
+    - {form: khabaz, class: "n", field: Khazartúrn, gloss: "paint", root: "kh-b-z", frame: bare}
+    - form: khabazir
       class: "n"
       field: Khazartúrn
       gloss: "a painter"
-      root: "kh-v-z"
+      root: "kh-b-z"
       frame: worker
-    - {form: khuváz, class: v, field: Khazartúrn, gloss: "to paint", root: "kh-v-z", frame: deed}
-    - form: khivazath
+    - {form: khubáz, class: v, field: Khazartúrn, gloss: "to paint", root: "kh-b-z", frame: deed}
+    - form: khibazath
       class: "n"
       field: Khazartúrn
       gloss: "a painting, a painted sky"
-      root: "kh-v-z"
+      root: "kh-b-z"
       frame: done thing
     - form: paghaz
       class: "n"
@@ -5702,11 +5692,11 @@ data:
       gloss: "deep-valleyed"
       root: "kh-dh-v"
       frame: adjective
-    - form: zagathavughán
+    - form: zagath-bugán
       class: "n"
       field: Khazartúrn
       gloss: "the sealing of the city"
-      root: "z-g-th + v-gh-n"
+      root: "z-g-th + b-g-n"
       frame: compound
     - form: talgh
       class: "n"
@@ -5732,29 +5722,29 @@ data:
       gloss: "of the forest folk"
       root: "l-z-p"
       frame: adjective
-    - form: badhar
+    - form: badar
       class: "n"
       field: Other peoples and the larder
       gloss: "tillage"
-      root: "b-dh-r"
+      root: "b-d-r"
       frame: bare
-    - form: badharir
+    - form: badarir
       class: "n"
       field: Other peoples and the larder
       gloss: "a farmer for the hold"
-      root: "b-dh-r"
+      root: "b-d-r"
       frame: worker
-    - form: budhár
+    - form: budár
       class: v
       field: Other peoples and the larder
       gloss: "to till"
-      root: "b-dh-r"
+      root: "b-d-r"
       frame: deed
-    - form: hubadhar
+    - form: hubadar
       class: "n"
       field: Other peoples and the larder
       gloss: "a farm"
-      root: "b-dh-r"
+      root: "b-d-r"
       frame: place
     - form: tadhaf
       class: "n"
@@ -5840,17 +5830,17 @@ data:
       gloss: "a shipwright"
       root: "p-dh-v"
       frame: worker
-    - form: tadhafavuráth
+    - form: tadhaf-buráth
       class: "n"
       field: Other peoples and the larder
       gloss: "the carrying of grain"
-      root: "t-dh-f + v-r-th"
+      root: "t-dh-f + b-r-th"
       frame: compound
-    - form: zapalabudhár
+    - form: zapal-budár
       class: "n"
       field: Other peoples and the larder
       gloss: "the tilling of the surface"
-      root: "z-p-l + b-dh-r"
+      root: "z-p-l + b-d-r"
       frame: compound
     - form: pargh
       class: "n"
@@ -5900,35 +5890,35 @@ data:
       gloss: "hungry, lean"
       root: "g-z-m"
       frame: adjective
-    - form: parghavuráth
+    - form: pargh-buráth
       class: "n"
       field: Other peoples and the larder
       gloss: "the bearing of the crown, a king"
-      root: "p-r-gh + v-r-th"
+      root: "p-r-gh + b-r-th"
       frame: compound
-    - form: varth
+    - form: barth
       class: "n"
       field: Motion and holding
       gloss: "a burden"
-      root: "v-r-th"
+      root: "b-r-th"
       frame: bare
-    - form: varthir
+    - form: barthir
       class: "n"
       field: Motion and holding
       gloss: "a bearer"
-      root: "v-r-th"
+      root: "b-r-th"
       frame: worker
-    - form: vuráth
+    - form: buráth
       class: v
       field: Motion and holding
       gloss: "to bear, to carry"
-      root: "v-r-th"
+      root: "b-r-th"
       frame: deed
-    - form: vaturáth
+    - form: baturáth
       class: v
       field: Motion and holding
       gloss: "to bear one another up"
-      root: "v-r-th"
+      root: "b-r-th"
       frame: reflexive
     - form: darkh
       class: "n"
@@ -6050,7 +6040,7 @@ data:
       gloss: "to return"
       root: "r-g-l"
       frame: deed
-    - form: vargagulád
+    - form: varg-gulád
       class: "n"
       field: Motion and holding
       gloss: "the kindling at the far reach"
@@ -6068,23 +6058,23 @@ data:
       gloss: "to cross over"
       root: "f-dh-l"
       frame: deed
-    - form: madhan
+    - form: madan
       class: "n"
       field: Motion and holding
       gloss: "the middle, what lies between"
-      root: "m-dh-n"
+      root: "m-d-n"
       frame: bare
-    - form: madhín
+    - form: madín
       class: adj
       field: Motion and holding
       gloss: "middle, lying between"
-      root: "m-dh-n"
+      root: "m-d-n"
       frame: adjective
-    - form: humadhan
+    - form: humadan
       class: "n"
       field: Motion and holding
       gloss: "the middle place"
-      root: "m-dh-n"
+      root: "m-d-n"
       frame: place
     - form: dharz
       class: "n"
@@ -6274,66 +6264,65 @@ data:
     pattern: "{given} {house}"
     given:
       female:
-        - "Ramka"
-        - "Rimki"
-        - "Rumku"
-        - "Delke"
-        - "Dolko"
-        - "Themre"
-        - "Kevale"
-        - "Sekare"
-        - "Sokaro"
-        - "Nulpu"
-        - "Gelde"
-        - "Kherde"
-        - "Khirdi"
-        - "Vutamu"
-        - "Verthe"
-        - "Moltho"
-        - "Milthi"
-        - "Pirni"
-        - "Zamda"
-        - "Famga"
-        - "Fimgi"
-        - "Khilvi"
-        - "Ganva"
-        - "Palza"
-        - "Pilzi"
-        - "Vunthu"
-        - "Derkhe"
-        - "Mirgi"
-        - "Murgu"
-        - "Dhonko"
-        - "Velde"
-        - "Voldo"
-        - "Gisvi"
-        - "Helbe"
-        - "Garfa"
-        - "Girfi"
-        - "Bulgu"
-        - "Samda"
-        - "Tevare"
-        - "Tovaro"
-        - "Zontho"
-        - "Ferde"
-        - "Melne"
-        - "Milni"
-        - "Rovado"
-        - "Hemke"
-        - "Thalga"
-        - "Thilgi"
-        - "Vorno"
-        - "Tenve"
-        - "Lekame"
-        - "Lokamo"
-        - "Hontho"
-        - "Renthe"
-        - "Selthe"
-        - "Sulthu"
-        - "Gorzo"
-        - "Tamka"
-        - "Khevane"
-        - "Gakala"
+        - "Ramak"
+        - "Rimik"
+        - "Rumuk"
+        - "Delek"
+        - "Dolok"
+        - "Thamar"
+        - "Kivil"
+        - "Sikir"
+        - "Sukur"
+        - "Nulup"
+        - "Galad"
+        - "Kharad"
+        - "Khirid"
+        - "Butum"
+        - "Barath"
+        - "Mulut"
+        - "Milit"
+        - "Pirin"
+        - "Zamad"
+        - "Bamag"
+        - "Bimig"
+        - "Khiliv"
+        - "Ganav"
+        - "Palaz"
+        - "Piliz"
+        - "Bunut"
+        - "Darakh"
+        - "Mirig"
+        - "Murug"
+        - "Dunuk"
+        - "Valad"
+        - "Gisiv"
+        - "Halab"
+        - "Garap"
+        - "Girip"
+        - "Bulug"
+        - "Samad"
+        - "Tibir"
+        - "Tubur"
+        - "Zunuth"
+        - "Farad"
+        - "Malan"
+        - "Milin"
+        - "Rubud"
+        - "Hamak"
+        - "Talag"
+        - "Tilig"
+        - "Vurun"
+        - "Tanav"
+        - "Likim"
+        - "Lukum"
+        - "Hunuth"
+        - "Ranat"
+        - "Salath"
+        - "Suluth"
+        - "Guruz"
+        - "Tamak"
+        - "Khibin"
+        - "Gakal"
       male:
         - "Ramkan"
         - "Rimkin"
@@ -6341,86 +6330,86 @@ data:
         - "Delken"
         - "Thamran"
         - "Thumrun"
-        - "Kevalen"
-        - "Sekaren"
-        - "Sokaron"
+        - "Kavalan"
+        - "Sakaran"
+        - "Sukarun"
         - "Nalpan"
         - "Nulpun"
-        - "Gelden"
+        - "Galdan"
         - "Guldun"
         - "Khirdin"
         - "Khardan"
-        - "Vutamun"
-        - "Virthin"
-        - "Vorthon"
-        - "Milthin"
+        - "Butamun"
+        - "Birthin"
+        - "Burthun"
+        - "Miltin"
         - "Pirnin"
         - "Zamdan"
-        - "Famgan"
-        - "Fimgin"
+        - "Bamgan"
+        - "Bimgin"
         - "Khalvan"
         - "Ganvan"
         - "Gunvun"
         - "Pilzin"
-        - "Vinthin"
-        - "Derkhen"
+        - "Bintin"
+        - "Darkhan"
         - "Mirgin"
-        - "Dhenken"
-        - "Dhonkon"
+        - "Dankan"
+        - "Dunkun"
         - "Valdan"
-        - "Voldon"
+        - "Vuldun"
         - "Gisvin"
-        - "Holbon"
-        - "Garfan"
+        - "Hulbun"
+        - "Garpan"
         - "Balgan"
         - "Samdan"
         - "Simdin"
-        - "Tovaron"
-        - "Zenthen"
-        - "Ferden"
+        - "Tubarun"
+        - "Zanthan"
+        - "Fardan"
         - "Malnan"
         - "Milnin"
-        - "Rovadon"
-        - "Homkon"
-        - "Thalgan"
-        - "Vernen"
-        - "Tenven"
-        - "Tonvon"
-        - "Lokamon"
+        - "Rubadun"
+        - "Humkun"
+        - "Talgan"
+        - "Varnan"
+        - "Tanvan"
+        - "Tunvun"
+        - "Lukamun"
         - "Hanthan"
-        - "Ranthan"
+        - "Rantan"
         - "Salthan"
         - "Silthin"
-        - "Gorzon"
+        - "Gurzun"
         - "Timkin"
-        - "Khevanen"
+        - "Khabanan"
         - "Gakalan"
     house:
-      - "Dalkathumár"
-      - "Sakarapuláz"
-      - "Galdavulád"
-      - "Khalvagunáv"
-      - "Tanvaguráz"
-      - "Tavarasuláth"
-      - "Margavuráth"
-      - "Halbazumád"
-      - "Thalgahunáth"
-      - "Ravadarunáth"
-      - "Ramkasumád"
-      - "Vanthakhuván"
-      - "Nalpafurád"
-      - "Zanthaguráf"
-      - "Famgadurákh"
-      - "Lakamamulán"
-      - "Balgatumák"
-      - "Malthapurán"
-      - "Parnasumád"
-      - "Vatamarumák"
-      - "Khardavurán"
-      - "Hamkadhunák"
-      - "Ganvahumák"
-      - "Valdasukár"
-      - "Kavalazunáth"
+      - "Dalk-thumár"
+      - "Sakar-puláz"
+      - "Gald-vulád"
+      - "Khalv-gunáv"
+      - "Tanv-guráz"
+      - "Tabar-suláth"
+      - "Marg-buráth"
+      - "Halb-zumád"
+      - "Talg-hunáth"
+      - "Rabad-runát"
+      - "Ramk-sumád"
+      - "Bant-khubán"
+      - "Nalp-furád"
+      - "Zanth-guráp"
+      - "Bamg-durákh"
+      - "Lakam-mulán"
+      - "Balg-tumák"
+      - "Malt-purán"
+      - "Parn-sumád"
+      - "Batam-rumák"
+      - "Khard-vurán"
+      - "Hamk-dunák"
+      - "Ganv-humák"
+      - "Vald-sukár"
+      - "Kaval-zunáth"
   sounds:
     skeleton: [{second: [l, r, m, n, s]}, {second: any, between: a}]
     frames:
@@ -6470,11 +6459,11 @@ data:
         makes: a man's name (below)
         examples: {r-m-k: Ramkan, d-l-k: Dalkan, th-m-r: Thamran}
       - frame: "given name, woman"
-        shape: K1VK2K3V
+        shape: K1VK2VK3
         class: [name]
         makes: a woman's name (below)
-        examples: {r-m-k: Ramka, d-l-k: Dalka, th-m-r: Thimri}
-      - {frame: compound, shape: bare + a + deed, class: [n], makes: two skeletons in one word}
+        examples: {r-m-k: Ramak, d-l-k: Dalak, th-m-r: Thimir}
+      - {frame: compound, shape: bare - deed, class: [n], makes: two skeletons in one word}
     mutations:
       - {mutation: doubling, sound: th, becomes: tth}
       - {mutation: doubling, sound: dh, becomes: ddh}
@@ -6501,11 +6490,11 @@ data:
     - {root: h-l-b, sense: silver, field: stone}
     - {root: g-m-th, sense: a gem; to facet, field: stone}
     - {root: l-gh-b, sense: "marble, white stone", field: stone}
-    - {root: l-v-z, sense: "a seam, a stratum", field: stone}
-    - {root: m-dh-k, sense: "bedrock, living rock", field: stone}
-    - {root: m-l-th, sense: salt, field: stone}
-    - {root: p-v-k, sense: lead (the metal), field: stone}
-    - {root: r-v-d, sense: a vein of ore, field: stone}
+    - {root: l-b-z, sense: "a seam, a stratum", field: stone}
+    - {root: m-d-k, sense: "bedrock, living rock", field: stone}
+    - {root: m-l-t, sense: salt, field: stone}
+    - {root: p-b-k, sense: lead (the metal), field: stone}
+    - {root: r-b-d, sense: a vein of ore, field: stone}
     - {root: s-k-r, sense: iron, field: stone}
     - {root: s-r-v, sense: "slate, layered stone", field: stone}
     - {root: t-l-v, sense: "granite, hard grey stone", field: stone}
@@ -6514,17 +6503,17 @@ data:
     - {root: z-gh-r, sense: ore; to win ore, field: stone}
     - {root: z-l-f, sense: tin, field: stone}
     - {root: z-t-g, sense: steel; to make steel, field: stone}
-    - {root: z-v-r, sense: "a red stone, ruby", field: stone}
-    - {root: dh-m-g, sense: a hammer, field: craft}
-    - {root: dh-n-k, sense: the fall of a hammer, field: craft}
+    - {root: z-b-r, sense: "a red stone, ruby", field: stone}
+    - {root: d-m-g, sense: a hammer, field: craft}
+    - {root: d-n-k, sense: the fall of a hammer, field: craft}
     - {root: f-r-z, sense: "the forge, the smith's hearth", field: craft}
     - {root: g-l-d, sense: fire, field: craft}
-    - {root: g-r-f, sense: "to whet, to grind an edge", field: craft}
+    - {root: g-r-p, sense: "to whet, to grind an edge", field: craft}
     - {root: g-s-v, sense: "to quench, to temper in water", field: craft}
-    - {root: gh-l-v, sense: glass, field: craft}
+    - {root: g-l-b, sense: glass, field: craft}
     - {root: h-m-k, sense: "a note, a ringing; to ring", field: craft}
     - {root: k-v-l, sense: to shape, field: craft}
-    - {root: l-t-v, sense: "to join metal, to solder", field: craft}
+    - {root: l-t-b, sense: "to join metal, to solder", field: craft}
     - {root: m-r-p, sense: an anvil, field: craft}
     - {root: n-f-r, sense: bellows; to blow the fire, field: craft}
     - {root: n-gh-p, sense: charcoal, field: craft}
@@ -6533,43 +6522,43 @@ data:
     - {root: s-l-th, sense: to pour, field: craft}
     - {root: t-s-p, sense: a spark, field: craft}
     - {root: th-m-r, sense: to strike, field: craft}
-    - {root: v-d-k, sense: a tool, field: craft}
+    - {root: b-d-k, sense: a tool, field: craft}
     - {root: v-g-l, sense: tongs; to grip with tongs, field: craft}
-    - {root: v-m-r, sense: "craft, work well done", field: craft}
-    - {root: z-d-v, sense: a chisel; to chisel, field: craft}
+    - {root: b-m-r, sense: "craft, work well done", field: craft}
+    - {root: z-d-b, sense: a chisel; to chisel, field: craft}
     - {root: z-m-d, sense: to assay, field: craft}
     - {root: z-n-th, sense: bright; to burnish, field: craft}
-    - {root: z-v-l, sense: to smelt, field: craft}
-    - {root: m-n-dh, sense: to mend; a mending, field: craft}
+    - {root: z-b-l, sense: to smelt, field: craft}
+    - {root: m-n-d, sense: to mend; a mending, field: craft}
     - {root: b-s-r, sense: "a spring, water rising", field: deep}
     - {root: d-r-p, sense: a drip; to drip, field: deep}
     - {root: dh-m-v, sense: darkness, field: deep}
-    - {root: f-m-g, sense: the deep beneath the mountain's roots, field: deep}
+    - {root: b-m-g, sense: the deep beneath the mountain's roots, field: deep}
     - {root: f-s-dh, sense: air moving underground; to draw air, field: deep}
     - {root: g-dh-th, sense: "a sump, a pool where water gathers", field: deep}
     - {root: g-n-v, sense: to delve, field: deep}
     - {root: kh-l-v, sense: "unlit, without light", field: deep}
     - {root: kh-n-k, sense: a channel that follows a watercourse; to lead water, field: deep}
     - {root: l-k-m, sense: a lamp, field: deep}
-    - {root: l-v-th, sense: a glow; light kept below, field: deep}
+    - {root: l-b-t, sense: a glow; light kept below, field: deep}
     - {root: n-r-v, sense: a tunnel; to tunnel, field: deep}
     - {root: p-r-n, sense: deep ground; a root, field: deep}
     - {root: p-s-v, sense: "a cavern, a hollow", field: deep}
     - {root: r-f-s, sense: "seep, water through rock", field: deep}
     - {root: r-t-l, sense: "a rite of the working, the ancient manner", field: deep}
-    - {root: t-v-r, sense: "deep water, water under the mountain", field: deep}
+    - {root: t-b-r, sense: "deep water, water under the mountain", field: deep}
     - {root: th-v-n, sense: a shaft, field: deep}
     - {root: v-l-gh, sense: an echo, field: deep}
     - {root: v-t-gh, sense: "bad air, firedamp", field: deep}
     - {root: b-k-th, sense: "a joint, a natural parting of the rock", field: rock}
     - {root: z-r-s, sense: "a spur, a rib of rock", field: rock}
-    - {root: dh-g-b, sense: "an overhang, a roof-ledge", field: rock}
+    - {root: d-g-b, sense: "an overhang, a roof-ledge", field: rock}
     - {root: g-th-gh, sense: a natural arch, field: rock}
     - {root: g-z-k, sense: a flaw in the stone, field: rock}
     - {root: h-l-gh, sense: "a crack, a fissure", field: rock}
     - {root: v-m-th, sense: "stress, the load the rock carries", field: rock}
     - {root: kh-t-m, sense: "the temper of a stone, its mood", field: rock}
-    - {root: m-gh-r, sense: "the grain, the way the rock runs", field: rock}
+    - {root: m-g-r, sense: "the grain, the way the rock runs", field: rock}
     - {root: n-k-s, sense: "to settle, to creep, as a slope does", field: rock}
     - {root: p-k-r, sense: "rotten, crumbling stone", field: rock}
     - {root: p-l-k, sense: to cleave along the grain, field: rock}
@@ -6580,18 +6569,18 @@ data:
     - {root: z-th-k, sense: weathering; the patina of age, field: rock}
     - {root: gh-r-m, sense: "a mountain, the whole of one, and its will", field: rock}
     - {root: n-gh-l, sense: "a shudder of the mountain, a quake", field: rock}
-    - {root: b-gh-r, sense: a cave, field: cave}
-    - {root: dh-l-m, sense: a domed chamber, field: cave}
+    - {root: b-g-r, sense: a cave, field: cave}
+    - {root: d-l-m, sense: a domed chamber, field: cave}
     - {root: f-k-r, sense: to find a way in; a finding, field: cave}
-    - {root: gh-d-m, sense: a dripstone column, field: cave}
-    - {root: t-dh-s, sense: a sinkhole, field: cave}
+    - {root: g-d-m, sense: a dripstone column, field: cave}
+    - {root: t-d-s, sense: a sinkhole, field: cave}
     - {root: n-s-k, sense: a water-worn passage, field: cave}
     - {root: p-th-k, sense: "to open, to join, to level; the least cut that serves", field: cave}
     - {root: s-l-h, sense: "flowstone, stone poured by water", field: cave}
     - {root: t-n-p, sense: "a narrow, a squeeze", field: cave}
-    - {root: th-l-v, sense: "limestone, rock the water eats", field: cave}
-    - {root: dh-f-k, sense: "a flue, a smoke-channel along a fissure", field: face}
-    - {root: gh-n-d, sense: a dwelling set in the face, field: face}
+    - {root: th-l-b, sense: "limestone, rock the water eats", field: cave}
+    - {root: d-b-k, sense: "a flue, a smoke-channel along a fissure", field: face}
+    - {root: g-n-d, sense: a dwelling set in the face, field: face}
     - {root: h-d-n, sense: "a hidden court, open to the sky within the rock", field: face}
     - {root: kh-b-r, sense: "a cliff, the face of a mountain", field: face}
     - {root: l-r-g, sense: daylight, field: face}
@@ -6609,10 +6598,10 @@ data:
     - {root: kh-t-b, sense: "a straight cut, a ruled line (a reproach)", field: listen}
     - {root: m-d-r, sense: to teach, field: listen}
     - {root: n-b-f, sense: an apprentice; to apprentice, field: listen}
-    - {root: r-k-dh, sense: to read stone, field: listen}
+    - {root: r-k-d, sense: to read stone, field: listen}
     - {root: r-p-l, sense: "spoil, rubble; to carry it away", field: listen}
     - {root: s-k-p, sense: a prop; to prop (a word of shame), field: listen}
-    - {root: s-m-gh, sense: to listen to stone; listening, field: listen}
+    - {root: s-m-g, sense: to listen to stone; listening, field: listen}
     - {root: th-b-d, sense: "to follow, to go with", field: listen}
     - {root: v-b-k, sense: to learn by watching, field: listen}
     - {root: z-b-k, sense: a scar on the mountain, field: listen}
@@ -6621,7 +6610,7 @@ data:
     - {root: g-th-r, sense: "mastery, the standing of a master", field: listen}
     - {root: b-v-th, sense: "a floor, paving", field: hold}
     - {root: d-gh-l, sense: "a door, an inner door", field: hold}
-    - {root: dh-r-v, sense: a tower, field: hold}
+    - {root: d-r-b, sense: a tower, field: hold}
     - {root: f-n-th, sense: a hall, field: hold}
     - {root: h-n-th, sense: "to span, to bridge", field: hold}
     - {root: kh-r-d, sense: a hold; to hold a place, field: hold}
@@ -6631,17 +6620,17 @@ data:
     - {root: g-k-l, sense: "to plumb, to set upright", field: hold}
     - {root: s-m-d, sense: to raise, field: hold}
     - {root: s-t-v, sense: "a stair, a step", field: hold}
-    - {root: t-m-v, sense: a pillar, field: hold}
+    - {root: t-m-b, sense: a pillar, field: hold}
     - {root: t-n-v, sense: a gate, field: hold}
-    - {root: v-th-l, sense: "a vault, an arched roof", field: hold}
+    - {root: b-th-l, sense: "a vault, an arched roof", field: hold}
     - {root: z-l-d, sense: a wall, field: hold}
     - {root: d-v-g, sense: a parent; to beget, field: kin}
     - {root: v-l-th, sense: the hearth of a house, field: kin}
     - {root: l-f-d, sense: a child, field: kin}
     - {root: m-r-dh, sense: a name; to lay a charge, field: kin}
     - {root: n-s-v, sense: "lineage, descent", field: kin}
-    - {root: n-v-dh, sense: a spouse; to wed, field: kin}
-    - {root: p-v-r, sense: an elder, field: kin}
+    - {root: n-b-d, sense: a spouse; to wed, field: kin}
+    - {root: p-b-r, sense: an elder, field: kin}
     - {root: s-p-v, sense: a sibling, field: kin}
     - {root: s-r-gh, sense: "a clan, one of the seven", field: kin}
     - {root: th-v-d, sense: to inherit, field: kin}
@@ -6649,22 +6638,22 @@ data:
     - {root: v-n-r, sense: a forebear, field: kin}
     - {root: b-l-v, sense: exile; to put out of the hold, field: kin}
     - {root: m-l-gh, sense: a shared meal; to feast in the courts, field: kin}
-    - {root: dh-k-l, sense: a tally, field: law}
+    - {root: d-k-l, sense: a tally, field: law}
     - {root: f-v-d, sense: "to warrant, to stand behind work", field: law}
     - {root: h-v-z, sense: a debt; to owe, field: law}
     - {root: k-m-v, sense: to count, field: law}
-    - {root: kh-v-n, sense: "to chant, to recite by heart", field: law}
+    - {root: kh-b-n, sense: "to chant, to recite by heart", field: law}
     - {root: l-m-v, sense: a record; to record, field: law}
     - {root: m-th-z, sense: to measure, field: law}
-    - {root: r-n-th, sense: to reckon, field: law}
+    - {root: r-n-t, sense: to reckon, field: law}
     - {root: s-dh-v, sense: to witness, field: law}
     - {root: t-m-k, sense: trust; to trust, field: law}
-    - {root: th-k-v, sense: to weigh, field: law}
+    - {root: th-k-b, sense: to weigh, field: law}
     - {root: v-l-d, sense: to bind, field: law}
-    - {root: v-n-th, sense: an oath; to swear, field: law}
+    - {root: b-n-t, sense: an oath; to swear, field: law}
     - {root: v-r-n, sense: "the true line: the line the rock runs", field: law}
     - {root: v-s-g, sense: to judge, field: law}
-    - {root: z-dh-r, sense: "law, the way a thing must be done", field: law}
+    - {root: z-d-r, sense: "law, the way a thing must be done", field: law}
     - {root: z-n-p, sense: shame; a fault entered against a name, field: law}
     - {root: th-r-gh, sense: a wrong that no warrant can cover; to wrong, field: law}
     - {root: n-th-v, sense: release from a debt; to forgive, field: law}
@@ -6676,11 +6665,11 @@ data:
     - {root: n-d-k, sense: ink; to write in ink, field: letter}
     - {root: s-b-z, sense: chalk; to mark with chalk, field: letter}
     - {root: z-t-l, sense: a stylus; to scratch with a stylus, field: letter}
-    - {root: v-k-s, sense: wax; a wax tablet, field: letter}
-    - {root: h-v-dh, sense: "a song; to sing, as the deep songs are sung", field: tell}
-    - {root: k-m-gh, sense: a lament; to keen, field: tell}
+    - {root: b-k-s, sense: wax; a wax tablet, field: letter}
+    - {root: h-b-d, sense: "a song; to sing, as the deep songs are sung", field: tell}
+    - {root: k-m-g, sense: a lament; to keen, field: tell}
     - {root: f-l-n, sense: a telling in order; to tell, field: tell}
-    - {root: v-z-n, sense: a saying; to say a saying over a matter, field: tell}
+    - {root: b-z-n, sense: a saying; to say a saying over a matter, field: tell}
     - {root: z-l-m, sense: a charm; to say words over work, field: tell}
     - {root: p-m-dh, sense: a foretelling; to foretell, field: tell}
     - {root: g-b-dh, sense: a riddle; to set a riddle, field: tell}
@@ -6694,9 +6683,9 @@ data:
     - {root: p-z-l, sense: patience; to wait, field: time}
     - {root: t-l-z, sense: "thaw, the warm season", field: time}
     - {root: t-n-f, sense: a generation, field: time}
-    - {root: th-l-g, sense: snow, field: time}
+    - {root: t-l-g, sense: snow, field: time}
     - {root: v-dh-l, sense: a year, field: time}
-    - {root: v-t-m, sense: "to last, to endure long", field: time}
+    - {root: b-t-m, sense: "to last, to endure long", field: time}
     - {root: d-z-m, sense: strength, field: body}
     - {root: f-n-z, sense: a beard, field: body}
     - {root: h-v-th, sense: breath, field: body}
@@ -6709,7 +6698,7 @@ data:
     - {root: t-f-n, sense: "a foot, a step", field: body}
     - {root: th-n-p, sense: a hand, field: body}
     - {root: v-z-l, sense: an eye, field: body}
-    - {root: z-gh-n, sense: a voice, field: body}
+    - {root: z-g-n, sense: a voice, field: body}
     - {root: dh-l-z, sense: a shield, field: war}
     - {root: f-gh-t, sense: an axe, field: war}
     - {root: f-r-d, sense: to withstand, field: war}
@@ -6717,31 +6706,31 @@ data:
     - {root: kh-m-z, sense: "armour, mail", field: war}
     - {root: kh-n-f, sense: "to gather in, to shelter the whole people", field: war}
     - {root: m-k-s, sense: a cache of stores; to lay stores by, field: war}
-    - {root: n-gh-r, sense: to watch the approaches, field: war}
+    - {root: n-g-r, sense: to watch the approaches, field: war}
     - {root: s-v-dh, sense: a blade, field: war}
     - {root: t-z-l, sense: to kill, field: war}
-    - {root: v-gh-n, sense: to seal, field: war}
-    - {root: v-k-th, sense: war; to fight, field: war}
+    - {root: b-g-n, sense: to seal, field: war}
+    - {root: b-k-t, sense: war; to fight, field: war}
     - {root: z-r-dh, sense: vermin; a Grukar, field: war}
-    - {root: dh-v-z, sense: "to lie still, to rest", field: death}
+    - {root: d-b-z, sense: "to lie still, to rest", field: death}
     - {root: f-l-g, sense: "the dead, as kin", field: death}
     - {root: h-m-dh, sense: to mourn, field: death}
     - {root: m-l-n, sense: silence, field: death}
-    - {root: n-v-th, sense: to remember, field: death}
+    - {root: n-b-t, sense: to remember, field: death}
     - {root: p-r-v, sense: "to make clean, to set in order", field: death}
-    - {root: f-n-dh, sense: "a tomb, a burial chamber", field: death}
+    - {root: p-n-d, sense: "a tomb, a burial chamber", field: death}
     - {root: th-f-r, sense: ash, field: death}
     - {root: th-v-l, sense: to die, field: death}
     - {root: z-th-v, sense: grief, field: death}
     - {root: dh-m-s, sense: forgetting; to forget, field: death}
     - {root: dh-z-v, sense: to pray, field: god}
-    - {root: f-dh-n, sense: to hallow, field: god}
-    - {root: p-v-l, sense: to offer work to the god, field: god}
+    - {root: b-d-n, sense: to hallow, field: god}
+    - {root: p-b-l, sense: to offer work to the god, field: god}
     - {root: s-th-v, sense: wisdom, field: god}
     - {root: th-z-m, sense: a dream, field: god}
-    - {root: v-t-dh, sense: "a laid-up work, a votive piece", field: god}
+    - {root: b-t-d, sense: "a laid-up work, a votive piece", field: god}
     - {root: z-f-l, sense: the god; holy, field: god}
-    - {root: h-f-dh, sense: hope; to hope, field: god}
+    - {root: h-p-d, sense: hope; to hope, field: god}
     - {root: b-z-gh, sense: a breach; to break through, field: shadow}
     - {root: dh-l-gh, sense: madness, field: shadow}
     - {root: n-gh-th, sense: the void beyond creation, field: shadow}
@@ -6750,18 +6739,18 @@ data:
     - {root: th-gh-m, sense: "forbidden, too deep", field: shadow}
     - {root: z-p-dh, sense: "to loose, to unbind", field: shadow}
     - {root: kh-g-l, sense: dread, field: shadow}
-    - root: k-r-gh
+    - root: k-r-g
       sense: "a ring of the old realm, forged to bend a mind and a soul"
       field: shadow
     - {root: f-l-th, sense: a bird; to sing as a bird, field: city}
     - {root: f-v-n, sense: a fountain, field: city}
     - {root: kh-dh-v, sense: a valley, field: city}
-    - {root: kh-v-z, sense: to paint, field: city}
+    - {root: kh-b-z, sense: to paint, field: city}
     - {root: p-gh-z, sense: a thoroughfare, field: city}
     - {root: t-v-dh, sense: a market, field: city}
     - {root: z-g-th, sense: a city, field: city}
     - {root: z-v-dh, sense: "a skylight, a light-shaft", field: city}
-    - {root: b-dh-r, sense: "to till, to farm for the hold", field: peoples}
+    - {root: b-d-r, sense: "to till, to farm for the hold", field: peoples}
     - {root: l-z-p, sense: the elder folk of the forest, field: peoples}
     - {root: m-k-dh, sense: "to exchange, to trade", field: peoples}
     - {root: p-dh-v, sense: a ship, field: peoples}
@@ -6783,10 +6772,10 @@ data:
     - {root: r-g-l, sense: "to turn back, to return", field: motion}
     - {root: th-r-p, sense: to climb, field: motion}
     - {root: v-r-g, sense: "the far edge, the last reach", field: motion}
-    - {root: v-r-th, sense: "to bear, to carry", field: motion}
+    - {root: b-r-th, sense: "to bear, to carry", field: motion}
     - {root: z-v-k, sense: "to be, to stand", field: motion}
     - {root: f-dh-l, sense: the crossing from the world before; to cross over, field: motion}
-    - {root: m-dh-n, sense: the middle; what lies between, field: motion}
+    - {root: m-d-n, sense: the middle; what lies between, field: motion}
     - {root: dh-r-z, sense: "to walk away from, to abandon", field: motion}
     - {root: dh-n-v, sense: first, field: grammar}
     - {root: dh-p-l, sense: few, field: grammar}
@@ -6821,9 +6810,9 @@ data:
     - {name: The Cutting of the Seven Towers, tongue: gloss}
     - {name: The Coming of the Khazari, tongue: gloss}
     - {name: The Arrival of the Seven Clans, tongue: gloss}
-    - {name: Humadhan, tongue: khazari, built: [m-dh-n, place]}
-    - {name: Dagarakurágh, tongue: khazari, built: [d-g-r, k-r-gh, compound]}
-    - {name: Summágh, tongue: khazari, built: [s-m-gh, mastery]}
+    - {name: Humadan, tongue: khazari, built: [m-d-n, place]}
+    - {name: Dagar-kurág, tongue: khazari, built: [d-g-r, k-r-g, compound]}
+    - {name: Summág, tongue: khazari, built: [s-m-g, mastery]}
     - {name: Dullák, tongue: khazari, built: [d-l-k, mastery]}
     - {name: Rummák, tongue: khazari, built: [r-m-k, mastery]}
     - {name: Gullád, tongue: khazari, built: [g-l-d, mastery]}
@@ -6836,11 +6825,11 @@ data:
     - {name: Vorgald, tongue: human}
     - {name: Vorgald Hold, tongue: human}
     - {name: Varíg, tongue: khazari, built: [v-r-g, adjective]}
-    - {name: Hudhakal, tongue: khazari, built: [dh-k-l, place]}
-    - {name: Hulavath, tongue: khazari, built: [l-v-th, place]}
-    - {name: The Lost City of Hulavath, tongue: gloss}
-    - {name: Luváth, tongue: khazari, built: [l-v-th, deed]}
-    - {name: Zughán, tongue: khazari, built: [z-gh-n, deed]}
+    - {name: Hudakal, tongue: khazari, built: [d-k-l, place]}
+    - {name: Hulabat, tongue: khazari, built: [l-b-t, place]}
+    - {name: The Lost City of Hulabat, tongue: gloss}
+    - {name: Lubát, tongue: khazari, built: [l-b-t, deed]}
+    - {name: Zugán, tongue: khazari, built: [z-g-n, deed]}
     - {name: Ankaris Continent, tongue: human}
     - {name: Aureldia Region, tongue: human}
     - {name: Mídhalión Region, tongue: human}
@@ -6876,17 +6865,19 @@ What makes the language strange to a human ear is not its sound but its build. A
 
 ## How Khazari sounds
 
-Khazari is short and percussive, a stone-cutter's tongue of two-syllable words.
+Khazari is short and hard, a stone-cutter's tongue. Most of its words have two syllables, many have one, and few have three; nearly every word ends on a consonant.
 
-**The vowels.** _a_, _u_ and _i_. One acute marks a stressed final syllable, as in _dulák_.
+**The vowels.** _a_ most often, then _u_ and _i_. _e_ and _o_ are rare: they stand in a few short grammar words (_ves_, _vog_, _tob_, _bep_), in the gender and plural endings _-ev_, _-od_ and _-ez_, and in the two rarer given-name charges, and never in a frame. One acute marks a stressed final syllable, as in _dulák_.
 
-**The consonants.** _th_, _dh_, _gh_, _kh_, _v_, _z_, _f_, _l_, _r_, _m_ and _n_.
+**The consonants.** The plain stops lead: _b_, _d_, _g_ and _k_ most, then _t_ and _p_. _l_, _r_, _m_, _n_, _z_ and _s_ are common. _th_, _dh_, _gh_ and _kh_ give the colour and are used less, _th_ most often of them; _v_ and _f_ are rarer still. There is no _sh_.
 
-**Clusters.** _lg_, _rv_, _nth_ and _zd_ close syllables.
+**Clusters.** Two consonants close a syllable, as _lg_, _mg_, _mk_, _lk_, _lb_, _rg_, _nd_ and _ld_ do, and less often _lth_, _nth_, _rv_ and _nv_. No word opens on two.
 
-**Endings.** Khazari words end in _-ath_, _-ir_, _-av_, _-al_, _-agh_ or _-um_.
+**Endings.** A word ends on a consonant: on its skeleton's last consonant (_dalk_, _dulák_, _Ramak_), on _-ir_ or _-ath_, or on a man's _-an_, _-in_ or _-un_.
 
-**What Khazari leaves out.** It has no _e_ or _o_ in its native words, and no word of more than three syllables.
+**Built names.** A name of two skeletons is written as two parts joined by a dash, the thing first and the work second: _Dalk-thumár_, _Magar-thubád_. Each part is one or two syllables, and only the second carries the acute.
+
+**What Khazari leaves out.** No native word ends on a vowel except the particle _zi_, no part of a word has more than three syllables, and no frame has _e_ or _o_.
 
 ## Phonology
 
@@ -6894,21 +6885,21 @@ Khazari is short and percussive, a stone-cutter's tongue of two-syllable words.
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-The four digraphs—_th_, _dh_, _kh_, _gh_—are single sounds and count as single consonants everywhere in the grammar below. There is no `sh`: the hushing sound does not exist in Khazari, and a Khazari saying a foreign name that has one says `s`. **Consonant clusters are common**, which is unusual on Thalorna: _thamr_, _vanth_, _zamd_ and _maln_ are ordinary words, and the density is the point. More meaning travels per syllable than any human tongue manages.
+The four digraphs—_th_, _dh_, _kh_, _gh_—are single sounds and count as single consonants everywhere in the grammar below. There is no `sh`: the hushing sound does not exist in Khazari, and a Khazari saying a foreign name that has one says `s`. **Consonant clusters are common**, which is unusual on Thalorna: _thamr_, _bant_, _zamd_ and _maln_ are ordinary words, and the density is the point. More meaning travels per syllable than any human tongue manages.
 
 ### Vowels
 
-Khazari has **five vowels**, and strongly prefers them short. A long vowel is written with an acute, is uncommon, and never occurs by accident: a long vowel is part of a grammatical frame and is always doing work. No word carries more than one, and no other mark is written.
+Khazari has **five vowels**, and strongly prefers them short. _e_ and _o_ are rare and stand in no frame. A long vowel is written with an acute, is uncommon, and never occurs by accident: a long vowel is part of a grammatical frame and is always doing work. No word carries more than one, and no other mark is written.
 
-Khazari has no diphthongs. Two vowels never stand together: where a suffix that begins with a vowel meets a word that ends in one, the glottal holds them apart, so the given name _Dalka_ takes the plural as _Dalka'ez_ "the Dalkas".
+Khazari has no diphthongs. Two vowels never stand together, because a native word ends on a consonant and a suffix that begins with a vowel follows it directly.
 
 ### Stress
 
-**Stress falls on the syllable carrying the acute. A word with no acute is stressed on its first syllable.** There are no exceptions and no secondary stresses, so any Khazari word can be said correctly on sight: _dalk_ (DALK), _Khalvan_ (KHAL-van), _dalkathumár_ (dal-ka-thu-MÁR).
+**Stress follows the spelling guide: a word of two syllables is stressed on the first, a longer word on the second-to-last, and an acute marks the last syllable when the rule would not choose it.** There are no exceptions and no secondary stresses, so any Khazari word can be said correctly on sight: _dalk_ (DALK), _Khalvan_ (KHAL-van), _Kavalan_ (ka-VA-lan), _dulák_ (du-LÁK). The two parts of a dashed name are each said by the rule: _dalk-thumár_ (DALK-thu-MÁR).
 
 ### Clusters
 
-A word begins on a single consonant. The only clusters at the front of a written word are the verb prefixes of the grammar below, which are joined with a hyphen. Inside a word no more than two consonants stand together—a doubled consonant counts as one—and a word ends on at most two.
+No word opens on two consonants. A dash joins the two parts of a built name. Inside a word no more than two consonants stand together—a doubled consonant counts as one—and a word ends on at most two.
 
 One rule governs every frame. **The second and third consonants of a skeleton stand together only when the second is one of five; otherwise a short _a_ stands between them.** No frame can override it.
 
@@ -6922,12 +6913,12 @@ FROM skeleton WHERE language = 'thalorna-note-skill-khazarlng' ORDER BY position
 
 ### Skeletons
 
-Meaning in Khazari lives in a **skeleton**—a _marg_, literally a bone—of exactly three consonants, written with hyphens between them. A skeleton is never spoken on its own. To say it, a speaker pours a **frame**—a _vald_, a binding—of vowels through it, and the frame says what kind of word comes out. The skeletons the examples on this page are built from:
+Meaning in Khazari lives in a **skeleton**—a _marg_, literally a bone—of exactly three consonants, written with hyphens between them, always in a code span, so a dashed word in italics, such as _dalk-thumár_, is a built name of two parts and never a skeleton. A skeleton is never spoken on its own. To say it, a speaker pours a **frame**—a _vald_, a binding—of vowels through it, and the frame says what kind of word comes out. The skeletons the examples on this page are built from:
 
 ```sql
 SELECT '`' || root || '`' AS "Skeleton", sense AS "Sense"
-FROM roots WHERE language = 'thalorna-note-skill-khazarlng' AND list_contains(['r-m-k', 'd-l-k', 'th-m-r', 'kh-l-v', 'k-v-l', 'v-l-d', 'v-r-n', 'dh-n-k', 'z-m-d', 's-m-d', 'v-n-th', 'm-r-g', 'm-l-n', 'g-l-d', 'h-l-b', 'l-k-m', 't-n-v', 'g-r-z', 'n-l-p', 'z-v-k', 's-m-gh', 'kh-s-p', 'l-m-v'], root)
-ORDER BY list_position(['r-m-k', 'd-l-k', 'th-m-r', 'kh-l-v', 'k-v-l', 'v-l-d', 'v-r-n', 'dh-n-k', 'z-m-d', 's-m-d', 'v-n-th', 'm-r-g', 'm-l-n', 'g-l-d', 'h-l-b', 'l-k-m', 't-n-v', 'g-r-z', 'n-l-p', 'z-v-k', 's-m-gh', 'kh-s-p', 'l-m-v'], root)
+FROM roots WHERE language = 'thalorna-note-skill-khazarlng' AND list_contains(['r-m-k', 'd-l-k', 'th-m-r', 'kh-l-v', 'k-v-l', 'v-l-d', 'v-r-n', 'd-n-k', 'z-m-d', 's-m-d', 'b-n-t', 'm-r-g', 'm-l-n', 'g-l-d', 'h-l-b', 'l-k-m', 't-n-v', 'g-r-z', 'n-l-p', 'z-v-k', 's-m-g', 'kh-s-p', 'l-m-v'], root)
+ORDER BY list_position(['r-m-k', 'd-l-k', 'th-m-r', 'kh-l-v', 'k-v-l', 'v-l-d', 'v-r-n', 'd-n-k', 'z-m-d', 's-m-d', 'b-n-t', 'm-r-g', 'm-l-n', 'g-l-d', 'h-l-b', 'l-k-m', 't-n-v', 'g-r-z', 'n-l-p', 'z-v-k', 's-m-g', 'kh-s-p', 'l-m-v'], root)
 ```
 
 Every skeleton the language is known to use, with the words its frames make, is set out in the [[skill-khazarlng#lexicon|Khazari Lexicon]].
@@ -6975,7 +6966,7 @@ FROM older WHERE language = 'thalorna-note-skill-khazarlng' ORDER BY position
 
 Khazari is **Subject-Verb-Object**, and the order does not move:
 
-_Dalkir thumár-ak ramkam_
+_Dalkir thumár ramk_
 : "The mason strikes the course"
 
 The actor, the act and the thing acted upon, in that sequence. Khazari rhetoric treats any other order as evasion. Inscriptions are the one exception: an inscription may set the verb last, an archaic order kept for carved stone and never spoken.
@@ -7048,13 +7039,13 @@ Poetic inversion is permitted and is immediately recognisable as poetry.
 
 The demonstratives take no suffix and stand before the noun and any adjective.
 
-_Dalkir thuf thumár-ak ramkam_
+_Dalkir thuf thumár ramk_
 : "The mason does not strike the course"
 
-_Dalkir thumár-ak ramkam zef_
+_Dalkir thumár ramk zef_
 : "Does the mason strike the course?"
 
-_dalkir zi thumár-ak ramkam_
+_dalkir zi thumár ramk_
 : "the mason who strikes the course"
 
 _kodz khalív dalk_
@@ -7090,13 +7081,13 @@ The craft-records keep their own arithmetic in this count, and divide a measure 
 
 ### Compounds
 
-Khazari compounds two skeletons by setting the first in the bare frame, the second in the deed frame, and putting a linking _-a-_ at the seam. Neither half carries a suffix of gender:
+Khazari compounds two skeletons by setting the first in the bare frame, the second in the deed frame, and joining them with a dash. Neither half carries a suffix of gender:
 
-- _dalk_ and _thumár_ give _dalkathumár_, "the striking of stone"
-- _gald_ and _vulád_ give _galdavulád_, "the binding of fire"—the tempering of a blade
-- _tanv_ and _guráz_ give _tanvaguráz_, "the guarding of the gate"
+- _dalk_ and _thumár_ give _dalk-thumár_, "the striking of stone"
+- _gald_ and _vulád_ give _gald-vulád_, "the binding of fire"—the tempering of a blade
+- _tanv_ and _guráz_ give _tanv-guráz_, "the guarding of the gate"
 
-The compound is one word, stressed on its acute, and it means exactly what its two skeletons mean in that order. The same device makes house names, which is why a Khazari house name is a sentence about a craft and not a description of a person.
+The compound is two parts joined by a dash, the second carrying the acute, and it means exactly what its two skeletons mean in that order. The same device makes house names, which is why a Khazari house name is a sentence about a craft and not a description of a person.
 
 ## Script and Literacy
 
@@ -7157,22 +7148,22 @@ Inter-stronghold communication is maintained through formal written records and 
 
 ## Sample Phrases
 
-_Vog dalkir, vog kr-rumák ramkam huramkum_
-: "He is a mason; he has laid the course in the workhall" (an introduction, and a claim to competence)
+_Vog dalkir, vog rummák ramk_
+: "He is a mason; he lays the course as a master does" (an introduction, and a claim to competence)
 
-_Thamrol dhank, valdol varn_
-: "From the blow, the hammer-fall; from the binding, the true line" (a proverb: results follow method)
+_Thamr, dank; vald, varn_
+: "The blow, the hammer-fall; the binding, the true line" (a proverb: results follow method)
 
-_Dalkir sumágh-ak dalkam, dalkir khusáp-ak_
+_Dalkir sumág dalk, dalkir khusáp_
 : "The mason listens to the stone; the mason cuts little" (a proverb: restraint is what listening leaves)
 
-_Gaz gl-thumár, ves gl-zumád_
-: "I strike as a trade, you assay as a trade" (a division of work, and by extension an acknowledgment of another's mastery)
+_Gaz thumár, ves zummád_
+: "I strike; you assay as a master does" (a division of work, and by extension an acknowledgment of another's mastery)
 
-_Ramk kr-na-sumád, ramk na-thumár-aktor_
-: "The course has been raised; the course will be struck" (said over a finished work, and at funerals)
+_Ramk samíd, ramk thamír_
+: "The course is raised; the course is struck" (said over a finished work, and at funerals)
 
-_Dalkith vanth, margith vanth_
+_Dalík bant, maríg bant_
 : "Oath of stone, oath of bone" (the strongest form of undertaking)
 
 ## Related Languages
@@ -7191,34 +7182,34 @@ Scholars debate whether the Elder Races deliberately drove their languages apart
 
 A Khazari carries a **given name**, a **house name** and belongs to a **clan**, and the three are built by different frames, so no Khazari has ever mistaken one for another:
 
-1. A **given name** is a single skeleton in a **given-name frame**. It is short—two or three syllables—it never carries an acute, and it always ends in a vowel or in that vowel followed by _n_.
-2. A **house name** is **two skeletons compounded**, exactly as any other Khazari compound is built. It is four or five syllables, it always carries the acute of the deed frame, and it always ends in a consonant.
+1. A **given name** is a single skeleton in a **given-name frame**. It is short—two or three syllables—it never carries an acute, it has no dash, and it always ends on a consonant.
+2. A **house name** is **two skeletons compounded**, exactly as any other Khazari compound is built. It is two parts joined by a dash, and it always carries the acute of the deed frame on its second part.
 
-3. A **clan name** is **one skeleton in the mastery frame**, the frame of the doing of a craft as a master does it. It is two syllables, it carries the acute, and it ends in a consonant, and each of the seven names the master craft its clan holds.
+3. A **clan name** is **one skeleton in the mastery frame**, the frame of the doing of a craft as a master does it. It is two syllables, it carries the acute, it has no dash, and each of the seven names the master craft its clan holds.
 
-Length, the acute and the final sound therefore separate the three on sight, which matters in a culture that carves them onto the same lintel: a given name is short and has no acute, a house name is long and compounded, and a clan name is short and has an acute. The acute alone parts a clan name from a given name, and length alone parts it from a house name.
+The dash and the acute therefore separate the three on sight, which matters in a culture that carves them onto the same lintel: a given name has no dash and no acute, a house name has a dash, and a clan name has an acute and no dash. The acute alone parts a clan name from a given name, and the dash alone parts it from a house name.
 
 Khazari hold that a name is not a label but a **charge**: it names work the bearer is expected to do, and a name given carelessly is an insult to the child. Naming is performed by the elders of the house, who choose the skeleton and are held to account for the choice.
 
 ### Clans and Houses
 
-The Khazari are seven **clans**, the seven who fled to Thalorna together with [Puthakun]{.name data-type="being/npc"} (see [[lore-khazararrv|the Coming of the Khazari]]), whom their tradition holds to be the agent of [[lore-goddreams|the God of Dreams]], called Luváth. A clan holds one **master craft**, and each of its **houses** holds a craft within it: a house name states that craft as an act, and the craft says which of the seven the house descends from. In [Khazartúrn]{.name data-type="place/settlement"} each clan held one of the seven towers.
+The Khazari are seven **clans**, the seven who fled to Thalorna together with [Puthakun]{.name data-type="being/npc"} (see [[lore-khazararrv|the Coming of the Khazari]]), whom their tradition holds to be the agent of [[lore-goddreams|the God of Dreams]], called Lubát. A clan holds one **master craft**, and each of its **houses** holds a craft within it: a house name states that craft as an act, and the craft says which of the seven the house descends from. In [Khazartúrn]{.name data-type="place/settlement"} each clan held one of the seven towers.
 
-| Clan      | Skeleton | Master craft                                                                |
-| --------- | -------- | --------------------------------------------------------------------------- |
-| `Summágh` | `s-m-gh` | listening to stone: the finders, who choose where a hold is cut             |
-| `Dullák`  | `d-l-k`  | cutting stone                                                               |
-| `Rummák`  | `r-m-k`  | laying courses: halls, stairs and made roads                                |
-| `Gullád`  | `g-l-d`  | fire: the forge and smithing                                                |
-| `Vurrán`  | `v-r-n`  | the true line: following the rock's run, the work of miners and prospectors |
-| `Gurráz`  | `g-r-z`  | guarding: the gates and the approaches                                      |
-| `Lummáv`  | `l-m-v`  | the record: the archive and the account                                     |
+| Clan     | Skeleton | Master craft                                                                |
+| -------- | -------- | --------------------------------------------------------------------------- |
+| `Summág` | `s-m-g`  | listening to stone: the finders, who choose where a hold is cut             |
+| `Dullák` | `d-l-k`  | cutting stone                                                               |
+| `Rummák` | `r-m-k`  | laying courses: halls, stairs and made roads                                |
+| `Gullád` | `g-l-d`  | fire: the forge and smithing                                                |
+| `Vurrán` | `v-r-n`  | the true line: following the rock's run, the work of miners and prospectors |
+| `Gurráz` | `g-r-z`  | guarding: the gates and the approaches                                      |
+| `Lummáv` | `l-m-v`  | the record: the archive and the account                                     |
 
-Each name is its skeleton in the mastery frame, so _Dullák_ is the same word as _dullák_ "to cut stone as a master does", and _Summágh_ is the listening of a master. The clan is named for the craft, and the craft is the whole of what the name says.
+Each name is its skeleton in the mastery frame, so _Dullák_ is the same word as _dullák_ "to cut stone as a master does", and _Summág_ is the listening of a master. The clan is named for the craft, and the craft is the whole of what the name says.
 
 ### Given Names
 
-The given-name frame takes any of the five vowels, and the choice is meaningful rather than decorative. The **frame vowel is repeated in the ending**: _-an_, _-en_, _-in_, _-on_, _-un_ for a man, and the bare vowel _-a_, _-e_, _-i_, _-o_, _-u_ for a woman. From **d-l-k** "stone": _Dalkan_ and _Dalka_, _Delken_ and _Delke_, _Dilkin_ and _Dilki_, _Dolkon_ and _Dolko_, _Dulkun_ and _Dulku_.
+The given-name frame takes any of the five vowels, and the choice is meaningful rather than decorative. The **frame vowel is repeated**: in a man's name it stands again in the ending, _-an_, _-en_, _-in_, _-on_ or _-un_, and in a woman's name it stands on both sides of the second consonant. From **d-l-k** "stone": _Dalkan_ and _Dalak_, _Delken_ and _Delek_, _Dilkin_ and _Dilik_, _Dolkon_ and _Dolok_, _Dulkun_ and _Duluk_.
 
 The five vowels carry the five senses in which a charge can be laid:
 
@@ -7237,11 +7228,11 @@ o
 u
 : the work endured, given to a child born in a bad season or a bad year.
 
-A Khazari therefore reads a stranger's given name twice: once for the skeleton, which says what he is for, and once for the vowel, which says why.
+_e_ and _o_ are the rare charges, and most names carry _a_, _i_ or _u_. A Khazari therefore reads a stranger's given name twice: once for the skeleton, which says what he is for, and once for the vowel, which says why.
 
 ### House Names
 
-A house name compounds two skeletons and states a craft as an act: _dalk_ "stone" and _thumár_ "striking" give **Dalkathumár**, the house of the striking of stone. The name is not a description of anybody. It is the work the house holds, and the house is answerable for it.
+A house name compounds two skeletons and states a craft as an act: _dalk_ "stone" and _thumár_ "striking" give **Dalk-thumár**, the house of the striking of stone. The name is not a description of anybody. It is the work the house holds, and the house is answerable for it.
 
 House names descend from father to child and do not change. A Khazari who accomplishes something no existing house can account for may be granted a **new** house name, compounded for the occasion by the elders of several holds together; this happens perhaps twice in a century, and it founds a line.
 
@@ -7255,47 +7246,47 @@ A place takes its name from the place frame—_hudalk_, "the quarry"—or, for a
 
 The skeletons are not gendered: a woman and a man may be named from the same skeleton and frequently are, within a house and within a generation. Only the ending distinguishes them.
 
-House names have no gendered form at all. A woman of Dalkathumár is of Dalkathumár, and the convention some human chroniclers report—that certain houses are "women's houses"—is a misreading of holds where the senior craft happened to descend through sisters.
+House names have no gendered form at all. A woman of Dalk-thumár is of Dalk-thumár, and the convention some human chroniclers report—that certain houses are "women's houses"—is a misreading of holds where the senior craft happened to descend through sisters.
 
 ## Name Lists
 
 ### Male Given Names
 
-Ramkan, Rimkin, Rumkun, Dalkan, Delken, Dolkon, Thamran, Thimrin, Thumrun, Kevalen, Kivalin, Sekaren, Sikarin, Sokaron, Nalpan, Nilpin, Nulpun, Gelden, Goldon, Guldun, Kherden, Khirdin, Khardan, Vetamen, Vutamun, Varthan, Virthin, Vorthon, Molthon, Milthin, Pernen, Pirnin, Zamdan, Zimdin, Famgan, Fimgin, Fumgun, Khalvan, Khilvin, Ganvan, Gunvun, Palzan, Pilzin, Vanthan, Vinthin, Derkhen, Dorkhon, Mirgin, Murgun, Dhenken, Dhonkon, Dhunkun, Valdan, Voldon, Gasvan, Gisvin, Helben, Holbon, Garfan, Girfin, Balgan, Bulgun, Samdan, Simdin, Tevaren, Tovaron, Zenthen, Zonthon, Ferden, Furdun, Malnan, Milnin, Revaden, Rovadon, Hemken, Homkon, Thalgan, Thilgin, Vernen, Vornon, Tenven, Tonvon, Lekamen, Lokamon, Hanthan, Hinthin, Ranthan, Rinthin, Salthan, Silthin, Gerzen, Gorzon, Tamkan, Timkin, Khevanen, Khivanin, Gakalan, Gikalin
+Ramkan, Rimkin, Rumkun, Dalkan, Delken, Dolkon, Thamran, Thimrin, Thumrun, Kavalan, Kivalin, Sakaran, Sikarin, Sukarun, Nalpan, Nilpin, Nulpun, Galdan, Guldun, Khardan, Khirdin, Bataman, Butamun, Barthan, Birthin, Burthun, Multun, Miltin, Parnan, Pirnin, Zamdan, Zimdin, Bamgan, Bimgin, Bumgun, Khalvan, Khilvin, Ganvan, Gunvun, Palzan, Pilzin, Bantan, Bintin, Darkhan, Durkhun, Mirgin, Murgun, Dankan, Dunkun, Valdan, Vuldun, Gasvan, Gisvin, Halban, Hulbun, Garpan, Girpin, Balgan, Bulgun, Samdan, Simdin, Tabaran, Tubarun, Zanthan, Zunthun, Fardan, Furdun, Malnan, Milnin, Rabadan, Rubadun, Hamkan, Humkun, Talgan, Tilgin, Varnan, Vurnun, Tanvan, Tunvun, Lakaman, Lukamun, Hanthan, Hinthin, Rantan, Rintin, Salthan, Silthin, Garzan, Gurzun, Tamkan, Timkin, Khabanan, Khibanin, Gakalan, Gikalin
 
 ### Female Given Names
 
-Ramka, Rimki, Rumku, Dalka, Delke, Dolko, Thimri, Themre, Kevale, Kivali, Sekare, Sokaro, Nilpi, Nulpu, Gelde, Goldo, Kherde, Khirdi, Vetame, Vutamu, Verthe, Vortho, Moltho, Milthi, Perne, Pirni, Zamda, Zimdi, Famga, Fimgi, Kholvo, Khilvi, Ganva, Genve, Palza, Pilzi, Vontho, Vunthu, Derkhe, Dorkho, Mirgi, Murgu, Dhenke, Dhonko, Velde, Voldo, Gasva, Gisvi, Helbe, Holbo, Garfa, Girfi, Balga, Bulgu, Samda, Simdi, Tevare, Tovaro, Zenthe, Zontho, Ferde, Furdu, Melne, Milni, Revade, Rovado, Hemke, Homko, Thalga, Thilgi, Verne, Vorno, Tenve, Tonvo, Lekame, Lokamo, Henthe, Hontho, Renthe, Rinthi, Selthe, Sulthu, Gerze, Gorzo, Tamka, Timki, Khevane, Gakala, Gekale
+Ramak, Rimik, Rumuk, Dalak, Delek, Dolok, Thimir, Thamar, Kivil, Sikir, Sukur, Nilip, Nulup, Galad, Gulud, Kharad, Khirid, Bitim, Butum, Barath, Buruth, Mulut, Milit, Paran, Pirin, Zamad, Zimid, Bamag, Bimig, Khuluv, Khiliv, Ganav, Palaz, Piliz, Bunut, Darakh, Durukh, Mirig, Murug, Danak, Dunuk, Valad, Gasav, Gisiv, Halab, Hulub, Garap, Girip, Balag, Bulug, Samad, Simid, Tibir, Tubur, Zanath, Zunuth, Farad, Furud, Malan, Milin, Ribid, Rubud, Hamak, Humuk, Talag, Tilig, Varan, Vurun, Tanav, Tunuv, Likim, Lukum, Hanath, Hunuth, Ranat, Rinit, Salath, Suluth, Garaz, Guruz, Tamak, Timik, Khibin, Gakal, Gikil
 
 ### House Names (Patrilineal)
 
 | House          | Gloss                           |
 | -------------- | ------------------------------- |
-| `Dalkathumár`  | the striking of stone           |
-| `Sakarapuláz`  | the folding of iron             |
-| `Galdavulád`   | the binding of fire             |
-| `Khalvagunáv`  | the delving of the unlit        |
-| `Tanvaguráz`   | the guarding of the gate        |
-| `Tavarasuláth` | the pouring of the deep water   |
-| `Margavuráth`  | the bearing of the bone         |
-| `Halbazumád`   | the assay of silver             |
-| `Thalgahunáth` | the spanning of the snow        |
-| `Ravadarunáth` | the reckoning of the vein       |
-| `Ramkasumád`   | the raising of the course       |
-| `Vanthakhuván` | the chanting of the oath        |
-| `Nalpafurád`   | the enduring of the cold        |
-| `Zanthaguráf`  | the whetting to brightness      |
-| `Famgadurákh`  | the holding of the deep         |
-| `Lakamamulán`  | the lamp in the silence         |
-| `Balgatumák`   | the trust of copper             |
-| `Malthapurán`  | the root of salt                |
-| `Parnasumád`   | the raising from deep ground    |
-| `Vatamarumák`  | the course that endures         |
-| `Khardavurán`  | the hold set to the rock's line |
-| `Hamkadhunák`  | the note of the hammer-fall     |
-| `Ganvahumák`   | the note of the delving         |
-| `Valdasukár`   | the binding of iron             |
-| `Kavalazunáth` | the shaping to brightness       |
+| `Dalk-thumár`  | the striking of stone           |
+| `Sakar-puláz`  | the folding of iron             |
+| `Gald-vulád`   | the binding of fire             |
+| `Khalv-gunáv`  | the delving of the unlit        |
+| `Tanv-guráz`   | the guarding of the gate        |
+| `Tabar-suláth` | the pouring of the deep water   |
+| `Marg-buráth`  | the bearing of the bone         |
+| `Halb-zumád`   | the assay of silver             |
+| `Talg-hunáth`  | the spanning of the snow        |
+| `Rabad-runát`  | the reckoning of the vein       |
+| `Ramk-sumád`   | the raising of the course       |
+| `Bant-khubán`  | the chanting of the oath        |
+| `Nalp-furád`   | the enduring of the cold        |
+| `Zanth-guráp`  | the whetting to brightness      |
+| `Bamg-durákh`  | the holding of the deep         |
+| `Lakam-mulán`  | the lamp in the silence         |
+| `Balg-tumák`   | the trust of copper             |
+| `Malt-purán`   | the root of salt                |
+| `Parn-sumád`   | the raising from deep ground    |
+| `Batam-rumák`  | the course that endures         |
+| `Khard-vurán`  | the hold set to the rock's line |
+| `Hamk-dunák`   | the note of the hammer-fall     |
+| `Ganv-humák`   | the note of the delving         |
+| `Vald-sukár`   | the binding of iron             |
+| `Kaval-zunáth` | the shaping to brightness       |
 
 ## External References
 
@@ -7344,7 +7335,7 @@ parent": _davag_ "a father", _davagev_ "a mother". The skeleton is the same, and
 differs.
 
 **Two skeletons compounded.** Set the first skeleton in the bare frame and the second in the deed frame,
-with _a_ at the seam. From **f-n-dh** "a tomb" and **v-gh-n** "to seal": _fandhavughán_ "the sealing of
+joined by a dash. From **p-n-d** "a tomb" and **b-g-n** "to seal": _pand-bugán_ "the sealing of
 the tomb". This is how a house name or a hold's name is built, and it can be read the same way: the first
 half is the thing, the second the work done to it.
 

@@ -1,33 +1,33 @@
 ---
-shortcode: balvafunad
-name: {full: The Going of the Exile, aliases: [Balvafunád]}
+shortcode: balvfunad
+name: {full: The Going of the Exile, aliases: [Balv-funád]}
 type: lore
 subType: literature
-description: "The Khazari exile's lament for Gisvin of Tanvaguráz, keeper of a gate, who carried his hold's stores out to the starving tribe below it and was put out of the rock; framed by the record of his sentence and two endings the holds disagree on."
+description: "The Khazari exile's lament for Gisvin of Tanv-guráz, keeper of a gate, who carried his hold's stores out to the starving tribe below it and was put out of the rock; framed by the record of his sentence and two endings the holds disagree on."
 tags: [draft, khazari]
 data:
   packFolder: settinglore
   culture: khazariclt
-  form: kamgh
+  form: kamg
   subjects: [lore-khazariclt, lore-flkkhazar, lore-longnhrtnc, lore-vardain]
   language: khazarlng
 ---
 
-**The Going of the Exile** is the song the [[lore-khazariclt|Khazari]] keep for a man put out of the rock, and the one lament of theirs that is never sung below. It is a _kamgh_ (lament), in the broken course: a long line answered by a short one that falls away. Its subject is [Gisvin of Tanvaguráz]{.name data-type="being/npc"}, keeper of the gate of [Basrakhunák]{.name data-type="place/settlement"}, a hold of the early centuries that no record outside the holds places, in the age when human tribes mined, herded and farmed for a hold as its subjects. In a hard winter he carried the hold's stores out through his own gate to the tribe below it, against the oath cut in the stone where he had sworn it, and the hold put him out. He does not argue the sentence. The song walks the hold from the slope beneath the gate and names what the sentence took, by count, and then names the tribe's dead, whom no Khazari record names.
+**The Going of the Exile** is the song the [[lore-khazariclt|Khazari]] keep for a man put out of the rock, and the one lament of theirs that is never sung below. It is a _kamg_ (lament), in the broken course: a long line answered by a short one that falls away. Its subject is [Gisvin of Tanv-guráz]{.name data-type="being/npc"}, keeper of the gate of [Basr-khunák]{.name data-type="place/settlement"}, a hold of the early centuries that no record outside the holds places, in the age when human tribes mined, herded and farmed for a hold as its subjects. In a hard winter he carried the hold's stores out through his own gate to the tribe below it, against the oath cut in the stone where he had sworn it, and the hold put him out. He does not argue the sentence. The song walks the hold from the slope beneath the gate and names what the sentence took, by count, and then names the tribe's dead, whom no Khazari record names.
 
-The holds keep it in two frames. In some a master reads the record of the sentence and then the song to workers on the night before they swear their first oath below, so that they hear what the oath costs before they cut it; in others the record alone is kept, with the song copied beneath it in the hand form, and nobody reads it aloud. The holds that read it tell where it came from: he sang it at the field wall where the hold's counters came down on the eighth day to tally the deliveries, and the counters carried it up. The tribe's dead stood in it by name, in the tribe's own tongue, and no Khazár who carried the song could say the names, so every copy keeps the count and a gap for each. The song closes with one of two entries from the record of Basrakhunák, and the holds that keep each take their own for the entry as it was cut; the question has never been put to the elders of several holds together. [[lore-vardain|The Vardain]] beneath [[place-vorgald|Vorgald]] sing a version in their own tongue at the turning of the Khazari year, in which the tribe at the gate is their own forebears and the gaps are filled with Vardain names. The song as the holds keep it was old before Vorgald was found, and no Khazár acknowledges the Vardain version.
+The holds keep it in two frames. In some a master reads the record of the sentence and then the song to workers on the night before they swear their first oath below, so that they hear what the oath costs before they cut it; in others the record alone is kept, with the song copied beneath it in the hand form, and nobody reads it aloud. The holds that read it tell where it came from: he sang it at the field wall where the hold's counters came down on the eighth day to tally the deliveries, and the counters carried it up. The tribe's dead stood in it by name, in the tribe's own tongue, and no Khazár who carried the song could say the names, so every copy keeps the count and a gap for each. The song closes with one of two entries from the record of Basr-khunák, and the holds that keep each take their own for the entry as it was cut; the question has never been put to the elders of several holds together. [[lore-vardain|The Vardain]] beneath [[place-vorgald|Vorgald]] sing a version in their own tongue at the turning of the Khazari year, in which the tribe at the gate is their own forebears and the gaps are filled with Vardain names. The song as the holds keep it was old before Vorgald was found, and no Khazár acknowledges the Vardain version.
 
-Two words of the text need glossing. The _marg_ (bone) of a name is its three consonants, which carved [[skill-drthrkscrpt|Pirzath]] cuts deep, and the binding is the vowels scored between them, which say why the name was given. The gate-row is the reduced row of Pirzath a hold taught its tribe for tally, mark, measure and oath; at Basrakhunák's gate a Khazár's name was cut on sacks and tools as its bone alone.
+Two words of the text need glossing. The _marg_ (bone) of a name is its three consonants, which carved [[skill-drthrkscrpt|Pirzath]] cuts deep, and the binding is the vowels scored between them, which say why the name was given. The gate-row is the reduced row of Pirzath a hold taught its tribe for tally, mark, measure and oath; at Basr-khunák's gate a Khazár's name was cut on sacks and tools as its bone alone.
 
 ## The Record of the Sentence
 
-_From the record of Basrakhunák, as the holds copy it._
+_From the record of Basr-khunák, as the holds copy it._
 
 In the year of the hold 484 the snow lay on the gate-road from the first day of the cold to the forty-first day of the thaw. Of the herd of the gate, 128 head driven up in the autumn, nine stood at the thaw. Of the tribe at the gate, 206 at the autumn count; 178 at the thaw. The hold's share from the gate was short by a third at the autumn count, and the elders opened the caches to the houses by need, and none to the gate.
 
-Gisvin of Tanvaguráz, keeper of the gate, sworn below in the year of the hold 423 that nothing of the hold's goes out by the gate but by the elders' word, went down to the caches on the thirty-second night of the cold, on the fortieth and on the fifty-first, and carried out by the gate: barley, twelve sacks by the gate-measure; dried meat, four; salt, one; oil, two jars. [Dhonko of Famgadurákh]{.name data-type="being/npc"}, keeper of the caches, saw him on the third night and entered it. He was called down. He was asked. He said: I opened it. He said nothing else.
+Gisvin of Tanv-guráz, keeper of the gate, sworn below in the year of the hold 423 that nothing of the hold's goes out by the gate but by the elders' word, went down to the caches on the thirty-second night of the cold, on the fortieth and on the fifty-first, and carried out by the gate: barley, twelve sacks by the gate-measure; dried meat, four; salt, one; oil, two jars. [Dunuk of Bamg-durákh]{.name data-type="being/npc"}, keeper of the caches, saw him on the third night and entered it. He was called down. He was asked. He said: I opened it. He said nothing else.
 
-The council sat in the deep hall on the fifty-fourth day. The oath was read from the stone where it was cut; the record was read; the record stood. An oath sworn below is broken: he does not go down again. The hold's stores were carried out of the hold: he is put out of the hold, with no house and no place in the refuge. His tools to [Tanvaguráz]{.name data-type="affiliation/lineage"}. Both were cut under the oath. He went out by the gate on the fifty-fifth day, in snow. The caches were made good by the houses before the thaw.
+The council sat in the deep hall on the fifty-fourth day. The oath was read from the stone where it was cut; the record was read; the record stood. An oath sworn below is broken: he does not go down again. The hold's stores were carried out of the hold: he is put out of the hold, with no house and no place in the refuge. His tools to [Tanv-guráz]{.name data-type="affiliation/lineage"}. Both were cut under the oath. He went out by the gate on the fifty-fifth day, in snow. The caches were made good by the houses before the thaw.
 
 The record ends at the gate.
 
@@ -35,7 +35,7 @@ The record ends at the gate.
 
 : The Going of the Exile {#song}
 
-```poetry {form=kamgh lang=en}
+```poetry {form=kamg lang=en}
 The bars go across the gate at evening.
   I hear them from here.
 Somebody draws them, at the hour I drew them,
@@ -59,7 +59,7 @@ That is as it should be.
 
 Four bars go across the gate on the inside.
   They are the oldest iron in the hold.
-**Gasvan** of Tanvaguráz made them and quenched them in the sump,
+**Gasvan** of Tanv-guráz made them and quenched them in the sump,
   and the water hissed, the account says,
 and the iron set.
   They hold.
@@ -89,7 +89,7 @@ I will walk the hold from outside.
   It is the only way left.
 The face from the south buttress to the seep-stain:
   nine openings.
-The third is Tanvaguráz. The fourth is Tanvaguráz.
+The third is Tanv-guráz. The fourth is Tanv-guráz.
   The fifth was mine.
 I know its sill by the chip in the left edge
   where my father set the lamp down hard.
@@ -120,13 +120,13 @@ My hammer is on the wall of the gatehouse, on the second peg.
 The hand was mine.
   It is here.
 
-I had the gate from **Tonvon** of Tanvaguráz,
-  who had it from **Tonvo**,
+I had the gate from **Tunvun** of Tanv-guráz,
+  who had it from **Tunuv**,
 who had it from the one who hung the bars,
   Gasvan, who quenched them.
 Four keepers of the gate since the bars were hung.
   I am the fourth.
-Tonvon taught me the oil and the wick and the bar
+Tunvun taught me the oil and the wick and the bar
   and the sound of the bars in frost;
 the count at the gate, what comes up and what goes down,
   the tally cut and the tally kept;
@@ -138,9 +138,9 @@ Who has the gate from me?
   Nobody.
 They will give it to somebody, and he will be the fifth from the bars,
   and the record will say so:
-Gasvan, Tonvo, Tonvon, Gisvin, and the fifth.
+Gasvan, Tunuv, Tunvun, Gisvin, and the fifth.
   The record keeps every name.
-The house will say Gasvan, Tonvo, Tonvon, and the fifth.
+The house will say Gasvan, Tunuv, Tunvun, and the fifth.
   The record stands.
 
 Below the court the stair goes down, and I have gone down it
@@ -156,7 +156,7 @@ My father is below, in the chamber the hold cut him
   past the sump, where the drip is.
 I laid him there. I kept the silence.
   The words were said:
-the course has been raised, the course will be struck.
+the course is raised, the course is struck.
   I said them with the rest.
 I will not go down to him again.
   He is kept.
@@ -251,7 +251,7 @@ and out through the gate between Gasvan's bars,
   and set it down in the snow.
 Each time I went down I took the lamp.
   You go down with a lamp.
-Dhonko of Famgadurákh saw me the third night.
+Dunuk of Bamg-durákh saw me the third night.
   She keeps the caches.
 She entered it. That is her work, and she did it.
   I would have entered it.
@@ -282,7 +282,7 @@ A quench sets the iron. A quench puts the fire out.
 
 I went out by the gate on the fifty-fifth day.
   It was snowing.
-Tonvon's son shut the gate behind me, and I heard the bars.
+Tunvun's son shut the gate behind me, and I heard the bars.
   I know their sound in frost.
 Nine hundred paces down the gate-road to the first field wall.
   I had never counted it.
@@ -326,8 +326,8 @@ Bone and no binding. Quench, and no vowel.
 Read the bone. The binding is the finder's.
   Choose.
 
-The course has been raised.
-  The course will be struck.
+The course is raised.
+  The course is struck.
 Nobody will say it over me.
   It is said.
 
@@ -338,11 +338,11 @@ They sound the same in frost.
 
 ## The Two Endings
 
-The holds that read the song to workers stop, in most of them, before the course in which he says the words over himself, and the workers hear the rest after they have sworn or not at all. Every copy then closes with an entry from the record of Basrakhunák, and the entry is kept in two forms.
+The holds that read the song to workers stop, in most of them, before the course in which he says the words over himself, and the workers hear the rest after they have sworn or not at all. Every copy then closes with an entry from the record of Basr-khunák, and the entry is kept in two forms.
 
-_The first._ In the third great count of the hold, [Verne of Thalgahunáth]{.name data-type="being/npc"}, apprenticed to the finders, reading the east face of the valley above the gate's fields for a watch-post, found a cave, dry, facing east, with a name cut in it in the gate-row: the bone g-s-v, cut in a straight row across a seam, split at the third letter where the row crossed it, and no binding. She cut the third letter again, on the seam's side, and scored the binding _i_. The mending is entered to her name. The cut it mends is entered to no name.
+_The first._ In the third great count of the hold, [Varan of Talg-hunáth]{.name data-type="being/npc"}, apprenticed to the finders, reading the east face of the valley above the gate's fields for a watch-post, found a cave, dry, facing east, with a name cut in it in the gate-row: the bone g-s-v, cut in a straight row across a seam, split at the third letter where the row crossed it, and no binding. She cut the third letter again, on the seam's side, and scored the binding _i_. The mending is entered to her name. The cut it mends is entered to no name.
 
-_The second._ In the third great count of the hold, Verne of Thalgahunáth, apprenticed to the finders, reading the east face of the valley above the gate's fields for a watch-post, found a cave, dry, facing east, with a name cut in it in the gate-row: the bone g-s-v, cut in a straight row across a seam, split at the third letter where the row crossed it, and no binding. She left it as she found it. Entered: found. The cave was not taken.
+_The second._ In the third great count of the hold, Varan of Talg-hunáth, apprenticed to the finders, reading the east face of the valley above the gate's fields for a watch-post, found a cave, dry, facing east, with a name cut in it in the gate-row: the bone g-s-v, cut in a straight row across a seam, split at the third letter where the row crossed it, and no binding. She left it as she found it. Entered: found. The cave was not taken.
 
 ## See Also
 

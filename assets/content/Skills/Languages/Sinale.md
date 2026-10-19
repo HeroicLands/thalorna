@@ -2333,7 +2333,7 @@ data:
     - {name: The God of Dreams, tongue: translation}
     - {name: Aulveira, tongue: sinale, built: [aulveira]}
     - {name: Aulirarno, tongue: sinale, built: [aulira, -rno]}
-    - {name: Luváth, tongue: exonym:khazari}
+    - {name: Lubát, tongue: exonym:khazari}
     - {name: Bjart, tongue: exonym:nordmal}
     - {name: Zunelas, tongue: exonym}
     - {name: Ansorun, tongue: sinale, built: [ansoru, -nno]}

@@ -50,7 +50,7 @@ The towers were not built up from the valley floor. They were **spurs the cliff 
 ribs of rock standing out from the face, and the Khazari finished them until they could not be told from
 the rock they had always been. The cliff offered the seven; the clans made them towers.
 
-There were seven because there were **seven clans**—[Summágh]{.name data-type="affiliation/lineage"}, [Dullák]{.name data-type="affiliation/lineage"}, [Rummák]{.name data-type="affiliation/lineage"}, [Gullád]{.name data-type="affiliation/lineage"}, [Vurrán]{.name data-type="affiliation/lineage"}, [Gurráz]{.name data-type="affiliation/lineage"}
+There were seven because there were **seven clans**—[Summág]{.name data-type="affiliation/lineage"}, [Dullák]{.name data-type="affiliation/lineage"}, [Rummák]{.name data-type="affiliation/lineage"}, [Gullád]{.name data-type="affiliation/lineage"}, [Vurrán]{.name data-type="affiliation/lineage"}, [Gurráz]{.name data-type="affiliation/lineage"}
 and [Lummáv]{.name data-type="affiliation/lineage"}, the seven that fled to Thalorna together around 5300 BF (see
 [[lore-khazararrv|The Coming of the Khazari]])—and each tower was that clan's, and the city was theirs jointly and severally in a way the
 Khazari have never bothered to explain to anyone else.

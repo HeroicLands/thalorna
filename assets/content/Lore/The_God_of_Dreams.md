@@ -1,6 +1,6 @@
 ---
 shortcode: goddreams
-name: {full: The God of Dreams, aliases: [Aulveira, Luváth, Bjart, Zunelas]}
+name: {full: The God of Dreams, aliases: [Aulveira, Lubát, Bjart, Zunelas]}
 type: lore
 subType: deity
 tags: [deity, elder-races, sinale, khazari, dreams, light]
@@ -16,7 +16,7 @@ The Sinale and Khazari do not acknowledge the human faiths as legitimate express
 | Culture                                          | Name                                       | Gender                  | Aspect Emphasized                                                                                |
 | ------------------------------------------------ | ------------------------------------------ | ----------------------- | ------------------------------------------------------------------------------------------------ |
 | [[lore-flksinale\|Sinale]]                       | **Aulveira**                               | Neither / beyond gender | Light, dreams, the living world                                                                  |
-| [[lore-flkkhazar\|Khazari]]                      | **Luváth**                                 | Neither / beyond gender | Deep light, craft-wisdom, enduring stone                                                         |
+| [[lore-flkkhazar\|Khazari]]                      | **Lubát**                                  | Neither / beyond gender | Deep light, craft-wisdom, enduring stone                                                         |
 | [[affiliation-asguardian\|Asguardian Pantheon]]  | [[affiliation-bjartr\|Bjart]]              | Male                    | Elder races, dreams, light                                                                       |
 | [[affiliation-arldnpnthn\|Aureldian]]            | [[affiliation-zunelas\|Zunelas]]           | Female                  | Dreams, celestial visions                                                                        |
 | [[affiliation-itzanpnthn\|Itsani]]               | [[affiliation-itzanpnthn\|Nal'ik Ts'uqal]] | Female                  | Dreams, visions, prophecy, the moon                                                              |
@@ -25,7 +25,7 @@ The Sinale and Khazari do not acknowledge the human faiths as legitimate express
 | [[affiliation-ashanpnthn\|Ashaian]]              | Zárvanya                                   | Female                  | Dreams, celestial visions, omens                                                                 |
 | [[affiliation-varakpnthn\|Varnuka]]              | _(unnamed)_                                | —                       | Worshipped indirectly through the Svapnadevas (the Dreaming Host), divine servants of this deity |
 
-The Sinale and Khazari both regard the deity as beyond mortal categories of gender—the human tendency to assign male or female identity is seen as a limitation of younger minds. The Sinale name, **Aulveira**, evokes radiance and the living dream; the Khazari name, **Luváth**, speaks of the light that endures in deep places and the wisdom found in patient craft. These are not translations of each other—they reflect genuinely different relationships with the same divine presence.
+The Sinale and Khazari both regard the deity as beyond mortal categories of gender—the human tendency to assign male or female identity is seen as a limitation of younger minds. The Sinale name, **Aulveira**, evokes radiance and the living dream; the Khazari name, **Lubát**, speaks of the light that endures in deep places and the wisdom found in patient craft. These are not translations of each other—they reflect genuinely different relationships with the same divine presence.
 
 ## The Sinalean Tradition
 
@@ -42,11 +42,11 @@ When matters arise that affect the faith as a whole, the Ansorun gather in an [A
 
 ## The Khazari Tradition
 
-The Khazari recognize Luváth and ask little of the god. The Deep Folk share even less with outsiders than the Sinale do, but the fragments that exist—from artifacts predating [[lore-oldcompact|the Old Compact]] and the rare oblique reference a Khazár has let slip—agree on where their regard goes. They venerate [Puthakun]{.name data-type="being/npc"} (see [[lore-khazararrv|the Coming of the Khazari]]), Luváth's servant, who led the seven clans out of [Humadhan]{.name data-type="place/world"} and is remembered as the savior of their people; Luváth they hold to be his master. Their devotion centers on craft: shaping stone and metal with skill and patience is itself a form of prayer, work offered in Puthakun's memory and in accord with the mountain. Light, in the Khazari understanding, is not the open radiance of sun and star but the glow of the forge and the luminescence of deep crystal—light that endures in places the sun has never touched.
+The Khazari recognize Lubát and ask little of the god. The Deep Folk share even less with outsiders than the Sinale do, but the fragments that exist—from artifacts predating [[lore-oldcompact|the Old Compact]] and the rare oblique reference a Khazár has let slip—agree on where their regard goes. They venerate [Puthakun]{.name data-type="being/npc"} (see [[lore-khazararrv|the Coming of the Khazari]]), Lubát's servant, who led the seven clans out of [Humadan]{.name data-type="place/world"} and is remembered as the savior of their people; Lubát they hold to be his master. Their devotion centers on craft: shaping stone and metal with skill and patience is itself a form of prayer, work offered in Puthakun's memory and in accord with the mountain. Light, in the Khazari understanding, is not the open radiance of sun and star but the glow of the forge and the luminescence of deep crystal—light that endures in places the sun has never touched.
 
 ## The Old Compact
 
-Before the sundering of the [[lore-flksinale|Sinale]] and [[lore-flkkhazar|Khazari]], both elder races worshipped this deity together—or at least in parallel, under the terms of the Old Compact. Whatever shattered the Compact shattered this shared worship as well. The Sinale and the Khazari have not spoken to each other in thousands of years, and their traditions have diverged completely. Whether Aulveira and Luváth would even recognize each other's rites is an open question—one that neither race has any interest in answering.
+Before the sundering of the [[lore-flksinale|Sinale]] and [[lore-flkkhazar|Khazari]], both elder races worshipped this deity together—or at least in parallel, under the terms of the Old Compact. Whatever shattered the Compact shattered this shared worship as well. The Sinale and the Khazari have not spoken to each other in thousands of years, and their traditions have diverged completely. Whether Aulveira and Lubát would even recognize each other's rites is an open question—one that neither race has any interest in answering.
 
 ## Human Adoption
 

@@ -1094,7 +1094,7 @@ set in italics because it seemed important—_the mountains_, _the coast_, _eigh
 million_—is as distracting as a stray bold, and it is the commonest mark of
 careless prose.
 
-**An in-world word that is not a name is italic every time:** _tob_, _havadh_,
+**An in-world word that is not a name is italic every time:** _tob_, _habad_,
 _filnath_.
 
 **A culture's common words are set in roman.** The in-world terms, a dozen at most, that

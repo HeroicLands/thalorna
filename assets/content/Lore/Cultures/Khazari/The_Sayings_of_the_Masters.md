@@ -1,6 +1,6 @@
 ---
-shortcode: vazanez
-name: {full: The Sayings of the Masters, aliases: [Gatharirezith vazanez]}
+shortcode: gatharbuzan
+name: {full: The Sayings of the Masters, aliases: [Gathar-buzán]}
 type: lore
 subType: literature
 description: "The workshop sayings of twelve Khazari masters as Vorgald keeps them, received in a named chain and read whole below on the day an apprentice is admitted to strike, with a dispute over the farmers at the gate kept unresolved."
@@ -8,22 +8,22 @@ tags: [draft, khazari]
 data:
   packFolder: settinglore
   culture: khazariclt
-  form: vazan
+  form: bazan
   subjects: [lore-khazariclt, lore-flkkhazar, lore-longnhrtnc, lore-vardain, place-vorgald]
   language: khazarlng
 ---
 
-**The Sayings of the Masters**, _Gatharirezith vazanez_, is the workshop wisdom of the [[lore-khazariclt|Khazari]] as one hold keeps it: the sayings (_vazan_) of twelve masters, each received from the one before and handed to the one after, so that the chain of names is recited before any saying is. A master says them to apprentices one at a time across the years of listening, usually at the face, with the stone a saying is about under the apprentice's hand, because a saying is a thing said over a matter and it waits for its matter. The whole chain is read aloud once, below, on the oath-day when an apprentice is admitted to strike, and the hammer is given after the last word. The copy transcribed here is [[place-vorgald|Vorgald]]'s, kept on lead sheets in the hold's archive; the chain is Vorgald's own, and the holds over the water keep chains of their own that share its older names and, but for [Dulkun of Khalvagunáv]{.name data-type="being/npc"}, none of its later ones. The valley the two masters quarrel over near the end is [[place-vardainvalleys|the Vardain valleys]] beneath the hold, which the text calls only the valley and the gate. Two of the masters spoke in the coursed line of the deep songs, and their sayings are read in that line; the rest are said plainly, and nothing in the chain is sung.
+**The Sayings of the Masters**, _Gathar-buzán_, is the workshop wisdom of the [[lore-khazariclt|Khazari]] as one hold keeps it: the sayings (_bazan_) of twelve masters, each received from the one before and handed to the one after, so that the chain of names is recited before any saying is. A master says them to apprentices one at a time across the years of listening, usually at the face, with the stone a saying is about under the apprentice's hand, because a saying is a thing said over a matter and it waits for its matter. The whole chain is read aloud once, below, on the oath-day when an apprentice is admitted to strike, and the hammer is given after the last word. The copy transcribed here is [[place-vorgald|Vorgald]]'s, kept on lead sheets in the hold's archive; the chain is Vorgald's own, and the holds over the water keep chains of their own that share its older names and, but for [Dulkun of Khalv-gunáv]{.name data-type="being/npc"}, none of its later ones. The valley the two masters quarrel over near the end is [[place-vardainvalleys|the Vardain valleys]] beneath the hold, which the text calls only the valley and the gate. Two of the masters spoke in the coursed line of the deep songs, and their sayings are read in that line; the rest are said plainly, and nothing in the chain is sung.
 
 ## The Chain
 
-[Tovaro of Kavalazunáth]{.name data-type="being/npc"} received listening from [Ferden of Hamkadhunák]{.name data-type="being/npc"}, and Ferden from [Pirni of Zanthaguráf]{.name data-type="being/npc"}, and Pirni from [Holbon of Lakamamulán]{.name data-type="being/npc"}, and Holbon from [Vutamu of Nalpafurád]{.name data-type="being/npc"}, and Vutamu from Dulkun of Khalvagunáv, and Dulkun from [Kevale of Halbazumád]{.name data-type="being/npc"}, and Kevale from [Nalpan of Thalgahunáth]{.name data-type="being/npc"}, and Nalpan from [Rumkun of Famgadurákh]{.name data-type="being/npc"}, and Rumkun from [Thimri of Margavuráth]{.name data-type="being/npc"}, and Thimri from [Khalvan of Ramkasumád]{.name data-type="being/npc"}, and Khalvan from [Samda of Tavarasuláth]{.name data-type="being/npc"}.
+[Tubur of Kaval-zunáth]{.name data-type="being/npc"} received listening from [Fardan of Hamk-dunák]{.name data-type="being/npc"}, and Fardan from [Pirin of Zanth-guráp]{.name data-type="being/npc"}, and Pirin from [Hulbun of Lakam-mulán]{.name data-type="being/npc"}, and Hulbun from [Butum of Nalp-furád]{.name data-type="being/npc"}, and Butum from Dulkun of Khalv-gunáv, and Dulkun from [Kivil of Halb-zumád]{.name data-type="being/npc"}, and Kivil from [Nalpan of Talg-hunáth]{.name data-type="being/npc"}, and Nalpan from [Rumkun of Bamg-durákh]{.name data-type="being/npc"}, and Rumkun from [Thimir of Marg-buráth]{.name data-type="being/npc"}, and Thimir from [Khalvan of Ramk-sumád]{.name data-type="being/npc"}, and Khalvan from [Samad of Tabar-suláth]{.name data-type="being/npc"}.
 
-Above Samda the lead holds names and no sayings. The sayings begin with her.
+Above Samad the lead holds names and no sayings. The sayings begin with her.
 
-## Samda of Tavarasuláth
+## Samad of Tabar-suláth
 
-Samda of Tavarasuláth led water. She said:
+Samad of Tabar-suláth led water. She said:
 
 Tap the stone and wait for the ring to finish. What you hear first is the hammer. What you hear after is the stone.
 
@@ -37,21 +37,21 @@ A wet joint tells you where the water ran last year. A dry joint tells you nothi
 
 Read a face well and you have read the hold's next sixty-four years, because the hold will live inside what you read. Read it badly and the hold will live inside that instead, and it will not know whose reading it is living in until a tread goes.
 
-A face and no bones. The chain keeps the saying in those four words, and the sense went with whoever first heard it. Khalvan glossed it: a hold that has its homes and no refuge. Kevale glossed it: a record full of warrants with nothing entered against a name. Both glosses are read. The four words are read first.
+A face and no bones. The chain keeps the saying in those four words, and the sense went with whoever first heard it. Khalvan glossed it: a hold that has its homes and no refuge. Kivil glossed it: a record full of warrants with nothing entered against a name. Both glosses are read. The four words are read first.
 
 Count the cave before you cut it: its chambers, its drips, its columns, where its air moves and where its air stands. What you have not counted, you will cut through.
 
 She said also, at the face of the north quarter, with an apprentice's hand on the seam: You are asking it where to cut. It is telling you where it already parts.
 
-A tenth saying of Samda stands below these on the lead, worn until only the heavier strokes of the skeletons remain, and a skeleton without its frame is three sounds and no word: […]. The reader says that a saying of Samda is worn off, and goes on.
+A tenth saying of Samad stands below these on the lead, worn until only the heavier strokes of the skeletons remain, and a skeleton without its frame is three sounds and no word: […]. The reader says that a saying of Samad is worn off, and goes on.
 
-## Khalvan of Ramkasumád
+## Khalvan of Ramk-sumád
 
-Khalvan of Ramkasumád laid courses. His claim of work for the lower hall stands on its lintel and is read with his sayings: _three cuts, no spoil carried_. He spoke in courses.
+Khalvan of Ramk-sumád laid courses. His claim of work for the lower hall stands on its lintel and is read with his sayings: _three cuts, no spoil carried_. He spoke in courses.
 
 : The Courses of Khalvan {#khalvan}
 
-```poetry {form=vazan lang=en}
+```poetry {form=bazan lang=en}
 The course, the layer of the course, the laying:
 three, and the record keeps two.
 The course keeps itself.
@@ -79,15 +79,15 @@ And: Three cuts and no spoil is a claim. Thirty cuts and a cart of spoil is a co
 
 And: The hall is finished when the last person who saw it empty is dead, and nobody has asked why the pillar stands where it stands.
 
-Over every course he laid he said the charm his house says, _Ramk dhuváz-ak_, the course lies still. An apprentice asked him what the charm did to the course. He said: Nothing. The course lies still because it was laid true. Say it anyway. It tells your hand that the course is finished, and a hand that has not been told goes back for one more blow.
+Over every course he laid he said the charm his house says, _Ramk dubáz-ak_, the course lies still. An apprentice asked him what the charm did to the course. He said: Nothing. The course lies still because it was laid true. Say it anyway. It tells your hand that the course is finished, and a hand that has not been told goes back for one more blow.
 
-## Thimri of Margavuráth
+## Thimir of Marg-buráth
 
-Thimri of Margavuráth carried the name of her grandmother's mother, who had cut the lower stair of her house's quarter and left a tread that rocked. Thimri mended it in her thirtieth year, and the mending is entered under the first cut, in the same line, in the smaller hand. She spoke in courses.
+Thimir of Marg-buráth carried the name of her grandmother's mother, who had cut the lower stair of her house's quarter and left a tread that rocked. Thimir mended it in her thirtieth year, and the mending is entered under the first cut, in the same line, in the smaller hand. She spoke in courses.
 
-: The Courses of Thimri {#thimri}
+: The Courses of Thimir {#thimri}
 
-```poetry {form=vazan lang=en}
+```poetry {form=bazan lang=en}
 The hand that cut it is in the mountain.
 The cut is the mountain,
 as far as it goes, and it goes as far as you walk.
@@ -109,9 +109,9 @@ She said also, plainly: A prop your grandfather set is his shame. It is yours as
 
 And: Nothing you make is yours after the warrant is cut. It belongs to the house, to the hold, and to whoever walks on it in the sixty-fourth generation.
 
-## Rumkun of Famgadurákh
+## Rumkun of Bamg-durákh
 
-Rumkun of Famgadurákh was born in a lean year and named for it, and his house kept the refuge. He said:
+Rumkun of Bamg-durákh was born in a lean year and named for it, and his house kept the refuge. He said:
 
 Fill the refuge first.
 
@@ -127,9 +127,9 @@ The oath you swear below is cut where you swore it, and you will walk past it on
 
 I was born in a year the gate sent up nothing. My name says so. I have eaten from the gate every day since, and I have never once walked down to it.
 
-## Nalpan of Thalgahunáth
+## Nalpan of Talg-hunáth
 
-Nalpan of Thalgahunáth spanned gaps. The upper bridge of this hold, across the cleft of the stair, is his: two cuts, and the arch the rock had already made. He said:
+Nalpan of Talg-hunáth spanned gaps. The upper bridge of this hold, across the cleft of the stair, is his: two cuts, and the arch the rock had already made. He said:
 
 A bridge is the place where the rock almost meets itself. Find that place. Where the rock does not almost meet, do not build a bridge. Build a stair.
 
@@ -139,9 +139,9 @@ Frost opens what water entered. If you want to know where a cliff will shed, wai
 
 A span is warranted on the day the first laden carrier crosses it and does not slow at the middle. Until then it is two cuts and an arch.
 
-## Kevale of Halbazumád
+## Kivil of Halb-zumád
 
-Kevale of Halbazumád assayed silver, and kept her house's records for forty years after her hands stiffened. She said:
+Kivil of Halb-zumád assayed silver, and kept her house's records for forty years after her hands stiffened. She said:
 
 What is remembered is argued about. What is written is read.
 
@@ -161,19 +161,19 @@ Once in sixty-four years, and often not even then, the elders of several holds s
 
 You honored [Puthakun]{.name data-type="being/npc"} this morning when you tapped the face and waited. Everything you have said in his name since has been repeating yourself.
 
-An apprentice copied the whole chain onto one slate and brought it to Kevale to be told that he had it. She set the slate on the assay balance against a blank one from the shelf and read him the weight. She said: It is heavier than it was. You are not.
+An apprentice copied the whole chain onto one slate and brought it to Kivil to be told that he had it. She set the slate on the assay balance against a blank one from the shelf and read him the weight. She said: It is heavier than it was. You are not.
 
-## Dulkun of Khalvagunáv
+## Dulkun of Khalv-gunáv
 
-Dulkun of Khalvagunáv came to this hold from [Magharathubád]{.name data-type="place/settlement"} when his work there was in order. He drove tunnels, refused the straight cut when it was asked of him, and spoke seldom. The chain keeps one saying of his, as he said it:
+Dulkun of Khalv-gunáv came to this hold from [Magar-thubád]{.name data-type="place/settlement"} when his work there was in order. He drove tunnels, refused the straight cut when it was asked of him, and spoke seldom. The chain keeps one saying of his, as he said it:
 
 A prop is a question you did not ask, answered in timber.
 
 The rest of what he said is in the account of the water-line, and is read there: [[lore-longtunnel|The Long Tunnel]].
 
-## Vutamu of Nalpafurád
+## Butum of Nalp-furád
 
-Vutamu of Nalpafurád led the hold's channels in the valley below it for most of her working life, and came up to teach when her knees would no longer take the slope. She said:
+Butum of Nalp-furád led the hold's channels in the valley below it for most of her working life, and came up to teach when her knees would no longer take the slope. She said:
 
 Everything the chain has told you about stone is true, and I add nothing to it. I will say one thing about the valley, because I was there and the chain was not.
 
@@ -185,15 +185,15 @@ I do not say the valley starves. It eats. I say that nobody in this hold ever sa
 
 If the hold calls this a fault, enter it against my name. I would rather it stood against mine than against nobody's.
 
-## Holbon of Lakamamulán
+## Hulbun of Lakam-mulán
 
-Holbon of Lakamamulán, of the [Lummáv]{.name data-type="affiliation/lineage"} clan (see [[lore-khazararrv|the Coming of the Khazari]]), kept the archive, and received listening from Vutamu. He answered her, and the chain keeps the answer whole. It is read in the keeper's voice, from the lead.
+Hulbun of Lakam-mulán, of the [Lummáv]{.name data-type="affiliation/lineage"} clan (see [[lore-khazararrv|the Coming of the Khazari]]), kept the archive, and received listening from Butum. He answered her, and the chain keeps the answer whole. It is read in the keeper's voice, from the lead.
 
-Vutamu has said what the gate was not given. I will read what it was given, because it is written, and what is written is read.
+Butum has said what the gate was not given. I will read what it was given, because it is written, and what is written is read.
 
 The channel that takes the eastern stream along the valley floor: cut by this hold, 252 paces, following the stream's old bed, no prop in it, warranted by three names. It waters their fields before it reaches our cistern.
 
-The terraces of the southern slope: forty-one, set to the lie of the ground. Two slipped in the thaw of a wet year and were entered against the name of [Gorzon of Khardavurán]{.name data-type="being/npc"}, who had set them; he reset both along the lie of the ground at his own labor, with a master of [Ramkasumád]{.name data-type="affiliation/lineage"} watching, and the mending is entered under the fault in the same hand.
+The terraces of the southern slope: forty-one, set to the lie of the ground. Two slipped in the thaw of a wet year and were entered against the name of [Gurzun of Khard-vurán]{.name data-type="being/npc"}, who had set them; he reset both along the lie of the ground at his own labor, with a master of [Ramk-sumád]{.name data-type="affiliation/lineage"} watching, and the mending is entered under the fault in the same hand.
 
 The drains of the lower fields: twenty-three.
 
@@ -211,15 +211,15 @@ And on the other side of the lead, what the larder has fed: every mouth in this 
 
 Nothing in that reckoning was asked for by the valley, beyond the mending it asks for each thaw. Nothing in it was refused by the valley either. If it is forcing, name the seam.
 
-Vutamu heard the reckoning read and said: The lead says what they asked mended. It does not say what they would have asked if anybody had gone down to ask.
+Butum heard the reckoning read and said: The lead says what they asked mended. It does not say what they would have asked if anybody had gone down to ask.
 
-Holbon said: Then it is not in the record.
+Hulbun said: Then it is not in the record.
 
 Both are kept, on one sheet. The hold has entered neither against a name, and nobody has asked the elders to.
 
-## Pirni of Zanthaguráf
+## Pirin of Zanth-guráp
 
-Pirni of Zanthaguráf ground edges and taught. She said:
+Pirin of Zanth-guráp ground edges and taught. She said:
 
 A dull chisel forces. Whet it before you listen, because a hand that knows its edge is blunt will push, and the push goes into the stone.
 
@@ -239,9 +239,9 @@ A straight line is an admission. It says: I wanted this, and I took it.
 
 The clumsy cut you hide is two cuts, the cut and the hiding. Both are entered when it is found, and it is found.
 
-## Ferden of Hamkadhunák
+## Fardan of Hamk-dunák
 
-Ferden of Hamkadhunák lost his right hand to a slipped block in his twelfth year of striking, and read faces by ear for fifty years after. He said:
+Fardan of Hamk-dunák lost his right hand to a slipped block in his twelfth year of striking, and read faces by ear for fifty years after. He said:
 
 Ears outlast hands. Nobody tells you that until you need it.
 
@@ -259,9 +259,9 @@ A hammer-fall has a note, and a wrong note is no louder than a right one. It is 
 
 The apprentice who cannot hear a dead stone will hear it on the day it comes down on him. Teach him before that day. The stone will not repeat itself.
 
-## Tovaro of Kavalazunáth
+## Tubur of Kaval-zunáth
 
-Tovaro of Kavalazunáth is the last name on the lead. She said:
+Tubur of Kaval-zunáth is the last name on the lead. She said:
 
 When a long work is finished, carry it up to the light and show it to the hold in the court. They have eaten the gate's bread on your account for the whole of it. Let them see what the bread bought.
 
@@ -283,7 +283,7 @@ In the stone, uncut.
 
 After the third answer the eldest master present says the saying that is older than the chain, and the apprentice says it back:
 
-_Dalkir sumágh-ak dalkam, dalkir khusáp-ak._ The mason listens to the stone; the mason cuts little.
+_Dalkir sumág dalk, dalkir khusáp._ The mason listens to the stone; the mason cuts little.
 
 Here the hammer is given.
 

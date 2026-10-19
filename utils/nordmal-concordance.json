@@ -13387,7 +13387,7 @@
             "oldAddress": null,
             "oldImage": null,
             "newName": "The God of Dreams",
-            "newAliases": ["Aulveira", "Luváth", "Bjartr", "Zûnêlâs"],
+            "newAliases": ["Aulveira", "Lubát", "Bjartr", "Zûnêlâs"],
             "newPath": "assets/content/Lore/The_God_of_Dreams.md",
             "newShortcode": "goddreams",
             "newAddress": "lore-goddreams",
@@ -13397,7 +13397,7 @@
             "type": "lore",
             "subType": "deity",
             "description": null,
-            "note": "Khazári name from the Khazári lexicon: the Khazári name of the god the Sinalë call Aulveira, `l-v-th` (the glowing: the keeping of light below); the earlier Khaldûr form is retired",
+            "note": "Khazári name from the Khazári lexicon: the Khazári name of the god the Sinalë call Aulveira, `l-b-t` (the glowing: the keeping of light below); the earlier Khaldûr form is retired",
             "prose": null,
             "oldRefPaths": [
                 "d98958a75c8f1e7331bc4520fe412f24918caadc:assets/content/Lore/The_God_of_Dreams.md:3:53"
@@ -13412,7 +13412,7 @@
             "oldAddress": null,
             "oldImage": null,
             "newName": "The Second Voice",
-            "newAliases": ["Zughán"],
+            "newAliases": ["Zugán"],
             "newPath": "assets/content/Lore/The_Second_Voice.md",
             "newShortcode": "secondvoice",
             "newAddress": "miscgear-secondvoice",
@@ -13422,7 +13422,7 @@
             "type": "miscgear",
             "subType": null,
             "description": null,
-            "note": "Khazári name from the Khazári lexicon: the Khazári name of the Second Voice, `z-gh-n` (the calling); the earlier Vrekhal form is retired",
+            "note": "Khazári name from the Khazári lexicon: the Khazári name of the Second Voice, `z-g-n` (the calling); the earlier Vrekhal form is retired",
             "prose": null,
             "oldRefPaths": [
                 "d98958a75c8f1e7331bc4520fe412f24918caadc:assets/content/Lore/The_Second_Voice.md:3:42"
@@ -13461,9 +13461,9 @@
             "oldShortcode": "valdum",
             "oldAddress": "lore-valdum",
             "oldImage": null,
-            "newName": "Hulavath",
-            "newAliases": ["The Lost City of Hulavath"],
-            "newPath": "assets/content/Lore/History/Hulavath.md",
+            "newName": "Hulabat",
+            "newAliases": ["The Lost City of Hulabat"],
+            "newPath": "assets/content/Lore/History/Hulabat.md",
             "newShortcode": "valdum",
             "newAddress": "lore-valdum",
             "newImage": null,
@@ -13472,7 +13472,7 @@
             "type": "lore",
             "subType": "history",
             "description": null,
-            "note": "Khazári name from the Khazári lexicon: the lost Khazári city, `l-v-th` in the place frame (the lit hall deep in the rock); the earlier Valdúm form is retired",
+            "note": "Khazári name from the Khazári lexicon: the lost Khazári city, `l-b-t` in the place frame (the lit hall deep in the rock); the earlier Valdúm form is retired",
             "prose": null,
             "oldRefPaths": [
                 "d98958a75c8f1e7331bc4520fe412f24918caadc:assets/content/Lore/History/Valdum.md:3:14"
@@ -13486,9 +13486,9 @@
             "oldShortcode": "barakth",
             "oldAddress": "place-barakth",
             "oldImage": null,
-            "newName": "Hudhakal",
+            "newName": "Hudakal",
             "newAliases": [],
-            "newPath": "assets/content/Regions/Ankaris/Aureldia/Aelwyth/Ironfells/Vardain_Valleys/Hudhakal.md",
+            "newPath": "assets/content/Regions/Ankaris/Aureldia/Aelwyth/Ironfells/Vardain_Valleys/Hudakal.md",
             "newShortcode": "barakth",
             "newAddress": "place-barakth",
             "newImage": null,
@@ -13497,7 +13497,7 @@
             "type": "place",
             "subType": "settlement",
             "description": null,
-            "note": "Khazári name from the Khazári lexicon: the oldest Vardain village, `dh-k-l` in the place frame (the tally-house); the earlier Barakth form is retired",
+            "note": "Khazári name from the Khazári lexicon: the oldest Vardain village, `d-k-l` in the place frame (the tally-house); the earlier Barakth form is retired",
             "prose": null,
             "oldRefPaths": [
                 "d98958a75c8f1e7331bc4520fe412f24918caadc:assets/content/Regions/Ankaris/Aureldia/Aelwyth/Ironfells/Vardain_Valleys/Barakth.md:3:14"

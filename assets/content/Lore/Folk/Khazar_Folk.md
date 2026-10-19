@@ -17,7 +17,7 @@ Self-Name
 : Khazari (singular: _Khazár_; adjective: _Khazárian_)
 
 Origins
-: [Humadhan]{.name data-type="place/world"}, "the middle place", a realm they seldom speak of; arrived on [[place-worldthlrn|Thalorna]] roughly six millennia ago (~5300 BF), about two thousand years after the [[lore-flksinale|Sinale]]—in a period when most human populations were still hunter-gatherers
+: [Humadan]{.name data-type="place/world"}, "the middle place", a realm they seldom speak of; arrived on [[place-worldthlrn|Thalorna]] roughly six millennia ago (~5300 BF), about two thousand years after the [[lore-flksinale|Sinale]]—in a period when most human populations were still hunter-gatherers
 
 Population
 : Vanishingly rare (<0.01% of world population). Most humans have never seen one.
@@ -41,7 +41,7 @@ Their magic, like the Sinale's, bears no resemblance to the [[affiliation-ordoar
 
 Like the Sinale, the Khazari keep their own history and do not share it with humans. What fragments have reached human knowledge come from the oldest oral traditions of mountain peoples and from the rare, cryptic encounters between Khazárian individuals and human scholars.
 
-The Khazari came after the Sinale—the Second People, as some traditions call them. They arrived on Thalorna from Humadhan, "the middle place", a realm they seldom speak of; their tales tell of a war there between the powers of good and evil, of rings that warp the mind and the soul, and of seven clans who fled with their god. How long after the Sinale they followed is also uncertain, though the oldest mountain traditions place the gap at roughly two thousand years. The Khazari seldom discuss their origins with outsiders, and the Sinale will not speak of the Khazari at all. What is clear is that for a time—an age, an era, a period that human chronology cannot measure—the two elder races coexisted. More than coexisted: they worked together.
+The Khazari came after the Sinale—the Second People, as some traditions call them. They arrived on Thalorna from Humadan, "the middle place", a realm they seldom speak of; their tales tell of a war there between the powers of good and evil, of rings that warp the mind and the soul, and of seven clans who fled with their god. How long after the Sinale they followed is also uncertain, though the oldest mountain traditions place the gap at roughly two thousand years. The Khazari seldom discuss their origins with outsiders, and the Sinale will not speak of the Khazari at all. What is clear is that for a time—an age, an era, a period that human chronology cannot measure—the two elder races coexisted. More than coexisted: they worked together.
 
 The fragments that survive describe a golden age of collaboration. The Sinale, with their affinity for the living world and the intangible, and the Khazari, with their mastery of stone and metal and the enduring, created together what neither could have created alone. Structures that blended living wood with shaped stone. Artifacts that married Sinalean enchantment with Khazárian craft. A shared civilization—or at least a shared accord—that spanned much of Thalorna under what some traditions call [[lore-oldcompact|the Old Compact]].
 
@@ -54,8 +54,8 @@ They did not withdraw cleanly. Before the retreat there were centuries in which 
 ## The Seven Clans
 
 The Khazari who came to Thalorna came as **seven clans**, and the number has never lost its significance
-to them. The seven are [Summágh]{.name data-type="affiliation/lineage"}, [Dullák]{.name data-type="affiliation/lineage"}, [Rummák]{.name data-type="affiliation/lineage"}, [Gullád]{.name data-type="affiliation/lineage"}, [Vurrán]{.name data-type="affiliation/lineage"}, [Gurráz]{.name data-type="affiliation/lineage"} and [Lummáv]{.name data-type="affiliation/lineage"}, each named for the
-master craft it holds, and the tale of their flight from Humadhan is told in
+to them. The seven are [Summág]{.name data-type="affiliation/lineage"}, [Dullák]{.name data-type="affiliation/lineage"}, [Rummák]{.name data-type="affiliation/lineage"}, [Gullád]{.name data-type="affiliation/lineage"}, [Vurrán]{.name data-type="affiliation/lineage"}, [Gurráz]{.name data-type="affiliation/lineage"} and [Lummáv]{.name data-type="affiliation/lineage"}, each named for the
+master craft it holds, and the tale of their flight from Humadan is told in
 [[lore-khazararrv|The Coming of the Khazari]]. Clan names are patrilineal, the genealogies are kept as carefully as the craft-records, and a
 Khazár can recite a line back to one of the seven without hesitation or notes.
 

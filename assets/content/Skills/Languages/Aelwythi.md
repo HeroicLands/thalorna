@@ -511,7 +511,7 @@ data:
     - name: Hawise
       kind: given
       why: A short or foreign-shaped name that no listed element builds.
-    - {name: Hudhakal, kind: place, why: A Khazari name.}
+    - {name: Hudakal, kind: place, why: A Khazari name.}
     - name: Háravrel
       kind: byname
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."

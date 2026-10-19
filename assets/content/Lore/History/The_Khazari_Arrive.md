@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [lore-flkkhazar, place-ankrscntnnt, lore-vardain, lore-khazarturn]
       summary: >-
-        The Khazari reach Thalorna from Humadhan, a realm they seldom speak of, two thousand years after the Sinale and as seven clans fleeing with their god Luváth. They take to the mountains and begin cutting holds. A hold grows nothing and will not be supplied from outside, and the humans they find are hunter-gatherers who cannot provision anybody.
+        The Khazari reach Thalorna from Humadan, a realm they seldom speak of, two thousand years after the Sinale and as seven clans fleeing with their god Lubát. They take to the mountains and begin cutting holds. A hold grows nothing and will not be supplied from outside, and the humans they find are hunter-gatherers who cannot provision anybody.
       standing: single-source
       where:
         locus: [place-worldthlrn]
@@ -26,9 +26,9 @@ data:
       accounts:
         - by: lore-flkkhazar
           says: >-
-            We came from Humadhan, the middle place, where a great war between the powers of good and evil forged rings that warp the mind and the soul; some were given to our ancestors and corrupted them, and seven clans fled with Luváth, saved by Puthakun, the god's servant, who led us out, held the passage behind us and sealed it. A Khazár can recite a line back to one of the seven without hesitation or notes.
+            We came from Humadan, the middle place, where a great war between the powers of good and evil forged rings that warp the mind and the soul; some were given to our ancestors and corrupted them, and seven clans fled with Lubát, saved by Puthakun, the god's servant, who led us out, held the passage behind us and sealed it. A Khazár can recite a line back to one of the seven without hesitation or notes.
           agrees: partly
-          withholds: the tale of Humadhan beyond its outline, which they seldom tell
+          withholds: the tale of Humadan beyond its outline, which they seldom tell
         - by: lore-flksinale
           says: Nothing. The Sinale will not speak of the Khazari at all.
           agrees: silent
@@ -37,31 +37,31 @@ data:
 ---
 
 The [[lore-flkkhazar|Khazari]] came after the [[lore-flksinale|Sinale]]—the Second People, as some
-traditions call them. They came from another realm, which they call [Humadhan]{.name data-type="place/world"}, "the middle place".
+traditions call them. They came from another realm, which they call [Humadan]{.name data-type="place/world"}, "the middle place".
 They seldom speak of it, and what they say is a tale rather than a record.
 
-The tale tells of a great war in Humadhan between the powers of good and evil. Rings were forged in
-that war that warp the mind and the soul, and the Khazari call them [Dagarakurágh]{.name data-type="miscgear"}, "the
-ringing-round of forcing": rings that force a mind and a soul against their grain, as a bad mason forces rock. One ring is a _kirghath_, and rings are
-_kirghathez_. Some were given to the Khazari's ancestors, and the rings corrupted them. Seven clans fled
-to [[place-worldthlrn|the World of Thalorna]] with [[lore-goddreams|the God of Dreams]], their god Luváth, and that flight is the crossing, the _khadhal_,
+The tale tells of a great war in Humadan between the powers of good and evil. Rings were forged in
+that war that warp the mind and the soul, and the Khazari call them [Dagar-kurág]{.name data-type="miscgear"}, "the
+ringing-round of forcing": rings that force a mind and a soul against their grain, as a bad mason forces rock. One ring is a _kirgath_, and rings are
+_kirgathez_. Some were given to the Khazari's ancestors, and the rings corrupted them. Seven clans fled
+to [[place-worldthlrn|the World of Thalorna]] with [[lore-goddreams|the God of Dreams]], their god Lubát, and that flight is the crossing, the _khadhal_,
 of about 5300 BF.
 
 The flight had a leader, and the Khazari hold him to be the one who saved their people. [Puthakun]{.name data-type="being/npc"},
-a servant of Luváth, led the seven clans out of Humadhan, and his name carries the charge "to open a
+a servant of Lubát, led the seven clans out of Humadan, and his name carries the charge "to open a
 way". Before the crossing he had every one of the clans swear before the god.
 When pursuit came after them, he stood at the passage and held the pursuers there until the last of
-the seven was through, and then he sealed the way behind them, so that nothing of Humadhan followed
+the seven was through, and then he sealed the way behind them, so that nothing of Humadan followed
 the clans into Thalorna. Every Khazár alive descends from someone Puthakun brought out alive, and
 that is the whole reason the Khazari venerate him: as their savior, the one who did the deed, whose
-name is kept, remembered below and answered with good work. Luváth they recognize as his master and
+name is kept, remembered below and answered with good work. Lubát they recognize as his master and
 as the light kept below. The deed is carried in the tellings; the record of the crossing counts the
 seven clans head for head and holds no entry for anyone else.
 
 They came as **seven clans**, and the number has never lost its significance to them. Each clan is named
 for the master craft it holds, in the mastery frame of the [[skill-khazarlng|language]]:
 
-[Summágh]{.name data-type="affiliation/lineage"}
+[Summág]{.name data-type="affiliation/lineage"}
 : listening to stone. The finders, who choose where a hold is cut.
 
 [Dullák]{.name data-type="affiliation/lineage"}

@@ -1,6 +1,6 @@
 ---
 shortcode: barakth
-name: {full: Hudhakal, aliases: []}
+name: {full: Hudakal, aliases: []}
 type: place
 subType: settlement
 description: "The oldest of the Vardain villages and the nearest to the Gate—where the tallies are kept and the Khazari schedule is reckoned."
@@ -14,16 +14,16 @@ data:
   packFolder: aelwyth
 ---
 
-**Hudhakal** lies highest of the inhabited valleys but one, closest to the road up to
+**Hudakal** lies highest of the inhabited valleys but one, closest to the road up to
 [[place-vorgald|Vorgald]], and it is the oldest Vardain settlement—old enough that it bears a
-Khazari name, Hudhakal, "the tally-house".
+Khazari name, Hudakal, "the tally-house".
 
 Seven hundred and eighty people, and the **tallies**. Every delivery owed up the mountain and every
 consignment coming down is reckoned here before it reaches [[place-vargate|Vargate]], on tally-sticks
 and in ledgers kept by four families who have kept them for longer than [[affiliation-kngdmldrth|Aldorath]] has had kings. The
 system is exact to a degree outsiders find unnerving, and the [[lore-flkkhazar|Khazari]] have never once queried a figure.
 
-Hudhakal is also where a Vardain goes when a matter must be put to the lords. The tally-keepers do not
+Hudakal is also where a Vardain goes when a matter must be put to the lords. The tally-keepers do not
 claim to speak for anyone; they simply know how to send a question up and are the only people who do.
 
 ## See Also

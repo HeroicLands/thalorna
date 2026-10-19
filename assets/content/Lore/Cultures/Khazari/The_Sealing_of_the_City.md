@@ -1,6 +1,6 @@
 ---
 shortcode: sealingcity
-name: {full: The Sealing of the City, aliases: [Zagathavughán]}
+name: {full: The Sealing of the City, aliases: [Zagath-bugán]}
 type: lore
 subType: literature
 description: "The Khazari lament sung below after the reading of the account of Khazartúrn: the dead laid in their chambers tower by tower, the cleaning counted stair by stair, the skylights unmade, the fountains shut, and the words said once at the gate."
@@ -8,16 +8,16 @@ tags: [draft, khazari]
 data:
   packFolder: settinglore
   culture: khazariclt
-  form: kamgh
+  form: kamg
   language: khazarlng
   subjects: [lore-khazarturn, lore-fallkhazturn, lore-grukarapp, miscgear-secondvoice]
 ---
 
-**The Sealing of the City**, _Zagathavughán_, is the lament the [[lore-khazariclt|Khazari]] sing below when the account of Khazartúrn (see [[lore-khazarturn|the Fall of Khazartúrn]]) has been read. The keepers of the archive read the account by lamplight in the deep hall; when its last line is read, the old of the hold sing this, and nobody else sings it. It is a _kimghath_, a lament kept and sung again without change, in the broken course of the deep song in the [[skill-khazarlng|Khazari Language]]: a long half-line answered by a short one that falls away. Its first keener was [Kimghi of Lakamamulán]{.name data-type="being/npc"}, born to the remnant in the years after the sealing and given the _i_ of her name for the work of her father's mother, [Kamgha]{.name data-type="being/npc"} of the same house, who keened over the carrying and died before her keening was set; Kimghi set it. The lament keeps to the account and sings in the voice of those who went in, as the account is written in theirs. Every name in it is a name the account holds and every count is the account's count, and a keener who varies either is corrected from the record. Of the one who carried the Voice it says what the account says, that he was [[lore-flksinale|Sinale]], and no more; his name is known in every hold and is written in no Khazari text. The [[lore-grukarfolk|Grukar]] are in it as the account has them, as vermin, and the account's own reasoning about them is in it unchanged. In Khazari each of the eleven courses opens on a letter of [[skill-drthrkscrpt|Pirzath]] in the order of the row, and the course-heads count from _tob_ to _dolb_, one to eleven. The rendering keeps the numbers and loses the letters, and the course of the birds, the four half-lines that stand before the eleventh head, opens on no letter and carries no number. The text is as the old sing it at [[place-vorgald|Vorgald]], where it arrived with the account.
+**The Sealing of the City**, _Zagath-bugán_, is the lament the [[lore-khazariclt|Khazari]] sing below when the account of Khazartúrn (see [[lore-khazarturn|the Fall of Khazartúrn]]) has been read. The keepers of the archive read the account by lamplight in the deep hall; when its last line is read, the old of the hold sing this, and nobody else sings it. It is a _kimgath_, a lament kept and sung again without change, in the broken course of the deep song in the [[skill-khazarlng|Khazari Language]]: a long half-line answered by a short one that falls away. Its first keener was [Kimig of Lakam-mulán]{.name data-type="being/npc"}, born to the remnant in the years after the sealing and given the _i_ of her name for the work of her father's mother, [Kamag]{.name data-type="being/npc"} of the same house, who keened over the carrying and died before her keening was set; Kimig set it. The lament keeps to the account and sings in the voice of those who went in, as the account is written in theirs. Every name in it is a name the account holds and every count is the account's count, and a keener who varies either is corrected from the record. Of the one who carried the Voice it says what the account says, that he was [[lore-flksinale|Sinale]], and no more; his name is known in every hold and is written in no Khazari text. The [[lore-grukarfolk|Grukar]] are in it as the account has them, as vermin, and the account's own reasoning about them is in it unchanged. In Khazari each of the eleven courses opens on a letter of [[skill-drthrkscrpt|Pirzath]] in the order of the row, and the course-heads count from _tob_ to _dolb_, one to eleven. The rendering keeps the numbers and loses the letters, and the course of the birds, the four half-lines that stand before the eleventh head, opens on no letter and carries no number. The text is as the old sing it at [[place-vorgald|Vorgald]], where it arrived with the account.
 
 : The Sealing of the City {#sealing}
 
-```poetry {form=kamgh lang=en}
+```poetry {form=kamg lang=en}
 _Tob_
 
 The account has been read.
@@ -47,7 +47,7 @@ They were spoken over.
   One voice in a great count of bodies.
 They had not tired at the gate.
   They are made to tire.
-The voice was _Zughán_. The one who carried it
+The voice was _Zugán_. The one who carried it
   was of the forest folk.
 We know his name as we know our line.
   It is not cut. It is not sung.
@@ -62,22 +62,22 @@ _Zik_
 
 In the tower of Gurráz was the guarding,
   the gate and the deep.
-Tanvaguráz had the gate,
-  Famgadurákh the deep.
-**Gerzen** had the gate that night.
+Tanv-guráz had the gate,
+  Bamg-durákh the deep.
+**Garzan** had the gate that night.
   He was found at it.
-**Gorzo** had the gate after him.
+**Guruz** had the gate after him.
   She had not left it.
-**Nilpin** of Nalpafurád had the high approach,
+**Nilpin** of Nalp-furád had the high approach,
   the cold watch.
 He was found on the approach.
   He had sent the word down.
 The word came down. The gate was shut.
   Those who could went down to the deep.
 
-Famgadurákh had the refuge,
+Bamg-durákh had the refuge,
   the holding of the deep.
-**Famgan** had the door, and **Fimgi**.
+**Bamgan** had the door, and **Bimig**.
   They were found at it, inside.
 The door was made for what tires.
   They did not tire.
@@ -111,33 +111,33 @@ In the tower of Gullád the forges were cold.
   They had been cold nine days.
 The smiths were laid at their hearths,
   each with the tool of his hand.
-**Gelden** of Galdavulád, master of the hearth,
+**Galdan** of Gald-vulád, master of the hearth,
   with the hammer.
 It was his own hammer, of his own making,
   warranted on the haft.
-**Thamran** of Hamkadhunák, the striker,
+**Thamran** of Hamk-dunák, the striker,
   with the striker's hammer.
-**Hemken** of Hamkadhunák, who sounded the blades,
+**Hamkan** of Hamk-dunák, who sounded the blades,
   with a blade not sounded.
-**Sekare** of Sakarapuláz, the folder of iron,
+**Sikir** of Sakar-puláz, the folder of iron,
   with the tongs,
 and in the tongs a bar folded four times.
   The fifth fold was not made.
-**Pilzi** her apprentice, of Sakarapuláz,
+**Piliz** her apprentice, of Sakar-puláz,
   with the bar's other end.
-**Vetame** of Valdasukár at the bellows,
+**Bitim** of Vald-sukár at the bellows,
   with the bellows.
-**Balgan** of Balgatumák at the copper,
+**Balgan** of Balg-tumák at the copper,
   with a basin half raised.
-**Helben** of Halbazumád at the silver,
+**Halban** of Halb-zumád at the silver,
   with the touchstone.
 His weights were on the bench, and they were counted:
   twelve, and all true.
-**Zamda** of Halbazumád, who assayed,
+**Zamad** of Halb-zumád, who assayed,
   with the lead.
-**Garfan** of Zanthaguráf at the whetstone,
+**Garpan** of Zanth-guráp at the whetstone,
   with an axe half-edged.
-**Guldun** of Galdavulád, a child of the house,
+**Guldun** of Gald-vulád, a child of the house,
   born in the hungry year,
 who carried the charcoal to the hearths,
   with the charcoal.
@@ -158,9 +158,9 @@ _Bozd_
 
 In the tower of Dullák the cutters were laid
   among their cuts.
-**Dalkan** of Dalkathumár by the wall he was dressing.
+**Dalkan** of Dalk-thumár by the wall he was dressing.
   It is dressed to the seam.
-**Delke** of Kavalazunáth, hoped for by her house,
+**Delek** of Kaval-zunáth, hoped for by her house,
   by the pillar she was finishing.
 The rock had left the pillar standing.
   She had touched it with three cuts.
@@ -171,11 +171,11 @@ _Zop_
 
 In the tower of Rummák the layers of courses
   were laid in the halls.
-**Ramkan** of Ramkasumád in the hall he had raised,
+**Ramkan** of Ramk-sumád in the hall he had raised,
   two hundred and fifty-six feet to the vault.
-**Rimki** of Vatamarumák, who took up her forebear's work,
+**Rimik** of Batam-rumák, who took up her forebear's work,
   on the stair her forebear began.
-**Thalgan** of Thalgahunáth, who made the roads,
+**Talgan** of Talg-hunáth, who made the roads,
   on the road inside the rock.
 The great ways run straight in Khazartúrn.
   We wanted it so.
@@ -190,17 +190,17 @@ _Nefk_
 
 In the tower of Vurrán the followers of the line
   were laid in the workings.
-**Malnan** of Khalvagunáv in the unlit working,
+**Malnan** of Khalv-gunáv in the unlit working,
   where the lamp had gone out.
 The lamp had burned to the end of its oil.
   It was not put out.
-**Revade** of Ravadarunáth at the vein,
+**Ribid** of Rabad-runát at the vein,
   with the reckoning of the vein on wax.
-**Molthon** of Malthapurán was at the salt with us.
+**Multun** of Malt-purán was at the salt with us.
   He carried his father up.
-**Tevaren** of Tavarasuláth at the channel-head
+**Tabaran** of Tabar-suláth at the channel-head
   where the water comes in.
-**Varthan** of Malthapurán, the bearer,
+**Barthan** of Malt-purán, the bearer,
   with his load, at the foot of the stair.
 The long tunnel of Vurrán needs no prop.
   It needed none that night.
@@ -211,21 +211,21 @@ Over the followers of the line the words were not said.
 
 _Fozd_
 
-In the tower of Summágh the listeners
+In the tower of Summág the listeners
   were laid in the listening-places.
 The apprentices were there with their slates.
   The slates were read.
-**Nulpu**, born in the hungry year, had written:
+**Nulup**, born in the hungry year, had written:
   it rings sound.
 The stone of that place rings sound.
   It rang sound that night.
-**Gakala** of Khardavurán had the reading of the faces.
+**Gakal** of Khard-vurán had the reading of the faces.
   She was laid in her reading-room,
 with the valley before her, on wax, in her hand,
   face by face.
 The one who found the valley is in the record
   from before the first tower.
-**Samgha** of Khardavurán read the cliff from the valley floor
+**Samag** of Khard-vurán read the cliff from the valley floor
   and said: seven.
 She said the cliff would hold seven.
   It held seven.
@@ -237,13 +237,13 @@ _Kabr_
 
 In the tower of Lummáv the keepers of the record
   were laid among the records.
-**Lekamen** of Lakamamulán, the lamp in the silence,
+**Lakaman** of Lakam-mulán, the lamp in the silence,
   had the archive lamp.
 It was found trimmed. It was found out.
   He was found by it.
-**Vanthan** of Vanthakhuván, who recited the oaths,
+**Bantan** of Bant-khubán, who recited the oaths,
   among the oaths.
-**Lamva** of Vanthakhuván had the day-record.
+**Lamav** of Bant-khubán had the day-record.
   She was found at it.
 On the wax of that day, in the flowing hand, it reads:
   _On this day the gate sends down—_
@@ -332,7 +332,7 @@ Then the water.
   The fountains were shut at the source.
 Twenty-three fountains,
   each at its channel-head.
-The water-leaders of Tavarasuláth who were with us
+The water-leaders of Tabar-suláth who were with us
   shut what their dead had opened.
 The city was to keep.
   It was shut so it would keep.
@@ -351,7 +351,7 @@ Then the gate.
   The last came out of it.
 It was walled, and the wall was dressed to the cliff,
   bedding and stain.
-**Dilkin** of Dalkathumár set the last block.
+**Dilkin** of Dalk-thumár set the last block.
   It is set flush.
 He had the first cut of it and the last.
   He cut it where the cliff had a block to give.
@@ -366,8 +366,8 @@ Then the words were said, once,
   at the gate, for all of them,
 as they are said over finished work
   and over the dead:
-the course has been raised;
-  the course will be struck.
+the course is raised;
+  the course is struck.
 For thirty thousand of them,
   by name,
 and for the names the record could not confirm,
