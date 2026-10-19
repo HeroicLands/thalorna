@@ -1886,7 +1886,7 @@ data:
     - form: thubágh
       class: v
       field: The grain of the rock
-      gloss: "to ask, as stone asks"
+      gloss: "to ask, as stone asks; an asking made without force, a request"
       root: "th-b-gh"
       frame: deed
     - form: thibaghath
@@ -5890,6 +5890,30 @@ data:
       gloss: "hungry, lean"
       root: "g-z-m"
       frame: adjective
+    - form: targ
+      class: "n"
+      field: Other peoples and the larder
+      gloss: "thirst, dryness"
+      root: "t-r-g"
+      frame: bare
+    - form: taríg
+      class: adj
+      field: Other peoples and the larder
+      gloss: "thirsty, dry"
+      root: "t-r-g"
+      frame: adjective
+    - form: galk
+      class: "n"
+      field: Other peoples and the larder
+      gloss: "a drink, a draught"
+      root: "g-l-k"
+      frame: bare
+    - form: gulák
+      class: v
+      field: Other peoples and the larder
+      gloss: "to drink"
+      root: "g-l-k"
+      frame: deed
     - form: pargh-buráth
       class: "n"
       field: Other peoples and the larder
@@ -5949,6 +5973,18 @@ data:
       field: Motion and holding
       gloss: "to be, to stand"
       root: "z-v-k"
+      frame: deed
+    - form: darm
+      class: "n"
+      field: Motion and holding
+      gloss: "a seat"
+      root: "d-r-m"
+      frame: bare
+    - form: durám
+      class: v
+      field: Motion and holding
+      gloss: "to sit"
+      root: "d-r-m"
       frame: deed
     - form: fand
       class: "n"
@@ -6764,6 +6800,8 @@ data:
     - {root: l-dh-v, sense: a river under open sky, field: peoples}
     - {root: h-l-z, sense: ale; to brew, field: peoples}
     - {root: g-z-m, sense: hunger; the lean year, field: peoples}
+    - {root: t-r-g, sense: thirst; to be dry, field: peoples}
+    - {root: g-l-k, sense: a drink; to drink, field: peoples}
     - {root: d-r-kh, sense: "to hold fast, to keep", field: motion}
     - {root: f-n-d, sense: to go, field: motion}
     - {root: g-l-p, sense: "to haul, to draw", field: motion}
@@ -6774,6 +6812,7 @@ data:
     - {root: v-r-g, sense: "the far edge, the last reach", field: motion}
     - {root: b-r-th, sense: "to bear, to carry", field: motion}
     - {root: z-v-k, sense: "to be, to stand", field: motion}
+    - {root: d-r-m, sense: a seat; to sit, field: motion}
     - {root: f-dh-l, sense: the crossing from the world before; to cross over, field: motion}
     - {root: m-d-n, sense: the middle; what lies between, field: motion}
     - {root: dh-r-z, sense: "to walk away from, to abandon", field: motion}
@@ -6878,6 +6917,8 @@ Khazari is short and hard, a stone-cutter's tongue. Most of its words have two s
 **Built names.** A name of two skeletons is written as two parts joined by a dash, the thing first and the work second: _Dalk-thumár_, _Magar-thubád_. Each part is one or two syllables, and only the second carries the acute.
 
 **What Khazari leaves out.** No native word ends on a vowel except the particle _zi_, no part of a word has more than three syllables, and no frame has _e_ or _o_.
+
+**Said aloud.** In speech the short words come forward: the pronouns, the particles and the bare nouns are single blows, and the longer words fall between them with the stress where the acute stands. The gate-cry is three such blows and a built name, _Dalk! Bant! Tanv-guráz!_ (DALK! BANT! TANV-gu-RÁZ!), and the toast at a finished work is two words that share their skeleton, _Bamr bamír!_ (BAMR ba-MÍR!), "the work is well made". More are in the [[skill-khazarlng#phrasebook|phrasebook]].
 
 ## Phonology
 
@@ -7032,10 +7073,21 @@ Poetic inversion is permitted and is immediately recognisable as poetry.
 | `vogn` | pron  | they                                            |
 | `kedz` | dem   | this, these                                     |
 | `kodz` | dem   | that, those                                     |
+| `kelg` | dem   | here                                            |
+| `kolg` | dem   | there                                           |
 | `thuf` | part  | not; stands before the verb                     |
 | `zef`  | part  | closes a question                               |
+| `thiz` | part  | who? opens a question                           |
+| `thaz` | part  | what? opens a question                          |
+| `thuz` | part  | where? opens a question                         |
 | `bep`  | conj  | and                                             |
+| `duz`  | conj  | or                                              |
+| `gev`  | conj  | but                                             |
+| `hiz`  | conj  | if                                              |
 | `zi`   | rel   | who, which, that; opens a clause after its noun |
+| `nuv`  | part  | with, together with                             |
+| `lez`  | part  | also                                            |
+| `hez`  | part  | again                                           |
 
 The demonstratives take no suffix and stand before the noun and any adjective.
 
@@ -7053,6 +7105,8 @@ _kodz khalív dalk_
 
 _dalkir bep ramkir_
 : "the mason and the layer of courses"
+
+A question that asks who, what or where opens on _thiz_, _thaz_ or _thuz_ and takes no _zef_: _Thuz tanv?_ is "Where is the gate?". An answer may drop the words it repeats: _Zuvák_, "it stands", is yes, and _Thuf_, "not", is no.
 
 ### Numbers
 
@@ -7166,6 +7220,101 @@ _Ramk samíd, ramk thamír_
 _Dalík bant, maríg bant_
 : "Oath of stone, oath of bone" (the strongest form of undertaking)
 
+## Phrasebook {#phrasebook}
+
+These are the words a visitor needs at a hold's gate and in its courts. Each phrase is given with its sound, the stressed syllables in capitals and the unstressed short words in lower case, then a gloss word by word, then its meaning.
+
+Two habits run through them. Greeting and parting are a pair of stone-sayings: the one who speaks first names the stone, the one who answers names the course. And a request or an invitation is a question closed by _zef_, because the language has no form for a command.
+
+**Greeting a stranger, and the answer**
+
+_Dalk tasím._
+: DALK ta-SÍM — stone · sound — "The stone is sound." (Good day.)
+
+_Ramk tasím._
+: RAMK ta-SÍM — course · sound — "The course is sound." (The answer.)
+
+**An invitation to share a meal**
+
+_Ves mulágh nuv gazn zef?_
+: ves mu-LÁGH nuv gazn zef? — you · feast · with · us · (question) — "Will you share our meal?"
+
+**"Are you thirsty?", and an answer**
+
+_Ves taríg zef?_
+: ves ta-RÍG zef? — you · thirsty · (question) — "Are you thirsty?"
+
+_Zuvák, gaz taríg._
+: zu-VÁK, gaz ta-RÍG — it-stands · I · thirsty — "Yes, I am thirsty."
+
+**An invitation to sit and talk**
+
+_Ves durám bep gunádh nuv gaz zef?_
+: ves du-RÁM bep gu-NÁDH nuv gaz zef? — you · sit · and · speak · with · me · (question) — "Will you sit and talk with me?"
+
+**Thank you, and the answer**
+
+_Gaz huváz._
+: gaz hu-VÁZ — I · owe — "Thank you." (I owe you.)
+
+_Ves thuf huváz._
+: ves THUF hu-VÁZ — you · not · owe — "You're welcome." (You owe nothing.)
+
+**Farewell, and the answer**
+
+_Dalk durákh._
+: DALK du-RÁKH — stone · holds-fast — "The stone holds." (Farewell.)
+
+_Ramk durákh._
+: RAMK du-RÁKH — course · holds-fast — "The course holds." (The answer.)
+
+**Yes, no and please**
+
+_Zuvák._
+: zu-VÁK — it-stands — "Yes."
+
+_Thuf._
+: THUF — not — "No."
+
+_Halz, thubágh._
+: HALZ, thu-BÁGH — ale · an-asking — "Ale, please." _Thubágh_ follows the thing asked for.
+
+**"My name is…", and "What is your name?"**
+
+_Gaz Guruz, Tanv-guráz._
+: gaz GU-ruz, TANV-gu-RÁZ — I · Guruz · Tanv-guráz — "My name is Guruz, of Tanv-guráz." A Khazár gives the house with the name.
+
+_Thiz ves?_
+: THIZ ves? — who · you — "What is your name?" (Who are you?)
+
+**"Where is…?"**
+
+_Thuz tanv?_
+: THUZ TANV? — where · gate — "Where is the gate?" Any noun takes the place of _tanv_.
+
+**Excuse me**
+
+_Gaz tunáp._
+: gaz tu-NÁP — I · squeeze-through — "Excuse me," to get past someone in a passage.
+
+_Thubágh._
+: thu-BÁGH — an-asking — "Excuse me," to catch someone's attention.
+
+**I'm sorry**
+
+_Gaz thurágh; gaz munád._
+: gaz thu-RÁGH; gaz mu-NÁD — I · do-wrong · I · mend — "I'm sorry." (I did wrong; I will mend it.)
+
+**Really? and Truly**
+
+_Varn zef?_
+: VARN zef? — true-line · (question) — "Really?" Surprise or doubt at what someone has said.
+
+_Varn._
+: VARN — true-line — "Truly; honestly; indeed." Said after one's own words, to vouch for them.
+
+One word serves both of the last two uses: _varn_, the true line the rock runs. Asked with _zef_ it doubts; stated, it vouches.
+
 ## Related Languages
 
 Khazari is one of the **two surviving Elder Tongues**, descended from a **common Elder ancestor** shared with Sinale. The kinship is not audible. Sinale runs on open syllables, long vowels and a clean inventory; Khazari runs on clusters, short vowels and back fricatives, and nothing in the sound of either suggests the other.
@@ -7252,11 +7401,11 @@ House names have no gendered form at all. A woman of Dalk-thumár is of Dalk-thu
 
 ### Male Given Names
 
-Ramkan, Rimkin, Rumkun, Dalkan, Delken, Dolkon, Thamran, Thimrin, Thumrun, Kavalan, Kivalin, Sakaran, Sikarin, Sukarun, Nalpan, Nilpin, Nulpun, Galdan, Guldun, Khardan, Khirdin, Bataman, Butamun, Barthan, Birthin, Burthun, Multun, Miltin, Parnan, Pirnin, Zamdan, Zimdin, Bamgan, Bimgin, Bumgun, Khalvan, Khilvin, Ganvan, Gunvun, Palzan, Pilzin, Bantan, Bintin, Darkhan, Durkhun, Mirgin, Murgun, Dankan, Dunkun, Valdan, Vuldun, Gasvan, Gisvin, Halban, Hulbun, Garpan, Girpin, Balgan, Bulgun, Samdan, Simdin, Tabaran, Tubarun, Zanthan, Zunthun, Fardan, Furdun, Malnan, Milnin, Rabadan, Rubadun, Hamkan, Humkun, Talgan, Tilgin, Varnan, Vurnun, Tanvan, Tunvun, Lakaman, Lukamun, Hanthan, Hinthin, Rantan, Rintin, Salthan, Silthin, Garzan, Gurzun, Tamkan, Timkin, Khabanan, Khibanin, Gakalan, Gikalin
+Ramkan, Rimkin, Dalkan, Delken, Thamran, Thumrun, Kavalan, Sakaran, Sukarun, Nalpan, Nulpun, Galdan, Guldun, Khirdin, Khardan, Butamun, Birthin, Burthun, Miltin, Pirnin, Zamdan, Bamgan, Bimgin, Khalvan, Ganvan, Gunvun, Pilzin, Bintin, Darkhan, Mirgin, Dankan, Dunkun, Valdan, Vuldun, Gisvin, Hulbun, Garpan, Balgan, Samdan, Simdin, Tubarun, Zanthan, Fardan, Malnan, Milnin, Rubadun, Humkun, Talgan, Varnan, Tanvan, Tunvun, Lukamun, Hanthan, Rantan, Salthan, Silthin, Gurzun, Timkin, Khabanan, Gakalan
 
 ### Female Given Names
 
-Ramak, Rimik, Rumuk, Dalak, Delek, Dolok, Thimir, Thamar, Kivil, Sikir, Sukur, Nilip, Nulup, Galad, Gulud, Kharad, Khirid, Bitim, Butum, Barath, Buruth, Mulut, Milit, Paran, Pirin, Zamad, Zimid, Bamag, Bimig, Khuluv, Khiliv, Ganav, Palaz, Piliz, Bunut, Darakh, Durukh, Mirig, Murug, Danak, Dunuk, Valad, Gasav, Gisiv, Halab, Hulub, Garap, Girip, Balag, Bulug, Samad, Simid, Tibir, Tubur, Zanath, Zunuth, Farad, Furud, Malan, Milin, Ribid, Rubud, Hamak, Humuk, Talag, Tilig, Varan, Vurun, Tanav, Tunuv, Likim, Lukum, Hanath, Hunuth, Ranat, Rinit, Salath, Suluth, Garaz, Guruz, Tamak, Timik, Khibin, Gakal, Gikil
+Ramak, Rimik, Rumuk, Delek, Dolok, Thamar, Kivil, Sikir, Sukur, Nulup, Galad, Kharad, Khirid, Butum, Barath, Mulut, Milit, Pirin, Zamad, Bamag, Bimig, Khiliv, Ganav, Palaz, Piliz, Bunut, Darakh, Mirig, Murug, Dunuk, Valad, Gisiv, Halab, Garap, Girip, Bulug, Samad, Tibir, Tubur, Zunuth, Farad, Malan, Milin, Rubud, Hamak, Talag, Tilig, Vurun, Tanav, Likim, Lukum, Hunuth, Ranat, Salath, Suluth, Guruz, Tamak, Khibin, Gakal
 
 ### House Names (Patrilineal)
 

@@ -76,6 +76,27 @@ The Khazari built one thing that all their other work is measured against, and l
 
 The account of the fall is read aloud below in every hold at its appointed intervals. It explains the two things about the Khazari that a party will meet soonest. They have not spoken to the Sinale since. And they kill Grukar on sight, everywhere, without deliberation, knowing that the Grukar were compelled and chose none of it: their doctrine is prevention, and Grukar are ammunition.
 
+## A Few Words at the Gate
+
+A few words of Khazari carry a visitor through a gate. Greeting and parting are a pair of stone-sayings, the first speaker naming the stone and the answer naming the course:
+
+_Dalk tasím._
+: DALK ta-SÍM. "The stone is sound": good day. The answer is _Ramk tasím_, "the course is sound".
+
+_Dalk durákh._
+: DALK du-RÁKH. "The stone holds": farewell. The answer is _Ramk durákh_.
+
+_Gaz huváz._
+: gaz hu-VÁZ. "I owe": thank you. The answer is _Ves thuf huváz_, "you owe nothing".
+
+_Zuvák. Thuf._
+: zu-VÁK. THUF. Yes. No.
+
+_Gaz thurágh; gaz munád._
+: gaz thu-RÁGH; gaz mu-NÁD. "I did wrong; I will mend it": the apology, which promises the mending.
+
+The rest is in [[skill-khazarlng#phrasebook|the language's phrasebook]].
+
 ## At the Gate: Warnings
 
 - **Do not ask about the inner passages.** A Khazár asked how a hold runs inside simply stops talking.

@@ -177,6 +177,20 @@ In the ninth winter after the shudder, on the ninth day of the cold, the mountai
 
 In the record of the year of the finding 309, Dulkun of Khalv-gunáv's name stands with the mark of mastery and the one fault, and Suluth of Tabar-suláth's name stands on the hundred and third day, and Tanvan of Ramk-sumád's on the hundred and nineteenth, and the three stand on the same leaf. Lukum of Lakam-mulán wrote this in the order it happened and warrants it.
 
+Tanvan of Ramk-sumád lies in the burial hall of Magar-thubád. The words over his tomb are cut in carved Pirzath, the work with its verb last, as carved stone sets it:
+
+_Tanvan Ramk-sumád_
+: TAN-van RAMK-su-MÁD — Tanvan · Ramk-sumád — "Tanvan of Ramk-sumád."
+
+_Vog narv dulák_
+: vog NARV du-LÁK — he · tunnel · cut — "He cut the tunnel."
+
+_Narv zuvák; vog dubáz_
+: NARV zu-VÁK; vog du-BÁZ — tunnel · stands · he · lies-still — "The tunnel stands; he lies still."
+
+_Mardh nabít_
+: MARDH na-BÍT — name · remembered — "The name is remembered."
+
 ## See Also
 
 [[lore-khazariclt|Khazari]]

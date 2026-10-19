@@ -146,9 +146,20 @@ The Khazari keep no single founding scripture. Their artifacts are records and o
 
 - **The craft-records** of every hold, which name each worker against each cut, warrant each finished piece, and are the standing account of who listened and who forced.
 - **The warrant on the work.** A finished piece is signed, dated, specified and warranted in carved Pirzath on the object itself.
-- **Oaths cut in the deep.** An oath sworn below is carved where it was sworn. _Dalkith bant, margith bant_, "oath of stone, oath of bone", is the strongest form of undertaking.
+- **Oaths cut in the deep.** An oath sworn below is carved where it was sworn. _Dalík bant, maríg bant_, "oath of stone, oath of bone", is the strongest form of undertaking.
 - **The memorial objects**: the preserved tools and weapons of ancestors, which no outsider may touch.
 - **The account of the fall of Khazartúrn**, kept in the working archive of every hold and read aloud at intervals.
+
+A warrant is short. On a blade from a forge of Gald-vulád it reads:
+
+_Galdan Gald-vulád_
+: GAL-dan GALD-vu-LÁD — Galdan · Gald-vulád — "Galdan of Gald-vulád."
+
+_Kedz savadh zatíg_
+: kedz SA-vadh za-TÍG — this · blade · of-steel — "This blade is steel."
+
+_Gaz bumár; gaz fuvád_
+: gaz bu-MÁR; gaz fu-VÁD — I · make · I · warrant — "I made it; I warrant it."
 
 ## Craft as Prayer
 
@@ -167,7 +178,32 @@ The Khazari year is marked by the occasions on which the whole hold goes down.
 - **The reading of the account.** At its appointed intervals the account of Khazartúrn's fall is read aloud below. It is the hold's reminder of what it must prevent.
 - **Oath-days.** Undertakings that bind a house or a hold, the admission of an apprentice to strike, and the swearing of a worker to a house's craft are made below, and the oath is cut where it was spoken.
 
+A worker sworn to a house's craft swears at its forge, below, and the words are cut beside it:
+
+_Farz sudháv, dalk sudháv._
+: FARZ su-DHÁV, DALK su-DHÁV — forge · witnesses · stone · witnesses — "The forge is witness, the stone is witness."
+
+_Gaz bunát; bant durákh._
+: gaz bu-NÁT; BANT du-RÁKH — I · swear · oath · holds-fast — "I swear; the oath holds."
+
+_Hiz bant hulágh, galdod thufár mardh._
+: hiz BANT hu-LÁGH, GAL-dod thu-FÁR MARDH — if · oath · cracks · fire · burns-to-ash · name — "If the oath cracks, the fire burns the name to ash."
+
+_Dalík bant, maríg bant._
+: da-LÍK BANT, ma-RÍG BANT — of-stone · oath · of-bone · oath — "Oath of stone, oath of bone."
+
 Joy is ordinary and lives near the light. Marriages, namings and the finishing of a long work are celebrated in the courts on the face, with food from the gate, singing that carries along the passages, and the finished work shown to the hold.
+
+When a long work is shown to the hold, one voice gives the toast and the court answers it:
+
+_Bamr bamír!_
+: BAMR ba-MÍR! — work · well-made — "The work is well made!"
+
+_Gatharir tamík!_
+: ga-THA-rir ta-MÍK! — master · trusted — "The master is trusted!"
+
+_Gazn gulák nuv gatharir!_
+: gazn gu-LÁK nuv ga-THA-rir! — we · drink · with · master — "We drink with the master!"
 
 ## What the Record Holds Against a Name
 
@@ -192,6 +228,8 @@ Your house also pays into the hold's common stores: labor, a share of its work a
 The Khazari hold that the dead go down into the mountain's keeping, to the light that endures in deep places. What a person leaves behind is the work: every cut stays in the stone, and every cut stands to its maker's account for as long as the stone stands. A dead Khazár is answerable for a clumsy passage as long as the passage is walked.
 
 That belief makes the ordinary week. It is why every finished piece is signed and warranted, why a worker would rather leave a job undone than do it badly, why old work is repaired before new work is begun, and why the craft-records are kept with a care no human archive matches. It reaches inheritance: a house inherits its dead's tools as memorial objects and their unfinished work as an obligation. It reaches burial: the dead are laid deep, in tombs the hold prepares, with their names cut in carved Pirzath. And it reaches spending: a house spends its effort on keeping the dead's work sound and little on furnishing a tomb.
+
+The words cut over a tomb are few and in a fixed order: the name and the house, the work, the stone and the dead, and the name again. [[lore-longtunnel|The Long Tunnel]] gives the words over the tomb of Tanvan of Ramk-sumád.
 
 At a funeral the hold goes down and keeps silence over the dead, mullán. The silence is broken only by the words also said over finished work: _Ramk samíd, ramk thamír_, "the course is raised; the course is struck."
 
@@ -228,6 +266,17 @@ Help comes from the nearest ring first. A family short of bread in a lean month 
 Teaching works the same way. Say your house holds a forge, and you have the ear for reading a cave. Your own masters cannot teach what their craft does not hold, so a master of another house takes you as apprentice, and the payment is what the craft-record shows of you in the years after.
 
 Defense is the whole hold's charge: the watch on the approaches, the refuge and its stores, and the war against the [[lore-grukarfolk|Grukar]]. Kill a Grukar on sight, wherever you meet one, inside your own valleys or far beyond them. The Grukar are the weapon that destroyed Khazartúrn, and you have heard the account of that fall read aloud in the deep.
+
+At the gate the watch and the guard keep a call and an answer, and the third line is shouted by both:
+
+_Thiz durákh tanv?_
+: THIZ du-RÁKH TANV? — who · holds-fast · gate — "Who holds the gate?"
+
+_Gazn! Gazn durákh tanv!_
+: GAZN! gazn du-RÁKH TANV! — we · we · hold-fast · gate — "We do! We hold the gate!"
+
+_Dalk! Bant! Tanv-guráz!_
+: DALK! BANT! TANV-gu-RÁZ! — stone · oath · the-guarding-of-the-gate — "Stone! Oath! The guarding of the gate!"
 
 ## Clan, House and Line
 
