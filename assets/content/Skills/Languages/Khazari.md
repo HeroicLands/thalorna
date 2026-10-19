@@ -6918,7 +6918,7 @@ Khazari is short and hard, a stone-cutter's tongue. Most of its words have two s
 
 **What Khazari leaves out.** No native word ends on a vowel except the particle _zi_, no part of a word has more than three syllables, and no frame has _e_ or _o_.
 
-**Said aloud.** In speech the short words come forward: the pronouns, the particles and the bare nouns are single blows, and the longer words fall between them with the stress where the acute stands. The gate-cry is three such blows and a built name, _Dalk! Bant! Tanv-guráz!_ (DALK! BANT! TANV-gu-RÁZ!), and the toast at a finished work is two words that share their skeleton, _Bamr bamír!_ (BAMR ba-MÍR!), "the work is well made". More are in the [[skill-khazarlng#phrasebook|phrasebook]].
+**Said aloud.** In speech the short words come forward: the pronouns, the particles and the bare nouns are single blows, and the longer words fall between them with the stress where the acute stands. The gate-cry is three such blows and a built name, _Dalk. Bant. Tanv-guráz._ (DALK! BANT! TANV-gu-RÁZ!), and the toast at a finished work is two words that share their skeleton, _Bamr bamír._ (BAMR ba-MÍR!), "the work is well made". More are in the [[skill-khazarlng#phrasebook|phrasebook]].
 
 ## Phonology
 
@@ -7106,7 +7106,7 @@ _kodz khalív dalk_
 _dalkir bep ramkir_
 : "the mason and the layer of courses"
 
-A question that asks who, what or where opens on _thiz_, _thaz_ or _thuz_ and takes no _zef_: _Thuz tanv?_ is "Where is the gate?". An answer may drop the words it repeats: _Zuvák_, "it stands", is yes, and _Thuf_, "not", is no.
+A question that asks who, what or where opens on _thiz_, _thaz_ or _thuz_ and takes no _zef_: _Thuz tanv._ is "Where is the gate?". Written Khazari has no question mark: _zef_, or the question word that opens the sentence, is the mark of a question, and the sentence ends as any other does. An answer may drop the words it repeats: _Zuvák_, "it stands", is yes, and _Thuf_, "not", is no.
 
 ### Numbers
 
@@ -7159,7 +7159,7 @@ Inscription tradition
 : Used for what must last—oaths, laws, tombs and the founding of a hold—cut into stone, metal, or wood
 
 Diacritical marks
-: Notches, dots, and lines indicate the acute and the skeleton boundaries
+: A drilled dot over a vowel marks it long, and a short cut beneath a consonant marks it doubled. A dot divides words, a dash joins the two skeletons of a built name, a single cut along the grain ends a sentence, two such cuts, set before the words they govern, mark a command, and a short slanted cut marks a pause
 
 Formality variants
 : More elaborate, decorative versions for monuments or sacred texts
@@ -7205,7 +7205,7 @@ Inter-stronghold communication is maintained through formal written records and 
 _Vog dalkir, vog rummák ramk_
 : "He is a mason; he lays the course as a master does" (an introduction, and a claim to competence)
 
-_Thamr, dank; vald, varn_
+_Thamr, dank. Vald, varn._
 : "The blow, the hammer-fall; the binding, the true line" (a proverb: results follow method)
 
 _Dalkir sumág dalk, dalkir khusáp_
@@ -7236,12 +7236,12 @@ _Ramk tasím._
 
 **An invitation to share a meal**
 
-_Ves mulágh nuv gazn zef?_
+_Ves mulágh nuv gazn zef._
 : ves mu-LÁGH nuv gazn zef? — you · feast · with · us · (question) — "Will you share our meal?"
 
 **"Are you thirsty?", and an answer**
 
-_Ves taríg zef?_
+_Ves taríg zef._
 : ves ta-RÍG zef? — you · thirsty · (question) — "Are you thirsty?"
 
 _Zuvák, gaz taríg._
@@ -7249,7 +7249,7 @@ _Zuvák, gaz taríg._
 
 **An invitation to sit and talk**
 
-_Ves durám bep gunádh nuv gaz zef?_
+_Ves durám bep gunádh nuv gaz zef._
 : ves du-RÁM bep gu-NÁDH nuv gaz zef? — you · sit · and · speak · with · me · (question) — "Will you sit and talk with me?"
 
 **Thank you, and the answer**
@@ -7284,12 +7284,12 @@ _Halz, thubágh._
 _Gaz Guruz, Tanv-guráz._
 : gaz GU-ruz, TANV-gu-RÁZ — I · Guruz · Tanv-guráz — "My name is Guruz, of Tanv-guráz." A Khazár gives the house with the name.
 
-_Thiz ves?_
+_Thiz ves._
 : THIZ ves? — who · you — "What is your name?" (Who are you?)
 
 **"Where is…?"**
 
-_Thuz tanv?_
+_Thuz tanv._
 : THUZ TANV? — where · gate — "Where is the gate?" Any noun takes the place of _tanv_.
 
 **Excuse me**
@@ -7302,12 +7302,12 @@ _Thubágh._
 
 **I'm sorry**
 
-_Gaz thurágh; gaz munád._
+_Gaz thurágh, gaz munád._
 : gaz thu-RÁGH; gaz mu-NÁD — I · do-wrong · I · mend — "I'm sorry." (I did wrong; I will mend it.)
 
 **Really? and Truly**
 
-_Varn zef?_
+_Varn zef._
 : VARN zef? — true-line · (question) — "Really?" Surprise or doubt at what someone has said.
 
 _Varn._

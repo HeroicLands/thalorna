@@ -40,3 +40,7 @@ Far more widely held than pen literacy, and held by different people. A smith, a
 ## In play
 
 Carving is slow and stone is dear, so inscriptions are short, formulaic and heavily abbreviated—and durable, so what a character finds is frequently far older than anyone living, in a form of Nordmal their own fluency may not reach. Weathered work reads as a damaged or degraded document under the Script rules. The characteristic Thuravark hazard is not illegibility but mis-division: with no spaces between words, a confident reader with a middling Language Index will produce a smooth reading of something the carver never wrote.
+
+The sentence end is always the last mark of a sentence, outside a closing quotation mark or any other mark.
+
+A handout, a shield device or a banner shows a whole word or a name in the script, never a single stave standing alone. Several staves, seen on their own, share their shape with runes that are used as hate symbols; inside a word they read as letters.

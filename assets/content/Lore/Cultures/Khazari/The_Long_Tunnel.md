@@ -185,7 +185,7 @@ _Tanvan Ramk-sumád_
 _Vog narv dulák_
 : vog NARV du-LÁK — he · tunnel · cut — "He cut the tunnel."
 
-_Narv zuvák; vog dubáz_
+_Narv zuvák, vog dubáz_
 : NARV zu-VÁK; vog du-BÁZ — tunnel · stands · he · lies-still — "The tunnel stands; he lies still."
 
 _Mardh nabít_

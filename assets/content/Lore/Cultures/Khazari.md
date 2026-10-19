@@ -158,7 +158,7 @@ _Galdan Gald-vulád_
 _Kedz savadh zatíg_
 : kedz SA-vadh za-TÍG — this · blade · of-steel — "This blade is steel."
 
-_Gaz bumár; gaz fuvád_
+_Gaz bumár, gaz fuvád_
 : gaz bu-MÁR; gaz fu-VÁD — I · make · I · warrant — "I made it; I warrant it."
 
 ## Craft as Prayer
@@ -183,7 +183,7 @@ A worker sworn to a house's craft swears at its forge, below, and the words are 
 _Farz sudháv, dalk sudháv._
 : FARZ su-DHÁV, DALK su-DHÁV — forge · witnesses · stone · witnesses — "The forge is witness, the stone is witness."
 
-_Gaz bunát; bant durákh._
+_Gaz bunát, bant durákh._
 : gaz bu-NÁT; BANT du-RÁKH — I · swear · oath · holds-fast — "I swear; the oath holds."
 
 _Hiz bant hulágh, galdod thufár mardh._
@@ -196,13 +196,13 @@ Joy is ordinary and lives near the light. Marriages, namings and the finishing o
 
 When a long work is shown to the hold, one voice gives the toast and the court answers it:
 
-_Bamr bamír!_
+_Bamr bamír._
 : BAMR ba-MÍR! — work · well-made — "The work is well made!"
 
-_Gatharir tamík!_
+_Gatharir tamík._
 : ga-THA-rir ta-MÍK! — master · trusted — "The master is trusted!"
 
-_Gazn gulák nuv gatharir!_
+_Gazn gulák nuv gatharir._
 : gazn gu-LÁK nuv ga-THA-rir! — we · drink · with · master — "We drink with the master!"
 
 ## What the Record Holds Against a Name
@@ -269,13 +269,13 @@ Defense is the whole hold's charge: the watch on the approaches, the refuge and 
 
 At the gate the watch and the guard keep a call and an answer, and the third line is shouted by both:
 
-_Thiz durákh tanv?_
+_Thiz durákh tanv._
 : THIZ du-RÁKH TANV? — who · holds-fast · gate — "Who holds the gate?"
 
-_Gazn! Gazn durákh tanv!_
+_Gazn. Gazn durákh tanv._
 : GAZN! gazn du-RÁKH TANV! — we · we · hold-fast · gate — "We do! We hold the gate!"
 
-_Dalk! Bant! Tanv-guráz!_
+_Dalk. Bant. Tanv-guráz._
 : DALK! BANT! TANV-gu-RÁZ! — stone · oath · the-guarding-of-the-gate — "Stone! Oath! The guarding of the gate!"
 
 ## Clan, House and Line

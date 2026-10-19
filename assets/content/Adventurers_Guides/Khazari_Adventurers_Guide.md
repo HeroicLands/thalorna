@@ -92,7 +92,7 @@ _Gaz huváz._
 _Zuvák. Thuf._
 : zu-VÁK. THUF. Yes. No.
 
-_Gaz thurágh; gaz munád._
+_Gaz thurágh, gaz munád._
 : gaz thu-RÁGH; gaz mu-NÁD. "I did wrong; I will mend it": the apology, which promises the mending.
 
 The rest is in [[skill-khazarlng#phrasebook|the language's phrasebook]].
